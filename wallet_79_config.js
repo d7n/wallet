@@ -1,1 +1,1 @@
-var mnemonic = "organ foil hollow glimpse bitter eager legend drift fire couch garden occur";
+var mnemonic = "rack satisfy recall whisper space portion gauge bar warrior slice boost risk";

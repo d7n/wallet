@@ -1,1 +1,1 @@
-var mnemonic = "message build sort slam night then wood galaxy hill boat process repair";
+var mnemonic = "pride kite another jealous village island goddess gift shiver exclude cancel note";

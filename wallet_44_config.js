@@ -1,1 +1,1 @@
-var mnemonic = "gap lunch you rebuild act share violin destroy vocal neither cram zebra";
+var mnemonic = "earn welcome artefact artefact asset celery ahead soon scare slot tennis embody";

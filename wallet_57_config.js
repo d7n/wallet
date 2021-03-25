@@ -1,1 +1,1 @@
-var mnemonic = "raise include scare simple lift shock water art torch woman innocent provide";
+var mnemonic = "crane agent lab series fitness neither coin section fun become solve term";

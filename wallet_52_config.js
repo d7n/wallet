@@ -1,1 +1,1 @@
-var mnemonic = "lion later gain bamboo coast artefact current gas cave spring shrimp sand";
+var mnemonic = "dizzy trophy swarm spider mango affair spot income kick exact dove salute";

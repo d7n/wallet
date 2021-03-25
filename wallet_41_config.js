@@ -1,1 +1,1 @@
-var mnemonic = "reveal all loyal oven view crime anger pyramid shy balance desert dad";
+var mnemonic = "unable endless chalk ghost duck fix funny issue toss runway bind blade";

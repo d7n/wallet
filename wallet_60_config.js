@@ -1,1 +1,1 @@
-var mnemonic = "sail track wall arrive gentle sand clean race ball kiss art north";
+var mnemonic = "pole today prize garage scare fine nuclear fortune stage inmate afraid force";

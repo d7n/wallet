@@ -1,1 +1,1 @@
-var mnemonic = "stay topple clump fortune disagree celery voice mind february pelican horn genuine";
+var mnemonic = "step fiction fix hub sun salute guitar distance bench name front south";

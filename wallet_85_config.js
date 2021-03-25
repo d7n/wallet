@@ -1,1 +1,1 @@
-var mnemonic = "loud fee critic final shrimp hello neither emerge group melody hole upset";
+var mnemonic = "report thrive lizard dad casual horn pink power toddler spatial rail aunt";

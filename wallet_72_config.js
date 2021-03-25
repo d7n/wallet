@@ -1,1 +1,1 @@
-var mnemonic = "seminar upgrade note waste seek confirm balance youth crucial toilet opinion tourist";
+var mnemonic = "observe tunnel ladder coral trend tornado dolphin amount race news wave caution";

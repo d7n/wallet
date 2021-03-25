@@ -1,1 +1,1 @@
-var mnemonic = "buffalo speak bounce worth crime stone afford flower price kangaroo dizzy cause";
+var mnemonic = "mosquito boy letter excess rely tornado swift slender patch vacuum violin fun";

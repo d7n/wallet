@@ -1,1 +1,1 @@
-var mnemonic = "nurse boil huge spin harsh motion young force inhale gadget result fossil";
+var mnemonic = "breeze response clump brain exact enter wing mix gown shuffle reject pelican";

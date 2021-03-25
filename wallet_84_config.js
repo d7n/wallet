@@ -1,1 +1,1 @@
-var mnemonic = "chat wire oyster tail cargo coyote skin embody globe nuclear intact dose";
+var mnemonic = "rack remain width smart card help power find into normal again caution";

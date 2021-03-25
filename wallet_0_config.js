@@ -1,1 +1,1 @@
-var mnemonic = "birth you security bread physical above reform oyster swarm pulse model asthma";
+var mnemonic = "skin ring wedding predict guilt twelve smoke vessel legal hamster boil cake";

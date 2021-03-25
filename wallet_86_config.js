@@ -1,1 +1,1 @@
-var mnemonic = "gift inside bleak when purpose blade wild void stuff jump action episode";
+var mnemonic = "grass click lion tone strategy shoe rotate approve second innocent example visa";

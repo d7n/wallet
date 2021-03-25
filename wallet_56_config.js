@@ -1,1 +1,1 @@
-var mnemonic = "law text assist stock raw faint usual spatial town message half humor";
+var mnemonic = "crash page mango wear crowd broken memory other file equip cigar oven";

@@ -1,1 +1,1 @@
-var mnemonic = "shine absorb fence nurse can axis genre burden swamp uphold music insane";
+var mnemonic = "twin profit another dust hazard history panic behave music dumb cover vast";

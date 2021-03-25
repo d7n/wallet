@@ -1,1 +1,1 @@
-var mnemonic = "upon shadow wild erosion beach jeans slide radar joy festival moment floor";
+var mnemonic = "accuse layer crumble wonder peace medal squirrel cruel prepare inspire close rotate";

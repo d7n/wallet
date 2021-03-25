@@ -1,1 +1,1 @@
-var mnemonic = "battle crop tool patch whip coyote initial pool danger green merry climb";
+var mnemonic = "captain certain left spirit head south pizza earn pilot pear robust spy";

@@ -1,1 +1,1 @@
-var mnemonic = "admit sustain castle renew garment there brave rice adapt conduct moon speed";
+var mnemonic = "interest artwork mother deliver purchase march venture snake zoo wood craft name";

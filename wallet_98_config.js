@@ -1,1 +1,1 @@
-var mnemonic = "sure car render license riot raccoon salon devote crisp rabbit pipe bunker";
+var mnemonic = "blossom hundred planet maid fit public palm ostrich isolate broken hour embody";

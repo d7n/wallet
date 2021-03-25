@@ -1,1 +1,1 @@
-var mnemonic = "prosper copper muscle alley cupboard seek excite final drill army embody edit";
+var mnemonic = "crouch frog step marriage stumble tank idle benefit elegant weapon honey bunker";

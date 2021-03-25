@@ -1,1 +1,1 @@
-var mnemonic = "potato purse front potato lion sting animal share flip affair fox plastic";
+var mnemonic = "leaf knife guess alpha deny outside toddler meadow walnut demise frost ocean";

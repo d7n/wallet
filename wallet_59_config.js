@@ -1,1 +1,1 @@
-var mnemonic = "program setup abuse liberty movie rubber choose hamster digital pyramid always point";
+var mnemonic = "nerve intact siren eight rent tribe drift crime horn sea planet into";

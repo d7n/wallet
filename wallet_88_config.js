@@ -1,1 +1,1 @@
-var mnemonic = "marine someone elephant valve connect guess dial skirt wolf chicken couch jelly";
+var mnemonic = "shed size dose maximum hospital crunch curious egg fiber bracket keen doctor";

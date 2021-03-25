@@ -1,1 +1,1 @@
-var mnemonic = "hat volume toddler another carpet rifle tool blur door buddy high brown";
+var mnemonic = "police napkin forward humble faith hat hazard roast antenna slogan say reform";

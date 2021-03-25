@@ -1,1 +1,1 @@
-var mnemonic = "weather fox must doll question fabric high world object soul resist tiny";
+var mnemonic = "gun early door canvas wrist drama year record captain increase digital bright";

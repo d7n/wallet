@@ -1,1 +1,1 @@
-var mnemonic = "cream lion injury twelve essence forest mother multiply churn edit economy limb";
+var mnemonic = "axis moment velvet false series step weasel concert burger trumpet canal gate";

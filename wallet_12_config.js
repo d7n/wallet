@@ -1,1 +1,1 @@
-var mnemonic = "amount depart regular bind area drip size reopen expand fiscal remember abandon";
+var mnemonic = "collect flee swing buffalo mobile benefit emotion tag harsh craft rule brief";

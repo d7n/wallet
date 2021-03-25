@@ -1,1 +1,1 @@
-var mnemonic = "dance silver thank polar supreme mass rotate regular popular cricket soap kid";
+var mnemonic = "notice veteran siege eye mosquito chaos lemon filter april bike laptop option";

@@ -1,1 +1,1 @@
-var mnemonic = "obey setup make throw glow message calm junk violin tuna walnut stool";
+var mnemonic = "copy shrimp grunt easy rebuild shine outside witness magnet runway calm cinnamon";

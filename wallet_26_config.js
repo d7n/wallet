@@ -1,1 +1,1 @@
-var mnemonic = "reveal cactus creek party stock pyramid trophy merge joy pupil speak sugar";
+var mnemonic = "have pave hedgehog tone age flavor unfair general regret differ paper nest";

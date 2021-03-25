@@ -1,1 +1,1 @@
-var mnemonic = "still success angry post popular moment hobby cool winner spread mandate gather";
+var mnemonic = "stumble prosper feed surprise pact cram typical badge coin blossom lottery happy";

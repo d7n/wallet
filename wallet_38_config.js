@@ -1,1 +1,1 @@
-var mnemonic = "okay thunder domain weather farm train rail cluster arrive repair craft coffee";
+var mnemonic = "board author pulse plastic dumb leader raw cricket crystal pistol real dance";

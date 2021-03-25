@@ -1,1 +1,1 @@
-var mnemonic = "crew tornado egg observe warfare clutch theme turtle film swim faculty scrap";
+var mnemonic = "business before amazing exchange chronic chalk arctic lion topic unusual code lawn";

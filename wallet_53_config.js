@@ -1,1 +1,1 @@
-var mnemonic = "lunch relief poet unable monkey rigid perfect moon joke mercy spice future";
+var mnemonic = "treat love version please process whip clinic inflict year convince oxygen run";

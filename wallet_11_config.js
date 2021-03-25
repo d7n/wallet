@@ -1,1 +1,1 @@
-var mnemonic = "manage term kitten fluid rigid fever food flower hope habit fiction shiver";
+var mnemonic = "flip night sudden belt soup chair marble unaware bike manual dawn march";

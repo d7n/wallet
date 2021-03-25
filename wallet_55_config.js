@@ -1,1 +1,1 @@
-var mnemonic = "penalty expect celery celery boil loop tragic proof exchange code argue economy";
+var mnemonic = "section foil planet make basket cherry phrase caution gesture topic trend taxi";

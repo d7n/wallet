@@ -1,1 +1,1 @@
-var mnemonic = "unique pair vivid divorce flush urge mushroom legend wagon aspect warfare pact";
+var mnemonic = "gaze foil miracle exclude clerk icon skull tone expand borrow abandon depth";

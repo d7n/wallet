@@ -1,1 +1,1 @@
-var mnemonic = "pupil airport skill woman asset enforce salt review blanket nasty paddle exit";
+var mnemonic = "race elder tumble banner matter shift major empty image this trick mind";

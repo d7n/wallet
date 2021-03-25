@@ -1,1 +1,1 @@
-var mnemonic = "mixed void mimic venture pyramid doctor trade pottery six argue armor anchor";
+var mnemonic = "behave mercy skill destroy tortoise pencil egg inform prison point buzz wing";

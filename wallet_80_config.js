@@ -1,1 +1,1 @@
-var mnemonic = "rail click electric crunch fantasy defense urban happy forget nothing convince grow";
+var mnemonic = "flavor dial kiwi capable artist toilet soda piece hill oval battle predict";

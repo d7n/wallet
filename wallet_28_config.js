@@ -1,1 +1,1 @@
-var mnemonic = "elevator cute wreck stable author inform neck cover essence series stay trumpet";
+var mnemonic = "beach lizard tumble stem table elite common purpose subway top bicycle valid";

@@ -1,1 +1,1 @@
-var mnemonic = "gym pool grunt train stomach awesome skill scene sport exercise below select";
+var mnemonic = "mimic surprise damp green faculty note immense artist giraffe tonight exercise admit";

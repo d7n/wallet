@@ -1,1 +1,1 @@
-var mnemonic = "route chapter other receive left build learn circle struggle ordinary spider fire";
+var mnemonic = "pelican material derive appear piano police people position bicycle squirrel strong marble";

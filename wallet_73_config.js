@@ -1,1 +1,1 @@
-var mnemonic = "music wedding ugly rookie hurdle follow grant parent want oak modify rabbit";
+var mnemonic = "coyote present assault sponsor swim wisdom flush absorb liquid crane energy lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "all upper select pigeon struggle guitar reduce adjust pull orchard mutual dutch";
+var mnemonic = "track napkin popular iron simple simple blush step zoo entire flush weapon";

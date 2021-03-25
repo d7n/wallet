@@ -1,1 +1,1 @@
-var mnemonic = "coach civil brain panel there turtle garbage settle shaft hockey strategy resemble";
+var mnemonic = "box modify material second game drip magnet health hill plunge holiday can";

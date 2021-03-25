@@ -1,1 +1,1 @@
-var mnemonic = "control truth visual filter skull defense exit budget upon please wheel ceiling";
+var mnemonic = "scrub merge soap tunnel capable thought palace atom pen vacuum say notice";

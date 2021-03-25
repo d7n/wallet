@@ -1,1 +1,1 @@
-var mnemonic = "put miracle demand blast cushion clip media manual unique thrive idea present";
+var mnemonic = "poem little bracket shield make cry ice veteran snap invite furnace essay";

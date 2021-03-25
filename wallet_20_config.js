@@ -1,1 +1,1 @@
-var mnemonic = "panic system review balance captain major mean mixed timber apology crater boss";
+var mnemonic = "merge shy leg almost clerk mushroom explain bar prefer endless sick excite";

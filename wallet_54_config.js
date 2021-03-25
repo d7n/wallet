@@ -1,1 +1,1 @@
-var mnemonic = "advice nose flash dad earn address flavor teach farm vehicle suit double";
+var mnemonic = "build project explain hotel same maximum depend strike debate fetch acquire range";

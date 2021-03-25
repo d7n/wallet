@@ -1,1 +1,1 @@
-var mnemonic = "medal suit tattoo inmate antique slush minute involve leopard demise drift fee";
+var mnemonic = "practice witness keen narrow jaguar sound wrist shine diet age math staff";

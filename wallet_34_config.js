@@ -1,1 +1,1 @@
-var mnemonic = "deliver address book butter major merge wrap shadow canal gauge tiger only";
+var mnemonic = "second bring negative arch raise dance okay pistol myself girl donkey focus";

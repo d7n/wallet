@@ -1,1 +1,1 @@
-var mnemonic = "excuse surge draft enroll final bunker valley slush enact benefit boss shuffle";
+var mnemonic = "credit scout patient ice loud nurse today flat soldier since produce shaft";

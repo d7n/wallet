@@ -1,1 +1,1 @@
-var mnemonic = "pupil timber infant bulk often brief other amazing cradle extra toward ribbon";
+var mnemonic = "tissue slice check flat mind eternal drum deposit suspect settle old image";

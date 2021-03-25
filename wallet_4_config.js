@@ -1,1 +1,1 @@
-var mnemonic = "program adult dawn fat scheme habit affair affair acoustic wage trap scissors";
+var mnemonic = "buyer trip tackle rubber adapt uncover tilt green earn crash observe fiber";

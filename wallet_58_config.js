@@ -1,1 +1,1 @@
-var mnemonic = "cattle veteran stairs need rubber fault over fork mad flock birth cinnamon";
+var mnemonic = "cash slide mesh hundred bamboo ghost occur reject glare cabbage rival photo";

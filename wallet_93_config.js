@@ -1,1 +1,1 @@
-var mnemonic = "adult title bench attract cushion time owner client allow home bracket survey";
+var mnemonic = "theory fatigue damp happy favorite cinnamon smooth tent frozen when mirror total";

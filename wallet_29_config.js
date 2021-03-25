@@ -1,1 +1,1 @@
-var mnemonic = "path south track prefer resemble local bulb sadness vacant upgrade cabin tunnel";
+var mnemonic = "become twelve citizen pond hold grunt dawn virus dose since foot indicate";

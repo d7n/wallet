@@ -1,1 +1,1 @@
-var mnemonic = "kid caution attract pause veteran february bread token junior arrest eyebrow paper";
+var mnemonic = "penalty vapor grain year pear reward make swear snap cousin strong provide";

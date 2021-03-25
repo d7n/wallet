@@ -1,1 +1,1 @@
-var mnemonic = "cup venue tooth improve usage artist update crush modify wait snake festival";
+var mnemonic = "debris potato habit solution rhythm robust phone mystery small illness lucky chaos";

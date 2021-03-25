@@ -1,1 +1,1 @@
-var mnemonic = "climb riot tomorrow torch better staff gentle antenna remind cabin illegal catch";
+var mnemonic = "rely demand creek dice seed plate later debate february matter glimpse stamp";

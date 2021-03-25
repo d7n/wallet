@@ -1,1 +1,1 @@
-var mnemonic = "youth glory crack upgrade universe reduce canal turkey ivory alien link collect";
+var mnemonic = "fancy onion reform brown spoil chalk response dust maple animal slice lesson";

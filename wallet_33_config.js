@@ -1,1 +1,1 @@
-var mnemonic = "tragic spring hammer absent hurry polar west cake input turkey aspect embody";
+var mnemonic = "art animal farm captain snow release drill movie since icon parrot tobacco";

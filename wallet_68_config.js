@@ -1,1 +1,1 @@
-var mnemonic = "season normal woman waste make segment easily clinic mule obvious promote crush";
+var mnemonic = "join leader void benefit soft bring lucky library inform clog inhale ankle";

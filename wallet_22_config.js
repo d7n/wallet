@@ -1,1 +1,1 @@
-var mnemonic = "people jacket finger balance glory inject possible absent hunt asset camp soft";
+var mnemonic = "gospel minimum this canvas chaos neck purity sting garage general tornado predict";

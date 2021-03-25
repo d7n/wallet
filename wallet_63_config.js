@@ -1,1 +1,1 @@
-var mnemonic = "dove chapter must garlic wedding foil embark plastic narrow insect mimic rent";
+var mnemonic = "swarm supreme cream sad chair process crystal tiger cruise tonight mandate curve";

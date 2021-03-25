@@ -1,1 +1,1 @@
-var mnemonic = "distance pond smoke fortune admit alone lamp job donkey bullet believe reform";
+var mnemonic = "shift theory repeat van boat scorpion bunker suit sad special burst pottery";

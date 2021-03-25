@@ -1,1 +1,1 @@
-var mnemonic = "cage consider level ivory fence tuition own glove admit aisle oppose galaxy";
+var mnemonic = "merry betray useless behind hover term envelope trophy cute brisk dragon wild";

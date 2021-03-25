@@ -1,1 +1,1 @@
-var mnemonic = "demise fly glory liberty clog sock flat follow online fatigue art dwarf";
+var mnemonic = "jaguar unusual circle stairs gift dynamic tragic stand crew clinic prevent bulb";

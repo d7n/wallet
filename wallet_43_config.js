@@ -1,1 +1,1 @@
-var mnemonic = "margin melody item cause build report north broccoli giant unfair disagree nurse";
+var mnemonic = "lyrics slender found naive club deal suspect leg clever narrow rough spin";

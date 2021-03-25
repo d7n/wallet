@@ -1,1 +1,1 @@
-var mnemonic = "burden indicate artwork staff also shuffle vanish pool equal clip voice mistake";
+var mnemonic = "label banana increase glove room artefact bamboo cash domain common bring upon";

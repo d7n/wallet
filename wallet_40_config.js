@@ -1,1 +1,1 @@
-var mnemonic = "device napkin donate top model record exist moral chimney lottery mother ahead";
+var mnemonic = "arctic come pigeon stadium random stomach tunnel once rival enrich tent bounce";

@@ -1,1 +1,1 @@
-var mnemonic = "desert story area dirt sport oil diagram leave whip goat bonus paper";
+var mnemonic = "truly junior color laptop buyer bullet fun enlist inflict fade decade volcano";

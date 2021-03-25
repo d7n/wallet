@@ -1,1 +1,1 @@
-var mnemonic = "used gallery hole grid tonight wrong pistol police grass nuclear fancy away";
+var mnemonic = "gorilla upper art worry outer sound truck child rapid box save adult";

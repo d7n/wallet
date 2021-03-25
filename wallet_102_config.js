@@ -1,1 +1,1 @@
-var mnemonic = "uncle choice sunny coin immune hidden dignity exotic cactus address method excuse";
+var mnemonic = "knee common soul find moment prefer inform attract soup journey bamboo bicycle";

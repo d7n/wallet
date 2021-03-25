@@ -1,1 +1,1 @@
-var mnemonic = "unfair father marble horror wagon next custom nose message first angry marble";
+var mnemonic = "letter castle illegal cargo regular ensure toss main wait usage steel present";

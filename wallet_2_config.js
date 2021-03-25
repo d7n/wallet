@@ -1,1 +1,1 @@
-var mnemonic = "input tennis lab spider elder have sad faith despair wheel accuse mountain";
+var mnemonic = "vicious dirt west thumb potato among certain health off recycle luggage please";

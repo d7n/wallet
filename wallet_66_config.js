@@ -1,1 +1,1 @@
-var mnemonic = "team grunt vast pledge casual car image frame damp airport awesome helmet";
+var mnemonic = "basic local shoe hello observe dad shy throw rich immune slam choice";

@@ -1,1 +1,1 @@
-var mnemonic = "legend measure session two notable tornado basic person rival echo ethics negative";
+var mnemonic = "order benefit arctic scene shift earth brush unhappy buzz claim purchase kiss";

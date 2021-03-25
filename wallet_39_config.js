@@ -1,1 +1,1 @@
-var mnemonic = "kid health drive asset balcony quantum advice evil chapter wait stumble crystal";
+var mnemonic = "soon uniform surge ship tunnel siege dune cheese midnight shaft retreat biology";

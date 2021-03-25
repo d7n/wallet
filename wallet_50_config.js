@@ -1,1 +1,1 @@
-var mnemonic = "basket shrug wife raven breeze offer night daring sting scan tiger unfair";
+var mnemonic = "setup fashion dwarf can olympic cloth force valid dress iron swamp layer";

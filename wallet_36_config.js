@@ -1,1 +1,1 @@
-var mnemonic = "fly effort car voyage pave ranch hour cart trouble donkey scatter catch";
+var mnemonic = "mystery frog again hello boy lawsuit tattoo sniff potato fabric such expect";

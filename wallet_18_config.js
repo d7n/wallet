@@ -1,1 +1,1 @@
-var mnemonic = "job tragic anger unveil delay there okay better female film depend caught";
+var mnemonic = "industry north grace color original future sheriff ill silent chronic canal inner";

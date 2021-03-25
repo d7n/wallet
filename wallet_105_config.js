@@ -1,1 +1,1 @@
-var mnemonic = "foster case measure modify segment exhibit employ usual way armed timber pumpkin";
+var mnemonic = "system scout improve gun gentle coil link slogan rude egg usage tattoo";

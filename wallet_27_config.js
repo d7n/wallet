@@ -1,1 +1,1 @@
-var mnemonic = "oil valve own dry soda machine thunder eyebrow jazz bind initial share";
+var mnemonic = "top clarify joy collect below exhibit feel depart wrist fantasy borrow satisfy";

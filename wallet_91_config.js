@@ -1,1 +1,1 @@
-var mnemonic = "topple marine glare forward verb scene skin laptop code combine wait during";
+var mnemonic = "remain acid shed bronze giant leave must sword vote cute bundle secret";

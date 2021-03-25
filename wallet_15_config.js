@@ -1,1 +1,1 @@
-var mnemonic = "clip dynamic list habit result ranch flavor actress hint real allow cherry";
+var mnemonic = "gravity guitar coach business distance review slush food make sell scissors enjoy";

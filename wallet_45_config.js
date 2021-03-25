@@ -1,1 +1,1 @@
-var mnemonic = "spray melt sphere lesson era sorry resource latin flock verb crumble verb";
+var mnemonic = "potato awesome arena cat old jungle topic bargain juice scene cheese baby";

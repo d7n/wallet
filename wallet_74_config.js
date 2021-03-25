@@ -1,1 +1,1 @@
-var mnemonic = "trim divide limit hope soap shoulder cigar battle chimney science nice jacket";
+var mnemonic = "leaf member cliff worry inner poem input practice wave cost yard arch";

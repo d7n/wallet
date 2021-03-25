@@ -1,1 +1,1 @@
-var mnemonic = "earth nest change rural crush seminar first human split this minor major";
+var mnemonic = "forum initial bird flee settle funny relax okay fan clip enhance tooth";

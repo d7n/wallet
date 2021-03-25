@@ -1,1 +1,1 @@
-var mnemonic = "elephant mule immune clever scare fancy topic tuition reopen opera piece fix";
+var mnemonic = "upon release piece usual corn sick horse ankle avocado creek cram prepare";
