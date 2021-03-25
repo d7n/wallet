@@ -1,1 +1,1 @@
-var mnemonic = "decrease repeat buzz minimum farm remind mandate shallow soft loop net rack";
+var mnemonic = "horror boost series height crew news lemon fuel cash risk fold impulse";

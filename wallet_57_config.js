@@ -1,1 +1,1 @@
-var mnemonic = "forward pear paper tape dawn argue indoor cruise consider hunt rally license";
+var mnemonic = "gym deal defense resource crisp twin ostrich settle toilet dragon ignore half";

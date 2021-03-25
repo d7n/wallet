@@ -1,1 +1,1 @@
-var mnemonic = "maple message slam dance edge riot reunion uncover volume habit oxygen must";
+var mnemonic = "pen merge breeze enhance cash exit mouse reward rough man effort account";

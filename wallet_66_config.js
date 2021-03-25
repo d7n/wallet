@@ -1,1 +1,1 @@
-var mnemonic = "outer decide offer lizard require visual marine tank remember lottery mango bulb";
+var mnemonic = "wait disorder feature idle chest certain judge effort carry congress process gentle";

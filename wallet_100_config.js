@@ -1,1 +1,1 @@
-var mnemonic = "arch plug accuse uncle wise turn food forest border text pen umbrella";
+var mnemonic = "elite also happy upset tunnel peace weather night legend recipe inject choose";

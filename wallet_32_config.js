@@ -1,1 +1,1 @@
-var mnemonic = "drive runway craft future bus frost ring achieve stone metal merit move";
+var mnemonic = "noodle example pony gather depart bonus lunch saddle clerk virus try rely";

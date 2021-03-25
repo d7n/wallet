@@ -1,1 +1,1 @@
-var mnemonic = "soldier jewel supreme chalk girl million subway piece chair assume you oppose";
+var mnemonic = "fiscal hedgehog tackle amused spot tackle shoot across lake famous level trim";

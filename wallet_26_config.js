@@ -1,1 +1,1 @@
-var mnemonic = "room circle anchor ensure agent juice member advice also vocal enough ethics";
+var mnemonic = "shrimp celery retreat sail mercy unveil swing finger weird final athlete tribe";

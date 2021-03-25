@@ -1,1 +1,1 @@
-var mnemonic = "broom ugly sugar gun pulse embrace winter humor equip air mule merge";
+var mnemonic = "border glimpse happy floor much major gasp lobster annual ceiling naive panel";

@@ -1,1 +1,1 @@
-var mnemonic = "loud proof reject extend sea oil trophy tissue north gospel trophy expand";
+var mnemonic = "black weird acquire gorilla secret chapter devote ski scene forum ginger clever";

@@ -1,1 +1,1 @@
-var mnemonic = "boring hood lake original chair ten ball surface cake soldier else mango";
+var mnemonic = "poet depend narrow laptop wire glow carbon now face vital what link";

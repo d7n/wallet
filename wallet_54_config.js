@@ -1,1 +1,1 @@
-var mnemonic = "shy believe echo prosper bundle belt arrange ocean health december leaf reform";
+var mnemonic = "sail jungle truck badge today fetch rocket taste pause spatial renew syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado cactus movie camp breeze witness humor bird february lunch share tornado";
+var mnemonic = "unusual baby step remember cart cover nurse trim dish castle elegant trade";

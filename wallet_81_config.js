@@ -1,1 +1,1 @@
-var mnemonic = "chuckle half hybrid drastic travel vessel twelve humor loop festival room clip";
+var mnemonic = "plunge refuse amount they ramp verify blue six prosper unique settle mansion";

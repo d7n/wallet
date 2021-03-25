@@ -1,1 +1,1 @@
-var mnemonic = "hat possible dignity apple buyer curtain inner drift silly vivid twice pig";
+var mnemonic = "lend when bar cry salmon luggage aspect sample pony glow scout enrich";

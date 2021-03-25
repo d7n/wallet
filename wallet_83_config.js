@@ -1,1 +1,1 @@
-var mnemonic = "runway trend capable brisk violin section plastic snow version knee ladder typical";
+var mnemonic = "fun sight dove canyon bullet must shop drop battle magic garment thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "visa tunnel core south shove bird also property already security stick grace";
+var mnemonic = "camp myself taste drama diagram work defense wheat slide work scale plug";

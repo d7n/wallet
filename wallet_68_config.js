@@ -1,1 +1,1 @@
-var mnemonic = "satoshi exercise load eternal tilt advance fame foam near energy hover ethics";
+var mnemonic = "aerobic genre swear angle draft cement scene nation fade elder organ purse";

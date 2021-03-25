@@ -1,1 +1,1 @@
-var mnemonic = "forest input view protect bachelor measure army load carpet obtain gossip sting";
+var mnemonic = "until deal tragic pizza coast orange verb brass mercy forum spike high";

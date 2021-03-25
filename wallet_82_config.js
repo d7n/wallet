@@ -1,1 +1,1 @@
-var mnemonic = "possible agree minor stable possible basket mystery venue peanut patrol deal pull";
+var mnemonic = "entry slim mandate lens tube sea slender current resemble salt truth remember";

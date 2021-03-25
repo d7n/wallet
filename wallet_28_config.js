@@ -1,1 +1,1 @@
-var mnemonic = "all naive snake process repeat announce joy child upon chronic matrix merit";
+var mnemonic = "annual expect honey prepare jelly forget skate slush grab tooth equal harsh";

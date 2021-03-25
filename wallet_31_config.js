@@ -1,1 +1,1 @@
-var mnemonic = "company wrong rigid permit heart fog moment accident install stone surround mutual";
+var mnemonic = "two security section vehicle dizzy tongue twenty memory citizen twice velvet bamboo";

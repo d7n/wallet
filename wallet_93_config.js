@@ -1,1 +1,1 @@
-var mnemonic = "artwork say assist family ivory turkey hover moment father rug couple acoustic";
+var mnemonic = "cheese twist believe trophy palace artist only hood city enter glance mercy";

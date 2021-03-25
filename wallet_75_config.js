@@ -1,1 +1,1 @@
-var mnemonic = "fall develop minor punch ritual medal enemy organ afford wonder used coffee";
+var mnemonic = "walk quote truck control december oblige ocean lumber cherry job heart panda";

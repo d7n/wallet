@@ -1,1 +1,1 @@
-var mnemonic = "father purchase age wrong metal index toe able ring picnic crumble cargo";
+var mnemonic = "unusual salon critic circle angle whisper episode small people acoustic alert bubble";

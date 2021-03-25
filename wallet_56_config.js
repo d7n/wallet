@@ -1,1 +1,1 @@
-var mnemonic = "repeat cinnamon bullet draw escape extra traffic calm table april joke always";
+var mnemonic = "either weather wide kit confirm february invest cream hockey sponsor border wet";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness equip glow exhibit case sell lamp stick suit stool aisle engage";
+var mnemonic = "dream spring say room shrimp include art loyal misery object harvest pill";

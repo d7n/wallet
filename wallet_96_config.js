@@ -1,1 +1,1 @@
-var mnemonic = "material doll person moment promote result holiday junior stick edit together merge";
+var mnemonic = "marriage onion brand fossil witness picnic super elevator powder vehicle recall abuse";

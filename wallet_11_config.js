@@ -1,1 +1,1 @@
-var mnemonic = "office motor donate focus wall attitude remember web shoot opinion dumb hole";
+var mnemonic = "spread photo glow lawn agree catalog mercy net spider whip arrow position";

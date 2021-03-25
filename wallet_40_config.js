@@ -1,1 +1,1 @@
-var mnemonic = "mask fox castle update member tackle clip cupboard moment notable make people";
+var mnemonic = "ocean identify unaware license mail million neck someone stable medal again nerve";

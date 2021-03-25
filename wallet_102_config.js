@@ -1,1 +1,1 @@
-var mnemonic = "assault smart genius light normal fury change can boring cry thunder drink";
+var mnemonic = "autumn matter velvet measure coin turkey pigeon invite verify door anger adjust";

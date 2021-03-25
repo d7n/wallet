@@ -1,1 +1,1 @@
-var mnemonic = "sausage milk medal draft rubber vote food screen bike smile token pistol";
+var mnemonic = "account twice bean ocean chaos kitchen canyon second tongue pear boil notable";

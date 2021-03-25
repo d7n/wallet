@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon desk picture hammer input upgrade lion empty harbor ridge diagram culture";
+var mnemonic = "choice wrist antenna someone domain elegant kiss negative farm illness diamond barely";

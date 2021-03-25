@@ -1,1 +1,1 @@
-var mnemonic = "eagle divorce acoustic hip silver upset crazy jar ordinary judge auction rose";
+var mnemonic = "scrub avocado filter sphere point wing immune stamp liberty gentle gas curve";

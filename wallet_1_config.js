@@ -1,1 +1,1 @@
-var mnemonic = "absorb account upper combine giraffe forget asthma easily world spare skirt spoil";
+var mnemonic = "famous sweet beef alert iron bullet minimum ocean reject canoe laundry educate";

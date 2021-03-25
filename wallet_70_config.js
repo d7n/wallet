@@ -1,1 +1,1 @@
-var mnemonic = "mechanic soccer thrive lunar foil frame two potato steak wish flash midnight";
+var mnemonic = "scale forward east wreck rebuild employ recipe sign jeans armor above basic";

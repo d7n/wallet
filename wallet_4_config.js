@@ -1,1 +1,1 @@
-var mnemonic = "auto action blind humble modify soft yard dutch vital horror jaguar melt";
+var mnemonic = "define pause small barely taste head stereo pact aisle forget speed apology";

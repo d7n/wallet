@@ -1,1 +1,1 @@
-var mnemonic = "wall veteran struggle gold cattle expect match vacuum tonight bus ordinary scorpion";
+var mnemonic = "average border also gospel knock knee topic remember rain achieve lava smooth";

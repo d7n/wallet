@@ -1,1 +1,1 @@
-var mnemonic = "myself mechanic dizzy warm tone skate chuckle focus fit salon health cherry";
+var mnemonic = "symptom diary furnace say gospel ill praise gift three fruit boat better";

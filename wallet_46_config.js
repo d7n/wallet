@@ -1,1 +1,1 @@
-var mnemonic = "dash alarm give slot lyrics away anxiety lizard whip snap wet dose";
+var mnemonic = "hurt motor charge category concert daughter pet pact word organ fence advice";

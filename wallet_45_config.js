@@ -1,1 +1,1 @@
-var mnemonic = "spin cake letter couch spot occur thank feature claim industry fruit act";
+var mnemonic = "panic escape clean pulp tray meat cry disease sauce lava frown anger";

@@ -1,1 +1,1 @@
-var mnemonic = "cloud adult stereo pitch buzz tide swamp display rude wheel prosper purse";
+var mnemonic = "reform volume recall monitor regular tape narrow mobile junior priority team author";

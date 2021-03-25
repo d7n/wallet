@@ -1,1 +1,1 @@
-var mnemonic = "rose voyage grit spoil velvet forum gossip card forum face already provide";
+var mnemonic = "ketchup swamp broom negative survey stomach artist monitor someone ghost canoe hope";

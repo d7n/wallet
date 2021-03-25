@@ -1,1 +1,1 @@
-var mnemonic = "peace witness pumpkin inquiry piano near mouse vintage imitate cherry cheap future";
+var mnemonic = "muffin bus quarter fashion fly warm typical capital blood orphan relax gold";

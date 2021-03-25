@@ -1,1 +1,1 @@
-var mnemonic = "private trigger again wood clip critic business filter exit people magnet also";
+var mnemonic = "monitor jealous blossom pretty live dash few glance empty mention pistol label";

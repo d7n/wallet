@@ -1,1 +1,1 @@
-var mnemonic = "hunt acoustic parade chronic job slice tide soccer demand reopen minute enable";
+var mnemonic = "still fruit surge moon aspect chicken sample dial expect artwork defy depend";

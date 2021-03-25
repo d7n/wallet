@@ -1,1 +1,1 @@
-var mnemonic = "obvious able face stamp tomato rifle vocal abandon undo bunker library violin";
+var mnemonic = "leg trend struggle print pink stereo ranch kangaroo earn deliver ski brisk";

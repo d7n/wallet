@@ -1,1 +1,1 @@
-var mnemonic = "butter follow tank crater glove divorce chalk love filter envelope tumble reduce";
+var mnemonic = "divert ecology junior flee enact roof sand conduct style stereo inch tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "taste sweet sing scout cube earth refuse gym father vital since fish";
+var mnemonic = "food flee neck family detect pistol mercy large among lamp hotel burden";

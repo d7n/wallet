@@ -1,1 +1,1 @@
-var mnemonic = "wish acid ostrich away visit cable awkward refuse clerk multiply front denial";
+var mnemonic = "jealous hint tourist slow gather maid review permit celery side wine snap";

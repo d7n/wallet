@@ -1,1 +1,1 @@
-var mnemonic = "honey welcome fence now coyote alone cook repair beef chief bunker fantasy";
+var mnemonic = "finish play absorb degree gesture maximum bronze dove found taste verify click";

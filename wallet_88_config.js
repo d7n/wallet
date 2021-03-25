@@ -1,1 +1,1 @@
-var mnemonic = "balance bullet school eagle smile truth shrug able early income hope like";
+var mnemonic = "pencil slush olympic mutual creek aim run reunion battle opinion flower wide";

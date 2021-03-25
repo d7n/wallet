@@ -1,1 +1,1 @@
-var mnemonic = "act donkey scare shallow walk remember calm student manage mean goat spice";
+var mnemonic = "crane cradle dance obtain style dream grass relax now use blush cigar";

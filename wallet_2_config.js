@@ -1,1 +1,1 @@
-var mnemonic = "jealous project album critic earth broom insane naive sponsor conduct mimic shed";
+var mnemonic = "opinion wide pig foster ancient claim dress kingdom between present hockey damage";

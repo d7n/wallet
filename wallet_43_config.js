@@ -1,1 +1,1 @@
-var mnemonic = "swim gauge amount fabric smile ancient slow face merge buzz cancel glide";
+var mnemonic = "gold provide credit beyond analyst vapor grit escape bid course neutral brave";

@@ -1,1 +1,1 @@
-var mnemonic = "trade art boost shine thank smart medal craft glad denial beyond grape";
+var mnemonic = "again promote sun goat grace orbit autumn nerve crane police curious approve";

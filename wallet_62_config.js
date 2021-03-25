@@ -1,1 +1,1 @@
-var mnemonic = "toy staff reform soda squeeze soda muffin trial inform member arch nasty";
+var mnemonic = "maze cable farm amount primary tool canyon rescue egg filter dial zone";

@@ -1,1 +1,1 @@
-var mnemonic = "equal fix hundred book spot happy shock romance route eagle bright dice";
+var mnemonic = "hobby soul conduct spin place dilemma lucky weather electric define dog spoon";

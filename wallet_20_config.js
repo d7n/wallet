@@ -1,1 +1,1 @@
-var mnemonic = "cluster wing token token metal grit fun awful stove boost leopard spoil";
+var mnemonic = "lecture evil nothing pigeon lizard rubber cause load injury tenant ridge base";

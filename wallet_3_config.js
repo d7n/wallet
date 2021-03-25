@@ -1,1 +1,1 @@
-var mnemonic = "easily section coffee correct police upgrade screen cart fix ostrich until shrug";
+var mnemonic = "pulp what entire tattoo riot canoe bread tent success dynamic shop wish";

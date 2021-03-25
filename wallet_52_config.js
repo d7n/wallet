@@ -1,1 +1,1 @@
-var mnemonic = "van sing stool just digital slush violin visit hair ethics lazy fantasy";
+var mnemonic = "grace often civil escape defy believe carry cream decorate pool cruise solve";

@@ -1,1 +1,1 @@
-var mnemonic = "sting buffalo inherit lift grain memory tourist measure author guitar nut smile";
+var mnemonic = "bus true robot easy what issue expose seven sound rather feel spoon";

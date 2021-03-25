@@ -1,1 +1,1 @@
-var mnemonic = "oven rely elder tube antenna corn project journey slide green chapter riot";
+var mnemonic = "assist coffee onion dice nuclear nose ski business burger moral survey imitate";

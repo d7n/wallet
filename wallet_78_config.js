@@ -1,1 +1,1 @@
-var mnemonic = "canoe rifle try write country garden shove ten laundry acid eagle gadget";
+var mnemonic = "surround danger early draw fog hidden fox zebra jaguar reflect spoil dose";

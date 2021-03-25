@@ -1,1 +1,1 @@
-var mnemonic = "cereal buffalo hill quote teach afraid across actor keen crystal basic regret";
+var mnemonic = "surface rose denial crouch same lift network hunt birth cycle virus gesture";

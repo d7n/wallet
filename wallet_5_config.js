@@ -1,1 +1,1 @@
-var mnemonic = "reject lamp hard frost minimum unable safe crack twenty sport lens language";
+var mnemonic = "trip produce material myth diesel throw feed obtain quarter keep good orange";

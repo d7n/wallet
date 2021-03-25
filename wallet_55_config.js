@@ -1,1 +1,1 @@
-var mnemonic = "slow source ready drama drill mansion pattern clever attend indicate adjust stick";
+var mnemonic = "plastic kiss brave example any upper maid arrest half empty glory mosquito";

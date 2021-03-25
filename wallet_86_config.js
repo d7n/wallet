@@ -1,1 +1,1 @@
-var mnemonic = "trouble knee write arrive onion trophy frown burger frozen soldier enforce mosquito";
+var mnemonic = "jazz sing grid plunge tortoise develop chapter demise find tool champion grunt";

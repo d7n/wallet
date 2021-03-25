@@ -1,1 +1,1 @@
-var mnemonic = "wheat ketchup prevent notice problem proof segment cement key move envelope vessel";
+var mnemonic = "release quick cabbage until fiction account spice scale possible suit coast high";

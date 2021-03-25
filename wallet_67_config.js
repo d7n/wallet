@@ -1,1 +1,1 @@
-var mnemonic = "prefer cage fault crucial border wave injury robust trouble help seat else";
+var mnemonic = "canvas cream horn lemon razor donkey gorilla require scrub police music budget";

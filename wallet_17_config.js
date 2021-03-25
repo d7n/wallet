@@ -1,1 +1,1 @@
-var mnemonic = "boss device avocado foil diagram little evil arrive hard lawsuit aunt leader";
+var mnemonic = "mixed caught skin sing square ancient lake cruel skull give hand favorite";

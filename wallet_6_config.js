@@ -1,1 +1,1 @@
-var mnemonic = "conduct mad future badge badge captain battle census issue wonder pear learn";
+var mnemonic = "either knife report home income damage keen pink gorilla scheme south early";

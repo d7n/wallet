@@ -1,1 +1,1 @@
-var mnemonic = "increase cancel logic novel bulb draft hedgehog drum half expand scorpion flip";
+var mnemonic = "clap group surprise common dress denial cost bunker type trade kit merry";

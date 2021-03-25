@@ -1,1 +1,1 @@
-var mnemonic = "churn slab zoo possible silly board below toss bamboo glue tilt noble";
+var mnemonic = "green gas jar tooth model brown describe action reunion jacket song silent";

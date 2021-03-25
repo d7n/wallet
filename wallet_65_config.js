@@ -1,1 +1,1 @@
-var mnemonic = "catalog cream sample chest whip zone walnut scrap screen horse toe lazy";
+var mnemonic = "diet quality apology crane shallow high focus unveil cover process yellow blind";

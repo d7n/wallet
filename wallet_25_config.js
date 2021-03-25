@@ -1,1 +1,1 @@
-var mnemonic = "drift rain electric turkey stereo steel burst crunch remember cactus toilet also";
+var mnemonic = "motion run fringe dove pole sausage this alpha empower salmon turkey hat";

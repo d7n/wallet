@@ -1,1 +1,1 @@
-var mnemonic = "hospital whale monitor gym field fish much tail crime deal steak upon";
+var mnemonic = "vote banner output scheme brave prize produce bachelor kangaroo lady sauce wrong";

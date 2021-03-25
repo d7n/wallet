@@ -1,1 +1,1 @@
-var mnemonic = "loop enroll situate suggest weird pen donate piano urban flight twice solar";
+var mnemonic = "emotion magnet avoid laptop expose net derive mean come message need plate";

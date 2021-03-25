@@ -1,1 +1,1 @@
-var mnemonic = "around fatigue mystery vacuum bike lift deny physical vessel sense donkey acoustic";
+var mnemonic = "amazing sting artefact eagle canyon labor vehicle artwork crater sketch parrot test";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch uphold dish huge elegant vapor scatter two stand opera middle multiply";
+var mnemonic = "unfold isolate detail avoid rare motor again van urge sorry leopard beach";

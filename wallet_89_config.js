@@ -1,1 +1,1 @@
-var mnemonic = "taste virus steak garden apology fly embark call sure shallow history demand";
+var mnemonic = "humor liquid govern indoor swap link bring voice arrest lonely grain prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "purity wrist chaos pottery scorpion essay spoon matter burst balance silent cart";
+var mnemonic = "foil crumble few year enrich immune reveal extra legal position acquire road";

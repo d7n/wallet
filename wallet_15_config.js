@@ -1,1 +1,1 @@
-var mnemonic = "hero hint capable powder gold problem size absorb result mother term anchor";
+var mnemonic = "wealth crane theory motion turtle sail common strategy force glide protect winner";

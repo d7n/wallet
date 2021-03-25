@@ -1,1 +1,1 @@
-var mnemonic = "code organ dust ready cream cherry lounge twice shallow tired engage dumb";
+var mnemonic = "fetch civil faith explain rose meadow dinosaur bunker still snap forward neck";

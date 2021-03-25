@@ -1,1 +1,1 @@
-var mnemonic = "dice weapon olive silver sheriff link buffalo tonight turn bleak immense huge";
+var mnemonic = "submit tide lawsuit voyage young power emotion asset goat saddle fix decorate";

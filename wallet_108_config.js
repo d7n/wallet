@@ -1,1 +1,1 @@
-var mnemonic = "surprise coast exile speed light local exile soul medal cable genuine ranch";
+var mnemonic = "tape inspire gasp inject immune assist cannon unhappy test lizard task welcome";

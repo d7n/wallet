@@ -1,1 +1,1 @@
-var mnemonic = "coral yellow desert evolve amused forest awesome there seat neck myth clay";
+var mnemonic = "card attack skate market sight alert panic crash vendor pizza young panda";

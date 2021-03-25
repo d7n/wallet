@@ -1,1 +1,1 @@
-var mnemonic = "page glove glory hill sing enlist dwarf advance aspect antenna strong absorb";
+var mnemonic = "mix slow ginger worth loyal clerk reward pause myself indoor accuse wisdom";

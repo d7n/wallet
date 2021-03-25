@@ -1,1 +1,1 @@
-var mnemonic = "normal afford skin develop riot sick alter present aspect divide enhance quick";
+var mnemonic = "sibling patch laptop retire pupil boil cream giraffe bag must ozone candy";

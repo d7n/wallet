@@ -1,1 +1,1 @@
-var mnemonic = "cycle improve soft glory logic own leaf master bottom main afford require";
+var mnemonic = "again weird swing whale error midnight sunset diagram document clay original torch";

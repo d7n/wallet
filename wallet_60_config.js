@@ -1,1 +1,1 @@
-var mnemonic = "brown milk chef judge tip sock edit gauge have ensure immense laptop";
+var mnemonic = "airport bleak pulp fox hurdle equip net emotion display subject knock shadow";

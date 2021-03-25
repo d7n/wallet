@@ -1,1 +1,1 @@
-var mnemonic = "entire live travel brass wait maze advice now sad broom tattoo section";
+var mnemonic = "caught recycle during place filter grab title produce add hill normal fine";
