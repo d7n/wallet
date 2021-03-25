@@ -1,1 +1,1 @@
-var mnemonic = "travel cigar tongue lunch escape any friend spot audit this when holiday";
+var mnemonic = "have program tooth penalty parent return vicious broom gauge box glad bar";

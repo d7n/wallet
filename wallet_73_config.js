@@ -1,1 +1,1 @@
-var mnemonic = "pepper glimpse bronze alpha science always sphere soup slush soon tiny farm";
+var mnemonic = "attitude banana word guess canoe invite nation admit struggle bullet embark stove";

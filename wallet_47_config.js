@@ -1,1 +1,1 @@
-var mnemonic = "soon battle emotion various woman tumble rain call evidence first please ginger";
+var mnemonic = "maximum dawn exit faint trap pumpkin caution urge space attack hip ceiling";

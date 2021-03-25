@@ -1,1 +1,1 @@
-var mnemonic = "involve cute napkin pupil athlete aim stereo meat pride fancy athlete paper";
+var mnemonic = "scrap blanket crucial people apple garage jazz insect state pig once forum";

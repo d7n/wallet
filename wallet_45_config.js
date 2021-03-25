@@ -1,1 +1,1 @@
-var mnemonic = "cigar circle replace chronic grit marine theory pair trap ritual sock before";
+var mnemonic = "web shallow security suit goose keep accident bundle media farm humor busy";

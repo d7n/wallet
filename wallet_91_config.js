@@ -1,1 +1,1 @@
-var mnemonic = "message mail another leg save satoshi program dwarf boss yard escape arrange";
+var mnemonic = "virus stomach core lizard slush fly alert control negative unfold volume soldier";

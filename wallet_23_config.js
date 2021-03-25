@@ -1,1 +1,1 @@
-var mnemonic = "mercy tobacco manual tiny hammer exhaust object loan junk urban stomach renew";
+var mnemonic = "soup ridge keep tide hybrid rough awful fiber kick avoid know affair";

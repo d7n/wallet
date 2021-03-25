@@ -1,1 +1,1 @@
-var mnemonic = "dry climb mammal vocal tourist barely dragon staff penalty fiber excess future";
+var mnemonic = "slice wheat float tree talk steak tell neutral work regular left glow";

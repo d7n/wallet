@@ -1,1 +1,1 @@
-var mnemonic = "reform panic swift coach submit alley velvet shove kangaroo regret recipe subway";
+var mnemonic = "hero volcano reform beef topple avocado spider palm example leave age empty";

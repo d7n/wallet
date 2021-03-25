@@ -1,1 +1,1 @@
-var mnemonic = "copy boat speak grant lamp mansion plunge region face garbage drink trim";
+var mnemonic = "lend gift tell remember holiday purse surge slam sense young key barrel";

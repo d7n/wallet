@@ -1,1 +1,1 @@
-var mnemonic = "plastic twist solve impose filter small enjoy arctic hole check keep detail";
+var mnemonic = "bicycle soup involve discover body gorilla base trigger egg trip bonus orient";

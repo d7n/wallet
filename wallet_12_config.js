@@ -1,1 +1,1 @@
-var mnemonic = "critic moral vague moment mother wing buffalo wrong view couch december swallow";
+var mnemonic = "web vivid mixture join swamp very wait submit vital hard genius arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "merry famous afford powder brush suffer rocket equip draft invest indicate remain";
+var mnemonic = "alpha trash where water danger amused harsh shiver road urban grief account";

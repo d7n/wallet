@@ -1,1 +1,1 @@
-var mnemonic = "surface check trial wool lyrics smooth artist mirror vicious foam foil render";
+var mnemonic = "empower ordinary envelope myself bar lumber chief advance later crunch economy bunker";

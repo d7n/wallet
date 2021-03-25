@@ -1,1 +1,1 @@
-var mnemonic = "mixed useless satisfy two globe erosion meadow clever bright finish body final";
+var mnemonic = "citizen write average artwork stand fog maple yellow spice taxi distance carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "guard dwarf tag install left innocent drop layer add floor dwarf flock";
+var mnemonic = "select equip furnace insane vibrant answer spoon sketch act radio evolve bread";

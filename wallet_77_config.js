@@ -1,1 +1,1 @@
-var mnemonic = "train satoshi farm quick october comfort muffin senior cake furnace post cable";
+var mnemonic = "fall admit nothing indicate force trigger say loan upset purchase major extend";

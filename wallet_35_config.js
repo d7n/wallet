@@ -1,1 +1,1 @@
-var mnemonic = "shadow order slot arctic pattern naive jump march hockey black garbage insane";
+var mnemonic = "inspire camp version enemy agent test drip ancient rail sun skull mind";

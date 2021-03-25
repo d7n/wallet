@@ -1,1 +1,1 @@
-var mnemonic = "spray alone hint pony fog absorb make step ancient detail leader toy";
+var mnemonic = "envelope paper ivory evolve office unable garlic imitate holiday melt chimney juice";

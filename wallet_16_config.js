@@ -1,1 +1,1 @@
-var mnemonic = "sight route soda symbol stay crunch cool dentist cloth window universe drill";
+var mnemonic = "hazard park party obtain fetch fuel chest crazy chair phone unlock enact";

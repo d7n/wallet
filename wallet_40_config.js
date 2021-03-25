@@ -1,1 +1,1 @@
-var mnemonic = "celery sentence eye smooth young swarm wage view cupboard style destroy that";
+var mnemonic = "ride lawn reform scare select crystal beyond process prosper power dismiss fetch";

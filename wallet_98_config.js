@@ -1,1 +1,1 @@
-var mnemonic = "goat worth favorite domain since giraffe shed protect inquiry border just absorb";
+var mnemonic = "settle story diet science industry vital nominee list price inflict exclude tube";

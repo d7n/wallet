@@ -1,1 +1,1 @@
-var mnemonic = "knee middle alone answer bamboo equip extend adult share motion output bunker";
+var mnemonic = "goose supply figure spirit half rookie mixed tomato clump early few bargain";

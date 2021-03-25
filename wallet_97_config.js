@@ -1,1 +1,1 @@
-var mnemonic = "six couch dial street tornado car grab crane toddler grid edit spoon";
+var mnemonic = "state kitchen tray early gown expect grape industry flower deer version figure";

@@ -1,1 +1,1 @@
-var mnemonic = "there spot flavor can away apple must erode wisdom cheap genre enable";
+var mnemonic = "alarm robot visual leisure hamster human ski learn setup ghost blanket enforce";

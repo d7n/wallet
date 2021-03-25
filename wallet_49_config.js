@@ -1,1 +1,1 @@
-var mnemonic = "clap slot job narrow emerge cruise public life panther spare obscure layer";
+var mnemonic = "horror ozone daughter blouse wheat round dizzy salt hen kitten zero daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal wife assume ensure empower chief flag trim spray donor saddle depart";
+var mnemonic = "actress nominee weasel grunt oyster enrich fix soon mouse action story vivid";

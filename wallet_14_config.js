@@ -1,1 +1,1 @@
-var mnemonic = "cannon divide prosper youth flower elephant polar ramp casual bulk october vendor";
+var mnemonic = "cost raven defense alley tackle bamboo prison consider ski exhaust body true";

@@ -1,1 +1,1 @@
-var mnemonic = "panic purity salute derive author shield rotate soldier champion favorite bitter venture";
+var mnemonic = "reject hen picture maze leisure woman neck car dish reveal fuel transfer";

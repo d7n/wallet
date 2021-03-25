@@ -1,1 +1,1 @@
-var mnemonic = "spray movie word vague twin taxi cloud arrive write diet laundry moment";
+var mnemonic = "glad travel divert final select battle quality kangaroo autumn cost person shiver";

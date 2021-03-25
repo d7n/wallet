@@ -1,1 +1,1 @@
-var mnemonic = "purity sail unlock object antique shell must trial rack stay ancient summer";
+var mnemonic = "swap shift inside flip early laundry sail flee over crop fetch royal";

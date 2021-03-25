@@ -1,1 +1,1 @@
-var mnemonic = "uphold walk obtain bicycle recall firm mail include current thought walk clinic";
+var mnemonic = "notable oval comic circle surround reflect squirrel rather prosper north body involve";

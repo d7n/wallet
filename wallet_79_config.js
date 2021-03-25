@@ -1,1 +1,1 @@
-var mnemonic = "rocket science brand alley comfort dumb deal vital bean behave check lend";
+var mnemonic = "metal tribe avocado quote funny diesel can bomb honey fame unfold seat";

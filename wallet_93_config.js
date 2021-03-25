@@ -1,1 +1,1 @@
-var mnemonic = "ride skill bitter beef melt hungry ready exhibit asthma alarm shoe lumber";
+var mnemonic = "crime rebuild such labor priority sight travel pond cigar danger morning judge";

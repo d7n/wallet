@@ -1,1 +1,1 @@
-var mnemonic = "flip essay minimum law vintage search inflict student essay sure word push";
+var mnemonic = "doll swift vacant dilemma best wood subway innocent tattoo tiger copy satoshi";

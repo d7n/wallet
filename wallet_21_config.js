@@ -1,1 +1,1 @@
-var mnemonic = "domain raw tattoo warm amount warm mammal ripple tent thunder visit tissue";
+var mnemonic = "swim believe hamster smooth blind injury gadget process science thing vessel huge";

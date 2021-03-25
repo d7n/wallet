@@ -1,1 +1,1 @@
-var mnemonic = "often vicious gravity myself eyebrow tunnel hold flee cluster odor cake copy";
+var mnemonic = "deny spend forward perfect portion sunny job best pilot clever nominee coral";

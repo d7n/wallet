@@ -1,1 +1,1 @@
-var mnemonic = "doctor close fiscal type alpha slab kite balcony wash holiday merry legend";
+var mnemonic = "danger century jar fresh response embrace royal budget nest animal voice symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "round favorite improve buzz ramp ozone outer tornado close wave attend betray";
+var mnemonic = "argue okay diet allow panel glue old vocal script shy expect action";

@@ -1,1 +1,1 @@
-var mnemonic = "trim ride square federal major agree idle mandate lumber ritual arrow silly";
+var mnemonic = "radar loyal foil slow size this real card tragic jazz jar tent";

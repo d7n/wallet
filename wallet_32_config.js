@@ -1,1 +1,1 @@
-var mnemonic = "brief kite december another lab mix tone future album exchange slush weapon";
+var mnemonic = "brother empty survey mercy local banner very mansion hunt exercise oppose sweet";

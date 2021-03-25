@@ -1,1 +1,1 @@
-var mnemonic = "almost miss skate end cage field gown bonus heavy spawn spoon duty";
+var mnemonic = "hen attend quote stove peanut thought garment shy march bulk trap pole";

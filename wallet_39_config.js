@@ -1,1 +1,1 @@
-var mnemonic = "water ahead tooth cigar gorilla demand twin jelly arrow congress episode fold";
+var mnemonic = "stone depth fatal target train twelve screen battle quote suit ahead heart";

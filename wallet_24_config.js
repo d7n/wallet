@@ -1,1 +1,1 @@
-var mnemonic = "hold cloth melody welcome eyebrow dice weird soul donkey near shop okay";
+var mnemonic = "vital analyst math method garment judge rebel wink valid gospel funny suspect";

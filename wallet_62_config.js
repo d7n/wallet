@@ -1,1 +1,1 @@
-var mnemonic = "agent dream team trumpet fever carbon young dose ride cotton grow retreat";
+var mnemonic = "awake fish raccoon copper jealous harbor coral spend rate deputy grant aunt";

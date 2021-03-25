@@ -1,1 +1,1 @@
-var mnemonic = "once surge junk arrive walnut off hope humor advance senior gather fashion";
+var mnemonic = "swear pause awkward exchange whip fruit wonder slide hire hollow wink mosquito";

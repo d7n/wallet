@@ -1,1 +1,1 @@
-var mnemonic = "express jewel enjoy company school output loud soda stay decline nominee heavy";
+var mnemonic = "anxiety reopen virtual puppy crack cricket crawl economy pepper basket forward era";

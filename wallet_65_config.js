@@ -1,1 +1,1 @@
-var mnemonic = "sea pony bamboo century leader impact salon scorpion digital entire remove local";
+var mnemonic = "glory flock rigid purity toddler point banner rookie trophy all river art";

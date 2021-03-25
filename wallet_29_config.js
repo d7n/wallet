@@ -1,1 +1,1 @@
-var mnemonic = "pretty next add silent wheat weasel fresh awesome fade cat human pilot";
+var mnemonic = "cream world skull diagram cactus biology fringe acoustic replace rug ribbon seed";

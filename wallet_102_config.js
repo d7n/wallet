@@ -1,1 +1,1 @@
-var mnemonic = "receive drive wrestle frog forum ivory success jelly finish bracket match text";
+var mnemonic = "student august cram honey often direct donate album casino version surface advice";

@@ -1,1 +1,1 @@
-var mnemonic = "device dance danger squirrel extend oblige segment minor violin affair lava pool";
+var mnemonic = "satisfy either pause crawl fog carbon disorder method night pattern caution rabbit";

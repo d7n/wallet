@@ -1,1 +1,1 @@
-var mnemonic = "yellow offer permit leg chief eight loop noble picture shrug soon obvious";
+var mnemonic = "spread above couple theory violin debate monkey put spend hip normal weird";

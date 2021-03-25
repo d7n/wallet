@@ -1,1 +1,1 @@
-var mnemonic = "force estate kangaroo abuse audit hungry bread credit year march unlock claw";
+var mnemonic = "category scrub arrest horse hub pottery belt trade toward whale protect only";

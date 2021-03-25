@@ -1,1 +1,1 @@
-var mnemonic = "answer gown arm goat people pig divorce loan code fork square inherit";
+var mnemonic = "infant space act shrug bench mixture swamp moon priority dolphin truth travel";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete spot satoshi road stove acoustic build advice wash okay receive laundry";
+var mnemonic = "wink odor march attack idle high cannon gas receive squirrel industry glare";

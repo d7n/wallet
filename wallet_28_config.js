@@ -1,1 +1,1 @@
-var mnemonic = "fold sentence high guard prefer kiwi rail hockey tilt source thunder vendor";
+var mnemonic = "fire book bench require october mesh bunker manual heart offer rough future";

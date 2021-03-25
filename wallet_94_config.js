@@ -1,1 +1,1 @@
-var mnemonic = "basket sock web chase target coach sentence forward risk museum husband that";
+var mnemonic = "arctic ensure turtle fade truth grant pride animal acid motion outer ice";

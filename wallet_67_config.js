@@ -1,1 +1,1 @@
-var mnemonic = "soda dinosaur lucky message scout thing time script razor loyal eager snack";
+var mnemonic = "wet vacant ignore distance define frame pepper question uphold sight surface same";

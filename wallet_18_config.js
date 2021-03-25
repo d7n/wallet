@@ -1,1 +1,1 @@
-var mnemonic = "apart crucial drum crawl corn moral payment february leader glory promote control";
+var mnemonic = "stairs cable prison obey volume secret attract upon change rain tool cash";

@@ -1,1 +1,1 @@
-var mnemonic = "admit act slender tower rare ribbon history pipe chalk this decide until";
+var mnemonic = "twelve kid live ugly proof spoil hybrid twelve busy execute strike garment";

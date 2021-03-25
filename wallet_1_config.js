@@ -1,1 +1,1 @@
-var mnemonic = "lecture cream very slide snow flush alien drum envelope hover dolphin pudding";
+var mnemonic = "produce film evidence there figure erupt jungle unfair corn grid silly vast";

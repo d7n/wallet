@@ -1,1 +1,1 @@
-var mnemonic = "exercise grain title tip fun prevent food baby deer flame company wealth";
+var mnemonic = "athlete leg primary genuine logic predict awful inject caught found project income";

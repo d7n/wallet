@@ -1,1 +1,1 @@
-var mnemonic = "desert neither just blade jeans faculty box guilt sail stone mandate dismiss";
+var mnemonic = "mistake regular cruise heart degree put canyon physical property real ride patient";

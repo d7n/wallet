@@ -1,1 +1,1 @@
-var mnemonic = "traffic liquid wealth describe visual pitch column stairs course another term ocean";
+var mnemonic = "enroll oval drift solar stool custom receive nation pool mom render butter";

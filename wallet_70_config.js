@@ -1,1 +1,1 @@
-var mnemonic = "heavy liberty toilet follow prefer lounge glove rocket exclude photo tone wage";
+var mnemonic = "peasant panic six learn symbol impact road isolate dragon jaguar autumn wash";

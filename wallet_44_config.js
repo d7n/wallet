@@ -1,1 +1,1 @@
-var mnemonic = "surprise police gadget deer meat same keen drum castle fix energy escape";
+var mnemonic = "helmet provide puzzle club spread that island hockey various mail junk harvest";

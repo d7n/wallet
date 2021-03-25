@@ -1,1 +1,1 @@
-var mnemonic = "help fortune insect action normal enlist exchange poet bless lounge escape frown";
+var mnemonic = "twist raccoon stay enough occur fatigue fine advance fault panther abandon screen";

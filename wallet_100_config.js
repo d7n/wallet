@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow brief element better surge virus crucial another speak squirrel age bracket";
+var mnemonic = "verb arrive scatter fame audit better swamp tumble jacket more mercy term";

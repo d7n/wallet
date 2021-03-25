@@ -1,1 +1,1 @@
-var mnemonic = "unlock limit until race wool fine shine crucial cover prevent stick same";
+var mnemonic = "long scan damage habit cheese glory recycle shoulder prevent polar amount arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "steak very sick mind kite yard deal boat cupboard kit emotion raise";
+var mnemonic = "enough envelope forget raven photo amount shadow try street type govern december";

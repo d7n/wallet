@@ -1,1 +1,1 @@
-var mnemonic = "banana twenty napkin vehicle know analyst unlock ritual elevator present kiss picnic";
+var mnemonic = "vault trouble rival shaft friend excite unaware first siege labor frost success";

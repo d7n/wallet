@@ -1,1 +1,1 @@
-var mnemonic = "maid prepare exit situate subject latin come meadow jump dirt come scare";
+var mnemonic = "vibrant void daughter fall polar blame below prefer forum rifle menu verify";

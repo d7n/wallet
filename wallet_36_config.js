@@ -1,1 +1,1 @@
-var mnemonic = "involve shiver element hat pottery galaxy quote before maid fog angle wave";
+var mnemonic = "race brand lava nuclear spare magnet ginger find prison jungle note afford";

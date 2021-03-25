@@ -1,1 +1,1 @@
-var mnemonic = "sun harvest banner wash remain increase enter liar panel file excuse decorate";
+var mnemonic = "betray match polar cigar typical arch bubble fault fetch jewel junk bargain";

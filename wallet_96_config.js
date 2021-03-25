@@ -1,1 +1,1 @@
-var mnemonic = "danger wild electric evoke vital question fatal wrist circle flavor tank say";
+var mnemonic = "sea crumble question climb upgrade fire original modify party open climb stadium";

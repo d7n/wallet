@@ -1,1 +1,1 @@
-var mnemonic = "final blind parrot daring devote harvest expose surround include enhance marine busy";
+var mnemonic = "amateur list tooth lens maple police unable soft fabric list cigar erosion";

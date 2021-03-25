@@ -1,1 +1,1 @@
-var mnemonic = "school animal ramp spirit gasp eye rail medal grow false jacket hollow";
+var mnemonic = "skate lizard view bachelor scrap best prize hello remember goose flame soon";

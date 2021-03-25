@@ -1,1 +1,1 @@
-var mnemonic = "choice meadow three lady illegal cake nuclear dry figure elder bring quality";
+var mnemonic = "confirm ordinary doll breeze ketchup lady film sun health shoot admit tree";

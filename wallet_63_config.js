@@ -1,1 +1,1 @@
-var mnemonic = "icon accident record indoor borrow kind vehicle finish can hip episode recipe";
+var mnemonic = "ugly effort polar dash mountain goat lock glare corn begin fragile receive";

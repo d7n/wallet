@@ -1,1 +1,1 @@
-var mnemonic = "toddler grape because crunch basic when wrap neck cable sketch bag oppose";
+var mnemonic = "liar lady innocent autumn enrich fluid lizard there such kind quantum twin";

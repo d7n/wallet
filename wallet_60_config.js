@@ -1,1 +1,1 @@
-var mnemonic = "tattoo pitch now pottery globe million sight volcano tunnel neglect they fun";
+var mnemonic = "mushroom neutral price lyrics world middle you harbor rubber syrup ensure crazy";

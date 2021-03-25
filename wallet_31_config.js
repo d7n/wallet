@@ -1,1 +1,1 @@
-var mnemonic = "bus fun pumpkin weather dune prison today spike foil hollow tag another";
+var mnemonic = "start hub main believe fruit fat neglect tent refuse potato luxury truck";

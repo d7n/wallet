@@ -1,1 +1,1 @@
-var mnemonic = "style throw toy amateur valid entry divorce across dad word artefact expect";
+var mnemonic = "any eternal replace current defy quantum estate roast young walnut dinner consider";

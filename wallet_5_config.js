@@ -1,1 +1,1 @@
-var mnemonic = "novel slender result heavy student calm fiction body undo globe sight genuine";
+var mnemonic = "topic type piece saddle pulse hedgehog sing reform gossip dutch episode inmate";

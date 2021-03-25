@@ -1,1 +1,1 @@
-var mnemonic = "unusual upper oil find dry attend peasant shove prefer rocket correct degree";
+var mnemonic = "soap child wrist rate title session menu ethics flat hair cake print";

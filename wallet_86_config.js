@@ -1,1 +1,1 @@
-var mnemonic = "voyage agree invite ivory lens either base hospital rocket baby isolate acoustic";
+var mnemonic = "hedgehog cigar ivory pyramid shrimp glimpse pause sugar valid fragile extend razor";

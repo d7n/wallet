@@ -1,1 +1,1 @@
-var mnemonic = "vehicle broken frog cover rent hungry maid baby marine rare mask proof";
+var mnemonic = "various coffee machine nest issue kiss danger range luggage fame crush exist";

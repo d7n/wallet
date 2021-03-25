@@ -1,1 +1,1 @@
-var mnemonic = "word twice payment ugly real toe wreck strike rate pole duck scrap";
+var mnemonic = "ability weasel opera unit jeans picture market click cousin indoor final ivory";

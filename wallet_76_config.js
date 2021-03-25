@@ -1,1 +1,1 @@
-var mnemonic = "organ chef hazard peasant become tragic owner nature end treat lava split";
+var mnemonic = "feature lottery energy pulp surround drink margin extend wrist true torch mean";

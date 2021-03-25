@@ -1,1 +1,1 @@
-var mnemonic = "joke tortoise erase wood curtain test feature usual young blossom club black";
+var mnemonic = "rack initial base civil lawn payment ice already blast flee tiger oak";
