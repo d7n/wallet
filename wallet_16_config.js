@@ -1,1 +1,1 @@
-var mnemonic = "choice trend animal slush receive lab grass aware drama cash hover dove";
+var mnemonic = "monitor crop long exchange pear soldier moon glass aunt electric announce lucky";

@@ -1,1 +1,1 @@
-var mnemonic = "you horn side fantasy oxygen damp penalty hawk lake answer rescue echo";
+var mnemonic = "social height width engage undo panda hundred ahead fire age indicate focus";

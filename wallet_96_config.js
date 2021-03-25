@@ -1,1 +1,1 @@
-var mnemonic = "oil orbit between squeeze uphold lounge member raccoon noise giraffe diary situate";
+var mnemonic = "rule seat install emotion time harvest rescue come symbol bamboo congress seed";

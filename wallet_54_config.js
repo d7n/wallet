@@ -1,1 +1,1 @@
-var mnemonic = "soap genuine grit sting vast bleak velvet wheel day monkey ski light";
+var mnemonic = "brief slight kangaroo axis goose debris destroy cousin citizen lift thank bamboo";

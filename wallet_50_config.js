@@ -1,1 +1,1 @@
-var mnemonic = "fat abandon delay cloth good uncle owner abuse injury cabbage wash wasp";
+var mnemonic = "photo lunar vague power pave amount blood until arrive pioneer clay soon";

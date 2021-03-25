@@ -1,1 +1,1 @@
-var mnemonic = "flee present hen omit donor brief pupil quit tenant wrap tourist hotel";
+var mnemonic = "draft elder wrist scene immune crane prize subject cream eternal before hip";

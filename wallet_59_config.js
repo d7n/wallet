@@ -1,1 +1,1 @@
-var mnemonic = "crowd inquiry tribe bottom razor pulp recall eager crop cause detail poverty";
+var mnemonic = "captain absent wild wait pair color blanket thunder into add prepare icon";

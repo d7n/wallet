@@ -1,1 +1,1 @@
-var mnemonic = "town kingdom wheat tragic garage awkward wish ship brush need express alter";
+var mnemonic = "orphan avoid arrow kid draft wrap behind gorilla happy reveal loud error";

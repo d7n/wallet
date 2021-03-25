@@ -1,1 +1,1 @@
-var mnemonic = "boy bunker print poet rubber wrestle federal pink rhythm acoustic company leave";
+var mnemonic = "leave family nature north buffalo leopard expand seven enemy song maze hand";

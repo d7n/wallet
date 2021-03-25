@@ -1,1 +1,1 @@
-var mnemonic = "since equal excite dream fringe differ easy bone sheriff win repair rare";
+var mnemonic = "logic hobby abandon camera crater twice cluster comic valve ridge interest scissors";

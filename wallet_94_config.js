@@ -1,1 +1,1 @@
-var mnemonic = "mango knife hold antenna twist oil hammer goat fetch eye position ignore";
+var mnemonic = "attend vacant develop lobster mom glimpse shine green head slush million board";

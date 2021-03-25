@@ -1,1 +1,1 @@
-var mnemonic = "foil donkey judge sing bulb ticket solve praise today jealous velvet head";
+var mnemonic = "eight discover category spawn they scissors still section example diagram can august";

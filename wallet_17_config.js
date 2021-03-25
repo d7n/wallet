@@ -1,1 +1,1 @@
-var mnemonic = "away juice fluid bar gift stove social pigeon text satoshi deposit garage";
+var mnemonic = "barrel culture next notable meat retire twin stool kiss field idea sentence";

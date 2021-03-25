@@ -1,1 +1,1 @@
-var mnemonic = "welcome next absurd try smooth disease model verify flavor secret raise alert";
+var mnemonic = "announce brush arena base soda asset crazy lawn era purpose happy vessel";

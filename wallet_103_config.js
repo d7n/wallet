@@ -1,1 +1,1 @@
-var mnemonic = "solve spend slim once victory fragile huge hammer office yellow oak twenty";
+var mnemonic = "material also prefer wild load venue bulk illegal index surprise tube bomb";

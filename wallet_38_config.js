@@ -1,1 +1,1 @@
-var mnemonic = "champion mirror absorb vessel whisper squeeze engage jewel siege media cattle ticket";
+var mnemonic = "crush receive craft object foster profit claim desert easy claim judge view";

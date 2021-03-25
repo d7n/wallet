@@ -1,1 +1,1 @@
-var mnemonic = "three town dice reward loan hood excess century crime solar hire ill";
+var mnemonic = "chair luxury picture story million practice bronze impose spring crack space guitar";

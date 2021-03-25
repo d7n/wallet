@@ -1,1 +1,1 @@
-var mnemonic = "fine town favorite crouch point happy offer silent snap pause oxygen among";
+var mnemonic = "mouse cigar else equip glare choose tackle lava proof stomach example foil";

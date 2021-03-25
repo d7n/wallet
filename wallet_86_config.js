@@ -1,1 +1,1 @@
-var mnemonic = "dice property dynamic poem grid grunt cloth health practice voyage media satoshi";
+var mnemonic = "cook wasp van duty february width web pistol celery soul volume keen";

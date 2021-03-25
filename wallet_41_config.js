@@ -1,1 +1,1 @@
-var mnemonic = "asset offer alone smooth change valid mixture balcony usage benefit genuine hockey";
+var mnemonic = "pill autumn suspect quick another badge deputy force fruit anger balcony orient";

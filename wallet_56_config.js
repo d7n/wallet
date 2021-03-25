@@ -1,1 +1,1 @@
-var mnemonic = "mind argue normal clerk border patch aspect nest advice spoon excess pull";
+var mnemonic = "unfair afraid point plug upon shrimp soda trick december close ill stereo";

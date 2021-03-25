@@ -1,1 +1,1 @@
-var mnemonic = "snack inform leave fiction giant layer muscle undo dragon online coffee friend";
+var mnemonic = "pumpkin gym dynamic scorpion pole kiwi chaos top actress snow recall dirt";

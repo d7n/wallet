@@ -1,1 +1,1 @@
-var mnemonic = "bone magnet hazard angle reward brave wage sail regret wall rail minor";
+var mnemonic = "tornado tennis clump daughter divert obey ocean purity dismiss forward evoke nest";

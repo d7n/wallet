@@ -1,1 +1,1 @@
-var mnemonic = "absorb glance flight deer eye friend fitness change mobile alien dream industry";
+var mnemonic = "chapter effort salt ugly quick fire shadow one like office fence hen";

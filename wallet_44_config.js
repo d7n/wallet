@@ -1,1 +1,1 @@
-var mnemonic = "cloth picture guilt chair impact doll mandate cross bunker picnic clump broccoli";
+var mnemonic = "degree round section concert mail ceiling stereo give giggle swim elegant person";

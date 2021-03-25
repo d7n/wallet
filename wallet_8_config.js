@@ -1,1 +1,1 @@
-var mnemonic = "meat certain tobacco life vanish desert east weasel mass police flower sniff";
+var mnemonic = "move velvet conduct canyon have knock hamster seat spike rifle enemy build";

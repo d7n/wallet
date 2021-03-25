@@ -1,1 +1,1 @@
-var mnemonic = "slice fame catch stool lab magnet adjust beyond feature twelve silent chicken";
+var mnemonic = "sister siege milk message peasant render brisk hockey over parent much theory";

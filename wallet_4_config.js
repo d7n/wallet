@@ -1,1 +1,1 @@
-var mnemonic = "artefact romance flavor spy silent hungry bridge carbon venture donkey result ketchup";
+var mnemonic = "rapid maple upon alcohol hint bless below kid utility hotel person bronze";

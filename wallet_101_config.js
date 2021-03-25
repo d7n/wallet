@@ -1,1 +1,1 @@
-var mnemonic = "congress welcome cry picnic ginger immense pony mixed spray climb sign spoon";
+var mnemonic = "solve manual anger sentence pretty kidney sister decade season plug parent escape";

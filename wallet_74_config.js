@@ -1,1 +1,1 @@
-var mnemonic = "noodle gloom frown stadium paddle observe flower quit come swarm hold buzz";
+var mnemonic = "valid chapter screen east crouch mixed few bind satisfy wet ill birth";

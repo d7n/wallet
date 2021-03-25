@@ -1,1 +1,1 @@
-var mnemonic = "panel quick price sadness antenna perfect movie bacon estate weird equal crack";
+var mnemonic = "swap theme inherit ritual layer flush secret spend poet enable clap quote";

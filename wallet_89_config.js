@@ -1,1 +1,1 @@
-var mnemonic = "swap verify hub holiday time mandate found kingdom situate circle flee mass";
+var mnemonic = "pupil impact museum act wait deny program wreck globe fragile tissue jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost produce area power river observe innocent aware potato erosion couch noble";
+var mnemonic = "image under usual cross spoon mirror ensure regret large limit alter renew";

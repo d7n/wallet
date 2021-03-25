@@ -1,1 +1,1 @@
-var mnemonic = "canal profit story width lottery twenty flash oven sense bike concert spice";
+var mnemonic = "afford spell segment harsh purpose dash glow elbow master dwarf rare tide";

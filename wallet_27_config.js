@@ -1,1 +1,1 @@
-var mnemonic = "dune cage common embrace limit during ranch owner congress remember cotton win";
+var mnemonic = "menu honey middle domain key person finger mouse hotel erupt crazy goddess";

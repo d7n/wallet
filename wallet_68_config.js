@@ -1,1 +1,1 @@
-var mnemonic = "penalty work enjoy index silk midnight cost day hurt elbow primary cloth";
+var mnemonic = "true sketch airport risk casino van fruit spend helmet air clever follow";

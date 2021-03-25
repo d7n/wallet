@@ -1,1 +1,1 @@
-var mnemonic = "zone innocent maple arch crater shiver occur bus future endorse material country";
+var mnemonic = "abuse message question spoil again hazard retire gate ribbon patch follow vacuum";

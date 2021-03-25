@@ -1,1 +1,1 @@
-var mnemonic = "run vote minimum utility speak wonder swarm sound flush shove bamboo brown";
+var mnemonic = "mixed best practice vicious dawn mass symptom coyote bind expect media tuition";

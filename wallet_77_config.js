@@ -1,1 +1,1 @@
-var mnemonic = "caution march orphan half noodle usage neutral cargo genre upper trophy minute";
+var mnemonic = "insect evolve absent myth pole chapter recall alter case pilot foot culture";

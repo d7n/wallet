@@ -1,1 +1,1 @@
-var mnemonic = "entire tool catch insane siren raw indoor radar guitar charge trap target";
+var mnemonic = "valley horror spirit actor fine exhaust improve woman crime sadness jeans chest";

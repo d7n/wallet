@@ -1,1 +1,1 @@
-var mnemonic = "december cycle online hero flash art athlete pool advance focus hobby retire";
+var mnemonic = "six town hope wash spring keep salute arena waste movie damp render";

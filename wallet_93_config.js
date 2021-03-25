@@ -1,1 +1,1 @@
-var mnemonic = "heart nephew sense tackle blast tube ski grain tonight design army normal";
+var mnemonic = "run fox cabbage divorce struggle upon smoke tongue inherit jealous garlic margin";

@@ -1,1 +1,1 @@
-var mnemonic = "cream pride aim bench tomato excite mass crawl casual adjust drink shiver";
+var mnemonic = "reunion curious artist already drastic jazz bacon industry artefact twelve short lonely";

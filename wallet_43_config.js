@@ -1,1 +1,1 @@
-var mnemonic = "pond goat actress result tackle risk motion razor luxury pottery derive hockey";
+var mnemonic = "immune castle rate kid bullet feature cabbage floor supply lift lounge snap";

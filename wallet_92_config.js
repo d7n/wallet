@@ -1,1 +1,1 @@
-var mnemonic = "ranch cushion analyst abstract range purse brush volume state better good fiscal";
+var mnemonic = "expire knock congress spoil black hungry umbrella domain blast universe news pottery";

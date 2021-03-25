@@ -1,1 +1,1 @@
-var mnemonic = "purpose ghost aunt fever unknown memory toe memory calm mobile yellow soldier";
+var mnemonic = "like avoid time grow call orbit buddy rose remind chief bottom donate";

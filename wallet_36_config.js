@@ -1,1 +1,1 @@
-var mnemonic = "olive peace screen head sure dumb other odor window inquiry cloud craft";
+var mnemonic = "slim pig chimney pipe account exclude suffer cook general distance please rotate";

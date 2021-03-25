@@ -1,1 +1,1 @@
-var mnemonic = "asset review nut width jaguar cluster anxiety diamond mushroom rhythm item chapter";
+var mnemonic = "book bachelor minor trumpet prison bright banner cancel year fence protect civil";

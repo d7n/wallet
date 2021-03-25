@@ -1,1 +1,1 @@
-var mnemonic = "fabric demise allow autumn judge menu insect derive bean connect section keen";
+var mnemonic = "talk couple human hazard model radar load urban stock force all razor";

@@ -1,1 +1,1 @@
-var mnemonic = "fan angle maze beef swing arrest canal trade play spike east gun";
+var mnemonic = "dizzy shallow canvas dance sad bulk aisle sketch buddy mistake oppose inspire";

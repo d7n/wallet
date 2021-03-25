@@ -1,1 +1,1 @@
-var mnemonic = "vibrant push during foster rate section obtain target buddy swamp snap man";
+var mnemonic = "sad vague stumble key payment small pill drama offer pitch derive immense";

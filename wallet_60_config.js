@@ -1,1 +1,1 @@
-var mnemonic = "foil win book credit mention shallow oven avoid rival bean expire damage";
+var mnemonic = "letter valve nuclear soft cook pattern flame cool item mystery sure slab";

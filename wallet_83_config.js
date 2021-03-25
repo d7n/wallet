@@ -1,1 +1,1 @@
-var mnemonic = "three spray harbor finger series loan forum old donkey unable push fee";
+var mnemonic = "weasel famous source barely release card topple zone mule report top render";

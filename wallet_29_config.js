@@ -1,1 +1,1 @@
-var mnemonic = "trial edit goat position lens ocean blossom exile enlist clever warrior mixture";
+var mnemonic = "horse stuff aim industry machine gift deputy wise animal always field party";

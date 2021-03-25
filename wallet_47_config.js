@@ -1,1 +1,1 @@
-var mnemonic = "orchard success actual way ivory index brother power behind all hurt common";
+var mnemonic = "will sausage submit sugar found fun spice ability mesh silver wish liquid";

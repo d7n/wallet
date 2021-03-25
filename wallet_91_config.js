@@ -1,1 +1,1 @@
-var mnemonic = "front across confirm load report door faculty divide logic any universe unusual";
+var mnemonic = "swarm west mutual idea dynamic system limit acquire rain urban cattle magnet";

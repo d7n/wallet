@@ -1,1 +1,1 @@
-var mnemonic = "sail involve tape autumn remind demand tonight general predict survey depart aware";
+var mnemonic = "dune advance mixture use warm ecology empty busy bounce equip better magnet";

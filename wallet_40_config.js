@@ -1,1 +1,1 @@
-var mnemonic = "bean achieve genius sentence muffin wood color foam question midnight boy relax";
+var mnemonic = "live erosion place critic nature curtain order alpha bubble skill lunch monster";

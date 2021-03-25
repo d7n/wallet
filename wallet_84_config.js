@@ -1,1 +1,1 @@
-var mnemonic = "three link riot squeeze easily model exit pupil together property either crash";
+var mnemonic = "govern sustain remind capital biology cereal erode peace pledge control attend shaft";

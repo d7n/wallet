@@ -1,1 +1,1 @@
-var mnemonic = "paper tragic insect glad tenant orient when edge angry leisure double gesture";
+var mnemonic = "please wash mountain road muscle carpet monkey length try mean evolve spatial";

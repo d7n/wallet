@@ -1,1 +1,1 @@
-var mnemonic = "insane zero dance patch loan there raise hockey spice wet food loan";
+var mnemonic = "drastic truck away decade thumb snow local fold mystery length dust thumb";

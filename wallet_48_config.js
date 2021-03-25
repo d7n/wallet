@@ -1,1 +1,1 @@
-var mnemonic = "satoshi parade evoke start decrease index drive vicious silk hurt double law";
+var mnemonic = "that angry detect bracket inside direct asset review anger chair mansion easily";

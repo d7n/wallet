@@ -1,1 +1,1 @@
-var mnemonic = "knock verify inner rough gate famous hybrid stand hold reflect shadow praise";
+var mnemonic = "butter orchard mention rent side grab decade victory mix eternal tobacco price";

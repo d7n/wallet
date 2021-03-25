@@ -1,1 +1,1 @@
-var mnemonic = "night wrap gap maximum parrot pepper cheese thrive nest plastic dune scorpion";
+var mnemonic = "shoulder capable agree drift two crash range join rocket wise similar fluid";

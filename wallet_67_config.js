@@ -1,1 +1,1 @@
-var mnemonic = "clog tackle recycle make famous hint drink oval arm clinic camp guilt";
+var mnemonic = "absent woman alter universe train volcano purchase liquid weekend coil focus also";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow crisp change tomorrow cloud federal spot unfair abstract error repeat volume";
+var mnemonic = "fatigue struggle process dad alley tip version bounce lab lecture hub essence";

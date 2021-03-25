@@ -1,1 +1,1 @@
-var mnemonic = "occur blossom noble cover script drastic area stay account child jeans stem";
+var mnemonic = "almost cereal where state saddle worth private reject hood differ silent unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "clap eternal cake power life trade muscle drum cost kidney nut stamp";
+var mnemonic = "wash rude pony section appear tree traffic number mushroom hammer conduct video";

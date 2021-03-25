@@ -1,1 +1,1 @@
-var mnemonic = "runway vital pitch emerge around alert unable still maid raven game fix";
+var mnemonic = "protect cover hollow they holiday dad peace drive master laptop syrup yellow";

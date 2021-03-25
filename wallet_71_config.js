@@ -1,1 +1,1 @@
-var mnemonic = "caught vacant lecture lazy fitness glove fortune monster video abuse wood uniform";
+var mnemonic = "solar shuffle fiber vanish shadow issue east baby boss save lounge pen";

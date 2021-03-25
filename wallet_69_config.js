@@ -1,1 +1,1 @@
-var mnemonic = "rice small decorate chief can average gossip person usual picture panic dish";
+var mnemonic = "blue police scare usual remember total soul expect wild nurse shell flock";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly lounge shed sleep jeans drift differ novel pony sweet genius junk";
+var mnemonic = "harbor black raise civil swarm because thumb horn thank happy nominee educate";

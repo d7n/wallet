@@ -1,1 +1,1 @@
-var mnemonic = "oxygen barely snow wagon below athlete wolf clown sausage taxi effort easily";
+var mnemonic = "bind artist occur exact fortune loud only drop people humor erode rail";

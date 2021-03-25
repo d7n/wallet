@@ -1,1 +1,1 @@
-var mnemonic = "finish faculty stove muscle test journey elephant coral tray shock sentence kitchen";
+var mnemonic = "sense first grape want style zoo taste behave discover play light tape";

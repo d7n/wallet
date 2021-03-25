@@ -1,1 +1,1 @@
-var mnemonic = "better panther island example spawn sugar popular eye wheat quick biology purse";
+var mnemonic = "illness room whisper jacket soft load luggage cereal rival shiver shallow royal";

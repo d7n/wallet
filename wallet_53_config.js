@@ -1,1 +1,1 @@
-var mnemonic = "bitter zone real extra awkward clog giraffe spot essence glove truth safe";
+var mnemonic = "hill tray chase point tell arrest velvet sketch mention gentle drama oak";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon entire sponsor spatial grace gesture party connect nerve expand syrup tragic";
+var mnemonic = "roof pupil weather school spend gun giraffe atom lazy vivid fancy surface";

@@ -1,1 +1,1 @@
-var mnemonic = "caught okay work horn apart light glory tunnel receive shed bag valley";
+var mnemonic = "blind evidence pact hope session trade tell suit depend island start ladder";

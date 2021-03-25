@@ -1,1 +1,1 @@
-var mnemonic = "snow shine prison leaf eagle flee credit lizard express provide yard device";
+var mnemonic = "vanish rhythm shift divorce town vital whale soccer retreat grain solve mixed";

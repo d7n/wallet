@@ -1,1 +1,1 @@
-var mnemonic = "upper pride crime flash trick beauty bicycle damage social volcano balcony wheel";
+var mnemonic = "siren kiss vivid save spot flavor charge copper unique already report unlock";

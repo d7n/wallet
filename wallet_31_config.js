@@ -1,1 +1,1 @@
-var mnemonic = "unlock sponsor sand setup pen wait champion noodle cabin lobster eagle eyebrow";
+var mnemonic = "shrug develop focus arrive orphan destroy scale cable advance throw soul crisp";

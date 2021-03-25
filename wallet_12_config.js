@@ -1,1 +1,1 @@
-var mnemonic = "rely country group fix grab blanket talent priority split amazing trouble rent";
+var mnemonic = "benefit tenant find arch negative dawn uncle place prefer clever barrel random";

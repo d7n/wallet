@@ -1,1 +1,1 @@
-var mnemonic = "inject cat catalog toss crane uncle anxiety orbit sheriff daring luxury december";
+var mnemonic = "hand spy practice situate more slice cost illness magnet garbage smile convince";

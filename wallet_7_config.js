@@ -1,1 +1,1 @@
-var mnemonic = "dove balcony concert nose bulk barrel outdoor uphold track birth focus attend";
+var mnemonic = "hello correct farm outside arrow filter barely stamp grass monster claim sport";

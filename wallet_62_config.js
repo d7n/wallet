@@ -1,1 +1,1 @@
-var mnemonic = "bring where focus clever brave inspire venture outside remind music winter atom";
+var mnemonic = "steak void pave item romance point pink helmet guitar raise vacant man";

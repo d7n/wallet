@@ -1,1 +1,1 @@
-var mnemonic = "stamp wait physical inmate zoo donkey tell material gasp equip punch side";
+var mnemonic = "banner mask gown aunt pair minimum save wife vessel cube ridge various";

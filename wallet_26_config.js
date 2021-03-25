@@ -1,1 +1,1 @@
-var mnemonic = "install victory corn blanket blood time sun traffic pear expose muscle brass";
+var mnemonic = "net humor diamond rose gossip local trade ginger dose regular right clip";

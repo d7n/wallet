@@ -1,1 +1,1 @@
-var mnemonic = "among run captain destroy canal gospel heart crush switch autumn casual left";
+var mnemonic = "finish that purse direct this cluster connect aim tower soon memory faculty";

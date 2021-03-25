@@ -1,1 +1,1 @@
-var mnemonic = "happy street broom payment wasp art film tree kangaroo exhaust arm panda";
+var mnemonic = "what roof tourist banana boy art jewel curious soap always crowd napkin";
