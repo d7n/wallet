@@ -1,1 +1,1 @@
-var mnemonic = "flee cannon chase column allow enable warm club cross wedding yard catalog";
+var mnemonic = "victory blouse pole tower rescue fan impulse seat pink acoustic slide hockey";

@@ -1,1 +1,1 @@
-var mnemonic = "hard liberty drum lyrics unveil acoustic average flag fancy sniff face civil";
+var mnemonic = "phone early edit north trip wool nephew bachelor survey current monitor measure";

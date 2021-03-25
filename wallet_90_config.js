@@ -1,1 +1,1 @@
-var mnemonic = "style resource earth east glare term hard muffin since cover note liberty";
+var mnemonic = "garden girl mixture taste pause sleep appear cherry submit maple gap describe";

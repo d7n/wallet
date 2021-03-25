@@ -1,1 +1,1 @@
-var mnemonic = "clean energy prefer hunt town book potato eagle illness leave expose north";
+var mnemonic = "gas size laptop age dish element dish garden nest sausage drill point";

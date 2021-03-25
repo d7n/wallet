@@ -1,1 +1,1 @@
-var mnemonic = "mushroom key chalk attend evoke filter room point wide army velvet when";
+var mnemonic = "crumble original mimic already rebuild duck inflict possible kind bundle gather faith";

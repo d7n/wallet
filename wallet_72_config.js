@@ -1,1 +1,1 @@
-var mnemonic = "surprise weather debris loan page heart sail way liberty saddle girl tooth";
+var mnemonic = "cereal tonight catch bundle wrap chicken author decade solve royal enough region";

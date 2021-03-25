@@ -1,1 +1,1 @@
-var mnemonic = "spring sorry adjust soda dial doll pluck fit question embrace perfect what";
+var mnemonic = "enough differ click second mail toy team wreck recipe buzz horn blanket";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet silk rent scrub spice slogan cheap leave impact token amount quick";
+var mnemonic = "stomach sort label puzzle obscure stove upper earth retreat wet absorb goddess";

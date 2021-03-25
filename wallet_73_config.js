@@ -1,1 +1,1 @@
-var mnemonic = "local shield leaf flush popular myth onion half gift damp dune maple";
+var mnemonic = "half flock way cheese merry wing hair scene couch interest strong weapon";

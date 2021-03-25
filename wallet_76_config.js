@@ -1,1 +1,1 @@
-var mnemonic = "cute price leaf waste twelve direct sphere own clinic describe brown waste";
+var mnemonic = "heart peasant skate purse want snap tower sort carry illegal monkey neglect";

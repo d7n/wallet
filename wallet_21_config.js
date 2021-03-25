@@ -1,1 +1,1 @@
-var mnemonic = "install eyebrow aerobic chalk success mail scissors cash penalty wrestle habit chef";
+var mnemonic = "wet weasel spawn lamp fossil kingdom agree erosion member art liquid tube";

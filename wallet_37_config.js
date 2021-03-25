@@ -1,1 +1,1 @@
-var mnemonic = "album sound flip grape harbor twice reward era giggle another busy exhaust";
+var mnemonic = "arch marble source observe brand detect proud agree secret various barrel city";

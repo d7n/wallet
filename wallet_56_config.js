@@ -1,1 +1,1 @@
-var mnemonic = "frown dragon hurt bread economy elder eyebrow ancient patch school nephew stadium";
+var mnemonic = "uphold wish treat climb agent vibrant notable boss work cruel salon helmet";

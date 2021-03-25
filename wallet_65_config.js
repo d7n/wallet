@@ -1,1 +1,1 @@
-var mnemonic = "elder game disagree render guess liar picture culture write attend aunt group";
+var mnemonic = "meat dinosaur aspect sorry awkward sting cover fruit vote verify marine wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "sister system bundle horn elegant across pole monkey circle hawk pave news";
+var mnemonic = "merry target soda comfort jungle steak wear traffic early energy snack firm";

@@ -1,1 +1,1 @@
-var mnemonic = "damp model lake crisp spatial alien oval annual exhibit empower brisk gas";
+var mnemonic = "simple bounce bone copper flight inquiry tragic dumb ketchup unusual eyebrow possible";

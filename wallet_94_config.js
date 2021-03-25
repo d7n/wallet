@@ -1,1 +1,1 @@
-var mnemonic = "polar rich sort cousin expose prepare armed thunder pill joy sample pull";
+var mnemonic = "spray cricket echo zero couch confirm head indicate valve matter math man";

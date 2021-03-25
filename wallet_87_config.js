@@ -1,1 +1,1 @@
-var mnemonic = "aim noodle oak live million hood pyramid beef journey mistake icon super";
+var mnemonic = "between blood prefer vacant dash upon coach asset behave just say duty";

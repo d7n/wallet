@@ -1,1 +1,1 @@
-var mnemonic = "arrange mind lizard behind pair remain main vocal dutch ethics train decide";
+var mnemonic = "claw blush moment lyrics price hawk zero grow merry cricket buyer pilot";

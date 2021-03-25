@@ -1,1 +1,1 @@
-var mnemonic = "friend quiz arrange reject regular elder advice major atom quit chunk east";
+var mnemonic = "borrow apple alone primary video fatigue correct pole inside city target desert";

@@ -1,1 +1,1 @@
-var mnemonic = "comic night have food ability fiction bicycle loud voyage candy sword glue";
+var mnemonic = "group paper address frost nasty mirror basket guilt grow gesture promote pact";

@@ -1,1 +1,1 @@
-var mnemonic = "candy jeans hero whale ask screen ramp nurse change tent pistol soup";
+var mnemonic = "ketchup prefer depend caution come pear pupil shock recycle wrist round decade";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual dance coin chimney session bread advance black piano guilt boost nation";
+var mnemonic = "punch silk juice strategy into fragile apple topple path armor gown essay";

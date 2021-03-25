@@ -1,1 +1,1 @@
-var mnemonic = "lunar tornado engage better cross spike illness annual story milk fruit link";
+var mnemonic = "ring boost denial judge alley tortoise bargain hope parent guide glide unlock";

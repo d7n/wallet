@@ -1,1 +1,1 @@
-var mnemonic = "asthma sort farm liquid turkey depth agree umbrella bicycle valley together razor";
+var mnemonic = "exercise deputy dismiss suggest hamster nephew board fit child jelly advice sibling";

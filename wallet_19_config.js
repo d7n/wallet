@@ -1,1 +1,1 @@
-var mnemonic = "fire share little divert present magnet exercise tray stove term dumb raise";
+var mnemonic = "problem hurry argue menu photo turn present midnight kitchen crop midnight major";

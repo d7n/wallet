@@ -1,1 +1,1 @@
-var mnemonic = "office boy famous galaxy strategy soda address goat virus apple stumble float";
+var mnemonic = "power essay clock jungle alley often boy include blossom guide offer dumb";

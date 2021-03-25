@@ -1,1 +1,1 @@
-var mnemonic = "spy where vendor letter clip expect boring link prefer figure early twist";
+var mnemonic = "couch cool zebra art basic alter empty crucial cupboard cigar street circle";

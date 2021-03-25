@@ -1,1 +1,1 @@
-var mnemonic = "mixture crawl team feature potato similar fire flee kit cruel jazz abandon";
+var mnemonic = "another around couch odor sustain cereal curtain roast wild zone success helmet";

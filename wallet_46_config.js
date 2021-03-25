@@ -1,1 +1,1 @@
-var mnemonic = "version abandon loud inhale resist medal cart offer mom man kit script";
+var mnemonic = "circle horn robust where effort ahead project village opera indoor nephew dune";

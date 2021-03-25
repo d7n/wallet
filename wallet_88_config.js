@@ -1,1 +1,1 @@
-var mnemonic = "boost noise crowd snack during express plug equal govern inspire ribbon letter";
+var mnemonic = "year relief replace deal spoil stage ability maid pioneer doctor erosion use";

@@ -1,1 +1,1 @@
-var mnemonic = "arm bulk salmon soul lemon badge paper knock alcohol digital picture pelican";
+var mnemonic = "team result tackle rebel crew polar asset fringe boy there sad cricket";

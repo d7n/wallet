@@ -1,1 +1,1 @@
-var mnemonic = "similar position hotel venture nasty mirror sense idea market abandon drill physical";
+var mnemonic = "shop jeans trigger innocent luxury carbon citizen anger avocado holiday goose fiscal";

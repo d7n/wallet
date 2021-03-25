@@ -1,1 +1,1 @@
-var mnemonic = "major lunch soup brave cry garage victory caught horn market expect only";
+var mnemonic = "stereo witness latin orient piece stuff nephew clip toilet misery room online";

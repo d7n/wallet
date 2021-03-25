@@ -1,1 +1,1 @@
-var mnemonic = "side surge valley guide energy situate visit true tuna you tennis ginger";
+var mnemonic = "scheme under odor jungle eternal tribe scheme sad cannon rhythm alley raw";

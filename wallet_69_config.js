@@ -1,1 +1,1 @@
-var mnemonic = "oak veteran quantum rhythm citizen tone same fiber animal urge push replace";
+var mnemonic = "radar museum memory silly super obscure spread mail fashion denial youth auto";

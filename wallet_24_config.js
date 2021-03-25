@@ -1,1 +1,1 @@
-var mnemonic = "source laundry parent proof kind there attack dance spell coast satoshi crawl";
+var mnemonic = "ancient offer doctor exchange divide capital bus adult nasty output cycle wild";

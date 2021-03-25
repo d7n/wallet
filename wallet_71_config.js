@@ -1,1 +1,1 @@
-var mnemonic = "practice human curtain half size lion smoke speed razor cage shift deal";
+var mnemonic = "before heavy limb galaxy grocery large foil quit actor output kiss same";

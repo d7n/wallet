@@ -1,1 +1,1 @@
-var mnemonic = "verb suspect garage short tuition ignore ahead win pipe leg aware civil";
+var mnemonic = "cook bag negative odor festival ozone exchange meat finish edge stomach admit";

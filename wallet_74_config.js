@@ -1,1 +1,1 @@
-var mnemonic = "margin another funny acquire light spatial lonely gospel cost sunset vapor excuse";
+var mnemonic = "robot salmon cart bubble hungry gap fade merry concert miracle swim space";

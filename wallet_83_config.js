@@ -1,1 +1,1 @@
-var mnemonic = "aspect utility suggest tackle fall beyond address ill circle evolve frown glow";
+var mnemonic = "yard rebuild assault check item piece hand six danger please year bulk";

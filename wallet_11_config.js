@@ -1,1 +1,1 @@
-var mnemonic = "ensure repeat remove clap argue voice heavy broken energy bike flag pumpkin";
+var mnemonic = "away street rabbit casual kick visit liquid athlete shield ozone peanut wood";

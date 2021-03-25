@@ -1,1 +1,1 @@
-var mnemonic = "spirit emotion cereal stuff wheat regret actor drill robust blanket wrap smoke";
+var mnemonic = "inquiry retire tunnel refuse lottery army mansion ladder tissue town quick rate";

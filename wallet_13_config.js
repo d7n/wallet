@@ -1,1 +1,1 @@
-var mnemonic = "rug unveil typical hurry valid lunar finish skate six essence knock angle";
+var mnemonic = "fruit enlist shed blossom devote tourist attitude amused erase fade lounge window";

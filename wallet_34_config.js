@@ -1,1 +1,1 @@
-var mnemonic = "own unhappy execute arctic shrimp year neglect typical salute believe junk salon";
+var mnemonic = "stereo secret dolphin author salmon tennis manual library grief sadness cat height";

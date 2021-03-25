@@ -1,1 +1,1 @@
-var mnemonic = "dismiss between mail debris obtain flame final hover ski track season crop";
+var mnemonic = "obvious monitor segment picture clip brush lava tribe tuition garage more already";

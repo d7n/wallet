@@ -1,1 +1,1 @@
-var mnemonic = "describe awake agent season reward broken portion demand process rail hour lecture";
+var mnemonic = "trip dumb lend sand train demand mesh fluid urge real recipe talk";

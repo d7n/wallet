@@ -1,1 +1,1 @@
-var mnemonic = "voice ignore life echo force maple treat chase actual claw ticket social";
+var mnemonic = "guess method move local leaf hover kidney tissue plunge anger venue nation";

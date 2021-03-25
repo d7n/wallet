@@ -1,1 +1,1 @@
-var mnemonic = "letter popular victory egg evil betray gossip rural lamp dice essay object";
+var mnemonic = "fever push economy robust awake month crowd brush science letter ozone pig";

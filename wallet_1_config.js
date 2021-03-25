@@ -1,1 +1,1 @@
-var mnemonic = "clerk symptom kind scatter balcony shock end burst okay monkey margin lonely";
+var mnemonic = "fitness jealous pool exit deal depart clerk moon skin assault slim helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy already minute poverty verb giggle hair also witness situate talent draw";
+var mnemonic = "opera lock clock mango journey angle tell pill burst maximum reflect resemble";

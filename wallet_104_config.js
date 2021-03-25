@@ -1,1 +1,1 @@
-var mnemonic = "develop silly witness trim whale flower father select shoulder usage long option";
+var mnemonic = "hire opera city salon uniform couch elite sphere grain hazard marine spy";

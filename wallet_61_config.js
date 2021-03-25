@@ -1,1 +1,1 @@
-var mnemonic = "visit civil sign prison dove audit rapid about rail slim nothing ignore";
+var mnemonic = "rare bubble alter team thrive moment place arch sauce either glass range";

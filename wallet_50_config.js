@@ -1,1 +1,1 @@
-var mnemonic = "total rebel network feature soul gesture walk useful ceiling snap aunt bicycle";
+var mnemonic = "brain lunar ignore sheriff disagree bonus ranch glass dog price fade mistake";

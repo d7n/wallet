@@ -1,1 +1,1 @@
-var mnemonic = "light sting help mouse ethics rose inside skin quarter minimum behave sister";
+var mnemonic = "real fruit alpha release shoulder share alpha lion exotic glue artefact crane";

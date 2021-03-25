@@ -1,1 +1,1 @@
-var mnemonic = "voyage axis spring light they zoo guard phone ensure stem bubble derive";
+var mnemonic = "also vacant crime hungry ordinary lunar great lesson trigger lend galaxy agree";

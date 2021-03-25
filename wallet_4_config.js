@@ -1,1 +1,1 @@
-var mnemonic = "social cook gain source liberty globe cream gas spread hover trim artist";
+var mnemonic = "iron runway message mercy glide vendor alert frequent town abuse chunk mobile";

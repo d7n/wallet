@@ -1,1 +1,1 @@
-var mnemonic = "arch smile used shine display salt device pair later west box budget";
+var mnemonic = "come expire carry unfair token mad betray again immune private aim fitness";

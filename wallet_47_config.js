@@ -1,1 +1,1 @@
-var mnemonic = "remove citizen hockey space purity agent grocery donor police shy aerobic soup";
+var mnemonic = "mass bike dad maximum lizard afford future globe develop chunk multiply okay";

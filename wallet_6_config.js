@@ -1,1 +1,1 @@
-var mnemonic = "install unveil victory gravity teach net there crystal zero hurdle exhibit judge";
+var mnemonic = "february afraid distance decrease chase first crash sea rescue gentle team lake";

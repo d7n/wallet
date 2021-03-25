@@ -1,1 +1,1 @@
-var mnemonic = "buddy maid orange ribbon blame cloth retreat floor brave doll injury exhaust";
+var mnemonic = "when bitter category afford alien window dolphin annual beyond atom kiss panther";

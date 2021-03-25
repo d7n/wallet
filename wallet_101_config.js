@@ -1,1 +1,1 @@
-var mnemonic = "way hedgehog torch project act napkin pen claim hazard will hole left";
+var mnemonic = "give liberty liquid hint hub ankle faith parade note short enough bless";

@@ -1,1 +1,1 @@
-var mnemonic = "core border trip initial child age kitchen pet legend agent ticket rocket";
+var mnemonic = "elephant piece today security globe panther craft right credit kind helmet economy";

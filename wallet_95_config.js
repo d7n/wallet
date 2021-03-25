@@ -1,1 +1,1 @@
-var mnemonic = "upset carpet pilot invest canal teach rain vapor save hollow neck cattle";
+var mnemonic = "major season recycle engage shiver improve trash purpose rookie decade race body";

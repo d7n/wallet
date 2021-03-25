@@ -1,1 +1,1 @@
-var mnemonic = "direct vocal parrot supply trigger stove rain crack wealth vivid leaf enter";
+var mnemonic = "lake story curve access fix palm motor produce riot convince young hero";

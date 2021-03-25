@@ -1,1 +1,1 @@
-var mnemonic = "climb fuel shrug safe token input post measure speed favorite mix weather";
+var mnemonic = "will start upper clutch bone repair gaze barely street gather hand sweet";

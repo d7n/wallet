@@ -1,1 +1,1 @@
-var mnemonic = "biology multiply quantum audit electric love hover fix deposit opera fan blossom";
+var mnemonic = "inner immense veteran equip ritual adjust vault gaze goat physical charge crew";

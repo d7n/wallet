@@ -1,1 +1,1 @@
-var mnemonic = "face huge flock core mix orient silent bronze usage federal blind special";
+var mnemonic = "real penalty mutual moon fault scorpion little desk engage broccoli avoid jealous";

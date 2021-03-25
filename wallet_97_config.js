@@ -1,1 +1,1 @@
-var mnemonic = "gadget afraid menu cluster notice fence mad grit sheriff envelope broken cousin";
+var mnemonic = "around proud good tape vague twenty ask merry estate oblige half tiny";

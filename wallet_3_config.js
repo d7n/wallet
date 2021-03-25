@@ -1,1 +1,1 @@
-var mnemonic = "today feed inform pact science vibrant cook step pizza price battle route";
+var mnemonic = "daring game toddler tonight lesson direct used zebra column diary either genre";

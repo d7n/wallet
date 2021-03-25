@@ -1,1 +1,1 @@
-var mnemonic = "flight velvet beauty thank stage cube multiply over weapon chronic steel turkey";
+var mnemonic = "number love private double laugh alter toddler arctic modify rack misery tongue";

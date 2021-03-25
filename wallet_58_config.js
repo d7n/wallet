@@ -1,1 +1,1 @@
-var mnemonic = "gentle wish forward suspect endless add nerve vehicle differ tongue ankle involve";
+var mnemonic = "boss bread great please leader argue narrow sniff clever flower assume sing";

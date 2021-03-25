@@ -1,1 +1,1 @@
-var mnemonic = "scene opera bulk client icon vital side animal swear weird dog still";
+var mnemonic = "parade lobster section height renew bid blast flash enact country wood spring";

@@ -1,1 +1,1 @@
-var mnemonic = "receive control slush ribbon hollow lady zoo soap phone mushroom crack zebra";
+var mnemonic = "journey market track ocean cushion finish horn tragic toss profit robot street";

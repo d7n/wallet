@@ -1,1 +1,1 @@
-var mnemonic = "bulk receive wealth labor bulb soccer begin marine ripple script effort turtle";
+var mnemonic = "attack buzz case peace fuel model speak best pave pave exact this";

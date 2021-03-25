@@ -1,1 +1,1 @@
-var mnemonic = "mosquito deposit clay volume popular another annual ethics extra clerk family nose";
+var mnemonic = "subject miss wine theme web resist recipe dial spawn kiwi safe defense";

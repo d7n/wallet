@@ -1,1 +1,1 @@
-var mnemonic = "address rhythm submit demise miracle tongue blur nose good liar reform electric";
+var mnemonic = "comfort behind napkin rib will hotel help people one dismiss session gold";

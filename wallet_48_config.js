@@ -1,1 +1,1 @@
-var mnemonic = "net cruise step settle electric monkey valve easy admit neutral need sweet";
+var mnemonic = "disease hood rack similar powder carry farm cable glimpse uncover syrup void";

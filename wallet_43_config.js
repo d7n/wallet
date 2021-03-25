@@ -1,1 +1,1 @@
-var mnemonic = "near fossil magic they awesome suggest harsh vote hair under about solution";
+var mnemonic = "domain chuckle airport away embark paddle receive doctor pet apple labor fame";

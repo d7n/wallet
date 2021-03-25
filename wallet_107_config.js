@@ -1,1 +1,1 @@
-var mnemonic = "dumb ladder next blush cinnamon giant biology episode arrange category oak deliver";
+var mnemonic = "tooth recycle exact draft wait proof sort tongue mystery update twenty vote";

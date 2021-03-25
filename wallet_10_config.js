@@ -1,1 +1,1 @@
-var mnemonic = "fog boss badge venue blame enforce bicycle consider loyal gravity fragile join";
+var mnemonic = "express exist engine vintage job squirrel flight hedgehog nuclear spread sort parade";

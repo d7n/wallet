@@ -1,1 +1,1 @@
-var mnemonic = "liar panic job feed anger position satisfy physical wash debate roof school";
+var mnemonic = "dragon choice input leaf idea define end style spy deposit size sort";

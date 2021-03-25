@@ -1,1 +1,1 @@
-var mnemonic = "own canoe human spend wall affair bubble board chronic easily always also";
+var mnemonic = "hand agent great second chaos interest later blast equal release hollow twist";

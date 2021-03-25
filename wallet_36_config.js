@@ -1,1 +1,1 @@
-var mnemonic = "scrap rural action sketch sadness arrow child layer hint peace destroy mention";
+var mnemonic = "awkward trigger world virus spin scheme tired write holiday divert resource kick";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday loop museum hidden offer lobster eager dwarf faint seed rabbit consider";
+var mnemonic = "mystery course cloud dirt relief drum spell orchard only exact attract rebuild";

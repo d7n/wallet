@@ -1,1 +1,1 @@
-var mnemonic = "diamond settle fruit patrol mouse bridge require wise multiply ankle snake wonder";
+var mnemonic = "story say warfare plastic episode infant venue car hard tooth name artist";
