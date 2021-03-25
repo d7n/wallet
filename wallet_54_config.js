@@ -1,1 +1,1 @@
-var mnemonic = "notable oval comic circle surround reflect squirrel rather prosper north body involve";
+var mnemonic = "injury regret project path record tumble nerve toilet trend struggle hair meat";

@@ -1,1 +1,1 @@
-var mnemonic = "valid stool chaos heavy capital exact way corn thumb team error village";
+var mnemonic = "casual best stumble cute cherry twist strategy setup again measure alone shaft";

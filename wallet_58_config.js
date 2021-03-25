@@ -1,1 +1,1 @@
-var mnemonic = "liar lady innocent autumn enrich fluid lizard there such kind quantum twin";
+var mnemonic = "tell innocent penalty ancient clip access midnight clump require ride apple opinion";

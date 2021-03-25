@@ -1,1 +1,1 @@
-var mnemonic = "topic type piece saddle pulse hedgehog sing reform gossip dutch episode inmate";
+var mnemonic = "same forward special acid purpose short suggest market champion consider harsh huge";

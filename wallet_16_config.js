@@ -1,1 +1,1 @@
-var mnemonic = "hazard park party obtain fetch fuel chest crazy chair phone unlock enact";
+var mnemonic = "cage badge urban north useful tomato smoke actress below solve talk snake";

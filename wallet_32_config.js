@@ -1,1 +1,1 @@
-var mnemonic = "brother empty survey mercy local banner very mansion hunt exercise oppose sweet";
+var mnemonic = "sea second clap talent shy belt hungry wrestle say friend local cycle";

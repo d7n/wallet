@@ -1,1 +1,1 @@
-var mnemonic = "deny spend forward perfect portion sunny job best pilot clever nominee coral";
+var mnemonic = "exhaust million sting caught record today fish wood such present cause tuna";

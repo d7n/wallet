@@ -1,1 +1,1 @@
-var mnemonic = "satisfy either pause crawl fog carbon disorder method night pattern caution rabbit";
+var mnemonic = "milk genuine sudden state tortoise public toe version cycle circle planet social";

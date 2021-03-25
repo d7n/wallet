@@ -1,1 +1,1 @@
-var mnemonic = "stone depth fatal target train twelve screen battle quote suit ahead heart";
+var mnemonic = "budget library plug detail enjoy release flush jacket saddle rose east absorb";

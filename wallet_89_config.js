@@ -1,1 +1,1 @@
-var mnemonic = "athlete leg primary genuine logic predict awful inject caught found project income";
+var mnemonic = "flee tower genre refuse armor parrot merge modify side route pipe soccer";

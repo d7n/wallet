@@ -1,1 +1,1 @@
-var mnemonic = "web vivid mixture join swamp very wait submit vital hard genius arrest";
+var mnemonic = "option material rain still agent number file book mountain mirror host creek";

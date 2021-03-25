@@ -1,1 +1,1 @@
-var mnemonic = "betray match polar cigar typical arch bubble fault fetch jewel junk bargain";
+var mnemonic = "engage upgrade inner degree metal squeeze essay march stable tag trade indoor";

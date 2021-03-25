@@ -1,1 +1,1 @@
-var mnemonic = "stairs cable prison obey volume secret attract upon change rain tool cash";
+var mnemonic = "wink blast broom frog relief chuckle tumble south gesture turkey husband vault";

@@ -1,1 +1,1 @@
-var mnemonic = "fire book bench require october mesh bunker manual heart offer rough future";
+var mnemonic = "slight novel muffin seek frozen verify angle horror regular solar envelope crew";

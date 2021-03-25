@@ -1,1 +1,1 @@
-var mnemonic = "awake fish raccoon copper jealous harbor coral spend rate deputy grant aunt";
+var mnemonic = "either keen model prosper boost fetch deputy sock sheriff envelope chronic innocent";

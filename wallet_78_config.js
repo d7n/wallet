@@ -1,1 +1,1 @@
-var mnemonic = "enroll oval drift solar stool custom receive nation pool mom render butter";
+var mnemonic = "vehicle pioneer fine detect language little cheese step alarm quit next spend";

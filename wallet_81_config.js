@@ -1,1 +1,1 @@
-var mnemonic = "goddess airport little feel lava marriage blame energy evolve horror egg clay";
+var mnemonic = "begin snack three drip orange frame win rug fork current nice fetch";

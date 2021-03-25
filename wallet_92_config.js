@@ -1,1 +1,1 @@
-var mnemonic = "goose supply figure spirit half rookie mixed tomato clump early few bargain";
+var mnemonic = "smoke soda warrior debate blur imitate wire royal quote offer wild sail";

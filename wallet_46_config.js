@@ -1,1 +1,1 @@
-var mnemonic = "argue okay diet allow panel glue old vocal script shy expect action";
+var mnemonic = "marine bomb shallow repeat ready ring possible gadget tray shop scrap review";

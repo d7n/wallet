@@ -1,1 +1,1 @@
-var mnemonic = "vibrant void daughter fall polar blame below prefer forum rifle menu verify";
+var mnemonic = "bulk only oppose square mesh exit success safe tomato switch camp practice";

@@ -1,1 +1,1 @@
-var mnemonic = "wet vacant ignore distance define frame pepper question uphold sight surface same";
+var mnemonic = "finish achieve crack awesome ridge deny soup plastic exhibit include garment churn";

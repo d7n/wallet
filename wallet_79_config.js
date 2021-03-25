@@ -1,1 +1,1 @@
-var mnemonic = "metal tribe avocado quote funny diesel can bomb honey fame unfold seat";
+var mnemonic = "enact author oppose effort morning lazy popular dish stamp base parrot afraid";

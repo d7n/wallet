@@ -1,1 +1,1 @@
-var mnemonic = "hero volcano reform beef topple avocado spider palm example leave age empty";
+var mnemonic = "where jewel sleep month profit garbage ignore two boy cram come beef";

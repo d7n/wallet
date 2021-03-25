@@ -1,1 +1,1 @@
-var mnemonic = "spread above couple theory violin debate monkey put spend hip normal weird";
+var mnemonic = "eternal shed spy tonight enough apart problem blossom course skate man member";

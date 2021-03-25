@@ -1,1 +1,1 @@
-var mnemonic = "empower ordinary envelope myself bar lumber chief advance later crunch economy bunker";
+var mnemonic = "model balcony hip fitness analyst balcony cupboard mule legal shoe grow erode";

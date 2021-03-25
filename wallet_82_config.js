@@ -1,1 +1,1 @@
-var mnemonic = "wink odor march attack idle high cannon gas receive squirrel industry glare";
+var mnemonic = "evil broom kind soldier adapt suit travel clutch lion genius forum salute";

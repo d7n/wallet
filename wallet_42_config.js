@@ -1,1 +1,1 @@
-var mnemonic = "confirm tip noodle coral sell talent push cat ball dance oppose lend";
+var mnemonic = "sister clarify meadow dignity urge front guess rabbit steel duck tilt gauge";

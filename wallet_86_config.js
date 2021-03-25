@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog cigar ivory pyramid shrimp glimpse pause sugar valid fragile extend razor";
+var mnemonic = "regular steak purity father income renew pumpkin gravity stem grass file awful";

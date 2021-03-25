@@ -1,1 +1,1 @@
-var mnemonic = "settle story diet science industry vital nominee list price inflict exclude tube";
+var mnemonic = "rail scorpion thank master taste earn faculty almost basket fog nuclear stick";

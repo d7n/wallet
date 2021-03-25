@@ -1,1 +1,1 @@
-var mnemonic = "scrap blanket crucial people apple garage jazz insect state pig once forum";
+var mnemonic = "chest balcony open able road base promote emerge prefer giant dance fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "exchange before wait volcano fade clay orient silly verb cruise foil script";
+var mnemonic = "museum cute bottom actual crucial thunder flush youth mobile damp stomach economy";

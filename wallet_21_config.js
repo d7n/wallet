@@ -1,1 +1,1 @@
-var mnemonic = "swim believe hamster smooth blind injury gadget process science thing vessel huge";
+var mnemonic = "faculty sight room foil ramp curve excite hamster antique cat reform creek";

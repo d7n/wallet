@@ -1,1 +1,1 @@
-var mnemonic = "slice wheat float tree talk steak tell neutral work regular left glow";
+var mnemonic = "frost fringe wheel egg bread stereo ring have orchard wall reject zebra";

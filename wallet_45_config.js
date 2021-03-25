@@ -1,1 +1,1 @@
-var mnemonic = "web shallow security suit goose keep accident bundle media farm humor busy";
+var mnemonic = "cat inflict acoustic symbol giggle coil dose march long dutch govern ready";

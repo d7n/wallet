@@ -1,1 +1,1 @@
-var mnemonic = "ring feel guard will census conduct awesome biology flight man nose lab";
+var mnemonic = "depart devote bronze glad dignity excess join river any lamp try hard";

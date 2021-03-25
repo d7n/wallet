@@ -1,1 +1,1 @@
-var mnemonic = "sunset decide awful rotate disagree dumb heavy force village trophy pulse young";
+var mnemonic = "payment can junior pear vibrant share fade edge peasant account rapid wise";

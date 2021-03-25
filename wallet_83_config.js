@@ -1,1 +1,1 @@
-var mnemonic = "vault trouble rival shaft friend excite unaware first siege labor frost success";
+var mnemonic = "dose waste stadium upon chief dove few friend clay people dress else";

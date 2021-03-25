@@ -1,1 +1,1 @@
-var mnemonic = "envelope paper ivory evolve office unable garlic imitate holiday melt chimney juice";
+var mnemonic = "only rotate smile parrot egg lawn other letter margin odor abstract cry";

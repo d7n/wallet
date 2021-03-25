@@ -1,1 +1,1 @@
-var mnemonic = "attitude banana word guess canoe invite nation admit struggle bullet embark stove";
+var mnemonic = "swim sausage cigar crop spare fashion loyal culture robot roof beach jacket";

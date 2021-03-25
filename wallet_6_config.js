@@ -1,1 +1,1 @@
-var mnemonic = "danger century jar fresh response embrace royal budget nest animal voice symbol";
+var mnemonic = "once program perfect jelly hidden sentence cause lawn faculty actor eager baby";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant panic six learn symbol impact road isolate dragon jaguar autumn wash";
+var mnemonic = "ship theme kitchen valley dress model swift crew empower clump coil stereo";

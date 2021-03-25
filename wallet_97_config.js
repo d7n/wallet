@@ -1,1 +1,1 @@
-var mnemonic = "state kitchen tray early gown expect grape industry flower deer version figure";
+var mnemonic = "prefer royal soap tackle cruel elephant earn wear insect list okay slice";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese math guard solve answer live happy wet loud jaguar sphere aisle";
+var mnemonic = "analyst roof review tide wage cliff motor awesome smooth script hotel way";

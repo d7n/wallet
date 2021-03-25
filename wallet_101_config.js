@@ -1,1 +1,1 @@
-var mnemonic = "actress nominee weasel grunt oyster enrich fix soon mouse action story vivid";
+var mnemonic = "purity dove thumb light general ship undo hover between essay limb warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "glad travel divert final select battle quality kangaroo autumn cost person shiver";
+var mnemonic = "inmate someone ski time tilt social rural round ceiling teach boil figure";

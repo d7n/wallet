@@ -1,1 +1,1 @@
-var mnemonic = "category scrub arrest horse hub pottery belt trade toward whale protect only";
+var mnemonic = "forest vital used digital hole strike sell brave alarm exercise warrior hat";

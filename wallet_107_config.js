@@ -1,1 +1,1 @@
-var mnemonic = "ability weasel opera unit jeans picture market click cousin indoor final ivory";
+var mnemonic = "oppose imitate cousin stomach journey present escape borrow above try disease innocent";

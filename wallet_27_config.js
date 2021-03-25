@@ -1,1 +1,1 @@
-var mnemonic = "mistake regular cruise heart degree put canyon physical property real ride patient";
+var mnemonic = "rule pioneer mirror insect reason small team kite raccoon hold brisk insect";

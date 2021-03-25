@@ -1,1 +1,1 @@
-var mnemonic = "cream world skull diagram cactus biology fringe acoustic replace rug ribbon seed";
+var mnemonic = "plunge spawn vocal fix zoo soft glance neck rich learn liar afraid";

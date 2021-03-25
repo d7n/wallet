@@ -1,1 +1,1 @@
-var mnemonic = "enough envelope forget raven photo amount shadow try street type govern december";
+var mnemonic = "cute mask document trust west furnace whisper desert scrub elbow virus bulk";

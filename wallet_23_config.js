@@ -1,1 +1,1 @@
-var mnemonic = "soup ridge keep tide hybrid rough awful fiber kick avoid know affair";
+var mnemonic = "firm path awkward captain conduct patrol solid isolate rose change spread catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "twist raccoon stay enough occur fatigue fine advance fault panther abandon screen";
+var mnemonic = "assist ecology nurse tennis october bind note alpha west major actress total";

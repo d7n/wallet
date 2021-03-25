@@ -1,1 +1,1 @@
-var mnemonic = "have program tooth penalty parent return vicious broom gauge box glad bar";
+var mnemonic = "between dilemma fossil canyon spoon auction ancient erosion force candy shield pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "doll swift vacant dilemma best wood subway innocent tattoo tiger copy satoshi";
+var mnemonic = "shaft fence correct junior health fringe hope result duty very barrel light";

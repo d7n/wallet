@@ -1,1 +1,1 @@
-var mnemonic = "iron evidence hunt target vanish hole leaf hip doctor ocean nuclear task";
+var mnemonic = "collect twelve soccer verb stumble comfort soft iron detect monitor typical since";

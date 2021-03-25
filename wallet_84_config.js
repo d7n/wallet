@@ -1,1 +1,1 @@
-var mnemonic = "debris small simple always report aware final fire small priority cereal funny";
+var mnemonic = "service involve neither involve negative shield laundry trick blame simple list world";

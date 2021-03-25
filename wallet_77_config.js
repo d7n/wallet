@@ -1,1 +1,1 @@
-var mnemonic = "fall admit nothing indicate force trigger say loan upset purchase major extend";
+var mnemonic = "moral shove sweet hurt dinosaur exact rib pigeon address dismiss tip recipe";

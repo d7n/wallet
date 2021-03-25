@@ -1,1 +1,1 @@
-var mnemonic = "verb arrive scatter fame audit better swamp tumble jacket more mercy term";
+var mnemonic = "galaxy sting royal trouble select sorry path tower sting clay define biology";

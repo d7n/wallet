@@ -1,1 +1,1 @@
-var mnemonic = "produce film evidence there figure erupt jungle unfair corn grid silly vast";
+var mnemonic = "search monster cash glance bless tent movie bus shaft shift gorilla raven";

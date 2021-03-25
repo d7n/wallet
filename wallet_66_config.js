@@ -1,1 +1,1 @@
-var mnemonic = "swap shift inside flip early laundry sail flee over crop fetch royal";
+var mnemonic = "assist lounge spoil list aunt horror what shift employ page vacant deputy";

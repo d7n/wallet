@@ -1,1 +1,1 @@
-var mnemonic = "virus stomach core lizard slush fly alert control negative unfold volume soldier";
+var mnemonic = "famous chicken weapon spatial similar naive very grab balance upset gate hour";

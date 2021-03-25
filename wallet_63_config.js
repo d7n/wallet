@@ -1,1 +1,1 @@
-var mnemonic = "ugly effort polar dash mountain goat lock glare corn begin fragile receive";
+var mnemonic = "silent deputy knee west typical school wink meat resource blind equal help";

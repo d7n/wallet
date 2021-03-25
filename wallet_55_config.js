@@ -1,1 +1,1 @@
-var mnemonic = "long scan damage habit cheese glory recycle shoulder prevent polar amount arctic";
+var mnemonic = "mango injury bring snake wall chicken pet ceiling calm month flat whisper";

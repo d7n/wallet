@@ -1,1 +1,1 @@
-var mnemonic = "leg wish pig hard pride mad noble chase emotion install high together";
+var mnemonic = "hurry sniff notable dumb course envelope brisk pole refuse version artwork onion";

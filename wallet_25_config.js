@@ -1,1 +1,1 @@
-var mnemonic = "square expire error congress slight sunset nice observe one paper predict trigger";
+var mnemonic = "penalty bonus buzz hockey intact dinner solve theory analyst keep melody garbage";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve kid live ugly proof spoil hybrid twelve busy execute strike garment";
+var mnemonic = "tone front favorite spice dumb argue autumn inner height afford climb pencil";

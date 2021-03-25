@@ -1,1 +1,1 @@
-var mnemonic = "duck festival exile amateur cost gasp tower supply soda surge valid peanut";
+var mnemonic = "logic flavor wise pipe potato clump lumber desk assist fiction alarm tattoo";

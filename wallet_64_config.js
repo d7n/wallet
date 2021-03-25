@@ -1,1 +1,1 @@
-var mnemonic = "buffalo buyer purpose smile rely chase ordinary catch bright maximum long erase";
+var mnemonic = "recall small gospel eye disease cabbage obtain jealous knife quote finish minimum";

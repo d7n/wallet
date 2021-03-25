@@ -1,1 +1,1 @@
-var mnemonic = "glory flock rigid purity toddler point banner rookie trophy all river art";
+var mnemonic = "have funny idle cheese alter plunge one potato neutral retreat clump dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "any eternal replace current defy quantum estate roast young walnut dinner consider";
+var mnemonic = "pill mind winter gather catch doll occur rubber print nut defense update";

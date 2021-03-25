@@ -1,1 +1,1 @@
-var mnemonic = "race brand lava nuclear spare magnet ginger find prison jungle note afford";
+var mnemonic = "buzz govern mercy art pulp palace museum harbor deputy music stairs connect";

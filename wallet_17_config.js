@@ -1,1 +1,1 @@
-var mnemonic = "various coffee machine nest issue kiss danger range luggage fame crush exist";
+var mnemonic = "surprise aim swim cute bread sphere axis north regular mail execute afford";

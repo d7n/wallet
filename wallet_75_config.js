@@ -1,1 +1,1 @@
-var mnemonic = "swear pause awkward exchange whip fruit wonder slide hire hollow wink mosquito";
+var mnemonic = "rigid blast announce bleak pyramid such patch enter feel delay bag labor";

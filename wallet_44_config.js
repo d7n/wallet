@@ -1,1 +1,1 @@
-var mnemonic = "helmet provide puzzle club spread that island hockey various mail junk harvest";
+var mnemonic = "list smile need clinic rule liar sister crawl adjust easily water require";

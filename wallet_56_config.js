@@ -1,1 +1,1 @@
-var mnemonic = "radar loyal foil slow size this real card tragic jazz jar tent";
+var mnemonic = "indoor faculty cash april rich slender rescue spend alter style top comfort";

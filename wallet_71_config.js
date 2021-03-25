@@ -1,1 +1,1 @@
-var mnemonic = "anxiety reopen virtual puppy crack cricket crawl economy pepper basket forward era";
+var mnemonic = "suffer laptop strike deliver ecology diet puzzle debris access uncle pulse spice";

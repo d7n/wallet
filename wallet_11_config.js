@@ -1,1 +1,1 @@
-var mnemonic = "rack initial base civil lawn payment ice already blast flee tiger oak";
+var mnemonic = "provide taste industry universe reduce enjoy cruel girl among close chicken pitch";

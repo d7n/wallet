@@ -1,1 +1,1 @@
-var mnemonic = "inspire camp version enemy agent test drip ancient rail sun skull mind";
+var mnemonic = "model stock fabric vocal ribbon arrange budget high path winter enact tray";

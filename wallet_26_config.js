@@ -1,1 +1,1 @@
-var mnemonic = "reject hen picture maze leisure woman neck car dish reveal fuel transfer";
+var mnemonic = "car tragic pride law hope dignity cube cement luxury cute nuclear buzz";

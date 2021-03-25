@@ -1,1 +1,1 @@
-var mnemonic = "maximum dawn exit faint trap pumpkin caution urge space attack hip ceiling";
+var mnemonic = "wait hawk clutch couch appear gold shoot curtain display inquiry museum fence";

@@ -1,1 +1,1 @@
-var mnemonic = "vital analyst math method garment judge rebel wink valid gospel funny suspect";
+var mnemonic = "desert fiber wheat tired eyebrow one oval dream parrot tattoo scan surge";

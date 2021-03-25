@@ -1,1 +1,1 @@
-var mnemonic = "hen attend quote stove peanut thought garment shy march bulk trap pole";
+var mnemonic = "destroy dress tunnel midnight hamster surprise curious million sick you pride peasant";

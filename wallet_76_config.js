@@ -1,1 +1,1 @@
-var mnemonic = "feature lottery energy pulp surround drink margin extend wrist true torch mean";
+var mnemonic = "amazing mutual photo crime scrap system erase inflict once earn super bundle";

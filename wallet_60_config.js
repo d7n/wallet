@@ -1,1 +1,1 @@
-var mnemonic = "mushroom neutral price lyrics world middle you harbor rubber syrup ensure crazy";
+var mnemonic = "prepare chuckle dash now climb valley theme nothing scrub equip pave hope";

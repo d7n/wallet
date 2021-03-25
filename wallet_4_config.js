@@ -1,1 +1,1 @@
-var mnemonic = "alarm robot visual leisure hamster human ski learn setup ghost blanket enforce";
+var mnemonic = "jelly fence chaos front cliff poem refuse distance spike will empty vacant";

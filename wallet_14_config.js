@@ -1,1 +1,1 @@
-var mnemonic = "cost raven defense alley tackle bamboo prison consider ski exhaust body true";
+var mnemonic = "chest lizard final enter shaft finish fortune write wagon floor journey coach";

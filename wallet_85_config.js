@@ -1,1 +1,1 @@
-var mnemonic = "citizen write average artwork stand fog maple yellow spice taxi distance carbon";
+var mnemonic = "wolf essence visual camera spend attend lizard alter drama trial suit neglect";

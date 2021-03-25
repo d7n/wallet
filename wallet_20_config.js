@@ -1,1 +1,1 @@
-var mnemonic = "warm choice tunnel bracket piece apple belt educate visit used first window";
+var mnemonic = "conduct witness tourist life relax fetch ridge alone steel second shoulder vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "senior vessel settle cycle trophy sound music search walnut now swamp hollow";
+var mnemonic = "plunge mango install vote science surface delay foster cram before slam alcohol";
