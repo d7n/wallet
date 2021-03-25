@@ -1,1 +1,1 @@
-var mnemonic = "olive stand field south unfair parade kitchen motion head cushion warrior innocent";
+var mnemonic = "hotel pudding orbit ribbon final shrimp purpose fox trouble lemon shed spare";

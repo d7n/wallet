@@ -1,1 +1,1 @@
-var mnemonic = "heavy voice ten entire short rhythm crisp puzzle into width unusual bread";
+var mnemonic = "tag ready submit include wait volume joy hedgehog domain acid man saddle";

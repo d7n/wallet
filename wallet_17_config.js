@@ -1,1 +1,1 @@
-var mnemonic = "patient evil join comfort limit coast shield sauce wrist artist chief strategy";
+var mnemonic = "plug afraid tube hour power element sunset brave powder pattern pole spoil";

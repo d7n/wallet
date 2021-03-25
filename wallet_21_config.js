@@ -1,1 +1,1 @@
-var mnemonic = "pause eight steel reunion absent drive walk gain enlist lobster deal follow";
+var mnemonic = "approve wine false banner student library crumble code bar sadness alert raven";

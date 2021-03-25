@@ -1,1 +1,1 @@
-var mnemonic = "feed live poverty movie embody plug weird gentle decade like region slender";
+var mnemonic = "reveal equal market two during foster clay panic drip gift ribbon east";

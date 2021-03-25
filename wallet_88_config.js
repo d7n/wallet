@@ -1,1 +1,1 @@
-var mnemonic = "hazard answer humble hurt voyage dose candy drink glimpse tunnel front use";
+var mnemonic = "gauge pact vital orient index genre dawn theory damp maze fork shy";

@@ -1,1 +1,1 @@
-var mnemonic = "idea shadow elite burger apart comic grit remember brown method assault unhappy";
+var mnemonic = "park mansion visa celery inside tackle village pepper shallow athlete game play";

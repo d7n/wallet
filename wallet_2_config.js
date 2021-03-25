@@ -1,1 +1,1 @@
-var mnemonic = "vital ignore code lend any example fabric warfare divert coral little youth";
+var mnemonic = "connect impact unit chuckle action poem ladder divorce bless about develop debris";

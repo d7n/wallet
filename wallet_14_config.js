@@ -1,1 +1,1 @@
-var mnemonic = "frost mountain boost tool sword visit improve magic improve absent already south";
+var mnemonic = "run limit merit abstract prize law this engine utility danger harbor dance";

@@ -1,1 +1,1 @@
-var mnemonic = "action snow rather multiply offer jealous pass wish struggle regret system tuna";
+var mnemonic = "spider copy happy sail cousin limit better wool pilot leave rent ozone";

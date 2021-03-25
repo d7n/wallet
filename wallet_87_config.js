@@ -1,1 +1,1 @@
-var mnemonic = "denial speed vacuum sea solution myth seek noodle above laundry throw message";
+var mnemonic = "multiply night frost october exhaust crumble impose can foil gate title vicious";

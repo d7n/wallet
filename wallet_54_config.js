@@ -1,1 +1,1 @@
-var mnemonic = "rabbit comic stadium siren will civil blush tattoo that tired waste voice";
+var mnemonic = "payment grass draw chunk off faint cross peasant whip rigid slush sample";

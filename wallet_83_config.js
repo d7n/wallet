@@ -1,1 +1,1 @@
-var mnemonic = "wise oval wink follow wink harsh actor kingdom supreme edit carry gauge";
+var mnemonic = "gain canal energy flash play chimney trash noble volume supply cook detail";

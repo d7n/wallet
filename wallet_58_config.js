@@ -1,1 +1,1 @@
-var mnemonic = "phrase crane toe access glove galaxy theory side dutch car asset blast";
+var mnemonic = "elevator room blouse reform denial image frog vanish course notable lottery busy";

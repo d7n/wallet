@@ -1,1 +1,1 @@
-var mnemonic = "fly always famous pair proof swamp welcome level title depth scan once";
+var mnemonic = "glance dust twenty high appear area sunny forest shop hood lend relax";

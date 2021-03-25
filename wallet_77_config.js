@@ -1,1 +1,1 @@
-var mnemonic = "lamp stuff truly night effort patch deal bachelor erase affair group vessel";
+var mnemonic = "explain direct come bag fabric false comic noble click session collect business";

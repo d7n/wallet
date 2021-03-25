@@ -1,1 +1,1 @@
-var mnemonic = "word orient side ketchup acoustic provide endorse bless token sibling cake again";
+var mnemonic = "iron connect dice meadow swing session supreme year oxygen scan eternal under";

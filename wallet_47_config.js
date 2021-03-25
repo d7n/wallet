@@ -1,1 +1,1 @@
-var mnemonic = "chuckle soup acoustic brush roof quiz isolate treat solution owner note use";
+var mnemonic = "reunion knock winner renew silk escape pilot mesh satoshi eager ten decade";

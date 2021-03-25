@@ -1,1 +1,1 @@
-var mnemonic = "swear balance meat custom craft town wing circle flavor sleep glide merge";
+var mnemonic = "word donate team animal quality orbit gap hope bundle balance push win";

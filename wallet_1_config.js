@@ -1,1 +1,1 @@
-var mnemonic = "bench siege pilot tell treat obey family list discover laptop spawn fluid";
+var mnemonic = "sibling bounce collect lounge notice limit harvest vocal pink latin first bike";

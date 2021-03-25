@@ -1,1 +1,1 @@
-var mnemonic = "violin pen always example mercy term famous deal labor fluid pause garbage";
+var mnemonic = "venue ride net suit aisle talent switch group learn unlock yellow poet";

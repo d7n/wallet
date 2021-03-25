@@ -1,1 +1,1 @@
-var mnemonic = "party glare rotate fun essence warm panda special cheap broken adapt mix";
+var mnemonic = "tooth name lady ride car system rhythm galaxy actor daring able install";

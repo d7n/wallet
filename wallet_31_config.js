@@ -1,1 +1,1 @@
-var mnemonic = "brick maid model meadow movie harsh top direct prefer super drop federal";
+var mnemonic = "kiwi already improve amazing client double perfect cart neutral diet wink purse";

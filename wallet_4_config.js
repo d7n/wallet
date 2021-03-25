@@ -1,1 +1,1 @@
-var mnemonic = "ensure grab rebuild inject soap actress mouse size spread anxiety wine column";
+var mnemonic = "chapter confirm ugly fade later feel twin loyal disease advice soda tip";

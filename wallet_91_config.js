@@ -1,1 +1,1 @@
-var mnemonic = "relax clump sign brisk lunch century guitar bulb cradle gravity ahead tired";
+var mnemonic = "upper chest left mushroom field crumble obey soon wreck world antenna royal";

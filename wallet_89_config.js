@@ -1,1 +1,1 @@
-var mnemonic = "picture option sunny stuff punch friend push option valve come east style";
+var mnemonic = "bird try merge coil finger ocean balance kiwi anxiety sail stamp tell";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor ridge barely magnet blame flock silly obscure column weather lava step";
+var mnemonic = "because shoulder spray couch tonight arrive forest secret excuse amused step nerve";

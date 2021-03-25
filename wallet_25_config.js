@@ -1,1 +1,1 @@
-var mnemonic = "chest wrist bachelor clog glue call grain supply cliff garage grit phone";
+var mnemonic = "wise scene bacon argue crater face figure winter leader olive clap cereal";

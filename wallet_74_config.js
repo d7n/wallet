@@ -1,1 +1,1 @@
-var mnemonic = "ordinary atom undo program napkin raven chef devote staff coil base whip";
+var mnemonic = "remain shield chuckle fever cigar kitten language explain garage myself bleak laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt guess trash depart bar patch special small orange embark setup erase";
+var mnemonic = "blame term office rude captain train beauty evil increase build combine turtle";

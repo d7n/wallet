@@ -1,1 +1,1 @@
-var mnemonic = "viable lunar blossom time sock gasp coffee crystal thumb double sport thrive";
+var mnemonic = "ask honey adapt spot filter gather draft service favorite famous excite possible";

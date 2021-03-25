@@ -1,1 +1,1 @@
-var mnemonic = "suit joke bacon forum wide awkward service gather sign crawl enlist avoid";
+var mnemonic = "bird panther cover frame reunion picnic drip snap verify worry extend width";

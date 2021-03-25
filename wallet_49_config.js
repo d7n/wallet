@@ -1,1 +1,1 @@
-var mnemonic = "lab road pear farm nut junior worry material saddle maid infant mosquito";
+var mnemonic = "clutch behave dolphin blur saddle mesh ghost explain embark dream assist useful";

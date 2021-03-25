@@ -1,1 +1,1 @@
-var mnemonic = "fortune oven mountain plunge airport near help hint sand move gasp race";
+var mnemonic = "vital upset ankle setup update move amused basic just under remember bridge";

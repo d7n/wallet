@@ -1,1 +1,1 @@
-var mnemonic = "pupil nephew venue proof cloth giraffe liquid side say suit spike cloth";
+var mnemonic = "pony blame police east essay bind else chronic stem erupt project dad";

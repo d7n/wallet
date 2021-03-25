@@ -1,1 +1,1 @@
-var mnemonic = "forward fetch inner grunt arrange social unique dinner cable dice trouble violin";
+var mnemonic = "humble spawn sea total enforce antique rather machine illegal cart insect math";

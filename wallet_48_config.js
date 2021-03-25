@@ -1,1 +1,1 @@
-var mnemonic = "cake blossom orient project protect chaos buddy lamp much anchor life top";
+var mnemonic = "merge spy artist north almost suit identify parent bomb organ loud donkey";

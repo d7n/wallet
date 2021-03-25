@@ -1,1 +1,1 @@
-var mnemonic = "wait excite pulp worth cruel twice wave yellow virtual today remind garlic";
+var mnemonic = "aisle turn top bullet stadium side canyon sense infant stable satisfy glow";

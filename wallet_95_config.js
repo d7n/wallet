@@ -1,1 +1,1 @@
-var mnemonic = "return history garlic brown illness month auction weapon dinner picture argue increase";
+var mnemonic = "inner dish awful gentle keen tilt flame ripple family rally couple fade";

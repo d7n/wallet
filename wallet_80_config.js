@@ -1,1 +1,1 @@
-var mnemonic = "pizza effort another carry sword warm first bread proud congress differ payment";
+var mnemonic = "family birth cruel lunch picture tornado pear step canyon vault ordinary thank";

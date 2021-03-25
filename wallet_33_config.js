@@ -1,1 +1,1 @@
-var mnemonic = "army response elite retire cake attitude nerve oyster roast genuine strong across";
+var mnemonic = "help weather win online penalty frown under prosper home power sad wash";

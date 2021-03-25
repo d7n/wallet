@@ -1,1 +1,1 @@
-var mnemonic = "attack window unique normal response cram ask link giggle tumble web chalk";
+var mnemonic = "mirror input body metal refuse situate nice indoor lesson velvet grow love";

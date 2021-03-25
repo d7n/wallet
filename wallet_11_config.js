@@ -1,1 +1,1 @@
-var mnemonic = "cancel lottery wild walnut science elbow myth sweet scale mutual twin scatter";
+var mnemonic = "expect spike hope large water round pass accuse general thank route second";

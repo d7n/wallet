@@ -1,1 +1,1 @@
-var mnemonic = "flame average process swim sustain scene embody damage anger ladder average lava";
+var mnemonic = "enable lounge hamster truth remain photo message answer army invite board time";

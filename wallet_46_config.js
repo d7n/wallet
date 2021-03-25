@@ -1,1 +1,1 @@
-var mnemonic = "kit weather talk shrug tunnel suggest bunker defense avocado sort service grab";
+var mnemonic = "siege business isolate lobster donate jewel cricket episode bike elbow churn tumble";

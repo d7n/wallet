@@ -1,1 +1,1 @@
-var mnemonic = "prefer syrup child gather bone very liberty skull crew wait vault exact";
+var mnemonic = "hurt wet record system edge tongue wage raise settle bounce foster myself";

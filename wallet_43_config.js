@@ -1,1 +1,1 @@
-var mnemonic = "pledge dentist garlic myth top rare grief park into fiber say rifle";
+var mnemonic = "effort sudden sing monitor inspire mixed subject home atom juice weasel trash";

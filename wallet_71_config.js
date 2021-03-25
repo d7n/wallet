@@ -1,1 +1,1 @@
-var mnemonic = "phone ball donate pilot skate solve silent magic foil clip faculty type";
+var mnemonic = "track number primary require girl top jelly select multiply used entire board";

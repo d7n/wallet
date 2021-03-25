@@ -1,1 +1,1 @@
-var mnemonic = "volume shoulder stock actual screen rally pulp color slide emotion bring cross";
+var mnemonic = "cannon jar gravity eye waste exclude tattoo list paddle else scrap about";

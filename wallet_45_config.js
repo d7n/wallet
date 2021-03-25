@@ -1,1 +1,1 @@
-var mnemonic = "dry donor share agent home salute empty basket bird jump glow buzz";
+var mnemonic = "entire silk rebuild office steel tribe loud panel suffer please remind kitchen";

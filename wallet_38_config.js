@@ -1,1 +1,1 @@
-var mnemonic = "modify they roof cage anxiety warfare note torch later tone gospel weapon";
+var mnemonic = "update deposit similar pelican object polar broken strong muffin review crop auto";

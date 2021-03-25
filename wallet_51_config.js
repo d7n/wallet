@@ -1,1 +1,1 @@
-var mnemonic = "crucial soda dune actor stove bundle trend spoon patch ancient stadium movie";
+var mnemonic = "exist pact wire crunch shop orbit eight bread borrow drastic evil lazy";

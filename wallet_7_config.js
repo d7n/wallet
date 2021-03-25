@@ -1,1 +1,1 @@
-var mnemonic = "voice same state torch stairs wash kind wedding ability duty pear broccoli";
+var mnemonic = "hole genius prosper mean make punch current april team anger stock coast";

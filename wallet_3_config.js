@@ -1,1 +1,1 @@
-var mnemonic = "reopen hurry wrist buddy sure merit gather civil entry dignity crane jelly";
+var mnemonic = "brave pumpkin note winter pluck need evil immense staff purchase exclude dilemma";

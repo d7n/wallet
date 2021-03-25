@@ -1,1 +1,1 @@
-var mnemonic = "notice control reward guilt horse pottery notice comic funny industry chase cook";
+var mnemonic = "car absurd eager behave across buffalo bronze answer deer view this label";

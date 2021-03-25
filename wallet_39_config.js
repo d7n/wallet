@@ -1,1 +1,1 @@
-var mnemonic = "infant kiwi garbage grocery toward dizzy uniform oak sudden cry strong ski";
+var mnemonic = "speak dune light write dragon skill version lobster shoulder draw depth appear";

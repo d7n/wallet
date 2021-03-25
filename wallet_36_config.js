@@ -1,1 +1,1 @@
-var mnemonic = "face usual undo clap frog theme onion furnace news become frequent leopard";
+var mnemonic = "silly orbit open illness hawk proud fix topple feature tooth foam flock";

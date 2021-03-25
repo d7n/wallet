@@ -1,1 +1,1 @@
-var mnemonic = "mammal load web duck rival mother palace dose field replace broccoli auction";
+var mnemonic = "extend tiger kitchen lawsuit pupil gospel earn measure bring gap session symptom";

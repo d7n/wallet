@@ -1,1 +1,1 @@
-var mnemonic = "milk gospel asthma dawn asset plunge frequent depart bread alpha frequent remain";
+var mnemonic = "glad alpha brisk lounge example chapter avoid volcano panic rhythm small grass";

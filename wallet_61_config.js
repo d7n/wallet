@@ -1,1 +1,1 @@
-var mnemonic = "imitate diet egg color curtain pact cute gate exit peanut truth panel";
+var mnemonic = "palace welcome dwarf cradle across pipe harbor alley weekend asthma panther caught";

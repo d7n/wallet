@@ -1,1 +1,1 @@
-var mnemonic = "intact relief bulb absent wasp toilet voyage grace famous enemy nasty jaguar";
+var mnemonic = "raw result regret subway laundry salad salon profit coach zero swim tip";

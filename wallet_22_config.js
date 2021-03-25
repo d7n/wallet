@@ -1,1 +1,1 @@
-var mnemonic = "host find civil movie purpose corn decline accident sword glow absurd castle";
+var mnemonic = "skull fork daring flee dawn blade wedding tribe tumble food joy grocery";

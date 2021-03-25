@@ -1,1 +1,1 @@
-var mnemonic = "plunge verify nest donor like despair rely business total aware obtain lend";
+var mnemonic = "sister inspire tortoise idle couple mass palace panic expect galaxy invite acid";

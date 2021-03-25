@@ -1,1 +1,1 @@
-var mnemonic = "mule industry hill casino aim rigid seek shop void spirit control way";
+var mnemonic = "alone unfair fall forest atom shock worry banana hedgehog dash unique twice";

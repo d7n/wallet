@@ -1,1 +1,1 @@
-var mnemonic = "faint rival brain wage tourist guilt balance clean memory shadow isolate pupil";
+var mnemonic = "sudden boss custom gloom angle earth flight bicycle funny early bracket federal";

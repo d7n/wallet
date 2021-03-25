@@ -1,1 +1,1 @@
-var mnemonic = "sunny drama border soup situate vanish all invest evoke spawn axis butter";
+var mnemonic = "what nation sugar once enroll panda goddess outdoor bulk artist useful winter";

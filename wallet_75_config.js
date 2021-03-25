@@ -1,1 +1,1 @@
-var mnemonic = "balance math maximum next defense quiz rude spawn mass shallow theory pistol";
+var mnemonic = "door brass will goat tape electric close sword despair vehicle margin category";

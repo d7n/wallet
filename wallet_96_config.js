@@ -1,1 +1,1 @@
-var mnemonic = "recipe photo maximum deer olive later join warrior lady goat inmate height";
+var mnemonic = "among vote crucial expect globe trust roast clock load relax lyrics filter";

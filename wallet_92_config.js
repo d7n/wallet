@@ -1,1 +1,1 @@
-var mnemonic = "canal sight pudding learn reunion announce spider clog half swear convince endless";
+var mnemonic = "warm cruel buyer venue engage suspect merry owner hotel kite believe ramp";

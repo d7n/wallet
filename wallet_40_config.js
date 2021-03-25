@@ -1,1 +1,1 @@
-var mnemonic = "knee help chimney toe priority grief social this people motion finger lock";
+var mnemonic = "retreat ordinary debate cousin hood chef balance debris cage marriage pear want";

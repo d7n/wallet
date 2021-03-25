@@ -1,1 +1,1 @@
-var mnemonic = "divide error mix attend useful enter cliff fine mechanic prepare virtual arrow";
+var mnemonic = "resource gym stage stock season cost enhance adjust already easily pattern impact";

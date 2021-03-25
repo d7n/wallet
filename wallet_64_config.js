@@ -1,1 +1,1 @@
-var mnemonic = "coyote enforce crush crowd daughter shop soup stomach taste waste trade exercise";
+var mnemonic = "boy angle use mountain hurdle gravity box fire erupt gaze section jar";

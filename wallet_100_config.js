@@ -1,1 +1,1 @@
-var mnemonic = "feed verb bargain bone panther boost address vault improve property muffin main";
+var mnemonic = "also carbon pipe lonely story baby cream public fiber purity shove jealous";

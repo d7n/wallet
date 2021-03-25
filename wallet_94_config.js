@@ -1,1 +1,1 @@
-var mnemonic = "obscure glimpse ensure equal ranch hawk display scrub hungry object jungle warm";
+var mnemonic = "poet between river faith zone fury kite impact tomorrow gym drum clip";

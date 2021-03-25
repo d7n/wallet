@@ -1,1 +1,1 @@
-var mnemonic = "injury okay practice sell muscle quick indoor trend tag orbit cruel identify";
+var mnemonic = "hat lunar magic cute bike usual about chronic sail unusual define enforce";

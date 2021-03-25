@@ -1,1 +1,1 @@
-var mnemonic = "frequent bunker crane knee chicken chaos juice cash stereo elegant pulp dynamic";
+var mnemonic = "feel wood target capable bus wife tiger deliver attack develop dance quarter";

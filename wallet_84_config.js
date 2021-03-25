@@ -1,1 +1,1 @@
-var mnemonic = "kind pumpkin pig tiger mirror wrist attend hammer chat frame riot educate";
+var mnemonic = "grow require flag boy awake skull famous upset vivid sure appear mention";

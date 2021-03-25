@@ -1,1 +1,1 @@
-var mnemonic = "wool balance desk habit panic utility door tenant travel palace squeeze pitch";
+var mnemonic = "reduce rookie because pulp put injury glide credit ribbon island length frog";

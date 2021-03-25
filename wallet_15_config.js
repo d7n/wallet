@@ -1,1 +1,1 @@
-var mnemonic = "detect text issue anchor magic gallery robot enable father sure spirit royal";
+var mnemonic = "then patrol envelope tissue coral dawn notable long crush safe giggle crater";

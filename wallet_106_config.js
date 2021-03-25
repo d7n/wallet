@@ -1,1 +1,1 @@
-var mnemonic = "impact between artefact matter parrot solar kangaroo fly chief subject bonus celery";
+var mnemonic = "excuse width cattle chimney soon assault era suit usual resist accident light";

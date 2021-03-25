@@ -1,1 +1,1 @@
-var mnemonic = "athlete few usage culture runway saddle virus rice execute mesh section omit";
+var mnemonic = "illness between caution achieve burger upset inmate worth firm earth connect brother";

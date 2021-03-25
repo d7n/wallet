@@ -1,1 +1,1 @@
-var mnemonic = "other fresh neglect renew olive cost symbol infant square ankle snake off";
+var mnemonic = "police panda detail muffin extra nerve bargain bus ancient corn cost cousin";

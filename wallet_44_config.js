@@ -1,1 +1,1 @@
-var mnemonic = "egg infant shock album patient upset point wheel slice dash undo roast";
+var mnemonic = "wink damage offer ahead fade usual car title title tail dove expect";

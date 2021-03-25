@@ -1,1 +1,1 @@
-var mnemonic = "always crime cluster family quarter leaf sketch curve frequent cost vapor taste";
+var mnemonic = "shaft just unusual include snow deputy liquid energy father globe city deputy";

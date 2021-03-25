@@ -1,1 +1,1 @@
-var mnemonic = "client practice grocery engine love slogan very crazy mistake banana face screen";
+var mnemonic = "farm cat purse lab shell tonight this away test resemble zoo tone";

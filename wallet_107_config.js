@@ -1,1 +1,1 @@
-var mnemonic = "theme trumpet smoke under quantum quick circle frog moral grocery evoke biology";
+var mnemonic = "oak number gesture attend provide edge rude lady patch kick valve opera";

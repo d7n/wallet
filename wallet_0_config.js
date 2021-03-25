@@ -1,1 +1,1 @@
-var mnemonic = "crush invite begin explain piano endless frame jeans fossil special only fever";
+var mnemonic = "motor never catch begin negative clean orbit swallow element you keep sheriff";

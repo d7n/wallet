@@ -1,1 +1,1 @@
-var mnemonic = "chunk detail smile tragic lazy amount fury egg critic mixed garden rhythm";
+var mnemonic = "song crater number praise trim gym infant voice snake write burden orbit";

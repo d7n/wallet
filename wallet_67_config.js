@@ -1,1 +1,1 @@
-var mnemonic = "enable public foster prize street debris avoid once decide reduce artist throw";
+var mnemonic = "long ring miss loud vacuum certain cruel rough guitar ecology forward file";

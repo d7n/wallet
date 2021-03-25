@@ -1,1 +1,1 @@
-var mnemonic = "ball skirt unveil worry broken aerobic cinnamon oppose dice normal erase sketch";
+var mnemonic = "dumb sugar pelican phone sad always mother tennis toilet stay inspire poverty";

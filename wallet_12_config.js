@@ -1,1 +1,1 @@
-var mnemonic = "you rate inflict layer pelican fabric bitter marriage beyond mobile into village";
+var mnemonic = "mind inject group engine hub spike man matter swear truly split inquiry";

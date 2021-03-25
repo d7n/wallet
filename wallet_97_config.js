@@ -1,1 +1,1 @@
-var mnemonic = "language cash helmet hotel mistake fitness shell skin indicate early also fatigue";
+var mnemonic = "upset tired soap nest very country fall filter arch mean cart harvest";

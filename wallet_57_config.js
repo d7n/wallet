@@ -1,1 +1,1 @@
-var mnemonic = "another romance hold eye snap purse butter napkin group grace fury area";
+var mnemonic = "question head family pledge fog action board damage seek lady verb adapt";
