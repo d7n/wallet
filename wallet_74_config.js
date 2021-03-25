@@ -1,1 +1,1 @@
-var mnemonic = "turn average lady camera coffee genuine culture conduct session biology purpose eager";
+var mnemonic = "cinnamon desk picture hammer input upgrade lion empty harbor ridge diagram culture";

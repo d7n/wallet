@@ -1,1 +1,1 @@
-var mnemonic = "audit boy zebra order cool kangaroo plug trouble december first icon muscle";
+var mnemonic = "rose voyage grit spoil velvet forum gossip card forum face already provide";

@@ -1,1 +1,1 @@
-var mnemonic = "wink rabbit bacon lion leaf police update traffic useless magic salute chat";
+var mnemonic = "theory vocal mail shy great road country swear become idle assist swamp";

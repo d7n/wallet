@@ -1,1 +1,1 @@
-var mnemonic = "mention stage flight avoid field stand champion gentle bicycle asthma ridge exotic";
+var mnemonic = "increase cancel logic novel bulb draft hedgehog drum half expand scorpion flip";

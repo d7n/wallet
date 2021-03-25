@@ -1,1 +1,1 @@
-var mnemonic = "broccoli vibrant obvious assault quit december party smoke hotel short cup rabbit";
+var mnemonic = "conduct mad future badge badge captain battle census issue wonder pear learn";

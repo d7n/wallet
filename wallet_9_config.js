@@ -1,1 +1,1 @@
-var mnemonic = "valley sentence brass barely someone spin relief cheap venue one vocal shed";
+var mnemonic = "avocado cactus movie camp breeze witness humor bird february lunch share tornado";

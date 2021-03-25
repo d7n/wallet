@@ -1,1 +1,1 @@
-var mnemonic = "search person market trim stamp neck nurse error visit awful gas alpha";
+var mnemonic = "sausage milk medal draft rubber vote food screen bike smile token pistol";

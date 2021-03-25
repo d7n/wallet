@@ -1,1 +1,1 @@
-var mnemonic = "chapter giggle leg stove frame source shield sudden vote noble damp plastic";
+var mnemonic = "taste sweet sing scout cube earth refuse gym father vital since fish";

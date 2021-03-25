@@ -1,1 +1,1 @@
-var mnemonic = "nurse security sun oven note token melt chest hard pyramid tragic lake";
+var mnemonic = "peace witness pumpkin inquiry piano near mouse vintage imitate cherry cheap future";

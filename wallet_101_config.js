@@ -1,1 +1,1 @@
-var mnemonic = "main erosion claw upgrade remain scrap dismiss awesome away gather clarify parent";
+var mnemonic = "wish acid ostrich away visit cable awkward refuse clerk multiply front denial";

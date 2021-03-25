@@ -1,1 +1,1 @@
-var mnemonic = "tiger merry net income collect green source infant another aerobic genre online";
+var mnemonic = "brown milk chef judge tip sock edit gauge have ensure immense laptop";

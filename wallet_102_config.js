@@ -1,1 +1,1 @@
-var mnemonic = "thank sniff lecture ranch inside close pill again knock census town mercy";
+var mnemonic = "assault smart genius light normal fury change can boring cry thunder drink";

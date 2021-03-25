@@ -1,1 +1,1 @@
-var mnemonic = "silk energy sing public age year tiny army vacant rug danger rate";
+var mnemonic = "around fatigue mystery vacuum bike lift deny physical vessel sense donkey acoustic";

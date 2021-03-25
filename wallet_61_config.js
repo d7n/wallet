@@ -1,1 +1,1 @@
-var mnemonic = "emerge fog morning they army crunch degree tank antenna country protect cabbage";
+var mnemonic = "soldier jewel supreme chalk girl million subway piece chair assume you oppose";

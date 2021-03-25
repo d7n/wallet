@@ -1,1 +1,1 @@
-var mnemonic = "current volcano another scheme sadness elegant very ability still arena matter expose";
+var mnemonic = "van sing stool just digital slush violin visit hair ethics lazy fantasy";

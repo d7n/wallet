@@ -1,1 +1,1 @@
-var mnemonic = "theory dose grunt eternal gas human super park negative stem vivid random";
+var mnemonic = "midnight boy pond hand burger mean dry wise seek pizza arm unusual";

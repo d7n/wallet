@@ -1,1 +1,1 @@
-var mnemonic = "pizza scare sad short focus parade pond churn scan fatigue nasty layer";
+var mnemonic = "private trigger again wood clip critic business filter exit people magnet also";

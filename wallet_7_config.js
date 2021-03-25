@@ -1,1 +1,1 @@
-var mnemonic = "domain region light eyebrow year initial home come robust worth apple crystal";
+var mnemonic = "maple message slam dance edge riot reunion uncover volume habit oxygen must";

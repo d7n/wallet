@@ -1,1 +1,1 @@
-var mnemonic = "zebra fiction proof exact glare arrive they guess husband carpet view fossil";
+var mnemonic = "conduct squirrel burst category step glad meadow stage nurse return permit scatter";

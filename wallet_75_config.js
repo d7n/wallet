@@ -1,1 +1,1 @@
-var mnemonic = "police always gift say baby pig daughter inflict syrup erode cake utility";
+var mnemonic = "fall develop minor punch ritual medal enemy organ afford wonder used coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete unknown spend write ten song rookie million glow blood oblige all";
+var mnemonic = "mask fox castle update member tackle clip cupboard moment notable make people";

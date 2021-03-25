@@ -1,1 +1,1 @@
-var mnemonic = "inspire tiger frame curtain notable digital disorder large tattoo sing card critic";
+var mnemonic = "dash alarm give slot lyrics away anxiety lizard whip snap wet dose";

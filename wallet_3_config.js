@@ -1,1 +1,1 @@
-var mnemonic = "poem scrap person hat reopen squeeze once swing happy mushroom clog what";
+var mnemonic = "easily section coffee correct police upgrade screen cart fix ostrich until shrug";

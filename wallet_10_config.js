@@ -1,1 +1,1 @@
-var mnemonic = "apology liberty fat exhibit circle point fan deny proof exact ability cute";
+var mnemonic = "purity wrist chaos pottery scorpion essay spoon matter burst balance silent cart";

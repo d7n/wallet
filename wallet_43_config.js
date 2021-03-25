@@ -1,1 +1,1 @@
-var mnemonic = "goddess near vital size fame globe prepare parade foil subject engage valve";
+var mnemonic = "swim gauge amount fabric smile ancient slow face merge buzz cancel glide";

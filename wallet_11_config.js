@@ -1,1 +1,1 @@
-var mnemonic = "hawk pipe pass stuff blame sketch biology soap say group dilemma output";
+var mnemonic = "office motor donate focus wall attitude remember web shoot opinion dumb hole";

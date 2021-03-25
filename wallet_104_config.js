@@ -1,1 +1,1 @@
-var mnemonic = "trigger noodle menu brave lady use caught there keep fee timber move";
+var mnemonic = "awake sting battle term dry before broken jazz town mouse what truth";

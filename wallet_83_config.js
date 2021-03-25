@@ -1,1 +1,1 @@
-var mnemonic = "food sadness chest all poem sing music cloth victory pink alone suggest";
+var mnemonic = "runway trend capable brisk violin section plastic snow version knee ladder typical";

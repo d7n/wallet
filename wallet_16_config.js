@@ -1,1 +1,1 @@
-var mnemonic = "hint idle frozen assume picture siege verb gentle engage drift inside accident";
+var mnemonic = "lock turkey fuel fresh rally corn inch bulk gadget abstract soda dice";

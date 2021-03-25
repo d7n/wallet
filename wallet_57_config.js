@@ -1,1 +1,1 @@
-var mnemonic = "diary gain address kind diamond judge mix want same response match train";
+var mnemonic = "forward pear paper tape dawn argue indoor cruise consider hunt rally license";

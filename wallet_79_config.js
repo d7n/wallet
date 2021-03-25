@@ -1,1 +1,1 @@
-var mnemonic = "deer price awkward journey catch slide dilemma avocado crunch reunion rifle ski";
+var mnemonic = "cloud adult stereo pitch buzz tide swamp display rude wheel prosper purse";

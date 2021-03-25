@@ -1,1 +1,1 @@
-var mnemonic = "spring shy flavor vague shock wrestle issue battle unknown same shoulder sad";
+var mnemonic = "normal afford skin develop riot sick alter present aspect divide enhance quick";

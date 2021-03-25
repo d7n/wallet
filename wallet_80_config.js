@@ -1,1 +1,1 @@
-var mnemonic = "during purpose horn lumber shadow common virtual tobacco mountain boring enter joy";
+var mnemonic = "surround detail donor case mom nose team dust magnet attitude army logic";

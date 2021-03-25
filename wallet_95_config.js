@@ -1,1 +1,1 @@
-var mnemonic = "loyal picture saddle attend myself industry glimpse impact squeeze argue flash rebel";
+var mnemonic = "sting buffalo inherit lift grain memory tourist measure author guitar nut smile";

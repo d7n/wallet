@@ -1,1 +1,1 @@
-var mnemonic = "grace buffalo empty gate rely section equip risk artefact crush slab sock";
+var mnemonic = "drift rain electric turkey stereo steel burst crunch remember cactus toilet also";

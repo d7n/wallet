@@ -1,1 +1,1 @@
-var mnemonic = "special wrestle skull voyage kind hub rival beyond baby shine unfair voice";
+var mnemonic = "hat possible dignity apple buyer curtain inner drift silly vivid twice pig";

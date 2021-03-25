@@ -1,1 +1,1 @@
-var mnemonic = "okay leader capable relief whisper hero expose dove addict pudding initial behave";
+var mnemonic = "balance bullet school eagle smile truth shrug able early income hope like";

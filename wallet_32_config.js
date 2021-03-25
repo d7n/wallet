@@ -1,1 +1,1 @@
-var mnemonic = "soft junk plate badge echo echo tired dizzy business park imitate wine";
+var mnemonic = "drive runway craft future bus frost ring achieve stone metal merit move";

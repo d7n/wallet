@@ -1,1 +1,1 @@
-var mnemonic = "seminar cup hurry useful acquire pill mobile ready electric lamp almost kiwi";
+var mnemonic = "outer decide offer lizard require visual marine tank remember lottery mango bulb";

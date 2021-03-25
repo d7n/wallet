@@ -1,1 +1,1 @@
-var mnemonic = "grow inject circle audit rigid holiday bounce trouble festival quiz turtle wealth";
+var mnemonic = "taste virus steak garden apology fly embark call sure shallow history demand";

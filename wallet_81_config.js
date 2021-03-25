@@ -1,1 +1,1 @@
-var mnemonic = "genre copper sweet you soap try million bracket enjoy city glue away";
+var mnemonic = "chuckle half hybrid drastic travel vessel twelve humor loop festival room clip";

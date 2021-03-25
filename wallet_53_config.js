@@ -1,1 +1,1 @@
-var mnemonic = "moment wall fiber toddler idea ethics invest coil spirit rapid correct stick";
+var mnemonic = "grass again twin claim display pill satisfy hair whisper laundry hen measure";

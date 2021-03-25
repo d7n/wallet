@@ -1,1 +1,1 @@
-var mnemonic = "body they call keep goose wedding now pilot inherit work sun put";
+var mnemonic = "mechanic soccer thrive lunar foil frame two potato steak wish flash midnight";

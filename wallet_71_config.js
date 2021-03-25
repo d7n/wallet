@@ -1,1 +1,1 @@
-var mnemonic = "owner swing letter payment vote coin charge cloth judge alpha brief spell";
+var mnemonic = "boring hood lake original chair ten ball surface cake soldier else mango";

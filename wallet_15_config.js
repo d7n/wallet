@@ -1,1 +1,1 @@
-var mnemonic = "income orient rabbit sunset lamp mad answer machine east dove carry grief";
+var mnemonic = "hero hint capable powder gold problem size absorb result mother term anchor";

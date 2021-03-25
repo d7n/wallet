@@ -1,1 +1,1 @@
-var mnemonic = "weapon trick decorate hammer wild mouse seven pair describe million record fury";
+var mnemonic = "cereal buffalo hill quote teach afraid across actor keen crystal basic regret";

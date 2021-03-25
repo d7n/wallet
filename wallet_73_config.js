@@ -1,1 +1,1 @@
-var mnemonic = "whale virus slender plunge accuse elegant ahead marble rent surround assist fuel";
+var mnemonic = "coral yellow desert evolve amused forest awesome there seat neck myth clay";

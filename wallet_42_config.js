@@ -1,1 +1,1 @@
-var mnemonic = "jar team century dizzy again trick symptom waste pistol little vessel input";
+var mnemonic = "hospital whale monitor gym field fish much tail crime deal steak upon";

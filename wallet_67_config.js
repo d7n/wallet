@@ -1,1 +1,1 @@
-var mnemonic = "rotate spend nurse potato whisper whisper loyal crumble action host feed express";
+var mnemonic = "prefer cage fault crucial border wave injury robust trouble help seat else";

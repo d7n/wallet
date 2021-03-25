@@ -1,1 +1,1 @@
-var mnemonic = "arm garlic latin fox suspect combine electric portion roof equip wood only";
+var mnemonic = "auto action blind humble modify soft yard dutch vital horror jaguar melt";

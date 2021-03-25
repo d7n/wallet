@@ -1,1 +1,1 @@
-var mnemonic = "inch unit dash sausage memory frown manual claw laundry crystal review notable";
+var mnemonic = "crunch uphold dish huge elegant vapor scatter two stand opera middle multiply";

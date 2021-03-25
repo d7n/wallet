@@ -1,1 +1,1 @@
-var mnemonic = "include chaos crack one fade payment chalk bar tell night awake modify";
+var mnemonic = "surprise coast exile speed light local exile soul medal cable genuine ranch";

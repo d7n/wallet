@@ -1,1 +1,1 @@
-var mnemonic = "blanket avoid flat upset wealth chat antenna rebuild same tackle castle asset";
+var mnemonic = "hotel impose notable surround intact fold situate pear pear found flower common";

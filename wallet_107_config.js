@@ -1,1 +1,1 @@
-var mnemonic = "burst humor dish street elevator finger desk friend fit shrimp devote film";
+var mnemonic = "fashion fold urban enlist net speed verb spawn balcony teach found loan";

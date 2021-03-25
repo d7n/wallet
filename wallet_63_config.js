@@ -1,1 +1,1 @@
-var mnemonic = "stereo health fringe clutch husband invite prosper middle wish lesson conduct sport";
+var mnemonic = "eagle divorce acoustic hip silver upset crazy jar ordinary judge auction rose";

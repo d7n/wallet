@@ -1,1 +1,1 @@
-var mnemonic = "mention mean large express record wool slogan midnight galaxy hurdle good anxiety";
+var mnemonic = "honey welcome fence now coyote alone cook repair beef chief bunker fantasy";

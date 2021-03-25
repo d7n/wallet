@@ -1,1 +1,1 @@
-var mnemonic = "dial capital cry rely obey afford onion ritual draw term oak scrap";
+var mnemonic = "true cactus catalog mom hotel mango anxiety offer secret ozone click mother";

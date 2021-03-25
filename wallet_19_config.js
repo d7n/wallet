@@ -1,1 +1,1 @@
-var mnemonic = "modify purity million pupil melody end razor uncover scare drill brisk ensure";
+var mnemonic = "loop enroll situate suggest weird pen donate piano urban flight twice solar";

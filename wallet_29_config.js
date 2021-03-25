@@ -1,1 +1,1 @@
-var mnemonic = "mosquito club essence field engine fee about anxiety loop obtain salad fan";
+var mnemonic = "myself mechanic dizzy warm tone skate chuckle focus fit salon health cherry";

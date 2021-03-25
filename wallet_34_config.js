@@ -1,1 +1,1 @@
-var mnemonic = "demise fix say salad crack lend setup spice dilemma claw proof speak";
+var mnemonic = "uniform section airport leopard lecture ethics together portion squirrel level diesel input";

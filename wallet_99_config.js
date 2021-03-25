@@ -1,1 +1,1 @@
-var mnemonic = "scorpion they tank unfair expire stand match harsh yard home shove give";
+var mnemonic = "wall veteran struggle gold cattle expect match vacuum tonight bus ordinary scorpion";

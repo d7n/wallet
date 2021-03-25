@@ -1,1 +1,1 @@
-var mnemonic = "follow reject hollow lecture ceiling nuclear nice grid civil rigid carpet chalk";
+var mnemonic = "reunion drill route jump fossil balance pelican squeeze play mystery wink aunt";

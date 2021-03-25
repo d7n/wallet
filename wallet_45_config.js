@@ -1,1 +1,1 @@
-var mnemonic = "story feed hollow open box wine forward clerk move receive gauge lock";
+var mnemonic = "spin cake letter couch spot occur thank feature claim industry fruit act";

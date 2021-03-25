@@ -1,1 +1,1 @@
-var mnemonic = "entry mutual hand volcano choose simple machine verb cushion twenty brown mandate";
+var mnemonic = "dice weapon olive silver sheriff link buffalo tonight turn bleak immense huge";

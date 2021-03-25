@@ -1,1 +1,1 @@
-var mnemonic = "require loop bread tennis cloth walk energy lumber spatial chunk matrix wild";
+var mnemonic = "boss device avocado foil diagram little evil arrive hard lawsuit aunt leader";

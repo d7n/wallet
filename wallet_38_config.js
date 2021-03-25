@@ -1,1 +1,1 @@
-var mnemonic = "concert gospel false file inmate fog special lady method position make replace";
+var mnemonic = "trade art boost shine thank smart medal craft glad denial beyond grape";

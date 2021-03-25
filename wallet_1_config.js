@@ -1,1 +1,1 @@
-var mnemonic = "close frozen diagram head sad picnic struggle shield congress mystery evidence rotate";
+var mnemonic = "absorb account upper combine giraffe forget asthma easily world spare skirt spoil";

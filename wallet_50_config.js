@@ -1,1 +1,1 @@
-var mnemonic = "flavor question foot smile ring route present struggle circle ask squirrel cupboard";
+var mnemonic = "decrease repeat buzz minimum farm remind mandate shallow soft loop net rack";

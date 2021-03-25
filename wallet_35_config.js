@@ -1,1 +1,1 @@
-var mnemonic = "crash indicate blade float kick clog oppose tower tuition entry boring common";
+var mnemonic = "churn slab zoo possible silly board below toss bamboo glue tilt noble";

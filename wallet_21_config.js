@@ -1,1 +1,1 @@
-var mnemonic = "ten asset cloud admit turkey wage else canal tunnel engage stock best";
+var mnemonic = "code organ dust ready cream cherry lounge twice shallow tired engage dumb";

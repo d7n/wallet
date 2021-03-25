@@ -1,1 +1,1 @@
-var mnemonic = "save track oppose repair curious deer flush series sun between switch share";
+var mnemonic = "reject lamp hard frost minimum unable safe crack twenty sport lens language";

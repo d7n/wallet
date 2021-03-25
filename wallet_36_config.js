@@ -1,1 +1,1 @@
-var mnemonic = "belt develop tissue silk deer same pioneer milk library pigeon voyage doll";
+var mnemonic = "chicken autumn fuel capable guilt idea beef unfair close inch always chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow firm warm sign april limb demand prefer staff first wise weekend";
+var mnemonic = "possible agree minor stable possible basket mystery venue peanut patrol deal pull";

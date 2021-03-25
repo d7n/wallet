@@ -1,1 +1,1 @@
-var mnemonic = "whisper region sell purchase bonus develop blast wheel fan strike gain ranch";
+var mnemonic = "cluster wing token token metal grit fun awful stove boost leopard spoil";

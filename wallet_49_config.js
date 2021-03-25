@@ -1,1 +1,1 @@
-var mnemonic = "gap gown tide possible inquiry puppy aerobic mom middle increase just warm";
+var mnemonic = "entire live travel brass wait maze advice now sad broom tattoo section";

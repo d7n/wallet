@@ -1,1 +1,1 @@
-var mnemonic = "width bonus evoke pear puppy apple elevator atom replace peace retreat chicken";
+var mnemonic = "satoshi exercise load eternal tilt advance fame foam near energy hover ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "enough pony glance much surprise toddler museum add immune love tornado scissors";
+var mnemonic = "slow source ready drama drill mansion pattern clever attend indicate adjust stick";

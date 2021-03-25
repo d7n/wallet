@@ -1,1 +1,1 @@
-var mnemonic = "sun employ improve snow shadow unit depth goose match flame bring deliver";
+var mnemonic = "loud proof reject extend sea oil trophy tissue north gospel trophy expand";

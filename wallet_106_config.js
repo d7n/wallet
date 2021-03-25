@@ -1,1 +1,1 @@
-var mnemonic = "upgrade garlic decline place bracket library enable grace legal tuna cushion burden";
+var mnemonic = "obvious able face stamp tomato rifle vocal abandon undo bunker library violin";

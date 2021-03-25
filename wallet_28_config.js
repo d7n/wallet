@@ -1,1 +1,1 @@
-var mnemonic = "teach license east shuffle enter spider sniff scout question same volcano leaf";
+var mnemonic = "all naive snake process repeat announce joy child upon chronic matrix merit";

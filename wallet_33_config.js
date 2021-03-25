@@ -1,1 +1,1 @@
-var mnemonic = "swap hawk priority woman culture limb deer enhance market power cage scare";
+var mnemonic = "wheat ketchup prevent notice problem proof segment cement key move envelope vessel";

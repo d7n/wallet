@@ -1,1 +1,1 @@
-var mnemonic = "coral weapon clown lamp unable eye midnight hedgehog heart awake hello column";
+var mnemonic = "taste file offer similar rapid fold permit render move derive table pill";

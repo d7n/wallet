@@ -1,1 +1,1 @@
-var mnemonic = "cup style credit cover net jar muscle allow address rain rubber solution";
+var mnemonic = "father purchase age wrong metal index toe able ring picnic crumble cargo";

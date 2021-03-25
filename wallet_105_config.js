@@ -1,1 +1,1 @@
-var mnemonic = "ask imitate sick rubber wise squirrel burst guess pumpkin tissue jazz diesel";
+var mnemonic = "cycle improve soft glory logic own leaf master bottom main afford require";

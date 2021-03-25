@@ -1,1 +1,1 @@
-var mnemonic = "height radio tragic join obvious move dizzy festival history infant plug obey";
+var mnemonic = "visa tunnel core south shove bird also property already security stick grace";

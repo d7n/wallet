@@ -1,1 +1,1 @@
-var mnemonic = "moon escape number metal outer stock sun bean carbon same rain leaf";
+var mnemonic = "canoe rifle try write country garden shove ten laundry acid eagle gadget";

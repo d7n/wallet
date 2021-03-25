@@ -1,1 +1,1 @@
-var mnemonic = "episode legend human clean season axis wonder salmon gauge else kingdom toilet";
+var mnemonic = "sadness equip glow exhibit case sell lamp stick suit stool aisle engage";

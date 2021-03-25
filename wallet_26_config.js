@@ -1,1 +1,1 @@
-var mnemonic = "neglect switch toddler shell myself write resemble picture earth room regret turn";
+var mnemonic = "room circle anchor ensure agent juice member advice also vocal enough ethics";

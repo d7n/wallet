@@ -1,1 +1,1 @@
-var mnemonic = "tomato review copper wealth price exchange keep parrot doll garden announce veteran";
+var mnemonic = "arch plug accuse uncle wise turn food forest border text pen umbrella";

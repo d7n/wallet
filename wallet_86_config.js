@@ -1,1 +1,1 @@
-var mnemonic = "print cup polar arrange giggle accident seek library put kangaroo monster skirt";
+var mnemonic = "trouble knee write arrive onion trophy frown burger frozen soldier enforce mosquito";

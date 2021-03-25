@@ -1,1 +1,1 @@
-var mnemonic = "bike review boat awkward honey feature wolf soon fold coast eye stock";
+var mnemonic = "broom ugly sugar gun pulse embrace winter humor equip air mule merge";

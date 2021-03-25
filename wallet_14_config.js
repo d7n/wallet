@@ -1,1 +1,1 @@
-var mnemonic = "invest supreme visual eyebrow place recall dream victory cloud attack pill bunker";
+var mnemonic = "page glove glory hill sing enlist dwarf advance aspect antenna strong absorb";

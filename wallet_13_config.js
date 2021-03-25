@@ -1,1 +1,1 @@
-var mnemonic = "easily tip ketchup fork quick put column water excuse flash floor wine";
+var mnemonic = "equal fix hundred book spot happy shock romance route eagle bright dice";

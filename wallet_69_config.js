@@ -1,1 +1,1 @@
-var mnemonic = "warfare erosion coin glory icon exchange camp awake rate glass enemy tell";
+var mnemonic = "forest input view protect bachelor measure army load carpet obtain gossip sting";

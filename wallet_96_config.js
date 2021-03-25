@@ -1,1 +1,1 @@
-var mnemonic = "sweet uphold cycle theme dentist network ball differ fee tray palace creek";
+var mnemonic = "material doll person moment promote result holiday junior stick edit together merge";

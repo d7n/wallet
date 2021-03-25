@@ -1,1 +1,1 @@
-var mnemonic = "among throw salmon already average path someone size walk mystery what write";
+var mnemonic = "act donkey scare shallow walk remember calm student manage mean goat spice";
