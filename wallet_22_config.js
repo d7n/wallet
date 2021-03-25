@@ -1,1 +1,1 @@
-var mnemonic = "butter trim walk umbrella pretty dry select electric measure spend melody describe";
+var mnemonic = "silver quantum pioneer calm taxi cinnamon filter twin pig label gossip faint";

@@ -1,1 +1,1 @@
-var mnemonic = "deal rug pet thing observe delay leave diagram bone game mandate scene";
+var mnemonic = "fever exhaust mention rug demise like garage dose betray base accuse manual";

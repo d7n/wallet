@@ -1,1 +1,1 @@
-var mnemonic = "clean scrub candy crater club father nasty hub crime west calm bomb";
+var mnemonic = "circle swap horror ability vicious olive eagle weapon swift calm estate air";

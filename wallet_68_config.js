@@ -1,1 +1,1 @@
-var mnemonic = "poem slush soda window team random knock ginger major craft nephew trouble";
+var mnemonic = "doll devote library evil rabbit include pulp frequent wheat account light convince";

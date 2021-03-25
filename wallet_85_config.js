@@ -1,1 +1,1 @@
-var mnemonic = "cat ankle work oven surprise exact dynamic tunnel update regular next rely";
+var mnemonic = "outside decade roof firm brave maid west friend rival duck rare robot";

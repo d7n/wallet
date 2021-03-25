@@ -1,1 +1,1 @@
-var mnemonic = "degree soup common bomb cash mountain blur document setup pond robot quantum";
+var mnemonic = "mushroom wise elder angle winner raven sort much vessel auto ugly wait";

@@ -1,1 +1,1 @@
-var mnemonic = "nature curve history gold umbrella degree innocent hollow orient ginger spend claim";
+var mnemonic = "pear gauge same onion opinion setup twist during south birth lend monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "coin inject crack auction curve noodle dial coach planet vault cost person";
+var mnemonic = "adapt envelope quarter trick crash gold gain tiger reject small banana hint";

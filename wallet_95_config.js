@@ -1,1 +1,1 @@
-var mnemonic = "night funny have slim lazy floor deny ethics runway scheme tower exit";
+var mnemonic = "face magic smoke defy case act ensure pigeon wave mutual cousin float";

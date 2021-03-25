@@ -1,1 +1,1 @@
-var mnemonic = "that salt swim position melt imitate toe silk enlist please churn plunge";
+var mnemonic = "company acid jaguar obscure arm void boost lava club potato thumb spread";

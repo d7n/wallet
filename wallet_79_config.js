@@ -1,1 +1,1 @@
-var mnemonic = "husband wine fame owner mouse visa acquire leaf narrow gap want dolphin";
+var mnemonic = "draft teach display cupboard lucky hamster actress gain planet cup neck square";

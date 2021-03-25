@@ -1,1 +1,1 @@
-var mnemonic = "mosquito crime opinion valley hip topple tumble rural crew tree diary wait";
+var mnemonic = "reveal order spell spider taxi fossil faculty file tone minute poem rare";

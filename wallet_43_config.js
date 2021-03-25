@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin useless clock runway hazard galaxy sorry damp night brief height ghost";
+var mnemonic = "thunder magnet lunar floor admit patch salon arrive suit reopen awesome demise";

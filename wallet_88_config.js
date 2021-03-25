@@ -1,1 +1,1 @@
-var mnemonic = "diamond prison nation surface clap record whip point shed alarm grant decorate";
+var mnemonic = "endless absurd glove stomach title spray acoustic swim harsh salon snap escape";

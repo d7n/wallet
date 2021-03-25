@@ -1,1 +1,1 @@
-var mnemonic = "jeans venue roof wire robust glue scan journey travel boy snow use";
+var mnemonic = "unveil energy method hat bridge unveil stand umbrella pelican tag eternal sibling";

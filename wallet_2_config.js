@@ -1,1 +1,1 @@
-var mnemonic = "toe doctor fabric regret output silly sight weird ripple puppy mention thunder";
+var mnemonic = "stage leopard kit upgrade pistol insane physical access either peace uphold client";

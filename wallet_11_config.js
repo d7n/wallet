@@ -1,1 +1,1 @@
-var mnemonic = "crisp toe kangaroo adult surprise symptom bid saddle leaf kind fortune fault";
+var mnemonic = "rebuild hat zoo fun top doll draft fame release tuna where owner";

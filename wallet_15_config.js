@@ -1,1 +1,1 @@
-var mnemonic = "best chunk stomach shed exotic card obey arch adapt ribbon dry trim";
+var mnemonic = "melt erode menu clock jar gallery eternal repair split develop knee clerk";

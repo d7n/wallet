@@ -1,1 +1,1 @@
-var mnemonic = "learn way return long joy hub brush capable dad spare panel alone";
+var mnemonic = "journey increase used leaf comic crop web bid sponsor multiply cable dress";

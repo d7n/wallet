@@ -1,1 +1,1 @@
-var mnemonic = "fitness hundred author ignore shoot roast section kick gold come brown useless";
+var mnemonic = "topple try snap mix kit ice steel ecology voice marine chronic add";

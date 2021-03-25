@@ -1,1 +1,1 @@
-var mnemonic = "goose there silver warfare winner ticket treat visa render execute fork easily";
+var mnemonic = "hunt local shrug fragile tennis paddle carry fragile donor mobile wise paddle";

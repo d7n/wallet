@@ -1,1 +1,1 @@
-var mnemonic = "spray glad outside disagree degree clown deposit scissors thumb device august drip";
+var mnemonic = "used layer business load romance accuse nice soup script mercy enjoy equip";

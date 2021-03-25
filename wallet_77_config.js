@@ -1,1 +1,1 @@
-var mnemonic = "disease obvious because cream language wealth spoon upgrade canyon weird panda reunion";
+var mnemonic = "debris decide space next armed inmate naive filter plastic install evidence reject";

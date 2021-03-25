@@ -1,1 +1,1 @@
-var mnemonic = "bargain library keep damage solution end pink general favorite favorite matter this";
+var mnemonic = "nose extra document poverty cost fall hair rabbit ski foil object range";

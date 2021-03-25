@@ -1,1 +1,1 @@
-var mnemonic = "hard repeat income kiss asthma render index ritual ankle secret middle exotic";
+var mnemonic = "sausage arrow primary citizen switch attitude pepper truth desert series arrange salt";

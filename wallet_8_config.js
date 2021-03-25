@@ -1,1 +1,1 @@
-var mnemonic = "expect mother genuine copper typical renew story elite prevent picnic split fat";
+var mnemonic = "discover nuclear guilt popular often swear million reflect vehicle dizzy host fly";

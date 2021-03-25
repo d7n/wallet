@@ -1,1 +1,1 @@
-var mnemonic = "clever olive immune vague february match all more street unit face shock";
+var mnemonic = "stem comic violin bulb power place truck quarter yard solar dice essence";

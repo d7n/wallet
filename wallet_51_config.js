@@ -1,1 +1,1 @@
-var mnemonic = "suspect frog kiwi unique space audit reunion yellow tank there enroll cat";
+var mnemonic = "worry ranch debate alien fringe paddle enforce win total treat used marine";

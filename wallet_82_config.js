@@ -1,1 +1,1 @@
-var mnemonic = "stand much sustain guard anger tiny fiber gift age rebuild genuine excess";
+var mnemonic = "caught spell word park image rival stomach jacket year rigid asset draw";

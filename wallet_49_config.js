@@ -1,1 +1,1 @@
-var mnemonic = "squirrel spend walnut pizza rescue inhale term again once forest cigar grab";
+var mnemonic = "rule meadow raw boring borrow delay enjoy shed awake affair weasel silver";

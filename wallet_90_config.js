@@ -1,1 +1,1 @@
-var mnemonic = "suggest pitch farm crowd leisure improve shiver erupt matter bronze relax next";
+var mnemonic = "love assume program pond cotton shed prevent steak october rifle grow arena";

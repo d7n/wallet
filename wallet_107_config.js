@@ -1,1 +1,1 @@
-var mnemonic = "current identify disagree later town remind sign hover bridge rule apology knife";
+var mnemonic = "clutch vault blame virtual differ cloud engage useful silly speed move nurse";

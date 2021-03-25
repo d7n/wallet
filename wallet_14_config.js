@@ -1,1 +1,1 @@
-var mnemonic = "cactus pear track auto deposit cereal street bean odor head still invest";
+var mnemonic = "leaf ankle tiny inside uniform settle divert kangaroo knife nephew trap maid";

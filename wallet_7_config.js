@@ -1,1 +1,1 @@
-var mnemonic = "juice damage trouble skin phone media lizard scare ostrich february pony today";
+var mnemonic = "lock neck garage absent crowd bounce forward lock scorpion place worry alert";

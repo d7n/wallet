@@ -1,1 +1,1 @@
-var mnemonic = "oyster discover wealth smoke invest shed lawsuit tone drink second tiny evil";
+var mnemonic = "library maze that program purse creek use sound lottery relief begin crew";

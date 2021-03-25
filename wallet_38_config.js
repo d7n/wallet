@@ -1,1 +1,1 @@
-var mnemonic = "inhale flag spawn task speed sort face aisle elegant supreme produce night";
+var mnemonic = "cover monster mixture web hour robust trophy region fresh erosion accuse bitter";

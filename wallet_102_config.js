@@ -1,1 +1,1 @@
-var mnemonic = "size earth lottery try animal segment long pupil trade response marine punch";
+var mnemonic = "lamp damp shift reject decorate input silly trim web age seed again";

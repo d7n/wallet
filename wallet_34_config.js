@@ -1,1 +1,1 @@
-var mnemonic = "illegal draw blue salad chat public away salute village family hamster push";
+var mnemonic = "country salute alone chair notable luxury finger exist essence paper nerve drive";

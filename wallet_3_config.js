@@ -1,1 +1,1 @@
-var mnemonic = "educate spawn toss vital enforce early rail spray fuel coil memory budget";
+var mnemonic = "total turn humble dress slab home profit wasp cheap first elder wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "crime cattle move seek august jealous donate pretty update judge interest raccoon";
+var mnemonic = "depart weather night control axis wisdom audit struggle panel blue citizen always";

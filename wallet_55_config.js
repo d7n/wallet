@@ -1,1 +1,1 @@
-var mnemonic = "sister peanut dress eyebrow kid essay unknown lazy bid vicious episode behind";
+var mnemonic = "garment lucky wolf boost tribe squeeze illness exact chef property consider salon";

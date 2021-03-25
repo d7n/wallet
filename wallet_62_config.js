@@ -1,1 +1,1 @@
-var mnemonic = "envelope before elder render shallow blood liar tank valve ribbon fox ivory";
+var mnemonic = "climb kick sniff shallow moment bird model load aisle giggle raw pattern";

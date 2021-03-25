@@ -1,1 +1,1 @@
-var mnemonic = "wait toast deliver coral range shrug kiss drastic sea capital aisle vessel";
+var mnemonic = "law dawn noise exclude feel surface south betray law gain kind photo";

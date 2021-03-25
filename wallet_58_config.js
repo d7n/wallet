@@ -1,1 +1,1 @@
-var mnemonic = "twin divide shiver lion hurry bullet corn orchard orbit before sun album";
+var mnemonic = "mutual innocent sauce juice flock increase future evidence slam apple aware title";

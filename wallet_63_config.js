@@ -1,1 +1,1 @@
-var mnemonic = "holiday talent unveil scissors rib mom ritual enough sleep arrest degree tongue";
+var mnemonic = "ordinary lucky plastic minute engine diesel issue pioneer push lottery couch dish";

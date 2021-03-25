@@ -1,1 +1,1 @@
-var mnemonic = "north version jungle glide resemble include state shield present glass worry rigid";
+var mnemonic = "advance slender stick put chalk permit law squeeze second accident festival evolve";

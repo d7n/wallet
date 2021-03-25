@@ -1,1 +1,1 @@
-var mnemonic = "liar grain decorate movie gospel industry cream afford sight topple device tuna";
+var mnemonic = "guitar chronic theory expand health sunny economy pigeon sun attitude agent little";

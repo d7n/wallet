@@ -1,1 +1,1 @@
-var mnemonic = "auction kidney write stereo identify worry force tree inner gravity hero boss";
+var mnemonic = "local piece cotton evidence blush lounge uncle erosion bring stool vacuum stick";

@@ -1,1 +1,1 @@
-var mnemonic = "boost deny theory almost correct fetch involve machine metal fence patch rose";
+var mnemonic = "bring crew tank maid pipe cushion veteran mind solar lemon decrease metal";

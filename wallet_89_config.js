@@ -1,1 +1,1 @@
-var mnemonic = "slide beach spirit code supply message ordinary fashion surprise dish food social";
+var mnemonic = "retire march chest dash glory liberty render jelly atom knock throw champion";

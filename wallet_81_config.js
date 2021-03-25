@@ -1,1 +1,1 @@
-var mnemonic = "throw key stumble poet world miss enroll summer kite circle cross bread";
+var mnemonic = "layer struggle shrug park sheriff husband asthma identify movie man history alpha";

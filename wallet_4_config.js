@@ -1,1 +1,1 @@
-var mnemonic = "invest net paddle develop issue quarter category half rain apology stay taxi";
+var mnemonic = "that dream stereo fever quit arctic between demise bonus myself wasp tuna";

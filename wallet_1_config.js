@@ -1,1 +1,1 @@
-var mnemonic = "globe prize genius curious unlock month oppose thumb obtain reflect balcony wrong";
+var mnemonic = "symptom doctor win surface robust sheriff fork permit choose hole deputy culture";

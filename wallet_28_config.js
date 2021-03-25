@@ -1,1 +1,1 @@
-var mnemonic = "radar powder sure dynamic thumb exact steel because scene team scale resemble";
+var mnemonic = "shuffle soon relax boat pluck analyst truly galaxy erosion ignore trip divorce";

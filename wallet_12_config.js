@@ -1,1 +1,1 @@
-var mnemonic = "mean primary adjust truck arm tower slow fame upon type surround culture";
+var mnemonic = "satisfy idea fossil museum next whip mammal embark soft supreme tip enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "there flavor pottery fee blush alone defense cancel basic athlete expect fabric";
+var mnemonic = "confirm cash skirt wave method mom gold caught anchor another poet inherit";

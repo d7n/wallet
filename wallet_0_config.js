@@ -1,1 +1,1 @@
-var mnemonic = "suit below length vibrant dice field sword shell beauty vessel income level";
+var mnemonic = "solve own job chef bargain palace rough glow rifle glimpse wait power";

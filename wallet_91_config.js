@@ -1,1 +1,1 @@
-var mnemonic = "picnic climb wedding robust exact kiss reduce system cabin security snake joke";
+var mnemonic = "mind depart retreat kiss bronze loud merry helmet crystal lawsuit proof nephew";

@@ -1,1 +1,1 @@
-var mnemonic = "public refuse ankle sorry hurdle endless broken season bullet search chuckle danger";
+var mnemonic = "metal mirror super wagon use rug truly slow method transfer slam detail";

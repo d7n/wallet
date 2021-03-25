@@ -1,1 +1,1 @@
-var mnemonic = "engage riot slow squirrel trim sunset wedding solar mom vault anchor age";
+var mnemonic = "input lunch author curtain subject cigar swap wait fire fortune comfort hole";

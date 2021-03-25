@@ -1,1 +1,1 @@
-var mnemonic = "puzzle music chuckle real already denial hand cream excess swarm session poet";
+var mnemonic = "young inject kitchen busy drum vintage scene gasp uphold lesson skull license";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch man tray stand define cherry shoe fabric kidney warfare upper swim";
+var mnemonic = "define stage dinosaur jealous great ride situate name fatigue whale outside cactus";

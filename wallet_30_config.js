@@ -1,1 +1,1 @@
-var mnemonic = "river meat satoshi truth globe voyage thumb opinion help cause track deal";
+var mnemonic = "any boy enhance eternal very color spy ski ladder bargain fever cruel";

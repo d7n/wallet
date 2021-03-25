@@ -1,1 +1,1 @@
-var mnemonic = "emotion mention floor ship target ghost angry jungle oxygen absorb detail riot";
+var mnemonic = "chief meadow speak risk alter movie traffic century bamboo measure print cost";

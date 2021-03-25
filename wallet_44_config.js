@@ -1,1 +1,1 @@
-var mnemonic = "grab solution enough kiss guilt correct reform sketch evidence arm betray resist";
+var mnemonic = "rack cup estate accuse human fame weird flat extend never session notice";

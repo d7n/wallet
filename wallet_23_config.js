@@ -1,1 +1,1 @@
-var mnemonic = "runway bounce knock barrel galaxy outside casual genre anxiety soldier into auto";
+var mnemonic = "ice hip nasty candy dinner surge inform lion price venture van busy";

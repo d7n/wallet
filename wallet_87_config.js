@@ -1,1 +1,1 @@
-var mnemonic = "accuse slender sing raw decade chronic wheat advance trigger review piano concert";
+var mnemonic = "uniform disease water page wife dwarf oblige flash derive crawl sand document";

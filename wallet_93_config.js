@@ -1,1 +1,1 @@
-var mnemonic = "ghost exhaust include retire setup crane snap mystery surprise path flock subway";
+var mnemonic = "differ treat oval pattern lunch tube answer august twice squeeze assault similar";

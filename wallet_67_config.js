@@ -1,1 +1,1 @@
-var mnemonic = "want setup crack leisure airport still vapor coyote path speak exile tourist";
+var mnemonic = "reform quarter poet announce sleep gesture report arctic risk great wealth also";

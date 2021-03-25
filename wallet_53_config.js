@@ -1,1 +1,1 @@
-var mnemonic = "planet uncle account all behind blur raven sad horror burden modify oven";
+var mnemonic = "once hub retreat resource clock purse easily refuse avoid eyebrow repair remind";

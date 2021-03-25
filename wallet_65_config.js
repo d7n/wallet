@@ -1,1 +1,1 @@
-var mnemonic = "slow rubber permit fossil weird repeat pulp position alarm night mad pottery";
+var mnemonic = "mistake twelve cave hover spice code have obvious solid blur forest observe";

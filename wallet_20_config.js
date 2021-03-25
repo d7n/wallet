@@ -1,1 +1,1 @@
-var mnemonic = "unaware hospital glare name cradle silk crack clip put way affair club";
+var mnemonic = "poem furnace perfect rival choose observe wisdom step egg series subway tuition";

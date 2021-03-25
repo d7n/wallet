@@ -1,1 +1,1 @@
-var mnemonic = "domain okay fiscal first final duck enrich humor river avoid faint miss";
+var mnemonic = "echo blood dinner battle tongue witness cupboard metal amazing middle visual inform";

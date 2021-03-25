@@ -1,1 +1,1 @@
-var mnemonic = "heavy pelican ozone sting skill thought begin robot extra appear middle more";
+var mnemonic = "grief good occur keep taxi jaguar ten angle page cute drive forum";

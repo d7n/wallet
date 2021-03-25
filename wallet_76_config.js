@@ -1,1 +1,1 @@
-var mnemonic = "hundred defense domain method tank repeat that buzz barely universe fiscal into";
+var mnemonic = "process faint solution mammal winter screen enable industry wall afford parent icon";

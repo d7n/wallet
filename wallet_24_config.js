@@ -1,1 +1,1 @@
-var mnemonic = "horse sing toward grunt pumpkin bag brass lonely invite exercise regular sleep";
+var mnemonic = "erosion bitter pen notable improve wise scene market forward short admit later";

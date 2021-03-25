@@ -1,1 +1,1 @@
-var mnemonic = "enrich surprise swap polar mean idle cactus unusual bamboo giraffe estate leg";
+var mnemonic = "target blue cannon engine excite evoke regular monster forum shuffle various mechanic";

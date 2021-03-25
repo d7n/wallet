@@ -1,1 +1,1 @@
-var mnemonic = "slender blast proof bullet tattoo boring cheese split slogan rather opinion duck";
+var mnemonic = "hole expect cousin save floor lift act present aim wealth achieve dove";

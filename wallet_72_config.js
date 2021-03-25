@@ -1,1 +1,1 @@
-var mnemonic = "stool drop spirit oyster turn place dove rocket blue device gauge involve";
+var mnemonic = "dog outer remember debris matrix seat urban bleak tent verb range save";

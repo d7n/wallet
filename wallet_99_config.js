@@ -1,1 +1,1 @@
-var mnemonic = "interest find member like puppy name about maximum season dance stove ride";
+var mnemonic = "today envelope must awesome blue goat payment flee into churn fire merit";

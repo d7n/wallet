@@ -1,1 +1,1 @@
-var mnemonic = "wrist know joke fresh march rookie pulse design vocal worth impact nothing";
+var mnemonic = "awake clinic mad beauty battle improve reject draw law rely hand legend";

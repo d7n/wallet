@@ -1,1 +1,1 @@
-var mnemonic = "forest foam addict barrel ranch oxygen estate buddy subway receive flip crack";
+var mnemonic = "brave fever exhibit boy humor range inflict insane fuel early atom silk";

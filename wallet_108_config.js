@@ -1,1 +1,1 @@
-var mnemonic = "scheme cotton velvet alter useless cancel inch truck spirit work speak barely";
+var mnemonic = "couple kangaroo select village faculty donor hard math smooth parent enact trigger";

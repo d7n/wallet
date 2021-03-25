@@ -1,1 +1,1 @@
-var mnemonic = "screen suit bright pair pole project solar source pulp kitchen bubble enrich";
+var mnemonic = "gym shove tilt current base thank worth blush dutch minimum horror evidence";

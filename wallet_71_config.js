@@ -1,1 +1,1 @@
-var mnemonic = "gloom erase regret blur have atom issue drip physical fiber person neither";
+var mnemonic = "slim grocery already badge estate pond actress carbon sponsor tobacco decorate diamond";

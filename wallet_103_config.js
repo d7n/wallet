@@ -1,1 +1,1 @@
-var mnemonic = "champion near lunch cram whale lawn win dirt salon salt congress cotton";
+var mnemonic = "team ahead luggage neutral umbrella smile screen salmon advance shine spike trophy";

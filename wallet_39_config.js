@@ -1,1 +1,1 @@
-var mnemonic = "stick rigid flip offer copper kiwi like cushion will bread chat powder";
+var mnemonic = "era stomach tell piano silly account blade afraid fish gadget trumpet dry";

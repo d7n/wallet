@@ -1,1 +1,1 @@
-var mnemonic = "caught silver what describe pride edge time debris weasel foil update tree";
+var mnemonic = "vanish define pistol kind soul safe raven dutch skull west chapter patient";
