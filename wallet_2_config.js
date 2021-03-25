@@ -1,1 +1,1 @@
-var mnemonic = "retreat scene next ginger use must script height year upper head can";
+var mnemonic = "cube cruel nothing illegal session garden coyote pass differ cram hawk wage";

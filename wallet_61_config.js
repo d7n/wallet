@@ -1,1 +1,1 @@
-var mnemonic = "recycle category myself vault sudden flat baby excite coyote gown choose primary";
+var mnemonic = "oven nuclear similar valid nominee silk camp enact wink hurt crumble thought";

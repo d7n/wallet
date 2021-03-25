@@ -1,1 +1,1 @@
-var mnemonic = "arrest gasp bless result little state slot cigar test dance ginger imitate";
+var mnemonic = "dynamic powder govern kit cash swallow blood soft lunch embrace clutch believe";

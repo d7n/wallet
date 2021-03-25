@@ -1,1 +1,1 @@
-var mnemonic = "deputy disease master pave pudding brass betray course shoe palm beyond slow";
+var mnemonic = "rifle success mobile patient pill visual imitate mystery believe stage pride rural";

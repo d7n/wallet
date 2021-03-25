@@ -1,1 +1,1 @@
-var mnemonic = "focus deliver know game december youth symbol dawn flee naive frost balcony";
+var mnemonic = "craft ball text error laugh unfair rather more fee diary salt random";

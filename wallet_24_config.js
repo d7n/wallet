@@ -1,1 +1,1 @@
-var mnemonic = "liquid raw media extra awesome space vital drip link win sunset junk";
+var mnemonic = "permit torch boil small easy robot fork motion refuse normal lake immune";

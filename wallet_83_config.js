@@ -1,1 +1,1 @@
-var mnemonic = "gift diary help salon decrease field deal clarify avoid dolphin earth enable";
+var mnemonic = "jelly genre feel physical gun such forget exchange deposit ensure dignity auto";

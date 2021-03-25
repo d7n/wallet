@@ -1,1 +1,1 @@
-var mnemonic = "emotion peasant garbage mountain tattoo repeat subject skull present gather left garment";
+var mnemonic = "enable limb bring violin food category pause sniff radio imitate citizen road";

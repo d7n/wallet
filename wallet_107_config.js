@@ -1,1 +1,1 @@
-var mnemonic = "shop sauce soul shallow custom income prevent bar divorce wrong silver deposit";
+var mnemonic = "cover odor poet juice balance senior ivory recall elite ostrich post area";

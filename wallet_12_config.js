@@ -1,1 +1,1 @@
-var mnemonic = "gun bean grass mad fish bean change say frozen style review congress";
+var mnemonic = "dry gloom duty rent party mountain verify cycle aware pass era dirt";

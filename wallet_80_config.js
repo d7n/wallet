@@ -1,1 +1,1 @@
-var mnemonic = "demand account twenty rocket lounge rib fun skin effort mirror great noise";
+var mnemonic = "portion crime analyst ticket pave shadow effort usual small manage galaxy destroy";

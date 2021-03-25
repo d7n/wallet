@@ -1,1 +1,1 @@
-var mnemonic = "approve bean satisfy matter drive electric stereo flower pear mule brave level";
+var mnemonic = "sleep faculty patient trash frame type artist situate gloom invite sun draw";

@@ -1,1 +1,1 @@
-var mnemonic = "baby asset you siren success change exile rapid enemy brown giggle blush";
+var mnemonic = "blind gasp slam absorb mix alone wear smoke spend task basket control";

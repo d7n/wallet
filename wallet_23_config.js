@@ -1,1 +1,1 @@
-var mnemonic = "alert nice execute pulse output dance end used rent shove pepper stock";
+var mnemonic = "pink canal blind project ancient obey almost crane lumber awake forget tide";

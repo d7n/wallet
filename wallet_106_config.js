@@ -1,1 +1,1 @@
-var mnemonic = "ivory mushroom trigger gasp twelve milk mimic bronze rice milk seed insane";
+var mnemonic = "scout dizzy bundle hazard symbol length potato lava defense afford glow welcome";

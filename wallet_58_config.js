@@ -1,1 +1,1 @@
-var mnemonic = "sausage cover cream issue spider shop today illness accuse casino damage dial";
+var mnemonic = "response loan mobile can blossom final atom buyer vote inmate soul juice";

@@ -1,1 +1,1 @@
-var mnemonic = "early neglect valley mango two modify legal prosper abandon century want film";
+var mnemonic = "announce drum crack defy convince winner swear wear despair decide nominee theme";

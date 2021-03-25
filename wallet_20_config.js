@@ -1,1 +1,1 @@
-var mnemonic = "valve immune estate motor crack index fire response glass peace evoke sell";
+var mnemonic = "more toy movie rhythm rely bonus pulp donkey hand sorry remove merge";

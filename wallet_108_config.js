@@ -1,1 +1,1 @@
-var mnemonic = "steel music shield help educate fit approve conduct render abandon nice nominee";
+var mnemonic = "sweet wait aunt cream collect suggest around own patrol animal embark found";

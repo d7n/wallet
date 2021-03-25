@@ -1,1 +1,1 @@
-var mnemonic = "try bridge name rug worry deliver torch axis message uncover crystal proof";
+var mnemonic = "water toss silly trap drink input sword cupboard senior balcony exist grocery";

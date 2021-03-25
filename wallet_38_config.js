@@ -1,1 +1,1 @@
-var mnemonic = "arm service rich tissue erupt step topic water step melody warfare kitchen";
+var mnemonic = "hip enable spend olive million cup fiction fold idea maximum dinner excess";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal repeat unknown call snow assume mobile neutral strong uphold small enjoy";
+var mnemonic = "situate draw bonus basket nest broken voyage habit dinosaur aunt push jaguar";

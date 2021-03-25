@@ -1,1 +1,1 @@
-var mnemonic = "dawn robot warrior lunar pause circle provide virtual tennis puppy zero mosquito";
+var mnemonic = "thunder limit void labor divorce front budget off fiscal soul oxygen across";

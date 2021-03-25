@@ -1,1 +1,1 @@
-var mnemonic = "spider cute two skin keen version virus auction two reduce hurdle dice";
+var mnemonic = "oval price gallery section call above still apple police miss exercise between";

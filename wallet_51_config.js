@@ -1,1 +1,1 @@
-var mnemonic = "embody arrow juice giggle dish sword hobby lounge laundry sell quick pair";
+var mnemonic = "mosquito review diary afraid vicious october wedding august ghost cabin outdoor digital";

@@ -1,1 +1,1 @@
-var mnemonic = "denial menu island train mirror day antenna wrist toast inject flower oblige";
+var mnemonic = "critic vintage mango sample genre garlic kiss cry pool receive void enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "clown grass retire guess office vibrant action worth flush become sudden festival";
+var mnemonic = "ritual prosper slight pet sniff edge bachelor flag juice hidden album predict";

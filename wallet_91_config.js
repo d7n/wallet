@@ -1,1 +1,1 @@
-var mnemonic = "private dash crew science cement shock window pledge merry survey involve disagree";
+var mnemonic = "trust pretty fire type lucky basic tackle share attract focus father van";

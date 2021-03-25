@@ -1,1 +1,1 @@
-var mnemonic = "opera adjust term hobby knee diary swing stadium tool scan future guard";
+var mnemonic = "fame aspect crack planet romance asset version ankle doctor theory online frozen";

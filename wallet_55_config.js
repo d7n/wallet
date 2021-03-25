@@ -1,1 +1,1 @@
-var mnemonic = "oyster urban sauce cost hill forward imitate urban oblige alert rude melt";
+var mnemonic = "ticket put decline chief engage wait twist rocket robot asset snack enroll";

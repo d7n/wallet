@@ -1,1 +1,1 @@
-var mnemonic = "pear album tree blossom carpet flat promote thank pink biology mixture orange";
+var mnemonic = "bargain absurd safe august click stock rose immune grape blue drum peasant";

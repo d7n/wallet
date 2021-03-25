@@ -1,1 +1,1 @@
-var mnemonic = "amazing spawn rather click shield way argue spatial select corn much green";
+var mnemonic = "theory drill doll now alien lawsuit cause youth sentence bottom glue wrestle";

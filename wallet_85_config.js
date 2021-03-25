@@ -1,1 +1,1 @@
-var mnemonic = "carry once human path agent before differ embrace thing depend clay satoshi";
+var mnemonic = "develop candy shadow season worry wrong sound elite usual album dress excess";

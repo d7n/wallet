@@ -1,1 +1,1 @@
-var mnemonic = "matrix charge bring victory swamp harvest dune input scorpion quantum canvas live";
+var mnemonic = "celery satisfy elegant wreck sauce include hospital minute off orbit phrase wire";

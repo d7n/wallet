@@ -1,1 +1,1 @@
-var mnemonic = "fish river step gap mistake unaware error allow meat evidence actor muscle";
+var mnemonic = "huge lamp chapter spoil there three sketch bind rally blur endless echo";

@@ -1,1 +1,1 @@
-var mnemonic = "banana profit path mule cheese cheese pool bitter over explain assist betray";
+var mnemonic = "quick popular convince wedding bitter good pen naive inch lucky unusual also";

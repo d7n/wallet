@@ -1,1 +1,1 @@
-var mnemonic = "old luggage test people hip thunder saddle pool journey save resemble soul";
+var mnemonic = "tomorrow excuse raccoon fine rally ball parade involve album panda mountain bridge";

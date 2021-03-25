@@ -1,1 +1,1 @@
-var mnemonic = "dress fire area great typical february inherit garment three ramp chair proud";
+var mnemonic = "use afraid jaguar sketch flee time stable dust purchase dizzy hire urban";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit enough deer tide loop vacuum salad soft pair abstract finger inflict";
+var mnemonic = "impulse ritual chef crumble own naive poverty olympic fury more twist suffer";

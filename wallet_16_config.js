@@ -1,1 +1,1 @@
-var mnemonic = "cook stick toy solid north win boil arrive brush front dolphin target";
+var mnemonic = "shine dilemma push labor dial average garment loan inmate dry shuffle attitude";

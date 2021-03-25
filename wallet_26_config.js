@@ -1,1 +1,1 @@
-var mnemonic = "shoulder tell punch imitate tape moon gun fog view square butter choice";
+var mnemonic = "power spider air history seek duck pond royal remind short neutral grain";

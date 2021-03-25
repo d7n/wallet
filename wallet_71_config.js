@@ -1,1 +1,1 @@
-var mnemonic = "clog pond journey six timber panther asset ceiling spirit calm reunion observe";
+var mnemonic = "dilemma water trial become ritual ecology thrive wedding benefit valid dirt noble";

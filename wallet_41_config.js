@@ -1,1 +1,1 @@
-var mnemonic = "similar good frozen garlic melody dry hold lizard exotic garment zoo market";
+var mnemonic = "want breeze ginger desert thrive tackle flag glove spot lunch bread case";

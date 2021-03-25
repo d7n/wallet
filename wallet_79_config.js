@@ -1,1 +1,1 @@
-var mnemonic = "load tortoise receive vast luxury inflict differ stomach slow engage supply enact";
+var mnemonic = "dove shrimp library pudding seminar chair life noise elevator vast ship tiny";

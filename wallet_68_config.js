@@ -1,1 +1,1 @@
-var mnemonic = "robot wealth neither teach winner peanut exile urge excite pig will speak";
+var mnemonic = "road verb robust hunt beyond drive coconut floor remember divorce coil gloom";

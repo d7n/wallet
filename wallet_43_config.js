@@ -1,1 +1,1 @@
-var mnemonic = "giant father imitate cheap cigar access flip chicken post mushroom other defy";
+var mnemonic = "buffalo often stable olive winner asset acoustic enrich room sunny long skirt";

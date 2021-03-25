@@ -1,1 +1,1 @@
-var mnemonic = "neglect number one palm athlete system toss buzz final secret clip swamp";
+var mnemonic = "trend dynamic shop become yellow canal saddle fabric twist fragile proud turtle";

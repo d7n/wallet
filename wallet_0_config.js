@@ -1,1 +1,1 @@
-var mnemonic = "run brick episode steak edge next deal ticket journey prevent broccoli stage";
+var mnemonic = "high funny rail cabin seat foster state corn arrange flee blind sense";

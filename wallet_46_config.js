@@ -1,1 +1,1 @@
-var mnemonic = "mansion inch now lens poet keep plug gesture square soon cart they";
+var mnemonic = "able issue hire tower public lizard advance gate popular dash feature enter";

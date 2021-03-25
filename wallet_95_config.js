@@ -1,1 +1,1 @@
-var mnemonic = "pulp mushroom reason right clump apple pause hawk patrol quit exile leg";
+var mnemonic = "tower easy enrich submit upon resist lend oxygen during latin vital couch";

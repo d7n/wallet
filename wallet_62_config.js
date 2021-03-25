@@ -1,1 +1,1 @@
-var mnemonic = "flush icon hair truck churn leisure model river forget basket arrange spring";
+var mnemonic = "junior cherry obvious roast culture drill arrow swear gadget march frame denial";

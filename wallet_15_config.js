@@ -1,1 +1,1 @@
-var mnemonic = "mail wall ecology fancy seminar economy side guard february property regular menu";
+var mnemonic = "true require hurry quarter horn soccer pool favorite model market purse deposit";

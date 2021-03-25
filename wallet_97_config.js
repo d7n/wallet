@@ -1,1 +1,1 @@
-var mnemonic = "fit reveal vote voice glad beach unaware type retire fox burden follow";
+var mnemonic = "miracle goddess digital famous ugly labor anxiety please awkward board spatial mass";

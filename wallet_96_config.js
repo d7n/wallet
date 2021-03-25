@@ -1,1 +1,1 @@
-var mnemonic = "happy hire purpose bundle cement bachelor earth calm journey rocket legal idle";
+var mnemonic = "globe copy jewel cheap sell dice tooth inch devote service fly world";

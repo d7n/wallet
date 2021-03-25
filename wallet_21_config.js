@@ -1,1 +1,1 @@
-var mnemonic = "initial genuine unhappy mechanic doctor torch garden raw consider wish system cave";
+var mnemonic = "welcome antique gospel river gas file very harbor bridge valley tribe name";

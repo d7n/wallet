@@ -1,1 +1,1 @@
-var mnemonic = "december south phone trade drill economy expire quote small oil tiny select";
+var mnemonic = "brother liquid brass saddle spend lunch depth side imitate jungle fashion kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "rival vault juice miracle chef proof lamp thrive arch echo runway ripple";
+var mnemonic = "notable sweet elite top body work topic night alarm raw industry vessel";

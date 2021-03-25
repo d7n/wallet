@@ -1,1 +1,1 @@
-var mnemonic = "next outside top expect inherit blur cloth sweet cluster crack rebel program";
+var mnemonic = "modify entire broom very elite unfold consider plug assault plunge fine high";

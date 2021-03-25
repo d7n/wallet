@@ -1,1 +1,1 @@
-var mnemonic = "bronze remind provide ball spice parent oven cricket coil forum ripple employ";
+var mnemonic = "pluck celery simple cause hold box valid glad bright acquire ahead strategy";

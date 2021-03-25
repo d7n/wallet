@@ -1,1 +1,1 @@
-var mnemonic = "drift indicate twice picnic coral lens alter pelican suspect state box avoid";
+var mnemonic = "carpet hunt bulb slight crucial afraid crush cross orange eternal charge output";

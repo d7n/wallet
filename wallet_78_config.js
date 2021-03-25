@@ -1,1 +1,1 @@
-var mnemonic = "silly human peanut scrap render luggage learn cattle clap amateur wheat transfer";
+var mnemonic = "garden profit flee false human milk decline humble narrow symptom glimpse other";

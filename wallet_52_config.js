@@ -1,1 +1,1 @@
-var mnemonic = "harbor roast achieve super parade laundry since oxygen hawk learn total fragile";
+var mnemonic = "legend west speak comfort island embark repeat blood gold toast theory print";

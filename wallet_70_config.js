@@ -1,1 +1,1 @@
-var mnemonic = "lion jacket quick brisk photo grain ahead install urge aspect tuna recycle";
+var mnemonic = "must few dress design gap skill estate width toilet wedding fatigue display";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight deliver worth move address crazy finish legend movie icon picnic car";
+var mnemonic = "feed whip cable enter fiber wisdom castle clay inch either candy act";

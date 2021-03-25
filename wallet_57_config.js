@@ -1,1 +1,1 @@
-var mnemonic = "social add idea cereal monitor universe diamond ketchup borrow soldier liberty cake";
+var mnemonic = "wing wave hint penalty mercy check inch surface document text cheese world";

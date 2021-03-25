@@ -1,1 +1,1 @@
-var mnemonic = "cheap sail trash round wire victory enough apology glue subject grant say";
+var mnemonic = "property alpha skin zoo velvet bridge learn soft face captain tomato target";

@@ -1,1 +1,1 @@
-var mnemonic = "country dose advice cloud expand great thought kangaroo blind old option coyote";
+var mnemonic = "sword divorce junior quiz reason cupboard section juice sweet initial lesson punch";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge exhibit idea obvious reason enforce stem world carry view dust deposit";
+var mnemonic = "present brave tag balance gown climb strong couch grain census fog use";

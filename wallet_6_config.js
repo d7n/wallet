@@ -1,1 +1,1 @@
-var mnemonic = "carbon tennis acoustic oven mix whisper execute rich once myself envelope casino";
+var mnemonic = "auction gym assault attract gesture outer attack february inch climb october together";

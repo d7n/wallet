@@ -1,1 +1,1 @@
-var mnemonic = "asthma mistake identify gallery judge obvious state peanut attack upgrade ecology foot";
+var mnemonic = "hello stove surprise net pitch wing inch bottom blast tip weather radio";

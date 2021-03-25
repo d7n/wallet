@@ -1,1 +1,1 @@
-var mnemonic = "entry marriage beyond liquid tank torch ethics sign mushroom mercy country power";
+var mnemonic = "buddy clip slab people novel diamond kit dawn mercy capital vocal sad";

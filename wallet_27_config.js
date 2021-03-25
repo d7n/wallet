@@ -1,1 +1,1 @@
-var mnemonic = "hard pulp minor antenna similar oxygen nerve market spot remind master buddy";
+var mnemonic = "lunar loud buddy option trick wolf spell leaf gown enroll father control";

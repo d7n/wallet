@@ -1,1 +1,1 @@
-var mnemonic = "canoe spider ivory price crack spawn pattern wagon diagram salmon vault minor";
+var mnemonic = "melody erosion vicious waste differ adult leopard broom symbol sister coin shoot";

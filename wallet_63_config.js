@@ -1,1 +1,1 @@
-var mnemonic = "learn drift among hip typical nest solar rather vast palace detail trick";
+var mnemonic = "hub mistake spirit final mountain fade wisdom chimney kit boss virus main";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh soft expose robot unknown analyst hospital citizen gun ribbon often confirm";
+var mnemonic = "hazard visual mind weasel cross sibling boat live jazz jump hurt veteran";

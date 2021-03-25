@@ -1,1 +1,1 @@
-var mnemonic = "twin funny breeze audit clerk window pledge crowd lake unveil circle phrase";
+var mnemonic = "cereal aspect edge title nice hard solution raven abandon spawn talk ice";

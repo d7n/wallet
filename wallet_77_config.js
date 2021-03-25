@@ -1,1 +1,1 @@
-var mnemonic = "energy code uphold surround output cream tomorrow beauty banner coral install velvet";
+var mnemonic = "marble rug west amateur index domain scorpion exact hurdle fat boil domain";

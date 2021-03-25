@@ -1,1 +1,1 @@
-var mnemonic = "card boat museum organ erupt oven mail until patrol magnet decline december";
+var mnemonic = "hockey vessel brown soccer angle crane when spot pause remember diesel child";

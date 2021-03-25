@@ -1,1 +1,1 @@
-var mnemonic = "script upper flat antique foster neglect side flame method rely skin soccer";
+var mnemonic = "century shield hurt horn stable divorce february coffee plate cannon slot glad";

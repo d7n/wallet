@@ -1,1 +1,1 @@
-var mnemonic = "armed zero toss stairs dynamic yard carpet time anxiety game prize enhance";
+var mnemonic = "custom stand kind neck motor age predict dinner peasant gossip piano vast";

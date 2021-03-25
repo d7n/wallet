@@ -1,1 +1,1 @@
-var mnemonic = "color valid rack asthma prevent buddy flock enrich carbon decorate crack dentist";
+var mnemonic = "idle sustain urge genre boil series panda laugh leaf crazy envelope vapor";

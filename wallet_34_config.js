@@ -1,1 +1,1 @@
-var mnemonic = "subway baby soda cute stick tag hospital proof poverty rocket street raven";
+var mnemonic = "divide wash tunnel beef toilet exercise robust scene relax front tomato monkey";

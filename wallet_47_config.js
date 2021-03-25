@@ -1,1 +1,1 @@
-var mnemonic = "afford hurt seek sheriff moment hair stem maid unhappy sniff because tuna";
+var mnemonic = "august town canoe machine dress pepper motor resist bleak garlic supply marine";

@@ -1,1 +1,1 @@
-var mnemonic = "search symbol dragon super bullet bottom door erosion vapor cargo claim useless";
+var mnemonic = "bone body loop input transfer eyebrow leave job solid caution exit trade";

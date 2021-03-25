@@ -1,1 +1,1 @@
-var mnemonic = "cube toddler garage fee jacket silent wait kitchen tenant snake vibrant jar";
+var mnemonic = "dove relief mystery sense crisp settle mirror baby one flavor faculty biology";

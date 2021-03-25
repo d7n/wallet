@@ -1,1 +1,1 @@
-var mnemonic = "drastic focus sentence harbor still hello voice wave coin month bitter magnet";
+var mnemonic = "trial ugly naive success attend inner joke shadow word famous sure absurd";

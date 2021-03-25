@@ -1,1 +1,1 @@
-var mnemonic = "hat want scatter game decide please axis grape direct alone utility begin";
+var mnemonic = "galaxy charge gravity twist side suspect toward pledge fatigue scare bleak sniff";

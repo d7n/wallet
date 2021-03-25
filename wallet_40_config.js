@@ -1,1 +1,1 @@
-var mnemonic = "sphere satoshi okay feed weather voyage joy design chimney teach ribbon demise";
+var mnemonic = "swing brand rail language deal judge sample mind blast alone improve private";

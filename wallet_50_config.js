@@ -1,1 +1,1 @@
-var mnemonic = "face abstract boil jacket happy lesson lunar alpha clay coil solve private";
+var mnemonic = "tennis mule question reform trust panic decline trigger lecture cherry pool trim";

@@ -1,1 +1,1 @@
-var mnemonic = "toss urge bright dentist final right submit bike advice live shield pair";
+var mnemonic = "now lottery animal sketch trial all ostrich reflect swallow tell index taste";

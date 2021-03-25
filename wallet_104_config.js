@@ -1,1 +1,1 @@
-var mnemonic = "flavor moon novel claw mosquito wealth pear ignore govern resource boil satisfy";
+var mnemonic = "beef simple idle swallow history evolve traffic purchase neglect stamp adapt noodle";
