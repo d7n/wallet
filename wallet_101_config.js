@@ -1,1 +1,1 @@
-var mnemonic = "knife grow pact exercise giraffe twelve obscure long reduce wolf demand scout";
+var mnemonic = "reject answer picnic order earth decide point then blast meadow concert rifle";

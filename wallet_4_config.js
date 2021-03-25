@@ -1,1 +1,1 @@
-var mnemonic = "song alter minor input claim measure flush wealth furnace biology fox improve";
+var mnemonic = "shiver regret visa coffee chase indicate pink limb subject shrimp ridge tower";

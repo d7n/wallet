@@ -1,1 +1,1 @@
-var mnemonic = "detect treat ethics unusual tumble sadness brown ten have saddle detail tragic";
+var mnemonic = "smooth few logic amazing daughter vast spread source employ crime crouch amateur";

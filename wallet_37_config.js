@@ -1,1 +1,1 @@
-var mnemonic = "myth waste glow bike wet claim claim dream usage filter foot wire";
+var mnemonic = "bicycle candy mad shock echo circle spread easy tackle young swing suggest";

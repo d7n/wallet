@@ -1,1 +1,1 @@
-var mnemonic = "focus pluck attack stand near nature social talent drama online great clown";
+var mnemonic = "sick neutral ceiling section woman toy actor rude tobacco employ okay finish";

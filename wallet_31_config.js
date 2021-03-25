@@ -1,1 +1,1 @@
-var mnemonic = "valve collect island leave weekend churn wear equal choice dice skull lesson";
+var mnemonic = "source gallery similar giraffe invite undo dolphin useful crime horn ladder legend";

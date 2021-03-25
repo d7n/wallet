@@ -1,1 +1,1 @@
-var mnemonic = "fix bone song genius home canoe crazy liar write mind attend shock";
+var mnemonic = "size impact cupboard never inside mean alcohol doctor limit radar animal blade";

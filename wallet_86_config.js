@@ -1,1 +1,1 @@
-var mnemonic = "alter dinosaur inmate bone onion excess spell this expose crash trim two";
+var mnemonic = "foil repeat whip marble explain fork ghost reject ball enemy crime shrimp";

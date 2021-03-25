@@ -1,1 +1,1 @@
-var mnemonic = "tiny cook dawn tape prevent embody immense pulp afraid clay only begin";
+var mnemonic = "cloud urge ritual rough umbrella belt scatter toy toss cluster there lend";

@@ -1,1 +1,1 @@
-var mnemonic = "similar year farm find reform traffic modify pioneer very caught worth cruel";
+var mnemonic = "purpose rail man wonder force jealous betray picnic kingdom view clock health";

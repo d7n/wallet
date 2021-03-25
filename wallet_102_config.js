@@ -1,1 +1,1 @@
-var mnemonic = "common mirror drip worry run moment enforce lamp violin left island abuse";
+var mnemonic = "praise fiber material diesel message purchase husband alcohol word creek afford human";

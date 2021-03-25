@@ -1,1 +1,1 @@
-var mnemonic = "team owner honey quality wrist best grid jacket between sister expect lake";
+var mnemonic = "insect another skill satisfy essence social rack polar wage govern acquire property";

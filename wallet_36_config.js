@@ -1,1 +1,1 @@
-var mnemonic = "few adjust draw correct urge disagree oyster month gun balcony thing people";
+var mnemonic = "voyage kiss inside muffin theory window ship expose insane message celery tank";

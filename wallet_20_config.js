@@ -1,1 +1,1 @@
-var mnemonic = "organ rubber speed castle educate bullet depth sun own engage banana glass";
+var mnemonic = "recipe suspect deposit legal exit brisk denial aisle angry purchase field mammal";

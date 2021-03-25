@@ -1,1 +1,1 @@
-var mnemonic = "later notice grunt faint label mesh height leisure stool matrix rude fit";
+var mnemonic = "buddy game olive nose april profit forum gallery merry relief vacuum brain";

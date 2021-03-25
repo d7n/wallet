@@ -1,1 +1,1 @@
-var mnemonic = "quarter market now busy picture legal inflict tower grow crawl true hazard";
+var mnemonic = "jealous purchase father throw icon satoshi call latin math amount pave chaos";

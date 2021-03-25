@@ -1,1 +1,1 @@
-var mnemonic = "cram cover busy post congress kangaroo laundry leaf discover since angle company";
+var mnemonic = "wire neither praise inflict axis toe muffin news clump able tribe swallow";

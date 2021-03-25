@@ -1,1 +1,1 @@
-var mnemonic = "correct mercy expire best primary rhythm carry client stamp crush rely album";
+var mnemonic = "scale bulk enter problem axis rough warfare pistol art bulk blouse blind";

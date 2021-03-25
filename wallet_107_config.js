@@ -1,1 +1,1 @@
-var mnemonic = "quit strike alcohol denial wine recall top glass toe merit clip differ";
+var mnemonic = "eagle seek winner powder cattle stadium caught square child unaware weird peanut";

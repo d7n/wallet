@@ -1,1 +1,1 @@
-var mnemonic = "evil mercy donkey deputy double near exhibit luxury club impulse woman vehicle";
+var mnemonic = "nut stock citizen book unlock various chunk myself wrong february keen rice";

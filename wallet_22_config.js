@@ -1,1 +1,1 @@
-var mnemonic = "gown spawn alpha hen miracle alert stone pull tissue stool depth stove";
+var mnemonic = "convince purchase exact science taste ticket language security desk disagree service alley";

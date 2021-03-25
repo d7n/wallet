@@ -1,1 +1,1 @@
-var mnemonic = "smile record cheap rhythm trick spare breeze evil fortune awful quiz worry";
+var mnemonic = "increase tomorrow fox knee crazy gesture blood heavy noise chronic upper brisk";

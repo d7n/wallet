@@ -1,1 +1,1 @@
-var mnemonic = "dolphin also oppose eye crawl blood course frequent ladder barrel mail race";
+var mnemonic = "crouch nuclear devote finish shift legal whisper small torch author rescue canal";

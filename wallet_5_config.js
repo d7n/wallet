@@ -1,1 +1,1 @@
-var mnemonic = "alpha ritual monitor attract used curtain ozone valid script peace marine option";
+var mnemonic = "drill gravity describe key laugh suggest situate warrior produce fade eye apart";

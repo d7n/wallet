@@ -1,1 +1,1 @@
-var mnemonic = "disagree cabbage you expand mix relax cause comfort thumb race awake zero";
+var mnemonic = "bachelor arrest melody essay recall inhale luggage upon beef correct duty first";

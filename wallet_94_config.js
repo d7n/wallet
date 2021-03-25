@@ -1,1 +1,1 @@
-var mnemonic = "kitchen city stick season runway adjust print sausage able attend huge dentist";
+var mnemonic = "follow about fit whip grow round person priority robust silent risk solve";

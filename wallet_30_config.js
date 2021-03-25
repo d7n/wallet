@@ -1,1 +1,1 @@
-var mnemonic = "unfold recycle menu piece swift travel master other word frozen worry office";
+var mnemonic = "fox stairs fantasy cherry galaxy quarter october bike setup dwarf purchase beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty execute release gate bar cherry scatter slush raven tunnel echo ivory";
+var mnemonic = "pond drastic embody burger worth fatal sand increase visual final blouse together";

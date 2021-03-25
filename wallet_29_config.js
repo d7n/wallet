@@ -1,1 +1,1 @@
-var mnemonic = "transfer pave buzz ankle way dish funny box skate exit scene goose";
+var mnemonic = "fault tissue face matter tomorrow nerve include neck liquid govern inflict theme";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum jelly exhibit range real elephant brown pet trophy oval exclude oven";
+var mnemonic = "eternal fortune view acoustic suit prison scrub size brother matrix sketch man";

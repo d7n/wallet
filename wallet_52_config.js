@@ -1,1 +1,1 @@
-var mnemonic = "rotate artefact ghost invest vapor purity cruel bomb dizzy library float firm";
+var mnemonic = "rescue bamboo bottom love coast immense misery ladder empty glimpse pull cheap";

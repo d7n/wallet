@@ -1,1 +1,1 @@
-var mnemonic = "write odor answer slush cabin verb author echo frame produce field sauce";
+var mnemonic = "cricket relief under news borrow history hunt across across zone sign grain";

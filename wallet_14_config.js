@@ -1,1 +1,1 @@
-var mnemonic = "gorilla explain waste stomach shoot slender valid crouch cost brand scheme search";
+var mnemonic = "bachelor dance plunge spin danger velvet illness ranch toe pistol scrub cage";

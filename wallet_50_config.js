@@ -1,1 +1,1 @@
-var mnemonic = "stem sport glance entry media urge fatigue file rapid struggle session profit";
+var mnemonic = "angry column verify life either inhale join ozone broom judge fence cream";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect pet tag tag potato scorpion coil glare brain gauge escape chase";
+var mnemonic = "witness thought pill civil fuel relief category life riot lemon keep nature";

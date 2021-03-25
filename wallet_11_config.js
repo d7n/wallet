@@ -1,1 +1,1 @@
-var mnemonic = "critic insect page segment fuel rifle dentist curve mind horror please witness";
+var mnemonic = "doctor version ivory surprise steel bring milk harbor sustain knock base thing";

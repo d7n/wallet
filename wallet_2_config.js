@@ -1,1 +1,1 @@
-var mnemonic = "december joke goat left final head never effort escape recipe few hedgehog";
+var mnemonic = "enact absent wrap now future imitate zebra wasp robust essence street physical";

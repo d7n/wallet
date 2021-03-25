@@ -1,1 +1,1 @@
-var mnemonic = "sword impulse maple ozone rail zebra divorce record maximum exact bone pet";
+var mnemonic = "trigger manage extend undo afford soccer soon sail cool fiber frame diamond";

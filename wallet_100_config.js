@@ -1,1 +1,1 @@
-var mnemonic = "engine use verify miracle horn fatal potato reveal drama joy space between";
+var mnemonic = "glory general rail canyon process apple ball river mix hero behave turn";

@@ -1,1 +1,1 @@
-var mnemonic = "owner alone snap flush renew short carry tape gather dumb prison crime";
+var mnemonic = "remain uncover valid mixed october road bacon hello wisdom lock better arm";

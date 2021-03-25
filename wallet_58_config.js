@@ -1,1 +1,1 @@
-var mnemonic = "night rescue height tenant alert enlist caught allow island useless setup tide";
+var mnemonic = "now weather ship limb pitch wink canvas dinosaur diagram struggle frozen toward";

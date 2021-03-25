@@ -1,1 +1,1 @@
-var mnemonic = "agree praise zone useless sustain symbol crumble photo royal tilt sniff quarter";
+var mnemonic = "collect alter print perfect army cloud diamond bulk news notice elite deposit";

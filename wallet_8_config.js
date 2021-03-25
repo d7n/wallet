@@ -1,1 +1,1 @@
-var mnemonic = "insect length light decorate hire bicycle fiction crumble spoil life submit illegal";
+var mnemonic = "quarter coast dry mimic boil neck surface minimum size phone together slim";

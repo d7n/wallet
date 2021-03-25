@@ -1,1 +1,1 @@
-var mnemonic = "dust risk file term surround volume parrot animal fence leader welcome pill";
+var mnemonic = "climb village able true job slow banana view three mix club answer";

@@ -1,1 +1,1 @@
-var mnemonic = "habit scene pear story shoe include gun dune uncle cushion join boss";
+var mnemonic = "remove canal talk problem work divide plate power sniff advice daring evolve";

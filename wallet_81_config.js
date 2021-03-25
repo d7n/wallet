@@ -1,1 +1,1 @@
-var mnemonic = "fade essay yellow velvet island reason tissue burden witness galaxy nurse ready";
+var mnemonic = "river current brave embody child almost list picnic record knee element flock";

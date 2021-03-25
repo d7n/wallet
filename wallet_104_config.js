@@ -1,1 +1,1 @@
-var mnemonic = "advice claw affair offer winter quote worth dawn job actor primary segment";
+var mnemonic = "symbol ladder cable kite across radio camp toddler expire diet gap across";

@@ -1,1 +1,1 @@
-var mnemonic = "gift seat poem tip frozen torch paper chunk vintage rhythm census chaos";
+var mnemonic = "spoon judge stairs loan city sad cupboard beach silver lawn volcano athlete";

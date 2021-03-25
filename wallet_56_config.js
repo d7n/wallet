@@ -1,1 +1,1 @@
-var mnemonic = "travel loan cause tennis wild blur chief day search dish ripple neglect";
+var mnemonic = "zoo crawl exact pill canal bundle repeat fashion hard betray another duck";

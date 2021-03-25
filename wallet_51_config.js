@@ -1,1 +1,1 @@
-var mnemonic = "obvious elbow lamp ribbon pistol entire scene fortune boss bomb edit category";
+var mnemonic = "begin illegal rather scorpion asset side blouse expect kidney ladder pitch olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "vital plunge shield honey critic ghost sweet bicycle beyond ramp stay lesson";
+var mnemonic = "recall improve drift warrior dizzy remove strong razor science orient biology polar";

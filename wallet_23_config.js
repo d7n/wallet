@@ -1,1 +1,1 @@
-var mnemonic = "vibrant birth frog elegant pulp again include much tenant insane blood dice";
+var mnemonic = "clock require flock glare fee payment lucky rapid apart orchard aim suffer";

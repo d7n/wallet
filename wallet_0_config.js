@@ -1,1 +1,1 @@
-var mnemonic = "oyster panther pipe enrich friend kingdom olive double trouble cart retire cause";
+var mnemonic = "list track bike glimpse convince panic seven rare million animal midnight silk";

@@ -1,1 +1,1 @@
-var mnemonic = "dune cushion derive any barely early veteran thought obtain mansion cross lab";
+var mnemonic = "sauce eyebrow tissue afford flip beyond cook shallow wear mail resource jump";

@@ -1,1 +1,1 @@
-var mnemonic = "humble rate inspire rubber attract boss dutch right nasty canoe much hair";
+var mnemonic = "ship angle cube phrase attract clown congress thunder brave grid coast basic";

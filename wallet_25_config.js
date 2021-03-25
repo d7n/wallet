@@ -1,1 +1,1 @@
-var mnemonic = "tongue gold funny receive elder share pigeon excess fade fresh capital quote";
+var mnemonic = "bulk erase confirm random quantum picnic parrot climb art thing sunset clump";

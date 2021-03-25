@@ -1,1 +1,1 @@
-var mnemonic = "adult echo nut park female page almost rare shed movie home among";
+var mnemonic = "ship donate arrange horse elephant crystal fatal trim regular slight vacuum one";

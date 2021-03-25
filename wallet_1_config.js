@@ -1,1 +1,1 @@
-var mnemonic = "spawn better leisure glare taxi post secret wave judge route rival bundle";
+var mnemonic = "ball situate glove world cotton bitter junk away wonder butter level true";

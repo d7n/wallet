@@ -1,1 +1,1 @@
-var mnemonic = "clog bleak dizzy rich space riot brand right reason razor comfort sand";
+var mnemonic = "verify win amazing venture rural author delay small forest omit stomach round";

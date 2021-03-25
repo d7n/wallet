@@ -1,1 +1,1 @@
-var mnemonic = "glory delay brisk congress cotton aisle enrich drift attend trend attend tone";
+var mnemonic = "hello rent palace lyrics amount smile bridge clog laptop asthma neutral shoot";

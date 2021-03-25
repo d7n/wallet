@@ -1,1 +1,1 @@
-var mnemonic = "kitchen mystery there jaguar any enhance report ring sentence member strong youth";
+var mnemonic = "invest hover frown load domain will text unable palace only dilemma menu";

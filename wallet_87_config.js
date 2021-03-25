@@ -1,1 +1,1 @@
-var mnemonic = "thank metal belt torch fine enforce fly gorilla steak spike mandate tuna";
+var mnemonic = "clock flame brown remain fence chef short jelly twenty chalk little clap";

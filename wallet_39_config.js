@@ -1,1 +1,1 @@
-var mnemonic = "own relax phrase have aware toddler ignore noise final circle make mixture";
+var mnemonic = "barrel unaware labor twelve lumber journey peasant fix harsh toy lamp author";

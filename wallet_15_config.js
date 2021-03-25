@@ -1,1 +1,1 @@
-var mnemonic = "album soda stool snap person day vessel height combine glue network caution";
+var mnemonic = "exile offer city tuna invest found shock tuna cake steak gloom tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage custom alley volume panic pride today boy frequent viable token nerve";
+var mnemonic = "spider book waste pelican limb december diesel erupt win snap twelve echo";

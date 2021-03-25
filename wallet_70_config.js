@@ -1,1 +1,1 @@
-var mnemonic = "magnet force unusual before body goddess fuel problem supreme pattern boil walnut";
+var mnemonic = "charge table sunny head boss panel demand puppy trumpet protect decade because";

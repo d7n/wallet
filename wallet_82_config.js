@@ -1,1 +1,1 @@
-var mnemonic = "eager mimic use tumble opinion lazy embrace patrol talk soccer melody inquiry";
+var mnemonic = "then atom creek vintage sure float sport settle angry leave country chase";

@@ -1,1 +1,1 @@
-var mnemonic = "exit friend movie patrol ticket forest range turn mad mass beach zoo";
+var mnemonic = "notice skirt across candy already dutch age universe bright situate fiction thrive";

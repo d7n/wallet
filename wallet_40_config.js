@@ -1,1 +1,1 @@
-var mnemonic = "speak oblige office hope donate execute weather midnight eyebrow sister kind vendor";
+var mnemonic = "gas ride between finger sustain artist lock ketchup quantum risk possible extra";

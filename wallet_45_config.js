@@ -1,1 +1,1 @@
-var mnemonic = "security snack praise bright logic tank sun skull eight green pen jelly";
+var mnemonic = "episode captain muscle order stage grab castle muffin fabric survey riot afraid";

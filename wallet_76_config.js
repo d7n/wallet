@@ -1,1 +1,1 @@
-var mnemonic = "crystal diamond produce tragic success nurse elegant praise fix ancient mother cream";
+var mnemonic = "parrot inside casual entire sniff vague olive foot fiber area client draw";

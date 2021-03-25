@@ -1,1 +1,1 @@
-var mnemonic = "faint cross glue add veteran basket degree mother elegant mobile use mansion";
+var mnemonic = "hunt address rely critic announce club carpet grocery aim ocean hover naive";

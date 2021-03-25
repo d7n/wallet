@@ -1,1 +1,1 @@
-var mnemonic = "sail normal kitten spell cradle able burger engage nation dream amazing remain";
+var mnemonic = "bind version derive almost album yard mandate mandate permit sting hour asset";

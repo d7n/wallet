@@ -1,1 +1,1 @@
-var mnemonic = "group fun fiction midnight security grape auto when rate section barely coast";
+var mnemonic = "foil armor burden pave merge canal fiber spirit mad matter stock rabbit";

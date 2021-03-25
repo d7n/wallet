@@ -1,1 +1,1 @@
-var mnemonic = "enrich mother fog column game fluid load alert extra quantum primary deliver";
+var mnemonic = "rookie act convince tip token track icon animal sample state word original";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel knife property midnight badge seminar family muscle shoe brain electric track";
+var mnemonic = "income hard axis region brush initial social recall install inmate vendor vacant";

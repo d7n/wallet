@@ -1,1 +1,1 @@
-var mnemonic = "palm brother bulb magnet media cable decade leisure park march inquiry winter";
+var mnemonic = "shrimp club slow treat test shrimp series cancel point shell double south";

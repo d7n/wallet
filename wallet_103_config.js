@@ -1,1 +1,1 @@
-var mnemonic = "three joy announce pull smoke shop control ostrich arrive case hold smile";
+var mnemonic = "replace else clerk initial mask strategy ahead fly matter pause donate match";

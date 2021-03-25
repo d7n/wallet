@@ -1,1 +1,1 @@
-var mnemonic = "mesh blouse give situate peace resist identify expand essence expire robot popular";
+var mnemonic = "host nurse entry spread scan shiver infant control hamster budget maze hello";

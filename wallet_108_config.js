@@ -1,1 +1,1 @@
-var mnemonic = "next maid pattern wave awful black jaguar horn coffee vintage feature cloud";
+var mnemonic = "abandon cash stock draw use pepper figure nothing eternal upon soft fly";

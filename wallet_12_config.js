@@ -1,1 +1,1 @@
-var mnemonic = "profit little include figure furnace panel box song antenna chunk damp success";
+var mnemonic = "split other tuition parent dutch library art bounce brother attend chimney wet";

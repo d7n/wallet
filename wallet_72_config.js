@@ -1,1 +1,1 @@
-var mnemonic = "movie oven nose clean road axis rebel lunar expose gift armor ribbon";
+var mnemonic = "tourist turkey similar resemble cave retire arena mail wrist shadow chalk sun";

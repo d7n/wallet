@@ -1,1 +1,1 @@
-var mnemonic = "stay amateur goat science devote cake village web leisure example category craft";
+var mnemonic = "edit what slow envelope sorry pig marriage defense nominee fever jelly donkey";

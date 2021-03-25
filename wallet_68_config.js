@@ -1,1 +1,1 @@
-var mnemonic = "toss panther ring move thing cabin jump olympic liar across six fossil";
+var mnemonic = "twice desk volcano much into myself kangaroo token old seed acid tissue";

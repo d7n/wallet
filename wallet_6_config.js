@@ -1,1 +1,1 @@
-var mnemonic = "arena maple curtain draft once among field you cycle remain share sleep";
+var mnemonic = "direct glue obey goat slice fossil cloth great wrist solve crane thumb";

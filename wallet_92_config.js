@@ -1,1 +1,1 @@
-var mnemonic = "stereo oil gun fee dog penalty flip much volume road cushion face";
+var mnemonic = "reflect manage include fantasy hidden select honey easily cabin guitar coffee auto";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol pioneer today mesh bar rally toe siege change skull reason cluster";
+var mnemonic = "moon noble grass snap type alter ordinary gas spirit bike govern juice";

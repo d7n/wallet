@@ -1,1 +1,1 @@
-var mnemonic = "town reopen happy review swap pudding chief beach illness lion memory luggage";
+var mnemonic = "foot onion exchange menu goat prepare cereal plunge position blouse six unlock";

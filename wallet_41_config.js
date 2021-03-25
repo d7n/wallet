@@ -1,1 +1,1 @@
-var mnemonic = "mule logic demand radar brick short kid surge glass clutch evolve pipe";
+var mnemonic = "draft dentist live start dolphin genuine vendor rough expire vault spoon super";
