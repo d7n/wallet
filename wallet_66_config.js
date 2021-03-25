@@ -1,1 +1,1 @@
-var mnemonic = "truly tray proud chicken during company pulp latin palm dish add endless";
+var mnemonic = "alter suspect gospel number income path city tip device dove ask inform";

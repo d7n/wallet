@@ -1,1 +1,1 @@
-var mnemonic = "slush grit crisp deposit apology hero guard key inform brief conduct prison";
+var mnemonic = "weather juice burden nothing shed awesome tissue raven rebel tuition hungry castle";

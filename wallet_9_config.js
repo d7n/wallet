@@ -1,1 +1,1 @@
-var mnemonic = "quote state change ensure card year wrong museum slender happy toilet august";
+var mnemonic = "safe release harbor game object smooth asset benefit rich mouse youth matter";

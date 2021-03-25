@@ -1,1 +1,1 @@
-var mnemonic = "gloom toddler movie venue lecture enroll web shock soul dress fancy north";
+var mnemonic = "crop trial teach detect rabbit endless cool can salmon scale hawk injury";

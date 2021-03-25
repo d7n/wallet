@@ -1,1 +1,1 @@
-var mnemonic = "claw process library what holiday hotel decrease vehicle boss rich little kit";
+var mnemonic = "acid dumb health where habit hat toe sleep enrich exercise fork same";

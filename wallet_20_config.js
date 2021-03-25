@@ -1,1 +1,1 @@
-var mnemonic = "saddle excite audit security rocket flip table sweet album zero fabric tribe";
+var mnemonic = "edge bamboo wink true panda magnet equal cement fit senior column below";

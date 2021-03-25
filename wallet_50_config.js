@@ -1,1 +1,1 @@
-var mnemonic = "melody elephant fever label blue segment another accident song soft blouse globe";
+var mnemonic = "series lunar ceiling say zoo sea tennis yard slow ankle slight blossom";

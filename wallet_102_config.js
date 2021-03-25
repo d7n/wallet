@@ -1,1 +1,1 @@
-var mnemonic = "meat taxi assault order flight wreck zero sail bright cake fatal clinic";
+var mnemonic = "below glare purse myself adjust whale umbrella west nephew taxi diamond bus";

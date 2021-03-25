@@ -1,1 +1,1 @@
-var mnemonic = "window swear divert layer uncle cupboard viable kingdom island pencil scatter evolve";
+var mnemonic = "wet feature lonely potato lumber feed burden field rent hedgehog loud twelve";

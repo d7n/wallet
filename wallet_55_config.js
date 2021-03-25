@@ -1,1 +1,1 @@
-var mnemonic = "entire need moment grass cabin speed envelope have moment tattoo switch spray";
+var mnemonic = "exhaust cereal alcohol tree pill antique pencil process umbrella elder bundle banana";

@@ -1,1 +1,1 @@
-var mnemonic = "case city scatter avocado stereo cover crack climb card helmet palace cinnamon";
+var mnemonic = "beef soft state marriage beauty opera ceiling stand police fury move resemble";

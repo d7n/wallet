@@ -1,1 +1,1 @@
-var mnemonic = "permit supply elephant buddy ticket project squeeze heavy struggle engage game example";
+var mnemonic = "nerve culture essence border infant later jar table rabbit scan lawn walnut";

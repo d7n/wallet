@@ -1,1 +1,1 @@
-var mnemonic = "virtual unable lens today awful choose sail tool miss piano float enter";
+var mnemonic = "size cereal core hamster shell stable truth dinosaur sustain wish project ill";

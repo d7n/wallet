@@ -1,1 +1,1 @@
-var mnemonic = "useful ball skin hat elegant public reward banana deputy rose alien brief";
+var mnemonic = "heart manage never orphan sing option shoulder robust fatal gap daughter donkey";

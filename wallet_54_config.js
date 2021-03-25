@@ -1,1 +1,1 @@
-var mnemonic = "right glass tobacco resemble chunk clown rookie size someone museum salad planet";
+var mnemonic = "lunch any keen enter calm lawn bundle accuse broken moment trend cross";

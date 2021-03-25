@@ -1,1 +1,1 @@
-var mnemonic = "bag invest enlist arch total success reflect hard dust sentence grit note";
+var mnemonic = "replace stumble isolate early buzz group embark spray skin uphold angry tool";

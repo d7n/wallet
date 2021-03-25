@@ -1,1 +1,1 @@
-var mnemonic = "panel cargo movie silent piano venue sock dad bottom black chapter dragon";
+var mnemonic = "person mechanic balcony bullet resource series scrap ship prosper letter ten south";

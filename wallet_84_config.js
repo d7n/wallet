@@ -1,1 +1,1 @@
-var mnemonic = "neglect salt benefit escape sight year hospital jaguar icon attract idea beauty";
+var mnemonic = "fragile super year say pony trigger wagon repair beef joy donate web";

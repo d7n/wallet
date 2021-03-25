@@ -1,1 +1,1 @@
-var mnemonic = "reduce narrow stock magic vast puppy solve stadium ship surround aunt hundred";
+var mnemonic = "give scheme card mechanic acoustic time wire plunge main know bronze later";

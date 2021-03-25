@@ -1,1 +1,1 @@
-var mnemonic = "task peace floor object regret cake wet clown alpha mix lava luggage";
+var mnemonic = "shrug claw naive mimic cover punch leg trick squirrel security tray bench";

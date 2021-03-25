@@ -1,1 +1,1 @@
-var mnemonic = "together profit hospital bless doctor mix develop collect foil yard protect distance";
+var mnemonic = "chase betray alcohol bulb cushion topple dynamic cricket focus coral win good";

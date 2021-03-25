@@ -1,1 +1,1 @@
-var mnemonic = "next steak runway soon garbage flee poverty wasp heart leg raccoon measure";
+var mnemonic = "either ginger rain stable soon buddy surface twenty carpet sample tourist spend";

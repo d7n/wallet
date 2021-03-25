@@ -1,1 +1,1 @@
-var mnemonic = "income echo shock faint zebra relief sun hybrid input surprise extra hospital";
+var mnemonic = "reveal fall evolve liar voyage shoe inner deal box hazard risk render";

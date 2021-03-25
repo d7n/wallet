@@ -1,1 +1,1 @@
-var mnemonic = "license speak retire blood holiday boss caught coin fluid drip hurdle heavy";
+var mnemonic = "rely become title ridge enjoy vibrant blame moment extra switch busy enlist";

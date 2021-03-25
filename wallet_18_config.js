@@ -1,1 +1,1 @@
-var mnemonic = "paper mechanic animal ship limit diary tape vague borrow fancy list legal";
+var mnemonic = "fat check dash defense cream economy dune spare occur allow tattoo payment";

@@ -1,1 +1,1 @@
-var mnemonic = "undo pen clay follow mechanic flower bleak angry various control drastic spin";
+var mnemonic = "afraid plastic trophy liberty salt input rose flight copper van dinosaur pudding";

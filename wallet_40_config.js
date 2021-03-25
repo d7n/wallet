@@ -1,1 +1,1 @@
-var mnemonic = "brain stomach clay common guess position slim march dose expect when client";
+var mnemonic = "rhythm pattern initial mistake volume glass useless rabbit romance way become dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "slow season universe dance fruit thrive tissue pair tiger hood goat spice";
+var mnemonic = "fit push once lucky trim pave bind deliver lucky ski logic cotton";

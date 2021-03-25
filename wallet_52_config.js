@@ -1,1 +1,1 @@
-var mnemonic = "test bundle strong dismiss enhance come talent satisfy empty okay solid pelican";
+var mnemonic = "enjoy help dawn various multiply silver base arm rural desk ethics spin";

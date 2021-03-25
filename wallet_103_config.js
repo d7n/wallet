@@ -1,1 +1,1 @@
-var mnemonic = "awake bunker armed grow hub empower slush marriage undo side pretty around";
+var mnemonic = "slab silk okay answer timber allow one hazard finger client iron liar";

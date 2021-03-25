@@ -1,1 +1,1 @@
-var mnemonic = "knife today spread multiply salad bean panic impose box battle guess cupboard";
+var mnemonic = "vanish blame across improve program hurdle express bundle nature virtual rail pretty";

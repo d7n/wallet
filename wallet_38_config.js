@@ -1,1 +1,1 @@
-var mnemonic = "wish siren funny club true apart make fuel setup useful sleep where";
+var mnemonic = "muscle news uncle access borrow short hybrid person pudding basket thank stage";

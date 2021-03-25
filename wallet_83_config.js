@@ -1,1 +1,1 @@
-var mnemonic = "slow series denial book century priority crane trip differ smile emotion health";
+var mnemonic = "bean stool riot outer neutral force rebuild exact nice barrel company course";

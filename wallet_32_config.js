@@ -1,1 +1,1 @@
-var mnemonic = "length exchange tilt limit always modify parent offer spike shrug decide accuse";
+var mnemonic = "flight winner tortoise toilet latin sadness ski acid citizen ozone hard uphold";

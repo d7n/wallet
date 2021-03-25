@@ -1,1 +1,1 @@
-var mnemonic = "spend try tide apology destroy toward journey vacant calm side dwarf naive";
+var mnemonic = "chalk priority small choose scene swallow suffer vault desk faculty sail decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "divert atom fiction announce struggle pistol position orchard know spread mushroom slot";
+var mnemonic = "hover cabbage island across range conduct execute angle patch box derive daughter";

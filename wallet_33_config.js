@@ -1,1 +1,1 @@
-var mnemonic = "chalk lawsuit leisure camera lamp fun reveal sister sudden during property you";
+var mnemonic = "armed novel client hedgehog gold fan reward weird globe clock split regret";

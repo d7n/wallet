@@ -1,1 +1,1 @@
-var mnemonic = "lazy casino stool steel grass same carry badge fresh crush ketchup tuna";
+var mnemonic = "under child express loud album clinic arena comfort skull badge across hamster";

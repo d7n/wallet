@@ -1,1 +1,1 @@
-var mnemonic = "mesh prize flight soccer fox worry error stick perfect town spice record";
+var mnemonic = "tooth attitude noodle bottom now pigeon edge honey radar begin much edge";

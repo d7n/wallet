@@ -1,1 +1,1 @@
-var mnemonic = "asthma morning tourist order steak orient range urge notable hill enable buyer";
+var mnemonic = "unhappy section urban athlete flush essay piece luxury cloud else rival minute";

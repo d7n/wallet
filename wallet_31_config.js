@@ -1,1 +1,1 @@
-var mnemonic = "hello frog betray earth habit world drip spring glad anger midnight deliver";
+var mnemonic = "brisk thunder box strike extend eager sustain blush mind trumpet rate essay";

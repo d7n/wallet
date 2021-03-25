@@ -1,1 +1,1 @@
-var mnemonic = "apart cycle toe cross grab slight jar modify praise thank purity dial";
+var mnemonic = "review victory team title rent tank marine awful deposit scissors muffin gas";

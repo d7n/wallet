@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow ancient snake crisp kingdom kitchen camera hobby penalty acid bracket since";
+var mnemonic = "glory essence praise number grace love album leisure silly scare flight bunker";

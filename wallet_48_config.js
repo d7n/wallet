@@ -1,1 +1,1 @@
-var mnemonic = "tell unknown pull play secret result kit fetch bind entire slot young";
+var mnemonic = "title pottery crush vendor already era smart anger shoot asset example enjoy";

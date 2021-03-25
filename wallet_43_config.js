@@ -1,1 +1,1 @@
-var mnemonic = "witness proof man more chimney effort today problem pencil say twist motion";
+var mnemonic = "prison innocent melt either ripple caution utility spider bring clarify ladder zebra";

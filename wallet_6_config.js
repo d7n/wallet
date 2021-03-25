@@ -1,1 +1,1 @@
-var mnemonic = "genius crop tiny brief shadow eye soda awful soon toilet breeze length";
+var mnemonic = "whale piano whale satoshi banana surround combine project focus moral frog apple";

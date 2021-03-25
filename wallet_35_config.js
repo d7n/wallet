@@ -1,1 +1,1 @@
-var mnemonic = "beauty save quit senior oak rice broom fee shoot taxi debris increase";
+var mnemonic = "robust crater have language donkey high shy glance ready all coil mention";

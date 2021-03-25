@@ -1,1 +1,1 @@
-var mnemonic = "junk plug chest define benefit host soda rack miracle stable prison empower";
+var mnemonic = "vast clip cargo clerk consider best prize style antenna pledge panic phrase";

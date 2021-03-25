@@ -1,1 +1,1 @@
-var mnemonic = "parent bar spatial better focus radar tank fringe midnight food click start";
+var mnemonic = "churn puppy never rebuild pluck silk clown tonight lesson expect brass shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "enough provide zoo expire verify ethics desert tide distance any input certain";
+var mnemonic = "there eye slab antenna cloth mutual crunch monster frozen envelope syrup catalog";

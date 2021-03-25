@@ -1,1 +1,1 @@
-var mnemonic = "upset absurd tiger pet enact brain dial trouble captain middle outside siege";
+var mnemonic = "nuclear violin close climb ocean ice hub hard modify burst pass gorilla";

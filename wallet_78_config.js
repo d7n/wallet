@@ -1,1 +1,1 @@
-var mnemonic = "license category decrease duty inmate humble snack field talk agree flash olympic";
+var mnemonic = "car myself frozen gown visa deposit october slender noble prison chronic grow";

@@ -1,1 +1,1 @@
-var mnemonic = "inner mushroom hurry apart balcony urge once reason unique forget engine stumble";
+var mnemonic = "swing damp prosper immense fun month tower someone canoe worry index crane";

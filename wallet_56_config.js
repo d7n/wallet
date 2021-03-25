@@ -1,1 +1,1 @@
-var mnemonic = "early life palace repair giant pudding egg solar need later usual fame";
+var mnemonic = "brick prosper rural height scout foot inside artist range enable horn spy";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate left mountain motor sugar ritual sound tackle false video puppy turtle";
+var mnemonic = "truth taste expire cereal hire photo govern tail outside mountain abuse stove";

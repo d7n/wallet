@@ -1,1 +1,1 @@
-var mnemonic = "mosquito miss typical group target ship panic good home bounce under gadget";
+var mnemonic = "certain attract funny sugar coach shell tomorrow leaf address fabric satisfy october";

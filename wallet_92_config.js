@@ -1,1 +1,1 @@
-var mnemonic = "solve fence enroll flock cinnamon december proof novel random tape insane rapid";
+var mnemonic = "build flee drift beach hint company define become carbon reopen dust damp";

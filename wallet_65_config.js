@@ -1,1 +1,1 @@
-var mnemonic = "festival deputy floor garbage flip protect ahead dragon version spider awake laptop";
+var mnemonic = "absurd annual find beach ignore later cattle fury expire spare appear glide";

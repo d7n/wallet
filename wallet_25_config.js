@@ -1,1 +1,1 @@
-var mnemonic = "pulse teach meadow exotic clay staff pass spell follow cactus bubble chair";
+var mnemonic = "alcohol delay minimum team assist before unable other rich bachelor pave actor";

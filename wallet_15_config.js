@@ -1,1 +1,1 @@
-var mnemonic = "elder tornado diamond fit turkey daring prize shift dance bind produce milk";
+var mnemonic = "apology supreme brave sunny brain ill pattern bleak dry explain vote spy";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor ride coast dizzy wine digital display you royal vote fault basket";
+var mnemonic = "review cupboard depend electric comic fault eyebrow need cannon spring castle cactus";

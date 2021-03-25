@@ -1,1 +1,1 @@
-var mnemonic = "clip vintage combine banana over dirt shuffle defense world try twist skin";
+var mnemonic = "cabin ramp opera margin bridge path august veteran pause patient gossip immense";

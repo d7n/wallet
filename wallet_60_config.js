@@ -1,1 +1,1 @@
-var mnemonic = "rival melt bulk visit enjoy opera muscle flame noble sense sign index";
+var mnemonic = "shoulder analyst dove mask suffer roof own income cherry vast mercy antenna";

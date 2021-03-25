@@ -1,1 +1,1 @@
-var mnemonic = "blush grow spider winner parrot cost final asset miss opinion credit gossip";
+var mnemonic = "bind ski unit museum arrive chimney camp yellow organ remember harbor menu";

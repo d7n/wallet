@@ -1,1 +1,1 @@
-var mnemonic = "bread end stool voyage awful permit woman town miracle wedding ensure fiction";
+var mnemonic = "stairs seed slight attack hen person tunnel obscure leaf dwarf bind kit";

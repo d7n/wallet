@@ -1,1 +1,1 @@
-var mnemonic = "fresh case sorry depth identify ride arena custom submit join one brick";
+var mnemonic = "material write echo thrive hospital visual funny museum electric gym resource trash";

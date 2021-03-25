@@ -1,1 +1,1 @@
-var mnemonic = "goat oil assault donor flame pair need staff soul police force furnace";
+var mnemonic = "iron wreck mind exercise ecology dose insane flash mix hire lounge inherit";

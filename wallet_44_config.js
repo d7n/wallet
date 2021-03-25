@@ -1,1 +1,1 @@
-var mnemonic = "seminar brand turkey shove coyote found off come blanket hello model rule";
+var mnemonic = "rib scale lumber must trend found someone antique indoor ghost prepare tray";

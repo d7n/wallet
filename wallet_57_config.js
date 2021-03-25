@@ -1,1 +1,1 @@
-var mnemonic = "abandon faith erase profit raw festival chef resource unable average raw clip";
+var mnemonic = "tool ripple abuse actual ignore speed initial weird dinosaur purse shed roof";

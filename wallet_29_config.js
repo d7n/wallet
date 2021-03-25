@@ -1,1 +1,1 @@
-var mnemonic = "dash fiscal airport fortune sustain scatter south fire clump chase danger scatter";
+var mnemonic = "attend window convince wonder antenna shove skate code palm crowd chalk gospel";

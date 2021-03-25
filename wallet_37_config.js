@@ -1,1 +1,1 @@
-var mnemonic = "fringe enjoy romance lizard public long galaxy inside pulse squirrel include project";
+var mnemonic = "aspect couple alone pistol stumble name success panther advice accuse blood style";

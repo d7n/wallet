@@ -1,1 +1,1 @@
-var mnemonic = "design fame swamp token advance team bronze slab melody nest unhappy only";
+var mnemonic = "crowd odor impulse outside height moon hurdle neutral govern clutch achieve student";

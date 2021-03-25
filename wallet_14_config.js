@@ -1,1 +1,1 @@
-var mnemonic = "polar apple menu find giant ancient key sheriff prize affair heavy dwarf";
+var mnemonic = "borrow token clarify detect impose seat sing auction business mammal pond radio";

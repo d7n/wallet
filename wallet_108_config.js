@@ -1,1 +1,1 @@
-var mnemonic = "typical double inform hip zone lucky sheriff gap mandate floor toss conduct";
+var mnemonic = "age bounce either exhaust flock eagle pear fashion slogan unveil riot question";

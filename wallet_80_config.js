@@ -1,1 +1,1 @@
-var mnemonic = "error walnut you vast problem garment ordinary hat legal dentist arrest buzz";
+var mnemonic = "adult genuine shuffle jaguar rack mean cactus deputy diagram wash oak arm";

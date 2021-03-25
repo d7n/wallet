@@ -1,1 +1,1 @@
-var mnemonic = "about response glad act start elephant crumble inner execute toward gain immune";
+var mnemonic = "owner lock program cross tooth metal sweet exchange tide wait ensure afraid";

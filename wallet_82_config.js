@@ -1,1 +1,1 @@
-var mnemonic = "acid fork payment measure trouble wash course eternal vibrant funny pact crisp";
+var mnemonic = "chase swamp turtle maid frame high bunker acoustic share gossip unveil start";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion rebel keen hungry frown intact hawk venue quantum symptom mean receive";
+var mnemonic = "bridge actor start essay stool swim gaze say first finish rate voice";

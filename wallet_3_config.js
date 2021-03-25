@@ -1,1 +1,1 @@
-var mnemonic = "twist bounce industry edge police assist lion wire ethics sweet usual you";
+var mnemonic = "cave fever liberty alter coast lunar song dose traffic gadget purity impose";

@@ -1,1 +1,1 @@
-var mnemonic = "predict toy curious wealth lunar work fault cash will sea ship daughter";
+var mnemonic = "opinion act movie defense ozone glass auction blouse camp all romance gravity";

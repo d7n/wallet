@@ -1,1 +1,1 @@
-var mnemonic = "thumb maple peanut dismiss perfect shop chuckle odor you provide enact robust";
+var mnemonic = "insect series lift rack cake rice fitness safe year rotate write hundred";

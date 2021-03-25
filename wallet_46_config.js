@@ -1,1 +1,1 @@
-var mnemonic = "swarm walk below ritual material muscle furnace endless lion favorite art finger";
+var mnemonic = "holiday axis inflict term chair merit organ ivory regret open faculty wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "soup mandate concert estate obscure bid repeat horse attitude run gain matter";
+var mnemonic = "sail ticket angle nation virtual snake prevent old amount maid garbage easy";

@@ -1,1 +1,1 @@
-var mnemonic = "notice very myself happy hidden glimpse swim dress vacuum ranch giraffe swap";
+var mnemonic = "parade tornado mule boy fame desert barrel mixed pill electric winner festival";

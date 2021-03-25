@@ -1,1 +1,1 @@
-var mnemonic = "double shadow cricket divert joy eternal when stairs bargain feel throw assault";
+var mnemonic = "motor card method atom beauty wish describe victory control oppose hamster seminar";

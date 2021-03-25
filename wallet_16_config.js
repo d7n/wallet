@@ -1,1 +1,1 @@
-var mnemonic = "flame six margin athlete clip obscure dust cotton winner distance right hazard";
+var mnemonic = "father merit media manage find pen giant winter rookie repeat surprise faculty";

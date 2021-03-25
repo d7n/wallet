@@ -1,1 +1,1 @@
-var mnemonic = "property sense wish drill hedgehog cargo scrap modify true tuna payment pet";
+var mnemonic = "hand profit fatigue ridge bulb saddle paper never stairs depth slot image";

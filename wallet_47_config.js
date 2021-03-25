@@ -1,1 +1,1 @@
-var mnemonic = "talk divorce army illness kit cupboard world key alley crew option elegant";
+var mnemonic = "fault winter stool tuition school defy sentence tray noise industry hat toddler";

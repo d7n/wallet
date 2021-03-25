@@ -1,1 +1,1 @@
-var mnemonic = "mercy family useless cushion swap gift ride guess ride walk raise suit";
+var mnemonic = "tumble movie now alpha find cool journey neck thunder grit museum grain";

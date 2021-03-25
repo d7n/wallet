@@ -1,1 +1,1 @@
-var mnemonic = "before toe prepare section menu hill zero mutual animal good diet slot";
+var mnemonic = "rebuild range opera bar mosquito immune maid acquire private thrive negative deputy";

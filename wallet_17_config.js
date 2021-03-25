@@ -1,1 +1,1 @@
-var mnemonic = "idle gain absorb comfort wage win nurse desk engine you cave cat";
+var mnemonic = "very venue confirm man exit turkey shoulder winter coral behave employ soap";

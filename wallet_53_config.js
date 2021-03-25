@@ -1,1 +1,1 @@
-var mnemonic = "cotton another small magnet when auto dynamic truth club version bench resource";
+var mnemonic = "close scrub gossip century saddle observe rare put flavor shrug ozone thank";

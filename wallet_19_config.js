@@ -1,1 +1,1 @@
-var mnemonic = "display axis cluster attend shock hundred runway crouch plastic have strike section";
+var mnemonic = "drama tool flower wash dutch resist climb tribe total kid first whip";

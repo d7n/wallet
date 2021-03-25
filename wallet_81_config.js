@@ -1,1 +1,1 @@
-var mnemonic = "permit cheap agree kidney ghost cliff hobby cash normal sentence boil move";
+var mnemonic = "today marine around grief chef small runway lunch scrap ginger evoke sausage";

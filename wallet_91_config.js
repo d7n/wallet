@@ -1,1 +1,1 @@
-var mnemonic = "solution joy milk loud exist square gadget flight priority attitude frog history";
+var mnemonic = "gun vendor skull team image choose firm humor taste update vocal visit";
