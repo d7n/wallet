@@ -1,1 +1,1 @@
-var mnemonic = "brass exclude cash common expand find food silent empty hen flame sweet";
+var mnemonic = "away mistake demand surface cupboard follow high success swing father notable lion";

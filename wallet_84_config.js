@@ -1,1 +1,1 @@
-var mnemonic = "modify girl worry inflict hint odor increase math iron dawn bridge bullet";
+var mnemonic = "fiscal liar affair error asset solid luggage flight parrot stick abstract upset";

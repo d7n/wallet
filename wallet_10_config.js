@@ -1,1 +1,1 @@
-var mnemonic = "valid celery gospel violin network human drama monster over oppose absurd upper";
+var mnemonic = "effort average flock almost suspect acquire sell advice ramp dial often hill";

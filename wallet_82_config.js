@@ -1,1 +1,1 @@
-var mnemonic = "rule awful riot immune frequent coach gossip valid release tennis picnic bridge";
+var mnemonic = "fancy fix pupil cheap wedding receive cruise village test filter ice cash";

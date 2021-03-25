@@ -1,1 +1,1 @@
-var mnemonic = "talk soda weapon search distance laugh inject analyst tired dumb harvest seek";
+var mnemonic = "obscure vessel other grant ball friend saddle armed text candy heart barrel";

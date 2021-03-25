@@ -1,1 +1,1 @@
-var mnemonic = "cake donkey coconut turkey present moon try skate limit you soccer bomb";
+var mnemonic = "frog royal off sound orient avocado mango payment situate they cancel photo";

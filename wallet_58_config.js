@@ -1,1 +1,1 @@
-var mnemonic = "crucial pull book already science exercise decline divorce palm crystal citizen eternal";
+var mnemonic = "wave afford divorce nose place rough fat mom remember orchard way soon";

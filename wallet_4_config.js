@@ -1,1 +1,1 @@
-var mnemonic = "asset damage soon mixed suit drastic license scorpion arrange release peasant attend";
+var mnemonic = "gym debate theme marble blush image rookie peace shine teach eagle century";

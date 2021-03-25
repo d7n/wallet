@@ -1,1 +1,1 @@
-var mnemonic = "pudding habit cancel inherit keen ginger palace broom eight brain know novel";
+var mnemonic = "bean fluid butter extend almost artwork swap ritual quit main rough shuffle";

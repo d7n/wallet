@@ -1,1 +1,1 @@
-var mnemonic = "gallery monitor dad artwork pistol honey alarm shy wedding crisp repair ethics";
+var mnemonic = "pet brisk pupil manage eager loyal mix dinosaur comfort salute pool liquid";

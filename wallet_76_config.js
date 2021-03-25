@@ -1,1 +1,1 @@
-var mnemonic = "hotel canyon forest story hungry fatigue width century chef airport animal series";
+var mnemonic = "play offer situate next wrestle melt humble tongue pioneer prefer inject forget";

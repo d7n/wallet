@@ -1,1 +1,1 @@
-var mnemonic = "real metal sure kiwi return dolphin bundle tourist lunch swamp stool laptop";
+var mnemonic = "holiday peace lemon story soldier whisper liquid plug feed demise conduct follow";

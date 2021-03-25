@@ -1,1 +1,1 @@
-var mnemonic = "viable found main entry flat minimum drill clap tomato joke accuse ankle";
+var mnemonic = "ahead brave kingdom void talk similar equal surface average unable tomato air";

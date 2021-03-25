@@ -1,1 +1,1 @@
-var mnemonic = "visa fan buyer gossip arch shrimp dizzy when another wine nut volcano";
+var mnemonic = "extra scare parrot undo story tumble regret arrive give barely comfort slogan";

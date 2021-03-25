@@ -1,1 +1,1 @@
-var mnemonic = "club plate shift hold sea above system affair sphere history oval hunt";
+var mnemonic = "innocent lottery winner daring witness carry chalk oil grow illegal fatal excess";

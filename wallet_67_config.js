@@ -1,1 +1,1 @@
-var mnemonic = "verify weird heavy fantasy strategy empower today wood army surface hover south";
+var mnemonic = "mouse spy food frame cycle void decorate cherry height donate similar alpha";

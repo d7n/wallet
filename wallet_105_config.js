@@ -1,1 +1,1 @@
-var mnemonic = "devote awesome inject notable coral such riot sport barrel abuse federal inherit";
+var mnemonic = "heart carbon grief kiwi sweet crowd hat drop hybrid elegant scheme meat";

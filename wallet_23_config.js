@@ -1,1 +1,1 @@
-var mnemonic = "print street anxiety soul mango kid drama chaos rug magnet robust order";
+var mnemonic = "rhythm message author gym monkey risk rug scrap rib crouch coil proof";

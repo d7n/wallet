@@ -1,1 +1,1 @@
-var mnemonic = "cheap enter solar feed vapor nut use salt another speak tiger decade";
+var mnemonic = "sadness balcony cool talk material diet swift cycle recipe good blanket breeze";

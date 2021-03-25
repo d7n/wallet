@@ -1,1 +1,1 @@
-var mnemonic = "yellow rail jewel kid answer green half south idea circle buzz capable";
+var mnemonic = "play city any install quote fuel hammer armor pencil prevent certain rail";

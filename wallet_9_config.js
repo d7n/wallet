@@ -1,1 +1,1 @@
-var mnemonic = "cigar veteran reason job someone frozen enter simple expose blouse century box";
+var mnemonic = "palace absurd extra retreat donor fog tell innocent eagle clerk sell say";

@@ -1,1 +1,1 @@
-var mnemonic = "chunk lesson valid nose camp venue latin auto vote sense capable prepare";
+var mnemonic = "symbol fluid nation flavor galaxy labor turkey brisk surprise mimic hill record";

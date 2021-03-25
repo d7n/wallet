@@ -1,1 +1,1 @@
-var mnemonic = "buffalo ugly antique perfect edge cinnamon close enter dose sauce print fever";
+var mnemonic = "dignity ahead ramp carry unit legal tuna street spider lyrics day clean";

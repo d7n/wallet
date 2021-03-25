@@ -1,1 +1,1 @@
-var mnemonic = "electric social dragon give stomach attitude control dial leisure want ranch salute";
+var mnemonic = "pattern offer wage double dragon assume fine then sugar crane neglect foster";

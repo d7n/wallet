@@ -1,1 +1,1 @@
-var mnemonic = "coconut morning slam beef success fault moon gas olympic purchase detail awkward";
+var mnemonic = "ancient honey long window member brick spread home scare onion quality leader";

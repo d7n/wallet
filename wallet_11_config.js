@@ -1,1 +1,1 @@
-var mnemonic = "village seek together course when make equal grace senior eagle save hip";
+var mnemonic = "oil audit empower basket soap glance certain today weekend young dice cattle";

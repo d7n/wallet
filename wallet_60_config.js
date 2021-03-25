@@ -1,1 +1,1 @@
-var mnemonic = "coast travel half myself pulse local either bread reduce journey heart end";
+var mnemonic = "arena exit solar minute box divide crouch wife visit poverty where web";

@@ -1,1 +1,1 @@
-var mnemonic = "domain behind exhaust shiver divert tortoise salad earn couch welcome marriage parent";
+var mnemonic = "camera balance forest tornado nothing market deposit desk forum diary rifle liar";

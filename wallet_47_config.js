@@ -1,1 +1,1 @@
-var mnemonic = "matrix night speed render angle depend stereo damage ahead glide honey detect";
+var mnemonic = "note surface concert nature expire oak night ceiling panther vacant fit wing";

@@ -1,1 +1,1 @@
-var mnemonic = "robot repair yard wood afraid endorse gold ice skate visual odor expand";
+var mnemonic = "pole crouch spoil galaxy artwork cricket camp lecture later push hat problem";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve uphold section pear year split base green estate year doctor fault";
+var mnemonic = "render chuckle taxi twelve enemy citizen accident globe hover seed hungry heavy";

@@ -1,1 +1,1 @@
-var mnemonic = "brave game core abandon chef session monitor wheat usual defense light sign";
+var mnemonic = "frown spike shrug way monkey glare text syrup nice labor first renew";

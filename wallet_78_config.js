@@ -1,1 +1,1 @@
-var mnemonic = "mother early rain bunker naive nasty raven between mix spin draft burden";
+var mnemonic = "flock tone episode ten double guide eyebrow bonus giant genre front pyramid";

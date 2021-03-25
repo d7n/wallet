@@ -1,1 +1,1 @@
-var mnemonic = "alone theme winter today february february group business clarify train flower math";
+var mnemonic = "green seven master glimpse pole goat humor crime furnace science aerobic winner";

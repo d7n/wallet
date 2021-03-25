@@ -1,1 +1,1 @@
-var mnemonic = "van three genuine south reject river gospel humor loyal depend between aspect";
+var mnemonic = "wing post hour tattoo security fork business gap abandon bracket oven fence";

@@ -1,1 +1,1 @@
-var mnemonic = "false phone wage until piano glass unfold energy fuel border mirror force";
+var mnemonic = "lend exact aware subject bind drop wolf harvest stay oven clap wing";

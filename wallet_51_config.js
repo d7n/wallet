@@ -1,1 +1,1 @@
-var mnemonic = "person shallow crisp link turtle monkey scorpion sock about grit lesson whisper";
+var mnemonic = "valve quality grief rhythm resemble special route myself budget record bargain hazard";

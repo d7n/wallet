@@ -1,1 +1,1 @@
-var mnemonic = "view coffee treat ripple family advice depart use like siege sunset settle";
+var mnemonic = "street clump super update hockey outer chronic daughter plug vault choice since";

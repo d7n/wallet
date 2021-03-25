@@ -1,1 +1,1 @@
-var mnemonic = "burger voice rescue gorilla major future cram cousin clarify fragile leaf tent";
+var mnemonic = "beyond food mutual swift punch gravity claw grit picture lucky must eye";

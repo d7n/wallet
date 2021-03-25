@@ -1,1 +1,1 @@
-var mnemonic = "gate dwarf fever combine artefact motion differ peace type text chef banner";
+var mnemonic = "narrow permit success polar loop bonus opinion romance drum now salmon all";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh coyote flag guide slight mouse faint steel negative delay narrow iron";
+var mnemonic = "glory female exhaust umbrella wrong library erosion cream mixture survey pave neutral";

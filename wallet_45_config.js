@@ -1,1 +1,1 @@
-var mnemonic = "fatal height bachelor add view foot attitude panther slide solid firm busy";
+var mnemonic = "large service treat side eyebrow execute sight train spoil urban swap key";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch submit dash machine hungry ancient mass ranch route bring month village";
+var mnemonic = "then peasant dignity salt main myself green enjoy lucky make poverty perfect";

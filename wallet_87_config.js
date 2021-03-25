@@ -1,1 +1,1 @@
-var mnemonic = "stool also speak stay thunder push surprise paper desert tool aisle dance";
+var mnemonic = "foster awkward cause insane lunar disease august vacant target angry arch sphere";

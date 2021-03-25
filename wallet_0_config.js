@@ -1,1 +1,1 @@
-var mnemonic = "mention series laugh matter oyster puppy trend sand view citizen cactus book";
+var mnemonic = "today base universe control road job evidence impose relax economy bamboo uphold";

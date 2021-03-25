@@ -1,1 +1,1 @@
-var mnemonic = "senior gauge melody castle essay swim butter kid sock coast need minimum";
+var mnemonic = "feature all sleep engine fabric narrow machine reject market soap mirror busy";

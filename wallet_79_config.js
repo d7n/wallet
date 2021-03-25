@@ -1,1 +1,1 @@
-var mnemonic = "taxi above rent produce tag wide crisp pumpkin auto evidence rescue decide";
+var mnemonic = "slogan ethics shoot method course amazing sample plastic combine piece term morning";

@@ -1,1 +1,1 @@
-var mnemonic = "million supreme poem clean nasty steel scrap valley slim stem laptop deer";
+var mnemonic = "life genuine island ice ability orange resource there expect oval swear panda";

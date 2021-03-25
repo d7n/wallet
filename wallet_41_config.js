@@ -1,1 +1,1 @@
-var mnemonic = "cactus gate genre episode exercise thank violin kiss kite black orphan anchor";
+var mnemonic = "cage confirm hub palm shy run pyramid pave topple smile sausage load";

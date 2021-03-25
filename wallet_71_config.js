@@ -1,1 +1,1 @@
-var mnemonic = "square kiss soccer pumpkin second coin age year hub wise erode client";
+var mnemonic = "dove dumb dune fine surprise fun custom right banana happy change hidden";

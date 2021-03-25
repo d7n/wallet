@@ -1,1 +1,1 @@
-var mnemonic = "logic tool grow timber trouble guess virtual junior season winner motor city";
+var mnemonic = "all access vicious return dry dinner twist praise piece effort once pony";

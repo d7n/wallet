@@ -1,1 +1,1 @@
-var mnemonic = "child hope horror insect dumb total type violin lizard skate disease host";
+var mnemonic = "hawk steel height inside lunch scatter wool battle biology lamp grab loyal";

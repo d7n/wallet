@@ -1,1 +1,1 @@
-var mnemonic = "maid divorce double become cost syrup embrace bitter praise prevent grab express";
+var mnemonic = "odor goddess attitude tube try sting wish figure duck siren high erode";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe mixture turkey donate royal follow card grit inmate clock juice sausage";
+var mnemonic = "acid fiscal dry blossom busy theme diet all banana lunar mobile excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "rich program auction outside kid employ chuckle trouble measure pulse blind short";
+var mnemonic = "cargo sponsor carpet vapor clap argue put arch clutch treat floor tuna";

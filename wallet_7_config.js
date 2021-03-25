@@ -1,1 +1,1 @@
-var mnemonic = "result obvious hockey hospital lake grass never day ordinary gather black squirrel";
+var mnemonic = "mesh wall sort roast rent town hat west repeat man half sea";

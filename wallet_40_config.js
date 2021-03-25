@@ -1,1 +1,1 @@
-var mnemonic = "brother ordinary twist canvas actress jar item rocket alley violin dawn crouch";
+var mnemonic = "problem hawk repair youth surprise comic slender mule sweet badge fantasy hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium device december fatal half maid obey art guard lock ticket person";
+var mnemonic = "notice lunar travel online order eye fog crucial month upper deposit mandate";

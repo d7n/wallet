@@ -1,1 +1,1 @@
-var mnemonic = "garment movie gravity orange ridge since pig visit worth hurry ecology peanut";
+var mnemonic = "fabric patient ill rely crack market skirt toss miss chaos purity hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel armor spatial lemon select jelly drama strike soft ensure pink pepper";
+var mnemonic = "morning avocado fresh funny truly eager veteran knife noise parade viable fetch";

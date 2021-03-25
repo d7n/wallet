@@ -1,1 +1,1 @@
-var mnemonic = "question ability bicycle exhaust private hard banner level sentence slim lunch stairs";
+var mnemonic = "season spider muscle deposit guess goose flame educate donor defense infant cliff";

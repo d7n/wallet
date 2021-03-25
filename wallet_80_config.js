@@ -1,1 +1,1 @@
-var mnemonic = "feature execute razor umbrella exit wrap device priority length please spot misery";
+var mnemonic = "step skate clean menu belt differ update few attitude title unfair clay";

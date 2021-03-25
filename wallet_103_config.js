@@ -1,1 +1,1 @@
-var mnemonic = "glance crunch happy alley nice lottery parent display large wild square trophy";
+var mnemonic = "confirm knee promote margin apology isolate core school endless travel energy giggle";

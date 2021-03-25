@@ -1,1 +1,1 @@
-var mnemonic = "useless cable creek venue deer humor mean slow guilt large goddess buzz";
+var mnemonic = "smooth above agent unknown acid neglect sauce unfold lunar sniff version gallery";

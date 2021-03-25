@@ -1,1 +1,1 @@
-var mnemonic = "panel sample always credit already glory clarify chat love flash engine define";
+var mnemonic = "fatigue safe tortoise else conduct then afraid buzz awkward agree rigid brave";

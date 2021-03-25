@@ -1,1 +1,1 @@
-var mnemonic = "world figure review fatigue toddler lesson monster one delay plate muffin another";
+var mnemonic = "steak near cargo reveal guard broken visit surge era famous antenna visa";

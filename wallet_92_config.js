@@ -1,1 +1,1 @@
-var mnemonic = "basic jealous come palace news just put exit riot limit zero under";
+var mnemonic = "miss jewel kangaroo legal enrich moon chuckle fiction life comfort laundry purse";

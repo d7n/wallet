@@ -1,1 +1,1 @@
-var mnemonic = "harsh solution diet taste pottery volume swarm confirm ring cook weasel enter";
+var mnemonic = "urge glide slender era keen upset valley treat timber page cage mushroom";

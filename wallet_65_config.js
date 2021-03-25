@@ -1,1 +1,1 @@
-var mnemonic = "choice genre pupil hollow shy ten lens city crime wing owner satisfy";
+var mnemonic = "ranch nest release style october cable element action lemon attitude reflect wear";

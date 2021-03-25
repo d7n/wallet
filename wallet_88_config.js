@@ -1,1 +1,1 @@
-var mnemonic = "exotic exotic surface weather slender brief apology phrase avoid panda height base";
+var mnemonic = "cable aerobic marriage dad upon clown canal believe abandon section property west";

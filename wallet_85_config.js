@@ -1,1 +1,1 @@
-var mnemonic = "away breeze accuse alley ice shallow behave field advance service panda glare";
+var mnemonic = "session unfair journey tape jeans vehicle much fiscal census stove this sad";

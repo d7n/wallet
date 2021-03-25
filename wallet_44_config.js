@@ -1,1 +1,1 @@
-var mnemonic = "butter outdoor orchard indoor chair clever resource device volume turkey audit illegal";
+var mnemonic = "away cram sleep ride measure flip waste exact catalog various talent arrest";

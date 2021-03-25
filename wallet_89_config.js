@@ -1,1 +1,1 @@
-var mnemonic = "thought chat speak ill swear marine correct convince sudden reduce catalog hint";
+var mnemonic = "spoon tragic employ unusual material olympic purpose math holiday appear butter admit";

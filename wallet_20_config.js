@@ -1,1 +1,1 @@
-var mnemonic = "fantasy cloth slot pig evil goat magic one bless science across olympic";
+var mnemonic = "quit flush tower swift feature defy card ride civil topic defy trash";

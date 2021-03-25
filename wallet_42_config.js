@@ -1,1 +1,1 @@
-var mnemonic = "else tomato tackle help below system fire manual few usage spoil elite";
+var mnemonic = "april onion puzzle next wash seven final loud crater mouse asthma pluck";

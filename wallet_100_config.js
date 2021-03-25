@@ -1,1 +1,1 @@
-var mnemonic = "material cigar siege now duty saddle code oppose simple cage symptom fortune";
+var mnemonic = "mosquito typical vapor pledge common auction recall until legal able top keep";

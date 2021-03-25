@@ -1,1 +1,1 @@
-var mnemonic = "shiver choose victory hope enact test pear borrow illegal ring vibrant alien";
+var mnemonic = "faith dizzy sign harvest trap shift helmet during apart slot sniff label";

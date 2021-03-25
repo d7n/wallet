@@ -1,1 +1,1 @@
-var mnemonic = "photo wear tunnel chronic giggle spike play fish plug clay series north";
+var mnemonic = "neither betray sorry grid switch object near icon often urge autumn unlock";

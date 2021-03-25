@@ -1,1 +1,1 @@
-var mnemonic = "come gravity blur village million news comfort luxury suffer unique fun message";
+var mnemonic = "heart infant pattern claim muscle ugly citizen common nature family unknown gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "moral example can desk void rapid process limit gospel gift group noodle";
+var mnemonic = "cover give globe velvet injury verify saddle win want grape squeeze gentle";

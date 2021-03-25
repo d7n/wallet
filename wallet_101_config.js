@@ -1,1 +1,1 @@
-var mnemonic = "absurd west almost slice beef option welcome wear glad wink hint series";
+var mnemonic = "script music dance sustain blue tilt wood sibling sound immune aisle shrimp";

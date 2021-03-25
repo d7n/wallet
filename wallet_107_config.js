@@ -1,1 +1,1 @@
-var mnemonic = "solve unit enjoy smoke whisper say forum essence dad argue congress rotate";
+var mnemonic = "noble spoon deposit bean sick globe extra fold render text umbrella expire";

@@ -1,1 +1,1 @@
-var mnemonic = "estate auto globe cute autumn uniform tragic ghost lazy spawn rent arch";
+var mnemonic = "tomato unveil dial arrest outer payment order cheap pupil accident crawl melt";

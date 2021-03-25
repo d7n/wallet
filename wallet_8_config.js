@@ -1,1 +1,1 @@
-var mnemonic = "fire primary walk kiwi hundred scene castle boring salmon planet surround office";
+var mnemonic = "fuel liberty depth emotion document ethics benefit chalk parent beyond fence buffalo";

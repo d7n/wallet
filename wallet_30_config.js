@@ -1,1 +1,1 @@
-var mnemonic = "kite eyebrow horse fetch ball horse carpet state acoustic filter claim brand";
+var mnemonic = "monster caught amount fetch thumb add nest weather valve custom security monster";

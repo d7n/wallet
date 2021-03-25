@@ -1,1 +1,1 @@
-var mnemonic = "bracket coconut alter work wild cotton item spend month kidney mix trumpet";
+var mnemonic = "follow vendor grain breeze connect marble draft truck ahead room major family";

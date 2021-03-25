@@ -1,1 +1,1 @@
-var mnemonic = "donate timber lake search inmate sauce junior ocean moral retreat pumpkin spoil";
+var mnemonic = "nice casino economy chimney talent potato glove six silly flip tip random";

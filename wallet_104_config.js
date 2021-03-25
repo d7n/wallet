@@ -1,1 +1,1 @@
-var mnemonic = "tape oppose enroll catalog moon feel merge start tide master alpha spider";
+var mnemonic = "axis library anxiety federal electric heavy young inform hole mom other modify";

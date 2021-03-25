@@ -1,1 +1,1 @@
-var mnemonic = "thought beach cherry erosion coast license hurt ritual quiz bracket drastic cluster";
+var mnemonic = "barrel time leave know dune chunk biology frame result eyebrow mesh subway";

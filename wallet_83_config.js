@@ -1,1 +1,1 @@
-var mnemonic = "solution trial bundle divide athlete treat turtle priority silly twenty vehicle alley";
+var mnemonic = "tobacco infant lift spread machine oil extend shine surround disagree leg uphold";

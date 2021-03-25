@@ -1,1 +1,1 @@
-var mnemonic = "cluster cargo retreat eagle adapt smile soup dial vocal ancient alpha pudding";
+var mnemonic = "cram inquiry clog action okay scene siege chronic coral museum post view";

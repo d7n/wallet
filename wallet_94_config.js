@@ -1,1 +1,1 @@
-var mnemonic = "broccoli wash virus misery such cousin fault liberty pigeon blood budget fortune";
+var mnemonic = "solution hole salt make gorilla mom mixed ribbon man fabric jewel danger";

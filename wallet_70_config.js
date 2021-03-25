@@ -1,1 +1,1 @@
-var mnemonic = "horse future powder express smile learn boring property risk neck neither diary";
+var mnemonic = "mirror display index base random response candy egg key whisper pizza beef";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck fitness penalty suit abuse section patient pumpkin pig bus burst cat";
+var mnemonic = "fiction ladder govern maid edge dynamic muscle unusual truth stock fence smoke";

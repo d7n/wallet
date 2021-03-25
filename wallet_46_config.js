@@ -1,1 +1,1 @@
-var mnemonic = "donor sadness fence evoke post history deny topic sting letter two insect";
+var mnemonic = "sad resource trouble fun page call chalk alley fatigue piano stock cousin";

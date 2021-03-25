@@ -1,1 +1,1 @@
-var mnemonic = "release tribe health arch amount oil seat october donate awful lumber raven";
+var mnemonic = "gentle puzzle mass radio merry choice text oppose genre visit effort text";
