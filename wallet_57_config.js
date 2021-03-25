@@ -1,1 +1,1 @@
-var mnemonic = "gym deal defense resource crisp twin ostrich settle toilet dragon ignore half";
+var mnemonic = "bottom salute trust cover praise borrow add dolphin tail fever leader embrace";

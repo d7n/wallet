@@ -1,1 +1,1 @@
-var mnemonic = "black weird acquire gorilla secret chapter devote ski scene forum ginger clever";
+var mnemonic = "gaze filter rice reject solve approve jeans swallow firm vintage saddle veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "scan frozen secret have hurt repeat wear horse cry skin still find";
+var mnemonic = "almost tank vote all essay emerge mask gas guide maximum belt alpha";

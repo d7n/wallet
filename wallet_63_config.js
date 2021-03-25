@@ -1,1 +1,1 @@
-var mnemonic = "scrub avocado filter sphere point wing immune stamp liberty gentle gas curve";
+var mnemonic = "club trade fatal coconut obtain unfold rain select under category dignity muffin";

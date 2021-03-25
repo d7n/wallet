@@ -1,1 +1,1 @@
-var mnemonic = "food flee neck family detect pistol mercy large among lamp hotel burden";
+var mnemonic = "obvious eyebrow pink casino round street squeeze retire immune drip sweet runway";

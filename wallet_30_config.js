@@ -1,1 +1,1 @@
-var mnemonic = "dream spring say room shrimp include art loyal misery object harvest pill";
+var mnemonic = "child zero glance coach mean napkin unfold coach foot club peasant close";

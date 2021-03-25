@@ -1,1 +1,1 @@
-var mnemonic = "unfold isolate detail avoid rare motor again van urge sorry leopard beach";
+var mnemonic = "direct sleep repair warfare quantum wall erosion blame dash barely local raccoon";

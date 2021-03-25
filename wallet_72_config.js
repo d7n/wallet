@@ -1,1 +1,1 @@
-var mnemonic = "kit uphold arrive garden mutual feature era merge access art trade brown";
+var mnemonic = "recycle require vendor simple sight define before pelican airport empower celery wide";

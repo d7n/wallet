@@ -1,1 +1,1 @@
-var mnemonic = "monitor jealous blossom pretty live dash few glance empty mention pistol label";
+var mnemonic = "cinnamon camera yellow absurd bunker liar object visit know leader reduce dynamic";

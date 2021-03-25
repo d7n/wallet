@@ -1,1 +1,1 @@
-var mnemonic = "pencil slush olympic mutual creek aim run reunion battle opinion flower wide";
+var mnemonic = "bonus auction farm rice scan actor enough desk unfold rather worry keen";

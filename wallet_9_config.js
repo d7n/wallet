@@ -1,1 +1,1 @@
-var mnemonic = "unusual baby step remember cart cover nurse trim dish castle elegant trade";
+var mnemonic = "snack any steel marble suggest remember token stage impose traffic phrase pond";

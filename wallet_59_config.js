@@ -1,1 +1,1 @@
-var mnemonic = "submit tide lawsuit voyage young power emotion asset goat saddle fix decorate";
+var mnemonic = "talk enough invite meadow chase pave chase economy trip stool neither chimney";

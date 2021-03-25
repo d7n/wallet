@@ -1,1 +1,1 @@
-var mnemonic = "airport bleak pulp fox hurdle equip net emotion display subject knock shadow";
+var mnemonic = "ball bread artwork dignity monkey egg defy hotel rival balcony giraffe era";

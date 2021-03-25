@@ -1,1 +1,1 @@
-var mnemonic = "elite also happy upset tunnel peace weather night legend recipe inject choose";
+var mnemonic = "glimpse siren size language decade exchange isolate sign rigid trick pulp burst";

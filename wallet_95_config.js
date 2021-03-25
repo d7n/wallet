@@ -1,1 +1,1 @@
-var mnemonic = "bus true robot easy what issue expose seven sound rather feel spoon";
+var mnemonic = "cliff van million device giggle arrive cabbage ramp adapt goose genius custom";

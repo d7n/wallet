@@ -1,1 +1,1 @@
-var mnemonic = "surface rose denial crouch same lift network hunt birth cycle virus gesture";
+var mnemonic = "approve walnut chapter brass volume gospel exile exchange year found exotic pelican";

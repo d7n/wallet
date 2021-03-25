@@ -1,1 +1,1 @@
-var mnemonic = "mixed caught skin sing square ancient lake cruel skull give hand favorite";
+var mnemonic = "mixed adjust deliver street tenant keep hair abuse useless walk later alpha";

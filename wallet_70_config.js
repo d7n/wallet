@@ -1,1 +1,1 @@
-var mnemonic = "scale forward east wreck rebuild employ recipe sign jeans armor above basic";
+var mnemonic = "buzz sheriff kick state negative carpet hero answer deny online arena human";

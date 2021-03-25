@@ -1,1 +1,1 @@
-var mnemonic = "ethics logic excuse amateur cancel regular floor inner mention travel tag edit";
+var mnemonic = "universe spoon wait about key smart build until first sorry auction night";

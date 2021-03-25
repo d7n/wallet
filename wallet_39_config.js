@@ -1,1 +1,1 @@
-var mnemonic = "lend when bar cry salmon luggage aspect sample pony glow scout enrich";
+var mnemonic = "coil best farm pottery limit reflect margin scatter alpha oblige easily radar";

@@ -1,1 +1,1 @@
-var mnemonic = "camp myself taste drama diagram work defense wheat slide work scale plug";
+var mnemonic = "era primary deputy warm verify omit shoe vendor spring boss marine owner";

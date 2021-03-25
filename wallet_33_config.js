@@ -1,1 +1,1 @@
-var mnemonic = "release quick cabbage until fiction account spice scale possible suit coast high";
+var mnemonic = "speed voyage round entire motor reflect annual fall castle forget song knock";

@@ -1,1 +1,1 @@
-var mnemonic = "choice wrist antenna someone domain elegant kiss negative farm illness diamond barely";
+var mnemonic = "pyramid barrel have lava segment spice toss example endorse neutral message hotel";

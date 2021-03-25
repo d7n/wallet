@@ -1,1 +1,1 @@
-var mnemonic = "famous sweet beef alert iron bullet minimum ocean reject canoe laundry educate";
+var mnemonic = "float update cotton brass walnut attract forum attract diary agree file resource";

@@ -1,1 +1,1 @@
-var mnemonic = "two security section vehicle dizzy tongue twenty memory citizen twice velvet bamboo";
+var mnemonic = "depth flock hour final onion resource hockey unable vintage eyebrow nose cannon";

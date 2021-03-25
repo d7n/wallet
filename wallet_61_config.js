@@ -1,1 +1,1 @@
-var mnemonic = "fiscal hedgehog tackle amused spot tackle shoot across lake famous level trim";
+var mnemonic = "prize emerge mimic dentist carry hedgehog daughter casual utility lunar repair oven";

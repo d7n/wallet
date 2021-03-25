@@ -1,1 +1,1 @@
-var mnemonic = "aerobic genre swear angle draft cement scene nation fade elder organ purse";
+var mnemonic = "young now trust furnace sentence bus ginger learn nasty catalog story topic";

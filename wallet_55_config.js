@@ -1,1 +1,1 @@
-var mnemonic = "plastic kiss brave example any upper maid arrest half empty glory mosquito";
+var mnemonic = "child physical rigid license tag retire daring menu retire easy build day";

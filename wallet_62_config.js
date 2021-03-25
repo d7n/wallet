@@ -1,1 +1,1 @@
-var mnemonic = "maze cable farm amount primary tool canyon rescue egg filter dial zone";
+var mnemonic = "rubber century universe obvious fame senior ill orchard since option visual brother";

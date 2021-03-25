@@ -1,1 +1,1 @@
-var mnemonic = "fun sight dove canyon bullet must shop drop battle magic garment thumb";
+var mnemonic = "clerk hold picnic monkey peasant evoke know tent stage stone actress sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal endorse trap hurry giraffe lyrics legend adult uncle husband remove crop";
+var mnemonic = "home fever follow enemy depth south virtual category husband zebra degree fog";

@@ -1,1 +1,1 @@
-var mnemonic = "farm file eager bring prize harvest youth trim expose sword lake evil";
+var mnemonic = "must vacant rely already caught direct hand mobile crash excess sadness spy";

@@ -1,1 +1,1 @@
-var mnemonic = "vague flush organ warrior army great someone reform leader coach apology gap";
+var mnemonic = "bamboo home mandate target drill garlic shadow apple wall heavy diagram arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "green gas jar tooth model brown describe action reunion jacket song silent";
+var mnemonic = "flock almost chair setup unlock art salmon merge relief sign guide critic";

@@ -1,1 +1,1 @@
-var mnemonic = "define pause small barely taste head stereo pact aisle forget speed apology";
+var mnemonic = "badge alpha wrong ask eternal all shallow dance hub pepper team pipe";

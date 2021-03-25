@@ -1,1 +1,1 @@
-var mnemonic = "autumn matter velvet measure coin turkey pigeon invite verify door anger adjust";
+var mnemonic = "hover lock giant earn auction shell ceiling excuse skirt budget theme error";

@@ -1,1 +1,1 @@
-var mnemonic = "vote banner output scheme brave prize produce bachelor kangaroo lady sauce wrong";
+var mnemonic = "super small reveal rail visual spoon host general trust solve since equip";

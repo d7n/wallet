@@ -1,1 +1,1 @@
-var mnemonic = "hub endorse start right trick mushroom silver shed skirt throw frame drink";
+var mnemonic = "excite shield fiber melody fox eternal near drift rotate universe connect rack";

@@ -1,1 +1,1 @@
-var mnemonic = "grace often civil escape defy believe carry cream decorate pool cruise solve";
+var mnemonic = "mystery ugly chair elegant prize life million chuckle grape typical tornado dirt";

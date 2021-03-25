@@ -1,1 +1,1 @@
-var mnemonic = "cheese twist believe trophy palace artist only hood city enter glance mercy";
+var mnemonic = "detect thought hole bronze miracle layer tip okay travel noble grocery toward";

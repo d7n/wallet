@@ -1,1 +1,1 @@
-var mnemonic = "hobby soul conduct spin place dilemma lucky weather electric define dog spoon";
+var mnemonic = "arrange sail point kitchen kiss venture wide budget sense home hospital grab";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual salon critic circle angle whisper episode small people acoustic alert bubble";
+var mnemonic = "wall elegant scare thrive mind chapter uniform auto blast photo october occur";

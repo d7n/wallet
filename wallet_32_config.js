@@ -1,1 +1,1 @@
-var mnemonic = "noodle example pony gather depart bonus lunch saddle clerk virus try rely";
+var mnemonic = "bleak hill future depth blanket icon one heart icon between junk toast";

@@ -1,1 +1,1 @@
-var mnemonic = "jealous hint tourist slow gather maid review permit celery side wine snap";
+var mnemonic = "finger margin express cherry top ripple alien kitchen desk consider trial duty";

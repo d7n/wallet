@@ -1,1 +1,1 @@
-var mnemonic = "amazing sting artefact eagle canyon labor vehicle artwork crater sketch parrot test";
+var mnemonic = "marine gym brick steel rebuild race essence pact badge noodle multiply coral";

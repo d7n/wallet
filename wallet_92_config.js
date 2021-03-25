@@ -1,1 +1,1 @@
-var mnemonic = "assist coffee onion dice nuclear nose ski business burger moral survey imitate";
+var mnemonic = "electric sound follow tray shadow head once meat glory slogan divorce ship";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel bind battle input protect purpose vital female spy air desk cover";
+var mnemonic = "almost kid certain erode chunk toss awake escape local rib boy camp";

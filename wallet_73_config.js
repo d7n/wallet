@@ -1,1 +1,1 @@
-var mnemonic = "card attack skate market sight alert panic crash vendor pizza young panda";
+var mnemonic = "leaf spike please stadium club dove mutual install simple total that purpose";

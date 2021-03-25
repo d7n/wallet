@@ -1,1 +1,1 @@
-var mnemonic = "wait disorder feature idle chest certain judge effort carry congress process gentle";
+var mnemonic = "roof book black retire endless light embody three door say return document";

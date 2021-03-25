@@ -1,1 +1,1 @@
-var mnemonic = "crane cradle dance obtain style dream grass relax now use blush cigar";
+var mnemonic = "edit donor small ride main clever arm fit exist wage nut taste";

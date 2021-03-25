@@ -1,1 +1,1 @@
-var mnemonic = "fatigue trumpet pioneer old law window media stereo wise fun dumb burst";
+var mnemonic = "among cook abandon river rural theme prefer defense sail quantum wonder size";

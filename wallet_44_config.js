@@ -1,1 +1,1 @@
-var mnemonic = "muffin bus quarter fashion fly warm typical capital blood orphan relax gold";
+var mnemonic = "horror away lake exhaust hedgehog diamond umbrella siren eye kangaroo trend train";

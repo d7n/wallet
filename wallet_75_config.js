@@ -1,1 +1,1 @@
-var mnemonic = "walk quote truck control december oblige ocean lumber cherry job heart panda";
+var mnemonic = "soon tuition hat liar typical gap anger soon source squirrel together milk";

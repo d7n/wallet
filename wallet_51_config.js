@@ -1,1 +1,1 @@
-var mnemonic = "ketchup swamp broom negative survey stomach artist monitor someone ghost canoe hope";
+var mnemonic = "busy rug female found report number leg razor curtain potato aim slice";

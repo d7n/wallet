@@ -1,1 +1,1 @@
-var mnemonic = "emotion magnet avoid laptop expose net derive mean come message need plate";
+var mnemonic = "thrive install flight absorb assume try picnic path genre fox circle then";

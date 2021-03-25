@@ -1,1 +1,1 @@
-var mnemonic = "mix slow ginger worth loyal clerk reward pause myself indoor accuse wisdom";
+var mnemonic = "plate erosion govern project imitate track labor snow crack crucial matrix object";

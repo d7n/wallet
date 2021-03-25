@@ -1,1 +1,1 @@
-var mnemonic = "entry slim mandate lens tube sea slender current resemble salt truth remember";
+var mnemonic = "close metal frog pulp bicycle cross one odor together stone audit sauce";

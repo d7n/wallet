@@ -1,1 +1,1 @@
-var mnemonic = "sail jungle truck badge today fetch rocket taste pause spatial renew syrup";
+var mnemonic = "artefact easily twelve face casino park service luxury earn fame decrease despair";

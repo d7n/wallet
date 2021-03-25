@@ -1,1 +1,1 @@
-var mnemonic = "fetch civil faith explain rose meadow dinosaur bunker still snap forward neck";
+var mnemonic = "rain kid strike mad juice price output tennis car resource brown journey";

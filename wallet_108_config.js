@@ -1,1 +1,1 @@
-var mnemonic = "tape inspire gasp inject immune assist cannon unhappy test lizard task welcome";
+var mnemonic = "like maximum day segment maze chunk trend plastic keen silly ramp goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "poet depend narrow laptop wire glow carbon now face vital what link";
+var mnemonic = "immense suggest dress pact ethics artwork tennis say stone quiz expire gate";

@@ -1,1 +1,1 @@
-var mnemonic = "humor liquid govern indoor swap link bring voice arrest lonely grain prevent";
+var mnemonic = "canal box hungry winner smile luggage drill more notable taste race matrix";

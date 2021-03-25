@@ -1,1 +1,1 @@
-var mnemonic = "panic escape clean pulp tray meat cry disease sauce lava frown anger";
+var mnemonic = "jazz pause topic mass camp hat frown next orchard enable account remember";

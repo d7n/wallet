@@ -1,1 +1,1 @@
-var mnemonic = "raven script rather danger endorse search spider typical apple spike envelope syrup";
+var mnemonic = "budget regular marble energy jelly south drastic kit goose people clay warrior";

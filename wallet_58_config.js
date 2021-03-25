@@ -1,1 +1,1 @@
-var mnemonic = "critic pattern toddler series glad biology trophy hand concert dose only number";
+var mnemonic = "palace nation stand best ceiling exhaust fish angle glass secret pass mass";

@@ -1,1 +1,1 @@
-var mnemonic = "either weather wide kit confirm february invest cream hockey sponsor border wet";
+var mnemonic = "car maid either comfort before crouch brush brother ritual stereo milk suit";

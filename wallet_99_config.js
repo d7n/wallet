@@ -1,1 +1,1 @@
-var mnemonic = "average border also gospel knock knee topic remember rain achieve lava smooth";
+var mnemonic = "angle dose slim tone fame year dance prize enable anxiety same earn";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth crane theory motion turtle sail common strategy force glide protect winner";
+var mnemonic = "slot boat define morning layer insane utility junior infant slim borrow limit";

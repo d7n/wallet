@@ -1,1 +1,1 @@
-var mnemonic = "marriage onion brand fossil witness picnic super elevator powder vehicle recall abuse";
+var mnemonic = "liquid soon grid spike spice august address gain helmet stereo move idle";

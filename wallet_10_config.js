@@ -1,1 +1,1 @@
-var mnemonic = "foil crumble few year enrich immune reveal extra legal position acquire road";
+var mnemonic = "weird stage shield frog virus junk open level corn gate height source";

@@ -1,1 +1,1 @@
-var mnemonic = "caught recycle during place filter grab title produce add hill normal fine";
+var mnemonic = "pipe stomach assist accuse resource juice between wheat hold voyage suit unique";

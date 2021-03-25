@@ -1,1 +1,1 @@
-var mnemonic = "shrimp celery retreat sail mercy unveil swing finger weird final athlete tribe";
+var mnemonic = "wrestle around damage sea erosion sea pink theory board extend rifle fork";

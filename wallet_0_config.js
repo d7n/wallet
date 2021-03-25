@@ -1,1 +1,1 @@
-var mnemonic = "clap group surprise common dress denial cost bunker type trade kit merry";
+var mnemonic = "auction issue thank bicycle taxi violin item exclude ladder alert habit girl";

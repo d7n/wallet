@@ -1,1 +1,1 @@
-var mnemonic = "canvas cream horn lemon razor donkey gorilla require scrub police music budget";
+var mnemonic = "rely clean banana grit mobile achieve veteran image debate sun grief famous";

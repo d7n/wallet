@@ -1,1 +1,1 @@
-var mnemonic = "horror boost series height crew news lemon fuel cash risk fold impulse";
+var mnemonic = "height face stamp field razor fiber fetch metal decline relief diagram idle";

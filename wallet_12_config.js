@@ -1,1 +1,1 @@
-var mnemonic = "still fruit surge moon aspect chicken sample dial expect artwork defy depend";
+var mnemonic = "rule hover sea coach trip raven dove expect wage debate day mule";

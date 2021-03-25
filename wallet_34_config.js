@@ -1,1 +1,1 @@
-var mnemonic = "analyst oppose picture length more burst relax quote pony obtain boy wool";
+var mnemonic = "predict exotic grape erase build pond video wife excess key unhappy dentist";

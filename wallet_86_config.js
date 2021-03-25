@@ -1,1 +1,1 @@
-var mnemonic = "jazz sing grid plunge tortoise develop chapter demise find tool champion grunt";
+var mnemonic = "yellow ivory answer taxi unaware route order team phrase siren hotel butter";

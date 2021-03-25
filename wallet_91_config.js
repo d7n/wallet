@@ -1,1 +1,1 @@
-var mnemonic = "border glimpse happy floor much major gasp lobster annual ceiling naive panel";
+var mnemonic = "around helmet brown use orphan faint victory napkin half width agent voyage";

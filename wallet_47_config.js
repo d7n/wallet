@@ -1,1 +1,1 @@
-var mnemonic = "sibling patch laptop retire pupil boil cream giraffe bag must ozone candy";
+var mnemonic = "doctor virus want bacon truth crawl chase anxiety alien keep market atom";

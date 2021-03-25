@@ -1,1 +1,1 @@
-var mnemonic = "spread photo glow lawn agree catalog mercy net spider whip arrow position";
+var mnemonic = "insect can nose praise swallow notice artefact mixture mango sun buzz drum";

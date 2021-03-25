@@ -1,1 +1,1 @@
-var mnemonic = "account twice bean ocean chaos kitchen canyon second tongue pear boil notable";
+var mnemonic = "fold gown tide enlist alcohol win merit stock cook combine few obscure";

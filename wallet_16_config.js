@@ -1,1 +1,1 @@
-var mnemonic = "remind unknown fault they conduct clog worth olive win universe float deliver";
+var mnemonic = "then faint select draw gift wish rail wedding whip liquid setup spider";

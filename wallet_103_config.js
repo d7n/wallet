@@ -1,1 +1,1 @@
-var mnemonic = "finish play absorb degree gesture maximum bronze dove found taste verify click";
+var mnemonic = "scatter ribbon harvest since run later twice yellow hold hurry silk kingdom";

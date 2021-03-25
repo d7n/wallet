@@ -1,1 +1,1 @@
-var mnemonic = "again weird swing whale error midnight sunset diagram document clay original torch";
+var mnemonic = "pattern finger paddle culture lyrics attend update violin remind idea then loop";

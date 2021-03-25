@@ -1,1 +1,1 @@
-var mnemonic = "plunge refuse amount they ramp verify blue six prosper unique settle mansion";
+var mnemonic = "focus ring metal lizard provide globe front anxiety face someone spike view";

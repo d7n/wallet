@@ -1,1 +1,1 @@
-var mnemonic = "reform volume recall monitor regular tape narrow mobile junior priority team author";
+var mnemonic = "always recipe round forward pig mom ritual true eagle insect spread mother";

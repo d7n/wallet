@@ -1,1 +1,1 @@
-var mnemonic = "opinion wide pig foster ancient claim dress kingdom between present hockey damage";
+var mnemonic = "verb peasant rule one wrong possible wedding end road demise boy produce";

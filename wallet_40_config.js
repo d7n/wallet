@@ -1,1 +1,1 @@
-var mnemonic = "ocean identify unaware license mail million neck someone stable medal again nerve";
+var mnemonic = "fiber catalog economy crisp rally pupil decide usual ladder decade damage gorilla";

@@ -1,1 +1,1 @@
-var mnemonic = "again promote sun goat grace orbit autumn nerve crane police curious approve";
+var mnemonic = "cross south such drama labor brand hotel exchange honey vote skirt steak";

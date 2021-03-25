@@ -1,1 +1,1 @@
-var mnemonic = "annual expect honey prepare jelly forget skate slush grab tooth equal harsh";
+var mnemonic = "dad enjoy fetch length hill ensure view relief people shift list mechanic";
