@@ -1,1 +1,1 @@
-var mnemonic = "iron able atom library slot property anxiety insane garden valve course element";
+var mnemonic = "nice wheat around subway find solution immense venue jump giggle soft gauge";

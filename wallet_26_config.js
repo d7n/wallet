@@ -1,1 +1,1 @@
-var mnemonic = "short swamp rule mercy crack column force angry able bubble senior occur";
+var mnemonic = "odor exclude media swear spider pepper cancel polar morning ensure car force";

@@ -1,1 +1,1 @@
-var mnemonic = "woman camera salute toast capital attend noise angry drastic wear solve slogan";
+var mnemonic = "miracle meat trumpet ladder connect stick neck toe sense coffee flat unveil";

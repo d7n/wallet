@@ -1,1 +1,1 @@
-var mnemonic = "flock laugh code recipe task absent copper receive tribe return celery erode";
+var mnemonic = "profit tornado merry check attract climb pride bag title salt history tunnel";

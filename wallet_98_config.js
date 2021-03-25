@@ -1,1 +1,1 @@
-var mnemonic = "slam often reduce fringe sketch vague depart matter zebra educate youth alley";
+var mnemonic = "imitate path virtual popular film beef strong attract wall hill absorb fork";

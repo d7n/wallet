@@ -1,1 +1,1 @@
-var mnemonic = "sign dream farm post crime picture gift hedgehog earth banana total abandon";
+var mnemonic = "carry adapt gentle jacket pool monkey dress lion cruel gather spin east";

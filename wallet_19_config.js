@@ -1,1 +1,1 @@
-var mnemonic = "equal conduct absent foam gravity crazy solar oxygen baby debate sound broccoli";
+var mnemonic = "medal asthma invest woman salad mom cover frown dose explain science unaware";

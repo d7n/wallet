@@ -1,1 +1,1 @@
-var mnemonic = "sphere oval danger bean allow benefit false good identify coast you accuse";
+var mnemonic = "expire kidney police fog recipe subject melt client embark ivory phone young";

@@ -1,1 +1,1 @@
-var mnemonic = "pill proud neck dream visit crater steak time first roof wagon local";
+var mnemonic = "forum glass usual rookie apart limb end total already museum cactus size";

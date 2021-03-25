@@ -1,1 +1,1 @@
-var mnemonic = "sea dumb close sunset mystery picnic pulp defense trumpet hood butter rough";
+var mnemonic = "off hurdle rule spread sure ribbon hurry usage cupboard panda ordinary flock";

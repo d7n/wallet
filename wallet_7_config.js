@@ -1,1 +1,1 @@
-var mnemonic = "various logic human rookie fault staff taxi fiscal legal angle puzzle sugar";
+var mnemonic = "term horse wreck owner target lamp clock diamond floor december ceiling entry";

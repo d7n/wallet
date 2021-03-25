@@ -1,1 +1,1 @@
-var mnemonic = "boss cruel angry demand supply club elevator force electric champion expire payment";
+var mnemonic = "bacon vague list spring emotion panda suit choice amateur ten error pulp";

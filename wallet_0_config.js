@@ -1,1 +1,1 @@
-var mnemonic = "response air local submit foot shell hurdle cereal entry live fabric entire";
+var mnemonic = "alien afford panic polar robust main acid mountain drama unable upon fitness";

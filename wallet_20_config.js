@@ -1,1 +1,1 @@
-var mnemonic = "nest alien barely injury stadium super wash address hole dove dilemma cloth";
+var mnemonic = "august alter stable fitness series thrive phrase lobster title burst focus fresh";

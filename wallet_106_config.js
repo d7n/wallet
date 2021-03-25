@@ -1,1 +1,1 @@
-var mnemonic = "broccoli diesel prefer admit broccoli math drastic rebuild robust wire off balance";
+var mnemonic = "mistake clutch brand filter term jazz crane corn flame surprise peasant way";

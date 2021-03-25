@@ -1,1 +1,1 @@
-var mnemonic = "step music tongue credit verb put bind edge conduct office olympic strategy";
+var mnemonic = "shell spawn benefit extra length defense famous devote unhappy emerge addict kiwi";

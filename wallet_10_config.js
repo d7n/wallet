@@ -1,1 +1,1 @@
-var mnemonic = "capable spare modify evoke sponsor pelican pioneer decade print dizzy judge champion";
+var mnemonic = "cruel punch swamp exhibit actress pact mammal gloom tiger pelican cheap affair";

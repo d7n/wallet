@@ -1,1 +1,1 @@
-var mnemonic = "use balcony flee swear gentle radar smooth matrix fog slow baby ostrich";
+var mnemonic = "merry critic raven garage bar photo bunker drastic brief museum gloom double";

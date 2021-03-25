@@ -1,1 +1,1 @@
-var mnemonic = "bless fat shallow jazz admit audit aunt fine auto envelope enhance kitten";
+var mnemonic = "loud ribbon agree tell sword leg filter glance universe uphold approve calm";

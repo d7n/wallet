@@ -1,1 +1,1 @@
-var mnemonic = "stuff issue prison any render hat annual ramp valve social tragic figure";
+var mnemonic = "guide icon twist embrace soap voice furnace private move palm actor guilt";

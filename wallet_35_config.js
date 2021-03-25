@@ -1,1 +1,1 @@
-var mnemonic = "custom guide misery range remove write fever jar desk whip rocket burger";
+var mnemonic = "render hawk enable minute reason labor pony virus galaxy sail syrup stone";

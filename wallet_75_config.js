@@ -1,1 +1,1 @@
-var mnemonic = "ship village lyrics situate poet humor float dash effort strategy thank antenna";
+var mnemonic = "castle three country judge pony traffic unique citizen dynamic tower duck tip";

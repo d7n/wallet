@@ -1,1 +1,1 @@
-var mnemonic = "bulb around expect cricket rigid retreat electric section mean brave naive nose";
+var mnemonic = "stereo slight soon notable pumpkin practice avocado spin blind easily vapor cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "series lobster gather identify stable west mention cradle drip involve device spatial";
+var mnemonic = "meadow sentence riot hidden way code fitness duck whisper cake bunker rebuild";

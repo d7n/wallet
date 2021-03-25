@@ -1,1 +1,1 @@
-var mnemonic = "impact narrow exchange farm neglect balance mushroom arctic lava monkey bus broccoli";
+var mnemonic = "lift peasant drama ethics item useless kick bar salute brave slice hurt";

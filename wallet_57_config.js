@@ -1,1 +1,1 @@
-var mnemonic = "history stadium puzzle rare engine love ready jewel era priority strike fine";
+var mnemonic = "good palm planet obscure access worry twenty dilemma coin deny crack lamp";

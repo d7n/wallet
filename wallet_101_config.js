@@ -1,1 +1,1 @@
-var mnemonic = "winner purse shy stairs tortoise skill pill member sock neither learn clarify";
+var mnemonic = "bone sort punch slam hip order shove coconut happy emerge omit shift";

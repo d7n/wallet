@@ -1,1 +1,1 @@
-var mnemonic = "cloud bamboo top wine few luxury friend arena romance case few parent";
+var mnemonic = "copper ghost lobster margin rigid fall parrot hollow enough toilet dune agent";

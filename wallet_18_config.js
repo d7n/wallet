@@ -1,1 +1,1 @@
-var mnemonic = "thought smart curve vibrant clerk donate bike street account monitor bridge ability";
+var mnemonic = "solar bundle tourist minor sword oxygen cave review frozen mercy local private";

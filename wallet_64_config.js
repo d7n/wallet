@@ -1,1 +1,1 @@
-var mnemonic = "mansion physical lock tray south typical uncle exact liar key liar approve";
+var mnemonic = "proud animal december aunt bottom humble life paper wheat cup purity among";

@@ -1,1 +1,1 @@
-var mnemonic = "dish much slab dash gift meat solution luxury poet divide spider alcohol";
+var mnemonic = "alone pride base panel obscure grant convince typical bulb pumpkin expire luxury";

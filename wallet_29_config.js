@@ -1,1 +1,1 @@
-var mnemonic = "goddess link write dwarf fall fragile area orbit wasp onion slight small";
+var mnemonic = "version gap guard super system ozone basket someone panda winner attack diary";

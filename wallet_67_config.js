@@ -1,1 +1,1 @@
-var mnemonic = "educate myself cannon dial cabin group glow comfort country brush color impulse";
+var mnemonic = "furnace inhale infant exhibit athlete galaxy jelly kit solar industry rifle street";

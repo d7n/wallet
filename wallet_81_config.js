@@ -1,1 +1,1 @@
-var mnemonic = "human alone flame rather mansion cannon engine dawn shed trim loyal club";
+var mnemonic = "ghost unknown clarify recall parrot stage tail noise faint clutch text enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "always rifle inch boring impulse tragic degree toddler bamboo drip home bundle";
+var mnemonic = "chief beach couch gain tuition swamp claim old glass seat inner pause";

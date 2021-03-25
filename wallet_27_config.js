@@ -1,1 +1,1 @@
-var mnemonic = "patient strategy tobacco relief vacuum happy cake salon female service lava random";
+var mnemonic = "hurry coyote vicious about inmate van april brick glory hen duck east";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid oyster color shoe remind initial tiger upset casino stove asthma second";
+var mnemonic = "fork position birth explain style angry path private angry flower sun sugar";

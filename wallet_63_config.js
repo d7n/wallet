@@ -1,1 +1,1 @@
-var mnemonic = "organ drastic squeeze fresh inside wall advice velvet kiss erupt secret want";
+var mnemonic = "clerk stem pluck roof blush festival elegant spare whip such agent express";

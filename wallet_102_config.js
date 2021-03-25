@@ -1,1 +1,1 @@
-var mnemonic = "slush deal setup feature unknown tuna large salon suit breeze simple hint";
+var mnemonic = "town profit mention shoe truck firm mad adapt olympic junior city spy";

@@ -1,1 +1,1 @@
-var mnemonic = "pen salt hungry spice session isolate female jelly symptom pencil bone dose";
+var mnemonic = "usual destroy scene vivid orient kite alcohol city novel theme menu together";

@@ -1,1 +1,1 @@
-var mnemonic = "library little pottery early ranch pledge spy match distance adult tissue tag";
+var mnemonic = "twin garment ring amount must march sphere name outside author planet still";

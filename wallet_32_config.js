@@ -1,1 +1,1 @@
-var mnemonic = "whale clog farm velvet jump client spoil auto inflict elder crouch sorry";
+var mnemonic = "board blade announce spell pair tiny muscle child close solution ladder multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck leisure lift click sure day early also exercise lonely orbit gain";
+var mnemonic = "nature miracle twist trap cage cake hole hint love rate index rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "proof grain tragic issue outdoor bottom solid wool sister heart forward gorilla";
+var mnemonic = "around unveil piano crime lobster feed acquire oven ladder novel inner essence";

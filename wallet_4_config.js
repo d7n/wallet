@@ -1,1 +1,1 @@
-var mnemonic = "fresh else seed warfare gallery portion reject canal catalog grain vicious exhibit";
+var mnemonic = "menu typical ivory scare organ attitude chase hover wave dance art kitchen";

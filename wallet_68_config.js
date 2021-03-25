@@ -1,1 +1,1 @@
-var mnemonic = "cement always apple flash arrest patch slot dog gadget enact chalk garden";
+var mnemonic = "cattle fee enrich visual post million reduce monster pudding wood outer mistake";

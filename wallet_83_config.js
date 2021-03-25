@@ -1,1 +1,1 @@
-var mnemonic = "host bone ask potato heart isolate clump reopen unfair walnut prepare liquid";
+var mnemonic = "ship blanket clutch army possible draw erupt volcano stone produce reject chalk";

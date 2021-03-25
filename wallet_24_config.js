@@ -1,1 +1,1 @@
-var mnemonic = "response legal tiny gravity stamp drop tattoo stick vivid decline medal river";
+var mnemonic = "kiwi wait attack surge lion forum piece sting today tip rich feel";

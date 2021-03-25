@@ -1,1 +1,1 @@
-var mnemonic = "shoot pair rescue human seek can initial absent artefact glue enroll choose";
+var mnemonic = "farm parent position come bind pattern custom outdoor core barely other middle";

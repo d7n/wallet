@@ -1,1 +1,1 @@
-var mnemonic = "delay clay logic voice lottery letter glimpse tank refuse legal voice six";
+var mnemonic = "settle struggle august fold hazard acoustic vehicle now safe ladder planet dinosaur";

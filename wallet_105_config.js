@@ -1,1 +1,1 @@
-var mnemonic = "page seminar fantasy grape common scheme quick despair jungle forest correct circle";
+var mnemonic = "horn give cricket mandate dream update venue mercy helmet hero crush orient";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual lesson doll account identify fun morning walk blossom mask exhaust final";
+var mnemonic = "burden shrug expect own video jacket cushion infant pioneer beauty saddle manual";

@@ -1,1 +1,1 @@
-var mnemonic = "near fan shadow zebra trim maid shift badge cart profit exist couple";
+var mnemonic = "atom razor bright timber dilemma parrot health pottery valley eternal holiday since";

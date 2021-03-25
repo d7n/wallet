@@ -1,1 +1,1 @@
-var mnemonic = "inhale roof ahead view cook swim mask pigeon wealth flat strong lady";
+var mnemonic = "tunnel tragic buyer tilt truly feature ladder box solution uniform daring apology";

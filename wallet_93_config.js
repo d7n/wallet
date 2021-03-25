@@ -1,1 +1,1 @@
-var mnemonic = "car benefit early domain knife elevator rain shift valve street narrow waste";
+var mnemonic = "parade gasp poet carry stay ankle snake object desk arena hard diagram";

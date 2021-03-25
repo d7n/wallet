@@ -1,1 +1,1 @@
-var mnemonic = "economy neglect nation eyebrow jump valley unknown jewel rice burger age clever";
+var mnemonic = "relax decide denial below tent sphere quarter viable parent claim rose cart";

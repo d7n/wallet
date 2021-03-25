@@ -1,1 +1,1 @@
-var mnemonic = "caught ripple crouch movie fee always actor snap small wash suggest trigger";
+var mnemonic = "regular cherry giraffe they run mechanic fragile purchase wide dirt panel employ";

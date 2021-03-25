@@ -1,1 +1,1 @@
-var mnemonic = "wage thunder eye bring tooth decrease wagon section ice cart pencil donkey";
+var mnemonic = "monitor actor maze chaos neutral cattle baby loop nation fatigue night satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "bench choice upon strong dinner fashion coyote ring suit bulk suffer echo";
+var mnemonic = "scorpion dial exile basket lesson hint cute candy judge total cash shift";

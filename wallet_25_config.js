@@ -1,1 +1,1 @@
-var mnemonic = "fatigue slogan force mixed cannon decide nut soft old bid rate female";
+var mnemonic = "correct frown jazz usage family depart genre flip educate diamond donate repeat";

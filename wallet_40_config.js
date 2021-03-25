@@ -1,1 +1,1 @@
-var mnemonic = "resist wagon decide unveil average tip foot claw express vicious device usage";
+var mnemonic = "tell unable answer margin edit concert profit game choose pottery bless idea";

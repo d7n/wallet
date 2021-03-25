@@ -1,1 +1,1 @@
-var mnemonic = "tragic afford poverty pelican coin orchard recall surge hill sport across lunar";
+var mnemonic = "hood scrap upset volume estate quality fantasy chicken machine true affair cloud";

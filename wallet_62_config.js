@@ -1,1 +1,1 @@
-var mnemonic = "draft script remove disagree cigar trend zone build chuckle river taxi fix";
+var mnemonic = "hundred huge anger fancy boost arrange oxygen gravity ill cliff frequent problem";

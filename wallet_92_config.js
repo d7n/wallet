@@ -1,1 +1,1 @@
-var mnemonic = "ocean region across bread canoe artwork kite creek million farm weird merit";
+var mnemonic = "spring item return story return practice laundry close twelve fix soda avoid";

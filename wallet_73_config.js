@@ -1,1 +1,1 @@
-var mnemonic = "stamp bid high keen firm dutch luggage arrive net clap brain appear";
+var mnemonic = "word assist dance legal umbrella exit pave depth vacuum grape blouse diamond";

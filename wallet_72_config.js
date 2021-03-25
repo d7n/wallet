@@ -1,1 +1,1 @@
-var mnemonic = "detail web wing develop stairs decade family device update rack desert either";
+var mnemonic = "excite ship intact early twenty pair jacket ill kit power sweet render";

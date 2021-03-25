@@ -1,1 +1,1 @@
-var mnemonic = "wide alien antique staff proof author need card tell letter kitten shell";
+var mnemonic = "tongue pause twist script soul enforce useful tuna gauge thumb nature focus";

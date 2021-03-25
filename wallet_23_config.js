@@ -1,1 +1,1 @@
-var mnemonic = "find churn jungle science away hazard ripple prison way doctor taxi crawl";
+var mnemonic = "twenty inquiry style shine wrong transfer hurry buzz limb argue race fitness";

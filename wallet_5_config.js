@@ -1,1 +1,1 @@
-var mnemonic = "urban dance another hold settle when fossil cigar language client boss capital";
+var mnemonic = "few disease essay zero lamp task razor end mutual explain slight poet";

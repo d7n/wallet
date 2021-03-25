@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin bean spike crane group bottom proud dog announce culture market series";
+var mnemonic = "wool word reason believe quote fall junk pride disagree sea regular learn";

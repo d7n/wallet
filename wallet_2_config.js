@@ -1,1 +1,1 @@
-var mnemonic = "sniff argue fiber shop wasp ugly garden custom economy bridge east lift";
+var mnemonic = "toss million sniff unlock cigar name gospel tired suit panda cigar glove";

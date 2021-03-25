@@ -1,1 +1,1 @@
-var mnemonic = "position panic draft raven suspect shock language wool tattoo amused glimpse squirrel";
+var mnemonic = "sail focus give health worth shaft practice glow legal cancel private balcony";

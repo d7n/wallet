@@ -1,1 +1,1 @@
-var mnemonic = "blast feature tail meadow ill library palm title raise damage first guard";
+var mnemonic = "coral pride argue subject humor mimic vocal east early firm youth glass";

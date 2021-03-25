@@ -1,1 +1,1 @@
-var mnemonic = "address come glance voice web devote define purchase tree forum chaos bicycle";
+var mnemonic = "reform prevent spawn aunt execute want cruel ribbon essay rate will pause";

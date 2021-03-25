@@ -1,1 +1,1 @@
-var mnemonic = "unhappy best please leg team frame holiday age tree note gym turtle";
+var mnemonic = "because rice album permit cage crouch pact ride follow blame ill build";

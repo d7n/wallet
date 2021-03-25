@@ -1,1 +1,1 @@
-var mnemonic = "device jungle upset have bird harvest snake pride piece drum fold armor";
+var mnemonic = "quiz oak alone bacon edit orbit island immune ramp tilt tilt material";

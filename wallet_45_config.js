@@ -1,1 +1,1 @@
-var mnemonic = "eye miracle keen vocal answer solar hurry modify cycle direct stool come";
+var mnemonic = "better biology yard shove joy vibrant stock leisure pear beach sand tree";

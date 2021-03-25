@@ -1,1 +1,1 @@
-var mnemonic = "win hill diamond hollow relief slow better large allow front foster extend";
+var mnemonic = "green antenna crop case atom foam twice then method east shine cinnamon";

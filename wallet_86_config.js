@@ -1,1 +1,1 @@
-var mnemonic = "argue verb rookie unfair early icon section twelve zero mechanic oven crystal";
+var mnemonic = "already clump staff assist bench glance furnace frost put survey like sibling";

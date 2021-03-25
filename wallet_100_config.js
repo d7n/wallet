@@ -1,1 +1,1 @@
-var mnemonic = "aerobic dirt about problem satisfy shoot lend job antenna slide salon room";
+var mnemonic = "shield immense bar place large index finish this robot case usage worth";

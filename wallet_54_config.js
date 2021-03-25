@@ -1,1 +1,1 @@
-var mnemonic = "chaos where soldier fence above glow wonder curious win puzzle relax dwarf";
+var mnemonic = "brave aerobic expose wrestle buzz topic virtual soul canoe glass circle scheme";

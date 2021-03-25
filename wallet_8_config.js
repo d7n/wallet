@@ -1,1 +1,1 @@
-var mnemonic = "uncover this solar palace sad family depth razor cycle because online include";
+var mnemonic = "toward lottery demand hobby bomb grocery situate song quote arrow ocean balcony";

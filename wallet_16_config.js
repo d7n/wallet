@@ -1,1 +1,1 @@
-var mnemonic = "false comic youth raw fabric uncle safe peasant popular hover narrow share";
+var mnemonic = "push tissue deposit process left rate planet negative clarify silver dentist blanket";

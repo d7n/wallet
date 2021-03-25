@@ -1,1 +1,1 @@
-var mnemonic = "right aerobic vanish gallery code upper minute fan sunny rail genre antenna";
+var mnemonic = "report glove mesh festival primary duck enroll pitch curtain fame year boat";

@@ -1,1 +1,1 @@
-var mnemonic = "include toy title before arena cabbage tobacco occur interest suspect tattoo army";
+var mnemonic = "plug speed rare tobacco tumble unusual roast bright general demise paddle umbrella";

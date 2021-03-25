@@ -1,1 +1,1 @@
-var mnemonic = "reduce maximum process start stool soda bargain dad march salmon enemy marble";
+var mnemonic = "address air auto genuine scatter robust life clog action future shock target";
