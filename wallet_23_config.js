@@ -1,1 +1,1 @@
-var mnemonic = "rhythm message author gym monkey risk rug scrap rib crouch coil proof";
+var mnemonic = "vibrant birth frog elegant pulp again include much tenant insane blood dice";

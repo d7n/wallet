@@ -1,1 +1,1 @@
-var mnemonic = "pattern offer wage double dragon assume fine then sugar crane neglect foster";
+var mnemonic = "census pair peasant property beyond age catch boil lady stock poet exist";

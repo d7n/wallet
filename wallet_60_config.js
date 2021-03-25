@@ -1,1 +1,1 @@
-var mnemonic = "arena exit solar minute box divide crouch wife visit poverty where web";
+var mnemonic = "ahead sleep jungle average vessel bachelor awkward inch oil can harbor example";

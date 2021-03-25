@@ -1,1 +1,1 @@
-var mnemonic = "away mistake demand surface cupboard follow high success swing father notable lion";
+var mnemonic = "few adjust draw correct urge disagree oyster month gun balcony thing people";

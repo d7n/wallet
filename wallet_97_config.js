@@ -1,1 +1,1 @@
-var mnemonic = "ahead brave kingdom void talk similar equal surface average unable tomato air";
+var mnemonic = "sword impulse maple ozone rail zebra divorce record maximum exact bone pet";

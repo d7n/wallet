@@ -1,1 +1,1 @@
-var mnemonic = "odor goddess attitude tube try sting wish figure duck siren high erode";
+var mnemonic = "accuse advance brush program afraid inspire enlist man evil smile toddler already";

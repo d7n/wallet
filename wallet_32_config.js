@@ -1,1 +1,1 @@
-var mnemonic = "hawk steel height inside lunch scatter wool battle biology lamp grab loyal";
+var mnemonic = "clog bleak dizzy rich space riot brand right reason razor comfort sand";

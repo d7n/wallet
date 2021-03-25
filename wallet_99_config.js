@@ -1,1 +1,1 @@
-var mnemonic = "all access vicious return dry dinner twist praise piece effort once pony";
+var mnemonic = "adult echo nut park female page almost rare shed movie home among";

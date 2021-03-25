@@ -1,1 +1,1 @@
-var mnemonic = "session unfair journey tape jeans vehicle much fiscal census stove this sad";
+var mnemonic = "pretty execute release gate bar cherry scatter slush raven tunnel echo ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "neither betray sorry grid switch object near icon often urge autumn unlock";
+var mnemonic = "humble rate inspire rubber attract boss dutch right nasty canoe much hair";

@@ -1,1 +1,1 @@
-var mnemonic = "problem hawk repair youth surprise comic slender mule sweet badge fantasy hungry";
+var mnemonic = "speak oblige office hope donate execute weather midnight eyebrow sister kind vendor";

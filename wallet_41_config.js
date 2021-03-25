@@ -1,1 +1,1 @@
-var mnemonic = "cage confirm hub palm shy run pyramid pave topple smile sausage load";
+var mnemonic = "mule logic demand radar brick short kid surge glass clutch evolve pipe";

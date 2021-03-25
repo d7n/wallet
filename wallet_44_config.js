@@ -1,1 +1,1 @@
-var mnemonic = "away cram sleep ride measure flip waste exact catalog various talent arrest";
+var mnemonic = "owner alone snap flush renew short carry tape gather dumb prison crime";

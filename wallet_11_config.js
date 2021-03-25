@@ -1,1 +1,1 @@
-var mnemonic = "oil audit empower basket soap glance certain today weekend young dice cattle";
+var mnemonic = "critic insect page segment fuel rifle dentist curve mind horror please witness";

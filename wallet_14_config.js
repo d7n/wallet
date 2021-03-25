@@ -1,1 +1,1 @@
-var mnemonic = "umbrella month have number make stock step session arrange smooth holiday fossil";
+var mnemonic = "gorilla explain waste stomach shoot slender valid crouch cost brand scheme search";

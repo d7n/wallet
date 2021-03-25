@@ -1,1 +1,1 @@
-var mnemonic = "cram inquiry clog action okay scene siege chronic coral museum post view";
+var mnemonic = "evil mercy donkey deputy double near exhibit luxury club impulse woman vehicle";

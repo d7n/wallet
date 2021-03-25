@@ -1,1 +1,1 @@
-var mnemonic = "heart carbon grief kiwi sweet crowd hat drop hybrid elegant scheme meat";
+var mnemonic = "disagree cabbage you expand mix relax cause comfort thumb race awake zero";

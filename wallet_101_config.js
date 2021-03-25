@@ -1,1 +1,1 @@
-var mnemonic = "script music dance sustain blue tilt wood sibling sound immune aisle shrimp";
+var mnemonic = "knife grow pact exercise giraffe twelve obscure long reduce wolf demand scout";

@@ -1,1 +1,1 @@
-var mnemonic = "wave afford divorce nose place rough fat mom remember orchard way soon";
+var mnemonic = "night rescue height tenant alert enlist caught allow island useless setup tide";

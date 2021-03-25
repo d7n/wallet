@@ -1,1 +1,1 @@
-var mnemonic = "cargo sponsor carpet vapor clap argue put arch clutch treat floor tuna";
+var mnemonic = "alpha ritual monitor attract used curtain ozone valid script peace marine option";

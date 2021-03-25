@@ -1,1 +1,1 @@
-var mnemonic = "play city any install quote fuel hammer armor pencil prevent certain rail";
+var mnemonic = "later notice grunt faint label mesh height leisure stool matrix rude fit";

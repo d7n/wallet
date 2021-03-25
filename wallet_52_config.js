@@ -1,1 +1,1 @@
-var mnemonic = "cover give globe velvet injury verify saddle win want grape squeeze gentle";
+var mnemonic = "rotate artefact ghost invest vapor purity cruel bomb dizzy library float firm";

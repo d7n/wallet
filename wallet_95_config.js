@@ -1,1 +1,1 @@
-var mnemonic = "nice casino economy chimney talent potato glove six silly flip tip random";
+var mnemonic = "pistol pioneer today mesh bar rally toe siege change skull reason cluster";

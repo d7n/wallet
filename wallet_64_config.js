@@ -1,1 +1,1 @@
-var mnemonic = "street clump super update hockey outer chronic daughter plug vault choice since";
+var mnemonic = "rate goddess village price equip plug fame brick time boss engage monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "dove dumb dune fine surprise fun custom right banana happy change hidden";
+var mnemonic = "habit scene pear story shoe include gun dune uncle cushion join boss";

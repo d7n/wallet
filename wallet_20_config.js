@@ -1,1 +1,1 @@
-var mnemonic = "quit flush tower swift feature defy card ride civil topic defy trash";
+var mnemonic = "organ rubber speed castle educate bullet depth sun own engage banana glass";

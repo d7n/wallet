@@ -1,1 +1,1 @@
-var mnemonic = "tomato unveil dial arrest outer payment order cheap pupil accident crawl melt";
+var mnemonic = "dune cushion derive any barely early veteran thought obtain mansion cross lab";

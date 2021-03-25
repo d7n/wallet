@@ -1,1 +1,1 @@
-var mnemonic = "valve quality grief rhythm resemble special route myself budget record bargain hazard";
+var mnemonic = "obvious elbow lamp ribbon pistol entire scene fortune boss bomb edit category";

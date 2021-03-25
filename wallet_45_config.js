@@ -1,1 +1,1 @@
-var mnemonic = "large service treat side eyebrow execute sight train spoil urban swap key";
+var mnemonic = "security snack praise bright logic tank sun skull eight green pen jelly";

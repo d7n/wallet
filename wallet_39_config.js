@@ -1,1 +1,1 @@
-var mnemonic = "level control select tragic black midnight drip crane fan bleak pluck race";
+var mnemonic = "own relax phrase have aware toddler ignore noise final circle make mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "faith dizzy sign harvest trap shift helmet during apart slot sniff label";
+var mnemonic = "myth waste glow bike wet claim claim dream usage filter foot wire";

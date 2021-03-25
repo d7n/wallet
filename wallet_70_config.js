@@ -1,1 +1,1 @@
-var mnemonic = "mirror display index base random response candy egg key whisper pizza beef";
+var mnemonic = "magnet force unusual before body goddess fuel problem supreme pattern boil walnut";

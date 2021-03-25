@@ -1,1 +1,1 @@
-var mnemonic = "ranch nest release style october cable element action lemon attitude reflect wear";
+var mnemonic = "battle river exit speed erase walnut pause purity pen air range priority";

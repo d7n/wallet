@@ -1,1 +1,1 @@
-var mnemonic = "fancy fix pupil cheap wedding receive cruise village test filter ice cash";
+var mnemonic = "eager mimic use tumble opinion lazy embrace patrol talk soccer melody inquiry";

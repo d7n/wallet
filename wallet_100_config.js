@@ -1,1 +1,1 @@
-var mnemonic = "mosquito typical vapor pledge common auction recall until legal able top keep";
+var mnemonic = "engine use verify miracle horn fatal potato reveal drama joy space between";

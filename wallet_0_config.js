@@ -1,1 +1,1 @@
-var mnemonic = "today base universe control road job evidence impose relax economy bamboo uphold";
+var mnemonic = "oyster panther pipe enrich friend kingdom olive double trouble cart retire cause";

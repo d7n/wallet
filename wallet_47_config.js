@@ -1,1 +1,1 @@
-var mnemonic = "note surface concert nature expire oak night ceiling panther vacant fit wing";
+var mnemonic = "dolphin also oppose eye crawl blood course frequent ladder barrel mail race";

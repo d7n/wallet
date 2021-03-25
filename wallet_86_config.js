@@ -1,1 +1,1 @@
-var mnemonic = "notice lunar travel online order eye fog crucial month upper deposit mandate";
+var mnemonic = "alter dinosaur inmate bone onion excess spell this expose crash trim two";

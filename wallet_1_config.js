@@ -1,1 +1,1 @@
-var mnemonic = "fabric patient ill rely crack market skirt toss miss chaos purity hungry";
+var mnemonic = "spawn better leisure glare taxi post secret wave judge route rival bundle";

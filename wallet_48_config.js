@@ -1,1 +1,1 @@
-var mnemonic = "gentle puzzle mass radio merry choice text oppose genre visit effort text";
+var mnemonic = "enrich mother fog column game fluid load alert extra quantum primary deliver";

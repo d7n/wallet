@@ -1,1 +1,1 @@
-var mnemonic = "gauge silent false thumb whisper carry salute strong about system dirt noodle";
+var mnemonic = "palm brother bulb magnet media cable decade leisure park march inquiry winter";

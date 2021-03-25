@@ -1,1 +1,1 @@
-var mnemonic = "innocent lottery winner daring witness carry chalk oil grow illegal fatal excess";
+var mnemonic = "common mirror drip worry run moment enforce lamp violin left island abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "then peasant dignity salt main myself green enjoy lucky make poverty perfect";
+var mnemonic = "normal tell sail census liquid legend sunny cube valley girl monitor club";

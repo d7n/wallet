@@ -1,1 +1,1 @@
-var mnemonic = "steak near cargo reveal guard broken visit surge era famous antenna visa";
+var mnemonic = "profit little include figure furnace panel box song antenna chunk damp success";

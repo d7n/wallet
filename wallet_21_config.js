@@ -1,1 +1,1 @@
-var mnemonic = "symbol fluid nation flavor galaxy labor turkey brisk surprise mimic hill record";
+var mnemonic = "detect treat ethics unusual tumble sadness brown ten have saddle detail tragic";

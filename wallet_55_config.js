@@ -1,1 +1,1 @@
-var mnemonic = "marriage upon expand medal cook noodle great proof deal nut pupil mask";
+var mnemonic = "mesh blouse give situate peace resist identify expand essence expire robot popular";

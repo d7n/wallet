@@ -1,1 +1,1 @@
-var mnemonic = "bean fluid butter extend almost artwork swap ritual quit main rough shuffle";
+var mnemonic = "fade essay yellow velvet island reason tissue burden witness galaxy nurse ready";

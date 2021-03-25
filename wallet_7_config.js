@@ -1,1 +1,1 @@
-var mnemonic = "mesh wall sort roast rent town hat west repeat man half sea";
+var mnemonic = "similar year farm find reform traffic modify pioneer very caught worth cruel";

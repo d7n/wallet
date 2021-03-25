@@ -1,1 +1,1 @@
-var mnemonic = "solution hole salt make gorilla mom mixed ribbon man fabric jewel danger";
+var mnemonic = "kitchen city stick season runway adjust print sausage able attend huge dentist";

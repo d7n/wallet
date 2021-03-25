@@ -1,1 +1,1 @@
-var mnemonic = "fatigue safe tortoise else conduct then afraid buzz awkward agree rigid brave";
+var mnemonic = "claw receive crowd report pottery juice tone habit water harvest artefact affair";

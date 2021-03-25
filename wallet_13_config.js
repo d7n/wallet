@@ -1,1 +1,1 @@
-var mnemonic = "obscure vessel other grant ball friend saddle armed text candy heart barrel";
+var mnemonic = "lift idea margin promote pioneer observe inflict grocery ahead silver toilet parade";

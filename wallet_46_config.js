@@ -1,1 +1,1 @@
-var mnemonic = "sad resource trouble fun page call chalk alley fatigue piano stock cousin";
+var mnemonic = "tiny cook dawn tape prevent embody immense pulp afraid clay only begin";

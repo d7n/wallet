@@ -1,1 +1,1 @@
-var mnemonic = "play offer situate next wrestle melt humble tongue pioneer prefer inject forget";
+var mnemonic = "crystal diamond produce tragic success nurse elegant praise fix ancient mother cream";

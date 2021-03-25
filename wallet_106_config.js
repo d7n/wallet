@@ -1,1 +1,1 @@
-var mnemonic = "gospel risk palm brisk field situate display giant feature write trial invite";
+var mnemonic = "mouse theory pill harbor gentle source crater sponsor wear figure rose echo";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction ladder govern maid edge dynamic muscle unusual truth stock fence smoke";
+var mnemonic = "faint cross glue add veteran basket degree mother elegant mobile use mansion";

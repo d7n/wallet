@@ -1,1 +1,1 @@
-var mnemonic = "effort average flock almost suspect acquire sell advice ramp dial often hill";
+var mnemonic = "focus pluck attack stand near nature social talent drama online great clown";

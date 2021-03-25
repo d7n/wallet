@@ -1,1 +1,1 @@
-var mnemonic = "heart infant pattern claim muscle ugly citizen common nature family unknown gaze";
+var mnemonic = "cabbage custom alley volume panic pride today boy frequent viable token nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "season spider muscle deposit guess goose flame educate donor defense infant cliff";
+var mnemonic = "observe weapon bonus leader often crane mimic spirit ocean during write divert";

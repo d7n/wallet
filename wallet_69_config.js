@@ -1,1 +1,1 @@
-var mnemonic = "sadness balcony cool talk material diet swift cycle recipe good blanket breeze";
+var mnemonic = "agree praise zone useless sustain symbol crumble photo royal tilt sniff quarter";

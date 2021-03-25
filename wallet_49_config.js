@@ -1,1 +1,1 @@
-var mnemonic = "pole crouch spoil galaxy artwork cricket camp lecture later push hat problem";
+var mnemonic = "input danger hollow effort finish junior electric loop party lion adapt rare";

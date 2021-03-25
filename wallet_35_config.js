@@ -1,1 +1,1 @@
-var mnemonic = "pet brisk pupil manage eager loyal mix dinosaur comfort salute pool liquid";
+var mnemonic = "exit friend movie patrol ticket forest range turn mad mass beach zoo";

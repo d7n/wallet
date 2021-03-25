@@ -1,1 +1,1 @@
-var mnemonic = "quote demise girl between focus pencil mouse eight upgrade ski flip blast";
+var mnemonic = "fix bone song genius home canoe crazy liar write mind attend shock";

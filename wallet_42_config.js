@@ -1,1 +1,1 @@
-var mnemonic = "april onion puzzle next wash seven final loud crater mouse asthma pluck";
+var mnemonic = "cram cover busy post congress kangaroo laundry leaf discover since angle company";

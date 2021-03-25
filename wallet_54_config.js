@@ -1,1 +1,1 @@
-var mnemonic = "frown spike shrug way monkey glare text syrup nice labor first renew";
+var mnemonic = "kitchen mystery there jaguar any enhance report ring sentence member strong youth";

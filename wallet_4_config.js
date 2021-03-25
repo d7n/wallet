@@ -1,1 +1,1 @@
-var mnemonic = "gym debate theme marble blush image rookie peace shine teach eagle century";
+var mnemonic = "song alter minor input claim measure flush wealth furnace biology fox improve";

@@ -1,1 +1,1 @@
-var mnemonic = "frog royal off sound orient avocado mango payment situate they cancel photo";
+var mnemonic = "dust risk file term surround volume parrot animal fence leader welcome pill";

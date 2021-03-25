@@ -1,1 +1,1 @@
-var mnemonic = "pelican unveil cheese verb calm thrive monitor depart express quiz plunge direct";
+var mnemonic = "stay amateur goat science devote cake village web leisure example category craft";

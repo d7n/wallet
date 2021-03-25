@@ -1,1 +1,1 @@
-var mnemonic = "step skate clean menu belt differ update few attitude title unfair clay";
+var mnemonic = "diesel knife property midnight badge seminar family muscle shoe brain electric track";

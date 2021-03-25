@@ -1,1 +1,1 @@
-var mnemonic = "render chuckle taxi twelve enemy citizen accident globe hover seed hungry heavy";
+var mnemonic = "valve collect island leave weekend churn wear equal choice dice skull lesson";

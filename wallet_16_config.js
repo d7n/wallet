@@ -1,1 +1,1 @@
-var mnemonic = "alarm crazy snow gate plate curve wait valve describe remain injury glance";
+var mnemonic = "want spoil enjoy outside shed give tape pioneer into drip bulb chalk";

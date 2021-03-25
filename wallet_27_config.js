@@ -1,1 +1,1 @@
-var mnemonic = "narrow permit success polar loop bonus opinion romance drum now salmon all";
+var mnemonic = "liar report jealous toy become bind metal injury monster lonely wreck coral";

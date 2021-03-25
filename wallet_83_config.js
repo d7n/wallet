@@ -1,1 +1,1 @@
-var mnemonic = "tobacco infant lift spread machine oil extend shine surround disagree leg uphold";
+var mnemonic = "enhance stuff fun record grief robust wire social wrap acquire inner other";

@@ -1,1 +1,1 @@
-var mnemonic = "miss jewel kangaroo legal enrich moon chuckle fiction life comfort laundry purse";
+var mnemonic = "stereo oil gun fee dog penalty flip much volume road cushion face";

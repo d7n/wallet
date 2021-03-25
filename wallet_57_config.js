@@ -1,1 +1,1 @@
-var mnemonic = "wing post hour tattoo security fork business gap abandon bracket oven fence";
+var mnemonic = "gift seat poem tip frozen torch paper chunk vintage rhythm census chaos";

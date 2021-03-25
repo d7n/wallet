@@ -1,1 +1,1 @@
-var mnemonic = "life genuine island ice ability orange resource there expect oval swear panda";
+var mnemonic = "album soda stool snap person day vessel height combine glue network caution";

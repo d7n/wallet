@@ -1,1 +1,1 @@
-var mnemonic = "feature all sleep engine fabric narrow machine reject market soap mirror busy";
+var mnemonic = "always round answer vapor spare dune tunnel local loud pioneer attitude dove";

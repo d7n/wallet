@@ -1,1 +1,1 @@
-var mnemonic = "slogan ethics shoot method course amazing sample plastic combine piece term morning";
+var mnemonic = "risk art double hockey inhale gloom panda hen merry erode energy egg";

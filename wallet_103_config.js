@@ -1,1 +1,1 @@
-var mnemonic = "confirm knee promote margin apology isolate core school endless travel energy giggle";
+var mnemonic = "three joy announce pull smoke shop control ostrich arrive case hold smile";

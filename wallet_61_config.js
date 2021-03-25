@@ -1,1 +1,1 @@
-var mnemonic = "depend mass gossip cliff seed voice there change motion risk stable inhale";
+var mnemonic = "write odor answer slush cabin verb author echo frame produce field sauce";

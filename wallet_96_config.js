@@ -1,1 +1,1 @@
-var mnemonic = "morning avocado fresh funny truly eager veteran knife noise parade viable fetch";
+var mnemonic = "team owner honey quality wrist best grid jacket between sister expect lake";

@@ -1,1 +1,1 @@
-var mnemonic = "camera balance forest tornado nothing market deposit desk forum diary rifle liar";
+var mnemonic = "smile record cheap rhythm trick spare breeze evil fortune awful quiz worry";

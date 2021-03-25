@@ -1,1 +1,1 @@
-var mnemonic = "beyond food mutual swift punch gravity claw grit picture lucky must eye";
+var mnemonic = "movie oven nose clean road axis rebel lunar expose gift armor ribbon";

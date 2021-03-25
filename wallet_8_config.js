@@ -1,1 +1,1 @@
-var mnemonic = "fuel liberty depth emotion document ethics benefit chalk parent beyond fence buffalo";
+var mnemonic = "insect length light decorate hire bicycle fiction crumble spoil life submit illegal";

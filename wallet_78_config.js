@@ -1,1 +1,1 @@
-var mnemonic = "flock tone episode ten double guide eyebrow bonus giant genre front pyramid";
+var mnemonic = "neglect pet tag tag potato scorpion coil glare brain gauge escape chase";

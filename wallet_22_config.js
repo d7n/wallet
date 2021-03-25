@@ -1,1 +1,1 @@
-var mnemonic = "holiday peace lemon story soldier whisper liquid plug feed demise conduct follow";
+var mnemonic = "gown spawn alpha hen miracle alert stone pull tissue stool depth stove";

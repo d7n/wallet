@@ -1,1 +1,1 @@
-var mnemonic = "extra scare parrot undo story tumble regret arrive give barely comfort slogan";
+var mnemonic = "arena maple curtain draft once among field you cycle remain share sleep";

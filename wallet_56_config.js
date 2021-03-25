@@ -1,1 +1,1 @@
-var mnemonic = "acid fiscal dry blossom busy theme diet all banana lunar mobile excuse";
+var mnemonic = "travel loan cause tennis wild blur chief day search dish ripple neglect";

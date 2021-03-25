@@ -1,1 +1,1 @@
-var mnemonic = "mouse spy food frame cycle void decorate cherry height donate similar alpha";
+var mnemonic = "minimum jelly exhibit range real elephant brown pet trophy oval exclude oven";

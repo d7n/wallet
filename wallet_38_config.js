@@ -1,1 +1,1 @@
-var mnemonic = "cause ridge cattle say must reduce orange leopard hover library ankle keep";
+var mnemonic = "glory delay brisk congress cotton aisle enrich drift attend trend attend tone";

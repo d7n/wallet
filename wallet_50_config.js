@@ -1,1 +1,1 @@
-var mnemonic = "ancient honey long window member brick spread home scare onion quality leader";
+var mnemonic = "stem sport glance entry media urge fatigue file rapid struggle session profit";

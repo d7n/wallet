@@ -1,1 +1,1 @@
-var mnemonic = "cable aerobic marriage dad upon clown canal believe abandon section property west";
+var mnemonic = "correct mercy expire best primary rhythm carry client stamp crush rely album";
