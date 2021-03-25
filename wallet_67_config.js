@@ -1,1 +1,1 @@
-var mnemonic = "concert hen canoe forest hat panther hire skill illness fame demise evidence";
+var mnemonic = "verify weird heavy fantasy strategy empower today wood army surface hover south";

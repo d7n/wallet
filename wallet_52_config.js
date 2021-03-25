@@ -1,1 +1,1 @@
-var mnemonic = "pony fish shove jeans surge update shock slow essence shy guess junk";
+var mnemonic = "moral example can desk void rapid process limit gospel gift group noodle";

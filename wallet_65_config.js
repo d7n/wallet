@@ -1,1 +1,1 @@
-var mnemonic = "eagle summer town gossip cave faith address entry orphan divide decade cloth";
+var mnemonic = "choice genre pupil hollow shy ten lens city crime wing owner satisfy";

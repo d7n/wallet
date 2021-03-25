@@ -1,1 +1,1 @@
-var mnemonic = "cliff slam fix dash system filter meat guilt virtual apart glass brand";
+var mnemonic = "butter outdoor orchard indoor chair clever resource device volume turkey audit illegal";

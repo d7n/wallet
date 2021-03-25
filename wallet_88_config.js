@@ -1,1 +1,1 @@
-var mnemonic = "rubber marble absurd adjust swallow riot start excess convince second harbor core";
+var mnemonic = "exotic exotic surface weather slender brief apology phrase avoid panda height base";

@@ -1,1 +1,1 @@
-var mnemonic = "wage lazy february awful deny spike loan immense lens govern train hope";
+var mnemonic = "question ability bicycle exhaust private hard banner level sentence slim lunch stairs";

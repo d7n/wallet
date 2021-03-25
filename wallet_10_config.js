@@ -1,1 +1,1 @@
-var mnemonic = "grant road carpet royal aerobic grab correct vacant evidence episode never ivory";
+var mnemonic = "valid celery gospel violin network human drama monster over oppose absurd upper";

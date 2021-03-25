@@ -1,1 +1,1 @@
-var mnemonic = "pigeon swallow enforce question employ frog deal chuckle clever grain merit hub";
+var mnemonic = "taxi above rent produce tag wide crisp pumpkin auto evidence rescue decide";

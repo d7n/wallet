@@ -1,1 +1,1 @@
-var mnemonic = "energy then ankle inmate normal crack shy bamboo flame violin spray atom";
+var mnemonic = "gallery monitor dad artwork pistol honey alarm shy wedding crisp repair ethics";

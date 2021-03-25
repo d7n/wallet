@@ -1,1 +1,1 @@
-var mnemonic = "fetch choice debate veteran path opera fortune narrow clever pumpkin orphan pact";
+var mnemonic = "matrix night speed render angle depend stereo damage ahead glide honey detect";

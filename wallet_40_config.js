@@ -1,1 +1,1 @@
-var mnemonic = "elevator strong gather neutral remember squeeze wealth party ankle vault pet day";
+var mnemonic = "brother ordinary twist canvas actress jar item rocket alley violin dawn crouch";

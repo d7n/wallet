@@ -1,1 +1,1 @@
-var mnemonic = "siren fat vicious brother spawn caught elegant run glow rely vast resource";
+var mnemonic = "yellow rail jewel kid answer green half south idea circle buzz capable";

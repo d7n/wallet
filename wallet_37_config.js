@@ -1,1 +1,1 @@
-var mnemonic = "annual oxygen spray short door bulb page answer school aware night novel";
+var mnemonic = "shiver choose victory hope enact test pear borrow illegal ring vibrant alien";

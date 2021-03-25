@@ -1,1 +1,1 @@
-var mnemonic = "vivid grit soon pig earn turtle country medal mesh cigar awful mean";
+var mnemonic = "cake donkey coconut turkey present moon try skate limit you soccer bomb";

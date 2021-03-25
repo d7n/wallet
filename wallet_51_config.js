@@ -1,1 +1,1 @@
-var mnemonic = "flavor alert stage finger grape riot symbol allow walk gauge this mix";
+var mnemonic = "person shallow crisp link turtle monkey scorpion sock about grit lesson whisper";

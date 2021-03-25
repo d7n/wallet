@@ -1,1 +1,1 @@
-var mnemonic = "swap universe cotton they human erode wife alarm tell lady cluster page";
+var mnemonic = "electric social dragon give stomach attitude control dial leisure want ranch salute";

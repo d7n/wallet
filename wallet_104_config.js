@@ -1,1 +1,1 @@
-var mnemonic = "garden easy life salute draw detect snake goat robot tag camp release";
+var mnemonic = "tape oppose enroll catalog moon feel merge start tide master alpha spider";

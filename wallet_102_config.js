@@ -1,1 +1,1 @@
-var mnemonic = "opera color game laptop category flight cactus obscure bundle tree lumber double";
+var mnemonic = "club plate shift hold sea above system affair sphere history oval hunt";

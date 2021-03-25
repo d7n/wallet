@@ -1,1 +1,1 @@
-var mnemonic = "put ten attend rice have public cancel deliver rack inflict please inherit";
+var mnemonic = "kite eyebrow horse fetch ball horse carpet state acoustic filter claim brand";

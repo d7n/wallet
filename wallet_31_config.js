@@ -1,1 +1,1 @@
-var mnemonic = "paper asthma south dirt infant quarter merit inhale divert filter canoe matter";
+var mnemonic = "nerve uphold section pear year split base green estate year doctor fault";

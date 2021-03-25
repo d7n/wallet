@@ -1,1 +1,1 @@
-var mnemonic = "kiss photo mixture coil inspire clock sick image dwarf broccoli orphan resemble";
+var mnemonic = "mention series laugh matter oyster puppy trend sand view citizen cactus book";

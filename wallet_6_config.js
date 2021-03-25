@@ -1,1 +1,1 @@
-var mnemonic = "human suit plastic pupil write ticket apple need segment bamboo aspect sentence";
+var mnemonic = "visa fan buyer gossip arch shrimp dizzy when another wine nut volcano";

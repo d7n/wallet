@@ -1,1 +1,1 @@
-var mnemonic = "regret picture high clean correct day dove suit witness fantasy job demand";
+var mnemonic = "gospel armor spatial lemon select jelly drama strike soft ensure pink pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "click sentence strong awake plunge boss then tomato movie hawk luxury like";
+var mnemonic = "domain behind exhaust shiver divert tortoise salad earn couch welcome marriage parent";

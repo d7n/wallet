@@ -1,1 +1,1 @@
-var mnemonic = "salon smart budget smoke jacket frozen offer sadness good vast width kite";
+var mnemonic = "useless cable creek venue deer humor mean slow guilt large goddess buzz";

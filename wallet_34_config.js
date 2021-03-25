@@ -1,1 +1,1 @@
-var mnemonic = "dial buffalo child gossip dirt modify beef slice spot among test arrange";
+var mnemonic = "accident stock define celery quote say scale stock wait talk kite chat";

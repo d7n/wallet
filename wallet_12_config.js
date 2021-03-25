@@ -1,1 +1,1 @@
-var mnemonic = "biology enable uncover soldier gorilla zebra more century portion board oven modify";
+var mnemonic = "world figure review fatigue toddler lesson monster one delay plate muffin another";

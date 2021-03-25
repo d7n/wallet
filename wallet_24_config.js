@@ -1,1 +1,1 @@
-var mnemonic = "orange suit share rifle hurt save panel decorate hungry horror brave rail";
+var mnemonic = "cluster cargo retreat eagle adapt smile soup dial vocal ancient alpha pudding";

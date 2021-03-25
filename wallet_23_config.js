@@ -1,1 +1,1 @@
-var mnemonic = "gate intact uncle suffer mystery heart ritual upon actual panel industry net";
+var mnemonic = "print street anxiety soul mango kid drama chaos rug magnet robust order";

@@ -1,1 +1,1 @@
-var mnemonic = "subway nasty rude wide join horse energy design capable acquire insane trade";
+var mnemonic = "brass exclude cash common expand find food silent empty hen flame sweet";

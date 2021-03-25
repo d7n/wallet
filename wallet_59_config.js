@@ -1,1 +1,1 @@
-var mnemonic = "stomach between festival math punch express inquiry city excess blossom change suffer";
+var mnemonic = "buffalo ugly antique perfect edge cinnamon close enter dose sauce print fever";

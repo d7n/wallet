@@ -1,1 +1,1 @@
-var mnemonic = "uphold vibrant usual steel enjoy fancy heart jungle deny ride garbage boost";
+var mnemonic = "talk soda weapon search distance laugh inject analyst tired dumb harvest seek";

@@ -1,1 +1,1 @@
-var mnemonic = "damp walnut expand soon person shove rescue vivid business elephant humble burst";
+var mnemonic = "asset damage soon mixed suit drastic license scorpion arrange release peasant attend";

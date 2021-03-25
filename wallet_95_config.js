@@ -1,1 +1,1 @@
-var mnemonic = "road sponsor exile upset kingdom avoid blast weasel drama modify settle soldier";
+var mnemonic = "donate timber lake search inmate sauce junior ocean moral retreat pumpkin spoil";

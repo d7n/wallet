@@ -1,1 +1,1 @@
-var mnemonic = "dwarf insane theory glue because repeat village marine exhaust arrow ostrich ability";
+var mnemonic = "van three genuine south reject river gospel humor loyal depend between aspect";

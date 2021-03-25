@@ -1,1 +1,1 @@
-var mnemonic = "cheese despair roast wheel sign express prize pistol produce true crowd result";
+var mnemonic = "wreck fitness penalty suit abuse section patient pumpkin pig bus burst cat";

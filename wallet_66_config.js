@@ -1,1 +1,1 @@
-var mnemonic = "jacket abuse toss can laugh curve chimney correct creek shy exhaust grape";
+var mnemonic = "fault popular expose light capable dragon disagree blossom lumber key like bar";

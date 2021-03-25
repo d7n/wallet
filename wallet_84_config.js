@@ -1,1 +1,1 @@
-var mnemonic = "quote kangaroo trip shy coil barely hunt adult sauce artwork canal fatigue";
+var mnemonic = "modify girl worry inflict hint odor increase math iron dawn bridge bullet";

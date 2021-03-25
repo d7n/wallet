@@ -1,1 +1,1 @@
-var mnemonic = "solution leisure era start pact april author mail admit position argue version";
+var mnemonic = "robot repair yard wood afraid endorse gold ice skate visual odor expand";

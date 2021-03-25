@@ -1,1 +1,1 @@
-var mnemonic = "junior ghost gloom expand wait oxygen pole galaxy fog document blue attitude";
+var mnemonic = "village seek together course when make equal grace senior eagle save hip";

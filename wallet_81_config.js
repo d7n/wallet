@@ -1,1 +1,1 @@
-var mnemonic = "popular width you neglect hub client sock few scorpion script dial skull";
+var mnemonic = "pudding habit cancel inherit keen ginger palace broom eight brain know novel";

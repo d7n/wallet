@@ -1,1 +1,1 @@
-var mnemonic = "arrange taste soldier inform brave derive pond gun glance payment divorce fruit";
+var mnemonic = "maid divorce double become cost syrup embrace bitter praise prevent grab express";

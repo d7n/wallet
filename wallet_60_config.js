@@ -1,1 +1,1 @@
-var mnemonic = "huge clip small indoor buzz base risk sauce happy actor start author";
+var mnemonic = "coast travel half myself pulse local either bread reduce journey heart end";

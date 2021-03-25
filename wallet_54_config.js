@@ -1,1 +1,1 @@
-var mnemonic = "exchange stick net awkward eagle car metal company solar sweet merit cute";
+var mnemonic = "brave game core abandon chef session monitor wheat usual defense light sign";

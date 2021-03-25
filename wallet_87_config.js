@@ -1,1 +1,1 @@
-var mnemonic = "dry unit lawn gospel ensure slim junior swift bird east raccoon fancy";
+var mnemonic = "stool also speak stay thunder push surprise paper desert tool aisle dance";

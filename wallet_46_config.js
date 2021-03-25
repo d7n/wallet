@@ -1,1 +1,1 @@
-var mnemonic = "alone tag panic obvious upgrade ugly stone remember hero address proud boss";
+var mnemonic = "donor sadness fence evoke post history deny topic sting letter two insect";

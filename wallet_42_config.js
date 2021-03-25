@@ -1,1 +1,1 @@
-var mnemonic = "arm eager cave ghost noise frown price vanish subject destroy wasp ceiling";
+var mnemonic = "else tomato tackle help below system fire manual few usage spoil elite";

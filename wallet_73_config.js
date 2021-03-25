@@ -1,1 +1,1 @@
-var mnemonic = "fabric smile trash salad quiz venue track spot crop beyond gun erosion";
+var mnemonic = "six imitate endless marine around sauce caught capable trash road forward fiscal";

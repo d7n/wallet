@@ -1,1 +1,1 @@
-var mnemonic = "adjust soul question enroll build erase saddle immense curious blur juice soon";
+var mnemonic = "crucial pull book already science exercise decline divorce palm crystal citizen eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "process gap club gorilla foil ticket hill cushion save coil arctic ginger";
+var mnemonic = "square kiss soccer pumpkin second coin age year hub wise erode client";

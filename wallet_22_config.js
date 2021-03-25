@@ -1,1 +1,1 @@
-var mnemonic = "barrel benefit alien olive service middle measure used caution link pulp battle";
+var mnemonic = "real metal sure kiwi return dolphin bundle tourist lunch swamp stool laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "eight else movie release idea essay relief bar unit brother frame utility";
+var mnemonic = "result obvious hockey hospital lake grass never day ordinary gather black squirrel";

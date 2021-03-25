@@ -1,1 +1,1 @@
-var mnemonic = "solution motor blouse item plate traffic cricket fox include bike mountain human";
+var mnemonic = "absurd west almost slice beef option welcome wear glad wink hint series";

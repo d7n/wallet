@@ -1,1 +1,1 @@
-var mnemonic = "tiger forum prevent festival tooth cannon jelly process motor cash tongue report";
+var mnemonic = "false phone wage until piano glass unfold energy fuel border mirror force";

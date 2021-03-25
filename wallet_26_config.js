@@ -1,1 +1,1 @@
-var mnemonic = "child train urge voyage brain double retreat file name record apple neck";
+var mnemonic = "come gravity blur village million news comfort luxury suffer unique fun message";

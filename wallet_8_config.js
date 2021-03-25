@@ -1,1 +1,1 @@
-var mnemonic = "media print thought sound version sense curve matrix exit antenna initial torch";
+var mnemonic = "fire primary walk kiwi hundred scene castle boring salmon planet surround office";

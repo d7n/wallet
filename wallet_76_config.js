@@ -1,1 +1,1 @@
-var mnemonic = "turn virus girl embrace purity guitar spirit clarify wrap road field grow";
+var mnemonic = "hotel canyon forest story hungry fatigue width century chef airport animal series";

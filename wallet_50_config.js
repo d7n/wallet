@@ -1,1 +1,1 @@
-var mnemonic = "about dress domain switch hunt laugh athlete scheme water two park ridge";
+var mnemonic = "coconut morning slam beef success fault moon gas olympic purchase detail awkward";

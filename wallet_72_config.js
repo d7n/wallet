@@ -1,1 +1,1 @@
-var mnemonic = "boost plastic upon consider calm gown push forest pattern slam acquire advice";
+var mnemonic = "burger voice rescue gorilla major future cram cousin clarify fragile leaf tent";

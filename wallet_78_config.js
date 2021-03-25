@@ -1,1 +1,1 @@
-var mnemonic = "used genius morning enjoy remember tourist inmate attract erode trade radio cattle";
+var mnemonic = "mother early rain bunker naive nasty raven between mix spin draft burden";

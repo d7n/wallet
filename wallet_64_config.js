@@ -1,1 +1,1 @@
-var mnemonic = "sauce high member oval excess result brand diamond moral stock afraid advance";
+var mnemonic = "view coffee treat ripple family advice depart use like siege sunset settle";

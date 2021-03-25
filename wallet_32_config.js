@@ -1,1 +1,1 @@
-var mnemonic = "swamp cry tip fringe welcome fossil breeze buddy affair quick craft radar";
+var mnemonic = "child hope horror insect dumb total type violin lizard skate disease host";

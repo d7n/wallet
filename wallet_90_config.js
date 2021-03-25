@@ -1,1 +1,1 @@
-var mnemonic = "crunch bone fatigue plunge iron method uphold omit belt wage feature essay";
+var mnemonic = "photo wear tunnel chronic giggle spike play fish plug clay series north";

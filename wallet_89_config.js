@@ -1,1 +1,1 @@
-var mnemonic = "metal again banner decade clarify chase sadness snack humble worry inch version";
+var mnemonic = "thought chat speak ill swear marine correct convince sudden reduce catalog hint";

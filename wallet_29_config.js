@@ -1,1 +1,1 @@
-var mnemonic = "debate olympic scale zero eyebrow correct shove main hand lemon cart deny";
+var mnemonic = "thought beach cherry erosion coast license hurt ritual quiz bracket drastic cluster";

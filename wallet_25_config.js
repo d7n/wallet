@@ -1,1 +1,1 @@
-var mnemonic = "strategy attitude depend fancy meadow mix proof once mad rebel modify fashion";
+var mnemonic = "bracket coconut alter work wild cotton item spend month kidney mix trumpet";

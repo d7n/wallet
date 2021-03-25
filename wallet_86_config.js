@@ -1,1 +1,1 @@
-var mnemonic = "give priority subject month poverty shove notable fluid advance match state fragile";
+var mnemonic = "stadium device december fatal half maid obey art guard lock ticket person";

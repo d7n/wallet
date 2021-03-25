@@ -1,1 +1,1 @@
-var mnemonic = "edge foot woman school bargain fluid history mansion make rapid choice issue";
+var mnemonic = "dutch submit dash machine hungry ancient mass ranch route bring month village";

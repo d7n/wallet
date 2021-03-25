@@ -1,1 +1,1 @@
-var mnemonic = "cement vacuum author glimpse luggage notable spell thought ticket bundle rescue lounge";
+var mnemonic = "cheap enter solar feed vapor nut use salt another speak tiger decade";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm avoid weapon arm sword frame panic vault error wife train slush";
+var mnemonic = "logic tool grow timber trouble guess virtual junior season winner motor city";

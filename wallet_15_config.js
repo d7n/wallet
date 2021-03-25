@@ -1,1 +1,1 @@
-var mnemonic = "surprise soda transfer search satisfy apple feature match shoe scan keep critic";
+var mnemonic = "million supreme poem clean nasty steel scrap valley slim stem laptop deer";

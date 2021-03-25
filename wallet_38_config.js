@@ -1,1 +1,1 @@
-var mnemonic = "hospital arrange happy sister execute stable riot approve genuine industry knock lawn";
+var mnemonic = "whale symbol divorce learn gentle horror symbol excuse phone west wise cheese";

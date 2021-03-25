@@ -1,1 +1,1 @@
-var mnemonic = "timber forest trouble leaf abstract glass dynamic hidden ocean danger borrow bulk";
+var mnemonic = "harsh solution diet taste pottery volume swarm confirm ring cook weasel enter";

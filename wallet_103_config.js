@@ -1,1 +1,1 @@
-var mnemonic = "guide aerobic large snack joke raise alien scout creek become congress arm";
+var mnemonic = "glance crunch happy alley nice lottery parent display large wild square trophy";

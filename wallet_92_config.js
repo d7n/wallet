@@ -1,1 +1,1 @@
-var mnemonic = "tortoise spell about cinnamon oxygen zone theme flame keen antique slab waste";
+var mnemonic = "basic jealous come palace news just put exit riot limit zero under";

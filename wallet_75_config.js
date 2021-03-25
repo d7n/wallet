@@ -1,1 +1,1 @@
-var mnemonic = "slot coast zebra canvas world buyer clutch raise embark author achieve praise";
+var mnemonic = "panel sample always credit already glory clarify chat love flash engine define";

@@ -1,1 +1,1 @@
-var mnemonic = "salute dirt cotton shoot swarm collect noise bracket asthma approve art relief";
+var mnemonic = "rich program auction outside kid employ chuckle trouble measure pulse blind short";

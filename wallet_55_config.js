@@ -1,1 +1,1 @@
-var mnemonic = "bicycle velvet truck normal flame acquire uphold walnut wrap chalk heart current";
+var mnemonic = "ball mammal polar mind reopen guard category person labor decide palm ridge";

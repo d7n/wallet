@@ -1,1 +1,1 @@
-var mnemonic = "dolphin innocent off enroll remind daughter jewel uphold scrap actual carry monkey";
+var mnemonic = "away breeze accuse alley ice shallow behave field advance service panda glare";

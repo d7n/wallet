@@ -1,1 +1,1 @@
-var mnemonic = "patch live table empty find mercy song piece east resource vague unlock";
+var mnemonic = "harsh coyote flag guide slight mouse faint steel negative delay narrow iron";

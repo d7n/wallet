@@ -1,1 +1,1 @@
-var mnemonic = "divorce crop dice bulk warfare eternal roof arch prepare card away river";
+var mnemonic = "release tribe health arch amount oil seat october donate awful lumber raven";

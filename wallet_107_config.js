@@ -1,1 +1,1 @@
-var mnemonic = "blossom art mansion tragic top network defense roast have inner tree script";
+var mnemonic = "solve unit enjoy smoke whisper say forum essence dad argue congress rotate";

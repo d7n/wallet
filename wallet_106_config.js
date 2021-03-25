@@ -1,1 +1,1 @@
-var mnemonic = "grant sunny dish scrap arrive rough borrow unhappy later plate lounge refuse";
+var mnemonic = "test can name length satisfy oxygen squirrel vivid captain pull slot drink";

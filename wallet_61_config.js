@@ -1,1 +1,1 @@
-var mnemonic = "salmon tuition ignore broken test young entry resource marriage into boost remember";
+var mnemonic = "tonight cycle hundred region oven large account pepper hurdle cliff theory close";

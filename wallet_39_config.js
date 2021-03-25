@@ -1,1 +1,1 @@
-var mnemonic = "pill doll service update addict reward car air essence scout congress define";
+var mnemonic = "alter crush joy obey collect hedgehog rice advice auto also view brand";

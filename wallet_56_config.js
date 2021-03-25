@@ -1,1 +1,1 @@
-var mnemonic = "charge topic horror pledge until output soda expire parade rhythm drift humble";
+var mnemonic = "canoe mixture turkey donate royal follow card grit inmate clock juice sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "minor beyond eternal mystery inhale unaware student myth odor monster memory phone";
+var mnemonic = "broccoli wash virus misery such cousin fault liberty pigeon blood budget fortune";

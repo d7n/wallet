@@ -1,1 +1,1 @@
-var mnemonic = "kitchen inch donor other topple guilt awesome fiber letter flag build limit";
+var mnemonic = "alone theme winter today february february group business clarify train flower math";

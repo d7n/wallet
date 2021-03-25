@@ -1,1 +1,1 @@
-var mnemonic = "produce limb donkey foam enemy flame fluid text outdoor whale nice square";
+var mnemonic = "attract siren motor track afraid ship apart all wild spend rival furnace";

@@ -1,1 +1,1 @@
-var mnemonic = "high sleep task celery sing anchor random frame cash shop drum slim";
+var mnemonic = "horse future powder express smile learn boring property risk neck neither diary";

@@ -1,1 +1,1 @@
-var mnemonic = "mother genuine balcony fortune sad derive sad buyer music ranch fat minimum";
+var mnemonic = "senior gauge melody castle essay swim butter kid sock coast need minimum";

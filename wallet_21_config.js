@@ -1,1 +1,1 @@
-var mnemonic = "heart gate reopen involve pen enact please admit lyrics afford secret drift";
+var mnemonic = "chunk lesson valid nose camp venue latin auto vote sense capable prepare";

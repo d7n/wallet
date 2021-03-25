@@ -1,1 +1,1 @@
-var mnemonic = "marble beef bounce task citizen add physical rubber release zoo melody uncover";
+var mnemonic = "cigar veteran reason job someone frozen enter simple expose blouse century box";

@@ -1,1 +1,1 @@
-var mnemonic = "hover smoke add spike give deposit wish grape expand honey home faith";
+var mnemonic = "feature execute razor umbrella exit wrap device priority length please spot misery";

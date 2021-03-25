@@ -1,1 +1,1 @@
-var mnemonic = "absorb give grass very best strike unique tiger trip kite behave trouble";
+var mnemonic = "vanish infant pair acoustic funny scissors rocket disorder release void lunch vague";
