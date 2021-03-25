@@ -1,1 +1,1 @@
-var mnemonic = "tell innocent penalty ancient clip access midnight clump require ride apple opinion";
+var mnemonic = "need kitchen ankle gold marriage funny test grace warrior main void inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "silent deputy knee west typical school wink meat resource blind equal help";
+var mnemonic = "grace leave sniff boat evidence pull pledge build survey manage bench power";

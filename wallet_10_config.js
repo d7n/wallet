@@ -1,1 +1,1 @@
-var mnemonic = "forest vital used digital hole strike sell brave alarm exercise warrior hat";
+var mnemonic = "own regular audit economy rather echo luxury gown proof until media host";

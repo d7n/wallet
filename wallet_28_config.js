@@ -1,1 +1,1 @@
-var mnemonic = "slight novel muffin seek frozen verify angle horror regular solar envelope crew";
+var mnemonic = "merit better market moral you music recall aspect youth record amateur story";

@@ -1,1 +1,1 @@
-var mnemonic = "sea second clap talent shy belt hungry wrestle say friend local cycle";
+var mnemonic = "rely ask goose length inmate north judge few olympic cereal virtual cable";

@@ -1,1 +1,1 @@
-var mnemonic = "famous chicken weapon spatial similar naive very grab balance upset gate hour";
+var mnemonic = "evolve curtain word judge tongue assume fitness artist tenant battle verb obey";

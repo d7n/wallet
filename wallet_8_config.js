@@ -1,1 +1,1 @@
-var mnemonic = "between dilemma fossil canyon spoon auction ancient erosion force candy shield pulse";
+var mnemonic = "review flavor twin trim around crouch appear swim stone afford board mistake";

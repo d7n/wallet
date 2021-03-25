@@ -1,1 +1,1 @@
-var mnemonic = "cat inflict acoustic symbol giggle coil dose march long dutch govern ready";
+var mnemonic = "cigar place omit envelope toe promote duty father music claim tuition enlist";

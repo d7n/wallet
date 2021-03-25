@@ -1,1 +1,1 @@
-var mnemonic = "cage badge urban north useful tomato smoke actress below solve talk snake";
+var mnemonic = "image negative oyster license swift between monster curtain clinic page large share";

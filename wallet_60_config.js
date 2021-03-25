@@ -1,1 +1,1 @@
-var mnemonic = "prepare chuckle dash now climb valley theme nothing scrub equip pave hope";
+var mnemonic = "give mask ready unable embody friend orient chat diesel client cousin tornado";

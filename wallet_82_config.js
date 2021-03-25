@@ -1,1 +1,1 @@
-var mnemonic = "evil broom kind soldier adapt suit travel clutch lion genius forum salute";
+var mnemonic = "mimic wait promote tragic beyond tilt wonder eyebrow project live bullet exist";

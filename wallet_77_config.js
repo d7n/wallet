@@ -1,1 +1,1 @@
-var mnemonic = "moral shove sweet hurt dinosaur exact rib pigeon address dismiss tip recipe";
+var mnemonic = "dress ripple bomb inject switch render travel bulk work bonus gather wagon";

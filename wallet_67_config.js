@@ -1,1 +1,1 @@
-var mnemonic = "finish achieve crack awesome ridge deny soup plastic exhibit include garment churn";
+var mnemonic = "tag couple symptom cousin message advance false lawsuit spend grunt shop another";

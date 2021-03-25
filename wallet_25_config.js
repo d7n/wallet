@@ -1,1 +1,1 @@
-var mnemonic = "penalty bonus buzz hockey intact dinner solve theory analyst keep melody garbage";
+var mnemonic = "hire grunt real program camp deer stick matrix impose access season turtle";

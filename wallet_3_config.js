@@ -1,1 +1,1 @@
-var mnemonic = "dutch skin panda sure bread member buddy notice gown city slush market";
+var mnemonic = "second response rebuild bone inside ring perfect label impact follow drastic awful";

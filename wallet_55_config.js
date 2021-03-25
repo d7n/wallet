@@ -1,1 +1,1 @@
-var mnemonic = "mango injury bring snake wall chicken pet ceiling calm month flat whisper";
+var mnemonic = "column calm fresh sweet unusual search cheese october mad device exact bus";

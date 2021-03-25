@@ -1,1 +1,1 @@
-var mnemonic = "car tragic pride law hope dignity cube cement luxury cute nuclear buzz";
+var mnemonic = "sure quiz camera quick drama pistol brother trap before race steel clerk";

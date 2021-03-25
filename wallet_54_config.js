@@ -1,1 +1,1 @@
-var mnemonic = "injury regret project path record tumble nerve toilet trend struggle hair meat";
+var mnemonic = "rain cable project profit suspect early peasant entire syrup device panda pattern";

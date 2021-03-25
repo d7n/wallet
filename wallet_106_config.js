@@ -1,1 +1,1 @@
-var mnemonic = "omit invite roast language cat arrow day exchange come asthma fiction two";
+var mnemonic = "essence tackle caught spring dragon misery gesture apart clump blur slide ill";

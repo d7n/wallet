@@ -1,1 +1,1 @@
-var mnemonic = "smoke soda warrior debate blur imitate wire royal quote offer wild sail";
+var mnemonic = "pair risk doctor begin luggage energy pig wide forget settle satisfy slight";

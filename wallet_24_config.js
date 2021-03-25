@@ -1,1 +1,1 @@
-var mnemonic = "desert fiber wheat tired eyebrow one oval dream parrot tattoo scan surge";
+var mnemonic = "people grunt salt angry often fish joy purse foil junk chase glory";

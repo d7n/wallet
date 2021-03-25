@@ -1,1 +1,1 @@
-var mnemonic = "jelly fence chaos front cliff poem refuse distance spike will empty vacant";
+var mnemonic = "fabric dawn forum violin stool will legend theme remind loan stadium endless";

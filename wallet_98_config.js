@@ -1,1 +1,1 @@
-var mnemonic = "rail scorpion thank master taste earn faculty almost basket fog nuclear stick";
+var mnemonic = "cabin world include proof bus erase hedgehog guard bean raise army permit";

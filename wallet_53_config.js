@@ -1,1 +1,1 @@
-var mnemonic = "plunge mango install vote science surface delay foster cram before slam alcohol";
+var mnemonic = "way digital vanish inform unaware slush number fine inmate boss tired game";

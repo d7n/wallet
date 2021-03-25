@@ -1,1 +1,1 @@
-var mnemonic = "marine bomb shallow repeat ready ring possible gadget tray shop scrap review";
+var mnemonic = "bulk property resource demand salmon iron web town jar sight profit festival";

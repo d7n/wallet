@@ -1,1 +1,1 @@
-var mnemonic = "hurry sniff notable dumb course envelope brisk pole refuse version artwork onion";
+var mnemonic = "girl side join buyer pottery sausage chef meadow make funny course brave";

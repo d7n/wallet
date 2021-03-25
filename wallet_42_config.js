@@ -1,1 +1,1 @@
-var mnemonic = "sister clarify meadow dignity urge front guess rabbit steel duck tilt gauge";
+var mnemonic = "skirt spend bread husband fitness unaware street example endless wheat source entry";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz govern mercy art pulp palace museum harbor deputy music stairs connect";
+var mnemonic = "bean keep medal move pave lucky dream bless winner accuse front weekend";

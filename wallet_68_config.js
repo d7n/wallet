@@ -1,1 +1,1 @@
-var mnemonic = "cute mask document trust west furnace whisper desert scrub elbow virus bulk";
+var mnemonic = "train drop dash radar prosper medal always budget crumble word ethics evil";

@@ -1,1 +1,1 @@
-var mnemonic = "chest lizard final enter shaft finish fortune write wagon floor journey coach";
+var mnemonic = "night season proud shield capable embrace ceiling scatter piece source inquiry husband";

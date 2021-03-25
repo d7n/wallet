@@ -1,1 +1,1 @@
-var mnemonic = "wait hawk clutch couch appear gold shoot curtain display inquiry museum fence";
+var mnemonic = "size total simple fiction mother mountain leisure dish nominee fortune material evolve";

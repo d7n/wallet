@@ -1,1 +1,1 @@
-var mnemonic = "bird reform bike arm poet now step noodle web april carpet curve";
+var mnemonic = "resemble nice fever warm senior creek turn hidden expand egg error raven";

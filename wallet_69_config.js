@@ -1,1 +1,1 @@
-var mnemonic = "clip glove end plug outdoor brand junior welcome sword thunder omit comfort";
+var mnemonic = "danger cable metal arena idle board track amazing tackle try ramp cereal";

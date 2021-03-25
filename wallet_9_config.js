@@ -1,1 +1,1 @@
-var mnemonic = "only rotate smile parrot egg lawn other letter margin odor abstract cry";
+var mnemonic = "refuse valley wagon fitness foster possible lesson fire atom junior element blood";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer royal soap tackle cruel elephant earn wear insect list okay slice";
+var mnemonic = "prosper pencil green column brick spray physical long long sheriff fancy chalk";

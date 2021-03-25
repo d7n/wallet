@@ -1,1 +1,1 @@
-var mnemonic = "have funny idle cheese alter plunge one potato neutral retreat clump dirt";
+var mnemonic = "stock myself kit surprise timber walk shrug tube urban goddess run spell";

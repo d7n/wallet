@@ -1,1 +1,1 @@
-var mnemonic = "rule pioneer mirror insect reason small team kite raccoon hold brisk insect";
+var mnemonic = "world switch key any glide announce silver flat coin swift whale patch";

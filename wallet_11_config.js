@@ -1,1 +1,1 @@
-var mnemonic = "provide taste industry universe reduce enjoy cruel girl among close chicken pitch";
+var mnemonic = "miss tortoise receive unknown orchard use crime eyebrow whip grass impulse invite";

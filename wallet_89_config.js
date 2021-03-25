@@ -1,1 +1,1 @@
-var mnemonic = "flee tower genre refuse armor parrot merge modify side route pipe soccer";
+var mnemonic = "have enemy long orient join easily wheat salt winner country eager liar";

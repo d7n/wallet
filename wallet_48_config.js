@@ -1,1 +1,1 @@
-var mnemonic = "milk genuine sudden state tortoise public toe version cycle circle planet social";
+var mnemonic = "useful gesture disease vessel version bright beach bullet drift sponsor welcome suggest";

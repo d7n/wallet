@@ -1,1 +1,1 @@
-var mnemonic = "truly universe eye bullet slush typical blossom congress siege okay flame canoe";
+var mnemonic = "merit achieve session mixed bone code slush bonus outdoor rate clean fiscal";

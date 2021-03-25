@@ -1,1 +1,1 @@
-var mnemonic = "embrace unable unveil midnight arrange shield notice rifle various jaguar inform sentence";
+var mnemonic = "finger exclude stomach huge print unusual broccoli aisle output vessel soul uphold";

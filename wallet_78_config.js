@@ -1,1 +1,1 @@
-var mnemonic = "vehicle pioneer fine detect language little cheese step alarm quit next spend";
+var mnemonic = "program sand sibling juice vital thank tumble open anger smooth scale pulse";

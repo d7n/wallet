@@ -1,1 +1,1 @@
-var mnemonic = "model stock fabric vocal ribbon arrange budget high path winter enact tray";
+var mnemonic = "spin meat alert cinnamon mind orbit damage cart example renew wear drift";

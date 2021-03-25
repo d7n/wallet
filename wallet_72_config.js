@@ -1,1 +1,1 @@
-var mnemonic = "inmate someone ski time tilt social rural round ceiling teach boil figure";
+var mnemonic = "gym novel supply grace woman cake silk risk surround pumpkin oven ice";

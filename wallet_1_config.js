@@ -1,1 +1,1 @@
-var mnemonic = "search monster cash glance bless tent movie bus shaft shift gorilla raven";
+var mnemonic = "piece frown image peanut hungry isolate joke guard device excess wealth stable";

@@ -1,1 +1,1 @@
-var mnemonic = "deputy derive feed hood kit luxury bright vacant start sponsor second parent";
+var mnemonic = "obscure sea first problem bird popular zebra moral tape spend bundle rib";

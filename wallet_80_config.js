@@ -1,1 +1,1 @@
-var mnemonic = "build right jelly mutual afraid predict train arrest file typical dentist video";
+var mnemonic = "rate purpose daughter agree cook way blind seat pool ecology plunge drip";

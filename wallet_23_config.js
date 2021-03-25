@@ -1,1 +1,1 @@
-var mnemonic = "firm path awkward captain conduct patrol solid isolate rose change spread catalog";
+var mnemonic = "photo memory hobby they card cricket pony join hour wedding lady spring";

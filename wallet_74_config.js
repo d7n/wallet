@@ -1,1 +1,1 @@
-var mnemonic = "tank interest swamp upper tomorrow confirm ceiling cancel maid panic pet emotion";
+var mnemonic = "imitate grunt clog victory soldier hurdle renew elephant section dance midnight taxi";

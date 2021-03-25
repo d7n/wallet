@@ -1,1 +1,1 @@
-var mnemonic = "once program perfect jelly hidden sentence cause lawn faculty actor eager baby";
+var mnemonic = "all toast margin remain excuse crisp almost ridge crane person forget shine";

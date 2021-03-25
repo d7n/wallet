@@ -1,1 +1,1 @@
-var mnemonic = "analyst roof review tide wage cliff motor awesome smooth script hotel way";
+var mnemonic = "arrest mention reject garage easily estate dawn infant property rabbit fence bonus";

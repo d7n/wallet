@@ -1,1 +1,1 @@
-var mnemonic = "tone front favorite spice dumb argue autumn inner height afford climb pencil";
+var mnemonic = "federal auto buyer uphold funny abandon twelve never solution game satisfy riot";

@@ -1,1 +1,1 @@
-var mnemonic = "audit ask large right display warrior hotel can daughter lumber scatter canoe";
+var mnemonic = "pretty napkin giggle woman soap attitude tilt match cannon account unusual absurd";

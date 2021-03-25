@@ -1,1 +1,1 @@
-var mnemonic = "chest balcony open able road base promote emerge prefer giant dance fabric";
+var mnemonic = "about tag gold actual point area type flower curve extend imitate easy";

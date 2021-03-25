@@ -1,1 +1,1 @@
-var mnemonic = "enact author oppose effort morning lazy popular dish stamp base parrot afraid";
+var mnemonic = "person divert hair bubble parrot voice neutral cause excess eternal receive shop";

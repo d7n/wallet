@@ -1,1 +1,1 @@
-var mnemonic = "budget library plug detail enjoy release flush jacket saddle rose east absorb";
+var mnemonic = "style doll rhythm top project solar beauty gap awesome also bounce fatal";

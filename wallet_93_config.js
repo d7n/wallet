@@ -1,1 +1,1 @@
-var mnemonic = "frequent library cupboard jar giraffe pretty toast rookie betray boy novel hobby";
+var mnemonic = "economy chuckle glory pattern subject marble cupboard fault giant define clean unique";

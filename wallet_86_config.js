@@ -1,1 +1,1 @@
-var mnemonic = "regular steak purity father income renew pumpkin gravity stem grass file awful";
+var mnemonic = "dish century brief mixture call glance vintage champion just drift cause direct";

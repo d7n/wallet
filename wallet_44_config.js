@@ -1,1 +1,1 @@
-var mnemonic = "list smile need clinic rule liar sister crawl adjust easily water require";
+var mnemonic = "matrix perfect bargain divert cry together weapon flat assault balance wink fire";

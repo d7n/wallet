@@ -1,1 +1,1 @@
-var mnemonic = "over ocean help reward moment choose connect insect reward tired milk produce";
+var mnemonic = "daughter lava awful museum tooth medal call cheese bike reward motion control";

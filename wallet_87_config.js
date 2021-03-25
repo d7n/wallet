@@ -1,1 +1,1 @@
-var mnemonic = "engage upgrade inner degree metal squeeze essay march stable tag trade indoor";
+var mnemonic = "speed accuse ticket require blouse ugly misery disease task better nerve rebuild";

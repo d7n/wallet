@@ -1,1 +1,1 @@
-var mnemonic = "eternal shed spy tonight enough apart problem blossom course skate man member";
+var mnemonic = "mom trash silent curtain name hungry tower flame napkin nation cabin panic";

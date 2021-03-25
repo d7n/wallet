@@ -1,1 +1,1 @@
-var mnemonic = "where jewel sleep month profit garbage ignore two boy cram come beef";
+var mnemonic = "gate account engage letter equip when spot hint salmon october tobacco save";

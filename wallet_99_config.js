@@ -1,1 +1,1 @@
-var mnemonic = "rain vote cover select reason sample woman fold cruise soap hybrid swim";
+var mnemonic = "please forget cage hollow garment basic solar illness bacon permit again fat";

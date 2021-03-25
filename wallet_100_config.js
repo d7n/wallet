@@ -1,1 +1,1 @@
-var mnemonic = "galaxy sting royal trouble select sorry path tower sting clay define biology";
+var mnemonic = "perfect crew push abstract plunge quit nephew teach clean toe address session";

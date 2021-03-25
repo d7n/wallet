@@ -1,1 +1,1 @@
-var mnemonic = "such rival faculty glove auction fiscal proud throw lesson oil merry vacant";
+var mnemonic = "wonder dragon nice actual call robust section fragile theory buffalo broken broccoli";

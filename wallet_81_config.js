@@ -1,1 +1,1 @@
-var mnemonic = "begin snack three drip orange frame win rug fork current nice fetch";
+var mnemonic = "spice same define dinosaur regret lecture skull rubber design motion odor parrot";

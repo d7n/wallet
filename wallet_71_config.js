@@ -1,1 +1,1 @@
-var mnemonic = "suffer laptop strike deliver ecology diet puzzle debris access uncle pulse spice";
+var mnemonic = "reopen seek board obtain main brown suggest clever insect globe twelve cube";

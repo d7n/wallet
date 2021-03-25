@@ -1,1 +1,1 @@
-var mnemonic = "enhance hub regret first amazing vanish another space wonder deny that rebuild";
+var mnemonic = "squirrel magic future owner access analyst genre sadness naive quality kick absurd";

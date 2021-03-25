@@ -1,1 +1,1 @@
-var mnemonic = "collect twelve soccer verb stumble comfort soft iron detect monitor typical since";
+var mnemonic = "bubble boil attend pride praise tongue account sick hair visual soap december";

@@ -1,1 +1,1 @@
-var mnemonic = "logic flavor wise pipe potato clump lumber desk assist fiction alarm tattoo";
+var mnemonic = "follow maximum acoustic calm initial scene choose dawn museum present opera angry";

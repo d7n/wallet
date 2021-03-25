@@ -1,1 +1,1 @@
-var mnemonic = "assist lounge spoil list aunt horror what shift employ page vacant deputy";
+var mnemonic = "certain distance canyon prison lake review moment guilt raise screen accuse few";

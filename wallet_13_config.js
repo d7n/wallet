@@ -1,1 +1,1 @@
-var mnemonic = "vintage fragile patrol earth major engage token switch scissors argue dream special";
+var mnemonic = "crouch pet dash blast carpet link spoon style iron display actress pluck";

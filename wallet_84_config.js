@@ -1,1 +1,1 @@
-var mnemonic = "service involve neither involve negative shield laundry trick blame simple list world";
+var mnemonic = "method owner social into wrong peanut remind tide flip army harsh lesson";

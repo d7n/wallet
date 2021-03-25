@@ -1,1 +1,1 @@
-var mnemonic = "payment can junior pear vibrant share fade edge peasant account rapid wise";
+var mnemonic = "multiply satoshi elite crowd open donor kiwi outdoor tooth brain wash embark";

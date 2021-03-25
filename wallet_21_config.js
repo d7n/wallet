@@ -1,1 +1,1 @@
-var mnemonic = "faculty sight room foil ramp curve excite hamster antique cat reform creek";
+var mnemonic = "inspire essence fame awake where media jungle season van core slot rabbit";

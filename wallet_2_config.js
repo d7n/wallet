@@ -1,1 +1,1 @@
-var mnemonic = "destroy dress tunnel midnight hamster surprise curious million sick you pride peasant";
+var mnemonic = "tongue void train crane face middle choice problem name figure person believe";

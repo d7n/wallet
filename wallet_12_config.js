@@ -1,1 +1,1 @@
-var mnemonic = "option material rain still agent number file book mountain mirror host creek";
+var mnemonic = "crop safe coil animal country effort analyst shell biology casino system badge";

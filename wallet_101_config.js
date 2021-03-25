@@ -1,1 +1,1 @@
-var mnemonic = "purity dove thumb light general ship undo hover between essay limb warfare";
+var mnemonic = "illegal radar evoke moral dutch unique amused know blood chapter theory finger";

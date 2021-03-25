@@ -1,1 +1,1 @@
-var mnemonic = "depart devote bronze glad dignity excess join river any lamp try hard";
+var mnemonic = "execute raven tip anchor media click keep wrap omit fork super dial";

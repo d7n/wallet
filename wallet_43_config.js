@@ -1,1 +1,1 @@
-var mnemonic = "pill mind winter gather catch doll occur rubber print nut defense update";
+var mnemonic = "quote much know party second pool hard approve cycle drastic present assist";

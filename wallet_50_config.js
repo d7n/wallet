@@ -1,1 +1,1 @@
-var mnemonic = "museum cute bottom actual crucial thunder flush youth mobile damp stomach economy";
+var mnemonic = "snack damage noise exhibit amused skirt apology journey short balcony because cook";

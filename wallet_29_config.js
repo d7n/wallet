@@ -1,1 +1,1 @@
-var mnemonic = "plunge spawn vocal fix zoo soft glance neck rich learn liar afraid";
+var mnemonic = "boring ancient horror first friend lamp squeeze warm confirm best salt horn";

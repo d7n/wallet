@@ -1,1 +1,1 @@
-var mnemonic = "indoor faculty cash april rich slender rescue spend alter style top comfort";
+var mnemonic = "decorate butter skill drama puppy like lemon wall chair dish radar blood";

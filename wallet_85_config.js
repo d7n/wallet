@@ -1,1 +1,1 @@
-var mnemonic = "wolf essence visual camera spend attend lizard alter drama trial suit neglect";
+var mnemonic = "guilt merry school digital loud toast devote film pond shield horn range";

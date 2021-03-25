@@ -1,1 +1,1 @@
-var mnemonic = "oppose imitate cousin stomach journey present escape borrow above try disease innocent";
+var mnemonic = "ten wink swear switch huge neglect license salmon time elbow message autumn";

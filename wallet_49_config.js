@@ -1,1 +1,1 @@
-var mnemonic = "insect spatial matrix zebra sock blood also rule flight sand gravity rug";
+var mnemonic = "always around audit palace water diary elegant lottery laptop small prize man";

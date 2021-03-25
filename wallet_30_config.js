@@ -1,1 +1,1 @@
-var mnemonic = "exhaust million sting caught record today fish wood such present cause tuna";
+var mnemonic = "adjust upgrade later face glass winter shield awesome giant bus excuse father";

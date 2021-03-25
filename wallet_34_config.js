@@ -1,1 +1,1 @@
-var mnemonic = "chef fish receive egg can jar bag myth unique hero honey smile";
+var mnemonic = "hour bamboo permit utility toward cement junk unveil connect chapter piano crowd";

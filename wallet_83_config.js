@@ -1,1 +1,1 @@
-var mnemonic = "dose waste stadium upon chief dove few friend clay people dress else";
+var mnemonic = "glove border album fun naive key enter rack piano recycle broken poverty";

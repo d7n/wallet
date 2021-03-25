@@ -1,1 +1,1 @@
-var mnemonic = "recall small gospel eye disease cabbage obtain jealous knife quote finish minimum";
+var mnemonic = "dismiss clip picture ask umbrella peace stem lake brick forest brisk spot";

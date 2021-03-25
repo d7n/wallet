@@ -1,1 +1,1 @@
-var mnemonic = "assist ecology nurse tennis october bind note alpha west major actress total";
+var mnemonic = "agent staff sad capital assume outdoor gym oppose artist danger follow never";
