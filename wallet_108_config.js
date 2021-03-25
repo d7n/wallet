@@ -1,1 +1,1 @@
-var mnemonic = "wife mass obtain already still wine puppy woman knock mutual cover choose";
+var mnemonic = "divide error mix attend useful enter cliff fine mechanic prepare virtual arrow";

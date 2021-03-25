@@ -1,1 +1,1 @@
-var mnemonic = "regret kingdom disorder insane pride smoke fantasy toilet arrest enemy naive series";
+var mnemonic = "pupil nephew venue proof cloth giraffe liquid side say suit spike cloth";

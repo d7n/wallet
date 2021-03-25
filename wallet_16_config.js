@@ -1,1 +1,1 @@
-var mnemonic = "rice train equal dice digital chaos now wagon expire ritual fossil spoil";
+var mnemonic = "lake park pill forest odor law bid spot swap organ force artist";

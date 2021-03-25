@@ -1,1 +1,1 @@
-var mnemonic = "struggle awake beach oyster devote defy random wisdom lumber ready nothing female";
+var mnemonic = "intact relief bulb absent wasp toilet voyage grace famous enemy nasty jaguar";

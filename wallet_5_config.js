@@ -1,1 +1,1 @@
-var mnemonic = "like ocean stomach pole hamster artefact wonder nice bachelor people limb program";
+var mnemonic = "party glare rotate fun essence warm panda special cheap broken adapt mix";

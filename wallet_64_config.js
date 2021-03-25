@@ -1,1 +1,1 @@
-var mnemonic = "adjust measure mom spawn apology around gesture venture mixture woman flight enroll";
+var mnemonic = "coyote enforce crush crowd daughter shop soup stomach taste waste trade exercise";

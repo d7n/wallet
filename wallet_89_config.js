@@ -1,1 +1,1 @@
-var mnemonic = "about wagon gold vague escape jaguar oppose hurt dad orphan weasel expand";
+var mnemonic = "picture option sunny stuff punch friend push option valve come east style";

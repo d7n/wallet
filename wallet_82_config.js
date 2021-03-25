@@ -1,1 +1,1 @@
-var mnemonic = "rail assume rabbit rice arm spirit merry exile hair reunion ordinary rabbit";
+var mnemonic = "feed ahead yellow visual room bicycle chunk heavy magic warfare heavy eagle";

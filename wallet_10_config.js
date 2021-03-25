@@ -1,1 +1,1 @@
-var mnemonic = "parent anchor phrase relax powder hand case grass border inside habit frown";
+var mnemonic = "alert glimpse barely argue garage razor iron electric assault phone crouch woman";

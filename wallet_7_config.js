@@ -1,1 +1,1 @@
-var mnemonic = "collect process invest seminar bag pluck ill radio blossom exact glad gospel";
+var mnemonic = "voice same state torch stairs wash kind wedding ability duty pear broccoli";

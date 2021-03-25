@@ -1,1 +1,1 @@
-var mnemonic = "direct antique man royal price calm nest guess ocean steel loyal always";
+var mnemonic = "knee help chimney toe priority grief social this people motion finger lock";

@@ -1,1 +1,1 @@
-var mnemonic = "during project argue blade select coach crane kiwi course little gym coin";
+var mnemonic = "language cash helmet hotel mistake fitness shell skin indicate early also fatigue";

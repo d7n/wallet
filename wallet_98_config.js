@@ -1,1 +1,1 @@
-var mnemonic = "hope barely harbor gift mango flip tip lawn fence inspire year left";
+var mnemonic = "frequent bunker crane knee chicken chaos juice cash stereo elegant pulp dynamic";

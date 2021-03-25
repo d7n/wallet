@@ -1,1 +1,1 @@
-var mnemonic = "silver deer shadow this away deny angry arena spot across enter outdoor";
+var mnemonic = "wise oval wink follow wink harsh actor kingdom supreme edit carry gauge";

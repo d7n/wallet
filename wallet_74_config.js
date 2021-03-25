@@ -1,1 +1,1 @@
-var mnemonic = "outer good art taste dawn warfare thing slow evoke much deputy panther";
+var mnemonic = "ordinary atom undo program napkin raven chef devote staff coil base whip";

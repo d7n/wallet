@@ -1,1 +1,1 @@
-var mnemonic = "board route choice humor dwarf panda force network fish arrange throw stock";
+var mnemonic = "army response elite retire cake attitude nerve oyster roast genuine strong across";

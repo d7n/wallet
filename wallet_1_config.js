@@ -1,1 +1,1 @@
-var mnemonic = "grocery frown onion swing sudden seed wait inquiry join region labor logic";
+var mnemonic = "bench siege pilot tell treat obey family list discover laptop spawn fluid";

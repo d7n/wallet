@@ -1,1 +1,1 @@
-var mnemonic = "salon point engine era enact duck wheat tenant wool okay plug innocent";
+var mnemonic = "curtain social convince make supreme address normal strike replace switch monitor bid";

@@ -1,1 +1,1 @@
-var mnemonic = "stem panda filter marine color multiply indoor affair glow seek faint senior";
+var mnemonic = "host find civil movie purpose corn decline accident sword glow absurd castle";

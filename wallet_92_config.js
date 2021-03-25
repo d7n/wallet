@@ -1,1 +1,1 @@
-var mnemonic = "lucky blue spell six erase train message sample adjust mimic bus input";
+var mnemonic = "canal sight pudding learn reunion announce spider clog half swear convince endless";

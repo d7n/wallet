@@ -1,1 +1,1 @@
-var mnemonic = "shadow name twin desert vacuum knife erupt settle yard foam square lesson";
+var mnemonic = "suit joke bacon forum wide awkward service gather sign crawl enlist avoid";

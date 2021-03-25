@@ -1,1 +1,1 @@
-var mnemonic = "endless mail worth click arrow blind siege appear innocent giggle alert ugly";
+var mnemonic = "heavy voice ten entire short rhythm crisp puzzle into width unusual bread";

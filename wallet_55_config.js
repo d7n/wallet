@@ -1,1 +1,1 @@
-var mnemonic = "trouble country cart laptop coin chaos habit key under coach total purpose";
+var mnemonic = "sunny drama border soup situate vanish all invest evoke spawn axis butter";

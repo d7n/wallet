@@ -1,1 +1,1 @@
-var mnemonic = "tobacco either bomb combine catch region broccoli spawn gravity unknown soccer grab";
+var mnemonic = "impact between artefact matter parrot solar kangaroo fly chief subject bonus celery";

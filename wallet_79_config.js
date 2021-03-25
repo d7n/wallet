@@ -1,1 +1,1 @@
-var mnemonic = "sniff credit happy dash canyon warrior frost struggle grass grid end shaft";
+var mnemonic = "fly always famous pair proof swamp welcome level title depth scan once";

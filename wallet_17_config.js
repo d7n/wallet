@@ -1,1 +1,1 @@
-var mnemonic = "ecology daring seed chicken ordinary where minor patient jump battle fold wish";
+var mnemonic = "patient evil join comfort limit coast shield sauce wrist artist chief strategy";

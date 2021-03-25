@@ -1,1 +1,1 @@
-var mnemonic = "giggle estate bird once oxygen whisper grape quit ask speak laundry place";
+var mnemonic = "phone ball donate pilot skate solve silent magic foil clip faculty type";

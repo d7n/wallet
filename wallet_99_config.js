@@ -1,1 +1,1 @@
-var mnemonic = "essay curious jump roast put inside saddle prize biology link wide fatigue";
+var mnemonic = "upon exclude purpose globe key hunt trial vanish slender drop song reform";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly version flash high acid hair kangaroo february scale ladder side goddess";
+var mnemonic = "infant kiwi garbage grocery toward dizzy uniform oak sudden cry strong ski";

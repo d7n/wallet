@@ -1,1 +1,1 @@
-var mnemonic = "weird nature denial giraffe enable innocent embark skate manage foam immune more";
+var mnemonic = "modify they roof cage anxiety warfare note torch later tone gospel weapon";

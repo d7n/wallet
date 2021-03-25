@@ -1,1 +1,1 @@
-var mnemonic = "agent manage fat mushroom discover alarm army output rely goose type glory";
+var mnemonic = "imitate diet egg color curtain pact cute gate exit peanut truth panel";

@@ -1,1 +1,1 @@
-var mnemonic = "install system script promote pet shoe family universe little brush tell smoke";
+var mnemonic = "prize wealth elegant roof name cannon ahead gown bicycle body away earth";

@@ -1,1 +1,1 @@
-var mnemonic = "sound obscure escape witness tag thunder state yellow erase cat local calm";
+var mnemonic = "always crime cluster family quarter leaf sketch curve frequent cost vapor taste";

@@ -1,1 +1,1 @@
-var mnemonic = "cook unhappy risk remove unit install ramp diagram lawsuit desert material that";
+var mnemonic = "swear balance meat custom craft town wing circle flavor sleep glide merge";

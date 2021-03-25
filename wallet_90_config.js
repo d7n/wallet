@@ -1,1 +1,1 @@
-var mnemonic = "dilemma wrap patrol alarm prize vacant foster kind develop artist state inmate";
+var mnemonic = "food abandon cluster border flip hybrid warfare window plunge common suffer carpet";

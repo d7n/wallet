@@ -1,1 +1,1 @@
-var mnemonic = "opinion enter eternal humor season shoot veteran melt grape transfer group scheme";
+var mnemonic = "word orient side ketchup acoustic provide endorse bless token sibling cake again";

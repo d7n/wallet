@@ -1,1 +1,1 @@
-var mnemonic = "home panic armed honey multiply family cushion digital sausage render short economy";
+var mnemonic = "pause eight steel reunion absent drive walk gain enlist lobster deal follow";

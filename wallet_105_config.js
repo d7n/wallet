@@ -1,1 +1,1 @@
-var mnemonic = "decrease also attract hollow throw large announce success main arena story upgrade";
+var mnemonic = "athlete few usage culture runway saddle virus rice execute mesh section omit";

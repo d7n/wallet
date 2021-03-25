@@ -1,1 +1,1 @@
-var mnemonic = "ecology among sauce glimpse treat decrease lounge luxury yard prevent sausage step";
+var mnemonic = "ensure grab rebuild inject soap actress mouse size spread anxiety wine column";

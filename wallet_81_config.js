@@ -1,1 +1,1 @@
-var mnemonic = "tunnel enact river library small urban link solar draw element vital chuckle";
+var mnemonic = "action snow rather multiply offer jealous pass wish struggle regret system tuna";

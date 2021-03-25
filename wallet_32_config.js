@@ -1,1 +1,1 @@
-var mnemonic = "mask pass young frozen clutch adult recipe lake cabin almost earn novel";
+var mnemonic = "other fresh neglect renew olive cost symbol infant square ankle snake off";

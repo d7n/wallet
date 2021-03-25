@@ -1,1 +1,1 @@
-var mnemonic = "inner bulb portion require check review bench opinion general chief poverty faith";
+var mnemonic = "enable public foster prize street debris avoid once decide reduce artist throw";

@@ -1,1 +1,1 @@
-var mnemonic = "junk decorate option certain wisdom scan wet draft six federal trash move";
+var mnemonic = "denial speed vacuum sea solution myth seek noodle above laundry throw message";

@@ -1,1 +1,1 @@
-var mnemonic = "grape transfer brave shell curve flag language slight vacuum ridge program town";
+var mnemonic = "add subway lawn culture fresh notice slam base pioneer crisp hawk traffic";

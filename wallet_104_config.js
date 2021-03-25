@@ -1,1 +1,1 @@
-var mnemonic = "year unit size vibrant deny disagree wolf aerobic unable rural robot quit";
+var mnemonic = "violin pen always example mercy term famous deal labor fluid pause garbage";

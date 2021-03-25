@@ -1,1 +1,1 @@
-var mnemonic = "drink wing rude sweet summer junior slight year spring resource trim female";
+var mnemonic = "ball skirt unveil worry broken aerobic cinnamon oppose dice normal erase sketch";

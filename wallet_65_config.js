@@ -1,1 +1,1 @@
-var mnemonic = "actor cream surprise scatter tooth loyal better base address beyond write head";
+var mnemonic = "chunk detail smile tragic lazy amount fury egg critic mixed garden rhythm";

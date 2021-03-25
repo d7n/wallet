@@ -1,1 +1,1 @@
-var mnemonic = "hold bread common shine pulp head position phone return broccoli orchard swallow";
+var mnemonic = "olive stand field south unfair parade kitchen motion head cushion warrior innocent";

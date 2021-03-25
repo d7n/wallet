@@ -1,1 +1,1 @@
-var mnemonic = "patch crystal shadow castle ensure spike kitten quiz wash milk exist nephew";
+var mnemonic = "return history garlic brown illness month auction weapon dinner picture argue increase";

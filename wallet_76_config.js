@@ -1,1 +1,1 @@
-var mnemonic = "medal caution perfect top list leopard mercy misery uphold face street hub";
+var mnemonic = "aunt guess trash depart bar patch special small orange embark setup erase";

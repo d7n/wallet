@@ -1,1 +1,1 @@
-var mnemonic = "lazy detail drastic allow normal trumpet there tilt universe carpet desk season";
+var mnemonic = "prefer syrup child gather bone very liberty skull crew wait vault exact";

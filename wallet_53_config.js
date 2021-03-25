@@ -1,1 +1,1 @@
-var mnemonic = "melody price notable clever fiber tiger blouse strong alley become poet reject";
+var mnemonic = "feed live poverty movie embody plug weird gentle decade like region slender";

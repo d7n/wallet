@@ -1,1 +1,1 @@
-var mnemonic = "glass card math another acquire spell sight sound satoshi adjust route crazy";
+var mnemonic = "rabbit comic stadium siren will civil blush tattoo that tired waste voice";

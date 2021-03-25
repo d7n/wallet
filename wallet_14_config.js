@@ -1,1 +1,1 @@
-var mnemonic = "tackle front head dune invite country glad victory diary crowd soon exact";
+var mnemonic = "frost mountain boost tool sword visit improve magic improve absent already south";

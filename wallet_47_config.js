@@ -1,1 +1,1 @@
-var mnemonic = "crazy donkey cover tip grief advance conduct true symptom artwork walk cheese";
+var mnemonic = "chuckle soup acoustic brush roof quiz isolate treat solution owner note use";

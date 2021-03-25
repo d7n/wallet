@@ -1,1 +1,1 @@
-var mnemonic = "mad cycle people believe slogan fragile evidence result collect step ask engage";
+var mnemonic = "forward fetch inner grunt arrange social unique dinner cable dice trouble violin";

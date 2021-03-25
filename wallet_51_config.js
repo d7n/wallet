@@ -1,1 +1,1 @@
-var mnemonic = "mansion air club siege forget reason kid soul cheap cherry trial couch";
+var mnemonic = "crucial soda dune actor stove bundle trend spoon patch ancient stadium movie";

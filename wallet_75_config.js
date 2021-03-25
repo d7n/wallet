@@ -1,1 +1,1 @@
-var mnemonic = "provide chalk grow fade bracket differ another skin arrive admit canal stadium";
+var mnemonic = "balance math maximum next defense quiz rude spawn mass shallow theory pistol";

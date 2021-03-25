@@ -1,1 +1,1 @@
-var mnemonic = "chat debate gloom forum impact control visit goddess repair brief hedgehog pitch";
+var mnemonic = "mammal load web duck rival mother palace dose field replace broccoli auction";

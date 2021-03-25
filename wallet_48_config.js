@@ -1,1 +1,1 @@
-var mnemonic = "mirror layer outside fiction sunny deny appear wealth donkey tackle there globe";
+var mnemonic = "cake blossom orient project protect chaos buddy lamp much anchor life top";

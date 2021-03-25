@@ -1,1 +1,1 @@
-var mnemonic = "eager rescue fruit cake snow nuclear ordinary latin never avocado sock arch";
+var mnemonic = "recipe photo maximum deer olive later join warrior lady goat inmate height";

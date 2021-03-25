@@ -1,1 +1,1 @@
-var mnemonic = "double wagon laptop area system post virtual flush outside update pause flat";
+var mnemonic = "observe broom afraid control total toast shuffle next track marriage scale foster";

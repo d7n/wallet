@@ -1,1 +1,1 @@
-var mnemonic = "evoke someone test popular dizzy dawn myself sing pond cradle shoulder agent";
+var mnemonic = "lab road pear farm nut junior worry material saddle maid infant mosquito";

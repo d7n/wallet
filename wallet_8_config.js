@@ -1,1 +1,1 @@
-var mnemonic = "split gym pottery any vacuum spatial genuine craft park slogan until defense";
+var mnemonic = "volume shoulder stock actual screen rally pulp color slide emotion bring cross";

@@ -1,1 +1,1 @@
-var mnemonic = "craft draw twice accident frame slender family hunt brave attitude history mind";
+var mnemonic = "feed verb bargain bone panther boost address vault improve property muffin main";

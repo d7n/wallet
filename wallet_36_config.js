@@ -1,1 +1,1 @@
-var mnemonic = "parent suit hip tuna grab rude donkey amateur salute green evolve stage";
+var mnemonic = "face usual undo clap frog theme onion furnace news become frequent leopard";

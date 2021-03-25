@@ -1,1 +1,1 @@
-var mnemonic = "slogan change company rookie casual galaxy protect plate hire lawsuit soft float";
+var mnemonic = "kit weather talk shrug tunnel suggest bunker defense avocado sort service grab";

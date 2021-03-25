@@ -1,1 +1,1 @@
-var mnemonic = "sister service joke save fee bus brick online list spread twice disagree";
+var mnemonic = "mule industry hill casino aim rigid seek shop void spirit control way";

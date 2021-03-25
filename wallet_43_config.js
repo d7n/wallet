@@ -1,1 +1,1 @@
-var mnemonic = "believe pull omit broken coconut dose lizard feel flat merit enough gym";
+var mnemonic = "pledge dentist garlic myth top rare grief park into fiber say rifle";

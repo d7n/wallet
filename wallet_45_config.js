@@ -1,1 +1,1 @@
-var mnemonic = "novel online quick strategy width milk remember index wolf theory find scare";
+var mnemonic = "dry donor share agent home salute empty basket bird jump glow buzz";

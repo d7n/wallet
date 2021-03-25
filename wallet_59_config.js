@@ -1,1 +1,1 @@
-var mnemonic = "model denial wink ski lamp remain parent must relax target pizza globe";
+var mnemonic = "outdoor ridge barely magnet blame flock silly obscure column weather lava step";

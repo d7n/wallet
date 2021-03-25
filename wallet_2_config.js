@@ -1,1 +1,1 @@
-var mnemonic = "phrase unusual way idle soldier armed double arrest flower wide sing year";
+var mnemonic = "vital ignore code lend any example fabric warfare divert coral little youth";

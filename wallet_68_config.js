@@ -1,1 +1,1 @@
-var mnemonic = "sort almost prize hazard sentence bench about excite main horror movie duty";
+var mnemonic = "viable lunar blossom time sock gasp coffee crystal thumb double sport thrive";

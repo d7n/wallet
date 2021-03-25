@@ -1,1 +1,1 @@
-var mnemonic = "say sketch fitness opinion capital define shrimp cattle perfect glance ahead kiss";
+var mnemonic = "notice control reward guilt horse pottery notice comic funny industry chase cook";

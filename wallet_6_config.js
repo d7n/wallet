@@ -1,1 +1,1 @@
-var mnemonic = "electric shrimp oxygen tide stuff cute choice spice number omit option toast";
+var mnemonic = "mammal electric slide release shrimp phone liar buddy possible misery cruel mobile";

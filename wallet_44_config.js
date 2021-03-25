@@ -1,1 +1,1 @@
-var mnemonic = "junior flash slow brisk vivid shove skin during bid final warfare identify";
+var mnemonic = "egg infant shock album patient upset point wheel slice dash undo roast";

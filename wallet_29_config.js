@@ -1,1 +1,1 @@
-var mnemonic = "harbor tiger oyster one enlist dove water brick secret large poet exact";
+var mnemonic = "injury okay practice sell muscle quick indoor trend tag orbit cruel identify";

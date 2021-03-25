@@ -1,1 +1,1 @@
-var mnemonic = "emerge chair jeans bounce section expect water wash situate swarm pear torch";
+var mnemonic = "theme trumpet smoke under quantum quick circle frog moral grocery evoke biology";

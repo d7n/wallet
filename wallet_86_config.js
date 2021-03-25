@@ -1,1 +1,1 @@
-var mnemonic = "quote blouse sphere great glow spin noise wrong club transfer job napkin";
+var mnemonic = "eye version track welcome point report local glimpse ignore broom wear piano";

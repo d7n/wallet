@@ -1,1 +1,1 @@
-var mnemonic = "tonight poverty wait amount enjoy almost category place fragile shallow pave confirm";
+var mnemonic = "idea shadow elite burger apart comic grit remember brown method assault unhappy";

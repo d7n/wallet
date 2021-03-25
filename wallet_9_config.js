@@ -1,1 +1,1 @@
-var mnemonic = "ship black fame book quality bench topple example luxury undo bless apart";
+var mnemonic = "fall venture fold flower relief anxiety renew return panic host mention march";

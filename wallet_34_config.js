@@ -1,1 +1,1 @@
-var mnemonic = "pilot belt charge deputy portion pull vintage hidden buzz meadow section page";
+var mnemonic = "fortune oven mountain plunge airport near help hint sand move gasp race";

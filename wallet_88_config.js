@@ -1,1 +1,1 @@
-var mnemonic = "isolate world harvest proof twelve alter divide gold matrix tennis ordinary chaos";
+var mnemonic = "hazard answer humble hurt voyage dose candy drink glimpse tunnel front use";

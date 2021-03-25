@@ -1,1 +1,1 @@
-var mnemonic = "eager goddess rebuild coach virtual jump exclude system raccoon vessel mention sauce";
+var mnemonic = "you rate inflict layer pelican fabric bitter marriage beyond mobile into village";

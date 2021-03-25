@@ -1,1 +1,1 @@
-var mnemonic = "annual chunk where seed mouse horse produce hazard shield wire body federal";
+var mnemonic = "wool balance desk habit panic utility door tenant travel palace squeeze pitch";

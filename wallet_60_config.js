@@ -1,1 +1,1 @@
-var mnemonic = "file wife inside convince galaxy number ocean feed ability move duck ankle";
+var mnemonic = "never barrel morning minute regular grab elder kid tortoise slender improve vanish";

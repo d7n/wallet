@@ -1,1 +1,1 @@
-var mnemonic = "exotic concert sudden script need year shy sunset raven ball message topple";
+var mnemonic = "milk gospel asthma dawn asset plunge frequent depart bread alpha frequent remain";

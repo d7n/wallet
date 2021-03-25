@@ -1,1 +1,1 @@
-var mnemonic = "west elbow later hazard minute life space slender milk party travel dress";
+var mnemonic = "brick version egg vote boat swim popular reason general tag outside sauce";

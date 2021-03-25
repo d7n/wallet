@@ -1,1 +1,1 @@
-var mnemonic = "this bounce trophy wreck artwork glass poet cupboard grape dizzy lemon risk";
+var mnemonic = "wait excite pulp worth cruel twice wave yellow virtual today remind garlic";

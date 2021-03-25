@@ -1,1 +1,1 @@
-var mnemonic = "pelican kangaroo annual lawn indicate autumn pair girl wisdom invite okay achieve";
+var mnemonic = "cancel lottery wild walnut science elbow myth sweet scale mutual twin scatter";

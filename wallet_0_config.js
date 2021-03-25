@@ -1,1 +1,1 @@
-var mnemonic = "oxygen cereal punch knife damage chicken whisper chair alert kiwi fiber expand";
+var mnemonic = "crush invite begin explain piano endless frame jeans fossil special only fever";
