@@ -1,1 +1,1 @@
-var mnemonic = "grief blouse half vendor gaze child sauce scheme lake supply video develop";
+var mnemonic = "cactus pear track auto deposit cereal street bean odor head still invest";

@@ -1,1 +1,1 @@
-var mnemonic = "waste odor receive oil glance cabin faculty know screen inmate thumb guard";
+var mnemonic = "scheme cotton velvet alter useless cancel inch truck spirit work speak barely";

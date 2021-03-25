@@ -1,1 +1,1 @@
-var mnemonic = "damp laptop vague road car tennis trade clock sudden exist dash energy";
+var mnemonic = "illegal draw blue salad chat public away salute village family hamster push";

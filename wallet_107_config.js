@@ -1,1 +1,1 @@
-var mnemonic = "betray people opinion gym laugh skate lawn vital give surge glare letter";
+var mnemonic = "current identify disagree later town remind sign hover bridge rule apology knife";

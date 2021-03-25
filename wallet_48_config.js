@@ -1,1 +1,1 @@
-var mnemonic = "service ugly equip defense sentence label reopen squeeze neck zebra actual lyrics";
+var mnemonic = "crime cattle move seek august jealous donate pretty update judge interest raccoon";

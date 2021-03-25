@@ -1,1 +1,1 @@
-var mnemonic = "measure injury drill section champion abstract valve arctic insane evidence cause assist";
+var mnemonic = "weekend kidney pulp baby beyond special oil shield work near blast bracket";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder moment suffer oak exact addict discover boil loop mass olympic give";
+var mnemonic = "engage riot slow squirrel trim sunset wedding solar mom vault anchor age";

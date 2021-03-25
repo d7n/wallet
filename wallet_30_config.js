@@ -1,1 +1,1 @@
-var mnemonic = "hawk explain opinion fury transfer improve blur endorse soup history garment east";
+var mnemonic = "river meat satoshi truth globe voyage thumb opinion help cause track deal";

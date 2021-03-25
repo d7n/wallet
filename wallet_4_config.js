@@ -1,1 +1,1 @@
-var mnemonic = "sponsor twelve filter abstract rabbit poet nominee mandate abandon novel exile ship";
+var mnemonic = "invest net paddle develop issue quarter category half rain apology stay taxi";

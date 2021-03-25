@@ -1,1 +1,1 @@
-var mnemonic = "hair magic item square crash lock toy people gorilla shallow juice gain";
+var mnemonic = "holiday talent unveil scissors rib mom ritual enough sleep arrest degree tongue";

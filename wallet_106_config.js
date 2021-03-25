@@ -1,1 +1,1 @@
-var mnemonic = "basic route judge fee feature gap clog school topic forget harsh enforce";
+var mnemonic = "wait toast deliver coral range shrug kiss drastic sea capital aisle vessel";

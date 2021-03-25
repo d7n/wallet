@@ -1,1 +1,1 @@
-var mnemonic = "mystery three page uphold crater advice kangaroo nurse cargo bone tent cause";
+var mnemonic = "recipe cool debate silly evolve shadow reason bus label later absent warrior";

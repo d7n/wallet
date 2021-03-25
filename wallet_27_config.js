@@ -1,1 +1,1 @@
-var mnemonic = "dentist click follow today airport coin woman dust frequent helmet aisle fresh";
+var mnemonic = "trip trust night valid joke then float never perfect diesel knock mad";

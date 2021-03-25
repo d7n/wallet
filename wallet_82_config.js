@@ -1,1 +1,1 @@
-var mnemonic = "melt provide culture hamster acquire typical wrestle service fire cram swarm length";
+var mnemonic = "stand much sustain guard anger tiny fiber gift age rebuild genuine excess";

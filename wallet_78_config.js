@@ -1,1 +1,1 @@
-var mnemonic = "crowd divide ignore asthma twin leader awful forward inject crawl version tape";
+var mnemonic = "matrix marble dizzy poet opera surprise raven boss stem dash alley pretty";

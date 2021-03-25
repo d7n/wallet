@@ -1,1 +1,1 @@
-var mnemonic = "patient try hole save shine song another trip reform box more electric";
+var mnemonic = "mosquito crime opinion valley hip topple tumble rural crew tree diary wait";

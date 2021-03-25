@@ -1,1 +1,1 @@
-var mnemonic = "cloud upgrade load random attitude barely desert margin cube uncover sheriff test";
+var mnemonic = "width marriage friend diary ring all meat help submit ladder release cup";

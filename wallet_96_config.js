@@ -1,1 +1,1 @@
-var mnemonic = "offer slice fluid cart tail museum robust rate waste twist box easy";
+var mnemonic = "wrist know joke fresh march rookie pulse design vocal worth impact nothing";

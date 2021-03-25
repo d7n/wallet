@@ -1,1 +1,1 @@
-var mnemonic = "celery until absent result farm surface ritual during resist clay ahead slice";
+var mnemonic = "slow rubber permit fossil weird repeat pulp position alarm night mad pottery";

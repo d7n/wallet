@@ -1,1 +1,1 @@
-var mnemonic = "guide timber castle mad team someone food also truly party kick hawk";
+var mnemonic = "public refuse ankle sorry hurdle endless broken season bullet search chuckle danger";

@@ -1,1 +1,1 @@
-var mnemonic = "wish rescue runway mention stick air acid ethics cave abuse door lady";
+var mnemonic = "nature curve history gold umbrella degree innocent hollow orient ginger spend claim";

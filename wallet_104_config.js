@@ -1,1 +1,1 @@
-var mnemonic = "urban guitar embody term weekend adjust ability under crisp okay luxury much";
+var mnemonic = "domain okay fiscal first final duck enrich humor river avoid faint miss";

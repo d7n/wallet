@@ -1,1 +1,1 @@
-var mnemonic = "name roast toward gossip science cheese steak staff clever harsh once box";
+var mnemonic = "ghost exhaust include retire setup crane snap mystery surprise path flock subway";

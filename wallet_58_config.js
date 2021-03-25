@@ -1,1 +1,1 @@
-var mnemonic = "fire short country offer prepare antenna age famous fluid praise offer theory";
+var mnemonic = "twin divide shiver lion hurry bullet corn orchard orbit before sun album";

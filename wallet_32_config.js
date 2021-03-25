@@ -1,1 +1,1 @@
-var mnemonic = "produce wear chronic local never throw census flock wrap sword flavor economy";
+var mnemonic = "boost deny theory almost correct fetch involve machine metal fence patch rose";

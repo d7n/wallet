@@ -1,1 +1,1 @@
-var mnemonic = "lottery mixture meadow innocent youth paper dolphin merit chalk since reopen pause";
+var mnemonic = "bargain library keep damage solution end pink general favorite favorite matter this";

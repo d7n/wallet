@@ -1,1 +1,1 @@
-var mnemonic = "sibling junior robot fit empower rifle wheel rifle hub lab salute clay";
+var mnemonic = "hard repeat income kiss asthma render index ritual ankle secret middle exotic";

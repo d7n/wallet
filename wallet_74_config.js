@@ -1,1 +1,1 @@
-var mnemonic = "total vacant belt away during crystal heavy solar message person holiday rigid";
+var mnemonic = "clean scrub candy crater club father nasty hub crime west calm bomb";

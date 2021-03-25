@@ -1,1 +1,1 @@
-var mnemonic = "endless dumb hammer chimney sister slender opera future often fall add response";
+var mnemonic = "accuse slender sing raw decade chronic wheat advance trigger review piano concert";

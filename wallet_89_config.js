@@ -1,1 +1,1 @@
-var mnemonic = "message gift awake child lemon endorse bamboo laptop response fade judge mixed";
+var mnemonic = "slide beach spirit code supply message ordinary fashion surprise dish food social";

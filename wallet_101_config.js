@@ -1,1 +1,1 @@
-var mnemonic = "apart stairs mean short speed order chaos act knock crime unusual exotic";
+var mnemonic = "degree soup common bomb cash mountain blur document setup pond robot quantum";

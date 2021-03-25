@@ -1,1 +1,1 @@
-var mnemonic = "soft pool habit garden exchange furnace pet panic hint music claim vintage";
+var mnemonic = "puzzle music chuckle real already denial hand cream excess swarm session poet";

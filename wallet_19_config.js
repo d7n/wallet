@@ -1,1 +1,1 @@
-var mnemonic = "light surge come enough above once where runway harbor unfold chest miss";
+var mnemonic = "bird assume few nuclear cabin ill midnight van donate radio album fortune";

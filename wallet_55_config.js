@@ -1,1 +1,1 @@
-var mnemonic = "during dust elevator curve isolate check flock adapt window above alien identify";
+var mnemonic = "sister peanut dress eyebrow kid essay unknown lazy bid vicious episode behind";

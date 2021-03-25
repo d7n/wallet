@@ -1,1 +1,1 @@
-var mnemonic = "lunar trade hill hour usage figure inquiry loud never move pyramid board";
+var mnemonic = "radar powder sure dynamic thumb exact steel because scene team scale resemble";

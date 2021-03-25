@@ -1,1 +1,1 @@
-var mnemonic = "solid select giraffe voice keen tuna usual situate open consider certain velvet";
+var mnemonic = "learn way return long joy hub brush capable dad spare panel alone";

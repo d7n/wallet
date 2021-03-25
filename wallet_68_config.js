@@ -1,1 +1,1 @@
-var mnemonic = "plug term alter analyst atom coyote job neither jewel matter road thing";
+var mnemonic = "poem slush soda window team random knock ginger major craft nephew trouble";

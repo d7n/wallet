@@ -1,1 +1,1 @@
-var mnemonic = "speed vibrant orphan drum judge reunion adapt black sudden cake master upper";
+var mnemonic = "north version jungle glide resemble include state shield present glass worry rigid";

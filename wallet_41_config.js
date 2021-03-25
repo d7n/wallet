@@ -1,1 +1,1 @@
-var mnemonic = "embrace fan mixed energy foster genuine soda wasp satoshi harbor original casual";
+var mnemonic = "liar grain decorate movie gospel industry cream afford sight topple device tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "rude want squeeze pottery unique divide inmate flag brown useful potato vote";
+var mnemonic = "ranch man tray stand define cherry shoe fabric kidney warfare upper swim";

@@ -1,1 +1,1 @@
-var mnemonic = "distance above update raven quiz fog predict off cinnamon spot border peace";
+var mnemonic = "forest foam addict barrel ranch oxygen estate buddy subway receive flip crack";

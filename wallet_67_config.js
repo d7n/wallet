@@ -1,1 +1,1 @@
-var mnemonic = "era outside awful kingdom trend oyster power coconut latin exhibit pudding vivid";
+var mnemonic = "want setup crack leisure airport still vapor coyote path speak exile tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "talk empower jump kidney address into regular credit force enter either eye";
+var mnemonic = "globe prize genius curious unlock month oppose thumb obtain reflect balcony wrong";

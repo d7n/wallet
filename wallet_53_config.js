@@ -1,1 +1,1 @@
-var mnemonic = "rack announce rocket tide steak category rug below game build satoshi theme";
+var mnemonic = "planet uncle account all behind blur raven sad horror burden modify oven";

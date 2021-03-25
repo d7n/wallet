@@ -1,1 +1,1 @@
-var mnemonic = "have travel fever latin quote brother earth report forest stumble bulb squirrel";
+var mnemonic = "oyster discover wealth smoke invest shed lawsuit tone drink second tiny evil";

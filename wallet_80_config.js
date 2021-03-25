@@ -1,1 +1,1 @@
-var mnemonic = "swim woman blame normal section law answer sample heavy crack that panda";
+var mnemonic = "deal rug pet thing observe delay leave diagram bone game mandate scene";

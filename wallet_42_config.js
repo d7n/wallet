@@ -1,1 +1,1 @@
-var mnemonic = "coral rich twice coffee popular crack educate able foot pyramid stairs liar";
+var mnemonic = "there flavor pottery fee blush alone defense cancel basic athlete expect fabric";

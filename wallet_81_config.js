@@ -1,1 +1,1 @@
-var mnemonic = "knock science token whisper jaguar pen ranch ethics vapor jungle educate ignore";
+var mnemonic = "throw key stumble poet world miss enroll summer kite circle cross bread";

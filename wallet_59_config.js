@@ -1,1 +1,1 @@
-var mnemonic = "style wink pudding leopard home pair image movie spirit brave slush brief";
+var mnemonic = "fitness hundred author ignore shoot roast section kick gold come brown useless";

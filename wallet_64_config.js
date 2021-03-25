@@ -1,1 +1,1 @@
-var mnemonic = "bubble present exchange garlic medal hotel spice punch explain swift indoor because";
+var mnemonic = "rebel index act race deputy lady advance pepper melt ski film banana";

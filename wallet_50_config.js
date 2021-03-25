@@ -1,1 +1,1 @@
-var mnemonic = "outdoor suggest again army advice tone shock glad submit enemy rescue dolphin";
+var mnemonic = "clever olive immune vague february match all more street unit face shock";

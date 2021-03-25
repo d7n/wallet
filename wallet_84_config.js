@@ -1,1 +1,1 @@
-var mnemonic = "scale frozen collect border push place icon cute phrase onion slogan figure";
+var mnemonic = "choose review doll truck special delay crater glory cup wine observe dutch";

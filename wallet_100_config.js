@@ -1,1 +1,1 @@
-var mnemonic = "ginger improve merit game reflect popular caution example outer license mask surprise";
+var mnemonic = "clinic local shiver reopen snow unveil borrow hood morning ordinary dune siren";

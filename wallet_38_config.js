@@ -1,1 +1,1 @@
-var mnemonic = "need mosquito when tree allow cry fresh eye undo attack know silk";
+var mnemonic = "inhale flag spawn task speed sort face aisle elegant supreme produce night";

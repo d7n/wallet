@@ -1,1 +1,1 @@
-var mnemonic = "era help admit cup subway enlist vital razor ranch spend car nice";
+var mnemonic = "screen suit bright pair pole project solar source pulp kitchen bubble enrich";

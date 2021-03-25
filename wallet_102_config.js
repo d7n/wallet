@@ -1,1 +1,1 @@
-var mnemonic = "secret victory lottery okay vessel wedding begin burger mosquito cotton smile yard";
+var mnemonic = "size earth lottery try animal segment long pupil trade response marine punch";

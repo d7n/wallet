@@ -1,1 +1,1 @@
-var mnemonic = "volcano normal forget tumble cheap caution trick present cabin require hold humble";
+var mnemonic = "mean primary adjust truck arm tower slow fame upon type surround culture";

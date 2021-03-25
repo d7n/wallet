@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog gate common coin silent armor pond praise weekend receive sing jungle";
+var mnemonic = "butter trim walk umbrella pretty dry select electric measure spend melody describe";

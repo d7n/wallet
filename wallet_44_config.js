@@ -1,1 +1,1 @@
-var mnemonic = "theory excess salt skin pizza liar crisp voice yellow demand hip more";
+var mnemonic = "grab solution enough kiss guilt correct reform sketch evidence arm betray resist";

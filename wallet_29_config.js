@@ -1,1 +1,1 @@
-var mnemonic = "rocket must visit hill arrange stereo mother pool quit express limb cake";
+var mnemonic = "sketch behave spatial bacon summer second kiss vote rude tent there tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "quick icon satisfy scene govern sting indoor thunder tribe teach message appear";
+var mnemonic = "champion near lunch cram whale lawn win dirt salon salt congress cotton";

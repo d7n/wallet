@@ -1,1 +1,1 @@
-var mnemonic = "wall cute major exhaust detect domain loan twenty bonus husband sudden island";
+var mnemonic = "midnight damp pattern energy rice bench debris actual cruel joy toss put";

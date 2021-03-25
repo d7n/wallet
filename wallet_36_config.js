@@ -1,1 +1,1 @@
-var mnemonic = "forget cup powder old become village nice job tobacco lion plastic phrase";
+var mnemonic = "drink amazing forget ability salon lucky lizard chef warrior over quick embody";

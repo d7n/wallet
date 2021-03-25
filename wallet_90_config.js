@@ -1,1 +1,1 @@
-var mnemonic = "sail use pattern ready brave message sport advance west cabbage tail spot";
+var mnemonic = "suggest pitch farm crowd leisure improve shiver erupt matter bronze relax next";

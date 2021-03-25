@@ -1,1 +1,1 @@
-var mnemonic = "poem chef trend matrix need grid dad pink symptom property monitor sudden";
+var mnemonic = "emotion mention floor ship target ghost angry jungle oxygen absorb detail riot";

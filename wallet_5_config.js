@@ -1,1 +1,1 @@
-var mnemonic = "pencil crumble identify man engine item bargain goddess sorry speak width pencil";
+var mnemonic = "apology cruel salute wasp biology voice field learn fit they home various";

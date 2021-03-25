@@ -1,1 +1,1 @@
-var mnemonic = "announce custom slender bird sadness cigar tattoo blush trust hover hour strategy";
+var mnemonic = "hundred defense domain method tank repeat that buzz barely universe fiscal into";

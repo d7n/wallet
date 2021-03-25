@@ -1,1 +1,1 @@
-var mnemonic = "maid armed sustain catch body disease very route success erode wine rate";
+var mnemonic = "goose there silver warfare winner ticket treat visa render execute fork easily";

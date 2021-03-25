@@ -1,1 +1,1 @@
-var mnemonic = "biology slim knife creek bounce will brown size drama shoe member junk";
+var mnemonic = "heavy pelican ozone sting skill thought begin robot extra appear middle more";

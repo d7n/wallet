@@ -1,1 +1,1 @@
-var mnemonic = "inside enough purity tuna muffin student click radar mother visit legal border";
+var mnemonic = "night funny have slim lazy floor deny ethics runway scheme tower exit";

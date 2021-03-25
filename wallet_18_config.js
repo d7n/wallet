@@ -1,1 +1,1 @@
-var mnemonic = "index orbit blush right spider face copy reason decide govern fatal minimum";
+var mnemonic = "fly siege evidence shoe venue lumber universe friend motor pen rapid miss";

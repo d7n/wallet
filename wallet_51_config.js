@@ -1,1 +1,1 @@
-var mnemonic = "tower swing deer eye rigid include early inner drip exist can custom";
+var mnemonic = "suspect frog kiwi unique space audit reunion yellow tank there enroll cat";

@@ -1,1 +1,1 @@
-var mnemonic = "proof flight panda call wisdom sugar female dash keen youth blanket expire";
+var mnemonic = "envelope before elder render shallow blood liar tank valve ribbon fox ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "memory sand enter eager enemy loan kind noodle attend hedgehog agent town";
+var mnemonic = "crisp toe kangaroo adult surprise symptom bid saddle leaf kind fortune fault";

@@ -1,1 +1,1 @@
-var mnemonic = "essence happy purpose gravity border prepare decline slim wealth identify salute click";
+var mnemonic = "section battle ribbon upon client segment asset river weather staff escape shoulder";

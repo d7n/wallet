@@ -1,1 +1,1 @@
-var mnemonic = "keen project school inspire affair soup dream bulk wall venture chase immune";
+var mnemonic = "gloom erase regret blur have atom issue drip physical fiber person neither";

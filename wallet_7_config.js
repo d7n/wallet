@@ -1,1 +1,1 @@
-var mnemonic = "raw track digital memory hill enroll endorse scare firm panic obey normal";
+var mnemonic = "juice damage trouble skin phone media lizard scare ostrich february pony today";

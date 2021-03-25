@@ -1,1 +1,1 @@
-var mnemonic = "monitor half film seed clean air angle affair forward alley raise glue";
+var mnemonic = "stick rigid flip offer copper kiwi like cushion will bread chat powder";

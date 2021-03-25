@@ -1,1 +1,1 @@
-var mnemonic = "jelly vacant luxury spray hamster output civil design scatter verb federal sniff";
+var mnemonic = "auction kidney write stereo identify worry force tree inner gravity hero boss";

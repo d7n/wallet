@@ -1,1 +1,1 @@
-var mnemonic = "belt cross juice another essence snake legend session sphere favorite viable planet";
+var mnemonic = "squirrel spend walnut pizza rescue inhale term again once forest cigar grab";

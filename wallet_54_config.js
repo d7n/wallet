@@ -1,1 +1,1 @@
-var mnemonic = "budget knee bleak thunder seed solar worry cliff lobster because viable arrest";
+var mnemonic = "dice sudden soda salon bitter admit pelican quick access resist else prefer";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb phrase owner come hammer faculty robot client tenant indicate anxiety key";
+var mnemonic = "episode sad sniff change garment parrot elder child foster cruel magic bright";

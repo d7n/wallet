@@ -1,1 +1,1 @@
-var mnemonic = "grass popular soldier cradle inherit cross ripple thank orchard noise process teach";
+var mnemonic = "jeans venue roof wire robust glue scan journey travel boy snow use";

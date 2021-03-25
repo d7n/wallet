@@ -1,1 +1,1 @@
-var mnemonic = "cloud category myth symptom vibrant clap top clerk battle genius exit feel";
+var mnemonic = "slender blast proof bullet tattoo boring cheese split slogan rather opinion duck";

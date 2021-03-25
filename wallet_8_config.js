@@ -1,1 +1,1 @@
-var mnemonic = "squeeze shrug echo load brave quiz arch elbow scheme capable much online";
+var mnemonic = "expect mother genuine copper typical renew story elite prevent picnic split fat";

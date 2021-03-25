@@ -1,1 +1,1 @@
-var mnemonic = "pizza bullet discover tourist broom spell prosper author spoil situate reward artefact";
+var mnemonic = "cat ankle work oven surprise exact dynamic tunnel update regular next rely";

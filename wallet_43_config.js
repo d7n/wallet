@@ -1,1 +1,1 @@
-var mnemonic = "destroy health ignore symbol stock opinion machine modify stereo rescue erase spice";
+var mnemonic = "pumpkin useless clock runway hazard galaxy sorry damp night brief height ghost";
