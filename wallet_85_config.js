@@ -1,1 +1,1 @@
-var mnemonic = "pond drastic embody burger worth fatal sand increase visual final blouse together";
+var mnemonic = "sound obscure escape witness tag thunder state yellow erase cat local calm";

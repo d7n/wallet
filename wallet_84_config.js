@@ -1,1 +1,1 @@
-var mnemonic = "case mirror retreat because title arrive hand sadness thumb ethics obtain tilt";
+var mnemonic = "detail kind agree teach snap include model slide between hospital swear album";

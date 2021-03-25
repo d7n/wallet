@@ -1,1 +1,1 @@
-var mnemonic = "notice skirt across candy already dutch age universe bright situate fiction thrive";
+var mnemonic = "ridge poverty satoshi earn rebel dignity worry catalog nut doll antique fine";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter coast dry mimic boil neck surface minimum size phone together slim";
+var mnemonic = "split gym pottery any vacuum spatial genuine craft park slogan until defense";

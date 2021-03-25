@@ -1,1 +1,1 @@
-var mnemonic = "spider book waste pelican limb december diesel erupt win snap twelve echo";
+var mnemonic = "chat debate gloom forum impact control visit goddess repair brief hedgehog pitch";

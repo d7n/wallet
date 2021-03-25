@@ -1,1 +1,1 @@
-var mnemonic = "shiver regret visa coffee chase indicate pink limb subject shrimp ridge tower";
+var mnemonic = "ecology among sauce glimpse treat decrease lounge luxury yard prevent sausage step";

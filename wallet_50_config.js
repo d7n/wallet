@@ -1,1 +1,1 @@
-var mnemonic = "angry column verify life either inhale join ozone broom judge fence cream";
+var mnemonic = "shadow name twin desert vacuum knife erupt settle yard foam square lesson";

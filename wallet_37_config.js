@@ -1,1 +1,1 @@
-var mnemonic = "bicycle candy mad shock echo circle spread easy tackle young swing suggest";
+var mnemonic = "decade just bike puzzle style call cancel demand market other pipe expect";

@@ -1,1 +1,1 @@
-var mnemonic = "income hard axis region brush initial social recall install inmate vendor vacant";
+var mnemonic = "lake wild vessel nasty oxygen client calm replace canoe bunker morning bright";

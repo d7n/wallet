@@ -1,1 +1,1 @@
-var mnemonic = "nut stock citizen book unlock various chunk myself wrong february keen rice";
+var mnemonic = "double wagon laptop area system post virtual flush outside update pause flat";

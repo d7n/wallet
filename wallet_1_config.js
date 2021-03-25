@@ -1,1 +1,1 @@
-var mnemonic = "ball situate glove world cotton bitter junk away wonder butter level true";
+var mnemonic = "grocery frown onion swing sudden seed wait inquiry join region labor logic";

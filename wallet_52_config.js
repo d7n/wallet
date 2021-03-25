@@ -1,1 +1,1 @@
-var mnemonic = "rescue bamboo bottom love coast immense misery ladder empty glimpse pull cheap";
+var mnemonic = "social lucky danger plug patrol flash series embrace elegant already magic burden";

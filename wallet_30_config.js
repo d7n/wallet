@@ -1,1 +1,1 @@
-var mnemonic = "fox stairs fantasy cherry galaxy quarter october bike setup dwarf purchase beauty";
+var mnemonic = "annual chunk where seed mouse horse produce hazard shield wire body federal";

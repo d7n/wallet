@@ -1,1 +1,1 @@
-var mnemonic = "reflect manage include fantasy hidden select honey easily cabin guitar coffee auto";
+var mnemonic = "lucky blue spell six erase train message sample adjust mimic bus input";

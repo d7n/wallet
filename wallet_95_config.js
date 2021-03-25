@@ -1,1 +1,1 @@
-var mnemonic = "moon noble grass snap type alter ordinary gas spirit bike govern juice";
+var mnemonic = "patch crystal shadow castle ensure spike kitten quiz wash milk exist nephew";

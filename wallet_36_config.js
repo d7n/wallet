@@ -1,1 +1,1 @@
-var mnemonic = "voyage kiss inside muffin theory window ship expose insane message celery tank";
+var mnemonic = "parent suit hip tuna grab rude donkey amateur salute green evolve stage";

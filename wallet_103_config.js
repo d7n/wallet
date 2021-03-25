@@ -1,1 +1,1 @@
-var mnemonic = "replace else clerk initial mask strategy ahead fly matter pause donate match";
+var mnemonic = "struggle awake beach oyster devote defy random wisdom lumber ready nothing female";

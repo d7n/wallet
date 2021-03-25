@@ -1,1 +1,1 @@
-var mnemonic = "drill gravity describe key laugh suggest situate warrior produce fade eye apart";
+var mnemonic = "like ocean stomach pole hamster artefact wonder nice bachelor people limb program";

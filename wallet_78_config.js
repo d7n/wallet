@@ -1,1 +1,1 @@
-var mnemonic = "witness thought pill civil fuel relief category life riot lemon keep nature";
+var mnemonic = "myself universe crop bench barrel milk gloom bitter tourist good unhappy glue";

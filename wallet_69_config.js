@@ -1,1 +1,1 @@
-var mnemonic = "collect alter print perfect army cloud diamond bulk news notice elite deposit";
+var mnemonic = "mad cycle people believe slogan fragile evidence result collect step ask engage";

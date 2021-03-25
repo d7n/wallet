@@ -1,1 +1,1 @@
-var mnemonic = "charge table sunny head boss panel demand puppy trumpet protect decade because";
+var mnemonic = "cook unhappy risk remove unit install ramp diagram lawsuit desert material that";

@@ -1,1 +1,1 @@
-var mnemonic = "judge trust pluck distance situate ritual pyramid february soul expose kitten stamp";
+var mnemonic = "silver deer shadow this away deny angry arena spot across enter outdoor";

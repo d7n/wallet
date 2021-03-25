@@ -1,1 +1,1 @@
-var mnemonic = "limit ankle isolate away outdoor matrix people goddess motion barely life athlete";
+var mnemonic = "actor cream surprise scatter tooth loyal better base address beyond write head";

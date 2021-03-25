@@ -1,1 +1,1 @@
-var mnemonic = "crouch nuclear devote finish shift legal whisper small torch author rescue canal";
+var mnemonic = "crazy donkey cover tip grief advance conduct true symptom artwork walk cheese";

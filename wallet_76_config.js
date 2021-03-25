@@ -1,1 +1,1 @@
-var mnemonic = "parrot inside casual entire sniff vague olive foot fiber area client draw";
+var mnemonic = "medal caution perfect top list leopard mercy misery uphold face street hub";

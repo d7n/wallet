@@ -1,1 +1,1 @@
-var mnemonic = "reject answer picnic order earth decide point then blast meadow concert rifle";
+var mnemonic = "pigeon enter mushroom legend immune clip modify gun human time diary world";

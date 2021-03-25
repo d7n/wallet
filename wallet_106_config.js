@@ -1,1 +1,1 @@
-var mnemonic = "visual hat type mango paper staff wave pulp swing differ delay nice";
+var mnemonic = "tobacco either bomb combine catch region broccoli spawn gravity unknown soccer grab";

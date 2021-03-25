@@ -1,1 +1,1 @@
-var mnemonic = "size impact cupboard never inside mean alcohol doctor limit radar animal blade";
+var mnemonic = "lazy detail drastic allow normal trumpet there tilt universe carpet desk season";

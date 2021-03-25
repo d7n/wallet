@@ -1,1 +1,1 @@
-var mnemonic = "edit what slow envelope sorry pig marriage defense nominee fever jelly donkey";
+var mnemonic = "regret kingdom disorder insane pride smoke fantasy toilet arrest enemy naive series";

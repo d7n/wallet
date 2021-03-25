@@ -1,1 +1,1 @@
-var mnemonic = "zoo crawl exact pill canal bundle repeat fashion hard betray another duck";
+var mnemonic = "drink wing rude sweet summer junior slight year spring resource trim female";

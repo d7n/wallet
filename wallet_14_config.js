@@ -1,1 +1,1 @@
-var mnemonic = "bachelor dance plunge spin danger velvet illness ranch toe pistol scrub cage";
+var mnemonic = "tackle front head dune invite country glad victory diary crowd soon exact";

@@ -1,1 +1,1 @@
-var mnemonic = "recall improve drift warrior dizzy remove strong razor science orient biology polar";
+var mnemonic = "ecology daring seed chicken ordinary where minor patient jump battle fold wish";

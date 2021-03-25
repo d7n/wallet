@@ -1,1 +1,1 @@
-var mnemonic = "remain uncover valid mixed october road bacon hello wisdom lock better arm";
+var mnemonic = "junior flash slow brisk vivid shove skin during bid final warfare identify";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy ski bread nominee tattoo elegant hen baby forum try scrap sense";
+var mnemonic = "slam oven inquiry act matrix forest strong strong holiday range recycle liquid";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist turkey similar resemble cave retire arena mail wrist shadow chalk sun";
+var mnemonic = "honey popular potato crash dress fortune slot pattern cruel goose mosquito pass";

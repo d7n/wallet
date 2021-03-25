@@ -1,1 +1,1 @@
-var mnemonic = "split other tuition parent dutch library art bounce brother attend chimney wet";
+var mnemonic = "eager goddess rebuild coach virtual jump exclude system raccoon vessel mention sauce";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon cash stock draw use pepper figure nothing eternal upon soft fly";
+var mnemonic = "wife mass obtain already still wine puppy woman knock mutual cover choose";

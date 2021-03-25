@@ -1,1 +1,1 @@
-var mnemonic = "twice desk volcano much into myself kangaroo token old seed acid tissue";
+var mnemonic = "sort almost prize hazard sentence bench about excite main horror movie duty";

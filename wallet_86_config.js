@@ -1,1 +1,1 @@
-var mnemonic = "foil repeat whip marble explain fork ghost reject ball enemy crime shrimp";
+var mnemonic = "quote blouse sphere great glow spin noise wrong club transfer job napkin";

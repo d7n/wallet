@@ -1,1 +1,1 @@
-var mnemonic = "jealous purchase father throw icon satoshi call latin math amount pave chaos";
+var mnemonic = "believe pull omit broken coconut dose lizard feel flat merit enough gym";

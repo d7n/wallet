@@ -1,1 +1,1 @@
-var mnemonic = "now weather ship limb pitch wink canvas dinosaur diagram struggle frozen toward";
+var mnemonic = "feature salmon menu wagon diesel above country strike soda noise forget fox";

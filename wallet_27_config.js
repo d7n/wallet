@@ -1,1 +1,1 @@
-var mnemonic = "ozone transfer chimney journey grape mutual vote piano icon text dirt coil";
+var mnemonic = "exotic concert sudden script need year shy sunset raven ball message topple";

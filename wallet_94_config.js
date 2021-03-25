@@ -1,1 +1,1 @@
-var mnemonic = "follow about fit whip grow round person priority robust silent risk solve";
+var mnemonic = "city fix chef deal fiscal push viable crane park mobile mesh alone";

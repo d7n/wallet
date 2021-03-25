@@ -1,1 +1,1 @@
-var mnemonic = "ship angle cube phrase attract clown congress thunder brave grid coast basic";
+var mnemonic = "dilemma wrap patrol alarm prize vacant foster kind develop artist state inmate";

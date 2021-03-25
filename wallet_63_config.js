@@ -1,1 +1,1 @@
-var mnemonic = "shiver between biology trophy lizard super person gown divert daughter protect yellow";
+var mnemonic = "tonight poverty wait amount enjoy almost category place fragile shallow pave confirm";

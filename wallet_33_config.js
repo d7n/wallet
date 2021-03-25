@@ -1,1 +1,1 @@
-var mnemonic = "minimum peasant segment medal vicious circle prize flush riot setup about vintage";
+var mnemonic = "board route choice humor dwarf panda force network fish arrange throw stock";

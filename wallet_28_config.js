@@ -1,1 +1,1 @@
-var mnemonic = "increase tomorrow fox knee crazy gesture blood heavy noise chronic upper brisk";
+var mnemonic = "hold bread common shine pulp head position phone return broccoli orchard swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "name lecture resist upset mom that between wedding blossom sand snow prepare";
+var mnemonic = "rice train equal dice digital chaos now wagon expire ritual fossil spoil";

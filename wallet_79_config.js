@@ -1,1 +1,1 @@
-var mnemonic = "task man effort keen share struggle lawsuit label trumpet beach fluid valve";
+var mnemonic = "sniff credit happy dash canyon warrior frost struggle grass grid end shaft";

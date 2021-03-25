@@ -1,1 +1,1 @@
-var mnemonic = "enact absent wrap now future imitate zebra wasp robust essence street physical";
+var mnemonic = "phrase unusual way idle soldier armed double arrest flower wide sing year";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy game olive nose april profit forum gallery merry relief vacuum brain";
+var mnemonic = "say sketch fitness opinion capital define shrimp cattle perfect glance ahead kiss";

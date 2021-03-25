@@ -1,1 +1,1 @@
-var mnemonic = "tornado head clay crash agree arrange cheese ride clean intact music assume";
+var mnemonic = "adjust measure mom spawn apology around gesture venture mixture woman flight enroll";

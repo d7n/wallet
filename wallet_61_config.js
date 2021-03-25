@@ -1,1 +1,1 @@
-var mnemonic = "cricket relief under news borrow history hunt across across zone sign grain";
+var mnemonic = "agent manage fat mushroom discover alarm army output rely goose type glory";

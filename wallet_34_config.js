@@ -1,1 +1,1 @@
-var mnemonic = "shrimp club slow treat test shrimp series cancel point shell double south";
+var mnemonic = "pilot belt charge deputy portion pull vintage hidden buzz meadow section page";

@@ -1,1 +1,1 @@
-var mnemonic = "float inquiry gas scissors normal hunt fitness nothing weekend gloom segment isolate";
+var mnemonic = "endless mail worth click arrow blind siege appear innocent giggle alert ugly";

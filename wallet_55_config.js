@@ -1,1 +1,1 @@
-var mnemonic = "host nurse entry spread scan shiver infant control hamster budget maze hello";
+var mnemonic = "trouble country cart laptop coin chaos habit key under coach total purpose";

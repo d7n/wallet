@@ -1,1 +1,1 @@
-var mnemonic = "source gallery similar giraffe invite undo dolphin useful crime horn ladder legend";
+var mnemonic = "zebra prosper path cave approve boss able road twenty denial ghost flock";

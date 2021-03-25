@@ -1,1 +1,1 @@
-var mnemonic = "rookie act convince tip token track icon animal sample state word original";
+var mnemonic = "mirror layer outside fiction sunny deny appear wealth donkey tackle there globe";

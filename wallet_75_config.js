@@ -1,1 +1,1 @@
-var mnemonic = "reveal hip sort youth hard rain script mandate leg pudding index fever";
+var mnemonic = "provide chalk grow fade bracket differ another skin arrive admit canal stadium";

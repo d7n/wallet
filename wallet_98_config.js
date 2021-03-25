@@ -1,1 +1,1 @@
-var mnemonic = "hunt address rely critic announce club carpet grocery aim ocean hover naive";
+var mnemonic = "hope barely harbor gift mango flip tip lawn fence inspire year left";

@@ -1,1 +1,1 @@
-var mnemonic = "two mimic glide area stairs fun clock pave series suffer fringe level";
+var mnemonic = "this bounce trophy wreck artwork glass poet cupboard grape dizzy lemon risk";

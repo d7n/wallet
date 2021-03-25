@@ -1,1 +1,1 @@
-var mnemonic = "verify win amazing venture rural author delay small forest omit stomach round";
+var mnemonic = "mask pass young frozen clutch adult recipe lake cabin almost earn novel";

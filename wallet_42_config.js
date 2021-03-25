@@ -1,1 +1,1 @@
-var mnemonic = "wire neither praise inflict axis toe muffin news clump able tribe swallow";
+var mnemonic = "west elbow later hazard minute life space slender milk party travel dress";

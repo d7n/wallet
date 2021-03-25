@@ -1,1 +1,1 @@
-var mnemonic = "glory general rail canyon process apple ball river mix hero behave turn";
+var mnemonic = "craft draw twice accident frame slender family hunt brave attitude history mind";

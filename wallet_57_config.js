@@ -1,1 +1,1 @@
-var mnemonic = "spoon judge stairs loan city sad cupboard beach silver lawn volcano athlete";
+var mnemonic = "remind student artwork trade donate buyer member tennis person ostrich dose squeeze";

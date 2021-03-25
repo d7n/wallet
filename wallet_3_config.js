@@ -1,1 +1,1 @@
-var mnemonic = "climb village able true job slow banana view three mix club answer";
+var mnemonic = "purity smooth sugar celery couple music ancient enemy flee half rookie satisfy";

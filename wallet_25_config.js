@@ -1,1 +1,1 @@
-var mnemonic = "bulk erase confirm random quantum picnic parrot climb art thing sunset clump";
+var mnemonic = "annual gauge small half regular print digital earn thank push balcony case";

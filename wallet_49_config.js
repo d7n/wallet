@@ -1,1 +1,1 @@
-var mnemonic = "cousin soda enjoy tell scrap enforce practice police submit risk awkward toward";
+var mnemonic = "evoke someone test popular dizzy dawn myself sing pond cradle shoulder agent";

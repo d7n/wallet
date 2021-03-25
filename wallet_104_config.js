@@ -1,1 +1,1 @@
-var mnemonic = "symbol ladder cable kite across radio camp toddler expire diet gap across";
+var mnemonic = "year unit size vibrant deny disagree wolf aerobic unable rural robot quit";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor arrest melody essay recall inhale luggage upon beef correct duty first";
+var mnemonic = "decrease also attract hollow throw large announce success main arena story upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "episode captain muscle order stage grab castle muffin fabric survey riot afraid";
+var mnemonic = "novel online quick strategy width milk remember index wolf theory find scare";

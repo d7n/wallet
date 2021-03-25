@@ -1,1 +1,1 @@
-var mnemonic = "river current brave embody child almost list picnic record knee element flock";
+var mnemonic = "tunnel enact river library small urban link solar draw element vital chuckle";

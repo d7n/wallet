@@ -1,1 +1,1 @@
-var mnemonic = "sauce eyebrow tissue afford flip beyond cook shallow wear mail resource jump";
+var mnemonic = "outer good art taste dawn warfare thing slow evoke much deputy panther";

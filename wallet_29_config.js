@@ -1,1 +1,1 @@
-var mnemonic = "fault tissue face matter tomorrow nerve include neck liquid govern inflict theme";
+var mnemonic = "harbor tiger oyster one enlist dove water brick secret large poet exact";

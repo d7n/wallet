@@ -1,1 +1,1 @@
-var mnemonic = "doctor version ivory surprise steel bring milk harbor sustain knock base thing";
+var mnemonic = "pelican kangaroo annual lawn indicate autumn pair girl wisdom invite okay achieve";

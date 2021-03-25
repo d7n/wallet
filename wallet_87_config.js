@@ -1,1 +1,1 @@
-var mnemonic = "clock flame brown remain fence chef short jelly twenty chalk little clap";
+var mnemonic = "junk decorate option certain wisdom scan wet draft six federal trash move";

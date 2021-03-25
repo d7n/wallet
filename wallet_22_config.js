@@ -1,1 +1,1 @@
-var mnemonic = "convince purchase exact science taste ticket language security desk disagree service alley";
+var mnemonic = "stem panda filter marine color multiply indoor affair glow seek faint senior";

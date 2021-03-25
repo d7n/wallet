@@ -1,1 +1,1 @@
-var mnemonic = "foot onion exchange menu goat prepare cereal plunge position blouse six unlock";
+var mnemonic = "about wagon gold vague escape jaguar oppose hurt dad orphan weasel expand";

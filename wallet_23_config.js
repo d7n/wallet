@@ -1,1 +1,1 @@
-var mnemonic = "clock require flock glare fee payment lucky rapid apart orchard aim suffer";
+var mnemonic = "grape transfer brave shell curve flag language slight vacuum ridge program town";

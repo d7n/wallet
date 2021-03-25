@@ -1,1 +1,1 @@
-var mnemonic = "insect another skill satisfy essence social rack polar wage govern acquire property";
+var mnemonic = "eager rescue fruit cake snow nuclear ordinary latin never avocado sock arch";

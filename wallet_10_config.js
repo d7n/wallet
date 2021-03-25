@@ -1,1 +1,1 @@
-var mnemonic = "sick neutral ceiling section woman toy actor rude tobacco employ okay finish";
+var mnemonic = "parent anchor phrase relax powder hand case grass border inside habit frown";

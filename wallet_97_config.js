@@ -1,1 +1,1 @@
-var mnemonic = "trigger manage extend undo afford soccer soon sail cool fiber frame diamond";
+var mnemonic = "during project argue blade select coach crane kiwi course little gym coin";

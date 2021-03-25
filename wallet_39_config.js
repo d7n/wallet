@@ -1,1 +1,1 @@
-var mnemonic = "barrel unaware labor twelve lumber journey peasant fix harsh toy lamp author";
+var mnemonic = "jelly version flash high acid hair kangaroo february scale ladder side goddess";

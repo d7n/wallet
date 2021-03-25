@@ -1,1 +1,1 @@
-var mnemonic = "treat unhappy short penalty alcohol hour gloom aspect orange kiss slam dress";
+var mnemonic = "melody price notable clever fiber tiger blouse strong alley become poet reject";

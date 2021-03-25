@@ -1,1 +1,1 @@
-var mnemonic = "draft dentist live start dolphin genuine vendor rough expire vault spoon super";
+var mnemonic = "install system script promote pet shoe family universe little brush tell smoke";

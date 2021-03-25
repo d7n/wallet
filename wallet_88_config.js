@@ -1,1 +1,1 @@
-var mnemonic = "scale bulk enter problem axis rough warfare pistol art bulk blouse blind";
+var mnemonic = "isolate world harvest proof twelve alter divide gold matrix tennis ordinary chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "exile offer city tuna invest found shock tuna cake steak gloom tennis";
+var mnemonic = "dial pigeon pool sibling pony solar what device mix dog guard afraid";

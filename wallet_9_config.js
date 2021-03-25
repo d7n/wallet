@@ -1,1 +1,1 @@
-var mnemonic = "bind version derive almost album yard mandate mandate permit sting hour asset";
+var mnemonic = "ship black fame book quality bench topple example luxury undo bless apart";

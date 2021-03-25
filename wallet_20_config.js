@@ -1,1 +1,1 @@
-var mnemonic = "recipe suspect deposit legal exit brisk denial aisle angry purchase field mammal";
+var mnemonic = "salon point engine era enact duck wheat tenant wool okay plug innocent";

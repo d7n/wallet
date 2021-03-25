@@ -1,1 +1,1 @@
-var mnemonic = "gas ride between finger sustain artist lock ketchup quantum risk possible extra";
+var mnemonic = "direct antique man royal price calm nest guess ocean steel loyal always";
