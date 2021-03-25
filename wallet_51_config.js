@@ -1,1 +1,1 @@
-var mnemonic = "exclude push lend cave scissors junior crash menu palace craft square hub";
+var mnemonic = "master ethics leisure craft increase news essence digital season fantasy arm reject";

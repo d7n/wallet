@@ -1,1 +1,1 @@
-var mnemonic = "voyage police gospel connect siege sense scorpion swallow strong fatigue start burger";
+var mnemonic = "clay wage trip depart misery doll laundry dash open issue move palace";

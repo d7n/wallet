@@ -1,1 +1,1 @@
-var mnemonic = "drill couch excuse solar desk predict pig pelican caught main also video";
+var mnemonic = "hat green merit ahead bus toast oven rude denial egg interest nose";

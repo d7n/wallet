@@ -1,1 +1,1 @@
-var mnemonic = "cause replace quit runway popular poet typical deputy voyage pledge shiver tenant";
+var mnemonic = "strong salad crack alert prosper girl recall swim ski grow ramp appear";

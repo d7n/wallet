@@ -1,1 +1,1 @@
-var mnemonic = "jump manage alcohol warm acquire negative defy mix gravity swamp young toddler";
+var mnemonic = "outside empty cancel spatial exile lunch stadium cloth swear tiger axis air";

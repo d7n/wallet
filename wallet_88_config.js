@@ -1,1 +1,1 @@
-var mnemonic = "chapter coffee body crater solid economy swear nature table receive library bleak";
+var mnemonic = "pulse idea cook wealth lobster pottery tragic vicious chuckle cloud awake lady";

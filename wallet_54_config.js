@@ -1,1 +1,1 @@
-var mnemonic = "glare carry image thumb idle page twice slot soap shrug mutual walk";
+var mnemonic = "scene trick thunder tortoise rural repeat between evidence expose scheme must matrix";

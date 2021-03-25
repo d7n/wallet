@@ -1,1 +1,1 @@
-var mnemonic = "ask finish alone smart differ stove august bunker erupt ship planet tennis";
+var mnemonic = "upset lumber waste skate reopen wheat light baby milk flip trend stem";

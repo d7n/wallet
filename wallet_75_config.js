@@ -1,1 +1,1 @@
-var mnemonic = "drastic weapon churn cable utility upset whale pitch relief race question quick";
+var mnemonic = "replace pool example idea kiwi lake parent impact journey absurd worth merit";

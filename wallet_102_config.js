@@ -1,1 +1,1 @@
-var mnemonic = "pride fiscal churn already era summer anger fuel novel announce host pitch";
+var mnemonic = "drop pitch labor sponsor bachelor motor merit marble error regret access scatter";

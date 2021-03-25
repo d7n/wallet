@@ -1,1 +1,1 @@
-var mnemonic = "laundry alone half match cricket vacant afford surface gloom search waste idle";
+var mnemonic = "move near history duck fault wear fame horse vast actress sudden like";

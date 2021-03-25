@@ -1,1 +1,1 @@
-var mnemonic = "venture aerobic cram expose enhance episode thrive elbow dwarf eyebrow replace umbrella";
+var mnemonic = "faint keep use naive enforce boy favorite scare mother armed quality remember";

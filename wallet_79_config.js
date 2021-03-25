@@ -1,1 +1,1 @@
-var mnemonic = "pretty excite make educate unaware guitar unit argue occur bless neutral nature";
+var mnemonic = "ripple kitten island pledge oxygen position demand velvet endless rely muscle arrest";

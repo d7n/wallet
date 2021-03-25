@@ -1,1 +1,1 @@
-var mnemonic = "crumble close cool bonus tuition marble change such arrow rib job wet";
+var mnemonic = "west outer olympic original demand have struggle remember alone engage ice renew";

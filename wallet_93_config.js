@@ -1,1 +1,1 @@
-var mnemonic = "group goddess solar banana pumpkin shoot matrix churn inject stone abstract depart";
+var mnemonic = "neither mango remind rice spin interest toast outer discover biology help flame";

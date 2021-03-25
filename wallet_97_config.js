@@ -1,1 +1,1 @@
-var mnemonic = "sauce best pig detect donate beauty bleak truck segment pole diet reveal";
+var mnemonic = "gate silver rebel rookie isolate emotion shed rug lion when explain logic";

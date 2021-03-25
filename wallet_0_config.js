@@ -1,1 +1,1 @@
-var mnemonic = "tape unit release ticket spy fit tunnel sign rain vapor raw wasp";
+var mnemonic = "result upgrade order brick demise hobby club melody surround oven pig shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon dry media hotel ignore crime nothing skate sorry delay mind grace";
+var mnemonic = "pill rich window expose weapon economy dutch guide cluster tissue apple assist";

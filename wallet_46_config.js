@@ -1,1 +1,1 @@
-var mnemonic = "defy human tide poem scrap frozen step olympic toe ceiling size ball";
+var mnemonic = "program whale sad world tortoise loyal dress trial arm pudding voyage sea";

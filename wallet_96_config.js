@@ -1,1 +1,1 @@
-var mnemonic = "figure column glove chest velvet clerk fortune bachelor rival primary casual curve";
+var mnemonic = "actress vacant laptop humor ready chronic carbon fantasy dune note fuel school";

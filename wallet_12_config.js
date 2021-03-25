@@ -1,1 +1,1 @@
-var mnemonic = "toast pluck bubble public fuel bacon economy trophy purse axis sail magic";
+var mnemonic = "false evidence abstract song idea frog pulp turn proof mansion scheme sadness";

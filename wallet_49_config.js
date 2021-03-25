@@ -1,1 +1,1 @@
-var mnemonic = "smart all struggle bonus polar coach drink liar bachelor reunion vessel lounge";
+var mnemonic = "small swim year claim enforce problem give rather vendor interest critic trade";

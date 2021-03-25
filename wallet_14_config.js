@@ -1,1 +1,1 @@
-var mnemonic = "group clean fiction east room glance shove chest menu demand pact guilt";
+var mnemonic = "health electric blur kind pear abandon bacon yellow blur bar kit hope";

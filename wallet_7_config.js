@@ -1,1 +1,1 @@
-var mnemonic = "useless coyote lunch rebuild egg power praise lesson juice train suggest gun";
+var mnemonic = "ahead early smile pattern funny skate skill saddle speak subject athlete whip";

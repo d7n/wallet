@@ -1,1 +1,1 @@
-var mnemonic = "window forum ice upper add derive waste farm cross oven payment before";
+var mnemonic = "image ocean gym tiger now rival cross butter luxury scissors column income";

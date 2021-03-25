@@ -1,1 +1,1 @@
-var mnemonic = "jar someone slim patrol never mom grit swear volcano mule embark utility";
+var mnemonic = "hazard disagree among cherry rigid theme liquid term robust nominee few exact";

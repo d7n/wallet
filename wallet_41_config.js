@@ -1,1 +1,1 @@
-var mnemonic = "seven roast monitor inner dolphin wave absorb saddle dragon drama pony predict";
+var mnemonic = "error pear burst vault barrel glare proud behind film mad couch again";

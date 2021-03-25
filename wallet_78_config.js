@@ -1,1 +1,1 @@
-var mnemonic = "ridge guard resource exclude purity genre rural make spare rookie wear current";
+var mnemonic = "entire fortune noise regular crazy rescue depth strategy sausage rifle chalk enter";

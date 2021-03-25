@@ -1,1 +1,1 @@
-var mnemonic = "lumber muscle solution degree jacket report census rain inmate boy route impose";
+var mnemonic = "field scale patient lion arch divorce goat reject weird soup friend wide";

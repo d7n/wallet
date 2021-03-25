@@ -1,1 +1,1 @@
-var mnemonic = "release keen clarify orchard prosper ozone adult clean very nominee tube fetch";
+var mnemonic = "fetch ancient purchase buffalo scatter ball scrap job olive stomach ride hundred";

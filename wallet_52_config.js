@@ -1,1 +1,1 @@
-var mnemonic = "goose brave bring insane sting inflict concert ensure casual drip gesture license";
+var mnemonic = "utility play vocal fix aware plug ill among bunker exchange castle crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "fury cushion turn junior click crystal neck grass speak panther skill keep";
+var mnemonic = "size garage cousin disease deny evidence exit face riot market illness curious";

@@ -1,1 +1,1 @@
-var mnemonic = "foot hungry problem size fury tail diamond permit labor autumn vault disease";
+var mnemonic = "orbit comic educate dry photo bamboo lounge dog useless soon remain blind";

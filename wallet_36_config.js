@@ -1,1 +1,1 @@
-var mnemonic = "easily sign enemy message shoe have spoil elbow catalog advice float hover";
+var mnemonic = "lawsuit panic throw turtle strong horror risk oven allow budget amount one";

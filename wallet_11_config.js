@@ -1,1 +1,1 @@
-var mnemonic = "sing soft detail acid rice shiver fall arena govern kiwi scorpion direct";
+var mnemonic = "people science toilet curve trouble great eight truly toddler movie bitter member";

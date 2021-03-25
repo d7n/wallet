@@ -1,1 +1,1 @@
-var mnemonic = "report monitor dizzy toddler excuse clown pride cheese blame guitar tuition trophy";
+var mnemonic = "vault loop loop crash extra plunge elite immense globe feel fatal vocal";

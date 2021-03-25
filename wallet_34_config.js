@@ -1,1 +1,1 @@
-var mnemonic = "tobacco gap that spirit alien there fix sample amateur engage predict flash";
+var mnemonic = "grain shoe brush solar sibling fall liberty spin share split diagram cake";

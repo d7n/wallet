@@ -1,1 +1,1 @@
-var mnemonic = "twenty decrease zebra urge inch quality gorilla gossip sure turtle taxi shock";
+var mnemonic = "tip wash mean dilemma gain thing swim note toward potato undo awake";

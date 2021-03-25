@@ -1,1 +1,1 @@
-var mnemonic = "saddle possible wire divide knee analyst hurry feel mouse true recycle love";
+var mnemonic = "winner gauge pony dress cute dog walk artwork repair hawk obvious shed";

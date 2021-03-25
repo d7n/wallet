@@ -1,1 +1,1 @@
-var mnemonic = "autumn pumpkin surge try bonus company marble eyebrow inner relief apple series";
+var mnemonic = "news crowd spend useless skull honey program stereo squeeze enroll rally evolve";

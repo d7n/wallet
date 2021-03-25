@@ -1,1 +1,1 @@
-var mnemonic = "team aim captain huge detail property brisk warrior fossil rubber decide soccer";
+var mnemonic = "asset bag glide outer find chunk fire first document tumble sugar rack";

@@ -1,1 +1,1 @@
-var mnemonic = "cycle acid exist omit empower tide success smile battle claw relax sausage";
+var mnemonic = "slush number fade rule erosion surround below absorb daring win wing cement";

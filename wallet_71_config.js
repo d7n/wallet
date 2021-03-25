@@ -1,1 +1,1 @@
-var mnemonic = "balance soda force fee grow torch quote fade angle near excess ball";
+var mnemonic = "biology child unknown normal cushion hidden steel round vault penalty castle aim";

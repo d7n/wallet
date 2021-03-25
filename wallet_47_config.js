@@ -1,1 +1,1 @@
-var mnemonic = "breeze large another bounce lucky soda say fish derive dignity hover donor";
+var mnemonic = "west length feed park metal language recall program devote photo child laundry";

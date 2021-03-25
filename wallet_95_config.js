@@ -1,1 +1,1 @@
-var mnemonic = "glass original document artist sing brush fork depth hat evidence skirt pitch";
+var mnemonic = "kingdom torch derive brave shallow salad arm quick hurdle social hollow nasty";

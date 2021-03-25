@@ -1,1 +1,1 @@
-var mnemonic = "return orient hedgehog symbol lesson claw armed short price stomach kangaroo neutral";
+var mnemonic = "mixed neither wisdom permit skull robust sunny mushroom damp portion equip thrive";

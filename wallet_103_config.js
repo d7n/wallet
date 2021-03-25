@@ -1,1 +1,1 @@
-var mnemonic = "wisdom antique hello trash reveal hat merge display congress sea elbow satoshi";
+var mnemonic = "broccoli scare property today place orange fix carry load just wasp misery";

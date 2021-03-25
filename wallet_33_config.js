@@ -1,1 +1,1 @@
-var mnemonic = "arena burden team mercy invite critic wealth rate say embrace narrow section";
+var mnemonic = "dove finish glove range giraffe link survey mansion flash inform genuine curtain";

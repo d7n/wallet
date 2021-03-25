@@ -1,1 +1,1 @@
-var mnemonic = "divert subject bounce able hire bunker deny panda reduce learn badge symptom";
+var mnemonic = "fame regular maze myth drop report all scheme minimum figure manual account";

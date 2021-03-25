@@ -1,1 +1,1 @@
-var mnemonic = "occur unit wagon spirit pioneer rookie illness enlist afford pet inmate scatter";
+var mnemonic = "salt cube dismiss mechanic stuff company regret beach nation sport lecture debate";

@@ -1,1 +1,1 @@
-var mnemonic = "blush spike tonight admit sniff depend river high coyote abuse team fly";
+var mnemonic = "sport mountain quiz ivory ignore bonus twist conduct law awake exist shrug";

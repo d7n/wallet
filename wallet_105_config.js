@@ -1,1 +1,1 @@
-var mnemonic = "guide recycle runway trophy ecology envelope razor liquid thumb giggle marine cute";
+var mnemonic = "country join swarm evoke glare sausage reject tribe sudden general hobby burger";

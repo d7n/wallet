@@ -1,1 +1,1 @@
-var mnemonic = "mind drink gallery drink diet chase shrimp reason never fold toward recipe";
+var mnemonic = "buffalo awful sell earth scene wish unique brother danger cement hurt spatial";

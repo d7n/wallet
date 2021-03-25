@@ -1,1 +1,1 @@
-var mnemonic = "crime multiply inform travel trust winner physical guard deer tackle brave mercy";
+var mnemonic = "repeat announce volume local repeat valley any grid story vicious inquiry dune";

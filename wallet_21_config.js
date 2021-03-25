@@ -1,1 +1,1 @@
-var mnemonic = "extend limit until embody vital fiscal piano useful summer either theme loop";
+var mnemonic = "into across pretty citizen deny trade parrot sauce shy insect tunnel athlete";

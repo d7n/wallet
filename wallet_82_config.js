@@ -1,1 +1,1 @@
-var mnemonic = "tragic code rate mimic evil sudden cloud drift find region corn gun";
+var mnemonic = "awesome salt vintage tornado kind maple retire raw lion reduce clap spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise bean chalk flee decrease girl over alarm jump category rack blind";
+var mnemonic = "siege organ travel stem system goose pepper ability spray pelican pyramid sleep";

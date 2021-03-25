@@ -1,1 +1,1 @@
-var mnemonic = "razor roast effort fury entry badge hover barrel young minor rubber hover";
+var mnemonic = "olive rookie erode category cave anxiety wing height era view metal chunk";

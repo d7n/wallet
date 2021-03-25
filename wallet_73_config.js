@@ -1,1 +1,1 @@
-var mnemonic = "injury tortoise code flower cloud boy combine during injury genius problem often";
+var mnemonic = "budget bunker park dress advance boss oxygen neck task super prefer width";

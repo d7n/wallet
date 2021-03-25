@@ -1,1 +1,1 @@
-var mnemonic = "bar follow expand elevator sample mother position airport donkey silver fox fit";
+var mnemonic = "amazing flush dirt orbit luggage load render announce body general pool injury";

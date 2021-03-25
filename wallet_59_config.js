@@ -1,1 +1,1 @@
-var mnemonic = "capable impose farm make twelve atom olive avocado chest stool early blouse";
+var mnemonic = "settle salad grant sort proud census sign exist distance glimpse reward grace";

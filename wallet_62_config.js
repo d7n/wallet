@@ -1,1 +1,1 @@
-var mnemonic = "deposit inject puzzle garage abstract pipe kind cube final address maze cabin";
+var mnemonic = "caught impact adapt task ranch valley soda jewel okay mad piece coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "wait furnace dry dose summer logic naive enlist token frog need pepper";
+var mnemonic = "parrot bubble field toward fresh rose diary usage camera sadness document garage";

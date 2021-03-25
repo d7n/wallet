@@ -1,1 +1,1 @@
-var mnemonic = "symbol spring egg also vacuum obey refuse embark message soul melody soup";
+var mnemonic = "bamboo heart trade jelly improve fringe above basic balance stay bubble car";

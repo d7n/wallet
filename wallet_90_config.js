@@ -1,1 +1,1 @@
-var mnemonic = "cat hand retire shock solid ecology powder vivid way spawn hurt green";
+var mnemonic = "hockey absorb dragon episode notice escape detect risk town region affair drill";

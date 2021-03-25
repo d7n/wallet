@@ -1,1 +1,1 @@
-var mnemonic = "athlete mean pole crash point museum mom jealous squeeze logic myth satoshi";
+var mnemonic = "assist still wire cheese ensure grief wife zoo minor adapt item nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "steel easily paper please mobile music six salute enemy riot evidence firm";
+var mnemonic = "squirrel injury gap owner village riot twist junk vibrant device oil smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "empty powder silly album sorry plastic fortune vanish junior produce dignity biology";
+var mnemonic = "myself volcano paper maid capable reflect favorite throw piano person tip vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "frown bronze rather base jeans sketch torch knock harbor crucial charge online";
+var mnemonic = "public matter resist language begin cruel review endorse ridge kidney involve doll";

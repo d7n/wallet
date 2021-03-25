@@ -1,1 +1,1 @@
-var mnemonic = "loyal grace suffer canal cook blouse kid taxi dove shrug chalk grab";
+var mnemonic = "nature jacket vehicle chief zoo stumble boat siege dumb act truth seek";

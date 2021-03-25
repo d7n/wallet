@@ -1,1 +1,1 @@
-var mnemonic = "strike lend indoor sunny crazy gravity ankle dinosaur little kit any electric";
+var mnemonic = "pepper virtual proof tired tenant copy grow canvas brave door inject donor";

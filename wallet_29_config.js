@@ -1,1 +1,1 @@
-var mnemonic = "code sorry lyrics planet blast lock safe clap cloud cake skill ankle";
+var mnemonic = "spirit half assault unfair remind base eternal sibling social flavor bind unveil";

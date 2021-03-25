@@ -1,1 +1,1 @@
-var mnemonic = "friend kitchen praise icon obvious blind maximum nephew foam frequent journey much";
+var mnemonic = "obtain uphold daughter leaf radar radio addict reflect slender okay sketch hero";

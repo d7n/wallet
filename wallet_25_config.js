@@ -1,1 +1,1 @@
-var mnemonic = "found garden normal draft mosquito infant talent such iron hand salmon detail";
+var mnemonic = "pony share energy horror never false length few impose invite boil answer";

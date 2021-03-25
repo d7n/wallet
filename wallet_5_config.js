@@ -1,1 +1,1 @@
-var mnemonic = "dignity chronic detail forest slice manual cement glow opera track bar tilt";
+var mnemonic = "sheriff just industry protect myself adjust arch tortoise awful ocean curious dream";

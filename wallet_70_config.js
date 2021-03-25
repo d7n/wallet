@@ -1,1 +1,1 @@
-var mnemonic = "fresh door aerobic audit brain alone output protect ski dinner script seven";
+var mnemonic = "eagle convince grape vocal swear tomato south slide orchard else green tobacco";

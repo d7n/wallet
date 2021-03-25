@@ -1,1 +1,1 @@
-var mnemonic = "flag twenty moment roast owner citizen afford curious always summer plunge unlock";
+var mnemonic = "grow pioneer liar video another repeat amazing diamond trap comic toward expect";

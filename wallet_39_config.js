@@ -1,1 +1,1 @@
-var mnemonic = "alarm brave canal knife shrimp canvas proof yellow service custom garlic spin";
+var mnemonic = "claw swarm away family grant trophy radar news monkey absent canyon gun";

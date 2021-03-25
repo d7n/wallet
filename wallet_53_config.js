@@ -1,1 +1,1 @@
-var mnemonic = "apple diary duck seed tumble ceiling cliff slam rebel sign guitar okay";
+var mnemonic = "frog globe expire half luggage mask adapt hello hood wash culture whip";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry globe gentle dial route equal business infant cabin tool pet series";
+var mnemonic = "loop arrive slim arrive hope capital junk typical minute result execute dial";

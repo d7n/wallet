@@ -1,1 +1,1 @@
-var mnemonic = "whip enemy shuffle order seven lonely subway wing undo armed shaft draft";
+var mnemonic = "salt oppose busy item mixed vessel reunion virtual rather shell negative trial";

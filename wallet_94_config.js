@@ -1,1 +1,1 @@
-var mnemonic = "tired decline reason nut hood divide turtle say wagon mouse city wash";
+var mnemonic = "asthma roast speak firm poverty inch ability shield grace notice weapon join";

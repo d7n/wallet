@@ -1,1 +1,1 @@
-var mnemonic = "keep such man enemy cherry square inmate tomato kiss salad travel trap";
+var mnemonic = "brisk tone minute asthma similar produce shrug about pill gorilla boat tooth";

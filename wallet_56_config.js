@@ -1,1 +1,1 @@
-var mnemonic = "volcano danger mad frog winner indicate east multiply attitude remember hello volume";
+var mnemonic = "flame analyst ivory twelve inmate hamster when inflict horror furnace copper health";

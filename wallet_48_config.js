@@ -1,1 +1,1 @@
-var mnemonic = "attend demand scheme equip broccoli piece flower dentist cherry engine draw ridge";
+var mnemonic = "pepper obey idle stomach side slab father glove multiply peace angle horse";

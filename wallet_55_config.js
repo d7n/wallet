@@ -1,1 +1,1 @@
-var mnemonic = "tent gather shuffle bread fuel access accident bicycle shadow govern assist ride";
+var mnemonic = "spoil problem cruise peace involve guess pave silk comfort sponsor october among";

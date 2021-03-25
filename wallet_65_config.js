@@ -1,1 +1,1 @@
-var mnemonic = "valid file crouch fat market slender impose ancient fence myth ceiling include";
+var mnemonic = "height empower bulk zone wrestle legal labor cheap erosion excess cheese wait";
