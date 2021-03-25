@@ -1,1 +1,1 @@
-var mnemonic = "into illegal say hard speak number coconut robot seek decide sunny wash";
+var mnemonic = "void test judge culture minute secret purpose catalog pony whale name symptom";

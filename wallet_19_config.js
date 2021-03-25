@@ -1,1 +1,1 @@
-var mnemonic = "margin chaos record know margin ensure ceiling cup ill kid gallery oil";
+var mnemonic = "tourist proof win kiss dry asthma resist icon poverty enough talk option";

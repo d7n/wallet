@@ -1,1 +1,1 @@
-var mnemonic = "gadget sugar faith outdoor erupt blade breeze sort fine satoshi frog mad";
+var mnemonic = "siege embrace law record human reject soda draw core tiny depart cable";

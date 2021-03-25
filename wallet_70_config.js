@@ -1,1 +1,1 @@
-var mnemonic = "rail emerge hello lizard solid network accident survey sniff soul odor alien";
+var mnemonic = "clean faculty educate increase language occur trap silver giggle cloud relax actual";

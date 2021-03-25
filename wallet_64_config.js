@@ -1,1 +1,1 @@
-var mnemonic = "topple trouble nurse remove virus usage zero math cube diagram display garage";
+var mnemonic = "genuine plug fitness notice negative emerge place thumb clever connect open winter";

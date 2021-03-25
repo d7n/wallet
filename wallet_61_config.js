@@ -1,1 +1,1 @@
-var mnemonic = "stock pitch photo quantum travel spray blouse uncle seminar south capital invite";
+var mnemonic = "impose flavor puzzle chuckle small wonder festival blanket trouble toast glove observe";

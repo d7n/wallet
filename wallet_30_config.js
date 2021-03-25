@@ -1,1 +1,1 @@
-var mnemonic = "element park region matrix notable often indoor bleak strong phrase kitchen surround";
+var mnemonic = "raise pause stone ability praise shuffle roof sport stick wreck spring language";

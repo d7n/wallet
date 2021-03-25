@@ -1,1 +1,1 @@
-var mnemonic = "humble always fade into first immune play among habit cube rather jazz";
+var mnemonic = "slam nuclear hawk neither submit bring expose trust diagram scatter bullet invest";

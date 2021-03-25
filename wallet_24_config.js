@@ -1,1 +1,1 @@
-var mnemonic = "maple juice lion crawl deer custom click detect sleep swallow remind time";
+var mnemonic = "bronze wolf gospel mimic move buyer winner nurse during trial grain pulse";

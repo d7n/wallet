@@ -1,1 +1,1 @@
-var mnemonic = "image prevent skull crystal alter army cereal injury hurry drum trend casual";
+var mnemonic = "couple ask tornado shuffle gown donor cram average deal light earth provide";

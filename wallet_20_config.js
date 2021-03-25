@@ -1,1 +1,1 @@
-var mnemonic = "park blush prize during category tomorrow swing orbit badge note alcohol apple";
+var mnemonic = "amount gas raccoon easily cup turn donkey olympic scatter sunset biology engine";

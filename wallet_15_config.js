@@ -1,1 +1,1 @@
-var mnemonic = "loyal fabric brave shuffle little february news mixture equal perfect horn quality";
+var mnemonic = "apple mention object vessel capable neglect enter salmon uniform exhibit deny first";

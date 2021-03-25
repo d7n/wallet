@@ -1,1 +1,1 @@
-var mnemonic = "disease poet exhaust sword bicycle melody topic rally cattle swing hair stool";
+var mnemonic = "trap carry matrix leader sleep tent grant force improve such frog buffalo";

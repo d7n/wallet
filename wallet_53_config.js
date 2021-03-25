@@ -1,1 +1,1 @@
-var mnemonic = "auto video evolve office shift grab mobile argue cheese fall spring atom";
+var mnemonic = "orient tube silk mother attend spell spoon time west shift frame lazy";

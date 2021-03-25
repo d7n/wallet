@@ -1,1 +1,1 @@
-var mnemonic = "quantum exact area error tribe present swarm benefit love there holiday mention";
+var mnemonic = "future pitch boost deal assist street frequent leaf acoustic lizard purse blouse";

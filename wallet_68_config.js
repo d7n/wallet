@@ -1,1 +1,1 @@
-var mnemonic = "advice alert advance notable vivid planet glide mosquito detect tell during spell";
+var mnemonic = "enlist marine result sister jealous swallow canal another flip walnut radio twice";

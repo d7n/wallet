@@ -1,1 +1,1 @@
-var mnemonic = "tag aspect enroll ghost bread sample cushion tape damage athlete flush abstract";
+var mnemonic = "spawn imitate view survey lonely stone life exile burger engage armor radio";

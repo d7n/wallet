@@ -1,1 +1,1 @@
-var mnemonic = "hospital flee thing essence away jazz color slender paddle cream enemy unknown";
+var mnemonic = "vessel trend unaware awake clarify fade middle lamp govern mobile first stairs";

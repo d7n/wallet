@@ -1,1 +1,1 @@
-var mnemonic = "mosquito weapon bright marine vacant bunker blind theme stay document much brief";
+var mnemonic = "final deer way spread wire silent uncle elbow among fine win strong";

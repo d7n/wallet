@@ -1,1 +1,1 @@
-var mnemonic = "come distance gift entry because that maximum soon protect giggle supreme syrup";
+var mnemonic = "divide crumble obey virus crane food thumb proof join flight flip aspect";

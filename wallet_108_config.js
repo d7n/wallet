@@ -1,1 +1,1 @@
-var mnemonic = "bracket luggage exile insane travel rug strike note delay dance surge scatter";
+var mnemonic = "fine cash luxury own rapid weather purity negative verb agent tumble kick";

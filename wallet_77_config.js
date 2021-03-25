@@ -1,1 +1,1 @@
-var mnemonic = "action bid reject chalk pioneer horn zone army toe trip chunk picture";
+var mnemonic = "valid tree axis electric crystal smoke candy top mammal donkey fame gun";

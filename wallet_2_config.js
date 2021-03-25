@@ -1,1 +1,1 @@
-var mnemonic = "winner alone surprise rescue orchard agree prefer mind section piece voyage list";
+var mnemonic = "sword that coach job coyote present swear quantum wave plug glass chair";

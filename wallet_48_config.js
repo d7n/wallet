@@ -1,1 +1,1 @@
-var mnemonic = "solar safe wood faculty hire inner crisp tiny impulse tooth access bulb";
+var mnemonic = "broom shock column flash transfer solid like useless air symbol office million";

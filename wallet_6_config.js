@@ -1,1 +1,1 @@
-var mnemonic = "glad paper crater sustain resemble secret lottery oblige error wreck whale develop";
+var mnemonic = "model honey tomorrow taste road february number easy goat trap glimpse rural";

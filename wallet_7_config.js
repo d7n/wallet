@@ -1,1 +1,1 @@
-var mnemonic = "jungle power vault deer shoe icon such observe volcano again absorb fall";
+var mnemonic = "intact album asthma furnace core oblige divide ozone flush solve alcohol rival";

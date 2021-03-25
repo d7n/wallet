@@ -1,1 +1,1 @@
-var mnemonic = "stuff pair naive picnic tonight moral episode typical dinosaur deposit cotton indicate";
+var mnemonic = "frozen summer must check toward adjust ripple unlock giggle speak craft horror";

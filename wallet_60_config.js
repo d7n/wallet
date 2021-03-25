@@ -1,1 +1,1 @@
-var mnemonic = "trouble again silver school loop seven fault weekend drop couch loyal stool";
+var mnemonic = "food concert gate correct ill warrior feel cat print element range dismiss";

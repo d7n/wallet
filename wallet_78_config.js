@@ -1,1 +1,1 @@
-var mnemonic = "when wrestle brave private permit faculty claim dress theme churn tank swim";
+var mnemonic = "purity border want nut double term access impose improve taxi dignity diagram";

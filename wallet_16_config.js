@@ -1,1 +1,1 @@
-var mnemonic = "private innocent vital express acquire slow animal neglect card art depth slogan";
+var mnemonic = "people slice accuse rookie cute satoshi safe snap exhaust dignity upon dove";

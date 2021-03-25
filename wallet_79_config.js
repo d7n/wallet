@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wife eight project winner shuffle myself glide frog wasp track source";
+var mnemonic = "alley embody pyramid join police famous second north index clerk hidden quantum";

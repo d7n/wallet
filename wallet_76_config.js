@@ -1,1 +1,1 @@
-var mnemonic = "survey arena speed consider excite recycle tilt melt view nest cotton fun";
+var mnemonic = "essence clog alter stove woman donor false endorse tourist file traffic genius";

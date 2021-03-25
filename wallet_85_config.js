@@ -1,1 +1,1 @@
-var mnemonic = "avoid conduct disease quality ribbon honey budget time immense bulk volume orient";
+var mnemonic = "bulk behind behave evoke fancy aisle brush chunk drill puzzle ramp accident";

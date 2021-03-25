@@ -1,1 +1,1 @@
-var mnemonic = "ocean young jump jealous have loop start dragon favorite blind symptom excuse";
+var mnemonic = "brass scan own forum dentist awake aunt family festival gift dynamic misery";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction speed boil mix nature sudden garden match jelly typical bitter quarter";
+var mnemonic = "gap panda recycle off basic used priority pitch hollow add myself congress";

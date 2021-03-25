@@ -1,1 +1,1 @@
-var mnemonic = "maple earth promote cost museum frown limit length estate seminar march mask";
+var mnemonic = "fresh tuna boat below bleak stumble air walk urge strategy time parrot";

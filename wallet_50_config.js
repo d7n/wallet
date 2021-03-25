@@ -1,1 +1,1 @@
-var mnemonic = "height across neither father deliver laundry summer trial drift what inch enter";
+var mnemonic = "receive train bicycle one round tape dismiss install famous spot repair castle";

@@ -1,1 +1,1 @@
-var mnemonic = "style frequent leg abandon cross safe awful phone solar phone cupboard insane";
+var mnemonic = "park because struggle crack walk leader ready deliver appear leg dynamic column";

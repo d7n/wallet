@@ -1,1 +1,1 @@
-var mnemonic = "fashion desert hammer barrel exhaust pear jewel canvas spring call ask blood";
+var mnemonic = "visa couple inject side dinner noble episode fork vague plastic humor dawn";

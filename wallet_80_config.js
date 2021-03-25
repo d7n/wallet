@@ -1,1 +1,1 @@
-var mnemonic = "shoulder sugar crouch element gauge alcohol clutch inmate sadness ask butter heavy";
+var mnemonic = "staff bitter midnight twin cover bean caught sibling gate actual extend theory";

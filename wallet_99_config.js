@@ -1,1 +1,1 @@
-var mnemonic = "pistol thank hub mule indoor air foil crane thing kitten property coin";
+var mnemonic = "shaft code orient fire connect runway fury security wrestle series garden situate";

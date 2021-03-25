@@ -1,1 +1,1 @@
-var mnemonic = "history audit island capital chronic wheat little moment rival spawn use stand";
+var mnemonic = "silly once radar glare payment tower latin innocent expand sock foam pave";

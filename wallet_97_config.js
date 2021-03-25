@@ -1,1 +1,1 @@
-var mnemonic = "bridge ramp pelican evolve fault planet local sick lunar ignore color filter";
+var mnemonic = "aerobic vacant quantum develop human absorb clever same divorce situate census always";

@@ -1,1 +1,1 @@
-var mnemonic = "layer frequent laundry require inject hospital crush narrow wagon health foot hub";
+var mnemonic = "twelve adjust call blush pledge drop move goat average candy obey hill";

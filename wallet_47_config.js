@@ -1,1 +1,1 @@
-var mnemonic = "man swarm village hybrid sting roast team outdoor hover sketch cement awesome";
+var mnemonic = "cereal boil rookie shock nurse curtain primary sail produce net spread siren";

@@ -1,1 +1,1 @@
-var mnemonic = "casino plunge exclude scrap approve reduce decline law canoe emerge cake enact";
+var mnemonic = "scare urban fitness spring absorb dynamic firm silver salmon foot leaf cloud";

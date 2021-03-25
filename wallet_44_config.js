@@ -1,1 +1,1 @@
-var mnemonic = "window bag nation jeans dress field dirt december dish festival pony kiwi";
+var mnemonic = "quantum problem punch like vacant duty equal rebuild dream humor lottery illegal";

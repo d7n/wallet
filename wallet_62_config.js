@@ -1,1 +1,1 @@
-var mnemonic = "century sport piano thumb route trumpet onion base green breeze miracle hurry";
+var mnemonic = "exercise witness shallow craft speak boat course anger claim rude habit power";

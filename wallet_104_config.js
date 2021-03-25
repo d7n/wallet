@@ -1,1 +1,1 @@
-var mnemonic = "moral ladder smoke nest leaf caught birth step frost december sphere current";
+var mnemonic = "toy cereal chief region naive jewel day dizzy surprise valid virus cruel";

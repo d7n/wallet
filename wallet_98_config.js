@@ -1,1 +1,1 @@
-var mnemonic = "latin flat force describe fantasy decide gold vacant advance radar goddess exit";
+var mnemonic = "private spin tongue short eight like useless cry sock put inhale hood";

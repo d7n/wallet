@@ -1,1 +1,1 @@
-var mnemonic = "amused quote answer harsh area thunder action dentist misery human dynamic innocent";
+var mnemonic = "game valid sponsor street ritual great pet already album earn walk regret";

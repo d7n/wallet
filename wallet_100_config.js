@@ -1,1 +1,1 @@
-var mnemonic = "save burst alone travel still decorate web hub off obey shrug gain";
+var mnemonic = "lucky remain alley bubble pumpkin corn dismiss cancel bar assault all sting";

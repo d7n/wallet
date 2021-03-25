@@ -1,1 +1,1 @@
-var mnemonic = "kidney tenant seat taste grass clarify about exotic multiply celery shove reveal";
+var mnemonic = "cake ecology border pluck brain ticket entire fruit exchange cube confirm sound";

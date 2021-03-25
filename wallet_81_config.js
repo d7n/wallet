@@ -1,1 +1,1 @@
-var mnemonic = "impose vicious bracket tourist good roast cattle clay mixture tribe copper laptop";
+var mnemonic = "prosper habit melt mango topic help notable dawn champion ski bargain memory";

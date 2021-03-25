@@ -1,1 +1,1 @@
-var mnemonic = "bachelor coffee wink december tourist type festival forget spawn normal multiply version";
+var mnemonic = "series awesome thumb mind list brother tower topic bubble regret raccoon youth";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic express basic fork high simple swim fan maid grunt ignore blue";
+var mnemonic = "lift soccer siren mirror pretty essence object neither hybrid charge derive couple";

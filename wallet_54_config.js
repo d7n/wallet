@@ -1,1 +1,1 @@
-var mnemonic = "real junk horn update frozen primary virus that team grow direct tide";
+var mnemonic = "cupboard surge close jacket boil fly unveil occur surface barrel learn sugar";

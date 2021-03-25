@@ -1,1 +1,1 @@
-var mnemonic = "wonder mystery rebuild zebra lion crack bench miss bottom dirt pottery fetch";
+var mnemonic = "apart purchase noodle plate century hill attitude misery anchor maid spice ill";

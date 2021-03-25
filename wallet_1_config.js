@@ -1,1 +1,1 @@
-var mnemonic = "acid casino elbow model mosquito bicycle sheriff yellow argue level left arctic";
+var mnemonic = "fiction wine educate return horse combine body exchange bottom urban scrub dynamic";

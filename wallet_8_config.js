@@ -1,1 +1,1 @@
-var mnemonic = "amazing hand picnic across intact clog fog love portion index tenant camera";
+var mnemonic = "split spread pull turtle patrol basket digital language inner music ketchup swap";

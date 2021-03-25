@@ -1,1 +1,1 @@
-var mnemonic = "three lend pioneer easily famous flush where toy impose rent refuse deal";
+var mnemonic = "derive obey search source wash measure retire talk busy purchase patch obey";

@@ -1,1 +1,1 @@
-var mnemonic = "senior color outside rather twice estate patrol short cat legal thunder toast";
+var mnemonic = "program decide dish reunion say dwarf vast mask reject plastic kit fantasy";

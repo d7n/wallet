@@ -1,1 +1,1 @@
-var mnemonic = "require pencil purpose tool inch genre sail deposit state evolve average delay";
+var mnemonic = "casino gap alley more property name love capital transfer delay latin camp";

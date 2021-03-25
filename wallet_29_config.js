@@ -1,1 +1,1 @@
-var mnemonic = "race spy script able industry syrup legend style sign entire lock reward";
+var mnemonic = "vapor version rude scrap scan bike cruel plug divide pigeon father run";

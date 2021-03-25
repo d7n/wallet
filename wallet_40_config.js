@@ -1,1 +1,1 @@
-var mnemonic = "poem bind squeeze turn begin school diesel check child best setup congress";
+var mnemonic = "science permit army visit moon knife pear build apart champion okay couple";

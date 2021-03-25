@@ -1,1 +1,1 @@
-var mnemonic = "wheat wide pass anxiety profit certain slender pitch travel brisk about goddess";
+var mnemonic = "inspire tortoise afford laundry visual buzz wolf energy swap strong bitter subway";

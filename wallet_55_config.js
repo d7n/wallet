@@ -1,1 +1,1 @@
-var mnemonic = "smooth ladder coffee enact boil gesture produce decline slender cross arena approve";
+var mnemonic = "weather person hazard top degree sugar flip erupt abstract oil pyramid mom";

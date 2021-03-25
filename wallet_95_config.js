@@ -1,1 +1,1 @@
-var mnemonic = "state flower minor eager coin barrel tragic owner soft puzzle cloth utility";
+var mnemonic = "they beauty divorce humble master leader clump stumble blast burger predict security";

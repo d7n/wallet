@@ -1,1 +1,1 @@
-var mnemonic = "produce paper grain ripple symbol essence pass athlete pause sustain quiz snap";
+var mnemonic = "fiscal frame brother raccoon away age hand vehicle excuse click endless hidden";

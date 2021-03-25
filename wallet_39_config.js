@@ -1,1 +1,1 @@
-var mnemonic = "spray result public marble always badge flee confirm adapt obey blanket leisure";
+var mnemonic = "digital luxury tongue cradle sheriff mammal feed alcohol space rug divide tell";

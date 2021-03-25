@@ -1,1 +1,1 @@
-var mnemonic = "demise fortune voice economy cup life bitter outer metal crisp convince voyage";
+var mnemonic = "tonight memory apology outdoor detect quantum august morning distance animal need invest";

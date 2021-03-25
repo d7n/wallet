@@ -1,1 +1,1 @@
-var mnemonic = "host juice deputy stage flavor want identify cream citizen need story leave";
+var mnemonic = "confirm strong arrow broken merry security fold bleak pigeon raise angry giraffe";

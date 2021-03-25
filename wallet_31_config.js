@@ -1,1 +1,1 @@
-var mnemonic = "stick double finish nest task cement spice sport member tattoo color tip";
+var mnemonic = "napkin cupboard athlete aunt minimum reward marine spell tooth soup matter upset";

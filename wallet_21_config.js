@@ -1,1 +1,1 @@
-var mnemonic = "bone picture climb light dawn amount sunny depth panel image forward tent";
+var mnemonic = "warm castle trust egg fun fossil kit math silent enjoy maple scrap";

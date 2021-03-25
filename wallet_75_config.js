@@ -1,1 +1,1 @@
-var mnemonic = "ostrich symptom high version riot pumpkin perfect brick stick swear cargo panda";
+var mnemonic = "fluid spoil stock owner local empower fold narrow mountain portion chaos cost";

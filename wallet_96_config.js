@@ -1,1 +1,1 @@
-var mnemonic = "dose loan market boost sport system label flower pet simple fancy nuclear";
+var mnemonic = "emotion habit clever liar share ski yellow blanket adjust stuff over tired";

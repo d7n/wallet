@@ -1,1 +1,1 @@
-var mnemonic = "reduce number demise street bag march simple flock kit merge adapt expire";
+var mnemonic = "sausage dad cloth slender spin lift during hero phone update spirit clip";

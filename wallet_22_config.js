@@ -1,1 +1,1 @@
-var mnemonic = "beyond apart muscle coffee express glory level plastic retire proof issue sting";
+var mnemonic = "tenant blossom thing tunnel deal utility purpose match canoe build honey polar";

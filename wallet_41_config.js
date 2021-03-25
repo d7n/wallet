@@ -1,1 +1,1 @@
-var mnemonic = "cushion cry decorate loyal outdoor phrase park isolate frown zebra between fortune";
+var mnemonic = "satoshi give saddle chapter pigeon talk sunset game wave odor thought hen";

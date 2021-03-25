@@ -1,1 +1,1 @@
-var mnemonic = "please buddy ankle purity please confirm open manage high embrace fade only";
+var mnemonic = "boil senior garage twenty brief spray draft elbow glue diet essence output";

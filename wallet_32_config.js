@@ -1,1 +1,1 @@
-var mnemonic = "stable balcony quit clutch menu more web excess hybrid wall blanket embody";
+var mnemonic = "afford object fossil surround polar bridge town increase reason foam extra siege";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow bulk beach toy can crack acquire wonder eternal lava home brick";
+var mnemonic = "race brief emotion sample isolate problem print fitness card fabric borrow economy";

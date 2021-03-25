@@ -1,1 +1,1 @@
-var mnemonic = "delay accident alert suspect market visit usual sock hire auto old divert";
+var mnemonic = "leader equal boss taste noodle upgrade pony option captain birth employ race";

@@ -1,1 +1,1 @@
-var mnemonic = "final ship glass disease upon relief subject meat tourist warm oil tide";
+var mnemonic = "addict divert harsh perfect range cloud utility october potato lava bicycle asset";

@@ -1,1 +1,1 @@
-var mnemonic = "believe split pet lawsuit beauty toward since lunar regular want guilt patch";
+var mnemonic = "cream beauty fold earn nasty become quote loyal reduce volcano jelly olive";

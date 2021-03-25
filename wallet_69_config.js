@@ -1,1 +1,1 @@
-var mnemonic = "amateur question oyster floor gallery plastic fox flush invite nice hand bean";
+var mnemonic = "lamp spot gloom equal fluid point survey clog prize wrap target lounge";

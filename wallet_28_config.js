@@ -1,1 +1,1 @@
-var mnemonic = "biology dune quit despair modify edit style giant tattoo sea chef near";
+var mnemonic = "wonder sponsor summer skate number onion valid pudding ring evoke mixed fortune";

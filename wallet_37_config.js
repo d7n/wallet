@@ -1,1 +1,1 @@
-var mnemonic = "rural write interest patch whisper seek stick vacant fly doctor home spread";
+var mnemonic = "sand reject play soft enjoy social glue canvas long arm tumble patient";

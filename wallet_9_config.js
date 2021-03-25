@@ -1,1 +1,1 @@
-var mnemonic = "region just local vacant unhappy illness diary what vacuum never valid fabric";
+var mnemonic = "skill hospital better tribe damp ordinary outer crash crouch august script zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "agree robot sadness slim lens hour gorilla action cannon scan basic tourist";
+var mnemonic = "merge deer grass lawsuit chunk trial weapon arrive comic pond marriage organ";

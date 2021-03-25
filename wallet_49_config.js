@@ -1,1 +1,1 @@
-var mnemonic = "nose alter health damp rich stomach tourist kiss piano buzz enough want";
+var mnemonic = "reflect artefact upset acoustic thing normal adapt fee dinner welcome gaze trust";

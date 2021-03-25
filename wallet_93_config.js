@@ -1,1 +1,1 @@
-var mnemonic = "disorder scorpion citizen angle recycle spawn use toy acquire slender season dance";
+var mnemonic = "sphere emotion hedgehog walnut wing toward hint ceiling attitude coconut drip payment";

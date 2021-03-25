@@ -1,1 +1,1 @@
-var mnemonic = "frequent door pizza invite chuckle blur ritual elbow liquid flat ozone grid";
+var mnemonic = "response job giant soldier poet shadow pet sheriff opera anger lake cheese";
