@@ -1,1 +1,1 @@
-var mnemonic = "payment grass draw chunk off faint cross peasant whip rigid slush sample";
+var mnemonic = "ramp marriage illegal mercy egg course desk family smoke slender conduct spoon";

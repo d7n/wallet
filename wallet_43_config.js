@@ -1,1 +1,1 @@
-var mnemonic = "effort sudden sing monitor inspire mixed subject home atom juice weasel trash";
+var mnemonic = "defy birth tiger odor ignore cost focus three define shock gauge east";

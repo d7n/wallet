@@ -1,1 +1,1 @@
-var mnemonic = "across small cave crack item priority peasant coconut morning town kangaroo outside";
+var mnemonic = "vanish tooth town recycle wrestle silver fine wedding toe nation tonight scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "approve wine false banner student library crumble code bar sadness alert raven";
+var mnemonic = "ticket pair bounce like also legal hero virtual will second trial egg";

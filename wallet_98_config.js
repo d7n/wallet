@@ -1,1 +1,1 @@
-var mnemonic = "feel wood target capable bus wife tiger deliver attack develop dance quarter";
+var mnemonic = "field empty now remove girl model divorce asthma maximum face wait wealth";

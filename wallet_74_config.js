@@ -1,1 +1,1 @@
-var mnemonic = "remain shield chuckle fever cigar kitten language explain garage myself bleak laundry";
+var mnemonic = "increase secret fresh pact noodle drama place clown meat child boat divorce";

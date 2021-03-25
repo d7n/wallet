@@ -1,1 +1,1 @@
-var mnemonic = "what nation sugar once enroll panda goddess outdoor bulk artist useful winter";
+var mnemonic = "organ become portion country assume control hover enhance fox day blood dwarf";

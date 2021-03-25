@@ -1,1 +1,1 @@
-var mnemonic = "excuse width cattle chimney soon assault era suit usual resist accident light";
+var mnemonic = "camp smooth unlock damp dragon online enroll vacant sponsor ozone else parrot";

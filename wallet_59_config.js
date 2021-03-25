@@ -1,1 +1,1 @@
-var mnemonic = "because shoulder spray couch tonight arrive forest secret excuse amused step nerve";
+var mnemonic = "amount pigeon ritual laundry lava power tube category speed mimic bitter hotel";

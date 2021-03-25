@@ -1,1 +1,1 @@
-var mnemonic = "song crater number praise trim gym infant voice snake write burden orbit";
+var mnemonic = "judge cloud museum math sting swamp insect tenant youth awake surge peasant";

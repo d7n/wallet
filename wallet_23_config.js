@@ -1,1 +1,1 @@
-var mnemonic = "onion upset receive video word include churn live matrix faith whisper faith";
+var mnemonic = "bullet actress virus clutch invest actor twelve library mobile cable worth token";

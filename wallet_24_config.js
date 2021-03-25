@@ -1,1 +1,1 @@
-var mnemonic = "elite movie gospel razor slide expect bag segment path gas pigeon aunt";
+var mnemonic = "velvet whip property bachelor scatter knee marble industry fatigue draw gasp cave";

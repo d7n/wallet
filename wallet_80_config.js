@@ -1,1 +1,1 @@
-var mnemonic = "family birth cruel lunch picture tornado pear step canyon vault ordinary thank";
+var mnemonic = "often level maid outdoor saddle second surprise tape frog delay reopen fatigue";

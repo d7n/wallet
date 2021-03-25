@@ -1,1 +1,1 @@
-var mnemonic = "police panda detail muffin extra nerve bargain bus ancient corn cost cousin";
+var mnemonic = "bone reduce intact idea power drink gun roast escape baby flip hope";

@@ -1,1 +1,1 @@
-var mnemonic = "clutch behave dolphin blur saddle mesh ghost explain embark dream assist useful";
+var mnemonic = "mixed happy supreme action purity sea pelican twelve club drama negative surface";

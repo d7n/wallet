@@ -1,1 +1,1 @@
-var mnemonic = "multiply night frost october exhaust crumble impose can foil gate title vicious";
+var mnemonic = "step rice victory garage innocent choice garlic high kangaroo duck ripple fence";

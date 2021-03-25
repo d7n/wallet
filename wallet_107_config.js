@@ -1,1 +1,1 @@
-var mnemonic = "oak number gesture attend provide edge rude lady patch kick valve opera";
+var mnemonic = "endless dizzy garment someone tiger hybrid clay age subway inside attract will";

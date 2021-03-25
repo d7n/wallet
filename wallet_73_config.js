@@ -1,1 +1,1 @@
-var mnemonic = "pony blame police east essay bind else chronic stem erupt project dad";
+var mnemonic = "grain ensure noble ensure rocket grief love orient pretty detail other pilot";

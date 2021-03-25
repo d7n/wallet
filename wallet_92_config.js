@@ -1,1 +1,1 @@
-var mnemonic = "warm cruel buyer venue engage suspect merry owner hotel kite believe ramp";
+var mnemonic = "zoo garbage loan visual stamp artist multiply equip casino feature become ostrich";

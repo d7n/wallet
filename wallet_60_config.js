@@ -1,1 +1,1 @@
-var mnemonic = "volcano chalk fetch found target visit include arrow egg object echo pole";
+var mnemonic = "usual clown lizard album pact topple ecology blanket century switch habit recipe";

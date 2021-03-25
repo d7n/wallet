@@ -1,1 +1,1 @@
-var mnemonic = "glad alpha brisk lounge example chapter avoid volcano panic rhythm small grass";
+var mnemonic = "entry dune midnight lonely final main guess casino suspect blame suspect before";

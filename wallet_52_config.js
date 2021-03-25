@@ -1,1 +1,1 @@
-var mnemonic = "april flat measure lawn number give snack mountain easy remove victory glow";
+var mnemonic = "ankle visit flight vintage place segment capital family emerge idle approve fit";

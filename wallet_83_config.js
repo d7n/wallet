@@ -1,1 +1,1 @@
-var mnemonic = "gain canal energy flash play chimney trash noble volume supply cook detail";
+var mnemonic = "tired earn isolate life elevator cargo damp stereo change install decrease power";

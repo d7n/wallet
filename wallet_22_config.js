@@ -1,1 +1,1 @@
-var mnemonic = "skull fork daring flee dawn blade wedding tribe tumble food joy grocery";
+var mnemonic = "use warrior shed roof bronze rookie what pill kingdom post enough key";

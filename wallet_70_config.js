@@ -1,1 +1,1 @@
-var mnemonic = "word donate team animal quality orbit gap hope bundle balance push win";
+var mnemonic = "wasp either slim deliver luxury able banana already picture gesture number visit";

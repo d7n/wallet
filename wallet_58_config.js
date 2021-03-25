@@ -1,1 +1,1 @@
-var mnemonic = "elevator room blouse reform denial image frog vanish course notable lottery busy";
+var mnemonic = "amount audit swing video ocean mandate jacket youth biology more impulse dinner";

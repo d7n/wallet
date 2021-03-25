@@ -1,1 +1,1 @@
-var mnemonic = "exist pact wire crunch shop orbit eight bread borrow drastic evil lazy";
+var mnemonic = "decline other december sibling robot search venue romance steel harsh notable gasp";

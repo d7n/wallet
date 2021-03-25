@@ -1,1 +1,1 @@
-var mnemonic = "goose exclude era spice usual clarify general split dizzy bright topic diesel";
+var mnemonic = "fortune manage sheriff rice skate rely walk hope state tooth patrol pretty";

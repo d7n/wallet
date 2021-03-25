@@ -1,1 +1,1 @@
-var mnemonic = "motor never catch begin negative clean orbit swallow element you keep sheriff";
+var mnemonic = "frost seat evolve rural slush hurdle youth hospital transfer mean expect away";

@@ -1,1 +1,1 @@
-var mnemonic = "inner dish awful gentle keen tilt flame ripple family rally couple fade";
+var mnemonic = "convince toss napkin trap grocery modify empower glide distance frog hobby bulb";

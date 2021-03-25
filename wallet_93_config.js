@@ -1,1 +1,1 @@
-var mnemonic = "aisle turn top bullet stadium side canyon sense infant stable satisfy glow";
+var mnemonic = "turn unhappy upon chimney sweet hire jewel rug test window mouse unlock";

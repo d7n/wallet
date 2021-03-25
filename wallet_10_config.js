@@ -1,1 +1,1 @@
-var mnemonic = "supply special swallow impose loyal usage cotton trick audit verify waste foster";
+var mnemonic = "creek venture auto other crater ability barely sausage direct venture hospital tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "mirror input body metal refuse situate nice indoor lesson velvet grow love";
+var mnemonic = "deliver wagon craft boring ability ill swamp prevent until rookie plunge offer";

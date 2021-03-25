@@ -1,1 +1,1 @@
-var mnemonic = "chapter confirm ugly fade later feel twin loyal disease advice soda tip";
+var mnemonic = "picture firm sea dune width give wife mixture alpha outdoor october put";

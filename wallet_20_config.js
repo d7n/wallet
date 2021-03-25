@@ -1,1 +1,1 @@
-var mnemonic = "cancel review element consider cattle hobby sunny speed audit equal plate fork";
+var mnemonic = "suit moon verb exhaust veteran student hamster image attend lift pride trick";

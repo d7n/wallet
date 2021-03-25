@@ -1,1 +1,1 @@
-var mnemonic = "enable lounge hamster truth remain photo message answer army invite board time";
+var mnemonic = "junior jaguar pumpkin bicycle dynamic dinosaur reform laugh extra federal runway exercise";

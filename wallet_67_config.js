@@ -1,1 +1,1 @@
-var mnemonic = "long ring miss loud vacuum certain cruel rough guitar ecology forward file";
+var mnemonic = "practice drive nothing impose eager crumble scrub eye resist net sample awkward";

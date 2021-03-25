@@ -1,1 +1,1 @@
-var mnemonic = "symbol labor burden salad file inherit size acoustic where minor where silk";
+var mnemonic = "addict bar off claw rigid silly library choice tilt usage amused punch";

@@ -1,1 +1,1 @@
-var mnemonic = "park mansion visa celery inside tackle village pepper shallow athlete game play";
+var mnemonic = "gym either above raw thing grocery bottom cheese advice palm purse remain";

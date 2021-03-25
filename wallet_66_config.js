@@ -1,1 +1,1 @@
-var mnemonic = "hurt wet record system edge tongue wage raise settle bounce foster myself";
+var mnemonic = "beef rocket acquire alert fringe boy grid palm wrong pioneer develop later";

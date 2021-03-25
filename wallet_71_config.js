@@ -1,1 +1,1 @@
-var mnemonic = "track number primary require girl top jelly select multiply used entire board";
+var mnemonic = "emotion connect extra cook emerge media upgrade excess first disorder pink project";

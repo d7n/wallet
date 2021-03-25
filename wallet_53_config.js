@@ -1,1 +1,1 @@
-var mnemonic = "reveal equal market two during foster clay panic drip gift ribbon east";
+var mnemonic = "announce beef cheap risk prison waste rigid remember romance pistol follow radio";

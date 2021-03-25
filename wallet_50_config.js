@@ -1,1 +1,1 @@
-var mnemonic = "bird panther cover frame reunion picnic drip snap verify worry extend width";
+var mnemonic = "conduct inquiry pulse else suit office boy good vote leaf double furnace";

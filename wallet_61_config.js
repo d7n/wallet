@@ -1,1 +1,1 @@
-var mnemonic = "palace welcome dwarf cradle across pipe harbor alley weekend asthma panther caught";
+var mnemonic = "pave assist path negative delay ribbon mercy step coral exotic legend chunk";

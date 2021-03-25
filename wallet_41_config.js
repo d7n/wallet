@@ -1,1 +1,1 @@
-var mnemonic = "purpose one menu shed heart mandate song dance iron current trend box";
+var mnemonic = "repeat hope leisure media dog dragon rapid jungle resource century junior drum";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion knock winner renew silk escape pilot mesh satoshi eager ten decade";
+var mnemonic = "siege admit party canoe mystery brother black panther bulk manual girl mimic";

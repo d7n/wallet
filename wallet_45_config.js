@@ -1,1 +1,1 @@
-var mnemonic = "entire silk rebuild office steel tribe loud panel suffer please remind kitchen";
+var mnemonic = "head assume blade relief frost tooth snow gloom exact attack iron math";

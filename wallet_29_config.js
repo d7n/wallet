@@ -1,1 +1,1 @@
-var mnemonic = "hat lunar magic cute bike usual about chronic sail unusual define enforce";
+var mnemonic = "common hole pyramid people bulb left decorate cruise feel cover situate wood";

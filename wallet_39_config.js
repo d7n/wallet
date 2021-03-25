@@ -1,1 +1,1 @@
-var mnemonic = "speak dune light write dragon skill version lobster shoulder draw depth appear";
+var mnemonic = "govern decade zone knock sign rival limb grace curve online fringe toe";

@@ -1,1 +1,1 @@
-var mnemonic = "spider copy happy sail cousin limit better wool pilot leave rent ozone";
+var mnemonic = "skull curious defy ski price another minor monster bomb adapt gate frost";

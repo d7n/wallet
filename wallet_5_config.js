@@ -1,1 +1,1 @@
-var mnemonic = "tooth name lady ride car system rhythm galaxy actor daring able install";
+var mnemonic = "crime unfair direct pave myself pause steel wall exit seed vessel spider";

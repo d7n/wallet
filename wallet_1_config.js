@@ -1,1 +1,1 @@
-var mnemonic = "sibling bounce collect lounge notice limit harvest vocal pink latin first bike";
+var mnemonic = "master media fuel piece bamboo buffalo pretty mule appear daughter tide bacon";

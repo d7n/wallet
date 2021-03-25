@@ -1,1 +1,1 @@
-var mnemonic = "tag ready submit include wait volume joy hedgehog domain acid man saddle";
+var mnemonic = "admit before child fatal soul list firm law proof winter crouch poverty";

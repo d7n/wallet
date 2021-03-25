@@ -1,1 +1,1 @@
-var mnemonic = "glance dust twenty high appear area sunny forest shop hood lend relax";
+var mnemonic = "crush parade smart chair session elephant jar hurry knee grit trouble coconut";

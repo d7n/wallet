@@ -1,1 +1,1 @@
-var mnemonic = "math void ball square rival clock actor amount behave helmet life badge";
+var mnemonic = "space cement stock keen rigid reunion despair image skull famous defy coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "run limit merit abstract prize law this engine utility danger harbor dance";
+var mnemonic = "thank lyrics pair month patient insect naive apology credit because sea bargain";

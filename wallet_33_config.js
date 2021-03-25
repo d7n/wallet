@@ -1,1 +1,1 @@
-var mnemonic = "help weather win online penalty frown under prosper home power sad wash";
+var mnemonic = "snake below trouble vital prepare pottery door dog grit distance project brown";

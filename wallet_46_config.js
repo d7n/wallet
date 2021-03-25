@@ -1,1 +1,1 @@
-var mnemonic = "siege business isolate lobster donate jewel cricket episode bike elbow churn tumble";
+var mnemonic = "brass orange want toss shaft pipe load obtain exchange ancient clog nice";

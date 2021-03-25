@@ -1,1 +1,1 @@
-var mnemonic = "update deposit similar pelican object polar broken strong muffin review crop auto";
+var mnemonic = "main erosion august glue front relax sentence total wood pigeon lunar trust";

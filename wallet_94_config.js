@@ -1,1 +1,1 @@
-var mnemonic = "poet between river faith zone fury kite impact tomorrow gym drum clip";
+var mnemonic = "question success ticket current impact bottom bonus impose mango harbor turn aim";

@@ -1,1 +1,1 @@
-var mnemonic = "iron connect dice meadow swing session supreme year oxygen scan eternal under";
+var mnemonic = "rescue poet torch idea sick glory nothing balcony bird mango upset enable";

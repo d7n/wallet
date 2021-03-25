@@ -1,1 +1,1 @@
-var mnemonic = "wink damage offer ahead fade usual car title title tail dove expect";
+var mnemonic = "silly file lucky there cliff hair essay link energy insect tired dirt";

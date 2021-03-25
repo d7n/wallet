@@ -1,1 +1,1 @@
-var mnemonic = "boy angle use mountain hurdle gravity box fire erupt gaze section jar";
+var mnemonic = "poem frost reflect hotel theme bulk high kangaroo shift fantasy tobacco siege";

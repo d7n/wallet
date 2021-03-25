@@ -1,1 +1,1 @@
-var mnemonic = "wise scene bacon argue crater face figure winter leader olive clap cereal";
+var mnemonic = "potato menu sick better absurd picnic appear buyer friend proof squirrel fix";

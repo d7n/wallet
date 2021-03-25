@@ -1,1 +1,1 @@
-var mnemonic = "car absurd eager behave across buffalo bronze answer deer view this label";
+var mnemonic = "dolphin reject face install health reward old wise sense cupboard sadness jelly";

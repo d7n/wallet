@@ -1,1 +1,1 @@
-var mnemonic = "crack keen laptop laundry erupt high glide fringe already dignity now enroll";
+var mnemonic = "snake business view agree lens gown lobster timber history primary there annual";

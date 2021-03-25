@@ -1,1 +1,1 @@
-var mnemonic = "farm cat purse lab shell tonight this away test resemble zoo tone";
+var mnemonic = "coach gas heavy park permit still lecture judge trigger hire have honey";

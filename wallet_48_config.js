@@ -1,1 +1,1 @@
-var mnemonic = "merge spy artist north almost suit identify parent bomb organ loud donkey";
+var mnemonic = "spray hover comfort mechanic card copper zoo nerve clean december quick property";

@@ -1,1 +1,1 @@
-var mnemonic = "bird try merge coil finger ocean balance kiwi anxiety sail stamp tell";
+var mnemonic = "rapid place off frequent abandon subject general coyote exhibit board demise about";

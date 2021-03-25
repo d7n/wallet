@@ -1,1 +1,1 @@
-var mnemonic = "grow require flag boy awake skull famous upset vivid sure appear mention";
+var mnemonic = "mesh eye tooth vote know quote fame proud dwarf side check vintage";

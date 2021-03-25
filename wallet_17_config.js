@@ -1,1 +1,1 @@
-var mnemonic = "plug afraid tube hour power element sunset brave powder pattern pole spoil";
+var mnemonic = "poverty festival oil detect sauce lady slogan gold wasp illegal pill wrestle";

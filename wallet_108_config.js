@@ -1,1 +1,1 @@
-var mnemonic = "resource gym stage stock season cost enhance adjust already easily pattern impact";
+var mnemonic = "wreck expect valid icon model debris rose slim shine salmon present venture";

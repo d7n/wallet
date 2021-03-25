@@ -1,1 +1,1 @@
-var mnemonic = "question head family pledge fog action board damage seek lady verb adapt";
+var mnemonic = "syrup scissors history fence proud silent into across belt fit miracle biology";

@@ -1,1 +1,1 @@
-var mnemonic = "upper chest left mushroom field crumble obey soon wreck world antenna royal";
+var mnemonic = "text phrase beef crush cheese basic shy window injury mountain output black";

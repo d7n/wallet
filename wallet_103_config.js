@@ -1,1 +1,1 @@
-var mnemonic = "raw result regret subway laundry salad salon profit coach zero swim tip";
+var mnemonic = "post toward captain anxiety normal twice educate over later ability grain pigeon";

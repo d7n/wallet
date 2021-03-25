@@ -1,1 +1,1 @@
-var mnemonic = "alone unfair fall forest atom shock worry banana hedgehog dash unique twice";
+var mnemonic = "pluck error keep silk alter fire avoid satisfy also onion embrace solve";

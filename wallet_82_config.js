@@ -1,1 +1,1 @@
-var mnemonic = "stock oil web unknown attack issue advance hurry suspect maple confirm heavy";
+var mnemonic = "inside purity afraid bottom scorpion sound museum blossom call celery habit awesome";

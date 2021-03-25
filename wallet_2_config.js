@@ -1,1 +1,1 @@
-var mnemonic = "connect impact unit chuckle action poem ladder divorce bless about develop debris";
+var mnemonic = "disorder weather eight staff vicious firm door wrong female crater disorder brush";

@@ -1,1 +1,1 @@
-var mnemonic = "brave pumpkin note winter pluck need evil immense staff purchase exclude dilemma";
+var mnemonic = "infant leisure human asset jewel firm borrow truth above cradle release wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "dumb sugar pelican phone sad always mother tennis toilet stay inspire poverty";
+var mnemonic = "manual theme emerge myth civil address deputy piece total guard tape measure";

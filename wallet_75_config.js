@@ -1,1 +1,1 @@
-var mnemonic = "door brass will goat tape electric close sword despair vehicle margin category";
+var mnemonic = "hungry hand position top tragic waste patient harvest empower apology dice prison";

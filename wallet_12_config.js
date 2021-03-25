@@ -1,1 +1,1 @@
-var mnemonic = "mind inject group engine hub spike man matter swear truly split inquiry";
+var mnemonic = "minute frequent weekend gold mass cancel retire try adjust stem unusual jeans";

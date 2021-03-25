@@ -1,1 +1,1 @@
-var mnemonic = "master screen cube jewel verb steel slogan repeat scene monkey evil barrel";
+var mnemonic = "process betray there gate kite dilemma model save river rotate firm neck";

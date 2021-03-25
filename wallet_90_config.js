@@ -1,1 +1,1 @@
-var mnemonic = "praise good way sun borrow army hockey grace equal paddle live palm";
+var mnemonic = "exile then subway job scare decrease false dinosaur issue total bag private";

@@ -1,1 +1,1 @@
-var mnemonic = "kiwi already improve amazing client double perfect cart neutral diet wink purse";
+var mnemonic = "vital fashion fly say airport busy visual exile project siren bacon slight";

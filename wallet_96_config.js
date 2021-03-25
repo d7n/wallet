@@ -1,1 +1,1 @@
-var mnemonic = "among vote crucial expect globe trust roast clock load relax lyrics filter";
+var mnemonic = "vendor base there noble pool slight route assist apart dream census kitchen";

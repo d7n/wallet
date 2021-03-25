@@ -1,1 +1,1 @@
-var mnemonic = "illness between caution achieve burger upset inmate worth firm earth connect brother";
+var mnemonic = "faint pledge people purchase picnic foil face glue exit scorpion photo grunt";

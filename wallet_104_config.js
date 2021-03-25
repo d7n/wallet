@@ -1,1 +1,1 @@
-var mnemonic = "venue ride net suit aisle talent switch group learn unlock yellow poet";
+var mnemonic = "awake sentence either decorate supply swift drill angle sell morning sustain cheap";

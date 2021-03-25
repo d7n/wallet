@@ -1,1 +1,1 @@
-var mnemonic = "also carbon pipe lonely story baby cream public fiber purity shove jealous";
+var mnemonic = "repair very gather cry circle shed flavor ethics plate junk spread pulse";
