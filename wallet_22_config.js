@@ -1,1 +1,1 @@
-var mnemonic = "tenant blossom thing tunnel deal utility purpose match canoe build honey polar";
+var mnemonic = "recall turtle royal calm alley calm bridge civil rack link assist slide";

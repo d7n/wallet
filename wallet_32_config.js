@@ -1,1 +1,1 @@
-var mnemonic = "afford object fossil surround polar bridge town increase reason foam extra siege";
+var mnemonic = "shaft member december venture muffin maid stereo base bracket drastic couple bus";

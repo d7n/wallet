@@ -1,1 +1,1 @@
-var mnemonic = "digital luxury tongue cradle sheriff mammal feed alcohol space rug divide tell";
+var mnemonic = "globe nephew news mercy accuse pledge chronic knee essay turkey swamp always";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel betray explain caught buzz woman sand force screen attend correct resemble";
+var mnemonic = "exotic desk town lottery rural soul already typical ranch multiply over opinion";

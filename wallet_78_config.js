@@ -1,1 +1,1 @@
-var mnemonic = "purity border want nut double term access impose improve taxi dignity diagram";
+var mnemonic = "match subway fan kite indoor hospital wrestle novel ring rotate segment lava";

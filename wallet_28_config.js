@@ -1,1 +1,1 @@
-var mnemonic = "wonder sponsor summer skate number onion valid pudding ring evoke mixed fortune";
+var mnemonic = "float wealth butter business text fluid phone exchange guard purpose trap become";

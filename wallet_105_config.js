@@ -1,1 +1,1 @@
-var mnemonic = "gap panda recycle off basic used priority pitch hollow add myself congress";
+var mnemonic = "empty orient aunt october kangaroo throw list cry obey zoo gym describe";

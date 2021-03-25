@@ -1,1 +1,1 @@
-var mnemonic = "enlist marine result sister jealous swallow canal another flip walnut radio twice";
+var mnemonic = "slim nurse argue cost wedding any design victory depart boss ozone limit";

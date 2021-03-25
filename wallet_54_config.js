@@ -1,1 +1,1 @@
-var mnemonic = "cupboard surge close jacket boil fly unveil occur surface barrel learn sugar";
+var mnemonic = "hand seminar devote library choice warfare elite scan poverty message pulp manual";

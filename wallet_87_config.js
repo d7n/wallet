@@ -1,1 +1,1 @@
-var mnemonic = "confirm strong arrow broken merry security fold bleak pigeon raise angry giraffe";
+var mnemonic = "almost meat cattle climb govern split choice remind lawsuit into turkey squeeze";

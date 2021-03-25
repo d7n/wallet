@@ -1,1 +1,1 @@
-var mnemonic = "sphere emotion hedgehog walnut wing toward hint ceiling attitude coconut drip payment";
+var mnemonic = "history vivid dizzy canoe rude absurd trouble club kitten damp arm mixed";

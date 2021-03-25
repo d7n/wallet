@@ -1,1 +1,1 @@
-var mnemonic = "silly once radar glare payment tower latin innocent expand sock foam pave";
+var mnemonic = "rice become foot young galaxy owner trend idle access high usage have";

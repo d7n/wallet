@@ -1,1 +1,1 @@
-var mnemonic = "staff bitter midnight twin cover bean caught sibling gate actual extend theory";
+var mnemonic = "sleep discover frozen bridge seminar team kangaroo daring net divorce defense distance";

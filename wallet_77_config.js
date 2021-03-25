@@ -1,1 +1,1 @@
-var mnemonic = "valid tree axis electric crystal smoke candy top mammal donkey fame gun";
+var mnemonic = "vanish gain work alone civil pudding frost author swift mushroom near arena";

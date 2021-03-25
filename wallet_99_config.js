@@ -1,1 +1,1 @@
-var mnemonic = "shaft code orient fire connect runway fury security wrestle series garden situate";
+var mnemonic = "early middle model wheel order match soft chair carry sleep dinosaur online";

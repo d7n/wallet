@@ -1,1 +1,1 @@
-var mnemonic = "inspire tortoise afford laundry visual buzz wolf energy swap strong bitter subway";
+var mnemonic = "used banner swift baby hidden twin asthma effort error fiber mule toy";

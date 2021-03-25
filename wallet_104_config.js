@@ -1,1 +1,1 @@
-var mnemonic = "toy cereal chief region naive jewel day dizzy surprise valid virus cruel";
+var mnemonic = "voyage abandon bachelor story mandate journey blouse filter vacuum mail inherit limit";

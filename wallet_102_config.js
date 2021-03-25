@@ -1,1 +1,1 @@
-var mnemonic = "cake ecology border pluck brain ticket entire fruit exchange cube confirm sound";
+var mnemonic = "what deputy sure auction control fiction want outside security jump scrub anger";

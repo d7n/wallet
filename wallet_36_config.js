@@ -1,1 +1,1 @@
-var mnemonic = "derive obey search source wash measure retire talk busy purchase patch obey";
+var mnemonic = "cable roast spray search curious pyramid dune vocal emotion school year pigeon";

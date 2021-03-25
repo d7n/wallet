@@ -1,1 +1,1 @@
-var mnemonic = "split spread pull turtle patrol basket digital language inner music ketchup swap";
+var mnemonic = "when town glad special anger frame grace deer favorite wire salute ridge";

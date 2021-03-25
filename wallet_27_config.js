@@ -1,1 +1,1 @@
-var mnemonic = "fiscal frame brother raccoon away age hand vehicle excuse click endless hidden";
+var mnemonic = "table learn breeze diagram border hover awake pulp want swing steel drum";

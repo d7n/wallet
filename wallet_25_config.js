@@ -1,1 +1,1 @@
-var mnemonic = "typical deer bracket next thunder island rack afraid round lesson bronze extra";
+var mnemonic = "proud guard tackle balcony cake chief kid matter mechanic upgrade planet comic";

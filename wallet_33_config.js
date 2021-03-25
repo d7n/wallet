@@ -1,1 +1,1 @@
-var mnemonic = "art beach scan merit child velvet harsh thank shiver fever bundle barely";
+var mnemonic = "ticket leaf grid attack heart section quick kiwi wine shaft heavy exotic";

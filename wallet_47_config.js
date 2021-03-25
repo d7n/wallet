@@ -1,1 +1,1 @@
-var mnemonic = "cereal boil rookie shock nurse curtain primary sail produce net spread siren";
+var mnemonic = "hospital faint squeeze market wild alley grow gadget scissors one dignity this";

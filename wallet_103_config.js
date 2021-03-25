@@ -1,1 +1,1 @@
-var mnemonic = "genius smart raccoon midnight either baby puzzle student unable pact embrace canoe";
+var mnemonic = "film trouble property cram coyote enrich cram loan job junk tomato coral";

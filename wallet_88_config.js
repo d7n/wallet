@@ -1,1 +1,1 @@
-var mnemonic = "visa couple inject side dinner noble episode fork vague plastic humor dawn";
+var mnemonic = "embark cheap figure opera left december patch rack hungry hurt demand attitude";

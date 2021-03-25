@@ -1,1 +1,1 @@
-var mnemonic = "spawn imitate view survey lonely stone life exile burger engage armor radio";
+var mnemonic = "prefer pipe domain ticket error paper pink sphere deer man slam warfare";

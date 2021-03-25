@@ -1,1 +1,1 @@
-var mnemonic = "bulk behind behave evoke fancy aisle brush chunk drill puzzle ramp accident";
+var mnemonic = "over square suffer ivory age tongue trim meat medal gloom able multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward jealous afraid bike light brass submit engine cage chicken subway glare";
+var mnemonic = "gaze system ancient glue weapon search delay educate tone shift lucky cycle";

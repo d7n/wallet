@@ -1,1 +1,1 @@
-var mnemonic = "orient tube silk mother attend spell spoon time west shift frame lazy";
+var mnemonic = "attitude enable stove reunion wash shoe base observe primary hazard antique ancient";

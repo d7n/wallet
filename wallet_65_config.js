@@ -1,1 +1,1 @@
-var mnemonic = "siege embrace law record human reject soda draw core tiny depart cable";
+var mnemonic = "scatter voyage draft jealous luggage emerge ten minimum emotion script expose level";

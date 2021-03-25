@@ -1,1 +1,1 @@
-var mnemonic = "faculty window tilt step gas absurd pitch scheme march divorce knife anger";
+var mnemonic = "crucial exchange pear lyrics code toward home wonder duty chef talent tourist";

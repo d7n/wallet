@@ -1,1 +1,1 @@
-var mnemonic = "twelve adjust call blush pledge drop move goat average candy obey hill";
+var mnemonic = "battle van afraid engine rotate kit check gaze rely chase forest involve";

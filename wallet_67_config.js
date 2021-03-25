@@ -1,1 +1,1 @@
-var mnemonic = "frozen summer must check toward adjust ripple unlock giggle speak craft horror";
+var mnemonic = "slender catalog fashion unfair witness inmate canal bag area dress arch outside";

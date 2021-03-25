@@ -1,1 +1,1 @@
-var mnemonic = "boil senior garage twenty brief spray draft elbow glue diet essence output";
+var mnemonic = "gravity erode awful train jump wrong maze salon orchard motor unfair problem";

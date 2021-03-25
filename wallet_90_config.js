@@ -1,1 +1,1 @@
-var mnemonic = "final deer way spread wire silent uncle elbow among fine win strong";
+var mnemonic = "easily sorry forget include mistake oil wine reduce nothing truly process enjoy";

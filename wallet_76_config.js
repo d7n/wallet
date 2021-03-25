@@ -1,1 +1,1 @@
-var mnemonic = "essence clog alter stove woman donor false endorse tourist file traffic genius";
+var mnemonic = "fuel valid year sniff witness chase mixed acquire rich animal casino fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "leader equal boss taste noodle upgrade pony option captain birth employ race";
+var mnemonic = "airport path food open trash palace raccoon street trim chimney race flame";

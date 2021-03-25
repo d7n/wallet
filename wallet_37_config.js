@@ -1,1 +1,1 @@
-var mnemonic = "sand reject play soft enjoy social glue canvas long arm tumble patient";
+var mnemonic = "helmet corn box mad laundry solution focus nurse plate educate wash invest";

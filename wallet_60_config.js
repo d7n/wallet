@@ -1,1 +1,1 @@
-var mnemonic = "food concert gate correct ill warrior feel cat print element range dismiss";
+var mnemonic = "find suffer snake olympic first keen drive embrace feature diagram holiday notice";

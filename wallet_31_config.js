@@ -1,1 +1,1 @@
-var mnemonic = "napkin cupboard athlete aunt minimum reward marine spell tooth soup matter upset";
+var mnemonic = "fat cement cable aisle favorite priority diesel naive wealth minor credit match";

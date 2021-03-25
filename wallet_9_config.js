@@ -1,1 +1,1 @@
-var mnemonic = "skill hospital better tribe damp ordinary outer crash crouch august script zebra";
+var mnemonic = "gown lesson assist web lawn size empower antenna country heart extra trumpet";

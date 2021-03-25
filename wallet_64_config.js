@@ -1,1 +1,1 @@
-var mnemonic = "genuine plug fitness notice negative emerge place thumb clever connect open winter";
+var mnemonic = "easy cloth talk left kick dilemma casino near later relief aisle estate";

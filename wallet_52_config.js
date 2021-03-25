@@ -1,1 +1,1 @@
-var mnemonic = "business salt custom physical pet conduct leaf history fat noodle iron pipe";
+var mnemonic = "book indicate pull drink hidden car addict risk supreme project gate sadness";

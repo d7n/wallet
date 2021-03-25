@@ -1,1 +1,1 @@
-var mnemonic = "response job giant soldier poet shadow pet sheriff opera anger lake cheese";
+var mnemonic = "labor modify enter plate capable license stomach nice column action flee denial";

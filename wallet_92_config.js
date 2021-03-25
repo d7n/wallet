@@ -1,1 +1,1 @@
-var mnemonic = "fresh tuna boat below bleak stumble air walk urge strategy time parrot";
+var mnemonic = "lottery drift into check follow sting elite nasty foam boat shoulder uncover";

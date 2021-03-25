@@ -1,1 +1,1 @@
-var mnemonic = "race brief emotion sample isolate problem print fitness card fabric borrow economy";
+var mnemonic = "pond lyrics track expose raven airport rural chimney quiz crumble project toss";

@@ -1,1 +1,1 @@
-var mnemonic = "intact album asthma furnace core oblige divide ozone flush solve alcohol rival";
+var mnemonic = "deer over course artwork nephew lab worth walnut deputy solar bring mercy";

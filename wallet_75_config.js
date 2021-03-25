@@ -1,1 +1,1 @@
-var mnemonic = "fluid spoil stock owner local empower fold narrow mountain portion chaos cost";
+var mnemonic = "solid tired garden between repair crowd expand region yard journey water meadow";

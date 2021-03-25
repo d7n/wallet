@@ -1,1 +1,1 @@
-var mnemonic = "void test judge culture minute secret purpose catalog pony whale name symptom";
+var mnemonic = "decrease unable rhythm keep diagram debris involve giant axis hair table purchase";

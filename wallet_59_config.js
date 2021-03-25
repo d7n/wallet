@@ -1,1 +1,1 @@
-var mnemonic = "addict divert harsh perfect range cloud utility october potato lava bicycle asset";
+var mnemonic = "evolve paper faculty mean gain canyon toast portion rebuild rule rare begin";

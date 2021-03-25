@@ -1,1 +1,1 @@
-var mnemonic = "divide crumble obey virus crane food thumb proof join flight flip aspect";
+var mnemonic = "foot soup grow blast chalk fish collect lamp talk talk relief rebel";

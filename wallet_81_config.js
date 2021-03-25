@@ -1,1 +1,1 @@
-var mnemonic = "prosper habit melt mango topic help notable dawn champion ski bargain memory";
+var mnemonic = "welcome degree monster surge result brick crime approve memory safe swallow figure";

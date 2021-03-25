@@ -1,1 +1,1 @@
-var mnemonic = "brass scan own forum dentist awake aunt family festival gift dynamic misery";
+var mnemonic = "ordinary beach private torch dizzy will smooth fault leisure velvet boil inhale";

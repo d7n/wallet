@@ -1,1 +1,1 @@
-var mnemonic = "quantum problem punch like vacant duty equal rebuild dream humor lottery illegal";
+var mnemonic = "scare toss ankle rabbit city swap convince time supreme butter brand legend";

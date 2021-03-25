@@ -1,1 +1,1 @@
-var mnemonic = "lucky remain alley bubble pumpkin corn dismiss cancel bar assault all sting";
+var mnemonic = "gasp smile distance oxygen song abstract pilot merry client shop castle firm";

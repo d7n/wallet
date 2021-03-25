@@ -1,1 +1,1 @@
-var mnemonic = "clean faculty educate increase language occur trap silver giggle cloud relax actual";
+var mnemonic = "sauce chest rose light napkin confirm unit company evoke insane pepper fever";

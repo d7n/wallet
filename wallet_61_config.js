@@ -1,1 +1,1 @@
-var mnemonic = "impose flavor puzzle chuckle small wonder festival blanket trouble toast glove observe";
+var mnemonic = "van spoon glad gap excess make cat dog cement close sell depend";

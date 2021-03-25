@@ -1,1 +1,1 @@
-var mnemonic = "cream beauty fold earn nasty become quote loyal reduce volcano jelly olive";
+var mnemonic = "control audit peace off square before solar deal during confirm catalog shove";

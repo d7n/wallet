@@ -1,1 +1,1 @@
-var mnemonic = "science permit army visit moon knife pear build apart champion okay couple";
+var mnemonic = "happy edge swap dog sketch chest much embody easily dash head good";

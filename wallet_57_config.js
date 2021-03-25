@@ -1,1 +1,1 @@
-var mnemonic = "adjust issue cluster loop puppy art series isolate release crawl situate sell";
+var mnemonic = "fortune maid walnut twin animal youth organ disorder top right parrot dune";

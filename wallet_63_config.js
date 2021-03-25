@@ -1,1 +1,1 @@
-var mnemonic = "apart purchase noodle plate century hill attitude misery anchor maid spice ill";
+var mnemonic = "install warm yard erase mixed thrive pride odor beauty cook hover announce";

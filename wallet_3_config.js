@@ -1,1 +1,1 @@
-var mnemonic = "lift soccer siren mirror pretty essence object neither hybrid charge derive couple";
+var mnemonic = "crumble soul disorder cat lizard rack tiger smart neck patrol firm scene";

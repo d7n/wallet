@@ -1,1 +1,1 @@
-var mnemonic = "lamp spot gloom equal fluid point survey clog prize wrap target lounge";
+var mnemonic = "spread rent view sustain trend put slush achieve gold lemon pipe oak";

@@ -1,1 +1,1 @@
-var mnemonic = "series awesome thumb mind list brother tower topic bubble regret raccoon youth";
+var mnemonic = "path gospel whisper west letter weekend frown ride fan hedgehog museum unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "race outer club walk merge someone cool sort hood raccoon copy broken";
+var mnemonic = "improve gap trim impact equip velvet tower abandon oven decade basket property";

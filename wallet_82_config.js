@@ -1,1 +1,1 @@
-var mnemonic = "move reunion excess smoke case hand lawn orbit birth scene still exclude";
+var mnemonic = "monitor pact bulb social solution trial frozen chalk fantasy valve reduce trap";

@@ -1,1 +1,1 @@
-var mnemonic = "warm castle trust egg fun fossil kit math silent enjoy maple scrap";
+var mnemonic = "text pulse believe combine category edit source glue corn dose depart start";

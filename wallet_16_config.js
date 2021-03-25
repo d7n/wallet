@@ -1,1 +1,1 @@
-var mnemonic = "people slice accuse rookie cute satoshi safe snap exhaust dignity upon dove";
+var mnemonic = "topple crazy focus gold provide fuel leave chuckle weekend diesel rabbit there";

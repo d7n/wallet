@@ -1,1 +1,1 @@
-var mnemonic = "fiction wine educate return horse combine body exchange bottom urban scrub dynamic";
+var mnemonic = "okay student grocery cat wrap figure cancel party shed leaf blouse energy";

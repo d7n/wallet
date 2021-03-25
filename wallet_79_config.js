@@ -1,1 +1,1 @@
-var mnemonic = "alley embody pyramid join police famous second north index clerk hidden quantum";
+var mnemonic = "session cash execute mushroom negative today sing eternal quick multiply rural aerobic";

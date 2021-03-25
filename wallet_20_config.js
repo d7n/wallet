@@ -1,1 +1,1 @@
-var mnemonic = "amount gas raccoon easily cup turn donkey olympic scatter sunset biology engine";
+var mnemonic = "blouse liberty butter jazz bean ridge curtain learn nation cactus few limit";

@@ -1,1 +1,1 @@
-var mnemonic = "private spin tongue short eight like useless cry sock put inhale hood";
+var mnemonic = "broken actress aim curve dry cave bring tiny oil virtual amateur excuse";

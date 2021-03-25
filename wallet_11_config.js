@@ -1,1 +1,1 @@
-var mnemonic = "park because struggle crack walk leader ready deliver appear leg dynamic column";
+var mnemonic = "junk average film moral build story abuse lady cradle love present reopen";

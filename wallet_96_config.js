@@ -1,1 +1,1 @@
-var mnemonic = "emotion habit clever liar share ski yellow blanket adjust stuff over tired";
+var mnemonic = "custom dose drink length nasty once update omit there universe basic scissors";

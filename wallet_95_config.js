@@ -1,1 +1,1 @@
-var mnemonic = "they beauty divorce humble master leader clump stumble blast burger predict security";
+var mnemonic = "all review bright service spell airport cement civil myself alert potato situate";

@@ -1,1 +1,1 @@
-var mnemonic = "curve aerobic cancel lounge crowd knee matrix amount tape cereal jacket damage";
+var mnemonic = "tennis sort assault creek chaos pact truck quote matter life plunge secret";

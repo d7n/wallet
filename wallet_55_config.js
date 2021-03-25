@@ -1,1 +1,1 @@
-var mnemonic = "weather person hazard top degree sugar flip erupt abstract oil pyramid mom";
+var mnemonic = "essay bread vicious enjoy galaxy onion fault problem identify kingdom identify potato";

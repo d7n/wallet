@@ -1,1 +1,1 @@
-var mnemonic = "roast throw wire citizen laptop undo uncover brand slow great utility carpet";
+var mnemonic = "virtual devote write group urban they corn outer pull air various balance";

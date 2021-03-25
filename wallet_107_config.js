@@ -1,1 +1,1 @@
-var mnemonic = "casino gap alley more property name love capital transfer delay latin camp";
+var mnemonic = "blue mail diesel bonus equip blossom save this two excuse spare step";

@@ -1,1 +1,1 @@
-var mnemonic = "fine cash luxury own rapid weather purity negative verb agent tumble kick";
+var mnemonic = "aisle symbol wood reunion fashion mixed happy stay exit poem around envelope";

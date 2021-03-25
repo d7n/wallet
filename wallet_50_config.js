@@ -1,1 +1,1 @@
-var mnemonic = "receive train bicycle one round tape dismiss install famous spot repair castle";
+var mnemonic = "quantum future brown grit gospel glare amount wonder nurse piece street inhale";

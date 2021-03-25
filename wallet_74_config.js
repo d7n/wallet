@@ -1,1 +1,1 @@
-var mnemonic = "slam nuclear hawk neither submit bring expose trust diagram scatter bullet invest";
+var mnemonic = "lemon summer rude empty pelican spoon wait observe charge fiction visa diary";

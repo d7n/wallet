@@ -1,1 +1,1 @@
-var mnemonic = "bronze wolf gospel mimic move buyer winner nurse during trial grain pulse";
+var mnemonic = "absent woman flee cabin east buffalo van garage laundry disorder brave hockey";

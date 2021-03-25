@@ -1,1 +1,1 @@
-var mnemonic = "couple ask tornado shuffle gown donor cram average deal light earth provide";
+var mnemonic = "similar hunt canoe course glass inside sorry spoil ribbon similar disease start";

@@ -1,1 +1,1 @@
-var mnemonic = "future pitch boost deal assist street frequent leaf acoustic lizard purse blouse";
+var mnemonic = "liquid degree outside ability winter depth hello supply mercy solution very girl";

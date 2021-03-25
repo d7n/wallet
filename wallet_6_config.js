@@ -1,1 +1,1 @@
-var mnemonic = "model honey tomorrow taste road february number easy goat trap glimpse rural";
+var mnemonic = "latin wedding crawl pencil never light hobby canvas shallow level surface super";

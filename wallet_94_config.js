@@ -1,1 +1,1 @@
-var mnemonic = "trap carry matrix leader sleep tent grant force improve such frog buffalo";
+var mnemonic = "tuition theory ladder clump find immense child dumb cycle online resource select";

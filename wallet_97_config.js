@@ -1,1 +1,1 @@
-var mnemonic = "aerobic vacant quantum develop human absorb clever same divorce situate census always";
+var mnemonic = "spring raw voice push fade foil horn quote place panther confirm aerobic";

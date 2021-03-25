@@ -1,1 +1,1 @@
-var mnemonic = "scare urban fitness spring absorb dynamic firm silver salmon foot leaf cloud";
+var mnemonic = "electric include empty panel spray fiction valley inch garage lesson enact current";

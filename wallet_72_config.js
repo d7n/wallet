@@ -1,1 +1,1 @@
-var mnemonic = "sausage dad cloth slender spin lift during hero phone update spirit clip";
+var mnemonic = "loud sure song foot market cousin abstract corn tree similar give rice";

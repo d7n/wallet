@@ -1,1 +1,1 @@
-var mnemonic = "program decide dish reunion say dwarf vast mask reject plastic kit fantasy";
+var mnemonic = "tilt glass soft brass course play bag oval voyage liquid charge palace";

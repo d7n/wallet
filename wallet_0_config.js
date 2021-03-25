@@ -1,1 +1,1 @@
-var mnemonic = "vessel trend unaware awake clarify fade middle lamp govern mobile first stairs";
+var mnemonic = "purpose void day injury nurse mandate used lamp custom category rely family";
