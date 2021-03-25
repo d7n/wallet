@@ -1,1 +1,1 @@
-var mnemonic = "unveil energy method hat bridge unveil stand umbrella pelican tag eternal sibling";
+var mnemonic = "shoulder tell punch imitate tape moon gun fog view square butter choice";

@@ -1,1 +1,1 @@
-var mnemonic = "mind depart retreat kiss bronze loud merry helmet crystal lawsuit proof nephew";
+var mnemonic = "private dash crew science cement shock window pledge merry survey involve disagree";

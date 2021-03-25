@@ -1,1 +1,1 @@
-var mnemonic = "pair dumb pond extend found enjoy tattoo stumble cousin club practice void";
+var mnemonic = "offer trumpet please steel bracket planet juice artist pull turn lawn undo";

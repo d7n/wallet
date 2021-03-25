@@ -1,1 +1,1 @@
-var mnemonic = "input lunch author curtain subject cigar swap wait fire fortune comfort hole";
+var mnemonic = "script upper flat antique foster neglect side flame method rely skin soccer";

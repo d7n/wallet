@@ -1,1 +1,1 @@
-var mnemonic = "mushroom wise elder angle winner raven sort much vessel auto ugly wait";
+var mnemonic = "search symbol dragon super bullet bottom door erosion vapor cargo claim useless";

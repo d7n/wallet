@@ -1,1 +1,1 @@
-var mnemonic = "example scorpion dial liquid dash hope twelve snack key kitchen rigid anxiety";
+var mnemonic = "emerge exhibit idea obvious reason enforce stem world carry view dust deposit";

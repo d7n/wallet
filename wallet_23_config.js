@@ -1,1 +1,1 @@
-var mnemonic = "ice hip nasty candy dinner surge inform lion price venture van busy";
+var mnemonic = "alert nice execute pulse output dance end used rent shove pepper stock";

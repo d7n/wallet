@@ -1,1 +1,1 @@
-var mnemonic = "target blue cannon engine excite evoke regular monster forum shuffle various mechanic";
+var mnemonic = "baby asset you siren success change exile rapid enemy brown giggle blush";

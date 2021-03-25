@@ -1,1 +1,1 @@
-var mnemonic = "journey increase used leaf comic crop web bid sponsor multiply cable dress";
+var mnemonic = "afford hurt seek sheriff moment hair stem maid unhappy sniff because tuna";

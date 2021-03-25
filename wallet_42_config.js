@@ -1,1 +1,1 @@
-var mnemonic = "confirm cash skirt wave method mom gold caught anchor another poet inherit";
+var mnemonic = "ecology chimney transfer donor system analyst stone width diary wolf marble intact";

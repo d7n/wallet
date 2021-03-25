@@ -1,1 +1,1 @@
-var mnemonic = "hunt local shrug fragile tennis paddle carry fragile donor mobile wise paddle";
+var mnemonic = "harsh soft expose robot unknown analyst hospital citizen gun ribbon often confirm";

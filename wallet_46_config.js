@@ -1,1 +1,1 @@
-var mnemonic = "category usual pulse harbor decrease nose few buddy ride dad short exotic";
+var mnemonic = "mansion inch now lens poet keep plug gesture square soon cart they";

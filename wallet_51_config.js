@@ -1,1 +1,1 @@
-var mnemonic = "worry ranch debate alien fringe paddle enforce win total treat used marine";
+var mnemonic = "embody arrow juice giggle dish sword hobby lounge laundry sell quick pair";

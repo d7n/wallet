@@ -1,1 +1,1 @@
-var mnemonic = "grief good occur keep taxi jaguar ten angle page cute drive forum";
+var mnemonic = "cube toddler garage fee jacket silent wait kitchen tenant snake vibrant jar";

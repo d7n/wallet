@@ -1,1 +1,1 @@
-var mnemonic = "burst letter fiber champion foil assault couch upon all drift social nation";
+var mnemonic = "card boat museum organ erupt oven mail until patrol magnet decline december";

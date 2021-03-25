@@ -1,1 +1,1 @@
-var mnemonic = "rebuild hat zoo fun top doll draft fame release tuna where owner";
+var mnemonic = "birth position brief athlete main exist pelican weasel denial spend reject type";

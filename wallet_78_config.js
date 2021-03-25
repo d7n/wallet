@@ -1,1 +1,1 @@
-var mnemonic = "logic analyst diagram asset later bind donate pen vicious hood state team";
+var mnemonic = "silly human peanut scrap render luggage learn cattle clap amateur wheat transfer";

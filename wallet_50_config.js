@@ -1,1 +1,1 @@
-var mnemonic = "stem comic violin bulb power place truck quarter yard solar dice essence";
+var mnemonic = "face abstract boil jacket happy lesson lunar alpha clay coil solve private";

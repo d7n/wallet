@@ -1,1 +1,1 @@
-var mnemonic = "silver quantum pioneer calm taxi cinnamon filter twin pig label gossip faint";
+var mnemonic = "entry marriage beyond liquid tank torch ethics sign mushroom mercy country power";

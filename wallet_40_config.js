@@ -1,1 +1,1 @@
-var mnemonic = "advance slender stick put chalk permit law squeeze second accident festival evolve";
+var mnemonic = "sphere satoshi okay feed weather voyage joy design chimney teach ribbon demise";

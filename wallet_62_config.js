@@ -1,1 +1,1 @@
-var mnemonic = "climb kick sniff shallow moment bird model load aisle giggle raw pattern";
+var mnemonic = "flush icon hair truck churn leisure model river forget basket arrange spring";

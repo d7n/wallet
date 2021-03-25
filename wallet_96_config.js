@@ -1,1 +1,1 @@
-var mnemonic = "awake clinic mad beauty battle improve reject draw law rely hand legend";
+var mnemonic = "happy hire purpose bundle cement bachelor earth calm journey rocket legal idle";

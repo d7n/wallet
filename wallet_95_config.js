@@ -1,1 +1,1 @@
-var mnemonic = "face magic smoke defy case act ensure pigeon wave mutual cousin float";
+var mnemonic = "pulp mushroom reason right clump apple pause hawk patrol quit exile leg";

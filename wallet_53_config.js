@@ -1,1 +1,1 @@
-var mnemonic = "once hub retreat resource clock purse easily refuse avoid eyebrow repair remind";
+var mnemonic = "spirit enough deer tide loop vacuum salad soft pair abstract finger inflict";

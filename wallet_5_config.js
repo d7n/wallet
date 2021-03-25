@@ -1,1 +1,1 @@
-var mnemonic = "kitten tuna oven polar bread mutual original wide cousin link merry vote";
+var mnemonic = "release offer faith adjust arrive style eyebrow apple ordinary major skirt snack";

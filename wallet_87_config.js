@@ -1,1 +1,1 @@
-var mnemonic = "uniform disease water page wife dwarf oblige flash derive crawl sand document";
+var mnemonic = "spider cute two skin keen version virus auction two reduce hurdle dice";

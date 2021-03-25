@@ -1,1 +1,1 @@
-var mnemonic = "used layer business load romance accuse nice soup script mercy enjoy equip";
+var mnemonic = "drift indicate twice picnic coral lens alter pelican suspect state box avoid";

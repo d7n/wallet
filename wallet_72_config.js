@@ -1,1 +1,1 @@
-var mnemonic = "dog outer remember debris matrix seat urban bleak tent verb range save";
+var mnemonic = "focus deliver know game december youth symbol dawn flee naive frost balcony";

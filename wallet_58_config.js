@@ -1,1 +1,1 @@
-var mnemonic = "mutual innocent sauce juice flock increase future evidence slam apple aware title";
+var mnemonic = "sausage cover cream issue spider shop today illness accuse casino damage dial";

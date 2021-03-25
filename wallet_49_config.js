@@ -1,1 +1,1 @@
-var mnemonic = "rule meadow raw boring borrow delay enjoy shed awake affair weasel silver";
+var mnemonic = "dawn robot warrior lunar pause circle provide virtual tennis puppy zero mosquito";

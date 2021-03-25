@@ -1,1 +1,1 @@
-var mnemonic = "law dawn noise exclude feel surface south betray law gain kind photo";
+var mnemonic = "ivory mushroom trigger gasp twelve milk mimic bronze rice milk seed insane";

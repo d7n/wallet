@@ -1,1 +1,1 @@
-var mnemonic = "ugly smile sight lazy tomorrow square seat ridge devote busy equal day";
+var mnemonic = "harbor roast achieve super parade laundry since oxygen hawk learn total fragile";

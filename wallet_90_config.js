@@ -1,1 +1,1 @@
-var mnemonic = "love assume program pond cotton shed prevent steak october rifle grow arena";
+var mnemonic = "pear album tree blossom carpet flat promote thank pink biology mixture orange";

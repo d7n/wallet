@@ -1,1 +1,1 @@
-var mnemonic = "fiscal ribbon adult lend rhythm flip jeans bullet steel one cotton combine";
+var mnemonic = "hard pulp minor antenna similar oxygen nerve market spot remind master buddy";

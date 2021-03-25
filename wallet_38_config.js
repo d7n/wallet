@@ -1,1 +1,1 @@
-var mnemonic = "cover monster mixture web hour robust trophy region fresh erosion accuse bitter";
+var mnemonic = "arm service rich tissue erupt step topic water step melody warfare kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "fever exhaust mention rug demise like garage dose betray base accuse manual";
+var mnemonic = "demand account twenty rocket lounge rib fun skin effort mirror great noise";

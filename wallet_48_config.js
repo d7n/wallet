@@ -1,1 +1,1 @@
-var mnemonic = "depart weather night control axis wisdom audit struggle panel blue citizen always";
+var mnemonic = "rival vault juice miracle chef proof lamp thrive arch echo runway ripple";

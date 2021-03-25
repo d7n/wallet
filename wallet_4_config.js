@@ -1,1 +1,1 @@
-var mnemonic = "that dream stereo fever quit arctic between demise bonus myself wasp tuna";
+var mnemonic = "program orchard dove piece column buddy void jazz lava awkward shove item";

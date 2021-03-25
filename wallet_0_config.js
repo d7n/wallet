@@ -1,1 +1,1 @@
-var mnemonic = "solve own job chef bargain palace rough glow rifle glimpse wait power";
+var mnemonic = "run brick episode steak edge next deal ticket journey prevent broccoli stage";

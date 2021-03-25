@@ -1,1 +1,1 @@
-var mnemonic = "magnet menu next true chest front other hood brain journey slab reopen";
+var mnemonic = "hurdle genre repair wood right reward express mirror rate ten awesome sport";

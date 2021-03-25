@@ -1,1 +1,1 @@
-var mnemonic = "country salute alone chair notable luxury finger exist essence paper nerve drive";
+var mnemonic = "subway baby soda cute stick tag hospital proof poverty rocket street raven";

@@ -1,1 +1,1 @@
-var mnemonic = "miss occur volume ordinary journey march coyote aisle move question coin vote";
+var mnemonic = "social add idea cereal monitor universe diamond ketchup borrow soldier liberty cake";

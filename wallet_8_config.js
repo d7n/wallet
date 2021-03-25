@@ -1,1 +1,1 @@
-var mnemonic = "discover nuclear guilt popular often swear million reflect vehicle dizzy host fly";
+var mnemonic = "faint input calm cliff math employ color edge distance lucky poverty media";

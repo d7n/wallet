@@ -1,1 +1,1 @@
-var mnemonic = "circle swap horror ability vicious olive eagle weapon swift calm estate air";
+var mnemonic = "try bridge name rug worry deliver torch axis message uncover crystal proof";

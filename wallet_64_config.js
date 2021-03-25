@@ -1,1 +1,1 @@
-var mnemonic = "claim people hub try increase hard grunt phone tape wheat bitter success";
+var mnemonic = "denial menu island train mirror day antenna wrist toast inject flower oblige";

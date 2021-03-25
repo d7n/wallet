@@ -1,1 +1,1 @@
-var mnemonic = "draft teach display cupboard lucky hamster actress gain planet cup neck square";
+var mnemonic = "load tortoise receive vast luxury inflict differ stomach slow engage supply enact";

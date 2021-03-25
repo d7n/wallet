@@ -1,1 +1,1 @@
-var mnemonic = "metal mirror super wagon use rug truly slow method transfer slam detail";
+var mnemonic = "armed zero toss stairs dynamic yard carpet time anxiety game prize enhance";

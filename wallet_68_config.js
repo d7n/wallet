@@ -1,1 +1,1 @@
-var mnemonic = "doll devote library evil rabbit include pulp frequent wheat account light convince";
+var mnemonic = "robot wealth neither teach winner peanut exile urge excite pig will speak";

@@ -1,1 +1,1 @@
-var mnemonic = "chat glory guard embark nuclear toddler cat draft blast come jungle trouble";
+var mnemonic = "neglect number one palm athlete system toss buzz final secret clip swamp";

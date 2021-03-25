@@ -1,1 +1,1 @@
-var mnemonic = "bind wall escape soft indicate avoid eternal tourist connect sustain unlock one";
+var mnemonic = "approve bean satisfy matter drive electric stereo flower pear mule brave level";

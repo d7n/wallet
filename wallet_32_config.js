@@ -1,1 +1,1 @@
-var mnemonic = "bring crew tank maid pipe cushion veteran mind solar lemon decrease metal";
+var mnemonic = "bronze remind provide ball spice parent oven cricket coil forum ripple employ";

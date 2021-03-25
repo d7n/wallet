@@ -1,1 +1,1 @@
-var mnemonic = "debris decide space next armed inmate naive filter plastic install evidence reject";
+var mnemonic = "energy code uphold surround output cream tomorrow beauty banner coral install velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "outside decade roof firm brave maid west friend rival duck rare robot";
+var mnemonic = "carry once human path agent before differ embrace thing depend clay satoshi";

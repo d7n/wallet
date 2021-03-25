@@ -1,1 +1,1 @@
-var mnemonic = "leaf ankle tiny inside uniform settle divert kangaroo knife nephew trap maid";
+var mnemonic = "verify hip slam retire sign shop diesel loop recycle inmate sting bless";

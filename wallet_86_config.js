@@ -1,1 +1,1 @@
-var mnemonic = "intact blast pistol axis virus blast august immense beyond crunch glue also";
+var mnemonic = "deputy disease master pave pudding brass betray course shoe palm beyond slow";

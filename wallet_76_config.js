@@ -1,1 +1,1 @@
-var mnemonic = "process faint solution mammal winter screen enable industry wall afford parent icon";
+var mnemonic = "amazing spawn rather click shield way argue spatial select corn much green";

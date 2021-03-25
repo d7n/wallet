@@ -1,1 +1,1 @@
-var mnemonic = "common floor picnic enhance slight rich dismiss trash combine poet hat race";
+var mnemonic = "crystal repeat unknown call snow assume mobile neutral strong uphold small enjoy";

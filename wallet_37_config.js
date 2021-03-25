@@ -1,1 +1,1 @@
-var mnemonic = "emerge inflict unveil purpose coconut patient song strike together wasp away axis";
+var mnemonic = "early neglect valley mango two modify legal prosper abandon century want film";

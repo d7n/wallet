@@ -1,1 +1,1 @@
-var mnemonic = "mistake twelve cave hover spice code have obvious solid blur forest observe";
+var mnemonic = "dress fire area great typical february inherit garment three ramp chair proud";

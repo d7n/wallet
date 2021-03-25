@@ -1,1 +1,1 @@
-var mnemonic = "symptom doctor win surface robust sheriff fork permit choose hole deputy culture";
+var mnemonic = "catch novel cross harvest middle abstract aisle undo bean figure check fruit";

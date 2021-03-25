@@ -1,1 +1,1 @@
-var mnemonic = "team ahead luggage neutral umbrella smile screen salmon advance shine spike trophy";
+var mnemonic = "tonight deliver worth move address crazy finish legend movie icon picnic car";

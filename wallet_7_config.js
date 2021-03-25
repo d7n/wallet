@@ -1,1 +1,1 @@
-var mnemonic = "lock neck garage absent crowd bounce forward lock scorpion place worry alert";
+var mnemonic = "drastic focus sentence harbor still hello voice wave coin month bitter magnet";

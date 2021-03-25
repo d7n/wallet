@@ -1,1 +1,1 @@
-var mnemonic = "satisfy idea fossil museum next whip mammal embark soft supreme tip enjoy";
+var mnemonic = "gun bean grass mad fish bean change say frozen style review congress";

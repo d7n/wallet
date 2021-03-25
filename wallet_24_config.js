@@ -1,1 +1,1 @@
-var mnemonic = "erosion bitter pen notable improve wise scene market forward short admit later";
+var mnemonic = "liquid raw media extra awesome space vital drip link win sunset junk";

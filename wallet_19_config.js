@@ -1,1 +1,1 @@
-var mnemonic = "crush change symptom report opera snake cinnamon cruel enter category exercise rubber";
+var mnemonic = "rubber kitten lesson stadium frost approve equal pioneer route cereal visual yellow";

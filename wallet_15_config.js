@@ -1,1 +1,1 @@
-var mnemonic = "melt erode menu clock jar gallery eternal repair split develop knee clerk";
+var mnemonic = "mail wall ecology fancy seminar economy side guard february property regular menu";

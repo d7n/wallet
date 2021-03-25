@@ -1,1 +1,1 @@
-var mnemonic = "lamp damp shift reject decorate input silly trim web age seed again";
+var mnemonic = "opera adjust term hobby knee diary swing stadium tool scan future guard";

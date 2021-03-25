@@ -1,1 +1,1 @@
-var mnemonic = "poem furnace perfect rival choose observe wisdom step egg series subway tuition";
+var mnemonic = "valve immune estate motor crack index fire response glass peace evoke sell";

@@ -1,1 +1,1 @@
-var mnemonic = "define stage dinosaur jealous great ride situate name fatigue whale outside cactus";
+var mnemonic = "matrix charge bring victory swamp harvest dune input scorpion quantum canvas live";

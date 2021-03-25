@@ -1,1 +1,1 @@
-var mnemonic = "era stomach tell piano silly account blade afraid fish gadget trumpet dry";
+var mnemonic = "emotion peasant garbage mountain tattoo repeat subject skull present gather left garment";

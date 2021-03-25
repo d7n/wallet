@@ -1,1 +1,1 @@
-var mnemonic = "adapt envelope quarter trick crash gold gain tiger reject small banana hint";
+var mnemonic = "asthma mistake identify gallery judge obvious state peanut attack upgrade ecology foot";

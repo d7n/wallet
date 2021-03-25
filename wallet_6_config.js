@@ -1,1 +1,1 @@
-var mnemonic = "library maze that program purse creek use sound lottery relief begin crew";
+var mnemonic = "carbon tennis acoustic oven mix whisper execute rich once myself envelope casino";

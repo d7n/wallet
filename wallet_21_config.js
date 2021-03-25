@@ -1,1 +1,1 @@
-var mnemonic = "reveal order spell spider taxi fossil faculty file tone minute poem rare";
+var mnemonic = "initial genuine unhappy mechanic doctor torch garden raw consider wish system cave";

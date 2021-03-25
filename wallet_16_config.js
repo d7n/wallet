@@ -1,1 +1,1 @@
-var mnemonic = "hole expect cousin save floor lift act present aim wealth achieve dove";
+var mnemonic = "cook stick toy solid north win boil arrive brush front dolphin target";

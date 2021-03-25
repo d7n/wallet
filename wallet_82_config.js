@@ -1,1 +1,1 @@
-var mnemonic = "caught spell word park image rival stomach jacket year rigid asset draw";
+var mnemonic = "leisure debris vivid exclude truly define dirt clinic hope treat very often";

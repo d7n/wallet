@@ -1,1 +1,1 @@
-var mnemonic = "upper notice pipe material quit hole annual check pitch desk biology history";
+var mnemonic = "fit reveal vote voice glad beach unaware type retire fox burden follow";

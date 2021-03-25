@@ -1,1 +1,1 @@
-var mnemonic = "retire march chest dash glory liberty render jelly atom knock throw champion";
+var mnemonic = "banana profit path mule cheese cheese pool bitter over explain assist betray";

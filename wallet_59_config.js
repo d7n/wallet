@@ -1,1 +1,1 @@
-var mnemonic = "topple try snap mix kit ice steel ecology voice marine chronic add";
+var mnemonic = "hybrid canyon soul chair apology normal pig brave tomorrow pluck humble road";

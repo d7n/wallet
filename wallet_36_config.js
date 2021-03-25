@@ -1,1 +1,1 @@
-var mnemonic = "bulb shadow mind office reduce climb label water river idle price bachelor";
+var mnemonic = "three sand brand age can inner mask sad witness debate approve easily";

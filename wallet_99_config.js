@@ -1,1 +1,1 @@
-var mnemonic = "today envelope must awesome blue goat payment flee into churn fire merit";
+var mnemonic = "twin funny breeze audit clerk window pledge crowd lake unveil circle phrase";

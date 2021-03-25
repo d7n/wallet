@@ -1,1 +1,1 @@
-var mnemonic = "clutch vault blame virtual differ cloud engage useful silly speed move nurse";
+var mnemonic = "shop sauce soul shallow custom income prevent bar divorce wrong silver deposit";

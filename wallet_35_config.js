@@ -1,1 +1,1 @@
-var mnemonic = "gym shove tilt current base thank worth blush dutch minimum horror evidence";
+var mnemonic = "old luggage test people hip thunder saddle pool journey save resemble soul";

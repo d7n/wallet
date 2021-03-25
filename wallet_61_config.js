@@ -1,1 +1,1 @@
-var mnemonic = "pear gauge same onion opinion setup twist during south birth lend monkey";
+var mnemonic = "recycle category myself vault sudden flat baby excite coyote gown choose primary";

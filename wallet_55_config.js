@@ -1,1 +1,1 @@
-var mnemonic = "garment lucky wolf boost tribe squeeze illness exact chef property consider salon";
+var mnemonic = "oyster urban sauce cost hill forward imitate urban oblige alert rude melt";

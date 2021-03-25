@@ -1,1 +1,1 @@
-var mnemonic = "vanish define pistol kind soul safe raven dutch skull west chapter patient";
+var mnemonic = "build unlock rigid wave embrace cram bracket cereal pistol seed plate bracket";
