@@ -1,1 +1,1 @@
-var mnemonic = "sketch nest crush mammal favorite remember inhale walnut rare uphold north toward";
+var mnemonic = "myth vibrant trumpet mammal finger host palace sad tennis guide rhythm ranch";

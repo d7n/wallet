@@ -1,1 +1,1 @@
-var mnemonic = "response pony jealous monster margin educate turn salad sustain shock engage spot";
+var mnemonic = "badge vapor avoid program real venture grid regular million minute analyst common";

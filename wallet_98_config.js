@@ -1,1 +1,1 @@
-var mnemonic = "minute dove mother add pelican scene level wheat title diamond minute engage";
+var mnemonic = "ship become attack industry fault cruise suspect maze guess slot engine struggle";

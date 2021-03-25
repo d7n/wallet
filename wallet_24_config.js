@@ -1,1 +1,1 @@
-var mnemonic = "jealous rebuild panel nation acid elite mosquito behind sign asset joke fantasy";
+var mnemonic = "text nurse tilt evidence bitter nasty hidden panic add ball hub snow";

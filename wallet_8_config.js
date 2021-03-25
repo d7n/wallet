@@ -1,1 +1,1 @@
-var mnemonic = "admit speed stuff zone prison cradle veteran slender chef diary air spirit";
+var mnemonic = "biology say bench palm mercy sugar tennis modify siege bring news extra";

@@ -1,1 +1,1 @@
-var mnemonic = "ball erupt humble claim useful bubble sketch fatigue session bargain cash level";
+var mnemonic = "wing learn venue exit pride more journey diamond employ coach dune snap";

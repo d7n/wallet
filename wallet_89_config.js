@@ -1,1 +1,1 @@
-var mnemonic = "canyon idea jazz abandon bean hill slender portion obvious weasel outer beauty";
+var mnemonic = "question corn trap custom pact erode foster opera cat there eyebrow business";

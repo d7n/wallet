@@ -1,1 +1,1 @@
-var mnemonic = "anger gasp portion help twenty use scout resource initial vivid present eagle";
+var mnemonic = "observe shoulder latin inmate erode forget piano veteran disagree mother thumb river";

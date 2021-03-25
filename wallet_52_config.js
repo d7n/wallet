@@ -1,1 +1,1 @@
-var mnemonic = "equip organ advance heavy engage destroy mother tent evil bulk pond network";
+var mnemonic = "bacon advice year scissors holiday dolphin trade elegant torch broken blanket hamster";

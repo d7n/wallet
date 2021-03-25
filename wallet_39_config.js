@@ -1,1 +1,1 @@
-var mnemonic = "gate witness slot connect review sail final song people lamp traffic travel";
+var mnemonic = "skull world used differ flat absorb item else pool crack false improve";

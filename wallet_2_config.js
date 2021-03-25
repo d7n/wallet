@@ -1,1 +1,1 @@
-var mnemonic = "change advance please pitch wrestle alone artist pact hire mandate boost render";
+var mnemonic = "angry predict minimum photo hockey magnet humble panel also rally harbor scrap";

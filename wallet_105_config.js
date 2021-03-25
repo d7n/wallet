@@ -1,1 +1,1 @@
-var mnemonic = "maze region virus have panel earth myth connect shrug prevent second scene";
+var mnemonic = "galaxy dash wing people episode peasant midnight jeans tattoo sadness off help";

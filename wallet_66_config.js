@@ -1,1 +1,1 @@
-var mnemonic = "foot safe theory betray silk fork pencil silent enjoy please produce profit";
+var mnemonic = "pause evidence tuition shy evoke stadium relax magic mercy glare word label";

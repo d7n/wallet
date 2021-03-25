@@ -1,1 +1,1 @@
-var mnemonic = "room discover second ketchup spoil disease diamond novel update stove flip father";
+var mnemonic = "rigid manual naive betray shrimp elephant alcohol gossip alpha fly safe lesson";

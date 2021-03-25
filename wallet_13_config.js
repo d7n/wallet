@@ -1,1 +1,1 @@
-var mnemonic = "match resource penalty muffin echo inside chapter poet recall still ask much";
+var mnemonic = "private transfer alone remember lens vessel motion round share pottery there net";

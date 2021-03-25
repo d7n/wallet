@@ -1,1 +1,1 @@
-var mnemonic = "era video broccoli autumn language author neutral guard there fit fuel lemon";
+var mnemonic = "vessel lawn item build ensure neutral bonus rigid cat thumb produce beef";

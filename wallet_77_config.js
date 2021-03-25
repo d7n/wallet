@@ -1,1 +1,1 @@
-var mnemonic = "gauge flame display high page leopard proof hood screen light kit wife";
+var mnemonic = "moment learn supreme system pony expose sea also only crane mean limit";

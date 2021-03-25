@@ -1,1 +1,1 @@
-var mnemonic = "actual outdoor claim cycle dilemma language forget cook cliff mansion boy pool";
+var mnemonic = "nephew gossip remain strong six topic swap joke idea genre burger jump";

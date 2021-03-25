@@ -1,1 +1,1 @@
-var mnemonic = "guilt beyond provide firm mail dynamic coin wish spawn true wheat oil";
+var mnemonic = "hungry exhibit confirm during scheme fresh another wall web hobby detect able";

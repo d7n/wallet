@@ -1,1 +1,1 @@
-var mnemonic = "corn lock eye member dish stadium delay blade slide blush traffic wink";
+var mnemonic = "chest quality girl drastic cruise run tribe tissue brisk again plunge spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "early indicate alien certain enlist boat text bread execute crawl canvas stairs";
+var mnemonic = "human canal school upper naive merry mesh nose dog combine person spike";

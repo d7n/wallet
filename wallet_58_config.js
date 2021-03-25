@@ -1,1 +1,1 @@
-var mnemonic = "tunnel bullet memory project check mercy weird ready order divide chalk amused";
+var mnemonic = "planet filter brisk pepper short question gentle shed merge soul oven cruise";

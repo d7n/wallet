@@ -1,1 +1,1 @@
-var mnemonic = "donkey street slogan mind shuffle scan dentist prepare hen elbow method water";
+var mnemonic = "century spray exile rookie wait regret advance sign distance sample switch favorite";

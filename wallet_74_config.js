@@ -1,1 +1,1 @@
-var mnemonic = "tide reflect suspect wealth oven sign quality grace page dial fault flat";
+var mnemonic = "bone neutral faith elephant dance scene remove depth resource rate crash relax";

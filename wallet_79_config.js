@@ -1,1 +1,1 @@
-var mnemonic = "pony ill muscle cause shield choose push put foam wide advance patrol";
+var mnemonic = "three achieve inspire sister inhale rain nuclear autumn bread cruel merit amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "romance depend abuse wish purpose april crunch come mule park federal paddle";
+var mnemonic = "palace mobile peasant motion credit pair jaguar limit sort antique idle stable";

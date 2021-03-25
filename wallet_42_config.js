@@ -1,1 +1,1 @@
-var mnemonic = "that liquid setup ecology join appear nice ramp improve sample ahead pioneer";
+var mnemonic = "crystal foam virus theory rabbit intact mother special accident fiction chimney enter";

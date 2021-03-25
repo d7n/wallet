@@ -1,1 +1,1 @@
-var mnemonic = "disagree supply chicken vote oven day aunt ship flock tortoise guilt suspect";
+var mnemonic = "absorb throw lobster flag enough parent slogan ability wish push athlete never";

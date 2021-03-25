@@ -1,1 +1,1 @@
-var mnemonic = "secret staff portion bomb congress flash frequent vehicle begin hard play demise";
+var mnemonic = "spin tonight hawk school mask ancient again course license trigger answer renew";

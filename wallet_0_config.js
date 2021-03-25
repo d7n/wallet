@@ -1,1 +1,1 @@
-var mnemonic = "update frost update adapt park suspect proud orphan circle cereal inhale glow";
+var mnemonic = "trophy suspect goddess happy other gas put panel insane toy enrich deputy";

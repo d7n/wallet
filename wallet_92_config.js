@@ -1,1 +1,1 @@
-var mnemonic = "bless easily wish tomorrow rookie equip resemble account excuse crowd speak viable";
+var mnemonic = "image pole coral spider permit unique cable arrive clap truly critic salmon";

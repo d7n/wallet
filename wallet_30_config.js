@@ -1,1 +1,1 @@
-var mnemonic = "fossil ice net absorb split boil cover food frame east finger grace";
+var mnemonic = "cactus tenant siren drift cargo hair staff dish scene deliver scatter lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "alley first swim prepare agent close this tag aisle example soul panda";
+var mnemonic = "pear ordinary cement eager language festival victory into dismiss era follow venture";

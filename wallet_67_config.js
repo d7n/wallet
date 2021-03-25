@@ -1,1 +1,1 @@
-var mnemonic = "top gravity clutch catch rug method satoshi grit poem head night mask";
+var mnemonic = "diary average essay mask guilt nest flight session acoustic foam same hello";

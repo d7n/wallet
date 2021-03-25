@@ -1,1 +1,1 @@
-var mnemonic = "carry wool potato wear because dog crouch media trial will key airport";
+var mnemonic = "parrot inside insect omit riot thank pottery moral alert gaze tortoise duty";

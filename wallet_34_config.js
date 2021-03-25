@@ -1,1 +1,1 @@
-var mnemonic = "rotate host message acoustic egg donate unaware bottom that apple tuition horn";
+var mnemonic = "major pottery media antique rent cry trash escape evolve blouse wave bacon";

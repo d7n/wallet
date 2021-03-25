@@ -1,1 +1,1 @@
-var mnemonic = "tube mercy knock bracket siren media retire crumble try daring glove horn";
+var mnemonic = "offer night want street final gain face boring price like portion you";

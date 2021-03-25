@@ -1,1 +1,1 @@
-var mnemonic = "minimum silent kiwi cover wing spell dice tackle attack grace wild vintage";
+var mnemonic = "term heart stable silent disorder recall goddess fox silk gorilla review garment";

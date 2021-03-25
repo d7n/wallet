@@ -1,1 +1,1 @@
-var mnemonic = "someone opera museum evoke leg place erode man pipe hole west example";
+var mnemonic = "topic card saddle monster into wagon lucky nominee nest milk strategy club";

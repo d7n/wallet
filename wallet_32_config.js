@@ -1,1 +1,1 @@
-var mnemonic = "scrub raven empty image nephew thumb elephant mass update attack helmet crime";
+var mnemonic = "one valley spider nest patient deny sense reform boss catch cage erupt";

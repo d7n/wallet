@@ -1,1 +1,1 @@
-var mnemonic = "ride practice tissue pudding between rose main anxiety dumb ladder birth shift";
+var mnemonic = "mansion barrel mass draft grant theme close buyer farm whale muffin defy";

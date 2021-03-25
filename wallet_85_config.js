@@ -1,1 +1,1 @@
-var mnemonic = "glide humor decline brisk fog absurd multiply keep unaware gasp wheel feel";
+var mnemonic = "focus snow govern switch gorilla wave area orbit tunnel juice bottom income";

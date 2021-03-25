@@ -1,1 +1,1 @@
-var mnemonic = "strategy topple quiz mystery cable fitness hurdle abstract flavor spend upper forward";
+var mnemonic = "gold theory urge drift sure grape vendor burger moon debris auto rival";

@@ -1,1 +1,1 @@
-var mnemonic = "topic force task join moment soft buffalo welcome inflict lucky fabric depth";
+var mnemonic = "script auto join task property common margin name depend over avocado topic";

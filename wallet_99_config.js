@@ -1,1 +1,1 @@
-var mnemonic = "beyond romance exist trigger laugh leopard emotion vast swim inform spray fiction";
+var mnemonic = "bring honey chunk recycle few detail industry leave bronze sugar spatial immune";

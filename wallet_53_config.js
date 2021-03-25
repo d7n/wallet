@@ -1,1 +1,1 @@
-var mnemonic = "ordinary magic ride cliff recipe crazy course parrot purpose luxury lunch turkey";
+var mnemonic = "switch bind eagle tell suspect issue enemy asset jump ranch access address";

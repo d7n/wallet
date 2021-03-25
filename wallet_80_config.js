@@ -1,1 +1,1 @@
-var mnemonic = "attitude unit muffin feature spy rare velvet club mimic pet weird panel";
+var mnemonic = "title beach peace forget race danger act smile output spread journey buffalo";

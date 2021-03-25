@@ -1,1 +1,1 @@
-var mnemonic = "cube script task wealth lawn soap strike midnight shallow boat banana drill";
+var mnemonic = "monitor silent first language promote security february elite cart deal convince shallow";

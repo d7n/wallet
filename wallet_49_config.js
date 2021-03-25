@@ -1,1 +1,1 @@
-var mnemonic = "leg van subject dignity december arrest sponsor seven setup twice audit problem";
+var mnemonic = "torch original dress wall fiscal boy reflect slender enhance sheriff asthma worth";

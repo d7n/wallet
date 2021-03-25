@@ -1,1 +1,1 @@
-var mnemonic = "magnet all husband base leg world mountain nose amateur infant divide huge";
+var mnemonic = "require garbage predict divert tone carry blade below calm quote zone advance";

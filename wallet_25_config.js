@@ -1,1 +1,1 @@
-var mnemonic = "believe faculty grunt gentle sting tomorrow jacket orbit rough share sauce place";
+var mnemonic = "advice midnight unknown liquid giant rival inject tape allow rate object pear";

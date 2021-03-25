@@ -1,1 +1,1 @@
-var mnemonic = "birth current later live lion comic wrestle enroll million hat drastic lumber";
+var mnemonic = "apple acoustic before gold escape broom lonely poet away move lesson boring";

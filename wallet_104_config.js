@@ -1,1 +1,1 @@
-var mnemonic = "slogan hill able involve element kidney quantum rain discover town clerk custom";
+var mnemonic = "raven phone oppose spawn stay nominee domain evoke hazard mention mix between";

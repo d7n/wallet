@@ -1,1 +1,1 @@
-var mnemonic = "alley addict dance acoustic deliver clerk chat brisk once tag card badge";
+var mnemonic = "visa hover gap flip cheap joy candy hidden sleep shove almost width";

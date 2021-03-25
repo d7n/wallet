@@ -1,1 +1,1 @@
-var mnemonic = "glimpse swift club pattern shell dwarf gasp dinner elegant lift pony expose";
+var mnemonic = "radar decide way issue gym tail mask uncover aim snack ordinary sell";

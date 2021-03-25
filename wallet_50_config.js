@@ -1,1 +1,1 @@
-var mnemonic = "stay stem tail stock edge right abuse you film filter exclude size";
+var mnemonic = "essay sound donkey sorry wink reform reduce cannon story elevator panel arrow";

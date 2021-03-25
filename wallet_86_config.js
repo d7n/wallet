@@ -1,1 +1,1 @@
-var mnemonic = "scheme umbrella prize brand slush annual garage gaze forum wrestle dinosaur thumb";
+var mnemonic = "debris tuition chunk rifle net regret history broom mosquito marble material rival";

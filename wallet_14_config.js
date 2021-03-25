@@ -1,1 +1,1 @@
-var mnemonic = "very odor pencil funny glow wrong lounge vacuum bean rotate know donate";
+var mnemonic = "salt clarify east bachelor decrease rude behind trouble quiz snake blur adult";

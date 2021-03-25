@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo battle open rapid treat reunion wheat congress rain all attack era";
+var mnemonic = "test arctic diamond appear lazy sphere utility spread bone swamp arm title";

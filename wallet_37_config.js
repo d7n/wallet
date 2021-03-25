@@ -1,1 +1,1 @@
-var mnemonic = "ride sorry bird dial silk melody noble exclude arrive trigger jaguar chief";
+var mnemonic = "bicycle bleak kidney drift bacon suffer ocean illegal measure retire will order";

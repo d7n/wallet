@@ -1,1 +1,1 @@
-var mnemonic = "write blossom primary load woman bunker december multiply matrix spike bachelor tuition";
+var mnemonic = "ball excite hip pupil prepare famous endless receive sauce win cinnamon athlete";

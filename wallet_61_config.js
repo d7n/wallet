@@ -1,1 +1,1 @@
-var mnemonic = "jungle metal solution announce develop chapter arrive erase course retire science orchard";
+var mnemonic = "mercy client post abstract naive perfect jacket glory fish ceiling reason bitter";

@@ -1,1 +1,1 @@
-var mnemonic = "grab mercy idle fit senior viable wine stable abstract earth cram train";
+var mnemonic = "hover actor impose panic apart side segment pony arrest joke casino rare";

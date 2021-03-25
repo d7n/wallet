@@ -1,1 +1,1 @@
-var mnemonic = "arrest napkin nice rent wear ecology foster brief multiply concert blood announce";
+var mnemonic = "amused salt know prepare drink member tower ability program alpha crisp happy";

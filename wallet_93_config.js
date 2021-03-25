@@ -1,1 +1,1 @@
-var mnemonic = "sick rebel supply power glue woman door prize easy donor gasp razor";
+var mnemonic = "seek animal aim galaxy grow ball scissors burden army sock tonight mimic";

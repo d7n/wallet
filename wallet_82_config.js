@@ -1,1 +1,1 @@
-var mnemonic = "million already average organ donkey farm verb mention marriage behind cannon craft";
+var mnemonic = "embark frost tissue bacon cram world banner fault predict taste property sauce";

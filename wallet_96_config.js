@@ -1,1 +1,1 @@
-var mnemonic = "twice recycle embark august aspect female together cube myth nothing skin tumble";
+var mnemonic = "assist ostrich bright cannon help gasp today cricket session upgrade forest urge";

@@ -1,1 +1,1 @@
-var mnemonic = "master such remind outdoor ritual rally shell alter trick run stand group";
+var mnemonic = "mule baby egg effort wish load release claw erupt proof until hair";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold steak dolphin lunar glad gloom orbit crawl cost tail hint beef";
+var mnemonic = "slice fox shadow tiger angry few shrug soccer mutual cement elder soldier";

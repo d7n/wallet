@@ -1,1 +1,1 @@
-var mnemonic = "bacon someone cube morning prosper right summer mystery rival lab seminar toddler";
+var mnemonic = "open track flat box lonely humble odor caught rally liquid forest foam";

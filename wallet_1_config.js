@@ -1,1 +1,1 @@
-var mnemonic = "answer dolphin force jewel cupboard loud regular turn flee prison volume force";
+var mnemonic = "liquid tunnel fatal element width owner spend tornado scene pepper artefact step";

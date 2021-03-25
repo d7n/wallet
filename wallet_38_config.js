@@ -1,1 +1,1 @@
-var mnemonic = "amused raw element north draw cover vacant sun drink little join auction";
+var mnemonic = "blur rural ancient leopard grant amazing glance flash ocean empower expect wrestle";

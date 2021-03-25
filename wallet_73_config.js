@@ -1,1 +1,1 @@
-var mnemonic = "local pride faint devote chimney peanut test solar prevent denial tenant ostrich";
+var mnemonic = "climb arch quality brief grab cake scan twist around walnut cat boil";

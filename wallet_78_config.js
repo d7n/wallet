@@ -1,1 +1,1 @@
-var mnemonic = "educate mother stay cinnamon project strike lens upgrade noodle surprise cage anchor";
+var mnemonic = "clog canal chunk cannon myth skirt lesson output deliver bid web estate";

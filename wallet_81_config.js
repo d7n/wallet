@@ -1,1 +1,1 @@
-var mnemonic = "fire supreme eight require crouch cover quote gym frequent jar dynamic vote";
+var mnemonic = "addict tube window resemble elder vessel gold reduce husband genius jelly dad";

@@ -1,1 +1,1 @@
-var mnemonic = "venture clap salt kitchen soda city program limit utility radar myself inside";
+var mnemonic = "clip craft layer abstract sunny remove strategy taxi possible dinosaur journey suit";

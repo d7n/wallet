@@ -1,1 +1,1 @@
-var mnemonic = "cream jacket video spirit wide resemble ginger another position wild puzzle alone";
+var mnemonic = "dry cry drink hollow explain round wish also risk enlist hundred insane";

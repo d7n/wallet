@@ -1,1 +1,1 @@
-var mnemonic = "engage pause duck mouse hollow marriage monitor slow cupboard february cinnamon paddle";
+var mnemonic = "repeat general trade hill between melt monitor few leave margin plate walk";

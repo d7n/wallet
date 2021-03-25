@@ -1,1 +1,1 @@
-var mnemonic = "gold mutual drip onion indoor enrich risk yellow have winter doll mobile";
+var mnemonic = "voice brief time secret silver pelican receive bronze solid before attract paper";

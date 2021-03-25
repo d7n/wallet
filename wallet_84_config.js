@@ -1,1 +1,1 @@
-var mnemonic = "work invite payment view clip kind true click hill fortune over grid";
+var mnemonic = "dose flavor annual black grief tennis squirrel basic asthma elevator hair risk";

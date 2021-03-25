@@ -1,1 +1,1 @@
-var mnemonic = "galaxy table athlete pull orphan define shoot dry isolate deer trick proof";
+var mnemonic = "earth clump cherry ticket legend typical cake tip case rent claim lobster";

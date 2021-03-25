@@ -1,1 +1,1 @@
-var mnemonic = "love happy dynamic elite pave slot journey famous garden topple visit depart";
+var mnemonic = "fruit title orchard excuse total hello prize donkey actor finish around friend";

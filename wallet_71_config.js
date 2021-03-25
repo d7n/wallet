@@ -1,1 +1,1 @@
-var mnemonic = "grab same swamp quarter country across essence depth relief mail nerve faculty";
+var mnemonic = "hip spray cat slim submit mother obey next magnet mean main radio";

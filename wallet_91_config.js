@@ -1,1 +1,1 @@
-var mnemonic = "example donate gospel nerve only oven basic maid grief skin someone easy";
+var mnemonic = "scout access weird bottom index move ghost night scout quote unusual neutral";

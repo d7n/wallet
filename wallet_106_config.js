@@ -1,1 +1,1 @@
-var mnemonic = "orient alley wagon initial demand prosper unique snap team arch farm enrich";
+var mnemonic = "okay symptom crucial liberty case decrease cat three mandate urge clip keen";

@@ -1,1 +1,1 @@
-var mnemonic = "solution violin october stomach mixture purity cloth raven silver pumpkin artwork exclude";
+var mnemonic = "reward banner prepare snap all spirit hammer funny evidence bulb rude emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "again auction much gauge tissue grace win picnic clean quality stadium guide";
+var mnemonic = "million upon often jacket wire young draft fresh steak merge quality speak";

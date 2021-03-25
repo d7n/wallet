@@ -1,1 +1,1 @@
-var mnemonic = "gauge wall two assist mansion jewel public cube base clock process rebel";
+var mnemonic = "monitor run ride demise upset tower dismiss inhale fat borrow expect orphan";

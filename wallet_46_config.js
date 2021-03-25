@@ -1,1 +1,1 @@
-var mnemonic = "state shock fee measure thing throw relax they swear come anxiety attract";
+var mnemonic = "initial negative future tongue spoil toward post maple raw belt cannon easy";

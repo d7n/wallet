@@ -1,1 +1,1 @@
-var mnemonic = "pigeon weather shiver snap leaf execute hole reform focus obey grant penalty";
+var mnemonic = "castle winter subway buzz weasel liberty summer drill play divert torch peace";

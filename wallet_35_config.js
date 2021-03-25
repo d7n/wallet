@@ -1,1 +1,1 @@
-var mnemonic = "staff voice calm bargain muffin noble sea art old popular symbol embrace";
+var mnemonic = "key wait village notice strategy pistol wrap surface rely insect west virus";

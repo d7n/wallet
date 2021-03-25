@@ -1,1 +1,1 @@
-var mnemonic = "artist staff cereal audit obvious garment route banner cloud juice cattle blouse";
+var mnemonic = "hole avoid dilemma elbow army act animal blush fence rally oil mother";
