@@ -1,1 +1,1 @@
-var mnemonic = "hammer auto genuine turtle balance episode gown sea man acquire vote result";
+var mnemonic = "empower finish confirm crime carpet enjoy rich hawk coral need cry knee";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion blue traffic coffee gentle chase wave replace rotate erase west repair";
+var mnemonic = "friend satisfy faculty tent puzzle friend hidden lawn toast educate recycle parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn world old lunar plastic divide enjoy fold frozen swing ocean define";
+var mnemonic = "close case eternal mad pet prevent young frame veteran need typical august";

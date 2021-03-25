@@ -1,1 +1,1 @@
-var mnemonic = "stand crisp quote van fire figure minimum erosion basket cross all leader";
+var mnemonic = "cube twist mosquito bone prefer suggest wool resource tragic lamp decorate remain";

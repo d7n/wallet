@@ -1,1 +1,1 @@
-var mnemonic = "destroy flower advice antenna leaf lawsuit pledge fetch abuse digital toy arctic";
+var mnemonic = "hen eye ketchup artist fall convince dress helmet bomb meadow list dress";

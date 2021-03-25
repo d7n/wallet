@@ -1,1 +1,1 @@
-var mnemonic = "today grunt grief empower member tip only scale oven honey bring endless";
+var mnemonic = "permit senior glide model arrest retreat once sail shove smile absorb damp";

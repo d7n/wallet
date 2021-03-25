@@ -1,1 +1,1 @@
-var mnemonic = "seek rural apart sauce battle sheriff version couple wage goose elegant deny";
+var mnemonic = "draft leisure absurd armed issue random romance tomato engine stock wet loud";

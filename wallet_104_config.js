@@ -1,1 +1,1 @@
-var mnemonic = "piano detect arrow meadow close busy possible ask reunion any smile budget";
+var mnemonic = "opera fault traffic approve current snow hedgehog room what ostrich police grass";

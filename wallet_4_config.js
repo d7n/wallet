@@ -1,1 +1,1 @@
-var mnemonic = "dash tape park annual various bonus barrel face stairs ticket flame crumble";
+var mnemonic = "drama story cattle monkey despair fiscal drink favorite warfare exact exclude noble";

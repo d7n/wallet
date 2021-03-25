@@ -1,1 +1,1 @@
-var mnemonic = "spend raise sure can direct oblige identify useful garment cook similar average";
+var mnemonic = "reform east polar warfare betray clown all despair boost inspire muscle first";

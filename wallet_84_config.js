@@ -1,1 +1,1 @@
-var mnemonic = "visual beauty time anger duty aware special blind meadow puzzle soda endorse";
+var mnemonic = "there garage maze icon runway merge wear oyster river excess crane prevent";

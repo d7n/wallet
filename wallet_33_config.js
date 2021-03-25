@@ -1,1 +1,1 @@
-var mnemonic = "busy curve enforce ugly dance parent humble slush obtain any fence member";
+var mnemonic = "decade debate office snack gift snap foil coin rib giant drum today";

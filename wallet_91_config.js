@@ -1,1 +1,1 @@
-var mnemonic = "usage mystery nose trouble gather correct quality token core ice cruel dolphin";
+var mnemonic = "wedding negative rich mixed foot fabric share turkey silk either rely bundle";

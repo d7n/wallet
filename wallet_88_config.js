@@ -1,1 +1,1 @@
-var mnemonic = "era tone royal forum giant bulb mandate magic window ill sponsor clown";
+var mnemonic = "enter upset usage fiber noise current float save forward two bacon degree";

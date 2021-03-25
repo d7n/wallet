@@ -1,1 +1,1 @@
-var mnemonic = "wage ancient abandon pause such edit push cause match box faculty lift";
+var mnemonic = "lamp silver denial jazz dad mention bid solid minimum mention grow joke";

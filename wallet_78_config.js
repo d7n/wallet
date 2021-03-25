@@ -1,1 +1,1 @@
-var mnemonic = "pave step lab speak off describe minor attend success reward such broom";
+var mnemonic = "private subway talent boss fade cabin alone snack liberty capable infant inch";

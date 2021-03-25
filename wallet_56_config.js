@@ -1,1 +1,1 @@
-var mnemonic = "denial craft giraffe hope census cereal refuse kit love act fiber cliff";
+var mnemonic = "useful rich country reduce swim rocket say august bamboo prize toilet negative";

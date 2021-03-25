@@ -1,1 +1,1 @@
-var mnemonic = "delay month another flat couch elegant chaos pottery leave consider brown cliff";
+var mnemonic = "bless feature erode defense course audit knee flower unfold scheme exhibit fatal";

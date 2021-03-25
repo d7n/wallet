@@ -1,1 +1,1 @@
-var mnemonic = "among wood perfect screen outside brick acid hobby gallery inspire spare sock";
+var mnemonic = "print faint width card alert toward ability summer expire asset spring scrap";

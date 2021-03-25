@@ -1,1 +1,1 @@
-var mnemonic = "absent answer build club endless flame silk noble math limb claw talk";
+var mnemonic = "subject hawk spike author armor special process gift promote ensure wreck river";

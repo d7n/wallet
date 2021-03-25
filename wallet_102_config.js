@@ -1,1 +1,1 @@
-var mnemonic = "will sword myth dose rhythm canyon crucial marine improve fantasy situate student";
+var mnemonic = "belt online when improve minute crime wheat identify depth deliver upon shift";

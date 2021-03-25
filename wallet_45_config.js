@@ -1,1 +1,1 @@
-var mnemonic = "submit fiber solid allow miracle region opera exchange alert sell drip addict";
+var mnemonic = "artwork hamster portion choice save indoor high install brass pledge accident figure";

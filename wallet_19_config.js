@@ -1,1 +1,1 @@
-var mnemonic = "pupil swing width mechanic imitate range left inject airport under inform menu";
+var mnemonic = "tank donkey shove vivid sibling kite horn million flame type prepare pulp";

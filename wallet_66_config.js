@@ -1,1 +1,1 @@
-var mnemonic = "pistol impulse walnut impact seek teach inspire pretty need rally hockey law";
+var mnemonic = "feed news degree mixed prepare garden income duck various diamond ask flag";

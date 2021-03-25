@@ -1,1 +1,1 @@
-var mnemonic = "voyage display rack open soccer miss invite upgrade idle sense since mention";
+var mnemonic = "protect tenant tomorrow pyramid label eyebrow type side squeeze excite initial coil";

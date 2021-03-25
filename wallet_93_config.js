@@ -1,1 +1,1 @@
-var mnemonic = "lady address busy grief radar orchard vintage typical obtain suffer media quiz";
+var mnemonic = "gown lunar hunt mirror speed income clap response jaguar ostrich robust wait";

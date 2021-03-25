@@ -1,1 +1,1 @@
-var mnemonic = "glass brown depth monster view connect provide number huge sting blind action";
+var mnemonic = "figure please bless chat sunset leaf never drive bonus praise young service";

@@ -1,1 +1,1 @@
-var mnemonic = "resource genius involve awesome garage deal acoustic note sauce once exhibit pair";
+var mnemonic = "breeze salt slim rib hint prepare furnace hidden garlic hover loyal method";

@@ -1,1 +1,1 @@
-var mnemonic = "stage glove sunset trumpet angle fortune way bracket cotton disease random chair";
+var mnemonic = "flame frost wonder post list finish canvas ceiling fuel quit palm lesson";

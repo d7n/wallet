@@ -1,1 +1,1 @@
-var mnemonic = "wisdom grid custom camera office rice innocent knee wear focus differ member";
+var mnemonic = "route speak gold moment science empty salt fiction error daughter question recall";

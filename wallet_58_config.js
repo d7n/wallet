@@ -1,1 +1,1 @@
-var mnemonic = "physical gallery month female expand feed melt minimum say casino foam there";
+var mnemonic = "tomato snap cake lake nice dragon deputy rubber artefact order artefact supreme";

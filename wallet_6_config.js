@@ -1,1 +1,1 @@
-var mnemonic = "winner holiday crash horn disease swamp fun unable term horse impose fiber";
+var mnemonic = "idea cover replace oppose polar nurse barely dial badge reform farm vote";

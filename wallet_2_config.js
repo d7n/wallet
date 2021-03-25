@@ -1,1 +1,1 @@
-var mnemonic = "exact awful caught submit destroy second diary day busy moment innocent scout";
+var mnemonic = "sample truth world lady mechanic ski range firm stool lesson acoustic claim";

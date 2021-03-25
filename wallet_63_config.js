@@ -1,1 +1,1 @@
-var mnemonic = "web script immense tilt silent ankle million zone horn pupil order milk";
+var mnemonic = "art emerge motor level such once thrive bonus leisure cheap panther beauty";

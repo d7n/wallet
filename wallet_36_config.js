@@ -1,1 +1,1 @@
-var mnemonic = "federal patrol erode pulse amateur second rabbit sunny climb run ecology excite";
+var mnemonic = "harbor flower quarter jump guilt bottom inside jelly glimpse worry shadow pride";

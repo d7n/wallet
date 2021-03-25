@@ -1,1 +1,1 @@
-var mnemonic = "dwarf charge poem six arrive forest stereo anchor topple private parent indicate";
+var mnemonic = "security maze fatal device universe fiber innocent hour absurd adult average beauty";

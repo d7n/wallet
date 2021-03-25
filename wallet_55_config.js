@@ -1,1 +1,1 @@
-var mnemonic = "clip inspire giraffe now best purity afford lumber gospel reopen tornado party";
+var mnemonic = "physical tunnel dignity library order flight divide focus husband drift lake measure";

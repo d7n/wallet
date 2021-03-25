@@ -1,1 +1,1 @@
-var mnemonic = "august genuine cereal banana kiss dwarf peanut debris act welcome air valve";
+var mnemonic = "arch antenna toilet source oak nothing plastic base invest sibling food bench";

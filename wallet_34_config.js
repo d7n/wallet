@@ -1,1 +1,1 @@
-var mnemonic = "mechanic meat page route discover duty weird jelly degree kiss clever coyote";
+var mnemonic = "demise idle bridge damage thumb abandon retire tilt bottom unknown daring twenty";

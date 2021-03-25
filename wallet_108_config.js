@@ -1,1 +1,1 @@
-var mnemonic = "office father humble roof mammal deer mandate tired carry attack shrimp prosper";
+var mnemonic = "blanket picnic pupil media exact advance kick eye ridge unusual hungry grit";

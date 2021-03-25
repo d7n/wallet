@@ -1,1 +1,1 @@
-var mnemonic = "title detect draft lecture worth close mean pig hover flush help soon";
+var mnemonic = "dizzy argue slab churn marble impose shrimp heavy appear plastic swarm fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "cause vocal flip oxygen cat forum comic song pony rural captain record";
+var mnemonic = "major prison drink before rotate type hidden fine brisk bone valid large";

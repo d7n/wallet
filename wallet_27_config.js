@@ -1,1 +1,1 @@
-var mnemonic = "stairs acoustic electric million walnut urge pumpkin before noodle shrimp shoe raise";
+var mnemonic = "champion artefact physical exit sell season junk category width tuition tooth thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon dumb code among dentist rescue surprise palace achieve slot target hospital";
+var mnemonic = "festival payment visa code virus enhance lecture stage blast also valley glare";

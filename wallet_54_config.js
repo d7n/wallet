@@ -1,1 +1,1 @@
-var mnemonic = "vacuum funny certain promote point diamond play that nature sock legend attract";
+var mnemonic = "increase test sea jealous have swim busy theme repeat hunt involve lumber";

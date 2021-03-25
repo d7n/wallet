@@ -1,1 +1,1 @@
-var mnemonic = "pelican grant business prosper aspect will poet state random tortoise twelve usual";
+var mnemonic = "valve ordinary tool slender bike sort vote camera chalk east feature sibling";

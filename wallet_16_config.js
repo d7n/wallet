@@ -1,1 +1,1 @@
-var mnemonic = "decline govern enough patch erosion climb circle cover kind genre barely snap";
+var mnemonic = "city vicious attack retire width busy innocent wealth gold assume humble foot";

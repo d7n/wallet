@@ -1,1 +1,1 @@
-var mnemonic = "defense hole income pyramid mango wave royal sand true true glimpse extend";
+var mnemonic = "solid sell skate hedgehog kangaroo dash multiply leg tiger post refuse man";

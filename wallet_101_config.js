@@ -1,1 +1,1 @@
-var mnemonic = "give frame deputy leopard curious rude clutch barely rough puzzle jacket warm";
+var mnemonic = "trust roof dash meadow three side scene rack intact velvet pave police";

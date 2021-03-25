@@ -1,1 +1,1 @@
-var mnemonic = "lounge comfort violin room rookie panic swing advance sorry inject expire song";
+var mnemonic = "flower credit analyst borrow inherit kingdom junk foam project erode raw talent";

@@ -1,1 +1,1 @@
-var mnemonic = "winner bargain anxiety flower shine crane shield process gorilla insect blue soccer";
+var mnemonic = "banana cheese avoid exile online morning empower galaxy avoid humble help inmate";

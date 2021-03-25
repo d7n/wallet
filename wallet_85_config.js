@@ -1,1 +1,1 @@
-var mnemonic = "enforce select egg april card cliff chief lonely shine equal purpose victory";
+var mnemonic = "auto glare income already nose decrease snake spoon brush enact fitness bounce";

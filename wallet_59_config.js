@@ -1,1 +1,1 @@
-var mnemonic = "lottery inherit filter tattoo hospital tree choice pistol model smooth layer exhibit";
+var mnemonic = "ten vague twenty adult monster gap urban more rabbit tunnel country ask";

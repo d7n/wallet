@@ -1,1 +1,1 @@
-var mnemonic = "empty must uncover find winter meadow birth kitten memory atom parade receive";
+var mnemonic = "sunny autumn detail dentist capital guard violin visit course solution slab coral";

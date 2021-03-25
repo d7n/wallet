@@ -1,1 +1,1 @@
-var mnemonic = "stove another table season round inspire jaguar desk man dumb joy public";
+var mnemonic = "crush just since midnight false mimic avoid pen armed achieve witness enact";

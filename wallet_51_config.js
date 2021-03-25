@@ -1,1 +1,1 @@
-var mnemonic = "stove fit viable night embody height mail era thought badge model stove";
+var mnemonic = "list retreat fossil admit fine ozone net stable buddy step question burger";

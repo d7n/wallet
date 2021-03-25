@@ -1,1 +1,1 @@
-var mnemonic = "venue stadium razor elbow educate pig iron forest miracle nut share math";
+var mnemonic = "cruise predict emotion lion chief decrease ripple aspect fly stairs strike dad";

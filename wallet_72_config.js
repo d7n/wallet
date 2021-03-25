@@ -1,1 +1,1 @@
-var mnemonic = "episode million father almost turkey chalk flee heart network weather confirm autumn";
+var mnemonic = "ball velvet baby smooth luggage maze island live october chaos stock crucial";

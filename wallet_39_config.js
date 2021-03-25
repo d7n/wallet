@@ -1,1 +1,1 @@
-var mnemonic = "knife inherit runway airport armor general spot monitor genius three coral raise";
+var mnemonic = "short brush angry undo holiday duck afford demise special dish anger humble";

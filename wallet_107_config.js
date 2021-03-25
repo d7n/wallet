@@ -1,1 +1,1 @@
-var mnemonic = "addict hawk today absurd bleak link dress naive teach theory grant harsh";
+var mnemonic = "earth memory recipe dolphin truth craft split bid gallery chef matrix debris";

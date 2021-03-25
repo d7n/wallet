@@ -1,1 +1,1 @@
-var mnemonic = "shiver banana wagon task artwork perfect man metal minimum job unlock garment";
+var mnemonic = "umbrella owner mention mobile grace waste obscure valve drop injury wealth target";

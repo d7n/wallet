@@ -1,1 +1,1 @@
-var mnemonic = "dawn goose sail mistake jeans decide that cute adjust hobby when dwarf";
+var mnemonic = "glass whisper small claw diary price umbrella horn outdoor column goose best";

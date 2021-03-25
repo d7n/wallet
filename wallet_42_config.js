@@ -1,1 +1,1 @@
-var mnemonic = "fever simple vivid error front cream same grid uncover lounge blue run";
+var mnemonic = "flash target almost tornado rare disagree enact outdoor bomb purse hip mushroom";

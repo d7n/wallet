@@ -1,1 +1,1 @@
-var mnemonic = "much disagree amazing duty tree found hamster injury ladder client churn letter";
+var mnemonic = "lion vehicle pool airport close liquid claim correct correct deposit canvas arm";

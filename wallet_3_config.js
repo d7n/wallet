@@ -1,1 +1,1 @@
-var mnemonic = "pitch deer relax lava system bracket during slim return denial update problem";
+var mnemonic = "art high permit island uphold review core banner chair autumn abstract gesture";

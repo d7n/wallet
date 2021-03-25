@@ -1,1 +1,1 @@
-var mnemonic = "army crouch brief dynamic floor despair account relax lucky casino depth bronze";
+var mnemonic = "else copper garment stone ozone ride famous gather asthma decline claim envelope";

@@ -1,1 +1,1 @@
-var mnemonic = "weird much crush hamster elephant hamster apology canal effort steel frog polar";
+var mnemonic = "pear enhance kid margin trip art tobacco beauty cart virtual tree lazy";

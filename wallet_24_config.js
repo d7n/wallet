@@ -1,1 +1,1 @@
-var mnemonic = "wheat warm dream glance brick cushion student fossil home merge that party";
+var mnemonic = "token false plastic fat trouble essay nurse biology dose scare ball source";

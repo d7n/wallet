@@ -1,1 +1,1 @@
-var mnemonic = "inner rally poem attitude era disease there nothing pet chuckle document boat";
+var mnemonic = "success pass bone slow index screen uncover number start couple space poem";

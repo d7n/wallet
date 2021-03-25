@@ -1,1 +1,1 @@
-var mnemonic = "true this hope stone receive extend castle miss need august vivid now";
+var mnemonic = "surprise rib debris ahead pear globe audit sample lens curve offer scrap";

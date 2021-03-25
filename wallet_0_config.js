@@ -1,1 +1,1 @@
-var mnemonic = "little shaft off more shop market flash long ketchup era decade captain";
+var mnemonic = "sound pattern emotion wage dizzy early jungle weasel base trap window force";

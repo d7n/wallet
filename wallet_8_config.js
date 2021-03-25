@@ -1,1 +1,1 @@
-var mnemonic = "scare baby foam old today milk divert wear daughter diet ostrich legal";
+var mnemonic = "never tunnel fruit garbage vanish cool patch citizen gossip silent supply sure";

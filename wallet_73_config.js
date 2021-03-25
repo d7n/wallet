@@ -1,1 +1,1 @@
-var mnemonic = "syrup code garden rural pond quiz laptop vanish chronic sister govern wrap";
+var mnemonic = "chase nose rely install wheel believe siege else volcano property hungry middle";

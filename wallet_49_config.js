@@ -1,1 +1,1 @@
-var mnemonic = "title calm bus verb envelope opera warfare seek spice voyage stool prefer";
+var mnemonic = "boost road fan pumpkin miss snake lesson sun round core screen puzzle";

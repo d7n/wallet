@@ -1,1 +1,1 @@
-var mnemonic = "where woman arena liar fire advance pig oak pitch deposit always emotion";
+var mnemonic = "crush live west mutual waste praise one cereal grant able scout afraid";

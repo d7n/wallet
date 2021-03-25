@@ -1,1 +1,1 @@
-var mnemonic = "govern illness symptom coffee frog fetch blossom mammal library palm humor desk";
+var mnemonic = "swim panda shed like chalk ankle segment obey agent come lunar bronze";

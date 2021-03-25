@@ -1,1 +1,1 @@
-var mnemonic = "just still buddy travel donkey fossil uncover prepare minute unveil cereal sunset";
+var mnemonic = "artist toss fever submit can jewel glide symptom sniff castle aspect aim";

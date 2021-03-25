@@ -1,1 +1,1 @@
-var mnemonic = "all shine tell speak screen melody jacket hazard update flight blame dove";
+var mnemonic = "engine draw average outer adapt bottom pumpkin ridge simple ankle portion tooth";

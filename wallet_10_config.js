@@ -1,1 +1,1 @@
-var mnemonic = "result whale top describe media pioneer someone page barely ripple misery solid";
+var mnemonic = "dream decrease space sibling board scene cotton pet lab fold aunt home";

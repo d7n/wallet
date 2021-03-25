@@ -1,1 +1,1 @@
-var mnemonic = "alone buffalo spawn together pitch minimum pear kingdom update ring relief garbage";
+var mnemonic = "between whale tag notable wood dog win slice unusual antenna mushroom garbage";

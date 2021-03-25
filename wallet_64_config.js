@@ -1,1 +1,1 @@
-var mnemonic = "pupil clown motor flock genre faint long frequent load draw zone fish";
+var mnemonic = "arrive match net traffic ensure boring mammal success exit supreme carbon arena";

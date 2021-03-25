@@ -1,1 +1,1 @@
-var mnemonic = "vessel radio rule index example raccoon reform orbit salt swing scout trade";
+var mnemonic = "fiction essence combine aware symptom fluid dumb assume stairs tennis true reflect";

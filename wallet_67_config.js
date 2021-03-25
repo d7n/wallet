@@ -1,1 +1,1 @@
-var mnemonic = "clever sting sample alone myself panel sweet naive alter broom orchard model";
+var mnemonic = "slight display lava empty injury hedgehog oil level grid enroll hamster inside";

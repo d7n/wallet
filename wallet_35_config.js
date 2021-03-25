@@ -1,1 +1,1 @@
-var mnemonic = "enough warfare lizard nose opera bone permit heart canoe range kind oxygen";
+var mnemonic = "differ stamp monitor build item trend man company still run nuclear seat";

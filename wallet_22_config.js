@@ -1,1 +1,1 @@
-var mnemonic = "sketch source sense chuckle mirror insane main dirt guard wear pole helmet";
+var mnemonic = "bench grief eternal dune stool priority sugar sister card thing other door";

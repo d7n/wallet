@@ -1,1 +1,1 @@
-var mnemonic = "wrestle rug test vacant grant exact wasp doctor ranch trial tell beef";
+var mnemonic = "behave smart weird pigeon dragon fatal else earn auction left hole lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "two great spirit surface quick future depend census sting sorry will pupil";
+var mnemonic = "congress suffer fortune witness shy select casino deposit issue slot bacon monitor";
