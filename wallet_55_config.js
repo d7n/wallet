@@ -1,1 +1,1 @@
-var mnemonic = "section foil planet make basket cherry phrase caution gesture topic trend taxi";
+var mnemonic = "puppy farm state element alley renew kite whale flower salt window panda";

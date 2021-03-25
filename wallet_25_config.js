@@ -1,1 +1,1 @@
-var mnemonic = "logic steel copy document glue bargain travel scorpion fatigue message mom else";
+var mnemonic = "digital blood beach bar error there settle attend enhance toilet room series";

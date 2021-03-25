@@ -1,1 +1,1 @@
-var mnemonic = "twin profit another dust hazard history panic behave music dumb cover vast";
+var mnemonic = "camp solution execute avocado hard file orange hybrid lock powder warfare memory";

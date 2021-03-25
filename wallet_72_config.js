@@ -1,1 +1,1 @@
-var mnemonic = "observe tunnel ladder coral trend tornado dolphin amount race news wave caution";
+var mnemonic = "grief impact fiction goose safe stage cloth leopard unable crouch excess category";

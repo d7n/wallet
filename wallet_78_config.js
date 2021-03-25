@@ -1,1 +1,1 @@
-var mnemonic = "behave mercy skill destroy tortoise pencil egg inform prison point buzz wing";
+var mnemonic = "myth bag weapon genuine dynamic dune company logic alpha vintage obey skin";

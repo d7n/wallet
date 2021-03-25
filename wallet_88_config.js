@@ -1,1 +1,1 @@
-var mnemonic = "shed size dose maximum hospital crunch curious egg fiber bracket keen doctor";
+var mnemonic = "angle glow merit south embrace nuclear element fall cream velvet clever chuckle";

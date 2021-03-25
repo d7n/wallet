@@ -1,1 +1,1 @@
-var mnemonic = "notice veteran siege eye mosquito chaos lemon filter april bike laptop option";
+var mnemonic = "inquiry spirit basket small horror cover pitch smart rely tool donkey eyebrow";

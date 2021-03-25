@@ -1,1 +1,1 @@
-var mnemonic = "lyrics slender found naive club deal suspect leg clever narrow rough spin";
+var mnemonic = "stock filter room acoustic mixed embrace current seed seat lunar main ride";

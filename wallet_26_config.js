@@ -1,1 +1,1 @@
-var mnemonic = "have pave hedgehog tone age flavor unfair general regret differ paper nest";
+var mnemonic = "snake tired dwarf grow divide office also ordinary tourist vintage neck move";

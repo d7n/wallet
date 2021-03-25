@@ -1,1 +1,1 @@
-var mnemonic = "vibrant exhaust minute carbon jeans album sausage never genre hunt estate angle";
+var mnemonic = "human soup good path mechanic scale south item destroy lesson daughter valve";

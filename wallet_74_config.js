@@ -1,1 +1,1 @@
-var mnemonic = "leaf member cliff worry inner poem input practice wave cost yard arch";
+var mnemonic = "hill demise cloud lunch juice spend honey couple draft there powder edit";

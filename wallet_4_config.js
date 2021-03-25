@@ -1,1 +1,1 @@
-var mnemonic = "buyer trip tackle rubber adapt uncover tilt green earn crash observe fiber";
+var mnemonic = "upper over snack trophy ocean keen trigger term identify first remember hub";

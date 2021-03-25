@@ -1,1 +1,1 @@
-var mnemonic = "copy shrimp grunt easy rebuild shine outside witness magnet runway calm cinnamon";
+var mnemonic = "kiss ball mother stock speak medal theory shine brave brain track emotion";

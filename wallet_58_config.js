@@ -1,1 +1,1 @@
-var mnemonic = "cash slide mesh hundred bamboo ghost occur reject glare cabbage rival photo";
+var mnemonic = "boring tornado slush evil silly virus opera menu update charge ticket any";

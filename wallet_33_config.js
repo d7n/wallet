@@ -1,1 +1,1 @@
-var mnemonic = "art animal farm captain snow release drill movie since icon parrot tobacco";
+var mnemonic = "hand party chalk banner library glad during over fiscal work mimic feed";

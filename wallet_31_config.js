@@ -1,1 +1,1 @@
-var mnemonic = "away science industry naive detail piano glance mobile armed empower spider panic";
+var mnemonic = "boring sibling trick illness code oxygen reduce violin power settle ramp comfort";

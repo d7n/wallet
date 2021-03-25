@@ -1,1 +1,1 @@
-var mnemonic = "mimic surprise damp green faculty note immense artist giraffe tonight exercise admit";
+var mnemonic = "sort top forum office emotion panther memory desert forget figure gown salon";

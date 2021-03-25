@@ -1,1 +1,1 @@
-var mnemonic = "body clown notable wealth clay whale girl test pole tenant gentle culture";
+var mnemonic = "original shock baby pill impact monkey fetch wrestle bubble leopard blossom below";

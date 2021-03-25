@@ -1,1 +1,1 @@
-var mnemonic = "potato awesome arena cat old jungle topic bargain juice scene cheese baby";
+var mnemonic = "memory about leave smart play surround rare vote desk dinner cluster normal";

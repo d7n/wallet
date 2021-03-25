@@ -1,1 +1,1 @@
-var mnemonic = "nerve intact siren eight rent tribe drift crime horn sea planet into";
+var mnemonic = "dwarf base excuse agree output discover key rule finish tourist apple print";

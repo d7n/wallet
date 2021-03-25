@@ -1,1 +1,1 @@
-var mnemonic = "scrub merge soap tunnel capable thought palace atom pen vacuum say notice";
+var mnemonic = "spawn attract split mechanic surge keen limb future oval square gospel matrix";

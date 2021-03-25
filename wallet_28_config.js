@@ -1,1 +1,1 @@
-var mnemonic = "beach lizard tumble stem table elite common purpose subway top bicycle valid";
+var mnemonic = "foster payment flight bag review embark beach leopard toward trigger box essay";

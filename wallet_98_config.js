@@ -1,1 +1,1 @@
-var mnemonic = "blossom hundred planet maid fit public palm ostrich isolate broken hour embody";
+var mnemonic = "prison regret bundle blue butter uphold essence that sister shallow cram decline";

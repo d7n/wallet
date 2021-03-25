@@ -1,1 +1,1 @@
-var mnemonic = "report thrive lizard dad casual horn pink power toddler spatial rail aunt";
+var mnemonic = "receive much daring stadium alley shine fashion junior menu quote soft illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "debris potato habit solution rhythm robust phone mystery small illness lucky chaos";
+var mnemonic = "time quantum tooth core sentence butter canvas give copper choice canoe actress";

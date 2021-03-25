@@ -1,1 +1,1 @@
-var mnemonic = "treat love version please process whip clinic inflict year convince oxygen run";
+var mnemonic = "special gospel spin edge slide ketchup drama first what supply make quiz";

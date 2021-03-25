@@ -1,1 +1,1 @@
-var mnemonic = "remain acid shed bronze giant leave must sword vote cute bundle secret";
+var mnemonic = "tail nuclear autumn second drill slow change pizza business check liquid sorry";

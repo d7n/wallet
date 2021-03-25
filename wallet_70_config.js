@@ -1,1 +1,1 @@
-var mnemonic = "poem little bracket shield make cry ice veteran snap invite furnace essay";
+var mnemonic = "offer save track cream ranch agree review solid garbage oyster child notice";

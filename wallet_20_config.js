@@ -1,1 +1,1 @@
-var mnemonic = "merge shy leg almost clerk mushroom explain bar prefer endless sick excite";
+var mnemonic = "noodle merge tree lounge cluster potato appear pelican duck memory dice disorder";

@@ -1,1 +1,1 @@
-var mnemonic = "basic local shoe hello observe dad shy throw rich immune slam choice";
+var mnemonic = "ivory force toilet during arctic awake belt guess boil task walnut wrestle";

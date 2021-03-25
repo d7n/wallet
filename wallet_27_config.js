@@ -1,1 +1,1 @@
-var mnemonic = "top clarify joy collect below exhibit feel depart wrist fantasy borrow satisfy";
+var mnemonic = "crash innocent measure beauty prize crash family hedgehog adapt mango angry solid";

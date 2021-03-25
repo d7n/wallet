@@ -1,1 +1,1 @@
-var mnemonic = "business before amazing exchange chronic chalk arctic lion topic unusual code lawn";
+var mnemonic = "script culture cool fault response milk civil income sell middle source soup";

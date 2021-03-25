@@ -1,1 +1,1 @@
-var mnemonic = "letter castle illegal cargo regular ensure toss main wait usage steel present";
+var mnemonic = "slim spoon unfair essay express success gap clump train regret answer outside";

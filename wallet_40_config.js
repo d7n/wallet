@@ -1,1 +1,1 @@
-var mnemonic = "arctic come pigeon stadium random stomach tunnel once rival enrich tent bounce";
+var mnemonic = "volume edge pumpkin smile now blast mule civil camera excuse volcano brief";

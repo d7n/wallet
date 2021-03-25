@@ -1,1 +1,1 @@
-var mnemonic = "interest artwork mother deliver purchase march venture snake zoo wood craft name";
+var mnemonic = "peanut forget bright odor define civil dirt market quick dose hobby bitter";

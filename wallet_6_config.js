@@ -1,1 +1,1 @@
-var mnemonic = "merry betray useless behind hover term envelope trophy cute brisk dragon wild";
+var mnemonic = "bitter put improve negative cube observe only fault unable home code salt";

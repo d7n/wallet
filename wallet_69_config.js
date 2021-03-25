@@ -1,1 +1,1 @@
-var mnemonic = "crouch frog step marriage stumble tank idle benefit elegant weapon honey bunker";
+var mnemonic = "trend rabbit lab dream file hurt hurt unusual bounce crack length chest";

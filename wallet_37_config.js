@@ -1,1 +1,1 @@
-var mnemonic = "exclude message hair lunch south left stay agree husband drastic swap helmet";
+var mnemonic = "knife genuine early escape green balance drama divide boil payment pizza child";

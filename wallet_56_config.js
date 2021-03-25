@@ -1,1 +1,1 @@
-var mnemonic = "crash page mango wear crowd broken memory other file equip cigar oven";
+var mnemonic = "fire catalog mirror chat crouch enact orphan behind area sunset dilemma timber";

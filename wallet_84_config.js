@@ -1,1 +1,1 @@
-var mnemonic = "rack remain width smart card help power find into normal again caution";
+var mnemonic = "pen weekend scrub motion mind fashion wrap dignity wave hover crumble suggest";

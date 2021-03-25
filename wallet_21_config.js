@@ -1,1 +1,1 @@
-var mnemonic = "shift theory repeat van boat scorpion bunker suit sad special burst pottery";
+var mnemonic = "catalog salute apple right oxygen twice hard trim find candy under evoke";

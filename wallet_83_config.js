@@ -1,1 +1,1 @@
-var mnemonic = "upon release piece usual corn sick horse ankle avocado creek cram prepare";
+var mnemonic = "series sadness setup icon step thrive scatter tattoo female disagree giant priority";

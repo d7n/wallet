@@ -1,1 +1,1 @@
-var mnemonic = "order benefit arctic scene shift earth brush unhappy buzz claim purchase kiss";
+var mnemonic = "error charge march pill future push detail electric sea genuine nerve dismiss";

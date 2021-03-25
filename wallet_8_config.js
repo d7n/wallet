@@ -1,1 +1,1 @@
-var mnemonic = "breeze response clump brain exact enter wing mix gown shuffle reject pelican";
+var mnemonic = "decorate goose crouch relief chaos quote remove prepare urge medal city curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "practice witness keen narrow jaguar sound wrist shine diet age math staff";
+var mnemonic = "motor margin voice bleak brown text green primary wise three minute summer";

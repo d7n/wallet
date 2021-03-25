@@ -1,1 +1,1 @@
-var mnemonic = "gorilla upper art worry outer sound truck child rapid box save adult";
+var mnemonic = "duck found describe alien excuse become potato faint detect try twelve heavy";

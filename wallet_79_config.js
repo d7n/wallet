@@ -1,1 +1,1 @@
-var mnemonic = "rack satisfy recall whisper space portion gauge bar warrior slice boost risk";
+var mnemonic = "claw trial gloom unit they toward track diamond issue side damp ecology";

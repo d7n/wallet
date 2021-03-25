@@ -1,1 +1,1 @@
-var mnemonic = "knee common soul find moment prefer inform attract soup journey bamboo bicycle";
+var mnemonic = "cart bright lamp animal blood habit impact distance giraffe spend destroy display";

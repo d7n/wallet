@@ -1,1 +1,1 @@
-var mnemonic = "rely demand creek dice seed plate later debate february matter glimpse stamp";
+var mnemonic = "butter valid hollow suspect balance leopard trim live horse law palm shine";

@@ -1,1 +1,1 @@
-var mnemonic = "police napkin forward humble faith hat hazard roast antenna slogan say reform";
+var mnemonic = "palace option very theme trouble student truth provide kick daughter brave tissue";

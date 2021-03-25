@@ -1,1 +1,1 @@
-var mnemonic = "gun early door canvas wrist drama year record captain increase digital bright";
+var mnemonic = "little vapor betray void beach scale grow uncle creek short rice royal";

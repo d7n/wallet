@@ -1,1 +1,1 @@
-var mnemonic = "gravity guitar coach business distance review slush food make sell scissors enjoy";
+var mnemonic = "use travel boat swift unfair purity lamp law sense pulse tortoise ring";

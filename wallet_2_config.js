@@ -1,1 +1,1 @@
-var mnemonic = "vicious dirt west thumb potato among certain health off recycle luggage please";
+var mnemonic = "walk attack inherit coral dentist height pause topple leg interest club used";

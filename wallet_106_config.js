@@ -1,1 +1,1 @@
-var mnemonic = "box modify material second game drip magnet health hill plunge holiday can";
+var mnemonic = "man basket unique country swarm quit there excuse laptop flame tennis diamond";

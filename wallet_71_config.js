@@ -1,1 +1,1 @@
-var mnemonic = "stumble prosper feed surprise pact cram typical badge coin blossom lottery happy";
+var mnemonic = "sleep wine label argue blade captain bread output city glare gym debate";

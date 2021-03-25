@@ -1,1 +1,1 @@
-var mnemonic = "skin ring wedding predict guilt twelve smoke vessel legal hamster boil cake";
+var mnemonic = "velvet language maze talk lucky injury rose stool tide glide glory birth";

@@ -1,1 +1,1 @@
-var mnemonic = "setup fashion dwarf can olympic cloth force valid dress iron swamp layer";
+var mnemonic = "scare good goat kitten rifle boring island outdoor coin shoe nut front";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset piece syrup main remind nothing slot such spatial velvet garlic weird";
+var mnemonic = "spy sudden explain horror still world second swift payment sniff dose also";

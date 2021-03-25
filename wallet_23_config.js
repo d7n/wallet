@@ -1,1 +1,1 @@
-var mnemonic = "jaguar unusual circle stairs gift dynamic tragic stand crew clinic prevent bulb";
+var mnemonic = "letter cause champion adapt mechanic box employ wall virus rescue label volcano";

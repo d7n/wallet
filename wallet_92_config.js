@@ -1,1 +1,1 @@
-var mnemonic = "track napkin popular iron simple simple blush step zoo entire flush weapon";
+var mnemonic = "write sad label success manage feel much thought reveal crystal collect bulk";

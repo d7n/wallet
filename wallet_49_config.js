@@ -1,1 +1,1 @@
-var mnemonic = "truly junior color laptop buyer bullet fun enlist inflict fade decade volcano";
+var mnemonic = "loop scan prison shy math air denial plug panic baby film ranch";

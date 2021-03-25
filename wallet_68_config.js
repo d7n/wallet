@@ -1,1 +1,1 @@
-var mnemonic = "join leader void benefit soft bring lucky library inform clog inhale ankle";
+var mnemonic = "quarter orange moment smile dutch coach carry meadow path pair awkward duck";

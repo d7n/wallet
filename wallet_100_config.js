@@ -1,1 +1,1 @@
-var mnemonic = "pelican material derive appear piano police people position bicycle squirrel strong marble";
+var mnemonic = "scissors network task visit ancient winter example retire alarm exhibit ozone ridge";

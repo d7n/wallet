@@ -1,1 +1,1 @@
-var mnemonic = "mosquito boy letter excess rely tornado swift slender patch vacuum violin fun";
+var mnemonic = "join destroy speed ceiling loyal address garment design drink endless enlist fitness";

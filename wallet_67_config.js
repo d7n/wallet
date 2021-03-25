@@ -1,1 +1,1 @@
-var mnemonic = "crunch escape undo lottery pact early father leader outdoor magic bamboo crew";
+var mnemonic = "mansion rigid palm twenty fog lend lunch fluid aware please practice hunt";

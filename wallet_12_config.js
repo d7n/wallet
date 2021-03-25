@@ -1,1 +1,1 @@
-var mnemonic = "collect flee swing buffalo mobile benefit emotion tag harsh craft rule brief";
+var mnemonic = "glory guide metal fiscal margin teach release medal slush quit corn feel";

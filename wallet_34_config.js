@@ -1,1 +1,1 @@
-var mnemonic = "second bring negative arch raise dance okay pistol myself girl donkey focus";
+var mnemonic = "detail punch liberty idle blade pact rely language supply wrap crime bacon";

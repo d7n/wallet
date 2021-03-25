@@ -1,1 +1,1 @@
-var mnemonic = "gospel minimum this canvas chaos neck purity sting garage general tornado predict";
+var mnemonic = "club erupt thrive chest nation street initial mobile suggest good wagon portion";

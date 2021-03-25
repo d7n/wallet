@@ -1,1 +1,1 @@
-var mnemonic = "crane agent lab series fitness neither coin section fun become solve term";
+var mnemonic = "expect tiger jealous attack pigeon hybrid vendor lawsuit silk kangaroo patrol poet";

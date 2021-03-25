@@ -1,1 +1,1 @@
-var mnemonic = "flip night sudden belt soup chair marble unaware bike manual dawn march";
+var mnemonic = "exist topic trap bid there meat inherit call fragile blue glide dolphin";

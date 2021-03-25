@@ -1,1 +1,1 @@
-var mnemonic = "portion parent silly border view unfair enlist reveal mother behind suit army";
+var mnemonic = "federal memory bomb option nasty mixed neutral cabbage ritual flock web page";

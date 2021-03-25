@@ -1,1 +1,1 @@
-var mnemonic = "accuse layer crumble wonder peace medal squirrel cruel prepare inspire close rotate";
+var mnemonic = "daughter peace deny control door park art doctor diamond duck diet feel";

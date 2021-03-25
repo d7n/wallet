@@ -1,1 +1,1 @@
-var mnemonic = "label banana increase glove room artefact bamboo cash domain common bring upon";
+var mnemonic = "owner wood dash collect tissue saddle health sphere whip clown correct siege";

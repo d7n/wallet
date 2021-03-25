@@ -1,1 +1,1 @@
-var mnemonic = "industry north grace color original future sheriff ill silent chronic canal inner";
+var mnemonic = "bring music cry enjoy mask sand visit daring accident dutch harsh grain";

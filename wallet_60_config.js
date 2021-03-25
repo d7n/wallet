@@ -1,1 +1,1 @@
-var mnemonic = "pole today prize garage scare fine nuclear fortune stage inmate afraid force";
+var mnemonic = "pluck orient play dawn negative keen make wood mom question bike rubber";

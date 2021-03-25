@@ -1,1 +1,1 @@
-var mnemonic = "captain certain left spirit head south pizza earn pilot pear robust spy";
+var mnemonic = "scissors nest craft miss run neutral art wheat party venture suggest army";

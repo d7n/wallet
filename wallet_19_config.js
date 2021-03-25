@@ -1,1 +1,1 @@
-var mnemonic = "credit scout patient ice loud nurse today flat soldier since produce shaft";
+var mnemonic = "romance buyer midnight limit carry rule proud distance grocery camera harbor physical";

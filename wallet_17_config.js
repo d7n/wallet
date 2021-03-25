@@ -1,1 +1,1 @@
-var mnemonic = "rail tortoise lumber juice ill remain secret drink practice replace lock make";
+var mnemonic = "mystery kind neutral random shrug rely plug lounge depth retreat slam song";

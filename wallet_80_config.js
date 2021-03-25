@@ -1,1 +1,1 @@
-var mnemonic = "flavor dial kiwi capable artist toilet soda piece hill oval battle predict";
+var mnemonic = "negative zero panther sudden rigid sustain club canal hat clutch concert baby";

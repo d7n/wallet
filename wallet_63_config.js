@@ -1,1 +1,1 @@
-var mnemonic = "swarm supreme cream sad chair process crystal tiger cruise tonight mandate curve";
+var mnemonic = "tube predict clever mother anger rail hollow inform such diet drastic cable";

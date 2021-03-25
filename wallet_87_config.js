@@ -1,1 +1,1 @@
-var mnemonic = "armor decline remind frozen fetch oak major office work angle night tone";
+var mnemonic = "design donor alter student glance bomb panel pyramid before frozen park shrug";

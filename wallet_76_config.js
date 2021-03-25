@@ -1,1 +1,1 @@
-var mnemonic = "forum initial bird flee settle funny relax okay fan clip enhance tooth";
+var mnemonic = "warrior ribbon prison column vibrant square eight october woman sing bulk vast";

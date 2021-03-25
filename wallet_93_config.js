@@ -1,1 +1,1 @@
-var mnemonic = "theory fatigue damp happy favorite cinnamon smooth tent frozen when mirror total";
+var mnemonic = "outside perfect treat tool baby truck trash frame melody act plastic return";

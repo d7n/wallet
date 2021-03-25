@@ -1,1 +1,1 @@
-var mnemonic = "below leg oyster stadium exhaust bulk census planet crouch junk unable emerge";
+var mnemonic = "hub prepare history library piano romance review aspect east vote media bird";

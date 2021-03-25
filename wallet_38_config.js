@@ -1,1 +1,1 @@
-var mnemonic = "board author pulse plastic dumb leader raw cricket crystal pistol real dance";
+var mnemonic = "surge climb strong color hip assume october vehicle proof empower reason bachelor";

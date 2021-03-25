@@ -1,1 +1,1 @@
-var mnemonic = "tissue slice check flat mind eternal drum deposit suspect settle old image";
+var mnemonic = "confirm portion level fly venue enjoy drill mixture vague manage middle dream";

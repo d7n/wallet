@@ -1,1 +1,1 @@
-var mnemonic = "traffic miracle diesel sea chicken buffalo scene curious duck athlete cram explain";
+var mnemonic = "dust silver toward minimum another since drink lawsuit draft other myself connect";

@@ -1,1 +1,1 @@
-var mnemonic = "penalty vapor grain year pear reward make swear snap cousin strong provide";
+var mnemonic = "shoe nature proud horn delay ostrich whisper grab nurse glass pride ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "axis moment velvet false series step weasel concert burger trumpet canal gate";
+var mnemonic = "silent divide basket tray analyst add reduce enable priority such crane olive";
