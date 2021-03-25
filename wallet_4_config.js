@@ -1,1 +1,1 @@
-var mnemonic = "favorite swamp guess now oak roast earth install awesome slam habit rhythm";
+var mnemonic = "sponsor twelve filter abstract rabbit poet nominee mandate abandon novel exile ship";

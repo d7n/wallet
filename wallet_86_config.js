@@ -1,1 +1,1 @@
-var mnemonic = "spider pudding vacant skull bachelor brief year trick wrestle donate collect girl";
+var mnemonic = "mystery three page uphold crater advice kangaroo nurse cargo bone tent cause";

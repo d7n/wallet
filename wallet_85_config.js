@@ -1,1 +1,1 @@
-var mnemonic = "inflict retreat exhaust drink crack easy script defy blur corn moment collect";
+var mnemonic = "pizza bullet discover tourist broom spell prosper author spoil situate reward artefact";

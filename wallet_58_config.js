@@ -1,1 +1,1 @@
-var mnemonic = "other fringe arctic oyster curious online involve tray allow person update enough";
+var mnemonic = "fire short country offer prepare antenna age famous fluid praise offer theory";

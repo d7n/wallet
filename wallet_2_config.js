@@ -1,1 +1,1 @@
-var mnemonic = "lounge super olive earn occur author title injury limb puppy attend have";
+var mnemonic = "town endorse motor divert vendor copy myth credit install wood yard ripple";

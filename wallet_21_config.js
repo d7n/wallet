@@ -1,1 +1,1 @@
-var mnemonic = "royal weekend abstract level slice soup olympic real animal opera baby giraffe";
+var mnemonic = "patient try hole save shine song another trip reform box more electric";

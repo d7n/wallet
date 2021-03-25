@@ -1,1 +1,1 @@
-var mnemonic = "spice shy interest youth picnic knock post armor project love cube ankle";
+var mnemonic = "secret victory lottery okay vessel wedding begin burger mosquito cotton smile yard";

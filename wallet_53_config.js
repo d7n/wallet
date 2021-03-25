@@ -1,1 +1,1 @@
-var mnemonic = "neither write milk tooth powder home trick team consider unique erupt then";
+var mnemonic = "rack announce rocket tide steak category rug below game build satoshi theme";

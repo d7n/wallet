@@ -1,1 +1,1 @@
-var mnemonic = "muffin pulse gorilla evidence dinner warrior lonely armor put upset town slender";
+var mnemonic = "warm void fit peanut gate churn talk flight dinner wrap quit retire";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft make furnace bacon earth mule clog enroll jelly apple pottery cute";
+var mnemonic = "tower swing deer eye rigid include early inner drip exist can custom";

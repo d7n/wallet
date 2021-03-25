@@ -1,1 +1,1 @@
-var mnemonic = "view style split essence mistake select control legend style erode heavy law";
+var mnemonic = "biology slim knife creek bounce will brown size drama shoe member junk";

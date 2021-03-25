@@ -1,1 +1,1 @@
-var mnemonic = "soda fetch pistol online mix unit ritual title try assume prison nice";
+var mnemonic = "message gift awake child lemon endorse bamboo laptop response fade judge mixed";

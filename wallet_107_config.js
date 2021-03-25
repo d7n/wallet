@@ -1,1 +1,1 @@
-var mnemonic = "promote noble cash ribbon sport proud immense network other ladder blanket twice";
+var mnemonic = "betray people opinion gym laugh skate lawn vital give surge glare letter";

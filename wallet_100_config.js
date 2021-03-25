@@ -1,1 +1,1 @@
-var mnemonic = "capital claw galaxy hour grunt share seven snow finish inform divide under";
+var mnemonic = "ginger improve merit game reflect popular caution example outer license mask surprise";

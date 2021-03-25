@@ -1,1 +1,1 @@
-var mnemonic = "museum turn identify hobby theme group vehicle expect enact barrel swim bundle";
+var mnemonic = "manual walk dog topple ball leopard foam road dawn surge unaware social";

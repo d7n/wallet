@@ -1,1 +1,1 @@
-var mnemonic = "code mobile kick token situate peace dog sudden seat stage space elite";
+var mnemonic = "soft pool habit garden exchange furnace pet panic hint music claim vintage";

@@ -1,1 +1,1 @@
-var mnemonic = "glare effort flame trap maze chaos tape repeat tackle shell pyramid vast";
+var mnemonic = "squeeze shrug echo load brave quiz arch elbow scheme capable much online";

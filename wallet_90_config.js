@@ -1,1 +1,1 @@
-var mnemonic = "syrup gasp flee put video pistol vibrant subject board enlist life typical";
+var mnemonic = "sail use pattern ready brave message sport advance west cabbage tail spot";

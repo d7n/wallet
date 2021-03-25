@@ -1,1 +1,1 @@
-var mnemonic = "catalog wrap sustain jazz render tail february erosion brown thumb chunk tool";
+var mnemonic = "belt cross juice another essence snake legend session sphere favorite viable planet";

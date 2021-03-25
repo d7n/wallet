@@ -1,1 +1,1 @@
-var mnemonic = "mammal correct copy ahead castle adjust trend neck shock habit pottery clock";
+var mnemonic = "rude want squeeze pottery unique divide inmate flag brown useful potato vote";

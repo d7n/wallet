@@ -1,1 +1,1 @@
-var mnemonic = "hospital clutch region impose claim puzzle above riot lake expose betray mix";
+var mnemonic = "bubble present exchange garlic medal hotel spice punch explain swift indoor because";

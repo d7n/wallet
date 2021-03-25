@@ -1,1 +1,1 @@
-var mnemonic = "congress title cute tomato fox draw artist stamp afraid beauty shy carry";
+var mnemonic = "maid armed sustain catch body disease very route success erode wine rate";

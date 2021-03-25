@@ -1,1 +1,1 @@
-var mnemonic = "lock snow write extend critic drive over december company fringe cousin eternal";
+var mnemonic = "police urban endorse bracket open useful runway bundle cargo media mobile success";

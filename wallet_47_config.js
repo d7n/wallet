@@ -1,1 +1,1 @@
-var mnemonic = "slam useful first update unaware length want measure before science organ sting";
+var mnemonic = "solid select giraffe voice keen tuna usual situate open consider certain velvet";

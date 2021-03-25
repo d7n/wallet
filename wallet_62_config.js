@@ -1,1 +1,1 @@
-var mnemonic = "train bracket consider acoustic bronze off iron cancel bean foot kid damage";
+var mnemonic = "proof flight panda call wisdom sugar female dash keen youth blanket expire";

@@ -1,1 +1,1 @@
-var mnemonic = "clap tool renew stumble judge ill enlist move math awkward cement pole";
+var mnemonic = "damp laptop vague road car tennis trade clock sudden exist dash energy";

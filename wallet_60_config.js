@@ -1,1 +1,1 @@
-var mnemonic = "identify rib treat cat garbage predict denial icon video right clock toward";
+var mnemonic = "bomb phrase owner come hammer faculty robot client tenant indicate anxiety key";

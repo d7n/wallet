@@ -1,1 +1,1 @@
-var mnemonic = "salmon slot lion neck hundred crop page must despair survey gravity smooth";
+var mnemonic = "hedgehog gate common coin silent armor pond praise weekend receive sing jungle";

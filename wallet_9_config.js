@@ -1,1 +1,1 @@
-var mnemonic = "priority muffin nation desk common strategy drill mushroom mercy miracle tail lamp";
+var mnemonic = "pony loan rent apology reflect child extra sheriff number found tattoo summer";

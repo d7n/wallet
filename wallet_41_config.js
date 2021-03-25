@@ -1,1 +1,1 @@
-var mnemonic = "energy ecology evidence scout engine leg sample test misery jealous practice select";
+var mnemonic = "embrace fan mixed energy foster genuine soda wasp satoshi harbor original casual";

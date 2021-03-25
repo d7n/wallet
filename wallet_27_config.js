@@ -1,1 +1,1 @@
-var mnemonic = "jealous vague champion deer grape brief uniform kidney wealth turn wide rain";
+var mnemonic = "dentist click follow today airport coin woman dust frequent helmet aisle fresh";

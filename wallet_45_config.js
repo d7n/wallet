@@ -1,1 +1,1 @@
-var mnemonic = "clutch twice sadness panther grass universe try weekend tiny clap feature feel";
+var mnemonic = "cloud upgrade load random attitude barely desert margin cube uncover sheriff test";

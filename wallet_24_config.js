@@ -1,1 +1,1 @@
-var mnemonic = "swap inflict unit ask daring ripple vault below urban grid blame inhale";
+var mnemonic = "over stage fashion toe bridge globe panel jazz moon token useful calm";

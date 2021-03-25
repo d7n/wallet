@@ -1,1 +1,1 @@
-var mnemonic = "silly short world output promote mule just violin hurry trap strike help";
+var mnemonic = "jelly vacant luxury spray hamster output civil design scatter verb federal sniff";

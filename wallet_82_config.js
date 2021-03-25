@@ -1,1 +1,1 @@
-var mnemonic = "poem divert spoon uniform rose father trumpet hybrid eight pudding jelly lens";
+var mnemonic = "melt provide culture hamster acquire typical wrestle service fire cram swarm length";

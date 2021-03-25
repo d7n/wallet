@@ -1,1 +1,1 @@
-var mnemonic = "prepare chase roof bright harbor rich police guard uncle elder message pause";
+var mnemonic = "announce custom slender bird sadness cigar tattoo blush trust hover hour strategy";

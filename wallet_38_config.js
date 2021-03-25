@@ -1,1 +1,1 @@
-var mnemonic = "proof gift wife tower double search adjust orphan among sweet engine load";
+var mnemonic = "need mosquito when tree allow cry fresh eye undo attack know silk";

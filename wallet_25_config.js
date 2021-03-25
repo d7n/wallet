@@ -1,1 +1,1 @@
-var mnemonic = "normal gorilla route key pulp other style blanket unfold spawn brief lecture";
+var mnemonic = "screen tiger garage slam cat joke oval employ girl voyage file pig";

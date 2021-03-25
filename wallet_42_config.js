@@ -1,1 +1,1 @@
-var mnemonic = "street anchor until strong strong surprise kitchen ill tornado lizard acquire pelican";
+var mnemonic = "coral rich twice coffee popular crack educate able foot pyramid stairs liar";

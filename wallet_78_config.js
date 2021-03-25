@@ -1,1 +1,1 @@
-var mnemonic = "session tissue true glimpse urge caution female only drive wash exile puzzle";
+var mnemonic = "crowd divide ignore asthma twin leader awful forward inject crawl version tape";

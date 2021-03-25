@@ -1,1 +1,1 @@
-var mnemonic = "cost model creek because bus pumpkin trend toward scheme present frequent gate";
+var mnemonic = "inspire receive case soccer sand review nuclear hundred style steak debate also";

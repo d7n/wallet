@@ -1,1 +1,1 @@
-var mnemonic = "first sing brand student elephant early option marine public visual giraffe chuckle";
+var mnemonic = "real day cart multiply minute copper exhibit napkin clever scissors amount vessel";

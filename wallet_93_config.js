@@ -1,1 +1,1 @@
-var mnemonic = "pulse moment click pass gasp private horn poverty sign grant hospital divert";
+var mnemonic = "name roast toward gossip science cheese steak staff clever harsh once box";

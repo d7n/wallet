@@ -1,1 +1,1 @@
-var mnemonic = "creek cry vault shadow island later plastic scale fee door initial humor";
+var mnemonic = "endless dumb hammer chimney sister slender opera future often fall add response";

@@ -1,1 +1,1 @@
-var mnemonic = "drip near picture dice toe note frozen dust remind yard celery night";
+var mnemonic = "distance above update raven quiz fog predict off cinnamon spot border peace";

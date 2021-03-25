@@ -1,1 +1,1 @@
-var mnemonic = "legal tomorrow inside object duty habit radio naive shock few must suit";
+var mnemonic = "produce wear chronic local never throw census flock wrap sword flavor economy";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude wrap offer nerve flip icon rib rifle world inspire argue slam";
+var mnemonic = "essence happy purpose gravity border prepare decline slim wealth identify salute click";

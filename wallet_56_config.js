@@ -1,1 +1,1 @@
-var mnemonic = "isolate close turtle another maple select allow noble assist can inspire hour";
+var mnemonic = "ladder moment suffer oak exact addict discover boil loop mass olympic give";

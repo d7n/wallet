@@ -1,1 +1,1 @@
-var mnemonic = "primary middle rabbit adjust photo tackle napkin relief cross bomb liberty belt";
+var mnemonic = "forget cup powder old become village nice job tobacco lion plastic phrase";

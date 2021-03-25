@@ -1,1 +1,1 @@
-var mnemonic = "time merit above such erode member hockey play gesture sock flavor repeat";
+var mnemonic = "plug term alter analyst atom coyote job neither jewel matter road thing";

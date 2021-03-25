@@ -1,1 +1,1 @@
-var mnemonic = "merry shield depth produce error bulk embody salmon barely lunar theory grace";
+var mnemonic = "keen project school inspire affair soup dream bulk wall venture chase immune";

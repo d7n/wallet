@@ -1,1 +1,1 @@
-var mnemonic = "tube play suspect lucky item clinic panda gadget quarter hand clap similar";
+var mnemonic = "donor problem drive uncle dune identify pumpkin potato dumb cook destroy small";

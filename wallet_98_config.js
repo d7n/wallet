@@ -1,1 +1,1 @@
-var mnemonic = "weapon derive picnic post vault divide blame online knock side garment awkward";
+var mnemonic = "guide timber castle mad team someone food also truly party kick hawk";

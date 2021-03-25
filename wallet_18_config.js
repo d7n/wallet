@@ -1,1 +1,1 @@
-var mnemonic = "patch display cave neglect indicate country type hundred zero safe detail alien";
+var mnemonic = "index orbit blush right spider face copy reason decide govern fatal minimum";

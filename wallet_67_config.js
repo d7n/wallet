@@ -1,1 +1,1 @@
-var mnemonic = "naive october either split protect pear master helmet horn zoo demise mass";
+var mnemonic = "era outside awful kingdom trend oyster power coconut latin exhibit pudding vivid";

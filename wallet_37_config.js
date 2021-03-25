@@ -1,1 +1,1 @@
-var mnemonic = "sauce yellow afford weather mirror debate safe industry twin half drive food";
+var mnemonic = "dynamic fold source cave demise certain visual pledge improve near never bachelor";

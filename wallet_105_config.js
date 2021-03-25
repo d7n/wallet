@@ -1,1 +1,1 @@
-var mnemonic = "sausage shrug author grant ship public conduct survey boss mandate fog salute";
+var mnemonic = "lottery mixture meadow innocent youth paper dolphin merit chalk since reopen pause";

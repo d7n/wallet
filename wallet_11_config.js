@@ -1,1 +1,1 @@
-var mnemonic = "sustain pilot chimney utility soon afraid flag knee romance erase language winner";
+var mnemonic = "memory sand enter eager enemy loan kind noodle attend hedgehog agent town";

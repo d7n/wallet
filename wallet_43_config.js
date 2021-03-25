@@ -1,1 +1,1 @@
-var mnemonic = "february repair napkin noble tooth elite punch twist twin detect payment detect";
+var mnemonic = "destroy health ignore symbol stock opinion machine modify stereo rescue erase spice";

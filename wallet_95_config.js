@@ -1,1 +1,1 @@
-var mnemonic = "toilet betray pretty merge finger time autumn primary error piece hunt heavy";
+var mnemonic = "inside enough purity tuna muffin student click radar mother visit legal border";

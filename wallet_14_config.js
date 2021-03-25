@@ -1,1 +1,1 @@
-var mnemonic = "caution load thing rebuild salon pattern seek salmon kidney picnic move laundry";
+var mnemonic = "grief blouse half vendor gaze child sauce scheme lake supply video develop";

@@ -1,1 +1,1 @@
-var mnemonic = "salute nasty yellow employ bitter tape stamp uphold three clip worry night";
+var mnemonic = "era help admit cup subway enlist vital razor ranch spend car nice";

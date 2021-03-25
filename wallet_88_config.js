@@ -1,1 +1,1 @@
-var mnemonic = "brick fall flame agent crouch favorite method clean mandate decline destroy earn";
+var mnemonic = "pass dynamic begin parrot mercy another wink grab whale orange original cage";

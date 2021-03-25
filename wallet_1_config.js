@@ -1,1 +1,1 @@
-var mnemonic = "wait antenna high local alpha hope open load torch cabin gate success";
+var mnemonic = "talk empower jump kidney address into regular credit force enter either eye";

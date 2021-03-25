@@ -1,1 +1,1 @@
-var mnemonic = "social defy order caution multiply practice abuse door spoon feed cycle about";
+var mnemonic = "speed vibrant orphan drum judge reunion adapt black sudden cake master upper";

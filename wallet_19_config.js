@@ -1,1 +1,1 @@
-var mnemonic = "turtle smart social rare dynamic pizza satisfy ready crush media zone multiply";
+var mnemonic = "light surge come enough above once where runway harbor unfold chest miss";

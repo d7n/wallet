@@ -1,1 +1,1 @@
-var mnemonic = "trade blossom pilot potato faint appear jacket join unable thing elbow couple";
+var mnemonic = "style wink pudding leopard home pair image movie spirit brave slush brief";

@@ -1,1 +1,1 @@
-var mnemonic = "image daring rabbit open wool mistake any panda almost odor ready clap";
+var mnemonic = "swamp effort dolphin trigger civil maximum unknown electric divide estate raise tomato";

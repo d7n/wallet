@@ -1,1 +1,1 @@
-var mnemonic = "flee disagree clap acoustic manual goose lawsuit renew universe risk taxi fence";
+var mnemonic = "during dust elevator curve isolate check flock adapt window above alien identify";

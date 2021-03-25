@@ -1,1 +1,1 @@
-var mnemonic = "awesome stay service cable actress armor orchard document habit kiss trip number";
+var mnemonic = "basic route judge fee feature gap clog school topic forget harsh enforce";

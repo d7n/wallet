@@ -1,1 +1,1 @@
-var mnemonic = "scrub uncle garment spoil celery shrug album timber bench vault salmon assist";
+var mnemonic = "total vacant belt away during crystal heavy solar message person holiday rigid";

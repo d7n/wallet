@@ -1,1 +1,1 @@
-var mnemonic = "autumn canvas filter smile cotton profit almost liquid impulse spice cycle seven";
+var mnemonic = "wall cute major exhaust detect domain loan twenty bonus husband sudden island";

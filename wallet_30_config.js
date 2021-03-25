@@ -1,1 +1,1 @@
-var mnemonic = "door giggle cattle taxi seek tennis attend tooth hello spell ladder girl";
+var mnemonic = "hawk explain opinion fury transfer improve blur endorse soup history garment east";

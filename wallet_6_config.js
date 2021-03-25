@@ -1,1 +1,1 @@
-var mnemonic = "alcohol spirit noble best sing wreck observe detect paddle length skate ritual";
+var mnemonic = "have travel fever latin quote brother earth report forest stumble bulb squirrel";

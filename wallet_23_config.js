@@ -1,1 +1,1 @@
-var mnemonic = "biology fury possible depth drama summer age vessel motion thrive core garlic";
+var mnemonic = "cushion panic hedgehog rabbit enrich include swamp prize comfort open sell spatial";

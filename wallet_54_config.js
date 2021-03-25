@@ -1,1 +1,1 @@
-var mnemonic = "make combine girl rent spell flavor rich shell quick annual soft glove";
+var mnemonic = "budget knee bleak thunder seed solar worry cliff lobster because viable arrest";

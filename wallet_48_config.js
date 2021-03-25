@@ -1,1 +1,1 @@
-var mnemonic = "help pink logic spatial casino wrist boring faint paper beyond easily luxury";
+var mnemonic = "service ugly equip defense sentence label reopen squeeze neck zebra actual lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "joy garden decade remain alien crime inhale brisk soldier adjust deposit prize";
+var mnemonic = "coconut bridge salmon maximum lamp unlock later enrich limit month weird soldier";

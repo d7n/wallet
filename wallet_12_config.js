@@ -1,1 +1,1 @@
-var mnemonic = "wealth metal ketchup poverty virus sock library daring rookie often segment opinion";
+var mnemonic = "volcano normal forget tumble cheap caution trick present cabin require hold humble";

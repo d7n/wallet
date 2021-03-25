@@ -1,1 +1,1 @@
-var mnemonic = "wing blur stem mutual file dream hockey long visit urge favorite acoustic";
+var mnemonic = "weekend salon half track nature problem fabric silent rescue cradle ethics media";

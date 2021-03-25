@@ -1,1 +1,1 @@
-var mnemonic = "chicken drum castle video purpose topple infant elite metal ladder fun position";
+var mnemonic = "outdoor suggest again army advice tone shock glad submit enemy rescue dolphin";

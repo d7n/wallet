@@ -1,1 +1,1 @@
-var mnemonic = "bench sea famous wage lab source clutch shove tail skull whip dizzy";
+var mnemonic = "panda critic piece frog bus horse phone damp text sock sugar link";

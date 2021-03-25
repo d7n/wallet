@@ -1,1 +1,1 @@
-var mnemonic = "scrap label income ticket sausage drip morning crouch pen deposit onion rail";
+var mnemonic = "theory excess salt skin pizza liar crisp voice yellow demand hip more";

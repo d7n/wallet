@@ -1,1 +1,1 @@
-var mnemonic = "clarify trick turn manual orient convince winter machine seed lemon stomach donkey";
+var mnemonic = "scale frozen collect border push place icon cute phrase onion slogan figure";

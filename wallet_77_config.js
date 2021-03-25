@@ -1,1 +1,1 @@
-var mnemonic = "fabric sock limit used diagram radar rule security perfect program ill ice";
+var mnemonic = "credit attack tip sister primary fossil frame ketchup produce quantum stereo method";

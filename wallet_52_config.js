@@ -1,1 +1,1 @@
-var mnemonic = "drip trial aerobic remind clarify friend pyramid that tube olive diamond dish";
+var mnemonic = "crack actress uphold aim depart rubber filter dynamic absurd achieve cheap surge";

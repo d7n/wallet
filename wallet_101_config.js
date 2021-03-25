@@ -1,1 +1,1 @@
-var mnemonic = "glimpse script pigeon bamboo review crumble army distance satoshi pool wood impulse";
+var mnemonic = "apart stairs mean short speed order chaos act knock crime unusual exotic";

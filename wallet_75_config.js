@@ -1,1 +1,1 @@
-var mnemonic = "attitude wide suspect vivid gasp cat avocado narrow pipe ethics neglect fatigue";
+var mnemonic = "poem chef trend matrix need grid dad pink symptom property monitor sudden";

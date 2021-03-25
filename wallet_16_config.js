@@ -1,1 +1,1 @@
-var mnemonic = "alarm hip token axis under rule salon adult february panel country social";
+var mnemonic = "cloud category myth symptom vibrant clap top clerk battle genius exit feel";

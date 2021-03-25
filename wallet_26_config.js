@@ -1,1 +1,1 @@
-var mnemonic = "excess sustain into great emotion february click merry elephant baby echo keep";
+var mnemonic = "grass popular soldier cradle inherit cross ripple thank orchard noise process teach";

@@ -1,1 +1,1 @@
-var mnemonic = "intact require youth yellow rather supreme glass salute bench legend good picture";
+var mnemonic = "lunar trade hill hour usage figure inquiry loud never move pyramid board";

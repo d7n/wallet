@@ -1,1 +1,1 @@
-var mnemonic = "bread wedding play voyage grape asthma retire shine quote rebuild oblige cushion";
+var mnemonic = "offer slice fluid cart tail museum robust rate waste twist box easy";

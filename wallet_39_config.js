@@ -1,1 +1,1 @@
-var mnemonic = "attend win erupt auto machine side today maze garden final tide food";
+var mnemonic = "monitor half film seed clean air angle affair forward alley raise glue";
