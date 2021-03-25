@@ -1,1 +1,1 @@
-var mnemonic = "husband dismiss mention slot boost forward walnut garage enough actress summer control";
+var mnemonic = "animal brown fix service autumn enable spell finish alley vicious buffalo reflect";

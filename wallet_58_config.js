@@ -1,1 +1,1 @@
-var mnemonic = "response thing coyote sentence item make armor online museum high orange series";
+var mnemonic = "blue turtle tide dirt ramp negative double lock wine derive mean grant";

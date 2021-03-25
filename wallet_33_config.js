@@ -1,1 +1,1 @@
-var mnemonic = "gospel habit dilemma stable stool tuition equip tank theory during fun tunnel";
+var mnemonic = "give street finger minimum marriage lemon reduce smart pair loyal oyster chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow cart country virus solve into copy govern load legal cargo toy";
+var mnemonic = "crouch language honey risk ghost junior squeeze poet ancient shiver super illness";

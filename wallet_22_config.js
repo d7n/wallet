@@ -1,1 +1,1 @@
-var mnemonic = "text banner subject guilt broccoli slight symptom devote prefer noise pledge admit";
+var mnemonic = "garment antenna devote sponsor immune art bike goat spatial vibrant advice ride";

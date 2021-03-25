@@ -1,1 +1,1 @@
-var mnemonic = "shield strong recall ask paddle system time chicken company mosquito sudden view";
+var mnemonic = "country sentence gift wonder inflict people master inherit permit aim tell kid";

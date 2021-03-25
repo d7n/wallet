@@ -1,1 +1,1 @@
-var mnemonic = "sock abuse transfer eternal saddle dog clock faint strategy dismiss outer sentence";
+var mnemonic = "boost ripple total teach finger census sell record iron similar program bring";

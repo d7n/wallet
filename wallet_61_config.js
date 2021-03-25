@@ -1,1 +1,1 @@
-var mnemonic = "spoil question napkin move repair tongue pact robust artwork decrease defy merit";
+var mnemonic = "outdoor also reduce execute baby chicken write sand close ketchup disease long";

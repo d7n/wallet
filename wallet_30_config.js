@@ -1,1 +1,1 @@
-var mnemonic = "march truth group early brisk interest nest friend little ski claim elegant";
+var mnemonic = "awkward minute element goddess lawn goddess mountain garlic egg upper toe arctic";

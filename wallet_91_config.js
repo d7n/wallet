@@ -1,1 +1,1 @@
-var mnemonic = "burst system cave walk weird opera mass exact survey vast smoke pink";
+var mnemonic = "surge father give road chimney help trend fix whisper hawk only matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "observe dose soft dwarf attract scare blur pilot pyramid advice mammal coral";
+var mnemonic = "useful claim good review cattle mammal very access face seek drama solve";

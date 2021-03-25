@@ -1,1 +1,1 @@
-var mnemonic = "casual say tissue gate equip crowd crumble scout purchase end priority stem";
+var mnemonic = "fever sight slide twenty cluster isolate drum fuel believe decrease unfair sad";

@@ -1,1 +1,1 @@
-var mnemonic = "draw humble crazy core target lava model robot link dog kid almost";
+var mnemonic = "health feed mechanic primary tobacco magic cloth city else poem random skirt";

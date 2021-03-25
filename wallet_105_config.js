@@ -1,1 +1,1 @@
-var mnemonic = "runway term best original moon antique drink real traffic clutch giggle couple";
+var mnemonic = "indoor broccoli click predict repeat satisfy bridge trust couch bright green cycle";

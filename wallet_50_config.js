@@ -1,1 +1,1 @@
-var mnemonic = "vacuum move sock limb mad seat web soldier produce end royal drill";
+var mnemonic = "sound delay prize habit setup valley dish airport harbor van permit arrive";

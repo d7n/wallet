@@ -1,1 +1,1 @@
-var mnemonic = "sand dilemma creek satisfy food history urge eyebrow make toilet innocent era";
+var mnemonic = "shadow success play hybrid depth slender sibling hole nothing ranch pencil cram";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer lyrics guilt high lab awake survey carpet asthma lawsuit embark axis";
+var mnemonic = "strong hobby drama admit goddess convince nut shoe winner merry welcome region";

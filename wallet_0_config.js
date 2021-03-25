@@ -1,1 +1,1 @@
-var mnemonic = "vault acoustic million term virtual vessel tired advance arm prize derive fringe";
+var mnemonic = "gadget girl pet suit taste clip unlock tennis pupil once inner nephew";

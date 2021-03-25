@@ -1,1 +1,1 @@
-var mnemonic = "deliver law renew woman find soul weapon drastic artefact athlete cushion inside";
+var mnemonic = "drift stage raccoon slush scale usage copy battle turn trial loyal usage";

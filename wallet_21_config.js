@@ -1,1 +1,1 @@
-var mnemonic = "meadow galaxy brave nurse refuse donate chronic whale borrow extend message vendor";
+var mnemonic = "sand worry enrich vault connect pill ready walnut ginger bubble lock lizard";

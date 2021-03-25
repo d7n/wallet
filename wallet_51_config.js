@@ -1,1 +1,1 @@
-var mnemonic = "ski symbol panel pistol search tooth transfer sense rack carpet orient lemon";
+var mnemonic = "unfair strong embrace high payment car upset era common wise copy object";

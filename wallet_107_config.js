@@ -1,1 +1,1 @@
-var mnemonic = "slender wing topic talk iron early multiply ginger borrow pilot crowd axis";
+var mnemonic = "fold trigger defense old what name amount ring nothing social runway put";

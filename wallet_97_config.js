@@ -1,1 +1,1 @@
-var mnemonic = "seat put banana trick legend exile fee frame shiver sing very train";
+var mnemonic = "settle bomb neglect vibrant bike donate aunt traffic diesel double add option";

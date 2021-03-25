@@ -1,1 +1,1 @@
-var mnemonic = "total rug mutual romance other century letter elegant decrease illegal label toward";
+var mnemonic = "riot tube always baby famous cotton actress traffic ahead twice weather dust";

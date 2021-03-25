@@ -1,1 +1,1 @@
-var mnemonic = "actress scene cannon mango chronic check orchard panda obey cross heart tree";
+var mnemonic = "inherit march final smooth shift noodle air ride whip distance zero satisfy";

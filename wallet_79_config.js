@@ -1,1 +1,1 @@
-var mnemonic = "hour voice vocal various awake shrug nuclear film organ host lawn proud";
+var mnemonic = "apart trim salad case blast general feature number hidden slogan labor shrimp";

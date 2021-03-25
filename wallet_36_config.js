@@ -1,1 +1,1 @@
-var mnemonic = "faint select shrug boost thrive brush unable begin castle squeeze lamp wrong";
+var mnemonic = "spin midnight nature spy violin luggage motion weather old wall emotion leisure";

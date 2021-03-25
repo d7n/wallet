@@ -1,1 +1,1 @@
-var mnemonic = "left okay shiver behind beach spend legend random list dignity sadness yellow";
+var mnemonic = "level audit label father plunge famous twice own oblige fitness fringe spread";

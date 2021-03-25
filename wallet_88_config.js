@@ -1,1 +1,1 @@
-var mnemonic = "build stable sound zebra rate mix wide devote saddle term cash rather";
+var mnemonic = "local true escape salon equip oven deposit deliver pole board mango lobster";

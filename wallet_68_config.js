@@ -1,1 +1,1 @@
-var mnemonic = "memory faith critic deny cradle slender flee zebra parade fix excuse skill";
+var mnemonic = "omit brother monitor team myth prefer october wasp amused elder also axis";

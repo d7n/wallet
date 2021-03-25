@@ -1,1 +1,1 @@
-var mnemonic = "other fatal erupt grape robust tail equip process coin ice drift ugly";
+var mnemonic = "tomato detect tag disorder kiwi mind claim scissors between payment super swift";

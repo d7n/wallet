@@ -1,1 +1,1 @@
-var mnemonic = "garlic thing depth earn walnut carpet muffin bulk like donate carbon smoke";
+var mnemonic = "word silk number antique fan domain tank soft mask work swallow truck";

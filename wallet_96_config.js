@@ -1,1 +1,1 @@
-var mnemonic = "rookie alert market regular top basic scare physical job exile fancy hire";
+var mnemonic = "twelve bicycle social govern normal flag clown panda elegant square use mistake";

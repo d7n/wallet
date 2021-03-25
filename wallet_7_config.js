@@ -1,1 +1,1 @@
-var mnemonic = "path witness hungry avocado network pipe sphere inherit suffer predict stable cream";
+var mnemonic = "april correct canoe tissue flat blast proud corn cricket funny strategy egg";

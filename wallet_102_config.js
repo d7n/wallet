@@ -1,1 +1,1 @@
-var mnemonic = "govern genre clinic light write silk way title hockey buyer snake phone";
+var mnemonic = "undo anchor above joke lend cram burden morning next host mirror sunny";

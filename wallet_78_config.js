@@ -1,1 +1,1 @@
-var mnemonic = "toward advance art friend wealth head pioneer change grid razor aerobic wise";
+var mnemonic = "grit monkey identify scene grocery category soft pool cheap scorpion onion shoot";

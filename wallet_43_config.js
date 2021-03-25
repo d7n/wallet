@@ -1,1 +1,1 @@
-var mnemonic = "jewel stage cereal exile lyrics faculty target vacuum rate excess fuel eager";
+var mnemonic = "record dress senior food salon busy fence client plate drop often baby";

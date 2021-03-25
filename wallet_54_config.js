@@ -1,1 +1,1 @@
-var mnemonic = "scheme hard damp victory require step split grit wedding cherry venture life";
+var mnemonic = "laundry fruit depth bunker flash weather clarify hill surge wear december ostrich";

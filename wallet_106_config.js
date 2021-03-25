@@ -1,1 +1,1 @@
-var mnemonic = "notable elegant eager giggle bachelor obscure gap anxiety chuckle provide enter stable";
+var mnemonic = "then bind outside trophy taxi urban skate rubber wood load sport main";

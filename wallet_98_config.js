@@ -1,1 +1,1 @@
-var mnemonic = "antique supply luggage armor income have thumb tent melody valley already canvas";
+var mnemonic = "van lift mechanic mind you brush drip add believe pink talk differ";

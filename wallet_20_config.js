@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow kitten wheel finish uniform better slogan ritual water club wagon enable";
+var mnemonic = "jungle item east amount prepare spell into unique mistake unable fame smoke";

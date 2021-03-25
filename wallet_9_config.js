@@ -1,1 +1,1 @@
-var mnemonic = "ready razor aunt best cheap seven topic cradle purse travel helmet flavor";
+var mnemonic = "caught usual keep brief box spice lyrics mobile cause nose cave globe";

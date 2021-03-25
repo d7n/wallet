@@ -1,1 +1,1 @@
-var mnemonic = "chunk analyst slab trust dumb joy fashion buddy desk ticket wheel weapon";
+var mnemonic = "cute license weapon fog enter clutch gossip upset aerobic ritual cushion avoid";

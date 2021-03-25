@@ -1,1 +1,1 @@
-var mnemonic = "couple torch teach mistake consider virus garden advice matrix asthma swamp stable";
+var mnemonic = "mom melt design flock grow question brush direct million mobile remember spice";

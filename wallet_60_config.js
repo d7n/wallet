@@ -1,1 +1,1 @@
-var mnemonic = "float off lamp parade random punch pause fantasy mutual federal tiny undo";
+var mnemonic = "follow volcano umbrella cute mass lawn skin exist poverty clay split bacon";

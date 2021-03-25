@@ -1,1 +1,1 @@
-var mnemonic = "shaft month mad blade lazy satoshi depend nuclear club floor rubber shaft";
+var mnemonic = "cabin fortune about kiwi people nation nut number tide trick erosion spoil";

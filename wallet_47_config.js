@@ -1,1 +1,1 @@
-var mnemonic = "poem spring cheap link lend hen garden clinic analyst mention hospital castle";
+var mnemonic = "silly add claw deny guilt exotic wait sock place decorate slice add";

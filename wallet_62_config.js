@@ -1,1 +1,1 @@
-var mnemonic = "share jaguar question stereo phone army electric december subject arrest agent skin";
+var mnemonic = "spot loud silent manual always eager diary frozen canal country crucial nature";

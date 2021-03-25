@@ -1,1 +1,1 @@
-var mnemonic = "fluid erosion payment cricket book stool chimney bounce pelican shoulder aunt require";
+var mnemonic = "lumber slogan toe cake wonder town front demand ketchup tiny entry lumber";

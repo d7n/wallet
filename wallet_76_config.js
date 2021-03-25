@@ -1,1 +1,1 @@
-var mnemonic = "nerve secret victory trash snack guide pretty gate wolf salon often paper";
+var mnemonic = "bunker later picture tourist hurry dash edit arm pen stay slogan wheat";

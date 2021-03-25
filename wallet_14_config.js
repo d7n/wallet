@@ -1,1 +1,1 @@
-var mnemonic = "real another gun average tuna diamond syrup text mix erase fantasy night";
+var mnemonic = "copper roast sea thrive journey occur enroll olympic advance want pencil viable";

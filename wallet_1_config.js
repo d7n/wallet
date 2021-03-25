@@ -1,1 +1,1 @@
-var mnemonic = "inject trial pride zebra butter slow open tissue ethics upon firm summer";
+var mnemonic = "tornado athlete fluid clever joy renew tattoo gorilla cause merit blanket muscle";

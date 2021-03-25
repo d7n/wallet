@@ -1,1 +1,1 @@
-var mnemonic = "panda normal tiny recipe circle such please impose airport turtle oyster extra";
+var mnemonic = "stone wheel click dish hint act chief pumpkin smoke write off bottom";

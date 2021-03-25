@@ -1,1 +1,1 @@
-var mnemonic = "velvet dismiss one rough merge camp grape scissors select wheel lounge recipe";
+var mnemonic = "bind pet trend stamp success move sunny puzzle crouch donor super depart";

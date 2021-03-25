@@ -1,1 +1,1 @@
-var mnemonic = "admit letter lunch ribbon sound race scissors brass horse improve rude young";
+var mnemonic = "victory patch page cricket light frequent gap today waste spin unaware vote";

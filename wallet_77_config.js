@@ -1,1 +1,1 @@
-var mnemonic = "denial angle buzz orient marble culture material nut park banner birth popular";
+var mnemonic = "club primary orient special metal jump pill size mixed away ranch repair";

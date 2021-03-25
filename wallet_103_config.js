@@ -1,1 +1,1 @@
-var mnemonic = "pause rail cricket business error split yard shrimp spray camp ethics cave";
+var mnemonic = "box holiday field universe elite produce plastic attract skin birth giggle eagle";

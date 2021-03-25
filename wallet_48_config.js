@@ -1,1 +1,1 @@
-var mnemonic = "hill cousin street share segment execute wolf they range arrest tourist rose";
+var mnemonic = "section drastic misery one uncle unfold term august embark spin clown enforce";

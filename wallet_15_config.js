@@ -1,1 +1,1 @@
-var mnemonic = "top cable crawl bag bracket sun reduce gift bright celery inspire magnet";
+var mnemonic = "calm jump reduce dust capable fine cable envelope lady brain observe faint";

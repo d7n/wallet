@@ -1,1 +1,1 @@
-var mnemonic = "pig snake goose push double ostrich topple session daughter swallow apple praise";
+var mnemonic = "collect museum velvet ecology oil manual once task reopen jump roast broccoli";

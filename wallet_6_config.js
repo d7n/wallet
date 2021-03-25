@@ -1,1 +1,1 @@
-var mnemonic = "level merit surface blanket pencil tomorrow congress reason champion rubber bonus play";
+var mnemonic = "asthma hundred eyebrow ripple flower hurdle series spirit wash town voyage middle";

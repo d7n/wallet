@@ -1,1 +1,1 @@
-var mnemonic = "pass hungry wrong easily toe old involve bless lady burger rigid copper";
+var mnemonic = "owner short satisfy puppy whip marine volcano desert climb nature faculty hundred";

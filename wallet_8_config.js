@@ -1,1 +1,1 @@
-var mnemonic = "snack vote disorder gate wash humble round liar clerk common milk sail";
+var mnemonic = "physical return result relief nominee dutch cancel essay bubble oyster argue panda";

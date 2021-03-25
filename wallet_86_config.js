@@ -1,1 +1,1 @@
-var mnemonic = "cube buddy cook caution gym asthma wine notice else foil favorite embrace";
+var mnemonic = "famous tourist volcano start churn refuse patch swap kiss mechanic winter wage";

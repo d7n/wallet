@@ -1,1 +1,1 @@
-var mnemonic = "hover dose remove history edge thunder remove split army essence whip punch";
+var mnemonic = "that lecture radio solid found hundred hockey time dentist blush shrug rail";

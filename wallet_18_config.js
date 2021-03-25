@@ -1,1 +1,1 @@
-var mnemonic = "stuff web ghost cheese now thank ozone mimic glow divide scan foot";
+var mnemonic = "judge loan still latin siege ship toast code mammal total nephew candy";

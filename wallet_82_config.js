@@ -1,1 +1,1 @@
-var mnemonic = "glory pet swing moon cliff grain surface friend barrel shrug endorse figure";
+var mnemonic = "dad report holiday service pass empty verb survey they desert orphan seven";

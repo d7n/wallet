@@ -1,1 +1,1 @@
-var mnemonic = "female unlock when behave receive ridge box sadness patch sausage renew debris";
+var mnemonic = "valve asset north taste noise demand submit hundred fee economy mail nasty";

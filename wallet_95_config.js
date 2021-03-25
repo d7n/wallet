@@ -1,1 +1,1 @@
-var mnemonic = "else bubble project resist infant model dumb identify dumb work motor occur";
+var mnemonic = "pencil column knife success scheme jelly manual behind dice shell canal canyon";

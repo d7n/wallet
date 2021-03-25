@@ -1,1 +1,1 @@
-var mnemonic = "juice quick purse remove disorder phone faith initial sea anxiety various shaft";
+var mnemonic = "detect patient jeans choice kiss inform tape goat cluster object agree universe";

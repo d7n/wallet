@@ -1,1 +1,1 @@
-var mnemonic = "photo brand that middle hybrid summer buzz dad scatter increase field recall";
+var mnemonic = "minute retire jazz betray govern elbow snake glove present quote tissue nuclear";

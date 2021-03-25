@@ -1,1 +1,1 @@
-var mnemonic = "strategy anchor fee vintage aerobic vacant clerk bind paddle broccoli surprise thank";
+var mnemonic = "want guide laundry boil pen spray awkward road spoil frog ring position";

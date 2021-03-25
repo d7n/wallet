@@ -1,1 +1,1 @@
-var mnemonic = "peasant erosion mixed save error galaxy game gather select broccoli number intact";
+var mnemonic = "horse fiscal corn another couple churn cliff fog unaware tape virus pond";

@@ -1,1 +1,1 @@
-var mnemonic = "better used agent night fiber inquiry arch clock glue traffic wood spell";
+var mnemonic = "obvious daughter captain drum elder recipe unveil ahead proof essence hard inquiry";

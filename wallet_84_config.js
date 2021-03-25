@@ -1,1 +1,1 @@
-var mnemonic = "accident talk doll bridge toy two update year sniff swear parrot leg";
+var mnemonic = "shrug spend power pilot jelly tooth hood slight dwarf win front brave";

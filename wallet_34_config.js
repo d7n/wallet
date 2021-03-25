@@ -1,1 +1,1 @@
-var mnemonic = "rival dolphin soldier oblige bright rail hub game message cover gallery smart";
+var mnemonic = "valley benefit mistake flip joy bicycle dinner pelican deal heart runway dress";

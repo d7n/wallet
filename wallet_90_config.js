@@ -1,1 +1,1 @@
-var mnemonic = "motion biology emerge during security inspire royal popular worry toilet caught frog";
+var mnemonic = "theory unknown tragic anger scissors market genre wire legend harsh wealth token";

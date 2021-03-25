@@ -1,1 +1,1 @@
-var mnemonic = "title giant wish nut ghost harvest blood idle heavy venture beef wasp";
+var mnemonic = "notice three project cram team amazing soon album flat quarter camera zebra";

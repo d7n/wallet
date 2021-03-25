@@ -1,1 +1,1 @@
-var mnemonic = "property cost legend gas garbage bachelor mansion parade engine miss bright pipe";
+var mnemonic = "there emerge fix travel boss pattern brave chest bird dizzy stool crawl";

@@ -1,1 +1,1 @@
-var mnemonic = "urban brisk logic picture depend sphere sister green unlock celery sell bracket";
+var mnemonic = "all hurry sniff defense weather seminar egg public social equip news kick";

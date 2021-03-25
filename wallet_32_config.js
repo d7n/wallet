@@ -1,1 +1,1 @@
-var mnemonic = "orphan tone crawl utility text jealous stay fish nice winner want awesome";
+var mnemonic = "connect crazy deny tobacco curious output wine predict arrest walk lobster describe";

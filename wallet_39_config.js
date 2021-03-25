@@ -1,1 +1,1 @@
-var mnemonic = "brass urge benefit flight best finger panic mean beef that reward drama";
+var mnemonic = "magnet brand paddle invest regret width swing paddle year gloom found planet";

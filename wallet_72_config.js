@@ -1,1 +1,1 @@
-var mnemonic = "more merge inspire symptom long guilt gasp castle clutch invite narrow pattern";
+var mnemonic = "calm upset box sausage cricket claim festival lizard warm oak crowd drip";

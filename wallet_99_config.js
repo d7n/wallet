@@ -1,1 +1,1 @@
-var mnemonic = "include bus side estate arrow fan gentle kid sweet sign casino noodle";
+var mnemonic = "conduct exchange eyebrow agent robot edit fringe blood orbit dove report purchase";

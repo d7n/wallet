@@ -1,1 +1,1 @@
-var mnemonic = "black mean element horn small blossom cash tube race label student super";
+var mnemonic = "during cake myth gospel keen vehicle arch opera fruit sure skill garlic";

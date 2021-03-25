@@ -1,1 +1,1 @@
-var mnemonic = "fine sister column cream erase sad action furnace inner shiver hospital garment";
+var mnemonic = "lizard weird burger nation theory mechanic obey ramp clap collect level better";

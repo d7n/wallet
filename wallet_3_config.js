@@ -1,1 +1,1 @@
-var mnemonic = "what tonight truck civil season mirror bone lava rent transfer crucial figure";
+var mnemonic = "dinosaur jelly arrive cattle section swarm frozen tape resist action evoke tonight";

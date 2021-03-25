@@ -1,1 +1,1 @@
-var mnemonic = "brass card dentist include boost lumber kangaroo despair sock truth inherit repeat";
+var mnemonic = "lounge trim cause bleak motion because elephant quarter crime raw blade cat";

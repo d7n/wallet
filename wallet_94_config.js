@@ -1,1 +1,1 @@
-var mnemonic = "cabbage exotic arm fault used swarm misery auction alone broccoli absent dance";
+var mnemonic = "ginger canyon glide doctor note inhale deal member toy resource squeeze bag";

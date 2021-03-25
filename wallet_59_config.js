@@ -1,1 +1,1 @@
-var mnemonic = "secret gloom seat lecture boost donkey frozen chef clog museum unusual wave";
+var mnemonic = "assault upset coral climb during copper giggle salt flight foam hope stamp";

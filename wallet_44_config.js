@@ -1,1 +1,1 @@
-var mnemonic = "metal zone leaf era bronze document strategy spatial young fury anchor fork";
+var mnemonic = "film comic river mind clog bone list subject auto scene stand cook";
