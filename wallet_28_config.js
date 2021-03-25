@@ -1,1 +1,1 @@
-var mnemonic = "truth vast case acoustic guess moon room future urban blast wish animal";
+var mnemonic = "caught okay work horn apart light glory tunnel receive shed bag valley";

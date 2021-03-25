@@ -1,1 +1,1 @@
-var mnemonic = "usual clown lizard album pact topple ecology blanket century switch habit recipe";
+var mnemonic = "foil win book credit mention shallow oven avoid rival bean expire damage";

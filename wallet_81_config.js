@@ -1,1 +1,1 @@
-var mnemonic = "skull curious defy ski price another minor monster bomb adapt gate frost";
+var mnemonic = "cake nice foster other coach segment axis carry bounce increase hint tape";

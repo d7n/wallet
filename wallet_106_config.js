@@ -1,1 +1,1 @@
-var mnemonic = "camp smooth unlock damp dragon online enroll vacant sponsor ozone else parrot";
+var mnemonic = "insane zero dance patch loan there raise hockey spice wet food loan";

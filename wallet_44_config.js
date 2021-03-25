@@ -1,1 +1,1 @@
-var mnemonic = "silly file lucky there cliff hair essay link energy insect tired dirt";
+var mnemonic = "cloth picture guilt chair impact doll mandate cross bunker picnic clump broccoli";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty festival oil detect sauce lady slogan gold wasp illegal pill wrestle";
+var mnemonic = "away juice fluid bar gift stove social pigeon text satoshi deposit garage";

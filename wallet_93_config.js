@@ -1,1 +1,1 @@
-var mnemonic = "turn unhappy upon chimney sweet hire jewel rug test window mouse unlock";
+var mnemonic = "heart nephew sense tackle blast tube ski grain tonight design army normal";

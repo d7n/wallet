@@ -1,1 +1,1 @@
-var mnemonic = "brass orange want toss shaft pipe load obtain exchange ancient clog nice";
+var mnemonic = "upper pride crime flash trick beauty bicycle damage social volcano balcony wheel";

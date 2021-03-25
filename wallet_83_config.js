@@ -1,1 +1,1 @@
-var mnemonic = "tired earn isolate life elevator cargo damp stereo change install decrease power";
+var mnemonic = "three spray harbor finger series loan forum old donkey unable push fee";

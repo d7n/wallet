@@ -1,1 +1,1 @@
-var mnemonic = "grain ensure noble ensure rocket grief love orient pretty detail other pilot";
+var mnemonic = "choice milk enemy west visa excite another cotton found wasp explain depend";

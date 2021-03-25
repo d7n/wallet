@@ -1,1 +1,1 @@
-var mnemonic = "picture firm sea dune width give wife mixture alpha outdoor october put";
+var mnemonic = "artefact romance flavor spy silent hungry bridge carbon venture donkey result ketchup";

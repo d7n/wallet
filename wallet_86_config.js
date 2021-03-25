@@ -1,1 +1,1 @@
-var mnemonic = "leaf expose prevent kiss churn balcony better monster puppy era become ten";
+var mnemonic = "dice property dynamic poem grid grunt cloth health practice voyage media satoshi";

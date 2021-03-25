@@ -1,1 +1,1 @@
-var mnemonic = "judge cloud museum math sting swamp insect tenant youth awake surge peasant";
+var mnemonic = "welcome next absurd try smooth disease model verify flavor secret raise alert";

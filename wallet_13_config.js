@@ -1,1 +1,1 @@
-var mnemonic = "ride tragic young bar grocery crystal coyote flock hope ordinary syrup hire";
+var mnemonic = "purpose ghost aunt fever unknown memory toe memory calm mobile yellow soldier";

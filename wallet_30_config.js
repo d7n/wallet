@@ -1,1 +1,1 @@
-var mnemonic = "boost ignore asset knife hammer swing wing pen soul escape embrace cloth";
+var mnemonic = "runway vital pitch emerge around alert unable still maid raven game fix";

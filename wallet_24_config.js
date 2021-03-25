@@ -1,1 +1,1 @@
-var mnemonic = "velvet whip property bachelor scatter knee marble industry fatigue draw gasp cave";
+var mnemonic = "circle unfair lawsuit gasp fashion cave proof member furnace kitchen sentence group";

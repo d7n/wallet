@@ -1,1 +1,1 @@
-var mnemonic = "head assume blade relief frost tooth snow gloom exact attack iron math";
+var mnemonic = "stamp wait physical inmate zoo donkey tell material gasp equip punch side";

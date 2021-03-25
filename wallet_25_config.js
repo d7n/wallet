@@ -1,1 +1,1 @@
-var mnemonic = "potato menu sick better absurd picnic appear buyer friend proof squirrel fix";
+var mnemonic = "cream pride aim bench tomato excite mass crawl casual adjust drink shiver";

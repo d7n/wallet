@@ -1,1 +1,1 @@
-var mnemonic = "zoo garbage loan visual stamp artist multiply equip casino feature become ostrich";
+var mnemonic = "ranch cushion analyst abstract range purse brush volume state better good fiscal";

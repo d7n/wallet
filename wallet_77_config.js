@@ -1,1 +1,1 @@
-var mnemonic = "edit mango session lake kidney misery shock smile twenty proof opera expire";
+var mnemonic = "caution march orphan half noodle usage neutral cargo genre upper trophy minute";

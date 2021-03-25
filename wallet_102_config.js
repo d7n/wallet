@@ -1,1 +1,1 @@
-var mnemonic = "pluck error keep silk alter fire avoid satisfy also onion embrace solve";
+var mnemonic = "lawsuit giggle orbit attend divorce recall season crash fog debris garage zone";

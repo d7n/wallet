@@ -1,1 +1,1 @@
-var mnemonic = "vanish tooth town recycle wrestle silver fine wedding toe nation tonight scheme";
+var mnemonic = "boy bunker print poet rubber wrestle federal pink rhythm acoustic company leave";

@@ -1,1 +1,1 @@
-var mnemonic = "oval tobacco already fox cheese mother remind damp defy belt fee surface";
+var mnemonic = "occur blossom noble cover script drastic area stay account child jeans stem";

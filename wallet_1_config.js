@@ -1,1 +1,1 @@
-var mnemonic = "master media fuel piece bamboo buffalo pretty mule appear daughter tide bacon";
+var mnemonic = "panel quick price sadness antenna perfect movie bacon estate weird equal crack";

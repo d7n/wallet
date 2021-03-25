@@ -1,1 +1,1 @@
-var mnemonic = "bone reduce intact idea power drink gun roast escape baby flip hope";
+var mnemonic = "social detect hip reflect mechanic museum same face save polar mutual sea";

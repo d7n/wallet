@@ -1,1 +1,1 @@
-var mnemonic = "step rice victory garage innocent choice garlic high kangaroo duck ripple fence";
+var mnemonic = "snake snap slender invest hockey debate inmate assault barrel monster must grace";

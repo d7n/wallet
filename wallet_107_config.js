@@ -1,1 +1,1 @@
-var mnemonic = "endless dizzy garment someone tiger hybrid clay age subway inside attract will";
+var mnemonic = "night wrap gap maximum parrot pepper cheese thrive nest plastic dune scorpion";

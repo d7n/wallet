@@ -1,1 +1,1 @@
-var mnemonic = "frost seat evolve rural slush hurdle youth hospital transfer mean expect away";
+var mnemonic = "three town dice reward loan hood excess century crime solar hire ill";

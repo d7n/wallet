@@ -1,1 +1,1 @@
-var mnemonic = "filter chimney tuna album velvet online wool license weird pull kidney stomach";
+var mnemonic = "install victory corn blanket blood time sun traffic pear expose muscle brass";

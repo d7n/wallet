@@ -1,1 +1,1 @@
-var mnemonic = "cousin dust addict buffalo velvet video stool stool repair false vanish betray";
+var mnemonic = "across square math eight nest theory palace leaf habit empower excite rocket";

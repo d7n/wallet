@@ -1,1 +1,1 @@
-var mnemonic = "faint pledge people purchase picnic foil face glue exit scorpion photo grunt";
+var mnemonic = "stable light ordinary pride unhappy razor endorse work royal cube icon home";

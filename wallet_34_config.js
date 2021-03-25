@@ -1,1 +1,1 @@
-var mnemonic = "foot add tongue century burger grain glow cage debate enjoy always aspect";
+var mnemonic = "engage height dance chapter mesh burger inhale mouse occur exotic crash evil";

@@ -1,1 +1,1 @@
-var mnemonic = "ticket pair bounce like also legal hero virtual will second trial egg";
+var mnemonic = "fan angle maze beef swing arrest canal trade play spike east gun";

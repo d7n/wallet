@@ -1,1 +1,1 @@
-var mnemonic = "voice all surge auto because execute often mobile sketch pelican ahead switch";
+var mnemonic = "bean achieve genius sentence muffin wood color foam question midnight boy relax";

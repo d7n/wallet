@@ -1,1 +1,1 @@
-var mnemonic = "defy birth tiger odor ignore cost focus three define shock gauge east";
+var mnemonic = "pond goat actress result tackle risk motion razor luxury pottery derive hockey";

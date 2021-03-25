@@ -1,1 +1,1 @@
-var mnemonic = "process betray there gate kite dilemma model save river rotate firm neck";
+var mnemonic = "choice trend animal slush receive lab grass aware drama cash hover dove";

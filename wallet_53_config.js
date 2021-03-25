@@ -1,1 +1,1 @@
-var mnemonic = "announce beef cheap risk prison waste rigid remember romance pistol follow radio";
+var mnemonic = "bitter zone real extra awkward clog giraffe spot essence glove truth safe";

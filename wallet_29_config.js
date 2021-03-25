@@ -1,1 +1,1 @@
-var mnemonic = "common hole pyramid people bulb left decorate cruise feel cover situate wood";
+var mnemonic = "trial edit goat position lens ocean blossom exile enlist clever warrior mixture";

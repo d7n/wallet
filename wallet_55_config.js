@@ -1,1 +1,1 @@
-var mnemonic = "organ become portion country assume control hover enhance fox day blood dwarf";
+var mnemonic = "endless theme woman coyote tissue injury rough problem crush voyage great code";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant clean wine crater punch peanut occur square onion step elder dune";
+var mnemonic = "absorb glance flight deer eye friend fitness change mobile alien dream industry";

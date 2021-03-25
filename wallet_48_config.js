@@ -1,1 +1,1 @@
-var mnemonic = "spray hover comfort mechanic card copper zoo nerve clean december quick property";
+var mnemonic = "satoshi parade evoke start decrease index drive vicious silk hurt double law";

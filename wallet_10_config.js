@@ -1,1 +1,1 @@
-var mnemonic = "creek venture auto other crater ability barely sausage direct venture hospital tiger";
+var mnemonic = "knock verify inner rough gate famous hybrid stand hold reflect shadow praise";

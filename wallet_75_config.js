@@ -1,1 +1,1 @@
-var mnemonic = "hungry hand position top tragic waste patient harvest empower apology dice prison";
+var mnemonic = "solar together cruise waste laugh festival magic bronze reunion canvas misery spoil";

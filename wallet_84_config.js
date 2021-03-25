@@ -1,1 +1,1 @@
-var mnemonic = "mesh eye tooth vote know quote fame proud dwarf side check vintage";
+var mnemonic = "three link riot squeeze easily model exit pupil together property either crash";

@@ -1,1 +1,1 @@
-var mnemonic = "question success ticket current impact bottom bonus impose mango harbor turn aim";
+var mnemonic = "mango knife hold antenna twist oil hammer goat fetch eye position ignore";

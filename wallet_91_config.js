@@ -1,1 +1,1 @@
-var mnemonic = "text phrase beef crush cheese basic shy window injury mountain output black";
+var mnemonic = "front across confirm load report door faculty divide logic any universe unusual";

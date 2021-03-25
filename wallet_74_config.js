@@ -1,1 +1,1 @@
-var mnemonic = "increase secret fresh pact noodle drama place clown meat child boat divorce";
+var mnemonic = "noodle gloom frown stadium paddle observe flower quit come swarm hold buzz";

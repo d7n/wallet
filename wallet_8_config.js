@@ -1,1 +1,1 @@
-var mnemonic = "fiber control exit dawn execute among swarm become sentence zone charge gasp";
+var mnemonic = "meat certain tobacco life vanish desert east weasel mass police flower sniff";

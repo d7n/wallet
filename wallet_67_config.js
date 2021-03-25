@@ -1,1 +1,1 @@
-var mnemonic = "practice drive nothing impose eager crumble scrub eye resist net sample awkward";
+var mnemonic = "clog tackle recycle make famous hint drink oval arm clinic camp guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet actress virus clutch invest actor twelve library mobile cable worth token";
+var mnemonic = "you horn side fantasy oxygen damp penalty hawk lake answer rescue echo";

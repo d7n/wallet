@@ -1,1 +1,1 @@
-var mnemonic = "vendor base there noble pool slight route assist apart dream census kitchen";
+var mnemonic = "oil orbit between squeeze uphold lounge member raccoon noise giraffe diary situate";

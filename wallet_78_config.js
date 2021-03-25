@@ -1,1 +1,1 @@
-var mnemonic = "wood media mad chef limit buyer slush case emerge law day unable";
+var mnemonic = "ghost produce area power river observe innocent aware potato erosion couch noble";

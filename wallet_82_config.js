@@ -1,1 +1,1 @@
-var mnemonic = "inside purity afraid bottom scorpion sound museum blossom call celery habit awesome";
+var mnemonic = "among run captain destroy canal gospel heart crush switch autumn casual left";

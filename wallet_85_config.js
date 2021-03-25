@@ -1,1 +1,1 @@
-var mnemonic = "meadow off leaf ribbon virus rather shadow demise magic atom pudding cousin";
+var mnemonic = "element slide page seed able figure explain subject tragic solar despair lyrics";

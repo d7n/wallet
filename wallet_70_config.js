@@ -1,1 +1,1 @@
-var mnemonic = "wasp either slim deliver luxury able banana already picture gesture number visit";
+var mnemonic = "snack inform leave fiction giant layer muscle undo dragon online coffee friend";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck expect valid icon model debris rose slim shine salmon present venture";
+var mnemonic = "flash bunker glance daughter adjust child truck digital pear typical sad december";

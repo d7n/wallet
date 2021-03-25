@@ -1,1 +1,1 @@
-var mnemonic = "space cement stock keen rigid reunion despair image skull famous defy coffee";
+var mnemonic = "gentle into dilemma river pizza indoor year beyond plate sort receive abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "amount audit swing video ocean mandate jacket youth biology more impulse dinner";
+var mnemonic = "black soup private strong toilet patch vivid pet diet face anchor cover";

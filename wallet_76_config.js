@@ -1,1 +1,1 @@
-var mnemonic = "whip lyrics price search diet clerk intact victory base license length wide";
+var mnemonic = "entire tool catch insane siren raw indoor radar guitar charge trap target";

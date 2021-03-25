@@ -1,1 +1,1 @@
-var mnemonic = "token stomach jaguar aisle bag chalk oil student above resemble rather result";
+var mnemonic = "penalty work enjoy index silk midnight cost day hurt elbow primary cloth";

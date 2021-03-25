@@ -1,1 +1,1 @@
-var mnemonic = "entry dune midnight lonely final main guess casino suspect blame suspect before";
+var mnemonic = "dune cage common embrace limit during ranch owner congress remember cotton win";

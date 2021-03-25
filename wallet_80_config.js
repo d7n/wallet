@@ -1,1 +1,1 @@
-var mnemonic = "often level maid outdoor saddle second surprise tape frog delay reopen fatigue";
+var mnemonic = "fine town favorite crouch point happy offer silent snap pause oxygen among";

@@ -1,1 +1,1 @@
-var mnemonic = "use warrior shed roof bronze rookie what pill kingdom post enough key";
+var mnemonic = "oxygen barely snow wagon below athlete wolf clown sausage taxi effort easily";

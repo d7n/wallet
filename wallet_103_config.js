@@ -1,1 +1,1 @@
-var mnemonic = "post toward captain anxiety normal twice educate over later ability grain pigeon";
+var mnemonic = "solve spend slim once victory fragile huge hammer office yellow oak twenty";

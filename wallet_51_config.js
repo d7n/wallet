@@ -1,1 +1,1 @@
-var mnemonic = "decline other december sibling robot search venue romance steel harsh notable gasp";
+var mnemonic = "zone innocent maple arch crater shiver occur bus future endorse material country";

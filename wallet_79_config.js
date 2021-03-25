@@ -1,1 +1,1 @@
-var mnemonic = "crush parade smart chair session elephant jar hurry knee grit trouble coconut";
+var mnemonic = "better panther island example spawn sugar popular eye wheat quick biology purse";

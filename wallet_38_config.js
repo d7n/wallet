@@ -1,1 +1,1 @@
-var mnemonic = "main erosion august glue front relax sentence total wood pigeon lunar trust";
+var mnemonic = "champion mirror absorb vessel whisper squeeze engage jewel siege media cattle ticket";

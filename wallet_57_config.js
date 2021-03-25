@@ -1,1 +1,1 @@
-var mnemonic = "syrup scissors history fence proud silent into across belt fit miracle biology";
+var mnemonic = "lumber police motor enlist pulp liberty burger dash health scare ignore hover";

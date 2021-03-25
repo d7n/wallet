@@ -1,1 +1,1 @@
-var mnemonic = "deliver wagon craft boring ability ill swamp prevent until rookie plunge offer";
+var mnemonic = "foil donkey judge sing bulb ticket solve praise today jealous velvet head";

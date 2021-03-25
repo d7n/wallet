@@ -1,1 +1,1 @@
-var mnemonic = "ankle visit flight vintage place segment capital family emerge idle approve fit";
+var mnemonic = "eyebrow crisp change tomorrow cloud federal spot unfair abstract error repeat volume";

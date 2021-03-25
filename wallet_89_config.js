@@ -1,1 +1,1 @@
-var mnemonic = "rapid place off frequent abandon subject general coyote exhibit board demise about";
+var mnemonic = "swap verify hub holiday time mandate found kingdom situate circle flee mass";

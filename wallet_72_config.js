@@ -1,1 +1,1 @@
-var mnemonic = "snake business view agree lens gown lobster timber history primary there annual";
+var mnemonic = "run vote minimum utility speak wonder swarm sound flush shove bamboo brown";

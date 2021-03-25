@@ -1,1 +1,1 @@
-var mnemonic = "admit before child fatal soul list firm law proof winter crouch poverty";
+var mnemonic = "bring where focus clever brave inspire venture outside remind music winter atom";

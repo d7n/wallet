@@ -1,1 +1,1 @@
-var mnemonic = "vital fashion fly say airport busy visual exile project siren bacon slight";
+var mnemonic = "unlock sponsor sand setup pen wait champion noodle cabin lobster eagle eyebrow";

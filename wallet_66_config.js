@@ -1,1 +1,1 @@
-var mnemonic = "beef rocket acquire alert fringe boy grid palm wrong pioneer develop later";
+var mnemonic = "fog hockey weird sadness donate laundry guilt neutral knock pave wrist honey";

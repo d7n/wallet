@@ -1,1 +1,1 @@
-var mnemonic = "suit moon verb exhaust veteran student hamster image attend lift pride trick";
+var mnemonic = "canal profit story width lottery twenty flash oven sense bike concert spice";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat hope leisure media dog dragon rapid jungle resource century junior drum";
+var mnemonic = "asset offer alone smooth change valid mixture balcony usage benefit genuine hockey";

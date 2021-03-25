@@ -1,1 +1,1 @@
-var mnemonic = "conduct inquiry pulse else suit office boy good vote leaf double furnace";
+var mnemonic = "fat abandon delay cloth good uncle owner abuse injury cabbage wash wasp";

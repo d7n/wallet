@@ -1,1 +1,1 @@
-var mnemonic = "ramp marriage illegal mercy egg course desk family smoke slender conduct spoon";
+var mnemonic = "soap genuine grit sting vast bleak velvet wheel day monkey ski light";

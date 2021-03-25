@@ -1,1 +1,1 @@
-var mnemonic = "dolphin reject face install health reward old wise sense cupboard sadness jelly";
+var mnemonic = "flee present hen omit donor brief pupil quit tenant wrap tourist hotel";

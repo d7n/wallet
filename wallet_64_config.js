@@ -1,1 +1,1 @@
-var mnemonic = "poem frost reflect hotel theme bulk high kangaroo shift fantasy tobacco siege";
+var mnemonic = "inject cat catalog toss crane uncle anxiety orbit sheriff daring luxury december";

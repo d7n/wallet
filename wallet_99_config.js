@@ -1,1 +1,1 @@
-var mnemonic = "addict bar off claw rigid silly library choice tilt usage amused punch";
+var mnemonic = "bone magnet hazard angle reward brave wage sail regret wall rail minor";

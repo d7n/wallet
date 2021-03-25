@@ -1,1 +1,1 @@
-var mnemonic = "govern decade zone knock sign rival limb grace curve online fringe toe";
+var mnemonic = "happy street broom payment wasp art film tree kangaroo exhaust arm panda";

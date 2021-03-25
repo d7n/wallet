@@ -1,1 +1,1 @@
-var mnemonic = "minute frequent weekend gold mass cancel retire try adjust stem unusual jeans";
+var mnemonic = "rely country group fix grab blanket talent priority split amazing trouble rent";

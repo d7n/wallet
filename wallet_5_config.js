@@ -1,1 +1,1 @@
-var mnemonic = "crime unfair direct pave myself pause steel wall exit seed vessel spider";
+var mnemonic = "paper tragic insect glad tenant orient when edge angry leisure double gesture";

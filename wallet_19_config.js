@@ -1,1 +1,1 @@
-var mnemonic = "rescue poet torch idea sick glory nothing balcony bird mango upset enable";
+var mnemonic = "slice fame catch stool lab magnet adjust beyond feature twelve silent chicken";

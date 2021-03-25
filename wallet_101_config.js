@@ -1,1 +1,1 @@
-var mnemonic = "junior jaguar pumpkin bicycle dynamic dinosaur reform laugh extra federal runway exercise";
+var mnemonic = "congress welcome cry picnic ginger immense pony mixed spray climb sign spoon";

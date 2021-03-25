@@ -1,1 +1,1 @@
-var mnemonic = "elephant area spice spider seminar term cattle remind stamp quality divorce wall";
+var mnemonic = "olive peace screen head sure dumb other odor window inquiry cloud craft";

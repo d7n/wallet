@@ -1,1 +1,1 @@
-var mnemonic = "repair very gather cry circle shed flavor ethics plate junk spread pulse";
+var mnemonic = "inch kid budget business bird elite custom grace air genre bullet medal";
