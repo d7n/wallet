@@ -1,1 +1,1 @@
-var mnemonic = "forum glass usual rookie apart limb end total already museum cactus size";
+var mnemonic = "aim noodle oak live million hood pyramid beef journey mistake icon super";

@@ -1,1 +1,1 @@
-var mnemonic = "inflict inch garment believe among similar chest before exact claw culture pave";
+var mnemonic = "spy where vendor letter clip expect boring link prefer figure early twist";

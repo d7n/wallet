@@ -1,1 +1,1 @@
-var mnemonic = "cruel punch swamp exhibit actress pact mammal gloom tiger pelican cheap affair";
+var mnemonic = "fog boss badge venue blame enforce bicycle consider loyal gravity fragile join";

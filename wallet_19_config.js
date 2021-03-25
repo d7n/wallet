@@ -1,1 +1,1 @@
-var mnemonic = "medal asthma invest woman salad mom cover frown dose explain science unaware";
+var mnemonic = "fire share little divert present magnet exercise tray stove term dumb raise";

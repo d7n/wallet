@@ -1,1 +1,1 @@
-var mnemonic = "because rice album permit cage crouch pact ride follow blame ill build";
+var mnemonic = "practice human curtain half size lion smoke speed razor cage shift deal";

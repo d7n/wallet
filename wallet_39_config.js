@@ -1,1 +1,1 @@
-var mnemonic = "plug speed rare tobacco tumble unusual roast bright general demise paddle umbrella";
+var mnemonic = "blur artist usage young figure security badge spoon copper pact rail leg";

@@ -1,1 +1,1 @@
-var mnemonic = "odor exclude media swear spider pepper cancel polar morning ensure car force";
+var mnemonic = "toss write result strike term you congress embody dinosaur chicken hurdle age";

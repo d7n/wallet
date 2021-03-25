@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dial exile basket lesson hint cute candy judge total cash shift";
+var mnemonic = "flee cannon chase column allow enable warm club cross wedding yard catalog";

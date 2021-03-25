@@ -1,1 +1,1 @@
-var mnemonic = "assault space unique wealth sand frame lock mushroom jungle cup attend leopard";
+var mnemonic = "voyage axis spring light they zoo guard phone ensure stem bubble derive";

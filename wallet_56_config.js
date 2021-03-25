@@ -1,1 +1,1 @@
-var mnemonic = "miracle meat trumpet ladder connect stick neck toe sense coffee flat unveil";
+var mnemonic = "frown dragon hurt bread economy elder eyebrow ancient patch school nephew stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "green antenna crop case atom foam twice then method east shine cinnamon";
+var mnemonic = "arm bulk salmon soul lemon badge paper knock alcohol digital picture pelican";

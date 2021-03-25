@@ -1,1 +1,1 @@
-var mnemonic = "burden shrug expect own video jacket cushion infant pioneer beauty saddle manual";
+var mnemonic = "fantasy pretty quality cool fork tray spring spatial hedgehog crime super force";

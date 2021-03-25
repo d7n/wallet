@@ -1,1 +1,1 @@
-var mnemonic = "usual destroy scene vivid orient kite alcohol city novel theme menu together";
+var mnemonic = "flight velvet beauty thank stage cube multiply over weapon chronic steel turkey";

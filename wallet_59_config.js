@@ -1,1 +1,1 @@
-var mnemonic = "boy guess edge dove dance garden write second bench glare leave clarify";
+var mnemonic = "arrange mind lizard behind pair remain main vocal dutch ethics train decide";

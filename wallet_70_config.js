@@ -1,1 +1,1 @@
-var mnemonic = "stereo slight soon notable pumpkin practice avocado spin blind easily vapor cheese";
+var mnemonic = "more diary edge must lake wave case alert very try hen bean";

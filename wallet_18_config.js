@@ -1,1 +1,1 @@
-var mnemonic = "solar bundle tourist minor sword oxygen cave review frozen mercy local private";
+var mnemonic = "bulk receive wealth labor bulb soccer begin marine ripple script effort turtle";

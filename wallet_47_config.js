@@ -1,1 +1,1 @@
-var mnemonic = "twin garment ring amount must march sphere name outside author planet still";
+var mnemonic = "remove citizen hockey space purity agent grocery donor police shy aerobic soup";

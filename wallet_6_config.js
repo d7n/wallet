@@ -1,1 +1,1 @@
-var mnemonic = "merry critic raven garage bar photo bunker drastic brief museum gloom double";
+var mnemonic = "install unveil victory gravity teach net there crystal zero hurdle exhibit judge";

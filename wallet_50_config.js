@@ -1,1 +1,1 @@
-var mnemonic = "fork position birth explain style angry path private angry flower sun sugar";
+var mnemonic = "total rebel network feature soul gesture walk useful ceiling snap aunt bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "stock budget wine drift measure property choose marine abandon hair aunt appear";
+var mnemonic = "own canoe human spend wall affair bubble board chronic easily always also";

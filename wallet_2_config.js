@@ -1,1 +1,1 @@
-var mnemonic = "toss million sniff unlock cigar name gospel tired suit panda cigar glove";
+var mnemonic = "similar position hotel venture nasty mirror sense idea market abandon drill physical";

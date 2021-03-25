@@ -1,1 +1,1 @@
-var mnemonic = "settle struggle august fold hazard acoustic vehicle now safe ladder planet dinosaur";
+var mnemonic = "dismiss between mail debris obtain flame final hover ski track season crop";

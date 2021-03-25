@@ -1,1 +1,1 @@
-var mnemonic = "cattle fee enrich visual post million reduce monster pudding wood outer mistake";
+var mnemonic = "address rhythm submit demise miracle tongue blur nose good liar reform electric";

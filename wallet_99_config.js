@@ -1,1 +1,1 @@
-var mnemonic = "coral pride argue subject humor mimic vocal east early firm youth glass";
+var mnemonic = "eagle gadget grow rotate country inner catch either token sketch purity view";

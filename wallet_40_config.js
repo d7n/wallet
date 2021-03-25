@@ -1,1 +1,1 @@
-var mnemonic = "tell unable answer margin edit concert profit game choose pottery bless idea";
+var mnemonic = "radio reduce number bamboo sugar dinosaur improve slush alarm beyond indicate impose";

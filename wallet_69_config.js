@@ -1,1 +1,1 @@
-var mnemonic = "regular cherry giraffe they run mechanic fragile purchase wide dirt panel employ";
+var mnemonic = "oak veteran quantum rhythm citizen tone same fiber animal urge push replace";

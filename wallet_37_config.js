@@ -1,1 +1,1 @@
-var mnemonic = "sail focus give health worth shaft practice glow legal cancel private balcony";
+var mnemonic = "album sound flip grape harbor twice reward era giggle another busy exhaust";

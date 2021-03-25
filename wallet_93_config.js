@@ -1,1 +1,1 @@
-var mnemonic = "parade gasp poet carry stay ankle snake object desk arena hard diagram";
+var mnemonic = "asthma sort farm liquid turkey depth agree umbrella bicycle valley together razor";

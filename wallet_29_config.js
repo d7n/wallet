@@ -1,1 +1,1 @@
-var mnemonic = "version gap guard super system ozone basket someone panda winner attack diary";
+var mnemonic = "receive control slush ribbon hollow lady zoo soap phone mushroom crack zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "profit tornado merry check attract climb pride bag title salt history tunnel";
+var mnemonic = "today feed inform pact science vibrant cook step pizza price battle route";

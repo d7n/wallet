@@ -1,1 +1,1 @@
-var mnemonic = "kiwi wait attack surge lion forum piece sting today tip rich feel";
+var mnemonic = "source laundry parent proof kind there attack dance spell coast satoshi crawl";

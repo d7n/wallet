@@ -1,1 +1,1 @@
-var mnemonic = "once empower first tent hill timber stairs render happy inner negative menu";
+var mnemonic = "ritual dance coin chimney session bread advance black piano guilt boost nation";

@@ -1,1 +1,1 @@
-var mnemonic = "atom razor bright timber dilemma parrot health pottery valley eternal holiday since";
+var mnemonic = "spring sorry adjust soda dial doll pluck fit question embrace perfect what";

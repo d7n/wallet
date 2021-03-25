@@ -1,1 +1,1 @@
-var mnemonic = "board blade announce spell pair tiny muscle child close solution ladder multiply";
+var mnemonic = "order cousin ancient prepare come saddle scatter best match foam welcome false";

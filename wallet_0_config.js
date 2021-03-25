@@ -1,1 +1,1 @@
-var mnemonic = "alien afford panic polar robust main acid mountain drama unable upon fitness";
+var mnemonic = "damp model lake crisp spatial alien oval annual exhibit empower brisk gas";

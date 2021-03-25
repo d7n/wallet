@@ -1,1 +1,1 @@
-var mnemonic = "gift lecture antenna arena auto whip mass buddy library aerobic excess attitude";
+var mnemonic = "clean energy prefer hunt town book potato eagle illness leave expose north";

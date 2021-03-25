@@ -1,1 +1,1 @@
-var mnemonic = "few disease essay zero lamp task razor end mutual explain slight poet";
+var mnemonic = "market regret input plunge lecture bag vapor repair only shield great gallery";

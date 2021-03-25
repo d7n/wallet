@@ -1,1 +1,1 @@
-var mnemonic = "wool word reason believe quote fall junk pride disagree sea regular learn";
+var mnemonic = "office boy famous galaxy strategy soda address goat virus apple stumble float";

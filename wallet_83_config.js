@@ -1,1 +1,1 @@
-var mnemonic = "ship blanket clutch army possible draw erupt volcano stone produce reject chalk";
+var mnemonic = "aspect utility suggest tackle fall beyond address ill circle evolve frown glow";

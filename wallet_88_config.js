@@ -1,1 +1,1 @@
-var mnemonic = "chief beach couch gain tuition swamp claim old glass seat inner pause";
+var mnemonic = "boost noise crowd snack during express plug equal govern inspire ribbon letter";

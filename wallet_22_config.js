@@ -1,1 +1,1 @@
-var mnemonic = "head manual icon enemy romance tag juice cat mule furnace exercise goat";
+var mnemonic = "enough still planet throw reward enter average oil inner fox park primary";

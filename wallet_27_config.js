@@ -1,1 +1,1 @@
-var mnemonic = "hurry coyote vicious about inmate van april brick glory hen duck east";
+var mnemonic = "biology multiply quantum audit electric love hover fix deposit opera fan blossom";

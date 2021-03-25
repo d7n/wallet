@@ -1,1 +1,1 @@
-var mnemonic = "hundred huge anger fancy boost arrange oxygen gravity ill cliff frequent problem";
+var mnemonic = "climb fuel shrug safe token input post measure speed favorite mix weather";

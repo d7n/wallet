@@ -1,1 +1,1 @@
-var mnemonic = "habit unveil original image hole split control oxygen engage oak screen autumn";
+var mnemonic = "light sting help mouse ethics rose inside skin quarter minimum behave sister";

@@ -1,1 +1,1 @@
-var mnemonic = "guide icon twist embrace soap voice furnace private move palm actor guilt";
+var mnemonic = "net cruise step settle electric monkey valve easy admit neutral need sweet";

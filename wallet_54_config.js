@@ -1,1 +1,1 @@
-var mnemonic = "brave aerobic expose wrestle buzz topic virtual soul canoe glass circle scheme";
+var mnemonic = "renew cement leisure stairs front middle eagle screen slam trend stove pledge";

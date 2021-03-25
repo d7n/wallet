@@ -1,1 +1,1 @@
-var mnemonic = "alone pride base panel obscure grant convince typical bulb pumpkin expire luxury";
+var mnemonic = "direct vocal parrot supply trigger stove rain crack wealth vivid leaf enter";

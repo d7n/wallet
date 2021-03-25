@@ -1,1 +1,1 @@
-var mnemonic = "produce comfort stomach wear announce champion method whale torch various pull mixture";
+var mnemonic = "rug unveil typical hurry valid lunar finish skate six essence knock angle";

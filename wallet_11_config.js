@@ -1,1 +1,1 @@
-var mnemonic = "monitor actor maze chaos neutral cattle baby loop nation fatigue night satisfy";
+var mnemonic = "ensure repeat remove clap argue voice heavy broken energy bike flag pumpkin";

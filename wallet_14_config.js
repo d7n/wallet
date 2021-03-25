@@ -1,1 +1,1 @@
-var mnemonic = "gadget cabbage again proof kangaroo rookie giggle during scrap shrug nerve purpose";
+var mnemonic = "spirit emotion cereal stuff wheat regret actor drill robust blanket wrap smoke";

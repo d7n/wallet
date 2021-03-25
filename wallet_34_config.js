@@ -1,1 +1,1 @@
-var mnemonic = "lift peasant drama ethics item useless kick bar salute brave slice hurt";
+var mnemonic = "own unhappy execute arctic shrimp year neglect typical salute believe junk salon";

@@ -1,1 +1,1 @@
-var mnemonic = "relax decide denial below tent sphere quarter viable parent claim rose cart";
+var mnemonic = "candy jeans hero whale ask screen ramp nurse change tent pistol soup";

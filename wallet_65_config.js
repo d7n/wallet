@@ -1,1 +1,1 @@
-var mnemonic = "genre nasty myth lecture traffic section melt alert shift ugly tree beef";
+var mnemonic = "elder game disagree render guess liar picture culture write attend aunt group";

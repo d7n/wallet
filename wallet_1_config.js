@@ -1,1 +1,1 @@
-var mnemonic = "farm parent position come bind pattern custom outdoor core barely other middle";
+var mnemonic = "clerk symptom kind scatter balcony shock end burst okay monkey margin lonely";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid indicate couch chapter type whale spot excuse consider purpose dolphin current";
+var mnemonic = "style resource earth east glare term hard muffin since cover note liberty";

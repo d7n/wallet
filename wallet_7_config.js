@@ -1,1 +1,1 @@
-var mnemonic = "term horse wreck owner target lamp clock diamond floor december ceiling entry";
+var mnemonic = "letter popular victory egg evil betray gossip rural lamp dice essay object";

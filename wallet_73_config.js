@@ -1,1 +1,1 @@
-var mnemonic = "word assist dance legal umbrella exit pave depth vacuum grape blouse diamond";
+var mnemonic = "local shield leaf flush popular myth onion half gift damp dune maple";

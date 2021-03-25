@@ -1,1 +1,1 @@
-var mnemonic = "furnace inhale infant exhibit athlete galaxy jelly kit solar industry rifle street";
+var mnemonic = "diamond settle fruit patrol mouse bridge require wise multiply ankle snake wonder";

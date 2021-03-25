@@ -1,1 +1,1 @@
-var mnemonic = "good palm planet obscure access worry twenty dilemma coin deny crack lamp";
+var mnemonic = "comic night have food ability fiction bicycle loud voyage candy sword glue";

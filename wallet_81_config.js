@@ -1,1 +1,1 @@
-var mnemonic = "ghost unknown clarify recall parrot stage tail noise faint clutch text enforce";
+var mnemonic = "brick echo sniff grief summer snap joke orange alter bamboo saddle couple";

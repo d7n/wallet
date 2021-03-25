@@ -1,1 +1,1 @@
-var mnemonic = "meadow sentence riot hidden way code fitness duck whisper cake bunker rebuild";
+var mnemonic = "velvet silk rent scrub spice slogan cheap leave impact token amount quick";

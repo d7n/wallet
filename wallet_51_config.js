@@ -1,1 +1,1 @@
-var mnemonic = "umbrella concert grain soldier renew myself crazy rough plug physical aunt fuel";
+var mnemonic = "sister system bundle horn elegant across pole monkey circle hawk pave news";

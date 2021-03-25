@@ -1,1 +1,1 @@
-var mnemonic = "hood scrap upset volume estate quality fantasy chicken machine true affair cloud";
+var mnemonic = "scrap rural action sketch sadness arrow child layer hint peace destroy mention";

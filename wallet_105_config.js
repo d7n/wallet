@@ -1,1 +1,1 @@
-var mnemonic = "horn give cricket mandate dream update venue mercy helmet hero crush orient";
+var mnemonic = "voice ignore life echo force maple treat chase actual claw ticket social";

@@ -1,1 +1,1 @@
-var mnemonic = "copper ghost lobster margin rigid fall parrot hollow enough toilet dune agent";
+var mnemonic = "upset carpet pilot invest canal teach rain vapor save hollow neck cattle";

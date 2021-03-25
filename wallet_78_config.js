@@ -1,1 +1,1 @@
-var mnemonic = "quiz oak alone bacon edit orbit island immune ramp tilt tilt material";
+var mnemonic = "picnic twin scene game spring team huge garlic vendor sweet post provide";

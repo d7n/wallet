@@ -1,1 +1,1 @@
-var mnemonic = "better biology yard shove joy vibrant stock leisure pear beach sand tree";
+var mnemonic = "vapor net street corn truth captain fly segment vehicle element review spy";

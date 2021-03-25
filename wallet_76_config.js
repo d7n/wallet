@@ -1,1 +1,1 @@
-var mnemonic = "report glove mesh festival primary duck enroll pitch curtain fame year boat";
+var mnemonic = "cute price leaf waste twelve direct sphere own clinic describe brown waste";

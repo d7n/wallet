@@ -1,1 +1,1 @@
-var mnemonic = "nature miracle twist trap cage cake hole hint love rate index rifle";
+var mnemonic = "liar panic job feed anger position satisfy physical wash debate roof school";

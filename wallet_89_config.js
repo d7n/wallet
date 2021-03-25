@@ -1,1 +1,1 @@
-var mnemonic = "carry adapt gentle jacket pool monkey dress lion cruel gather spin east";
+var mnemonic = "excess paper air trap envelope asset pencil spare duty animal flavor rotate";

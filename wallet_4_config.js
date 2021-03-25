@@ -1,1 +1,1 @@
-var mnemonic = "menu typical ivory scare organ attitude chase hover wave dance art kitchen";
+var mnemonic = "social cook gain source liberty globe cream gas spread hover trim artist";

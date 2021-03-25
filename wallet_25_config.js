@@ -1,1 +1,1 @@
-var mnemonic = "correct frown jazz usage family depart genre flip educate diamond donate repeat";
+var mnemonic = "arch smile used shine display salt device pair later west box budget";

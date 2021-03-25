@@ -1,1 +1,1 @@
-var mnemonic = "imitate path virtual popular film beef strong attract wall hill absorb fork";
+var mnemonic = "monitor position cool typical inmate human public victory one rose slogan inject";

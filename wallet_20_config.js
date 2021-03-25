@@ -1,1 +1,1 @@
-var mnemonic = "august alter stable fitness series thrive phrase lobster title burst focus fresh";
+var mnemonic = "fancy already minute poverty verb giggle hair also witness situate talent draw";

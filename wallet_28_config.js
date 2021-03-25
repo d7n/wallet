@@ -1,1 +1,1 @@
-var mnemonic = "junior spread object initial inspire camera journey sword menu slot copper protect";
+var mnemonic = "core border trip initial child age kitchen pet legend agent ticket rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "town profit mention shoe truck firm mad adapt olympic junior city spy";
+var mnemonic = "mushroom key chalk attend evoke filter room point wide army velvet when";

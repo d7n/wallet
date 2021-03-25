@@ -1,1 +1,1 @@
-var mnemonic = "nice wheat around subway find solution immense venue jump giggle soft gauge";
+var mnemonic = "margin another funny acquire light spatial lonely gospel cost sunset vapor excuse";

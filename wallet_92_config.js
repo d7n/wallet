@@ -1,1 +1,1 @@
-var mnemonic = "spring item return story return practice laundry close twelve fix soda avoid";
+var mnemonic = "major lunch soup brave cry garage victory caught horn market expect only";

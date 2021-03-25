@@ -1,1 +1,1 @@
-var mnemonic = "mistake clutch brand filter term jazz crane corn flame surprise peasant way";
+var mnemonic = "reform senior version strike step cluster pond fiber income powder boat wisdom";

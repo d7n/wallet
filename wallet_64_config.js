@@ -1,1 +1,1 @@
-var mnemonic = "proud animal december aunt bottom humble life paper wheat cup purity among";
+var mnemonic = "buddy maid orange ribbon blame cloth retreat floor brave doll injury exhaust";

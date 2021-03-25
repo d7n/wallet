@@ -1,1 +1,1 @@
-var mnemonic = "off hurdle rule spread sure ribbon hurry usage cupboard panda ordinary flock";
+var mnemonic = "polar rich sort cousin expose prepare armed thunder pill joy sample pull";

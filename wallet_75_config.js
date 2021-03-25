@@ -1,1 +1,1 @@
-var mnemonic = "castle three country judge pony traffic unique citizen dynamic tower duck tip";
+var mnemonic = "scene opera bulk client icon vital side animal swear weird dog still";

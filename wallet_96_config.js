@@ -1,1 +1,1 @@
-var mnemonic = "expire kidney police fog recipe subject melt client embark ivory phone young";
+var mnemonic = "hard liberty drum lyrics unveil acoustic average flag fancy sniff face civil";

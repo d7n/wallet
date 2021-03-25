@@ -1,1 +1,1 @@
-var mnemonic = "admit suspect together bike patch strong laptop boy include discover miss permit";
+var mnemonic = "office harbor exile jar usual resist tuna invest gain turn amazing clean";

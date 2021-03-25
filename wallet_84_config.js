@@ -1,1 +1,1 @@
-var mnemonic = "episode gauge panther property wall armor verb edit vague twice blame steel";
+var mnemonic = "verb suspect garage short tuition ignore ahead win pipe leg aware civil";

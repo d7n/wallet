@@ -1,1 +1,1 @@
-var mnemonic = "toward lottery demand hobby bomb grocery situate song quote arrow ocean balcony";
+var mnemonic = "choice dwarf regular bullet sun solid upgrade female coach horse industry charge";

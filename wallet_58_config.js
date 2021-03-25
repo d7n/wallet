@@ -1,1 +1,1 @@
-var mnemonic = "loud ribbon agree tell sword leg filter glance universe uphold approve calm";
+var mnemonic = "gentle wish forward suspect endless add nerve vehicle differ tongue ankle involve";
