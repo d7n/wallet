@@ -1,1 +1,1 @@
-var mnemonic = "trend buffalo tip minor siege pledge neutral panic say boost pioneer lottery";
+var mnemonic = "virtual rose page spring urban can firm blind wave double trade scrub";

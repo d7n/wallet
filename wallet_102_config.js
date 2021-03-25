@@ -1,1 +1,1 @@
-var mnemonic = "lunch treat eternal scheme park ladder that shine today strong unit ignore";
+var mnemonic = "phrase marine tourist ensure title body trend guide leave guilt start aisle";

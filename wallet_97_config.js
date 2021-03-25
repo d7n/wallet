@@ -1,1 +1,1 @@
-var mnemonic = "toe depend hobby bike post slogan gift dismiss tower cycle dice either";
+var mnemonic = "wise hidden strike coconut quarter erase doll car cargo actress secret boy";

@@ -1,1 +1,1 @@
-var mnemonic = "diary rain bubble young box antenna cycle pilot sport cry canvas thing";
+var mnemonic = "chair lonely breeze display giggle visa museum correct village clinic gift lizard";

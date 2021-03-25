@@ -1,1 +1,1 @@
-var mnemonic = "belt put base decide bamboo sand tank usage nothing crew alter neutral";
+var mnemonic = "improve blast truck stove busy correct exhibit pull cage remain involve arrest";

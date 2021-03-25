@@ -1,1 +1,1 @@
-var mnemonic = "boy scale wedding stamp dove rigid alcohol bless mushroom foam absent order";
+var mnemonic = "notable hold orbit during ride day clarify pen harvest expect athlete spread";

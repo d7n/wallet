@@ -1,1 +1,1 @@
-var mnemonic = "absurd slow napkin animal parent glide chalk east roof onion radar audit";
+var mnemonic = "cigar lady advance civil forest melody announce critic analyst success quit drink";

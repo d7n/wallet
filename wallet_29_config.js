@@ -1,1 +1,1 @@
-var mnemonic = "drop search deliver kidney fade scheme giant rib country artefact device drip";
+var mnemonic = "hidden return turtle onion shed furnace planet sun proof wisdom candy worry";

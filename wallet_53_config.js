@@ -1,1 +1,1 @@
-var mnemonic = "language embrace dog guard abandon refuse jar feed collect expect dish scheme";
+var mnemonic = "pottery picture lunar club phone floor network clarify benefit turkey task sugar";

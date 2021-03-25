@@ -1,1 +1,1 @@
-var mnemonic = "diagram tiger today fade text impose range pen brave dolphin race inner";
+var mnemonic = "sign method estate suffer consider grief fiscal eager sail busy attitude absorb";

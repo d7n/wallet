@@ -1,1 +1,1 @@
-var mnemonic = "bronze pupil husband enough olive cat normal mixed enjoy face feel just";
+var mnemonic = "absorb clever sell need furnace spend pet speed rhythm ready piece chapter";

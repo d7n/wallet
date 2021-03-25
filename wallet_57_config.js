@@ -1,1 +1,1 @@
-var mnemonic = "april benefit pistol alley nurse rubber female cereal village ready exhibit cup";
+var mnemonic = "expect raccoon put nominee satoshi world pattern aerobic until concert hope priority";

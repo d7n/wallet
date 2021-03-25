@@ -1,1 +1,1 @@
-var mnemonic = "planet mobile eternal predict obey aerobic prepare explain civil canoe pipe sauce";
+var mnemonic = "fabric insane gesture school clean unaware bunker stamp price ocean settle spice";

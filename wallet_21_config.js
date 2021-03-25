@@ -1,1 +1,1 @@
-var mnemonic = "alarm surround expect wish sight wood tomato little coin phone connect couple";
+var mnemonic = "ordinary omit head found loan crucial maid spring alcohol chimney flame relax";

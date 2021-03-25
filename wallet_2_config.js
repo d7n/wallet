@@ -1,1 +1,1 @@
-var mnemonic = "salute lend memory grit problem blood monitor obtain execute romance panic carry";
+var mnemonic = "advice must endorse parrot onion matter north slight please tourist pistol pact";

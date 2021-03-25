@@ -1,1 +1,1 @@
-var mnemonic = "whip inflict shallow post repeat traffic field glare series connect word tail";
+var mnemonic = "drift tool library never resemble witness someone region call collect idle laugh";

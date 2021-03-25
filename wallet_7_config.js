@@ -1,1 +1,1 @@
-var mnemonic = "craft cheap race stadium jewel ensure smile section gesture hole very sorry";
+var mnemonic = "planet bring dawn tray proud prize almost noise mix time taste clown";

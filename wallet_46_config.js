@@ -1,1 +1,1 @@
-var mnemonic = "ripple flash weasel science history argue egg height strike away transfer ecology";
+var mnemonic = "illegal priority ozone door axis essay lumber lawn shallow hospital toy flight";

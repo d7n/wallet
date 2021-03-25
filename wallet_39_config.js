@@ -1,1 +1,1 @@
-var mnemonic = "various axis paper holiday theme physical rather list vintage thunder address year";
+var mnemonic = "tube picture sketch obscure sunset spot you kind april remain another ask";

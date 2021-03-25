@@ -1,1 +1,1 @@
-var mnemonic = "release dress adult hospital captain roof science clean puppy robot gentle hunt";
+var mnemonic = "learn across custom crunch badge lady chicken warfare horn weird notable carry";

@@ -1,1 +1,1 @@
-var mnemonic = "eager submit liquid inner riot purchase repair style code bind figure grow";
+var mnemonic = "library soldier horse solid tragic name poverty saddle reveal abandon riot tunnel";

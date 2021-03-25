@@ -1,1 +1,1 @@
-var mnemonic = "olympic snack develop insect mushroom lobster label rocket romance army stool inherit";
+var mnemonic = "volume picnic ability tattoo daring setup village evidence fatal near real spike";

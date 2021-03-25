@@ -1,1 +1,1 @@
-var mnemonic = "library bamboo pride battle green rain guitar window stay unaware cross usage";
+var mnemonic = "cross above syrup reopen repeat clever sustain embark celery census describe achieve";

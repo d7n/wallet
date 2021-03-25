@@ -1,1 +1,1 @@
-var mnemonic = "rack trash crouch thought almost tattoo before river joy sun weather sand";
+var mnemonic = "wing garage scale shift priority broccoli dilemma extra wasp space faculty wet";

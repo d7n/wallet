@@ -1,1 +1,1 @@
-var mnemonic = "lumber spatial fiber legend valid trigger weekend must liar apology desk tag";
+var mnemonic = "inch ahead ripple caution urge sense curve duck joke glue skill test";

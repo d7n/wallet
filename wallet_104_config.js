@@ -1,1 +1,1 @@
-var mnemonic = "trend relief cloth weasel lobster price answer impose field gas drum used";
+var mnemonic = "mobile wash sheriff wave fine luxury fold tourist transfer crunch guess survey";

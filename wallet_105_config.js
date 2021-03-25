@@ -1,1 +1,1 @@
-var mnemonic = "jaguar delay fossil cool valid canoe hospital weasel section actual display prison";
+var mnemonic = "front oyster beef capable pigeon screen impact two borrow season cupboard charge";

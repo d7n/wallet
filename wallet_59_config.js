@@ -1,1 +1,1 @@
-var mnemonic = "garbage birth oak soda pole knee famous auto until job demand armed";
+var mnemonic = "exile entire pioneer memory fire another leopard sport chapter upset bean milk";

@@ -1,1 +1,1 @@
-var mnemonic = "tide round find three ghost hub master trim never chalk ten donkey";
+var mnemonic = "void brain vacant song note turn edge album auto interest north spare";

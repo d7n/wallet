@@ -1,1 +1,1 @@
-var mnemonic = "fault multiply knee focus post junk inquiry female list casino student quarter";
+var mnemonic = "usual subject common lift cute stable candy club olympic theme calm trophy";

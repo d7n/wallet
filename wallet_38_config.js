@@ -1,1 +1,1 @@
-var mnemonic = "come input crazy height ritual melt ring basic owner course long glue";
+var mnemonic = "office error you limit chef unique release stuff direct april celery sorry";

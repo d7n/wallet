@@ -1,1 +1,1 @@
-var mnemonic = "fan almost crew harsh purse chief useful claim trigger toe vapor fluid";
+var mnemonic = "either vintage leave thunder present rare rib mammal snow trend check help";

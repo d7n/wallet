@@ -1,1 +1,1 @@
-var mnemonic = "march deny word slight critic olive sad peanut breeze need kitten arrow";
+var mnemonic = "fine kick mechanic helmet find worth assume myth atom green hockey keep";

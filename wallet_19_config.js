@@ -1,1 +1,1 @@
-var mnemonic = "sting few ticket light concert reform trip power economy capital trophy still";
+var mnemonic = "bullet change unusual umbrella head canvas canyon risk hundred stamp monkey song";

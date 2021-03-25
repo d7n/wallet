@@ -1,1 +1,1 @@
-var mnemonic = "dawn weird vessel wrist sail style couch mobile tank invite kind taste";
+var mnemonic = "indoor fashion category hungry trim december void ecology tomorrow hover range clock";

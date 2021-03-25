@@ -1,1 +1,1 @@
-var mnemonic = "tribe improve gate camera rail hawk unable license pioneer empower member scrub";
+var mnemonic = "talk wasp weasel wet amateur timber salon calm nothing talent inform cute";

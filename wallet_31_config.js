@@ -1,1 +1,1 @@
-var mnemonic = "spider vote cave pupil buddy wish inherit walnut swamp will trigger weasel";
+var mnemonic = "ask ancient adult comfort catch size solar pistol harbor stone soon mechanic";

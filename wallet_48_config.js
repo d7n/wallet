@@ -1,1 +1,1 @@
-var mnemonic = "bag strike female spice nation worry slight push rain cup engage raven";
+var mnemonic = "sad fiber feed person save turtle fun input orchard become manage digital";

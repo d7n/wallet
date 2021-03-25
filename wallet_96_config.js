@@ -1,1 +1,1 @@
-var mnemonic = "mixture price kingdom subway agree predict swift receive define together grain head";
+var mnemonic = "bicycle scheme pony enrich remind castle unknown clay purchase month duck start";

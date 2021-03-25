@@ -1,1 +1,1 @@
-var mnemonic = "expect core insane admit soft lamp enact typical mesh adult arena stumble";
+var mnemonic = "dose test repeat jazz awkward horse nose dinner must march swing measure";

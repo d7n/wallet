@@ -1,1 +1,1 @@
-var mnemonic = "marine quick message random skate stand spatial pink flash aunt hill stumble";
+var mnemonic = "lottery add thought find hope salt gun elite age hundred fatal prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction auction orphan rail analyst shove spin pipe mammal dry captain town";
+var mnemonic = "alert depart grief shed gown include adapt foster dose setup flower initial";

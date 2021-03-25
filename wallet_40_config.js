@@ -1,1 +1,1 @@
-var mnemonic = "wonder raven indicate trim retire casino silver near direct sponsor exclude secret";
+var mnemonic = "ecology work whip myth ripple upgrade volcano airport world office margin wet";

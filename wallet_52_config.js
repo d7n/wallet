@@ -1,1 +1,1 @@
-var mnemonic = "boss patrol husband miss brass seat response crunch tired wet word alley";
+var mnemonic = "favorite glad near sibling sleep eight behind torch estate toward movie dinosaur";

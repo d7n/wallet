@@ -1,1 +1,1 @@
-var mnemonic = "spoon cricket trust mail review toss fade electric frequent news goose know";
+var mnemonic = "raise desert path raise baby other stem kit relax lady shy waste";

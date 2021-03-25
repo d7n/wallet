@@ -1,1 +1,1 @@
-var mnemonic = "approve metal era great provide between diary lift pigeon nasty ripple coast";
+var mnemonic = "angle reason shoe ring pioneer gloom moon exhaust river awesome stick describe";

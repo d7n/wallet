@@ -1,1 +1,1 @@
-var mnemonic = "pioneer inhale onion meat artwork margin solar over pitch cup burger jewel";
+var mnemonic = "tackle talent shell wasp pool need foil slow mean cluster mean wise";

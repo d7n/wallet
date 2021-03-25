@@ -1,1 +1,1 @@
-var mnemonic = "much unhappy price dash marriage hand drama cattle layer mesh dizzy crumble";
+var mnemonic = "feature net search error thank frost pigeon soap mad reject damp enact";

@@ -1,1 +1,1 @@
-var mnemonic = "camera ancient evoke artist upset priority harvest often please raven assault cable";
+var mnemonic = "senior dolphin choice pig wall live school accuse put advice obtain churn";

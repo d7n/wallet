@@ -1,1 +1,1 @@
-var mnemonic = "crowd certain exclude weird grain behave hawk rice tonight almost excite tank";
+var mnemonic = "pear gas scheme shock bulb erosion spare catch body describe skate knee";

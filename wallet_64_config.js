@@ -1,1 +1,1 @@
-var mnemonic = "portion trend sand leader emotion spoon invest desert entry square uncle human";
+var mnemonic = "mystery banner hobby comfort physical woman laptop number pencil unlock scheme crop";

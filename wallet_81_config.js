@@ -1,1 +1,1 @@
-var mnemonic = "hard pyramid pretty poet topple orange clerk hedgehog bubble rather brick cart";
+var mnemonic = "gauge burger surface escape engine family close this equip random stumble law";

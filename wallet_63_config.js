@@ -1,1 +1,1 @@
-var mnemonic = "width project cable add album vault forget month music spoil bone friend";
+var mnemonic = "defense dirt process title asset crucial better abstract grocery flush museum grunt";

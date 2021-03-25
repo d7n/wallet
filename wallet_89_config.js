@@ -1,1 +1,1 @@
-var mnemonic = "lesson latin brave wink joke uniform maze away pet violin verb luggage";
+var mnemonic = "romance hello soon cinnamon hair upper oppose sentence flight glove today crystal";

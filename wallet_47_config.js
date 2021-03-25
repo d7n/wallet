@@ -1,1 +1,1 @@
-var mnemonic = "useful cement filter neck genre remain bunker neglect retreat judge strong globe";
+var mnemonic = "adjust pet silly crime absurd coffee candy turkey check chuckle wagon type";

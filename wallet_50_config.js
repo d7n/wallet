@@ -1,1 +1,1 @@
-var mnemonic = "uphold crash record talk key wedding quote return easily habit sustain aim";
+var mnemonic = "report blush public cram beef rough prison sunset entry visit aspect maple";

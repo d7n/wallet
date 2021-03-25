@@ -1,1 +1,1 @@
-var mnemonic = "winner palace bus bone brand actor unhappy stage mimic wheel pool lamp";
+var mnemonic = "century stove cushion adult bottom broccoli body apology arch cat arrive exercise";

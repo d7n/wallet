@@ -1,1 +1,1 @@
-var mnemonic = "exchange oil weekend parade dragon fee remain lava snow coil phrase engage";
+var mnemonic = "limb clean sniff erode accident doctor arm taste menu adult dust furnace";

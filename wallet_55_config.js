@@ -1,1 +1,1 @@
-var mnemonic = "coconut morning write reward drama melt stage cube federal video meat arctic";
+var mnemonic = "dilemma stay clump open defy flush large aerobic proud matrix roast traffic";

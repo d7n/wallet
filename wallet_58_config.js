@@ -1,1 +1,1 @@
-var mnemonic = "hybrid quiz element offer ten grow aisle embrace team foster miracle inquiry";
+var mnemonic = "tree door retreat trumpet order jump transfer host roof finger genre leader";

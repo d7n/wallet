@@ -1,1 +1,1 @@
-var mnemonic = "jump erupt level hurt state deposit idle scatter spot high satoshi orange";
+var mnemonic = "patrol humble finger kick gospel neglect document disease business favorite segment absorb";

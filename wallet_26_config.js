@@ -1,1 +1,1 @@
-var mnemonic = "hour number happy joy resist sibling club desk ordinary pepper hawk crash";
+var mnemonic = "behind observe left water rose idea cement bundle orchard truly fade rely";

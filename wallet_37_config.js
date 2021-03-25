@@ -1,1 +1,1 @@
-var mnemonic = "caution advance actor anger miracle gadget win math brief level powder citizen";
+var mnemonic = "act spray result wire patrol voyage nut lift horn cancel pipe discover";

@@ -1,1 +1,1 @@
-var mnemonic = "empower immune bomb pony hamster ketchup soda true cash foster canyon tag";
+var mnemonic = "myth sick kitchen find round insect enjoy congress march carpet lunch conduct";

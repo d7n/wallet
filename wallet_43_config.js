@@ -1,1 +1,1 @@
-var mnemonic = "ring gown fade soon concert arrange trouble online together angry find ordinary";
+var mnemonic = "dish essence column velvet weasel notable enrich armed section similar clump panel";

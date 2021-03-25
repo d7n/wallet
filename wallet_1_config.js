@@ -1,1 +1,1 @@
-var mnemonic = "image brisk unveil flight boost earth advance exhibit parade plastic renew people";
+var mnemonic = "update whip egg arena sweet law safe sudden super tiger goose record";

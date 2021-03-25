@@ -1,1 +1,1 @@
-var mnemonic = "then can fog unknown shallow carpet miss cheese oyster harvest entry above";
+var mnemonic = "metal help truck asset never love library captain include upset impulse duty";

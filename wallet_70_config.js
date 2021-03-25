@@ -1,1 +1,1 @@
-var mnemonic = "best swarm garment build team resist knee feature people annual outer ladder";
+var mnemonic = "habit purchase letter tube minute web mouse cousin connect step position material";

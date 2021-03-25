@@ -1,1 +1,1 @@
-var mnemonic = "bargain special awesome prosper roof nothing weasel march insect treat farm bulk";
+var mnemonic = "grain happy piano tackle market air body sound idle card prefer faith";

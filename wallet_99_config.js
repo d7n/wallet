@@ -1,1 +1,1 @@
-var mnemonic = "combine original minimum soul basic recipe warrior boss cabin over retreat lady";
+var mnemonic = "kit lizard offer guilt toward betray rifle sleep essay holiday woman raise";

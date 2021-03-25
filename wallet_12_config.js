@@ -1,1 +1,1 @@
-var mnemonic = "knife code woman where develop divorce impose child push cart trend solution";
+var mnemonic = "guess claw flock wool note reduce genre flavor normal joy slice distance";

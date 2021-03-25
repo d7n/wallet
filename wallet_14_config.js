@@ -1,1 +1,1 @@
-var mnemonic = "nuclear garlic shrug asthma library problem crisp angle expect fruit drink system";
+var mnemonic = "trap unaware witness jaguar neglect promote polar anxiety state stuff demise assume";

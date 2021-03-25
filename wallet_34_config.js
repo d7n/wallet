@@ -1,1 +1,1 @@
-var mnemonic = "disagree recall wedding glory twist region tide this taxi prize tortoise sleep";
+var mnemonic = "ride spawn try gas narrow bus point section eager gasp lend trial";

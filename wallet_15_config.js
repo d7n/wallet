@@ -1,1 +1,1 @@
-var mnemonic = "lounge task outer pet wild broom install plastic soul sheriff hood short";
+var mnemonic = "danger umbrella duty poverty blast floor trial tail ripple ignore clay memory";

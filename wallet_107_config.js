@@ -1,1 +1,1 @@
-var mnemonic = "actor distance initial school toe blush awkward bachelor purse upon network wolf";
+var mnemonic = "age now refuse pill giggle nephew jelly bind scrub bundle roast cigar";

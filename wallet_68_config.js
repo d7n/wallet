@@ -1,1 +1,1 @@
-var mnemonic = "afford noise drill awesome venture cross wear midnight mercy eagle sniff blame";
+var mnemonic = "ginger enemy short supreme diagram model floor humor swim gold improve radio";

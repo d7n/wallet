@@ -1,1 +1,1 @@
-var mnemonic = "portion monitor fringe frown detail social vicious street between upper length mammal";
+var mnemonic = "stomach harvest refuse egg answer fan later forest iron sure primary clock";

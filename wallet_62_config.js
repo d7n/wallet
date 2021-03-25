@@ -1,1 +1,1 @@
-var mnemonic = "odor forget curious mask mask curtain island arch must galaxy later tuition";
+var mnemonic = "dinosaur urge client ethics stock cupboard genuine story before sponsor just true";

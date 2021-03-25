@@ -1,1 +1,1 @@
-var mnemonic = "violin humble blue world math lecture indoor fame problem swift chaos pear";
+var mnemonic = "update capital sibling click catalog narrow town bacon calm have april neglect";

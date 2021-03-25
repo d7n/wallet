@@ -1,1 +1,1 @@
-var mnemonic = "upon episode switch nuclear code federal dry purpose torch glimpse unit carbon";
+var mnemonic = "noise nose climb direct reject arrange hub defy shock purpose pause despair";

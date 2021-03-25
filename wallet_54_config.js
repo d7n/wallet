@@ -1,1 +1,1 @@
-var mnemonic = "napkin response fetch warm regular biology pulse camera crouch age half more";
+var mnemonic = "observe team neither match jazz deer wage dune wheat involve goat install";

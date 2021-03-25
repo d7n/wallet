@@ -1,1 +1,1 @@
-var mnemonic = "tag six spirit tomorrow surprise seven tube humor zebra pottery green permit";
+var mnemonic = "cotton vanish height tuition lazy inquiry chair merit capital token sweet donate";

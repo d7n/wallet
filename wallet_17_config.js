@@ -1,1 +1,1 @@
-var mnemonic = "begin stadium gauge champion frost obey song skirt help brass proud squeeze";
+var mnemonic = "barely pretty federal ski host phrase direct nest other physical sketch diamond";

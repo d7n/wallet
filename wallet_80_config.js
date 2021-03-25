@@ -1,1 +1,1 @@
-var mnemonic = "turtle cousin race ladder apart detail save solid limb smooth carry frequent";
+var mnemonic = "cheap great animal prosper cloth sadness analyst human involve build point top";
