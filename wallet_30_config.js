@@ -1,1 +1,1 @@
-var mnemonic = "child zero glance coach mean napkin unfold coach foot club peasant close";
+var mnemonic = "door giggle cattle taxi seek tennis attend tooth hello spell ladder girl";

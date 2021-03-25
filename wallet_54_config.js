@@ -1,1 +1,1 @@
-var mnemonic = "artefact easily twelve face casino park service luxury earn fame decrease despair";
+var mnemonic = "make combine girl rent spell flavor rich shell quick annual soft glove";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter ribbon harvest since run later twice yellow hold hurry silk kingdom";
+var mnemonic = "feature dumb cross bench render brief believe audit common lyrics script credit";

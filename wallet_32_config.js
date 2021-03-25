@@ -1,1 +1,1 @@
-var mnemonic = "bleak hill future depth blanket icon one heart icon between junk toast";
+var mnemonic = "legal tomorrow inside object duty habit radio naive shock few must suit";

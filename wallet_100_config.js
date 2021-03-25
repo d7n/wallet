@@ -1,1 +1,1 @@
-var mnemonic = "glimpse siren size language decade exchange isolate sign rigid trick pulp burst";
+var mnemonic = "capital claw galaxy hour grunt share seven snow finish inform divide under";

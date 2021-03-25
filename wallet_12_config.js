@@ -1,1 +1,1 @@
-var mnemonic = "rule hover sea coach trip raven dove expect wage debate day mule";
+var mnemonic = "wealth metal ketchup poverty virus sock library daring rookie often segment opinion";

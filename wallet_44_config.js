@@ -1,1 +1,1 @@
-var mnemonic = "horror away lake exhaust hedgehog diamond umbrella siren eye kangaroo trend train";
+var mnemonic = "scrap label income ticket sausage drip morning crouch pen deposit onion rail";

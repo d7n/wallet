@@ -1,1 +1,1 @@
-var mnemonic = "era primary deputy warm verify omit shoe vendor spring boss marine owner";
+var mnemonic = "biology fury possible depth drama summer age vessel motion thrive core garlic";

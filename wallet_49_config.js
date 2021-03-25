@@ -1,1 +1,1 @@
-var mnemonic = "pipe stomach assist accuse resource juice between wheat hold voyage suit unique";
+var mnemonic = "catalog wrap sustain jazz render tail february erosion brown thumb chunk tool";

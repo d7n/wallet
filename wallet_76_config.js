@@ -1,1 +1,1 @@
-var mnemonic = "direct sleep repair warfare quantum wall erosion blame dash barely local raccoon";
+var mnemonic = "prepare chase roof bright harbor rich police guard uncle elder message pause";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon camera yellow absurd bunker liar object visit know leader reduce dynamic";
+var mnemonic = "wing blur stem mutual file dream hockey long visit urge favorite acoustic";

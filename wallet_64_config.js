@@ -1,1 +1,1 @@
-var mnemonic = "bone donkey reflect tattoo march few drift strategy boss person tonight chunk";
+var mnemonic = "hospital clutch region impose claim puzzle above riot lake expose betray mix";

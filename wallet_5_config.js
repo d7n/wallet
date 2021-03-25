@@ -1,1 +1,1 @@
-var mnemonic = "dune fetch ramp paddle broom flavor spray riot follow panda stadium equip";
+var mnemonic = "toy blouse surge measure surprise dad foot corn fork audit enjoy express";

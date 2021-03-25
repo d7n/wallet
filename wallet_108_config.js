@@ -1,1 +1,1 @@
-var mnemonic = "like maximum day segment maze chunk trend plastic keen silly ramp goddess";
+var mnemonic = "fee decrease super orphan snack huge unusual enemy boring danger ready thing";

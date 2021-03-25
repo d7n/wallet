@@ -1,1 +1,1 @@
-var mnemonic = "badge alpha wrong ask eternal all shallow dance hub pepper team pipe";
+var mnemonic = "favorite swamp guess now oak roast earth install awesome slam habit rhythm";

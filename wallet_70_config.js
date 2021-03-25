@@ -1,1 +1,1 @@
-var mnemonic = "buzz sheriff kick state negative carpet hero answer deny online arena human";
+var mnemonic = "lens rebel finger sudden cannon unlock clutch loan bulb alpha evolve size";

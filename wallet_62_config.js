@@ -1,1 +1,1 @@
-var mnemonic = "rubber century universe obvious fame senior ill orchard since option visual brother";
+var mnemonic = "train bracket consider acoustic bronze off iron cancel bean foot kid damage";

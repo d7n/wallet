@@ -1,1 +1,1 @@
-var mnemonic = "child physical rigid license tag retire daring menu retire easy build day";
+var mnemonic = "flee disagree clap acoustic manual goose lawsuit renew universe risk taxi fence";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive install flight absorb assume try picnic path genre fox circle then";
+var mnemonic = "turtle smart social rare dynamic pizza satisfy ready crush media zone multiply";

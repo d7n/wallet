@@ -1,1 +1,1 @@
-var mnemonic = "canal box hungry winner smile luggage drill more notable taste race matrix";
+var mnemonic = "soda fetch pistol online mix unit ritual title try assume prison nice";

@@ -1,1 +1,1 @@
-var mnemonic = "coil best farm pottery limit reflect margin scatter alpha oblige easily radar";
+var mnemonic = "attend win erupt auto machine side today maze garden final tide food";

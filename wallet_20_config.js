@@ -1,1 +1,1 @@
-var mnemonic = "bread merit wet prize cabin apart jelly wonder enter garment any beach";
+var mnemonic = "cost model creek because bus pumpkin trend toward scheme present frequent gate";

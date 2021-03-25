@@ -1,1 +1,1 @@
-var mnemonic = "prize emerge mimic dentist carry hedgehog daughter casual utility lunar repair oven";
+var mnemonic = "enable occur talk lawsuit clerk exist increase gloom mandate remind sunny mercy";

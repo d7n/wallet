@@ -1,1 +1,1 @@
-var mnemonic = "flock almost chair setup unlock art salmon merge relief sign guide critic";
+var mnemonic = "salute nasty yellow employ bitter tape stamp uphold three clip worry night";

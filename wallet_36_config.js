@@ -1,1 +1,1 @@
-var mnemonic = "universe spoon wait about key smart build until first sorry auction night";
+var mnemonic = "primary middle rabbit adjust photo tackle napkin relief cross bomb liberty belt";

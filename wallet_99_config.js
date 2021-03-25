@@ -1,1 +1,1 @@
-var mnemonic = "angle dose slim tone fame year dance prize enable anxiety same earn";
+var mnemonic = "image daring rabbit open wool mistake any panda almost odor ready clap";

@@ -1,1 +1,1 @@
-var mnemonic = "auction issue thank bicycle taxi violin item exclude ladder alert habit girl";
+var mnemonic = "lock snow write extend critic drive over december company fringe cousin eternal";

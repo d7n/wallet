@@ -1,1 +1,1 @@
-var mnemonic = "focus ring metal lizard provide globe front anxiety face someone spike view";
+var mnemonic = "scrap rifle thumb equal toy wish steel army ski pelican busy foster";

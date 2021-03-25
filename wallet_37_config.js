@@ -1,1 +1,1 @@
-var mnemonic = "obvious eyebrow pink casino round street squeeze retire immune drip sweet runway";
+var mnemonic = "sauce yellow afford weather mirror debate safe industry twin half drive food";

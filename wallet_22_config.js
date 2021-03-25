@@ -1,1 +1,1 @@
-var mnemonic = "edit donor small ride main clever arm fit exist wage nut taste";
+var mnemonic = "salmon slot lion neck hundred crop page must despair survey gravity smooth";

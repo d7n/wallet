@@ -1,1 +1,1 @@
-var mnemonic = "bonus auction farm rice scan actor enough desk unfold rather worry keen";
+var mnemonic = "brick fall flame agent crouch favorite method clean mandate decline destroy earn";

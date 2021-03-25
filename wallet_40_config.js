@@ -1,1 +1,1 @@
-var mnemonic = "fiber catalog economy crisp rally pupil decide usual ladder decade damage gorilla";
+var mnemonic = "social defy order caution multiply practice abuse door spoon feed cycle about";

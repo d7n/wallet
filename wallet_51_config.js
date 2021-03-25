@@ -1,1 +1,1 @@
-var mnemonic = "busy rug female found report number leg razor curtain potato aim slice";
+var mnemonic = "shaft make furnace bacon earth mule clog enroll jelly apple pottery cute";

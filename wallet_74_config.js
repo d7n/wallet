@@ -1,1 +1,1 @@
-var mnemonic = "pyramid barrel have lava segment spice toss example endorse neutral message hotel";
+var mnemonic = "scrub uncle garment spoil celery shrug album timber bench vault salmon assist";

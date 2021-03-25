@@ -1,1 +1,1 @@
-var mnemonic = "barrel cover south seminar simple ice humble celery plug elegant night whale";
+var mnemonic = "promote noble cash ribbon sport proud immense network other ladder blanket twice";

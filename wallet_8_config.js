@@ -1,1 +1,1 @@
-var mnemonic = "mercy scan high measure solve dress top twin sustain express gorilla issue";
+var mnemonic = "glare effort flame trap maze chaos tape repeat tackle shell pyramid vast";

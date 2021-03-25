@@ -1,1 +1,1 @@
-var mnemonic = "clerk hold picnic monkey peasant evoke know tent stage stone actress sweet";
+var mnemonic = "code mobile kick token situate peace dog sudden seat stage space elite";

@@ -1,1 +1,1 @@
-var mnemonic = "vast insect brick twelve hospital motion trumpet satisfy cover bullet will provide";
+var mnemonic = "syrup gasp flee put video pistol vibrant subject board enlist life typical";

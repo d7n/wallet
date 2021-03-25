@@ -1,1 +1,1 @@
-var mnemonic = "home fever follow enemy depth south virtual category husband zebra degree fog";
+var mnemonic = "help pink logic spatial casino wrist boring faint paper beyond easily luxury";

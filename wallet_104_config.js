@@ -1,1 +1,1 @@
-var mnemonic = "budget regular marble energy jelly south drastic kit goose people clay warrior";
+var mnemonic = "wage decorate couch appear donate visa labor fat arch multiply enforce owner";

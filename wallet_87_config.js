@@ -1,1 +1,1 @@
-var mnemonic = "lazy bring repair baby enough retire canal radar protect unusual jealous genre";
+var mnemonic = "creek cry vault shadow island later plastic scale fee door initial humor";

@@ -1,1 +1,1 @@
-var mnemonic = "always recipe round forward pig mom ritual true eagle insect spread mother";
+var mnemonic = "tube play suspect lucky item clinic panda gadget quarter hand clap similar";

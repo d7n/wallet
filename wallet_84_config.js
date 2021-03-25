@@ -1,1 +1,1 @@
-var mnemonic = "almost tank vote all essay emerge mask gas guide maximum belt alpha";
+var mnemonic = "clarify trick turn manual orient convince winter machine seed lemon stomach donkey";

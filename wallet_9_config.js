@@ -1,1 +1,1 @@
-var mnemonic = "snack any steel marble suggest remember token stage impose traffic phrase pond";
+var mnemonic = "priority muffin nation desk common strategy drill mushroom mercy miracle tail lamp";

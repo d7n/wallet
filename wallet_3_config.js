@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo squeeze rain narrow glimpse thumb just then pluck absent cotton stock";
+var mnemonic = "museum turn identify hobby theme group vehicle expect enact barrel swim bundle";

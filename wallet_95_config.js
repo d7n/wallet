@@ -1,1 +1,1 @@
-var mnemonic = "cliff van million device giggle arrive cabbage ramp adapt goose genius custom";
+var mnemonic = "toilet betray pretty merge finger time autumn primary error piece hunt heavy";

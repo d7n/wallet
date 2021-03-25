@@ -1,1 +1,1 @@
-var mnemonic = "spin egg coin gravity share gold warrior gasp civil voice image second";
+var mnemonic = "normal gorilla route key pulp other style blanket unfold spawn brief lecture";

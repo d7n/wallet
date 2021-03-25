@@ -1,1 +1,1 @@
-var mnemonic = "ball bread artwork dignity monkey egg defy hotel rival balcony giraffe era";
+var mnemonic = "identify rib treat cat garbage predict denial icon video right clock toward";

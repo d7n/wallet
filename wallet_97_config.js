@@ -1,1 +1,1 @@
-var mnemonic = "marine gym brick steel rebuild race essence pact badge noodle multiply coral";
+var mnemonic = "joy garden decade remain alien crime inhale brisk soldier adjust deposit prize";

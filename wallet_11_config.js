@@ -1,1 +1,1 @@
-var mnemonic = "insect can nose praise swallow notice artefact mixture mango sun buzz drum";
+var mnemonic = "sustain pilot chimney utility soon afraid flag knee romance erase language winner";

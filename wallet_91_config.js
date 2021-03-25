@@ -1,1 +1,1 @@
-var mnemonic = "around helmet brown use orphan faint victory napkin half width agent voyage";
+var mnemonic = "panther demise blast scissors siege husband initial chaos assist priority couple auto";

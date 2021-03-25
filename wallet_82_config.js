@@ -1,1 +1,1 @@
-var mnemonic = "close metal frog pulp bicycle cross one odor together stone audit sauce";
+var mnemonic = "poem divert spoon uniform rose father trumpet hybrid eight pudding jelly lens";

@@ -1,1 +1,1 @@
-var mnemonic = "speed voyage round entire motor reflect annual fall castle forget song knock";
+var mnemonic = "gravity hawk desk property pulp cattle prosper away flat elevator strong priority";

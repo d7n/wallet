@@ -1,1 +1,1 @@
-var mnemonic = "electric sound follow tray shadow head once meat glory slogan divorce ship";
+var mnemonic = "sand poem alien gloom sponsor source rural spend turkey over boy hint";

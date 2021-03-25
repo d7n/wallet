@@ -1,1 +1,1 @@
-var mnemonic = "cross south such drama labor brand hotel exchange honey vote skirt steak";
+var mnemonic = "proof gift wife tower double search adjust orphan among sweet engine load";

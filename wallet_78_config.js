@@ -1,1 +1,1 @@
-var mnemonic = "august script fee awesome piece fabric unhappy ribbon business wash miss shift";
+var mnemonic = "session tissue true glimpse urge caution female only drive wash exile puzzle";

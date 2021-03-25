@@ -1,1 +1,1 @@
-var mnemonic = "super small reveal rail visual spoon host general trust solve since equip";
+var mnemonic = "street anchor until strong strong surprise kitchen ill tornado lizard acquire pelican";

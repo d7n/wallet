@@ -1,1 +1,1 @@
-var mnemonic = "predict exotic grape erase build pond video wife excess key unhappy dentist";
+var mnemonic = "clap tool renew stumble judge ill enlist move math awkward cement pole";

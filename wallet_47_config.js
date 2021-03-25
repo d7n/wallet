@@ -1,1 +1,1 @@
-var mnemonic = "doctor virus want bacon truth crawl chase anxiety alien keep market atom";
+var mnemonic = "slam useful first update unaware length want measure before science organ sting";

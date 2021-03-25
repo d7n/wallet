@@ -1,1 +1,1 @@
-var mnemonic = "casual multiply sleep enact rubber bicycle stand clever flower army prosper whisper";
+var mnemonic = "awesome stay service cable actress armor orchard document habit kiss trip number";

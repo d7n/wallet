@@ -1,1 +1,1 @@
-var mnemonic = "bottom salute trust cover praise borrow add dolphin tail fever leader embrace";
+var mnemonic = "attitude wrap offer nerve flip icon rib rifle world inspire argue slam";

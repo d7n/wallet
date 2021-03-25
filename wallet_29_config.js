@@ -1,1 +1,1 @@
-var mnemonic = "buffalo foster obscure net immense rain actress latin bounce hole rural obtain";
+var mnemonic = "brain idea gadget gauge bacon duty island ghost range fish genre reduce";

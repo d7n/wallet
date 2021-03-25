@@ -1,1 +1,1 @@
-var mnemonic = "leaf spike please stadium club dove mutual install simple total that purpose";
+var mnemonic = "bench sea famous wage lab source clutch shove tail skull whip dizzy";

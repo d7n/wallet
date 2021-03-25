@@ -1,1 +1,1 @@
-var mnemonic = "weird stage shield frog virus junk open level corn gate height source";
+var mnemonic = "silly short world output promote mule just violin hurry trap strike help";

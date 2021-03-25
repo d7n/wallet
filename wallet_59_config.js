@@ -1,1 +1,1 @@
-var mnemonic = "talk enough invite meadow chase pave chase economy trip stool neither chimney";
+var mnemonic = "trade blossom pilot potato faint appear jacket join unable thing elbow couple";

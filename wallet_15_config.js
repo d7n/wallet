@@ -1,1 +1,1 @@
-var mnemonic = "slot boat define morning layer insane utility junior infant slim borrow limit";
+var mnemonic = "first sing brand student elephant early option marine public visual giraffe chuckle";

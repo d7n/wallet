@@ -1,1 +1,1 @@
-var mnemonic = "plate erosion govern project imitate track labor snow crack crucial matrix object";
+var mnemonic = "caution load thing rebuild salon pattern seek salmon kidney picnic move laundry";

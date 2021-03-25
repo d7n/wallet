@@ -1,1 +1,1 @@
-var mnemonic = "opera cupboard toss security pipe slide member champion say sick light ripple";
+var mnemonic = "february repair napkin noble tooth elite punch twist twin detect payment detect";

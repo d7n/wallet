@@ -1,1 +1,1 @@
-var mnemonic = "recycle require vendor simple sight define before pelican airport empower celery wide";
+var mnemonic = "own empty loan van island volume canvas garden company actual elite kidney";

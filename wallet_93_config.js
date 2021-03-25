@@ -1,1 +1,1 @@
-var mnemonic = "detect thought hole bronze miracle layer tip okay travel noble grocery toward";
+var mnemonic = "pulse moment click pass gasp private horn poverty sign grant hospital divert";

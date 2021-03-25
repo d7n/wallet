@@ -1,1 +1,1 @@
-var mnemonic = "immense suggest dress pact ethics artwork tennis say stone quiz expire gate";
+var mnemonic = "merry shield depth produce error bulk embody salmon barely lunar theory grace";

@@ -1,1 +1,1 @@
-var mnemonic = "roof book black retire endless light embody three door say return document";
+var mnemonic = "view style split essence mistake select control legend style erode heavy law";

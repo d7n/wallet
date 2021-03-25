@@ -1,1 +1,1 @@
-var mnemonic = "float update cotton brass walnut attract forum attract diary agree file resource";
+var mnemonic = "wait antenna high local alpha hope open load torch cabin gate success";

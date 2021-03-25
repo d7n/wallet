@@ -1,1 +1,1 @@
-var mnemonic = "finger margin express cherry top ripple alien kitchen desk consider trial duty";
+var mnemonic = "glimpse script pigeon bamboo review crumble army distance satoshi pool wood impulse";

@@ -1,1 +1,1 @@
-var mnemonic = "excite shield fiber melody fox eternal near drift rotate universe connect rack";
+var mnemonic = "jealous push unhappy silk unfold miss december shift elegant hand wagon naive";

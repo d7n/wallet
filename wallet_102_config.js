@@ -1,1 +1,1 @@
-var mnemonic = "hover lock giant earn auction shell ceiling excuse skirt budget theme error";
+var mnemonic = "spice shy interest youth picnic knock post armor project love cube ankle";

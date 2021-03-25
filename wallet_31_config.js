@@ -1,1 +1,1 @@
-var mnemonic = "depth flock hour final onion resource hockey unable vintage eyebrow nose cannon";
+var mnemonic = "drip near picture dice toe note frozen dust remind yard celery night";

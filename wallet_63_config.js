@@ -1,1 +1,1 @@
-var mnemonic = "club trade fatal coconut obtain unfold rain select under category dignity muffin";
+var mnemonic = "shallow expect april theory typical solution domain jealous staff same palm gospel";

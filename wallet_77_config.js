@@ -1,1 +1,1 @@
-var mnemonic = "approve walnut chapter brass volume gospel exile exchange year found exotic pelican";
+var mnemonic = "fabric sock limit used diagram radar rule security perfect program ill ice";

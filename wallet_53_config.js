@@ -1,1 +1,1 @@
-var mnemonic = "must vacant rely already caught direct hand mobile crash excess sadness spy";
+var mnemonic = "neither write milk tooth powder home trick team consider unique erupt then";

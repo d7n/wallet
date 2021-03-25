@@ -1,1 +1,1 @@
-var mnemonic = "soon tuition hat liar typical gap anger soon source squirrel together milk";
+var mnemonic = "attitude wide suspect vivid gasp cat avocado narrow pipe ethics neglect fatigue";

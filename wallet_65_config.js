@@ -1,1 +1,1 @@
-var mnemonic = "frown notice stay equip egg gas appear major crystal safe skull hobby";
+var mnemonic = "february kidney grow diesel spread casino story orchard group liquid purity feel";

@@ -1,1 +1,1 @@
-var mnemonic = "almost kid certain erode chunk toss awake escape local rib boy camp";
+var mnemonic = "energy ecology evidence scout engine leg sample test misery jealous practice select";

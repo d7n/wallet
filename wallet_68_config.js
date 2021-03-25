@@ -1,1 +1,1 @@
-var mnemonic = "young now trust furnace sentence bus ginger learn nasty catalog story topic";
+var mnemonic = "time merit above such erode member hockey play gesture sock flavor repeat";

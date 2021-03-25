@@ -1,1 +1,1 @@
-var mnemonic = "bamboo home mandate target drill garlic shadow apple wall heavy diagram arrange";
+var mnemonic = "jealous vague champion deer grape brief uniform kidney wealth turn wide rain";

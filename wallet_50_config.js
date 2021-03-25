@@ -1,1 +1,1 @@
-var mnemonic = "height face stamp field razor fiber fetch metal decline relief diagram idle";
+var mnemonic = "chicken drum castle video purpose topple infant elite metal ladder fun position";

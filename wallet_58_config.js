@@ -1,1 +1,1 @@
-var mnemonic = "palace nation stand best ceiling exhaust fish angle glass secret pass mass";
+var mnemonic = "other fringe arctic oyster curious online involve tray allow person update enough";

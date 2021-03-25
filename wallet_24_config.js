@@ -1,1 +1,1 @@
-var mnemonic = "gaze filter rice reject solve approve jeans swallow firm vintage saddle veteran";
+var mnemonic = "swap inflict unit ask daring ripple vault below urban grid blame inhale";

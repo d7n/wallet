@@ -1,1 +1,1 @@
-var mnemonic = "then faint select draw gift wish rail wedding whip liquid setup spider";
+var mnemonic = "alarm hip token axis under rule salon adult february panel country social";

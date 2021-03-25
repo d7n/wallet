@@ -1,1 +1,1 @@
-var mnemonic = "wrestle around damage sea erosion sea pink theory board extend rifle fork";
+var mnemonic = "excess sustain into great emotion february click merry elephant baby echo keep";

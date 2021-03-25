@@ -1,1 +1,1 @@
-var mnemonic = "fold gown tide enlist alcohol win merit stock cook combine few obscure";
+var mnemonic = "weapon derive picnic post vault divide blame online knock side garment awkward";

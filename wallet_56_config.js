@@ -1,1 +1,1 @@
-var mnemonic = "car maid either comfort before crouch brush brother ritual stereo milk suit";
+var mnemonic = "isolate close turtle another maple select allow noble assist can inspire hour";

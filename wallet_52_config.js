@@ -1,1 +1,1 @@
-var mnemonic = "mystery ugly chair elegant prize life million chuckle grape typical tornado dirt";
+var mnemonic = "drip trial aerobic remind clarify friend pyramid that tube olive diamond dish";

@@ -1,1 +1,1 @@
-var mnemonic = "cash spider jaguar creek suspect squeeze few depend leader permit hair escape";
+var mnemonic = "mammal correct copy ahead castle adjust trend neck shock habit pottery clock";

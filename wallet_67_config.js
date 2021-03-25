@@ -1,1 +1,1 @@
-var mnemonic = "rely clean banana grit mobile achieve veteran image debate sun grief famous";
+var mnemonic = "naive october either split protect pear master helmet horn zoo demise mass";

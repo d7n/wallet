@@ -1,1 +1,1 @@
-var mnemonic = "arrange sail point kitchen kiss venture wide budget sense home hospital grab";
+var mnemonic = "muffin pulse gorilla evidence dinner warrior lonely armor put upset town slender";

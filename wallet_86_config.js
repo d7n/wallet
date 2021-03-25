@@ -1,1 +1,1 @@
-var mnemonic = "yellow ivory answer taxi unaware route order team phrase siren hotel butter";
+var mnemonic = "spider pudding vacant skull bachelor brief year trick wrestle donate collect girl";

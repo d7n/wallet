@@ -1,1 +1,1 @@
-var mnemonic = "idea tower small pluck myself ribbon tray silk reform erode echo giggle";
+var mnemonic = "alcohol spirit noble best sing wreck observe detect paddle length skate ritual";
