@@ -1,1 +1,1 @@
-var mnemonic = "blur fire thing profit author letter fog cluster follow crater piece cloud";
+var mnemonic = "junk plug chest define benefit host soda rack miracle stable prison empower";

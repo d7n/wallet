@@ -1,1 +1,1 @@
-var mnemonic = "develop team cabbage moment future joy chair yard cannon monster wagon raccoon";
+var mnemonic = "permit cheap agree kidney ghost cliff hobby cash normal sentence boil move";

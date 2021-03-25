@@ -1,1 +1,1 @@
-var mnemonic = "fluid life example rival jacket friend candy swap kiwi immune bar exhaust";
+var mnemonic = "canvas credit happy diamond coffee captain stamp turn clerk wine grow economy";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar throw glow pattern load alcohol farm exchange record puzzle brisk worth";
+var mnemonic = "antique gallery change remind ring legend kitchen state defense vanish earth media";

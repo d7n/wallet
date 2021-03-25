@@ -1,1 +1,1 @@
-var mnemonic = "heavy box essence penalty stick tongue hotel cup step derive much taxi";
+var mnemonic = "predict toy curious wealth lunar work fault cash will sea ship daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "also grocery arrow order churn spare foil divert drill payment often holiday";
+var mnemonic = "entire need moment grass cabin speed envelope have moment tattoo switch spray";

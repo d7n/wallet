@@ -1,1 +1,1 @@
-var mnemonic = "flee predict live author discover grow release aerobic buffalo rough process unknown";
+var mnemonic = "talk divorce army illness kit cupboard world key alley crew option elegant";

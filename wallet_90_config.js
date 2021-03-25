@@ -1,1 +1,1 @@
-var mnemonic = "satisfy embark cat column film time faith amount feature witness chair public";
+var mnemonic = "notice very myself happy hidden glimpse swim dress vacuum ranch giraffe swap";

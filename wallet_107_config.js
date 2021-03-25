@@ -1,1 +1,1 @@
-var mnemonic = "family pattern city supreme sight inform north again fun modify embark void";
+var mnemonic = "reduce narrow stock magic vast puppy solve stadium ship surround aunt hundred";

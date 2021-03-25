@@ -1,1 +1,1 @@
-var mnemonic = "sweet main rose clever sure climb sketch credit demise hedgehog option bulb";
+var mnemonic = "about response glad act start elephant crumble inner execute toward gain immune";

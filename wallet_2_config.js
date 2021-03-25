@@ -1,1 +1,1 @@
-var mnemonic = "convince man then close fire maze exile tell wage speak identify make";
+var mnemonic = "upset absurd tiger pet enact brain dial trouble captain middle outside siege";

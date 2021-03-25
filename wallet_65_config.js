@@ -1,1 +1,1 @@
-var mnemonic = "action ask iron magic uncover bounce permit pole more volume ankle burger";
+var mnemonic = "festival deputy floor garbage flip protect ahead dragon version spider awake laptop";

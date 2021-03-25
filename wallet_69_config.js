@@ -1,1 +1,1 @@
-var mnemonic = "fresh sword toilet bubble fence cram pact coyote coast armed captain wine";
+var mnemonic = "panel cargo movie silent piano venue sock dad bottom black chapter dragon";

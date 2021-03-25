@@ -1,1 +1,1 @@
-var mnemonic = "orphan raven wide indicate pull tuition predict unable reward spoon blouse verify";
+var mnemonic = "salt eagle swamp mean join check express vanish hurdle hole fix spider";

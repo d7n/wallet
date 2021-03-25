@@ -1,1 +1,1 @@
-var mnemonic = "advice innocent adjust dismiss stand soul remember video into write tortoise author";
+var mnemonic = "flame six margin athlete clip obscure dust cotton winner distance right hazard";

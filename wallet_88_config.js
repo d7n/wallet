@@ -1,1 +1,1 @@
-var mnemonic = "chimney stumble grief raw view member magic reject second claim alone business";
+var mnemonic = "claw process library what holiday hotel decrease vehicle boss rich little kit";

@@ -1,1 +1,1 @@
-var mnemonic = "museum another sick pact salon sense unit core trick recipe input emotion";
+var mnemonic = "slow series denial book century priority crane trip differ smile emotion health";

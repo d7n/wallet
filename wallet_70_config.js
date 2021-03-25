@@ -1,1 +1,1 @@
-var mnemonic = "earn gasp butter execute off boat scatter core bargain border clay bronze";
+var mnemonic = "property sense wish drill hedgehog cargo scrap modify true tuna payment pet";

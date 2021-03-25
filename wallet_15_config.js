@@ -1,1 +1,1 @@
-var mnemonic = "great estate run list erode board torch raise lumber develop damp cook";
+var mnemonic = "elder tornado diamond fit turkey daring prize shift dance bind produce milk";

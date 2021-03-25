@@ -1,1 +1,1 @@
-var mnemonic = "essay citizen limit click senior humor gorilla alone uncover exclude material lucky";
+var mnemonic = "chalk lawsuit leisure camera lamp fun reveal sister sudden during property you";

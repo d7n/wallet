@@ -1,1 +1,1 @@
-var mnemonic = "toddler wrestle deal print false vacant wide dance wide pipe attend basic";
+var mnemonic = "gloom toddler movie venue lecture enroll web shock soul dress fancy north";

@@ -1,1 +1,1 @@
-var mnemonic = "goat bunker auction royal patrol someone similar timber exercise math secret crack";
+var mnemonic = "paddle embark judge conduct argue explain jaguar banana swing obtain humble build";

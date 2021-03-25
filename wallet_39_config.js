@@ -1,1 +1,1 @@
-var mnemonic = "guitar glove convince enable law process victory era economy enact panic draft";
+var mnemonic = "enough provide zoo expire verify ethics desert tide distance any input certain";

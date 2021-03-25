@@ -1,1 +1,1 @@
-var mnemonic = "sheriff better agent cry grape captain leg lawsuit hint job dish crawl";
+var mnemonic = "swarm walk below ritual material muscle furnace endless lion favorite art finger";

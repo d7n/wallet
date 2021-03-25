@@ -1,1 +1,1 @@
-var mnemonic = "victory success clip spatial elephant victory broccoli grit pride door salt daring";
+var mnemonic = "test bundle strong dismiss enhance come talent satisfy empty okay solid pelican";

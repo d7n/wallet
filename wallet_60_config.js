@@ -1,1 +1,1 @@
-var mnemonic = "link sausage chase luxury divert adapt rhythm aunt must pistol bulk sentence";
+var mnemonic = "rival melt bulk visit enjoy opera muscle flame noble sense sign index";

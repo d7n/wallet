@@ -1,1 +1,1 @@
-var mnemonic = "trip access unknown visa parent jungle great win blind logic knife clean";
+var mnemonic = "fringe enjoy romance lizard public long galaxy inside pulse squirrel include project";

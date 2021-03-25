@@ -1,1 +1,1 @@
-var mnemonic = "pistol awake kind metal alien camp flock trend always reopen frozen fox";
+var mnemonic = "fresh case sorry depth identify ride arena custom submit join one brick";

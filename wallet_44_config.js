@@ -1,1 +1,1 @@
-var mnemonic = "elevator wrestle cruel stomach shift sad fame there dose ability rocket truth";
+var mnemonic = "seminar brand turkey shove coyote found off come blanket hello model rule";

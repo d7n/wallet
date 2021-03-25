@@ -1,1 +1,1 @@
-var mnemonic = "mountain visa enough gasp unlock depart hobby spare maximum shrug fitness game";
+var mnemonic = "saddle excite audit security rocket flip table sweet album zero fabric tribe";

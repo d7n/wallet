@@ -1,1 +1,1 @@
-var mnemonic = "point install rifle fuel medal glass firm size engage defense pause faith";
+var mnemonic = "vocal hip release sock rude shell prison wild little peanut top crucial";

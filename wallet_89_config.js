@@ -1,1 +1,1 @@
-var mnemonic = "soda use surge broom over daring toward man spirit modify push into";
+var mnemonic = "tomorrow junior phone ranch among flower speak grit village fabric price young";

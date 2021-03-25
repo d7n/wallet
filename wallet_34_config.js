@@ -1,1 +1,1 @@
-var mnemonic = "resource tiger between brass security depth come flip dinner raw armor lecture";
+var mnemonic = "lucky aspect picture leader foil enhance design soldier broccoli venue stable turn";

@@ -1,1 +1,1 @@
-var mnemonic = "music brush remember domain merry across board expect puppy define visa fox";
+var mnemonic = "twist bounce industry edge police assist lion wire ethics sweet usual you";

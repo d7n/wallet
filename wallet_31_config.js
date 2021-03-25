@@ -1,1 +1,1 @@
-var mnemonic = "rookie spare collect sweet prison blast blanket uphold explain that core drink";
+var mnemonic = "hello frog betray earth habit world drip spring glad anger midnight deliver";

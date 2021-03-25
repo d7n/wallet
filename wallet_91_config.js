@@ -1,1 +1,1 @@
-var mnemonic = "common nuclear wear conduct someone gold leaf addict script lottery blue certain";
+var mnemonic = "solution joy milk loud exist square gadget flight priority attitude frog history";

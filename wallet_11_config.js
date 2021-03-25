@@ -1,1 +1,1 @@
-var mnemonic = "viable stool lift ski top into dragon dizzy rely mango uncle coyote";
+var mnemonic = "license speak retire blood holiday boss caught coin fluid drip hurdle heavy";

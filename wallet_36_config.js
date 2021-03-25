@@ -1,1 +1,1 @@
-var mnemonic = "autumn ridge spell salt detail drink noodle allow wife project fame coconut";
+var mnemonic = "harbor ride coast dizzy wine digital display you royal vote fault basket";

@@ -1,1 +1,1 @@
-var mnemonic = "elephant apology record concert never indicate analyst split trip sail elder snow";
+var mnemonic = "slush grit crisp deposit apology hero guard key inform brief conduct prison";

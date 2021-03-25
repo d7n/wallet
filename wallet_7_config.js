@@ -1,1 +1,1 @@
-var mnemonic = "harbor hello tray beyond primary rent worry tiger dutch panther umbrella top";
+var mnemonic = "together profit hospital bless doctor mix develop collect foil yard protect distance";

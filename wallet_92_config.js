@@ -1,1 +1,1 @@
-var mnemonic = "token quantum maximum purchase mass unfair forward tone clump link swallow west";
+var mnemonic = "solve fence enroll flock cinnamon december proof novel random tape insane rapid";

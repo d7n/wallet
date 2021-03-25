@@ -1,1 +1,1 @@
-var mnemonic = "inflict thrive gym popular squirrel climb cigar hamster cement wood cost certain";
+var mnemonic = "witness proof man more chimney effort today problem pencil say twist motion";

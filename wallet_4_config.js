@@ -1,1 +1,1 @@
-var mnemonic = "peanut click attack owner story alpha cheese decorate tag defy melt shrimp";
+var mnemonic = "double shadow cricket divert joy eternal when stairs bargain feel throw assault";

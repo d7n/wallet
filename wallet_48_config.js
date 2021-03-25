@@ -1,1 +1,1 @@
-var mnemonic = "virus swallow cliff vote moon broken address decrease dinner gentle moral buddy";
+var mnemonic = "tell unknown pull play secret result kit fetch bind entire slot young";

@@ -1,1 +1,1 @@
-var mnemonic = "sail oil wrist bridge reduce regret unfold mention amateur anger depth benefit";
+var mnemonic = "soup mandate concert estate obscure bid repeat horse attitude run gain matter";

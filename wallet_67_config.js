@@ -1,1 +1,1 @@
-var mnemonic = "response dash famous okay hungry finish elite tape dose swing vote chunk";
+var mnemonic = "bag invest enlist arch total success reflect hard dust sentence grit note";

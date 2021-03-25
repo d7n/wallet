@@ -1,1 +1,1 @@
-var mnemonic = "butter slice affair boat buzz regular volume spray sphere actual rib angry";
+var mnemonic = "truly tray proud chicken during company pulp latin palm dish add endless";

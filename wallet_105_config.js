@@ -1,1 +1,1 @@
-var mnemonic = "ordinary solve beauty effort hope anchor void produce panel idle sock goat";
+var mnemonic = "spend try tide apology destroy toward journey vacant calm side dwarf naive";

@@ -1,1 +1,1 @@
-var mnemonic = "economy spoon bullet warrior hurdle phone flock doll you dignity favorite squirrel";
+var mnemonic = "error walnut you vast problem garment ordinary hat legal dentist arrest buzz";

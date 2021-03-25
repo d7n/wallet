@@ -1,1 +1,1 @@
-var mnemonic = "surface park soft fortune correct pull beef slogan spare since pear east";
+var mnemonic = "brain stomach clay common guess position slim march dose expect when client";

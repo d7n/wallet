@@ -1,1 +1,1 @@
-var mnemonic = "sock error tooth author medal rose warrior gorilla question grant entry easily";
+var mnemonic = "genius crop tiny brief shadow eye soda awful soon toilet breeze length";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh table double school appear aerobic future slender depth force carbon sponsor";
+var mnemonic = "slow season universe dance fruit thrive tissue pair tiger hood goat spice";

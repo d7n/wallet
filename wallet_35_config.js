@@ -1,1 +1,1 @@
-var mnemonic = "situate always lizard steel market mixed onion never drive mom zone brown";
+var mnemonic = "beauty save quit senior oak rice broom fee shoot taxi debris increase";

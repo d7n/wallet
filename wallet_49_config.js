@@ -1,1 +1,1 @@
-var mnemonic = "april lazy layer gadget taste present orange banana large turkey cluster appear";
+var mnemonic = "thumb maple peanut dismiss perfect shop chuckle odor you provide enact robust";

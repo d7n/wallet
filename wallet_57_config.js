@@ -1,1 +1,1 @@
-var mnemonic = "daughter sport clump throw waste royal season fiscal boss strong tongue tip";
+var mnemonic = "abandon faith erase profit raw festival chef resource unable average raw clip";

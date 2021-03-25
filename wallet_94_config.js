@@ -1,1 +1,1 @@
-var mnemonic = "fashion latin path regret pull neglect ready scheme fox lady lazy taxi";
+var mnemonic = "window swear divert layer uncle cupboard viable kingdom island pencil scatter evolve";

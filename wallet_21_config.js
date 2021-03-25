@@ -1,1 +1,1 @@
-var mnemonic = "hobby control pride exist select record spoon cradle burger main antique ribbon";
+var mnemonic = "emotion rebel keen hungry frown intact hawk venue quantum symptom mean receive";

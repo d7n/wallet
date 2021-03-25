@@ -1,1 +1,1 @@
-var mnemonic = "feature supreme attitude pistol sunset stem noble nephew moment humor reunion habit";
+var mnemonic = "before toe prepare section menu hill zero mutual animal good diet slot";

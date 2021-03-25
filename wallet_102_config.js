@@ -1,1 +1,1 @@
-var mnemonic = "kiss empower senior six cost hat party salmon final when giggle forward";
+var mnemonic = "meat taxi assault order flight wreck zero sail bright cake fatal clinic";

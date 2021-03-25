@@ -1,1 +1,1 @@
-var mnemonic = "satisfy horse update rely exchange naive sport left chicken betray brave tackle";
+var mnemonic = "bread end stool voyage awful permit woman town miracle wedding ensure fiction";

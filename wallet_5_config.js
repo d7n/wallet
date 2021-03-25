@@ -1,1 +1,1 @@
-var mnemonic = "siren moon lift inside glue eye hill high solar object until flat";
+var mnemonic = "access february illness brave float unfold shoulder visual flavor action gold balance";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit beyond tourist fashion wrap visa wink spread program indoor flush gun";
+var mnemonic = "damp beyond host average stone vehicle couch brick interest egg winter shed";

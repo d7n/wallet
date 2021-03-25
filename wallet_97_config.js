@@ -1,1 +1,1 @@
-var mnemonic = "celery elbow alley runway liquid social output sibling soccer monkey canal blame";
+var mnemonic = "find begin dash mansion attend material brush arctic fresh voice mandate decade";

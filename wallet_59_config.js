@@ -1,1 +1,1 @@
-var mnemonic = "clean dutch sing parent hair country perfect judge frown ivory aunt bird";
+var mnemonic = "knife today spread multiply salad bean panic impose box battle guess cupboard";

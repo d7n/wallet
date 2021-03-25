@@ -1,1 +1,1 @@
-var mnemonic = "music stem smile space safe romance certain ice office sing drive height";
+var mnemonic = "design fame swamp token advance team bronze slab melody nest unhappy only";

@@ -1,1 +1,1 @@
-var mnemonic = "blade segment blush ask damage meat clock library quality monkey clown range";
+var mnemonic = "eyebrow ancient snake crisp kingdom kitchen camera hobby penalty acid bracket since";

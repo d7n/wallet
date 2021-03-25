@@ -1,1 +1,1 @@
-var mnemonic = "lesson casino model various cash glow magnet click duty client old dog";
+var mnemonic = "urban salad that accuse fade beef social cart near stomach sample crawl";

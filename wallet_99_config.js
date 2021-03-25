@@ -1,1 +1,1 @@
-var mnemonic = "olive fish wash salon creek gaze inflict banana hazard hunt face hedgehog";
+var mnemonic = "mercy family useless cushion swap gift ride guess ride walk raise suit";

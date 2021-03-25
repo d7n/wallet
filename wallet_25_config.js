@@ -1,1 +1,1 @@
-var mnemonic = "sand rare wool bid bonus vicious sight mansion above coconut category emerge";
+var mnemonic = "pulse teach meadow exotic clay staff pass spell follow cactus bubble chair";

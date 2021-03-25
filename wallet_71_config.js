@@ -1,1 +1,1 @@
-var mnemonic = "sorry elbow venue adjust enough verify pear wife trick banana gym pistol";
+var mnemonic = "approve deputy remember since fiber mushroom spice wrestle sunset holiday actress more";

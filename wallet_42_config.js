@@ -1,1 +1,1 @@
-var mnemonic = "husband pact average trip stamp offer buyer card shrug misery transfer torch";
+var mnemonic = "task peace floor object regret cake wet clown alpha mix lava luggage";

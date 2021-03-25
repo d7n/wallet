@@ -1,1 +1,1 @@
-var mnemonic = "fatigue drip luxury shy cave sort rhythm cousin page century sea swarm";
+var mnemonic = "divert atom fiction announce struggle pistol position orchard know spread mushroom slot";

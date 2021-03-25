@@ -1,1 +1,1 @@
-var mnemonic = "seat sea tunnel fix wine butter prize consider mass assume name appear";
+var mnemonic = "next steak runway soon garbage flee poverty wasp heart leg raccoon measure";

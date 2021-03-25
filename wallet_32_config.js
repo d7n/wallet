@@ -1,1 +1,1 @@
-var mnemonic = "humble inject process way social hobby among shrimp year worth section nurse";
+var mnemonic = "length exchange tilt limit always modify parent offer spike shrug decide accuse";

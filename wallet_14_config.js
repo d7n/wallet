@@ -1,1 +1,1 @@
-var mnemonic = "purpose senior audit mimic blade moral call deposit upper town slush awesome";
+var mnemonic = "polar apple menu find giant ancient key sheriff prize affair heavy dwarf";

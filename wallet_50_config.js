@@ -1,1 +1,1 @@
-var mnemonic = "reveal cost sound oak velvet cliff flip cruel tonight valid coral raccoon";
+var mnemonic = "melody elephant fever label blue segment another accident song soft blouse globe";

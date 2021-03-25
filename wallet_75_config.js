@@ -1,1 +1,1 @@
-var mnemonic = "prison antique shy step liberty hello super spoon sorry apple mesh useless";
+var mnemonic = "parent bar spatial better focus radar tank fringe midnight food click start";

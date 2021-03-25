@@ -1,1 +1,1 @@
-var mnemonic = "empty eternal define wonder giraffe length border senior wisdom abuse until sausage";
+var mnemonic = "inner mushroom hurry apart balcony urge once reason unique forget engine stumble";

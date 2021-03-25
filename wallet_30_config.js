@@ -1,1 +1,1 @@
-var mnemonic = "warrior reveal fork crime ginger evoke couch replace citizen open vessel know";
+var mnemonic = "mesh prize flight soccer fox worry error stick perfect town spice record";

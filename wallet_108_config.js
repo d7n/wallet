@@ -1,1 +1,1 @@
-var mnemonic = "true spot uncle unable power endorse level prepare core speed ranch furnace";
+var mnemonic = "typical double inform hip zone lucky sheriff gap mandate floor toss conduct";

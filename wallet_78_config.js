@@ -1,1 +1,1 @@
-var mnemonic = "loan canoe genre roast bracket receive sustain pipe chat fork slab alien";
+var mnemonic = "license category decrease duty inmate humble snack field talk agree flash olympic";

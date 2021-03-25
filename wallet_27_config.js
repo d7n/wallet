@@ -1,1 +1,1 @@
-var mnemonic = "omit ill actual mass move any walk calm purity cherry vault airport";
+var mnemonic = "goat oil assault donor flame pair need staff soul police force furnace";

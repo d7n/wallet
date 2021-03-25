@@ -1,1 +1,1 @@
-var mnemonic = "wrist vote spend index grid symptom luggage trigger later impulse better cram";
+var mnemonic = "quote state change ensure card year wrong museum slender happy toilet august";

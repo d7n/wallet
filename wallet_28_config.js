@@ -1,1 +1,1 @@
-var mnemonic = "piece power autumn surround lunar equal soccer faith smooth grain ski asset";
+var mnemonic = "virtual unable lens today awful choose sail tool miss piano float enter";

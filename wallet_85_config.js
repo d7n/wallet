@@ -1,1 +1,1 @@
-var mnemonic = "eagle wage bitter stumble saddle profit bind firm ancient rocket case light";
+var mnemonic = "undo pen clay follow mechanic flower bleak angry various control drastic spin";

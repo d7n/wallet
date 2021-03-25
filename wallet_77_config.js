@@ -1,1 +1,1 @@
-var mnemonic = "inner source dwarf salute autumn glad copy eyebrow marine ostrich ocean kite";
+var mnemonic = "case city scatter avocado stereo cover crack climb card helmet palace cinnamon";

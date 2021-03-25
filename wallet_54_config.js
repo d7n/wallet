@@ -1,1 +1,1 @@
-var mnemonic = "reunion buffalo model vibrant stand already spike budget borrow category tube anchor";
+var mnemonic = "right glass tobacco resemble chunk clown rookie size someone museum salad planet";

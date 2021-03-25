@@ -1,1 +1,1 @@
-var mnemonic = "dad note frog visa impose sock birth fork kiwi illegal below episode";
+var mnemonic = "awake bunker armed grow hub empower slush marriage undo side pretty around";

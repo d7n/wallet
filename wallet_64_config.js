@@ -1,1 +1,1 @@
-var mnemonic = "jar teach burst once detect setup kitchen identify river exotic actual infant";
+var mnemonic = "subway memory patrol bid april edit fish fox broom current fetch auction";

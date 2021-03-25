@@ -1,1 +1,1 @@
-var mnemonic = "track false fuel february air front box that manage people actual knife";
+var mnemonic = "cotton another small magnet when auto dynamic truth club version bench resource";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny steel excess cotton bag update champion diesel stand phrase track lounge";
+var mnemonic = "acid fork payment measure trouble wash course eternal vibrant funny pact crisp";

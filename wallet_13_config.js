@@ -1,1 +1,1 @@
-var mnemonic = "spoil indicate spirit bulk hurry object badge portion tell toe globe excuse";
+var mnemonic = "clip vintage combine banana over dirt shuffle defense world try twist skin";

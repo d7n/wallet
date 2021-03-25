@@ -1,1 +1,1 @@
-var mnemonic = "flip list file unfair wool okay ramp wet peasant indoor monkey garment";
+var mnemonic = "dash fiscal airport fortune sustain scatter south fire clump chase danger scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse dismiss bridge cream side grace flush violin ribbon start note clog";
+var mnemonic = "double ill math fade refuse obtain fold eager first limit attitude mistake";
