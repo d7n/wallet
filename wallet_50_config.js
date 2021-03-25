@@ -1,1 +1,1 @@
-var mnemonic = "series lunar ceiling say zoo sea tennis yard slow ankle slight blossom";
+var mnemonic = "bar follow expand elevator sample mother position airport donkey silver fox fit";

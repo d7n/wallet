@@ -1,1 +1,1 @@
-var mnemonic = "glory essence praise number grace love album leisure silly scare flight bunker";
+var mnemonic = "razor roast effort fury entry badge hover barrel young minor rubber hover";

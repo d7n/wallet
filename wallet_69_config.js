@@ -1,1 +1,1 @@
-var mnemonic = "person mechanic balcony bullet resource series scrap ship prosper letter ten south";
+var mnemonic = "autumn pumpkin surge try bonus company marble eyebrow inner relief apple series";

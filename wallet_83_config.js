@@ -1,1 +1,1 @@
-var mnemonic = "bean stool riot outer neutral force rebuild exact nice barrel company course";
+var mnemonic = "ski armor refuse inmate pony mule ring movie waste quality trigger void";

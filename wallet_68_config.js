@@ -1,1 +1,1 @@
-var mnemonic = "bind ski unit museum arrive chimney camp yellow organ remember harbor menu";
+var mnemonic = "lumber muscle solution degree jacket report census rain inmate boy route impose";

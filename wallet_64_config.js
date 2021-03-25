@@ -1,1 +1,1 @@
-var mnemonic = "inside charge first grass weather away true sauce mind arrive frog lucky";
+var mnemonic = "palace police spice matrix resist wedding sting wide sibling gospel latin secret";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild range opera bar mosquito immune maid acquire private thrive negative deputy";
+var mnemonic = "mind drink gallery drink diet chase shrimp reason never fold toward recipe";

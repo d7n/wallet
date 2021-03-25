@@ -1,1 +1,1 @@
-var mnemonic = "chalk priority small choose scene swallow suffer vault desk faculty sail decrease";
+var mnemonic = "guide recycle runway trophy ecology envelope razor liquid thumb giggle marine cute";

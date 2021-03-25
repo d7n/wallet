@@ -1,1 +1,1 @@
-var mnemonic = "tree explain dismiss snack owner dose debris where rigid inquiry gossip leaf";
+var mnemonic = "balance soda force fee grow torch quote fade angle near excess ball";

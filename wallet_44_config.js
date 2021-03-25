@@ -1,1 +1,1 @@
-var mnemonic = "rib scale lumber must trend found someone antique indoor ghost prepare tray";
+var mnemonic = "whip enemy shuffle order seven lonely subway wing undo armed shaft draft";

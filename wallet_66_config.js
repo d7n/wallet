@@ -1,1 +1,1 @@
-var mnemonic = "alter suspect gospel number income path city tip device dove ask inform";
+var mnemonic = "report monitor dizzy toddler excuse clown pride cheese blame guitar tuition trophy";

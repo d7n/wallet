@@ -1,1 +1,1 @@
-var mnemonic = "erupt surge proud direct trick enforce bus imitate relief wasp erosion final";
+var mnemonic = "pretty excite make educate unaware guitar unit argue occur bless neutral nature";

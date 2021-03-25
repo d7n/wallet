@@ -1,1 +1,1 @@
-var mnemonic = "tool ripple abuse actual ignore speed initial weird dinosaur purse shed roof";
+var mnemonic = "deer now web poverty struggle police ahead little reduce crouch major stomach";

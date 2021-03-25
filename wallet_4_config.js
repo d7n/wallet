@@ -1,1 +1,1 @@
-var mnemonic = "motor card method atom beauty wish describe victory control oppose hamster seminar";
+var mnemonic = "frown bronze rather base jeans sketch torch knock harbor crucial charge online";

@@ -1,1 +1,1 @@
-var mnemonic = "parade tornado mule boy fame desert barrel mixed pill electric winner festival";
+var mnemonic = "cat hand retire shock solid ecology powder vivid way spawn hurt green";

@@ -1,1 +1,1 @@
-var mnemonic = "churn puppy never rebuild pluck silk clown tonight lesson expect brass shoot";
+var mnemonic = "drastic weapon churn cable utility upset whale pitch relief race question quick";

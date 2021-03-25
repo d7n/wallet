@@ -1,1 +1,1 @@
-var mnemonic = "unhappy section urban athlete flush essay piece luxury cloud else rival minute";
+var mnemonic = "figure column glove chest velvet clerk fortune bachelor rival primary casual curve";

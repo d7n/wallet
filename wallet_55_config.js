@@ -1,1 +1,1 @@
-var mnemonic = "exhaust cereal alcohol tree pill antique pencil process umbrella elder bundle banana";
+var mnemonic = "tent gather shuffle bread fuel access accident bicycle shadow govern assist ride";

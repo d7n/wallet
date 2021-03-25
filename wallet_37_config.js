@@ -1,1 +1,1 @@
-var mnemonic = "aspect couple alone pistol stumble name success panther advice accuse blood style";
+var mnemonic = "worry lemon shock hidden review panther useful such fly picnic weekend school";

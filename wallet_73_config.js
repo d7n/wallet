@@ -1,1 +1,1 @@
-var mnemonic = "stairs seed slight attack hen person tunnel obscure leaf dwarf bind kit";
+var mnemonic = "injury tortoise code flower cloud boy combine during injury genius problem often";

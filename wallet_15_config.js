@@ -1,1 +1,1 @@
-var mnemonic = "apology supreme brave sunny brain ill pattern bleak dry explain vote spy";
+var mnemonic = "often mango test seek obtain candy attitude double dentist medal cabin demand";

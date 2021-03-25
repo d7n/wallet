@@ -1,1 +1,1 @@
-var mnemonic = "afraid plastic trophy liberty salt input rose flight copper van dinosaur pudding";
+var mnemonic = "ask finish alone smart differ stove august bunker erupt ship planet tennis";

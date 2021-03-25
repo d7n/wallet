@@ -1,1 +1,1 @@
-var mnemonic = "certain attract funny sugar coach shell tomorrow leaf address fabric satisfy october";
+var mnemonic = "symbol spring egg also vacuum obey refuse embark message soul melody soup";

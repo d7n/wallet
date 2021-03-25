@@ -1,1 +1,1 @@
-var mnemonic = "heart manage never orphan sing option shoulder robust fatal gap daughter donkey";
+var mnemonic = "kit inspire sorry client donor scale taxi spike focus perfect canvas connect";

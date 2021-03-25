@@ -1,1 +1,1 @@
-var mnemonic = "attend window convince wonder antenna shove skate code palm crowd chalk gospel";
+var mnemonic = "code sorry lyrics planet blast lock safe clap cloud cake skill ankle";

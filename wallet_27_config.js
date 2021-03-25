@@ -1,1 +1,1 @@
-var mnemonic = "iron wreck mind exercise ecology dose insane flash mix hire lounge inherit";
+var mnemonic = "crime multiply inform travel trust winner physical guard deer tackle brave mercy";

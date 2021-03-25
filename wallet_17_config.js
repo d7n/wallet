@@ -1,1 +1,1 @@
-var mnemonic = "very venue confirm man exit turkey shoulder winter coral behave employ soap";
+var mnemonic = "real gauge inside pelican animal tuna govern jelly climb rubber define excuse";

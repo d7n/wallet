@@ -1,1 +1,1 @@
-var mnemonic = "hover cabbage island across range conduct execute angle patch box derive daughter";
+var mnemonic = "release keen clarify orchard prosper ozone adult clean very nominee tube fetch";

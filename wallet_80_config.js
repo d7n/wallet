@@ -1,1 +1,1 @@
-var mnemonic = "adult genuine shuffle jaguar rack mean cactus deputy diagram wash oak arm";
+var mnemonic = "spy six orphan cousin drive cloth vacuum wasp fossil level response around";

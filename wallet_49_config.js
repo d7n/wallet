@@ -1,1 +1,1 @@
-var mnemonic = "insect series lift rack cake rice fitness safe year rotate write hundred";
+var mnemonic = "smart all struggle bonus polar coach drink liar bachelor reunion vessel lounge";

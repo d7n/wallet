@@ -1,1 +1,1 @@
-var mnemonic = "owner lock program cross tooth metal sweet exchange tide wait ensure afraid";
+var mnemonic = "wisdom faint hungry breeze swim vast sadness tomorrow toast offer olympic wrong";

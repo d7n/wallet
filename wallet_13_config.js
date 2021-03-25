@@ -1,1 +1,1 @@
-var mnemonic = "cabin ramp opera margin bridge path august veteran pause patient gossip immense";
+var mnemonic = "divert subject bounce able hire bunker deny panda reduce learn badge symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "chase swamp turtle maid frame high bunker acoustic share gossip unveil start";
+var mnemonic = "tragic code rate mimic evil sudden cloud drift find region corn gun";

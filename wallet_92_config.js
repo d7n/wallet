@@ -1,1 +1,1 @@
-var mnemonic = "build flee drift beach hint company define become carbon reopen dust damp";
+var mnemonic = "curve must river ketchup kick reason hard cement impact legal company shuffle";

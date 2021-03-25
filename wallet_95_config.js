@@ -1,1 +1,1 @@
-var mnemonic = "fit push once lucky trim pave bind deliver lucky ski logic cotton";
+var mnemonic = "glass original document artist sing brush fork depth hat evidence skirt pitch";

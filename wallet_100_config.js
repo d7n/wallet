@@ -1,1 +1,1 @@
-var mnemonic = "material write echo thrive hospital visual funny museum electric gym resource trash";
+var mnemonic = "vibrant dial pioneer differ twin draft term together name empty piano frog";

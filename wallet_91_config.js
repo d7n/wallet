@@ -1,1 +1,1 @@
-var mnemonic = "gun vendor skull team image choose firm humor taste update vocal visit";
+var mnemonic = "crumble close cool bonus tuition marble change such arrow rib job wet";

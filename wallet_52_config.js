@@ -1,1 +1,1 @@
-var mnemonic = "enjoy help dawn various multiply silver base arm rural desk ethics spin";
+var mnemonic = "goose brave bring insane sting inflict concert ensure casual drip gesture license";

@@ -1,1 +1,1 @@
-var mnemonic = "slab silk okay answer timber allow one hazard finger client iron liar";
+var mnemonic = "wisdom antique hello trash reveal hat merge display congress sea elbow satoshi";

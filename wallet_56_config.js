@@ -1,1 +1,1 @@
-var mnemonic = "brick prosper rural height scout foot inside artist range enable horn spy";
+var mnemonic = "volcano danger mad frog winner indicate east multiply attitude remember hello volume";

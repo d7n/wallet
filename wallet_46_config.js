@@ -1,1 +1,1 @@
-var mnemonic = "holiday axis inflict term chair merit organ ivory regret open faculty wasp";
+var mnemonic = "defy human tide poem scrap frozen step olympic toe ceiling size ball";

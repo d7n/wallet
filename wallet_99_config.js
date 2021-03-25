@@ -1,1 +1,1 @@
-var mnemonic = "tumble movie now alpha find cool journey neck thunder grit museum grain";
+var mnemonic = "surprise bean chalk flee decrease girl over alarm jump category rack blind";

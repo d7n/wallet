@@ -1,1 +1,1 @@
-var mnemonic = "unusual flush prepare stable cat twin month violin derive small bottom actress";
+var mnemonic = "empty powder silly album sorry plastic fortune vanish junior produce dignity biology";

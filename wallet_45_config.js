@@ -1,1 +1,1 @@
-var mnemonic = "draw captain bread mercy trick there sauce air grain scatter position proof";
+var mnemonic = "saddle possible wire divide knee analyst hurry feel mouse true recycle love";

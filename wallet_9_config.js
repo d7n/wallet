@@ -1,1 +1,1 @@
-var mnemonic = "safe release harbor game object smooth asset benefit rich mouse youth matter";
+var mnemonic = "raccoon dry media hotel ignore crime nothing skate sorry delay mind grace";

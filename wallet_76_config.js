@@ -1,1 +1,1 @@
-var mnemonic = "swing damp prosper immense fun month tower someone canoe worry index crane";
+var mnemonic = "jar someone slim patrol never mom grit swear volcano mule embark utility";

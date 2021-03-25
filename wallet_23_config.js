@@ -1,1 +1,1 @@
-var mnemonic = "shy custom wash engine daring stumble kingdom output diesel enable tape express";
+var mnemonic = "blush spike tonight admit sniff depend river high coyote abuse team fly";

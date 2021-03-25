@@ -1,1 +1,1 @@
-var mnemonic = "gesture puzzle alone chicken supreme scorpion kick adjust company promote banana put";
+var mnemonic = "tape unit release ticket spy fit tunnel sign rain vapor raw wasp";

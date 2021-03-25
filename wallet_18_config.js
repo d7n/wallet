@@ -1,1 +1,1 @@
-var mnemonic = "fat check dash defense cream economy dune spare occur allow tattoo payment";
+var mnemonic = "wait furnace dry dose summer logic naive enlist token frog need pepper";

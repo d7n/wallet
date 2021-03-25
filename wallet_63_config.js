@@ -1,1 +1,1 @@
-var mnemonic = "sail ticket angle nation virtual snake prevent old amount maid garbage easy";
+var mnemonic = "cause replace quit runway popular poet typical deputy voyage pledge shiver tenant";

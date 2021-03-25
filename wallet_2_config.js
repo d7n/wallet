@@ -1,1 +1,1 @@
-var mnemonic = "nuclear violin close climb ocean ice hub hard modify burst pass gorilla";
+var mnemonic = "scare blue absent false primary wage march primary catch wave stairs trigger";

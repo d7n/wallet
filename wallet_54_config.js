@@ -1,1 +1,1 @@
-var mnemonic = "lunch any keen enter calm lawn bundle accuse broken moment trend cross";
+var mnemonic = "glare carry image thumb idle page twice slot soap shrug mutual walk";

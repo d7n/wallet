@@ -1,1 +1,1 @@
-var mnemonic = "rely become title ridge enjoy vibrant blame moment extra switch busy enlist";
+var mnemonic = "sing soft detail acid rice shiver fall arena govern kiwi scorpion direct";

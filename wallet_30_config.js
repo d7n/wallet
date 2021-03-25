@@ -1,1 +1,1 @@
-var mnemonic = "tooth attitude noodle bottom now pigeon edge honey radar begin much edge";
+var mnemonic = "jump manage alcohol warm acquire negative defy mix gravity swamp young toddler";

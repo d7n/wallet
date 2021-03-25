@@ -1,1 +1,1 @@
-var mnemonic = "vast clip cargo clerk consider best prize style antenna pledge panic phrase";
+var mnemonic = "deposit inject puzzle garage abstract pipe kind cube final address maze cabin";

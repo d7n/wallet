@@ -1,1 +1,1 @@
-var mnemonic = "borrow token clarify detect impose seat sing auction business mammal pond radio";
+var mnemonic = "group clean fiction east room glance shove chest menu demand pact guilt";

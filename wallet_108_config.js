@@ -1,1 +1,1 @@
-var mnemonic = "age bounce either exhaust flock eagle pear fashion slogan unveil riot question";
+var mnemonic = "target ride quote viable short moral laugh abstract wrestle glare wing wear";

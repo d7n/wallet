@@ -1,1 +1,1 @@
-var mnemonic = "vanish blame across improve program hurdle express bundle nature virtual rail pretty";
+var mnemonic = "capable impose farm make twelve atom olive avocado chest stool early blouse";

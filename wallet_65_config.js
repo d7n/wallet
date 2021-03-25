@@ -1,1 +1,1 @@
-var mnemonic = "absurd annual find beach ignore later cattle fury expire spare appear glide";
+var mnemonic = "valid file crouch fat market slender impose ancient fence myth ceiling include";

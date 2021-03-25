@@ -1,1 +1,1 @@
-var mnemonic = "domain water era iron divert remain labor sibling match flat leg chronic";
+var mnemonic = "sauce best pig detect donate beauty bleak truck segment pole diet reveal";

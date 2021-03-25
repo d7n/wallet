@@ -1,1 +1,1 @@
-var mnemonic = "below glare purse myself adjust whale umbrella west nephew taxi diamond bus";
+var mnemonic = "pride fiscal churn already era summer anger fuel novel announce host pitch";

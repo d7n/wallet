@@ -1,1 +1,1 @@
-var mnemonic = "fog legal satisfy law orient exchange spice wide few square ketchup rifle";
+var mnemonic = "dignity chronic detail forest slice manual cement glow opera track bar tilt";

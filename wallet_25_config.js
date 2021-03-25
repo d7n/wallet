@@ -1,1 +1,1 @@
-var mnemonic = "alcohol delay minimum team assist before unable other rich bachelor pave actor";
+var mnemonic = "found garden normal draft mosquito infant talent such iron hand salmon detail";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder analyst dove mask suffer roof own income cherry vast mercy antenna";
+var mnemonic = "athlete mean pole crash point museum mom jealous squeeze logic myth satoshi";

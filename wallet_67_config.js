@@ -1,1 +1,1 @@
-var mnemonic = "replace stumble isolate early buzz group embark spray skin uphold angry tool";
+var mnemonic = "voyage police gospel connect siege sense scorpion swallow strong fatigue start burger";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer retire use apple dirt cruel recycle powder wage clip athlete card";
+var mnemonic = "tobacco gap that spirit alien there fix sample amateur engage predict flash";

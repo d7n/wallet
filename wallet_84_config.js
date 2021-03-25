@@ -1,1 +1,1 @@
-var mnemonic = "fragile super year say pony trigger wagon repair beef joy donate web";
+var mnemonic = "banner arrow gap oblige famous coyote cat deliver engine inflict pet citizen";

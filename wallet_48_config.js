@@ -1,1 +1,1 @@
-var mnemonic = "title pottery crush vendor already era smart anger shoot asset example enjoy";
+var mnemonic = "attend demand scheme equip broccoli piece flower dentist cherry engine draw ridge";

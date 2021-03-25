@@ -1,1 +1,1 @@
-var mnemonic = "close scrub gossip century saddle observe rare put flavor shrug ozone thank";
+var mnemonic = "apple diary duck seed tumble ceiling cliff slam rebel sign guitar okay";

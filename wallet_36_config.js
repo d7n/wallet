@@ -1,1 +1,1 @@
-var mnemonic = "review cupboard depend electric comic fault eyebrow need cannon spring castle cactus";
+var mnemonic = "easily sign enemy message shoe have spoil elbow catalog advice float hover";

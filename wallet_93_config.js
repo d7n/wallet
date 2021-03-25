@@ -1,1 +1,1 @@
-var mnemonic = "opinion act movie defense ozone glass auction blouse camp all romance gravity";
+var mnemonic = "group goddess solar banana pumpkin shoot matrix churn inject stone abstract depart";

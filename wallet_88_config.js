@@ -1,1 +1,1 @@
-var mnemonic = "acid dumb health where habit hat toe sleep enrich exercise fork same";
+var mnemonic = "chapter coffee body crater solid economy swear nature table receive library bleak";

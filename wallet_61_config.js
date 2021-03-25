@@ -1,1 +1,1 @@
-var mnemonic = "review victory team title rent tank marine awful deposit scissors muffin gas";
+var mnemonic = "keep such man enemy cherry square inmate tomato kiss salad travel trap";

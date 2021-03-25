@@ -1,1 +1,1 @@
-var mnemonic = "armed novel client hedgehog gold fan reward weird globe clock split regret";
+var mnemonic = "arena burden team mercy invite critic wealth rate say embrace narrow section";

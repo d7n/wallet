@@ -1,1 +1,1 @@
-var mnemonic = "wet feature lonely potato lumber feed burden field rent hedgehog loud twelve";
+var mnemonic = "tired decline reason nut hood divide turtle say wagon mouse city wash";

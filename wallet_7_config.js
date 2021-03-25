@@ -1,1 +1,1 @@
-var mnemonic = "chase betray alcohol bulb cushion topple dynamic cricket focus coral win good";
+var mnemonic = "useless coyote lunch rebuild egg power praise lesson juice train suggest gun";

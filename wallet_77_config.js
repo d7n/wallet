@@ -1,1 +1,1 @@
-var mnemonic = "beef soft state marriage beauty opera ceiling stand police fury move resemble";
+var mnemonic = "steel easily paper please mobile music six salute enemy riot evidence firm";

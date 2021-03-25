@@ -1,1 +1,1 @@
-var mnemonic = "measure pig adapt crouch club gasp way manual deliver endless slight lounge";
+var mnemonic = "flag twenty moment roast owner citizen afford curious always summer plunge unlock";

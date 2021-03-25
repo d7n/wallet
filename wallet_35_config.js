@@ -1,1 +1,1 @@
-var mnemonic = "robust crater have language donkey high shy glance ready all coil mention";
+var mnemonic = "laundry alone half match cricket vacant afford surface gloom search waste idle";

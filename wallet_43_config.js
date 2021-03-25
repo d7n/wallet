@@ -1,1 +1,1 @@
-var mnemonic = "prison innocent melt either ripple caution utility spider bring clarify ladder zebra";
+var mnemonic = "style enemy wheel obscure monkey cruel apart crop off squirrel ceiling sniff";

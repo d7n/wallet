@@ -1,1 +1,1 @@
-var mnemonic = "there eye slab antenna cloth mutual crunch monster frozen envelope syrup catalog";
+var mnemonic = "alarm brave canal knife shrimp canvas proof yellow service custom garlic spin";

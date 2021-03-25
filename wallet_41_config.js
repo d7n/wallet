@@ -1,1 +1,1 @@
-var mnemonic = "similar pupil mushroom mail between chronic group bridge ankle cat loan actor";
+var mnemonic = "seven roast monitor inner dolphin wave absorb saddle dragon drama pony predict";

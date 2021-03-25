@@ -1,1 +1,1 @@
-var mnemonic = "give scheme card mechanic acoustic time wire plunge main know bronze later";
+var mnemonic = "foot hungry problem size fury tail diamond permit labor autumn vault disease";

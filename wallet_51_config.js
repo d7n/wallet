@@ -1,1 +1,1 @@
-var mnemonic = "under child express loud album clinic arena comfort skull badge across hamster";
+var mnemonic = "exclude push lend cave scissors junior crash menu palace craft square hub";

@@ -1,1 +1,1 @@
-var mnemonic = "matrix mushroom fancy tone pull blush horn spot little burst hint silver";
+var mnemonic = "toast pluck bubble public fuel bacon economy trophy purse axis sail magic";
