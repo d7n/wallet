@@ -1,1 +1,1 @@
-var mnemonic = "local true escape salon equip oven deposit deliver pole board mango lobster";
+var mnemonic = "fashion desert hammer barrel exhaust pear jewel canvas spring call ask blood";

@@ -1,1 +1,1 @@
-var mnemonic = "victory patch page cricket light frequent gap today waste spin unaware vote";
+var mnemonic = "demise fortune voice economy cup life bitter outer metal crisp convince voyage";

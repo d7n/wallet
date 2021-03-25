@@ -1,1 +1,1 @@
-var mnemonic = "couple jeans toy rule pluck mail question ocean birth reopen diesel large";
+var mnemonic = "stuff pair naive picnic tonight moral episode typical dinosaur deposit cotton indicate";

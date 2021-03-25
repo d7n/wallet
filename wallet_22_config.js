@@ -1,1 +1,1 @@
-var mnemonic = "garment antenna devote sponsor immune art bike goat spatial vibrant advice ride";
+var mnemonic = "beyond apart muscle coffee express glory level plastic retire proof issue sting";

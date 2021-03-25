@@ -1,1 +1,1 @@
-var mnemonic = "level audit label father plunge famous twice own oblige fitness fringe spread";
+var mnemonic = "humble always fade into first immune play among habit cube rather jazz";

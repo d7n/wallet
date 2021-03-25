@@ -1,1 +1,1 @@
-var mnemonic = "tomato detect tag disorder kiwi mind claim scissors between payment super swift";
+var mnemonic = "topple trouble nurse remove virus usage zero math cube diagram display garage";

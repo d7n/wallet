@@ -1,1 +1,1 @@
-var mnemonic = "force ethics toward cheese program beach segment upgrade change exact replace simple";
+var mnemonic = "wonder mystery rebuild zebra lion crack bench miss bottom dirt pottery fetch";

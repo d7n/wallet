@@ -1,1 +1,1 @@
-var mnemonic = "party gown rebel road disease before throw swap fork flame noodle defense";
+var mnemonic = "come distance gift entry because that maximum soon protect giggle supreme syrup";

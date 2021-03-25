@@ -1,1 +1,1 @@
-var mnemonic = "car symptom outside banner attitude point pull useless sell excuse first lecture";
+var mnemonic = "frequent door pizza invite chuckle blur ritual elbow liquid flat ozone grid";

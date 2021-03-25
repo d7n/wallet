@@ -1,1 +1,1 @@
-var mnemonic = "ginger canyon glide doctor note inhale deal member toy resource squeeze bag";
+var mnemonic = "disease poet exhaust sword bicycle melody topic rally cattle swing hair stool";

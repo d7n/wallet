@@ -1,1 +1,1 @@
-var mnemonic = "boost ripple total teach finger census sell record iron similar program bring";
+var mnemonic = "idea stone elbow vicious wrestle wool equip comic enough mammal coconut phone";

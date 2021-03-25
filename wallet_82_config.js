@@ -1,1 +1,1 @@
-var mnemonic = "dad report holiday service pass empty verb survey they desert orphan seven";
+var mnemonic = "reform target stone struggle breeze suffer file family glance input party dress";

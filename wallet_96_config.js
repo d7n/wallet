@@ -1,1 +1,1 @@
-var mnemonic = "twelve bicycle social govern normal flag clown panda elegant square use mistake";
+var mnemonic = "dose loan market boost sport system label flower pet simple fancy nuclear";

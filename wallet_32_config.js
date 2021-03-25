@@ -1,1 +1,1 @@
-var mnemonic = "connect crazy deny tobacco curious output wine predict arrest walk lobster describe";
+var mnemonic = "stable balcony quit clutch menu more web excess hybrid wall blanket embody";

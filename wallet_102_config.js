@@ -1,1 +1,1 @@
-var mnemonic = "undo anchor above joke lend cram burden morning next host mirror sunny";
+var mnemonic = "kidney tenant seat taste grass clarify about exotic multiply celery shove reveal";

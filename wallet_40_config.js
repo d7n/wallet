@@ -1,1 +1,1 @@
-var mnemonic = "party consider side cry vast target wolf camp copper shoot oppose increase";
+var mnemonic = "poem bind squeeze turn begin school diesel check child best setup congress";

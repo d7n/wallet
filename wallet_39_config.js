@@ -1,1 +1,1 @@
-var mnemonic = "magnet brand paddle invest regret width swing paddle year gloom found planet";
+var mnemonic = "spray result public marble always badge flee confirm adapt obey blanket leisure";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge trim cause bleak motion because elephant quarter crime raw blade cat";
+var mnemonic = "ocean young jump jealous have loop start dragon favorite blind symptom excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor broccoli click predict repeat satisfy bridge trust couch bright green cycle";
+var mnemonic = "fiction speed boil mix nature sudden garden match jelly typical bitter quarter";

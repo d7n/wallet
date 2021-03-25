@@ -1,1 +1,1 @@
-var mnemonic = "calm upset box sausage cricket claim festival lizard warm oak crowd drip";
+var mnemonic = "reduce number demise street bag march simple flock kit merge adapt expire";

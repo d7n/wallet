@@ -1,1 +1,1 @@
-var mnemonic = "van lift mechanic mind you brush drip add believe pink talk differ";
+var mnemonic = "latin flat force describe fantasy decide gold vacant advance radar goddess exit";

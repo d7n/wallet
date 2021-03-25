@@ -1,1 +1,1 @@
-var mnemonic = "during cake myth gospel keen vehicle arch opera fruit sure skill garlic";
+var mnemonic = "host juice deputy stage flavor want identify cream citizen need story leave";

@@ -1,1 +1,1 @@
-var mnemonic = "section drastic misery one uncle unfold term august embark spin clown enforce";
+var mnemonic = "solar safe wood faculty hire inner crisp tiny impulse tooth access bulb";

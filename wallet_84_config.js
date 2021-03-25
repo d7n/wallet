@@ -1,1 +1,1 @@
-var mnemonic = "shrug spend power pilot jelly tooth hood slight dwarf win front brave";
+var mnemonic = "image prevent skull crystal alter army cereal injury hurry drum trend casual";

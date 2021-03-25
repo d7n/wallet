@@ -1,1 +1,1 @@
-var mnemonic = "want guide laundry boil pen spray awkward road spoil frog ring position";
+var mnemonic = "wasp edge wink zone lady width clay laugh baby veteran must news";

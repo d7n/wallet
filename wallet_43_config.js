@@ -1,1 +1,1 @@
-var mnemonic = "record dress senior food salon busy fence client plate drop often baby";
+var mnemonic = "bachelor coffee wink december tourist type festival forget spawn normal multiply version";

@@ -1,1 +1,1 @@
-var mnemonic = "apart trim salad case blast general feature number hidden slogan labor shrimp";
+var mnemonic = "glimpse wife eight project winner shuffle myself glide frog wasp track source";

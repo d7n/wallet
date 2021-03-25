@@ -1,1 +1,1 @@
-var mnemonic = "riot tube always baby famous cotton actress traffic ahead twice weather dust";
+var mnemonic = "maple juice lion crawl deer custom click detect sleep swallow remind time";

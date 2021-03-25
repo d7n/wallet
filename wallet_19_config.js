@@ -1,1 +1,1 @@
-var mnemonic = "crouch language honey risk ghost junior squeeze poet ancient shiver super illness";
+var mnemonic = "margin chaos record know margin ensure ceiling cup ill kid gallery oil";

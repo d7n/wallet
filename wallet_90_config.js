@@ -1,1 +1,1 @@
-var mnemonic = "theory unknown tragic anger scissors market genre wire legend harsh wealth token";
+var mnemonic = "mosquito weapon bright marine vacant bunker blind theme stay document much brief";

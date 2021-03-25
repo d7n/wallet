@@ -1,1 +1,1 @@
-var mnemonic = "assault upset coral climb during copper giggle salt flight foam hope stamp";
+var mnemonic = "final ship glass disease upon relief subject meat tourist warm oil tide";

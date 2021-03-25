@@ -1,1 +1,1 @@
-var mnemonic = "then bind outside trophy taxi urban skate rubber wood load sport main";
+var mnemonic = "history audit island capital chronic wheat little moment rival spawn use stand";

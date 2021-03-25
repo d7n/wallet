@@ -1,1 +1,1 @@
-var mnemonic = "april correct canoe tissue flat blast proud corn cricket funny strategy egg";
+var mnemonic = "jungle power vault deer shoe icon such observe volcano again absorb fall";

@@ -1,1 +1,1 @@
-var mnemonic = "strong hobby drama admit goddess convince nut shoe winner merry welcome region";
+var mnemonic = "arena coach lonely female focus world source black food girl source among";

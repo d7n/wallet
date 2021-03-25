@@ -1,1 +1,1 @@
-var mnemonic = "pencil column knife success scheme jelly manual behind dice shell canal canyon";
+var mnemonic = "state flower minor eager coin barrel tragic owner soft puzzle cloth utility";

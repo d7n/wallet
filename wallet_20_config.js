@@ -1,1 +1,1 @@
-var mnemonic = "jungle item east amount prepare spell into unique mistake unable fame smoke";
+var mnemonic = "park blush prize during category tomorrow swing orbit badge note alcohol apple";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry fruit depth bunker flash weather clarify hill surge wear december ostrich";
+var mnemonic = "real junk horn update frozen primary virus that team grow direct tide";

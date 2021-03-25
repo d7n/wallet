@@ -1,1 +1,1 @@
-var mnemonic = "cute license weapon fog enter clutch gossip upset aerobic ritual cushion avoid";
+var mnemonic = "amateur question oyster floor gallery plastic fox flush invite nice hand bean";

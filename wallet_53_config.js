@@ -1,1 +1,1 @@
-var mnemonic = "shadow success play hybrid depth slender sibling hole nothing ranch pencil cram";
+var mnemonic = "auto video evolve office shift grab mobile argue cheese fall spring atom";

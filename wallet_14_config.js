@@ -1,1 +1,1 @@
-var mnemonic = "copper roast sea thrive journey occur enroll olympic advance want pencil viable";
+var mnemonic = "delay accident alert suspect market visit usual sock hire auto old divert";

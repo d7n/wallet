@@ -1,1 +1,1 @@
-var mnemonic = "faculty manage badge farm tuition relief deal capital change fog topic hurdle";
+var mnemonic = "theme verify laundry crystal october border diagram income gesture add drum suit";

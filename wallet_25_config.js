@@ -1,1 +1,1 @@
-var mnemonic = "minute retire jazz betray govern elbow snake glove present quote tissue nuclear";
+var mnemonic = "certain twice shine theme jealous dash chest mind fruit session permit sibling";

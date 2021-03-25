@@ -1,1 +1,1 @@
-var mnemonic = "horse fiscal corn another couple churn cliff fog unaware tape virus pond";
+var mnemonic = "believe split pet lawsuit beauty toward since lunar regular want guilt patch";

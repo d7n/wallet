@@ -1,1 +1,1 @@
-var mnemonic = "that lecture radio solid found hundred hockey time dentist blush shrug rail";
+var mnemonic = "disorder scorpion citizen angle recycle spawn use toy acquire slender season dance";

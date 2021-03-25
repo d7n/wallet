@@ -1,1 +1,1 @@
-var mnemonic = "unfair strong embrace high payment car upset era common wise copy object";
+var mnemonic = "wheat wide pass anxiety profit certain slender pitch travel brisk about goddess";

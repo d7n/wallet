@@ -1,1 +1,1 @@
-var mnemonic = "settle bomb neglect vibrant bike donate aunt traffic diesel double add option";
+var mnemonic = "bridge ramp pelican evolve fault planet local sick lunar ignore color filter";

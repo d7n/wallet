@@ -1,1 +1,1 @@
-var mnemonic = "found surge clown swarm reduce gorilla cause milk later provide end cost";
+var mnemonic = "race spy script able industry syrup legend style sign entire lock reward";

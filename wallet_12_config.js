@@ -1,1 +1,1 @@
-var mnemonic = "attack valve mass home cupboard wheel include tuition expand pulse grocery army";
+var mnemonic = "layer frequent laundry require inject hospital crush narrow wagon health foot hub";

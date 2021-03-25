@@ -1,1 +1,1 @@
-var mnemonic = "spot loud silent manual always eager diary frozen canal country crucial nature";
+var mnemonic = "century sport piano thumb route trumpet onion base green breeze miracle hurry";

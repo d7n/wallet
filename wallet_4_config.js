@@ -1,1 +1,1 @@
-var mnemonic = "glance whale rent stadium machine family theory earn immune chief wisdom parrot";
+var mnemonic = "quantum exact area error tribe present swarm benefit love there holiday mention";

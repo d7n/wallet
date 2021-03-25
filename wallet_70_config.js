@@ -1,1 +1,1 @@
-var mnemonic = "notice three project cram team amazing soon album flat quarter camera zebra";
+var mnemonic = "rail emerge hello lizard solid network accident survey sniff soul odor alien";

@@ -1,1 +1,1 @@
-var mnemonic = "drastic outer magic romance dad group gown apology refuse prevent alert match";
+var mnemonic = "into illegal say hard speak number coconut robot seek decide sunny wash";

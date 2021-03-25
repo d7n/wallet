@@ -1,1 +1,1 @@
-var mnemonic = "valve asset north taste noise demand submit hundred fee economy mail nasty";
+var mnemonic = "winner alone surprise rescue orchard agree prefer mind section piece voyage list";

@@ -1,1 +1,1 @@
-var mnemonic = "grit monkey identify scene grocery category soft pool cheap scorpion onion shoot";
+var mnemonic = "when wrestle brave private permit faculty claim dress theme churn tank swim";

@@ -1,1 +1,1 @@
-var mnemonic = "give street finger minimum marriage lemon reduce smart pair loyal oyster chunk";
+var mnemonic = "damp paddle erosion infant addict magic film task ozone elder rather trumpet";

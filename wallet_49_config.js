@@ -1,1 +1,1 @@
-var mnemonic = "lumber slogan toe cake wonder town front demand ketchup tiny entry lumber";
+var mnemonic = "nose alter health damp rich stomach tourist kiss piano buzz enough want";

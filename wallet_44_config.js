@@ -1,1 +1,1 @@
-var mnemonic = "film comic river mind clog bone list subject auto scene stand cook";
+var mnemonic = "window bag nation jeans dress field dirt december dish festival pony kiwi";

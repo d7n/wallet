@@ -1,1 +1,1 @@
-var mnemonic = "mom melt design flock grow question brush direct million mobile remember spice";
+var mnemonic = "valley list chicken join noise kick mansion final repeat ramp giggle build";

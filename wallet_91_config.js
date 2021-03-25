@@ -1,1 +1,1 @@
-var mnemonic = "surge father give road chimney help trend fix whisper hawk only matrix";
+var mnemonic = "practice satoshi elephant planet few ladder return monster autumn venue layer drop";

@@ -1,1 +1,1 @@
-var mnemonic = "famous tourist volcano start churn refuse patch swap kiss mechanic winter wage";
+var mnemonic = "casino plunge exclude scrap approve reduce decline law canoe emerge cake enact";

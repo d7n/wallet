@@ -1,1 +1,1 @@
-var mnemonic = "drift stage raccoon slush scale usage copy battle turn trial loyal usage";
+var mnemonic = "amused quote answer harsh area thunder action dentist misery human dynamic innocent";

@@ -1,1 +1,1 @@
-var mnemonic = "owner short satisfy puppy whip marine volcano desert climb nature faculty hundred";
+var mnemonic = "gadget sugar faith outdoor erupt blade breeze sort fine satoshi frog mad";

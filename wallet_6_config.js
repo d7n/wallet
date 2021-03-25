@@ -1,1 +1,1 @@
-var mnemonic = "asthma hundred eyebrow ripple flower hurdle series spirit wash town voyage middle";
+var mnemonic = "glad paper crater sustain resemble secret lottery oblige error wreck whale develop";

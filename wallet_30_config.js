@@ -1,1 +1,1 @@
-var mnemonic = "awkward minute element goddess lawn goddess mountain garlic egg upper toe arctic";
+var mnemonic = "element park region matrix notable often indoor bleak strong phrase kitchen surround";

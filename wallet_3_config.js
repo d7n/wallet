@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur jelly arrive cattle section swarm frozen tape resist action evoke tonight";
+var mnemonic = "traffic express basic fork high simple swim fan maid grunt ignore blue";

@@ -1,1 +1,1 @@
-var mnemonic = "all hurry sniff defense weather seminar egg public social equip news kick";
+var mnemonic = "cushion cry decorate loyal outdoor phrase park isolate frown zebra between fortune";

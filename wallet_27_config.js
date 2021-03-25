@@ -1,1 +1,1 @@
-var mnemonic = "detect patient jeans choice kiss inform tape goat cluster object agree universe";
+var mnemonic = "produce paper grain ripple symbol essence pass athlete pause sustain quiz snap";

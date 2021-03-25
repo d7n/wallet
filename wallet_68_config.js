@@ -1,1 +1,1 @@
-var mnemonic = "omit brother monitor team myth prefer october wasp amused elder also axis";
+var mnemonic = "advice alert advance notable vivid planet glide mosquito detect tell during spell";

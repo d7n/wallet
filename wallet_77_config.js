@@ -1,1 +1,1 @@
-var mnemonic = "club primary orient special metal jump pill size mixed away ranch repair";
+var mnemonic = "action bid reject chalk pioneer horn zone army toe trip chunk picture";

@@ -1,1 +1,1 @@
-var mnemonic = "stone wheel click dish hint act chief pumpkin smoke write off bottom";
+var mnemonic = "tag aspect enroll ghost bread sample cushion tape damage athlete flush abstract";

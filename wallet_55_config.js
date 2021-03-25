@@ -1,1 +1,1 @@
-var mnemonic = "giraffe shallow machine cool mango credit lens retire core crop success peanut";
+var mnemonic = "smooth ladder coffee enact boil gesture produce decline slender cross arena approve";

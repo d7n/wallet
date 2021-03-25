@@ -1,1 +1,1 @@
-var mnemonic = "peanut print repair bargain minimum bleak goddess word flee clap unable treat";
+var mnemonic = "private innocent vital express acquire slow animal neglect card art depth slogan";

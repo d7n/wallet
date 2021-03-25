@@ -1,1 +1,1 @@
-var mnemonic = "word silk number antique fan domain tank soft mask work swallow truck";
+var mnemonic = "agree robot sadness slim lens hour gorilla action cannon scan basic tourist";

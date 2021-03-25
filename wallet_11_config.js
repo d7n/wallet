@@ -1,1 +1,1 @@
-var mnemonic = "there emerge fix travel boss pattern brave chest bird dizzy stool crawl";
+var mnemonic = "style frequent leg abandon cross safe awful phone solar phone cupboard insane";

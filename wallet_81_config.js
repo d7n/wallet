@@ -1,1 +1,1 @@
-var mnemonic = "galaxy fade narrow tumble pole among gauge portion crystal bonus slice brand";
+var mnemonic = "impose vicious bracket tourist good roast cattle clay mixture tribe copper laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado athlete fluid clever joy renew tattoo gorilla cause merit blanket muscle";
+var mnemonic = "acid casino elbow model mosquito bicycle sheriff yellow argue level left arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker later picture tourist hurry dash edit arm pen stay slogan wheat";
+var mnemonic = "survey arena speed consider excite recycle tilt melt view nest cotton fun";

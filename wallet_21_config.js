@@ -1,1 +1,1 @@
-var mnemonic = "sand worry enrich vault connect pill ready walnut ginger bubble lock lizard";
+var mnemonic = "bone picture climb light dawn amount sunny depth panel image forward tent";

@@ -1,1 +1,1 @@
-var mnemonic = "sound delay prize habit setup valley dish airport harbor van permit arrive";
+var mnemonic = "height across neither father deliver laundry summer trial drift what inch enter";

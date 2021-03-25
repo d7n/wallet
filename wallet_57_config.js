@@ -1,1 +1,1 @@
-var mnemonic = "opinion dismiss leisure slim evolve caution burger camera skate thunder swing can";
+var mnemonic = "drip orbit add hunt master rescue struggle gauge race youth grain gym";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal clown light intact parade gorilla humor jungle consider industry remain drama";
+var mnemonic = "senior color outside rather twice estate patrol short cat legal thunder toast";

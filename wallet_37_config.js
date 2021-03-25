@@ -1,1 +1,1 @@
-var mnemonic = "animal brown fix service autumn enable spell finish alley vicious buffalo reflect";
+var mnemonic = "rural write interest patch whisper seek stick vacant fly doctor home spread";

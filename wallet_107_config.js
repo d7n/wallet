@@ -1,1 +1,1 @@
-var mnemonic = "fold trigger defense old what name amount ring nothing social runway put";
+var mnemonic = "require pencil purpose tool inch genre sail deposit state evolve average delay";
