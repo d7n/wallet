@@ -1,1 +1,1 @@
-var mnemonic = "only target coast attitude pond shoot chest world ritual letter three hammer";
+var mnemonic = "dwarf insane theory glue because repeat village marine exhaust arrow ostrich ability";

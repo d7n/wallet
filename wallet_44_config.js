@@ -1,1 +1,1 @@
-var mnemonic = "seed person vessel inflict list tornado problem dolphin knife control satoshi about";
+var mnemonic = "cliff slam fix dash system filter meat guilt virtual apart glass brand";

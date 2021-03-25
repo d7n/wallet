@@ -1,1 +1,1 @@
-var mnemonic = "used talk sound sheriff belt rally youth dwarf always dilemma width bacon";
+var mnemonic = "human suit plastic pupil write ticket apple need segment bamboo aspect sentence";

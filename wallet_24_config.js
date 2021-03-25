@@ -1,1 +1,1 @@
-var mnemonic = "despair mix belt soup army parade knock produce apart point carbon clutch";
+var mnemonic = "orange suit share rifle hurt save panel decorate hungry horror brave rail";

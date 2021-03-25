@@ -1,1 +1,1 @@
-var mnemonic = "disorder figure usual length return upset morning beyond fuel rotate steel word";
+var mnemonic = "salmon tuition ignore broken test young entry resource marriage into boost remember";

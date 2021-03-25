@@ -1,1 +1,1 @@
-var mnemonic = "tourist miracle panther similar canoe vivid afford walk patient air leader taxi";
+var mnemonic = "opera color game laptop category flight cactus obscure bundle tree lumber double";

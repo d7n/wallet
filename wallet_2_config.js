@@ -1,1 +1,1 @@
-var mnemonic = "copper armor clap tunnel unusual recall smooth kitchen depart antique flavor reopen";
+var mnemonic = "achieve half time glare saddle view flush proof thunder winter key chaos";

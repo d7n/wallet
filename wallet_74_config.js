@@ -1,1 +1,1 @@
-var mnemonic = "urban depart spell keep demand course such coin armor prefer ramp auction";
+var mnemonic = "shock knee mammal history road just easy super pilot gallery supreme desk";

@@ -1,1 +1,1 @@
-var mnemonic = "grape minute broom warm session control elite track hybrid squirrel cat ketchup";
+var mnemonic = "kitchen inch donor other topple guilt awesome fiber letter flag build limit";

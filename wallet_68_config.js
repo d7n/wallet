@@ -1,1 +1,1 @@
-var mnemonic = "crucial juice hour praise improve arrive scissors flag fuel ridge jelly antique";
+var mnemonic = "tiger forum prevent festival tooth cannon jelly process motor cash tongue report";

@@ -1,1 +1,1 @@
-var mnemonic = "cook primary lake peace belt almost lend become crew amused draft lake";
+var mnemonic = "boost plastic upon consider calm gown push forest pattern slam acquire advice";

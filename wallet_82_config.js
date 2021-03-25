@@ -1,1 +1,1 @@
-var mnemonic = "decade cotton fever useless fox mammal buffalo february outdoor frown close gloom";
+var mnemonic = "gloom addict museum early digital receive muscle normal normal depart similar begin";

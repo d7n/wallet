@@ -1,1 +1,1 @@
-var mnemonic = "vanish educate order found typical effort shy front latin dragon claw during";
+var mnemonic = "salon smart budget smoke jacket frozen offer sadness good vast width kite";

@@ -1,1 +1,1 @@
-var mnemonic = "country skull tongue distance comfort involve crunch rigid subject doll bag marriage";
+var mnemonic = "siren fat vicious brother spawn caught elegant run glow rely vast resource";

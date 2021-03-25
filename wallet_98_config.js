@@ -1,1 +1,1 @@
-var mnemonic = "speed quality bridge bracket project boring basket negative clutch height marine sun";
+var mnemonic = "cheese despair roast wheel sign express prize pistol produce true crowd result";

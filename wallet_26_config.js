@@ -1,1 +1,1 @@
-var mnemonic = "vehicle model future energy joke abandon section pulse cable fabric film weekend";
+var mnemonic = "child train urge voyage brain double retreat file name record apple neck";

@@ -1,1 +1,1 @@
-var mnemonic = "huge unveil post decline combine over flip hat fortune awesome eternal news";
+var mnemonic = "divorce crop dice bulk warfare eternal roof arch prepare card away river";

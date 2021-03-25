@@ -1,1 +1,1 @@
-var mnemonic = "decrease day forum enable crush forward open taste visual define slot humor";
+var mnemonic = "dry unit lawn gospel ensure slim junior swift bird east raccoon fancy";

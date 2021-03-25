@@ -1,1 +1,1 @@
-var mnemonic = "era tired section must spray name hair layer position state tooth praise";
+var mnemonic = "dolphin innocent off enroll remind daughter jewel uphold scrap actual carry monkey";

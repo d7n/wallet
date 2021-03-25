@@ -1,1 +1,1 @@
-var mnemonic = "tool infant dilemma roast car gate prize onion cabbage kangaroo grab dice";
+var mnemonic = "blossom art mansion tragic top network defense roast have inner tree script";

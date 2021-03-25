@@ -1,1 +1,1 @@
-var mnemonic = "casual tuition hint violin make dust barely flower holiday together wealth divorce";
+var mnemonic = "salute dirt cotton shoot swarm collect noise bracket asthma approve art relief";

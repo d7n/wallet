@@ -1,1 +1,1 @@
-var mnemonic = "tragic empower best valid metal early victory dilemma weird orange boring moment";
+var mnemonic = "pigeon swallow enforce question employ frog deal chuckle clever grain merit hub";

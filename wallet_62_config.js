@@ -1,1 +1,1 @@
-var mnemonic = "fit illegal tribe soul muscle olympic science notice slush symbol asset shallow";
+var mnemonic = "swap universe cotton they human erode wife alarm tell lady cluster page";

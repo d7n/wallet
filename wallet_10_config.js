@@ -1,1 +1,1 @@
-var mnemonic = "crawl orbit pig grid fence cube seed yard weird fix language cause";
+var mnemonic = "grant road carpet royal aerobic grab correct vacant evidence episode never ivory";

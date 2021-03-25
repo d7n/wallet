@@ -1,1 +1,1 @@
-var mnemonic = "excite tower arrow abandon produce congress awake state genre alter master mistake";
+var mnemonic = "produce limb donkey foam enemy flame fluid text outdoor whale nice square";

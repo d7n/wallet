@@ -1,1 +1,1 @@
-var mnemonic = "tube ski hurry ghost stable addict bulk meat curtain possible coast happy";
+var mnemonic = "tortoise spell about cinnamon oxygen zone theme flame keen antique slab waste";

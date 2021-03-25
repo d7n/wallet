@@ -1,1 +1,1 @@
-var mnemonic = "debate affair guide they slab horn goddess favorite slam earth start capable";
+var mnemonic = "barrel benefit alien olive service middle measure used caution link pulp battle";

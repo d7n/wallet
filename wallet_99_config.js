@@ -1,1 +1,1 @@
-var mnemonic = "ensure banana pepper mistake crush aunt course music gas make drum sail";
+var mnemonic = "rhythm avoid weapon arm sword frame panic vault error wife train slush";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha sponsor junior fade provide awesome crouch bike wild blossom about add";
+var mnemonic = "pony fish shove jeans surge update shock slow essence shy guess junk";

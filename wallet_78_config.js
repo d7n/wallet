@@ -1,1 +1,1 @@
-var mnemonic = "master possible push can bulk affair toy account cluster same about arrow";
+var mnemonic = "used genius morning enjoy remember tourist inmate attract erode trade radio cattle";

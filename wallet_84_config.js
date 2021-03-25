@@ -1,1 +1,1 @@
-var mnemonic = "ancient visual major category swift turkey universe collect pulp resemble cancel step";
+var mnemonic = "quote kangaroo trip shy coil barely hunt adult sauce artwork canal fatigue";

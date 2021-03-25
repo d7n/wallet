@@ -1,1 +1,1 @@
-var mnemonic = "empower crunch horn shock pelican keen vendor slot pupil mad dust february";
+var mnemonic = "cement vacuum author glimpse luggage notable spell thought ticket bundle rescue lounge";

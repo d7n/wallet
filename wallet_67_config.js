@@ -1,1 +1,1 @@
-var mnemonic = "offer try blouse enough endless mind glimpse badge deposit fire emerge grab";
+var mnemonic = "concert hen canoe forest hat panther hire skill illness fame demise evidence";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal survey fuel cube cheap genre garage kind island future state chronic";
+var mnemonic = "minor beyond eternal mystery inhale unaware student myth odor monster memory phone";

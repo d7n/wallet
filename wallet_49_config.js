@@ -1,1 +1,1 @@
-var mnemonic = "cliff sport route buyer squirrel assume veteran media avocado expect praise joke";
+var mnemonic = "solution leisure era start pact april author mail admit position argue version";

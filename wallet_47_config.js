@@ -1,1 +1,1 @@
-var mnemonic = "wash swamp shrimp direct marine admit report attract tail identify program step";
+var mnemonic = "fetch choice debate veteran path opera fortune narrow clever pumpkin orphan pact";

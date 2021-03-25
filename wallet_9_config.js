@@ -1,1 +1,1 @@
-var mnemonic = "tilt deny range input indicate copy coyote category box provide street symptom";
+var mnemonic = "marble beef bounce task citizen add physical rubber release zoo melody uncover";

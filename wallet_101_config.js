@@ -1,1 +1,1 @@
-var mnemonic = "exercise detail hat invest young lecture ball eagle payment agree mixed actor";
+var mnemonic = "solution motor blouse item plate traffic cricket fox include bike mountain human";

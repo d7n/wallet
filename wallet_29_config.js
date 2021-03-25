@@ -1,1 +1,1 @@
-var mnemonic = "language fan cry snap faint accident remind wear inhale certain duck imitate";
+var mnemonic = "debate olympic scale zero eyebrow correct shove main hand lemon cart deny";

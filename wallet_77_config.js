@@ -1,1 +1,1 @@
-var mnemonic = "grab insect orange skirt hip ring parent link leopard receive endless illegal";
+var mnemonic = "mother genuine balcony fortune sad derive sad buyer music ranch fat minimum";

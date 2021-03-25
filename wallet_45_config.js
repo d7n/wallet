@@ -1,1 +1,1 @@
-var mnemonic = "immune vacant lab umbrella midnight buyer uphold prefer ugly use margin spider";
+var mnemonic = "basket van crisp plate elite lady fashion giggle curve armor toe smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "labor vivid bench ostrich paddle slight view cupboard dash click wonder yard";
+var mnemonic = "about dress domain switch hunt laugh athlete scheme water two park ridge";

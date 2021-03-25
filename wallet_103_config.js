@@ -1,1 +1,1 @@
-var mnemonic = "scheme strategy stadium mirror predict phone fabric excess victory kick expect gallery";
+var mnemonic = "guide aerobic large snack joke raise alien scout creek become congress arm";

@@ -1,1 +1,1 @@
-var mnemonic = "now potato model episode what fade unusual powder raven spirit flush curtain";
+var mnemonic = "arrange taste soldier inform brave derive pond gun glance payment divorce fruit";

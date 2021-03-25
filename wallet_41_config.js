@@ -1,1 +1,1 @@
-var mnemonic = "region spoil moon wood edge olive aerobic dash omit monitor sport slender";
+var mnemonic = "disagree bottom income own link giggle spring flush cloth fossil enjoy grief";

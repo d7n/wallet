@@ -1,1 +1,1 @@
-var mnemonic = "useful degree truly about north diagram saddle side success awful pull enforce";
+var mnemonic = "slot coast zebra canvas world buyer clutch raise embark author achieve praise";

@@ -1,1 +1,1 @@
-var mnemonic = "buffalo aspect nut hamster artwork taxi junior find weapon local trade web";
+var mnemonic = "point multiply layer way stereo enable damp entry fee yellow decide wheel";

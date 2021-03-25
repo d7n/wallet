@@ -1,1 +1,1 @@
-var mnemonic = "turkey nuclear more certain multiply later balcony cost have noise sibling dignity";
+var mnemonic = "turn virus girl embrace purity guitar spirit clarify wrap road field grow";

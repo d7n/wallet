@@ -1,1 +1,1 @@
-var mnemonic = "multiply position champion trust choose pottery loan usage silent cheese finger usual";
+var mnemonic = "annual oxygen spray short door bulb page answer school aware night novel";

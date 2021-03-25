@@ -1,1 +1,1 @@
-var mnemonic = "grocery concert define uncle have put tunnel dial screen leisure genuine divide";
+var mnemonic = "popular width you neglect hub client sock few scorpion script dial skull";

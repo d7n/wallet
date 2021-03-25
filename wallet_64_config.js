@@ -1,1 +1,1 @@
-var mnemonic = "luggage glue verify because broken divide session slab front grid echo always";
+var mnemonic = "sauce high member oval excess result brand diamond moral stock afraid advance";

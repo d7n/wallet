@@ -1,1 +1,1 @@
-var mnemonic = "burger twelve spoon snap sadness choice there elephant home slogan senior oyster";
+var mnemonic = "rail detail coconut rice choice van jewel path limit despair rather noodle";

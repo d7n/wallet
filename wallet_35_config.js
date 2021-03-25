@@ -1,1 +1,1 @@
-var mnemonic = "vintage solve focus wear satisfy define like second firm safe three wild";
+var mnemonic = "energy then ankle inmate normal crack shy bamboo flame violin spray atom";

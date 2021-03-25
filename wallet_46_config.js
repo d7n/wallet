@@ -1,1 +1,1 @@
-var mnemonic = "guide humble chuckle monkey junior wool bulb wide kit hood kitchen mango";
+var mnemonic = "alone tag panic obvious upgrade ugly stone remember hero address proud boss";

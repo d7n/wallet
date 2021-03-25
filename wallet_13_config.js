@@ -1,1 +1,1 @@
-var mnemonic = "illness today lobster travel relax parrot impose squirrel asset normal evidence slim";
+var mnemonic = "uphold vibrant usual steel enjoy fancy heart jungle deny ride garbage boost";

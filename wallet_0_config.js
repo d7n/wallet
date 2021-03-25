@@ -1,1 +1,1 @@
-var mnemonic = "crush slam vast draw bread pilot curve sense pistol layer vivid road";
+var mnemonic = "kiss photo mixture coil inspire clock sick image dwarf broccoli orphan resemble";

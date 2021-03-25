@@ -1,1 +1,1 @@
-var mnemonic = "soccer stamp doll safe arm bitter crawl brisk bridge mammal patrol detail";
+var mnemonic = "fabric smile trash salad quiz venue track spot crop beyond gun erosion";

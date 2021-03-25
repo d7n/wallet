@@ -1,1 +1,1 @@
-var mnemonic = "sick category slab aware crop library luxury milk firm common evidence praise";
+var mnemonic = "patch live table empty find mercy song piece east resource vague unlock";

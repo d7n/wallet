@@ -1,1 +1,1 @@
-var mnemonic = "input media kiwi mistake crisp fault tag flash wood minor fan toy";
+var mnemonic = "media print thought sound version sense curve matrix exit antenna initial torch";

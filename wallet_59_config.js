@@ -1,1 +1,1 @@
-var mnemonic = "ignore merit swap giraffe coral hawk helmet gasp year old cost wish";
+var mnemonic = "stomach between festival math punch express inquiry city excess blossom change suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "custom mystery amazing tent shock home cat mosquito daring keen brush brain";
+var mnemonic = "grant sunny dish scrap arrive rough borrow unhappy later plate lounge refuse";

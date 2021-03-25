@@ -1,1 +1,1 @@
-var mnemonic = "penalty nothing switch buddy seed voyage middle child inherit account misery spoon";
+var mnemonic = "rubber marble absurd adjust swallow riot start excess convince second harbor core";

@@ -1,1 +1,1 @@
-var mnemonic = "success merit glass push coast dwarf siege garden flee solve wrist canvas";
+var mnemonic = "garden easy life salute draw detect snake goat robot tag camp release";

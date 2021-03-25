@@ -1,1 +1,1 @@
-var mnemonic = "still until voice embody dwarf auction large bicycle half two bonus danger";
+var mnemonic = "rare frost drill grunt search approve movie silly excess expire melt borrow";

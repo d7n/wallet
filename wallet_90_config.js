@@ -1,1 +1,1 @@
-var mnemonic = "unhappy human stuff flee minimum control bulk merge protect bicycle tenant cube";
+var mnemonic = "crunch bone fatigue plunge iron method uphold omit belt wage feature essay";

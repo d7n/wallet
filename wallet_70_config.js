@@ -1,1 +1,1 @@
-var mnemonic = "unfair keep staff response pen lunch unusual swamp lake poverty approve upper";
+var mnemonic = "high sleep task celery sing anchor random frame cash shop drum slim";

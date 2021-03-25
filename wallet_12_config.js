@@ -1,1 +1,1 @@
-var mnemonic = "tonight bitter chaos balance hand cluster owner cute rug length calm dirt";
+var mnemonic = "biology enable uncover soldier gorilla zebra more century portion board oven modify";

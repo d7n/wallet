@@ -1,1 +1,1 @@
-var mnemonic = "scout salon green fly equip fee season hungry debris cable breeze rely";
+var mnemonic = "flavor alert stage finger grape riot symbol allow walk gauge this mix";

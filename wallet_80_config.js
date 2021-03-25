@@ -1,1 +1,1 @@
-var mnemonic = "excuse alone rather never duck deliver wool glare fruit chapter proud bitter";
+var mnemonic = "hover smoke add spike give deposit wish grape expand honey home faith";

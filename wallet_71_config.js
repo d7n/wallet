@@ -1,1 +1,1 @@
-var mnemonic = "doll gift park upper kiss machine pony avocado wave harsh perfect bone";
+var mnemonic = "process gap club gorilla foil ticket hill cushion save coil arctic ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding debate act average volcano universe kind club nation luggage clarify include";
+var mnemonic = "paper asthma south dirt infant quarter merit inhale divert filter canoe matter";

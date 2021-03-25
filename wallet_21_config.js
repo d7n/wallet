@@ -1,1 +1,1 @@
-var mnemonic = "assume barrel matrix air favorite device motion poet harsh hurdle dice clean";
+var mnemonic = "heart gate reopen involve pen enact please admit lyrics afford secret drift";

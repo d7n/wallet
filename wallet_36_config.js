@@ -1,1 +1,1 @@
-var mnemonic = "silk tape attitude half ethics depart rain meadow supreme husband sauce acoustic";
+var mnemonic = "subway nasty rude wide join horse energy design capable acquire insane trade";

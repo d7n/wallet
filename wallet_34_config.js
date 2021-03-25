@@ -1,1 +1,1 @@
-var mnemonic = "another unfold color tilt cool dry cheap few spice pink title rubber";
+var mnemonic = "dial buffalo child gossip dirt modify beef slice spot among test arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "enemy buffalo crazy salad regular swallow task fun defense leader shift bargain";
+var mnemonic = "mystery shield involve wonder galaxy quit dose area this decrease also eternal";

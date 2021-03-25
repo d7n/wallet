@@ -1,1 +1,1 @@
-var mnemonic = "tourist cannon farm remind meat dinosaur depth enable into elephant rich blush";
+var mnemonic = "industry cement seed supreme busy certain universe grunt arrest finish honey degree";

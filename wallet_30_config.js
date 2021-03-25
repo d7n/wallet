@@ -1,1 +1,1 @@
-var mnemonic = "insect concert advance despair skill actress arch material invite this lab scan";
+var mnemonic = "put ten attend rice have public cancel deliver rack inflict please inherit";

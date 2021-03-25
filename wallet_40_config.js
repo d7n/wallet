@@ -1,1 +1,1 @@
-var mnemonic = "put guide kick guilt utility castle awesome device exclude monkey bicycle lemon";
+var mnemonic = "elevator strong gather neutral remember squeeze wealth party ankle vault pet day";

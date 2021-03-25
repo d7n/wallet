@@ -1,1 +1,1 @@
-var mnemonic = "radar defense yellow vessel toy cook girl stumble hen true will radar";
+var mnemonic = "metal again banner decade clarify chase sadness snack humble worry inch version";

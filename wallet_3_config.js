@@ -1,1 +1,1 @@
-var mnemonic = "month faculty pact risk unfold weather evolve poet case frog unfair enrich";
+var mnemonic = "vivid grit soon pig earn turtle country medal mesh cigar awful mean";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton camp tail orchard notable brave near wash success novel neck sudden";
+var mnemonic = "sample uncover garlic increase amount token gate open anchor travel van account";

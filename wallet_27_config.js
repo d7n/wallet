@@ -1,1 +1,1 @@
-var mnemonic = "stem enhance next obey oblige ribbon pig room affair odor humor injury";
+var mnemonic = "cupboard hurt picnic leg bracket horror design ozone clump uphold replace old";

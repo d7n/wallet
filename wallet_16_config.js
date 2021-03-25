@@ -1,1 +1,1 @@
-var mnemonic = "plastic sword wash garage light giggle concert margin night increase spin script";
+var mnemonic = "tomorrow layer movie fall aspect burden next promote index lumber multiply attract";

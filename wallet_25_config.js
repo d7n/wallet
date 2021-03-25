@@ -1,1 +1,1 @@
-var mnemonic = "wood jacket boost upgrade media inspire duck tray umbrella obscure merry firm";
+var mnemonic = "strategy attitude depend fancy meadow mix proof once mad rebel modify fashion";

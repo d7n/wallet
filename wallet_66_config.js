@@ -1,1 +1,1 @@
-var mnemonic = "chaos tiny lens radar gaze hungry bleak foam nephew addict order habit";
+var mnemonic = "jacket abuse toss can laugh curve chimney correct creek shy exhaust grape";

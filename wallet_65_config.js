@@ -1,1 +1,1 @@
-var mnemonic = "two stone cruel urban glare height apple volcano chicken object company sunset";
+var mnemonic = "eagle summer town gossip cave faith address entry orphan divide decade cloth";

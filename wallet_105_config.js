@@ -1,1 +1,1 @@
-var mnemonic = "street scrub dutch upgrade move fade hunt audit walk cricket opera glance";
+var mnemonic = "motion cabbage rigid submit hold magnet organ notice try squirrel sadness gloom";

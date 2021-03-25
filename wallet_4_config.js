@@ -1,1 +1,1 @@
-var mnemonic = "reveal solid more stage relax obvious crouch donor trial trouble hub open";
+var mnemonic = "damp walnut expand soon person shove rescue vivid business elephant humble burst";

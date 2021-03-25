@@ -1,1 +1,1 @@
-var mnemonic = "venture develop panel game artefact autumn world sunset journey forum maximum youth";
+var mnemonic = "timber forest trouble leaf abstract glass dynamic hidden ocean danger borrow bulk";

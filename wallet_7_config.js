@@ -1,1 +1,1 @@
-var mnemonic = "palm exist beauty affair admit hamster practice arrow spread shrug spy screen";
+var mnemonic = "eight else movie release idea essay relief bar unit brother frame utility";

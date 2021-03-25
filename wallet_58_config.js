@@ -1,1 +1,1 @@
-var mnemonic = "endless notable rail enter mango hundred weird fade phone dose deliver depart";
+var mnemonic = "adjust soul question enroll build erase saddle immense curious blur juice soon";
