@@ -1,1 +1,1 @@
-var mnemonic = "mail old prosper equip arrive key gauge hour slim tuition cigar accuse";
+var mnemonic = "two stone cruel urban glare height apple volcano chicken object company sunset";

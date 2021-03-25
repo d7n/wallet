@@ -1,1 +1,1 @@
-var mnemonic = "front oyster beef capable pigeon screen impact two borrow season cupboard charge";
+var mnemonic = "street scrub dutch upgrade move fade hunt audit walk cricket opera glance";

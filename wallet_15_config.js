@@ -1,1 +1,1 @@
-var mnemonic = "danger umbrella duty poverty blast floor trial tail ripple ignore clay memory";
+var mnemonic = "assault dirt smile hint barely cash emotion course junk visual black stool";

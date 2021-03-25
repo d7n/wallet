@@ -1,1 +1,1 @@
-var mnemonic = "improve blast truck stove busy correct exhibit pull cage remain involve arrest";
+var mnemonic = "despair mix belt soup army parade knock produce apart point carbon clutch";

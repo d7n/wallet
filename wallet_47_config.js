@@ -1,1 +1,1 @@
-var mnemonic = "adjust pet silly crime absurd coffee candy turkey check chuckle wagon type";
+var mnemonic = "wash swamp shrimp direct marine admit report attract tail identify program step";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb clever sell need furnace spend pet speed rhythm ready piece chapter";
+var mnemonic = "soccer stamp doll safe arm bitter crawl brisk bridge mammal patrol detail";

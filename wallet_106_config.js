@@ -1,1 +1,1 @@
-var mnemonic = "usual subject common lift cute stable candy club olympic theme calm trophy";
+var mnemonic = "custom mystery amazing tent shock home cat mosquito daring keen brush brain";

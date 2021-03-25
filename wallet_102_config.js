@@ -1,1 +1,1 @@
-var mnemonic = "phrase marine tourist ensure title body trend guide leave guilt start aisle";
+var mnemonic = "tourist miracle panther similar canoe vivid afford walk patient air leader taxi";

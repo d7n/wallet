@@ -1,1 +1,1 @@
-var mnemonic = "learn across custom crunch badge lady chicken warfare horn weird notable carry";
+var mnemonic = "mutual unusual garment cereal original twist bulk crazy concert current marble oyster";

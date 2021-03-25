@@ -1,1 +1,1 @@
-var mnemonic = "dish essence column velvet weasel notable enrich armed section similar clump panel";
+var mnemonic = "venture develop panel game artefact autumn world sunset journey forum maximum youth";

@@ -1,1 +1,1 @@
-var mnemonic = "library soldier horse solid tragic name poverty saddle reveal abandon riot tunnel";
+var mnemonic = "era tired section must spray name hair layer position state tooth praise";

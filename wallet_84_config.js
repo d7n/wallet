@@ -1,1 +1,1 @@
-var mnemonic = "sign method estate suffer consider grief fiscal eager sail busy attitude absorb";
+var mnemonic = "ancient visual major category swift turkey universe collect pulp resemble cancel step";

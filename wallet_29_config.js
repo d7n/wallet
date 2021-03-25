@@ -1,1 +1,1 @@
-var mnemonic = "hidden return turtle onion shed furnace planet sun proof wisdom candy worry";
+var mnemonic = "language fan cry snap faint accident remind wear inhale certain duck imitate";

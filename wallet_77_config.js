@@ -1,1 +1,1 @@
-var mnemonic = "talk wasp weasel wet amateur timber salon calm nothing talent inform cute";
+var mnemonic = "grab insect orange skirt hip ring parent link leopard receive endless illegal";

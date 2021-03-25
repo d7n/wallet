@@ -1,1 +1,1 @@
-var mnemonic = "indoor fashion category hungry trim december void ecology tomorrow hover range clock";
+var mnemonic = "useful degree truly about north diagram saddle side success awful pull enforce";

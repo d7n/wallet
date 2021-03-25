@@ -1,1 +1,1 @@
-var mnemonic = "habit purchase letter tube minute web mouse cousin connect step position material";
+var mnemonic = "unfair keep staff response pen lunch unusual swamp lake poverty approve upper";

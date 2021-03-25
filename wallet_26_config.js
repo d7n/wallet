@@ -1,1 +1,1 @@
-var mnemonic = "behind observe left water rose idea cement bundle orchard truly fade rely";
+var mnemonic = "vehicle model future energy joke abandon section pulse cable fabric film weekend";

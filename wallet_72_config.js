@@ -1,1 +1,1 @@
-var mnemonic = "grain happy piano tackle market air body sound idle card prefer faith";
+var mnemonic = "cook primary lake peace belt almost lend become crew amused draft lake";

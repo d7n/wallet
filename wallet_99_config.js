@@ -1,1 +1,1 @@
-var mnemonic = "kit lizard offer guilt toward betray rifle sleep essay holiday woman raise";
+var mnemonic = "ensure banana pepper mistake crush aunt course music gas make drum sail";

@@ -1,1 +1,1 @@
-var mnemonic = "office error you limit chef unique release stuff direct april celery sorry";
+var mnemonic = "report choice vast laugh fancy present clown you fluid exchange blast burst";

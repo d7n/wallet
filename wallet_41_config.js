@@ -1,1 +1,1 @@
-var mnemonic = "update capital sibling click catalog narrow town bacon calm have april neglect";
+var mnemonic = "region spoil moon wood edge olive aerobic dash omit monitor sport slender";

@@ -1,1 +1,1 @@
-var mnemonic = "age now refuse pill giggle nephew jelly bind scrub bundle roast cigar";
+var mnemonic = "tool infant dilemma roast car gate prize onion cabbage kangaroo grab dice";

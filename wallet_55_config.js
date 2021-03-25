@@ -1,1 +1,1 @@
-var mnemonic = "dilemma stay clump open defy flush large aerobic proud matrix roast traffic";
+var mnemonic = "second sponsor motor nation attack resist staff stand around drastic question derive";

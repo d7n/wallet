@@ -1,1 +1,1 @@
-var mnemonic = "tackle talent shell wasp pool need foil slow mean cluster mean wise";
+var mnemonic = "model lonely robust cherry tumble sail join nominee lend uncover wheat lucky";

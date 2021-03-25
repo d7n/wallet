@@ -1,1 +1,1 @@
-var mnemonic = "now blind plastic super neither author nest hidden private creek spirit virus";
+var mnemonic = "reveal solid more stage relax obvious crouch donor trial trouble hub open";

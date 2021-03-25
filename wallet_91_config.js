@@ -1,1 +1,1 @@
-var mnemonic = "patrol humble finger kick gospel neglect document disease business favorite segment absorb";
+var mnemonic = "guilt extend clog kid cabbage rib liar dwarf number page exotic moral";

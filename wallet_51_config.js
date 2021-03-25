@@ -1,1 +1,1 @@
-var mnemonic = "inflict depart great galaxy crater bacon brass wrist crime boil submit sail";
+var mnemonic = "scout salon green fly equip fee season hungry debris cable breeze rely";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal priority ozone door axis essay lumber lawn shallow hospital toy flight";
+var mnemonic = "guide humble chuckle monkey junior wool bulb wide kit hood kitchen mango";

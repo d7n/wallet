@@ -1,1 +1,1 @@
-var mnemonic = "buddy album open garment invest punch park never family more garage nephew";
+var mnemonic = "used talk sound sheriff belt rally youth dwarf always dilemma width bacon";

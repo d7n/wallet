@@ -1,1 +1,1 @@
-var mnemonic = "planet bring dawn tray proud prize almost noise mix time taste clown";
+var mnemonic = "palm exist beauty affair admit hamster practice arrow spread shrug spy screen";

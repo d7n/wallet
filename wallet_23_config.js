@@ -1,1 +1,1 @@
-var mnemonic = "pear gas scheme shock bulb erosion spare catch body describe skate knee";
+var mnemonic = "chief tube stuff stamp vapor picnic license promote hold ladder involve typical";

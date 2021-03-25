@@ -1,1 +1,1 @@
-var mnemonic = "advice must endorse parrot onion matter north slight please tourist pistol pact";
+var mnemonic = "copper armor clap tunnel unusual recall smooth kitchen depart antique flavor reopen";

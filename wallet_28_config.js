@@ -1,1 +1,1 @@
-var mnemonic = "either vintage leave thunder present rare rib mammal snow trend check help";
+var mnemonic = "rate stem arrive earth rate noodle rally state toy chronic panther rotate";

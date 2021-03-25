@@ -1,1 +1,1 @@
-var mnemonic = "cross above syrup reopen repeat clever sustain embark celery census describe achieve";
+var mnemonic = "sick category slab aware crop library luxury milk firm common evidence praise";

@@ -1,1 +1,1 @@
-var mnemonic = "upset treat pretty quick airport morning spoil leisure upset theory real state";
+var mnemonic = "urban depart spell keep demand course such coin armor prefer ramp auction";

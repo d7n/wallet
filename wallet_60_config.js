@@ -1,1 +1,1 @@
-var mnemonic = "love crowd scheme sugar sell security trick spirit offer turn eyebrow talk";
+var mnemonic = "always runway castle ignore bridge snake cruel earn excuse sadness happy coral";

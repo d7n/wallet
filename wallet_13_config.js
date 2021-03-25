@@ -1,1 +1,1 @@
-var mnemonic = "cotton vanish height tuition lazy inquiry chair merit capital token sweet donate";
+var mnemonic = "illness today lobster travel relax parrot impose squirrel asset normal evidence slim";

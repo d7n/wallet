@@ -1,1 +1,1 @@
-var mnemonic = "expect raccoon put nominee satoshi world pattern aerobic until concert hope priority";
+var mnemonic = "only target coast attitude pond shoot chest world ritual letter three hammer";

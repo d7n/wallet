@@ -1,1 +1,1 @@
-var mnemonic = "noise nose climb direct reject arrange hub defy shock purpose pause despair";
+var mnemonic = "casual tuition hint violin make dust barely flower holiday together wealth divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "feature net search error thank frost pigeon soap mad reject damp enact";
+var mnemonic = "potato strong hungry label bracket card lucky cousin morning oppose hip spatial";

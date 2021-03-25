@@ -1,1 +1,1 @@
-var mnemonic = "metal help truck asset never love library captain include upset impulse duty";
+var mnemonic = "among patrol ladder bonus kind annual inmate library burden art van chair";

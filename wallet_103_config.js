@@ -1,1 +1,1 @@
-var mnemonic = "inch ahead ripple caution urge sense curve duck joke glue skill test";
+var mnemonic = "scheme strategy stadium mirror predict phone fabric excess victory kick expect gallery";

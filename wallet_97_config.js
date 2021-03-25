@@ -1,1 +1,1 @@
-var mnemonic = "wise hidden strike coconut quarter erase doll car cargo actress secret boy";
+var mnemonic = "buffalo aspect nut hamster artwork taxi junior find weapon local trade web";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite glad near sibling sleep eight behind torch estate toward movie dinosaur";
+var mnemonic = "alpha sponsor junior fade provide awesome crouch bike wild blossom about add";

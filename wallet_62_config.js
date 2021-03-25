@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur urge client ethics stock cupboard genuine story before sponsor just true";
+var mnemonic = "fit illegal tribe soul muscle olympic science notice slush symbol asset shallow";

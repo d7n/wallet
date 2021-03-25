@@ -1,1 +1,1 @@
-var mnemonic = "town cloud under fiber stage used dizzy hold define math unique minor";
+var mnemonic = "park crouch impulse alcohol they priority scale field reduce cement pool palace";

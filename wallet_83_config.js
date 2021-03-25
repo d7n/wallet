@@ -1,1 +1,1 @@
-var mnemonic = "fine kick mechanic helmet find worth assume myth atom green hockey keep";
+var mnemonic = "tourist cannon farm remind meat dinosaur depth enable into elephant rich blush";

@@ -1,1 +1,1 @@
-var mnemonic = "century stove cushion adult bottom broccoli body apology arch cat arrive exercise";
+var mnemonic = "speed quality bridge bracket project boring basket negative clutch height marine sun";

@@ -1,1 +1,1 @@
-var mnemonic = "ask lounge purse blur artefact dust multiply fragile differ scare adjust meat";
+var mnemonic = "country skull tongue distance comfort involve crunch rigid subject doll bag marriage";

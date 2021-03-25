@@ -1,1 +1,1 @@
-var mnemonic = "stomach harvest refuse egg answer fan later forest iron sure primary clock";
+var mnemonic = "empower crunch horn shock pelican keen vendor slot pupil mad dust february";

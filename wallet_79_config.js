@@ -1,1 +1,1 @@
-var mnemonic = "wing garage scale shift priority broccoli dilemma extra wasp space faculty wet";
+var mnemonic = "tragic empower best valid metal early victory dilemma weird orange boring moment";

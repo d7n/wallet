@@ -1,1 +1,1 @@
-var mnemonic = "bullet change unusual umbrella head canvas canyon risk hundred stamp monkey song";
+var mnemonic = "still until voice embody dwarf auction large bicycle half two bonus danger";

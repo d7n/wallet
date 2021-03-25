@@ -1,1 +1,1 @@
-var mnemonic = "barely pretty federal ski host phrase direct nest other physical sketch diamond";
+var mnemonic = "vanish educate order found typical effort shy front latin dragon claw during";

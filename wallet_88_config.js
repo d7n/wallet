@@ -1,1 +1,1 @@
-var mnemonic = "cherry false style refuse switch main search reopen rifle traffic hard amazing";
+var mnemonic = "penalty nothing switch buddy seed voyage middle child inherit account misery spoon";

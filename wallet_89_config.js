@@ -1,1 +1,1 @@
-var mnemonic = "romance hello soon cinnamon hair upper oppose sentence flight glove today crystal";
+var mnemonic = "radar defense yellow vessel toy cook girl stumble hen true will radar";

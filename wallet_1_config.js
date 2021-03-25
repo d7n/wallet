@@ -1,1 +1,1 @@
-var mnemonic = "update whip egg arena sweet law safe sudden super tiger goose record";
+var mnemonic = "cotton camp tail orchard notable brave near wash success novel neck sudden";

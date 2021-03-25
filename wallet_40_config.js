@@ -1,1 +1,1 @@
-var mnemonic = "ecology work whip myth ripple upgrade volcano airport world office margin wet";
+var mnemonic = "put guide kick guilt utility castle awesome device exclude monkey bicycle lemon";

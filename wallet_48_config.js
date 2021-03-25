@@ -1,1 +1,1 @@
-var mnemonic = "sad fiber feed person save turtle fun input orchard become manage digital";
+var mnemonic = "huge unveil post decline combine over flip hat fortune awesome eternal news";

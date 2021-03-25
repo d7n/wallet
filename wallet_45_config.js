@@ -1,1 +1,1 @@
-var mnemonic = "hungry gospel food repeat valley island sad nephew armed knee wait leaf";
+var mnemonic = "immune vacant lab umbrella midnight buyer uphold prefer ugly use margin spider";

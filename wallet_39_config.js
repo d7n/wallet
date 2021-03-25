@@ -1,1 +1,1 @@
-var mnemonic = "tube picture sketch obscure sunset spot you kind april remain another ask";
+var mnemonic = "arch evolve renew group love woman penalty jar aisle chronic laundry coil";

@@ -1,1 +1,1 @@
-var mnemonic = "report blush public cram beef rough prison sunset entry visit aspect maple";
+var mnemonic = "labor vivid bench ostrich paddle slight view cupboard dash click wonder yard";

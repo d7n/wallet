@@ -1,1 +1,1 @@
-var mnemonic = "crater inquiry eyebrow float pet defense pluck snap wear knock decorate need";
+var mnemonic = "master possible push can bulk affair toy account cluster same about arrow";

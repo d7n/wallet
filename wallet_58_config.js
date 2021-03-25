@@ -1,1 +1,1 @@
-var mnemonic = "tree door retreat trumpet order jump transfer host roof finger genre leader";
+var mnemonic = "endless notable rail enter mango hundred weird fade phone dose deliver depart";

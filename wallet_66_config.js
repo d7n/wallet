@@ -1,1 +1,1 @@
-var mnemonic = "limb clean sniff erode accident doctor arm taste menu adult dust furnace";
+var mnemonic = "chaos tiny lens radar gaze hungry bleak foam nephew addict order habit";

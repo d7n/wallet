@@ -1,1 +1,1 @@
-var mnemonic = "cancel program radio tree smart pyramid opinion love advance army limb among";
+var mnemonic = "disorder figure usual length return upset morning beyond fuel rotate steel word";

@@ -1,1 +1,1 @@
-var mnemonic = "ask ancient adult comfort catch size solar pistol harbor stone soon mechanic";
+var mnemonic = "wedding debate act average volcano universe kind club nation luggage clarify include";

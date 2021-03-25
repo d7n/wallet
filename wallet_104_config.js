@@ -1,1 +1,1 @@
-var mnemonic = "mobile wash sheriff wave fine luxury fold tourist transfer crunch guess survey";
+var mnemonic = "success merit glass push coast dwarf siege garden flee solve wrist canvas";

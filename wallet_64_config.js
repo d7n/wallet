@@ -1,1 +1,1 @@
-var mnemonic = "mystery banner hobby comfort physical woman laptop number pencil unlock scheme crop";
+var mnemonic = "luggage glue verify because broken divide session slab front grid echo always";

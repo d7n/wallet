@@ -1,1 +1,1 @@
-var mnemonic = "venue trap october monkey smoke orient acquire champion brain such habit illness";
+var mnemonic = "plastic sword wash garage light giggle concert margin night increase spin script";

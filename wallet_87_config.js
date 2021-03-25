@@ -1,1 +1,1 @@
-var mnemonic = "alert depart grief shed gown include adapt foster dose setup flower initial";
+var mnemonic = "decrease day forum enable crush forward open taste visual define slot humor";

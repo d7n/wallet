@@ -1,1 +1,1 @@
-var mnemonic = "trap unaware witness jaguar neglect promote polar anxiety state stuff demise assume";
+var mnemonic = "truly palace curtain tray globe primary kite walnut wedding select civil crunch";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle scheme pony enrich remind castle unknown clay purchase month duck start";
+var mnemonic = "noise submit orbit wrestle enlist loyal smart kit bronze alone brick oven";

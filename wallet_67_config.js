@@ -1,1 +1,1 @@
-var mnemonic = "drift tool library never resemble witness someone region call collect idle laugh";
+var mnemonic = "offer try blouse enough endless mind glimpse badge deposit fire emerge grab";

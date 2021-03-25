@@ -1,1 +1,1 @@
-var mnemonic = "virtual rose page spring urban can firm blind wave double trade scrub";
+var mnemonic = "doll gift park upper kiss machine pony avocado wave harsh perfect bone";

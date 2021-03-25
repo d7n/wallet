@@ -1,1 +1,1 @@
-var mnemonic = "raise desert path raise baby other stem kit relax lady shy waste";
+var mnemonic = "sniff media oblige rule absent board harbor fashion crouch such rude warm";

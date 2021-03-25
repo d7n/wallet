@@ -1,1 +1,1 @@
-var mnemonic = "observe team neither match jazz deer wage dune wheat involve goat install";
+var mnemonic = "kite recycle soda afraid dial sleep labor wool charge eight grant tortoise";

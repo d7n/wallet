@@ -1,1 +1,1 @@
-var mnemonic = "parent wink lock sadness fire swim cradle peanut heavy usual adjust isolate";
+var mnemonic = "burger twelve spoon snap sadness choice there elephant home slogan senior oyster";

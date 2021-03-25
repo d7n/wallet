@@ -1,1 +1,1 @@
-var mnemonic = "outside dish slow drop economy fever alert risk twelve wood moon buzz";
+var mnemonic = "exercise detail hat invest young lecture ball eagle payment agree mixed actor";

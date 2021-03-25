@@ -1,1 +1,1 @@
-var mnemonic = "lottery add thought find hope salt gun elite age hundred fatal prosper";
+var mnemonic = "tilt deny range input indicate copy coyote category box provide street symptom";

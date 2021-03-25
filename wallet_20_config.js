@@ -1,1 +1,1 @@
-var mnemonic = "basket popular tennis broom runway spin story pizza believe broccoli because insect";
+var mnemonic = "enemy buffalo crazy salad regular swallow task fun defense leader shift bargain";

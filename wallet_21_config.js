@@ -1,1 +1,1 @@
-var mnemonic = "ordinary omit head found loan crucial maid spring alcohol chimney flame relax";
+var mnemonic = "assume barrel matrix air favorite device motion poet harsh hurdle dice clean";

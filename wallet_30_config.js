@@ -1,1 +1,1 @@
-var mnemonic = "angle reason shoe ring pioneer gloom moon exhaust river awesome stick describe";
+var mnemonic = "insect concert advance despair skill actress arch material invite this lab scan";

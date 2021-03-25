@@ -1,1 +1,1 @@
-var mnemonic = "cave enrich spawn steel walk prize rib tone index warfare exhaust share";
+var mnemonic = "decade cotton fever useless fox mammal buffalo february outdoor frown close gloom";

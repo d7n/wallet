@@ -1,1 +1,1 @@
-var mnemonic = "light soap nothing envelope decrease rapid quit moral drive worry patient drop";
+var mnemonic = "wood jacket boost upgrade media inspire duck tray umbrella obscure merry firm";

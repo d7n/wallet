@@ -1,1 +1,1 @@
-var mnemonic = "corn tree vapor castle lens daughter seek arm silly fever drive own";
+var mnemonic = "cliff sport route buyer squirrel assume veteran media avocado expect praise joke";

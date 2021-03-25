@@ -1,1 +1,1 @@
-var mnemonic = "pottery picture lunar club phone floor network clarify benefit turkey task sugar";
+var mnemonic = "grape minute broom warm session control elite track hybrid squirrel cat ketchup";

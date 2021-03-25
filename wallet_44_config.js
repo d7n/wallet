@@ -1,1 +1,1 @@
-var mnemonic = "myth sick kitchen find round insect enjoy congress march carpet lunch conduct";
+var mnemonic = "seed person vessel inflict list tornado problem dolphin knife control satoshi about";

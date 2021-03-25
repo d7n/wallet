@@ -1,1 +1,1 @@
-var mnemonic = "chair lonely breeze display giggle visa museum correct village clinic gift lizard";
+var mnemonic = "input media kiwi mistake crisp fault tag flash wood minor fan toy";

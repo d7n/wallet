@@ -1,1 +1,1 @@
-var mnemonic = "same ripple quick town interest jar foil permit cricket floor birth honey";
+var mnemonic = "unhappy human stuff flee minimum control bulk merge protect bicycle tenant cube";

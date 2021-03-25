@@ -1,1 +1,1 @@
-var mnemonic = "daughter suggest forward garment tuition feed crack file unhappy fantasy elder scale";
+var mnemonic = "reveal survey fuel cube cheap genre garage kind island future state chronic";

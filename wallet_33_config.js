@@ -1,1 +1,1 @@
-var mnemonic = "void brain vacant song note turn edge album auto interest north spare";
+var mnemonic = "excite tower arrow abandon produce congress awake state genre alter master mistake";
