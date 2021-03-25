@@ -1,1 +1,1 @@
-var mnemonic = "define task banner abstract safe aim turkey episode shy female advance like";
+var mnemonic = "visual beauty time anger duty aware special blind meadow puzzle soda endorse";

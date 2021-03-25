@@ -1,1 +1,1 @@
-var mnemonic = "oval price gallery section call above still apple police miss exercise between";
+var mnemonic = "stand crisp quote van fire figure minimum erosion basket cross all leader";

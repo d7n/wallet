@@ -1,1 +1,1 @@
-var mnemonic = "marble rug west amateur index domain scorpion exact hurdle fat boil domain";
+var mnemonic = "mandate dial sunny until mistake chunk sock infant truly keen disagree embody";

@@ -1,1 +1,1 @@
-var mnemonic = "brother liquid brass saddle spend lunch depth side imitate jungle fashion kidney";
+var mnemonic = "inner rally poem attitude era disease there nothing pet chuckle document boat";

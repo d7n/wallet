@@ -1,1 +1,1 @@
-var mnemonic = "cereal aspect edge title nice hard solution raven abandon spawn talk ice";
+var mnemonic = "luxury shine soldier view oven rifle near festival buzz identify brisk cushion";

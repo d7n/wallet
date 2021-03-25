@@ -1,1 +1,1 @@
-var mnemonic = "hub mistake spirit final mountain fade wisdom chimney kit boss virus main";
+var mnemonic = "web script immense tilt silent ankle million zone horn pupil order milk";

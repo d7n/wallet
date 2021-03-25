@@ -1,1 +1,1 @@
-var mnemonic = "shine dilemma push labor dial average garment loan inmate dry shuffle attitude";
+var mnemonic = "decline govern enough patch erosion climb circle cover kind genre barely snap";

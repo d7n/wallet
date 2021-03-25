@@ -1,1 +1,1 @@
-var mnemonic = "century shield hurt horn stable divorce february coffee plate cannon slot glad";
+var mnemonic = "denial craft giraffe hope census cereal refuse kit love act fiber cliff";

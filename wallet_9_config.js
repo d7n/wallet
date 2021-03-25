@@ -1,1 +1,1 @@
-var mnemonic = "trend dynamic shop become yellow canal saddle fabric twist fragile proud turtle";
+var mnemonic = "pelican grant business prosper aspect will poet state random tortoise twelve usual";

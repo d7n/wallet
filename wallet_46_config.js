@@ -1,1 +1,1 @@
-var mnemonic = "able issue hire tower public lizard advance gate popular dash feature enter";
+var mnemonic = "two great spirit surface quick future depend census sting sorry will pupil";

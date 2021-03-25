@@ -1,1 +1,1 @@
-var mnemonic = "swarm amused grant plastic yellow trial jacket patrol gain axis walnut wish";
+var mnemonic = "federal patrol erode pulse amateur second rabbit sunny climb run ecology excite";

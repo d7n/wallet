@@ -1,1 +1,1 @@
-var mnemonic = "oven nuclear similar valid nominee silk camp enact wink hurt crumble thought";
+var mnemonic = "army crouch brief dynamic floor despair account relax lucky casino depth bronze";

@@ -1,1 +1,1 @@
-var mnemonic = "dove shrimp library pudding seminar chair life noise elevator vast ship tiny";
+var mnemonic = "erosion blue traffic coffee gentle chase wave replace rotate erase west repair";

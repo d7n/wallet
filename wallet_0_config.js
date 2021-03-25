@@ -1,1 +1,1 @@
-var mnemonic = "high funny rail cabin seat foster state corn arrange flee blind sense";
+var mnemonic = "little shaft off more shop market flash long ketchup era decade captain";

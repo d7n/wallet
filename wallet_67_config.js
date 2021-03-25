@@ -1,1 +1,1 @@
-var mnemonic = "fortune lion foster fence patient sheriff comfort material brass spring scare proof";
+var mnemonic = "clever sting sample alone myself panel sweet naive alter broom orchard model";

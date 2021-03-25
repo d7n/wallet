@@ -1,1 +1,1 @@
-var mnemonic = "sword divorce junior quiz reason cupboard section juice sweet initial lesson punch";
+var mnemonic = "defense hole income pyramid mango wave royal sand true true glimpse extend";

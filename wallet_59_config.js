@@ -1,1 +1,1 @@
-var mnemonic = "walnut fancy barely shrug slight side project danger balance grab icon slush";
+var mnemonic = "lottery inherit filter tattoo hospital tree choice pistol model smooth layer exhibit";

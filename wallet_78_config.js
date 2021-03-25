@@ -1,1 +1,1 @@
-var mnemonic = "garden profit flee false human milk decline humble narrow symptom glimpse other";
+var mnemonic = "pave step lab speak off describe minor attend success reward such broom";

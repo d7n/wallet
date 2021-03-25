@@ -1,1 +1,1 @@
-var mnemonic = "develop candy shadow season worry wrong sound elite usual album dress excess";
+var mnemonic = "enforce select egg april card cliff chief lonely shine equal purpose victory";

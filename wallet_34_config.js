@@ -1,1 +1,1 @@
-var mnemonic = "divide wash tunnel beef toilet exercise robust scene relax front tomato monkey";
+var mnemonic = "mechanic meat page route discover duty weird jelly degree kiss clever coyote";

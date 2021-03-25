@@ -1,1 +1,1 @@
-var mnemonic = "rebuild key social sister betray shove water genius ankle notice sausage million";
+var mnemonic = "among wood perfect screen outside brick acid hobby gallery inspire spare sock";

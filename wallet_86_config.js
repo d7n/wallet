@@ -1,1 +1,1 @@
-var mnemonic = "rifle success mobile patient pill visual imitate mystery believe stage pride rural";
+var mnemonic = "title detect draft lecture worth close mean pig hover flush help soon";

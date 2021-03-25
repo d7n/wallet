@@ -1,1 +1,1 @@
-var mnemonic = "power spider air history seek duck pond royal remind short neutral grain";
+var mnemonic = "lawn world old lunar plastic divide enjoy fold frozen swing ocean define";

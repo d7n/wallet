@@ -1,1 +1,1 @@
-var mnemonic = "water toss silly trap drink input sword cupboard senior balcony exist grocery";
+var mnemonic = "dwarf charge poem six arrive forest stereo anchor topple private parent indicate";

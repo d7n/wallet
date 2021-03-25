@@ -1,1 +1,1 @@
-var mnemonic = "buffalo often stable olive winner asset acoustic enrich room sunny long skirt";
+var mnemonic = "stage glove sunset trumpet angle fortune way bracket cotton disease random chair";

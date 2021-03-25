@@ -1,1 +1,1 @@
-var mnemonic = "fame aspect crack planet romance asset version ankle doctor theory online frozen";
+var mnemonic = "will sword myth dose rhythm canyon crucial marine improve fantasy situate student";

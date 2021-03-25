@@ -1,1 +1,1 @@
-var mnemonic = "bargain absurd safe august click stock rose immune grape blue drum peasant";
+var mnemonic = "foster series flash squirrel post people erosion volume velvet impose kite garlic";

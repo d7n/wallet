@@ -1,1 +1,1 @@
-var mnemonic = "pluck celery simple cause hold box valid glad bright acquire ahead strategy";
+var mnemonic = "cause vocal flip oxygen cat forum comic song pony rural captain record";

@@ -1,1 +1,1 @@
-var mnemonic = "melody erosion vicious waste differ adult leopard broom symbol sister coin shoot";
+var mnemonic = "result whale top describe media pioneer someone page barely ripple misery solid";

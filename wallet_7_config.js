@@ -1,1 +1,1 @@
-var mnemonic = "trial ugly naive success attend inner joke shadow word famous sure absurd";
+var mnemonic = "shiver banana wagon task artwork perfect man metal minimum job unlock garment";

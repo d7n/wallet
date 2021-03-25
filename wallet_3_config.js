@@ -1,1 +1,1 @@
-var mnemonic = "dynamic powder govern kit cash swallow blood soft lunch embrace clutch believe";
+var mnemonic = "pitch deer relax lava system bracket during slim return denial update problem";

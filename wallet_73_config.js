@@ -1,1 +1,1 @@
-var mnemonic = "hello stove surprise net pitch wing inch bottom blast tip weather radio";
+var mnemonic = "syrup code garden rural pond quiz laptop vanish chronic sister govern wrap";

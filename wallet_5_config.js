@@ -1,1 +1,1 @@
-var mnemonic = "cube vendor open loop want humor gown field average harsh proof fresh";
+var mnemonic = "govern illness symptom coffee frog fetch blossom mammal library palm humor desk";

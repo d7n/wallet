@@ -1,1 +1,1 @@
-var mnemonic = "gym answer smoke diagram claim super soon pattern super carry stick label";
+var mnemonic = "pave unlock purity category leaf wool drum vocal begin estate vote insect";

@@ -1,1 +1,1 @@
-var mnemonic = "great review festival cactus best rookie finger spare destroy yard split cotton";
+var mnemonic = "glass brown depth monster view connect provide number huge sting blind action";

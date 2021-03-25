@@ -1,1 +1,1 @@
-var mnemonic = "modify entire broom very elite unfold consider plug assault plunge fine high";
+var mnemonic = "busy curve enforce ugly dance parent humble slush obtain any fence member";

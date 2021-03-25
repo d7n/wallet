@@ -1,1 +1,1 @@
-var mnemonic = "dilemma water trial become ritual ecology thrive wedding benefit valid dirt noble";
+var mnemonic = "destroy flower advice antenna leaf lawsuit pledge fetch abuse digital toy arctic";

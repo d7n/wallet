@@ -1,1 +1,1 @@
-var mnemonic = "globe copy jewel cheap sell dice tooth inch devote service fly world";
+var mnemonic = "resource genius involve awesome garage deal acoustic note sauce once exhibit pair";

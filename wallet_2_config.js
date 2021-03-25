@@ -1,1 +1,1 @@
-var mnemonic = "cube cruel nothing illegal session garden coyote pass differ cram hawk wage";
+var mnemonic = "exact awful caught submit destroy second diary day busy moment innocent scout";

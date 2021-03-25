@@ -1,1 +1,1 @@
-var mnemonic = "more toy movie rhythm rely bonus pulp donkey hand sorry remove merge";
+var mnemonic = "seek rural apart sauce battle sheriff version couple wage goose elegant deny";

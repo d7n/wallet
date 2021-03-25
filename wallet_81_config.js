@@ -1,1 +1,1 @@
-var mnemonic = "disagree fever neck certain market review remain nuclear canyon affair camp awful";
+var mnemonic = "spend raise sure can direct oblige identify useful garment cook similar average";

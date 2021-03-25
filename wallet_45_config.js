@@ -1,1 +1,1 @@
-var mnemonic = "huge lamp chapter spoil there three sketch bind rally blur endless echo";
+var mnemonic = "submit fiber solid allow miracle region opera exchange alert sell drip addict";

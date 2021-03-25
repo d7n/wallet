@@ -1,1 +1,1 @@
-var mnemonic = "auction gym assault attract gesture outer attack february inch climb october together";
+var mnemonic = "winner holiday crash horn disease swamp fun unable term horse impose fiber";

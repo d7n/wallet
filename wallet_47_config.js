@@ -1,1 +1,1 @@
-var mnemonic = "august town canoe machine dress pepper motor resist bleak garlic supply marine";
+var mnemonic = "celery floor soft mercy patrol love chef copper swim page churn dinosaur";

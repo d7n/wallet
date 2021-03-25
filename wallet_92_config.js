@@ -1,1 +1,1 @@
-var mnemonic = "sleep faculty patient trash frame type artist situate gloom invite sun draw";
+var mnemonic = "key proud lion behave basket cruise wet stove occur believe control asthma";

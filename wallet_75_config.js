@@ -1,1 +1,1 @@
-var mnemonic = "spot blanket fish nothing soup you zero syrup pony own parent collect";
+var mnemonic = "wrestle rug test vacant grant exact wasp doctor ranch trial tell beef";

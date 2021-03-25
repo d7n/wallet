@@ -1,1 +1,1 @@
-var mnemonic = "wing wave hint penalty mercy check inch surface document text cheese world";
+var mnemonic = "animal opinion tennis section ugly inquiry mouse audit mountain flash true pipe";

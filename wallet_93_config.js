@@ -1,1 +1,1 @@
-var mnemonic = "idle sustain urge genre boil series panda laugh leaf crazy envelope vapor";
+var mnemonic = "lady address busy grief radar orchard vintage typical obtain suffer media quiz";

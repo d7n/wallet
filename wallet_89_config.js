@@ -1,1 +1,1 @@
-var mnemonic = "quick popular convince wedding bitter good pen naive inch lucky unusual also";
+var mnemonic = "hammer auto genuine turtle balance episode gown sea man acquire vote result";

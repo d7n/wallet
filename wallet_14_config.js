@@ -1,1 +1,1 @@
-var mnemonic = "beach crawl sword ocean color dune leaf chalk lunch puzzle shell vapor";
+var mnemonic = "wisdom grid custom camera office rice innocent knee wear focus differ member";

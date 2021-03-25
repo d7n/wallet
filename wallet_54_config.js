@@ -1,1 +1,1 @@
-var mnemonic = "hockey vessel brown soccer angle crane when spot pause remember diesel child";
+var mnemonic = "vacuum funny certain promote point diamond play that nature sock legend attract";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome antique gospel river gas file very harbor bridge valley tribe name";
+var mnemonic = "recipe switch actual process window horror grocery near grant myself bubble visa";

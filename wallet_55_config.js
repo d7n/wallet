@@ -1,1 +1,1 @@
-var mnemonic = "ticket put decline chief engage wait twist rocket robot asset snack enroll";
+var mnemonic = "clip inspire giraffe now best purity afford lumber gospel reopen tornado party";

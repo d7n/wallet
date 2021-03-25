@@ -1,1 +1,1 @@
-var mnemonic = "tennis mule question reform trust panic decline trigger lecture cherry pool trim";
+var mnemonic = "camp giant badge trim color tackle beach puppy bird large drink thank";

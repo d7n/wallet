@@ -1,1 +1,1 @@
-var mnemonic = "ship style diamond where senior flame ocean gather fresh item alert wear";
+var mnemonic = "dash tape park annual various bonus barrel face stairs ticket flame crumble";

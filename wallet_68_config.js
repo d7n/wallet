@@ -1,1 +1,1 @@
-var mnemonic = "road verb robust hunt beyond drive coconut floor remember divorce coil gloom";
+var mnemonic = "water general area sort cotton grain remain sentence toilet surprise romance cushion";

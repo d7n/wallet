@@ -1,1 +1,1 @@
-var mnemonic = "swing brand rail language deal judge sample mind blast alone improve private";
+var mnemonic = "all shine tell speak screen melody jacket hazard update flight blame dove";

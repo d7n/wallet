@@ -1,1 +1,1 @@
-var mnemonic = "scout dizzy bundle hazard symbol length potato lava defense afford glow welcome";
+var mnemonic = "review muscle honey lift split aerobic escape name foam ocean edit federal";

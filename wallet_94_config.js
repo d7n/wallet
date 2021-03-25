@@ -1,1 +1,1 @@
-var mnemonic = "satoshi culture either limb valley tattoo review crew gallery skin pelican addict";
+var mnemonic = "winner bargain anxiety flower shine crane shield process gorilla insect blue soccer";

@@ -1,1 +1,1 @@
-var mnemonic = "trust pretty fire type lucky basic tackle share attract focus father van";
+var mnemonic = "usage mystery nose trouble gather correct quality token core ice cruel dolphin";

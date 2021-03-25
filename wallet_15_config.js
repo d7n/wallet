@@ -1,1 +1,1 @@
-var mnemonic = "true require hurry quarter horn soccer pool favorite model market purse deposit";
+var mnemonic = "august genuine cereal banana kiss dwarf peanut debris act welcome air valve";

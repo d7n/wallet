@@ -1,1 +1,1 @@
-var mnemonic = "notable sweet elite top body work topic night alarm raw industry vessel";
+var mnemonic = "wasp bright behave virtual unique blue online actress sponsor symptom like reveal";

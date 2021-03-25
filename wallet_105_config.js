@@ -1,1 +1,1 @@
-var mnemonic = "galaxy charge gravity twist side suspect toward pledge fatigue scare bleak sniff";
+var mnemonic = "today grunt grief empower member tip only scale oven honey bring endless";

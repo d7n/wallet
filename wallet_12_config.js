@@ -1,1 +1,1 @@
-var mnemonic = "dry gloom duty rent party mountain verify cycle aware pass era dirt";
+var mnemonic = "unit crack make nuclear viable forward boost symptom next analyst page legend";

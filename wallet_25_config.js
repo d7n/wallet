@@ -1,1 +1,1 @@
-var mnemonic = "blind gasp slam absorb mix alone wear smoke spend task basket control";
+var mnemonic = "bachelor around duty business earn gospel smooth chalk boil elegant illness sea";

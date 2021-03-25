@@ -1,1 +1,1 @@
-var mnemonic = "novel disorder race side damp anchor armor lift home rotate attitude wood";
+var mnemonic = "pupil swing width mechanic imitate range left inject airport under inform menu";

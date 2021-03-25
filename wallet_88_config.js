@@ -1,1 +1,1 @@
-var mnemonic = "ritual prosper slight pet sniff edge bachelor flag juice hidden album predict";
+var mnemonic = "era tone royal forum giant bulb mandate magic window ill sponsor clown";

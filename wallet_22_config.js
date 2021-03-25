@@ -1,1 +1,1 @@
-var mnemonic = "buddy clip slab people novel diamond kit dawn mercy capital vocal sad";
+var mnemonic = "sketch source sense chuckle mirror insane main dirt guard wear pole helmet";

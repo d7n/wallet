@@ -1,1 +1,1 @@
-var mnemonic = "announce drum crack defy convince winner swear wear despair decide nominee theme";
+var mnemonic = "trap fancy agent wet service glass noble over develop school afford crisp";

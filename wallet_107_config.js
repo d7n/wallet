@@ -1,1 +1,1 @@
-var mnemonic = "cover odor poet juice balance senior ivory recall elite ostrich post area";
+var mnemonic = "addict hawk today absurd bleak link dress naive teach theory grant harsh";

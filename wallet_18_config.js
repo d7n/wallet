@@ -1,1 +1,1 @@
-var mnemonic = "property alpha skin zoo velvet bridge learn soft face captain tomato target";
+var mnemonic = "release spend mouse more mechanic gym claim stuff decrease someone web rotate";

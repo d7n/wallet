@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow excuse raccoon fine rally ball parade involve album panda mountain bridge";
+var mnemonic = "enough warfare lizard nose opera bone permit heart canoe range kind oxygen";

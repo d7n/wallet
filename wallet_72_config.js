@@ -1,1 +1,1 @@
-var mnemonic = "craft ball text error laugh unfair rather more fee diary salt random";
+var mnemonic = "episode million father almost turkey chalk flee heart network weather confirm autumn";

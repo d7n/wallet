@@ -1,1 +1,1 @@
-var mnemonic = "enable limb bring violin food category pause sniff radio imitate citizen road";
+var mnemonic = "knife inherit runway airport armor general spot monitor genius three coral raise";

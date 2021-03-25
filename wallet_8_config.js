@@ -1,1 +1,1 @@
-var mnemonic = "human gallery fossil lawn evidence learn rotate pig unknown require indoor neglect";
+var mnemonic = "scare baby foam old today milk divert wear daughter diet ostrich legal";

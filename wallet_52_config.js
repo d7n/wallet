@@ -1,1 +1,1 @@
-var mnemonic = "legend west speak comfort island embark repeat blood gold toast theory print";
+var mnemonic = "lounge comfort violin room rookie panic swing advance sorry inject expire song";

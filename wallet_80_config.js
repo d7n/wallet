@@ -1,1 +1,1 @@
-var mnemonic = "portion crime analyst ticket pave shadow effort usual small manage galaxy destroy";
+var mnemonic = "weird much crush hamster elephant hamster apology canal effort steel frog polar";

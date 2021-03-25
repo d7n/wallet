@@ -1,1 +1,1 @@
-var mnemonic = "now lottery animal sketch trial all ostrich reflect swallow tell index taste";
+var mnemonic = "much disagree amazing duty tree found hamster injury ladder client churn letter";

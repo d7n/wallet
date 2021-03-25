@@ -1,1 +1,1 @@
-var mnemonic = "permit torch boil small easy robot fork motion refuse normal lake immune";
+var mnemonic = "wheat warm dream glance brick cushion student fossil home merge that party";

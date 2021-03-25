@@ -1,1 +1,1 @@
-var mnemonic = "word priority panel novel guess kite awkward sphere toward lamp echo human";
+var mnemonic = "vessel radio rule index example raccoon reform orbit salt swing scout trade";

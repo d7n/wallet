@@ -1,1 +1,1 @@
-var mnemonic = "response loan mobile can blossom final atom buyer vote inmate soul juice";
+var mnemonic = "physical gallery month female expand feed melt minimum say casino foam there";

@@ -1,1 +1,1 @@
-var mnemonic = "tower easy enrich submit upon resist lend oxygen during latin vital couch";
+var mnemonic = "absent answer build club endless flame silk noble math limb claw talk";

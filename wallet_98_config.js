@@ -1,1 +1,1 @@
-var mnemonic = "custom stand kind neck motor age predict dinner peasant gossip piano vast";
+var mnemonic = "empty must uncover find winter meadow birth kitten memory atom parade receive";

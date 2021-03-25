@@ -1,1 +1,1 @@
-var mnemonic = "carpet hunt bulb slight crucial afraid crush cross orange eternal charge output";
+var mnemonic = "stove another table season round inspire jaguar desk man dumb joy public";

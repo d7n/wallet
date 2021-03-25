@@ -1,1 +1,1 @@
-var mnemonic = "celery satisfy elegant wreck sauce include hospital minute off orbit phrase wire";
+var mnemonic = "where woman arena liar fire advance pig oak pitch deposit always emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito review diary afraid vicious october wedding august ghost cabin outdoor digital";
+var mnemonic = "stove fit viable night embody height mail era thought badge model stove";

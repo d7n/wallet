@@ -1,1 +1,1 @@
-var mnemonic = "sweet wait aunt cream collect suggest around own patrol animal embark found";
+var mnemonic = "office father humble roof mammal deer mandate tired carry attack shrimp prosper";

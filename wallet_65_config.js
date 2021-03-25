@@ -1,1 +1,1 @@
-var mnemonic = "use afraid jaguar sketch flee time stable dust purchase dizzy hire urban";
+var mnemonic = "delay month another flat couch elegant chaos pottery leave consider brown cliff";

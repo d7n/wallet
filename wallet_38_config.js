@@ -1,1 +1,1 @@
-var mnemonic = "hip enable spend olive million cup fiction fold idea maximum dinner excess";
+var mnemonic = "light faint artist item session impact detail girl rib thumb dinosaur accident";

@@ -1,1 +1,1 @@
-var mnemonic = "pink canal blind project ancient obey almost crane lumber awake forget tide";
+var mnemonic = "dragon dumb code among dentist rescue surprise palace achieve slot target hospital";

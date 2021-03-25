@@ -1,1 +1,1 @@
-var mnemonic = "tribe expire lunch absurd early spare alter crucial ridge blast economy once";
+var mnemonic = "fever simple vivid error front cream same grid uncover lounge blue run";

@@ -1,1 +1,1 @@
-var mnemonic = "expire pyramid miss ceiling total share unit tunnel become demand snack sugar";
+var mnemonic = "that smooth space enhance what coach clutch transfer fury purse forget swarm";
