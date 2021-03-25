@@ -1,1 +1,1 @@
-var mnemonic = "harbor flower quarter jump guilt bottom inside jelly glimpse worry shadow pride";
+var mnemonic = "early indicate alien certain enlist boat text bread execute crawl canvas stairs";

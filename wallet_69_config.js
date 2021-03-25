@@ -1,1 +1,1 @@
-var mnemonic = "crush live west mutual waste praise one cereal grant able scout afraid";
+var mnemonic = "secret staff portion bomb congress flash frequent vehicle begin hard play demise";

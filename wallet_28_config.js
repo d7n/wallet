@@ -1,1 +1,1 @@
-var mnemonic = "success pass bone slow index screen uncover number start couple space poem";
+var mnemonic = "response pony jealous monster margin educate turn salad sustain shock engage spot";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic genius recall holiday garage gospel orbit two kidney feed boost salute";
+var mnemonic = "cube script task wealth lawn soap strike midnight shallow boat banana drill";

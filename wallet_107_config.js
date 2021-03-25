@@ -1,1 +1,1 @@
-var mnemonic = "earth memory recipe dolphin truth craft split bid gallery chef matrix debris";
+var mnemonic = "speed modify pizza same foil fat loud remind found excite brisk test";

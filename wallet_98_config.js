@@ -1,1 +1,1 @@
-var mnemonic = "sunny autumn detail dentist capital guard violin visit course solution slab coral";
+var mnemonic = "minute dove mother add pelican scene level wheat title diamond minute engage";

@@ -1,1 +1,1 @@
-var mnemonic = "major prison drink before rotate type hidden fine brisk bone valid large";
+var mnemonic = "scrub raven empty image nephew thumb elephant mass update attack helmet crime";

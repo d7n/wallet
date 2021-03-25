@@ -1,1 +1,1 @@
-var mnemonic = "fiction essence combine aware symptom fluid dumb assume stairs tennis true reflect";
+var mnemonic = "galaxy table athlete pull orphan define shoot dry isolate deer trick proof";

@@ -1,1 +1,1 @@
-var mnemonic = "belt online when improve minute crime wheat identify depth deliver upon shift";
+var mnemonic = "alley first swim prepare agent close this tag aisle example soul panda";

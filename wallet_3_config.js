@@ -1,1 +1,1 @@
-var mnemonic = "art high permit island uphold review core banner chair autumn abstract gesture";
+var mnemonic = "strategy topple quiz mystery cable fitness hurdle abstract flavor spend upper forward";

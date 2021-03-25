@@ -1,1 +1,1 @@
-var mnemonic = "friend satisfy faculty tent puzzle friend hidden lawn toast educate recycle parrot";
+var mnemonic = "pony ill muscle cause shield choose push put foam wide advance patrol";

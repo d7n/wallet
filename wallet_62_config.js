@@ -1,1 +1,1 @@
-var mnemonic = "protect tenant tomorrow pyramid label eyebrow type side squeeze excite initial coil";
+var mnemonic = "cream jacket video spirit wide resemble ginger another position wild puzzle alone";

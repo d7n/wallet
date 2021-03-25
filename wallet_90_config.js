@@ -1,1 +1,1 @@
-var mnemonic = "wage idle vital start ozone coast lecture paper twice galaxy exile usage";
+var mnemonic = "smile finger tip immense talk dragon shield raccoon village fiber fortune ladder";

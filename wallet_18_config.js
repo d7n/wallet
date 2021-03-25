@@ -1,1 +1,1 @@
-var mnemonic = "pact shop potato salt income sketch exhibit copper few knife praise copy";
+var mnemonic = "solution violin october stomach mixture purity cloth raven silver pumpkin artwork exclude";

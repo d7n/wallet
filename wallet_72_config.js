@@ -1,1 +1,1 @@
-var mnemonic = "ball velvet baby smooth luggage maze island live october chaos stock crucial";
+var mnemonic = "era video broccoli autumn language author neutral guard there fit fuel lemon";

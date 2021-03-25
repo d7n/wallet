@@ -1,1 +1,1 @@
-var mnemonic = "print faint width card alert toward ability summer expire asset spring scrap";
+var mnemonic = "million already average organ donkey farm verb mention marriage behind cannon craft";

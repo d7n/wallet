@@ -1,1 +1,1 @@
-var mnemonic = "drastic dilemma extend index option curve vacant blur goat pyramid trial output";
+var mnemonic = "fossil ice net absorb split boil cover food frame east finger grace";

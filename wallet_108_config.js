@@ -1,1 +1,1 @@
-var mnemonic = "blanket picnic pupil media exact advance kick eye ridge unusual hungry grit";
+var mnemonic = "write blossom primary load woman bunker december multiply matrix spike bachelor tuition";

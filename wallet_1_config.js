@@ -1,1 +1,1 @@
-var mnemonic = "chest invite frost tongue law release hurt goose ankle lab olympic burden";
+var mnemonic = "answer dolphin force jewel cupboard loud regular turn flee prison volume force";

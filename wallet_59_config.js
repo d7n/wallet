@@ -1,1 +1,1 @@
-var mnemonic = "ten vague twenty adult monster gap urban more rabbit tunnel country ask";
+var mnemonic = "master such remind outdoor ritual rally shell alter trick run stand group";

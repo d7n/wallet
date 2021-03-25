@@ -1,1 +1,1 @@
-var mnemonic = "draft science fancy equal physical across sense table minimum false gain evolve";
+var mnemonic = "ride sorry bird dial silk melody noble exclude arrive trigger jaguar chief";

@@ -1,1 +1,1 @@
-var mnemonic = "hen eye ketchup artist fall convince dress helmet bomb meadow list dress";
+var mnemonic = "grab same swamp quarter country across essence depth relief mail nerve faculty";

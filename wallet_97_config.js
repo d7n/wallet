@@ -1,1 +1,1 @@
-var mnemonic = "artist toss fever submit can jewel glide symptom sniff castle aspect aim";
+var mnemonic = "actual outdoor claim cycle dilemma language forget cook cliff mansion boy pool";

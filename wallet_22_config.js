@@ -1,1 +1,1 @@
-var mnemonic = "bench grief eternal dune stool priority sugar sister card thing other door";
+var mnemonic = "alley addict dance acoustic deliver clerk chat brisk once tag card badge";

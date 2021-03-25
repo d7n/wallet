@@ -1,1 +1,1 @@
-var mnemonic = "arch antenna toilet source oak nothing plastic base invest sibling food bench";
+var mnemonic = "rotate pitch march allow lazy car result rural glimpse cost edge renew";

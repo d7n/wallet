@@ -1,1 +1,1 @@
-var mnemonic = "chase nose rely install wheel believe siege else volcano property hungry middle";
+var mnemonic = "local pride faint devote chimney peanut test solar prevent denial tenant ostrich";

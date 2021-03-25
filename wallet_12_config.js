@@ -1,1 +1,1 @@
-var mnemonic = "horse sheriff tissue predict pigeon sorry tooth achieve elevator train hole impulse";
+var mnemonic = "stamp assist frame relax current better also lesson direct rookie snow diagram";

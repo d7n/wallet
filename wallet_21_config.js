@@ -1,1 +1,1 @@
-var mnemonic = "cool embrace memory gospel stuff divert neglect cruel exhibit harsh horse please";
+var mnemonic = "room discover second ketchup spoil disease diamond novel update stove flip father";

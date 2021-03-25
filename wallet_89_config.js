@@ -1,1 +1,1 @@
-var mnemonic = "empower finish confirm crime carpet enjoy rich hawk coral need cry knee";
+var mnemonic = "canyon idea jazz abandon bean hill slender portion obvious weasel outer beauty";

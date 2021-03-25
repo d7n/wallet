@@ -1,1 +1,1 @@
-var mnemonic = "arrive match net traffic ensure boring mammal success exit supreme carbon arena";
+var mnemonic = "gold mutual drip onion indoor enrich risk yellow have winter doll mobile";

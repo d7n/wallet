@@ -1,1 +1,1 @@
-var mnemonic = "cry topic fetch few win rookie beyond chair walk buddy life brisk";
+var mnemonic = "magnet all husband base leg world mountain nose amateur infant divide huge";

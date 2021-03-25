@@ -1,1 +1,1 @@
-var mnemonic = "gown lunar hunt mirror speed income clap response jaguar ostrich robust wait";
+var mnemonic = "sick rebel supply power glue woman door prize easy donor gasp razor";

@@ -1,1 +1,1 @@
-var mnemonic = "buyer castle quit ball toddler around bubble furnace fever include rice manage";
+var mnemonic = "stay stem tail stock edge right abuse you film filter exclude size";

@@ -1,1 +1,1 @@
-var mnemonic = "list retreat fossil admit fine ozone net stable buddy step question burger";
+var mnemonic = "tube mercy knock bracket siren media retire crumble try daring glove horn";

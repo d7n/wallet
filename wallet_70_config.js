@@ -1,1 +1,1 @@
-var mnemonic = "dynamic canyon oblige sport chaos rotate discover predict pony skin element ski";
+var mnemonic = "arrest napkin nice rent wear ecology foster brief multiply concert blood announce";

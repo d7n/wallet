@@ -1,1 +1,1 @@
-var mnemonic = "engine draw average outer adapt bottom pumpkin ridge simple ankle portion tooth";
+var mnemonic = "flush before select when maximum garden cram fault blur basket comic stand";

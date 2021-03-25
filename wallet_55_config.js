@@ -1,1 +1,1 @@
-var mnemonic = "physical tunnel dignity library order flight divide focus husband drift lake measure";
+var mnemonic = "vehicle dawn design team zero lyrics zero alien escape kidney blood tray";

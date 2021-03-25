@@ -1,1 +1,1 @@
-var mnemonic = "sample truth world lady mechanic ski range firm stool lesson acoustic claim";
+var mnemonic = "change advance please pitch wrestle alone artist pact hire mandate boost render";

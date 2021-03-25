@@ -1,1 +1,1 @@
-var mnemonic = "security maze fatal device universe fiber innocent hour absurd adult average beauty";
+var mnemonic = "tide reflect suspect wealth oven sign quality grace page dial fault flat";

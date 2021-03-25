@@ -1,1 +1,1 @@
-var mnemonic = "reform east polar warfare betray clown all despair boost inspire muscle first";
+var mnemonic = "fire supreme eight require crouch cover quote gym frequent jar dynamic vote";

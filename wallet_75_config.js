@@ -1,1 +1,1 @@
-var mnemonic = "behave smart weird pigeon dragon fatal else earn auction left hole lunar";
+var mnemonic = "disagree supply chicken vote oven day aunt ship flock tortoise guilt suspect";

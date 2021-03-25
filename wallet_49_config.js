@@ -1,1 +1,1 @@
-var mnemonic = "boost road fan pumpkin miss snake lesson sun round core screen puzzle";
+var mnemonic = "leg van subject dignity december arrest sponsor seven setup twice audit problem";

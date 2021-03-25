@@ -1,1 +1,1 @@
-var mnemonic = "increase test sea jealous have swim busy theme repeat hunt involve lumber";
+var mnemonic = "someone opera museum evoke leg place erode man pipe hole west example";

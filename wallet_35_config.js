@@ -1,1 +1,1 @@
-var mnemonic = "differ stamp monitor build item trend man company still run nuclear seat";
+var mnemonic = "staff voice calm bargain muffin noble sea art old popular symbol embrace";

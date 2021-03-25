@@ -1,1 +1,1 @@
-var mnemonic = "city vicious attack retire width busy innocent wealth gold assume humble foot";
+var mnemonic = "minimum silent kiwi cover wing spell dice tackle attack grace wild vintage";

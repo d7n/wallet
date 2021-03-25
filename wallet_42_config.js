@@ -1,1 +1,1 @@
-var mnemonic = "flash target almost tornado rare disagree enact outdoor bomb purse hip mushroom";
+var mnemonic = "that liquid setup ecology join appear nice ramp improve sample ahead pioneer";

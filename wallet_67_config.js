@@ -1,1 +1,1 @@
-var mnemonic = "slight display lava empty injury hedgehog oil level grid enroll hamster inside";
+var mnemonic = "top gravity clutch catch rug method satoshi grit poem head night mask";

@@ -1,1 +1,1 @@
-var mnemonic = "short brush angry undo holiday duck afford demise special dish anger humble";
+var mnemonic = "gate witness slot connect review sail final song people lamp traffic travel";

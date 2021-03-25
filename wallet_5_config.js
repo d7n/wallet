@@ -1,1 +1,1 @@
-var mnemonic = "swim panda shed like chalk ankle segment obey agent come lunar bronze";
+var mnemonic = "volume decrease rare essay leader hungry gasp sibling beef symptom toast shaft";

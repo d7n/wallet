@@ -1,1 +1,1 @@
-var mnemonic = "gentle parent senior news cement know luxury about spoon cricket near cover";
+var mnemonic = "grab mercy idle fit senior viable wine stable abstract earth cram train";

@@ -1,1 +1,1 @@
-var mnemonic = "token false plastic fat trouble essay nurse biology dose scare ball source";
+var mnemonic = "jealous rebuild panel nation acid elite mosquito behind sign asset joke fantasy";

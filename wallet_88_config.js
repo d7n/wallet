@@ -1,1 +1,1 @@
-var mnemonic = "enter upset usage fiber noise current float save forward two bacon degree";
+var mnemonic = "topic force task join moment soft buffalo welcome inflict lucky fabric depth";

@@ -1,1 +1,1 @@
-var mnemonic = "there garage maze icon runway merge wear oyster river excess crane prevent";
+var mnemonic = "work invite payment view clip kind true click hill fortune over grid";

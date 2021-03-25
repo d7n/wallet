@@ -1,1 +1,1 @@
-var mnemonic = "lamp silver denial jazz dad mention bid solid minimum mention grow joke";
+var mnemonic = "argue glass plunge absorb solid away cake ball fancy hurt rhythm broom";

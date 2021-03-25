@@ -1,1 +1,1 @@
-var mnemonic = "subject hawk spike author armor special process gift promote ensure wreck river";
+var mnemonic = "eternal excite panel hamster this evoke route decide arrow bus grief autumn";

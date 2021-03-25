@@ -1,1 +1,1 @@
-var mnemonic = "useful rich country reduce swim rocket say august bamboo prize toilet negative";
+var mnemonic = "venture clap salt kitchen soda city program limit utility radar myself inside";

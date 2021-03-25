@@ -1,1 +1,1 @@
-var mnemonic = "umbrella owner mention mobile grace waste obscure valve drop injury wealth target";
+var mnemonic = "romance depend abuse wish purpose april crunch come mule park federal paddle";

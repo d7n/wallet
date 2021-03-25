@@ -1,1 +1,1 @@
-var mnemonic = "private subway talent boss fade cabin alone snack liberty capable infant inch";
+var mnemonic = "educate mother stay cinnamon project strike lens upgrade noodle surprise cage anchor";

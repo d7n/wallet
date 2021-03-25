@@ -1,1 +1,1 @@
-var mnemonic = "valve ordinary tool slender bike sort vote camera chalk east feature sibling";
+var mnemonic = "vanish claw crowd taxi maple guitar purse scare twice ignore swap fortune";

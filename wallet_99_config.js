@@ -1,1 +1,1 @@
-var mnemonic = "clock legal crack body fever shift rate error problem forest economy blush";
+var mnemonic = "beyond romance exist trigger laugh leopard emotion vast swim inform spray fiction";

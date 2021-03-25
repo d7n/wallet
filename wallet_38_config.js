@@ -1,1 +1,1 @@
-var mnemonic = "cradle vacuum country evoke affair argue wine club bachelor want business arrow";
+var mnemonic = "amused raw element north draw cover vacant sun drink little join auction";

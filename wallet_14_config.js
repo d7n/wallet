@@ -1,1 +1,1 @@
-var mnemonic = "route speak gold moment science empty salt fiction error daughter question recall";
+var mnemonic = "very odor pencil funny glow wrong lounge vacuum bean rotate know donate";

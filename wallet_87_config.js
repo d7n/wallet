@@ -1,1 +1,1 @@
-var mnemonic = "cube twist mosquito bone prefer suggest wool resource tragic lamp decorate remain";
+var mnemonic = "unfold steak dolphin lunar glad gloom orbit crawl cost tail hint beef";

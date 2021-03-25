@@ -1,1 +1,1 @@
-var mnemonic = "banana cheese avoid exile online morning empower galaxy avoid humble help inmate";
+var mnemonic = "ball erupt humble claim useful bubble sketch fatigue session bargain cash level";

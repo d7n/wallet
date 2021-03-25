@@ -1,1 +1,1 @@
-var mnemonic = "globe theme giant quantum easy kidney visual suspect logic random suffer what";
+var mnemonic = "believe faculty grunt gentle sting tomorrow jacket orbit rough share sauce place";

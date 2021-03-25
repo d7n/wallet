@@ -1,1 +1,1 @@
-var mnemonic = "glass whisper small claw diary price umbrella horn outdoor column goose best";
+var mnemonic = "carry wool potato wear because dog crouch media trial will key airport";

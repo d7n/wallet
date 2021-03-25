@@ -1,1 +1,1 @@
-var mnemonic = "auto glare income already nose decrease snake spoon brush enact fitness bounce";
+var mnemonic = "glide humor decline brisk fog absurd multiply keep unaware gasp wheel feel";

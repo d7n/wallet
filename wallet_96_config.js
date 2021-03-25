@@ -1,1 +1,1 @@
-var mnemonic = "breeze salt slim rib hint prepare furnace hidden garlic hover loyal method";
+var mnemonic = "twice recycle embark august aspect female together cube myth nothing skin tumble";

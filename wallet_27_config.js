@@ -1,1 +1,1 @@
-var mnemonic = "champion artefact physical exit sell season junk category width tuition tooth thumb";
+var mnemonic = "love happy dynamic elite pave slot journey famous garden topple visit depart";

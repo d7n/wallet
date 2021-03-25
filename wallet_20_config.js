@@ -1,1 +1,1 @@
-var mnemonic = "draft leisure absurd armed issue random romance tomato engine stock wet loud";
+var mnemonic = "sketch nest crush mammal favorite remember inhale walnut rare uphold north toward";

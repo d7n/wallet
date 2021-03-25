@@ -1,1 +1,1 @@
-var mnemonic = "art emerge motor level such once thrive bonus leisure cheap panther beauty";
+var mnemonic = "engage pause duck mouse hollow marriage monitor slow cupboard february cinnamon paddle";

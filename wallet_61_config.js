@@ -1,1 +1,1 @@
-var mnemonic = "else copper garment stone ozone ride famous gather asthma decline claim envelope";
+var mnemonic = "jungle metal solution announce develop chapter arrive erase course retire science orchard";

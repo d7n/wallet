@@ -1,1 +1,1 @@
-var mnemonic = "congress suffer fortune witness shy select casino deposit issue slot bacon monitor";
+var mnemonic = "state shock fee measure thing throw relax they swear come anxiety attract";

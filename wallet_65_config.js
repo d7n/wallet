@@ -1,1 +1,1 @@
-var mnemonic = "bless feature erode defense course audit knee flower unfold scheme exhibit fatal";
+var mnemonic = "word asset crush limit figure unknown tattoo enact label wisdom album common";

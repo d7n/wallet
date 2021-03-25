@@ -1,1 +1,1 @@
-var mnemonic = "trust roof dash meadow three side scene rack intact velvet pave police";
+var mnemonic = "kangaroo battle open rapid treat reunion wheat congress rain all attack era";

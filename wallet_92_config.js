@@ -1,1 +1,1 @@
-var mnemonic = "pull uncover screen now visual assume maze regular buddy salon spray skate";
+var mnemonic = "bless easily wish tomorrow rookie equip resemble account excuse crowd speak viable";

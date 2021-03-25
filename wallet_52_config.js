@@ -1,1 +1,1 @@
-var mnemonic = "flower credit analyst borrow inherit kingdom junk foam project erode raw talent";
+var mnemonic = "equip organ advance heavy engage destroy mother tent evil bulk pond network";

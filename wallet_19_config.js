@@ -1,1 +1,1 @@
-var mnemonic = "tank donkey shove vivid sibling kite horn million flame type prepare pulp";
+var mnemonic = "gauge wall two assist mansion jewel public cube base clock process rebel";

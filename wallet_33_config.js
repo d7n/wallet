@@ -1,1 +1,1 @@
-var mnemonic = "decade debate office snack gift snap foil coin rib giant drum today";
+var mnemonic = "guilt beyond provide firm mail dynamic coin wish spawn true wheat oil";

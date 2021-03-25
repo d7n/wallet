@@ -1,1 +1,1 @@
-var mnemonic = "permit senior glide model arrest retreat once sail shove smile absorb damp";
+var mnemonic = "maze region virus have panel earth myth connect shrug prevent second scene";

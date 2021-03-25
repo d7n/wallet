@@ -1,1 +1,1 @@
-var mnemonic = "tomato snap cake lake nice dragon deputy rubber artefact order artefact supreme";
+var mnemonic = "tunnel bullet memory project check mercy weird ready order divide chalk amused";

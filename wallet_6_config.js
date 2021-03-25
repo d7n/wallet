@@ -1,1 +1,1 @@
-var mnemonic = "idea cover replace oppose polar nurse barely dial badge reform farm vote";
+var mnemonic = "assume enable blast balcony equip oyster enact zero soap elephant praise powder";

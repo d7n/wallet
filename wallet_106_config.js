@@ -1,1 +1,1 @@
-var mnemonic = "squirrel key gold hero cruel odor pig shed month neither spike divide";
+var mnemonic = "orient alley wagon initial demand prosper unique snap team arch farm enrich";

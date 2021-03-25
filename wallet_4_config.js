@@ -1,1 +1,1 @@
-var mnemonic = "drama story cattle monkey despair fiscal drink favorite warfare exact exclude noble";
+var mnemonic = "donkey street slogan mind shuffle scan dentist prepare hen elbow method water";

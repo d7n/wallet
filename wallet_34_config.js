@@ -1,1 +1,1 @@
-var mnemonic = "demise idle bridge damage thumb abandon retire tilt bottom unknown daring twenty";
+var mnemonic = "rotate host message acoustic egg donate unaware bottom that apple tuition horn";

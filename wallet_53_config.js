@@ -1,1 +1,1 @@
-var mnemonic = "tuna twenty disagree call proof cattle glow deputy science surprise oil usage";
+var mnemonic = "ordinary magic ride cliff recipe crazy course parrot purpose luxury lunch turkey";

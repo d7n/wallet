@@ -1,1 +1,1 @@
-var mnemonic = "never tunnel fruit garbage vanish cool patch citizen gossip silent supply sure";
+var mnemonic = "admit speed stuff zone prison cradle veteran slender chef diary air spirit";
