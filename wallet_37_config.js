@@ -1,1 +1,1 @@
-var mnemonic = "stool inquiry congress candy puzzle image remember home blue check valid biology";
+var mnemonic = "boring habit filter inherit argue level furnace culture two visual train umbrella";

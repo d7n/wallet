@@ -1,1 +1,1 @@
-var mnemonic = "result upgrade order brick demise hobby club melody surround oven pig shoe";
+var mnemonic = "birth you security bread physical above reform oyster swarm pulse model asthma";

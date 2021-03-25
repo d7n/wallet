@@ -1,1 +1,1 @@
-var mnemonic = "west outer olympic original demand have struggle remember alone engage ice renew";
+var mnemonic = "topple marine glare forward verb scene skin laptop code combine wait during";

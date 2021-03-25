@@ -1,1 +1,1 @@
-var mnemonic = "fame regular maze myth drop report all scheme minimum figure manual account";
+var mnemonic = "used gallery hole grid tonight wrong pistol police grass nuclear fancy away";

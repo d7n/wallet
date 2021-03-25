@@ -1,1 +1,1 @@
-var mnemonic = "defy access sick round work deputy pelican cook saddle potato win green";
+var mnemonic = "unfair father marble horror wagon next custom nose message first angry marble";

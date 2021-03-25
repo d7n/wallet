@@ -1,1 +1,1 @@
-var mnemonic = "scene trick thunder tortoise rural repeat between evidence expose scheme must matrix";
+var mnemonic = "advice nose flash dad earn address flavor teach farm vehicle suit double";

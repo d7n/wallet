@@ -1,1 +1,1 @@
-var mnemonic = "settle salad grant sort proud census sign exist distance glimpse reward grace";
+var mnemonic = "program setup abuse liberty movie rubber choose hamster digital pyramid always point";

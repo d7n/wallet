@@ -1,1 +1,1 @@
-var mnemonic = "hazard disagree among cherry rigid theme liquid term robust nominee few exact";
+var mnemonic = "earth nest change rural crush seminar first human split this minor major";

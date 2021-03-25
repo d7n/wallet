@@ -1,1 +1,1 @@
-var mnemonic = "faint keep use naive enforce boy favorite scare mother armed quality remember";
+var mnemonic = "device napkin donate top model record exist moral chimney lottery mother ahead";

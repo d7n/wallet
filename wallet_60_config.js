@@ -1,1 +1,1 @@
-var mnemonic = "assist still wire cheese ensure grief wife zoo minor adapt item nasty";
+var mnemonic = "sail track wall arrive gentle sand clean race ball kiss art north";

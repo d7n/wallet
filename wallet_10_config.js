@@ -1,1 +1,1 @@
-var mnemonic = "mixed neither wisdom permit skull robust sunny mushroom damp portion equip thrive";
+var mnemonic = "legend measure session two notable tornado basic person rival echo ethics negative";

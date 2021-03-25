@@ -1,1 +1,1 @@
-var mnemonic = "program whale sad world tortoise loyal dress trial arm pudding voyage sea";
+var mnemonic = "cream lion injury twelve essence forest mother multiply churn edit economy limb";

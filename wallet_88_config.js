@@ -1,1 +1,1 @@
-var mnemonic = "pulse idea cook wealth lobster pottery tragic vicious chuckle cloud awake lady";
+var mnemonic = "marine someone elephant valve connect guess dial skirt wolf chicken couch jelly";

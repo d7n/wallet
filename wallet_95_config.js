@@ -1,1 +1,1 @@
-var mnemonic = "kingdom torch derive brave shallow salad arm quick hurdle social hollow nasty";
+var mnemonic = "crew tornado egg observe warfare clutch theme turtle film swim faculty scrap";

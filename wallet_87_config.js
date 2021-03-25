@@ -1,1 +1,1 @@
-var mnemonic = "snack series exhibit milk athlete target blame diagram trade wine crunch finger";
+var mnemonic = "tooth master illness ketchup enjoy zone problem claim purity split click truth";

@@ -1,1 +1,1 @@
-var mnemonic = "master ethics leisure craft increase news essence digital season fantasy arm reject";
+var mnemonic = "stay topple clump fortune disagree celery voice mind february pelican horn genuine";

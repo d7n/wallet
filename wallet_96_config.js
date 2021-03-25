@@ -1,1 +1,1 @@
-var mnemonic = "actress vacant laptop humor ready chronic carbon fantasy dune note fuel school";
+var mnemonic = "unique pair vivid divorce flush urge mushroom legend wagon aspect warfare pact";

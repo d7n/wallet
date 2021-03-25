@@ -1,1 +1,1 @@
-var mnemonic = "grain shoe brush solar sibling fall liberty spin share split diagram cake";
+var mnemonic = "deliver address book butter major merge wrap shadow canal gauge tiger only";

@@ -1,1 +1,1 @@
-var mnemonic = "better cloud noise hard report ability right unique erosion purpose surface gravity";
+var mnemonic = "festival gospel deposit hold sample shift exhibit goat silent quarter file liar";

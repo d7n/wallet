@@ -1,1 +1,1 @@
-var mnemonic = "replace pool example idea kiwi lake parent impact journey absurd worth merit";
+var mnemonic = "dance silver thank polar supreme mass rotate regular popular cricket soap kid";

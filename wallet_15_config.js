@@ -1,1 +1,1 @@
-var mnemonic = "random duty cattle bread employ layer original false until canoe casual harvest";
+var mnemonic = "clip dynamic list habit result ranch flavor actress hint real allow cherry";

@@ -1,1 +1,1 @@
-var mnemonic = "pill rich window expose weapon economy dutch guide cluster tissue apple assist";
+var mnemonic = "kid caution attract pause veteran february bread token junior arrest eyebrow paper";

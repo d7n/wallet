@@ -1,1 +1,1 @@
-var mnemonic = "salt cube dismiss mechanic stuff company regret beach nation sport lecture debate";
+var mnemonic = "bar story beyond drill park lottery local buffalo endless inhale hidden test";

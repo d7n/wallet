@@ -1,1 +1,1 @@
-var mnemonic = "twelve radar monster beef vote bunker decorate top alarm into noodle approve";
+var mnemonic = "pupil airport skill woman asset enforce salt review blanket nasty paddle exit";

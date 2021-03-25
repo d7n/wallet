@@ -1,1 +1,1 @@
-var mnemonic = "slush number fade rule erosion surround below absorb daring win wing cement";
+var mnemonic = "elevator cute wreck stable author inform neck cover essence series stay trumpet";

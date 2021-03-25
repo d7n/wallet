@@ -1,1 +1,1 @@
-var mnemonic = "pony share energy horror never false length few impose invite boil answer";
+var mnemonic = "grace render potato vapor minute embrace wash design silent glare worry imitate";

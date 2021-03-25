@@ -1,1 +1,1 @@
-var mnemonic = "news crowd spend useless skull honey program stereo squeeze enroll rally evolve";
+var mnemonic = "prosper copper muscle alley cupboard seek excite final drill army embody edit";

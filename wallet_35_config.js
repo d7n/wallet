@@ -1,1 +1,1 @@
-var mnemonic = "move near history duck fault wear fame horse vast actress sudden like";
+var mnemonic = "hat volume toddler another carpet rifle tool blur door buddy high brown";

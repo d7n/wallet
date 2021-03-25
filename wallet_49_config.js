@@ -1,1 +1,1 @@
-var mnemonic = "small swim year claim enforce problem give rather vendor interest critic trade";
+var mnemonic = "desert story area dirt sport oil diagram leave whip goat bonus paper";

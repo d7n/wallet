@@ -1,1 +1,1 @@
-var mnemonic = "course rebuild dish pluck rotate flame middle female filter romance clerk timber";
+var mnemonic = "coach civil brain panel there turtle garbage settle shaft hockey strategy resemble";

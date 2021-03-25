@@ -1,1 +1,1 @@
-var mnemonic = "vehicle dizzy select host surround whisper kingdom twice dwarf curve crash sample";
+var mnemonic = "denial perfect outdoor slab huge actual isolate write aware benefit kiwi degree";

@@ -1,1 +1,1 @@
-var mnemonic = "utility play vocal fix aware plug ill among bunker exchange castle crisp";
+var mnemonic = "lion later gain bamboo coast artefact current gas cave spring shrimp sand";

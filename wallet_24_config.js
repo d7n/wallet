@@ -1,1 +1,1 @@
-var mnemonic = "myself volcano paper maid capable reflect favorite throw piano person tip vintage";
+var mnemonic = "potato purse front potato lion sting animal share flip affair fox plastic";

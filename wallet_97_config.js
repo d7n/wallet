@@ -1,1 +1,1 @@
-var mnemonic = "gate silver rebel rookie isolate emotion shed rug lion when explain logic";
+var mnemonic = "youth glory crack upgrade universe reduce canal turkey ivory alien link collect";

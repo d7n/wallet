@@ -1,1 +1,1 @@
-var mnemonic = "public matter resist language begin cruel review endorse ridge kidney involve doll";
+var mnemonic = "program adult dawn fat scheme habit affair affair acoustic wage trap scissors";

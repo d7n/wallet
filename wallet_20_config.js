@@ -1,1 +1,1 @@
-var mnemonic = "holiday spatial couch banana nurse fantasy cable pill spray hub angle enact";
+var mnemonic = "panic system review balance captain major mean mixed timber apology crater boss";

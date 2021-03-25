@@ -1,1 +1,1 @@
-var mnemonic = "obtain uphold daughter leaf radar radio addict reflect slender okay sketch hero";
+var mnemonic = "cage consider level ivory fence tuition own glove admit aisle oppose galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "size garage cousin disease deny evidence exit face riot market illness curious";
+var mnemonic = "people jacket finger balance glory inject possible absent hunt asset camp soft";

@@ -1,1 +1,1 @@
-var mnemonic = "upset lumber waste skate reopen wheat light baby milk flip trend stem";
+var mnemonic = "loud fee critic final shrimp hello neither emerge group melody hole upset";

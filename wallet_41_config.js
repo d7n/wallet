@@ -1,1 +1,1 @@
-var mnemonic = "error pear burst vault barrel glare proud behind film mad couch again";
+var mnemonic = "reveal all loyal oven view crime anger pyramid shy balance desert dad";

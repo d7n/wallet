@@ -1,1 +1,1 @@
-var mnemonic = "people science toilet curve trouble great eight truly toddler movie bitter member";
+var mnemonic = "manage term kitten fluid rigid fever food flower hope habit fiction shiver";

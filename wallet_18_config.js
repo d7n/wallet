@@ -1,1 +1,1 @@
-var mnemonic = "parrot bubble field toward fresh rose diary usage camera sadness document garage";
+var mnemonic = "job tragic anger unveil delay there okay better female film depend caught";

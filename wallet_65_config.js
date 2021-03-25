@@ -1,1 +1,1 @@
-var mnemonic = "height empower bulk zone wrestle legal labor cheap erosion excess cheese wait";
+var mnemonic = "buffalo speak bounce worth crime stone afford flower price kangaroo dizzy cause";

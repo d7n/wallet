@@ -1,1 +1,1 @@
-var mnemonic = "spoil problem cruise peace involve guess pave silk comfort sponsor october among";
+var mnemonic = "penalty expect celery celery boil loop tragic proof exchange code argue economy";

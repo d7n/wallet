@@ -1,1 +1,1 @@
-var mnemonic = "clay wage trip depart misery doll laundry dash open issue move palace";
+var mnemonic = "tumble engage twist great roof produce narrow sorry horror win abandon ill";

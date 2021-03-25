@@ -1,1 +1,1 @@
-var mnemonic = "awesome salt vintage tornado kind maple retire raw lion reduce clap spoon";
+var mnemonic = "gym pool grunt train stomach awesome skill scene sport exercise below select";

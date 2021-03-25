@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit panic throw turtle strong horror risk oven allow budget amount one";
+var mnemonic = "fly effort car voyage pave ranch hour cart trouble donkey scatter catch";

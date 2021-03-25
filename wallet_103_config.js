@@ -1,1 +1,1 @@
-var mnemonic = "broccoli scare property today place orange fix carry load just wasp misery";
+var mnemonic = "obey setup make throw glow message calm junk violin tuna walnut stool";

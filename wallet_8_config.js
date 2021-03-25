@@ -1,1 +1,1 @@
-var mnemonic = "tell finger slot minor awkward raise zero snow future flame proof symbol";
+var mnemonic = "nurse boil huge spin harsh motion young force inhale gadget result fossil";

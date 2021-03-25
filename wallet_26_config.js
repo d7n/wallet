@@ -1,1 +1,1 @@
-var mnemonic = "tip wash mean dilemma gain thing swim note toward potato undo awake";
+var mnemonic = "reveal cactus creek party stock pyramid trophy merge joy pupil speak sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "frog globe expire half luggage mask adapt hello hood wash culture whip";
+var mnemonic = "lunch relief poet unable monkey rigid perfect moon joke mercy spice future";

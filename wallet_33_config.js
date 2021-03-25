@@ -1,1 +1,1 @@
-var mnemonic = "dove finish glove range giraffe link survey mansion flash inform genuine curtain";
+var mnemonic = "tragic spring hammer absent hurry polar west cake input turkey aspect embody";

@@ -1,1 +1,1 @@
-var mnemonic = "flame analyst ivory twelve inmate hamster when inflict horror furnace copper health";
+var mnemonic = "law text assist stock raw faint usual spatial town message half humor";

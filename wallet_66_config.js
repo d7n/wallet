@@ -1,1 +1,1 @@
-var mnemonic = "vault loop loop crash extra plunge elite immense globe feel fatal vocal";
+var mnemonic = "team grunt vast pledge casual car image frame damp airport awesome helmet";

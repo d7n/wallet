@@ -1,1 +1,1 @@
-var mnemonic = "minor praise ticket catalog identify smoke still sketch explain pigeon various obscure";
+var mnemonic = "all upper select pigeon struggle guitar reduce adjust pull orchard mutual dutch";

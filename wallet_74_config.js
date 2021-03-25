@@ -1,1 +1,1 @@
-var mnemonic = "bamboo heart trade jelly improve fringe above basic balance stay bubble car";
+var mnemonic = "trim divide limit hope soap shoulder cigar battle chimney science nice jacket";

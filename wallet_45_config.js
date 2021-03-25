@@ -1,1 +1,1 @@
-var mnemonic = "winner gauge pony dress cute dog walk artwork repair hawk obvious shed";
+var mnemonic = "spray melt sphere lesson era sorry resource latin flock verb crumble verb";

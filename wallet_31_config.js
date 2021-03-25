@@ -1,1 +1,1 @@
-var mnemonic = "asset bag glide outer find chunk fire first document tumble sugar rack";
+var mnemonic = "vocal sniff saddle good iron lawn receive coyote mystery crouch soup oyster";

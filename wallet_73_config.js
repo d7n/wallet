@@ -1,1 +1,1 @@
-var mnemonic = "budget bunker park dress advance boss oxygen neck task super prefer width";
+var mnemonic = "music wedding ugly rookie hurdle follow grant parent want oak modify rabbit";

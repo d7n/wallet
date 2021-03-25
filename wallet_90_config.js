@@ -1,1 +1,1 @@
-var mnemonic = "hockey absorb dragon episode notice escape detect risk town region affair drill";
+var mnemonic = "pupil timber infant bulk often brief other amazing cradle extra toward ribbon";

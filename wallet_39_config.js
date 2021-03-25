@@ -1,1 +1,1 @@
-var mnemonic = "claw swarm away family grant trophy radar news monkey absent canyon gun";
+var mnemonic = "kid health drive asset balcony quantum advice evil chapter wait stumble crystal";

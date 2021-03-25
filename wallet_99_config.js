@@ -1,1 +1,1 @@
-var mnemonic = "siege organ travel stem system goose pepper ability spray pelican pyramid sleep";
+var mnemonic = "waste critic used mom digital myth mind hurry tape spray shift poem";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat announce volume local repeat valley any grid story vicious inquiry dune";
+var mnemonic = "oil valve own dry soda machine thunder eyebrow jazz bind initial share";

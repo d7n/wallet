@@ -1,1 +1,1 @@
-var mnemonic = "toss sugar option brother fall sheriff faculty review idle gift almost actual";
+var mnemonic = "raise include scare simple lift shock water art torch woman innocent provide";

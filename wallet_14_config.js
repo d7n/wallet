@@ -1,1 +1,1 @@
-var mnemonic = "health electric blur kind pear abandon bacon yellow blur bar kit hope";
+var mnemonic = "message build sort slam night then wood galaxy hill boat process repair";

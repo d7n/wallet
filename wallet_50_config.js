@@ -1,1 +1,1 @@
-var mnemonic = "amazing flush dirt orbit luggage load render announce body general pool injury";
+var mnemonic = "basket shrug wife raven breeze offer night daring sting scan tiger unfair";

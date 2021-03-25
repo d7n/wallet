@@ -1,1 +1,1 @@
-var mnemonic = "caught impact adapt task ranch valley soda jewel okay mad piece coconut";
+var mnemonic = "cup venue tooth improve usage artist update crush modify wait snake festival";

@@ -1,1 +1,1 @@
-var mnemonic = "loop arrive slim arrive hope capital junk typical minute result execute dial";
+var mnemonic = "orchard october thrive page random unit winter tomorrow eye ride lemon carpet";

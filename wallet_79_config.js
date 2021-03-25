@@ -1,1 +1,1 @@
-var mnemonic = "ripple kitten island pledge oxygen position demand velvet endless rely muscle arrest";
+var mnemonic = "organ foil hollow glimpse bitter eager legend drift fire couch garden occur";

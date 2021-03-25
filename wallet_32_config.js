@@ -1,1 +1,1 @@
-var mnemonic = "nature jacket vehicle chief zoo stumble boat siege dumb act truth seek";
+var mnemonic = "burden indicate artwork staff also shuffle vanish pool equal clip voice mistake";

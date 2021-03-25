@@ -1,1 +1,1 @@
-var mnemonic = "salt oppose busy item mixed vessel reunion virtual rather shell negative trial";
+var mnemonic = "gap lunch you rebuild act share violin destroy vocal neither cram zebra";

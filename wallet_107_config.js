@@ -1,1 +1,1 @@
-var mnemonic = "orbit comic educate dry photo bamboo lounge dog useless soon remain blind";
+var mnemonic = "control truth visual filter skull defense exit budget upon please wheel ceiling";

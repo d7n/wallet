@@ -1,1 +1,1 @@
-var mnemonic = "grow pioneer liar video another repeat amazing diamond trap comic toward expect";
+var mnemonic = "annual fade baby spend like trouble term income age blossom among adjust";

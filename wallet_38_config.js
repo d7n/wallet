@@ -1,1 +1,1 @@
-var mnemonic = "bundle timber first crop music city onion try gravity post spot salute";
+var mnemonic = "okay thunder domain weather farm train rail cluster arrive repair craft coffee";

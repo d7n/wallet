@@ -1,1 +1,1 @@
-var mnemonic = "pepper obey idle stomach side slab father glove multiply peace angle horse";
+var mnemonic = "ability miss deny climb dilemma insect siege expand time shed cargo cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "sport mountain quiz ivory ignore bonus twist conduct law awake exist shrug";
+var mnemonic = "demise fly glory liberty clog sock flat follow online fatigue art dwarf";

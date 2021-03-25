@@ -1,1 +1,1 @@
-var mnemonic = "false evidence abstract song idea frog pulp turn proof mansion scheme sadness";
+var mnemonic = "amount depart regular bind area drip size reopen expand fiscal remember abandon";

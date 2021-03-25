@@ -1,1 +1,1 @@
-var mnemonic = "nose sample sphere giraffe clog abuse carry pole rural skill picnic nation";
+var mnemonic = "route chapter other receive left build learn circle struggle ordinary spider fire";

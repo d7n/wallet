@@ -1,1 +1,1 @@
-var mnemonic = "hat green merit ahead bus toast oven rude denial egg interest nose";
+var mnemonic = "battle crop tool patch whip coyote initial pool danger green merry climb";

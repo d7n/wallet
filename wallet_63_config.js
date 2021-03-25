@@ -1,1 +1,1 @@
-var mnemonic = "strong salad crack alert prosper girl recall swim ski grow ramp appear";
+var mnemonic = "dove chapter must garlic wedding foil embark plastic narrow insect mimic rent";

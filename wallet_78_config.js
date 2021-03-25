@@ -1,1 +1,1 @@
-var mnemonic = "entire fortune noise regular crazy rescue depth strategy sausage rifle chalk enter";
+var mnemonic = "mixed void mimic venture pyramid doctor trade pottery six argue armor anchor";

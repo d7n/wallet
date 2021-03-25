@@ -1,1 +1,1 @@
-var mnemonic = "neither mango remind rice spin interest toast outer discover biology help flame";
+var mnemonic = "adult title bench attract cushion time owner client allow home bracket survey";

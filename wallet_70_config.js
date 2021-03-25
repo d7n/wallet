@@ -1,1 +1,1 @@
-var mnemonic = "eagle convince grape vocal swear tomato south slide orchard else green tobacco";
+var mnemonic = "put miracle demand blast cushion clip media manual unique thrive idea present";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit half assault unfair remind base eternal sibling social flavor bind unveil";
+var mnemonic = "path south track prefer resemble local bulb sadness vacant upgrade cabin tunnel";

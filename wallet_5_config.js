@@ -1,1 +1,1 @@
-var mnemonic = "sheriff just industry protect myself adjust arch tortoise awful ocean curious dream";
+var mnemonic = "attitude omit relief rural truck paper live trick guilt hazard sample achieve";

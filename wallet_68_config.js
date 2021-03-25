@@ -1,1 +1,1 @@
-var mnemonic = "field scale patient lion arch divorce goat reject weird soup friend wide";
+var mnemonic = "season normal woman waste make segment easily clinic mule obvious promote crush";

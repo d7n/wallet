@@ -1,1 +1,1 @@
-var mnemonic = "ahead early smile pattern funny skate skill saddle speak subject athlete whip";
+var mnemonic = "you bid scout check symbol educate lawn alcohol atom fever spring crucial";

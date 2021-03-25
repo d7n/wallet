@@ -1,1 +1,1 @@
-var mnemonic = "awkward wall swarm host vehicle floor father siege dignity involve cigar entire";
+var mnemonic = "chat wire oyster tail cargo coyote skin embody globe nuclear intact dose";

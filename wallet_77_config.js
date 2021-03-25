@@ -1,1 +1,1 @@
-var mnemonic = "squirrel injury gap owner village riot twist junk vibrant device oil smooth";
+var mnemonic = "shine absorb fence nurse can axis genre burden swamp uphold music insane";

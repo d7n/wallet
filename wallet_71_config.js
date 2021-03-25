@@ -1,1 +1,1 @@
-var mnemonic = "biology child unknown normal cushion hidden steel round vault penalty castle aim";
+var mnemonic = "still success angry post popular moment hobby cool winner spread mandate gather";

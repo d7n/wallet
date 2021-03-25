@@ -1,1 +1,1 @@
-var mnemonic = "drop pitch labor sponsor bachelor motor merit marble error regret access scatter";
+var mnemonic = "uncle choice sunny coin immune hidden dignity exotic cactus address method excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "outside empty cancel spatial exile lunch stadium cloth swear tiger axis air";
+var mnemonic = "climb riot tomorrow torch better staff gentle antenna remind cabin illegal catch";
