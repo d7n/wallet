@@ -1,1 +1,1 @@
-var mnemonic = "review flavor twin trim around crouch appear swim stone afford board mistake";
+var mnemonic = "uncover this solar palace sad family depth razor cycle because online include";

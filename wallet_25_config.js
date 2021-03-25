@@ -1,1 +1,1 @@
-var mnemonic = "hire grunt real program camp deer stick matrix impose access season turtle";
+var mnemonic = "fatigue slogan force mixed cannon decide nut soft old bid rate female";

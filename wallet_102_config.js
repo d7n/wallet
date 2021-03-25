@@ -1,1 +1,1 @@
-var mnemonic = "resemble nice fever warm senior creek turn hidden expand egg error raven";
+var mnemonic = "slush deal setup feature unknown tuna large salon suit breeze simple hint";

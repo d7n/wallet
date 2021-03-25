@@ -1,1 +1,1 @@
-var mnemonic = "dress ripple bomb inject switch render travel bulk work bonus gather wagon";
+var mnemonic = "dish much slab dash gift meat solution luxury poet divide spider alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "gym novel supply grace woman cake silk risk surround pumpkin oven ice";
+var mnemonic = "detail web wing develop stairs decade family device update rack desert either";

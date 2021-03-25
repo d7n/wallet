@@ -1,1 +1,1 @@
-var mnemonic = "adjust upgrade later face glass winter shield awesome giant bus excuse father";
+var mnemonic = "win hill diamond hollow relief slow better large allow front foster extend";

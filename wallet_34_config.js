@@ -1,1 +1,1 @@
-var mnemonic = "hour bamboo permit utility toward cement junk unveil connect chapter piano crowd";
+var mnemonic = "impact narrow exchange farm neglect balance mushroom arctic lava monkey bus broccoli";

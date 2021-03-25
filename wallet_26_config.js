@@ -1,1 +1,1 @@
-var mnemonic = "sure quiz camera quick drama pistol brother trap before race steel clerk";
+var mnemonic = "short swamp rule mercy crack column force angry able bubble senior occur";

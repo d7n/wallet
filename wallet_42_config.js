@@ -1,1 +1,1 @@
-var mnemonic = "skirt spend bread husband fitness unaware street example endless wheat source entry";
+var mnemonic = "unusual lesson doll account identify fun morning walk blossom mask exhaust final";

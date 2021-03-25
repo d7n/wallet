@@ -1,1 +1,1 @@
-var mnemonic = "stock myself kit surprise timber walk shrug tube urban goddess run spell";
+var mnemonic = "mouse latin voyage distance soup toe live voyage absorb report screen notice";

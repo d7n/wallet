@@ -1,1 +1,1 @@
-var mnemonic = "method owner social into wrong peanut remind tide flip army harsh lesson";
+var mnemonic = "flee wear agree pupil live potato home digital rich crawl travel west";

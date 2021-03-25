@@ -1,1 +1,1 @@
-var mnemonic = "style doll rhythm top project solar beauty gap awesome also bounce fatal";
+var mnemonic = "include toy title before arena cabbage tobacco occur interest suspect tattoo army";

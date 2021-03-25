@@ -1,1 +1,1 @@
-var mnemonic = "denial acquire clarify field cool rent illegal grain gorilla section concert odor";
+var mnemonic = "seminar delay medal code decrease tonight bronze prefer alarm burden library decrease";

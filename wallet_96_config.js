@@ -1,1 +1,1 @@
-var mnemonic = "announce much fork cinnamon will maple item bind grant door pencil pudding";
+var mnemonic = "sphere oval danger bean allow benefit false good identify coast you accuse";

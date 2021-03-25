@@ -1,1 +1,1 @@
-var mnemonic = "dismiss clip picture ask umbrella peace stem lake brick forest brisk spot";
+var mnemonic = "mansion physical lock tray south typical uncle exact liar key liar approve";

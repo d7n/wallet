@@ -1,1 +1,1 @@
-var mnemonic = "column rich canvas promote inhale sleep various truly six wisdom silk fence";
+var mnemonic = "delay clay logic voice lottery letter glimpse tank refuse legal voice six";

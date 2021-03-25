@@ -1,1 +1,1 @@
-var mnemonic = "please forget cage hollow garment basic solar illness bacon permit again fat";
+var mnemonic = "blast feature tail meadow ill library palm title raise damage first guard";

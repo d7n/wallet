@@ -1,1 +1,1 @@
-var mnemonic = "grace leave sniff boat evidence pull pledge build survey manage bench power";
+var mnemonic = "organ drastic squeeze fresh inside wall advice velvet kiss erupt secret want";

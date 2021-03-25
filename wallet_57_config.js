@@ -1,1 +1,1 @@
-var mnemonic = "wonder dragon nice actual call robust section fragile theory buffalo broken broccoli";
+var mnemonic = "history stadium puzzle rare engine love ready jewel era priority strike fine";

@@ -1,1 +1,1 @@
-var mnemonic = "rain cable project profit suspect early peasant entire syrup device panda pattern";
+var mnemonic = "chaos where soldier fence above glow wonder curious win puzzle relax dwarf";

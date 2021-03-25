@@ -1,1 +1,1 @@
-var mnemonic = "daughter lava awful museum tooth medal call cheese bike reward motion control";
+var mnemonic = "pumpkin bean spike crane group bottom proud dog announce culture market series";

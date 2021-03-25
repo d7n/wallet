@@ -1,1 +1,1 @@
-var mnemonic = "photo memory hobby they card cricket pony join hour wedding lady spring";
+var mnemonic = "find churn jungle science away hazard ripple prison way doctor taxi crawl";

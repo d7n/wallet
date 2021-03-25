@@ -1,1 +1,1 @@
-var mnemonic = "ready else pave destroy loop typical find cabbage away reopen test flower";
+var mnemonic = "position panic draft raven suspect shock language wool tattoo amused glimpse squirrel";

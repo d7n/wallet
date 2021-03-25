@@ -1,1 +1,1 @@
-var mnemonic = "matrix perfect bargain divert cry together weapon flat assault balance wink fire";
+var mnemonic = "series lobster gather identify stable west mention cradle drip involve device spatial";

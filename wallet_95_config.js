@@ -1,1 +1,1 @@
-var mnemonic = "finger exclude stomach huge print unusual broccoli aisle output vessel soul uphold";
+var mnemonic = "cloud bamboo top wine few luxury friend arena romance case few parent";

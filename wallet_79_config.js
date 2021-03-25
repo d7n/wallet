@@ -1,1 +1,1 @@
-var mnemonic = "person divert hair bubble parrot voice neutral cause excess eternal receive shop";
+var mnemonic = "wide alien antique staff proof author need card tell letter kitten shell";

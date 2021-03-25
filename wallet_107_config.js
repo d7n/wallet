@@ -1,1 +1,1 @@
-var mnemonic = "ten wink swear switch huge neglect license salmon time elbow message autumn";
+var mnemonic = "penalty purse perfect grid road indicate flag father health hill alert blossom";

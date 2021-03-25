@@ -1,1 +1,1 @@
-var mnemonic = "rely ask goose length inmate north judge few olympic cereal virtual cable";
+var mnemonic = "whale clog farm velvet jump client spoil auto inflict elder crouch sorry";

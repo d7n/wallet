@@ -1,1 +1,1 @@
-var mnemonic = "risk champion pottery lawsuit float load isolate track grant ranch system seat";
+var mnemonic = "peasant puzzle blur wise spike inject tray scare total warfare woman foil";

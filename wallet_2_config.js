@@ -1,1 +1,1 @@
-var mnemonic = "tongue void train crane face middle choice problem name figure person believe";
+var mnemonic = "sniff argue fiber shop wasp ugly garden custom economy bridge east lift";

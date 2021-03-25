@@ -1,1 +1,1 @@
-var mnemonic = "learn blush resource bracket decade dragon narrow reveal youth embrace then refuse";
+var mnemonic = "always rifle inch boring impulse tragic degree toddler bamboo drip home bundle";

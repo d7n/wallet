@@ -1,1 +1,1 @@
-var mnemonic = "rate purpose daughter agree cook way blind seat pool ecology plunge drip";
+var mnemonic = "fox sorry guard shed miss frown dismiss tomorrow across scene discover mixture";

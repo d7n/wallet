@@ -1,1 +1,1 @@
-var mnemonic = "merit achieve session mixed bone code slush bonus outdoor rate clean fiscal";
+var mnemonic = "various damage famous supreme car flower vendor bargain scissors alley make bird";

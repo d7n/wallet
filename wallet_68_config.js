@@ -1,1 +1,1 @@
-var mnemonic = "train drop dash radar prosper medal always budget crumble word ethics evil";
+var mnemonic = "cement always apple flash arrest patch slot dog gadget enact chalk garden";

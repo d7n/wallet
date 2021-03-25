@@ -1,1 +1,1 @@
-var mnemonic = "about tag gold actual point area type flower curve extend imitate easy";
+var mnemonic = "brave smooth real loan energy diet nut spy hedgehog wink between exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "bean keep medal move pave lucky dream bless winner accuse front weekend";
+var mnemonic = "tragic afford poverty pelican coin orchard recall surge hill sport across lunar";

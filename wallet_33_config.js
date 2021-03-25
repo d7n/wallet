@@ -1,1 +1,1 @@
-var mnemonic = "multiply satoshi elite crowd open donor kiwi outdoor tooth brain wash embark";
+var mnemonic = "prevent garment laundry man tide giggle come fun utility weird resemble mule";

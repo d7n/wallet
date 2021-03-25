@@ -1,1 +1,1 @@
-var mnemonic = "federal auto buyer uphold funny abandon twelve never solution game satisfy riot";
+var mnemonic = "desk country air claim steak detect note pet monkey system right visit";

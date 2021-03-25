@@ -1,1 +1,1 @@
-var mnemonic = "useful gesture disease vessel version bright beach bullet drift sponsor welcome suggest";
+var mnemonic = "stuff issue prison any render hat annual ramp valve social tragic figure";

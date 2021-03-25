@@ -1,1 +1,1 @@
-var mnemonic = "always around audit palace water diary elegant lottery laptop small prize man";
+var mnemonic = "sunny shift bicycle problem defy aim long million divert banana cloud prison";

@@ -1,1 +1,1 @@
-var mnemonic = "speed accuse ticket require blouse ugly misery disease task better nerve rebuild";
+var mnemonic = "pill proud neck dream visit crater steak time first roof wagon local";

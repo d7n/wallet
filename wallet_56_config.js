@@ -1,1 +1,1 @@
-var mnemonic = "decorate butter skill drama puppy like lemon wall chair dish radar blood";
+var mnemonic = "woman camera salute toast capital attend noise angry drastic wear solve slogan";

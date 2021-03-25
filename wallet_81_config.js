@@ -1,1 +1,1 @@
-var mnemonic = "spice same define dinosaur regret lecture skull rubber design motion odor parrot";
+var mnemonic = "human alone flame rather mansion cannon engine dawn shed trim loyal club";

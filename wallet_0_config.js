@@ -1,1 +1,1 @@
-var mnemonic = "cross own dawn loan beach border click night visa modify sword relax";
+var mnemonic = "response air local submit foot shell hurdle cereal entry live fabric entire";

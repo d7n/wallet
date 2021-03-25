@@ -1,1 +1,1 @@
-var mnemonic = "please tomorrow bridge antique palm raise picnic myth spike inspire tissue cereal";
+var mnemonic = "nest alien barely injury stadium super wash address hole dove dilemma cloth";

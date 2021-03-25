@@ -1,1 +1,1 @@
-var mnemonic = "spin meat alert cinnamon mind orbit damage cart example renew wear drift";
+var mnemonic = "custom guide misery range remove write fever jar desk whip rocket burger";

@@ -1,1 +1,1 @@
-var mnemonic = "imitate grunt clog victory soldier hurdle renew elephant section dance midnight taxi";
+var mnemonic = "iron able atom library slot property anxiety insane garden valve course element";

@@ -1,1 +1,1 @@
-var mnemonic = "economy chuckle glory pattern subject marble cupboard fault giant define clean unique";
+var mnemonic = "car benefit early domain knife elevator rain shift valve street narrow waste";

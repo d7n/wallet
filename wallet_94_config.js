@@ -1,1 +1,1 @@
-var mnemonic = "obscure sea first problem bird popular zebra moral tape spend bundle rib";
+var mnemonic = "sea dumb close sunset mystery picnic pulp defense trumpet hood butter rough";

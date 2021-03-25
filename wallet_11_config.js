@@ -1,1 +1,1 @@
-var mnemonic = "miss tortoise receive unknown orchard use crime eyebrow whip grass impulse invite";
+var mnemonic = "wage thunder eye bring tooth decrease wagon section ice cart pencil donkey";

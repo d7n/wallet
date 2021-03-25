@@ -1,1 +1,1 @@
-var mnemonic = "dish century brief mixture call glance vintage champion just drift cause direct";
+var mnemonic = "argue verb rookie unfair early icon section twelve zero mechanic oven crystal";

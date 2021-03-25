@@ -1,1 +1,1 @@
-var mnemonic = "inspire essence fame awake where media jungle season van core slot rabbit";
+var mnemonic = "defy fancy desert bleak school cave become wet brush jump breeze puzzle";

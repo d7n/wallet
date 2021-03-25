@@ -1,1 +1,1 @@
-var mnemonic = "size total simple fiction mother mountain leisure dish nominee fortune material evolve";
+var mnemonic = "library little pottery early ranch pledge spy match distance adult tissue tag";

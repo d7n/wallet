@@ -1,1 +1,1 @@
-var mnemonic = "own regular audit economy rather echo luxury gown proof until media host";
+var mnemonic = "capable spare modify evoke sponsor pelican pioneer decade print dizzy judge champion";

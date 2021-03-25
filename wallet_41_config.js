@@ -1,1 +1,1 @@
-var mnemonic = "follow maximum acoustic calm initial scene choose dawn museum present opera angry";
+var mnemonic = "bench choice upon strong dinner fashion coyote ring suit bulk suffer echo";

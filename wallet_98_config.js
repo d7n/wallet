@@ -1,1 +1,1 @@
-var mnemonic = "cabin world include proof bus erase hedgehog guard bean raise army permit";
+var mnemonic = "slam often reduce fringe sketch vague depart matter zebra educate youth alley";

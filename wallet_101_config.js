@@ -1,1 +1,1 @@
-var mnemonic = "illegal radar evoke moral dutch unique amused know blood chapter theory finger";
+var mnemonic = "winner purse shy stairs tortoise skill pill member sock neither learn clarify";

@@ -1,1 +1,1 @@
-var mnemonic = "pair risk doctor begin luggage energy pig wide forget settle satisfy slight";
+var mnemonic = "ocean region across bread canoe artwork kite creek million farm weird merit";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty napkin giggle woman soap attitude tilt match cannon account unusual absurd";
+var mnemonic = "crystal open actor segment knife worth faith curious thank swift annual brother";

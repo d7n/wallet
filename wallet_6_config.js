@@ -1,1 +1,1 @@
-var mnemonic = "all toast margin remain excuse crisp almost ridge crane person forget shine";
+var mnemonic = "use balcony flee swear gentle radar smooth matrix fog slow baby ostrich";

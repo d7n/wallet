@@ -1,1 +1,1 @@
-var mnemonic = "train clutch space word balance object soda clean media dolphin inside bulk";
+var mnemonic = "churn street clown become fall cube price aunt once cradle relief famous";

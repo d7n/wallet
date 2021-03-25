@@ -1,1 +1,1 @@
-var mnemonic = "program sand sibling juice vital thank tumble open anger smooth scale pulse";
+var mnemonic = "device jungle upset have bird harvest snake pride piece drum fold armor";

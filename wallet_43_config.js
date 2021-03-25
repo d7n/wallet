@@ -1,1 +1,1 @@
-var mnemonic = "quote much know party second pool hard approve cycle drastic present assist";
+var mnemonic = "ramp curious mixed orphan muffin balcony ugly goose library cluster rail coral";

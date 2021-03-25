@@ -1,1 +1,1 @@
-var mnemonic = "reopen seek board obtain main brown suggest clever insect globe twelve cube";
+var mnemonic = "unhappy best please leg team frame holiday age tree note gym turtle";

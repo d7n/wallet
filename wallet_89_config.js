@@ -1,1 +1,1 @@
-var mnemonic = "have enemy long orient join easily wheat salt winner country eager liar";
+var mnemonic = "sign dream farm post crime picture gift hedgehog earth banana total abandon";

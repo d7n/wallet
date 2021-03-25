@@ -1,1 +1,1 @@
-var mnemonic = "boring ancient horror first friend lamp squeeze warm confirm best salt horn";
+var mnemonic = "goddess link write dwarf fall fragile area orbit wasp onion slight small";

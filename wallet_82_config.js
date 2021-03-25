@@ -1,1 +1,1 @@
-var mnemonic = "mimic wait promote tragic beyond tilt wonder eyebrow project live bullet exist";
+var mnemonic = "female insane fork link media angle trick mad reason renew sword doctor";

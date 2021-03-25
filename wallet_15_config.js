@@ -1,1 +1,1 @@
-var mnemonic = "arrest mention reject garage easily estate dawn infant property rabbit fence bonus";
+var mnemonic = "step music tongue credit verb put bind edge conduct office olympic strategy";

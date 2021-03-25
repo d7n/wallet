@@ -1,1 +1,1 @@
-var mnemonic = "neck cross tuition lava range raise squirrel hen dream duck gas coin";
+var mnemonic = "stamp bid high keen firm dutch luggage arrive net clap brain appear";

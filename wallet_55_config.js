@@ -1,1 +1,1 @@
-var mnemonic = "column calm fresh sweet unusual search cheese october mad device exact bus";
+var mnemonic = "heavy belt marriage marine picture wage film cost fault rural tortoise oxygen";

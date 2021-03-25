@@ -1,1 +1,1 @@
-var mnemonic = "display hollow snack make plate ladder cook rail vapor rotate behave human";
+var mnemonic = "urban dance another hold settle when fossil cigar language client boss capital";

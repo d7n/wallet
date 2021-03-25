@@ -1,1 +1,1 @@
-var mnemonic = "way digital vanish inform unaware slush number fine inmate boss tired game";
+var mnemonic = "reduce maximum process start stool soda bargain dad march salmon enemy marble";

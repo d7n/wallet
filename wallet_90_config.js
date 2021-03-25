@@ -1,1 +1,1 @@
-var mnemonic = "agent staff sad capital assume outdoor gym oppose artist danger follow never";
+var mnemonic = "raccoon vivid wage spider possible wine alien upgrade better left wealth office";

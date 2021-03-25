@@ -1,1 +1,1 @@
-var mnemonic = "prosper pencil green column brick spray physical long long sheriff fancy chalk";
+var mnemonic = "proof grain tragic issue outdoor bottom solid wool sister heart forward gorilla";

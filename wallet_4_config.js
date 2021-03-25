@@ -1,1 +1,1 @@
-var mnemonic = "fabric dawn forum violin stool will legend theme remind loan stadium endless";
+var mnemonic = "fresh else seed warfare gallery portion reject canal catalog grain vicious exhibit";

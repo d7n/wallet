@@ -1,1 +1,1 @@
-var mnemonic = "world switch key any glide announce silver flat coin swift whale patch";
+var mnemonic = "patient strategy tobacco relief vacuum happy cake salon female service lava random";

@@ -1,1 +1,1 @@
-var mnemonic = "piece frown image peanut hungry isolate joke guard device excess wealth stable";
+var mnemonic = "shoot pair rescue human seek can initial absent artefact glue enroll choose";

@@ -1,1 +1,1 @@
-var mnemonic = "merit better market moral you music recall aspect youth record amateur story";
+var mnemonic = "mansion disease resource bullet pig voice practice crowd endorse vehicle unable slam";

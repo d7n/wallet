@@ -1,1 +1,1 @@
-var mnemonic = "essence tackle caught spring dragon misery gesture apart clump blur slide ill";
+var mnemonic = "broccoli diesel prefer admit broccoli math drastic rebuild robust wire off balance";

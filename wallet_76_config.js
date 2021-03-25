@@ -1,1 +1,1 @@
-var mnemonic = "bridge organ repair oak auction hedgehog album waste explain peasant indicate file";
+var mnemonic = "right aerobic vanish gallery code upper minute fan sunny rail genre antenna";

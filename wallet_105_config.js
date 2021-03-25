@@ -1,1 +1,1 @@
-var mnemonic = "mom trash silent curtain name hungry tower flame napkin nation cabin panic";
+var mnemonic = "page seminar fantasy grape common scheme quick despair jungle forest correct circle";

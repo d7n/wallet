@@ -1,1 +1,1 @@
-var mnemonic = "give mask ready unable embody friend orient chat diesel client cousin tornado";
+var mnemonic = "pen salt hungry spice session isolate female jelly symptom pencil bone dose";

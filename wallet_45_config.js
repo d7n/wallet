@@ -1,1 +1,1 @@
-var mnemonic = "cigar place omit envelope toe promote duty father music claim tuition enlist";
+var mnemonic = "eye miracle keen vocal answer solar hurry modify cycle direct stool come";

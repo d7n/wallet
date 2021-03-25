@@ -1,1 +1,1 @@
-var mnemonic = "people grunt salt angry often fish joy purse foil junk chase glory";
+var mnemonic = "response legal tiny gravity stamp drop tattoo stick vivid decline medal river";

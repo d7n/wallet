@@ -1,1 +1,1 @@
-var mnemonic = "labor hamster beach foster portion tragic abstract magic illness man woman fringe";
+var mnemonic = "thought smart curve vibrant clerk donate bike street account monitor bridge ability";

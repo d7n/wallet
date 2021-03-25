@@ -1,1 +1,1 @@
-var mnemonic = "image negative oyster license swift between monster curtain clinic page large share";
+var mnemonic = "false comic youth raw fabric uncle safe peasant popular hover narrow share";

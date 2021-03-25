@@ -1,1 +1,1 @@
-var mnemonic = "bubble boil attend pride praise tongue account sick hair visual soap december";
+var mnemonic = "various logic human rookie fault staff taxi fiscal legal angle puzzle sugar";

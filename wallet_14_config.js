@@ -1,1 +1,1 @@
-var mnemonic = "night season proud shield capable embrace ceiling scatter piece source inquiry husband";
+var mnemonic = "scissors object aunt blanket seek moment away hungry creek nasty tackle prevent";

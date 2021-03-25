@@ -1,1 +1,1 @@
-var mnemonic = "glove border album fun naive key enter rack piano recycle broken poverty";
+var mnemonic = "host bone ask potato heart isolate clump reopen unfair walnut prepare liquid";
