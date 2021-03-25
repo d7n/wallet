@@ -1,1 +1,1 @@
-var mnemonic = "guess method move local leaf hover kidney tissue plunge anger venue nation";
+var mnemonic = "ordinary solve beauty effort hope anchor void produce panel idle sock goat";

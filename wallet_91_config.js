@@ -1,1 +1,1 @@
-var mnemonic = "ketchup prefer depend caution come pear pupil shock recycle wrist round decade";
+var mnemonic = "common nuclear wear conduct someone gold leaf addict script lottery blue certain";

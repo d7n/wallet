@@ -1,1 +1,1 @@
-var mnemonic = "boss bread great please leader argue narrow sniff clever flower assume sing";
+var mnemonic = "blade segment blush ask damage meat clock library quality monkey clown range";

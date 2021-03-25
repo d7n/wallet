@@ -1,1 +1,1 @@
-var mnemonic = "february afraid distance decrease chase first crash sea rescue gentle team lake";
+var mnemonic = "sock error tooth author medal rose warrior gorilla question grant entry easily";

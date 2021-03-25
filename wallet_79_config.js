@@ -1,1 +1,1 @@
-var mnemonic = "real penalty mutual moon fault scorpion little desk engage broccoli avoid jealous";
+var mnemonic = "lesson casino model various cash glow magnet click duty client old dog";

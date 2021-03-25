@@ -1,1 +1,1 @@
-var mnemonic = "year relief replace deal spoil stage ability maid pioneer doctor erosion use";
+var mnemonic = "chimney stumble grief raw view member magic reject second claim alone business";

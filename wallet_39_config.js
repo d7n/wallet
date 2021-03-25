@@ -1,1 +1,1 @@
-var mnemonic = "youth kiss visit abstract space chalk intact size tribe point marine present";
+var mnemonic = "guitar glove convince enable law process victory era economy enact panic draft";

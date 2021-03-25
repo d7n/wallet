@@ -1,1 +1,1 @@
-var mnemonic = "attack buzz case peace fuel model speak best pave pave exact this";
+var mnemonic = "step solve puppy thought cable enrich snack link method exist staff board";

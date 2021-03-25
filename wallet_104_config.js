@@ -1,1 +1,1 @@
-var mnemonic = "hire opera city salon uniform couch elite sphere grain hazard marine spy";
+var mnemonic = "inherit beyond tourist fashion wrap visa wink spread program indoor flush gun";

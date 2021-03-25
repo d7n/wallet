@@ -1,1 +1,1 @@
-var mnemonic = "robust attend easy repeat once video club mesh clean suspect praise vintage";
+var mnemonic = "music stem smile space safe romance certain ice office sing drive height";

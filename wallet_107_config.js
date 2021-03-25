@@ -1,1 +1,1 @@
-var mnemonic = "tooth recycle exact draft wait proof sort tongue mystery update twenty vote";
+var mnemonic = "family pattern city supreme sight inform north again fun modify embark void";

@@ -1,1 +1,1 @@
-var mnemonic = "will start upper clutch bone repair gaze barely street gather hand sweet";
+var mnemonic = "blur fire thing profit author letter fog cluster follow crater piece cloud";

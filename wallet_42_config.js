@@ -1,1 +1,1 @@
-var mnemonic = "pelican cabin joy plunge matter provide true exhibit palace night life mushroom";
+var mnemonic = "husband pact average trip stamp offer buyer card shrug misery transfer torch";

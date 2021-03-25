@@ -1,1 +1,1 @@
-var mnemonic = "process name vacant mouse spider hen bulk spirit tomorrow palm slide person";
+var mnemonic = "reunion buffalo model vibrant stand already spike budget borrow category tube anchor";

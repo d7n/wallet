@@ -1,1 +1,1 @@
-var mnemonic = "simple bounce bone copper flight inquiry tragic dumb ketchup unusual eyebrow possible";
+var mnemonic = "fluid life example rival jacket friend candy swap kiwi immune bar exhaust";

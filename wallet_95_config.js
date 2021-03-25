@@ -1,1 +1,1 @@
-var mnemonic = "major season recycle engage shiver improve trash purpose rookie decade race body";
+var mnemonic = "harsh table double school appear aerobic future slender depth force carbon sponsor";

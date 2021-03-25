@@ -1,1 +1,1 @@
-var mnemonic = "domain chuckle airport away embark paddle receive doctor pet apple labor fame";
+var mnemonic = "inflict thrive gym popular squirrel climb cigar hamster cement wood cost certain";

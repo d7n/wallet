@@ -1,1 +1,1 @@
-var mnemonic = "also vacant crime hungry ordinary lunar great lesson trigger lend galaxy agree";
+var mnemonic = "also grocery arrow order churn spare foil divert drill payment often holiday";

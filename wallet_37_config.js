@@ -1,1 +1,1 @@
-var mnemonic = "arch marble source observe brand detect proud agree secret various barrel city";
+var mnemonic = "trip access unknown visa parent jungle great win blind logic knife clean";

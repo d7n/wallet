@@ -1,1 +1,1 @@
-var mnemonic = "isolate unlock screen capital struggle release step test atom hamster wash raise";
+var mnemonic = "track false fuel february air front box that manage people actual knife";

@@ -1,1 +1,1 @@
-var mnemonic = "couch cool zebra art basic alter empty crucial cupboard cigar street circle";
+var mnemonic = "tiny steel excess cotton bag update champion diesel stand phrase track lounge";

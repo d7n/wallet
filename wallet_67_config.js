@@ -1,1 +1,1 @@
-var mnemonic = "story say warfare plastic episode infant venue car hard tooth name artist";
+var mnemonic = "response dash famous okay hungry finish elite tape dose swing vote chunk";

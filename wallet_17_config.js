@@ -1,1 +1,1 @@
-var mnemonic = "hand agent great second chaos interest later blast equal release hollow twist";
+var mnemonic = "logic faint autumn sure disorder disease economy embrace arctic promote document evil";

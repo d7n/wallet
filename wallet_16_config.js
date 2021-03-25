@@ -1,1 +1,1 @@
-var mnemonic = "tissue split clay unfold arena result air globe cloud record sibling noodle";
+var mnemonic = "advice innocent adjust dismiss stand soul remember video into write tortoise author";

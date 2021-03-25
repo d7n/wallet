@@ -1,1 +1,1 @@
-var mnemonic = "merry target soda comfort jungle steak wear traffic early energy snack firm";
+var mnemonic = "observe chicken brisk clown super fitness butter interest sadness month sustain window";

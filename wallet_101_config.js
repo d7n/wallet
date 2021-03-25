@@ -1,1 +1,1 @@
-var mnemonic = "give liberty liquid hint hub ankle faith parade note short enough bless";
+var mnemonic = "feature supreme attitude pistol sunset stem noble nephew moment humor reunion habit";

@@ -1,1 +1,1 @@
-var mnemonic = "iron runway message mercy glide vendor alert frequent town abuse chunk mobile";
+var mnemonic = "peanut click attack owner story alpha cheese decorate tag defy melt shrimp";

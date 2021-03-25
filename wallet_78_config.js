@@ -1,1 +1,1 @@
-var mnemonic = "caution very copper wrist surround embody ball spike cloth foam swim dog";
+var mnemonic = "loan canoe genre roast bracket receive sustain pipe chat fork slab alien";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry retire tunnel refuse lottery army mansion ladder tissue town quick rate";
+var mnemonic = "purpose senior audit mimic blade moral call deposit upper town slush awesome";

@@ -1,1 +1,1 @@
-var mnemonic = "link soldier critic layer awesome payment right interest flower first virus damage";
+var mnemonic = "salute priority spring scatter mammal jewel left lend grass trend fault crucial";

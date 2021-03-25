@@ -1,1 +1,1 @@
-var mnemonic = "fancy still announce base coach squeeze sister cruel change flat arch coyote";
+var mnemonic = "siren moon lift inside glue eye hill high solar object until flat";

@@ -1,1 +1,1 @@
-var mnemonic = "meat dinosaur aspect sorry awkward sting cover fruit vote verify marine wheat";
+var mnemonic = "action ask iron magic uncover bounce permit pole more volume ankle burger";

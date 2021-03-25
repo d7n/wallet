@@ -1,1 +1,1 @@
-var mnemonic = "disease hood rack similar powder carry farm cable glimpse uncover syrup void";
+var mnemonic = "virus swallow cliff vote moon broken address decrease dinner gentle moral buddy";

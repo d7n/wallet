@@ -1,1 +1,1 @@
-var mnemonic = "fever push economy robust awake month crowd brush science letter ozone pig";
+var mnemonic = "harbor hello tray beyond primary rent worry tiger dutch panther umbrella top";

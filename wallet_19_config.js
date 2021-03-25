@@ -1,1 +1,1 @@
-var mnemonic = "problem hurry argue menu photo turn present midnight kitchen crop midnight major";
+var mnemonic = "coconut pause empower spell debate can mad major fee curious earth wisdom";

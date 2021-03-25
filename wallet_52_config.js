@@ -1,1 +1,1 @@
-var mnemonic = "power essay clock jungle alley often boy include blossom guide offer dumb";
+var mnemonic = "victory success clip spatial elephant victory broccoli grit pride door salt daring";

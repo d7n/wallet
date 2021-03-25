@@ -1,1 +1,1 @@
-var mnemonic = "number love private double laugh alter toddler arctic modify rack misery tongue";
+var mnemonic = "link sausage chase luxury divert adapt rhythm aunt must pistol bulk sentence";

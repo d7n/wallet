@@ -1,1 +1,1 @@
-var mnemonic = "awkward trigger world virus spin scheme tired write holiday divert resource kick";
+var mnemonic = "autumn ridge spell salt detail drink noodle allow wife project fame coconut";

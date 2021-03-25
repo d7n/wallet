@@ -1,1 +1,1 @@
-var mnemonic = "uphold wish treat climb agent vibrant notable boss work cruel salon helmet";
+var mnemonic = "warrior error absorb motion roast timber actress vendor lift near arrange vintage";

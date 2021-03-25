@@ -1,1 +1,1 @@
-var mnemonic = "reflect turn pumpkin salon ship rose scatter category fee useless sponsor trumpet";
+var mnemonic = "economy spoon bullet warrior hurdle phone flock doll you dignity favorite squirrel";

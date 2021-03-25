@@ -1,1 +1,1 @@
-var mnemonic = "borrow apple alone primary video fatigue correct pole inside city target desert";
+var mnemonic = "sail oil wrist bridge reduce regret unfold mention amateur anger depth benefit";

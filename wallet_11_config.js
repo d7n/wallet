@@ -1,1 +1,1 @@
-var mnemonic = "away street rabbit casual kick visit liquid athlete shield ozone peanut wood";
+var mnemonic = "viable stool lift ski top into dragon dizzy rely mango uncle coyote";

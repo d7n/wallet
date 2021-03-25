@@ -1,1 +1,1 @@
-var mnemonic = "team result tackle rebel crew polar asset fringe boy there sad cricket";
+var mnemonic = "warrior reveal fork crime ginger evoke couch replace citizen open vessel know";

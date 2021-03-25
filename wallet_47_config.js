@@ -1,1 +1,1 @@
-var mnemonic = "mass bike dad maximum lizard afford future globe develop chunk multiply okay";
+var mnemonic = "flee predict live author discover grow release aerobic buffalo rough process unknown";

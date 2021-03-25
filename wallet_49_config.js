@@ -1,1 +1,1 @@
-var mnemonic = "gas size laptop age dish element dish garden nest sausage drill point";
+var mnemonic = "april lazy layer gadget taste present orange banana large turkey cluster appear";

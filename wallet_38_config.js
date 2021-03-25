@@ -1,1 +1,1 @@
-var mnemonic = "another around couch odor sustain cereal curtain roast wild zone success helmet";
+var mnemonic = "text else clip fuel impose pitch glimpse regret tuna friend tonight apple";

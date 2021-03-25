@@ -1,1 +1,1 @@
-var mnemonic = "express exist engine vintage job squirrel flight hedgehog nuclear spread sort parade";
+var mnemonic = "toddler wrestle deal print false vacant wide dance wide pipe attend basic";

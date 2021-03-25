@@ -1,1 +1,1 @@
-var mnemonic = "when bitter category afford alien window dolphin annual beyond atom kiss panther";
+var mnemonic = "jar teach burst once detect setup kitchen identify river exotic actual infant";

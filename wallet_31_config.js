@@ -1,1 +1,1 @@
-var mnemonic = "obvious monitor segment picture clip brush lava tribe tuition garage more already";
+var mnemonic = "rookie spare collect sweet prison blast blanket uphold explain that core drink";

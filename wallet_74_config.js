@@ -1,1 +1,1 @@
-var mnemonic = "robot salmon cart bubble hungry gap fade merry concert miracle swim space";
+var mnemonic = "ritual pear quick devote pink scrap vital advice taxi rely poverty primary";

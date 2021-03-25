@@ -1,1 +1,1 @@
-var mnemonic = "radar museum memory silly super obscure spread mail fashion denial youth auto";
+var mnemonic = "fresh sword toilet bubble fence cram pact coyote coast armed captain wine";

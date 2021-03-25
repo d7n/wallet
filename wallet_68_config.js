@@ -1,1 +1,1 @@
-var mnemonic = "comfort behind napkin rib will hotel help people one dismiss session gold";
+var mnemonic = "athlete frown capable toast joy smooth tray replace sea edit extra ship";

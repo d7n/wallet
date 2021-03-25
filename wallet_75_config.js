@@ -1,1 +1,1 @@
-var mnemonic = "parade lobster section height renew bid blast flash enact country wood spring";
+var mnemonic = "prison antique shy step liberty hello super spoon sorry apple mesh useless";

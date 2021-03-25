@@ -1,1 +1,1 @@
-var mnemonic = "shoulder soft minute still obtain tower angry gold furnace dinosaur farm aerobic";
+var mnemonic = "soda use surge broom over daring toward man spirit modify push into";

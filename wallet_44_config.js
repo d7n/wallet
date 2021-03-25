@@ -1,1 +1,1 @@
-var mnemonic = "stomach sort label puzzle obscure stove upper earth retreat wet absorb goddess";
+var mnemonic = "elevator wrestle cruel stomach shift sad fame there dose ability rocket truth";

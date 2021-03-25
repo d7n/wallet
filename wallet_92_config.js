@@ -1,1 +1,1 @@
-var mnemonic = "stereo witness latin orient piece stuff nephew clip toilet misery room online";
+var mnemonic = "token quantum maximum purchase mass unfair forward tone clump link swallow west";

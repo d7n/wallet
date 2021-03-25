@@ -1,1 +1,1 @@
-var mnemonic = "wet weasel spawn lamp fossil kingdom agree erosion member art liquid tube";
+var mnemonic = "hobby control pride exist select record spoon cradle burger main antique ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "shop jeans trigger innocent luxury carbon citizen anger avocado holiday goose fiscal";
+var mnemonic = "convince man then close fire maze exile tell wage speak identify make";

@@ -1,1 +1,1 @@
-var mnemonic = "subject miss wine theme web resist recipe dial spawn kiwi safe defense";
+var mnemonic = "wrist vote spend index grid symptom luggage trigger later impulse better cram";

@@ -1,1 +1,1 @@
-var mnemonic = "daring game toddler tonight lesson direct used zebra column diary either genre";
+var mnemonic = "music brush remember domain merry across board expect puppy define visa fox";

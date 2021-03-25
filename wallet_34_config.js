@@ -1,1 +1,1 @@
-var mnemonic = "stereo secret dolphin author salmon tennis manual library grief sadness cat height";
+var mnemonic = "resource tiger between brass security depth come flip dinner raw armor lecture";

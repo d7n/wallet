@@ -1,1 +1,1 @@
-var mnemonic = "trip dumb lend sand train demand mesh fluid urge real recipe talk";
+var mnemonic = "great estate run list erode board torch raise lumber develop damp cook";

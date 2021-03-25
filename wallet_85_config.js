@@ -1,1 +1,1 @@
-var mnemonic = "enough differ click second mail toy team wreck recipe buzz horn blanket";
+var mnemonic = "eagle wage bitter stumble saddle profit bind firm ancient rocket case light";

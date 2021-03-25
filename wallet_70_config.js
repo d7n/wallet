@@ -1,1 +1,1 @@
-var mnemonic = "credit sail scorpion unaware group busy derive pepper chase stamp skate rigid";
+var mnemonic = "earn gasp butter execute off boat scatter core bargain border clay bronze";

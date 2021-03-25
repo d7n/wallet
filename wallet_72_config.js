@@ -1,1 +1,1 @@
-var mnemonic = "cereal tonight catch bundle wrap chicken author decade solve royal enough region";
+var mnemonic = "patch absurd fog toe capital cost purity improve bracket skill immense cube";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble original mimic already rebuild duck inflict possible kind bundle gather faith";
+var mnemonic = "kiss empower senior six cost hat party salmon final when giggle forward";

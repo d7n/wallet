@@ -1,1 +1,1 @@
-var mnemonic = "punch silk juice strategy into fragile apple topple path armor gown essay";
+var mnemonic = "essay citizen limit click senior humor gorilla alone uncover exclude material lucky";

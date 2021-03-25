@@ -1,1 +1,1 @@
-var mnemonic = "lake story curve access fix palm motor produce riot convince young hero";
+var mnemonic = "inner source dwarf salute autumn glad copy eyebrow marine ostrich ocean kite";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl palm rural bridge exile pool giant cupboard put planet twist inmate";
+var mnemonic = "dad note frog visa impose sock birth fork kiwi illegal below episode";

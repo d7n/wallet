@@ -1,1 +1,1 @@
-var mnemonic = "cool under crop strike liberty pass before blind estate funny sugar path";
+var mnemonic = "surface park soft fortune correct pull beef slogan spare since pear east";

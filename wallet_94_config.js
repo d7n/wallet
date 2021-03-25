@@ -1,1 +1,1 @@
-var mnemonic = "spray cricket echo zero couch confirm head indicate valve matter math man";
+var mnemonic = "fashion latin path regret pull neglect ready scheme fox lady lazy taxi";

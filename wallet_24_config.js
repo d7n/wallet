@@ -1,1 +1,1 @@
-var mnemonic = "ancient offer doctor exchange divide capital bus adult nasty output cycle wild";
+var mnemonic = "orphan raven wide indicate pull tuition predict unable reward spoon blouse verify";

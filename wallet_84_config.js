@@ -1,1 +1,1 @@
-var mnemonic = "cook bag negative odor festival ozone exchange meat finish edge stomach admit";
+var mnemonic = "injury urban verb observe horse list critic rose tuition hip style mixture";

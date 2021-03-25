@@ -1,1 +1,1 @@
-var mnemonic = "scheme under odor jungle eternal tribe scheme sad cannon rhythm alley raw";
+var mnemonic = "pistol awake kind metal alien camp flock trend always reopen frozen fox";

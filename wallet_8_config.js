@@ -1,1 +1,1 @@
-var mnemonic = "head retreat coyote small charge home ginger brush trap ecology head upgrade";
+var mnemonic = "seat sea tunnel fix wine butter prize consider mass assume name appear";

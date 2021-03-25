@@ -1,1 +1,1 @@
-var mnemonic = "real fruit alpha release shoulder share alpha lion exotic glue artefact crane";
+var mnemonic = "butter slice affair boat buzz regular volume spray sphere actual rib angry";

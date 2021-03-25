@@ -1,1 +1,1 @@
-var mnemonic = "dragon choice input leaf idea define end style spy deposit size sort";
+var mnemonic = "cigar throw glow pattern load alcohol farm exchange record puzzle brisk worth";

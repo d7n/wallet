@@ -1,1 +1,1 @@
-var mnemonic = "before heavy limb galaxy grocery large foil quit actor output kiss same";
+var mnemonic = "sorry elbow venue adjust enough verify pear wife trick banana gym pistol";

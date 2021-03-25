@@ -1,1 +1,1 @@
-var mnemonic = "yard rebuild assault check item piece hand six danger please year bulk";
+var mnemonic = "museum another sick pact salon sense unit core trick recipe input emotion";

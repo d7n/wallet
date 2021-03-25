@@ -1,1 +1,1 @@
-var mnemonic = "opera lock clock mango journey angle tell pill burst maximum reflect resemble";
+var mnemonic = "mountain visa enough gasp unlock depart hobby spare maximum shrug fitness game";

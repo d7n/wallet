@@ -1,1 +1,1 @@
-var mnemonic = "vague wish lucky save harsh tag degree comic south slim vicious shove";
+var mnemonic = "point install rifle fuel medal glass firm size engage defense pause faith";

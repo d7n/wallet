@@ -1,1 +1,1 @@
-var mnemonic = "cigar midnight spring tell wheat toddler drift pitch horror have gaze rail";
+var mnemonic = "elephant apology record concert never indicate analyst split trip sail elder snow";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness jealous pool exit deal depart clerk moon skin assault slim helmet";
+var mnemonic = "fatigue drip luxury shy cave sort rhythm cousin page century sea swarm";

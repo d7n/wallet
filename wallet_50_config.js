@@ -1,1 +1,1 @@
-var mnemonic = "brain lunar ignore sheriff disagree bonus ranch glass dog price fade mistake";
+var mnemonic = "reveal cost sound oak velvet cliff flip cruel tonight valid coral raccoon";

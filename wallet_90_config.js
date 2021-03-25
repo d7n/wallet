@@ -1,1 +1,1 @@
-var mnemonic = "garden girl mixture taste pause sleep appear cherry submit maple gap describe";
+var mnemonic = "satisfy embark cat column film time faith amount feature witness chair public";

@@ -1,1 +1,1 @@
-var mnemonic = "inner immense veteran equip ritual adjust vault gaze goat physical charge crew";
+var mnemonic = "omit ill actual mass move any walk calm purity cherry vault airport";

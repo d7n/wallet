@@ -1,1 +1,1 @@
-var mnemonic = "elephant piece today security globe panther craft right credit kind helmet economy";
+var mnemonic = "piece power autumn surround lunar equal soccer faith smooth grain ski asset";

@@ -1,1 +1,1 @@
-var mnemonic = "between blood prefer vacant dash upon coach asset behave just say duty";
+var mnemonic = "boss there math foot wine box affair boost elevator report arrest ghost";

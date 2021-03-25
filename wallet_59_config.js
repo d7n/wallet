@@ -1,1 +1,1 @@
-var mnemonic = "claw blush moment lyrics price hawk zero grow merry cricket buyer pilot";
+var mnemonic = "clean dutch sing parent hair country perfect judge frown ivory aunt bird";

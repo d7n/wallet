@@ -1,1 +1,1 @@
-var mnemonic = "fold fossil company enter quote violin fall metal range river canoe catch";
+var mnemonic = "humble inject process way social hobby among shrimp year worth section nurse";
