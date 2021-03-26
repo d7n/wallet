@@ -1,1 +1,1 @@
-var mnemonic = "unknown sheriff leave fossil cruise find mention submit throw field into sudden";
+var mnemonic = "noodle sting laundry cluster alley limb lyrics ride satisfy cry alter cabbage";

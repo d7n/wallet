@@ -1,1 +1,1 @@
-var mnemonic = "hair program lunar flat soul surprise custom off museum foil anchor hero";
+var mnemonic = "wife thunder tide harvest neck sample swim ankle surround gas tomato describe";

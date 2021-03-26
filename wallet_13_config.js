@@ -1,1 +1,1 @@
-var mnemonic = "same melt spike dinner hotel grief actual dry curtain diary pulse notable";
+var mnemonic = "wine tissue orange brain divert vault adult myself slot sting science exhaust";

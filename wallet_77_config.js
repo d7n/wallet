@@ -1,1 +1,1 @@
-var mnemonic = "naive menu amateur behave fiction swallow spring taxi reform quarter misery broken";
+var mnemonic = "season hover twist fiber pulp right now puzzle tomorrow cattle hen north";

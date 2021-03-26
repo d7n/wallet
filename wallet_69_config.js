@@ -1,1 +1,1 @@
-var mnemonic = "start flight outer sleep bean fiber spike release argue deal script rib";
+var mnemonic = "clap there height sauce dial often early luggage combine economy capital absurd";

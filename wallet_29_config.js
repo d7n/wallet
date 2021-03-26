@@ -1,1 +1,1 @@
-var mnemonic = "top proud excite captain stem letter vital deal frame swift gain discover";
+var mnemonic = "course capable arrive hand juice slush rebel street crucial coin accuse call";

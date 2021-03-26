@@ -1,1 +1,1 @@
-var mnemonic = "swarm host march property room fee genuine addict govern swarm link account";
+var mnemonic = "festival collect song quality spoon direct tiger gown copper grow fan exchange";

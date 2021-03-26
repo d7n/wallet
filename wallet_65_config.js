@@ -1,1 +1,1 @@
-var mnemonic = "capital hawk express iron dignity science rotate human recall eye weekend invest";
+var mnemonic = "silk venture galaxy decorate floor balance shield upgrade quote demand joke just";

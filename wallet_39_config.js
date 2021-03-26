@@ -1,1 +1,1 @@
-var mnemonic = "water device super solar outdoor knee action pole lab rib cousin lonely";
+var mnemonic = "exhaust miracle muffin labor depart then again also exchange raise south clarify";

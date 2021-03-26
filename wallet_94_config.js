@@ -1,1 +1,1 @@
-var mnemonic = "pigeon angry hockey essay crouch funny either capable need acid early basic";
+var mnemonic = "source punch improve twenty flip bridge advice smart ethics cushion issue guide";

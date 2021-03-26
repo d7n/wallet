@@ -1,1 +1,1 @@
-var mnemonic = "someone torch identify garlic nasty doctor shine swarm vacant deposit visual tribe";
+var mnemonic = "learn cricket crash coach essay occur churn plug duck dizzy tennis elegant";

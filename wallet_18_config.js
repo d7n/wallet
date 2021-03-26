@@ -1,1 +1,1 @@
-var mnemonic = "soldier cherry adapt wave detect harvest mean mass prefer original awesome repair";
+var mnemonic = "supply version inspire boil journey good crawl pool subway drink state nation";

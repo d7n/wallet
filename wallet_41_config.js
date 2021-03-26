@@ -1,1 +1,1 @@
-var mnemonic = "horn problem example hobby close unusual ankle donor airport section deny stem";
+var mnemonic = "false resemble detail seven member wise gravity rib tell direct polar relief";

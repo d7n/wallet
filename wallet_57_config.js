@@ -1,1 +1,1 @@
-var mnemonic = "attend explain album fabric grab pool hurt voice deer tank paddle shrug";
+var mnemonic = "basic okay acoustic fade finger practice donkey usage history item dismiss profit";

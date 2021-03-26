@@ -1,1 +1,1 @@
-var mnemonic = "struggle absorb company skin siege aspect pencil chalk cycle canyon avoid truck";
+var mnemonic = "same thrive neutral consider silly asset two car shine list dish clump";

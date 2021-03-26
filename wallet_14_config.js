@@ -1,1 +1,1 @@
-var mnemonic = "case custom favorite leisure such sheriff dolphin utility deliver scrap favorite mobile";
+var mnemonic = "relax monkey position fire group dynamic category day gaze patrol phrase warfare";

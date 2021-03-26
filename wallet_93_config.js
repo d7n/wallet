@@ -1,1 +1,1 @@
-var mnemonic = "project home roof force curious valve wet arctic neutral erosion buffalo clog";
+var mnemonic = "famous because earth good meat cushion half million secret purpose cereal inner";

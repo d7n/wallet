@@ -1,1 +1,1 @@
-var mnemonic = "address series sphere ten candy hill volume spy august nut manage worry";
+var mnemonic = "shrug moral jazz write retire attitude spoon yard tomato sketch bulb plate";

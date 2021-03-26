@@ -1,1 +1,1 @@
-var mnemonic = "business stem buffalo vibrant device accuse host favorite nut vibrant auto another";
+var mnemonic = "shop chapter private point face elder night tenant leave huge library usual";

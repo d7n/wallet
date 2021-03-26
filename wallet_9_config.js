@@ -1,1 +1,1 @@
-var mnemonic = "ginger scheme bacon world panic love shoulder vicious burden circle dust prize";
+var mnemonic = "success grunt session upper hundred surface narrow casino hub cupboard private embrace";

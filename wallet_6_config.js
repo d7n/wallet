@@ -1,1 +1,1 @@
-var mnemonic = "birth south code chase someone draw decorate what bomb cigar panther federal";
+var mnemonic = "cream secret crucial silver crater attack void volume urge prize leg key";

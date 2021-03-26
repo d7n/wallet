@@ -1,1 +1,1 @@
-var mnemonic = "trophy refuse convince sting toward conduct lady sail rose dutch ivory cherry";
+var mnemonic = "tenant slab immune remain drum grunt treat gloom still island large blade";

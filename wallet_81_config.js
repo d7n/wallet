@@ -1,1 +1,1 @@
-var mnemonic = "plate decide entry banana account must flower grain route segment pair trust";
+var mnemonic = "cream spread review jaguar boil emerge will spike own chef asset ketchup";

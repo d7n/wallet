@@ -1,1 +1,1 @@
-var mnemonic = "clever deer kitten museum hundred squirrel banner pumpkin sure swarm width escape";
+var mnemonic = "sugar kite phrase session chat film record gravity decrease cart clarify chuckle";

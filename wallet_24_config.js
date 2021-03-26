@@ -1,1 +1,1 @@
-var mnemonic = "rather obvious car slogan hard cat release square dawn weird drive history";
+var mnemonic = "suit reunion worry kit hood fluid polar mean witness volume surge reject";

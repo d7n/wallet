@@ -1,1 +1,1 @@
-var mnemonic = "flash valid beach caught gloom balcony mean tank spy program glow tribe";
+var mnemonic = "ugly gloom blast script bind jump actual border decade trial orbit purpose";

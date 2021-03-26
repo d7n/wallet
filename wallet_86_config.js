@@ -1,1 +1,1 @@
-var mnemonic = "limb funny poverty make shove borrow beach debris over page always assault";
+var mnemonic = "pulse crop zoo annual switch marriage chimney nice fish lesson action width";

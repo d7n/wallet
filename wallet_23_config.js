@@ -1,1 +1,1 @@
-var mnemonic = "strike shock slush injury slight unusual song genius control delay quit among";
+var mnemonic = "elder flash ignore depth seed media icon canyon jungle garbage memory inch";

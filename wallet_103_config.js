@@ -1,1 +1,1 @@
-var mnemonic = "region grain wheat paper join away disease ripple woman afford session electric";
+var mnemonic = "pioneer axis village target sibling prize clock affair arch elevator enable what";

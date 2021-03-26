@@ -1,1 +1,1 @@
-var mnemonic = "kid afford eternal aerobic orchard shiver party enhance over educate sibling involve";
+var mnemonic = "risk lock spider corn merge surge remain gorilla picnic million supply bless";

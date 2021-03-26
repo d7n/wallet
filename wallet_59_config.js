@@ -1,1 +1,1 @@
-var mnemonic = "symbol topple limb game spell cloud point train quick tail early liberty";
+var mnemonic = "lawn loop hurdle quit dad middle shaft arrow army tunnel depart spike";

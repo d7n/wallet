@@ -1,1 +1,1 @@
-var mnemonic = "square common cloth random glide glow arrest exit evolve link awkward search";
+var mnemonic = "memory render try toy solution route rare regret scare tail journey frown";

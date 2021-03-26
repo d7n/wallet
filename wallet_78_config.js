@@ -1,1 +1,1 @@
-var mnemonic = "riot exercise antique retreat tide owner kiss payment divorce salt suggest host";
+var mnemonic = "eternal stem angry kind travel tuna taxi same gift return spin regret";

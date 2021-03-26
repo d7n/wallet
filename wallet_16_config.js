@@ -1,1 +1,1 @@
-var mnemonic = "other where project come whip team park honey jelly dynamic mass icon";
+var mnemonic = "eagle fence gorilla coil wave hood blade village foam summer moment aspect";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil snake laundry exhibit rubber guilt celery atom detect slab correct cable";
+var mnemonic = "photo element combine aspect connect repeat act acid tree hope wife brave";

@@ -1,1 +1,1 @@
-var mnemonic = "glance fly behave submit library inner always purpose artefact later just robust";
+var mnemonic = "fame large click equip sister useful rebuild throw hip oblige bronze stem";

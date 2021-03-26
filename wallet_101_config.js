@@ -1,1 +1,1 @@
-var mnemonic = "hand sketch rib little future roof priority double cabbage public ozone knife";
+var mnemonic = "deputy swamp have mention lion burger critic update kingdom tell kite virus";

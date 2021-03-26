@@ -1,1 +1,1 @@
-var mnemonic = "emotion crime emotion deer direct rack neglect scrub road wide shield ring";
+var mnemonic = "wolf athlete erase pink noodle thought share pipe monster enlist pride rich";

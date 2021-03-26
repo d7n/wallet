@@ -1,1 +1,1 @@
-var mnemonic = "used ketchup rose health fortune photo glove start trouble gospel reopen knock";
+var mnemonic = "unhappy velvet theory clever alcohol melt special luxury glue voice cabbage awesome";

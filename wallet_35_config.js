@@ -1,1 +1,1 @@
-var mnemonic = "antenna vehicle obtain ancient teach catalog enhance skate surprise come equal scatter";
+var mnemonic = "pelican pig grid input monkey unit own what warfare seek blanket neck";

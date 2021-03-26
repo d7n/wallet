@@ -1,1 +1,1 @@
-var mnemonic = "lawn measure hat assist rifle flight table twin accident prefer steel similar";
+var mnemonic = "usage year crawl display imitate transfer century destroy position reason excuse price";

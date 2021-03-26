@@ -1,1 +1,1 @@
-var mnemonic = "hotel oven scorpion coconut delay stumble elevator solid debate blur reflect mystery";
+var mnemonic = "whale all tongue adapt fame hen cool shadow false resource candy victory";

@@ -1,1 +1,1 @@
-var mnemonic = "degree what kite cement century hollow cotton moral punch laugh tone library";
+var mnemonic = "lawn nasty fine purity oval fragile wife carpet aspect worth mushroom double";

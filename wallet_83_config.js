@@ -1,1 +1,1 @@
-var mnemonic = "lift sorry catalog local attend robust knife essence heavy orphan style hurry";
+var mnemonic = "stereo hub demise once path hire where accident tone usage tape ankle";

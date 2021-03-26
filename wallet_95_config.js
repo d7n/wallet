@@ -1,1 +1,1 @@
-var mnemonic = "must rail onion eager public okay celery custom film object gesture observe";
+var mnemonic = "kite analyst master family chalk add energy any soccer list doctor canal";

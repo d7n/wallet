@@ -1,1 +1,1 @@
-var mnemonic = "buffalo away income unit turkey enough easily dynamic equal enact sniff sad";
+var mnemonic = "eternal awkward coyote lesson depend amazing square initial advance oven habit tiny";

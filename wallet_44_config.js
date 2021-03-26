@@ -1,1 +1,1 @@
-var mnemonic = "skirt eye when dog wrap unfair jacket uncle coral decorate shine sad";
+var mnemonic = "chat jewel title beach worth illness range since joke slab actress beauty";

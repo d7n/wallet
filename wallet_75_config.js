@@ -1,1 +1,1 @@
-var mnemonic = "warm smile tone coin same girl issue mesh tomorrow crouch absent hub";
+var mnemonic = "twin lecture trophy pulp bottom develop purpose learn company claim law maple";

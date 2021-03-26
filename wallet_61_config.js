@@ -1,1 +1,1 @@
-var mnemonic = "stairs bid spirit mercy impulse fringe armed reward upper expire stock swim";
+var mnemonic = "plate grief legal work pepper bag adult flag aspect drill bird amazing";

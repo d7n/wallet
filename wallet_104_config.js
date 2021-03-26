@@ -1,1 +1,1 @@
-var mnemonic = "runway inner metal wreck danger coin clutch kangaroo become meat trash mesh";
+var mnemonic = "fan fortune vivid arrange romance game dignity honey garlic spread elite scan";

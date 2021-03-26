@@ -1,1 +1,1 @@
-var mnemonic = "abuse measure edge verb jazz kingdom poet invest intact decorate unique grain";
+var mnemonic = "never naive forget bean thought struggle then poverty universe oblige exact relief";

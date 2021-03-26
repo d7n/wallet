@@ -1,1 +1,1 @@
-var mnemonic = "butter capital trigger recycle whisper salute satisfy figure shove horse path attitude";
+var mnemonic = "crane mail trigger exhaust tortoise economy chimney sell donate below install senior";

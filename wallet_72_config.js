@@ -1,1 +1,1 @@
-var mnemonic = "truck author flee script gaze turkey law debris parrot clap bleak polar";
+var mnemonic = "old coconut body abstract cinnamon diesel opera weekend become relief easy buzz";

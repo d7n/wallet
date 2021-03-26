@@ -1,1 +1,1 @@
-var mnemonic = "mosquito mimic degree damp ladder just genius rally essence blade tackle village";
+var mnemonic = "dirt rhythm fatigue mind refuse buffalo reunion dove typical prevent stable fire";

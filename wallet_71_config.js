@@ -1,1 +1,1 @@
-var mnemonic = "student giraffe tail hub buffalo hello brass fit bird noble unfold shrimp";
+var mnemonic = "permit burger harvest tackle notice lunch toss keep result reveal range crunch";

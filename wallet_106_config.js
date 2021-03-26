@@ -1,1 +1,1 @@
-var mnemonic = "skill client ankle duck mercy actor silly type price beach crouch squirrel";
+var mnemonic = "hood unknown always drama other decade theme cannon weather light panel camera";

@@ -1,1 +1,1 @@
-var mnemonic = "person slender call ability february weather render minor try riot deposit similar";
+var mnemonic = "grief rebel protect such erase lock wine fold course head check more";

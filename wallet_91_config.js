@@ -1,1 +1,1 @@
-var mnemonic = "polar maid fever aspect work diesel trip dignity crop camp electric floor";
+var mnemonic = "vocal know pistol humor under tool width suspect obvious erosion liberty shy";

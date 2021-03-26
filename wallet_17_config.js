@@ -1,1 +1,1 @@
-var mnemonic = "woman powder air teach famous promote lyrics razor bracket able laundry inner";
+var mnemonic = "glow stamp verb poem space romance loyal rude blouse announce gun topic";

@@ -1,1 +1,1 @@
-var mnemonic = "empower such twelve ready abstract elegant work video ramp minor awesome legal";
+var mnemonic = "actual fall field little bicycle sort bacon advance goose hollow series retreat";

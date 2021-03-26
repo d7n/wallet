@@ -1,1 +1,1 @@
-var mnemonic = "behave main easily demise impulse move predict reopen sign vacant town junk";
+var mnemonic = "jaguar item above cave plunge angry slam enact level modify supreme cute";

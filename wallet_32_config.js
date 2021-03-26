@@ -1,1 +1,1 @@
-var mnemonic = "swallow army manual grow twist tornado lab habit manual today hungry sorry";
+var mnemonic = "tag air below supreme toast tumble fault bachelor afford panel spray view";

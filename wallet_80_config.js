@@ -1,1 +1,1 @@
-var mnemonic = "champion fall cheap alley middle twelve slab banner helmet vacuum turtle obscure";
+var mnemonic = "strong nice inch will suspect buyer whisper marine canvas food remove drill";

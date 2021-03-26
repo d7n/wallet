@@ -1,1 +1,1 @@
-var mnemonic = "acoustic foot struggle because deliver convince brand junior client execute mutual wish";
+var mnemonic = "hip unfair cute fury harvest large crawl borrow desert maximum town hire";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy delay surprise property thing purity pizza first ivory stereo slogan inspire";
+var mnemonic = "jump degree trigger village season feel juice rubber asset century floor resource";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil square you brass blur suffer worry actor lunar glue involve two";
+var mnemonic = "mouse wish patrol remember grit base swift prison modify inquiry proud unaware";

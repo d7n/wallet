@@ -1,1 +1,1 @@
-var mnemonic = "flock lady leg lesson hidden concert faculty welcome pave solar lava cable";
+var mnemonic = "march piano nation find hat twelve mention also wide shoot dream logic";

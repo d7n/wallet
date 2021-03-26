@@ -1,1 +1,1 @@
-var mnemonic = "door fold negative ribbon burden custom other danger layer range maximum bacon";
+var mnemonic = "also someone canvas glory assume basic fabric favorite deal robust radar anger";

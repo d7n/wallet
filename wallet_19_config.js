@@ -1,1 +1,1 @@
-var mnemonic = "antique confirm escape clutch mind suggest party avoid meadow holiday gauge flock";
+var mnemonic = "this lecture wear alcohol mail walnut welcome position motor shop nurse lunch";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue similar swear pen team cousin damage model design empower stumble away";
+var mnemonic = "lake dog void chapter pumpkin under adapt gold young morning dismiss genre";

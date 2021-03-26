@@ -1,1 +1,1 @@
-var mnemonic = "door cattle brisk ivory charge valve first squirrel unknown expire dune swear";
+var mnemonic = "novel reason base hammer foil thrive powder sweet drill warfare garment final";

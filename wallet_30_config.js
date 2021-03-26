@@ -1,1 +1,1 @@
-var mnemonic = "mercy square distance sport convince then quote cotton add slogan extra dismiss";
+var mnemonic = "rule ride tobacco song offer duty bike identify involve afraid toddler slogan";

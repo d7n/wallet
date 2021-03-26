@@ -1,1 +1,1 @@
-var mnemonic = "laundry apology hire faculty caught pave hip myth attitude click dry raw";
+var mnemonic = "rough resist sad robust oak struggle camera rare dutch earn sea nerve";

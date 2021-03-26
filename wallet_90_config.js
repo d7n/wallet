@@ -1,1 +1,1 @@
-var mnemonic = "peace walnut comic claw victory month whisper diesel grant sheriff muscle verb";
+var mnemonic = "pond arrange weird warm extend begin family runway loyal process mistake pole";

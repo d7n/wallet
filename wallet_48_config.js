@@ -1,1 +1,1 @@
-var mnemonic = "cheese smart dinosaur gym rude wrist buddy hello this capable turn box";
+var mnemonic = "thunder orient van casual diamond unfair govern assume boost glory fury material";

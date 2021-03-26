@@ -1,1 +1,1 @@
-var mnemonic = "script vacant below motor world submit slot today believe hip lawsuit become";
+var mnemonic = "hub number orient borrow reward table stem blind inject razor rail ill";

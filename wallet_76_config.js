@@ -1,1 +1,1 @@
-var mnemonic = "always fault below antique skate dice that zebra item churn myself joke";
+var mnemonic = "another invite dance soldier party allow luxury assist summer like leaf oil";

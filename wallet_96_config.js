@@ -1,1 +1,1 @@
-var mnemonic = "leave forget student unique kitten universe drama require soon about cycle arrange";
+var mnemonic = "diagram interest actual execute quarter rate smile hire effort begin ranch lift";

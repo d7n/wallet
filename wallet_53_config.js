@@ -1,1 +1,1 @@
-var mnemonic = "enter apple tired staff cancel insect mean assist slice cancel pioneer inside";
+var mnemonic = "expect imitate garment eyebrow heavy favorite program turkey picture network police about";

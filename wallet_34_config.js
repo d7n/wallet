@@ -1,1 +1,1 @@
-var mnemonic = "dry fish dog village foam thank hen coil have leader gun swing";
+var mnemonic = "screen balance vapor intact crunch fantasy course erode garage skate employ tilt";

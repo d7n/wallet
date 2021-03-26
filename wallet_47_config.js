@@ -1,1 +1,1 @@
-var mnemonic = "curtain sketch reopen typical island orange dolphin egg honey virtual fatal hundred";
+var mnemonic = "during more kitten ship lock dose teach tray also quick that ship";

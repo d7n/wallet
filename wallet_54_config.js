@@ -1,1 +1,1 @@
-var mnemonic = "weekend fame broom wear beauty yard deer bird supply meadow flush chief";
+var mnemonic = "arctic win gloom during cake select worth gesture object suffer remain clock";

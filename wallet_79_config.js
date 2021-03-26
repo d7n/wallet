@@ -1,1 +1,1 @@
-var mnemonic = "prize december act ahead coconut wealth bulk ten quality poem afford dose";
+var mnemonic = "tower narrow castle model spoil toy mother shield rely double gadget access";

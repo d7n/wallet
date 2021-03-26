@@ -1,1 +1,1 @@
-var mnemonic = "train scissors flat play before midnight violin adapt kiss juice glimpse predict";
+var mnemonic = "tray own language cruise repeat blast frame choice echo element crush skull";

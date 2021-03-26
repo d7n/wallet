@@ -1,1 +1,1 @@
-var mnemonic = "alert lawn ghost traffic battle mention peanut bar ketchup success agent art";
+var mnemonic = "clean only embody small gift ramp file scrub grain race post chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "pink bamboo vast tube word evoke tell body replace face cute dry";
+var mnemonic = "warfare lonely chronic question skill menu feed sunset inmate pole pencil cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle breeze edit present evolve swift case secret beyond regular battle clutch";
+var mnemonic = "science draw yard hold sphere ginger pig hair random method enact gadget";

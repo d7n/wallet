@@ -1,1 +1,1 @@
-var mnemonic = "fox agent sudden dentist heart buzz cannon praise oblige region beyond kiss";
+var mnemonic = "maid toss elite crop inform poem crater wage elite copper chair eyebrow";
