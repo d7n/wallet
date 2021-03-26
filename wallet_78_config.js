@@ -1,1 +1,1 @@
-var mnemonic = "fade ensure crack fruit word room tail team kidney more pride elegant";
+var mnemonic = "engine rather coffee eight member sorry fish hard basket sing whip crop";

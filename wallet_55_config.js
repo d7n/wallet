@@ -1,1 +1,1 @@
-var mnemonic = "like leopard pony february cradle mechanic that cart diary polar pyramid staff";
+var mnemonic = "street put aisle tuition illegal green bamboo pretty page frame shove anger";

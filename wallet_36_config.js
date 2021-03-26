@@ -1,1 +1,1 @@
-var mnemonic = "attract another position ribbon identify shrimp solid diamond cat stumble canyon wild";
+var mnemonic = "unaware stamp split drip pistol inflict narrow army excuse gloom swamp endorse";

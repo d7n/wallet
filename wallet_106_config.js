@@ -1,1 +1,1 @@
-var mnemonic = "arctic winter corn skate husband host clarify cage outer run helmet rebuild";
+var mnemonic = "trap sister devote cradle have inflict region tobacco fresh keep immune tip";

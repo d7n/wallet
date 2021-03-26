@@ -1,1 +1,1 @@
-var mnemonic = "palm right undo thunder sound sea onion lady april grant bone input";
+var mnemonic = "hockey valley vote jelly gift exile empty torch rail burden demise phone";

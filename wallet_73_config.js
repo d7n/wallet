@@ -1,1 +1,1 @@
-var mnemonic = "link penalty shuffle west knife bench cage infant permit universe impact attitude";
+var mnemonic = "main slide sight wolf strike shift pipe immense spike parent garment game";

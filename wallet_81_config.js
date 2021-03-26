@@ -1,1 +1,1 @@
-var mnemonic = "athlete diet antenna charge success heart slogan design daring swim treat judge";
+var mnemonic = "exercise decline arrest keep bean head share damage enhance scale decline host";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder hood much crumble smile bean wave modify napkin tape fever cook";
+var mnemonic = "steak obey injury phone parrot easy chalk trumpet track resource dizzy vivid";

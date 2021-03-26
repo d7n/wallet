@@ -1,1 +1,1 @@
-var mnemonic = "over stove pigeon stone consider execute oblige uniform priority glory alcohol fresh";
+var mnemonic = "above long involve bamboo that neutral label step arrange matter bird fly";

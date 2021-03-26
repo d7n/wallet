@@ -1,1 +1,1 @@
-var mnemonic = "vanish glove bunker labor veteran youth second hollow moment rich network topic";
+var mnemonic = "fog echo wealth glove outside raise struggle click silly morning alcohol stadium";

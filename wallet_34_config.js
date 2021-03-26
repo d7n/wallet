@@ -1,1 +1,1 @@
-var mnemonic = "morning fall hundred volcano gorilla heart fury calm hedgehog river traffic live";
+var mnemonic = "diary village warrior capital sense stone fragile setup rally post sustain slice";

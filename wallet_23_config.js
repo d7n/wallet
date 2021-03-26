@@ -1,1 +1,1 @@
-var mnemonic = "hammer fitness palace write turkey lab teach arch secret allow cinnamon property";
+var mnemonic = "there main birth indicate purchase alien blanket royal machine token timber brother";

@@ -1,1 +1,1 @@
-var mnemonic = "between note puppy know dilemma evolve drift admit injury provide piano destroy";
+var mnemonic = "custom eagle wink baby anxiety direct seek grace defy track critic very";

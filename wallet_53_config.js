@@ -1,1 +1,1 @@
-var mnemonic = "group slogan place achieve bleak point age artefact knock combine cricket moon";
+var mnemonic = "stable vendor easily mass aisle pottery annual guilt else decorate cruise emerge";

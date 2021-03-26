@@ -1,1 +1,1 @@
-var mnemonic = "alien acoustic promote gaze tiger tuna common cereal tone egg flight permit";
+var mnemonic = "inner powder minimum divorce man glue raise tiny auto boost atom print";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer expose asthma increase strong phone enlist style various write invest amused";
+var mnemonic = "home host sweet lift various fortune decrease fabric motor often injury midnight";

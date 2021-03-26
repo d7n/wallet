@@ -1,1 +1,1 @@
-var mnemonic = "turkey innocent jump return stay foil review seek tooth square brown topic";
+var mnemonic = "stone napkin fatal spice razor over member extend winner kid bird abuse";

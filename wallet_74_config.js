@@ -1,1 +1,1 @@
-var mnemonic = "intact bike flag build next portion apart picture pond smooth blur pumpkin";
+var mnemonic = "diagram across federal joy segment quote junk easily author brown fit slow";

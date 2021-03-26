@@ -1,1 +1,1 @@
-var mnemonic = "fade pupil tunnel sea price fat success misery say ask three unhappy";
+var mnemonic = "now tilt close novel spider feature pizza deliver economy talent culture garment";

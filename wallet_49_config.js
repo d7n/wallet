@@ -1,1 +1,1 @@
-var mnemonic = "position wisdom feed prefer isolate tonight pitch runway fence envelope stairs route";
+var mnemonic = "pizza noble frog run smoke flash label wreck diagram immune potato eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "black satoshi enable pyramid snow nature trick more east squeeze charge mention";
+var mnemonic = "thumb small major very laugh ready index rubber minor gasp blade metal";

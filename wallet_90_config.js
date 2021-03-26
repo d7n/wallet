@@ -1,1 +1,1 @@
-var mnemonic = "utility cabbage fat please bacon love float season slot habit analyst chronic";
+var mnemonic = "nothing during sound mutual sand visit version hazard era broccoli scene debris";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient cargo bonus bounce globe future grunt rely school jazz race boil";
+var mnemonic = "pipe fluid more lemon voice rent afford few horror clean category unveil";

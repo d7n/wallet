@@ -1,1 +1,1 @@
-var mnemonic = "april rocket tumble task vital tiny finish wing camp gossip exotic hammer";
+var mnemonic = "come write account arrive broken van boat double recycle outer goat hurt";

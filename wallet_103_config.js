@@ -1,1 +1,1 @@
-var mnemonic = "spoon fiscal street place mean alpha blur ranch switch frequent better neither";
+var mnemonic = "all walnut seven deer afraid regular job legal shadow search rebel winner";

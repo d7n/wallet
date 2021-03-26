@@ -1,1 +1,1 @@
-var mnemonic = "record during negative parrot purse cool suggest emerge butter history stock silent";
+var mnemonic = "dash school noodle virus door prepare sausage soul glad chief monster liberty";

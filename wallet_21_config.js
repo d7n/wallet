@@ -1,1 +1,1 @@
-var mnemonic = "wealth term indoor library stick joke glue reopen stay whale merge orphan";
+var mnemonic = "course bean patrol camp stomach term enrich immense depart cheese camera rather";

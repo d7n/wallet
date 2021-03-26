@@ -1,1 +1,1 @@
-var mnemonic = "pulse carry stand cloud owner execute begin hidden wide play pave dish";
+var mnemonic = "photo legal path work naive flip private gossip sing stool orient cheap";

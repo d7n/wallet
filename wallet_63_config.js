@@ -1,1 +1,1 @@
-var mnemonic = "deny dose melody shiver coast light heavy range crop shoulder post remain";
+var mnemonic = "arrive daring alert prison champion tornado soon arrange side entry basic inner";

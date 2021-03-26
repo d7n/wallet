@@ -1,1 +1,1 @@
-var mnemonic = "vast patient brother cost exchange soul save twelve gentle update demand raccoon";
+var mnemonic = "banner obtain hundred civil naive praise relax lamp shoe exit trip pause";

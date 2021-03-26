@@ -1,1 +1,1 @@
-var mnemonic = "zone inmate timber knock service rabbit rhythm alert drive dutch cattle endorse";
+var mnemonic = "select cover genius absent jacket service roof gossip rice acquire pear nut";

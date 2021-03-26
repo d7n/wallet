@@ -1,1 +1,1 @@
-var mnemonic = "useful cute wise pilot lyrics erupt pink soft rain parrot effort permit";
+var mnemonic = "ocean author dress tail short tired suggest swim beyond rare talent nurse";

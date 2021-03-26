@@ -1,1 +1,1 @@
-var mnemonic = "box flock spider foster biology rug pill shoe lunch crumble bundle hood";
+var mnemonic = "artist focus witness story turkey split afraid baby sail flee anxiety wagon";

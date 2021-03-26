@@ -1,1 +1,1 @@
-var mnemonic = "sketch mule skill couple alarm frequent can express erase mobile alien cart";
+var mnemonic = "grace mango shrug left large expose claim chuckle rate apple bitter disorder";

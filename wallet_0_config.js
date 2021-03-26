@@ -1,1 +1,1 @@
-var mnemonic = "staff unaware prefer abuse fault barely captain coil system candy version gift";
+var mnemonic = "side phone bring tennis leopard coach together input music deposit answer scene";

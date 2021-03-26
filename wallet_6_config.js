@@ -1,1 +1,1 @@
-var mnemonic = "tell smooth predict barrel nephew urban small share human eight wreck bid";
+var mnemonic = "genius coach clarify more atom license original walnut once wash two orphan";

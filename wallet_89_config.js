@@ -1,1 +1,1 @@
-var mnemonic = "lion dry leopard setup slogan enjoy inspire sea topic carbon select rate";
+var mnemonic = "lumber beef remove tip detect snake fossil minor unable family vicious claw";

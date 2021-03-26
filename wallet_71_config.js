@@ -1,1 +1,1 @@
-var mnemonic = "slender consider hospital foster divide wing august net mandate runway mobile aisle";
+var mnemonic = "culture attitude grocery salad famous exclude minor riot mystery parade balcony legend";

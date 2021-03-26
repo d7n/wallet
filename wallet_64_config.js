@@ -1,1 +1,1 @@
-var mnemonic = "situate debris enhance believe fix throw corn police club cage coin start";
+var mnemonic = "damp leg pole honey enlist essay faint october grab monkey fossil athlete";

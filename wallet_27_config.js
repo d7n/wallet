@@ -1,1 +1,1 @@
-var mnemonic = "item trip twice novel pupil charge stuff aspect husband excess share possible";
+var mnemonic = "undo mean poem inmate soccer all bicycle damage remind melt mean sleep";

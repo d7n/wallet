@@ -1,1 +1,1 @@
-var mnemonic = "picnic settle fade wild upper turtle infant evoke approve organ agent until";
+var mnemonic = "double estate daughter earn barrel item aware usual flame inmate sustain orchard";

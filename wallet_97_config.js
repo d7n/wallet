@@ -1,1 +1,1 @@
-var mnemonic = "tuna envelope tag lawn random humble scan situate coach sock skull share";
+var mnemonic = "search lamp jump stairs old glow egg tree endless memory vote stage";

@@ -1,1 +1,1 @@
-var mnemonic = "recipe print gas force resist adjust mansion hybrid wave blue artefact peasant";
+var mnemonic = "arrow dilemma kangaroo hip margin bitter beach achieve marriage mass hawk nominee";

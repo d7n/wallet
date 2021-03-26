@@ -1,1 +1,1 @@
-var mnemonic = "banner thought matter swamp human enroll left soda shop family avoid meadow";
+var mnemonic = "leave dry unit hurdle hair parade hurry rail usage team blouse seven";

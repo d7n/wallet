@@ -1,1 +1,1 @@
-var mnemonic = "vocal lend library gesture hunt vanish deer crane inside plug jealous taste";
+var mnemonic = "refuse tape armed move write way lemon assume motion parent brand symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "pave learn such subject apple arch domain uniform road treat coin confirm";
+var mnemonic = "beauty skin ugly around dolphin gown fan arctic gravity crew cotton kiss";

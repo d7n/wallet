@@ -1,1 +1,1 @@
-var mnemonic = "human reason lava worry eagle hazard remove gauge train toast surround boat";
+var mnemonic = "echo ginger toilet room rapid sell outside supply rare member topple symptom";

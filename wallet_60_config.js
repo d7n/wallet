@@ -1,1 +1,1 @@
-var mnemonic = "safe seat orphan help discover tail coach daughter senior sleep angry peanut";
+var mnemonic = "system memory welcome dawn scene fury upset enroll awake brown chapter danger";

@@ -1,1 +1,1 @@
-var mnemonic = "absent fat agree scan isolate close among scale display dismiss brave fever";
+var mnemonic = "alert pistol achieve evil super arena boss resource right diagram doctor ecology";

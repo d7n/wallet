@@ -1,1 +1,1 @@
-var mnemonic = "argue oyster vault crucial used gown vital leg slogan frown trick organ";
+var mnemonic = "primary satisfy educate scout shoot magic audit chase cactus mobile voice torch";

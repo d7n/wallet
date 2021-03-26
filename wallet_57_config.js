@@ -1,1 +1,1 @@
-var mnemonic = "shift exist bomb coin mad dance language find knee valve discover arrange";
+var mnemonic = "soup water leg response glow salmon security quality pact school noble keen";

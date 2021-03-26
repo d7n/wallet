@@ -1,1 +1,1 @@
-var mnemonic = "toast false agree mule amateur episode tragic gate scrub say blind give";
+var mnemonic = "art scale swamp unusual mutual truly dizzy economy exist bounce grab broken";

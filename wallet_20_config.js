@@ -1,1 +1,1 @@
-var mnemonic = "message mixture response stomach earn ladder sugar stove rabbit spring parrot account";
+var mnemonic = "vintage polar follow avoid there cancel race law early frame erupt crucial";

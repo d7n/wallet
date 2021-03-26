@@ -1,1 +1,1 @@
-var mnemonic = "helmet drill when topic axis refuse usual depart suspect mobile segment upgrade";
+var mnemonic = "decorate orphan super stuff educate attract flag circle hundred push crucial spray";

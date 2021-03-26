@@ -1,1 +1,1 @@
-var mnemonic = "husband pave funny culture flip such uniform sweet mixed great east because";
+var mnemonic = "art lesson easy again holiday guilt key forum chronic visual museum medal";

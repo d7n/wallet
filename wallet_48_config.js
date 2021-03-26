@@ -1,1 +1,1 @@
-var mnemonic = "hen aspect bread response cement false hawk purpose salt recipe trust kingdom";
+var mnemonic = "meadow deal include spell worth cup treat arch three crisp parade verify";

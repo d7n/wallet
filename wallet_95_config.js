@@ -1,1 +1,1 @@
-var mnemonic = "panther trim swamp famous husband scan arm scale alone repair prosper orchard";
+var mnemonic = "input aerobic hello wealth squirrel glimpse asset car dignity sleep pill grit";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger valid release dose tumble summer horse merry tray snow indicate much";
+var mnemonic = "aim pull frost invite usual dose shock stumble soccer soda tide tent";

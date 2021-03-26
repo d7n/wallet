@@ -1,1 +1,1 @@
-var mnemonic = "own opera tiny inquiry fame junior surface offer engage nation slam school";
+var mnemonic = "undo audit either truck enrich worry shrug someone moment icon consider warm";

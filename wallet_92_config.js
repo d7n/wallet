@@ -1,1 +1,1 @@
-var mnemonic = "deal brown wasp stock grid kangaroo mad nurse grace cinnamon love stuff";
+var mnemonic = "volcano orient lemon sea mouse eagle dragon economy sniff stove flat stadium";

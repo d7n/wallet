@@ -1,1 +1,1 @@
-var mnemonic = "brass object amazing earn junk hire foot toss rate boost trust cereal";
+var mnemonic = "hamster price pill actress owner treat desk rally bargain dignity gravity bleak";

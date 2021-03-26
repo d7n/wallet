@@ -1,1 +1,1 @@
-var mnemonic = "payment correct fortune rack asset cheap green unusual angry ketchup pipe certain";
+var mnemonic = "human six normal already course resemble hurry gown spoil someone section chunk";

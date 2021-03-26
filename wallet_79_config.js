@@ -1,1 +1,1 @@
-var mnemonic = "camera laundry observe check mean tobacco domain thrive toe resource engine sport";
+var mnemonic = "mosquito such hunt suit melt chicken shell account dust flight outer little";

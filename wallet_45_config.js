@@ -1,1 +1,1 @@
-var mnemonic = "crazy toast black pitch exit tuition banana spoil ignore magic soup pond";
+var mnemonic = "section dragon ticket sell oyster reform banner lion need fat another deal";

@@ -1,1 +1,1 @@
-var mnemonic = "there inject void amused glove throw concert slow among foot motor artwork";
+var mnemonic = "wash assist remind lyrics fuel document valley warm cream gate length chicken";

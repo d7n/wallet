@@ -1,1 +1,1 @@
-var mnemonic = "response social possible cash detail recall worry oppose image usage impact soup";
+var mnemonic = "disorder hope divorce educate alpha excess rally body host copy keep bargain";

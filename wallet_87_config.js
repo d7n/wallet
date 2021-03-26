@@ -1,1 +1,1 @@
-var mnemonic = "north evolve artwork master address penalty shift gorilla ritual pull gap crawl";
+var mnemonic = "forward transfer digital rich ball student depart grace crew portion one world";

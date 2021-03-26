@@ -1,1 +1,1 @@
-var mnemonic = "actress title unusual knock girl buffalo ticket unveil bomb canoe boost invite";
+var mnemonic = "regret major rather draft damage lab mouse bronze defy luxury kitten actual";

@@ -1,1 +1,1 @@
-var mnemonic = "green knock catch gap ghost garlic sea spend hip erode devote team";
+var mnemonic = "dirt stairs become outside gap artefact use mask olympic turtle north tennis";

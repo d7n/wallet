@@ -1,1 +1,1 @@
-var mnemonic = "auction tilt noble rubber today exclude neutral project size yard private obscure";
+var mnemonic = "change fun width winner lawn swift food spray close boss bonus debris";

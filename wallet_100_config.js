@@ -1,1 +1,1 @@
-var mnemonic = "best cattle frequent today lunch fuel dance thrive six mixture business make";
+var mnemonic = "rescue coast tiny waste trend honey decrease round learn pear render galaxy";

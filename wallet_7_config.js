@@ -1,1 +1,1 @@
-var mnemonic = "enrich scrub tube sell staff stool citizen access offer old morning note";
+var mnemonic = "decorate tooth cabin sniff slide coffee wolf inside economy elegant track extend";

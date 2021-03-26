@@ -1,1 +1,1 @@
-var mnemonic = "own citizen thumb budget feed home arctic stereo orphan animal shine minor";
+var mnemonic = "chief vintage raven trick session stem leg ritual steak unusual mouse genius";

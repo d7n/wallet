@@ -1,1 +1,1 @@
-var mnemonic = "market talent album wolf olive music keep coast laundry betray between puzzle";
+var mnemonic = "obvious harbor crawl toilet fruit social ten sign robot family habit pet";

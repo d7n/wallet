@@ -1,1 +1,1 @@
-var mnemonic = "rate flower candy sea thunder junior shop gauge ordinary wall olympic decrease";
+var mnemonic = "amazing shaft dad symbol old grape frost forum volume afford blast quality";

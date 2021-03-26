@@ -1,1 +1,1 @@
-var mnemonic = "clock index lens flock pole onion possible cable panel nose boil physical";
+var mnemonic = "laugh action business letter cigar media work swap relief rally giant maple";

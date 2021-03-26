@@ -1,1 +1,1 @@
-var mnemonic = "ranch convince remove super own speak surprise tent unfair they noise rose";
+var mnemonic = "banana stay level receive fury treat muscle misery arm inject aunt total";

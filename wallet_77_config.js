@@ -1,1 +1,1 @@
-var mnemonic = "clarify ice ankle sort apple toe question hero degree alpha rescue easily";
+var mnemonic = "involve muffin endless radio island swift stuff pave session end bacon present";

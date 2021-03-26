@@ -1,1 +1,1 @@
-var mnemonic = "tube green boss tide whisper drip march pelican scene man couch opera";
+var mnemonic = "nut wolf apart inmate sock guilt piano rare steel gift demand curve";

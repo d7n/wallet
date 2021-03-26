@@ -1,1 +1,1 @@
-var mnemonic = "loan corn garden region pulse giraffe burst exercise robust net another visa";
+var mnemonic = "squirrel autumn fatigue pipe gift record pair crime hood parrot actress predict";

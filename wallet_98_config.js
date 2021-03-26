@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur throw damp kind tag diamond author myth dismiss way liberty anxiety";
+var mnemonic = "donor come image spring december twenty weekend museum pelican topic blue fame";

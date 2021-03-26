@@ -1,1 +1,1 @@
-var mnemonic = "spy stove quiz pistol hazard name funny swarm narrow lumber silent runway";
+var mnemonic = "start vanish mistake wheel brain hip maze hamster health cave emerge tape";

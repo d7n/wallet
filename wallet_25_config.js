@@ -1,1 +1,1 @@
-var mnemonic = "monkey suggest law crater seat hero surface thought climb chat airport boil";
+var mnemonic = "time icon cactus wisdom include noise swamp figure divorce quiz settle field";

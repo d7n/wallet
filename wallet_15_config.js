@@ -1,1 +1,1 @@
-var mnemonic = "shove pyramid brief invite solve door chaos filter height candy myself august";
+var mnemonic = "foster dove release spider novel ability dentist toddler oblige caught profit home";

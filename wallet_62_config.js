@@ -1,1 +1,1 @@
-var mnemonic = "vital common lizard apology suit walk like name romance decrease music glue";
+var mnemonic = "mountain that refuse minor ivory endorse direct behave bonus raise illness sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "install arch pond host beach spawn term laptop correct kangaroo notice bomb";
+var mnemonic = "opera turtle false curtain cart blur govern elite absorb treat elbow bus";

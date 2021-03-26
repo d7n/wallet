@@ -1,1 +1,1 @@
-var mnemonic = "concert trade finish total street aspect expose develop analyst tissue door hollow";
+var mnemonic = "pill catalog garage royal divorce enroll okay tag opinion large service tone";

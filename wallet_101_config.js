@@ -1,1 +1,1 @@
-var mnemonic = "range accident slice round garbage festival diesel course mad glance fantasy wreck";
+var mnemonic = "awful already adjust vehicle ill trash prepare story void shop mimic congress";

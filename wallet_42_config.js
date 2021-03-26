@@ -1,1 +1,1 @@
-var mnemonic = "sample dice conduct still sport disorder sock shoulder keen tape thunder ticket";
+var mnemonic = "wealth toilet manual destroy keen caution alarm eye degree chef cradle cliff";

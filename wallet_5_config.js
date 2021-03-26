@@ -1,1 +1,1 @@
-var mnemonic = "parrot snap scout inside split leader mechanic tackle around mosquito lumber happy";
+var mnemonic = "glad cigar scout together woman earth ugly tribe radio act more clerk";

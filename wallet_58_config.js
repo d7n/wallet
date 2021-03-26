@@ -1,1 +1,1 @@
-var mnemonic = "hurry bridge blanket provide crumble treat winter body ill rapid nice curious";
+var mnemonic = "position pave arena devote gospel unaware dolphin village illness tattoo depth sunny";
