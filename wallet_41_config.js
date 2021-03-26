@@ -1,1 +1,1 @@
-var mnemonic = "cloud help hurt antique dust general fever swim agent case very width";
+var mnemonic = "horn problem example hobby close unusual ankle donor airport section deny stem";

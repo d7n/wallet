@@ -1,1 +1,1 @@
-var mnemonic = "road labor rate beach tribe modify twist length phrase sniff civil soccer";
+var mnemonic = "champion fall cheap alley middle twelve slab banner helmet vacuum turtle obscure";

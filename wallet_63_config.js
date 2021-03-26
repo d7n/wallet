@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo skirt narrow try dust tide smile festival apple submit blood below";
+var mnemonic = "strategy delay surprise property thing purity pizza first ivory stereo slogan inspire";

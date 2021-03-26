@@ -1,1 +1,1 @@
-var mnemonic = "buddy achieve wage obscure bless drastic outside sibling false farm scheme sick";
+var mnemonic = "credit invite motion child forget song mobile digital pig item build affair";

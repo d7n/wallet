@@ -1,1 +1,1 @@
-var mnemonic = "clever issue shy trumpet remember report reduce act expect draft apple matter";
+var mnemonic = "egg remain rabbit iron stomach exclude orchard magic ranch image change uncover";

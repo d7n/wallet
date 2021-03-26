@@ -1,1 +1,1 @@
-var mnemonic = "note payment love able festival absorb kitten party pill blast author rubber";
+var mnemonic = "annual lottery level grit addict vacant world canoe sad butter provide stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "keep switch then fringe couple result pulp fog cool office remind human";
+var mnemonic = "weekend fame broom wear beauty yard deer bird supply meadow flush chief";

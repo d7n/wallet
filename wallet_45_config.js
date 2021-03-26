@@ -1,1 +1,1 @@
-var mnemonic = "control crack tag brown express what woman cover rural bottom snow basket";
+var mnemonic = "person slender call ability february weather render minor try riot deposit similar";

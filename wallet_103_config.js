@@ -1,1 +1,1 @@
-var mnemonic = "master dragon pledge state fatal fever wish tail marriage card monster egg";
+var mnemonic = "region grain wheat paper join away disease ripple woman afford session electric";

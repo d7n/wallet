@@ -1,1 +1,1 @@
-var mnemonic = "join hazard country nasty gas frown satisfy cruel weather box material limb";
+var mnemonic = "spy eager nuclear win since pelican balance fury margin curtain gasp canoe";

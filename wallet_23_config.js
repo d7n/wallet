@@ -1,1 +1,1 @@
-var mnemonic = "lemon bitter envelope innocent roast honey desk power pear main roast citizen";
+var mnemonic = "strike shock slush injury slight unusual song genius control delay quit among";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney rug ladder obvious appear pluck ribbon slight kingdom sauce fatigue decline";
+var mnemonic = "butter capital trigger recycle whisper salute satisfy figure shove horse path attitude";

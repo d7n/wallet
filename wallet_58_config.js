@@ -1,1 +1,1 @@
-var mnemonic = "tone raccoon prefer icon enter measure rookie saddle effort crunch promote divert";
+var mnemonic = "economy surround echo lottery gorilla razor cute escape abstract labor napkin oak";

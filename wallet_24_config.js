@@ -1,1 +1,1 @@
-var mnemonic = "need avoid health owner hunt naive fever quality tell horror reflect dumb";
+var mnemonic = "rather obvious car slogan hard cat release square dawn weird drive history";

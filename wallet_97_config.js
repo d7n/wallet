@@ -1,1 +1,1 @@
-var mnemonic = "mechanic bulb story senior duck reward pretty cheese tonight jealous wash brass";
+var mnemonic = "alert lawn ghost traffic battle mention peanut bar ketchup success agent art";

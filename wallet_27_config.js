@@ -1,1 +1,1 @@
-var mnemonic = "payment act better project gym like mosquito tape inflict rebuild can swallow";
+var mnemonic = "emotion crime emotion deer direct rack neglect scrub road wide shield ring";

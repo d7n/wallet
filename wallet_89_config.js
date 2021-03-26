@@ -1,1 +1,1 @@
-var mnemonic = "leopard fresh shuffle piano knee amused brief fuel drum gun dose steel";
+var mnemonic = "door cattle brisk ivory charge valve first squirrel unknown expire dune swear";

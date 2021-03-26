@@ -1,1 +1,1 @@
-var mnemonic = "cloud north shock rally depend engine bonus gentle merit worry month sunny";
+var mnemonic = "hotel oven scorpion coconut delay stumble elevator solid debate blur reflect mystery";

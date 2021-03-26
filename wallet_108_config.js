@@ -1,1 +1,1 @@
-var mnemonic = "bulb sing lounge vital lunch skill beauty either text grain exercise fringe";
+var mnemonic = "kid afford eternal aerobic orchard shiver party enhance over educate sibling involve";

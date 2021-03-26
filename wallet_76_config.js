@@ -1,1 +1,1 @@
-var mnemonic = "level unaware evoke cabin apple deny need banana chicken blouse jeans lend";
+var mnemonic = "always fault below antique skate dice that zebra item churn myself joke";

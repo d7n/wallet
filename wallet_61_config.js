@@ -1,1 +1,1 @@
-var mnemonic = "six seminar wrestle frequent broom spray garment dice short angle bar gasp";
+var mnemonic = "stairs bid spirit mercy impulse fringe armed reward upper expire stock swim";

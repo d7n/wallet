@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow annual dinosaur flavor canal champion success cram alter pencil chalk just";
+var mnemonic = "soldier cherry adapt wave detect harvest mean mass prefer original awesome repair";

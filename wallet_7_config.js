@@ -1,1 +1,1 @@
-var mnemonic = "decide year mix make link dynamic village afraid stock glance narrow educate";
+var mnemonic = "flock lady leg lesson hidden concert faculty welcome pave solar lava cable";

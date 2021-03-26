@@ -1,1 +1,1 @@
-var mnemonic = "purpose undo enroll trial initial minor great interest wreck comic flat squirrel";
+var mnemonic = "birth south code chase someone draw decorate what bomb cigar panther federal";

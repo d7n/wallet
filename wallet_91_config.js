@@ -1,1 +1,1 @@
-var mnemonic = "conduct animal uphold pelican one fury ship web move blood silk staff";
+var mnemonic = "polar maid fever aspect work diesel trip dignity crop camp electric floor";

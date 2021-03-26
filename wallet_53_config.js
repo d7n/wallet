@@ -1,1 +1,1 @@
-var mnemonic = "atom wagon flag olive gossip audit tube satoshi pottery power together vapor";
+var mnemonic = "enter apple tired staff cancel insect mean assist slice cancel pioneer inside";

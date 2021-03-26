@@ -1,1 +1,1 @@
-var mnemonic = "pole outside rather guilt notable initial scrap tourist crystal marble hover mountain";
+var mnemonic = "pupil snake laundry exhibit rubber guilt celery atom detect slab correct cable";

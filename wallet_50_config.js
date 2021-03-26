@@ -1,1 +1,1 @@
-var mnemonic = "tiger fitness device body guard donkey royal vendor odor damp helmet unlock";
+var mnemonic = "swarm host march property room fee genuine addict govern swarm link account";

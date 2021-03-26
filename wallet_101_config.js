@@ -1,1 +1,1 @@
-var mnemonic = "setup garment brand elegant universe river clarify right rug prize cheap affair";
+var mnemonic = "hand sketch rib little future roof priority double cabbage public ozone knife";

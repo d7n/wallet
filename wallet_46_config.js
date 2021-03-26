@@ -1,1 +1,1 @@
-var mnemonic = "coach expire elite swap favorite business public bless profit claim section april";
+var mnemonic = "script vacant below motor world submit slot today believe hip lawsuit become";

@@ -1,1 +1,1 @@
-var mnemonic = "space exit jaguar easy click wolf like front donor again hidden yard";
+var mnemonic = "curtain sketch reopen typical island orange dolphin egg honey virtual fatal hundred";

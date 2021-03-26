@@ -1,1 +1,1 @@
-var mnemonic = "august volume unknown toddler million wave tissue logic social catch pool run";
+var mnemonic = "clever deer kitten museum hundred squirrel banner pumpkin sure swarm width escape";

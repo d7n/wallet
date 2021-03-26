@@ -1,1 +1,1 @@
-var mnemonic = "glory rhythm twin title sail valve cry video stay resist piano fancy";
+var mnemonic = "must rail onion eager public okay celery custom film object gesture observe";

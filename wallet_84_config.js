@@ -1,1 +1,1 @@
-var mnemonic = "assume raise place ordinary crucial split now powder remember alert bid twist";
+var mnemonic = "buffalo away income unit turkey enough easily dynamic equal enact sniff sad";

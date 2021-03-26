@@ -1,1 +1,1 @@
-var mnemonic = "mobile level inmate myself plate outside rifle genuine palace double viable carry";
+var mnemonic = "same melt spike dinner hotel grief actual dry curtain diary pulse notable";

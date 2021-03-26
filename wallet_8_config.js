@@ -1,1 +1,1 @@
-var mnemonic = "mountain discover awkward section shove dismiss wear you close jewel reveal cloud";
+var mnemonic = "basket tube test example fatigue nation dizzy border library prefer exhibit ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "layer ritual enhance erosion wet session enforce unusual crumble eyebrow whip edge";
+var mnemonic = "glance fly behave submit library inner always purpose artefact later just robust";

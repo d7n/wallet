@@ -1,1 +1,1 @@
-var mnemonic = "antique inspire alarm quiz jacket version duck cluster since shrug mean accident";
+var mnemonic = "acoustic foot struggle because deliver convince brand junior client execute mutual wish";

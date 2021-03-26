@@ -1,1 +1,1 @@
-var mnemonic = "aunt invest country middle doctor earn milk because enact another soft recycle";
+var mnemonic = "runway inner metal wreck danger coin clutch kangaroo become meat trash mesh";

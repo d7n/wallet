@@ -1,1 +1,1 @@
-var mnemonic = "general child way cake sell bracket swim twist erosion abuse electric diamond";
+var mnemonic = "abuse helmet raise purity loyal image swarm fashion pelican giraffe rapid era";

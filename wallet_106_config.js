@@ -1,1 +1,1 @@
-var mnemonic = "split leg balcony legal stomach sword enter cricket maze canoe assault fiscal";
+var mnemonic = "skill client ankle duck mercy actor silly type price beach crouch squirrel";

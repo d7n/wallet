@@ -1,1 +1,1 @@
-var mnemonic = "story cherry major hand wage round subway physical snake author teach quote";
+var mnemonic = "used ketchup rose health fortune photo glove start trouble gospel reopen knock";

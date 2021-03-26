@@ -1,1 +1,1 @@
-var mnemonic = "patch valley keen office thumb couch borrow upgrade joy teach city flock";
+var mnemonic = "budget scatter sand ginger spoil siege flee wait priority oak canal essay";

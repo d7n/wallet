@@ -1,1 +1,1 @@
-var mnemonic = "excess rapid field mechanic smooth puzzle floor evolve develop health alarm exotic";
+var mnemonic = "rescue similar swear pen team cousin damage model design empower stumble away";

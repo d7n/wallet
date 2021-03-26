@@ -1,1 +1,1 @@
-var mnemonic = "wedding decrease among mountain gap thumb cheap project source vivid doll battle";
+var mnemonic = "usual envelope ready legend sleep pistol renew damp panda analyst party dose";

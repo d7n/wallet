@@ -1,1 +1,1 @@
-var mnemonic = "kingdom load door lunar insect shine silly lunch scatter canal smooth liberty";
+var mnemonic = "water device super solar outdoor knee action pole lab rib cousin lonely";

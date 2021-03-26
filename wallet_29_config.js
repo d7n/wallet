@@ -1,1 +1,1 @@
-var mnemonic = "speed health pattern surprise dial charge spoon payment drum reduce hard ranch";
+var mnemonic = "top proud excite captain stem letter vital deal frame swift gain discover";

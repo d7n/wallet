@@ -1,1 +1,1 @@
-var mnemonic = "vanish file input bright slight mad eight farm waste column energy cloud";
+var mnemonic = "nest cool sting fiscal road curve bean swing enhance kiss bag setup";

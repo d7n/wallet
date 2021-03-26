@@ -1,1 +1,1 @@
-var mnemonic = "grow innocent salad vote couple cash ivory business noise tunnel regular submit";
+var mnemonic = "empower such twelve ready abstract elegant work video ramp minor awesome legal";

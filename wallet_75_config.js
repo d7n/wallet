@@ -1,1 +1,1 @@
-var mnemonic = "burger craft denial cart fat document trap noodle dust intact display aerobic";
+var mnemonic = "warm smile tone coin same girl issue mesh tomorrow crouch absent hub";

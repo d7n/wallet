@@ -1,1 +1,1 @@
-var mnemonic = "inform tower ribbon yard mountain fashion sense dutch air master fly essence";
+var mnemonic = "flash valid beach caught gloom balcony mean tank spy program glow tribe";

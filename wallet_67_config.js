@@ -1,1 +1,1 @@
-var mnemonic = "odor pyramid access negative senior various consider fold mimic museum innocent guess";
+var mnemonic = "abuse measure edge verb jazz kingdom poet invest intact decorate unique grain";

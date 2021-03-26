@@ -1,1 +1,1 @@
-var mnemonic = "protect gather dinner differ viable slender infant attend menu era page genuine";
+var mnemonic = "boss later deputy edge shoe mouse antique exact swift glass daring denial";

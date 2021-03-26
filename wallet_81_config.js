@@ -1,1 +1,1 @@
-var mnemonic = "when solve system luggage magnet vacant end crouch mail wonder away beef";
+var mnemonic = "plate decide entry banana account must flower grain route segment pair trust";

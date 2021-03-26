@@ -1,1 +1,1 @@
-var mnemonic = "cupboard settle window warrior vintage tool rigid screen orbit lake juice survey";
+var mnemonic = "general math version layer eager history artist broom budget they cactus include";

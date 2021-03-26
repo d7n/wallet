@@ -1,1 +1,1 @@
-var mnemonic = "prevent phone idle action write dance shine double disorder normal accuse spike";
+var mnemonic = "case custom favorite leisure such sheriff dolphin utility deliver scrap favorite mobile";

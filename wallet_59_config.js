@@ -1,1 +1,1 @@
-var mnemonic = "actor orient advice online morning merry kidney antenna detect caution cave inch";
+var mnemonic = "symbol topple limb game spell cloud point train quick tail early liberty";

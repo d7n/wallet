@@ -1,1 +1,1 @@
-var mnemonic = "shell pair boring doll forward purse harbor matrix skull stomach virtual couch";
+var mnemonic = "prize december act ahead coconut wealth bulk ten quality poem afford dose";

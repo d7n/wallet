@@ -1,1 +1,1 @@
-var mnemonic = "glare trend volume stadium ghost sheriff unaware rain elegant transfer gossip hole";
+var mnemonic = "lift sorry catalog local attend robust knife essence heavy orphan style hurry";

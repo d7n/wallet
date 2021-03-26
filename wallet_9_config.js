@@ -1,1 +1,1 @@
-var mnemonic = "regret route busy base soldier notable gown ladder glide emerge behave average";
+var mnemonic = "ginger scheme bacon world panic love shoulder vicious burden circle dust prize";

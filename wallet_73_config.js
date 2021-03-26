@@ -1,1 +1,1 @@
-var mnemonic = "undo scene spot clump resource pear walnut cart turn iron employ syrup";
+var mnemonic = "awkward muscle coil chief bachelor home phone program supply short north final";

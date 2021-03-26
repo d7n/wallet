@@ -1,1 +1,1 @@
-var mnemonic = "pretty library under sand screen bronze better route random dolphin artist fabric";
+var mnemonic = "digital upper grape device possible awesome steel turn mouse silk ghost ancient";

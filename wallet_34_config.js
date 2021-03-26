@@ -1,1 +1,1 @@
-var mnemonic = "perfect soon pioneer sing sand mention stamp tornado evoke immense nothing team";
+var mnemonic = "dry fish dog village foam thank hen coil have leader gun swing";

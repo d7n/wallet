@@ -1,1 +1,1 @@
-var mnemonic = "clarify lounge arch fun wheel grunt bracket surprise girl among uniform audit";
+var mnemonic = "cheese smart dinosaur gym rude wrist buddy hello this capable turn box";

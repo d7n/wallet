@@ -1,1 +1,1 @@
-var mnemonic = "seminar mammal planet staff width bracket ahead window lady find dutch drive";
+var mnemonic = "antique confirm escape clutch mind suggest party avoid meadow holiday gauge flock";

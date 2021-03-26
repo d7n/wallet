@@ -1,1 +1,1 @@
-var mnemonic = "flat usual ostrich online project region poverty lyrics squirrel drama december peanut";
+var mnemonic = "address series sphere ten candy hill volume spy august nut manage worry";

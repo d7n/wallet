@@ -1,1 +1,1 @@
-var mnemonic = "siren perfect pony throw chief tissue discover devote expect meat south avoid";
+var mnemonic = "clarify hollow any captain easily step chronic wool narrow west stuff enrich";

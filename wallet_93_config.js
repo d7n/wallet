@@ -1,1 +1,1 @@
-var mnemonic = "slam veteran broccoli merge salt wall derive insane play voyage step guitar";
+var mnemonic = "project home roof force curious valve wet arctic neutral erosion buffalo clog";

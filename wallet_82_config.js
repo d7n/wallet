@@ -1,1 +1,1 @@
-var mnemonic = "arena loan pattern unfold brisk gospel pencil oppose target erase sauce critic";
+var mnemonic = "start victory cage uphold olive defense device kiwi danger room uncover hat";

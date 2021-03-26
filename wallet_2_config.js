@@ -1,1 +1,1 @@
-var mnemonic = "dizzy label marine bomb ahead dragon forward odor expand cook evoke luxury";
+var mnemonic = "mosquito mimic degree damp ladder just genius rally essence blade tackle village";

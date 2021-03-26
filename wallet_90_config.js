@@ -1,1 +1,1 @@
-var mnemonic = "into brand apology damp choose stick meat drip vanish coconut refuse pond";
+var mnemonic = "peace walnut comic claw victory month whisper diesel grant sheriff muscle verb";

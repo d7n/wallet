@@ -1,1 +1,1 @@
-var mnemonic = "now immune catch divorce wrap swear praise leader great rude home extend";
+var mnemonic = "someone torch identify garlic nasty doctor shine swarm vacant deposit visual tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "valid mango muscle virus record brisk amused champion seed ordinary agent essence";
+var mnemonic = "business stem buffalo vibrant device accuse host favorite nut vibrant auto another";

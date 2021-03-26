@@ -1,1 +1,1 @@
-var mnemonic = "soldier wing assist flush armor fence group false destroy gorilla that ankle";
+var mnemonic = "swallow army manual grow twist tornado lab habit manual today hungry sorry";

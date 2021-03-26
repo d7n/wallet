@@ -1,1 +1,1 @@
-var mnemonic = "expect admit confirm device vague off apple marine sad supreme assault hybrid";
+var mnemonic = "naive menu amateur behave fiction swallow spring taxi reform quarter misery broken";

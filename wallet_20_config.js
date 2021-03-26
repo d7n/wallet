@@ -1,1 +1,1 @@
-var mnemonic = "script page awkward skirt turkey patrol exhibit install oil gospel dash unusual";
+var mnemonic = "hair program lunar flat soul surprise custom off museum foil anchor hero";

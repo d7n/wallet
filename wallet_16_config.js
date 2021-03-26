@@ -1,1 +1,1 @@
-var mnemonic = "junior century rely december stand pitch feel aisle shield edge afraid chat";
+var mnemonic = "other where project come whip team park honey jelly dynamic mass icon";

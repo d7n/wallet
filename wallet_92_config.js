@@ -1,1 +1,1 @@
-var mnemonic = "old sudden black among give blade owner circle rail leader must lemon";
+var mnemonic = "square common cloth random glide glow arrest exit evolve link awkward search";

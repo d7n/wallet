@@ -1,1 +1,1 @@
-var mnemonic = "nasty pond ten come punch ball check piece curve gown champion number";
+var mnemonic = "bacon flight infant birth trap cannon speak twist amateur stuff anger dune";

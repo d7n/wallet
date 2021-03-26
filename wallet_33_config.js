@@ -1,1 +1,1 @@
-var mnemonic = "sauce seek salmon angle win ticket retreat comic stuff pitch warm fun";
+var mnemonic = "door fold negative ribbon burden custom other danger layer range maximum bacon";

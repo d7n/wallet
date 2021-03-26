@@ -1,1 +1,1 @@
-var mnemonic = "abstract copper gain stool also steak never garage paper snow depth tired";
+var mnemonic = "riot exercise antique retreat tide owner kiss payment divorce salt suggest host";

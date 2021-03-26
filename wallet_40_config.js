@@ -1,1 +1,1 @@
-var mnemonic = "saddle hawk light pelican coyote reform jump clever demise accuse boy hazard";
+var mnemonic = "trophy refuse convince sting toward conduct lady sail rose dutch ivory cherry";

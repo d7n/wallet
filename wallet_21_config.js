@@ -1,1 +1,1 @@
-var mnemonic = "clean tribe mandate snow deputy surge mountain since fall victory sense various";
+var mnemonic = "struggle absorb company skin siege aspect pencil chalk cycle canyon avoid truck";

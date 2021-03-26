@@ -1,1 +1,1 @@
-var mnemonic = "need twin pluck ball roast grunt kiss correct squeeze depart double frog";
+var mnemonic = "student giraffe tail hub buffalo hello brass fit bird noble unfold shrimp";

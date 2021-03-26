@@ -1,1 +1,1 @@
-var mnemonic = "famous fabric churn crazy glide viable fiction soup gadget obvious fruit vessel";
+var mnemonic = "leave forget student unique kitten universe drama require soon about cycle arrange";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton brand rabbit cigar lunar better laptop toy boost cradle fall knock";
+var mnemonic = "muscle breeze edit present evolve swift case secret beyond regular battle clutch";

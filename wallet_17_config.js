@@ -1,1 +1,1 @@
-var mnemonic = "private vast noise save piano more lab work world bus exhaust fantasy";
+var mnemonic = "woman powder air teach famous promote lyrics razor bracket able laundry inner";

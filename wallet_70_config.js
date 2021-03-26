@@ -1,1 +1,1 @@
-var mnemonic = "bitter minute bring rabbit observe remind brown confirm rare grace spider special";
+var mnemonic = "fox agent sudden dentist heart buzz cannon praise oblige region beyond kiss";

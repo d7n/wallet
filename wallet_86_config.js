@@ -1,1 +1,1 @@
-var mnemonic = "foil december dinosaur leg chunk purpose spatial luxury silver okay canyon guess";
+var mnemonic = "limb funny poverty make shove borrow beach debris over page always assault";

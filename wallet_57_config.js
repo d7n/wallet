@@ -1,1 +1,1 @@
-var mnemonic = "hour february mesh great brother candy quantum tourist rally deny bean win";
+var mnemonic = "attend explain album fabric grab pool hurt voice deer tank paddle shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "combine design cover merge strategy spawn alert kid key maximum naive breeze";
+var mnemonic = "mercy square distance sport convince then quote cotton add slogan extra dismiss";

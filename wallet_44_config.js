@@ -1,1 +1,1 @@
-var mnemonic = "hint usual safe weasel beach crumble sea peace penalty science arm hip";
+var mnemonic = "skirt eye when dog wrap unfair jacket uncle coral decorate shine sad";

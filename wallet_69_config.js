@@ -1,1 +1,1 @@
-var mnemonic = "deer slot yellow twin crater fabric asset duty kitchen jungle cream youth";
+var mnemonic = "start flight outer sleep bean fiber spike release argue deal script rib";

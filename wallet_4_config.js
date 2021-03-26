@@ -1,1 +1,1 @@
-var mnemonic = "lawn bone bulk cotton erosion desk they depart tent fun expect post";
+var mnemonic = "lawn measure hat assist rifle flight table twin accident prefer steel similar";

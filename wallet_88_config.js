@@ -1,1 +1,1 @@
-var mnemonic = "flock patient arrow danger pumpkin fold kiss tongue nerve wire load media";
+var mnemonic = "pink bamboo vast tube word evoke tell body replace face cute dry";

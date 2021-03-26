@@ -1,1 +1,1 @@
-var mnemonic = "whip habit direct buyer wish laundry claim silk airport throw embrace magnet";
+var mnemonic = "behave main easily demise impulse move predict reopen sign vacant town junk";

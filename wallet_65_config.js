@@ -1,1 +1,1 @@
-var mnemonic = "inner crop trim raise come anxiety sword stuff actress creek sniff travel";
+var mnemonic = "capital hawk express iron dignity science rotate human recall eye weekend invest";
