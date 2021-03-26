@@ -1,1 +1,1 @@
-var mnemonic = "review call afraid only pink strike bird song prepare animal say recipe";
+var mnemonic = "chronic door slot harbor across motion lock deny song noodle pretty brush";

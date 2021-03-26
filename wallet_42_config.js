@@ -1,1 +1,1 @@
-var mnemonic = "tail barrel lift argue unknown still hover imitate lonely furnace example ladder";
+var mnemonic = "suspect walnut gown hidden doll online prepare bubble puppy absent zoo myself";

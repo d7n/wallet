@@ -1,1 +1,1 @@
-var mnemonic = "post beef parent vehicle impact desert attitude eye corn hire ozone load";
+var mnemonic = "coast celery among forum track speak menu vote element minute regret before";

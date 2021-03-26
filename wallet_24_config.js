@@ -1,1 +1,1 @@
-var mnemonic = "follow style remain hawk human grape enlist nut indicate diamond lamp tube";
+var mnemonic = "valley vibrant brave obscure shoe tell boring step able bounce able clump";

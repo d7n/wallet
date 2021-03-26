@@ -1,1 +1,1 @@
-var mnemonic = "aspect limb burst umbrella practice under series junior there correct silly give";
+var mnemonic = "tattoo upgrade desert sample before bunker view merge voice gain human oval";

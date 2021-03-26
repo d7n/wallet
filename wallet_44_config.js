@@ -1,1 +1,1 @@
-var mnemonic = "sand legal lazy cute space excuse lesson hope excuse then manual direct";
+var mnemonic = "crisp volcano gas mango crater output until clown thrive deliver predict situate";

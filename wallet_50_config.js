@@ -1,1 +1,1 @@
-var mnemonic = "phone clay logic anchor false baby spread mention coconut venture hazard have";
+var mnemonic = "pill cabbage movie wrap silly champion foot require room adult raise top";

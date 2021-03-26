@@ -1,1 +1,1 @@
-var mnemonic = "trumpet flag mule year laundry people recall lava tilt drama candy rail";
+var mnemonic = "layer lizard right upset jelly dash chaos motor clock zoo throw tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel soup crack pair security stairs test offer connect hair ring author";
+var mnemonic = "corn blast silent today maid abandon forum table indicate pistol volume expect";

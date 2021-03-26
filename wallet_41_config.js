@@ -1,1 +1,1 @@
-var mnemonic = "jelly sketch diagram excite normal usual drink because dune lab shadow miracle";
+var mnemonic = "knee please orange science scene camera cry bubble essay orange twelve swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "where fine logic habit sibling sign board until swim repair pony crack";
+var mnemonic = "leader dentist give foster echo hair rain erupt oppose forest prize baby";

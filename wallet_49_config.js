@@ -1,1 +1,1 @@
-var mnemonic = "panda crack health teach order accuse foam intact base catch obey asset";
+var mnemonic = "clinic sauce proof chest various gadget cube essence satoshi owner simple blood";

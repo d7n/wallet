@@ -1,1 +1,1 @@
-var mnemonic = "ceiling true oak wife suspect inform oxygen lottery upgrade shop chase jungle";
+var mnemonic = "struggle lecture door loud vicious soft unit sad snow client slab stock";

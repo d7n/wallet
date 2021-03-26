@@ -1,1 +1,1 @@
-var mnemonic = "scale scissors picnic recycle border juice feed wood estate announce knife thunder";
+var mnemonic = "federal habit dash happy design napkin woman rival tattoo they hotel sustain";

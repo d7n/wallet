@@ -1,1 +1,1 @@
-var mnemonic = "wine science soon elephant poem dolphin broom banana warrior peasant audit symptom";
+var mnemonic = "remove medal axis wish art morning shoulder hamster few replace radio admit";

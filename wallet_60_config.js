@@ -1,1 +1,1 @@
-var mnemonic = "myself creek rigid job regular machine illegal nurse session grace cousin idle";
+var mnemonic = "mixture sword company coffee season token estate nerve raven announce elephant moment";

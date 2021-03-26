@@ -1,1 +1,1 @@
-var mnemonic = "wolf raise torch master huge multiply flash soccer glance combine impact fly";
+var mnemonic = "sorry trick act boost innocent excess peace original spring grow address tool";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner naive foil angle immense party type dune donor neutral teach six";
+var mnemonic = "island moral keep sentence border unit photo secret enough place hotel hundred";

@@ -1,1 +1,1 @@
-var mnemonic = "novel year fossil stairs photo hub push panda never butter holiday claim";
+var mnemonic = "near boy marine unfold wide verify body front thought again cost deal";

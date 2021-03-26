@@ -1,1 +1,1 @@
-var mnemonic = "glance slim tent vanish type cause sight pyramid depth trick action diary";
+var mnemonic = "castle acid bracket banana denial rally upper protect thing arrow rebel thank";

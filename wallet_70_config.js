@@ -1,1 +1,1 @@
-var mnemonic = "nerve room virtual wash harsh keen umbrella inhale direct push play sword";
+var mnemonic = "adjust picture story shrimp reduce wing follow claw joke hollow ask forest";

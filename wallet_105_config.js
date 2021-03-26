@@ -1,1 +1,1 @@
-var mnemonic = "album pulse trip clerk whisper twice trade thrive fruit pact bulk mango";
+var mnemonic = "put security right bench feel round wedding state often disorder affair prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "much dune simple reject human energy grab embark release glad cargo oxygen";
+var mnemonic = "tornado surprise winter crucial author parade useful upset claw wink scan live";

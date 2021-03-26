@@ -1,1 +1,1 @@
-var mnemonic = "tray stereo size fuel term thunder trade rent east toe mushroom original";
+var mnemonic = "final bright fit once trial category carry enforce canvas bike enlist media";

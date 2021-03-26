@@ -1,1 +1,1 @@
-var mnemonic = "finger reason ostrich output mean asthma inject meadow enforce arena liberty trap";
+var mnemonic = "leisure twin elite rhythm boat balance birth essence derive offer axis transfer";

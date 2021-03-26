@@ -1,1 +1,1 @@
-var mnemonic = "kidney fire must unable biology spread swamp math clinic always amazing embrace";
+var mnemonic = "penalty zebra season attitude regret excess twist giraffe sting treat step wish";

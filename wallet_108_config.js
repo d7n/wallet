@@ -1,1 +1,1 @@
-var mnemonic = "can buddy outside speed always gym entire chimney outdoor rally adapt ring";
+var mnemonic = "scene humor museum review when mammal drive mango record cute hybrid addict";

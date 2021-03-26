@@ -1,1 +1,1 @@
-var mnemonic = "empty cash dinner absent frozen limb unique burden famous engage globe tattoo";
+var mnemonic = "federal item mercy lawn siren anger yard unique avoid bulb short dream";

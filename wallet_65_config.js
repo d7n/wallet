@@ -1,1 +1,1 @@
-var mnemonic = "tank mention sentence viable south disorder excess pond recipe lake company enemy";
+var mnemonic = "pledge eternal buzz inmate advance glare output wage hospital unable push length";

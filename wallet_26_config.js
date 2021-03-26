@@ -1,1 +1,1 @@
-var mnemonic = "syrup jump chaos proud silly adjust capable crowd enough vanish shell lamp";
+var mnemonic = "north sign core repeat account sunny desert couch embody december stick lock";

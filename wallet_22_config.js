@@ -1,1 +1,1 @@
-var mnemonic = "useful basket assist country enact eager tumble bubble news perfect turn slender";
+var mnemonic = "squirrel repeat spray park nest borrow nephew various tourist food moment organ";

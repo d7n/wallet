@@ -1,1 +1,1 @@
-var mnemonic = "hammer photo fatal tray alpha text limit false winter renew certain trouble";
+var mnemonic = "museum vibrant alarm dose trumpet exile toss cart drift village poet obey";

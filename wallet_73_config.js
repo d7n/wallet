@@ -1,1 +1,1 @@
-var mnemonic = "across syrup toward code ahead asset odor resist fade mail force deal";
+var mnemonic = "lend code throw muscle force source pupil street toddler grief hint prepare";

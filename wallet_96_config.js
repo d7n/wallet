@@ -1,1 +1,1 @@
-var mnemonic = "visa defense setup leg hill street liquid range clarify degree kit phone";
+var mnemonic = "milk panic tide neutral volcano recipe rough crane hen expand rubber boost";

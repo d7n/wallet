@@ -1,1 +1,1 @@
-var mnemonic = "focus hen accuse conduct catch employ maximum egg system sight enjoy upset";
+var mnemonic = "ketchup song fall describe blind mushroom surprise deposit dismiss canal very police";

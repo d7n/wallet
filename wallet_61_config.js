@@ -1,1 +1,1 @@
-var mnemonic = "rib zero code van quote flee carpet lens fiscal absurd option critic";
+var mnemonic = "barely surround goose emotion drink drastic fresh street axis woman panel shrimp";

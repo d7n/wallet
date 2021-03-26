@@ -1,1 +1,1 @@
-var mnemonic = "model destroy ocean also mammal disease craft walk initial bounce govern fatal";
+var mnemonic = "trophy master cotton city little clay provide token divert upon collect width";

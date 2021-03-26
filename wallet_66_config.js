@@ -1,1 +1,1 @@
-var mnemonic = "anxiety rail remove water outdoor battle word boring naive disagree patch quiz";
+var mnemonic = "stand napkin beyond bottom monkey parrot item boss room live theme animal";

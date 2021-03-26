@@ -1,1 +1,1 @@
-var mnemonic = "deer palace water equal metal negative parent loyal slender exile pull metal";
+var mnemonic = "crowd era chapter garden cabin thought witness food afford beyond man share";

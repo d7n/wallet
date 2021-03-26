@@ -1,1 +1,1 @@
-var mnemonic = "peanut ripple dentist helmet rich story trash mix tomato citizen topple need";
+var mnemonic = "inspire worry output mango jaguar outdoor around bubble gravity refuse mandate chapter";

@@ -1,1 +1,1 @@
-var mnemonic = "kind jazz opera puzzle giraffe forest pair relax region random able wet";
+var mnemonic = "verb scorpion globe can sheriff outside motor play bounce approve scorpion knee";

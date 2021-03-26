@@ -1,1 +1,1 @@
-var mnemonic = "cliff tip tail van like soap veteran mass proud rhythm cloth gasp";
+var mnemonic = "frog immune urge donkey little pride churn flock apology decide fetch select";

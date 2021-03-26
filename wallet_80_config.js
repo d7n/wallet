@@ -1,1 +1,1 @@
-var mnemonic = "scene auto forward hamster swift exclude angry paper sketch cave tent slide";
+var mnemonic = "lawsuit poet private number city walk click trust grit voice educate skull";

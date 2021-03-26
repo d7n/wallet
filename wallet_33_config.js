@@ -1,1 +1,1 @@
-var mnemonic = "sweet flash faith ski mirror unable salute small dignity asthma piece lumber";
+var mnemonic = "diamond emerge tomorrow equip confirm actual walk finger execute hard pole number";

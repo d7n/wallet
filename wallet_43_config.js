@@ -1,1 +1,1 @@
-var mnemonic = "crush remind half reward alley style relief tooth ethics buddy reunion hover";
+var mnemonic = "mystery beach awkward hello anger follow guitar border vintage purity cage artefact";

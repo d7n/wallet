@@ -1,1 +1,1 @@
-var mnemonic = "faith believe session fold below sock party enhance alley session west mutual";
+var mnemonic = "casual bulk similar wait salon curve valley warfare nest force bridge project";

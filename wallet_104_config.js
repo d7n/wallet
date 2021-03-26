@@ -1,1 +1,1 @@
-var mnemonic = "dolphin wink addict regret candy solar area park cage chef bargain holiday";
+var mnemonic = "mask rude vintage when egg sport gadget alter wheat dwarf issue later";

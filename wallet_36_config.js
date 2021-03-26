@@ -1,1 +1,1 @@
-var mnemonic = "blossom canyon market index celery absent diamond pattern manage venue quarter debris";
+var mnemonic = "symbol sister mandate emotion rude convince wrap cliff day law yellow artefact";

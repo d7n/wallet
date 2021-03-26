@@ -1,1 +1,1 @@
-var mnemonic = "license soft kitchen gallery oven airport spider remain empty spread hover peace";
+var mnemonic = "drink autumn laundry slight bulk merry insect symptom maple unknown field spoon";

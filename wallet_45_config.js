@@ -1,1 +1,1 @@
-var mnemonic = "cost chest huge wonder artwork gate casual siren buyer scare fancy ugly";
+var mnemonic = "still estate pink argue fresh love mobile dust feel check naive ignore";

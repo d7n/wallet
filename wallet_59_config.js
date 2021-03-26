@@ -1,1 +1,1 @@
-var mnemonic = "scheme online festival various scorpion rather law derive divorce tissue concert fabric";
+var mnemonic = "grow smooth mirror glimpse prize race swim amateur view dress arrange pumpkin";

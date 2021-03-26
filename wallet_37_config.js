@@ -1,1 +1,1 @@
-var mnemonic = "marine deny panther flash ivory execute base session skull brief license suit";
+var mnemonic = "rather nose remove million matter deal color atom angle glass nominee razor";

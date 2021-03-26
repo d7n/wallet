@@ -1,1 +1,1 @@
-var mnemonic = "tail parent genre spider sick furnace float uncover error broccoli into whip";
+var mnemonic = "sure two ozone index legend cliff glare street faculty ignore dawn viable";

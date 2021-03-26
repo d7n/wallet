@@ -1,1 +1,1 @@
-var mnemonic = "employ avoid interest mixed sibling crew fluid connect captain denial zone visa";
+var mnemonic = "zero soul vapor pudding skirt apart inner soup arm path pact cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune replace chaos doll rookie alter clutch tornado useless mad daughter guilt";
+var mnemonic = "smooth syrup dizzy sadness focus result recall mimic alarm detect immune wrong";

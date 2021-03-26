@@ -1,1 +1,1 @@
-var mnemonic = "atom bitter layer luxury sausage outer gold boy roof dash believe scout";
+var mnemonic = "tonight cloud dizzy cigar topple dizzy private few impose avoid year split";

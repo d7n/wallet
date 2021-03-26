@@ -1,1 +1,1 @@
-var mnemonic = "result feel scheme furnace science initial market orient true visit embark naive";
+var mnemonic = "message garbage sweet drip stem miss swift reward depart expire harsh fade";

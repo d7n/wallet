@@ -1,1 +1,1 @@
-var mnemonic = "draw decline rebel odor egg unhappy arch fruit drop uniform exit stand";
+var mnemonic = "scrub child jar lamp glory inform lawsuit pigeon romance beauty exclude hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "shrimp language sight slight ribbon whip detect spirit clutch border boil cigar";
+var mnemonic = "actual gather moon menu slim purse ginger ordinary solve roof force lunch";

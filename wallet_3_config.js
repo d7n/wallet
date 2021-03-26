@@ -1,1 +1,1 @@
-var mnemonic = "dose follow hobby brick purchase host tank slide artwork meat comfort network";
+var mnemonic = "game predict radar silver corn visual illness hawk viable benefit polar broccoli";

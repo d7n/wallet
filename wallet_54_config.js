@@ -1,1 +1,1 @@
-var mnemonic = "prison fork bright juice slide skate canvas same fitness vanish chalk attract";
+var mnemonic = "social digital spoil siren again system win prevent margin affair behind eternal";

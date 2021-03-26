@@ -1,1 +1,1 @@
-var mnemonic = "inner leisure shove squeeze boy confirm depth bicycle train cause siege side";
+var mnemonic = "gospel deposit modify teach truth fragile flower organ tennis desert fog hill";

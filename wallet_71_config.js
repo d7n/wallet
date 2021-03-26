@@ -1,1 +1,1 @@
-var mnemonic = "year boat ankle document dance blanket company olympic involve mosquito school stick";
+var mnemonic = "deputy infant soap clutch action blouse lamp magnet save magic hedgehog offer";

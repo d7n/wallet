@@ -1,1 +1,1 @@
-var mnemonic = "tone guess web know brief misery lizard choose slow merry gravity consider";
+var mnemonic = "mouse simple evidence modify advice paper setup zoo boil soon erode music";

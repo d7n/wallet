@@ -1,1 +1,1 @@
-var mnemonic = "cherry echo rule soft issue olive advice okay soccer waste secret aerobic";
+var mnemonic = "sight damage flower peanut silk meadow urban embark east enough you orphan";

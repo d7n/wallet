@@ -1,1 +1,1 @@
-var mnemonic = "rebuild body cricket welcome laptop firm cook luggage fog bird theory unveil";
+var mnemonic = "seed end sense monkey prevent pen brass nice ribbon atom document source";

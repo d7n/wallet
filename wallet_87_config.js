@@ -1,1 +1,1 @@
-var mnemonic = "peace boost cram gasp various mixed motor moon cash noble vast peanut";
+var mnemonic = "ordinary then leisure service attract armor balcony wood liberty recipe timber treat";

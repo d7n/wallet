@@ -1,1 +1,1 @@
-var mnemonic = "easily escape snake sphere smart dolphin unable cancel exhaust better pond brand";
+var mnemonic = "degree wave exclude hub enemy ladder mind error turn age tomato disorder";

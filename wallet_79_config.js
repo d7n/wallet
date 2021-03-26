@@ -1,1 +1,1 @@
-var mnemonic = "sock finish rude rebuild forget perfect knife around alter decide ticket salmon";
+var mnemonic = "decorate salute march garage evolve rough extra surface sausage short word talent";

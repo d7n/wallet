@@ -1,1 +1,1 @@
-var mnemonic = "beauty evidence tool skin awake resemble outdoor boost nature expand outside nominee";
+var mnemonic = "aunt brief ensure trick pulse antenna police gossip this affair cruel icon";

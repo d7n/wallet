@@ -1,1 +1,1 @@
-var mnemonic = "salad october already spread stool between intact chicken risk chaos image balance";
+var mnemonic = "sail discover spice taxi ability account morning hidden host wife wash shove";

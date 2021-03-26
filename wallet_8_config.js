@@ -1,1 +1,1 @@
-var mnemonic = "cart okay dice obscure extend inject couple fence cry win actual pilot";
+var mnemonic = "orphan dentist stock warrior steak blossom waste door head industry glance inquiry";

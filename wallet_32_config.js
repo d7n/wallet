@@ -1,1 +1,1 @@
-var mnemonic = "resource hybrid sausage goat salute youth angle busy pear pupil pill wave";
+var mnemonic = "good doctor solution grain style pulp address garden spawn spoon web desk";

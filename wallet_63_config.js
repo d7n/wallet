@@ -1,1 +1,1 @@
-var mnemonic = "depart april outer skate kitchen world true bridge proof innocent general decorate";
+var mnemonic = "kit audit guard churn virus trash green snow easy bring twelve drastic";

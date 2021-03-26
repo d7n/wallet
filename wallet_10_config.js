@@ -1,1 +1,1 @@
-var mnemonic = "label second chat tribe liar grit grunt seven fashion involve mosquito dumb";
+var mnemonic = "faith trophy shed juice absorb lizard belt panther waste clog assault shine";

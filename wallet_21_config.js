@@ -1,1 +1,1 @@
-var mnemonic = "bullet near style attack rhythm near ensure level author quarter west canal";
+var mnemonic = "unusual cash monster saddle eager disorder announce claw gap tone gadget ranch";

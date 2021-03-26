@@ -1,1 +1,1 @@
-var mnemonic = "abandon door ethics luxury glimpse artist exit sign flock hard select detect";
+var mnemonic = "achieve toss girl dune satoshi sheriff gather art input connect office fine";

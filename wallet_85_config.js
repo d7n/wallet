@@ -1,1 +1,1 @@
-var mnemonic = "tuition gas burden shaft canal adapt canyon glow ecology cancel edge below";
+var mnemonic = "rhythm truly toilet yellow siren old pass skirt toddler harvest depth pulp";

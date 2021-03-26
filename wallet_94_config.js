@@ -1,1 +1,1 @@
-var mnemonic = "hub auction picture tape average anger dress sweet flash output title claw";
+var mnemonic = "unaware voice scene wheel wreck alter debate frame win there shiver point";

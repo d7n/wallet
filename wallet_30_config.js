@@ -1,1 +1,1 @@
-var mnemonic = "glove grass scout reason anchor pelican dog pair outside describe broccoli punch";
+var mnemonic = "wrist embark entire thought series left debris theme blood father service rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "chief memory comic faint kite twist gorilla bachelor album novel mimic brisk";
+var mnemonic = "excuse hello alert speed crawl youth canal jump news property sadness curve";

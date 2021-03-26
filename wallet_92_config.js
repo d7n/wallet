@@ -1,1 +1,1 @@
-var mnemonic = "swim garage pear hover wool ice enough reduce rice arctic rifle boost";
+var mnemonic = "shadow setup banner above among one result select body episode cannon response";

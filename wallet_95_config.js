@@ -1,1 +1,1 @@
-var mnemonic = "page uncle vintage bike opera hen heart seek broccoli test calm bacon";
+var mnemonic = "blossom wasp few guide seven stove organ brass depart ring expand battle";

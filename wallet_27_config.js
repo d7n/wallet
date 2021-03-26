@@ -1,1 +1,1 @@
-var mnemonic = "stereo audit myself lumber aunt more false cat quantum palace cruise total";
+var mnemonic = "practice salad hire fade endless egg matter medal bubble wrist angle hockey";

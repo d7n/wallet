@@ -1,1 +1,1 @@
-var mnemonic = "luxury warrior flash purpose grape parade goose link illegal engine network behave";
+var mnemonic = "drive destroy tattoo napkin cage leave worry card enable bomb umbrella animal";

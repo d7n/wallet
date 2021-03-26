@@ -1,1 +1,1 @@
-var mnemonic = "habit accuse pencil unusual art cupboard inflict invite ramp uncover share hidden";
+var mnemonic = "early success height drill violin voyage flush duty lumber donkey palm divorce";
