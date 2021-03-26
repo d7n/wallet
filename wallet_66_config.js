@@ -1,1 +1,1 @@
-var mnemonic = "future siege vivid snap sense awful upon wreck blue poverty upset chair";
+var mnemonic = "garment notable apple else demise bullet sight seek achieve harbor happy offer";

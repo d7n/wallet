@@ -1,1 +1,1 @@
-var mnemonic = "squeeze craft fruit mansion void original bachelor best strong power exchange say";
+var mnemonic = "ghost home detect solution village garment critic glare flat endless trap either";

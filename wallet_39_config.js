@@ -1,1 +1,1 @@
-var mnemonic = "fuel bring share cause strike wild remind fetch logic noble budget river";
+var mnemonic = "bronze across slogan wonder kid tube evidence devote slogan panda hospital repeat";

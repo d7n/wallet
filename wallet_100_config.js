@@ -1,1 +1,1 @@
-var mnemonic = "mansion combine shiver genuine escape silly power sponsor satoshi list asset fine";
+var mnemonic = "evil engage make bracket cash also slam town deer excess embody same";

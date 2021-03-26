@@ -1,1 +1,1 @@
-var mnemonic = "letter jacket half thing spin best creek forum grape junior chicken idle";
+var mnemonic = "where dizzy horn kit expose merge tumble jewel repair comfort average section";

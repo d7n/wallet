@@ -1,1 +1,1 @@
-var mnemonic = "include loop roast wish task cloth lab boost meadow exercise word slender";
+var mnemonic = "discover slice crop trigger jelly abuse avoid addict bundle about skin pass";

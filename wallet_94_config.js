@@ -1,1 +1,1 @@
-var mnemonic = "lift imitate middle nurse luxury any above erase appear mad auction fun";
+var mnemonic = "void hollow switch bean ignore tiny milk analyst blue wage culture absorb";

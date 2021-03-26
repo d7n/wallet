@@ -1,1 +1,1 @@
-var mnemonic = "echo cereal vague balcony cover steak method globe fan leave swim mutual";
+var mnemonic = "develop reveal wall double vote unit hero admit client either initial column";

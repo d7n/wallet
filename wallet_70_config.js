@@ -1,1 +1,1 @@
-var mnemonic = "ship raise kingdom couch topic foil say appear polar plunge embody refuse";
+var mnemonic = "project feature purpose next lift kiwi entire nut ask stuff setup exist";

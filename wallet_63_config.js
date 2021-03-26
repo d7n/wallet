@@ -1,1 +1,1 @@
-var mnemonic = "mountain culture object region coral valid caught seat avocado mosquito tomorrow crawl";
+var mnemonic = "space chief tank traffic wolf inject that uncle movie fringe yellow regret";

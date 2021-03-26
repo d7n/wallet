@@ -1,1 +1,1 @@
-var mnemonic = "coffee gauge travel original security motor ball sock carpet until garden beauty";
+var mnemonic = "sentence badge cabin language elegant bread cause dream margin design north mesh";

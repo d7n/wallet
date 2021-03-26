@@ -1,1 +1,1 @@
-var mnemonic = "then gift journey deal end differ wrong half beef liar coach among";
+var mnemonic = "tiger few bind announce essay angry nice achieve accident electric fee tone";

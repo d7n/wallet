@@ -1,1 +1,1 @@
-var mnemonic = "three federal devote kick sure leopard plastic expose casino claw this canal";
+var mnemonic = "fit patch stuff duck forum vague fit domain clock upper follow wagon";

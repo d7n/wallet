@@ -1,1 +1,1 @@
-var mnemonic = "stable employ fold annual note sibling banner artwork imitate blade little allow";
+var mnemonic = "home hurt humor entire melody token smile later suspect method empower local";

@@ -1,1 +1,1 @@
-var mnemonic = "tide please nose wife easy connect glory spike nest scare clever alpha";
+var mnemonic = "trick gather arrive category destroy swing alarm pig chase frost polar leader";

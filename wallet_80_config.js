@@ -1,1 +1,1 @@
-var mnemonic = "fold increase village better island reveal first skirt walnut damp disease talent";
+var mnemonic = "scrap jelly claim unknown flock original price attract frog exile scrap response";

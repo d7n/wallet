@@ -1,1 +1,1 @@
-var mnemonic = "fruit canoe random quiz talent admit smooth saddle face ramp amazing occur";
+var mnemonic = "bench jazz repeat ski friend upgrade gauge super average human hazard inspire";

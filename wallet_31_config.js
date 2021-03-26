@@ -1,1 +1,1 @@
-var mnemonic = "moon delay divert license arrange pilot piece goat inform clown reduce round";
+var mnemonic = "match pulp celery social aware critic report donkey forget hurdle sure axis";

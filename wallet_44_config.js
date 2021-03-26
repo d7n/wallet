@@ -1,1 +1,1 @@
-var mnemonic = "opera marine supply again street pretty jealous project tent exotic tube engine";
+var mnemonic = "certain excuse wall maze cannon frequent learn leg pulp claim goddess wait";

@@ -1,1 +1,1 @@
-var mnemonic = "gun among vintage flight believe olive liar winter eyebrow story air stool";
+var mnemonic = "bring predict family panel doll file pistol obey later service cancel bottom";

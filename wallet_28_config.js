@@ -1,1 +1,1 @@
-var mnemonic = "trick street hair legal edit payment foster nothing brand minute cruise room";
+var mnemonic = "note usual ugly safe survey display thank share educate siege light crumble";

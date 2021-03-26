@@ -1,1 +1,1 @@
-var mnemonic = "beyond lake dilemma vicious thrive immense tomato horse satisfy galaxy magnet lunch";
+var mnemonic = "primary liquid lounge feature lunch saddle neck magnet cruise trust moral furnace";

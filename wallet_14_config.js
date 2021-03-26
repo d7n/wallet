@@ -1,1 +1,1 @@
-var mnemonic = "october exist crawl horror plate approve tent vote like custom virtual cat";
+var mnemonic = "hammer minimum run simple million equip budget summer mask recall train lobster";

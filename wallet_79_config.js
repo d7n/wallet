@@ -1,1 +1,1 @@
-var mnemonic = "proud picture dentist dash pulse eager dinosaur machine champion much original glide";
+var mnemonic = "weasel top nation increase output mention price return solid seminar almost glove";

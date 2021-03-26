@@ -1,1 +1,1 @@
-var mnemonic = "eternal cancel juice apple sweet soft dish jelly entry profit prize snap";
+var mnemonic = "exit visual arctic grace impulse laptop buddy frog soap fortune master seat";

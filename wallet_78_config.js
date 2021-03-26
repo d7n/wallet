@@ -1,1 +1,1 @@
-var mnemonic = "cool sudden foam tape eyebrow pink clinic rookie basket tobacco bundle found";
+var mnemonic = "during various more sock fun group stage force license farm purse document";

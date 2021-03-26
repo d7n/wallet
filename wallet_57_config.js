@@ -1,1 +1,1 @@
-var mnemonic = "able subject divide acquire horn reform excess need able wisdom ladder token";
+var mnemonic = "other school tree elegant marble better inhale usual insane arctic police tip";

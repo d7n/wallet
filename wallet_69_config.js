@@ -1,1 +1,1 @@
-var mnemonic = "faith unusual survey history topic profit car vibrant credit base obtain relief";
+var mnemonic = "same ignore metal afraid gas absorb provide verb text siege bulk benefit";

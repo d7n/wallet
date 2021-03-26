@@ -1,1 +1,1 @@
-var mnemonic = "truly entry hill barely two assault tortoise peanut safe portion author jungle";
+var mnemonic = "whale alien sense answer harbor change wolf cabin weekend quiz arena cart";

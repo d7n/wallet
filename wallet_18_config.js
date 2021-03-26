@@ -1,1 +1,1 @@
-var mnemonic = "symbol brisk dial price cost cause dose rebel travel arch knock burden";
+var mnemonic = "illegal engage bridge rely universe because sketch razor rigid neglect slush eye";

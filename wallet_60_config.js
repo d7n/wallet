@@ -1,1 +1,1 @@
-var mnemonic = "pond speak wrong prosper valve basic actor absorb churn someone negative train";
+var mnemonic = "wagon embody jeans poet twin crime cable parent design now old come";

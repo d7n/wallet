@@ -1,1 +1,1 @@
-var mnemonic = "thing security festival summer exit indoor echo purpose stamp patient broom trouble";
+var mnemonic = "narrow year yard loop live exchange empty dad puppy street law antique";

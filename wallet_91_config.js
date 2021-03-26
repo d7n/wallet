@@ -1,1 +1,1 @@
-var mnemonic = "gift brush pair toddler zebra effort fine problem brush rug mind unknown";
+var mnemonic = "sand risk drip almost furnace merge dinosaur plastic leaf ethics bicycle cover";

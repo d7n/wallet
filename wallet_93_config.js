@@ -1,1 +1,1 @@
-var mnemonic = "brand cat blossom lion indicate shoe future swap hurdle share tackle vintage";
+var mnemonic = "kitten room want save mirror until retreat cement dove laptop predict say";

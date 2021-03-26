@@ -1,1 +1,1 @@
-var mnemonic = "squirrel faith minor spirit corn cancel jealous drive exist honey erode stuff";
+var mnemonic = "follow domain middle wisdom april fabric turkey fluid heavy snap student shell";

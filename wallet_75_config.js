@@ -1,1 +1,1 @@
-var mnemonic = "nice balcony mesh surface release mule weasel ridge collect grief mansion shrug";
+var mnemonic = "gloom arch hazard chalk fluid flash among cry boat debris heavy clap";

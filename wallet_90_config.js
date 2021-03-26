@@ -1,1 +1,1 @@
-var mnemonic = "faint until reopen pupil legend rookie neglect company claw race expose stable";
+var mnemonic = "great quantum name manual garden license blood priority rookie toe cigar token";

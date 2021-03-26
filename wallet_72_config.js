@@ -1,1 +1,1 @@
-var mnemonic = "exercise width another like acoustic empower length symptom tissue journey vintage unknown";
+var mnemonic = "region tag choose fat hobby barely stairs hazard wrap army cluster thing";

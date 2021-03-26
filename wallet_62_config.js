@@ -1,1 +1,1 @@
-var mnemonic = "belt sunset movie antenna maid car idea point cloth toe believe absent";
+var mnemonic = "news property afford help gallery cousin decade cute roast police pen attract";

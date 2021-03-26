@@ -1,1 +1,1 @@
-var mnemonic = "key flip pig hole donor prosper injury another play glance lake earn";
+var mnemonic = "slush goddess appear legal legal theory puppy fiber switch dry inside fever";

@@ -1,1 +1,1 @@
-var mnemonic = "defy settle major exist parrot crunch impose dial material worry abuse witness";
+var mnemonic = "script receive day reunion own uphold this couple genius vocal exchange high";

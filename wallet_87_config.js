@@ -1,1 +1,1 @@
-var mnemonic = "patch armor become tomato shine captain sight reward collect enemy merit edge";
+var mnemonic = "virtual elbow already smart era follow laptop enable spare next foster gift";

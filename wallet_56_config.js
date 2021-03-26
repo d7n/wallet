@@ -1,1 +1,1 @@
-var mnemonic = "payment shadow tribe glue abuse top spot wish squeeze genuine sample april";
+var mnemonic = "summer sheriff chair strategy behind secret tilt borrow matter industry scrub crash";

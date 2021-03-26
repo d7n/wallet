@@ -1,1 +1,1 @@
-var mnemonic = "truly rather group valid item year lyrics onion retreat lyrics report december";
+var mnemonic = "napkin buzz item firm vault text liar setup actress genre away intact";

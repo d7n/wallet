@@ -1,1 +1,1 @@
-var mnemonic = "unlock cool resist follow delay vacuum enough outside spawn vast east circle";
+var mnemonic = "march reduce danger pioneer skate diary smile immune cycle device giggle soap";

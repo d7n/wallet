@@ -1,1 +1,1 @@
-var mnemonic = "cheese basket turn outside able winter fragile boil engage predict rocket subway";
+var mnemonic = "split tribe wagon diesel possible cover absorb skill hotel buzz bacon chaos";

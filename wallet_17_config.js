@@ -1,1 +1,1 @@
-var mnemonic = "nature business jelly impose lens spring drop session firm more garden water";
+var mnemonic = "fashion field desert refuse swap virus sibling despair boss gown delay stick";

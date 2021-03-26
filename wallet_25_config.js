@@ -1,1 +1,1 @@
-var mnemonic = "practice roof produce reopen produce march taste limb battle hungry caution balance";
+var mnemonic = "furnace verify marine blouse marriage odor exhaust flee only sketch meat sugar";

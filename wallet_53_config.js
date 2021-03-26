@@ -1,1 +1,1 @@
-var mnemonic = "apple banner lawn between picnic alpha grief chimney where eager win trade";
+var mnemonic = "knee able build hard tomorrow chapter soft item tonight tuition lesson purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "auction sight angle spend gun option museum accident below rocket torch canvas";
+var mnemonic = "situate barrel silent weather slender cheap romance invite city heart decade benefit";

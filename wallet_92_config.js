@@ -1,1 +1,1 @@
-var mnemonic = "tooth angry put honey image window direct spirit inhale call cargo service";
+var mnemonic = "nose test insane myth electric toward humor vendor brisk velvet truly candy";

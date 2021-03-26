@@ -1,1 +1,1 @@
-var mnemonic = "club glove news come detail wait option slow super lazy shuffle journey";
+var mnemonic = "siren afford fork wolf syrup credit dune lizard warrior hello hunt pioneer";

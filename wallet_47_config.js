@@ -1,1 +1,1 @@
-var mnemonic = "either early hybrid innocent laundry acoustic syrup pass skull drama cherry rural";
+var mnemonic = "skate patch wreck risk auction cram world ginger love behind goddess icon";

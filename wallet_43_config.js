@@ -1,1 +1,1 @@
-var mnemonic = "receive school quote merge sorry grace cactus umbrella adult phrase error soup";
+var mnemonic = "frost concert arrest term level add lamp meat doctor tube velvet anchor";

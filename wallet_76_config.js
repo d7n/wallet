@@ -1,1 +1,1 @@
-var mnemonic = "invest cash used slot ill frozen royal swallow yellow punch fury body";
+var mnemonic = "candy zoo climb update legend chest lyrics skill betray carry client trend";

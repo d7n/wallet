@@ -1,1 +1,1 @@
-var mnemonic = "shock swear can safe shuffle wisdom dose unhappy evoke measure describe sting";
+var mnemonic = "blush junior escape elevator prosper settle diesel unable glass barely will message";

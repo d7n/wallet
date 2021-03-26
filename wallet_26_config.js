@@ -1,1 +1,1 @@
-var mnemonic = "tissue middle travel include predict galaxy monster genuine error shock nephew gorilla";
+var mnemonic = "bicycle soft explain question useful arrow minor waste guide siren dwarf dutch";

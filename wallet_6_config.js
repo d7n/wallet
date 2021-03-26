@@ -1,1 +1,1 @@
-var mnemonic = "buffalo giant toilet mule animal flash stand raven cloth option keen enforce";
+var mnemonic = "design learn fringe fix opera upgrade repeat decade daughter despair original service";

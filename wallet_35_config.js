@@ -1,1 +1,1 @@
-var mnemonic = "board purchase hobby accident east unlock quit hundred little express fade target";
+var mnemonic = "wrong immune bubble must junk valve artwork audit measure season better dress";

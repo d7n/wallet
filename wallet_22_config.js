@@ -1,1 +1,1 @@
-var mnemonic = "cupboard chunk host device post vocal raw powder hospital return unusual toward";
+var mnemonic = "century truth unhappy next they fossil purchase tribe try arrow purse hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "pelican fetch arena math load stove bronze blossom degree tent put lock";
+var mnemonic = "open choose journey nurse various boil salad yard woman whip film ball";

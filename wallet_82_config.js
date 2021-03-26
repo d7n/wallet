@@ -1,1 +1,1 @@
-var mnemonic = "over stand consider plunge scan orchard few soup arrest end plug install";
+var mnemonic = "wood about mammal share picnic spy model never wreck holiday rather aunt";

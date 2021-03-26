@@ -1,1 +1,1 @@
-var mnemonic = "car sad decade wheat gain pilot car finger better use increase because";
+var mnemonic = "tooth curtain canvas retreat race battle refuse wrap swarm sense address spider";

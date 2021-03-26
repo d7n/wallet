@@ -1,1 +1,1 @@
-var mnemonic = "grace blame decorate purity antenna maze motor quality penalty enlist clap lobster";
+var mnemonic = "space fresh result film million mushroom attack match dirt hockey frost then";

@@ -1,1 +1,1 @@
-var mnemonic = "merry image outdoor muscle alley manual kind print nation gloom holiday swamp";
+var mnemonic = "escape expect seek because dose river mystery mention prize pig change slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "army script monster novel borrow priority dance exotic rookie tube exchange laundry";
+var mnemonic = "panda unique issue joy human behave surface paddle gym insect giraffe assist";

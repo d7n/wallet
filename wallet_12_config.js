@@ -1,1 +1,1 @@
-var mnemonic = "couple still glue client skirt sun address distance rule upset cliff dial";
+var mnemonic = "pool unit lock angle potato style prison black gate parent frost hungry";

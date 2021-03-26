@@ -1,1 +1,1 @@
-var mnemonic = "screen educate depend picnic ask grape strong develop chunk govern dignity man";
+var mnemonic = "this dismiss tornado spot rule aim excuse captain sheriff lottery glow copper";

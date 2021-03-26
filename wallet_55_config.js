@@ -1,1 +1,1 @@
-var mnemonic = "velvet situate refuse try ice yellow dumb light faith yard combine twenty";
+var mnemonic = "wrap cruel forget shove pepper swamp pencil family identify vague mind gossip";

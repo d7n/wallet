@@ -1,1 +1,1 @@
-var mnemonic = "habit typical other bike crisp model sword corn disagree spell episode boat";
+var mnemonic = "kit electric carbon gun stay another capable park frequent bitter pigeon trigger";

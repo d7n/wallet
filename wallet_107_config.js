@@ -1,1 +1,1 @@
-var mnemonic = "recall swear blur decline stable noise can mesh spider card discover angry";
+var mnemonic = "also situate tragic access review ranch tunnel orange practice dolphin swing fatigue";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn shove spike drop envelope squirrel hungry trade expect bench treat enough";
+var mnemonic = "virus plastic feel ozone ball legend pigeon solution flat measure laundry sail";

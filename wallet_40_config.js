@@ -1,1 +1,1 @@
-var mnemonic = "impact nose laugh worth please symptom quality immense return immense erode insect";
+var mnemonic = "confirm know burst have learn screen neutral focus menu chapter birth excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "shy gesture admit same net cheese wheel number aerobic frozen argue inject";
+var mnemonic = "dirt achieve twin sample price helmet scout dumb term fiction alpha abandon";

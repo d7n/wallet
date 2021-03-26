@@ -1,1 +1,1 @@
-var mnemonic = "link network east private noise anxiety interest rent voyage glimpse dilemma symbol";
+var mnemonic = "pioneer tumble boss imitate survey ability festival food tag runway manage random";

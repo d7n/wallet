@@ -1,1 +1,1 @@
-var mnemonic = "drama orchard wire between throw also potato lucky scene force dismiss bar";
+var mnemonic = "anchor area correct wait same enough prevent trust goat width crumble know";

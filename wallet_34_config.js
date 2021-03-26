@@ -1,1 +1,1 @@
-var mnemonic = "cable remind agree moral flock laptop federal attend license churn clog across";
+var mnemonic = "juice join swallow open tube force talent goat resource bar save into";

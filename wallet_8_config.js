@@ -1,1 +1,1 @@
-var mnemonic = "winner mom inflict grow proof asset term skirt another window flip slam";
+var mnemonic = "school churn tragic hockey violin below grain tuition toward royal width rotate";

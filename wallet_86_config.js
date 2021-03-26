@@ -1,1 +1,1 @@
-var mnemonic = "parade name vintage safe atom connect alien practice elephant enter decorate permit";
+var mnemonic = "harsh rate butter fancy aware fitness baby hurt company warm prosper ceiling";

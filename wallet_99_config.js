@@ -1,1 +1,1 @@
-var mnemonic = "hospital vanish gold various hockey boat author kid believe motor exact trap";
+var mnemonic = "about exercise visit jaguar pause forum funny wrap genius genius sudden across";

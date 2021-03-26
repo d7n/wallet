@@ -1,1 +1,1 @@
-var mnemonic = "room regular anger sound elevator harsh search arrive patient century symptom file";
+var mnemonic = "ahead latin panda uncover multiply sword energy remember other spell crumble crush";

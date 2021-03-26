@@ -1,1 +1,1 @@
-var mnemonic = "north clap crowd squirrel bind teach science remain usage stamp earth spoon";
+var mnemonic = "fire pottery drama sell word refuse nephew crane clerk chat various where";

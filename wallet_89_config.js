@@ -1,1 +1,1 @@
-var mnemonic = "now cause current wide solution midnight connect fire rebel raise before adult";
+var mnemonic = "matter hedgehog angle fine voice north pulse digital arm dwarf vapor wool";

@@ -1,1 +1,1 @@
-var mnemonic = "cook lake victory warm what remain where denial clump salute junk math";
+var mnemonic = "monkey excite resist myself tray absent layer couch metal asthma final sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble prosper rival injury spend enrich reform merit fabric slam magic ethics";
+var mnemonic = "large stool coach able laptop combine feature video crush cricket cupboard keen";
