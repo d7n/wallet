@@ -1,1 +1,1 @@
-var mnemonic = "trial draw dress absorb pass divide entry dog arrange exclude naive impose";
+var mnemonic = "lake viable saddle spoon hen update wrap board pear depart despair egg";

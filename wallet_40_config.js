@@ -1,1 +1,1 @@
-var mnemonic = "mammal elder mutual guide hurt client glare decorate people width bus leopard";
+var mnemonic = "tattoo spot require slide upset dwarf addict upper egg alcohol erase transfer";

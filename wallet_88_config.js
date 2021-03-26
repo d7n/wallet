@@ -1,1 +1,1 @@
-var mnemonic = "pottery route salmon adult slim neck ability noble give attract junk vehicle";
+var mnemonic = "pistol discover impulse century coffee food piece roof earth grief enlist ghost";

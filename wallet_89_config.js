@@ -1,1 +1,1 @@
-var mnemonic = "kiss text depth bright industry warfare parrot major seven target small error";
+var mnemonic = "tobacco extend visit need pioneer have type hunt horror lunar sign alley";

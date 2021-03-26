@@ -1,1 +1,1 @@
-var mnemonic = "alien tuition write regret bread paper clean quit dry virus permit twist";
+var mnemonic = "bone company talk tissue clay beyond assist smile grow spin betray sentence";

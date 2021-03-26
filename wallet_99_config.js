@@ -1,1 +1,1 @@
-var mnemonic = "wage benefit brass host kiss return bring fire blush waste sugar chalk";
+var mnemonic = "exhaust album execute balcony abstract poverty still advice gown lens napkin enable";

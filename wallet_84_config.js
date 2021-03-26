@@ -1,1 +1,1 @@
-var mnemonic = "inform news arrange hollow margin chase minimum episode emotion sponsor planet imitate";
+var mnemonic = "essay budget spice public indicate beauty camera index diary tool foil blossom";

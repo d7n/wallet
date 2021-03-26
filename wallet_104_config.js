@@ -1,1 +1,1 @@
-var mnemonic = "absurd certain code shoot brown glide upper heavy sort capital harbor icon";
+var mnemonic = "antenna nice grant slide erase flower settle must gasp clown foam seven";

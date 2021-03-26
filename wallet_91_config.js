@@ -1,1 +1,1 @@
-var mnemonic = "route shoot celery tribe panel method final spatial buddy scrub umbrella fortune";
+var mnemonic = "cotton road cargo album claw home secret dish minute check cruel valley";

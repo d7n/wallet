@@ -1,1 +1,1 @@
-var mnemonic = "picnic walk brass chest foster demand capital special alley infant hold antenna";
+var mnemonic = "ten electric stick follow napkin duck physical frown girl crystal elegant pig";

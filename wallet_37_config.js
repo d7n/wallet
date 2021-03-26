@@ -1,1 +1,1 @@
-var mnemonic = "renew notice visit nothing garlic mushroom actual oval trouble nature laptop allow";
+var mnemonic = "furnace vessel unlock absurd ski junk tumble whip hood claim express cinnamon";

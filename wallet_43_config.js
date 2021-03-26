@@ -1,1 +1,1 @@
-var mnemonic = "lion diary prosper river concert depend ketchup hurry trade turkey capital spawn";
+var mnemonic = "mutual garment cute torch cave unit nut puppy hunt fluid unusual maze";

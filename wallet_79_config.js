@@ -1,1 +1,1 @@
-var mnemonic = "come member diary thing swamp pair modify private account flash flight web";
+var mnemonic = "license hole pudding ball sphere under soup country attend again feature language";

@@ -1,1 +1,1 @@
-var mnemonic = "midnight drink mandate priority symptom beef thought kind swallow lottery vacuum cable";
+var mnemonic = "mechanic juice neck reward leave siege wait ecology ceiling tuition recipe blouse";

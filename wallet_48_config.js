@@ -1,1 +1,1 @@
-var mnemonic = "legend neck slab auction scorpion hen arrest rose decrease coach south ten";
+var mnemonic = "penalty lucky swamp arena acoustic scatter immune margin confirm boy forget universe";

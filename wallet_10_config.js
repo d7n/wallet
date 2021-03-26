@@ -1,1 +1,1 @@
-var mnemonic = "crystal vote finger layer idea fluid misery fury owner calm horse just";
+var mnemonic = "problem success badge live reject call list wrist coral lunch monkey become";

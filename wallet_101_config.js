@@ -1,1 +1,1 @@
-var mnemonic = "session dune claim exercise hero flight gadget obtain skin cost gasp attack";
+var mnemonic = "vault kitten alien mom slice ready circle tobacco pony child initial sort";

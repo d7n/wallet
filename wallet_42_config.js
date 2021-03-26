@@ -1,1 +1,1 @@
-var mnemonic = "matrix bench reward cycle pave gown people together void mystery vacuum limb";
+var mnemonic = "seminar scatter inch wine sugar grape zebra mistake develop rebel involve chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "course lava awful skull battle style wish weekend act feed birth visual";
+var mnemonic = "quality dizzy believe fee rare square strategy salmon mammal decide sound this";

@@ -1,1 +1,1 @@
-var mnemonic = "axis know cinnamon chat viable notable lawsuit ticket creek upon seat color";
+var mnemonic = "front paddle effort family alter prepare ranch park author jelly vital photo";

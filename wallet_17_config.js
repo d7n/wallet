@@ -1,1 +1,1 @@
-var mnemonic = "genre inspire sting shell insane barely mistake oven maid host process cage";
+var mnemonic = "alert express silent among first hand hope grow snow scrub quantum dwarf";

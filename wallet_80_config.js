@@ -1,1 +1,1 @@
-var mnemonic = "close broom normal provide romance nominee knife lecture can mixed domain armed";
+var mnemonic = "ranch vessel panda strike away pretty infant scene few arrive pudding virtual";

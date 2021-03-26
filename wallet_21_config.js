@@ -1,1 +1,1 @@
-var mnemonic = "raccoon message twice gossip country word loud saddle surface tone ugly favorite";
+var mnemonic = "judge elbow trap file trap uniform idea sentence tell flash kit patch";

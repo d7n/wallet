@@ -1,1 +1,1 @@
-var mnemonic = "bleak couple vacant wasp when strike talent crime bus vital exile fox";
+var mnemonic = "tiny milk describe couple impact innocent naive promote salute garlic napkin word";

@@ -1,1 +1,1 @@
-var mnemonic = "rifle lonely vital awkward gift firm blush suspect cart insect disorder window";
+var mnemonic = "denial start axis outer accuse logic similar ensure walnut two section lend";

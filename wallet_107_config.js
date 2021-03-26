@@ -1,1 +1,1 @@
-var mnemonic = "negative another unfold shove bachelor common frozen bring inquiry present purchase mansion";
+var mnemonic = "hybrid liberty theme gorilla wall idea dose maid glory suspect fault olympic";

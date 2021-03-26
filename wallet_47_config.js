@@ -1,1 +1,1 @@
-var mnemonic = "chronic protect shoulder above add impact arch rib useful endorse ladder dad";
+var mnemonic = "fade child harsh truth upset problem blast parade ticket angry mother will";

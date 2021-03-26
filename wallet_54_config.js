@@ -1,1 +1,1 @@
-var mnemonic = "mountain poet royal flower story pigeon endless level accuse another fresh fuel";
+var mnemonic = "scrub globe mail dog ranch usual salute clock swallow shuffle again behind";

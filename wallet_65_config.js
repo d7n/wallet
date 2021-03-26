@@ -1,1 +1,1 @@
-var mnemonic = "trade panda quantum flower object ice myself minimum use produce toss worth";
+var mnemonic = "cabin wait sun lazy staff soup high inflict journey decorate actual canyon";

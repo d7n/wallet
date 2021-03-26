@@ -1,1 +1,1 @@
-var mnemonic = "gate payment brass series reject rose winner clog crisp retire cluster weasel";
+var mnemonic = "dilemma idle asthma quiz gesture salt badge path height bid relax fluid";

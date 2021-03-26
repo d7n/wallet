@@ -1,1 +1,1 @@
-var mnemonic = "ski wife kiss beach leave move suggest typical about they park hungry";
+var mnemonic = "toast ivory brass warm breeze truth another absent night table ball celery";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle lamp right end sign toss rally link rain upset eager harvest";
+var mnemonic = "need assume layer great deny spider shy lecture inside reason cloud travel";

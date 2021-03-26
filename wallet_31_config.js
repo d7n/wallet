@@ -1,1 +1,1 @@
-var mnemonic = "potato fame valve have moment cup roof jelly vessel item upset deer";
+var mnemonic = "aim life bar enemy warm travel industry milk champion very random easy";

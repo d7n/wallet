@@ -1,1 +1,1 @@
-var mnemonic = "random only arrange gasp lizard van worry force repeat hello champion faith";
+var mnemonic = "margin shock glass brand snack excite raw ramp attract tomato manage cushion";

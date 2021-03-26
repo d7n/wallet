@@ -1,1 +1,1 @@
-var mnemonic = "soccer near hire version front siege capable donate mail treat detail monitor";
+var mnemonic = "reduce mandate quantum lunar exchange gadget sketch floor food crucial license glue";

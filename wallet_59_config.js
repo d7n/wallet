@@ -1,1 +1,1 @@
-var mnemonic = "express can candy debate divide shoulder hundred lonely sell vacuum clarify bright";
+var mnemonic = "exact lawn rural coin misery gospel liberty novel glue milk globe welcome";

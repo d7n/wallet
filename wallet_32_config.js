@@ -1,1 +1,1 @@
-var mnemonic = "cigar imitate medal series gallery balance since tomorrow sad argue shrimp story";
+var mnemonic = "laugh coral long clerk advice relax region envelope faculty assist peasant cereal";

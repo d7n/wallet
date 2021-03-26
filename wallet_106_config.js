@@ -1,1 +1,1 @@
-var mnemonic = "unable bonus still solve grief wave uniform swing chief suspect legal major";
+var mnemonic = "suggest post stock three traffic target era season wet asthma private catalog";

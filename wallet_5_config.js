@@ -1,1 +1,1 @@
-var mnemonic = "celery portion erase please possible divorce chunk swamp proof spin armor total";
+var mnemonic = "banner neglect tonight ride tennis gate engine hope sleep group tackle erode";

@@ -1,1 +1,1 @@
-var mnemonic = "shell armor census island slogan just water tribe chase narrow marble slam";
+var mnemonic = "vanish actress world smart super vacuum survey fabric rubber yellow spray spike";

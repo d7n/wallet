@@ -1,1 +1,1 @@
-var mnemonic = "cotton drift affair neglect silent turkey also lab hobby object quote print";
+var mnemonic = "immense volume pig spy gap label fitness action bitter impulse shoot jump";

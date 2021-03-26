@@ -1,1 +1,1 @@
-var mnemonic = "auction bulk fold magic stem keep multiply feel much rocket salt copy";
+var mnemonic = "happy figure motor symptom foot rose element use another drastic chronic divide";

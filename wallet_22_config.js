@@ -1,1 +1,1 @@
-var mnemonic = "regret trip company process twin ripple shield chief also text license crouch";
+var mnemonic = "hunt resist radio arrest noodle level weird candy practice wreck tribe liberty";

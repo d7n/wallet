@@ -1,1 +1,1 @@
-var mnemonic = "return unaware glow level pigeon fold license use orphan parade exercise border";
+var mnemonic = "search minor cable garden cat sing artist climb dolphin note business solar";

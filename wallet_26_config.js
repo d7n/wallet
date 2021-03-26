@@ -1,1 +1,1 @@
-var mnemonic = "gossip subject twist black provide damp attend wasp amused hover neither cupboard";
+var mnemonic = "sword young vehicle smile pull crunch need valley casual parent hurdle invite";

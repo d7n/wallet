@@ -1,1 +1,1 @@
-var mnemonic = "neutral bench middle neutral forward unique card come mention coil fiber favorite";
+var mnemonic = "harsh chapter front dirt donkey more outdoor risk harsh valley panda eyebrow";

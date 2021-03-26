@@ -1,1 +1,1 @@
-var mnemonic = "lab used very drop west field steel order apology when save monkey";
+var mnemonic = "must strategy boss detail unknown property sight inherit absurd panda reason obey";

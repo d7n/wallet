@@ -1,1 +1,1 @@
-var mnemonic = "erode man holiday spider lend between keen exhaust loud gallery inject prize";
+var mnemonic = "photo cousin fly leave brick screen shy flat lonely witness six tonight";

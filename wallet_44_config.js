@@ -1,1 +1,1 @@
-var mnemonic = "eternal mad moral water satisfy use wine sell grab strike steel medal";
+var mnemonic = "demise chalk term stick mail ripple wise mass mule flip buffalo human";

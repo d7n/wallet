@@ -1,1 +1,1 @@
-var mnemonic = "floor work thought win near boat junk decline robust outer bar cup";
+var mnemonic = "equip damage beyond echo radio advance pause fire wide pond clip away";

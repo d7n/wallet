@@ -1,1 +1,1 @@
-var mnemonic = "neutral scheme capable hello wool rabbit patch mule arctic proof essay daring";
+var mnemonic = "cram spread try pony minimum canvas pair receive blush chalk burst stay";

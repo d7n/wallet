@@ -1,1 +1,1 @@
-var mnemonic = "glide south delay alpha tomato dry detail devote glance secret boost hurry";
+var mnemonic = "worry video miss rural point effort comfort super clean document candy document";

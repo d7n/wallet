@@ -1,1 +1,1 @@
-var mnemonic = "general father valid develop medal segment wise patch resource recipe route steel";
+var mnemonic = "before conduct noodle burger fun palm nurse kind famous mule rain similar";

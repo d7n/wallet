@@ -1,1 +1,1 @@
-var mnemonic = "write climb reason shine camera what snake ginger kingdom clump poem trumpet";
+var mnemonic = "piece menu clown square timber uncover foam august damage unfair pride beach";

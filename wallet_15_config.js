@@ -1,1 +1,1 @@
-var mnemonic = "goddess jungle bright race useful giraffe lens mean couple give network prevent";
+var mnemonic = "size swim useful era slow media dust private balcony carbon myth ritual";

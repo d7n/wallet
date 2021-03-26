@@ -1,1 +1,1 @@
-var mnemonic = "age quick mother input coral tube weird someone resource seven vast flush";
+var mnemonic = "gas put small crisp valve spider forum february swamp fever science fresh";

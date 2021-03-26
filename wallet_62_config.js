@@ -1,1 +1,1 @@
-var mnemonic = "sea wreck girl walk monster equal need bracket riot turkey boil leisure";
+var mnemonic = "leopard duck mobile trigger unable cushion split wait volcano pilot snap mother";

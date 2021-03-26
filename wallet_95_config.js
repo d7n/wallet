@@ -1,1 +1,1 @@
-var mnemonic = "earth tortoise cloud merge tribe inmate favorite lizard practice popular exit squeeze";
+var mnemonic = "culture barrel survey expect brief pupil shell cattle chef number glass plunge";

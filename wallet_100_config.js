@@ -1,1 +1,1 @@
-var mnemonic = "project toy happy work push lion bean trigger ridge total museum ask";
+var mnemonic = "unveil pistol swing opera page butter ivory yard scorpion enrich year earth";

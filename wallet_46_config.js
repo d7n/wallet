@@ -1,1 +1,1 @@
-var mnemonic = "exit west gas screen grab crater initial another hotel practice stool quantum";
+var mnemonic = "vital tragic lamp improve regular fury scout faith report certain illness bread";

@@ -1,1 +1,1 @@
-var mnemonic = "arrest panda enemy when phone secret execute flower push daughter raven bid";
+var mnemonic = "purse lobster guess wire vocal range taxi merge horse sick physical kick";

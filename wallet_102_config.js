@@ -1,1 +1,1 @@
-var mnemonic = "long erosion cliff wool decide cute clever direct parent job scare sphere";
+var mnemonic = "asthma figure bench abuse device time thumb latin buffalo derive depart hip";

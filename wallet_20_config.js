@@ -1,1 +1,1 @@
-var mnemonic = "menu wheel subway stick chapter engine lazy weasel rely tragic seek fly";
+var mnemonic = "civil enhance lava ten remain rate where cement pattern canal obtain cage";

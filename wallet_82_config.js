@@ -1,1 +1,1 @@
-var mnemonic = "snow leave final miss develop organ depend sing portion deposit illegal cruel";
+var mnemonic = "always normal lens hurdle mango lobster amazing brown skirt swift analyst exit";

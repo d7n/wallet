@@ -1,1 +1,1 @@
-var mnemonic = "reason snack acoustic culture gadget mechanic camera broom story business energy seven";
+var mnemonic = "female little fury enact miss where gentle unveil cement toy present cart";

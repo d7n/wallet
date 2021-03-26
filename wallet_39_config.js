@@ -1,1 +1,1 @@
-var mnemonic = "snake acid evil other margin orbit security tuna theory oil ten whip";
+var mnemonic = "bounce museum chaos blouse shoulder shadow smooth small shadow record grain fee";

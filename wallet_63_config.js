@@ -1,1 +1,1 @@
-var mnemonic = "mom flip shop media industry cry sketch arctic wing divide hero rigid";
+var mnemonic = "then dawn seek tray file pitch frost smoke mixed odor letter lion";

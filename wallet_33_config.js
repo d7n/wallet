@@ -1,1 +1,1 @@
-var mnemonic = "suit toilet melody canyon flight orchard hybrid fish goat token pool ankle";
+var mnemonic = "put lazy much school scorpion relax raven demand subway client label cheese";

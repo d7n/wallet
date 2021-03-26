@@ -1,1 +1,1 @@
-var mnemonic = "design kick boring force perfect eagle nerve path hope neither evidence noodle";
+var mnemonic = "six subway soup front belt exit spawn ritual sound beyond december outside";

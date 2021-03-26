@@ -1,1 +1,1 @@
-var mnemonic = "jump upgrade derive charge vague club juice firm pizza inch guitar track";
+var mnemonic = "snack dice pill scan ordinary toilet flame farm cushion vessel crop lava";

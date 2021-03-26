@@ -1,1 +1,1 @@
-var mnemonic = "disorder grass slot van stereo off clown cushion give oak diamond join";
+var mnemonic = "turkey tongue garage bundle gym scrap trophy volcano benefit stove oyster riot";

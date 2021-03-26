@@ -1,1 +1,1 @@
-var mnemonic = "tourist evil rough hat confirm marriage blame tail crater dutch shuffle impulse";
+var mnemonic = "marine dice beyond basket edge since come palm cable marine modify rude";

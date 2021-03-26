@@ -1,1 +1,1 @@
-var mnemonic = "amazing resemble monster glimpse spatial quick spike spin park friend math expire";
+var mnemonic = "park popular taxi foster absorb spoon warfare hint various fossil exit floor";

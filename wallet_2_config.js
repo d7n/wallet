@@ -1,1 +1,1 @@
-var mnemonic = "monitor snack myth right share surface skin embrace warfare oyster ostrich once";
+var mnemonic = "boat brick abuse claim during apart choose rude illegal sketch wrestle tell";

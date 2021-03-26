@@ -1,1 +1,1 @@
-var mnemonic = "wreck lonely range machine reason swim traffic hold coin garage rival expire";
+var mnemonic = "outdoor warfare uncover basket forest office genre liquid sign smart parade chicken";

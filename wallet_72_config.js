@@ -1,1 +1,1 @@
-var mnemonic = "piano lottery bridge basic staff donkey pioneer syrup lecture brain capable flat";
+var mnemonic = "pole brick scene rebel visa broom minimum food south chapter pledge mercy";

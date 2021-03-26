@@ -1,1 +1,1 @@
-var mnemonic = "spot patient evoke town excess this lesson diary electric frame pupil train";
+var mnemonic = "quiz gun dad total nut diet spatial harvest alien solid wait cannon";

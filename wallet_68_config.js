@@ -1,1 +1,1 @@
-var mnemonic = "monkey slender neutral basket east host knee obvious mad empower country snack";
+var mnemonic = "scrub wrap love visit topple spray soccer buddy news couple habit someone";

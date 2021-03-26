@@ -1,1 +1,1 @@
-var mnemonic = "corn eagle abstract pencil valley deer common uncover few pill rose equip";
+var mnemonic = "visual elevator airport luggage clog gorilla toward impose clinic impulse kick inspire";

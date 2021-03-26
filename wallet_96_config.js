@@ -1,1 +1,1 @@
-var mnemonic = "arm expire ginger bone library measure trigger harsh cancel topple faint response";
+var mnemonic = "despair that wealth trust leopard million device receive around float climb deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "owner spray judge relax ankle potato guide erase daring axis giggle stove";
+var mnemonic = "output foam cricket cream sister beach today eternal thumb cool define battle";

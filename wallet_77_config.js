@@ -1,1 +1,1 @@
-var mnemonic = "merry negative drive anger load boy wash crystal dove buddy endless cruel";
+var mnemonic = "clever bench glue image swarm coil world process envelope relax imitate word";

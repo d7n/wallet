@@ -1,1 +1,1 @@
-var mnemonic = "worth inspire monster rose merge rocket paddle endorse vintage lunar celery praise";
+var mnemonic = "universe capable evoke hire nerve humble lounge churn bright check sure guard";

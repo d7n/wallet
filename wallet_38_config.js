@@ -1,1 +1,1 @@
-var mnemonic = "find foster bus obvious monkey moon jacket second number jump save collect";
+var mnemonic = "sausage pact kitchen water toe save inhale toward flip need put garden";

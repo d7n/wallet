@@ -1,1 +1,1 @@
-var mnemonic = "stool coyote submit lounge world remind own busy second occur pave pitch";
+var mnemonic = "picture jar seed know now enemy party forum quit battle cave plate";

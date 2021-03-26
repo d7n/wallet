@@ -1,1 +1,1 @@
-var mnemonic = "crowd table horn snow melt science tackle fatal original antique curtain thing";
+var mnemonic = "spell need limb repair argue fancy bullet hurt clean barrel obscure scale";

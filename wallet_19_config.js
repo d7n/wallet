@@ -1,1 +1,1 @@
-var mnemonic = "elegant latin today milk cattle ethics canal same build exclude warm push";
+var mnemonic = "push liberty box syrup dinosaur little jungle jewel useless feature blouse teach";

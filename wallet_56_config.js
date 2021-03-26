@@ -1,1 +1,1 @@
-var mnemonic = "text maid raw photo spike doctor dog flight detect enlist elite seek";
+var mnemonic = "cannon gloom rule bind spoil oak design run panel achieve regret olive";

@@ -1,1 +1,1 @@
-var mnemonic = "surround census fan stereo honey physical unit segment fine spoon erupt cheese";
+var mnemonic = "accident ahead idea faint wealth friend elbow regret erase people horn motion";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen abstract volume hurdle rescue sunny rookie wire armor dragon sun march";
+var mnemonic = "secret flight find apart awful trouble stand lady immune effort goddess song";

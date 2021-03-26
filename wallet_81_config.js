@@ -1,1 +1,1 @@
-var mnemonic = "render possible common normal winter ramp weather husband bench body music lesson";
+var mnemonic = "arrest leg express connect thought immune identify chuckle dune bounce token license";

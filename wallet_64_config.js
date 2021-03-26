@@ -1,1 +1,1 @@
-var mnemonic = "million unlock message normal grace spike exclude aunt envelope source symptom blur";
+var mnemonic = "bird canal choice waste behave insane labor cram main hill country disease";

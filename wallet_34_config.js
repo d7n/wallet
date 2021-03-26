@@ -1,1 +1,1 @@
-var mnemonic = "laundry green unit still chronic embody giggle whisper bundle crunch parrot aim";
+var mnemonic = "famous employ share pupil symbol giggle dragon retreat shell where account tide";

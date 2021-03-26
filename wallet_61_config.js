@@ -1,1 +1,1 @@
-var mnemonic = "broken sell mention pencil slab dawn image mixed energy regret response treat";
+var mnemonic = "heavy tilt grunt sell remain title birth keep hero price shove draw";

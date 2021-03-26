@@ -1,1 +1,1 @@
-var mnemonic = "arch street soft almost spice curious verify enlist milk fly bundle garage";
+var mnemonic = "lucky aunt humble vacuum tunnel almost worry grant embody hollow eight tray";

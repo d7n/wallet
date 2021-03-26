@@ -1,1 +1,1 @@
-var mnemonic = "debate gesture describe slush tongue burger buyer spatial useful music finger emotion";
+var mnemonic = "other torch rebel brief spoil hand worth obey result interest siege hood";
