@@ -1,1 +1,1 @@
-var mnemonic = "stick limb produce badge grass fiber term project deputy pig six peace";
+var mnemonic = "nurse pioneer flame wire baby crash again cool fee curtain transfer dish";

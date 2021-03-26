@@ -1,1 +1,1 @@
-var mnemonic = "essence alter happy brisk daring stadium broom kite click retire rifle wink";
+var mnemonic = "alert song moment beyond neck attract write wrap gallery pride layer note";

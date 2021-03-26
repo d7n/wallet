@@ -1,1 +1,1 @@
-var mnemonic = "copy grab hamster scale shop kind spare shaft wedding essence oblige street";
+var mnemonic = "mansion toddler oak property smile dream color fiber attitude junk taxi mesh";

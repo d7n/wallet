@@ -1,1 +1,1 @@
-var mnemonic = "farm caution address keep ramp lesson curious weapon dice wheel peanut armed";
+var mnemonic = "panic struggle spray arm invest start program heavy shuffle appear tonight series";

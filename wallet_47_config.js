@@ -1,1 +1,1 @@
-var mnemonic = "tissue render orphan logic excess hungry fun color office broom milk loop";
+var mnemonic = "behave choice spare egg apology jar index like title person timber cheap";

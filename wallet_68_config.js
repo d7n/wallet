@@ -1,1 +1,1 @@
-var mnemonic = "soda reject price side shock galaxy cost toy leg tobacco drift double";
+var mnemonic = "lady tortoise wolf seek again inquiry ketchup cupboard fiber debris adapt render";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze brave welcome birth used spike mammal above improve soon zebra list";
+var mnemonic = "drastic announce piece among jacket coyote any legend spawn purse evil ticket";

@@ -1,1 +1,1 @@
-var mnemonic = "waste win learn filter wall grow home neither prevent defense farm program";
+var mnemonic = "motor effort recipe path test amateur tissue defense cake oxygen upset rough";

@@ -1,1 +1,1 @@
-var mnemonic = "impose million salad weekend warfare truck twin ugly vital forest calm laptop";
+var mnemonic = "crazy amount annual dinosaur castle torch talent topple since special require flush";

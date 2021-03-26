@@ -1,1 +1,1 @@
-var mnemonic = "paddle brick resource hire foam time account mother text lock luxury police";
+var mnemonic = "census convince curve mansion travel solid become equal hood arrow sick barrel";

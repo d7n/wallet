@@ -1,1 +1,1 @@
-var mnemonic = "curtain lottery auction ripple will champion balance gap beach cause trim enable";
+var mnemonic = "stomach together strategy degree alert dumb broccoli rich cannon differ august clutch";

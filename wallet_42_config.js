@@ -1,1 +1,1 @@
-var mnemonic = "tragic case guess pulp save lumber visual hungry calm indicate relief entry";
+var mnemonic = "aim lobster trash famous foster bronze rapid nerve fire evil cushion will";

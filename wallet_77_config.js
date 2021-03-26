@@ -1,1 +1,1 @@
-var mnemonic = "garbage toe saddle split traffic power predict tragic exchange similar half beyond";
+var mnemonic = "dinosaur deny diamond moment parent pioneer bomb ring ugly south example interest";

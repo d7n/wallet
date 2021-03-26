@@ -1,1 +1,1 @@
-var mnemonic = "tunnel swear three knock bronze expire decrease fun dial person win relief";
+var mnemonic = "mask sorry collect cricket system run inspire father clerk isolate piece sort";

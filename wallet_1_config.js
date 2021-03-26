@@ -1,1 +1,1 @@
-var mnemonic = "west electric celery hundred company pretty travel ill test destroy witness isolate";
+var mnemonic = "dutch burst convince dutch tumble eagle garden benefit coyote surface venue tell";

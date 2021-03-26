@@ -1,1 +1,1 @@
-var mnemonic = "reduce earn head cloth course found negative caught rubber dream hero avoid";
+var mnemonic = "dwarf loop love liar release usual rate tiger avoid ensure daughter plastic";

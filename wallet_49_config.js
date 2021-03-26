@@ -1,1 +1,1 @@
-var mnemonic = "narrow pen scheme arrest gain stamp expect meat minor dolphin cube piece";
+var mnemonic = "sting victory list unhappy short faculty move travel dwarf indicate bonus key";

@@ -1,1 +1,1 @@
-var mnemonic = "soap path violin sting citizen horror route duty anxiety bubble tuna load";
+var mnemonic = "pupil audit rule between story mango sense inner sure comfort quality subway";

@@ -1,1 +1,1 @@
-var mnemonic = "forum into math exact six baby gate filter brand left vibrant lab";
+var mnemonic = "deliver sea then suggest culture blast void modify pluck confirm phrase vague";

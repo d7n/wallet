@@ -1,1 +1,1 @@
-var mnemonic = "range sea security dumb when strategy ahead snake cost price oval dwarf";
+var mnemonic = "spread carpet raise develop forward atom like appear they peanut dose arrow";

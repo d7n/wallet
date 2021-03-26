@@ -1,1 +1,1 @@
-var mnemonic = "cattle deliver grunt child social slogan fiber rail ritual typical rocket legend";
+var mnemonic = "elite month velvet account joke scorpion rather kiwi disorder shallow verify media";

@@ -1,1 +1,1 @@
-var mnemonic = "pitch jar shock horror fire inherit like weapon wave emotion abuse rail";
+var mnemonic = "modify universe embody slide rhythm what fuel retire fog trip occur figure";

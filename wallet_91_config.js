@@ -1,1 +1,1 @@
-var mnemonic = "mandate estate hole please match similar tomorrow awful web live hunt special";
+var mnemonic = "artefact neck habit human word anxiety thought simple language truck bullet describe";

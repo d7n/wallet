@@ -1,1 +1,1 @@
-var mnemonic = "large tag guide venture volume race middle guard clog broccoli afraid cost";
+var mnemonic = "hire cable remain cancel enemy ball nothing age icon control surface feature";

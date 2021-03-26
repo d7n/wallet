@@ -1,1 +1,1 @@
-var mnemonic = "nose digital risk antique tide recall order put lecture road hill forest";
+var mnemonic = "crystal core village ancient clarify place frown move company umbrella stock promote";

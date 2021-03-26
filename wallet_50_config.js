@@ -1,1 +1,1 @@
-var mnemonic = "model pioneer ketchup drastic nurse frame effort inside garment acquire benefit daughter";
+var mnemonic = "trim speak ripple fog ahead punch budget walnut coconut letter light shed";

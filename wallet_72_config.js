@@ -1,1 +1,1 @@
-var mnemonic = "flame parent cigar mango afford fatigue plunge industry fringe furnace web inform";
+var mnemonic = "maid all network engine arrest reopen perfect rebuild december gossip space curve";

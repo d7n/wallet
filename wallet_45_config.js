@@ -1,1 +1,1 @@
-var mnemonic = "angry plug knife strike reward drop virus rapid album vague blame universe";
+var mnemonic = "exclude front stem cigar clever pioneer merry divert video cruise mean state";

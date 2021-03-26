@@ -1,1 +1,1 @@
-var mnemonic = "peace prize physical couch donor dust sugar liar swing sword airport mystery";
+var mnemonic = "begin buddy evil shy flag trash dial never around climb solar observe";

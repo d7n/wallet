@@ -1,1 +1,1 @@
-var mnemonic = "network evil solid demise youth rigid april glow seed vicious enact lesson";
+var mnemonic = "resist message motion clarify slogan tower athlete rare clog wild melt ocean";

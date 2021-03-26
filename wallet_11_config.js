@@ -1,1 +1,1 @@
-var mnemonic = "one devote season uncle differ walk naive anger market spike behave illness";
+var mnemonic = "burger monitor approve ozone purchase patch list cherry fun regular flash glass";

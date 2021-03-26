@@ -1,1 +1,1 @@
-var mnemonic = "assume coil renew utility flock once chunk laptop hobby question theme initial";
+var mnemonic = "describe trophy sick miracle kiss noodle base bracket lunar shift junk tooth";

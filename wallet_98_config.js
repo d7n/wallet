@@ -1,1 +1,1 @@
-var mnemonic = "vehicle earn again photo social rent cotton inherit wink voice grit april";
+var mnemonic = "toilet album easily exclude smart brass marine nerve hip skin punch motion";

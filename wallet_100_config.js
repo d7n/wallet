@@ -1,1 +1,1 @@
-var mnemonic = "rebuild wire flush hole super pair lawn crazy kiwi solid exist wink";
+var mnemonic = "oblige world priority office toss notable pair route priority clean choose twenty";

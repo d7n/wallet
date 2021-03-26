@@ -1,1 +1,1 @@
-var mnemonic = "matter exercise print gift develop palm poet screen plate opera taxi glad";
+var mnemonic = "tide couch front front chunk woman cart castle hour olive bargain ketchup";

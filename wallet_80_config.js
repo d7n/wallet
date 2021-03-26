@@ -1,1 +1,1 @@
-var mnemonic = "force aspect nest fix debris notice possible bundle cactus job run scrub";
+var mnemonic = "tribe nut patient victory major armed sort guess aim gym undo traffic";

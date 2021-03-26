@@ -1,1 +1,1 @@
-var mnemonic = "focus egg axis actress father legal desk crime scrap long another fame";
+var mnemonic = "frost always faith apart glow melody screen sausage home spread lava glad";

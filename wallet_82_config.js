@@ -1,1 +1,1 @@
-var mnemonic = "boil happy develop aerobic lottery napkin comfort kick never humble distance since";
+var mnemonic = "powder mouse fat attitude horror panic fatal garden uncover bread radar matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "income claim icon labor orange actor duck bicycle help perfect creek cereal";
+var mnemonic = "smooth grant inject gossip together gas strong captain grid shoot impose accuse";

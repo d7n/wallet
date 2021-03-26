@@ -1,1 +1,1 @@
-var mnemonic = "bless brand polar mushroom begin crash news sea sort wear consider duck";
+var mnemonic = "sense useful able regular response kid wolf swear loyal walk sister payment";

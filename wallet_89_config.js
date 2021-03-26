@@ -1,1 +1,1 @@
-var mnemonic = "inch express finger salon skill evil monkey achieve rice solid sleep auto";
+var mnemonic = "intact heavy arctic accident consider dinosaur there you melody twelve already pole";

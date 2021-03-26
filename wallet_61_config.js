@@ -1,1 +1,1 @@
-var mnemonic = "zero pole asset firm great squeeze man venue avocado tortoise stereo margin";
+var mnemonic = "pass sausage veteran you system boat example robust doctor jacket salmon price";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot lift giraffe bitter mother record solution present vital leisure brain tomato";
+var mnemonic = "chalk scatter spatial spin unit candy surprise ahead second subway hedgehog elder";

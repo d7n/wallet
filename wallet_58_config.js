@@ -1,1 +1,1 @@
-var mnemonic = "organ vanish neither sting outer gift grape best mandate giggle muffin wine";
+var mnemonic = "ocean armed rare mixed jewel lunar unfold sand high canvas essence gather";

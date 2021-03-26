@@ -1,1 +1,1 @@
-var mnemonic = "attack bronze injury fee follow kitchen whisper adjust shed rug vague art";
+var mnemonic = "whale long enrich oval fabric fan uniform black inmate miracle whip window";

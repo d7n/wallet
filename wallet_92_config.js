@@ -1,1 +1,1 @@
-var mnemonic = "moral sense shrug name tomorrow giant velvet kiwi spike perfect kingdom piano";
+var mnemonic = "chief across copy vote obtain exact rent legal bag latin lonely team";

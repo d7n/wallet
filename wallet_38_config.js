@@ -1,1 +1,1 @@
-var mnemonic = "lucky tube denial unaware double silk cabin hazard level credit disorder spring";
+var mnemonic = "inquiry peanut december flight humor mutual yard mesh gather palm peanut van";

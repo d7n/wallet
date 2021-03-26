@@ -1,1 +1,1 @@
-var mnemonic = "ostrich soul before gather gap blast leisure clap wall trade fiction message";
+var mnemonic = "misery piece almost ship rice error image odor equal expose cost romance";

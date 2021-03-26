@@ -1,1 +1,1 @@
-var mnemonic = "you venue cinnamon seat ketchup bag soft must sing album firm urge";
+var mnemonic = "floor arrest brief click equip mule dismiss spoil census people panther number";

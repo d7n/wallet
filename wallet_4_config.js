@@ -1,1 +1,1 @@
-var mnemonic = "speed illegal palm miracle enact deal aware surge author special poem vast";
+var mnemonic = "liquid fire cattle evolve kid bless remember peace cupboard fatal recipe coast";

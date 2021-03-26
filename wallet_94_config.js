@@ -1,1 +1,1 @@
-var mnemonic = "resist monitor pool first luggage walk scene rib inherit hover hurt know";
+var mnemonic = "live energy antenna basket parade detect forum tooth labor pride hard abandon";

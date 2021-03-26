@@ -1,1 +1,1 @@
-var mnemonic = "tape palace resemble chuckle learn alone pool sunset cotton salmon attitude pioneer";
+var mnemonic = "wide puzzle infant drastic eager turtle shaft upper fresh avoid dad easily";

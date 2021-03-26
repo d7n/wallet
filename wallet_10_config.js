@@ -1,1 +1,1 @@
-var mnemonic = "muffin child where scorpion mushroom private power journey inherit rebuild hope forest";
+var mnemonic = "celery dumb victory achieve lonely never property push depend guide success just";

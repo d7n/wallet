@@ -1,1 +1,1 @@
-var mnemonic = "wrist license latin supreme scale census shift wheat screen practice brain artwork";
+var mnemonic = "hour exchange pledge excuse time describe surprise index vocal still ice clap";

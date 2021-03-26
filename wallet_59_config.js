@@ -1,1 +1,1 @@
-var mnemonic = "perfect theme bomb code siege drama oven fruit juice zoo firm poem";
+var mnemonic = "name shield analyst sorry caution fluid jaguar raccoon alter tone tomorrow hedgehog";

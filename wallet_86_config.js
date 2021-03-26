@@ -1,1 +1,1 @@
-var mnemonic = "adjust expect curious always quote tube whip rival net merry vague exercise";
+var mnemonic = "company accuse shop play dumb vast liquid next fog member tornado flush";

@@ -1,1 +1,1 @@
-var mnemonic = "tired tumble raccoon plate height index ice knee cactus chaos hobby spy";
+var mnemonic = "rapid abandon gloom fee legend point minimum able change discover bundle slab";

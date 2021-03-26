@@ -1,1 +1,1 @@
-var mnemonic = "gasp sort stool tennis guide boost powder group gown sign adapt enough";
+var mnemonic = "tiny magnet nut arrive find express snow hurt crystal debate twice merge";

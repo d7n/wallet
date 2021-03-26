@@ -1,1 +1,1 @@
-var mnemonic = "van nasty target hire type gun zero oblige sadness beyond position badge";
+var mnemonic = "fringe junior pumpkin inhale like basic tent uniform odor palm cereal cheap";

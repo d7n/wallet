@@ -1,1 +1,1 @@
-var mnemonic = "engage exhaust retreat female armor suffer lend tissue cancel wise walnut skate";
+var mnemonic = "cruise off enter squeeze warfare clown recall token tuna salad peanut immense";

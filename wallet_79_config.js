@@ -1,1 +1,1 @@
-var mnemonic = "vintage drama else asset flock oval gold south much certain miss stereo";
+var mnemonic = "bicycle six stairs viable farm grace find real know ethics wish pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "hole caution liquid improve brass cheap puzzle gadget web nothing riot cricket";
+var mnemonic = "soup gesture defense blade unaware jazz track symbol combine wood wealth lab";

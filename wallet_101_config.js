@@ -1,1 +1,1 @@
-var mnemonic = "direct glove whip camp caution april frame garlic cup pepper faith tip";
+var mnemonic = "traffic sorry snake cluster hand frost guide alert vocal inmate clip auction";

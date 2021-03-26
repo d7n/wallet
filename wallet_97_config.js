@@ -1,1 +1,1 @@
-var mnemonic = "post grocery grain brave wrong alert uncle topple vendor boil rule light";
+var mnemonic = "frequent series tooth cement teach sauce toss august game vendor shield annual";

@@ -1,1 +1,1 @@
-var mnemonic = "entire talk team license answer segment humor vote acid monkey coil pulp";
+var mnemonic = "travel clutch reform slide slot purity arrest endless general arm bag afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "pet expose zoo inquiry ahead pulp say model vault staff fury knock";
+var mnemonic = "ring love orchard quantum sand attract pear stable net alley eager suffer";

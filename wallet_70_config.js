@@ -1,1 +1,1 @@
-var mnemonic = "wage melody pink sword icon cabin have elbow run obvious recycle pretty";
+var mnemonic = "lemon jungle smooth alone retire cigar length room weapon wolf task bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "nut tip strong ship material diamond remove useless shy order throw lady";
+var mnemonic = "half office frog range quote cattle wonder shy broccoli burst bright dinosaur";

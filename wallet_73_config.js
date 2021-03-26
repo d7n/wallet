@@ -1,1 +1,1 @@
-var mnemonic = "wine patient crowd rose sponsor skin notice mention van lake level vacuum";
+var mnemonic = "stomach gain alter boost logic manage property paddle board rebuild radio join";

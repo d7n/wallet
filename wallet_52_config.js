@@ -1,1 +1,1 @@
-var mnemonic = "able hospital affair attend stomach battle embody help alone pair october load";
+var mnemonic = "simple labor ozone slam develop wire gate raw manage tonight hen oak";

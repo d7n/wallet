@@ -1,1 +1,1 @@
-var mnemonic = "supply fall sweet forest ethics steel check clock length way rich hospital";
+var mnemonic = "pretty trend diamond behave brick liar bunker raccoon drama vehicle among response";

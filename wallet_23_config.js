@@ -1,1 +1,1 @@
-var mnemonic = "build minute already ill tip eagle blood observe cry across engage mesh";
+var mnemonic = "correct blouse helmet change trim fire remind position lizard wide review uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal joy stable hunt only question soft ocean destroy fatal broken spawn";
+var mnemonic = "mad neck hair stage slice turtle define budget music interest hamster plunge";

@@ -1,1 +1,1 @@
-var mnemonic = "control power shoot body stick tool into fabric raven shaft outer mirror";
+var mnemonic = "improve guitar elephant lake run mansion must cannon invest elephant jewel choice";

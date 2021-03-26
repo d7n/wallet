@@ -1,1 +1,1 @@
-var mnemonic = "school radio gesture melt hollow enemy dose purchase impulse health icon wool";
+var mnemonic = "engage bid have food cover release fall rookie sand spray diet project";

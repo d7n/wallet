@@ -1,1 +1,1 @@
-var mnemonic = "load wrist honey urge amount wrist tumble skate sister spring slot include";
+var mnemonic = "talent steak rug good funny special same cool denial abstract derive shell";

@@ -1,1 +1,1 @@
-var mnemonic = "over ridge trade capital slender pool hollow train crater resemble coast vocal";
+var mnemonic = "joke field object busy quantum mushroom unhappy rotate skirt uniform body twice";

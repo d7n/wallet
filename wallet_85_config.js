@@ -1,1 +1,1 @@
-var mnemonic = "salute panic unknown cheese pony demand resist gaze demise bleak duty law";
+var mnemonic = "bread exact property figure jewel render grocery entire project strong luggage select";

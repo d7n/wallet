@@ -1,1 +1,1 @@
-var mnemonic = "banner impose view solution same hole drum impact treat deny wise north";
+var mnemonic = "wife shell blue coffee close act hospital buddy piano deposit method bounce";

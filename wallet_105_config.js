@@ -1,1 +1,1 @@
-var mnemonic = "stumble uphold cousin junior globe olive crunch van meat network chest obtain";
+var mnemonic = "tuition legal curve truck enough report dinosaur gadget romance budget message transfer";

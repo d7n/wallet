@@ -1,1 +1,1 @@
-var mnemonic = "route unusual novel tower artist shock inject jealous sting window long exit";
+var mnemonic = "airport napkin horror limb inspire crack always favorite injury deposit burst solid";

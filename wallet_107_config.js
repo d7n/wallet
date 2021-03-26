@@ -1,1 +1,1 @@
-var mnemonic = "ecology usual pave anger embody reveal fatigue safe inhale above slender say";
+var mnemonic = "outside three unit alcohol swear sign strong gas clog maximum nephew exit";

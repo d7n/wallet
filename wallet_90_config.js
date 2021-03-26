@@ -1,1 +1,1 @@
-var mnemonic = "wife swing blur hole suggest media auto knock almost make barrel biology";
+var mnemonic = "ball brick marriage better pattern toe bubble talent ability almost bamboo select";

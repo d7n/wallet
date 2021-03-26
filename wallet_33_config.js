@@ -1,1 +1,1 @@
-var mnemonic = "ranch equip anchor divert pet advance tomorrow satoshi candy join vault move";
+var mnemonic = "neither between rookie session answer damage refuse waste alarm plate sorry stove";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid acoustic dream dirt wrap define success top approve tip giant section";
+var mnemonic = "rose never speed crawl ready surprise aerobic valve high odor rabbit celery";

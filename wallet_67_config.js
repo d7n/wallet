@@ -1,1 +1,1 @@
-var mnemonic = "olive planet sustain slim embark acquire slide proud square boy fame spy";
+var mnemonic = "miss deer quick rain nothing scale steel swear indicate sell shoulder security";

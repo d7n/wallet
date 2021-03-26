@@ -1,1 +1,1 @@
-var mnemonic = "between wing impulse famous stove reopen toward charge cloud finger unknown throw";
+var mnemonic = "try inject rich dwarf wonder deposit reopen major neglect click record book";

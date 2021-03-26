@@ -1,1 +1,1 @@
-var mnemonic = "display finish fence armor tiny lava obscure body army need guitar peasant";
+var mnemonic = "lab route solid snap clean west teach alert grit more canal team";

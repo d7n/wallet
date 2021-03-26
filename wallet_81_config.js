@@ -1,1 +1,1 @@
-var mnemonic = "tail imitate lab okay disorder custom sock walnut imitate short pet lawsuit";
+var mnemonic = "wrap cluster wrap wild law borrow broken edit present toddler distance ripple";

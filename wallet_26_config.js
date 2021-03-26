@@ -1,1 +1,1 @@
-var mnemonic = "napkin use poverty gate cargo screen steel raccoon flat envelope below noodle";
+var mnemonic = "flavor give fold culture amount cook belt rural property much panda estate";

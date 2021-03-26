@@ -1,1 +1,1 @@
-var mnemonic = "faint laptop armor inform scheme wrestle woman jacket decade match example riot";
+var mnemonic = "antenna cost similar panel theory raccoon swim spell stem patient floor trigger";

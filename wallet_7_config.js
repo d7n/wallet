@@ -1,1 +1,1 @@
-var mnemonic = "bread burger lamp oak enough surround van hood okay mandate local tongue";
+var mnemonic = "reunion loud inmate noise crash language truth wonder jungle traffic attitude empower";

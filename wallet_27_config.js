@@ -1,1 +1,1 @@
-var mnemonic = "dad lobster deliver off click link sand fox warm glove pull beauty";
+var mnemonic = "jewel whale train exotic deliver raven describe ride measure actor wood economy";

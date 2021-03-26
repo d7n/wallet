@@ -1,1 +1,1 @@
-var mnemonic = "exhibit genius belt island clump hockey slow during alone deliver salad weasel";
+var mnemonic = "focus erosion labor abuse improve cabbage badge age junior merit winter live";

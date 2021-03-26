@@ -1,1 +1,1 @@
-var mnemonic = "verb increase neither spirit brain check bounce can waste illness toe song";
+var mnemonic = "monkey turtle alien cash road learn express include end improve merry twist";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe swap chair fly receive fashion primary goat cotton patient choice frozen";
+var mnemonic = "annual crunch fuel story arrange flat alpha dance reward vast upon raise";

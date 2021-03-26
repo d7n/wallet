@@ -1,1 +1,1 @@
-var mnemonic = "stadium worry wheat hollow kind glory chuckle feature know melody install trip";
+var mnemonic = "property will liberty anchor weasel fat hedgehog shoot online unknown door relief";

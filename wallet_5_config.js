@@ -1,1 +1,1 @@
-var mnemonic = "fantasy audit come magic shrug three kid double immune material ill cross";
+var mnemonic = "desk unfair farm race task invest pen romance lend copper bounce gather";
