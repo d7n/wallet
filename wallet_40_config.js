@@ -1,1 +1,1 @@
-var mnemonic = "orbit group famous maximum dress pet fossil pause lizard scheme kit hour";
+var mnemonic = "disease royal decrease cash drink believe holiday fetch rabbit panic kangaroo civil";

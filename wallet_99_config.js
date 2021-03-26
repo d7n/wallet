@@ -1,1 +1,1 @@
-var mnemonic = "obtain excess cattle mobile disease argue judge onion sand poverty shy divorce";
+var mnemonic = "foam road soda purchase step napkin onion legend that boil document orient";

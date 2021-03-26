@@ -1,1 +1,1 @@
-var mnemonic = "artefact peace awkward high grunt always shed chase ladder truck mouse space";
+var mnemonic = "keep ladder vacant tuition proud praise pattern dentist buzz lounge oppose girl";

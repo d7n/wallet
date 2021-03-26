@@ -1,1 +1,1 @@
-var mnemonic = "move winter easy domain outer nasty note express odor apology example anger";
+var mnemonic = "core sick casual follow senior twist slam clerk major resist slogan nephew";

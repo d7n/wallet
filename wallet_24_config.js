@@ -1,1 +1,1 @@
-var mnemonic = "battle artwork power cool frost sniff motion picnic hunt beach join barely";
+var mnemonic = "crack better spend bright ethics effort tackle worth author steel swim relax";

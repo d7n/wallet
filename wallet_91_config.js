@@ -1,1 +1,1 @@
-var mnemonic = "convince program goddess remain parade increase end kid rack little snow glass";
+var mnemonic = "caught bind picture blood elephant wrap village cloud minimum thought fancy patch";

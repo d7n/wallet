@@ -1,1 +1,1 @@
-var mnemonic = "tide lunch mesh file outer tribe exist parent unfold flower inner weapon";
+var mnemonic = "seat elegant wife dial wealth orange left entry case symptom wrap rescue";

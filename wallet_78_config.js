@@ -1,1 +1,1 @@
-var mnemonic = "fix boost upper pattern siege develop hint snap glow gospel spike river";
+var mnemonic = "review sight sudden joke danger trigger leisure frost simple fiscal average daring";

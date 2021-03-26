@@ -1,1 +1,1 @@
-var mnemonic = "online aware fee young bubble sun scheme armed rare tackle tobacco arm";
+var mnemonic = "pioneer genius size neglect below exit climb question impact gather dream scare";

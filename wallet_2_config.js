@@ -1,1 +1,1 @@
-var mnemonic = "fatal caution depth forest social deal warrior present burst since supply shine";
+var mnemonic = "toe female aspect zebra toss seek wheat rifle poet cart cake weekend";

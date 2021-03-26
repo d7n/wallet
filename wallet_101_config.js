@@ -1,1 +1,1 @@
-var mnemonic = "cheese dawn squeeze sheriff avoid path suspect jungle chat throw between small";
+var mnemonic = "honey minute swing grunt fall nuclear slogan peace habit omit problem garlic";

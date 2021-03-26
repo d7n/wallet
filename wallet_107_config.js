@@ -1,1 +1,1 @@
-var mnemonic = "awake month involve transfer pig thought humble earn canyon yellow false debris";
+var mnemonic = "home sample flip horn grunt guilt remain wing divert wheel benefit allow";

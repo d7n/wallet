@@ -1,1 +1,1 @@
-var mnemonic = "weird glow waste artist state black shy oxygen system layer intact subject";
+var mnemonic = "marble illegal afford excuse remove fire core carpet lady coach multiply adult";

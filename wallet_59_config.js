@@ -1,1 +1,1 @@
-var mnemonic = "ranch deer amount salmon about runway cover cushion chief donate glory hurt";
+var mnemonic = "effort pride stomach vacant trophy indoor shadow cable hungry size cactus traffic";

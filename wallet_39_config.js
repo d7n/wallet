@@ -1,1 +1,1 @@
-var mnemonic = "arrest indoor drift ritual address repair pluck inmate trigger float mobile naive";
+var mnemonic = "shock dry blur vital leopard kite coast pole bullet screen hamster carbon";

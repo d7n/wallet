@@ -1,1 +1,1 @@
-var mnemonic = "salute permit volume depth custom injury amateur cherry cargo cigar mom steel";
+var mnemonic = "squirrel wood december brother vendor opera drum faith venue floor adjust sugar";

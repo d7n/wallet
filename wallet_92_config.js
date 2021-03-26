@@ -1,1 +1,1 @@
-var mnemonic = "naive fade foil shrimp hybrid autumn scorpion cloth clap dog monkey that";
+var mnemonic = "sunset into dwarf movie globe grass memory soon announce pig front carbon";

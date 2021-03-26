@@ -1,1 +1,1 @@
-var mnemonic = "casino brick black affair kiss behind garlic pilot invite penalty observe umbrella";
+var mnemonic = "inch script demise finger divert soap uphold boss hole wood topic oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "rain virus kick supreme ecology decade work curve warrior apple orchard envelope";
+var mnemonic = "settle sorry deputy swing valley glide spy orphan baby lock awkward announce";

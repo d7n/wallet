@@ -1,1 +1,1 @@
-var mnemonic = "napkin life exit fire join hello awkward blood rent decide throw pig";
+var mnemonic = "breeze crane then route public citizen pool harbor evoke weekend miracle skull";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb assume correct pattern runway quality cup damp nut praise height joy";
+var mnemonic = "this two hammer dwarf youth future potato silver round material creek hill";

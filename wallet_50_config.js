@@ -1,1 +1,1 @@
-var mnemonic = "lazy brief boring depend brain visit ring garlic time upset arctic question";
+var mnemonic = "slight idea slogan erase mule jelly basic life usual choice horror side";

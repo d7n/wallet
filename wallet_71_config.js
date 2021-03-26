@@ -1,1 +1,1 @@
-var mnemonic = "select certain torch kitchen grunt mechanic recycle clown narrow usual flip symbol";
+var mnemonic = "great lens stuff strong normal atom day school assault ribbon unlock mushroom";

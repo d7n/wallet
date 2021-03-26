@@ -1,1 +1,1 @@
-var mnemonic = "talent slab episode lucky weather night accident lawsuit apple arrow recall baby";
+var mnemonic = "follow owner plastic breeze lawsuit search december situate arena woman derive pole";

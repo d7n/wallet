@@ -1,1 +1,1 @@
-var mnemonic = "quality truth swear plug off digital table harvest hen brief injury stay";
+var mnemonic = "globe direct predict pill foil essay equal clean share pencil twenty record";

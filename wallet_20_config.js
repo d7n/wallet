@@ -1,1 +1,1 @@
-var mnemonic = "observe rude glad armor miracle truly neglect deny outside trust pig cute";
+var mnemonic = "nothing fix praise twenty harvest hill skate reason practice skirt pen erosion";

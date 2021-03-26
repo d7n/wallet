@@ -1,1 +1,1 @@
-var mnemonic = "follow museum sibling glass broom relax endless april custom boost bachelor tent";
+var mnemonic = "soda syrup steel slice ten manage addict useless gauge scan camp wing";

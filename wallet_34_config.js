@@ -1,1 +1,1 @@
-var mnemonic = "fox hold type length rare cannon concert insect message horn wine legal";
+var mnemonic = "donate comfort electric blush bottom will lottery inhale mixture two siren raw";

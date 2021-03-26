@@ -1,1 +1,1 @@
-var mnemonic = "move document uncle truly drive mystery across rural off else abstract soft";
+var mnemonic = "avoid cupboard title priority front surround torch ceiling tooth frame rebel assault";

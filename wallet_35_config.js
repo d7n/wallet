@@ -1,1 +1,1 @@
-var mnemonic = "shift grain plunge fantasy truth fox evolve mother wire word tired renew";
+var mnemonic = "pioneer gesture helmet awake gas ancient sheriff simple group again cinnamon busy";

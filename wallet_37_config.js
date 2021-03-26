@@ -1,1 +1,1 @@
-var mnemonic = "weasel thank concert veteran weapon visit grocery cycle spray sugar purse easy";
+var mnemonic = "start bind video cool height erode acid calm scrub cloud reward coconut";

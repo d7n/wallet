@@ -1,1 +1,1 @@
-var mnemonic = "cheap ocean foil army awesome cloth fly twin inspire chimney nuclear olympic";
+var mnemonic = "able measure expose canvas orient cycle kiss glad hood erase urge funny";

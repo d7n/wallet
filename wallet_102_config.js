@@ -1,1 +1,1 @@
-var mnemonic = "disorder office pluck daughter plastic exotic piece protect ice bacon notice left";
+var mnemonic = "mail exist siren layer humble pig combine chair trash cream because genius";

@@ -1,1 +1,1 @@
-var mnemonic = "sing annual account knife cinnamon wreck problem village equal mango reflect detect";
+var mnemonic = "bacon thought stairs mixed ladder prison layer express food ranch blanket joke";

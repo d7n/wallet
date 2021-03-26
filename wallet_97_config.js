@@ -1,1 +1,1 @@
-var mnemonic = "pottery gun nature mean ring electric borrow material snack charge rate foil";
+var mnemonic = "jungle attract shock coil flight steak verify view cave point path auction";

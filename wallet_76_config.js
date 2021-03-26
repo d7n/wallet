@@ -1,1 +1,1 @@
-var mnemonic = "fiscal twenty axis shoulder town joke other citizen design shy injury shock";
+var mnemonic = "debris fever degree snow uncle bubble digital danger horror clock endless found";

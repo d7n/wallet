@@ -1,1 +1,1 @@
-var mnemonic = "warfare artwork fish armor cash brother present other hobby group trouble post";
+var mnemonic = "mass bunker have vivid receive fat cable eight theme ring mix damp";

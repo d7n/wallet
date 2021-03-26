@@ -1,1 +1,1 @@
-var mnemonic = "install clown next coast unaware enact glow person cross rhythm banana custom";
+var mnemonic = "enjoy bone tuna fluid derive fault power network spy act dinosaur novel";

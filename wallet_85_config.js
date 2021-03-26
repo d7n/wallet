@@ -1,1 +1,1 @@
-var mnemonic = "kit portion march name vast shine provide current frown space lock cause";
+var mnemonic = "surround hawk year wish wrestle atom picture silver enemy spike soda recipe";

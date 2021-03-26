@@ -1,1 +1,1 @@
-var mnemonic = "skate blouse urban access either blanket patrol cycle deal magnet trophy surprise";
+var mnemonic = "own senior black wage kick panther suffer slide feed actress chest beyond";

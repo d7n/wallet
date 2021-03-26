@@ -1,1 +1,1 @@
-var mnemonic = "kitten company tobacco jeans this fan envelope plate impulse dice desk domain";
+var mnemonic = "code chaos mask discover combine mushroom maple ostrich goose outside double check";

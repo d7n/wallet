@@ -1,1 +1,1 @@
-var mnemonic = "sail shallow knee kid burden final crowd you egg more squeeze fatal";
+var mnemonic = "plug satoshi half identify kit flame sister borrow split moral risk truth";

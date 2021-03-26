@@ -1,1 +1,1 @@
-var mnemonic = "pear core awesome tail client indicate mistake venture truck fold collect slender";
+var mnemonic = "cart twenty blanket exercise tomorrow join bracket blur spice dance pair lobster";

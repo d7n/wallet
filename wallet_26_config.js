@@ -1,1 +1,1 @@
-var mnemonic = "genre torch order rose favorite grit flag plug decrease acoustic spider black";
+var mnemonic = "silly address annual shiver bottom wrap tumble airport action valve card ramp";

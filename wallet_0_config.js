@@ -1,1 +1,1 @@
-var mnemonic = "melt once patch amount cereal lonely alpha raccoon swarm gym window box";
+var mnemonic = "process crystal morning raw day bid half common nurse renew remove dog";

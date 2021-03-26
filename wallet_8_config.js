@@ -1,1 +1,1 @@
-var mnemonic = "north audit thrive minor smile easily force fossil story loyal frown team";
+var mnemonic = "myself wagon raccoon solution federal prepare gain winner arrest solid vacant lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "found glow borrow cargo general junk vocal common feature canyon ring income";
+var mnemonic = "other leopard prefer such step liquid abandon another lumber acquire upset tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "demise oven gas tent hobby flower raven ancient slam lady spell another";
+var mnemonic = "return release spy diesel affair eye ramp tourist bone gentle grain hub";

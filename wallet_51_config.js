@@ -1,1 +1,1 @@
-var mnemonic = "marble language initial hair transfer chest final rule celery screen curious chest";
+var mnemonic = "snap mom split grape yellow across rocket erase day raise devote pig";

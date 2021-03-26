@@ -1,1 +1,1 @@
-var mnemonic = "absorb midnight annual garage shadow advice orient oval envelope together force scan";
+var mnemonic = "indicate ceiling pony belt eagle cube conduct sea craft deputy ozone slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma thought caution inherit verify lab ribbon search news sponsor river base";
+var mnemonic = "dolphin noodle autumn average leopard people few tail injury volcano senior payment";

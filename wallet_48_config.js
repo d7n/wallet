@@ -1,1 +1,1 @@
-var mnemonic = "rescue noble fever destroy vessel bachelor vast joy couple aspect trouble gadget";
+var mnemonic = "visa liar carpet parrot trouble hotel close dwarf list purity glue kid";

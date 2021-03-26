@@ -1,1 +1,1 @@
-var mnemonic = "fragile drum rough warm ten fresh leg grow sunny mutual shoot twin";
+var mnemonic = "tuition fold quality dance mass example hurt repair worry immune shoulder sorry";

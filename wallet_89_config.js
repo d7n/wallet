@@ -1,1 +1,1 @@
-var mnemonic = "jazz damp whip oxygen pen owner person famous benefit job joke camera";
+var mnemonic = "hover chaos share script conduct usage such season possible toddler dinner elite";

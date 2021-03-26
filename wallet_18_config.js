@@ -1,1 +1,1 @@
-var mnemonic = "appear account unveil split violin tennis goat inspire actress frost decide notice";
+var mnemonic = "riot alpha decide inform sausage duty capable cook setup clock ostrich deny";

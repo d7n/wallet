@@ -1,1 +1,1 @@
-var mnemonic = "motor west forward yard sail dwarf husband lizard impact direct illness pepper";
+var mnemonic = "property average force ability dinner any baby globe limb forum theme pigeon";

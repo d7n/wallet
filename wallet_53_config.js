@@ -1,1 +1,1 @@
-var mnemonic = "cushion endless blue acid stage maze hand deer amount current vast elephant";
+var mnemonic = "weather bamboo initial now shift name afford afraid claim sword ignore soda";

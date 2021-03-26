@@ -1,1 +1,1 @@
-var mnemonic = "milk gold rain wrestle diet control question tired old couple ride price";
+var mnemonic = "woman dice tonight dress pioneer crystal hobby shock undo drink unable park";

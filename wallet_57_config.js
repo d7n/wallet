@@ -1,1 +1,1 @@
-var mnemonic = "sad hedgehog evolve mass busy middle dignity split divorce exotic grocery tourist";
+var mnemonic = "scorpion pizza limb angle stamp ugly dune artwork fever poverty speak lunar";

@@ -1,1 +1,1 @@
-var mnemonic = "wasp gloom trash since spot tennis senior comic addict mobile tumble buddy";
+var mnemonic = "merry correct dance fall sad stereo maze powder power prize easily vault";

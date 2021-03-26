@@ -1,1 +1,1 @@
-var mnemonic = "method disagree sniff crash garbage option hover tonight switch elevator divert orbit";
+var mnemonic = "pipe useless tortoise enter gather jungle social velvet shy fuel person heart";

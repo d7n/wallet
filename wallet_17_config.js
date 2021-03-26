@@ -1,1 +1,1 @@
-var mnemonic = "immune frame sock frost response portion love dry cloth warfare radio various";
+var mnemonic = "install require fresh treat must property coin divide rifle beef offer crawl";

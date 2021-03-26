@@ -1,1 +1,1 @@
-var mnemonic = "vanish cabin acquire lava strategy crunch receive merit extra riot tone asthma";
+var mnemonic = "bid staff valve convince margin dawn fall anchor swarm account cost soda";

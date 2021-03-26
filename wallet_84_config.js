@@ -1,1 +1,1 @@
-var mnemonic = "raw trigger riot enemy fatigue behind pond model ecology banana midnight hundred";
+var mnemonic = "skin door result modify unfair retire wing alert canoe obtain oblige cage";

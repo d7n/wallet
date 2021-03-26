@@ -1,1 +1,1 @@
-var mnemonic = "burst force vault resource day fruit tray regret asset another lizard annual";
+var mnemonic = "dirt coyote symbol stove brief word demise liberty maze peace fury another";

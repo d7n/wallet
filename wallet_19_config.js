@@ -1,1 +1,1 @@
-var mnemonic = "must hello gauge right novel cloud sphere cute domain reward seek sleep";
+var mnemonic = "income kiwi river base exercise number like weird moral bleak lawn brass";

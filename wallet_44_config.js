@@ -1,1 +1,1 @@
-var mnemonic = "cute mosquito tiger trial labor old spoon climb learn unhappy today suffer";
+var mnemonic = "fabric impose hollow breeze there kiss broccoli athlete moment skill grocery jeans";

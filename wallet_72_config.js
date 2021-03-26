@@ -1,1 +1,1 @@
-var mnemonic = "park song parent state plate evil multiply message talent hill collect liberty";
+var mnemonic = "tooth dinosaur border scheme test glance believe farm awkward air burden wing";

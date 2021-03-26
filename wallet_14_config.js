@@ -1,1 +1,1 @@
-var mnemonic = "bus broom female nation agent upper relief attract disorder silver census glide";
+var mnemonic = "protect solve sleep monitor okay stone heart orange brother shuffle venture system";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf gallery analyst lab rib search wreck echo shoot burden matrix miracle";
+var mnemonic = "broom submit cry inquiry deliver avoid kitchen usual wheel squirrel scale stereo";

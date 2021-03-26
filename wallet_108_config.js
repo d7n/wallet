@@ -1,1 +1,1 @@
-var mnemonic = "battle receive much left team sport expect glue trigger dolphin crystal neck";
+var mnemonic = "kiwi near shine need loop manual solar add destroy jewel pond cotton";

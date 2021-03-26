@@ -1,1 +1,1 @@
-var mnemonic = "portion extend depth tail health cause myth relax chef seed spray copy";
+var mnemonic = "wait group replace business claw verify slight teach rescue praise shrug illegal";

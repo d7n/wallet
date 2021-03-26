@@ -1,1 +1,1 @@
-var mnemonic = "water bean agent flush luggage chaos nephew pilot still bunker sure bunker";
+var mnemonic = "fall burger wrist small entry clinic open nature ball huge voice milk";

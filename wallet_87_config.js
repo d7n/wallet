@@ -1,1 +1,1 @@
-var mnemonic = "purse soldier vehicle shift cable manual silver damage cigar slush animal skill";
+var mnemonic = "interest nothing river festival cross timber improve nuclear lamp law vague easily";

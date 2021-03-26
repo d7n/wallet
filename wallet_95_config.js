@@ -1,1 +1,1 @@
-var mnemonic = "wasp couple capital alter super cup hollow foot replace inside settle nose";
+var mnemonic = "copper cart merge wreck lounge meadow tiger seven kingdom skate opera mirror";

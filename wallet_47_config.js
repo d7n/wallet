@@ -1,1 +1,1 @@
-var mnemonic = "candy ankle offer circle jealous adapt town display evolve help rare catch";
+var mnemonic = "test buzz joy wool dwarf dress wing caution cluster merge chief recycle";

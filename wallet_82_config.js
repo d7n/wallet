@@ -1,1 +1,1 @@
-var mnemonic = "olympic sweet margin mechanic topic derive park deal design blame creek swim";
+var mnemonic = "chief gown earn pencil rail else there device twenty brass salon combine";

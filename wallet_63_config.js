@@ -1,1 +1,1 @@
-var mnemonic = "core thought brain million crumble void flock fish avocado accident agent broken";
+var mnemonic = "derive orphan super coffee sweet world toss cupboard hello forum forest treat";

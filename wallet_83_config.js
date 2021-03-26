@@ -1,1 +1,1 @@
-var mnemonic = "visit survey gentle clarify cat crumble coach oven few face museum edit";
+var mnemonic = "cement beach rose elephant sugar hotel stem world off hint armor live";

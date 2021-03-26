@@ -1,1 +1,1 @@
-var mnemonic = "taste loan fault ten observe royal fork dad midnight hybrid lift skill";
+var mnemonic = "front proof they soldier access century fork youth glue color duck key";

@@ -1,1 +1,1 @@
-var mnemonic = "notable term clean void mosquito green clap talk ride deny slow grape";
+var mnemonic = "champion safe trial drop husband skate else manual regret click laptop brief";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle favorite raise near hunt utility elephant style replace train battle cluster";
+var mnemonic = "source myself south simple scare pride rather prevent sport feature manual puzzle";

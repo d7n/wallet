@@ -1,1 +1,1 @@
-var mnemonic = "neglect runway thunder chicken today control fantasy track sister pool issue scatter";
+var mnemonic = "honey across light gather cereal blade member prize front add thunder kind";

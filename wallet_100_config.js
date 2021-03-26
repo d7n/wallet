@@ -1,1 +1,1 @@
-var mnemonic = "siege asset snack burst oval ahead emotion produce hunt until pipe absurd";
+var mnemonic = "toward mass trap father push rookie grass minimum bleak wisdom gather all";

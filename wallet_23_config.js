@@ -1,1 +1,1 @@
-var mnemonic = "junk bright dinner floor romance good trip already tortoise practice hat melt";
+var mnemonic = "iron hollow grape unique rocket hunt blast attend coral place inspire under";

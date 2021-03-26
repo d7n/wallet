@@ -1,1 +1,1 @@
-var mnemonic = "demand action air gasp judge aisle mango half festival safe cruel farm";
+var mnemonic = "repeat era decline december desert village dirt vivid direct danger spend dash";

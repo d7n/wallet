@@ -1,1 +1,1 @@
-var mnemonic = "balcony envelope patrol wall question fluid genuine veteran valve rice service host";
+var mnemonic = "print denial fence snap clinic vacuum slush horror hurry exact slab blade";

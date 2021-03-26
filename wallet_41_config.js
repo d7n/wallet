@@ -1,1 +1,1 @@
-var mnemonic = "kitchen key slam episode tunnel mushroom green expire bird boil float keep";
+var mnemonic = "reason flee author hotel fat convince firm market delay episode flash grape";

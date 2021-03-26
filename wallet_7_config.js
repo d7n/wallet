@@ -1,1 +1,1 @@
-var mnemonic = "subway cousin wrap leave horn start rail limit satoshi diet fork siren";
+var mnemonic = "toilet immense please wish regret govern calm fuel coyote peanut nothing invest";

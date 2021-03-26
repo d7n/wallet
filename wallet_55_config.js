@@ -1,1 +1,1 @@
-var mnemonic = "subject humble bus powder mix under rotate deer cool weasel gun bright";
+var mnemonic = "hobby couple absurd mixture diet tobacco label glue spider swim cliff cry";

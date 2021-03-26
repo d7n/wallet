@@ -1,1 +1,1 @@
-var mnemonic = "hockey section spy execute emerge submit develop board frog great swap man";
+var mnemonic = "across uncle mandate staff rigid boil fee castle humor thrive below sea";
