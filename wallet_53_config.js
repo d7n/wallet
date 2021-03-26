@@ -1,1 +1,1 @@
-var mnemonic = "skirt click planet exhibit refuse proud bundle gospel pride paddle select boy";
+var mnemonic = "snow gift orange antique minor market athlete round dwarf fork fortune heavy";

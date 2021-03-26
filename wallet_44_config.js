@@ -1,1 +1,1 @@
-var mnemonic = "pattern push skull typical water girl rabbit right slam wood advance replace";
+var mnemonic = "employ flash gown memory aspect crazy oblige order desert suggest crumble dice";

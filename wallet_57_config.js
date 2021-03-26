@@ -1,1 +1,1 @@
-var mnemonic = "execute fiber van apart muscle adult disagree sound wear raw enhance almost";
+var mnemonic = "submit lyrics live feature demand about finger banana ticket decline lyrics struggle";

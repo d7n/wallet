@@ -1,1 +1,1 @@
-var mnemonic = "middle noodle sponsor simple pigeon humble better split crazy grow keep belt";
+var mnemonic = "prison elevator timber tornado crack shiver rug guess mix panther gift inhale";

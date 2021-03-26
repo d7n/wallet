@@ -1,1 +1,1 @@
-var mnemonic = "thank segment number scheme join pair mask jump cheese cupboard april neutral";
+var mnemonic = "dish photo net diagram debris effort spice wrist whip toast razor glass";

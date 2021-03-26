@@ -1,1 +1,1 @@
-var mnemonic = "sea man clay aware timber course doctor air satisfy hedgehog inch endless";
+var mnemonic = "marriage stock shallow cram history cry holiday pond twice feature forum neglect";

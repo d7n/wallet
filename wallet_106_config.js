@@ -1,1 +1,1 @@
-var mnemonic = "plate foil breeze twin toddler object fall two pony birth palace grief";
+var mnemonic = "kid cruel poverty write pact ship weapon essay direct choice emotion escape";

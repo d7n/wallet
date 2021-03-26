@@ -1,1 +1,1 @@
-var mnemonic = "sting sustain kid discover lobster foot final client soap wild rhythm stand";
+var mnemonic = "stage odor code grief style weapon original license enhance hammer gym occur";

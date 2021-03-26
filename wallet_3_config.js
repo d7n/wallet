@@ -1,1 +1,1 @@
-var mnemonic = "gospel pluck arm bomb task other genius mountain champion impose flee athlete";
+var mnemonic = "focus ecology sweet throw chicken devote craft glow relax before comic gasp";

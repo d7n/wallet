@@ -1,1 +1,1 @@
-var mnemonic = "auction oppose glue book repair deer ripple swift cruel endorse above stick";
+var mnemonic = "buyer absent crowd wrestle coach minimum setup rocket slender boss age pipe";

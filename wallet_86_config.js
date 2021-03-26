@@ -1,1 +1,1 @@
-var mnemonic = "shoulder above switch syrup strong steel insect side neck increase guitar distance";
+var mnemonic = "major lawsuit humor surround fabric bicycle best bacon useful stadium worry piano";

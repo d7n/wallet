@@ -1,1 +1,1 @@
-var mnemonic = "seminar chief voice decide divert portion nurse wall door slim pill attract";
+var mnemonic = "wolf cook guess unknown theme sadness vital return sadness truth design wall";

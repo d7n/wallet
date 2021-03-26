@@ -1,1 +1,1 @@
-var mnemonic = "ride fashion mixture youth empty punch galaxy venture idea magic nothing cover";
+var mnemonic = "attract volume distance pottery carpet blur truth rural fly width process actress";

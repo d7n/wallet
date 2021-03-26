@@ -1,1 +1,1 @@
-var mnemonic = "scare plunge hurdle donate attend spawn bonus split spy toast order confirm";
+var mnemonic = "hole patient web violin street certain soup drill diary this multiply rally";

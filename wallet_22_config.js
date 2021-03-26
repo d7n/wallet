@@ -1,1 +1,1 @@
-var mnemonic = "have hill opera supply swap legal diagram fragile release phone photo grape";
+var mnemonic = "issue post claim average clap evoke kitchen mixed collect arctic segment crash";

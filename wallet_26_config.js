@@ -1,1 +1,1 @@
-var mnemonic = "shaft organ certain stamp wall antique trigger orient gym announce ladder math";
+var mnemonic = "focus select crucial jump meadow maximum enact history shrug correct subject alert";

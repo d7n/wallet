@@ -1,1 +1,1 @@
-var mnemonic = "dwarf hybrid fringe promote awful alien strike reduce retreat coffee equal dumb";
+var mnemonic = "scout step topic pass mansion once enhance hurdle actress naive build vacuum";

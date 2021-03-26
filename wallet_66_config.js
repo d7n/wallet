@@ -1,1 +1,1 @@
-var mnemonic = "spend impulse obtain panther shiver gentle venture ostrich situate month flavor pause";
+var mnemonic = "pool enhance guard street giggle reunion dinner prison genius cream beyond lend";

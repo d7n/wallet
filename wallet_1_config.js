@@ -1,1 +1,1 @@
-var mnemonic = "ring banner runway arrive jacket guide purse doll seat helmet this grant";
+var mnemonic = "effort boil prevent amount occur know main during spice frequent reason turn";

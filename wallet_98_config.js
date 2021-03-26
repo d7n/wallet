@@ -1,1 +1,1 @@
-var mnemonic = "game safe chief maple asset embody execute repeat asthma winner kingdom shuffle";
+var mnemonic = "museum gas unhappy owner first alarm parent miracle hip holiday cluster dream";

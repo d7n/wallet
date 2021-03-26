@@ -1,1 +1,1 @@
-var mnemonic = "feed fence fame clump upset state furnace clock puppy gas govern tongue";
+var mnemonic = "zone observe leaf basic search guitar spoon gym recipe once brisk extra";

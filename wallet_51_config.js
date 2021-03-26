@@ -1,1 +1,1 @@
-var mnemonic = "news wrist random erupt lend crawl flip baby tunnel puppy mesh depart";
+var mnemonic = "work ghost oyster dinner movie tiny aunt cube visual accuse adapt apple";

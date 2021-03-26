@@ -1,1 +1,1 @@
-var mnemonic = "foster digital devote pitch fork nice promote trade arena hospital tree dash";
+var mnemonic = "trust remove sock rice neglect business expand balance sweet doctor ordinary transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft chief legend carry shock you forget hungry pepper garlic impose rain";
+var mnemonic = "wheat exclude brain federal chunk food fish horse rookie damp foam proof";

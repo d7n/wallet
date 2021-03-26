@@ -1,1 +1,1 @@
-var mnemonic = "pulp spoil zebra crater middle turkey thunder general try tuna guard category";
+var mnemonic = "picnic odor away waste lock baby board cry sport snack violin govern";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest document script exhibit blast layer agree motion silent boat box lizard";
+var mnemonic = "winner arch find galaxy reason love spy congress journey pair moon mean";

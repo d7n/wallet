@@ -1,1 +1,1 @@
-var mnemonic = "cloud once fish century apple violin matter develop aunt matter afford animal";
+var mnemonic = "slim cereal chalk sample skull six render family venture pause erupt moment";

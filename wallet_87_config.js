@@ -1,1 +1,1 @@
-var mnemonic = "raven crouch hip craft slice jazz tumble drop treat satoshi asthma sustain";
+var mnemonic = "office toss limit two wise orchard bundle bird damp track minor give";

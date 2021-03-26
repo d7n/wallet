@@ -1,1 +1,1 @@
-var mnemonic = "property change morning mean execute spatial notable punch empower animal name butter";
+var mnemonic = "cruel barrel congress alter verb tunnel autumn banner nature busy warrior empower";

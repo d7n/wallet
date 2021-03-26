@@ -1,1 +1,1 @@
-var mnemonic = "gap mansion labor pair survey peanut popular exhaust cotton kingdom settle doctor";
+var mnemonic = "tired chief consider record card dad differ olive scene horse oxygen release";

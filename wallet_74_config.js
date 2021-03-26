@@ -1,1 +1,1 @@
-var mnemonic = "february traffic canoe print okay kind arctic version breeze human cook trade";
+var mnemonic = "fever illegal domain just inherit dune initial high mandate hello bench betray";

@@ -1,1 +1,1 @@
-var mnemonic = "view drama size inner hand option axis genius image toy match floor";
+var mnemonic = "upgrade scissors divert fall local swing tissue drum talk dove seek choose";

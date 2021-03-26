@@ -1,1 +1,1 @@
-var mnemonic = "before weapon present daring lemon cattle answer hobby tennis oblige ugly supply";
+var mnemonic = "theme punch cost claim oblige bless dentist below rose ritual together pelican";

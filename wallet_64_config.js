@@ -1,1 +1,1 @@
-var mnemonic = "lyrics win one similar genius awake grass art half tooth leaf enrich";
+var mnemonic = "negative toss year refuse disease stamp swing buffalo abuse install side penalty";

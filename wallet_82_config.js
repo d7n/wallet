@@ -1,1 +1,1 @@
-var mnemonic = "thrive glad immense eyebrow hole patrol prevent stay spoon mule glad dream";
+var mnemonic = "bonus tail surprise ginger purchase fit few lazy giant author build virtual";

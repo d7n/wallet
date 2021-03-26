@@ -1,1 +1,1 @@
-var mnemonic = "lunar original impact sudden bid speak bunker absorb company deny must relief";
+var mnemonic = "crush peasant space spring label bitter flag strategy weather wish bulk gain";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll august exotic menu build sibling rural square require aunt defy acid";
+var mnemonic = "patrol sentence way razor pottery ozone cereal wall change net mercy begin";

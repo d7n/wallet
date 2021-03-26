@@ -1,1 +1,1 @@
-var mnemonic = "barely stamp auto food tumble unknown camera valley term resemble crop autumn";
+var mnemonic = "verify veteran merit there ramp proud worth jewel airport obvious mobile hen";

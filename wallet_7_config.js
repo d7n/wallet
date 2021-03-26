@@ -1,1 +1,1 @@
-var mnemonic = "clarify quality kite adapt faculty into dignity penalty radar kiss puppy gospel";
+var mnemonic = "unknown since view filter rebuild era absorb creek oven target tuna few";

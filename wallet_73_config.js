@@ -1,1 +1,1 @@
-var mnemonic = "firm tip sphere adult this camera fever rubber follow crazy unfair present";
+var mnemonic = "discover squirrel tired vocal hedgehog whale venture harbor valid guitar hole kiwi";

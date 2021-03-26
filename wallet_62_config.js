@@ -1,1 +1,1 @@
-var mnemonic = "upset vocal account bunker assume buddy swamp wink farm mutual pact orange";
+var mnemonic = "six quiz popular subject purity cliff number device lumber valley hunt dash";

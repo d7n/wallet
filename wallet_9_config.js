@@ -1,1 +1,1 @@
-var mnemonic = "silver zero profit open beauty elder life remove excuse elegant keen pause";
+var mnemonic = "lamp kite energy lyrics tribe feed laundry busy exercise hand leave fire";

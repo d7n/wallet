@@ -1,1 +1,1 @@
-var mnemonic = "snake olympic coach accident rubber purity craft nation six slight subject false";
+var mnemonic = "robot early kick segment wet sudden toast village casino camera suggest speed";

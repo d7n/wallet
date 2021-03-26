@@ -1,1 +1,1 @@
-var mnemonic = "verify basket eternal man cloth join shed near citizen six milk control";
+var mnemonic = "giant cash trim couch plastic style quality defense disorder saddle candy violin";

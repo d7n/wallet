@@ -1,1 +1,1 @@
-var mnemonic = "script clip bronze velvet kid ketchup grunt club vehicle square empower noise";
+var mnemonic = "labor famous snow couple idea grid banana canoe keep advice camp excite";

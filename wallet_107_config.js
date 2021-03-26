@@ -1,1 +1,1 @@
-var mnemonic = "lake moment wasp found special rally ten student turn useless vault cricket";
+var mnemonic = "picnic goat photo put save fringe pencil canyon wool essence kite width";

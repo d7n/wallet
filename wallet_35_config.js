@@ -1,1 +1,1 @@
-var mnemonic = "intact foil admit race flavor paper chaos public slow pudding unit stool";
+var mnemonic = "flash copper mistake auction again mystery glance open decorate raccoon stay leave";

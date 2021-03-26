@@ -1,1 +1,1 @@
-var mnemonic = "height catalog dice race choice element robot possible coffee exercise border behind";
+var mnemonic = "clock ordinary clown beyond faculty mad crisp original drama mechanic latin elegant";

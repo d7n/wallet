@@ -1,1 +1,1 @@
-var mnemonic = "just portion daughter segment humble convince defy solid gown blind river gold";
+var mnemonic = "outside team fiber sound tape wine room planet tank develop push traffic";

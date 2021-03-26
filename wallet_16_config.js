@@ -1,1 +1,1 @@
-var mnemonic = "please exhibit gallery box snow reward filter fine laundry biology razor pledge";
+var mnemonic = "float border boil board current arrive token aware despair coyote post absent";

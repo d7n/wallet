@@ -1,1 +1,1 @@
-var mnemonic = "you buffalo arrow myself juice glove lunar scrap slice amused grain town";
+var mnemonic = "gravity clay tip rival barely sniff organ bronze boring cry detect border";

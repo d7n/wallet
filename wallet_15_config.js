@@ -1,1 +1,1 @@
-var mnemonic = "mobile bronze used project neither tennis donkey undo bicycle close vibrant cigar";
+var mnemonic = "stable chair define jungle veteran sausage holiday gate dose swamp tuna call";

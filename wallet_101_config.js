@@ -1,1 +1,1 @@
-var mnemonic = "point exotic spider syrup spin sure ensure cage magic plate today try";
+var mnemonic = "forest alter collect syrup diesel spawn meat flower minor slim inmate random";

@@ -1,1 +1,1 @@
-var mnemonic = "piece nut marriage right tank ivory resource fun plate point oil lamp";
+var mnemonic = "bone judge focus leg curtain essence swim health stone glad hospital economy";

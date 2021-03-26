@@ -1,1 +1,1 @@
-var mnemonic = "short town ugly vivid marriage keep task range system cliff giraffe wine";
+var mnemonic = "client rely obvious genuine worth gun invest teach vicious diary detail also";

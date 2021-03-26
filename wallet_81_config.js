@@ -1,1 +1,1 @@
-var mnemonic = "swap tree more afford buddy dwarf census sign yard loan upon put";
+var mnemonic = "outside grape finish hollow gravity during trumpet dentist art approve flight disagree";

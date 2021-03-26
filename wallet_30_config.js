@@ -1,1 +1,1 @@
-var mnemonic = "sound super subway range baby unveil spot vehicle length anger ensure under";
+var mnemonic = "caution spoil stairs now mixed duck survey snap wolf crazy deal sound";

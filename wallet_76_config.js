@@ -1,1 +1,1 @@
-var mnemonic = "modify replace balance exist accuse crucial album seminar tool market tip hidden";
+var mnemonic = "habit kiss biology ship gun chuckle amazing nasty require tongue verb dismiss";

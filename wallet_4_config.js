@@ -1,1 +1,1 @@
-var mnemonic = "actual shoot maple purse cradle festival duck idle wolf fruit brave nut";
+var mnemonic = "armor orphan banana dutch toe gentle space awake power child youth stock";

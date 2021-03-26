@@ -1,1 +1,1 @@
-var mnemonic = "abandon scissors case notable tuition expect model tool stove pluck light raccoon";
+var mnemonic = "love drill rule maximum mechanic until apart feel swift once pill virtual";

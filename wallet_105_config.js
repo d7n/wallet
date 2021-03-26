@@ -1,1 +1,1 @@
-var mnemonic = "spring among trap idea stadium shove install dance gentle wash among draft";
+var mnemonic = "never unfold puzzle victory hero young soap lyrics conduct annual exhaust report";

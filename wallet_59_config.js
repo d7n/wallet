@@ -1,1 +1,1 @@
-var mnemonic = "staff job undo orange velvet chapter sense dentist purchase soon always rocket";
+var mnemonic = "spike tunnel soap inmate neck one zone suit better decline always math";

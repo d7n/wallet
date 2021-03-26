@@ -1,1 +1,1 @@
-var mnemonic = "hundred stone excite bind body bounce seven eager city vendor enroll such";
+var mnemonic = "scrub local question tennis arrive nature debris boy gesture thing topple couple";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor utility supply benefit copper aspect replace detail famous certain label gate";
+var mnemonic = "require warfare boy mushroom equal ankle path host fox caution bracket protect";

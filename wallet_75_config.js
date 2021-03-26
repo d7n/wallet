@@ -1,1 +1,1 @@
-var mnemonic = "health monitor glass soap spray coyote digital game ice stumble angry ethics";
+var mnemonic = "pledge pool angry impact verify slide cheap else high piano spatial attack";

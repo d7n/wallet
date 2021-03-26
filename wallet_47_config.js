@@ -1,1 +1,1 @@
-var mnemonic = "number soul casual labor section session hub suspect have know finger base";
+var mnemonic = "raise candy rain mask collect wood surface great pupil profit ripple heart";

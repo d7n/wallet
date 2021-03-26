@@ -1,1 +1,1 @@
-var mnemonic = "able author differ cute ice inform pear cinnamon enroll dinner search define";
+var mnemonic = "deputy slice company muscle clap suit ecology laptop differ crush canyon often";

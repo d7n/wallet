@@ -1,1 +1,1 @@
-var mnemonic = "feed west crazy mountain maid fruit joke day explain slab travel quiz";
+var mnemonic = "clip bleak lava ceiling bamboo sun arm fit chunk frog skirt slender";

@@ -1,1 +1,1 @@
-var mnemonic = "draw nothing enable nice street divert ritual quality emerge phone pool excite";
+var mnemonic = "park country say health twist ritual retreat scrap debate crack immense kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "office pledge wage other family adjust wire year dismiss thrive assist hand";
+var mnemonic = "seminar blue reveal right cigar share auction enact bag prepare original audit";

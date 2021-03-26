@@ -1,1 +1,1 @@
-var mnemonic = "episode nut cliff check scrap disagree wide awkward meat long protect toss";
+var mnemonic = "bread whip tell burger bullet actor price okay size rhythm faculty suspect";

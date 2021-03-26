@@ -1,1 +1,1 @@
-var mnemonic = "pill decorate trust tissue clarify metal paper unfair opera movie input shallow";
+var mnemonic = "orchard tackle cause knee oppose museum credit twist hurdle approve copper siege";

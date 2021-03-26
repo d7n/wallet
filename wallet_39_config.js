@@ -1,1 +1,1 @@
-var mnemonic = "zero rate manage ceiling topple travel layer damage talk quality horn swim";
+var mnemonic = "wink myth box inherit verb size shoot people convince outdoor gown midnight";

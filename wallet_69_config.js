@@ -1,1 +1,1 @@
-var mnemonic = "rose hedgehog avocado popular coconut message hotel boy pattern recycle more involve";
+var mnemonic = "run nurse cloth excite actor girl make pole smoke gauge leader deputy";

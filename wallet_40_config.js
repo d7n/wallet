@@ -1,1 +1,1 @@
-var mnemonic = "oven forget vacant decrease doll collect service unhappy arena diesel tooth wall";
+var mnemonic = "whisper bench spy twin idle finger machine dash black version ghost letter";

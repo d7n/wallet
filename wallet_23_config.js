@@ -1,1 +1,1 @@
-var mnemonic = "drip divorce excite ankle hungry final screen little grow party juice very";
+var mnemonic = "beach record device shiver bless exhibit ramp broccoli approve surge bargain option";

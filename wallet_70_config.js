@@ -1,1 +1,1 @@
-var mnemonic = "pilot lumber hip balcony parent clutch grid safe govern uncover label spoil";
+var mnemonic = "fashion toddler camp sleep knife camp sport announce dress giggle frozen glue";

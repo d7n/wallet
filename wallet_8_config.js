@@ -1,1 +1,1 @@
-var mnemonic = "dynamic oppose sadness core absorb panic foam salmon fault merry media mountain";
+var mnemonic = "ticket uncover scale wise apple believe tennis bring sting action trial avocado";

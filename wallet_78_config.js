@@ -1,1 +1,1 @@
-var mnemonic = "pink possible arrange juice demise electric sword wood similar dynamic crush head";
+var mnemonic = "exit ski figure demand suggest dwarf toy unable autumn army case model";

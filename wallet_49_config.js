@@ -1,1 +1,1 @@
-var mnemonic = "maid rib strike dash paddle left tumble bar fly wing gas skin";
+var mnemonic = "mention jazz kingdom farm latin roast clump melt chunk collect leader depth";

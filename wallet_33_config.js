@@ -1,1 +1,1 @@
-var mnemonic = "casual penalty tackle silver decade post chalk man cancel kitchen mixed rabbit";
+var mnemonic = "disagree family viable stuff ankle seed obtain pulse detect lawn where such";

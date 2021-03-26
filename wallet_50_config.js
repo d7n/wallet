@@ -1,1 +1,1 @@
-var mnemonic = "exchange liquid small issue access lemon exile name option crush cream success";
+var mnemonic = "hope rely husband bleak equal length broom sketch actual nurse drift crowd";

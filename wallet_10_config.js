@@ -1,1 +1,1 @@
-var mnemonic = "rifle elder sponsor index potato quantum peace brass shift gold float cement";
+var mnemonic = "scene health final output cook oak chest trigger misery display original damage";

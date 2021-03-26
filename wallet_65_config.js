@@ -1,1 +1,1 @@
-var mnemonic = "require remove strong quantum knife age electric soap ramp video expose vivid";
+var mnemonic = "trouble reveal kiss midnight human junk lab please spawn multiply raise ball";

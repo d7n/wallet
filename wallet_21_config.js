@@ -1,1 +1,1 @@
-var mnemonic = "cup gap birth vital apology hat mystery rare ripple person three ritual";
+var mnemonic = "identify velvet kick aisle rebuild chest word nothing focus ripple hybrid alert";

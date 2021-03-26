@@ -1,1 +1,1 @@
-var mnemonic = "nature message image sheriff race small chase whale material gap dose pool";
+var mnemonic = "accident punch inquiry retire special chapter author toddler client suspect moment figure";

@@ -1,1 +1,1 @@
-var mnemonic = "audit follow inform capital draft satisfy nose tilt height inflict ahead kid";
+var mnemonic = "page smart kingdom hedgehog quarter rebuild radio replace grunt risk satoshi pair";

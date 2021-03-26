@@ -1,1 +1,1 @@
-var mnemonic = "behind basic ring neglect shell maximum small electric knee tube awesome elegant";
+var mnemonic = "stick noodle retire taste entry pilot twenty mango hawk lawsuit borrow catch";

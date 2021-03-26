@@ -1,1 +1,1 @@
-var mnemonic = "typical transfer sausage little pact blame frog chair clap gap more apple";
+var mnemonic = "fancy wave improve champion drive ship grass video shoot actress marble main";

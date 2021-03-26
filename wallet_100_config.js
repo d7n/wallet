@@ -1,1 +1,1 @@
-var mnemonic = "frequent peanut music spring sweet lazy young evidence now labor obscure horse";
+var mnemonic = "mechanic still huge mystery silk soap hero return method luggage flash dismiss";

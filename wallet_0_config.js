@@ -1,1 +1,1 @@
-var mnemonic = "perfect leg glue carbon update filter welcome skull common escape own brown";
+var mnemonic = "siege solve describe gather hybrid gun virus ordinary burden square dentist foster";
