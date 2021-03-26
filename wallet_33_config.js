@@ -1,1 +1,1 @@
-var mnemonic = "soup artwork begin worth cream glass salute grid crazy victory treat ugly";
+var mnemonic = "injury oak seminar nasty mind one wool advance shine enrich cabbage price";

@@ -1,1 +1,1 @@
-var mnemonic = "vote annual sausage price runway simple grit wish floor toss juice force";
+var mnemonic = "gun girl inhale amount upon buddy stove car sugar nurse robot require";

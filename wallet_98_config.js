@@ -1,1 +1,1 @@
-var mnemonic = "wide wait impose aunt burger arrest anchor surface appear idea stay inmate";
+var mnemonic = "absorb mother employ curtain sphere admit garment subject range flash shed iron";

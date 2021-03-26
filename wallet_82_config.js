@@ -1,1 +1,1 @@
-var mnemonic = "supreme cake hammer liberty oblige special parent trade green blouse choice quit";
+var mnemonic = "wasp subject essay fancy patrol replace now pony link inspire pitch ski";

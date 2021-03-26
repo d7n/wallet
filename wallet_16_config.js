@@ -1,1 +1,1 @@
-var mnemonic = "inject turn grab arctic fury shy direct boil outer throw dice salmon";
+var mnemonic = "sentence agent great grass decorate annual become surface silent copper cross six";

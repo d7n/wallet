@@ -1,1 +1,1 @@
-var mnemonic = "dwarf skin drum slow bacon clerk ribbon wool silver ecology weekend wedding";
+var mnemonic = "open shiver walnut hood survey false clutch anchor addict oil duty gloom";

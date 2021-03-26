@@ -1,1 +1,1 @@
-var mnemonic = "review clinic drum wire fiction spice jacket supreme isolate urge cabin approve";
+var mnemonic = "ozone room raw wisdom reduce ecology shrimp advance essence such meadow loop";

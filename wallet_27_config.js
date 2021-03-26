@@ -1,1 +1,1 @@
-var mnemonic = "below wise cram chase render pitch social gate input maple meat robust";
+var mnemonic = "industry gauge notice label mosquito valid company tonight moral blanket treat receive";

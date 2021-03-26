@@ -1,1 +1,1 @@
-var mnemonic = "mule talent ranch fortune tortoise join sample believe gadget life push will";
+var mnemonic = "cupboard width slide beach tank convince liar increase knee february scan maid";

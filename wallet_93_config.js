@@ -1,1 +1,1 @@
-var mnemonic = "surround select piano nominee tree explain hammer memory off fame lake label";
+var mnemonic = "media ankle cart omit invite bulk bone depth joke swallow universe suffer";

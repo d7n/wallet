@@ -1,1 +1,1 @@
-var mnemonic = "setup swim divide pear ladder minimum dizzy learn bonus assist worry sphere";
+var mnemonic = "october sauce repeat any wait animal mother excuse win cruise rent general";

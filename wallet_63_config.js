@@ -1,1 +1,1 @@
-var mnemonic = "client pink oyster cruise fossil sing arctic script document indoor clutch result";
+var mnemonic = "innocent jungle tenant detect traffic must blanket pact just boss embark orchard";

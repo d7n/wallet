@@ -1,1 +1,1 @@
-var mnemonic = "bless burst group volume old blade toss recipe waste casual donate annual";
+var mnemonic = "strategy quick swim dolphin monster army practice health million like test liquid";

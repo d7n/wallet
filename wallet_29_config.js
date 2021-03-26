@@ -1,1 +1,1 @@
-var mnemonic = "curious broccoli liar inform sick toilet venture patch infant code once blame";
+var mnemonic = "diagram buyer mechanic view arena avocado split sound salon harsh object buddy";

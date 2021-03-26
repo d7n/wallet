@@ -1,1 +1,1 @@
-var mnemonic = "enroll virtual sorry dirt special swift artefact brand funny lounge conduct clutch";
+var mnemonic = "domain trouble smile only culture beyond mesh tuition end proud snow nominee";

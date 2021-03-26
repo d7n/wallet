@@ -1,1 +1,1 @@
-var mnemonic = "culture muscle palace rally bacon spy display please corn script ramp bean";
+var mnemonic = "music fluid saddle soda critic coral caution advice load vivid about across";

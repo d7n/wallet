@@ -1,1 +1,1 @@
-var mnemonic = "shock cream purpose agent machine system tail wreck easy silver soap grid";
+var mnemonic = "box asthma traffic tray exhibit corn moral subject side scene pipe bag";

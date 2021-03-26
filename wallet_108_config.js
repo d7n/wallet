@@ -1,1 +1,1 @@
-var mnemonic = "rebel affair morning leave wash false miracle banana bitter flip dawn come";
+var mnemonic = "shield survey surge leopard clarify dynamic fog sheriff mammal inherit now fresh";

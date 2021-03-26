@@ -1,1 +1,1 @@
-var mnemonic = "can relax turtle pony draw zoo hub there oven top ensure speak";
+var mnemonic = "spoon slot weapon force rhythm action citizen shrimp lawsuit mixed hurdle flee";

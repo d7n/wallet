@@ -1,1 +1,1 @@
-var mnemonic = "core now bunker tiger one build blue conduct radio now pattern witness";
+var mnemonic = "caught absorb crouch rotate brush okay toddler ladder field few supreme tragic";

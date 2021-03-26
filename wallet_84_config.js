@@ -1,1 +1,1 @@
-var mnemonic = "gospel submit history fruit bird wood limb vague noodle toy cruel ice";
+var mnemonic = "venture deny flee speed orbit local choice ride fetch amateur entire lab";

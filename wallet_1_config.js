@@ -1,1 +1,1 @@
-var mnemonic = "youth session patrol seminar talent tackle table among gun trumpet tomato rule";
+var mnemonic = "barrel supreme come van feel degree practice rookie protect team leisure antenna";

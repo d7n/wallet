@@ -1,1 +1,1 @@
-var mnemonic = "rescue ridge intact canoe mammal soul dirt analyst jar post barely wink";
+var mnemonic = "island alert clerk method gravity hip citizen vintage able mom correct join";

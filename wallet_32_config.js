@@ -1,1 +1,1 @@
-var mnemonic = "apple very bar core tilt file occur lion frown improve gallery lawsuit";
+var mnemonic = "devote comic inmate bid finger actual label borrow casual idea lunch boss";

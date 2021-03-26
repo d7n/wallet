@@ -1,1 +1,1 @@
-var mnemonic = "piece vacant wire yard napkin remind adjust sniff aerobic robot lift lens";
+var mnemonic = "just shed habit correct cliff stadium witness fringe universe pencil aspect ugly";

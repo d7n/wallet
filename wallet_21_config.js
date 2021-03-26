@@ -1,1 +1,1 @@
-var mnemonic = "glow damp hip rebuild female omit scrap miss sunset pear mirror inhale";
+var mnemonic = "other fitness effort print congress cigar badge warrior produce debris struggle sport";

@@ -1,1 +1,1 @@
-var mnemonic = "left sock drama fog immense fiber climb hand equip ranch toilet round";
+var mnemonic = "corn motor immense dilemma track typical duck witness ten motor equip banner";

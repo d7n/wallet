@@ -1,1 +1,1 @@
-var mnemonic = "logic useless glove axis wheel act hockey burden junk notice sample mushroom";
+var mnemonic = "middle bring worry pledge action unfair aim tragic gallery sad try giggle";

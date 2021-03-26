@@ -1,1 +1,1 @@
-var mnemonic = "interest popular plunge stomach allow next top silver draft comfort color behave";
+var mnemonic = "glimpse private horn immense window chase wife clerk rubber spray ceiling blood";

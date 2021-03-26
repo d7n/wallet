@@ -1,1 +1,1 @@
-var mnemonic = "demand arm hungry grunt goddess eternal left coil kingdom oxygen friend what";
+var mnemonic = "forget hope amused favorite faith come repair picture pulp dog height gas";

@@ -1,1 +1,1 @@
-var mnemonic = "east piano wife pass wall barrel reward renew depart ready hurry hard";
+var mnemonic = "dress predict absorb cradle gift dizzy major differ merit cloth various success";

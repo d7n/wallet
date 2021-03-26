@@ -1,1 +1,1 @@
-var mnemonic = "riot quick tobacco knock gate bronze struggle essence find claw pet supreme";
+var mnemonic = "admit seven liquid shove message cactus title cool trim carry claim humble";

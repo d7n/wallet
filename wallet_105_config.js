@@ -1,1 +1,1 @@
-var mnemonic = "expect flag advice suffer sheriff path menu truck trumpet license ancient vote";
+var mnemonic = "alter tooth valley believe clarify round viable bike badge impose stumble whisper";

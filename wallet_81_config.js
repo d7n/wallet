@@ -1,1 +1,1 @@
-var mnemonic = "ignore desk mimic muffin pave letter renew chief video scale wine indoor";
+var mnemonic = "beach check purchase door shallow point blanket worry differ hamster beyond merry";

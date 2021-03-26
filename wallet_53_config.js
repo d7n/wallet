@@ -1,1 +1,1 @@
-var mnemonic = "produce icon match rack plastic broom firm stone van visit census truly";
+var mnemonic = "muffin another resource surge brisk news now crush athlete virus peace food";

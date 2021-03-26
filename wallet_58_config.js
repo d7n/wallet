@@ -1,1 +1,1 @@
-var mnemonic = "dress subject follow oval crazy fitness omit march hazard grace syrup aisle";
+var mnemonic = "exhaust loyal nation razor wash occur chimney lawn level shift october iron";

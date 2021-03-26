@@ -1,1 +1,1 @@
-var mnemonic = "welcome punch father movie thunder shine endorse obscure hawk bread top orient";
+var mnemonic = "float scare trial orange health bean crunch popular current imitate can rural";

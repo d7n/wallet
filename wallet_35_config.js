@@ -1,1 +1,1 @@
-var mnemonic = "hollow funny possible govern exercise any orphan clown student side mechanic ankle";
+var mnemonic = "critic deputy front toilet game seed pigeon ready pipe sheriff debris calm";

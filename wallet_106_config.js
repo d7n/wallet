@@ -1,1 +1,1 @@
-var mnemonic = "vacant hub strong taxi term all judge alcohol traffic coyote unfold moon";
+var mnemonic = "elite gallery deposit large current barrel wasp business alter emotion rabbit family";

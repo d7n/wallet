@@ -1,1 +1,1 @@
-var mnemonic = "elephant bachelor moment become eye sphere photo host task picture promote state";
+var mnemonic = "wolf stuff level exit label stomach harvest weather mixed silk possible forward";

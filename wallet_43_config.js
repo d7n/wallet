@@ -1,1 +1,1 @@
-var mnemonic = "horse desert notice marble easy convince together space fragile they number south";
+var mnemonic = "fence bachelor heart true devote wasp month bulb monitor risk eagle spread";

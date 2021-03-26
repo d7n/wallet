@@ -1,1 +1,1 @@
-var mnemonic = "use nasty author record list alarm apology control exclude exclude unhappy syrup";
+var mnemonic = "organ begin fly involve oval lawn style betray flight between weekend ladder";

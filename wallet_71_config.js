@@ -1,1 +1,1 @@
-var mnemonic = "sample auto flush lazy change remove wasp fuel ready special fashion across";
+var mnemonic = "fit prevent cereal muffin turn pair arrive engage cube ring wheat budget";

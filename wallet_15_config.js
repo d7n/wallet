@@ -1,1 +1,1 @@
-var mnemonic = "milk funny media twist trick cattle polar mixture cinnamon luggage good butter";
+var mnemonic = "achieve soft library dynamic twin side inch home weapon nurse critic ivory";

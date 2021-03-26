@@ -1,1 +1,1 @@
-var mnemonic = "anger pig oxygen glad lizard desert coconut point pipe such news display";
+var mnemonic = "fiscal answer wall fragile turn fashion recycle multiply cool vapor simple rib";

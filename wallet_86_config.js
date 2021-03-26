@@ -1,1 +1,1 @@
-var mnemonic = "turtle welcome struggle cave machine fence burden warfare middle cloth mansion income";
+var mnemonic = "warrior wall enlist sell slush slight dog olympic car odor radar step";

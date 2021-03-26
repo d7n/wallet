@@ -1,1 +1,1 @@
-var mnemonic = "collect kitten evolve wink rabbit moment goat cost name frozen execute above";
+var mnemonic = "clarify vast buyer pledge thumb tube region supreme agent safe actual train";

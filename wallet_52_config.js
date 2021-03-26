@@ -1,1 +1,1 @@
-var mnemonic = "steel they jeans chunk gentle pistol trim need cloud habit glare month";
+var mnemonic = "convince second token plunge absorb arena other trip cousin wild can decide";

@@ -1,1 +1,1 @@
-var mnemonic = "expose security farm ensure useful gown bulb message true purpose rotate shoe";
+var mnemonic = "tomorrow mushroom cannon key primary inflict knee pen disagree water zone harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate lawn benefit shine movie scale snake cream lawn flush boost beyond";
+var mnemonic = "pistol suit filter father electric obscure night faculty dish swarm memory fossil";

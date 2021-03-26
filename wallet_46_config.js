@@ -1,1 +1,1 @@
-var mnemonic = "assume dwarf shop few valve aware certain vintage leg palace lava parade";
+var mnemonic = "butter cry hurt diesel dignity chimney acoustic syrup fit race grief ecology";

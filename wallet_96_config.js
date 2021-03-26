@@ -1,1 +1,1 @@
-var mnemonic = "toe arrest company paddle upset sphere lock spirit miss leader wise chest";
+var mnemonic = "universe clutch divorce city dream follow legend ride unfold donor nature sport";

@@ -1,1 +1,1 @@
-var mnemonic = "climb sponsor wasp uphold arch cream grape agent project enhance crane joke";
+var mnemonic = "onion wild like garden hero turkey frame shop half turkey elegant tortoise";

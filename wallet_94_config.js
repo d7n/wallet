@@ -1,1 +1,1 @@
-var mnemonic = "impulse bench surprise oblige affair august gallery tool travel absorb result toast";
+var mnemonic = "gravity render chaos farm bacon erosion unknown universe loud cushion clean security";

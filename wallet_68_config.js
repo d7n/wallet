@@ -1,1 +1,1 @@
-var mnemonic = "primary spare bicycle enforce soup wait shove merge myself circle light neck";
+var mnemonic = "swift little mansion noise shadow bench approve grocery general next six fever";

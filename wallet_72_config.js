@@ -1,1 +1,1 @@
-var mnemonic = "train piano flight unknown adult play trouble angry name chase shallow equal";
+var mnemonic = "segment mixed treat tooth olympic either gun glare phone excite ocean badge";

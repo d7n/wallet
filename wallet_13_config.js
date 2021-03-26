@@ -1,1 +1,1 @@
-var mnemonic = "announce win hazard design initial arm creek organ today galaxy double source";
+var mnemonic = "wedding young romance myth can tired sun slide coconut film enforce leg";

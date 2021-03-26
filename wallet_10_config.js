@@ -1,1 +1,1 @@
-var mnemonic = "mountain film radar monitor bacon kiss shine unaware right emerge hurt balance";
+var mnemonic = "simple above excess outdoor cactus supreme gesture win cup feature immense parrot";

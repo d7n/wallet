@@ -1,1 +1,1 @@
-var mnemonic = "lunch marriage winter arctic order gas toy work advice fog doctor bring";
+var mnemonic = "silver caught suggest visa marble theme pair sniff hunt entire pottery traffic";

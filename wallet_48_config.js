@@ -1,1 +1,1 @@
-var mnemonic = "tank know valid life giant robust palace annual assume jungle family expose";
+var mnemonic = "high before benefit turtle orbit gaze benefit around theory pepper much air";

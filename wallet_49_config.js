@@ -1,1 +1,1 @@
-var mnemonic = "usage match wire better gadget twist hat evil host guard hockey best";
+var mnemonic = "bomb piano symbol boost boy combine alert crack envelope erupt ethics divide";

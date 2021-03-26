@@ -1,1 +1,1 @@
-var mnemonic = "build leader spatial nuclear fluid share husband cancel sort velvet clay cruel";
+var mnemonic = "stone observe estate pact harbor finger involve educate price confirm edit horror";

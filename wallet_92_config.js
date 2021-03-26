@@ -1,1 +1,1 @@
-var mnemonic = "east climb above awake taste avocado dismiss junk action theory brush grant";
+var mnemonic = "rookie equip book quit melt know clip liberty odor joy amateur ostrich";

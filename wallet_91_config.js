@@ -1,1 +1,1 @@
-var mnemonic = "mean ankle despair behave sponsor memory trick sort work lunch awesome drive";
+var mnemonic = "like recall destroy give spare culture upgrade badge tuition ethics lift space";

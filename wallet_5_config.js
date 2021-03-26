@@ -1,1 +1,1 @@
-var mnemonic = "depend pencil exhaust transfer load practice sugar grocery crawl type exact robot";
+var mnemonic = "admit depth pole medal heavy track wrestle almost actor property suggest dirt";

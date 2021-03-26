@@ -1,1 +1,1 @@
-var mnemonic = "robust parent confirm kite mansion link language group sibling quote scrap oil";
+var mnemonic = "visit ritual torch vibrant explain edge ridge rocket gesture student layer wolf";

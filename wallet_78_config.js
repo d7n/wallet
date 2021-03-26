@@ -1,1 +1,1 @@
-var mnemonic = "gap dizzy opinion pride breeze lemon oxygen quote dutch merge mind patient";
+var mnemonic = "approve picture arrive then echo into stove lucky panther desert trigger balance";

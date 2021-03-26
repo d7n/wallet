@@ -1,1 +1,1 @@
-var mnemonic = "travel camp join domain message become donkey hard riot foam charge luggage";
+var mnemonic = "practice drip alter coil lava zero task beef have question step weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "address evolve toss false chronic tree city budget engage hawk action purse";
+var mnemonic = "rabbit stage table trigger include diamond derive hover second economy junk suffer";

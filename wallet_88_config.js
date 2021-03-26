@@ -1,1 +1,1 @@
-var mnemonic = "rapid south short oven pink energy practice mass sail debris rural junior";
+var mnemonic = "decrease sense height duty town veteran pyramid summer choose deer they logic";

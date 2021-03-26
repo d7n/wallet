@@ -1,1 +1,1 @@
-var mnemonic = "fall bubble oven obvious recipe digital tuition churn virus plunge reason bargain";
+var mnemonic = "labor cheap segment roof song help swear warrior venture initial dog oppose";

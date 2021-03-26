@@ -1,1 +1,1 @@
-var mnemonic = "tragic hammer soda summer tobacco canoe horse achieve cabin gift phone account";
+var mnemonic = "ignore relax main animal census donate history sand wash universe music easily";

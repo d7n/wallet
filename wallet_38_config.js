@@ -1,1 +1,1 @@
-var mnemonic = "floor desk spatial quick door gesture someone have idle garage gallery axis";
+var mnemonic = "behave exit exhibit orphan private cat weasel walk purchase throw mountain machine";

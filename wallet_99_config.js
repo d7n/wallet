@@ -1,1 +1,1 @@
-var mnemonic = "slogan price walk kitchen wage license alone exchange symbol cat spin beauty";
+var mnemonic = "youth empower improve fold crawl tilt oppose tattoo option section layer bracket";

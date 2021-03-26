@@ -1,1 +1,1 @@
-var mnemonic = "alert board metal bright code absurd narrow ethics current prevent legend picnic";
+var mnemonic = "pudding frown stadium seven connect spot urban great valley luggage furnace feature";

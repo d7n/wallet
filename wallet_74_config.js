@@ -1,1 +1,1 @@
-var mnemonic = "chalk hope race minor make borrow turn bronze monster extra remember bargain";
+var mnemonic = "kind lonely afraid film smooth provide unfair help loud staff syrup erase";

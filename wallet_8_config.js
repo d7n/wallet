@@ -1,1 +1,1 @@
-var mnemonic = "winner wet scorpion attack lesson this sketch sphere jeans boost ritual fiction";
+var mnemonic = "tomorrow load hand stereo grocery refuse myth weird swamp legend judge beef";

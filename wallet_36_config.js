@@ -1,1 +1,1 @@
-var mnemonic = "ignore finish fat shield uniform drum write pool army leader engine move";
+var mnemonic = "empty rigid mammal cancel during aisle giggle space liberty misery scrap song";

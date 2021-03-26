@@ -1,1 +1,1 @@
-var mnemonic = "gather view tourist south olympic quote hope recycle lock prevent enrich tiny";
+var mnemonic = "pause rubber grow destroy disorder pole wage asthma know method habit chair";

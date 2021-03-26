@@ -1,1 +1,1 @@
-var mnemonic = "boring loan dilemma forward frost amount olympic planet lonely expect fox timber";
+var mnemonic = "oval behave nephew hair left dignity across artwork skin denial mail false";

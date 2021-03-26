@@ -1,1 +1,1 @@
-var mnemonic = "jacket theme east rifle control judge industry sound romance ridge start make";
+var mnemonic = "join hire neck lab tunnel give audit visual steak price tower milk";

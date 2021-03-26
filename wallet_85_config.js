@@ -1,1 +1,1 @@
-var mnemonic = "anchor holiday sword legend dust space bench steak domain grunt hospital ethics";
+var mnemonic = "turtle valve other fault high turkey width hobby lunch audit piece street";

@@ -1,1 +1,1 @@
-var mnemonic = "country input sudden wrist figure hidden bundle void silly scissors swear lion";
+var mnemonic = "opera egg cream able exist finger replace hollow arena coast vendor face";

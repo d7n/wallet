@@ -1,1 +1,1 @@
-var mnemonic = "depend before chronic repair dinosaur noble hat humble goat vintage wife brother";
+var mnemonic = "room armed view silent fade cute pony elevator chest fire dish paddle";

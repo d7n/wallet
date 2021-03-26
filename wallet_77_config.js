@@ -1,1 +1,1 @@
-var mnemonic = "snack suggest pledge hat bronze oppose extra spatial same dignity merge future";
+var mnemonic = "word tribe castle analyst job seminar roof idea arrow truly two grain";

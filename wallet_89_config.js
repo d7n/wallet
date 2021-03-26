@@ -1,1 +1,1 @@
-var mnemonic = "gallery winner history plastic digital result indicate when bid clean advance movie";
+var mnemonic = "neck language garden cruel click indoor subway fossil pride bomb bounce legal";

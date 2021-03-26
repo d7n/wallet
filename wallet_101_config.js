@@ -1,1 +1,1 @@
-var mnemonic = "rhythm vast confirm insect saddle gym quiz emotion anchor van primary wonder";
+var mnemonic = "minimum maximum unlock scorpion wink try thing depth seed menu original search";

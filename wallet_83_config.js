@@ -1,1 +1,1 @@
-var mnemonic = "tomato maximum rail jungle cabin friend flush pitch save curious ketchup apology";
+var mnemonic = "host account rural catalog couple alone excess have vapor bag diet hood";

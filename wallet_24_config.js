@@ -1,1 +1,1 @@
-var mnemonic = "payment theme spring horror silk identify people gospel hint satisfy relax eagle";
+var mnemonic = "noodle sick angle another theme gain tag someone depth broken verb depart";

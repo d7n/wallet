@@ -1,1 +1,1 @@
-var mnemonic = "swift stuff wedding panic spell cabbage enemy rotate sunset bless rib cost";
+var mnemonic = "angry maximum noise cart alien iron impulse step public absurd shiver planet";

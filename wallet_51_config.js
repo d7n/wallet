@@ -1,1 +1,1 @@
-var mnemonic = "vast weekend quiz soup fashion solid use wool flee federal enter together";
+var mnemonic = "fog limb upon crater magic siren donkey wrestle range margin banner unable";
