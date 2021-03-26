@@ -1,1 +1,1 @@
-var mnemonic = "usage year crawl display imitate transfer century destroy position reason excuse price";
+var mnemonic = "alpha season move cloth moon float satoshi state advice whisper rose knife";

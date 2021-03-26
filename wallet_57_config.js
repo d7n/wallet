@@ -1,1 +1,1 @@
-var mnemonic = "basic okay acoustic fade finger practice donkey usage history item dismiss profit";
+var mnemonic = "off hurry trophy humor border rigid wrist blush plunge misery allow attack";

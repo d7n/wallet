@@ -1,1 +1,1 @@
-var mnemonic = "another invite dance soldier party allow luxury assist summer like leaf oil";
+var mnemonic = "skin duty split garbage accuse artwork sand now case distance spider butter";

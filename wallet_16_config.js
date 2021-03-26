@@ -1,1 +1,1 @@
-var mnemonic = "eagle fence gorilla coil wave hood blade village foam summer moment aspect";
+var mnemonic = "panther enhance garage joy wasp loop marriage embark load utility loop index";

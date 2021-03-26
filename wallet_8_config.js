@@ -1,1 +1,1 @@
-var mnemonic = "breeze mad brother glove renew luggage brief ketchup chapter salute expect type";
+var mnemonic = "certain exhaust twist brick useless lens yard lesson birth decline spell tackle";

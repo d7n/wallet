@@ -1,1 +1,1 @@
-var mnemonic = "supply version inspire boil journey good crawl pool subway drink state nation";
+var mnemonic = "float step obscure between river orbit network page deal magic horn laptop";

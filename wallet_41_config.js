@@ -1,1 +1,1 @@
-var mnemonic = "false resemble detail seven member wise gravity rib tell direct polar relief";
+var mnemonic = "letter problem barrel observe better acquire fall bread sunset lab install marble";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic win gloom during cake select worth gesture object suffer remain clock";
+var mnemonic = "depend rookie pole swear vibrant fluid bread desert share unknown raise foster";

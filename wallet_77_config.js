@@ -1,1 +1,1 @@
-var mnemonic = "season hover twist fiber pulp right now puzzle tomorrow cattle hen north";
+var mnemonic = "copper ginger false vote around fiction inner glory detail burger wave crop";

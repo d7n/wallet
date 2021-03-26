@@ -1,1 +1,1 @@
-var mnemonic = "fire duty evidence grief blue they deny ignore pact original hidden visit";
+var mnemonic = "fall gasp voice panel bright follow escape daring bundle ocean indicate grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt rhythm fatigue mind refuse buffalo reunion dove typical prevent stable fire";
+var mnemonic = "father goose disagree jar liberty tip midnight clip wheel pledge need human";

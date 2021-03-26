@@ -1,1 +1,1 @@
-var mnemonic = "fame large click equip sister useful rebuild throw hip oblige bronze stem";
+var mnemonic = "ketchup tumble client decorate stock raise dynamic october liar uniform excess guide";

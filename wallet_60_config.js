@@ -1,1 +1,1 @@
-var mnemonic = "crane mail trigger exhaust tortoise economy chimney sell donate below install senior";
+var mnemonic = "junk member trade version three broken symptom train spoil margin near fabric";

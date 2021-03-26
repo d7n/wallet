@@ -1,1 +1,1 @@
-var mnemonic = "tower narrow castle model spoil toy mother shield rely double gadget access";
+var mnemonic = "jewel concert hamster trash van board disorder fence rich end license erode";

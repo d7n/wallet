@@ -1,1 +1,1 @@
-var mnemonic = "lake dog void chapter pumpkin under adapt gold young morning dismiss genre";
+var mnemonic = "scrub topple mom dice park cereal march side vast spring race priority";

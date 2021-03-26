@@ -1,1 +1,1 @@
-var mnemonic = "suspect course transfer account whisper absurd beach bachelor skate local tray wasp";
+var mnemonic = "limb bulk salmon early slight habit acid shallow nice update pear fog";

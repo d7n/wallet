@@ -1,1 +1,1 @@
-var mnemonic = "scene question chicken proud exile vanish eagle catalog final say wheel skill";
+var mnemonic = "drop install only bonus sport stove empty ripple clarify bring theme finish";

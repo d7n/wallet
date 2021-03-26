@@ -1,1 +1,1 @@
-var mnemonic = "source punch improve twenty flip bridge advice smart ethics cushion issue guide";
+var mnemonic = "perfect keen rose canvas match task demand general dentist glimpse indoor skin";

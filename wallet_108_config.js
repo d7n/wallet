@@ -1,1 +1,1 @@
-var mnemonic = "risk lock spider corn merge surge remain gorilla picnic million supply bless";
+var mnemonic = "fresh drive camp actor coyote reason obey sugar estate what skate muffin";

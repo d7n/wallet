@@ -1,1 +1,1 @@
-var mnemonic = "pepper school lunch swarm install valid powder process fever sting fold dawn";
+var mnemonic = "bargain twelve bulk hen injury address kid place unable uphold range odor";

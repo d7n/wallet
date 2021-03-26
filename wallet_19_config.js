@@ -1,1 +1,1 @@
-var mnemonic = "this lecture wear alcohol mail walnut welcome position motor shop nurse lunch";
+var mnemonic = "industry mystery then east menu once voice journey wasp valid gospel insane";

@@ -1,1 +1,1 @@
-var mnemonic = "actual fall field little bicycle sort bacon advance goose hollow series retreat";
+var mnemonic = "fitness foam shrug used miracle february carpet busy hover acoustic juice cement";

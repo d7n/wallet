@@ -1,1 +1,1 @@
-var mnemonic = "course capable arrive hand juice slush rebel street crucial coin accuse call";
+var mnemonic = "twice cereal victory reduce adjust require diet embrace about turtle stereo obey";

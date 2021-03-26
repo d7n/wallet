@@ -1,1 +1,1 @@
-var mnemonic = "rally extend crunch chuckle breeze fee festival sense install mammal flush hub";
+var mnemonic = "hip subway quote basket mention hair glad print kit atom art resemble";

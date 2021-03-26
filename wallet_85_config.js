@@ -1,1 +1,1 @@
-var mnemonic = "mouse wish patrol remember grit base swift prison modify inquiry proud unaware";
+var mnemonic = "amateur dizzy spend history arrest game gym salon oyster hamster extend enlist";

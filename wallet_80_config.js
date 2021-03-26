@@ -1,1 +1,1 @@
-var mnemonic = "strong nice inch will suspect buyer whisper marine canvas food remove drill";
+var mnemonic = "cigar mystery gas august picnic stem diagram cram cup deputy error flat";

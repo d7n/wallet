@@ -1,1 +1,1 @@
-var mnemonic = "old coconut body abstract cinnamon diesel opera weekend become relief easy buzz";
+var mnemonic = "end filter tissue rate rebel spell drop make there lab bargain abandon";

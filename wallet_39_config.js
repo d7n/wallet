@@ -1,1 +1,1 @@
-var mnemonic = "exhaust miracle muffin labor depart then again also exchange raise south clarify";
+var mnemonic = "suit series crime end skull brother omit chronic deal priority fashion consider";

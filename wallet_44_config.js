@@ -1,1 +1,1 @@
-var mnemonic = "chat jewel title beach worth illness range since joke slab actress beauty";
+var mnemonic = "neglect shuffle quick blur card neutral giggle planet black cause over provide";

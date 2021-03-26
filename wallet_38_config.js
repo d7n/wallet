@@ -1,1 +1,1 @@
-var mnemonic = "ugly gloom blast script bind jump actual border decade trial orbit purpose";
+var mnemonic = "push enemy year conduct slot tortoise candy rice display merry toilet near";

@@ -1,1 +1,1 @@
-var mnemonic = "cream secret crucial silver crater attack void volume urge prize leg key";
+var mnemonic = "attack hero habit burst when normal day stomach shop leopard measure riot";

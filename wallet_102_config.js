@@ -1,1 +1,1 @@
-var mnemonic = "inspire cereal deal tide grit mosquito worry field series offer insane wave";
+var mnemonic = "page shuffle obtain wool huge nothing ghost sing skill finger right increase";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn loop hurdle quit dad middle shaft arrow army tunnel depart spike";
+var mnemonic = "drop private chunk travel concert chronic final spike balcony comic stumble there";

@@ -1,1 +1,1 @@
-var mnemonic = "fan fortune vivid arrange romance game dignity honey garlic spread elite scan";
+var mnemonic = "advice sketch balance tooth tuna razor dose club three educate peasant wise";

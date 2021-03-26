@@ -1,1 +1,1 @@
-var mnemonic = "learn cricket crash coach essay occur churn plug duck dizzy tennis elegant";
+var mnemonic = "phone frown seed beauty result transfer price normal fetch hint second arrange";

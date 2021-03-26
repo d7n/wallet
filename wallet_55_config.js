@@ -1,1 +1,1 @@
-var mnemonic = "shrug moral jazz write retire attitude spoon yard tomato sketch bulb plate";
+var mnemonic = "antique color suit bacon modify stairs else runway hurt twin hundred hero";

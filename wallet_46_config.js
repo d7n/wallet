@@ -1,1 +1,1 @@
-var mnemonic = "hub number orient borrow reward table stem blind inject razor rail ill";
+var mnemonic = "caution fat call utility champion plunge critic van insane execute blade march";

@@ -1,1 +1,1 @@
-var mnemonic = "shop chapter private point face elder night tenant leave huge library usual";
+var mnemonic = "push pencil era observe shed rule sugar mix alert surround disorder frost";

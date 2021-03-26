@@ -1,1 +1,1 @@
-var mnemonic = "pelican pig grid input monkey unit own what warfare seek blanket neck";
+var mnemonic = "viable unhappy nest impulse wild inch antique phone over enact apart park";

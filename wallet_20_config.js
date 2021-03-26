@@ -1,1 +1,1 @@
-var mnemonic = "wife thunder tide harvest neck sample swim ankle surround gas tomato describe";
+var mnemonic = "glad jazz require hello insect grunt there diagram silent hard catch prepare";

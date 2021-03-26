@@ -1,1 +1,1 @@
-var mnemonic = "jaguar item above cave plunge angry slam enact level modify supreme cute";
+var mnemonic = "rookie mail setup inflict mention dismiss slide evolve tiger cupboard ketchup smoke";

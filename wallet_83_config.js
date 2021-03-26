@@ -1,1 +1,1 @@
-var mnemonic = "stereo hub demise once path hire where accident tone usage tape ankle";
+var mnemonic = "clerk explain betray cushion danger crater awkward silver team camp stairs movie";

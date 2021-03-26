@@ -1,1 +1,1 @@
-var mnemonic = "novel reason base hammer foil thrive powder sweet drill warfare garment final";
+var mnemonic = "yard elder jazz route crew violin umbrella nurse double worry violin finger";

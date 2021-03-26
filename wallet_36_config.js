@@ -1,1 +1,1 @@
-var mnemonic = "relief vague reward round large group cave movie bless tuna into relax";
+var mnemonic = "atom coyote dove aerobic uniform enhance police two spider used visual leader";

@@ -1,1 +1,1 @@
-var mnemonic = "during more kitten ship lock dose teach tray also quick that ship";
+var mnemonic = "cloud one olympic bean awful brand theory lawsuit bacon orbit nothing sad";

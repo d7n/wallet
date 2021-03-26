@@ -1,1 +1,1 @@
-var mnemonic = "suit reunion worry kit hood fluid polar mean witness volume surge reject";
+var mnemonic = "cherry inside human soldier scale settle belt outside eager dawn actress teach";

@@ -1,1 +1,1 @@
-var mnemonic = "eternal stem angry kind travel tuna taxi same gift return spin regret";
+var mnemonic = "gentle anger sweet melt please medal skate scatter book spring supply income";

@@ -1,1 +1,1 @@
-var mnemonic = "hip unfair cute fury harvest large crawl borrow desert maximum town hire";
+var mnemonic = "entire gallery peasant section record eyebrow bounce agent tomato cheese donkey clerk";

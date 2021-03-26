@@ -1,1 +1,1 @@
-var mnemonic = "clap there height sauce dial often early luggage combine economy capital absurd";
+var mnemonic = "cake cement resource drastic little such donkey clarify burden mandate sleep ripple";

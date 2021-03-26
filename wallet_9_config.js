@@ -1,1 +1,1 @@
-var mnemonic = "success grunt session upper hundred surface narrow casino hub cupboard private embrace";
+var mnemonic = "focus gas reward shift pride proof position tiny receive unit guess live";

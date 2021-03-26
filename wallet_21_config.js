@@ -1,1 +1,1 @@
-var mnemonic = "same thrive neutral consider silly asset two car shine list dish clump";
+var mnemonic = "parent raw ginger guess wisdom spatial alcohol hawk race promote board suspect";

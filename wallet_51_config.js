@@ -1,1 +1,1 @@
-var mnemonic = "curious social vacant reflect awake promote comfort junk seven milk similar depend";
+var mnemonic = "eight jealous news tissue syrup notice truly steak skin print inflict connect";

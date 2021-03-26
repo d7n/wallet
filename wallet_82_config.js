@@ -1,1 +1,1 @@
-var mnemonic = "boil clean coach swallow border island myth horn afford diamond dry rigid";
+var mnemonic = "rent ranch beef ecology solid animal snow sauce winner broccoli second analyst";

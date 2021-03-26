@@ -1,1 +1,1 @@
-var mnemonic = "wine tissue orange brain divert vault adult myself slot sting science exhaust";
+var mnemonic = "hour accuse right tooth aware true hospital knife hungry later ugly garden";

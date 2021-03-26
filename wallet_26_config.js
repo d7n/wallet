@@ -1,1 +1,1 @@
-var mnemonic = "position cause bargain garden spend clerk faculty broom rent melt innocent village";
+var mnemonic = "field merit shrimp document okay embrace notable clarify explain dutch window into";

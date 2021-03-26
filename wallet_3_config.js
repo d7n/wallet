@@ -1,1 +1,1 @@
-var mnemonic = "real walnut series scene praise upon flock pear exact web crazy day";
+var mnemonic = "seat mirror frozen joy blur poverty unusual main cube stage second chief";

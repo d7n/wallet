@@ -1,1 +1,1 @@
-var mnemonic = "vocal know pistol humor under tool width suspect obvious erosion liberty shy";
+var mnemonic = "donate valid leopard column truck dizzy lonely brown street rich spin mail";

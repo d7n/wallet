@@ -1,1 +1,1 @@
-var mnemonic = "expect imitate garment eyebrow heavy favorite program turkey picture network police about";
+var mnemonic = "note adult nothing tomorrow pattern exile police mule warm drift immense correct";

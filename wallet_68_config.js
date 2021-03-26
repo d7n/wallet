@@ -1,1 +1,1 @@
-var mnemonic = "science draw yard hold sphere ginger pig hair random method enact gadget";
+var mnemonic = "phone potato mad palace tip equip caution grace feed never song record";

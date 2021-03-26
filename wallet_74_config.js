@@ -1,1 +1,1 @@
-var mnemonic = "whale all tongue adapt fame hen cool shadow false resource candy victory";
+var mnemonic = "syrup soda tornado shallow truly edge love history erode diagram private interest";

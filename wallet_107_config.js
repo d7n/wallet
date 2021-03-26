@@ -1,1 +1,1 @@
-var mnemonic = "muscle local pyramid crush project apart family boost practice subject select soldier";
+var mnemonic = "finger trend speak thumb buzz yellow run shuffle candy blue just dismiss";

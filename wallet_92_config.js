@@ -1,1 +1,1 @@
-var mnemonic = "memory render try toy solution route rare regret scare tail journey frown";
+var mnemonic = "vocal outer wear boost bullet window novel employ hockey weekend prefer toss";

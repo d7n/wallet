@@ -1,1 +1,1 @@
-var mnemonic = "nose curve prefer bar mail trade bicycle cause young pattern repeat beyond";
+var mnemonic = "end order wool educate cute approve claim garden gate nephew glow art";

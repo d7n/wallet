@@ -1,1 +1,1 @@
-var mnemonic = "never naive forget bean thought struggle then poverty universe oblige exact relief";
+var mnemonic = "person silly wisdom sunny visual mix grit false thumb minor mutual whip";

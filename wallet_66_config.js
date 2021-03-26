@@ -1,1 +1,1 @@
-var mnemonic = "unhappy velvet theory clever alcohol melt special luxury glue voice cabbage awesome";
+var mnemonic = "member slogan unknown more diagram beef pass verb lend bird doll limit";

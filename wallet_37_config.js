@@ -1,1 +1,1 @@
-var mnemonic = "thing actress trap employ prevent ugly symbol injury eternal radar horn face";
+var mnemonic = "section pigeon pottery parrot busy mesh confirm next tuition desk enhance device";

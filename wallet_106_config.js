@@ -1,1 +1,1 @@
-var mnemonic = "hood unknown always drama other decade theme cannon weather light panel camera";
+var mnemonic = "magic mobile help captain record rule motion shove must bind captain winner";

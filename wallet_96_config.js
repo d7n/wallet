@@ -1,1 +1,1 @@
-var mnemonic = "diagram interest actual execute quarter rate smile hire effort begin ranch lift";
+var mnemonic = "want hamster tiny immune cabbage section mouse lock bus champion young twice";

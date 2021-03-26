@@ -1,1 +1,1 @@
-var mnemonic = "grief rebel protect such erase lock wine fold course head check more";
+var mnemonic = "aspect wrestle napkin expand foam still bench matter achieve math hill cake";

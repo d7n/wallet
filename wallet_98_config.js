@@ -1,1 +1,1 @@
-var mnemonic = "camp twin enlist advice vibrant crash ribbon obey silly network hawk ahead";
+var mnemonic = "slam use spell foot dish clay farm volcano angry orient trumpet keep";

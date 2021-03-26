@@ -1,1 +1,1 @@
-var mnemonic = "screen balance vapor intact crunch fantasy course erode garage skate employ tilt";
+var mnemonic = "say mean fame better tissue lift raccoon output when riot icon follow";

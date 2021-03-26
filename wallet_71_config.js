@@ -1,1 +1,1 @@
-var mnemonic = "permit burger harvest tackle notice lunch toss keep result reveal range crunch";
+var mnemonic = "tone usual awesome animal fine hidden milk amazing tooth evil soldier civil";

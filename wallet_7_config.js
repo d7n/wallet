@@ -1,1 +1,1 @@
-var mnemonic = "march piano nation find hat twelve mention also wide shoot dream logic";
+var mnemonic = "invest bulb woman recall disease program winter buffalo mobile west purity resource";

@@ -1,1 +1,1 @@
-var mnemonic = "rule ride tobacco song offer duty bike identify involve afraid toddler slogan";
+var mnemonic = "hire crash custom myself quarter pole tube cabbage hundred dentist zero describe";

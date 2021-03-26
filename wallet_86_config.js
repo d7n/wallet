@@ -1,1 +1,1 @@
-var mnemonic = "pulse crop zoo annual switch marriage chimney nice fish lesson action width";
+var mnemonic = "text discover monitor gain advance valid wall neck forest panda board shallow";

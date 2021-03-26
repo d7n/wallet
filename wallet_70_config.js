@@ -1,1 +1,1 @@
-var mnemonic = "maid toss elite crop inform poem crater wage elite copper chair eyebrow";
+var mnemonic = "play entry cotton provide miracle error recycle attack true start slender yard";

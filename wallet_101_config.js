@@ -1,1 +1,1 @@
-var mnemonic = "deputy swamp have mention lion burger critic update kingdom tell kite virus";
+var mnemonic = "two scatter near safe egg joy danger cliff among voice among army";

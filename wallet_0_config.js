@@ -1,1 +1,1 @@
-var mnemonic = "sugar kite phrase session chat film record gravity decrease cart clarify chuckle";
+var mnemonic = "green heavy lunar ethics few truth almost veteran custom ride increase web";

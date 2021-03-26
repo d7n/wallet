@@ -1,1 +1,1 @@
-var mnemonic = "pioneer axis village target sibling prize clock affair arch elevator enable what";
+var mnemonic = "change clay sunset coin sleep polar forum record bounce mind result best";

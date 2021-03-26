@@ -1,1 +1,1 @@
-var mnemonic = "twin lecture trophy pulp bottom develop purpose learn company claim law maple";
+var mnemonic = "because must sustain exclude rack level practice brown note evidence beyond shift";

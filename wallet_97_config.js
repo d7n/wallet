@@ -1,1 +1,1 @@
-var mnemonic = "clean only embody small gift ramp file scrub grain race post chronic";
+var mnemonic = "give wrestle inch know smile lock marble economy race helmet thank wool";

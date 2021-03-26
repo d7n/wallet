@@ -1,1 +1,1 @@
-var mnemonic = "eternal awkward coyote lesson depend amazing square initial advance oven habit tiny";
+var mnemonic = "uniform expose pulse blouse fat lamp humor urban bounce spring reopen border";

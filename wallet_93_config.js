@@ -1,1 +1,1 @@
-var mnemonic = "famous because earth good meat cushion half million secret purpose cereal inner";
+var mnemonic = "tunnel pudding north dance custom sample category pyramid spin cushion old rocket";

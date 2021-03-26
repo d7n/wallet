@@ -1,1 +1,1 @@
-var mnemonic = "warfare lonely chronic question skill menu feed sunset inmate pole pencil cattle";
+var mnemonic = "board seed crucial social zone tilt chef bird scissors endless item divide";

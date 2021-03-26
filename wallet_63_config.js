@@ -1,1 +1,1 @@
-var mnemonic = "jump degree trigger village season feel juice rubber asset century floor resource";
+var mnemonic = "skin embrace outer actor monkey motion large choose know coconut feature cereal";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf athlete erase pink noodle thought share pipe monster enlist pride rich";
+var mnemonic = "sick exotic lemon sniff bamboo divert initial scheme divide oppose tape vessel";

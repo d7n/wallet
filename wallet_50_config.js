@@ -1,1 +1,1 @@
-var mnemonic = "festival collect song quality spoon direct tiger gown copper grow fan exchange";
+var mnemonic = "bridge brick fog rally kid able mule narrow scrub skin tiger purse";

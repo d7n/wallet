@@ -1,1 +1,1 @@
-var mnemonic = "tenant slab immune remain drum grunt treat gloom still island large blade";
+var mnemonic = "civil wing turkey turkey enough topic broccoli amateur involve deny pet hollow";

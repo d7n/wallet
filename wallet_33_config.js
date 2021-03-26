@@ -1,1 +1,1 @@
-var mnemonic = "also someone canvas glory assume basic fabric favorite deal robust radar anger";
+var mnemonic = "repair win script nephew beach demand machine local clean vital limit scan";

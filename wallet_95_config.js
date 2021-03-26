@@ -1,1 +1,1 @@
-var mnemonic = "kite analyst master family chalk add energy any soccer list doctor canal";
+var mnemonic = "kite peace payment stairs usual agent math april journey nephew thought orphan";

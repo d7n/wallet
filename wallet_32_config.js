@@ -1,1 +1,1 @@
-var mnemonic = "tag air below supreme toast tumble fault bachelor afford panel spray view";
+var mnemonic = "deposit tiny entry affair weasel extra hollow blue shallow goat reopen noble";
