@@ -1,1 +1,1 @@
-var mnemonic = "tuition fold quality dance mass example hurt repair worry immune shoulder sorry";
+var mnemonic = "crush remind half reward alley style relief tooth ethics buddy reunion hover";

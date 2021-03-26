@@ -1,1 +1,1 @@
-var mnemonic = "follow owner plastic breeze lawsuit search december situate arena woman derive pole";
+var mnemonic = "novel year fossil stairs photo hub push panda never butter holiday claim";

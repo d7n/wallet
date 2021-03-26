@@ -1,1 +1,1 @@
-var mnemonic = "cart twenty blanket exercise tomorrow join bracket blur spice dance pair lobster";
+var mnemonic = "visa defense setup leg hill street liquid range clarify degree kit phone";

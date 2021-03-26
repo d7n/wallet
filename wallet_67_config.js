@@ -1,1 +1,1 @@
-var mnemonic = "print denial fence snap clinic vacuum slush horror hurry exact slab blade";
+var mnemonic = "finger reason ostrich output mean asthma inject meadow enforce arena liberty trap";

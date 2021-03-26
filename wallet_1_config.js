@@ -1,1 +1,1 @@
-var mnemonic = "honey across light gather cereal blade member prize front add thunder kind";
+var mnemonic = "inner leisure shove squeeze boy confirm depth bicycle train cause siege side";

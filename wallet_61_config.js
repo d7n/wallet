@@ -1,1 +1,1 @@
-var mnemonic = "front proof they soldier access century fork youth glue color duck key";
+var mnemonic = "rib zero code van quote flee carpet lens fiscal absurd option critic";

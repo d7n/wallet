@@ -1,1 +1,1 @@
-var mnemonic = "other leopard prefer such step liquid abandon another lumber acquire upset tennis";
+var mnemonic = "kind jazz opera puzzle giraffe forest pair relax region random able wet";

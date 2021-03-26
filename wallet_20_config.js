@@ -1,1 +1,1 @@
-var mnemonic = "nothing fix praise twenty harvest hill skate reason practice skirt pen erosion";
+var mnemonic = "cherry echo rule soft issue olive advice okay soccer waste secret aerobic";

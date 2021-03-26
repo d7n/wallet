@@ -1,1 +1,1 @@
-var mnemonic = "cement beach rose elephant sugar hotel stem world off hint armor live";
+var mnemonic = "fold snack cloth physical mad seat truck traffic genuine crisp immune apple";

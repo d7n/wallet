@@ -1,1 +1,1 @@
-var mnemonic = "dream flight butter link sibling snap tumble moral force loan adjust tree";
+var mnemonic = "myself creek rigid job regular machine illegal nurse session grace cousin idle";

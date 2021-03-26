@@ -1,1 +1,1 @@
-var mnemonic = "code chaos mask discover combine mushroom maple ostrich goose outside double check";
+var mnemonic = "panda crack health teach order accuse foam intact base catch obey asset";

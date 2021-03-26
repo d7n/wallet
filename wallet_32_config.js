@@ -1,1 +1,1 @@
-var mnemonic = "core sick casual follow senior twist slam clerk major resist slogan nephew";
+var mnemonic = "resource hybrid sausage goat salute youth angle busy pear pupil pill wave";

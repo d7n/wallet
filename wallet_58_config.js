@@ -1,1 +1,1 @@
-var mnemonic = "dolphin noodle autumn average leopard people few tail injury volcano senior payment";
+var mnemonic = "spirit marble deliver balance swing play size globe palace defense fog boss";

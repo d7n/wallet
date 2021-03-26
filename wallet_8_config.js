@@ -1,1 +1,1 @@
-var mnemonic = "myself wagon raccoon solution federal prepare gain winner arrest solid vacant lottery";
+var mnemonic = "cart okay dice obscure extend inject couple fence cry win actual pilot";

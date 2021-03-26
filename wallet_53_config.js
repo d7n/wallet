@@ -1,1 +1,1 @@
-var mnemonic = "weather bamboo initial now shift name afford afraid claim sword ignore soda";
+var mnemonic = "oxygen napkin shed fork hundred peanut matter age clean vessel hurdle engine";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt coyote symbol stove brief word demise liberty maze peace fury another";
+var mnemonic = "bullet near style attack rhythm near ensure level author quarter west canal";

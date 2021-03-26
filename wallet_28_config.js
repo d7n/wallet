@@ -1,1 +1,1 @@
-var mnemonic = "pipe useless tortoise enter gather jungle social velvet shy fuel person heart";
+var mnemonic = "cliff tip tail van like soap veteran mass proud rhythm cloth gasp";

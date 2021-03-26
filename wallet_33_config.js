@@ -1,1 +1,1 @@
-var mnemonic = "inch script demise finger divert soap uphold boss hole wood topic oblige";
+var mnemonic = "sweet flash faith ski mirror unable salute small dignity asthma piece lumber";

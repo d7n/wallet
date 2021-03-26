@@ -1,1 +1,1 @@
-var mnemonic = "woman dice tonight dress pioneer crystal hobby shock undo drink unable park";
+var mnemonic = "tray stereo size fuel term thunder trade rent east toe mushroom original";

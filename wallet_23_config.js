@@ -1,1 +1,1 @@
-var mnemonic = "iron hollow grape unique rocket hunt blast attend coral place inspire under";
+var mnemonic = "empty cash dinner absent frozen limb unique burden famous engage globe tattoo";

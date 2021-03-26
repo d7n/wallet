@@ -1,1 +1,1 @@
-var mnemonic = "mass bunker have vivid receive fat cable eight theme ring mix damp";
+var mnemonic = "way water mask real dry pencil loan erupt refuse chair awesome pact";

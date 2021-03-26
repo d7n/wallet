@@ -1,1 +1,1 @@
-var mnemonic = "champion safe trial drop husband skate else manual regret click laptop brief";
+var mnemonic = "ring major salt nest retreat program brick pencil pair pistol scout purity";

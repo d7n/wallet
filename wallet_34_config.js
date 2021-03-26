@@ -1,1 +1,1 @@
-var mnemonic = "donate comfort electric blush bottom will lottery inhale mixture two siren raw";
+var mnemonic = "chapter pond wing tourist short reveal shiver smooth accident suffer present hand";

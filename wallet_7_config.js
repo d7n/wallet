@@ -1,1 +1,1 @@
-var mnemonic = "toilet immense please wish regret govern calm fuel coyote peanut nothing invest";
+var mnemonic = "aspect limb burst umbrella practice under series junior there correct silly give";

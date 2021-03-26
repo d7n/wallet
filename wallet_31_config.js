@@ -1,1 +1,1 @@
-var mnemonic = "kidney village phrase rely afford arena goddess fog nice regular cake orange";
+var mnemonic = "rebuild body cricket welcome laptop firm cook luggage fog bird theory unveil";

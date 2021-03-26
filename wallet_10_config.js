@@ -1,1 +1,1 @@
-var mnemonic = "source myself south simple scare pride rather prevent sport feature manual puzzle";
+var mnemonic = "label second chat tribe liar grit grunt seven fashion involve mosquito dumb";

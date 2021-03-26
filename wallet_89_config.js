@@ -1,1 +1,1 @@
-var mnemonic = "hover chaos share script conduct usage such season possible toddler dinner elite";
+var mnemonic = "erosion cement bitter avoid glare purse age home slab mimic green trial";

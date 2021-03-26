@@ -1,1 +1,1 @@
-var mnemonic = "test buzz joy wool dwarf dress wing caution cluster merge chief recycle";
+var mnemonic = "draw decline rebel odor egg unhappy arch fruit drop uniform exit stand";

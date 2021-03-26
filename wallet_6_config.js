@@ -1,1 +1,1 @@
-var mnemonic = "wall guess evolve cancel success section club provide book worry peanut tray";
+var mnemonic = "deer palace water equal metal negative parent loyal slender exile pull metal";

@@ -1,1 +1,1 @@
-var mnemonic = "process crystal morning raw day bid half common nurse renew remove dog";
+var mnemonic = "fuel soup crack pair security stairs test offer connect hair ring author";

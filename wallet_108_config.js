@@ -1,1 +1,1 @@
-var mnemonic = "kiwi near shine need loop manual solar add destroy jewel pond cotton";
+var mnemonic = "can buddy outside speed always gym entire chimney outdoor rally adapt ring";

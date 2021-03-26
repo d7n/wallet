@@ -1,1 +1,1 @@
-var mnemonic = "this two hammer dwarf youth future potato silver round material creek hill";
+var mnemonic = "fortune replace chaos doll rookie alter clutch tornado useless mad daughter guilt";

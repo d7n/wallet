@@ -1,1 +1,1 @@
-var mnemonic = "skin door result modify unfair retire wing alert canoe obtain oblige cage";
+var mnemonic = "much dune simple reject human energy grab embark release glad cargo oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "start bind video cool height erode acid calm scrub cloud reward coconut";
+var mnemonic = "marine deny panther flash ivory execute base session skull brief license suit";

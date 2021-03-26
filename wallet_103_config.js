@@ -1,1 +1,1 @@
-var mnemonic = "avoid cupboard title priority front surround torch ceiling tooth frame rebel assault";
+var mnemonic = "mind digital sign dress accuse rule affair thumb chapter resource remind swear";

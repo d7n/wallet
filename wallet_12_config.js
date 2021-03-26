@@ -1,1 +1,1 @@
-var mnemonic = "wait group replace business claw verify slight teach rescue praise shrug illegal";
+var mnemonic = "trumpet flag mule year laundry people recall lava tilt drama candy rail";

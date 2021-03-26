@@ -1,1 +1,1 @@
-var mnemonic = "tooth dinosaur border scheme test glance believe farm awkward air burden wing";
+var mnemonic = "light kiwi pear material mimic juice claw awful bulb submit unit dash";

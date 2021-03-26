@@ -1,1 +1,1 @@
-var mnemonic = "debris fever degree snow uncle bubble digital danger horror clock endless found";
+var mnemonic = "cloth ghost depend pear chase feel grain second twice runway search save";

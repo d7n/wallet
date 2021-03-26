@@ -1,1 +1,1 @@
-var mnemonic = "sunset into dwarf movie globe grass memory soon announce pig front carbon";
+var mnemonic = "swim garage pear hover wool ice enough reduce rice arctic rifle boost";

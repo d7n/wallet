@@ -1,1 +1,1 @@
-var mnemonic = "shock dry blur vital leopard kite coast pole bullet screen hamster carbon";
+var mnemonic = "atom bitter layer luxury sausage outer gold boy roof dash believe scout";

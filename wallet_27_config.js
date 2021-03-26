@@ -1,1 +1,1 @@
-var mnemonic = "settle sorry deputy swing valley glide spy orphan baby lock awkward announce";
+var mnemonic = "stereo audit myself lumber aunt more false cat quantum palace cruise total";

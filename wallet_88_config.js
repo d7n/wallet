@@ -1,1 +1,1 @@
-var mnemonic = "plug satoshi half identify kit flame sister borrow split moral risk truth";
+var mnemonic = "north ski giant satoshi verify doll space front manage doll useful ship";

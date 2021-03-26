@@ -1,1 +1,1 @@
-var mnemonic = "marble illegal afford excuse remove fire core carpet lady coach multiply adult";
+var mnemonic = "peanut ripple dentist helmet rich story trash mix tomato citizen topple need";

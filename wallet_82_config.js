@@ -1,1 +1,1 @@
-var mnemonic = "chief gown earn pencil rail else there device twenty brass salon combine";
+var mnemonic = "model destroy ocean also mammal disease craft walk initial bounce govern fatal";

@@ -1,1 +1,1 @@
-var mnemonic = "broom submit cry inquiry deliver avoid kitchen usual wheel squirrel scale stereo";
+var mnemonic = "tail barrel lift argue unknown still hover imitate lonely furnace example ladder";

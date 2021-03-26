@@ -1,1 +1,1 @@
-var mnemonic = "own senior black wage kick panther suffer slide feed actress chest beyond";
+var mnemonic = "join marine group hidden document between dolphin decrease victory robust direct sea";

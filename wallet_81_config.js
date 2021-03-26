@@ -1,1 +1,1 @@
-var mnemonic = "bacon thought stairs mixed ladder prison layer express food ranch blanket joke";
+var mnemonic = "kidney fire must unable biology spread swamp math clinic always amazing embrace";

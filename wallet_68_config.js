@@ -1,1 +1,1 @@
-var mnemonic = "bid staff valve convince margin dawn fall anchor swarm account cost soda";
+var mnemonic = "chief memory comic faint kite twist gorilla bachelor album novel mimic brisk";

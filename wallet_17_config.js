@@ -1,1 +1,1 @@
-var mnemonic = "install require fresh treat must property coin divide rifle beef offer crawl";
+var mnemonic = "habit accuse pencil unusual art cupboard inflict invite ramp uncover share hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "twice vanish differ labor depart peasant derive muscle radio frown grunt cool";
+var mnemonic = "hub auction picture tape average anger dress sweet flash output title claw";

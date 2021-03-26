@@ -1,1 +1,1 @@
-var mnemonic = "hawk open cruise effort near double replace expire empower enhance curtain romance";
+var mnemonic = "across syrup toward code ahead asset odor resist fade mail force deal";

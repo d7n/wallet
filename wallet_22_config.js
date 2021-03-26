@@ -1,1 +1,1 @@
-var mnemonic = "ugly impose gorilla tennis draft baby sketch reject base modify flush burst";
+var mnemonic = "useful basket assist country enact eager tumble bubble news perfect turn slender";

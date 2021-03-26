@@ -1,1 +1,1 @@
-var mnemonic = "riot alpha decide inform sausage duty capable cook setup clock ostrich deny";
+var mnemonic = "demand rack finish mention grain file nephew lyrics summer front forum artist";

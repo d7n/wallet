@@ -1,1 +1,1 @@
-var mnemonic = "interest nothing river festival cross timber improve nuclear lamp law vague easily";
+var mnemonic = "peace boost cram gasp various mixed motor moon cash noble vast peanut";

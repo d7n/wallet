@@ -1,1 +1,1 @@
-var mnemonic = "protect solve sleep monitor okay stone heart orange brother shuffle venture system";
+var mnemonic = "shrimp language sight slight ribbon whip detect spirit clutch border boil cigar";

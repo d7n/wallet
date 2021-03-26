@@ -1,1 +1,1 @@
-var mnemonic = "powder midnight mushroom jewel anger direct strike assume dumb barrel heart common";
+var mnemonic = "result feel scheme furnace science initial market orient true visit embark naive";

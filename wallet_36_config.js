@@ -1,1 +1,1 @@
-var mnemonic = "able measure expose canvas orient cycle kiss glad hood erase urge funny";
+var mnemonic = "blossom canyon market index celery absent diamond pattern manage venue quarter debris";

@@ -1,1 +1,1 @@
-var mnemonic = "reason flee author hotel fat convince firm market delay episode flash grape";
+var mnemonic = "jelly sketch diagram excite normal usual drink because dune lab shadow miracle";

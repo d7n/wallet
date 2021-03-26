@@ -1,1 +1,1 @@
-var mnemonic = "pioneer genius size neglect below exit climb question impact gather dream scare";
+var mnemonic = "glove grass scout reason anchor pelican dog pair outside describe broccoli punch";

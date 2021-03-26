@@ -1,1 +1,1 @@
-var mnemonic = "caught bind picture blood elephant wrap village cloud minimum thought fancy patch";
+var mnemonic = "tone guess web know brief misery lizard choose slow merry gravity consider";

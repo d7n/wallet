@@ -1,1 +1,1 @@
-var mnemonic = "ripple betray cotton once inspire secret bulb recipe winter blanket pudding degree";
+var mnemonic = "prison fork bright juice slide skate canvas same fitness vanish chalk attract";

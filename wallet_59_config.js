@@ -1,1 +1,1 @@
-var mnemonic = "effort pride stomach vacant trophy indoor shadow cable hungry size cactus traffic";
+var mnemonic = "scheme online festival various scorpion rather law derive divorce tissue concert fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "jungle attract shock coil flight steak verify view cave point path auction";
+var mnemonic = "review call afraid only pink strike bird song prepare animal say recipe";

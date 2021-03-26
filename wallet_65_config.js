@@ -1,1 +1,1 @@
-var mnemonic = "fall burger wrist small entry clinic open nature ball huge voice milk";
+var mnemonic = "tank mention sentence viable south disorder excess pond recipe lake company enemy";

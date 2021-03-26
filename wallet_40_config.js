@@ -1,1 +1,1 @@
-var mnemonic = "disease royal decrease cash drink believe holiday fetch rabbit panic kangaroo civil";
+var mnemonic = "anxiety orange scrap possible bounce orchard better monkey depth sustain balcony crop";

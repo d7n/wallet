@@ -1,1 +1,1 @@
-var mnemonic = "twice flower broom blast ladder hedgehog frog bench permit asset bid soldier";
+var mnemonic = "tail parent genre spider sick furnace float uncover error broccoli into whip";

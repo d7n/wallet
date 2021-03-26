@@ -1,1 +1,1 @@
-var mnemonic = "glory doctor dirt ranch first elevator salon protect picture option dignity physical";
+var mnemonic = "mesh liar view home ozone employ oil ask height success skill film";

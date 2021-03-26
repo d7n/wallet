@@ -1,1 +1,1 @@
-var mnemonic = "honey minute swing grunt fall nuclear slogan peace habit omit problem garlic";
+var mnemonic = "salad october already spread stool between intact chicken risk chaos image balance";

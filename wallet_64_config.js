@@ -1,1 +1,1 @@
-var mnemonic = "repeat era decline december desert village dirt vivid direct danger spend dash";
+var mnemonic = "abandon door ethics luxury glimpse artist exit sign flock hard select detect";

@@ -1,1 +1,1 @@
-var mnemonic = "copper cart merge wreck lounge meadow tiger seven kingdom skate opera mirror";
+var mnemonic = "page uncle vintage bike opera hen heart seek broccoli test calm bacon";

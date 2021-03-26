@@ -1,1 +1,1 @@
-var mnemonic = "across uncle mandate staff rigid boil fee castle humor thrive below sea";
+var mnemonic = "album pulse trip clerk whisper twice trade thrive fruit pact bulk mango";

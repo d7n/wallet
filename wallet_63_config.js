@@ -1,1 +1,1 @@
-var mnemonic = "derive orphan super coffee sweet world toss cupboard hello forum forest treat";
+var mnemonic = "depart april outer skate kitchen world true bridge proof innocent general decorate";

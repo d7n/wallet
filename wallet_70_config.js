@@ -1,1 +1,1 @@
-var mnemonic = "basic consider guess bulk rhythm juice owner guess warfare fantasy nasty nest";
+var mnemonic = "nerve room virtual wash harsh keen umbrella inhale direct push play sword";

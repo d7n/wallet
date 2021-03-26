@@ -1,1 +1,1 @@
-var mnemonic = "soda syrup steel slice ten manage addict useless gauge scan camp wing";
+var mnemonic = "tell matter early rib afford tumble forward evoke stable wet output coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "mail exist siren layer humble pig combine chair trash cream because genius";
+var mnemonic = "motion rich scale sadness warrior movie tube scout same prison flight torch";

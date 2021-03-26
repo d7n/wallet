@@ -1,1 +1,1 @@
-var mnemonic = "visa liar carpet parrot trouble hotel close dwarf list purity glue kid";
+var mnemonic = "smoke hockey flee amount glory toilet now trash farm gesture federal gadget";

@@ -1,1 +1,1 @@
-var mnemonic = "globe direct predict pill foil essay equal clean share pencil twenty record";
+var mnemonic = "employ avoid interest mixed sibling crew fluid connect captain denial zone visa";

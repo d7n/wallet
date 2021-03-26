@@ -1,1 +1,1 @@
-var mnemonic = "crack better spend bright ethics effort tackle worth author steel swim relax";
+var mnemonic = "follow style remain hawk human grape enlist nut indicate diamond lamp tube";

@@ -1,1 +1,1 @@
-var mnemonic = "enjoy bone tuna fluid derive fault power network spy act dinosaur novel";
+var mnemonic = "dolphin wink addict regret candy solar area park cage chef bargain holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate concert input observe valid coral call audit cycle sound soup venue";
+var mnemonic = "focus hen accuse conduct catch employ maximum egg system sight enjoy upset";

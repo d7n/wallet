@@ -1,1 +1,1 @@
-var mnemonic = "home sample flip horn grunt guilt remain wing divert wheel benefit allow";
+var mnemonic = "beauty evidence tool skin awake resemble outdoor boost nature expand outside nominee";

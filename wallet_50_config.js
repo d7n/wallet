@@ -1,1 +1,1 @@
-var mnemonic = "slight idea slogan erase mule jelly basic life usual choice horror side";
+var mnemonic = "phone clay logic anchor false baby spread mention coconut venture hazard have";

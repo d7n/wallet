@@ -1,1 +1,1 @@
-var mnemonic = "great lens stuff strong normal atom day school assault ribbon unlock mushroom";
+var mnemonic = "year boat ankle document dance blanket company olympic involve mosquito school stick";

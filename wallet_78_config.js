@@ -1,1 +1,1 @@
-var mnemonic = "review sight sudden joke danger trigger leisure frost simple fiscal average daring";
+var mnemonic = "warrior dismiss light final menu exchange glimpse exhaust voice suspect ostrich useless";

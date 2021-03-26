@@ -1,1 +1,1 @@
-var mnemonic = "income kiwi river base exercise number like weird moral bleak lawn brass";
+var mnemonic = "inch warfare zoo visual chase now solution floor uncover tape artist mobile";

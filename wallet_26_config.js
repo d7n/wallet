@@ -1,1 +1,1 @@
-var mnemonic = "silly address annual shiver bottom wrap tumble airport action valve card ramp";
+var mnemonic = "syrup jump chaos proud silly adjust capable crowd enough vanish shell lamp";

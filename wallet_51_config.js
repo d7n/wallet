@@ -1,1 +1,1 @@
-var mnemonic = "snap mom split grape yellow across rocket erase day raise devote pig";
+var mnemonic = "ceiling true oak wife suspect inform oxygen lottery upgrade shop chase jungle";

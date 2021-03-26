@@ -1,1 +1,1 @@
-var mnemonic = "squirrel wood december brother vendor opera drum faith venue floor adjust sugar";
+var mnemonic = "glance slim tent vanish type cause sight pyramid depth trick action diary";

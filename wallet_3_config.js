@@ -1,1 +1,1 @@
-var mnemonic = "seat elegant wife dial wealth orange left entry case symptom wrap rescue";
+var mnemonic = "dose follow hobby brick purchase host tank slide artwork meat comfort network";

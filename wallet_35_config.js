@@ -1,1 +1,1 @@
-var mnemonic = "pioneer gesture helmet awake gas ancient sheriff simple group again cinnamon busy";
+var mnemonic = "city priority casual mass castle certain quote frequent office shiver van once";

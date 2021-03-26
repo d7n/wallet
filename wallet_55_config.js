@@ -1,1 +1,1 @@
-var mnemonic = "hobby couple absurd mixture diet tobacco label glue spider swim cliff cry";
+var mnemonic = "wolf raise torch master huge multiply flash soccer glance combine impact fly";

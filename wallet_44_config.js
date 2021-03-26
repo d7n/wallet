@@ -1,1 +1,1 @@
-var mnemonic = "fabric impose hollow breeze there kiss broccoli athlete moment skill grocery jeans";
+var mnemonic = "sand legal lazy cute space excuse lesson hope excuse then manual direct";
