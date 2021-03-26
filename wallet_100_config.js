@@ -1,1 +1,1 @@
-var mnemonic = "artist novel come before gauge chunk river cushion fan bachelor frozen prefer";
+var mnemonic = "whisper double else this angry spot recall photo tornado similar all unhappy";

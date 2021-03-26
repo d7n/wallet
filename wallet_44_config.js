@@ -1,1 +1,1 @@
-var mnemonic = "mean carry security tide nose inform solar short ankle disorder grunt design";
+var mnemonic = "age steak laugh milk outer blue ridge repeat loyal bleak annual frost";

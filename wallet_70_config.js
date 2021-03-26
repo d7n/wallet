@@ -1,1 +1,1 @@
-var mnemonic = "faith capable mass close priority system slogan utility verb oyster hip city";
+var mnemonic = "polar always scale lawn ramp choice aspect route green swim tower matter";

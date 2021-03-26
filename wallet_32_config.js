@@ -1,1 +1,1 @@
-var mnemonic = "cruel paddle census puppy typical menu tell timber atom same lazy mention";
+var mnemonic = "device dignity puppy guard field rail delay divide shiver owner head spoil";

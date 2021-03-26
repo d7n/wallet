@@ -1,1 +1,1 @@
-var mnemonic = "tired solve fall member wheat solid design hybrid model balcony satoshi favorite";
+var mnemonic = "transfer cute ribbon clap dose upgrade else load nuclear cement bus solar";

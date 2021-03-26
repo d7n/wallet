@@ -1,1 +1,1 @@
-var mnemonic = "dumb joy village purity marine vanish ecology rose trash leaf zone reflect";
+var mnemonic = "slush belt decide sausage scrub dizzy mystery secret stove reward truth enforce";

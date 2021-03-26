@@ -1,1 +1,1 @@
-var mnemonic = "this chaos blouse arrive dilemma concert oblige bring mystery sponsor error toward";
+var mnemonic = "slim axis sing fault exotic wing manual yard december right busy burden";

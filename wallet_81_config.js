@@ -1,1 +1,1 @@
-var mnemonic = "vibrant crater concert round goat clog awesome innocent cushion avoid accuse dress";
+var mnemonic = "record reduce much cement excess language duty drink enlist tobacco engine dog";

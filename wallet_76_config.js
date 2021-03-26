@@ -1,1 +1,1 @@
-var mnemonic = "high stage leave board affair tower giggle quiz fury naive poverty sail";
+var mnemonic = "wine hurry lake critic begin chief twist reopen essay scheme castle twist";

@@ -1,1 +1,1 @@
-var mnemonic = "always penalty arch veteran when weather equal rookie grow glimpse cage marine";
+var mnemonic = "delay reject traffic galaxy capital grab popular smile modify wild glow curious";

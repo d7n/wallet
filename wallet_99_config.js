@@ -1,1 +1,1 @@
-var mnemonic = "sight any pottery meadow clog law calm fit million clip crew alarm";
+var mnemonic = "punch execute cinnamon fatigue latin random online exit virtual nothing sword emerge";

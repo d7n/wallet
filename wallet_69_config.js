@@ -1,1 +1,1 @@
-var mnemonic = "sick pretty picnic skill cram copper sheriff tilt alien smooth work soup";
+var mnemonic = "peasant echo soft chase occur metal coil rose crouch youth high fee";

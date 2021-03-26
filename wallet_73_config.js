@@ -1,1 +1,1 @@
-var mnemonic = "journey tissue giggle survey lunar quality priority repair planet slam spread choose";
+var mnemonic = "potato doctor skate siren super weather afford leisure dream bulb coyote lawsuit";

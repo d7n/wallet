@@ -1,1 +1,1 @@
-var mnemonic = "survey cabin street stable lazy cousin census over art flip any error";
+var mnemonic = "scheme bike electric south earn suffer position clog refuse net gospel worth";

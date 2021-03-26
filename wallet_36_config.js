@@ -1,1 +1,1 @@
-var mnemonic = "suffer salad stand federal drive drill cactus mule innocent anchor wash flip";
+var mnemonic = "rocket hen flight often token drop junk sheriff tired picnic report poverty";

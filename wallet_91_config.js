@@ -1,1 +1,1 @@
-var mnemonic = "cloud later relax clump scare weekend mutual quick arrive village twelve icon";
+var mnemonic = "tone brick item interest olympic tree coral lift dragon zoo element goddess";

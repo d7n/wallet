@@ -1,1 +1,1 @@
-var mnemonic = "drama holiday question have film pilot security film people market blast blind";
+var mnemonic = "rough stock depend hat symbol split soap often unfold blade screen tennis";

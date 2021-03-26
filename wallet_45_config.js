@@ -1,1 +1,1 @@
-var mnemonic = "cool faint chest duck shaft clerk company scale fragile bird wedding uniform";
+var mnemonic = "trash crater exercise medal crane submit happy reward wolf join phone captain";

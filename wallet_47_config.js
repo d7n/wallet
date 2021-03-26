@@ -1,1 +1,1 @@
-var mnemonic = "park aware silk thunder gorilla method useful suit engine balcony custom ostrich";
+var mnemonic = "cloth custom increase rail arctic tribe gown glide buffalo cream stage flavor";

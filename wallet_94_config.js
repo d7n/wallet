@@ -1,1 +1,1 @@
-var mnemonic = "infant addict match caution horn check fold text erupt paper wedding random";
+var mnemonic = "hair typical patrol exotic carpet winner torch barely maze foam mechanic slush";

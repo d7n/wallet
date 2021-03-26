@@ -1,1 +1,1 @@
-var mnemonic = "eight trigger employ morning giraffe peace rack pipe ask volcano install report";
+var mnemonic = "bulb term stage unveil edit plastic rapid bachelor tunnel twice praise flock";

@@ -1,1 +1,1 @@
-var mnemonic = "bunker citizen divide physical fee hover rebel host cry public exercise rhythm";
+var mnemonic = "finish cricket bird scrub renew way fragile donate silent submit effort method";

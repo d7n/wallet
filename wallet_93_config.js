@@ -1,1 +1,1 @@
-var mnemonic = "voice taste fabric pave expect orange congress bundle often poverty rifle bubble";
+var mnemonic = "merge renew pride fine parent near excite jar jacket helmet urban stock";

@@ -1,1 +1,1 @@
-var mnemonic = "lonely glare chicken spoil accident symbol renew allow achieve cement cinnamon dizzy";
+var mnemonic = "knee select nominee small core naive horror forum improve wonder purity soccer";

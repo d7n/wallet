@@ -1,1 +1,1 @@
-var mnemonic = "leg weasel invite inherit media crouch shield obtain typical van slide easy";
+var mnemonic = "boost music daring smoke shiver antique dilemma diesel tone good correct equip";

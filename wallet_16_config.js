@@ -1,1 +1,1 @@
-var mnemonic = "toward shield stadium pizza rack blur around right control system fringe lobster";
+var mnemonic = "diesel follow world camp riot dove idle sword strike shoulder always exact";

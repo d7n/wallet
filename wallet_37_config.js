@@ -1,1 +1,1 @@
-var mnemonic = "oval dentist aspect fiscal board lottery flag round recall plug layer strategy";
+var mnemonic = "vessel match foot group thrive six device vicious liquid weather service second";

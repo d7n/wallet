@@ -1,1 +1,1 @@
-var mnemonic = "end author cash toward fork lazy buffalo pass private talent enforce aisle";
+var mnemonic = "smile cactus force buffalo snow ceiling truth tube lizard genius scare normal";

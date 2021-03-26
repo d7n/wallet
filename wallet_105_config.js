@@ -1,1 +1,1 @@
-var mnemonic = "female gossip famous huge vapor decrease company fatal super menu under focus";
+var mnemonic = "better food east benefit fantasy slam together volcano cotton frown captain muffin";

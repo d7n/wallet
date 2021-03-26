@@ -1,1 +1,1 @@
-var mnemonic = "loan sugar coach across daughter moon critic provide nuclear cook fine asthma";
+var mnemonic = "salmon gentle elder club cradle famous stadium ancient bubble hybrid figure vendor";

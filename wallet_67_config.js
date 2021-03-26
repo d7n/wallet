@@ -1,1 +1,1 @@
-var mnemonic = "pledge narrow pride file response flush frog boil unique year slight blossom";
+var mnemonic = "valve fruit way ketchup bundle boring make program success reopen atom combine";

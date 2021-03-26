@@ -1,1 +1,1 @@
-var mnemonic = "razor sick cinnamon situate special gasp push anger island motion orbit man";
+var mnemonic = "session skirt maximum use drip wise mother spare bean orange bench velvet";

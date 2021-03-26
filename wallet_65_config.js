@@ -1,1 +1,1 @@
-var mnemonic = "lizard news dice prize idea zoo razor fall scatter health very cupboard";
+var mnemonic = "settle table offer angry approve fruit file pattern labor throw grocery atom";

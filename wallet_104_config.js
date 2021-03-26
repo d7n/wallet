@@ -1,1 +1,1 @@
-var mnemonic = "claw approve gun sphere wheel tattoo box media giant lecture lens borrow";
+var mnemonic = "hurdle swarm walk anger silly current audit glare object lend point cloud";

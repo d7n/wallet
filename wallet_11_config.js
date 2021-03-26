@@ -1,1 +1,1 @@
-var mnemonic = "glove ask cycle rude devote danger monitor soup pitch angle civil ahead";
+var mnemonic = "exit gap squirrel donkey mandate often imitate leave earn sand spring credit";

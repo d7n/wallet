@@ -1,1 +1,1 @@
-var mnemonic = "custom prepare lend act good top stay kitten wash response remember wise";
+var mnemonic = "ice prefer twist pill number bright immense relax tent uphold concert entire";

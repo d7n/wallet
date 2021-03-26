@@ -1,1 +1,1 @@
-var mnemonic = "creek chicken hint element allow about lemon razor confirm stairs average sentence";
+var mnemonic = "poet barely catch toilet season column trap wet dirt nominee bleak cactus";

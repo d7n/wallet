@@ -1,1 +1,1 @@
-var mnemonic = "boy dignity syrup believe frequent decorate orange magic ladder ridge lens rude";
+var mnemonic = "spoon label random father ritual cinnamon frown welcome similar involve sibling latin";

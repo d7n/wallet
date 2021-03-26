@@ -1,1 +1,1 @@
-var mnemonic = "grunt state nuclear cotton matrix craft trust universe fold elegant tunnel foil";
+var mnemonic = "suspect dirt source text awake mail laundry roof become bike action express";

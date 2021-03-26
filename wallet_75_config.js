@@ -1,1 +1,1 @@
-var mnemonic = "benefit spell inch helmet witness warm twin spoon jar gasp try grit";
+var mnemonic = "acquire flip ridge weather flee evil correct stereo ride attitude reflect reason";

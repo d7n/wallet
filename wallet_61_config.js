@@ -1,1 +1,1 @@
-var mnemonic = "sister parrot know pelican violin report charge hurdle usual erase name path";
+var mnemonic = "sketch combine garment hollow stuff shadow fee spell mother pool tide mule";

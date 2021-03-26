@@ -1,1 +1,1 @@
-var mnemonic = "stay original task vocal mansion flock embrace soft level race fan enlist";
+var mnemonic = "peanut duck cave until hair prevent general slice blind option happy salad";

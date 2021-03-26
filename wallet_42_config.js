@@ -1,1 +1,1 @@
-var mnemonic = "decline maze primary cake shallow save donkey camp broccoli repair weather horror";
+var mnemonic = "bamboo glory oil luxury brisk honey slide ancient level grocery shrug forum";

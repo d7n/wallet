@@ -1,1 +1,1 @@
-var mnemonic = "plunge about awkward erupt undo gossip match ticket face shoe dwarf need";
+var mnemonic = "grid parent leaf teach route paper shoe belt ancient square habit damage";

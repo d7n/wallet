@@ -1,1 +1,1 @@
-var mnemonic = "junk holiday dress process text sunset little trend visual awesome shove scrub";
+var mnemonic = "swap door item notice brush auto sense guitar year grain into table";

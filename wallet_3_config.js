@@ -1,1 +1,1 @@
-var mnemonic = "wall smoke title ahead mushroom throw crowd achieve remember pact thought frog";
+var mnemonic = "sun convince lecture drip gas panther correct wall lizard increase bread alley";

@@ -1,1 +1,1 @@
-var mnemonic = "wage flash north coin describe mystery glass barely coffee jungle panel fluid";
+var mnemonic = "wagon wide undo armed august wing spot switch credit length install laundry";

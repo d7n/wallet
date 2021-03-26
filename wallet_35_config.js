@@ -1,1 +1,1 @@
-var mnemonic = "toast protect because anxiety truck chalk pet cement conduct dinner chair space";
+var mnemonic = "minute setup true farm hand purse marriage treat arm muffin throw april";

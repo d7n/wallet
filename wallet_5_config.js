@@ -1,1 +1,1 @@
-var mnemonic = "square weather basket area inflict perfect search input chuckle shop behind rail";
+var mnemonic = "olive girl method junior tortoise tobacco equal bomb jazz flame party olympic";

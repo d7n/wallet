@@ -1,1 +1,1 @@
-var mnemonic = "embrace scrap vapor today dinosaur local soccer matrix slide edit soldier hill";
+var mnemonic = "feed weasel giant moon ecology spy imitate describe gap congress gospel hotel";

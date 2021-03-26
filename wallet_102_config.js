@@ -1,1 +1,1 @@
-var mnemonic = "smart demand stick rib bridge shoot twin light suffer clarify scrap must";
+var mnemonic = "tuition vicious injury fire burger quote danger because unfold try energy describe";

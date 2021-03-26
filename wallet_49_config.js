@@ -1,1 +1,1 @@
-var mnemonic = "leopard exit sing december napkin pretty ranch spot brand curve jaguar ripple";
+var mnemonic = "heart monster neutral load knife syrup awesome knee vessel element suspect husband";

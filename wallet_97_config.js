@@ -1,1 +1,1 @@
-var mnemonic = "humble input safe immense cousin diagram language artefact solar whale put fold";
+var mnemonic = "ripple entry cargo skirt accident cup circle ten wave behave wealth work";

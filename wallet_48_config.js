@@ -1,1 +1,1 @@
-var mnemonic = "upon clinic skirt immense poverty gown evolve escape problem regret moon insane";
+var mnemonic = "still print bulb salute debris review sun nut version seat leg hollow";

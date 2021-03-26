@@ -1,1 +1,1 @@
-var mnemonic = "problem deny loud echo bunker honey melody mango symptom dust pulp afraid";
+var mnemonic = "warfare baby discover winner spray sense glance detail noble matrix desert until";

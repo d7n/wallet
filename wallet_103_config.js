@@ -1,1 +1,1 @@
-var mnemonic = "october march spoil offer air dose fee twist bind amount excuse tuna";
+var mnemonic = "desk drive skull because few that below drop acid plug one fine";

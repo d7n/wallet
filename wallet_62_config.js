@@ -1,1 +1,1 @@
-var mnemonic = "nominee sibling annual marine total alter reduce toe insect country project check";
+var mnemonic = "expire embark add act genuine dice weird denial detail angry fossil faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "runway sleep make alert skill route resist crew absent fortune answer wish";
+var mnemonic = "pill owner link inquiry board boil sell guess margin able panther fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "solar release nest photo clinic wage west amused vital lawsuit raven shiver";
+var mnemonic = "now brisk aisle twin extend claw library blue invite belt stomach actual";

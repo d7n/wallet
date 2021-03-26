@@ -1,1 +1,1 @@
-var mnemonic = "engine bus emerge matter orchard elegant praise spoil gap baby today chronic";
+var mnemonic = "master guide try grit funny shell domain sell update turtle welcome inspire";

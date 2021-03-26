@@ -1,1 +1,1 @@
-var mnemonic = "garment biology private public oven runway exhaust day mad shoulder wheel simple";
+var mnemonic = "truly blade change cattle topple surprise actress face fetch lawsuit vapor light";

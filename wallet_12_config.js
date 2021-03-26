@@ -1,1 +1,1 @@
-var mnemonic = "vanish tone tell ring amateur satisfy obvious color radar slide dentist long";
+var mnemonic = "pupil circle interest bacon stable noodle health smooth profit snap hockey hat";

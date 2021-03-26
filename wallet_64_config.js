@@ -1,1 +1,1 @@
-var mnemonic = "book essence acoustic sketch gap urge helmet elevator upper faculty opera stage";
+var mnemonic = "black chef hold cancel invite stove crater fragile soldier dignity sadness naive";

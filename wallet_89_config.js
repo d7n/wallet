@@ -1,1 +1,1 @@
-var mnemonic = "boy aisle brisk kiwi hire burst fit hub perfect bid club few";
+var mnemonic = "today network random pride mom adapt spoil churn cloth damp card report";

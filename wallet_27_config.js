@@ -1,1 +1,1 @@
-var mnemonic = "brush bring notable cabbage manual culture speed actor prize champion slam decrease";
+var mnemonic = "census music great mango cruise casual vapor salmon detect duck snap marriage";

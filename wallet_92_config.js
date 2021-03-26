@@ -1,1 +1,1 @@
-var mnemonic = "away stage spin claim style liar goat absorb net market kite grid";
+var mnemonic = "barrel table security dance isolate vacant black define century capable curve hero";

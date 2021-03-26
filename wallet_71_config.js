@@ -1,1 +1,1 @@
-var mnemonic = "test ribbon machine used onion hedgehog depart powder gown idle forum label";
+var mnemonic = "sadness crack process camp finger ladder twist intact prison very nice stand";

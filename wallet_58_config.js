@@ -1,1 +1,1 @@
-var mnemonic = "critic army bleak attract panda smart until view zero task plate bind";
+var mnemonic = "inform echo dial tennis swap trumpet hero trap language say access trend";

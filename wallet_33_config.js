@@ -1,1 +1,1 @@
-var mnemonic = "gap shoulder swear clerk misery they mammal oak wolf fork rude prepare";
+var mnemonic = "stove head suspect frog shield build goddess acquire always poem chat gather";

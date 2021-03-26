@@ -1,1 +1,1 @@
-var mnemonic = "figure cry arrange oval car guard step meat oil change text spike";
+var mnemonic = "distance embark news dune mosquito what evidence goddess allow goddess sail mosquito";

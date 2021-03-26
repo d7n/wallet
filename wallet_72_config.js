@@ -1,1 +1,1 @@
-var mnemonic = "scorpion atom sing grow click tell winner stadium sister endless milk ozone";
+var mnemonic = "habit salad inject bullet vocal foot boost only cereal famous exchange sheriff";

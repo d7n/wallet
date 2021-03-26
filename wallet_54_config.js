@@ -1,1 +1,1 @@
-var mnemonic = "rapid pilot image that abuse rebel staff motion essay maple curve unveil";
+var mnemonic = "under broom coconut penalty odor another taxi coyote youth whip reflect execute";

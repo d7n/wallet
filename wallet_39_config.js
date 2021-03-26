@@ -1,1 +1,1 @@
-var mnemonic = "cactus popular push abuse birth mom name reunion evolve tobacco allow transfer";
+var mnemonic = "endorse chaos cry pill moment panda opera they lens law lottery crouch";

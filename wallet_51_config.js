@@ -1,1 +1,1 @@
-var mnemonic = "theory olympic another oak matter brush father angle embrace crouch deny robust";
+var mnemonic = "essence glove shiver humor lawn soon can noise vessel twice capital mercy";

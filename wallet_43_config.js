@@ -1,1 +1,1 @@
-var mnemonic = "cargo merge dismiss excite trade during unknown snake smart mesh measure exact";
+var mnemonic = "cigar holiday emotion debate much leader dose few junk scissors execute current";

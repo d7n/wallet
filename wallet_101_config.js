@@ -1,1 +1,1 @@
-var mnemonic = "iron tobacco learn sorry sunset cause gorilla pepper review buyer age steak";
+var mnemonic = "add appear nest dash bind base maple border close rhythm speed onion";

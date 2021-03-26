@@ -1,1 +1,1 @@
-var mnemonic = "soft crush wear weasel finish rally file lunch proof virtual parade ice";
+var mnemonic = "hood penalty same sad oven surge various token shuffle fiber soon where";

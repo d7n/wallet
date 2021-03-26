@@ -1,1 +1,1 @@
-var mnemonic = "hospital way forward month chuckle group liberty debris garage dutch velvet swamp";
+var mnemonic = "empower joy exotic dog burger happy furnace run injury forward autumn phrase";

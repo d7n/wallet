@@ -1,1 +1,1 @@
-var mnemonic = "gold member cactus job around tuna whale bunker piano comic initial address";
+var mnemonic = "crack museum ocean home vital weather little sunny limb turkey gravity web";

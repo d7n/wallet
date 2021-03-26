@@ -1,1 +1,1 @@
-var mnemonic = "barely reject rural wire sea hammer budget census cable divert bike iron";
+var mnemonic = "scatter oil kiss account sail group trick clarify language midnight apology fix";

@@ -1,1 +1,1 @@
-var mnemonic = "since saddle aspect ask search balcony build curtain barrel rebuild erase smile";
+var mnemonic = "depart acid eight undo dizzy document anxiety light roast similar december drive";

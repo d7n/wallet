@@ -1,1 +1,1 @@
-var mnemonic = "ice mesh tomato gossip race thrive neck inmate original bronze tired remind";
+var mnemonic = "knock tail cry rebuild receive minor amazing sword quality tag lab true";

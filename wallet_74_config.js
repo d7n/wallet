@@ -1,1 +1,1 @@
-var mnemonic = "join fade link battle want fog patrol stomach ill blind width walnut";
+var mnemonic = "dynamic inspire struggle vintage high pink tank can current vapor rapid peanut";

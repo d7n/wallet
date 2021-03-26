@@ -1,1 +1,1 @@
-var mnemonic = "elder talent promote affair control useless example science music depart layer resist";
+var mnemonic = "zone casual collect gloom tattoo tape enable guess winter capable expose ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "orange carry vessel thank gown hello junior alpha adult shoe picnic scheme";
+var mnemonic = "sand august depart neck treat absorb bullet evidence real silent thunder thrive";

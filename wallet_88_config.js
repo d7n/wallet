@@ -1,1 +1,1 @@
-var mnemonic = "crash portion hotel gold empower fringe fancy regular lava park decline build";
+var mnemonic = "symptom useless parrot robot student owner vivid course oak develop random eight";

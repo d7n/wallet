@@ -1,1 +1,1 @@
-var mnemonic = "sheriff this donate casual traffic hood hill enjoy opera choose endorse myth";
+var mnemonic = "trophy flash minor despair vintage base iron task gap cruel siren alpha";

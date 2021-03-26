@@ -1,1 +1,1 @@
-var mnemonic = "subway acid chalk squirrel journey soda artwork mass pigeon spider rubber man";
+var mnemonic = "gun pact cabin safe erosion vanish fatal patch urge wasp antenna cave";

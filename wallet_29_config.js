@@ -1,1 +1,1 @@
-var mnemonic = "thing empower chalk diesel ball deliver risk file stable wide noble use";
+var mnemonic = "retreat fiction fall announce occur host feed pelican moral shell relax rice";
