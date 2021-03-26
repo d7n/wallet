@@ -1,1 +1,1 @@
-var mnemonic = "ketchup song fall describe blind mushroom surprise deposit dismiss canal very police";
+var mnemonic = "daring quarter impose camp soup connect pattern tired goose need raven average";

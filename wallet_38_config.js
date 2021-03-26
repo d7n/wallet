@@ -1,1 +1,1 @@
-var mnemonic = "leader dentist give foster echo hair rain erupt oppose forest prize baby";
+var mnemonic = "decade oven stay bachelor ring tattoo trick riot other post fresh ketchup";

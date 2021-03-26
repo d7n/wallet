@@ -1,1 +1,1 @@
-var mnemonic = "cause biology edit chuckle art leopard mirror upset pond dream topic truly";
+var mnemonic = "miss simple area material reform either sugar immune song side invite dawn";

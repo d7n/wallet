@@ -1,1 +1,1 @@
-var mnemonic = "rather nose remove million matter deal color atom angle glass nominee razor";
+var mnemonic = "bitter fever kitten decade nephew march enforce still flush tackle patch since";

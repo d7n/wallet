@@ -1,1 +1,1 @@
-var mnemonic = "gospel deposit modify teach truth fragile flower organ tennis desert fog hill";
+var mnemonic = "front embrace cream loop when sample lava moment title clay glimpse belt";

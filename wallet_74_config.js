@@ -1,1 +1,1 @@
-var mnemonic = "wall puzzle extra cancel mail puzzle arctic across praise glue fox sugar";
+var mnemonic = "combine hurt walk cart main word clock sibling taste lake fit much";

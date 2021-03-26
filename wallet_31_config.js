@@ -1,1 +1,1 @@
-var mnemonic = "seed end sense monkey prevent pen brass nice ribbon atom document source";
+var mnemonic = "hurry hollow polar wage master surge panther chair vintage virtual taxi brass";

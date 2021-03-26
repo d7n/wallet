@@ -1,1 +1,1 @@
-var mnemonic = "aunt brief ensure trick pulse antenna police gossip this affair cruel icon";
+var mnemonic = "surface hill night sweet lock maid ritual pluck have aim wink enlist";

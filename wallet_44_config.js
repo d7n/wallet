@@ -1,1 +1,1 @@
-var mnemonic = "crisp volcano gas mango crater output until clown thrive deliver predict situate";
+var mnemonic = "cargo raw derive gentle region unique wonder good parade occur number above";

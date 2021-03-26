@@ -1,1 +1,1 @@
-var mnemonic = "enable rural sudden purchase attend shift demand noble gossip token real material";
+var mnemonic = "repeat feel right adjust club state pencil soap scale antique fan awake";

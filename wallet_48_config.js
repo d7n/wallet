@@ -1,1 +1,1 @@
-var mnemonic = "early hamster wonder ticket ripple soul silly credit absurd online forum naive";
+var mnemonic = "endless organ want royal viable upset expire shadow situate cinnamon betray snow";

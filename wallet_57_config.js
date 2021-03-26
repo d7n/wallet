@@ -1,1 +1,1 @@
-var mnemonic = "drive destroy tattoo napkin cage leave worry card enable bomb umbrella animal";
+var mnemonic = "pretty private swallow sand job only vacant satoshi exact mule feed rather";

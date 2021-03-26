@@ -1,1 +1,1 @@
-var mnemonic = "push labor host crazy initial whale voyage solution pluck glad shift between";
+var mnemonic = "interest museum busy copy violin crush scatter undo prize riot license say";

@@ -1,1 +1,1 @@
-var mnemonic = "near boy marine unfold wide verify body front thought again cost deal";
+var mnemonic = "wisdom dance program this evil globe kick sibling midnight awkward bag response";

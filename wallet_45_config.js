@@ -1,1 +1,1 @@
-var mnemonic = "still estate pink argue fresh love mobile dust feel check naive ignore";
+var mnemonic = "amount outdoor arm provide drive peasant impose decorate knock rookie rebel forward";

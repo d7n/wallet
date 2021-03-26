@@ -1,1 +1,1 @@
-var mnemonic = "kit audit guard churn virus trash green snow easy bring twelve drastic";
+var mnemonic = "frown general trash victory tooth arrange blush nation grain empower swift elite";

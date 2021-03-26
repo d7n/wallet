@@ -1,1 +1,1 @@
-var mnemonic = "deputy infant soap clutch action blouse lamp magnet save magic hedgehog offer";
+var mnemonic = "planet legal slice sea issue marble rebel under brown street ecology holiday";

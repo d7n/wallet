@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog slush emerge clinic bunker relax defense husband nothing board pull tonight";
+var mnemonic = "bring cricket photo other brand word escape skirt place chicken frame mean";

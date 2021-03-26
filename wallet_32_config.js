@@ -1,1 +1,1 @@
-var mnemonic = "good doctor solution grain style pulp address garden spawn spoon web desk";
+var mnemonic = "pencil truck bless tank ready inherit panda bacon kid used attend smile";

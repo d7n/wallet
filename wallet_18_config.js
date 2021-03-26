@@ -1,1 +1,1 @@
-var mnemonic = "spatial cram right express donate object method truck select soap doll embrace";
+var mnemonic = "degree virus orphan banana angry mom pig romance tuna twice glad carbon";

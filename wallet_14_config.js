@@ -1,1 +1,1 @@
-var mnemonic = "actual gather moon menu slim purse ginger ordinary solve roof force lunch";
+var mnemonic = "file chuckle jump shop quarter crash runway draft toast keen screen improve";

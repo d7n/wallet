@@ -1,1 +1,1 @@
-var mnemonic = "amount spoon almost spider illegal rival river body cake mention able appear";
+var mnemonic = "submit wheel gate syrup target trick donkey evil spell glove situate verify";

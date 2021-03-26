@@ -1,1 +1,1 @@
-var mnemonic = "federal habit dash happy design napkin woman rival tattoo they hotel sustain";
+var mnemonic = "track verb buffalo wide flame fence inject venture ketchup bacon dash inmate";

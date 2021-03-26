@@ -1,1 +1,1 @@
-var mnemonic = "office cart cream type embark gap aisle bitter valid unusual mule brick";
+var mnemonic = "need yellow lawsuit track eternal income fault grace earth ecology search enough";

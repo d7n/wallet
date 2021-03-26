@@ -1,1 +1,1 @@
-var mnemonic = "final bright fit once trial category carry enforce canvas bike enlist media";
+var mnemonic = "risk doll steak avocado begin ensure primary wedding rival disagree win world";

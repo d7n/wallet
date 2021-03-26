@@ -1,1 +1,1 @@
-var mnemonic = "valley vibrant brave obscure shoe tell boring step able bounce able clump";
+var mnemonic = "floor credit shed term tray dream weekend punch express over flock genuine";

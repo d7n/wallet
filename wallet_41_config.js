@@ -1,1 +1,1 @@
-var mnemonic = "knee please orange science scene camera cry bubble essay orange twelve swamp";
+var mnemonic = "hunt label total grit cloth bacon punch sweet talk basket faith focus";

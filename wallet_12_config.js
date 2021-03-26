@@ -1,1 +1,1 @@
-var mnemonic = "layer lizard right upset jelly dash chaos motor clock zoo throw tuition";
+var mnemonic = "pulse grain slow together uphold deposit slide waste aware husband girl wrong";

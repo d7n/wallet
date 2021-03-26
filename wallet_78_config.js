@@ -1,1 +1,1 @@
-var mnemonic = "great question path vintage shed right daring morning course toward first mouse";
+var mnemonic = "paper sound spare crucial leg brass balcony pill moment age quarter gold";

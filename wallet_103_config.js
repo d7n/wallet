@@ -1,1 +1,1 @@
-var mnemonic = "guitar keep excite region fly toe throw smooth umbrella describe stove boring";
+var mnemonic = "random upgrade urban dizzy knock heart collect also clerk attitude grocery blue";

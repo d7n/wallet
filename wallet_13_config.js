@@ -1,1 +1,1 @@
-var mnemonic = "winter pink hurt eternal adjust rubber credit mule business decade burden analyst";
+var mnemonic = "behind file card swing daring hedgehog crisp provide bargain advance enroll blame";

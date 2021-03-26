@@ -1,1 +1,1 @@
-var mnemonic = "island moral keep sentence border unit photo secret enough place hotel hundred";
+var mnemonic = "roof faith flame female parade grit limb flip sound history avocado section";

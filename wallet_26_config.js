@@ -1,1 +1,1 @@
-var mnemonic = "north sign core repeat account sunny desert couch embody december stick lock";
+var mnemonic = "amused holiday parrot bomb route army rule express tide profit mixture turtle";

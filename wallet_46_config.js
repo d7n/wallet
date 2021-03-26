@@ -1,1 +1,1 @@
-var mnemonic = "message garbage sweet drip stem miss swift reward depart expire harsh fade";
+var mnemonic = "other behave screen polar wood level supply announce usage bag magic have";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic sauce proof chest various gadget cube essence satoshi owner simple blood";
+var mnemonic = "easy lab toddler cabbage ahead patient six mirror treat blade lonely rough";

@@ -1,1 +1,1 @@
-var mnemonic = "frog immune urge donkey little pride churn flock apology decide fetch select";
+var mnemonic = "satoshi toilet feature mansion snow fly enrich history waste kangaroo because average";

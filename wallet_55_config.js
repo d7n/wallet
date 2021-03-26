@@ -1,1 +1,1 @@
-var mnemonic = "sorry trick act boost innocent excess peace original spring grow address tool";
+var mnemonic = "endless trap large insect beach click analyst usual student rhythm inquiry merge";

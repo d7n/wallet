@@ -1,1 +1,1 @@
-var mnemonic = "faith trophy shed juice absorb lizard belt panther waste clog assault shine";
+var mnemonic = "office stove door gallery place smoke position head twist spare connect earn";

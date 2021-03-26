@@ -1,1 +1,1 @@
-var mnemonic = "mystery beach awkward hello anger follow guitar border vintage purity cage artefact";
+var mnemonic = "buyer cause session core dolphin subway giraffe runway lunch risk marine admit";

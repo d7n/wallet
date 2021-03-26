@@ -1,1 +1,1 @@
-var mnemonic = "trophy master cotton city little clay provide token divert upon collect width";
+var mnemonic = "eagle rural fee home allow patrol hope wasp surface distance canal pencil";

@@ -1,1 +1,1 @@
-var mnemonic = "barely surround goose emotion drink drastic fresh street axis woman panel shrimp";
+var mnemonic = "believe genuine cloth gauge panther dream effort stuff cry tourist price random";

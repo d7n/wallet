@@ -1,1 +1,1 @@
-var mnemonic = "decorate salute march garage evolve rough extra surface sausage short word talent";
+var mnemonic = "where promote exact movie churn prepare march fluid limb vessel donkey chase";

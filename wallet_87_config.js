@@ -1,1 +1,1 @@
-var mnemonic = "ordinary then leisure service attract armor balcony wood liberty recipe timber treat";
+var mnemonic = "exact hybrid when hour develop wonder say attend divorce turkey seminar dog";

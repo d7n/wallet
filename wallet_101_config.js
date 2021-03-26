@@ -1,1 +1,1 @@
-var mnemonic = "sail discover spice taxi ability account morning hidden host wife wash shove";
+var mnemonic = "beyond smooth keep all fault square sponsor leg rare tree quit vast";

@@ -1,1 +1,1 @@
-var mnemonic = "struggle lecture door loud vicious soft unit sad snow client slab stock";
+var mnemonic = "drop inhale circle cluster roof parent menu dance lift shrimp spike foster";

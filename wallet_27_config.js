@@ -1,1 +1,1 @@
-var mnemonic = "practice salad hire fade endless egg matter medal bubble wrist angle hockey";
+var mnemonic = "budget survey eager clown ostrich tuition fancy whip place joy enemy drum";

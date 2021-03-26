@@ -1,1 +1,1 @@
-var mnemonic = "mask rude vintage when egg sport gadget alter wheat dwarf issue later";
+var mnemonic = "planet blade faculty bless cannon diary top inside able column autumn debris";

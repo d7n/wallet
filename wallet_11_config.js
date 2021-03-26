@@ -1,1 +1,1 @@
-var mnemonic = "sweet napkin season silk hello autumn south release oxygen become walnut thumb";
+var mnemonic = "oven bargain raw mask spatial hundred flip bottom today dynamic bulk room";

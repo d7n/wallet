@@ -1,1 +1,1 @@
-var mnemonic = "mouse simple evidence modify advice paper setup zoo boil soon erode music";
+var mnemonic = "loan decrease quality piece woman hunt bind tube piano stairs abstract update";

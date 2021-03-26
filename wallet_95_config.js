@@ -1,1 +1,1 @@
-var mnemonic = "blossom wasp few guide seven stove organ brass depart ring expand battle";
+var mnemonic = "exact deliver twin embody robot hazard sausage panel culture shiver fatal flat";

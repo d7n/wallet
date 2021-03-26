@@ -1,1 +1,1 @@
-var mnemonic = "suspect walnut gown hidden doll online prepare bubble puppy absent zoo myself";
+var mnemonic = "upper pupil master rich sell trick sort noodle asthma correct gas spice";

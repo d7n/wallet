@@ -1,1 +1,1 @@
-var mnemonic = "smooth syrup dizzy sadness focus result recall mimic alarm detect immune wrong";
+var mnemonic = "theme magic occur yard often mixture lion economy love soon unhappy green";

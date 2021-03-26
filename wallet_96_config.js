@@ -1,1 +1,1 @@
-var mnemonic = "milk panic tide neutral volcano recipe rough crane hen expand rubber boost";
+var mnemonic = "wet panda imitate unveil share frame parent question save fan foster rocket";

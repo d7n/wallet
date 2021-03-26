@@ -1,1 +1,1 @@
-var mnemonic = "shadow setup banner above among one result select body episode cannon response";
+var mnemonic = "quick satisfy science lizard vague park push cruel zoo pulp adult april";

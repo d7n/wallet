@@ -1,1 +1,1 @@
-var mnemonic = "federal item mercy lawn siren anger yard unique avoid bulb short dream";
+var mnemonic = "task end region wine patch hurt uphold oppose worth device tourist differ";

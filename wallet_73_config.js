@@ -1,1 +1,1 @@
-var mnemonic = "lend code throw muscle force source pupil street toddler grief hint prepare";
+var mnemonic = "clap mystery glad cupboard palace assume salad emerge night fee remember increase";

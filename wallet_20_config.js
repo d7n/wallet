@@ -1,1 +1,1 @@
-var mnemonic = "sight damage flower peanut silk meadow urban embark east enough you orphan";
+var mnemonic = "title crystal teach month pretty toy fresh industry budget noise sword shoot";

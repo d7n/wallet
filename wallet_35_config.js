@@ -1,1 +1,1 @@
-var mnemonic = "lemon hub cause core secret bless swap example extend first picture mind";
+var mnemonic = "chest jealous lyrics quantum blame sustain helmet tooth put exchange feature right";

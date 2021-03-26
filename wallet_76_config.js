@@ -1,1 +1,1 @@
-var mnemonic = "friend dawn depart forward apart chest flag filter dice element champion cube";
+var mnemonic = "helmet any bicycle federal length tape coral tomato song also stool strategy";

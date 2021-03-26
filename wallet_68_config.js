@@ -1,1 +1,1 @@
-var mnemonic = "excuse hello alert speed crawl youth canal jump news property sadness curve";
+var mnemonic = "warfare pool fit risk erupt manual scale recycle refuse road bronze lucky";

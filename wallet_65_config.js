@@ -1,1 +1,1 @@
-var mnemonic = "pledge eternal buzz inmate advance glare output wage hospital unable push length";
+var mnemonic = "medal harsh market word blood aisle worry motion veteran dial bacon naive";

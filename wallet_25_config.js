@@ -1,1 +1,1 @@
-var mnemonic = "castle acid bracket banana denial rally upper protect thing arrow rebel thank";
+var mnemonic = "elder horse skin program weekend photo crisp bracket connect limb retreat process";

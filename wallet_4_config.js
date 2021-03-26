@@ -1,1 +1,1 @@
-var mnemonic = "sure two ozone index legend cliff glare street faculty ignore dawn viable";
+var mnemonic = "mushroom hard baby good connect guess quality tool impact december split ridge";

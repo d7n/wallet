@@ -1,1 +1,1 @@
-var mnemonic = "junk insane raven change setup tennis play defense agree devote nurse more";
+var mnemonic = "popular science asthma range typical notice engage pull swamp outdoor average oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm truly toilet yellow siren old pass skirt toddler harvest depth pulp";
+var mnemonic = "fly noise include pill diamond vicious budget save security arena leader fade";

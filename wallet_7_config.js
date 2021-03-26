@@ -1,1 +1,1 @@
-var mnemonic = "tattoo upgrade desert sample before bunker view merge voice gain human oval";
+var mnemonic = "usage trick wait social possible kiwi life view abandon humble smile lobster";

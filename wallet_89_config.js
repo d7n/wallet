@@ -1,1 +1,1 @@
-var mnemonic = "stage clock wage metal alert club notice glide charge coconut biology core";
+var mnemonic = "extra cliff market olive give erase obscure payment blame pig repeat ride";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol sister mandate emotion rude convince wrap cliff day law yellow artefact";
+var mnemonic = "color brass desert slender champion document local smile oblige hood credit own";

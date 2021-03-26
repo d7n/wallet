@@ -1,1 +1,1 @@
-var mnemonic = "squirrel repeat spray park nest borrow nephew various tourist food moment organ";
+var mnemonic = "service finger climb joke rib shrug wish ask tip owner bachelor garment";

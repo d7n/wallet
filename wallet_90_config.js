@@ -1,1 +1,1 @@
-var mnemonic = "museum vibrant alarm dose trumpet exile toss cart drift village poet obey";
+var mnemonic = "tone raccoon system gown penalty comfort oak half loud jump anger chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "congress market panel gun rough under best air pulp country layer arctic";
+var mnemonic = "spring weapon dish arrive utility corn reveal eagle vacuum toss tent text";

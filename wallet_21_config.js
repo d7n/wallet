@@ -1,1 +1,1 @@
-var mnemonic = "unusual cash monster saddle eager disorder announce claw gap tone gadget ranch";
+var mnemonic = "erode tip song area mixed income senior witness once empower pride idea";

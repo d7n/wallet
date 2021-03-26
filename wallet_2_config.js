@@ -1,1 +1,1 @@
-var mnemonic = "casual bulk similar wait salon curve valley warfare nest force bridge project";
+var mnemonic = "orphan tattoo ugly spend evolve hockey obtain ugly connect demise garbage burst";

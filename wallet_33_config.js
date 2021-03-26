@@ -1,1 +1,1 @@
-var mnemonic = "diamond emerge tomorrow equip confirm actual walk finger execute hard pole number";
+var mnemonic = "awesome shoe season runway someone twenty energy festival miracle relief main scheme";

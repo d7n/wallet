@@ -1,1 +1,1 @@
-var mnemonic = "wrist embark entire thought series left debris theme blood father service rotate";
+var mnemonic = "talent derive step jazz spend hobby chicken unknown budget history gesture ribbon";

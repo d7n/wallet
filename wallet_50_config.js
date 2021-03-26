@@ -1,1 +1,1 @@
-var mnemonic = "pill cabbage movie wrap silly champion foot require room adult raise top";
+var mnemonic = "idle delay marine sorry genuine ginger skull actual police immense tooth engine";

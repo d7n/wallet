@@ -1,1 +1,1 @@
-var mnemonic = "orphan dentist stock warrior steak blossom waste door head industry glance inquiry";
+var mnemonic = "current fan type young poet useless adult service account key media cube";

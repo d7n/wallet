@@ -1,1 +1,1 @@
-var mnemonic = "adjust picture story shrimp reduce wing follow claw joke hollow ask forest";
+var mnemonic = "bright sword sort rather claim second rude bright ahead security rice pigeon";

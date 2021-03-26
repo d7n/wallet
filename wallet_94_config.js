@@ -1,1 +1,1 @@
-var mnemonic = "unaware voice scene wheel wreck alter debate frame win there shiver point";
+var mnemonic = "laundry among jar april grief shop term burger master word neither provide";

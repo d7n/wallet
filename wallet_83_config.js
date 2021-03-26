@@ -1,1 +1,1 @@
-var mnemonic = "turtle appear elbow pave unknown easy shove noble guess flower breeze shoot";
+var mnemonic = "garbage sunset live move there unit disease drift skull chase edge spoon";

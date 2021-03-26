@@ -1,1 +1,1 @@
-var mnemonic = "coast celery among forum track speak menu vote element minute regret before";
+var mnemonic = "demand wet present thunder strike vehicle replace over spot arrive width impose";

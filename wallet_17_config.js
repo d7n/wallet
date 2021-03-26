@@ -1,1 +1,1 @@
-var mnemonic = "early success height drill violin voyage flush duty lumber donkey palm divorce";
+var mnemonic = "skull sustain cart purse coral fit chapter develop margin leader cotton digital";

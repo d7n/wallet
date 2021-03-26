@@ -1,1 +1,1 @@
-var mnemonic = "degree wave exclude hub enemy ladder mind error turn age tomato disorder";
+var mnemonic = "divide notable chaos inside social ceiling urban capable van evolve beauty sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "inspire worry output mango jaguar outdoor around bubble gravity refuse mandate chapter";
+var mnemonic = "umbrella obey betray sheriff home either multiply climb clinic drip stock false";

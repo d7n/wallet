@@ -1,1 +1,1 @@
-var mnemonic = "social digital spoil siren again system win prevent margin affair behind eternal";
+var mnemonic = "luggage theory matter party hunt absurd session become tent verb model toilet";

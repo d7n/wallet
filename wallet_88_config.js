@@ -1,1 +1,1 @@
-var mnemonic = "hour situate either truly blush lonely seminar mean brave document short rain";
+var mnemonic = "pledge post scale ordinary develop paddle hub sheriff stable fog artwork method";

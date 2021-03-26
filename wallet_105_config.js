@@ -1,1 +1,1 @@
-var mnemonic = "put security right bench feel round wedding state often disorder affair prepare";
+var mnemonic = "bench garbage task surface nurse pencil base world illegal bonus angry minor";

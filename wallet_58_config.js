@@ -1,1 +1,1 @@
-var mnemonic = "math mammal orchard awesome enter anger tobacco unusual liquid quantum modify educate";
+var mnemonic = "outdoor hobby seed nose faint jacket spot alcohol atom never deposit ritual";

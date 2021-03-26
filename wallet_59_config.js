@@ -1,1 +1,1 @@
-var mnemonic = "grow smooth mirror glimpse prize race swim amateur view dress arrange pumpkin";
+var mnemonic = "much meat color alcohol scout cute time huge badge couch dinner claw";

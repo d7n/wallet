@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit poet private number city walk click trust grit voice educate skull";
+var mnemonic = "goose good decade confirm raw give soap jewel satisfy away search creek";

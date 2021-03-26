@@ -1,1 +1,1 @@
-var mnemonic = "chronic door slot harbor across motion lock deny song noodle pretty brush";
+var mnemonic = "knock castle actor spike match boy chuckle vehicle capital jump drink together";

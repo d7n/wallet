@@ -1,1 +1,1 @@
-var mnemonic = "remove medal axis wish art morning shoulder hamster few replace radio admit";
+var mnemonic = "net toilet tissue artwork peanut route banana shaft power hidden meadow marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "tornado surprise winter crucial author parade useful upset claw wink scan live";
+var mnemonic = "entire reflect own world broken pilot view unlock claim pretty morning pass";

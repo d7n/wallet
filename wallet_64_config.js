@@ -1,1 +1,1 @@
-var mnemonic = "achieve toss girl dune satoshi sheriff gather art input connect office fine";
+var mnemonic = "tool jealous fuel salmon video dilemma silver remind army upgrade appear case";
