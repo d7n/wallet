@@ -1,1 +1,1 @@
-var mnemonic = "abandon trick ginger auction able soldier correct typical hint spot dad permit";
+var mnemonic = "entire defense volcano pudding produce banana subway voice sausage noodle antenna demand";

@@ -1,1 +1,1 @@
-var mnemonic = "depth apology manage visa venture invite juice cross shoot another tone brother";
+var mnemonic = "grab distance lady material later sail gasp rare change farm during chicken";

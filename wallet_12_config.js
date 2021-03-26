@@ -1,1 +1,1 @@
-var mnemonic = "parent develop crazy trouble bargain across muffin toss green embody equal arch";
+var mnemonic = "ordinary police desk offer network drum key boy neither when slim where";

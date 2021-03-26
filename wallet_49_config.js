@@ -1,1 +1,1 @@
-var mnemonic = "fuel outside furnace young roast sting tribe job bright decade sail major";
+var mnemonic = "enhance leisure judge trim sing market shuffle window split cream nation poet";

@@ -1,1 +1,1 @@
-var mnemonic = "badge hotel always script already sorry similar sock muscle rescue found gather";
+var mnemonic = "youth crowd poverty digital dignity begin pride often physical exhaust scan bullet";

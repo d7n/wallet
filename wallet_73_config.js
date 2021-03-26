@@ -1,1 +1,1 @@
-var mnemonic = "crater budget comic clay major chest process potato anchor opera traffic truth";
+var mnemonic = "galaxy young pitch broken tip taste duck quote history note bubble dish";

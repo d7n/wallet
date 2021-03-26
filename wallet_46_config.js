@@ -1,1 +1,1 @@
-var mnemonic = "early news session reduce become wood race govern predict win noise gadget";
+var mnemonic = "ready flavor pluck dismiss essay toe chronic sail avoid merit address install";

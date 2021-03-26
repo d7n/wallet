@@ -1,1 +1,1 @@
-var mnemonic = "egg spare soon artwork front mass rather onion slam trick person subject";
+var mnemonic = "tiger amount sword measure rule system burden share someone great elite crowd";

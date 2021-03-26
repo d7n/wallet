@@ -1,1 +1,1 @@
-var mnemonic = "tube phrase spell accident laugh truth change drift range turtle silk tornado";
+var mnemonic = "squirrel critic again target ignore lizard skull rural treat dad cheese route";

@@ -1,1 +1,1 @@
-var mnemonic = "release panda help shadow calm mobile embody collect wolf waste under lift";
+var mnemonic = "outer accuse below rigid warm sentence rail drastic neck upper concert leg";

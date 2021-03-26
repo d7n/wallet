@@ -1,1 +1,1 @@
-var mnemonic = "anchor copper reject dutch wish hold empower corn embark scrub consider toast";
+var mnemonic = "avocado toilet type hair hungry neutral solid jump toast rather real wide";

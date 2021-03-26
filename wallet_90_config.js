@@ -1,1 +1,1 @@
-var mnemonic = "rebuild fragile thank parrot half please end action flame afford horror account";
+var mnemonic = "inform juice sphere welcome simple next polar segment wrestle guilt frame wedding";

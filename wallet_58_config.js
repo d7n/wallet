@@ -1,1 +1,1 @@
-var mnemonic = "adapt sudden gold cigar olympic annual club auto small material critic brave";
+var mnemonic = "alone picnic canoe ceiling soda outdoor immense galaxy eight mass crater sausage";

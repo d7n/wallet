@@ -1,1 +1,1 @@
-var mnemonic = "script simple sign need noodle merit antique race frame thumb chronic reopen";
+var mnemonic = "mass reform slush combine symbol future object year embrace cycle ripple angry";

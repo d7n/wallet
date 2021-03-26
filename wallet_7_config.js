@@ -1,1 +1,1 @@
-var mnemonic = "science train flower legal stay civil venture finger floor patch total twice";
+var mnemonic = "small foster page jacket father escape pass century rough cream rich crunch";

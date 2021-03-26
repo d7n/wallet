@@ -1,1 +1,1 @@
-var mnemonic = "mechanic juice woman gain swap hotel leisure student since flat ribbon lady";
+var mnemonic = "warm that neutral seek few truck panel coffee chalk lounge park exchange";

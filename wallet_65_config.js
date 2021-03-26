@@ -1,1 +1,1 @@
-var mnemonic = "admit remain green stairs people grocery fold dignity tennis soldier behind upset";
+var mnemonic = "analyst tail enemy city depart derive ceiling still creek device duty expand";

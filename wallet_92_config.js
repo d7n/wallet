@@ -1,1 +1,1 @@
-var mnemonic = "step lounge skate blur someone polar rather artefact recall image kiwi rough";
+var mnemonic = "peanut satoshi act remain december relax win toast cushion square special very";

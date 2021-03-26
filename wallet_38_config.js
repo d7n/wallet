@@ -1,1 +1,1 @@
-var mnemonic = "armor seed hold seat glare cradle child laptop reflect deliver item protect";
+var mnemonic = "stairs lobster once impulse hockey mask ski bacon turn crystal sunset cart";

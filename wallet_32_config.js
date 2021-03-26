@@ -1,1 +1,1 @@
-var mnemonic = "access museum learn that outside tail eyebrow onion zebra obvious design hair";
+var mnemonic = "amazing exile web tissue plate stand pink pioneer tip venture fiction economy";

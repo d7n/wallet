@@ -1,1 +1,1 @@
-var mnemonic = "level affair evidence ignore jeans blood theory fix romance soup country put";
+var mnemonic = "floor uniform bid flavor coffee champion echo moral infant rough stay snake";

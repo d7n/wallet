@@ -1,1 +1,1 @@
-var mnemonic = "novel wheat adjust penalty swamp test raw depend shiver basic salmon educate";
+var mnemonic = "milk final champion north morning manual sibling mom mouse letter foot dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "category slush square extend bag banner issue session diet anxiety number add";
+var mnemonic = "hand mother charge blouse credit total hunt wife twice flight plug pencil";

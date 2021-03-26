@@ -1,1 +1,1 @@
-var mnemonic = "whale draw have holiday bracket piece embody measure proud lottery chaos chunk";
+var mnemonic = "vocal settle endorse humor release dumb scout treat can pear begin return";

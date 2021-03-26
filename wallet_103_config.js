@@ -1,1 +1,1 @@
-var mnemonic = "pluck private color exchange grocery angle reason amount more scrap donor maple";
+var mnemonic = "wing fox enjoy smooth extra convince spy wasp dance approve token room";

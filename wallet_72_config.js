@@ -1,1 +1,1 @@
-var mnemonic = "narrow safe bus vast usage use just mesh chat museum hundred latin";
+var mnemonic = "run butter hurry almost source attend busy decide rival animal lake echo";

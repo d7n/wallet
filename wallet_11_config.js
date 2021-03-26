@@ -1,1 +1,1 @@
-var mnemonic = "barely scheme kite cinnamon patch gauge clean twenty dust plate science coin";
+var mnemonic = "february leader bargain inner ice kitchen broom coach dice school flush bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "easily vacuum two myself strategy season erosion hood bench crisp remember cash";
+var mnemonic = "tool skill pause hard robust toilet lawn march rifle gossip illness churn";

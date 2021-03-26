@@ -1,1 +1,1 @@
-var mnemonic = "upper spawn web sketch lounge few visit share wet enough album very";
+var mnemonic = "solid humor wet force radio moment chair wall disagree oval foam doctor";

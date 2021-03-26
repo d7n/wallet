@@ -1,1 +1,1 @@
-var mnemonic = "tank public spare muscle call neither cycle alarm decade guilt scrub move";
+var mnemonic = "diet lonely guide comic mimic relax link erode collect treat vicious join";

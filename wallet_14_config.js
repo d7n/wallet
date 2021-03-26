@@ -1,1 +1,1 @@
-var mnemonic = "salmon lift flag tiny journey cause fitness youth trap response blanket scatter";
+var mnemonic = "stove joy cliff asset moral off emotion orange cover interest accident rookie";

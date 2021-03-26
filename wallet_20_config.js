@@ -1,1 +1,1 @@
-var mnemonic = "opinion waste cycle mystery dutch badge protect grief magic fancy cabin girl";
+var mnemonic = "menu brief pool endless soft attract twin glimpse kind early gospel crouch";

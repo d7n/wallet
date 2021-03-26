@@ -1,1 +1,1 @@
-var mnemonic = "clever feel element they angry poem film hair violin craft clock useful";
+var mnemonic = "slush opinion bamboo offer occur tumble pelican february column hold nerve latin";

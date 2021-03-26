@@ -1,1 +1,1 @@
-var mnemonic = "abandon purpose dumb off sugar media illegal already foster dial monitor gaze";
+var mnemonic = "rural museum speed iron kind mad mercy just cable nuclear swim lend";

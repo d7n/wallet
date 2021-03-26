@@ -1,1 +1,1 @@
-var mnemonic = "fever oblige situate problem arm leaf fiscal pony uniform ocean used patch";
+var mnemonic = "meat measure urge autumn lyrics erosion bind height cupboard unique labor pigeon";

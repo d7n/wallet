@@ -1,1 +1,1 @@
-var mnemonic = "sing capital river airport nurse trumpet relax lemon draw clump debate solve";
+var mnemonic = "output twenty sweet tunnel correct coil garment void park pave nephew smile";

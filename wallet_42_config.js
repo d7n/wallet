@@ -1,1 +1,1 @@
-var mnemonic = "else ski scorpion stable early thumb awake victory alien soldier moral promote";
+var mnemonic = "hurry erupt frog item fetch magnet bubble immense loop spell thunder cake";

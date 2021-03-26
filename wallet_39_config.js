@@ -1,1 +1,1 @@
-var mnemonic = "soul fossil victory else asthma velvet vault embark luggage arena medal rose";
+var mnemonic = "achieve orange sudden famous bar capable pair balance embrace rib toast someone";

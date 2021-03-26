@@ -1,1 +1,1 @@
-var mnemonic = "movie circle luxury struggle monitor wreck interest enforce slender pudding ceiling address";
+var mnemonic = "degree aerobic pepper pill duty oppose teach hint solve vast run announce";

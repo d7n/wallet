@@ -1,1 +1,1 @@
-var mnemonic = "increase custom coral require solve alter pave wreck intact chalk reunion wonder";
+var mnemonic = "task check sample near stick update cruise panel hawk message pulse jelly";

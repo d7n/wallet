@@ -1,1 +1,1 @@
-var mnemonic = "someone jewel dutch cactus toss shy dose extra mind legend goose between";
+var mnemonic = "yellow budget cigar keen crop balcony rug process settle impulse chimney fury";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb science major kidney digital insane clog subject agree office nature flavor";
+var mnemonic = "original monster acquire unfold combine rifle salt man grass bonus file arena";

@@ -1,1 +1,1 @@
-var mnemonic = "rescue section birth medal that cannon problem wrestle sign push visit lawn";
+var mnemonic = "grief say level expose enlist lucky whip bar release smart wrist chalk";

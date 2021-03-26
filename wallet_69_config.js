@@ -1,1 +1,1 @@
-var mnemonic = "ramp sword region list that wear work acquire chunk taste syrup color";
+var mnemonic = "try bottom bone poet hero weather pull lion multiply maid inmate harsh";

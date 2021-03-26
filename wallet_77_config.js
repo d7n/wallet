@@ -1,1 +1,1 @@
-var mnemonic = "oppose cradle budget actor clump gap grunt wage puppy hidden air tail";
+var mnemonic = "spell busy cargo awake slight fossil sting clay clinic submit diamond zero";

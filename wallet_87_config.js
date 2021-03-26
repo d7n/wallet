@@ -1,1 +1,1 @@
-var mnemonic = "shoe reveal since arrow tenant furnace devote point civil grape elevator water";
+var mnemonic = "maximum minor season blossom charge rate design response math fee adapt ritual";

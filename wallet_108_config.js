@@ -1,1 +1,1 @@
-var mnemonic = "spring pipe ship lesson crime afford repair rhythm must innocent salad obtain";
+var mnemonic = "zebra journey allow morning room happy hood letter enact lyrics obvious loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "this fresh lounge tower pitch device easily yellow slot shrimp pluck correct";
+var mnemonic = "chronic high panther miracle hen middle fatal manual flame sun story core";

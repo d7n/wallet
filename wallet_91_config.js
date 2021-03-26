@@ -1,1 +1,1 @@
-var mnemonic = "shoulder traffic dumb strategy aspect wife adapt calm invest theory when asset";
+var mnemonic = "coil warrior false jar cargo excess code define hold all decide exact";

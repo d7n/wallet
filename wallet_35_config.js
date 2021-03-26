@@ -1,1 +1,1 @@
-var mnemonic = "common lift truth enforce frown unable injury proof table cereal print empty";
+var mnemonic = "horn mom air sight truly believe detail wonder bronze admit flash cram";

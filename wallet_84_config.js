@@ -1,1 +1,1 @@
-var mnemonic = "race fashion chuckle occur laptop rescue kite fury announce fatigue trouble road";
+var mnemonic = "option amazing rhythm average inherit pole adapt people dawn lottery cycle observe";

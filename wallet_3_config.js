@@ -1,1 +1,1 @@
-var mnemonic = "eager enemy nose horror nature voice runway memory sponsor wagon borrow lumber";
+var mnemonic = "wine wolf fall dirt melt recycle scare genre olive consider acid chicken";

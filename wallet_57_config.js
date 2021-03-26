@@ -1,1 +1,1 @@
-var mnemonic = "genre path jeans rice become purpose soul pair nephew budget april barrel";
+var mnemonic = "undo cream crumble buddy father danger enable claw kite trap scatter annual";

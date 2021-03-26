@@ -1,1 +1,1 @@
-var mnemonic = "noise wood vital expire rally village circle diagram float egg misery move";
+var mnemonic = "noble slight kiss ski rubber change annual sauce surprise supply laptop wasp";

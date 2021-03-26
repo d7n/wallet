@@ -1,1 +1,1 @@
-var mnemonic = "elegant cart network fortune awful short joke concert hidden bacon eagle spot";
+var mnemonic = "vicious use bottom gaze main above pitch oak shrug alcohol much margin";

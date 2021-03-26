@@ -1,1 +1,1 @@
-var mnemonic = "tag obscure occur child element fantasy group fix vague auto convince sun";
+var mnemonic = "bundle spoon regular service glare decade large thank puppy receive skull february";

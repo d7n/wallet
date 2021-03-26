@@ -1,1 +1,1 @@
-var mnemonic = "blast mail very you sand leaf screen snow blind where nation expire";
+var mnemonic = "thing alert illness virtual mesh canyon want flock huge ball taste absent";

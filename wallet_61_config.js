@@ -1,1 +1,1 @@
-var mnemonic = "spawn piano front moral board loyal miss copper taste rice guide smile";
+var mnemonic = "drill math foam mercy negative reject siren answer evoke dinner rough answer";

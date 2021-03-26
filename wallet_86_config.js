@@ -1,1 +1,1 @@
-var mnemonic = "clutch brave champion scale enough organ shell tornado document oblige flag undo";
+var mnemonic = "trophy same rookie office fee stereo zero wool giant march north gold";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion enter duty list find target all pulp purchase trash oppose shed";
+var mnemonic = "mention arena regret old stumble grace disagree grunt snack twist vintage hour";

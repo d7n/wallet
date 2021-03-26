@@ -1,1 +1,1 @@
-var mnemonic = "oyster holiday misery fantasy someone cushion lizard craft innocent basic guitar monster";
+var mnemonic = "copper dismiss universe vanish this erupt chest then modify dumb taxi company";

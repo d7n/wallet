@@ -1,1 +1,1 @@
-var mnemonic = "prison tuna bottom dentist lawsuit fashion harbor possible select say like mass";
+var mnemonic = "attack poet shove fine brisk basket release chronic whip outside limb minimum";

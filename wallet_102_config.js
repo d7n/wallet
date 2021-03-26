@@ -1,1 +1,1 @@
-var mnemonic = "boring inquiry spot find festival force adjust tip plug latin awful settle";
+var mnemonic = "gate endorse budget juice decrease doll lumber exchange fashion toast amount evolve";

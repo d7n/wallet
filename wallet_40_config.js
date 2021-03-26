@@ -1,1 +1,1 @@
-var mnemonic = "junior novel black direct dinosaur remove cat blade property spoon athlete sign";
+var mnemonic = "mansion fault job roof drip news concert very olive during arrest hub";

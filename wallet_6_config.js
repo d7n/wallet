@@ -1,1 +1,1 @@
-var mnemonic = "cruise online install script duck mutual huge absent possible material cash fringe";
+var mnemonic = "pattern praise leopard shine road express clown brief trial angry usage stage";

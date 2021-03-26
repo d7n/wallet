@@ -1,1 +1,1 @@
-var mnemonic = "symptom common voyage diesel boat ensure plug theme cactus focus test state";
+var mnemonic = "reflect army true answer gossip valid link typical loop spy help easily";

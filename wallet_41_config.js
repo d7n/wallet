@@ -1,1 +1,1 @@
-var mnemonic = "such security allow bike between iron town fish curtain grass pause cover";
+var mnemonic = "jazz core sample giggle ignore dynamic thumb birth quiz saddle trade humble";

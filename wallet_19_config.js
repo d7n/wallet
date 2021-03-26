@@ -1,1 +1,1 @@
-var mnemonic = "steak capital search exist orphan output thrive twelve double rug horror name";
+var mnemonic = "flavor roof sight garage weekend attack make bid apart dinner fan fluid";

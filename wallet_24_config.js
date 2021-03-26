@@ -1,1 +1,1 @@
-var mnemonic = "cry copy cash rug radar bless buyer uphold win crouch pull mixture";
+var mnemonic = "truth iron device artist churn abuse diamond spider crouch wet uniform develop";

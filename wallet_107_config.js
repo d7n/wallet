@@ -1,1 +1,1 @@
-var mnemonic = "own pull tray lake short fall offer claim recall edit when enforce";
+var mnemonic = "tortoise review neither review doll mercy rate runway arena axis opinion replace";

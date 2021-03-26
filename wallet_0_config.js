@@ -1,1 +1,1 @@
-var mnemonic = "spin spare copy cereal cannon illegal ahead caught town shiver sudden menu";
+var mnemonic = "opera pair fossil gain sock hazard depend mind soap stamp van sibling";

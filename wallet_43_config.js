@@ -1,1 +1,1 @@
-var mnemonic = "gown affair trip decrease usual eager raven lemon face media issue hour";
+var mnemonic = "bridge eager mutual almost minute absent pole stick parent uncover prefer crazy";

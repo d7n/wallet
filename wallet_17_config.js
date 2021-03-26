@@ -1,1 +1,1 @@
-var mnemonic = "universe marble heart exile wrist bless system ladder path army choice group";
+var mnemonic = "opinion cricket primary robust brand library weekend volcano combine record gasp visa";

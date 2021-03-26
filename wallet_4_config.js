@@ -1,1 +1,1 @@
-var mnemonic = "advance mix federal scene catch economy jeans sign logic thank vicious marriage";
+var mnemonic = "fabric clog pepper thank bid duty sport deliver drip left seed muscle";

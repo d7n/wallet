@@ -1,1 +1,1 @@
-var mnemonic = "profit during join trial quiz ill fit couch weapon earn endless home";
+var mnemonic = "fancy butter bone canyon goat loan burden bright divide hotel congress elbow";

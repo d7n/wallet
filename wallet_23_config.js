@@ -1,1 +1,1 @@
-var mnemonic = "inject amount matter helmet account paper false cricket chest horse maximum decline";
+var mnemonic = "travel pelican flip nerve beef toward jacket innocent green shoe enough menu";

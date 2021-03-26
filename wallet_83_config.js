@@ -1,1 +1,1 @@
-var mnemonic = "code hold cattle mosquito stage blue water away pelican faith ability deliver";
+var mnemonic = "frame build shaft live couple local belt seek bright proof behind pencil";

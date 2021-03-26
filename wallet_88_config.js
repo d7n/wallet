@@ -1,1 +1,1 @@
-var mnemonic = "absent discover sponsor rare opera equal purse talent stumble walk roof provide";
+var mnemonic = "floor fiction cable defy reduce bullet mansion maze copper elephant detect slot";

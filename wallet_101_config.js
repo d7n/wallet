@@ -1,1 +1,1 @@
-var mnemonic = "harvest carpet manual cattle bullet prefer tennis giggle typical code angry infant";
+var mnemonic = "urge swap below barrel arrange impulse flame axis evoke vague biology magnet";

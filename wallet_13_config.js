@@ -1,1 +1,1 @@
-var mnemonic = "rule hen alarm trouble canvas basket agent come empower tide seek ginger";
+var mnemonic = "garment food million frog diet debate cycle save cupboard critic egg fault";

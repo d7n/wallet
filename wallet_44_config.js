@@ -1,1 +1,1 @@
-var mnemonic = "remove drink long sure husband left crumble select kite author loan bleak";
+var mnemonic = "myself ability enlist tooth snack beef fly laugh bulb swing list answer";

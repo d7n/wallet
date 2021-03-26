@@ -1,1 +1,1 @@
-var mnemonic = "drop blossom cushion omit zero option tennis lonely trial tornado royal rally";
+var mnemonic = "tower slide old crime mask change gravity jazz hope identify corn follow";

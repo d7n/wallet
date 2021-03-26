@@ -1,1 +1,1 @@
-var mnemonic = "force hat soul tower taxi jaguar define party approve gorilla engine elephant";
+var mnemonic = "joy admit control unhappy unable tongue age item dune size medal oxygen";

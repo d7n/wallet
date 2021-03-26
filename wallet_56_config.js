@@ -1,1 +1,1 @@
-var mnemonic = "spawn employ jump ancient face approve sample trade casino they welcome include";
+var mnemonic = "escape pride ethics rabbit assist eager spot dutch ski ship castle unusual";

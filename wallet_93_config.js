@@ -1,1 +1,1 @@
-var mnemonic = "width female fox faint meat pizza whale charge dawn run insane oak";
+var mnemonic = "cave gate lucky episode thrive rhythm fantasy cupboard obtain opinion impact fossil";

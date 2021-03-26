@@ -1,1 +1,1 @@
-var mnemonic = "long paper sound lens gate recipe fan wrist they velvet dignity bamboo";
+var mnemonic = "lawsuit become peanut brisk town rather claim school swift judge daughter practice";

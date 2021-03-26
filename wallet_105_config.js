@@ -1,1 +1,1 @@
-var mnemonic = "sweet subway match stem marriage question work load claim thunder tiger various";
+var mnemonic = "rug reward acoustic age relax hold glad dinosaur column cactus cart report";

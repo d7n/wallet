@@ -1,1 +1,1 @@
-var mnemonic = "grass manual month snow bird they fashion pottery poem hurdle safe resource";
+var mnemonic = "beach oppose primary ecology coffee muscle penalty whisper robust parent filter eyebrow";
