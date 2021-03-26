@@ -1,1 +1,1 @@
-var mnemonic = "fabric sell buzz bench trick drip tuna affair hair convince example south";
+var mnemonic = "duty alien grid file slice glare unit alarm practice amazing exercise swear";

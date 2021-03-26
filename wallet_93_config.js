@@ -1,1 +1,1 @@
-var mnemonic = "hundred session will radar erupt cruel half false cable despair program blind";
+var mnemonic = "mansion empower shy pony check air hurry tomorrow acid enemy upgrade figure";

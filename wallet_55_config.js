@@ -1,1 +1,1 @@
-var mnemonic = "garage slender tuna arena father phone novel fall ball own mesh nerve";
+var mnemonic = "south axis paddle garlic mirror interest maximum actual deny label ritual conduct";

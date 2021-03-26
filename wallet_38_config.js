@@ -1,1 +1,1 @@
-var mnemonic = "slam train wedding alley clerk sun wear alien uphold work thumb mother";
+var mnemonic = "empty effort artist frog slice scout lecture float artefact art wall polar";

@@ -1,1 +1,1 @@
-var mnemonic = "hole another quantum spy august mind chat exclude lizard ladder hedgehog praise";
+var mnemonic = "engine real guide apology ice barely jeans palm bachelor pudding rare embrace";

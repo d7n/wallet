@@ -1,1 +1,1 @@
-var mnemonic = "flat report among age health grunt island inch alcohol fish field room";
+var mnemonic = "plate six churn cry yellow clean wall marble response rich attitude put";

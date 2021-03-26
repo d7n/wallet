@@ -1,1 +1,1 @@
-var mnemonic = "weather dust regular coach liberty health trumpet friend mind crawl donkey load";
+var mnemonic = "entry soap police exist bottom favorite august alien mandate punch guitar vicious";

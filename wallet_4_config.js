@@ -1,1 +1,1 @@
-var mnemonic = "vintage stamp problem strike town leopard people can dwarf display youth song";
+var mnemonic = "when coil uniform earn awesome flip prepare swamp autumn zoo divorce carry";

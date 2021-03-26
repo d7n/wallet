@@ -1,1 +1,1 @@
-var mnemonic = "entry unable magnet repeat mandate guess safe aerobic step material cement tooth";
+var mnemonic = "material act tonight second sock until sail write fault search episode opera";

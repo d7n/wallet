@@ -1,1 +1,1 @@
-var mnemonic = "illegal suggest wage nuclear exclude quick keen diesel route solve hero garment";
+var mnemonic = "laundry task later traffic foster pony bulb truck tunnel sheriff bring opera";

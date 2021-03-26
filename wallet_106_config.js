@@ -1,1 +1,1 @@
-var mnemonic = "attack end sell general hurt spike force dentist hotel useful roast mechanic";
+var mnemonic = "spoon album load frame tourist power rude another true wish voice obvious";

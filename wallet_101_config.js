@@ -1,1 +1,1 @@
-var mnemonic = "wrist abuse side weather wasp drift fit turtle ranch rare blouse skill";
+var mnemonic = "feed ancient imitate exact save scale glad law solar shadow cake category";

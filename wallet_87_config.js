@@ -1,1 +1,1 @@
-var mnemonic = "faculty provide pretty minimum cabin minimum avoid else pupil box athlete weasel";
+var mnemonic = "acid naive viable grape violin hat master glide fresh junior avoid grab";

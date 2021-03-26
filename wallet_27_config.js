@@ -1,1 +1,1 @@
-var mnemonic = "tiger guitar gauge upgrade crunch castle unhappy direct employ anchor strategy census";
+var mnemonic = "salmon tail giant actress post journey crane exchange accuse icon analyst roof";

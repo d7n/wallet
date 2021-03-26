@@ -1,1 +1,1 @@
-var mnemonic = "country warm chronic cup differ embark want gloom squirrel super quick liberty";
+var mnemonic = "tennis hover teach fee animal sort current decade history dolphin manage banana";

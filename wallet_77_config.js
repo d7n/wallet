@@ -1,1 +1,1 @@
-var mnemonic = "harvest need corn noise special fetch unfold fire favorite current favorite later";
+var mnemonic = "start purse forget indoor pyramid stomach turn behind orphan plunge dolphin unit";

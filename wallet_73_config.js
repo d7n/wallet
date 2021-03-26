@@ -1,1 +1,1 @@
-var mnemonic = "vast bleak rack elephant cry yard open worth match subway job unfold";
+var mnemonic = "depend bracket foster method health fun state turkey stable quantum bicycle they";

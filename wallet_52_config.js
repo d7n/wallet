@@ -1,1 +1,1 @@
-var mnemonic = "era rural remind flame garden abstract ostrich fit burst random actual quality";
+var mnemonic = "rally treat joy tennis retreat head knock crawl model cup other price";

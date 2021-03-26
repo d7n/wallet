@@ -1,1 +1,1 @@
-var mnemonic = "mad tree nephew grace curve visual reform enroll minute busy liberty universe";
+var mnemonic = "twice control portion bundle want edge program rally asthma sting pill rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket donate copper devote hidden horror ocean first beef holiday furnace buddy";
+var mnemonic = "cat similar park two purchase can country giraffe bullet bind click move";

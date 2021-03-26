@@ -1,1 +1,1 @@
-var mnemonic = "mosquito jealous core sad code lunch whip shallow foster egg usual palm";
+var mnemonic = "heavy method goat cream differ narrow merry beach host decide situate lend";

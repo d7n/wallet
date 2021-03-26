@@ -1,1 +1,1 @@
-var mnemonic = "lens useless unveil tissue nose myself endless pass filter glue length reunion";
+var mnemonic = "portion snow fluid whale fiction grunt guitar quarter music narrow admit usual";

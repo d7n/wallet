@@ -1,1 +1,1 @@
-var mnemonic = "labor because fox flat marble target like sphere ocean view valid six";
+var mnemonic = "brick fun today void suffer cloth hamster seek tone earn believe delay";

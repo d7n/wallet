@@ -1,1 +1,1 @@
-var mnemonic = "shell action pipe glass save rocket tissue wreck rapid demise nothing stadium";
+var mnemonic = "identify bird ozone march photo trash rocket hotel junior fringe sweet flush";

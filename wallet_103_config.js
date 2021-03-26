@@ -1,1 +1,1 @@
-var mnemonic = "carpet drip oak bonus kangaroo best curve lab sponsor shy sick label";
+var mnemonic = "emotion belt truly supreme coconut always corn palm pretty program ranch heavy";

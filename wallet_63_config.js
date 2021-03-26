@@ -1,1 +1,1 @@
-var mnemonic = "path remove gadget alarm budget buzz want indicate unable laugh build bind";
+var mnemonic = "vote cost act they poverty grunt discover bottom cram frost burger fold";

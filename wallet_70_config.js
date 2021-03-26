@@ -1,1 +1,1 @@
-var mnemonic = "sadness spring gift speed pigeon license crash vital illness name move frame";
+var mnemonic = "busy cherry guess genius used such crush grunt magic coin boss fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "cook lounge cool elbow fork matrix order flower drop dolphin charge seed";
+var mnemonic = "lucky cereal wing another maze stuff crisp recycle belt gesture city echo";

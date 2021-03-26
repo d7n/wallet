@@ -1,1 +1,1 @@
-var mnemonic = "outside error cupboard clerk analyst please nurse control east shadow winter boy";
+var mnemonic = "predict loyal student embark divert bean cluster true transfer wheel arrest cover";

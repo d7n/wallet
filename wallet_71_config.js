@@ -1,1 +1,1 @@
-var mnemonic = "essay swarm situate dial crisp word into reveal victory toward coyote same";
+var mnemonic = "retreat fire zero kite original depart canyon flee mobile truth proof hollow";

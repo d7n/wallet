@@ -1,1 +1,1 @@
-var mnemonic = "lottery ability believe turkey cable decide comic obvious regular lemon cradle collect";
+var mnemonic = "upgrade ancient wear resource medal liar game slender strategy drip mask pelican";

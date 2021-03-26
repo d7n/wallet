@@ -1,1 +1,1 @@
-var mnemonic = "caution impulse morning magic wheel cherry loan fault drink tissue barrel enlist";
+var mnemonic = "method village ugly coffee sudden pass where loan reason hurry notice rather";

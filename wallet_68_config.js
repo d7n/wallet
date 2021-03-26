@@ -1,1 +1,1 @@
-var mnemonic = "road pattern shiver demand pulp tone brave avoid calm practice syrup decline";
+var mnemonic = "bacon oil fine wild ceiling surround stumble twist north goose pyramid fog";

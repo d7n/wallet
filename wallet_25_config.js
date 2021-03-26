@@ -1,1 +1,1 @@
-var mnemonic = "jar menu avocado jacket drift shed cruel brief novel mention direct plug";
+var mnemonic = "catch spot bonus fever venture inside column since mosquito outside robust found";

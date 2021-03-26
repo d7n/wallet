@@ -1,1 +1,1 @@
-var mnemonic = "boost same error tonight author volume trim birth chaos hospital rigid soccer";
+var mnemonic = "crime match romance abandon people silent access that load solid busy reveal";

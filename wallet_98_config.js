@@ -1,1 +1,1 @@
-var mnemonic = "dilemma dust glue sand wrestle hobby ripple crowd crop salt report student";
+var mnemonic = "cream blouse alley sport glide uncle often toast boat mirror spike butter";

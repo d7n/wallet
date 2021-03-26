@@ -1,1 +1,1 @@
-var mnemonic = "there carbon opinion club escape practice season balcony blade infant harsh excuse";
+var mnemonic = "jazz stairs remain mystery auto orphan pumpkin polar invite grocery dinosaur borrow";

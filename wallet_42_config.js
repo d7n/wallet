@@ -1,1 +1,1 @@
-var mnemonic = "nurse odor describe festival business curious switch century oxygen february remember axis";
+var mnemonic = "sorry style physical have taxi sugar best umbrella swift neutral primary test";

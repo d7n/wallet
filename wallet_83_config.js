@@ -1,1 +1,1 @@
-var mnemonic = "magnet motor false rack leg camera enemy argue number brush tail surface";
+var mnemonic = "tiger immense argue gloom spirit else invite frown lamp harbor similar boy";

@@ -1,1 +1,1 @@
-var mnemonic = "security dentist true used autumn flight warfare pond claim famous salad push";
+var mnemonic = "crew snow duty grab throw rent zoo safe ask muffin camp cost";

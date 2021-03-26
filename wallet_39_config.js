@@ -1,1 +1,1 @@
-var mnemonic = "comic faith mosquito next struggle tiny danger wrong tongue shine crumble exit";
+var mnemonic = "holiday fame worth culture elephant wine secret elite captain inject sponsor seat";

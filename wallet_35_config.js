@@ -1,1 +1,1 @@
-var mnemonic = "husband female chest flavor hat eternal cram maximum tube title soap collect";
+var mnemonic = "cry venue modify uniform alter year wild wife theme host talk comic";

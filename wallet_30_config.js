@@ -1,1 +1,1 @@
-var mnemonic = "margin hobby memory hazard group battle grace click card act success okay";
+var mnemonic = "virus congress height nuclear behave clay true gun powder wife obtain wing";

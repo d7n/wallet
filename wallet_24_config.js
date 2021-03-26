@@ -1,1 +1,1 @@
-var mnemonic = "twice rail sting soul exotic grape curious chapter road connect zoo destroy";
+var mnemonic = "gasp dove tone shrug garage expect space chimney photo beach ginger vicious";

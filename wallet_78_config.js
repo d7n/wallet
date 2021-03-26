@@ -1,1 +1,1 @@
-var mnemonic = "suit amateur nice rookie south remember cousin extra spread climb wife bounce";
+var mnemonic = "business scrap leg demise tumble random party wonder record combine core demand";

@@ -1,1 +1,1 @@
-var mnemonic = "payment sadness assist size clever spy winner off stage cannon fatigue shield";
+var mnemonic = "firm young disorder bamboo resemble thumb churn engage certain spend soldier fever";

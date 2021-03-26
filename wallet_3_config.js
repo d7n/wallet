@@ -1,1 +1,1 @@
-var mnemonic = "subject child oil false distance sick close cause rough story faith sadness";
+var mnemonic = "offer attract derive limit wheel city lyrics hawk few win improve snake";

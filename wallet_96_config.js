@@ -1,1 +1,1 @@
-var mnemonic = "toilet ski report off sniff mom become liar mouse source rhythm false";
+var mnemonic = "spy grief away kidney try faint end fence minor lake addict major";

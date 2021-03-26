@@ -1,1 +1,1 @@
-var mnemonic = "height issue oyster planet sail surprise magic town electric solution erosion soul";
+var mnemonic = "brush tonight earth fashion pipe trial swallow habit found slow meat disease";

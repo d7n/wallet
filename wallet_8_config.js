@@ -1,1 +1,1 @@
-var mnemonic = "common execute climb catch orient trouble seat fetch jelly galaxy boat heavy";
+var mnemonic = "stock canoe aisle drip door surface term ridge action north alarm title";

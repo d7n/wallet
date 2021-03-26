@@ -1,1 +1,1 @@
-var mnemonic = "worry hidden popular across beauty gas summer equal horror dentist behind symbol";
+var mnemonic = "proud marble error emotion soul special desk oblige strike gallery acoustic stable";

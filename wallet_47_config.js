@@ -1,1 +1,1 @@
-var mnemonic = "letter street civil badge wing frost degree treat address slight embark theory";
+var mnemonic = "rifle fork tired illegal surge bacon segment vacuum paper result silent similar";

@@ -1,1 +1,1 @@
-var mnemonic = "gap stay start force delay swarm enhance resource march cream rice garlic";
+var mnemonic = "push glue entire agree weasel sustain rib blur mass essay elite clinic";

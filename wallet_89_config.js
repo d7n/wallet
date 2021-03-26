@@ -1,1 +1,1 @@
-var mnemonic = "paddle detail air spatial monkey ghost script lamp admit address connect zebra";
+var mnemonic = "column lawn alert erupt skin lazy boil fashion someone way tongue cotton";

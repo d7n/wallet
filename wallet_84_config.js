@@ -1,1 +1,1 @@
-var mnemonic = "blame foot negative burst marine also latin nominee supply much cushion genre";
+var mnemonic = "copper race grocery rocket above dream admit host razor smoke anger into";

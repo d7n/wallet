@@ -1,1 +1,1 @@
-var mnemonic = "blouse finger wasp vapor garlic jar scissors palm nuclear trade split benefit";
+var mnemonic = "act power element solution gallery list key desk shrimp trophy fringe rare";

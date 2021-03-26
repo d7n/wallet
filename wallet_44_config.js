@@ -1,1 +1,1 @@
-var mnemonic = "decorate twelve title wood laugh snap reunion gentle sock first absorb emotion";
+var mnemonic = "attitude become february ketchup slight book cheese treat feature hope swallow ecology";

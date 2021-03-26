@@ -1,1 +1,1 @@
-var mnemonic = "tool fiction quote cool wrestle jelly gift want boost misery very defy";
+var mnemonic = "reveal this onion adjust final steak coil cram weasel genius symbol curve";

@@ -1,1 +1,1 @@
-var mnemonic = "member depend slender success noodle dawn bomb life glass door cry light";
+var mnemonic = "unfair option license rescue trust butter goat happy drink unveil vendor security";

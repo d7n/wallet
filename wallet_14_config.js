@@ -1,1 +1,1 @@
-var mnemonic = "decide fade group scare athlete inspire sport dolphin media impose yard toe";
+var mnemonic = "opera awkward budget rookie strike focus fox hour step edge buffalo language";

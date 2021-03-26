@@ -1,1 +1,1 @@
-var mnemonic = "sing canal eight plug frequent visual sport truck trash update exclude color";
+var mnemonic = "load park pulse repeat yard outside evoke aerobic seat oven farm alter";

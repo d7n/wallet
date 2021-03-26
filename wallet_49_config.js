@@ -1,1 +1,1 @@
-var mnemonic = "piano repeat toast west absent milk flush train gauge alert sea special";
+var mnemonic = "joy girl crazy snake cousin drama crystal race ostrich zero olive sell";

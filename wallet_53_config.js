@@ -1,1 +1,1 @@
-var mnemonic = "foil clutch master author daring used message glue candy meat video section";
+var mnemonic = "pitch sad crush mail sentence lamp inquiry upset ginger insane apology jump";

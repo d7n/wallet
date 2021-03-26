@@ -1,1 +1,1 @@
-var mnemonic = "fury cash make unfold bench grow jaguar direct cream double decade slice";
+var mnemonic = "twelve sad fog useful kid famous trade subject state vendor robot mask";

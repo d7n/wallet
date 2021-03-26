@@ -1,1 +1,1 @@
-var mnemonic = "luggage style tongue any cute tilt clever pill property manual banana square";
+var mnemonic = "country ethics grape version fork note gap dismiss shoulder reward caution horn";

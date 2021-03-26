@@ -1,1 +1,1 @@
-var mnemonic = "window snake lemon rely trip wall leopard real kiwi stumble second develop";
+var mnemonic = "account leg dinosaur knife chef visit arm buyer lucky fault wolf lift";

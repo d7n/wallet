@@ -1,1 +1,1 @@
-var mnemonic = "better mango pulp bean circle machine test family hat interest wasp illegal";
+var mnemonic = "vivid question question shaft young hidden fury hub yard agent april gap";

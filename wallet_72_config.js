@@ -1,1 +1,1 @@
-var mnemonic = "pride sort clerk almost time work afraid drink energy dune cliff admit";
+var mnemonic = "blouse trust plastic ball birth flee again aisle tone margin legend notable";

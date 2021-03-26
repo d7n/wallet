@@ -1,1 +1,1 @@
-var mnemonic = "distance wrist carpet meat custom obtain three trouble island penalty buddy off";
+var mnemonic = "fantasy glad blame garment pride pluck provide friend demise firm federal remove";

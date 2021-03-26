@@ -1,1 +1,1 @@
-var mnemonic = "click online health raven eight vacant trash planet film nation include speak";
+var mnemonic = "census popular chuckle infant verify breeze phrase impulse gold table despair love";

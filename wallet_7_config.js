@@ -1,1 +1,1 @@
-var mnemonic = "can steak believe sausage voice slush illness school column index scene daring";
+var mnemonic = "juice judge gadget want desk wheat meat ceiling matter guard file pepper";

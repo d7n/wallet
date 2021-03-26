@@ -1,1 +1,1 @@
-var mnemonic = "tobacco uncle swarm virus margin rail problem beach dance ankle dismiss soda";
+var mnemonic = "team wing steak drip display bus pen negative behave spider fiction empty";

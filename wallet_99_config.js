@@ -1,1 +1,1 @@
-var mnemonic = "someone evil fan capable enter decorate wisdom vast leave common cook pyramid";
+var mnemonic = "doctor tragic danger fantasy torch luggage supply same burst drink shed elevator";

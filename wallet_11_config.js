@@ -1,1 +1,1 @@
-var mnemonic = "skirt uphold mother reopen rookie tiger they siege moral smoke hurdle dress";
+var mnemonic = "height random twelve post penalty excess skill donkey screen early nasty hurry";

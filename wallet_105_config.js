@@ -1,1 +1,1 @@
-var mnemonic = "rate middle catalog hurt relax good session aspect scan victory bid early";
+var mnemonic = "acquire idle tired dust page syrup daughter struggle airport achieve jewel unit";

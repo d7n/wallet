@@ -1,1 +1,1 @@
-var mnemonic = "album damp strike depart differ prize cluster notice machine west shop fame";
+var mnemonic = "shoe muscle nasty fork major glow carry group method vacant canvas fiscal";

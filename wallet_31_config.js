@@ -1,1 +1,1 @@
-var mnemonic = "fog style medal shift artefact swift error until draw tape tonight include";
+var mnemonic = "symptom business brush patrol broccoli voyage already effort erupt usual cash produce";

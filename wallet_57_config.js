@@ -1,1 +1,1 @@
-var mnemonic = "basket gym box detail asthma thumb expose addict barrel inside hobby steel";
+var mnemonic = "approve conduct service worth call vanish eye twin lesson supply olympic web";

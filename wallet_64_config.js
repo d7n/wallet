@@ -1,1 +1,1 @@
-var mnemonic = "ill essence field rabbit lyrics coin main wool obtain speed oval supply";
+var mnemonic = "parade gravity appear odor hero tackle spot humble child disorder ladder company";

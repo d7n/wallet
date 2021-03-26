@@ -1,1 +1,1 @@
-var mnemonic = "antenna lend lonely creek cash tornado donkey need model ordinary melt latin";
+var mnemonic = "comic bicycle aerobic door surprise broom web vivid print human axis similar";

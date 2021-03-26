@@ -1,1 +1,1 @@
-var mnemonic = "crush gorilla couch arrest tip ride lizard donkey glimpse expose want blood";
+var mnemonic = "blush art team april keen across issue good entire plug monster citizen";

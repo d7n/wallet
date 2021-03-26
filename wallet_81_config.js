@@ -1,1 +1,1 @@
-var mnemonic = "obvious three ask reflect local document alter concert degree scissors hurdle flame";
+var mnemonic = "call base direct grief bubble true tissue dilemma zero federal make spawn";

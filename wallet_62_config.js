@@ -1,1 +1,1 @@
-var mnemonic = "tower rookie weekend among uncle sting lend begin runway unhappy indicate cram";
+var mnemonic = "opinion trim dismiss kiwi cabin weapon neutral glare august indicate pass negative";

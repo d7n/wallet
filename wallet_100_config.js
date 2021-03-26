@@ -1,1 +1,1 @@
-var mnemonic = "update arrow please coin try juice blur brisk evolve mean venture kidney";
+var mnemonic = "grain poem aspect bench trial uniform oxygen foam artist attend manual cage";

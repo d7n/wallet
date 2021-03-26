@@ -1,1 +1,1 @@
-var mnemonic = "atom catch game inmate aware jewel quote receive vanish zoo escape subject";
+var mnemonic = "essay exercise engine elbow pride insane rebuild pond muffin horse token giraffe";
