@@ -1,1 +1,1 @@
-var mnemonic = "home host sweet lift various fortune decrease fabric motor often injury midnight";
+var mnemonic = "such security allow bike between iron town fish curtain grass pause cover";

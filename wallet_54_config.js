@@ -1,1 +1,1 @@
-var mnemonic = "arrow dilemma kangaroo hip margin bitter beach achieve marriage mass hawk nominee";
+var mnemonic = "diamond day congress butter snack enrich stadium level slide now history gadget";

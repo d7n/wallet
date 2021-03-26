@@ -1,1 +1,1 @@
-var mnemonic = "street put aisle tuition illegal green bamboo pretty page frame shove anger";
+var mnemonic = "feature accuse kind deposit usage ice venture narrow sheriff useful multiply frame";

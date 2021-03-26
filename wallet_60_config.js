@@ -1,1 +1,1 @@
-var mnemonic = "system memory welcome dawn scene fury upset enroll awake brown chapter danger";
+var mnemonic = "badge hotel always script already sorry similar sock muscle rescue found gather";

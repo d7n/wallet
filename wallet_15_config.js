@@ -1,1 +1,1 @@
-var mnemonic = "foster dove release spider novel ability dentist toddler oblige caught profit home";
+var mnemonic = "release panda help shadow calm mobile embody collect wolf waste under lift";

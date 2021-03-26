@@ -1,1 +1,1 @@
-var mnemonic = "search lamp jump stairs old glow egg tree endless memory vote stage";
+var mnemonic = "buyer duty mandate angle october wedding hand devote december tourist spawn inject";

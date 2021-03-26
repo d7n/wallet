@@ -1,1 +1,1 @@
-var mnemonic = "beauty skin ugly around dolphin gown fan arctic gravity crew cotton kiss";
+var mnemonic = "prison tuna bottom dentist lawsuit fashion harbor possible select say like mass";

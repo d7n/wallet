@@ -1,1 +1,1 @@
-var mnemonic = "side phone bring tennis leopard coach together input music deposit answer scene";
+var mnemonic = "spin spare copy cereal cannon illegal ahead caught town shiver sudden menu";

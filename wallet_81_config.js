@@ -1,1 +1,1 @@
-var mnemonic = "exercise decline arrest keep bean head share damage enhance scale decline host";
+var mnemonic = "long paper sound lens gate recipe fan wrist they velvet dignity bamboo";

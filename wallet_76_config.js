@@ -1,1 +1,1 @@
-var mnemonic = "stone napkin fatal spice razor over member extend winner kid bird abuse";
+var mnemonic = "whale draw have holiday bracket piece embody measure proud lottery chaos chunk";

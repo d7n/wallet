@@ -1,1 +1,1 @@
-var mnemonic = "fever lend crop true settle crack renew vast album sentence spring next";
+var mnemonic = "shoulder traffic dumb strategy aspect wife adapt calm invest theory when asset";

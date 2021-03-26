@@ -1,1 +1,1 @@
-var mnemonic = "decorate tooth cabin sniff slide coffee wolf inside economy elegant track extend";
+var mnemonic = "science train flower legal stay civil venture finger floor patch total twice";

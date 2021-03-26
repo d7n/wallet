@@ -1,1 +1,1 @@
-var mnemonic = "steak obey injury phone parrot easy chalk trumpet track resource dizzy vivid";
+var mnemonic = "remove drink long sure husband left crumble select kite author loan bleak";

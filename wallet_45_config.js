@@ -1,1 +1,1 @@
-var mnemonic = "section dragon ticket sell oyster reform banner lion need fat another deal";
+var mnemonic = "category slush square extend bag banner issue session diet anxiety number add";

@@ -1,1 +1,1 @@
-var mnemonic = "artist focus witness story turkey split afraid baby sail flee anxiety wagon";
+var mnemonic = "access museum learn that outside tail eyebrow onion zebra obvious design hair";

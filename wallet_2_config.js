@@ -1,1 +1,1 @@
-var mnemonic = "fee helmet soda venture news razor cage better forget dose fee burden";
+var mnemonic = "order crane novel furnace correct among alley wink fade park dash glass";

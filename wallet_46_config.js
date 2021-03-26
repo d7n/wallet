@@ -1,1 +1,1 @@
-var mnemonic = "mail field clinic flower obvious tennis pig sugar receive outer flag glue";
+var mnemonic = "early news session reduce become wood race govern predict win noise gadget";

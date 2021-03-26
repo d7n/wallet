@@ -1,1 +1,1 @@
-var mnemonic = "forum blast body ribbon degree shrimp ridge chief tattoo injury decade midnight";
+var mnemonic = "absent discover sponsor rare opera equal purse talent stumble walk roof provide";

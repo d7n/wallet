@@ -1,1 +1,1 @@
-var mnemonic = "now tilt close novel spider feature pizza deliver economy talent culture garment";
+var mnemonic = "script simple sign need noodle merit antique race frame thumb chronic reopen";

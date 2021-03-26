@@ -1,1 +1,1 @@
-var mnemonic = "main slide sight wolf strike shift pipe immense spike parent garment game";
+var mnemonic = "crater budget comic clay major chest process potato anchor opera traffic truth";

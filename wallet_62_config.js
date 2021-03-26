@@ -1,1 +1,1 @@
-var mnemonic = "mountain that refuse minor ivory endorse direct behave bonus raise illness sugar";
+var mnemonic = "abandon purpose dumb off sugar media illegal already foster dial monitor gaze";

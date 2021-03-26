@@ -1,1 +1,1 @@
-var mnemonic = "grace mango shrug left large expose claim chuckle rate apple bitter disorder";
+var mnemonic = "hold sign sudden grief catch attitude useful search boil rookie sadness endorse";

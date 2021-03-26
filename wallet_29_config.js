@@ -1,1 +1,1 @@
-var mnemonic = "start vanish mistake wheel brain hip maze hamster health cave emerge tape";
+var mnemonic = "truth victory rough canoe razor air random retreat dumb rely vacuum fix";

@@ -1,1 +1,1 @@
-var mnemonic = "banana stay level receive fury treat muscle misery arm inject aunt total";
+var mnemonic = "salmon lift flag tiny journey cause fitness youth trap response blanket scatter";

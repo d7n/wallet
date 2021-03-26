@@ -1,1 +1,1 @@
-var mnemonic = "race pet doctor mirror airport general jaguar toddler wonder trend dust flock";
+var mnemonic = "movie circle luxury struggle monitor wreck interest enforce slender pudding ceiling address";

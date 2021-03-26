@@ -1,1 +1,1 @@
-var mnemonic = "prepare tiny seminar chief enlist capable actor essay place quality welcome month";
+var mnemonic = "universe marble heart exile wrist bless system ladder path army choice group";

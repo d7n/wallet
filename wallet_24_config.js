@@ -1,1 +1,1 @@
-var mnemonic = "double estate daughter earn barrel item aware usual flame inmate sustain orchard";
+var mnemonic = "cry copy cash rug radar bless buyer uphold win crouch pull mixture";

@@ -1,1 +1,1 @@
-var mnemonic = "change fun width winner lawn swift food spray close boss bonus debris";
+var mnemonic = "code hold cattle mosquito stage blue water away pelican faith ability deliver";

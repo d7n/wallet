@@ -1,1 +1,1 @@
-var mnemonic = "input aerobic hello wealth squirrel glimpse asset car dignity sleep pill grit";
+var mnemonic = "anchor copper reject dutch wish hold empower corn embark scrub consider toast";

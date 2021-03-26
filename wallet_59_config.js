@@ -1,1 +1,1 @@
-var mnemonic = "engine chunk photo card fatigue sibling below aunt detect wet oven peace";
+var mnemonic = "someone jewel dutch cactus toss shy dose extra mind legend goose between";

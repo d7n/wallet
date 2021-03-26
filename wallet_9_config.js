@@ -1,1 +1,1 @@
-var mnemonic = "thumb small major very laugh ready index rubber minor gasp blade metal";
+var mnemonic = "swarm prefer lobster slice gorilla dog photo badge tribe possible april snap";

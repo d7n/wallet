@@ -1,1 +1,1 @@
-var mnemonic = "glad cigar scout together woman earth ugly tribe radio act more clerk";
+var mnemonic = "acoustic attract captain level road theory spirit lock moment unveil faint dilemma";

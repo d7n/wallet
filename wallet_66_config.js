@@ -1,1 +1,1 @@
-var mnemonic = "dash school noodle virus door prepare sausage soul glad chief monster liberty";
+var mnemonic = "tube phrase spell accident laugh truth change drift range turtle silk tornado";

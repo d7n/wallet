@@ -1,1 +1,1 @@
-var mnemonic = "rich ugly number funny visa happy abuse anchor absent curious bone broken";
+var mnemonic = "eager enemy nose horror nature voice runway memory sponsor wagon borrow lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "opera turtle false curtain cart blur govern elite absorb treat elbow bus";
+var mnemonic = "steak capital search exist orphan output thrive twelve double rug horror name";

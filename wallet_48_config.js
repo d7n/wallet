@@ -1,1 +1,1 @@
-var mnemonic = "meadow deal include spell worth cup treat arch three crisp parade verify";
+var mnemonic = "increase custom coral require solve alter pave wreck intact chalk reunion wonder";

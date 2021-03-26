@@ -1,1 +1,1 @@
-var mnemonic = "floor question measure ivory inherit crack sunset jaguar chunk consider protect truly";
+var mnemonic = "reunion enter duty list find target all pulp purchase trash oppose shed";

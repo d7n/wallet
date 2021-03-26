@@ -1,1 +1,1 @@
-var mnemonic = "disorder hope divorce educate alpha excess rally body host copy keep bargain";
+var mnemonic = "barely scheme kite cinnamon patch gauge clean twenty dust plate science coin";

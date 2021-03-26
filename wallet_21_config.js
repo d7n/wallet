@@ -1,1 +1,1 @@
-var mnemonic = "course bean patrol camp stomach term enrich immense depart cheese camera rather";
+var mnemonic = "rescue section birth medal that cannon problem wrestle sign push visit lawn";

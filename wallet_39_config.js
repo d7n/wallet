@@ -1,1 +1,1 @@
-var mnemonic = "undo audit either truck enrich worry shrug someone moment icon consider warm";
+var mnemonic = "soul fossil victory else asthma velvet vault embark luggage arena medal rose";

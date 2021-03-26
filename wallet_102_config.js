@@ -1,1 +1,1 @@
-var mnemonic = "pill catalog garage royal divorce enroll okay tag opinion large service tone";
+var mnemonic = "boring inquiry spot find festival force adjust tip plug latin awful settle";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest race health photo letter diary lunar volume emerge soda mule display";
+var mnemonic = "force hat soul tower taxi jaguar define party approve gorilla engine elephant";

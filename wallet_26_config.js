@@ -1,1 +1,1 @@
-var mnemonic = "above long involve bamboo that neutral label step arrange matter bird fly";
+var mnemonic = "drop blossom cushion omit zero option tennis lonely trial tornado royal rally";

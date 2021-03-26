@@ -1,1 +1,1 @@
-var mnemonic = "fog echo wealth glove outside raise struggle click silly morning alcohol stadium";
+var mnemonic = "ramp sword region list that wear work acquire chunk taste syrup color";

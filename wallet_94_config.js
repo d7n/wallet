@@ -1,1 +1,1 @@
-var mnemonic = "come write account arrive broken van boat double recycle outer goat hurt";
+var mnemonic = "social salt swallow motor orange normal myth rapid forget flower annual exercise";

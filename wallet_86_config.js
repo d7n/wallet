@@ -1,1 +1,1 @@
-var mnemonic = "nature tongue win reward diesel loyal swarm stereo swap throw army arrest";
+var mnemonic = "clutch brave champion scale enough organ shell tornado document oblige flag undo";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster price pill actress owner treat desk rally bargain dignity gravity bleak";
+var mnemonic = "tank public spare muscle call neither cycle alarm decade guilt scrub move";

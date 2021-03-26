@@ -1,1 +1,1 @@
-var mnemonic = "stable vendor easily mass aisle pottery annual guilt else decorate cruise emerge";
+var mnemonic = "blast mail very you sand leaf screen snow blind where nation expire";

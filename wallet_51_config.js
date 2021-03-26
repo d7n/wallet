@@ -1,1 +1,1 @@
-var mnemonic = "seed rocket cube endless spend where collect whip impact rather artwork visa";
+var mnemonic = "defense unusual beach pill giggle subway negative sad decline team fame divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "wash assist remind lyrics fuel document valley warm cream gate length chicken";
+var mnemonic = "junior novel black direct dinosaur remove cat blade property spoon athlete sign";

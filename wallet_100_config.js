@@ -1,1 +1,1 @@
-var mnemonic = "rescue coast tiny waste trend honey decrease round learn pear render galaxy";
+var mnemonic = "grass manual month snow bird they fashion pottery poem hurdle safe resource";

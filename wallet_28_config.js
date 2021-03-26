@@ -1,1 +1,1 @@
-var mnemonic = "leave dry unit hurdle hair parade hurry rail usage team blouse seven";
+var mnemonic = "fitness must despair pair dentist famous rose away harsh music category keen";

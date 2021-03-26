@@ -1,1 +1,1 @@
-var mnemonic = "custom eagle wink baby anxiety direct seek grace defy track critic very";
+var mnemonic = "common lift truth enforce frown unable injury proof table cereal print empty";

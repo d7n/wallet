@@ -1,1 +1,1 @@
-var mnemonic = "time icon cactus wisdom include noise swamp figure divorce quiz settle field";
+var mnemonic = "upper spawn web sketch lounge few visit share wet enough album very";

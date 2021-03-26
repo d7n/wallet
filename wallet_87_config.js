@@ -1,1 +1,1 @@
-var mnemonic = "forward transfer digital rich ball student depart grace crew portion one world";
+var mnemonic = "shoe reveal since arrow tenant furnace devote point civil grape elevator water";

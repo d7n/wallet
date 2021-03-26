@@ -1,1 +1,1 @@
-var mnemonic = "refuse tape armed move write way lemon assume motion parent brand symptom";
+var mnemonic = "novel wheat adjust penalty swamp test raw depend shiver basic salmon educate";

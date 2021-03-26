@@ -1,1 +1,1 @@
-var mnemonic = "all walnut seven deer afraid regular job legal shadow search rebel winner";
+var mnemonic = "pluck private color exchange grocery angle reason amount more scrap donor maple";

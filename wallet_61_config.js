@@ -1,1 +1,1 @@
-var mnemonic = "casino dismiss leisure kangaroo tomato cancel jump quantum million casino swallow fit";
+var mnemonic = "spawn piano front moral board loyal miss copper taste rice guide smile";

@@ -1,1 +1,1 @@
-var mnemonic = "echo ginger toilet room rapid sell outside supply rare member topple symptom";
+var mnemonic = "admit remain green stairs people grocery fold dignity tennis soldier behind upset";

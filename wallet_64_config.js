@@ -1,1 +1,1 @@
-var mnemonic = "damp leg pole honey enlist essay faint october grab monkey fossil athlete";
+var mnemonic = "area half entire patrol half sugar toddler laugh diary crystal goddess exhaust";

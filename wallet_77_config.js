@@ -1,1 +1,1 @@
-var mnemonic = "involve muffin endless radio island swift stuff pave session end bacon present";
+var mnemonic = "oppose cradle budget actor clump gap grunt wage puppy hidden air tail";

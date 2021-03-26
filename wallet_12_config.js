@@ -1,1 +1,1 @@
-var mnemonic = "human six normal already course resemble hurry gown spoil someone section chunk";
+var mnemonic = "parent develop crazy trouble bargain across muffin toss green embody equal arch";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage polar follow avoid there cancel race law early frame erupt crucial";
+var mnemonic = "opinion waste cycle mystery dutch badge protect grief magic fancy cabin girl";

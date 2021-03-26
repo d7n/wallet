@@ -1,1 +1,1 @@
-var mnemonic = "bus weather target rich shock olympic city few pluck arrow world tiny";
+var mnemonic = "symptom common voyage diesel boat ensure plug theme cactus focus test state";

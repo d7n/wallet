@@ -1,1 +1,1 @@
-var mnemonic = "diary village warrior capital sense stone fragile setup rally post sustain slice";
+var mnemonic = "clever feel element they angry poem film hair violin craft clock useful";

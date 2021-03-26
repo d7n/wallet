@@ -1,1 +1,1 @@
-var mnemonic = "mosquito such hunt suit melt chicken shell account dust flight outer little";
+var mnemonic = "jeans sport relax eternal proof next better defy virtual tennis frame robot";

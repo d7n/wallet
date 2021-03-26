@@ -1,1 +1,1 @@
-var mnemonic = "nut wolf apart inmate sock guilt piano rare steel gift demand curve";
+var mnemonic = "advance mix federal scene catch economy jeans sign logic thank vicious marriage";

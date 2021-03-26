@@ -1,1 +1,1 @@
-var mnemonic = "squirrel autumn fatigue pipe gift record pair crime hood parrot actress predict";
+var mnemonic = "spring pipe ship lesson crime afford repair rhythm must innocent salad obtain";

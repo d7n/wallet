@@ -1,1 +1,1 @@
-var mnemonic = "genius coach clarify more atom license original walnut once wash two orphan";
+var mnemonic = "cruise online install script duck mutual huge absent possible material cash fringe";

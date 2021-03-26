@@ -1,1 +1,1 @@
-var mnemonic = "dirt stairs become outside gap artefact use mask olympic turtle north tennis";
+var mnemonic = "egg spare soon artwork front mass rather onion slam trick person subject";

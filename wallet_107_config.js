@@ -1,1 +1,1 @@
-var mnemonic = "regret major rather draft damage lab mouse bronze defy luxury kitten actual";
+var mnemonic = "own pull tray lake short fall offer claim recall edit when enforce";

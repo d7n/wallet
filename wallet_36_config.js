@@ -1,1 +1,1 @@
-var mnemonic = "unaware stamp split drip pistol inflict narrow army excuse gloom swamp endorse";
+var mnemonic = "abandon trick ginger auction able soldier correct typical hint spot dad permit";

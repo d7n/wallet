@@ -1,1 +1,1 @@
-var mnemonic = "banner obtain hundred civil naive praise relax lamp shoe exit trip pause";
+var mnemonic = "easily vacuum two myself strategy season erosion hood bench crisp remember cash";

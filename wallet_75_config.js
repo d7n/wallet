@@ -1,1 +1,1 @@
-var mnemonic = "pipe fluid more lemon voice rent afford few horror clean category unveil";
+var mnemonic = "noise wood vital expire rally village circle diagram float egg misery move";

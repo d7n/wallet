@@ -1,1 +1,1 @@
-var mnemonic = "engine rather coffee eight member sorry fish hard basket sing whip crop";
+var mnemonic = "circle junk stomach blossom source dwarf idea rail bleak also industry imitate";

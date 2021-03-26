@@ -1,1 +1,1 @@
-var mnemonic = "farm asthma knock pull labor chronic boss traffic outdoor stove tuition nasty";
+var mnemonic = "fever oblige situate problem arm leaf fiscal pony uniform ocean used patch";

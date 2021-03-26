@@ -1,1 +1,1 @@
-var mnemonic = "alert pistol achieve evil super arena boss resource right diagram doctor ecology";
+var mnemonic = "width female fox faint meat pizza whale charge dawn run insane oak";

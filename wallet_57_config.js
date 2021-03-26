@@ -1,1 +1,1 @@
-var mnemonic = "soup water leg response glow salmon security quality pact school noble keen";
+var mnemonic = "genre path jeans rice become purpose soul pair nephew budget april barrel";

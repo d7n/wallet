@@ -1,1 +1,1 @@
-var mnemonic = "lumber beef remove tip detect snake fossil minor unable family vicious claw";
+var mnemonic = "level affair evidence ignore jeans blood theory fix romance soup country put";

@@ -1,1 +1,1 @@
-var mnemonic = "diagram across federal joy segment quote junk easily author brown fit slow";
+var mnemonic = "sing capital river airport nurse trumpet relax lemon draw clump debate solve";

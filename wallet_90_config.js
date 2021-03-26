@@ -1,1 +1,1 @@
-var mnemonic = "nothing during sound mutual sand visit version hazard era broccoli scene debris";
+var mnemonic = "rebuild fragile thank parrot half please end action flame afford horror account";

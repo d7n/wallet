@@ -1,1 +1,1 @@
-var mnemonic = "photo legal path work naive flip private gossip sing stool orient cheap";
+var mnemonic = "gown affair trip decrease usual eager raven lemon face media issue hour";

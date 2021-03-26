@@ -1,1 +1,1 @@
-var mnemonic = "volcano orient lemon sea mouse eagle dragon economy sniff stove flat stadium";
+var mnemonic = "step lounge skate blur someone polar rather artefact recall image kiwi rough";

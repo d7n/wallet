@@ -1,1 +1,1 @@
-var mnemonic = "donor come image spring december twenty weekend museum pelican topic blue fame";
+var mnemonic = "mechanic juice woman gain swap hotel leisure student since flat ribbon lady";

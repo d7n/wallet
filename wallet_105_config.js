@@ -1,1 +1,1 @@
-var mnemonic = "ocean author dress tail short tired suggest swim beyond rare talent nurse";
+var mnemonic = "sweet subway match stem marriage question work load claim thunder tiger various";

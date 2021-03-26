@@ -1,1 +1,1 @@
-var mnemonic = "aim pull frost invite usual dose shock stumble soccer soda tide tent";
+var mnemonic = "this fresh lounge tower pitch device easily yellow slot shrimp pluck correct";

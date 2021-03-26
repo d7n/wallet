@@ -1,1 +1,1 @@
-var mnemonic = "art scale swamp unusual mutual truly dizzy economy exist bounce grab broken";
+var mnemonic = "race fashion chuckle occur laptop rescue kite fury announce fatigue trouble road";

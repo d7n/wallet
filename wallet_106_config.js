@@ -1,1 +1,1 @@
-var mnemonic = "trap sister devote cradle have inflict region tobacco fresh keep immune tip";
+var mnemonic = "nature submit toss trap ladder dress duty early cost poem half title";

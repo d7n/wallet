@@ -1,1 +1,1 @@
-var mnemonic = "position pave arena devote gospel unaware dolphin village illness tattoo depth sunny";
+var mnemonic = "adapt sudden gold cigar olympic annual club auto small material critic brave";

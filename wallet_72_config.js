@@ -1,1 +1,1 @@
-var mnemonic = "circle more strategy turtle manage north call giant raven market bench raccoon";
+var mnemonic = "narrow safe bus vast usage use just mesh chat museum hundred latin";
