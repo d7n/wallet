@@ -1,1 +1,1 @@
-var mnemonic = "endless tomato scene angry naive local man satisfy spray rule truth brother";
+var mnemonic = "agent fuel work dinner torch day weird exact skull staff project grab";

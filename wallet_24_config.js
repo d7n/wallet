@@ -1,1 +1,1 @@
-var mnemonic = "coast empty flavor tell donor peasant act same laundry wrestle machine earn";
+var mnemonic = "shop ask tongue buzz occur nation mushroom nasty crush sense banana model";

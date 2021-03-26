@@ -1,1 +1,1 @@
-var mnemonic = "shuffle glow peasant table zero fan hat rail critic card stage song";
+var mnemonic = "coach notice road fringe cup decrease knee oval settle question flee citizen";

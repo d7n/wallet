@@ -1,1 +1,1 @@
-var mnemonic = "act olive analyst reform tortoise dash hint rib grape loud jealous title";
+var mnemonic = "home public ignore correct talk blast ecology truck better social faculty coach";

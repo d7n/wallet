@@ -1,1 +1,1 @@
-var mnemonic = "cross route move cruel vanish myth lake eight junior twenty gravity practice";
+var mnemonic = "rebel disorder exotic picnic seminar ridge sport adjust brick apart evoke require";

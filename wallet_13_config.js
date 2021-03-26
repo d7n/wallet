@@ -1,1 +1,1 @@
-var mnemonic = "ensure actual stadium swift wreck uphold fun detect action oven border erase";
+var mnemonic = "rail sort turn spot enjoy charge fiber truly proud theme dress lift";

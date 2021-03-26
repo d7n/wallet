@@ -1,1 +1,1 @@
-var mnemonic = "clay adult era dawn record sorry wait monster flower asset special leisure";
+var mnemonic = "collect beach force long slogan gadget guard much mail drill vintage butter";

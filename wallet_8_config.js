@@ -1,1 +1,1 @@
-var mnemonic = "picture swim trade fury renew charge gift torch scrap legend buddy march";
+var mnemonic = "ritual helmet siege squirrel saddle annual thrive peasant simple swing hint ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee win make fold swarm punch pond math lake patient tell radar";
+var mnemonic = "column canyon shallow foam maple borrow yellow sweet wedding table huge mixed";

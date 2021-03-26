@@ -1,1 +1,1 @@
-var mnemonic = "muffin story wide kiwi fancy height draw fatigue ordinary swap mammal museum";
+var mnemonic = "sample obvious toilet weekend erosion tongue cup shoe frown alarm feed doll";

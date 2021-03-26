@@ -1,1 +1,1 @@
-var mnemonic = "actress lumber daughter raise decline wheel rural zebra turtle this tuition humble";
+var mnemonic = "chalk include sustain deal voyage wave monitor hazard hood fragile tiny beef";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect love wonder cake silk bird abstract trap horse exercise agent ghost";
+var mnemonic = "category chunk stage route uphold erode arrange maze drop ivory squeeze quality";

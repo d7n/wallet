@@ -1,1 +1,1 @@
-var mnemonic = "tiger neutral upon abuse claw glance absurd buyer endorse exit shaft word";
+var mnemonic = "infant version color guilt cake okay eternal horn trap actor piano claw";

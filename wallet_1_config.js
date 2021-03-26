@@ -1,1 +1,1 @@
-var mnemonic = "snake link interest coin clay brick sleep diesel green burger embody romance";
+var mnemonic = "click harvest remain usual tattoo humble paddle portion woman entry tooth taxi";

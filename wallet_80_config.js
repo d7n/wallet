@@ -1,1 +1,1 @@
-var mnemonic = "today try bamboo vendor bachelor gold setup year response click liberty fun";
+var mnemonic = "symbol accident lift squirrel earth what open where chalk twenty spy dinosaur";

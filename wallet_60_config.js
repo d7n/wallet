@@ -1,1 +1,1 @@
-var mnemonic = "stone you rabbit need eight buddy expire display iron start harvest gasp";
+var mnemonic = "you spend holiday crystal gate suffer alcohol olive liar wear hair carry";

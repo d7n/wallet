@@ -1,1 +1,1 @@
-var mnemonic = "original achieve bonus pink unit name ugly boat glory affair wrong spin";
+var mnemonic = "surprise actress exhibit water mango upgrade such alert napkin next alpha invest";

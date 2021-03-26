@@ -1,1 +1,1 @@
-var mnemonic = "invite inside hole lamp order organ sight combine paddle engage runway woman";
+var mnemonic = "praise bullet shrimp elbow struggle artefact borrow sound feature acoustic banana spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "raise issue little obvious powder wrestle spread tortoise end main orphan hammer";
+var mnemonic = "member twenty kiwi finish absorb earn gaze pepper useless mistake barrel sheriff";

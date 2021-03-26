@@ -1,1 +1,1 @@
-var mnemonic = "crime ranch economy civil analyst analyst immune aunt unfold patrol foster update";
+var mnemonic = "thunder during island concert purse plastic annual shine tuna upper moment differ";

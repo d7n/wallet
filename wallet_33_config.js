@@ -1,1 +1,1 @@
-var mnemonic = "ceiling write code trade rail sample filter oyster anger observe element undo";
+var mnemonic = "indoor subject swim curtain stomach federal frame twenty chest olive strong afford";

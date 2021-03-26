@@ -1,1 +1,1 @@
-var mnemonic = "disease senior mystery nerve number unfold involve donate camera venue abuse wink";
+var mnemonic = "road try when write speed scrap rigid actress asset off promote weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "version gun harsh gospel dose stumble clay horn grass spin kit city";
+var mnemonic = "barrel boss car violin clog plunge absurd pair corn shiver crew decline";

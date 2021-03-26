@@ -1,1 +1,1 @@
-var mnemonic = "apple worry finish reduce slender frog income edit cake portion giggle stay";
+var mnemonic = "disagree grass code monster large tobacco bottom vault spare any venue network";

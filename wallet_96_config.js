@@ -1,1 +1,1 @@
-var mnemonic = "example open top adjust radar strong evidence deputy increase artist dragon nerve";
+var mnemonic = "there spread milk physical solution cover prepare heavy raw witness recipe rich";

@@ -1,1 +1,1 @@
-var mnemonic = "certain brief mutual receive special punch elephant dish scissors unaware since tube";
+var mnemonic = "garbage wire jealous fantasy equip day bean stand destroy build jewel job";

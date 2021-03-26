@@ -1,1 +1,1 @@
-var mnemonic = "wife icon believe wear evil arrow basic ribbon mail snap bulb lamp";
+var mnemonic = "dumb arch obtain scout dune craft health razor chase analyst essence obscure";

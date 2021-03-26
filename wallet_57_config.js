@@ -1,1 +1,1 @@
-var mnemonic = "swap acoustic letter dignity outside promote violin lens person amount twelve rotate";
+var mnemonic = "arctic monster scatter fence fox wife express boil vote usual path solution";

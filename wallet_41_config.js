@@ -1,1 +1,1 @@
-var mnemonic = "wet sort marriage exhibit diet local gallery genuine defense cloth chest weather";
+var mnemonic = "argue rebel party prison gravity sight lobster add nice solar erosion betray";

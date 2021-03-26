@@ -1,1 +1,1 @@
-var mnemonic = "modify wheel void urban marine idea place evil plug slogan sing sport";
+var mnemonic = "because veteran airport primary snap wild toast sad reopen tuition fox amused";

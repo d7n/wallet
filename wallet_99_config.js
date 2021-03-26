@@ -1,1 +1,1 @@
-var mnemonic = "merit bean bus goddess soon rule pledge bid modify write math render";
+var mnemonic = "tongue dirt build february spray nominee diagram cloud tell remind permit ill";

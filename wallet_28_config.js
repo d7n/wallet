@@ -1,1 +1,1 @@
-var mnemonic = "grow where meadow able away crouch process renew peace panther today bid";
+var mnemonic = "ridge chimney yard afraid nature bicycle suit diary romance family dash hand";

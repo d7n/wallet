@@ -1,1 +1,1 @@
-var mnemonic = "foam upgrade salt raven betray hurdle practice sand divorce fever identify noodle";
+var mnemonic = "board entry anger police fine design inhale vibrant jacket twin erosion camera";

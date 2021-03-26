@@ -1,1 +1,1 @@
-var mnemonic = "supreme dizzy letter build brass junk naive emerge harsh permit quality memory";
+var mnemonic = "squirrel month remove awesome author execute dial hurdle easy label uncle twice";

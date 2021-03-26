@@ -1,1 +1,1 @@
-var mnemonic = "during cash stand leader drastic bus fortune thank token organ jewel ability";
+var mnemonic = "nephew bleak moment train cupboard obscure voyage bulb right round faint jewel";

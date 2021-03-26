@@ -1,1 +1,1 @@
-var mnemonic = "blue language globe clutch royal leopard glow current glare unaware review candy";
+var mnemonic = "ten forum scorpion pulp venue potato hunt defense broccoli palace palace awake";

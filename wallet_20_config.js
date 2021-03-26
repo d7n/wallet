@@ -1,1 +1,1 @@
-var mnemonic = "muffin produce ridge burger average forum rice credit tennis load million round";
+var mnemonic = "wagon taste decide bind mandate valley knife resist ethics valve light adjust";

@@ -1,1 +1,1 @@
-var mnemonic = "print vehicle survey tired guitar kangaroo average left detail pony left catch";
+var mnemonic = "wagon antenna fiction athlete sick disagree easy kidney win now float cause";

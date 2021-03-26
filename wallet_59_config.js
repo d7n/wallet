@@ -1,1 +1,1 @@
-var mnemonic = "slot calm engage uncle body rib exchange drama local seat escape pony";
+var mnemonic = "jungle betray language brave rare upon distance flight urban truly taste mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "angry joke step fruit pelican proud annual forget address air fit luggage";
+var mnemonic = "pudding blush since typical appear polar tennis bargain because style oven monitor";

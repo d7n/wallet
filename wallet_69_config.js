@@ -1,1 +1,1 @@
-var mnemonic = "usual blush hawk settle mind orchard swift claim butter fatigue blind decrease";
+var mnemonic = "cactus shop state ride sunset what credit hint chase staff address list";

@@ -1,1 +1,1 @@
-var mnemonic = "rough radar lobster animal panic execute any supply clown client squeeze area";
+var mnemonic = "base december apple copy inquiry tonight party minor first nurse issue success";

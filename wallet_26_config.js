@@ -1,1 +1,1 @@
-var mnemonic = "over leave lonely chimney note weird collect history mansion behave wealth amazing";
+var mnemonic = "coconut canyon trust ball glue lounge spider shrimp news property degree rely";

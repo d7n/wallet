@@ -1,1 +1,1 @@
-var mnemonic = "jaguar cherry vital foil venue talk fade blame energy charge gap blouse";
+var mnemonic = "shoulder dwarf another bamboo october grit review just click pudding milk prison";

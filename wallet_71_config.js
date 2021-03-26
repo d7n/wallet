@@ -1,1 +1,1 @@
-var mnemonic = "badge check tuna around truly busy shrimp divert oil shine exhaust ticket";
+var mnemonic = "museum orange armor push what utility swing person erupt blame degree share";

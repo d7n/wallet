@@ -1,1 +1,1 @@
-var mnemonic = "aunt birth mystery radar exile bean erode midnight climb satoshi join sure";
+var mnemonic = "choose chief multiply crumble shove acid dilemma object connect excite theme legend";

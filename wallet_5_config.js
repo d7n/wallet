@@ -1,1 +1,1 @@
-var mnemonic = "loyal enlist artist air route erosion mother left disease give fox island";
+var mnemonic = "friend arrest bean vintage away galaxy sick month hundred nut airport foot";

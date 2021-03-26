@@ -1,1 +1,1 @@
-var mnemonic = "magnet force video fish wait inhale shoulder trumpet travel torch come surprise";
+var mnemonic = "dignity garlic eight erosion remind history demand silent pattern camera shuffle evil";

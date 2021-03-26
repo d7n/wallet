@@ -1,1 +1,1 @@
-var mnemonic = "elite peasant design seminar famous nerve concert domain priority hair outside immune";
+var mnemonic = "fault month visa divorce snack adapt gasp scorpion radar gentle symptom water";

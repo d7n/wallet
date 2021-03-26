@@ -1,1 +1,1 @@
-var mnemonic = "barely six rug tomato daring runway doll dynamic acquire leisure below outside";
+var mnemonic = "stock comfort real pitch cheap asset average pole spirit busy trouble moon";

@@ -1,1 +1,1 @@
-var mnemonic = "employ employ define rapid add galaxy process much subway kite hammer absurd";
+var mnemonic = "extend input guard venture slim pole vehicle slow release jeans amazing code";

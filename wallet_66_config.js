@@ -1,1 +1,1 @@
-var mnemonic = "stool access tribe world modify calm couch toward burger broom lend tiger";
+var mnemonic = "novel armor obscure thumb garage want kiss weasel frequent exhaust uncover nut";

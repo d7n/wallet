@@ -1,1 +1,1 @@
-var mnemonic = "aerobic supply battle fly fly bread wave girl moment correct carry must";
+var mnemonic = "twist video auction define wonder icon engine hotel pattern airport diet orchard";

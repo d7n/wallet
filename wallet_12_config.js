@@ -1,1 +1,1 @@
-var mnemonic = "simple labor web craft bus cover surge wife battle toddler decade raw";
+var mnemonic = "uncle rapid picture year media economy sorry flight coach detect leg theme";

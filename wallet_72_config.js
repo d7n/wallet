@@ -1,1 +1,1 @@
-var mnemonic = "hand amateur elite verb bottom silent imitate empower buzz shell during avocado";
+var mnemonic = "pass base box much future tilt web anchor blossom match strategy monitor";

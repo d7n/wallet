@@ -1,1 +1,1 @@
-var mnemonic = "whip surface inner swarm surround loan mixture era guard float snake motor";
+var mnemonic = "seek chief leg hat bird produce release buzz garbage bonus dose one";

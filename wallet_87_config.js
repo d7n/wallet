@@ -1,1 +1,1 @@
-var mnemonic = "twist cinnamon ridge acquire cat train cable guess liberty current actual bubble";
+var mnemonic = "anxiety consider debate hunt shaft crew exotic balance sport machine alter fog";

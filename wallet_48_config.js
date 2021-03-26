@@ -1,1 +1,1 @@
-var mnemonic = "novel explain return humor derive shoot van vault media dismiss flame circle";
+var mnemonic = "behind knock culture hurdle grain close snake stand fault love clerk prevent";

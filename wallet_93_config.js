@@ -1,1 +1,1 @@
-var mnemonic = "pond prevent script travel space equal fantasy install trouble video bronze cube";
+var mnemonic = "steak off supreme repeat much cool swap aware oak glimpse village true";

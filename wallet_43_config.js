@@ -1,1 +1,1 @@
-var mnemonic = "citizen retire catch guess warfare eye abuse cube math lend exit edge";
+var mnemonic = "unlock insane hand pill silent kiss labor baby open bundle pigeon dish";

@@ -1,1 +1,1 @@
-var mnemonic = "frost solution tribe dignity menu marble speak awesome burst test can ensure";
+var mnemonic = "radio version half crash blush foster voice purse disorder citizen squeeze inside";

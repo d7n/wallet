@@ -1,1 +1,1 @@
-var mnemonic = "tiny axis collect napkin mind tackle brown column ethics online old peanut";
+var mnemonic = "fabric thunder decide wrist glad iron sea tooth capital plate clarify equip";

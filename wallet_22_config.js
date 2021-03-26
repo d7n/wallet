@@ -1,1 +1,1 @@
-var mnemonic = "simple volcano soda candy okay snack remain body pony remind magic gate";
+var mnemonic = "course right cabin original stable cash husband silver depart plastic stage total";

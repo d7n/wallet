@@ -1,1 +1,1 @@
-var mnemonic = "exclude join polar scissors observe erode traffic afraid issue dinner december lizard";
+var mnemonic = "trumpet limb chef father foil sentence key gloom fatigue shop source bike";

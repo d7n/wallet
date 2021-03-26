@@ -1,1 +1,1 @@
-var mnemonic = "bread season symbol tourist slide wisdom spice comfort jazz meadow damp fog";
+var mnemonic = "naive type rich ill want brother join copy also usual assume zero";

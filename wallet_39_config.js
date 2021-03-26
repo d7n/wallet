@@ -1,1 +1,1 @@
-var mnemonic = "spoil moral shop arctic shoot embrace project print upset frame crush kite";
+var mnemonic = "olive cloth cinnamon destroy seek act trim vital slim faith lyrics news";

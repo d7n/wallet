@@ -1,1 +1,1 @@
-var mnemonic = "rubber miracle dog federal swap join permit match small come chuckle utility";
+var mnemonic = "village donkey canal address misery maximum sort order genre drastic swarm sword";

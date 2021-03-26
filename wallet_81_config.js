@@ -1,1 +1,1 @@
-var mnemonic = "trophy tenant weird goddess bar gather fragile practice surprise six try olympic";
+var mnemonic = "magic quick seat erupt kitchen pencil extra glove more athlete blue filter";

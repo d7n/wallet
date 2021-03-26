@@ -1,1 +1,1 @@
-var mnemonic = "library method intact dust outer reason rotate resource orange goat derive mask";
+var mnemonic = "adapt antique jump thunder obvious heavy village roast tragic latin fever soccer";

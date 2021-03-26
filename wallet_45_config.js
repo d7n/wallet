@@ -1,1 +1,1 @@
-var mnemonic = "turkey athlete venue cube blame sister hundred slight park art scan skill";
+var mnemonic = "armor antique joke sad select notice fame hamster sunny awesome code only";

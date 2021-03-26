@@ -1,1 +1,1 @@
-var mnemonic = "engage survey purse awesome worry ship enlist ethics pig arctic lock audit";
+var mnemonic = "mystery abstract excuse decrease plate eternal jacket hope humor figure design swamp";

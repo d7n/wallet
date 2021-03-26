@@ -1,1 +1,1 @@
-var mnemonic = "color unusual butter base casino daughter material person unlock burger hybrid runway";
+var mnemonic = "wrist margin leg recycle fat silver soul giraffe pepper circle liberty episode";

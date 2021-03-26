@@ -1,1 +1,1 @@
-var mnemonic = "quick major normal gas clay atom sweet immense robot thumb daughter tone";
+var mnemonic = "switch champion ethics jungle amazing mail differ attend into start fever battle";

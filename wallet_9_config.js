@@ -1,1 +1,1 @@
-var mnemonic = "tower frog praise rain found catalog flock surge ship quick raise quit";
+var mnemonic = "rebuild holiday anxiety track empty fly title lecture dentist panel income image";

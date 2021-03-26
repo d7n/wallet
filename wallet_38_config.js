@@ -1,1 +1,1 @@
-var mnemonic = "cry sweet lab zoo mean civil success target uphold coast liquid sister";
+var mnemonic = "risk enlist pact jewel they bulk daring ecology boring fade judge corn";

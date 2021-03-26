@@ -1,1 +1,1 @@
-var mnemonic = "company rhythm eagle sleep top twenty learn hurry venture alert man infant";
+var mnemonic = "indoor remove kingdom avoid gaze exhaust when notice pioneer large stamp climb";

@@ -1,1 +1,1 @@
-var mnemonic = "scan dumb citizen doll chase goose they road language coyote metal van";
+var mnemonic = "recipe genius grunt green lift position sadness refuse logic salute obey physical";

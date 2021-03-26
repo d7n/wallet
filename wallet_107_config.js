@@ -1,1 +1,1 @@
-var mnemonic = "tag width garbage enroll grocery cross common opinion switch sand satoshi knock";
+var mnemonic = "digital regret simple replace uniform relax simple deny toy cable below finger";

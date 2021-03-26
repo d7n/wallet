@@ -1,1 +1,1 @@
-var mnemonic = "program cycle final chapter fury fatal indoor pitch evolve scene puppy earth";
+var mnemonic = "isolate pen turkey drink middle prevent receive develop security utility small deposit";

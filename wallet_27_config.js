@@ -1,1 +1,1 @@
-var mnemonic = "true tide immense outer list physical observe story kingdom local typical bind";
+var mnemonic = "fringe food connect loan hire potato worry wonder chair style symbol riot";

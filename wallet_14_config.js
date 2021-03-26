@@ -1,1 +1,1 @@
-var mnemonic = "seminar twelve coil drastic route polar scissors defy degree vivid broccoli fiscal";
+var mnemonic = "video rapid already limb scatter worth baby spell island tower upgrade symptom";

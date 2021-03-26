@@ -1,1 +1,1 @@
-var mnemonic = "black retreat cabin category autumn issue bunker stem aware just bench design";
+var mnemonic = "attend bike warrior tackle melody thrive client help upset stuff coral obey";

@@ -1,1 +1,1 @@
-var mnemonic = "vicious diesel learn system daughter sort strike beyond firm forget lens bonus";
+var mnemonic = "child remind select april govern appear thrive hidden rhythm stem word expect";

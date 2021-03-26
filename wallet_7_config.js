@@ -1,1 +1,1 @@
-var mnemonic = "seat potato initial shallow glimpse wool fiction soap giggle traffic clock expire";
+var mnemonic = "keen system purse approve repeat gentle digital wealth rescue sad ecology tumble";

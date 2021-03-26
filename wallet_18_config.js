@@ -1,1 +1,1 @@
-var mnemonic = "empower genius later harbor file light common clinic merry travel umbrella chest";
+var mnemonic = "thought dream stamp mass tree help predict float van supply cost light";

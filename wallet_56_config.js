@@ -1,1 +1,1 @@
-var mnemonic = "youth shrug treat bid field angle oyster strong frown neglect helmet unit";
+var mnemonic = "hammer transfer card hybrid chef shoe silver lend update toddler thunder rich";

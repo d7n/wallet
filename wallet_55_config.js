@@ -1,1 +1,1 @@
-var mnemonic = "armor aware spray token blanket bright pledge victory develop inspire pistol episode";
+var mnemonic = "hand reward tube fish face main verify try wait step endorse romance";
