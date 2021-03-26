@@ -1,1 +1,1 @@
-var mnemonic = "museum gas unhappy owner first alarm parent miracle hip holiday cluster dream";
+var mnemonic = "dinosaur throw damp kind tag diamond author myth dismiss way liberty anxiety";

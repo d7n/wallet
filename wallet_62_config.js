@@ -1,1 +1,1 @@
-var mnemonic = "six quiz popular subject purity cliff number device lumber valley hunt dash";
+var mnemonic = "vital common lizard apology suit walk like name romance decrease music glue";

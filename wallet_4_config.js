@@ -1,1 +1,1 @@
-var mnemonic = "armor orphan banana dutch toe gentle space awake power child youth stock";
+var mnemonic = "tube green boss tide whisper drip march pelican scene man couch opera";

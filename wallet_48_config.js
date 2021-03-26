@@ -1,1 +1,1 @@
-var mnemonic = "wolf cook guess unknown theme sadness vital return sadness truth design wall";
+var mnemonic = "hen aspect bread response cement false hawk purpose salt recipe trust kingdom";

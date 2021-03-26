@@ -1,1 +1,1 @@
-var mnemonic = "upgrade scissors divert fall local swing tissue drum talk dove seek choose";
+var mnemonic = "install arch pond host beach spawn term laptop correct kangaroo notice bomb";

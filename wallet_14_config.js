@@ -1,1 +1,1 @@
-var mnemonic = "stage odor code grief style weapon original license enhance hammer gym occur";
+var mnemonic = "ranch convince remove super own speak surprise tent unfair they noise rose";

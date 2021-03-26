@@ -1,1 +1,1 @@
-var mnemonic = "pledge pool angry impact verify slide cheap else high piano spatial attack";
+var mnemonic = "ancient cargo bonus bounce globe future grunt rely school jazz race boil";

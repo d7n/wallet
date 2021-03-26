@@ -1,1 +1,1 @@
-var mnemonic = "fashion toddler camp sleep knife camp sport announce dress giggle frozen glue";
+var mnemonic = "tiger valid release dose tumble summer horse merry tray snow indicate much";

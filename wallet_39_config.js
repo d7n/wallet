@@ -1,1 +1,1 @@
-var mnemonic = "wink myth box inherit verb size shoot people convince outdoor gown midnight";
+var mnemonic = "own opera tiny inquiry fame junior surface offer engage nation slam school";

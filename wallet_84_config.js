@@ -1,1 +1,1 @@
-var mnemonic = "orchard tackle cause knee oppose museum credit twist hurdle approve copper siege";
+var mnemonic = "toast false agree mule amateur episode tragic gate scrub say blind give";

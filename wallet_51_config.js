@@ -1,1 +1,1 @@
-var mnemonic = "work ghost oyster dinner movie tiny aunt cube visual accuse adapt apple";
+var mnemonic = "obvious fuel pig path post age arctic regret brick smoke rival ill";

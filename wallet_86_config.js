@@ -1,1 +1,1 @@
-var mnemonic = "major lawsuit humor surround fabric bicycle best bacon useful stadium worry piano";
+var mnemonic = "polar because glue annual nation judge cement negative ticket galaxy execute lunar";

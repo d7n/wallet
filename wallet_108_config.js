@@ -1,1 +1,1 @@
-var mnemonic = "winner arch find galaxy reason love spy congress journey pair moon mean";
+var mnemonic = "loan corn garden region pulse giraffe burst exercise robust net another visa";

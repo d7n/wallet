@@ -1,1 +1,1 @@
-var mnemonic = "snow gift orange antique minor market athlete round dwarf fork fortune heavy";
+var mnemonic = "group slogan place achieve bleak point age artefact knock combine cricket moon";

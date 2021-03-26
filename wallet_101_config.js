@@ -1,1 +1,1 @@
-var mnemonic = "forest alter collect syrup diesel spawn meat flower minor slim inmate random";
+var mnemonic = "range accident slice round garbage festival diesel course mad glance fantasy wreck";

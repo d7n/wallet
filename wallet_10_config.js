@@ -1,1 +1,1 @@
-var mnemonic = "scene health final output cook oak chest trigger misery display original damage";
+var mnemonic = "green knock catch gap ghost garlic sea spend hip erode devote team";

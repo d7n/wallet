@@ -1,1 +1,1 @@
-var mnemonic = "bone judge focus leg curtain essence swim health stone glad hospital economy";
+var mnemonic = "transfer expose asthma increase strong phone enlist style various write invest amused";

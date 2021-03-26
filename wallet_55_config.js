@@ -1,1 +1,1 @@
-var mnemonic = "page smart kingdom hedgehog quarter rebuild radio replace grunt risk satoshi pair";
+var mnemonic = "like leopard pony february cradle mechanic that cart diary polar pyramid staff";

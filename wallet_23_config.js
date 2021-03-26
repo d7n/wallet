@@ -1,1 +1,1 @@
-var mnemonic = "beach record device shiver bless exhibit ramp broccoli approve surge bargain option";
+var mnemonic = "hammer fitness palace write turkey lab teach arch secret allow cinnamon property";

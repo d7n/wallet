@@ -1,1 +1,1 @@
-var mnemonic = "bread whip tell burger bullet actor price okay size rhythm faculty suspect";
+var mnemonic = "palm right undo thunder sound sea onion lady april grant bone input";

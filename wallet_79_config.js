@@ -1,1 +1,1 @@
-var mnemonic = "marriage stock shallow cram history cry holiday pond twice feature forum neglect";
+var mnemonic = "camera laundry observe check mean tobacco domain thrive toe resource engine sport";

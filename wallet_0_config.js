@@ -1,1 +1,1 @@
-var mnemonic = "siege solve describe gather hybrid gun virus ordinary burden square dentist foster";
+var mnemonic = "staff unaware prefer abuse fault barely captain coil system candy version gift";

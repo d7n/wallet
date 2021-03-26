@@ -1,1 +1,1 @@
-var mnemonic = "prison elevator timber tornado crack shiver rug guess mix panther gift inhale";
+var mnemonic = "spy stove quiz pistol hazard name funny swarm narrow lumber silent runway";

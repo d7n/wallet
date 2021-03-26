@@ -1,1 +1,1 @@
-var mnemonic = "oil color coconut art minimum evolve cart museum valley require south grant";
+var mnemonic = "hurry bridge blanket provide crumble treat winter body ill rapid nice curious";

@@ -1,1 +1,1 @@
-var mnemonic = "never unfold puzzle victory hero young soap lyrics conduct annual exhaust report";
+var mnemonic = "useful cute wise pilot lyrics erupt pink soft rain parrot effort permit";

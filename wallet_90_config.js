@@ -1,1 +1,1 @@
-var mnemonic = "disease enrich right cigar man feed dream runway pupil consider dawn program";
+var mnemonic = "utility cabbage fat please bacon love float season slot habit analyst chronic";

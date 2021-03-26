@@ -1,1 +1,1 @@
-var mnemonic = "raise candy rain mask collect wood surface great pupil profit ripple heart";
+var mnemonic = "fade pupil tunnel sea price fat success misery say ask three unhappy";

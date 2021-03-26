@@ -1,1 +1,1 @@
-var mnemonic = "patrol sentence way razor pottery ozone cereal wall change net mercy begin";
+var mnemonic = "april rocket tumble task vital tiny finish wing camp gossip exotic hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "run nurse cloth excite actor girl make pole smoke gauge leader deputy";
+var mnemonic = "vanish glove bunker labor veteran youth second hollow moment rich network topic";

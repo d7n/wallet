@@ -1,1 +1,1 @@
-var mnemonic = "fashion cost twin oppose bean rent awful finish stairs glimpse core green";
+var mnemonic = "tuna envelope tag lawn random humble scan situate coach sock skull share";

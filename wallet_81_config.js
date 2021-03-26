@@ -1,1 +1,1 @@
-var mnemonic = "outside grape finish hollow gravity during trumpet dentist art approve flight disagree";
+var mnemonic = "athlete diet antenna charge success heart slogan design daring swim treat judge";

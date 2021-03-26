@@ -1,1 +1,1 @@
-var mnemonic = "focus ecology sweet throw chicken devote craft glow relax before comic gasp";
+var mnemonic = "earth blush clarify brain child fragile daughter snap dilemma bless bread siren";

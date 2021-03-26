@@ -1,1 +1,1 @@
-var mnemonic = "flash copper mistake auction again mystery glance open decorate raccoon stay leave";
+var mnemonic = "between note puppy know dilemma evolve drift admit injury provide piano destroy";

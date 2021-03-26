@@ -1,1 +1,1 @@
-var mnemonic = "oak walnut kitten ketchup approve giraffe vapor file lazy buffalo ritual tortoise";
+var mnemonic = "lion dry leopard setup slogan enjoy inspire sea topic carbon select rate";

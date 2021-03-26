@@ -1,1 +1,1 @@
-var mnemonic = "negative toss year refuse disease stamp swing buffalo abuse install side penalty";
+var mnemonic = "situate debris enhance believe fix throw corn police club cage coin start";

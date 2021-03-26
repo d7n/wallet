@@ -1,1 +1,1 @@
-var mnemonic = "page top page stable volcano year cupboard enlist scare echo hole bag";
+var mnemonic = "helmet drill when topic axis refuse usual depart suspect mobile segment upgrade";

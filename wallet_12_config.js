@@ -1,1 +1,1 @@
-var mnemonic = "slim cereal chalk sample skull six render family venture pause erupt moment";
+var mnemonic = "payment correct fortune rack asset cheap green unusual angry ketchup pipe certain";

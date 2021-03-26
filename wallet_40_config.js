@@ -1,1 +1,1 @@
-var mnemonic = "whisper bench spy twin idle finger machine dash black version ghost letter";
+var mnemonic = "there inject void amused glove throw concert slow among foot motor artwork";

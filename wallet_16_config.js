@@ -1,1 +1,1 @@
-var mnemonic = "float border boil board current arrive token aware despair coyote post absent";
+var mnemonic = "clock index lens flock pole onion possible cable panel nose boil physical";

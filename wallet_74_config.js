@@ -1,1 +1,1 @@
-var mnemonic = "fever illegal domain just inherit dune initial high mandate hello bench betray";
+var mnemonic = "intact bike flag build next portion apart picture pond smooth blur pumpkin";

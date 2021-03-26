@@ -1,1 +1,1 @@
-var mnemonic = "immune sort real erosion car girl fever chicken wire urban rigid pyramid";
+var mnemonic = "mass episode require aspect nut figure rookie rally clean surround sister assume";

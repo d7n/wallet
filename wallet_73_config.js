@@ -1,1 +1,1 @@
-var mnemonic = "discover squirrel tired vocal hedgehog whale venture harbor valid guitar hole kiwi";
+var mnemonic = "link penalty shuffle west knife bench cage infant permit universe impact attitude";

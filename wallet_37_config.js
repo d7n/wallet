@@ -1,1 +1,1 @@
-var mnemonic = "picnic odor away waste lock baby board cry sport snack violin govern";
+var mnemonic = "loyal typical entire long rally claim rate crime elbow globe recycle symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "expose twice world like balance tonight race sorry other fog door author";
+var mnemonic = "tell smooth predict barrel nephew urban small share human eight wreck bid";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat exclude brain federal chunk food fish horse rookie damp foam proof";
+var mnemonic = "double student crew visit atom split diary all undo city close warrior";

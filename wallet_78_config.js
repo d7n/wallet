@@ -1,1 +1,1 @@
-var mnemonic = "exit ski figure demand suggest dwarf toy unable autumn army case model";
+var mnemonic = "fade ensure crack fruit word room tail team kidney more pride elegant";

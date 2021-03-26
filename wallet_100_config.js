@@ -1,1 +1,1 @@
-var mnemonic = "mechanic still huge mystery silk soap hero return method luggage flash dismiss";
+var mnemonic = "best cattle frequent today lunch fuel dance thrive six mixture business make";

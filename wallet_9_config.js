@@ -1,1 +1,1 @@
-var mnemonic = "lamp kite energy lyrics tribe feed laundry busy exercise hand leave fire";
+var mnemonic = "black satoshi enable pyramid snow nature trick more east squeeze charge mention";

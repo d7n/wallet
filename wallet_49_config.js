@@ -1,1 +1,1 @@
-var mnemonic = "mention jazz kingdom farm latin roast clump melt chunk collect leader depth";
+var mnemonic = "position wisdom feed prefer isolate tonight pitch runway fence envelope stairs route";

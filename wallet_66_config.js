@@ -1,1 +1,1 @@
-var mnemonic = "pool enhance guard street giggle reunion dinner prison genius cream beyond lend";
+var mnemonic = "record during negative parrot purse cool suggest emerge butter history stock silent";

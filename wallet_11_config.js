@@ -1,1 +1,1 @@
-var mnemonic = "attract volume distance pottery carpet blur truth rural fly width process actress";
+var mnemonic = "response social possible cash detail recall worry oppose image usage impact soup";

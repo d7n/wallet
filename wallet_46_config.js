@@ -1,1 +1,1 @@
-var mnemonic = "outside team fiber sound tape wine room planet tank develop push traffic";
+var mnemonic = "trumpet maximum february describe raccoon switch marble tip point wet tower fashion";

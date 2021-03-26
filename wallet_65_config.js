@@ -1,1 +1,1 @@
-var mnemonic = "trouble reveal kiss midnight human junk lab please spawn multiply raise ball";
+var mnemonic = "human reason lava worry eagle hazard remove gauge train toast surround boat";

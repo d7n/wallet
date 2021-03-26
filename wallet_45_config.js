@@ -1,1 +1,1 @@
-var mnemonic = "zone observe leaf basic search guitar spoon gym recipe once brisk extra";
+var mnemonic = "crazy toast black pitch exit tuition banana spoil ignore magic soup pond";

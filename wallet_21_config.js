@@ -1,1 +1,1 @@
-var mnemonic = "identify velvet kick aisle rebuild chest word nothing focus ripple hybrid alert";
+var mnemonic = "wealth term indoor library stick joke glue reopen stay whale merge orphan";

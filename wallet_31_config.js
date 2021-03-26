@@ -1,1 +1,1 @@
-var mnemonic = "clock ordinary clown beyond faculty mad crisp original drama mechanic latin elegant";
+var mnemonic = "vocal lend library gesture hunt vanish deer crane inside plug jealous taste";

@@ -1,1 +1,1 @@
-var mnemonic = "caution spoil stairs now mixed duck survey snap wolf crazy deal sound";
+var mnemonic = "market talent album wolf olive music keep coast laundry betray between puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "trust remove sock rice neglect business expand balance sweet doctor ordinary transfer";
+var mnemonic = "tilt primary suffer devote bean thing document undo segment trim range pigeon";

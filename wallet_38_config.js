@@ -1,1 +1,1 @@
-var mnemonic = "verify veteran merit there ramp proud worth jewel airport obvious mobile hen";
+var mnemonic = "problem conduct track creek educate surround believe era pulse core hero original";

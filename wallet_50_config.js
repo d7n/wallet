@@ -1,1 +1,1 @@
-var mnemonic = "hope rely husband bleak equal length broom sketch actual nurse drift crowd";
+var mnemonic = "argue oyster vault crucial used gown vital leg slogan frown trick organ";

@@ -1,1 +1,1 @@
-var mnemonic = "scout step topic pass mansion once enhance hurdle actress naive build vacuum";
+var mnemonic = "husband pave funny culture flip such uniform sweet mixed great east because";

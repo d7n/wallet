@@ -1,1 +1,1 @@
-var mnemonic = "clip bleak lava ceiling bamboo sun arm fit chunk frog skirt slender";
+var mnemonic = "deal brown wasp stock grid kangaroo mad nurse grace cinnamon love stuff";

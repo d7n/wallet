@@ -1,1 +1,1 @@
-var mnemonic = "scale salon anger crew hammer cause deny total frown virtual bunker often";
+var mnemonic = "purpose blood still giggle game myself attend mixed stick board feed size";

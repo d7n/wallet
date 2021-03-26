@@ -1,1 +1,1 @@
-var mnemonic = "because slab live nut glory they material indicate embark burger burden steel";
+var mnemonic = "absent fat agree scan isolate close among scale display dismiss brave fever";

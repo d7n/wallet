@@ -1,1 +1,1 @@
-var mnemonic = "scrub local question tennis arrive nature debris boy gesture thing topple couple";
+var mnemonic = "message mixture response stomach earn ladder sugar stove rabbit spring parrot account";

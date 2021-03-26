@@ -1,1 +1,1 @@
-var mnemonic = "picnic goat photo put save fringe pencil canyon wool essence kite width";
+var mnemonic = "actress title unusual knock girl buffalo ticket unveil bomb canoe boost invite";

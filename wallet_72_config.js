@@ -1,1 +1,1 @@
-var mnemonic = "park country say health twist ritual retreat scrap debate crack immense kitchen";
+var mnemonic = "require assist bicycle bike bag ticket reveal toe dilemma awful ice october";

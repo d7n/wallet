@@ -1,1 +1,1 @@
-var mnemonic = "almost man world badge route supreme please equip spatial success false ordinary";
+var mnemonic = "own citizen thumb budget feed home arctic stereo orphan animal shine minor";

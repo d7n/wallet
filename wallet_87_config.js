@@ -1,1 +1,1 @@
-var mnemonic = "office toss limit two wise orchard bundle bird damp track minor give";
+var mnemonic = "north evolve artwork master address penalty shift gorilla ritual pull gap crawl";

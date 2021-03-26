@@ -1,1 +1,1 @@
-var mnemonic = "ticket uncover scale wise apple believe tennis bring sting action trial avocado";
+var mnemonic = "vast patient brother cost exchange soul save twelve gentle update demand raccoon";

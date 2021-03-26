@@ -1,1 +1,1 @@
-var mnemonic = "disagree family viable stuff ankle seed obtain pulse detect lawn where such";
+var mnemonic = "explain human number reform hen brick skull royal resource leader alpha hybrid";

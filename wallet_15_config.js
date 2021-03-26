@@ -1,1 +1,1 @@
-var mnemonic = "stable chair define jungle veteran sausage holiday gate dose swamp tuna call";
+var mnemonic = "shove pyramid brief invite solve door chaos filter height candy myself august";

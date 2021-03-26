@@ -1,1 +1,1 @@
-var mnemonic = "stick noodle retire taste entry pilot twenty mango hawk lawsuit borrow catch";
+var mnemonic = "box flock spider foster biology rug pill shoe lunch crumble bundle hood";

@@ -1,1 +1,1 @@
-var mnemonic = "love drill rule maximum mechanic until apart feel swift once pill virtual";
+var mnemonic = "pave learn such subject apple arch domain uniform road treat coin confirm";

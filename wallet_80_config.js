@@ -1,1 +1,1 @@
-var mnemonic = "theme punch cost claim oblige bless dentist below rose ritual together pelican";
+var mnemonic = "brother limb cabin lady library vehicle brain kiss spell click favorite toilet";

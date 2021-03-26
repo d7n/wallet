@@ -1,1 +1,1 @@
-var mnemonic = "such car mail call trophy million cradle question gasp genre plate labor";
+var mnemonic = "auction tilt noble rubber today exclude neutral project size yard private obscure";

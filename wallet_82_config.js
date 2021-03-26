@@ -1,1 +1,1 @@
-var mnemonic = "bonus tail surprise ginger purchase fit few lazy giant author build virtual";
+var mnemonic = "hazard risk boss wrist meat jacket enough bless tortoise tornado day rocket";

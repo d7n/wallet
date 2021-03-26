@@ -1,1 +1,1 @@
-var mnemonic = "habit kiss biology ship gun chuckle amazing nasty require tongue verb dismiss";
+var mnemonic = "turkey innocent jump return stay foil review seek tooth square brown topic";

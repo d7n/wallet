@@ -1,1 +1,1 @@
-var mnemonic = "buffalo useful chef program item neither consider pole print sense tool voice";
+var mnemonic = "recipe print gas force resist adjust mansion hybrid wave blue artefact peasant";

@@ -1,1 +1,1 @@
-var mnemonic = "effort boil prevent amount occur know main during spice frequent reason turn";
+var mnemonic = "brass object amazing earn junk hire foot toss rate boost trust cereal";

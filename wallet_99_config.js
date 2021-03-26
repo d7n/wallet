@@ -1,1 +1,1 @@
-var mnemonic = "tired chief consider record card dad differ olive scene horse oxygen release";
+var mnemonic = "sketch mule skill couple alarm frequent can express erase mobile alien cart";

@@ -1,1 +1,1 @@
-var mnemonic = "employ flash gown memory aspect crazy oblige order desert suggest crumble dice";
+var mnemonic = "wonder hood much crumble smile bean wave modify napkin tape fever cook";

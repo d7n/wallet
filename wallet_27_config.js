@@ -1,1 +1,1 @@
-var mnemonic = "crush peasant space spring label bitter flag strategy weather wish bulk gain";
+var mnemonic = "item trip twice novel pupil charge stuff aspect husband excess share possible";

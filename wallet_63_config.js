@@ -1,1 +1,1 @@
-var mnemonic = "robot early kick segment wet sudden toast village casino camera suggest speed";
+var mnemonic = "deny dose melody shiver coast light heavy range crop shoulder post remain";

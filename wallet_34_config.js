@@ -1,1 +1,1 @@
-var mnemonic = "exclude sound try winter economy pigeon opera manage forum ancient list stuff";
+var mnemonic = "morning fall hundred volcano gorilla heart fury calm hedgehog river traffic live";

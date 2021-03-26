@@ -1,1 +1,1 @@
-var mnemonic = "buyer absent crowd wrestle coach minimum setup rocket slender boss age pipe";
+var mnemonic = "slender consider hospital foster divide wing august net mandate runway mobile aisle";

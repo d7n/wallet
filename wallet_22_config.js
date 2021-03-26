@@ -1,1 +1,1 @@
-var mnemonic = "issue post claim average clap evoke kitchen mixed collect arctic segment crash";
+var mnemonic = "rate flower candy sea thunder junior shop gauge ordinary wall olympic decrease";

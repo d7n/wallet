@@ -1,1 +1,1 @@
-var mnemonic = "hole patient web violin street certain soup drill diary this multiply rally";
+var mnemonic = "hard urban manual dream grocery equal van bench unveil maple cereal tonight";

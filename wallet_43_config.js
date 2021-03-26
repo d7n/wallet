@@ -1,1 +1,1 @@
-var mnemonic = "require warfare boy mushroom equal ankle path host fox caution bracket protect";
+var mnemonic = "pulse carry stand cloud owner execute begin hidden wide play pave dish";

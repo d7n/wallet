@@ -1,1 +1,1 @@
-var mnemonic = "accident punch inquiry retire special chapter author toddler client suspect moment figure";
+var mnemonic = "parrot snap scout inside split leader mechanic tackle around mosquito lumber happy";

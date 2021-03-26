@@ -1,1 +1,1 @@
-var mnemonic = "moment flight angry venture gorilla oyster silly pistol erode segment table tiny";
+var mnemonic = "banner thought matter swamp human enroll left soda shop family avoid meadow";
