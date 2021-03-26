@@ -1,1 +1,1 @@
-var mnemonic = "nephew sustain grace ensure number favorite identify fitness inflict primary radio fashion";
+var mnemonic = "badge check tuna around truly busy shrimp divert oil shine exhaust ticket";

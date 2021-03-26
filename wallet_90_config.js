@@ -1,1 +1,1 @@
-var mnemonic = "stand awkward witness avoid gain attitude trip improve cash oxygen arrest trouble";
+var mnemonic = "act olive analyst reform tortoise dash hint rib grape loud jealous title";

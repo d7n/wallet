@@ -1,1 +1,1 @@
-var mnemonic = "live assault crucial invite quick echo credit attract tray moral seat tunnel";
+var mnemonic = "hold antenna melt thunder dinner tank impulse dust moral final plug observe";

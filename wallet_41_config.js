@@ -1,1 +1,1 @@
-var mnemonic = "large task tunnel amount illness dust sun slight prize sense tobacco lunar";
+var mnemonic = "wet sort marriage exhibit diet local gallery genuine defense cloth chest weather";

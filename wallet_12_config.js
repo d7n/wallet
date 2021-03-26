@@ -1,1 +1,1 @@
-var mnemonic = "hammer buyer letter dwarf economy walk nominee pool hobby real dirt hope";
+var mnemonic = "simple labor web craft bus cover surge wife battle toddler decade raw";

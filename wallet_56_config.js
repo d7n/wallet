@@ -1,1 +1,1 @@
-var mnemonic = "nice census aim people pull dumb rack differ veteran despair tone street";
+var mnemonic = "youth shrug treat bid field angle oyster strong frown neglect helmet unit";

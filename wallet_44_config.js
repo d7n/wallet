@@ -1,1 +1,1 @@
-var mnemonic = "retire expand enlist between lecture area cage slab tide treat confirm tissue";
+var mnemonic = "company rhythm eagle sleep top twenty learn hurry venture alert man infant";

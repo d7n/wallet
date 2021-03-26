@@ -1,1 +1,1 @@
-var mnemonic = "scatter faint west canvas gesture brand route trash enter curtain burden pumpkin";
+var mnemonic = "rough radar lobster animal panic execute any supply clown client squeeze area";

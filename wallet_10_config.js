@@ -1,1 +1,1 @@
-var mnemonic = "town coconut giant cereal slush coach illegal punch midnight void arm thumb";
+var mnemonic = "version gun harsh gospel dose stumble clay horn grass spin kit city";

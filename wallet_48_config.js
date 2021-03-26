@@ -1,1 +1,1 @@
-var mnemonic = "monitor brisk child yard muscle wolf nothing swap million air drink shaft";
+var mnemonic = "novel explain return humor derive shoot van vault media dismiss flame circle";

@@ -1,1 +1,1 @@
-var mnemonic = "foam orphan copy input abandon canal inject cement foot relax myself chapter";
+var mnemonic = "scan dumb citizen doll chase goose they road language coyote metal van";

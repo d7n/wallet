@@ -1,1 +1,1 @@
-var mnemonic = "version wire resource trash fiber affair turn crowd race clap client law";
+var mnemonic = "course reason know joy love vote win hybrid punch lady note mouse";

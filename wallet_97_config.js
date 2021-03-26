@@ -1,1 +1,1 @@
-var mnemonic = "away kiwi labor blush laundry weasel walnut primary clever roast very dinner";
+var mnemonic = "invite inside hole lamp order organ sight combine paddle engage runway woman";

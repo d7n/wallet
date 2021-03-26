@@ -1,1 +1,1 @@
-var mnemonic = "verb exchange toss range hockey install slow only pepper laundry vehicle lunar";
+var mnemonic = "aerobic supply battle fly fly bread wave girl moment correct carry must";

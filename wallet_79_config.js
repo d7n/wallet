@@ -1,1 +1,1 @@
-var mnemonic = "length token tackle option main capital add wild today hurdle recipe cruel";
+var mnemonic = "original achieve bonus pink unit name ugly boat glory affair wrong spin";

@@ -1,1 +1,1 @@
-var mnemonic = "mask enable collect enjoy rabbit catch smoke forum eager brass below entire";
+var mnemonic = "whip surface inner swarm surround loan mixture era guard float snake motor";

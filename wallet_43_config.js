@@ -1,1 +1,1 @@
-var mnemonic = "matter open pet duck scale toe true scissors face soccer gentle feed";
+var mnemonic = "citizen retire catch guess warfare eye abuse cube math lend exit edge";

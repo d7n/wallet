@@ -1,1 +1,1 @@
-var mnemonic = "need poem local sea indoor roast shy pull magnet when erase patient";
+var mnemonic = "actress lumber daughter raise decline wheel rural zebra turtle this tuition humble";

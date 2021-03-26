@@ -1,1 +1,1 @@
-var mnemonic = "staff guitar fantasy correct twist symbol devote pledge garbage idle fragile scorpion";
+var mnemonic = "purpose final obscure confirm farm magic stand hunt drop crisp upper sight";

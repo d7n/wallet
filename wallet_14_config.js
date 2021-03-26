@@ -1,1 +1,1 @@
-var mnemonic = "quote subject write tip squirrel hat elevator buffalo chase estate wheat fever";
+var mnemonic = "seminar twelve coil drastic route polar scissors defy degree vivid broccoli fiscal";

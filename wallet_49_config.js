@@ -1,1 +1,1 @@
-var mnemonic = "shoe flight fame husband collect filter gentle lab motor junk balcony diary";
+var mnemonic = "crime ranch economy civil analyst analyst immune aunt unfold patrol foster update";

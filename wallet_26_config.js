@@ -1,1 +1,1 @@
-var mnemonic = "swing undo wave head inner kite spot real tribe kingdom fever sweet";
+var mnemonic = "over leave lonely chimney note weird collect history mansion behave wealth amazing";

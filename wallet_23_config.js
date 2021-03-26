@@ -1,1 +1,1 @@
-var mnemonic = "pony stuff stem own canal know length exotic clarify forest alien angle";
+var mnemonic = "update ketchup purse result slide praise rubber useful enrich neglect wisdom glass";

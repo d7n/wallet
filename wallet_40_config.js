@@ -1,1 +1,1 @@
-var mnemonic = "harbor dawn zoo load protect clerk earn step arrest impulse poet eyebrow";
+var mnemonic = "mix practice need decade amateur document angry penalty daring trade system sausage";

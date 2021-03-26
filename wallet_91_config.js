@@ -1,1 +1,1 @@
-var mnemonic = "army office combine general much flip copper salmon ski try usage coyote";
+var mnemonic = "elite peasant design seminar famous nerve concert domain priority hair outside immune";

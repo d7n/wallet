@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo oil van empty black smooth sample flight simple nest drink zero";
+var mnemonic = "stool access tribe world modify calm couch toward burger broom lend tiger";

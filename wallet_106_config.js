@@ -1,1 +1,1 @@
-var mnemonic = "adapt health version asset random dry youth salute relief dinner gallery blind";
+var mnemonic = "raise issue little obvious powder wrestle spread tortoise end main orphan hammer";

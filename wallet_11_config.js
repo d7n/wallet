@@ -1,1 +1,1 @@
-var mnemonic = "loop cat nothing neglect spike explain ramp gauge check dismiss talent predict";
+var mnemonic = "modify wheel void urban marine idea place evil plug slogan sing sport";

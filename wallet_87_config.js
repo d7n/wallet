@@ -1,1 +1,1 @@
-var mnemonic = "safe grass earn govern pause interest match upon minute arrive have lesson";
+var mnemonic = "twist cinnamon ridge acquire cat train cable guess liberty current actual bubble";

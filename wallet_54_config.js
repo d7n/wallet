@@ -1,1 +1,1 @@
-var mnemonic = "always alley wet water wheel doctor finish vital vivid away core vast";
+var mnemonic = "convince token success surprise daring ankle clutch private fence domain game pottery";

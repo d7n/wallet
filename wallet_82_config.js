@@ -1,1 +1,1 @@
-var mnemonic = "state gauge first obscure gate muscle boy blouse vintage feature weekend include";
+var mnemonic = "clay adult era dawn record sorry wait monster flower asset special leisure";

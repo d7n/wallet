@@ -1,1 +1,1 @@
-var mnemonic = "miracle post merge piano spider soldier palm level bachelor myself dove thrive";
+var mnemonic = "disease senior mystery nerve number unfold involve donate camera venue abuse wink";

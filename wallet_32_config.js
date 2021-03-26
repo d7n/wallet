@@ -1,1 +1,1 @@
-var mnemonic = "ranch hammer cabbage during brand swap wide news bundle early claw zebra";
+var mnemonic = "program cycle final chapter fury fatal indoor pitch evolve scene puppy earth";

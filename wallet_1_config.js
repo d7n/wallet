@@ -1,1 +1,1 @@
-var mnemonic = "enforce inquiry skate outdoor live loop apart old grief inject domain rain";
+var mnemonic = "snake link interest coin clay brick sleep diesel green burger embody romance";

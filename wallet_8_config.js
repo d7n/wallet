@@ -1,1 +1,1 @@
-var mnemonic = "moral toe age hamster popular issue minor random gown whisper pigeon distance";
+var mnemonic = "picture swim trade fury renew charge gift torch scrap legend buddy march";

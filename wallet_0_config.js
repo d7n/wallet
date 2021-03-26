@@ -1,1 +1,1 @@
-var mnemonic = "level consider chronic that oven push slow tank dismiss quick glare mixed";
+var mnemonic = "order mistake whale unaware female increase hotel order tenant arrive talk address";

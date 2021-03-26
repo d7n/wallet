@@ -1,1 +1,1 @@
-var mnemonic = "dumb cage shy chat gadget world they side nature van wagon wish";
+var mnemonic = "grocery hammer lounge stamp echo wool remove hold reveal subject invest potato";

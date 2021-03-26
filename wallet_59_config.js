@@ -1,1 +1,1 @@
-var mnemonic = "guide tourist chat domain beauty say swap alien float social bus sheriff";
+var mnemonic = "slot calm engage uncle body rib exchange drama local seat escape pony";

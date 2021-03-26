@@ -1,1 +1,1 @@
-var mnemonic = "usual chef clay position today select solid oak gallery salon open odor";
+var mnemonic = "armor aware spray token blanket bright pledge victory develop inspire pistol episode";

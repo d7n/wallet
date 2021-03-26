@@ -1,1 +1,1 @@
-var mnemonic = "jacket giant hint horror total news laundry false acquire spread student soldier";
+var mnemonic = "endless tomato scene angry naive local man satisfy spray rule truth brother";

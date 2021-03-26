@@ -1,1 +1,1 @@
-var mnemonic = "rose cattle cinnamon notice satoshi purity flee next wife draw neck nature";
+var mnemonic = "color unusual butter base casino daughter material person unlock burger hybrid runway";

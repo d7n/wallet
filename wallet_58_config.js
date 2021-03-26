@@ -1,1 +1,1 @@
-var mnemonic = "simple hurdle habit food worth better razor monitor miss warfare trumpet arm";
+var mnemonic = "sudden fat old unfair mix neglect valley attend exact smooth basket absorb";

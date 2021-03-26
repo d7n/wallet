@@ -1,1 +1,1 @@
-var mnemonic = "caution south dolphin bench inhale cage panda drill neck eager sock slab";
+var mnemonic = "simple volcano soda candy okay snack remain body pony remind magic gate";

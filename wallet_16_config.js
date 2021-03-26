@@ -1,1 +1,1 @@
-var mnemonic = "shoot awake boil divert science buyer snake entire busy cigar install list";
+var mnemonic = "blue language globe clutch royal leopard glow current glare unaware review candy";

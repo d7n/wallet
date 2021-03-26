@@ -1,1 +1,1 @@
-var mnemonic = "prison junior easily foil grab member there nose below ball bone pen";
+var mnemonic = "grow where meadow able away crouch process renew peace panther today bid";

@@ -1,1 +1,1 @@
-var mnemonic = "menu sure noise surge crack sibling museum ski hood begin spoon truth";
+var mnemonic = "tag width garbage enroll grocery cross common opinion switch sand satoshi knock";

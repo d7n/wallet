@@ -1,1 +1,1 @@
-var mnemonic = "sudden element window flag key all soup anchor garment ticket gun what";
+var mnemonic = "cry sweet lab zoo mean civil success target uphold coast liquid sister";

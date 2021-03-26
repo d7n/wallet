@@ -1,1 +1,1 @@
-var mnemonic = "beauty jewel quiz loyal cigar aerobic burger trip quick squeeze machine word";
+var mnemonic = "barely six rug tomato daring runway doll dynamic acquire leisure below outside";

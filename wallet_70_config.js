@@ -1,1 +1,1 @@
-var mnemonic = "crime bracket reduce together flavor grocery floor cheese village moral truck drive";
+var mnemonic = "supreme dizzy letter build brass junk naive emerge harsh permit quality memory";

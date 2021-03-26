@@ -1,1 +1,1 @@
-var mnemonic = "outside faith galaxy audit hub analyst strategy frown total valley fatigue drip";
+var mnemonic = "frost solution tribe dignity menu marble speak awesome burst test can ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch bid all fragile call still blind flag giraffe resemble crack someone";
+var mnemonic = "shuffle glow peasant table zero fan hat rail critic card stage song";

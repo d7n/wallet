@@ -1,1 +1,1 @@
-var mnemonic = "lizard seminar such between cliff during door orchard ignore wise minor height";
+var mnemonic = "black retreat cabin category autumn issue bunker stem aware just bench design";

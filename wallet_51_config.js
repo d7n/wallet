@@ -1,1 +1,1 @@
-var mnemonic = "yard bread puzzle place belt sign rose spatial neck supreme wet enable";
+var mnemonic = "ecology hobby aspect rare comfort action divide drop sustain inner same vibrant";

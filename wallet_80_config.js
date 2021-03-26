@@ -1,1 +1,1 @@
-var mnemonic = "end harsh cupboard accident aerobic correct chat zebra reason already approve exhaust";
+var mnemonic = "today try bamboo vendor bachelor gold setup year response click liberty fun";

@@ -1,1 +1,1 @@
-var mnemonic = "account ancient book foster chronic soldier noise recipe during number glide topic";
+var mnemonic = "turkey athlete venue cube blame sister hundred slight park art scan skill";

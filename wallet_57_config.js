@@ -1,1 +1,1 @@
-var mnemonic = "will proud invite learn dance small sleep cover audit reject vacant bottom";
+var mnemonic = "swap acoustic letter dignity outside promote violin lens person amount twelve rotate";

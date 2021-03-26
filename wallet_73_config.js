@@ -1,1 +1,1 @@
-var mnemonic = "library wash sorry father kingdom fog cluster suit cause verify unveil typical";
+var mnemonic = "during cash stand leader drastic bus fortune thank token organ jewel ability";

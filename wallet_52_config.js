@@ -1,1 +1,1 @@
-var mnemonic = "solar wedding extra keep what gossip office drive trend ship journey come";
+var mnemonic = "pair trouble airport tank guitar book mimic knee champion reward alarm suffer";

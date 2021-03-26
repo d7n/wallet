@@ -1,1 +1,1 @@
-var mnemonic = "arctic violin cage plastic castle come flat eight avocado original pride code";
+var mnemonic = "example open top adjust radar strong evidence deputy increase artist dragon nerve";

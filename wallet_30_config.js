@@ -1,1 +1,1 @@
-var mnemonic = "arrow jelly essence pretty present good enlist voice drink spare balance adjust";
+var mnemonic = "tiger neutral upon abuse claw glance absurd buyer endorse exit shaft word";

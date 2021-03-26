@@ -1,1 +1,1 @@
-var mnemonic = "circle laundry nuclear fun own empower divide foam label virus breeze mistake";
+var mnemonic = "exclude join polar scissors observe erode traffic afraid issue dinner december lizard";

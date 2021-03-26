@@ -1,1 +1,1 @@
-var mnemonic = "distance wool bleak antenna rice tag sniff sign gown assist drop during";
+var mnemonic = "bread season symbol tourist slide wisdom spice comfort jazz meadow damp fog";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy lunch razor detect silver trigger void long twin wheat fee lyrics";
+var mnemonic = "lunch volume fatigue smile odor nasty unfold solution rival barrel candy amazing";

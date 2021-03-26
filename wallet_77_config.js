@@ -1,1 +1,1 @@
-var mnemonic = "bleak coral volcano tiny side antenna garlic hip razor galaxy six forest";
+var mnemonic = "tiny axis collect napkin mind tackle brown column ethics online old peanut";

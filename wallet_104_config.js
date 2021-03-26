@@ -1,1 +1,1 @@
-var mnemonic = "receive state fox half limit first amazing frequent marriage civil finger equip";
+var mnemonic = "setup mosquito prefer normal hammer result elder know garbage steel clump illegal";

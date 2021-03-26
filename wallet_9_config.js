@@ -1,1 +1,1 @@
-var mnemonic = "skull indicate engage random blouse crime tackle owner man left hazard shuffle";
+var mnemonic = "tower frog praise rain found catalog flock surge ship quick raise quit";

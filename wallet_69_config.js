@@ -1,1 +1,1 @@
-var mnemonic = "boy leaf river cargo calm away dilemma asthma input vicious mirror hero";
+var mnemonic = "usual blush hawk settle mind orchard swift claim butter fatigue blind decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "head walnut mobile law anger obtain chaos among actress bulk margin possible";
+var mnemonic = "ensure actual stadium swift wreck uphold fun detect action oven border erase";

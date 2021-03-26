@@ -1,1 +1,1 @@
-var mnemonic = "multiply more vanish throw region shove achieve whip void ski empower typical";
+var mnemonic = "true tide immense outer list physical observe story kingdom local typical bind";

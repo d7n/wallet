@@ -1,1 +1,1 @@
-var mnemonic = "apart retire mansion tray birth clog divert nominee silver inherit caught more";
+var mnemonic = "heavy type vendor myself drop artist parrot window connect pond sadness shift";

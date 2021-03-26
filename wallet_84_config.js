@@ -1,1 +1,1 @@
-var mnemonic = "begin hood resemble include scissors include wrong seek debris melt task helmet";
+var mnemonic = "muffin story wide kiwi fancy height draw fatigue ordinary swap mammal museum";

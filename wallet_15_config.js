@@ -1,1 +1,1 @@
-var mnemonic = "total erase among scare bind pool combine pioneer session defense deposit below";
+var mnemonic = "apple worry finish reduce slender frog income edit cake portion giggle stay";

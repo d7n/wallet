@@ -1,1 +1,1 @@
-var mnemonic = "infant pelican use avoid chunk cushion behave tent sense desk task giggle";
+var mnemonic = "reflect love wonder cake silk bird abstract trap horse exercise agent ghost";

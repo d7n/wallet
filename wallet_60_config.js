@@ -1,1 +1,1 @@
-var mnemonic = "arm talent dose mercy uncover post chaos fun law grunt bitter butter";
+var mnemonic = "stone you rabbit need eight buddy expire display iron start harvest gasp";

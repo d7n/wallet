@@ -1,1 +1,1 @@
-var mnemonic = "urge decide valve turn advice mosquito label weird afraid motor farm park";
+var mnemonic = "vicious diesel learn system daughter sort strike beyond firm forget lens bonus";

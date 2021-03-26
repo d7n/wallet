@@ -1,1 +1,1 @@
-var mnemonic = "swallow lady detail cruel gun submit dawn lion snake advance festival board";
+var mnemonic = "vanish seek border devote club source mechanic click wine wish soap fame";

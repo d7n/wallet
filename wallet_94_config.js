@@ -1,1 +1,1 @@
-var mnemonic = "deposit current alert seminar field coin vote screen rocket dad march route";
+var mnemonic = "aunt birth mystery radar exile bean erode midnight climb satoshi join sure";

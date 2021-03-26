@@ -1,1 +1,1 @@
-var mnemonic = "tone soldier rose shrimp strike option tackle holiday tattoo grab solar tonight";
+var mnemonic = "seat potato initial shallow glimpse wool fiction soap giggle traffic clock expire";

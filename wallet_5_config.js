@@ -1,1 +1,1 @@
-var mnemonic = "this spell basic time unit filter wisdom property pupil flower scorpion inside";
+var mnemonic = "loyal enlist artist air route erosion mother left disease give fox island";

@@ -1,1 +1,1 @@
-var mnemonic = "keen garment timber always brick donor change walnut danger brand relax cheese";
+var mnemonic = "certain brief mutual receive special punch elephant dish scissors unaware since tube";

@@ -1,1 +1,1 @@
-var mnemonic = "access ask truck dumb bonus august soda congress grain comic anger alone";
+var mnemonic = "trophy tenant weird goddess bar gather fragile practice surprise six try olympic";

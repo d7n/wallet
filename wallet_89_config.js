@@ -1,1 +1,1 @@
-var mnemonic = "act alpha reduce iron survey mandate toast lock saddle flush corn cause";
+var mnemonic = "library method intact dust outer reason rotate resource orange goat derive mask";

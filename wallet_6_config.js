@@ -1,1 +1,1 @@
-var mnemonic = "balcony volcano appear album usual ghost element syrup acoustic edge tuna child";
+var mnemonic = "six wealth anchor over scale sketch wink outdoor erode tell exit cause";

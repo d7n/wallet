@@ -1,1 +1,1 @@
-var mnemonic = "fashion exchange car aim spend actress tip rebel cost height demise belt";
+var mnemonic = "kit base impulse silent harvest talk salt night shiver wear work thumb";
