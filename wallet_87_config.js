@@ -1,1 +1,1 @@
-var mnemonic = "critic vicious rotate tent venue rate balcony release scrap meadow toy humble";
+var mnemonic = "raven crouch hip craft slice jazz tumble drop treat satoshi asthma sustain";

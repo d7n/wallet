@@ -1,1 +1,1 @@
-var mnemonic = "cram rebuild toward void wood pizza mention dentist blossom never fall twelve";
+var mnemonic = "plate foil breeze twin toddler object fall two pony birth palace grief";

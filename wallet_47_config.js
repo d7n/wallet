@@ -1,1 +1,1 @@
-var mnemonic = "tip plate stand boost plunge turn grain raise doll eternal phrase double";
+var mnemonic = "number soul casual labor section session hub suspect have know finger base";

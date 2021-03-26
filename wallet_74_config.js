@@ -1,1 +1,1 @@
-var mnemonic = "warfare aisle range pipe fabric sphere rain spring obscure dose genuine screen";
+var mnemonic = "february traffic canoe print okay kind arctic version breeze human cook trade";

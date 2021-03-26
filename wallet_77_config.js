@@ -1,1 +1,1 @@
-var mnemonic = "rival blanket dizzy tomato food bench face attitude talent shaft actress pattern";
+var mnemonic = "kangaroo key almost belt spare supreme toss connect coffee spread ceiling auto";

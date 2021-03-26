@@ -1,1 +1,1 @@
-var mnemonic = "metal ethics divide never top issue please tide lemon square action arena";
+var mnemonic = "zero rate manage ceiling topple travel layer damage talk quality horn swim";

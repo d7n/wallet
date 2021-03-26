@@ -1,1 +1,1 @@
-var mnemonic = "mass banner donor night original lake half violin agent bright notice crane";
+var mnemonic = "elegant civil teach fabric can slide squirrel matter more inquiry news help";

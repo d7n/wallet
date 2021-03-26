@@ -1,1 +1,1 @@
-var mnemonic = "limb increase wedding asset rally scorpion plug struggle often keen stay inch";
+var mnemonic = "rifle elder sponsor index potato quantum peace brass shift gold float cement";

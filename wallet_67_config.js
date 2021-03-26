@@ -1,1 +1,1 @@
-var mnemonic = "tank spatial never cost stay dwarf alter library unlock remember rigid assume";
+var mnemonic = "episode nut cliff check scrap disagree wide awkward meat long protect toss";

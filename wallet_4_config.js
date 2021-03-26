@@ -1,1 +1,1 @@
-var mnemonic = "price gown ramp popular ostrich scrap promote dune wasp ability sample afford";
+var mnemonic = "actual shoot maple purse cradle festival duck idle wolf fruit brave nut";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm knock rotate naive link excuse sure solve fix cinnamon skirt slogan";
+var mnemonic = "script clip bronze velvet kid ketchup grunt club vehicle square empower noise";

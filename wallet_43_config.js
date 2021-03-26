@@ -1,1 +1,1 @@
-var mnemonic = "receive fragile culture road flat route vital ribbon canvas spice stomach person";
+var mnemonic = "indoor utility supply benefit copper aspect replace detail famous certain label gate";

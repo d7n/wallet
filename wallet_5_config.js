@@ -1,1 +1,1 @@
-var mnemonic = "flash type topic velvet surface dirt cave hurry slide fluid prize rebel";
+var mnemonic = "nature message image sheriff race small chase whale material gap dose pool";

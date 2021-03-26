@@ -1,1 +1,1 @@
-var mnemonic = "logic brisk pigeon tackle acid beef jacket check kind manual stone runway";
+var mnemonic = "auction oppose glue book repair deer ripple swift cruel endorse above stick";

@@ -1,1 +1,1 @@
-var mnemonic = "piano easy once risk invite access struggle direct clerk sustain employ width";
+var mnemonic = "typical transfer sausage little pact blame frog chair clap gap more apple";

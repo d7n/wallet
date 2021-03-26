@@ -1,1 +1,1 @@
-var mnemonic = "position cousin yard bean blush curtain crime since item rule force frown";
+var mnemonic = "pulp spoil zebra crater middle turkey thunder general try tuna guard category";

@@ -1,1 +1,1 @@
-var mnemonic = "limb mail spare custom cruel field sudden various invest august shallow record";
+var mnemonic = "lake moment wasp found special rally ten student turn useless vault cricket";

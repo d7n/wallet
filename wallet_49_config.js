@@ -1,1 +1,1 @@
-var mnemonic = "error woman angry state slow pitch cable pen enrich acquire saddle concert";
+var mnemonic = "maid rib strike dash paddle left tumble bar fly wing gas skin";

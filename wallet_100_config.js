@@ -1,1 +1,1 @@
-var mnemonic = "obscure spoon wreck south awful leader boost eye admit dune merry disease";
+var mnemonic = "frequent peanut music spring sweet lazy young evidence now labor obscure horse";

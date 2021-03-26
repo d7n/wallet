@@ -1,1 +1,1 @@
-var mnemonic = "surprise already hungry flock excite pencil response warrior typical unhappy acid priority";
+var mnemonic = "gap mansion labor pair survey peanut popular exhaust cotton kingdom settle doctor";

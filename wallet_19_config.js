@@ -1,1 +1,1 @@
-var mnemonic = "engage whisper friend impact emotion false celery capable quick excuse mutual text";
+var mnemonic = "view drama size inner hand option axis genius image toy match floor";

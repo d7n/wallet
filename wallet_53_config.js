@@ -1,1 +1,1 @@
-var mnemonic = "treat erupt vacuum cigar control earth tennis make drum model marriage tomorrow";
+var mnemonic = "skirt click planet exhibit refuse proud bundle gospel pride paddle select boy";

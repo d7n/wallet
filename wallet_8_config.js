@@ -1,1 +1,1 @@
-var mnemonic = "category thing sight must whisper federal under link put pony slender thrive";
+var mnemonic = "dynamic oppose sadness core absorb panic foam salmon fault merry media mountain";

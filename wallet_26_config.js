@@ -1,1 +1,1 @@
-var mnemonic = "twin blossom urban unfold bless capable equip solar bamboo decline shrug success";
+var mnemonic = "shaft organ certain stamp wall antique trigger orient gym announce ladder math";

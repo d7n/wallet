@@ -1,1 +1,1 @@
-var mnemonic = "catch vapor kid donkey infant print stadium scissors pass silly visit tumble";
+var mnemonic = "execute fiber van apart muscle adult disagree sound wear raw enhance almost";

@@ -1,1 +1,1 @@
-var mnemonic = "forget border step wash engine shrimp daughter fiber beach ahead hour spread";
+var mnemonic = "firm tip sphere adult this camera fever rubber follow crazy unfair present";

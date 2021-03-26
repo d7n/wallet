@@ -1,1 +1,1 @@
-var mnemonic = "luxury escape woman belt update treat head exile topple post demand inspire";
+var mnemonic = "upset vocal account bunker assume buddy swamp wink farm mutual pact orange";

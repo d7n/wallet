@@ -1,1 +1,1 @@
-var mnemonic = "pool regular love dog sell brother ribbon coast slide enemy fly broccoli";
+var mnemonic = "pattern push skull typical water girl rabbit right slam wood advance replace";

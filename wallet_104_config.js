@@ -1,1 +1,1 @@
-var mnemonic = "nerve ankle cloud air crawl parent legend faint recipe mix close broom";
+var mnemonic = "visa soap father teach absurd possible orphan retire crystal language share primary";

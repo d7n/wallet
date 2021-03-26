@@ -1,1 +1,1 @@
-var mnemonic = "deputy movie hidden weasel knee strategy today region fan charge crouch gadget";
+var mnemonic = "health monitor glass soap spray coyote digital game ice stumble angry ethics";

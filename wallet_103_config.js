@@ -1,1 +1,1 @@
-var mnemonic = "aim remove position original muffin acoustic lava reward script enlist result priority";
+var mnemonic = "you buffalo arrow myself juice glove lunar scrap slice amused grain town";

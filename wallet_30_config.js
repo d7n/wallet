@@ -1,1 +1,1 @@
-var mnemonic = "diesel grass unlock merry moral dove clown loyal asthma episode dust unlock";
+var mnemonic = "sound super subway range baby unveil spot vehicle length anger ensure under";

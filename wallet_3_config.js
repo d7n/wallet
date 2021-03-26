@@ -1,1 +1,1 @@
-var mnemonic = "hour vault spin obey snap captain mixed tuition laptop cloth skin copy";
+var mnemonic = "gospel pluck arm bomb task other genius mountain champion impose flee athlete";

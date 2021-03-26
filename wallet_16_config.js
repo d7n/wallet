@@ -1,1 +1,1 @@
-var mnemonic = "safe indicate surprise candy fine purpose glimpse income globe nation moment denial";
+var mnemonic = "please exhibit gallery box snow reward filter fine laundry biology razor pledge";

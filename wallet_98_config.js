@@ -1,1 +1,1 @@
-var mnemonic = "capable agent equip chase cabbage remove awkward satoshi picture cradle today neither";
+var mnemonic = "game safe chief maple asset embody execute repeat asthma winner kingdom shuffle";

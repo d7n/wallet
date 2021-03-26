@@ -1,1 +1,1 @@
-var mnemonic = "absurd popular health birth screen excuse cook ticket funny produce aunt long";
+var mnemonic = "shoulder above switch syrup strong steel insect side neck increase guitar distance";

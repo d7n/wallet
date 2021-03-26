@@ -1,1 +1,1 @@
-var mnemonic = "body force language outdoor answer snake helmet scare board entry lizard tackle";
+var mnemonic = "audit follow inform capital draft satisfy nose tilt height inflict ahead kid";

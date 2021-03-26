@@ -1,1 +1,1 @@
-var mnemonic = "siege squirrel brand salt release capable common faint display load suspect antenna";
+var mnemonic = "verify basket eternal man cloth join shed near citizen six milk control";

@@ -1,1 +1,1 @@
-var mnemonic = "differ call fix disease bag pulse hill glad crystal method lock body";
+var mnemonic = "pill decorate trust tissue clarify metal paper unfair opera movie input shallow";

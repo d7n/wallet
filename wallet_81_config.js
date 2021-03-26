@@ -1,1 +1,1 @@
-var mnemonic = "spice purpose note index jungle chronic reflect view piano wrestle always fruit";
+var mnemonic = "swap tree more afford buddy dwarf census sign yard loan upon put";

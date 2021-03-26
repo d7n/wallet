@@ -1,1 +1,1 @@
-var mnemonic = "light milk about shield truck inspire shaft pioneer brisk fury uphold right";
+var mnemonic = "perfect leg glue carbon update filter welcome skull common escape own brown";

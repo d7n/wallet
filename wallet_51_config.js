@@ -1,1 +1,1 @@
-var mnemonic = "column twin produce shoulder leaf enhance puzzle matrix surround fat race glance";
+var mnemonic = "news wrist random erupt lend crawl flip baby tunnel puppy mesh depart";

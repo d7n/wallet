@@ -1,1 +1,1 @@
-var mnemonic = "flock real good also state endorse history split vapor key program scale";
+var mnemonic = "dwarf hybrid fringe promote awful alien strike reduce retreat coffee equal dumb";

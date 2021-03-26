@@ -1,1 +1,1 @@
-var mnemonic = "unable certain venue erupt stand topple before decide appear early become garden";
+var mnemonic = "sea man clay aware timber course doctor air satisfy hedgehog inch endless";

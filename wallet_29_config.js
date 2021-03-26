@@ -1,1 +1,1 @@
-var mnemonic = "modify menu celery exile loan canvas flower inherit lend chest ticket spoon";
+var mnemonic = "middle noodle sponsor simple pigeon humble better split crazy grow keep belt";

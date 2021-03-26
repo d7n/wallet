@@ -1,1 +1,1 @@
-var mnemonic = "exile clap lyrics sand museum retreat stay dentist frown victory age usual";
+var mnemonic = "snake olympic coach accident rubber purity craft nation six slight subject false";

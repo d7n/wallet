@@ -1,1 +1,1 @@
-var mnemonic = "open man regret doctor calm cram badge aerobic cluster defy minor wear";
+var mnemonic = "glare punch plate lift orchard cream three brother blur timber blood unlock";

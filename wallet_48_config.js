@@ -1,1 +1,1 @@
-var mnemonic = "trade stand gold document oval because shed bonus deposit ten ensure ozone";
+var mnemonic = "seminar chief voice decide divert portion nurse wall door slim pill attract";

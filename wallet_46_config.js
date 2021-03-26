@@ -1,1 +1,1 @@
-var mnemonic = "flock stock cradle acid naive kit swallow gentle walk tag dune elite";
+var mnemonic = "just portion daughter segment humble convince defy solid gown blind river gold";

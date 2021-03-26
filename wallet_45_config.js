@@ -1,1 +1,1 @@
-var mnemonic = "syrup artist dash grass escape say glad install place icon hello hair";
+var mnemonic = "feed fence fame clump upset state furnace clock puppy gas govern tongue";

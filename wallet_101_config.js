@@ -1,1 +1,1 @@
-var mnemonic = "town sight wise glass witness skirt actual bridge nest dwarf tomorrow retire";
+var mnemonic = "point exotic spider syrup spin sure ensure cage magic plate today try";

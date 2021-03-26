@@ -1,1 +1,1 @@
-var mnemonic = "flat neither ketchup fire used since grab arch anger agent release faith";
+var mnemonic = "require remove strong quantum knife age electric soap ramp video expose vivid";

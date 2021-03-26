@@ -1,1 +1,1 @@
-var mnemonic = "desk speak absorb dizzy strike thrive decrease adapt stamp possible attend depth";
+var mnemonic = "feed west crazy mountain maid fruit joke day explain slab travel quiz";

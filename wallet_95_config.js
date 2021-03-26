@@ -1,1 +1,1 @@
-var mnemonic = "pink banana head dry clock festival old elegant brave buffalo embrace remind";
+var mnemonic = "able author differ cute ice inform pear cinnamon enroll dinner search define";

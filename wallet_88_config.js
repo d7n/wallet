@@ -1,1 +1,1 @@
-var mnemonic = "faith benefit clown crater slice scorpion dad walnut arm allow pelican sudden";
+var mnemonic = "scare plunge hurdle donate attend spawn bonus split spy toast order confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter diamond search lion ivory vessel exhibit divide force brief raw shed";
+var mnemonic = "exchange liquid small issue access lemon exile name option crush cream success";

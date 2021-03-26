@@ -1,1 +1,1 @@
-var mnemonic = "crime submit lawn absent fortune decrease fog quiz ancient clock they evoke";
+var mnemonic = "clinic athlete merge gym elegant cattle gospel mouse luggage offer sauce grocery";

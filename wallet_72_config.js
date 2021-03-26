@@ -1,1 +1,1 @@
-var mnemonic = "cruise cross into engine region suggest token traffic firm boil menu into";
+var mnemonic = "draw nothing enable nice street divert ritual quality emerge phone pool excite";

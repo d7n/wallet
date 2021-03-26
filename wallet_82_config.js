@@ -1,1 +1,1 @@
-var mnemonic = "abuse alien hidden wrist ball rose auction agree enlist abuse foot torch";
+var mnemonic = "thrive glad immense eyebrow hole patrol prevent stay spoon mule glad dream";

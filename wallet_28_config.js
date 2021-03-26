@@ -1,1 +1,1 @@
-var mnemonic = "zero equal cherry best theme coach butter mandate final lumber trim nothing";
+var mnemonic = "crystal agree endorse wash meat snake produce session keep actual diet afford";

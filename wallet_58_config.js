@@ -1,1 +1,1 @@
-var mnemonic = "edit address enforce dwarf theme toward bargain upper tooth general exile pilot";
+var mnemonic = "kit walk charge original wish asset theme margin actress divide end enforce";

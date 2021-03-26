@@ -1,1 +1,1 @@
-var mnemonic = "stand junk speak history stuff bird nurse salmon example harsh hybrid figure";
+var mnemonic = "spring among trap idea stadium shove install dance gentle wash among draft";

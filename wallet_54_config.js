@@ -1,1 +1,1 @@
-var mnemonic = "rough rubber busy when tuna hospital claw author foam tape puzzle lift";
+var mnemonic = "cheese despair gentle rich buddy cheese energy impose oven oblige lazy surprise";

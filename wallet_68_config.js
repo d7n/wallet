@@ -1,1 +1,1 @@
-var mnemonic = "dirt author put omit coconut have word beach primary session sick cream";
+var mnemonic = "scorpion riot world parade leave abandon ostrich blade tortoise tuition silver hard";

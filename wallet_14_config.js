@@ -1,1 +1,1 @@
-var mnemonic = "slide exact unveil joy hand novel trophy mouse inside resemble real because";
+var mnemonic = "sting sustain kid discover lobster foot final client soap wild rhythm stand";

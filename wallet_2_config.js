@@ -1,1 +1,1 @@
-var mnemonic = "ability jewel mercy sudden uncover open master initial phrase duck purity upset";
+var mnemonic = "alcohol joke sister visual awake patient lion twelve guess shaft logic virus";

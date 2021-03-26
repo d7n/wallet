@@ -1,1 +1,1 @@
-var mnemonic = "tuna second shadow keep excite shell merit camera trophy negative island chronic";
+var mnemonic = "cup gap birth vital apology hat mystery rare ripple person three ritual";

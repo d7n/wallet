@@ -1,1 +1,1 @@
-var mnemonic = "match crumble depend ritual island toss amount vacuum rifle balance culture toward";
+var mnemonic = "harvest document script exhibit blast layer agree motion silent boat box lizard";

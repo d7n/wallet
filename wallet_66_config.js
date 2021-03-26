@@ -1,1 +1,1 @@
-var mnemonic = "column love rifle typical hour excite feel random sun wear pulp retreat";
+var mnemonic = "spend impulse obtain panther shiver gentle venture ostrich situate month flavor pause";

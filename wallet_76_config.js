@@ -1,1 +1,1 @@
-var mnemonic = "october play program grab help festival pattern farm carpet hollow sheriff innocent";
+var mnemonic = "modify replace balance exist accuse crucial album seminar tool market tip hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "extend catch job wolf myself beyond unknown soul live wing proud photo";
+var mnemonic = "intact foil admit race flavor paper chaos public slow pudding unit stool";

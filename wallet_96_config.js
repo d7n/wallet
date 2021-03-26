@@ -1,1 +1,1 @@
-var mnemonic = "suffer before auto affair cluster kitchen post salt hello credit frog junk";
+var mnemonic = "foster digital devote pitch fork nice promote trade arena hospital tree dash";

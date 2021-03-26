@@ -1,1 +1,1 @@
-var mnemonic = "worry arctic outdoor cotton ball erosion hat atom robot solve misery dignity";
+var mnemonic = "have hill opera supply swap legal diagram fragile release phone photo grape";

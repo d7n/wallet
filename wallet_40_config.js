@@ -1,1 +1,1 @@
-var mnemonic = "butter clog tank name kingdom divide hunt hope nation slab advice still";
+var mnemonic = "oven forget vacant decrease doll collect service unhappy arena diesel tooth wall";

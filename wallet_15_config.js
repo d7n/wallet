@@ -1,1 +1,1 @@
-var mnemonic = "below cousin picnic bridge comfort frame badge improve equal borrow injury daughter";
+var mnemonic = "mobile bronze used project neither tennis donkey undo bicycle close vibrant cigar";

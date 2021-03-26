@@ -1,1 +1,1 @@
-var mnemonic = "radio elder isolate friend mansion juice impose rare basic surprise glimpse reflect";
+var mnemonic = "clarify quality kite adapt faculty into dignity penalty radar kiss puppy gospel";

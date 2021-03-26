@@ -1,1 +1,1 @@
-var mnemonic = "humble trust twin amazing draw opinion cruel address eight circle father champion";
+var mnemonic = "pilot lumber hip balcony parent clutch grid safe govern uncover label spoil";

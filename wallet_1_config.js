@@ -1,1 +1,1 @@
-var mnemonic = "lock smooth exotic observe false bleak humor such dog age era wedding";
+var mnemonic = "ring banner runway arrive jacket guide purse doll seat helmet this grant";

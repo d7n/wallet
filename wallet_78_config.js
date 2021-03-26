@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow empty speak mixed metal ostrich fan auction image angry exercise enrich";
+var mnemonic = "pink possible arrange juice demise electric sword wood similar dynamic crush head";

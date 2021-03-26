@@ -1,1 +1,1 @@
-var mnemonic = "exercise reform lounge hotel salon project then dream butter route cliff curtain";
+var mnemonic = "rose hedgehog avocado popular coconut message hotel boy pattern recycle more involve";

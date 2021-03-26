@@ -1,1 +1,1 @@
-var mnemonic = "scheme pole torch under canal now action lonely trend parent snake certain";
+var mnemonic = "toss struggle fog dance stable card purchase coast close hat grant same";

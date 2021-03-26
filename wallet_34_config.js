@@ -1,1 +1,1 @@
-var mnemonic = "bullet someone prevent club access grief injury inform lunar wide coyote pitch";
+var mnemonic = "vendor toilet muscle napkin salmon sea rival purity arrest grid mimic believe";

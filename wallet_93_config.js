@@ -1,1 +1,1 @@
-var mnemonic = "wave spawn discover immune tail card captain hair more stove deal math";
+var mnemonic = "equal oval govern artefact peanut primary mechanic layer sail pyramid dog country";

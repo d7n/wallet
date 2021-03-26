@@ -1,1 +1,1 @@
-var mnemonic = "noise trend pattern feature wool vibrant tilt know mushroom pupil salon emotion";
+var mnemonic = "lyrics win one similar genius awake grass art half tooth leaf enrich";

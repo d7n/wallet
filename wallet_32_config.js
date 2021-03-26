@@ -1,1 +1,1 @@
-var mnemonic = "top west minute curve chalk weird spoon plate biology reunion steak pause";
+var mnemonic = "behind basic ring neglect shell maximum small electric knee tube awesome elegant";

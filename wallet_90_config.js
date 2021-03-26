@@ -1,1 +1,1 @@
-var mnemonic = "blood apple industry swift either cradle design turn heavy melody knife chair";
+var mnemonic = "ask buddy lesson pool window raise force family ritual service symptom when";

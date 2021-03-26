@@ -1,1 +1,1 @@
-var mnemonic = "space online member fatigue special hamster soon student discover royal save intact";
+var mnemonic = "dice rebel pledge myself regular enjoy talk joke video peanut share unlock";

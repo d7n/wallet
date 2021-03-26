@@ -1,1 +1,1 @@
-var mnemonic = "lucky foam crater occur mixture enter aspect only siege put wave welcome";
+var mnemonic = "abandon scissors case notable tuition expect model tool stove pluck light raccoon";

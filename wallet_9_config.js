@@ -1,1 +1,1 @@
-var mnemonic = "guess hero misery barely ramp elder seat wish chronic credit consider artist";
+var mnemonic = "silver zero profit open beauty elder life remove excuse elegant keen pause";

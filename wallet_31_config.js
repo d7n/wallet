@@ -1,1 +1,1 @@
-var mnemonic = "indicate sustain vague clerk gap inspire correct dinosaur receive fish slim salt";
+var mnemonic = "height catalog dice race choice element robot possible coffee exercise border behind";

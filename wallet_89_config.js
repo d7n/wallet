@@ -1,1 +1,1 @@
-var mnemonic = "door guide auto off equal heart trick shove such find sample debate";
+var mnemonic = "catch surround blade clutch shaft canal allow silver toddler weekend critic antenna";

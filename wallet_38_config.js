@@ -1,1 +1,1 @@
-var mnemonic = "fatigue slush arch major fat lesson dune observe clip exotic father pepper";
+var mnemonic = "barely stamp auto food tumble unknown camera valley term resemble crop autumn";

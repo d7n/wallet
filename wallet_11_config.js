@@ -1,1 +1,1 @@
-var mnemonic = "danger anchor green harsh sadness bind educate draw direct tuition never same";
+var mnemonic = "ride fashion mixture youth empty punch galaxy venture idea magic nothing cover";

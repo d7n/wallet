@@ -1,1 +1,1 @@
-var mnemonic = "horn buffalo exact list electric company moon luxury discover young diagram dune";
+var mnemonic = "short town ugly vivid marriage keep task range system cliff giraffe wine";
