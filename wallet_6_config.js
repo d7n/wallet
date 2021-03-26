@@ -1,1 +1,1 @@
-var mnemonic = "cancel recall hen omit sting asset fashion mean trash horse earth happy";
+var mnemonic = "office involve start inherit tower situate debate above also unknown shoe leaf";

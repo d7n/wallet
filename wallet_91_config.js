@@ -1,1 +1,1 @@
-var mnemonic = "squirrel tattoo jealous forest three paper prefer knife brisk end hole music";
+var mnemonic = "crane key stock foster ski pool require shop fortune display snack cry";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend maze seek clutch miracle bring system agent inform faith aim small";
+var mnemonic = "arrive fatal maximum curve oblige result forget wrap creek bonus nice street";

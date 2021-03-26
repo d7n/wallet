@@ -1,1 +1,1 @@
-var mnemonic = "develop album seven sure royal length know lucky desk weasel weather once";
+var mnemonic = "noble load faith job canal crush field found almost wet file slide";

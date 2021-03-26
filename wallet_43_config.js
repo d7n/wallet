@@ -1,1 +1,1 @@
-var mnemonic = "cupboard member metal actress shoot truly embody local alert guitar arena carbon";
+var mnemonic = "elegant analyst access venture slice vapor injury unit object park empower warrior";

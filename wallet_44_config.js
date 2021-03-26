@@ -1,1 +1,1 @@
-var mnemonic = "myth barrel occur win web hover decorate salon tuition leader athlete reject";
+var mnemonic = "cool move whip thought access perfect mix wrestle bitter bracket close aim";

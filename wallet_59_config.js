@@ -1,1 +1,1 @@
-var mnemonic = "dinner pause pilot boost dress enlist symptom empty bulb gun mansion luxury";
+var mnemonic = "document weekend absurd welcome february shallow employ basic core warfare adapt erosion";

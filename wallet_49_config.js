@@ -1,1 +1,1 @@
-var mnemonic = "potato zebra recycle route hollow where trouble grace claw hurt mosquito come";
+var mnemonic = "twelve prevent claw victory gold tag strong stereo analyst strong release surprise";

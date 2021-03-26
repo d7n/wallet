@@ -1,1 +1,1 @@
-var mnemonic = "exhaust jump fine square outdoor injury wrestle nothing differ coil pottery bean";
+var mnemonic = "will episode inhale nerve symptom slam fish sword lawn tissue such copper";

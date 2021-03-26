@@ -1,1 +1,1 @@
-var mnemonic = "nose boss clog bulk impulse clock concert amateur primary vote add ride";
+var mnemonic = "segment verify innocent employ grief human enhance old swim stock uphold dry";

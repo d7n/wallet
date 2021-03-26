@@ -1,1 +1,1 @@
-var mnemonic = "crane galaxy charge hybrid wasp author common couch place shield injury butter";
+var mnemonic = "army opera student eyebrow gun slight satisfy chuckle pigeon traffic teach coconut";

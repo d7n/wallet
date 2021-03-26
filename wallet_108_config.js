@@ -1,1 +1,1 @@
-var mnemonic = "forward stool drill dragon alarm patch leave permit hip junior hill process";
+var mnemonic = "blush follow anxiety lyrics junk forum machine tumble pioneer question crisp position";

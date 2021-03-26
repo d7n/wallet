@@ -1,1 +1,1 @@
-var mnemonic = "sight catalog deputy frequent local grow satoshi vehicle apple boat squeeze unveil";
+var mnemonic = "verify piano benefit cherry mad deal long oblige canal cheese gospel trial";

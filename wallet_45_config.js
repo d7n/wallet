@@ -1,1 +1,1 @@
-var mnemonic = "such sunny roast border cruel permit flee other filter question couch dolphin";
+var mnemonic = "exotic shoot hope atom trumpet nut lion train food veteran chase doll";

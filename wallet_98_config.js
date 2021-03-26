@@ -1,1 +1,1 @@
-var mnemonic = "round wasp shadow bamboo body chair arch already potato edge eye valid";
+var mnemonic = "solar finger soup maid finish inside science hood erupt cricket report wagon";

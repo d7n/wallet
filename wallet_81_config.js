@@ -1,1 +1,1 @@
-var mnemonic = "harvest rice tattoo all wrist embark venture crane what involve midnight ghost";
+var mnemonic = "paddle glad alter grid obscure popular trick obtain hammer document domain neck";

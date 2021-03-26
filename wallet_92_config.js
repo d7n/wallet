@@ -1,1 +1,1 @@
-var mnemonic = "online keep ahead multiply alter bar fabric expose rent during poem wing";
+var mnemonic = "awake candy festival remind blanket capital option battle measure actual object grape";

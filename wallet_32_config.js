@@ -1,1 +1,1 @@
-var mnemonic = "time split viable limb narrow cry future mom lend kit dinosaur gallery";
+var mnemonic = "any target place yellow slam marble pill trap quote velvet liquid awkward";

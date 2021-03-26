@@ -1,1 +1,1 @@
-var mnemonic = "diagram image slim uncle drama mixture enable scale stem draft ancient cute";
+var mnemonic = "motion asset cotton web music remove hub happy fat retreat buyer put";

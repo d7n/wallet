@@ -1,1 +1,1 @@
-var mnemonic = "infant chalk express twice hurt broom spot air bomb arrange artist always";
+var mnemonic = "someone mule super follow safe argue mansion window build update bamboo finger";

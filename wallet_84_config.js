@@ -1,1 +1,1 @@
-var mnemonic = "empower hold album enact song ride swamp toss anger industry someone spider";
+var mnemonic = "invest olive tape rescue wisdom slab wood panther beach resemble coach twenty";

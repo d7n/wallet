@@ -1,1 +1,1 @@
-var mnemonic = "mother find claw help ladder allow hint gift category soul wealth swift";
+var mnemonic = "ring vintage home relief kingdom cage mirror deny apology lunar beauty melt";

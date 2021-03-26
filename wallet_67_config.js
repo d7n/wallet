@@ -1,1 +1,1 @@
-var mnemonic = "learn citizen devote boss federal concert offer blur letter heart arm below";
+var mnemonic = "seek popular dune boost pulse afraid dragon float manual jealous hen expand";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose bunker seminar ribbon biology sail mixed announce vote pyramid measure still";
+var mnemonic = "quality hello prize ask retreat lake purse cliff valid pudding achieve heavy";

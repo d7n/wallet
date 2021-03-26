@@ -1,1 +1,1 @@
-var mnemonic = "fortune false carpet rule blame lab term satisfy top air lottery outer";
+var mnemonic = "glad undo taxi oval science couple final relief render vapor bright keen";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze donate twin attend index outside cereal maze follow cargo stumble ethics";
+var mnemonic = "leave bacon better fury glad rookie absurd other mammal sugar come leopard";

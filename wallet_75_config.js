@@ -1,1 +1,1 @@
-var mnemonic = "old night room crane patch loan scout subway cry peasant scare question";
+var mnemonic = "artwork scrap erupt consider hat nation sudden stem timber forget shoe ocean";

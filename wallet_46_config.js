@@ -1,1 +1,1 @@
-var mnemonic = "dress end small renew sail prefer trend symbol toy merry bone area";
+var mnemonic = "defy diary banana impulse faculty scorpion energy digital sudden brave ostrich quick";

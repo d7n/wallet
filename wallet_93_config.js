@@ -1,1 +1,1 @@
-var mnemonic = "custom ecology knee feel coach segment stamp page salute tool radio chicken";
+var mnemonic = "risk depend poet flush neither certain memory snap arm prize bench eagle";

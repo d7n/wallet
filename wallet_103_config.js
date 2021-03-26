@@ -1,1 +1,1 @@
-var mnemonic = "angry flash surface across unlock test potato razor raw three rotate valve";
+var mnemonic = "charge radio elite wing void replace below reflect panel evoke curve mesh";

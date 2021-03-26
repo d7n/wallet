@@ -1,1 +1,1 @@
-var mnemonic = "modify alley lab buffalo once rib addict also friend card maze surround";
+var mnemonic = "trip salute dismiss skull fault afford pigeon cupboard bag champion erosion steak";

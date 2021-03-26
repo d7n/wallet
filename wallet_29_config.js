@@ -1,1 +1,1 @@
-var mnemonic = "style skin delay boring echo antenna will social blame town cabbage expand";
+var mnemonic = "episode educate course inner swallow recall hundred electric cycle cover brush manage";

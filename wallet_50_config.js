@@ -1,1 +1,1 @@
-var mnemonic = "side soon spice improve tide focus guess brother shield coffee interest just";
+var mnemonic = "rib tank shock denial proof question between upon recipe duty tray stem";

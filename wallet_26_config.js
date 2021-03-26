@@ -1,1 +1,1 @@
-var mnemonic = "climb chat cinnamon cricket opera arrow wink coach guess oil truly topple";
+var mnemonic = "grain hedgehog fat amateur weather purity churn color cliff fringe embody awkward";

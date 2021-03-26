@@ -1,1 +1,1 @@
-var mnemonic = "edge flip order unusual belt crisp wisdom train zone doll decrease another";
+var mnemonic = "vivid prefer because plug profit edge arrive mouse dad combine school fragile";

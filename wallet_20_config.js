@@ -1,1 +1,1 @@
-var mnemonic = "wagon illness evoke sample claim square luxury balance iron doll machine federal";
+var mnemonic = "nice riot flat oppose average exit custom curve asthma stairs cereal cross";

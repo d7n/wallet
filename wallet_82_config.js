@@ -1,1 +1,1 @@
-var mnemonic = "hollow denial photo velvet bird frequent mail damage eight slam skirt speed";
+var mnemonic = "warrior knock sustain bright act race resist butter base vicious outside double";

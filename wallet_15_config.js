@@ -1,1 +1,1 @@
-var mnemonic = "bomb rare clay guilt poem brush unaware captain tackle mirror office solution";
+var mnemonic = "uphold recycle food loan vacant hint submit keen blood trade whale outside";

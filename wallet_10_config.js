@@ -1,1 +1,1 @@
-var mnemonic = "kiwi noble walk security permit grief stomach express shuffle law critic only";
+var mnemonic = "repeat okay bomb trend girl measure tuna cool depend engine tumble feature";

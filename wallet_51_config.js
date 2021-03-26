@@ -1,1 +1,1 @@
-var mnemonic = "surround wagon sport volume leave twist used eager sight circle once loud";
+var mnemonic = "valley horn lemon fiscal gadget very palm feature venture silk fresh hood";

@@ -1,1 +1,1 @@
-var mnemonic = "please crawl genius carbon choice rare antique book noodle wrong together toddler";
+var mnemonic = "hour gap switch zoo warrior recipe actual depth weird monitor monster return";

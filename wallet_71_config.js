@@ -1,1 +1,1 @@
-var mnemonic = "electric sad exercise also tooth frame service fat proof meadow tortoise ride";
+var mnemonic = "embody accuse organ push actor until another extend manage erode sock reason";

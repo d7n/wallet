@@ -1,1 +1,1 @@
-var mnemonic = "retreat six reduce omit bronze maximum myth symbol still like bulk dog";
+var mnemonic = "end match skirt dinner tired boat wood priority unable wine draft oyster";

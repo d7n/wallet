@@ -1,1 +1,1 @@
-var mnemonic = "speak bachelor wolf trophy mix drip nerve crane company argue female wreck";
+var mnemonic = "debate hollow lens loud girl hip orange divert symbol orphan pluck later";

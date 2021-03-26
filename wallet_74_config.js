@@ -1,1 +1,1 @@
-var mnemonic = "alpha exhibit image orphan path organ evil squirrel march welcome combine task";
+var mnemonic = "century column float manage meat gesture example outdoor whale matrix weapon dash";

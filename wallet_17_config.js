@@ -1,1 +1,1 @@
-var mnemonic = "length theory toss diamond file pipe female clump devote salon valley general";
+var mnemonic = "dice include junk maze oblige seminar bike promote prevent note fade quiz";

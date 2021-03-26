@@ -1,1 +1,1 @@
-var mnemonic = "bulk chase inherit behave explain payment cross pet infant junk ritual mutual";
+var mnemonic = "access humor donor fly brick require novel cherry dad drift found garlic";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse remember smoke furnace state swim door door lucky wet naive prepare";
+var mnemonic = "social erupt frown clog wasp half adult train daughter issue clinic craft";

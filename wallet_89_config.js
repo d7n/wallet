@@ -1,1 +1,1 @@
-var mnemonic = "kidney volcano obvious feed hire online rather advice nurse leg choose antenna";
+var mnemonic = "cross pumpkin license cousin snack invest enrich pulse ordinary inmate gather mom";

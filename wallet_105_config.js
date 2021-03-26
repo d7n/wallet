@@ -1,1 +1,1 @@
-var mnemonic = "bright taxi coyote cry bubble assume trouble easily quality either drift useless";
+var mnemonic = "either twin broom echo spin rare medal ramp rose absorb city exotic";

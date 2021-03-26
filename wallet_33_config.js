@@ -1,1 +1,1 @@
-var mnemonic = "tone assist work tip lecture worry dish view various power inmate frog";
+var mnemonic = "army tiny large gate tone baby chunk purity isolate alarm slush client";

@@ -1,1 +1,1 @@
-var mnemonic = "have quick rural more shoot long want monitor mushroom parrot uphold jungle";
+var mnemonic = "habit oppose odor era umbrella fragile adapt rude offer switch shock fancy";

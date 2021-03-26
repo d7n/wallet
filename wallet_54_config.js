@@ -1,1 +1,1 @@
-var mnemonic = "iron sell destroy over ability code lend record never wedding breeze buffalo";
+var mnemonic = "nation fence yard stem shadow equal lucky copy garage shoot blade gadget";

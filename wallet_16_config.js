@@ -1,1 +1,1 @@
-var mnemonic = "fragile pattern staff sting connect crunch adjust easily verify online hammer sport";
+var mnemonic = "absurd alert inspire pole flame umbrella fog walnut keep book outside install";

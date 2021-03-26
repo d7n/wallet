@@ -1,1 +1,1 @@
-var mnemonic = "picnic rail crop capital latin credit evolve sure gym wet position oil";
+var mnemonic = "salt property industry derive regular buffalo gravity melt square comfort wing question";

@@ -1,1 +1,1 @@
-var mnemonic = "flash firm build abstract used blood future mutual render cushion kite lazy";
+var mnemonic = "marine security attend dune photo jump element genre view coil garbage method";

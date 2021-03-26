@@ -1,1 +1,1 @@
-var mnemonic = "stereo inner chaos upgrade chaos puppy elite close yellow hair island evil";
+var mnemonic = "skill attend frown ancient forest near found say basket sorry manual sign";

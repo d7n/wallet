@@ -1,1 +1,1 @@
-var mnemonic = "peanut bone venture estate brief nation wealth guess stone action exile sheriff";
+var mnemonic = "page treat tone arrive deny wealth cradle today flash rice dash also";

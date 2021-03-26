@@ -1,1 +1,1 @@
-var mnemonic = "leopard come wrist wheel ask leaf make habit slam captain file galaxy";
+var mnemonic = "often trophy across expect rough wet bargain tobacco clip lounge asthma hen";

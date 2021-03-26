@@ -1,1 +1,1 @@
-var mnemonic = "accuse furnace flower napkin system mansion mushroom fork stumble despair act ginger";
+var mnemonic = "prosper season project banana direct pond page frost recall relax merge hole";

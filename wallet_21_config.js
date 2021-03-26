@@ -1,1 +1,1 @@
-var mnemonic = "rebel update lawsuit junior work black cake melody check book issue birth";
+var mnemonic = "quality toss boring amount smart adapt fault unusual prefer casino will annual";

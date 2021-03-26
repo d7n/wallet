@@ -1,1 +1,1 @@
-var mnemonic = "carbon mosquito there logic fantasy hub depend above scout ostrich square silk";
+var mnemonic = "bullet foil camera near chuckle coin leisure smart milk multiply empower process";

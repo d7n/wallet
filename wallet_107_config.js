@@ -1,1 +1,1 @@
-var mnemonic = "right weekend wife web elevator attend sport buyer grocery nerve strategy midnight";
+var mnemonic = "minute bread dance afford special robust sun uphold spread raw document wild";

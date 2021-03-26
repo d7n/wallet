@@ -1,1 +1,1 @@
-var mnemonic = "pulse vanish power cheese almost capable ripple sibling acid mammal eager onion";
+var mnemonic = "benefit human shell margin join chicken miracle cool alley prevent olive valley";

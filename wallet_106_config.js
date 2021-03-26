@@ -1,1 +1,1 @@
-var mnemonic = "group talk wedding light skill soon visa century embrace inhale myself gallery";
+var mnemonic = "remain unknown melody hero trophy negative dragon funny hollow bottom range rely";

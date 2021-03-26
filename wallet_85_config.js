@@ -1,1 +1,1 @@
-var mnemonic = "surprise amount lucky connect hover jar label sort infant lounge home width";
+var mnemonic = "quote seven rebel ginger aim luxury erase vintage bone ship half inspire";

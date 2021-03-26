@@ -1,1 +1,1 @@
-var mnemonic = "trouble bleak system wage before random choice world rally crystal high mirror";
+var mnemonic = "please father observe maximum place target voyage clever culture lonely fortune cool";

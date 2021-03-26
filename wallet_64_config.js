@@ -1,1 +1,1 @@
-var mnemonic = "wealth clerk choice lobster rabbit welcome vanish unaware dutch duty tower episode";
+var mnemonic = "machine evidence ribbon unhappy dignity dutch toddler old deputy scheme donate pigeon";

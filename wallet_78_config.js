@@ -1,1 +1,1 @@
-var mnemonic = "goat practice eight only witness skill surprise stadium renew tiny obscure issue";
+var mnemonic = "swamp quick scorpion arrange river omit wet boring gorilla modify apology era";

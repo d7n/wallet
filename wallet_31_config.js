@@ -1,1 +1,1 @@
-var mnemonic = "silver suit keen tooth gaze prosper wheel pony limit tired chronic ripple";
+var mnemonic = "isolate guide edge match brain bridge circle room metal fortune three when";

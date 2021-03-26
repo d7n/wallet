@@ -1,1 +1,1 @@
-var mnemonic = "soccer nature dawn hazard nephew please force repair tent all novel maximum";
+var mnemonic = "when pony bachelor finger arch attack curious squirrel write chronic saddle hungry";

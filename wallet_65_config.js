@@ -1,1 +1,1 @@
-var mnemonic = "zero teach hood reform exercise bag cherry input disease school fashion add";
+var mnemonic = "disease pause power document right genre exit vintage derive glow off style";

@@ -1,1 +1,1 @@
-var mnemonic = "expose pumpkin panther creek prefer settle horn dignity vapor drastic paper lunar";
+var mnemonic = "praise march win trim merit exclude equip olympic simple spread pave amazing";

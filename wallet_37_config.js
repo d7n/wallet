@@ -1,1 +1,1 @@
-var mnemonic = "burst crack inquiry remain convince confirm alcohol family move coil announce fiscal";
+var mnemonic = "team tornado salmon era door price pepper math roof agent scan crisp";

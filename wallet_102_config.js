@@ -1,1 +1,1 @@
-var mnemonic = "increase retreat maximum innocent polar become night impulse supply merit picture tiny";
+var mnemonic = "face submit thank skull lyrics dune excite brick pigeon stadium detect glad";

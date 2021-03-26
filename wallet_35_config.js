@@ -1,1 +1,1 @@
-var mnemonic = "shallow that insane sphere nature april page canyon omit narrow warrior nice";
+var mnemonic = "strong genre bread unveil lift ensure gown hundred select media era protect";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm property found inform wine few argue immense turn below drama deny";
+var mnemonic = "waste type minor combine avocado mushroom off maximum derive below mom glare";

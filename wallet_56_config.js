@@ -1,1 +1,1 @@
-var mnemonic = "jewel fantasy catch topple boat cash isolate round galaxy rebuild park casual";
+var mnemonic = "visit arrest control tourist frame spike resist odor depend nation awesome abuse";

@@ -1,1 +1,1 @@
-var mnemonic = "screen produce shoot brown equip obscure entry garbage palace odor casino october";
+var mnemonic = "silly cream reduce average weasel cousin company man sail tired human seed";

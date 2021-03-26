@@ -1,1 +1,1 @@
-var mnemonic = "month orient iron fancy donor news subject vast tribe useless buddy erase";
+var mnemonic = "steak stereo own venture mango genuine bar captain zone repair cry sun";

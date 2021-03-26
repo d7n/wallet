@@ -1,1 +1,1 @@
-var mnemonic = "bronze view flat shallow indicate wrong march demise street sample deposit hockey";
+var mnemonic = "ready custom result enforce purity nice peace ten wash leopard mandate never";

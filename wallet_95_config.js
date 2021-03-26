@@ -1,1 +1,1 @@
-var mnemonic = "math suit topple pitch clown undo parent song candy rely hurdle snow";
+var mnemonic = "erase zebra pizza aspect whale desk seminar mystery grant inhale sheriff science";

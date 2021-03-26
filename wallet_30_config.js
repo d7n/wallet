@@ -1,1 +1,1 @@
-var mnemonic = "advice know organ assist gaze rocket child subject fix silver wheat dish";
+var mnemonic = "aim asset tenant hub mechanic husband cart have correct ski exact recall";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial brick plug sister until tilt shadow arena glory goose crater tip";
+var mnemonic = "rack crew remain horn strike topic zoo earn traffic stone tag diamond";

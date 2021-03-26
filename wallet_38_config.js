@@ -1,1 +1,1 @@
-var mnemonic = "paddle current trick embrace timber soon school practice often tilt gallery fashion";
+var mnemonic = "cause unit faint lawsuit arch shoot wire coach gather lamp civil gather";

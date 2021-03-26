@@ -1,1 +1,1 @@
-var mnemonic = "laugh body gauge scare gravity recipe woman asset south half once athlete";
+var mnemonic = "club creek just enter travel dove theory banana penalty pull blossom fortune";

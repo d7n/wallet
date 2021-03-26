@@ -1,1 +1,1 @@
-var mnemonic = "chase material ghost pitch parent lottery olympic cool salmon eternal chat enlist";
+var mnemonic = "labor glide uncle solid team promote sniff profit attack average artefact tennis";

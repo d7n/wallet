@@ -1,1 +1,1 @@
-var mnemonic = "detail broom spider trade saddle inspire hold tuna car bargain friend dice";
+var mnemonic = "add rack chat oyster capital virtual negative top sick license draft copy";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel maid tag vanish sing horse peanut top device lawn opinion script";
+var mnemonic = "mass magnet rival hammer chase renew naive test brave skate future option";

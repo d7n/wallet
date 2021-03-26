@@ -1,1 +1,1 @@
-var mnemonic = "broken like latin gown citizen vacuum erupt image leaf auto story black";
+var mnemonic = "slow legal rail decorate unknown nature sense duty betray pupil tired alarm";

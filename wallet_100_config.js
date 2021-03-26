@@ -1,1 +1,1 @@
-var mnemonic = "property surround crisp hotel blind vapor stool inhale beach lottery attract spray";
+var mnemonic = "garbage wife hub chase green annual caution light sign drive soft dance";
