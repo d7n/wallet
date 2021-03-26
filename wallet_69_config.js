@@ -1,1 +1,1 @@
-var mnemonic = "thought helmet visa situate call unable senior solar armor recipe segment verb";
+var mnemonic = "sick pretty picnic skill cram copper sheriff tilt alien smooth work soup";

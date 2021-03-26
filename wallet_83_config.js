@@ -1,1 +1,1 @@
-var mnemonic = "merit van hollow myself hollow chunk stem social document decorate carpet audit";
+var mnemonic = "solar release nest photo clinic wage west amused vital lawsuit raven shiver";

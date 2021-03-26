@@ -1,1 +1,1 @@
-var mnemonic = "drama volcano lemon iron ugly dish skate apology upgrade voyage flash minimum";
+var mnemonic = "razor sick cinnamon situate special gasp push anger island motion orbit man";

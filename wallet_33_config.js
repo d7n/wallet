@@ -1,1 +1,1 @@
-var mnemonic = "release empower total joke actual toss boost unable traffic marble region suffer";
+var mnemonic = "gap shoulder swear clerk misery they mammal oak wolf fork rude prepare";

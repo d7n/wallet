@@ -1,1 +1,1 @@
-var mnemonic = "material coil exhaust time wheel pony art service damage around sugar doll";
+var mnemonic = "october march spoil offer air dose fee twist bind amount excuse tuna";

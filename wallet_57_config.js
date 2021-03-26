@@ -1,1 +1,1 @@
-var mnemonic = "never robot dilemma food decline jump cloth jazz absorb creek coconut will";
+var mnemonic = "drama holiday question have film pilot security film people market blast blind";

@@ -1,1 +1,1 @@
-var mnemonic = "virus silent woman tool noise empower chase cereal helmet judge blast habit";
+var mnemonic = "image present invest plug demand core tone like dish globe table tag";

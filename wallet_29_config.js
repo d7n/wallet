@@ -1,1 +1,1 @@
-var mnemonic = "jacket skirt fan digital digital describe student clock answer cricket oblige wink";
+var mnemonic = "thing empower chalk diesel ball deliver risk file stable wide noble use";

@@ -1,1 +1,1 @@
-var mnemonic = "thank assault want reason city trim eagle height laugh wolf pitch skirt";
+var mnemonic = "toward shield stadium pizza rack blur around right control system fringe lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "blame camera middle pole buffalo venture access satoshi youth live inside six";
+var mnemonic = "always penalty arch veteran when weather equal rookie grow glimpse cage marine";

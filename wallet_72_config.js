@@ -1,1 +1,1 @@
-var mnemonic = "couch happy album floor brave vacant mask motor grape can mother dilemma";
+var mnemonic = "scorpion atom sing grow click tell winner stadium sister endless milk ozone";

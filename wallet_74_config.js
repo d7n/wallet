@@ -1,1 +1,1 @@
-var mnemonic = "hybrid wool vicious doctor high lend present witness patient pelican safe aware";
+var mnemonic = "join fade link battle want fog patrol stomach ill blind width walnut";

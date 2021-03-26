@@ -1,1 +1,1 @@
-var mnemonic = "vehicle denial return stereo other typical runway bracket sell win wonder advice";
+var mnemonic = "lonely glare chicken spoil accident symbol renew allow achieve cement cinnamon dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "improve cushion online poem burden arena plug blouse gather you knee ripple";
+var mnemonic = "stay original task vocal mansion flock embrace soft level race fan enlist";

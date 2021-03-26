@@ -1,1 +1,1 @@
-var mnemonic = "leader receive high first used much method retreat wealth slush monster cover";
+var mnemonic = "embrace scrap vapor today dinosaur local soccer matrix slide edit soldier hill";

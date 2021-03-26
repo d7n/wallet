@@ -1,1 +1,1 @@
-var mnemonic = "blast diesel carry meat circle cabbage coach tree valve fresh guess traffic";
+var mnemonic = "problem deny loud echo bunker honey melody mango symptom dust pulp afraid";

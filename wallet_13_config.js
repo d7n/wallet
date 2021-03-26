@@ -1,1 +1,1 @@
-var mnemonic = "symbol happy renew brain stay tenant kite common piano sing crumble sing";
+var mnemonic = "elder talent promote affair control useless example science music depart layer resist";

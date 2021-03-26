@@ -1,1 +1,1 @@
-var mnemonic = "employ spare miss admit claw truck kiwi glass harvest slow put sausage";
+var mnemonic = "eight trigger employ morning giraffe peace rack pipe ask volcano install report";

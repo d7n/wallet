@@ -1,1 +1,1 @@
-var mnemonic = "sister absent toss shiver visual banana target hidden raise hope ramp tuna";
+var mnemonic = "vibrant crater concert round goat clog awesome innocent cushion avoid accuse dress";

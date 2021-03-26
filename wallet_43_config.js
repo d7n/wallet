@@ -1,1 +1,1 @@
-var mnemonic = "coconut long orchard option initial impose sweet chalk kitchen outdoor decide input";
+var mnemonic = "cargo merge dismiss excite trade during unknown snake smart mesh measure exact";

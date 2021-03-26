@@ -1,1 +1,1 @@
-var mnemonic = "witness fade oven minute kite rebuild gain casual square wedding invest blame";
+var mnemonic = "energy world diamond field ramp quality oil clown render dune suit relax";

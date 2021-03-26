@@ -1,1 +1,1 @@
-var mnemonic = "letter usage surround strategy twist boring lecture napkin liquid amount banana napkin";
+var mnemonic = "wage flash north coin describe mystery glass barely coffee jungle panel fluid";

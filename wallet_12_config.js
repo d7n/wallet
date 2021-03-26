@@ -1,1 +1,1 @@
-var mnemonic = "lab net tool protect advice prepare there dial traffic skirt upon rival";
+var mnemonic = "vanish tone tell ring amateur satisfy obvious color radar slide dentist long";

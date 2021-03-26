@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin drum supreme pilot rural behind pencil learn segment diet rain essay";
+var mnemonic = "hospital way forward month chuckle group liberty debris garage dutch velvet swamp";

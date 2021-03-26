@@ -1,1 +1,1 @@
-var mnemonic = "chef sock below pyramid tornado situate frost asset egg already divide pull";
+var mnemonic = "figure cry arrange oval car guard step meat oil change text spike";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch strong such ecology chest core wait viable hole patch filter rude";
+var mnemonic = "subway acid chalk squirrel journey soda artwork mass pigeon spider rubber man";

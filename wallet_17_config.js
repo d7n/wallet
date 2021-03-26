@@ -1,1 +1,1 @@
-var mnemonic = "cloud auto alpha father ginger kick fluid marble inject lunar bird layer";
+var mnemonic = "wrap capable pond target claw purchase bicycle hurry enroll army busy machine";

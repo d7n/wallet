@@ -1,1 +1,1 @@
-var mnemonic = "breeze oak soldier permit ramp cute neglect ask portion thing toast ring";
+var mnemonic = "glove ask cycle rude devote danger monitor soup pitch angle civil ahead";

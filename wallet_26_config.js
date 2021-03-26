@@ -1,1 +1,1 @@
-var mnemonic = "retire price tumble save airport love album birth vicious model document dirt";
+var mnemonic = "deer rug hour travel attitude situate kite keep laptop venture allow pottery";

@@ -1,1 +1,1 @@
-var mnemonic = "fury casual rigid east wet unhappy jacket achieve fire kid write menu";
+var mnemonic = "sight any pottery meadow clog law calm fit million clip crew alarm";

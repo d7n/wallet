@@ -1,1 +1,1 @@
-var mnemonic = "lift asset borrow toast region super spoil dirt silly phone lunar country";
+var mnemonic = "desert mixture flower punch spawn miracle attitude pudding spray collect winner shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "woman mask person fame dirt action waste weekend like coil tourist lounge";
+var mnemonic = "garment biology private public oven runway exhaust day mad shoulder wheel simple";

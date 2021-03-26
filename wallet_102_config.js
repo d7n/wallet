@@ -1,1 +1,1 @@
-var mnemonic = "valid play october same asset tattoo siren lecture perfect leader idea soon";
+var mnemonic = "smart demand stick rib bridge shoot twin light suffer clarify scrap must";

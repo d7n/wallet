@@ -1,1 +1,1 @@
-var mnemonic = "online toast stool young box process innocent evoke stadium depart hotel file";
+var mnemonic = "bunker citizen divide physical fee hover rebel host cry public exercise rhythm";

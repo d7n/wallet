@@ -1,1 +1,1 @@
-var mnemonic = "occur silk skate ability winner vibrant asset champion unaware mosquito scan benefit";
+var mnemonic = "iron tobacco learn sorry sunset cause gorilla pepper review buyer age steak";

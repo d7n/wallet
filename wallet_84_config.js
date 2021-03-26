@@ -1,1 +1,1 @@
-var mnemonic = "account inherit toast breeze enter afford enable sugar feed north coyote upgrade";
+var mnemonic = "junk holiday dress process text sunset little trend visual awesome shove scrub";

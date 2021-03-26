@@ -1,1 +1,1 @@
-var mnemonic = "broccoli seminar climb aim public gravity present power awful account find end";
+var mnemonic = "crash portion hotel gold empower fringe fancy regular lava park decline build";

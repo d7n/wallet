@@ -1,1 +1,1 @@
-var mnemonic = "volume circle absurd protect choice flame concert garment achieve sauce awful fitness";
+var mnemonic = "grief banana endless angle turtle extend tongue hood bag cannon put photo";

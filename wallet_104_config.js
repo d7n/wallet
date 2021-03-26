@@ -1,1 +1,1 @@
-var mnemonic = "announce cliff exercise fiber slam affair claw later garbage hope liberty pause";
+var mnemonic = "claw approve gun sphere wheel tattoo box media giant lecture lens borrow";

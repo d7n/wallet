@@ -1,1 +1,1 @@
-var mnemonic = "trial garage language unusual firm spell unique news praise crowd crazy toilet";
+var mnemonic = "undo trial fetch double fringe metal hole false vacant chicken lift horse";

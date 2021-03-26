@@ -1,1 +1,1 @@
-var mnemonic = "parent recall define choice crawl quality festival emerge world pig merry drip";
+var mnemonic = "boy dignity syrup believe frequent decorate orange magic ladder ridge lens rude";

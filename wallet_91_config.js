@@ -1,1 +1,1 @@
-var mnemonic = "mistake special vote wide learn north early sort lava fun employ curtain";
+var mnemonic = "cloud later relax clump scare weekend mutual quick arrive village twelve icon";

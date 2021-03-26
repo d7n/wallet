@@ -1,1 +1,1 @@
-var mnemonic = "carry cool wreck reduce number crawl parrot marine toddler boring ready easy";
+var mnemonic = "decline maze primary cake shallow save donkey camp broccoli repair weather horror";

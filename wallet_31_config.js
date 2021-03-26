@@ -1,1 +1,1 @@
-var mnemonic = "uncover jelly find network flavor casino endorse enjoy need tennis sing tongue";
+var mnemonic = "world replace verb various neglect wheat stem display decline maple play entire";

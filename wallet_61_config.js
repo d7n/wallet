@@ -1,1 +1,1 @@
-var mnemonic = "thrive other oblige grief wire note faith orphan bid fence when main";
+var mnemonic = "sister parrot know pelican violin report charge hurdle usual erase name path";

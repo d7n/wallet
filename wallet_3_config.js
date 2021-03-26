@@ -1,1 +1,1 @@
-var mnemonic = "husband shop tongue aware move battle trim fox often lion excuse luggage";
+var mnemonic = "wall smoke title ahead mushroom throw crowd achieve remember pact thought frog";

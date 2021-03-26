@@ -1,1 +1,1 @@
-var mnemonic = "service loyal spirit item find armed tourist dynamic bacon cool album then";
+var mnemonic = "rapid pilot image that abuse rebel staff motion essay maple curve unveil";

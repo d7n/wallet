@@ -1,1 +1,1 @@
-var mnemonic = "kitchen jump vital sound wet arrive black topple unable device early marine";
+var mnemonic = "end author cash toward fork lazy buffalo pass private talent enforce aisle";

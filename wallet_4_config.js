@@ -1,1 +1,1 @@
-var mnemonic = "fine peasant foil annual buyer barrel lucky warm sibling crisp steak camp";
+var mnemonic = "sheriff this donate casual traffic hood hill enjoy opera choose endorse myth";

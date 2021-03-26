@@ -1,1 +1,1 @@
-var mnemonic = "main long cactus daring album air music post unknown degree rent city";
+var mnemonic = "oval dentist aspect fiscal board lottery flag round recall plug layer strategy";

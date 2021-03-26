@@ -1,1 +1,1 @@
-var mnemonic = "collect powder suit speed noise sphere mix lava tortoise hurt spot source";
+var mnemonic = "side slim exercise differ bulb govern leader income seminar scorpion jungle ordinary";

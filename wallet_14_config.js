@@ -1,1 +1,1 @@
-var mnemonic = "useful owner plate rifle disorder latin jewel dumb hollow device salmon surge";
+var mnemonic = "assist enact essence pride focus assault olive only alone enrich combine damp";

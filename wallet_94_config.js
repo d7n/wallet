@@ -1,1 +1,1 @@
-var mnemonic = "coil match strategy north wood weather liquid adult venture female interest cry";
+var mnemonic = "infant addict match caution horn check fold text erupt paper wedding random";

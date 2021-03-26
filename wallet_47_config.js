@@ -1,1 +1,1 @@
-var mnemonic = "boss lunar stadium street orchard valve heart bulk rebuild census spell daughter";
+var mnemonic = "park aware silk thunder gorilla method useful suit engine balcony custom ostrich";

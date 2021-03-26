@@ -1,1 +1,1 @@
-var mnemonic = "ankle dog list crater news biology guide sing word imitate camera return";
+var mnemonic = "voice taste fabric pave expect orange congress bundle often poverty rifle bubble";

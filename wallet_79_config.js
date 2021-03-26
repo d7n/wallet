@@ -1,1 +1,1 @@
-var mnemonic = "clinic enact video cabin essence bar field risk robust agree wreck list";
+var mnemonic = "plunge about awkward erupt undo gossip match ticket face shoe dwarf need";

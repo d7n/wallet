@@ -1,1 +1,1 @@
-var mnemonic = "maid clap bird ceiling mother worry vibrant stool ability blush concert fall";
+var mnemonic = "test ribbon machine used onion hedgehog depart powder gown idle forum label";

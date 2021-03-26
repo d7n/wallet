@@ -1,1 +1,1 @@
-var mnemonic = "country danger birth pony sausage surround pudding nothing tree upper gain traffic";
+var mnemonic = "cool faint chest duck shaft clerk company scale fragile bird wedding uniform";

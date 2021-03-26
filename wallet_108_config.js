@@ -1,1 +1,1 @@
-var mnemonic = "sail physical force supply unlock edge noodle clump electric focus veteran milk";
+var mnemonic = "gold member cactus job around tuna whale bunker piano comic initial address";

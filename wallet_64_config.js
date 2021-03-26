@@ -1,1 +1,1 @@
-var mnemonic = "novel tonight height grain iron phone mammal razor sense chuckle caution royal";
+var mnemonic = "book essence acoustic sketch gap urge helmet elevator upper faculty opera stage";

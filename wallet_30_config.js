@@ -1,1 +1,1 @@
-var mnemonic = "also recipe salt ball pattern river pear blanket sea defense capital session";
+var mnemonic = "ridge open neglect more gold aspect order fashion virtual angry swift size";

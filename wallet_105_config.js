@@ -1,1 +1,1 @@
-var mnemonic = "erode struggle bonus play evidence toy invest because prevent warfare omit grief";
+var mnemonic = "female gossip famous huge vapor decrease company fatal super menu under focus";

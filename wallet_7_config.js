@@ -1,1 +1,1 @@
-var mnemonic = "priority shell rare grace blur drama energy disorder will oval unfair address";
+var mnemonic = "dumb joy village purity marine vanish ecology rose trash leaf zone reflect";

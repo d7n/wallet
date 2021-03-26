@@ -1,1 +1,1 @@
-var mnemonic = "document trust snow edge soup husband detect sound measure ski squirrel rival";
+var mnemonic = "jacket reunion word foot solid minimum apple horror awkward thought garage erupt";

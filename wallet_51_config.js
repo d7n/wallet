@@ -1,1 +1,1 @@
-var mnemonic = "initial attitude derive session allow fitness yellow game action require jelly tuition";
+var mnemonic = "theory olympic another oak matter brush father angle embrace crouch deny robust";

@@ -1,1 +1,1 @@
-var mnemonic = "excite order select shaft tortoise cricket actress aspect stuff oyster gather soldier";
+var mnemonic = "high stage leave board affair tower giggle quiz fury naive poverty sail";

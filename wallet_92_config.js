@@ -1,1 +1,1 @@
-var mnemonic = "prepare try onion love lesson vacant pledge embody same flame chair rare";
+var mnemonic = "away stage spin claim style liar goat absorb net market kite grid";

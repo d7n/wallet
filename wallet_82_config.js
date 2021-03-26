@@ -1,1 +1,1 @@
-var mnemonic = "stool grid project disorder kiwi sign flag dove catalog move delay diary";
+var mnemonic = "loan sugar coach across daughter moon critic provide nuclear cook fine asthma";

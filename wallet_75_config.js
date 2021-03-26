@@ -1,1 +1,1 @@
-var mnemonic = "butter draft lemon advice pig immense power cave together fringe slow better";
+var mnemonic = "benefit spell inch helmet witness warm twin spoon jar gasp try grit";

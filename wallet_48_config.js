@@ -1,1 +1,1 @@
-var mnemonic = "bomb reform wool anger future scare embark orange mistake spike accuse bring";
+var mnemonic = "upon clinic skirt immense poverty gown evolve escape problem regret moon insane";

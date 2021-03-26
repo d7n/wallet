@@ -1,1 +1,1 @@
-var mnemonic = "job champion urge input vanish silly bubble swallow guess destroy choose addict";
+var mnemonic = "pledge narrow pride file response flush frog boil unique year slight blossom";

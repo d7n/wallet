@@ -1,1 +1,1 @@
-var mnemonic = "own poem noodle feature tobacco immense scale jeans ski indicate horror arrive";
+var mnemonic = "next raven creek office address limb refuse harvest cream hard girl faculty";

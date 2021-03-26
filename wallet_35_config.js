@@ -1,1 +1,1 @@
-var mnemonic = "hour tube destroy hungry pitch engine pyramid primary giggle angry wire glory";
+var mnemonic = "toast protect because anxiety truck chalk pet cement conduct dinner chair space";

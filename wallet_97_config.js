@@ -1,1 +1,1 @@
-var mnemonic = "suspect ginger source market manual regret keep intact grow story degree hood";
+var mnemonic = "humble input safe immense cousin diagram language artefact solar whale put fold";

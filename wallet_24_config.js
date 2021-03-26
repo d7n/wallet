@@ -1,1 +1,1 @@
-var mnemonic = "unable such buzz kiwi profit hobby grow chunk finger invest addict pride";
+var mnemonic = "engine bus emerge matter orchard elegant praise spoil gap baby today chronic";

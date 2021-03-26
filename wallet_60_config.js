@@ -1,1 +1,1 @@
-var mnemonic = "jelly riot predict bar reopen ancient timber sketch prosper mad season three";
+var mnemonic = "since saddle aspect ask search balcony build curtain barrel rebuild erase smile";

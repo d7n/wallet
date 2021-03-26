@@ -1,1 +1,1 @@
-var mnemonic = "teach fiscal long help organ much dove sick bag carpet sustain nose";
+var mnemonic = "onion differ chat spoil animal suspect very time obtain ability sport situate";

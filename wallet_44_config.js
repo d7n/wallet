@@ -1,1 +1,1 @@
-var mnemonic = "broccoli screen time radar that start impact canvas know fence water tiger";
+var mnemonic = "mean carry security tide nose inform solar short ankle disorder grunt design";

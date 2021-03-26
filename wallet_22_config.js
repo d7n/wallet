@@ -1,1 +1,1 @@
-var mnemonic = "taste coffee treat exist divorce rate easily copy genuine festival effort wealth";
+var mnemonic = "runway sleep make alert skill route resist crew absent fortune answer wish";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose leaf clay spice scheme smoke stand battle kit puzzle tragic brick";
+var mnemonic = "lizard news dice prize idea zoo razor fall scatter health very cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "young fix pizza knee reason climb enough quiz cattle exhaust trust now";
+var mnemonic = "they mad noise crime barely try elite monster portion drum sponsor cinnamon";

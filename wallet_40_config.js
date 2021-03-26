@@ -1,1 +1,1 @@
-var mnemonic = "trigger rate balcony mail device diagram grace badge silver purse disease labor";
+var mnemonic = "tired solve fall member wheat solid design hybrid model balcony satoshi favorite";

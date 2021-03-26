@@ -1,1 +1,1 @@
-var mnemonic = "gown kiwi scheme rifle insane off iron glove put creek trap three";
+var mnemonic = "grunt state nuclear cotton matrix craft trust universe fold elegant tunnel foil";

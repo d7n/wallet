@@ -1,1 +1,1 @@
-var mnemonic = "balance water blur chalk rhythm green magnet ancient glow need spread dish";
+var mnemonic = "pulp maple memory injury guard display ripple sick abandon venue chest valley";

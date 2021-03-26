@@ -1,1 +1,1 @@
-var mnemonic = "media section concert idle bundle priority sadness elder luggage grape code diet";
+var mnemonic = "this chaos blouse arrive dilemma concert oblige bring mystery sponsor error toward";

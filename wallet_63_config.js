@@ -1,1 +1,1 @@
-var mnemonic = "act furnace country silk silk brush foil sing weekend smooth defy language";
+var mnemonic = "creek chicken hint element allow about lemon razor confirm stairs average sentence";

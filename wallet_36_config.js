@@ -1,1 +1,1 @@
-var mnemonic = "nurse inform skull clock snap begin pretty cash height actual huge blur";
+var mnemonic = "suffer salad stand federal drive drill cactus mule innocent anchor wash flip";

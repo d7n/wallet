@@ -1,1 +1,1 @@
-var mnemonic = "buddy inner ozone thumb bid cousin canvas civil name render rebel universe";
+var mnemonic = "cruel paddle census puppy typical menu tell timber atom same lazy mention";

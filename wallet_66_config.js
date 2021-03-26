@@ -1,1 +1,1 @@
-var mnemonic = "pole hollow course seven ahead outer layer plastic pig assume tool lesson";
+var mnemonic = "custom prepare lend act good top stay kitten wash response remember wise";
