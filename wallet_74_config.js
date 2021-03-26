@@ -1,1 +1,1 @@
-var mnemonic = "shoulder exist video vacant tenant begin consider frog build artefact virtual route";
+var mnemonic = "network evil solid demise youth rigid april glow seed vicious enact lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "south clever emerge project laptop month mask minimum palace matrix barely glue";
+var mnemonic = "hedgehog clay blame join rich bridge scissors peanut pact stable vault ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "slam motion tray great away empty strategy memory job able atom cousin";
+var mnemonic = "mixed bracket unlock gallery soft oven amateur else hour green pass reunion";

@@ -1,1 +1,1 @@
-var mnemonic = "wire limb picnic staff tissue split resist unlock daughter library swap subject";
+var mnemonic = "boil happy develop aerobic lottery napkin comfort kick never humble distance since";

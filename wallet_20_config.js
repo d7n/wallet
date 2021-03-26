@@ -1,1 +1,1 @@
-var mnemonic = "agent safe almost strong outside client wisdom unfold later cry six emerge";
+var mnemonic = "range sea security dumb when strategy ahead snake cost price oval dwarf";

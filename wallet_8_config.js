@@ -1,1 +1,1 @@
-var mnemonic = "bind border upper issue frost craft museum strike liberty spare awesome miss";
+var mnemonic = "engage exhaust retreat female armor suffer lend tissue cancel wise walnut skate";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze hover utility mind clutch bless join busy soul trigger wear love";
+var mnemonic = "fantasy audit come magic shrug three kid double immune material ill cross";

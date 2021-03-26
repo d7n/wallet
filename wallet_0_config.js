@@ -1,1 +1,1 @@
-var mnemonic = "stairs demise swift regular brief order detail near nerve nut dumb penalty";
+var mnemonic = "banner impose view solution same hole drum impact treat deny wise north";

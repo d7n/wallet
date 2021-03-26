@@ -1,1 +1,1 @@
-var mnemonic = "account among judge exhibit gesture alarm pledge invite noise uncover window into";
+var mnemonic = "pitch jar shock horror fire inherit like weapon wave emotion abuse rail";

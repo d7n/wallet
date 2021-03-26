@@ -1,1 +1,1 @@
-var mnemonic = "impose solve oblige hybrid define parrot dinosaur speak dolphin horror satoshi voyage";
+var mnemonic = "pencil rookie dolphin turkey barrel raw idea valid negative jacket session help";

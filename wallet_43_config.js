@@ -1,1 +1,1 @@
-var mnemonic = "possible bike current brown annual reveal casual destroy fox body dizzy fame";
+var mnemonic = "focus egg axis actress father legal desk crime scrap long another fame";

@@ -1,1 +1,1 @@
-var mnemonic = "year fish alcohol pet few salmon jacket grass service hood rain catch";
+var mnemonic = "pet expose zoo inquiry ahead pulp say model vault staff fury knock";

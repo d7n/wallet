@@ -1,1 +1,1 @@
-var mnemonic = "fossil kind hat acquire tell insane tell check broken hurdle meadow hub";
+var mnemonic = "school radio gesture melt hollow enemy dose purchase impulse health icon wool";

@@ -1,1 +1,1 @@
-var mnemonic = "typical diesel person lion river link wall angle grape shallow differ train";
+var mnemonic = "lucky tube denial unaware double silk cabin hazard level credit disorder spring";

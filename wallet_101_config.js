@@ -1,1 +1,1 @@
-var mnemonic = "sheriff bounce review analyst rubber ribbon clerk extra nasty dirt body split";
+var mnemonic = "direct glove whip camp caution april frame garlic cup pepper faith tip";

@@ -1,1 +1,1 @@
-var mnemonic = "timber struggle cricket grow paddle final host what canoe visit bamboo roast";
+var mnemonic = "over ridge trade capital slender pool hollow train crater resemble coast vocal";

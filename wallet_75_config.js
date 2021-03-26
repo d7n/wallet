@@ -1,1 +1,1 @@
-var mnemonic = "sentence film voyage move bunker swing drive same jealous cement corn horror";
+var mnemonic = "supply fall sweet forest ethics steel check clock length way rich hospital";

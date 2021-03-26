@@ -1,1 +1,1 @@
-var mnemonic = "swim slender primary wisdom keen blind next detail throw payment habit plunge";
+var mnemonic = "scheme rude ostrich swear ancient belt song ivory rich behave cricket shoe";

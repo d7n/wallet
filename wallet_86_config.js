@@ -1,1 +1,1 @@
-var mnemonic = "powder march panel cradle judge dirt scan fly monster long hollow zone";
+var mnemonic = "adjust expect curious always quote tube whip rival net merry vague exercise";

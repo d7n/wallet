@@ -1,1 +1,1 @@
-var mnemonic = "bonus mango domain tip lion cloth punch sphere shove board priority confirm";
+var mnemonic = "gasp sort stool tennis guide boost powder group gown sign adapt enough";

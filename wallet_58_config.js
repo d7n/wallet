@@ -1,1 +1,1 @@
-var mnemonic = "proud snap book monitor pottery general address ecology juice order fluid pepper";
+var mnemonic = "organ vanish neither sting outer gift grape best mandate giggle muffin wine";

@@ -1,1 +1,1 @@
-var mnemonic = "honey arena rate tape sense cancel dove radio service swarm poem bulk";
+var mnemonic = "west electric celery hundred company pretty travel ill test destroy witness isolate";

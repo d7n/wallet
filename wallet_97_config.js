@@ -1,1 +1,1 @@
-var mnemonic = "color budget surge cause rebuild swim mistake member receive hand dune bridge";
+var mnemonic = "post grocery grain brave wrong alert uncle topple vendor boil rule light";

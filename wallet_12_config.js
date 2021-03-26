@@ -1,1 +1,1 @@
-var mnemonic = "brother deny obey black deposit need core acquire old rose country scissors";
+var mnemonic = "matter exercise print gift develop palm poet screen plate opera taxi glad";

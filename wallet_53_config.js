@@ -1,1 +1,1 @@
-var mnemonic = "punch source alien blanket detail carbon learn master milk robust hurt tell";
+var mnemonic = "pave plate switch marine spoil inner suit chair cupboard market piano man";

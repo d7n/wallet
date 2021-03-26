@@ -1,1 +1,1 @@
-var mnemonic = "three aerobic boost admit cup grab loyal blouse noise bind ship spike";
+var mnemonic = "essence alter happy brisk daring stadium broom kite click retire rifle wink";

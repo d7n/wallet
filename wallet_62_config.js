@@ -1,1 +1,1 @@
-var mnemonic = "shop chat taste peace snack dentist upon apple valid camera about input";
+var mnemonic = "tired tumble raccoon plate height index ice knee cactus chaos hobby spy";

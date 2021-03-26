@@ -1,1 +1,1 @@
-var mnemonic = "portion canvas sand comic couple fun oak gloom nature affair uncle nest";
+var mnemonic = "assume coil renew utility flock once chunk laptop hobby question theme initial";

@@ -1,1 +1,1 @@
-var mnemonic = "people execute daughter home produce circle skull adjust crisp shop planet easy";
+var mnemonic = "narrow pen scheme arrest gain stamp expect meat minor dolphin cube piece";

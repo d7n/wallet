@@ -1,1 +1,1 @@
-var mnemonic = "belt vendor change hen drift expose banner piece quote hint armed uphold";
+var mnemonic = "moral sense shrug name tomorrow giant velvet kiwi spike perfect kingdom piano";

@@ -1,1 +1,1 @@
-var mnemonic = "coast ozone object equip impose receive range success angle pigeon stove talent";
+var mnemonic = "mammal joy stable hunt only question soft ocean destroy fatal broken spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "father misery useful sting outer live fashion wisdom stand sea hand fuel";
+var mnemonic = "nut tip strong ship material diamond remove useless shy order throw lady";

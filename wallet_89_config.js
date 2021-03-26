@@ -1,1 +1,1 @@
-var mnemonic = "strike wide spring wrestle range dignity early brown there treat video hurt";
+var mnemonic = "inch express finger salon skill evil monkey achieve rice solid sleep auto";

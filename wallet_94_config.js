@@ -1,1 +1,1 @@
-var mnemonic = "confirm domain place element verb foam maple tip slot guitar cool solution";
+var mnemonic = "resist monitor pool first luggage walk scene rib inherit hover hurt know";

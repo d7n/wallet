@@ -1,1 +1,1 @@
-var mnemonic = "faculty ladder shoe away shoulder example valid hurdle basic illegal ghost volume";
+var mnemonic = "display finish fence armor tiny lava obscure body army need guitar peasant";

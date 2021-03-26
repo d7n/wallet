@@ -1,1 +1,1 @@
-var mnemonic = "empower veteran dove risk menu gas vacuum jealous cactus flash despair voyage";
+var mnemonic = "reduce earn head cloth course found negative caught rubber dream hero avoid";

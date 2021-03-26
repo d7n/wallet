@@ -1,1 +1,1 @@
-var mnemonic = "awesome artwork mule aspect pottery always toward also more ugly find onion";
+var mnemonic = "ranch equip anchor divert pet advance tomorrow satoshi candy join vault move";

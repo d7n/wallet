@@ -1,1 +1,1 @@
-var mnemonic = "shock dumb december art sea bus luggage kit excuse error skill asthma";
+var mnemonic = "peace prize physical couch donor dust sugar liar swing sword airport mystery";

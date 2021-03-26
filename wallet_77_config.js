@@ -1,1 +1,1 @@
-var mnemonic = "wrap boss hat diesel opinion doll poem leopard group tragic rigid actor";
+var mnemonic = "garbage toe saddle split traffic power predict tragic exchange similar half beyond";

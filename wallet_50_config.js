@@ -1,1 +1,1 @@
-var mnemonic = "transfer embody teach silver diet olympic ribbon torch rug naive tower move";
+var mnemonic = "model pioneer ketchup drastic nurse frame effort inside garment acquire benefit daughter";

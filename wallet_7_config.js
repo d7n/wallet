@@ -1,1 +1,1 @@
-var mnemonic = "party vicious dutch exhaust library argue trim genuine midnight potato honey solution";
+var mnemonic = "bread burger lamp oak enough surround van hood okay mandate local tongue";

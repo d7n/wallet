@@ -1,1 +1,1 @@
-var mnemonic = "wonder symptom napkin notable neutral left rapid sorry suggest cat december scorpion";
+var mnemonic = "perfect theme bomb code siege drama oven fruit juice zoo firm poem";

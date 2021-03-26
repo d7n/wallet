@@ -1,1 +1,1 @@
-var mnemonic = "loud fee dignity cram judge crop calm clog destroy light key happy";
+var mnemonic = "able hospital affair attend stomach battle embody help alone pair october load";

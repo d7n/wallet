@@ -1,1 +1,1 @@
-var mnemonic = "pencil lucky trend benefit viable aerobic inquiry soft network exercise sail narrow";
+var mnemonic = "hole caution liquid improve brass cheap puzzle gadget web nothing riot cricket";

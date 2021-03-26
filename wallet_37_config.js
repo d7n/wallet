@@ -1,1 +1,1 @@
-var mnemonic = "frame festival change index humble wide sausage reunion panic cluster verify night";
+var mnemonic = "gaze brave welcome birth used spike mammal above improve soon zebra list";

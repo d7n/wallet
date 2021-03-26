@@ -1,1 +1,1 @@
-var mnemonic = "detect skate negative equip capital spoon oppose broken fox bottom comic mesh";
+var mnemonic = "tissue render orphan logic excess hungry fun color office broom milk loop";

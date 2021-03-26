@@ -1,1 +1,1 @@
-var mnemonic = "path illness mom card deposit food palm arrest section venue tower worry";
+var mnemonic = "exhibit genius belt island clump hockey slow during alone deliver salad weasel";

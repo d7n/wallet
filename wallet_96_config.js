@@ -1,1 +1,1 @@
-var mnemonic = "laptop brief can brief what fire celery shield pen knife island urge";
+var mnemonic = "ostrich soul before gather gap blast leisure clap wall trade fiction message";

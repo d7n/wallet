@@ -1,1 +1,1 @@
-var mnemonic = "crew camp salon regret dry someone melody buddy achieve bridge useful jewel";
+var mnemonic = "van nasty target hire type gun zero oblige sadness beyond position badge";

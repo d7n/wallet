@@ -1,1 +1,1 @@
-var mnemonic = "skin solid trap salt rug alley wet talent supply upper cheese sign";
+var mnemonic = "tail imitate lab okay disorder custom sock walnut imitate short pet lawsuit";

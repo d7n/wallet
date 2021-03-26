@@ -1,1 +1,1 @@
-var mnemonic = "scare learn desk stock brisk cat dish clean flight proof avocado jazz";
+var mnemonic = "verb increase neither spirit brain check bounce can waste illness toe song";

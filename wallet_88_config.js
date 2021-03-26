@@ -1,1 +1,1 @@
-var mnemonic = "object funny broken puzzle lawn drip guitar obtain day ritual crew client";
+var mnemonic = "giraffe swap chair fly receive fashion primary goat cotton patient choice frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "remind ozone palm whip large twist lend clay toss scorpion estate erosion";
+var mnemonic = "wrist license latin supreme scale census shift wheat screen practice brain artwork";

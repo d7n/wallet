@@ -1,1 +1,1 @@
-var mnemonic = "weekend purpose spawn fade option remember over crowd keen lamp pottery business";
+var mnemonic = "control power shoot body stick tool into fabric raven shaft outer mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney swarm wine what area aerobic stadium lyrics west electric kite evolve";
+var mnemonic = "load wrist honey urge amount wrist tumble skate sister spring slot include";

@@ -1,1 +1,1 @@
-var mnemonic = "begin agent super choice win kitten hollow cup fog squeeze act limit";
+var mnemonic = "farm caution address keep ramp lesson curious weapon dice wheel peanut armed";

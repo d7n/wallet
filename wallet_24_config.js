@@ -1,1 +1,1 @@
-var mnemonic = "basket snap odor attract useful glass burger moment pig boring decide unveil";
+var mnemonic = "faint laptop armor inform scheme wrestle woman jacket decade match example riot";

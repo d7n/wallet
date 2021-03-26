@@ -1,1 +1,1 @@
-var mnemonic = "foil pyramid front slush gorilla infant road school visa stone before truck";
+var mnemonic = "shove second rookie milk unfair hedgehog grab turkey elite heavy blind leopard";

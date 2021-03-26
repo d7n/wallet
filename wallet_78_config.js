@@ -1,1 +1,1 @@
-var mnemonic = "unfold beef artwork forum march cloud pilot boy cross palm inform hover";
+var mnemonic = "income claim icon labor orange actor duck bicycle help perfect creek cereal";

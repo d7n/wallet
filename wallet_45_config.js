@@ -1,1 +1,1 @@
-var mnemonic = "meadow slim pottery nice into usual chase swing radar glory brand bridge";
+var mnemonic = "angry plug knife strike reward drop virus rapid album vague blame universe";

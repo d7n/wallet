@@ -1,1 +1,1 @@
-var mnemonic = "ice add easy favorite bird youth turkey what unlock want flower match";
+var mnemonic = "top fiction brisk nasty enable warm soul false art history hospital olympic";

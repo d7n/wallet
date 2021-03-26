@@ -1,1 +1,1 @@
-var mnemonic = "fiscal focus arm tackle help pen clap drum aware sock rally throw";
+var mnemonic = "avoid acoustic dream dirt wrap define success top approve tip giant section";

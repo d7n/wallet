@@ -1,1 +1,1 @@
-var mnemonic = "double grief rain ability yellow coach diesel tent grunt found winter movie";
+var mnemonic = "muffin child where scorpion mushroom private power journey inherit rebuild hope forest";

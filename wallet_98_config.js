@@ -1,1 +1,1 @@
-var mnemonic = "lady uphold tomato lava chef inject prison curtain tent illness upper curtain";
+var mnemonic = "vehicle earn again photo social rent cotton inherit wink voice grit april";

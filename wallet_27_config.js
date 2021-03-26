@@ -1,1 +1,1 @@
-var mnemonic = "monster hire slight start civil ketchup artist profit unhappy remain comfort announce";
+var mnemonic = "dad lobster deliver off click link sand fox warm glove pull beauty";

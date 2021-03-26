@@ -1,1 +1,1 @@
-var mnemonic = "put virus clump parade jazz heart during culture canoe visa box attend";
+var mnemonic = "salute panic unknown cheese pony demand resist gaze demise bleak duty law";

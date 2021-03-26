@@ -1,1 +1,1 @@
-var mnemonic = "never brave cram glue wide fee innocent invite capital define depend donate";
+var mnemonic = "wine patient crowd rose sponsor skin notice mention van lake level vacuum";

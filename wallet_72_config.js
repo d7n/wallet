@@ -1,1 +1,1 @@
-var mnemonic = "melody edit learn unaware mother copper antique ski tragic nerve fancy bicycle";
+var mnemonic = "flame parent cigar mango afford fatigue plunge industry fringe furnace web inform";

@@ -1,1 +1,1 @@
-var mnemonic = "about blind human luxury since rotate federal year crunch wasp fog uphold";
+var mnemonic = "route unusual novel tower artist shock inject jealous sting window long exit";

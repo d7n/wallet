@@ -1,1 +1,1 @@
-var mnemonic = "foster saddle crowd father indicate cover ghost truth weapon almost myth tumble";
+var mnemonic = "stumble uphold cousin junior globe olive crunch van meat network chest obtain";

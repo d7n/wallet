@@ -1,1 +1,1 @@
-var mnemonic = "rebuild prosper gather pumpkin fit goat main poem faith grow tobacco mountain";
+var mnemonic = "cattle deliver grunt child social slogan fiber rail ritual typical rocket legend";

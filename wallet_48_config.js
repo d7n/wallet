@@ -1,1 +1,1 @@
-var mnemonic = "fee major host cause night trap never machine flight tragic century thunder";
+var mnemonic = "impose million salad weekend warfare truck twin ugly vital forest calm laptop";

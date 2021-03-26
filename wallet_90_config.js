@@ -1,1 +1,1 @@
-var mnemonic = "code during away more reform vendor deny parrot robust pudding supreme small";
+var mnemonic = "wife swing blur hole suggest media auto knock almost make barrel biology";

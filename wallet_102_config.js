@@ -1,1 +1,1 @@
-var mnemonic = "rubber involve field cream dune exercise owner view film gallery vapor response";
+var mnemonic = "soap path violin sting citizen horror route duty anxiety bubble tuna load";

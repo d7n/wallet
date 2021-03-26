@@ -1,1 +1,1 @@
-var mnemonic = "pink gate baby enlist elegant fluid abandon rough kiwi shadow tragic enroll";
+var mnemonic = "cage biology hungry bind purpose sunset team diamond habit mention history suffer";

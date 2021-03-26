@@ -1,1 +1,1 @@
-var mnemonic = "holiday general stereo rocket exhaust brisk tumble control drill napkin divorce silent";
+var mnemonic = "napkin use poverty gate cargo screen steel raccoon flat envelope below noodle";

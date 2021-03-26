@@ -1,1 +1,1 @@
-var mnemonic = "summer pair cook boy lens tool orient behave night february torch moment";
+var mnemonic = "between wing impulse famous stove reopen toward charge cloud finger unknown throw";

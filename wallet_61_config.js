@@ -1,1 +1,1 @@
-var mnemonic = "raccoon marble side tortoise cram reunion repeat polar demand sting purpose lecture";
+var mnemonic = "zero pole asset firm great squeeze man venue avocado tortoise stereo margin";

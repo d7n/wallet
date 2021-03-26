@@ -1,1 +1,1 @@
-var mnemonic = "truly film mobile hour fee trim bottom easily wall tank trust sadness";
+var mnemonic = "nose digital risk antique tide recall order put lecture road hill forest";

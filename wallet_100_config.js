@@ -1,1 +1,1 @@
-var mnemonic = "banner senior narrow mass school forward cave library frozen fetch shrug pony";
+var mnemonic = "rebuild wire flush hole super pair lawn crazy kiwi solid exist wink";

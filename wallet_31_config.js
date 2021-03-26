@@ -1,1 +1,1 @@
-var mnemonic = "student double talent lift coffee swallow luggage ahead inner gauge response maximum";
+var mnemonic = "stadium worry wheat hollow kind glory chuckle feature know melody install trip";

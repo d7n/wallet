@@ -1,1 +1,1 @@
-var mnemonic = "bamboo pause viable promote bulk brown million level seat cushion first matter";
+var mnemonic = "curtain lottery auction ripple will champion balance gap beach cause trim enable";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid elder solve unveil spoil venture hour hammer kidney vague speak table";
+var mnemonic = "bless brand polar mushroom begin crash news sea sort wear consider duck";

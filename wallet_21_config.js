@@ -1,1 +1,1 @@
-var mnemonic = "blame salute weekend age soft response sell latin once soap luxury relax";
+var mnemonic = "affair one inspire clerk private wall guard hurry smoke tank viable flock";

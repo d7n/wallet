@@ -1,1 +1,1 @@
-var mnemonic = "regret crystal rapid swamp witness meadow wood strategy winner fluid cricket word";
+var mnemonic = "mandate estate hole please match similar tomorrow awful web live hunt special";

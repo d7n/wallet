@@ -1,1 +1,1 @@
-var mnemonic = "auction apart high bullet drum prevent swim arctic episode process glory hungry";
+var mnemonic = "paddle brick resource hire foam time account mother text lock luxury police";
