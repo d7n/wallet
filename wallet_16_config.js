@@ -1,1 +1,1 @@
-var mnemonic = "sentence agent great grass decorate annual become surface silent copper cross six";
+var mnemonic = "erode man holiday spider lend between keen exhaust loud gallery inject prize";

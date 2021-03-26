@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow mushroom cannon key primary inflict knee pen disagree water zone harvest";
+var mnemonic = "general father valid develop medal segment wise patch resource recipe route steel";

@@ -1,1 +1,1 @@
-var mnemonic = "barrel supreme come van feel degree practice rookie protect team leisure antenna";
+var mnemonic = "gate payment brass series reject rose winner clog crisp retire cluster weasel";

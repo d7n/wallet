@@ -1,1 +1,1 @@
-var mnemonic = "venture deny flee speed orbit local choice ride fetch amateur entire lab";
+var mnemonic = "inform news arrange hollow margin chase minimum episode emotion sponsor planet imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "spell hundred pledge huge opinion drill pioneer great raise wrist spirit glide";
+var mnemonic = "express can candy debate divide shoulder hundred lonely sell vacuum clarify bright";

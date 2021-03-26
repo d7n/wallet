@@ -1,1 +1,1 @@
-var mnemonic = "grit spoon crazy blanket derive dizzy office hint bamboo humor brother toilet";
+var mnemonic = "project toy happy work push lion bean trigger ridge total museum ask";

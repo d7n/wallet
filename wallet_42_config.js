@@ -1,1 +1,1 @@
-var mnemonic = "debris night local notice slogan chief define violin grief hire ahead divert";
+var mnemonic = "matrix bench reward cycle pave gown people together void mystery vacuum limb";

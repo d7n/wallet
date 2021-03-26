@@ -1,1 +1,1 @@
-var mnemonic = "just shed habit correct cliff stadium witness fringe universe pencil aspect ugly";
+var mnemonic = "chronic protect shoulder above add impact arch rib useful endorse ladder dad";

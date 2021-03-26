@@ -1,1 +1,1 @@
-var mnemonic = "silver caught suggest visa marble theme pair sniff hunt entire pottery traffic";
+var mnemonic = "owner spray judge relax ankle potato guide erase daring axis giggle stove";

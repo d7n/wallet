@@ -1,1 +1,1 @@
-var mnemonic = "domain trouble smile only culture beyond mesh tuition end proud snow nominee";
+var mnemonic = "million unlock message normal grace spike exclude aunt envelope source symptom blur";

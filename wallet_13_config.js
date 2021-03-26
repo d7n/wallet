@@ -1,1 +1,1 @@
-var mnemonic = "wedding young romance myth can tired sun slide coconut film enforce leg";
+var mnemonic = "ceiling plug mystery roof display hero rhythm wave skin song convince trip";

@@ -1,1 +1,1 @@
-var mnemonic = "convince second token plunge absorb arena other trip cousin wild can decide";
+var mnemonic = "course lava awful skull battle style wish weekend act feed birth visual";

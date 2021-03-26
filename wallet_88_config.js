@@ -1,1 +1,1 @@
-var mnemonic = "decrease sense height duty town veteran pyramid summer choose deer they logic";
+var mnemonic = "pottery route salmon adult slim neck ability noble give attract junk vehicle";

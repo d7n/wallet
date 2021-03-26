@@ -1,1 +1,1 @@
-var mnemonic = "muffin another resource surge brisk news now crush athlete virus peace food";
+var mnemonic = "bleak couple vacant wasp when strike talent crime bus vital exile fox";

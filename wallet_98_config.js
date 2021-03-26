@@ -1,1 +1,1 @@
-var mnemonic = "absorb mother employ curtain sphere admit garment subject range flash shed iron";
+var mnemonic = "floor work thought win near boat junk decline robust outer bar cup";

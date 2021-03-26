@@ -1,1 +1,1 @@
-var mnemonic = "object mansion ability august oven wash trim system onion orient august rate";
+var mnemonic = "menu wheel subway stick chapter engine lazy weasel rely tragic seek fly";

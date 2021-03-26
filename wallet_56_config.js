@@ -1,1 +1,1 @@
-var mnemonic = "visit ritual torch vibrant explain edge ridge rocket gesture student layer wolf";
+var mnemonic = "text maid raw photo spike doctor dog flight detect enlist elite seek";

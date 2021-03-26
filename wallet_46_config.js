@@ -1,1 +1,1 @@
-var mnemonic = "butter cry hurt diesel dignity chimney acoustic syrup fit race grief ecology";
+var mnemonic = "exit west gas screen grab crater initial another hotel practice stool quantum";

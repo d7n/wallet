@@ -1,1 +1,1 @@
-var mnemonic = "cupboard width slide beach tank convince liar increase knee february scan maid";
+var mnemonic = "demise detect dynamic humble result tackle mammal slice multiply distance collect faint";

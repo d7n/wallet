@@ -1,1 +1,1 @@
-var mnemonic = "media ankle cart omit invite bulk bone depth joke swallow universe suffer";
+var mnemonic = "tourist evil rough hat confirm marriage blame tail crater dutch shuffle impulse";

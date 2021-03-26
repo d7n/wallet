@@ -1,1 +1,1 @@
-var mnemonic = "grunt artefact maid avocado stock immense unfold smart tuna dinner north opera";
+var mnemonic = "inject vibrant point expire buffalo fox body wall token police silver unhappy";

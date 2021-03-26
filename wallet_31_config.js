@@ -1,1 +1,1 @@
-var mnemonic = "angry maximum noise cart alien iron impulse step public absurd shiver planet";
+var mnemonic = "potato fame valve have moment cup roof jelly vessel item upset deer";

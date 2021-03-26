@@ -1,1 +1,1 @@
-var mnemonic = "practice drip alter coil lava zero task beef have question step weekend";
+var mnemonic = "trade panda quantum flower object ice myself minimum use produce toss worth";

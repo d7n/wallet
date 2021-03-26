@@ -1,1 +1,1 @@
-var mnemonic = "warrior wall enlist sell slush slight dog olympic car odor radar step";
+var mnemonic = "age quick mother input coral tube weird someone resource seven vast flush";

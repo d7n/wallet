@@ -1,1 +1,1 @@
-var mnemonic = "arctic guide during aunt vendor addict drink syrup mercy fame change edge";
+var mnemonic = "snake acid evil other margin orbit security tuna theory oil ten whip";

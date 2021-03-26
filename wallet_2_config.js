@@ -1,1 +1,1 @@
-var mnemonic = "pistol suit filter father electric obscure night faculty dish swarm memory fossil";
+var mnemonic = "monitor snack myth right share surface skin embrace warfare oyster ostrich once";

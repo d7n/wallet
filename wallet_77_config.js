@@ -1,1 +1,1 @@
-var mnemonic = "word tribe castle analyst job seminar roof idea arrow truly two grain";
+var mnemonic = "merry negative drive anger load boy wash crystal dove buddy endless cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "wolf stuff level exit label stomach harvest weather mixed silk possible forward";
+var mnemonic = "negative another unfold shove bachelor common frozen bring inquiry present purchase mansion";

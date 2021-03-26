@@ -1,1 +1,1 @@
-var mnemonic = "industry gauge notice label mosquito valid company tonight moral blanket treat receive";
+var mnemonic = "neutral scheme capable hello wool rabbit patch mule arctic proof essay daring";

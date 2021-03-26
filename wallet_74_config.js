@@ -1,1 +1,1 @@
-var mnemonic = "kind lonely afraid film smooth provide unfair help loud staff syrup erase";
+var mnemonic = "glide south delay alpha tomato dry detail devote glance secret boost hurry";

@@ -1,1 +1,1 @@
-var mnemonic = "elite gallery deposit large current barrel wasp business alter emotion rabbit family";
+var mnemonic = "unable bonus still solve grief wave uniform swing chief suspect legal major";

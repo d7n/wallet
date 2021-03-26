@@ -1,1 +1,1 @@
-var mnemonic = "forget hope amused favorite faith come repair picture pulp dog height gas";
+var mnemonic = "gown hundred embody wrong bulk grief depend number carbon east build digital";

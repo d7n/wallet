@@ -1,1 +1,1 @@
-var mnemonic = "common figure village inch hair purity render combine expand false capable hurry";
+var mnemonic = "surround census fan stereo honey physical unit segment fine spoon erupt cheese";

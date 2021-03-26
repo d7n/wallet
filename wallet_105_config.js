@@ -1,1 +1,1 @@
-var mnemonic = "alter tooth valley believe clarify round viable bike badge impose stumble whisper";
+var mnemonic = "trial draw dress absorb pass divide entry dog arrange exclude naive impose";

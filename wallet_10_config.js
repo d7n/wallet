@@ -1,1 +1,1 @@
-var mnemonic = "simple above excess outdoor cactus supreme gesture win cup feature immense parrot";
+var mnemonic = "crystal vote finger layer idea fluid misery fury owner calm horse just";

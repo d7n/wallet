@@ -1,1 +1,1 @@
-var mnemonic = "universe clutch divorce city dream follow legend ride unfold donor nature sport";
+var mnemonic = "arm expire ginger bone library measure trigger harsh cancel topple faint response";

@@ -1,1 +1,1 @@
-var mnemonic = "island alert clerk method gravity hip citizen vintage able mom correct join";
+var mnemonic = "tackle lamp right end sign toss rally link rain upset eager harvest";

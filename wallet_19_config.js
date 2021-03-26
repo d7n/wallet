@@ -1,1 +1,1 @@
-var mnemonic = "fiscal answer wall fragile turn fashion recycle multiply cool vapor simple rib";
+var mnemonic = "elegant latin today milk cattle ethics canal same build exclude warm push";

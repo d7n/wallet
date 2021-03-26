@@ -1,1 +1,1 @@
-var mnemonic = "gravity render chaos farm bacon erosion unknown universe loud cushion clean security";
+var mnemonic = "cement install proud damage knock wise next aisle act volume close lion";

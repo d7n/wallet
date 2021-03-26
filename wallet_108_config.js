@@ -1,1 +1,1 @@
-var mnemonic = "shield survey surge leopard clarify dynamic fog sheriff mammal inherit now fresh";
+var mnemonic = "write climb reason shine camera what snake ginger kingdom clump poem trumpet";

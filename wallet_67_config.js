@@ -1,1 +1,1 @@
-var mnemonic = "clarify vast buyer pledge thumb tube region supreme agent safe actual train";
+var mnemonic = "soccer near hire version front siege capable donate mail treat detail monitor";

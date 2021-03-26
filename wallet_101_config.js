@@ -1,1 +1,1 @@
-var mnemonic = "minimum maximum unlock scorpion wink try thing depth seed menu original search";
+var mnemonic = "session dune claim exercise hero flight gadget obtain skin cost gasp attack";

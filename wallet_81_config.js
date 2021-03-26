@@ -1,1 +1,1 @@
-var mnemonic = "beach check purchase door shallow point blanket worry differ hamster beyond merry";
+var mnemonic = "render possible common normal winter ramp weather husband bench body music lesson";

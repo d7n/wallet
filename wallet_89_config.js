@@ -1,1 +1,1 @@
-var mnemonic = "neck language garden cruel click indoor subway fossil pride bomb bounce legal";
+var mnemonic = "kiss text depth bright industry warfare parrot major seven target small error";

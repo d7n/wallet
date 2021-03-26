@@ -1,1 +1,1 @@
-var mnemonic = "other fitness effort print congress cigar badge warrior produce debris struggle sport";
+var mnemonic = "raccoon message twice gossip country word loud saddle surface tone ugly favorite";

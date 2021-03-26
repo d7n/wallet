@@ -1,1 +1,1 @@
-var mnemonic = "opera egg cream able exist finger replace hollow arena coast vendor face";
+var mnemonic = "axis know cinnamon chat viable notable lawsuit ticket creek upon seat color";

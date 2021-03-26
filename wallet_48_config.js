@@ -1,1 +1,1 @@
-var mnemonic = "high before benefit turtle orbit gaze benefit around theory pepper much air";
+var mnemonic = "legend neck slab auction scorpion hen arrest rose decrease coach south ten";

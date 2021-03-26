@@ -1,1 +1,1 @@
-var mnemonic = "coin quantum pudding wagon amused gain fragile debate offer address enlist fox";
+var mnemonic = "worth inspire monster rose merge rocket paddle endorse vintage lunar celery praise";

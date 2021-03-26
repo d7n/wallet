@@ -1,1 +1,1 @@
-var mnemonic = "pause rubber grow destroy disorder pole wage asthma know method habit chair";
+var mnemonic = "come member diary thing swamp pair modify private account flash flight web";

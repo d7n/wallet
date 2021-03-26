@@ -1,1 +1,1 @@
-var mnemonic = "gun girl inhale amount upon buddy stove car sugar nurse robot require";
+var mnemonic = "renew notice visit nothing garlic mushroom actual oval trouble nature laptop allow";

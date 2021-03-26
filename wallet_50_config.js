@@ -1,1 +1,1 @@
-var mnemonic = "corn motor immense dilemma track typical duck witness ten motor equip banner";
+var mnemonic = "amazing resemble monster glimpse spatial quick spike spin park friend math expire";

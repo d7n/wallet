@@ -1,1 +1,1 @@
-var mnemonic = "music fluid saddle soda critic coral caution advice load vivid about across";
+var mnemonic = "mountain poet royal flower story pigeon endless level accuse another fresh fuel";

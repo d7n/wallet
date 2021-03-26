@@ -1,1 +1,1 @@
-var mnemonic = "ozone room raw wisdom reduce ecology shrimp advance essence such meadow loop";
+var mnemonic = "close broom normal provide romance nominee knife lecture can mixed domain armed";

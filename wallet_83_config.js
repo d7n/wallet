@@ -1,1 +1,1 @@
-var mnemonic = "host account rural catalog couple alone excess have vapor bag diet hood";
+var mnemonic = "disorder grass slot van stereo off clown cushion give oak diamond join";

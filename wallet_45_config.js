@@ -1,1 +1,1 @@
-var mnemonic = "admit seven liquid shove message cactus title cool trim carry claim humble";
+var mnemonic = "alien tuition write regret bread paper clean quit dry virus permit twist";

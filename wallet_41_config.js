@@ -1,1 +1,1 @@
-var mnemonic = "goddess quantum purpose news secret insect drama must caution reopen practice rubber";
+var mnemonic = "midnight drink mandate priority symptom beef thought kind swallow lottery vacuum cable";

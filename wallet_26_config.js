@@ -1,1 +1,1 @@
-var mnemonic = "box asthma traffic tray exhibit corn moral subject side scene pipe bag";
+var mnemonic = "gossip subject twist black provide damp attend wasp amused hover neither cupboard";

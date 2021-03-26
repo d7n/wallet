@@ -1,1 +1,1 @@
-var mnemonic = "empty rigid mammal cancel during aisle giggle space liberty misery scrap song";
+var mnemonic = "involve legal general trophy pilot man label chaos ramp million patient erupt";

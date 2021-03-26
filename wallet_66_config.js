@@ -1,1 +1,1 @@
-var mnemonic = "organ begin fly involve oval lawn style betray flight between weekend ladder";
+var mnemonic = "cotton drift affair neglect silent turkey also lab hobby object quote print";

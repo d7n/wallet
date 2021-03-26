@@ -1,1 +1,1 @@
-var mnemonic = "behave exit exhibit orphan private cat weasel walk purchase throw mountain machine";
+var mnemonic = "find foster bus obvious monkey moon jacket second number jump save collect";

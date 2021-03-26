@@ -1,1 +1,1 @@
-var mnemonic = "govern funny reopen poverty index fence shell desk tiger shuffle brain recycle";
+var mnemonic = "below glass flame detect journey fox tribe imitate surprise basket already relax";

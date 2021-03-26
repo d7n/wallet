@@ -1,1 +1,1 @@
-var mnemonic = "devote comic inmate bid finger actual label borrow casual idea lunch boss";
+var mnemonic = "cigar imitate medal series gallery balance since tomorrow sad argue shrimp story";

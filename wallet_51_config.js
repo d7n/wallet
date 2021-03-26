@@ -1,1 +1,1 @@
-var mnemonic = "fog limb upon crater magic siren donkey wrestle range margin banner unable";
+var mnemonic = "three truck post pepper verify push vapor sense real stamp front notice";

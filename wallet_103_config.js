@@ -1,1 +1,1 @@
-var mnemonic = "strategy quick swim dolphin monster army practice health million like test liquid";
+var mnemonic = "blush liquid sugar metal rule primary dinner debate survey dismiss stay vibrant";

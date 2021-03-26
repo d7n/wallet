@@ -1,1 +1,1 @@
-var mnemonic = "rabbit stage table trigger include diamond derive hover second economy junk suffer";
+var mnemonic = "mammal elder mutual guide hurt client glare decorate people width bus leopard";

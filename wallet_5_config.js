@@ -1,1 +1,1 @@
-var mnemonic = "admit depth pole medal heavy track wrestle almost actor property suggest dirt";
+var mnemonic = "celery portion erase please possible divorce chunk swamp proof spin armor total";

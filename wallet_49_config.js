@@ -1,1 +1,1 @@
-var mnemonic = "bomb piano symbol boost boy combine alert crack envelope erupt ethics divide";
+var mnemonic = "ski wife kiss beach leave move suggest typical about they park hungry";

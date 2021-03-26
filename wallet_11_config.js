@@ -1,1 +1,1 @@
-var mnemonic = "grab input raccoon settle grief aspect pull wasp quote sock axis truck";
+var mnemonic = "stool coyote submit lounge world remind own busy second occur pave pitch";

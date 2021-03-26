@@ -1,1 +1,1 @@
-var mnemonic = "noodle sick angle another theme gain tag someone depth broken verb depart";
+var mnemonic = "reason snack acoustic culture gadget mechanic camera broom story business energy seven";

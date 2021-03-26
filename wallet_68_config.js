@@ -1,1 +1,1 @@
-var mnemonic = "swift little mansion noise shadow bench approve grocery general next six fever";
+var mnemonic = "monkey slender neutral basket east host knee obvious mad empower country snack";

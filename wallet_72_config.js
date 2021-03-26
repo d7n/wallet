@@ -1,1 +1,1 @@
-var mnemonic = "segment mixed treat tooth olympic either gun glare phone excite ocean badge";
+var mnemonic = "piano lottery bridge basic staff donkey pioneer syrup lecture brain capable flat";

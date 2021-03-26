@@ -1,1 +1,1 @@
-var mnemonic = "stone observe estate pact harbor finger involve educate price confirm edit horror";
+var mnemonic = "shell armor census island slogan just water tribe chase narrow marble slam";

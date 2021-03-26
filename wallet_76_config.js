@@ -1,1 +1,1 @@
-var mnemonic = "pudding frown stadium seven connect spot urban great valley luggage furnace feature";
+var mnemonic = "trend treat spread bring feed narrow credit point push conduct auction ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "labor cheap segment roof song help swear warrior venture initial dog oppose";
+var mnemonic = "maze level delay author cable always color merit pole runway danger eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "fence bachelor heart true devote wasp month bulb monitor risk eagle spread";
+var mnemonic = "lion diary prosper river concert depend ketchup hurry trade turkey capital spawn";

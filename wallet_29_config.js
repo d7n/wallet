@@ -1,1 +1,1 @@
-var mnemonic = "diagram buyer mechanic view arena avocado split sound salon harsh object buddy";
+var mnemonic = "soon upper lazy pear satisfy tornado rule vital van embrace paddle industry";

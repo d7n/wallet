@@ -1,1 +1,1 @@
-var mnemonic = "wasp subject essay fancy patrol replace now pony link inspire pitch ski";
+var mnemonic = "snow leave final miss develop organ depend sing portion deposit illegal cruel";

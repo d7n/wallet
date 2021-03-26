@@ -1,1 +1,1 @@
-var mnemonic = "open shiver walnut hood survey false clutch anchor addict oil duty gloom";
+var mnemonic = "broken sell mention pencil slab dawn image mixed energy regret response treat";

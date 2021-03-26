@@ -1,1 +1,1 @@
-var mnemonic = "oval behave nephew hair left dignity across artwork skin denial mail false";
+var mnemonic = "auction bulk fold magic stem keep multiply feel much rocket salt copy";

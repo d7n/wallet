@@ -1,1 +1,1 @@
-var mnemonic = "onion wild like garden hero turkey frame shop half turkey elegant tortoise";
+var mnemonic = "long erosion cliff wool decide cute clever direct parent job scare sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "fit prevent cereal muffin turn pair arrive engage cube ring wheat budget";
+var mnemonic = "spot patient evoke town excess this lesson diary electric frame pupil train";

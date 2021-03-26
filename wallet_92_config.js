@@ -1,1 +1,1 @@
-var mnemonic = "rookie equip book quit melt know clip liberty odor joy amateur ostrich";
+var mnemonic = "angle banana misery salmon entry move prepare baby plate agree junior purchase";

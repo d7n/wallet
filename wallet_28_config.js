@@ -1,1 +1,1 @@
-var mnemonic = "dress predict absorb cradle gift dizzy major differ merit cloth various success";
+var mnemonic = "debate gesture describe slush tongue burger buyer spatial useful music finger emotion";

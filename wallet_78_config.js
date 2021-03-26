@@ -1,1 +1,1 @@
-var mnemonic = "approve picture arrive then echo into stove lucky panther desert trigger balance";
+var mnemonic = "corn eagle abstract pencil valley deer common uncover few pill rose equip";

@@ -1,1 +1,1 @@
-var mnemonic = "float scare trial orange health bean crunch popular current imitate can rural";
+var mnemonic = "eternal mad moral water satisfy use wine sell grab strike steel medal";

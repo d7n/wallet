@@ -1,1 +1,1 @@
-var mnemonic = "like recall destroy give spare culture upgrade badge tuition ethics lift space";
+var mnemonic = "route shoot celery tribe panel method final spatial buddy scrub umbrella fortune";

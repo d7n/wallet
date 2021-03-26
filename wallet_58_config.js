@@ -1,1 +1,1 @@
-var mnemonic = "exhaust loyal nation razor wash occur chimney lawn level shift october iron";
+var mnemonic = "wreck lonely range machine reason swim traffic hold coin garage rival expire";
