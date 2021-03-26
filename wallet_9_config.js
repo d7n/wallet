@@ -1,1 +1,1 @@
-var mnemonic = "pilot token gaze soap dust smooth shell domain stone leave impact away";
+var mnemonic = "account alarm chronic cricket horse place dune fitness dice expand identify tail";

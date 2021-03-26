@@ -1,1 +1,1 @@
-var mnemonic = "noble slight kiss ski rubber change annual sauce surprise supply laptop wasp";
+var mnemonic = "please social essence shuffle cricket feel harbor fancy vapor blood jelly stadium";

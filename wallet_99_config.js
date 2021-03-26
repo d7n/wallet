@@ -1,1 +1,1 @@
-var mnemonic = "shrug labor elevator walk grocery speak shadow try shiver skill arctic toddler";
+var mnemonic = "direct roof snow tent license luxury aware memory disorder cover hero number";

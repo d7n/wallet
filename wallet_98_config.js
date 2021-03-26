@@ -1,1 +1,1 @@
-var mnemonic = "warm that neutral seek few truck panel coffee chalk lounge park exchange";
+var mnemonic = "inherit spin ribbon blast foot notice bunker super offer ticket alone shoe";

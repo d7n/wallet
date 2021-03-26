@@ -1,1 +1,1 @@
-var mnemonic = "unveil six anchor meat twenty small gossip nominee arch drill survey digital";
+var mnemonic = "until purchase exact street method decide august page letter duck much broken";

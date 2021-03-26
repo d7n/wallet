@@ -1,1 +1,1 @@
-var mnemonic = "valve limb chicken flash rotate escape elder rural fit burden carbon girl";
+var mnemonic = "produce warrior cement artefact leader vendor drum earth romance hockey man boil";

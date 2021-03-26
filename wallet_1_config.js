@@ -1,1 +1,1 @@
-var mnemonic = "diet lonely guide comic mimic relax link erode collect treat vicious join";
+var mnemonic = "race flip jar parrot van ceiling ordinary mail one lucky secret scheme";

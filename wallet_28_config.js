@@ -1,1 +1,1 @@
-var mnemonic = "shadow return horn amused absent print uncle jealous island sauce amount milk";
+var mnemonic = "intact uncle input dumb wisdom palm have disease author attend then admit";

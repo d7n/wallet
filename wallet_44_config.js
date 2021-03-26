@@ -1,1 +1,1 @@
-var mnemonic = "myself ability enlist tooth snack beef fly laugh bulb swing list answer";
+var mnemonic = "fragile coffee elite pudding current isolate hover truck retreat loan vague borrow";

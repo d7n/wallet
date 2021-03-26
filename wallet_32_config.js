@@ -1,1 +1,1 @@
-var mnemonic = "amazing exile web tissue plate stand pink pioneer tip venture fiction economy";
+var mnemonic = "abstract note bargain radio amazing lock physical glance rack umbrella absorb over";

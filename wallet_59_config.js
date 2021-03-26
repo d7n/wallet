@@ -1,1 +1,1 @@
-var mnemonic = "yellow budget cigar keen crop balcony rug process settle impulse chimney fury";
+var mnemonic = "also moment draw merry spray phone sing sun ritual island away liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "entire defense volcano pudding produce banana subway voice sausage noodle antenna demand";
+var mnemonic = "vivid judge innocent frown glow tuition account decline language dignity assist buyer";

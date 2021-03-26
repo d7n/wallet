@@ -1,1 +1,1 @@
-var mnemonic = "stove joy cliff asset moral off emotion orange cover interest accident rookie";
+var mnemonic = "punch essay circle scare call pretty often flower random laptop scrap trigger";

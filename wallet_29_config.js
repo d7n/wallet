@@ -1,1 +1,1 @@
-var mnemonic = "gauge scrub deposit push double word carpet autumn cloud resemble inside skate";
+var mnemonic = "digital warm sudden near aerobic sort aunt dutch notable satisfy trigger forget";

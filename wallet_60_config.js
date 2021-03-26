@@ -1,1 +1,1 @@
-var mnemonic = "youth crowd poverty digital dignity begin pride often physical exhaust scan bullet";
+var mnemonic = "spoon lazy train taste tongue pool walk pull story speed identify elite";

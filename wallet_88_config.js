@@ -1,1 +1,1 @@
-var mnemonic = "floor fiction cable defy reduce bullet mansion maze copper elephant detect slot";
+var mnemonic = "smile viable mercy again alien stove grow similar festival brand rural hip";

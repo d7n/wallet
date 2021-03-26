@@ -1,1 +1,1 @@
-var mnemonic = "maximum minor season blossom charge rate design response math fee adapt ritual";
+var mnemonic = "decade shop receive voice misery fiber able tank truck torch drama cannon";

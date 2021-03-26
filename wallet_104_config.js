@@ -1,1 +1,1 @@
-var mnemonic = "absurd device model start replace eyebrow thank faith never punch chicken coffee";
+var mnemonic = "goat remove lady delay magic anxiety general equal turn false little regular";

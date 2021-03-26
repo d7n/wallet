@@ -1,1 +1,1 @@
-var mnemonic = "menu brief pool endless soft attract twin glimpse kind early gospel crouch";
+var mnemonic = "actor paper slab umbrella tide math swim element inside original train public";

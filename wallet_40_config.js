@@ -1,1 +1,1 @@
-var mnemonic = "mansion fault job roof drip news concert very olive during arrest hub";
+var mnemonic = "soon end suggest peace vehicle mercy outside polar flush chest raven grocery";

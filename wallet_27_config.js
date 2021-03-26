@@ -1,1 +1,1 @@
-var mnemonic = "bundle spoon regular service glare decade large thank puppy receive skull february";
+var mnemonic = "bridge true swap snow lucky jealous second tuition alert fish dignity rate";

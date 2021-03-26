@@ -1,1 +1,1 @@
-var mnemonic = "rug reward acoustic age relax hold glad dinosaur column cactus cart report";
+var mnemonic = "learn menu guitar fat blur game brother glove pony glimpse weird struggle";

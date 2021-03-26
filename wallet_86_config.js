@@ -1,1 +1,1 @@
-var mnemonic = "trophy same rookie office fee stereo zero wool giant march north gold";
+var mnemonic = "unfold night erase ready street essence abuse borrow also elephant hazard group";

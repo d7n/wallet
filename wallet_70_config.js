@@ -1,1 +1,1 @@
-var mnemonic = "chronic high panther miracle hen middle fatal manual flame sun story core";
+var mnemonic = "forward affair grief coyote leaf shift axis seed economy rookie garment play";

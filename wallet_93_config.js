@@ -1,1 +1,1 @@
-var mnemonic = "cave gate lucky episode thrive rhythm fantasy cupboard obtain opinion impact fossil";
+var mnemonic = "what broom object tongue notice fossil wasp there arm uncover mail drill";

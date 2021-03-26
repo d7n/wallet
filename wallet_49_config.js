@@ -1,1 +1,1 @@
-var mnemonic = "enhance leisure judge trim sing market shuffle window split cream nation poet";
+var mnemonic = "weasel quit peanut liquid insane claim ask ramp biology solve excuse sense";

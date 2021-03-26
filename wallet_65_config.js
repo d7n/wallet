@@ -1,1 +1,1 @@
-var mnemonic = "analyst tail enemy city depart derive ceiling still creek device duty expand";
+var mnemonic = "wife feed iron bitter blast promote acquire pelican explain extend lecture glue";

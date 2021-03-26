@@ -1,1 +1,1 @@
-var mnemonic = "run butter hurry almost source attend busy decide rival animal lake echo";
+var mnemonic = "soldier copper until crime ring wish fresh gospel skill clap ankle lens";

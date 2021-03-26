@@ -1,1 +1,1 @@
-var mnemonic = "opinion cricket primary robust brand library weekend volcano combine record gasp visa";
+var mnemonic = "critic champion vessel offer title beach lucky mind permit arrest initial win";

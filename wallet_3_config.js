@@ -1,1 +1,1 @@
-var mnemonic = "wine wolf fall dirt melt recycle scare genre olive consider acid chicken";
+var mnemonic = "fancy tunnel day adult that ball okay balcony give jump move velvet";

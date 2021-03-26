@@ -1,1 +1,1 @@
-var mnemonic = "galaxy young pitch broken tip taste duck quote history note bubble dish";
+var mnemonic = "main universe mammal media dutch fatigue attack base hello sheriff friend program";

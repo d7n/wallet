@@ -1,1 +1,1 @@
-var mnemonic = "joy admit control unhappy unable tongue age item dune size medal oxygen";
+var mnemonic = "ensure trash skull monster still evidence cause plate ensure pill science intact";

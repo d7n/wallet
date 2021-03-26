@@ -1,1 +1,1 @@
-var mnemonic = "frame build shaft live couple local belt seek bright proof behind pencil";
+var mnemonic = "primary subway wrist tired patch diagram feel shield final switch upgrade arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "ready flavor pluck dismiss essay toe chronic sail avoid merit address install";
+var mnemonic = "put index reopen phone lift abuse speed edit crane evil game master";

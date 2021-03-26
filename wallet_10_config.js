@@ -1,1 +1,1 @@
-var mnemonic = "tiger amount sword measure rule system burden share someone great elite crowd";
+var mnemonic = "parent trash random session trumpet action upper benefit crime seed insane field";

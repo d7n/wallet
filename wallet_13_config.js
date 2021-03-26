@@ -1,1 +1,1 @@
-var mnemonic = "garment food million frog diet debate cycle save cupboard critic egg fault";
+var mnemonic = "country knock unveil kind never sing luxury educate chunk term empty modify";

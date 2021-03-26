@@ -1,1 +1,1 @@
-var mnemonic = "tool skill pause hard robust toilet lawn march rifle gossip illness churn";
+var mnemonic = "slow knee indoor turn kangaroo trophy cash skin collect inch during sure";

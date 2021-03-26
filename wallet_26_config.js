@@ -1,1 +1,1 @@
-var mnemonic = "tower slide old crime mask change gravity jazz hope identify corn follow";
+var mnemonic = "grid cactus tooth youth observe lend east gas climb wage crater absurd";

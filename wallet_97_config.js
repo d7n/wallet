@@ -1,1 +1,1 @@
-var mnemonic = "motor degree raise glove veteran basket evidence eternal major spring basket tunnel";
+var mnemonic = "number silent robot open flee tired chuckle buffalo gauge settle pull job";

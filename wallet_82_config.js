@@ -1,1 +1,1 @@
-var mnemonic = "degree aerobic pepper pill duty oppose teach hint solve vast run announce";
+var mnemonic = "initial actress peace obscure umbrella foil embark series act slide auto manage";

@@ -1,1 +1,1 @@
-var mnemonic = "opera pair fossil gain sock hazard depend mind soap stamp van sibling";
+var mnemonic = "among piano nothing canyon month all acquire pumpkin park chimney service exotic";

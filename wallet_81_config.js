@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit become peanut brisk town rather claim school swift judge daughter practice";
+var mnemonic = "stick kite rain witness again similar increase later method crime road combine";

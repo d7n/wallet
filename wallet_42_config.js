@@ -1,1 +1,1 @@
-var mnemonic = "hurry erupt frog item fetch magnet bubble immense loop spell thunder cake";
+var mnemonic = "grid impose cousin ripple thunder peasant tonight pride gasp script oven solution";

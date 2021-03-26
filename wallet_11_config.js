@@ -1,1 +1,1 @@
-var mnemonic = "february leader bargain inner ice kitchen broom coach dice school flush bomb";
+var mnemonic = "pyramid castle crisp congress core crack manual cry uphold glass space sudden";

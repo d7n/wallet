@@ -1,1 +1,1 @@
-var mnemonic = "attack poet shove fine brisk basket release chronic whip outside limb minimum";
+var mnemonic = "sunny between mutual banner broom sail skin rubber moon enemy vessel average";

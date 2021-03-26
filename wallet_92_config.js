@@ -1,1 +1,1 @@
-var mnemonic = "peanut satoshi act remain december relax win toast cushion square special very";
+var mnemonic = "law raccoon grow more vessel suspect lock warfare sad section shallow butter";

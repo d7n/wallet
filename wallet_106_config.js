@@ -1,1 +1,1 @@
-var mnemonic = "flower diagram rate odor leg usual purpose tuition kingdom vast lecture piano";
+var mnemonic = "twelve twin raw sugar tree strategy keen play direct arrow hello charge";

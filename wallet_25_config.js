@@ -1,1 +1,1 @@
-var mnemonic = "solid humor wet force radio moment chair wall disagree oval foam doctor";
+var mnemonic = "motion critic opinion collect travel exact provide used lady leisure excuse match";

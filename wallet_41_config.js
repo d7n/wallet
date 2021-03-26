@@ -1,1 +1,1 @@
-var mnemonic = "jazz core sample giggle ignore dynamic thumb birth quiz saddle trade humble";
+var mnemonic = "enlist rule enroll figure play found coach scene marriage butter motor party";

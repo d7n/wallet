@@ -1,1 +1,1 @@
-var mnemonic = "grab distance lady material later sail gasp rare change farm during chicken";
+var mnemonic = "mutual resist bulk brand summer clay certain wealth slide know remove category";

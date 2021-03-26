@@ -1,1 +1,1 @@
-var mnemonic = "gate endorse budget juice decrease doll lumber exchange fashion toast amount evolve";
+var mnemonic = "amazing news mandate toe clog clean field nominee tag flee open feed";

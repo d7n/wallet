@@ -1,1 +1,1 @@
-var mnemonic = "fetch already slight senior frame actress visa crew radar bid machine mind";
+var mnemonic = "grief voice people clinic conduct sadness hover gadget family mom noble visual";

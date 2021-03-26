@@ -1,1 +1,1 @@
-var mnemonic = "inform juice sphere welcome simple next polar segment wrestle guilt frame wedding";
+var mnemonic = "outer warrior bounce split dry guilt cricket boat undo bread pencil spoil";

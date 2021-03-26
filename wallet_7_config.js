@@ -1,1 +1,1 @@
-var mnemonic = "small foster page jacket father escape pass century rough cream rich crunch";
+var mnemonic = "crawl salon judge doll display tonight mystery reopen mountain album lion brave";

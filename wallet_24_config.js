@@ -1,1 +1,1 @@
-var mnemonic = "truth iron device artist churn abuse diamond spider crouch wet uniform develop";
+var mnemonic = "tennis harvest warm chalk lake correct canoe infant diesel copper dignity gate";

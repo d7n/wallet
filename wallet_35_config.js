@@ -1,1 +1,1 @@
-var mnemonic = "horn mom air sight truly believe detail wonder bronze admit flash cram";
+var mnemonic = "same utility anxiety nuclear strike bike conduct waste image doctor victory left";

@@ -1,1 +1,1 @@
-var mnemonic = "wing fox enjoy smooth extra convince spy wasp dance approve token room";
+var mnemonic = "city dizzy retire suffer basic core arrange level powder hazard inhale amount";

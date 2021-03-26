@@ -1,1 +1,1 @@
-var mnemonic = "tortoise review neither review doll mercy rate runway arena axis opinion replace";
+var mnemonic = "wife muffin mouse rabbit tape follow lunch where galaxy bulb strike october";

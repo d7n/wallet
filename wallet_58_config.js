@@ -1,1 +1,1 @@
-var mnemonic = "alone picnic canoe ceiling soda outdoor immense galaxy eight mass crater sausage";
+var mnemonic = "gravity energy year desert gesture slight brass dance inside organ awkward fashion";

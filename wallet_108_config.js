@@ -1,1 +1,1 @@
-var mnemonic = "zebra journey allow morning room happy hood letter enact lyrics obvious loyal";
+var mnemonic = "inflict party ball stem frozen kiwi spike emotion angle nasty dust crater";

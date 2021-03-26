@@ -1,1 +1,1 @@
-var mnemonic = "flavor roof sight garage weekend attack make bid apart dinner fan fluid";
+var mnemonic = "wood proof weapon champion canvas twice bounce battle cry better blue angle";

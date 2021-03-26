@@ -1,1 +1,1 @@
-var mnemonic = "soda toast flag spider soccer dawn result cream blossom fever display valley";
+var mnemonic = "flip fun fossil smart life nasty avocado sound hint kitten valley flag";

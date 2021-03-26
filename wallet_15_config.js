@@ -1,1 +1,1 @@
-var mnemonic = "outer accuse below rigid warm sentence rail drastic neck upper concert leg";
+var mnemonic = "lecture lend light absurd pipe organ table zero museum warm debris charge";

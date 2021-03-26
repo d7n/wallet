@@ -1,1 +1,1 @@
-var mnemonic = "fancy butter bone canyon goat loan burden bright divide hotel congress elbow";
+var mnemonic = "flip camera main submit canvas estate click plastic spot rare soldier giant";

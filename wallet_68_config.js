@@ -1,1 +1,1 @@
-var mnemonic = "mention arena regret old stumble grace disagree grunt snack twist vintage hour";
+var mnemonic = "run access talent utility demise side immense mad search lunch antique little";

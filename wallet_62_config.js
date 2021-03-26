@@ -1,1 +1,1 @@
-var mnemonic = "rural museum speed iron kind mad mercy just cable nuclear swim lend";
+var mnemonic = "code cradle ensure must supply remove brain galaxy width barely puzzle fan";

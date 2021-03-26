@@ -1,1 +1,1 @@
-var mnemonic = "pattern praise leopard shine road express clown brief trial angry usage stage";
+var mnemonic = "shoe dismiss omit dance again sport valid chapter ice foster luggage belt";

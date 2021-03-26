@@ -1,1 +1,1 @@
-var mnemonic = "skate shift tortoise sting race camera puppy rough rice antenna attend era";
+var mnemonic = "visit history amazing alter elder cream inject scissors humor beyond armed together";

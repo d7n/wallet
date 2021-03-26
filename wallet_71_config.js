@@ -1,1 +1,1 @@
-var mnemonic = "blanket friend used badge never edit blouse blood category boss extend fortune";
+var mnemonic = "smoke audit use eager bike assault length barely edit vapor age coast";

@@ -1,1 +1,1 @@
-var mnemonic = "beach oppose primary ecology coffee muscle penalty whisper robust parent filter eyebrow";
+var mnemonic = "example drip try misery clip burger poverty glow elevator movie chase use";

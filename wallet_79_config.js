@@ -1,1 +1,1 @@
-var mnemonic = "buyer stamp bubble hello universe luggage solar weapon grape index verify siren";
+var mnemonic = "corn prefer other shoe blur pen marine capital kid churn mom face";

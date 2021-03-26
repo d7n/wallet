@@ -1,1 +1,1 @@
-var mnemonic = "vicious use bottom gaze main above pitch oak shrug alcohol much margin";
+var mnemonic = "across business delay fog list predict toe bubble truth subway once sibling";

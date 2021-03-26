@@ -1,1 +1,1 @@
-var mnemonic = "try bottom bone poet hero weather pull lion multiply maid inmate harsh";
+var mnemonic = "rely cheese shallow offer nephew speak eager electric warm ten fold room";

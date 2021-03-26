@@ -1,1 +1,1 @@
-var mnemonic = "ordinary police desk offer network drum key boy neither when slim where";
+var mnemonic = "extend wish swarm curious basket grunt arrange left unlock little excuse tiger";

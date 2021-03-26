@@ -1,1 +1,1 @@
-var mnemonic = "utility snake balcony test jar fiction body water social swarm jewel wait";
+var mnemonic = "trophy mimic rocket connect cousin toe mercy stable brass cable that oblige";

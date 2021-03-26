@@ -1,1 +1,1 @@
-var mnemonic = "hand mother charge blouse credit total hunt wife twice flight plug pencil";
+var mnemonic = "rain frozen middle prevent want cheese later grape inherit click cotton bridge";

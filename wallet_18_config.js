@@ -1,1 +1,1 @@
-var mnemonic = "copper dismiss universe vanish this erupt chest then modify dumb taxi company";
+var mnemonic = "few execute practice hello area cupboard misery sign replace speed hood diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "thing alert illness virtual mesh canyon want flock huge ball taste absent";
+var mnemonic = "leopard inspire kid mask mercy news punch wrap defy fruit ozone squirrel";

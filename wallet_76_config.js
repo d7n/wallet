@@ -1,1 +1,1 @@
-var mnemonic = "vocal settle endorse humor release dumb scout treat can pear begin return";
+var mnemonic = "bulk better song dentist liquid faculty utility cabbage idle alarm crack gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado toilet type hair hungry neutral solid jump toast rather real wide";
+var mnemonic = "tired that coin million minor final proof predict economy casual prosper volcano";

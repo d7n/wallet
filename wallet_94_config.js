@@ -1,1 +1,1 @@
-var mnemonic = "fiction family chase token message bitter oyster cat soldier peace cave among";
+var mnemonic = "kiwi betray exclude shed proud middle mosquito congress result antique only private";

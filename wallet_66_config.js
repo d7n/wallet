@@ -1,1 +1,1 @@
-var mnemonic = "squirrel critic again target ignore lizard skull rural treat dad cheese route";
+var mnemonic = "belt joy rose royal also crop gate road animal paper use hunt";

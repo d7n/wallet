@@ -1,1 +1,1 @@
-var mnemonic = "paper today food sugar real author sorry fetch soda solar merit bus";
+var mnemonic = "diagram zero range notice brown noise remain milk need around promote vague";

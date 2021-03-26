@@ -1,1 +1,1 @@
-var mnemonic = "reflect army true answer gossip valid link typical loop spy help easily";
+var mnemonic = "carbon desk gloom match toilet motor erode daughter outdoor bachelor used very";

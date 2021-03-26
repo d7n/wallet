@@ -1,1 +1,1 @@
-var mnemonic = "drill math foam mercy negative reject siren answer evoke dinner rough answer";
+var mnemonic = "dream put mask admit priority destroy unlock chief bid comic citizen include";
