@@ -1,1 +1,1 @@
-var mnemonic = "narrow year yard loop live exchange empty dad puppy street law antique";
+var mnemonic = "oppose leaf clay spice scheme smoke stand battle kit puzzle tragic brick";

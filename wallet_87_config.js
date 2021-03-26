@@ -1,1 +1,1 @@
-var mnemonic = "virtual elbow already smart era follow laptop enable spare next foster gift";
+var mnemonic = "chronic slush grace century laundry rice success wear pizza energy great silent";

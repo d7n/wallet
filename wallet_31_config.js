@@ -1,1 +1,1 @@
-var mnemonic = "match pulp celery social aware critic report donkey forget hurdle sure axis";
+var mnemonic = "uncover jelly find network flavor casino endorse enjoy need tennis sing tongue";

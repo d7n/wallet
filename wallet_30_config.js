@@ -1,1 +1,1 @@
-var mnemonic = "slush goddess appear legal legal theory puppy fiber switch dry inside fever";
+var mnemonic = "also recipe salt ball pattern river pear blanket sea defense capital session";

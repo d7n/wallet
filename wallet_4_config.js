@@ -1,1 +1,1 @@
-var mnemonic = "escape expect seek because dose river mystery mention prize pig change slogan";
+var mnemonic = "fine peasant foil annual buyer barrel lucky warm sibling crisp steak camp";

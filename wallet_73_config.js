@@ -1,1 +1,1 @@
-var mnemonic = "situate barrel silent weather slender cheap romance invite city heart decade benefit";
+var mnemonic = "switch wash hawk scare window profit because flip together dream index vocal";

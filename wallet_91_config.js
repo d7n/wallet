@@ -1,1 +1,1 @@
-var mnemonic = "sand risk drip almost furnace merge dinosaur plastic leaf ethics bicycle cover";
+var mnemonic = "mistake special vote wide learn north early sort lava fun employ curtain";

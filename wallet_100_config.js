@@ -1,1 +1,1 @@
-var mnemonic = "evil engage make bracket cash also slam town deer excess embody same";
+var mnemonic = "glue stock kingdom drop song equip notice end distance yellow actual carbon";

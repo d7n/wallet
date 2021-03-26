@@ -1,1 +1,1 @@
-var mnemonic = "hobby street shine fork burst clutch steak volcano tribe print crime vendor";
+var mnemonic = "suspect ginger source market manual regret keep intact grow story degree hood";

@@ -1,1 +1,1 @@
-var mnemonic = "bicycle soft explain question useful arrow minor waste guide siren dwarf dutch";
+var mnemonic = "retire price tumble save airport love album birth vicious model document dirt";

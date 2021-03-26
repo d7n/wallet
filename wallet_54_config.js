@@ -1,1 +1,1 @@
-var mnemonic = "fit patch stuff duck forum vague fit domain clock upper follow wagon";
+var mnemonic = "service loyal spirit item find armed tourist dynamic bacon cool album then";

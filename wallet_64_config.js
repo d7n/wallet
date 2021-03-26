@@ -1,1 +1,1 @@
-var mnemonic = "tooth curtain canvas retreat race battle refuse wrap swarm sense address spider";
+var mnemonic = "novel tonight height grain iron phone mammal razor sense chuckle caution royal";

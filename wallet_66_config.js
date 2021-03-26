@@ -1,1 +1,1 @@
-var mnemonic = "garment notable apple else demise bullet sight seek achieve harbor happy offer";
+var mnemonic = "pole hollow course seven ahead outer layer plastic pig assume tool lesson";

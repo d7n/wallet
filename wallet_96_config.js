@@ -1,1 +1,1 @@
-var mnemonic = "dirt achieve twin sample price helmet scout dumb term fiction alpha abandon";
+var mnemonic = "media section concert idle bundle priority sadness elder luggage grape code diet";

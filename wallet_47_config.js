@@ -1,1 +1,1 @@
-var mnemonic = "skate patch wreck risk auction cram world ginger love behind goddess icon";
+var mnemonic = "boss lunar stadium street orchard valve heart bulk rebuild census spell daughter";

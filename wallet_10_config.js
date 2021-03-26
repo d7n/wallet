@@ -1,1 +1,1 @@
-var mnemonic = "pioneer tumble boss imitate survey ability festival food tag runway manage random";
+var mnemonic = "vehicle denial return stereo other typical runway bracket sell win wonder advice";

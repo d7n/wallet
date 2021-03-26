@@ -1,1 +1,1 @@
-var mnemonic = "weasel top nation increase output mention price return solid seminar almost glove";
+var mnemonic = "clinic enact video cabin essence bar field risk robust agree wreck list";

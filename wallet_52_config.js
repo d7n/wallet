@@ -1,1 +1,1 @@
-var mnemonic = "decorate destroy tobacco train deny holiday amount enter analyst winner hire once";
+var mnemonic = "balance water blur chalk rhythm green magnet ancient glow need spread dish";

@@ -1,1 +1,1 @@
-var mnemonic = "frost concert arrest term level add lamp meat doctor tube velvet anchor";
+var mnemonic = "coconut long orchard option initial impose sweet chalk kitchen outdoor decide input";

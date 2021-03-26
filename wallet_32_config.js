@@ -1,1 +1,1 @@
-var mnemonic = "napkin buzz item firm vault text liar setup actress genre away intact";
+var mnemonic = "buddy inner ozone thumb bid cousin canvas civil name render rebel universe";

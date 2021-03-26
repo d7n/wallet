@@ -1,1 +1,1 @@
-var mnemonic = "this dismiss tornado spot rule aim excuse captain sheriff lottery glow copper";
+var mnemonic = "hotel entry mule half cannon minimum ski vacuum time throw foster express";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap cruel forget shove pepper swamp pencil family identify vague mind gossip";
+var mnemonic = "milk crunch stairs sleep use track outdoor squeeze goat state orphan theory";

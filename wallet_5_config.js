@@ -1,1 +1,1 @@
-var mnemonic = "toy clock interest breeze family window best foot skill wonder disorder pause";
+var mnemonic = "pair fade shrimp tone quick supply tongue amateur replace lesson point erupt";

@@ -1,1 +1,1 @@
-var mnemonic = "trick gather arrive category destroy swing alarm pig chase frost polar leader";
+var mnemonic = "symbol happy renew brain stay tenant kite common piano sing crumble sing";

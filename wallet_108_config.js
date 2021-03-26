@@ -1,1 +1,1 @@
-var mnemonic = "artefact blush donor slot pond where member miss dwarf patrol bird razor";
+var mnemonic = "sail physical force supply unlock edge noodle clump electric focus veteran milk";

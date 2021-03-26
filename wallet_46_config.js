@@ -1,1 +1,1 @@
-var mnemonic = "whale alien sense answer harbor change wolf cabin weekend quiz arena cart";
+var mnemonic = "improve cushion online poem burden arena plug blouse gather you knee ripple";

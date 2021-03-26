@@ -1,1 +1,1 @@
-var mnemonic = "siren afford fork wolf syrup credit dune lizard warrior hello hunt pioneer";
+var mnemonic = "green nasty diesel priority honey smoke detail pulse fitness feel fault gasp";

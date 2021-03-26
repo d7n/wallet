@@ -1,1 +1,1 @@
-var mnemonic = "alley jacket family swamp hospital dirt jacket salmon bone update mango virtual";
+var mnemonic = "jaguar grab nest once pink dizzy high token skate laugh brain warm";

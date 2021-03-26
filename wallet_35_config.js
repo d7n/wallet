@@ -1,1 +1,1 @@
-var mnemonic = "wrong immune bubble must junk valve artwork audit measure season better dress";
+var mnemonic = "hour tube destroy hungry pitch engine pyramid primary giggle angry wire glory";

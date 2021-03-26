@@ -1,1 +1,1 @@
-var mnemonic = "kitten room want save mirror until retreat cement dove laptop predict say";
+var mnemonic = "ankle dog list crater news biology guide sing word imitate camera return";

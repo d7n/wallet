@@ -1,1 +1,1 @@
-var mnemonic = "news property afford help gallery cousin decade cute roast police pen attract";
+var mnemonic = "thing two runway limb rely gallery pull neck talent giggle recipe still";

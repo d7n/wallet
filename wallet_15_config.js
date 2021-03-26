@@ -1,1 +1,1 @@
-var mnemonic = "follow domain middle wisdom april fabric turkey fluid heavy snap student shell";
+var mnemonic = "pool near lawsuit grief goose dutch cup increase allow army sword fever";

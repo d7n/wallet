@@ -1,1 +1,1 @@
-var mnemonic = "confirm know burst have learn screen neutral focus menu chapter birth excuse";
+var mnemonic = "trigger rate balcony mail device diagram grace badge silver purse disease labor";

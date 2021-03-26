@@ -1,1 +1,1 @@
-var mnemonic = "witness tiny disorder awesome cook arena ecology giant capital army jelly phone";
+var mnemonic = "collect powder suit speed noise sphere mix lava tortoise hurt spot source";

@@ -1,1 +1,1 @@
-var mnemonic = "kit electric carbon gun stay another capable park frequent bitter pigeon trigger";
+var mnemonic = "woman mask person fame dirt action waste weekend like coil tourist lounge";

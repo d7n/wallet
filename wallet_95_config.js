@@ -1,1 +1,1 @@
-var mnemonic = "cake joke latin essence slogan screen trade bridge bus flash sorry payment";
+var mnemonic = "trial garage language unusual firm spell unique news praise crowd crazy toilet";

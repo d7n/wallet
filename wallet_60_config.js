@@ -1,1 +1,1 @@
-var mnemonic = "wagon embody jeans poet twin crime cable parent design now old come";
+var mnemonic = "jelly riot predict bar reopen ancient timber sketch prosper mad season three";

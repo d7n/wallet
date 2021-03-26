@@ -1,1 +1,1 @@
-var mnemonic = "monkey excite resist myself tray absent layer couch metal asthma final sniff";
+var mnemonic = "merit van hollow myself hollow chunk stem social document decorate carpet audit";

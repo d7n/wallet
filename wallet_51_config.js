@@ -1,1 +1,1 @@
-var mnemonic = "crawl matrix index harsh mango snake river work swim monitor obscure crouch";
+var mnemonic = "initial attitude derive session allow fitness yellow game action require jelly tuition";

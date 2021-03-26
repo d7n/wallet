@@ -1,1 +1,1 @@
-var mnemonic = "wood about mammal share picnic spy model never wreck holiday rather aunt";
+var mnemonic = "stool grid project disorder kiwi sign flag dove catalog move delay diary";

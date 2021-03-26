@@ -1,1 +1,1 @@
-var mnemonic = "blush junior escape elevator prosper settle diesel unable glass barely will message";
+var mnemonic = "occur silk skate ability winner vibrant asset champion unaware mosquito scan benefit";

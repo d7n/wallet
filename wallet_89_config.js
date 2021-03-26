@@ -1,1 +1,1 @@
-var mnemonic = "matter hedgehog angle fine voice north pulse digital arm dwarf vapor wool";
+var mnemonic = "merry hole action lady canoe hair panther retire margin purity voyage potato";

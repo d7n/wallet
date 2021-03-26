@@ -1,1 +1,1 @@
-var mnemonic = "region tag choose fat hobby barely stairs hazard wrap army cluster thing";
+var mnemonic = "couch happy album floor brave vacant mask motor grape can mother dilemma";

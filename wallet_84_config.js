@@ -1,1 +1,1 @@
-var mnemonic = "open choose journey nurse various boil salad yard woman whip film ball";
+var mnemonic = "account inherit toast breeze enter afford enable sugar feed north coyote upgrade";

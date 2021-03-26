@@ -1,1 +1,1 @@
-var mnemonic = "fire pottery drama sell word refuse nephew crane clerk chat various where";
+var mnemonic = "release empower total joke actual toss boost unable traffic marble region suffer";

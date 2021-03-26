@@ -1,1 +1,1 @@
-var mnemonic = "other school tree elegant marble better inhale usual insane arctic police tip";
+var mnemonic = "never robot dilemma food decline jump cloth jazz absorb creek coconut will";

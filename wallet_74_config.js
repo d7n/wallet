@@ -1,1 +1,1 @@
-var mnemonic = "hospital service casual summer fever use high approve onion sleep broom alter";
+var mnemonic = "hybrid wool vicious doctor high lend present witness patient pelican safe aware";

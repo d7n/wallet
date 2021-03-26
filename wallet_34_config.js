@@ -1,1 +1,1 @@
-var mnemonic = "juice join swallow open tube force talent goat resource bar save into";
+var mnemonic = "own poem noodle feature tobacco immense scale jeans ski indicate horror arrive";

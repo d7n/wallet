@@ -1,1 +1,1 @@
-var mnemonic = "orchard torch target merge pupil loop capital together remember stone ranch wrap";
+var mnemonic = "nurse inform skull clock snap begin pretty cash height actual huge blur";

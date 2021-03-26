@@ -1,1 +1,1 @@
-var mnemonic = "knee able build hard tomorrow chapter soft item tonight tuition lesson purchase";
+var mnemonic = "blast diesel carry meat circle cabbage coach tree valve fresh guess traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge behave bicycle potato swim imitate trophy afraid sand license camera jacket";
+var mnemonic = "material coil exhaust time wheel pony art service damage around sugar doll";

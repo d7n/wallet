@@ -1,1 +1,1 @@
-var mnemonic = "mesh garlic eyebrow cave client year anxiety destroy glare local waste uniform";
+var mnemonic = "parent recall define choice crawl quality festival emerge world pig merry drip";

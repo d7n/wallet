@@ -1,1 +1,1 @@
-var mnemonic = "project feature purpose next lift kiwi entire nut ask stuff setup exist";
+var mnemonic = "swift opera goddess chief citizen earth identify among winter word stereo remove";

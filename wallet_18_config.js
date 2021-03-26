@@ -1,1 +1,1 @@
-var mnemonic = "illegal engage bridge rely universe because sketch razor rigid neglect slush eye";
+var mnemonic = "young fix pizza knee reason climb enough quiz cattle exhaust trust now";

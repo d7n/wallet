@@ -1,1 +1,1 @@
-var mnemonic = "door super tattoo drill live middle total tunnel adult almost juice tunnel";
+var mnemonic = "document trust snow edge soup husband detect sound measure ski squirrel rival";

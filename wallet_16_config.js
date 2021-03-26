@@ -1,1 +1,1 @@
-var mnemonic = "space fresh result film million mushroom attack match dirt hockey frost then";
+var mnemonic = "thank assault want reason city trim eagle height laugh wolf pitch skirt";

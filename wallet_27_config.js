@@ -1,1 +1,1 @@
-var mnemonic = "build sibling seed strike glance degree cause strong asset tag mask just";
+var mnemonic = "cargo carry work repeat gun humor bike clever insect weapon between damp";

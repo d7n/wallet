@@ -1,1 +1,1 @@
-var mnemonic = "nose test insane myth electric toward humor vendor brisk velvet truly candy";
+var mnemonic = "prepare try onion love lesson vacant pledge embody same flame chair rare";

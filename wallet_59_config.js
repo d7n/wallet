@@ -1,1 +1,1 @@
-var mnemonic = "woman blur chest dune mail lunar warrior soon pattern sorry like country";
+var mnemonic = "drama volcano lemon iron ugly dish skate apology upgrade voyage flash minimum";

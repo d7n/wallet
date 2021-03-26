@@ -1,1 +1,1 @@
-var mnemonic = "quiz indoor whisper pass clump gloom grant surface deal icon split unaware";
+var mnemonic = "crouch strong such ecology chest core wait viable hole patch filter rude";

@@ -1,1 +1,1 @@
-var mnemonic = "candy zoo climb update legend chest lyrics skill betray carry client trend";
+var mnemonic = "excite order select shaft tortoise cricket actress aspect stuff oyster gather soldier";

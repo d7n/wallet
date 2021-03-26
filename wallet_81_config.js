@@ -1,1 +1,1 @@
-var mnemonic = "split tribe wagon diesel possible cover absorb skill hotel buzz bacon chaos";
+var mnemonic = "sister absent toss shiver visual banana target hidden raise hope ramp tuna";

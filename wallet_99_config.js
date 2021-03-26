@@ -1,1 +1,1 @@
-var mnemonic = "about exercise visit jaguar pause forum funny wrap genius genius sudden across";
+var mnemonic = "fury casual rigid east wet unhappy jacket achieve fire kid write menu";

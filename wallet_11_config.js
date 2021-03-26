@@ -1,1 +1,1 @@
-var mnemonic = "suspect hire evoke shrimp behind movie time glare fabric primary exercise glide";
+var mnemonic = "breeze oak soldier permit ramp cute neglect ask portion thing toast ring";

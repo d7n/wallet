@@ -1,1 +1,1 @@
-var mnemonic = "hammer minimum run simple million equip budget summer mask recall train lobster";
+var mnemonic = "useful owner plate rifle disorder latin jewel dumb hollow device salmon surge";

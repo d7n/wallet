@@ -1,1 +1,1 @@
-var mnemonic = "also situate tragic access review ranch tunnel orange practice dolphin swing fatigue";
+var mnemonic = "virus silent woman tool noise empower chase cereal helmet judge blast habit";

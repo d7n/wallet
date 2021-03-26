@@ -1,1 +1,1 @@
-var mnemonic = "erupt toward balcony radio index material place celery energy region valley april";
+var mnemonic = "employ spare miss admit claw truck kiwi glass harvest slow put sausage";

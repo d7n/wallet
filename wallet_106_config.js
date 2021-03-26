@@ -1,1 +1,1 @@
-var mnemonic = "anchor area correct wait same enough prevent trust goat width crumble know";
+var mnemonic = "knee floor rug spray spice employ mimic naive junior eye circle fossil";

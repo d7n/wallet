@@ -1,1 +1,1 @@
-var mnemonic = "ship fiction federal cement sister venture pill success game toilet custom grace";
+var mnemonic = "bomb reform wool anger future scare embark orange mistake spike accuse bring";

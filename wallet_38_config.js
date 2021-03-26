@@ -1,1 +1,1 @@
-var mnemonic = "exit visual arctic grace impulse laptop buddy frog soap fortune master seat";
+var mnemonic = "say regret random pottery memory digital setup high item cook throw feed";

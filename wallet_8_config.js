@@ -1,1 +1,1 @@
-var mnemonic = "school churn tragic hockey violin below grain tuition toward royal width rotate";
+var mnemonic = "abuse large rib prevent tomorrow refuse lake special soda episode release just";

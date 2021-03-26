@@ -1,1 +1,1 @@
-var mnemonic = "daring laugh nest harbor disagree traffic light grace chuckle box champion dash";
+var mnemonic = "priority shell rare grace blur drama energy disorder will oval unfair address";

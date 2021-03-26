@@ -1,1 +1,1 @@
-var mnemonic = "script receive day reunion own uphold this couple genius vocal exchange high";
+var mnemonic = "thrive other oblige grief wire note faith orphan bid fence when main";

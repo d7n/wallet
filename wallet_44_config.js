@@ -1,1 +1,1 @@
-var mnemonic = "certain excuse wall maze cannon frequent learn leg pulp claim goddess wait";
+var mnemonic = "broccoli screen time radar that start impact canvas know fence water tiger";

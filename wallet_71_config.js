@@ -1,1 +1,1 @@
-var mnemonic = "march reduce danger pioneer skate diary smile immune cycle device giggle soap";
+var mnemonic = "maid clap bird ceiling mother worry vibrant stool ability blush concert fall";

@@ -1,1 +1,1 @@
-var mnemonic = "void hollow switch bean ignore tiny milk analyst blue wage culture absorb";
+var mnemonic = "coil match strategy north wood weather liquid adult venture female interest cry";

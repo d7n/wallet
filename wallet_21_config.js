@@ -1,1 +1,1 @@
-var mnemonic = "discover slice crop trigger jelly abuse avoid addict bundle about skin pass";
+var mnemonic = "teach fiscal long help organ much dove sick bag carpet sustain nose";

@@ -1,1 +1,1 @@
-var mnemonic = "space chief tank traffic wolf inject that uncle movie fringe yellow regret";
+var mnemonic = "act furnace country silk silk brush foil sing weekend smooth defy language";

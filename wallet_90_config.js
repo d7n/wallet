@@ -1,1 +1,1 @@
-var mnemonic = "great quantum name manual garden license blood priority rookie toe cigar token";
+var mnemonic = "chef sock below pyramid tornado situate frost asset egg already divide pull";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap jelly claim unknown flock original price attract frog exile scrap response";
+var mnemonic = "witness fade oven minute kite rebuild gain casual square wedding invest blame";

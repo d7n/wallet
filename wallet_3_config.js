@@ -1,1 +1,1 @@
-var mnemonic = "primary liquid lounge feature lunch saddle neck magnet cruise trust moral furnace";
+var mnemonic = "husband shop tongue aware move battle trim fox often lion excuse luggage";

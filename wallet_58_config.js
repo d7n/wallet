@@ -1,1 +1,1 @@
-var mnemonic = "large stool coach able laptop combine feature video crush cricket cupboard keen";
+var mnemonic = "buffalo search talent camp ocean illness strategy shed forward close peace sphere";

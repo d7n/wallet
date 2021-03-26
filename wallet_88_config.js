@@ -1,1 +1,1 @@
-var mnemonic = "ahead latin panda uncover multiply sword energy remember other spell crumble crush";
+var mnemonic = "broccoli seminar climb aim public gravity present power awful account find end";

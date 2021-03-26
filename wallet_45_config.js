@@ -1,1 +1,1 @@
-var mnemonic = "kidney future north square screen face term sort raven humble donate upgrade";
+var mnemonic = "country danger birth pony sausage surround pudding nothing tree upper gain traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "atom oak prize scorpion share pencil weather erosion saddle throw force mind";
+var mnemonic = "valid play october same asset tattoo siren lecture perfect leader idea soon";

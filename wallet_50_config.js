@@ -1,1 +1,1 @@
-var mnemonic = "home hurt humor entire melody token smile later suspect method empower local";
+var mnemonic = "gown kiwi scheme rifle insane off iron glove put creek trap three";

@@ -1,1 +1,1 @@
-var mnemonic = "century truth unhappy next they fossil purchase tribe try arrow purse hollow";
+var mnemonic = "taste coffee treat exist divorce rate easily copy genuine festival effort wealth";

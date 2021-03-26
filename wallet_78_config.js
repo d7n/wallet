@@ -1,1 +1,1 @@
-var mnemonic = "during various more sock fun group stage force license farm purse document";
+var mnemonic = "volume circle absurd protect choice flame concert garment achieve sauce awful fitness";

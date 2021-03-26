@@ -1,1 +1,1 @@
-var mnemonic = "develop reveal wall double vote unit hero admit client either initial column";
+var mnemonic = "carry cool wreck reduce number crawl parrot marine toddler boring ready easy";

@@ -1,1 +1,1 @@
-var mnemonic = "summer sheriff chair strategy behind secret tilt borrow matter industry scrub crash";
+var mnemonic = "blame camera middle pole buffalo venture access satoshi youth live inside six";

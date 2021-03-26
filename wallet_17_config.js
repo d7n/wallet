@@ -1,1 +1,1 @@
-var mnemonic = "fashion field desert refuse swap virus sibling despair boss gown delay stick";
+var mnemonic = "cloud auto alpha father ginger kick fluid marble inject lunar bird layer";

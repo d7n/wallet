@@ -1,1 +1,1 @@
-var mnemonic = "harsh rate butter fancy aware fitness baby hurt company warm prosper ceiling";
+var mnemonic = "kitchen jump vital sound wet arrive black topple unable device early marine";

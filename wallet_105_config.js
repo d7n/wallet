@@ -1,1 +1,1 @@
-var mnemonic = "where dizzy horn kit expose merge tumble jewel repair comfort average section";
+var mnemonic = "erode struggle bonus play evidence toy invest because prevent warfare omit grief";
