@@ -1,1 +1,1 @@
-var mnemonic = "town shuffle tomato program loud run market dove damage kiss crime spend";
+var mnemonic = "left fatigue pulse master wisdom skull minor kidney chair panel build now";

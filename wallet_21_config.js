@@ -1,1 +1,1 @@
-var mnemonic = "like chaos sport actual clown expire boss mention lounge panel math avoid";
+var mnemonic = "phrase salute moral grow dust zebra robust relax champion better hood pupil";

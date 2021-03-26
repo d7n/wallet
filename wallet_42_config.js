@@ -1,1 +1,1 @@
-var mnemonic = "coast clap spot lazy fat acoustic episode auto mother atom paper vivid";
+var mnemonic = "oven blame there bargain luxury fitness stem leisure client elephant ancient venue";

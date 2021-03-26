@@ -1,1 +1,1 @@
-var mnemonic = "artwork insect eager gain chuckle spider mimic galaxy glow canoe interest dizzy";
+var mnemonic = "peanut library bamboo champion indicate parent primary collect lunch this tray void";

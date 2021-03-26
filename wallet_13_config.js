@@ -1,1 +1,1 @@
-var mnemonic = "answer mechanic join spell ancient people caution goat armor solution impulse funny";
+var mnemonic = "change two blade radar brisk height slender stick hard chest lunar light";

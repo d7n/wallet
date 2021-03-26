@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow purchase move sustain subject mixture badge certain again general start ability";
+var mnemonic = "deer state salt gloom cupboard fuel fault below rate famous tiny build";

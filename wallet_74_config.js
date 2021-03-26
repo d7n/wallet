@@ -1,1 +1,1 @@
-var mnemonic = "private farm token capital winner give orient consider disorder orchard defense river";
+var mnemonic = "access clarify wool unknown valid record section rural attend jump october vital";

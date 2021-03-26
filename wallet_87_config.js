@@ -1,1 +1,1 @@
-var mnemonic = "small narrow guide meadow resist speed rack absorb access fat inherit wonder";
+var mnemonic = "repair visa symptom green expose climb glue priority tunnel flat story rocket";

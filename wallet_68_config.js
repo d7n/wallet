@@ -1,1 +1,1 @@
-var mnemonic = "observe foot ghost pen refuse enough boat roof wasp debate sibling napkin";
+var mnemonic = "code size pole hollow camp suggest average filter meadow junk change year";

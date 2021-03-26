@@ -1,1 +1,1 @@
-var mnemonic = "cake shrug ensure announce dynamic train uncover spin virus property meat goat";
+var mnemonic = "select what wagon urban arrest disorder word report evil fan promote edge";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain labor peanut add wash pistol gadget bid yard bullet rabbit climb";
+var mnemonic = "say coconut fat chimney top unlock ten copper near gesture gossip sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin system breeze fiber wait duty nasty never deal swallow describe affair";
+var mnemonic = "hockey diet crater wall bullet stay nature hawk decorate opinion agree swift";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder alien awkward birth rebel brain coast torch behind cart exhibit middle";
+var mnemonic = "sweet august abandon mix despair police machine metal trip dragon cherry current";

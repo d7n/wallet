@@ -1,1 +1,1 @@
-var mnemonic = "culture soon swift present siege pretty scorpion grocery crouch cook lawn already";
+var mnemonic = "despair motion pond divert save network remember match elder about donkey high";

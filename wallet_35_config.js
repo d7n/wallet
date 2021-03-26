@@ -1,1 +1,1 @@
-var mnemonic = "shallow cricket kit wrap school decline guard music gasp harbor clarify hold";
+var mnemonic = "mention script addict enough couple twenty outdoor phrase dry dizzy disorder wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "burst mutual park amazing phrase gain ignore collect inflict bar napkin actual";
+var mnemonic = "oval link cabbage upper cry nice smoke motion retreat portion theme casino";

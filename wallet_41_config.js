@@ -1,1 +1,1 @@
-var mnemonic = "crack kidney crush sand doctor grant inform tail bag insane tunnel spin";
+var mnemonic = "about ethics chalk casual carry peasant sure genius dune settle invite warrior";

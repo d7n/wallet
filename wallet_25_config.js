@@ -1,1 +1,1 @@
-var mnemonic = "grape trip bullet firm truly three trust trumpet tray agent dizzy flip";
+var mnemonic = "trophy print vacant garage key ready vacant gap praise reduce topple attitude";

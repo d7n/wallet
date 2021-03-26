@@ -1,1 +1,1 @@
-var mnemonic = "unit jacket wrap file blanket replace fatigue arrow brother peasant memory embark";
+var mnemonic = "retreat awkward media annual duty mansion accuse media prepare quick thunder frog";

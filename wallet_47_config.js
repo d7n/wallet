@@ -1,1 +1,1 @@
-var mnemonic = "confirm donate gate enemy labor faculty annual surge gesture coin excuse couple";
+var mnemonic = "vintage flush wet drift foam reduce whisper catch cloth party peace hire";

@@ -1,1 +1,1 @@
-var mnemonic = "try civil mechanic region bounce bronze casino grant heavy raccoon media slow";
+var mnemonic = "deliver notable quit once bleak estate roast resist famous woman major scheme";

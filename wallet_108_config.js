@@ -1,1 +1,1 @@
-var mnemonic = "weekend pass ugly seven flower mixture find another cotton tomato firm invite";
+var mnemonic = "obtain mention august private double permit imitate alpha pull source frame tooth";

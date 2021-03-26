@@ -1,1 +1,1 @@
-var mnemonic = "region point odor figure exist void local hire bicycle remind erase embody";
+var mnemonic = "pen split maze glove vapor agree illegal gallery guilt motor cover eight";

@@ -1,1 +1,1 @@
-var mnemonic = "prison develop glue series observe grab method like own oxygen crew idle";
+var mnemonic = "naive staff asthma soft crash remember shed circle level clarify syrup stairs";

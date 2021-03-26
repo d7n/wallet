@@ -1,1 +1,1 @@
-var mnemonic = "panda age net small ecology purity pear wise dose catalog salon unlock";
+var mnemonic = "carpet know isolate toilet cactus shed engage balance soda royal seek vital";

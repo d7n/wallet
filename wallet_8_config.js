@@ -1,1 +1,1 @@
-var mnemonic = "few just more common fog lawn unfair expect prepare orient help muscle";
+var mnemonic = "broken awesome hockey task series unaware negative come old oven punch member";

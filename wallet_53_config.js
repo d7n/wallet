@@ -1,1 +1,1 @@
-var mnemonic = "street dirt slab grid tenant lemon elite rail master tray stock usual";
+var mnemonic = "veteran ghost hip inside million impulse pattern purchase excuse between today engage";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain grass public pond wool leader obtain decide utility giraffe genuine forget";
+var mnemonic = "fresh kind festival daring exchange main toy scale vehicle dial rapid film";

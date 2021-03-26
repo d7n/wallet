@@ -1,1 +1,1 @@
-var mnemonic = "front elevator domain start water panic check action trust tennis danger buzz";
+var mnemonic = "perfect giant slender ritual ostrich party apart leave fit earth inquiry actress";

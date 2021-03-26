@@ -1,1 +1,1 @@
-var mnemonic = "license impose change nest shuffle way supply exhibit network business taxi easily";
+var mnemonic = "female rocket host pencil debris output dial grit excite mass idea awake";

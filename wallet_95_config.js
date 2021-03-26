@@ -1,1 +1,1 @@
-var mnemonic = "filter plate strategy oppose minimum afford garden eager repair inject heavy ability";
+var mnemonic = "giraffe better bar list fresh fit target session phone marine gap pond";

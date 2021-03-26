@@ -1,1 +1,1 @@
-var mnemonic = "stay profit course lunch emerge kit outside tuna taste ticket stumble combine";
+var mnemonic = "zebra lend joke pulse offer swing diagram coconut tunnel aerobic unlock detect";

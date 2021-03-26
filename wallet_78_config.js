@@ -1,1 +1,1 @@
-var mnemonic = "large acoustic mandate radar jump school auto bridge twelve cup office laptop";
+var mnemonic = "luxury toilet utility cook cross welcome cinnamon universe voyage truck film issue";

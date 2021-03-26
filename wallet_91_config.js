@@ -1,1 +1,1 @@
-var mnemonic = "dutch define blue bone bottom crucial level cart float scale ring hour";
+var mnemonic = "deer soda memory balance will chair lady orient sand pluck dutch mystery";

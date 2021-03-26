@@ -1,1 +1,1 @@
-var mnemonic = "length very artist slush better shed ordinary planet banner gesture hill spoil";
+var mnemonic = "curtain tonight century phrase party ecology assist swamp very that horn treat";

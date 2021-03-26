@@ -1,1 +1,1 @@
-var mnemonic = "stomach tomorrow connect escape duck seat entire valley cradle absorb mask style";
+var mnemonic = "level report elbow ginger gadget enable ordinary sausage potato citizen repeat machine";

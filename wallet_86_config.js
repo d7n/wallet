@@ -1,1 +1,1 @@
-var mnemonic = "define small cook pink hockey ride air essay baby love vehicle blossom";
+var mnemonic = "valve offer rice magic orphan shrimp mad sort material brand mammal unique";

@@ -1,1 +1,1 @@
-var mnemonic = "park inch venue detail verify veteran notice cabin annual climb blast apart";
+var mnemonic = "eagle middle enter genre arrest swarm carry planet ladder scout doll embark";

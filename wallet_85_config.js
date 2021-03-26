@@ -1,1 +1,1 @@
-var mnemonic = "page since wheel exchange person sea blouse fly test like wrong top";
+var mnemonic = "stuff cargo library group puppy develop label leisure melody large turn limb";

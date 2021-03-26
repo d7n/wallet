@@ -1,1 +1,1 @@
-var mnemonic = "depart twelve dignity goddess chief uniform rebuild year other work copper absent";
+var mnemonic = "pride suggest rubber six stick average honey bachelor burden foil cruel eagle";

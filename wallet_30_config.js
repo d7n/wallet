@@ -1,1 +1,1 @@
-var mnemonic = "satoshi crime street pet federal dose gym lounge track panel page caution";
+var mnemonic = "behind hard cattle unhappy one addict theory quote remove way best throw";

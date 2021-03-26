@@ -1,1 +1,1 @@
-var mnemonic = "patient raise engine service figure story primary punch hamster misery pipe tank";
+var mnemonic = "notable during kiwi fine inspire eager custom series rug enemy amused spider";

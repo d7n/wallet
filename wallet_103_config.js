@@ -1,1 +1,1 @@
-var mnemonic = "flame pink adjust team acoustic access valley episode moral exhibit just balance";
+var mnemonic = "grab angle danger honey stand bubble cute device trim weasel moral aspect";

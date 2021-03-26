@@ -1,1 +1,1 @@
-var mnemonic = "grass size cluster cover above practice clutch skin manage mutual collect credit";
+var mnemonic = "satisfy pulp wood ancient patch teach ginger judge excite father silent lady";

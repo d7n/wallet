@@ -1,1 +1,1 @@
-var mnemonic = "gadget purity indoor cargo maid gospel tattoo avoid twist shuffle beauty gain";
+var mnemonic = "garlic disease inmate fault concert casino kitten nature ski glass because best";

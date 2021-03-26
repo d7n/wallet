@@ -1,1 +1,1 @@
-var mnemonic = "spot couple battle ginger naive response rich valve gym reward divorce design";
+var mnemonic = "resemble switch assist junior poet neck antique crouch accuse solid arrest heart";

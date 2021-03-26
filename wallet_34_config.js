@@ -1,1 +1,1 @@
-var mnemonic = "aim shove ask change dragon blame before scorpion number royal cabbage come";
+var mnemonic = "obey afford squirrel hamster vehicle bind snack deny fame quiz sphere remember";

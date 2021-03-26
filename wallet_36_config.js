@@ -1,1 +1,1 @@
-var mnemonic = "ancient find height lonely scissors diamond prevent split choice ecology raven finish";
+var mnemonic = "movie wet clarify web expose umbrella rug imitate collect spin deny hidden";

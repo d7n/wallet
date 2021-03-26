@@ -1,1 +1,1 @@
-var mnemonic = "slender canoe pumpkin start rebuild stem sustain month problem help off fold";
+var mnemonic = "reward layer pave scatter flame fuel bachelor small govern absent episode lake";

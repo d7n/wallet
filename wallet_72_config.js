@@ -1,1 +1,1 @@
-var mnemonic = "music ill first issue about earth stool scorpion leader tobacco uncle online";
+var mnemonic = "enact ticket slender world draw book also nominee combine kangaroo bike debris";

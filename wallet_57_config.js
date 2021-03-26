@@ -1,1 +1,1 @@
-var mnemonic = "world hub crane adjust sure because rough portion race raven walnut run";
+var mnemonic = "front child fee member pattern harsh debate trigger mind shop special ill";

@@ -1,1 +1,1 @@
-var mnemonic = "stock seed raw scene install mammal private govern pitch adult anchor acquire";
+var mnemonic = "grass fiscal cream bread caution truth mountain popular emerge develop obtain march";

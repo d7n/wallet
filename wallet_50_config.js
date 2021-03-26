@@ -1,1 +1,1 @@
-var mnemonic = "atom spread juice topic enter syrup vast spider domain suffer live estate";
+var mnemonic = "dutch danger delay wolf world spare weird ski head wrist season recycle";

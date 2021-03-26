@@ -1,1 +1,1 @@
-var mnemonic = "season purity language zebra ski steel clown expand donor battle jazz sponsor";
+var mnemonic = "board shoulder renew thrive error season catalog assume dice wing peanut entire";

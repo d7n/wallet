@@ -1,1 +1,1 @@
-var mnemonic = "away clock addict lumber window december cancel critic demise shoot earth sponsor";
+var mnemonic = "pill accident easy misery maple strong rhythm intact deer victory explain detail";

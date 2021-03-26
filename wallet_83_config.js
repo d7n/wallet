@@ -1,1 +1,1 @@
-var mnemonic = "tongue bridge leisure limb ketchup crawl peasant minor sail outer manual can";
+var mnemonic = "connect guide travel beef vintage change radar month cannon diamond raw blame";

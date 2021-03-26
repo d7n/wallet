@@ -1,1 +1,1 @@
-var mnemonic = "mechanic affair afford ozone cruel virus stadium rule visual twice odor ozone";
+var mnemonic = "culture circle local plug travel palace panel frog olive girl bid mask";

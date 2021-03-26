@@ -1,1 +1,1 @@
-var mnemonic = "drastic vacant cabin glare pattern purpose summer put help achieve easy defense";
+var mnemonic = "spy claim grain ivory pilot coconut next humble thunder food work wreck";

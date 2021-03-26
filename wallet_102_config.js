@@ -1,1 +1,1 @@
-var mnemonic = "gate various crawl valid filter arena rescue theory sniff special wink pool";
+var mnemonic = "sleep head else build almost hire enhance tray expire pizza man replace";

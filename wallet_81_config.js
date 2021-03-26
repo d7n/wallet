@@ -1,1 +1,1 @@
-var mnemonic = "summer upon tuition discover office sting young trim kick fun near armor";
+var mnemonic = "curious canal worry parrot ask black friend holiday mass monster upper perfect";

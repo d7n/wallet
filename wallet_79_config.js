@@ -1,1 +1,1 @@
-var mnemonic = "easily link theory narrow embark behind trend slight clump know arrest bronze";
+var mnemonic = "whale inch bless bargain quick bring welcome west energy sea smooth attack";

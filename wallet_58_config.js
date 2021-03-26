@@ -1,1 +1,1 @@
-var mnemonic = "among suggest beach trumpet juice level nasty report vacant print develop hello";
+var mnemonic = "ostrich divorce boy hunt wagon correct airport become guitar federal weird animal";

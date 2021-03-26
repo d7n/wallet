@@ -1,1 +1,1 @@
-var mnemonic = "select step tourist nice slice universe omit cause illness check infant rate";
+var mnemonic = "defy chapter member hold east win slot spray boost absent transfer hole";

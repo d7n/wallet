@@ -1,1 +1,1 @@
-var mnemonic = "major time cause exact panda good chicken slogan always mention acoustic problem";
+var mnemonic = "vapor extra state chapter lamp tilt arena spot solar snake fish drip";

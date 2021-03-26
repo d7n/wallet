@@ -1,1 +1,1 @@
-var mnemonic = "slab smooth safe coral upon under pipe talent science visual frown dutch";
+var mnemonic = "develop warfare affair duty kiwi grunt between offer bubble marriage predict first";

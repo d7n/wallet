@@ -1,1 +1,1 @@
-var mnemonic = "repeat derive slight great toss dice sign snap mushroom clown govern impulse";
+var mnemonic = "exchange tree upper attend strike defy apart kingdom material harsh gun yellow";

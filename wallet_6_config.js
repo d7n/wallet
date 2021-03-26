@@ -1,1 +1,1 @@
-var mnemonic = "below lab airport december result steel ivory have knock very pulp judge";
+var mnemonic = "west lab rug educate range mad hurdle material test virtual illegal install";

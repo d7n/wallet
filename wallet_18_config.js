@@ -1,1 +1,1 @@
-var mnemonic = "travel cruel doctor response dial bacon junior brisk similar hover shaft over";
+var mnemonic = "under clown render romance practice jump sense achieve rally sense reduce kingdom";

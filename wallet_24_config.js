@@ -1,1 +1,1 @@
-var mnemonic = "hero real hour work often glue mouse wheat faith better report urge";
+var mnemonic = "want disagree scout material gun tone worry actor wall lucky space secret";

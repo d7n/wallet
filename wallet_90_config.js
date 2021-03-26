@@ -1,1 +1,1 @@
-var mnemonic = "teach pilot alone latin fire foster type tomorrow illness ethics glove diet";
+var mnemonic = "wrong powder lunar veteran success chuckle proud wink olympic sing snow couch";

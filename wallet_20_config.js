@@ -1,1 +1,1 @@
-var mnemonic = "health enter act ecology light arrest sunset draft spot visa more liquid";
+var mnemonic = "turkey since wreck wink pyramid flush blame scheme exercise funny have sight";

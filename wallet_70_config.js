@@ -1,1 +1,1 @@
-var mnemonic = "square town light twenty adult donor own foster best before caught rhythm";
+var mnemonic = "dignity bubble spread wrap maze copper luxury seat diamond bike already impact";

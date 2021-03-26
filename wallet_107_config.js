@@ -1,1 +1,1 @@
-var mnemonic = "damp best labor october town basic can earth discover vibrant lobster admit";
+var mnemonic = "stand source virus exhibit ugly cherry include pave cart shed math metal";

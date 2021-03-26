@@ -1,1 +1,1 @@
-var mnemonic = "jeans remove match hundred rally muffin neither cheese outside vacant link pipe";
+var mnemonic = "flash lucky team enable glove unfold fiction patrol clog renew sick quality";

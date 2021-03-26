@@ -1,1 +1,1 @@
-var mnemonic = "concert myth salt series tell salmon afford device ball ribbon video pact";
+var mnemonic = "dice acid tiger arrest mushroom federal rotate gasp vehicle wool orient exact";

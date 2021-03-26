@@ -1,1 +1,1 @@
-var mnemonic = "science syrup song fabric shuffle snack under steak cereal surprise soft seek";
+var mnemonic = "labor salon crew office bleak grocery divide leader tackle glory skill artwork";

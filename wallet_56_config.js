@@ -1,1 +1,1 @@
-var mnemonic = "update faint deny mimic trash ride jar bleak junior film loud below";
+var mnemonic = "reason kick next trouble burden police perfect fit absurd wide rough flee";

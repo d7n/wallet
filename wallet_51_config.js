@@ -1,1 +1,1 @@
-var mnemonic = "involve verify defense swamp age wool skate swap park flag clog owner";
+var mnemonic = "pledge night problem cook kitchen another margin pioneer useful rotate category inhale";

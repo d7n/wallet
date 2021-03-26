@@ -1,1 +1,1 @@
-var mnemonic = "polar fitness potato treat cancel this accuse leopard object join toilet patient";
+var mnemonic = "humor rather cluster lizard wolf ten teach twelve worry cabbage great camera";

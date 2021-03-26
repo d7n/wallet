@@ -1,1 +1,1 @@
-var mnemonic = "happy black funny pond cheap poet lumber very service junk fiber quiz";
+var mnemonic = "heart outside naive fog keep middle wise armor acquire cannon supreme crew";

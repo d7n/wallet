@@ -1,1 +1,1 @@
-var mnemonic = "confirm sentence daughter book final unfair fee equal weird rifle vibrant coyote";
+var mnemonic = "prison gesture frown margin hedgehog pretty adapt legal march claw pretty pair";

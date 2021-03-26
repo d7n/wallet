@@ -1,1 +1,1 @@
-var mnemonic = "quiz trick model chair cheap bacon snake buzz medal whale bring aim";
+var mnemonic = "picnic region artist pulp defense kingdom salute horror veteran glow deny supply";

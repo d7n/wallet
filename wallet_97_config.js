@@ -1,1 +1,1 @@
-var mnemonic = "series forest doll notice cancel acquire unit seven work dash section decrease";
+var mnemonic = "march excuse lend garage army card enrich account pumpkin tooth boring deny";

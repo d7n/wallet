@@ -1,1 +1,1 @@
-var mnemonic = "pair clinic trumpet knee absurd daughter gown quick suit curtain egg copper";
+var mnemonic = "bonus real shoe neglect valid vapor claim purchase ripple play oval assume";
