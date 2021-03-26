@@ -1,1 +1,1 @@
-var mnemonic = "name shield analyst sorry caution fluid jaguar raccoon alter tone tomorrow hedgehog";
+var mnemonic = "baby spike sheriff whale enact onion guess notice decide divide social artefact";

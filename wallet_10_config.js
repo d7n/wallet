@@ -1,1 +1,1 @@
-var mnemonic = "celery dumb victory achieve lonely never property push depend guide success just";
+var mnemonic = "only border travel daughter program enable drift salad robust excite rose cave";

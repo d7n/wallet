@@ -1,1 +1,1 @@
-var mnemonic = "outside three unit alcohol swear sign strong gas clog maximum nephew exit";
+var mnemonic = "pony deny finger stay oil phrase sample main equip height cheese auto";

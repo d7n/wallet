@@ -1,1 +1,1 @@
-var mnemonic = "intact heavy arctic accident consider dinosaur there you melody twelve already pole";
+var mnemonic = "harbor laptop veteran swap latin pluck learn muffin latin body summer labor";

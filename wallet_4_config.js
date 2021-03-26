@@ -1,1 +1,1 @@
-var mnemonic = "liquid fire cattle evolve kid bless remember peace cupboard fatal recipe coast";
+var mnemonic = "gospel fish prevent dumb iron smoke foster neither truly bone click afford";

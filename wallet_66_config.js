@@ -1,1 +1,1 @@
-var mnemonic = "motor effort recipe path test amateur tissue defense cake oxygen upset rough";
+var mnemonic = "icon group version ecology broccoli cabin fork sphere era stem pause myself";

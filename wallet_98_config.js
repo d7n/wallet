@@ -1,1 +1,1 @@
-var mnemonic = "toilet album easily exclude smart brass marine nerve hip skin punch motion";
+var mnemonic = "initial purity chest ride emerge chronic cousin grid erode curious lazy diet";

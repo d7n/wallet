@@ -1,1 +1,1 @@
-var mnemonic = "frost always faith apart glow melody screen sausage home spread lava glad";
+var mnemonic = "whale avoid muffin regret cave sister capable timber extend kid camera chat";

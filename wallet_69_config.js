@@ -1,1 +1,1 @@
-var mnemonic = "hour exchange pledge excuse time describe surprise index vocal still ice clap";
+var mnemonic = "avocado color drift twelve sad burger antenna bar disorder crouch under drive";

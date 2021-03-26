@@ -1,1 +1,1 @@
-var mnemonic = "resist message motion clarify slogan tower athlete rare clog wild melt ocean";
+var mnemonic = "ridge join refuse then indoor ocean address rescue dilemma someone frog weather";

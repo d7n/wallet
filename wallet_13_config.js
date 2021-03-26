@@ -1,1 +1,1 @@
-var mnemonic = "talent steak rug good funny special same cool denial abstract derive shell";
+var mnemonic = "easily power duck grape dawn story foil people retire summer glance spend";

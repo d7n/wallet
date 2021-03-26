@@ -1,1 +1,1 @@
-var mnemonic = "ball brick marriage better pattern toe bubble talent ability almost bamboo select";
+var mnemonic = "donate muscle alley detail six glass major earth adjust brave razor swallow";

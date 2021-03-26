@@ -1,1 +1,1 @@
-var mnemonic = "travel clutch reform slide slot purity arrest endless general arm bag afraid";
+var mnemonic = "speak cover unknown alert tell air boy day arena skirt base budget";

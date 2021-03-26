@@ -1,1 +1,1 @@
-var mnemonic = "stomach together strategy degree alert dumb broccoli rich cannon differ august clutch";
+var mnemonic = "hammer wrong topic crawl zone advance daughter chimney verb gather carry tissue";

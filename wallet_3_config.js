@@ -1,1 +1,1 @@
-var mnemonic = "rose never speed crawl ready surprise aerobic valve high odor rabbit celery";
+var mnemonic = "slide ride oven marriage future swear mobile unfold fix chase fetch heavy";

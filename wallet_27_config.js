@@ -1,1 +1,1 @@
-var mnemonic = "jewel whale train exotic deliver raven describe ride measure actor wood economy";
+var mnemonic = "humble sample fuel mask then stay slight outer family ordinary casino shallow";

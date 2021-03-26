@@ -1,1 +1,1 @@
-var mnemonic = "airport napkin horror limb inspire crack always favorite injury deposit burst solid";
+var mnemonic = "select lawn nominee bamboo custom grief left enroll tomorrow improve plastic remember";

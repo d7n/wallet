@@ -1,1 +1,1 @@
-var mnemonic = "ocean armed rare mixed jewel lunar unfold sand high canvas essence gather";
+var mnemonic = "twenty genius tree example glance math dolphin always purity stand riot impose";

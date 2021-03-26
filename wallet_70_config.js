@@ -1,1 +1,1 @@
-var mnemonic = "lemon jungle smooth alone retire cigar length room weapon wolf task bomb";
+var mnemonic = "radar kick define shiver special assault inhale misery airport dish material chronic";

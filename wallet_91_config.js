@@ -1,1 +1,1 @@
-var mnemonic = "artefact neck habit human word anxiety thought simple language truck bullet describe";
+var mnemonic = "absent cream autumn speak retreat flag recipe cat kiss change scare soup";

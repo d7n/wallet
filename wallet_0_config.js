@@ -1,1 +1,1 @@
-var mnemonic = "wife shell blue coffee close act hospital buddy piano deposit method bounce";
+var mnemonic = "slim frequent safe carry verb crystal blouse crime turtle bullet deer frost";

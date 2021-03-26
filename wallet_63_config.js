@@ -1,1 +1,1 @@
-var mnemonic = "census convince curve mansion travel solid become equal hood arrow sick barrel";
+var mnemonic = "oyster alien cheese figure knee horror believe sick family reveal tent amateur";

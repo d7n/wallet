@@ -1,1 +1,1 @@
-var mnemonic = "nasty caught equal forum bag upper game cement traffic dwarf kite comic";
+var mnemonic = "lift cabin system project pulp month mass trap barely grunt zone patch";

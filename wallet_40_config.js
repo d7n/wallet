@@ -1,1 +1,1 @@
-var mnemonic = "focus erosion labor abuse improve cabbage badge age junior merit winter live";
+var mnemonic = "annual jewel angry more problem help aware despair drop bachelor one fiber";

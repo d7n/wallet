@@ -1,1 +1,1 @@
-var mnemonic = "hire cable remain cancel enemy ball nothing age icon control surface feature";
+var mnemonic = "shaft economy grant patrol perfect man report taste nature grass tray rocket";

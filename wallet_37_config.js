@@ -1,1 +1,1 @@
-var mnemonic = "drastic announce piece among jacket coyote any legend spawn purse evil ticket";
+var mnemonic = "high ready tourist ghost brave device trial major legend two year super";

@@ -1,1 +1,1 @@
-var mnemonic = "alone clown dose claw spend advance gun lock tribe evidence diamond craft";
+var mnemonic = "jungle will garbage jacket merge cinnamon record caution sniff curtain improve web";

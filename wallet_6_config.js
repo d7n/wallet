@@ -1,1 +1,1 @@
-var mnemonic = "soup gesture defense blade unaware jazz track symbol combine wood wealth lab";
+var mnemonic = "chicken favorite diamond situate business shock walk side sentence bid yard unique";

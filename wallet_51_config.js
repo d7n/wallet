@@ -1,1 +1,1 @@
-var mnemonic = "chalk scatter spatial spin unit candy surprise ahead second subway hedgehog elder";
+var mnemonic = "place special primary vendor loop dose cage guitar total renew maze spatial";

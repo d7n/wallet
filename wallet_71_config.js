@@ -1,1 +1,1 @@
-var mnemonic = "engage bid have food cover release fall rookie sand spray diet project";
+var mnemonic = "lucky service sun tomato bullet blast innocent silk coral hurdle hover mask";

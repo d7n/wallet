@@ -1,1 +1,1 @@
-var mnemonic = "mad neck hair stage slice turtle define budget music interest hamster plunge";
+var mnemonic = "thought harbor spoil bitter luxury width vital struggle floor future harsh aim";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur deny diamond moment parent pioneer bomb ring ugly south example interest";
+var mnemonic = "impulse cement change capital blossom shrug barely loud salt arrive possible fork";

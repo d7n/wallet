@@ -1,1 +1,1 @@
-var mnemonic = "alert song moment beyond neck attract write wrap gallery pride layer note";
+var mnemonic = "sniff another struggle attack expand loan twice buzz sadness comfort carpet train";

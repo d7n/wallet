@@ -1,1 +1,1 @@
-var mnemonic = "flavor give fold culture amount cook belt rural property much panda estate";
+var mnemonic = "amused announce weapon before remember cargo witness type chief feature vague post";

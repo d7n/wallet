@@ -1,1 +1,1 @@
-var mnemonic = "fringe junior pumpkin inhale like basic tent uniform odor palm cereal cheap";
+var mnemonic = "warm clerk crew genius silver improve awkward badge normal list rely burden";

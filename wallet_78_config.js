@@ -1,1 +1,1 @@
-var mnemonic = "smooth grant inject gossip together gas strong captain grid shoot impose accuse";
+var mnemonic = "wild aim coffee remove mystery fetch oil absorb print fall silk crouch";

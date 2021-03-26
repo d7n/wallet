@@ -1,1 +1,1 @@
-var mnemonic = "sting victory list unhappy short faculty move travel dwarf indicate bonus key";
+var mnemonic = "energy host garden clap copy thumb depth candy combine federal token shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "tide couch front front chunk woman cart castle hour olive bargain ketchup";
+var mnemonic = "decline six else morning recycle govern puzzle marine credit title over later";

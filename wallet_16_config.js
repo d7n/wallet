@@ -1,1 +1,1 @@
-var mnemonic = "joke field object busy quantum mushroom unhappy rotate skirt uniform body twice";
+var mnemonic = "gift trash ridge forward wear inspire element festival flower motion sugar long";

@@ -1,1 +1,1 @@
-var mnemonic = "modify universe embody slide rhythm what fuel retire fog trip occur figure";
+var mnemonic = "unfold budget focus jealous trophy glimpse put abstract aware tell emotion answer";

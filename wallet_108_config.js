@@ -1,1 +1,1 @@
-var mnemonic = "half office frog range quote cattle wonder shy broccoli burst bright dinosaur";
+var mnemonic = "local cause thrive auto into depend apart tomorrow silver shell valid hazard";

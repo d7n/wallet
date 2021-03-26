@@ -1,1 +1,1 @@
-var mnemonic = "antenna cost similar panel theory raccoon swim spell stem patient floor trigger";
+var mnemonic = "book bronze riot gadget negative plastic add alert hobby pole vocal critic";

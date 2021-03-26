@@ -1,1 +1,1 @@
-var mnemonic = "tuition legal curve truck enough report dinosaur gadget romance budget message transfer";
+var mnemonic = "flash pride plate number drama seven remove stick property document bunker crumble";

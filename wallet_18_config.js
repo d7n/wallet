@@ -1,1 +1,1 @@
-var mnemonic = "describe trophy sick miracle kiss noodle base bracket lunar shift junk tooth";
+var mnemonic = "cool vote assault ball dynamic bronze park ginger frost cross beef year";

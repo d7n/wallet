@@ -1,1 +1,1 @@
-var mnemonic = "inquiry peanut december flight humor mutual yard mesh gather palm peanut van";
+var mnemonic = "smile infant edit trigger source midnight rhythm trumpet below increase snow bread";

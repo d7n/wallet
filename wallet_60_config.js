@@ -1,1 +1,1 @@
-var mnemonic = "mask sorry collect cricket system run inspire father clerk isolate piece sort";
+var mnemonic = "fog very weasel ginger anxiety toss mean mushroom tunnel earn drill never";

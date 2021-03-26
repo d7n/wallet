@@ -1,1 +1,1 @@
-var mnemonic = "correct blouse helmet change trim fire remind position lizard wide review uncle";
+var mnemonic = "play where agree illness gap spread devote frog eager enlist bid verb";

@@ -1,1 +1,1 @@
-var mnemonic = "simple labor ozone slam develop wire gate raw manage tonight hen oak";
+var mnemonic = "poem rifle tide bachelor aerobic suffer custom near blouse twenty dinner chat";

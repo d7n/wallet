@@ -1,1 +1,1 @@
-var mnemonic = "neither between rookie session answer damage refuse waste alarm plate sorry stove";
+var mnemonic = "theme swear share library canal accuse accident adult predict clay census flat";

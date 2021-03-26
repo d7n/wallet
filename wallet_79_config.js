@@ -1,1 +1,1 @@
-var mnemonic = "bicycle six stairs viable farm grace find real know ethics wish pitch";
+var mnemonic = "image okay winter trial cloth head maple sunset depend prepare minor goddess";

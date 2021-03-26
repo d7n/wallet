@@ -1,1 +1,1 @@
-var mnemonic = "live energy antenna basket parade detect forum tooth labor pride hard abandon";
+var mnemonic = "rescue enlist tribe awful mosquito vicious spread van treat stage accuse reject";

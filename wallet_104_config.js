@@ -1,1 +1,1 @@
-var mnemonic = "mansion toddler oak property smile dream color fiber attitude junk taxi mesh";
+var mnemonic = "route solve ozone table ranch doctor wet raccoon poem various corn option";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion loud inmate noise crash language truth wonder jungle traffic attitude empower";
+var mnemonic = "material blush cactus inspire icon hedgehog mechanic doctor neck dizzy cupboard trend";

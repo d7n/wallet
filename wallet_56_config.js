@@ -1,1 +1,1 @@
-var mnemonic = "whale long enrich oval fabric fan uniform black inmate miracle whip window";
+var mnemonic = "episode beauty this imitate cinnamon can lock divorce social song silly write";

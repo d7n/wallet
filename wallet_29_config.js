@@ -1,1 +1,1 @@
-var mnemonic = "wide puzzle infant drastic eager turtle shaft upper fresh avoid dad easily";
+var mnemonic = "law creek coach science weapon team fold silk entry hunt crush boy";

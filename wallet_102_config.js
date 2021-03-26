@@ -1,1 +1,1 @@
-var mnemonic = "pupil audit rule between story mango sense inner sure comfort quality subway";
+var mnemonic = "word practice lake meat arrive together black engine ridge crowd sense train";

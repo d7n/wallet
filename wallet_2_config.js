@@ -1,1 +1,1 @@
-var mnemonic = "toe action earn misery purity junk hedgehog plug dentist around snow better";
+var mnemonic = "parent piece around monitor vacuum pink auto lab mirror river episode napkin";

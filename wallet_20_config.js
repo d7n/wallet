@@ -1,1 +1,1 @@
-var mnemonic = "spread carpet raise develop forward atom like appear they peanut dose arrow";
+var mnemonic = "metal alert captain orient conduct deposit pass monkey column forum dumb goose";

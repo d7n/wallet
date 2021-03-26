@@ -1,1 +1,1 @@
-var mnemonic = "bread exact property figure jewel render grocery entire project strong luggage select";
+var mnemonic = "remove dragon climb absurd bless avoid impose gauge fancy swallow lonely own";

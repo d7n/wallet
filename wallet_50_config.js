@@ -1,1 +1,1 @@
-var mnemonic = "trim speak ripple fog ahead punch budget walnut coconut letter light shed";
+var mnemonic = "cloth toilet clutch story vessel boss knee sun edge shove gate they";

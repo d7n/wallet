@@ -1,1 +1,1 @@
-var mnemonic = "begin buddy evil shy flag trash dial never around climb solar observe";
+var mnemonic = "genuine since shuffle food pattern document upper purpose wear digital faculty action";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle kangaroo slush bicycle uphold exist scare critic inner blouse idea protect";
+var mnemonic = "icon wash front hill route kiwi crash gauge indicate average focus street";

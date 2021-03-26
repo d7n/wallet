@@ -1,1 +1,1 @@
-var mnemonic = "ring love orchard quantum sand attract pear stable net alley eager suffer";
+var mnemonic = "wing urge real scene enroll brave scan because child alert venture kitten";

@@ -1,1 +1,1 @@
-var mnemonic = "crazy amount annual dinosaur castle torch talent topple since special require flush";
+var mnemonic = "team goat inquiry bubble crystal length welcome napkin immense fabric core assault";

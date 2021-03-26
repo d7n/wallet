@@ -1,1 +1,1 @@
-var mnemonic = "wrap cluster wrap wild law borrow broken edit present toddler distance ripple";
+var mnemonic = "field soul provide assist frozen climb panda chest ankle say athlete wife";

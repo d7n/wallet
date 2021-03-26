@@ -1,1 +1,1 @@
-var mnemonic = "stomach gain alter boost logic manage property paddle board rebuild radio join";
+var mnemonic = "boy bid egg brother dynamic nature february author blush early pencil spatial";

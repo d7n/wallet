@@ -1,1 +1,1 @@
-var mnemonic = "tribe nut patient victory major armed sort guess aim gym undo traffic";
+var mnemonic = "orbit tennis chalk escape income depth benefit organ subway chalk foil scene";

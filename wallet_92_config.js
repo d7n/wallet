@@ -1,1 +1,1 @@
-var mnemonic = "chief across copy vote obtain exact rent legal bag latin lonely team";
+var mnemonic = "violin hurt crime pepper equip airport syrup supply legal unhappy cactus neither";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey turtle alien cash road learn express include end improve merry twist";
+var mnemonic = "transfer stool swear marine creek picture salmon peace truth initial secret example";

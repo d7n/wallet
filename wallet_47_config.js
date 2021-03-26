@@ -1,1 +1,1 @@
-var mnemonic = "behave choice spare egg apology jar index like title person timber cheap";
+var mnemonic = "cause occur wave shiver family advice caution now worth noodle deputy cover";

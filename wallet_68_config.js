@@ -1,1 +1,1 @@
-var mnemonic = "lady tortoise wolf seek again inquiry ketchup cupboard fiber debris adapt render";
+var mnemonic = "pond list obtain movie illness fury mask agree install number smoke spread";

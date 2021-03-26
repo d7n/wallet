@@ -1,1 +1,1 @@
-var mnemonic = "traffic sorry snake cluster hand frost guide alert vocal inmate clip auction";
+var mnemonic = "hundred enrich patient inject code deposit cupboard brand balcony cargo magnet zero";

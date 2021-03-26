@@ -1,1 +1,1 @@
-var mnemonic = "burger monitor approve ozone purchase patch list cherry fun regular flash glass";
+var mnemonic = "arrow series fence nation fury habit foam tip cancel pottery clarify card";

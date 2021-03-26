@@ -1,1 +1,1 @@
-var mnemonic = "misery piece almost ship rice error image odor equal expose cost romance";
+var mnemonic = "corn act humble six salad surround worth endless step insect hair dirt";

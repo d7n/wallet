@@ -1,1 +1,1 @@
-var mnemonic = "write number bone satoshi video student cash shy satoshi lazy service middle";
+var mnemonic = "north doll track remove hidden quit miracle oyster save recall rail record";

@@ -1,1 +1,1 @@
-var mnemonic = "organ crazy one clown allow kick join brand beef cram service protect";
+var mnemonic = "peace tide plastic planet unaware diet lava turtle tired seminar weather brown";

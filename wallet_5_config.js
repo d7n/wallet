@@ -1,1 +1,1 @@
-var mnemonic = "desk unfair farm race task invest pen romance lend copper bounce gather";
+var mnemonic = "piano syrup devote air penalty supreme slush already pill miracle vessel mixture";

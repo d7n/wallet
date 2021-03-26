@@ -1,1 +1,1 @@
-var mnemonic = "sniff replace excess casino trash valley split damp fatal divorce tackle tent";
+var mnemonic = "wolf shove dust beauty wash clever toy future pact foam core tree";

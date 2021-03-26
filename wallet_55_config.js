@@ -1,1 +1,1 @@
-var mnemonic = "quarter enjoy agree recipe any model grid process candy all common various";
+var mnemonic = "walk else mystery grocery series gospel obtain mask annual pause clock suffer";

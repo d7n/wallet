@@ -1,1 +1,1 @@
-var mnemonic = "pretty trend diamond behave brick liar bunker raccoon drama vehicle among response";
+var mnemonic = "silver forest tattoo narrow ranch horn peasant life alien educate fringe hub";

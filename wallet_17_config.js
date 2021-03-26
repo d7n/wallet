@@ -1,1 +1,1 @@
-var mnemonic = "improve guitar elephant lake run mansion must cannon invest elephant jewel choice";
+var mnemonic = "taste curtain diesel cushion great moon crumble surprise yard comic soccer tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "floor arrest brief click equip mule dismiss spoil census people panther number";
+var mnemonic = "pitch absorb town amazing blue mutual deputy shed combine wood symbol silk";

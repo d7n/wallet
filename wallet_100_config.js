@@ -1,1 +1,1 @@
-var mnemonic = "oblige world priority office toss notable pair route priority clean choose twenty";
+var mnemonic = "umbrella sibling faint audit riot picture practice diet mercy face siren tray";

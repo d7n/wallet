@@ -1,1 +1,1 @@
-var mnemonic = "sense useful able regular response kid wolf swear loyal walk sister payment";
+var mnemonic = "all silver mouse style various rubber return raise honey tone major bag";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn coyote monster report since play outdoor dust call grunt engage taste";
+var mnemonic = "skull ripple fun scout vapor distance rival foil chase despair agree bless";

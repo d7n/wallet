@@ -1,1 +1,1 @@
-var mnemonic = "nurse pioneer flame wire baby crash again cool fee curtain transfer dish";
+var mnemonic = "glare awkward lion fiction entire genre team slam need physical dragon relax";

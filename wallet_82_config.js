@@ -1,1 +1,1 @@
-var mnemonic = "powder mouse fat attitude horror panic fatal garden uncover bread radar matrix";
+var mnemonic = "stool promote panther stay fun hotel session ketchup cliff weather assist decorate";
