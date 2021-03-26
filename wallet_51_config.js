@@ -1,1 +1,1 @@
-var mnemonic = "explain foot hammer praise try hour dish occur talk lazy rural dust";
+var mnemonic = "nature butter coach faculty reunion rude reform clump census peanut cupboard online";

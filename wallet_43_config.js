@@ -1,1 +1,1 @@
-var mnemonic = "romance uncover surround host tonight sure load glass cement scan kidney spin";
+var mnemonic = "envelope lava omit borrow warfare spin stove purpose high legal dynamic witness";

@@ -1,1 +1,1 @@
-var mnemonic = "oak apart sad robot crazy lift vacant place identify aunt spring eternal";
+var mnemonic = "caution jealous flat spend demise harsh great hint aware ready category arrest";

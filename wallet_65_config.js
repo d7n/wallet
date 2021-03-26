@@ -1,1 +1,1 @@
-var mnemonic = "rare must float trap able wedding man deputy twelve shadow impulse conduct";
+var mnemonic = "memory dash praise copy drift behind another script clerk actress fetch wrist";

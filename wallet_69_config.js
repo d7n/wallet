@@ -1,1 +1,1 @@
-var mnemonic = "palm copper safe zero chest someone life crew allow custom maximum renew";
+var mnemonic = "shrug bulk off enroll state desert budget health summer come broom catch";

@@ -1,1 +1,1 @@
-var mnemonic = "network eye inspire explain degree pool curtain wisdom thumb reject sentence grape";
+var mnemonic = "amused enact clerk acoustic virus airport trumpet tomato wait simple resource boil";

@@ -1,1 +1,1 @@
-var mnemonic = "hill muffin scout rack shuffle profit inch amateur brand title half spoil";
+var mnemonic = "bind ahead nominee biology copper sunny hobby excess patrol abandon cross engage";

@@ -1,1 +1,1 @@
-var mnemonic = "piano blanket cliff chef payment decide bread initial thing basic juice nuclear";
+var mnemonic = "cable erupt receive brain young latin liar gate bullet agree olive toss";

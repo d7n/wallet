@@ -1,1 +1,1 @@
-var mnemonic = "awake spatial helmet mistake scorpion web index income inmate mercy winter host";
+var mnemonic = "walnut universe lecture nasty insane hedgehog all response wealth square lesson skull";

@@ -1,1 +1,1 @@
-var mnemonic = "half palace spray private what rug firm romance slow tomato hero ankle";
+var mnemonic = "aerobic broom actress fever luggage motor beyond unaware soft bomb love filter";

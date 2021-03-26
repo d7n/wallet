@@ -1,1 +1,1 @@
-var mnemonic = "usage excess october sponsor music impulse gap half future rookie capable yellow";
+var mnemonic = "chicken wheel banana arrive high anger shed announce couple scissors truth remember";

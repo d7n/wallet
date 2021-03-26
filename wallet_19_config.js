@@ -1,1 +1,1 @@
-var mnemonic = "stool fat fatal siren tide tissue assault maximum parade prefer rubber found";
+var mnemonic = "motor ribbon meat just humble panther describe consider release shoot tuna whale";

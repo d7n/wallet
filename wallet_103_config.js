@@ -1,1 +1,1 @@
-var mnemonic = "genius someone north exist insane vote ghost monster kingdom dice prevent profit";
+var mnemonic = "plastic lunar cigar canal bundle hockey draw tilt energy source dizzy valve";

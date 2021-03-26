@@ -1,1 +1,1 @@
-var mnemonic = "thing twice blanket beauty awesome hand agent female thing butter potato style";
+var mnemonic = "forget basic parrot mother drift debris tree involve hospital word slender hundred";

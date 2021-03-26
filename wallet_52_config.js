@@ -1,1 +1,1 @@
-var mnemonic = "dilemma elegant scene exclude bamboo ignore surface buddy rate sniff humor amateur";
+var mnemonic = "meadow mimic one brand tent village rather eternal van apple breeze twenty";

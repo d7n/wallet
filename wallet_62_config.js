@@ -1,1 +1,1 @@
-var mnemonic = "pilot buyer reveal inspire bird dial idle sure water sphere seven apology";
+var mnemonic = "time utility visual inhale saddle real decorate force similar buyer view scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "gain spatial become sound ankle trophy elephant plug truck blur embrace loyal";
+var mnemonic = "awake helmet agree diesel cargo pet whip asthma obtain ridge because candy";

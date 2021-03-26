@@ -1,1 +1,1 @@
-var mnemonic = "board wood puppy magnet choice cancel fancy road morning muscle jacket adapt";
+var mnemonic = "bar mule turn dry extra symptom feed push group evidence luxury burst";

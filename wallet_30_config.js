@@ -1,1 +1,1 @@
-var mnemonic = "december wood census umbrella lady material hotel pulse illegal dust quality original";
+var mnemonic = "obscure exercise party axis cat normal glide any actual rough ticket supply";

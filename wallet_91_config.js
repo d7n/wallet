@@ -1,1 +1,1 @@
-var mnemonic = "eight vendor salmon estate cancel boat future evoke wool truly crash novel";
+var mnemonic = "cry vanish dream cricket field dial minute sad cycle submit child transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "giant sudden simple blind radio grass burger knock miss warm outdoor crane";
+var mnemonic = "turkey tunnel lizard reform pupil left embrace pear exclude stable heart leisure";

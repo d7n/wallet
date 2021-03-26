@@ -1,1 +1,1 @@
-var mnemonic = "denial fat buffalo labor casino regret absent pulse sword convince north million";
+var mnemonic = "stable nerve long giggle rebel tornado agent rug uncle room beef relax";

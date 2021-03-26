@@ -1,1 +1,1 @@
-var mnemonic = "sadness umbrella vivid pyramid blind code puppy enjoy orphan marine accuse method";
+var mnemonic = "mimic remove post review smoke pony orchard corn limit sadness cloud fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "say paper change cute warrior subject yard accuse ritual urge enable guide";
+var mnemonic = "please select measure badge excess direct bulk design bomb gentle sphere buzz";

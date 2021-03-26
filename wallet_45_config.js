@@ -1,1 +1,1 @@
-var mnemonic = "maximum problem movie drift delay tell future predict attend benefit behave corn";
+var mnemonic = "rice pencil ivory humble ankle fine mushroom hip silly cash kingdom stand";

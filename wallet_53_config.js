@@ -1,1 +1,1 @@
-var mnemonic = "wrap vintage wrong hen summer pupil armed puppy tail myth around mass";
+var mnemonic = "rather original broom roof tiny swarm eager bracket hobby baby ritual cup";

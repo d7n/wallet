@@ -1,1 +1,1 @@
-var mnemonic = "glove depart option mind cram mass thing carbon route marriage lesson field";
+var mnemonic = "stuff magic better train kitchen owner hidden horror mosquito scan coffee hurry";

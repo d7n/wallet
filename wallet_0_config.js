@@ -1,1 +1,1 @@
-var mnemonic = "rebuild beauty reopen tobacco eye coast curtain arrow group razor myself target";
+var mnemonic = "gallery cargo they common antique curious ahead conduct two ready pioneer coffee";

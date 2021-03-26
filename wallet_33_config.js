@@ -1,1 +1,1 @@
-var mnemonic = "purpose beauty brain inspire mystery total green only ivory squeeze trial head";
+var mnemonic = "slide crowd bunker swim pave jaguar average unveil hedgehog visa match enter";

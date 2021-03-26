@@ -1,1 +1,1 @@
-var mnemonic = "distance genius enact master inner flame waste baby black chat now use";
+var mnemonic = "clerk duck evoke flock tongue enemy choice tell cancel impulse phone window";

@@ -1,1 +1,1 @@
-var mnemonic = "same craft case sadness garden near vessel kitten cattle pulp brass shrimp";
+var mnemonic = "sample afford hair fiber hint rely century picture away favorite alcohol zone";

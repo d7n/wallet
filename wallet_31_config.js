@@ -1,1 +1,1 @@
-var mnemonic = "foil heart normal tray palace scene planet chimney giggle milk nice save";
+var mnemonic = "box airport aware energy soon twenty guide music enroll soft genuine crime";

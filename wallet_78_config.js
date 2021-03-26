@@ -1,1 +1,1 @@
-var mnemonic = "spider major key nurse welcome glad barrel mad elite solution hybrid dumb";
+var mnemonic = "clean way oxygen foam fashion wing year clump purse dismiss essence gentle";

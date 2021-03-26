@@ -1,1 +1,1 @@
-var mnemonic = "parent slight cupboard wait make cram raccoon other fault name silent joy";
+var mnemonic = "celery churn poem ability embrace put suggest staff increase rigid kiss waste";

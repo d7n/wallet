@@ -1,1 +1,1 @@
-var mnemonic = "carbon absorb combine sustain front soccer crash hidden bicycle boil diesel disorder";
+var mnemonic = "december code arctic illegal process action chicken unfair unable explain next narrow";

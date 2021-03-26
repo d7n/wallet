@@ -1,1 +1,1 @@
-var mnemonic = "lesson someone mule brisk thought sail hurt anger olive whip harvest absent";
+var mnemonic = "bachelor grow pony heavy unveil detect unit dutch term equal fold glue";

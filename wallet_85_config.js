@@ -1,1 +1,1 @@
-var mnemonic = "bird bless company loan place shiver charge tourist observe weasel seek rifle";
+var mnemonic = "enhance syrup riot announce laptop draw ranch lounge funny cash region lunch";

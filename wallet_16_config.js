@@ -1,1 +1,1 @@
-var mnemonic = "reduce ask runway bird plate key expect spring brother marine decorate attend";
+var mnemonic = "claw birth custom raven winner two pottery erosion wing because toward tobacco";

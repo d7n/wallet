@@ -1,1 +1,1 @@
-var mnemonic = "fall work head seat vault pigeon vintage option broom trial october denial";
+var mnemonic = "network spin fiber album blur weekend vault liquid before party crouch era";

@@ -1,1 +1,1 @@
-var mnemonic = "slush coil fall equal dawn century rose erode chicken tortoise bundle width";
+var mnemonic = "leg cute chef enroll village airport gospel stage fix gauge aerobic teach";

@@ -1,1 +1,1 @@
-var mnemonic = "concert fun fresh always across sniff hello swim keen point shell wisdom";
+var mnemonic = "wave swap equip pizza crisp owner valve fetch bottom movie inflict raccoon";

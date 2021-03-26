@@ -1,1 +1,1 @@
-var mnemonic = "cube option admit enact bone follow wonder globe rib clever depth indicate";
+var mnemonic = "pride liquid boat open crew wool throw beef daring harbor hair fragile";

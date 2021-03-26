@@ -1,1 +1,1 @@
-var mnemonic = "inhale edit hamster solution ensure color chalk minute rate tell media nation";
+var mnemonic = "jazz cruise web cute chimney orphan pear same hello neck little sorry";

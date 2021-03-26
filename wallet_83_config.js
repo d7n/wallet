@@ -1,1 +1,1 @@
-var mnemonic = "valid grow destroy spice struggle accident holiday drum butter stone attract book";
+var mnemonic = "vivid wall badge miss axis print cushion tattoo rapid wasp uniform cupboard";

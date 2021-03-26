@@ -1,1 +1,1 @@
-var mnemonic = "outdoor extra recall fine common vital shy drop hammer ozone cart lava";
+var mnemonic = "puzzle grab topple artist buyer car capable giant rather polar duty civil";

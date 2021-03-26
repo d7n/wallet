@@ -1,1 +1,1 @@
-var mnemonic = "bubble update absurd current purpose craft jealous guitar climb divert pitch write";
+var mnemonic = "feel clip project orient country napkin peasant adult ginger develop twelve memory";

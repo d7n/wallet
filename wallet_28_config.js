@@ -1,1 +1,1 @@
-var mnemonic = "price snake term dynamic shallow asset local deer giggle miracle valley social";
+var mnemonic = "come shuffle pistol icon bird enjoy build forest section rough pulse radio";

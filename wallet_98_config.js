@@ -1,1 +1,1 @@
-var mnemonic = "one shaft express oppose follow board tobacco stem reward lottery topple beach";
+var mnemonic = "evil arctic unlock vapor sail trouble later motion make snack ride echo";

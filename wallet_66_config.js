@@ -1,1 +1,1 @@
-var mnemonic = "ginger virus vivid skin road frog language decorate increase artefact feel expand";
+var mnemonic = "million hundred very right age across sort mean open best fault soup";

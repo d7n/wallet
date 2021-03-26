@@ -1,1 +1,1 @@
-var mnemonic = "foil club praise essence betray sadness put fiction leg pupil second worth";
+var mnemonic = "deposit elevator retire senior minor retire motion sure daughter march useless jar";

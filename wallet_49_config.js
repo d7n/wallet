@@ -1,1 +1,1 @@
-var mnemonic = "aware argue inhale easily absorb burden crack bridge address artwork way drastic";
+var mnemonic = "crop aunt current struggle reduce slender turn nature sign code vicious long";

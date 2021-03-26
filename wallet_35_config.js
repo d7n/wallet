@@ -1,1 +1,1 @@
-var mnemonic = "maximum muffin false picnic color double edit dizzy envelope noble path hope";
+var mnemonic = "flip address cycle abuse large blouse mind sound life hundred behave series";

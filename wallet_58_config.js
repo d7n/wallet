@@ -1,1 +1,1 @@
-var mnemonic = "young resource curious draft movie kingdom equip robust merge outer movie cage";
+var mnemonic = "neither album artwork sphere voice enable hen drip atom brief paddle tiger";

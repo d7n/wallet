@@ -1,1 +1,1 @@
-var mnemonic = "relief jealous best agent arrow hint speed pulp lazy news trend sword";
+var mnemonic = "reunion farm envelope vault learn dismiss genre smart trim struggle sell gallery";

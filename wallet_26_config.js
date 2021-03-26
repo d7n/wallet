@@ -1,1 +1,1 @@
-var mnemonic = "myth aunt group jaguar veteran caught drum peace comfort wheel describe system";
+var mnemonic = "achieve lawsuit vacuum outer about buzz cushion demand crawl door describe frown";

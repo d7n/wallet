@@ -1,1 +1,1 @@
-var mnemonic = "say hover index sing delay cat suspect biology member fringe glue cash";
+var mnemonic = "few weapon monitor tip private laptop since dentist degree mixture adult high";

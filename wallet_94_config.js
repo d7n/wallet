@@ -1,1 +1,1 @@
-var mnemonic = "prize actual soda friend private stumble unable flash sunny cross main core";
+var mnemonic = "monster caution boost material merry unusual paddle gaze mixed derive year table";

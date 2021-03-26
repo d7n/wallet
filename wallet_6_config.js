@@ -1,1 +1,1 @@
-var mnemonic = "acquire liquid merge honey oxygen resource update audit easily produce success grant";
+var mnemonic = "long diamond nominee tail armor crop butter verb image slide seed tuna";

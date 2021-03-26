@@ -1,1 +1,1 @@
-var mnemonic = "engage belt elbow soap jungle super wing head cancel exact useful nut";
+var mnemonic = "juice ranch tool winner news order ladder roast six economy weather hood";

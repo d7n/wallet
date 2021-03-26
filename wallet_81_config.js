@@ -1,1 +1,1 @@
-var mnemonic = "mountain alter brief winner regular coach hungry liquid shuffle crew perfect staff";
+var mnemonic = "dragon entire fiscal coyote trouble party bid merge screen rail topic dignity";

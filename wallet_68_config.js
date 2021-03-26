@@ -1,1 +1,1 @@
-var mnemonic = "sleep oven absent theme better asthma matrix egg pen fly among drink";
+var mnemonic = "push erupt tank gorilla ensure armed club observe mouse uncover awkward flush";

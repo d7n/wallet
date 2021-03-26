@@ -1,1 +1,1 @@
-var mnemonic = "door marble pet version finger nominee tribe together beyond isolate pistol erase";
+var mnemonic = "goat rubber donate seed letter distance believe perfect phone idle crisp famous";

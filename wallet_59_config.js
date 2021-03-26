@@ -1,1 +1,1 @@
-var mnemonic = "over wide enable face edit oval replace calm silly fantasy cash devote";
+var mnemonic = "used master leopard doctor all tonight crucial agree cover tomato fat milk";

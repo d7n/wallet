@@ -1,1 +1,1 @@
-var mnemonic = "cart sweet have replace rent salt drill list fatal cloud lucky science";
+var mnemonic = "peace gentle lunch anger hazard fire north cheese way want spice bean";

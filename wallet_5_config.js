@@ -1,1 +1,1 @@
-var mnemonic = "badge scout pretty skate cargo relax rally skirt grace cannon tennis enforce";
+var mnemonic = "best cute situate enemy power account enable violin minor holiday fish position";

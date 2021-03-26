@@ -1,1 +1,1 @@
-var mnemonic = "phrase genuine retire casino enlist loud sugar fall surprise chair coin bar";
+var mnemonic = "recycle letter put fence volcano busy language train wrist great wet neglect";

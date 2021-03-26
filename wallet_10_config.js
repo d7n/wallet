@@ -1,1 +1,1 @@
-var mnemonic = "echo disagree orient major virus illness program pair confirm exhibit lemon add";
+var mnemonic = "tell loan novel glue orbit grid peanut comic beef spider glass cloth";

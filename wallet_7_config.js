@@ -1,1 +1,1 @@
-var mnemonic = "silly brand enjoy burst nasty warfare negative tongue cupboard dinosaur entry drift";
+var mnemonic = "giant dune arena involve ostrich gossip refuse obvious gallery beef expose all";

@@ -1,1 +1,1 @@
-var mnemonic = "owner away index advice flavor taste truth stairs absent strategy wish mutual";
+var mnemonic = "announce snack rely luxury tiny sword search hint extend original decrease wave";

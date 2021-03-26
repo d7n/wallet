@@ -1,1 +1,1 @@
-var mnemonic = "spell bag border gun caution fade nephew reveal leader lift initial wild";
+var mnemonic = "riot consider theory excess zero maximum velvet rebel actual brisk urge juice";

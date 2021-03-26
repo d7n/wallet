@@ -1,1 +1,1 @@
-var mnemonic = "middle dignity chair tank night wink loop fish burger cart awesome lottery";
+var mnemonic = "inch swift inquiry quote vapor peasant tourist liquid mean crew butter book";

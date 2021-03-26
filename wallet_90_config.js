@@ -1,1 +1,1 @@
-var mnemonic = "keep moment wear bridge debris vanish teach clarify early oil boss right";
+var mnemonic = "young rail tongue hazard rude symptom sudden flame card code demand cluster";

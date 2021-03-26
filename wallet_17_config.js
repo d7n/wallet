@@ -1,1 +1,1 @@
-var mnemonic = "blossom dose suit valve mistake connect exhaust salmon into quality lend you";
+var mnemonic = "wool sheriff inhale tail south little text odor scrub frame silent urban";

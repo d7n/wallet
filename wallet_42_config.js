@@ -1,1 +1,1 @@
-var mnemonic = "lazy gasp immune beach office lock stomach genre sadness sick end fatigue";
+var mnemonic = "miracle also can multiply more vague normal exotic address crane dawn trend";

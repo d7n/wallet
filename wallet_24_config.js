@@ -1,1 +1,1 @@
-var mnemonic = "rail intact dirt forest purchase come sustain clip science talk creek include";
+var mnemonic = "dilemma cattle science genre foam elephant manage spatial truth supreme undo enact";

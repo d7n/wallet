@@ -1,1 +1,1 @@
-var mnemonic = "vote blossom fault kidney during elegant window salad erase number useless banner";
+var mnemonic = "electric stuff sphere nature immune output turkey regret force marine gauge outdoor";

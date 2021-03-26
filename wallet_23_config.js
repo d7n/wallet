@@ -1,1 +1,1 @@
-var mnemonic = "duty calm tragic green tag piano true drastic punch scale hurt boil";
+var mnemonic = "uncover toy paddle explain enroll split before fault surround coast thumb bean";

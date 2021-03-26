@@ -1,1 +1,1 @@
-var mnemonic = "kitten believe divorce swim mixture obvious check youth federal drift cruel inner";
+var mnemonic = "matter gym evoke glad pole sight time junk skull gap museum session";

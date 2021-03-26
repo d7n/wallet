@@ -1,1 +1,1 @@
-var mnemonic = "frog reward bid shrug symbol involve stairs where stomach punch shift because";
+var mnemonic = "shaft success walk when remind split spray figure old rude job prize";

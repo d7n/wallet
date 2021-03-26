@@ -1,1 +1,1 @@
-var mnemonic = "health quit ask long assault tongue hero skirt mixture dumb season history";
+var mnemonic = "history case rebuild speak lake swallow bronze try pull divide caught century";

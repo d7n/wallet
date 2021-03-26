@@ -1,1 +1,1 @@
-var mnemonic = "gold hat office suggest tongue liquid define clump cruel empower suffer fix";
+var mnemonic = "kitten dose speed shoulder spider relax bitter lucky beyond where ability unfair";

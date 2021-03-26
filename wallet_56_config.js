@@ -1,1 +1,1 @@
-var mnemonic = "warrior nest coil park zone abuse join case update wait chimney crime";
+var mnemonic = "blue race absurd devote team crucial jazz rescue layer sting shop bachelor";

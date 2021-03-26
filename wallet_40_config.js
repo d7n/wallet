@@ -1,1 +1,1 @@
-var mnemonic = "elephant sword cruise diary innocent couch typical glance bid canal clerk kidney";
+var mnemonic = "paper six orchard arm music spirit goddess rabbit chapter friend depart soap";

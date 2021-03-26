@@ -1,1 +1,1 @@
-var mnemonic = "verb isolate crouch office banner invite borrow gold theory pencil suffer they";
+var mnemonic = "pact swallow sudden lunar setup frozen slogan strategy office hunt become drama";

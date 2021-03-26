@@ -1,1 +1,1 @@
-var mnemonic = "cereal swap sting relax velvet merit loan crumble bundle snack curious reopen";
+var mnemonic = "quantum keen hip garbage pave air process swim entry blur vast pigeon";

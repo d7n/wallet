@@ -1,1 +1,1 @@
-var mnemonic = "toy weird skill tissue express case erupt govern grow mean sugar forum";
+var mnemonic = "current hip total kid welcome opinion crumble dutch town idle liberty tragic";

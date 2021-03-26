@@ -1,1 +1,1 @@
-var mnemonic = "notable injury public scissors funny dress muffin include card pumpkin canyon jungle";
+var mnemonic = "autumn chief veteran sport there agent cash replace garlic rude mystery bind";

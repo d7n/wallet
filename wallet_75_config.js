@@ -1,1 +1,1 @@
-var mnemonic = "pony blush century light strong try cube state camp favorite metal what";
+var mnemonic = "climb hedgehog laugh immune ribbon depth subject crew fire taste try upon";

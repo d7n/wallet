@@ -1,1 +1,1 @@
-var mnemonic = "few file strong can sausage arrive agent mention chalk fatigue clown census";
+var mnemonic = "early sustain monkey legal wait thing pass aim tilt popular round couple";
