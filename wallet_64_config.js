@@ -1,1 +1,1 @@
-var mnemonic = "gain real master field hair easy violin since design lady demand copy";
+var mnemonic = "noise trend pattern feature wool vibrant tilt know mushroom pupil salon emotion";

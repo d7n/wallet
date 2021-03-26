@@ -1,1 +1,1 @@
-var mnemonic = "smile infant edit trigger source midnight rhythm trumpet below increase snow bread";
+var mnemonic = "fatigue slush arch major fat lesson dune observe clip exotic father pepper";

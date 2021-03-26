@@ -1,1 +1,1 @@
-var mnemonic = "skull ripple fun scout vapor distance rival foil chase despair agree bless";
+var mnemonic = "metal ethics divide never top issue please tide lemon square action arena";

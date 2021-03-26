@@ -1,1 +1,1 @@
-var mnemonic = "draw height theme vote eager parrot what melody mind tiger weapon connect";
+var mnemonic = "category thing sight must whisper federal under link put pony slender thrive";

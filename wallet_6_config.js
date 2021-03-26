@@ -1,1 +1,1 @@
-var mnemonic = "chicken favorite diamond situate business shock walk side sentence bid yard unique";
+var mnemonic = "mass banner donor night original lake half violin agent bright notice crane";

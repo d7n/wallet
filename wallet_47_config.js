@@ -1,1 +1,1 @@
-var mnemonic = "cause occur wave shiver family advice caution now worth noodle deputy cover";
+var mnemonic = "tip plate stand boost plunge turn grain raise doll eternal phrase double";

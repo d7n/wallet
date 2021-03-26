@@ -1,1 +1,1 @@
-var mnemonic = "exercise naive range inhale snow join faith ancient voice glimpse dad grant";
+var mnemonic = "siege squirrel brand salt release capable common faint display load suspect antenna";

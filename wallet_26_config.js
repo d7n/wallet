@@ -1,1 +1,1 @@
-var mnemonic = "amused announce weapon before remember cargo witness type chief feature vague post";
+var mnemonic = "twin blossom urban unfold bless capable equip solar bamboo decline shrug success";

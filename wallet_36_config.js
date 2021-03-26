@@ -1,1 +1,1 @@
-var mnemonic = "genuine since shuffle food pattern document upper purpose wear digital faculty action";
+var mnemonic = "space online member fatigue special hamster soon student discover royal save intact";

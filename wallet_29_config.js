@@ -1,1 +1,1 @@
-var mnemonic = "law creek coach science weapon team fold silk entry hunt crush boy";
+var mnemonic = "modify menu celery exile loan canvas flower inherit lend chest ticket spoon";

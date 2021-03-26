@@ -1,1 +1,1 @@
-var mnemonic = "fiction visual panda focus squeeze hard rival exercise capable fan wait recall";
+var mnemonic = "indicate sustain vague clerk gap inspire correct dinosaur receive fish slim salt";

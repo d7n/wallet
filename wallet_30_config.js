@@ -1,1 +1,1 @@
-var mnemonic = "all silver mouse style various rubber return raise honey tone major bag";
+var mnemonic = "diesel grass unlock merry moral dove clown loyal asthma episode dust unlock";

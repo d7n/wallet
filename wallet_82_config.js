@@ -1,1 +1,1 @@
-var mnemonic = "stool promote panther stay fun hotel session ketchup cliff weather assist decorate";
+var mnemonic = "abuse alien hidden wrist ball rose auction agree enlist abuse foot torch";

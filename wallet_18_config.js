@@ -1,1 +1,1 @@
-var mnemonic = "cool vote assault ball dynamic bronze park ginger frost cross beef year";
+var mnemonic = "defy dolphin autumn party foam treat develop robot bring position inhale vessel";

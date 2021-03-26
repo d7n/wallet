@@ -1,1 +1,1 @@
-var mnemonic = "menu black birth leave rotate puppy vapor strike glove flight hunt relax";
+var mnemonic = "crime submit lawn absent fortune decrease fog quiz ancient clock they evoke";

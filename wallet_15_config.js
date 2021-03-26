@@ -1,1 +1,1 @@
-var mnemonic = "depend spy return tone merge census oxygen screen stage cause become spy";
+var mnemonic = "below cousin picnic bridge comfort frame badge improve equal borrow injury daughter";

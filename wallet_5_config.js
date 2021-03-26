@@ -1,1 +1,1 @@
-var mnemonic = "piano syrup devote air penalty supreme slush already pill miracle vessel mixture";
+var mnemonic = "flash type topic velvet surface dirt cave hurry slide fluid prize rebel";

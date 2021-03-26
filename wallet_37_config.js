@@ -1,1 +1,1 @@
-var mnemonic = "high ready tourist ghost brave device trial major legend two year super";
+var mnemonic = "position cousin yard bean blush curtain crime since item rule force frown";

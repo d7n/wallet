@@ -1,1 +1,1 @@
-var mnemonic = "oyster alien cheese figure knee horror believe sick family reveal tent amateur";
+var mnemonic = "exile clap lyrics sand museum retreat stay dentist frown victory age usual";

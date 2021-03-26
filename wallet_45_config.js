@@ -1,1 +1,1 @@
-var mnemonic = "humor village write shift bounce sun habit reason present pink nut market";
+var mnemonic = "syrup artist dash grass escape say glad install place icon hello hair";

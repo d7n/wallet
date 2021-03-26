@@ -1,1 +1,1 @@
-var mnemonic = "annual jewel angry more problem help aware despair drop bachelor one fiber";
+var mnemonic = "butter clog tank name kingdom divide hunt hope nation slab advice still";

@@ -1,1 +1,1 @@
-var mnemonic = "harbor laptop veteran swap latin pluck learn muffin latin body summer labor";
+var mnemonic = "door guide auto off equal heart trick shove such find sample debate";

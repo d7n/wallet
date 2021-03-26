@@ -1,1 +1,1 @@
-var mnemonic = "fog very weasel ginger anxiety toss mean mushroom tunnel earn drill never";
+var mnemonic = "piano easy once risk invite access struggle direct clerk sustain employ width";

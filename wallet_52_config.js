@@ -1,1 +1,1 @@
-var mnemonic = "poem rifle tide bachelor aerobic suffer custom near blouse twenty dinner chat";
+var mnemonic = "swarm knock rotate naive link excuse sure solve fix cinnamon skirt slogan";

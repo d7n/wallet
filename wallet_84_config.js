@@ -1,1 +1,1 @@
-var mnemonic = "wear phrase denial move roast glimpse balance trumpet fun vicious message shaft";
+var mnemonic = "differ call fix disease bag pulse hill glad crystal method lock body";

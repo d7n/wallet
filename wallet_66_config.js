@@ -1,1 +1,1 @@
-var mnemonic = "icon group version ecology broccoli cabin fork sphere era stem pause myself";
+var mnemonic = "column love rifle typical hour excite feel random sun wear pulp retreat";

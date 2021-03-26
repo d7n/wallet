@@ -1,1 +1,1 @@
-var mnemonic = "radar kick define shiver special assault inhale misery airport dish material chronic";
+var mnemonic = "humble trust twin amazing draw opinion cruel address eight circle father champion";

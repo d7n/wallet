@@ -1,1 +1,1 @@
-var mnemonic = "select lawn nominee bamboo custom grief left enroll tomorrow improve plastic remember";
+var mnemonic = "slide exact unveil joy hand novel trophy mouse inside resemble real because";

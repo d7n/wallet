@@ -1,1 +1,1 @@
-var mnemonic = "impulse cement change capital blossom shrug barely loud salt arrive possible fork";
+var mnemonic = "rival blanket dizzy tomato food bench face attitude talent shaft actress pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "sword spider city stable kiwi guard fold super riot curtain solar answer";
+var mnemonic = "cruise cross into engine region suggest token traffic firm boil menu into";

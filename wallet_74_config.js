@@ -1,1 +1,1 @@
-var mnemonic = "ridge join refuse then indoor ocean address rescue dilemma someone frog weather";
+var mnemonic = "warfare aisle range pipe fabric sphere rain spring obscure dose genuine screen";

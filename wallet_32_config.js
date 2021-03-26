@@ -1,1 +1,1 @@
-var mnemonic = "jungle will garbage jacket merge cinnamon record caution sniff curtain improve web";
+var mnemonic = "top west minute curve chalk weird spoon plate biology reunion steak pause";

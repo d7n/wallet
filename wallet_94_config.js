@@ -1,1 +1,1 @@
-var mnemonic = "rescue enlist tribe awful mosquito vicious spread van treat stage accuse reject";
+var mnemonic = "rib unlock blanket upper dentist will margin raccoon daring tattoo strike coast";

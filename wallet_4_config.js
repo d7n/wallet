@@ -1,1 +1,1 @@
-var mnemonic = "gospel fish prevent dumb iron smoke foster neither truly bone click afford";
+var mnemonic = "price gown ramp popular ostrich scrap promote dune wasp ability sample afford";

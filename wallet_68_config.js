@@ -1,1 +1,1 @@
-var mnemonic = "pond list obtain movie illness fury mask agree install number smoke spread";
+var mnemonic = "dirt author put omit coconut have word beach primary session sick cream";

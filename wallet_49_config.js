@@ -1,1 +1,1 @@
-var mnemonic = "energy host garden clap copy thumb depth candy combine federal token shadow";
+var mnemonic = "error woman angry state slow pitch cable pen enrich acquire saddle concert";

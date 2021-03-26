@@ -1,1 +1,1 @@
-var mnemonic = "unfold budget focus jealous trophy glimpse put abstract aware tell emotion answer";
+var mnemonic = "cram rebuild toward void wood pizza mention dentist blossom never fall twelve";

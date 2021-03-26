@@ -1,1 +1,1 @@
-var mnemonic = "taste curtain diesel cushion great moon crumble surprise yard comic soccer tuition";
+var mnemonic = "horn buffalo exact list electric company moon luxury discover young diagram dune";

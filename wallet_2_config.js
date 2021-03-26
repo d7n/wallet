@@ -1,1 +1,1 @@
-var mnemonic = "parent piece around monitor vacuum pink auto lab mirror river episode napkin";
+var mnemonic = "ability jewel mercy sudden uncover open master initial phrase duck purity upset";

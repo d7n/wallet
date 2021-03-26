@@ -1,1 +1,1 @@
-var mnemonic = "avocado color drift twelve sad burger antenna bar disorder crouch under drive";
+var mnemonic = "exercise reform lounge hotel salon project then dream butter route cliff curtain";

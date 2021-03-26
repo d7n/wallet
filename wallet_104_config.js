@@ -1,1 +1,1 @@
-var mnemonic = "route solve ozone table ranch doctor wet raccoon poem various corn option";
+var mnemonic = "nerve ankle cloud air crawl parent legend faint recipe mix close broom";

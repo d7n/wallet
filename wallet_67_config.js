@@ -1,1 +1,1 @@
-var mnemonic = "illness scout woman dust feed fragile genius happy copy canyon opera pyramid";
+var mnemonic = "tank spatial never cost stay dwarf alter library unlock remember rigid assume";

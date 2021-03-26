@@ -1,1 +1,1 @@
-var mnemonic = "slide ride oven marriage future swear mobile unfold fix chase fetch heavy";
+var mnemonic = "hour vault spin obey snap captain mixed tuition laptop cloth skin copy";

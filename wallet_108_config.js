@@ -1,1 +1,1 @@
-var mnemonic = "local cause thrive auto into depend apart tomorrow silver shell valid hazard";
+var mnemonic = "match crumble depend ritual island toss amount vacuum rifle balance culture toward";

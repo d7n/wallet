@@ -1,1 +1,1 @@
-var mnemonic = "north doll track remove hidden quit miracle oyster save recall rail record";
+var mnemonic = "open man regret doctor calm cram badge aerobic cluster defy minor wear";

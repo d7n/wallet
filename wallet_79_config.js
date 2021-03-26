@@ -1,1 +1,1 @@
-var mnemonic = "image okay winter trial cloth head maple sunset depend prepare minor goddess";
+var mnemonic = "unable certain venue erupt stand topple before decide appear early become garden";

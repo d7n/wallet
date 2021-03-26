@@ -1,1 +1,1 @@
-var mnemonic = "corn act humble six salad surround worth endless step insect hair dirt";
+var mnemonic = "suffer before auto affair cluster kitchen post salt hello credit frog junk";

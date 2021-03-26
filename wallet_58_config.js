@@ -1,1 +1,1 @@
-var mnemonic = "twenty genius tree example glance math dolphin always purity stand riot impose";
+var mnemonic = "edit address enforce dwarf theme toward bargain upper tooth general exile pilot";

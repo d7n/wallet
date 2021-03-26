@@ -1,1 +1,1 @@
-var mnemonic = "walk else mystery grocery series gospel obtain mask annual pause clock suffer";
+var mnemonic = "body force language outdoor answer snake helmet scare board entry lizard tackle";

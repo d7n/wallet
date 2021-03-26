@@ -1,1 +1,1 @@
-var mnemonic = "episode beauty this imitate cinnamon can lock divorce social song silly write";
+var mnemonic = "method detail change corn pen waste good fog vibrant afraid much phone";

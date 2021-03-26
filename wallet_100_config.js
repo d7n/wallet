@@ -1,1 +1,1 @@
-var mnemonic = "umbrella sibling faint audit riot picture practice diet mercy face siren tray";
+var mnemonic = "obscure spoon wreck south awful leader boost eye admit dune merry disease";

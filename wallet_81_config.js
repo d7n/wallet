@@ -1,1 +1,1 @@
-var mnemonic = "field soul provide assist frozen climb panda chest ankle say athlete wife";
+var mnemonic = "spice purpose note index jungle chronic reflect view piano wrestle always fruit";

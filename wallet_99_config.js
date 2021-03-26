@@ -1,1 +1,1 @@
-var mnemonic = "afraid goddess piece struggle acoustic problem pluck label call blouse give royal";
+var mnemonic = "surprise already hungry flock excite pencil response warrior typical unhappy acid priority";

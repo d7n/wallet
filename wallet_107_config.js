@@ -1,1 +1,1 @@
-var mnemonic = "pony deny finger stay oil phrase sample main equip height cheese auto";
+var mnemonic = "limb mail spare custom cruel field sudden various invest august shallow record";

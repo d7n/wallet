@@ -1,1 +1,1 @@
-var mnemonic = "wild aim coffee remove mystery fetch oil absorb print fall silk crouch";
+var mnemonic = "tomorrow empty speak mixed metal ostrich fan auction image angry exercise enrich";

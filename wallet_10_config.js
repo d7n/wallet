@@ -1,1 +1,1 @@
-var mnemonic = "only border travel daughter program enable drift salad robust excite rose cave";
+var mnemonic = "limb increase wedding asset rally scorpion plug struggle often keen stay inch";

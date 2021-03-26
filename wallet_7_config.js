@@ -1,1 +1,1 @@
-var mnemonic = "material blush cactus inspire icon hedgehog mechanic doctor neck dizzy cupboard trend";
+var mnemonic = "radio elder isolate friend mansion juice impose rare basic surprise glimpse reflect";

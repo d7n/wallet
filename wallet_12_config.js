@@ -1,1 +1,1 @@
-var mnemonic = "decline six else morning recycle govern puzzle marine credit title over later";
+var mnemonic = "verb hole upon injury bamboo receive flash recall hat fun inside rebuild";

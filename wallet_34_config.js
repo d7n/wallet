@@ -1,1 +1,1 @@
-var mnemonic = "speak cover unknown alert tell air boy day arena skirt base budget";
+var mnemonic = "bullet someone prevent club access grief injury inform lunar wide coyote pitch";

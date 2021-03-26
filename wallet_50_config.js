@@ -1,1 +1,1 @@
-var mnemonic = "cloth toilet clutch story vessel boss knee sun edge shove gate they";
+var mnemonic = "chapter diamond search lion ivory vessel exhibit divide force brief raw shed";

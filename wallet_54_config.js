@@ -1,1 +1,1 @@
-var mnemonic = "december salmon wave sheriff zone silver thing equip rain copper metal upgrade";
+var mnemonic = "rough rubber busy when tuna hospital claw author foam tape puzzle lift";

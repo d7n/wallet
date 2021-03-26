@@ -1,1 +1,1 @@
-var mnemonic = "slim frequent safe carry verb crystal blouse crime turtle bullet deer frost";
+var mnemonic = "light milk about shield truck inspire shaft pioneer brisk fury uphold right";

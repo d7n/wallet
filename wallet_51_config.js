@@ -1,1 +1,1 @@
-var mnemonic = "place special primary vendor loop dose cage guitar total renew maze spatial";
+var mnemonic = "column twin produce shoulder leaf enhance puzzle matrix surround fat race glance";

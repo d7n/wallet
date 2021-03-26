@@ -1,1 +1,1 @@
-var mnemonic = "violin hurt crime pepper equip airport syrup supply legal unhappy cactus neither";
+var mnemonic = "desk speak absorb dizzy strike thrive decrease adapt stamp possible attend depth";

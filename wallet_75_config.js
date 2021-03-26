@@ -1,1 +1,1 @@
-var mnemonic = "silver forest tattoo narrow ranch horn peasant life alien educate fringe hub";
+var mnemonic = "deputy movie hidden weasel knee strategy today region fan charge crouch gadget";

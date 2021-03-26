@@ -1,1 +1,1 @@
-var mnemonic = "lucky service sun tomato bullet blast innocent silk coral hurdle hover mask";
+var mnemonic = "logic brisk pigeon tackle acid beef jacket check kind manual stone runway";

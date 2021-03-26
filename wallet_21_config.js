@@ -1,1 +1,1 @@
-var mnemonic = "slice floor spawn table scare local excite trust yard morning element wash";
+var mnemonic = "tuna second shadow keep excite shell merit camera trophy negative island chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "absent cream autumn speak retreat flag recipe cat kiss change scare soup";
+var mnemonic = "medal maze cactus sense shrimp margin tumble maple slide melt unable doll";

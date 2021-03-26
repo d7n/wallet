@@ -1,1 +1,1 @@
-var mnemonic = "hundred enrich patient inject code deposit cupboard brand balcony cargo magnet zero";
+var mnemonic = "town sight wise glass witness skirt actual bridge nest dwarf tomorrow retire";

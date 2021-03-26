@@ -1,1 +1,1 @@
-var mnemonic = "arrow series fence nation fury habit foam tip cancel pottery clarify card";
+var mnemonic = "danger anchor green harsh sadness bind educate draw direct tuition never same";

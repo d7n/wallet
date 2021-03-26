@@ -1,1 +1,1 @@
-var mnemonic = "orbit tennis chalk escape income depth benefit organ subway chalk foil scene";
+var mnemonic = "poverty lunch call husband empower transfer rate man fun problem tenant jacket";

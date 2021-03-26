@@ -1,1 +1,1 @@
-var mnemonic = "humble sample fuel mask then stay slight outer family ordinary casino shallow";
+var mnemonic = "kiwi initial defense stage switch type total visit material blade social rubber";

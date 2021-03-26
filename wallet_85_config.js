@@ -1,1 +1,1 @@
-var mnemonic = "remove dragon climb absurd bless avoid impose gauge fancy swallow lonely own";
+var mnemonic = "lucky foam crater occur mixture enter aspect only siege put wave welcome";

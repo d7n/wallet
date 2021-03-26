@@ -1,1 +1,1 @@
-var mnemonic = "donate muscle alley detail six glass major earth adjust brave razor swallow";
+var mnemonic = "blood apple industry swift either cradle design turn heavy melody knife chair";

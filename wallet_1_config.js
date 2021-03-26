@@ -1,1 +1,1 @@
-var mnemonic = "peanut ritual trash index fall know original execute beyond random wedding spread";
+var mnemonic = "lock smooth exotic observe false bleak humor such dog age era wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "borrow tide age fabric sniff tissue guide hundred remove agree grocery spatial";
+var mnemonic = "scheme pole torch under canal now action lonely trend parent snake certain";

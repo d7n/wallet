@@ -1,1 +1,1 @@
-var mnemonic = "whale avoid muffin regret cave sister capable timber extend kid camera chat";
+var mnemonic = "receive fragile culture road flat route vital ribbon canvas spice stomach person";

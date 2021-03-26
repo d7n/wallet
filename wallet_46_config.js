@@ -1,1 +1,1 @@
-var mnemonic = "bronze tilt business grocery goat fossil also flag check tag tobacco speak";
+var mnemonic = "flock stock cradle acid naive kit swallow gentle walk tag dune elite";

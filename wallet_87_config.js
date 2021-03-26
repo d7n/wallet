@@ -1,1 +1,1 @@
-var mnemonic = "wing urge real scene enroll brave scan because child alert venture kitten";
+var mnemonic = "critic vicious rotate tent venue rate balcony release scrap meadow toy humble";

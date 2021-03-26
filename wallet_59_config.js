@@ -1,1 +1,1 @@
-var mnemonic = "baby spike sheriff whale enact onion guess notice decide divide social artefact";
+var mnemonic = "boost legend volcano strategy list lift cricket fatigue human city angry pulse";

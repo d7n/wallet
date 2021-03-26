@@ -1,1 +1,1 @@
-var mnemonic = "team goat inquiry bubble crystal length welcome napkin immense fabric core assault";
+var mnemonic = "trade stand gold document oval because shed bonus deposit ten ensure ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "transfer stool swear marine creek picture salmon peace truth initial secret example";
+var mnemonic = "engage whisper friend impact emotion false celery capable quick excuse mutual text";

@@ -1,1 +1,1 @@
-var mnemonic = "thought harbor spoil bitter luxury width vital struggle floor future harsh aim";
+var mnemonic = "catch vapor kid donkey infant print stadium scissors pass silly visit tumble";

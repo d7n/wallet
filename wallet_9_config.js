@@ -1,1 +1,1 @@
-var mnemonic = "peace tide plastic planet unaware diet lava turtle tired seminar weather brown";
+var mnemonic = "guess hero misery barely ramp elder seat wish chronic credit consider artist";

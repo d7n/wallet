@@ -1,1 +1,1 @@
-var mnemonic = "pitch absorb town amazing blue mutual deputy shed combine wood symbol silk";
+var mnemonic = "flat neither ketchup fire used since grab arch anger agent release faith";

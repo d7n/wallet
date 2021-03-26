@@ -1,1 +1,1 @@
-var mnemonic = "sniff another struggle attack expand loan twice buzz sadness comfort carpet train";
+var mnemonic = "wave spawn discover immune tail card captain hair more stove deal math";

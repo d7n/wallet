@@ -1,1 +1,1 @@
-var mnemonic = "word practice lake meat arrive together black engine ridge crowd sense train";
+var mnemonic = "belt media divorce love echo jewel walk addict unlock twist process benefit";

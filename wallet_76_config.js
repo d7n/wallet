@@ -1,1 +1,1 @@
-var mnemonic = "glare awkward lion fiction entire genre team slam need physical dragon relax";
+var mnemonic = "october play program grab help festival pattern farm carpet hollow sheriff innocent";

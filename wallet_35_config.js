@@ -1,1 +1,1 @@
-var mnemonic = "warm clerk crew genius silver improve awkward badge normal list rely burden";
+var mnemonic = "extend catch job wolf myself beyond unknown soul live wing proud photo";
