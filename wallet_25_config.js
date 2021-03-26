@@ -1,1 +1,1 @@
-var mnemonic = "tip minor green fly hundred prize stove board neck brief neutral erode";
+var mnemonic = "cupboard settle window warrior vintage tool rigid screen orbit lake juice survey";

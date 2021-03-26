@@ -1,1 +1,1 @@
-var mnemonic = "pet crunch disagree first keep choice become humor repeat help network pudding";
+var mnemonic = "deer slot yellow twin crater fabric asset duty kitchen jungle cream youth";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb feed beyond process garage creek october hard suffer original puzzle stage";
+var mnemonic = "abstract copper gain stool also steak never garage paper snow depth tired";

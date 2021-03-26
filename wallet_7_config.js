@@ -1,1 +1,1 @@
-var mnemonic = "girl cute moment debris sock coin erase excite mimic climb sock link";
+var mnemonic = "decide year mix make link dynamic village afraid stock glance narrow educate";

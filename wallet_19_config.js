@@ -1,1 +1,1 @@
-var mnemonic = "laugh flavor recall orange rich industry monkey motor prevent east reduce poverty";
+var mnemonic = "seminar mammal planet staff width bracket ahead window lady find dutch drive";

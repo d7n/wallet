@@ -1,1 +1,1 @@
-var mnemonic = "raw traffic oblige dice scheme tower gorilla hazard achieve version pudding word";
+var mnemonic = "hour february mesh great brother candy quantum tourist rally deny bean win";

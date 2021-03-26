@@ -1,1 +1,1 @@
-var mnemonic = "arrive fix flag ask cricket hero more just flush fitness betray cabin";
+var mnemonic = "mutual mother dumb fog renew tuna simple swift cloth merry announce type";

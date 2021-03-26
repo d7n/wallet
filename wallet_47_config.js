@@ -1,1 +1,1 @@
-var mnemonic = "base gather warm unaware civil wild unit between bridge foam physical raise";
+var mnemonic = "space exit jaguar easy click wolf like front donor again hidden yard";

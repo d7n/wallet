@@ -1,1 +1,1 @@
-var mnemonic = "flee fantasy visit pony elbow twist grant injury then february peanut matter";
+var mnemonic = "road labor rate beach tribe modify twist length phrase sniff civil soccer";

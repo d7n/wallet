@@ -1,1 +1,1 @@
-var mnemonic = "mystery day sauce cost people tone tired banana tool awkward damp enhance";
+var mnemonic = "saddle hawk light pelican coyote reform jump clever demise accuse boy hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "govern strategy language tunnel scrub brave couple balcony winner apology grant upgrade";
+var mnemonic = "script page awkward skirt turkey patrol exhibit install oil gospel dash unusual";

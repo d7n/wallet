@@ -1,1 +1,1 @@
-var mnemonic = "depend people pigeon disorder ensure hunt plug cluster cable umbrella person slush";
+var mnemonic = "coach expire elite swap favorite business public bless profit claim section april";

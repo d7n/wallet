@@ -1,1 +1,1 @@
-var mnemonic = "wing profit visa certain action utility bacon wet stuff salt trophy sick";
+var mnemonic = "cloud north shock rally depend engine bonus gentle merit worry month sunny";

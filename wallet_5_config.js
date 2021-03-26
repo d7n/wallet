@@ -1,1 +1,1 @@
-var mnemonic = "inflict certain coast session plunge craft bird play used phrase try box";
+var mnemonic = "jeans quantum mass include charge twin city flock muscle rack rent syrup";

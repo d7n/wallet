@@ -1,1 +1,1 @@
-var mnemonic = "safe prosper want order match resemble because sad south crew modify powder";
+var mnemonic = "foil december dinosaur leg chunk purpose spatial luxury silver okay canyon guess";

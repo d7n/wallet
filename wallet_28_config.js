@@ -1,1 +1,1 @@
-var mnemonic = "record earn virus job shock bracket size grab renew now infant elite";
+var mnemonic = "tide moment aspect marble affair city differ rural version distance addict chronic";

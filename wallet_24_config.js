@@ -1,1 +1,1 @@
-var mnemonic = "wild manual airport erode result issue canoe auto mixture sister old ice";
+var mnemonic = "need avoid health owner hunt naive fever quality tell horror reflect dumb";

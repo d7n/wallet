@@ -1,1 +1,1 @@
-var mnemonic = "minimum rookie host whale picture great short business thought rookie educate access";
+var mnemonic = "pipe quick humor grit grunt crew rescue present hard lab chat hello";

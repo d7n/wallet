@@ -1,1 +1,1 @@
-var mnemonic = "soup online mouse empower town hero can dog ski skin equip edge";
+var mnemonic = "pretty library under sand screen bronze better route random dolphin artist fabric";

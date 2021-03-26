@@ -1,1 +1,1 @@
-var mnemonic = "crumble tail hen relief kid crane immense better achieve wage program gadget";
+var mnemonic = "actor orient advice online morning merry kidney antenna detect caution cave inch";

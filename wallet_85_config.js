@@ -1,1 +1,1 @@
-var mnemonic = "leave egg digital spice hover valley roast gain daughter click staff emotion";
+var mnemonic = "length stage bottom price velvet fault top library strong cart about gauge";

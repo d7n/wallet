@@ -1,1 +1,1 @@
-var mnemonic = "someone acoustic figure pioneer into desert arena smooth group artist liquid angry";
+var mnemonic = "setup garment brand elegant universe river clarify right rug prize cheap affair";

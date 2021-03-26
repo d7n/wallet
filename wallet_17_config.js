@@ -1,1 +1,1 @@
-var mnemonic = "spell door ability quote obtain minor write spring burden grain artwork peanut";
+var mnemonic = "private vast noise save piano more lab work world bus exhaust fantasy";

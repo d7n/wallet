@@ -1,1 +1,1 @@
-var mnemonic = "shock list lazy bomb logic miracle hello alien nurse wash student mountain";
+var mnemonic = "vanish file input bright slight mad eight farm waste column energy cloud";

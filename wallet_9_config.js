@@ -1,1 +1,1 @@
-var mnemonic = "cycle judge episode under hurt height type effort differ danger awful hungry";
+var mnemonic = "regret route busy base soldier notable gown ladder glide emerge behave average";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence hold robust average doll pepper harvest gift escape silly train tape";
+var mnemonic = "bitter minute bring rabbit observe remind brown confirm rare grace spider special";

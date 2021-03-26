@@ -1,1 +1,1 @@
-var mnemonic = "start there pudding habit frame food ugly color accuse dutch wire search";
+var mnemonic = "flock patient arrow danger pumpkin fold kiss tongue nerve wire load media";

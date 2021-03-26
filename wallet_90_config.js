@@ -1,1 +1,1 @@
-var mnemonic = "slight prepare paper fall file beef vintage deliver jelly grit grow leader";
+var mnemonic = "into brand apology damp choose stick meat drip vanish coconut refuse pond";

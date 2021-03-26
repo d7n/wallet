@@ -1,1 +1,1 @@
-var mnemonic = "enemy bean amazing funny forget donor umbrella toilet expect detect exist warrior";
+var mnemonic = "tiger fitness device body guard donkey royal vendor odor damp helmet unlock";

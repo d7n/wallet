@@ -1,1 +1,1 @@
-var mnemonic = "tired tube adapt snack volcano review dress glare plunge regular vicious cause";
+var mnemonic = "lawn bone bulk cotton erosion desk they depart tent fun expect post";

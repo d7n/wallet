@@ -1,1 +1,1 @@
-var mnemonic = "extra whale sample credit affair liberty weird trick skull law stay airport";
+var mnemonic = "speed aspect prefer truth winner party parrot cage hidden bar oil price";

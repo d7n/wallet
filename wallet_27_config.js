@@ -1,1 +1,1 @@
-var mnemonic = "note city paper stove art endless dress author oblige rail legend worth";
+var mnemonic = "payment act better project gym like mosquito tape inflict rebuild can swallow";

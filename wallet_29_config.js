@@ -1,1 +1,1 @@
-var mnemonic = "parent deer hand over brain inject confirm mixture price food kite find";
+var mnemonic = "speed health pattern surprise dial charge spoon payment drum reduce hard ranch";

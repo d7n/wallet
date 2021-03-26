@@ -1,1 +1,1 @@
-var mnemonic = "pattern modify critic ahead upset mask rocket reunion luggage omit size traffic";
+var mnemonic = "arena loan pattern unfold brisk gospel pencil oppose target erase sauce critic";

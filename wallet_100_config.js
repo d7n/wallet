@@ -1,1 +1,1 @@
-var mnemonic = "omit sock ticket add enrich law vault motion abuse rely shift tunnel";
+var mnemonic = "enforce prize cat equip note mammal slush jazz immune dynamic busy end";

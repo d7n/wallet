@@ -1,1 +1,1 @@
-var mnemonic = "table able this strike damage right peace surprise arrest can rich exchange";
+var mnemonic = "cloud help hurt antique dust general fever swim agent case very width";

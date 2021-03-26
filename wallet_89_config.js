@@ -1,1 +1,1 @@
-var mnemonic = "surface vacant custom lucky present morning entire more solve swing exercise scatter";
+var mnemonic = "leopard fresh shuffle piano knee amused brief fuel drum gun dose steel";

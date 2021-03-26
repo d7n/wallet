@@ -1,1 +1,1 @@
-var mnemonic = "short know sudden huge practice small gas field sell cabbage add across";
+var mnemonic = "join hazard country nasty gas frown satisfy cruel weather box material limb";

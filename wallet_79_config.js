@@ -1,1 +1,1 @@
-var mnemonic = "fever neutral defense clump left various settle stem search draft radar route";
+var mnemonic = "shell pair boring doll forward purse harbor matrix skull stomach virtual couch";

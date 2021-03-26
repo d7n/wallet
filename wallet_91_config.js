@@ -1,1 +1,1 @@
-var mnemonic = "fitness action rescue liquid digital expand awkward mutual escape gym move awesome";
+var mnemonic = "conduct animal uphold pelican one fury ship web move blood silk staff";

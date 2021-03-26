@@ -1,1 +1,1 @@
-var mnemonic = "flip badge execute sight dinosaur flag shove favorite flight loan quality alley";
+var mnemonic = "valid mango muscle virus record brisk amused champion seed ordinary agent essence";

@@ -1,1 +1,1 @@
-var mnemonic = "budget excite track toward swarm current gallery donkey east machine afraid gesture";
+var mnemonic = "patch valley keen office thumb couch borrow upgrade joy teach city flock";

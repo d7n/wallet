@@ -1,1 +1,1 @@
-var mnemonic = "survey nephew burden ring symptom reason sleep canal duck junior situate another";
+var mnemonic = "split leg balcony legal stomach sword enter cricket maze canoe assault fiscal";

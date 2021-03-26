@@ -1,1 +1,1 @@
-var mnemonic = "crisp vendor urban awake cancel fitness eight thought torch glimpse inform eager";
+var mnemonic = "burger craft denial cart fat document trap noodle dust intact display aerobic";

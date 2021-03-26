@@ -1,1 +1,1 @@
-var mnemonic = "phrase illegal dinner shell elder hole demand share harsh review twist buzz";
+var mnemonic = "note payment love able festival absorb kitten party pill blast author rubber";

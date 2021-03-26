@@ -1,1 +1,1 @@
-var mnemonic = "huge edit auction crane violin wine project senior february era what viable";
+var mnemonic = "keep switch then fringe couple result pulp fog cool office remind human";

@@ -1,1 +1,1 @@
-var mnemonic = "close spot dove mutual sight neglect retire supply truck frequent impulse bind";
+var mnemonic = "antique inspire alarm quiz jacket version duck cluster since shrug mean accident";

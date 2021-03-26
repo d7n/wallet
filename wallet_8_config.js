@@ -1,1 +1,1 @@
-var mnemonic = "comic that paper spring badge poverty room side number net document shed";
+var mnemonic = "mountain discover awkward section shove dismiss wear you close jewel reveal cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain split announce knee patrol mind good audit concert stomach iron grain";
+var mnemonic = "wedding tuna journey range stool soap faculty helmet convince curious inquiry wool";

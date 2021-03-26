@@ -1,1 +1,1 @@
-var mnemonic = "absorb tag that energy aspect wage quarter employ keep favorite master wool";
+var mnemonic = "tone raccoon prefer icon enter measure rookie saddle effort crunch promote divert";

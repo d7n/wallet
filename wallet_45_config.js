@@ -1,1 +1,1 @@
-var mnemonic = "bring task trial giraffe concert toast notable mushroom brief crumble arena rookie";
+var mnemonic = "control crack tag brown express what woman cover rural bottom snow basket";

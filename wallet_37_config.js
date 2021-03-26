@@ -1,1 +1,1 @@
-var mnemonic = "old suspect volcano verify goddess breeze reunion imitate jelly leisure rude shoot";
+var mnemonic = "wedding decrease among mountain gap thumb cheap project source vivid doll battle";

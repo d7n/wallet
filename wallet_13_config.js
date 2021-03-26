@@ -1,1 +1,1 @@
-var mnemonic = "ostrich once bean lazy elbow you mom mountain until balance spike include";
+var mnemonic = "mobile level inmate myself plate outside rifle genuine palace double viable carry";

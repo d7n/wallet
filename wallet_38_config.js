@@ -1,1 +1,1 @@
-var mnemonic = "come ginger fly doctor subject devote seminar deal such click tent gallery";
+var mnemonic = "inform tower ribbon yard mountain fashion sense dutch air master fly essence";

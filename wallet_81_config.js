@@ -1,1 +1,1 @@
-var mnemonic = "have chief obtain carbon desk polar tower pioneer crack cushion symptom noble";
+var mnemonic = "when solve system luggage magnet vacant end crouch mail wonder away beef";

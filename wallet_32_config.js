@@ -1,1 +1,1 @@
-var mnemonic = "cube sight teach apart country tip ritual radar outdoor juice share hand";
+var mnemonic = "soldier wing assist flush armor fence group false destroy gorilla that ankle";

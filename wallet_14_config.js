@@ -1,1 +1,1 @@
-var mnemonic = "million drop convince virus gym eager push open tent mass mistake expect";
+var mnemonic = "prevent phone idle action write dance shine double disorder normal accuse spike";

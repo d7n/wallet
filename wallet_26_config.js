@@ -1,1 +1,1 @@
-var mnemonic = "vacant unable sell crunch wait invite bleak unknown knife burger glow label";
+var mnemonic = "protect gather dinner differ viable slender infant attend menu era page genuine";

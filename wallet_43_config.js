@@ -1,1 +1,1 @@
-var mnemonic = "inside blush buzz inject wealth interest glimpse arrow blind empower dirt board";
+var mnemonic = "clever issue shy trumpet remember report reduce act expect draft apple matter";

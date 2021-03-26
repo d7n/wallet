@@ -1,1 +1,1 @@
-var mnemonic = "spy apology grief patient edit recipe owner donate royal filter erase skill";
+var mnemonic = "story cherry major hand wage round subway physical snake author teach quote";

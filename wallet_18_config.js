@@ -1,1 +1,1 @@
-var mnemonic = "detect jaguar helmet garden system category train earth nothing tray grow clip";
+var mnemonic = "tomorrow annual dinosaur flavor canal champion success cram alter pencil chalk just";

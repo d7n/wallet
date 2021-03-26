@@ -1,1 +1,1 @@
-var mnemonic = "razor mammal magnet elbow choice quality ordinary apology thrive coral cherry print";
+var mnemonic = "assume raise place ordinary crucial split now powder remember alert bid twist";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose fly crop toddler ill alley spend hollow humor expire cotton purpose";
+var mnemonic = "level unaware evoke cabin apple deny need banana chicken blouse jeans lend";

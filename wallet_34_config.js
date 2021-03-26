@@ -1,1 +1,1 @@
-var mnemonic = "current mule engage street carry share island law plug trophy trend grain";
+var mnemonic = "perfect soon pioneer sing sand mention stamp tornado evoke immense nothing team";

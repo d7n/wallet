@@ -1,1 +1,1 @@
-var mnemonic = "arrange trip habit ice liar kid brass mushroom initial warrior usual draft";
+var mnemonic = "bulb sing lounge vital lunch skill beauty either text grain exercise fringe";

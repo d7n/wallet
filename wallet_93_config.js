@@ -1,1 +1,1 @@
-var mnemonic = "maximum funny enforce armed evoke caught wish wide square certain because learn";
+var mnemonic = "slam veteran broccoli merge salt wall derive insane play voyage step guitar";

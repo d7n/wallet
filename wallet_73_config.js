@@ -1,1 +1,1 @@
-var mnemonic = "orbit vivid escape armed learn expect true creek fade normal hobby pyramid";
+var mnemonic = "undo scene spot clump resource pear walnut cart turn iron employ syrup";

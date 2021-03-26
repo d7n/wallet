@@ -1,1 +1,1 @@
-var mnemonic = "antique exist vault unfair defy version avoid mom pass march note warrior";
+var mnemonic = "method over together require opinion video gap tackle indoor steak math theory";

@@ -1,1 +1,1 @@
-var mnemonic = "very control suffer soup girl provide explain panther shock seven pond collect";
+var mnemonic = "aunt invest country middle doctor earn milk because enact another soft recycle";

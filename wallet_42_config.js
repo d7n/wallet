@@ -1,1 +1,1 @@
-var mnemonic = "defy hundred corn autumn forward wreck join seed spirit used impulse rifle";
+var mnemonic = "whip habit direct buyer wish laundry claim silk airport throw embrace magnet";

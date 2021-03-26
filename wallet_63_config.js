@@ -1,1 +1,1 @@
-var mnemonic = "claw pill must dish explain never kingdom oblige muscle poem arrange state";
+var mnemonic = "kangaroo skirt narrow try dust tide smile festival apple submit blood below";

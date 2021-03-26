@@ -1,1 +1,1 @@
-var mnemonic = "valid sight name index weird glare half pet essence silver nice episode";
+var mnemonic = "expect admit confirm device vague off apple marine sad supreme assault hybrid";

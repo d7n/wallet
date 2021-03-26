@@ -1,1 +1,1 @@
-var mnemonic = "bachelor era video develop sunset lecture crop avocado weekend spend kitten rookie";
+var mnemonic = "clarify lounge arch fun wheel grunt bracket surprise girl among uniform audit";

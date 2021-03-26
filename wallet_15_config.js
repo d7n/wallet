@@ -1,1 +1,1 @@
-var mnemonic = "fan theory used option opinion lizard oblige veteran angry cup nerve regular";
+var mnemonic = "nasty pond ten come punch ball check piece curve gown champion number";

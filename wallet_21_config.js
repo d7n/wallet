@@ -1,1 +1,1 @@
-var mnemonic = "reject ensure tape velvet skate route rifle cement patch dash sniff neutral";
+var mnemonic = "clean tribe mandate snow deputy surge mountain since fall victory sense various";

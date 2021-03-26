@@ -1,1 +1,1 @@
-var mnemonic = "close fringe inside stage sword physical start weather kiwi useless slide jungle";
+var mnemonic = "inner crop trim raise come anxiety sword stuff actress creek sniff travel";

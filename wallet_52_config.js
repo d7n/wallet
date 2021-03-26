@@ -1,1 +1,1 @@
-var mnemonic = "cattle puppy tragic table era asthma guilt milk twelve machine bamboo blossom";
+var mnemonic = "layer ritual enhance erosion wet session enforce unusual crumble eyebrow whip edge";

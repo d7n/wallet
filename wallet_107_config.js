@@ -1,1 +1,1 @@
-var mnemonic = "path visual fitness amused ritual protect unfold about rotate aunt evoke original";
+var mnemonic = "buddy achieve wage obscure bless drastic outside sibling false farm scheme sick";

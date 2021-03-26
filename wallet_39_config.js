@@ -1,1 +1,1 @@
-var mnemonic = "sustain sweet because brain link stone clap civil extend ask pioneer hero";
+var mnemonic = "kingdom load door lunar insect shine silly lunch scatter canal smooth liberty";

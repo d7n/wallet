@@ -1,1 +1,1 @@
-var mnemonic = "lake pool similar quiz plate civil permit during immune pencil bunker engine";
+var mnemonic = "glory rhythm twin title sail valve cry video stay resist piano fancy";

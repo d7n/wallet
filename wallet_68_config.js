@@ -1,1 +1,1 @@
-var mnemonic = "body uphold decide cash faint silk core master brown make pen there";
+var mnemonic = "cotton brand rabbit cigar lunar better laptop toy boost cradle fall knock";

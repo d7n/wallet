@@ -1,1 +1,1 @@
-var mnemonic = "idle brown sweet alcohol skate keen ring garbage obvious calm shed off";
+var mnemonic = "purpose undo enroll trial initial minor great interest wreck comic flat squirrel";

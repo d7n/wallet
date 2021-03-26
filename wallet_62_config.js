@@ -1,1 +1,1 @@
-var mnemonic = "save fuel goat globe chapter logic below fitness job trouble denial witness";
+var mnemonic = "general child way cake sell bracket swim twist erosion abuse electric diamond";

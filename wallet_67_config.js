@@ -1,1 +1,1 @@
-var mnemonic = "scissors crouch dress host farm leaf pact social shop grit bomb scout";
+var mnemonic = "odor pyramid access negative senior various consider fold mimic museum innocent guess";

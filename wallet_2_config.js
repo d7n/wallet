@@ -1,1 +1,1 @@
-var mnemonic = "illegal cotton scissors urban tackle abandon goose kind lab clown fat solar";
+var mnemonic = "dizzy label marine bomb ahead dragon forward odor expand cook evoke luxury";

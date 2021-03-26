@@ -1,1 +1,1 @@
-var mnemonic = "timber dry laugh dilemma enrich bargain dirt able cactus erode anger scrub";
+var mnemonic = "grow innocent salad vote couple cash ivory business noise tunnel regular submit";

@@ -1,1 +1,1 @@
-var mnemonic = "cup advice boss play question luggage fly describe album cross bounce resemble";
+var mnemonic = "pole outside rather guilt notable initial scrap tourist crystal marble hover mountain";

@@ -1,1 +1,1 @@
-var mnemonic = "day cross okay mosquito bubble tenant simple ivory supreme win mimic trade";
+var mnemonic = "master dragon pledge state fatal fever wish tail marriage card monster egg";

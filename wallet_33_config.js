@@ -1,1 +1,1 @@
-var mnemonic = "green garment arrive now present document profit curtain feed machine arm topic";
+var mnemonic = "sauce seek salmon angle win ticket retreat comic stuff pitch warm fun";

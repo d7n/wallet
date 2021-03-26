@@ -1,1 +1,1 @@
-var mnemonic = "behind number assist pair exercise clown garment orphan knife isolate quiz pioneer";
+var mnemonic = "flat usual ostrich online project region poverty lyrics squirrel drama december peanut";

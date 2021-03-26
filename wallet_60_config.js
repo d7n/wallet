@@ -1,1 +1,1 @@
-var mnemonic = "fine ozone before broken lottery bronze walnut lizard spirit bachelor bridge sniff";
+var mnemonic = "chimney rug ladder obvious appear pluck ribbon slight kingdom sauce fatigue decline";

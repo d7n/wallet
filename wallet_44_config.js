@@ -1,1 +1,1 @@
-var mnemonic = "vicious genius life setup pool reveal major wild public pistol shield vibrant";
+var mnemonic = "hint usual safe weasel beach crumble sea peace penalty science arm hip";

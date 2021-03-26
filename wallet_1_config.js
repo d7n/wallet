@@ -1,1 +1,1 @@
-var mnemonic = "trick plug day wonder hammer crop stereo weather club patch high since";
+var mnemonic = "excess rapid field mechanic smooth puzzle floor evolve develop health alarm exotic";

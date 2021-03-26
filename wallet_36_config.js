@@ -1,1 +1,1 @@
-var mnemonic = "hunt tongue hole fish giant sunny enjoy trouble degree page almost noodle";
+var mnemonic = "steak eager wheel license wise parent heart salmon march law glad stuff";
