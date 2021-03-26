@@ -1,1 +1,1 @@
-var mnemonic = "fall candy brush laundry isolate soft noodle provide finger sell grunt language";
+var mnemonic = "fix soul business measure end spike flag pride knock way route seminar";

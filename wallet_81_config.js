@@ -1,1 +1,1 @@
-var mnemonic = "jump pioneer skill shine magnet village quit biology ribbon satisfy doctor sponsor";
+var mnemonic = "lazy focus connect gadget thank uphold inject sponsor dance together ranch giggle";

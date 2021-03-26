@@ -1,1 +1,1 @@
-var mnemonic = "odor stage polar return decade safe note color auction cool flush female";
+var mnemonic = "leader veteran sock afraid chapter measure world price toy square salute paper";

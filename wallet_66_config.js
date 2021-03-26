@@ -1,1 +1,1 @@
-var mnemonic = "forward cube bus west run avoid outdoor step frog cruel gold hub";
+var mnemonic = "fox ethics garment kitchen language bike office vanish reveal label ancient mom";

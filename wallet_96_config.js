@@ -1,1 +1,1 @@
-var mnemonic = "priority goose rhythm surprise inquiry ramp crumble taste purpose pottery glue scale";
+var mnemonic = "boat pave doctor access ask blade onion donate walk soccer summer slogan";

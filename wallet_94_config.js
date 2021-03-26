@@ -1,1 +1,1 @@
-var mnemonic = "siren draft version carry true amount sadness topple portion child benefit exist";
+var mnemonic = "sign neither urban slender fire tray cram pair abuse wise guilt occur";

@@ -1,1 +1,1 @@
-var mnemonic = "left unhappy carbon happy point truck coyote notable siege blade december derive";
+var mnemonic = "menu hair fabric type void eight scheme grid deputy visit sudden bench";

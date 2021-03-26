@@ -1,1 +1,1 @@
-var mnemonic = "surprise special rookie culture exist rescue problem unfair situate stem tone excess";
+var mnemonic = "memory brother hen winner note rifle bronze roof dumb ill mobile must";

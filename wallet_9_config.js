@@ -1,1 +1,1 @@
-var mnemonic = "motion behind resemble cabin slab evidence choose review spell bridge math sister";
+var mnemonic = "ozone food august illness egg meat liar pet misery reason burger recycle";

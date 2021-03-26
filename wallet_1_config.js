@@ -1,1 +1,1 @@
-var mnemonic = "defy damage odor whip feature alarm cereal cabin rude neither ripple salt";
+var mnemonic = "cradle fire great ladder sadness enable praise denial around interest typical mistake";

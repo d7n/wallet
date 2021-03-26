@@ -1,1 +1,1 @@
-var mnemonic = "giraffe boy illegal account trash swamp tired inch license affair where minor";
+var mnemonic = "want doll depart gold raccoon path catalog reduce banana enjoy obtain joy";

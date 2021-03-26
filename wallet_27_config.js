@@ -1,1 +1,1 @@
-var mnemonic = "crater harbor input mix vocal control tackle verb flight share oblige tongue";
+var mnemonic = "behave brother addict desert tower blossom flag bamboo abandon hobby school forget";

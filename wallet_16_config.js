@@ -1,1 +1,1 @@
-var mnemonic = "evoke horn pattern reason decade agree market female page mistake ride stable";
+var mnemonic = "salmon recipe fun scheme ranch roof then crash hint screen monitor useful";

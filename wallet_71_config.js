@@ -1,1 +1,1 @@
-var mnemonic = "cherry apart friend dwarf vendor insane uphold clock index oblige hold margin";
+var mnemonic = "weather cargo worry pulp denial cupboard camera thing suit dynamic differ reveal";

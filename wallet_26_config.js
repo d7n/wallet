@@ -1,1 +1,1 @@
-var mnemonic = "sign knock fence apology cradle firm assume tuition gold top asset lemon";
+var mnemonic = "hold kiwi park remember upon open agree afraid night kangaroo rabbit aware";

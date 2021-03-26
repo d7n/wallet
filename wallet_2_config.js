@@ -1,1 +1,1 @@
-var mnemonic = "twice square wool enroll remind slight endless submit effort message dream tenant";
+var mnemonic = "powder rotate logic rabbit pilot entry install bicycle call grape clump fat";

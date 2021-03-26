@@ -1,1 +1,1 @@
-var mnemonic = "exotic army obtain gain wish gun cliff prevent citizen iron honey fault";
+var mnemonic = "blush ability gaze believe jelly true blind knee general scale exhaust afford";

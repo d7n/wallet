@@ -1,1 +1,1 @@
-var mnemonic = "tissue orient science receive final attack wasp tone insect drastic salute dismiss";
+var mnemonic = "tomorrow anger huge benefit canyon pink strategy famous ancient blouse panel tone";

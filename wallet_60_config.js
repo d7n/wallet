@@ -1,1 +1,1 @@
-var mnemonic = "exhaust theme enlist hurdle success comic valve rate magic spirit curve surprise";
+var mnemonic = "layer rent youth winter tomorrow ski foil crazy insect crisp bone pride";

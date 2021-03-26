@@ -1,1 +1,1 @@
-var mnemonic = "near grief agree absent leader raise hill beef law pull melt dolphin";
+var mnemonic = "airport rural stumble broccoli cake drum swing minimum guide foil display frame";

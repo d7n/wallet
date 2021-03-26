@@ -1,1 +1,1 @@
-var mnemonic = "iron decline mammal food cage cream fix reduce innocent resource taxi rescue";
+var mnemonic = "undo sport suffer scene hobby notice truck usage category used first gossip";

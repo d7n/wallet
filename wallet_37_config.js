@@ -1,1 +1,1 @@
-var mnemonic = "trophy dwarf gain primary century flower business cause kite inch north edge";
+var mnemonic = "direct laptop rural duty slogan hollow pave assume upset local random oven";

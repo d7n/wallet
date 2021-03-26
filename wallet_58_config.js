@@ -1,1 +1,1 @@
-var mnemonic = "flash slim bird beyond despair grid vote impact loud sadness desk penalty";
+var mnemonic = "enhance you laptop twice hurry cigar pupil marble denial fortune dose boy";

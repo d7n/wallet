@@ -1,1 +1,1 @@
-var mnemonic = "reunion plastic skin garbage impact black metal trumpet mystery rare broccoli odor";
+var mnemonic = "strike load float dune flower retreat rotate skill project nut praise fall";

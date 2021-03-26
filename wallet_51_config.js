@@ -1,1 +1,1 @@
-var mnemonic = "limit alarm valley present flame mercy project zero method awesome bounce runway";
+var mnemonic = "kind include torch item bronze this tattoo bid perfect announce chest left";

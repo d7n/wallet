@@ -1,1 +1,1 @@
-var mnemonic = "chaos depart cook piano robot loud fade kingdom happy depth will south";
+var mnemonic = "aunt mix timber climb bar inquiry achieve define blossom laundry income will";

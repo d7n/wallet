@@ -1,1 +1,1 @@
-var mnemonic = "gold correct squirrel asset coin tuition program truth lecture trust index kiwi";
+var mnemonic = "rack current actual exhibit member card buddy chaos fire pass comfort blossom";

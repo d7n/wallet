@@ -1,1 +1,1 @@
-var mnemonic = "whip social ski wealth coffee pond mango welcome credit hunt arctic tomato";
+var mnemonic = "health key always great hold owner scatter million furnace seminar sun smooth";

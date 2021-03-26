@@ -1,1 +1,1 @@
-var mnemonic = "rather check baby plunge uniform cost airport copper print digital because segment";
+var mnemonic = "smart pattern tool chunk question blame orphan sadness metal topic talk rural";

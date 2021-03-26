@@ -1,1 +1,1 @@
-var mnemonic = "letter heavy snow frequent round else brass pencil odor veteran gaze galaxy";
+var mnemonic = "chase video unknown funny gossip worth under vast luggage panther situate robot";

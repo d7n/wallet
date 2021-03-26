@@ -1,1 +1,1 @@
-var mnemonic = "half rare together casual ignore tip black tornado poverty cereal custom fold";
+var mnemonic = "okay phrase damp license document vacant female reason pen salute toss suspect";

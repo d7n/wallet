@@ -1,1 +1,1 @@
-var mnemonic = "wide news power resource stadium wedding hawk sudden chest that civil waste";
+var mnemonic = "stadium lyrics debate arm fix dream antenna pattern hard grant strategy credit";

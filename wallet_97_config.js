@@ -1,1 +1,1 @@
-var mnemonic = "seek barrel security copy tower vibrant radar open envelope outside robot way";
+var mnemonic = "client manage venture open element patch pool skill calm doctor knee debate";

@@ -1,1 +1,1 @@
-var mnemonic = "fatal across glide sand human maple debris open chief edge organ guilt";
+var mnemonic = "kitten spike dynamic color dignity flower problem blood veteran crime country slice";

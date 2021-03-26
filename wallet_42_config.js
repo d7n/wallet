@@ -1,1 +1,1 @@
-var mnemonic = "vessel coffee quit century narrow shiver doctor soon dose peanut seminar remember";
+var mnemonic = "runway carpet blame poet emotion mass artist color crystal already sustain demand";

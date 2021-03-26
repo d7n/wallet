@@ -1,1 +1,1 @@
-var mnemonic = "stool scrap test sand vault dumb retreat humble syrup have permit tiger";
+var mnemonic = "prison click raccoon arrange almost fuel december aim observe minute update grief";

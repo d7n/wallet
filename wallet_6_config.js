@@ -1,1 +1,1 @@
-var mnemonic = "sibling dutch behave action stock lesson animal mule right drive audit inform";
+var mnemonic = "emerge observe save bread town dry corn where eight harbor gown network";

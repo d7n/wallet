@@ -1,1 +1,1 @@
-var mnemonic = "powder iron burst patch olive harsh salute crack tell mule toddler carbon";
+var mnemonic = "culture audit hospital girl slim minimum whisper science type spy fresh east";

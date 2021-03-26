@@ -1,1 +1,1 @@
-var mnemonic = "manual holiday orient basket economy meadow crew entry gauge naive north patient";
+var mnemonic = "hold abandon toy salute gate arena siren hurry idea become bike orphan";

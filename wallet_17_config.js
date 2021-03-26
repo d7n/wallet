@@ -1,1 +1,1 @@
-var mnemonic = "galaxy toddler draft reflect clarify mule source ancient drift oven music place";
+var mnemonic = "credit base dial absent vault nut farm bind mango cloth tissue squirrel";

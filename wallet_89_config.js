@@ -1,1 +1,1 @@
-var mnemonic = "obscure pear journey devote roast thrive morning language bridge adult season resource";
+var mnemonic = "bottom auto balcony alter odor punch urban fold charge kingdom decide coast";

@@ -1,1 +1,1 @@
-var mnemonic = "future notice city left margin gold panel soccer truck soda sign envelope";
+var mnemonic = "fragile ramp dish false tongue farm blur rent cliff shallow seven worry";

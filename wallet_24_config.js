@@ -1,1 +1,1 @@
-var mnemonic = "water retire cruel unlock ship cannon stone pride awake behave effort gold";
+var mnemonic = "matrix aim output solar tunnel stadium usage object song what dream usage";

@@ -1,1 +1,1 @@
-var mnemonic = "little attend cotton defy nation amateur copper birth exclude video advance wonder";
+var mnemonic = "elder shove recall run adapt update season elder iron amused learn effort";

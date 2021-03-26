@@ -1,1 +1,1 @@
-var mnemonic = "move urban video extra music miss leisure replace advance decrease disorder wash";
+var mnemonic = "audit around repeat basket congress sustain card vehicle town salute enhance nation";

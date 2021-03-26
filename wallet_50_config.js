@@ -1,1 +1,1 @@
-var mnemonic = "pigeon loop royal basic truth swift bachelor sock forest sister doll cushion";
+var mnemonic = "tell zone punch page timber virus idle bean shuffle season narrow morning";

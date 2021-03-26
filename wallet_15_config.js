@@ -1,1 +1,1 @@
-var mnemonic = "rule unit process birth ghost raise idle nest hollow direct dinner vessel";
+var mnemonic = "mimic subway drop champion cool man today chimney banana keen patient earth";

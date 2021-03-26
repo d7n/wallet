@@ -1,1 +1,1 @@
-var mnemonic = "grant myth hat pet master obey duty repeat panel entire clown during";
+var mnemonic = "armed neither surprise play cloth ensure vapor stone regular elevator direct soccer";

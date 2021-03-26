@@ -1,1 +1,1 @@
-var mnemonic = "learn breeze logic fringe toast bounce dune access syrup peace notable accuse";
+var mnemonic = "attack void thrive average dust park because dolphin judge fog ten deny";

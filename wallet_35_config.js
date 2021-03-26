@@ -1,1 +1,1 @@
-var mnemonic = "napkin trick notice enter feel regret toward drive eager favorite security adjust";
+var mnemonic = "erosion approve sure member spirit robust shop wait universe train chuckle ankle";

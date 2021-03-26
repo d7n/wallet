@@ -1,1 +1,1 @@
-var mnemonic = "notice boil follow glue donor indicate dinner wool lumber oval duck collect";
+var mnemonic = "elbow gentle hamster truth aunt reunion charge story rack borrow spot scare";

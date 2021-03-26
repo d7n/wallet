@@ -1,1 +1,1 @@
-var mnemonic = "sail margin opera column crazy entry life taste paper uphold pave smile";
+var mnemonic = "gather stand layer decline blouse deposit bomb wear magnet genuine earn survey";

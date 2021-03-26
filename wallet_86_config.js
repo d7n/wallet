@@ -1,1 +1,1 @@
-var mnemonic = "powder girl history dream genius flat have obvious biology veteran patient when";
+var mnemonic = "innocent ahead property unfold taxi myth mind genre defense slam melt sound";

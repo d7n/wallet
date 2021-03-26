@@ -1,1 +1,1 @@
-var mnemonic = "food priority boss better comic plunge tone elder scout cinnamon waste hawk";
+var mnemonic = "ranch meat sadness define potato bar sound paddle purchase modify plunge click";

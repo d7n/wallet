@@ -1,1 +1,1 @@
-var mnemonic = "earn dinosaur correct ranch talent pioneer ankle control small evolve together issue";
+var mnemonic = "tumble grow plug drum base check satoshi rug fork buyer result fossil";

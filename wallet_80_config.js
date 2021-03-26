@@ -1,1 +1,1 @@
-var mnemonic = "benefit tuition beyond collect valid crane borrow limb rent federal pear spider";
+var mnemonic = "away verify month pave aisle cable predict quantum page marble canal episode";

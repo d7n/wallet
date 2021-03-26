@@ -1,1 +1,1 @@
-var mnemonic = "vicious damp demand syrup stem wild fortune unaware chief eyebrow solid apple";
+var mnemonic = "chest harvest draw lazy upgrade drop acid educate fame divorce sadness crouch";

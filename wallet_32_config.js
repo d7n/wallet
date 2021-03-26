@@ -1,1 +1,1 @@
-var mnemonic = "cruel regular finger dry suggest pumpkin dad staff evoke inch combine picture";
+var mnemonic = "famous imitate corn next shrimp question plate monster invest coil pact spot";

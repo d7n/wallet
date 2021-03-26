@@ -1,1 +1,1 @@
-var mnemonic = "unaware alter light unlock solve loan book fitness sand hole forum bench";
+var mnemonic = "olympic mother vapor adapt gadget air myself service curtain debate pink surprise";

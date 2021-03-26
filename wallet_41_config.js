@@ -1,1 +1,1 @@
-var mnemonic = "bachelor yellow window toy symptom shield grace leisure foster luggage magic usual";
+var mnemonic = "only pizza forget priority aerobic depth globe chapter mail ignore use absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer chapter way equip library device bar ranch wasp jelly reveal valve";
+var mnemonic = "nominee ride erode science loud pink spoon casino canyon worth accuse jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "scan area first raw robot cross open eager oppose evoke reject river";
+var mnemonic = "december six kiwi grain unit ramp merge often winner measure step start";

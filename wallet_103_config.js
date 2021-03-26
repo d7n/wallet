@@ -1,1 +1,1 @@
-var mnemonic = "misery sell fetch enrich chicken throw clarify frown wife lamp mass fruit";
+var mnemonic = "dilemma pigeon sport make legal sport public rough imitate negative corn damp";

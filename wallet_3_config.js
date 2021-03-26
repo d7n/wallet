@@ -1,1 +1,1 @@
-var mnemonic = "firm empower festival language home noise exchange become detect cotton hungry siege";
+var mnemonic = "veteran now prepare breeze benefit cup person brave effort liquid eight enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "side output gown walk alone apple service inside army wrong appear kind";
+var mnemonic = "proud ancient drip connect retire author govern weird harbor impulse buzz sudden";

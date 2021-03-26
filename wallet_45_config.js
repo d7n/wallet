@@ -1,1 +1,1 @@
-var mnemonic = "festival pig ghost cram critic bleak hospital sand submit alien sport warfare";
+var mnemonic = "slight cup hero toy chronic history reward believe mixture express orient fine";

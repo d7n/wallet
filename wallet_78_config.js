@@ -1,1 +1,1 @@
-var mnemonic = "decorate cube frown shiver similar saddle clever sad hello december device trust";
+var mnemonic = "smoke now twenty exit melt daughter fox spin hole element select calm";

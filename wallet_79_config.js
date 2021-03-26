@@ -1,1 +1,1 @@
-var mnemonic = "couch voyage spirit link equip idle congress decline share core clean ancient";
+var mnemonic = "note right promote away neglect agree aware asthma gun tragic pattern pair";

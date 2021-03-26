@@ -1,1 +1,1 @@
-var mnemonic = "monkey evolve agent sight mention nice tumble leopard course knock famous pink";
+var mnemonic = "opera ten fatal used mass tattoo cup dinner love recycle angry force";

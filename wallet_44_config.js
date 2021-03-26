@@ -1,1 +1,1 @@
-var mnemonic = "better faint lens salute capital plug invest file antenna nothing various muffin";
+var mnemonic = "inhale kite slab body awkward capable rely marble blast naive enjoy lemon";

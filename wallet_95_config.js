@@ -1,1 +1,1 @@
-var mnemonic = "metal believe two pioneer local tissue mule often senior bicycle novel shrimp";
+var mnemonic = "spirit sign about track kitchen finish level ball family tiny future process";

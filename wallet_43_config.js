@@ -1,1 +1,1 @@
-var mnemonic = "endorse mix gorilla mass useless child fix mad shove gap retreat aunt";
+var mnemonic = "fancy odor soup unfold inmate advance bacon excess danger immense ankle valid";

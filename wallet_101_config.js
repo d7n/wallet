@@ -1,1 +1,1 @@
-var mnemonic = "snap blanket embody such impact fantasy fortune gauge grab apology sort joke";
+var mnemonic = "shift discover nothing undo volume afford orbit ranch practice churn version check";

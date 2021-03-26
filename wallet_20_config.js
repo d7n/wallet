@@ -1,1 +1,1 @@
-var mnemonic = "noble merit lazy bring coral dial thumb unusual tornado online bind lunch";
+var mnemonic = "harvest clay clog toe client flight never south include zoo follow scrap";

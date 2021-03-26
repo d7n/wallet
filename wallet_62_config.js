@@ -1,1 +1,1 @@
-var mnemonic = "soft eye young struggle matrix can island nice praise that join vote";
+var mnemonic = "crawl modify pupil hurry diesel govern quantum pudding eight loud quit copy";

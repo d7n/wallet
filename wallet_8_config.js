@@ -1,1 +1,1 @@
-var mnemonic = "laundry art crumble trim toward spy umbrella ticket purity silk salad property";
+var mnemonic = "miracle buzz kiwi silver rough blast excuse bottom uncle stuff talk stand";

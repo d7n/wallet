@@ -1,1 +1,1 @@
-var mnemonic = "juice chicken tape enjoy stove oblige weekend suffer noodle hundred describe student";
+var mnemonic = "indoor rifle bamboo broccoli million avocado then renew vendor confirm pistol ahead";

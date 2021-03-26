@@ -1,1 +1,1 @@
-var mnemonic = "wool burger pistol fee debate false wet benefit loud myself method dinosaur";
+var mnemonic = "relax month choice replace robot phrase omit amateur try cliff lady gallery";

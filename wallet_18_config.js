@@ -1,1 +1,1 @@
-var mnemonic = "fade olive kick oblige friend review assist taste boring cinnamon fringe place";
+var mnemonic = "promote lumber symptom bonus vital settle idea spoil stick action arrest point";

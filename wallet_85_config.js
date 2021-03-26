@@ -1,1 +1,1 @@
-var mnemonic = "cheap bitter lecture grit harsh day dolphin fatal frozen dumb wonder disagree";
+var mnemonic = "they until metal wolf shove february nest language gasp rough slush idea";

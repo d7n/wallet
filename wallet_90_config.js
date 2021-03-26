@@ -1,1 +1,1 @@
-var mnemonic = "decide number thought cattle require travel goat tower corn pitch stairs suffer";
+var mnemonic = "bright debate fashion pass piece police skate apology drop symbol liberty body";

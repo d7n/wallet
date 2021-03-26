@@ -1,1 +1,1 @@
-var mnemonic = "praise advance pole melt casual barrel slush celery choice brother pole tissue";
+var mnemonic = "fuel october faith actress correct tennis slide shock island guide antique repair";

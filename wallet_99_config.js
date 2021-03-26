@@ -1,1 +1,1 @@
-var mnemonic = "outer govern patient magnet turkey rebuild curtain tell crystal face resource leopard";
+var mnemonic = "job random shy moral donor claw potato era gorilla planet slot region";

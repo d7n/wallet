@@ -1,1 +1,1 @@
-var mnemonic = "squirrel feed actor sight unusual ramp dress foil film luggage bean ramp";
+var mnemonic = "under rain excite moment slab direct slab found away hint unveil field";

@@ -1,1 +1,1 @@
-var mnemonic = "speed monkey kit chef jungle region rib space copy crystal time engage";
+var mnemonic = "easy lady smile squeeze leaf story season derive require coast tell various";

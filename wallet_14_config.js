@@ -1,1 +1,1 @@
-var mnemonic = "ramp dinner assist vanish sense affair oil stomach valley naive regret west";
+var mnemonic = "raven pill blanket actress enforce seminar pole twist general elbow gospel ketchup";

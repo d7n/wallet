@@ -1,1 +1,1 @@
-var mnemonic = "squeeze wild genre pitch arctic arrange lake circle fever spice wheel daughter";
+var mnemonic = "damage bracket cake define announce flat adult easily mirror bounce sign entire";

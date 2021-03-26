@@ -1,1 +1,1 @@
-var mnemonic = "phrase spread pulp sort april trial spend grunt man share elder march";
+var mnemonic = "tube upgrade scrap own merge face elephant kitten pause protect project traffic";

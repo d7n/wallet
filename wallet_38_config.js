@@ -1,1 +1,1 @@
-var mnemonic = "problem anger deal praise artefact scrub child joke sphere become choice exhibit";
+var mnemonic = "duty bench birth orange assume utility envelope duck knee evil example agree";

@@ -1,1 +1,1 @@
-var mnemonic = "machine toast chaos switch pudding gentle decrease valley depth coral engine uncle";
+var mnemonic = "net prepare kind antique pottery push ten work valve crane hub horse";

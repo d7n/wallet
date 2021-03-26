@@ -1,1 +1,1 @@
-var mnemonic = "unfold sure duck lady trap defense begin spoil animal settle notable modify";
+var mnemonic = "permit allow select tenant forget sugar oil behave ethics desert rapid planet";

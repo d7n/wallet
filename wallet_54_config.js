@@ -1,1 +1,1 @@
-var mnemonic = "someone lunch blast stumble fox alter rabbit area service frown innocent moral";
+var mnemonic = "attend open guilt gallery someone dumb vague oak crouch pluck silly property";
