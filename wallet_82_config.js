@@ -1,1 +1,1 @@
-var mnemonic = "appear fan catalog hedgehog decade spawn saddle fit emotion base fantasy bike";
+var mnemonic = "supreme cake hammer liberty oblige special parent trade green blouse choice quit";

@@ -1,1 +1,1 @@
-var mnemonic = "angle mixture slam guess level roof soon menu risk wolf lake merit";
+var mnemonic = "scene gasp consider stone motion educate sugar utility exact guess dirt old";

@@ -1,1 +1,1 @@
-var mnemonic = "yard shed antenna little suit abandon situate notable adjust insect blind stove";
+var mnemonic = "shock cream purpose agent machine system tail wreck easy silver soap grid";

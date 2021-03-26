@@ -1,1 +1,1 @@
-var mnemonic = "ticket dragon endorse tuna history organ resemble asset retire food adult exit";
+var mnemonic = "element lion elevator help genre unknown enhance roof sibling close loop between";

@@ -1,1 +1,1 @@
-var mnemonic = "option member where shrug injury bunker quote worry onion razor lottery cactus";
+var mnemonic = "predict category advance antique strategy used fox gorilla elevator age horse later";

@@ -1,1 +1,1 @@
-var mnemonic = "hole coral thrive shy inquiry hover moral brisk course salon version ring";
+var mnemonic = "primary spare bicycle enforce soup wait shove merge myself circle light neck";

@@ -1,1 +1,1 @@
-var mnemonic = "advance dove bamboo grass match suffer muscle mule trust calm topic nature";
+var mnemonic = "tragic hammer soda summer tobacco canoe horse achieve cabin gift phone account";

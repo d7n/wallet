@@ -1,1 +1,1 @@
-var mnemonic = "lobster tag ask cute brief chuckle cram surge royal sponsor first inherit";
+var mnemonic = "below wise cram chase render pitch social gate input maple meat robust";

@@ -1,1 +1,1 @@
-var mnemonic = "afraid brass dwarf code one zoo stove seek vehicle drift rent alarm";
+var mnemonic = "hollow funny possible govern exercise any orphan clown student side mechanic ankle";

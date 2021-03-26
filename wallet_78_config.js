@@ -1,1 +1,1 @@
-var mnemonic = "bench random oven mercy fatal tissue antenna liar juice voyage wedding velvet";
+var mnemonic = "gap dizzy opinion pride breeze lemon oxygen quote dutch merge mind patient";

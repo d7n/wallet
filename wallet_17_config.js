@@ -1,1 +1,1 @@
-var mnemonic = "lift true coin oppose average river kit liquid basket mansion feed expand";
+var mnemonic = "outside transfer obvious fossil cause hour level shift sense buyer else shock";

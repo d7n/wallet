@@ -1,1 +1,1 @@
-var mnemonic = "absurd since twenty rice useless aerobic grid deposit lonely sniff zero depend";
+var mnemonic = "inject turn grab arctic fury shy direct boil outer throw dice salmon";

@@ -1,1 +1,1 @@
-var mnemonic = "twice wash cross hobby craft mean unfair talent record twelve eagle check";
+var mnemonic = "mandate crumble follow close absurd road dinosaur scrub clip unit any tape";

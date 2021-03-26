@@ -1,1 +1,1 @@
-var mnemonic = "culture arctic industry man win move story typical attitude wealth blossom sing";
+var mnemonic = "dwarf skin drum slow bacon clerk ribbon wool silver ecology weekend wedding";

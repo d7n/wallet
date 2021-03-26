@@ -1,1 +1,1 @@
-var mnemonic = "material student sock walnut exact artist bid taste clutch hawk social vendor";
+var mnemonic = "alert board metal bright code absurd narrow ethics current prevent legend picnic";

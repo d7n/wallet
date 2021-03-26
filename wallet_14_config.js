@@ -1,1 +1,1 @@
-var mnemonic = "course high educate hurdle sweet seed member supply possible obey model strike";
+var mnemonic = "expose security farm ensure useful gown bulb message true purpose rotate shoe";

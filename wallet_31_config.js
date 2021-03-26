@@ -1,1 +1,1 @@
-var mnemonic = "sting orphan script rose other public hard depend sweet copper spirit blade";
+var mnemonic = "swift stuff wedding panic spell cabbage enemy rotate sunset bless rib cost";

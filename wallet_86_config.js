@@ -1,1 +1,1 @@
-var mnemonic = "damage expect crystal satisfy coconut life record muscle resemble later shift smart";
+var mnemonic = "turtle welcome struggle cave machine fence burden warfare middle cloth mansion income";

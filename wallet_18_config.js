@@ -1,1 +1,1 @@
-var mnemonic = "sketch net talent tomorrow artist abuse license dirt inherit hurt faint resemble";
+var mnemonic = "mule talent ranch fortune tortoise join sample believe gadget life push will";

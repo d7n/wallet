@@ -1,1 +1,1 @@
-var mnemonic = "view tobacco main vibrant dust bacon view ranch toss city odor first";
+var mnemonic = "demand arm hungry grunt goddess eternal left coil kingdom oxygen friend what";

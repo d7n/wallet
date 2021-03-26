@@ -1,1 +1,1 @@
-var mnemonic = "distance choice pioneer genuine alarm clip front winner horse one always phone";
+var mnemonic = "eye eyebrow stock learn high claim cannon cricket borrow faint duty boss";

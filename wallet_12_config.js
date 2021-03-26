@@ -1,1 +1,1 @@
-var mnemonic = "bleak flag similar card entire keen board chest prepare ranch brown cup";
+var mnemonic = "interest popular plunge stomach allow next top silver draft comfort color behave";

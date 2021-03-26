@@ -1,1 +1,1 @@
-var mnemonic = "lamp sort kit midnight angry original rubber still retreat sing private ginger";
+var mnemonic = "snack suggest pledge hat bronze oppose extra spatial same dignity merge future";

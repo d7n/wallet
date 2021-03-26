@@ -1,1 +1,1 @@
-var mnemonic = "mushroom fever state seek saddle warm walk bachelor ancient lottery rule expand";
+var mnemonic = "east piano wife pass wall barrel reward renew depart ready hurry hard";

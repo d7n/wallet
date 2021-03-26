@@ -1,1 +1,1 @@
-var mnemonic = "demand dinosaur wave meat barely salmon cage surround decrease tag essence winner";
+var mnemonic = "address evolve toss false chronic tree city budget engage hawk action purse";

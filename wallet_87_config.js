@@ -1,1 +1,1 @@
-var mnemonic = "loan wreck amateur point sleep leisure harbor hunt innocent slogan army asthma";
+var mnemonic = "country input sudden wrist figure hidden bundle void silly scissors swear lion";

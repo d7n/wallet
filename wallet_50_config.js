@@ -1,1 +1,1 @@
-var mnemonic = "before earth curious chuckle supreme prepare host key wink control river buddy";
+var mnemonic = "left sock drama fog immense fiber climb hand equip ranch toilet round";

@@ -1,1 +1,1 @@
-var mnemonic = "pen electric call divorce able light staff breeze digital cheap twice crime";
+var mnemonic = "wide wait impose aunt burger arrest anchor surface appear idea stay inmate";

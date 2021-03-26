@@ -1,1 +1,1 @@
-var mnemonic = "wisdom snake radio section open chef side monster skate pair myth govern";
+var mnemonic = "assume dwarf shop few valve aware certain vintage leg palace lava parade";

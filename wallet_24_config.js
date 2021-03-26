@@ -1,1 +1,1 @@
-var mnemonic = "rigid tuition else mule west voice unfair album utility open swift true";
+var mnemonic = "payment theme spring horror silk identify people gospel hint satisfy relax eagle";

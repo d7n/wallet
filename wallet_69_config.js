@@ -1,1 +1,1 @@
-var mnemonic = "amused plate turtle myself scorpion garlic illegal spray shadow lunch erosion primary";
+var mnemonic = "can relax turtle pony draw zoo hub there oven top ensure speak";

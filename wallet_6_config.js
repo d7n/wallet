@@ -1,1 +1,1 @@
-var mnemonic = "omit tool recipe option custom fall invite dose ten weird cradle sudden";
+var mnemonic = "stay mind glue gauge keep frost forest rival pear bird myth shadow";

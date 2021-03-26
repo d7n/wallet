@@ -1,1 +1,1 @@
-var mnemonic = "become day clump transfer impulse cram cancel pyramid avoid nation design alter";
+var mnemonic = "culture muscle palace rally bacon spy display please corn script ramp bean";

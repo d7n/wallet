@@ -1,1 +1,1 @@
-var mnemonic = "sign misery grid renew detect giggle nerve leisure stick diagram stone kidney";
+var mnemonic = "rescue ridge intact canoe mammal soul dirt analyst jar post barely wink";

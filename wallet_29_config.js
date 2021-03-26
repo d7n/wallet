@@ -1,1 +1,1 @@
-var mnemonic = "silent sentence decade oven genuine grape blade economy between tomorrow bless armed";
+var mnemonic = "curious broccoli liar inform sick toilet venture patch infant code once blame";

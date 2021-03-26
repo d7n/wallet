@@ -1,1 +1,1 @@
-var mnemonic = "spatial timber wife pony gym injury shock similar wave wall account soldier";
+var mnemonic = "gather used cabbage notice cool basket crane shallow dune child year isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic strong meadow deposit february vital employ alley try combine room witness";
+var mnemonic = "usage match wire better gadget twist hat evil host guard hockey best";

@@ -1,1 +1,1 @@
-var mnemonic = "ostrich happy cable flash multiply legal news genre doctor toe mountain tape";
+var mnemonic = "anchor holiday sword legend dust space bench steak domain grunt hospital ethics";

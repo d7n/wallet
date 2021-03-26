@@ -1,1 +1,1 @@
-var mnemonic = "help amateur attitude pear illegal razor bulb vapor critic depend recall promote";
+var mnemonic = "expect flag advice suffer sheriff path menu truck trumpet license ancient vote";

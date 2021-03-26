@@ -1,1 +1,1 @@
-var mnemonic = "helmet kite card piano renew vacuum spike increase enter club brass artefact";
+var mnemonic = "rhythm vast confirm insect saddle gym quiz emotion anchor van primary wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "six pumpkin renew check budget hair employ chair cart chase axis scare";
+var mnemonic = "produce icon match rack plastic broom firm stone van visit census truly";

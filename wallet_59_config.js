@@ -1,1 +1,1 @@
-var mnemonic = "mesh infant trade police okay please ticket fly fit scheme fuel treat";
+var mnemonic = "choice jelly vessel praise cement brick keen situate fetch happy corn hurry";

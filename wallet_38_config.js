@@ -1,1 +1,1 @@
-var mnemonic = "gentle rose must glue sudden leader rifle warrior powder mansion banner puppy";
+var mnemonic = "floor desk spatial quick door gesture someone have idle garage gallery axis";

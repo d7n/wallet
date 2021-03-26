@@ -1,1 +1,1 @@
-var mnemonic = "damage inhale junk hen buyer ecology solution bulb member bleak alpha cloth";
+var mnemonic = "rapid south short oven pink energy practice mass sail debris rural junior";

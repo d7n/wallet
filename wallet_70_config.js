@@ -1,1 +1,1 @@
-var mnemonic = "season mixed carry gorilla hotel lift diagram carry recall parent never hair";
+var mnemonic = "build leader spatial nuclear fluid share husband cancel sort velvet clay cruel";

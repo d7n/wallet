@@ -1,1 +1,1 @@
-var mnemonic = "daughter cloud match that vibrant tilt plunge math bread bamboo region opinion";
+var mnemonic = "ignore finish fat shield uniform drum write pool army leader engine move";

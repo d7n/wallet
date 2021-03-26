@@ -1,1 +1,1 @@
-var mnemonic = "token shaft drip flight raven pen supply cherry original valve stem language";
+var mnemonic = "announce win hazard design initial arm creek organ today galaxy double source";

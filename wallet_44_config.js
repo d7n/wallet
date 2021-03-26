@@ -1,1 +1,1 @@
-var mnemonic = "today garage chicken repair trick chaos baby lizard noise twist relief begin";
+var mnemonic = "welcome punch father movie thunder shine endorse obscure hawk bread top orient";

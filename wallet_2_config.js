@@ -1,1 +1,1 @@
-var mnemonic = "resource trip custom rather nerve planet dad rocket salad leader snack proof";
+var mnemonic = "isolate lawn benefit shine movie scale snake cream lawn flush boost beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "hello upset unknown rural veteran economy oven unit miracle indoor camp torch";
+var mnemonic = "lunch marriage winter arctic order gas toy work advice fog doctor bring";

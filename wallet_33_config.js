@@ -1,1 +1,1 @@
-var mnemonic = "radar balcony close rival wreck joke elite hub coach pretty drum fiber";
+var mnemonic = "soup artwork begin worth cream glass salute grid crazy victory treat ugly";

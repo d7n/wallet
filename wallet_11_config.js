@@ -1,1 +1,1 @@
-var mnemonic = "lecture ancient west about market trumpet ordinary obvious tennis body any era";
+var mnemonic = "link scan remember shoulder fox heart dust mountain sell ordinary humble castle";

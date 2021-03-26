@@ -1,1 +1,1 @@
-var mnemonic = "first all lab law tunnel spell police inquiry tragic circle truly dove";
+var mnemonic = "trouble lonely dance heavy goose cement save speed erupt verify over oak";

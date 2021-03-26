@@ -1,1 +1,1 @@
-var mnemonic = "recipe sign animal bulb earn saddle walnut gym hint win accuse civil";
+var mnemonic = "stumble catalog sadness gospel derive scheme slogan aspect toss soul donate offer";

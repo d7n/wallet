@@ -1,1 +1,1 @@
-var mnemonic = "february drop taste rapid wrestle fantasy grab rescue symbol elite brother issue";
+var mnemonic = "rebel affair morning leave wash false miracle banana bitter flip dawn come";

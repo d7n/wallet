@@ -1,1 +1,1 @@
-var mnemonic = "beef seed try erupt relief grass cry excess february crucial tail embark";
+var mnemonic = "dress subject follow oval crazy fitness omit march hazard grace syrup aisle";

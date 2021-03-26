@@ -1,1 +1,1 @@
-var mnemonic = "merry acoustic scan yard family step nation public subway pupil raise bunker";
+var mnemonic = "youth session patrol seminar talent tackle table among gun trumpet tomato rule";

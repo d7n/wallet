@@ -1,1 +1,1 @@
-var mnemonic = "jelly lonely nice paper motion admit grunt exist eight clip wire rubber";
+var mnemonic = "depend pencil exhaust transfer load practice sugar grocery crawl type exact robot";

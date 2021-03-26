@@ -1,1 +1,1 @@
-var mnemonic = "gallery party talent collect quit pet confirm use little letter when echo";
+var mnemonic = "horse desert notice marble easy convince together space fragile they number south";

@@ -1,1 +1,1 @@
-var mnemonic = "quote ready scatter choose barrel cheese glove saddle source pride false patrol";
+var mnemonic = "travel camp join domain message become donkey hard riot foam charge luggage";

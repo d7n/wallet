@@ -1,1 +1,1 @@
-var mnemonic = "draw story song dust wreck provide salon motor mirror scout latin prison";
+var mnemonic = "gallery winner history plastic digital result indicate when bid clean advance movie";

@@ -1,1 +1,1 @@
-var mnemonic = "assist robot leopard reward lonely put motion umbrella day develop under chalk";
+var mnemonic = "boring loan dilemma forward frost amount olympic planet lonely expect fox timber";

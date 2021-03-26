@@ -1,1 +1,1 @@
-var mnemonic = "antique frog marine card genius turkey expect chapter split brand proud media";
+var mnemonic = "piece vacant wire yard napkin remind adjust sniff aerobic robot lift lens";

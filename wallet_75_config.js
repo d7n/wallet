@@ -1,1 +1,1 @@
-var mnemonic = "insane cycle multiply often cabin possible champion ugly enrich bubble cabin blanket";
+var mnemonic = "minor morning crumble crater ten zero parade paper year insane cash forget";

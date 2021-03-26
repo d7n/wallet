@@ -1,1 +1,1 @@
-var mnemonic = "able rely swing reduce muscle identify winter tired travel ice lens scrub";
+var mnemonic = "depend before chronic repair dinosaur noble hat humble goat vintage wife brother";

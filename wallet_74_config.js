@@ -1,1 +1,1 @@
-var mnemonic = "rapid prison jeans fiction romance pencil alert basket reflect panic charge define";
+var mnemonic = "chalk hope race minor make borrow turn bronze monster extra remember bargain";

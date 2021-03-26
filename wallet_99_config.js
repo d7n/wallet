@@ -1,1 +1,1 @@
-var mnemonic = "banner sketch amount please index flock injury swap basic outside invite recall";
+var mnemonic = "slogan price walk kitchen wage license alone exchange symbol cat spin beauty";

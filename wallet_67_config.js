@@ -1,1 +1,1 @@
-var mnemonic = "inherit drum display appear green retire dignity runway raven oppose relief chicken";
+var mnemonic = "collect kitten evolve wink rabbit moment goat cost name frozen execute above";

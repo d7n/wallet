@@ -1,1 +1,1 @@
-var mnemonic = "allow theme salon unknown cheap wrestle text grain issue mail position swear";
+var mnemonic = "client pink oyster cruise fossil sing arctic script document indoor clutch result";

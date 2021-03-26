@@ -1,1 +1,1 @@
-var mnemonic = "announce begin option harsh nuclear pudding cupboard one sunset fossil video rate";
+var mnemonic = "core now bunker tiger one build blue conduct radio now pattern witness";

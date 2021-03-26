@@ -1,1 +1,1 @@
-var mnemonic = "angle wave foam solve orbit album auction brain legend post noise hen";
+var mnemonic = "vast weekend quiz soup fashion solid use wool flee federal enter together";

@@ -1,1 +1,1 @@
-var mnemonic = "peace clown own logic title crawl biology bubble quarter stock pledge increase";
+var mnemonic = "vote annual sausage price runway simple grit wish floor toss juice force";

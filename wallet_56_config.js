@@ -1,1 +1,1 @@
-var mnemonic = "review gentle small key census visit move young ripple civil weather pudding";
+var mnemonic = "robust parent confirm kite mansion link language group sibling quote scrap oil";

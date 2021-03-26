@@ -1,1 +1,1 @@
-var mnemonic = "fly top neck high few predict cat false hurry harsh wait avoid";
+var mnemonic = "sample auto flush lazy change remove wasp fuel ready special fashion across";

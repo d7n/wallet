@@ -1,1 +1,1 @@
-var mnemonic = "staff cash piece runway science master blossom dumb old token pole giggle";
+var mnemonic = "milk funny media twist trick cattle polar mixture cinnamon luggage good butter";

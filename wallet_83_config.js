@@ -1,1 +1,1 @@
-var mnemonic = "mobile vivid code wire charge lazy leopard festival turkey host extend interest";
+var mnemonic = "tomato maximum rail jungle cabin friend flush pitch save curious ketchup apology";

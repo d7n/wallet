@@ -1,1 +1,1 @@
-var mnemonic = "error parrot upper theory shoulder differ coach planet donor glass carbon elite";
+var mnemonic = "review clinic drum wire fiction spice jacket supreme isolate urge cabin approve";

@@ -1,1 +1,1 @@
-var mnemonic = "shove height fiscal hour toilet bullet uncle subway erupt attitude program mechanic";
+var mnemonic = "surround select piano nominee tree explain hammer memory off fame lake label";

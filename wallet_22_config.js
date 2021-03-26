@@ -1,1 +1,1 @@
-var mnemonic = "erode index assault mistake huge inflict noodle monkey matrix piece stock tortoise";
+var mnemonic = "banana solid spell hen crush unaware feature purpose inhale control sea mystery";

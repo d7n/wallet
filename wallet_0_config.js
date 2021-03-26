@@ -1,1 +1,1 @@
-var mnemonic = "sad olive visa bubble oblige early prize tissue since wait lumber rebel";
+var mnemonic = "logic useless glove axis wheel act hockey burden junk notice sample mushroom";

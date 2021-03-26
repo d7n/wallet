@@ -1,1 +1,1 @@
-var mnemonic = "donate year more surge better deal pattern excess jazz merge off zone";
+var mnemonic = "mountain film radar monitor bacon kiss shine unaware right emerge hurt balance";

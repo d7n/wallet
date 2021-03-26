@@ -1,1 +1,1 @@
-var mnemonic = "seed artefact wait air trouble traffic clutch garlic produce frequent quiz now";
+var mnemonic = "hurt loud travel turn maid novel soldier library cherry green task method";

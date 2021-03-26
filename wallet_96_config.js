@@ -1,1 +1,1 @@
-var mnemonic = "brick stick asset bike finger buddy crane social goddess initial dragon stem";
+var mnemonic = "toe arrest company paddle upset sphere lock spirit miss leader wise chest";

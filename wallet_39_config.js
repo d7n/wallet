@@ -1,1 +1,1 @@
-var mnemonic = "opera stumble rich private siren surround casino brain arch under elegant actress";
+var mnemonic = "arrange material borrow job lizard begin brass fabric token swallow glad abandon";

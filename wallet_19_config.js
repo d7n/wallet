@@ -1,1 +1,1 @@
-var mnemonic = "case wife bomb ensure warrior title drop corn boy toe defy engage";
+var mnemonic = "anger pig oxygen glad lizard desert coconut point pipe such news display";

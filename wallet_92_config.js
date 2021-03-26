@@ -1,1 +1,1 @@
-var mnemonic = "around mail cart fiscal wrong coil knee wash quick choose assume basket";
+var mnemonic = "east climb above awake taste avocado dismiss junk action theory brush grant";

@@ -1,1 +1,1 @@
-var mnemonic = "useless west panel strong boil peanut embody total hero little ill poet";
+var mnemonic = "train piano flight unknown adult play trouble angry name chase shallow equal";

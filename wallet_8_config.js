@@ -1,1 +1,1 @@
-var mnemonic = "evolve maid scan rain noise burst rural leaf dignity artist muscle spare";
+var mnemonic = "winner wet scorpion attack lesson this sketch sphere jeans boost ritual fiction";

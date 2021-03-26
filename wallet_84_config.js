@@ -1,1 +1,1 @@
-var mnemonic = "earn theme reflect whale sniff joke expect parade describe elegant spin nominee";
+var mnemonic = "gospel submit history fruit bird wood limb vague noodle toy cruel ice";

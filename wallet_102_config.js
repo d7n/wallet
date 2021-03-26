@@ -1,1 +1,1 @@
-var mnemonic = "gadget develop salon access quarter beyond jungle festival rocket public attract garbage";
+var mnemonic = "climb sponsor wasp uphold arch cream grape agent project enhance crane joke";
