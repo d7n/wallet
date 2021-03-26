@@ -1,1 +1,1 @@
-var mnemonic = "want disagree scout material gun tone worry actor wall lucky space secret";
+var mnemonic = "water retire cruel unlock ship cannon stone pride awake behave effort gold";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong powder lunar veteran success chuckle proud wink olympic sing snow couch";
+var mnemonic = "decide number thought cattle require travel goat tower corn pitch stairs suffer";

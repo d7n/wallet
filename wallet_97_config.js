@@ -1,1 +1,1 @@
-var mnemonic = "march excuse lend garage army card enrich account pumpkin tooth boring deny";
+var mnemonic = "seek barrel security copy tower vibrant radar open envelope outside robot way";

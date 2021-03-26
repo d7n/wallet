@@ -1,1 +1,1 @@
-var mnemonic = "culture circle local plug travel palace panel frog olive girl bid mask";
+var mnemonic = "festival pig ghost cram critic bleak hospital sand submit alien sport warfare";

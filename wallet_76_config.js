@@ -1,1 +1,1 @@
-var mnemonic = "hockey diet crater wall bullet stay nature hawk decorate opinion agree swift";
+var mnemonic = "half rare together casual ignore tip black tornado poverty cereal custom fold";

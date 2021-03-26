@@ -1,1 +1,1 @@
-var mnemonic = "flash lucky team enable glove unfold fiction patrol clog renew sick quality";
+var mnemonic = "ramp dinner assist vanish sense affair oil stomach valley naive regret west";

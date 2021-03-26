@@ -1,1 +1,1 @@
-var mnemonic = "vintage flush wet drift foam reduce whisper catch cloth party peace hire";
+var mnemonic = "monkey evolve agent sight mention nice tumble leopard course knock famous pink";

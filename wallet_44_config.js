@@ -1,1 +1,1 @@
-var mnemonic = "bonus real shoe neglect valid vapor claim purchase ripple play oval assume";
+var mnemonic = "better faint lens salute capital plug invest file antenna nothing various muffin";

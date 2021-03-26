@@ -1,1 +1,1 @@
-var mnemonic = "staff dance injury marriage sport lunch insect when dune echo miracle abstract";
+var mnemonic = "flat fragile window receive enlist mammal actual receive flee auto banana burst";

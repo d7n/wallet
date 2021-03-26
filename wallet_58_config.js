@@ -1,1 +1,1 @@
-var mnemonic = "ostrich divorce boy hunt wagon correct airport become guitar federal weird animal";
+var mnemonic = "flash slim bird beyond despair grid vote impact loud sadness desk penalty";

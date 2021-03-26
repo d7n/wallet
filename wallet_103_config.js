@@ -1,1 +1,1 @@
-var mnemonic = "grab angle danger honey stand bubble cute device trim weasel moral aspect";
+var mnemonic = "misery sell fetch enrich chicken throw clarify frown wife lamp mass fruit";

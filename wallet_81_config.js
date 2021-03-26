@@ -1,1 +1,1 @@
-var mnemonic = "curious canal worry parrot ask black friend holiday mass monster upper perfect";
+var mnemonic = "jump pioneer skill shine magnet village quit biology ribbon satisfy doctor sponsor";

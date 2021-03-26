@@ -1,1 +1,1 @@
-var mnemonic = "stand source virus exhibit ugly cherry include pave cart shed math metal";
+var mnemonic = "iron decline mammal food cage cream fix reduce innocent resource taxi rescue";

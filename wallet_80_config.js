@@ -1,1 +1,1 @@
-var mnemonic = "peanut library bamboo champion indicate parent primary collect lunch this tray void";
+var mnemonic = "benefit tuition beyond collect valid crane borrow limb rent federal pear spider";

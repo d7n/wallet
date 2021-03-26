@@ -1,1 +1,1 @@
-var mnemonic = "front child fee member pattern harsh debate trigger mind shop special ill";
+var mnemonic = "sail margin opera column crazy entry life taste paper uphold pave smile";

@@ -1,1 +1,1 @@
-var mnemonic = "where coyote you scare budget useful adjust outside friend seat glove fall";
+var mnemonic = "exhaust theme enlist hurdle success comic valve rate magic spirit curve surprise";

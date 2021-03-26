@@ -1,1 +1,1 @@
-var mnemonic = "notable during kiwi fine inspire eager custom series rug enemy amused spider";
+var mnemonic = "letter heavy snow frequent round else brass pencil odor veteran gaze galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic region artist pulp defense kingdom salute horror veteran glow deny supply";
+var mnemonic = "purity story soul repeat put rubber turn dumb sight upon kind skull";

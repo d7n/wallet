@@ -1,1 +1,1 @@
-var mnemonic = "ritual just board casual together soap ordinary plate ensure position bargain turtle";
+var mnemonic = "armor jungle across hotel story flee bubble faint destroy run beyond planet";

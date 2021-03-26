@@ -1,1 +1,1 @@
-var mnemonic = "west lab rug educate range mad hurdle material test virtual illegal install";
+var mnemonic = "sibling dutch behave action stock lesson animal mule right drive audit inform";

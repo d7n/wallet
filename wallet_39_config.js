@@ -1,1 +1,1 @@
-var mnemonic = "oval link cabbage upper cry nice smoke motion retreat portion theme casino";
+var mnemonic = "rather check baby plunge uniform cost airport copper print digital because segment";

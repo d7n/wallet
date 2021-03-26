@@ -1,1 +1,1 @@
-var mnemonic = "labor salon crew office bleak grocery divide leader tackle glory skill artwork";
+var mnemonic = "horn photo matrix employ inherit goddess half assume blossom stand panel inject";

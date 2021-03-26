@@ -1,1 +1,1 @@
-var mnemonic = "sleep head else build almost hire enhance tray expire pizza man replace";
+var mnemonic = "near grief agree absent leader raise hill beef law pull melt dolphin";

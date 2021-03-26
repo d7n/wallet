@@ -1,1 +1,1 @@
-var mnemonic = "betray worth kid magnet knife funny timber daughter bottom afford spare hat";
+var mnemonic = "leader cool notable novel exit finger churn alley orient cave tragic adult";

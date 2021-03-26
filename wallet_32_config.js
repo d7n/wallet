@@ -1,1 +1,1 @@
-var mnemonic = "area cabin often tide tooth letter glance velvet win empty burst cattle";
+var mnemonic = "cruel regular finger dry suggest pumpkin dad staff evoke inch combine picture";

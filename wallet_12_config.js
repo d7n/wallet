@@ -1,1 +1,1 @@
-var mnemonic = "garlic disease inmate fault concert casino kitten nature ski glass because best";
+var mnemonic = "juice chicken tape enjoy stove oblige weekend suffer noodle hundred describe student";

@@ -1,1 +1,1 @@
-var mnemonic = "enact ticket slender world draw book also nominee combine kangaroo bike debris";
+var mnemonic = "stool scrap test sand vault dumb retreat humble syrup have permit tiger";

@@ -1,1 +1,1 @@
-var mnemonic = "deer soda memory balance will chair lady orient sand pluck dutch mystery";
+var mnemonic = "earn dinosaur correct ranch talent pioneer ankle control small evolve together issue";

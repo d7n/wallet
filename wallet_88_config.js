@@ -1,1 +1,1 @@
-var mnemonic = "pen split maze glove vapor agree illegal gallery guilt motor cover eight";
+var mnemonic = "side output gown walk alone apple service inside army wrong appear kind";

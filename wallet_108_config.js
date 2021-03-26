@@ -1,1 +1,1 @@
-var mnemonic = "obtain mention august private double permit imitate alpha pull source frame tooth";
+var mnemonic = "giraffe boy illegal account trash swamp tired inch license affair where minor";

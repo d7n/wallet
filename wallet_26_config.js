@@ -1,1 +1,1 @@
-var mnemonic = "left fatigue pulse master wisdom skull minor kidney chair panel build now";
+var mnemonic = "sign knock fence apology cradle firm assume tuition gold top asset lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra lend joke pulse offer swing diagram coconut tunnel aerobic unlock detect";
+var mnemonic = "priority goose rhythm surprise inquiry ramp crumble taste purpose pottery glue scale";

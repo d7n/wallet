@@ -1,1 +1,1 @@
-var mnemonic = "order extra ocean miracle ocean agent hire scatter slide theory expand wet";
+var mnemonic = "motion behind resemble cabin slab evidence choose review spell bridge math sister";

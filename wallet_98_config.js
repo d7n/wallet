@@ -1,1 +1,1 @@
-var mnemonic = "planet fit regret odor online ski paddle away depend poet river say";
+var mnemonic = "knee neglect neck between chunk coil skill crazy name dirt aim dirt";

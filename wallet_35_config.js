@@ -1,1 +1,1 @@
-var mnemonic = "mention script addict enough couple twenty outdoor phrase dry dizzy disorder wolf";
+var mnemonic = "napkin trick notice enter feel regret toward drive eager favorite security adjust";

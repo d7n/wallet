@@ -1,1 +1,1 @@
-var mnemonic = "prison gesture frown margin hedgehog pretty adapt legal march claw pretty pair";
+var mnemonic = "rule unit process birth ghost raise idle nest hollow direct dinner vessel";

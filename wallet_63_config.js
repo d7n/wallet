@@ -1,1 +1,1 @@
-var mnemonic = "elite index person acquire paddle banana axis fiber equal tray decline float";
+var mnemonic = "manual holiday orient basket economy meadow crew entry gauge naive north patient";

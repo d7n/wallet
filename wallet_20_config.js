@@ -1,1 +1,1 @@
-var mnemonic = "turkey since wreck wink pyramid flush blame scheme exercise funny have sight";
+var mnemonic = "noble merit lazy bring coral dial thumb unusual tornado online bind lunch";

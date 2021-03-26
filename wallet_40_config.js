@@ -1,1 +1,1 @@
-var mnemonic = "urge zero major hello element bread carbon gold puppy elegant flip cereal";
+var mnemonic = "wide news power resource stadium wedding hawk sudden chest that civil waste";

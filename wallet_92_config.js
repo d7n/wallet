@@ -1,1 +1,1 @@
-var mnemonic = "pill accident easy misery maple strong rhythm intact deer victory explain detail";
+var mnemonic = "gold correct squirrel asset coin tuition program truth lecture trust index kiwi";

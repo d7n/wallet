@@ -1,1 +1,1 @@
-var mnemonic = "pride suggest rubber six stick average honey bachelor burden foil cruel eagle";
+var mnemonic = "problem anger deal praise artefact scrub child joke sphere become choice exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "connect guide travel beef vintage change radar month cannon diamond raw blame";
+var mnemonic = "notice boil follow glue donor indicate dinner wool lumber oval duck collect";

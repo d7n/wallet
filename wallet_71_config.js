@@ -1,1 +1,1 @@
-var mnemonic = "eagle middle enter genre arrest swarm carry planet ladder scout doll embark";
+var mnemonic = "cherry apart friend dwarf vendor insane uphold clock index oblige hold margin";

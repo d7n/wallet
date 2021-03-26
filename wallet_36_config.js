@@ -1,1 +1,1 @@
-var mnemonic = "movie wet clarify web expose umbrella rug imitate collect spin deny hidden";
+var mnemonic = "odor stage polar return decade safe note color auction cool flush female";

@@ -1,1 +1,1 @@
-var mnemonic = "valve offer rice magic orphan shrimp mad sort material brand mammal unique";
+var mnemonic = "powder girl history dream genius flat have obvious biology veteran patient when";

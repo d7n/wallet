@@ -1,1 +1,1 @@
-var mnemonic = "resemble switch assist junior poet neck antique crouch accuse solid arrest heart";
+var mnemonic = "reason fish begin cover cable ankle gift slide clock crawl cage ask";

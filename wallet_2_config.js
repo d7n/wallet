@@ -1,1 +1,1 @@
-var mnemonic = "couch expand annual stock direct pulse erosion price crunch animal flame inject";
+var mnemonic = "twice square wool enroll remind slight endless submit effort message dream tenant";

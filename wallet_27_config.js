@@ -1,1 +1,1 @@
-var mnemonic = "reward layer pave scatter flame fuel bachelor small govern absent episode lake";
+var mnemonic = "crater harbor input mix vocal control tackle verb flight share oblige tongue";

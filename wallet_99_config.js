@@ -1,1 +1,1 @@
-var mnemonic = "vapor extra state chapter lamp tilt arena spot solar snake fish drip";
+var mnemonic = "outer govern patient magnet turkey rebuild curtain tell crystal face resource leopard";

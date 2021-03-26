@@ -1,1 +1,1 @@
-var mnemonic = "naive staff asthma soft crash remember shed circle level clarify syrup stairs";
+var mnemonic = "soft eye young struggle matrix can island nice praise that join vote";

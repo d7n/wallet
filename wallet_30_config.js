@@ -1,1 +1,1 @@
-var mnemonic = "behind hard cattle unhappy one addict theory quote remove way best throw";
+var mnemonic = "food priority boss better comic plunge tone elder scout cinnamon waste hawk";

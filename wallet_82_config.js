@@ -1,1 +1,1 @@
-var mnemonic = "island spoil glance puzzle absurd sugar tragic crisp damp bench now ask";
+var mnemonic = "whip social ski wealth coffee pond mango welcome credit hunt arctic tomato";

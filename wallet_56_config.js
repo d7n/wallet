@@ -1,1 +1,1 @@
-var mnemonic = "reason kick next trouble burden police perfect fit absurd wide rough flee";
+var mnemonic = "learn breeze logic fringe toast bounce dune access syrup peace notable accuse";

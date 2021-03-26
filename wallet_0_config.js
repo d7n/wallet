@@ -1,1 +1,1 @@
-var mnemonic = "lunch entire evoke worry gospel element prefer define snack dinosaur use oppose";
+var mnemonic = "future notice city left margin gold panel soccer truck soda sign envelope";

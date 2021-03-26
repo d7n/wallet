@@ -1,1 +1,1 @@
-var mnemonic = "despair motion pond divert save network remember match elder about donkey high";
+var mnemonic = "arch rigid guard narrow basket one oxygen fuel useful rich rule address";

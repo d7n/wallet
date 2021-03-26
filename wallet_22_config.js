@@ -1,1 +1,1 @@
-var mnemonic = "test bomb seven gorilla audit leg load curtain wisdom lock crazy topple";
+var mnemonic = "squirrel feed actor sight unusual ramp dress foil film luggage bean ramp";

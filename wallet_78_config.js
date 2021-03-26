@@ -1,1 +1,1 @@
-var mnemonic = "luxury toilet utility cook cross welcome cinnamon universe voyage truck film issue";
+var mnemonic = "decorate cube frown shiver similar saddle clever sad hello december device trust";

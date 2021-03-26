@@ -1,1 +1,1 @@
-var mnemonic = "deliver notable quit once bleak estate roast resist famous woman major scheme";
+var mnemonic = "someone lunch blast stumble fox alter rabbit area service frown innocent moral";

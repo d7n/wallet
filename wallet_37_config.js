@@ -1,1 +1,1 @@
-var mnemonic = "perfect giant slender ritual ostrich party apart leave fit earth inquiry actress";
+var mnemonic = "trophy dwarf gain primary century flower business cause kite inch north edge";

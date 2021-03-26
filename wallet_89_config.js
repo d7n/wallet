@@ -1,1 +1,1 @@
-var mnemonic = "board shoulder renew thrive error season catalog assume dice wing peanut entire";
+var mnemonic = "obscure pear journey devote roast thrive morning language bridge adult season resource";

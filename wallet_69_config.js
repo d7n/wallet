@@ -1,1 +1,1 @@
-var mnemonic = "rate whale castle panic helmet antenna often pony double bridge merge burden";
+var mnemonic = "speed monkey kit chef jungle region rib space copy crystal time engage";

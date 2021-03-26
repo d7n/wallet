@@ -1,1 +1,1 @@
-var mnemonic = "possible slot green rigid target curve clip useless tenant relax first toy";
+var mnemonic = "type ketchup impulse pause cherry guide walnut cube during critic street pair";

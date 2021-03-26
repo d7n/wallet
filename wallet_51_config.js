@@ -1,1 +1,1 @@
-var mnemonic = "pledge night problem cook kitchen another margin pioneer useful rotate category inhale";
+var mnemonic = "limit alarm valley present flame mercy project zero method awesome bounce runway";

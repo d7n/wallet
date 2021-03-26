@@ -1,1 +1,1 @@
-var mnemonic = "humor rather cluster lizard wolf ten teach twelve worry cabbage great camera";
+var mnemonic = "scan area first raw robot cross open eager oppose evoke reject river";

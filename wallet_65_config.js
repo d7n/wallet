@@ -1,1 +1,1 @@
-var mnemonic = "energy oxygen elevator library sponsor urge argue upper always oblige tell dilemma";
+var mnemonic = "powder iron burst patch olive harsh salute crack tell mule toddler carbon";

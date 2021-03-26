@@ -1,1 +1,1 @@
-var mnemonic = "ethics attitude shadow argue galaxy diagram wrong amused next believe ramp heavy";
+var mnemonic = "fatal across glide sand human maple debris open chief edge organ guilt";

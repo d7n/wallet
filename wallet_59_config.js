@@ -1,1 +1,1 @@
-var mnemonic = "satisfy pulp wood ancient patch teach ginger judge excite father silent lady";
+var mnemonic = "where escape inspire noise rib imitate spike idea balcony south seat leisure";

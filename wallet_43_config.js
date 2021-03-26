@@ -1,1 +1,1 @@
-var mnemonic = "heart outside naive fog keep middle wise armor acquire cannon supreme crew";
+var mnemonic = "endorse mix gorilla mass useless child fix mad shove gap retreat aunt";

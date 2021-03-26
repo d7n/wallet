@@ -1,1 +1,1 @@
-var mnemonic = "scan phone snake sadness secret cargo try repeat boost catch settle define";
+var mnemonic = "wool burger pistol fee debate false wet benefit loud myself method dinosaur";

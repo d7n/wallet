@@ -1,1 +1,1 @@
-var mnemonic = "stuff cargo library group puppy develop label leisure melody large turn limb";
+var mnemonic = "cheap bitter lecture grit harsh day dolphin fatal frozen dumb wonder disagree";

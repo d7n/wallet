@@ -1,1 +1,1 @@
-var mnemonic = "repair visa symptom green expose climb glue priority tunnel flat story rocket";
+var mnemonic = "shuffle luxury weather wealth prevent federal earth puppy physical copper seven angle";

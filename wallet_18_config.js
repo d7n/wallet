@@ -1,1 +1,1 @@
-var mnemonic = "under clown render romance practice jump sense achieve rally sense reduce kingdom";
+var mnemonic = "fade olive kick oblige friend review assist taste boring cinnamon fringe place";

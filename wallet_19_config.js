@@ -1,1 +1,1 @@
-var mnemonic = "level report elbow ginger gadget enable ordinary sausage potato citizen repeat machine";
+var mnemonic = "river wash castle balance luxury behave shoot private region cradle phone pulp";

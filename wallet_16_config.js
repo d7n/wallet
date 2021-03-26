@@ -1,1 +1,1 @@
-var mnemonic = "among team symbol below task cherry genre pepper spell silver office taste";
+var mnemonic = "evoke horn pattern reason decade agree market female page mistake ride stable";

@@ -1,1 +1,1 @@
-var mnemonic = "grass fiscal cream bread caution truth mountain popular emerge develop obtain march";
+var mnemonic = "reunion plastic skin garbage impact black metal trumpet mystery rare broccoli odor";

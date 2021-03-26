@@ -1,1 +1,1 @@
-var mnemonic = "code size pole hollow camp suggest average filter meadow junk change year";
+var mnemonic = "exotic army obtain gain wish gun cliff prevent citizen iron honey fault";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh kind festival daring exchange main toy scale vehicle dial rapid film";
+var mnemonic = "grant myth hat pet master obey duty repeat panel entire clown during";

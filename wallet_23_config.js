@@ -1,1 +1,1 @@
-var mnemonic = "deer state salt gloom cupboard fuel fault below rate famous tiny build";
+var mnemonic = "machine toast chaos switch pudding gentle decrease valley depth coral engine uncle";

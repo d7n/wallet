@@ -1,1 +1,1 @@
-var mnemonic = "about ethics chalk casual carry peasant sure genius dune settle invite warrior";
+var mnemonic = "bachelor yellow window toy symptom shield grace leisure foster luggage magic usual";

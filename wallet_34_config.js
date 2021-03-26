@@ -1,1 +1,1 @@
-var mnemonic = "obey afford squirrel hamster vehicle bind snack deny fame quiz sphere remember";
+var mnemonic = "squeeze wild genre pitch arctic arrange lake circle fever spice wheel daughter";

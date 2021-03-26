@@ -1,1 +1,1 @@
-var mnemonic = "water pair sorry twelve nest increase shoe use wave current zone few";
+var mnemonic = "siren draft version carry true amount sadness topple portion child benefit exist";

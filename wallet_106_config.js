@@ -1,1 +1,1 @@
-var mnemonic = "mother office hold defy scissors demise legal annual unit picture sail fix";
+var mnemonic = "leisure sudden follow unique comfort crouch genuine asthma mandate section that club";

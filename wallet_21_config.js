@@ -1,1 +1,1 @@
-var mnemonic = "phrase salute moral grow dust zebra robust relax champion better hood pupil";
+var mnemonic = "surprise special rookie culture exist rescue problem unfair situate stem tone excess";

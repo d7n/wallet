@@ -1,1 +1,1 @@
-var mnemonic = "dutch danger delay wolf world spare weird ski head wrist season recycle";
+var mnemonic = "pigeon loop royal basic truth swift bachelor sock forest sister doll cushion";

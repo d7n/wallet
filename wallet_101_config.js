@@ -1,1 +1,1 @@
-var mnemonic = "exchange tree upper attend strike defy apart kingdom material harsh gun yellow";
+var mnemonic = "snap blanket embody such impact fantasy fortune gauge grab apology sort joke";

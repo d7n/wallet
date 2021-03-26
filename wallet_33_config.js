@@ -1,1 +1,1 @@
-var mnemonic = "defy chapter member hold east win slot spray boost absent transfer hole";
+var mnemonic = "tissue orient science receive final attack wasp tone insect drastic salute dismiss";

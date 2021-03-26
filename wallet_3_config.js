@@ -1,1 +1,1 @@
-var mnemonic = "curtain tonight century phrase party ecology assist swamp very that horn treat";
+var mnemonic = "firm empower festival language home noise exchange become detect cotton hungry siege";

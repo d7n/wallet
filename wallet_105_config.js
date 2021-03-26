@@ -1,1 +1,1 @@
-var mnemonic = "rocket soccer buddy never wash polar hurdle bicycle devote grant goose narrow";
+var mnemonic = "hammer chapter way equip library device bar ranch wasp jelly reveal valve";

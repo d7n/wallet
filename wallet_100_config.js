@@ -1,1 +1,1 @@
-var mnemonic = "develop warfare affair duty kiwi grunt between offer bubble marriage predict first";
+var mnemonic = "unfold sure duck lady trap defense begin spoil animal settle notable modify";

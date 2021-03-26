@@ -1,1 +1,1 @@
-var mnemonic = "spy claim grain ivory pilot coconut next humble thunder food work wreck";
+var mnemonic = "vicious damp demand syrup stem wild fortune unaware chief eyebrow solid apple";

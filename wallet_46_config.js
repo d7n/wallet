@@ -1,1 +1,1 @@
-var mnemonic = "dice acid tiger arrest mushroom federal rotate gasp vehicle wool orient exact";
+var mnemonic = "unaware alter light unlock solve loan book fitness sand hole forum bench";
