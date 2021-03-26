@@ -1,1 +1,1 @@
-var mnemonic = "adult enroll twelve envelope trim blind input defy impose casino lab hotel";
+var mnemonic = "lift vintage kitchen champion arch enough chase pear radar time hamster remember";

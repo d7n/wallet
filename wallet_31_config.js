@@ -1,1 +1,1 @@
-var mnemonic = "provide garbage bridge remain cream soon situate screen finger foil cross unusual";
+var mnemonic = "senior two brush warrior wreck undo outside reopen wasp loop other rain";

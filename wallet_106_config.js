@@ -1,1 +1,1 @@
-var mnemonic = "catalog change battle yard company artwork lab process sample wise hedgehog laundry";
+var mnemonic = "young simple snow already ivory remember place boost file cook project worry";

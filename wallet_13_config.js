@@ -1,1 +1,1 @@
-var mnemonic = "spoil siren mandate boy essay token helmet elder cotton never lonely party";
+var mnemonic = "isolate talent humble spatial medal common dog clinic foil ethics donor ripple";

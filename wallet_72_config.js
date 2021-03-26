@@ -1,1 +1,1 @@
-var mnemonic = "deputy dragon slim digital road creek fence nice destroy cart load asthma";
+var mnemonic = "about furnace invest peanut alien twenty winner erupt wish urban interest before";

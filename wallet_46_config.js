@@ -1,1 +1,1 @@
-var mnemonic = "cable riot educate denial interest symbol exhibit much sauce bid size female";
+var mnemonic = "fun crouch company shed quarter tent negative build bomb minor argue pride";

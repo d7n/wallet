@@ -1,1 +1,1 @@
-var mnemonic = "fatal antenna chicken hammer board valve alpha appear intact army leisure truth";
+var mnemonic = "rug admit decrease evil practice ginger trust case dream subway permit smart";

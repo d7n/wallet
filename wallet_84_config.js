@@ -1,1 +1,1 @@
-var mnemonic = "recipe sand curious skull kangaroo flip eternal absent smooth glance meat civil";
+var mnemonic = "lounge equal drink risk boil spawn frown embrace comfort bracket industry neglect";

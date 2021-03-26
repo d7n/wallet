@@ -1,1 +1,1 @@
-var mnemonic = "eagle connect anger enrich team small satisfy grocery attend sport left unveil";
+var mnemonic = "drama similar grunt trim glove ordinary slide pride spray cupboard fancy area";

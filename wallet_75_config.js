@@ -1,1 +1,1 @@
-var mnemonic = "buddy jazz clarify snap left smoke churn interest mention reflect tennis amused";
+var mnemonic = "chaos six identify dash chest wide winter raven frog develop evolve jar";

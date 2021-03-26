@@ -1,1 +1,1 @@
-var mnemonic = "cage method decorate brother speed piece immense sting purse prevent naive section";
+var mnemonic = "innocent bachelor fork strategy tornado absorb simple bag gadget voyage envelope practice";

@@ -1,1 +1,1 @@
-var mnemonic = "bless oil frog dawn ramp visual leopard tenant vehicle tell side forum";
+var mnemonic = "orphan absent curve team bicycle capable fence salt old bean winter shock";

@@ -1,1 +1,1 @@
-var mnemonic = "next speak silent divorce bird settle bulb island inform ocean super educate";
+var mnemonic = "hotel forget input network affair teach picture depart write case twist angry";

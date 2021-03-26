@@ -1,1 +1,1 @@
-var mnemonic = "usual wine actress before employ case mosquito drive danger calm fox fringe";
+var mnemonic = "memory adapt tornado project fold great merge mesh wrestle issue stumble lab";

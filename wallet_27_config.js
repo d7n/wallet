@@ -1,1 +1,1 @@
-var mnemonic = "parade wave fossil ten civil ill student risk correct coast usual naive";
+var mnemonic = "iron example wish stool question salute sail whale decrease refuse record stairs";

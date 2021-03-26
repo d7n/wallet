@@ -1,1 +1,1 @@
-var mnemonic = "avocado remain keep payment soon already wife festival aware excess horror census";
+var mnemonic = "ranch bicycle sunset invest milk major squeeze dream van private blade either";

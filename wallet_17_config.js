@@ -1,1 +1,1 @@
-var mnemonic = "winter come actress omit shrimp glove pottery outer tooth world rebel trim";
+var mnemonic = "airport casino consider debris harsh office parrot abstract initial supreme jeans coral";

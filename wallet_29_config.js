@@ -1,1 +1,1 @@
-var mnemonic = "hollow concert dilemma pumpkin palm hope nothing swear inflict glimpse survey hotel";
+var mnemonic = "spare pitch aware twenty puppy high ordinary scissors teach album attend noise";

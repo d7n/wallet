@@ -1,1 +1,1 @@
-var mnemonic = "tuition blouse because bitter goose chaos burden write monitor discover swap name";
+var mnemonic = "topic attitude soap odor speak cinnamon tide theory alone burger moment vivid";

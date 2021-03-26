@@ -1,1 +1,1 @@
-var mnemonic = "remember jewel chest assist final marine possible soldier narrow drama rough great";
+var mnemonic = "chronic holiday nephew toilet jazz kitchen find prosper kid helmet destroy blind";

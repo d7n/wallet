@@ -1,1 +1,1 @@
-var mnemonic = "mail ceiling kangaroo clown town ripple rug cave destroy pear harsh window";
+var mnemonic = "demise chaos swap trick fatigue hotel joke rough such section connect predict";

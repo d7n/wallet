@@ -1,1 +1,1 @@
-var mnemonic = "express advice stable will private sadness penalty shrimp friend panel stereo decorate";
+var mnemonic = "man jump film silver business love trick burger sight boring distance stumble";

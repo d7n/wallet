@@ -1,1 +1,1 @@
-var mnemonic = "universe trouble desert eager pond life drama frozen space sugar heavy never";
+var mnemonic = "mountain seven forest hint gaze initial polar essay utility copper plunge stamp";

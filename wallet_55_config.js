@@ -1,1 +1,1 @@
-var mnemonic = "can camera casual stand cable enlist impulse rare cart season enhance humor";
+var mnemonic = "coyote hire basket neglect across minimum fruit make any chase scorpion ice";

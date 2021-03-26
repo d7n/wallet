@@ -1,1 +1,1 @@
-var mnemonic = "where like junk leaf evolve denial exact student tomato bless banana satoshi";
+var mnemonic = "laugh amount river choose fit harvest economy flavor tribe yellow universe tornado";

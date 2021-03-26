@@ -1,1 +1,1 @@
-var mnemonic = "comic stand already duck radar grit shoot ribbon photo either key quantum";
+var mnemonic = "describe suspect undo chalk helmet trumpet month spirit neutral tonight warm crater";

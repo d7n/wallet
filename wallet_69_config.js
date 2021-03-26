@@ -1,1 +1,1 @@
-var mnemonic = "item convince couple ice episode asthma carry mix capable weird economy enemy";
+var mnemonic = "found science wise tired also injury clerk card eagle cousin churn fuel";

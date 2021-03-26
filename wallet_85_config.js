@@ -1,1 +1,1 @@
-var mnemonic = "flower garage maid siren brass vintage crouch athlete ginger obey plate cake";
+var mnemonic = "sudden acid enable direct melody segment hat able job bicycle hurt hip";

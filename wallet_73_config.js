@@ -1,1 +1,1 @@
-var mnemonic = "junior undo grief elite pledge carpet trash win fruit detail view bag";
+var mnemonic = "myself keep melt vessel skull dolphin omit fix beauty iron wedding cool";

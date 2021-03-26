@@ -1,1 +1,1 @@
-var mnemonic = "surface soft insect friend curtain pupil describe unfair brain fence frequent hire";
+var mnemonic = "cube member unlock mention unable lesson insane blanket chat since remind syrup";

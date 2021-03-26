@@ -1,1 +1,1 @@
-var mnemonic = "able dad theme offer blade dinner book year electric spend lion hope";
+var mnemonic = "trash photo sun milk security shrug rebel design layer clerk salad verify";

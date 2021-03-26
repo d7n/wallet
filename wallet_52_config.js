@@ -1,1 +1,1 @@
-var mnemonic = "liquid fruit swing cattle shield sail soft wood modify rule potato drift";
+var mnemonic = "gorilla harvest cook equal oval obey stick vivid muscle glory rhythm gallery";

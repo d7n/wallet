@@ -1,1 +1,1 @@
-var mnemonic = "profit immense leisure region early month note convince game clock trust hockey";
+var mnemonic = "purpose wrist maid office welcome visa near scatter ship own jazz move";

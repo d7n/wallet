@@ -1,1 +1,1 @@
-var mnemonic = "cheap easily scan home peace dutch waste switch liar betray invest hollow";
+var mnemonic = "brush mystery artefact flip essence radio panic street faculty insane setup ivory";

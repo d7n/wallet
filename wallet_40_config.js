@@ -1,1 +1,1 @@
-var mnemonic = "ketchup cool tired pet fever fiber reject smoke airport cherry twin catalog";
+var mnemonic = "gentle apple wreck jelly friend edge display leisure digital surround essay diet";

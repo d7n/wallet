@@ -1,1 +1,1 @@
-var mnemonic = "fiber frown install reason arrest between winner vapor together side disagree damage";
+var mnemonic = "hire habit exclude metal issue apology museum awesome around pelican above danger";

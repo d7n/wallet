@@ -1,1 +1,1 @@
-var mnemonic = "wrap voyage uncover excite ketchup adjust guard head similar impulse often stock";
+var mnemonic = "poet auto wet glory artwork taxi card impact swear you endorse sentence";

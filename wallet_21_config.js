@@ -1,1 +1,1 @@
-var mnemonic = "arch palace forget tube alcohol identify double evidence release bean analyst demand";
+var mnemonic = "theory indicate avoid huge approve fluid echo trade million jar blind hungry";

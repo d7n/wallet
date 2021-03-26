@@ -1,1 +1,1 @@
-var mnemonic = "satisfy evolve dress normal nose giant tip image shoe pole audit bottom";
+var mnemonic = "matter later source seat skate bag assist brother young please word yard";

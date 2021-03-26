@@ -1,1 +1,1 @@
-var mnemonic = "advice carbon ginger model outside update soldier vacuum shift fantasy day core";
+var mnemonic = "hammer main embody cabin mail track gallery top chief couch broom coach";

@@ -1,1 +1,1 @@
-var mnemonic = "element dizzy text mushroom man hover gift burden apple oil sick cargo";
+var mnemonic = "quote narrow science fat energy buffalo inherit interest risk extend sound switch";

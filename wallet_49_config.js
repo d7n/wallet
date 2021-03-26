@@ -1,1 +1,1 @@
-var mnemonic = "carry base uphold vast number proud trash abstract liquid unaware office hammer";
+var mnemonic = "next cool spell modify leg recipe soft lunar winner street cake dove";

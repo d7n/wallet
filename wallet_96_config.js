@@ -1,1 +1,1 @@
-var mnemonic = "test suffer series faith diesel differ fresh brother wool define scatter curve";
+var mnemonic = "nest glimpse coconut spray garlic hill exist frame surprise member cotton slice";

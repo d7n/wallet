@@ -1,1 +1,1 @@
-var mnemonic = "discover surprise suspect supply under transfer lounge uncover field paper aspect meadow";
+var mnemonic = "ticket engage three borrow find youth there minimum grant ahead balance ribbon";

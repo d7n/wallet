@@ -1,1 +1,1 @@
-var mnemonic = "butter great praise typical because model grunt fragile pony vicious sure cliff";
+var mnemonic = "journey estate monitor allow obtain culture stuff ahead dice crack book swift";

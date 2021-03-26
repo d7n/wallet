@@ -1,1 +1,1 @@
-var mnemonic = "bubble cousin century reduce erase avocado tip twin material swear truth father";
+var mnemonic = "face hole multiply visual same noodle click castle scrub dice grant cram";

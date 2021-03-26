@@ -1,1 +1,1 @@
-var mnemonic = "cheese utility sight absurd spatial occur weird actual wine proof proud lesson";
+var mnemonic = "ethics buzz left attitude salmon output way mistake burger veteran jacket drama";

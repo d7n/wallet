@@ -1,1 +1,1 @@
-var mnemonic = "wait actress staff magnet tackle cost symptom inhale easy wasp play pupil";
+var mnemonic = "electric action stove approve mail wear later renew cereal shuffle cable usual";

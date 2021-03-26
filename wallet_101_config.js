@@ -1,1 +1,1 @@
-var mnemonic = "damage taxi valid ribbon remember punch grain tone cash world bronze fit";
+var mnemonic = "taste ketchup humor crop ahead title blood pause method visual fiction legal";

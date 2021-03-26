@@ -1,1 +1,1 @@
-var mnemonic = "approve mobile dutch tenant flavor problem victory nothing gym frost chief clown";
+var mnemonic = "field rabbit student abstract pioneer magic fire copy puzzle strong wife web";

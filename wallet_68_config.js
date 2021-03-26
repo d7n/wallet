@@ -1,1 +1,1 @@
-var mnemonic = "economy palace record frost machine pigeon boring silly battle novel general gaze";
+var mnemonic = "dynamic cradle force winter chimney escape blind certain today crucial decade voice";

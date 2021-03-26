@@ -1,1 +1,1 @@
-var mnemonic = "slab mobile dove again fossil fitness nice spread execute exotic cinnamon protect";
+var mnemonic = "unveil hand error wool orbit year lounge salad canoe crawl stick giraffe";

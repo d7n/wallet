@@ -1,1 +1,1 @@
-var mnemonic = "close exit general upset morning work undo unlock comfort vocal solid despair";
+var mnemonic = "congress sadness current luxury flat dwarf useless relief party series novel shock";

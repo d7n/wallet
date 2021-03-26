@@ -1,1 +1,1 @@
-var mnemonic = "light unusual anchor spend notable jealous hockey chunk inner volcano timber hello";
+var mnemonic = "mother mom hire swim sun glare blood outside innocent poem arctic unable";

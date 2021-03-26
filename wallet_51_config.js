@@ -1,1 +1,1 @@
-var mnemonic = "canvas museum ranch friend extra horror afford hurt urban stamp install verify";
+var mnemonic = "burden zone click anger concert anxiety absurd series escape between spread seven";

@@ -1,1 +1,1 @@
-var mnemonic = "nut fortune brown omit attract finger metal camp fluid vendor lion kind";
+var mnemonic = "mosquito jeans perfect injury old today scrap knife history domain arctic carry";

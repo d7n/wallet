@@ -1,1 +1,1 @@
-var mnemonic = "arrive mesh bulk coffee maximum pepper round close purchase crowd excite street";
+var mnemonic = "acquire wait news news aware equal excite pizza current assault hope sausage";

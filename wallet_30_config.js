@@ -1,1 +1,1 @@
-var mnemonic = "wave destroy leg trick business force frozen arrow danger door metal game";
+var mnemonic = "escape bag demand clock concert banner prosper issue mystery odor next tape";

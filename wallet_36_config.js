@@ -1,1 +1,1 @@
-var mnemonic = "harvest radio plunge match boat laundry stone amused install lawsuit witness clip";
+var mnemonic = "kitchen sunset rely glare oyster nasty wave razor silent royal museum poet";

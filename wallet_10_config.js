@@ -1,1 +1,1 @@
-var mnemonic = "only twice expose good super today invite job tail focus hat pilot";
+var mnemonic = "topic dress upgrade raw grab turkey easy elegant siege random loud link";

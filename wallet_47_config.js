@@ -1,1 +1,1 @@
-var mnemonic = "jungle rent rule wish soon monitor perfect burden nephew blade canvas mass";
+var mnemonic = "frozen street supreme current rain scare humble small long village reward double";

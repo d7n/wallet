@@ -1,1 +1,1 @@
-var mnemonic = "girl gasp hold sausage replace they traffic vivid frost nation chest install";
+var mnemonic = "capital ring turn elder lemon crouch crystal ticket educate soldier vital disease";

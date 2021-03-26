@@ -1,1 +1,1 @@
-var mnemonic = "plunge topple grow judge scene rescue run hill hollow receive clarify lunch";
+var mnemonic = "effort quantum distance turtle thrive absurd inhale olympic cram detail icon merry";

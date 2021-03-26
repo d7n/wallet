@@ -1,1 +1,1 @@
-var mnemonic = "issue inform bronze butter exercise gospel annual outside congress ostrich wrist blood";
+var mnemonic = "solar latin despair execute grape cousin follow again dwarf tide accident blanket";

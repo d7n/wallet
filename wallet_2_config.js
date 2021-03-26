@@ -1,1 +1,1 @@
-var mnemonic = "crucial differ daughter prevent random bomb organ phrase base concert boost payment";
+var mnemonic = "remember ring donate square round addict interest black soap base scale inhale";

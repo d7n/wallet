@@ -1,1 +1,1 @@
-var mnemonic = "burger carbon depart wage flower make laugh humor radar install cook senior";
+var mnemonic = "door wink border canal stage wait inner admit fold guilt nerve visual";

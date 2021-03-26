@@ -1,1 +1,1 @@
-var mnemonic = "science snap lawn satisfy agree damp random head jacket entry spare side";
+var mnemonic = "sniff oven benefit peasant pipe final trust live enable replace utility relief";

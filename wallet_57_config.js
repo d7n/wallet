@@ -1,1 +1,1 @@
-var mnemonic = "virtual thought fall slide edge frequent early valve bounce window nation fork";
+var mnemonic = "grab they cannon help box surprise seminar document cargo equip review south";

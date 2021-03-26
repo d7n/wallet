@@ -1,1 +1,1 @@
-var mnemonic = "oyster ill year youth memory dial gesture flee pet cruise direct rubber";
+var mnemonic = "ice shock poverty slab belt tortoise brass bomb unknown scissors bread say";

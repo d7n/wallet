@@ -1,1 +1,1 @@
-var mnemonic = "cereal autumn stay flush forget start pluck grunt icon uniform later mobile";
+var mnemonic = "glimpse wealth flat cruise small palace wink acoustic noodle tank trouble knock";

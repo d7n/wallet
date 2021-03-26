@@ -1,1 +1,1 @@
-var mnemonic = "museum dinner regular gym trade lawn staff cause aisle direct food diamond";
+var mnemonic = "trouble exclude cherry myth climb example dumb high adapt space hawk mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "timber faculty toy beef direct danger lecture myself wave fresh habit list";
+var mnemonic = "inquiry move over minute orange shallow health sketch gift ghost pass mango";

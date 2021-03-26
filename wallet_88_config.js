@@ -1,1 +1,1 @@
-var mnemonic = "someone talk control woman produce butter offer bleak grant festival shiver anger";
+var mnemonic = "tomorrow copy bullet train ivory time useful possible ready combine chalk wave";

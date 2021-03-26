@@ -1,1 +1,1 @@
-var mnemonic = "sand risk fix mesh awake apple only eager fantasy loop alpha join";
+var mnemonic = "square walnut decline notice uncover supreme goose modify cupboard merge ring claim";

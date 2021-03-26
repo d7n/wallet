@@ -1,1 +1,1 @@
-var mnemonic = "ignore midnight shrimp walnut salon recipe session season income pen witness frown";
+var mnemonic = "detail effort floor demand interest liquid hamster trouble exist mind swift inform";

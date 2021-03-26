@@ -1,1 +1,1 @@
-var mnemonic = "entire pelican sketch keen rate pave blood home height finish anger day";
+var mnemonic = "exhaust dignity crack thumb document phrase fan twist become just april rebuild";

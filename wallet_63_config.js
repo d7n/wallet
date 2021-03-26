@@ -1,1 +1,1 @@
-var mnemonic = "fun ancient pudding owner cook panda bunker awesome regular raw this zebra";
+var mnemonic = "novel behave base hidden anger spawn vapor clip pond they bring divert";

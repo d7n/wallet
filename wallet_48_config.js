@@ -1,1 +1,1 @@
-var mnemonic = "blouse ready quote turkey virtual ticket lyrics erode little stem canyon venture";
+var mnemonic = "member kiwi huge tissue walk van have lend pioneer custom water prison";

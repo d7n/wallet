@@ -1,1 +1,1 @@
-var mnemonic = "tuition camera visual cabin sniff budget okay ranch alarm slow vocal isolate";
+var mnemonic = "cradle egg paddle diary client hope pretty anxiety census material grunt tackle";

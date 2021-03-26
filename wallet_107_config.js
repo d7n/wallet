@@ -1,1 +1,1 @@
-var mnemonic = "great wheel blood decorate warrior drip extend job orbit measure walnut capital";
+var mnemonic = "nut coffee view clerk evolve access wild three feature absurd grass marine";

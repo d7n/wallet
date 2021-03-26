@@ -1,1 +1,1 @@
-var mnemonic = "visual shine normal sustain pen chimney bar minute boring side wall hamster";
+var mnemonic = "match result food smoke balcony identify sort flat awkward saddle bargain multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "valley lady wild slogan flat plastic brother power resemble faculty cook moment";
+var mnemonic = "upgrade will vacant welcome lounge borrow monster width tag old tool people";
