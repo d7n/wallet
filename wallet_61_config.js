@@ -1,1 +1,1 @@
-var mnemonic = "dream put mask admit priority destroy unlock chief bid comic citizen include";
+var mnemonic = "timber faculty toy beef direct danger lecture myself wave fresh habit list";

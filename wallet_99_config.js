@@ -1,1 +1,1 @@
-var mnemonic = "direct roof snow tent license luxury aware memory disorder cover hero number";
+var mnemonic = "social zoo ice kite inmate ivory example neutral error drastic gorilla imitate";

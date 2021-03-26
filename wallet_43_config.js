@@ -1,1 +1,1 @@
-var mnemonic = "hamster pink install luggage prefer hospital captain mirror water broccoli ghost slide";
+var mnemonic = "blade october blanket lucky kiwi drop sibling summer print talent sadness harsh";

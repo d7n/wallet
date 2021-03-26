@@ -1,1 +1,1 @@
-var mnemonic = "race flip jar parrot van ceiling ordinary mail one lucky secret scheme";
+var mnemonic = "express advice stable will private sadness penalty shrimp friend panel stereo decorate";

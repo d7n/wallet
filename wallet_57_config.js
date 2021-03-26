@@ -1,1 +1,1 @@
-var mnemonic = "rescue hover divert glance thing panther item relief sense bread indicate ticket";
+var mnemonic = "virtual thought fall slide edge frequent early valve bounce window nation fork";

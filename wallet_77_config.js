@@ -1,1 +1,1 @@
-var mnemonic = "circle army orchard congress room marine afraid goat alarm auto citizen sport";
+var mnemonic = "discover surprise suspect supply under transfer lounge uncover field paper aspect meadow";

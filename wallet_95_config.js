@@ -1,1 +1,1 @@
-var mnemonic = "tired that coin million minor final proof predict economy casual prosper volcano";
+var mnemonic = "surface soft insect friend curtain pupil describe unfair brain fence frequent hire";

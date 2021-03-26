@@ -1,1 +1,1 @@
-var mnemonic = "slow knee indoor turn kangaroo trophy cash skin collect inch during sure";
+var mnemonic = "umbrella swallow image valid west half snack element spare busy anchor farm";

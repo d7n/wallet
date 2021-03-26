@@ -1,1 +1,1 @@
-var mnemonic = "punch essay circle scare call pretty often flower random laptop scrap trigger";
+var mnemonic = "remember jewel chest assist final marine possible soldier narrow drama rough great";

@@ -1,1 +1,1 @@
-var mnemonic = "unfold night erase ready street essence abuse borrow also elephant hazard group";
+var mnemonic = "range man actress jar tonight apple amateur popular luggage humor edit beyond";

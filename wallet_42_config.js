@@ -1,1 +1,1 @@
-var mnemonic = "grid impose cousin ripple thunder peasant tonight pride gasp script oven solution";
+var mnemonic = "bubble cousin century reduce erase avocado tip twin material swear truth father";

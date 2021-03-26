@@ -1,1 +1,1 @@
-var mnemonic = "code cradle ensure must supply remove brain galaxy width barely puzzle fan";
+var mnemonic = "cotton flat trim rifle nice actor lobster spice ripple tomato orange detail";

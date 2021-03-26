@@ -1,1 +1,1 @@
-var mnemonic = "width lamp health enough chief stamp ahead orbit accuse fat usage naive";
+var mnemonic = "chicken across fog purpose mobile actress wheel toss game fringe candy soul";

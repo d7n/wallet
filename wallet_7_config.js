@@ -1,1 +1,1 @@
-var mnemonic = "crawl salon judge doll display tonight mystery reopen mountain album lion brave";
+var mnemonic = "clown oak pill guard security argue have crucial chase utility strike nasty";

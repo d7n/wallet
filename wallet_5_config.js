@@ -1,1 +1,1 @@
-var mnemonic = "until purchase exact street method decide august page letter duck much broken";
+var mnemonic = "wrap voyage uncover excite ketchup adjust guard head similar impulse often stock";

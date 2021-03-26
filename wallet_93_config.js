@@ -1,1 +1,1 @@
-var mnemonic = "what broom object tongue notice fossil wasp there arm uncover mail drill";
+var mnemonic = "profit immense leisure region early month note convince game clock trust hockey";

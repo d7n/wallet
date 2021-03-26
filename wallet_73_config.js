@@ -1,1 +1,1 @@
-var mnemonic = "main universe mammal media dutch fatigue attack base hello sheriff friend program";
+var mnemonic = "junior undo grief elite pledge carpet trash win fruit detail view bag";

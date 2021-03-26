@@ -1,1 +1,1 @@
-var mnemonic = "parent trash random session trumpet action upper benefit crime seed insane field";
+var mnemonic = "only twice expose good super today invite job tail focus hat pilot";

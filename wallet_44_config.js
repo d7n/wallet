@@ -1,1 +1,1 @@
-var mnemonic = "fragile coffee elite pudding current isolate hover truck retreat loan vague borrow";
+var mnemonic = "such slot mobile shaft dilemma panic install stool elegant river exist range";

@@ -1,1 +1,1 @@
-var mnemonic = "goat remove lady delay magic anxiety general equal turn false little regular";
+var mnemonic = "elder interest glove sweet glass sick venue leg absurd embark pistol dune";

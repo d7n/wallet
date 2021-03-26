@@ -1,1 +1,1 @@
-var mnemonic = "extend wish swarm curious basket grunt arrange left unlock little excuse tiger";
+var mnemonic = "affair pact lend north noodle ribbon tornado change jump flush blind home";

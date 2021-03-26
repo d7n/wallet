@@ -1,1 +1,1 @@
-var mnemonic = "swamp charge tomato genius repeat staff normal either rent vintage train entire";
+var mnemonic = "music pigeon symptom easily rural tag sentence erode debris sentence sell uniform";

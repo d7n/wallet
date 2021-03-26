@@ -1,1 +1,1 @@
-var mnemonic = "sunny between mutual banner broom sail skin rubber moon enemy vessel average";
+var mnemonic = "flower garage maid siren brass vintage crouch athlete ginger obey plate cake";

@@ -1,1 +1,1 @@
-var mnemonic = "poem jacket seminar eight peace equip private refuse catch mesh notice unhappy";
+var mnemonic = "recipe sand curious skull kangaroo flip eternal absent smooth glance meat civil";

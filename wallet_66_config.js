@@ -1,1 +1,1 @@
-var mnemonic = "belt joy rose royal also crop gate road animal paper use hunt";
+var mnemonic = "tuition camera visual cabin sniff budget okay ranch alarm slow vocal isolate";

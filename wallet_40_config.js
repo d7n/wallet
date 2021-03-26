@@ -1,1 +1,1 @@
-var mnemonic = "soon end suggest peace vehicle mercy outside polar flush chest raven grocery";
+var mnemonic = "ketchup cool tired pet fever fiber reject smoke airport cherry twin catalog";

@@ -1,1 +1,1 @@
-var mnemonic = "same utility anxiety nuclear strike bike conduct waste image doctor victory left";
+var mnemonic = "light unusual anchor spend notable jealous hockey chunk inner volcano timber hello";

@@ -1,1 +1,1 @@
-var mnemonic = "sand immense execute scrap exercise ripple gossip cruel plug project swap doctor";
+var mnemonic = "vocal super kitchen hedgehog drama mom cake bind stove detail endless buzz";

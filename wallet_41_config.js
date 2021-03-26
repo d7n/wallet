@@ -1,1 +1,1 @@
-var mnemonic = "enlist rule enroll figure play found coach scene marriage butter motor party";
+var mnemonic = "wise sport remind sand carbon pyramid dwarf man link dog way name";

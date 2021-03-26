@@ -1,1 +1,1 @@
-var mnemonic = "primary subway wrist tired patch diagram feel shield final switch upgrade arctic";
+var mnemonic = "entire pelican sketch keen rate pave blood home height finish anger day";

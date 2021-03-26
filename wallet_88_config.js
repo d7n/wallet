@@ -1,1 +1,1 @@
-var mnemonic = "smile viable mercy again alien stove grow similar festival brand rural hip";
+var mnemonic = "someone talk control woman produce butter offer bleak grant festival shiver anger";

@@ -1,1 +1,1 @@
-var mnemonic = "civil laundry beauty camera enemy olympic catalog motion chicken parent involve able";
+var mnemonic = "butter great praise typical because model grunt fragile pony vicious sure cliff";

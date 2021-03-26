@@ -1,1 +1,1 @@
-var mnemonic = "grief voice people clinic conduct sadness hover gadget family mom noble visual";
+var mnemonic = "avocado remain keep payment soon already wife festival aware excess horror census";

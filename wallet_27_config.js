@@ -1,1 +1,1 @@
-var mnemonic = "bridge true swap snow lucky jealous second tuition alert fish dignity rate";
+var mnemonic = "parade wave fossil ten civil ill student risk correct coast usual naive";

@@ -1,1 +1,1 @@
-var mnemonic = "grid cactus tooth youth observe lend east gas climb wage crater absurd";
+var mnemonic = "museum dinner regular gym trade lawn staff cause aisle direct food diamond";

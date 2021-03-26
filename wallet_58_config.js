@@ -1,1 +1,1 @@
-var mnemonic = "gravity energy year desert gesture slight brass dance inside organ awkward fashion";
+var mnemonic = "satisfy evolve dress normal nose giant tip image shoe pole audit bottom";

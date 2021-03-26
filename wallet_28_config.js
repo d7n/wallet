@@ -1,1 +1,1 @@
-var mnemonic = "intact uncle input dumb wisdom palm have disease author attend then admit";
+var mnemonic = "fiber frown install reason arrest between winner vapor together side disagree damage";

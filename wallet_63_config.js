@@ -1,1 +1,1 @@
-var mnemonic = "diagram zero range notice brown noise remain milk need around promote vague";
+var mnemonic = "fun ancient pudding owner cook panda bunker awesome regular raw this zebra";

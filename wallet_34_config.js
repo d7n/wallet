@@ -1,1 +1,1 @@
-var mnemonic = "bulb desert train describe claw thrive describe system always fatal unknown aim";
+var mnemonic = "bless oil frog dawn ramp visual leopard tenant vehicle tell side forum";

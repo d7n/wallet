@@ -1,1 +1,1 @@
-var mnemonic = "mutual resist bulk brand summer clay certain wealth slide know remove category";
+var mnemonic = "liquid fruit swing cattle shield sail soft wood modify rule potato drift";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture lend light absurd pipe organ table zero museum warm debris charge";
+var mnemonic = "visual shine normal sustain pen chimney bar minute boring side wall hamster";

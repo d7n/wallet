@@ -1,1 +1,1 @@
-var mnemonic = "flip camera main submit canvas estate click plastic spot rare soldier giant";
+var mnemonic = "comic stand already duck radar grit shoot ribbon photo either key quantum";

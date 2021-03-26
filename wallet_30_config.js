@@ -1,1 +1,1 @@
-var mnemonic = "visit history amazing alter elder cream inject scissors humor beyond armed together";
+var mnemonic = "wave destroy leg trick business force frozen arrow danger door metal game";

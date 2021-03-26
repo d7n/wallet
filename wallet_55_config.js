@@ -1,1 +1,1 @@
-var mnemonic = "dune mother wedding party pretty direct result move crime owner idle pluck";
+var mnemonic = "can camera casual stand cable enlist impulse rare cart season enhance humor";

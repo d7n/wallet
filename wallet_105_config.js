@@ -1,1 +1,1 @@
-var mnemonic = "learn menu guitar fat blur game brother glove pony glimpse weird struggle";
+var mnemonic = "fatal antenna chicken hammer board valve alpha appear intact army leisure truth";

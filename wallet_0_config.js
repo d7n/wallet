@@ -1,1 +1,1 @@
-var mnemonic = "among piano nothing canyon month all acquire pumpkin park chimney service exotic";
+var mnemonic = "eagle connect anger enrich team small satisfy grocery attend sport left unveil";

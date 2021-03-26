@@ -1,1 +1,1 @@
-var mnemonic = "tennis harvest warm chalk lake correct canoe infant diesel copper dignity gate";
+var mnemonic = "legend collect item humble corn umbrella board drip custom antique aunt ladder";

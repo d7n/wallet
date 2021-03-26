@@ -1,1 +1,1 @@
-var mnemonic = "leopard inspire kid mask mercy news punch wrap defy fruit ozone squirrel";
+var mnemonic = "cage method decorate brother speed piece immense sting purse prevent naive section";

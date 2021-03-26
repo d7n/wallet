@@ -1,1 +1,1 @@
-var mnemonic = "put index reopen phone lift abuse speed edit crane evil game master";
+var mnemonic = "cable riot educate denial interest symbol exhibit much sauce bid size female";

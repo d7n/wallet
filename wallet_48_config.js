@@ -1,1 +1,1 @@
-var mnemonic = "scissors refuse spend rely paddle engage sick deposit raven paper dune impose";
+var mnemonic = "blouse ready quote turkey virtual ticket lyrics erode little stem canyon venture";

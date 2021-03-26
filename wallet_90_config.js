@@ -1,1 +1,1 @@
-var mnemonic = "outer warrior bounce split dry guilt cricket boat undo bread pencil spoil";
+var mnemonic = "fiction fancy notable coin stock accuse goddess vote flight master pet need";

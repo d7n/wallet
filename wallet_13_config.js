@@ -1,1 +1,1 @@
-var mnemonic = "country knock unveil kind never sing luxury educate chunk term empty modify";
+var mnemonic = "spoil siren mandate boy essay token helmet elder cotton never lonely party";

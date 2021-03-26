@@ -1,1 +1,1 @@
-var mnemonic = "run access talent utility demise side immense mad search lunch antique little";
+var mnemonic = "economy palace record frost machine pigeon boring silly battle novel general gaze";

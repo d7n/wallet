@@ -1,1 +1,1 @@
-var mnemonic = "kiwi betray exclude shed proud middle mosquito congress result antique only private";
+var mnemonic = "adult enroll twelve envelope trim blind input defy impose casino lab hotel";

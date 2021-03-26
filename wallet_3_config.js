@@ -1,1 +1,1 @@
-var mnemonic = "fancy tunnel day adult that ball okay balcony give jump move velvet";
+var mnemonic = "approve mobile dutch tenant flavor problem victory nothing gym frost chief clown";

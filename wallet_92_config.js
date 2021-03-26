@@ -1,1 +1,1 @@
-var mnemonic = "law raccoon grow more vessel suspect lock warfare sad section shallow butter";
+var mnemonic = "plunge topple grow judge scene rescue run hill hollow receive clarify lunch";

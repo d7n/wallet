@@ -1,1 +1,1 @@
-var mnemonic = "city dizzy retire suffer basic core arrange level powder hazard inhale amount";
+var mnemonic = "burger carbon depart wage flower make laugh humor radar install cook senior";

@@ -1,1 +1,1 @@
-var mnemonic = "away family act model post odor exchange sure erode they report table";
+var mnemonic = "collect fold bleak chest erupt woman retreat bus grace theory valid season";

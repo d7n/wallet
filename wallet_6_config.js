@@ -1,1 +1,1 @@
-var mnemonic = "shoe dismiss omit dance again sport valid chapter ice foster luggage belt";
+var mnemonic = "wait actress staff magnet tackle cost symptom inhale easy wasp play pupil";

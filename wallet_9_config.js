@@ -1,1 +1,1 @@
-var mnemonic = "account alarm chronic cricket horse place dune fitness dice expand identify tail";
+var mnemonic = "else jeans square portion hour dwarf chef okay fine wide venue young";

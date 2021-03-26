@@ -1,1 +1,1 @@
-var mnemonic = "then crumble absurd soft horse school stairs electric green album blush tooth";
+var mnemonic = "crucial differ daughter prevent random bomb organ phrase base concert boost payment";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz royal rain tissue gravity ice post desert quick blast other alert";
+var mnemonic = "arch palace forget tube alcohol identify double evidence release bean analyst demand";

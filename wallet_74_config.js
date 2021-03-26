@@ -1,1 +1,1 @@
-var mnemonic = "oak toe because plug normal expect car poem portion high host between";
+var mnemonic = "able dad theme offer blade dinner book year electric spend lion hope";

@@ -1,1 +1,1 @@
-var mnemonic = "domain pipe primary adult limb secret business ten moment siren fog noodle";
+var mnemonic = "cheap easily scan home peace dutch waste switch liar betray invest hollow";

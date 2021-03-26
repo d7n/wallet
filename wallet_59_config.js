@@ -1,1 +1,1 @@
-var mnemonic = "also moment draw merry spray phone sing sun ritual island away liberty";
+var mnemonic = "cheese utility sight absurd spatial occur weird actual wine proof proud lesson";

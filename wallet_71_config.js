@@ -1,1 +1,1 @@
-var mnemonic = "smoke audit use eager bike assault length barely edit vapor age coast";
+var mnemonic = "rent clump tag wash weather display before dumb diamond receive spider tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "produce warrior cement artefact leader vendor drum earth romance hockey man boil";
+var mnemonic = "canvas museum ranch friend extra horror afford hurt urban stamp install verify";

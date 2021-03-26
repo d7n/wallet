@@ -1,1 +1,1 @@
-var mnemonic = "vivid judge innocent frown glow tuition account decline language dignity assist buyer";
+var mnemonic = "harvest radio plunge match boat laundry stone amused install lawsuit witness clip";

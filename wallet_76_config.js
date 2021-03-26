@@ -1,1 +1,1 @@
-var mnemonic = "bulk better song dentist liquid faculty utility cabbage idle alarm crack gauge";
+var mnemonic = "usual wine actress before employ case mosquito drive danger calm fox fringe";

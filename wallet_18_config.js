@@ -1,1 +1,1 @@
-var mnemonic = "few execute practice hello area cupboard misery sign replace speed hood diagram";
+var mnemonic = "issue inform bronze butter exercise gospel annual outside congress ostrich wrist blood";

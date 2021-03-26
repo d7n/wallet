@@ -1,1 +1,1 @@
-var mnemonic = "wave wish frequent change small dice dial flag utility also float mercy";
+var mnemonic = "provide garbage bridge remain cream soon situate screen finger foil cross unusual";

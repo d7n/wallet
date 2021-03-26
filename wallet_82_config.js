@@ -1,1 +1,1 @@
-var mnemonic = "initial actress peace obscure umbrella foil embark series act slide auto manage";
+var mnemonic = "school today series field burger tomato slot marble energy useless flip mixed";

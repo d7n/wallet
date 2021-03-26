@@ -1,1 +1,1 @@
-var mnemonic = "produce kit easily dirt cereal sunny plunge range wrong burden bachelor small";
+var mnemonic = "test suffer series faith diesel differ fresh brother wool define scatter curve";

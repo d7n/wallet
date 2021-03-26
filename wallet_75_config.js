@@ -1,1 +1,1 @@
-var mnemonic = "please social essence shuffle cricket feel harbor fancy vapor blood jelly stadium";
+var mnemonic = "buddy jazz clarify snap left smoke churn interest mention reflect tennis amused";

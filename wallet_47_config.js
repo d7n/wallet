@@ -1,1 +1,1 @@
-var mnemonic = "pepper always tackle cost visit void jeans same flip device shine math";
+var mnemonic = "jungle rent rule wish soon monitor perfect burden nephew blade canvas mass";

@@ -1,1 +1,1 @@
-var mnemonic = "isolate busy salute year vocal indoor envelope funny hedgehog scan armed wrap";
+var mnemonic = "damage taxi valid ribbon remember punch grain tone cash world bronze fit";

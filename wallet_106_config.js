@@ -1,1 +1,1 @@
-var mnemonic = "twelve twin raw sugar tree strategy keen play direct arrow hello charge";
+var mnemonic = "catalog change battle yard company artwork lab process sample wise hedgehog laundry";

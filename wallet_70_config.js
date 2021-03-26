@@ -1,1 +1,1 @@
-var mnemonic = "forward affair grief coyote leaf shift axis seed economy rookie garment play";
+var mnemonic = "cereal autumn stay flush forget start pluck grunt icon uniform later mobile";

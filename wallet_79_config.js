@@ -1,1 +1,1 @@
-var mnemonic = "corn prefer other shoe blur pen marine capital kid churn mom face";
+var mnemonic = "print innocent blur lunar office fruit there arrange edge jump zero exhaust";

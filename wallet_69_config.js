@@ -1,1 +1,1 @@
-var mnemonic = "rely cheese shallow offer nephew speak eager electric warm ten fold room";
+var mnemonic = "item convince couple ice episode asthma carry mix capable weird economy enemy";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing news mandate toe clog clean field nominee tag flee open feed";
+var mnemonic = "valley lady wild slogan flat plastic brother power resemble faculty cook moment";

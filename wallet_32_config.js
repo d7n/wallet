@@ -1,1 +1,1 @@
-var mnemonic = "abstract note bargain radio amazing lock physical glance rack umbrella absorb over";
+var mnemonic = "panther hollow plug dynamic autumn carbon easily lunar dove betray phone walnut";

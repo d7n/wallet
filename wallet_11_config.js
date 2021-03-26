@@ -1,1 +1,1 @@
-var mnemonic = "pyramid castle crisp congress core crack manual cry uphold glass space sudden";
+var mnemonic = "rally interest evoke crew equip strategy senior define clown march satoshi flat";

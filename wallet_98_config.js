@@ -1,1 +1,1 @@
-var mnemonic = "inherit spin ribbon blast foot notice bunker super offer ticket alone shoe";
+var mnemonic = "element dizzy text mushroom man hover gift burden apple oil sick cargo";

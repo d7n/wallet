@@ -1,1 +1,1 @@
-var mnemonic = "trophy mimic rocket connect cousin toe mercy stable brass cable that oblige";
+var mnemonic = "nut fortune brown omit attract finger metal camp fluid vendor lion kind";

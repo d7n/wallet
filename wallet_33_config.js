@@ -1,1 +1,1 @@
-var mnemonic = "ensure trash skull monster still evidence cause plate ensure pill science intact";
+var mnemonic = "drum surround brush group proof poet board excuse useful figure cactus bargain";

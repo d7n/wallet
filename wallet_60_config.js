@@ -1,1 +1,1 @@
-var mnemonic = "spoon lazy train taste tongue pool walk pull story speed identify elite";
+var mnemonic = "artist royal palm sunny glow search hundred nest frame snack demand brother";

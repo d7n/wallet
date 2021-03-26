@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon junior next west poem gesture grab shuffle wonder cool century rely";
+var mnemonic = "tuition blouse because bitter goose chaos burden write monitor discover swap name";

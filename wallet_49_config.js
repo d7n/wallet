@@ -1,1 +1,1 @@
-var mnemonic = "weasel quit peanut liquid insane claim ask ramp biology solve excuse sense";
+var mnemonic = "carry base uphold vast number proud trash abstract liquid unaware office hammer";

@@ -1,1 +1,1 @@
-var mnemonic = "motion critic opinion collect travel exact provide used lady leisure excuse match";
+var mnemonic = "glimpse fan peasant model admit road level crucial task mystery gentle meadow";
