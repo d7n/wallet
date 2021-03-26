@@ -1,1 +1,1 @@
-var mnemonic = "recycle letter put fence volcano busy language train wrist great wet neglect";
+var mnemonic = "panda age net small ecology purity pear wise dose catalog salon unlock";

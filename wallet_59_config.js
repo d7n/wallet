@@ -1,1 +1,1 @@
-var mnemonic = "used master leopard doctor all tonight crucial agree cover tomato fat milk";
+var mnemonic = "grass size cluster cover above practice clutch skin manage mutual collect credit";

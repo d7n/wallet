@@ -1,1 +1,1 @@
-var mnemonic = "paper six orchard arm music spirit goddess rabbit chapter friend depart soap";
+var mnemonic = "peace drama mimic brown rain void half face write combine name girl";

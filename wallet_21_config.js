@@ -1,1 +1,1 @@
-var mnemonic = "network spin fiber album blur weekend vault liquid before party crouch era";
+var mnemonic = "like chaos sport actual clown expire boss mention lounge panel math avoid";

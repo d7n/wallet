@@ -1,1 +1,1 @@
-var mnemonic = "walnut universe lecture nasty insane hedgehog all response wealth square lesson skull";
+var mnemonic = "penalty denial rare smile drill mad robust lake around horror zoo phrase";

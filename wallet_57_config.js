@@ -1,1 +1,1 @@
-var mnemonic = "peace gentle lunch anger hazard fire north cheese way want spice bean";
+var mnemonic = "world hub crane adjust sure because rough portion race raven walnut run";

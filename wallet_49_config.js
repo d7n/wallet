@@ -1,1 +1,1 @@
-var mnemonic = "crop aunt current struggle reduce slender turn nature sign code vicious long";
+var mnemonic = "patient raise engine service figure story primary punch hamster misery pipe tank";

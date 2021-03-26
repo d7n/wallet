@@ -1,1 +1,1 @@
-var mnemonic = "few weapon monitor tip private laptop since dentist degree mixture adult high";
+var mnemonic = "stock seed raw scene install mammal private govern pitch adult anchor acquire";

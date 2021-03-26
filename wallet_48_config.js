@@ -1,1 +1,1 @@
-var mnemonic = "ethics traffic furnace bunker brave stool carbon please artefact civil table quarter";
+var mnemonic = "mountain grass public pond wool leader obtain decide utility giraffe genuine forget";

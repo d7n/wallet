@@ -1,1 +1,1 @@
-var mnemonic = "robust digital churn current crisp major grid enjoy course episode loyal diesel";
+var mnemonic = "pair clinic trumpet knee absurd daughter gown quick suit curtain egg copper";

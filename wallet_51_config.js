@@ -1,1 +1,1 @@
-var mnemonic = "nature butter coach faculty reunion rude reform clump census peanut cupboard online";
+var mnemonic = "involve verify defense swamp age wool skate swap park flag clog owner";

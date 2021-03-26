@@ -1,1 +1,1 @@
-var mnemonic = "quantum keen hip garbage pave air process swim entry blur vast pigeon";
+var mnemonic = "easily link theory narrow embark behind trend slight clump know arrest bronze";

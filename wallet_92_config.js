@@ -1,1 +1,1 @@
-var mnemonic = "riot consider theory excess zero maximum velvet rebel actual brisk urge juice";
+var mnemonic = "away clock addict lumber window december cancel critic demise shoot earth sponsor";

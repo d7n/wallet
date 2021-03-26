@@ -1,1 +1,1 @@
-var mnemonic = "stable nerve long giggle rebel tornado agent rug uncle room beef relax";
+var mnemonic = "confirm sentence daughter book final unfair fee equal weird rifle vibrant coyote";

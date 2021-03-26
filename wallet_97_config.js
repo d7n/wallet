@@ -1,1 +1,1 @@
-var mnemonic = "robot clown middle drill purpose toward mad until bid volume evil rough";
+var mnemonic = "series forest doll notice cancel acquire unit seven work dash section decrease";

@@ -1,1 +1,1 @@
-var mnemonic = "announce snack rely luxury tiny sword search hint extend original decrease wave";
+var mnemonic = "grape trip bullet firm truly three trust trumpet tray agent dizzy flip";

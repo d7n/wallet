@@ -1,1 +1,1 @@
-var mnemonic = "bachelor grow pony heavy unveil detect unit dutch term equal fold glue";
+var mnemonic = "depart twelve dignity goddess chief uniform rebuild year other work copper absent";

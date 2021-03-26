@@ -1,1 +1,1 @@
-var mnemonic = "matrix fatigue guess year twist nasty fetch lobster weird air engage domain";
+var mnemonic = "park inch venue detail verify veteran notice cabin annual climb blast apart";

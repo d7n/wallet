@@ -1,1 +1,1 @@
-var mnemonic = "bar mule turn dry extra symptom feed push group evidence luxury burst";
+var mnemonic = "few just more common fog lawn unfair expect prepare orient help muscle";

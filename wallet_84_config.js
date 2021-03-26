@@ -1,1 +1,1 @@
-var mnemonic = "wave swap equip pizza crisp owner valve fetch bottom movie inflict raccoon";
+var mnemonic = "luxury snap cheese camp fiscal hood settle actor attitude token solve size";

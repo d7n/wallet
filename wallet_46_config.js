@@ -1,1 +1,1 @@
-var mnemonic = "goat rubber donate seed letter distance believe perfect phone idle crisp famous";
+var mnemonic = "concert myth salt series tell salmon afford device ball ribbon video pact";

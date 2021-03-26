@@ -1,1 +1,1 @@
-var mnemonic = "time utility visual inhale saddle real decorate force similar buyer view scatter";
+var mnemonic = "prison develop glue series observe grab method like own oxygen crew idle";

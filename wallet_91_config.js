@@ -1,1 +1,1 @@
-var mnemonic = "cry vanish dream cricket field dial minute sad cycle submit child transfer";
+var mnemonic = "dutch define blue bone bottom crucial level cart float scale ring hour";

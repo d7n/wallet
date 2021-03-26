@@ -1,1 +1,1 @@
-var mnemonic = "reunion farm envelope vault learn dismiss genre smart trim struggle sell gallery";
+var mnemonic = "lumber dragon mouse gas anger belt legend before bachelor neglect modify book";

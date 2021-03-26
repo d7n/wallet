@@ -1,1 +1,1 @@
-var mnemonic = "maze other car clever month normal silk achieve number credit pause odor";
+var mnemonic = "confirm donate gate enemy labor faculty annual surge gesture coin excuse couple";

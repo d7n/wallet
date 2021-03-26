@@ -1,1 +1,1 @@
-var mnemonic = "jazz cruise web cute chimney orphan pear same hello neck little sorry";
+var mnemonic = "slender canoe pumpkin start rebuild stem sustain month problem help off fold";

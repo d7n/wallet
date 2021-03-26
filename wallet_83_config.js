@@ -1,1 +1,1 @@
-var mnemonic = "vivid wall badge miss axis print cushion tattoo rapid wasp uniform cupboard";
+var mnemonic = "tongue bridge leisure limb ketchup crawl peasant minor sail outer manual can";

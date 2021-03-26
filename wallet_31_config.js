@@ -1,1 +1,1 @@
-var mnemonic = "box airport aware energy soon twenty guide music enroll soft genuine crime";
+var mnemonic = "polar fitness potato treat cancel this accuse leopard object join toilet patient";

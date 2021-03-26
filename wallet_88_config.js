@@ -1,1 +1,1 @@
-var mnemonic = "inch swift inquiry quote vapor peasant tourist liquid mean crew butter book";
+var mnemonic = "region point odor figure exist void local hire bicycle remind erase embody";

@@ -1,1 +1,1 @@
-var mnemonic = "history case rebuild speak lake swallow bronze try pull divide caught century";
+var mnemonic = "season purity language zebra ski steel clown expand donor battle jazz sponsor";

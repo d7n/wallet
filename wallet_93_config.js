@@ -1,1 +1,1 @@
-var mnemonic = "fame team hamster learn deer effort evidence unhappy spare advance pyramid zebra";
+var mnemonic = "drastic vacant cabin glare pattern purpose summer put help achieve easy defense";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic remove post review smoke pony orchard corn limit sadness cloud fruit";
+var mnemonic = "answer mechanic join spell ancient people caution goat armor solution impulse funny";

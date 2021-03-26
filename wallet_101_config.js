@@ -1,1 +1,1 @@
-var mnemonic = "autumn chief veteran sport there agent cash replace garlic rude mystery bind";
+var mnemonic = "repeat derive slight great toss dice sign snap mushroom clown govern impulse";

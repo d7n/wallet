@@ -1,1 +1,1 @@
-var mnemonic = "shrug bulk off enroll state desert budget health summer come broom catch";
+var mnemonic = "never reform misery century hood drastic employ almost gravity size ensure spirit";

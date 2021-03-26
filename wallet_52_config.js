@@ -1,1 +1,1 @@
-var mnemonic = "meadow mimic one brand tent village rather eternal van apple breeze twenty";
+var mnemonic = "science syrup song fabric shuffle snack under steak cereal surprise soft seek";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope lava omit borrow warfare spin stove purpose high legal dynamic witness";
+var mnemonic = "happy black funny pond cheap poet lumber very service junk fiber quiz";

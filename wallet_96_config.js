@@ -1,1 +1,1 @@
-var mnemonic = "sample afford hair fiber hint rely century picture away favorite alcohol zone";
+var mnemonic = "stay profit course lunch emerge kit outside tuna taste ticket stumble combine";

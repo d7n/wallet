@@ -1,1 +1,1 @@
-var mnemonic = "memory dash praise copy drift behind another script clerk actress fetch wrist";
+var mnemonic = "enact sketch proof please slush boy plug swift slogan nerve comic goose";

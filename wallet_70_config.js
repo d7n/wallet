@@ -1,1 +1,1 @@
-var mnemonic = "electric stuff sphere nature immune output turkey regret force marine gauge outdoor";
+var mnemonic = "square town light twenty adult donor own foster best before caught rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "rather original broom roof tiny swarm eager bracket hobby baby ritual cup";
+var mnemonic = "street dirt slab grid tenant lemon elite rail master tray stock usual";

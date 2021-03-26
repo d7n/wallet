@@ -1,1 +1,1 @@
-var mnemonic = "club dance card kangaroo venture veteran flag buyer mom congress action pond";
+var mnemonic = "private farm token capital winner give orient consider disorder orchard defense river";

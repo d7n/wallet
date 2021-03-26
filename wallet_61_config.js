@@ -1,1 +1,1 @@
-var mnemonic = "sheriff slender salad sheriff senior merit allow letter camera glue when oval";
+var mnemonic = "point drum verb build high rule carpet silly bounce air sound picnic";

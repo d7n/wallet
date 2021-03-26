@@ -1,1 +1,1 @@
-var mnemonic = "million hundred very right age across sort mean open best fault soup";
+var mnemonic = "inhale attract ready spread angle zebra depart climb quiz resemble glow oven";

@@ -1,1 +1,1 @@
-var mnemonic = "giant dune arena involve ostrich gossip refuse obvious gallery beef expose all";
+var mnemonic = "power goat noodle claim casino silly wet tornado choice faint zebra local";

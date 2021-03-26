@@ -1,1 +1,1 @@
-var mnemonic = "squirrel federal dignity prepare humble kiss inform save afford into cute stone";
+var mnemonic = "culture soon swift present siege pretty scorpion grocery crouch cook lawn already";

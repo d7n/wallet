@@ -1,1 +1,1 @@
-var mnemonic = "come shuffle pistol icon bird enjoy build forest section rough pulse radio";
+var mnemonic = "cake shrug ensure announce dynamic train uncover spin virus property meat goat";

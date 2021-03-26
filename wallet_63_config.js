@@ -1,1 +1,1 @@
-var mnemonic = "road uncle digital oven balance because coyote random snack bless broken trade";
+var mnemonic = "cost roof fitness bike move innocent tuna motor menu pupil unit arrange";

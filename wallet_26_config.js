@@ -1,1 +1,1 @@
-var mnemonic = "achieve lawsuit vacuum outer about buzz cushion demand crawl door describe frown";
+var mnemonic = "town shuffle tomato program loud run market dove damage kiss crime spend";

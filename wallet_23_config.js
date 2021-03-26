@@ -1,1 +1,1 @@
-var mnemonic = "uncover toy paddle explain enroll split before fault surround coast thumb bean";
+var mnemonic = "eyebrow purchase move sustain subject mixture badge certain again general start ability";

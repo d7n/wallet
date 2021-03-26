@@ -1,1 +1,1 @@
-var mnemonic = "puzzle grab topple artist buyer car capable giant rather polar duty civil";
+var mnemonic = "length very artist slush better shed ordinary planet banner gesture hill spoil";

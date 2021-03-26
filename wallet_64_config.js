@@ -1,1 +1,1 @@
-var mnemonic = "feel clip project orient country napkin peasant adult ginger develop twelve memory";
+var mnemonic = "mixed bid click wagon mouse innocent neutral orchard future code stairs math";

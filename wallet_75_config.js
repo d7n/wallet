@@ -1,1 +1,1 @@
-var mnemonic = "climb hedgehog laugh immune ribbon depth subject crew fire taste try upon";
+var mnemonic = "that axis sudden song mansion client primary shield fragile honey meat surface";

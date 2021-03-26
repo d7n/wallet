@@ -1,1 +1,1 @@
-var mnemonic = "monster caution boost material merry unusual paddle gaze mixed derive year table";
+var mnemonic = "unveil vault speed certain leg earth never noble pelican wear glass lumber";

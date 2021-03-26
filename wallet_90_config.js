@@ -1,1 +1,1 @@
-var mnemonic = "young rail tongue hazard rude symptom sudden flame card code demand cluster";
+var mnemonic = "teach pilot alone latin fire foster type tomorrow illness ethics glove diet";

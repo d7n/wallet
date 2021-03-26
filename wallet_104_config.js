@@ -1,1 +1,1 @@
-var mnemonic = "satoshi settle canal flag lawn off spatial toy soon belt inflict behind";
+var mnemonic = "admit face easily drop direct invest rookie gather hurdle knee journey core";

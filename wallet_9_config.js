@@ -1,1 +1,1 @@
-var mnemonic = "shaft success walk when remind split spray figure old rude job prize";
+var mnemonic = "hurt until grass love produce fiscal glory source pass canoe minute exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "leg cute chef enroll village airport gospel stage fix gauge aerobic teach";
+var mnemonic = "hazard crime tree else absorb over toward blossom napkin bonus mosquito dirt";

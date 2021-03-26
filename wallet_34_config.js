@@ -1,1 +1,1 @@
-var mnemonic = "caution jealous flat spend demise harsh great hint aware ready category arrest";
+var mnemonic = "aim shove ask change dragon blame before scorpion number royal cabbage come";

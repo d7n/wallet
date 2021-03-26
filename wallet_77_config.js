@@ -1,1 +1,1 @@
-var mnemonic = "turkey tunnel lizard reform pupil left embrace pear exclude stable heart leisure";
+var mnemonic = "quiz trick model chair cheap bacon snake buzz medal whale bring aim";

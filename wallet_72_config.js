@@ -1,1 +1,1 @@
-var mnemonic = "december code arctic illegal process action chicken unfair unable explain next narrow";
+var mnemonic = "music ill first issue about earth stool scorpion leader tobacco uncle online";

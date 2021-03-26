@@ -1,1 +1,1 @@
-var mnemonic = "please diamond jelly alarm another color flock rich balcony river ticket cushion";
+var mnemonic = "elder wild bridge cube daughter knife tenant reject camp carpet space inside";

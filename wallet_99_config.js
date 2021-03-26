@@ -1,1 +1,1 @@
-var mnemonic = "since tomorrow brick laptop choice approve age text stick debris top knife";
+var mnemonic = "major time cause exact panda good chicken slogan always mention acoustic problem";

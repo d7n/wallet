@@ -1,1 +1,1 @@
-var mnemonic = "kitten dose speed shoulder spider relax bitter lucky beyond where ability unfair";
+var mnemonic = "front elevator domain start water panic check action trust tennis danger buzz";

@@ -1,1 +1,1 @@
-var mnemonic = "chef during toast upgrade gold hood daughter assume plate attract abstract boring";
+var mnemonic = "gate various crawl valid filter arena rescue theory sniff special wink pool";

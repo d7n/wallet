@@ -1,1 +1,1 @@
-var mnemonic = "long diamond nominee tail armor crop butter verb image slide seed tuna";
+var mnemonic = "below lab airport december result steel ivory have knock very pulp judge";

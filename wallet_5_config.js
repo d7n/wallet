@@ -1,1 +1,1 @@
-var mnemonic = "best cute situate enemy power account enable violin minor holiday fish position";
+var mnemonic = "donor infant style drink submit deal eternal latin fragile faint boy ill";

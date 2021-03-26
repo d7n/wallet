@@ -1,1 +1,1 @@
-var mnemonic = "clean way oxygen foam fashion wing year clump purse dismiss essence gentle";
+var mnemonic = "large acoustic mandate radar jump school auto bridge twelve cup office laptop";

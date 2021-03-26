@@ -1,1 +1,1 @@
-var mnemonic = "wool sheriff inhale tail south little text odor scrub frame silent urban";
+var mnemonic = "obtain labor peanut add wash pistol gadget bid yard bullet rabbit climb";

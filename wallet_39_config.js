@@ -1,1 +1,1 @@
-var mnemonic = "clerk duck evoke flock tongue enemy choice tell cancel impulse phone window";
+var mnemonic = "burst mutual park amazing phrase gain ignore collect inflict bar napkin actual";

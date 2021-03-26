@@ -1,1 +1,1 @@
-var mnemonic = "elevator slam symptom nuclear lonely elegant matter access pole job custom thrive";
+var mnemonic = "ancient find height lonely scissors diamond prevent split choice ecology raven finish";

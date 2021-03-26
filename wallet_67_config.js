@@ -1,1 +1,1 @@
-var mnemonic = "script assist three open camp medal purpose fragile satoshi rely high intact";
+var mnemonic = "palace material parrot material salon gasp abuse scissors medal category price moral";

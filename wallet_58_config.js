@@ -1,1 +1,1 @@
-var mnemonic = "neither album artwork sphere voice enable hen drip atom brief paddle tiger";
+var mnemonic = "among suggest beach trumpet juice level nasty report vacant print develop hello";

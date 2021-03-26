@@ -1,1 +1,1 @@
-var mnemonic = "blue race absurd devote team crucial jazz rescue layer sting shop bachelor";
+var mnemonic = "update faint deny mimic trash ride jar bleak junior film loud below";

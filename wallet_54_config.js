@@ -1,1 +1,1 @@
-var mnemonic = "early sustain monkey legal wait thing pass aim tilt popular round couple";
+var mnemonic = "try civil mechanic region bounce bronze casino grant heavy raccoon media slow";

@@ -1,1 +1,1 @@
-var mnemonic = "please select measure badge excess direct bulk design bomb gentle sphere buzz";
+var mnemonic = "atom spread juice topic enter syrup vast spider domain suffer live estate";

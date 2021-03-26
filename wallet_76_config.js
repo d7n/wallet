@@ -1,1 +1,1 @@
-var mnemonic = "current hip total kid welcome opinion crumble dutch town idle liberty tragic";
+var mnemonic = "dolphin system breeze fiber wait duty nasty never deal swallow describe affair";

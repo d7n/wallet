@@ -1,1 +1,1 @@
-var mnemonic = "swing square stamp clean echo artwork episode owner inside crater apple afraid";
+var mnemonic = "damp best labor october town basic can earth discover vibrant lobster admit";

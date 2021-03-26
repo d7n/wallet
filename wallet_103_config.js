@@ -1,1 +1,1 @@
-var mnemonic = "plastic lunar cigar canal bundle hockey draw tilt energy source dizzy valve";
+var mnemonic = "flame pink adjust team acoustic access valley episode moral exhibit just balance";

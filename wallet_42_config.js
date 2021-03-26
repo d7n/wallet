@@ -1,1 +1,1 @@
-var mnemonic = "miracle also can multiply more vague normal exotic address crane dawn trend";
+var mnemonic = "coast clap spot lazy fat acoustic episode auto mother atom paper vivid";

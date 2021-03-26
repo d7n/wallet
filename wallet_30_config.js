@@ -1,1 +1,1 @@
-var mnemonic = "obscure exercise party axis cat normal glide any actual rough ticket supply";
+var mnemonic = "satoshi crime street pet federal dose gym lounge track panel page caution";

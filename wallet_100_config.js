@@ -1,1 +1,1 @@
-var mnemonic = "juice ranch tool winner news order ladder roast six economy weather hood";
+var mnemonic = "slab smooth safe coral upon under pipe talent science visual frown dutch";

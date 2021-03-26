@@ -1,1 +1,1 @@
-var mnemonic = "stuff magic better train kitchen owner hidden horror mosquito scan coffee hurry";
+var mnemonic = "gadget purity indoor cargo maid gospel tattoo avoid twist shuffle beauty gain";

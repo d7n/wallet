@@ -1,1 +1,1 @@
-var mnemonic = "cable erupt receive brain young latin liar gate bullet agree olive toss";
+var mnemonic = "virus kitten artefact race grunt subject oxygen tube spare evoke dinosaur sing";

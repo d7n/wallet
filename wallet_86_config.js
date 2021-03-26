@@ -1,1 +1,1 @@
-var mnemonic = "matter gym evoke glad pole sight time junk skull gap museum session";
+var mnemonic = "define small cook pink hockey ride air essay baby love vehicle blossom";

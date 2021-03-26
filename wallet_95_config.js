@@ -1,1 +1,1 @@
-var mnemonic = "multiply merge matter section orchard truly health change cram medal segment cattle";
+var mnemonic = "filter plate strategy oppose minimum afford garden eager repair inject heavy ability";
