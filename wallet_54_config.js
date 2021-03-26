@@ -1,1 +1,1 @@
-var mnemonic = "nation fence yard stem shadow equal lucky copy garage shoot blade gadget";
+var mnemonic = "huge edit auction crane violin wine project senior february era what viable";

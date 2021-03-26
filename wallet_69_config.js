@@ -1,1 +1,1 @@
-var mnemonic = "praise march win trim merit exclude equip olympic simple spread pave amazing";
+var mnemonic = "pet crunch disagree first keep choice become humor repeat help network pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "social erupt frown clog wasp half adult train daughter issue clinic craft";
+var mnemonic = "illegal cotton scissors urban tackle abandon goose kind lab clown fat solar";

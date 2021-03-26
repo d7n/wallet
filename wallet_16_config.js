@@ -1,1 +1,1 @@
-var mnemonic = "absurd alert inspire pole flame umbrella fog walnut keep book outside install";
+var mnemonic = "laundry globe sample round bronze color damp ethics room alcohol make tonight";

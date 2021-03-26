@@ -1,1 +1,1 @@
-var mnemonic = "club creek just enter travel dove theory banana penalty pull blossom fortune";
+var mnemonic = "cattle puppy tragic table era asthma guilt milk twelve machine bamboo blossom";

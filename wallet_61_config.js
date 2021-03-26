@@ -1,1 +1,1 @@
-var mnemonic = "venue series view shaft shoulder quick produce aim lawsuit burger renew unit";
+var mnemonic = "modify venue flock farm gold nice hedgehog busy grit razor call nurse";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic shoot hope atom trumpet nut lion train food veteran chase doll";
+var mnemonic = "bring task trial giraffe concert toast notable mushroom brief crumble arena rookie";

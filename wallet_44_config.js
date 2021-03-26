@@ -1,1 +1,1 @@
-var mnemonic = "cool move whip thought access perfect mix wrestle bitter bracket close aim";
+var mnemonic = "vicious genius life setup pool reveal major wild public pistol shield vibrant";

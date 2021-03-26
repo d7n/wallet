@@ -1,1 +1,1 @@
-var mnemonic = "verify piano benefit cherry mad deal long oblige canal cheese gospel trial";
+var mnemonic = "fine ozone before broken lottery bronze walnut lizard spirit bachelor bridge sniff";

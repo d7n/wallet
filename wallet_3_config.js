@@ -1,1 +1,1 @@
-var mnemonic = "hour memory blossom frozen divorce grocery inside search brave music view bitter";
+var mnemonic = "phrase illegal dinner shell elder hole demand share harsh review twist buzz";

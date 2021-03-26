@@ -1,1 +1,1 @@
-var mnemonic = "view feel merge olive cage present hole burst lizard since useless verb";
+var mnemonic = "dream thunder unusual admit say lobster any parrot poem urban enlist deputy";

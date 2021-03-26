@@ -1,1 +1,1 @@
-var mnemonic = "century column float manage meat gesture example outdoor whale matrix weapon dash";
+var mnemonic = "wing profit visa certain action utility bacon wet stuff salt trophy sick";

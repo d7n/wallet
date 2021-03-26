@@ -1,1 +1,1 @@
-var mnemonic = "swamp quick scorpion arrange river omit wet boring gorilla modify apology era";
+var mnemonic = "absorb feed beyond process garage creek october hard suffer original puzzle stage";

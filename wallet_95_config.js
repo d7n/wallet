@@ -1,1 +1,1 @@
-var mnemonic = "erase zebra pizza aspect whale desk seminar mystery grant inhale sheriff science";
+var mnemonic = "lake pool similar quiz plate civil permit during immune pencil bunker engine";

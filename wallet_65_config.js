@@ -1,1 +1,1 @@
-var mnemonic = "disease pause power document right genre exit vintage derive glow off style";
+var mnemonic = "close fringe inside stage sword physical start weather kiwi useless slide jungle";

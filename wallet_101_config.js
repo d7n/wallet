@@ -1,1 +1,1 @@
-var mnemonic = "rib latin fly patch limb enable sketch grain bright there brown brown";
+var mnemonic = "someone acoustic figure pioneer into desert arena smooth group artist liquid angry";

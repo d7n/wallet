@@ -1,1 +1,1 @@
-var mnemonic = "vivid prefer because plug profit edge arrive mouse dad combine school fragile";
+var mnemonic = "defy hundred corn autumn forward wreck join seed spirit used impulse rifle";

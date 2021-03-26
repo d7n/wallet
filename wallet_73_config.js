@@ -1,1 +1,1 @@
-var mnemonic = "trip salute dismiss skull fault afford pigeon cupboard bag champion erosion steak";
+var mnemonic = "orbit vivid escape armed learn expect true creek fade normal hobby pyramid";

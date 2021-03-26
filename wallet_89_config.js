@@ -1,1 +1,1 @@
-var mnemonic = "cross pumpkin license cousin snack invest enrich pulse ordinary inmate gather mom";
+var mnemonic = "surface vacant custom lucky present morning entire more solve swing exercise scatter";

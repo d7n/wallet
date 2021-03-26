@@ -1,1 +1,1 @@
-var mnemonic = "motion asset cotton web music remove hub happy fat retreat buyer put";
+var mnemonic = "flee fantasy visit pony elbow twist grant injury then february peanut matter";

@@ -1,1 +1,1 @@
-var mnemonic = "please father observe maximum place target voyage clever culture lonely fortune cool";
+var mnemonic = "bachelor era video develop sunset lecture crop avocado weekend spend kitten rookie";

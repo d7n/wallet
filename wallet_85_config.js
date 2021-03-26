@@ -1,1 +1,1 @@
-var mnemonic = "quote seven rebel ginger aim luxury erase vintage bone ship half inspire";
+var mnemonic = "leave egg digital spice hover valley roast gain daughter click staff emotion";

@@ -1,1 +1,1 @@
-var mnemonic = "end match skirt dinner tired boat wood priority unable wine draft oyster";
+var mnemonic = "inflict certain coast session plunge craft bird play used phrase try box";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat okay bomb trend girl measure tuna cool depend engine tumble feature";
+var mnemonic = "shock list lazy bomb logic miracle hello alien nurse wash student mountain";

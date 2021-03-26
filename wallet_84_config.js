@@ -1,1 +1,1 @@
-var mnemonic = "invest olive tape rescue wisdom slab wood panther beach resemble coach twenty";
+var mnemonic = "razor mammal magnet elbow choice quality ordinary apology thrive coral cherry print";

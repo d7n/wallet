@@ -1,1 +1,1 @@
-var mnemonic = "waste type minor combine avocado mushroom off maximum derive below mom glare";
+var mnemonic = "oppose fly crop toddler ill alley spend hollow humor expire cotton purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity husband discover tackle illegal love bitter hurt east cruel divert moral";
+var mnemonic = "begin term color demise shock space heavy decade rose tired enough panic";

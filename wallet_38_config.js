@@ -1,1 +1,1 @@
-var mnemonic = "cause unit faint lawsuit arch shoot wire coach gather lamp civil gather";
+var mnemonic = "come ginger fly doctor subject devote seminar deal such click tent gallery";

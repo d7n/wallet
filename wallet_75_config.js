@@ -1,1 +1,1 @@
-var mnemonic = "artwork scrap erupt consider hat nation sudden stem timber forget shoe ocean";
+var mnemonic = "crisp vendor urban awake cancel fitness eight thought torch glimpse inform eager";

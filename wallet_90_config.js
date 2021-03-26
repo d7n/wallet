@@ -1,1 +1,1 @@
-var mnemonic = "page treat tone arrive deny wealth cradle today flash rice dash also";
+var mnemonic = "slight prepare paper fall file beef vintage deliver jelly grit grow leader";

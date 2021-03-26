@@ -1,1 +1,1 @@
-var mnemonic = "sadness laptop piano grant forget dog follow bid silk orient find afford";
+var mnemonic = "wild manual airport erode result issue canoe auto mixture sister old ice";

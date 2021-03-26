@@ -1,1 +1,1 @@
-var mnemonic = "episode educate course inner swallow recall hundred electric cycle cover brush manage";
+var mnemonic = "parent deer hand over brain inject confirm mixture price food kite find";

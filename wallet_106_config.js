@@ -1,1 +1,1 @@
-var mnemonic = "remain unknown melody hero trophy negative dragon funny hollow bottom range rely";
+var mnemonic = "survey nephew burden ring symptom reason sleep canal duck junior situate another";

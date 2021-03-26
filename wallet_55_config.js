@@ -1,1 +1,1 @@
-var mnemonic = "add rack chat oyster capital virtual negative top sick license draft copy";
+var mnemonic = "behind number assist pair exercise clown garment orphan knife isolate quiz pioneer";

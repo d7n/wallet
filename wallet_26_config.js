@@ -1,1 +1,1 @@
-var mnemonic = "grain hedgehog fat amateur weather purity churn color cliff fringe embody awkward";
+var mnemonic = "vacant unable sell crunch wait invite bleak unknown knife burger glow label";

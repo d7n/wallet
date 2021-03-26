@@ -1,1 +1,1 @@
-var mnemonic = "army opera student eyebrow gun slight satisfy chuckle pigeon traffic teach coconut";
+var mnemonic = "soup online mouse empower town hero can dog ski skin equip edge";

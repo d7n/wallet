@@ -1,1 +1,1 @@
-var mnemonic = "bullet foil camera near chuckle coin leisure smart milk multiply empower process";
+var mnemonic = "start there pudding habit frame food ugly color accuse dutch wire search";

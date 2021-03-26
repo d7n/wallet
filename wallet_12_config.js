@@ -1,1 +1,1 @@
-var mnemonic = "since bargain bacon abstract arm open arch oval promote file curtain debris";
+var mnemonic = "cup advice boss play question luggage fly describe album cross bounce resemble";

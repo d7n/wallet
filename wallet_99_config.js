@@ -1,1 +1,1 @@
-var mnemonic = "salt property industry derive regular buffalo gravity melt square comfort wing question";
+var mnemonic = "screen woman sing pumpkin expand record throw appear gallery baby runway bargain";

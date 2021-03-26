@@ -1,1 +1,1 @@
-var mnemonic = "labor glide uncle solid team promote sniff profit attack average artefact tennis";
+var mnemonic = "tired tube adapt snack volcano review dress glare plunge regular vicious cause";

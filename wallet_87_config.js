@@ -1,1 +1,1 @@
-var mnemonic = "march draw life multiply stay laptop name subway reason social legend left";
+var mnemonic = "timber dry laugh dilemma enrich bargain dirt able cactus erode anger scrub";

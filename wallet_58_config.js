@@ -1,1 +1,1 @@
-var mnemonic = "someone mule super follow safe argue mansion window build update bamboo finger";
+var mnemonic = "absorb tag that energy aspect wage quarter employ keep favorite master wool";

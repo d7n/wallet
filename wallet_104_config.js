@@ -1,1 +1,1 @@
-var mnemonic = "hat host motion boss lunar picture stamp industry ranch seat wait movie";
+var mnemonic = "very control suffer soup girl provide explain panther shock seven pond collect";

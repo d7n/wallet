@@ -1,1 +1,1 @@
-var mnemonic = "garbage wife hub chase green annual caution light sign drive soft dance";
+var mnemonic = "omit sock ticket add enrich law vault motion abuse rely shift tunnel";

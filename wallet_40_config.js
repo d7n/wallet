@@ -1,1 +1,1 @@
-var mnemonic = "sister loud toy flower misery fluid economy hope gorilla myself upset analyst";
+var mnemonic = "mystery day sauce cost people tone tired banana tool awkward damp enhance";

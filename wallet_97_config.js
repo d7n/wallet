@@ -1,1 +1,1 @@
-var mnemonic = "skill attend frown ancient forest near found say basket sorry manual sign";
+var mnemonic = "faculty small syrup trust lava floor cigar summer pretty soup fix solar";

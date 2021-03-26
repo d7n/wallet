@@ -1,1 +1,1 @@
-var mnemonic = "document weekend absurd welcome february shallow employ basic core warfare adapt erosion";
+var mnemonic = "crumble tail hen relief kid crane immense better achieve wage program gadget";

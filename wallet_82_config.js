@@ -1,1 +1,1 @@
-var mnemonic = "warrior knock sustain bright act race resist butter base vicious outside double";
+var mnemonic = "pattern modify critic ahead upset mask rocket reunion luggage omit size traffic";

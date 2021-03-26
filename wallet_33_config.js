@@ -1,1 +1,1 @@
-var mnemonic = "army tiny large gate tone baby chunk purity isolate alarm slush client";
+var mnemonic = "green garment arrive now present document profit curtain feed machine arm topic";

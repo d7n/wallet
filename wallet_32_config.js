@@ -1,1 +1,1 @@
-var mnemonic = "any target place yellow slam marble pill trap quote velvet liquid awkward";
+var mnemonic = "cube sight teach apart country tip ritual radar outdoor juice share hand";

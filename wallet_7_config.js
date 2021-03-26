@@ -1,1 +1,1 @@
-var mnemonic = "segment verify innocent employ grief human enhance old swim stock uphold dry";
+var mnemonic = "girl cute moment debris sock coin erase excite mimic climb sock link";

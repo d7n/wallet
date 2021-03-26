@@ -1,1 +1,1 @@
-var mnemonic = "benefit human shell margin join chicken miracle cool alley prevent olive valley";
+var mnemonic = "safe prosper want order match resemble because sad south crew modify powder";

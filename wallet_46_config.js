@@ -1,1 +1,1 @@
-var mnemonic = "defy diary banana impulse faculty scorpion energy digital sudden brave ostrich quick";
+var mnemonic = "depend people pigeon disorder ensure hunt plug cluster cable umbrella person slush";

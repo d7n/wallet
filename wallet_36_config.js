@@ -1,1 +1,1 @@
-var mnemonic = "lunch size hobby huge theory corn coach foam code duty civil risk";
+var mnemonic = "hunt tongue hole fish giant sunny enjoy trouble degree page almost noodle";

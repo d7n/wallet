@@ -1,1 +1,1 @@
-var mnemonic = "noble load faith job canal crush field found almost wet file slide";
+var mnemonic = "laugh flavor recall orange rich industry monkey motor prevent east reduce poverty";

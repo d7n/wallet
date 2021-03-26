@@ -1,1 +1,1 @@
-var mnemonic = "either twin broom echo spin rare medal ramp rose absorb city exotic";
+var mnemonic = "close spot dove mutual sight neglect retire supply truck frequent impulse bind";

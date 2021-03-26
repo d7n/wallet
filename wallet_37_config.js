@@ -1,1 +1,1 @@
-var mnemonic = "team tornado salmon era door price pepper math roof agent scan crisp";
+var mnemonic = "old suspect volcano verify goddess breeze reunion imitate jelly leisure rude shoot";

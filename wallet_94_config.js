@@ -1,1 +1,1 @@
-var mnemonic = "prosper season project banana direct pond page frost recall relax merge hole";
+var mnemonic = "arrive fix flag ask cricket hero more just flush fitness betray cabin";

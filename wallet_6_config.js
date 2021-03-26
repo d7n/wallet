@@ -1,1 +1,1 @@
-var mnemonic = "office involve start inherit tower situate debate above also unknown shoe leaf";
+var mnemonic = "idle brown sweet alcohol skate keen ring garbage obvious calm shed off";

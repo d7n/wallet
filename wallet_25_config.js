@@ -1,1 +1,1 @@
-var mnemonic = "size piece fragile fresh misery enjoy enrich party page elevator now girl";
+var mnemonic = "tip minor green fly hundred prize stove board neck brief neutral erode";

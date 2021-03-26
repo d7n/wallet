@@ -1,1 +1,1 @@
-var mnemonic = "slow legal rail decorate unknown nature sense duty betray pupil tired alarm";
+var mnemonic = "detect jaguar helmet garden system category train earth nothing tray grow clip";

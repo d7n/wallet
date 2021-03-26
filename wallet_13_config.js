@@ -1,1 +1,1 @@
-var mnemonic = "ready custom result enforce purity nice peace ten wash leopard mandate never";
+var mnemonic = "ostrich once bean lazy elbow you mom mountain until balance spike include";

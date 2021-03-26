@@ -1,1 +1,1 @@
-var mnemonic = "strong genre bread unveil lift ensure gown hundred select media era protect";
+var mnemonic = "antique exist vault unfair defy version avoid mom pass march note warrior";

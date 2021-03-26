@@ -1,1 +1,1 @@
-var mnemonic = "will episode inhale nerve symptom slam fish sword lawn tissue such copper";
+var mnemonic = "spy apology grief patient edit recipe owner donate royal filter erase skill";

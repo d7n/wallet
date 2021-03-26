@@ -1,1 +1,1 @@
-var mnemonic = "uphold recycle food loan vacant hint submit keen blood trade whale outside";
+var mnemonic = "fan theory used option opinion lizard oblige veteran angry cup nerve regular";

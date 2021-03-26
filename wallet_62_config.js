@@ -1,1 +1,1 @@
-var mnemonic = "glad undo taxi oval science couple final relief render vapor bright keen";
+var mnemonic = "save fuel goat globe chapter logic below fitness job trouble denial witness";

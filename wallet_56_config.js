@@ -1,1 +1,1 @@
-var mnemonic = "visit arrest control tourist frame spike resist odor depend nation awesome abuse";
+var mnemonic = "nest clock fish daring laptop wire balcony donor vapor double vivid vacant";

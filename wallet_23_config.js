@@ -1,1 +1,1 @@
-var mnemonic = "ring vintage home relief kingdom cage mirror deny apology lunar beauty melt";
+var mnemonic = "extra attack alert echo toward left wrap close donor antique language upgrade";

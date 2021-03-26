@@ -1,1 +1,1 @@
-var mnemonic = "arrive fatal maximum curve oblige result forget wrap creek bonus nice street";
+var mnemonic = "body uphold decide cash faint silk core master brown make pen there";

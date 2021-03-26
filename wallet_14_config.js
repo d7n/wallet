@@ -1,1 +1,1 @@
-var mnemonic = "damage culture swim genre capable learn cool summer afraid remind bridge stove";
+var mnemonic = "million drop convince virus gym eager push open tent mass mistake expect";

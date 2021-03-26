@@ -1,1 +1,1 @@
-var mnemonic = "silly cream reduce average weasel cousin company man sail tired human seed";
+var mnemonic = "raw traffic oblige dice scheme tower gorilla hazard achieve version pudding word";

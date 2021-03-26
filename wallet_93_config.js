@@ -1,1 +1,1 @@
-var mnemonic = "risk depend poet flush neither certain memory snap arm prize bench eagle";
+var mnemonic = "maximum funny enforce armed evoke caught wish wide square certain because learn";

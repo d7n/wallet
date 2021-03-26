@@ -1,1 +1,1 @@
-var mnemonic = "face submit thank skull lyrics dune excite brick pigeon stadium detect glad";
+var mnemonic = "yellow motor news fall second myself holiday ginger seed hat engine cabbage";

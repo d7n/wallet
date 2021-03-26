@@ -1,1 +1,1 @@
-var mnemonic = "dice include junk maze oblige seminar bike promote prevent note fade quiz";
+var mnemonic = "spell door ability quote obtain minor write spring burden grain artwork peanut";

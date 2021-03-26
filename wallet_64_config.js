@@ -1,1 +1,1 @@
-var mnemonic = "machine evidence ribbon unhappy dignity dutch toddler old deputy scheme donate pigeon";
+var mnemonic = "minimum rookie host whale picture great short business thought rookie educate access";

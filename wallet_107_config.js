@@ -1,1 +1,1 @@
-var mnemonic = "minute bread dance afford special robust sun uphold spread raw document wild";
+var mnemonic = "path visual fitness amused ritual protect unfold about rotate aunt evoke original";

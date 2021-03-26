@@ -1,1 +1,1 @@
-var mnemonic = "quality toss boring amount smart adapt fault unusual prefer casino will annual";
+var mnemonic = "reject ensure tape velvet skate route rifle cement patch dash sniff neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle glad alter grid obscure popular trick obtain hammer document domain neck";
+var mnemonic = "have chief obtain carbon desk polar tower pioneer crack cushion symptom noble";

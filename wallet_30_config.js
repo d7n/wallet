@@ -1,1 +1,1 @@
-var mnemonic = "aim asset tenant hub mechanic husband cart have correct ski exact recall";
+var mnemonic = "practice silly satoshi peanut labor hazard such head lawn update shrug body";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus loan face split loyal panel lunar afraid script spoon bounce shallow";
+var mnemonic = "artefact level hockey shaft pause aisle resist mind patrol click yard result";

@@ -1,1 +1,1 @@
-var mnemonic = "rib tank shock denial proof question between upon recipe duty tray stem";
+var mnemonic = "enemy bean amazing funny forget donor umbrella toilet expect detect exist warrior";

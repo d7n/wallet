@@ -1,1 +1,1 @@
-var mnemonic = "access humor donor fly brick require novel cherry dad drift found garlic";
+var mnemonic = "table able this strike damage right peace surprise arrest can rich exchange";

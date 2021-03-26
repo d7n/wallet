@@ -1,1 +1,1 @@
-var mnemonic = "charge radio elite wing void replace below reflect panel evoke curve mesh";
+var mnemonic = "day cross okay mosquito bubble tenant simple ivory supreme win mimic trade";

@@ -1,1 +1,1 @@
-var mnemonic = "debate hollow lens loud girl hip orange divert symbol orphan pluck later";
+var mnemonic = "what tree tilt border shy steak clay dynamic return fortune lazy drama";

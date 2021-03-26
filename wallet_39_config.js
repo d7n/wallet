@@ -1,1 +1,1 @@
-var mnemonic = "marine security attend dune photo jump element genre view coil garbage method";
+var mnemonic = "sustain sweet because brain link stone clap civil extend ask pioneer hero";

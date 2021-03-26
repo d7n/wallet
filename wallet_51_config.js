@@ -1,1 +1,1 @@
-var mnemonic = "valley horn lemon fiscal gadget very palm feature venture silk fresh hood";
+var mnemonic = "short know sudden huge practice small gas field sell cabbage add across";

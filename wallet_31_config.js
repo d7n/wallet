@@ -1,1 +1,1 @@
-var mnemonic = "isolate guide edge match brain bridge circle room metal fortune three when";
+var mnemonic = "stadium matter cloud mask normal face physical buzz nasty senior vintage file";

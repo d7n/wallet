@@ -1,1 +1,1 @@
-var mnemonic = "mass magnet rival hammer chase renew naive test brave skate future option";
+var mnemonic = "current mule engage street carry share island law plug trophy trend grain";

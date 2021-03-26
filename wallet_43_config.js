@@ -1,1 +1,1 @@
-var mnemonic = "elegant analyst access venture slice vapor injury unit object park empower warrior";
+var mnemonic = "inside blush buzz inject wealth interest glimpse arrow blind empower dirt board";

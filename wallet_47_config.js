@@ -1,1 +1,1 @@
-var mnemonic = "when pony bachelor finger arch attack curious squirrel write chronic saddle hungry";
+var mnemonic = "base gather warm unaware civil wild unit between bridge foam physical raise";
