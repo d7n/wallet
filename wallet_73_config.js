@@ -1,1 +1,1 @@
-var mnemonic = "hip subway quote basket mention hair glad print kit atom art resemble";
+var mnemonic = "vast bleak rack elephant cry yard open worth match subway job unfold";

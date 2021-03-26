@@ -1,1 +1,1 @@
-var mnemonic = "fall gasp voice panel bright follow escape daring bundle ocean indicate grunt";
+var mnemonic = "soon census throw viable beef actress myself bird come wonder siren whale";

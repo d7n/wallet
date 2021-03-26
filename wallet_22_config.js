@@ -1,1 +1,1 @@
-var mnemonic = "canoe scissors embody kiwi pave reduce title gain join object rude grape";
+var mnemonic = "worry hidden popular across beauty gas summer equal horror dentist behind symbol";

@@ -1,1 +1,1 @@
-var mnemonic = "note adult nothing tomorrow pattern exile police mule warm drift immense correct";
+var mnemonic = "foil clutch master author daring used message glue candy meat video section";

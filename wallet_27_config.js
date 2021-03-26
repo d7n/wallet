@@ -1,1 +1,1 @@
-var mnemonic = "sick exotic lemon sniff bamboo divert initial scheme divide oppose tape vessel";
+var mnemonic = "tiger guitar gauge upgrade crunch castle unhappy direct employ anchor strategy census";

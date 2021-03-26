@@ -1,1 +1,1 @@
-var mnemonic = "certain exhaust twist brick useless lens yard lesson birth decline spell tackle";
+var mnemonic = "common execute climb catch orient trouble seat fetch jelly galaxy boat heavy";

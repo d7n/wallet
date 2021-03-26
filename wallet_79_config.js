@@ -1,1 +1,1 @@
-var mnemonic = "jewel concert hamster trash van board disorder fence rich end license erode";
+var mnemonic = "image moon drama sail thunder can climb test soap fine layer fly";

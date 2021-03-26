@@ -1,1 +1,1 @@
-var mnemonic = "page shuffle obtain wool huge nothing ghost sing skill finger right increase";
+var mnemonic = "tobacco uncle swarm virus margin rail problem beach dance ankle dismiss soda";

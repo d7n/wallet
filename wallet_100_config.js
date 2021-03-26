@@ -1,1 +1,1 @@
-var mnemonic = "wash honey concert hand rebuild train satisfy beauty warfare helmet ten evoke";
+var mnemonic = "update arrow please coin try juice blur brisk evolve mean venture kidney";

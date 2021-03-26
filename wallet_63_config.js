@@ -1,1 +1,1 @@
-var mnemonic = "skin embrace outer actor monkey motion large choose know coconut feature cereal";
+var mnemonic = "path remove gadget alarm budget buzz want indicate unable laugh build bind";

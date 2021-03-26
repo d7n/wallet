@@ -1,1 +1,1 @@
-var mnemonic = "rent ranch beef ecology solid animal snow sauce winner broccoli second analyst";
+var mnemonic = "antenna lend lonely creek cash tornado donkey need model ordinary melt latin";

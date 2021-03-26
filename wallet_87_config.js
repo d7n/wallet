@@ -1,1 +1,1 @@
-var mnemonic = "fitness foam shrug used miracle february carpet busy hover acoustic juice cement";
+var mnemonic = "faculty provide pretty minimum cabin minimum avoid else pupil box athlete weasel";

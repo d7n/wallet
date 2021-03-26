@@ -1,1 +1,1 @@
-var mnemonic = "caution fat call utility champion plunge critic van insane execute blade march";
+var mnemonic = "weather dust regular coach liberty health trumpet friend mind crawl donkey load";

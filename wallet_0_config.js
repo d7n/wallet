@@ -1,1 +1,1 @@
-var mnemonic = "green heavy lunar ethics few truth almost veteran custom ride increase web";
+var mnemonic = "outside error cupboard clerk analyst please nurse control east shadow winter boy";

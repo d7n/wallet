@@ -1,1 +1,1 @@
-var mnemonic = "float step obscure between river orbit network page deal magic horn laptop";
+var mnemonic = "quick action buzz sweet aunt common refuse quiz unit spider awkward employ";

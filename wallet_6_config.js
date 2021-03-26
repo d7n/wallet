@@ -1,1 +1,1 @@
-var mnemonic = "attack hero habit burst when normal day stomach shop leopard measure riot";
+var mnemonic = "height issue oyster planet sail surprise magic town electric solution erosion soul";

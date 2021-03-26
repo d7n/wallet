@@ -1,1 +1,1 @@
-var mnemonic = "yard elder jazz route crew violin umbrella nurse double worry violin finger";
+var mnemonic = "paddle detail air spatial monkey ghost script lamp admit address connect zebra";

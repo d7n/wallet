@@ -1,1 +1,1 @@
-var mnemonic = "end filter tissue rate rebel spell drop make there lab bargain abandon";
+var mnemonic = "pride sort clerk almost time work afraid drink energy dune cliff admit";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk explain betray cushion danger crater awkward silver team camp stairs movie";
+var mnemonic = "magnet motor false rack leg camera enemy argue number brush tail surface";

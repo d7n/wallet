@@ -1,1 +1,1 @@
-var mnemonic = "shrimp happy three alone brand maximum rack shift soccer couch middle anger";
+var mnemonic = "trophy merge scissors reason pool pet style struggle crisp master buyer void";

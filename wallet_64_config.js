@@ -1,1 +1,1 @@
-var mnemonic = "route mobile naive grace pilot wine super dad mandate carpet cram pony";
+var mnemonic = "ill essence field rabbit lyrics coin main wool obtain speed oval supply";

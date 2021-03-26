@@ -1,1 +1,1 @@
-var mnemonic = "repair win script nephew beach demand machine local clean vital limit scan";
+var mnemonic = "dinner iron survey certain host apple topic ghost funny then unhappy spoil";

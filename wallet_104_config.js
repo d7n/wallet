@@ -1,1 +1,1 @@
-var mnemonic = "advice sketch balance tooth tuna razor dose club three educate peasant wise";
+var mnemonic = "moral warfare near loud service monkey trophy cattle path dynamic boil spatial";

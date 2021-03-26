@@ -1,1 +1,1 @@
-var mnemonic = "finger trend speak thumb buzz yellow run shuffle candy blue just dismiss";
+var mnemonic = "luggage style tongue any cute tilt clever pill property manual banana square";

@@ -1,1 +1,1 @@
-var mnemonic = "antique color suit bacon modify stairs else runway hurt twin hundred hero";
+var mnemonic = "garage slender tuna arena father phone novel fall ball own mesh nerve";

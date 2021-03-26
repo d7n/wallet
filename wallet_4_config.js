@@ -1,1 +1,1 @@
-var mnemonic = "alpha season move cloth moon float satoshi state advice whisper rose knife";
+var mnemonic = "vintage stamp problem strike town leopard people can dwarf display youth song";

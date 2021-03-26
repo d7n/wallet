@@ -1,1 +1,1 @@
-var mnemonic = "section pigeon pottery parrot busy mesh confirm next tuition desk enhance device";
+var mnemonic = "boost same error tonight author volume trim birth chaos hospital rigid soccer";

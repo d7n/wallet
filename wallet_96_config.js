@@ -1,1 +1,1 @@
-var mnemonic = "want hamster tiny immune cabbage section mouse lock bus champion young twice";
+var mnemonic = "toilet ski report off sniff mom become liar mouse source rhythm false";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur dizzy spend history arrest game gym salon oyster hamster extend enlist";
+var mnemonic = "useless enhance engage tuna suggest poem length flock occur local better task";

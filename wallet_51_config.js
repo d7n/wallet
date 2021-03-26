@@ -1,1 +1,1 @@
-var mnemonic = "eight jealous news tissue syrup notice truly steak skin print inflict connect";
+var mnemonic = "labor because fox flat marble target like sphere ocean view valid six";

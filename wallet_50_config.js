@@ -1,1 +1,1 @@
-var mnemonic = "bridge brick fog rally kid able mule narrow scrub skin tiger purse";
+var mnemonic = "gap stay start force delay swarm enhance resource march cream rice garlic";

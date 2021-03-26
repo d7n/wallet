@@ -1,1 +1,1 @@
-var mnemonic = "drop private chunk travel concert chronic final spike balcony comic stumble there";
+var mnemonic = "click online health raven eight vacant trash planet film nation include speak";

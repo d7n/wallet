@@ -1,1 +1,1 @@
-var mnemonic = "tower paper suffer betray inmate visual situate holiday echo cube device seed";
+var mnemonic = "security dentist true used autumn flight warfare pond claim famous salad push";

@@ -1,1 +1,1 @@
-var mnemonic = "say mean fame better tissue lift raccoon output when riot icon follow";
+var mnemonic = "rural fresh weird hen crucial produce gap genuine stairs lady cart sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "program unveil aerobic song welcome trumpet belt fancy evil wedding prosper basket";
+var mnemonic = "there carbon opinion club escape practice season balcony blade infant harsh excuse";

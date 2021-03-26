@@ -1,1 +1,1 @@
-var mnemonic = "cake cement resource drastic little such donkey clarify burden mandate sleep ripple";
+var mnemonic = "habit burger mouse swing lab envelope short release great pluck vehicle view";

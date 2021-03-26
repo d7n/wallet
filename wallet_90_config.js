@@ -1,1 +1,1 @@
-var mnemonic = "tip program trial high nothing mammal siege early family pyramid lyrics crystal";
+var mnemonic = "jacket donate copper devote hidden horror ocean first beef holiday furnace buddy";

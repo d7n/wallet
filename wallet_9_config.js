@@ -1,1 +1,1 @@
-var mnemonic = "focus gas reward shift pride proof position tiny receive unit guess live";
+var mnemonic = "mosquito jealous core sad code lunch whip shallow foster egg usual palm";

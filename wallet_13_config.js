@@ -1,1 +1,1 @@
-var mnemonic = "hour accuse right tooth aware true hospital knife hungry later ugly garden";
+var mnemonic = "speed tower twelve door town idea embark venue sustain monitor dress fence";

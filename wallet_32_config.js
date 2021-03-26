@@ -1,1 +1,1 @@
-var mnemonic = "deposit tiny entry affair weasel extra hollow blue shallow goat reopen noble";
+var mnemonic = "tool fiction quote cool wrestle jelly gift want boost misery very defy";

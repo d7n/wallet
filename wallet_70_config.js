@@ -1,1 +1,1 @@
-var mnemonic = "play entry cotton provide miracle error recycle attack true start slender yard";
+var mnemonic = "sadness spring gift speed pigeon license crash vital illness name move frame";

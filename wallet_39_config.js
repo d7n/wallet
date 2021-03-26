@@ -1,1 +1,1 @@
-var mnemonic = "suit series crime end skull brother omit chronic deal priority fashion consider";
+var mnemonic = "comic faith mosquito next struggle tiny danger wrong tongue shine crumble exit";

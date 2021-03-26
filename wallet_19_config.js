@@ -1,1 +1,1 @@
-var mnemonic = "industry mystery then east menu once voice journey wasp valid gospel insane";
+var mnemonic = "funny leisure render smart provide interest wool face camp wool give torch";

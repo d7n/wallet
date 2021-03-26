@@ -1,1 +1,1 @@
-var mnemonic = "point include joy tent resemble mistake female notice town enable asthma husband";
+var mnemonic = "member depend slender success noodle dawn bomb life glass door cry light";

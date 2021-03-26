@@ -1,1 +1,1 @@
-var mnemonic = "slam use spell foot dish clay farm volcano angry orient trumpet keep";
+var mnemonic = "dilemma dust glue sand wrestle hobby ripple crowd crop salt report student";

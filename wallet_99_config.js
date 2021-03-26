@@ -1,1 +1,1 @@
-var mnemonic = "cry mirror help insane castle chef able rely burger regret manual have";
+var mnemonic = "someone evil fan capable enter decorate wisdom vast leave common cook pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub topple mom dice park cereal march side vast spring race priority";
+var mnemonic = "crack struggle tourist bacon pass loop quote claw circle random cloud sun";

@@ -1,1 +1,1 @@
-var mnemonic = "donate valid leopard column truck dizzy lonely brown street rich spin mail";
+var mnemonic = "payment sadness assist size clever spy winner off stage cannon fatigue shield";

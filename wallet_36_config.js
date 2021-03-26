@@ -1,1 +1,1 @@
-var mnemonic = "atom coyote dove aerobic uniform enhance police two spider used visual leader";
+var mnemonic = "album damp strike depart differ prize cluster notice machine west shop fame";

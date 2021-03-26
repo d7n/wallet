@@ -1,1 +1,1 @@
-var mnemonic = "perfect keen rose canvas match task demand general dentist glimpse indoor skin";
+var mnemonic = "current feel hole peasant ribbon vanish uncle erupt fish pilot summer bread";

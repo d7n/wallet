@@ -1,1 +1,1 @@
-var mnemonic = "skirt margin venture diesel book earn peasant canal zero true ethics system";
+var mnemonic = "network wisdom crash topic program donor donor divert minute wool swamp razor";

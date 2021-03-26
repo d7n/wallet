@@ -1,1 +1,1 @@
-var mnemonic = "tunnel pudding north dance custom sample category pyramid spin cushion old rocket";
+var mnemonic = "hundred session will radar erupt cruel half false cable despair program blind";

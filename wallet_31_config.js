@@ -1,1 +1,1 @@
-var mnemonic = "phone frown seed beauty result transfer price normal fetch hint second arrange";
+var mnemonic = "fog style medal shift artefact swift error until draw tape tonight include";

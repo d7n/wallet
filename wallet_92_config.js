@@ -1,1 +1,1 @@
-var mnemonic = "vocal outer wear boost bullet window novel employ hockey weekend prefer toss";
+var mnemonic = "distance wrist carpet meat custom obtain three trouble island penalty buddy off";

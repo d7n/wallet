@@ -1,1 +1,1 @@
-var mnemonic = "invest bulb woman recall disease program winter buffalo mobile west purity resource";
+var mnemonic = "can steak believe sausage voice slush illness school column index scene daring";

@@ -1,1 +1,1 @@
-var mnemonic = "two scatter near safe egg joy danger cliff among voice among army";
+var mnemonic = "wrist abuse side weather wasp drift fit turtle ranch rare blouse skill";

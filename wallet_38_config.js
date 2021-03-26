@@ -1,1 +1,1 @@
-var mnemonic = "push enemy year conduct slot tortoise candy rice display merry toilet near";
+var mnemonic = "slam train wedding alley clerk sun wear alien uphold work thumb mother";

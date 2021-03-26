@@ -1,1 +1,1 @@
-var mnemonic = "off hurry trophy humor border rigid wrist blush plunge misery allow attack";
+var mnemonic = "basket gym box detail asthma thumb expose addict barrel inside hobby steel";

@@ -1,1 +1,1 @@
-var mnemonic = "neglect shuffle quick blur card neutral giggle planet black cause over provide";
+var mnemonic = "decorate twelve title wood laugh snap reunion gentle sock first absorb emotion";

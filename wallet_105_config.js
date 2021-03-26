@@ -1,1 +1,1 @@
-var mnemonic = "entire gallery peasant section record eyebrow bounce agent tomato cheese donkey clerk";
+var mnemonic = "rate middle catalog hurt relax good session aspect scan victory bid early";

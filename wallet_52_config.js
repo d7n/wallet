@@ -1,1 +1,1 @@
-var mnemonic = "ketchup tumble client decorate stock raise dynamic october liar uniform excess guide";
+var mnemonic = "era rural remind flame garden abstract ostrich fit burst random actual quality";

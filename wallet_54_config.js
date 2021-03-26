@@ -1,1 +1,1 @@
-var mnemonic = "depend rookie pole swear vibrant fluid bread desert share unknown raise foster";
+var mnemonic = "hole another quantum spy august mind chat exclude lizard ladder hedgehog praise";

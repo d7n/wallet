@@ -1,1 +1,1 @@
-var mnemonic = "panther enhance garage joy wasp loop marriage embark load utility loop index";
+var mnemonic = "entry unable magnet repeat mandate guess safe aerobic step material cement tooth";

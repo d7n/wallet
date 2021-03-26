@@ -1,1 +1,1 @@
-var mnemonic = "uniform expose pulse blouse fat lamp humor urban bounce spring reopen border";
+var mnemonic = "blame foot negative burst marine also latin nominee supply much cushion genre";

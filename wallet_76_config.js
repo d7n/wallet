@@ -1,1 +1,1 @@
-var mnemonic = "skin duty split garbage accuse artwork sand now case distance spider butter";
+var mnemonic = "lens useless unveil tissue nose myself endless pass filter glue length reunion";

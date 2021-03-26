@@ -1,1 +1,1 @@
-var mnemonic = "viable unhappy nest impulse wild inch antique phone over enact apart park";
+var mnemonic = "husband female chest flavor hat eternal cram maximum tube title soap collect";

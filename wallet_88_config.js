@@ -1,1 +1,1 @@
-var mnemonic = "board seed crucial social zone tilt chef bird scissors endless item divide";
+var mnemonic = "caution impulse morning magic wheel cherry loan fault drink tissue barrel enlist";

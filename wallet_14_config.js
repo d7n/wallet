@@ -1,1 +1,1 @@
-var mnemonic = "illegal truck girl scorpion angry pool accuse urge pizza supply project cruel";
+var mnemonic = "decide fade group scare athlete inspire sport dolphin media impose yard toe";

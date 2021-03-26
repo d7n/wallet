@@ -1,1 +1,1 @@
-var mnemonic = "field merit shrimp document okay embrace notable clarify explain dutch window into";
+var mnemonic = "fabric sell buzz bench trick drip tuna affair hair convince example south";

@@ -1,1 +1,1 @@
-var mnemonic = "hire crash custom myself quarter pole tube cabbage hundred dentist zero describe";
+var mnemonic = "margin hobby memory hazard group battle grace click card act success okay";

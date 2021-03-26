@@ -1,1 +1,1 @@
-var mnemonic = "copper ginger false vote around fiction inner glory detail burger wave crop";
+var mnemonic = "harvest need corn noise special fetch unfold fire favorite current favorite later";

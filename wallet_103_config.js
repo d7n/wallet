@@ -1,1 +1,1 @@
-var mnemonic = "change clay sunset coin sleep polar forum record bounce mind result best";
+var mnemonic = "carpet drip oak bonus kangaroo best curve lab sponsor shy sick label";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket immense essay people check coyote whale over erosion fragile exact layer";
+var mnemonic = "illegal suggest wage nuclear exclude quick keen diesel route solve hero garment";

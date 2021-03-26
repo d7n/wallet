@@ -1,1 +1,1 @@
-var mnemonic = "text discover monitor gain advance valid wall neck forest panda board shallow";
+var mnemonic = "common breeze fatigue drink life metal congress addict snack destroy pledge square";

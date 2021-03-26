@@ -1,1 +1,1 @@
-var mnemonic = "gentle anger sweet melt please medal skate scatter book spring supply income";
+var mnemonic = "suit amateur nice rookie south remember cousin extra spread climb wife bounce";

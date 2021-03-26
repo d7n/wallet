@@ -1,1 +1,1 @@
-var mnemonic = "kite peace payment stairs usual agent math april journey nephew thought orphan";
+var mnemonic = "better mango pulp bean circle machine test family hat interest wasp illegal";

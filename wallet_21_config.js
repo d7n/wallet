@@ -1,1 +1,1 @@
-var mnemonic = "parent raw ginger guess wisdom spatial alcohol hawk race promote board suspect";
+var mnemonic = "shell action pipe glass save rocket tissue wreck rapid demise nothing stadium";

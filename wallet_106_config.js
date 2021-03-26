@@ -1,1 +1,1 @@
-var mnemonic = "magic mobile help captain record rule motion shove must bind captain winner";
+var mnemonic = "attack end sell general hurt spike force dentist hotel useful roast mechanic";

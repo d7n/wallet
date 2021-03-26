@@ -1,1 +1,1 @@
-var mnemonic = "drop install only bonus sport stove empty ripple clarify bring theme finish";
+var mnemonic = "fury cash make unfold bench grow jaguar direct cream double decade slice";

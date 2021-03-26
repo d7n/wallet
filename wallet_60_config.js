@@ -1,1 +1,1 @@
-var mnemonic = "junk member trade version three broken symptom train spoil margin near fabric";
+var mnemonic = "sell daughter affair old slam slam bubble slab negative truth ranch ill";

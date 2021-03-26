@@ -1,1 +1,1 @@
-var mnemonic = "tone usual awesome animal fine hidden milk amazing tooth evil soldier civil";
+var mnemonic = "essay swarm situate dial crisp word into reveal victory toward coyote same";

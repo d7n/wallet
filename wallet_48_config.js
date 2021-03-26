@@ -1,1 +1,1 @@
-var mnemonic = "guitar ostrich flip glow about dolphin produce baby muscle run panda swing";
+var mnemonic = "country warm chronic cup differ embark want gloom squirrel super quick liberty";

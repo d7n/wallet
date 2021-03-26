@@ -1,1 +1,1 @@
-var mnemonic = "cloud one olympic bean awful brand theory lawsuit bacon orbit nothing sad";
+var mnemonic = "letter street civil badge wing frost degree treat address slight embark theory";

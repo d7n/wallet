@@ -1,1 +1,1 @@
-var mnemonic = "end order wool educate cute approve claim garden gate nephew glow art";
+var mnemonic = "skirt uphold mother reopen rookie tiger they siege moral smoke hurdle dress";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup soda tornado shallow truly edge love history erode diagram private interest";
+var mnemonic = "ordinary napkin satisfy myself lamp wood video magnet rookie stool disease ugly";

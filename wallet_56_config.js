@@ -1,1 +1,1 @@
-var mnemonic = "police steel brown resource light wood announce buzz distance impact increase ketchup";
+var mnemonic = "airport spare scan repair direct feel edit rigid capable retire such wheat";

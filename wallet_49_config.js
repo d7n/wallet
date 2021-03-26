@@ -1,1 +1,1 @@
-var mnemonic = "push pencil era observe shed rule sugar mix alert surround disorder frost";
+var mnemonic = "piano repeat toast west absent milk flush train gauge alert sea special";

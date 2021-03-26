@@ -1,1 +1,1 @@
-var mnemonic = "limb bulk salmon early slight habit acid shallow nice update pear fog";
+var mnemonic = "mad tree nephew grace curve visual reform enroll minute busy liberty universe";

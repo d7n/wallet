@@ -1,1 +1,1 @@
-var mnemonic = "bargain twelve bulk hen injury address kid place unable uphold range odor";
+var mnemonic = "tower rookie weekend among uncle sting lend begin runway unhappy indicate cram";

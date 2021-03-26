@@ -1,1 +1,1 @@
-var mnemonic = "person silly wisdom sunny visual mix grit false thumb minor mutual whip";
+var mnemonic = "cute price eager they genre twist belt town beef match envelope clump";

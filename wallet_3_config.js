@@ -1,1 +1,1 @@
-var mnemonic = "seat mirror frozen joy blur poverty unusual main cube stage second chief";
+var mnemonic = "subject child oil false distance sick close cause rough story faith sadness";

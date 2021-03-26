@@ -1,1 +1,1 @@
-var mnemonic = "because must sustain exclude rack level practice brown note evidence beyond shift";
+var mnemonic = "sing canal eight plug frequent visual sport truck trash update exclude color";
