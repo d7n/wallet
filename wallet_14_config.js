@@ -1,1 +1,1 @@
-var mnemonic = "luggage mango segment finish smooth universe staff oppose person card swap gasp";
+var mnemonic = "quote subject write tip squirrel hat elevator buffalo chase estate wheat fever";

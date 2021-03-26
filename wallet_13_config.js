@@ -1,1 +1,1 @@
-var mnemonic = "like avoid time grow call orbit buddy rose remind chief bottom donate";
+var mnemonic = "head walnut mobile law anger obtain chaos among actress bulk margin possible";

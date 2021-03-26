@@ -1,1 +1,1 @@
-var mnemonic = "again bus rapid caution man start version siren phrase resource since extend";
+var mnemonic = "away kiwi labor blush laundry weasel walnut primary clever roast very dinner";

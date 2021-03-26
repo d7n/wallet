@@ -1,1 +1,1 @@
-var mnemonic = "hill tray chase point tell arrest velvet sketch mention gentle drama oak";
+var mnemonic = "foam orphan copy input abandon canal inject cement foot relax myself chapter";

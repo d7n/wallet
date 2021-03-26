@@ -1,1 +1,1 @@
-var mnemonic = "bind artist occur exact fortune loud only drop people humor erode rail";
+var mnemonic = "caution south dolphin bench inhale cage panda drill neck eager sock slab";

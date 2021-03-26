@@ -1,1 +1,1 @@
-var mnemonic = "one affair mention device alcohol nerve target gorilla chat blind below amateur";
+var mnemonic = "kangaroo oil van empty black smooth sample flight simple nest drink zero";

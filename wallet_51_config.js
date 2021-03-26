@@ -1,1 +1,1 @@
-var mnemonic = "abuse message question spoil again hazard retire gate ribbon patch follow vacuum";
+var mnemonic = "yard bread puzzle place belt sign rose spatial neck supreme wet enable";

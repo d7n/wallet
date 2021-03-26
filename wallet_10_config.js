@@ -1,1 +1,1 @@
-var mnemonic = "butter orchard mention rent side grab decade victory mix eternal tobacco price";
+var mnemonic = "town coconut giant cereal slush coach illegal punch midnight void arm thumb";

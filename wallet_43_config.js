@@ -1,1 +1,1 @@
-var mnemonic = "immune castle rate kid bullet feature cabbage floor supply lift lounge snap";
+var mnemonic = "matter open pet duck scale toe true scissors face soccer gentle feed";

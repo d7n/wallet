@@ -1,1 +1,1 @@
-var mnemonic = "letter valve nuclear soft cook pattern flame cool item mystery sure slab";
+var mnemonic = "arm talent dose mercy uncover post chaos fun law grunt bitter butter";

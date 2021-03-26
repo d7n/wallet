@@ -1,1 +1,1 @@
-var mnemonic = "draft elder wrist scene immune crane prize subject cream eternal before hip";
+var mnemonic = "sad increase act strike ozone library follow measure beauty ice oil thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "slice light bleak case mammal become tiger column eight fence guitar century";
+var mnemonic = "infant pelican use avoid chunk cushion behave tent sense desk task giggle";

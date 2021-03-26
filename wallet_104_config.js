@@ -1,1 +1,1 @@
-var mnemonic = "talk couple human hazard model radar load urban stock force all razor";
+var mnemonic = "receive state fox half limit first amazing frequent marriage civil finger equip";

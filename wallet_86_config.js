@@ -1,1 +1,1 @@
-var mnemonic = "cook wasp van duty february width web pistol celery soul volume keen";
+var mnemonic = "demise today supreme candy drama follow void trial start dynamic fluid egg";

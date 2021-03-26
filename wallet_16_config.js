@@ -1,1 +1,1 @@
-var mnemonic = "monitor crop long exchange pear soldier moon glass aunt electric announce lucky";
+var mnemonic = "shoot awake boil divert science buyer snake entire busy cigar install list";

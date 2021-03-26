@@ -1,1 +1,1 @@
-var mnemonic = "rapid maple upon alcohol hint bless below kid utility hotel person bronze";
+var mnemonic = "rose cattle cinnamon notice satoshi purity flee next wife draw neck nature";

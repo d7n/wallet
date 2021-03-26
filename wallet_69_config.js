@@ -1,1 +1,1 @@
-var mnemonic = "blue police scare usual remember total soul expect wild nurse shell flock";
+var mnemonic = "boy leaf river cargo calm away dilemma asthma input vicious mirror hero";

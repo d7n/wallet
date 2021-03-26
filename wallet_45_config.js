@@ -1,1 +1,1 @@
-var mnemonic = "banner mask gown aunt pair minimum save wife vessel cube ridge various";
+var mnemonic = "account ancient book foster chronic soldier noise recipe during number glide topic";

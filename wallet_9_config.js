@@ -1,1 +1,1 @@
-var mnemonic = "harbor black raise civil swarm because thumb horn thank happy nominee educate";
+var mnemonic = "skull indicate engage random blouse crime tackle owner man left hazard shuffle";

@@ -1,1 +1,1 @@
-var mnemonic = "logic hobby abandon camera crater twice cluster comic valve ridge interest scissors";
+var mnemonic = "lizard seminar such between cliff during door orchard ignore wise minor height";

@@ -1,1 +1,1 @@
-var mnemonic = "panic cloud struggle anger daughter cereal illness young notable horn cement stick";
+var mnemonic = "will proud invite learn dance small sleep cover audit reject vacant bottom";

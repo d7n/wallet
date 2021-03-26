@@ -1,1 +1,1 @@
-var mnemonic = "shrug develop focus arrive orphan destroy scale cable advance throw soul crisp";
+var mnemonic = "garment denial bridge critic pull wink neutral mixed knee blind antique twice";

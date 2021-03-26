@@ -1,1 +1,1 @@
-var mnemonic = "steak void pave item romance point pink helmet guitar raise vacant man";
+var mnemonic = "vast attack thought open special hero wage enforce coin omit diesel boil";

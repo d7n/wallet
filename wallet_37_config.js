@@ -1,1 +1,1 @@
-var mnemonic = "eight discover category spawn they scissors still section example diagram can august";
+var mnemonic = "swallow lady detail cruel gun submit dawn lion snake advance festival board";

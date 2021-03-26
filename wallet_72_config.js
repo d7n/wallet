@@ -1,1 +1,1 @@
-var mnemonic = "mixed best practice vicious dawn mass symptom coyote bind expect media tuition";
+var mnemonic = "chunk warfare upper alpha female army then snack dose speak ripple runway";

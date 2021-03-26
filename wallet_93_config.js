@@ -1,1 +1,1 @@
-var mnemonic = "run fox cabbage divorce struggle upon smoke tongue inherit jealous garlic margin";
+var mnemonic = "section step demand unlock rigid melt stereo bonus north face random crumble";

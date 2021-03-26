@@ -1,1 +1,1 @@
-var mnemonic = "jar frequent poverty idle eagle weapon tonight hundred dentist region member mutual";
+var mnemonic = "hour bless circle sauce food bag whip flame body uncover phone situate";

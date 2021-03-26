@@ -1,1 +1,1 @@
-var mnemonic = "degree round section concert mail ceiling stereo give giggle swim elegant person";
+var mnemonic = "retire expand enlist between lecture area cage slab tide treat confirm tissue";

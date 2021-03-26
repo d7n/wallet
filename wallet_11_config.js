@@ -1,1 +1,1 @@
-var mnemonic = "almost cereal where state saddle worth private reject hood differ silent unknown";
+var mnemonic = "loop cat nothing neglect spike explain ramp gauge check dismiss talent predict";

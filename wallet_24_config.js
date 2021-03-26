@@ -1,1 +1,1 @@
-var mnemonic = "floor suggest victory invite bus obtain breeze solve tuition wreck teach baby";
+var mnemonic = "coral moral dust execute hammer donor tortoise damp cabin breeze loud tunnel";

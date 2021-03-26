@@ -1,1 +1,1 @@
-var mnemonic = "tornado tennis clump daughter divert obey ocean purity dismiss forward evoke nest";
+var mnemonic = "solid type charge mountain course when glare stumble gift barrel dish car";

@@ -1,1 +1,1 @@
-var mnemonic = "wise guilt odor demise explain asset debris unknown broken shed reform wage";
+var mnemonic = "miracle post merge piano spider soldier palm level bachelor myself dove thrive";

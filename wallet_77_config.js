@@ -1,1 +1,1 @@
-var mnemonic = "insect evolve absent myth pole chapter recall alter case pilot foot culture";
+var mnemonic = "bleak coral volcano tiny side antenna garlic hip razor galaxy six forest";

@@ -1,1 +1,1 @@
-var mnemonic = "will sausage submit sugar found fun spice ability mesh silver wish liquid";
+var mnemonic = "urge decide valve turn advice mosquito label weird afraid motor farm park";

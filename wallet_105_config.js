@@ -1,1 +1,1 @@
-var mnemonic = "range square nerve absorb auto dinner mystery current genuine cost quantum sport";
+var mnemonic = "fashion exchange car aim spend actress tip rebel cost height demise belt";

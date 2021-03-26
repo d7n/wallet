@@ -1,1 +1,1 @@
-var mnemonic = "brief slight kangaroo axis goose debris destroy cousin citizen lift thank bamboo";
+var mnemonic = "always alley wet water wheel doctor finish vital vivid away core vast";

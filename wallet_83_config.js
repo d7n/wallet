@@ -1,1 +1,1 @@
-var mnemonic = "weasel famous source barely release card topple zone mule report top render";
+var mnemonic = "scatter faint west canvas gesture brand route trash enter curtain burden pumpkin";

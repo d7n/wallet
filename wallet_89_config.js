@@ -1,1 +1,1 @@
-var mnemonic = "pupil impact museum act wait deny program wreck globe fragile tissue jazz";
+var mnemonic = "act alpha reduce iron survey mandate toast lock saddle flush corn cause";

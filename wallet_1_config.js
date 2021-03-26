@@ -1,1 +1,1 @@
-var mnemonic = "swap theme inherit ritual layer flush secret spend poet enable clap quote";
+var mnemonic = "enforce inquiry skate outdoor live loop apart old grief inject domain rain";

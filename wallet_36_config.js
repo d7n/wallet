@@ -1,1 +1,1 @@
-var mnemonic = "slim pig chimney pipe account exclude suffer cook general distance please rotate";
+var mnemonic = "dumb cage shy chat gadget world they side nature van wagon wish";

@@ -1,1 +1,1 @@
-var mnemonic = "photo lunar vague power pave amount blood until arrive pioneer clay soon";
+var mnemonic = "circle laundry nuclear fun own empower divide foam label virus breeze mistake";

@@ -1,1 +1,1 @@
-var mnemonic = "announce brush arena base soda asset crazy lawn era purpose happy vessel";
+var mnemonic = "live assault crucial invite quick echo credit attract tray moral seat tunnel";

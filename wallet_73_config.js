@@ -1,1 +1,1 @@
-var mnemonic = "jealous assume fox immense output broken quarter valley similar wash behave usual";
+var mnemonic = "library wash sorry father kingdom fog cluster suit cause verify unveil typical";

@@ -1,1 +1,1 @@
-var mnemonic = "busy hazard mystery travel scene tip arch green hunt never wire cruel";
+var mnemonic = "curtain scale panic bind visit cube awful wash coffee always history filter";

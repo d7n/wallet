@@ -1,1 +1,1 @@
-var mnemonic = "book bachelor minor trumpet prison bright banner cancel year fence protect civil";
+var mnemonic = "verb exchange toss range hockey install slow only pepper laundry vehicle lunar";

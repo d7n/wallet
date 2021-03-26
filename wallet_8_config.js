@@ -1,1 +1,1 @@
-var mnemonic = "move velvet conduct canyon have knock hamster seat spike rifle enemy build";
+var mnemonic = "moral toe age hamster popular issue minor random gown whisper pigeon distance";

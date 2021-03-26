@@ -1,1 +1,1 @@
-var mnemonic = "solve manual anger sentence pretty kidney sister decade season plug parent escape";
+var mnemonic = "isolate rebuild disorder goose degree tiger fade never flee poet deposit vital";

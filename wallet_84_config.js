@@ -1,1 +1,1 @@
-var mnemonic = "govern sustain remind capital biology cereal erode peace pledge control attend shaft";
+var mnemonic = "begin hood resemble include scissors include wrong seek debris melt task helmet";

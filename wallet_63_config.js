@@ -1,1 +1,1 @@
-var mnemonic = "sad vague stumble key payment small pill drama offer pitch derive immense";
+var mnemonic = "bar ostrich violin maze mushroom plug kiss project surge stereo poem what";

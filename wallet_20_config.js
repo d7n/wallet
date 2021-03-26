@@ -1,1 +1,1 @@
-var mnemonic = "afford spell segment harsh purpose dash glow elbow master dwarf rare tide";
+var mnemonic = "guitar undo silent clip explain donkey denial excite please oak cushion track";

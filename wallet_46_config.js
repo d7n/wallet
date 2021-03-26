@@ -1,1 +1,1 @@
-var mnemonic = "siren kiss vivid save spot flavor charge copper unique already report unlock";
+var mnemonic = "young coast orange gorilla sample muscle inhale season remain you bracket message";

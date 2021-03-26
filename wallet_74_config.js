@@ -1,1 +1,1 @@
-var mnemonic = "valid chapter screen east crouch mixed few bind satisfy wet ill birth";
+var mnemonic = "distance wool bleak antenna rice tag sniff sign gown assist drop during";

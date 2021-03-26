@@ -1,1 +1,1 @@
-var mnemonic = "blind evidence pact hope session trade tell suit depend island start ladder";
+var mnemonic = "prison junior easily foil grab member there nose below ball bone pen";

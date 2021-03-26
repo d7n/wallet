@@ -1,1 +1,1 @@
-var mnemonic = "captain absent wild wait pair color blanket thunder into add prepare icon";
+var mnemonic = "guide tourist chat domain beauty say swap alien float social bus sheriff";

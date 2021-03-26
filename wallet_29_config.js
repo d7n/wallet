@@ -1,1 +1,1 @@
-var mnemonic = "horse stuff aim industry machine gift deputy wise animal always field party";
+var mnemonic = "gas aware oval coast cream vague gentle bicycle expire kidney retreat disorder";

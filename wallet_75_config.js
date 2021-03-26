@@ -1,1 +1,1 @@
-var mnemonic = "eagle develop oppose sweet exhaust fence response mansion visa rude title occur";
+var mnemonic = "apart retire mansion tray birth clog divert nominee silver inherit caught more";

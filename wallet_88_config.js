@@ -1,1 +1,1 @@
-var mnemonic = "chapter effort salt ugly quick fire shadow one like office fence hen";
+var mnemonic = "lunch bid all fragile call still blind flag giraffe resemble crack someone";

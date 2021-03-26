@@ -1,1 +1,1 @@
-var mnemonic = "crush receive craft object foster profit claim desert easy claim judge view";
+var mnemonic = "sudden element window flag key all soup anchor garment ticket gun what";

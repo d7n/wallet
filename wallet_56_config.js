@@ -1,1 +1,1 @@
-var mnemonic = "unfair afraid point plug upon shrimp soda trick december close ill stereo";
+var mnemonic = "nice census aim people pull dumb rack differ veteran despair tone street";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow dream iron uniform green other orbit cloth atom crane elephant subject";
+var mnemonic = "staff guitar fantasy correct twist symbol devote pledge garbage idle fragile scorpion";

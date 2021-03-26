@@ -1,1 +1,1 @@
-var mnemonic = "benefit tenant find arch negative dawn uncle place prefer clever barrel random";
+var mnemonic = "hammer buyer letter dwarf economy walk nominee pool hobby real dirt hope";

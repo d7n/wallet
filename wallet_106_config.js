@@ -1,1 +1,1 @@
-var mnemonic = "drastic truck away decade thumb snow local fold mystery length dust thumb";
+var mnemonic = "adapt health version asset random dry youth salute relief dinner gallery blind";

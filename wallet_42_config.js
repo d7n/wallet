@@ -1,1 +1,1 @@
-var mnemonic = "leave family nature north buffalo leopard expand seven enemy song maze hand";
+var mnemonic = "woman student vehicle coyote foot forward scheme draw maple air burst second";

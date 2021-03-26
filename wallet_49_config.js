@@ -1,1 +1,1 @@
-var mnemonic = "dune advance mixture use warm ecology empty busy bounce equip better magnet";
+var mnemonic = "shoe flight fame husband collect filter gentle lab motor junk balcony diary";

@@ -1,1 +1,1 @@
-var mnemonic = "absent woman alter universe train volcano purchase liquid weekend coil focus also";
+var mnemonic = "wagon shadow trash pledge repair inform sea decide used share good tell";

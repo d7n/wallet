@@ -1,1 +1,1 @@
-var mnemonic = "barrel culture next notable meat retire twin stool kiss field idea sentence";
+var mnemonic = "scheme paddle clown canoe promote minute have ensure record pony viable syrup";

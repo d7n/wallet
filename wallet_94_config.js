@@ -1,1 +1,1 @@
-var mnemonic = "attend vacant develop lobster mom glimpse shine green head slush million board";
+var mnemonic = "deposit current alert seminar field coin vote screen rocket dad march route";

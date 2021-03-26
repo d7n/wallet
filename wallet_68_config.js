@@ -1,1 +1,1 @@
-var mnemonic = "true sketch airport risk casino van fruit spend helmet air clever follow";
+var mnemonic = "route foil obscure charge matter nice shell jewel fiscal such forum whisper";

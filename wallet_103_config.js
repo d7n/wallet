@@ -1,1 +1,1 @@
-var mnemonic = "material also prefer wild load venue bulk illegal index surprise tube bomb";
+var mnemonic = "apart execute column judge merge civil sentence repair neither edit kangaroo victory";

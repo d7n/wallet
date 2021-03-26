@@ -1,1 +1,1 @@
-var mnemonic = "vanish rhythm shift divorce town vital whale soccer retreat grain solve mixed";
+var mnemonic = "stand awkward witness avoid gain attitude trip improve cash oxygen arrest trouble";

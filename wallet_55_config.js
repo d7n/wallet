@@ -1,1 +1,1 @@
-var mnemonic = "image crowd prepare garlic ridge number daughter festival oppose canvas capital marine";
+var mnemonic = "usual chef clay position today select solid oak gallery salon open odor";

@@ -1,1 +1,1 @@
-var mnemonic = "valley horror spirit actor fine exhaust improve woman crime sadness jeans chest";
+var mnemonic = "lazy lunch razor detect silver trigger void long twin wheat fee lyrics";

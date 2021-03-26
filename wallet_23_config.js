@@ -1,1 +1,1 @@
-var mnemonic = "social height width engage undo panda hundred ahead fire age indicate focus";
+var mnemonic = "pony stuff stem own canal know length exotic clarify forest alien angle";

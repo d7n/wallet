@@ -1,1 +1,1 @@
-var mnemonic = "swarm west mutual idea dynamic system limit acquire rain urban cattle magnet";
+var mnemonic = "army office combine general much flip copper salmon ski try usage coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "solar shuffle fiber vanish shadow issue east baby boss save lounge pen";
+var mnemonic = "nephew sustain grace ensure number favorite identify fitness inflict primary radio fashion";

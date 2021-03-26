@@ -1,1 +1,1 @@
-var mnemonic = "protect cover hollow they holiday dad peace drive master laptop syrup yellow";
+var mnemonic = "arrow jelly essence pretty present good enlist voice drink spare balance adjust";

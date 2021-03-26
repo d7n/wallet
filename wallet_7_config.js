@@ -1,1 +1,1 @@
-var mnemonic = "hello correct farm outside arrow filter barely stamp grass monster claim sport";
+var mnemonic = "tone soldier rose shrimp strike option tackle holiday tattoo grab solar tonight";

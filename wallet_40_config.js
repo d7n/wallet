@@ -1,1 +1,1 @@
-var mnemonic = "live erosion place critic nature curtain order alpha bubble skill lunch monster";
+var mnemonic = "harbor dawn zoo load protect clerk earn step arrest impulse poet eyebrow";

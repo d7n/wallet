@@ -1,1 +1,1 @@
-var mnemonic = "finish that purse direct this cluster connect aim tower soon memory faculty";
+var mnemonic = "state gauge first obscure gate muscle boy blouse vintage feature weekend include";

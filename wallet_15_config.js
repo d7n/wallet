@@ -1,1 +1,1 @@
-var mnemonic = "wash rude pony section appear tree traffic number mushroom hammer conduct video";
+var mnemonic = "total erase among scare bind pool combine pioneer session defense deposit below";

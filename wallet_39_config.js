@@ -1,1 +1,1 @@
-var mnemonic = "what roof tourist banana boy art jewel curious soap always crowd napkin";
+var mnemonic = "media risk rain cook cute naive desert blade soon zebra cactus boss";

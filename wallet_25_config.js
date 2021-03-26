@@ -1,1 +1,1 @@
-var mnemonic = "reunion curious artist already drastic jazz bacon industry artefact twelve short lonely";
+var mnemonic = "mask enable collect enjoy rabbit catch smoke forum eager brass below entire";

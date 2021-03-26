@@ -1,1 +1,1 @@
-var mnemonic = "pill autumn suspect quick another badge deputy force fruit anger balcony orient";
+var mnemonic = "large task tunnel amount illness dust sun slight prize sense tobacco lunar";

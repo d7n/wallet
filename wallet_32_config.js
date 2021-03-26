@@ -1,1 +1,1 @@
-var mnemonic = "select raw talk roast aspect abuse burger place lend equip sadness soccer";
+var mnemonic = "ranch hammer cabbage during brand swap wide news bundle early claw zebra";

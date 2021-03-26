@@ -1,1 +1,1 @@
-var mnemonic = "since dignity ribbon fashion charge field travel marine robust caution protect cable";
+var mnemonic = "simple hurdle habit food worth better razor monitor miss warfare trumpet arm";

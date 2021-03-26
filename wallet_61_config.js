@@ -1,1 +1,1 @@
-var mnemonic = "pretty steak circle okay wild answer suspect security economy exotic image around";
+var mnemonic = "flavor vibrant pizza walk reform focus wheel soul hobby talent warrior salt";

@@ -1,1 +1,1 @@
-var mnemonic = "please wash mountain road muscle carpet monkey length try mean evolve spatial";
+var mnemonic = "this spell basic time unit filter wisdom property pupil flower scorpion inside";

@@ -1,1 +1,1 @@
-var mnemonic = "sister siege milk message peasant render brisk hockey over parent much theory";
+var mnemonic = "version wire resource trash fiber affair turn crowd race clap client law";

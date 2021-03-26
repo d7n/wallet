@@ -1,1 +1,1 @@
-var mnemonic = "that angry detect bracket inside direct asset review anger chair mansion easily";
+var mnemonic = "monitor brisk child yard muscle wolf nothing swap million air drink shaft";

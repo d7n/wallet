@@ -1,1 +1,1 @@
-var mnemonic = "sense first grape want style zoo taste behave discover play light tape";
+var mnemonic = "beauty jewel quiz loyal cigar aerobic burger trip quick squeeze machine word";

@@ -1,1 +1,1 @@
-var mnemonic = "illness room whisper jacket soft load luggage cereal rival shiver shallow royal";
+var mnemonic = "length token tackle option main capital add wild today hurdle recipe cruel";
