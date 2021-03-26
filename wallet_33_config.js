@@ -1,1 +1,1 @@
-var mnemonic = "indoor subject swim curtain stomach federal frame twenty chest olive strong afford";
+var mnemonic = "juice current blur cry angry hire clay define seminar core police buffalo";

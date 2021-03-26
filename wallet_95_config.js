@@ -1,1 +1,1 @@
-var mnemonic = "attend bike warrior tackle melody thrive client help upset stuff coral obey";
+var mnemonic = "gloom settle cry chicken tunnel dutch eight layer wait mesh seven across";

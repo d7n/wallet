@@ -1,1 +1,1 @@
-var mnemonic = "ritual helmet siege squirrel saddle annual thrive peasant simple swing hint ivory";
+var mnemonic = "charge sunny coffee merit math document hero simple replace team rare october";

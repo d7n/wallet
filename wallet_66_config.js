@@ -1,1 +1,1 @@
-var mnemonic = "novel armor obscure thumb garage want kiss weasel frequent exhaust uncover nut";
+var mnemonic = "start giggle inspire segment burger current people frog verify kangaroo coyote hand";

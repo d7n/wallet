@@ -1,1 +1,1 @@
-var mnemonic = "barrel boss car violin clog plunge absurd pair corn shiver crew decline";
+var mnemonic = "ginger grunt trust mistake luxury transfer jungle bulb obey evoke thunder crucial";

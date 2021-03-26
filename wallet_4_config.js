@@ -1,1 +1,1 @@
-var mnemonic = "wrist margin leg recycle fat silver soul giraffe pepper circle liberty episode";
+var mnemonic = "swallow educate worth frost toss close spatial area fork program illegal deposit";

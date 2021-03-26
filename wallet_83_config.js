@@ -1,1 +1,1 @@
-var mnemonic = "base december apple copy inquiry tonight party minor first nurse issue success";
+var mnemonic = "dentist maze sun disagree decade note embody audit print easy theory live";

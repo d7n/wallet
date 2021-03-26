@@ -1,1 +1,1 @@
-var mnemonic = "tongue dirt build february spray nominee diagram cloud tell remind permit ill";
+var mnemonic = "horror join urban feature volume this raw dog oblige rhythm burden loyal";

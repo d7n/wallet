@@ -1,1 +1,1 @@
-var mnemonic = "ridge chimney yard afraid nature bicycle suit diary romance family dash hand";
+var mnemonic = "antique tray unfair income list safe pave enable taxi nerve situate fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "infant version color guilt cake okay eternal horn trap actor piano claw";
+var mnemonic = "reduce dance old food fence enemy motor liquid figure rival bag habit";

@@ -1,1 +1,1 @@
-var mnemonic = "museum orange armor push what utility swing person erupt blame degree share";
+var mnemonic = "deputy bleak axis charge surface feature used scheme ahead possible palm inject";

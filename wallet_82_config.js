@@ -1,1 +1,1 @@
-var mnemonic = "collect beach force long slogan gadget guard much mail drill vintage butter";
+var mnemonic = "volume mosquito defense image slush people spread pink ankle rice common limb";

@@ -1,1 +1,1 @@
-var mnemonic = "course right cabin original stable cash husband silver depart plastic stage total";
+var mnemonic = "victory boost engine master cage fiction subject radar arctic essay mushroom violin";

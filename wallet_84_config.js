@@ -1,1 +1,1 @@
-var mnemonic = "sample obvious toilet weekend erosion tongue cup shoe frown alarm feed doll";
+var mnemonic = "net desk wood parrot total penalty welcome oblige rural peasant reveal salt";

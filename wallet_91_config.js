@@ -1,1 +1,1 @@
-var mnemonic = "fault month visa divorce snack adapt gasp scorpion radar gentle symptom water";
+var mnemonic = "tackle frog write lamp scene aspect speak muscle rough throw caution leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "thought dream stamp mass tree help predict float van supply cost light";
+var mnemonic = "amused eternal attitude theme boat screen demand develop shallow claw mango pulse";

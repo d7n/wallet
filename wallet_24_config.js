@@ -1,1 +1,1 @@
-var mnemonic = "shop ask tongue buzz occur nation mushroom nasty crush sense banana model";
+var mnemonic = "chaos doctor cook denial bonus awkward have analyst teach second alcohol vague";

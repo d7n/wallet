@@ -1,1 +1,1 @@
-var mnemonic = "hammer transfer card hybrid chef shoe silver lend update toddler thunder rich";
+var mnemonic = "vital become panel enough december state seven accident butter snap purse spray";

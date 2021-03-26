@@ -1,1 +1,1 @@
-var mnemonic = "wagon antenna fiction athlete sick disagree easy kidney win now float cause";
+var mnemonic = "slice oven decline lift silver blanket luxury door ripple jeans demand shift";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple horn easy spin fiber crush discover candy stove cricket energy invite";
+var mnemonic = "car such science crew wrap miracle penalty glare little order pencil debris";

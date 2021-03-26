@@ -1,1 +1,1 @@
-var mnemonic = "recipe genius grunt green lift position sadness refuse logic salute obey physical";
+var mnemonic = "slogan amount thunder cricket buffalo home identify mail jacket erode speak before";

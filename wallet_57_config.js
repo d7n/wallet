@@ -1,1 +1,1 @@
-var mnemonic = "arctic monster scatter fence fox wife express boil vote usual path solution";
+var mnemonic = "moment rocket spawn tired symbol raw luggage never plunge ready argue suit";

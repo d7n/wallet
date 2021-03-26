@@ -1,1 +1,1 @@
-var mnemonic = "stone install gun canvas base toilet prepare thunder rescue tackle miss captain";
+var mnemonic = "borrow manual swim sorry van unlock secret south keep peanut lesson tag";

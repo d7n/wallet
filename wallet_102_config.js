@@ -1,1 +1,1 @@
-var mnemonic = "road try when write speed scrap rigid actress asset off promote weekend";
+var mnemonic = "ripple sick sleep prosper melt ankle creek donkey humor phrase poet phrase";

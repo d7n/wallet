@@ -1,1 +1,1 @@
-var mnemonic = "radio version half crash blush foster voice purse disorder citizen squeeze inside";
+var mnemonic = "property equal magic loop shadow poet glide toss deer other response scissors";

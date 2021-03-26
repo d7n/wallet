@@ -1,1 +1,1 @@
-var mnemonic = "fringe food connect loan hire potato worry wonder chair style symbol riot";
+var mnemonic = "stick switch oppose stereo steak fruit vapor pen destroy parent document eye";

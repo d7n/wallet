@@ -1,1 +1,1 @@
-var mnemonic = "board entry anger police fine design inhale vibrant jacket twin erosion camera";
+var mnemonic = "wreck run minimum lens supply metal correct mention cliff around outdoor buzz";

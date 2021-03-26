@@ -1,1 +1,1 @@
-var mnemonic = "switch champion ethics jungle amazing mail differ attend into start fever battle";
+var mnemonic = "alarm used eye insect notable volume lobster exotic glimpse garbage spoon ethics";

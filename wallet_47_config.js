@@ -1,1 +1,1 @@
-var mnemonic = "child remind select april govern appear thrive hidden rhythm stem word expect";
+var mnemonic = "glide air oak hawk employ guess erosion tumble amused mule drastic ginger";

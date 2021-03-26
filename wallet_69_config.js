@@ -1,1 +1,1 @@
-var mnemonic = "cactus shop state ride sunset what credit hint chase staff address list";
+var mnemonic = "main way host poet bacon casual party broom flag black february can";

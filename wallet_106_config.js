@@ -1,1 +1,1 @@
-var mnemonic = "member twenty kiwi finish absorb earn gaze pepper useless mistake barrel sheriff";
+var mnemonic = "pen stock film way wagon blush tent deer buyer learn love swamp";

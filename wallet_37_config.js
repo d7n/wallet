@@ -1,1 +1,1 @@
-var mnemonic = "innocent plastic panda various ramp science bright bracket render shock vote sugar";
+var mnemonic = "child dose lock duty pear own lottery feel view point vague magic";

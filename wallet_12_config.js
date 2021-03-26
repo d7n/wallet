@@ -1,1 +1,1 @@
-var mnemonic = "uncle rapid picture year media economy sorry flight coach detect leg theme";
+var mnemonic = "manage arena obvious sure foam fly film strategy business develop stadium voice";

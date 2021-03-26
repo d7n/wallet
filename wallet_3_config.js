@@ -1,1 +1,1 @@
-var mnemonic = "chalk include sustain deal voyage wave monitor hazard hood fragile tiny beef";
+var mnemonic = "sausage ship recipe file endless path castle moon behind dirt wool unfold";

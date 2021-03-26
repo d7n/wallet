@@ -1,1 +1,1 @@
-var mnemonic = "thunder during island concert purse plastic annual shine tuna upper moment differ";
+var mnemonic = "submit top test copper blood believe total pause orbit okay beach snack";

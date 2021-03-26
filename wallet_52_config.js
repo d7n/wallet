@@ -1,1 +1,1 @@
-var mnemonic = "retire wise select danger example power victory relief enter girl decrease basket";
+var mnemonic = "match above afford depth medal oblige fault order scissors trial sample van";

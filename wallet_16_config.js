@@ -1,1 +1,1 @@
-var mnemonic = "ten forum scorpion pulp venue potato hunt defense broccoli palace palace awake";
+var mnemonic = "sudden cream display cupboard miss food mandate call flash rose exchange guide";

@@ -1,1 +1,1 @@
-var mnemonic = "click harvest remain usual tattoo humble paddle portion woman entry tooth taxi";
+var mnemonic = "collect kit shuffle fat faculty forget rotate option evolve must wire adapt";

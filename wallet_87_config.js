@@ -1,1 +1,1 @@
-var mnemonic = "anxiety consider debate hunt shaft crew exotic balance sport machine alter fog";
+var mnemonic = "weekend deny super bacon evidence rubber depart tiny client waste desk sing";

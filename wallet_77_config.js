@@ -1,1 +1,1 @@
-var mnemonic = "fabric thunder decide wrist glad iron sea tooth capital plate clarify equip";
+var mnemonic = "inner thing flight forest buyer ocean please pilot safe announce uniform village";

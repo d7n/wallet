@@ -1,1 +1,1 @@
-var mnemonic = "yard similar solar salt zone certain grid trap home badge vocal unlock";
+var mnemonic = "love caution monkey boy core silver father slide motor twin badge drink";

@@ -1,1 +1,1 @@
-var mnemonic = "trumpet limb chef father foil sentence key gloom fatigue shop source bike";
+var mnemonic = "broccoli glow raise symbol grow quick glad exile bone surprise clip inner";

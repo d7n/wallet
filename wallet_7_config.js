@@ -1,1 +1,1 @@
-var mnemonic = "keen system purse approve repeat gentle digital wealth rescue sad ecology tumble";
+var mnemonic = "believe upon medal dignity joy baby column engine broccoli reject deliver local";

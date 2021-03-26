@@ -1,1 +1,1 @@
-var mnemonic = "friend arrest bean vintage away galaxy sick month hundred nut airport foot";
+var mnemonic = "hip slice night patient sight decide flavor student urge man beyond ahead";

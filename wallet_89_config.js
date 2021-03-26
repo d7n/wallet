@@ -1,1 +1,1 @@
-var mnemonic = "adapt antique jump thunder obvious heavy village roast tragic latin fever soccer";
+var mnemonic = "course silent fitness frown injury ozone wagon proud sand script grain end";

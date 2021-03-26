@@ -1,1 +1,1 @@
-var mnemonic = "category chunk stage route uphold erode arrange maze drop ivory squeeze quality";
+var mnemonic = "odor between next such eight execute jewel fortune harvest mobile man unfold";

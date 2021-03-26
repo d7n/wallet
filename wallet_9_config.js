@@ -1,1 +1,1 @@
-var mnemonic = "rebuild holiday anxiety track empty fly title lecture dentist panel income image";
+var mnemonic = "miracle dress ready salad release bacon people stomach student hire ocean vacuum";

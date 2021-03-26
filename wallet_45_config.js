@@ -1,1 +1,1 @@
-var mnemonic = "armor antique joke sad select notice fame hamster sunny awesome code only";
+var mnemonic = "return force tape cradle private artefact kingdom record enrich lens such mobile";

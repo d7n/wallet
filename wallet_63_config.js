@@ -1,1 +1,1 @@
-var mnemonic = "calm enough toy expand once couple leopard aspect phrase ozone word wrap";
+var mnemonic = "fresh ritual enter earn shoe raven speed strike drastic swim crucial join";

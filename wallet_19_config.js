@@ -1,1 +1,1 @@
-var mnemonic = "work appear creek pony outdoor develop duck wagon firm vapor traffic galaxy";
+var mnemonic = "pink misery resource ice term news naive put huge only nice indicate";

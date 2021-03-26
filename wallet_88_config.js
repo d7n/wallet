@@ -1,1 +1,1 @@
-var mnemonic = "coach notice road fringe cup decrease knee oval settle question flee citizen";
+var mnemonic = "firm topple decline obvious eyebrow earth select suggest busy theory because once";

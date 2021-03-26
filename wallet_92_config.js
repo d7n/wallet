@@ -1,1 +1,1 @@
-var mnemonic = "garbage wire jealous fantasy equip day bean stand destroy build jewel job";
+var mnemonic = "answer argue online clown ugly tourist pave myself eyebrow harbor blade mechanic";

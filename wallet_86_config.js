@@ -1,1 +1,1 @@
-var mnemonic = "extend input guard venture slim pole vehicle slow release jeans amazing code";
+var mnemonic = "east various capital cycle eternal imitate general crane yard leader tired armor";

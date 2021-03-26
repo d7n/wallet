@@ -1,1 +1,1 @@
-var mnemonic = "rebel disorder exotic picnic seminar ridge sport adjust brick apart evoke require";
+var mnemonic = "stool excess regular phrase vendor relax inherit adapt chest argue depth absent";

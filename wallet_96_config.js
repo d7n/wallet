@@ -1,1 +1,1 @@
-var mnemonic = "there spread milk physical solution cover prepare heavy raw witness recipe rich";
+var mnemonic = "what journey bronze orchard liar card gloom mercy home coast tomato police";

@@ -1,1 +1,1 @@
-var mnemonic = "indoor remove kingdom avoid gaze exhaust when notice pioneer large stamp climb";
+var mnemonic = "tongue bronze skill coil leave garden theme liar need cash globe trumpet";

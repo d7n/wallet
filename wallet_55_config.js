@@ -1,1 +1,1 @@
-var mnemonic = "hand reward tube fish face main verify try wait step endorse romance";
+var mnemonic = "viable upgrade return profit van aerobic scissors actor genuine story tunnel auction";

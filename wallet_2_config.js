@@ -1,1 +1,1 @@
-var mnemonic = "twist video auction define wonder icon engine hotel pattern airport diet orchard";
+var mnemonic = "logic error cream truly arrow nephew mule ignore nut absurd trend subway";

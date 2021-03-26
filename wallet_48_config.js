@@ -1,1 +1,1 @@
-var mnemonic = "behind knock culture hurdle grain close snake stand fault love clerk prevent";
+var mnemonic = "glance delay gospel welcome space sauce supreme borrow drive prosper awful into";

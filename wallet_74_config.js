@@ -1,1 +1,1 @@
-var mnemonic = "naive type rich ill want brother join copy also usual assume zero";
+var mnemonic = "hand heart carbon hunt theme injury nerve fiscal music glide else staff";

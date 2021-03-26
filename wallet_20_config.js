@@ -1,1 +1,1 @@
-var mnemonic = "wagon taste decide bind mandate valley knife resist ethics valve light adjust";
+var mnemonic = "core eagle welcome over taste math merge regret unusual insect dial ranch";

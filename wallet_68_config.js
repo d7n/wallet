@@ -1,1 +1,1 @@
-var mnemonic = "column canyon shallow foam maple borrow yellow sweet wedding table huge mixed";
+var mnemonic = "ship now poem snap absent cliff family attack summer return cliff trash";

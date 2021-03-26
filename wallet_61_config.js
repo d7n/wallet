@@ -1,1 +1,1 @@
-var mnemonic = "shoulder dwarf another bamboo october grit review just click pudding milk prison";
+var mnemonic = "flee coffee super lobster present hip claw feel gift genius sea cover";

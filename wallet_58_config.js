@@ -1,1 +1,1 @@
-var mnemonic = "brave spirit voice gorilla sustain real feature fog edge below clown throw";
+var mnemonic = "february sun scissors aerobic act tenant couple enable castle gossip drive region";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut canyon trust ball glue lounge spider shrimp news property degree rely";
+var mnemonic = "modify buyer caught ghost riot unveil error grant emerge unaware treat weapon";

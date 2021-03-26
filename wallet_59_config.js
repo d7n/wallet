@@ -1,1 +1,1 @@
-var mnemonic = "jungle betray language brave rare upon distance flight urban truly taste mistake";
+var mnemonic = "sample cruise beef base push area target vessel pond swarm code common";

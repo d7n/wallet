@@ -1,1 +1,1 @@
-var mnemonic = "seek quit rug left dinner boring drip drastic kid metal sauce kit";
+var mnemonic = "price salute tornado cherry picnic deposit below soda predict thank inquiry absorb";

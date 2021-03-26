@@ -1,1 +1,1 @@
-var mnemonic = "magic quick seat erupt kitchen pencil extra glove more athlete blue filter";
+var mnemonic = "fitness page ship machine sea scene upset elbow balcony depart screen nephew";

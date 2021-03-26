@@ -1,1 +1,1 @@
-var mnemonic = "choose chief multiply crumble shove acid dilemma object connect excite theme legend";
+var mnemonic = "nuclear squirrel mango roast relief champion crater industry parrot destroy illegal faint";

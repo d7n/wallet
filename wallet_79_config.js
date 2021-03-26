@@ -1,1 +1,1 @@
-var mnemonic = "surprise actress exhibit water mango upgrade such alert napkin next alpha invest";
+var mnemonic = "crumble simple grunt long learn donkey bread country total initial water snack";

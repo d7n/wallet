@@ -1,1 +1,1 @@
-var mnemonic = "dolphin exotic brisk ill vacuum legend term blouse wonder stadium fade spin";
+var mnemonic = "umbrella antenna measure inhale hint hurt ticket vibrant table artwork join reward";

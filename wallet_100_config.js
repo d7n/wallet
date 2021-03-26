@@ -1,1 +1,1 @@
-var mnemonic = "nasty dentist dolphin hub meadow century feed differ guitar jealous cannon taste";
+var mnemonic = "smoke message copper filter gesture already yellow proud alcohol silk pave sustain";

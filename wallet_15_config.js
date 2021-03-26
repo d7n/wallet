@@ -1,1 +1,1 @@
-var mnemonic = "disagree grass code monster large tobacco bottom vault spare any venue network";
+var mnemonic = "domain ostrich course wife beef void camp consider explain pretty symptom debate";

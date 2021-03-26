@@ -1,1 +1,1 @@
-var mnemonic = "swarm cage language elevator hundred regular supreme address analyst wine turn cross";
+var mnemonic = "plunge lady gadget gain tissue plate liar allow insect supply dutch couple";

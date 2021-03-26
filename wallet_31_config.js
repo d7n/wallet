@@ -1,1 +1,1 @@
-var mnemonic = "village donkey canal address misery maximum sort order genre drastic swarm sword";
+var mnemonic = "label comfort diesel until asthma nothing erosion insect lunch picnic chuckle pear";

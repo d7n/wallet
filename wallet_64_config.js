@@ -1,1 +1,1 @@
-var mnemonic = "agent fuel work dinner torch day weird exact skull staff project grab";
+var mnemonic = "lawsuit sauce tuna stomach habit rocket fuel delay cycle lizard beach fringe";

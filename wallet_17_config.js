@@ -1,1 +1,1 @@
-var mnemonic = "mystery abstract excuse decrease plate eternal jacket hope humor figure design swamp";
+var mnemonic = "celery despair tobacco similar flip link expose drive enjoy gift hobby daring";

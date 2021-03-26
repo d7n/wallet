@@ -1,1 +1,1 @@
-var mnemonic = "digital regret simple replace uniform relax simple deny toy cable below finger";
+var mnemonic = "pupil midnight evidence dance thrive team oval rough agent urge come crowd";

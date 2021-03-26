@@ -1,1 +1,1 @@
-var mnemonic = "dignity garlic eight erosion remind history demand silent pattern camera shuffle evil";
+var mnemonic = "round radar job size helmet fiscal tuition arctic clever ensure crucial shoulder";

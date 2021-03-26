@@ -1,1 +1,1 @@
-var mnemonic = "steak off supreme repeat much cool swap aware oak glimpse village true";
+var mnemonic = "can estate mango road panic dinner hill champion wedding maze old narrow";

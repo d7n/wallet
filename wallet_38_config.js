@@ -1,1 +1,1 @@
-var mnemonic = "risk enlist pact jewel they bulk daring ecology boring fade judge corn";
+var mnemonic = "lazy jump junk citizen disorder glove lawn wink claw rhythm fox fan";

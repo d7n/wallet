@@ -1,1 +1,1 @@
-var mnemonic = "symbol accident lift squirrel earth what open where chalk twenty spy dinosaur";
+var mnemonic = "birth unknown relax bounce wealth monster gas state cycle price update error";

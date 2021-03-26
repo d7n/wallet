@@ -1,1 +1,1 @@
-var mnemonic = "axis rookie online mushroom grit sibling review leaf bike van small effort";
+var mnemonic = "frog budget enroll soon size unveil search arrive correct vehicle major junior";

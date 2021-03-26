@@ -1,1 +1,1 @@
-var mnemonic = "connect spin loud warfare shed approve mystery whisper essence champion kangaroo match";
+var mnemonic = "situate style throw face wolf swamp donkey hair atom hurdle frozen until";

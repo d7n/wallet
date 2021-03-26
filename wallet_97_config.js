@@ -1,1 +1,1 @@
-var mnemonic = "praise bullet shrimp elbow struggle artefact borrow sound feature acoustic banana spirit";
+var mnemonic = "stairs category army maze butter police glove permit phone slab animal victory";

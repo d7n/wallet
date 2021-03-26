@@ -1,1 +1,1 @@
-var mnemonic = "you spend holiday crystal gate suffer alcohol olive liar wear hair carry";
+var mnemonic = "frost access wait above tennis wool next must object marine input panda";

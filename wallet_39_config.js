@@ -1,1 +1,1 @@
-var mnemonic = "olive cloth cinnamon destroy seek act trim vital slim faith lyrics news";
+var mnemonic = "envelope blast know more concert stone erode citizen device border object stove";

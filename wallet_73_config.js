@@ -1,1 +1,1 @@
-var mnemonic = "nephew bleak moment train cupboard obscure voyage bulb right round faint jewel";
+var mnemonic = "try custom battle shop orchard pass receive mango acid witness pottery truck";

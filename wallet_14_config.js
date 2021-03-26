@@ -1,1 +1,1 @@
-var mnemonic = "video rapid already limb scatter worth baby spell island tower upgrade symptom";
+var mnemonic = "muffin diesel salt large double few viable ski ethics unlock illegal lens";

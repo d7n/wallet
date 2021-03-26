@@ -1,1 +1,1 @@
-var mnemonic = "stock comfort real pitch cheap asset average pole spirit busy trouble moon";
+var mnemonic = "abstract notable library bird impose west keep wide angry noise jealous earth";

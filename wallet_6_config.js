@@ -1,1 +1,1 @@
-var mnemonic = "symptom hollow time regret dentist outside swarm skill give typical junk tone";
+var mnemonic = "foil eye cat piano invite sign grape debris cream bottom tooth chat";

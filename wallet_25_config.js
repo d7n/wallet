@@ -1,1 +1,1 @@
-var mnemonic = "seek chief leg hat bird produce release buzz garbage bonus dose one";
+var mnemonic = "draw winter annual stable husband crawl nasty report wash sniff fog snack";
