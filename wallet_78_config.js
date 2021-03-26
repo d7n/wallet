@@ -1,1 +1,1 @@
-var mnemonic = "paper sound spare crucial leg brass balcony pill moment age quarter gold";
+var mnemonic = "cool sudden foam tape eyebrow pink clinic rookie basket tobacco bundle found";

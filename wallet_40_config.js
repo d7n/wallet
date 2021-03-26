@@ -1,1 +1,1 @@
-var mnemonic = "bring cricket photo other brand word escape skirt place chicken frame mean";
+var mnemonic = "impact nose laugh worth please symptom quality immense return immense erode insect";

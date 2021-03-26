@@ -1,1 +1,1 @@
-var mnemonic = "combine hurt walk cart main word clock sibling taste lake fit much";
+var mnemonic = "learn cargo reveal occur claim stumble insane major decade arm under aim";

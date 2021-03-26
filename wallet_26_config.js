@@ -1,1 +1,1 @@
-var mnemonic = "amused holiday parrot bomb route army rule express tide profit mixture turtle";
+var mnemonic = "tissue middle travel include predict galaxy monster genuine error shock nephew gorilla";

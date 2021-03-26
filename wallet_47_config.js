@@ -1,1 +1,1 @@
-var mnemonic = "north say room original harbor beauty vast climb vibrant girl crime middle";
+var mnemonic = "either early hybrid innocent laundry acoustic syrup pass skull drama cherry rural";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom dance program this evil globe kick sibling midnight awkward bag response";
+var mnemonic = "parade name vintage safe atom connect alien practice elephant enter decorate permit";

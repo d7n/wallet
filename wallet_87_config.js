@@ -1,1 +1,1 @@
-var mnemonic = "exact hybrid when hour develop wonder say attend divorce turkey seminar dog";
+var mnemonic = "patch armor become tomato shine captain sight reward collect enemy merit edge";

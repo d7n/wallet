@@ -1,1 +1,1 @@
-var mnemonic = "talent derive step jazz spend hobby chicken unknown budget history gesture ribbon";
+var mnemonic = "key flip pig hole donor prosper injury another play glance lake earn";

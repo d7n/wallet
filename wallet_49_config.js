@@ -1,1 +1,1 @@
-var mnemonic = "easy lab toddler cabbage ahead patient six mirror treat blade lonely rough";
+var mnemonic = "then gift journey deal end differ wrong half beef liar coach among";

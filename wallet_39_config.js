@@ -1,1 +1,1 @@
-var mnemonic = "violin hurdle dizzy shy retreat donor multiply false benefit cigar physical weather";
+var mnemonic = "fuel bring share cause strike wild remind fetch logic noble budget river";

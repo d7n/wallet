@@ -1,1 +1,1 @@
-var mnemonic = "chest jealous lyrics quantum blame sustain helmet tooth put exchange feature right";
+var mnemonic = "board purchase hobby accident east unlock quit hundred little express fade target";

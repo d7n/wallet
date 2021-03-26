@@ -1,1 +1,1 @@
-var mnemonic = "exact deliver twin embody robot hazard sausage panel culture shiver fatal flat";
+var mnemonic = "enforce pet bread era strike eyebrow immense fabric angry tilt flash puzzle";

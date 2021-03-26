@@ -1,1 +1,1 @@
-var mnemonic = "interest museum busy copy violin crush scatter undo prize riot license say";
+var mnemonic = "diet anchor yard vocal bless shy vivid surface behave disorder sample ritual";

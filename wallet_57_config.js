@@ -1,1 +1,1 @@
-var mnemonic = "pretty private swallow sand job only vacant satoshi exact mule feed rather";
+var mnemonic = "able subject divide acquire horn reform excess need able wisdom ladder token";

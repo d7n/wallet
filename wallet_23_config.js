@@ -1,1 +1,1 @@
-var mnemonic = "task end region wine patch hurt uphold oppose worth device tourist differ";
+var mnemonic = "spawn shove spike drop envelope squirrel hungry trade expect bench treat enough";

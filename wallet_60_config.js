@@ -1,1 +1,1 @@
-var mnemonic = "copy ozone evidence pattern betray honey lion eternal unlock intact crunch skill";
+var mnemonic = "pond speak wrong prosper valve basic actor absorb churn someone negative train";

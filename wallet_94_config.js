@@ -1,1 +1,1 @@
-var mnemonic = "laundry among jar april grief shop term burger master word neither provide";
+var mnemonic = "lift imitate middle nurse luxury any above erase appear mad auction fun";

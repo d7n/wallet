@@ -1,1 +1,1 @@
-var mnemonic = "planet blade faculty bless cannon diary top inside able column autumn debris";
+var mnemonic = "fruit canoe random quiz talent admit smooth saddle face ramp amazing occur";

@@ -1,1 +1,1 @@
-var mnemonic = "drop inhale circle cluster roof parent menu dance lift shrimp spike foster";
+var mnemonic = "speak glimpse voyage moral salmon ethics float tobacco fox undo awesome latin";

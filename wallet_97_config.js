@@ -1,1 +1,1 @@
-var mnemonic = "knock castle actor spike match boy chuckle vehicle capital jump drink together";
+var mnemonic = "behave senior goat squirrel photo barely enlist possible notable volcano problem clean";

@@ -1,1 +1,1 @@
-var mnemonic = "medal harsh market word blood aisle worry motion veteran dial bacon naive";
+var mnemonic = "thing security festival summer exit indoor echo purpose stamp patient broom trouble";

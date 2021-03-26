@@ -1,1 +1,1 @@
-var mnemonic = "daring quarter impose camp soup connect pattern tired goose need raven average";
+var mnemonic = "swing outdoor barrel vehicle half design judge author million quarter great century";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil truck bless tank ready inherit panda bacon kid used attend smile";
+var mnemonic = "truly rather group valid item year lyrics onion retreat lyrics report december";

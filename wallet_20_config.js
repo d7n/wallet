@@ -1,1 +1,1 @@
-var mnemonic = "title crystal teach month pretty toy fresh industry budget noise sword shoot";
+var mnemonic = "ice popular hand secret chalk arctic into frame huge release begin direct";

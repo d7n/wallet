@@ -1,1 +1,1 @@
-var mnemonic = "buyer cause session core dolphin subway giraffe runway lunch risk marine admit";
+var mnemonic = "receive school quote merge sorry grace cactus umbrella adult phrase error soup";

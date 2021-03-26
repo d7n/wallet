@@ -1,1 +1,1 @@
-var mnemonic = "fly noise include pill diamond vicious budget save security arena leader fade";
+var mnemonic = "stamp tube process actor woman true again castle hamster describe term equal";

@@ -1,1 +1,1 @@
-var mnemonic = "behind file card swing daring hedgehog crisp provide bargain advance enroll blame";
+var mnemonic = "tide please nose wife easy connect glory spike nest scare clever alpha";

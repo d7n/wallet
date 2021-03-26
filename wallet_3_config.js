@@ -1,1 +1,1 @@
-var mnemonic = "maple phone resource notice leader update happy prison basic wood butter sand";
+var mnemonic = "beyond lake dilemma vicious thrive immense tomato horse satisfy galaxy magnet lunch";

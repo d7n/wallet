@@ -1,1 +1,1 @@
-var mnemonic = "file chuckle jump shop quarter crash runway draft toast keen screen improve";
+var mnemonic = "october exist crawl horror plate approve tent vote like custom virtual cat";

@@ -1,1 +1,1 @@
-var mnemonic = "miss simple area material reform either sugar immune song side invite dawn";
+var mnemonic = "cable remind agree moral flock laptop federal attend license churn clog across";

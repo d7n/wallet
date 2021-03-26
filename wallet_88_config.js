@@ -1,1 +1,1 @@
-var mnemonic = "pledge post scale ordinary develop paddle hub sheriff stable fog artwork method";
+var mnemonic = "room regular anger sound elevator harsh search arrive patient century symptom file";

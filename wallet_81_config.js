@@ -1,1 +1,1 @@
-var mnemonic = "grief release verb short embark neither electric play gas give forward click";
+var mnemonic = "cheese basket turn outside able winter fragile boil engage predict rocket subway";

@@ -1,1 +1,1 @@
-var mnemonic = "frown general trash victory tooth arrange blush nation grain empower swift elite";
+var mnemonic = "mountain culture object region coral valid caught seat avocado mosquito tomorrow crawl";

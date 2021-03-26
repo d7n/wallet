@@ -1,1 +1,1 @@
-var mnemonic = "cargo raw derive gentle region unique wonder good parade occur number above";
+var mnemonic = "opera marine supply again street pretty jealous project tent exotic tube engine";

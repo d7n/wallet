@@ -1,1 +1,1 @@
-var mnemonic = "bright sword sort rather claim second rude bright ahead security rice pigeon";
+var mnemonic = "ship raise kingdom couch topic foil say appear polar plunge embody refuse";

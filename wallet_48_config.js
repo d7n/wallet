@@ -1,1 +1,1 @@
-var mnemonic = "endless organ want royal viable upset expire shadow situate cinnamon betray snow";
+var mnemonic = "destroy parrot obtain drift invest erupt eyebrow rent pupil belt upon town";

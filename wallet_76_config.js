@@ -1,1 +1,1 @@
-var mnemonic = "helmet any bicycle federal length tape coral tomato song also stool strategy";
+var mnemonic = "invest cash used slot ill frozen royal swallow yellow punch fury body";

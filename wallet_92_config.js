@@ -1,1 +1,1 @@
-var mnemonic = "quick satisfy science lizard vague park push cruel zoo pulp adult april";
+var mnemonic = "tooth angry put honey image window direct spirit inhale call cargo service";

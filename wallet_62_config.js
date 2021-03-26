@@ -1,1 +1,1 @@
-var mnemonic = "divide notable chaos inside social ceiling urban capable van evolve beauty sketch";
+var mnemonic = "belt sunset movie antenna maid car idea point cloth toe believe absent";

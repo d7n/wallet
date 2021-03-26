@@ -1,1 +1,1 @@
-var mnemonic = "umbrella obey betray sheriff home either multiply climb clinic drip stock false";
+var mnemonic = "drink wagon myself bring waste pave size easily tail disagree asthma banana";

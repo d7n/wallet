@@ -1,1 +1,1 @@
-var mnemonic = "theme magic occur yard often mixture lion economy love soon unhappy green";
+var mnemonic = "squirrel faith minor spirit corn cancel jealous drive exist honey erode stuff";

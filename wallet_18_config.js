@@ -1,1 +1,1 @@
-var mnemonic = "degree virus orphan banana angry mom pig romance tuna twice glad carbon";
+var mnemonic = "symbol brisk dial price cost cause dose rebel travel arch knock burden";

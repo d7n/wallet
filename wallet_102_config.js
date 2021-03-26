@@ -1,1 +1,1 @@
-var mnemonic = "submit wheel gate syrup target trick donkey evil spell glove situate verify";
+var mnemonic = "group number tape naive small town prosper private goose jealous chalk wife";

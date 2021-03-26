@@ -1,1 +1,1 @@
-var mnemonic = "luggage theory matter party hunt absurd session become tent verb model toilet";
+var mnemonic = "three federal devote kick sure leopard plastic expose casino claw this canal";

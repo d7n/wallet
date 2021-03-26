@@ -1,1 +1,1 @@
-var mnemonic = "color brass desert slender champion document local smile oblige hood credit own";
+var mnemonic = "woman cube unfold verify coconut excuse defy black mutual crucial exclude kidney";

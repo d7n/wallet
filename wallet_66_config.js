@@ -1,1 +1,1 @@
-var mnemonic = "junior grocery result attack chief area neck dream purity cement advice very";
+var mnemonic = "future siege vivid snap sense awful upon wreck blue poverty upset chair";

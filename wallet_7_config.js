@@ -1,1 +1,1 @@
-var mnemonic = "usage trick wait social possible kiwi life view abandon humble smile lobster";
+var mnemonic = "sail there action together bird enact uniform harbor kingdom stumble slice hub";

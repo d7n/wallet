@@ -1,1 +1,1 @@
-var mnemonic = "boring picnic stove desk type child hawk borrow mention cream another stumble";
+var mnemonic = "coffee gauge travel original security motor ball sock carpet until garden beauty";

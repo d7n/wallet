@@ -1,1 +1,1 @@
-var mnemonic = "angle afraid enjoy crazy exit rule obscure silk route gain speak game";
+var mnemonic = "payment shadow tribe glue abuse top spot wish squeeze genuine sample april";

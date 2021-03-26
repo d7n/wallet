@@ -1,1 +1,1 @@
-var mnemonic = "erode tip song area mixed income senior witness once empower pride idea";
+var mnemonic = "include loop roast wish task cloth lab boost meadow exercise word slender";

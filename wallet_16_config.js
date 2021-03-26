@@ -1,1 +1,1 @@
-var mnemonic = "animal link want brown syrup endless expect acquire firm clump member flower";
+var mnemonic = "grace blame decorate purity antenna maze motor quality penalty enlist clap lobster";

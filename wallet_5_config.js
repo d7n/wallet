@@ -1,1 +1,1 @@
-var mnemonic = "risk doll steak avocado begin ensure primary wedding rival disagree win world";
+var mnemonic = "crack yard citizen innocent runway torch slot present police novel dream narrow";

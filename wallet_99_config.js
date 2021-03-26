@@ -1,1 +1,1 @@
-var mnemonic = "popular science asthma range typical notice engage pull swamp outdoor average oyster";
+var mnemonic = "hospital vanish gold various hockey boat author kid believe motor exact trap";

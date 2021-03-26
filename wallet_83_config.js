@@ -1,1 +1,1 @@
-var mnemonic = "garbage sunset live move there unit disease drift skull chase edge spoon";
+var mnemonic = "cook lake victory warm what remain where denial clump salute junk math";

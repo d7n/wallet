@@ -1,1 +1,1 @@
-var mnemonic = "route language youth fix zoo need coral keen valve shoot razor pretty";
+var mnemonic = "nice balcony mesh surface release mule weasel ridge collect grief mansion shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "extra cliff market olive give erase obscure payment blame pig repeat ride";
+var mnemonic = "now cause current wide solution midnight connect fire rebel raise before adult";

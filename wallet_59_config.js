@@ -1,1 +1,1 @@
-var mnemonic = "much meat color alcohol scout cute time huge badge couch dinner claw";
+var mnemonic = "debris weapon window violin sponsor aim differ ribbon decide govern nothing pave";

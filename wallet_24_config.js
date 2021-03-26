@@ -1,1 +1,1 @@
-var mnemonic = "floor credit shed term tray dream weekend punch express over flock genuine";
+var mnemonic = "army script monster novel borrow priority dance exotic rookie tube exchange laundry";

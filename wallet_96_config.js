@@ -1,1 +1,1 @@
-var mnemonic = "wet panda imitate unveil share frame parent question save fan foster rocket";
+var mnemonic = "shy gesture admit same net cheese wheel number aerobic frozen argue inject";

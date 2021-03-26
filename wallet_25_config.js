@@ -1,1 +1,1 @@
-var mnemonic = "elder horse skin program weekend photo crisp bracket connect limb retreat process";
+var mnemonic = "practice roof produce reopen produce march taste limb battle hungry caution balance";

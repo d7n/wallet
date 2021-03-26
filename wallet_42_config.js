@@ -1,1 +1,1 @@
-var mnemonic = "upper pupil master rich sell trick sort noodle asthma correct gas spice";
+var mnemonic = "echo cereal vague balcony cover steak method globe fan leave swim mutual";

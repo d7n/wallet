@@ -1,1 +1,1 @@
-var mnemonic = "goose good decade confirm raw give soap jewel satisfy away search creek";
+var mnemonic = "fold increase village better island reveal first skirt walnut damp disease talent";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt label total grit cloth bacon punch sweet talk basket faith focus";
+var mnemonic = "hollow siren race tomorrow field grief false arrow regular guilt hidden cook";

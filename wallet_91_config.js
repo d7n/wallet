@@ -1,1 +1,1 @@
-var mnemonic = "loan decrease quality piece woman hunt bind tube piano stairs abstract update";
+var mnemonic = "gift brush pair toddler zebra effort fine problem brush rug mind unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi toilet feature mansion snow fly enrich history waste kangaroo because average";
+var mnemonic = "trick street hair legal edit payment foster nothing brand minute cruise room";

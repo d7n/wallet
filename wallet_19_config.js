@@ -1,1 +1,1 @@
-var mnemonic = "need yellow lawsuit track eternal income fault grace earth ecology search enough";
+var mnemonic = "screen educate depend picnic ask grape strong develop chunk govern dignity man";

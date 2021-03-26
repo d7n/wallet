@@ -1,1 +1,1 @@
-var mnemonic = "office stove door gallery place smoke position head twist spare connect earn";
+var mnemonic = "link network east private noise anxiety interest rent voyage glimpse dilemma symbol";

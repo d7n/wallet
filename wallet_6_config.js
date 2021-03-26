@@ -1,1 +1,1 @@
-var mnemonic = "hand shiver knee prefer behave album maze unit file cloud stove know";
+var mnemonic = "buffalo giant toilet mule animal flash stand raven cloth option keen enforce";

@@ -1,1 +1,1 @@
-var mnemonic = "where promote exact movie churn prepare march fluid limb vessel donkey chase";
+var mnemonic = "proud picture dentist dash pulse eager dinosaur machine champion much original glide";

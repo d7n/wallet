@@ -1,1 +1,1 @@
-var mnemonic = "roof faith flame female parade grit limb flip sound history avocado section";
+var mnemonic = "brand cat blossom lion indicate shoe future swap hurdle share tackle vintage";

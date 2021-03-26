@@ -1,1 +1,1 @@
-var mnemonic = "bench garbage task surface nurse pencil base world illegal bonus angry minor";
+var mnemonic = "letter jacket half thing spin best creek forum grape junior chicken idle";

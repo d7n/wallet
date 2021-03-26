@@ -1,1 +1,1 @@
-var mnemonic = "idle delay marine sorry genuine ginger skull actual police immense tooth engine";
+var mnemonic = "stable employ fold annual note sibling banner artwork imitate blade little allow";

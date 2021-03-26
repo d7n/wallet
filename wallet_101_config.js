@@ -1,1 +1,1 @@
-var mnemonic = "beyond smooth keep all fault square sponsor leg rare tree quit vast";
+var mnemonic = "shock swear can safe shuffle wisdom dose unhappy evoke measure describe sting";

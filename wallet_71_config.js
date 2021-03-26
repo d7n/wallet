@@ -1,1 +1,1 @@
-var mnemonic = "planet legal slice sea issue marble rebel under brown street ecology holiday";
+var mnemonic = "unlock cool resist follow delay vacuum enough outside spawn vast east circle";

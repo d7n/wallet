@@ -1,1 +1,1 @@
-var mnemonic = "mushroom hard baby good connect guess quality tool impact december split ridge";
+var mnemonic = "merry image outdoor muscle alley manual kind print nation gloom holiday swamp";

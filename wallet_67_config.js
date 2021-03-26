@@ -1,1 +1,1 @@
-var mnemonic = "sock spread rifle draw rough quality uniform minute sting jeans among tray";
+var mnemonic = "squeeze craft fruit mansion void original bachelor best strong power exchange say";

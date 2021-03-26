@@ -1,1 +1,1 @@
-var mnemonic = "entire reflect own world broken pilot view unlock claim pretty morning pass";
+var mnemonic = "pelican fetch arena math load stove bronze blossom degree tent put lock";

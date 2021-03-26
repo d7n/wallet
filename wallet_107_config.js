@@ -1,1 +1,1 @@
-var mnemonic = "surface hill night sweet lock maid ritual pluck have aim wink enlist";
+var mnemonic = "recall swear blur decline stable noise can mesh spider card discover angry";

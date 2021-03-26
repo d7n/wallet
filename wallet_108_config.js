@@ -1,1 +1,1 @@
-var mnemonic = "village ridge amount ski start seat artist minute possible beach measure fiscal";
+var mnemonic = "method box throw render speak story boring plunge maximum dream nurse donor";

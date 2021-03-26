@@ -1,1 +1,1 @@
-var mnemonic = "front embrace cream loop when sample lava moment title clay glimpse belt";
+var mnemonic = "habit typical other bike crisp model sword corn disagree spell episode boat";

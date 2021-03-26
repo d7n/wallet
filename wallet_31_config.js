@@ -1,1 +1,1 @@
-var mnemonic = "hurry hollow polar wage master surge panther chair vintage virtual taxi brass";
+var mnemonic = "moon delay divert license arrange pilot piece goat inform clown reduce round";

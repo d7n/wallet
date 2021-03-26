@@ -1,1 +1,1 @@
-var mnemonic = "current fan type young poet useless adult service account key media cube";
+var mnemonic = "winner mom inflict grow proof asset term skirt another window flip slam";

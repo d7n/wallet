@@ -1,1 +1,1 @@
-var mnemonic = "demand wet present thunder strike vehicle replace over spot arrive width impose";
+var mnemonic = "faith unusual survey history topic profit car vibrant credit base obtain relief";

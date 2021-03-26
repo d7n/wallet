@@ -1,1 +1,1 @@
-var mnemonic = "service finger climb joke rib shrug wish ask tip owner bachelor garment";
+var mnemonic = "cupboard chunk host device post vocal raw powder hospital return unusual toward";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat feel right adjust club state pencil soap scale antique fan awake";
+var mnemonic = "apple banner lawn between picnic alpha grief chimney where eager win trade";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle rural fee home allow patrol hope wasp surface distance canal pencil";
+var mnemonic = "over stand consider plunge scan orchard few soup arrest end plug install";

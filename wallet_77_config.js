@@ -1,1 +1,1 @@
-var mnemonic = "track verb buffalo wide flame fence inject venture ketchup bacon dash inmate";
+var mnemonic = "garage casual exist fiber humble weekend recall legend smart coconut slide finger";

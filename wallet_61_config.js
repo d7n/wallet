@@ -1,1 +1,1 @@
-var mnemonic = "believe genuine cloth gauge panther dream effort stuff cry tourist price random";
+var mnemonic = "defy settle major exist parrot crunch impose dial material worry abuse witness";

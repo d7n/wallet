@@ -1,1 +1,1 @@
-var mnemonic = "bitter fever kitten decade nephew march enforce still flush tackle patch since";
+var mnemonic = "gun among vintage flight believe olive liar winter eyebrow story air stool";

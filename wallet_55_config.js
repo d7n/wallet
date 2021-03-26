@@ -1,1 +1,1 @@
-var mnemonic = "endless trap large insect beach click analyst usual student rhythm inquiry merge";
+var mnemonic = "velvet situate refuse try ice yellow dumb light faith yard combine twenty";

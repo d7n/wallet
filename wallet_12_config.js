@@ -1,1 +1,1 @@
-var mnemonic = "pulse grain slow together uphold deposit slide waste aware husband girl wrong";
+var mnemonic = "couple still glue client skirt sun address distance rule upset cliff dial";

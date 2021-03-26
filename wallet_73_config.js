@@ -1,1 +1,1 @@
-var mnemonic = "clap mystery glad cupboard palace assume salad emerge night fee remember increase";
+var mnemonic = "auction sight angle spend gun option museum accident below rocket torch canvas";

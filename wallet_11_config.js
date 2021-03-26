@@ -1,1 +1,1 @@
-var mnemonic = "oven bargain raw mask spatial hundred flip bottom today dynamic bulk room";
+var mnemonic = "test vacuum nice blood brother jump nuclear rely vanish inside stem clarify";
