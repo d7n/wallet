@@ -1,1 +1,1 @@
-var mnemonic = "tongue bronze skill coil leave garden theme liar need cash globe trumpet";
+var mnemonic = "myth barrel occur win web hover decorate salon tuition leader athlete reject";

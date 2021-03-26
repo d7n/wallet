@@ -1,1 +1,1 @@
-var mnemonic = "pen stock film way wagon blush tent deer buyer learn love swamp";
+var mnemonic = "group talk wedding light skill soon visa century embrace inhale myself gallery";

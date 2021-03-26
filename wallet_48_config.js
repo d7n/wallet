@@ -1,1 +1,1 @@
-var mnemonic = "glance delay gospel welcome space sauce supreme borrow drive prosper awful into";
+var mnemonic = "trouble bleak system wage before random choice world rally crystal high mirror";

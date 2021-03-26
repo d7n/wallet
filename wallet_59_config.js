@@ -1,1 +1,1 @@
-var mnemonic = "sample cruise beef base push area target vessel pond swarm code common";
+var mnemonic = "dinner pause pilot boost dress enlist symptom empty bulb gun mansion luxury";

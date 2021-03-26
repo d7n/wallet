@@ -1,1 +1,1 @@
-var mnemonic = "course silent fitness frown injury ozone wagon proud sand script grain end";
+var mnemonic = "kidney volcano obvious feed hire online rather advice nurse leg choose antenna";

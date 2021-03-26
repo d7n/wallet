@@ -1,1 +1,1 @@
-var mnemonic = "believe upon medal dignity joy baby column engine broccoli reject deliver local";
+var mnemonic = "nose boss clog bulk impulse clock concert amateur primary vote add ride";

@@ -1,1 +1,1 @@
-var mnemonic = "round radar job size helmet fiscal tuition arctic clever ensure crucial shoulder";
+var mnemonic = "anger entry shoulder acoustic snow fire bullet visa drastic escape domain bean";

@@ -1,1 +1,1 @@
-var mnemonic = "ship now poem snap absent cliff family attack summer return cliff trash";
+var mnemonic = "weekend maze seek clutch miracle bring system agent inform faith aim small";

@@ -1,1 +1,1 @@
-var mnemonic = "celery despair tobacco similar flip link expose drive enjoy gift hobby daring";
+var mnemonic = "length theory toss diamond file pipe female clump devote salon valley general";

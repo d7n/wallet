@@ -1,1 +1,1 @@
-var mnemonic = "dentist maze sun disagree decade note embody audit print easy theory live";
+var mnemonic = "rally crouch swim bounce artwork soon frog copper adjust spray appear river";

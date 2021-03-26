@@ -1,1 +1,1 @@
-var mnemonic = "situate style throw face wolf swamp donkey hair atom hurdle frozen until";
+var mnemonic = "bright taxi coyote cry bubble assume trouble easily quality either drift useless";

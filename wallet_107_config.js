@@ -1,1 +1,1 @@
-var mnemonic = "pupil midnight evidence dance thrive team oval rough agent urge come crowd";
+var mnemonic = "right weekend wife web elevator attend sport buyer grocery nerve strategy midnight";

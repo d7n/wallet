@@ -1,1 +1,1 @@
-var mnemonic = "abstract notable library bird impose west keep wide angry noise jealous earth";
+var mnemonic = "round wasp shadow bamboo body chair arch already potato edge eye valid";

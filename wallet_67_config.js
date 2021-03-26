@@ -1,1 +1,1 @@
-var mnemonic = "slice oven decline lift silver blanket luxury door ripple jeans demand shift";
+var mnemonic = "learn citizen devote boss federal concert offer blur letter heart arm below";

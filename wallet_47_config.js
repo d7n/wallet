@@ -1,1 +1,1 @@
-var mnemonic = "glide air oak hawk employ guess erosion tumble amused mule drastic ginger";
+var mnemonic = "soccer nature dawn hazard nephew please force repair tent all novel maximum";

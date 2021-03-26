@@ -1,1 +1,1 @@
-var mnemonic = "reduce dance old food fence enemy motor liquid figure rival bag habit";
+var mnemonic = "advice know organ assist gaze rocket child subject fix silver wheat dish";

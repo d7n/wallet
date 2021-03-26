@@ -1,1 +1,1 @@
-var mnemonic = "ethics release machine chicken three civil thank number member retreat aware tide";
+var mnemonic = "speak bachelor wolf trophy mix drip nerve crane company argue female wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "answer argue online clown ugly tourist pave myself eyebrow harbor blade mechanic";
+var mnemonic = "online keep ahead multiply alter bar fabric expose rent during poem wing";

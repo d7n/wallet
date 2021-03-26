@@ -1,1 +1,1 @@
-var mnemonic = "sunny flee flag artist bone quality betray perfect vote ready holiday oyster";
+var mnemonic = "rebel update lawsuit junior work black cake melody check book issue birth";

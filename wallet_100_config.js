@@ -1,1 +1,1 @@
-var mnemonic = "smoke message copper filter gesture already yellow proud alcohol silk pave sustain";
+var mnemonic = "property surround crisp hotel blind vapor stool inhale beach lottery attract spray";

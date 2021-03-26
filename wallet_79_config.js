@@ -1,1 +1,1 @@
-var mnemonic = "crumble simple grunt long learn donkey bread country total initial water snack";
+var mnemonic = "have quick rural more shoot long want monitor mushroom parrot uphold jungle";

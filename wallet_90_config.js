@@ -1,1 +1,1 @@
-var mnemonic = "amateur object jaguar fame cube animal fashion fetch menu vote party body";
+var mnemonic = "peanut bone venture estate brief nation wealth guess stone action exile sheriff";

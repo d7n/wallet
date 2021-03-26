@@ -1,1 +1,1 @@
-var mnemonic = "february sun scissors aerobic act tenant couple enable castle gossip drive region";
+var mnemonic = "infant chalk express twice hurt broom spot air bomb arrange artist always";

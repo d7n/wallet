@@ -1,1 +1,1 @@
-var mnemonic = "muffin diesel salt large double few viable ski ethics unlock illegal lens";
+var mnemonic = "addict unique lazy laundry cactus target deputy verb purchase steel alert vintage";

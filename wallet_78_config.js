@@ -1,1 +1,1 @@
-var mnemonic = "property equal magic loop shadow poet glide toss deer other response scissors";
+var mnemonic = "goat practice eight only witness skill surprise stadium renew tiny obscure issue";

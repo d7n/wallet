@@ -1,1 +1,1 @@
-var mnemonic = "envelope blast know more concert stone erode citizen device border object stove";
+var mnemonic = "flash firm build abstract used blood future mutual render cushion kite lazy";

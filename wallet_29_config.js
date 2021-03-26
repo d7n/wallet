@@ -1,1 +1,1 @@
-var mnemonic = "vivid always dress grace weasel laptop good bench common suffer depend cinnamon";
+var mnemonic = "style skin delay boring echo antenna will social blame town cabbage expand";

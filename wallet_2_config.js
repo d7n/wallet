@@ -1,1 +1,1 @@
-var mnemonic = "logic error cream truly arrow nephew mule ignore nut absurd trend subway";
+var mnemonic = "endorse remember smoke furnace state swim door door lucky wet naive prepare";

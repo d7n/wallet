@@ -1,1 +1,1 @@
-var mnemonic = "lazy jump junk citizen disorder glove lawn wink claw rhythm fox fan";
+var mnemonic = "paddle current trick embrace timber soon school practice often tilt gallery fashion";

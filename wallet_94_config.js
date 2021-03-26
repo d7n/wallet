@@ -1,1 +1,1 @@
-var mnemonic = "nuclear squirrel mango roast relief champion crater industry parrot destroy illegal faint";
+var mnemonic = "accuse furnace flower napkin system mansion mushroom fork stumble despair act ginger";

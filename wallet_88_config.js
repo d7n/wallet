@@ -1,1 +1,1 @@
-var mnemonic = "firm topple decline obvious eyebrow earth select suggest busy theory because once";
+var mnemonic = "carbon mosquito there logic fantasy hub depend above scout ostrich square silk";

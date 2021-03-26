@@ -1,1 +1,1 @@
-var mnemonic = "car such science crew wrap miracle penalty glare little order pencil debris";
+var mnemonic = "gospel maid tag vanish sing horse peanut top device lawn opinion script";

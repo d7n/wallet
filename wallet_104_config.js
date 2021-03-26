@@ -1,1 +1,1 @@
-var mnemonic = "price salute tornado cherry picnic deposit below soda predict thank inquiry absorb";
+var mnemonic = "camp banana obey april vessel little valley ten guess brush high local";

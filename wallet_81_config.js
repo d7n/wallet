@@ -1,1 +1,1 @@
-var mnemonic = "fitness page ship machine sea scene upset elbow balcony depart screen nephew";
+var mnemonic = "harvest rice tattoo all wrist embark venture crane what involve midnight ghost";

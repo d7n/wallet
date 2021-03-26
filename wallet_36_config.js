@@ -1,1 +1,1 @@
-var mnemonic = "imitate page web need fish dog vendor student tobacco cloud dutch rich";
+var mnemonic = "general december year piece supreme ice version sentence guess group fitness shy";

@@ -1,1 +1,1 @@
-var mnemonic = "draw winter annual stable husband crawl nasty report wash sniff fog snack";
+var mnemonic = "broken price wild group patch sphere popular gain bird message pink miss";

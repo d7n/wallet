@@ -1,1 +1,1 @@
-var mnemonic = "sausage ship recipe file endless path castle moon behind dirt wool unfold";
+var mnemonic = "job bicycle narrow script bacon random position giggle abandon must beef multiply";

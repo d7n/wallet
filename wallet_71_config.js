@@ -1,1 +1,1 @@
-var mnemonic = "deputy bleak axis charge surface feature used scheme ahead possible palm inject";
+var mnemonic = "electric sad exercise also tooth frame service fat proof meadow tortoise ride";

@@ -1,1 +1,1 @@
-var mnemonic = "modify buyer caught ghost riot unveil error grant emerge unaware treat weapon";
+var mnemonic = "climb chat cinnamon cricket opera arrow wink coach guess oil truly topple";

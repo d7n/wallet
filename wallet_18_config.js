@@ -1,1 +1,1 @@
-var mnemonic = "amused eternal attitude theme boat screen demand develop shallow claw mango pulse";
+var mnemonic = "broken like latin gown citizen vacuum erupt image leaf auto story black";

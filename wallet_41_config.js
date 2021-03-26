@@ -1,1 +1,1 @@
-var mnemonic = "ginger miss gun lawn veteran praise accident hold shift depth buyer depend";
+var mnemonic = "bulk chase inherit behave explain payment cross pet infant junk ritual mutual";

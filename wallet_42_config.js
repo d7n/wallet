@@ -1,1 +1,1 @@
-var mnemonic = "stool excess regular phrase vendor relax inherit adapt chest argue depth absent";
+var mnemonic = "edge flip order unusual belt crisp wisdom train zone doll decrease another";

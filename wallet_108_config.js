@@ -1,1 +1,1 @@
-var mnemonic = "odor between next such eight execute jewel fortune harvest mobile man unfold";
+var mnemonic = "forward stool drill dragon alarm patch leave permit hip junior hill process";

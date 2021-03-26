@@ -1,1 +1,1 @@
-var mnemonic = "pink misery resource ice term news naive put huge only nice indicate";
+var mnemonic = "develop album seven sure royal length know lucky desk weasel weather once";

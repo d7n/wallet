@@ -1,1 +1,1 @@
-var mnemonic = "alarm used eye insect notable volume lobster exotic glimpse garbage spoon ethics";
+var mnemonic = "fortune false carpet rule blame lab term satisfy top air lottery outer";

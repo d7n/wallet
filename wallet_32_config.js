@@ -1,1 +1,1 @@
-var mnemonic = "put supply say cash bag dog dutch pumpkin list decline turtle release";
+var mnemonic = "time split viable limb narrow cry future mom lend kit dinosaur gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "foil eye cat piano invite sign grape debris cream bottom tooth chat";
+var mnemonic = "cancel recall hen omit sting asset fashion mean trash horse earth happy";

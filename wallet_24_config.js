@@ -1,1 +1,1 @@
-var mnemonic = "chaos doctor cook denial bonus awkward have analyst teach second alcohol vague";
+var mnemonic = "tone master half amateur mistake involve canal episode chair vendor treat step";

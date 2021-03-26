@@ -1,1 +1,1 @@
-var mnemonic = "antique tray unfair income list safe pave enable taxi nerve situate fresh";
+var mnemonic = "purpose bunker seminar ribbon biology sail mixed announce vote pyramid measure still";

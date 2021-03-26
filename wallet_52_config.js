@@ -1,1 +1,1 @@
-var mnemonic = "match above afford depth medal oblige fault order scissors trial sample van";
+var mnemonic = "laugh body gauge scare gravity recipe woman asset south half once athlete";

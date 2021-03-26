@@ -1,1 +1,1 @@
-var mnemonic = "deer stomach eight blood iron alpha history sail observe exchange damage item";
+var mnemonic = "old night room crane patch loan scout subway cry peasant scare question";

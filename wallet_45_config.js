@@ -1,1 +1,1 @@
-var mnemonic = "return force tape cradle private artefact kingdom record enrich lens such mobile";
+var mnemonic = "such sunny roast border cruel permit flee other filter question couch dolphin";

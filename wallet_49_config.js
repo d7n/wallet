@@ -1,1 +1,1 @@
-var mnemonic = "submit top test copper blood believe total pause orbit okay beach snack";
+var mnemonic = "potato zebra recycle route hollow where trouble grace claw hurt mosquito come";

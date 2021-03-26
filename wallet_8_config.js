@@ -1,1 +1,1 @@
-var mnemonic = "charge sunny coffee merit math document hero simple replace team rare october";
+var mnemonic = "leopard come wrist wheel ask leaf make habit slam captain file galaxy";

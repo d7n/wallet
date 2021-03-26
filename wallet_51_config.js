@@ -1,1 +1,1 @@
-var mnemonic = "frog budget enroll soon size unveil search arrive correct vehicle major junior";
+var mnemonic = "surround wagon sport volume leave twist used eager sight circle once loud";

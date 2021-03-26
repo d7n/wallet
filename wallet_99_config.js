@@ -1,1 +1,1 @@
-var mnemonic = "horror join urban feature volume this raw dog oblige rhythm burden loyal";
+var mnemonic = "picnic rail crop capital latin credit evolve sure gym wet position oil";

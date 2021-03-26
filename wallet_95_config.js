@@ -1,1 +1,1 @@
-var mnemonic = "gloom settle cry chicken tunnel dutch eight layer wait mesh seven across";
+var mnemonic = "math suit topple pitch clown undo parent song candy rely hurdle snow";

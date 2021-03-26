@@ -1,1 +1,1 @@
-var mnemonic = "swallow educate worth frost toss close spatial area fork program illegal deposit";
+var mnemonic = "chase material ghost pitch parent lottery olympic cool salmon eternal chat enlist";

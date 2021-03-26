@@ -1,1 +1,1 @@
-var mnemonic = "what journey bronze orchard liar card gloom mercy home coast tomato police";
+var mnemonic = "blur surface ship shadow beef mango dish vault kitchen boil meadow family";

@@ -1,1 +1,1 @@
-var mnemonic = "victory boost engine master cage fiction subject radar arctic essay mushroom violin";
+var mnemonic = "vivid choice weather number valley gospel album lizard process start ahead answer";

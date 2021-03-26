@@ -1,1 +1,1 @@
-var mnemonic = "core eagle welcome over taste math merge regret unusual insect dial ranch";
+var mnemonic = "wagon illness evoke sample claim square luxury balance iron doll machine federal";

@@ -1,1 +1,1 @@
-var mnemonic = "flee coffee super lobster present hip claw feel gift genius sea cover";
+var mnemonic = "unit verify retire adjust slim guitar blue once link volume recycle ritual";

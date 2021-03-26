@@ -1,1 +1,1 @@
-var mnemonic = "plunge lady gadget gain tissue plate liar allow insect supply dutch couple";
+var mnemonic = "confirm property found inform wine few argue immense turn below drama deny";

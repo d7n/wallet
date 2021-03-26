@@ -1,1 +1,1 @@
-var mnemonic = "miracle dress ready salad release bacon people stomach student hire ocean vacuum";
+var mnemonic = "month orient iron fancy donor news subject vast tribe useless buddy erase";

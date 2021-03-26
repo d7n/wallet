@@ -1,1 +1,1 @@
-var mnemonic = "birth unknown relax bounce wealth monster gas state cycle price update error";
+var mnemonic = "diagram image slim uncle drama mixture enable scale stem draft ancient cute";

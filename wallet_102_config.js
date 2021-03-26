@@ -1,1 +1,1 @@
-var mnemonic = "ripple sick sleep prosper melt ankle creek donkey humor phrase poet phrase";
+var mnemonic = "increase retreat maximum innocent polar become night impulse supply merit picture tiny";

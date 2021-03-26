@@ -1,1 +1,1 @@
-var mnemonic = "vital become panel enough december state seven accident butter snap purse spray";
+var mnemonic = "jewel fantasy catch topple boat cash isolate round galaxy rebuild park casual";

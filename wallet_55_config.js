@@ -1,1 +1,1 @@
-var mnemonic = "viable upgrade return profit van aerobic scissors actor genuine story tunnel auction";
+var mnemonic = "detail broom spider trade saddle inspire hold tuna car bargain friend dice";

@@ -1,1 +1,1 @@
-var mnemonic = "start giggle inspire segment burger current people frog verify kangaroo coyote hand";
+var mnemonic = "exhaust jump fine square outdoor injury wrestle nothing differ coil pottery bean";

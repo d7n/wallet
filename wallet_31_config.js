@@ -1,1 +1,1 @@
-var mnemonic = "label comfort diesel until asthma nothing erosion insect lunch picnic chuckle pear";
+var mnemonic = "silver suit keen tooth gaze prosper wheel pony limit tired chronic ripple";

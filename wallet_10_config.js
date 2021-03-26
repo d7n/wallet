@@ -1,1 +1,1 @@
-var mnemonic = "ginger grunt trust mistake luxury transfer jungle bulb obey evoke thunder crucial";
+var mnemonic = "kiwi noble walk security permit grief stomach express shuffle law critic only";

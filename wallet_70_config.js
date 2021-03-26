@@ -1,1 +1,1 @@
-var mnemonic = "now husband future life liquid wear credit offer universe flush father venue";
+var mnemonic = "angry isolate crumble crack shrug length venue glad foil minor smart mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "juice current blur cry angry hire clay define seminar core police buffalo";
+var mnemonic = "tone assist work tip lecture worry dish view various power inmate frog";

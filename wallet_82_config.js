@@ -1,1 +1,1 @@
-var mnemonic = "volume mosquito defense image slush people spread pink ankle rice common limb";
+var mnemonic = "hollow denial photo velvet bird frequent mail damage eight slam skirt speed";

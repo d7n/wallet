@@ -1,1 +1,1 @@
-var mnemonic = "inner thing flight forest buyer ocean please pilot safe announce uniform village";
+var mnemonic = "raw clean fence pistol practice crime alpha there apology lend timber invite";

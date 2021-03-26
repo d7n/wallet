@@ -1,1 +1,1 @@
-var mnemonic = "parade sure front predict switch obey brown resemble address winner simple test";
+var mnemonic = "crane galaxy charge hybrid wasp author common couch place shield injury butter";

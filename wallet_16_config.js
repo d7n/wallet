@@ -1,1 +1,1 @@
-var mnemonic = "sudden cream display cupboard miss food mandate call flash rose exchange guide";
+var mnemonic = "fragile pattern staff sting connect crunch adjust easily verify online hammer sport";

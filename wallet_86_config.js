@@ -1,1 +1,1 @@
-var mnemonic = "east various capital cycle eternal imitate general crane yard leader tired armor";
+var mnemonic = "pulse vanish power cheese almost capable ripple sibling acid mammal eager onion";

@@ -1,1 +1,1 @@
-var mnemonic = "high peace depend review moral elevator pride obscure sponsor worth chair retreat";
+var mnemonic = "shallow that insane sphere nature april page canyon omit narrow warrior nice";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella antenna measure inhale hint hurt ticket vibrant table artwork join reward";
+var mnemonic = "iron sell destroy over ability code lend record never wedding breeze buffalo";

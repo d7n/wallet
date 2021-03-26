@@ -1,1 +1,1 @@
-var mnemonic = "stick switch oppose stereo steak fruit vapor pen destroy parent document eye";
+var mnemonic = "swap crowd receive box logic input illegal measure slow patrol rose icon";

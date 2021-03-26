@@ -1,1 +1,1 @@
-var mnemonic = "turtle swap rude cattle cake success review lecture penalty arrest seed unaware";
+var mnemonic = "angry report wing toy icon capital rule confirm local rebuild online expand";

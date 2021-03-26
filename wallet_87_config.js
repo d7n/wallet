@@ -1,1 +1,1 @@
-var mnemonic = "weekend deny super bacon evidence rubber depart tiny client waste desk sing";
+var mnemonic = "luggage picnic erode pistol budget spot inner exit ice unit fat forget";

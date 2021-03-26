@@ -1,1 +1,1 @@
-var mnemonic = "educate hope silent solid surround found hint teach clump escape voyage cliff";
+var mnemonic = "cupboard member metal actress shoot truly embody local alert guitar arena carbon";

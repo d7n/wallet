@@ -1,1 +1,1 @@
-var mnemonic = "wreck run minimum lens supply metal correct mention cliff around outdoor buzz";
+var mnemonic = "angry flash surface across unlock test potato razor raw three rotate valve";

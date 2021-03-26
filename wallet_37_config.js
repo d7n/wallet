@@ -1,1 +1,1 @@
-var mnemonic = "child dose lock duty pear own lottery feel view point vague magic";
+var mnemonic = "burst crack inquiry remain convince confirm alcohol family move coil announce fiscal";

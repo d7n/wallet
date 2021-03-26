@@ -1,1 +1,1 @@
-var mnemonic = "collect kit shuffle fat faculty forget rotate option evolve must wire adapt";
+var mnemonic = "gaze donate twin attend index outside cereal maze follow cargo stumble ethics";

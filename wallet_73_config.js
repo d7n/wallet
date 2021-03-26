@@ -1,1 +1,1 @@
-var mnemonic = "try custom battle shop orchard pass receive mango acid witness pottery truck";
+var mnemonic = "modify alley lab buffalo once rib addict also friend card maze surround";

@@ -1,1 +1,1 @@
-var mnemonic = "frost access wait above tennis wool next must object marine input panda";
+var mnemonic = "sight catalog deputy frequent local grow satoshi vehicle apple boat squeeze unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs category army maze butter police glove permit phone slab animal victory";
+var mnemonic = "stereo inner chaos upgrade chaos puppy elite close yellow hair island evil";
