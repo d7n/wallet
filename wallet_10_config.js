@@ -1,1 +1,1 @@
-var mnemonic = "insect actress memory equip noble foot present hello public coral during drum";
+var mnemonic = "echo disagree orient major virus illness program pair confirm exhibit lemon add";

@@ -1,1 +1,1 @@
-var mnemonic = "tennis hover teach fee animal sort current decade history dolphin manage banana";
+var mnemonic = "dream mosquito body glide hen include trust episode faint summer suit bread";

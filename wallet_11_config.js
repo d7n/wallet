@@ -1,1 +1,1 @@
-var mnemonic = "height random twelve post penalty excess skill donkey screen early nasty hurry";
+var mnemonic = "usage excess october sponsor music impulse gap half future rookie capable yellow";

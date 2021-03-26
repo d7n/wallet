@@ -1,1 +1,1 @@
-var mnemonic = "bacon oil fine wild ceiling surround stumble twist north goose pyramid fog";
+var mnemonic = "sleep oven absent theme better asthma matrix egg pen fly among drink";

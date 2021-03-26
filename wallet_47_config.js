@@ -1,1 +1,1 @@
-var mnemonic = "rifle fork tired illegal surge bacon segment vacuum paper result silent similar";
+var mnemonic = "steel text belt people net stadium observe weekend term blue comfort original";

@@ -1,1 +1,1 @@
-var mnemonic = "copper race grocery rocket above dream admit host razor smoke anger into";
+var mnemonic = "concert fun fresh always across sniff hello swim keen point shell wisdom";

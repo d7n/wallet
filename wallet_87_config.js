@@ -1,1 +1,1 @@
-var mnemonic = "acid naive viable grape violin hat master glide fresh junior avoid grab";
+var mnemonic = "hill muffin scout rack shuffle profit inch amateur brand title half spoil";

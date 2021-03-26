@@ -1,1 +1,1 @@
-var mnemonic = "predict loyal student embark divert bean cluster true transfer wheel arrest cover";
+var mnemonic = "rebuild beauty reopen tobacco eye coast curtain arrow group razor myself target";

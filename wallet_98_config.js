@@ -1,1 +1,1 @@
-var mnemonic = "cream blouse alley sport glide uncle often toast boat mirror spike butter";
+var mnemonic = "one shaft express oppose follow board tobacco stem reward lottery topple beach";

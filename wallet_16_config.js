@@ -1,1 +1,1 @@
-var mnemonic = "material act tonight second sock until sail write fault search episode opera";
+var mnemonic = "reduce ask runway bird plate key expect spring brother marine decorate attend";

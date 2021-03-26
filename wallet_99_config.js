@@ -1,1 +1,1 @@
-var mnemonic = "doctor tragic danger fantasy torch luggage supply same burst drink shed elevator";
+var mnemonic = "feature carry piano brave top glory abstract shove airport poem mutual ball";

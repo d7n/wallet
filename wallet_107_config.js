@@ -1,1 +1,1 @@
-var mnemonic = "country ethics grape version fork note gap dismiss shoulder reward caution horn";
+var mnemonic = "danger peasant desert bag layer soup unaware race bottom betray carpet barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney life action twice what valve flower panther supreme genuine wrist slot";
+var mnemonic = "prize actual soda friend private stumble unable flash sunny cross main core";

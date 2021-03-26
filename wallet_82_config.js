@@ -1,1 +1,1 @@
-var mnemonic = "comic bicycle aerobic door surprise broom web vivid print human axis similar";
+var mnemonic = "about burden deny knee gospel sugar defy gasp advice mask artwork drastic";

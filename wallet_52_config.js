@@ -1,1 +1,1 @@
-var mnemonic = "rally treat joy tennis retreat head knock crawl model cup other price";
+var mnemonic = "dilemma elegant scene exclude bamboo ignore surface buddy rate sniff humor amateur";

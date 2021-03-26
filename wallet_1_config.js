@@ -1,1 +1,1 @@
-var mnemonic = "fantasy jar advance success scissors pretty auto second issue green half milk";
+var mnemonic = "vacant purse globe fever outer oxygen trade gown digital jewel century tree";

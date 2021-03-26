@@ -1,1 +1,1 @@
-var mnemonic = "blush art team april keen across issue good entire plug monster citizen";
+var mnemonic = "cube option admit enact bone follow wonder globe rib clever depth indicate";

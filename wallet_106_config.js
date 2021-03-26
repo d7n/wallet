@@ -1,1 +1,1 @@
-var mnemonic = "spoon album load frame tourist power rude another true wish voice obvious";
+var mnemonic = "gain spatial become sound ankle trophy elephant plug truck blur embrace loyal";

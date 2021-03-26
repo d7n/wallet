@@ -1,1 +1,1 @@
-var mnemonic = "identify bird ozone march photo trash rocket hotel junior fringe sweet flush";
+var mnemonic = "fall work head seat vault pigeon vintage option broom trial october denial";

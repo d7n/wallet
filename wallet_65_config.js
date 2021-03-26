@@ -1,1 +1,1 @@
-var mnemonic = "miss faculty main state manual purity dragon slush name pattern kitchen swear";
+var mnemonic = "rare must float trap able wedding man deputy twelve shadow impulse conduct";

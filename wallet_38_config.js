@@ -1,1 +1,1 @@
-var mnemonic = "empty effort artist frog slice scout lecture float artefact art wall polar";
+var mnemonic = "lesson someone mule brisk thought sail hurt anger olive whip harvest absent";

@@ -1,1 +1,1 @@
-var mnemonic = "twice control portion bundle want edge program rally asthma sting pill rocket";
+var mnemonic = "romance uncover surround host tonight sure load glass cement scan kidney spin";

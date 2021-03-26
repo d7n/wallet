@@ -1,1 +1,1 @@
-var mnemonic = "vote cost act they poverty grunt discover bottom cram frost burger fold";
+var mnemonic = "sphere lottery sense loop term antenna bronze brick blood helmet public cruel";

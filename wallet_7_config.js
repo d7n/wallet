@@ -1,1 +1,1 @@
-var mnemonic = "juice judge gadget want desk wheat meat ceiling matter guard file pepper";
+var mnemonic = "silly brand enjoy burst nasty warfare negative tongue cupboard dinosaur entry drift";

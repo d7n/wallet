@@ -1,1 +1,1 @@
-var mnemonic = "crew orphan surface slide drop consider solid present material kind need slim";
+var mnemonic = "sadness umbrella vivid pyramid blind code puppy enjoy orphan marine accuse method";

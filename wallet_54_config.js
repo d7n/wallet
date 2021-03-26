@@ -1,1 +1,1 @@
-var mnemonic = "engine real guide apology ice barely jeans palm bachelor pudding rare embrace";
+var mnemonic = "few file strong can sausage arrive agent mention chalk fatigue clown census";

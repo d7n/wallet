@@ -1,1 +1,1 @@
-var mnemonic = "crew snow duty grab throw rent zoo safe ask muffin camp cost";
+var mnemonic = "price snake term dynamic shallow asset local deer giggle miracle valley social";

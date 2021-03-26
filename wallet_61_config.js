@@ -1,1 +1,1 @@
-var mnemonic = "unfair option license rescue trust butter goat happy drink unveil vendor security";
+var mnemonic = "chase portion squirrel warfare logic journey copy captain object mail strategy deliver";

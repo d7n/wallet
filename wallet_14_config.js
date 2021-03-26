@@ -1,1 +1,1 @@
-var mnemonic = "opera awkward budget rookie strike focus fox hour step edge buffalo language";
+var mnemonic = "verb isolate crouch office banner invite borrow gold theory pencil suffer they";

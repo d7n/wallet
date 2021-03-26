@@ -1,1 +1,1 @@
-var mnemonic = "vivid question question shaft young hidden fury hub yard agent april gap";
+var mnemonic = "able quote expire defense bulb scrap genre second safe crush box code";

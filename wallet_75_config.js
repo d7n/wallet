@@ -1,1 +1,1 @@
-var mnemonic = "load park pulse repeat yard outside evoke aerobic seat oven farm alter";
+var mnemonic = "pony blush century light strong try cube state camp favorite metal what";

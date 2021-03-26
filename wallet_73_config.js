@@ -1,1 +1,1 @@
-var mnemonic = "depend bracket foster method health fun state turkey stable quantum bicycle they";
+var mnemonic = "phrase genuine retire casino enlist loud sugar fall surprise chair coin bar";

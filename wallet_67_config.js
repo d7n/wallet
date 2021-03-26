@@ -1,1 +1,1 @@
-var mnemonic = "favorite advance eye about honey zone excite frequent behind art project silent";
+var mnemonic = "normal youth weird label remember hub asset comfort banana symptom hat affair";

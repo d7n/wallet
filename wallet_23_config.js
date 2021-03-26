@@ -1,1 +1,1 @@
-var mnemonic = "upgrade ancient wear resource medal liar game slender strategy drip mask pelican";
+var mnemonic = "duty calm tragic green tag piano true drastic punch scale hurt boil";

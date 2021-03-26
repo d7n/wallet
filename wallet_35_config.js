@@ -1,1 +1,1 @@
-var mnemonic = "cry venue modify uniform alter year wild wife theme host talk comic";
+var mnemonic = "maximum muffin false picnic color double edit dizzy envelope noble path hope";

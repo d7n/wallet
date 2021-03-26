@@ -1,1 +1,1 @@
-var mnemonic = "symptom business brush patrol broccoli voyage already effort erupt usual cash produce";
+var mnemonic = "foil heart normal tray palace scene planet chimney giggle milk nice save";

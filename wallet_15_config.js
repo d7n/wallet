@@ -1,1 +1,1 @@
-var mnemonic = "laundry task later traffic foster pony bulb truck tunnel sheriff bring opera";
+var mnemonic = "denial fat buffalo labor casino regret absent pulse sword convince north million";

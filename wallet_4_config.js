@@ -1,1 +1,1 @@
-var mnemonic = "when coil uniform earn awesome flip prepare swamp autumn zoo divorce carry";
+var mnemonic = "tent sadness pony witness video alone arrest fat tell below rocket lamp";

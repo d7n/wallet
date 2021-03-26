@@ -1,1 +1,1 @@
-var mnemonic = "parade gravity appear odor hero tackle spot humble child disorder ladder company";
+var mnemonic = "bubble update absurd current purpose craft jealous guitar climb divert pitch write";

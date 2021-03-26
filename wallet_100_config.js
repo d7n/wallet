@@ -1,1 +1,1 @@
-var mnemonic = "grain poem aspect bench trial uniform oxygen foam artist attend manual cage";
+var mnemonic = "engage belt elbow soap jungle super wing head cancel exact useful nut";

@@ -1,1 +1,1 @@
-var mnemonic = "virus congress height nuclear behave clay true gun powder wife obtain wing";
+var mnemonic = "december wood census umbrella lady material hotel pulse illegal dust quality original";

@@ -1,1 +1,1 @@
-var mnemonic = "quote early mansion fabric ankle process refuse error property law jazz exile";
+var mnemonic = "network eye inspire explain degree pool curtain wisdom thumb reject sentence grape";

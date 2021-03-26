@@ -1,1 +1,1 @@
-var mnemonic = "column lawn alert erupt skin lazy boil fashion someone way tongue cotton";
+var mnemonic = "health quit ask long assault tongue hero skirt mixture dumb season history";

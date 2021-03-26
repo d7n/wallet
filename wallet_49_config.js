@@ -1,1 +1,1 @@
-var mnemonic = "joy girl crazy snake cousin drama crystal race ostrich zero olive sell";
+var mnemonic = "aware argue inhale easily absorb burden crack bridge address artwork way drastic";

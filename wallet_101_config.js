@@ -1,1 +1,1 @@
-var mnemonic = "feed ancient imitate exact save scale glad law solar shadow cake category";
+var mnemonic = "notable injury public scissors funny dress muffin include card pumpkin canyon jungle";

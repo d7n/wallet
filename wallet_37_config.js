@@ -1,1 +1,1 @@
-var mnemonic = "crime match romance abandon people silent access that load solid busy reveal";
+var mnemonic = "gold hat office suggest tongue liquid define clump cruel empower suffer fix";

@@ -1,1 +1,1 @@
-var mnemonic = "account leg dinosaur knife chef visit arm buyer lucky fault wolf lift";
+var mnemonic = "maximum problem movie drift delay tell future predict attend benefit behave corn";

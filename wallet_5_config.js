@@ -1,1 +1,1 @@
-var mnemonic = "twelve sad fog useful kid famous trade subject state vendor robot mask";
+var mnemonic = "badge scout pretty skate cargo relax rally skirt grace cannon tennis enforce";

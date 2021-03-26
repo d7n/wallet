@@ -1,1 +1,1 @@
-var mnemonic = "jazz stairs remain mystery auto orphan pumpkin polar invite grocery dinosaur borrow";
+var mnemonic = "glove depart option mind cram mass thing carbon route marriage lesson field";

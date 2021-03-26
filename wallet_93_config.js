@@ -1,1 +1,1 @@
-var mnemonic = "mansion empower shy pony check air hurry tomorrow acid enemy upgrade figure";
+var mnemonic = "acoustic capital captain section load entire oven raw chimney mistake fury busy";

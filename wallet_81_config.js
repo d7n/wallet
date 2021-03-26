@@ -1,1 +1,1 @@
-var mnemonic = "call base direct grief bubble true tissue dilemma zero federal make spawn";
+var mnemonic = "mountain alter brief winner regular coach hungry liquid shuffle crew perfect staff";

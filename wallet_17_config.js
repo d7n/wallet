@@ -1,1 +1,1 @@
-var mnemonic = "market book can tiger oblige casual coil wish marriage report gasp cave";
+var mnemonic = "blossom dose suit valve mistake connect exhaust salmon into quality lend you";

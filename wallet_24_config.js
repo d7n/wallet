@@ -1,1 +1,1 @@
-var mnemonic = "gasp dove tone shrug garage expect space chimney photo beach ginger vicious";
+var mnemonic = "rail intact dirt forest purchase come sustain clip science talk creek include";

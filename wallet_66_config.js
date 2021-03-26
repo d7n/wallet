@@ -1,1 +1,1 @@
-var mnemonic = "high ribbon album wire fabric next column lunch include worth rose math";
+var mnemonic = "ginger virus vivid skin road frog language decorate increase artefact feel expand";

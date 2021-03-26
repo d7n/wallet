@@ -1,1 +1,1 @@
-var mnemonic = "brick fun today void suffer cloth hamster seek tone earn believe delay";
+var mnemonic = "explain foot hammer praise try hour dish occur talk lazy rural dust";

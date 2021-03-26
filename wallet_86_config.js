@@ -1,1 +1,1 @@
-var mnemonic = "bless crunch board because hazard raw family dash style gospel palace mirror";
+var mnemonic = "kitten believe divorce swim mixture obvious check youth federal drift cruel inner";

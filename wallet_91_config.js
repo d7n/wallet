@@ -1,1 +1,1 @@
-var mnemonic = "firm young disorder bamboo resemble thumb churn engage certain spend soldier fever";
+var mnemonic = "eight vendor salmon estate cancel boat future evoke wool truly crash novel";

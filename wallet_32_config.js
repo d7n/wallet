@@ -1,1 +1,1 @@
-var mnemonic = "reveal this onion adjust final steak coil cram weasel genius symbol curve";
+var mnemonic = "slush coil fall equal dawn century rose erode chicken tortoise bundle width";

@@ -1,1 +1,1 @@
-var mnemonic = "offer attract derive limit wheel city lyrics hawk few win improve snake";
+var mnemonic = "outdoor extra recall fine common vital shy drop hammer ozone cart lava";

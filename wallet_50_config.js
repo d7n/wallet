@@ -1,1 +1,1 @@
-var mnemonic = "push glue entire agree weasel sustain rib blur mass essay elite clinic";
+var mnemonic = "say paper change cute warrior subject yard accuse ritual urge enable guide";

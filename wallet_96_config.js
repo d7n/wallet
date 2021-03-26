@@ -1,1 +1,1 @@
-var mnemonic = "spy grief away kidney try faint end fence minor lake addict major";
+var mnemonic = "same craft case sadness garden near vessel kitten cattle pulp brass shrimp";

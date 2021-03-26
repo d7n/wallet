@@ -1,1 +1,1 @@
-var mnemonic = "approve conduct service worth call vanish eye twin lesson supply olympic web";
+var mnemonic = "cart sweet have replace rent salt drill list fatal cloud lucky science";

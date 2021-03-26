@@ -1,1 +1,1 @@
-var mnemonic = "danger federal snack toward kid comic bounce mushroom wisdom truly mask tone";
+var mnemonic = "purpose beauty brain inspire mystery total green only ivory squeeze trial head";

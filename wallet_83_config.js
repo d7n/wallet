@@ -1,1 +1,1 @@
-var mnemonic = "tiger immense argue gloom spirit else invite frown lamp harbor similar boy";
+var mnemonic = "valid grow destroy spice struggle accident holiday drum butter stone attract book";

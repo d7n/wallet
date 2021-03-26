@@ -1,1 +1,1 @@
-var mnemonic = "duty alien grid file slice glare unit alarm practice amazing exercise swear";
+var mnemonic = "myth aunt group jaguar veteran caught drum peace comfort wheel describe system";

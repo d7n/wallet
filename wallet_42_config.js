@@ -1,1 +1,1 @@
-var mnemonic = "sorry style physical have taxi sugar best umbrella swift neutral primary test";
+var mnemonic = "lazy gasp immune beach office lock stomach genre sadness sick end fatigue";

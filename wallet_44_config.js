@@ -1,1 +1,1 @@
-var mnemonic = "attitude become february ketchup slight book cheese treat feature hope swallow ecology";
+var mnemonic = "risk noise boy satoshi dragon joke sell orange sight crawl wool local";

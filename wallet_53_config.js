@@ -1,1 +1,1 @@
-var mnemonic = "pitch sad crush mail sentence lamp inquiry upset ginger insane apology jump";
+var mnemonic = "wrap vintage wrong hen summer pupil armed puppy tail myth around mass";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday fame worth culture elephant wine secret elite captain inject sponsor seat";
+var mnemonic = "distance genius enact master inner flame waste baby black chat now use";

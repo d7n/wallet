@@ -1,1 +1,1 @@
-var mnemonic = "what curve hold club meadow marine twist fine public stone romance tuition";
+var mnemonic = "oak apart sad robot crazy lift vacant place identify aunt spring eternal";

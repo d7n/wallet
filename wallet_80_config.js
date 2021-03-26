@@ -1,1 +1,1 @@
-var mnemonic = "ceiling senior tornado dash dream exhaust code relief february excite way solve";
+var mnemonic = "foil club praise essence betray sadness put fiction leg pupil second worth";

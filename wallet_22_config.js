@@ -1,1 +1,1 @@
-var mnemonic = "proud marble error emotion soul special desk oblige strike gallery acoustic stable";
+var mnemonic = "interest defy clerk quit language fragile flag dream shift affair decide hospital";

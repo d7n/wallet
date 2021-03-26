@@ -1,1 +1,1 @@
-var mnemonic = "south axis paddle garlic mirror interest maximum actual deny label ritual conduct";
+var mnemonic = "say hover index sing delay cat suspect biology member fringe glue cash";

@@ -1,1 +1,1 @@
-var mnemonic = "spare open casino purpose alley venue dish blur jazz blame anxiety ability";
+var mnemonic = "ability fire furnace enough circle hen rather sadness south witness unfair super";

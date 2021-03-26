@@ -1,1 +1,1 @@
-var mnemonic = "dice emotion hip sad orphan hint mule climb energy kiss wild sick";
+var mnemonic = "thing twice blanket beauty awesome hand agent female thing butter potato style";

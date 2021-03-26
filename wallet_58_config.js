@@ -1,1 +1,1 @@
-var mnemonic = "plate six churn cry yellow clean wall marble response rich attitude put";
+var mnemonic = "young resource curious draft movie kingdom equip robust merge outer movie cage";

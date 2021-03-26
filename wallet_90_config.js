@@ -1,1 +1,1 @@
-var mnemonic = "cat similar park two purchase can country giraffe bullet bind click move";
+var mnemonic = "keep moment wear bridge debris vanish teach clarify early oil boss right";

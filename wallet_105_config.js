@@ -1,1 +1,1 @@
-var mnemonic = "acquire idle tired dust page syrup daughter struggle airport achieve jewel unit";
+var mnemonic = "piano blanket cliff chef payment decide bread initial thing basic juice nuclear";

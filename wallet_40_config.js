@@ -1,1 +1,1 @@
-var mnemonic = "oblige enable damage shoulder glue keep short material dutch evoke figure garbage";
+var mnemonic = "elephant sword cruise diary innocent couch typical glance bid canal clerk kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "speak robot great salt spray pet remind vault blanket wrap salon wide";
+var mnemonic = "bird bless company loan place shiver charge tourist observe weasel seek rifle";

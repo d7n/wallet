@@ -1,1 +1,1 @@
-var mnemonic = "lucky cereal wing another maze stuff crisp recycle belt gesture city echo";
+var mnemonic = "parent slight cupboard wait make cram raccoon other fault name silent joy";

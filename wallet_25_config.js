@@ -1,1 +1,1 @@
-var mnemonic = "catch spot bonus fever venture inside column since mosquito outside robust found";
+var mnemonic = "owner away index advice flavor taste truth stairs absent strategy wish mutual";

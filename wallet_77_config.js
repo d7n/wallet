@@ -1,1 +1,1 @@
-var mnemonic = "start purse forget indoor pyramid stomach turn behind orphan plunge dolphin unit";
+var mnemonic = "giant sudden simple blind radio grass burger knock miss warm outdoor crane";

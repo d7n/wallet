@@ -1,1 +1,1 @@
-var mnemonic = "census popular chuckle infant verify breeze phrase impulse gold table despair love";
+var mnemonic = "over wide enable face edit oval replace calm silly fantasy cash devote";

@@ -1,1 +1,1 @@
-var mnemonic = "act power element solution gallery list key desk shrimp trophy fringe rare";
+var mnemonic = "weekend embark moment aisle emotion help token gravity dose load forward bulk";

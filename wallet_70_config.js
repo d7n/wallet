@@ -1,1 +1,1 @@
-var mnemonic = "busy cherry guess genius used such crush grunt magic coin boss fiscal";
+var mnemonic = "vote blossom fault kidney during elegant window salad erase number useless banner";

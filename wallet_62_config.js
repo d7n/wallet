@@ -1,1 +1,1 @@
-var mnemonic = "opinion trim dismiss kiwi cabin weapon neutral glare august indicate pass negative";
+var mnemonic = "pilot buyer reveal inspire bird dial idle sure water sphere seven apology";

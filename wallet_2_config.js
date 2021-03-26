@@ -1,1 +1,1 @@
-var mnemonic = "essay exercise engine elbow pride insane rebuild pond muffin horse token giraffe";
+var mnemonic = "awake spatial helmet mistake scorpion web index income inmate mercy winter host";

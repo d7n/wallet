@@ -1,1 +1,1 @@
-var mnemonic = "fantasy glad blame garment pride pluck provide friend demise firm federal remove";
+var mnemonic = "spell bag border gun caution fade nephew reveal leader lift initial wild";

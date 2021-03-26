@@ -1,1 +1,1 @@
-var mnemonic = "emotion belt truly supreme coconut always corn palm pretty program ranch heavy";
+var mnemonic = "genius someone north exist insane vote ghost monster kingdom dice prevent profit";

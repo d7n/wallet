@@ -1,1 +1,1 @@
-var mnemonic = "salmon tail giant actress post journey crane exchange accuse icon analyst roof";
+var mnemonic = "inhale edit hamster solution ensure color chalk minute rate tell media nation";
