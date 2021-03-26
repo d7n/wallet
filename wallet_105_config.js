@@ -1,1 +1,1 @@
-var mnemonic = "nominee ride erode science loud pink spoon casino canyon worth accuse jaguar";
+var mnemonic = "hockey section spy execute emerge submit develop board frog great swap man";

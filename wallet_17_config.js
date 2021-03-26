@@ -1,1 +1,1 @@
-var mnemonic = "credit base dial absent vault nut farm bind mango cloth tissue squirrel";
+var mnemonic = "immune frame sock frost response portion love dry cloth warfare radio various";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest clay clog toe client flight never south include zoo follow scrap";
+var mnemonic = "observe rude glad armor miracle truly neglect deny outside trust pig cute";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow anger huge benefit canyon pink strategy famous ancient blouse panel tone";
+var mnemonic = "casino brick black affair kiss behind garlic pilot invite penalty observe umbrella";

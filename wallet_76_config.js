@@ -1,1 +1,1 @@
-var mnemonic = "okay phrase damp license document vacant female reason pen salute toss suspect";
+var mnemonic = "fiscal twenty axis shoulder town joke other citizen design shy injury shock";

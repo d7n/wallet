@@ -1,1 +1,1 @@
-var mnemonic = "sting giggle catalog south three ski fantasy wreck someone shaft liquid write";
+var mnemonic = "certain female misery real run tornado chaos firm poet crack culture region";

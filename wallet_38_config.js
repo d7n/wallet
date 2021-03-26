@@ -1,1 +1,1 @@
-var mnemonic = "duty bench birth orange assume utility envelope duck knee evil example agree";
+var mnemonic = "youth sugar belt genre angry busy lecture fossil lesson birth settle unhappy";

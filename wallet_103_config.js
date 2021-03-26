@@ -1,1 +1,1 @@
-var mnemonic = "dilemma pigeon sport make legal sport public rough imitate negative corn damp";
+var mnemonic = "move document uncle truly drive mystery across rural off else abstract soft";

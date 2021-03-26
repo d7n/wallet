@@ -1,1 +1,1 @@
-var mnemonic = "boat pave doctor access ask blade onion donate walk soccer summer slogan";
+var mnemonic = "pear core awesome tail client indicate mistake venture truck fold collect slender";

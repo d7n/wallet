@@ -1,1 +1,1 @@
-var mnemonic = "true beach penalty appear dynamic swap sort cheese will acquire battle deposit";
+var mnemonic = "enhance vehicle main autumn master meat minute super two buddy govern tag";

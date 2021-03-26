@@ -1,1 +1,1 @@
-var mnemonic = "bottom auto balcony alter odor punch urban fold charge kingdom decide coast";
+var mnemonic = "jazz damp whip oxygen pen owner person famous benefit job joke camera";

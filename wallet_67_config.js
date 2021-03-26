@@ -1,1 +1,1 @@
-var mnemonic = "aunt mix timber climb bar inquiry achieve define blossom laundry income will";
+var mnemonic = "balcony envelope patrol wall question fluid genuine veteran valve rice service host";

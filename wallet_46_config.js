@@ -1,1 +1,1 @@
-var mnemonic = "olympic mother vapor adapt gadget air myself service curtain debate pink surprise";
+var mnemonic = "powder joy flower squirrel absurd program lecture disorder acoustic powder relax net";

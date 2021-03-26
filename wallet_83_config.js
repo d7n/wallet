@@ -1,1 +1,1 @@
-var mnemonic = "elbow gentle hamster truth aunt reunion charge story rack borrow spot scare";
+var mnemonic = "visit survey gentle clarify cat crumble coach oven few face museum edit";

@@ -1,1 +1,1 @@
-var mnemonic = "fragile ramp dish false tongue farm blur rent cliff shallow seven worry";
+var mnemonic = "melt once patch amount cereal lonely alpha raccoon swarm gym window box";

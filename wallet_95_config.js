@@ -1,1 +1,1 @@
-var mnemonic = "spirit sign about track kitchen finish level ball family tiny future process";
+var mnemonic = "wasp couple capital alter super cup hollow foot replace inside settle nose";

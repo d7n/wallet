@@ -1,1 +1,1 @@
-var mnemonic = "promote lumber symptom bonus vital settle idea spoil stick action arrest point";
+var mnemonic = "appear account unveil split violin tennis goat inspire actress frost decide notice";

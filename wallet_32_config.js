@@ -1,1 +1,1 @@
-var mnemonic = "famous imitate corn next shrimp question plate monster invest coil pact spot";
+var mnemonic = "move winter easy domain outer nasty note express odor apology example anger";

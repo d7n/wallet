@@ -1,1 +1,1 @@
-var mnemonic = "smart pattern tool chunk question blame orphan sadness metal topic talk rural";
+var mnemonic = "arrest indoor drift ritual address repair pluck inmate trigger float mobile naive";

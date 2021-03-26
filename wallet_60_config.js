@@ -1,1 +1,1 @@
-var mnemonic = "layer rent youth winter tomorrow ski foil crazy insect crisp bone pride";
+var mnemonic = "bunker sing mail board wasp ladder settle immune supreme portion virtual zero";

@@ -1,1 +1,1 @@
-var mnemonic = "powder rotate logic rabbit pilot entry install bicycle call grape clump fat";
+var mnemonic = "fatal caution depth forest social deal warrior present burst since supply shine";

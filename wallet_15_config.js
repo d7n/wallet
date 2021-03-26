@@ -1,1 +1,1 @@
-var mnemonic = "mimic subway drop champion cool man today chimney banana keen patient earth";
+var mnemonic = "bomb assume correct pattern runway quality cup damp nut praise height joy";

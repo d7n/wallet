@@ -1,1 +1,1 @@
-var mnemonic = "visit small action inhale cabin property impact situate humor material river feel";
+var mnemonic = "muscle favorite raise near hunt utility elephant style replace train battle cluster";

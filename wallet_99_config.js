@@ -1,1 +1,1 @@
-var mnemonic = "job random shy moral donor claw potato era gorilla planet slot region";
+var mnemonic = "obtain excess cattle mobile disease argue judge onion sand poverty shy divorce";

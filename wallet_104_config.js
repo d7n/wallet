@@ -1,1 +1,1 @@
-var mnemonic = "relax month choice replace robot phrase omit amateur try cliff lady gallery";
+var mnemonic = "install clown next coast unaware enact glow person cross rhythm banana custom";

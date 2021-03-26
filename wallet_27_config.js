@@ -1,1 +1,1 @@
-var mnemonic = "behave brother addict desert tower blossom flag bamboo abandon hobby school forget";
+var mnemonic = "rain virus kick supreme ecology decade work curve warrior apple orchard envelope";

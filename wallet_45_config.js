@@ -1,1 +1,1 @@
-var mnemonic = "slight cup hero toy chronic history reward believe mixture express orient fine";
+var mnemonic = "demise oven gas tent hobby flower raven ancient slam lady spell another";

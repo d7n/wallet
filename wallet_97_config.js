@@ -1,1 +1,1 @@
-var mnemonic = "client manage venture open element patch pool skill calm doctor knee debate";
+var mnemonic = "pottery gun nature mean ring electric borrow material snack charge rate foil";

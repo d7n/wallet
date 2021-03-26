@@ -1,1 +1,1 @@
-var mnemonic = "runway carpet blame poet emotion mass artist color crystal already sustain demand";
+var mnemonic = "wolf gallery analyst lab rib search wreck echo shoot burden matrix miracle";

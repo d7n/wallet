@@ -1,1 +1,1 @@
-var mnemonic = "smoke now twenty exit melt daughter fox spin hole element select calm";
+var mnemonic = "fix boost upper pattern siege develop hint snap glow gospel spike river";

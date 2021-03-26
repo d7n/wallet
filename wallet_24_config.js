@@ -1,1 +1,1 @@
-var mnemonic = "matrix aim output solar tunnel stadium usage object song what dream usage";
+var mnemonic = "battle artwork power cool frost sniff motion picnic hunt beach join barely";

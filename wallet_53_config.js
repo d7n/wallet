@@ -1,1 +1,1 @@
-var mnemonic = "menu hair fabric type void eight scheme grid deputy visit sudden bench";
+var mnemonic = "cushion endless blue acid stage maze hand deer amount current vast elephant";

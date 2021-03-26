@@ -1,1 +1,1 @@
-var mnemonic = "usual purse topic onion once aware away repeat hero devote hazard outside";
+var mnemonic = "raw trigger riot enemy fatigue behind pond model ecology banana midnight hundred";

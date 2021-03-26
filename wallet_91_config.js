@@ -1,1 +1,1 @@
-var mnemonic = "tumble grow plug drum base check satoshi rug fork buyer result fossil";
+var mnemonic = "convince program goddess remain parade increase end kid rack little snow glass";

@@ -1,1 +1,1 @@
-var mnemonic = "bright debate fashion pass piece police skate apology drop symbol liberty body";
+var mnemonic = "expire tumble bid into smooth sick raccoon example want certain bless fine";

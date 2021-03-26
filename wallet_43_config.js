@@ -1,1 +1,1 @@
-var mnemonic = "fancy odor soup unfold inmate advance bacon excess danger immense ankle valid";
+var mnemonic = "fragile drum rough warm ten fresh leg grow sunny mutual shoot twin";

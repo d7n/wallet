@@ -1,1 +1,1 @@
-var mnemonic = "fuel october faith actress correct tennis slide shock island guide antique repair";
+var mnemonic = "follow museum sibling glass broom relax endless april custom boost bachelor tent";

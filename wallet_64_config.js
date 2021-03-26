@@ -1,1 +1,1 @@
-var mnemonic = "sun visit wisdom vacuum yellow pencil reflect artefact joke drink hungry clock";
+var mnemonic = "demand action air gasp judge aisle mango half festival safe cruel farm";

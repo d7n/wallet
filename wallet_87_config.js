@@ -1,1 +1,1 @@
-var mnemonic = "defy stuff october creek rigid forget oil assault woman empty author spoon";
+var mnemonic = "purse soldier vehicle shift cable manual silver damage cigar slush animal skill";

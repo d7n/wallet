@@ -1,1 +1,1 @@
-var mnemonic = "attend open guilt gallery someone dumb vague oak crouch pluck silly property";
+var mnemonic = "attract spatial business indicate large fit pigeon mercy bracket lecture radio merit";

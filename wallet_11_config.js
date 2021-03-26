@@ -1,1 +1,1 @@
-var mnemonic = "since top crisp lady speak brand toss donate suffer traffic solve dizzy";
+var mnemonic = "control diagram forest ripple walk proud rug flee profit sunny nominee hungry";

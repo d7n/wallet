@@ -1,1 +1,1 @@
-var mnemonic = "audit around repeat basket congress sustain card vehicle town salute enhance nation";
+var mnemonic = "milk gold rain wrestle diet control question tired old couple ride price";

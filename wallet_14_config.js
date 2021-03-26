@@ -1,1 +1,1 @@
-var mnemonic = "raven pill blanket actress enforce seminar pole twist general elbow gospel ketchup";
+var mnemonic = "bus broom female nation agent upper relief attract disorder silver census glide";

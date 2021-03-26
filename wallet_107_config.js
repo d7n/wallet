@@ -1,1 +1,1 @@
-var mnemonic = "undo sport suffer scene hobby notice truck usage category used first gossip";
+var mnemonic = "awake month involve transfer pig thought humble earn canyon yellow false debris";

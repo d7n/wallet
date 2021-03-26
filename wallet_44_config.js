@@ -1,1 +1,1 @@
-var mnemonic = "inhale kite slab body awkward capable rely marble blast naive enjoy lemon";
+var mnemonic = "cute mosquito tiger trial labor old spoon climb learn unhappy today suffer";

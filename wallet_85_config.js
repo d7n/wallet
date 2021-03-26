@@ -1,1 +1,1 @@
-var mnemonic = "they until metal wolf shove february nest language gasp rough slush idea";
+var mnemonic = "kit portion march name vast shine provide current frown space lock cause";

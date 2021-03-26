@@ -1,1 +1,1 @@
-var mnemonic = "repeat long airport coral word farm kiss fit manage vast pave congress";
+var mnemonic = "ranch deer amount salmon about runway cover cushion chief donate glory hurt";

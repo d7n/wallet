@@ -1,1 +1,1 @@
-var mnemonic = "walk until hour motion gaze clarify south model fan pudding master venue";
+var mnemonic = "found glow borrow cargo general junk vocal common feature canyon ring income";

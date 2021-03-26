@@ -1,1 +1,1 @@
-var mnemonic = "net prepare kind antique pottery push ten work valve crane hub horse";
+var mnemonic = "junk bright dinner floor romance good trip already tortoise practice hat melt";

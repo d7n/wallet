@@ -1,1 +1,1 @@
-var mnemonic = "veteran now prepare breeze benefit cup person brave effort liquid eight enlist";
+var mnemonic = "tide lunch mesh file outer tribe exist parent unfold flower inner weapon";

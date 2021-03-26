@@ -1,1 +1,1 @@
-var mnemonic = "memory brother hen winner note rifle bronze roof dumb ill mobile must";
+var mnemonic = "burst force vault resource day fruit tray regret asset another lizard annual";

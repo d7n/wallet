@@ -1,1 +1,1 @@
-var mnemonic = "fury vast atom truth dirt wave alarm discover enhance chunk boost legend";
+var mnemonic = "skate blouse urban access either blanket patrol cycle deal magnet trophy surprise";

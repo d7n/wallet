@@ -1,1 +1,1 @@
-var mnemonic = "elder shove recall run adapt update season elder iron amused learn effort";
+var mnemonic = "method disagree sniff crash garbage option hover tonight switch elevator divert orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "december six kiwi grain unit ramp merge often winner measure step start";
+var mnemonic = "evoke fine obey enemy myself road normal mobile pizza whip pumpkin remain";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone food august illness egg meat liar pet misery reason burger recycle";
+var mnemonic = "weird glow waste artist state black shy oxygen system layer intact subject";

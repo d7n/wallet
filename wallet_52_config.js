@@ -1,1 +1,1 @@
-var mnemonic = "outdoor omit into alert kid scale output city legal into cause very";
+var mnemonic = "warfare artwork fish armor cash brother present other hobby group trouble post";

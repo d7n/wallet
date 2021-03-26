@@ -1,1 +1,1 @@
-var mnemonic = "weather cargo worry pulp denial cupboard camera thing suit dynamic differ reveal";
+var mnemonic = "select certain torch kitchen grunt mechanic recycle clown narrow usual flip symbol";

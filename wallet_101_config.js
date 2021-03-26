@@ -1,1 +1,1 @@
-var mnemonic = "shift discover nothing undo volume afford orbit ranch practice churn version check";
+var mnemonic = "cheese dawn squeeze sheriff avoid path suspect jungle chat throw between small";

@@ -1,1 +1,1 @@
-var mnemonic = "hold kiwi park remember upon open agree afraid night kangaroo rabbit aware";
+var mnemonic = "genre torch order rose favorite grit flag plug decrease acoustic spider black";

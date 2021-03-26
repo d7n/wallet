@@ -1,1 +1,1 @@
-var mnemonic = "airport rural stumble broccoli cake drum swing minimum guide foil display frame";
+var mnemonic = "disorder office pluck daughter plastic exotic piece protect ice bacon notice left";

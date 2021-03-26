@@ -1,1 +1,1 @@
-var mnemonic = "soon aisle minor course recall ill pull rescue venue measure owner sign";
+var mnemonic = "motor west forward yard sail dwarf husband lizard impact direct illness pepper";

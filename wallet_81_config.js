@@ -1,1 +1,1 @@
-var mnemonic = "lazy focus connect gadget thank uphold inject sponsor dance together ranch giggle";
+var mnemonic = "sing annual account knife cinnamon wreck problem village equal mango reflect detect";

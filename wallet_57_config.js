@@ -1,1 +1,1 @@
-var mnemonic = "gather stand layer decline blouse deposit bomb wear magnet genuine earn survey";
+var mnemonic = "sad hedgehog evolve mass busy middle dignity split divorce exotic grocery tourist";

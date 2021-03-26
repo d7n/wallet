@@ -1,1 +1,1 @@
-var mnemonic = "salmon recipe fun scheme ranch roof then crash hint screen monitor useful";
+var mnemonic = "absorb midnight annual garage shadow advice orient oval envelope together force scan";

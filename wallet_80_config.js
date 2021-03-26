@@ -1,1 +1,1 @@
-var mnemonic = "away verify month pave aisle cable predict quantum page marble canal episode";
+var mnemonic = "primary aim punch eyebrow north angry dress lottery mercy exile bird track";

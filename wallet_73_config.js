@@ -1,1 +1,1 @@
-var mnemonic = "fix soul business measure end spike flag pride knock way route seminar";
+var mnemonic = "prison book gain believe ostrich rookie claw quote raccoon green river era";

@@ -1,1 +1,1 @@
-var mnemonic = "sign neither urban slender fire tray cram pair abuse wise guilt occur";
+var mnemonic = "issue claw venue turn citizen adult stamp purchase stay seed hip sketch";

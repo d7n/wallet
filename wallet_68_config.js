@@ -1,1 +1,1 @@
-var mnemonic = "blush ability gaze believe jelly true blind knee general scale exhaust afford";
+var mnemonic = "vanish cabin acquire lava strategy crunch receive merit extra riot tone asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "tell zone punch page timber virus idle bean shuffle season narrow morning";
+var mnemonic = "lazy brief boring depend brain visit ring garlic time upset arctic question";

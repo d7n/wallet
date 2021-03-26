@@ -1,1 +1,1 @@
-var mnemonic = "layer dinner spirit arm fossil combine inform step little sunny alone chimney";
+var mnemonic = "taste loan fault ten observe royal fork dad midnight hybrid lift skill";

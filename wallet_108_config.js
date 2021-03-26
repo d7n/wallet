@@ -1,1 +1,1 @@
-var mnemonic = "want doll depart gold raccoon path catalog reduce banana enjoy obtain joy";
+var mnemonic = "battle receive much left team sport expect glue trigger dolphin crystal neck";

@@ -1,1 +1,1 @@
-var mnemonic = "chest harvest draw lazy upgrade drop acid educate fame divorce sadness crouch";
+var mnemonic = "able floor armor cinnamon style equal parade flee left wrist chat elephant";

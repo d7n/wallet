@@ -1,1 +1,1 @@
-var mnemonic = "armed neither surprise play cloth ensure vapor stone regular elevator direct soccer";
+var mnemonic = "rescue noble fever destroy vessel bachelor vast joy couple aspect trouble gadget";

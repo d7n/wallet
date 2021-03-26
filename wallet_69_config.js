@@ -1,1 +1,1 @@
-var mnemonic = "easy lady smile squeeze leaf story season derive require coast tell various";
+var mnemonic = "buffalo shaft salmon lobster focus illegal denial hunt fetch airport differ trap";

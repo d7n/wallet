@@ -1,1 +1,1 @@
-var mnemonic = "ignore brass decorate observe scissors ethics carpet credit body corn flock barely";
+var mnemonic = "swarm sugar drift remind market wealth insane basic puppy tourist common urge";

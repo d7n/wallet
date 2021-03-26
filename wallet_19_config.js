@@ -1,1 +1,1 @@
-var mnemonic = "wealth month coffee whale artwork thumb riot noble mansion behave peanut satoshi";
+var mnemonic = "must hello gauge right novel cloud sphere cute domain reward seek sleep";

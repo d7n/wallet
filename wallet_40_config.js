@@ -1,1 +1,1 @@
-var mnemonic = "stadium lyrics debate arm fix dream antenna pattern hard grant strategy credit";
+var mnemonic = "orbit group famous maximum dress pet fossil pause lizard scheme kit hour";

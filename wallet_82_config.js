@@ -1,1 +1,1 @@
-var mnemonic = "health key always great hold owner scatter million furnace seminar sun smooth";
+var mnemonic = "olympic sweet margin mechanic topic derive park deal design blame creek swim";

@@ -1,1 +1,1 @@
-var mnemonic = "hold abandon toy salute gate arena siren hurry idea become bike orphan";
+var mnemonic = "core thought brain million crumble void flock fish avocado accident agent broken";

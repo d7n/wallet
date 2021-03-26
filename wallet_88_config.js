@@ -1,1 +1,1 @@
-var mnemonic = "proud ancient drip connect retire author govern weird harbor impulse buzz sudden";
+var mnemonic = "sail shallow knee kid burden final crowd you egg more squeeze fatal";

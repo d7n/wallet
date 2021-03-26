@@ -1,1 +1,1 @@
-var mnemonic = "culture audit hospital girl slim minimum whisper science type spy fresh east";
+var mnemonic = "water bean agent flush luggage chaos nephew pilot still bunker sure bunker";

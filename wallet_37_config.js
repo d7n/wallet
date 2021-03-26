@@ -1,1 +1,1 @@
-var mnemonic = "direct laptop rural duty slogan hollow pave assume upset local random oven";
+var mnemonic = "weasel thank concert veteran weapon visit grocery cycle spray sugar purse easy";

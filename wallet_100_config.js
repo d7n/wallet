@@ -1,1 +1,1 @@
-var mnemonic = "permit allow select tenant forget sugar oil behave ethics desert rapid planet";
+var mnemonic = "siege asset snack burst oval ahead emotion produce hunt until pipe absurd";

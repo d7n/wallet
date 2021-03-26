@@ -1,1 +1,1 @@
-var mnemonic = "crawl modify pupil hurry diesel govern quantum pudding eight loud quit copy";
+var mnemonic = "napkin life exit fire join hello awkward blood rent decide throw pig";

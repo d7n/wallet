@@ -1,1 +1,1 @@
-var mnemonic = "ranch meat sadness define potato bar sound paddle purchase modify plunge click";
+var mnemonic = "online aware fee young bubble sun scheme armed rare tackle tobacco arm";

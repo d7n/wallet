@@ -1,1 +1,1 @@
-var mnemonic = "cradle fire great ladder sadness enable praise denial around interest typical mistake";
+var mnemonic = "neglect runway thunder chicken today control fantasy track sister pool issue scatter";

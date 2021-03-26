@@ -1,1 +1,1 @@
-var mnemonic = "chase video unknown funny gossip worth under vast luggage panther situate robot";
+var mnemonic = "kitten company tobacco jeans this fan envelope plate impulse dice desk domain";

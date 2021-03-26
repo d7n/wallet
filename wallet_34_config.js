@@ -1,1 +1,1 @@
-var mnemonic = "damage bracket cake define announce flat adult easily mirror bounce sign entire";
+var mnemonic = "fox hold type length rare cannon concert insect message horn wine legal";

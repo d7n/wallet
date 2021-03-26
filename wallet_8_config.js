@@ -1,1 +1,1 @@
-var mnemonic = "miracle buzz kiwi silver rough blast excuse bottom uncle stuff talk stand";
+var mnemonic = "north audit thrive minor smile easily force fossil story loyal frown team";

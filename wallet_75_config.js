@@ -1,1 +1,1 @@
-var mnemonic = "kitten spike dynamic color dignity flower problem blood veteran crime country slice";
+var mnemonic = "quality truth swear plug off digital table harvest hen brief injury stay";
