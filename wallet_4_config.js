@@ -1,1 +1,1 @@
-var mnemonic = "trophy flash minor despair vintage base iron task gap cruel siren alpha";
+var mnemonic = "fragile identify wall radio typical dutch pretty dilemma scrap peace soft cube";

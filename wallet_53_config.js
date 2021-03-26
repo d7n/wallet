@@ -1,1 +1,1 @@
-var mnemonic = "warfare baby discover winner spray sense glance detail noble matrix desert until";
+var mnemonic = "punch source alien blanket detail carbon learn master milk robust hurt tell";

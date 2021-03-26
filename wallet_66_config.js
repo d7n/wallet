@@ -1,1 +1,1 @@
-var mnemonic = "ice prefer twist pill number bright immense relax tent uphold concert entire";
+var mnemonic = "early peasant catch ugly tag glide vapor street able elevator caution minimum";

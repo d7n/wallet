@@ -1,1 +1,1 @@
-var mnemonic = "distance embark news dune mosquito what evidence goddess allow goddess sail mosquito";
+var mnemonic = "code during away more reform vendor deny parrot robust pudding supreme small";

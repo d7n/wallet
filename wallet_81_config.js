@@ -1,1 +1,1 @@
-var mnemonic = "record reduce much cement excess language duty drink enlist tobacco engine dog";
+var mnemonic = "skin solid trap salt rug alley wet talent supply upper cheese sign";

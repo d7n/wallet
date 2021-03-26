@@ -1,1 +1,1 @@
-var mnemonic = "transfer cute ribbon clap dose upgrade else load nuclear cement bus solar";
+var mnemonic = "path illness mom card deposit food palm arrest section venue tower worry";

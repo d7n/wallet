@@ -1,1 +1,1 @@
-var mnemonic = "hood penalty same sad oven surge various token shuffle fiber soon where";
+var mnemonic = "account among judge exhibit gesture alarm pledge invite noise uncover window into";

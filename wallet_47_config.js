@@ -1,1 +1,1 @@
-var mnemonic = "cloth custom increase rail arctic tribe gown glide buffalo cream stage flavor";
+var mnemonic = "detect skate negative equip capital spoon oppose broken fox bottom comic mesh";

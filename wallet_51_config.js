@@ -1,1 +1,1 @@
-var mnemonic = "essence glove shiver humor lawn soon can noise vessel twice capital mercy";
+var mnemonic = "prefer retire warfare window thrive illness someone milk input monster mountain nuclear";

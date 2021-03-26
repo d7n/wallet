@@ -1,1 +1,1 @@
-var mnemonic = "miracle erase board arrow happy rather parent retreat path grant such adjust";
+var mnemonic = "about blind human luxury since rotate federal year crunch wasp fog uphold";

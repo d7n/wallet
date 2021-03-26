@@ -1,1 +1,1 @@
-var mnemonic = "whisper double else this angry spot recall photo tornado similar all unhappy";
+var mnemonic = "banner senior narrow mass school forward cave library frozen fetch shrug pony";

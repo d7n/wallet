@@ -1,1 +1,1 @@
-var mnemonic = "pill owner link inquiry board boil sell guess margin able panther fluid";
+var mnemonic = "empower veteran dove risk menu gas vacuum jealous cactus flash despair voyage";

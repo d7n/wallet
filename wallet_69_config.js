@@ -1,1 +1,1 @@
-var mnemonic = "peasant echo soft chase occur metal coil rose crouch youth high fee";
+var mnemonic = "remind ozone palm whip large twist lend clay toss scorpion estate erosion";

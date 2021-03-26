@@ -1,1 +1,1 @@
-var mnemonic = "better food east benefit fantasy slam together volcano cotton frown captain muffin";
+var mnemonic = "foster saddle crowd father indicate cover ghost truth weapon almost myth tumble";

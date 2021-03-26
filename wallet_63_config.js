@@ -1,1 +1,1 @@
-var mnemonic = "poet barely catch toilet season column trap wet dirt nominee bleak cactus";
+var mnemonic = "auction apart high bullet drum prevent swim arctic episode process glory hungry";

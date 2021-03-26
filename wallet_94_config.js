@@ -1,1 +1,1 @@
-var mnemonic = "hair typical patrol exotic carpet winner torch barely maze foam mechanic slush";
+var mnemonic = "confirm domain place element verb foam maple tip slot guitar cool solution";

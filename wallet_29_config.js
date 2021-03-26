@@ -1,1 +1,1 @@
-var mnemonic = "retreat fiction fall announce occur host feed pelican moral shell relax rice";
+var mnemonic = "route orphan chronic mouse achieve glad west giant flee cousin material bounce";

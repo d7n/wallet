@@ -1,1 +1,1 @@
-var mnemonic = "enhance myself hole course nerve injury patrol faculty silver quality hockey echo";
+var mnemonic = "weekend purpose spawn fade option remember over crowd keen lamp pottery business";

@@ -1,1 +1,1 @@
-var mnemonic = "feed weasel giant moon ecology spy imitate describe gap congress gospel hotel";
+var mnemonic = "bonus mango domain tip lion cloth punch sphere shove board priority confirm";

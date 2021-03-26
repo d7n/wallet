@@ -1,1 +1,1 @@
-var mnemonic = "peanut duck cave until hair prevent general slice blind option happy salad";
+var mnemonic = "rebuild prosper gather pumpkin fit goat main poem faith grow tobacco mountain";

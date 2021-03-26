@@ -1,1 +1,1 @@
-var mnemonic = "diesel follow world camp riot dove idle sword strike shoulder always exact";
+var mnemonic = "timber struggle cricket grow paddle final host what canoe visit bamboo roast";

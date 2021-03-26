@@ -1,1 +1,1 @@
-var mnemonic = "knee select nominee small core naive horror forum improve wonder purity soccer";
+var mnemonic = "double grief rain ability yellow coach diesel tent grunt found winter movie";

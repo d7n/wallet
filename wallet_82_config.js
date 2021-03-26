@@ -1,1 +1,1 @@
-var mnemonic = "salmon gentle elder club cradle famous stadium ancient bubble hybrid figure vendor";
+var mnemonic = "wire limb picnic staff tissue split resist unlock daughter library swap subject";

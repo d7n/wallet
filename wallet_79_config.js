@@ -1,1 +1,1 @@
-var mnemonic = "grid parent leaf teach route paper shoe belt ancient square habit damage";
+var mnemonic = "wife reject enjoy wedding online chapter symbol camp sport armor across foam";

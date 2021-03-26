@@ -1,1 +1,1 @@
-var mnemonic = "polar always scale lawn ramp choice aspect route green swim tower matter";
+var mnemonic = "toward license maple antenna circle glove sense mandate culture theory gasp ability";

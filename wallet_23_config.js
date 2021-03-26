@@ -1,1 +1,1 @@
-var mnemonic = "sand august depart neck treat absorb bullet evidence real silent thunder thrive";
+var mnemonic = "much first ticket fold broom marriage lyrics idea sing shuffle destroy soccer";

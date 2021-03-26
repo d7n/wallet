@@ -1,1 +1,1 @@
-var mnemonic = "rough stock depend hat symbol split soap often unfold blade screen tennis";
+var mnemonic = "coast ozone object equip impose receive range success angle pigeon stove talent";

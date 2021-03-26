@@ -1,1 +1,1 @@
-var mnemonic = "afford boy disease cave buzz grape range glass board uncle bundle rate";
+var mnemonic = "wrap boss hat diesel opinion doll poem leopard group tragic rigid actor";

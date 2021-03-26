@@ -1,1 +1,1 @@
-var mnemonic = "crack museum ocean home vital weather little sunny limb turkey gravity web";
+var mnemonic = "father misery useful sting outer live fashion wisdom stand sea hand fuel";

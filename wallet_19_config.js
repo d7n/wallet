@@ -1,1 +1,1 @@
-var mnemonic = "uncover elbow transfer account tuition sketch fashion shiver loud awkward walk fork";
+var mnemonic = "scare learn desk stock brisk cat dish clean flight proof avocado jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "finish cricket bird scrub renew way fragile donate silent submit effort method";
+var mnemonic = "pencil lucky trend benefit viable aerobic inquiry soft network exercise sail narrow";

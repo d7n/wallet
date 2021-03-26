@@ -1,1 +1,1 @@
-var mnemonic = "today network random pride mom adapt spoil churn cloth damp card report";
+var mnemonic = "strike wide spring wrestle range dignity early brown there treat video hurt";

@@ -1,1 +1,1 @@
-var mnemonic = "boost music daring smoke shiver antique dilemma diesel tone good correct equip";
+var mnemonic = "year fish alcohol pet few salmon jacket grass service hood rain catch";

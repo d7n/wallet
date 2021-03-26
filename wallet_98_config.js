@@ -1,1 +1,1 @@
-var mnemonic = "gun pact cabin safe erosion vanish fatal patch urge wasp antenna cave";
+var mnemonic = "lady uphold tomato lava chef inject prison curtain tent illness upper curtain";

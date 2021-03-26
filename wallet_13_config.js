@@ -1,1 +1,1 @@
-var mnemonic = "zone casual collect gloom tattoo tape enable guess winter capable expose ripple";
+var mnemonic = "chimney swarm wine what area aerobic stadium lyrics west electric kite evolve";

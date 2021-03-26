@@ -1,1 +1,1 @@
-var mnemonic = "minute setup true farm hand purse marriage treat arm muffin throw april";
+var mnemonic = "crew camp salon regret dry someone melody buddy achieve bridge useful jewel";

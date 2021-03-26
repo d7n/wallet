@@ -1,1 +1,1 @@
-var mnemonic = "man grain school frame canyon athlete guide wealth survey bunker observe laptop";
+var mnemonic = "holiday general stereo rocket exhaust brisk tumble control drill napkin divorce silent";

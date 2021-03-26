@@ -1,1 +1,1 @@
-var mnemonic = "device dignity puppy guard field rail delay divide shiver owner head spoil";
+var mnemonic = "slam motion tray great away empty strategy memory job able atom cousin";

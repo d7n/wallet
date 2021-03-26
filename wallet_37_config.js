@@ -1,1 +1,1 @@
-var mnemonic = "vessel match foot group thrive six device vicious liquid weather service second";
+var mnemonic = "frame festival change index humble wide sausage reunion panic cluster verify night";

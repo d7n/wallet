@@ -1,1 +1,1 @@
-var mnemonic = "trash crater exercise medal crane submit happy reward wolf join phone captain";
+var mnemonic = "meadow slim pottery nice into usual chase swing radar glory brand bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "master guide try grit funny shell domain sell update turtle welcome inspire";
+var mnemonic = "basket snap odor attract useful glass burger moment pig boring decide unveil";

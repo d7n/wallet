@@ -1,1 +1,1 @@
-var mnemonic = "dynamic inspire struggle vintage high pink tank can current vapor rapid peanut";
+var mnemonic = "shoulder exist video vacant tenant begin consider frog build artefact virtual route";

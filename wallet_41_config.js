@@ -1,1 +1,1 @@
-var mnemonic = "bacon impact account winter glue guitar camp soup ceiling close chronic surprise";
+var mnemonic = "clinic neck damp skate ignore achieve dish neck leader assault snake avocado";

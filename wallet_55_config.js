@@ -1,1 +1,1 @@
-var mnemonic = "knock tail cry rebuild receive minor amazing sword quality tag lab true";
+var mnemonic = "swim slender primary wisdom keen blind next detail throw payment habit plunge";

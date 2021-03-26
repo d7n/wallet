@@ -1,1 +1,1 @@
-var mnemonic = "census music great mango cruise casual vapor salmon detect duck snap marriage";
+var mnemonic = "monster hire slight start civil ketchup artist profit unhappy remain comfort announce";

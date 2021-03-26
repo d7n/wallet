@@ -1,1 +1,1 @@
-var mnemonic = "slim axis sing fault exotic wing manual yard december right busy burden";
+var mnemonic = "laptop brief can brief what fire celery shield pen knife island urge";

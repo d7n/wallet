@@ -1,1 +1,1 @@
-var mnemonic = "expire embark add act genuine dice weird denial detail angry fossil faculty";
+var mnemonic = "shop chat taste peace snack dentist upon apple valid camera about input";

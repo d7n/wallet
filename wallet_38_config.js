@@ -1,1 +1,1 @@
-var mnemonic = "scheme bike electric south earn suffer position clog refuse net gospel worth";
+var mnemonic = "typical diesel person lion river link wall angle grape shallow differ train";

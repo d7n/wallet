@@ -1,1 +1,1 @@
-var mnemonic = "age steak laugh milk outer blue ridge repeat loyal bleak annual frost";
+var mnemonic = "faculty ladder shoe away shoulder example valid hurdle basic illegal ghost volume";

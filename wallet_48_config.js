@@ -1,1 +1,1 @@
-var mnemonic = "still print bulb salute debris review sun nut version seat leg hollow";
+var mnemonic = "fee major host cause night trap never machine flight tragic century thunder";

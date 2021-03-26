@@ -1,1 +1,1 @@
-var mnemonic = "tone brick item interest olympic tree coral lift dragon zoo element goddess";
+var mnemonic = "regret crystal rapid swamp witness meadow wood strategy winner fluid cricket word";

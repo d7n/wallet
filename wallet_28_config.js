@@ -1,1 +1,1 @@
-var mnemonic = "wagon wide undo armed august wing spot switch credit length install laundry";
+var mnemonic = "ice add easy favorite bird youth turkey what unlock want flower match";

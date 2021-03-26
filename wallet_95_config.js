@@ -1,1 +1,1 @@
-var mnemonic = "abstract hammer buyer into effort monster tooth sick uncover lava balcony slab";
+var mnemonic = "marine firm moral cradle congress cactus stadium leader quantum section suffer screen";

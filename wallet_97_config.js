@@ -1,1 +1,1 @@
-var mnemonic = "ripple entry cargo skirt accident cup circle ten wave behave wealth work";
+var mnemonic = "color budget surge cause rebuild swim mistake member receive hand dune bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "add appear nest dash bind base maple border close rhythm speed onion";
+var mnemonic = "sheriff bounce review analyst rubber ribbon clerk extra nasty dirt body split";

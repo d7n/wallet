@@ -1,1 +1,1 @@
-var mnemonic = "endorse chaos cry pill moment panda opera they lens law lottery crouch";
+var mnemonic = "impose solve oblige hybrid define parrot dinosaur speak dolphin horror satoshi voyage";

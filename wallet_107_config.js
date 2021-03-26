@@ -1,1 +1,1 @@
-var mnemonic = "design coil praise slide alter sponsor sibling million bacon gain release crumble";
+var mnemonic = "clap deposit light cotton length hollow beef nominee license elbow material erupt";

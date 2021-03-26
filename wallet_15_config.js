@@ -1,1 +1,1 @@
-var mnemonic = "pottery morning must ancient tuition hood quiz midnight fossil special tribe soldier";
+var mnemonic = "begin agent super choice win kitten hollow cup fog squeeze act limit";

@@ -1,1 +1,1 @@
-var mnemonic = "now brisk aisle twin extend claw library blue invite belt stomach actual";
+var mnemonic = "joy album chest online treat olive solar silly quick print pudding plate";

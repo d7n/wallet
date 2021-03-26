@@ -1,1 +1,1 @@
-var mnemonic = "hurdle swarm walk anger silly current audit glare object lend point cloud";
+var mnemonic = "reveal injury shuffle surge near human hedgehog very umbrella initial method stool";

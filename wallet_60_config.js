@@ -1,1 +1,1 @@
-var mnemonic = "depart acid eight undo dizzy document anxiety light roast similar december drive";
+var mnemonic = "sunset jelly garage giant fantasy chuckle battle diesel tobacco music indoor aspect";

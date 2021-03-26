@@ -1,1 +1,1 @@
-var mnemonic = "suspect dirt source text awake mail laundry roof become bike action express";
+var mnemonic = "transfer embody teach silver diet olympic ribbon torch rug naive tower move";

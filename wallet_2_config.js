@@ -1,1 +1,1 @@
-var mnemonic = "scatter oil kiss account sail group trick clarify language midnight apology fix";
+var mnemonic = "south clever emerge project laptop month mask minimum palace matrix barely glue";

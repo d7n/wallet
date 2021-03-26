@@ -1,1 +1,1 @@
-var mnemonic = "truly blade change cattle topple surprise actress face fetch lawsuit vapor light";
+var mnemonic = "honey arena rate tape sense cancel dove radio service swarm poem bulk";

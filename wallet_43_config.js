@@ -1,1 +1,1 @@
-var mnemonic = "cigar holiday emotion debate much leader dose few junk scissors execute current";
+var mnemonic = "possible bike current brown annual reveal casual destroy fox body dizzy fame";

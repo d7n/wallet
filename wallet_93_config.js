@@ -1,1 +1,1 @@
-var mnemonic = "merge renew pride fine parent near excite jar jacket helmet urban stock";
+var mnemonic = "three aerobic boost admit cup grab loyal blouse noise bind ship spike";

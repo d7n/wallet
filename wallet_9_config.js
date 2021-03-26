@@ -1,1 +1,1 @@
-var mnemonic = "bulb term stage unveil edit plastic rapid bachelor tunnel twice praise flock";
+var mnemonic = "pink gate baby enlist elegant fluid abandon rough kiwi shadow tragic enroll";

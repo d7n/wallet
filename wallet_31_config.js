@@ -1,1 +1,1 @@
-var mnemonic = "now label sand flag panda spike word little clean develop ocean come";
+var mnemonic = "student double talent lift coffee swallow luggage ahead inner gauge response maximum";

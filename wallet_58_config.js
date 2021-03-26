@@ -1,1 +1,1 @@
-var mnemonic = "inform echo dial tennis swap trumpet hero trap language say access trend";
+var mnemonic = "proud snap book monitor pottery general address ecology juice order fluid pepper";

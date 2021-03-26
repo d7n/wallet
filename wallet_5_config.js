@@ -1,1 +1,1 @@
-var mnemonic = "olive girl method junior tortoise tobacco equal bomb jazz flame party olympic";
+var mnemonic = "breeze hover utility mind clutch bless join busy soul trigger wear love";

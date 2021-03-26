@@ -1,1 +1,1 @@
-var mnemonic = "pupil circle interest bacon stable noodle health smooth profit snap hockey hat";
+var mnemonic = "brother deny obey black deposit need core acquire old rose country scissors";

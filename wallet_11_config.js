@@ -1,1 +1,1 @@
-var mnemonic = "exit gap squirrel donkey mandate often imitate leave earn sand spring credit";
+var mnemonic = "fold hollow weather outside aunt guide pole security garden grain ankle elder";

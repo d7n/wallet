@@ -1,1 +1,1 @@
-var mnemonic = "habit salad inject bullet vocal foot boost only cereal famous exchange sheriff";
+var mnemonic = "melody edit learn unaware mother copper antique ski tragic nerve fancy bicycle";

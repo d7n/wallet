@@ -1,1 +1,1 @@
-var mnemonic = "acquire flip ridge weather flee evil correct stereo ride attitude reflect reason";
+var mnemonic = "sentence film voyage move bunker swing drive same jealous cement corn horror";

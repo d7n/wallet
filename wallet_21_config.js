@@ -1,1 +1,1 @@
-var mnemonic = "animal elder sword luggage salute trophy night jealous minute twenty engage logic";
+var mnemonic = "blame salute weekend age soft response sell latin once soap luxury relax";

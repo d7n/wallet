@@ -1,1 +1,1 @@
-var mnemonic = "wheel test found across hope army mean crew suit timber case spike";
+var mnemonic = "bind border upper issue frost craft museum strike liberty spare awesome miss";

@@ -1,1 +1,1 @@
-var mnemonic = "review wish inch jelly region trigger hip win diamond sea embrace priority";
+var mnemonic = "surround silent expect minor pluck people recall negative remind inflict clerk arrow";

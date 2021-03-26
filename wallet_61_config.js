@@ -1,1 +1,1 @@
-var mnemonic = "sketch combine garment hollow stuff shadow fee spell mother pool tide mule";
+var mnemonic = "raccoon marble side tortoise cram reunion repeat polar demand sting purpose lecture";

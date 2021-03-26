@@ -1,1 +1,1 @@
-var mnemonic = "punch execute cinnamon fatigue latin random online exit virtual nothing sword emerge";
+var mnemonic = "kangaroo kitchen state collect follow come sudden era actress harvest metal huge";

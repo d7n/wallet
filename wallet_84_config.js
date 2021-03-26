@@ -1,1 +1,1 @@
-var mnemonic = "swap door item notice brush auto sense guitar year grain into table";
+var mnemonic = "truly film mobile hour fee trim bottom easily wall tank trust sadness";

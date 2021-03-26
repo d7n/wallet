@@ -1,1 +1,1 @@
-var mnemonic = "portion weekend torch punch frame rail music mask walnut make pet toward";
+var mnemonic = "unfold beef artwork forum march cloud pilot boy cross palm inform hover";

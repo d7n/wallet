@@ -1,1 +1,1 @@
-var mnemonic = "heart monster neutral load knife syrup awesome knee vessel element suspect husband";
+var mnemonic = "people execute daughter home produce circle skull adjust crisp shop planet easy";

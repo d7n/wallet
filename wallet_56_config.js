@@ -1,1 +1,1 @@
-var mnemonic = "delay reject traffic galaxy capital grab popular smile modify wild glow curious";
+var mnemonic = "canyon tomato fever they quick quality enjoy place book call dish craft";

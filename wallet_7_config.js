@@ -1,1 +1,1 @@
-var mnemonic = "slush belt decide sausage scrub dizzy mystery secret stove reward truth enforce";
+var mnemonic = "party vicious dutch exhaust library argue trim genuine midnight potato honey solution";

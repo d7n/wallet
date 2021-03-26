@@ -1,1 +1,1 @@
-var mnemonic = "valve fruit way ketchup bundle boring make program success reopen atom combine";
+var mnemonic = "exact fish trophy switch blade stove gentle market tiny whale output kiss";

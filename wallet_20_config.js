@@ -1,1 +1,1 @@
-var mnemonic = "spoon label random father ritual cinnamon frown welcome similar involve sibling latin";
+var mnemonic = "agent safe almost strong outside client wisdom unfold later cry six emerge";

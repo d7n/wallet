@@ -1,1 +1,1 @@
-var mnemonic = "empower joy exotic dog burger happy furnace run injury forward autumn phrase";
+var mnemonic = "stairs demise swift regular brief order detail near nerve nut dumb penalty";

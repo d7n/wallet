@@ -1,1 +1,1 @@
-var mnemonic = "slide journey common spawn pipe source oblige stomach traffic ancient broom chase";
+var mnemonic = "carbon orchard narrow custom say cloth risk glue upper project expand belt";

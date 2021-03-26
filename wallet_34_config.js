@@ -1,1 +1,1 @@
-var mnemonic = "merit wear setup enact rich dog diamond enter artist coral budget wisdom";
+var mnemonic = "milk virus fruit inject pupil poem raw fatal naive catalog world parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "extra best leg allow success village jewel symptom token heart under test";
+var mnemonic = "avoid elder solve unveil spoil venture hour hammer kidney vague speak table";

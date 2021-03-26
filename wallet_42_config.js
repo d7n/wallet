@@ -1,1 +1,1 @@
-var mnemonic = "bamboo glory oil luxury brisk honey slide ancient level grocery shrug forum";
+var mnemonic = "shrimp attitude auto drift gaze online cat universe decorate critic ticket endorse";

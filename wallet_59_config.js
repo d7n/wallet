@@ -1,1 +1,1 @@
-var mnemonic = "session skirt maximum use drip wise mother spare bean orange bench velvet";
+var mnemonic = "wonder symptom napkin notable neutral left rapid sorry suggest cat december scorpion";

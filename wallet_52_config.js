@@ -1,1 +1,1 @@
-var mnemonic = "winter segment boat they maze trip upon minor wide type human affair";
+var mnemonic = "loud fee dignity cram judge crop calm clog destroy light key happy";
