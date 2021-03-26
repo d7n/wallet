@@ -1,1 +1,1 @@
-var mnemonic = "garlic space second box wild avocado cover pig dutch mixed borrow magnet";
+var mnemonic = "hip grow segment kick swarm family live divorce grit put pill whip";

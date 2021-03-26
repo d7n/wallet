@@ -1,1 +1,1 @@
-var mnemonic = "escape bag demand clock concert banner prosper issue mystery odor next tape";
+var mnemonic = "sign misery grid renew detect giggle nerve leisure stick diagram stone kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "field rabbit student abstract pioneer magic fire copy puzzle strong wife web";
+var mnemonic = "hello upset unknown rural veteran economy oven unit miracle indoor camp torch";

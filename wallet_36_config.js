@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sunset rely glare oyster nasty wave razor silent royal museum poet";
+var mnemonic = "daughter cloud match that vibrant tilt plunge math bread bamboo region opinion";

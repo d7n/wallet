@@ -1,1 +1,1 @@
-var mnemonic = "sudden acid enable direct melody segment hat able job bicycle hurt hip";
+var mnemonic = "ostrich happy cable flash multiply legal news genre doctor toe mountain tape";

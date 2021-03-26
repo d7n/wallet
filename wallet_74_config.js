@@ -1,1 +1,1 @@
-var mnemonic = "trash photo sun milk security shrug rebel design layer clerk salad verify";
+var mnemonic = "rapid prison jeans fiction romance pencil alert basket reflect panic charge define";

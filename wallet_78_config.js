@@ -1,1 +1,1 @@
-var mnemonic = "mule naive rather cook vanish insect goat poverty impulse interest setup adapt";
+var mnemonic = "bench random oven mercy fatal tissue antenna liar juice voyage wedding velvet";

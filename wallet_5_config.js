@@ -1,1 +1,1 @@
-var mnemonic = "poet auto wet glory artwork taxi card impact swear you endorse sentence";
+var mnemonic = "jelly lonely nice paper motion admit grunt exist eight clip wire rubber";

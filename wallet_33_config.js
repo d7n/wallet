@@ -1,1 +1,1 @@
-var mnemonic = "cream case zone giant shoot inflict coin bargain vapor slice multiply unusual";
+var mnemonic = "radar balcony close rival wreck joke elite hub coach pretty drum fiber";

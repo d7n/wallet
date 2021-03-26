@@ -1,1 +1,1 @@
-var mnemonic = "quote narrow science fat energy buffalo inherit interest risk extend sound switch";
+var mnemonic = "pen electric call divorce able light staff breeze digital cheap twice crime";

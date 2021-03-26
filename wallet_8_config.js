@@ -1,1 +1,1 @@
-var mnemonic = "basket garage spend basic width soul body knee library noise topple chunk";
+var mnemonic = "evolve maid scan rain noise burst rural leaf dignity artist muscle spare";

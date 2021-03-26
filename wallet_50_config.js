@@ -1,1 +1,1 @@
-var mnemonic = "dinner basic test grunt equal reopen clerk crystal farm child decorate syrup";
+var mnemonic = "before earth curious chuckle supreme prepare host key wink control river buddy";

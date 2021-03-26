@@ -1,1 +1,1 @@
-var mnemonic = "matter later source seat skate bag assist brother young please word yard";
+var mnemonic = "beef seed try erupt relief grass cry excess february crucial tail embark";

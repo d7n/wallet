@@ -1,1 +1,1 @@
-var mnemonic = "sniff oven benefit peasant pipe final trust live enable replace utility relief";
+var mnemonic = "error parrot upper theory shoulder differ coach planet donor glass carbon elite";

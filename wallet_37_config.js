@@ -1,1 +1,1 @@
-var mnemonic = "acquire wait news news aware equal excite pizza current assault hope sausage";
+var mnemonic = "peace clown own logic title crawl biology bubble quarter stock pledge increase";

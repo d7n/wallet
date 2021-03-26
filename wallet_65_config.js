@@ -1,1 +1,1 @@
-var mnemonic = "hammer main embody cabin mail track gallery top chief couch broom coach";
+var mnemonic = "quote ready scatter choose barrel cheese glove saddle source pride false patrol";

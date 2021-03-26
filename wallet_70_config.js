@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wealth flat cruise small palace wink acoustic noodle tank trouble knock";
+var mnemonic = "season mixed carry gorilla hotel lift diagram carry recall parent never hair";

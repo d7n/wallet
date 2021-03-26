@@ -1,1 +1,1 @@
-var mnemonic = "rug admit decrease evil practice ginger trust case dream subway permit smart";
+var mnemonic = "help amateur attitude pear illegal razor bulb vapor critic depend recall promote";

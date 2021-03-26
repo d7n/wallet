@@ -1,1 +1,1 @@
-var mnemonic = "novel behave base hidden anger spawn vapor clip pond they bring divert";
+var mnemonic = "allow theme salon unknown cheap wrestle text grain issue mail position swear";

@@ -1,1 +1,1 @@
-var mnemonic = "match result food smoke balcony identify sort flat awkward saddle bargain multiply";
+var mnemonic = "staff cash piece runway science master blossom dumb old token pole giggle";

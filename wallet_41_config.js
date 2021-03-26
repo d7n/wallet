@@ -1,1 +1,1 @@
-var mnemonic = "rally twist someone edit local piano never citizen nature great you rich";
+var mnemonic = "seed artefact wait air trouble traffic clutch garlic produce frequent quiz now";

@@ -1,1 +1,1 @@
-var mnemonic = "until town rose calm angle final protect law sponsor trick luggage add";
+var mnemonic = "banner sketch amount please index flock injury swap basic outside invite recall";

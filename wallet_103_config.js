@@ -1,1 +1,1 @@
-var mnemonic = "door wink border canal stage wait inner admit fold guilt nerve visual";
+var mnemonic = "tired domain year scout object win modify approve ethics ill resource song";

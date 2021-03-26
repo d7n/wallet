@@ -1,1 +1,1 @@
-var mnemonic = "iron example wish stool question salute sail whale decrease refuse record stairs";
+var mnemonic = "lobster tag ask cute brief chuckle cram surge royal sponsor first inherit";

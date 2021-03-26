@@ -1,1 +1,1 @@
-var mnemonic = "cradle egg paddle diary client hope pretty anxiety census material grunt tackle";
+var mnemonic = "rapid judge lonely tourist turn file scout guess gate bread recall victory";

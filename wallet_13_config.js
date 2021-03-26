@@ -1,1 +1,1 @@
-var mnemonic = "isolate talent humble spatial medal common dog clinic foil ethics donor ripple";
+var mnemonic = "token shaft drip flight raven pen supply cherry original valve stem language";

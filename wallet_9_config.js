@@ -1,1 +1,1 @@
-var mnemonic = "voice track misery pact trip payment oil blind reward charge false prison";
+var mnemonic = "view tobacco main vibrant dust bacon view ranch toss city odor first";

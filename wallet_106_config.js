@@ -1,1 +1,1 @@
-var mnemonic = "young simple snow already ivory remember place boost file cook project worry";
+var mnemonic = "gorilla door alarm giggle special wood primary damage fish weasel aware crack";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil hand error wool orbit year lounge salad canoe crawl stick giraffe";
+var mnemonic = "case wife bomb ensure warrior title drop corn boy toe defy engage";

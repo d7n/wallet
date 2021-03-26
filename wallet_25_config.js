@@ -1,1 +1,1 @@
-var mnemonic = "practice dwarf sing jealous heavy hello insane pledge bright shaft chest wait";
+var mnemonic = "twice wash cross hobby craft mean unfair talent record twelve eagle check";

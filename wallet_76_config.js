@@ -1,1 +1,1 @@
-var mnemonic = "memory adapt tornado project fold great merge mesh wrestle issue stumble lab";
+var mnemonic = "material student sock walnut exact artist bid taste clutch hawk social vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "brush mystery artefact flip essence radio panic street faculty insane setup ivory";
+var mnemonic = "distance choice pioneer genuine alarm clip front winner horse one always phone";

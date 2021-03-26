@@ -1,1 +1,1 @@
-var mnemonic = "chronic holiday nephew toilet jazz kitchen find prosper kid helmet destroy blind";
+var mnemonic = "course high educate hurdle sweet seed member supply possible obey model strike";

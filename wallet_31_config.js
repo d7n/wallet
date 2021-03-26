@@ -1,1 +1,1 @@
-var mnemonic = "senior two brush warrior wreck undo outside reopen wasp loop other rain";
+var mnemonic = "sting orphan script rose other public hard depend sweet copper spirit blade";

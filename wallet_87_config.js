@@ -1,1 +1,1 @@
-var mnemonic = "demise chaos swap trick fatigue hotel joke rough such section connect predict";
+var mnemonic = "loan wreck amateur point sleep leisure harbor hunt innocent slogan army asthma";

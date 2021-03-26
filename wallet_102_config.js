@@ -1,1 +1,1 @@
-var mnemonic = "upgrade will vacant welcome lounge borrow monster width tag old tool people";
+var mnemonic = "gadget develop salon access quarter beyond jungle festival rocket public attract garbage";

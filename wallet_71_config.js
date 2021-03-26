@@ -1,1 +1,1 @@
-var mnemonic = "emerge scout denial feel shiver humble artefact upon glue awake lecture thank";
+var mnemonic = "fly top neck high few predict cat false hurry harsh wait avoid";

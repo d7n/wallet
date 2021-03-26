@@ -1,1 +1,1 @@
-var mnemonic = "sadness cruel provide sudden ethics ill theme resist oppose exist brisk venue";
+var mnemonic = "today garage chicken repair trick chaos baby lizard noise twist relief begin";

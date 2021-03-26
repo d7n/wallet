@@ -1,1 +1,1 @@
-var mnemonic = "member kiwi huge tissue walk van have lend pioneer custom water prison";
+var mnemonic = "city collect tool carbon goddess auction satoshi plunge decorate poverty acquire lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "capital ring turn elder lemon crouch crystal ticket educate soldier vital disease";
+var mnemonic = "ticket dragon endorse tuna history organ resemble asset retire food adult exit";

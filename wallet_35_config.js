@@ -1,1 +1,1 @@
-var mnemonic = "mother mom hire swim sun glare blood outside innocent poem arctic unable";
+var mnemonic = "afraid brass dwarf code one zoo stove seek vehicle drift rent alarm";

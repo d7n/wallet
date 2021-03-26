@@ -1,1 +1,1 @@
-var mnemonic = "laugh amount river choose fit harvest economy flavor tribe yellow universe tornado";
+var mnemonic = "gentle rose must glue sudden leader rifle warrior powder mansion banner puppy";

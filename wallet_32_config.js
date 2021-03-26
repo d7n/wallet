@@ -1,1 +1,1 @@
-var mnemonic = "ceiling judge know patch borrow soft prepare where corn mimic empty ribbon";
+var mnemonic = "salad solid never taxi such owner noble skull diagram uncle category season";

@@ -1,1 +1,1 @@
-var mnemonic = "square walnut decline notice uncover supreme goose modify cupboard merge ring claim";
+var mnemonic = "option member where shrug injury bunker quote worry onion razor lottery cactus";

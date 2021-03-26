@@ -1,1 +1,1 @@
-var mnemonic = "slim have gift mountain skin pilot bachelor capable walnut romance parade kiss";
+var mnemonic = "brave bargain census benefit demise gas apart pet depend wear story correct";

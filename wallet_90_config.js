@@ -1,1 +1,1 @@
-var mnemonic = "slender slab prevent impose thumb drama group foster mom knee prepare surge";
+var mnemonic = "spatial timber wife pony gym injury shock similar wave wall account soldier";

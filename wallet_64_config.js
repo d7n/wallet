@@ -1,1 +1,1 @@
-var mnemonic = "ranch bicycle sunset invest milk major squeeze dream van private blade either";
+var mnemonic = "chase explain tissue north mix latin banana arch slice shallow remove loyal";

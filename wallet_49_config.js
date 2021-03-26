@@ -1,1 +1,1 @@
-var mnemonic = "next cool spell modify leg recipe soft lunar winner street cake dove";
+var mnemonic = "exotic strong meadow deposit february vital employ alley try combine room witness";

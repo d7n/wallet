@@ -1,1 +1,1 @@
-var mnemonic = "input enjoy legal response adult rebel space frost item urban person mention";
+var mnemonic = "rigid tuition else mule west voice unfair album utility open swift true";

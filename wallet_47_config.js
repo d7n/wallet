@@ -1,1 +1,1 @@
-var mnemonic = "frozen street supreme current rain scare humble small long village reward double";
+var mnemonic = "antique frog marine card genius turkey expect chapter split brand proud media";

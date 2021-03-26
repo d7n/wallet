@@ -1,1 +1,1 @@
-var mnemonic = "budget deny matter lion pudding gentle lawn manage runway rebuild seek sail";
+var mnemonic = "recipe sign animal bulb earn saddle walnut gym hint win accuse civil";

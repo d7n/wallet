@@ -1,1 +1,1 @@
-var mnemonic = "gorilla harvest cook equal oval obey stick vivid muscle glory rhythm gallery";
+var mnemonic = "balance erupt neither air flower unit divert regular agent situate cycle cover";

@@ -1,1 +1,1 @@
-var mnemonic = "topic dress upgrade raw grab turkey easy elegant siege random loud link";
+var mnemonic = "donate year more surge better deal pattern excess jazz merge off zone";

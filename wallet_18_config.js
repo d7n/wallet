@@ -1,1 +1,1 @@
-var mnemonic = "solar latin despair execute grape cousin follow again dwarf tide accident blanket";
+var mnemonic = "sketch net talent tomorrow artist abuse license dirt inherit hurt faint resemble";

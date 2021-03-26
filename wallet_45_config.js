@@ -1,1 +1,1 @@
-var mnemonic = "detail effort floor demand interest liquid hamster trouble exist mind swift inform";
+var mnemonic = "river emerge shift potato wife disease melody timber today parent square dynamic";

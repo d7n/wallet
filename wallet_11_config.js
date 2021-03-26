@@ -1,1 +1,1 @@
-var mnemonic = "puzzle egg devote chair gold fork pioneer there saddle inner radio twist";
+var mnemonic = "lecture ancient west about market trumpet ordinary obvious tennis body any era";

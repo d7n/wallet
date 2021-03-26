@@ -1,1 +1,1 @@
-var mnemonic = "trouble exclude cherry myth climb example dumb high adapt space hawk mouse";
+var mnemonic = "yard shed antenna little suit abandon situate notable adjust insect blind stove";

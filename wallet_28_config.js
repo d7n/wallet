@@ -1,1 +1,1 @@
-var mnemonic = "hire habit exclude metal issue apology museum awesome around pelican above danger";
+var mnemonic = "mushroom fever state seek saddle warm walk bachelor ancient lottery rule expand";

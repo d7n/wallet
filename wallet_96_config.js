@@ -1,1 +1,1 @@
-var mnemonic = "nest glimpse coconut spray garlic hill exist frame surprise member cotton slice";
+var mnemonic = "brick stick asset bike finger buddy crane social goddess initial dragon stem";

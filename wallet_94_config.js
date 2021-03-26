@@ -1,1 +1,1 @@
-var mnemonic = "lift vintage kitchen champion arch enough chase pear radar time hamster remember";
+var mnemonic = "mean penalty pottery heart emerge problem destroy hello project axis police warrior";

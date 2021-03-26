@@ -1,1 +1,1 @@
-var mnemonic = "paper forget erupt grass silly kiss ancient salt junk almost sound face";
+var mnemonic = "fossil debris maple make during stick visit point arrange cliff wink borrow";

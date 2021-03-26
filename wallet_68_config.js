@@ -1,1 +1,1 @@
-var mnemonic = "dynamic cradle force winter chimney escape blind certain today crucial decade voice";
+var mnemonic = "hole coral thrive shy inquiry hover moral brisk course salon version ring";

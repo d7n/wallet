@@ -1,1 +1,1 @@
-var mnemonic = "grunt diet impulse furnace game potato sand parrot sun judge inch swear";
+var mnemonic = "damage expect crystal satisfy coconut life record muscle resemble later shift smart";

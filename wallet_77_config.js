@@ -1,1 +1,1 @@
-var mnemonic = "ticket engage three borrow find youth there minimum grant ahead balance ribbon";
+var mnemonic = "lamp sort kit midnight angry original rubber still retreat sing private ginger";

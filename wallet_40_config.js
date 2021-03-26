@@ -1,1 +1,1 @@
-var mnemonic = "gentle apple wreck jelly friend edge display leisure digital surround essay diet";
+var mnemonic = "demand dinosaur wave meat barely salmon cage surround decrease tag essence winner";

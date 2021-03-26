@@ -1,1 +1,1 @@
-var mnemonic = "key swarm return path swing spin hen metal kid crime job member";
+var mnemonic = "bleak flag similar card entire keen board chest prepare ranch brown cup";

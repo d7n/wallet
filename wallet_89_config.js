@@ -1,1 +1,1 @@
-var mnemonic = "journey estate monitor allow obtain culture stuff ahead dice crack book swift";
+var mnemonic = "draw story song dust wreck provide salon motor mirror scout latin prison";

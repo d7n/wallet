@@ -1,1 +1,1 @@
-var mnemonic = "taste ketchup humor crop ahead title blood pause method visual fiction legal";
+var mnemonic = "helmet kite card piano renew vacuum spike increase enter club brass artefact";

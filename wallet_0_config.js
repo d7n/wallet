@@ -1,1 +1,1 @@
-var mnemonic = "drama similar grunt trim glove ordinary slide pride spray cupboard fancy area";
+var mnemonic = "sad olive visa bubble oblige early prize tissue since wait lumber rebel";

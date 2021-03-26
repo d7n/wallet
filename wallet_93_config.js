@@ -1,1 +1,1 @@
-var mnemonic = "purpose wrist maid office welcome visa near scatter ship own jazz move";
+var mnemonic = "shove height fiscal hour toilet bullet uncle subway erupt attitude program mechanic";

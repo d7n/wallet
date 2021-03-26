@@ -1,1 +1,1 @@
-var mnemonic = "airport casino consider debris harsh office parrot abstract initial supreme jeans coral";
+var mnemonic = "lift true coin oppose average river kit liquid basket mansion feed expand";

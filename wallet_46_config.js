@@ -1,1 +1,1 @@
-var mnemonic = "fun crouch company shed quarter tent negative build bomb minor argue pride";
+var mnemonic = "wisdom snake radio section open chef side monster skate pair myth govern";

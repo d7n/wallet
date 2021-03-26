@@ -1,1 +1,1 @@
-var mnemonic = "about furnace invest peanut alien twenty winner erupt wish urban interest before";
+var mnemonic = "useless west panel strong boil peanut embody total hero little ill poet";

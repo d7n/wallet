@@ -1,1 +1,1 @@
-var mnemonic = "mosquito jeans perfect injury old today scrap knife history domain arctic carry";
+var mnemonic = "become day clump transfer impulse cram cancel pyramid avoid nation design alter";

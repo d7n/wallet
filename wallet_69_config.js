@@ -1,1 +1,1 @@
-var mnemonic = "found science wise tired also injury clerk card eagle cousin churn fuel";
+var mnemonic = "amused plate turtle myself scorpion garlic illegal spray shadow lunch erosion primary";

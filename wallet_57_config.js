@@ -1,1 +1,1 @@
-var mnemonic = "grab they cannon help box surprise seminar document cargo equip review south";
+var mnemonic = "able rely swing reduce muscle identify winter tired travel ice lens scrub";

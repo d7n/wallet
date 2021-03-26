@@ -1,1 +1,1 @@
-var mnemonic = "remember ring donate square round addict interest black soap base scale inhale";
+var mnemonic = "resource trip custom rather nerve planet dad rocket salad leader snack proof";

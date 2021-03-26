@@ -1,1 +1,1 @@
-var mnemonic = "mountain seven forest hint gaze initial polar essay utility copper plunge stamp";
+var mnemonic = "alarm cruel labor start snow okay habit lazy boost focus disagree core";

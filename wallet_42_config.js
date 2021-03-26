@@ -1,1 +1,1 @@
-var mnemonic = "face hole multiply visual same noodle click castle scrub dice grant cram";
+var mnemonic = "angle mixture slam guess level roof soon menu risk wolf lake merit";

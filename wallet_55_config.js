@@ -1,1 +1,1 @@
-var mnemonic = "coyote hire basket neglect across minimum fruit make any chase scorpion ice";
+var mnemonic = "bar deputy cloud during inject miss cloth jeans elephant disease ripple similar";

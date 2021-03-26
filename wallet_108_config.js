@@ -1,1 +1,1 @@
-var mnemonic = "hotel forget input network affair teach picture depart write case twist angry";
+var mnemonic = "february drop taste rapid wrestle fantasy grab rescue symbol elite brother issue";

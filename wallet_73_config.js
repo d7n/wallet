@@ -1,1 +1,1 @@
-var mnemonic = "myself keep melt vessel skull dolphin omit fix beauty iron wedding cool";
+var mnemonic = "hungry hospital laptop coral quick run entry reform trash crunch humble robot";

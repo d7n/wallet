@@ -1,1 +1,1 @@
-var mnemonic = "burden zone click anger concert anxiety absurd series escape between spread seven";
+var mnemonic = "angle wave foam solve orbit album auction brain legend post noise hen";

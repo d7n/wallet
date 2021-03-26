@@ -1,1 +1,1 @@
-var mnemonic = "gold wife goose blood zero nephew tool cheese drastic eager excuse promote";
+var mnemonic = "gallery party talent collect quit pet confirm use little letter when echo";

@@ -1,1 +1,1 @@
-var mnemonic = "social crime admit sketch prison cherry isolate decrease economy whale dilemma permit";
+var mnemonic = "review gentle small key census visit move young ripple civil weather pudding";
