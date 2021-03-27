@@ -1,1 +1,1 @@
-var mnemonic = "question fiscal light final segment dignity comfort project dream useful void jar";
+var mnemonic = "zone wear foam vocal jealous rural toss awake pair anchor page rebel";

@@ -1,1 +1,1 @@
-var mnemonic = "village fade stadium fetch prize bind shine odor badge angry rebel fine";
+var mnemonic = "guess peanut warfare hospital fan kiwi immense lock jar front sausage special";

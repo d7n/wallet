@@ -1,1 +1,1 @@
-var mnemonic = "own tail pen mouse sadness chunk purchase inner swamp about mistake summer";
+var mnemonic = "fantasy gift club error bone oven notice champion race pair banner amateur";

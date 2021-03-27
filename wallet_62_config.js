@@ -1,1 +1,1 @@
-var mnemonic = "vessel ticket motion hand victory essence manual sphere pact valve tower gap";
+var mnemonic = "sibling make express screen reduce tooth follow lumber boring reduce rifle crowd";

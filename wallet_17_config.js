@@ -1,1 +1,1 @@
-var mnemonic = "welcome soap wise fortune spoil stable minute correct remain desk error rifle";
+var mnemonic = "roast snack target common pilot corn era sauce garbage sense iron design";

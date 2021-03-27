@@ -1,1 +1,1 @@
-var mnemonic = "card hungry panic flee barrel midnight decline candy useful right embark jeans";
+var mnemonic = "doll odor defense allow perfect master erosion seat unique manage average rather";

@@ -1,1 +1,1 @@
-var mnemonic = "split royal mouse legal act have argue carbon sound sail march yellow";
+var mnemonic = "matter gasp sound happy predict matrix derive novel rule evil member strike";

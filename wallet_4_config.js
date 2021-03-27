@@ -1,1 +1,1 @@
-var mnemonic = "split home assault seat piece humble educate flame hold faculty bid possible";
+var mnemonic = "jump naive lyrics style raven place weird blast celery armor hollow pig";

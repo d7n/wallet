@@ -1,1 +1,1 @@
-var mnemonic = "wear amount interest glove super catalog rough logic van huge trash extend";
+var mnemonic = "toilet enlist cabin rib fox bitter sort track pitch anger direct result";

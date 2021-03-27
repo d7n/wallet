@@ -1,1 +1,1 @@
-var mnemonic = "million night leaf fragile delay cousin loop output daughter mass gospel bread";
+var mnemonic = "column drift slice gap near brand inform fossil neutral old bridge private";

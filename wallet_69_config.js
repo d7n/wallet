@@ -1,1 +1,1 @@
-var mnemonic = "ecology indoor quiz insane memory bunker tired host giggle soda milk cube";
+var mnemonic = "eight very diesel start zero plunge frown delay gravity slush health lucky";

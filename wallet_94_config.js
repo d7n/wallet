@@ -1,1 +1,1 @@
-var mnemonic = "tunnel bone shell crime general soul diagram era debate face little ocean";
+var mnemonic = "wisdom weekend access slow despair column charge wife sort path addict grocery";

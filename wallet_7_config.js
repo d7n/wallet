@@ -1,1 +1,1 @@
-var mnemonic = "crack submit hungry moon squirrel spirit try humor marriage fresh rebel level";
+var mnemonic = "mixture search chair foam scatter dune refuse firm flavor flavor virus bundle";

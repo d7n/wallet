@@ -1,1 +1,1 @@
-var mnemonic = "side beyond trick practice reduce dumb enhance never jump sort olympic rookie";
+var mnemonic = "guilt ribbon door hip vanish burst foil shiver riot jaguar huge grit";

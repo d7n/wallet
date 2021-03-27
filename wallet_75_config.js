@@ -1,1 +1,1 @@
-var mnemonic = "galaxy virtual various news minimum chair aisle blood say deny sphere shuffle";
+var mnemonic = "stay skin salt news include shaft hub direct excuse injury witness shadow";

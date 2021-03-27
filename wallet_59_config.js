@@ -1,1 +1,1 @@
-var mnemonic = "balance carbon mule choice creek abandon cigar dry worth best already tobacco";
+var mnemonic = "stove limit harbor situate plunge model tobacco palace finger palm clerk tell";

@@ -1,1 +1,1 @@
-var mnemonic = "proof buddy unlock horn distance tennis run crowd below spread apple minute";
+var mnemonic = "together today all endorse month blind talk voice hire talent disorder dirt";

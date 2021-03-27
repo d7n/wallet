@@ -1,1 +1,1 @@
-var mnemonic = "adapt ski shuffle vendor gentle found plastic powder minute stairs soccer two";
+var mnemonic = "banana cactus belt arrive giraffe split tomato pause lake dose payment again";

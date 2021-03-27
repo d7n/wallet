@@ -1,1 +1,1 @@
-var mnemonic = "youth conduct extend execute mango collect monster supreme supreme erode cherry worth";
+var mnemonic = "six vacuum stumble snake habit ability letter flag tongue bleak bronze idle";

@@ -1,1 +1,1 @@
-var mnemonic = "clean cool home try depend bronze eternal supreme army butter genuine donkey";
+var mnemonic = "six smart use exact detect since universe nerve loud stuff august crawl";

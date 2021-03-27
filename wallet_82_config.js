@@ -1,1 +1,1 @@
-var mnemonic = "lemon damage echo assume sail into box current blood solid rely bid";
+var mnemonic = "soda mass skirt right pair material cat broccoli market slab limb access";

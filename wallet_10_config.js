@@ -1,1 +1,1 @@
-var mnemonic = "cactus squirrel diary journey design intact pluck ask conduct cabin indoor order";
+var mnemonic = "wreck girl weasel clinic farm cigar save clip dignity average join gospel";

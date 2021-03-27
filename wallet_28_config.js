@@ -1,1 +1,1 @@
-var mnemonic = "employ tenant body strike position position obscure journey dilemma girl code agent";
+var mnemonic = "observe appear fossil upon enact sail digital face office despair afford scatter";

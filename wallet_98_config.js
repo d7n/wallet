@@ -1,1 +1,1 @@
-var mnemonic = "loan worth always easy rack snake fall protect buddy unlock engage pause";
+var mnemonic = "scatter rotate wheel kangaroo mass sun chuckle harbor fly twist midnight giggle";

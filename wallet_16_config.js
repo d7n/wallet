@@ -1,1 +1,1 @@
-var mnemonic = "sorry shine risk lend chaos wreck escape cluster popular syrup average lawsuit";
+var mnemonic = "ice people sudden cake giggle early draw find humor coach betray shallow";

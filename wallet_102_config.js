@@ -1,1 +1,1 @@
-var mnemonic = "famous dad monitor online six weird shove detail glimpse march point distance";
+var mnemonic = "tail casino manage choice spatial glory uphold ozone east glory simple caution";

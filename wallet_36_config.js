@@ -1,1 +1,1 @@
-var mnemonic = "service truly gravity deer black expose grunt disagree floor merge advice frequent";
+var mnemonic = "episode crew twin direct marriage reward alone box world nature stage result";

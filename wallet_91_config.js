@@ -1,1 +1,1 @@
-var mnemonic = "web bus veteran better cliff loan lady language cloud carry month panic";
+var mnemonic = "hand sock favorite debris era obtain agree coin pattern provide flock drip";

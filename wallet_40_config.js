@@ -1,1 +1,1 @@
-var mnemonic = "urban grief pride wage document awkward forget slab song door course width";
+var mnemonic = "exhibit type air play magic job bone throw fortune wet give hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal spatial library inherit tennis net debate critic ivory dice orphan object";
+var mnemonic = "victory essence assist mirror bulk again luxury ice situate obscure oppose marriage";

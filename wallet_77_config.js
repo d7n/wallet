@@ -1,1 +1,1 @@
-var mnemonic = "twice social dragon pen ceiling endorse relief uncover seek tackle way alert";
+var mnemonic = "tongue biology maximum clown raise envelope section neglect cook suit wear sugar";

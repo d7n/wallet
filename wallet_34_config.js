@@ -1,1 +1,1 @@
-var mnemonic = "vibrant crazy tobacco busy grass purse busy badge begin install quality unlock";
+var mnemonic = "perfect nephew flat code recall satisfy order canyon physical wave crawl frame";

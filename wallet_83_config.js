@@ -1,1 +1,1 @@
-var mnemonic = "post multiply answer safe fruit random size cube damage hello winner moral";
+var mnemonic = "adult cloth dirt glimpse all hundred still juice clog stool detail forward";

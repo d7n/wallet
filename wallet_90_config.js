@@ -1,1 +1,1 @@
-var mnemonic = "human cash mind engine evil alter afford fantasy nothing run scrub artist";
+var mnemonic = "relief daughter reveal grant shoulder permit result mix patrol achieve exact ivory";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic gown parade space forward eager nephew toy second embrace smart spray";
+var mnemonic = "clip since cliff fancy ketchup junk need connect devote sniff mango state";

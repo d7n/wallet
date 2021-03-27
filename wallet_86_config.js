@@ -1,1 +1,1 @@
-var mnemonic = "accuse poem hover romance civil title right candy oil safe body era";
+var mnemonic = "any fish atom spirit thing waste melody spike economy habit debris exotic";

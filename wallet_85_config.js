@@ -1,1 +1,1 @@
-var mnemonic = "rich vicious uphold boy face local alien narrow sweet powder badge stereo";
+var mnemonic = "pause color tail elephant guilt vocal giant echo ready family future badge";

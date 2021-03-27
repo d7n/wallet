@@ -1,1 +1,1 @@
-var mnemonic = "crop name acid rain hole tragic match expose alcohol planet business artist";
+var mnemonic = "seven demise jacket hint aerobic there rose person slogan ability type draft";

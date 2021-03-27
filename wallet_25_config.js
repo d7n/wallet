@@ -1,1 +1,1 @@
-var mnemonic = "thank summer enlist fade proof fat harbor planet random taxi gadget ancient";
+var mnemonic = "island almost monster lottery art clown someone local mix upper film method";

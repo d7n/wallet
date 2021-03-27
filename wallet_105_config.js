@@ -1,1 +1,1 @@
-var mnemonic = "second define jungle ring budget laundry earn attract monster loop fiscal answer";
+var mnemonic = "dice logic forget mail network regret document gallery lawn begin picnic quality";

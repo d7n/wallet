@@ -1,1 +1,1 @@
-var mnemonic = "youth exhaust critic cake parrot text slogan bounce know faculty best noble";
+var mnemonic = "add kind cereal smoke fetch sustain antenna believe mind drill agent whale";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma proud hand lyrics clock tag south march unhappy pink sister danger";
+var mnemonic = "submit ride derive bright message glance vast half robot lab stand squirrel";

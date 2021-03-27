@@ -1,1 +1,1 @@
-var mnemonic = "silent wolf gap level column swift crazy ski fine true timber aerobic";
+var mnemonic = "aerobic dynamic genuine obtain dignity nuclear write tuna bean easily end verb";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd notice approve music frequent hybrid modify oil quiz rose coast age";
+var mnemonic = "bright symptom kit near guitar whale swamp begin thank width stem copy";

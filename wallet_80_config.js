@@ -1,1 +1,1 @@
-var mnemonic = "yard stock brother antenna duck rubber quality open nuclear dinosaur anger goose";
+var mnemonic = "danger letter mixed eight time muffin visit deposit surprise arch screen whip";

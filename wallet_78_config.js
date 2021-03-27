@@ -1,1 +1,1 @@
-var mnemonic = "bar badge neck maple minor color begin original evil gold vital armed";
+var mnemonic = "awesome result math tape pilot weapon biology fork prefer draw next coin";

@@ -1,1 +1,1 @@
-var mnemonic = "salad resemble weapon soldier slab core allow assault author foil useless team";
+var mnemonic = "furnace unusual couch prevent shift inquiry subject fine success honey divorce weather";

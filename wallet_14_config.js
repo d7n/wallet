@@ -1,1 +1,1 @@
-var mnemonic = "today margin senior track penalty sunset onion sing whip blast tribe original";
+var mnemonic = "warfare never atom canvas bench amount eight until wealth rug stool afford";

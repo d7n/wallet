@@ -1,1 +1,1 @@
-var mnemonic = "doll boil trap happy cash minor infant kind agree focus seed awesome";
+var mnemonic = "dignity elder must cheap lion cancel quiz agent possible science plastic shiver";

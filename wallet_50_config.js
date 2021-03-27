@@ -1,1 +1,1 @@
-var mnemonic = "chapter perfect alley burger slight ability fiscal acquire rocket toy split rubber";
+var mnemonic = "private group version benefit first flash alpha success snake rely angle casino";

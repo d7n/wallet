@@ -1,1 +1,1 @@
-var mnemonic = "honey thought orchard resemble bleak buddy social flee rival enter claw cram";
+var mnemonic = "fish polar obvious man boil hello flower jealous elevator review have velvet";

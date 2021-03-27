@@ -1,1 +1,1 @@
-var mnemonic = "detail scrap leader doctor alien liar grunt innocent parent evil fetch energy";
+var mnemonic = "tribe conduct tortoise season route off frozen hunt step trick scissors pumpkin";

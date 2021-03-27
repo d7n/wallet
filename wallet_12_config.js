@@ -1,1 +1,1 @@
-var mnemonic = "toast actress certain calm trouble rough among review raw atom print tackle";
+var mnemonic = "peasant rule planet gauge tired slide into there stick oyster bargain excuse";

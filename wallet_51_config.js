@@ -1,1 +1,1 @@
-var mnemonic = "spin float treat pattern labor choose actor save credit wood immense train";
+var mnemonic = "whale chronic virus hunt medal illegal exchange level scorpion siege hat humor";

@@ -1,1 +1,1 @@
-var mnemonic = "caught quote before odor tooth host change gap poem bid humor above";
+var mnemonic = "siren client process pulp crane vast flower disorder jump salon slam sing";

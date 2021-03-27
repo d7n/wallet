@@ -1,1 +1,1 @@
-var mnemonic = "wasp blind frog uncover hold high among deny once truth donor weather";
+var mnemonic = "false extend talent access hammer glory language auto noodle consider misery peasant";

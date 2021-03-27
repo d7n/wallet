@@ -1,1 +1,1 @@
-var mnemonic = "depend try merry unknown surge chunk soup garage cheese sign prevent enlist";
+var mnemonic = "journey forum deny jump pizza silent shaft ordinary library damp you ceiling";

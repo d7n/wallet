@@ -1,1 +1,1 @@
-var mnemonic = "sustain bus vintage uniform bulk wreck police vivid round level trigger voice";
+var mnemonic = "crawl duty jewel august tower engine attack riot version athlete element depart";

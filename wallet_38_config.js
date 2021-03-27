@@ -1,1 +1,1 @@
-var mnemonic = "emerge muscle vault motor ill chunk stem raccoon effort shell fog thunder";
+var mnemonic = "logic twice cave immense cruel grape song culture settle worth common people";

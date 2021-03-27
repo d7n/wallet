@@ -1,1 +1,1 @@
-var mnemonic = "salt wool mad label opinion unit rough upon hundred caution sorry fix";
+var mnemonic = "outside diagram stone seminar close mirror mimic shed kit supply force edge";

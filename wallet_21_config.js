@@ -1,1 +1,1 @@
-var mnemonic = "catalog motion glory weekend demise city chief girl cheap hub giraffe planet";
+var mnemonic = "barely divide castle demand usual public intact essence firm rural valve pipe";

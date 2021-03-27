@@ -1,1 +1,1 @@
-var mnemonic = "canvas impact audit fantasy rural category dinosaur bronze ozone taste farm latin";
+var mnemonic = "fork vintage note sunset swear seed mercy inch fringe carbon chimney tornado";

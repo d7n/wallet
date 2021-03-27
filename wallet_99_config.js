@@ -1,1 +1,1 @@
-var mnemonic = "improve choice mixture control fog arctic carpet potato sadness field hour celery";
+var mnemonic = "helmet worth vacant require middle over uncover produce farm uniform price awkward";

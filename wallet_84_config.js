@@ -1,1 +1,1 @@
-var mnemonic = "anchor excuse lend tent pottery tribe benefit food multiply wrong worth fat";
+var mnemonic = "track remind angry combine awake festival all fence merit snap canal broom";

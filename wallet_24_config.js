@@ -1,1 +1,1 @@
-var mnemonic = "shop dune inmate word toddler decide animal over wink jungle roof ramp";
+var mnemonic = "urban basket pupil glance episode feel absurd solution crowd comic used dynamic";

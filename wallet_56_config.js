@@ -1,1 +1,1 @@
-var mnemonic = "panda gather maid nothing calm hamster try winner suit mammal great dolphin";
+var mnemonic = "crew glow slice blame purity embody scheme grow skull hawk trap wagon";

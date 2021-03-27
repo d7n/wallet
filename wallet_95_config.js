@@ -1,1 +1,1 @@
-var mnemonic = "aware arrow work casual crash know park sight wish only use alpha";
+var mnemonic = "engine mix tenant enemy kiwi resemble absorb stomach figure permit swear accuse";

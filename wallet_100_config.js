@@ -1,1 +1,1 @@
-var mnemonic = "tower journey hub mechanic cereal cinnamon brave ghost tell desk stool worry";
+var mnemonic = "fan mansion leisure engage spell window rebel toward hedgehog laugh clarify amused";

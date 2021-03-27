@@ -1,1 +1,1 @@
-var mnemonic = "nation salute segment service business receive squeeze avocado must shine leisure gym";
+var mnemonic = "base truck scorpion owner spatial spray prize wave estate joy joke security";

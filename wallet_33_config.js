@@ -1,1 +1,1 @@
-var mnemonic = "orbit kick rebel feature gap scheme portion nothing clump night fatal amount";
+var mnemonic = "finish sign relief extra frog polar ancient purpose such already volume bamboo";

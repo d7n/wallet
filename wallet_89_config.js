@@ -1,1 +1,1 @@
-var mnemonic = "slender soldier museum fly gloom output zebra cargo ski error soccer enact";
+var mnemonic = "language lesson this book camera first zebra behave camp master hold engage";

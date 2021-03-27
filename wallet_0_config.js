@@ -1,1 +1,1 @@
-var mnemonic = "icon crystal clap above siren buddy arm horror cricket cereal steel drip";
+var mnemonic = "grape shift snap manage skirt way source congress hammer buzz announce mother";

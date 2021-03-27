@@ -1,1 +1,1 @@
-var mnemonic = "thing entry bike one uncle armed blouse subject equip energy vault shrug";
+var mnemonic = "ketchup country luxury fan cute maximum party boat another energy echo emotion";

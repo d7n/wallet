@@ -1,1 +1,1 @@
-var mnemonic = "gas sad trial expose update room wisdom ski tunnel wish orange twenty";
+var mnemonic = "round upset poverty dutch off nut trouble disorder exchange behave nerve fiscal";

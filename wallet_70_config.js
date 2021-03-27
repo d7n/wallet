@@ -1,1 +1,1 @@
-var mnemonic = "gun wing young one poverty tell indoor open museum broccoli funny measure";
+var mnemonic = "pulp unique better address youth glad foot maximum profit flat mystery stand";

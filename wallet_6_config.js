@@ -1,1 +1,1 @@
-var mnemonic = "sketch fit slender october brick target monitor ski left shoe lounge brain";
+var mnemonic = "mean describe prepare find hungry make budget fossil energy vanish cover lobster";

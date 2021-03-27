@@ -1,1 +1,1 @@
-var mnemonic = "olive nature parrot protect mountain unusual replace valve correct practice leg clean";
+var mnemonic = "cable bone distance tennis voyage crater rigid luxury nose zero bounce steak";

@@ -1,1 +1,1 @@
-var mnemonic = "kite universe priority eager slow lawn intact acoustic elevator august quiz ridge";
+var mnemonic = "scheme deer brown chapter journey kit siege usual property copy render habit";

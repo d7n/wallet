@@ -1,1 +1,1 @@
-var mnemonic = "sadness mesh call gas spy loan despair visa era photo trust soft";
+var mnemonic = "wasp lawn ticket alter fat electric disorder direct song dose heavy affair";

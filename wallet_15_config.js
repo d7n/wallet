@@ -1,1 +1,1 @@
-var mnemonic = "club umbrella subject virtual few give inside warm east uniform casino refuse";
+var mnemonic = "portion occur anger summer stage alone hurdle pig bitter earn promote dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase mirror swamp update fantasy label cargo blossom project foster debate chef";
+var mnemonic = "regret giggle often gate thrive reopen mix long extend wheat carbon glad";

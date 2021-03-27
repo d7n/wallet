@@ -1,1 +1,1 @@
-var mnemonic = "knife fan pepper guide door neck media current pipe spoon afford object";
+var mnemonic = "armor remove gospel edge swarm cannon decorate voice mango march october dolphin";
