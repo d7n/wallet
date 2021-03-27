@@ -1,1 +1,1 @@
-var mnemonic = "shop gasp fork various mail exile attract squirrel melody exchange bomb tackle";
+var mnemonic = "monkey minute truly onion spare improve human couch good radar portion physical";

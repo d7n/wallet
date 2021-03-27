@@ -1,1 +1,1 @@
-var mnemonic = "top amateur rice riot lady dismiss cart behind wool win crane bind";
+var mnemonic = "absurd rug decide toilet april husband ripple real saddle since tonight mouse";

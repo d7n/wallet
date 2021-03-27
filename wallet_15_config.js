@@ -1,1 +1,1 @@
-var mnemonic = "hundred dash husband often resemble force hover pear shell assault clean honey";
+var mnemonic = "cross next cave brief stem street elephant flee genius network mountain produce";

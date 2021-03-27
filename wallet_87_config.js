@@ -1,1 +1,1 @@
-var mnemonic = "hybrid mimic sleep kangaroo unveil volcano torch mirror bless estate hub protect";
+var mnemonic = "shallow talent object afraid print urban rescue media govern craft humble foil";

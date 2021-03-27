@@ -1,1 +1,1 @@
-var mnemonic = "boil disorder column bundle merry mouse quarter lake change fruit scare soul";
+var mnemonic = "broken rubber fantasy device step ecology category maze very door design warfare";

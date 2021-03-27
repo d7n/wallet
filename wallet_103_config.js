@@ -1,1 +1,1 @@
-var mnemonic = "empty baby ensure shove insane select fork flat benefit liar bind stumble";
+var mnemonic = "method patient what wine toy lobster expand sample topple donkey neck wash";

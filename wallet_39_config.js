@@ -1,1 +1,1 @@
-var mnemonic = "palace pole object broom stool hair sunny walnut embark adjust weird coconut";
+var mnemonic = "board solar unaware concert negative stable cross lumber vote knee lyrics birth";

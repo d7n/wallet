@@ -1,1 +1,1 @@
-var mnemonic = "throw bargain another potato chunk shrimp shy favorite inform light hope dizzy";
+var mnemonic = "isolate spin love artwork punch rabbit green tree squeeze train useful joy";

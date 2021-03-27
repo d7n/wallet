@@ -1,1 +1,1 @@
-var mnemonic = "quick dash scan camera spray unveil panda north enforce apple strike million";
+var mnemonic = "valley oxygen they pool valid profit choose wrist maid uphold stairs govern";

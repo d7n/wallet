@@ -1,1 +1,1 @@
-var mnemonic = "stereo truck business asset tooth true syrup expand double lemon response movie";
+var mnemonic = "right arrow pepper duck canyon trade half diamond shiver tell dash rotate";

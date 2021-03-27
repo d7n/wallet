@@ -1,1 +1,1 @@
-var mnemonic = "dry armor absorb crew simple note choice mimic approve session one traffic";
+var mnemonic = "rabbit essay push slab aunt under palace gift jaguar position main jacket";

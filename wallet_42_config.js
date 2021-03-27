@@ -1,1 +1,1 @@
-var mnemonic = "ill capital fiber lens all reform smile maid sting trip claim want";
+var mnemonic = "hurt couple company predict fever relax asthma napkin picnic pistol wing sister";

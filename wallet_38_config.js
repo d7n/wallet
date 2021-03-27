@@ -1,1 +1,1 @@
-var mnemonic = "series easily slide split front trial cinnamon indoor garment health thought already";
+var mnemonic = "cheap seminar frog wine speak zone similar task resource antique accident session";

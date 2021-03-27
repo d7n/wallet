@@ -1,1 +1,1 @@
-var mnemonic = "lazy picnic insect script noble fall success clay size absorb powder negative";
+var mnemonic = "surround install diet educate size question minute blur crucial cabin congress amused";

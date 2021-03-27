@@ -1,1 +1,1 @@
-var mnemonic = "erase alien basket spoil age street price evoke trial clean advice card";
+var mnemonic = "solid february secret benefit stomach fence aspect soft memory elbow pyramid busy";

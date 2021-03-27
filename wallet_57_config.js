@@ -1,1 +1,1 @@
-var mnemonic = "during foot analyst cube worth good degree lunar spider apology strategy weasel";
+var mnemonic = "hello bring pact glad grief hamster cave silver special floor adjust cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "cat cupboard orient eyebrow web web park fatigue exhaust smile attitude toward";
+var mnemonic = "inherit betray jungle fame congress believe become female stairs october lift crunch";

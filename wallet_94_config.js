@@ -1,1 +1,1 @@
-var mnemonic = "chaos wine loyal cruise page add company dumb witness hello segment laptop";
+var mnemonic = "turkey sheriff juice welcome gift below couple helmet spot clap boring approve";

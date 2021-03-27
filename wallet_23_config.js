@@ -1,1 +1,1 @@
-var mnemonic = "popular shiver donor slim mom pluck leaf faculty ski inquiry choose excess";
+var mnemonic = "can accident thing forward sugar actual urban man rely still prepare gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "trim cinnamon sun reason tide token lizard cricket rookie submit pyramid blood";
+var mnemonic = "manage crumble nasty discover portion december give trumpet general divide maze artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "rural absorb replace safe stadium holiday verify spawn comic treat easy trigger";
+var mnemonic = "submit patch club erosion almost cloth bench same empower unfold build vapor";

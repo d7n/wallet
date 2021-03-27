@@ -1,1 +1,1 @@
-var mnemonic = "fetch joke plug cloud solution shrimp hobby stuff empower paper axis base";
+var mnemonic = "curve crisp virtual kit mixed craft kiss step hire abuse any museum";

@@ -1,1 +1,1 @@
-var mnemonic = "arm balcony cabbage drip bonus alone school figure drum fly kitchen velvet";
+var mnemonic = "jar walk erase round find screen dinner crush claw normal finger have";

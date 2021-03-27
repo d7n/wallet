@@ -1,1 +1,1 @@
-var mnemonic = "walk medal tide depart solve dentist balance rough romance farm century mesh";
+var mnemonic = "spring fabric flush update foster sunny kangaroo engage decline spike dutch gadget";

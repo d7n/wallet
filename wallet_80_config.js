@@ -1,1 +1,1 @@
-var mnemonic = "ginger like degree safe ethics immense resource video bonus group near deputy";
+var mnemonic = "chunk ancient rabbit burger jaguar sponsor foil crash half absorb unfold quote";

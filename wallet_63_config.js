@@ -1,1 +1,1 @@
-var mnemonic = "crystal control reduce switch silly priority margin speak spend wet fix evoke";
+var mnemonic = "spike twelve bracket river acid grain swap unveil option knee avoid steak";

@@ -1,1 +1,1 @@
-var mnemonic = "bus eyebrow silly initial forum spatial mass bulb saddle chaos describe sort";
+var mnemonic = "what later weekend spy donor company pull put wide clutch phrase borrow";

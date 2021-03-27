@@ -1,1 +1,1 @@
-var mnemonic = "aim knee portion bleak pink eagle alert hand demand infant lecture purity";
+var mnemonic = "oval perfect language gasp viable six nothing shadow apple source spider asthma";

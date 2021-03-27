@@ -1,1 +1,1 @@
-var mnemonic = "goddess old obscure corn range drama dry market card couple return disorder";
+var mnemonic = "aim pride soap unique clap bleak exchange bench gospel pigeon jacket dawn";

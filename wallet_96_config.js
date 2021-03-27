@@ -1,1 +1,1 @@
-var mnemonic = "ten into reject pottery jealous material love dutch luggage inside rough fit";
+var mnemonic = "infant remove fiscal plunge second around feel badge actress believe illegal voyage";

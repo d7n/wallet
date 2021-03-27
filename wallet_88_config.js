@@ -1,1 +1,1 @@
-var mnemonic = "rally city disagree until observe bamboo feel forest success ride peace drop";
+var mnemonic = "sea warm update frame dove reflect similar transfer gesture kingdom behind upgrade";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate pear soul mask smooth refuse jewel myself apart cheese replace silver";
+var mnemonic = "call must shy hint dinosaur speak entry cargo ivory normal live yellow";

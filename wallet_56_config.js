@@ -1,1 +1,1 @@
-var mnemonic = "smooth grant win circle provide month wonder uncover nephew steak sniff teach";
+var mnemonic = "friend lounge belt section profit duck collect olympic acid topic mean belt";

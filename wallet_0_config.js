@@ -1,1 +1,1 @@
-var mnemonic = "saddle then view path arctic rescue over kangaroo tide glory magnet tuition";
+var mnemonic = "then chuckle wonder choose decorate wool bench type tape disorder smart behave";

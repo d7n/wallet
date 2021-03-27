@@ -1,1 +1,1 @@
-var mnemonic = "history special tenant green bargain call sail flag correct glide pepper ship";
+var mnemonic = "misery vintage clap erupt valid always arrest kind pledge melt endorse engine";

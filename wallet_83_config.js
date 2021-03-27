@@ -1,1 +1,1 @@
-var mnemonic = "original twenty small waste thunder abstract scheme unable burden shrimp bulk bitter";
+var mnemonic = "void vintage wagon famous convince critic salon pitch outdoor correct tape credit";

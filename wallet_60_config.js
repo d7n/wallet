@@ -1,1 +1,1 @@
-var mnemonic = "cricket craft riot cabbage army purse symptom they gap ecology loan advance";
+var mnemonic = "comic asset inmate cactus pill whisper expect chimney describe gown later unfold";

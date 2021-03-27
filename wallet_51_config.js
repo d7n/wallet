@@ -1,1 +1,1 @@
-var mnemonic = "lady arrange creek milk flee digital lonely joy top confirm ethics ecology";
+var mnemonic = "position public afraid excess either annual diamond erosion jealous local they inhale";

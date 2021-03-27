@@ -1,1 +1,1 @@
-var mnemonic = "naive donkey receive setup kidney swim rely perfect love token captain sock";
+var mnemonic = "measure private cannon account suit hungry seek smoke type gap vote verb";

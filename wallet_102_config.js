@@ -1,1 +1,1 @@
-var mnemonic = "salt rally exit truck that coil bulb error deal hybrid odor ready";
+var mnemonic = "round journey arena hurt first army unaware trick ride sign tourist humble";

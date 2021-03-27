@@ -1,1 +1,1 @@
-var mnemonic = "poem scissors stock bike truly crucial memory crack present used aisle hire";
+var mnemonic = "long three piece match punch now resource boring seven sort usual poet";

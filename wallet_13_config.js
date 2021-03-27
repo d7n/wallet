@@ -1,1 +1,1 @@
-var mnemonic = "era lock lift effort heavy gauge gorilla art gym raccoon word raw";
+var mnemonic = "deposit artist antenna song enlist silk tell title blast bulb vast grass";

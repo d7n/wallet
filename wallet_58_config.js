@@ -1,1 +1,1 @@
-var mnemonic = "depth clip absent around enroll vendor prison coin monster radio broken junk";
+var mnemonic = "ghost margin middle curious verb spoil gown bean paper alarm tornado phrase";

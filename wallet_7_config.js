@@ -1,1 +1,1 @@
-var mnemonic = "certain together sugar major observe wheel valid comfort away echo annual term";
+var mnemonic = "where sleep insect horror indoor rubber upon air grant offer plunge patient";

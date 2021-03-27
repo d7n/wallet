@@ -1,1 +1,1 @@
-var mnemonic = "badge car adapt cricket own ring certain cement engage satisfy evolve impose";
+var mnemonic = "bounce pudding symptom maid exchange embark turn census earn observe rigid erode";

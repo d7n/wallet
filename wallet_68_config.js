@@ -1,1 +1,1 @@
-var mnemonic = "phone unfold angry pool learn there physical barrel room diary bless feature";
+var mnemonic = "coral enjoy spell bulb relief fox enough outside clinic topple way misery";

@@ -1,1 +1,1 @@
-var mnemonic = "below enroll rhythm method help corn defense fan used infant sibling hill";
+var mnemonic = "faculty tape deer only clown happy west cinnamon rural bid adult shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "outer common firm chuckle same garbage town cave crucial slab express easily";
+var mnemonic = "section column beauty napkin fog carpet quit answer elbow sugar reject drift";

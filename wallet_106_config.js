@@ -1,1 +1,1 @@
-var mnemonic = "grass oppose alarm wave awake primary monster airport junk unveil tenant cricket";
+var mnemonic = "apple bubble brisk digital regret good hire hole reward tuition citizen twenty";

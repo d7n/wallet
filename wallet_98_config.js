@@ -1,1 +1,1 @@
-var mnemonic = "hour flower knife document badge amount sphere slight drama produce fabric hello";
+var mnemonic = "fog risk flavor soldier aspect pistol kitten disagree manual plastic also hat";

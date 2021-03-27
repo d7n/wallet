@@ -1,1 +1,1 @@
-var mnemonic = "open corn dutch cabin creek wide cheese stomach undo fashion until desk";
+var mnemonic = "topic walnut asthma humble thunder always head virus scene bleak round jar";

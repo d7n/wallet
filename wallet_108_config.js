@@ -1,1 +1,1 @@
-var mnemonic = "deer view ski code hover topple cart differ enact much grow prevent";
+var mnemonic = "husband road paddle degree away news exile poet decade profit camera nurse";

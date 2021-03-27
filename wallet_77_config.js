@@ -1,1 +1,1 @@
-var mnemonic = "dust identify cabbage grunt skate host rocket popular buddy combine gaze sadness";
+var mnemonic = "mobile bamboo diamond gloom tragic virus vacant end mind bread soft forum";

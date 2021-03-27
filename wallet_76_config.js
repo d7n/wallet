@@ -1,1 +1,1 @@
-var mnemonic = "buddy borrow clarify clip cushion fatigue render flash lab sunset resemble raise";
+var mnemonic = "attitude table carbon wild bar spray raven digital potato window machine nasty";

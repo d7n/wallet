@@ -1,1 +1,1 @@
-var mnemonic = "person pig slab glory review pact ice vapor clog health planet since";
+var mnemonic = "caught perfect huge spike casino dial wire eager pretty fuel vote shove";

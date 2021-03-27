@@ -1,1 +1,1 @@
-var mnemonic = "sight spin joy banana journey banner learn stone enable rude shift tomato";
+var mnemonic = "job shine frequent this step rather cloth hazard spare arrive believe kangaroo";

@@ -1,1 +1,1 @@
-var mnemonic = "face oxygen physical grace stairs toss sense runway foster demise endorse resist";
+var mnemonic = "round surge ill empty cruel radio day return subject interest series club";

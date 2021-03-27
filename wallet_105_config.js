@@ -1,1 +1,1 @@
-var mnemonic = "session flower foam debate giant rough bean antique moon brass fragile patrol";
+var mnemonic = "arrange ensure sick stuff initial any figure frog favorite immense drift jazz";

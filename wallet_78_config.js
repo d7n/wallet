@@ -1,1 +1,1 @@
-var mnemonic = "toe bulb lunch gate that over miss solar vacuum identify trick beauty";
+var mnemonic = "taste test rigid price shuffle hour coconut recycle mixed sun flee report";

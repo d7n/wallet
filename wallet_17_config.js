@@ -1,1 +1,1 @@
-var mnemonic = "lounge edit install system tennis curtain depend track aerobic sing betray section";
+var mnemonic = "receive cover rent tail iron bench where enjoy tiger fence chair cycle";

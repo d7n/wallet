@@ -1,1 +1,1 @@
-var mnemonic = "city keen say hidden midnight deposit first token base limb observe remove";
+var mnemonic = "bird meadow various arrow surface broccoli slide tomato pulp usual quantum argue";

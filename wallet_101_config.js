@@ -1,1 +1,1 @@
-var mnemonic = "depend decrease negative ethics mom angry excuse garlic dynamic winter desk february";
+var mnemonic = "business amateur humor doll nothing foam milk rebuild staff produce exist license";

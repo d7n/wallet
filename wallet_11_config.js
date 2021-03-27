@@ -1,1 +1,1 @@
-var mnemonic = "library shuffle human fire meadow march rapid harsh exchange spirit effort talk";
+var mnemonic = "grit round meat auction interest connect power lucky adapt message symptom filter";

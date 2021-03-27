@@ -1,1 +1,1 @@
-var mnemonic = "faint rib annual feature private grocery wedding hair eagle picture sniff right";
+var mnemonic = "wave flag increase own any strong recycle picture viable adult bachelor purity";

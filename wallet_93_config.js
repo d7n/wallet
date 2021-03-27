@@ -1,1 +1,1 @@
-var mnemonic = "else suggest leave live useful invest solid satisfy impulse across bachelor parent";
+var mnemonic = "school refuse time metal poem misery fragile tuition enact inside trade help";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth zero invest helmet light dragon helmet shy enter question vapor estate";
+var mnemonic = "welcome bubble speed uncover start truth friend better fringe cement ill acoustic";

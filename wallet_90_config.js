@@ -1,1 +1,1 @@
-var mnemonic = "avocado endless coffee frown wife seed frozen copy stock want unaware business";
+var mnemonic = "right unable winner undo then view make shrimp ecology together unfair plastic";

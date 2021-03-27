@@ -1,1 +1,1 @@
-var mnemonic = "hundred bullet select example tourist bleak tobacco bitter wood cattle mistake genius";
+var mnemonic = "hope gesture front cannon border skill reform inform direct duck say special";

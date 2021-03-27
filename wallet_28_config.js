@@ -1,1 +1,1 @@
-var mnemonic = "brown peanut please victory shine cruise else orchard mistake put fish supply";
+var mnemonic = "team plug extra own tag sail multiply shy save kit delay evil";

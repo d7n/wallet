@@ -1,1 +1,1 @@
-var mnemonic = "quarter draw clap cinnamon exact pluck favorite sunset praise ignore mean skin";
+var mnemonic = "rival swarm virus ignore tenant prize update price best abandon addict pluck";

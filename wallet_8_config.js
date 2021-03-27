@@ -1,1 +1,1 @@
-var mnemonic = "ripple practice across seek enact charge message quarter sleep cactus ride trend";
+var mnemonic = "odor odor slender bullet filter athlete submit industry vessel patient scare save";

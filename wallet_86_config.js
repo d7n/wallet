@@ -1,1 +1,1 @@
-var mnemonic = "rent poverty ozone air skill category world intact relief fame lecture tip";
+var mnemonic = "foil shadow whip explain offer cattle estate couple collect chapter initial canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "differ horse spawn forward diagram portion anchor water dinosaur pill demise orchard";
+var mnemonic = "lab nasty miracle project quit ripple stairs butter play skull spread hero";

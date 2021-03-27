@@ -1,1 +1,1 @@
-var mnemonic = "state bomb potato holiday thunder parrot physical soup frame razor space credit";
+var mnemonic = "cup correct horn tired tomato mobile hockey mushroom ask rail sunset abuse";

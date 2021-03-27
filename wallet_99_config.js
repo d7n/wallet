@@ -1,1 +1,1 @@
-var mnemonic = "script debate jump farm light bless echo decorate tenant awkward explain usage";
+var mnemonic = "input sea sleep game soft surprise canvas broccoli purpose concert sure below";

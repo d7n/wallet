@@ -1,1 +1,1 @@
-var mnemonic = "victory sock confirm lunch cherry member purpose gun vapor stool draft famous";
+var mnemonic = "burst fury reward chair speed blouse hobby zoo final supreme patient tortoise";

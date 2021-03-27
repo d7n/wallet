@@ -1,1 +1,1 @@
-var mnemonic = "source describe catalog craft pulse grab favorite warfare gorilla alley limb sustain";
+var mnemonic = "expand left purse sad enlist pool leaf merry icon chunk tooth suit";

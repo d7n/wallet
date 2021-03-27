@@ -1,1 +1,1 @@
-var mnemonic = "genuine gloom marble atom average nurse couch wrestle soldier march review gown";
+var mnemonic = "ritual chase army suggest shadow adjust city immense divorce piano sock gaze";

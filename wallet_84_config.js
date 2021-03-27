@@ -1,1 +1,1 @@
-var mnemonic = "verb earn diet project discover maximum brave outer seat badge excite parrot";
+var mnemonic = "drift avocado office thought leisure grape reason habit level pink copper north";

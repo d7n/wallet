@@ -1,1 +1,1 @@
-var mnemonic = "such allow share erode job spirit glance about stock parade stay hip";
+var mnemonic = "embrace school photo timber copper dry best weasel drop alpha neutral become";

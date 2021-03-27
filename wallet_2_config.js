@@ -1,1 +1,1 @@
-var mnemonic = "lamp perfect car ladder crop illegal monitor ahead slam kite payment lumber";
+var mnemonic = "luxury victory common soccer notice title virus kiss diesel hurt inherit ocean";

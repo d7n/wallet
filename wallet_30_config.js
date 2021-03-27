@@ -1,1 +1,1 @@
-var mnemonic = "ready poem bind airport lunch ozone fox elephant enhance goat sugar bulb";
+var mnemonic = "pencil staff exhaust call liar baby also panic rough good chest matter";

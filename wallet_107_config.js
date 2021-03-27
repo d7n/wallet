@@ -1,1 +1,1 @@
-var mnemonic = "account venue fringe alone paddle boil coast lion cabin agent sight wreck";
+var mnemonic = "attract finish avocado imitate soldier doll mouse swap else nephew tornado swap";

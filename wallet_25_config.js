@@ -1,1 +1,1 @@
-var mnemonic = "pulse short wide shaft enrich top distance salute enhance fluid calm stadium";
+var mnemonic = "sick steak drama high session copper fine garage mango soap square cube";

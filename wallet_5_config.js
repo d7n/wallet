@@ -1,1 +1,1 @@
-var mnemonic = "cheese more suit help horn claw canoe mix bronze muffin abuse above";
+var mnemonic = "job lend ten drill salad morning castle struggle fan spell mad cupboard";

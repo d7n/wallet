@@ -1,1 +1,1 @@
-var mnemonic = "dune gun maid negative near season ecology blame supply control strategy over";
+var mnemonic = "swarm thank system enough believe gun bag disagree lens person carry abandon";

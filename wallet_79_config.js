@@ -1,1 +1,1 @@
-var mnemonic = "famous busy asset only mistake dilemma party write subject fresh time eight";
+var mnemonic = "basic decrease invite beef spirit soup flavor tired snack inspire avocado anxiety";

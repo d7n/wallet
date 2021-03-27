@@ -1,1 +1,1 @@
-var mnemonic = "aim armed forest wedding garage wait indoor trouble moral bean grief jungle";
+var mnemonic = "advice banana state park useless flame deer speak future wear style brisk";
