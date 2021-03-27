@@ -1,1 +1,1 @@
-var mnemonic = "engage monitor among start oppose dignity behind dust lecture card canyon name";
+var mnemonic = "trust brass tilt noise slush double cluster believe swear pelican danger awesome";

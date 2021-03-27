@@ -1,1 +1,1 @@
-var mnemonic = "kit crop crime organ liberty cash puzzle entry stem lock lunch mad";
+var mnemonic = "grace valve barrel twin security umbrella priority able prison confirm endorse rebuild";

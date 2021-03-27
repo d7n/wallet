@@ -1,1 +1,1 @@
-var mnemonic = "zone frost duty between diet slim agree rescue card wet van pulse";
+var mnemonic = "test edit main enable unit dune square away cream pond bleak theory";

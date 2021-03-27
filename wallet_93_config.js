@@ -1,1 +1,1 @@
-var mnemonic = "relax initial culture life unaware early whip library property weekend dinner sister";
+var mnemonic = "vague clock intact depend course field poverty giggle fabric night opinion attack";

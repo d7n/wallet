@@ -1,1 +1,1 @@
-var mnemonic = "digital mind stem mercy rich bonus siege destroy cereal rule boil match";
+var mnemonic = "sustain never planet hill snap since oppose diesel metal need normal acoustic";

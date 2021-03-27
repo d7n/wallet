@@ -1,1 +1,1 @@
-var mnemonic = "next stem borrow machine unhappy grant illegal silent enforce cat travel truth";
+var mnemonic = "hold warrior kick typical proud twist alter refuse critic grow churn volcano";

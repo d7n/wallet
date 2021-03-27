@@ -1,1 +1,1 @@
-var mnemonic = "wine time capital venue time sword guess local tent before stock nose";
+var mnemonic = "forest inquiry bag trumpet plastic chat swim unfair draft moral capable sure";

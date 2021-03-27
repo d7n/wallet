@@ -1,1 +1,1 @@
-var mnemonic = "affair symptom source victory parade key tip oil junior guess calm domain";
+var mnemonic = "dog basic purchase deputy depart other motion flavor feel neutral income garlic";

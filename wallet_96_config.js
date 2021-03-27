@@ -1,1 +1,1 @@
-var mnemonic = "account update cream timber message season never toy then suggest future grape";
+var mnemonic = "urban alpha face family speak just puppy profit buzz cave trophy sphere";

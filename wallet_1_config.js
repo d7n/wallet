@@ -1,1 +1,1 @@
-var mnemonic = "spice ridge tool artwork adjust venue crawl change snack conduct fresh again";
+var mnemonic = "safe vocal indicate glory frost ugly erupt desk travel federal nominee tiger";

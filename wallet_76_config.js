@@ -1,1 +1,1 @@
-var mnemonic = "crush option list patch same lake baby water night wash oppose fury";
+var mnemonic = "couple rate ostrich oppose rigid glide double pencil tongue embrace ostrich boat";

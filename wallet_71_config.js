@@ -1,1 +1,1 @@
-var mnemonic = "pony fiber moral eye aerobic invest unaware filter monkey tired skill absurd";
+var mnemonic = "suspect kit negative isolate print slim bleak swap skirt tennis mean audit";

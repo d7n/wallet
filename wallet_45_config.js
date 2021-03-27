@@ -1,1 +1,1 @@
-var mnemonic = "second blood fuel riot reflect drama egg sustain common bread vital oyster";
+var mnemonic = "congress local mouse infant sunny heavy diary violin lava two expire ship";

@@ -1,1 +1,1 @@
-var mnemonic = "front click sad swing invest session crisp maid fold excuse chuckle essence";
+var mnemonic = "code minimum very miss allow rough girl prevent arrow insect ramp twenty";

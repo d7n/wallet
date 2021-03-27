@@ -1,1 +1,1 @@
-var mnemonic = "twice sand purity seed lonely close water paddle display disagree media mirror";
+var mnemonic = "analyst same sausage scale winner salon fiscal time absent post retire case";

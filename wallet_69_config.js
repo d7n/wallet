@@ -1,1 +1,1 @@
-var mnemonic = "exhaust end intact major must label clarify salmon champion leader wave gorilla";
+var mnemonic = "address enrich leg session fantasy olympic dynamic fly tired engine monitor daughter";

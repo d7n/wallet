@@ -1,1 +1,1 @@
-var mnemonic = "dream file fox weasel salt raven liar never royal earth melody sight";
+var mnemonic = "speak behave shop escape warm fever else sausage address romance draft truck";

@@ -1,1 +1,1 @@
-var mnemonic = "sure tip there birth gravity aunt spare crack dish indicate weird belt";
+var mnemonic = "lumber country ripple fragile rug skirt rely push artefact text slice lock";

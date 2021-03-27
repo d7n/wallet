@@ -1,1 +1,1 @@
-var mnemonic = "exhaust oil have assault decade wrap urge agree speed wall client access";
+var mnemonic = "buyer only clinic fiscal behave aisle problem lunar escape weather girl outdoor";

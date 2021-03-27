@@ -1,1 +1,1 @@
-var mnemonic = "palace menu purse food degree wheel august cliff crash observe silly excite";
+var mnemonic = "faint traffic faculty cluster ask warrior boy decrease coil amazing relief major";

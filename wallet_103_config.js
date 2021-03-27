@@ -1,1 +1,1 @@
-var mnemonic = "design assist style cement belt super young clarify lounge goose magnet fat";
+var mnemonic = "steak fire drip dish chair survey blossom food hat diet property grunt";

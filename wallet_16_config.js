@@ -1,1 +1,1 @@
-var mnemonic = "bicycle picture field insect expand arch evolve lunch advice still engage pitch";
+var mnemonic = "cup win public topic street unlock soccer hope waste clock silver always";

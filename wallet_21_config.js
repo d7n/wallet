@@ -1,1 +1,1 @@
-var mnemonic = "utility attract exotic secret dog must oblige host tiger asset river plunge";
+var mnemonic = "clarify enemy mixture movie sell judge someone evoke switch elephant furnace tree";

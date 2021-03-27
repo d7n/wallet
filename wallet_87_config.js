@@ -1,1 +1,1 @@
-var mnemonic = "phrase cash ginger thing lucky hammer chapter sphere luggage grab settle small";
+var mnemonic = "nation you fault bundle dose save easily verify share exist next useless";

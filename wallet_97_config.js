@@ -1,1 +1,1 @@
-var mnemonic = "double law shield hundred choice mushroom grab link rookie vault ignore normal";
+var mnemonic = "weather kite combine uphold click argue submit honey pig hip logic engage";

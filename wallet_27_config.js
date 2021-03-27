@@ -1,1 +1,1 @@
-var mnemonic = "relax burst unusual access camera digital busy express olympic cash found beach";
+var mnemonic = "nice visual bean shoot urge entry rug clinic anger royal peanut crouch";

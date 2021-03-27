@@ -1,1 +1,1 @@
-var mnemonic = "speak stove hunt word energy during artefact immense idle bundle dial tool";
+var mnemonic = "inquiry park sheriff build history shed end sign season swim grab cream";

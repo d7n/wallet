@@ -1,1 +1,1 @@
-var mnemonic = "join strong hover first dice lesson canyon woman song strike anchor control";
+var mnemonic = "rice uncover hover click purity canyon number profit mansion chicken dismiss breeze";

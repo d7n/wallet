@@ -1,1 +1,1 @@
-var mnemonic = "demand scrap dentist tragic equip cloth retire click slim rifle nest ride";
+var mnemonic = "upgrade daring maid social banner fall business sister bread sponsor source humor";

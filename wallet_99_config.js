@@ -1,1 +1,1 @@
-var mnemonic = "wolf oblige oxygen result paper merry trophy short gasp dove sugar just";
+var mnemonic = "gloom kind jewel lake oblige upset project ring net winter fitness medal";

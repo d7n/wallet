@@ -1,1 +1,1 @@
-var mnemonic = "wait amount couch world diamond spring prosper random sweet regret lazy glare";
+var mnemonic = "fog stereo scissors define chapter dirt action broom inch subway minimum steel";

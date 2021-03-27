@@ -1,1 +1,1 @@
-var mnemonic = "yellow salad clinic sentence digital deposit paper bulb dilemma vault muscle swap";
+var mnemonic = "among present limit bone best fee latin glove tuna door mother grocery";

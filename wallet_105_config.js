@@ -1,1 +1,1 @@
-var mnemonic = "tobacco home top section syrup shy depend forest can used visual grit";
+var mnemonic = "vital seed rival baby oak system twelve bicycle disorder erase series hunt";

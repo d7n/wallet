@@ -1,1 +1,1 @@
-var mnemonic = "hood film buyer earth section action labor blossom nation refuse wrist become";
+var mnemonic = "speed flip bacon grain rich warrior fruit caution swim mom candy rather";

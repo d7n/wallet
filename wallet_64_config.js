@@ -1,1 +1,1 @@
-var mnemonic = "crawl deer noodle dash reward safe avoid saddle speed surface regular welcome";
+var mnemonic = "office champion pill double tiger health eager engage empty runway spread multiply";

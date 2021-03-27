@@ -1,1 +1,1 @@
-var mnemonic = "obey laptop feed glue pupil fluid settle view wave toy old marble";
+var mnemonic = "pistol club grow reopen unusual immense medal case fault often differ daughter";

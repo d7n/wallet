@@ -1,1 +1,1 @@
-var mnemonic = "tide enact analyst absorb wool oxygen artefact tomato nice hospital ordinary drive";
+var mnemonic = "move hundred dawn page quiz income worth able lift brother balcony select";

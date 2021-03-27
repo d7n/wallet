@@ -1,1 +1,1 @@
-var mnemonic = "convince burger forum manual cat distance ugly false country draft obvious lend";
+var mnemonic = "camera umbrella frost tiger mushroom traffic entry vacuum client donate group fall";

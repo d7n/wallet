@@ -1,1 +1,1 @@
-var mnemonic = "combine plunge fold stomach hour lazy knock tiger tennis demise sting network";
+var mnemonic = "west swing fault guilt record gym choose matrix hammer engine pelican east";

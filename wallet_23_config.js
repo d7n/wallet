@@ -1,1 +1,1 @@
-var mnemonic = "bonus fine swim long force proof ensure input skate net warfare ostrich";
+var mnemonic = "salt nature subject zoo taxi ski ice long gorilla boil silly decade";

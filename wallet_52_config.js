@@ -1,1 +1,1 @@
-var mnemonic = "bounce cube wedding length merry age hire tape come left title blame";
+var mnemonic = "insect name physical master spike dry smoke forward train world report earn";

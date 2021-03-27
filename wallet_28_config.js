@@ -1,1 +1,1 @@
-var mnemonic = "crisp athlete era poverty stove clean menu absorb client syrup abstract seminar";
+var mnemonic = "topple vendor inmate inherit nest garlic drink exclude athlete shine bacon erupt";

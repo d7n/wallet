@@ -1,1 +1,1 @@
-var mnemonic = "voyage lumber awful actress feature earth child weather novel normal vicious disagree";
+var mnemonic = "flame genuine energy lemon aware wealth purpose insane curtain adapt patch hedgehog";

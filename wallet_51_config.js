@@ -1,1 +1,1 @@
-var mnemonic = "movie gentle current release ball pudding solve pipe giant dumb panther pistol";
+var mnemonic = "finish caution define thrive sign critic weekend price law bag minimum decide";

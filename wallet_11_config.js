@@ -1,1 +1,1 @@
-var mnemonic = "cradle negative brother runway entry few stool field frog quality fresh lumber";
+var mnemonic = "edge decide boost adult better regular coast pact ostrich flat burst just";

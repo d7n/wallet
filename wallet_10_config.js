@@ -1,1 +1,1 @@
-var mnemonic = "mule text genre enact unfold tumble spring dutch ozone uphold royal scare";
+var mnemonic = "eternal display test wife payment hungry minimum during verify shiver oven hazard";

@@ -1,1 +1,1 @@
-var mnemonic = "feel unknown fatigue loop clutch blouse jump child tree banana early regret";
+var mnemonic = "tag final half over reduce increase index elevator glimpse object ocean fancy";

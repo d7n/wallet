@@ -1,1 +1,1 @@
-var mnemonic = "remove squirrel pond twice forum oxygen topic addict tomorrow security senior awake";
+var mnemonic = "mixture old melody cherry field bacon mechanic amazing wagon worth dash dial";

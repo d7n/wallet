@@ -1,1 +1,1 @@
-var mnemonic = "slice chalk power work tattoo cotton drop foot hobby skin situate injury";
+var mnemonic = "three want series upgrade onion enroll royal guide bitter purchase burst strike";

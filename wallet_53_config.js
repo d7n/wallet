@@ -1,1 +1,1 @@
-var mnemonic = "slab exist desert marble fever convince draw awake piece cloth finger educate";
+var mnemonic = "attitude genius case remove endorse emerge lemon scout enhance polar oil elite";

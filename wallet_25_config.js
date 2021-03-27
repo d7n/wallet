@@ -1,1 +1,1 @@
-var mnemonic = "alpha correct canyon hamster morning atom whisper race mail mention lawn found";
+var mnemonic = "kitchen pulse street crush moment busy frame oak better mistake lift aisle";

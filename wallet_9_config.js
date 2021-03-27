@@ -1,1 +1,1 @@
-var mnemonic = "short innocent curve jaguar humor riot diesel galaxy author wool clerk recycle";
+var mnemonic = "mango thunder puzzle law floor asset giraffe sure ladder immense leg awful";

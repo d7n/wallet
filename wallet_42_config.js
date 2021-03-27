@@ -1,1 +1,1 @@
-var mnemonic = "cross immune grass celery paddle cereal any student fiscal recipe forget invite";
+var mnemonic = "payment capital middle radio extend crater castle dinosaur harbor buyer net undo";

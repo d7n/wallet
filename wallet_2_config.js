@@ -1,1 +1,1 @@
-var mnemonic = "ethics absent chest repair negative grow opinion awesome vanish three submit chronic";
+var mnemonic = "answer dawn paddle able wrist cross clump crawl grace art omit mammal";

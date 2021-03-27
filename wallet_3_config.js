@@ -1,1 +1,1 @@
-var mnemonic = "awkward blast leisure useless find jar jar soft silly flight twelve because";
+var mnemonic = "hello head dream absorb improve avocado poet never square client buyer affair";

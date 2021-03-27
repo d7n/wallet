@@ -1,1 +1,1 @@
-var mnemonic = "yellow auction tell pet box tuition pear glare swarm ribbon whisper grow";
+var mnemonic = "tennis mutual border few blade victory radio timber silent dumb rabbit trial";

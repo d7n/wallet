@@ -1,1 +1,1 @@
-var mnemonic = "funny stand multiply galaxy race say city heart warfare caught lady clap";
+var mnemonic = "quiz guess horn royal sign exact shock theme luxury glue cream light";

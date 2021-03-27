@@ -1,1 +1,1 @@
-var mnemonic = "lend ski spring board tell jealous review evolve lawn normal federal pass";
+var mnemonic = "giraffe animal expand nut baby unhappy gentle result what loop tilt poverty";

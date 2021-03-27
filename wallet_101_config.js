@@ -1,1 +1,1 @@
-var mnemonic = "world axis element include uncle kingdom rough rocket hurt life impose obvious";
+var mnemonic = "other illness supreme adapt rich engine wrestle cross dance humble drink crater";

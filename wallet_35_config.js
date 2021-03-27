@@ -1,1 +1,1 @@
-var mnemonic = "cherry glide misery lens subject music seed invest grocery pyramid actor idea";
+var mnemonic = "swing matter popular furnace actor stem direct piece walk opinion drink fine";

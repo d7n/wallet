@@ -1,1 +1,1 @@
-var mnemonic = "drink crawl noise frost rhythm document ginger hen alley supply stock dizzy";
+var mnemonic = "flip erode collect insane help pilot crisp float symptom behave barely limit";

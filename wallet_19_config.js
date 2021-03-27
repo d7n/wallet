@@ -1,1 +1,1 @@
-var mnemonic = "alley airport soccer nose zebra valve away small river gym yard broom";
+var mnemonic = "replace skin sphere absorb globe laundry pyramid salt arrest top winner what";

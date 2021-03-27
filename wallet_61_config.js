@@ -1,1 +1,1 @@
-var mnemonic = "glide butter cake gorilla enforce health panic scout video amazing view early";
+var mnemonic = "venture shadow sauce manual minor begin short wrist march make grief camp";

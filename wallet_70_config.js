@@ -1,1 +1,1 @@
-var mnemonic = "jump viable grief skull change assume trouble picnic grain uncover walk input";
+var mnemonic = "super pupil secret collect frog refuse proof decline zebra danger romance urge";

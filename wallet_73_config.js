@@ -1,1 +1,1 @@
-var mnemonic = "paddle ghost stock evil patch crouch entire surprise marine logic cry wage";
+var mnemonic = "phone shaft purpose soft trend merge color spatial pledge fuel blade wedding";

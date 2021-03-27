@@ -1,1 +1,1 @@
-var mnemonic = "demise math adjust market join keen charge image type disagree family neglect";
+var mnemonic = "fatal street index chase shove museum noise dial carry couch swim hurry";

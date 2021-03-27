@@ -1,1 +1,1 @@
-var mnemonic = "tooth dirt universe orient number sword bulk juice cram abandon wrestle juice";
+var mnemonic = "skate alarm gap sea mule note slow depend wheat scan express enact";

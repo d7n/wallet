@@ -1,1 +1,1 @@
-var mnemonic = "float floor floor crumble skate meadow sting trend develop maximum hip prize";
+var mnemonic = "vendor acoustic hammer hurry improve gauge maple shoot fever pledge pudding glue";

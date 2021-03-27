@@ -1,1 +1,1 @@
-var mnemonic = "ball blush target reason bitter cotton force practice address skate cradle cheese";
+var mnemonic = "media style plug shaft drop maze raven dice ahead under often hold";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm dog evoke cabin razor weather wish license hamster distance topple flock";
+var mnemonic = "coach humble recycle wish all rule mistake engine comic script toast deputy";

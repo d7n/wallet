@@ -1,1 +1,1 @@
-var mnemonic = "flip sponsor clarify divorce accuse ready engine reduce cactus antenna into race";
+var mnemonic = "track salmon display draft thought afford matter suffer hedgehog issue organ divide";

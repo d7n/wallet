@@ -1,1 +1,1 @@
-var mnemonic = "foster angry circle combine method luxury improve mushroom feed label ridge enhance";
+var mnemonic = "dream vacuum dial first enroll cousin vessel paper top siren judge scorpion";

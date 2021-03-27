@@ -1,1 +1,1 @@
-var mnemonic = "ill arctic frog dilemma auto junk night throw oppose cliff result test";
+var mnemonic = "trim bird crop hard portion area arena install pencil flame tackle three";

@@ -1,1 +1,1 @@
-var mnemonic = "weather person sudden receive check stamp end sample ahead airport crawl nut";
+var mnemonic = "garment royal genre hood hire magic bar shock style special baby situate";

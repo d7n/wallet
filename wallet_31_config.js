@@ -1,1 +1,1 @@
-var mnemonic = "forest amateur truth trophy review magnet bus wealth comfort winner mechanic prize";
+var mnemonic = "relax extend busy spoil song glad shiver option warfare will pottery film";

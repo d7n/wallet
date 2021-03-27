@@ -1,1 +1,1 @@
-var mnemonic = "more also hammer jelly attend output soon actual blanket diagram talent today";
+var mnemonic = "stove coffee toss hole dove gym obscure shop remain blue chase cross";

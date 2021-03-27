@@ -1,1 +1,1 @@
-var mnemonic = "smooth marine rabbit circle head beyond twice army move private cement defy";
+var mnemonic = "promote nasty maximum practice october wreck unusual where year boy salon black";

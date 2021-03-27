@@ -1,1 +1,1 @@
-var mnemonic = "wheat carbon shadow glimpse play what soul warfare chronic cousin cousin avocado";
+var mnemonic = "grain script buffalo jealous twelve metal side two message stairs visit volcano";

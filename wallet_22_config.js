@@ -1,1 +1,1 @@
-var mnemonic = "legend jelly mix fork siren aspect shy that crunch recall dose sand";
+var mnemonic = "kiss beauty shrimp cradle rigid cruel come evoke garden lion relief reform";

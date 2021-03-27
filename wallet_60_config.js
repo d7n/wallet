@@ -1,1 +1,1 @@
-var mnemonic = "repeat occur cloud giant nominee trip wrestle target nose dragon season census";
+var mnemonic = "cry joy maid brain digital smooth piece faculty eye illness donate target";

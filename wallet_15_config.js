@@ -1,1 +1,1 @@
-var mnemonic = "custom drastic mask embrace enable peace steel fox hedgehog slogan action deliver";
+var mnemonic = "forget mechanic mad whisper aware fence lecture flag outer happy friend rocket";

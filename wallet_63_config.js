@@ -1,1 +1,1 @@
-var mnemonic = "uphold burst wagon caution vacant globe method cigar cinnamon close key oak";
+var mnemonic = "tilt patient already arrow okay demand pipe autumn until primary over deny";

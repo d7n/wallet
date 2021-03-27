@@ -1,1 +1,1 @@
-var mnemonic = "cake useless flash favorite crew trigger nothing health tonight mom globe couple";
+var mnemonic = "country zoo slide token shallow island nature van basic absorb glimpse check";
