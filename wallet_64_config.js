@@ -1,1 +1,1 @@
-var mnemonic = "bird canal choice waste behave insane labor cram main hill country disease";
+var mnemonic = "smoke excuse illegal jelly crawl trap okay mix pig glad glove main";

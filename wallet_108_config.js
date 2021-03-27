@@ -1,1 +1,1 @@
-var mnemonic = "piece menu clown square timber uncover foam august damage unfair pride beach";
+var mnemonic = "donor accuse inform auto dry poem wild harvest naive lyrics stem hen";

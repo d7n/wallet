@@ -1,1 +1,1 @@
-var mnemonic = "margin shock glass brand snack excite raw ramp attract tomato manage cushion";
+var mnemonic = "verb slide quality enhance eye stuff long nest glory essay oyster father";

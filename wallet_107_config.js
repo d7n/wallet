@@ -1,1 +1,1 @@
-var mnemonic = "hybrid liberty theme gorilla wall idea dose maid glory suspect fault olympic";
+var mnemonic = "pause always equip orchard sibling cruise roast expand solution muffin blind hello";

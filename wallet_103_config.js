@@ -1,1 +1,1 @@
-var mnemonic = "light clown master cable owner unknown van artist isolate useful mandate point";
+var mnemonic = "pause draw chief pet silk vast punch horse twice raise collect merge";

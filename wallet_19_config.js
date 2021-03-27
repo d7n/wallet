@@ -1,1 +1,1 @@
-var mnemonic = "push liberty box syrup dinosaur little jungle jewel useless feature blouse teach";
+var mnemonic = "end again soldier moon permit satoshi again cable priority exit antique swear";

@@ -1,1 +1,1 @@
-var mnemonic = "before conduct noodle burger fun palm nurse kind famous mule rain similar";
+var mnemonic = "expose cool neglect man loyal portion lyrics cancel napkin machine accident twin";

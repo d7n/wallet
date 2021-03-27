@@ -1,1 +1,1 @@
-var mnemonic = "universe capable evoke hire nerve humble lounge churn bright check sure guard";
+var mnemonic = "indoor laundry provide social sell ostrich peanut sorry goddess nature patrol that";

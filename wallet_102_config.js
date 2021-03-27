@@ -1,1 +1,1 @@
-var mnemonic = "asthma figure bench abuse device time thumb latin buffalo derive depart hip";
+var mnemonic = "shop model unhappy label left duck wing drop invest traffic empty emotion";

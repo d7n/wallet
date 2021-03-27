@@ -1,1 +1,1 @@
-var mnemonic = "tattoo spot require slide upset dwarf addict upper egg alcohol erase transfer";
+var mnemonic = "voyage twelve neck awake soda update example deal exercise weapon noodle hybrid";

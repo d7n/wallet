@@ -1,1 +1,1 @@
-var mnemonic = "clever bench glue image swarm coil world process envelope relax imitate word";
+var mnemonic = "pool hill daring aware convince cave increase march cause pride inherit behave";

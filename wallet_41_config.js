@@ -1,1 +1,1 @@
-var mnemonic = "mechanic juice neck reward leave siege wait ecology ceiling tuition recipe blouse";
+var mnemonic = "clean indoor like slush motion camp urge acquire afraid empty violin post";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub globe mail dog ranch usual salute clock swallow shuffle again behind";
+var mnemonic = "fly dutch differ twist forward chase labor banana between throw chief amount";

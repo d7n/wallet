@@ -1,1 +1,1 @@
-var mnemonic = "scrub wrap love visit topple spray soccer buddy news couple habit someone";
+var mnemonic = "case gold tattoo else ahead dismiss south merit brick eyebrow desert extend";

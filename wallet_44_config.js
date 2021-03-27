@@ -1,1 +1,1 @@
-var mnemonic = "demise chalk term stick mail ripple wise mass mule flip buffalo human";
+var mnemonic = "soup glow wine ribbon knife mouse acoustic age dizzy media evolve cousin";

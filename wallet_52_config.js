@@ -1,1 +1,1 @@
-var mnemonic = "quality dizzy believe fee rare square strategy salmon mammal decide sound this";
+var mnemonic = "guard wash exhibit indoor behind anchor shoot tilt tube dance bring offer";

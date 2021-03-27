@@ -1,1 +1,1 @@
-var mnemonic = "antenna nice grant slide erase flower settle must gasp clown foam seven";
+var mnemonic = "seminar end erase bean grid umbrella song twist exclude distance trigger brain";

@@ -1,1 +1,1 @@
-var mnemonic = "vital tragic lamp improve regular fury scout faith report certain illness bread";
+var mnemonic = "now state crazy brown mistake eagle melody home mushroom wife egg write";

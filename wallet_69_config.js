@@ -1,1 +1,1 @@
-var mnemonic = "six subway soup front belt exit spawn ritual sound beyond december outside";
+var mnemonic = "ball cactus size pelican time school van beef try ocean end staff";

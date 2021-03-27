@@ -1,1 +1,1 @@
-var mnemonic = "vanish actress world smart super vacuum survey fabric rubber yellow spray spike";
+var mnemonic = "nice hurt check trigger pipe wing hedgehog panel obtain rail flee cat";

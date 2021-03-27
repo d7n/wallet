@@ -1,1 +1,1 @@
-var mnemonic = "exhaust album execute balcony abstract poverty still advice gown lens napkin enable";
+var mnemonic = "beef decrease soup stadium stem affair spot dentist invest school shy chest";

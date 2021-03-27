@@ -1,1 +1,1 @@
-var mnemonic = "next police purchase illegal squirrel tunnel capital cover endless snap trigger enlist";
+var mnemonic = "nurse daughter point tortoise plastic bronze detail impose water guilt spring pulp";

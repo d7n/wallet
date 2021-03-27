@@ -1,1 +1,1 @@
-var mnemonic = "cannon gloom rule bind spoil oak design run panel achieve regret olive";
+var mnemonic = "trap umbrella corn mercy whale utility saddle muscle inside example vessel legal";

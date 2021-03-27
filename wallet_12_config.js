@@ -1,1 +1,1 @@
-var mnemonic = "denial start axis outer accuse logic similar ensure walnut two section lend";
+var mnemonic = "wall frozen update cake cost alley address clean find reward year toast";

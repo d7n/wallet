@@ -1,1 +1,1 @@
-var mnemonic = "snack dice pill scan ordinary toilet flame farm cushion vessel crop lava";
+var mnemonic = "oblige rival wood attack drastic sea nothing vocal purse light eight mammal";

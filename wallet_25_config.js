@@ -1,1 +1,1 @@
-var mnemonic = "edge hill wonder immense citizen motion kiss long gate supply weekend same";
+var mnemonic = "worry book mask piece fiber faint enjoy fit season object three note";

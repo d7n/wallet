@@ -1,1 +1,1 @@
-var mnemonic = "license hole pudding ball sphere under soup country attend again feature language";
+var mnemonic = "cake horror because that leaf alarm stamp flat item march draft aspect";

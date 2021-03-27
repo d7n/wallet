@@ -1,1 +1,1 @@
-var mnemonic = "sausage pact kitchen water toe save inhale toward flip need put garden";
+var mnemonic = "hunt desert thought consider easy provide sight clock outer broom lift fury";

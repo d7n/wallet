@@ -1,1 +1,1 @@
-var mnemonic = "arrest leg express connect thought immune identify chuckle dune bounce token license";
+var mnemonic = "sport load fitness affair hour rural pipe loyal identify adult century fabric";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny milk describe couple impact innocent naive promote salute garlic napkin word";
+var mnemonic = "engine capital produce bag half bomb pond planet chimney muscle public just";

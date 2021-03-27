@@ -1,1 +1,1 @@
-var mnemonic = "front paddle effort family alter prepare ranch park author jelly vital photo";
+var mnemonic = "minute token ramp beach rose cool buzz judge onion priority cheap only";

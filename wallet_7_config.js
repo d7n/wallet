@@ -1,1 +1,1 @@
-var mnemonic = "mean very muscle loan fold nose submit vacuum indoor sunset conduct abuse";
+var mnemonic = "observe pear diagram jacket impose glow gas brief only craft method siege";

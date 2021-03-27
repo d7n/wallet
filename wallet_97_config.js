@@ -1,1 +1,1 @@
-var mnemonic = "happy figure motor symptom foot rose element use another drastic chronic divide";
+var mnemonic = "clinic concert trick garment ranch gallery clock gorilla hundred bamboo cool steel";

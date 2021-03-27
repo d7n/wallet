@@ -1,1 +1,1 @@
-var mnemonic = "point twist deposit demise melt type embark turtle source bottom gentle general";
+var mnemonic = "adjust excess barely save flee rice glory cool income believe bar code";

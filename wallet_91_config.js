@@ -1,1 +1,1 @@
-var mnemonic = "cotton road cargo album claw home secret dish minute check cruel valley";
+var mnemonic = "cute punch grain town obscure brave inhale follow capital frequent essay huge";

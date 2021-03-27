@@ -1,1 +1,1 @@
-var mnemonic = "search minor cable garden cat sing artist climb dolphin note business solar";
+var mnemonic = "spray subject enter dish step display coach wise better author prison equal";

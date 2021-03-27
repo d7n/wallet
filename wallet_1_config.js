@@ -1,1 +1,1 @@
-var mnemonic = "dilemma idle asthma quiz gesture salt badge path height bid relax fluid";
+var mnemonic = "excite brother empty wine trim negative income grab shrimp position tag usage";

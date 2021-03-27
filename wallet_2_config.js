@@ -1,1 +1,1 @@
-var mnemonic = "boat brick abuse claim during apart choose rude illegal sketch wrestle tell";
+var mnemonic = "cash super portion message mind chest trash sport bag access hand machine";

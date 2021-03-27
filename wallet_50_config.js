@@ -1,1 +1,1 @@
-var mnemonic = "park popular taxi foster absorb spoon warfare hint various fossil exit floor";
+var mnemonic = "elite rely awake guitar pear master infant tomorrow develop romance enrich hand";

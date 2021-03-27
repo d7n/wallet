@@ -1,1 +1,1 @@
-var mnemonic = "turkey tongue garage bundle gym scrap trophy volcano benefit stove oyster riot";
+var mnemonic = "around gap silver intact film online blame shallow library mouse predict three";

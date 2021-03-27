@@ -1,1 +1,1 @@
-var mnemonic = "aim life bar enemy warm travel industry milk champion very random easy";
+var mnemonic = "over casino improve hurt year scatter collect bag loop employ tape ghost";

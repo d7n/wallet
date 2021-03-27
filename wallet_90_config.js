@@ -1,1 +1,1 @@
-var mnemonic = "accident ahead idea faint wealth friend elbow regret erase people horn motion";
+var mnemonic = "tag patient scout burst cycle put awful country pottery light critic acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "essay budget spice public indicate beauty camera index diary tool foil blossom";
+var mnemonic = "burger teach stomach rely rookie tissue wire media answer embrace help shrug";

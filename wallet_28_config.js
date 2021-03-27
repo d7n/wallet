@@ -1,1 +1,1 @@
-var mnemonic = "other torch rebel brief spoil hand worth obey result interest siege hood";
+var mnemonic = "biology century endless mule drill slice tree inquiry idle talk rebel bring";

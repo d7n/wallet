@@ -1,1 +1,1 @@
-var mnemonic = "gold tomorrow ramp category master valid hockey undo copper woman puppy van";
+var mnemonic = "order opera then fabric stool winter zebra palm refuse east smoke food";

@@ -1,1 +1,1 @@
-var mnemonic = "need assume layer great deny spider shy lecture inside reason cloud travel";
+var mnemonic = "staff april apart example away urban cry allow book soft chat cabbage";

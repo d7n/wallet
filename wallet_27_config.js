@@ -1,1 +1,1 @@
-var mnemonic = "cram spread try pony minimum canvas pair receive blush chalk burst stay";
+var mnemonic = "siege local trust tribe text garbage fitness knock actress great knock drive";

@@ -1,1 +1,1 @@
-var mnemonic = "vault kitten alien mom slice ready circle tobacco pony child initial sort";
+var mnemonic = "moral quarter glide grow buzz spoon supreme apart feel crawl make vacuum";

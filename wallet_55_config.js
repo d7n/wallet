@@ -1,1 +1,1 @@
-var mnemonic = "certain unknown swift scrap sadness useless fatal chest garlic student athlete gather";
+var mnemonic = "clap quantum tip eye great inhale must flight dolphin visa dwarf comic";

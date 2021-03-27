@@ -1,1 +1,1 @@
-var mnemonic = "suggest post stock three traffic target era season wet asthma private catalog";
+var mnemonic = "hint identify foot excuse kingdom citizen weekend syrup fall crumble barrel wing";

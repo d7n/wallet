@@ -1,1 +1,1 @@
-var mnemonic = "gas toast toy auction fun noise rail lava plunge coin hockey toast";
+var mnemonic = "pave tattoo remove trap print excuse sting crunch cushion aisle main divorce";

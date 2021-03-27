@@ -1,1 +1,1 @@
-var mnemonic = "tobacco extend visit need pioneer have type hunt horror lunar sign alley";
+var mnemonic = "future develop member hold allow trophy hand upset purse museum lunar tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "problem success badge live reject call list wrist coral lunch monkey become";
+var mnemonic = "avocado wrist measure family merry expire believe vault street swing ceiling dutch";

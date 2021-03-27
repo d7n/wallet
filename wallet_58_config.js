@@ -1,1 +1,1 @@
-var mnemonic = "outdoor warfare uncover basket forest office genre liquid sign smart parade chicken";
+var mnemonic = "orchard relief reveal appear chase labor frozen slim stairs mechanic such finger";

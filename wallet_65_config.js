@@ -1,1 +1,1 @@
-var mnemonic = "cabin wait sun lazy staff soup high inflict journey decorate actual canyon";
+var mnemonic = "network holiday couch skin gas soccer jacket sketch smoke day tattoo tonight";

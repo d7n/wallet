@@ -1,1 +1,1 @@
-var mnemonic = "harsh chapter front dirt donkey more outdoor risk harsh valley panda eyebrow";
+var mnemonic = "mention lemon bullet shy void addict aunt example toss decline head actor";

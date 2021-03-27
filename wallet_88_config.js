@@ -1,1 +1,1 @@
-var mnemonic = "pistol discover impulse century coffee food piece roof earth grief enlist ghost";
+var mnemonic = "delay critic diamond true sort job rhythm tunnel ball talent valve melt";

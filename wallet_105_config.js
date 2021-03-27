@@ -1,1 +1,1 @@
-var mnemonic = "lake viable saddle spoon hen update wrap board pear depart despair egg";
+var mnemonic = "portion shiver awkward you heart physical target impact animal portion ice harsh";

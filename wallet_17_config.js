@@ -1,1 +1,1 @@
-var mnemonic = "alert express silent among first hand hope grow snow scrub quantum dwarf";
+var mnemonic = "dentist region prepare option cheese winner analyst winner suit horror detail element";

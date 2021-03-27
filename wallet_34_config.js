@@ -1,1 +1,1 @@
-var mnemonic = "famous employ share pupil symbol giggle dragon retreat shell where account tide";
+var mnemonic = "crime decrease quantum famous palm mansion address essence good recipe clean hurry";

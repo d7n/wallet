@@ -1,1 +1,1 @@
-var mnemonic = "banner neglect tonight ride tennis gate engine hope sleep group tackle erode";
+var mnemonic = "material color help before valve grid derive hollow train hospital town hockey";

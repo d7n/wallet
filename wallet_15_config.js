@@ -1,1 +1,1 @@
-var mnemonic = "size swim useful era slow media dust private balcony carbon myth ritual";
+var mnemonic = "nephew loop abstract else reduce define spare sketch else cancel type silent";

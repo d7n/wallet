@@ -1,1 +1,1 @@
-var mnemonic = "toast ivory brass warm breeze truth another absent night table ball celery";
+var mnemonic = "trash vicious pioneer farm economy dog maid elevator electric chicken oval account";

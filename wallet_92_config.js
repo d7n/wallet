@@ -1,1 +1,1 @@
-var mnemonic = "chapter glass melody truck expire swamp acid pepper income hold buyer excite";
+var mnemonic = "wet stable reward impose region wear tenant essay explain suspect deputy galaxy";

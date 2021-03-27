@@ -1,1 +1,1 @@
-var mnemonic = "hunt resist radio arrest noodle level weird candy practice wreck tribe liberty";
+var mnemonic = "symptom six swim donate father miss model style uphold horse garbage swamp";

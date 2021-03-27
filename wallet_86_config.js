@@ -1,1 +1,1 @@
-var mnemonic = "gas put small crisp valve spider forum february swamp fever science fresh";
+var mnemonic = "sugar cushion word pill thumb tunnel actor lens clown gaze hockey purpose";

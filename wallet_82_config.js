@@ -1,1 +1,1 @@
-var mnemonic = "always normal lens hurdle mango lobster amazing brown skirt swift analyst exit";
+var mnemonic = "gap swallow twin thumb plate about fan digital choice guitar taxi reason";

@@ -1,1 +1,1 @@
-var mnemonic = "despair that wealth trust leopard million device receive around float climb deposit";
+var mnemonic = "cherry people decline february achieve gasp embark blanket demand effort lunch manual";

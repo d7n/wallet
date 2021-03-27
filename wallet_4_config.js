@@ -1,1 +1,1 @@
-var mnemonic = "purse lobster guess wire vocal range taxi merge horse sick physical kick";
+var mnemonic = "easy blouse only window sleep rapid nerve wrestle manage suit host noise";

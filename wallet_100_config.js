@@ -1,1 +1,1 @@
-var mnemonic = "unveil pistol swing opera page butter ivory yard scorpion enrich year earth";
+var mnemonic = "february early mammal gap announce chapter drill parade net wild often palace";

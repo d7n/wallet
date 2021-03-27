@@ -1,1 +1,1 @@
-var mnemonic = "penalty lucky swamp arena acoustic scatter immune margin confirm boy forget universe";
+var mnemonic = "cross nothing zebra funny lift network above over worth like across danger";

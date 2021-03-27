@@ -1,1 +1,1 @@
-var mnemonic = "put lazy much school scorpion relax raven demand subway client label cheese";
+var mnemonic = "school cost sun journey fall patch charge school tube obey walnut flat";

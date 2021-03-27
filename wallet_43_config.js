@@ -1,1 +1,1 @@
-var mnemonic = "mutual garment cute torch cave unit nut puppy hunt fluid unusual maze";
+var mnemonic = "curtain ability earth lunar purse off frozen kite trumpet crew argue bar";

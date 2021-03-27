@@ -1,1 +1,1 @@
-var mnemonic = "judge elbow trap file trap uniform idea sentence tell flash kit patch";
+var mnemonic = "medal wood plug neck hen series invite also survey coconut cradle boil";

@@ -1,1 +1,1 @@
-var mnemonic = "must strategy boss detail unknown property sight inherit absurd panda reason obey";
+var mnemonic = "harvest that eternal lemon cube vocal bamboo path era barrel umbrella swim";

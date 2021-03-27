@@ -1,1 +1,1 @@
-var mnemonic = "bone company talk tissue clay beyond assist smile grow spin betray sentence";
+var mnemonic = "ocean thank stumble give jungle develop donor flee voyage opinion tent sight";

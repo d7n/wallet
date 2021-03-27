@@ -1,1 +1,1 @@
-var mnemonic = "heavy tilt grunt sell remain title birth keep hero price shove draw";
+var mnemonic = "bone tell whip either olive version holiday weasel gold fiscal name gorilla";

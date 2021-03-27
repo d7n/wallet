@@ -1,1 +1,1 @@
-var mnemonic = "female little fury enact miss where gentle unveil cement toy present cart";
+var mnemonic = "gospel apple upon income topple genre layer clarify shadow walnut cement peasant";

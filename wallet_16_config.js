@@ -1,1 +1,1 @@
-var mnemonic = "photo cousin fly leave brick screen shy flat lonely witness six tonight";
+var mnemonic = "join shell angle right scene tomato enter drop learn audit demand fiber";

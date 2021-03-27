@@ -1,1 +1,1 @@
-var mnemonic = "then dawn seek tray file pitch frost smoke mixed odor letter lion";
+var mnemonic = "lab glass forest story armor arm salmon retreat fever similar choice usage";

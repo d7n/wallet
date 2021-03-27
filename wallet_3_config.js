@@ -1,1 +1,1 @@
-var mnemonic = "output foam cricket cream sister beach today eternal thumb cool define battle";
+var mnemonic = "garden fantasy deer fury purpose grant large grant east endless luxury raven";

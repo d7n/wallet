@@ -1,1 +1,1 @@
-var mnemonic = "ostrich license cram rose void sure addict found pair mistake tide trip";
+var mnemonic = "gossip hurry balcony guess ocean element galaxy pond smart average chase already";

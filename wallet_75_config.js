@@ -1,1 +1,1 @@
-var mnemonic = "secret flight find apart awful trouble stand lady immune effort goddess song";
+var mnemonic = "exile praise rifle boring moral swear horror stove scene minute notable rhythm";

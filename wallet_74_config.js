@@ -1,1 +1,1 @@
-var mnemonic = "worry video miss rural point effort comfort super clean document candy document";
+var mnemonic = "oak catch corn cruise fun submit mail anxiety lock junk half happy";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace vessel unlock absurd ski junk tumble whip hood claim express cinnamon";
+var mnemonic = "runway time always army guide divert basic shed capital speak fork eight";

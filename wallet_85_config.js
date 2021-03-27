@@ -1,1 +1,1 @@
-var mnemonic = "lucky aunt humble vacuum tunnel almost worry grant embody hollow eight tray";
+var mnemonic = "account ridge unaware army law helmet connect settle once enemy regret enroll";

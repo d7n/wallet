@@ -1,1 +1,1 @@
-var mnemonic = "quiz gun dad total nut diet spatial harvest alien solid wait cannon";
+var mnemonic = "sibling crouch upper mercy scale win kangaroo combine local pact because goat";

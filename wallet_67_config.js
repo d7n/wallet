@@ -1,1 +1,1 @@
-var mnemonic = "reduce mandate quantum lunar exchange gadget sketch floor food crucial license glue";
+var mnemonic = "connect paper jungle effort genre aunt foam stamp remember imitate aunt sphere";

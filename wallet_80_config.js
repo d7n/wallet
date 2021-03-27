@@ -1,1 +1,1 @@
-var mnemonic = "ranch vessel panda strike away pretty infant scene few arrive pudding virtual";
+var mnemonic = "dune require unable fresh shoulder reason dial produce buyer dish foil accuse";

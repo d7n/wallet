@@ -1,1 +1,1 @@
-var mnemonic = "law alarm decade electric struggle female odor draw caught wife sail bread";
+var mnemonic = "amused enlist reduce broom wheat economy ritual brisk broccoli elite anchor soup";

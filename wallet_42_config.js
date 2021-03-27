@@ -1,1 +1,1 @@
-var mnemonic = "seminar scatter inch wine sugar grape zebra mistake develop rebel involve chicken";
+var mnemonic = "ramp focus eager slam cloth catch permit damp age slender bus minor";

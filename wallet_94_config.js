@@ -1,1 +1,1 @@
-var mnemonic = "style nice hen slice uncover cloud chief gap shield ready talent orbit";
+var mnemonic = "educate tell there party tooth system thing practice mad distance sudden topic";

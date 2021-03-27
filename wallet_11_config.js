@@ -1,1 +1,1 @@
-var mnemonic = "picture jar seed know now enemy party forum quit battle cave plate";
+var mnemonic = "mother man super truck lamp trial test unaware extra angry drip gadget";

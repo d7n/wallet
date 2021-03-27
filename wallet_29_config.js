@@ -1,1 +1,1 @@
-var mnemonic = "screen daring hill apart energy glass vibrant surge luggage clean purse high";
+var mnemonic = "useless evoke onion joy puzzle hair business vast skirt fire arrow wealth";
