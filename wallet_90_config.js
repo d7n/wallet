@@ -1,1 +1,1 @@
-var mnemonic = "athlete pull cruel afraid expose model beef poem devote rebuild wealth pilot";
+var mnemonic = "sausage drink teach own earth post sing loud harvest video ski circle";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll evil gesture mixed access gauge grunt juice earn demand apology series";
+var mnemonic = "puzzle behind pretty dune salad drive flee term neither unfold demise merge";

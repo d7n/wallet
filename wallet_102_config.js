@@ -1,1 +1,1 @@
-var mnemonic = "notable private rhythm under affair juice glimpse chaos traffic bamboo pencil twelve";
+var mnemonic = "duck prison else giant ethics popular half deposit step dust upper impact";

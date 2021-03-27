@@ -1,1 +1,1 @@
-var mnemonic = "borrow doll bone choose climb fade question second foster drive cart phrase";
+var mnemonic = "priority nerve tortoise math minute betray inside craft jelly silver bomb leisure";

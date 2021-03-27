@@ -1,1 +1,1 @@
-var mnemonic = "cliff token junior whale prosper capital state happy diary mistake thank when";
+var mnemonic = "normal receive amount perfect world seminar security sadness machine pear scan strike";

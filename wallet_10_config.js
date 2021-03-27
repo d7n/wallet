@@ -1,1 +1,1 @@
-var mnemonic = "shallow income fantasy taxi example provide trophy damp garbage task arrange pistol";
+var mnemonic = "debate name raccoon wire mango child swim age reform dice image urban";

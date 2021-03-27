@@ -1,1 +1,1 @@
-var mnemonic = "negative avocado nest coral accuse shy heavy chief borrow achieve that stumble";
+var mnemonic = "ecology orbit casual blade mansion eight say super scorpion column under venture";

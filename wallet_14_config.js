@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ancient stuff inform naive pledge miss favorite tiny riot leaf fire";
+var mnemonic = "train survey unfair quick gloom aerobic curtain robot direct vendor renew luggage";

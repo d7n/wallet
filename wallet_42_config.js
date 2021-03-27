@@ -1,1 +1,1 @@
-var mnemonic = "entry good jazz annual symbol dress oval away isolate write melody boost";
+var mnemonic = "oyster board sand pipe favorite blind arch easy very section cancel ocean";

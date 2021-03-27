@@ -1,1 +1,1 @@
-var mnemonic = "dove miss recipe net mountain visit carbon rebuild door mind element stairs";
+var mnemonic = "guilt art jungle boat update skull toddler proof much machine key shock";

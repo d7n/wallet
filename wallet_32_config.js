@@ -1,1 +1,1 @@
-var mnemonic = "alert mandate impose foster dutch crane menu runway approve absurd violin anchor";
+var mnemonic = "round vocal thumb fruit ordinary dilemma expire vicious obscure hard announce tower";

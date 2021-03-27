@@ -1,1 +1,1 @@
-var mnemonic = "illegal buffalo budget miracle purse figure science chronic team globe vessel trouble";
+var mnemonic = "undo speed number devote squirrel cruise champion dinosaur impulse turkey smooth gain";

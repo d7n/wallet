@@ -1,1 +1,1 @@
-var mnemonic = "gesture extend negative year indicate hybrid ginger captain yellow shine ready summer";
+var mnemonic = "year dune gift gaze adapt club frown ozone close diesel ability mind";

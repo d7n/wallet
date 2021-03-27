@@ -1,1 +1,1 @@
-var mnemonic = "scorpion attract snake coffee grow later saddle scale exact few brush evidence";
+var mnemonic = "vintage exit limb liar crazy confirm issue clean twelve fetch great fabric";

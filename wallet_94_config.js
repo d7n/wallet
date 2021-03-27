@@ -1,1 +1,1 @@
-var mnemonic = "control guess outdoor interest deer series couple chuckle ankle square toast wonder";
+var mnemonic = "struggle put permit now own weird budget fiction jaguar service deal pen";

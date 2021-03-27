@@ -1,1 +1,1 @@
-var mnemonic = "cause repair mad happy cactus gap desert update around vast double asset";
+var mnemonic = "close moment mechanic wasp system educate rifle favorite holiday large build wagon";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket hobby mouse asthma execute relax goose clarify hip quantum hire uniform";
+var mnemonic = "mammal cheese egg decade minimum unable grid search artefact joy amount dry";

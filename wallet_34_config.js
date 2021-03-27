@@ -1,1 +1,1 @@
-var mnemonic = "legend forest surround decorate tenant admit little process charge ostrich smooth viable";
+var mnemonic = "leg segment fox suspect bubble mass pill ivory daring upon pitch train";

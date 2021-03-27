@@ -1,1 +1,1 @@
-var mnemonic = "inflict skill view cargo tissue insect anchor comfort leaf tomato orange original";
+var mnemonic = "city banner evidence unhappy spatial story hover coil route frame then slogan";

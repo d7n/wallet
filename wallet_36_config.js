@@ -1,1 +1,1 @@
-var mnemonic = "tribe stamp fever unfold hero candy decade swap fee add bulb bachelor";
+var mnemonic = "error divide pony gather wash spend brush achieve nurse jump monster violin";

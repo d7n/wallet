@@ -1,1 +1,1 @@
-var mnemonic = "hurt acid tennis vault fragile loud because siren blue soon hip social";
+var mnemonic = "inspire south lecture vacuum retire purpose announce mule luggage detect inherit nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "notice emotion sentence knife airport report try ivory pig report raw void";
+var mnemonic = "hammer lyrics field rocket visit denial twin coach bar season volume noble";

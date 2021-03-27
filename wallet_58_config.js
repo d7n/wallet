@@ -1,1 +1,1 @@
-var mnemonic = "spare solar capital behave sell school option sing defense unveil cannon scale";
+var mnemonic = "feature sample guilt defy actress couch pigeon orphan cotton guess strike negative";

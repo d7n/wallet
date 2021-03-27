@@ -1,1 +1,1 @@
-var mnemonic = "salad author junior final column treat embrace dream will stuff juice lucky";
+var mnemonic = "medal hollow achieve teach series candy system parade capable quiz shell dragon";

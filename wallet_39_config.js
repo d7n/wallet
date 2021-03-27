@@ -1,1 +1,1 @@
-var mnemonic = "vapor bicycle shaft mean legal dice grunt raw slow define blade soldier";
+var mnemonic = "title paper ancient hero feel woman salute choose grief now recall business";

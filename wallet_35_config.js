@@ -1,1 +1,1 @@
-var mnemonic = "repeat decrease purpose various music stock sick clap express place course fox";
+var mnemonic = "argue charge object twist juice palace peace table foil purse coast need";

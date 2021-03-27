@@ -1,1 +1,1 @@
-var mnemonic = "photo multiply air south example flee practice actor stumble gospel must enhance";
+var mnemonic = "jazz minute add muscle wheat frown person color dizzy oyster twist olive";

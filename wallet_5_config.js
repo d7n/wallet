@@ -1,1 +1,1 @@
-var mnemonic = "puzzle else nuclear soldier grit dawn margin public december stadium panther glance";
+var mnemonic = "judge must relax expire hat whisper agree boy renew auto core portion";

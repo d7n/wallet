@@ -1,1 +1,1 @@
-var mnemonic = "theme slogan ramp thought various pull decline tackle eyebrow slow spread drink";
+var mnemonic = "spell power world injury urge sadness pink volume degree foam spy repair";

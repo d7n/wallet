@@ -1,1 +1,1 @@
-var mnemonic = "aspect next dignity enlist valid flash drip identify parade kind quarter trial";
+var mnemonic = "mesh tooth conduct soon pigeon provide canal egg increase view argue goat";

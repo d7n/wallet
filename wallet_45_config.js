@@ -1,1 +1,1 @@
-var mnemonic = "female sister snap portion spin aerobic nasty loop dinner kangaroo torch buzz";
+var mnemonic = "key ladder identify invest smoke asthma answer boil brush join joke neutral";

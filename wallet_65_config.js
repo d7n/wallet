@@ -1,1 +1,1 @@
-var mnemonic = "shine prevent tumble ahead diary acid emotion twenty field display wave hawk";
+var mnemonic = "clown oven group history public apart picture eyebrow retire method feature crush";

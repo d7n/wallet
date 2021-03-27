@@ -1,1 +1,1 @@
-var mnemonic = "unlock spoon smoke gaze affair leg kitchen burger raise rival buzz wash";
+var mnemonic = "glimpse foot company fever morning sing elephant throw era frozen expand dad";

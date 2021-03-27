@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon jeans six hour anxiety tumble clock wear perfect boil lunch plunge";
+var mnemonic = "auction half giggle syrup heavy cause thing truth design swamp crush punch";

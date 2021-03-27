@@ -1,1 +1,1 @@
-var mnemonic = "fence element assume foster balcony drill cluster indicate build repeat same junior";
+var mnemonic = "goose metal universe force load tissue destroy stock library example blind bomb";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo protect blue ship fiber eyebrow food license pilot latin network blood";
+var mnemonic = "velvet grunt antique barely pyramid visa weapon hand regular jump rigid proud";

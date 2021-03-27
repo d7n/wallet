@@ -1,1 +1,1 @@
-var mnemonic = "faith private smart cruel spring purpose offer blanket onion recycle gallery correct";
+var mnemonic = "pulse fade amount ridge fix odor idle mixed suit moon price jeans";

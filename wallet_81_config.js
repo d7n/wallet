@@ -1,1 +1,1 @@
-var mnemonic = "bread parade demise bulk aisle north pencil cotton client zebra deposit wrap";
+var mnemonic = "shadow crumble pattern pumpkin carpet okay excess eye mobile rotate palace flag";

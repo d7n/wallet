@@ -1,1 +1,1 @@
-var mnemonic = "solid barrel assume feed blast bacon lens blush setup culture sword brand";
+var mnemonic = "lizard crash horn drill stairs hold output exchange fork party submit bacon";

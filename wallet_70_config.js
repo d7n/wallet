@@ -1,1 +1,1 @@
-var mnemonic = "obvious win wing drink load base medal deposit chaos nice soccer lazy";
+var mnemonic = "series hand hidden keen accident question hand inflict peasant fancy ignore unusual";

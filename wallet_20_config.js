@@ -1,1 +1,1 @@
-var mnemonic = "claim jewel flash awake obtain minute sunset apology win until elegant prosper";
+var mnemonic = "federal remember siege tunnel upset sentence layer sight olympic marine gift buyer";

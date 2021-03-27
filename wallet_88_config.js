@@ -1,1 +1,1 @@
-var mnemonic = "live trial tackle transfer perfect curtain copper fan rotate vacant maximum twin";
+var mnemonic = "payment awkward champion river dune ensure base disease exist crunch patch boy";

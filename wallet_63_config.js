@@ -1,1 +1,1 @@
-var mnemonic = "despair promote volume educate seek grief favorite disease embark delay enemy sponsor";
+var mnemonic = "coach diary begin involve impulse diary reveal panda vapor major beach rigid";

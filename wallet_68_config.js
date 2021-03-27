@@ -1,1 +1,1 @@
-var mnemonic = "host provide index strike crumble guitar surge police soap advice decide rack";
+var mnemonic = "craft spirit plastic boat pitch despair sentence fine taste curve hood hobby";

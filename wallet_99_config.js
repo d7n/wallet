@@ -1,1 +1,1 @@
-var mnemonic = "elephant rule unlock screen flag medal universe stamp spring target enjoy aspect";
+var mnemonic = "kangaroo similar scan artefact rubber trash human yard unusual scrap bonus dune";

@@ -1,1 +1,1 @@
-var mnemonic = "exile vacant gain phrase wink gesture road finger peasant cluster game wear";
+var mnemonic = "ring expose lounge tortoise cross window sword galaxy sheriff lobster panther estate";

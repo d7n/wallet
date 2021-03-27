@@ -1,1 +1,1 @@
-var mnemonic = "lizard verb accident vast syrup hood inquiry tomato flame country exit gospel";
+var mnemonic = "trigger lawn retire spray error someone report script mystery tonight language fringe";

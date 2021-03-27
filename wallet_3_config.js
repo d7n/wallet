@@ -1,1 +1,1 @@
-var mnemonic = "invest season guard erosion bleak legal salute short slogan major smart student";
+var mnemonic = "labor canyon make diet pelican stone tornado annual someone chase ball square";

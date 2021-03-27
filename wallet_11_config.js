@@ -1,1 +1,1 @@
-var mnemonic = "jeans already deal prevent glass sing reason brown suggest behave nasty limb";
+var mnemonic = "beach judge attitude bounce pipe phone april message soul solution retreat barrel";

@@ -1,1 +1,1 @@
-var mnemonic = "sign today lady razor flee moment abandon spin clean nuclear typical purity";
+var mnemonic = "more must tongue thrive food reduce bind weird gain point ride pig";

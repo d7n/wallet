@@ -1,1 +1,1 @@
-var mnemonic = "bargain trash prepare option oxygen mechanic caught repair congress kingdom mystery flat";
+var mnemonic = "mammal install wine quick food giant comic jealous wink casino crouch doll";

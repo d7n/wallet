@@ -1,1 +1,1 @@
-var mnemonic = "artefact shiver lamp rail glory hip air utility mechanic shy leg obey";
+var mnemonic = "race together symbol december thumb solution crawl salute entry ride art whip";

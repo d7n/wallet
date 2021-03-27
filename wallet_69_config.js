@@ -1,1 +1,1 @@
-var mnemonic = "harbor loan into shaft resource route minimum unique month proof wonder total";
+var mnemonic = "main state curtain tell banana express royal top enemy rice noise measure";

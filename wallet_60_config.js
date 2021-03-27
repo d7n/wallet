@@ -1,1 +1,1 @@
-var mnemonic = "talent group avoid result blame trial journey guard garbage gadget apology immune";
+var mnemonic = "pull remain shove clump ice attack envelope blush furnace spike quantum join";

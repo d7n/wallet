@@ -1,1 +1,1 @@
-var mnemonic = "fortune dinosaur vacant magnet update youth pool hour general buddy steak school";
+var mnemonic = "link sponsor borrow relax kangaroo umbrella appear course boy scout game hope";

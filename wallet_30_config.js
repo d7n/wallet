@@ -1,1 +1,1 @@
-var mnemonic = "doll enrich expand jump lab please best say peanut legend expect layer";
+var mnemonic = "cradle exchange dilemma when visa tumble hour tribe special friend kingdom fiber";

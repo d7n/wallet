@@ -1,1 +1,1 @@
-var mnemonic = "remind predict woman two mimic case fire castle glare detect screen burger";
+var mnemonic = "rookie woman use else today lunar crucial fury taxi heavy twenty ethics";

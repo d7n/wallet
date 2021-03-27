@@ -1,1 +1,1 @@
-var mnemonic = "fuel tragic panel symptom aerobic world saddle service start symbol knife deputy";
+var mnemonic = "update noble employ coconut first armed behind usage exercise laundry mesh current";

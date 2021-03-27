@@ -1,1 +1,1 @@
-var mnemonic = "sniff tower unit ethics speak raise ketchup situate sibling smart chief impose";
+var mnemonic = "antique list bulk ginger ostrich solar clever random legal lecture pretty shadow";

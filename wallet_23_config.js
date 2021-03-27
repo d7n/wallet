@@ -1,1 +1,1 @@
-var mnemonic = "unhappy easily loud language nation spatial insane subject blame obvious gadget rack";
+var mnemonic = "will weather start bench display connect fade same comic uniform typical weasel";

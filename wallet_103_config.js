@@ -1,1 +1,1 @@
-var mnemonic = "solution pipe eye leg betray random surround barely champion elder faint path";
+var mnemonic = "good motion humble potato grit wait club enable dwarf rail ball patch";

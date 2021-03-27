@@ -1,1 +1,1 @@
-var mnemonic = "element dry lab edge giggle barrel taxi grace answer honey over return";
+var mnemonic = "special salad tank such boost metal purchase modify monkey fine neither vague";

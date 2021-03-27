@@ -1,1 +1,1 @@
-var mnemonic = "wood time talk fever grant age cat apple glance glove swallow express";
+var mnemonic = "inflict floor hope what infant knee palm inhale margin blood point observe";

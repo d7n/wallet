@@ -1,1 +1,1 @@
-var mnemonic = "purity sight basket atom bus craft maid divert giant unique alcohol rubber";
+var mnemonic = "appear nose setup marine giggle print latin forum fragile select tower dove";

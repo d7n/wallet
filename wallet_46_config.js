@@ -1,1 +1,1 @@
-var mnemonic = "brisk iron skin agree cloud purse spray page chronic until nut business";
+var mnemonic = "fire trash paddle junior oblige mind muscle recycle stove police vocal grain";

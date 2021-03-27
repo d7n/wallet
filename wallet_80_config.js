@@ -1,1 +1,1 @@
-var mnemonic = "patient affair velvet shuffle slab canvas inflict open arrest section open away";
+var mnemonic = "cook behave grow now legal script congress mesh color unaware noble victory";

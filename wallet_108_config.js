@@ -1,1 +1,1 @@
-var mnemonic = "cat album moon deputy tomorrow blind pipe candy ski canoe body kind";
+var mnemonic = "plate agree sight fatigue stool unfair please receive arrive replace kick diagram";

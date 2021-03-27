@@ -1,1 +1,1 @@
-var mnemonic = "daughter gift bring deliver dwarf butter sketch ten comic sorry test orphan";
+var mnemonic = "popular curious visit announce source patrol lecture item burst catalog charge guilt";

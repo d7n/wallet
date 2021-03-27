@@ -1,1 +1,1 @@
-var mnemonic = "electric logic swift jeans thunder live helmet estate announce run fog visual";
+var mnemonic = "voyage fantasy universe oil media critic language find agent trap mutual absent";

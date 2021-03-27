@@ -1,1 +1,1 @@
-var mnemonic = "change fossil divorce review donate aisle throw tortoise predict celery chuckle island";
+var mnemonic = "approve second mutual health language width decide supply actress black combine useless";

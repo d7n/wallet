@@ -1,1 +1,1 @@
-var mnemonic = "summer shed true camp seed wife involve wide exhibit keep chalk pulp";
+var mnemonic = "display correct piano gold figure choose address gasp eight ancient tribe blur";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny wink term swarm chapter above kick jar bamboo link turtle glide";
+var mnemonic = "polar skull work gallery hand save west slender device news again quarter";

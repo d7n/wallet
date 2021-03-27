@@ -1,1 +1,1 @@
-var mnemonic = "dice orient blanket model october flee icon secret tornado captain mansion discover";
+var mnemonic = "offer magic bullet truth battle lounge bunker post diesel make wear mutual";

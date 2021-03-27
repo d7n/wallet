@@ -1,1 +1,1 @@
-var mnemonic = "solution age same abandon fabric owner repair bind loyal dash anchor glory";
+var mnemonic = "spend sign short borrow brick mix school industry empty eager dignity firm";

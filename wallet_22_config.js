@@ -1,1 +1,1 @@
-var mnemonic = "pipe cherry drama valid angry cinnamon demand mushroom noise market aware crack";
+var mnemonic = "cry stem crouch program merry hungry slam flush genius chicken attack october";

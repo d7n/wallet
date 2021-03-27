@@ -1,1 +1,1 @@
-var mnemonic = "double elegant option exclude tooth relax bike velvet pitch news romance crane";
+var mnemonic = "limb dolphin donor square ring ranch child unique divert broom family miss";

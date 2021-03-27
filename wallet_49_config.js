@@ -1,1 +1,1 @@
-var mnemonic = "cat okay walnut margin evolve body frown huge can vessel sword pair";
+var mnemonic = "they world bless alert apart power own husband member build awesome element";

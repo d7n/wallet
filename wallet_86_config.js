@@ -1,1 +1,1 @@
-var mnemonic = "better stock slam subway immune excite pattern scare invite morning throw okay";
+var mnemonic = "relax fade provide shy addict buffalo nice home item tragic cheap tower";

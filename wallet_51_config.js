@@ -1,1 +1,1 @@
-var mnemonic = "fuel border modify mammal one swarm nominee collect half card buyer proof";
+var mnemonic = "buddy weird siege license mountain frost clump neutral you off next prepare";

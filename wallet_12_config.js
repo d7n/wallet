@@ -1,1 +1,1 @@
-var mnemonic = "slab biology soccer name laundry truly among mutual olive marriage rhythm clarify";
+var mnemonic = "fence that grace divorce globe coffee cool woman below media honey turkey";

@@ -1,1 +1,1 @@
-var mnemonic = "bar easy snake side cash mixture prefer rebel flash galaxy little laundry";
+var mnemonic = "flight click actual expire clerk belt wish casual engage fashion suit south";

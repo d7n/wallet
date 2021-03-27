@@ -1,1 +1,1 @@
-var mnemonic = "pencil tank food crash senior damp crouch aspect any allow vacuum rack";
+var mnemonic = "short icon merge reunion boss material someone rival panel toddler theory toilet";

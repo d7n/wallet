@@ -1,1 +1,1 @@
-var mnemonic = "upset kitten island feel come release pond absorb distance such world collect";
+var mnemonic = "simple gloom swing negative boring arrange ceiling metal jungle perfect foam rather";

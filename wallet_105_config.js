@@ -1,1 +1,1 @@
-var mnemonic = "detail toddler century fox struggle fox engage virtual alert shoot tilt believe";
+var mnemonic = "seminar harsh snow swallow spell globe pattern tattoo cruise extend permit acoustic";

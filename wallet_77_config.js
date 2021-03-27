@@ -1,1 +1,1 @@
-var mnemonic = "term excess benefit fit garden electric eye hurry cup mind digital host";
+var mnemonic = "project resource invest baby song fuel main purity three grape soap yard";

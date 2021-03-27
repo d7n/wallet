@@ -1,1 +1,1 @@
-var mnemonic = "rally ginger hockey hard okay salon shy elevator auction window method rib";
+var mnemonic = "paddle legend ball shadow video again energy laptop stadium solar mass vault";

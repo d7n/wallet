@@ -1,1 +1,1 @@
-var mnemonic = "buyer shell truck dust embark bronze fire tooth resource spoil private rib";
+var mnemonic = "element matter soup crisp visit start adapt normal above sort health penalty";

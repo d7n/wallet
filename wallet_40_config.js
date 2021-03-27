@@ -1,1 +1,1 @@
-var mnemonic = "either large reflect estate coast plastic evidence torch mixed grant ghost axis";
+var mnemonic = "vicious winner salad panther whale frozen tonight alter online razor gain myth";

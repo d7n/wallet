@@ -1,1 +1,1 @@
-var mnemonic = "load leaf oblige elegant mass fuel mutual sail table angle attend direct";
+var mnemonic = "trade cheap smile feed around aware fog feel february garlic spray goose";

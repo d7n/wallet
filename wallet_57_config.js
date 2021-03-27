@@ -1,1 +1,1 @@
-var mnemonic = "dragon bronze glance inhale ritual decorate layer base home say erupt swing";
+var mnemonic = "wheel spray gas together trust become much nice priority industry crucial nerve";
