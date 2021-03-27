@@ -1,1 +1,1 @@
-var mnemonic = "sword palace meat abandon omit taxi helmet hip iron tobacco dash hope";
+var mnemonic = "false drink typical victory once ritual emerge accident catch know swap gold";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen path mad paddle thank nature apology cup size victory usual loyal";
+var mnemonic = "rebel wing solar roof banana proud cash grid grab banana fresh dance";

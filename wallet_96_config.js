@@ -1,1 +1,1 @@
-var mnemonic = "crush strike give way unusual feature win bridge top badge pluck again";
+var mnemonic = "fruit ramp negative eager exact bachelor mixture legend clock tip entire object";

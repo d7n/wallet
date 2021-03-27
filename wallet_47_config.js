@@ -1,1 +1,1 @@
-var mnemonic = "village vapor expect bomb sand concert brass grocery outdoor thrive cheap jungle";
+var mnemonic = "wool job upon olive gossip load umbrella loud blush genius gaze olympic";

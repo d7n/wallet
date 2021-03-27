@@ -1,1 +1,1 @@
-var mnemonic = "glad orphan cluster moral hurdle wonder notable six erosion transfer reopen hard";
+var mnemonic = "collect bike bird wrestle group exist breeze dance virtual also scout acquire";

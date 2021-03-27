@@ -1,1 +1,1 @@
-var mnemonic = "onion gallery across panic subway salmon that giraffe cheap what actress team";
+var mnemonic = "worth real butter orbit satoshi then dignity soon middle spike text ankle";

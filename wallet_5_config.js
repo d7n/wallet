@@ -1,1 +1,1 @@
-var mnemonic = "matrix focus clean absent smart baby private vault wave student hawk metal";
+var mnemonic = "hole inch park knife mother monitor bomb pattern much spike drill social";

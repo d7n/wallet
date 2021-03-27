@@ -1,1 +1,1 @@
-var mnemonic = "earth garment grit enough fortune imitate hub scene way govern lumber return";
+var mnemonic = "deny away regular require hospital sugar little idea remove candy know noise";

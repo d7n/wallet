@@ -1,1 +1,1 @@
-var mnemonic = "recipe coin myself discover chat audit soap shell spoil boring success throw";
+var mnemonic = "letter tennis ignore blood prefer wait flip state system area pudding flat";

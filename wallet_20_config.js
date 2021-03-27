@@ -1,1 +1,1 @@
-var mnemonic = "beyond pony catch search cabbage carpet share language popular cabbage orphan swear";
+var mnemonic = "unusual near beyond medal destroy ordinary decade poem crane lonely glare rice";

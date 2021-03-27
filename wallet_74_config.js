@@ -1,1 +1,1 @@
-var mnemonic = "video hurdle dawn buffalo burger core will aisle immune express awesome family";
+var mnemonic = "hunt frozen casino piano lecture juice label chalk slam swear unusual garlic";

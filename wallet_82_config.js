@@ -1,1 +1,1 @@
-var mnemonic = "replace spend have noble hero pact leopard area ticket wreck vote clerk";
+var mnemonic = "puppy upper lawn satoshi orange forum able spell sight tissue hood open";

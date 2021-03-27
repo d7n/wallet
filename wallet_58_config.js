@@ -1,1 +1,1 @@
-var mnemonic = "main attract eight galaxy word hole cherry obtain donate educate cargo frozen";
+var mnemonic = "length gentle feed catch mountain toward typical say monitor sun happy wisdom";

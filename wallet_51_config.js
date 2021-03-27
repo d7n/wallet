@@ -1,1 +1,1 @@
-var mnemonic = "office fever claim expand return gain bird cloud nasty infant detail mad";
+var mnemonic = "pencil poverty clog autumn when inch menu runway wife mountain apology verb";

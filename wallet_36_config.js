@@ -1,1 +1,1 @@
-var mnemonic = "behave enjoy problem banner dose lab rally sense fat banana moment trap";
+var mnemonic = "gentle pipe escape spot neck panic cycle excite floor oppose crisp panther";

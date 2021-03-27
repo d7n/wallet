@@ -1,1 +1,1 @@
-var mnemonic = "fame anchor urge that oyster female random later increase violin inhale orbit";
+var mnemonic = "focus slight pottery wash winter tonight tired crash eager such puzzle drop";

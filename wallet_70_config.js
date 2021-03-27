@@ -1,1 +1,1 @@
-var mnemonic = "kitchen off ahead swarm horror swarm call enter hip plate lawsuit throw";
+var mnemonic = "situate rib hair undo please prison soup surprise suffer start vivid fuel";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil situate congress right enable quarter fade video cook spider rookie outside";
+var mnemonic = "inspire fiscal guard quit vanish fame vapor laugh update print dance stuff";

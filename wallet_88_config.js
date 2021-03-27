@@ -1,1 +1,1 @@
-var mnemonic = "nephew bunker wood buddy search raven drill strategy tent end knock nest";
+var mnemonic = "shock bundle accident toy purity bronze curtain hedgehog puppy turkey muscle play";

@@ -1,1 +1,1 @@
-var mnemonic = "else excite ask view october pig hello lobster must voyage clarify salute";
+var mnemonic = "gospel plunge loan buddy mass valid guilt gaze purpose attitude deposit assist";

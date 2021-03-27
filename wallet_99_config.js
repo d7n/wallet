@@ -1,1 +1,1 @@
-var mnemonic = "sustain powder simple attend juice lab merry harvest desert advice dutch build";
+var mnemonic = "hint scale mandate rubber curve sun fiction wish economy castle jacket canyon";

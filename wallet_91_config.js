@@ -1,1 +1,1 @@
-var mnemonic = "group giraffe square accident old toast donor mountain foot fault outer stick";
+var mnemonic = "smoke chronic great shop divert park mimic deposit dose identify eager unit";

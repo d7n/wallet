@@ -1,1 +1,1 @@
-var mnemonic = "circle slot scene false poverty rebel shift visit super result slight force";
+var mnemonic = "post anchor invite orphan album razor admit kid list bottom allow tower";

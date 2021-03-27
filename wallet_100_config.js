@@ -1,1 +1,1 @@
-var mnemonic = "banana lounge tired input much actor miracle push reject engage supreme economy";
+var mnemonic = "upgrade ignore inhale survey develop tent cup click arctic obey alter undo";

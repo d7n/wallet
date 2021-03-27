@@ -1,1 +1,1 @@
-var mnemonic = "dirt sail cement nut chimney typical lava evolve abstract obey cute agent";
+var mnemonic = "among control olympic veteran magnet wine order nation mixed anxiety evil carpet";

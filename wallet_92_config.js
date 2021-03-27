@@ -1,1 +1,1 @@
-var mnemonic = "regular later yellow destroy hungry about game stock lottery smooth author issue";
+var mnemonic = "bottom soccer canoe fabric deer doctor project outdoor vast envelope bus slot";

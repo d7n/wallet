@@ -1,1 +1,1 @@
-var mnemonic = "huge sauce trust park confirm fancy lizard wasp crucial solid sock neck";
+var mnemonic = "decline medal sport thumb title cushion kangaroo siren wrong train shrimp renew";

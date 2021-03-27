@@ -1,1 +1,1 @@
-var mnemonic = "scare armor ski artwork aim regret excuse giggle erode detail involve song";
+var mnemonic = "resist vivid mistake jealous early decline glass annual pink fiction door adult";

@@ -1,1 +1,1 @@
-var mnemonic = "vault summer lava harvest ship glad feature lazy retreat sunset fold shaft";
+var mnemonic = "bike muscle finish enter element text limit spring giant topic during ask";

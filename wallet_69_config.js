@@ -1,1 +1,1 @@
-var mnemonic = "auction infant crime warfare that test prefer will volume situate favorite case";
+var mnemonic = "soon myself crawl honey double cupboard kitchen artwork enrich lawn spy fever";

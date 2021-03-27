@@ -1,1 +1,1 @@
-var mnemonic = "snap such erosion name fluid survey innocent depend armed team faith gas";
+var mnemonic = "way tiger tenant century second pilot saddle lab federal vague label joke";

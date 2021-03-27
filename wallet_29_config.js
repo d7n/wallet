@@ -1,1 +1,1 @@
-var mnemonic = "industry unfold supply leg glad domain case sell ladder identify account sun";
+var mnemonic = "loud blossom name suffer turkey story mushroom apology arrest popular seek cable";

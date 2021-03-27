@@ -1,1 +1,1 @@
-var mnemonic = "theory speed core endless weapon card expand sample senior hurry bus round";
+var mnemonic = "lonely useful anger found undo clinic combine increase catch describe satisfy blossom";

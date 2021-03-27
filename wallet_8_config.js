@@ -1,1 +1,1 @@
-var mnemonic = "dwarf fossil social profit century grief task what awesome scare wheat arrow";
+var mnemonic = "lounge thumb harvest online cheap banner share rib angry hill school fun";

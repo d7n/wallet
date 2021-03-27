@@ -1,1 +1,1 @@
-var mnemonic = "useless walnut ginger raise horror aware misery express actress donate only sunset";
+var mnemonic = "trust check clump gym board purity whip kidney bracket embody nothing seed";

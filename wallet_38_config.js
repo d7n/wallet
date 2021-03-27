@@ -1,1 +1,1 @@
-var mnemonic = "deal emotion budget mirror lawn popular combine spatial ceiling venture elder couple";
+var mnemonic = "spatial laptop post rely frown slender early diagram offer lab reflect cabin";

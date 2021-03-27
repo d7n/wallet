@@ -1,1 +1,1 @@
-var mnemonic = "river clever sun kidney family green ghost next world endless squirrel farm";
+var mnemonic = "also another elite lounge sheriff salon comic life kid tennis hedgehog bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "copper crash skate outdoor huge cave brother size style exhaust document gospel";
+var mnemonic = "fatal maple sponsor habit dune illegal together position aisle face mother salute";

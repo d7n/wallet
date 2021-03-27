@@ -1,1 +1,1 @@
-var mnemonic = "response good aspect observe hand illness vicious noble slab jealous scatter famous";
+var mnemonic = "move struggle choose memory area grief chaos wrong column awkward tray know";

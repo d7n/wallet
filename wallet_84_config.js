@@ -1,1 +1,1 @@
-var mnemonic = "spin during minimum knee outside voice sauce citizen shuffle magnet obtain floor";
+var mnemonic = "palace month spray series country tail trim script whip bamboo correct winter";

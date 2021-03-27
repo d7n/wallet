@@ -1,1 +1,1 @@
-var mnemonic = "absent scrub shine twenty cheap era zero essence later mosquito position mushroom";
+var mnemonic = "project army coach message ball what busy topple warfare dish share small";

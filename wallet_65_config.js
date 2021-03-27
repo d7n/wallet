@@ -1,1 +1,1 @@
-var mnemonic = "almost satoshi police pink coffee vivid toast ranch bulb sausage own wall";
+var mnemonic = "pill spoon volume write render normal because hub scheme addict buddy enroll";

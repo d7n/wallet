@@ -1,1 +1,1 @@
-var mnemonic = "copper unveil oven force leg require now sense room leisure concert tissue";
+var mnemonic = "radio obvious social favorite box seat uphold vessel behave fit engage gas";

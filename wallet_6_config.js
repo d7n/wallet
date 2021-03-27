@@ -1,1 +1,1 @@
-var mnemonic = "nice depart naive sort snack steel report badge nation select novel illness";
+var mnemonic = "acquire green glare reveal awful put protect siege body opera nasty secret";

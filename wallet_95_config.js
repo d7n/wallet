@@ -1,1 +1,1 @@
-var mnemonic = "glue jealous blanket consider rain bring outer cloth smoke grace panel master";
+var mnemonic = "promote hamster regret calm help vital hungry blame vacuum dry accuse absurd";

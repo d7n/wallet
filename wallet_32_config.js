@@ -1,1 +1,1 @@
-var mnemonic = "culture fitness broccoli lady army flower embrace tragic liquid matter three keep";
+var mnemonic = "tree purpose because language fold bronze certain attack cheese depend service slender";

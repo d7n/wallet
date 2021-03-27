@@ -1,1 +1,1 @@
-var mnemonic = "category struggle tragic throw alter into alley upset print multiply draft pattern";
+var mnemonic = "margin spring trial share gun civil social frog flat leopard idle nation";

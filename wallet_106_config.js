@@ -1,1 +1,1 @@
-var mnemonic = "axis cradle glory kind hard clown light camp bread tag patient damage";
+var mnemonic = "fault victory express assume sing boat venue balance weather delay stand tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran exchange dutch dream arena comfort language violin robot auto dash prevent";
+var mnemonic = "issue skull cost oppose spot october sample update wife coffee beef become";

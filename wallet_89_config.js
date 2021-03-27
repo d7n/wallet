@@ -1,1 +1,1 @@
-var mnemonic = "lady ride kite bridge museum satoshi opera sudden mountain roof basket slight";
+var mnemonic = "hard resemble now cause occur dad impulse skin security clarify raccoon path";

@@ -1,1 +1,1 @@
-var mnemonic = "board saddle view subway tissue sniff industry tennis poet dad prison town";
+var mnemonic = "banner ethics gospel front scan enter pool sketch shift battle say bottom";

@@ -1,1 +1,1 @@
-var mnemonic = "estate tobacco glow cloth wool credit stage tool trophy place joy wise";
+var mnemonic = "ceiling agree theory bulk hedgehog copper wolf skate pulp wise useful spoon";

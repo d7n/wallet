@@ -1,1 +1,1 @@
-var mnemonic = "few level sick own engine dry coffee abstract still allow unknown fat";
+var mnemonic = "taxi double capital deposit job eternal vicious rotate follow stay ripple vehicle";

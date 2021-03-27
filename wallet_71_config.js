@@ -1,1 +1,1 @@
-var mnemonic = "original hurt blossom powder egg borrow around tragic alcohol okay armor castle";
+var mnemonic = "delay head truth alcohol sniff joy adjust inch salt duty gown trust";

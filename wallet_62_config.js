@@ -1,1 +1,1 @@
-var mnemonic = "basic blanket tell despair devote filter edge viable hundred clever kiwi rely";
+var mnemonic = "process stem they wheel suspect injury morning cotton maple parade resource genre";

@@ -1,1 +1,1 @@
-var mnemonic = "piece portion liquid climb install antique make glove slim other loud alert";
+var mnemonic = "diamond glove brush leopard destroy soon inhale other unique skull clog fire";

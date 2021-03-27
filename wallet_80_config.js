@@ -1,1 +1,1 @@
-var mnemonic = "custom satoshi sister pistol fan outdoor library foster acquire brisk despair embody";
+var mnemonic = "uphold knee girl bike time weasel collect plate entire mom february mesh";

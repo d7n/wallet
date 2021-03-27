@@ -1,1 +1,1 @@
-var mnemonic = "foot erode duck library wall gain avocado cost easily same cannon brand";
+var mnemonic = "toilet hour like chase employ category promote invest meadow cereal liar retire";

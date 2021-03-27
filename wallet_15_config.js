@@ -1,1 +1,1 @@
-var mnemonic = "universe code lab potato series box frog volcano present fetch tourist print";
+var mnemonic = "twin utility hammer rather immune balcony pioneer ginger method minor disagree dumb";

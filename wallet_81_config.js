@@ -1,1 +1,1 @@
-var mnemonic = "nest pioneer unveil cherry thunder impose client company question orange welcome turtle";
+var mnemonic = "hurry argue pool spell obtain blossom ranch cigar vapor deal vocal disease";

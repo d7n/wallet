@@ -1,1 +1,1 @@
-var mnemonic = "rural large valley unhappy quantum brick nest agree giggle attend love target";
+var mnemonic = "popular damp public scorpion manage orchard reform grid smoke venue fog office";

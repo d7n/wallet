@@ -1,1 +1,1 @@
-var mnemonic = "promote april retreat ten dash connect fly ordinary doctor multiply devote regret";
+var mnemonic = "radio nephew trigger essence dash tattoo wine pen swim ethics tragic lucky";

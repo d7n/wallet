@@ -1,1 +1,1 @@
-var mnemonic = "fog version toast area manual clump soup despair boost install liquid best";
+var mnemonic = "cruel silly weekend coach chef track damp element tip fan gold embody";

@@ -1,1 +1,1 @@
-var mnemonic = "modify bulk cake comic build analyst wide fatal heavy solid luxury mansion";
+var mnemonic = "twice kingdom nothing fence enable park damp mad inmate boat theme token";

@@ -1,1 +1,1 @@
-var mnemonic = "stone close soldier network various life twenty rely grow canyon whale zero";
+var mnemonic = "fade dilemma fault donkey fetch glass economy engine open clump rent abstract";

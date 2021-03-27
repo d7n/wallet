@@ -1,1 +1,1 @@
-var mnemonic = "often fatigue moral junior oval spray domain piece vendor forum banana museum";
+var mnemonic = "traffic seat network welcome churn model all forget audit tree excuse radar";

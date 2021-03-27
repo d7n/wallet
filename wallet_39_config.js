@@ -1,1 +1,1 @@
-var mnemonic = "flat harbor release cycle wife taste milk similar pole already panic shoe";
+var mnemonic = "armed tumble erupt large online swift basket bitter better awful flavor safe";

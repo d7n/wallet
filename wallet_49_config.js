@@ -1,1 +1,1 @@
-var mnemonic = "first spider usage fever alien typical glow knee agent wrong horror yellow";
+var mnemonic = "arrive teach bonus film differ shoe increase escape tiger girl intact second";

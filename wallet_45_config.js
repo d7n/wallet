@@ -1,1 +1,1 @@
-var mnemonic = "regret lift buyer share garlic toy cargo grant usage lemon bless ethics";
+var mnemonic = "turkey pact any shaft brother surround brown near alarm mass victory major";

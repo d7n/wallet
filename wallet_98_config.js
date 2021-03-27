@@ -1,1 +1,1 @@
-var mnemonic = "dad evolve west loan insane segment social frozen used object brain sausage";
+var mnemonic = "summer knife barely cherry upon section gain expose record then brass mango";

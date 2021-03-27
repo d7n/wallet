@@ -1,1 +1,1 @@
-var mnemonic = "horse stairs copper vacuum silent inquiry insane old error giggle face question";
+var mnemonic = "eyebrow cactus hope fresh drink fantasy session high much voice arctic eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "travel profit rate solution slice torch auto glide board ensure ribbon mercy";
+var mnemonic = "maid planet humble rabbit follow juice pudding world exotic smooth thumb magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "high globe alert belt purse annual lumber fish cattle cute crowd atom";
+var mnemonic = "blouse shoe divide match carbon pupil clap pipe dog peanut room nurse";

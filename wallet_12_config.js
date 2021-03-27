@@ -1,1 +1,1 @@
-var mnemonic = "hip sunny rather must choose check tray stamp resource meadow install deal";
+var mnemonic = "check magnet private require remember kick service embody wagon crunch skill person";

@@ -1,1 +1,1 @@
-var mnemonic = "prosper truly trip suffer soda wheat project reward noodle try unlock title";
+var mnemonic = "grief reflect reject dash fabric case marble chapter resist giraffe couch permit";

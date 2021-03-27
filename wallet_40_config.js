@@ -1,1 +1,1 @@
-var mnemonic = "next suggest insect shoe gossip industry bread endorse explain thumb giraffe poet";
+var mnemonic = "feed pumpkin pig fault dutch cute maze calm large recipe more museum";

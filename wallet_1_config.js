@@ -1,1 +1,1 @@
-var mnemonic = "modify pulse crisp same thank nut wink work cover knock bottom fame";
+var mnemonic = "october name scene interest peasant involve gaze open caught crater satoshi shy";

@@ -1,1 +1,1 @@
-var mnemonic = "nation depart guide exhibit weasel select water wrong scale code coffee side";
+var mnemonic = "social quiz jealous accident copper vital sample peasant book shock clever salt";

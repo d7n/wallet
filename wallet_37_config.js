@@ -1,1 +1,1 @@
-var mnemonic = "sword bottom coach novel pelican emotion sudden museum fantasy wash confirm beauty";
+var mnemonic = "satoshi penalty giant where rice depth rebel mask panther various rural fine";

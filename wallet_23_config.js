@@ -1,1 +1,1 @@
-var mnemonic = "law twenty claw deposit stock boss awkward process feed another edit dinner";
+var mnemonic = "ramp borrow cannon fiscal chaos educate almost brief magic illness fresh general";

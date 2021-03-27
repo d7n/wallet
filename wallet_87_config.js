@@ -1,1 +1,1 @@
-var mnemonic = "nothing okay divide treat planet maple day lounge guide book blouse thrive";
+var mnemonic = "bottom hedgehog bounce gas giggle flight can similar artist blur lyrics topic";
