@@ -1,1 +1,1 @@
-var mnemonic = "trust slim mail taxi jungle delay sorry mango method old crystal desk";
+var mnemonic = "genre unfair knock front thank way lonely ensure unknown wisdom level reform";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet gift label skull absorb disease similar memory beauty indoor accuse setup";
+var mnemonic = "equal whale medal palace burst habit engage old wing slim dentist gasp";

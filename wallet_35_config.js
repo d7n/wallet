@@ -1,1 +1,1 @@
-var mnemonic = "oval drive champion glow victory ugly minor find describe grape collect huge";
+var mnemonic = "pond inmate warfare rail capable eight shock upset vital rival border inner";

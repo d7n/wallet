@@ -1,1 +1,1 @@
-var mnemonic = "vote curious improve add iron reflect junk foot diamond drill usual evoke";
+var mnemonic = "kingdom thing recipe paper neither pull green video churn smooth praise scissors";

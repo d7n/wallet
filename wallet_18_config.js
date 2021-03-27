@@ -1,1 +1,1 @@
-var mnemonic = "trash win venture west similar job wife nurse lottery lemon fit bracket";
+var mnemonic = "flight misery toddler body guide medal view manage train boat shuffle grunt";

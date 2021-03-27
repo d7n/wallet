@@ -1,1 +1,1 @@
-var mnemonic = "dress wrist defy evoke exit heavy eagle nurse afford absurd alcohol kite";
+var mnemonic = "pen jelly anger grant stumble same crumble prison often wonder exercise speak";

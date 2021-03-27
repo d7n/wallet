@@ -1,1 +1,1 @@
-var mnemonic = "stairs bright divert purity special screen never protect inquiry mango bachelor company";
+var mnemonic = "piano ancient ketchup trash crazy until legend isolate seek ability nerve silent";

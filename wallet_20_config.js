@@ -1,1 +1,1 @@
-var mnemonic = "melody squeeze inflict arm embrace purchase abandon wisdom insane zone farm you";
+var mnemonic = "salute village round purpose annual disease face vibrant menu bulb capable success";

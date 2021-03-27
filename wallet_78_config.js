@@ -1,1 +1,1 @@
-var mnemonic = "alert friend menu picture scrub time card logic alarm acoustic panel message";
+var mnemonic = "clog city ladder law congress segment track warm mountain bread february install";

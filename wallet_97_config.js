@@ -1,1 +1,1 @@
-var mnemonic = "snake frequent table alien soda roof hood visit volcano area bubble chicken";
+var mnemonic = "prize verb capital expand fetch mixture dilemma vendor energy hint grid pledge";

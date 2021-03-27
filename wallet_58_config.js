@@ -1,1 +1,1 @@
-var mnemonic = "south deputy three order rely pulse demand advice chief next mesh sudden";
+var mnemonic = "unfair rival obey profit this cabin culture garden pyramid shaft danger yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "wife mechanic trade summer position author venture surprise payment inform language dust";
+var mnemonic = "obvious blanket hedgehog private shiver this cloth square mention private wood segment";

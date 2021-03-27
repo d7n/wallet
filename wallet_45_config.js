@@ -1,1 +1,1 @@
-var mnemonic = "grain outdoor dog time real symptom extra clip gravity hollow toe method";
+var mnemonic = "panic save arrange jealous flavor illness scare identify shy tuition zebra deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "random slender fix pulp exercise puppy donor inch chase eight obscure library";
+var mnemonic = "oxygen clay world glow fly topple element noise task common absorb knife";

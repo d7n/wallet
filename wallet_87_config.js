@@ -1,1 +1,1 @@
-var mnemonic = "dentist seat grant knock twelve assault similar frozen emotion cabin above feel";
+var mnemonic = "behave recall wage mobile credit foster dash cruise speak inquiry weather garlic";

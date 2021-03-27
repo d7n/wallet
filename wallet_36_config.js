@@ -1,1 +1,1 @@
-var mnemonic = "phone above floor noble interest cluster angry coast garlic fault bird glory";
+var mnemonic = "lumber forward witness group purity filter shrug social leg use clever smoke";

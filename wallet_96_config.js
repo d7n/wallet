@@ -1,1 +1,1 @@
-var mnemonic = "number jacket fruit clutch canyon vote replace access sight firm cluster visit";
+var mnemonic = "parrot talent judge spider dilemma timber drastic west chief jacket near genius";

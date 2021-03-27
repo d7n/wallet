@@ -1,1 +1,1 @@
-var mnemonic = "unaware desert main repeat parrot random erase repair green sorry exit fortune";
+var mnemonic = "frozen tattoo alone path state call mercy replace trade desk timber dust";

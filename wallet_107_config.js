@@ -1,1 +1,1 @@
-var mnemonic = "muffin ozone quantum cable country shadow such empty east unfair auction cave";
+var mnemonic = "toward object razor uncle manage eagle recipe super celery plate hurry dentist";

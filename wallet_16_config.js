@@ -1,1 +1,1 @@
-var mnemonic = "vast novel mystery document oyster mule treat come tomorrow reopen upper approve";
+var mnemonic = "inject unveil quantum glide fiscal since bench blame throw local slice despair";

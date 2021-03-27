@@ -1,1 +1,1 @@
-var mnemonic = "total filter small offer total hobby chat that must axis ticket right";
+var mnemonic = "secret food two coffee fee mechanic base hand elder sheriff employ prosper";

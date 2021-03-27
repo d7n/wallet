@@ -1,1 +1,1 @@
-var mnemonic = "walnut winner couch wool future toast farm boring level seek genre awake";
+var mnemonic = "ritual decrease chat cup pact brave ignore street zone segment spoil rather";

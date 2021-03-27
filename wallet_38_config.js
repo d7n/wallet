@@ -1,1 +1,1 @@
-var mnemonic = "blood worth invite present shoot family team alley fruit bicycle bundle chair";
+var mnemonic = "misery group stay tourist moral pride old rhythm envelope speed dirt dinner";

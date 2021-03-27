@@ -1,1 +1,1 @@
-var mnemonic = "heart lock cat vendor outdoor urge poet pause zoo wear evidence wise";
+var mnemonic = "banner seek pattern woman dilemma fortune sport winter win prosper blossom behind";

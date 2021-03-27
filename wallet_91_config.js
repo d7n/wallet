@@ -1,1 +1,1 @@
-var mnemonic = "recycle auto acoustic story wide pride stone pluck click pave first pilot";
+var mnemonic = "camera change situate unlock cannon gasp label fox summer glad wrist credit";

@@ -1,1 +1,1 @@
-var mnemonic = "riot giggle cushion once canoe priority arena cry swallow palace gauge extend";
+var mnemonic = "affair toss camp night fantasy burst balance human fitness horror police rose";

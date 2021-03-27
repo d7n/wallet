@@ -1,1 +1,1 @@
-var mnemonic = "prize drip head radio sock car amazing tuna grow assume mix note";
+var mnemonic = "choice exchange flip wrist board engine illegal error double cheese boat long";

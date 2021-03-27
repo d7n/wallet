@@ -1,1 +1,1 @@
-var mnemonic = "famous angry punch knife live proud update dragon wagon effort swim gravity";
+var mnemonic = "diet client upset endorse income section ketchup inch canal chimney ticket village";

@@ -1,1 +1,1 @@
-var mnemonic = "small flower mirror accident genuine select fruit leave hospital perfect devote dilemma";
+var mnemonic = "museum shaft possible denial copy puzzle decline hat coast invite sunset equal";

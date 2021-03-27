@@ -1,1 +1,1 @@
-var mnemonic = "walnut dove warrior bridge glass connect mouse teach poverty opera throw mansion";
+var mnemonic = "vague girl noise bone crack human wolf six retire correct keen arrive";

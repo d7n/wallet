@@ -1,1 +1,1 @@
-var mnemonic = "inquiry between town suffer helmet rude angry upon want ride echo mammal";
+var mnemonic = "pear screen joke biology field alone fun giraffe degree travel tent left";

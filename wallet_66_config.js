@@ -1,1 +1,1 @@
-var mnemonic = "sausage owner frequent cram bind swift pill ensure please love core drill";
+var mnemonic = "kite helmet document quantum stairs absent flower december pupil pupil diagram paddle";

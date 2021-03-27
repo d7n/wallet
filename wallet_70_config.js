@@ -1,1 +1,1 @@
-var mnemonic = "power reform brass route deputy denial pioneer february void dinner right kidney";
+var mnemonic = "master oblige mandate student brown good lunar unknown ocean six file security";

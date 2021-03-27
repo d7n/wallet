@@ -1,1 +1,1 @@
-var mnemonic = "remember whip laptop genre luggage alone rookie language master gym predict cup";
+var mnemonic = "caught old custom section fence skin era define swim setup major spawn";

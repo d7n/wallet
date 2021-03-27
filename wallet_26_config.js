@@ -1,1 +1,1 @@
-var mnemonic = "shallow example mother drama upon tortoise fluid donate describe thunder train jelly";
+var mnemonic = "you morning bread sadness poem grocery symbol hint enemy nature cool toss";

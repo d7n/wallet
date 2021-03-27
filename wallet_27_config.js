@@ -1,1 +1,1 @@
-var mnemonic = "increase kid plug family thrive west connect shy salmon hollow unit pulp";
+var mnemonic = "clarify chalk faith picnic soda beauty garlic excess chalk husband duck orient";

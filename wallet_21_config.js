@@ -1,1 +1,1 @@
-var mnemonic = "raven seminar spare oppose welcome chalk parent fatal bonus panther fiction limit";
+var mnemonic = "inform bomb inject tip maple explain odor sorry cousin country vacuum guess";

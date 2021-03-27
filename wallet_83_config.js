@@ -1,1 +1,1 @@
-var mnemonic = "require kitchen spider violin drip caught oblige stem finger cliff now tattoo";
+var mnemonic = "february nerve glance heavy home sauce vocal course mango window about toy";

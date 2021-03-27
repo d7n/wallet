@@ -1,1 +1,1 @@
-var mnemonic = "cart regret trumpet drift since civil section energy divorce sea sunny cupboard";
+var mnemonic = "point time cupboard bicycle like prosper vacant cart equal unveil measure comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "party click industry bench squeeze wedding blast cycle hammer sight two december";
+var mnemonic = "despair spend tennis sample script fortune feature cactus ahead garage trust success";

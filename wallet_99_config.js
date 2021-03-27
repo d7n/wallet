@@ -1,1 +1,1 @@
-var mnemonic = "neither give horror solid damage goose walnut first ankle region soda ball";
+var mnemonic = "tissue shield whale crisp act disorder hurt stem fix hockey pull worry";

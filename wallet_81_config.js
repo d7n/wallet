@@ -1,1 +1,1 @@
-var mnemonic = "useless animal lesson shrimp fault viable emerge endless civil climb area broccoli";
+var mnemonic = "loan ladder color chapter round air solar turn shell twin panther mutual";

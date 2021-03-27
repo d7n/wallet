@@ -1,1 +1,1 @@
-var mnemonic = "clap surround rifle various doctor fiber drive motion edit buffalo laundry nuclear";
+var mnemonic = "whip cargo impulse disease bright ignore ceiling grape spirit coast stay soul";

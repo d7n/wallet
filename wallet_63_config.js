@@ -1,1 +1,1 @@
-var mnemonic = "dance hello unlock sugar enact imitate present ask cushion move pulp just";
+var mnemonic = "outdoor metal border man cancel light head educate merry math art detect";

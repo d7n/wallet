@@ -1,1 +1,1 @@
-var mnemonic = "gorilla claw crumble output session middle chat income language empower glide arrive";
+var mnemonic = "error number agent health grow stage sunny hollow cluster banner salmon more";

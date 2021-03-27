@@ -1,1 +1,1 @@
-var mnemonic = "syrup spike prize orphan trend orchard popular zone exercise female whip share";
+var mnemonic = "poem finger wrap double clap attitude health sign inform steel one prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "column crane enemy usage artwork lunch forum fatigue document repeat bomb energy";
+var mnemonic = "sphere easy spatial nerve enemy inside awkward neglect edit electric drink tissue";

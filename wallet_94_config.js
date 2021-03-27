@@ -1,1 +1,1 @@
-var mnemonic = "apology chat milk aunt off middle enough guitar wrong kit fine weekend";
+var mnemonic = "dial echo exit never ghost urban forward smooth soap advice sport chicken";

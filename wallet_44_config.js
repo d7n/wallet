@@ -1,1 +1,1 @@
-var mnemonic = "finish entire pride brisk design pull soon grief suffer clarify become pink";
+var mnemonic = "field stand fan note educate start place inmate tell word shrimp ten";

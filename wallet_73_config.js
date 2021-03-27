@@ -1,1 +1,1 @@
-var mnemonic = "acoustic humble shaft fade mountain jungle screen pumpkin excess dismiss film episode";
+var mnemonic = "tuition steel adult dove own filter peace walnut main real spike lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "staff shop flight decade cloud welcome taxi lunch course foot tumble gloom";
+var mnemonic = "organ knock evolve sun swarm vendor sort craft know parade legal fiction";

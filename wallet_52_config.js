@@ -1,1 +1,1 @@
-var mnemonic = "end upset tired alpha brain purity below beauty similar sunny mandate earth";
+var mnemonic = "comic always rifle left satisfy endless goat hurry midnight flash kingdom motor";

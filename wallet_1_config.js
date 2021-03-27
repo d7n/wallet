@@ -1,1 +1,1 @@
-var mnemonic = "deputy remind pyramid century half grid side soap water train wife hub";
+var mnemonic = "hospital view prize reopen shrimp parent dial wrestle call erase wire universe";

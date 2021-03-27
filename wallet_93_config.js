@@ -1,1 +1,1 @@
-var mnemonic = "cheese hazard buyer add island card depart fine alcohol enroll miracle more";
+var mnemonic = "atom diary choose radar exotic board buffalo abuse measure carbon risk short";

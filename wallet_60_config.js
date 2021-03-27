@@ -1,1 +1,1 @@
-var mnemonic = "panel turn maple gadget pelican own thing better mother hand leopard summer";
+var mnemonic = "evidence casino follow sort soap biology forward grunt arrow oak gravity fish";

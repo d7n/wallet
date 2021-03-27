@@ -1,1 +1,1 @@
-var mnemonic = "focus shrimp year absurd depart control slogan vessel sheriff aspect chief neither";
+var mnemonic = "piece oval liquid yellow infant dilemma fee fuel giant curtain easily slush";

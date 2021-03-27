@@ -1,1 +1,1 @@
-var mnemonic = "tumble wise track forum inhale elbow liberty duty engage addict cage craft";
+var mnemonic = "bone alien judge book cash clever ticket summer decade snake buyer illness";

@@ -1,1 +1,1 @@
-var mnemonic = "card lift flat nice team donor merry gossip canyon cargo achieve economy";
+var mnemonic = "under mammal dad sudden require hundred door renew since velvet casual phone";

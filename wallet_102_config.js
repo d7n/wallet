@@ -1,1 +1,1 @@
-var mnemonic = "void police surface donkey hurdle boy question want upset stamp various civil";
+var mnemonic = "field cause town decrease swallow profit drip spider erosion calm ranch velvet";

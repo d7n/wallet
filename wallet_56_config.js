@@ -1,1 +1,1 @@
-var mnemonic = "hero disorder chest jaguar detail light clinic cancel manage execute powder raise";
+var mnemonic = "hard coast exchange exclude lab fiscal energy depend derive ramp try era";

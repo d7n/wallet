@@ -1,1 +1,1 @@
-var mnemonic = "meat diagram patient similar obvious stamp stage monkey potato achieve play exercise";
+var mnemonic = "hour couch warfare butter actress monkey flame defense boss rally pattern poem";

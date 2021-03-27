@@ -1,1 +1,1 @@
-var mnemonic = "museum border together hope alcohol guess volume inject depth silk drop glare";
+var mnemonic = "vanish pole noble flag hollow violin globe suspect moon know differ drink";

@@ -1,1 +1,1 @@
-var mnemonic = "limit defense corn void reason area toss woman settle large woman shallow";
+var mnemonic = "kingdom smooth hobby squirrel canal banana often actress key filter elegant sheriff";

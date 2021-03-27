@@ -1,1 +1,1 @@
-var mnemonic = "secret gloom analyst fan rapid sweet any claw foster fashion umbrella orchard";
+var mnemonic = "turtle mad word garden defy often large seven sauce erase grass gather";

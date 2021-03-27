@@ -1,1 +1,1 @@
-var mnemonic = "shy divide shift expand suspect motion verify pig cook fit bubble expire";
+var mnemonic = "narrow hurry alien audit steel glory become please retreat pitch jealous excess";

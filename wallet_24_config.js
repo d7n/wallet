@@ -1,1 +1,1 @@
-var mnemonic = "clutch hazard rent path program owner staff happy good cry hero receive";
+var mnemonic = "embody match absent scrub assist mutual school decorate mind blood portion famous";

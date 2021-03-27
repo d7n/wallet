@@ -1,1 +1,1 @@
-var mnemonic = "unusual mean ramp benefit genius reunion elevator census salt flag dry pet";
+var mnemonic = "bean gorilla cruise offer indicate near flat soup copy guess supply science";

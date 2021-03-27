@@ -1,1 +1,1 @@
-var mnemonic = "spawn meadow spread fit oblige economy aunt approve sound cruise coconut satisfy";
+var mnemonic = "oil biology pizza divide invite vehicle novel quick inmate property reopen energy";

@@ -1,1 +1,1 @@
-var mnemonic = "illegal foster december own stick they habit ethics exact sand raven enrich";
+var mnemonic = "smile stereo derive sense answer price theme will horn helmet casino mushroom";

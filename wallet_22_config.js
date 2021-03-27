@@ -1,1 +1,1 @@
-var mnemonic = "since language stamp pear degree develop special scissors float liar identify develop";
+var mnemonic = "skill unusual admit real prison eight convince happy render math expect want";

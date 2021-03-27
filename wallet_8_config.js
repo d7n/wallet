@@ -1,1 +1,1 @@
-var mnemonic = "panel laptop genuine typical feed pumpkin tiny give photo cinnamon recycle empty";
+var mnemonic = "zebra kitten edit helmet soup blame suspect organ half siren exercise profit";

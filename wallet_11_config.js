@@ -1,1 +1,1 @@
-var mnemonic = "toddler abandon turtle digital coyote reform host sun solid sun steak type";
+var mnemonic = "wheel often narrow garage brisk layer neck kangaroo bomb enact vehicle oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer love chapter caught palace client leader tumble blood list crucial forest";
+var mnemonic = "soldier wrestle weekend dolphin joy caution satisfy cake degree claim wealth cup";

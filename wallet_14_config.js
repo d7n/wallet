@@ -1,1 +1,1 @@
-var mnemonic = "nothing salmon snake peace flock salute circle clap right area visual excuse";
+var mnemonic = "knee helmet entire pole average crop record health spoil happy faith celery";

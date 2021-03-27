@@ -1,1 +1,1 @@
-var mnemonic = "creek roof ivory fire scorpion october hidden retire mail mobile report equip";
+var mnemonic = "draw verify cube usual misery half behave flush fault thing piano comic";

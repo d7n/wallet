@@ -1,1 +1,1 @@
-var mnemonic = "boost review bean search gain base eternal cannon among crisp casino exchange";
+var mnemonic = "reduce mixture dance brown chicken body fly know twelve toward damp guess";

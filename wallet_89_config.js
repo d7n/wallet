@@ -1,1 +1,1 @@
-var mnemonic = "document inmate sing spread dilemma exit seek warm quote laugh journey nominee";
+var mnemonic = "region already tragic antenna letter park victory lizard whip six trip portion";

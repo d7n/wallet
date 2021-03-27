@@ -1,1 +1,1 @@
-var mnemonic = "found school original modify letter velvet chalk walnut essence weather fall earn";
+var mnemonic = "tissue cabbage prefer matrix release deposit fitness gadget mesh door woman choose";

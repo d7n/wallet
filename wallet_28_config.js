@@ -1,1 +1,1 @@
-var mnemonic = "album doctor final pottery salmon ridge entire area brown close door sister";
+var mnemonic = "frame chef waste explain bean often figure improve weapon supply fury fault";

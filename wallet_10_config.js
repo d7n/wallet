@@ -1,1 +1,1 @@
-var mnemonic = "token arrive fashion melt term sample table once hen alter float today";
+var mnemonic = "output grass length shoot arena market grow rebuild junk finish glory useless";

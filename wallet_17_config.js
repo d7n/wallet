@@ -1,1 +1,1 @@
-var mnemonic = "fatal stage depart link coconut major moment subway drastic vintage reunion cry";
+var mnemonic = "grocery burger dove nest one double glide pause flock debate hair orphan";

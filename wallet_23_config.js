@@ -1,1 +1,1 @@
-var mnemonic = "muscle want trial artist just exhaust before divide method wagon timber room";
+var mnemonic = "chunk govern wisdom pole various skate sweet icon ignore mobile elder sign";

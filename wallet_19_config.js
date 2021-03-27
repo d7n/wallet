@@ -1,1 +1,1 @@
-var mnemonic = "label elbow fault pill ski visual spirit jar fiber indoor unfair surface";
+var mnemonic = "decline slam inject electric hood drill century wreck panda all athlete escape";

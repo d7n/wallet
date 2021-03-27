@@ -1,1 +1,1 @@
-var mnemonic = "isolate witness angle argue forward skull language picnic jealous harbor brain zebra";
+var mnemonic = "display young air lesson shield hedgehog supreme library diesel gate uniform ozone";

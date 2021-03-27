@@ -1,1 +1,1 @@
-var mnemonic = "abuse grab powder bundle upset sound climb bright limit salon farm sniff";
+var mnemonic = "dish like chimney axis lawsuit mad donkey actor melt age inject sudden";
