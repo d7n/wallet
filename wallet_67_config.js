@@ -1,1 +1,1 @@
-var mnemonic = "when tide toy lottery various still rug raise weapon tell mutual nest";
+var mnemonic = "vital ability quiz wealth such rail attitude used exile bird lamp cotton";

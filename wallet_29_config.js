@@ -1,1 +1,1 @@
-var mnemonic = "angle before spider faith neglect visual drastic man curtain trade follow barely";
+var mnemonic = "era exit farm cupboard sort delay basic exotic snap emerge chapter tired";

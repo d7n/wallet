@@ -1,1 +1,1 @@
-var mnemonic = "sudden echo town note mistake idea refuse young wood assault oppose object";
+var mnemonic = "portion replace control bus crawl small jungle brief have grain demise general";

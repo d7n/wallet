@@ -1,1 +1,1 @@
-var mnemonic = "glimpse wasp doctor sheriff isolate mansion smart local midnight digital mandate tissue";
+var mnemonic = "hard coral armor other lecture couch shop dry harvest now hidden input";

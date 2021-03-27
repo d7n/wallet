@@ -1,1 +1,1 @@
-var mnemonic = "business liberty canyon clean stable tip electric refuse alter exercise zone sell";
+var mnemonic = "swarm now danger swim tent flower final pumpkin act drastic angle trigger";

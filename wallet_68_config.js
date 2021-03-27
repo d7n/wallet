@@ -1,1 +1,1 @@
-var mnemonic = "fatal seed soul elite certain spray recall silly current scare blouse outside";
+var mnemonic = "grain only clean embark envelope leaf divorce much dream now final cross";

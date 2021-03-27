@@ -1,1 +1,1 @@
-var mnemonic = "dirt unlock cupboard fan client organ buzz once december apple slam inherit";
+var mnemonic = "ripple other enroll motion anxiety limb seven income vocal empty potato vast";

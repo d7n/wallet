@@ -1,1 +1,1 @@
-var mnemonic = "laugh connect essence hunt crime few physical piano magnet three prefer normal";
+var mnemonic = "sign core discover foster outer scare claim month sail extra erupt hand";

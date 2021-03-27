@@ -1,1 +1,1 @@
-var mnemonic = "decorate remind magic celery wife citizen drive juice found flag feature menu";
+var mnemonic = "tomato machine level album bunker amazing squirrel derive borrow gasp print ladder";

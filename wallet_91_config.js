@@ -1,1 +1,1 @@
-var mnemonic = "swift child erupt milk envelope aspect speak rally ugly wine ginger switch";
+var mnemonic = "sniff potato vicious card auction uphold nurse symptom very soap banner race";

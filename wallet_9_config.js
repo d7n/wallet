@@ -1,1 +1,1 @@
-var mnemonic = "illegal drastic trip wisdom sibling kitchen inject direct curious thrive adapt mesh";
+var mnemonic = "flip clump lava arrow unaware input citizen walnut nerve burden title case";

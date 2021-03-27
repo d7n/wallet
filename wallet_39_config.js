@@ -1,1 +1,1 @@
-var mnemonic = "valley select risk own sadness energy snap pelican differ legend scorpion island";
+var mnemonic = "sleep jungle hungry tell gold people bird humble alter burst unit police";

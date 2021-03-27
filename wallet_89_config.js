@@ -1,1 +1,1 @@
-var mnemonic = "enough acoustic spice toddler shield someone second lecture fluid media grunt fix";
+var mnemonic = "gate unique gap symbol fuel apology floor illegal media ghost federal rib";

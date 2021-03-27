@@ -1,1 +1,1 @@
-var mnemonic = "fit culture reject mansion purse extend master bulk syrup please remember session";
+var mnemonic = "will they youth alarm release opera waste dutch quote boat universe scale";

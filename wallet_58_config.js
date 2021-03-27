@@ -1,1 +1,1 @@
-var mnemonic = "ritual slight brand ghost topic empty jar journey disease proof spawn onion";
+var mnemonic = "label cute protect fatal genius brain service burger crane concert fever practice";

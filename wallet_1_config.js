@@ -1,1 +1,1 @@
-var mnemonic = "core apple loyal more dawn above scatter above rhythm truth embrace feel";
+var mnemonic = "join flee only note include honey mobile great athlete engine enable dress";

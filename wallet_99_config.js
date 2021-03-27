@@ -1,1 +1,1 @@
-var mnemonic = "basic affair trigger clever allow work tide skull pet unfair olive other";
+var mnemonic = "tackle ring speed find filter segment gadget search guitar party merit upon";

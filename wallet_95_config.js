@@ -1,1 +1,1 @@
-var mnemonic = "eight knife soup alter can fury melt measure month inflict spare buffalo";
+var mnemonic = "supreme change raw wing danger frequent birth turtle excess quick virtual hover";

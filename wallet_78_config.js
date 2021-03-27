@@ -1,1 +1,1 @@
-var mnemonic = "coin outdoor furnace chimney tree column crunch extend journey table album replace";
+var mnemonic = "arm almost guard urge base kangaroo walnut affair combine brother similar orchard";

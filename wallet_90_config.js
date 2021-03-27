@@ -1,1 +1,1 @@
-var mnemonic = "weasel depart job kitchen pony estate moral frown avoid field shoulder adjust";
+var mnemonic = "flight lab version almost oval coffee fence party broken infant solid adult";

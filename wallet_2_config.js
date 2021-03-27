@@ -1,1 +1,1 @@
-var mnemonic = "attract toe certain ask hand walk ripple music luggage undo gas ask";
+var mnemonic = "real crack engage estate thumb comfort dice cross dice gallery tone miracle";

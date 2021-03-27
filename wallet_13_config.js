@@ -1,1 +1,1 @@
-var mnemonic = "cereal circle recall poverty enforce regular tenant buffalo foster acid slot poet";
+var mnemonic = "february artwork truth decade hurdle shoe churn sheriff skill provide fuel rescue";

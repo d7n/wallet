@@ -1,1 +1,1 @@
-var mnemonic = "kite sister jaguar obvious vivid small arrive dwarf media soul gas car";
+var mnemonic = "reveal change flame such crisp warrior faint sign wagon program phone elder";

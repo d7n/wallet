@@ -1,1 +1,1 @@
-var mnemonic = "royal envelope ridge grow empower patient fever deny accident position phone flock";
+var mnemonic = "tattoo trip process asset spoon soap loud manage stereo ready lake parrot";

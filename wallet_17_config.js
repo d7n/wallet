@@ -1,1 +1,1 @@
-var mnemonic = "make tide check food leisure crumble indicate gate edit peasant purity alley";
+var mnemonic = "burst drip elite select half edit maximum hand ski color bind direct";

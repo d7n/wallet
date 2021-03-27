@@ -1,1 +1,1 @@
-var mnemonic = "fresh magnet guide useless doctor stereo infant gesture enough attend memory inquiry";
+var mnemonic = "rapid machine try soldier grunt unit general column will buddy course any";

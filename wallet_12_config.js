@@ -1,1 +1,1 @@
-var mnemonic = "bind jar cheap liar elegant erode wife element food slender have mail";
+var mnemonic = "alone impulse sock muffin elegant broom village amount profit raccoon guilt hill";

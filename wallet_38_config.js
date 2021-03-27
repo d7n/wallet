@@ -1,1 +1,1 @@
-var mnemonic = "walnut reduce cabbage jump grape logic average original lunar lounge bunker head";
+var mnemonic = "economy tag giggle much hundred trick floor arrive drip fetch slow flee";

@@ -1,1 +1,1 @@
-var mnemonic = "tissue glass uncle way glance town notice alert aerobic digital glory warfare";
+var mnemonic = "rent cup property clutch kingdom scale shed gun check pizza marble december";

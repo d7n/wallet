@@ -1,1 +1,1 @@
-var mnemonic = "mandate artwork vivid sunny credit slab swarm lobster mansion grab when sock";
+var mnemonic = "smoke initial lyrics master oppose achieve need cruise lawsuit attack fantasy funny";

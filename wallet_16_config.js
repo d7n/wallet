@@ -1,1 +1,1 @@
-var mnemonic = "owner bridge tag abstract rapid annual earn idle radar jelly machine tooth";
+var mnemonic = "cereal metal donor inquiry sense eternal kit network divorce earth patch cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "quick flag believe ordinary hospital protect pluck chair response couple trip upon";
+var mnemonic = "exhibit chest punch impose tip scale cart resource bench pink diamond useful";

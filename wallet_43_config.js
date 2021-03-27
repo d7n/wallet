@@ -1,1 +1,1 @@
-var mnemonic = "bunker wage beef project humble sister armed business rain list crash toast";
+var mnemonic = "favorite opera monkey lucky across wire gold pledge cart bench maximum angry";

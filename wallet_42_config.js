@@ -1,1 +1,1 @@
-var mnemonic = "mosquito drink print lounge worth spice isolate advance plate renew gift pond";
+var mnemonic = "hurry elite join remove toss during apology gather huge penalty attract throw";

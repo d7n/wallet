@@ -1,1 +1,1 @@
-var mnemonic = "manual ability power east width link divorce silent tool car elite helmet";
+var mnemonic = "work salmon marine foam mango hover rack parent express rifle lazy can";

@@ -1,1 +1,1 @@
-var mnemonic = "spider dumb improve twelve wish stadium mass stool dilemma benefit unveil knock";
+var mnemonic = "muscle cart quick pizza wrestle giant possible pumpkin perfect sketch shoe sea";

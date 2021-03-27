@@ -1,1 +1,1 @@
-var mnemonic = "foster spider apology sphere upgrade blue forum shoe record fringe require double";
+var mnemonic = "fine fade garlic member grocery crowd wealth deposit pen harsh series romance";

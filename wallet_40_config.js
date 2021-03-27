@@ -1,1 +1,1 @@
-var mnemonic = "worth truth uphold foster conduct arrange point slim they amazing alcohol clog";
+var mnemonic = "six manage slot carry merit live crack enact acid shaft access poet";

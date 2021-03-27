@@ -1,1 +1,1 @@
-var mnemonic = "make elegant weekend crawl ask cheap easy favorite label quote skirt announce";
+var mnemonic = "grow fresh end olympic agree thrive because sure major inflict phone property";

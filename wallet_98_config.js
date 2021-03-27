@@ -1,1 +1,1 @@
-var mnemonic = "enrich nice duck rose ritual relief reform proud lock flame abstract sure";
+var mnemonic = "surface dismiss scan neither shiver ghost absent rookie ritual inquiry narrow canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "timber best spawn antique drop radio team absorb vessel mandate sea rely";
+var mnemonic = "walk observe caution burst duck armor evoke unaware emotion van float ridge";

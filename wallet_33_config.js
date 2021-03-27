@@ -1,1 +1,1 @@
-var mnemonic = "original ball joy retreat reflect metal van same walk lock brief squirrel";
+var mnemonic = "host vote notable sausage elevator core file nature change mail tiger knee";

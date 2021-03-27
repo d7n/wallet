@@ -1,1 +1,1 @@
-var mnemonic = "rude pull educate identify gravity genius best wood easy slide surface flame";
+var mnemonic = "finger pottery switch brass fuel entire scissors blossom nephew arrow rib erupt";

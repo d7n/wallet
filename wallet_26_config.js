@@ -1,1 +1,1 @@
-var mnemonic = "wink cloud abandon chicken now neglect day lens maple foam wool famous";
+var mnemonic = "wave peace melody jungle hurdle element ribbon room cause leader output jungle";

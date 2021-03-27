@@ -1,1 +1,1 @@
-var mnemonic = "when coil response kangaroo argue cereal oven pitch guide neglect brother citizen";
+var mnemonic = "visit eight upgrade dance picnic holiday drift across hockey october soda flat";

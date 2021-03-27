@@ -1,1 +1,1 @@
-var mnemonic = "trade depth congress account banner physical vote blouse vacuum wood fee antenna";
+var mnemonic = "elevator gentle comfort border damage magnet maid high announce scorpion umbrella then";

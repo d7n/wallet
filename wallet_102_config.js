@@ -1,1 +1,1 @@
-var mnemonic = "knife arctic alarm tomorrow depth faith electric zoo amazing scheme globe proud";
+var mnemonic = "raise mobile shaft awesome normal camp surge wine axis three mix vacuum";

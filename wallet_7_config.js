@@ -1,1 +1,1 @@
-var mnemonic = "trim hello fabric bench exchange pass spread typical practice huge fringe affair";
+var mnemonic = "winter arrange cover enjoy tooth protect balance powder balance anger mail yard";

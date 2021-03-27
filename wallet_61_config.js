@@ -1,1 +1,1 @@
-var mnemonic = "decade collect number direct control artist abstract lawn improve often problem chapter";
+var mnemonic = "theme ice claim fuel square duck small casual inhale learn play try";

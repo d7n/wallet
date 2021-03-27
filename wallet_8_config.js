@@ -1,1 +1,1 @@
-var mnemonic = "blame humble boy error appear long boss fruit lamp off novel pact";
+var mnemonic = "carbon search face over weapon whip ensure inflict undo sadness custom maid";

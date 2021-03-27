@@ -1,1 +1,1 @@
-var mnemonic = "deer erode alarm horror earth eager display omit deputy margin section sausage";
+var mnemonic = "eight meadow odor monitor frog innocent bubble nurse finish cancel monkey next";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort drop dice regret oblige sea giggle capable prison this kind casino";
+var mnemonic = "december device master list junk buffalo route betray cloth uphold exact warfare";

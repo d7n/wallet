@@ -1,1 +1,1 @@
-var mnemonic = "hurry hurt pen next quarter kidney clap process follow whale sure siren";
+var mnemonic = "faint danger caution curtain elegant stamp render innocent maze cloth second just";

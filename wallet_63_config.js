@@ -1,1 +1,1 @@
-var mnemonic = "genre follow mansion pool derive also violin night behind funny control boring";
+var mnemonic = "digital resource adult shrimp mother bacon chapter style amused debate exile derive";

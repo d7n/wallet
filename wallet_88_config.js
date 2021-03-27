@@ -1,1 +1,1 @@
-var mnemonic = "mystery sudden odor chapter embody panic lottery benefit similar that letter theory";
+var mnemonic = "chat purpose sight duck measure club pet canoe boy capable story undo";

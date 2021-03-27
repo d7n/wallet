@@ -1,1 +1,1 @@
-var mnemonic = "fork disagree festival rebuild super ten pigeon clump during slow answer bus";
+var mnemonic = "zoo spice front recycle sheriff wrong purchase neutral have wrestle attack soul";

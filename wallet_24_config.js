@@ -1,1 +1,1 @@
-var mnemonic = "foster race toilet desert pig jelly furnace river calm jaguar hello balcony";
+var mnemonic = "spread bean maid ivory congress physical purpose impose balcony athlete session miracle";

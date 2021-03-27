@@ -1,1 +1,1 @@
-var mnemonic = "swarm dry latin anger burst enable soap man legend crunch bring giant";
+var mnemonic = "mad chief pizza always arena soul taxi mimic comic hat pulp sure";

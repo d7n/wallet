@@ -1,1 +1,1 @@
-var mnemonic = "such saddle wreck voyage few science spray vague stable misery digital mixed";
+var mnemonic = "theme victory gate false sample symbol old glue perfect foot blush country";

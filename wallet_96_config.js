@@ -1,1 +1,1 @@
-var mnemonic = "bamboo ceiling border scale duty want pluck fame method describe observe piece";
+var mnemonic = "feature south deputy million wool tomato orange coast snap humor web jazz";

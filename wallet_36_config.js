@@ -1,1 +1,1 @@
-var mnemonic = "use lock range debris kiss main dream daring midnight uniform dune orange";
+var mnemonic = "logic enable maximum rent uncle afraid stereo course donate ripple diary skin";

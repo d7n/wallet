@@ -1,1 +1,1 @@
-var mnemonic = "legend strong recycle endorse camp kidney report excuse power device chronic boil";
+var mnemonic = "sample recipe cigar surround permit fame cabbage boost phrase symptom brief identify";

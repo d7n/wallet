@@ -1,1 +1,1 @@
-var mnemonic = "frequent fault cabin struggle giggle yellow river fitness coast kidney raw mind";
+var mnemonic = "dismiss double identify market exact organ peanut visual tragic vintage excite monitor";

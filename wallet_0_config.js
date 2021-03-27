@@ -1,1 +1,1 @@
-var mnemonic = "enrich hockey tiger error cannon indoor biology traffic carpet post peasant present";
+var mnemonic = "lift today glimpse actor flush jungle trust crystal bounce test grain helmet";

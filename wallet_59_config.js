@@ -1,1 +1,1 @@
-var mnemonic = "purchase verify pluck toss hybrid scale gadget small shock bundle lizard scrap";
+var mnemonic = "mixed matter garage decorate person thumb birth vintage round gift dry nice";

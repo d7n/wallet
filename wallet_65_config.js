@@ -1,1 +1,1 @@
-var mnemonic = "pilot lab genius post must found island lawn enable trend school rabbit";
+var mnemonic = "term artwork cram canvas clever window undo ignore gossip layer hour large";

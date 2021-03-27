@@ -1,1 +1,1 @@
-var mnemonic = "busy weapon shop citizen clog poem joke vocal enable verify check visit";
+var mnemonic = "fire ball depart position jump decide fantasy receive theme sadness tool bracket";

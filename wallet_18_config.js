@@ -1,1 +1,1 @@
-var mnemonic = "trophy course process pave enact news female tree mystery pulse give olympic";
+var mnemonic = "crush during hockey lobster hungry suffer danger roof air action symptom exotic";

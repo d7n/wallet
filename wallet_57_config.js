@@ -1,1 +1,1 @@
-var mnemonic = "into tool water first sort direct scissors tomorrow quit regret sight try";
+var mnemonic = "car ghost monkey energy absorb divorce valid injury multiply share mutual grab";

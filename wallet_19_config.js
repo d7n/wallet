@@ -1,1 +1,1 @@
-var mnemonic = "lemon ozone used come pledge hat imitate guide repeat brown famous ready";
+var mnemonic = "core nothing trouble mosquito funny enter patient trophy project pistol pill kitten";

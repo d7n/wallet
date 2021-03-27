@@ -1,1 +1,1 @@
-var mnemonic = "express amount wear roof two crouch virtual relax weasel girl clever law";
+var mnemonic = "scorpion dream fame split barrel beyond cluster better goat furnace farm decide";

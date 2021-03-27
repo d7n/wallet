@@ -1,1 +1,1 @@
-var mnemonic = "pledge simple easily hawk news now universe hurdle goat marble cigar dilemma";
+var mnemonic = "slide poet affair hood theme pave poem maze sausage summer bar wash";

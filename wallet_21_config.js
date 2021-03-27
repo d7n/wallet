@@ -1,1 +1,1 @@
-var mnemonic = "easy resist miss merit timber away need pause pistol rifle clutch proof";
+var mnemonic = "august into hard female way raven demand blade oppose divide cousin devote";

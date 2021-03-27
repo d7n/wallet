@@ -1,1 +1,1 @@
-var mnemonic = "screen link beach essence tornado liar moon add park furnace warrior pass";
+var mnemonic = "side bomb tape top road sword glue add school arctic urge mirror";

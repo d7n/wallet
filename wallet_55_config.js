@@ -1,1 +1,1 @@
-var mnemonic = "ordinary joke cushion wrist fossil witness meadow taste vendor van risk rent";
+var mnemonic = "road whisper quote sure awake beyond medal course trumpet swim depth human";

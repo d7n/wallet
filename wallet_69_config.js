@@ -1,1 +1,1 @@
-var mnemonic = "pizza spread burger unable ski label another spoil unfold brass shrimp lobster";
+var mnemonic = "erode turtle soft bachelor pill decline utility few holiday bird lesson eternal";

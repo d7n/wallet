@@ -1,1 +1,1 @@
-var mnemonic = "calm lucky index chief blame wage oblige legal fluid boss island cupboard";
+var mnemonic = "quote citizen share airport practice question survey steak suit question obtain fresh";

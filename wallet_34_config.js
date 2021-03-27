@@ -1,1 +1,1 @@
-var mnemonic = "ready talk review change message ginger letter cause stairs loyal uniform author";
+var mnemonic = "almost typical patrol surge glass engage coffee iron gloom venue ten system";

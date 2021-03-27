@@ -1,1 +1,1 @@
-var mnemonic = "shine child cupboard trash grocery choice trap coral urge case pupil recall";
+var mnemonic = "say ghost shiver bundle memory ordinary oven grief base oven history steel";

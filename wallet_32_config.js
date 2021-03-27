@@ -1,1 +1,1 @@
-var mnemonic = "certain wise thought announce strike version can faith try sick planet mistake";
+var mnemonic = "shed senior receive muscle cupboard prepare side envelope chair give butter miracle";

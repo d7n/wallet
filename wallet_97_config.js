@@ -1,1 +1,1 @@
-var mnemonic = "know waste exact life tilt tissue pulp review cupboard devote grow feed";
+var mnemonic = "stage glad insane color party fire nature drama civil scissors push head";

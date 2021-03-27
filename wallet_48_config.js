@@ -1,1 +1,1 @@
-var mnemonic = "marriage auto fall radio same visual culture guilt shrimp dry boss inner";
+var mnemonic = "speed below benefit leaf pole stone obscure govern lake conduct pelican able";

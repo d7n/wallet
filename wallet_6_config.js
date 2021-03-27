@@ -1,1 +1,1 @@
-var mnemonic = "evoke theme possible borrow produce flower rude december crunch cover vintage alcohol";
+var mnemonic = "guard beach unique game pass obtain goose prize butter adjust sister mom";

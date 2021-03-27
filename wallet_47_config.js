@@ -1,1 +1,1 @@
-var mnemonic = "goddess winner trigger obscure bread hub excite history sniff brick filter wisdom";
+var mnemonic = "member anger donor smoke jar tower oval green night exit canoe position";

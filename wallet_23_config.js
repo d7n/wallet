@@ -1,1 +1,1 @@
-var mnemonic = "hero gaze beyond empty punch minimum identify admit pudding roof trial ladder";
+var mnemonic = "also reflect six diary liquid fluid square forum rocket addict area trouble";

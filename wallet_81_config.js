@@ -1,1 +1,1 @@
-var mnemonic = "purchase zoo ten one trumpet lesson female embrace milk guitar candy mass";
+var mnemonic = "tilt defy grocery shell surround dash coral gossip elegant consider tragic elephant";

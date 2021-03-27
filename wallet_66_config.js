@@ -1,1 +1,1 @@
-var mnemonic = "rail picnic display area vault remind poem aunt stamp supreme dynamic emerge";
+var mnemonic = "half velvet shuffle balcony gadget typical junk car else ticket bomb taste";

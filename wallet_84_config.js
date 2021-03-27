@@ -1,1 +1,1 @@
-var mnemonic = "duty easily wasp spawn rival culture wife wave hobby quarter enter reopen";
+var mnemonic = "frown ritual mutual infant rebel favorite conduct true debris erosion click worth";
