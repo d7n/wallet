@@ -1,1 +1,1 @@
-var mnemonic = "stand oblige vapor crane box flavor vote gather list biology helmet soap";
+var mnemonic = "bridge stairs shed ethics sound never rose pulse warfare assume segment wet";

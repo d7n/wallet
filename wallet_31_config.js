@@ -1,1 +1,1 @@
-var mnemonic = "glue shed despair shy gown climb response excite blast increase property adapt";
+var mnemonic = "small mass develop hint can forest faith recycle couple survey vivid isolate";

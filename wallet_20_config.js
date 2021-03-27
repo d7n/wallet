@@ -1,1 +1,1 @@
-var mnemonic = "together toe manage task slice spend tattoo essay vacuum clap dress predict";
+var mnemonic = "mimic neck much boy pioneer prepare suffer swallow fortune sister satoshi regular";

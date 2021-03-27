@@ -1,1 +1,1 @@
-var mnemonic = "choose section month hire pond rally sugar total better grief toward merge";
+var mnemonic = "drip rare tip mixture october weather arrange small mad like bulk unhappy";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter vacuum budget spike fan evidence obscure run clever level damp sustain";
+var mnemonic = "funny anger dutch index brief ghost captain okay laundry symbol what suit";

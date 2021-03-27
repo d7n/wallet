@@ -1,1 +1,1 @@
-var mnemonic = "tornado pioneer rhythm cushion bundle october minimum whip express term more raise";
+var mnemonic = "sail account finger girl pulse car similar heart human much about heart";

@@ -1,1 +1,1 @@
-var mnemonic = "craft unfair great response ridge lens sketch first syrup diamond total charge";
+var mnemonic = "ankle trophy health picnic tank detect autumn rhythm deal order rail someone";

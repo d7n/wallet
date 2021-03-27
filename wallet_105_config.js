@@ -1,1 +1,1 @@
-var mnemonic = "thank suffer wall morning hamster deputy stereo alcohol cube maple skull ignore";
+var mnemonic = "vivid unhappy female idea bind cream normal ethics joy toast neither net";

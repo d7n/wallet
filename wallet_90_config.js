@@ -1,1 +1,1 @@
-var mnemonic = "impose crystal paper night clap prepare mirror erosion aerobic rubber soul door";
+var mnemonic = "net foil major knife behind stereo result couple hour service confirm poverty";

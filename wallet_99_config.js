@@ -1,1 +1,1 @@
-var mnemonic = "rain energy capable list sport ladder eye elephant clown artwork unit window";
+var mnemonic = "also type design rain valley hover route rubber pave spy cover struggle";

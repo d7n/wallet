@@ -1,1 +1,1 @@
-var mnemonic = "grow wasp spider alone usual rally tuition drill average soft tortoise original";
+var mnemonic = "actor old lesson twin pull angry give join faculty sell pulp nuclear";

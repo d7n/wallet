@@ -1,1 +1,1 @@
-var mnemonic = "spend exact spray fiber detail urge during issue shaft resource eagle pizza";
+var mnemonic = "sustain load sock pact state voice solar arena verb network veteran snack";

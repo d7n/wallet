@@ -1,1 +1,1 @@
-var mnemonic = "resemble trend endless cat want basket promote enable blade chase young act";
+var mnemonic = "level bar weapon casual shoe solid escape middle misery movie kidney achieve";

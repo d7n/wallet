@@ -1,1 +1,1 @@
-var mnemonic = "benefit swap clown pretty plastic area rural keep blossom spatial casino guide";
+var mnemonic = "maximum have report uphold split utility middle caution swamp diesel portion pilot";

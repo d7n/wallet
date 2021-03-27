@@ -1,1 +1,1 @@
-var mnemonic = "hub entry since faint three arm piano educate bus plastic loan maid";
+var mnemonic = "album affair tiny double matrix bulk end door inherit bronze duty talk";

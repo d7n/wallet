@@ -1,1 +1,1 @@
-var mnemonic = "vault pupil shock ceiling voyage charge egg put stay faculty differ female";
+var mnemonic = "large trade milk erode conduct tuition oil cream illegal ring setup flower";

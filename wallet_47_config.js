@@ -1,1 +1,1 @@
-var mnemonic = "outside patrol vendor room vapor oblige win consider match useful egg sure";
+var mnemonic = "boy near pulp capital run erode happy orange roof melody sketch grace";

@@ -1,1 +1,1 @@
-var mnemonic = "despair basket control sorry vast baby genius float diary noodle faculty crop";
+var mnemonic = "visa sick rabbit range miracle bleak learn eyebrow desk conduct belt script";

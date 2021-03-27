@@ -1,1 +1,1 @@
-var mnemonic = "ceiling call head cloud slender rate despair outdoor make morning huge inherit";
+var mnemonic = "deny leopard kind art dilemma shop tool fork guitar salt impose diary";

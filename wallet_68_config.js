@@ -1,1 +1,1 @@
-var mnemonic = "profit level pigeon noodle cricket august ethics wagon rent wall exercise wheat";
+var mnemonic = "sweet cushion buyer lesson super anchor ranch relief unaware problem escape spin";

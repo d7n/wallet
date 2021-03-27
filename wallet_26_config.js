@@ -1,1 +1,1 @@
-var mnemonic = "notice cannon field addict weapon law exist gap disorder movie way cluster";
+var mnemonic = "rabbit balance detail slide twelve juice iron comfort produce fever garbage seed";

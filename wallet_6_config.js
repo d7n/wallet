@@ -1,1 +1,1 @@
-var mnemonic = "slender drink rebuild limb move page gorilla point minor ridge train enact";
+var mnemonic = "cry judge near acoustic heavy dumb claim day dove west ladder fresh";

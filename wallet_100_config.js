@@ -1,1 +1,1 @@
-var mnemonic = "change rapid capital page assume lazy damp book clutch roast spawn song";
+var mnemonic = "owner stone expect electric fade feel screen acoustic segment person uncle alone";

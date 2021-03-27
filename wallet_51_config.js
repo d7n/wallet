@@ -1,1 +1,1 @@
-var mnemonic = "style demise luxury matter ghost memory vendor tongue crouch talk liquid gentle";
+var mnemonic = "actor stand trophy region humor case kite tiny song blame elder nasty";

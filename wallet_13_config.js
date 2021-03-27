@@ -1,1 +1,1 @@
-var mnemonic = "chair one renew trust parade talent together tooth daughter verify engine theme";
+var mnemonic = "truly enhance attack math violin aisle wreck today fire chronic clinic consider";

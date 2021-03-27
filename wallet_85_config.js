@@ -1,1 +1,1 @@
-var mnemonic = "taxi science ribbon pulse sustain stool people hammer increase pupil plate fancy";
+var mnemonic = "sister stove concert inch raven milk stem eager magnet bicycle stick finish";

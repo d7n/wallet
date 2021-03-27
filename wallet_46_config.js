@@ -1,1 +1,1 @@
-var mnemonic = "spider elder nephew remember spring subject like frozen dilemma logic episode smoke";
+var mnemonic = "garment thank build immense olympic cactus ship lion little rifle hurdle sea";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter goddess off license water grab cake drink pelican stomach seat apology";
+var mnemonic = "entry robust fury outside very life lunch carpet render calm grief violin";

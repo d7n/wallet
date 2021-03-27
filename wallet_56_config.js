@@ -1,1 +1,1 @@
-var mnemonic = "invite maximum hair unfold volcano gesture truly turkey chalk better lamp case";
+var mnemonic = "erosion feature hospital aspect refuse indoor isolate tobacco resource cherry song climb";

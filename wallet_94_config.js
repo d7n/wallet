@@ -1,1 +1,1 @@
-var mnemonic = "idea prison message autumn boss cross book emerge wasp chalk pudding indoor";
+var mnemonic = "boost layer color pitch dune uncover tray mushroom jacket aspect wisdom entire";

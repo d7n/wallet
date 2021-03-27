@@ -1,1 +1,1 @@
-var mnemonic = "alley click property bacon limb father ceiling shell flash senior cricket auto";
+var mnemonic = "chronic rice fire print twelve rubber topic theory vicious simple nerve enroll";

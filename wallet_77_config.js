@@ -1,1 +1,1 @@
-var mnemonic = "cart this vintage judge borrow live result electric miracle turn person exist";
+var mnemonic = "load leader weapon over buddy season abandon there test seek slush pool";

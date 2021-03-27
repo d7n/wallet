@@ -1,1 +1,1 @@
-var mnemonic = "public brother rapid popular obey blade clap armed magic forest absurd blast";
+var mnemonic = "original satisfy rebuild paddle bread give protect width powder pull duck casual";

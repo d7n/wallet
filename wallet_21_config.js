@@ -1,1 +1,1 @@
-var mnemonic = "plate puzzle vivid east boat danger gadget ceiling slam anxiety nation shoe";
+var mnemonic = "exile focus favorite romance animal interest debate ocean detail basket error unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "despair such step trumpet insane deal frown fly hair jacket smile future";
+var mnemonic = "shop sport stamp frog island choose author describe blast favorite cement deny";

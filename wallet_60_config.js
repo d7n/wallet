@@ -1,1 +1,1 @@
-var mnemonic = "dirt dog accuse want oblige region butter cash scissors guess arrive march";
+var mnemonic = "gate enforce useless enlist jaguar breeze catch truly whisper wise vicious spider";

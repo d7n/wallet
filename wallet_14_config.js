@@ -1,1 +1,1 @@
-var mnemonic = "excuse buzz hurt catalog tag observe atom rocket undo replace exhaust onion";
+var mnemonic = "model forget kit axis legend palace decide pony write boring shadow brown";

@@ -1,1 +1,1 @@
-var mnemonic = "split flip artist loud disease guess dentist strategy surface chuckle find deposit";
+var mnemonic = "swarm inside uncle layer bulk snake chicken beauty social skull under lottery";

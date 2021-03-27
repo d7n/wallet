@@ -1,1 +1,1 @@
-var mnemonic = "sleep draw universe solution turn pretty dirt palm make point plate dirt";
+var mnemonic = "swim battle tent size march vague very come addict cancel outer demand";

@@ -1,1 +1,1 @@
-var mnemonic = "paper weekend bid seed much arctic post art armed future churn echo";
+var mnemonic = "harvest addict winter fortune asthma piano skate polar siege tide attitude dry";

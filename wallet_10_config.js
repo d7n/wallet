@@ -1,1 +1,1 @@
-var mnemonic = "submit wire sample family symptom vault crystal rent suggest weather decrease other";
+var mnemonic = "eight hub exclude blouse original tide local assault network loan mouse tide";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear wood top choose shoot donkey identify fetch ribbon glue panic minimum";
+var mnemonic = "blue session point note strong saddle december enter empower october crystal divorce";

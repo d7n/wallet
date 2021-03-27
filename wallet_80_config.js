@@ -1,1 +1,1 @@
-var mnemonic = "renew bar select spell cash visual push cigar satisfy inhale pigeon bright";
+var mnemonic = "throw glow rough twice secret include ride high vintage when lens thank";

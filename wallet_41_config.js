@@ -1,1 +1,1 @@
-var mnemonic = "clay monitor era canyon uphold unveil spin aim morning popular answer sure";
+var mnemonic = "ethics punch monitor small beef evoke enjoy off country fancy enact unknown";

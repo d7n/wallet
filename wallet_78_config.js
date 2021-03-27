@@ -1,1 +1,1 @@
-var mnemonic = "floor cash edge coral recycle detail season moon tomato kitchen goddess poem";
+var mnemonic = "sentence mirror dynamic corn canoe that fossil response dry kiwi defense busy";

@@ -1,1 +1,1 @@
-var mnemonic = "that gym uphold choice enjoy february industry harsh shoe excess visual brown";
+var mnemonic = "nest voyage doctor thought bronze discover strategy fiber vanish grass capital lend";

@@ -1,1 +1,1 @@
-var mnemonic = "canyon dismiss surge struggle slide olive clever spot head swamp artist leader";
+var mnemonic = "since original struggle evil spatial cage often animal swim pipe person wood";

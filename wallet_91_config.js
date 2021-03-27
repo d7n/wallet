@@ -1,1 +1,1 @@
-var mnemonic = "flat final happy used wet elegant dice kitten first goose wife away";
+var mnemonic = "water text camera airport tackle can faint utility trip absent nuclear anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit inquiry million squirrel aspect yard cactus street shaft warfare various cruel";
+var mnemonic = "erase slide great chapter easily punch orphan nasty car endorse correct early";

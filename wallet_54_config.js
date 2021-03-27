@@ -1,1 +1,1 @@
-var mnemonic = "woman begin crime broken insane now news news dose weird pumpkin ripple";
+var mnemonic = "entire solid pupil romance nephew cute drift gate knee ghost quiz inspire";

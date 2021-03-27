@@ -1,1 +1,1 @@
-var mnemonic = "casino tackle square vivid flash race hub grant roast citizen else must";
+var mnemonic = "fun debate ranch reason glare client spike mansion blind stereo film truck";

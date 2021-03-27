@@ -1,1 +1,1 @@
-var mnemonic = "guitar dentist husband text imitate urge west digital canoe syrup company shoulder";
+var mnemonic = "erosion gold idea onion angle slam silly never purchase daring gadget bag";

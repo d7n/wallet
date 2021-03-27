@@ -1,1 +1,1 @@
-var mnemonic = "bridge mask alert lounge humor garment west answer misery spring sort plate";
+var mnemonic = "deliver cover win virtual venue cart gentle badge input arrest argue keen";

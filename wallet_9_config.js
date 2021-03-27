@@ -1,1 +1,1 @@
-var mnemonic = "bargain feature hundred woman shaft actor lizard tent plastic stairs tip sadness";
+var mnemonic = "jeans lecture cliff kick furnace ticket pelican luxury type arm nest situate";

@@ -1,1 +1,1 @@
-var mnemonic = "pave correct liquid disagree film oblige budget chest vacant electric biology garlic";
+var mnemonic = "night flock cigar link nominee layer cloth myth head frog fall month";

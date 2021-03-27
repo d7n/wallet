@@ -1,1 +1,1 @@
-var mnemonic = "equip account pretty soul spin road drip donor fragile when cousin into";
+var mnemonic = "glance spare possible prosper drift asset away modify couch aware cream face";

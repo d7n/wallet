@@ -1,1 +1,1 @@
-var mnemonic = "crisp label reopen output rapid boring fall winter soon noodle spice mail";
+var mnemonic = "west fortune moon banner raven opinion song balcony moment deputy forum squeeze";

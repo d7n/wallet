@@ -1,1 +1,1 @@
-var mnemonic = "melody enlist cancel cousin trigger mouse believe radar art suggest duty dignity";
+var mnemonic = "below alarm blanket run fire turn snack evoke tissue book hidden stamp";

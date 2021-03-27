@@ -1,1 +1,1 @@
-var mnemonic = "joy ball prepare spin song ahead achieve session bind where feel ahead";
+var mnemonic = "wreck bracket squirrel sustain icon hawk awesome involve woman stage viable slender";

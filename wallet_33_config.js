@@ -1,1 +1,1 @@
-var mnemonic = "copy appear phone roast express struggle album gauge pink ride deal normal";
+var mnemonic = "art about excess someone base exact teach dolphin stick shield panda kit";

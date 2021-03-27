@@ -1,1 +1,1 @@
-var mnemonic = "garbage clean honey fresh trim grace wealth knife cheese snap course shell";
+var mnemonic = "palace immune quantum champion public final diamond energy color exclude pledge install";

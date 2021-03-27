@@ -1,1 +1,1 @@
-var mnemonic = "town habit dog load powder warm cargo cherry brain confirm clay hidden";
+var mnemonic = "provide strong pencil ticket midnight pause inside shy bright vanish sphere nice";

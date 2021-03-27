@@ -1,1 +1,1 @@
-var mnemonic = "pizza need sand useful stand brother border skill dinner maple process access";
+var mnemonic = "piano main humor miss swing puzzle firm swap need this useless duck";

@@ -1,1 +1,1 @@
-var mnemonic = "country mom century disease client bottom skate matrix raccoon dragon leader castle";
+var mnemonic = "december agree black shiver brush junk pattern east logic moon symbol mansion";

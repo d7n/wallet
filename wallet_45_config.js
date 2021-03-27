@@ -1,1 +1,1 @@
-var mnemonic = "sting mistake end author another raw true cliff pact father wide canvas";
+var mnemonic = "valley whip blast rare fence quarter hybrid slender surprise method visual warrior";

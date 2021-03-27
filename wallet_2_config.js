@@ -1,1 +1,1 @@
-var mnemonic = "rally almost buzz gas live confirm fine method brass suit beyond banana";
+var mnemonic = "prize soul such leg myth mammal peasant fee lamp arrest clap drill";

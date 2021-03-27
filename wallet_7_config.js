@@ -1,1 +1,1 @@
-var mnemonic = "cancel lens someone among glance wild federal siren gravity despair teach airport";
+var mnemonic = "such zebra crumble lawsuit fatigue butter mutual fox talk pride ice outside";

@@ -1,1 +1,1 @@
-var mnemonic = "junk screen private enroll vote final possible bless book arena concert tape";
+var mnemonic = "elevator pitch cook twist lens spoon female tumble critic tribe noble broken";

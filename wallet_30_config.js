@@ -1,1 +1,1 @@
-var mnemonic = "bleak often choose border bridge deal promote acoustic fee mercy diet width";
+var mnemonic = "alcohol mean shield brain corn practice cool afraid august space runway syrup";

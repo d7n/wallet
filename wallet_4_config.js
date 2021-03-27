@@ -1,1 +1,1 @@
-var mnemonic = "another slender taxi depart prize phone fringe gospel volcano width spread owner";
+var mnemonic = "where gesture adjust icon ahead that allow faculty vague plastic rhythm valley";

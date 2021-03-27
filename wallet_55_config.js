@@ -1,1 +1,1 @@
-var mnemonic = "truly liberty regret blind essence method basket lemon prosper vendor twelve off";
+var mnemonic = "prepare engine crime salute document perfect spray impulse fruit horn snake afford";

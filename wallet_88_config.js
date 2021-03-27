@@ -1,1 +1,1 @@
-var mnemonic = "shy fog oven business earth silly drum vacuum usage diet grape salon";
+var mnemonic = "learn oil review crazy keep agree faint piano impact skull broken universe";

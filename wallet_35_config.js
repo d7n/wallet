@@ -1,1 +1,1 @@
-var mnemonic = "laundry vehicle cupboard bottom various enemy pudding turkey worry melody sword limb";
+var mnemonic = "enjoy gate town pair plate winter ball typical video beach large grass";

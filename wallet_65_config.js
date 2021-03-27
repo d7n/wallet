@@ -1,1 +1,1 @@
-var mnemonic = "spell lamp vapor process discover side myself flee excite clock arrest laugh";
+var mnemonic = "soap firm dog nice already nature diesel cute grain hundred toss where";

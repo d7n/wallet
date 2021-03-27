@@ -1,1 +1,1 @@
-var mnemonic = "piano picture final boss deposit lake fiction fish yard pencil physical mind";
+var mnemonic = "grape envelope old object wasp top pulp number display doctor rally soldier";

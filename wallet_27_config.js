@@ -1,1 +1,1 @@
-var mnemonic = "alter final pause book latin update cactus wash walk split hospital together";
+var mnemonic = "switch trouble error tip cliff present network violin acid monster renew depart";

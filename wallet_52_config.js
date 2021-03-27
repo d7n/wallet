@@ -1,1 +1,1 @@
-var mnemonic = "host skirt long perfect achieve shrug little ticket music dry else slab";
+var mnemonic = "remove concert lady length front ketchup air cloud kite proof give water";

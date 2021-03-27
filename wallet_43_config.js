@@ -1,1 +1,1 @@
-var mnemonic = "stomach erase goddess salmon fold bunker human tooth very topic proud ozone";
+var mnemonic = "injury neutral alien portion manage drama solid garden weird cereal because noble";

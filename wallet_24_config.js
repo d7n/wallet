@@ -1,1 +1,1 @@
-var mnemonic = "wing twist cart peasant garage merry outdoor congress enter gadget believe metal";
+var mnemonic = "emerge fire tongue olive match chair buyer town wait drop enemy field";

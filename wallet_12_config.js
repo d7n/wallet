@@ -1,1 +1,1 @@
-var mnemonic = "elbow original various kiss pottery bundle wing float regret guitar industry couple";
+var mnemonic = "own head cake issue dilemma steak object result design bullet tourist seminar";

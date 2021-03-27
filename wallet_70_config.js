@@ -1,1 +1,1 @@
-var mnemonic = "keen salon prepare surprise coffee diamond direct velvet layer faint web glow";
+var mnemonic = "pepper noise vote fatal elephant teach ordinary fluid network banner speak warrior";

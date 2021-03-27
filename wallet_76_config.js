@@ -1,1 +1,1 @@
-var mnemonic = "cabin group used transfer wear betray opera price tail main dismiss sock";
+var mnemonic = "either black position patient dial twenty obscure tilt away thrive trust october";

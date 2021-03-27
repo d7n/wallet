@@ -1,1 +1,1 @@
-var mnemonic = "blind obvious govern wire deny immune treat amount ripple cage jungle farm";
+var mnemonic = "attitude inquiry club evidence betray prize effort kind cabin detail loyal glad";

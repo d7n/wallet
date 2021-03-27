@@ -1,1 +1,1 @@
-var mnemonic = "regular stove tape anger chunk draft fatal gown oil review sound frequent";
+var mnemonic = "female flame cactus hole mother render wild pair bread flip shift tourist";

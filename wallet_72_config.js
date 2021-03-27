@@ -1,1 +1,1 @@
-var mnemonic = "aunt caution edge sure post auction pitch radio trigger benefit segment spread";
+var mnemonic = "cloth start possible spell flight actual oyster better rent allow initial roof";

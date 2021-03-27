@@ -1,1 +1,1 @@
-var mnemonic = "correct flush search wheel series utility below oil bright drive talent winner";
+var mnemonic = "state medal decline diagram time settle cannon equip broken buyer steak royal";
