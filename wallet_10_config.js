@@ -1,1 +1,1 @@
-var mnemonic = "illegal notable cruel route bulk flush project arch muffin teach treat wrong";
+var mnemonic = "judge saddle hill judge wild swim universe used august attack lottery shy";

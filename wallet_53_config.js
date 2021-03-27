@@ -1,1 +1,1 @@
-var mnemonic = "bulb intact civil left chef divert bargain flee trigger mother ahead shed";
+var mnemonic = "sugar carry blue chest robot remain canvas glory slide couch burden veteran";

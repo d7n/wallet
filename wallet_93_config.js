@@ -1,1 +1,1 @@
-var mnemonic = "wink glue captain maple curious hunt worry execute erode raccoon slam grant";
+var mnemonic = "daring crime pony pretty barrel play reflect save silly home walnut similar";

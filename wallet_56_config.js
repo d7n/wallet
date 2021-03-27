@@ -1,1 +1,1 @@
-var mnemonic = "thought pause area lemon ticket unable hold legend supreme lottery fragile type";
+var mnemonic = "teach assault number only flee arrow round behave fortune joy wise ripple";

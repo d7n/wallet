@@ -1,1 +1,1 @@
-var mnemonic = "vacuum thunder zoo garlic office system bind blouse century holiday rigid hungry";
+var mnemonic = "attack maximum original napkin oyster number help aspect region deputy cake write";

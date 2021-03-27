@@ -1,1 +1,1 @@
-var mnemonic = "crash upon crucial candy runway sweet grid theme foster cruel wink pool";
+var mnemonic = "patrol moment gun trial trap way harsh critic never long amazing vicious";

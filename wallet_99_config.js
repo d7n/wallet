@@ -1,1 +1,1 @@
-var mnemonic = "field label expect picnic fabric public project increase major sell basic paddle";
+var mnemonic = "bubble suspect sample park never ranch genius glove color turtle royal mango";

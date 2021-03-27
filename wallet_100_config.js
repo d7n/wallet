@@ -1,1 +1,1 @@
-var mnemonic = "tenant swing will manual pride describe put coil glass fuel demise neither";
+var mnemonic = "void day gossip devote write any lucky winter penalty depend clog vendor";

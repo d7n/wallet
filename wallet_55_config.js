@@ -1,1 +1,1 @@
-var mnemonic = "option tip stable health evoke awkward ostrich wing lottery easy length fork";
+var mnemonic = "town tag swamp math above giggle love toss sell suit ball globe";

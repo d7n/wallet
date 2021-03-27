@@ -1,1 +1,1 @@
-var mnemonic = "uncle impose electric inflict expire coyote know motor lunar prosper rose kite";
+var mnemonic = "salad grab tray weapon neglect license couple man shock before noble burger";

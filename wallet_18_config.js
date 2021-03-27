@@ -1,1 +1,1 @@
-var mnemonic = "practice mask decade drama venture truly year method rack marriage cabin message";
+var mnemonic = "position language tell stereo assist mercy surge rib swamp soup have burst";

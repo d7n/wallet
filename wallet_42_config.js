@@ -1,1 +1,1 @@
-var mnemonic = "love rule bike direct sense gaze figure album region insect blue limb";
+var mnemonic = "betray room chapter grit hold return label nut burden waste ceiling gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "increase indicate distance switch uncle virtual achieve bullet addict noodle provide siege";
+var mnemonic = "fork jewel problem sign churn apple forum express plate ensure target step";

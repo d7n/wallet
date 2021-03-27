@@ -1,1 +1,1 @@
-var mnemonic = "blue vacant barrel mosquito envelope hobby ordinary slot leopard what sunset risk";
+var mnemonic = "truck crouch guess sustain special exotic memory false nephew promote dance indicate";

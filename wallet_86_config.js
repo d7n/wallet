@@ -1,1 +1,1 @@
-var mnemonic = "judge panel miss exhaust claim length copper grow mention senior cliff husband";
+var mnemonic = "mixed taste wide current afraid kid travel gorilla fragile remind ice stand";

@@ -1,1 +1,1 @@
-var mnemonic = "blade powder corn winner talk sponsor acquire advance extend gift exclude sing";
+var mnemonic = "congress october process frost scorpion invest marine clip front divert deliver afford";

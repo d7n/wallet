@@ -1,1 +1,1 @@
-var mnemonic = "winner rich paddle whisper answer point butter glimpse hello bring speed remember";
+var mnemonic = "stand dream torch talk despair boil fabric vacuum cinnamon oil pigeon father";

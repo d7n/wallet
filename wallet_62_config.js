@@ -1,1 +1,1 @@
-var mnemonic = "abuse attract solar ship raw uphold mechanic own street cloth vital east";
+var mnemonic = "amateur talent air unfair rebel arrive embody critic cat present alter enter";

@@ -1,1 +1,1 @@
-var mnemonic = "travel machine junior armor promote please drum muscle spring capable space drastic";
+var mnemonic = "current brother clarify tornado crop much brown panther fog weapon vacuum resist";

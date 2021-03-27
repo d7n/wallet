@@ -1,1 +1,1 @@
-var mnemonic = "swallow give tissue talk busy pipe penalty modify load mushroom kite tissue";
+var mnemonic = "grit enrich later supply fossil drip much own virtual nasty below immense";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold fetch medal bundle device struggle thrive duty dignity skate design thrive";
+var mnemonic = "depart random belt letter family segment inside start drill galaxy drastic beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "spread father grid humor cover grab patch very debris twice visit angry";
+var mnemonic = "armor disorder extend trigger firm stereo elbow settle unveil always drill quote";

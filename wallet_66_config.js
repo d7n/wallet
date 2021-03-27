@@ -1,1 +1,1 @@
-var mnemonic = "cost kid east bench cover rifle error index region pistol submit regular";
+var mnemonic = "beach shy normal gate remember domain aerobic hollow rain delay rib penalty";

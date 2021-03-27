@@ -1,1 +1,1 @@
-var mnemonic = "remain zero pet foster announce define close quiz pull noble resemble spin";
+var mnemonic = "auto item stomach spot kidney message fun ketchup arrest silly blossom picture";

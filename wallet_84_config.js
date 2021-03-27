@@ -1,1 +1,1 @@
-var mnemonic = "medal negative skull fringe build oxygen local forget leave discover travel kitchen";
+var mnemonic = "make snake reflect book brass proof toss carbon axis excess between pattern";

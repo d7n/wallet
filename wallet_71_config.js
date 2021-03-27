@@ -1,1 +1,1 @@
-var mnemonic = "kind noise banner adult flag urge wise save modify decade noise opera";
+var mnemonic = "album cluster resist motion teach flame galaxy royal sing camera student crack";

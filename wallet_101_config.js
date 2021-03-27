@@ -1,1 +1,1 @@
-var mnemonic = "grab border bullet boil pig jaguar anchor dune fog upgrade choose there";
+var mnemonic = "welcome cradle fade pluck model capital wasp raccoon gossip access item wrong";

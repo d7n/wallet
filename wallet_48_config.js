@@ -1,1 +1,1 @@
-var mnemonic = "castle peanut dutch matter enhance round right glory hollow such canvas this";
+var mnemonic = "artist head derive unhappy globe note pupil tattoo use magic actual culture";

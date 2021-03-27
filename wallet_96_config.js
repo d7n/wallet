@@ -1,1 +1,1 @@
-var mnemonic = "unfair come spell digital jar gorilla leave simple destroy hospital deer velvet";
+var mnemonic = "chat crane discover tide tent route abuse enter skull track work actual";

@@ -1,1 +1,1 @@
-var mnemonic = "extra sword whisper pact copy rain cliff worth achieve strike pizza sphere";
+var mnemonic = "since asthma sausage fashion man improve garbage guess vapor reason kick segment";

@@ -1,1 +1,1 @@
-var mnemonic = "motor bid robust ball head pattern alter tonight stick embrace protect warm";
+var mnemonic = "rabbit wisdom expire sister maple hollow awesome fancy screen fatal excite merge";

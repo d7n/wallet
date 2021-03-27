@@ -1,1 +1,1 @@
-var mnemonic = "under sniff light catch evil limb enter screen million tenant swap sustain";
+var mnemonic = "hurdle alcohol lake dilemma silly frown vintage faint harvest tilt alter era";

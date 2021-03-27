@@ -1,1 +1,1 @@
-var mnemonic = "dizzy strike tank avocado casual frame duty owner own walk canal prison";
+var mnemonic = "sea index cigar road acquire spring survey sunny kangaroo wheat elevator then";

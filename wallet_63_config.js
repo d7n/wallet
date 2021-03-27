@@ -1,1 +1,1 @@
-var mnemonic = "scene kiss abandon brand final circle blossom cradle danger chapter attitude dawn";
+var mnemonic = "shrug deliver economy baby error kiwi draft census media fossil busy arena";

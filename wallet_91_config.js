@@ -1,1 +1,1 @@
-var mnemonic = "evolve differ remove relief churn sing nature aunt behind current pipe frost";
+var mnemonic = "can shop health destroy seek swap suspect assault idea cluster fortune success";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel peanut upgrade puppy van truth coil suit weird style cruise wife";
+var mnemonic = "involve sail middle pitch sorry dinner mesh average beef horn bright company";

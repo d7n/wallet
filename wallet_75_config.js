@@ -1,1 +1,1 @@
-var mnemonic = "female heavy cram utility plug eagle onion sort coyote ritual middle ripple";
+var mnemonic = "response manual car inspire daring million ice dad surprise reform dance pledge";

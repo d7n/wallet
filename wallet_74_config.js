@@ -1,1 +1,1 @@
-var mnemonic = "police relax cat about cabin famous crush trouble utility people okay life";
+var mnemonic = "normal peanut similar surface pact face swallow cactus venue galaxy mixture economy";

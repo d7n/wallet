@@ -1,1 +1,1 @@
-var mnemonic = "angry scan marble embrace company vocal begin result surprise crowd panther salmon";
+var mnemonic = "caught top near fish valley decorate frog major load holiday hello pond";

@@ -1,1 +1,1 @@
-var mnemonic = "vague copy ten drip cost forest fresh just jump drink assault harsh";
+var mnemonic = "alcohol capital west also proud visual zoo sausage dismiss canal capital trip";

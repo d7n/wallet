@@ -1,1 +1,1 @@
-var mnemonic = "mountain pizza slim era stamp used surround ozone stage square spread topic";
+var mnemonic = "ready spy voice someone wisdom cheap inherit mass wise enact confirm hazard";

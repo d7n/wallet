@@ -1,1 +1,1 @@
-var mnemonic = "live taste name vault area sponsor language peace ginger fitness increase pen";
+var mnemonic = "mother safe palm gadget seed vault lawsuit lounge radar glow verify jacket";

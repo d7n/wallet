@@ -1,1 +1,1 @@
-var mnemonic = "almost coconut proof gospel bone faculty cat help child drum clarify screen";
+var mnemonic = "trap impose bean dismiss picture assume path time minimum lava copy scare";

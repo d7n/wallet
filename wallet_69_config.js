@@ -1,1 +1,1 @@
-var mnemonic = "recycle midnight scrub spoon danger vicious age evolve field crisp chair blind";
+var mnemonic = "food scare taxi toast museum power mobile sphere unusual black chaos float";

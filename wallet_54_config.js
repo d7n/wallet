@@ -1,1 +1,1 @@
-var mnemonic = "unknown adult property word begin wish noise funny help cattle hurdle okay";
+var mnemonic = "caution dolphin omit over sound toe olive critic bulk gorilla popular yard";

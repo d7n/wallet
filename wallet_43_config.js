@@ -1,1 +1,1 @@
-var mnemonic = "ladder museum normal creek steak twenty butter wreck erode dance quantum skill";
+var mnemonic = "alter wood clown math kangaroo use rally walk auction deal comic loop";

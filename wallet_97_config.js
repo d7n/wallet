@@ -1,1 +1,1 @@
-var mnemonic = "crash weapon barrel ketchup runway brown glide melody assault column canvas garage";
+var mnemonic = "vanish spawn craft where ice age ice theory title skin voyage cash";

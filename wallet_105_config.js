@@ -1,1 +1,1 @@
-var mnemonic = "banana void stool gun trigger mountain toss vivid now wealth sustain woman";
+var mnemonic = "message wool afford slice glory human pretty type lounge adapt start bless";

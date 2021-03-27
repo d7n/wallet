@@ -1,1 +1,1 @@
-var mnemonic = "endless fog innocent arrow slide famous situate horror describe liquid blade tomorrow";
+var mnemonic = "boil floor inspire artwork slim hand taxi sample kiwi short warfare balance";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot mammal pave collect remember goddess daughter forum draw weapon depend myself";
+var mnemonic = "awesome deer write always cloth patch luxury glare pave fruit claim drink";

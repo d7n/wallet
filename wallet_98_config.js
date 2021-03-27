@@ -1,1 +1,1 @@
-var mnemonic = "jealous fall token toast question crazy board sauce lady moral invite pole";
+var mnemonic = "lend mom lamp viable glad fame better credit explain dentist aim supply";

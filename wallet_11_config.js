@@ -1,1 +1,1 @@
-var mnemonic = "sword believe balance gentle laundry two recycle donkey distance turtle badge limb";
+var mnemonic = "fantasy talk want biology army direct pledge wait tobacco across weapon capital";

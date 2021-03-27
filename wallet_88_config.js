@@ -1,1 +1,1 @@
-var mnemonic = "beach flame strong grief faith dragon valve correct warm grape gown fire";
+var mnemonic = "pulse maple gaze chaos thank weapon walk reflect wrestle disorder gloom sorry";

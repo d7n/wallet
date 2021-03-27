@@ -1,1 +1,1 @@
-var mnemonic = "relax ring arrange where bounce lake roof mass alone chalk monkey gaze";
+var mnemonic = "ethics illness note lawn top tell panda own cost lawsuit dream analyst";

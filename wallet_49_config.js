@@ -1,1 +1,1 @@
-var mnemonic = "feel horse expose april fantasy zone bid arena spin rival myself quote";
+var mnemonic = "scale kiss click pipe orchard young pistol member steak crane verify fan";

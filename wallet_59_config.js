@@ -1,1 +1,1 @@
-var mnemonic = "occur term pet leg pulse gossip lounge able noodle bundle potato hard";
+var mnemonic = "join sea swift mom impact save lonely plate ticket tower clinic nuclear";

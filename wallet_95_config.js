@@ -1,1 +1,1 @@
-var mnemonic = "come horse math youth surge august cattle aisle alpha glare cannon medal";
+var mnemonic = "delay choose special orchard mind erupt mother wheel short onion finger among";

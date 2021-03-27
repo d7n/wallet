@@ -1,1 +1,1 @@
-var mnemonic = "damage morning cart robust mixture list lawn merry valid giggle client tunnel";
+var mnemonic = "middle furnace actor bless cage cabin basic upset rookie empty cruise increase";

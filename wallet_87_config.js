@@ -1,1 +1,1 @@
-var mnemonic = "marble run simple win other equip very device weird group more awake";
+var mnemonic = "ginger wash hat frog learn measure bid clown knock couple rack skirt";

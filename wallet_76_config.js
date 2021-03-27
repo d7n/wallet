@@ -1,1 +1,1 @@
-var mnemonic = "elephant gadget warfare remind lumber sword auto donate famous glue because weapon";
+var mnemonic = "craft prepare proof fancy day electric space wire infant best cargo duck";

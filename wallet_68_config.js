@@ -1,1 +1,1 @@
-var mnemonic = "coffee inherit tattoo trumpet park foot merry unfair index draw panel churn";
+var mnemonic = "decide cherry female fury tiger airport pulse manage tuna polar arena absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "squirrel glance wheat rigid sing install opinion outside obey whisper inner focus";
+var mnemonic = "mosquito draw display toddler program pigeon sight survey park middle grape can";

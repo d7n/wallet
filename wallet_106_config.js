@@ -1,1 +1,1 @@
-var mnemonic = "stool disorder wash caught mimic produce lab chimney mango poet reform provide";
+var mnemonic = "expand demand reject around august mean deliver urban shell vocal odor parent";

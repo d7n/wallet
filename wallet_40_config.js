@@ -1,1 +1,1 @@
-var mnemonic = "swarm walnut april depend hand trend one faith pioneer valid lake immune";
+var mnemonic = "congress couch present submit budget distance true gospel vibrant glory custom skate";

@@ -1,1 +1,1 @@
-var mnemonic = "auction stick soon dentist rebuild disagree delay lobster copper machine purse mango";
+var mnemonic = "bargain fault inhale vacant because work foam already cake cruise wood blade";

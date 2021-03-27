@@ -1,1 +1,1 @@
-var mnemonic = "screen friend nephew derive ancient there real rhythm quit bag waste gravity";
+var mnemonic = "reunion perfect celery word open exhaust rural stadium matter drill pyramid pelican";

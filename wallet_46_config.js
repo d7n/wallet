@@ -1,1 +1,1 @@
-var mnemonic = "anxiety slogan extra fitness purpose reopen stand economy zoo dynamic powder crawl";
+var mnemonic = "miracle tourist absorb spare ski hurry birth athlete language grab clock voice";

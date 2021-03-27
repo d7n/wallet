@@ -1,1 +1,1 @@
-var mnemonic = "section inch meadow include legend celery wrestle cook quiz idle hedgehog tackle";
+var mnemonic = "develop outside ride maximum script kangaroo aim debris any silent laptop moment";

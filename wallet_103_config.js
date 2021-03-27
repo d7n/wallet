@@ -1,1 +1,1 @@
-var mnemonic = "decide water volcano mention evolve trouble together mansion laundry bar promote interest";
+var mnemonic = "never worth squirrel autumn famous famous option oblige sight system obtain tell";

@@ -1,1 +1,1 @@
-var mnemonic = "digital pyramid half guard success subject car creek target orphan unusual easy";
+var mnemonic = "random elevator winner phone arrow chaos amused race bonus belt ivory admit";

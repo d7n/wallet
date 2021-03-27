@@ -1,1 +1,1 @@
-var mnemonic = "earth health ski diary industry mom tape legend settle chair choice carbon";
+var mnemonic = "amazing rebel large child priority deliver escape hazard buffalo sleep cement rich";

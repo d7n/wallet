@@ -1,1 +1,1 @@
-var mnemonic = "moral output tiny various issue debate proof three about snow armor clap";
+var mnemonic = "estate grief require submit hawk spare jaguar other chaos token wrestle moon";

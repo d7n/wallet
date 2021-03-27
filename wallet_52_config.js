@@ -1,1 +1,1 @@
-var mnemonic = "pink hand farm word vital join comfort fall satisfy suit ready story";
+var mnemonic = "sense wife subway secret subject sadness latin quote scene practice wreck orphan";

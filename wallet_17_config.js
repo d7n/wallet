@@ -1,1 +1,1 @@
-var mnemonic = "label snack menu subway caution oak room bulk perfect edit joke anchor";
+var mnemonic = "bulb laugh promote shift huge push piano economy ensure idle glory debris";

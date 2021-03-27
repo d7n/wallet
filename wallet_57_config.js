@@ -1,1 +1,1 @@
-var mnemonic = "seek garlic junior save rail solution joke stool century cave list give";
+var mnemonic = "olympic movie situate pottery rocket dash kiss leader network future cage broken";

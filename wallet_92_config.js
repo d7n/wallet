@@ -1,1 +1,1 @@
-var mnemonic = "kind kid flavor then expand identify south marble spawn laundry giant crazy";
+var mnemonic = "math upper provide case stamp suit country such purchase video soul fresh";

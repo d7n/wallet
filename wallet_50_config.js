@@ -1,1 +1,1 @@
-var mnemonic = "view include excuse advice ill undo calm talent uniform face gallery soccer";
+var mnemonic = "clump father often neck thought august organ cactus aspect man mirror blame";

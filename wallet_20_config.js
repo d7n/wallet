@@ -1,1 +1,1 @@
-var mnemonic = "boy embark finger shop street wash neither topic dinosaur illegal attitude warfare";
+var mnemonic = "upper valve romance knife inject crop just jewel dry tribe carbon wing";

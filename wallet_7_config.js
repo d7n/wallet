@@ -1,1 +1,1 @@
-var mnemonic = "neutral route ivory search thought state zone cage source sport volcano inject";
+var mnemonic = "toilet wine fish scrub plate tongue air buzz found sorry ramp solve";

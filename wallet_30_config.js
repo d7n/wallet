@@ -1,1 +1,1 @@
-var mnemonic = "mimic brief repair boring oblige work lend hard live trap saddle neutral";
+var mnemonic = "shove type bracket feature puppy type novel april soul type fade street";

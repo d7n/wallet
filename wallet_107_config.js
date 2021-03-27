@@ -1,1 +1,1 @@
-var mnemonic = "trust eager armor plate special reward shock rely cute deer decade juice";
+var mnemonic = "drastic pill labor pair pencil load amazing dynamic mix depth canal grow";

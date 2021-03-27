@@ -1,1 +1,1 @@
-var mnemonic = "top excess excite butter brisk clever border earth jazz maid deer elder";
+var mnemonic = "arch expand wealth early rather luxury crawl bid cute hero year speed";

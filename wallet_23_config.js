@@ -1,1 +1,1 @@
-var mnemonic = "cherry beauty jaguar light swing cupboard cinnamon audit mushroom ready health switch";
+var mnemonic = "exercise girl island motor word sausage flame sort steak build copy obey";

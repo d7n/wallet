@@ -1,1 +1,1 @@
-var mnemonic = "fan spike inflict void drip gloom stamp resist movie typical excuse cargo";
+var mnemonic = "switch fossil win empty lumber assist health bronze exhibit lunar melt noble";

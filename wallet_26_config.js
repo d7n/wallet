@@ -1,1 +1,1 @@
-var mnemonic = "toss spoil holiday must ladder rug belt base emerge repair cinnamon donkey";
+var mnemonic = "cook denial lazy glove verb bachelor exact stable legal visual income transfer";

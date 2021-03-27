@@ -1,1 +1,1 @@
-var mnemonic = "toy hedgehog side lady imitate spirit orbit okay exercise bitter gentle general";
+var mnemonic = "beef rent agree inside maze roast achieve deny fox search hazard autumn";

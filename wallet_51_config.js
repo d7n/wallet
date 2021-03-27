@@ -1,1 +1,1 @@
-var mnemonic = "core bonus find scale scatter circle extend nothing dumb collect accident timber";
+var mnemonic = "hollow burger stadium want gun kiwi display canyon mix champion oblige melody";

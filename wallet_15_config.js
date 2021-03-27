@@ -1,1 +1,1 @@
-var mnemonic = "wolf excite draw true toss aunt student brass lunar age open lumber";
+var mnemonic = "accident major wagon lift decide track wall fever marble gate ready balance";

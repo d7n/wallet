@@ -1,1 +1,1 @@
-var mnemonic = "cheap borrow relax nut sell kite horn achieve food broccoli donkey utility";
+var mnemonic = "measure decide stadium exchange mean tree permit glue ripple armor song hedgehog";
