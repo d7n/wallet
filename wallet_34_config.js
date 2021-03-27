@@ -1,1 +1,1 @@
-var mnemonic = "business dignity marine comfort recipe foam inquiry soccer surface kit kind control";
+var mnemonic = "race web deliver over tattoo want minimum large luggage pretty session recall";

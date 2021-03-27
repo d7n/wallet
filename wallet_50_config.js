@@ -1,1 +1,1 @@
-var mnemonic = "manual fault goddess carry click coral fiber suffer antenna fine use silver";
+var mnemonic = "belt heart vehicle addict route swim rebuild wine educate sphere raven also";

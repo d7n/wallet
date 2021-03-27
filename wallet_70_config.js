@@ -1,1 +1,1 @@
-var mnemonic = "relief unusual pelican cannon cute craft humor bring happy occur give often";
+var mnemonic = "glimpse decrease pride box trophy paper goat around later human route museum";

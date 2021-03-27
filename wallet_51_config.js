@@ -1,1 +1,1 @@
-var mnemonic = "swift cause loud swing problem wise high false route machine vicious habit";
+var mnemonic = "soccer bird brave master fold ritual length staff famous diet quarter youth";

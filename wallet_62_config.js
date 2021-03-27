@@ -1,1 +1,1 @@
-var mnemonic = "detail vital shield ecology aisle erupt project minute age gap divert observe";
+var mnemonic = "boat erupt call color glue leader dose chase employ thing theme path";

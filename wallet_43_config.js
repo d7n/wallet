@@ -1,1 +1,1 @@
-var mnemonic = "voyage employ rubber wine emerge broom cattle slab critic talent demise hill";
+var mnemonic = "use grain say rude candy inquiry try giraffe depth pepper panic tool";

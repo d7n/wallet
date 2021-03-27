@@ -1,1 +1,1 @@
-var mnemonic = "frozen spider door boy link furnace panel diamond shell urban inhale power";
+var mnemonic = "spatial demand drip involve quote vehicle hair start aerobic toast front current";

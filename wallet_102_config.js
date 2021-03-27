@@ -1,1 +1,1 @@
-var mnemonic = "mass group team obtain law sentence ecology wild squirrel joke labor output";
+var mnemonic = "sleep average purchase season improve animal client pole leisure final magic comic";

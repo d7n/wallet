@@ -1,1 +1,1 @@
-var mnemonic = "tomato digital suspect cable minimum today boy change goat add wheel earn";
+var mnemonic = "miss disorder trumpet swear traffic output over artefact shrug elbow throw belt";

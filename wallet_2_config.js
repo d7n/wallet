@@ -1,1 +1,1 @@
-var mnemonic = "tiger middle video liberty pause approve wedding injury acid demand bulb only";
+var mnemonic = "edit giraffe ill pilot rubber curve credit air impose boil sea loud";

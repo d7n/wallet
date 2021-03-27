@@ -1,1 +1,1 @@
-var mnemonic = "warm flavor sun grace sound render solid observe vibrant forget brisk metal";
+var mnemonic = "divorce elephant author shuffle bomb meadow hazard great excess garage reform thank";

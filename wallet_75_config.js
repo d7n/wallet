@@ -1,1 +1,1 @@
-var mnemonic = "okay run wire jelly fit shoulder pause stock ivory paper evolve box";
+var mnemonic = "major dutch desk park tank kick jealous six vacuum rain cushion miracle";

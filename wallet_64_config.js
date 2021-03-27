@@ -1,1 +1,1 @@
-var mnemonic = "edit nothing sugar cruise federal what slender pulp code ring conduct comfort";
+var mnemonic = "enter hint trial actor pole rapid cliff remind vanish occur suffer today";

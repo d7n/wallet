@@ -1,1 +1,1 @@
-var mnemonic = "amazing velvet bridge confirm banana story divert life mushroom cash firm estate";
+var mnemonic = "audit usual spread limit dog master electric behind stadium because mesh idle";

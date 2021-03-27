@@ -1,1 +1,1 @@
-var mnemonic = "thumb sausage action tree kidney thing insane erosion become female flower that";
+var mnemonic = "sister profit feel sugar coil away bone oven priority skin above spend";

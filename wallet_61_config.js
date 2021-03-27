@@ -1,1 +1,1 @@
-var mnemonic = "organ barely hole goddess category cinnamon pluck humble fix please steak color";
+var mnemonic = "little attract antenna gaze judge discover verb energy pretty sauce horse crucial";

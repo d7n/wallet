@@ -1,1 +1,1 @@
-var mnemonic = "horse addict economy steak edge will over garbage cushion sadness viable habit";
+var mnemonic = "push today inmate mountain undo empower picnic jeans churn trophy broom confirm";

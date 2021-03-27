@@ -1,1 +1,1 @@
-var mnemonic = "allow peace fiscal security convince moon question kidney whip board produce click";
+var mnemonic = "hole oven swamp jazz silly crane poem snake harvest decorate drift main";

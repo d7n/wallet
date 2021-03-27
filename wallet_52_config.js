@@ -1,1 +1,1 @@
-var mnemonic = "key cube person recipe wage genius month disagree cage senior manual method";
+var mnemonic = "axis current pulse secret yard crack garbage believe grunt fix govern peasant";

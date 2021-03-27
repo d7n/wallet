@@ -1,1 +1,1 @@
-var mnemonic = "vote stick miracle powder obvious ignore mixed injury click strategy clump amazing";
+var mnemonic = "blossom quick ride turkey advice expire fitness poet spike mechanic paper lawsuit";

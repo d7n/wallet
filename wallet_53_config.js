@@ -1,1 +1,1 @@
-var mnemonic = "hundred glad lawsuit armed cluster reopen ribbon height protect book arena special";
+var mnemonic = "blind sketch tribe diamond twelve lady hat pitch legend pole depart leopard";

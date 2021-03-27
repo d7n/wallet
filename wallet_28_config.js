@@ -1,1 +1,1 @@
-var mnemonic = "swallow matrix scale flee retreat return crowd path seed sting spider trend";
+var mnemonic = "discover forget violin convince fan panther tunnel profit limit thing smooth fade";

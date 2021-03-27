@@ -1,1 +1,1 @@
-var mnemonic = "advice swear album bomb action will biology cigar spice trick fiber afraid";
+var mnemonic = "federal toward plastic since shield normal cloud weapon soda asset vocal lock";

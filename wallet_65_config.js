@@ -1,1 +1,1 @@
-var mnemonic = "rocket stone shoot cigar labor chapter cushion heavy rifle bleak sentence dentist";
+var mnemonic = "wolf winter hammer use expire million napkin orient cram gold chief finish";

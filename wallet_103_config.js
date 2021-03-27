@@ -1,1 +1,1 @@
-var mnemonic = "gather sort island genius crash palace mirror icon reveal mad jump venue";
+var mnemonic = "taxi audit fan lunar appear elder real pen attract best stumble cash";

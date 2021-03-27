@@ -1,1 +1,1 @@
-var mnemonic = "improve humor female useless genuine bunker advance invest radar coin picture decorate";
+var mnemonic = "simple account dad key surface shop output benefit dignity legend second museum";

@@ -1,1 +1,1 @@
-var mnemonic = "promote rate fatal castle neutral inch icon cattle proud coffee vanish brain";
+var mnemonic = "quality blush paper useless law minute jealous universe lemon soup ankle lake";

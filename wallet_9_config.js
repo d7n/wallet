@@ -1,1 +1,1 @@
-var mnemonic = "repair major across manage lucky latin away humble jealous clutch valid nest";
+var mnemonic = "emerge speed defy special shove rhythm ozone entry limb sponsor heavy girl";

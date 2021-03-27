@@ -1,1 +1,1 @@
-var mnemonic = "taste shed absent farm agree consider blade nephew wife entry payment soccer";
+var mnemonic = "client dutch rain circle sustain crouch business basket consider nominee pigeon spot";

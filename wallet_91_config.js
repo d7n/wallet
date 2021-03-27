@@ -1,1 +1,1 @@
-var mnemonic = "stage puzzle message estate company labor foam bike move cook security finger";
+var mnemonic = "wage quit dinosaur lyrics act country grid hawk myth oak ginger alley";

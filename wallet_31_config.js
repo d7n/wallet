@@ -1,1 +1,1 @@
-var mnemonic = "glimpse shoot refuse police light fly ugly impose grant welcome response around";
+var mnemonic = "film fix hello glue tell pulse accuse wreck entire major dizzy blush";

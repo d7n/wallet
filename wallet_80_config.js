@@ -1,1 +1,1 @@
-var mnemonic = "tool desert below talent spin broccoli sentence reunion mouse wink frame unknown";
+var mnemonic = "street danger jacket fantasy whale plug celery exhaust jazz ask bleak sentence";

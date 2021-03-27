@@ -1,1 +1,1 @@
-var mnemonic = "news labor license prevent omit ball knee blast emotion rather cram biology";
+var mnemonic = "sail keen spoil town blame cabin leisure horror usage between marine grid";

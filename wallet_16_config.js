@@ -1,1 +1,1 @@
-var mnemonic = "silent moon ignore animal rain dutch shallow copper reduce prepare diet poet";
+var mnemonic = "cover window gas key shrimp speak purpose shove occur tube much major";

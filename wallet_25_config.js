@@ -1,1 +1,1 @@
-var mnemonic = "jelly race exact pottery street tattoo rebuild mask flash guess toward mechanic";
+var mnemonic = "crowd laundry jar pony skull about pause breeze say prepare idle sleep";

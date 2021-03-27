@@ -1,1 +1,1 @@
-var mnemonic = "client merry spring lake drum exist cushion like rack must pull jelly";
+var mnemonic = "rabbit lunar surround liberty struggle winner rookie anchor essay educate glide inch";

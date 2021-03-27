@@ -1,1 +1,1 @@
-var mnemonic = "jump angry soccer view mutual raven include fade treat urge fox august";
+var mnemonic = "cluster kangaroo goose reveal wheel fruit grab rail dizzy silk rib exact";

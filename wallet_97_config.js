@@ -1,1 +1,1 @@
-var mnemonic = "bench average garden invest radar size play old bargain shove again clown";
+var mnemonic = "view food square prepare vivid tennis forum lonely region brass sauce pulse";

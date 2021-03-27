@@ -1,1 +1,1 @@
-var mnemonic = "assume alien cup bleak relief rival flip skate snake country claw bunker";
+var mnemonic = "primary worth enroll secret exhibit tissue flower ostrich index snack universe bright";

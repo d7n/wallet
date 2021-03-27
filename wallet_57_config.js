@@ -1,1 +1,1 @@
-var mnemonic = "corn sleep harsh typical news patch expire clay disagree legal blur sting";
+var mnemonic = "same moon casino explain peanut orchard subway nerve submit bracket shaft arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet public speed leader nephew capable creek canal thumb nuclear vacuum once";
+var mnemonic = "clock worry depth field foam cream innocent twelve crash pudding kid wear";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform just suggest imitate column equal cupboard trouble document spike direct heart";
+var mnemonic = "scene near evoke arrive coil pledge strong lonely void mad settle undo";

@@ -1,1 +1,1 @@
-var mnemonic = "grass fork clap noise final such diesel cigar own shine party forest";
+var mnemonic = "cruel express excuse material april zone note soul brave chicken attract spice";

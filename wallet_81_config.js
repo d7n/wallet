@@ -1,1 +1,1 @@
-var mnemonic = "invest topic beef era power pencil any bachelor purse suffer change dad";
+var mnemonic = "slush illegal three journey neither remember enough cross estate morning please deputy";

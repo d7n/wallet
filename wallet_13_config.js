@@ -1,1 +1,1 @@
-var mnemonic = "trap clerk shove pride pole above pelican claim coyote magnet twenty puppy";
+var mnemonic = "hen fatigue prevent glass medal simple bracket humble jump donate praise valley";

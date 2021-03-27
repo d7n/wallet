@@ -1,1 +1,1 @@
-var mnemonic = "crouch canvas lazy tackle crunch alpha angle alcohol notice diet relax adjust";
+var mnemonic = "retire bacon blossom six nut treat venue soup width again table slight";

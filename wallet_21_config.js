@@ -1,1 +1,1 @@
-var mnemonic = "blind logic wasp maze beef over report brand team scrap oak lizard";
+var mnemonic = "puppy excess sad ginger powder grace retire term goddess theme slot reform";

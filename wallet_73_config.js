@@ -1,1 +1,1 @@
-var mnemonic = "leg poem rough awesome drama slide tackle ranch kingdom stay desk obey";
+var mnemonic = "false identify rubber stable whisper omit magic dress fall horn ten there";

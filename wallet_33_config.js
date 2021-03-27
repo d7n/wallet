@@ -1,1 +1,1 @@
-var mnemonic = "year entire often tray safe doctor torch other economy fringe admit twist";
+var mnemonic = "disagree dutch certain attitude help display devote female heart era pair unique";

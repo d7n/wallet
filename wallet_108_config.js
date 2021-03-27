@@ -1,1 +1,1 @@
-var mnemonic = "video offer link critic pond long enjoy potato idea have unit neck";
+var mnemonic = "vacant retire orphan will glad silent join crop cinnamon tag struggle spin";

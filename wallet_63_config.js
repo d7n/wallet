@@ -1,1 +1,1 @@
-var mnemonic = "road type coin rack beef moon until slam achieve enlist system amazing";
+var mnemonic = "slogan check unusual chunk kid pool torch pink accident gesture buzz jump";

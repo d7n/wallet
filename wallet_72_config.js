@@ -1,1 +1,1 @@
-var mnemonic = "quote story jelly enforce fringe trigger blossom opinion desert decide defense diary";
+var mnemonic = "surprise naive during ranch expire fox holiday cycle stand leopard desert yellow";

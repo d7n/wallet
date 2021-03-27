@@ -1,1 +1,1 @@
-var mnemonic = "edit cart popular betray cliff client close decide print blade stick net";
+var mnemonic = "universe shoot say oven portion teach circle charge off machine garlic small";

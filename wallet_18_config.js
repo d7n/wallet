@@ -1,1 +1,1 @@
-var mnemonic = "chest ramp mountain ozone lawsuit doll note then rice claw weird crouch";
+var mnemonic = "sauce meadow regular produce shine umbrella govern window river law define off";

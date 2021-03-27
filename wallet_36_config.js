@@ -1,1 +1,1 @@
-var mnemonic = "comic laptop close solar poem puppy act royal conduct reject habit shadow";
+var mnemonic = "cable powder unhappy spot industry paddle suspect comic bomb bacon wisdom screen";

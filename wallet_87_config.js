@@ -1,1 +1,1 @@
-var mnemonic = "major wrap alpha kitten laundry favorite equal laugh pupil load logic escape";
+var mnemonic = "shoulder lawsuit describe brush goose blast silly indoor goddess across bike host";

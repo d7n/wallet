@@ -1,1 +1,1 @@
-var mnemonic = "worry benefit post shift proud kitchen ceiling away fee plate increase retire";
+var mnemonic = "crush seven faculty tell bonus fiction aunt journey man pizza concert chef";

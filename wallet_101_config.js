@@ -1,1 +1,1 @@
-var mnemonic = "december symptom pride uphold adjust smile decline great window level quit lyrics";
+var mnemonic = "weekend gloom chronic input clay melody canoe inside hobby sample have fame";

@@ -1,1 +1,1 @@
-var mnemonic = "girl muscle naive sustain hint dove entire charge banner solution utility grass";
+var mnemonic = "jaguar finger device demise vicious found solution awesome negative video common renew";

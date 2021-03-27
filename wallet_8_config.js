@@ -1,1 +1,1 @@
-var mnemonic = "mention ritual boost occur umbrella cry surround own matter canoe nut possible";
+var mnemonic = "often indicate unknown east anger gospel absurd expect where quality eight height";

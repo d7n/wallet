@@ -1,1 +1,1 @@
-var mnemonic = "unusual donor stomach twist meat cotton proud climb pizza glad cram juice";
+var mnemonic = "push absurd couple people pear doctor island tone chunk organ license still";

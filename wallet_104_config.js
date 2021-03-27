@@ -1,1 +1,1 @@
-var mnemonic = "offer street rare design typical board hire blood setup code jeans manual";
+var mnemonic = "happy help hawk bounce blush loyal bronze oppose cradle father later poet";

@@ -1,1 +1,1 @@
-var mnemonic = "hood result own dinosaur stomach column around still demand verb angle barrel";
+var mnemonic = "mansion march document rival increase sun skill mix police viable goat smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli bread proud wait alien kitchen divert plastic hamster strong flash alter";
+var mnemonic = "tube cart deputy special success roof ensure dinner arrive weekend decade leaf";

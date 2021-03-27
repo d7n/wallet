@@ -1,1 +1,1 @@
-var mnemonic = "toy century interest armor trip flag soft jeans lunar bonus wrestle electric";
+var mnemonic = "drama gather secret slim ribbon champion rude hollow ignore ticket exhibit rude";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn claim update salad off ivory awkward ethics beyond conduct kitten frown";
+var mnemonic = "eyebrow menu source economy frozen settle fix planet person rifle rabbit example";

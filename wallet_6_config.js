@@ -1,1 +1,1 @@
-var mnemonic = "live few analyst infant foster twist video hundred beauty multiply snack ramp";
+var mnemonic = "virtual child zoo mobile twenty concert fish ridge sniff apart wild cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "leader inform similar glance doll dwarf increase true rotate leisure major permit";
+var mnemonic = "letter sadness pear visual essence cliff cliff smart erupt human hybrid cupboard";

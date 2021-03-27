@@ -1,1 +1,1 @@
-var mnemonic = "island title own boost play oak shoulder swarm elevator cool nut shift";
+var mnemonic = "toilet sheriff hunt order august tide elbow bronze strategy sustain staff page";

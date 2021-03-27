@@ -1,1 +1,1 @@
-var mnemonic = "emotion sport anger tired toilet portion buddy hurt cricket puzzle piece rug";
+var mnemonic = "nephew gospel talent struggle chronic lamp dismiss hat session shoulder price sentence";

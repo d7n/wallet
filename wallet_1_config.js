@@ -1,1 +1,1 @@
-var mnemonic = "harsh exist harbor decorate ice furnace choice penalty shed media friend frame";
+var mnemonic = "symptom main false purpose excite patch purity clip sheriff business hedgehog honey";

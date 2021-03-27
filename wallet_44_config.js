@@ -1,1 +1,1 @@
-var mnemonic = "voice page unfair project emerge apology sketch into enemy shaft dash mystery";
+var mnemonic = "snap puzzle drastic tired plastic smoke nice response mercy embrace invest traffic";

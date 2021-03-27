@@ -1,1 +1,1 @@
-var mnemonic = "elegant noble learn frame loop play erosion confirm achieve proof stool ride";
+var mnemonic = "subway concert maple recipe crouch find symbol require version tornado rich outer";

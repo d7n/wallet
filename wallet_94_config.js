@@ -1,1 +1,1 @@
-var mnemonic = "purpose sea bid fold oak drip monster ugly person scale make mail";
+var mnemonic = "voyage damage addict claw ball slush whisper cat mimic light leaf test";

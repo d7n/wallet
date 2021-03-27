@@ -1,1 +1,1 @@
-var mnemonic = "vacant monster derive inspire process dutch tissue fruit elite emerge annual motion";
+var mnemonic = "load few water wire scheme control skull artefact tent income betray insect";

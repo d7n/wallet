@@ -1,1 +1,1 @@
-var mnemonic = "glare crazy settle churn item mystery argue subject police inch feed poverty";
+var mnemonic = "together camp divide flock confirm trip purchase before enhance add couch misery";

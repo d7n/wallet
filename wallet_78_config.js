@@ -1,1 +1,1 @@
-var mnemonic = "kingdom assume laptop mirror wave student fence income brief image satisfy skin";
+var mnemonic = "master neither rich mask orient display barely fringe oxygen blur blanket desk";

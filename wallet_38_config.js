@@ -1,1 +1,1 @@
-var mnemonic = "alien ring empower control carry error plastic order milk car lab pause";
+var mnemonic = "chalk goat oven shell sibling law six shuffle lazy choice person extra";

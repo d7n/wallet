@@ -1,1 +1,1 @@
-var mnemonic = "network total frozen wealth used people street loud budget great direct globe";
+var mnemonic = "offer flight excess bomb manual govern young vivid blind thought potato relief";

@@ -1,1 +1,1 @@
-var mnemonic = "slush crouch naive swallow nation novel physical tray omit brass clay jungle";
+var mnemonic = "quiz capable autumn exchange swear receive hockey bottom execute motion sorry muffin";

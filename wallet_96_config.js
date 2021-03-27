@@ -1,1 +1,1 @@
-var mnemonic = "rigid human original cost setup lion soon divorce focus among cabin entire";
+var mnemonic = "since vehicle excite gun later post supply song vast trick better torch";

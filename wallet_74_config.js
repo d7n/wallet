@@ -1,1 +1,1 @@
-var mnemonic = "stomach blood faculty leg proud credit spike price present merit dolphin clog";
+var mnemonic = "bread room improve wife abstract expire later detail eager drum cruel edit";

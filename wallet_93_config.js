@@ -1,1 +1,1 @@
-var mnemonic = "genre ramp spot drink lend axis mercy grape shed tunnel payment error";
+var mnemonic = "mountain submit clutch can occur physical tortoise insane radio silk art during";

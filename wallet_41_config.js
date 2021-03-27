@@ -1,1 +1,1 @@
-var mnemonic = "neglect easy air return flame flat seed unaware worth quiz rotate panel";
+var mnemonic = "nature relief exist punch file lawsuit smoke expect scene walnut puppy suggest";

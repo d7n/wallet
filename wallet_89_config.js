@@ -1,1 +1,1 @@
-var mnemonic = "speed kiss before frost agent worth claim enrich cluster engage grid shy";
+var mnemonic = "torch cluster rate nice alien apple april fringe erupt two stadium cabbage";

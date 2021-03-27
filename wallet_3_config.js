@@ -1,1 +1,1 @@
-var mnemonic = "put dove public liar kiwi maze slot muffin refuse isolate merit latin";
+var mnemonic = "amount slow coral spread oak mirror song infant local cruel crowd dynamic";

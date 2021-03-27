@@ -1,1 +1,1 @@
-var mnemonic = "keen wall brief receive wrap polar network frame lucky tobacco post father";
+var mnemonic = "pitch actress capable injury east please piano jazz bounce tissue good subject";

@@ -1,1 +1,1 @@
-var mnemonic = "sport fix front sausage panther cash nuclear uncle across interest cloth holiday";
+var mnemonic = "local banner monitor timber bridge opinion turkey predict rail solution breeze dumb";

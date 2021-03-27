@@ -1,1 +1,1 @@
-var mnemonic = "acoustic law aunt color sort section clutch live noodle funny lyrics famous";
+var mnemonic = "skull limit stable aunt pig behind another prepare heart drastic letter rib";

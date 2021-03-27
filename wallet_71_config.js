@@ -1,1 +1,1 @@
-var mnemonic = "target nephew asthma dawn joke affair dynamic scare entire sweet alpha coach";
+var mnemonic = "wall shy harsh tent spider visa clay ritual canal sleep ring brother";

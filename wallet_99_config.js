@@ -1,1 +1,1 @@
-var mnemonic = "denial bless smile length design tuition possible answer decade deputy peasant frog";
+var mnemonic = "fashion story current caution improve forum toast holiday today brother vivid dial";
