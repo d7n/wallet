@@ -1,1 +1,1 @@
-var mnemonic = "ketchup country luxury fan cute maximum party boat another energy echo emotion";
+var mnemonic = "confirm anchor biology kit core elder person run royal damage explain account";

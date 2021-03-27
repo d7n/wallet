@@ -1,1 +1,1 @@
-var mnemonic = "unable strong viable face device forget pig mad wealth bonus answer outside";
+var mnemonic = "puppy license token treat someone emerge vintage inform school teach project duty";

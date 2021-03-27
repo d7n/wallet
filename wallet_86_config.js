@@ -1,1 +1,1 @@
-var mnemonic = "any fish atom spirit thing waste melody spike economy habit debris exotic";
+var mnemonic = "system phone know lady position fine story leaf modify treat left reduce";

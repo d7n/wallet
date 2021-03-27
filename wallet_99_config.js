@@ -1,1 +1,1 @@
-var mnemonic = "helmet worth vacant require middle over uncover produce farm uniform price awkward";
+var mnemonic = "hope comfort ask enroll fish crystal kidney hybrid fever dog zone scatter";

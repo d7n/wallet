@@ -1,1 +1,1 @@
-var mnemonic = "guilt ribbon door hip vanish burst foil shiver riot jaguar huge grit";
+var mnemonic = "behave fluid chalk bright circle drastic elder hover vague antenna talent ritual";

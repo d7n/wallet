@@ -1,1 +1,1 @@
-var mnemonic = "fantasy gift club error bone oven notice champion race pair banner amateur";
+var mnemonic = "embark creek canoe beauty about lesson pattern ghost canal once dentist must";

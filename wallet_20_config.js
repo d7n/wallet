@@ -1,1 +1,1 @@
-var mnemonic = "address mansion olive damp wash borrow donor display goat rich such brave";
+var mnemonic = "tell vague puzzle slab arm fine consider little blanket dentist adult define";

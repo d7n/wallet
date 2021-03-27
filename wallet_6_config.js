@@ -1,1 +1,1 @@
-var mnemonic = "mean describe prepare find hungry make budget fossil energy vanish cover lobster";
+var mnemonic = "beach youth buffalo offer verb polar usual shuffle record gesture turkey badge";

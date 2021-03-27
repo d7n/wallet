@@ -1,1 +1,1 @@
-var mnemonic = "engine mix tenant enemy kiwi resemble absorb stomach figure permit swear accuse";
+var mnemonic = "thrive control monkey crime clock shoot expect vendor moon beach manage vibrant";

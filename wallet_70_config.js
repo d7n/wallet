@@ -1,1 +1,1 @@
-var mnemonic = "pulp unique better address youth glad foot maximum profit flat mystery stand";
+var mnemonic = "skirt boss clever marriage run hotel spatial cat install payment pulse domain";

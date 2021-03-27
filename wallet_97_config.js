@@ -1,1 +1,1 @@
-var mnemonic = "chuckle trade start city topic welcome heart typical away dirt october guard";
+var mnemonic = "guard matter middle gospel dignity pizza need chair loan laptop trick soap";

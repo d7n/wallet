@@ -1,1 +1,1 @@
-var mnemonic = "seven demise jacket hint aerobic there rose person slogan ability type draft";
+var mnemonic = "economy legend crouch donkey blush skull put spice rack void wish ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "fan mansion leisure engage spell window rebel toward hedgehog laugh clarify amused";
+var mnemonic = "section club second size print print bind pet grocery lumber fuel evoke";

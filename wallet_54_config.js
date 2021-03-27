@@ -1,1 +1,1 @@
-var mnemonic = "banana cactus belt arrive giraffe split tomato pause lake dose payment again";
+var mnemonic = "true seat unfair try come minute ice bench fall minor more post";

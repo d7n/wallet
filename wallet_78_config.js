@@ -1,1 +1,1 @@
-var mnemonic = "awesome result math tape pilot weapon biology fork prefer draw next coin";
+var mnemonic = "wine ritual wisdom toy affair heavy approve olive coffee bridge join vintage";

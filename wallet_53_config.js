@@ -1,1 +1,1 @@
-var mnemonic = "matter gasp sound happy predict matrix derive novel rule evil member strike";
+var mnemonic = "grace mom income type swarm bracket veteran fee mass cherry barely farm";

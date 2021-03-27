@@ -1,1 +1,1 @@
-var mnemonic = "tribe conduct tortoise season route off frozen hunt step trick scissors pumpkin";
+var mnemonic = "comic captain modify clean sibling fly trend special canal wall assault soul";

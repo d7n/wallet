@@ -1,1 +1,1 @@
-var mnemonic = "language lesson this book camera first zebra behave camp master hold engage";
+var mnemonic = "hospital property crumble lonely tape ability wire roast pipe ill gift forest";

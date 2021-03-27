@@ -1,1 +1,1 @@
-var mnemonic = "base truck scorpion owner spatial spray prize wave estate joy joke security";
+var mnemonic = "rice clarify guess hotel steak plastic split sure jealous bracket later direct";

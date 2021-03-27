@@ -1,1 +1,1 @@
-var mnemonic = "false extend talent access hammer glory language auto noodle consider misery peasant";
+var mnemonic = "require coconut brief audit advance pencil stadium feature father love celery boy";

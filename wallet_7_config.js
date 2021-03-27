@@ -1,1 +1,1 @@
-var mnemonic = "mixture search chair foam scatter dune refuse firm flavor flavor virus bundle";
+var mnemonic = "proud similar right wood fetch melody stamp symbol plastic almost flush measure";

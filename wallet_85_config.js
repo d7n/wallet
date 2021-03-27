@@ -1,1 +1,1 @@
-var mnemonic = "pause color tail elephant guilt vocal giant echo ready family future badge";
+var mnemonic = "process neither patient churn target brave start enhance omit chase toward renew";

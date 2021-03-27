@@ -1,1 +1,1 @@
-var mnemonic = "six vacuum stumble snake habit ability letter flag tongue bleak bronze idle";
+var mnemonic = "reward random empty eternal confirm escape save donor penalty guitar fit annual";

@@ -1,1 +1,1 @@
-var mnemonic = "used stereo vessel another put follow dismiss area fiber symbol distance discover";
+var mnemonic = "warrior wedding over absent fun gift system festival armed put quarter tonight";

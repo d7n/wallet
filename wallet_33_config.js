@@ -1,1 +1,1 @@
-var mnemonic = "finish sign relief extra frog polar ancient purpose such already volume bamboo";
+var mnemonic = "forest scrub blanket wealth asset slush latin hint inhale oblige opera settle";

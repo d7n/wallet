@@ -1,1 +1,1 @@
-var mnemonic = "siren client process pulp crane vast flower disorder jump salon slam sing";
+var mnemonic = "forget possible thumb ball recall stem public hawk squeeze episode old person";

@@ -1,1 +1,1 @@
-var mnemonic = "six smart use exact detect since universe nerve loud stuff august crawl";
+var mnemonic = "bean friend faculty ride already giraffe ankle whale vanish priority current thrive";

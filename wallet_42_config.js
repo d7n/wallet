@@ -1,1 +1,1 @@
-var mnemonic = "clarify lock person double move hockey comic warm bleak wide frozen garden";
+var mnemonic = "oak catch price enrich invest emotion own ahead labor sleep verb skull";

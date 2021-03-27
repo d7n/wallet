@@ -1,1 +1,1 @@
-var mnemonic = "toilet enlist cabin rib fox bitter sort track pitch anger direct result";
+var mnemonic = "spring cross token tornado animal scene deny lens orphan metal ski castle";

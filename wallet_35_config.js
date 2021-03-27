@@ -1,1 +1,1 @@
-var mnemonic = "spoon engine nut step fever moral grunt place tennis host vacuum glow";
+var mnemonic = "march mammal dune turtle skull stove mixture strategy lake scorpion riot solve";

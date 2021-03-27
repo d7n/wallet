@@ -1,1 +1,1 @@
-var mnemonic = "bulk marriage oppose power swim draw muscle input ahead photo satoshi arrange";
+var mnemonic = "knee decorate flag frown quick chat laptop wide problem ship motor rifle";

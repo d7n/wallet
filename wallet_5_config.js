@@ -1,1 +1,1 @@
-var mnemonic = "melody soul rich truck decorate voice symptom holiday scissors excess awesome width";
+var mnemonic = "thank remember deputy north either lyrics kidney code imitate review target swarm";

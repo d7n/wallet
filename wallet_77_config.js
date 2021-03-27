@@ -1,1 +1,1 @@
-var mnemonic = "tongue biology maximum clown raise envelope section neglect cook suit wear sugar";
+var mnemonic = "birth soda wheat relax please casual ski tumble chest ice wreck popular";

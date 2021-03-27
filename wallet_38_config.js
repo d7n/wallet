@@ -1,1 +1,1 @@
-var mnemonic = "logic twice cave immense cruel grape song culture settle worth common people";
+var mnemonic = "dune umbrella miss powder input chicken sample equip staff supreme good federal";

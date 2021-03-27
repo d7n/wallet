@@ -1,1 +1,1 @@
-var mnemonic = "perfect nephew flat code recall satisfy order canyon physical wave crawl frame";
+var mnemonic = "snap glass apart badge output verb betray want garbage filter detect seven";

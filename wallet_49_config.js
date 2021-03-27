@@ -1,1 +1,1 @@
-var mnemonic = "spirit gesture mind fold cart vote away rather ocean throw square sure";
+var mnemonic = "plate will around change tank squeeze slide insect pipe moment say atom";

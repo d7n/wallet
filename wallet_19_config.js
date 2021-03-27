@@ -1,1 +1,1 @@
-var mnemonic = "fancy parrot fold walnut embark addict duck job snake junior syrup journey";
+var mnemonic = "mirror during inch vague remain bread drill monster small play excite adult";

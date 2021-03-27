@@ -1,1 +1,1 @@
-var mnemonic = "journey forum deny jump pizza silent shaft ordinary library damp you ceiling";
+var mnemonic = "galaxy gospel bomb true modify defy local hover journey slow fold cruel";

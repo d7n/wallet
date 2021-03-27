@@ -1,1 +1,1 @@
-var mnemonic = "scatter rotate wheel kangaroo mass sun chuckle harbor fly twist midnight giggle";
+var mnemonic = "symbol simple usual kingdom magnet unhappy pink punch ramp trouble blouse club";

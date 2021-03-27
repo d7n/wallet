@@ -1,1 +1,1 @@
-var mnemonic = "sibling make express screen reduce tooth follow lumber boring reduce rifle crowd";
+var mnemonic = "satoshi arrow gap column retire rent access wet antenna budget beef win";

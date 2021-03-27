@@ -1,1 +1,1 @@
-var mnemonic = "jump naive lyrics style raven place weird blast celery armor hollow pig";
+var mnemonic = "top cram announce cute child enrich high motion treat library dice budget";

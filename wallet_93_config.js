@@ -1,1 +1,1 @@
-var mnemonic = "dignity elder must cheap lion cancel quiz agent possible science plastic shiver";
+var mnemonic = "job hammer flame sausage awful resist fancy aim excite skirt lecture direct";

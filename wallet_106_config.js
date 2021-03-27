@@ -1,1 +1,1 @@
-var mnemonic = "clip since cliff fancy ketchup junk need connect devote sniff mango state";
+var mnemonic = "foil canal eyebrow wear usage renew unfold dismiss grab gallery hockey wisdom";

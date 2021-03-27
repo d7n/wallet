@@ -1,1 +1,1 @@
-var mnemonic = "round upset poverty dutch off nut trouble disorder exchange behave nerve fiscal";
+var mnemonic = "analyst crop debate firm stand box hair diet survey dirt produce flee";

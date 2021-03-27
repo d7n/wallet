@@ -1,1 +1,1 @@
-var mnemonic = "zone wear foam vocal jealous rural toss awake pair anchor page rebel";
+var mnemonic = "picnic nasty alter rabbit proud valve harvest trap vacuum fall few million";

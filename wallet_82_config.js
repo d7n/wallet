@@ -1,1 +1,1 @@
-var mnemonic = "soda mass skirt right pair material cat broccoli market slab limb access";
+var mnemonic = "shoot knee chaos today jeans smile misery scatter library obtain mistake bench";

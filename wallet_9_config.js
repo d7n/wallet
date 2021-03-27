@@ -1,1 +1,1 @@
-var mnemonic = "add kind cereal smoke fetch sustain antenna believe mind drill agent whale";
+var mnemonic = "drink sphere bag torch dynamic approve muffin distance wolf motion custom pass";

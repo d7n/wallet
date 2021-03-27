@@ -1,1 +1,1 @@
-var mnemonic = "island almost monster lottery art clown someone local mix upper film method";
+var mnemonic = "fatal brisk abstract crack bright bronze acquire envelope strategy interest addict scrap";

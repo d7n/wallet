@@ -1,1 +1,1 @@
-var mnemonic = "replace bracket point loud mechanic hair early visa holiday pause fruit attack";
+var mnemonic = "voice image female napkin stable federal wise kiss adult panda laundry illness";

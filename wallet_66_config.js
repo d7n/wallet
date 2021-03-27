@@ -1,1 +1,1 @@
-var mnemonic = "submit ride derive bright message glance vast half robot lab stand squirrel";
+var mnemonic = "fantasy arrange immune version cook gossip diagram furnace bring suit treat depth";

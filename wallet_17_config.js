@@ -1,1 +1,1 @@
-var mnemonic = "roast snack target common pilot corn era sauce garbage sense iron design";
+var mnemonic = "clump wool sweet canyon dress fox slim matter security visual dismiss reason";

@@ -1,1 +1,1 @@
-var mnemonic = "charge orphan bone upgrade print join empty slender oven trash yellow power";
+var mnemonic = "breeze input come verb robust click one eagle tenant lazy aspect else";

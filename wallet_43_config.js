@@ -1,1 +1,1 @@
-var mnemonic = "column drift slice gap near brand inform fossil neutral old bridge private";
+var mnemonic = "obvious nephew boost mansion guitar exclude gaze toy intact connect hire van";

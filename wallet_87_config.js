@@ -1,1 +1,1 @@
-var mnemonic = "cable bone distance tennis voyage crater rigid luxury nose zero bounce steak";
+var mnemonic = "submit point double rail airport sun maid melody castle elite decrease clay";

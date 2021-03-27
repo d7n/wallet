@@ -1,1 +1,1 @@
-var mnemonic = "aerobic dynamic genuine obtain dignity nuclear write tuna bean easily end verb";
+var mnemonic = "remember bread female meadow layer detect visual blouse valve believe turtle spider";

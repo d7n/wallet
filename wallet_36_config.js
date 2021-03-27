@@ -1,1 +1,1 @@
-var mnemonic = "episode crew twin direct marriage reward alone box world nature stage result";
+var mnemonic = "route glad jeans embrace radio space amused profit stool faint demand float";

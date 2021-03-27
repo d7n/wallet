@@ -1,1 +1,1 @@
-var mnemonic = "urban basket pupil glance episode feel absurd solution crowd comic used dynamic";
+var mnemonic = "rail enroll distance top half hospital lizard broken mobile suggest useless pill";

@@ -1,1 +1,1 @@
-var mnemonic = "laptop interest fortune salmon nurse change fatal message olive man hamster demand";
+var mnemonic = "crane person exchange faculty among degree cancel shove forest pattern phone foam";

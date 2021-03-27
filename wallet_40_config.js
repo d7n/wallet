@@ -1,1 +1,1 @@
-var mnemonic = "exhibit type air play magic job bone throw fortune wet give hotel";
+var mnemonic = "arena weapon pear taste scout tomato kingdom target crowd add fix beauty";

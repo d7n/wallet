@@ -1,1 +1,1 @@
-var mnemonic = "can today idle permit reward route debris skin capable skill anxiety rural";
+var mnemonic = "again chair first winner liquid trash carry valley candy manage riot allow";

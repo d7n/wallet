@@ -1,1 +1,1 @@
-var mnemonic = "dice logic forget mail network regret document gallery lawn begin picnic quality";
+var mnemonic = "letter know child horse quantum other medal sword lonely palm lake whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "doll odor defense allow perfect master erosion seat unique manage average rather";
+var mnemonic = "orchard squeeze below boss forward corn black exit wonder truck voice century";

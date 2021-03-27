@@ -1,1 +1,1 @@
-var mnemonic = "bright symptom kit near guitar whale swamp begin thank width stem copy";
+var mnemonic = "little bind print mammal subject announce silent urban enlist earth inflict any";

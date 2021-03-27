@@ -1,1 +1,1 @@
-var mnemonic = "copper sight alien trial announce chair fat open venue basic shadow clog";
+var mnemonic = "cat rival blush know climb gasp small zebra lunar mansion dilemma picture";

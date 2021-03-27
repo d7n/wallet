@@ -1,1 +1,1 @@
-var mnemonic = "join burden auction bounce orbit orange asset practice split sign cereal job";
+var mnemonic = "dream lounge busy model powder chronic resource fan abuse race fault furnace";

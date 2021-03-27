@@ -1,1 +1,1 @@
-var mnemonic = "wisdom weekend access slow despair column charge wife sort path addict grocery";
+var mnemonic = "liberty easily attack nerve protect depart moral squirrel spike calm couple minimum";

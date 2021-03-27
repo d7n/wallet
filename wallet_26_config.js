@@ -1,1 +1,1 @@
-var mnemonic = "solar tool extra sadness special walk grief visit egg once bright story";
+var mnemonic = "arena physical seat food blush patrol fresh afford unable measure grab boat";

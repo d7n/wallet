@@ -1,1 +1,1 @@
-var mnemonic = "stove limit harbor situate plunge model tobacco palace finger palm clerk tell";
+var mnemonic = "cart approve pigeon wing plastic cherry daughter wall peanut brain orient marriage";

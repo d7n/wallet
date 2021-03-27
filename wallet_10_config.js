@@ -1,1 +1,1 @@
-var mnemonic = "wreck girl weasel clinic farm cigar save clip dignity average join gospel";
+var mnemonic = "photo ahead they toast aunt bus chicken exile loan wheel pottery deer";

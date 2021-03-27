@@ -1,1 +1,1 @@
-var mnemonic = "scheme deer brown chapter journey kit siege usual property copy render habit";
+var mnemonic = "trim glad spoon hard pipe milk stumble digital square reveal furnace sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "relief daughter reveal grant shoulder permit result mix patrol achieve exact ivory";
+var mnemonic = "wrist crime address goose brief dinosaur file observe stage snow symbol bread";

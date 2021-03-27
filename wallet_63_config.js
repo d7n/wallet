@@ -1,1 +1,1 @@
-var mnemonic = "together today all endorse month blind talk voice hire talent disorder dirt";
+var mnemonic = "banner exhaust destroy check ocean radio paper desert bone maple coil deer";

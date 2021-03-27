@@ -1,1 +1,1 @@
-var mnemonic = "whale chronic virus hunt medal illegal exchange level scorpion siege hat humor";
+var mnemonic = "simple differ wise special aerobic fiber bird raven tornado ridge panda income";

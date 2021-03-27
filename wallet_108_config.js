@@ -1,1 +1,1 @@
-var mnemonic = "cactus useless tunnel nice dragon whale output stomach inquiry escape fever actor";
+var mnemonic = "barely chapter naive sense spoon hamster guide noodle prefer weird bracket local";

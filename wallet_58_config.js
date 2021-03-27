@@ -1,1 +1,1 @@
-var mnemonic = "outside diagram stone seminar close mirror mimic shed kit supply force edge";
+var mnemonic = "poet spin reject property segment amount frozen urban radio awkward hollow sport";

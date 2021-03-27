@@ -1,1 +1,1 @@
-var mnemonic = "that short pole toss eager bridge circle bless grass please hospital giant";
+var mnemonic = "stay zone love exclude apple fish acid ignore bike plunge extend lake";

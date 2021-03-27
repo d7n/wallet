@@ -1,1 +1,1 @@
-var mnemonic = "adult cloth dirt glimpse all hundred still juice clog stool detail forward";
+var mnemonic = "fruit crew exhaust cotton select face diagram cloth comic chase enhance donate";

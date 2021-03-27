@@ -1,1 +1,1 @@
-var mnemonic = "talk bid hollow slim spring soul pipe assume example wall square oblige";
+var mnemonic = "security civil round life plastic series chapter end awful live athlete depend";

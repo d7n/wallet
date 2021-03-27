@@ -1,1 +1,1 @@
-var mnemonic = "slush deny agree cheese woman problem relief two equal moral record lonely";
+var mnemonic = "wage business small camp torch wasp embody nurse switch vital again estate";

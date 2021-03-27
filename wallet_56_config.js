@@ -1,1 +1,1 @@
-var mnemonic = "crew glow slice blame purity embody scheme grow skull hawk trap wagon";
+var mnemonic = "speed tank elevator waste alarm cousin nephew ahead view enhance caution track";

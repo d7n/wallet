@@ -1,1 +1,1 @@
-var mnemonic = "private group version benefit first flash alpha success snake rely angle casino";
+var mnemonic = "script thrive wheat crowd oppose deputy model aisle area lake junior drop";

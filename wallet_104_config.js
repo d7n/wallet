@@ -1,1 +1,1 @@
-var mnemonic = "crawl duty jewel august tower engine attack riot version athlete element depart";
+var mnemonic = "orphan ticket gadget guard train brisk forest account scene solar cost cigar";

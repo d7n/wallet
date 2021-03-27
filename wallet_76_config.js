@@ -1,1 +1,1 @@
-var mnemonic = "wasp lawn ticket alter fat electric disorder direct song dose heavy affair";
+var mnemonic = "hedgehog replace replace essence put desk glad sound note yellow rebuild club";

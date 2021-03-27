@@ -1,1 +1,1 @@
-var mnemonic = "fish polar obvious man boil hello flower jealous elevator review have velvet";
+var mnemonic = "similar decrease ride romance crew quality armed beach slam zoo flock chief";

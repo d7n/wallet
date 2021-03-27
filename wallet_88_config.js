@@ -1,1 +1,1 @@
-var mnemonic = "close drama split age tackle fee air dice canoe elegant coffee lottery";
+var mnemonic = "maple twist tent come machine prize crack round gentle reopen upon cattle";

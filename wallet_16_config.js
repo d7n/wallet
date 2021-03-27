@@ -1,1 +1,1 @@
-var mnemonic = "ice people sudden cake giggle early draw find humor coach betray shallow";
+var mnemonic = "dinosaur cloud donate excess egg cream middle enjoy phrase news island cushion";

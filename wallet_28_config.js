@@ -1,1 +1,1 @@
-var mnemonic = "observe appear fossil upon enact sail digital face office despair afford scatter";
+var mnemonic = "elite unable submit grief easy table excite seed verb stage random square";

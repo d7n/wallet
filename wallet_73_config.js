@@ -1,1 +1,1 @@
-var mnemonic = "regret giggle often gate thrive reopen mix long extend wheat carbon glad";
+var mnemonic = "treat inflict main table student dog panther express envelope shove rice pelican";

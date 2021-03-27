@@ -1,1 +1,1 @@
-var mnemonic = "danger letter mixed eight time muffin visit deposit surprise arch screen whip";
+var mnemonic = "airport stuff cat extend voyage wait engine repeat hobby magic cheese narrow";

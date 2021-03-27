@@ -1,1 +1,1 @@
-var mnemonic = "tail casino manage choice spatial glory uphold ozone east glory simple caution";
+var mnemonic = "dog short gentle mom space float swap what motor impact captain cargo";

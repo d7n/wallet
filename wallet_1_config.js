@@ -1,1 +1,1 @@
-var mnemonic = "victory essence assist mirror bulk again luxury ice situate obscure oppose marriage";
+var mnemonic = "ancient refuse absent twist age glow dish letter emotion movie hello rose";

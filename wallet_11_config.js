@@ -1,1 +1,1 @@
-var mnemonic = "armor remove gospel edge swarm cannon decorate voice mango march october dolphin";
+var mnemonic = "load unique slow simple tide bulk leopard base screen rural garbage layer";

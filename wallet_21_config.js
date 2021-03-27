@@ -1,1 +1,1 @@
-var mnemonic = "barely divide castle demand usual public intact essence firm rural valve pipe";
+var mnemonic = "athlete typical glue master limit balcony industry citizen grid skull around awful";

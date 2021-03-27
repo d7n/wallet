@@ -1,1 +1,1 @@
-var mnemonic = "fork vintage note sunset swear seed mercy inch fringe carbon chimney tornado";
+var mnemonic = "oil spare issue minimum jealous genuine nuclear equip sure spring mass tube";
