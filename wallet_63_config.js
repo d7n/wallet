@@ -1,1 +1,1 @@
-var mnemonic = "coach diary begin involve impulse diary reveal panda vapor major beach rigid";
+var mnemonic = "march mountain fetch room double click struggle donor zebra venture vivid valley";

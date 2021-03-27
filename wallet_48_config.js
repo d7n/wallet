@@ -1,1 +1,1 @@
-var mnemonic = "uncover flight sting helmet gorilla uniform process equal taxi diary reflect snake";
+var mnemonic = "oblige mesh flame sweet harvest shy crunch until rose happy vintage select";

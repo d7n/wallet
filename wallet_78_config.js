@@ -1,1 +1,1 @@
-var mnemonic = "area close resist lift castle home sniff cake borrow blush crush thing";
+var mnemonic = "object cotton menu expose bone frame afraid worry divert trumpet menu negative";

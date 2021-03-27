@@ -1,1 +1,1 @@
-var mnemonic = "salmon target ancient plunge moon ceiling fly recycle luxury cigar assist impose";
+var mnemonic = "notice legal congress return hurt poet radar north receive void powder fire";

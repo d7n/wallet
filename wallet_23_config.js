@@ -1,1 +1,1 @@
-var mnemonic = "will weather start bench display connect fade same comic uniform typical weasel";
+var mnemonic = "around slam tone faint usual bless change dirt outside only emotion quote";

@@ -1,1 +1,1 @@
-var mnemonic = "buddy weird siege license mountain frost clump neutral you off next prepare";
+var mnemonic = "door grain play pony organ casino dutch ski friend witness need poem";

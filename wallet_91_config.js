@@ -1,1 +1,1 @@
-var mnemonic = "antique list bulk ginger ostrich solar clever random legal lecture pretty shadow";
+var mnemonic = "violin boss tortoise child sorry share imitate vessel repeat erosion friend denial";

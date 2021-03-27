@@ -1,1 +1,1 @@
-var mnemonic = "project resource invest baby song fuel main purity three grape soap yard";
+var mnemonic = "target ankle burden material denial hip loud gesture horn mention weapon skate";

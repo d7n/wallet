@@ -1,1 +1,1 @@
-var mnemonic = "lizard crash horn drill stairs hold output exchange fork party submit bacon";
+var mnemonic = "spray grain fish later drift swing utility cliff throw egg filter couple";

@@ -1,1 +1,1 @@
-var mnemonic = "cook behave grow now legal script congress mesh color unaware noble victory";
+var mnemonic = "noodle phrase elephant wet bone trend liquid ancient rabbit arena jacket soda";

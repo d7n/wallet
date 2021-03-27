@@ -1,1 +1,1 @@
-var mnemonic = "short icon merge reunion boss material someone rival panel toddler theory toilet";
+var mnemonic = "swing dwarf flame spread stomach feed main layer gravity under fire inject";

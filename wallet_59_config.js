@@ -1,1 +1,1 @@
-var mnemonic = "update noble employ coconut first armed behind usage exercise laundry mesh current";
+var mnemonic = "shift fringe tonight stamp page zone use embody impose hill return movie";

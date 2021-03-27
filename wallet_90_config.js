@@ -1,1 +1,1 @@
-var mnemonic = "sausage drink teach own earth post sing loud harvest video ski circle";
+var mnemonic = "van middle stage dream silver pudding quarter apple intact photo genuine ginger";

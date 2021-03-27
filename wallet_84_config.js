@@ -1,1 +1,1 @@
-var mnemonic = "race together symbol december thumb solution crawl salute entry ride art whip";
+var mnemonic = "hero finger maximum crunch license hat utility beach artist item twin potato";

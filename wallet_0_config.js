@@ -1,1 +1,1 @@
-var mnemonic = "year dune gift gaze adapt club frown ozone close diesel ability mind";
+var mnemonic = "list example cushion nurse silk message carpet guard tone age fashion syrup";

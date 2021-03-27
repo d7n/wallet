@@ -1,1 +1,1 @@
-var mnemonic = "display correct piano gold figure choose address gasp eight ancient tribe blur";
+var mnemonic = "team gossip today couch fiction friend random legend duck wash husband earth";

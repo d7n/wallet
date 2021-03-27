@@ -1,1 +1,1 @@
-var mnemonic = "more must tongue thrive food reduce bind weird gain point ride pig";
+var mnemonic = "resist exhaust awesome trap unaware unusual small blossom craft fun device melt";

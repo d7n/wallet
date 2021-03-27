@@ -1,1 +1,1 @@
-var mnemonic = "struggle put permit now own weird budget fiction jaguar service deal pen";
+var mnemonic = "plastic inquiry until onion image sea crystal solid fan dice bounce ramp";

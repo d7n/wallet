@@ -1,1 +1,1 @@
-var mnemonic = "spend sign short borrow brick mix school industry empty eager dignity firm";
+var mnemonic = "ready castle vivid enrich globe light fetch ankle april mesh token shuffle";

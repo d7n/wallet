@@ -1,1 +1,1 @@
-var mnemonic = "labor canyon make diet pelican stone tornado annual someone chase ball square";
+var mnemonic = "smart yard broccoli front grape capital ancient noodle autumn appear hobby office";

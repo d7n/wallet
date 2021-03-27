@@ -1,1 +1,1 @@
-var mnemonic = "feature sample guilt defy actress couch pigeon orphan cotton guess strike negative";
+var mnemonic = "ostrich wasp face mind tumble wheat velvet romance attend depart giant donor";

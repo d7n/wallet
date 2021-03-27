@@ -1,1 +1,1 @@
-var mnemonic = "offer magic bullet truth battle lounge bunker post diesel make wear mutual";
+var mnemonic = "wage treat crucial amazing relief pulp drama elephant plastic pulp resemble coil";

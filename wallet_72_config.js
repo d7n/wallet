@@ -1,1 +1,1 @@
-var mnemonic = "flight click actual expire clerk belt wish casual engage fashion suit south";
+var mnemonic = "dirt rocket assist weather gown buyer garage affair fever taxi puzzle sniff";

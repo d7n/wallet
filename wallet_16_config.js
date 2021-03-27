@@ -1,1 +1,1 @@
-var mnemonic = "appear nose setup marine giggle print latin forum fragile select tower dove";
+var mnemonic = "trumpet carbon spoon main couch frog tower fever just width blue squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse fade amount ridge fix odor idle mixed suit moon price jeans";
+var mnemonic = "time hamster goose pulse mechanic nerve exile staff will impulse camera height";

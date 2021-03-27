@@ -1,1 +1,1 @@
-var mnemonic = "judge must relax expire hat whisper agree boy renew auto core portion";
+var mnemonic = "jelly tortoise verify gospel old pupil exhaust throw feel cushion smoke blue";

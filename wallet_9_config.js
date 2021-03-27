@@ -1,1 +1,1 @@
-var mnemonic = "link sponsor borrow relax kangaroo umbrella appear course boy scout game hope";
+var mnemonic = "analyst famous curious fruit indicate milk undo tag mass sense example enable";

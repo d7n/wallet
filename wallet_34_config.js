@@ -1,1 +1,1 @@
-var mnemonic = "leg segment fox suspect bubble mass pill ivory daring upon pitch train";
+var mnemonic = "together dream night involve certain large nothing paddle life sudden awful host";

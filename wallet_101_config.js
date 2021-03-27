@@ -1,1 +1,1 @@
-var mnemonic = "tail trap doctor airport flight churn elder tone aspect border door memory";
+var mnemonic = "enrich dust enemy inquiry copper castle soon guitar cat absurd same segment";

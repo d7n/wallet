@@ -1,1 +1,1 @@
-var mnemonic = "goose metal universe force load tissue destroy stock library example blind bomb";
+var mnemonic = "poverty add next hobby guilt school yellow bomb bright enforce kite prefer";

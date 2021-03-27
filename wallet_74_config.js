@@ -1,1 +1,1 @@
-var mnemonic = "mesh tooth conduct soon pigeon provide canal egg increase view argue goat";
+var mnemonic = "army must demise harbor cabin typical predict express cruise group marble six";

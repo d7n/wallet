@@ -1,1 +1,1 @@
-var mnemonic = "vicious winner salad panther whale frozen tonight alter online razor gain myth";
+var mnemonic = "face solar cabin another typical figure lecture elevator junior blame pole enemy";

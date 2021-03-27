@@ -1,1 +1,1 @@
-var mnemonic = "east dose coconut toddler sphere into deer slender cattle avocado child tennis";
+var mnemonic = "door agree pause student budget panel image debris inform movie guard author";

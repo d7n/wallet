@@ -1,1 +1,1 @@
-var mnemonic = "popular curious visit announce source patrol lecture item burst catalog charge guilt";
+var mnemonic = "consider cram gold copper snap fly toy drastic brisk waste twice shed";

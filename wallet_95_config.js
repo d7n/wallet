@@ -1,1 +1,1 @@
-var mnemonic = "priority nerve tortoise math minute betray inside craft jelly silver bomb leisure";
+var mnemonic = "enroll fever hip width forest harsh resemble disease certain focus acoustic gap";

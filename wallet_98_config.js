@@ -1,1 +1,1 @@
-var mnemonic = "rookie woman use else today lunar crucial fury taxi heavy twenty ethics";
+var mnemonic = "piano wasp car flag monster mind curve among invite tonight drill sun";

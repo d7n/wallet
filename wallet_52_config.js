@@ -1,1 +1,1 @@
-var mnemonic = "bargain exist stomach employ basic believe tail bottom current task gun swim";
+var mnemonic = "business abuse cactus response gauge orient oven quantum profit flee outside trip";

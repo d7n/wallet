@@ -1,1 +1,1 @@
-var mnemonic = "trade cheap smile feed around aware fog feel february garlic spray goose";
+var mnemonic = "sense either people social wash bullet swift address bulk claw unlock stage";

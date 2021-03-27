@@ -1,1 +1,1 @@
-var mnemonic = "stage olympic public panda neck child test poet captain train vapor fish";
+var mnemonic = "move scale pumpkin route pipe siren imitate garment jewel comic knock very";

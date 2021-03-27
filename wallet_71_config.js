@@ -1,1 +1,1 @@
-var mnemonic = "paddle legend ball shadow video again energy laptop stadium solar mass vault";
+var mnemonic = "version oppose unveil teach reduce cabin believe present glare soccer swamp talent";

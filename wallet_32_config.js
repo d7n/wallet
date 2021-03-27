@@ -1,1 +1,1 @@
-var mnemonic = "round vocal thumb fruit ordinary dilemma expire vicious obscure hard announce tower";
+var mnemonic = "unhappy trophy hamster aspect cry burger swing cushion misery brisk chase toilet";

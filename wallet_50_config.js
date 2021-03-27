@@ -1,1 +1,1 @@
-var mnemonic = "auction half giggle syrup heavy cause thing truth design swamp crush punch";
+var mnemonic = "budget rocket plate stable impact always tiny oak tool sense modify giggle";

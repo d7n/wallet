@@ -1,1 +1,1 @@
-var mnemonic = "shadow crumble pattern pumpkin carpet okay excess eye mobile rotate palace flag";
+var mnemonic = "observe love ski margin same chuckle vacuum faculty scorpion session average cheese";

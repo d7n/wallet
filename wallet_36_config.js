@@ -1,1 +1,1 @@
-var mnemonic = "error divide pony gather wash spend brush achieve nurse jump monster violin";
+var mnemonic = "void daughter usage special narrow fence theory enforce course kiwi luggage inside";

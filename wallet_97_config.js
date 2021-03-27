@@ -1,1 +1,1 @@
-var mnemonic = "spell power world injury urge sadness pink volume degree foam spy repair";
+var mnemonic = "wash prepare cash lounge kit cake exile room add brass raven slice";

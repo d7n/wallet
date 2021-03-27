@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo similar scan artefact rubber trash human yard unusual scrap bonus dune";
+var mnemonic = "monitor pool ill minimum guard shy rate slot exist alter alley spirit";

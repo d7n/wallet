@@ -1,1 +1,1 @@
-var mnemonic = "alarm minor timber swamp world rural exile hover dignity decade jungle ramp";
+var mnemonic = "mad say slab purchase poem sweet alone voyage baby mass prosper rely";

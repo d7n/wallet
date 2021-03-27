@@ -1,1 +1,1 @@
-var mnemonic = "key ladder identify invest smoke asthma answer boil brush join joke neutral";
+var mnemonic = "pole cargo ship coyote nuclear antenna sea rack subway define lunch valid";

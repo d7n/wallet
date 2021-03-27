@@ -1,1 +1,1 @@
-var mnemonic = "mind strong sibling join swim skill zoo genre like elegant diamond wood";
+var mnemonic = "improve teach glue canyon west size enhance economy subway behind blush rapid";

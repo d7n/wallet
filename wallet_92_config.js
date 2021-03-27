@@ -1,1 +1,1 @@
-var mnemonic = "puzzle behind pretty dune salad drive flee term neither unfold demise merge";
+var mnemonic = "mutual truly school concert hand decrease sweet fashion buffalo bomb thank slender";

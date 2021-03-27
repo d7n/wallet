@@ -1,1 +1,1 @@
-var mnemonic = "cradle exchange dilemma when visa tumble hour tribe special friend kingdom fiber";
+var mnemonic = "area age cannon doctor riot employ winter arena crazy economy dinner drum";

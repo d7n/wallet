@@ -1,1 +1,1 @@
-var mnemonic = "ring expose lounge tortoise cross window sword galaxy sheriff lobster panther estate";
+var mnemonic = "open sense uncle among nuclear bomb proud rotate labor ladder mind outer";

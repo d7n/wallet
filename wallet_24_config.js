@@ -1,1 +1,1 @@
-var mnemonic = "world pony foster hurdle tobacco wash trap urban visa gauge leaf issue";
+var mnemonic = "toward desert gesture kick depth service razor oppose level process outside bone";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage exit limb liar crazy confirm issue clean twelve fetch great fabric";
+var mnemonic = "slim amateur tide abandon calm aim negative hawk lens negative divert arctic";

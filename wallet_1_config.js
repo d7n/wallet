@@ -1,1 +1,1 @@
-var mnemonic = "polar skull work gallery hand save west slender device news again quarter";
+var mnemonic = "total crane gallery swift answer sphere middle sudden credit barrel ketchup tumble";

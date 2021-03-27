@@ -1,1 +1,1 @@
-var mnemonic = "trigger lawn retire spray error someone report script mystery tonight language fringe";
+var mnemonic = "soda foam mercy comfort pioneer south badge chalk flush attack plastic sibling";

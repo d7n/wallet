@@ -1,1 +1,1 @@
-var mnemonic = "mammal install wine quick food giant comic jealous wink casino crouch doll";
+var mnemonic = "eagle organ piece topple trumpet power weasel ecology ignore damp shiver exhaust";

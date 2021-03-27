@@ -1,1 +1,1 @@
-var mnemonic = "oyster board sand pipe favorite blind arch easy very section cancel ocean";
+var mnemonic = "shove report suspect cargo random pluck chronic misery genre increase special item";

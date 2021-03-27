@@ -1,1 +1,1 @@
-var mnemonic = "special salad tank such boost metal purchase modify monkey fine neither vague";
+var mnemonic = "oppose alcohol fame return inquiry repeat danger struggle meadow ramp phrase link";

@@ -1,1 +1,1 @@
-var mnemonic = "medal hollow achieve teach series candy system parade capable quiz shell dragon";
+var mnemonic = "excite purse wing problem fall blame address system glide trumpet canal rug";

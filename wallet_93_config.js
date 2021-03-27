@@ -1,1 +1,1 @@
-var mnemonic = "ecology orbit casual blade mansion eight say super scorpion column under venture";
+var mnemonic = "bachelor room cover seminar shiver rural change segment shallow glad east maple";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz minute add muscle wheat frown person color dizzy oyster twist olive";
+var mnemonic = "wreck sense secret dose scan suspect aerobic monster funny city melt oblige";

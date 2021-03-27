@@ -1,1 +1,1 @@
-var mnemonic = "grab mountain another fire desk junk people wear sunny mystery detail desert";
+var mnemonic = "when motor common result local profit snap random heavy rebel verb ignore";

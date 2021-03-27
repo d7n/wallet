@@ -1,1 +1,1 @@
-var mnemonic = "city banner evidence unhappy spatial story hover coil route frame then slogan";
+var mnemonic = "cost stomach trim review random arch lumber churn term ranch wreck picture";

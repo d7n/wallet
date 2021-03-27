@@ -1,1 +1,1 @@
-var mnemonic = "fire trash paddle junior oblige mind muscle recycle stove police vocal grain";
+var mnemonic = "give pumpkin race original simple ethics capable river pipe ancient excite exhibit";

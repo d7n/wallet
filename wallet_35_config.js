@@ -1,1 +1,1 @@
-var mnemonic = "argue charge object twist juice palace peace table foil purse coast need";
+var mnemonic = "learn harbor small person shove notice holiday pepper staff define thank alert";

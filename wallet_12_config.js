@@ -1,1 +1,1 @@
-var mnemonic = "fence that grace divorce globe coffee cool woman below media honey turkey";
+var mnemonic = "tennis tornado firm mountain meat coast unique wild laundry maze horse acquire";

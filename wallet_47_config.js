@@ -1,1 +1,1 @@
-var mnemonic = "close moment mechanic wasp system educate rifle favorite holiday large build wagon";
+var mnemonic = "dolphin elephant spider fix faint approve plunge illegal try kid pilot climb";

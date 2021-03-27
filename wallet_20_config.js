@@ -1,1 +1,1 @@
-var mnemonic = "federal remember siege tunnel upset sentence layer sight olympic marine gift buyer";
+var mnemonic = "lawn stereo agent draft chalk rich apart puppy latin audit aspect evolve";

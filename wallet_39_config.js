@@ -1,1 +1,1 @@
-var mnemonic = "title paper ancient hero feel woman salute choose grief now recall business";
+var mnemonic = "cheap blame bracket another flat reform volcano grit daughter champion team scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "good motion humble potato grit wait club enable dwarf rail ball patch";
+var mnemonic = "game riot crawl later tortoise stem mammal stairs domain spoil route sting";

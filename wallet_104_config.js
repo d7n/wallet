@@ -1,1 +1,1 @@
-var mnemonic = "guilt art jungle boat update skull toddler proof much machine key shock";
+var mnemonic = "skirt spin buzz short robot debris frost motion team wide announce grape";

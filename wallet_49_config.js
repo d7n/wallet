@@ -1,1 +1,1 @@
-var mnemonic = "they world bless alert apart power own husband member build awesome element";
+var mnemonic = "squirrel talk opera air rain note foot fever spoon pulse episode hub";

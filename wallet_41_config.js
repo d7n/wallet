@@ -1,1 +1,1 @@
-var mnemonic = "vacant stadium casual monitor rack north column exotic industry decide aware home";
+var mnemonic = "crime minute saddle speak bicycle desk wing casual tilt swallow panel identify";

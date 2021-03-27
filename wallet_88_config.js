@@ -1,1 +1,1 @@
-var mnemonic = "payment awkward champion river dune ensure base disease exist crunch patch boy";
+var mnemonic = "agent fish spike opera bike tooth chicken avocado fetch army repair stage";

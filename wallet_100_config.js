@@ -1,1 +1,1 @@
-var mnemonic = "element matter soup crisp visit start adapt normal above sort health penalty";
+var mnemonic = "uncle sort please dinosaur shine hole element town glory artwork tower pluck";

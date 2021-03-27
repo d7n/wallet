@@ -1,1 +1,1 @@
-var mnemonic = "inflict floor hope what infant knee palm inhale margin blood point observe";
+var mnemonic = "feed street curtain reason purity kind over uncover sausage track clever open";

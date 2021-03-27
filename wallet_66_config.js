@@ -1,1 +1,1 @@
-var mnemonic = "frog obvious choose dinosaur maze toddler tonight drill rookie cannon inner mask";
+var mnemonic = "orchard safe mansion light hotel tissue bus family idea badge ignore loop";

@@ -1,1 +1,1 @@
-var mnemonic = "ready slogan also window verify swamp accident avoid either leave plastic apart";
+var mnemonic = "catch umbrella february thought bitter kiss success pyramid must fix cannon possible";

@@ -1,1 +1,1 @@
-var mnemonic = "approve second mutual health language width decide supply actress black combine useless";
+var mnemonic = "laptop monitor cargo sight monster matter mad couch brush ride evolve weekend";

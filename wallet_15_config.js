@@ -1,1 +1,1 @@
-var mnemonic = "velvet grunt antique barely pyramid visa weapon hand regular jump rigid proud";
+var mnemonic = "memory method point link end target payment wolf awkward banner chalk outside";

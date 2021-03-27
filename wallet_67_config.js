@@ -1,1 +1,1 @@
-var mnemonic = "inside tent skate sting silent spot club cousin behave venue intact tribe";
+var mnemonic = "sign predict immense finger milk child excuse wagon sport canvas lunch slim";

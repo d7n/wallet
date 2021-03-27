@@ -1,1 +1,1 @@
-var mnemonic = "train survey unfair quick gloom aerobic curtain robot direct vendor renew luggage";
+var mnemonic = "music random hundred office reflect live mesh eager nothing width action word";

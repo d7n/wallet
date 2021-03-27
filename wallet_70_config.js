@@ -1,1 +1,1 @@
-var mnemonic = "series hand hidden keen accident question hand inflict peasant fancy ignore unusual";
+var mnemonic = "blouse wrestle cat brain pluck outside joy uphold family feed actress mail";

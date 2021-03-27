@@ -1,1 +1,1 @@
-var mnemonic = "duck prison else giant ethics popular half deposit step dust upper impact";
+var mnemonic = "panda argue village leisure guard sustain report imitate average style remain hammer";

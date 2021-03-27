@@ -1,1 +1,1 @@
-var mnemonic = "beach judge attitude bounce pipe phone april message soul solution retreat barrel";
+var mnemonic = "couple inflict dad spatial neglect check glory icon cream raven allow spoon";
