@@ -1,1 +1,1 @@
-var mnemonic = "open logic range deputy setup emerge bright great describe swarm monitor tape";
+var mnemonic = "fly charge inhale spoon slot steel fringe slam pistol exercise soul glass";

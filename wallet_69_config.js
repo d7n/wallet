@@ -1,1 +1,1 @@
-var mnemonic = "lazy shaft borrow gauge canal wrong father stick shuffle coral stumble clever";
+var mnemonic = "property filter example humble original walk own nothing design oxygen chicken bomb";

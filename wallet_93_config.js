@@ -1,1 +1,1 @@
-var mnemonic = "tree alcohol circle also finish steel credit when tired skirt damp box";
+var mnemonic = "rhythm symptom day ridge chronic raw slush chicken normal window odor wedding";

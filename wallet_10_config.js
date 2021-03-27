@@ -1,1 +1,1 @@
-var mnemonic = "add solution gentle extend collect loyal runway antique depend artist despair stomach";
+var mnemonic = "tumble matrix captain budget smoke glow horse camera answer album position shiver";

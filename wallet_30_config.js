@@ -1,1 +1,1 @@
-var mnemonic = "shuffle team security middle pottery column include squeeze fatigue public link mercy";
+var mnemonic = "wool crawl mercy meat lounge end venture helmet skill mass easy render";

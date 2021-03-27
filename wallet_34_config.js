@@ -1,1 +1,1 @@
-var mnemonic = "gas index catch cream chimney magic soccer lake twenty blue develop cute";
+var mnemonic = "bring board number gown winner swamp lazy identify lottery sound people use";

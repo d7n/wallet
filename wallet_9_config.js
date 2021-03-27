@@ -1,1 +1,1 @@
-var mnemonic = "essence gesture illness disease possible little ostrich mail trial bonus rail couch";
+var mnemonic = "initial lumber under token stable alcohol kiss river quiz mom wing sibling";

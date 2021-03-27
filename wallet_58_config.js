@@ -1,1 +1,1 @@
-var mnemonic = "crawl cruel oppose prefer together old nasty vendor vibrant truly prison fold";
+var mnemonic = "guard grief swear poem shadow reflect roof leopard chicken repeat danger spy";

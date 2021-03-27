@@ -1,1 +1,1 @@
-var mnemonic = "also story run mule long predict health street destroy retire dress voyage";
+var mnemonic = "detect bind scorpion avoid observe original staff shaft call proud canvas jacket";

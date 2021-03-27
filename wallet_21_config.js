@@ -1,1 +1,1 @@
-var mnemonic = "cover report craft leopard zone blind boss cage wash fitness idle armor";
+var mnemonic = "rather weird situate hope dice universe local smoke coil ahead income into";

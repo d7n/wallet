@@ -1,1 +1,1 @@
-var mnemonic = "suspect slight favorite miracle weather private misery erupt truck guard win river";
+var mnemonic = "gun chair effort tomorrow silly peace quote circle space hen hole alley";

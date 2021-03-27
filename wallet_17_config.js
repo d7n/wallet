@@ -1,1 +1,1 @@
-var mnemonic = "engine high brisk note predict nephew base lady action trip ordinary lamp";
+var mnemonic = "farm wedding airport canal amazing problem account olive era bike ice until";

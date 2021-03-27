@@ -1,1 +1,1 @@
-var mnemonic = "bird exact brand ball story name region rifle media impact hint across";
+var mnemonic = "virtual loop churn kingdom team brush ripple collect attract rookie oxygen candy";

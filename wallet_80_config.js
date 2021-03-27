@@ -1,1 +1,1 @@
-var mnemonic = "mushroom unusual fix ordinary dynamic gospel input boil miss act jazz upper";
+var mnemonic = "easy comfort depend abstract slender furnace scheme layer welcome people license panel";

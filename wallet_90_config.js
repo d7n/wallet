@@ -1,1 +1,1 @@
-var mnemonic = "destroy bachelor patrol keen try bring then indicate tired crowd antenna rookie";
+var mnemonic = "fruit simple credit solution pool match raw regret congress logic advice slice";

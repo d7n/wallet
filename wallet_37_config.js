@@ -1,1 +1,1 @@
-var mnemonic = "remember into soft salt lizard hip blur doctor enlist burst wrestle federal";
+var mnemonic = "section area disorder black expect stereo resist mutual aerobic odor master real";

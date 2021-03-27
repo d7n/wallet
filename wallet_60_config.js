@@ -1,1 +1,1 @@
-var mnemonic = "cement bleak roof sense divide tongue soup display alone vibrant scene derive";
+var mnemonic = "amazing caution sauce blanket turtle diet blade hen hole picnic language blossom";

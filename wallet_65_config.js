@@ -1,1 +1,1 @@
-var mnemonic = "cook corn gift grab silk doctor project kiss dog trumpet mercy first";
+var mnemonic = "limit process route buffalo cupboard ritual upset genuine figure mail income relief";

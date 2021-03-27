@@ -1,1 +1,1 @@
-var mnemonic = "gadget vital vault talk thumb push cloud equal busy fury gold funny";
+var mnemonic = "rally devote tide tiger route toast jealous embody gossip honey soup casual";

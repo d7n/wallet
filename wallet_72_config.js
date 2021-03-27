@@ -1,1 +1,1 @@
-var mnemonic = "pelican tent october nation depth pink brown exit fault post legend conduct";
+var mnemonic = "clown biology toast gold obvious age angry shield frequent service blade start";

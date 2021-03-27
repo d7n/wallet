@@ -1,1 +1,1 @@
-var mnemonic = "accident circle fetch lava vanish luxury bridge canyon trend piano suit foster";
+var mnemonic = "width minimum boil shed exotic agent between canvas sauce consider attend peace";

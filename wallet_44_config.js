@@ -1,1 +1,1 @@
-var mnemonic = "ghost chair ask panther program design best december piece faculty still globe";
+var mnemonic = "despair wait quantum hungry tunnel correct bounce panther tobacco build stage pill";

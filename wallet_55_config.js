@@ -1,1 +1,1 @@
-var mnemonic = "push rib truly shrug scout ahead lizard pulp crash above vapor leave";
+var mnemonic = "review fortune order glance angry town struggle basic vivid title bacon trend";

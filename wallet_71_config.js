@@ -1,1 +1,1 @@
-var mnemonic = "hungry visual bridge tennis lobster curve arctic film giraffe fish sponsor apart";
+var mnemonic = "skin roast dolphin hood empower clean ice maze dumb settle work mouse";

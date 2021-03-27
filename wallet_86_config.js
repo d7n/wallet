@@ -1,1 +1,1 @@
-var mnemonic = "ritual grain addict apple notable glide funny alone drink fault asset print";
+var mnemonic = "error child mixture ride dash denial gaze over silent kitchen nose text";

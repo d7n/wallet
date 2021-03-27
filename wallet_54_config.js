@@ -1,1 +1,1 @@
-var mnemonic = "inflict among file rival know blind produce category addict venture dinosaur debate";
+var mnemonic = "aisle seat rival upset lonely stadium gentle fox brief pull trap payment";

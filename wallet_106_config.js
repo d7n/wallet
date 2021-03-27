@@ -1,1 +1,1 @@
-var mnemonic = "laundry photo trial vault slam humble flip balance dress noodle garment scheme";
+var mnemonic = "hire album basic theme surprise know actor forward goddess brush body escape";

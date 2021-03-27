@@ -1,1 +1,1 @@
-var mnemonic = "champion planet enemy cheap happy dumb divorce speed equal dress educate call";
+var mnemonic = "setup virtual busy case essay marble glow mom grit resist volcano strike";

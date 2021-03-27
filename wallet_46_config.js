@@ -1,1 +1,1 @@
-var mnemonic = "chair rapid praise process fine gallery year detail render define table actress";
+var mnemonic = "sudden quote foot lazy glare leopard voyage awesome dry shine situate barrel";

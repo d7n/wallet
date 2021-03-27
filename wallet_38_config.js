@@ -1,1 +1,1 @@
-var mnemonic = "income relax alcohol sustain remind angry actual hybrid program subject purse lava";
+var mnemonic = "call renew runway increase road soon stock debris coach camera cube proof";

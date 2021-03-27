@@ -1,1 +1,1 @@
-var mnemonic = "twin midnight search sand sport behind strong tilt naive fiction express project";
+var mnemonic = "rifle sand daring cherry uniform era joy fancy average deer cable know";

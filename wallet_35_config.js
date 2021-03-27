@@ -1,1 +1,1 @@
-var mnemonic = "hip ask interest erode runway wide cube arch monitor ribbon uphold width";
+var mnemonic = "system marble law ridge crawl excite project vintage axis balance fragile dolphin";

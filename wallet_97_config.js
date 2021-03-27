@@ -1,1 +1,1 @@
-var mnemonic = "quarter mechanic broccoli region audit cable voice tooth flush blast butter unlock";
+var mnemonic = "obey mad violin replace admit wet neutral leg wheat hip kit educate";

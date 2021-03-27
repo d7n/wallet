@@ -1,1 +1,1 @@
-var mnemonic = "vicious cotton control provide wrist say wild embody organ unit gap world";
+var mnemonic = "hood quit cup remind betray athlete material bitter concert casual boss girl";

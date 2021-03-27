@@ -1,1 +1,1 @@
-var mnemonic = "culture arrange episode universe novel sing width frozen best echo mixture trip";
+var mnemonic = "bridge marine such host embrace usage voyage two retreat indoor later crumble";

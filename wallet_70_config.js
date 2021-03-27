@@ -1,1 +1,1 @@
-var mnemonic = "senior moral side corn trust ladder delay also someone hammer ceiling capable";
+var mnemonic = "steak trouble file fossil fault man service you breeze right knife donor";

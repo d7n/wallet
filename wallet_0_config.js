@@ -1,1 +1,1 @@
-var mnemonic = "knife pet dish jump drive gossip grid scale host glory orbit goat";
+var mnemonic = "deal jar helmet table mosquito team luxury myself modify song exchange fragile";

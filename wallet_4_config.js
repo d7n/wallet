@@ -1,1 +1,1 @@
-var mnemonic = "ring melt fatal wire agree next vehicle argue priority nominee eight corn";
+var mnemonic = "advice connect ecology thumb clinic blood resemble crater flock dirt dirt return";

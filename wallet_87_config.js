@@ -1,1 +1,1 @@
-var mnemonic = "point zoo silent found toward lazy dice health buyer lecture remain faith";
+var mnemonic = "key kind unusual keep cliff notable token salon save drink rail food";

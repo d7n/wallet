@@ -1,1 +1,1 @@
-var mnemonic = "concert auction cupboard deliver priority trick satisfy mouse prison census industry clutch";
+var mnemonic = "custom ensure exclude injury reward notice copper jewel pear exhaust blouse enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "century disease mean sense balcony title luggage salt creek truly meat surge";
+var mnemonic = "start topic crane play wood drift test stone million hospital trial exist";

@@ -1,1 +1,1 @@
-var mnemonic = "action doctor script vivid rocket roast leisure goat age damage sell fence";
+var mnemonic = "ring forget exclude winner fade swallow rule question decrease measure fringe lemon";

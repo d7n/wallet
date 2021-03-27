@@ -1,1 +1,1 @@
-var mnemonic = "sick relax list art hollow gasp lion hunt before pretty term smooth";
+var mnemonic = "thank filter submit dinosaur nut topic pink fun share horse rocket improve";

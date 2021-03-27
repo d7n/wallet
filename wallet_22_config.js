@@ -1,1 +1,1 @@
-var mnemonic = "tag sting umbrella indicate duty awful focus crunch south various embody scare";
+var mnemonic = "drastic hamster reflect mango chicken feature gun autumn robot about chapter endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost disorder mystery special harbor judge business major august suffer pledge reject";
+var mnemonic = "salon lecture chuckle diet alcohol mixed strategy salmon disagree clog lift interest";

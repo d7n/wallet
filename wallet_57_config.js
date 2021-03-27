@@ -1,1 +1,1 @@
-var mnemonic = "tail lawn crouch ability broom nature party sustain must document spice hungry";
+var mnemonic = "beauty hurdle december cute silver turtle ghost near tooth offer flight lava";

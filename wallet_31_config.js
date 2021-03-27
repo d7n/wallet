@@ -1,1 +1,1 @@
-var mnemonic = "divert grant hundred satisfy project when brass axis exclude neck deposit banner";
+var mnemonic = "dinner grass cave call issue three salmon coyote nose canal fever abstract";

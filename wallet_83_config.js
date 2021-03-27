@@ -1,1 +1,1 @@
-var mnemonic = "flag electric candy victory gap narrow inhale evolve equip label labor poverty";
+var mnemonic = "cake tent better soon face future permit destroy prosper also quick color";

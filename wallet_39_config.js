@@ -1,1 +1,1 @@
-var mnemonic = "surface label mix wife plate symbol husband diesel among wheat life giggle";
+var mnemonic = "off history derive tray roof close stick popular text approve only movie";

@@ -1,1 +1,1 @@
-var mnemonic = "close you foam vacuum visit whale answer idea wine rural entry van";
+var mnemonic = "release into distance club design million lawsuit step stable suffer acquire right";

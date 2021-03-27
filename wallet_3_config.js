@@ -1,1 +1,1 @@
-var mnemonic = "immune mandate genuine meat balcony reform toss quarter march trust require pole";
+var mnemonic = "clump pilot journey mask limb logic rib grace mask season person detail";

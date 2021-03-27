@@ -1,1 +1,1 @@
-var mnemonic = "weapon core street alien super credit rent muscle glove hip enhance antique";
+var mnemonic = "input apart garage use strike plug tuition hub resemble buyer combine twist";

@@ -1,1 +1,1 @@
-var mnemonic = "suffer thrive penalty melt gap essay song ivory carbon museum organ flush";
+var mnemonic = "task father whip message captain amount stock round avoid nurse leopard oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt parade border zero soon swim learn nose bitter wrap pet parent";
+var mnemonic = "chuckle heart book where width daring nothing grab tonight today tip task";

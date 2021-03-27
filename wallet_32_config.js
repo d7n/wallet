@@ -1,1 +1,1 @@
-var mnemonic = "bench vanish field ten security rice traffic initial neck faculty try current";
+var mnemonic = "trash omit nation abstract gossip struggle alarm image fuel faith valid brush";

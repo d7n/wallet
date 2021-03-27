@@ -1,1 +1,1 @@
-var mnemonic = "solar drink wasp three humor crew usage tray gentle ribbon cabin guitar";
+var mnemonic = "joy inch inch subway eternal fix era sleep raise shield stuff crane";

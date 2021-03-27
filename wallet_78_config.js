@@ -1,1 +1,1 @@
-var mnemonic = "detect camera vault bright arch oyster goddess liquid wheat fault skate useless";
+var mnemonic = "awesome letter soap march face blade inspire lens off merit occur trip";

@@ -1,1 +1,1 @@
-var mnemonic = "brush noise snap barely spend menu paddle help express crazy couch zoo";
+var mnemonic = "into recipe program window estate vacuum replace roast over loan ramp kitchen";

@@ -1,1 +1,1 @@
-var mnemonic = "field light valley tape street fresh demise cat bundle hurt erupt lecture";
+var mnemonic = "vapor fatal physical drill cheese adjust any sock supreme lawn flee unaware";

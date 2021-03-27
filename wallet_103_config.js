@@ -1,1 +1,1 @@
-var mnemonic = "myself desert tonight question swap copper slush image sense safe torch peanut";
+var mnemonic = "valley depth matrix flock title load double romance club apart nothing elder";

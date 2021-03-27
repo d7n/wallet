@@ -1,1 +1,1 @@
-var mnemonic = "clinic glare cluster rural soft case arch student thank doctor spirit shock";
+var mnemonic = "narrow season dose chaos execute steak switch vessel attend work build lecture";

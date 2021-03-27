@@ -1,1 +1,1 @@
-var mnemonic = "trick hat bench tennis inspire immense else sand armor problem orbit material";
+var mnemonic = "arrow ask notable vivid disagree crystal upon garment auto confirm wedding donor";

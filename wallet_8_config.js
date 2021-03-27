@@ -1,1 +1,1 @@
-var mnemonic = "defense rescue rude reveal coast penalty advance egg paper rebel sea box";
+var mnemonic = "buddy title rescue congress bus agent brass often put excuse nurse word";

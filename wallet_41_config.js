@@ -1,1 +1,1 @@
-var mnemonic = "mango cherry honey eight output please unveil warrior pottery digital need stamp";
+var mnemonic = "flash lumber arrest lonely device gesture laundry base exit grocery box grief";

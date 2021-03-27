@@ -1,1 +1,1 @@
-var mnemonic = "follow yard parrot athlete citizen mosquito abuse buyer fix artist range spice";
+var mnemonic = "someone better survey tube boy oak frown arena hair harsh face razor";

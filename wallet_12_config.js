@@ -1,1 +1,1 @@
-var mnemonic = "saddle audit kick only unfair leisure radar cause fringe release network water";
+var mnemonic = "uncle fly hungry seek success like hope focus naive boil heart frog";

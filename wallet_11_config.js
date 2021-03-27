@@ -1,1 +1,1 @@
-var mnemonic = "document quick clever ice sentence vibrant debate update sister dizzy horror route";
+var mnemonic = "cool elevator toast menu december empower host craft salute sting ugly orange";

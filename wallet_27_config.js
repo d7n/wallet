@@ -1,1 +1,1 @@
-var mnemonic = "nut elephant pizza file decade game kite ride decade knee recall venue";
+var mnemonic = "sister vibrant ozone snack release panic coral tunnel rice install welcome possible";

@@ -1,1 +1,1 @@
-var mnemonic = "split rent genre try expect enhance poem glow bubble indoor spread prepare";
+var mnemonic = "sibling hungry axis inject enhance erupt tray police divorce other indicate clog";

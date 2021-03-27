@@ -1,1 +1,1 @@
-var mnemonic = "aware cattle isolate calm sunny depth piano because avocado exercise trash tornado";
+var mnemonic = "limb silver decorate decline orange clog manage neglect type tool vanish food";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp habit casino law slab snap true expand demise maple sweet host";
+var mnemonic = "front baby afraid nephew cook small behave park magnet cup yellow farm";

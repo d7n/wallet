@@ -1,1 +1,1 @@
-var mnemonic = "flock scorpion kitchen coil short afford demise cluster sunny electric leaf pitch";
+var mnemonic = "social fix enforce space side egg scrub fabric aisle north early save";

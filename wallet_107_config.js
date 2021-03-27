@@ -1,1 +1,1 @@
-var mnemonic = "lemon already fabric couch essay assault across benefit post fire exclude pupil";
+var mnemonic = "scrap fragile immune unlock brush mushroom scout spider page limit hub chest";

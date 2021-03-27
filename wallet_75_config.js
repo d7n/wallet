@@ -1,1 +1,1 @@
-var mnemonic = "spin pool beauty suffer champion axis essay meadow tilt demise trophy critic";
+var mnemonic = "behave seminar pilot boost desert miracle result toy robot adapt rocket dutch";

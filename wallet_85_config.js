@@ -1,1 +1,1 @@
-var mnemonic = "grit angry lunch cousin proof wash tilt replace play slam brass island";
+var mnemonic = "vote empower winter nation acoustic decide ride size east chalk please visa";

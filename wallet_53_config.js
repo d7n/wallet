@@ -1,1 +1,1 @@
-var mnemonic = "fox onion opera bottom regret fever beach gold inmate spot canyon liar";
+var mnemonic = "super kite joy hen country any damp account theory hub main involve";

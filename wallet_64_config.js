@@ -1,1 +1,1 @@
-var mnemonic = "fatigue six insect negative coach lottery spice wealth supreme visit inject dirt";
+var mnemonic = "sorry prepare festival stock dog scorpion novel hospital voice trap cupboard remove";

@@ -1,1 +1,1 @@
-var mnemonic = "daring staff race mammal degree funny decide magnet opera divorce comic sand";
+var mnemonic = "speed screen system budget flight muffin output steak announce cousin hungry gym";

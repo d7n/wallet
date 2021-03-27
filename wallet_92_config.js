@@ -1,1 +1,1 @@
-var mnemonic = "anchor apple blue upset genre ocean nest exile ball monitor silver toward";
+var mnemonic = "alter tobacco imitate east use ability curious vacant hub judge hollow spoon";

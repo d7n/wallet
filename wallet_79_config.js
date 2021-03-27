@@ -1,1 +1,1 @@
-var mnemonic = "umbrella woman profit derive alley kit equip future exile best rude tent";
+var mnemonic = "focus object situate exercise envelope radar degree wedding fog hurt paper quarter";

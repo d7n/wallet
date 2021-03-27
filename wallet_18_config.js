@@ -1,1 +1,1 @@
-var mnemonic = "repeat gallery utility boss volume such wise egg vicious mimic road example";
+var mnemonic = "wrist assault either space layer check walk high novel erosion palace nature";

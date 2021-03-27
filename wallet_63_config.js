@@ -1,1 +1,1 @@
-var mnemonic = "awake rough radar hospital need earth dream glow economy sad tenant dynamic";
+var mnemonic = "chaos wall bargain foam color alley charge hybrid rent twice shiver soft";

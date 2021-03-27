@@ -1,1 +1,1 @@
-var mnemonic = "also demise adapt fever nose moral reward follow airport fiber income museum";
+var mnemonic = "super gadget fatal equal belt smart game culture east quote abstract essence";

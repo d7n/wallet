@@ -1,1 +1,1 @@
-var mnemonic = "act lobster list injury drink wear submit green pair divide crumble unable";
+var mnemonic = "confirm huge patient member title vague segment utility diamond leader depend tissue";

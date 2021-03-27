@@ -1,1 +1,1 @@
-var mnemonic = "scheme float skirt holiday monster tag rent panic reject garage process used";
+var mnemonic = "assault eight drink oxygen range use merry mercy kick curious kit endless";

@@ -1,1 +1,1 @@
-var mnemonic = "word gym black burst damp pink velvet march nominee evidence witness nerve";
+var mnemonic = "monkey margin where wrap unable stand vivid case satoshi still yard resist";

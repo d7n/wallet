@@ -1,1 +1,1 @@
-var mnemonic = "impulse sail metal hotel vicious essay diet trend win budget way sail";
+var mnemonic = "hungry amateur wing never over bamboo tooth ostrich worry glove where artefact";

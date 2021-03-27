@@ -1,1 +1,1 @@
-var mnemonic = "old situate beauty toy easily horn tower clutch lift chapter long daring";
+var mnemonic = "rare ten bargain control ice still expire limit tennis plug absorb pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "spoil mechanic race mandate stomach force easy neither cream ethics cheese season";
+var mnemonic = "large faint bubble addict digital brush actual vacuum casual tonight beyond fat";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom relief solar poem wear accuse deputy accident obvious document poet vanish";
+var mnemonic = "renew labor estate kitchen bitter grid gloom much debate report average summer";

@@ -1,1 +1,1 @@
-var mnemonic = "jar twenty bread fury buzz butter access tip buzz topic east unable";
+var mnemonic = "broken invite ride oyster glad property finish satoshi age during balcony upset";
