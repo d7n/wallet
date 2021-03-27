@@ -1,1 +1,1 @@
-var mnemonic = "bulk renew grocery love kingdom filter execute viable purity shed despair viable";
+var mnemonic = "melody squeeze inflict arm embrace purchase abandon wisdom insane zone farm you";

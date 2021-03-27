@@ -1,1 +1,1 @@
-var mnemonic = "coast uncover month try sun patch million twin hole embark borrow ethics";
+var mnemonic = "mule math sing under uphold hammer extra never leader rack escape bird";

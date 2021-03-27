@@ -1,1 +1,1 @@
-var mnemonic = "item quit illegal wheel strike lock wild doctor night brush inch cupboard";
+var mnemonic = "alert friend menu picture scrub time card logic alarm acoustic panel message";

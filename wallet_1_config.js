@@ -1,1 +1,1 @@
-var mnemonic = "gaze borrow drastic fork august chief fever have syrup guess acquire strong";
+var mnemonic = "deputy remind pyramid century half grid side soap water train wife hub";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace salmon number pulse swap warm box noise because tuna another pupil";
+var mnemonic = "buffalo guess fade liberty also stairs marble climb series clay actor whisper";

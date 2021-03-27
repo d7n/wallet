@@ -1,1 +1,1 @@
-var mnemonic = "floor target shift monkey film other zebra flavor sorry assist ceiling correct";
+var mnemonic = "party click industry bench squeeze wedding blast cycle hammer sight two december";

@@ -1,1 +1,1 @@
-var mnemonic = "glad true lion legal fuel force spin opinion industry gate alter release";
+var mnemonic = "dress wrist defy evoke exit heavy eagle nurse afford absurd alcohol kite";

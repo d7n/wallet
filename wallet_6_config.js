@@ -1,1 +1,1 @@
-var mnemonic = "tone amateur excite retire basic case pulse elite window state kick uphold";
+var mnemonic = "clap surround rifle various doctor fiber drive motion edit buffalo laundry nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "electric rabbit canoe avocado witness base wheel suffer voice noble drop visa";
+var mnemonic = "limit defense corn void reason area toss woman settle large woman shallow";

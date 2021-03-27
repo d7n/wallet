@@ -1,1 +1,1 @@
-var mnemonic = "private elevator window brave limb dune ski fetch voice type three crush";
+var mnemonic = "toddler abandon turtle digital coyote reform host sun solid sun steak type";

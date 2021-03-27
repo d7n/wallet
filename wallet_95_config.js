@@ -1,1 +1,1 @@
-var mnemonic = "tool group truck mass mountain next super private poverty basic sad mushroom";
+var mnemonic = "walnut winner couch wool future toast farm boring level seek genre awake";

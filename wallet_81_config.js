@@ -1,1 +1,1 @@
-var mnemonic = "pole bring together jealous slam tragic grunt people cart razor coral cruel";
+var mnemonic = "useless animal lesson shrimp fault viable emerge endless civil climb area broccoli";

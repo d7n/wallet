@@ -1,1 +1,1 @@
-var mnemonic = "item buyer already you upon cook caution fetch quote grocery silk transfer";
+var mnemonic = "loop end tent cream into nasty stock answer ten fashion bamboo million";

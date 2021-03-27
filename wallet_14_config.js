@@ -1,1 +1,1 @@
-var mnemonic = "lecture gun code chronic holiday hurt exist inside oppose real expire sense";
+var mnemonic = "nothing salmon snake peace flock salute circle clap right area visual excuse";

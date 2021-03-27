@@ -1,1 +1,1 @@
-var mnemonic = "plunge alone various upset demand you wheel range cushion rhythm hub duty";
+var mnemonic = "famous angry punch knife live proud update dragon wagon effort swim gravity";

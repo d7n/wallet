@@ -1,1 +1,1 @@
-var mnemonic = "crater hurry december sort powder twist virtual endless quote avocado degree cave";
+var mnemonic = "heart lock cat vendor outdoor urge poet pause zoo wear evidence wise";

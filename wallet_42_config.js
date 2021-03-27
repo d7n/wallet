@@ -1,1 +1,1 @@
-var mnemonic = "eager ill february tragic silent neck antique garment ketchup universe citizen earth";
+var mnemonic = "trust slim mail taxi jungle delay sorry mango method old crystal desk";

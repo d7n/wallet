@@ -1,1 +1,1 @@
-var mnemonic = "tell apart mixed bid order invest flock accident ensure cat waste cook";
+var mnemonic = "apology chat milk aunt off middle enough guitar wrong kit fine weekend";

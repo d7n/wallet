@@ -1,1 +1,1 @@
-var mnemonic = "bicycle gadget choose margin despair focus demand smile slogan grass tooth clip";
+var mnemonic = "number jacket fruit clutch canyon vote replace access sight firm cluster visit";

@@ -1,1 +1,1 @@
-var mnemonic = "bind donate also candy weekend child rib assault shed arch vivid slim";
+var mnemonic = "staff shop flight decade cloud welcome taxi lunch course foot tumble gloom";

@@ -1,1 +1,1 @@
-var mnemonic = "fat turkey message social erupt into endless jar rifle burst shed help";
+var mnemonic = "card lift flat nice team donor merry gossip canyon cargo achieve economy";

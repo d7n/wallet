@@ -1,1 +1,1 @@
-var mnemonic = "degree joy exhaust school museum parrot clown year supreme curtain video rail";
+var mnemonic = "vote curious improve add iron reflect junk foot diamond drill usual evoke";

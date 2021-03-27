@@ -1,1 +1,1 @@
-var mnemonic = "talent moment enable intact remain wagon endorse position crime clever crush alter";
+var mnemonic = "wife mechanic trade summer position author venture surprise payment inform language dust";

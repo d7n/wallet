@@ -1,1 +1,1 @@
-var mnemonic = "pattern enhance awesome year quality under dose express auto fault drop duck";
+var mnemonic = "soccer love chapter caught palace client leader tumble blood list crucial forest";

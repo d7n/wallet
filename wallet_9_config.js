@@ -1,1 +1,1 @@
-var mnemonic = "orphan flip public now congress odor snake quick involve library average address";
+var mnemonic = "remember whip laptop genre luggage alone rookie language master gym predict cup";

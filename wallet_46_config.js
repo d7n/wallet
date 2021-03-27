@@ -1,1 +1,1 @@
-var mnemonic = "stable general drum code travel girl grain view hollow bridge bachelor orchard";
+var mnemonic = "code fresh flag frog guide siren wear income system subject logic puzzle";

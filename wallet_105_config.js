@@ -1,1 +1,1 @@
-var mnemonic = "lazy labor reveal inspire alert time ride track prevent glue veteran fault";
+var mnemonic = "into half rotate funny bargain awesome describe wood divert pause carpet clock";

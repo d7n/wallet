@@ -1,1 +1,1 @@
-var mnemonic = "desert capable man fancy tissue frozen bridge mean eternal decline middle autumn";
+var mnemonic = "syrup spike prize orphan trend orchard popular zone exercise female whip share";

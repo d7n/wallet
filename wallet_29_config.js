@@ -1,1 +1,1 @@
-var mnemonic = "wood draw party endless boring lake kingdom ten history evoke maid prison";
+var mnemonic = "column crane enemy usage artwork lunch forum fatigue document repeat bomb energy";

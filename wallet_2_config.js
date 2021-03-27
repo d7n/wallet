@@ -1,1 +1,1 @@
-var mnemonic = "exile chimney smile sustain caution brown life obvious join cause pause jeans";
+var mnemonic = "found school original modify letter velvet chalk walnut essence weather fall earn";

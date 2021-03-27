@@ -1,1 +1,1 @@
-var mnemonic = "sweet hold safe amused baby sad typical humor utility idea chair session";
+var mnemonic = "image ski hawk wood maple erase scene era flavor velvet sudden skill";

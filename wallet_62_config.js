@@ -1,1 +1,1 @@
-var mnemonic = "trick advice paper indoor grit culture math depth sleep stereo pencil worry";
+var mnemonic = "torch typical grass grief unusual case quote unknown north core portion rabbit";

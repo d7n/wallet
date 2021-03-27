@@ -1,1 +1,1 @@
-var mnemonic = "theory vacant turkey index cattle glance liberty replace jungle vivid blush dignity";
+var mnemonic = "sausage owner frequent cram bind swift pill ensure please love core drill";

@@ -1,1 +1,1 @@
-var mnemonic = "salmon obtain elegant appear vehicle galaxy tide fan secret skate crucial caught";
+var mnemonic = "walnut dove warrior bridge glass connect mouse teach poverty opera throw mansion";

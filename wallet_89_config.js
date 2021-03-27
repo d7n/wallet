@@ -1,1 +1,1 @@
-var mnemonic = "diamond twelve ready cost puzzle fly crisp fork staff wide lady barely";
+var mnemonic = "document inmate sing spread dilemma exit seek warm quote laugh journey nominee";

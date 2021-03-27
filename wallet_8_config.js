@@ -1,1 +1,1 @@
-var mnemonic = "blood image defy dolphin rural begin doll soul owner tooth they chief";
+var mnemonic = "panel laptop genuine typical feed pumpkin tiny give photo cinnamon recycle empty";

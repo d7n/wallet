@@ -1,1 +1,1 @@
-var mnemonic = "race thought wrist quarter defense faculty cliff pen load supreme void riot";
+var mnemonic = "bargain lounge merry grit grant address pass else damage around behave subway";

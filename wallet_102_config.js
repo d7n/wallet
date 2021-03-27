@@ -1,1 +1,1 @@
-var mnemonic = "amateur vivid any success radar pottery fence quote lift balance method super";
+var mnemonic = "void police surface donkey hurdle boy question want upset stamp various civil";

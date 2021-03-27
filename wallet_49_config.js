@@ -1,1 +1,1 @@
-var mnemonic = "sound goat minute wild ball chunk manual record type over artefact nuclear";
+var mnemonic = "tumble wise track forum inhale elbow liberty duty engage addict cage craft";

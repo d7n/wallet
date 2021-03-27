@@ -1,1 +1,1 @@
-var mnemonic = "pepper dismiss gallery talk dynamic solution ready aim infant category desert address";
+var mnemonic = "secret gloom analyst fan rapid sweet any claw foster fashion umbrella orchard";

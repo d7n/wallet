@@ -1,1 +1,1 @@
-var mnemonic = "agent become adjust eyebrow group hour have humor usual genuine bracket disagree";
+var mnemonic = "shallow example mother drama upon tortoise fluid donate describe thunder train jelly";

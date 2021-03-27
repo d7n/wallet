@@ -1,1 +1,1 @@
-var mnemonic = "cloth gesture library remove confirm lava hover pig peasant salt daughter light";
+var mnemonic = "snake frequent table alien soda roof hood visit volcano area bubble chicken";

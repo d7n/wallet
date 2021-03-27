@@ -1,1 +1,1 @@
-var mnemonic = "iron thing glass oblige change grid wool claw boy taste fade pepper";
+var mnemonic = "dentist seat grant knock twelve assault similar frozen emotion cabin above feel";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry shoe staff isolate hello hub exact key heart cash act panel";
+var mnemonic = "shy divide shift expand suspect motion verify pig cook fit bubble expire";

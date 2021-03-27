@@ -1,1 +1,1 @@
-var mnemonic = "about three afraid current exhibit galaxy chapter raccoon angle lawsuit meadow expire";
+var mnemonic = "trash win venture west similar job wife nurse lottery lemon fit bracket";

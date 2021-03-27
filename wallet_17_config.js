@@ -1,1 +1,1 @@
-var mnemonic = "sponsor eagle bean tube jazz clump denial attitude play select recall rough";
+var mnemonic = "fatal stage depart link coconut major moment subway drastic vintage reunion cry";

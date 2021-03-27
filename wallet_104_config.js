@@ -1,1 +1,1 @@
-var mnemonic = "game mixture clerk hundred bonus clean cannon naive taste swim put blame";
+var mnemonic = "inquiry between town suffer helmet rude angry upon want ride echo mammal";

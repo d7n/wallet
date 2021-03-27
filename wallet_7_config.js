@@ -1,1 +1,1 @@
-var mnemonic = "invite hover lens laugh napkin report pass pistol garbage soul pupil trash";
+var mnemonic = "riot giggle cushion once canoe priority arena cry swallow palace gauge extend";

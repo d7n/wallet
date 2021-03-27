@@ -1,1 +1,1 @@
-var mnemonic = "giraffe top van frequent book foil attitude budget coach stable hockey cup";
+var mnemonic = "muscle want trial artist just exhaust before divide method wagon timber room";

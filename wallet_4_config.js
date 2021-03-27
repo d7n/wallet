@@ -1,1 +1,1 @@
-var mnemonic = "scrub mask emerge expose gorilla hat appear brick body color table jar";
+var mnemonic = "destroy crazy prefer excite tower shine tip frozen engine measure comic buddy";

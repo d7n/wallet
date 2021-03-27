@@ -1,1 +1,1 @@
-var mnemonic = "parade road giggle trust blanket spawn follow slight letter exit blade end";
+var mnemonic = "total filter small offer total hobby chat that must axis ticket right";

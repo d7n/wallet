@@ -1,1 +1,1 @@
-var mnemonic = "home dune parrot scatter oil fault camera initial awesome exhaust strike ketchup";
+var mnemonic = "illegal foster december own stick they habit ethics exact sand raven enrich";

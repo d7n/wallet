@@ -1,1 +1,1 @@
-var mnemonic = "stumble bright sun creek trip solution curious project lonely floor bacon assume";
+var mnemonic = "unit lyrics devote south churn grain illness card three employ cluster card";

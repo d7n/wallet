@@ -1,1 +1,1 @@
-var mnemonic = "soccer evoke history park doctor print hen enroll jelly tragic aware under";
+var mnemonic = "vast novel mystery document oyster mule treat come tomorrow reopen upper approve";

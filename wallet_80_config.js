@@ -1,1 +1,1 @@
-var mnemonic = "earth crazy elevator mule fantasy scout cheap sustain car strong club enact";
+var mnemonic = "velvet gift label skull absorb disease similar memory beauty indoor accuse setup";

@@ -1,1 +1,1 @@
-var mnemonic = "setup west strike syrup child twelve hole panel wish mirror audit squirrel";
+var mnemonic = "abuse grab powder bundle upset sound climb bright limit salon farm sniff";

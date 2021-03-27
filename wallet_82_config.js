@@ -1,1 +1,1 @@
-var mnemonic = "caution unit trigger jungle chase long victory flame tuna tail upon easy";
+var mnemonic = "small flower mirror accident genuine select fruit leave hospital perfect devote dilemma";

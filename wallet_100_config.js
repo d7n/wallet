@@ -1,1 +1,1 @@
-var mnemonic = "around beyond mango loop bunker slim pole exit close broken cliff turtle";
+var mnemonic = "engine grief reward soon stage smart puppy obtain kid work fetch ginger";

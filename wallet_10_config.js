@@ -1,1 +1,1 @@
-var mnemonic = "royal venue play tide property potato voyage spare body dentist hip interest";
+var mnemonic = "token arrive fashion melt term sample table once hen alter float today";

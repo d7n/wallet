@@ -1,1 +1,1 @@
-var mnemonic = "surprise crane urban gloom clay swamp heavy present draw blouse trap coil";
+var mnemonic = "expand canal dignity bulk blind blush company cause save story dumb only";

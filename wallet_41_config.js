@@ -1,1 +1,1 @@
-var mnemonic = "pass credit use draw uphold zoo town viable rural identify seat canyon";
+var mnemonic = "creek roof ivory fire scorpion october hidden retire mail mobile report equip";

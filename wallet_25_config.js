@@ -1,1 +1,1 @@
-var mnemonic = "practice vanish acquire total hawk fatal snap media route upon brain polar";
+var mnemonic = "prize drip head radio sock car amazing tuna grow assume mix note";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling bottom dutch tell chronic method turkey romance pact roast umbrella turkey";
+var mnemonic = "panel turn maple gadget pelican own thing better mother hand leopard summer";

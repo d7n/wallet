@@ -1,1 +1,1 @@
-var mnemonic = "engage evidence assist innocent amateur source cluster pupil tower gaze chair hover";
+var mnemonic = "museum border together hope alcohol guess volume inject depth silk drop glare";

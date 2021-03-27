@@ -1,1 +1,1 @@
-var mnemonic = "twin chat amazing verify online visa latin pioneer glass click barrel host";
+var mnemonic = "muffin ozone quantum cable country shadow such empty east unfair auction cave";

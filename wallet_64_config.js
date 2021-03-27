@@ -1,1 +1,1 @@
-var mnemonic = "cave hundred direct warrior script bicycle street shock current treat rose rotate";
+var mnemonic = "meat diagram patient similar obvious stamp stage monkey potato achieve play exercise";

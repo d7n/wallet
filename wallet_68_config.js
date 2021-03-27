@@ -1,1 +1,1 @@
-var mnemonic = "cruise artefact gallery empty stumble electric hub toe speed magnet nominee decorate";
+var mnemonic = "razor bike index shed accident injury random tool rain laptop claw agent";

@@ -1,1 +1,1 @@
-var mnemonic = "effort midnight relief essence drive broccoli rotate tree zebra rain skin today";
+var mnemonic = "gorilla claw crumble output session middle chat income language empower glide arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli rail mystery drop source quick wait liberty shine misery suspect please";
+var mnemonic = "unusual mean ramp benefit genius reunion elevator census salt flag dry pet";

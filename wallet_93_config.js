@@ -1,1 +1,1 @@
-var mnemonic = "ivory rely damage noodle drive lion dish abuse unknown bachelor wonder rail";
+var mnemonic = "cheese hazard buyer add island card depart fine alcohol enroll miracle more";

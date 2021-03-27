@@ -1,1 +1,1 @@
-var mnemonic = "narrow elite pair genius mother grief police document rail merge air broccoli";
+var mnemonic = "cart regret trumpet drift since civil section energy divorce sea sunny cupboard";

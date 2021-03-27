@@ -1,1 +1,1 @@
-var mnemonic = "casino approve drum fog alter price agent soup pull wealth filter spare";
+var mnemonic = "orient census clock ahead become stay squeeze sausage paddle spatial basket foam";

@@ -1,1 +1,1 @@
-var mnemonic = "riot symbol sugar lens major beach announce hedgehog clarify winter picnic bracket";
+var mnemonic = "oval drive champion glow victory ugly minor find describe grape collect huge";

@@ -1,1 +1,1 @@
-var mnemonic = "logic firm ostrich lottery slogan bread veteran appear unaware tone half figure";
+var mnemonic = "spawn meadow spread fit oblige economy aunt approve sound cruise coconut satisfy";

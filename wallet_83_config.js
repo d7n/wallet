@@ -1,1 +1,1 @@
-var mnemonic = "cause cheese arch tobacco powder track struggle gun universe question crane better";
+var mnemonic = "require kitchen spider violin drip caught oblige stem finger cliff now tattoo";

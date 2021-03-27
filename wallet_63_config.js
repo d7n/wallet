@@ -1,1 +1,1 @@
-var mnemonic = "slim fade oak owner pottery envelope way still dance abstract alcohol episode";
+var mnemonic = "dance hello unlock sugar enact imitate present ask cushion move pulp just";

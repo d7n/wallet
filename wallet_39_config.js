@@ -1,1 +1,1 @@
-var mnemonic = "library afford scan novel dignity humor invest logic remember void spirit police";
+var mnemonic = "virtual fitness raise live garbage race trumpet gym brass angle oyster hunt";

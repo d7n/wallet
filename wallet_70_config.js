@@ -1,1 +1,1 @@
-var mnemonic = "rabbit canal wide fame divert spoon outer vanish long way cricket company";
+var mnemonic = "power reform brass route deputy denial pioneer february void dinner right kidney";

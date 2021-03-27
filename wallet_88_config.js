@@ -1,1 +1,1 @@
-var mnemonic = "innocent hockey actual staff initial ring menu clip illness loop sting field";
+var mnemonic = "knee chapter music train motion lake screen cargo tube earn joy cricket";

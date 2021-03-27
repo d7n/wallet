@@ -1,1 +1,1 @@
-var mnemonic = "field neglect bamboo dose theme patch section error scan water woman cry";
+var mnemonic = "focus shrimp year absurd depart control slogan vessel sheriff aspect chief neither";

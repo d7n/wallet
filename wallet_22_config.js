@@ -1,1 +1,1 @@
-var mnemonic = "state coffee help man bless burst lounge unknown protect speed disease rabbit";
+var mnemonic = "since language stamp pear degree develop special scissors float liar identify develop";

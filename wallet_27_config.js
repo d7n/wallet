@@ -1,1 +1,1 @@
-var mnemonic = "hotel include screen glue wrist fashion oval ethics crash symbol december media";
+var mnemonic = "increase kid plug family thrive west connect shy salmon hollow unit pulp";

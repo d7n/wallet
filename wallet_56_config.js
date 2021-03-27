@@ -1,1 +1,1 @@
-var mnemonic = "permit retreat sort figure glove love train deliver person fabric derive fix";
+var mnemonic = "hero disorder chest jaguar detail light clinic cancel manage execute powder raise";

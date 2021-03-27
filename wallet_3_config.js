@@ -1,1 +1,1 @@
-var mnemonic = "hire exclude chapter awkward zero pill afraid game assault mosquito shoot empty";
+var mnemonic = "unaware desert main repeat parrot random erase repair green sorry exit fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse patch wealth such weasel elder recycle into claim nephew prepare curious";
+var mnemonic = "brown nurse hundred group tail reason cabbage knife drill clip boost view";

@@ -1,1 +1,1 @@
-var mnemonic = "hold used loop anchor crash when ordinary column staff sight eyebrow rely";
+var mnemonic = "label elbow fault pill ski visual spirit jar fiber indoor unfair surface";

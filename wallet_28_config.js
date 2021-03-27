@@ -1,1 +1,1 @@
-var mnemonic = "attend life quote example play morning develop girl amazing climb solar weird";
+var mnemonic = "album doctor final pottery salmon ridge entire area brown close door sister";

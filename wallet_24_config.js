@@ -1,1 +1,1 @@
-var mnemonic = "strike strategy that sea skin lunch renew cattle layer music volume another";
+var mnemonic = "clutch hazard rent path program owner staff happy good cry hero receive";

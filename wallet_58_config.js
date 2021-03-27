@@ -1,1 +1,1 @@
-var mnemonic = "amateur unusual topple real same rich crowd affair proof daring wide fiction";
+var mnemonic = "south deputy three order rely pulse demand advice chief next mesh sudden";

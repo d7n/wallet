@@ -1,1 +1,1 @@
-var mnemonic = "welcome eagle swamp document action cherry alley salmon toy focus tell eyebrow";
+var mnemonic = "grain outdoor dog time real symptom extra clip gravity hollow toe method";

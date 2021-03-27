@@ -1,1 +1,1 @@
-var mnemonic = "smooth unusual core spell cargo use neck tray leg twist kit mammal";
+var mnemonic = "finish entire pride brisk design pull soon grief suffer clarify become pink";

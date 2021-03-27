@@ -1,1 +1,1 @@
-var mnemonic = "foot eternal audit coffee spirit bargain toilet knee damp prize pottery poem";
+var mnemonic = "misery dish toddler laptop adjust man velvet ball consider antenna grunt boy";
