@@ -1,1 +1,1 @@
-var mnemonic = "midnight chapter jacket spirit sand churn nuclear current oppose expect say dish";
+var mnemonic = "tent fancy consider coast bomb pool divorce million icon buyer churn best";

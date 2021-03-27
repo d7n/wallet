@@ -1,1 +1,1 @@
-var mnemonic = "mother sea please blame duck broccoli enroll wrestle ignore salon volume snake";
+var mnemonic = "damp photo opinion loyal duck eight spy spy raccoon nut fiscal firm";

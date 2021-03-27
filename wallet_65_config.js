@@ -1,1 +1,1 @@
-var mnemonic = "pear original wall popular wrong erase wisdom science leaf soccer amateur cram";
+var mnemonic = "burst banana leave exit segment pair forest stomach twice run plate taxi";

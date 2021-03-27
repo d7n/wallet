@@ -1,1 +1,1 @@
-var mnemonic = "orbit trigger doctor purse present wide trouble salon avocado cheap today equip";
+var mnemonic = "mechanic cancel portion wine worry derive visa absurd protect purchase exact cry";

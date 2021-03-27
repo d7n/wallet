@@ -1,1 +1,1 @@
-var mnemonic = "excite enable service zebra high awake swap actor escape diagram observe industry";
+var mnemonic = "inflict hedgehog power neutral glove plunge insane rural fashion vessel scatter silent";

@@ -1,1 +1,1 @@
-var mnemonic = "shove lumber bonus again explain occur stay gadget noble snow apart kingdom";
+var mnemonic = "post castle utility garment acquire mercy fury post earn spend proof swim";

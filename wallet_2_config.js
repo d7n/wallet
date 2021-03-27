@@ -1,1 +1,1 @@
-var mnemonic = "price repeat design banana garage guide cliff busy crazy aisle legend giant";
+var mnemonic = "fan enforce series reject grace near record circle convince glow swear away";

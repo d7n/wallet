@@ -1,1 +1,1 @@
-var mnemonic = "title ready slight half spread fatigue organ reveal deposit bamboo slim budget";
+var mnemonic = "hill fluid genuine select check faculty inherit tortoise ozone crane garden tumble";

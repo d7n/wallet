@@ -1,1 +1,1 @@
-var mnemonic = "title resemble length exhaust release sniff civil bottom frown guide husband quote";
+var mnemonic = "miracle acoustic wedding critic damp shop inflict illness afraid slab pet city";

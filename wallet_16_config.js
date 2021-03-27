@@ -1,1 +1,1 @@
-var mnemonic = "liquid open agree sure age giant ring fringe debris debate vessel firm";
+var mnemonic = "echo early cruise puzzle modify floor normal artefact vehicle office sniff jungle";

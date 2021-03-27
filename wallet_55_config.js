@@ -1,1 +1,1 @@
-var mnemonic = "run merge sustain zero ahead dose dentist acquire throw example cube hidden";
+var mnemonic = "output armed choice produce fiction vanish citizen test bar alert cattle cabin";

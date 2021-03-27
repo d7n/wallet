@@ -1,1 +1,1 @@
-var mnemonic = "mesh sunny spatial throw coil alter decide chase cereal arm palace disagree";
+var mnemonic = "genius believe length obtain valley buddy cradle dinosaur hold monitor antique illness";

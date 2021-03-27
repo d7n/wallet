@@ -1,1 +1,1 @@
-var mnemonic = "butter alter shed sketch slender exotic fabric naive clay frog face guard";
+var mnemonic = "sea quiz series action pull casual number arrive grow trend can frame";

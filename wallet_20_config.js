@@ -1,1 +1,1 @@
-var mnemonic = "venue rare that abstract angle connect private party rib danger plastic wide";
+var mnemonic = "fire firm census dynamic company indicate shrimp behind spell middle ginger exchange";

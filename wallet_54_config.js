@@ -1,1 +1,1 @@
-var mnemonic = "hold ribbon promote furnace rack illegal primary congress diesel mushroom genre cup";
+var mnemonic = "bundle desk false social nice worth swear plunge pipe metal three stool";

@@ -1,1 +1,1 @@
-var mnemonic = "quit find letter army early bundle useless squirrel clip devote valley gorilla";
+var mnemonic = "turtle pretty unknown spin bulk fossil fury clump anger recycle garden candy";

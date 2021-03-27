@@ -1,1 +1,1 @@
-var mnemonic = "say kind dance surround feel advice egg hazard ripple design athlete save";
+var mnemonic = "visual side prison absurd luxury brother people party day tortoise narrow party";

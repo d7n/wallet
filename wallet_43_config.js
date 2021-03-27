@@ -1,1 +1,1 @@
-var mnemonic = "caution brief gesture guess proof army little traffic sing bird squirrel plastic";
+var mnemonic = "special obey tag novel turn artist sample define gallery kick ill absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "much script blame slush lunch vital impose host grocery toddler again carry";
+var mnemonic = "amused cycle tail add minute drift visual cloud apple inform kiwi inflict";

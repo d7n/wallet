@@ -1,1 +1,1 @@
-var mnemonic = "volcano ten apple lobster opinion mesh script vacant sort nerve favorite response";
+var mnemonic = "bamboo miss accident mushroom vendor despair grunt there bulb scatter foil moral";

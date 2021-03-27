@@ -1,1 +1,1 @@
-var mnemonic = "ordinary leopard dad solar home dilemma law slide maximum little direct divide";
+var mnemonic = "domain extend retire desert desert eternal quiz bus dove train rug pull";

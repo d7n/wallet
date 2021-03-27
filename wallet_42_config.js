@@ -1,1 +1,1 @@
-var mnemonic = "tone coil pride punch rhythm between forest cover maple plate world oval";
+var mnemonic = "employ top auto slot sorry jar diary filter odor alley shrug boring";

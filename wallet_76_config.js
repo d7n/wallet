@@ -1,1 +1,1 @@
-var mnemonic = "tilt humor carbon aspect skill solar check prepare enough nation humble slender";
+var mnemonic = "fiscal chapter crawl stamp claim educate drip woman move symbol pigeon chuckle";

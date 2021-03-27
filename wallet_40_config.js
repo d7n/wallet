@@ -1,1 +1,1 @@
-var mnemonic = "furnace hope first cradle brother neglect shiver stable tower earn identify cram";
+var mnemonic = "gaze release three humble awesome hotel raise mom edge teach interest fossil";

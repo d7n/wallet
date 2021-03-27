@@ -1,1 +1,1 @@
-var mnemonic = "apology occur west divert puppy chimney hedgehog lawsuit chase erosion tribe slow";
+var mnemonic = "cart wrap puzzle sketch grass perfect urban lecture climb robot smooth address";

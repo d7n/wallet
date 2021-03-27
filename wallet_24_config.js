@@ -1,1 +1,1 @@
-var mnemonic = "exercise abandon cage glance when citizen primary bulb desk split claw acoustic";
+var mnemonic = "pulp tuna middle animal identify bicycle clinic pet eye toast wait parrot";

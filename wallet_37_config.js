@@ -1,1 +1,1 @@
-var mnemonic = "maximum crush humor flee enable humor shock path benefit matter twin town";
+var mnemonic = "relief current february tone south salon achieve can vacant disorder engine fury";

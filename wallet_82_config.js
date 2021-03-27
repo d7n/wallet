@@ -1,1 +1,1 @@
-var mnemonic = "economy undo stone dragon example hammer render furnace alter above flush whisper";
+var mnemonic = "immune nose anger antenna among absorb ten retreat strong company fatal dial";

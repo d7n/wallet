@@ -1,1 +1,1 @@
-var mnemonic = "ridge abuse between logic riot media capable sting merry design injury cabbage";
+var mnemonic = "figure mercy asthma thank female turtle worry suggest comfort subject enrich social";

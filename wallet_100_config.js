@@ -1,1 +1,1 @@
-var mnemonic = "keep sorry track fee bulb radar mention alpha charge frog hair width";
+var mnemonic = "circle volcano copy oxygen north grass replace supreme grab engine circle stand";

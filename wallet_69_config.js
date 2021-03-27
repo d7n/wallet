@@ -1,1 +1,1 @@
-var mnemonic = "anchor second impact brick trumpet kick famous future middle inmate lottery visa";
+var mnemonic = "village father wall junk apple alcohol genre blouse ugly broom buddy tell";

@@ -1,1 +1,1 @@
-var mnemonic = "federal crew device antique venture later cheese mirror person cotton track toward";
+var mnemonic = "bench snack girl renew first raven same air maximum treat wheel audit";

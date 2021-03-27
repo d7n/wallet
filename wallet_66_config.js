@@ -1,1 +1,1 @@
-var mnemonic = "mansion define exercise bid tourist sniff save major turkey build harsh boat";
+var mnemonic = "endorse pyramid taste summer total online laptop slim retire mad clip napkin";

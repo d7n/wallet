@@ -1,1 +1,1 @@
-var mnemonic = "episode item wreck vapor virtual kind fit rely cool much baby small";
+var mnemonic = "unlock copper bike trumpet source fresh okay cradle object bachelor anxiety boil";

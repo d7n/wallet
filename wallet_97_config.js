@@ -1,1 +1,1 @@
-var mnemonic = "hello funny ski color glass finish close clay gadget also auto wonder";
+var mnemonic = "father aware govern short depart call chunk garage spirit trade tank rug";

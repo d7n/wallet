@@ -1,1 +1,1 @@
-var mnemonic = "behind thrive about order stone aerobic monitor absurd follow under clinic bread";
+var mnemonic = "segment badge tiger north another school fluid glove urban offer unknown head";

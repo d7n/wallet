@@ -1,1 +1,1 @@
-var mnemonic = "collect primary ostrich tennis clock broken siren target maze glue danger flash";
+var mnemonic = "roof float poverty erosion zebra tray copper oak asset brother shiver myth";

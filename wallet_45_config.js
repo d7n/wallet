@@ -1,1 +1,1 @@
-var mnemonic = "absorb exile coin oil together era credit industry answer bicycle again usual";
+var mnemonic = "chimney minimum model ostrich blast oxygen dust muffin other enable tuition police";

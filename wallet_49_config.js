@@ -1,1 +1,1 @@
-var mnemonic = "alter neither mimic hundred crew glance option consider century ripple flash dolphin";
+var mnemonic = "middle brush joke alter stairs key tail clutch tragic insane any wrap";

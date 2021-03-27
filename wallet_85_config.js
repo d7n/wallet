@@ -1,1 +1,1 @@
-var mnemonic = "wine bench adapt squirrel universe slam extend sunset twin debate harbor critic";
+var mnemonic = "wide chuckle about junior choose duty window ten weasel shield network mask";

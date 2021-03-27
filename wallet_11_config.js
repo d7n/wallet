@@ -1,1 +1,1 @@
-var mnemonic = "cruise walnut island gather west mixture egg seven fine general device olympic";
+var mnemonic = "allow can again squirrel other lady label raven expand retire illness steel";

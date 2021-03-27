@@ -1,1 +1,1 @@
-var mnemonic = "heart scrub yellow meadow lens chuckle obey sample federal soul shop join";
+var mnemonic = "exist beyond village panel cave true derive code grit keen boring catalog";

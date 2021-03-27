@@ -1,1 +1,1 @@
-var mnemonic = "suspect any present okay welcome split box sun grape tiny until crouch";
+var mnemonic = "cricket boat bonus width daughter move love door bag special issue obvious";

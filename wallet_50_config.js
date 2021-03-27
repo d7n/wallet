@@ -1,1 +1,1 @@
-var mnemonic = "siege hurry cable cool donate define arena disagree device purity interest organ";
+var mnemonic = "domain decrease minor file tag drive dream animal source brave list mule";

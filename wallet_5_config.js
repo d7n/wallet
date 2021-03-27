@@ -1,1 +1,1 @@
-var mnemonic = "ladder cover gaze elegant news provide omit awkward fruit write april end";
+var mnemonic = "six robot grace safe spatial garbage spring pond divert viable chef shiver";

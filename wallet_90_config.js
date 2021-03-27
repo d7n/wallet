@@ -1,1 +1,1 @@
-var mnemonic = "acquire cradle tonight half often spawn must snack mind flock visual civil";
+var mnemonic = "industry entire jar manual board fix middle grace silly typical recall sponsor";

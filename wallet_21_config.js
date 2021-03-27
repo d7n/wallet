@@ -1,1 +1,1 @@
-var mnemonic = "tag winter decide electric hammer fluid angry taste heart ceiling spoon cactus";
+var mnemonic = "tube attitude stock addict screen olive step project much elegant main coconut";

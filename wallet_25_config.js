@@ -1,1 +1,1 @@
-var mnemonic = "rather labor repeat clarify fine tiger lamp ranch later useful super print";
+var mnemonic = "quarter fancy frequent test firm team able surround trap gather joy mixture";

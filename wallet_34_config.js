@@ -1,1 +1,1 @@
-var mnemonic = "leg access arrive father gold banana round pistol drama misery proud employ";
+var mnemonic = "roof cup exotic orphan aunt enough giant general also truly slender occur";

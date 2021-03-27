@@ -1,1 +1,1 @@
-var mnemonic = "raise hold firm injury poem anchor tool adult airport mind news window";
+var mnemonic = "obvious muscle clap daughter like actor mad winner cave price school idea";

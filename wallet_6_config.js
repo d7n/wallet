@@ -1,1 +1,1 @@
-var mnemonic = "short matter wreck oak own island spike exile minute gospel group rib";
+var mnemonic = "wreck maximum cloud scale banner famous clay original credit purpose able chief";

@@ -1,1 +1,1 @@
-var mnemonic = "genre glass slam magic flower sport oxygen couple unit improve false must";
+var mnemonic = "join depart kiwi noise frame unfold senior pear ready buyer swift ladder";

@@ -1,1 +1,1 @@
-var mnemonic = "bean seminar bunker aunt buffalo document now duck misery gap deer word";
+var mnemonic = "ticket rookie mechanic decorate envelope lounge length sting prevent kingdom absorb banner";

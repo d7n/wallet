@@ -1,1 +1,1 @@
-var mnemonic = "option grab cake sadness dust female comic blanket chaos ketchup ribbon climb";
+var mnemonic = "shop axis happy disagree error urge cart coral venue shoot desk say";

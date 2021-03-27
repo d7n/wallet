@@ -1,1 +1,1 @@
-var mnemonic = "crumble very slide whip carry under naive sleep already monkey finger wealth";
+var mnemonic = "harbor dish design day other surprise keen expect wreck equip shove private";

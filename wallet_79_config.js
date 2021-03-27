@@ -1,1 +1,1 @@
-var mnemonic = "jaguar slogan venture act elite this pen pause double what myself traffic";
+var mnemonic = "pig hole expand woman just horror nominee chuckle plunge meat focus wisdom";

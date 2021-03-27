@@ -1,1 +1,1 @@
-var mnemonic = "receive grow foam aunt eye brand offer bunker sudden judge plate blossom";
+var mnemonic = "stage rebel budget tail glance change hill swift public trim unusual forward";

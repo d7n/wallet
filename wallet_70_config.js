@@ -1,1 +1,1 @@
-var mnemonic = "seat error industry copper prize man chapter power grace senior female say";
+var mnemonic = "also symptom place village sorry risk measure february trick wrist foster crumble";

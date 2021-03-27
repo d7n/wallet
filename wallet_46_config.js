@@ -1,1 +1,1 @@
-var mnemonic = "artist tonight strong neglect surface quote vicious eternal scene bleak goose hour";
+var mnemonic = "choice bundle never mean library input helmet dad year ocean kangaroo item";

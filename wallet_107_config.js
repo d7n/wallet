@@ -1,1 +1,1 @@
-var mnemonic = "garment bike inner present hidden this good tonight present coconut remain erosion";
+var mnemonic = "zebra wonder lift father barrel leaf caution video genre announce broken treat";

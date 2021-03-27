@@ -1,1 +1,1 @@
-var mnemonic = "law brand now tag model camera celery pelican obscure wasp birth phrase";
+var mnemonic = "castle token library push snow divert stool awkward kid curve fork urban";

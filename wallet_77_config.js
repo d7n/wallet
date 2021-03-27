@@ -1,1 +1,1 @@
-var mnemonic = "hammer convince mountain squeeze skate act economy recycle tail raw rescue upset";
+var mnemonic = "hollow bounce marine name member other ski nominee obey dolphin crew body";

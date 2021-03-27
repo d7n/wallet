@@ -1,1 +1,1 @@
-var mnemonic = "borrow glory divide impact nuclear depart trim vacuum helmet upgrade document erosion";
+var mnemonic = "timber next stay bread consider light volcano mixture coin need dial summer";

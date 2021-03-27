@@ -1,1 +1,1 @@
-var mnemonic = "pyramid asthma fix pigeon utility awake define coyote slice rival gold once";
+var mnemonic = "void room add sad enlist anchor route digital pride spin cycle strategy";

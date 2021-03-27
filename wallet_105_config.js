@@ -1,1 +1,1 @@
-var mnemonic = "grief afford sea planet shoot noise proof smart about retreat crazy crop";
+var mnemonic = "arrest smooth pony inject off curtain amused deny embrace pizza boss error";

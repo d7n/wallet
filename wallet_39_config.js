@@ -1,1 +1,1 @@
-var mnemonic = "hungry mixture energy spray wash retire industry injury december flat change life";
+var mnemonic = "great soup raccoon drink salon alpha coast method vocal student horn asset";

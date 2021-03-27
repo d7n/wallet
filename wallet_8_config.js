@@ -1,1 +1,1 @@
-var mnemonic = "obtain weather milk sunset diagram lava reject dose bar type cage member";
+var mnemonic = "exhibit side maximum wine ceiling slush bleak squeeze soda sniff escape transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "blame camp share visit banner shuffle hour open appear term mail mobile";
+var mnemonic = "inspire endorse rescue claw put tenant gasp green behave vacuum fortune sand";

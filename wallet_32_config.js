@@ -1,1 +1,1 @@
-var mnemonic = "fat expand swap help release lunar toss conduct link blood rough egg";
+var mnemonic = "timber wheel clog direct wedding drop best floor warm light vague heart";

@@ -1,1 +1,1 @@
-var mnemonic = "width error ethics satisfy maid parent defense into solve capable blouse flat";
+var mnemonic = "catch lonely baby remember that dove spray fitness gallery lunch foot habit";

@@ -1,1 +1,1 @@
-var mnemonic = "city spell calm accident mosquito jelly crawl child tape nephew slogan output";
+var mnemonic = "token verb dance maple unlock shove soon minute behind genius injury crucial";

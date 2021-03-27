@@ -1,1 +1,1 @@
-var mnemonic = "spawn valid pumpkin picnic helmet desk apology arrest crouch gas day universe";
+var mnemonic = "join work upon huge master put uniform exist input afraid sweet learn";

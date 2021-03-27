@@ -1,1 +1,1 @@
-var mnemonic = "shock blouse gift brisk warm bright afraid luxury team wolf smooth way";
+var mnemonic = "burden profit few harvest paddle whip layer tunnel ghost sustain setup clarify";

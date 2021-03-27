@@ -1,1 +1,1 @@
-var mnemonic = "thing champion snow develop dinosaur grunt usage drift payment dwarf sudden liar";
+var mnemonic = "solar seminar wonder skill vapor pistol auto tape above betray morning safe";

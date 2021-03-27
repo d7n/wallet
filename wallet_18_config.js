@@ -1,1 +1,1 @@
-var mnemonic = "stem ten way height clinic doll solar suggest giggle front loud inhale";
+var mnemonic = "wish quote real kitten camera tag feel wreck exercise cat exhaust sheriff";

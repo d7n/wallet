@@ -1,1 +1,1 @@
-var mnemonic = "drill illegal umbrella adjust adapt fiscal copy chair awake frog blood crazy";
+var mnemonic = "castle poem idle tail brain inside blue scout nest harsh extra crash";

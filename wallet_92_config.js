@@ -1,1 +1,1 @@
-var mnemonic = "frown fiscal flame tattoo follow elder recall ethics swamp danger what harsh";
+var mnemonic = "garage project wine stool teach tattoo fatal throw word base task cliff";

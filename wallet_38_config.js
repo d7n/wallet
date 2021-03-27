@@ -1,1 +1,1 @@
-var mnemonic = "tuition oxygen nurse galaxy flush system hood law inch inch inform potato";
+var mnemonic = "detail clip dinner neutral merit stock daring stem surge reveal whisper abstract";

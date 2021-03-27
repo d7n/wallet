@@ -1,1 +1,1 @@
-var mnemonic = "shy velvet arrest case swing art senior oil install love engage digital";
+var mnemonic = "run settle crouch toward crawl hamster follow pigeon bitter ivory wolf destroy";

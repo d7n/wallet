@@ -1,1 +1,1 @@
-var mnemonic = "noise program nation educate cereal junk fox grass grow main box exclude";
+var mnemonic = "surface sure analyst north system gun cupboard unfair duck salt marine monster";

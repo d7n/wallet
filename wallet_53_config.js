@@ -1,1 +1,1 @@
-var mnemonic = "huge lonely danger milk explain twist birth tackle release spoon orphan enroll";
+var mnemonic = "decorate sort ring input also frost blame enforce mail tree drive special";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar note decorate lemon gym miss proud giant badge face enrich write";
+var mnemonic = "hold burger delay fiscal item shallow tiny stable thumb absurd ability kingdom";

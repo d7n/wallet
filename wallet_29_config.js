@@ -1,1 +1,1 @@
-var mnemonic = "sponsor jazz device lumber health purchase scatter settle illness game hospital elephant";
+var mnemonic = "heart fall diesel mad depth cross smart news hat someone luggage search";

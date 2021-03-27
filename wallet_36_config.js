@@ -1,1 +1,1 @@
-var mnemonic = "step paper clerk frequent broom gown cloud crater foster song problem guard";
+var mnemonic = "kind element hospital apple crunch observe sentence pulp six tunnel usage taste";

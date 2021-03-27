@@ -1,1 +1,1 @@
-var mnemonic = "region salad orphan vendor property argue glad gorilla crucial upgrade planet speak";
+var mnemonic = "type snow inmate solar ride song jazz about bacon group present pulse";

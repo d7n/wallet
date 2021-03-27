@@ -1,1 +1,1 @@
-var mnemonic = "clump crime explain path push silk fly globe unfold project appear buddy";
+var mnemonic = "sample scatter company grief spring suit film clerk indoor market page potato";

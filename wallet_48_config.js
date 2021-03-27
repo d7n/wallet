@@ -1,1 +1,1 @@
-var mnemonic = "panda crisp hour spy eternal derive turtle census attend oak since rail";
+var mnemonic = "account flush double bullet response hamster fiction gas review minor elephant earth";

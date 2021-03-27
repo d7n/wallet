@@ -1,1 +1,1 @@
-var mnemonic = "drop pet glue exchange inside grow brown boy patch dwarf youth fragile";
+var mnemonic = "estate dove barrel crane filter avoid brisk diagram hurdle speak coyote craft";

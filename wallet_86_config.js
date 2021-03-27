@@ -1,1 +1,1 @@
-var mnemonic = "pear quality brave speed future town endorse escape solve web stairs forget";
+var mnemonic = "tag protect bone possible abuse decrease enable clutch thunder struggle able version";

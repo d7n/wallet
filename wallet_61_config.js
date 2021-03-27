@@ -1,1 +1,1 @@
-var mnemonic = "attend require pair brief fancy path library broccoli test town expose model";
+var mnemonic = "pepper pottery fashion theme kid rent able business amount jewel spoon mass";

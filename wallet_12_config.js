@@ -1,1 +1,1 @@
-var mnemonic = "usage quick merry december picture ask error cave auto phrase adult distance";
+var mnemonic = "diesel program give run weather oven lend dwarf pact limb dismiss address";

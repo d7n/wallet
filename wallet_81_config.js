@@ -1,1 +1,1 @@
-var mnemonic = "hammer giggle match february snack deer stick butter violin grow slogan guard";
+var mnemonic = "employ diesel parade pupil jar kiwi diamond patch thank magnet buddy safe";

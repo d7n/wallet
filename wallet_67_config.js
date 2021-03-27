@@ -1,1 +1,1 @@
-var mnemonic = "skin potato border lounge uniform audit select casual plate next chicken sphere";
+var mnemonic = "split tank message museum ripple crunch wave iron dash seminar hedgehog want";
