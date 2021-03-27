@@ -1,1 +1,1 @@
-var mnemonic = "wish quote real kitten camera tag feel wreck exercise cat exhaust sheriff";
+var mnemonic = "disorder fix wolf surprise child sea fatal first object salute resist open";

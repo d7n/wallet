@@ -1,1 +1,1 @@
-var mnemonic = "endorse pyramid taste summer total online laptop slim retire mad clip napkin";
+var mnemonic = "arm balcony cabbage drip bonus alone school figure drum fly kitchen velvet";

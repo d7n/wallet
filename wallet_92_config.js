@@ -1,1 +1,1 @@
-var mnemonic = "garage project wine stool teach tattoo fatal throw word base task cliff";
+var mnemonic = "settle excite famous success moment cruise address bar ring label truck spring";

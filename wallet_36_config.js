@@ -1,1 +1,1 @@
-var mnemonic = "kind element hospital apple crunch observe sentence pulp six tunnel usage taste";
+var mnemonic = "quick dash scan camera spray unveil panda north enforce apple strike million";

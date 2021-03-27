@@ -1,1 +1,1 @@
-var mnemonic = "body tissue enrich magic kidney harvest bronze fat bacon sail sleep october";
+var mnemonic = "stereo truck business asset tooth true syrup expand double lemon response movie";

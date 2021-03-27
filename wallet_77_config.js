@@ -1,1 +1,1 @@
-var mnemonic = "hollow bounce marine name member other ski nominee obey dolphin crew body";
+var mnemonic = "dust identify cabbage grunt skate host rocket popular buddy combine gaze sadness";

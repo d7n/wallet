@@ -1,1 +1,1 @@
-var mnemonic = "account flush double bullet response hamster fiction gas review minor elephant earth";
+var mnemonic = "outer common firm chuckle same garbage town cave crucial slab express easily";

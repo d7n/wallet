@@ -1,1 +1,1 @@
-var mnemonic = "void room add sad enlist anchor route digital pride spin cycle strategy";
+var mnemonic = "goddess old obscure corn range drama dry market card couple return disorder";

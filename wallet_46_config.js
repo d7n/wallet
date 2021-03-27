@@ -1,1 +1,1 @@
-var mnemonic = "choice bundle never mean library input helmet dad year ocean kangaroo item";
+var mnemonic = "walk medal tide depart solve dentist balance rough romance farm century mesh";

@@ -1,1 +1,1 @@
-var mnemonic = "heart fall diesel mad depth cross smart news hat someone luggage search";
+var mnemonic = "open corn dutch cabin creek wide cheese stomach undo fashion until desk";

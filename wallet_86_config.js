@@ -1,1 +1,1 @@
-var mnemonic = "tag protect bone possible abuse decrease enable clutch thunder struggle able version";
+var mnemonic = "rent poverty ozone air skill category world intact relief fame lecture tip";

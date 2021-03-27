@@ -1,1 +1,1 @@
-var mnemonic = "damp photo opinion loyal duck eight spy spy raccoon nut fiscal firm";
+var mnemonic = "else suggest leave live useful invest solid satisfy impulse across bachelor parent";

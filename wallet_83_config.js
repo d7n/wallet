@@ -1,1 +1,1 @@
-var mnemonic = "inspire endorse rescue claw put tenant gasp green behave vacuum fortune sand";
+var mnemonic = "original twenty small waste thunder abstract scheme unable burden shrimp bulk bitter";

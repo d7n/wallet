@@ -1,1 +1,1 @@
-var mnemonic = "domain decrease minor file tag drive dream animal source brave list mule";
+var mnemonic = "provide priority call earth ancient border domain cook daughter update bid brand";

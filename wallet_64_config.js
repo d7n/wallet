@@ -1,1 +1,1 @@
-var mnemonic = "post castle utility garment acquire mercy fury post earn spend proof swim";
+var mnemonic = "panther seat tobacco access blast curtain silver venue team certain fossil logic";

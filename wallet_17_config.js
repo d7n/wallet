@@ -1,1 +1,1 @@
-var mnemonic = "unlock copper bike trumpet source fresh okay cradle object bachelor anxiety boil";
+var mnemonic = "lounge edit install system tennis curtain depend track aerobic sing betray section";

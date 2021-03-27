@@ -1,1 +1,1 @@
-var mnemonic = "amused cycle tail add minute drift visual cloud apple inform kiwi inflict";
+var mnemonic = "history special tenant green bargain call sail flag correct glide pepper ship";

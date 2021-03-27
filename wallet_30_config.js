@@ -1,1 +1,1 @@
-var mnemonic = "ribbon cave turtle message answer ship stadium chapter inquiry leg vacant adult";
+var mnemonic = "ready poem bind airport lunch ozone fox elephant enhance goat sugar bulb";

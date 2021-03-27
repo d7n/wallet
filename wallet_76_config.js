@@ -1,1 +1,1 @@
-var mnemonic = "fiscal chapter crawl stamp claim educate drip woman move symbol pigeon chuckle";
+var mnemonic = "buddy borrow clarify clip cushion fatigue render flash lab sunset resemble raise";

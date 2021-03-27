@@ -1,1 +1,1 @@
-var mnemonic = "village father wall junk apple alcohol genre blouse ugly broom buddy tell";
+var mnemonic = "such allow share erode job spirit glance about stock parade stay hip";

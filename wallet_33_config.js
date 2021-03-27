@@ -1,1 +1,1 @@
-var mnemonic = "exist beyond village panel cave true derive code grit keen boring catalog";
+var mnemonic = "monkey scare syrup spoil false turn december radar moon tuna valve change";

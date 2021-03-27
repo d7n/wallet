@@ -1,1 +1,1 @@
-var mnemonic = "special obey tag novel turn artist sample define gallery kick ill absurd";
+var mnemonic = "indicate pear soul mask smooth refuse jewel myself apart cheese replace silver";

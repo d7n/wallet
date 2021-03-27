@@ -1,1 +1,1 @@
-var mnemonic = "sustain pitch useless long good task tank visa maple stable feel burden";
+var mnemonic = "phone unfold angry pool learn there physical barrel room diary bless feature";

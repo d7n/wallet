@@ -1,1 +1,1 @@
-var mnemonic = "timber wheel clog direct wedding drop best floor warm light vague heart";
+var mnemonic = "fetch joke plug cloud solution shrimp hobby stuff empower paper axis base";

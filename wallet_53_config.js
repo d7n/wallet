@@ -1,1 +1,1 @@
-var mnemonic = "decorate sort ring input also frost blame enforce mail tree drive special";
+var mnemonic = "person pig slab glory review pact ice vapor clog health planet since";

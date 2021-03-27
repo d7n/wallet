@@ -1,1 +1,1 @@
-var mnemonic = "immune nose anger antenna among absorb ten retreat strong company fatal dial";
+var mnemonic = "state bomb potato holiday thunder parrot physical soup frame razor space credit";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze release three humble awesome hotel raise mom edge teach interest fossil";
+var mnemonic = "lazy picnic insect script noble fall success clay size absorb powder negative";

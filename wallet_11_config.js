@@ -1,1 +1,1 @@
-var mnemonic = "allow can again squirrel other lady label raven expand retire illness steel";
+var mnemonic = "library shuffle human fire meadow march rapid harsh exchange spirit effort talk";

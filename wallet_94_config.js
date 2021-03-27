@@ -1,1 +1,1 @@
-var mnemonic = "token verb dance maple unlock shove soon minute behind genius injury crucial";
+var mnemonic = "chaos wine loyal cruise page add company dumb witness hello segment laptop";

@@ -1,1 +1,1 @@
-var mnemonic = "run settle crouch toward crawl hamster follow pigeon bitter ivory wolf destroy";
+var mnemonic = "popular shiver donor slim mom pluck leaf faculty ski inquiry choose excess";

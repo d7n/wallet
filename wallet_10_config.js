@@ -1,1 +1,1 @@
-var mnemonic = "color damp brown autumn act pond coach guitar pupil magnet dance pluck";
+var mnemonic = "dish raccoon slice group crystal book truly shock cream search small same";

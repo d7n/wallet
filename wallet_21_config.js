@@ -1,1 +1,1 @@
-var mnemonic = "tube attitude stock addict screen olive step project much elegant main coconut";
+var mnemonic = "badge car adapt cricket own ring certain cement engage satisfy evolve impose";

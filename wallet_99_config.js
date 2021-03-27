@@ -1,1 +1,1 @@
-var mnemonic = "type snow inmate solar ride song jazz about bacon group present pulse";
+var mnemonic = "script debate jump farm light bless echo decorate tenant awkward explain usage";

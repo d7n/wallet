@@ -1,1 +1,1 @@
-var mnemonic = "catch lonely baby remember that dove spray fitness gallery lunch foot habit";
+var mnemonic = "cricket craft riot cabbage army purse symptom they gap ecology loan advance";

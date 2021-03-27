@@ -1,1 +1,1 @@
-var mnemonic = "wide chuckle about junior choose duty window ten weasel shield network mask";
+var mnemonic = "limit ketchup firm file talent fruit orient sad office surge common service";

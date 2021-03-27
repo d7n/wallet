@@ -1,1 +1,1 @@
-var mnemonic = "chimney minimum model ostrich blast oxygen dust muffin other enable tuition police";
+var mnemonic = "erase alien basket spoil age street price evoke trial clean advice card";

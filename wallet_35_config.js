@@ -1,1 +1,1 @@
-var mnemonic = "ticket rookie mechanic decorate envelope lounge length sting prevent kingdom absorb banner";
+var mnemonic = "dry armor absorb crew simple note choice mimic approve session one traffic";

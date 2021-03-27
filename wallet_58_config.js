@@ -1,1 +1,1 @@
-var mnemonic = "inflict hedgehog power neutral glove plunge insane rural fashion vessel scatter silent";
+var mnemonic = "depth clip absent around enroll vendor prison coin monster radio broken junk";

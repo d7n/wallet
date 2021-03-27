@@ -1,1 +1,1 @@
-var mnemonic = "hill fluid genuine select check faculty inherit tortoise ozone crane garden tumble";
+var mnemonic = "grass oppose alarm wave awake primary monster airport junk unveil tenant cricket";

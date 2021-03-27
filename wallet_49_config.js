@@ -1,1 +1,1 @@
-var mnemonic = "middle brush joke alter stairs key tail clutch tragic insane any wrap";
+var mnemonic = "throw bargain another potato chunk shrimp shy favorite inform light hope dizzy";

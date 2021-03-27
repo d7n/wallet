@@ -1,1 +1,1 @@
-var mnemonic = "bundle desk false social nice worth swear plunge pipe metal three stool";
+var mnemonic = "source describe catalog craft pulse grab favorite warfare gorilla alley limb sustain";

@@ -1,1 +1,1 @@
-var mnemonic = "fork silly head party spot reflect spice palm cushion lumber seat clay";
+var mnemonic = "jealous balance sentence horror energy door thunder table flock frog dynamic focus";

@@ -1,1 +1,1 @@
-var mnemonic = "burden profit few harvest paddle whip layer tunnel ghost sustain setup clarify";
+var mnemonic = "smooth zero invest helmet light dragon helmet shy enter question vapor estate";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit side maximum wine ceiling slush bleak squeeze soda sniff escape transfer";
+var mnemonic = "ripple practice across seek enact charge message quarter sleep cactus ride trend";

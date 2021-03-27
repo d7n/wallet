@@ -1,1 +1,1 @@
-var mnemonic = "echo early cruise puzzle modify floor normal artefact vehicle office sniff jungle";
+var mnemonic = "open rack silk nut harsh reunion oak empower liberty license image sick";

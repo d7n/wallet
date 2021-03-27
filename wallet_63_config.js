@@ -1,1 +1,1 @@
-var mnemonic = "figure mercy asthma thank female turtle worry suggest comfort subject enrich social";
+var mnemonic = "crystal control reduce switch silly priority margin speak spend wet fix evoke";

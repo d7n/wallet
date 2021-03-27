@@ -1,1 +1,1 @@
-var mnemonic = "pepper pottery fashion theme kid rent able business amount jewel spoon mass";
+var mnemonic = "lock clap again shell alert tiger picnic hire gas wrap build hello";

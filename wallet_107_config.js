@@ -1,1 +1,1 @@
-var mnemonic = "zebra wonder lift father barrel leaf caution video genre announce broken treat";
+var mnemonic = "account venue fringe alone paddle boil coast lion cabin agent sight wreck";

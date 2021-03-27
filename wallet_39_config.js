@@ -1,1 +1,1 @@
-var mnemonic = "great soup raccoon drink salon alpha coast method vocal student horn asset";
+var mnemonic = "palace pole object broom stool hair sunny walnut embark adjust weird coconut";

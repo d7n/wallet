@@ -1,1 +1,1 @@
-var mnemonic = "record pill genuine talent bulb prison direct dose vehicle walk cricket dad";
+var mnemonic = "aim knee portion bleak pink eagle alert hand demand infant lecture purity";

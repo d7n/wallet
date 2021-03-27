@@ -1,1 +1,1 @@
-var mnemonic = "cart wrap puzzle sketch grass perfect urban lecture climb robot smooth address";
+var mnemonic = "ten into reject pottery jealous material love dutch luggage inside rough fit";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck maximum cloud scale banner famous clay original credit purpose able chief";
+var mnemonic = "bus eyebrow silly initial forum spatial mass bulb saddle chaos describe sort";

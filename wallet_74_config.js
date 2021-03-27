@@ -1,1 +1,1 @@
-var mnemonic = "genius believe length obtain valley buddy cradle dinosaur hold monitor antique illness";
+var mnemonic = "poem scissors stock bike truly crucial memory crack present used aisle hire";

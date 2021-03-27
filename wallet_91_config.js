@@ -1,1 +1,1 @@
-var mnemonic = "describe gloom ostrich expand load this present team coach catch solar crash";
+var mnemonic = "shop gasp fork various mail exile attract squirrel melody exchange bomb tackle";

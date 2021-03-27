@@ -1,1 +1,1 @@
-var mnemonic = "solar seminar wonder skill vapor pistol auto tape above betray morning safe";
+var mnemonic = "hundred dash husband often resemble force hover pear shell assault clean honey";

@@ -1,1 +1,1 @@
-var mnemonic = "employ top auto slot sorry jar diary filter odor alley shrug boring";
+var mnemonic = "ill capital fiber lens all reform smile maid sting trip claim want";

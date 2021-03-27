@@ -1,1 +1,1 @@
-var mnemonic = "castle poem idle tail brain inside blue scout nest harsh extra crash";
+var mnemonic = "toe bulb lunch gate that over miss solar vacuum identify trick beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "six robot grace safe spatial garbage spring pond divert viable chef shiver";
+var mnemonic = "cheese more suit help horn claw canoe mix bronze muffin abuse above";

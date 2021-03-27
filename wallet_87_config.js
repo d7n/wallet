@@ -1,1 +1,1 @@
-var mnemonic = "shop axis happy disagree error urge cart coral venue shoot desk say";
+var mnemonic = "hybrid mimic sleep kangaroo unveil volcano torch mirror bless estate hub protect";

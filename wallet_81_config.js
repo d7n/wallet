@@ -1,1 +1,1 @@
-var mnemonic = "employ diesel parade pupil jar kiwi diamond patch thank magnet buddy safe";
+var mnemonic = "fame north alcohol club door more future describe flat raccoon also enhance";

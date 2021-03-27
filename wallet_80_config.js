@@ -1,1 +1,1 @@
-var mnemonic = "cricket boat bonus width daughter move love door bag special issue obvious";
+var mnemonic = "ginger like degree safe ethics immense resource video bonus group near deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo miss accident mushroom vendor despair grunt there bulb scatter foil moral";
+var mnemonic = "faint rib annual feature private grocery wedding hair eagle picture sniff right";

@@ -1,1 +1,1 @@
-var mnemonic = "pig hole expand woman just horror nominee chuckle plunge meat focus wisdom";
+var mnemonic = "famous busy asset only mistake dilemma party write subject fresh time eight";

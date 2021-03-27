@@ -1,1 +1,1 @@
-var mnemonic = "segment badge tiger north another school fluid glove urban offer unknown head";
+var mnemonic = "rally city disagree until observe bamboo feel forest success ride peace drop";

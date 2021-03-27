@@ -1,1 +1,1 @@
-var mnemonic = "detail clip dinner neutral merit stock daring stem surge reveal whisper abstract";
+var mnemonic = "series easily slide split front trial cinnamon indoor garment health thought already";

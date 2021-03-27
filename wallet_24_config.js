@@ -1,1 +1,1 @@
-var mnemonic = "pulp tuna middle animal identify bicycle clinic pet eye toast wait parrot";
+var mnemonic = "hundred bullet select example tourist bleak tobacco bitter wood cattle mistake genius";

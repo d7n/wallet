@@ -1,1 +1,1 @@
-var mnemonic = "diesel program give run weather oven lend dwarf pact limb dismiss address";
+var mnemonic = "ten income gown easy size survey require another ugly river between unknown";

@@ -1,1 +1,1 @@
-var mnemonic = "sheriff torch skin popular height bulk eager tomorrow knee force melt dinner";
+var mnemonic = "fit weather canoe nothing wink annual frog fun style conduct rival machine";

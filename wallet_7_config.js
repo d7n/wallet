@@ -1,1 +1,1 @@
-var mnemonic = "jewel bachelor invest latin soccer uphold absorb blur will spy cup inmate";
+var mnemonic = "certain together sugar major observe wheel valid comfort away echo annual term";

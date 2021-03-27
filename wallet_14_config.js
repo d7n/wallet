@@ -1,1 +1,1 @@
-var mnemonic = "sample scatter company grief spring suit film clerk indoor market page potato";
+var mnemonic = "dune gun maid negative near season ecology blame supply control strategy over";

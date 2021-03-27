@@ -1,1 +1,1 @@
-var mnemonic = "join person right expose fame power captain decline snake cattle track sustain";
+var mnemonic = "smooth grant win circle provide month wonder uncover nephew steak sniff teach";

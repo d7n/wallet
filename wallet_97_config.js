@@ -1,1 +1,1 @@
-var mnemonic = "father aware govern short depart call chunk garage spirit trade tank rug";
+var mnemonic = "arrow penalty kite unlock wire employ swap patient ring midnight library attitude";

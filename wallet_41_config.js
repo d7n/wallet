@@ -1,1 +1,1 @@
-var mnemonic = "sea quiz series action pull casual number arrive grow trend can frame";
+var mnemonic = "trim cinnamon sun reason tide token lizard cricket rookie submit pyramid blood";

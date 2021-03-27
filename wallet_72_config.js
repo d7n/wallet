@@ -1,1 +1,1 @@
-var mnemonic = "addict balance forum mango cross ability grant august candy define upon useless";
+var mnemonic = "neither blanket fatigue royal seed mango garlic reveal weasel goat dial present";

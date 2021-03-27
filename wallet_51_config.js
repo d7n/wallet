@@ -1,1 +1,1 @@
-var mnemonic = "stage rebel budget tail glance change hill swift public trim unusual forward";
+var mnemonic = "lady arrange creek milk flee digital lonely joy top confirm ethics ecology";

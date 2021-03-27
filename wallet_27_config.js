@@ -1,1 +1,1 @@
-var mnemonic = "castle token library push snow divert stool awkward kid curve fork urban";
+var mnemonic = "drink beef nothing worth column staff crime caution shield bench afford inhale";

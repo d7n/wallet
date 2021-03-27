@@ -1,1 +1,1 @@
-var mnemonic = "join depart kiwi noise frame unfold senior pear ready buyer swift ladder";
+var mnemonic = "empty baby ensure shove insane select fork flat benefit liar bind stumble";

@@ -1,1 +1,1 @@
-var mnemonic = "quarter fancy frequent test firm team able surround trap gather joy mixture";
+var mnemonic = "pulse short wide shaft enrich top distance salute enhance fluid calm stadium";

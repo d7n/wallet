@@ -1,1 +1,1 @@
-var mnemonic = "also symptom place village sorry risk measure february trick wrist foster crumble";
+var mnemonic = "dirt dumb open fatal critic tumble explain vague subject base abstract orbit";

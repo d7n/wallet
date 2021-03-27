@@ -1,1 +1,1 @@
-var mnemonic = "estate dove barrel crane filter avoid brisk diagram hurdle speak coyote craft";
+var mnemonic = "deer view ski code hover topple cart differ enact much grow prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "visual side prison absurd luxury brother people party day tortoise narrow party";
+var mnemonic = "sight spin joy banana journey banner learn stone enable rude shift tomato";

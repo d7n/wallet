@@ -1,1 +1,1 @@
-var mnemonic = "domain extend retire desert desert eternal quiz bus dove train rug pull";
+var mnemonic = "depend decrease negative ethics mom angry excuse garlic dynamic winter desk february";

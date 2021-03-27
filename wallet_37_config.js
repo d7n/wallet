@@ -1,1 +1,1 @@
-var mnemonic = "relief current february tone south salon achieve can vacant disorder engine fury";
+var mnemonic = "boil disorder column bundle merry mouse quarter lake change fruit scare soul";

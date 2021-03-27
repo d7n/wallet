@@ -1,1 +1,1 @@
-var mnemonic = "tent fancy consider coast bomb pool divorce million icon buyer churn best";
+var mnemonic = "aim armed forest wedding garage wait indoor trouble moral bean grief jungle";

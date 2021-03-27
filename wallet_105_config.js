@@ -1,1 +1,1 @@
-var mnemonic = "arrest smooth pony inject off curtain amused deny embrace pizza boss error";
+var mnemonic = "session flower foam debate giant rough bean antique moon brass fragile patrol";

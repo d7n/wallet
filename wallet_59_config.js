@@ -1,1 +1,1 @@
-var mnemonic = "harbor dish design day other surprise keen expect wreck equip shove private";
+var mnemonic = "naive donkey receive setup kidney swim rely perfect love token captain sock";

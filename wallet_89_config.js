@@ -1,1 +1,1 @@
-var mnemonic = "join work upon huge master put uniform exist input afraid sweet learn";
+var mnemonic = "rural absorb replace safe stadium holiday verify spawn comic treat easy trigger";

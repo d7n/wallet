@@ -1,1 +1,1 @@
-var mnemonic = "industry entire jar manual board fix middle grace silly typical recall sponsor";
+var mnemonic = "avocado endless coffee frown wife seed frozen copy stock want unaware business";

@@ -1,1 +1,1 @@
-var mnemonic = "fire firm census dynamic company indicate shrimp behind spell middle ginger exchange";
+var mnemonic = "list skull anger expand bachelor estate heavy speak flower asset like purity";

@@ -1,1 +1,1 @@
-var mnemonic = "roof cup exotic orphan aunt enough giant general also truly slender occur";
+var mnemonic = "cat cupboard orient eyebrow web web park fatigue exhaust smile attitude toward";
