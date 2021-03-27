@@ -1,1 +1,1 @@
-var mnemonic = "initial middle race powder fuel someone cost language collect rain salad raise";
+var mnemonic = "invest topic beef era power pencil any bachelor purse suffer change dad";

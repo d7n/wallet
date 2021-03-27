@@ -1,1 +1,1 @@
-var mnemonic = "business magnet spatial toss stuff bread gaze fabric obscure burst board taxi";
+var mnemonic = "repair major across manage lucky latin away humble jealous clutch valid nest";

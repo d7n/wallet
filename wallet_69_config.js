@@ -1,1 +1,1 @@
-var mnemonic = "canyon style jealous skin east now marriage glimpse mixed custom monkey panic";
+var mnemonic = "crouch canvas lazy tackle crunch alpha angle alcohol notice diet relax adjust";

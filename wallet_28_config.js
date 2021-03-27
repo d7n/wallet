@@ -1,1 +1,1 @@
-var mnemonic = "dentist desert stove peanut check junk expect nothing put crane dragon educate";
+var mnemonic = "swallow matrix scale flee retreat return crowd path seed sting spider trend";

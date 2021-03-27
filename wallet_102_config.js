@@ -1,1 +1,1 @@
-var mnemonic = "you erosion fruit voyage alarm task bicycle tube bar erase gift trade";
+var mnemonic = "mass group team obtain law sentence ecology wild squirrel joke labor output";

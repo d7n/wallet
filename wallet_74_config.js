@@ -1,1 +1,1 @@
-var mnemonic = "retreat useful super trip occur hour candy purse crumble decade zoo exist";
+var mnemonic = "stomach blood faculty leg proud credit spike price present merit dolphin clog";

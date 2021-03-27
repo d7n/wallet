@@ -1,1 +1,1 @@
-var mnemonic = "defy eagle front lazy meat topic win pear apart spy bacon violin";
+var mnemonic = "key cube person recipe wage genius month disagree cage senior manual method";

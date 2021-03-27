@@ -1,1 +1,1 @@
-var mnemonic = "party suit hold more trend thing shed chest series dinosaur treat super";
+var mnemonic = "horse addict economy steak edge will over garbage cushion sadness viable habit";

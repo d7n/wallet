@@ -1,1 +1,1 @@
-var mnemonic = "miss giggle pulp sleep list analyst supreme secret sustain burger scare adapt";
+var mnemonic = "manual fault goddess carry click coral fiber suffer antenna fine use silver";

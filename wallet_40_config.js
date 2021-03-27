@@ -1,1 +1,1 @@
-var mnemonic = "symbol bus injury method movie because intact unknown hill slot curtain sleep";
+var mnemonic = "amazing velvet bridge confirm banana story divert life mushroom cash firm estate";

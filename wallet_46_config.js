@@ -1,1 +1,1 @@
-var mnemonic = "web rice virus skull gym gentle recipe pony census digital wealth tuna";
+var mnemonic = "inner rabbit cereal all speed fresh illegal stable roast faint evidence addict";

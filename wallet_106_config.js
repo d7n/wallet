@@ -1,1 +1,1 @@
-var mnemonic = "brand remain fiscal easy despair parent unfair unaware aunt danger bundle text";
+var mnemonic = "keen wall brief receive wrap polar network frame lucky tobacco post father";

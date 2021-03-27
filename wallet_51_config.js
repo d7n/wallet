@@ -1,1 +1,1 @@
-var mnemonic = "broccoli gift violin wrong chaos place apple movie lamp hint volcano merry";
+var mnemonic = "swift cause loud swing problem wise high false route machine vicious habit";

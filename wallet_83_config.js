@@ -1,1 +1,1 @@
-var mnemonic = "viable luggage frog cry random impulse marriage ability crawl excess electric vault";
+var mnemonic = "broom minimum brass tattoo rescue piece family joy raven metal fence domain";

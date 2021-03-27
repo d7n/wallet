@@ -1,1 +1,1 @@
-var mnemonic = "north shove sting lift agent cage steel awesome entry agree town fiber";
+var mnemonic = "prize regret spread pistol island liar need olive imitate seat curtain check";

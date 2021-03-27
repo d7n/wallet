@@ -1,1 +1,1 @@
-var mnemonic = "shield music talk gauge coach sphere puzzle snow canal cave claim lake";
+var mnemonic = "december symptom pride uphold adjust smile decline great window level quit lyrics";

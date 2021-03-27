@@ -1,1 +1,1 @@
-var mnemonic = "code equal tourist flavor joke know repeat minute sense such toilet corn";
+var mnemonic = "offer street rare design typical board hire blood setup code jeans manual";

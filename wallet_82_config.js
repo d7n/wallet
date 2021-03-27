@@ -1,1 +1,1 @@
-var mnemonic = "spell donor word naive cake climb issue swim legal address outdoor soda";
+var mnemonic = "leader inform similar glance doll dwarf increase true rotate leisure major permit";

@@ -1,1 +1,1 @@
-var mnemonic = "demise junior blind possible mystery slam child base material accident usual festival";
+var mnemonic = "uniform just suggest imitate column equal cupboard trouble document spike direct heart";

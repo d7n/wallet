@@ -1,1 +1,1 @@
-var mnemonic = "replace diamond random tongue pyramid silk door lunch garment siege uniform school";
+var mnemonic = "bench average garden invest radar size play old bargain shove again clown";

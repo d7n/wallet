@@ -1,1 +1,1 @@
-var mnemonic = "curtain silver income turkey admit piano just poverty open seat scout daughter";
+var mnemonic = "visa tooth deer foil rival mandate project cliff gloom again powder tired";

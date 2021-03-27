@@ -1,1 +1,1 @@
-var mnemonic = "main thrive utility error claw segment marine mimic dry renew wool width";
+var mnemonic = "hundred glad lawsuit armed cluster reopen ribbon height protect book arena special";

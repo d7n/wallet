@@ -1,1 +1,1 @@
-var mnemonic = "trouble theme unveil tomato fork grape face proof display loud lawsuit deposit";
+var mnemonic = "leg poem rough awesome drama slide tackle ranch kingdom stay desk obey";

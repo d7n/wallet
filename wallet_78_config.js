@@ -1,1 +1,1 @@
-var mnemonic = "adult anxiety carry skin knee denial legal addict other scorpion wasp sort";
+var mnemonic = "kingdom assume laptop mirror wave student fence income brief image satisfy skin";

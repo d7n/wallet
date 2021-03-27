@@ -1,1 +1,1 @@
-var mnemonic = "soap season subject wife magnet clip height snap level symptom fix galaxy";
+var mnemonic = "year entire often tray safe doctor torch other economy fringe admit twist";

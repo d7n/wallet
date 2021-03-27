@@ -1,1 +1,1 @@
-var mnemonic = "arctic maple crouch purchase you rack essay jaguar voyage arrange indoor announce";
+var mnemonic = "check work wear pave state dignity also father sport arrest cupboard flock";

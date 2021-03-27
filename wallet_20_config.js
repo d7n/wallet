@@ -1,1 +1,1 @@
-var mnemonic = "share wage mimic medal rent unveil vendor onion track other vital urban";
+var mnemonic = "island title own boost play oak shoulder swarm elevator cool nut shift";

@@ -1,1 +1,1 @@
-var mnemonic = "shallow once beef soccer raw hedgehog scrap bounce loan nothing wreck price";
+var mnemonic = "acoustic law aunt color sort section clutch live noodle funny lyrics famous";

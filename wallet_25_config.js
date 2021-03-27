@@ -1,1 +1,1 @@
-var mnemonic = "february moment leader current sign dune lock animal burden young cliff once";
+var mnemonic = "jelly race exact pottery street tattoo rebuild mask flash guess toward mechanic";

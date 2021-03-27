@@ -1,1 +1,1 @@
-var mnemonic = "venue kick peanut occur picnic stick alcohol rude dad require truck loyal";
+var mnemonic = "promote rate fatal castle neutral inch icon cattle proud coffee vanish brain";

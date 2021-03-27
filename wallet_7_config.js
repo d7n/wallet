@@ -1,1 +1,1 @@
-var mnemonic = "twist display champion match initial journey kidney beef fence usage fuel board";
+var mnemonic = "thumb sausage action tree kidney thing insane erosion become female flower that";

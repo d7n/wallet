@@ -1,1 +1,1 @@
-var mnemonic = "obtain exercise kangaroo blind into crumble catch elevator beauty great comfort empower";
+var mnemonic = "road type coin rack beef moon until slam achieve enlist system amazing";

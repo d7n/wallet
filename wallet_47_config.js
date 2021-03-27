@@ -1,1 +1,1 @@
-var mnemonic = "off planet jelly fluid fatal canoe close chapter kitchen story hockey insane";
+var mnemonic = "network total frozen wealth used people street loud budget great direct globe";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate twin pass offer anchor young knife cigar family insect news helmet";
+var mnemonic = "purpose sea bid fold oak drip monster ugly person scale make mail";

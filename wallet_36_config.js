@@ -1,1 +1,1 @@
-var mnemonic = "neck sting tattoo coin narrow remember clown inherit long robust board fog";
+var mnemonic = "comic laptop close solar poem puppy act royal conduct reject habit shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "scale jungle harvest thrive nominee replace ski divert diamond sad surge outside";
+var mnemonic = "news labor license prevent omit ball knee blast emotion rather cram biology";

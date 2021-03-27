@@ -1,1 +1,1 @@
-var mnemonic = "remember reject dust gossip deputy day wire draft code oven economy senior";
+var mnemonic = "sport fix front sausage panther cash nuclear uncle across interest cloth holiday";

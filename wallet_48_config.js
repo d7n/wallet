@@ -1,1 +1,1 @@
-var mnemonic = "antenna sock apple barely rather find couch apple pact zebra same rack";
+var mnemonic = "broccoli bread proud wait alien kitchen divert plastic hamster strong flash alter";

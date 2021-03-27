@@ -1,1 +1,1 @@
-var mnemonic = "jar loan piece regret prison short boss fame vibrant task cruise problem";
+var mnemonic = "voice page unfair project emerge apology sketch into enemy shaft dash mystery";

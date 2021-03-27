@@ -1,1 +1,1 @@
-var mnemonic = "token lake royal lobster ranch luxury space symbol casual weapon sorry accident";
+var mnemonic = "rigid human original cost setup lion soon divorce focus among cabin entire";

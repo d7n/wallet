@@ -1,1 +1,1 @@
-var mnemonic = "impact upon surround music scout trigger engage clarify bright armed govern ghost";
+var mnemonic = "advice swear album bomb action will biology cigar spice trick fiber afraid";

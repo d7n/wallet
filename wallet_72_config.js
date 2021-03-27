@@ -1,1 +1,1 @@
-var mnemonic = "near brief clinic frog account coast soul virus method clinic fame bubble";
+var mnemonic = "quote story jelly enforce fringe trigger blossom opinion desert decide defense diary";

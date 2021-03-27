@@ -1,1 +1,1 @@
-var mnemonic = "mix oil grass clown other scout cannon actress mention sadness deer sustain";
+var mnemonic = "detail vital shield ecology aisle erupt project minute age gap divert observe";

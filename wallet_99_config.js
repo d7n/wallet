@@ -1,1 +1,1 @@
-var mnemonic = "immense immense north renew spawn spatial inside economy drum stock rotate room";
+var mnemonic = "denial bless smile length design tuition possible answer decade deputy peasant frog";

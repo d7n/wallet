@@ -1,1 +1,1 @@
-var mnemonic = "exist wreck leisure lemon review hub truly identify mystery ceiling cruise canal";
+var mnemonic = "glare crazy settle churn item mystery argue subject police inch feed poverty";

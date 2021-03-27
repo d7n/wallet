@@ -1,1 +1,1 @@
-var mnemonic = "apart dish ghost almost paddle roast steel situate aspect tortoise nerve legend";
+var mnemonic = "emotion sport anger tired toilet portion buddy hurt cricket puzzle piece rug";

@@ -1,1 +1,1 @@
-var mnemonic = "promote raw copper resemble chase glass height dose obscure cluster height office";
+var mnemonic = "silent moon ignore animal rain dutch shallow copper reduce prepare diet poet";

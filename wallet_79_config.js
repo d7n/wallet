@@ -1,1 +1,1 @@
-var mnemonic = "people myself month return depth news peasant response follow door party age";
+var mnemonic = "frozen spider door boy link furnace panel diamond shell urban inhale power";

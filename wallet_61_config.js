@@ -1,1 +1,1 @@
-var mnemonic = "buffalo text real utility bench robot joke order fresh collect reduce problem";
+var mnemonic = "organ barely hole goddess category cinnamon pluck humble fix please steak color";

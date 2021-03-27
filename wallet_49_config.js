@@ -1,1 +1,1 @@
-var mnemonic = "luxury come stone talent reflect table remember warfare crumble soccer token input";
+var mnemonic = "allow peace fiscal security convince moon question kidney whip board produce click";

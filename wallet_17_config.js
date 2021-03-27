@@ -1,1 +1,1 @@
-var mnemonic = "acid bounce miss traffic human bounce inch situate wreck broccoli follow smooth";
+var mnemonic = "edit cart popular betray cliff client close decide print blade stick net";

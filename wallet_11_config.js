@@ -1,1 +1,1 @@
-var mnemonic = "urban night olive famous twist flat switch bridge spirit drama urban morning";
+var mnemonic = "tomato digital suspect cable minimum today boy change goat add wheel earn";

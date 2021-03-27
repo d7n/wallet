@@ -1,1 +1,1 @@
-var mnemonic = "lava undo alter pudding silver theme manual collect envelope lumber lottery number";
+var mnemonic = "unusual donor stomach twist meat cotton proud climb pizza glad cram juice";

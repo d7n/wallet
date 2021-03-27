@@ -1,1 +1,1 @@
-var mnemonic = "enemy hungry museum party kiwi unfold deny arrest decrease borrow win crawl";
+var mnemonic = "relief unusual pelican cannon cute craft humor bring happy occur give often";

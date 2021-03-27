@@ -1,1 +1,1 @@
-var mnemonic = "region sport forward day feed during song sight shy green oak law";
+var mnemonic = "glimpse shoot refuse police light fly ugly impose grant welcome response around";

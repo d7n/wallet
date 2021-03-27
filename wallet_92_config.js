@@ -1,1 +1,1 @@
-var mnemonic = "define truth hand leg recall purpose hollow giggle squirrel phone interest silly";
+var mnemonic = "carpet public speed leader nephew capable creek canal thumb nuclear vacuum once";

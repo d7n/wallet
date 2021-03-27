@@ -1,1 +1,1 @@
-var mnemonic = "donkey panther bunker old quiz reject march dune defense junior together license";
+var mnemonic = "target nephew asthma dawn joke affair dynamic scare entire sweet alpha coach";

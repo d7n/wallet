@@ -1,1 +1,1 @@
-var mnemonic = "bread earn account march boat hammer spatial dance tennis advance breeze book";
+var mnemonic = "limb spare runway track scissors view crumble trend aunt nose tiger country";

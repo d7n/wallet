@@ -1,1 +1,1 @@
-var mnemonic = "envelope remember knife hour blouse fiber busy grab bind craft foam trend";
+var mnemonic = "speed kiss before frost agent worth claim enrich cluster engage grid shy";

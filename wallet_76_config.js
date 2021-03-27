@@ -1,1 +1,1 @@
-var mnemonic = "time wagon sun spare buddy vessel repair describe type adapt erode include";
+var mnemonic = "true theory corn copper legend green august nature soft barely guitar eternal";

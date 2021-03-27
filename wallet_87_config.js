@@ -1,1 +1,1 @@
-var mnemonic = "icon entire shove nest exit fee carry link whale deputy voice account";
+var mnemonic = "major wrap alpha kitten laundry favorite equal laugh pupil load logic escape";

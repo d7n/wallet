@@ -1,1 +1,1 @@
-var mnemonic = "used burger shrimp possible forest drift solution multiply gesture ensure scissors recall";
+var mnemonic = "glow ritual what once segment awesome aim girl gather donor motor border";

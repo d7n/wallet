@@ -1,1 +1,1 @@
-var mnemonic = "logic summer measure canvas ripple clap purpose picnic illegal assault metal toward";
+var mnemonic = "put dove public liar kiwi maze slot muffin refuse isolate merit latin";

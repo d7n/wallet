@@ -1,1 +1,1 @@
-var mnemonic = "magic admit dizzy minimum reform ten member suit blossom license orchard winner";
+var mnemonic = "duck force embrace still theme update magic gun carbon good ocean tank";

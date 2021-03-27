@@ -1,1 +1,1 @@
-var mnemonic = "rare popular dance vicious across entry among pupil march cluster pipe grant";
+var mnemonic = "corn sleep harsh typical news patch expire clay disagree legal blur sting";

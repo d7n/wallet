@@ -1,1 +1,1 @@
-var mnemonic = "check tell major crater rain chalk owner topic bullet stage beyond flash";
+var mnemonic = "girl muscle naive sustain hint dove entire charge banner solution utility grass";

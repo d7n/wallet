@@ -1,1 +1,1 @@
-var mnemonic = "dizzy three orbit identify ceiling more friend boy bridge arm reason liquid";
+var mnemonic = "code poem mutual valley grief gloom alien road nerve trust surge science";

@@ -1,1 +1,1 @@
-var mnemonic = "razor ginger solid caution poet element immune fog flower brass proof window";
+var mnemonic = "jump angry soccer view mutual raven include fade treat urge fox august";

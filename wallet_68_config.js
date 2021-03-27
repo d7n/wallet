@@ -1,1 +1,1 @@
-var mnemonic = "slight athlete jelly patrol concert relax siege basket idle tank diary inch";
+var mnemonic = "vote stick miracle powder obvious ignore mixed injury click strategy clump amazing";

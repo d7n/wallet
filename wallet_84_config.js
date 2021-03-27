@@ -1,1 +1,1 @@
-var mnemonic = "merry circle travel sponsor obtain absurd blame improve wheat smooth clutch outdoor";
+var mnemonic = "taste shed absent farm agree consider blade nephew wife entry payment soccer";

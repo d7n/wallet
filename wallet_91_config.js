@@ -1,1 +1,1 @@
-var mnemonic = "orphan essay spread legend scorpion pretty finger sausage host draw yard episode";
+var mnemonic = "stage puzzle message estate company labor foam bike move cook security finger";

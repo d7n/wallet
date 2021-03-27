@@ -1,1 +1,1 @@
-var mnemonic = "entry enhance hand chapter strong bounce point pair toddler girl picture relief";
+var mnemonic = "assume alien cup bleak relief rival flip skate snake country claw bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "frost enact impact cannon humor barely deer staff latin relax ghost chest";
+var mnemonic = "client merry spring lake drum exist cushion like rack must pull jelly";

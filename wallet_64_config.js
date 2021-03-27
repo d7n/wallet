@@ -1,1 +1,1 @@
-var mnemonic = "minimum appear boost ticket valley pottery unfold upon claw frequent list enrich";
+var mnemonic = "edit nothing sugar cruise federal what slender pulp code ring conduct comfort";

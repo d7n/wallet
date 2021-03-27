@@ -1,1 +1,1 @@
-var mnemonic = "custom duty display team culture degree evoke write nice balcony umbrella grab";
+var mnemonic = "live few analyst infant foster twist video hundred beauty multiply snack ramp";

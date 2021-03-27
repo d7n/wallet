@@ -1,1 +1,1 @@
-var mnemonic = "spin donkey govern detect develop smart dizzy rocket doll loop require print";
+var mnemonic = "blind logic wasp maze beef over report brand team scrap oak lizard";

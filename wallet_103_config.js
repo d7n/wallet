@@ -1,1 +1,1 @@
-var mnemonic = "girl grow token aisle trouble fix tourist actor warm hire weather outdoor";
+var mnemonic = "gather sort island genius crash palace mirror icon reveal mad jump venue";

@@ -1,1 +1,1 @@
-var mnemonic = "stick tattoo flash grass asset evidence pink card wine brass heart prefer";
+var mnemonic = "slush crouch naive swallow nation novel physical tray omit brass clay jungle";

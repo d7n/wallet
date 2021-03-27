@@ -1,1 +1,1 @@
-var mnemonic = "grain trick strategy dentist celery satoshi senior open traffic summer empower actual";
+var mnemonic = "toy century interest armor trip flag soft jeans lunar bonus wrestle electric";

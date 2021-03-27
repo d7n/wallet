@@ -1,1 +1,1 @@
-var mnemonic = "bonus library teach rocket increase motion stadium legend nerve various twelve hip";
+var mnemonic = "vacant monster derive inspire process dutch tissue fruit elite emerge annual motion";

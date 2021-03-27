@@ -1,1 +1,1 @@
-var mnemonic = "coconut badge illegal sport favorite oppose capable orchard such alcohol obvious jump";
+var mnemonic = "tool desert below talent spin broccoli sentence reunion mouse wink frame unknown";

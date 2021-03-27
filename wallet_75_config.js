@@ -1,1 +1,1 @@
-var mnemonic = "grunt canoe chest color myself extra chronic tip polar chef sunny glad";
+var mnemonic = "okay run wire jelly fit shoulder pause stock ivory paper evolve box";

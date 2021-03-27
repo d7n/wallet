@@ -1,1 +1,1 @@
-var mnemonic = "palace roof bomb below divert brisk true giant rug web kid royal";
+var mnemonic = "neglect easy air return flame flat seed unaware worth quiz rotate panel";

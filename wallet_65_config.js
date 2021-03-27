@@ -1,1 +1,1 @@
-var mnemonic = "image crunch wrestle seek surround magic paddle busy melt denial spin van";
+var mnemonic = "rocket stone shoot cigar labor chapter cushion heavy rifle bleak sentence dentist";

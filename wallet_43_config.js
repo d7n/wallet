@@ -1,1 +1,1 @@
-var mnemonic = "canoe sick cause sister flock ankle empower thrive syrup barely upon blouse";
+var mnemonic = "voyage employ rubber wine emerge broom cattle slab critic talent demise hill";

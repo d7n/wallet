@@ -1,1 +1,1 @@
-var mnemonic = "thank modify keep essay carry churn pond catch shop minute fame outdoor";
+var mnemonic = "tiger middle video liberty pause approve wedding injury acid demand bulb only";

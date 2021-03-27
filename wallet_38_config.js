@@ -1,1 +1,1 @@
-var mnemonic = "roast protect lamp sudden erosion isolate trust regular budget define adjust cloud";
+var mnemonic = "alien ring empower control carry error plastic order milk car lab pause";

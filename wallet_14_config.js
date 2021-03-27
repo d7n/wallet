@@ -1,1 +1,1 @@
-var mnemonic = "palm trophy square afraid opinion struggle cake live state tired spoon increase";
+var mnemonic = "worry benefit post shift proud kitchen ceiling away fee plate increase retire";

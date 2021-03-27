@@ -1,1 +1,1 @@
-var mnemonic = "repeat damage path dilemma noise village camera parade million fancy dad fury";
+var mnemonic = "trap clerk shove pride pole above pelican claim coyote magnet twenty puppy";

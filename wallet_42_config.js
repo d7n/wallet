@@ -1,1 +1,1 @@
-var mnemonic = "despair source absurd sadness kitchen confirm carpet common pigeon couple bargain number";
+var mnemonic = "cereal float badge when regret tube wisdom kidney tell find punch proof";

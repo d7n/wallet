@@ -1,1 +1,1 @@
-var mnemonic = "van actual hen satoshi cool pull minimum indoor weasel focus loan insect";
+var mnemonic = "dawn claim update salad off ivory awkward ethics beyond conduct kitten frown";
