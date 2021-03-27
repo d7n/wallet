@@ -1,1 +1,1 @@
-var mnemonic = "brief essay fruit inform connect recall dad balcony stone runway estate hospital";
+var mnemonic = "senior moral side corn trust ladder delay also someone hammer ceiling capable";

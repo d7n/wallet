@@ -1,1 +1,1 @@
-var mnemonic = "dizzy palm sense undo discover cactus series found novel antique around want";
+var mnemonic = "pelican tent october nation depth pink brown exit fault post legend conduct";

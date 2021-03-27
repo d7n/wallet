@@ -1,1 +1,1 @@
-var mnemonic = "bounce pudding symptom maid exchange embark turn census earn observe rigid erode";
+var mnemonic = "cover report craft leopard zone blind boss cage wash fitness idle armor";

@@ -1,1 +1,1 @@
-var mnemonic = "method patient what wine toy lobster expand sample topple donkey neck wash";
+var mnemonic = "myself desert tonight question swap copper slush image sense safe torch peanut";

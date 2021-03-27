@@ -1,1 +1,1 @@
-var mnemonic = "comic asset inmate cactus pill whisper expect chimney describe gown later unfold";
+var mnemonic = "cement bleak roof sense divide tongue soup display alone vibrant scene derive";

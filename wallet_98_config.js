@@ -1,1 +1,1 @@
-var mnemonic = "fog risk flavor soldier aspect pistol kitten disagree manual plastic also hat";
+var mnemonic = "sick relax list art hollow gasp lion hunt before pretty term smooth";

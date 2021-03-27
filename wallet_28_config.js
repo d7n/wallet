@@ -1,1 +1,1 @@
-var mnemonic = "team plug extra own tag sail multiply shy save kit delay evil";
+var mnemonic = "asthma inch teach spend galaxy coconut chef explain celery tuition boss picture";

@@ -1,1 +1,1 @@
-var mnemonic = "submit patch club erosion almost cloth bench same empower unfold build vapor";
+var mnemonic = "follow yard parrot athlete citizen mosquito abuse buyer fix artist range spice";

@@ -1,1 +1,1 @@
-var mnemonic = "hope gesture front cannon border skill reform inform direct duck say special";
+var mnemonic = "flock scorpion kitchen coil short afford demise cluster sunny electric leaf pitch";

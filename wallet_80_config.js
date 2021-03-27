@@ -1,1 +1,1 @@
-var mnemonic = "chunk ancient rabbit burger jaguar sponsor foil crash half absorb unfold quote";
+var mnemonic = "mushroom unusual fix ordinary dynamic gospel input boil miss act jazz upper";

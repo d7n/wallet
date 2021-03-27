@@ -1,1 +1,1 @@
-var mnemonic = "board solar unaware concert negative stable cross lumber vote knee lyrics birth";
+var mnemonic = "surface label mix wife plate symbol husband diesel among wheat life giggle";

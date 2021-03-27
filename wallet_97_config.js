@@ -1,1 +1,1 @@
-var mnemonic = "kind hungry deal much planet ill clap federal mutual attitude kit room";
+var mnemonic = "quarter mechanic broccoli region audit cable voice tooth flush blast butter unlock";

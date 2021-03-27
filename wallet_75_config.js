@@ -1,1 +1,1 @@
-var mnemonic = "aim pride soap unique clap bleak exchange bench gospel pigeon jacket dawn";
+var mnemonic = "spin pool beauty suffer champion axis essay meadow tilt demise trophy critic";

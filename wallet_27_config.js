@@ -1,1 +1,1 @@
-var mnemonic = "egg visual practice august kidney baby citizen ready limit oval pear limit";
+var mnemonic = "nut elephant pizza file decade game kite ride decade knee recall venue";

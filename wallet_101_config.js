@@ -1,1 +1,1 @@
-var mnemonic = "business amateur humor doll nothing foam milk rebuild staff produce exist license";
+var mnemonic = "open logic range deputy setup emerge bright great describe swarm monitor tape";

@@ -1,1 +1,1 @@
-var mnemonic = "hurt couple company predict fever relax asthma napkin picnic pistol wing sister";
+var mnemonic = "pill chief either swarm weird shy jazz involve popular army law town";

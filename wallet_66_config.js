@@ -1,1 +1,1 @@
-var mnemonic = "jar walk erase round find screen dinner crush claw normal finger have";
+var mnemonic = "aunt parade border zero soon swim learn nose bitter wrap pet parent";

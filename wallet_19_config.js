@@ -1,1 +1,1 @@
-var mnemonic = "misery vintage clap erupt valid always arrest kind pledge melt endorse engine";
+var mnemonic = "also demise adapt fever nose moral reward follow airport fiber income museum";

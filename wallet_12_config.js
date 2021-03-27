@@ -1,1 +1,1 @@
-var mnemonic = "purse rebuild figure beach route cost badge salt half traffic real occur";
+var mnemonic = "saddle audit kick only unfair leisure radar cause fringe release network water";

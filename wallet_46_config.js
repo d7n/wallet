@@ -1,1 +1,1 @@
-var mnemonic = "spring fabric flush update foster sunny kangaroo engage decline spike dutch gadget";
+var mnemonic = "chair rapid praise process fine gallery year detail render define table actress";

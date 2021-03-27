@@ -1,1 +1,1 @@
-var mnemonic = "can accident thing forward sugar actual urban man rely still prepare gesture";
+var mnemonic = "trust cake thrive toast soup runway very satoshi edit key cushion vivid";

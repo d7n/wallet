@@ -1,1 +1,1 @@
-var mnemonic = "cup correct horn tired tomato mobile hockey mushroom ask rail sunset abuse";
+var mnemonic = "suffer thrive penalty melt gap essay song ivory carbon museum organ flush";

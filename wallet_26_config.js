@@ -1,1 +1,1 @@
-var mnemonic = "round surge ill empty cruel radio day return subject interest series club";
+var mnemonic = "trick hat bench tennis inspire immense else sand armor problem orbit material";

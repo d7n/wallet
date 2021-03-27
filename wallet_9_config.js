@@ -1,1 +1,1 @@
-var mnemonic = "wave flag increase own any strong recycle picture viable adult bachelor purity";
+var mnemonic = "essence gesture illness disease possible little ostrich mail trial bonus rail couch";

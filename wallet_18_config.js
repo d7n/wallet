@@ -1,1 +1,1 @@
-var mnemonic = "fancy vacuum gain spot apology nephew rival clean virus roof heart worry";
+var mnemonic = "repeat gallery utility boss volume such wise egg vicious mimic road example";

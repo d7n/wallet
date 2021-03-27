@@ -1,1 +1,1 @@
-var mnemonic = "bundle powder morning brief elbow search office multiply expose sunset rug drastic";
+var mnemonic = "search law catalog fat brand narrow come under guess valve bacon wild";

@@ -1,1 +1,1 @@
-var mnemonic = "hello bring pact glad grief hamster cave silver special floor adjust cargo";
+var mnemonic = "tail lawn crouch ability broom nature party sustain must document spice hungry";

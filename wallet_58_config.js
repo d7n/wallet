@@ -1,1 +1,1 @@
-var mnemonic = "ghost margin middle curious verb spoil gown bean paper alarm tornado phrase";
+var mnemonic = "crawl cruel oppose prefer together old nasty vendor vibrant truly prison fold";

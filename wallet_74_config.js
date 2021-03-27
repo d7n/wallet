@@ -1,1 +1,1 @@
-var mnemonic = "long three piece match punch now resource boring seven sort usual poet";
+var mnemonic = "oak hurry cherry favorite impulse rough group can canal pencil aunt useful";

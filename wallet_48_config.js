@@ -1,1 +1,1 @@
-var mnemonic = "section column beauty napkin fog carpet quit answer elbow sugar reject drift";
+var mnemonic = "field light valley tape street fresh demise cat bundle hurt erupt lecture";

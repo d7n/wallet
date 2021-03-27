@@ -1,1 +1,1 @@
-var mnemonic = "tattoo man dove ten sure cheese oppose universe lecture bachelor layer beach";
+var mnemonic = "pet trumpet thumb bench owner age paddle raise doctor recall security patient";

@@ -1,1 +1,1 @@
-var mnemonic = "bird meadow various arrow surface broccoli slide tomato pulp usual quantum argue";
+var mnemonic = "cook corn gift grab silk doctor project kiss dog trumpet mercy first";

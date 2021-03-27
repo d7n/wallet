@@ -1,1 +1,1 @@
-var mnemonic = "able evoke immense index kiss begin unfair winner federal nephew swallow once";
+var mnemonic = "hungry visual bridge tennis lobster curve arctic film giraffe fish sponsor apart";

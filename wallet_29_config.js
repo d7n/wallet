@@ -1,1 +1,1 @@
-var mnemonic = "topic walnut asthma humble thunder always head virus scene bleak round jar";
+var mnemonic = "spoil mechanic race mandate stomach force easy neither cream ethics cheese season";

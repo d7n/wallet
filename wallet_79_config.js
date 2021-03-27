@@ -1,1 +1,1 @@
-var mnemonic = "basic decrease invite beef spirit soup flavor tired snack inspire avocado anxiety";
+var mnemonic = "umbrella woman profit derive alley kit equip future exile best rude tent";

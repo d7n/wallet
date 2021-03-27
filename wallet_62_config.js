@@ -1,1 +1,1 @@
-var mnemonic = "oval perfect language gasp viable six nothing shadow apple source spider asthma";
+var mnemonic = "clinic glare cluster rural soft case arch student thank doctor spirit shock";

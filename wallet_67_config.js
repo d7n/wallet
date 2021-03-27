@@ -1,1 +1,1 @@
-var mnemonic = "rival swarm virus ignore tenant prize update price best abandon addict pluck";
+var mnemonic = "old situate beauty toy easily horn tower clutch lift chapter long daring";

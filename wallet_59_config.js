@@ -1,1 +1,1 @@
-var mnemonic = "measure private cannon account suit hungry seek smoke type gap vote verb";
+var mnemonic = "accident circle fetch lava vanish luxury bridge canyon trend piano suit foster";

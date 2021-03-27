@@ -1,1 +1,1 @@
-var mnemonic = "opinion corn wash danger cotton amazing twenty adult pelican fruit fiction breeze";
+var mnemonic = "aware cattle isolate calm sunny depth piano because avocado exercise trash tornado";

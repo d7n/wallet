@@ -1,1 +1,1 @@
-var mnemonic = "expand left purse sad enlist pool leaf merry icon chunk tooth suit";
+var mnemonic = "inflict among file rival know blind produce category addict venture dinosaur debate";

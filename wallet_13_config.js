@@ -1,1 +1,1 @@
-var mnemonic = "deposit artist antenna song enlist silk tell title blast bulb vast grass";
+var mnemonic = "word gym black burst damp pink velvet march nominee evidence witness nerve";

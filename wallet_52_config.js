@@ -1,1 +1,1 @@
-var mnemonic = "crawl ostrich execute between burden pottery baby fly about grace motion affair";
+var mnemonic = "concert auction cupboard deliver priority trick satisfy mouse prison census industry clutch";

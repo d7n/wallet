@@ -1,1 +1,1 @@
-var mnemonic = "job lend ten drill salad morning castle struggle fan spell mad cupboard";
+var mnemonic = "huge curtain stage arctic such census spike thumb clay garden news case";

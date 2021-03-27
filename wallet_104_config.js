@@ -1,1 +1,1 @@
-var mnemonic = "lab nasty miracle project quit ripple stairs butter play skull spread hero";
+var mnemonic = "jar twenty bread fury buzz butter access tip buzz topic east unable";

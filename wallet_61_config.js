@@ -1,1 +1,1 @@
-var mnemonic = "economy leaf cluster crash acquire moment guilt weapon below rich brain also";
+var mnemonic = "relax engage ensure lecture lizard glimpse outdoor tobacco market aspect drum write";

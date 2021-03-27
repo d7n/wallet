@@ -1,1 +1,1 @@
-var mnemonic = "monkey minute truly onion spare improve human couch good radar portion physical";
+var mnemonic = "impulse sail metal hotel vicious essay diet trend win budget way sail";

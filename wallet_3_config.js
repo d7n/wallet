@@ -1,1 +1,1 @@
-var mnemonic = "right arrow pepper duck canyon trade half diamond shiver tell dash rotate";
+var mnemonic = "immune mandate genuine meat balcony reform toss quarter march trust require pole";

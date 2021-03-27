@@ -1,1 +1,1 @@
-var mnemonic = "cross next cave brief stem street elephant flee genius network mountain produce";
+var mnemonic = "also story run mule long predict health street destroy retire dress voyage";

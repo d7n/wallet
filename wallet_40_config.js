@@ -1,1 +1,1 @@
-var mnemonic = "surround install diet educate size question minute blur crucial cabin congress amused";
+var mnemonic = "subject auction helmet coil link twin omit luxury valley once arrest ticket";

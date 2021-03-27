@@ -1,1 +1,1 @@
-var mnemonic = "absurd rug decide toilet april husband ripple real saddle since tonight mouse";
+var mnemonic = "symptom relief solar poem wear accuse deputy accident obvious document poet vanish";

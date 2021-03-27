@@ -1,1 +1,1 @@
-var mnemonic = "apple bubble brisk digital regret good hire hole reward tuition citizen twenty";
+var mnemonic = "laundry photo trial vault slam humble flip balance dress noodle garment scheme";

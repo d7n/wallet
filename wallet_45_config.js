@@ -1,1 +1,1 @@
-var mnemonic = "solid february secret benefit stomach fence aspect soft memory elbow pyramid busy";
+var mnemonic = "brush noise snap barely spend menu paddle help express crazy couch zoo";

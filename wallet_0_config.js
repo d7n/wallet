@@ -1,1 +1,1 @@
-var mnemonic = "then chuckle wonder choose decorate wool bench type tape disorder smart behave";
+var mnemonic = "knife pet dish jump drive gossip grid scale host glory orbit goat";

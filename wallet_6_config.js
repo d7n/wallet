@@ -1,1 +1,1 @@
-var mnemonic = "what later weekend spy donor company pull put wide clutch phrase borrow";
+var mnemonic = "champion planet enemy cheap happy dumb divorce speed equal dress educate call";

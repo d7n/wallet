@@ -1,1 +1,1 @@
-var mnemonic = "call must shy hint dinosaur speak entry cargo ivory normal live yellow";
+var mnemonic = "solar drink wasp three humor crew usage tray gentle ribbon cabin guitar";

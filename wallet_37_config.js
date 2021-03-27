@@ -1,1 +1,1 @@
-var mnemonic = "broken rubber fantasy device step ecology category maze very door design warfare";
+var mnemonic = "remember into soft salt lizard hip blur doctor enlist burst wrestle federal";

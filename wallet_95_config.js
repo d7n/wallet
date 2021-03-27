@@ -1,1 +1,1 @@
-var mnemonic = "job shine frequent this step rather cloth hazard spare arrive believe kangaroo";
+var mnemonic = "attract stadium labor advice avoid try ketchup rally wrist oyster great scorpion";

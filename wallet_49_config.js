@@ -1,1 +1,1 @@
-var mnemonic = "isolate spin love artwork punch rabbit green tree squeeze train useful joy";
+var mnemonic = "turtle proof noise display recycle kit lecture pudding idle frequent embody evidence";

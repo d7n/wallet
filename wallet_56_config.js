@@ -1,1 +1,1 @@
-var mnemonic = "friend lounge belt section profit duck collect olympic acid topic mean belt";
+var mnemonic = "act lobster list injury drink wear submit green pair divide crumble unable";

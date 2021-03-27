@@ -1,1 +1,1 @@
-var mnemonic = "grit round meat auction interest connect power lucky adapt message symptom filter";
+var mnemonic = "document quick clever ice sentence vibrant debate update sister dizzy horror route";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude table carbon wild bar spray raven digital potato window machine nasty";
+var mnemonic = "scheme float skirt holiday monster tag rent panic reject garage process used";

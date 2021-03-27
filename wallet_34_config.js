@@ -1,1 +1,1 @@
-var mnemonic = "inherit betray jungle fame congress believe become female stairs october lift crunch";
+var mnemonic = "gas index catch cream chimney magic soccer lake twenty blue develop cute";

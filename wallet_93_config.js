@@ -1,1 +1,1 @@
-var mnemonic = "school refuse time metal poem misery fragile tuition enact inside trade help";
+var mnemonic = "tree alcohol circle also finish steel credit when tired skirt damp box";

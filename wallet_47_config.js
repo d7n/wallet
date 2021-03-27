@@ -1,1 +1,1 @@
-var mnemonic = "burst fury reward chair speed blouse hobby zoo final supreme patient tortoise";
+var mnemonic = "border picture reform style layer insect ribbon puppy satisfy leaf install spawn";

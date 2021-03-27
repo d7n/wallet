@@ -1,1 +1,1 @@
-var mnemonic = "right unable winner undo then view make shrimp ecology together unfair plastic";
+var mnemonic = "destroy bachelor patrol keen try bring then indicate tired crowd antenna rookie";

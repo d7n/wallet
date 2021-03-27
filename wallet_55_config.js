@@ -1,1 +1,1 @@
-var mnemonic = "ritual chase army suggest shadow adjust city immense divorce piano sock gaze";
+var mnemonic = "push rib truly shrug scout ahead lizard pulp crash above vapor leave";

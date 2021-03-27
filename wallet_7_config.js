@@ -1,1 +1,1 @@
-var mnemonic = "where sleep insect horror indoor rubber upon air grant offer plunge patient";
+var mnemonic = "split rent genre try expect enhance poem glow bubble indoor spread prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "attract finish avocado imitate soldier doll mouse swap else nephew tornado swap";
+var mnemonic = "lemon already fabric couch essay assault across benefit post fire exclude pupil";

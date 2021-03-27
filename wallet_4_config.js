@@ -1,1 +1,1 @@
-var mnemonic = "advice banana state park useless flame deer speak future wear style brisk";
+var mnemonic = "ring melt fatal wire agree next vehicle argue priority nominee eight corn";

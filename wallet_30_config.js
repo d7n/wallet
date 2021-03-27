@@ -1,1 +1,1 @@
-var mnemonic = "pencil staff exhaust call liar baby also panic rough good chest matter";
+var mnemonic = "shuffle team security middle pottery column include squeeze fatigue public link mercy";

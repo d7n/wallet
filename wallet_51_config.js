@@ -1,1 +1,1 @@
-var mnemonic = "position public afraid excess either annual diamond erosion jealous local they inhale";
+var mnemonic = "caution attract glove machine rose pattern issue margin win fresh junk eager";

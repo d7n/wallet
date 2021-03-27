@@ -1,1 +1,1 @@
-var mnemonic = "priority neither huge nation spike lonely grace dance tomorrow when mango crime";
+var mnemonic = "bright circle draft team brick motion current kick high agent flash tooth";

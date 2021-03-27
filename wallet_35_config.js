@@ -1,1 +1,1 @@
-var mnemonic = "rabbit essay push slab aunt under palace gift jaguar position main jacket";
+var mnemonic = "hip ask interest erode runway wide cube arch monitor ribbon uphold width";

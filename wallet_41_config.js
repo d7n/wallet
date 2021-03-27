@@ -1,1 +1,1 @@
-var mnemonic = "manage crumble nasty discover portion december give trumpet general divide maze artefact";
+var mnemonic = "mango cherry honey eight output please unveil warrior pottery digital need stamp";

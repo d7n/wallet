@@ -1,1 +1,1 @@
-var mnemonic = "nuclear denial section stamp muffin veteran reunion swear depth dry want cage";
+var mnemonic = "anchor apple blue upset genre ocean nest exile ball monitor silver toward";

@@ -1,1 +1,1 @@
-var mnemonic = "series hour you lucky pitch army dentist find timber oblige remove crucial";
+var mnemonic = "divert grant hundred satisfy project when brass axis exclude neck deposit banner";

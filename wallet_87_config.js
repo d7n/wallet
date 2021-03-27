@@ -1,1 +1,1 @@
-var mnemonic = "shallow talent object afraid print urban rescue media govern craft humble foil";
+var mnemonic = "point zoo silent found toward lazy dice health buyer lecture remain faith";

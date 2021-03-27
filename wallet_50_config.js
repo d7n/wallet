@@ -1,1 +1,1 @@
-var mnemonic = "globe cargo design quit promote depart prepare eight sport harsh setup pilot";
+var mnemonic = "culture arrange episode universe novel sing width frozen best echo mixture trip";

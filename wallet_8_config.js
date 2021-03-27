@@ -1,1 +1,1 @@
-var mnemonic = "odor odor slender bullet filter athlete submit industry vessel patient scare save";
+var mnemonic = "defense rescue rude reveal coast penalty advance egg paper rebel sea box";

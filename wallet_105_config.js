@@ -1,1 +1,1 @@
-var mnemonic = "arrange ensure sick stuff initial any figure frog favorite immense drift jazz";
+var mnemonic = "gadget vital vault talk thumb push cloud equal busy fury gold funny";

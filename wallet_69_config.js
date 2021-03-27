@@ -1,1 +1,1 @@
-var mnemonic = "embrace school photo timber copper dry best weasel drop alpha neutral become";
+var mnemonic = "lazy shaft borrow gauge canal wrong father stick shuffle coral stumble clever";

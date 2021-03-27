@@ -1,1 +1,1 @@
-var mnemonic = "sick steak drama high session copper fine garage mango soap square cube";
+var mnemonic = "suspect slight favorite miracle weather private misery erupt truck guard win river";

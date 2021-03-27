@@ -1,1 +1,1 @@
-var mnemonic = "magic sponsor bid forum whale wife pride physical disorder blouse tone glove";
+var mnemonic = "add solution gentle extend collect loyal runway antique depend artist despair stomach";

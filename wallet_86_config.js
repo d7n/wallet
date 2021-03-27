@@ -1,1 +1,1 @@
-var mnemonic = "foil shadow whip explain offer cattle estate couple collect chapter initial canyon";
+var mnemonic = "ritual grain addict apple notable glide funny alone drink fault asset print";

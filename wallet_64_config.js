@@ -1,1 +1,1 @@
-var mnemonic = "gather black congress pitch faint faculty imitate reunion kick where minimum ostrich";
+var mnemonic = "fatigue six insect negative coach lottery spice wealth supreme visit inject dirt";
