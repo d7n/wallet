@@ -1,1 +1,1 @@
-var mnemonic = "meadow ketchup virtual fine public industry increase chapter tomato top brother elevator";
+var mnemonic = "remember pretty drift infant helmet rebuild police tag gather phone oval among";

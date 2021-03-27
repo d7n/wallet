@@ -1,1 +1,1 @@
-var mnemonic = "frequent glory harbor suffer nature credit jacket pledge group knife flock afford";
+var mnemonic = "accuse cheese plastic chef hip blossom deliver swim awkward taxi omit peanut";

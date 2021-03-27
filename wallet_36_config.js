@@ -1,1 +1,1 @@
-var mnemonic = "wedding potato maximum menu grow destroy direct coconut curve identify choose desk";
+var mnemonic = "cloth dolphin hammer blood cannon future spatial grace walnut ability rebuild bus";

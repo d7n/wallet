@@ -1,1 +1,1 @@
-var mnemonic = "dwarf jungle emerge burst audit frame snake follow enable calm cabin history";
+var mnemonic = "obtain expire oak erupt silent sort renew cook bind lock arrange improve";

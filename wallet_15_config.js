@@ -1,1 +1,1 @@
-var mnemonic = "order tennis catch image alarm uncover tattoo runway warfare brave differ behind";
+var mnemonic = "luggage garden smart help fuel body attract thank piece silly romance nature";

@@ -1,1 +1,1 @@
-var mnemonic = "behind frame close general gift erode learn vital master marble crane gift";
+var mnemonic = "evidence demand tray say toe eternal salmon slush interest dolphin barrel fruit";

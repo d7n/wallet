@@ -1,1 +1,1 @@
-var mnemonic = "hire easy robust lecture since cinnamon legal federal build such board cram";
+var mnemonic = "cruel leader wreck blur inch odor steel change fabric marriage utility spot";

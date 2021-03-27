@@ -1,1 +1,1 @@
-var mnemonic = "unfold cook wood abuse choose utility blush creek clutch course small tobacco";
+var mnemonic = "boring endless begin myth old runway process earn small dance leopard chimney";

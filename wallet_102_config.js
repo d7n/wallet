@@ -1,1 +1,1 @@
-var mnemonic = "rural nose consider achieve despair galaxy hint crew drama arrange airport year";
+var mnemonic = "appear peanut soon legend ride chuckle again eagle promote unknown maple idle";

@@ -1,1 +1,1 @@
-var mnemonic = "wine rapid staff degree master truly tobacco call farm never donkey proof";
+var mnemonic = "potato bean input grit opera muffin inflict arctic cloud rival setup winner";

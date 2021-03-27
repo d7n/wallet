@@ -1,1 +1,1 @@
-var mnemonic = "uphold local pony deputy magnet episode spot dance faint stage shuffle shop";
+var mnemonic = "agent treat buffalo swamp blossom razor garment deliver permit peanut phone rug";

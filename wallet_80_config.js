@@ -1,1 +1,1 @@
-var mnemonic = "orbit cage ring limit fiber vocal case plastic warm move design faculty";
+var mnemonic = "word daring cherry trap basket idle rate surface hood attend volume culture";

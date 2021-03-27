@@ -1,1 +1,1 @@
-var mnemonic = "tag example sure clinic patient town leave shove spend panther interest huge";
+var mnemonic = "merry utility unusual that pigeon apart warrior cost paddle pumpkin gaze shoulder";

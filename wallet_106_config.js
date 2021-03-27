@@ -1,1 +1,1 @@
-var mnemonic = "blade man cash bicycle senior pave prepare spring actual emerge silk slush";
+var mnemonic = "elegant width enact fashion ankle girl sadness ancient apology curve fine aim";

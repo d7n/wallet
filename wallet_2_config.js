@@ -1,1 +1,1 @@
-var mnemonic = "work victory van debate patient material lecture atom tattoo about unknown key";
+var mnemonic = "creek uncle correct primary razor remain nut wrist skull attend expire lucky";

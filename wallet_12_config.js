@@ -1,1 +1,1 @@
-var mnemonic = "boring lunar trial bike slot wrap fat fitness grace meadow fire emerge";
+var mnemonic = "outer bonus dune catalog harvest confirm select pair road evidence key yard";

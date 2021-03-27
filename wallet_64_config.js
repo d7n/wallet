@@ -1,1 +1,1 @@
-var mnemonic = "spice art crew column cool captain worry click brand smoke winner pill";
+var mnemonic = "model room achieve include rate valve cream action law doctor under exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "future gorilla kangaroo today major team cruise picnic patient between donor result";
+var mnemonic = "face bamboo core fatigue sign december balcony brain depth story demise script";

@@ -1,1 +1,1 @@
-var mnemonic = "sense infant want life oyster menu snack curve side zero service blood";
+var mnemonic = "fancy decrease bubble cloth news secret push burden copper true result quit";

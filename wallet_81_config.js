@@ -1,1 +1,1 @@
-var mnemonic = "ankle obvious control soup peasant crumble almost sword divide mad hammer squeeze";
+var mnemonic = "purse shuffle letter hidden arena auto arrive broccoli elder pluck favorite elite";

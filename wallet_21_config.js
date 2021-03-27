@@ -1,1 +1,1 @@
-var mnemonic = "laundry usage proof vapor devote south sun crime among head report anchor";
+var mnemonic = "still detect tower width torch slight okay engage proof drive adult fish";

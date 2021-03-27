@@ -1,1 +1,1 @@
-var mnemonic = "vast citizen risk way remind sight purse spoil hammer witness clean burden";
+var mnemonic = "soldier end bundle region you apart vote pipe dose menu abuse peanut";

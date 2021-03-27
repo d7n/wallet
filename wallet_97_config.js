@@ -1,1 +1,1 @@
-var mnemonic = "invite brass robot bread library bunker multiply secret across clog climb famous";
+var mnemonic = "prevent ancient essence innocent spot match nature monitor shadow kit pause report";

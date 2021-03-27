@@ -1,1 +1,1 @@
-var mnemonic = "able nut ladder biology crane midnight drum mom quit coil gap service";
+var mnemonic = "between spike civil fiber trick child volcano track ramp shuffle weird battle";

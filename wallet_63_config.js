@@ -1,1 +1,1 @@
-var mnemonic = "twin spend ribbon barely oak scorpion arch track hip whisper garden surface";
+var mnemonic = "elbow auto trust stable woman good curve filter crucial absorb display exact";

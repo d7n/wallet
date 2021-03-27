@@ -1,1 +1,1 @@
-var mnemonic = "endless much embrace brisk width decorate yard repeat crunch bright doll extend";
+var mnemonic = "tunnel stick slide cradle ten cabbage tent often clay grant immune nephew";

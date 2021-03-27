@@ -1,1 +1,1 @@
-var mnemonic = "then resist market sausage remove east kangaroo antenna develop frost home actor";
+var mnemonic = "dignity tail stadium absurd damage athlete doctor length identify cube stereo index";

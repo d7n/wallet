@@ -1,1 +1,1 @@
-var mnemonic = "puzzle vault custom divide bone metal special worry erupt keen chalk cotton";
+var mnemonic = "fog improve morning butter various flower identify myself monkey february warm develop";

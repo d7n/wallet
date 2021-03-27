@@ -1,1 +1,1 @@
-var mnemonic = "adult aunt pair sound cotton person predict essay behind invest dune bonus";
+var mnemonic = "hat clarify jewel soldier brother inmate still inject already valid clip furnace";

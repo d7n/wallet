@@ -1,1 +1,1 @@
-var mnemonic = "cross term host awesome way around wrong rookie choice room economy solve";
+var mnemonic = "crunch can render kick harsh genius talk solid garment gaze reform airport";

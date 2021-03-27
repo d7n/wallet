@@ -1,1 +1,1 @@
-var mnemonic = "eight address skill immense setup citizen achieve picture rib coach feature just";
+var mnemonic = "token term tank relief emerge lobster nerve addict butter skull wagon vibrant";

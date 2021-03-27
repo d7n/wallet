@@ -1,1 +1,1 @@
-var mnemonic = "sausage tone sleep fault recycle detail return few umbrella barrel motion inflict";
+var mnemonic = "erase civil rice empower corn loyal put among hedgehog world mercy recall";

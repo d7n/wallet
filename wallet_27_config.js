@@ -1,1 +1,1 @@
-var mnemonic = "crouch stock flock actor into kitchen defy furnace dog clock monitor diary";
+var mnemonic = "bike three various other tree hollow casino grab bonus together twist female";

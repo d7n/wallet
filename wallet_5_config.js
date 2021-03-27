@@ -1,1 +1,1 @@
-var mnemonic = "round dizzy arctic near lab fix puppy stuff laugh marine then volume";
+var mnemonic = "man human happy dragon penalty father layer sugar table initial ship guess";

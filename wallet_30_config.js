@@ -1,1 +1,1 @@
-var mnemonic = "genuine possible analyst hockey hen photo labor mixed clown maze fat little";
+var mnemonic = "give ring slender pair rich tool guide hawk figure weird light envelope";

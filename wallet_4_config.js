@@ -1,1 +1,1 @@
-var mnemonic = "gym message diesel arrange cigar annual chief velvet virus iron this sign";
+var mnemonic = "scheme amazing copy yellow cause wonder party captain midnight enjoy dance love";

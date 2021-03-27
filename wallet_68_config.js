@@ -1,1 +1,1 @@
-var mnemonic = "truly couch swamp neutral position tomorrow rain exotic cry blade annual soldier";
+var mnemonic = "bright sail emerge analyst crisp trade situate repeat west normal giraffe chat";

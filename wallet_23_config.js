@@ -1,1 +1,1 @@
-var mnemonic = "casual shiver never police furnace exit snap raise wall reason have cupboard";
+var mnemonic = "insane curtain useless aisle virus leg infant float soon brave frequent alarm";

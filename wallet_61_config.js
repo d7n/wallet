@@ -1,1 +1,1 @@
-var mnemonic = "elevator fever assault predict soccer rug twice gesture faint eager short hamster";
+var mnemonic = "pupil license song bag october dignity patient glow execute below prosper gown";

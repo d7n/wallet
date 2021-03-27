@@ -1,1 +1,1 @@
-var mnemonic = "hockey address toddler model shuffle lunar omit trip glory core copper scare";
+var mnemonic = "film ocean essay empty merit follow abstract broccoli best giraffe dress protect";

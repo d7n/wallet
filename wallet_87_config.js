@@ -1,1 +1,1 @@
-var mnemonic = "small actor pool change rookie pattern carpet drum round alert federal toy";
+var mnemonic = "meadow lab notice someone glass sadness food forward amateur lucky pistol quiz";

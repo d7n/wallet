@@ -1,1 +1,1 @@
-var mnemonic = "lesson pipe eye east beach tumble device fog detect bean midnight bid";
+var mnemonic = "gas curve clay sunset ticket brown follow coconut light spoil achieve swarm";

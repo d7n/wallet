@@ -1,1 +1,1 @@
-var mnemonic = "north entire hen still beef best bicycle where whip romance sell wolf";
+var mnemonic = "next glass silk feel tank output arch absurd offer alter chat erase";

@@ -1,1 +1,1 @@
-var mnemonic = "kite penalty cook that shoulder coral chair scene any ranch animal stem";
+var mnemonic = "bunker tower diamond flush must void expire practice industry image side need";

@@ -1,1 +1,1 @@
-var mnemonic = "slow voyage sad crazy protect acoustic supreme kitten culture cover motion hour";
+var mnemonic = "crunch basket history recipe wait come evolve island material unknown rocket minute";

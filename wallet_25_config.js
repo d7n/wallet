@@ -1,1 +1,1 @@
-var mnemonic = "coffee valid vicious basket chair wine kingdom ghost husband head tomato violin";
+var mnemonic = "exclude erupt heart boat material fog response cube connect initial network armor";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty sort flush bench reason tube witness just target renew zoo beef";
+var mnemonic = "stem very huge pave mosquito elegant bike satisfy head angle gauge estate";

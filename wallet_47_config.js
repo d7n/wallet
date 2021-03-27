@@ -1,1 +1,1 @@
-var mnemonic = "siege sign antenna ginger deposit great sibling clarify pitch predict snap clock";
+var mnemonic = "pond option top circle place jelly benefit swamp churn design lake picture";

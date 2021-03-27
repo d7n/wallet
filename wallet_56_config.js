@@ -1,1 +1,1 @@
-var mnemonic = "squeeze urge sorry rose extend smooth alarm spider rather animal truth blast";
+var mnemonic = "reward negative crunch measure panther sphere size rally buddy park kitten exist";

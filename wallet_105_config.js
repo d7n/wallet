@@ -1,1 +1,1 @@
-var mnemonic = "remember client unhappy because one scout tube cable glory meat alcohol double";
+var mnemonic = "various smile try category capable toddler okay force ride scorpion deer entry";

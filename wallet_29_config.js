@@ -1,1 +1,1 @@
-var mnemonic = "material seat gate work gas floor drift under thank mom key cattle";
+var mnemonic = "project trouble boil reform liar blur relief occur stove result two crystal";

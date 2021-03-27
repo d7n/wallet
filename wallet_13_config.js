@@ -1,1 +1,1 @@
-var mnemonic = "reopen goose fold opera base rib magic crush sniff ticket method height";
+var mnemonic = "duck claim believe fish quiz globe skirt soap process wall grape guide";

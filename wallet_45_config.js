@@ -1,1 +1,1 @@
-var mnemonic = "uncle enough raccoon pink grain garbage enrich pet admit clay decline brain";
+var mnemonic = "rocket scrap own boost orphan truth blood stamp column clever never universe";

@@ -1,1 +1,1 @@
-var mnemonic = "clock ensure eager series twin then maple phrase pool supreme travel abandon";
+var mnemonic = "tide warm lab hospital mention swarm poverty matter cliff hand group code";

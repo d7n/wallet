@@ -1,1 +1,1 @@
-var mnemonic = "divert labor raccoon world water gallery wear unveil burst retire absorb gold";
+var mnemonic = "appear witness cement involve grocery surface mind cram escape real rocket business";

@@ -1,1 +1,1 @@
-var mnemonic = "picture flee fox nerve curve pumpkin company party neutral ranch object wheat";
+var mnemonic = "pond twist simple enemy father finish mix youth oval riot enforce lounge";

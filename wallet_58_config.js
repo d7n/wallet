@@ -1,1 +1,1 @@
-var mnemonic = "suggest climb tree gather identify when pyramid history public length wave daughter";
+var mnemonic = "pig mandate torch element thrive vocal north exercise adjust club wasp clock";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff slender treat access recycle check grass rate outer viable fog screen";
+var mnemonic = "spread truck buyer logic figure rescue cabin raven smoke tennis cycle inject";

@@ -1,1 +1,1 @@
-var mnemonic = "damage ticket stomach sibling tail violin curtain dirt sugar deer oblige pool";
+var mnemonic = "tonight inmate lecture salon badge february permit crouch volume design pattern segment";

@@ -1,1 +1,1 @@
-var mnemonic = "beach glimpse team champion express giant choice motor oppose raven copy valley";
+var mnemonic = "piece clap wet border item slim trouble yellow ski boss stock adult";

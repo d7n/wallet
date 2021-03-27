@@ -1,1 +1,1 @@
-var mnemonic = "upper gasp depend barely round melody torch copy improve execute smoke twelve";
+var mnemonic = "arena way mimic ready chest chimney portion day intact wish escape hard";

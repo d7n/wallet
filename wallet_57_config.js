@@ -1,1 +1,1 @@
-var mnemonic = "foot erode embody thrive metal silent burst fee employ lecture choice approve";
+var mnemonic = "mirror video diet art clay hello result forum large silent example man";

@@ -1,1 +1,1 @@
-var mnemonic = "general unfold buddy cigar dumb adult you you junior turkey apology torch";
+var mnemonic = "save cave switch boss snack claw left desk horror jump tackle settle";

@@ -1,1 +1,1 @@
-var mnemonic = "member provide bracket then never come stairs ostrich board inch boat crash";
+var mnemonic = "ordinary chair hair gym find segment inflict hundred submit wash canvas tooth";

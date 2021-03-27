@@ -1,1 +1,1 @@
-var mnemonic = "solar cargo have program peanut try noble burst glad cup mail credit";
+var mnemonic = "sure oppose message bird elder fog enemy amateur south wheat best note";

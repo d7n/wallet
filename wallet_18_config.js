@@ -1,1 +1,1 @@
-var mnemonic = "indoor bracket finish world good festival foster adult radio atom save pizza";
+var mnemonic = "rifle fold hamster call unlock robot fragile buffalo asthma during answer seven";

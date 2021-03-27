@@ -1,1 +1,1 @@
-var mnemonic = "hip dumb grass liberty bid bitter suffer gallery time much axis off";
+var mnemonic = "witness shallow elephant ketchup mixture culture whisper share parrot aerobic curtain motor";

@@ -1,1 +1,1 @@
-var mnemonic = "slice cube tobacco actual ensure liar brand ring cotton flower tray month";
+var mnemonic = "orange fiction example artist struggle tip asset reason rabbit arch law bleak";

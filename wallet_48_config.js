@@ -1,1 +1,1 @@
-var mnemonic = "primary hen leave vital bulk feel keep heavy route outer moon together";
+var mnemonic = "trend ill bean country rabbit bleak patrol spawn dose indicate horror material";

@@ -1,1 +1,1 @@
-var mnemonic = "left evil crucial pioneer palace dry grass eight concert brand aunt cloud";
+var mnemonic = "churn retreat apart outer fatigue large escape zebra music observe prize caught";

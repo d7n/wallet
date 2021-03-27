@@ -1,1 +1,1 @@
-var mnemonic = "skill pulp behave globe elder cereal dad moral group clock neglect accident";
+var mnemonic = "replace casual opinion bench farm warrior demand farm toy tortoise decide rhythm";

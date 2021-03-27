@@ -1,1 +1,1 @@
-var mnemonic = "panel vehicle gown motion dignity ripple april polar stone hurt gas layer";
+var mnemonic = "veteran favorite avoid decorate camp memory wet retire skirt goat steak canal";

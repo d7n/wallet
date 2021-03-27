@@ -1,1 +1,1 @@
-var mnemonic = "mail eternal zebra whip denial uphold distance fox shadow medal asthma puzzle";
+var mnemonic = "insane move brother flame camera quiz midnight anger expose naive track style";

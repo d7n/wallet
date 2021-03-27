@@ -1,1 +1,1 @@
-var mnemonic = "limit balance oppose female extra page cricket note journey host clown damage";
+var mnemonic = "verify harbor alarm six reopen pact hamster turtle slide chapter unfold hood";

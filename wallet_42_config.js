@@ -1,1 +1,1 @@
-var mnemonic = "change author shoe club saddle motor furnace kiwi pluck sail attend still";
+var mnemonic = "shadow harsh achieve use icon comfort tobacco safe ostrich right glimpse episode";

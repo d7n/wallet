@@ -1,1 +1,1 @@
-var mnemonic = "ribbon save middle often loan ritual address genuine humor expire bonus piece";
+var mnemonic = "bicycle income section kind chapter celery stage carpet issue stumble grab surround";

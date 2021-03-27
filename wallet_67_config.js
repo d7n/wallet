@@ -1,1 +1,1 @@
-var mnemonic = "pelican opera print nothing system attract guide sauce exercise pole review celery";
+var mnemonic = "rack element valve rate rifle wheel budget record gentle phrase where inflict";

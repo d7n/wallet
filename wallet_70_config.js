@@ -1,1 +1,1 @@
-var mnemonic = "travel wool gorilla lunch found clock surge start average forward remind legend";
+var mnemonic = "average smile today genuine scissors indoor ball frown album roast similar once";

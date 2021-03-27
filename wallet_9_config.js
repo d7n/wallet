@@ -1,1 +1,1 @@
-var mnemonic = "next often parade stairs exit valley original boat lizard answer robot seven";
+var mnemonic = "tackle music rather beyond bone illness pottery dismiss type pledge poem route";

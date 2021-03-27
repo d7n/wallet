@@ -1,1 +1,1 @@
-var mnemonic = "onion honey cereal olympic pizza spoon flush kit box stuff scan rifle";
+var mnemonic = "one bean mutual hole move young turtle food pottery rebuild hello spend";

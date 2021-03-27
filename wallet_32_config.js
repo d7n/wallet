@@ -1,1 +1,1 @@
-var mnemonic = "order bachelor language step affair toddler term remove sphere embark huge rough";
+var mnemonic = "afford brick panic uncle grid embrace smooth magic bone achieve sort duty";

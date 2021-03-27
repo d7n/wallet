@@ -1,1 +1,1 @@
-var mnemonic = "loyal seed mutual desk wild expect despair manage reveal trade dragon pilot";
+var mnemonic = "scout excuse core tell slot accuse clean session lawn affair meat wet";

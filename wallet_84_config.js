@@ -1,1 +1,1 @@
-var mnemonic = "parent caught bid odor actress truly fan clown country drill know pupil";
+var mnemonic = "tone yard exile matter exchange answer long service thumb board satoshi ozone";

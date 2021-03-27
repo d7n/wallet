@@ -1,1 +1,1 @@
-var mnemonic = "comic easily mirror street fence chaos solid alone subway volcano scan day";
+var mnemonic = "seat daring hat outdoor cruel drastic ability prize source miracle write lens";

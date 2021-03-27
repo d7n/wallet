@@ -1,1 +1,1 @@
-var mnemonic = "milk nest need kiwi manual muffin feed walk inflict staff deny appear";
+var mnemonic = "maximum quote cannon later stem dizzy escape detect slender exit check put";

@@ -1,1 +1,1 @@
-var mnemonic = "try female siege sense exit thrive swap soup improve sponsor purse sport";
+var mnemonic = "night kangaroo globe shiver tail useless bitter still book cloud crush black";
