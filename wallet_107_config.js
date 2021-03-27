@@ -1,1 +1,1 @@
-var mnemonic = "mix ankle label crawl inherit journey wolf frog mass size bounce parade";
+var mnemonic = "maple sauce galaxy front legend movie large muffin stove syrup beauty tilt";

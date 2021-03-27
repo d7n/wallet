@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit undo will point tongue transfer mutual pulse melt pistol march run";
+var mnemonic = "angle ladder satisfy mushroom survey job matter joke ritual employ any potato";

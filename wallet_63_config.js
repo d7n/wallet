@@ -1,1 +1,1 @@
-var mnemonic = "trick story ugly gorilla trend normal output interest youth lens dentist layer";
+var mnemonic = "vanish start define unable gun venue cliff fine replace explain order fun";

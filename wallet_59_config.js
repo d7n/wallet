@@ -1,1 +1,1 @@
-var mnemonic = "curtain section thunder solve square doctor thrive guard vacant abstract fury sail";
+var mnemonic = "blind between flight raw kite clean illness mistake whisper lemon health sadness";

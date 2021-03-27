@@ -1,1 +1,1 @@
-var mnemonic = "label cannon doll shoot faculty method leopard initial still rifle dress giraffe";
+var mnemonic = "blue radio gauge vibrant dry another broccoli guilt pistol shadow song session";

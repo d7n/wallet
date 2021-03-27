@@ -1,1 +1,1 @@
-var mnemonic = "auto artefact scrub absurd elbow peace clap amused success come frost diesel";
+var mnemonic = "push object wonder dinosaur jacket purity clip neglect surge scorpion tomorrow ski";

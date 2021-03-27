@@ -1,1 +1,1 @@
-var mnemonic = "affair this law curtain person pepper analyst banner unfair exclude diary because";
+var mnemonic = "rookie velvet crumble hidden vague slush decline below bird quote inherit broccoli";

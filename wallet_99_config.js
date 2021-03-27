@@ -1,1 +1,1 @@
-var mnemonic = "view blur cost leg slim flower shine candy jealous talk shiver super";
+var mnemonic = "govern mercy unable wolf output host tape grocery crucial ancient legal annual";

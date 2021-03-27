@@ -1,1 +1,1 @@
-var mnemonic = "soft such mushroom index table reward find fluid chunk income alone once";
+var mnemonic = "ugly cushion alien boost erosion bronze suggest depart cabbage apology nasty setup";

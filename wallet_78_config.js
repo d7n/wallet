@@ -1,1 +1,1 @@
-var mnemonic = "that absent skull please carbon side rail shop shrug fun caught maze";
+var mnemonic = "laugh tip negative below misery swear short angry pelican fog flip help";

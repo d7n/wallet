@@ -1,1 +1,1 @@
-var mnemonic = "emotion random tuition similar catch empower stem patrol awful home dolphin tortoise";
+var mnemonic = "ginger wall exercise inflict juice proud sock orange decrease venue dune grief";

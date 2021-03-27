@@ -1,1 +1,1 @@
-var mnemonic = "rebel autumn fork approve reason admit girl swear judge file brain inch";
+var mnemonic = "toe clerk school citizen vessel habit debate miss trend throw cigar eight";

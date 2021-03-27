@@ -1,1 +1,1 @@
-var mnemonic = "blue abstract salmon spirit attitude illegal nominee replace yard all brain arrive";
+var mnemonic = "kiss bicycle century gloom paper snow relax health slender try tooth stove";

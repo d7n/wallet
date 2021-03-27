@@ -1,1 +1,1 @@
-var mnemonic = "rescue confirm soccer beyond birth quality session bottom empty sign true lawn";
+var mnemonic = "call throw banner mention clutch gain limit kitchen enact earth color boy";

@@ -1,1 +1,1 @@
-var mnemonic = "air cinnamon turkey horror spot step disorder ocean fruit cushion auction truck";
+var mnemonic = "parade imitate protect pond option soup drift come expose athlete record buffalo";

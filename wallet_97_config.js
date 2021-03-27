@@ -1,1 +1,1 @@
-var mnemonic = "average account aware sure pig wild mad slab seven person vote fall";
+var mnemonic = "speed undo number cushion retreat repair proof insane twice turn employ source";

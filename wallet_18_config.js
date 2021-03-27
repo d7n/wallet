@@ -1,1 +1,1 @@
-var mnemonic = "soldier nation chef illegal desk loud abandon sea review yard suffer depend";
+var mnemonic = "nurse hollow admit diary load lawsuit salmon ten welcome lab salad super";

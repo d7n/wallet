@@ -1,1 +1,1 @@
-var mnemonic = "mesh menu head sunset alter certain inquiry tumble damage bullet creek magnet";
+var mnemonic = "gold lunch into saddle option boring scatter scale silly mind urge input";

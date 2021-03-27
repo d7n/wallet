@@ -1,1 +1,1 @@
-var mnemonic = "cycle else gesture calm ensure dog candy immune eye mystery early enemy";
+var mnemonic = "kidney chuckle cupboard need orient subject stay sun nose wrap city guilt";

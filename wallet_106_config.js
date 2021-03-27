@@ -1,1 +1,1 @@
-var mnemonic = "come swift awesome bird rate decrease hard butter empty gun title poem";
+var mnemonic = "drill chair great bamboo oppose prevent daring mail original crystal entire arrest";

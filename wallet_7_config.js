@@ -1,1 +1,1 @@
-var mnemonic = "hawk slight inmate whip farm ghost skin distance sure dutch label profit";
+var mnemonic = "vehicle start drive talk grass salute elbow fetch debate frozen aerobic bridge";

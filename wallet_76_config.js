@@ -1,1 +1,1 @@
-var mnemonic = "stock open comic account pride wise zero parrot pear symptom test trumpet";
+var mnemonic = "kitten innocent egg bubble defense curtain cake spend damp canyon anxiety length";

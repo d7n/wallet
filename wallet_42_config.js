@@ -1,1 +1,1 @@
-var mnemonic = "rescue spare tell winter camp patch concert evidence wrong monitor labor poet";
+var mnemonic = "tent toe salmon scrub year force hollow tuition isolate feel all noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "museum pizza fold october eyebrow pull sock include spray junk nut bird";
+var mnemonic = "episode range arm harvest globe when decline caution exhaust armed decrease hover";

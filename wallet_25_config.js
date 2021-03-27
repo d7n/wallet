@@ -1,1 +1,1 @@
-var mnemonic = "coconut shove trouble panda injury journey drink machine giant hamster any earth";
+var mnemonic = "trash into system network tackle legend decrease lake obtain junk weird always";

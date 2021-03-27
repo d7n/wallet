@@ -1,1 +1,1 @@
-var mnemonic = "crack exercise couch fine return maple goddess sword pencil section quiz eager";
+var mnemonic = "page tourist tortoise crowd canal toe sock eyebrow screen solve exhaust salad";

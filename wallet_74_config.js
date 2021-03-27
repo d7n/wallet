@@ -1,1 +1,1 @@
-var mnemonic = "bargain cabin bitter soup nephew flame junk eager bunker enlist exist bomb";
+var mnemonic = "glide south episode piano govern ceiling rubber shuffle seat hurdle salute napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "candy rural sort area orchard minor tomato soldier arrow rally atom rice";
+var mnemonic = "lion twelve weekend below abuse velvet impact key maze silly multiply push";

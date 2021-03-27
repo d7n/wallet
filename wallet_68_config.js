@@ -1,1 +1,1 @@
-var mnemonic = "napkin earth rib alert reunion fade matrix stool relax two tumble remain";
+var mnemonic = "exhaust spin crash edit boat fabric visa thing scare light ladder gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "stick earn client turtle you cage estate jeans heavy ivory text belt";
+var mnemonic = "approve true phone fossil knee cook plate voyage junior power hello under";

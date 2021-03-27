@@ -1,1 +1,1 @@
-var mnemonic = "client chair donate order region wink boil bulk nasty mirror hidden hammer";
+var mnemonic = "cage cool jazz sausage mix minute letter twelve fringe winner zero door";

@@ -1,1 +1,1 @@
-var mnemonic = "kick tenant coin describe bridge liquid wild glow quiz gift vehicle riot";
+var mnemonic = "gravity dolphin agent olympic magnet miracle grow enlist trial hint fringe short";

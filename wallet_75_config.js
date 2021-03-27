@@ -1,1 +1,1 @@
-var mnemonic = "ocean one assume birth fan toast cabbage lion alcohol depth science total";
+var mnemonic = "used box envelope demand equip dinosaur million cool bunker legal cabbage sorry";

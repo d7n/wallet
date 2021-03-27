@@ -1,1 +1,1 @@
-var mnemonic = "boost then alpha fitness unlock enact equal wool prosper host race empower";
+var mnemonic = "load notice initial ceiling theory monster voyage giggle meadow general trap all";

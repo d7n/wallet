@@ -1,1 +1,1 @@
-var mnemonic = "filter better hand fortune elite panic custom unfold wall firm grape decline";
+var mnemonic = "spend divide little best ensure alpha found crawl slice grain pelican among";

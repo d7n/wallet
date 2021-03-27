@@ -1,1 +1,1 @@
-var mnemonic = "valve rate auto drive wave chair already mass rotate rival bundle fantasy";
+var mnemonic = "yellow above casual idea glue bacon token kitten push talent valve float";

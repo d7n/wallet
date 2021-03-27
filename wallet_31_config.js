@@ -1,1 +1,1 @@
-var mnemonic = "rival talk peanut wood elephant what waste misery light beef three field";
+var mnemonic = "shadow hotel shaft search broken injury receive arrive penalty portion language art";

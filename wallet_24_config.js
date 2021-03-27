@@ -1,1 +1,1 @@
-var mnemonic = "retreat solve spell flame runway cabbage village royal menu crouch client mansion";
+var mnemonic = "battle name student trigger sniff glove advice surprise impact priority aerobic pony";

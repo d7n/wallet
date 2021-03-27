@@ -1,1 +1,1 @@
-var mnemonic = "web pelican stock cloud photo capable glad crucial universe reunion clerk burst";
+var mnemonic = "useful village north moment hard visit unusual reopen pigeon bar filter click";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze empower sword boss describe minor audit dynamic average jaguar fix warm";
+var mnemonic = "dutch picture explain join diet dry air loan slogan express snake jelly";

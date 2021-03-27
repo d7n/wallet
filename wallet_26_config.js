@@ -1,1 +1,1 @@
-var mnemonic = "oak segment social regret frog cup budget tiny miracle panic satoshi brief";
+var mnemonic = "virus raise best deputy equip citizen canvas trash burst earth mask output";

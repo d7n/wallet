@@ -1,1 +1,1 @@
-var mnemonic = "audit connect pact wet source bulb balcony photo delay thunder ride blanket";
+var mnemonic = "fossil gorilla silly protect disease piece subject approve ranch glare into bike";

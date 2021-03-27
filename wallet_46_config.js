@@ -1,1 +1,1 @@
-var mnemonic = "blush income place sniff dawn oven robot quantum total version anchor gallery";
+var mnemonic = "hour purchase friend soccer assume receive kite tag deny orient kid audit";

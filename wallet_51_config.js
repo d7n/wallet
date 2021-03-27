@@ -1,1 +1,1 @@
-var mnemonic = "march visual air destroy stock legend science large outside army alarm coyote";
+var mnemonic = "endless marble wedding tip scatter visual mushroom odor rally magnet surge achieve";

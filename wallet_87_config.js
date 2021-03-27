@@ -1,1 +1,1 @@
-var mnemonic = "tent soon hair kidney bridge spatial million trial turn auction art fish";
+var mnemonic = "require desk trim erase door junk pair sorry organ current run idle";

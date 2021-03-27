@@ -1,1 +1,1 @@
-var mnemonic = "creek into impact jacket poet whale artist glue funny empower hamster require";
+var mnemonic = "tank obvious fence panther aunt fiscal office sugar fatal royal gasp sight";

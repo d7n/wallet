@@ -1,1 +1,1 @@
-var mnemonic = "install leader nose cancel uncle fury oak olive junk situate trash genuine";
+var mnemonic = "inch strong panda opera adult nephew purpose noise nephew absent cube multiply";

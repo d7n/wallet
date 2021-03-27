@@ -1,1 +1,1 @@
-var mnemonic = "spring exchange duty miss weird effort harvest street history repeat series diet";
+var mnemonic = "smoke soda marble film just dirt midnight layer vendor labor hundred ordinary";

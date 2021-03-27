@@ -1,1 +1,1 @@
-var mnemonic = "cross debris interest walk pride owner diesel void bar erode kid repeat";
+var mnemonic = "render material ill expire truth address silver now rural marine wear fold";

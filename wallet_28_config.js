@@ -1,1 +1,1 @@
-var mnemonic = "drift code crater advance web emotion audit bag motor option solar flush";
+var mnemonic = "admit upper rocket exit unique local garbage carry income patch fashion worth";

@@ -1,1 +1,1 @@
-var mnemonic = "square bonus absent dose sauce enroll doll crater practice hazard reason nest";
+var mnemonic = "away possible agree civil soldier permit journey visit desert amount call man";

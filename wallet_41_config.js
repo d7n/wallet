@@ -1,1 +1,1 @@
-var mnemonic = "fetch sick enemy jaguar milk stuff correct expire bonus pupil pole public";
+var mnemonic = "range increase vocal canyon culture shallow unit horse slot neither dose giggle";

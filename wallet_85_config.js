@@ -1,1 +1,1 @@
-var mnemonic = "acid bleak when ginger detail manual cook odor nature figure spirit lamp";
+var mnemonic = "right relief march palace symptom doll bulk total matrix uphold trap amused";

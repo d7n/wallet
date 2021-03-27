@@ -1,1 +1,1 @@
-var mnemonic = "frost struggle extend rent three garbage again under buddy blouse fluid since";
+var mnemonic = "bring ten boost cannon mammal perfect busy sunset gate segment breeze frost";

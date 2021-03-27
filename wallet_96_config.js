@@ -1,1 +1,1 @@
-var mnemonic = "stick weather spice nation lake among exhibit under wall advice clip digital";
+var mnemonic = "erosion stadium burger gold average wife spend zebra tape brand scout insect";

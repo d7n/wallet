@@ -1,1 +1,1 @@
-var mnemonic = "autumn soap amount trophy topic scissors bulk biology matrix color chief bind";
+var mnemonic = "harsh custom voice burst dust leg device cream lonely gym edge improve";

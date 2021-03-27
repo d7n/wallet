@@ -1,1 +1,1 @@
-var mnemonic = "jazz sleep treat cram hair below knife carpet enforce artefact jewel virus";
+var mnemonic = "special ridge tonight letter coach jungle genuine cruel remember scrap bottom dismiss";

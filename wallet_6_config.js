@@ -1,1 +1,1 @@
-var mnemonic = "plug inform pact cushion enemy aspect paddle flash rib mushroom census almost";
+var mnemonic = "floor brother window chuckle act section forum change jump verb food ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "inside unfair earth december biology either meat ensure ostrich balcony material knock";
+var mnemonic = "rubber head team frog doll snow fancy spider park genius outdoor virus";

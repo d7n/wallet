@@ -1,1 +1,1 @@
-var mnemonic = "level scrub biology margin unfair chapter volume maximum frequent life lawn estate";
+var mnemonic = "forum happy claw crop assume alpha ready hungry winner forget scene confirm";

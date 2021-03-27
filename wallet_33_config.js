@@ -1,1 +1,1 @@
-var mnemonic = "toast steel jazz torch cheese switch immense ahead arena wait visit can";
+var mnemonic = "alarm pattern basket oblige barely anxiety master hard legal yard shop decorate";

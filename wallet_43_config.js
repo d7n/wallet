@@ -1,1 +1,1 @@
-var mnemonic = "coffee cancel airport sense parent keep ribbon during pony suspect hour appear";
+var mnemonic = "fence route child myself language must mandate erosion begin glory pumpkin message";

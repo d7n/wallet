@@ -1,1 +1,1 @@
-var mnemonic = "rhythm file voyage climb bench reason lobster clown treat dog hazard increase";
+var mnemonic = "truly habit kiss melt weapon purity execute forward novel dutch roof help";

@@ -1,1 +1,1 @@
-var mnemonic = "oxygen trial bomb fresh page brass junk eight dynamic ten crane pole";
+var mnemonic = "photo session develop vivid avocado noble bid saddle dwarf pistol olive silver";

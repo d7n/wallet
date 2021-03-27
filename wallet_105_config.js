@@ -1,1 +1,1 @@
-var mnemonic = "hole home blade yard desk plate staff amount hero believe scorpion define";
+var mnemonic = "weapon betray now sausage print media type twelve prosper master faculty shed";

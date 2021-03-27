@@ -1,1 +1,1 @@
-var mnemonic = "spatial slogan canyon pottery liquid luxury place table fame pepper alpha tuna";
+var mnemonic = "mandate arctic cattle engine foam swear satoshi wheat pill film swear define";

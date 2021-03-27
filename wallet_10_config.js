@@ -1,1 +1,1 @@
-var mnemonic = "immense liberty stick stuff cotton float say steak health canyon ritual essence";
+var mnemonic = "pen script actual tape script twice sea lemon coconut gift agree test";

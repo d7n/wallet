@@ -1,1 +1,1 @@
-var mnemonic = "grass magic disagree tooth reopen clinic circle truth below image play radio";
+var mnemonic = "tornado cry term bounce pave hobby add over alarm enemy social real";

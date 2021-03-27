@@ -1,1 +1,1 @@
-var mnemonic = "person song east head soup diesel shiver asthma blood elite afraid farm";
+var mnemonic = "desert suggest lonely manual discover title iron below settle lift uncle fragile";

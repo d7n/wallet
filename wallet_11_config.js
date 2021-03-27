@@ -1,1 +1,1 @@
-var mnemonic = "real eye just attend quarter act snow element zone bottom rich beyond";
+var mnemonic = "bounce imitate poet blast stick false common capable rib spend label jacket";

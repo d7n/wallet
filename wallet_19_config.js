@@ -1,1 +1,1 @@
-var mnemonic = "erase vocal tonight woman answer affair rival situate roof elephant all network";
+var mnemonic = "garment narrow episode sad wire wisdom asset wise invest tip erode odor";

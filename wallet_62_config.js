@@ -1,1 +1,1 @@
-var mnemonic = "light check laundry veteran split portion pelican choice feel merge salt promote";
+var mnemonic = "negative kiwi olympic ripple welcome embark cycle make scissors border clever surprise";

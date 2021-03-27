@@ -1,1 +1,1 @@
-var mnemonic = "assist february unusual lab setup wink guilt plug veteran pass sustain confirm";
+var mnemonic = "flee input tobacco panther feed bracket tone warfare ocean novel address nurse";

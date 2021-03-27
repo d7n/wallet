@@ -1,1 +1,1 @@
-var mnemonic = "tired social polar topic crazy actor atom eye copy milk gain mystery";
+var mnemonic = "canyon day tongue market blanket permit treat devote review brass story enroll";

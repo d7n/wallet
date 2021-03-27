@@ -1,1 +1,1 @@
-var mnemonic = "estate snap industry armed arrest imitate good fresh tray hen helmet label";
+var mnemonic = "measure lemon list food share talk ensure mail ketchup salute catch pen";

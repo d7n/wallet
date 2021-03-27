@@ -1,1 +1,1 @@
-var mnemonic = "family urban refuse depend strategy pull act rigid average roof crazy flush";
+var mnemonic = "bargain nice reduce civil any rice giant skill want session giraffe emerge";

@@ -1,1 +1,1 @@
-var mnemonic = "become invite way spirit farm crush pact network cigar review soap dentist";
+var mnemonic = "net stock undo first mouse seed ordinary fury right equip random night";

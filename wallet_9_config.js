@@ -1,1 +1,1 @@
-var mnemonic = "tissue rural enroll arrive bleak fancy labor crush oxygen social sleep assist";
+var mnemonic = "ozone pitch echo parent drastic bridge garment kick thunder cradle motor damage";

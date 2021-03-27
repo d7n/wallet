@@ -1,1 +1,1 @@
-var mnemonic = "knee margin pilot tooth more absent market teach bike bargain guitar fame";
+var mnemonic = "kangaroo raven obscure paper boost afford sleep dolphin receive april spice pill";

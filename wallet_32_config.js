@@ -1,1 +1,1 @@
-var mnemonic = "harsh all mirror holiday curious sample oblige evolve history arctic oval clean";
+var mnemonic = "mammal lecture beyond ethics service slender mix enforce access fatigue seven napkin";

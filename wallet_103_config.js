@@ -1,1 +1,1 @@
-var mnemonic = "wise steak reject economy planet length spray gadget betray sustain day category";
+var mnemonic = "harsh desert learn welcome drama laundry youth cherry dust wasp number hurt";

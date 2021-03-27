@@ -1,1 +1,1 @@
-var mnemonic = "spoon wine replace device salon wall taste horn stereo theme tourist issue";
+var mnemonic = "gate priority hope butter taste ripple wall load glass vague lucky subject";

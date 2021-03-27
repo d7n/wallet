@@ -1,1 +1,1 @@
-var mnemonic = "service reason garden word peace park pig fence process movie mean often";
+var mnemonic = "ill other chest mixed turkey large supply cram solution twelve this lady";

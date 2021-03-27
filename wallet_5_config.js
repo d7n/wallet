@@ -1,1 +1,1 @@
-var mnemonic = "duck demise theme vague vendor festival client jelly october gaze zero combine";
+var mnemonic = "feel torch live legend enroll feel pyramid punch unlock plunge world author";

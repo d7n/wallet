@@ -1,1 +1,1 @@
-var mnemonic = "simple dirt decide heart below fuel thought alcohol science conduct tomorrow honey";
+var mnemonic = "sign essence sand disease glove south age million state advice tonight tuna";

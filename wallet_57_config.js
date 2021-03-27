@@ -1,1 +1,1 @@
-var mnemonic = "dismiss piece benefit ozone thunder police level method table junior senior heart";
+var mnemonic = "design main decorate arena urban wealth panel treat imitate bread issue shiver";

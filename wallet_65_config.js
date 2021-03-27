@@ -1,1 +1,1 @@
-var mnemonic = "odor basket spoon wrong earn soon swift notable patrol gospel gorilla tattoo";
+var mnemonic = "try party knock raccoon sea rent solution metal sweet ecology net cliff";

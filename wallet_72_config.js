@@ -1,1 +1,1 @@
-var mnemonic = "satoshi wait buffalo mesh faint miss spot shop coach pilot wrist jump";
+var mnemonic = "resemble shrimp ability vessel deny sniff goat kiwi brand canal session pattern";

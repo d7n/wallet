@@ -1,1 +1,1 @@
-var mnemonic = "real system wife chalk car accuse oyster infant notable pulp market mechanic";
+var mnemonic = "mask toy enlist will strike oak bless category grape treat idle seek";

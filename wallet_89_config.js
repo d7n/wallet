@@ -1,1 +1,1 @@
-var mnemonic = "lend biology bleak odor junior begin rare unlock odor wonder school ball";
+var mnemonic = "travel current analyst citizen tank visa zebra injury now spatial oyster vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "hawk judge project buffalo boring ring velvet undo want merry long angry";
+var mnemonic = "rare skate expose language jump impact female trap clever guide energy diamond";
