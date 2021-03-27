@@ -1,1 +1,1 @@
-var mnemonic = "figure open inherit enact harvest uncover civil hurry hobby you attract day";
+var mnemonic = "venue rare that abstract angle connect private party rib danger plastic wide";

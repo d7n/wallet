@@ -1,1 +1,1 @@
-var mnemonic = "meat next prosper shaft disease scout verify cherry avocado deny lab bulb";
+var mnemonic = "clump crime explain path push silk fly globe unfold project appear buddy";

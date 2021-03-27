@@ -1,1 +1,1 @@
-var mnemonic = "vault cat minor health all wave aisle kidney exact lava weapon early";
+var mnemonic = "absorb exile coin oil together era credit industry answer bicycle again usual";

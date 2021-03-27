@@ -1,1 +1,1 @@
-var mnemonic = "melt fee gun best drop bind earth critic uniform tower federal develop";
+var mnemonic = "thing champion snow develop dinosaur grunt usage drift payment dwarf sudden liar";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive cattle drum laugh between need parent tip lab connect ignore camp";
+var mnemonic = "hello funny ski color glass finish close clay gadget also auto wonder";

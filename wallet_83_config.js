@@ -1,1 +1,1 @@
-var mnemonic = "fresh monkey science month lemon satoshi rhythm equal always census hurdle slot";
+var mnemonic = "blame camp share visit banner shuffle hour open appear term mail mobile";

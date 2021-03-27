@@ -1,1 +1,1 @@
-var mnemonic = "eager ranch metal nest length inside ethics raven illegal firm nature adapt";
+var mnemonic = "noise program nation educate cereal junk fox grass grow main box exclude";

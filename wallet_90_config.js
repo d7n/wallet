@@ -1,1 +1,1 @@
-var mnemonic = "maze illness drink federal race shield squeeze boil liar brass begin artefact";
+var mnemonic = "acquire cradle tonight half often spawn must snack mind flock visual civil";

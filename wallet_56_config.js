@@ -1,1 +1,1 @@
-var mnemonic = "foil decide effort grain reject unknown gun fossil clutch lion mutual error";
+var mnemonic = "detect face sustain blade theory pilot because exotic direct gather suit soldier";

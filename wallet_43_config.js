@@ -1,1 +1,1 @@
-var mnemonic = "reward remind disorder speak hover defense define chest neglect scout lock recycle";
+var mnemonic = "caution brief gesture guess proof army little traffic sing bird squirrel plastic";

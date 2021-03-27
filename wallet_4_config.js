@@ -1,1 +1,1 @@
-var mnemonic = "wine trip eye glove network lottery model pass family cause bachelor employ";
+var mnemonic = "midnight chapter jacket spirit sand churn nuclear current oppose expect say dish";

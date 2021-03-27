@@ -1,1 +1,1 @@
-var mnemonic = "lady dose embody gain opera bunker correct sense note coach bitter sun";
+var mnemonic = "crumble very slide whip carry under naive sleep already monkey finger wealth";

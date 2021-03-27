@@ -1,1 +1,1 @@
-var mnemonic = "bean prison lab act card census roof cinnamon wash next note shoulder";
+var mnemonic = "keep sorry track fee bulb radar mention alpha charge frog hair width";

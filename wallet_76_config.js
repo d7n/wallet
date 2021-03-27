@@ -1,1 +1,1 @@
-var mnemonic = "hurry winner mosquito sadness vivid toy side never dad asset okay relief";
+var mnemonic = "tilt humor carbon aspect skill solar check prepare enough nation humble slender";

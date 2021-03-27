@@ -1,1 +1,1 @@
-var mnemonic = "acid attend sign amused solution creek escape vacuum fluid parent close forum";
+var mnemonic = "shock blouse gift brisk warm bright afraid luxury team wolf smooth way";

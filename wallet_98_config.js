@@ -1,1 +1,1 @@
-var mnemonic = "exchange supreme spy twelve expose venture outside estate pledge moment dutch indicate";
+var mnemonic = "borrow glory divide impact nuclear depart trim vacuum helmet upgrade document erosion";

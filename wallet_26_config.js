@@ -1,1 +1,1 @@
-var mnemonic = "squeeze issue genuine mimic holiday area radio sausage dinner kitchen stem price";
+var mnemonic = "orbit trigger doctor purse present wide trouble salon avocado cheap today equip";

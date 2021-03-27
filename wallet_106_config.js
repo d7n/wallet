@@ -1,1 +1,1 @@
-var mnemonic = "rug model meadow scene awful silver mango clever start sentence timber waste";
+var mnemonic = "title ready slight half spread fatigue organ reveal deposit bamboo slim budget";

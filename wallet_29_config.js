@@ -1,1 +1,1 @@
-var mnemonic = "differ suffer damage photo invite dragon normal mandate lunar neutral amateur lens";
+var mnemonic = "sponsor jazz device lumber health purchase scatter settle illness game hospital elephant";

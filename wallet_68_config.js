@@ -1,1 +1,1 @@
-var mnemonic = "loan shoulder someone soap grab soon dry snow treat bone bean lake";
+var mnemonic = "monster hill cost fence bar payment pretty bless talent biology rely donor";

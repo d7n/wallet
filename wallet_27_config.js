@@ -1,1 +1,1 @@
-var mnemonic = "print silly tube elite volcano shrug portion toss link lake canyon vapor";
+var mnemonic = "law brand now tag model camera celery pelican obscure wasp birth phrase";

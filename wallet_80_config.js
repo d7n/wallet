@@ -1,1 +1,1 @@
-var mnemonic = "cattle raven lumber abandon someone bitter diary spin mechanic frown price gorilla";
+var mnemonic = "suspect any present okay welcome split box sun grape tiny until crouch";

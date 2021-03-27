@@ -1,1 +1,1 @@
-var mnemonic = "caught drop naive middle infant arch current report add menu deer apart";
+var mnemonic = "mesh sunny spatial throw coil alter decide chase cereal arm palace disagree";

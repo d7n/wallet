@@ -1,1 +1,1 @@
-var mnemonic = "circle dinner permit oyster mixed heavy tonight eagle love coil broccoli supreme";
+var mnemonic = "region salad orphan vendor property argue glad gorilla crucial upgrade planet speak";

@@ -1,1 +1,1 @@
-var mnemonic = "purity hand bicycle matter salt intact cheap wife chalk scout summer cinnamon";
+var mnemonic = "alter neither mimic hundred crew glance option consider century ripple flash dolphin";

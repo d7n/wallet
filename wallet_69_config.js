@@ -1,1 +1,1 @@
-var mnemonic = "tragic example sign ozone sort arctic swear noise pioneer mandate host page";
+var mnemonic = "anchor second impact brick trumpet kick famous future middle inmate lottery visa";

@@ -1,1 +1,1 @@
-var mnemonic = "have shed ripple flame door uncle ripple travel spread hedgehog year deliver";
+var mnemonic = "fat expand swap help release lunar toss conduct link blood rough egg";

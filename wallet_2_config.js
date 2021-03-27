@@ -1,1 +1,1 @@
-var mnemonic = "lunar warrior loan exile attack choice enter escape asthma inherit blast wool";
+var mnemonic = "price repeat design banana garage guide cliff busy crazy aisle legend giant";

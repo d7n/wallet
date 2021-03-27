@@ -1,1 +1,1 @@
-var mnemonic = "salon current cradle cement crowd gift forget base rescue width nasty trouble";
+var mnemonic = "road boil minimum emotion organ tonight evil skull admit odor pudding suffer";

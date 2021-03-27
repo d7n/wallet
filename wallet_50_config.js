@@ -1,1 +1,1 @@
-var mnemonic = "amazing execute connect reunion top profit version fashion move brass phone west";
+var mnemonic = "siege hurry cable cool donate define arena disagree device purity interest organ";

@@ -1,1 +1,1 @@
-var mnemonic = "lemon liberty coast neglect opinion card trophy giant bubble erode source pizza";
+var mnemonic = "shy velvet arrest case swing art senior oil install love engage digital";

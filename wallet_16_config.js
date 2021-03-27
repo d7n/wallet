@@ -1,1 +1,1 @@
-var mnemonic = "mosquito physical govern reform gap thumb innocent cruise river pill want economy";
+var mnemonic = "liquid open agree sure age giant ring fringe debris debate vessel firm";

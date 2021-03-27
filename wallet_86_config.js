@@ -1,1 +1,1 @@
-var mnemonic = "blouse replace silver cake proof depart dilemma leopard fall wool hobby cigar";
+var mnemonic = "pear quality brave speed future town endorse escape solve web stairs forget";

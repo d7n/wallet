@@ -1,1 +1,1 @@
-var mnemonic = "crunch retreat fox pupil tell essay spot curious monkey material senior foam";
+var mnemonic = "need mobile sheriff scare spirit dove mass unfold boil patient fortune exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "palm vague unfair level code doll repair together among raw token text";
+var mnemonic = "apology occur west divert puppy chimney hedgehog lawsuit chase erosion tribe slow";

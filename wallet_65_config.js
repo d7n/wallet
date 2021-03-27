@@ -1,1 +1,1 @@
-var mnemonic = "eager series cruise aim oppose vehicle stamp source stool ankle aspect season";
+var mnemonic = "pear original wall popular wrong erase wisdom science leaf soccer amateur cram";

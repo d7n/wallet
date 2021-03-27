@@ -1,1 +1,1 @@
-var mnemonic = "hen gas push claw country diagram measure crash horn owner village base";
+var mnemonic = "garment bike inner present hidden this good tonight present coconut remain erosion";

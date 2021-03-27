@@ -1,1 +1,1 @@
-var mnemonic = "plastic kite airport mail title symbol execute survey grocery angle congress happy";
+var mnemonic = "describe bronze hawk guilt acid nerve verify gentle estate toy sign mystery";

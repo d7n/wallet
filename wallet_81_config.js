@@ -1,1 +1,1 @@
-var mnemonic = "turn immune lemon crawl border toast peanut defense weapon comfort trouble wagon";
+var mnemonic = "hammer giggle match february snack deer stick butter violin grow slogan guard";

@@ -1,1 +1,1 @@
-var mnemonic = "truth emerge sorry thumb student cluster glimpse enrich outdoor movie require clarify";
+var mnemonic = "city spell calm accident mosquito jelly crawl child tape nephew slogan output";

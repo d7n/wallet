@@ -1,1 +1,1 @@
-var mnemonic = "retreat grape aware swim armor similar monitor clog question saddle master virus";
+var mnemonic = "furnace hope first cradle brother neglect shiver stable tower earn identify cram";

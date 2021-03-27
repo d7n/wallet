@@ -1,1 +1,1 @@
-var mnemonic = "rack museum sell claw royal velvet biology derive zero valve coral vanish";
+var mnemonic = "economy undo stone dragon example hammer render furnace alter above flush whisper";

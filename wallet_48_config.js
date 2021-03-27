@@ -1,1 +1,1 @@
-var mnemonic = "try tell gloom panic swear crush gallery foam modify destroy tuna curious";
+var mnemonic = "panda crisp hour spy eternal derive turtle census attend oak since rail";

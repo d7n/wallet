@@ -1,1 +1,1 @@
-var mnemonic = "twelve inch festival shed concert foot skate you hunt stamp element add";
+var mnemonic = "hungry mixture energy spray wash retire industry injury december flat change life";

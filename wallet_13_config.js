@@ -1,1 +1,1 @@
-var mnemonic = "have emotion increase refuse caution cradle oblige muffin describe minute basket before";
+var mnemonic = "raise hold firm injury poem anchor tool adult airport mind news window";

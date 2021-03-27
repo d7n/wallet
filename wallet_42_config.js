@@ -1,1 +1,1 @@
-var mnemonic = "merit actual ensure critic income habit lucky dose venture warfare quality million";
+var mnemonic = "tone coil pride punch rhythm between forest cover maple plate world oval";

@@ -1,1 +1,1 @@
-var mnemonic = "blast region retreat comfort ridge pelican camp detail sunny govern valley liberty";
+var mnemonic = "custom regular lazy opinion high steak begin work car lend chair erosion";

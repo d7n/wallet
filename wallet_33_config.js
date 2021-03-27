@@ -1,1 +1,1 @@
-var mnemonic = "describe review crash heavy system layer fetch promote current this pride slim";
+var mnemonic = "heart scrub yellow meadow lens chuckle obey sample federal soul shop join";

@@ -1,1 +1,1 @@
-var mnemonic = "father shoot able protect canyon discover program gas island gather boat case";
+var mnemonic = "maximum crush humor flee enable humor shock path benefit matter twin town";

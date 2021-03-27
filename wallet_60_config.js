@@ -1,1 +1,1 @@
-var mnemonic = "scale side buzz spirit now escape steel garbage dance foil nature manual";
+var mnemonic = "width error ethics satisfy maid parent defense into solve capable blouse flat";

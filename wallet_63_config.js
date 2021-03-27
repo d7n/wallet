@@ -1,1 +1,1 @@
-var mnemonic = "tunnel dutch mom eye mirror energy nerve smooth burst square upon off";
+var mnemonic = "ridge abuse between logic riot media capable sting merry design injury cabbage";

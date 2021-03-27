@@ -1,1 +1,1 @@
-var mnemonic = "ranch lonely arrive dragon endorse favorite notable staff supply board romance saddle";
+var mnemonic = "genre glass slam magic flower sport oxygen couple unit improve false must";

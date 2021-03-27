@@ -1,1 +1,1 @@
-var mnemonic = "smile raise found easy razor render area display lazy sister couch asset";
+var mnemonic = "wine bench adapt squirrel universe slam extend sunset twin debate harbor critic";

@@ -1,1 +1,1 @@
-var mnemonic = "car person immense situate obvious illness mercy spare entire impose pass police";
+var mnemonic = "stem ten way height clinic doll solar suggest giggle front loud inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce index sweet apart river course coast text hospital place security document";
+var mnemonic = "drop pet glue exchange inside grow brown boy patch dwarf youth fragile";

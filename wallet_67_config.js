@@ -1,1 +1,1 @@
-var mnemonic = "agree secret loud found usual gain dragon force snow better broccoli bomb";
+var mnemonic = "skin potato border lounge uniform audit select casual plate next chicken sphere";

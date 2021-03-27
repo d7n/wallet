@@ -1,1 +1,1 @@
-var mnemonic = "hunt pledge aerobic hair flock reunion end ugly valley ill index swap";
+var mnemonic = "tuition oxygen nurse galaxy flush system hood law inch inch inform potato";

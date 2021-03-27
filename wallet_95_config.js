@@ -1,1 +1,1 @@
-var mnemonic = "quality ribbon cushion rice chalk price push bus habit volcano caught easy";
+var mnemonic = "say kind dance surround feel advice egg hazard ripple design athlete save";

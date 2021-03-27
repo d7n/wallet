@@ -1,1 +1,1 @@
-var mnemonic = "cute hospital green spawn vital embody primary whisper grocery fine stairs swim";
+var mnemonic = "hold ribbon promote furnace rack illegal primary congress diesel mushroom genre cup";

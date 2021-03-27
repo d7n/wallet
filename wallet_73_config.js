@@ -1,1 +1,1 @@
-var mnemonic = "guess urban horror cradle habit spread social amused unable session sugar employ";
+var mnemonic = "guitar note decorate lemon gym miss proud giant badge face enrich write";

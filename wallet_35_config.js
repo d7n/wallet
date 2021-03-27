@@ -1,1 +1,1 @@
-var mnemonic = "monkey mushroom victory mind story myself jazz movie emotion address design balcony";
+var mnemonic = "bean seminar bunker aunt buffalo document now duck misery gap deer word";

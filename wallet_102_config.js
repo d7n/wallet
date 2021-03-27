@@ -1,1 +1,1 @@
-var mnemonic = "melody ensure inner plate metal park agent improve loan arrest height goat";
+var mnemonic = "manage melt bone duck boat diamond gate mimic reflect author again access";

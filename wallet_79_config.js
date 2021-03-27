@@ -1,1 +1,1 @@
-var mnemonic = "churn public novel dog cushion west lens wise usage clinic nephew empower";
+var mnemonic = "jaguar slogan venture act elite this pen pause double what myself traffic";

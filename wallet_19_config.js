@@ -1,1 +1,1 @@
-var mnemonic = "upset tissue obtain scene icon loan bus attack shadow track party boost";
+var mnemonic = "much script blame slush lunch vital impose host grocery toddler again carry";

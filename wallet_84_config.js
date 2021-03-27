@@ -1,1 +1,1 @@
-var mnemonic = "clap appear unable stereo finger mesh gospel robust tiny board sell caution";
+var mnemonic = "omit mushroom plunge pupil veteran exist drum turkey add common across inform";

@@ -1,1 +1,1 @@
-var mnemonic = "always burst multiply museum icon object glance scout unknown habit cricket fuel";
+var mnemonic = "spawn valid pumpkin picnic helmet desk apology arrest crouch gas day universe";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing miracle suggest obscure swap brown lazy load hotel trick addict floor";
+var mnemonic = "paper clown flavor organ music hockey curve tomorrow tell reflect glimpse curious";

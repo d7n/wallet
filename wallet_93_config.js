@@ -1,1 +1,1 @@
-var mnemonic = "topple high creek road version act sword noodle snake tongue laptop rocket";
+var mnemonic = "mother sea please blame duck broccoli enroll wrestle ignore salon volume snake";

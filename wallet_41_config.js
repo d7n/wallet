@@ -1,1 +1,1 @@
-var mnemonic = "luggage endorse unfair stand angle multiply final wide assist buyer catalog illness";
+var mnemonic = "butter alter shed sketch slender exotic fabric naive clay frog face guard";

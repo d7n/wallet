@@ -1,1 +1,1 @@
-var mnemonic = "menu library elbow dismiss glide start casino neglect announce tortoise album spin";
+var mnemonic = "episode item wreck vapor virtual kind fit rely cool much baby small";

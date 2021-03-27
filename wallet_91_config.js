@@ -1,1 +1,1 @@
-var mnemonic = "clip tongue improve sentence region crack response hawk deposit dutch develop suffer";
+var mnemonic = "unfair village town demand remove april garment party fantasy trap noise repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato lobster fragile program trim way survey leopard undo bench car display";
+var mnemonic = "grief afford sea planet shoot noise proof smart about retreat crazy crop";

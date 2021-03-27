@@ -1,1 +1,1 @@
-var mnemonic = "crunch tilt deny mystery mountain accuse enemy easy rookie tongue tunnel bamboo";
+var mnemonic = "cruise walnut island gather west mixture egg seven fine general device olympic";

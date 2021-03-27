@@ -1,1 +1,1 @@
-var mnemonic = "just observe float error cube grid answer melody reunion tent smoke push";
+var mnemonic = "shove lumber bonus again explain occur stay gadget noble snow apart kingdom";

@@ -1,1 +1,1 @@
-var mnemonic = "tray truck shield sudden wide bacon sample essay knock flip gun friend";
+var mnemonic = "hammer convince mountain squeeze skate act economy recycle tail raw rescue upset";

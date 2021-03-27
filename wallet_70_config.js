@@ -1,1 +1,1 @@
-var mnemonic = "jacket over bring banner slab ozone tennis dismiss tornado power ocean skill";
+var mnemonic = "seat error industry copper prize man chapter power grace senior female say";

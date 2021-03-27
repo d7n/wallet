@@ -1,1 +1,1 @@
-var mnemonic = "side garlic trouble zone comic mobile lab cart torch butter chicken napkin";
+var mnemonic = "drill illegal umbrella adjust adapt fiscal copy chair awake frog blood crazy";

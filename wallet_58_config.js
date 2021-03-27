@@ -1,1 +1,1 @@
-var mnemonic = "stable scrub afraid curve evoke fence bacon galaxy quantum brush story gas";
+var mnemonic = "excite enable service zebra high awake swap actor escape diagram observe industry";

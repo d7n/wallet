@@ -1,1 +1,1 @@
-var mnemonic = "expand civil plug urban subway remain riot library bleak grape weapon ranch";
+var mnemonic = "mansion define exercise bid tourist sniff save major turkey build harsh boat";

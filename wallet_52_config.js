@@ -1,1 +1,1 @@
-var mnemonic = "crazy theme produce grow sun black evoke uphold fault sniff quantum surround";
+var mnemonic = "wife age little cake dog response lawsuit output hundred ride original allow";

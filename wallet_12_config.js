@@ -1,1 +1,1 @@
-var mnemonic = "guess camera hobby income swap leave mansion wagon salmon sick daughter excite";
+var mnemonic = "usage quick merry december picture ask error cave auto phrase adult distance";

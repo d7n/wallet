@@ -1,1 +1,1 @@
-var mnemonic = "copper eyebrow media lounge fluid text provide ship equip wear venue circle";
+var mnemonic = "volcano ten apple lobster opinion mesh script vacant sort nerve favorite response";

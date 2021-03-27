@@ -1,1 +1,1 @@
-var mnemonic = "danger group parrot impose amount small urban review cement avoid increase cherry";
+var mnemonic = "ladder cover gaze elegant news provide omit awkward fruit write april end";

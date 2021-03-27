@@ -1,1 +1,1 @@
-var mnemonic = "virtual expect diagram plunge symptom defy about alter ritual process pilot true";
+var mnemonic = "attend require pair brief fancy path library broccoli test town expose model";

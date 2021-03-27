@@ -1,1 +1,1 @@
-var mnemonic = "net garment fantasy time exact spare fabric swallow trumpet glare jar hurt";
+var mnemonic = "ugly notable combine arrow fault inhale vintage soap hammer salon sketch silk";

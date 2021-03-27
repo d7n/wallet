@@ -1,1 +1,1 @@
-var mnemonic = "benefit drama history shop wash force laugh rebel fame grunt atom torch";
+var mnemonic = "collect primary ostrich tennis clock broken siren target maze glue danger flash";

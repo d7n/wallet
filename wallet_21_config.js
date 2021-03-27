@@ -1,1 +1,1 @@
-var mnemonic = "domain wrist degree refuse capital velvet kick record hurt pipe unusual meadow";
+var mnemonic = "tag winter decide electric hammer fluid angry taste heart ceiling spoon cactus";

@@ -1,1 +1,1 @@
-var mnemonic = "sail depend retreat hotel arena island child success purse ecology lava theme";
+var mnemonic = "fringe month size famous early talent scheme poem season chef hello video";

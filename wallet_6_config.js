@@ -1,1 +1,1 @@
-var mnemonic = "girl raven hammer cushion nephew win galaxy toy speed become kidney alpha";
+var mnemonic = "short matter wreck oak own island spike exile minute gospel group rib";

@@ -1,1 +1,1 @@
-var mnemonic = "woman paddle say enemy fever pattern shield little another grit immune shrug";
+var mnemonic = "alley mad current swallow bottom eight meat sunset enable heavy media consider";

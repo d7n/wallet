@@ -1,1 +1,1 @@
-var mnemonic = "fiber buyer lyrics lottery reveal bridge scheme pitch sell harbor donate orient";
+var mnemonic = "rather labor repeat clarify fine tiger lamp ranch later useful super print";

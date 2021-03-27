@@ -1,1 +1,1 @@
-var mnemonic = "report always real blast off outside sheriff cook time else boost diesel";
+var mnemonic = "huge lonely danger milk explain twist birth tackle release spoon orphan enroll";

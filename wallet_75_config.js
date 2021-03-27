@@ -1,1 +1,1 @@
-var mnemonic = "become zone arrest tissue medal donor caution cousin output worth solve diary";
+var mnemonic = "pyramid asthma fix pigeon utility awake define coyote slice rival gold once";

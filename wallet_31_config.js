@@ -1,1 +1,1 @@
-var mnemonic = "child winner art kingdom paddle patch jar brown foot file nominee regular";
+var mnemonic = "quit find letter army early bundle useless squirrel clip devote valley gorilla";

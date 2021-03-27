@@ -1,1 +1,1 @@
-var mnemonic = "elder example boost absent skirt record couple duty vibrant grain library duty";
+var mnemonic = "obtain weather milk sunset diagram lava reject dose bar type cage member";

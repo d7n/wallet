@@ -1,1 +1,1 @@
-var mnemonic = "woman duty aware cage leader review biology focus moment have garage volcano";
+var mnemonic = "exercise abandon cage glance when citizen primary bulb desk split claw acoustic";
