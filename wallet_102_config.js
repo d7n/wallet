@@ -1,1 +1,1 @@
-var mnemonic = "panda argue village leisure guard sustain report imitate average style remain hammer";
+var mnemonic = "come spring hold argue anger turn tired uncover poverty lion spot skate";

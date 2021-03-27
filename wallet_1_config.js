@@ -1,1 +1,1 @@
-var mnemonic = "total crane gallery swift answer sphere middle sudden credit barrel ketchup tumble";
+var mnemonic = "sponsor into wet peasant umbrella hawk attend human blind exhibit soda neck";

@@ -1,1 +1,1 @@
-var mnemonic = "smart yard broccoli front grape capital ancient noodle autumn appear hobby office";
+var mnemonic = "usual point task avoid guide indicate cheap coach mango increase position busy";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual truly school concert hand decrease sweet fashion buffalo bomb thank slender";
+var mnemonic = "ask device blanket two pond inner piece pencil brown bread advance belt";

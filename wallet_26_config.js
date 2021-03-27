@@ -1,1 +1,1 @@
-var mnemonic = "excite purse wing problem fall blame address system glide trumpet canal rug";
+var mnemonic = "multiply vocal battle letter cushion prepare load advice miss fruit wisdom despair";

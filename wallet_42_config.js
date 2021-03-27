@@ -1,1 +1,1 @@
-var mnemonic = "shove report suspect cargo random pluck chronic misery genre increase special item";
+var mnemonic = "raise empower bounce arrest dinosaur desk current bean slight orchard combine juice";

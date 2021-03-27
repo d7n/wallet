@@ -1,1 +1,1 @@
-var mnemonic = "around slam tone faint usual bless change dirt outside only emotion quote";
+var mnemonic = "seven outer dust radio raven series admit page seat winner bamboo evolve";

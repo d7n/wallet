@@ -1,1 +1,1 @@
-var mnemonic = "enroll fever hip width forest harsh resemble disease certain focus acoustic gap";
+var mnemonic = "impulse argue abuse protect motor vault mirror mail immune twenty extend flat";

@@ -1,1 +1,1 @@
-var mnemonic = "general receive dirt oppose true stand kick dynamic enact universe fuel boy";
+var mnemonic = "naive rally lecture affair glance shuffle genuine follow kick between melt pretty";

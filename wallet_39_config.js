@@ -1,1 +1,1 @@
-var mnemonic = "cheap blame bracket another flat reform volcano grit daughter champion team scatter";
+var mnemonic = "inside total theme motion sheriff wife deny taxi term swim bar private";

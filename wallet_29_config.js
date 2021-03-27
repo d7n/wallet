@@ -1,1 +1,1 @@
-var mnemonic = "leave prepare deny song kind slush throw ball unit depart congress among";
+var mnemonic = "vapor slide hybrid inner detect polar little retreat essay narrow maximum salute";

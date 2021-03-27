@@ -1,1 +1,1 @@
-var mnemonic = "oblige mesh flame sweet harvest shy crunch until rose happy vintage select";
+var mnemonic = "eternal tenant honey arm little peanut loan drip picnic floor lend alter";

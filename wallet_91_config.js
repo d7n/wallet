@@ -1,1 +1,1 @@
-var mnemonic = "violin boss tortoise child sorry share imitate vessel repeat erosion friend denial";
+var mnemonic = "decrease shoulder foot label short field grant sustain unique spawn nominee clip";

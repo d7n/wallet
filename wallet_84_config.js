@@ -1,1 +1,1 @@
-var mnemonic = "hero finger maximum crunch license hat utility beach artist item twin potato";
+var mnemonic = "return honey tuna hand crop motion middle shift sadness final private lab";

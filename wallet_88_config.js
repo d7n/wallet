@@ -1,1 +1,1 @@
-var mnemonic = "agent fish spike opera bike tooth chicken avocado fetch army repair stage";
+var mnemonic = "trap match hazard gold food law inmate october salad critic quantum pistol";

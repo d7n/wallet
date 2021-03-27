@@ -1,1 +1,1 @@
-var mnemonic = "orchard safe mansion light hotel tissue bus family idea badge ignore loop";
+var mnemonic = "scout garbage tip broom day barrel climb blouse annual imitate fold nest";

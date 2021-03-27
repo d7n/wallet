@@ -1,1 +1,1 @@
-var mnemonic = "wrestle perfect dilemma frog eight stem volcano depart topple cigar only acquire";
+var mnemonic = "nominee sudden ring benefit lyrics bundle warrior umbrella social spread strategy curious";

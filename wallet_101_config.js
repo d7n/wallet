@@ -1,1 +1,1 @@
-var mnemonic = "enrich dust enemy inquiry copper castle soon guitar cat absurd same segment";
+var mnemonic = "begin latin liar boss potato column cabin sound load move luggage fog";

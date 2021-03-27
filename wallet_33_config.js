@@ -1,1 +1,1 @@
-var mnemonic = "time hamster goose pulse mechanic nerve exile staff will impulse camera height";
+var mnemonic = "tired blur immense insect sing exact foot museum aim puppy cattle age";

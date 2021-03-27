@@ -1,1 +1,1 @@
-var mnemonic = "sense either people social wash bullet swift address bulk claw unlock stage";
+var mnemonic = "team sight kiwi behind chat vendor report execute rabbit profit kiwi flock";

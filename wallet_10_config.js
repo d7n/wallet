@@ -1,1 +1,1 @@
-var mnemonic = "brass brisk rail clerk clock addict glimpse vague stable pact split maid";
+var mnemonic = "athlete panic way phrase warfare wrist extra merry proud broccoli vessel lab";

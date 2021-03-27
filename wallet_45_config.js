@@ -1,1 +1,1 @@
-var mnemonic = "pole cargo ship coyote nuclear antenna sea rack subway define lunch valid";
+var mnemonic = "great visa spider pizza eternal bulb behind august wreck chat shadow nation";

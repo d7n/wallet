@@ -1,1 +1,1 @@
-var mnemonic = "slim amateur tide abandon calm aim negative hawk lens negative divert arctic";
+var mnemonic = "produce adjust fetch insect lizard wink ticket swim snake session enjoy future";

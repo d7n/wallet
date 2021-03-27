@@ -1,1 +1,1 @@
-var mnemonic = "couple inflict dad spatial neglect check glory icon cream raven allow spoon";
+var mnemonic = "night squirrel habit primary ordinary brother fox picnic echo magic album cause";

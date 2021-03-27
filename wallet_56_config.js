@@ -1,1 +1,1 @@
-var mnemonic = "poverty add next hobby guilt school yellow bomb bright enforce kite prefer";
+var mnemonic = "illegal negative check velvet supreme gadget surprise appear month repeat clinic wisdom";

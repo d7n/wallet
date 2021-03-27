@@ -1,1 +1,1 @@
-var mnemonic = "crime minute saddle speak bicycle desk wing casual tilt swallow panel identify";
+var mnemonic = "tilt hurt client blind mixed peanut recipe impulse hair gift cabbage debris";

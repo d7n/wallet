@@ -1,1 +1,1 @@
-var mnemonic = "army must demise harbor cabin typical predict express cruise group marble six";
+var mnemonic = "sibling forward teach firm left around similar across catalog connect embark rubber";

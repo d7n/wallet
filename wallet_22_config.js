@@ -1,1 +1,1 @@
-var mnemonic = "worry hawk advice change away chase chase unit thumb pepper best exact";
+var mnemonic = "alcohol chapter sort drift lunar enrich lesson coral sign salute chief predict";

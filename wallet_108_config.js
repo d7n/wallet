@@ -1,1 +1,1 @@
-var mnemonic = "north noodle cushion wagon dust devote rural evil ostrich virus refuse around";
+var mnemonic = "wage peace drastic hobby wheel cash spawn menu face cheese proof economy";

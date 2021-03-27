@@ -1,1 +1,1 @@
-var mnemonic = "spray grain fish later drift swing utility cliff throw egg filter couple";
+var mnemonic = "frost immense material toast hill energy body best rough breeze garage treat";

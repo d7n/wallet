@@ -1,1 +1,1 @@
-var mnemonic = "door agree pause student budget panel image debris inform movie guard author";
+var mnemonic = "more flavor portion exile sister cargo cricket talk fluid tissue junk brain";

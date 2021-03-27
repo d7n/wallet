@@ -1,1 +1,1 @@
-var mnemonic = "bachelor room cover seminar shiver rural change segment shallow glad east maple";
+var mnemonic = "myth solve bread top already smile certain absent amused goat cheese habit";

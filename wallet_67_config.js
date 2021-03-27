@@ -1,1 +1,1 @@
-var mnemonic = "sign predict immense finger milk child excuse wagon sport canvas lunch slim";
+var mnemonic = "amateur shrimp ancient correct ethics wave ceiling feed soup youth swap olympic";

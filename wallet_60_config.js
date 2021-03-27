@@ -1,1 +1,1 @@
-var mnemonic = "glow pill text physical online excess unknown broccoli coffee spice ahead build";
+var mnemonic = "border west canvas until immune liquid vanish meat canvas pair resist erupt";

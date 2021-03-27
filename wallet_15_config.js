@@ -1,1 +1,1 @@
-var mnemonic = "memory method point link end target payment wolf awkward banner chalk outside";
+var mnemonic = "frame bamboo good web sense post describe grace village fine steel trial";

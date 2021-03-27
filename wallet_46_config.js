@@ -1,1 +1,1 @@
-var mnemonic = "give pumpkin race original simple ethics capable river pipe ancient excite exhibit";
+var mnemonic = "network similar logic rabbit gloom budget parrot conduct ecology cotton install salute";

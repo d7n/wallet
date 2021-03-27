@@ -1,1 +1,1 @@
-var mnemonic = "unhappy trophy hamster aspect cry burger swing cushion misery brisk chase toilet";
+var mnemonic = "must devote enroll empty play indicate silver flip arrange network bless iron";

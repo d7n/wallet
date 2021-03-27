@@ -1,1 +1,1 @@
-var mnemonic = "march mountain fetch room double click struggle donor zebra venture vivid valley";
+var mnemonic = "nasty cruel hundred cupboard bullet pet blossom flame opinion slam bullet lesson";

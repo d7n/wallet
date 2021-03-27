@@ -1,1 +1,1 @@
-var mnemonic = "indicate dish wife layer portion affair main annual fantasy transfer oil affair";
+var mnemonic = "humor burst muscle lady stove bundle august danger strike excite puppy obscure";

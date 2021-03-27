@@ -1,1 +1,1 @@
-var mnemonic = "team gossip today couch fiction friend random legend duck wash husband earth";
+var mnemonic = "surface film hotel minute lonely kitten front fancy hen pole tomorrow cupboard";

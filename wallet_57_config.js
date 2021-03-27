@@ -1,1 +1,1 @@
-var mnemonic = "sell number silent peanut solution kite genre robot day weekend flight loyal";
+var mnemonic = "oblige uniform interest please pond hungry spatial address explain dragon busy caution";

@@ -1,1 +1,1 @@
-var mnemonic = "visa aisle ski elevator then great sick lecture raw maximum torch primary";
+var mnemonic = "small hello diary hedgehog enlist kitchen observe correct tray grow into link";

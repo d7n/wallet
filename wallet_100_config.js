@@ -1,1 +1,1 @@
-var mnemonic = "uncle sort please dinosaur shine hole element town glory artwork tower pluck";
+var mnemonic = "mixture blade fix critic say festival mule exotic cram spare domain ugly";

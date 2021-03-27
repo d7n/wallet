@@ -1,1 +1,1 @@
-var mnemonic = "blade bird torch simple bus tube tent grid label february mammal public";
+var mnemonic = "connect champion file still hip load crawl access rely century regret balcony";

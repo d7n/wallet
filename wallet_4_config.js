@@ -1,1 +1,1 @@
-var mnemonic = "cost stomach trim review random arch lumber churn term ranch wreck picture";
+var mnemonic = "confirm medal devote lecture alarm uniform guilt hair female devote goose tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "swing dwarf flame spread stomach feed main layer gravity under fire inject";
+var mnemonic = "mystery asthma explain exclude harbor item common swear toss curve expire super";

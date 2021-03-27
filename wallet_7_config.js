@@ -1,1 +1,1 @@
-var mnemonic = "notice legal congress return hurt poet radar north receive void powder fire";
+var mnemonic = "sing upgrade coil talk inspire giggle word cargo title carry retreat tattoo";

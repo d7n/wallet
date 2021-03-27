@@ -1,1 +1,1 @@
-var mnemonic = "trumpet carbon spoon main couch frog tower fever just width blue squeeze";
+var mnemonic = "crunch afraid nurse zone kind tip combine oak myself glide fork rubber";

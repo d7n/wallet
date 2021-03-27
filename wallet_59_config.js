@@ -1,1 +1,1 @@
-var mnemonic = "shift fringe tonight stamp page zone use embody impose hill return movie";
+var mnemonic = "typical above poem bring wheat beyond crowd alley produce unfair field turkey";

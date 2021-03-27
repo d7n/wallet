@@ -1,1 +1,1 @@
-var mnemonic = "area age cannon doctor riot employ winter arena crazy economy dinner drum";
+var mnemonic = "clutch lamp body later quantum little rigid host faith start uncle okay";

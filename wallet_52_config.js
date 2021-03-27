@@ -1,1 +1,1 @@
-var mnemonic = "business abuse cactus response gauge orient oven quantum profit flee outside trip";
+var mnemonic = "cabin cluster soldier pass pig praise venue common plastic movie daughter rib";

@@ -1,1 +1,1 @@
-var mnemonic = "open sense uncle among nuclear bomb proud rotate labor ladder mind outer";
+var mnemonic = "essence put thumb reflect artefact asset own finger toy wash seek physical";

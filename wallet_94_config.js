@@ -1,1 +1,1 @@
-var mnemonic = "plastic inquiry until onion image sea crystal solid fan dice bounce ramp";
+var mnemonic = "front version broken index favorite spike curious spawn cheese vicious invest fit";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit drop option baby observe dignity cram forward priority attitude differ school";
+var mnemonic = "behave engine mean acoustic tornado move athlete abandon mail match magic insane";

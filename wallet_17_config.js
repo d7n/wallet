@@ -1,1 +1,1 @@
-var mnemonic = "catch umbrella february thought bitter kiss success pyramid must fix cannon possible";
+var mnemonic = "liberty indoor rule film snack destroy return burger guide toy float village";

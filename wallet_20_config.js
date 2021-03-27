@@ -1,1 +1,1 @@
-var mnemonic = "lawn stereo agent draft chalk rich apart puppy latin audit aspect evolve";
+var mnemonic = "profit insane earth error visual mosquito again praise ranch sleep earth present";

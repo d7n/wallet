@@ -1,1 +1,1 @@
-var mnemonic = "eagle organ piece topple trumpet power weasel ecology ignore damp shiver exhaust";
+var mnemonic = "obtain capable blouse country bid warrior connect autumn grab clock curve design";

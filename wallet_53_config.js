@@ -1,1 +1,1 @@
-var mnemonic = "laptop monitor cargo sight monster matter mad couch brush ride evolve weekend";
+var mnemonic = "similar final cushion door join shift reason earn wheel outer annual pyramid";

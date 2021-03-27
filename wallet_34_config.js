@@ -1,1 +1,1 @@
-var mnemonic = "together dream night involve certain large nothing paddle life sudden awful host";
+var mnemonic = "boring moral bomb unique parade dwarf ride crisp salute opera expect basket";

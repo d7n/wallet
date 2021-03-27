@@ -1,1 +1,1 @@
-var mnemonic = "mad say slab purchase poem sweet alone voyage baby mass prosper rely";
+var mnemonic = "plate student coach window census cherry whisper marine cabbage doctor believe wasp";

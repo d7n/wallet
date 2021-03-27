@@ -1,1 +1,1 @@
-var mnemonic = "coffee east valve public glimpse worth drift general radio recall sense expire";
+var mnemonic = "tuna banner piece skull floor empower match inherit truly peace spatial honey";

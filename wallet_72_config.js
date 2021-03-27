@@ -1,1 +1,1 @@
-var mnemonic = "dirt rocket assist weather gown buyer garage affair fever taxi puzzle sniff";
+var mnemonic = "wisdom moral theory embody film earth hammer point slush fish step pond";

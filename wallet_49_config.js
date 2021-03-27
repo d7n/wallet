@@ -1,1 +1,1 @@
-var mnemonic = "squirrel talk opera air rain note foot fever spoon pulse episode hub";
+var mnemonic = "mule slam twin ability myth dawn run core spin hospital draft custom";

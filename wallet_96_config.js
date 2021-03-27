@@ -1,1 +1,1 @@
-var mnemonic = "enter improve upset web idle sun render disagree citizen height amateur spread";
+var mnemonic = "design novel mother enter radar mushroom what brush badge huge love warfare";

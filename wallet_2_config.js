@@ -1,1 +1,1 @@
-var mnemonic = "eagle drastic also hub leader raw good pear suggest visa copy decrease";
+var mnemonic = "person found outside nominee service scatter fetch where poem layer seat shrug";

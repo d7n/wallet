@@ -1,1 +1,1 @@
-var mnemonic = "noodle phrase elephant wet bone trend liquid ancient rabbit arena jacket soda";
+var mnemonic = "neither major assist neglect shine mercy collect illegal foam matrix weird beyond";

@@ -1,1 +1,1 @@
-var mnemonic = "void daughter usage special narrow fence theory enforce course kiwi luggage inside";
+var mnemonic = "rather virtual dial hurdle venture perfect wood sad ten toast high clerk";

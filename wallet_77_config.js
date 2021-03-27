@@ -1,1 +1,1 @@
-var mnemonic = "target ankle burden material denial hip loud gesture horn mention weapon skate";
+var mnemonic = "mean captain absorb mind scrap sibling process stay vault either chuckle nation";

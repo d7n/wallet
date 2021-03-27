@@ -1,1 +1,1 @@
-var mnemonic = "resist exhaust awesome trap unaware unusual small blossom craft fun device melt";
+var mnemonic = "tumble bright jaguar law castle dizzy jealous myth valley business fury scheme";

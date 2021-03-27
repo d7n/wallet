@@ -1,1 +1,1 @@
-var mnemonic = "door grain play pony organ casino dutch ski friend witness need poem";
+var mnemonic = "top rural shift course cattle forget ball mom public shield lumber example";

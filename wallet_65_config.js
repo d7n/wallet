@@ -1,1 +1,1 @@
-var mnemonic = "obey walk swarm legal resemble camp assist dance opera renew mad venue";
+var mnemonic = "hungry egg token hood dad fence broom earth powder taxi soup open";

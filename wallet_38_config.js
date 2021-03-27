@@ -1,1 +1,1 @@
-var mnemonic = "obvious giant obvious ribbon parent coast example mango jungle because very guess";
+var mnemonic = "detect meat monkey alien machine extend enrich secret inch clip bus fury";

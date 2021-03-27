@@ -1,1 +1,1 @@
-var mnemonic = "when motor common result local profit snap random heavy rebel verb ignore";
+var mnemonic = "debris define wink rescue tilt camera gas bean foot satisfy journey cool";

@@ -1,1 +1,1 @@
-var mnemonic = "face solar cabin another typical figure lecture elevator junior blame pole enemy";
+var mnemonic = "pride bundle rose image inquiry buddy speed print rabbit evolve kick shrug";

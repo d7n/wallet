@@ -1,1 +1,1 @@
-var mnemonic = "observe love ski margin same chuckle vacuum faculty scorpion session average cheese";
+var mnemonic = "lizard teach super attract lyrics wheel style announce aspect visual cause pilot";

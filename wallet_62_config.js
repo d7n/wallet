@@ -1,1 +1,1 @@
-var mnemonic = "water name midnight salon copy remember same scan shift junior glass stay";
+var mnemonic = "grunt nerve brick erosion claim soon bubble huge stereo quick example insane";

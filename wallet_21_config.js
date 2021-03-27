@@ -1,1 +1,1 @@
-var mnemonic = "ready castle vivid enrich globe light fetch ankle april mesh token shuffle";
+var mnemonic = "injury become cargo retire diesel calm nature reveal balcony suggest lab ridge";

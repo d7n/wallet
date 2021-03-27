@@ -1,1 +1,1 @@
-var mnemonic = "toward desert gesture kick depth service razor oppose level process outside bone";
+var mnemonic = "thumb hollow atom swap blanket stove tribe traffic little valid raven nature";

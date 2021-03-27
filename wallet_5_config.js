@@ -1,1 +1,1 @@
-var mnemonic = "jelly tortoise verify gospel old pupil exhaust throw feel cushion smoke blue";
+var mnemonic = "soup price wisdom identify frown cliff detail pair stock injury easily congress";

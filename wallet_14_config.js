@@ -1,1 +1,1 @@
-var mnemonic = "music random hundred office reflect live mesh eager nothing width action word";
+var mnemonic = "tourist hammer matrix food oval squirrel zone craft very record kid mind";

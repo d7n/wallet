@@ -1,1 +1,1 @@
-var mnemonic = "wash prepare cash lounge kit cake exile room add brass raven slice";
+var mnemonic = "found modify cycle salt candy settle bulb talk over glance evil journey";

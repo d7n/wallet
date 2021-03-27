@@ -1,1 +1,1 @@
-var mnemonic = "tennis tornado firm mountain meat coast unique wild laundry maze horse acquire";
+var mnemonic = "useless congress often giggle practice end depth noise genuine simple capable trade";

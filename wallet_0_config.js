@@ -1,1 +1,1 @@
-var mnemonic = "list example cushion nurse silk message carpet guard tone age fashion syrup";
+var mnemonic = "capital vibrant add front suspect clinic goddess fetch beach cream stuff danger";

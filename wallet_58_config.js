@@ -1,1 +1,1 @@
-var mnemonic = "ostrich wasp face mind tumble wheat velvet romance attend depart giant donor";
+var mnemonic = "inherit athlete question museum stock coconut cute citizen palace clap mouse profit";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor pool ill minimum guard shy rate slot exist alter alley spirit";
+var mnemonic = "seminar deposit hobby mutual join rebuild rice dance magnet blast genuine stand";

@@ -1,1 +1,1 @@
-var mnemonic = "piano wasp car flag monster mind curve among invite tonight drill sun";
+var mnemonic = "object tent roof average walnut general gospel enforce blouse sure team transfer";

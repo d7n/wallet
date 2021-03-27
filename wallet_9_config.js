@@ -1,1 +1,1 @@
-var mnemonic = "analyst famous curious fruit indicate milk undo tag mass sense example enable";
+var mnemonic = "put short dish cattle assault course sign panther middle stay boy absorb";

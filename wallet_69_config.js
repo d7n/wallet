@@ -1,1 +1,1 @@
-var mnemonic = "budget degree vivid depth option panda card equal group swim resource outdoor";
+var mnemonic = "opera volcano sting where chaos term innocent knee expand side hint focus";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck sense secret dose scan suspect aerobic monster funny city melt oblige";
+var mnemonic = "potato tell identify future forget clog fold between stem polar brick witness";

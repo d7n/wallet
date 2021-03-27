@@ -1,1 +1,1 @@
-var mnemonic = "budget rocket plate stable impact always tiny oak tool sense modify giggle";
+var mnemonic = "ketchup genius soccer cannon heart welcome fiscal wrestle object general doctor visit";
