@@ -1,1 +1,1 @@
-var mnemonic = "harvest thing juice cancel spider muscle eager farm crazy canvas prize slight";
+var mnemonic = "entry good jazz annual symbol dress oval away isolate write melody boost";

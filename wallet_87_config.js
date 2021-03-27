@@ -1,1 +1,1 @@
-var mnemonic = "chef park absurd company lobster avocado entire toilet priority feed cousin loyal";
+var mnemonic = "hurt acid tennis vault fragile loud because siren blue soon hip social";

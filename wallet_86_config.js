@@ -1,1 +1,1 @@
-var mnemonic = "enrich bring admit elite they disorder unfair text recipe seek over mind";
+var mnemonic = "better stock slam subway immune excite pattern scare invite morning throw okay";

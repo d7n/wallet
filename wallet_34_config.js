@@ -1,1 +1,1 @@
-var mnemonic = "possible endorse camp pave potato arena phrase wire escape soccer clerk task";
+var mnemonic = "legend forest surround decorate tenant admit little process charge ostrich smooth viable";

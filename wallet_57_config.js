@@ -1,1 +1,1 @@
-var mnemonic = "receive state cute wet flat decorate shiver noble wage cook kite kit";
+var mnemonic = "dragon bronze glance inhale ritual decorate layer base home say erupt swing";

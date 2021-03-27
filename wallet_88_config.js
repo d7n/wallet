@@ -1,1 +1,1 @@
-var mnemonic = "pride little alien subway swamp armor walk soap fork august develop divorce";
+var mnemonic = "live trial tackle transfer perfect curtain copper fan rotate vacant maximum twin";

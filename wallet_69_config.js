@@ -1,1 +1,1 @@
-var mnemonic = "flush maximum happy warm host often coconut alcohol settle nut spice sudden";
+var mnemonic = "harbor loan into shaft resource route minimum unique month proof wonder total";

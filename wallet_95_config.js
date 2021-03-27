@@ -1,1 +1,1 @@
-var mnemonic = "drop ethics glove crush sure glide cousin garbage inject field endorse ancient";
+var mnemonic = "borrow doll bone choose climb fade question second foster drive cart phrase";

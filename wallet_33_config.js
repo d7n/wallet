@@ -1,1 +1,1 @@
-var mnemonic = "opinion quit elephant hunt impact deny vivid chuckle harvest siege either guess";
+var mnemonic = "faith private smart cruel spring purpose offer blanket onion recycle gallery correct";

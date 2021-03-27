@@ -1,1 +1,1 @@
-var mnemonic = "key catch such awesome jar thrive eyebrow step approve sick cement strong";
+var mnemonic = "scorpion attract snake coffee grow later saddle scale exact few brush evidence";

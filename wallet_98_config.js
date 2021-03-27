@@ -1,1 +1,1 @@
-var mnemonic = "chimney tribe search enforce lawn over mouse tilt trap assist unit catalog";
+var mnemonic = "remind predict woman two mimic case fire castle glare detect screen burger";

@@ -1,1 +1,1 @@
-var mnemonic = "because draw guide wear awkward range century april clerk output still force";
+var mnemonic = "photo multiply air south example flee practice actor stumble gospel must enhance";

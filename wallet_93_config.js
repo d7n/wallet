@@ -1,1 +1,1 @@
-var mnemonic = "cricket employ cook spot car unit outdoor they detail loyal bacon inhale";
+var mnemonic = "negative avocado nest coral accuse shy heavy chief borrow achieve that stumble";

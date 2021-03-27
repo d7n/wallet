@@ -1,1 +1,1 @@
-var mnemonic = "chronic ski parrot chimney crisp patrol inhale almost capable history parent heavy";
+var mnemonic = "fence element assume foster balcony drill cluster indicate build repeat same junior";

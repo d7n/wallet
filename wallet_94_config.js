@@ -1,1 +1,1 @@
-var mnemonic = "eye liquid have bar chef album unfold vault armor giraffe vibrant rubber";
+var mnemonic = "control guess outdoor interest deer series couple chuckle ankle square toast wonder";

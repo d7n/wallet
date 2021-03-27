@@ -1,1 +1,1 @@
-var mnemonic = "badge boss cinnamon donkey garden final tribe nerve cotton mirror ring nephew";
+var mnemonic = "section coffee awkward disagree skirt around odor unusual enforce liar ready bacon";

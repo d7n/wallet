@@ -1,1 +1,1 @@
-var mnemonic = "main payment pottery spare then laugh drum banana insect account country suffer";
+var mnemonic = "invest season guard erosion bleak legal salute short slogan major smart student";

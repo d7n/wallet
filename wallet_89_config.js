@@ -1,1 +1,1 @@
-var mnemonic = "swift spin dice banner furnace letter taste smart usage often ozone awake";
+var mnemonic = "pencil tank food crash senior damp crouch aspect any allow vacuum rack";

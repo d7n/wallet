@@ -1,1 +1,1 @@
-var mnemonic = "clinic bar mean school age faith cream any jazz physical spin stand";
+var mnemonic = "spare solar capital behave sell school option sing defense unveil cannon scale";

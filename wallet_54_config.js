@@ -1,1 +1,1 @@
-var mnemonic = "muffin update foster have scare ostrich wedding tuition slow such nuclear detail";
+var mnemonic = "dice orient blanket model october flee icon secret tornado captain mansion discover";

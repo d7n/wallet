@@ -1,1 +1,1 @@
-var mnemonic = "surprise void mystery sense make evoke group fault risk strong destroy cost";
+var mnemonic = "track waste cook undo sting fly fury trial gauge speak output flush";

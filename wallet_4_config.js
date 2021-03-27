@@ -1,1 +1,1 @@
-var mnemonic = "forum canoe rice derive burst deputy either mind sense kingdom dry pledge";
+var mnemonic = "inflict skill view cargo tissue insect anchor comfort leaf tomato orange original";

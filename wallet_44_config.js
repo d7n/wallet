@@ -1,1 +1,1 @@
-var mnemonic = "obscure weird soldier tag nice cannon inside emerge parent swift ivory ramp";
+var mnemonic = "bargain trash prepare option oxygen mechanic caught repair congress kingdom mystery flat";

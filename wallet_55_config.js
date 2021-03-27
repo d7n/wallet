@@ -1,1 +1,1 @@
-var mnemonic = "skate kit dawn happy wish decorate follow permit page output apart obey";
+var mnemonic = "bag damp veteran pupil confirm lunch design attend spawn cycle romance bunker";

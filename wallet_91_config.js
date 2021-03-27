@@ -1,1 +1,1 @@
-var mnemonic = "bid panda detail assist noble gloom category zone analyst urban same worth";
+var mnemonic = "sniff tower unit ethics speak raise ketchup situate sibling smart chief impose";

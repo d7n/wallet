@@ -1,1 +1,1 @@
-var mnemonic = "mimic lazy key service fury veteran aisle planet damage yard universe snow";
+var mnemonic = "obvious win wing drink load base medal deposit chaos nice soccer lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "mention cannon live decide adapt churn finish embark health snake ski grace";
+var mnemonic = "shine prevent tumble ahead diary acid emotion twenty field display wave hawk";

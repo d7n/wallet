@@ -1,1 +1,1 @@
-var mnemonic = "donate change zone borrow exhibit afford bird volcano dizzy harsh rifle toss";
+var mnemonic = "camera sea exclude brown fame waste foot purse poem broccoli swing engage";

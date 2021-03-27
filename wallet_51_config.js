@@ -1,1 +1,1 @@
-var mnemonic = "dry valid fatigue various twelve bullet lyrics hurry whale project wire hamster";
+var mnemonic = "fuel border modify mammal one swarm nominee collect half card buyer proof";

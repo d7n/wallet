@@ -1,1 +1,1 @@
-var mnemonic = "hollow detail blur hundred tragic bonus gauge minimum shift soldier marriage phrase";
+var mnemonic = "cat album moon deputy tomorrow blind pipe candy ski canoe body kind";

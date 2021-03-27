@@ -1,1 +1,1 @@
-var mnemonic = "market ostrich strategy trash trap section measure walnut admit half allow glue";
+var mnemonic = "exile vacant gain phrase wink gesture road finger peasant cluster game wear";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow ability feed ketchup potato wisdom unusual risk spin similar hat little";
+var mnemonic = "cliff token junior whale prosper capital state happy diary mistake thank when";

@@ -1,1 +1,1 @@
-var mnemonic = "inner bid poet chapter dolphin tennis retreat fury toe miss lazy hurt";
+var mnemonic = "double elegant option exclude tooth relax bike velvet pitch news romance crane";

@@ -1,1 +1,1 @@
-var mnemonic = "friend trial shy wasp return immense harsh exercise design source wreck park";
+var mnemonic = "solution age same abandon fabric owner repair bind loyal dash anchor glory";

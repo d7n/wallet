@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur seed duck wisdom jealous chimney visa tent scrub labor choice work";
+var mnemonic = "say high region resemble border repeat outside faith keep prepare age smoke";

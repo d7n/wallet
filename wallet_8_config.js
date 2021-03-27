@@ -1,1 +1,1 @@
-var mnemonic = "below dove track dolphin forum toe since digital antenna luxury idea amateur";
+var mnemonic = "upset kitten island feel come release pond absorb distance such world collect";

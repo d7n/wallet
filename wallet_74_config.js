@@ -1,1 +1,1 @@
-var mnemonic = "addict average space broccoli obscure canvas traffic try buyer squeeze favorite hotel";
+var mnemonic = "aspect next dignity enlist valid flash drip identify parade kind quarter trial";

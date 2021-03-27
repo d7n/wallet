@@ -1,1 +1,1 @@
-var mnemonic = "uncle barely stone island illegal silly same foam such sister grass inhale";
+var mnemonic = "lizard verb accident vast syrup hood inquiry tomato flame country exit gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "safe assist junk squirrel squirrel business water couple engine old biology tool";
+var mnemonic = "vapor bicycle shaft mean legal dice grunt raw slow define blade soldier";

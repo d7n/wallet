@@ -1,1 +1,1 @@
-var mnemonic = "rely unit road lemon path slim thing honey trend floor bonus project";
+var mnemonic = "body sadness must piece better fossil brain guard render scale breeze vivid";

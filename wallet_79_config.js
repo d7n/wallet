@@ -1,1 +1,1 @@
-var mnemonic = "oval coach panda loan fossil habit universe yard thunder kiss round march";
+var mnemonic = "unlock spoon smoke gaze affair leg kitchen burger raise rival buzz wash";

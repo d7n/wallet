@@ -1,1 +1,1 @@
-var mnemonic = "almost bubble glare wasp brave drip gallery gauge purity public borrow fork";
+var mnemonic = "illegal buffalo budget miracle purse figure science chronic team globe vessel trouble";

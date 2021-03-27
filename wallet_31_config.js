@@ -1,1 +1,1 @@
-var mnemonic = "glove gun jar raccoon client elder later giggle enjoy long setup penalty";
+var mnemonic = "load leaf oblige elegant mass fuel mutual sail table angle attend direct";

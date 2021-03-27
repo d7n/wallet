@@ -1,1 +1,1 @@
-var mnemonic = "victory rocket pilot plate learn segment gap husband wife limb drill lawsuit";
+var mnemonic = "cat okay walnut margin evolve body frown huge can vessel sword pair";

@@ -1,1 +1,1 @@
-var mnemonic = "globe liquid fragile immune armor practice vault grief mosquito hazard orchard coyote";
+var mnemonic = "hair mobile tail scan bridge history blossom phone depart heavy check actress";

@@ -1,1 +1,1 @@
-var mnemonic = "honey buffalo conduct aspect ancient bless kick forget pony ancient wasp clinic";
+var mnemonic = "cinnamon jeans six hour anxiety tumble clock wear perfect boil lunch plunge";

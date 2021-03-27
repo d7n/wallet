@@ -1,1 +1,1 @@
-var mnemonic = "kid hollow market stereo elder wagon wife gossip object surface town parrot";
+var mnemonic = "enroll evil gesture mixed access gauge grunt juice earn demand apology series";

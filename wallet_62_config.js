@@ -1,1 +1,1 @@
-var mnemonic = "sustain oxygen today elder pair heart churn crazy equip calm submit stock";
+var mnemonic = "electric logic swift jeans thunder live helmet estate announce run fog visual";

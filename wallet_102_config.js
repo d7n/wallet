@@ -1,1 +1,1 @@
-var mnemonic = "object very veteran narrow tell anger pattern hello life opinion fly sand";
+var mnemonic = "notable private rhythm under affair juice glimpse chaos traffic bamboo pencil twelve";

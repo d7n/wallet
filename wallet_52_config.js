@@ -1,1 +1,1 @@
-var mnemonic = "radio miracle thrive crowd require fix zero social split panic win glass";
+var mnemonic = "nasty road glow orchard sound dwarf dentist genre convince reform goddess hour";

@@ -1,1 +1,1 @@
-var mnemonic = "curious share undo dentist chat pink grocery prefer tool bottom jeans wise";
+var mnemonic = "copper key day whip bulk arm business radar prepare unfold issue effort";

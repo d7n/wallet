@@ -1,1 +1,1 @@
-var mnemonic = "sunny erode found wool sudden pledge harsh couple crawl cushion easily column";
+var mnemonic = "wood time talk fever grant age cat apple glance glove swallow express";

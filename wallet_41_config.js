@@ -1,1 +1,1 @@
-var mnemonic = "rubber crucial stamp phrase conduct usual olympic cute air glimpse grunt coral";
+var mnemonic = "mushroom city wrestle genre great unknown sausage middle upset icon win together";

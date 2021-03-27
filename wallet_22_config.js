@@ -1,1 +1,1 @@
-var mnemonic = "jeans daughter mercy dizzy battle lecture gap quick tool credit thought unaware";
+var mnemonic = "pipe cherry drama valid angry cinnamon demand mushroom noise market aware crack";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract vivid wish weapon green meat fluid educate online garage swear cool";
+var mnemonic = "dove miss recipe net mountain visit carbon rebuild door mind element stairs";

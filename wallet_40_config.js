@@ -1,1 +1,1 @@
-var mnemonic = "valid foam biology world prevent scale city stereo shift grace mistake exhibit";
+var mnemonic = "either large reflect estate coast plastic evidence torch mixed grant ghost axis";

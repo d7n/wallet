@@ -1,1 +1,1 @@
-var mnemonic = "number amateur fault scan young seat raven test entry stomach trap oyster";
+var mnemonic = "repeat decrease purpose various music stock sick clap express place course fox";

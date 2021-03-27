@@ -1,1 +1,1 @@
-var mnemonic = "saddle curious whip denial usage ice remind table gift flee ten salmon";
+var mnemonic = "element dry lab edge giggle barrel taxi grace answer honey over return";

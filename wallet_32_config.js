@@ -1,1 +1,1 @@
-var mnemonic = "claim middle heart shed popular click grunt proof reopen unhappy health label";
+var mnemonic = "alert mandate impose foster dutch crane menu runway approve absurd violin anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "where input charge shallow sample depth dentist skill sister filter twenty ancient";
+var mnemonic = "egg spawn fossil clog cross brush during symbol music under piece peanut";

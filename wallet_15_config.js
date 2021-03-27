@@ -1,1 +1,1 @@
-var mnemonic = "scene ridge cousin naive coach lend case speak snack super evoke jaguar";
+var mnemonic = "bamboo protect blue ship fiber eyebrow food license pilot latin network blood";

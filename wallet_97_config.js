@@ -1,1 +1,1 @@
-var mnemonic = "awkward wall assist demise wrap when enforce wire lens forest juice moral";
+var mnemonic = "theme slogan ramp thought various pull decline tackle eyebrow slow spread drink";

@@ -1,1 +1,1 @@
-var mnemonic = "dolphin bicycle retreat trigger immune inner exit rotate tribe innocent tuition pumpkin";
+var mnemonic = "shallow income fantasy taxi example provide trophy damp garbage task arrange pistol";

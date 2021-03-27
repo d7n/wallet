@@ -1,1 +1,1 @@
-var mnemonic = "series tomato safe spider false flag disorder noble recycle click law news";
+var mnemonic = "notice emotion sentence knife airport report try ivory pig report raw void";

@@ -1,1 +1,1 @@
-var mnemonic = "afford top brisk inch position final wrestle enroll distance letter current actual";
+var mnemonic = "sorry drift fury raw window flavor tomato mutual hospital prefer pioneer man";

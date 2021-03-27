@@ -1,1 +1,1 @@
-var mnemonic = "release rival session use culture trip invest pelican lazy mother drama pave";
+var mnemonic = "despair promote volume educate seek grief favorite disease embark delay enemy sponsor";

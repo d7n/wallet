@@ -1,1 +1,1 @@
-var mnemonic = "drastic already mean joy evidence rotate domain dismiss erosion fiction ordinary early";
+var mnemonic = "tribe stamp fever unfold hero candy decade swap fee add bulb bachelor";

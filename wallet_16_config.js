@@ -1,1 +1,1 @@
-var mnemonic = "error there they relax because hard manual regular sibling exist mind olive";
+var mnemonic = "purity sight basket atom bus craft maid divert giant unique alcohol rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "sweet chicken object gesture also scene guilt palm chaos cousin chat monkey";
+var mnemonic = "unhappy easily loud language nation spatial insane subject blame obvious gadget rack";

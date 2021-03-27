@@ -1,1 +1,1 @@
-var mnemonic = "soul casino cheap bar brief cradle chimney economy twenty hospital act ramp";
+var mnemonic = "change fossil divorce review donate aisle throw tortoise predict celery chuckle island";

@@ -1,1 +1,1 @@
-var mnemonic = "wisdom push coyote ocean detail vote motor genius myself success skin question";
+var mnemonic = "either symptom energy future trash detect leisure swallow feature cement order high";

@@ -1,1 +1,1 @@
-var mnemonic = "unaware survey similar annual misery inquiry spend margin ripple beyond behave feed";
+var mnemonic = "tiny wink term swarm chapter above kick jar bamboo link turtle glide";

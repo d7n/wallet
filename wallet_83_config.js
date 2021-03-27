@@ -1,1 +1,1 @@
-var mnemonic = "brief silk repeat mind turtle primary barely torch shrug buddy title unveil";
+var mnemonic = "summer shed true camp seed wife involve wide exhibit keep chalk pulp";

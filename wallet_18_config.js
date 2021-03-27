@@ -1,1 +1,1 @@
-var mnemonic = "drift vague relax universe puppy jazz pear lady modify north local clown";
+var mnemonic = "jacket hobby mouse asthma execute relax goose clarify hip quantum hire uniform";

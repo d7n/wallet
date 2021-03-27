@@ -1,1 +1,1 @@
-var mnemonic = "demise matrix steak object dial make enact foil palace silly welcome bracket";
+var mnemonic = "fuel tragic panel symptom aerobic world saddle service start symbol knife deputy";

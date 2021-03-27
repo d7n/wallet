@@ -1,1 +1,1 @@
-var mnemonic = "gas green laundry oil butter plate kit mention invest wealth ocean cigar";
+var mnemonic = "buyer shell truck dust embark bronze fire tooth resource spoil private rib";

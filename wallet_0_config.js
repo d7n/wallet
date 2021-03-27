@@ -1,1 +1,1 @@
-var mnemonic = "head salt amused pumpkin steak milk write scene poet road omit gravity";
+var mnemonic = "gesture extend negative year indicate hybrid ginger captain yellow shine ready summer";

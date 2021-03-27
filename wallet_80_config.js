@@ -1,1 +1,1 @@
-var mnemonic = "joke color reward mercy divide book hip when lawn first dove improve";
+var mnemonic = "patient affair velvet shuffle slab canvas inflict open arrest section open away";

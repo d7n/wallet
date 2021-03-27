@@ -1,1 +1,1 @@
-var mnemonic = "huge buyer gossip laundry alert goose manage unique unfold tonight truck like";
+var mnemonic = "endless spoon zebra rug anchor tired wisdom accuse fiscal bubble warrior avocado";

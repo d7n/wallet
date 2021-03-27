@@ -1,1 +1,1 @@
-var mnemonic = "orange climb eight snap invite pipe stamp disagree sun skirt scorpion bargain";
+var mnemonic = "term excess benefit fit garden electric eye hurry cup mind digital host";

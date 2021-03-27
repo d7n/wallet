@@ -1,1 +1,1 @@
-var mnemonic = "erosion pudding knock define steak useless such knife ozone rival merit winner";
+var mnemonic = "daughter gift bring deliver dwarf butter sketch ten comic sorry test orphan";

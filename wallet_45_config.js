@@ -1,1 +1,1 @@
-var mnemonic = "system budget blush shock banner plunge silly hello print knee chimney asthma";
+var mnemonic = "female sister snap portion spin aerobic nasty loop dinner kangaroo torch buzz";

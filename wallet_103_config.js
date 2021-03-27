@@ -1,1 +1,1 @@
-var mnemonic = "sheriff endless dwarf short agent venue strategy hope album cradle october certain";
+var mnemonic = "solution pipe eye leg betray random surround barely champion elder faint path";
