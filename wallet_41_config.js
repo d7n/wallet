@@ -1,1 +1,1 @@
-var mnemonic = "shine wine gorilla garage answer recycle suffer security remember industry violin infant";
+var mnemonic = "luggage endorse unfair stand angle multiply final wide assist buyer catalog illness";

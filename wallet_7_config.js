@@ -1,1 +1,1 @@
-var mnemonic = "art orbit ivory wink afraid orange lake ring ripple bargain route long";
+var mnemonic = "plastic kite airport mail title symbol execute survey grocery angle congress happy";

@@ -1,1 +1,1 @@
-var mnemonic = "absurd afford you develop end coral party extend whisper gaze hazard zebra";
+var mnemonic = "mosquito physical govern reform gap thumb innocent cruise river pill want economy";

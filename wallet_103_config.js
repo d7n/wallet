@@ -1,1 +1,1 @@
-var mnemonic = "put loud wedding regular nest sign dash repair dream month garage twin";
+var mnemonic = "ranch lonely arrive dragon endorse favorite notable staff supply board romance saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "rude angry sad token nut token sun above october dress annual token";
+var mnemonic = "agree secret loud found usual gain dragon force snow better broccoli bomb";

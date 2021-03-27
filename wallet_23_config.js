@@ -1,1 +1,1 @@
-var mnemonic = "color fiscal hunt exist program reflect put neck room similar chalk typical";
+var mnemonic = "lemon liberty coast neglect opinion card trophy giant bubble erode source pizza";

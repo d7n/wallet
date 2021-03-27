@@ -1,1 +1,1 @@
-var mnemonic = "thrive oxygen daring cluster blind ship zoo crane review candy fog stem";
+var mnemonic = "guess urban horror cradle habit spread social amused unable session sugar employ";

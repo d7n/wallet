@@ -1,1 +1,1 @@
-var mnemonic = "critic mean aspect another tower absent dress athlete travel limb balance flat";
+var mnemonic = "girl raven hammer cushion nephew win galaxy toy speed become kidney alpha";

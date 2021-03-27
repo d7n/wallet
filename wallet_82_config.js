@@ -1,1 +1,1 @@
-var mnemonic = "abstract afraid jelly problem wrestle debate pet chief slim hen come help";
+var mnemonic = "rack museum sell claw royal velvet biology derive zero valve coral vanish";

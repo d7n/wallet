@@ -1,1 +1,1 @@
-var mnemonic = "shed popular twin disease door swing sniff quarter bridge laundry tell duck";
+var mnemonic = "bean prison lab act card census roof cinnamon wash next note shoulder";

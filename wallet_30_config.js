@@ -1,1 +1,1 @@
-var mnemonic = "element suffer used twelve bulk bean aunt notice stone naive tent mix";
+var mnemonic = "net garment fantasy time exact spare fabric swallow trumpet glare jar hurt";

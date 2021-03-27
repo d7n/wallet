@@ -1,1 +1,1 @@
-var mnemonic = "act sustain front slide episode camera reward biology corn obtain happy chaos";
+var mnemonic = "squeeze issue genuine mimic holiday area radio sausage dinner kitchen stem price";

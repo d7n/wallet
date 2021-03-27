@@ -1,1 +1,1 @@
-var mnemonic = "october genuine cupboard fiscal dance armed credit kind grass fold shed learn";
+var mnemonic = "churn public novel dog cushion west lens wise usage clinic nephew empower";

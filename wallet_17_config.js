@@ -1,1 +1,1 @@
-var mnemonic = "fog update host cereal second health piece fork fiscal ketchup example elegant";
+var mnemonic = "menu library elbow dismiss glide start casino neglect announce tortoise album spin";

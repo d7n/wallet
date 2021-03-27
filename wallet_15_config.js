@@ -1,1 +1,1 @@
-var mnemonic = "wire valley ignore dove arrow forget obscure bullet defy become divorce report";
+var mnemonic = "melt fee gun best drop bind earth critic uniform tower federal develop";

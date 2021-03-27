@@ -1,1 +1,1 @@
-var mnemonic = "fire total honey glass crouch essence cradle rice peasant during report divert";
+var mnemonic = "fiber buyer lyrics lottery reveal bridge scheme pitch sell harbor donate orient";

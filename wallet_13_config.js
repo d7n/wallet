@@ -1,1 +1,1 @@
-var mnemonic = "trigger bean civil bomb deliver prison security recipe flat helmet can evil";
+var mnemonic = "have emotion increase refuse caution cradle oblige muffin describe minute basket before";

@@ -1,1 +1,1 @@
-var mnemonic = "flavor left giggle echo retire monitor robot woman cost ring giraffe write";
+var mnemonic = "woman paddle say enemy fever pattern shield little another grit immune shrug";

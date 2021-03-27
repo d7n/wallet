@@ -1,1 +1,1 @@
-var mnemonic = "sword comic husband play episode penalty busy hybrid laptop depth nature jar";
+var mnemonic = "nominee switch tag kick victory genre depart banana fever benefit pelican crazy";

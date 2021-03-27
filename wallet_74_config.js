@@ -1,1 +1,1 @@
-var mnemonic = "human cram avoid estate else consider disease best skate gift theme clown";
+var mnemonic = "caught drop naive middle infant arch current report add menu deer apart";

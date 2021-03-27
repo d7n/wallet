@@ -1,1 +1,1 @@
-var mnemonic = "domain wild have impose often exist left lock health you unlock office";
+var mnemonic = "gold proud volcano will dance already museum moon wave weekend donate peace";

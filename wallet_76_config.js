@@ -1,1 +1,1 @@
-var mnemonic = "super puppy organ danger unique hood thumb wisdom feed comfort rabbit pioneer";
+var mnemonic = "hurry winner mosquito sadness vivid toy side never dad asset okay relief";

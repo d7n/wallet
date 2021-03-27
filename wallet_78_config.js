@@ -1,1 +1,1 @@
-var mnemonic = "cup jar donor large inmate prosper curtain drama despair voyage palm green";
+var mnemonic = "side garlic trouble zone comic mobile lab cart torch butter chicken napkin";

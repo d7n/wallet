@@ -1,1 +1,1 @@
-var mnemonic = "element foot wait stay rebuild brass grant resource crop segment shy found";
+var mnemonic = "car person immense situate obvious illness mercy spare entire impose pass police";

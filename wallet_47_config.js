@@ -1,1 +1,1 @@
-var mnemonic = "mistake scout stick bottom host merit hub vacant topic south feed always";
+var mnemonic = "benefit drama history shop wash force laugh rebel fame grunt atom torch";

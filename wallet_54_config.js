@@ -1,1 +1,1 @@
-var mnemonic = "disagree brass task found notable awkward eternal inspire empower inject leave sphere";
+var mnemonic = "cute hospital green spawn vital embody primary whisper grocery fine stairs swim";

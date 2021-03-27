@@ -1,1 +1,1 @@
-var mnemonic = "laundry six genuine waste faith practice lottery three focus boss fluid honey";
+var mnemonic = "nothing miracle suggest obscure swap brown lazy load hotel trick addict floor";

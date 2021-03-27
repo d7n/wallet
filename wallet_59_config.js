@@ -1,1 +1,1 @@
-var mnemonic = "wagon alpha above glow monster lecture hurdle sample damp never crucial legend";
+var mnemonic = "lady dose embody gain opera bunker correct sense note coach bitter sun";

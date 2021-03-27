@@ -1,1 +1,1 @@
-var mnemonic = "thing trash exist lawsuit moral project primary error pipe meat badge income";
+var mnemonic = "guess camera hobby income swap leave mansion wagon salmon sick daughter excite";

@@ -1,1 +1,1 @@
-var mnemonic = "still garage dolphin blame duck slogan limb oblige bean axis mixture typical";
+var mnemonic = "vault cat minor health all wave aisle kidney exact lava weapon early";

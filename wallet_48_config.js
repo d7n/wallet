@@ -1,1 +1,1 @@
-var mnemonic = "claim lumber equip media horn drum lunar wise pear engage pet skate";
+var mnemonic = "try tell gloom panic swear crush gallery foam modify destroy tuna curious";

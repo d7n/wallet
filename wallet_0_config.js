@@ -1,1 +1,1 @@
-var mnemonic = "agent nominee journey tree blast blur seven kitchen upper liquid essay cost";
+var mnemonic = "insect lucky six camera inmate toward uncle trade mention unable sell salute";

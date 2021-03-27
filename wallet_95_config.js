@@ -1,1 +1,1 @@
-var mnemonic = "rural scare solve owner slogan bachelor artist distance cream pink wash enable";
+var mnemonic = "quality ribbon cushion rice chalk price push bus habit volcano caught easy";

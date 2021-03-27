@@ -1,1 +1,1 @@
-var mnemonic = "arrest roast skate west social lift taxi depart vendor mistake truck demise";
+var mnemonic = "loan shoulder someone soap grab soon dry snow treat bone bean lake";

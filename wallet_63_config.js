@@ -1,1 +1,1 @@
-var mnemonic = "coconut pole auction pen hazard annual dog swim man fork deputy series";
+var mnemonic = "tunnel dutch mom eye mirror energy nerve smooth burst square upon off";

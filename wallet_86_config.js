@@ -1,1 +1,1 @@
-var mnemonic = "intact relief oxygen rice drink false please bonus trust cactus meadow history";
+var mnemonic = "blouse replace silver cake proof depart dilemma leopard fall wool hobby cigar";

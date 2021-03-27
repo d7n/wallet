@@ -1,1 +1,1 @@
-var mnemonic = "nephew obtain payment drink scrub club crash steel borrow comic vital taste";
+var mnemonic = "circle dinner permit oyster mixed heavy tonight eagle love coil broccoli supreme";

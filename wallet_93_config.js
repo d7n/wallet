@@ -1,1 +1,1 @@
-var mnemonic = "finish fragile police judge denial inherit decade cargo select worth chuckle unusual";
+var mnemonic = "topple high creek road version act sword noodle snake tongue laptop rocket";

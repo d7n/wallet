@@ -1,1 +1,1 @@
-var mnemonic = "unaware antenna finger gauge alert park deliver cave horse act rely rural";
+var mnemonic = "virtual expect diagram plunge symptom defy about alter ritual process pilot true";

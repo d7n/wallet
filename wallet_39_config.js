@@ -1,1 +1,1 @@
-var mnemonic = "blue fly balcony fruit shock region whisper lesson sibling puppy pipe bring";
+var mnemonic = "twelve inch festival shed concert foot skate you hunt stamp element add";

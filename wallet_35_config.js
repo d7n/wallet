@@ -1,1 +1,1 @@
-var mnemonic = "swarm cactus glad jungle tobacco oak view anger alcohol cabbage embrace borrow";
+var mnemonic = "monkey mushroom victory mind story myself jazz movie emotion address design balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "edit tornado opinion notice gaze float talk fiber burden stamp zoo emotion";
+var mnemonic = "expand civil plug urban subway remain riot library bleak grape weapon ranch";

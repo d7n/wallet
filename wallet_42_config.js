@@ -1,1 +1,1 @@
-var mnemonic = "fury tackle wealth head coil dial media festival wagon burger brother glory";
+var mnemonic = "merit actual ensure critic income habit lucky dose venture warfare quality million";

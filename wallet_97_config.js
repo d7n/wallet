@@ -1,1 +1,1 @@
-var mnemonic = "mother okay under more false bamboo add intact arrow endless story run";
+var mnemonic = "arrive cattle drum laugh between need parent tip lab connect ignore camp";

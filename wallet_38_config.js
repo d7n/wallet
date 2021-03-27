@@ -1,1 +1,1 @@
-var mnemonic = "render tenant engage oval sample draft tiger else bus parent critic tomorrow";
+var mnemonic = "hunt pledge aerobic hair flock reunion end ugly valley ill index swap";

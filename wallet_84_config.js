@@ -1,1 +1,1 @@
-var mnemonic = "shaft whisper manage useful since ask unveil lamp manage catch divorce dutch";
+var mnemonic = "clap appear unable stereo finger mesh gospel robust tiny board sell caution";

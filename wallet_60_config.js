@@ -1,1 +1,1 @@
-var mnemonic = "this brick upper quote carpet piano echo cube face oppose fiber scout";
+var mnemonic = "scale side buzz spirit now escape steel garbage dance foil nature manual";

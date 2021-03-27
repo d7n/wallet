@@ -1,1 +1,1 @@
-var mnemonic = "unknown cry daughter yard section year face thought crowd only romance inspire";
+var mnemonic = "cattle raven lumber abandon someone bitter diary spin mechanic frown price gorilla";

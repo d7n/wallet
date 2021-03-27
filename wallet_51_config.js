@@ -1,1 +1,1 @@
-var mnemonic = "blame panther enroll social ribbon easy bubble soap attend escape olympic audit";
+var mnemonic = "erupt mesh wage crop point merge idle broken bomb head arrow limit";

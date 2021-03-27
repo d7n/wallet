@@ -1,1 +1,1 @@
-var mnemonic = "chat whale engage legal spider story void curious balcony beyond boss erosion";
+var mnemonic = "truth emerge sorry thumb student cluster glimpse enrich outdoor movie require clarify";

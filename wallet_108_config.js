@@ -1,1 +1,1 @@
-var mnemonic = "spot gaze dizzy scout pond early alcohol option bargain scare weird turkey";
+var mnemonic = "reduce index sweet apart river course coast text hospital place security document";

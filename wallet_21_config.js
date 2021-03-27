@@ -1,1 +1,1 @@
-var mnemonic = "soup reflect learn fan south wrestle artefact dad suspect knife property antique";
+var mnemonic = "domain wrist degree refuse capital velvet kick record hurt pipe unusual meadow";

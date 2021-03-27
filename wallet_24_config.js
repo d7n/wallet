@@ -1,1 +1,1 @@
-var mnemonic = "make vital frozen make crack goose dance urge share live auto lawn";
+var mnemonic = "woman duty aware cage leader review biology focus moment have garage volcano";

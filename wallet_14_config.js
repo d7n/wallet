@@ -1,1 +1,1 @@
-var mnemonic = "naive return demise rocket address curve orphan cost nature inner evidence glare";
+var mnemonic = "meat next prosper shaft disease scout verify cherry avocado deny lab bulb";

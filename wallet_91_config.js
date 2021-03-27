@@ -1,1 +1,1 @@
-var mnemonic = "boat tent convince seminar kidney win truck kit put laugh pilot empower";
+var mnemonic = "clip tongue improve sentence region crack response hawk deposit dutch develop suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "able crazy sketch long trash globe reopen mixed rent message fruit best";
+var mnemonic = "eager ranch metal nest length inside ethics raven illegal firm nature adapt";

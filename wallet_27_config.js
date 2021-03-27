@@ -1,1 +1,1 @@
-var mnemonic = "cover second shop depart hood festival mom make fringe coast road broom";
+var mnemonic = "print silly tube elite volcano shrug portion toss link lake canyon vapor";

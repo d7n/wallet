@@ -1,1 +1,1 @@
-var mnemonic = "list artefact canvas flat jar bracket very uniform kind used convince tuition";
+var mnemonic = "figure open inherit enact harvest uncover civil hurry hobby you attract day";

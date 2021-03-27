@@ -1,1 +1,1 @@
-var mnemonic = "invest bracket topic glory element memory noble friend head issue pear ball";
+var mnemonic = "candy east stock panda bread hip gas camera chalk field sheriff brass";

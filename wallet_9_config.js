@@ -1,1 +1,1 @@
-var mnemonic = "fiscal rapid notable shoot pen bright survey ripple sting save ticket news";
+var mnemonic = "copper eyebrow media lounge fluid text provide ship equip wear venue circle";

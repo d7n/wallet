@@ -1,1 +1,1 @@
-var mnemonic = "cloud bundle sentence flip stick pattern bleak maze print better tank lottery";
+var mnemonic = "smile raise found easy razor render area display lazy sister couch asset";

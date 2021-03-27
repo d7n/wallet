@@ -1,1 +1,1 @@
-var mnemonic = "sweet obey later scrub session retire glad chronic lake divert vessel ethics";
+var mnemonic = "blast region retreat comfort ridge pelican camp detail sunny govern valley liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "grid blame unhappy team swing fork neither toward evidence area nose scrap";
+var mnemonic = "lunar warrior loan exile attack choice enter escape asthma inherit blast wool";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot solution vote venue urge into tool honey search romance ship bench";
+var mnemonic = "father shoot able protect canyon discover program gas island gather boat case";

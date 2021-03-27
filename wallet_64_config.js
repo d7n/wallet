@@ -1,1 +1,1 @@
-var mnemonic = "social scene relief sugar unusual video cactus alley acid sense pyramid nephew";
+var mnemonic = "just observe float error cube grid answer melody reunion tent smoke push";

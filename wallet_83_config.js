@@ -1,1 +1,1 @@
-var mnemonic = "lens chase flavor banana uphold doll chase noise angry burger ladder page";
+var mnemonic = "fresh monkey science month lemon satoshi rhythm equal always census hurdle slot";

@@ -1,1 +1,1 @@
-var mnemonic = "charge buzz delay chair slight proof fun mean poet dish maple curtain";
+var mnemonic = "palm vague unfair level code doll repair together among raw token text";

@@ -1,1 +1,1 @@
-var mnemonic = "game someone borrow bean pistol tongue domain cart weekend wink elevator license";
+var mnemonic = "elder example boost absent skirt record couple duty vibrant grain library duty";

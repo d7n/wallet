@@ -1,1 +1,1 @@
-var mnemonic = "pass unlock cushion jealous woman item inside cube pink front cook spawn";
+var mnemonic = "diet envelope magnet border goddess mixed draw law ball accuse ugly helmet";

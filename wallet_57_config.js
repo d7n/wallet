@@ -1,1 +1,1 @@
-var mnemonic = "slot tube frame flower soon nuclear rhythm copy cattle truly source provide";
+var mnemonic = "twice surround develop solid marriage future future dance attend horse torch shrug";

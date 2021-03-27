@@ -1,1 +1,1 @@
-var mnemonic = "allow core narrow owner farm glimpse shoot absurd search health approve gasp";
+var mnemonic = "differ suffer damage photo invite dragon normal mandate lunar neutral amateur lens";

@@ -1,1 +1,1 @@
-var mnemonic = "program write tip include pair betray plate velvet oblige cousin bottom beach";
+var mnemonic = "hen gas push claw country diagram measure crash horn owner village base";

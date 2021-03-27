@@ -1,1 +1,1 @@
-var mnemonic = "plunge banner adjust someone age trim minor solve grow concert nurse gesture";
+var mnemonic = "always burst multiply museum icon object glance scout unknown habit cricket fuel";

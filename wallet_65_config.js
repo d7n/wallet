@@ -1,1 +1,1 @@
-var mnemonic = "audit time family another useful agree fire daring veteran pudding alley vintage";
+var mnemonic = "eager series cruise aim oppose vehicle stamp source stool ankle aspect season";

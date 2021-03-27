@@ -1,1 +1,1 @@
-var mnemonic = "raccoon thunder drastic latin sun razor ceiling salt brain question razor nice";
+var mnemonic = "become zone arrest tissue medal donor caution cousin output worth solve diary";

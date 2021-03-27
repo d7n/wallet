@@ -1,1 +1,1 @@
-var mnemonic = "tilt shoulder carpet junior sadness danger symbol front slab unlock devote together";
+var mnemonic = "tomato lobster fragile program trim way survey leopard undo bench car display";

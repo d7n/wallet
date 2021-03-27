@@ -1,1 +1,1 @@
-var mnemonic = "remind below meadow arrow trap swallow desert enlist fever orphan tired hood";
+var mnemonic = "foil decide effort grain reject unknown gun fossil clutch lion mutual error";

@@ -1,1 +1,1 @@
-var mnemonic = "note pass milk lawn slow clutch beyond confirm cable actor hybrid inmate";
+var mnemonic = "child winner art kingdom paddle patch jar brown foot file nominee regular";

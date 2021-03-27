@@ -1,1 +1,1 @@
-var mnemonic = "divert tunnel deal equal fantasy champion mammal follow grief dignity turn float";
+var mnemonic = "purity hand bicycle matter salt intact cheap wife chalk scout summer cinnamon";

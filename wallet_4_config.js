@@ -1,1 +1,1 @@
-var mnemonic = "kick relief clever level must hat quantum celery tissue error exhibit average";
+var mnemonic = "wine trip eye glove network lottery model pass family cause bachelor employ";

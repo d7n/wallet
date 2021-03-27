@@ -1,1 +1,1 @@
-var mnemonic = "noble rookie human mom height iron borrow paddle pride taste split observe";
+var mnemonic = "reward remind disorder speak hover defense define chest neglect scout lock recycle";

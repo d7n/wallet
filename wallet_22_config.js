@@ -1,1 +1,1 @@
-var mnemonic = "afford opera fever great street board moral easy cupboard limb ill rare";
+var mnemonic = "acid attend sign amused solution creek escape vacuum fluid parent close forum";

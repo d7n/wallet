@@ -1,1 +1,1 @@
-var mnemonic = "put joke another pulp flip crater fiction inspire marine boss favorite ordinary";
+var mnemonic = "danger group parrot impose amount small urban review cement avoid increase cherry";

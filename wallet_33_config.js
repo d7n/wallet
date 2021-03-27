@@ -1,1 +1,1 @@
-var mnemonic = "broken cream decrease gift language entire income diet wine laundry alarm trade";
+var mnemonic = "describe review crash heavy system layer fetch promote current this pride slim";

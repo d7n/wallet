@@ -1,1 +1,1 @@
-var mnemonic = "stereo crystal slow ship boat place churn rule sauce outdoor busy appear";
+var mnemonic = "stable scrub afraid curve evoke fence bacon galaxy quantum brush story gas";

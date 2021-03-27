@@ -1,1 +1,1 @@
-var mnemonic = "virus robot humor title dragon proof bacon steak fiscal shoulder uniform perfect";
+var mnemonic = "jacket over bring banner slab ozone tennis dismiss tornado power ocean skill";

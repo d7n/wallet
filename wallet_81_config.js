@@ -1,1 +1,1 @@
-var mnemonic = "parade more company umbrella enhance viable lazy trouble floor cream brick core";
+var mnemonic = "turn immune lemon crawl border toast peanut defense weapon comfort trouble wagon";

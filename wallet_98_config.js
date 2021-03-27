@@ -1,1 +1,1 @@
-var mnemonic = "type trial rifle spider dilemma draw catalog twelve bonus boring zone plate";
+var mnemonic = "exchange supreme spy twelve expose venture outside estate pledge moment dutch indicate";

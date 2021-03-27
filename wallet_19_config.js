@@ -1,1 +1,1 @@
-var mnemonic = "kitten old ahead mail tourist absurd insect similar bind render film picture";
+var mnemonic = "upset tissue obtain scene icon loan bus attack shadow track party boost";

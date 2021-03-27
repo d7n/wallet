@@ -1,1 +1,1 @@
-var mnemonic = "raccoon gather lesson someone aim certain photo indoor actual gorilla cricket super";
+var mnemonic = "crunch retreat fox pupil tell essay spot curious monkey material senior foam";

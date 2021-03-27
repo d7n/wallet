@@ -1,1 +1,1 @@
-var mnemonic = "hurdle green surprise velvet width gun bonus ill picture arch yellow alarm";
+var mnemonic = "tray truck shield sudden wide bacon sample essay knock flip gun friend";

@@ -1,1 +1,1 @@
-var mnemonic = "people pride table buffalo link afford layer enhance diet gap radio quote";
+var mnemonic = "crunch tilt deny mystery mountain accuse enemy easy rookie tongue tunnel bamboo";

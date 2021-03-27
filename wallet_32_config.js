@@ -1,1 +1,1 @@
-var mnemonic = "jazz oven logic mixed jump punch medal student athlete chaos odor print";
+var mnemonic = "have shed ripple flame door uncle ripple travel spread hedgehog year deliver";

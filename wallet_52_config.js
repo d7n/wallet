@@ -1,1 +1,1 @@
-var mnemonic = "what skill shuffle guard stumble orphan prefer relax garbage today embody person";
+var mnemonic = "crazy theme produce grow sun black evoke uphold fault sniff quantum surround";
