@@ -1,1 +1,1 @@
-var mnemonic = "taste couple elder dry online balance canvas ivory title same culture logic";
+var mnemonic = "improve galaxy tackle today minimum forest quarter credit tattoo quality clap lock";

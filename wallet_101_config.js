@@ -1,1 +1,1 @@
-var mnemonic = "hurry melt never view during bind differ much exchange castle able head";
+var mnemonic = "donate change zone borrow exhibit afford bird volcano dizzy harsh rifle toss";

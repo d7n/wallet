@@ -1,1 +1,1 @@
-var mnemonic = "horror unit major fire glove net fabric action devote sad orbit size";
+var mnemonic = "during total tide sting health still multiply error town harsh expire glad";

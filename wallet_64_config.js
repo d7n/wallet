@@ -1,1 +1,1 @@
-var mnemonic = "holiday myself mixed field gather end oil axis bench dizzy huge joy";
+var mnemonic = "saddle curious whip denial usage ice remind table gift flee ten salmon";

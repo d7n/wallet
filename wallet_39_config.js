@@ -1,1 +1,1 @@
-var mnemonic = "identify canoe cover royal antique rhythm right decorate settle web spoil forget";
+var mnemonic = "safe assist junk squirrel squirrel business water couple engine old biology tool";

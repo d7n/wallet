@@ -1,1 +1,1 @@
-var mnemonic = "twist valley sleep august cliff increase mixed vanish own faint virtual anger";
+var mnemonic = "orange climb eight snap invite pipe stamp disagree sun skirt scorpion bargain";

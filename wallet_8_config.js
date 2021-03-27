@@ -1,1 +1,1 @@
-var mnemonic = "rare report repair gun keep patient senior breeze math ticket admit method";
+var mnemonic = "below dove track dolphin forum toe since digital antenna luxury idea amateur";

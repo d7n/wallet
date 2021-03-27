@@ -1,1 +1,1 @@
-var mnemonic = "empower danger letter giraffe area bunker suffer cause learn amused fitness sort";
+var mnemonic = "dinosaur seed duck wisdom jealous chimney visa tent scrub labor choice work";

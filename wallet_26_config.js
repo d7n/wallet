@@ -1,1 +1,1 @@
-var mnemonic = "give oval post canyon gown wisdom execute solar ocean session adult evolve";
+var mnemonic = "secret ignore coconut dismiss admit copy battle clap tooth tongue street jump";

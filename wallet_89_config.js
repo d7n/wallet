@@ -1,1 +1,1 @@
-var mnemonic = "end shaft hurt ski cupboard clarify during slender universe version gloom inhale";
+var mnemonic = "swift spin dice banner furnace letter taste smart usage often ozone awake";

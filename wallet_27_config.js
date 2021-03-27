@@ -1,1 +1,1 @@
-var mnemonic = "develop candy forum depart marine spoil security because clerk physical chief crush";
+var mnemonic = "online suggest word rack absorb dilemma short total glare family tilt polar";

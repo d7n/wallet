@@ -1,1 +1,1 @@
-var mnemonic = "tower fun version unveil defy maple boy gap run summer group inner";
+var mnemonic = "vintage sustain unusual knife try draft arena bind volcano account pitch correct";

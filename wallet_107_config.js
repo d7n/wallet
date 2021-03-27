@@ -1,1 +1,1 @@
-var mnemonic = "junior wrap corn exhibit rotate chair display canvas used remember brand rate";
+var mnemonic = "surprise void mystery sense make evoke group fault risk strong destroy cost";

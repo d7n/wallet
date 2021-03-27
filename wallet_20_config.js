@@ -1,1 +1,1 @@
-var mnemonic = "robot other gloom liquid cigar fish prosper confirm useful library gown aim";
+var mnemonic = "group pool merry child talent tired universe excuse admit young casino stomach";

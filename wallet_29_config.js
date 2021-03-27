@@ -1,1 +1,1 @@
-var mnemonic = "leg process ill gloom seat awesome grab divorce shine armed tree derive";
+var mnemonic = "series tomato safe spider false flag disorder noble recycle click law news";

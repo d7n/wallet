@@ -1,1 +1,1 @@
-var mnemonic = "chalk jungle sleep coconut sign success require general fuel educate timber nothing";
+var mnemonic = "rubber crucial stamp phrase conduct usual olympic cute air glimpse grunt coral";

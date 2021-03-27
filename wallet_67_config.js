@@ -1,1 +1,1 @@
-var mnemonic = "roast siege exhibit draft vast business elevator hair height unfold example twenty";
+var mnemonic = "huge buyer gossip laundry alert goose manage unique unfold tonight truck like";

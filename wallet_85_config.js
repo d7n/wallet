@@ -1,1 +1,1 @@
-var mnemonic = "dial film lottery capital panda comic busy horror edit order poet dance";
+var mnemonic = "uncle barely stone island illegal silly same foam such sister grass inhale";

@@ -1,1 +1,1 @@
-var mnemonic = "boost flock rubber suffer void stove dentist inner memory water world recall";
+var mnemonic = "endorse movie magic similar iron purse rhythm damp knee economy gloom staff";

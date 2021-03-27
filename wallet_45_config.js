@@ -1,1 +1,1 @@
-var mnemonic = "celery nation supreme rib endorse protect coral race hockey soldier toe expire";
+var mnemonic = "system budget blush shock banner plunge silly hello print knee chimney asthma";

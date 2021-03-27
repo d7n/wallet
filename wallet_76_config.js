@@ -1,1 +1,1 @@
-var mnemonic = "drill control evidence rib child word mesh alter brother execute prevent solve";
+var mnemonic = "globe liquid fragile immune armor practice vault grief mosquito hazard orchard coyote";

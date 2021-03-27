@@ -1,1 +1,1 @@
-var mnemonic = "pact require heavy swear lecture pattern coach fiction frame cannon buzz reduce";
+var mnemonic = "flame trial retreat distance exercise cheese body humble exclude early steak govern";

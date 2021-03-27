@@ -1,1 +1,1 @@
-var mnemonic = "deer exist evolve logic destroy jealous vessel want sort month brain smart";
+var mnemonic = "sustain oxygen today elder pair heart churn crazy equip calm submit stock";

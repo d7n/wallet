@@ -1,1 +1,1 @@
-var mnemonic = "wreck fragile bacon chalk escape jazz differ skull mom one disease blind";
+var mnemonic = "hockey tongue cricket barrel latin quick sword whip lazy fortune sick wire";

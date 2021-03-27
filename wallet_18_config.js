@@ -1,1 +1,1 @@
-var mnemonic = "daring legend energy north gaze little first artefact engage joke pledge aspect";
+var mnemonic = "drift vague relax universe puppy jazz pear lady modify north local clown";

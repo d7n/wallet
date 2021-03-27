@@ -1,1 +1,1 @@
-var mnemonic = "sail excite citizen gorilla float season magnet file obscure spare hover velvet";
+var mnemonic = "number amateur fault scan young seat raven test entry stomach trap oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "start gauge lottery peasant planet guard metal crime visual express exact exotic";
+var mnemonic = "hollow detail blur hundred tragic bonus gauge minimum shift soldier marriage phrase";

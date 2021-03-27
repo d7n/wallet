@@ -1,1 +1,1 @@
-var mnemonic = "manual escape verb chair lend entry seminar shrimp federal wild dolphin mushroom";
+var mnemonic = "obscure weird soldier tag nice cannon inside emerge parent swift ivory ramp";

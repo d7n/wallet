@@ -1,1 +1,1 @@
-var mnemonic = "cousin stuff leisure agree federal lucky merit journey bronze snow company nasty";
+var mnemonic = "key catch such awesome jar thrive eyebrow step approve sick cement strong";

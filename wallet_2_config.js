@@ -1,1 +1,1 @@
-var mnemonic = "chest helmet essence breeze mention zebra kiss tool laptop hello industry black";
+var mnemonic = "almost bubble glare wasp brave drip gallery gauge purity public borrow fork";

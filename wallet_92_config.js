@@ -1,1 +1,1 @@
-var mnemonic = "betray push correct airport knock debate knife seven amount mushroom busy accuse";
+var mnemonic = "kid hollow market stereo elder wagon wife gossip object surface town parrot";

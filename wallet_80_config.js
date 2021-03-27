@@ -1,1 +1,1 @@
-var mnemonic = "panic dynamic vapor target rate bag join inhale inform cargo priority hover";
+var mnemonic = "joke color reward mercy divide book hip when lawn first dove improve";

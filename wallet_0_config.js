@@ -1,1 +1,1 @@
-var mnemonic = "behave dinner canoe defy wine quote frown carbon access word senior frost";
+var mnemonic = "head salt amused pumpkin steak milk write scene poet road omit gravity";

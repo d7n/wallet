@@ -1,1 +1,1 @@
-var mnemonic = "either snack festival crash list high diet guess alpha echo wife become";
+var mnemonic = "illegal scale gorilla believe fish mechanic fix bulb hub slight choice dog";

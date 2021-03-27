@@ -1,1 +1,1 @@
-var mnemonic = "law right art master cherry right shoe dolphin resource bleak alert awkward";
+var mnemonic = "mimic lazy key service fury veteran aisle planet damage yard universe snow";

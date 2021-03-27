@@ -1,1 +1,1 @@
-var mnemonic = "swim shield success fantasy intact float royal coffee merge need ball auto";
+var mnemonic = "object very veteran narrow tell anger pattern hello life opinion fly sand";

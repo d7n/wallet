@@ -1,1 +1,1 @@
-var mnemonic = "gesture normal mule cruel require catalog rose extra daring knife inmate recall";
+var mnemonic = "friend trial shy wasp return immense harsh exercise design source wreck park";

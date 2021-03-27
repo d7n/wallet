@@ -1,1 +1,1 @@
-var mnemonic = "smooth leopard define air meat heart region expand frame squirrel dentist student";
+var mnemonic = "awkward wall assist demise wrap when enforce wire lens forest juice moral";

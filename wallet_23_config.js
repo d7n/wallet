@@ -1,1 +1,1 @@
-var mnemonic = "music cattle economy drift retire soft fall tower business they liar vault";
+var mnemonic = "sweet chicken object gesture also scene guilt palm chaos cousin chat monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "embark industry yellow island truly salmon original deposit light insect diesel main";
+var mnemonic = "chronic ski parrot chimney crisp patrol inhale almost capable history parent heavy";

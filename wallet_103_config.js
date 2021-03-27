@@ -1,1 +1,1 @@
-var mnemonic = "child sweet park grocery half shallow cause farm distance smoke remind raise";
+var mnemonic = "sheriff endless dwarf short agent venue strategy hope album cradle october certain";

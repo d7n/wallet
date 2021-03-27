@@ -1,1 +1,1 @@
-var mnemonic = "sugar wet estate expect mimic gold winner disorder napkin gospel viable follow";
+var mnemonic = "drastic already mean joy evidence rotate domain dismiss erosion fiction ordinary early";

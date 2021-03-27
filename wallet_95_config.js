@@ -1,1 +1,1 @@
-var mnemonic = "mistake mad number defy coast blanket smooth spice soda web wrong regret";
+var mnemonic = "drop ethics glove crush sure glide cousin garbage inject field endorse ancient";

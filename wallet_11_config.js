@@ -1,1 +1,1 @@
-var mnemonic = "dwarf indicate permit chicken mind agree option loan egg miracle certain draw";
+var mnemonic = "surge sad habit staff settle surface keen supreme return endless skull leg";

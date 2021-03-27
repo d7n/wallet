@@ -1,1 +1,1 @@
-var mnemonic = "mean seat right enrich rib guitar spare ordinary tilt receive boat person";
+var mnemonic = "release rival session use culture trip invest pelican lazy mother drama pave";

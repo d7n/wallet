@@ -1,1 +1,1 @@
-var mnemonic = "popular cereal clarify winter absorb crucial liquid distance knife ticket treat off";
+var mnemonic = "oval coach panda loan fossil habit universe yard thunder kiss round march";

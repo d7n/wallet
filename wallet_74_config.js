@@ -1,1 +1,1 @@
-var mnemonic = "stamp horror project shine skate toe army pumpkin oppose dumb crew stage";
+var mnemonic = "addict average space broccoli obscure canvas traffic try buyer squeeze favorite hotel";

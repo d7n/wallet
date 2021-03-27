@@ -1,1 +1,1 @@
-var mnemonic = "stage swing wrist local zebra cook world rude survey soda hobby pumpkin";
+var mnemonic = "first monkey garage powder update frame chaos tornado dawn spy hello decorate";

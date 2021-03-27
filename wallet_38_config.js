@@ -1,1 +1,1 @@
-var mnemonic = "review gospel rotate ancient merge decorate lava type flower wisdom iron today";
+var mnemonic = "inner bid poet chapter dolphin tennis retreat fury toe miss lazy hurt";

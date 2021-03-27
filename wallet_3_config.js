@@ -1,1 +1,1 @@
-var mnemonic = "tell moon chief waste emerge fossil sport junk spike danger net surprise";
+var mnemonic = "main payment pottery spare then laugh drum banana insect account country suffer";

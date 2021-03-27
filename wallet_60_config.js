@@ -1,1 +1,1 @@
-var mnemonic = "galaxy puppy toe lemon farm vault sort chicken region food laugh minute";
+var mnemonic = "trick abandon seed fault reveal supreme whale river word swallow pen spirit";

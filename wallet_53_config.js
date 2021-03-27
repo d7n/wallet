@@ -1,1 +1,1 @@
-var mnemonic = "peasant crush feed tell pull orchard suspect supreme bargain dream penalty measure";
+var mnemonic = "soul casino cheap bar brief cradle chimney economy twenty hospital act ramp";

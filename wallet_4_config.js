@@ -1,1 +1,1 @@
-var mnemonic = "mosquito current arm install adult announce note hour code jazz basic learn";
+var mnemonic = "forum canoe rice derive burst deputy either mind sense kingdom dry pledge";

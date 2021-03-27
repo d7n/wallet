@@ -1,1 +1,1 @@
-var mnemonic = "capable elegant sea scrap educate river borrow thrive garlic transfer veteran maid";
+var mnemonic = "meadow ability feed ketchup potato wisdom unusual risk spin similar hat little";

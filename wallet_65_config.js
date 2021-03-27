@@ -1,1 +1,1 @@
-var mnemonic = "ball amused green wood fiscal congress torch creek naive idle kiss measure";
+var mnemonic = "mention cannon live decide adapt churn finish embark health snake ski grace";

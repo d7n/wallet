@@ -1,1 +1,1 @@
-var mnemonic = "ability taste bright history dumb cabbage prepare team slim pottery foam dirt";
+var mnemonic = "dry valid fatigue various twelve bullet lyrics hurry whale project wire hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "warfare arctic trial input crouch quiz kangaroo minimum token prosper knock patient";
+var mnemonic = "volcano lift scissors page then wrap bulb welcome salt jaguar elite title";

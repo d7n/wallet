@@ -1,1 +1,1 @@
-var mnemonic = "novel birth cabin panda farm unknown source again then allow shoot claw";
+var mnemonic = "enrich bring admit elite they disorder unfair text recipe seek over mind";

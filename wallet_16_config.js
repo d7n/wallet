@@ -1,1 +1,1 @@
-var mnemonic = "symptom cotton inmate buddy symptom air leader mandate walk couch buddy off";
+var mnemonic = "error there they relax because hard manual regular sibling exist mind olive";

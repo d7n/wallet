@@ -1,1 +1,1 @@
-var mnemonic = "anxiety learn river immense blossom ring cigar speak viable slide benefit proud";
+var mnemonic = "boost beauty panda umbrella solve army limit inhale minimum easy other profit";

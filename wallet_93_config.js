@@ -1,1 +1,1 @@
-var mnemonic = "cat husband treat few piece ketchup age also acid elephant mistake acquire";
+var mnemonic = "cricket employ cook spot car unit outdoor they detail loyal bacon inhale";

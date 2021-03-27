@@ -1,1 +1,1 @@
-var mnemonic = "short detail total powder crunch already best layer street welcome focus jewel";
+var mnemonic = "victory rocket pilot plate learn segment gap husband wife limb drill lawsuit";

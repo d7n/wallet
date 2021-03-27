@@ -1,1 +1,1 @@
-var mnemonic = "gym six rail pig young liar open shoulder situate angry swallow cause";
+var mnemonic = "claim middle heart shed popular click grunt proof reopen unhappy health label";

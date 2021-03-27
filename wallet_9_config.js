@@ -1,1 +1,1 @@
-var mnemonic = "catch tomorrow live clap fat twin mandate deny win cherry reflect begin";
+var mnemonic = "nuclear churn vehicle blur salon tired speak visit satoshi butter amateur plunge";

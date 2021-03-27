@@ -1,1 +1,1 @@
-var mnemonic = "husband universe end afraid unknown scan medal output narrow tail gallery slab";
+var mnemonic = "wisdom push coyote ocean detail vote motor genius myself success skin question";

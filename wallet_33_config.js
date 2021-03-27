@@ -1,1 +1,1 @@
-var mnemonic = "true expire lawn reform prepare layer add once minute wage tonight youth";
+var mnemonic = "opinion quit elephant hunt impact deny vivid chuckle harvest siege either guess";

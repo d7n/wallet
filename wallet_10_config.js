@@ -1,1 +1,1 @@
-var mnemonic = "bracket sudden boss crush any exact city stage nature leader bottom rescue";
+var mnemonic = "dolphin bicycle retreat trigger immune inner exit rotate tribe innocent tuition pumpkin";

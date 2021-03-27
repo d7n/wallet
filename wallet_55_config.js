@@ -1,1 +1,1 @@
-var mnemonic = "country exhaust garden traffic paddle idea rebuild resource awful muscle tool expect";
+var mnemonic = "skate kit dawn happy wish decorate follow permit page output apart obey";

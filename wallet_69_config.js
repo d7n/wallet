@@ -1,1 +1,1 @@
-var mnemonic = "slush large math page van base slot produce outer pulse onion safe";
+var mnemonic = "flush maximum happy warm host often coconut alcohol settle nut spice sudden";

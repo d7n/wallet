@@ -1,1 +1,1 @@
-var mnemonic = "worth arrange enter nuclear bachelor move trigger defy orphan empty neck awful";
+var mnemonic = "harvest thing juice cancel spider muscle eager farm crazy canvas prize slight";

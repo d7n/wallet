@@ -1,1 +1,1 @@
-var mnemonic = "coast punch doctor coast quiz girl version castle warrior enforce gauge pepper";
+var mnemonic = "rely unit road lemon path slim thing honey trend floor bonus project";

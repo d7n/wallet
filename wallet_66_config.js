@@ -1,1 +1,1 @@
-var mnemonic = "rely address around exile jazz cause nasty express about whip curve recycle";
+var mnemonic = "curious share undo dentist chat pink grocery prefer tool bottom jeans wise";

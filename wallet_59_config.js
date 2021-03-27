@@ -1,1 +1,1 @@
-var mnemonic = "force tuition buzz vintage loud method essence upset risk harbor tired glad";
+var mnemonic = "demise matrix steak object dial make enact foil palace silly welcome bracket";

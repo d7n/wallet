@@ -1,1 +1,1 @@
-var mnemonic = "buffalo option dust mobile cream during patient misery copy lobster reject energy";
+var mnemonic = "abstract vivid wish weapon green meat fluid educate online garage swear cool";

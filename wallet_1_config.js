@@ -1,1 +1,1 @@
-var mnemonic = "mean defy danger rigid fat when foot denial grunt bulb dry gasp";
+var mnemonic = "unaware survey similar annual misery inquiry spend margin ripple beyond behave feed";

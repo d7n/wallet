@@ -1,1 +1,1 @@
-var mnemonic = "decide rose feature lunch spider lamp patch husband hundred rug impact cruel";
+var mnemonic = "chimney tribe search enforce lawn over mouse tilt trap assist unit catalog";

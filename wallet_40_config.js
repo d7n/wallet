@@ -1,1 +1,1 @@
-var mnemonic = "carry lab pizza beyond guilt quantum drill tumble bar tube call that";
+var mnemonic = "valid foam biology world prevent scale city stereo shift grace mistake exhibit";

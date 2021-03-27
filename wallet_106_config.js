@@ -1,1 +1,1 @@
-var mnemonic = "punch merge chief impulse void task genius work bracket vast glass stove";
+var mnemonic = "erosion pudding knock define steak useless such knife ozone rival merit winner";

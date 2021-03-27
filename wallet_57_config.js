@@ -1,1 +1,1 @@
-var mnemonic = "give moral topic dress fabric cradle toddler please interest road smile final";
+var mnemonic = "receive state cute wet flat decorate shiver noble wage cook kite kit";

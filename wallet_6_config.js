@@ -1,1 +1,1 @@
-var mnemonic = "question fringe cash afraid obvious vote pistol lazy angle evidence army grab";
+var mnemonic = "school floor glance month club female soon salad skate shop license arrive";

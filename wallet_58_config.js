@@ -1,1 +1,1 @@
-var mnemonic = "across fence stadium weasel identify midnight sad relax reveal unfold helmet patient";
+var mnemonic = "clinic bar mean school age faith cream any jazz physical spin stand";

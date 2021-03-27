@@ -1,1 +1,1 @@
-var mnemonic = "project original alone recall blast relax spawn ugly method undo vapor loop";
+var mnemonic = "market ostrich strategy trash trap section measure walnut admit half allow glue";

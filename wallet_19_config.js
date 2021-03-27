@@ -1,1 +1,1 @@
-var mnemonic = "penalty tube junk winner vague flag window despair choose friend recall yard";
+var mnemonic = "sunny erode found wool sudden pledge harsh couple crawl cushion easily column";

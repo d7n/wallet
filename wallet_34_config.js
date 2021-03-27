@@ -1,1 +1,1 @@
-var mnemonic = "pudding sport second tunnel renew first invite palace urge little pact illegal";
+var mnemonic = "possible endorse camp pave potato arena phrase wire escape soccer clerk task";

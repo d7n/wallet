@@ -1,1 +1,1 @@
-var mnemonic = "garbage neutral beyond vapor myself forest twist wedding mosquito angle element near";
+var mnemonic = "because draw guide wear awkward range century april clerk output still force";

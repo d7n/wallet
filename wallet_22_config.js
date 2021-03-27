@@ -1,1 +1,1 @@
-var mnemonic = "clerk weasel develop hat menu option canyon day economy creek pair guard";
+var mnemonic = "jeans daughter mercy dizzy battle lecture gap quick tool credit thought unaware";

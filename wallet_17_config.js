@@ -1,1 +1,1 @@
-var mnemonic = "wife crazy acoustic chunk key decade catch behind lamp flower rhythm head";
+var mnemonic = "badge boss cinnamon donkey garden final tribe nerve cotton mirror ring nephew";

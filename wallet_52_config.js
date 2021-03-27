@@ -1,1 +1,1 @@
-var mnemonic = "swing mind vendor note arctic enter tobacco tenant genuine uniform detect clever";
+var mnemonic = "radio miracle thrive crowd require fix zero social split panic win glass";
