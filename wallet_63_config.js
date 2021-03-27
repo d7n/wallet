@@ -1,1 +1,1 @@
-var mnemonic = "derive ensure seminar refuse opinion shield phone tooth dirt west diagram scout";
+var mnemonic = "mean seat right enrich rib guitar spare ordinary tilt receive boat person";

@@ -1,1 +1,1 @@
-var mnemonic = "tray gift face flower kit smoke board nephew repeat drastic play next";
+var mnemonic = "rely address around exile jazz cause nasty express about whip curve recycle";

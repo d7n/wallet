@@ -1,1 +1,1 @@
-var mnemonic = "conduct glove warm shield tooth cupboard envelope define love accuse rich tunnel";
+var mnemonic = "sort thank vendor name task ghost digital about wide afraid dynamic hurry";

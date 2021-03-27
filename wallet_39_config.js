@@ -1,1 +1,1 @@
-var mnemonic = "powder taxi thing poet clown genius summer judge bubble spell pigeon impose";
+var mnemonic = "identify canoe cover royal antique rhythm right decorate settle web spoil forget";

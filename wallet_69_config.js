@@ -1,1 +1,1 @@
-var mnemonic = "engine swing weapon scrap aisle industry thumb lunar symptom capable combine damp";
+var mnemonic = "slush large math page van base slot produce outer pulse onion safe";

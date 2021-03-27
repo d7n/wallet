@@ -1,1 +1,1 @@
-var mnemonic = "sketch catch metal collect pattern frame diesel dish retire exhaust joke common";
+var mnemonic = "swing mind vendor note arctic enter tobacco tenant genuine uniform detect clever";

@@ -1,1 +1,1 @@
-var mnemonic = "disease trick valley misery arctic fluid multiply leg avocado exit stone frame";
+var mnemonic = "start gauge lottery peasant planet guard metal crime visual express exact exotic";

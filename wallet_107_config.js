@@ -1,1 +1,1 @@
-var mnemonic = "nurse allow common federal milk tube there grain expect forum diamond present";
+var mnemonic = "junior wrap corn exhibit rotate chair display canvas used remember brand rate";

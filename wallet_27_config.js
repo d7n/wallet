@@ -1,1 +1,1 @@
-var mnemonic = "monster bus slab lake debris skull paddle meat clutch dynamic unknown will";
+var mnemonic = "develop candy forum depart marine spoil security because clerk physical chief crush";

@@ -1,1 +1,1 @@
-var mnemonic = "truck uphold expect boost sick theme transfer volume indoor output actress matrix";
+var mnemonic = "ask rent endless analyst spoon depart steel stadium follow coast mouse open";

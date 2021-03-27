@@ -1,1 +1,1 @@
-var mnemonic = "apology remove smooth shaft window ancient skill village fault minute aunt word";
+var mnemonic = "catch tomorrow live clap fat twin mandate deny win cherry reflect begin";

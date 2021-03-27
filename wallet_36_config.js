@@ -1,1 +1,1 @@
-var mnemonic = "blind tiger pig same vehicle habit decorate enroll mimic syrup avoid force";
+var mnemonic = "sugar wet estate expect mimic gold winner disorder napkin gospel viable follow";

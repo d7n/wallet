@@ -1,1 +1,1 @@
-var mnemonic = "crack honey invite ritual grape tennis canvas group loan planet lend doll";
+var mnemonic = "gesture normal mule cruel require catalog rose extra daring knife inmate recall";

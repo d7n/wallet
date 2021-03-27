@@ -1,1 +1,1 @@
-var mnemonic = "level bread lesson celery smart lava spare busy saddle move flip join";
+var mnemonic = "mistake mad number defy coast blanket smooth spice soda web wrong regret";

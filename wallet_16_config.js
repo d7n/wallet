@@ -1,1 +1,1 @@
-var mnemonic = "acoustic own grab afford orphan expect collect cliff cheap spin ahead garbage";
+var mnemonic = "symptom cotton inmate buddy symptom air leader mandate walk couch buddy off";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder cannon cigar gadget parade exist add frozen derive cream horn inside";
+var mnemonic = "vital ride language pipe gather inflict orient tattoo heart picnic rude scout";

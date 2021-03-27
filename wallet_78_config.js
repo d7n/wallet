@@ -1,1 +1,1 @@
-var mnemonic = "latin stuff blur vanish school symptom goat congress fury wish craft celery";
+var mnemonic = "empower danger letter giraffe area bunker suffer cause learn amused fitness sort";

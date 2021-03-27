@@ -1,1 +1,1 @@
-var mnemonic = "balcony elevator shock ticket barely axis laptop jacket ability recycle afraid lemon";
+var mnemonic = "give moral topic dress fabric cradle toddler please interest road smile final";

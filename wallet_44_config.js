@@ -1,1 +1,1 @@
-var mnemonic = "gap attract upset twist own split student frost artwork idea drive globe";
+var mnemonic = "manual escape verb chair lend entry seminar shrimp federal wild dolphin mushroom";

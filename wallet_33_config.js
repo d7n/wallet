@@ -1,1 +1,1 @@
-var mnemonic = "problem uncover earn cigar brave edit cricket sentence solution blame leaf then";
+var mnemonic = "true expire lawn reform prepare layer add once minute wage tonight youth";

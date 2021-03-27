@@ -1,1 +1,1 @@
-var mnemonic = "pair boss lava dance disease bring gauge subject salmon frog pitch body";
+var mnemonic = "project original alone recall blast relax spawn ugly method undo vapor loop";

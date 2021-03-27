@@ -1,1 +1,1 @@
-var mnemonic = "point humor tenant entire elephant rifle damage suit brave violin minimum cruel";
+var mnemonic = "bracket sudden boss crush any exact city stage nature leader bottom rescue";

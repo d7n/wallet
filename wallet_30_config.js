@@ -1,1 +1,1 @@
-var mnemonic = "divert poem current since sell people powder file below broccoli upon cube";
+var mnemonic = "warfare arctic trial input crouch quiz kangaroo minimum token prosper knock patient";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey glare opinion search black finish figure swamp inch check venue board";
+var mnemonic = "leg process ill gloom seat awesome grab divorce shine armed tree derive";

@@ -1,1 +1,1 @@
-var mnemonic = "garment bamboo snake smoke bonus have unit jazz lake never vintage baby";
+var mnemonic = "chalk jungle sleep coconut sign success require general fuel educate timber nothing";

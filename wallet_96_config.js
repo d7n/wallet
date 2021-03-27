@@ -1,1 +1,1 @@
-var mnemonic = "height robust laundry draft chalk jelly plastic belt ivory jeans copy wise";
+var mnemonic = "man resist select detail card hockey idea must time turkey combine miracle";

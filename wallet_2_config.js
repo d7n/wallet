@@ -1,1 +1,1 @@
-var mnemonic = "transfer dutch enlist flush notice list obtain stamp discover brain vintage purpose";
+var mnemonic = "chest helmet essence breeze mention zebra kiss tool laptop hello industry black";

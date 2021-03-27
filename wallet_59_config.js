@@ -1,1 +1,1 @@
-var mnemonic = "subject march couch start erupt earn apart canyon input dose volcano flavor";
+var mnemonic = "force tuition buzz vintage loud method essence upset risk harbor tired glad";

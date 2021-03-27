@@ -1,1 +1,1 @@
-var mnemonic = "canyon crack cannon news angry viable mechanic replace taxi divorce usual reflect";
+var mnemonic = "grief tissue chase vacant time advance wash disorder shoulder shiver shed photo";

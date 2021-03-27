@@ -1,1 +1,1 @@
-var mnemonic = "gain nose empty narrow jacket grain atom provide source stadium zebra total";
+var mnemonic = "garbage neutral beyond vapor myself forest twist wedding mosquito angle element near";

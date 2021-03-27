@@ -1,1 +1,1 @@
-var mnemonic = "bird team hunt bacon forest bulb issue sugar damage slide leaf uncle";
+var mnemonic = "buffalo option dust mobile cream during patient misery copy lobster reject energy";

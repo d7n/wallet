@@ -1,1 +1,1 @@
-var mnemonic = "hold much dish tornado symbol scorpion banana hire spray pilot auction fragile";
+var mnemonic = "glow burst satoshi visual deputy insane drastic input space curve engage spend";

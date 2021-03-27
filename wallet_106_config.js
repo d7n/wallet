@@ -1,1 +1,1 @@
-var mnemonic = "kite castle kingdom tackle budget field assault invite combine ceiling unknown frown";
+var mnemonic = "punch merge chief impulse void task genius work bracket vast glass stove";

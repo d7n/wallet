@@ -1,1 +1,1 @@
-var mnemonic = "sponsor section bunker tumble trouble issue cake build wall resource science mosquito";
+var mnemonic = "twist valley sleep august cliff increase mixed vanish own faint virtual anger";

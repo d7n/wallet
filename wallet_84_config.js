@@ -1,1 +1,1 @@
-var mnemonic = "skill quiz manage universe spike young mesh cattle region riot wave luxury";
+var mnemonic = "anxiety learn river immense blossom ring cigar speak viable slide benefit proud";

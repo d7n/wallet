@@ -1,1 +1,1 @@
-var mnemonic = "tenant avoid clean pulp degree gospel borrow nothing claw number bid truly";
+var mnemonic = "because loud curve feel ripple amateur receive laundry joy have twice float";

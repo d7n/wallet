@@ -1,1 +1,1 @@
-var mnemonic = "inherit call absent breeze garage machine move misery mail kiss vacuum wise";
+var mnemonic = "penalty tube junk winner vague flag window despair choose friend recall yard";

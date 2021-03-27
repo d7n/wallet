@@ -1,1 +1,1 @@
-var mnemonic = "impulse crime asset bike proud spot elegant vote cart spy surprise bamboo";
+var mnemonic = "ritual review solid deputy fringe paddle capital uncover silk potato april comic";

@@ -1,1 +1,1 @@
-var mnemonic = "attack damp symptom whale video prefer club betray finger diet tribe person";
+var mnemonic = "end shaft hurt ski cupboard clarify during slender universe version gloom inhale";

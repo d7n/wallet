@@ -1,1 +1,1 @@
-var mnemonic = "soldier rebuild secret tunnel genuine kangaroo odor window still early exchange process";
+var mnemonic = "mean defy danger rigid fat when foot denial grunt bulb dry gasp";

@@ -1,1 +1,1 @@
-var mnemonic = "market lady carry urge measure come they ankle cabin wall story will";
+var mnemonic = "coast punch doctor coast quiz girl version castle warrior enforce gauge pepper";

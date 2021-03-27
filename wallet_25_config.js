@@ -1,1 +1,1 @@
-var mnemonic = "brief cancel idle secret search deputy deposit nominee connect attend sting script";
+var mnemonic = "lunar crush enroll fabric heavy sadness clip join knife frost script daughter";

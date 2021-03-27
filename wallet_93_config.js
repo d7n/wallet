@@ -1,1 +1,1 @@
-var mnemonic = "source author slide fluid sheriff expand attack already blame jar save opera";
+var mnemonic = "cat husband treat few piece ketchup age also acid elephant mistake acquire";

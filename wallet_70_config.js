@@ -1,1 +1,1 @@
-var mnemonic = "angry outer rib hockey physical raccoon toilet enroll bless night feed spoil";
+var mnemonic = "law right art master cherry right shoe dolphin resource bleak alert awkward";

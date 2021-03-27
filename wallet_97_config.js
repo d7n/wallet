@@ -1,1 +1,1 @@
-var mnemonic = "best soccer fade sketch ecology fit swallow bread resource city omit various";
+var mnemonic = "smooth leopard define air meat heart region expand frame squirrel dentist student";

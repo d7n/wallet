@@ -1,1 +1,1 @@
-var mnemonic = "stairs worry train bachelor cabin stable place multiply leisure pulp that course";
+var mnemonic = "either snack festival crash list high diet guess alpha echo wife become";

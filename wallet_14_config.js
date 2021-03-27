@@ -1,1 +1,1 @@
-var mnemonic = "witness clean kid trouble regret auto crater uniform flat panda citizen observe";
+var mnemonic = "horror unit major fire glove net fabric action devote sad orbit size";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual caution leisure very denial oak final describe decade gym trap mechanic";
+var mnemonic = "pudding sport second tunnel renew first invite palace urge little pact illegal";

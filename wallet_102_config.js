@@ -1,1 +1,1 @@
-var mnemonic = "quarter vault object forest claw interest hockey trend rescue inch winter home";
+var mnemonic = "swim shield success fantasy intact float royal coffee merge need ball auto";

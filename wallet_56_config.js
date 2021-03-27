@@ -1,1 +1,1 @@
-var mnemonic = "voice utility sure search traffic smile rubber please spring young barrel assist";
+var mnemonic = "embark industry yellow island truly salmon original deposit light insect diesel main";

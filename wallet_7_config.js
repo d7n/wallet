@@ -1,1 +1,1 @@
-var mnemonic = "crash thrive hope labor that obvious echo claim dragon tenant quarter crater";
+var mnemonic = "salt cradle detect original squeeze ketchup response ability erupt glow wrap unfold";

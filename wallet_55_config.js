@@ -1,1 +1,1 @@
-var mnemonic = "broccoli power safe pattern lava lounge dragon picnic pear cliff cry under";
+var mnemonic = "country exhaust garden traffic paddle idea rebuild resource awful muscle tool expect";

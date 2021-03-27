@@ -1,1 +1,1 @@
-var mnemonic = "solar extend enroll arm ridge happy dentist bundle galaxy food misery welcome";
+var mnemonic = "level act mystery tongue lonely dress option split flash pupil degree attract";

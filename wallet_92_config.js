@@ -1,1 +1,1 @@
-var mnemonic = "vault below portion stone salmon canvas enhance churn retreat bacon demise hawk";
+var mnemonic = "betray push correct airport knock debate knife seven amount mushroom busy accuse";

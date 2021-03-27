@@ -1,1 +1,1 @@
-var mnemonic = "base mad coach music fan into clay unlock soda need mass sick";
+var mnemonic = "roast siege exhibit draft vast business elevator hair height unfold example twenty";

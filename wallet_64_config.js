@@ -1,1 +1,1 @@
-var mnemonic = "tiger height glow neutral grid divert birth army ecology flat produce science";
+var mnemonic = "holiday myself mixed field gather end oil axis bench dizzy huge joy";

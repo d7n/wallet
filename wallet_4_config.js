@@ -1,1 +1,1 @@
-var mnemonic = "empty purse timber coast front code wheat during airport unfair topple physical";
+var mnemonic = "mosquito current arm install adult announce note hour code jazz basic learn";

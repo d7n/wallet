@@ -1,1 +1,1 @@
-var mnemonic = "habit portion they nerve item manage crawl submit marble unlock slice van";
+var mnemonic = "hurry melt never view during bind differ much exchange castle able head";

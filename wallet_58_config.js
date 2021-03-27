@@ -1,1 +1,1 @@
-var mnemonic = "decrease across empty junior sphere sense tourist rebuild enough hill swallow tobacco";
+var mnemonic = "across fence stadium weasel identify midnight sad relax reveal unfold helmet patient";

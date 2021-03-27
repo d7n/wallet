@@ -1,1 +1,1 @@
-var mnemonic = "elevator wrap broom fury crop rural settle hip dress stomach depart initial";
+var mnemonic = "husband universe end afraid unknown scan medal output narrow tail gallery slab";

@@ -1,1 +1,1 @@
-var mnemonic = "salon idea quality clown cage trigger require eight audit ketchup company depart";
+var mnemonic = "child sweet park grocery half shallow cause farm distance smoke remind raise";

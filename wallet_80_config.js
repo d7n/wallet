@@ -1,1 +1,1 @@
-var mnemonic = "stadium vehicle child evoke remain powder aware situate hurt talk burger village";
+var mnemonic = "panic dynamic vapor target rate bag join inhale inform cargo priority hover";

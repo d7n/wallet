@@ -1,1 +1,1 @@
-var mnemonic = "spread hawk either shop robust valley nice oven apology orphan tongue club";
+var mnemonic = "tell moon chief waste emerge fossil sport junk spike danger net surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "degree base saddle use deny rookie thought post blade hip bus space";
+var mnemonic = "estate silver course dream citizen detail season tattoo salute liberty legend nice";

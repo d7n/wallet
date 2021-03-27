@@ -1,1 +1,1 @@
-var mnemonic = "lens vast fortune mobile this awesome design neglect music speak wine urban";
+var mnemonic = "wreck fragile bacon chalk escape jazz differ skull mom one disease blind";

@@ -1,1 +1,1 @@
-var mnemonic = "duty helmet interest number cake path object buddy topple obtain off plastic";
+var mnemonic = "stage swing wrist local zebra cook world rude survey soda hobby pumpkin";

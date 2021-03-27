@@ -1,1 +1,1 @@
-var mnemonic = "tiger find solar verb task elder isolate client boring bomb fork message";
+var mnemonic = "deer exist evolve logic destroy jealous vessel want sort month brain smart";

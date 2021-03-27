@@ -1,1 +1,1 @@
-var mnemonic = "swarm problem define clean maximum theme garment trip elbow wealth neglect rude";
+var mnemonic = "total liar actress sweet general pause wage grit monster install friend sting";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap verb brand ski sphere nasty rice toss able struggle buzz turtle";
+var mnemonic = "behave dinner canoe defy wine quote frown carbon access word senior frost";

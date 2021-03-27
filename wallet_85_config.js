@@ -1,1 +1,1 @@
-var mnemonic = "logic fresh famous ribbon below crowd robust profit change light label paper";
+var mnemonic = "dial film lottery capital panda comic busy horror edit order poet dance";

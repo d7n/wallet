@@ -1,1 +1,1 @@
-var mnemonic = "involve great brisk blue soldier grace nurse someone decrease glad surge onion";
+var mnemonic = "drill control evidence rib child word mesh alter brother execute prevent solve";

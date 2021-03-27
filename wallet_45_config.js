@@ -1,1 +1,1 @@
-var mnemonic = "noodle cabbage letter soup glimpse belt wet shop same woman puppy power";
+var mnemonic = "celery nation supreme rib endorse protect coral race hockey soldier toe expire";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney trick long kit smile sound harvest island sunset erupt certain regret";
+var mnemonic = "similar mammal reduce used best interest bench evolve voice easy own weather";

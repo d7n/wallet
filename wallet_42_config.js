@@ -1,1 +1,1 @@
-var mnemonic = "maple empty usual metal party such embrace meat blind ridge artefact price";
+var mnemonic = "worth arrange enter nuclear bachelor move trigger defy orphan empty neck awful";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy scatter under then thought salute bonus moral burden gallery horse vacuum";
+var mnemonic = "menu chalk term quality evil soda decrease neither strong river steel caution";

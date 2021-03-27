@@ -1,1 +1,1 @@
-var mnemonic = "leg ankle early risk motor claim push someone pool inside offer spatial";
+var mnemonic = "daring legend energy north gaze little first artefact engage joke pledge aspect";

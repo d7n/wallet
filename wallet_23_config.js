@@ -1,1 +1,1 @@
-var mnemonic = "canyon swap sausage smile slam elbow awake stool bargain ritual stick random";
+var mnemonic = "music cattle economy drift retire soft fall tower business they liar vault";

@@ -1,1 +1,1 @@
-var mnemonic = "submit just party grace salmon fly orphan fade clap attract eight day";
+var mnemonic = "capable elegant sea scrap educate river borrow thrive garlic transfer veteran maid";

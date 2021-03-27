@@ -1,1 +1,1 @@
-var mnemonic = "helmet interest elegant north same pretty insane nature inmate mimic soon sing";
+var mnemonic = "account bright trap dream kit butter dignity silent family prevent pass suspect";

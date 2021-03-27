@@ -1,1 +1,1 @@
-var mnemonic = "absurd hope install fitness minor cube select cup artefact outdoor vehicle seven";
+var mnemonic = "cushion throw that drill busy ski fit gather unfold joy ghost install";

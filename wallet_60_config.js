@@ -1,1 +1,1 @@
-var mnemonic = "unfold great length gossip mule grab wire fault leisure grocery know zero";
+var mnemonic = "galaxy puppy toe lemon farm vault sort chicken region food laugh minute";

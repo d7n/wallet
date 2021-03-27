@@ -1,1 +1,1 @@
-var mnemonic = "ice option economy focus pilot trumpet crumble excuse awake pledge sentence winter";
+var mnemonic = "decide rose feature lunch spider lamp patch husband hundred rug impact cruel";

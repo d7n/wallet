@@ -1,1 +1,1 @@
-var mnemonic = "depart carpet nurse iron inflict produce finish color second fork promote aim";
+var mnemonic = "clerk weasel develop hat menu option canyon day economy creek pair guard";

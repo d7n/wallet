@@ -1,1 +1,1 @@
-var mnemonic = "trumpet bonus sound east champion special genuine loop borrow double already element";
+var mnemonic = "problem detail pet rail bottom notice venture broom dawn legend sister muffin";

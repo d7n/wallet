@@ -1,1 +1,1 @@
-var mnemonic = "assist brand faith holiday agree blast accuse burst neutral army kick stand";
+var mnemonic = "cousin stuff leisure agree federal lucky merit journey bronze snow company nasty";

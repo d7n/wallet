@@ -1,1 +1,1 @@
-var mnemonic = "salmon unable dizzy wise virtual stairs confirm ketchup wear tag place motion";
+var mnemonic = "wife crazy acoustic chunk key decade catch behind lamp flower rhythm head";

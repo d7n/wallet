@@ -1,1 +1,1 @@
-var mnemonic = "invest myself erosion multiply panda kind jeans woman cradle habit kick copy";
+var mnemonic = "gym six rail pig young liar open shoulder situate angry swallow cause";

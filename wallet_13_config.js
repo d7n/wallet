@@ -1,1 +1,1 @@
-var mnemonic = "menu victory submit better quarter cram unlock twenty entry aspect sea velvet";
+var mnemonic = "taste couple elder dry online balance canvas ivory title same culture logic";

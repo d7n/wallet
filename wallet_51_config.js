@@ -1,1 +1,1 @@
-var mnemonic = "light slab kangaroo owner horn tag car loud pottery once powder neither";
+var mnemonic = "ability taste bright history dumb cabbage prepare team slim pottery foam dirt";

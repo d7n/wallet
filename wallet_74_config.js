@@ -1,1 +1,1 @@
-var mnemonic = "year faculty quote act pistol net approve key sick flash fetch omit";
+var mnemonic = "stamp horror project shine skate toe army pumpkin oppose dumb crew stage";
