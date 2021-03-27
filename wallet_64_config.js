@@ -1,1 +1,1 @@
-var mnemonic = "badge flush assume lyrics diamond diary any burden rabbit abandon eye hill";
+var mnemonic = "social scene relief sugar unusual video cactus alley acid sense pyramid nephew";

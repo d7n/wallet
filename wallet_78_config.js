@@ -1,1 +1,1 @@
-var mnemonic = "damage valve fitness switch fault cherry weapon symptom midnight car impact school";
+var mnemonic = "cup jar donor large inmate prosper curtain drama despair voyage palm green";

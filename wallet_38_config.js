@@ -1,1 +1,1 @@
-var mnemonic = "chimney ghost silent pulp kitten alpha control palm note soda easy bid";
+var mnemonic = "render tenant engage oval sample draft tiger else bus parent critic tomorrow";

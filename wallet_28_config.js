@@ -1,1 +1,1 @@
-var mnemonic = "spend invite chapter page burden enrich base initial explain deal mammal blossom";
+var mnemonic = "sweet obey later scrub session retire glad chronic lake divert vessel ethics";

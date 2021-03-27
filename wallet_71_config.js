@@ -1,1 +1,1 @@
-var mnemonic = "skirt mirror match grocery prosper lawn cry hidden filter brush swallow reward";
+var mnemonic = "craft edit blossom dumb remain broken alpha scale age hamster glare shaft";

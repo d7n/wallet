@@ -1,1 +1,1 @@
-var mnemonic = "require siren weekend improve cannon urban sport ripple grid million game actual";
+var mnemonic = "divert tunnel deal equal fantasy champion mammal follow grief dignity turn float";

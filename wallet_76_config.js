@@ -1,1 +1,1 @@
-var mnemonic = "actual myth whisper kingdom this icon girl mixed destroy decide nice pulp";
+var mnemonic = "super puppy organ danger unique hood thumb wisdom feed comfort rabbit pioneer";

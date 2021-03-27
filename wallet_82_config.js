@@ -1,1 +1,1 @@
-var mnemonic = "reward brass pattern beach melt energy obscure margin just wheel visa annual";
+var mnemonic = "abstract afraid jelly problem wrestle debate pet chief slim hen come help";

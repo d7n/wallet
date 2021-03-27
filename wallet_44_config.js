@@ -1,1 +1,1 @@
-var mnemonic = "know stem empty corn tumble festival chaos what empower old install select";
+var mnemonic = "able crazy sketch long trash globe reopen mixed rent message fruit best";

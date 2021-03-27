@@ -1,1 +1,1 @@
-var mnemonic = "summer awkward reduce scatter figure decade fit layer grit sweet impact this";
+var mnemonic = "art orbit ivory wink afraid orange lake ring ripple bargain route long";

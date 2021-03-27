@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow kangaroo chunk tray eagle quality bulb jaguar live extra perfect lion";
+var mnemonic = "noble rookie human mom height iron borrow paddle pride taste split observe";

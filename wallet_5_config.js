@@ -1,1 +1,1 @@
-var mnemonic = "deny doctor relax praise neutral grant olympic office attend decade all achieve";
+var mnemonic = "put joke another pulp flip crater fiction inspire marine boss favorite ordinary";

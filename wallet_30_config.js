@@ -1,1 +1,1 @@
-var mnemonic = "milk decade museum exact afford humble chest dignity middle mouse antique draw";
+var mnemonic = "element suffer used twelve bulk bean aunt notice stone naive tent mix";

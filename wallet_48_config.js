@@ -1,1 +1,1 @@
-var mnemonic = "suffer broom table unusual blame physical quiz corn other test fine volcano";
+var mnemonic = "claim lumber equip media horn drum lunar wise pear engage pet skate";

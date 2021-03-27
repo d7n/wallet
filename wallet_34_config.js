@@ -1,1 +1,1 @@
-var mnemonic = "sugar coin usual honey armed search torch business develop runway comic absent";
+var mnemonic = "carpet wolf genre funny dice stage crime output diet noble item pact";

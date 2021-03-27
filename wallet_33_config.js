@@ -1,1 +1,1 @@
-var mnemonic = "mass horror physical moon unveil tornado mean solar nothing bulb next lunch";
+var mnemonic = "broken cream decrease gift language entire income diet wine laundry alarm trade";

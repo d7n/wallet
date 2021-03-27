@@ -1,1 +1,1 @@
-var mnemonic = "sentence gentle panic truck then wrestle shift elbow chunk vanish gorilla tattoo";
+var mnemonic = "kick relief clever level must hat quantum celery tissue error exhibit average";

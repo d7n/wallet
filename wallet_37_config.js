@@ -1,1 +1,1 @@
-var mnemonic = "home keen circle elegant awful rookie before spice toast unhappy chalk eight";
+var mnemonic = "pilot solution vote venue urge into tool honey search romance ship bench";

@@ -1,1 +1,1 @@
-var mnemonic = "spy jelly carry funny idle detect will depend ostrich spoil fuel glow";
+var mnemonic = "type trial rifle spider dilemma draw catalog twelve bonus boring zone plate";

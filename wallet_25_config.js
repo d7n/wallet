@@ -1,1 +1,1 @@
-var mnemonic = "fancy obey skill chest champion process culture leader bacon tourist kite fringe";
+var mnemonic = "fire total honey glass crouch essence cradle rice peasant during report divert";

@@ -1,1 +1,1 @@
-var mnemonic = "phrase priority relax frown sure catch dance dice cloud video home trim";
+var mnemonic = "absurd afford you develop end coral party extend whisper gaze hazard zebra";

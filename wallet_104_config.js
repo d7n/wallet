@@ -1,1 +1,1 @@
-var mnemonic = "skill fish chaos absorb great noble laugh thrive orient choice close bullet";
+var mnemonic = "laundry six genuine waste faith practice lottery three focus boss fluid honey";

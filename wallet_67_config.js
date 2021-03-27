@@ -1,1 +1,1 @@
-var mnemonic = "leisure ready drift shuffle argue current message private neglect arrive fabric combine";
+var mnemonic = "rude angry sad token nut token sun above october dress annual token";

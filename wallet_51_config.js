@@ -1,1 +1,1 @@
-var mnemonic = "range silver spider produce club turn romance fabric cluster proof seminar civil";
+var mnemonic = "blame panther enroll social ribbon easy bubble soap attend escape olympic audit";

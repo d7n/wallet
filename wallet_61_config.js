@@ -1,1 +1,1 @@
-var mnemonic = "double update sunset virtual heavy search agent inspire rubber joke echo assume";
+var mnemonic = "unaware antenna finger gauge alert park deliver cave horse act rely rural";

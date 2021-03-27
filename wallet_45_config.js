@@ -1,1 +1,1 @@
-var mnemonic = "blue best disagree goddess sphere relief again relax any south asset village";
+var mnemonic = "still garage dolphin blame duck slogan limb oblige bean axis mixture typical";

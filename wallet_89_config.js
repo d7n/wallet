@@ -1,1 +1,1 @@
-var mnemonic = "meat erosion attract wedding sign distance dynamic style harvest gadget foster pole";
+var mnemonic = "plunge banner adjust someone age trim minor solve grow concert nurse gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "slow squeeze crush wine pony voice alien lounge remind proof present hollow";
+var mnemonic = "agent nominee journey tree blast blur seven kitchen upper liquid essay cost";

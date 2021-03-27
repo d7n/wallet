@@ -1,1 +1,1 @@
-var mnemonic = "indicate brush couple town science grab cool enlist earth eagle snack rare";
+var mnemonic = "note pass milk lawn slow clutch beyond confirm cable actor hybrid inmate";

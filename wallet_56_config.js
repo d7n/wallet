@@ -1,1 +1,1 @@
-var mnemonic = "north snap gaze midnight tortoise solid wrap evil violin rug joy sausage";
+var mnemonic = "remind below meadow arrow trap swallow desert enlist fever orphan tired hood";

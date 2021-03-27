@@ -1,1 +1,1 @@
-var mnemonic = "attitude shuffle estate praise upon clap quote female verb leader fetch maze";
+var mnemonic = "october genuine cupboard fiscal dance armed credit kind grass fold shed learn";

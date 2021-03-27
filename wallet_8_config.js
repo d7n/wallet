@@ -1,1 +1,1 @@
-var mnemonic = "anger equip wise matter odor coral pottery analyst squirrel pupil pupil public";
+var mnemonic = "game someone borrow bean pistol tongue domain cart weekend wink elevator license";

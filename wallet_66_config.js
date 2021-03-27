@@ -1,1 +1,1 @@
-var mnemonic = "iron pink matrix corn finger abandon fine laundry ball retire zebra lounge";
+var mnemonic = "edit tornado opinion notice gaze float talk fiber burden stamp zoo emotion";

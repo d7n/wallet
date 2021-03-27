@@ -1,1 +1,1 @@
-var mnemonic = "vanish rough someone blouse squeeze flavor key echo height balance onion admit";
+var mnemonic = "sword comic husband play episode penalty busy hybrid laptop depth nature jar";

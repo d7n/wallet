@@ -1,1 +1,1 @@
-var mnemonic = "shoot decorate rifle much place orbit practice oven spatial scale build paper";
+var mnemonic = "put loud wedding regular nest sign dash repair dream month garage twin";

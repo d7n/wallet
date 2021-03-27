@@ -1,1 +1,1 @@
-var mnemonic = "celery maximum prepare black sauce convince orchard oppose hurry between maid display";
+var mnemonic = "raccoon gather lesson someone aim certain photo indoor actual gorilla cricket super";

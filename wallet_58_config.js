@@ -1,1 +1,1 @@
-var mnemonic = "hero original occur labor clerk adjust oblige local april robust predict then";
+var mnemonic = "stereo crystal slow ship boat place churn rule sauce outdoor busy appear";

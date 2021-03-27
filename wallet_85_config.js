@@ -1,1 +1,1 @@
-var mnemonic = "benefit recall ring hold clean nice lumber hat space cinnamon lawn essay";
+var mnemonic = "cloud bundle sentence flip stick pattern bleak maze print better tank lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise prison vintage sick ranch notice clog coral usage hint invite enter";
+var mnemonic = "blue fly balcony fruit shock region whisper lesson sibling puppy pipe bring";

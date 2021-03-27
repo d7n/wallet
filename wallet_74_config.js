@@ -1,1 +1,1 @@
-var mnemonic = "small custom busy leave clutch clever employ fabric have wink above kidney";
+var mnemonic = "human cram avoid estate else consider disease best skate gift theme clown";

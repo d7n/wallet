@@ -1,1 +1,1 @@
-var mnemonic = "prefer mass genuine unusual trumpet atom poem entire like detect pool yellow";
+var mnemonic = "allow core narrow owner farm glimpse shoot absurd search health approve gasp";

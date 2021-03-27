@@ -1,1 +1,1 @@
-var mnemonic = "ignore knife tower impose cancel alert craft sniff tuition cereal coconut soup";
+var mnemonic = "rigid perfect other theory open chalk family draft silver strong napkin mouse";

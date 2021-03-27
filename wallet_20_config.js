@@ -1,1 +1,1 @@
-var mnemonic = "almost clever annual spring early meat casual scissors stool surround debris media";
+var mnemonic = "list artefact canvas flat jar bracket very uniform kind used convince tuition";

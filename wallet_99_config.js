@@ -1,1 +1,1 @@
-var mnemonic = "birth zone excess keep guitar swift math crouch fiscal invest carry isolate";
+var mnemonic = "nephew obtain payment drink scrub club crash steel borrow comic vital taste";

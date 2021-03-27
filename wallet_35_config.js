@@ -1,1 +1,1 @@
-var mnemonic = "glove bleak inch ensure retreat again net sun awful law carpet health";
+var mnemonic = "swarm cactus glad jungle tobacco oak view anger alcohol cabbage embrace borrow";

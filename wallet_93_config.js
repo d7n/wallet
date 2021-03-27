@@ -1,1 +1,1 @@
-var mnemonic = "primary satoshi elegant steel pattern laptop frame split dash scheme broken public";
+var mnemonic = "finish fragile police judge denial inherit decade cargo select worth chuckle unusual";

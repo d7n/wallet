@@ -1,1 +1,1 @@
-var mnemonic = "top squirrel train walnut large mom adapt width learn bench cave fly";
+var mnemonic = "vapor gate answer father opera differ body valley garment control city rifle";

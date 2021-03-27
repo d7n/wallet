@@ -1,1 +1,1 @@
-var mnemonic = "excuse repair absurd virtual hundred loud light evolve pulse soccer light drift";
+var mnemonic = "wire valley ignore dove arrow forget obscure bullet defy become divorce report";

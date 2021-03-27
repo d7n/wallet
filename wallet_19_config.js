@@ -1,1 +1,1 @@
-var mnemonic = "stand rally pledge rate like agent wood spray invest base switch kangaroo";
+var mnemonic = "kitten old ahead mail tourist absurd insect similar bind render film picture";

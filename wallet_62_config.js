@@ -1,1 +1,1 @@
-var mnemonic = "move rapid screen tank toddler explain rose miss judge federal zero latin";
+var mnemonic = "domain wild have impose often exist left lock health you unlock office";

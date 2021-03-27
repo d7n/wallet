@@ -1,1 +1,1 @@
-var mnemonic = "note polar cargo enforce write swear flight water lizard hungry voyage field";
+var mnemonic = "soup reflect learn fan south wrestle artefact dad suspect knife property antique";

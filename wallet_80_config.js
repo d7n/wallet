@@ -1,1 +1,1 @@
-var mnemonic = "enrich spread image empower drop current finger tissue machine manual popular tide";
+var mnemonic = "unknown cry daughter yard section year face thought crowd only romance inspire";

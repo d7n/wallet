@@ -1,1 +1,1 @@
-var mnemonic = "under envelope exercise galaxy relief expose reunion guard price keen photo convince";
+var mnemonic = "oven unhappy salon occur weather pass awful test reflect else mail hole";

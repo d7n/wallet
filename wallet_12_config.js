@@ -1,1 +1,1 @@
-var mnemonic = "deposit marriage fragile snack enhance drop guide bullet elephant indoor detail erode";
+var mnemonic = "thing trash exist lawsuit moral project primary error pipe meat badge income";

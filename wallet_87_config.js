@@ -1,1 +1,1 @@
-var mnemonic = "limit cost build spoon inherit blue combine bless chair about level solve";
+var mnemonic = "patrol salmon palace appear mansion benefit pelican damage capital medal average isolate";

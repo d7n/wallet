@@ -1,1 +1,1 @@
-var mnemonic = "box force sense distance whip cricket panther wink guilt odor web garment";
+var mnemonic = "chat whale engage legal spider story void curious balcony beyond boss erosion";

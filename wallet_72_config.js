@@ -1,1 +1,1 @@
-var mnemonic = "wealth twist bleak fault merge sport subject loan fold front method valid";
+var mnemonic = "invest bracket topic glory element memory noble friend head issue pear ball";

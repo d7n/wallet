@@ -1,1 +1,1 @@
-var mnemonic = "weather exclude flag private anger potato device soon online hunt build cram";
+var mnemonic = "make vital frozen make crack goose dance urge share live auto lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "orient embrace fault next denial worry square relax toss emerge swap submit";
+var mnemonic = "rural scare solve owner slogan bachelor artist distance cream pink wash enable";

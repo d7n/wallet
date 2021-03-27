@@ -1,1 +1,1 @@
-var mnemonic = "swim old among series arrive sheriff drive fall bounce drive ugly virtual";
+var mnemonic = "phone upon song lamp woman runway universe leave number fashion possible theme";

@@ -1,1 +1,1 @@
-var mnemonic = "similar letter broken actual deposit salad direct sick robot increase group finish";
+var mnemonic = "cloth thought business bargain harvest unveil arena fix view fix ginger glow";

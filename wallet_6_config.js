@@ -1,1 +1,1 @@
-var mnemonic = "upper juice install erosion chronic just lab blur injury craft wheel sight";
+var mnemonic = "critic mean aspect another tower absent dress athlete travel limb balance flat";

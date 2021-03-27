@@ -1,1 +1,1 @@
-var mnemonic = "three pyramid aware tell coin evil verify exit canyon weekend rifle arctic";
+var mnemonic = "hurdle green surprise velvet width gun bonus ill picture arch yellow alarm";

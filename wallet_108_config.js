@@ -1,1 +1,1 @@
-var mnemonic = "sand gossip giraffe suggest include pyramid lake keen cheese spirit aunt jewel";
+var mnemonic = "spot gaze dizzy scout pond early alcohol option bargain scare weird turkey";

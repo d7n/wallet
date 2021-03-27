@@ -1,1 +1,1 @@
-var mnemonic = "mixture behave win endless lift wool ketchup comfort critic clay skin puzzle";
+var mnemonic = "shaft whisper manage useful since ask unveil lamp manage catch divorce dutch";

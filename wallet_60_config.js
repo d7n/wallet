@@ -1,1 +1,1 @@
-var mnemonic = "vibrant unique supreme private area occur table donor immune manual cannon begin";
+var mnemonic = "this brick upper quote carpet piano echo cube face oppose fiber scout";

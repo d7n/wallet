@@ -1,1 +1,1 @@
-var mnemonic = "right regular public taste casual crowd cave fiber gas tunnel question walnut";
+var mnemonic = "lens chase flavor banana uphold doll chase noise angry burger ladder page";

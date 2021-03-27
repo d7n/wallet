@@ -1,1 +1,1 @@
-var mnemonic = "pipe music escape derive strike member lounge someone employ wire menu puppy";
+var mnemonic = "slot tube frame flower soon nuclear rhythm copy cattle truly source provide";

@@ -1,1 +1,1 @@
-var mnemonic = "arch fade lecture actual crane undo limb spoon hospital junk sleep replace";
+var mnemonic = "act sustain front slide episode camera reward biology corn obtain happy chaos";

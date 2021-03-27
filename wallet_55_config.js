@@ -1,1 +1,1 @@
-var mnemonic = "powder clock violin sun undo craft crawl double buffalo comfort sorry bulb";
+var mnemonic = "pass unlock cushion jealous woman item inside cube pink front cook spawn";

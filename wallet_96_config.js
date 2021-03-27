@@ -1,1 +1,1 @@
-var mnemonic = "shift note swift chalk puppy fly reason alert excite onion defy math";
+var mnemonic = "charge buzz delay chair slight proof fun mean poet dish maple curtain";

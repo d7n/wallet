@@ -1,1 +1,1 @@
-var mnemonic = "mechanic truth million endorse uncover phone utility twenty maximum can better destroy";
+var mnemonic = "shed popular twin disease door swing sniff quarter bridge laundry tell duck";

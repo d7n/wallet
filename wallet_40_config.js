@@ -1,1 +1,1 @@
-var mnemonic = "dice rapid half odor endorse mercy media sugar animal beauty boat bacon";
+var mnemonic = "error travel elbow genre pudding panda loyal diamond case neither gain blossom";

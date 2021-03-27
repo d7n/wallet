@@ -1,1 +1,1 @@
-var mnemonic = "teach swarm next pen bless cat snap settle random cradle laugh rice";
+var mnemonic = "super volcano define answer balcony leaf praise smart people next suffer index";

@@ -1,1 +1,1 @@
-var mnemonic = "talent spirit collect ice ahead slot keen during identify solid squeeze mystery";
+var mnemonic = "game already can execute giggle pulse media harvest trick misery brush awkward";

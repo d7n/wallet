@@ -1,1 +1,1 @@
-var mnemonic = "dog army borrow timber square panda agent snow swallow insect rabbit wedding";
+var mnemonic = "another day arena butter discover focus squeeze rare boil margin move gasp";

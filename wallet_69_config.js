@@ -1,1 +1,1 @@
-var mnemonic = "remain shell tone mixed save glare okay viable million liar fame remember";
+var mnemonic = "dog sentence flush rail glue dice noodle member normal auction that fly";

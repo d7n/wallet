@@ -1,1 +1,1 @@
-var mnemonic = "meat jacket flag math cat convince paddle detail bitter frozen debris creek";
+var mnemonic = "shine wine gorilla garage answer recycle suffer security remember industry violin infant";

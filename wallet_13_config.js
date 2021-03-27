@@ -1,1 +1,1 @@
-var mnemonic = "citizen filter picture loop letter delay actual model beauty donkey erode clump";
+var mnemonic = "trigger bean civil bomb deliver prison security recipe flat helmet can evil";

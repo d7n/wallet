@@ -1,1 +1,1 @@
-var mnemonic = "trigger alert spirit mushroom solid enjoy choice brain game claim powder fatigue";
+var mnemonic = "learn ride calm struggle tattoo gather vote decide wedding renew pepper wedding";

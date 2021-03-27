@@ -1,1 +1,1 @@
-var mnemonic = "churn want ignore morning certain transfer hurt matrix foot essence planet notice";
+var mnemonic = "cover second shop depart hood festival mom make fringe coast road broom";

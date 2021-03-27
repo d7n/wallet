@@ -1,1 +1,1 @@
-var mnemonic = "salt jewel spider either use oval confirm body praise hamster copper curious";
+var mnemonic = "raccoon thunder drastic latin sun razor ceiling salt brain question razor nice";

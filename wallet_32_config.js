@@ -1,1 +1,1 @@
-var mnemonic = "oxygen ten manage moment barely off acid dose peanut split seek page";
+var mnemonic = "jazz oven logic mixed jump punch medal student athlete chaos odor print";

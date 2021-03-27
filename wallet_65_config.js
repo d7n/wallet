@@ -1,1 +1,1 @@
-var mnemonic = "pact duck review glare health crystal faith spawn party oyster dutch pledge";
+var mnemonic = "audit time family another useful agree fire daring veteran pudding alley vintage";

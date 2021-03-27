@@ -1,1 +1,1 @@
-var mnemonic = "rebel polar renew humor fly carry various power grief cinnamon exist skin";
+var mnemonic = "people pride table buffalo link afford layer enhance diet gap radio quote";

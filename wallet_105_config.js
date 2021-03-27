@@ -1,1 +1,1 @@
-var mnemonic = "unlock conduct cloud awkward olympic caught daring divide popular trumpet bind talk";
+var mnemonic = "tilt shoulder carpet junior sadness danger symbol front slab unlock devote together";

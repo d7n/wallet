@@ -1,1 +1,1 @@
-var mnemonic = "speak tank jar gravity nut water shrimp unable expose proud blanket recycle";
+var mnemonic = "fury tackle wealth head coil dial media festival wagon burger brother glory";

@@ -1,1 +1,1 @@
-var mnemonic = "segment sniff saddle mass inhale dynamic brain scheme drip forest balance weird";
+var mnemonic = "disagree brass task found notable awkward eternal inspire empower inject leave sphere";

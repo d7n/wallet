@@ -1,1 +1,1 @@
-var mnemonic = "educate buyer spring chalk perfect adult manage exit group jacket cable measure";
+var mnemonic = "arrest roast skate west social lift taxi depart vendor mistake truck demise";

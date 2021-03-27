@@ -1,1 +1,1 @@
-var mnemonic = "deposit night teach photo ignore lunar problem endorse grain century birth area";
+var mnemonic = "fog update host cereal second health piece fork fiscal ketchup example elegant";

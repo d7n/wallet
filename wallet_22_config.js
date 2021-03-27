@@ -1,1 +1,1 @@
-var mnemonic = "vivid margin exist spot hole garlic live hunt shoe truck brass actual";
+var mnemonic = "afford opera fever great street board moral easy cupboard limb ill rare";

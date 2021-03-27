@@ -1,1 +1,1 @@
-var mnemonic = "month film cart gate light arena movie spy nerve embrace pigeon timber";
+var mnemonic = "mistake scout stick bottom host merit hub vacant topic south feed always";

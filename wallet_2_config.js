@@ -1,1 +1,1 @@
-var mnemonic = "shoe gentle spider doctor cram reflect copy mystery symptom inch book announce";
+var mnemonic = "grid blame unhappy team swing fork neither toward evidence area nose scrap";

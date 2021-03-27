@@ -1,1 +1,1 @@
-var mnemonic = "family renew news ice pudding couple ship brand million dawn cricket east";
+var mnemonic = "element foot wait stay rebuild brass grant resource crop segment shy found";

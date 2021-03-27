@@ -1,1 +1,1 @@
-var mnemonic = "loyal panther science casual creek legal limb satisfy mask crawl soccer lawn";
+var mnemonic = "flavor left giggle echo retire monitor robot woman cost ring giraffe write";

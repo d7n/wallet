@@ -1,1 +1,1 @@
-var mnemonic = "alone expire federal range flame excite seven job patrol define wrist purse";
+var mnemonic = "boat tent convince seminar kidney win truck kit put laugh pilot empower";
