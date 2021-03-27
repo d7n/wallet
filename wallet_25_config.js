@@ -1,1 +1,1 @@
-var mnemonic = "choice exchange flip wrist board engine illegal error double cheese boat long";
+var mnemonic = "extra sword whisper pact copy rain cliff worth achieve strike pizza sphere";

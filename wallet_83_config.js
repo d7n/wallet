@@ -1,1 +1,1 @@
-var mnemonic = "february nerve glance heavy home sauce vocal course mango window about toy";
+var mnemonic = "blue vacant barrel mosquito envelope hobby ordinary slot leopard what sunset risk";

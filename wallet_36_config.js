@@ -1,1 +1,1 @@
-var mnemonic = "lumber forward witness group purity filter shrug social leg use clever smoke";
+var mnemonic = "mountain pizza slim era stamp used surround ozone stage square spread topic";

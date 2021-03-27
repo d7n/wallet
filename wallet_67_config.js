@@ -1,1 +1,1 @@
-var mnemonic = "apart potato stuff elephant endless economy improve reform unveil actor example situate";
+var mnemonic = "swallow give tissue talk busy pipe penalty modify load mushroom kite tissue";

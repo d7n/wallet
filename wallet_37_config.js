@@ -1,1 +1,1 @@
-var mnemonic = "casino learn add hurdle word old bone sweet wood drink gravity valve";
+var mnemonic = "auction stick soon dentist rebuild disagree delay lobster copper machine purse mango";

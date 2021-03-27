@@ -1,1 +1,1 @@
-var mnemonic = "turtle mad word garden defy often large seven sauce erase grass gather";
+var mnemonic = "angry scan marble embrace company vocal begin result surprise crowd panther salmon";

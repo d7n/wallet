@@ -1,1 +1,1 @@
-var mnemonic = "tissue cabbage prefer matrix release deposit fitness gadget mesh door woman choose";
+var mnemonic = "surprise stone mistake mistake lyrics myself unaware cost velvet forward possible charge";

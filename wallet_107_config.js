@@ -1,1 +1,1 @@
-var mnemonic = "toward object razor uncle manage eagle recipe super celery plate hurry dentist";
+var mnemonic = "trust eager armor plate special reward shock rely cute deer decade juice";

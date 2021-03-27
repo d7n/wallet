@@ -1,1 +1,1 @@
-var mnemonic = "vague girl noise bone crack human wolf six retire correct keen arrive";
+var mnemonic = "jealous fall token toast question crazy board sauce lady moral invite pole";

@@ -1,1 +1,1 @@
-var mnemonic = "field cause town decrease swallow profit drip spider erosion calm ranch velvet";
+var mnemonic = "vacuum thunder zoo garlic office system bind blouse century holiday rigid hungry";

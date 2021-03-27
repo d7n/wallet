@@ -1,1 +1,1 @@
-var mnemonic = "dish like chimney axis lawsuit mad donkey actor melt age inject sudden";
+var mnemonic = "decide water volcano mention evolve trouble together mansion laundry bar promote interest";

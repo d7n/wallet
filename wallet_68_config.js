@@ -1,1 +1,1 @@
-var mnemonic = "toast table gap decorate forum double pony sight medal friend garbage toast";
+var mnemonic = "coffee inherit tattoo trumpet park foot merry unfair index draw panel churn";

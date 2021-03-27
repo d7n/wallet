@@ -1,1 +1,1 @@
-var mnemonic = "toast aisle economy ceiling inspire mesh leaf vacant auction day leader solid";
+var mnemonic = "police relax cat about cabin famous crush trouble utility people okay life";

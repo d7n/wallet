@@ -1,1 +1,1 @@
-var mnemonic = "pond inmate warfare rail capable eight shock upset vital rival border inner";
+var mnemonic = "such silver key mimic heart rose scale cereal ozone upon name salt";

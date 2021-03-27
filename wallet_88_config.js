@@ -1,1 +1,1 @@
-var mnemonic = "company muffin toward pattern visa cage choice wash bamboo tissue taste orphan";
+var mnemonic = "beach flame strong grief faith dragon valve correct warm grape gown fire";

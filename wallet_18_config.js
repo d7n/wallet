@@ -1,1 +1,1 @@
-var mnemonic = "flight misery toddler body guide medal view manage train boat shuffle grunt";
+var mnemonic = "practice mask decade drama venture truly year method rack marriage cabin message";

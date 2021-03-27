@@ -1,1 +1,1 @@
-var mnemonic = "hospital view prize reopen shrimp parent dial wrestle call erase wire universe";
+var mnemonic = "toy hedgehog side lady imitate spirit orbit okay exercise bitter gentle general";

@@ -1,1 +1,1 @@
-var mnemonic = "elder captain message wear word gate deputy ocean index reform rubber father";
+var mnemonic = "anxiety slogan extra fitness purpose reopen stand economy zoo dynamic powder crawl";

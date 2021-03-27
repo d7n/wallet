@@ -1,1 +1,1 @@
-var mnemonic = "evidence casino follow sort soap biology forward grunt arrow oak gravity fish";
+var mnemonic = "advice earn cruise faint rule bright shaft game echo album offer reform";

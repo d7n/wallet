@@ -1,1 +1,1 @@
-var mnemonic = "frame chef waste explain bean often figure improve weapon supply fury fault";
+var mnemonic = "produce scene safe soft secret census way notable choose trade pear inherit";

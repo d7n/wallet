@@ -1,1 +1,1 @@
-var mnemonic = "organ knock evolve sun swarm vendor sort craft know parade legal fiction";
+var mnemonic = "swarm walnut april depend hand trend one faith pioneer valid lake immune";

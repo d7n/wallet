@@ -1,1 +1,1 @@
-var mnemonic = "bean gorilla cruise offer indicate near flat soup copy guess supply science";
+var mnemonic = "parrot mammal pave collect remember goddess daughter forum draw weapon depend myself";

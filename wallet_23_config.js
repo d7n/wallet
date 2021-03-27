@@ -1,1 +1,1 @@
-var mnemonic = "chunk govern wisdom pole various skate sweet icon ignore mobile elder sign";
+var mnemonic = "cherry beauty jaguar light swing cupboard cinnamon audit mushroom ready health switch";

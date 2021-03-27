@@ -1,1 +1,1 @@
-var mnemonic = "hard coast exchange exclude lab fiscal energy depend derive ramp try era";
+var mnemonic = "thought pause area lemon ticket unable hold legend supreme lottery fragile type";

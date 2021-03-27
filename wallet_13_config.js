@@ -1,1 +1,1 @@
-var mnemonic = "february hamster verify card morning web typical elegant diamond effort uphold owner";
+var mnemonic = "motor bid robust ball head pattern alter tonight stick embrace protect warm";

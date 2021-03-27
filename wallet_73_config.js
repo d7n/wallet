@@ -1,1 +1,1 @@
-var mnemonic = "tuition steel adult dove own filter peace walnut main real spike lobster";
+var mnemonic = "uncle impose electric inflict expire coyote know motor lunar prosper rose kite";

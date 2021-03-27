@@ -1,1 +1,1 @@
-var mnemonic = "grocery burger dove nest one double glide pause flock debate hair orphan";
+var mnemonic = "label snack menu subway caution oak room bulk perfect edit joke anchor";

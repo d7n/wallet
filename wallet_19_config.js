@@ -1,1 +1,1 @@
-var mnemonic = "decline slam inject electric hood drill century wreck panda all athlete escape";
+var mnemonic = "news rule bronze document moral lobster fossil tide steak reflect myth rail";

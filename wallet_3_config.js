@@ -1,1 +1,1 @@
-var mnemonic = "frozen tattoo alone path state call mercy replace trade desk timber dust";
+var mnemonic = "arm spider indoor vehicle festival skull gadget invite lab hockey script differ";

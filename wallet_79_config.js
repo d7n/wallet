@@ -1,1 +1,1 @@
-var mnemonic = "mistake border problem pitch fantasy switch swarm merit mushroom team sight rail";
+var mnemonic = "screen friend nephew derive ancient there real rhythm quit bag waste gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "diet client upset endorse income section ketchup inch canal chimney ticket village";
+var mnemonic = "castle peanut dutch matter enhance round right glory hollow such canvas this";

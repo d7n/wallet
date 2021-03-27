@@ -1,1 +1,1 @@
-var mnemonic = "kingdom thing recipe paper neither pull green video churn smooth praise scissors";
+var mnemonic = "pupil candy access response inherit spoon long nothing wise coach list actor";

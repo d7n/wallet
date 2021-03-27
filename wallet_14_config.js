@@ -1,1 +1,1 @@
-var mnemonic = "knee helmet entire pole average crop record health spoil happy faith celery";
+var mnemonic = "digital pyramid half guard success subject car creek target orphan unusual easy";

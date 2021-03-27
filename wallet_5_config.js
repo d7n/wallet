@@ -1,1 +1,1 @@
-var mnemonic = "display young air lesson shield hedgehog supreme library diesel gate uniform ozone";
+var mnemonic = "damage morning cart robust mixture list lawn merry valid giggle client tunnel";

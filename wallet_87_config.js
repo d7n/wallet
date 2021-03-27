@@ -1,1 +1,1 @@
-var mnemonic = "behave recall wage mobile credit foster dash cruise speak inquiry weather garlic";
+var mnemonic = "marble run simple win other equip very device weird group more awake";

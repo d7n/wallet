@@ -1,1 +1,1 @@
-var mnemonic = "loan ladder color chapter round air solar turn shell twin panther mutual";
+var mnemonic = "unfair slow wagon fee jealous spike repair jaguar core scout next furnace";

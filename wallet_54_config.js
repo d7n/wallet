@@ -1,1 +1,1 @@
-var mnemonic = "poem finger wrap double clap attitude health sign inform steel one prosper";
+var mnemonic = "unknown adult property word begin wish noise funny help cattle hurdle okay";

@@ -1,1 +1,1 @@
-var mnemonic = "dial echo exit never ghost urban forward smooth soap advice sport chicken";
+var mnemonic = "palace rug room quarter deny bless acoustic security rescue surround garbage exercise";

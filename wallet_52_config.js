@@ -1,1 +1,1 @@
-var mnemonic = "comic always rifle left satisfy endless goat hurry midnight flash kingdom motor";
+var mnemonic = "pink hand farm word vital join comfort fall satisfy suit ready story";

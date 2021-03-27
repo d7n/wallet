@@ -1,1 +1,1 @@
-var mnemonic = "frequent wide tank era oblige method bread weekend tonight nest satisfy confirm";
+var mnemonic = "banana void stool gun trigger mountain toss vivid now wealth sustain woman";

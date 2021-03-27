@@ -1,1 +1,1 @@
-var mnemonic = "draw verify cube usual misery half behave flush fault thing piano comic";
+var mnemonic = "kiwi witness next poverty own top put anger extra onion urban ribbon";

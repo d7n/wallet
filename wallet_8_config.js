@@ -1,1 +1,1 @@
-var mnemonic = "zebra kitten edit helmet soup blame suspect organ half siren exercise profit";
+var mnemonic = "remain zero pet foster announce define close quiz pull noble resemble spin";

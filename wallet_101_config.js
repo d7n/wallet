@@ -1,1 +1,1 @@
-var mnemonic = "trust dignity pact wheel rally document job mutual wrestle author hard dumb";
+var mnemonic = "grab border bullet boil pig jaguar anchor dune fog upgrade choose there";

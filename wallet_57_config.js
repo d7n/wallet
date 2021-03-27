@@ -1,1 +1,1 @@
-var mnemonic = "under mammal dad sudden require hundred door renew since velvet casual phone";
+var mnemonic = "seek garlic junior save rail solution joke stool century cave list give";

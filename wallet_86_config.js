@@ -1,1 +1,1 @@
-var mnemonic = "obvious blanket hedgehog private shiver this cloth square mention private wood segment";
+var mnemonic = "judge panel miss exhaust claim length copper grow mention senior cliff husband";

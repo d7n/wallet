@@ -1,1 +1,1 @@
-var mnemonic = "inject unveil quantum glide fiscal since bench blame throw local slice despair";
+var mnemonic = "endless fog innocent arrow slide famous situate horror describe liquid blade tomorrow";

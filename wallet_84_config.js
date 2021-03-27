@@ -1,1 +1,1 @@
-var mnemonic = "oil biology pizza divide invite vehicle novel quick inmate property reopen energy";
+var mnemonic = "medal negative skull fringe build oxygen local forget leave discover travel kitchen";

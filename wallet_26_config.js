@@ -1,1 +1,1 @@
-var mnemonic = "you morning bread sadness poem grocery symbol hint enemy nature cool toss";
+var mnemonic = "toss spoil holiday must ladder rug belt base emerge repair cinnamon donkey";

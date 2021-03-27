@@ -1,1 +1,1 @@
-var mnemonic = "wheel often narrow garage brisk layer neck kangaroo bomb enact vehicle oyster";
+var mnemonic = "sword believe balance gentle laundry two recycle donkey distance turtle badge limb";

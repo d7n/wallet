@@ -1,1 +1,1 @@
-var mnemonic = "vanish pole noble flag hollow violin globe suspect moon know differ drink";
+var mnemonic = "travel machine junior armor promote please drum muscle spring capable space drastic";

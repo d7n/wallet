@@ -1,1 +1,1 @@
-var mnemonic = "misery group stay tourist moral pride old rhythm envelope speed dirt dinner";
+var mnemonic = "rebuild broom response join brand ice ancient guide travel corn expect beef";

@@ -1,1 +1,1 @@
-var mnemonic = "gather ranch place witness marriage pet they fruit like deer visual safe";
+var mnemonic = "fox tank rotate reveal capital mask avocado load trash fall patient chair";

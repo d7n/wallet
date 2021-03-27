@@ -1,1 +1,1 @@
-var mnemonic = "imitate shiver income foot stage upset embody captain afford together hawk small";
+var mnemonic = "recycle midnight scrub spoon danger vicious age evolve field crisp chair blind";

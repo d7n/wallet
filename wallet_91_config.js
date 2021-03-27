@@ -1,1 +1,1 @@
-var mnemonic = "camera change situate unlock cannon gasp label fox summer glad wrist credit";
+var mnemonic = "evolve differ remove relief churn sing nature aunt behind current pipe frost";

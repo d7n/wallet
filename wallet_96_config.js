@@ -1,1 +1,1 @@
-var mnemonic = "parrot talent judge spider dilemma timber drastic west chief jacket near genius";
+var mnemonic = "unfair come spell digital jar gorilla leave simple destroy hospital deer velvet";

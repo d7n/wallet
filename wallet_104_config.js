@@ -1,1 +1,1 @@
-var mnemonic = "pear screen joke biology field alone fun giraffe degree travel tent left";
+var mnemonic = "under sniff light catch evil limb enter screen million tenant swap sustain";

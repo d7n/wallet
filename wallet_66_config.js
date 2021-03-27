@@ -1,1 +1,1 @@
-var mnemonic = "kite helmet document quantum stairs absent flower december pupil pupil diagram paddle";
+var mnemonic = "cost kid east bench cover rifle error index region pistol submit regular";

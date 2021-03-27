@@ -1,1 +1,1 @@
-var mnemonic = "three arrange enforce tuna remind oyster suspect state mandate acquire they glow";
+var mnemonic = "repeat spin angry crazy market equal account sibling task lawsuit bomb violin";

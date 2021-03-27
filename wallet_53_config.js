@@ -1,1 +1,1 @@
-var mnemonic = "cycle close unfair oven drum network magnet brain wagon render trade arm";
+var mnemonic = "bulb intact civil left chef divert bargain flee trigger mother ahead shed";

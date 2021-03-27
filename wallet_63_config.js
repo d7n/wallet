@@ -1,1 +1,1 @@
-var mnemonic = "outdoor metal border man cancel light head educate merry math art detect";
+var mnemonic = "scene kiss abandon brand final circle blossom cradle danger chapter attitude dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "hour couch warfare butter actress monkey flame defense boss rally pattern poem";
+var mnemonic = "blade powder corn winner talk sponsor acquire advance extend gift exclude sing";

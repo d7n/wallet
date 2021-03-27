@@ -1,1 +1,1 @@
-var mnemonic = "aware hint unveil canoe prevent version together loop harvest scorpion gas night";
+var mnemonic = "relax ring arrange where bounce lake roof mass alone chalk monkey gaze";

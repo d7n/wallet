@@ -1,1 +1,1 @@
-var mnemonic = "ritual decrease chat cup pact brave ignore street zone segment spoil rather";
+var mnemonic = "come horse math youth surge august cattle aisle alpha glare cannon medal";

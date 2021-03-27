@@ -1,1 +1,1 @@
-var mnemonic = "clarify chalk faith picnic soda beauty garlic excess chalk husband duck orient";
+var mnemonic = "section inch meadow include legend celery wrestle cook quiz idle hedgehog tackle";

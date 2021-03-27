@@ -1,1 +1,1 @@
-var mnemonic = "whip cargo impulse disease bright ignore ceiling grape spirit coast stay soul";
+var mnemonic = "increase indicate distance switch uncle virtual achieve bullet addict noodle provide siege";

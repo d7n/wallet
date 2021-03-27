@@ -1,1 +1,1 @@
-var mnemonic = "inform bomb inject tip maple explain odor sorry cousin country vacuum guess";
+var mnemonic = "vague copy ten drip cost forest fresh just jump drink assault harsh";

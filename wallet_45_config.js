@@ -1,1 +1,1 @@
-var mnemonic = "panic save arrange jealous flavor illness scare identify shy tuition zebra deliver";
+var mnemonic = "answer vocal remember make wedding upset detect upset fee lab tower mother";

@@ -1,1 +1,1 @@
-var mnemonic = "atom diary choose radar exotic board buffalo abuse measure carbon risk short";
+var mnemonic = "wink glue captain maple curious hunt worry execute erode raccoon slam grant";

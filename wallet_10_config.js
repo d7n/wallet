@@ -1,1 +1,1 @@
-var mnemonic = "output grass length shoot arena market grow rebuild junk finish glory useless";
+var mnemonic = "illegal notable cruel route bulk flush project arch muffin teach treat wrong";

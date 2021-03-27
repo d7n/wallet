@@ -1,1 +1,1 @@
-var mnemonic = "smile stereo derive sense answer price theme will horn helmet casino mushroom";
+var mnemonic = "either survey dignity rescue keen forget sunset what release sausage excuse lady";

@@ -1,1 +1,1 @@
-var mnemonic = "point time cupboard bicycle like prosper vacant cart equal unveil measure comfort";
+var mnemonic = "uphold fetch medal bundle device struggle thrive duty dignity skate design thrive";

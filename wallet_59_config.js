@@ -1,1 +1,1 @@
-var mnemonic = "apart flavor electric claw essence rabbit discover taste stable picture render sample";
+var mnemonic = "occur term pet leg pulse gossip lounge able noodle bundle potato hard";

@@ -1,1 +1,1 @@
-var mnemonic = "vast cross brief kit tuna large peanut tired laptop gather token whale";
+var mnemonic = "option tip stable health evoke awkward ostrich wing lottery easy length fork";

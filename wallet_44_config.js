@@ -1,1 +1,1 @@
-var mnemonic = "field stand fan note educate start place inmate tell word shrimp ten";
+var mnemonic = "cheap borrow relax nut sell kite horn achieve food broccoli donkey utility";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom smooth hobby squirrel canal banana often actress key filter elegant sheriff";
+var mnemonic = "winner rich paddle whisper answer point butter glimpse hello bring speed remember";

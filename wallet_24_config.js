@@ -1,1 +1,1 @@
-var mnemonic = "embody match absent scrub assist mutual school decorate mind blood portion famous";
+var mnemonic = "crash upon crucial candy runway sweet grid theme foster cruel wink pool";

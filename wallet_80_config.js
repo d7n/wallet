@@ -1,1 +1,1 @@
-var mnemonic = "equal whale medal palace burst habit engage old wing slim dentist gasp";
+var mnemonic = "top excess excite butter brisk clever border earth jazz maid deer elder";

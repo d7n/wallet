@@ -1,1 +1,1 @@
-var mnemonic = "clog city ladder law congress segment track warm mountain bread february install";
+var mnemonic = "live taste name vault area sponsor language peace ginger fitness increase pen";

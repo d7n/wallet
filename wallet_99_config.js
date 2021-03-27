@@ -1,1 +1,1 @@
-var mnemonic = "tissue shield whale crisp act disorder hurt stem fix hockey pull worry";
+var mnemonic = "field label expect picnic fabric public project increase major sell basic paddle";

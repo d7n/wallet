@@ -1,1 +1,1 @@
-var mnemonic = "unfair rival obey profit this cabin culture garden pyramid shaft danger yellow";
+var mnemonic = "squirrel glance wheat rigid sing install opinion outside obey whisper inner focus";

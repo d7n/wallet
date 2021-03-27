@@ -1,1 +1,1 @@
-var mnemonic = "drama ribbon will team diagram master census chase rabbit jump recycle power";
+var mnemonic = "tenant swing will manual pride describe put coil glass fuel demise neither";

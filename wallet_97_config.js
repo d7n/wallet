@@ -1,1 +1,1 @@
-var mnemonic = "prize verb capital expand fetch mixture dilemma vendor energy hint grid pledge";
+var mnemonic = "crash weapon barrel ketchup runway brown glide melody assault column canvas garage";

@@ -1,1 +1,1 @@
-var mnemonic = "region already tragic antenna letter park victory lizard whip six trip portion";
+var mnemonic = "dizzy strike tank avocado casual frame duty owner own walk canal prison";

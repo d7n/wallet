@@ -1,1 +1,1 @@
-var mnemonic = "brave exclude wrong shift famous property record spawn crash daughter fly identify";
+var mnemonic = "ladder museum normal creek steak twenty butter wreck erode dance quantum skill";

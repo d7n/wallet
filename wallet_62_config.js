@@ -1,1 +1,1 @@
-var mnemonic = "disease minor march surge salt upper orient silent minimum tag comic rude";
+var mnemonic = "abuse attract solar ship raw uphold mechanic own street cloth vital east";

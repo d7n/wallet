@@ -1,1 +1,1 @@
-var mnemonic = "piano ancient ketchup trash crazy until legend isolate seek ability nerve silent";
+var mnemonic = "core bonus find scale scatter circle extend nothing dumb collect accident timber";

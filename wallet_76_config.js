@@ -1,1 +1,1 @@
-var mnemonic = "fold seven satoshi language come slogan pepper situate rapid genre assume undo";
+var mnemonic = "elephant gadget warfare remind lumber sword auto donate famous glue because weapon";
