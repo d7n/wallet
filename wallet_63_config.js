@@ -1,1 +1,1 @@
-var mnemonic = "vast pair ice forget stereo shadow gather young fiscal tongue goose panther";
+var mnemonic = "undo system involve number exact check chaos outside wealth extend short knee";

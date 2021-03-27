@@ -1,1 +1,1 @@
-var mnemonic = "hello million maze grain accident donor poem magnet unit valid gasp clean";
+var mnemonic = "talk reward volume remember best addict main neck nothing saddle solar pistol";

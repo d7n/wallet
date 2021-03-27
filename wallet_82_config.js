@@ -1,1 +1,1 @@
-var mnemonic = "debris rug execute forward void lens riot glass broccoli you rate bamboo";
+var mnemonic = "armor stairs supply festival air voice boy drink pilot grace peace physical";

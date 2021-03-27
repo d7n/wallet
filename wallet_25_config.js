@@ -1,1 +1,1 @@
-var mnemonic = "mistake year error potato buzz estate change oil modify apple erosion blur";
+var mnemonic = "say before ten paddle claim huge cup pig jewel move cupboard injury";

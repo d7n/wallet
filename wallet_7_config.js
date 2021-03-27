@@ -1,1 +1,1 @@
-var mnemonic = "betray exist essay walnut city robust annual gallery label shy guess pair";
+var mnemonic = "income elite hidden ship swear destroy describe shaft sense voice private bread";

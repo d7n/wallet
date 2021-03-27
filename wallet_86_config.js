@@ -1,1 +1,1 @@
-var mnemonic = "expose assault radar toddler oven uncle discover pair master quiz junior post";
+var mnemonic = "neither typical toward source used later foil over jar cliff tide unusual";

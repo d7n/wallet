@@ -1,1 +1,1 @@
-var mnemonic = "harsh zebra vehicle ocean what inch plastic tape popular suggest scissors culture";
+var mnemonic = "vacuum hole basic artwork speak wait nothing decorate eyebrow pattern unveil deny";

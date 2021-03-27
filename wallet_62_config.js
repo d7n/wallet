@@ -1,1 +1,1 @@
-var mnemonic = "caught local estate whale obtain robot dismiss disagree smoke rose power cram";
+var mnemonic = "dinosaur online develop swallow dial brisk month run cigar mixture tobacco torch";

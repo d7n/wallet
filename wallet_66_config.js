@@ -1,1 +1,1 @@
-var mnemonic = "rifle hazard sketch arrive response version lava reform embrace depth alter actor";
+var mnemonic = "ill can sock chief hollow twist wisdom shuffle outdoor pull decade submit";

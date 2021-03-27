@@ -1,1 +1,1 @@
-var mnemonic = "build width vapor allow march drama organ force deposit laugh shed public";
+var mnemonic = "voyage adjust craft knee curtain column panic height scorpion expand intact observe";

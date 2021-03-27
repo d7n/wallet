@@ -1,1 +1,1 @@
-var mnemonic = "clean sign catch mention notable correct vague head track adapt second blue";
+var mnemonic = "give image captain surprise secret wave tag digital latin reward spring hint";

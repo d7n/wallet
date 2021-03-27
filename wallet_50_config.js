@@ -1,1 +1,1 @@
-var mnemonic = "panda embark salon pulp lizard price actress pelican abandon extend gap area";
+var mnemonic = "trend market travel sad someone lock voice dad salon tenant weasel file";

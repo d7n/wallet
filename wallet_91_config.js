@@ -1,1 +1,1 @@
-var mnemonic = "promote plug vacant next wrist blast fantasy tip cup allow glimpse expand";
+var mnemonic = "reward swamp say mistake seminar welcome case gentle eyebrow glad version bone";

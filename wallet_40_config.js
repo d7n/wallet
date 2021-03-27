@@ -1,1 +1,1 @@
-var mnemonic = "very cry gap unhappy swift yellow bamboo kiwi avocado daring machine peanut";
+var mnemonic = "coffee receive recall breeze inject place cat razor anger local sing flight";

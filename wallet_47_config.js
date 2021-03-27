@@ -1,1 +1,1 @@
-var mnemonic = "govern rescue giggle faculty range youth giraffe anger accident glory health able";
+var mnemonic = "ranch grit alley coconut special fringe cute embrace bird level desk fossil";

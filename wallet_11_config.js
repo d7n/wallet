@@ -1,1 +1,1 @@
-var mnemonic = "improve omit outdoor walk destroy barrel verb buyer jaguar mansion upon high";
+var mnemonic = "solve produce high mask vanish wedding friend holiday rural glass plate mention";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase assist news risk walk swamp helmet inch pen town visit combine";
+var mnemonic = "gorilla bleak put foot churn food lounge tag omit march credit harvest";

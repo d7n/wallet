@@ -1,1 +1,1 @@
-var mnemonic = "era crash hobby pretty window east water brick unfair range calm swap";
+var mnemonic = "spend zoo danger express present nuclear adjust firm engage virtual door hollow";

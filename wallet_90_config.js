@@ -1,1 +1,1 @@
-var mnemonic = "object rich color mad immune begin slim argue cheap finish include banner";
+var mnemonic = "borrow army era floor credit donate glance notice when gossip fine cable";

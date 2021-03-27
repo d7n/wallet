@@ -1,1 +1,1 @@
-var mnemonic = "brown slogan elephant today appear moon enable rude hospital zebra start vessel";
+var mnemonic = "rebel phone quality best inject disease shadow obscure prosper slot cereal social";

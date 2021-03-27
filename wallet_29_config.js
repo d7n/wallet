@@ -1,1 +1,1 @@
-var mnemonic = "issue foster hole display afford innocent citizen crane dose feel jungle inform";
+var mnemonic = "romance doctor deal soap rather again item kitchen case vehicle grape chimney";

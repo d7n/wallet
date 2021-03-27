@@ -1,1 +1,1 @@
-var mnemonic = "swallow convince sword trash stumble basket hire barrel birth carbon stand across";
+var mnemonic = "casual spirit sail jealous wear flock student midnight exclude season phone title";

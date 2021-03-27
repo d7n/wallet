@@ -1,1 +1,1 @@
-var mnemonic = "team brief version aisle merge mammal unlock umbrella tooth high congress device";
+var mnemonic = "nominee certain orphan minor welcome coil capital convince kit liquid modify giraffe";

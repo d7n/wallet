@@ -1,1 +1,1 @@
-var mnemonic = "marriage conduct much love abuse beef smoke robust sauce uncle argue fiber";
+var mnemonic = "eight belt reform prepare come moon huge tonight cable scrub doctor during";

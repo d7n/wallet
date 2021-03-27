@@ -1,1 +1,1 @@
-var mnemonic = "pond dizzy debate food suggest slow grit celery goose flee danger soul";
+var mnemonic = "zoo analyst jump fruit arctic across hospital finish monkey rookie frame pond";

@@ -1,1 +1,1 @@
-var mnemonic = "capable gown elevator session lawn chef rally capable rare gossip local into";
+var mnemonic = "mandate great bonus drift film casino clay tenant bulb car screen artefact";

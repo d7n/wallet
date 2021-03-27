@@ -1,1 +1,1 @@
-var mnemonic = "remember swing dish crouch curve render shoot cabin view magnet liberty bounce";
+var mnemonic = "giant try brown vessel scan hard sleep divert wedding skate glass scrap";

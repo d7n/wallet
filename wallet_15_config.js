@@ -1,1 +1,1 @@
-var mnemonic = "prepare panda shrug cruel head torch hint miss immense cabin typical index";
+var mnemonic = "bachelor client cart coil coffee narrow during helmet canoe muscle boy adjust";

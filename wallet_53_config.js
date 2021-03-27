@@ -1,1 +1,1 @@
-var mnemonic = "jar execute whisper pyramid waste enemy oval picnic lucky dynamic focus fence";
+var mnemonic = "wheat ginger appear glow apple force awake label arrest embark range scrap";

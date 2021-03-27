@@ -1,1 +1,1 @@
-var mnemonic = "skill buyer squeeze mechanic choose pyramid announce universe unhappy key average skill";
+var mnemonic = "wheel path icon magnet fantasy ski vague pattern kingdom cash struggle option";

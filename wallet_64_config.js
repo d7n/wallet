@@ -1,1 +1,1 @@
-var mnemonic = "route scout cream leg problem brave calm regret surface goat soldier hurt";
+var mnemonic = "false cancel tuna client lizard word aunt grow canvas feature oven stereo";

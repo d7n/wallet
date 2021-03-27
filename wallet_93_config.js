@@ -1,1 +1,1 @@
-var mnemonic = "sudden denial exchange repeat immense example subject lend wire topple letter soul";
+var mnemonic = "fly insane left calm become rare salad exhibit alley member indicate club";

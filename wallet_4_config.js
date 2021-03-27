@@ -1,1 +1,1 @@
-var mnemonic = "term metal size radar blood antenna attitude arctic weasel naive tuna spoon";
+var mnemonic = "hello never result pitch oak seminar immense resist suffer pause kind assist";

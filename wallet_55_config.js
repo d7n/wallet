@@ -1,1 +1,1 @@
-var mnemonic = "inhale rough current hub opera detail wide poem student liquid brave place";
+var mnemonic = "tiny inquiry impact moon tragic arrange oil expect couple grass venue together";

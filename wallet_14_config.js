@@ -1,1 +1,1 @@
-var mnemonic = "observe marine sudden author want width tribe talent clay pitch dice jelly";
+var mnemonic = "rule lock fly tourist fire pave two token junior bicycle ankle million";

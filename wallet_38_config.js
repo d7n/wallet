@@ -1,1 +1,1 @@
-var mnemonic = "shock city index bike garment shove chaos purse attitude palace copper host";
+var mnemonic = "pumpkin clerk effort innocent scout forget ride welcome radio veteran truth suggest";

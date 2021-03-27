@@ -1,1 +1,1 @@
-var mnemonic = "bus enable benefit scissors hold domain sing lumber ugly thumb crazy valley";
+var mnemonic = "fade kitten nature child crane valley cube curtain daring wrong crystal heavy";

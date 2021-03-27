@@ -1,1 +1,1 @@
-var mnemonic = "rib clever flower ramp around always antenna twist blur leaf client garment";
+var mnemonic = "tobacco regular cute copy coast describe clip gesture lumber use hood extend";

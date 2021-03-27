@@ -1,1 +1,1 @@
-var mnemonic = "cheese weird admit evil scrap cotton ozone age excuse coral kiss disagree";
+var mnemonic = "permit noble sausage island defy eyebrow whisper globe please topic inside enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "used nut energy govern thrive dragon find program brisk innocent gadget casual";
+var mnemonic = "chapter decrease extend lend ride cage estate biology argue video fossil angry";

@@ -1,1 +1,1 @@
-var mnemonic = "just emotion favorite tribe cost castle name tilt path sausage possible speed";
+var mnemonic = "discover head brother unhappy slim matrix forward draft similar frame obscure issue";

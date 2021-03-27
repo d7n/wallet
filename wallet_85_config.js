@@ -1,1 +1,1 @@
-var mnemonic = "rubber basic agree trash rare doll page sphere leg practice timber voice";
+var mnemonic = "kitchen special entire brother month daughter blast result custom gasp coyote annual";

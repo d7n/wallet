@@ -1,1 +1,1 @@
-var mnemonic = "magic rather eye original topple laugh multiply runway dune unlock fire plug";
+var mnemonic = "obscure execute snake photo trend attitude final water fee cloud kid keen";

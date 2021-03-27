@@ -1,1 +1,1 @@
-var mnemonic = "grunt satisfy execute improve fat wink box defense foot reopen guess exclude";
+var mnemonic = "essence goddess ginger oyster receive shrug champion sea obvious tragic false popular";

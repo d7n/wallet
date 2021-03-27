@@ -1,1 +1,1 @@
-var mnemonic = "dignity neglect prosper best gas pulp where barely cabbage learn beef scatter";
+var mnemonic = "off lecture hungry work zero south ahead faith lift mimic lawsuit produce";

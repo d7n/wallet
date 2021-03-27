@@ -1,1 +1,1 @@
-var mnemonic = "into skill custom wash seek flight skirt essay expect install boss clown";
+var mnemonic = "busy segment bread fiber confirm elevator brother what usual ugly flag earth";

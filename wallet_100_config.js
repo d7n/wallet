@@ -1,1 +1,1 @@
-var mnemonic = "buzz rate involve farm gloom drop idea occur attitude session major faith";
+var mnemonic = "detect brush stairs evoke slide annual shrimp middle piano possible hedgehog desk";

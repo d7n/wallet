@@ -1,1 +1,1 @@
-var mnemonic = "oak kite require face ship orient fiscal manual hair color flower vacuum";
+var mnemonic = "latin truly blame dad solar become version orphan under acoustic sudden right";

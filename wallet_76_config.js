@@ -1,1 +1,1 @@
-var mnemonic = "salute royal adult female tide idea audit music obvious regular ready tuition";
+var mnemonic = "unhappy able gauge smart target doctor gentle curve sketch silent draft tomato";

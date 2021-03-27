@@ -1,1 +1,1 @@
-var mnemonic = "coyote message wonder drip very collect quality dinner excess rhythm pipe typical";
+var mnemonic = "jelly display satoshi fence siege art average chimney trip glass force title";

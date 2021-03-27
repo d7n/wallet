@@ -1,1 +1,1 @@
-var mnemonic = "under track cat art infant join friend size desk snake level float";
+var mnemonic = "this dolphin hurry aerobic steel figure flight enough must pride valley dress";

@@ -1,1 +1,1 @@
-var mnemonic = "news year alpha someone exact fan rabbit hurt armed high board tunnel";
+var mnemonic = "often toward cannon flower exact choice citizen under clean hub wheel solid";

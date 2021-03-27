@@ -1,1 +1,1 @@
-var mnemonic = "elephant tape void crew often gospel weasel music sound change vicious try";
+var mnemonic = "expect woman burst intact must twenty cream element tent tool clip width";

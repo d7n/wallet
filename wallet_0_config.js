@@ -1,1 +1,1 @@
-var mnemonic = "furnace dice left favorite foster pulse explain wait chronic delay target organ";
+var mnemonic = "federal pudding oil fragile wheat lonely install office crowd ring puppy kite";

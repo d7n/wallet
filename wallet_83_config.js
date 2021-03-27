@@ -1,1 +1,1 @@
-var mnemonic = "oppose same quarter devote reopen permit tube action knife guess pumpkin index";
+var mnemonic = "hurry leader genuine never custom alcohol believe arrow crane party actual bitter";

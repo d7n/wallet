@@ -1,1 +1,1 @@
-var mnemonic = "punch velvet patient same tattoo exercise repair alcohol twelve win derive van";
+var mnemonic = "dentist hurdle sorry excite tag riot promote ranch sign brass club pottery";

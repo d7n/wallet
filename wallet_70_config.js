@@ -1,1 +1,1 @@
-var mnemonic = "garment october talk claim genius modify zoo need engine love drive yard";
+var mnemonic = "negative bar glue tortoise faith napkin winter liquid bonus february rent oyster";

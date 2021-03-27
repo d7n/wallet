@@ -1,1 +1,1 @@
-var mnemonic = "industry pen silly false record say glue sausage talent box rule science";
+var mnemonic = "defy discover torch stage now cost luxury blouse penalty seat dawn kite";

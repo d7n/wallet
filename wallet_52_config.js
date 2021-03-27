@@ -1,1 +1,1 @@
-var mnemonic = "program license twin metal thank party broccoli antenna mobile trust umbrella venture";
+var mnemonic = "mystery glare culture warrior timber soup alcohol weather brain dinosaur dove purse";

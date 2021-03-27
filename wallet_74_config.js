@@ -1,1 +1,1 @@
-var mnemonic = "ivory juice neck bright spike coil humor daring explain laugh where lunch";
+var mnemonic = "vote pet intact unfair honey ranch bachelor salon people shrimp arm little";

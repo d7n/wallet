@@ -1,1 +1,1 @@
-var mnemonic = "park early plastic emotion staff thunder color drama vital steel tiny champion";
+var mnemonic = "trust remain pitch empty cradle jelly aim bone render decline oblige dose";

@@ -1,1 +1,1 @@
-var mnemonic = "piece average chase spike pupil lunar soccer path disagree bulk nature stand";
+var mnemonic = "trip deposit anxiety talent pair search quote danger average fault web pony";

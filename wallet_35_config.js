@@ -1,1 +1,1 @@
-var mnemonic = "process abandon zero hunt actual final frequent keep nice host common elder";
+var mnemonic = "test very hurt bicycle arctic aim candy scene orange lecture force lake";

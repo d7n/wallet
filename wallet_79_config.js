@@ -1,1 +1,1 @@
-var mnemonic = "say stairs suggest soon liberty reject media ship luxury web cash indoor";
+var mnemonic = "illness exotic symptom will enact faith album impulse enrich keep apology dice";

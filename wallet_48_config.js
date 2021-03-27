@@ -1,1 +1,1 @@
-var mnemonic = "ketchup rude credit diet bone never moon idea bus music arena shed";
+var mnemonic = "organ topic slab time work maid bullet cinnamon brisk pumpkin obey usage";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter soda letter lemon goddess shoulder myself catalog mouse rare problem release";
+var mnemonic = "mom shove artefact enact large jar sort price middle figure garden gap";

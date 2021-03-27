@@ -1,1 +1,1 @@
-var mnemonic = "open list upper tortoise polar iron parrot panther electric spirit decline supreme";
+var mnemonic = "grunt about travel seminar brief wave trap unveil rocket sand member large";

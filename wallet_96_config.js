@@ -1,1 +1,1 @@
-var mnemonic = "caution you rate useful announce voyage bleak open plastic gate invite close";
+var mnemonic = "dish barely shed crouch aspect attitude absent lunar echo lazy blanket sustain";

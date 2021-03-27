@@ -1,1 +1,1 @@
-var mnemonic = "leave athlete depart adjust physical viable boss august never design melt siege";
+var mnemonic = "point margin gap retreat trash custom cook public true deposit shield laugh";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel social century summer genuine pill like target effort install goddess delay";
+var mnemonic = "rebel bus borrow math saddle inherit welcome umbrella junk citizen run fly";

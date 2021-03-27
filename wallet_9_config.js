@@ -1,1 +1,1 @@
-var mnemonic = "bitter toe inmate skirt quarter nerve holiday cement news dance connect dynamic";
+var mnemonic = "april local reflect meat ceiling sunny harsh net job walnut kiwi you";

@@ -1,1 +1,1 @@
-var mnemonic = "omit floor bag fish dismiss render forest busy anger increase economy river";
+var mnemonic = "drive rack south snake open doll token judge grace shuffle lizard census";

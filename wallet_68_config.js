@@ -1,1 +1,1 @@
-var mnemonic = "taste horse stumble lawsuit crowd such dragon task apple music chapter copy";
+var mnemonic = "ski add strong century bicycle soap outdoor target swap popular stay mushroom";

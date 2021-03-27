@@ -1,1 +1,1 @@
-var mnemonic = "abstract anchor design chief abuse glimpse dragon run mother foster zero around";
+var mnemonic = "pistol soft smooth merge sugar van lounge clinic toast cover dinosaur enforce";

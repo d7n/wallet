@@ -1,1 +1,1 @@
-var mnemonic = "bring ghost link all join reunion armor ahead border riot mansion cage";
+var mnemonic = "pride economy knee poverty news silent tumble nerve genuine throw gadget ripple";

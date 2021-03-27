@@ -1,1 +1,1 @@
-var mnemonic = "include message allow frequent negative height pitch fresh shallow sugar universe note";
+var mnemonic = "poet never setup humor parrot gravity urban soccer control barely toe owner";

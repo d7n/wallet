@@ -1,1 +1,1 @@
-var mnemonic = "pool boy grid item moon spread dentist absurd color warrior prize board";
+var mnemonic = "spray strong joy anxiety else dish baby master seven dentist grace round";

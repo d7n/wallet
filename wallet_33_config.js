@@ -1,1 +1,1 @@
-var mnemonic = "demise also oblige enact slogan shove net include evolve among chalk nice";
+var mnemonic = "denial claim column digital brick admit broom person learn cable width casual";

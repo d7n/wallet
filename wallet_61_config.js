@@ -1,1 +1,1 @@
-var mnemonic = "indicate sight corn bread trial drill olive voyage worry pear diagram blush";
+var mnemonic = "memory connect sheriff initial asthma magnet install goose gym sauce duty absorb";

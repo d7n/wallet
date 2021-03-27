@@ -1,1 +1,1 @@
-var mnemonic = "popular cave ordinary develop rose print great picnic install put reveal pass";
+var mnemonic = "lonely happy unable wall still subway there cupboard grass gospel wrist crouch";

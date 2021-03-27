@@ -1,1 +1,1 @@
-var mnemonic = "trouble inch empty image cabbage chest dinosaur pave bench wide nephew bomb";
+var mnemonic = "empty shaft cereal damp copper marriage pattern lobster indoor aspect rain yellow";

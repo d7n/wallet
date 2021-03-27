@@ -1,1 +1,1 @@
-var mnemonic = "unit post inside slow okay leg wine rally mail guide trend hurry";
+var mnemonic = "right task rhythm apology clay agree couch view future portion liar shoe";

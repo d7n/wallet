@@ -1,1 +1,1 @@
-var mnemonic = "bargain quit poem brick industry junior antique life fiber wave inch fringe";
+var mnemonic = "acquire whip blur october catalog minor fetch inherit sausage solar supply innocent";

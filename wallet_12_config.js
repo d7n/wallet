@@ -1,1 +1,1 @@
-var mnemonic = "item forget float raw glow soda balance fury milk unit annual gift";
+var mnemonic = "assault curious round color lend inherit sound solve bean evil violin surge";

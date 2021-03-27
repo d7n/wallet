@@ -1,1 +1,1 @@
-var mnemonic = "mystery humor risk clarify club wage rice silly intact solar must bus";
+var mnemonic = "peanut avoid cheese bread gaze access inject embody enroll popular dog unhappy";

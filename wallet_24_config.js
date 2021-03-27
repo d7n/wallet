@@ -1,1 +1,1 @@
-var mnemonic = "elder hip random noodle elite know invest ozone cable private planet luggage";
+var mnemonic = "toward runway develop bubble burden picture account hammer deer fashion endless screen";

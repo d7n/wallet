@@ -1,1 +1,1 @@
-var mnemonic = "ritual toast narrow devote kiss skirt sort affair rally elegant toss avoid";
+var mnemonic = "victory market bless mouse column gesture kingdom orchard expect bachelor traffic custom";

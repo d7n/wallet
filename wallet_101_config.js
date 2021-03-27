@@ -1,1 +1,1 @@
-var mnemonic = "memory result finger guard price engage usual enlist become position dumb office";
+var mnemonic = "salute enjoy tray pride stand celery chef collect play cake say travel";
