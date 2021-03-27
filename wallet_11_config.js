@@ -1,1 +1,1 @@
-var mnemonic = "solve produce high mask vanish wedding friend holiday rural glass plate mention";
+var mnemonic = "real eye just attend quarter act snow element zone bottom rich beyond";

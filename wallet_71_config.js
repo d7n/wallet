@@ -1,1 +1,1 @@
-var mnemonic = "lonely happy unable wall still subway there cupboard grass gospel wrist crouch";
+var mnemonic = "lawsuit undo will point tongue transfer mutual pulse melt pistol march run";

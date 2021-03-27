@@ -1,1 +1,1 @@
-var mnemonic = "hurry leader genuine never custom alcohol believe arrow crane party actual bitter";
+var mnemonic = "real system wife chalk car accuse oyster infant notable pulp market mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "wheel path icon magnet fantasy ski vague pattern kingdom cash struggle option";
+var mnemonic = "oak segment social regret frog cup budget tiny miracle panic satoshi brief";

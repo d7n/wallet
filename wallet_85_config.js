@@ -1,1 +1,1 @@
-var mnemonic = "kitchen special entire brother month daughter blast result custom gasp coyote annual";
+var mnemonic = "acid bleak when ginger detail manual cook odor nature figure spirit lamp";

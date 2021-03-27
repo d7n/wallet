@@ -1,1 +1,1 @@
-var mnemonic = "point margin gap retreat trash custom cook public true deposit shield laugh";
+var mnemonic = "kick tenant coin describe bridge liquid wild glow quiz gift vehicle riot";

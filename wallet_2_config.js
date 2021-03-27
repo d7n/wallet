@@ -1,1 +1,1 @@
-var mnemonic = "rack crater token arrest member valid syrup leisure razor pudding during teach";
+var mnemonic = "person song east head soup diesel shiver asthma blood elite afraid farm";

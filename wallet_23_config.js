@@ -1,1 +1,1 @@
-var mnemonic = "mandate great bonus drift film casino clay tenant bulb car screen artefact";
+var mnemonic = "affair this law curtain person pepper analyst banner unfair exclude diary because";

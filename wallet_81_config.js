@@ -1,1 +1,1 @@
-var mnemonic = "acquire whip blur october catalog minor fetch inherit sausage solar supply innocent";
+var mnemonic = "purpose notice sunny grief circle under easy fall tank merge armor vague";

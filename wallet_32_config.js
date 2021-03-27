@@ -1,1 +1,1 @@
-var mnemonic = "empty shaft cereal damp copper marriage pattern lobster indoor aspect rain yellow";
+var mnemonic = "harsh all mirror holiday curious sample oblige evolve history arctic oval clean";

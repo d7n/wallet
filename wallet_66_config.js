@@ -1,1 +1,1 @@
-var mnemonic = "ill can sock chief hollow twist wisdom shuffle outdoor pull decade submit";
+var mnemonic = "estate snap industry armed arrest imitate good fresh tray hen helmet label";

@@ -1,1 +1,1 @@
-var mnemonic = "trip deposit anxiety talent pair search quote danger average fault web pony";
+var mnemonic = "satoshi wait buffalo mesh faint miss spot shop coach pilot wrist jump";

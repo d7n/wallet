@@ -1,1 +1,1 @@
-var mnemonic = "giant try brown vessel scan hard sleep divert wedding skate glass scrap";
+var mnemonic = "blush income place sniff dawn oven robot quantum total version anchor gallery";

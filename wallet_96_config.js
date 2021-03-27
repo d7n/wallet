@@ -1,1 +1,1 @@
-var mnemonic = "dish barely shed crouch aspect attitude absent lunar echo lazy blanket sustain";
+var mnemonic = "stick weather spice nation lake among exhibit under wall advice clip digital";

@@ -1,1 +1,1 @@
-var mnemonic = "rule lock fly tourist fire pave two token junior bicycle ankle million";
+var mnemonic = "air cinnamon turkey horror spot step disorder ocean fruit cushion auction truck";

@@ -1,1 +1,1 @@
-var mnemonic = "off lecture hungry work zero south ahead faith lift mimic lawsuit produce";
+var mnemonic = "rookie what error equip draw cloth large address mass work discover focus";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber never pottery mechanic april dash agree inside carpet pupil buzz pepper";
+var mnemonic = "spatial slogan canyon pottery liquid luxury place table fame pepper alpha tuna";

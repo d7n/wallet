@@ -1,1 +1,1 @@
-var mnemonic = "federal pudding oil fragile wheat lonely install office crowd ring puppy kite";
+var mnemonic = "rebel autumn fork approve reason admit girl swear judge file brain inch";

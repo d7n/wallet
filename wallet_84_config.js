@@ -1,1 +1,1 @@
-var mnemonic = "essence goddess ginger oyster receive shrug champion sea obvious tragic false popular";
+var mnemonic = "emotion random tuition similar catch empower stem patrol awful home dolphin tortoise";

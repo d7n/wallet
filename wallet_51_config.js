@@ -1,1 +1,1 @@
-var mnemonic = "vital poet sphere exist arch wreck various industry mimic stone tragic thought";
+var mnemonic = "march visual air destroy stock legend science large outside army alarm coyote";

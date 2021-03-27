@@ -1,1 +1,1 @@
-var mnemonic = "limit alley solution dentist repair grant wear loan arctic response require bundle";
+var mnemonic = "clap casual video patient spirit vehicle claw model decrease obtain resource apple";

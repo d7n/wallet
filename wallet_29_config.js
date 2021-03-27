@@ -1,1 +1,1 @@
-var mnemonic = "romance doctor deal soap rather again item kitchen case vehicle grape chimney";
+var mnemonic = "become invite way spirit farm crush pact network cigar review soap dentist";

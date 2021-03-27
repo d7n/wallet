@@ -1,1 +1,1 @@
-var mnemonic = "friend dutch catch horn forum maid muscle crash approve long drift document";
+var mnemonic = "average account aware sure pig wild mad slab seven person vote fall";

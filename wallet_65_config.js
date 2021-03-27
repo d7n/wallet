@@ -1,1 +1,1 @@
-var mnemonic = "talk reward volume remember best addict main neck nothing saddle solar pistol";
+var mnemonic = "odor basket spoon wrong earn soon swift notable patrol gospel gorilla tattoo";

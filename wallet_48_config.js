@@ -1,1 +1,1 @@
-var mnemonic = "organ topic slab time work maid bullet cinnamon brisk pumpkin obey usage";
+var mnemonic = "rescue confirm soccer beyond birth quality session bottom empty sign true lawn";

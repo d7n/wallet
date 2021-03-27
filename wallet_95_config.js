@@ -1,1 +1,1 @@
-var mnemonic = "friend behind unfold embody sister ugly uncle coffee detect piece siege upper";
+var mnemonic = "rent flag own truly angry rack employ mystery flag hair shoulder room";

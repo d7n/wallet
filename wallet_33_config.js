@@ -1,1 +1,1 @@
-var mnemonic = "denial claim column digital brick admit broom person learn cable width casual";
+var mnemonic = "toast steel jazz torch cheese switch immense ahead arena wait visit can";

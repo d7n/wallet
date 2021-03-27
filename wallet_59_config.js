@@ -1,1 +1,1 @@
-var mnemonic = "defy discover torch stage now cost luxury blouse penalty seat dawn kite";
+var mnemonic = "curtain section thunder solve square doctor thrive guard vacant abstract fury sail";

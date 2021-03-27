@@ -1,1 +1,1 @@
-var mnemonic = "detect brush stairs evoke slide annual shrimp middle piano possible hedgehog desk";
+var mnemonic = "assist february unusual lab setup wink guilt plug veteran pass sustain confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber swamp below alarm secret vacuum neither hard brother abstract talk drama";
+var mnemonic = "family urban refuse depend strategy pull act rigid average roof crazy flush";

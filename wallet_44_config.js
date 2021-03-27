@@ -1,1 +1,1 @@
-var mnemonic = "right task rhythm apology clay agree couch view future portion liar shoe";
+var mnemonic = "museum pizza fold october eyebrow pull sock include spray junk nut bird";

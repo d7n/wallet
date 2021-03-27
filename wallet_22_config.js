@@ -1,1 +1,1 @@
-var mnemonic = "trust remain pitch empty cradle jelly aim bone render decline oblige dose";
+var mnemonic = "cross debris interest walk pride owner diesel void bar erode kid repeat";

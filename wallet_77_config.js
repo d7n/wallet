@@ -1,1 +1,1 @@
-var mnemonic = "cloth noise scout alcohol suit because swallow powder net hat juice victory";
+var mnemonic = "silly aunt ribbon ceiling barrel achieve pond dirt rate mix clerk fade";

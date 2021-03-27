@@ -1,1 +1,1 @@
-var mnemonic = "will lounge fabric tobacco double year casual story pelican all affair text";
+var mnemonic = "relax undo simple onion cruel whisper rain bleak dream decorate price maid";

@@ -1,1 +1,1 @@
-var mnemonic = "unhappy able gauge smart target doctor gentle curve sketch silent draft tomato";
+var mnemonic = "stock open comic account pride wise zero parrot pear symptom test trumpet";

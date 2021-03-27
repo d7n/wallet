@@ -1,1 +1,1 @@
-var mnemonic = "eight belt reform prepare come moon huge tonight cable scrub doctor during";
+var mnemonic = "ocean one assume birth fan toast cabbage lion alcohol depth science total";

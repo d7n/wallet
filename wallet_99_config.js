@@ -1,1 +1,1 @@
-var mnemonic = "screen chronic public duck ketchup estate peace cool confirm position village sausage";
+var mnemonic = "view blur cost leg slim flower shine candy jealous talk shiver super";

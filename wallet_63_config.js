@@ -1,1 +1,1 @@
-var mnemonic = "undo system involve number exact check chaos outside wealth extend short knee";
+var mnemonic = "trick story ugly gorilla trend normal output interest youth lens dentist layer";

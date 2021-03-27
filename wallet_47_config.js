@@ -1,1 +1,1 @@
-var mnemonic = "ranch grit alley coconut special fringe cute embrace bird level desk fossil";
+var mnemonic = "boost then alpha fitness unlock enact equal wool prosper host race empower";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol soft smooth merge sugar van lounge clinic toast cover dinosaur enforce";
+var mnemonic = "immense liberty stick stuff cotton float say steak health canyon ritual essence";

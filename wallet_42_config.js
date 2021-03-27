@@ -1,1 +1,1 @@
-var mnemonic = "payment accuse vanish example venture color defense wise clock wool list hammer";
+var mnemonic = "rescue spare tell winter camp patch concert evidence wrong monitor labor poet";

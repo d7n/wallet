@@ -1,1 +1,1 @@
-var mnemonic = "trend market travel sad someone lock voice dad salon tenant weasel file";
+var mnemonic = "autumn soap amount trophy topic scissors bulk biology matrix color chief bind";

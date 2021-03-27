@@ -1,1 +1,1 @@
-var mnemonic = "jelly display satoshi fence siege art average chimney trip glass force title";
+var mnemonic = "junk typical phrase lion try dentist hope best expand cotton embark shift";

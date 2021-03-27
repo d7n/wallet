@@ -1,1 +1,1 @@
-var mnemonic = "busy segment bread fiber confirm elevator brother what usual ugly flag earth";
+var mnemonic = "breeze empower sword boss describe minor audit dynamic average jaguar fix warm";

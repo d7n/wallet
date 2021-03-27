@@ -1,1 +1,1 @@
-var mnemonic = "zoo analyst jump fruit arctic across hospital finish monkey rookie frame pond";
+var mnemonic = "simple dirt decide heart below fuel thought alcohol science conduct tomorrow honey";

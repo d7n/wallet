@@ -1,1 +1,1 @@
-var mnemonic = "armor stairs supply festival air voice boy drink pilot grace peace physical";
+var mnemonic = "mesh menu head sunset alter certain inquiry tumble damage bullet creek magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "assault curious round color lend inherit sound solve bean evil violin surge";
+var mnemonic = "filter better hand fortune elite panic custom unfold wall firm grape decline";

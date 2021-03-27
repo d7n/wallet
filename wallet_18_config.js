@@ -1,1 +1,1 @@
-var mnemonic = "discover head brother unhappy slim matrix forward draft similar frame obscure issue";
+var mnemonic = "soldier nation chef illegal desk loud abandon sea review yard suffer depend";

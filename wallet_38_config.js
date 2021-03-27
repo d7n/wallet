@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin clerk effort innocent scout forget ride welcome radio veteran truth suggest";
+var mnemonic = "tired social polar topic crazy actor atom eye copy milk gain mystery";

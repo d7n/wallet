@@ -1,1 +1,1 @@
-var mnemonic = "bachelor client cart coil coffee narrow during helmet canoe muscle boy adjust";
+var mnemonic = "valve rate auto drive wave chair already mass rotate rival bundle fantasy";

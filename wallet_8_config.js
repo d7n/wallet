@@ -1,1 +1,1 @@
-var mnemonic = "aspect concert switch shop guard horse album region loop upon left scatter";
+var mnemonic = "frost struggle extend rent three garbage again under buddy blouse fluid since";

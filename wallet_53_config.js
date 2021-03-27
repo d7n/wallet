@@ -1,1 +1,1 @@
-var mnemonic = "wheat ginger appear glow apple force awake label arrest embark range scrap";
+var mnemonic = "own blossom must august desk airport visual cushion mobile leave fault wash";

@@ -1,1 +1,1 @@
-var mnemonic = "memory connect sheriff initial asthma magnet install goose gym sauce duty absorb";
+var mnemonic = "whip describe fortune moment despair alarm attack trip pyramid inhale person this";

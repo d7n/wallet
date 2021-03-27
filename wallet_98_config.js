@@ -1,1 +1,1 @@
-var mnemonic = "dentist hurdle sorry excite tag riot promote ranch sign brass club pottery";
+var mnemonic = "rhythm file voyage climb bench reason lobster clown treat dog hazard increase";

@@ -1,1 +1,1 @@
-var mnemonic = "peanut avoid cheese bread gaze access inject embody enroll popular dog unhappy";
+var mnemonic = "sick live street swallow dolphin crowd erupt exhibit oven mad cup upgrade";

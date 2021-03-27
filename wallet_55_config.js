@@ -1,1 +1,1 @@
-var mnemonic = "tiny inquiry impact moon tragic arrange oil expect couple grass venue together";
+var mnemonic = "path sure panic leave lecture dumb scrap earn program produce fence relax";

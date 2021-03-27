@@ -1,1 +1,1 @@
-var mnemonic = "fly insane left calm become rare salad exhibit alley member indicate club";
+var mnemonic = "jazz sleep treat cram hair below knife carpet enforce artefact jewel virus";

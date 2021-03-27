@@ -1,1 +1,1 @@
-var mnemonic = "obscure execute snake photo trend attitude final water fee cloud kid keen";
+var mnemonic = "service reason garden word peace park pig fence process movie mean often";

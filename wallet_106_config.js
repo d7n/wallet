@@ -1,1 +1,1 @@
-var mnemonic = "chapter decrease extend lend ride cage estate biology argue video fossil angry";
+var mnemonic = "come swift awesome bird rate decrease hard butter empty gun title poem";

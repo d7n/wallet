@@ -1,1 +1,1 @@
-var mnemonic = "gorilla bleak put foot churn food lounge tag omit march credit harvest";
+var mnemonic = "duck demise theme vague vendor festival client jelly october gaze zero combine";

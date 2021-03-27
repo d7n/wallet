@@ -1,1 +1,1 @@
-var mnemonic = "vote pet intact unfair honey ranch bachelor salon people shrimp arm little";
+var mnemonic = "bargain cabin bitter soup nephew flame junk eager bunker enlist exist bomb";

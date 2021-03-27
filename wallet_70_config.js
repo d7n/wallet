@@ -1,1 +1,1 @@
-var mnemonic = "negative bar glue tortoise faith napkin winter liquid bonus february rent oyster";
+var mnemonic = "custom pig gather village laugh prosper album video legend doll trip novel";

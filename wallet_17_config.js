@@ -1,1 +1,1 @@
-var mnemonic = "identify first dentist hospital brass congress gasp consider route fit churn insect";
+var mnemonic = "web pelican stock cloud photo capable glad crucial universe reunion clerk burst";

@@ -1,1 +1,1 @@
-var mnemonic = "often toward cannon flower exact choice citizen under clean hub wheel solid";
+var mnemonic = "knee margin pilot tooth more absent market teach bike bargain guitar fame";

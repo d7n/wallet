@@ -1,1 +1,1 @@
-var mnemonic = "neither typical toward source used later foil over jar cliff tide unusual";
+var mnemonic = "hawk judge project buffalo boring ring velvet undo want merry long angry";

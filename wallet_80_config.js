@@ -1,1 +1,1 @@
-var mnemonic = "scorpion easy topple metal size error initial pottery neither rice nice health";
+var mnemonic = "possible certain upset fish mammal circle course lift fruit shield miss pink";

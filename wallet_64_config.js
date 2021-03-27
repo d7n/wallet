@@ -1,1 +1,1 @@
-var mnemonic = "false cancel tuna client lizard word aunt grow canvas feature oven stereo";
+var mnemonic = "crack exercise couch fine return maple goddess sword pencil section quiz eager";

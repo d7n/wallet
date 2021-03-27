@@ -1,1 +1,1 @@
-var mnemonic = "give image captain surprise secret wave tag digital latin reward spring hint";
+var mnemonic = "label cannon doll shoot faculty method leopard initial still rifle dress giraffe";

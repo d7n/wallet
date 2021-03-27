@@ -1,1 +1,1 @@
-var mnemonic = "permit noble sausage island defy eyebrow whisper globe please topic inside enjoy";
+var mnemonic = "square bonus absent dose sauce enroll doll crater practice hazard reason nest";

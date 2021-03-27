@@ -1,1 +1,1 @@
-var mnemonic = "salute enjoy tray pride stand celery chef collect play cake say travel";
+var mnemonic = "inside unfair earth december biology either meat ensure ostrich balcony material knock";

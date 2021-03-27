@@ -1,1 +1,1 @@
-var mnemonic = "illness exotic symptom will enact faith album impulse enrich keep apology dice";
+var mnemonic = "oxygen trial bomb fresh page brass junk eight dynamic ten crane pole";

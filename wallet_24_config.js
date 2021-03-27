@@ -1,1 +1,1 @@
-var mnemonic = "toward runway develop bubble burden picture account hammer deer fashion endless screen";
+var mnemonic = "retreat solve spell flame runway cabbage village royal menu crouch client mansion";

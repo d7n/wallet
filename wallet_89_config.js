@@ -1,1 +1,1 @@
-var mnemonic = "rather sock thumb butter oak social reason pink park gown happy evolve";
+var mnemonic = "lend biology bleak odor junior begin rare unlock odor wonder school ball";

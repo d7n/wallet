@@ -1,1 +1,1 @@
-var mnemonic = "this dolphin hurry aerobic steel figure flight enough must pride valley dress";
+var mnemonic = "erase vocal tonight woman answer affair rival situate roof elephant all network";

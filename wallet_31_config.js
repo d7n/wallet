@@ -1,1 +1,1 @@
-var mnemonic = "bitter evoke twice sniff dawn badge erupt submit charge labor ahead decorate";
+var mnemonic = "rival talk peanut wood elephant what waste misery light beef three field";

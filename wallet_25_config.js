@@ -1,1 +1,1 @@
-var mnemonic = "say before ten paddle claim huge cup pig jewel move cupboard injury";
+var mnemonic = "coconut shove trouble panda injury journey drink machine giant hamster any earth";

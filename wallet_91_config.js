@@ -1,1 +1,1 @@
-var mnemonic = "reward swamp say mistake seminar welcome case gentle eyebrow glad version bone";
+var mnemonic = "soft such mushroom index table reward find fluid chunk income alone once";

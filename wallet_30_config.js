@@ -1,1 +1,1 @@
-var mnemonic = "unaware pear stereo list shed sing chalk carry birth much leisure collect";
+var mnemonic = "blood library pudding aisle maid elevator pattern image brush artwork loan holiday";

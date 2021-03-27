@@ -1,1 +1,1 @@
-var mnemonic = "begin mesh cinnamon around false habit stick crop vibrant silver damp obey";
+var mnemonic = "candy rural sort area orchard minor tomato soldier arrow rally atom rice";

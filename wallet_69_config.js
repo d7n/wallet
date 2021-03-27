@@ -1,1 +1,1 @@
-var mnemonic = "rebel phone quality best inject disease shadow obscure prosper slot cereal social";
+var mnemonic = "unaware below spoil rifle cruel point olive inspire know onion rabbit police";

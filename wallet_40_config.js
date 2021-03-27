@@ -1,1 +1,1 @@
-var mnemonic = "coffee receive recall breeze inject place cat razor anger local sing flight";
+var mnemonic = "jazz baby sign social desert garbage cool word lucky practice kidney armor";

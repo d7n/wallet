@@ -1,1 +1,1 @@
-var mnemonic = "grunt about travel seminar brief wave trap unveil rocket sand member large";
+var mnemonic = "tent soon hair kidney bridge spatial million trial turn auction art fish";

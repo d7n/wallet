@@ -1,1 +1,1 @@
-var mnemonic = "voyage adjust craft knee curtain column panic height scorpion expand intact observe";
+var mnemonic = "fetch sick enemy jaguar milk stuff correct expire bonus pupil pole public";

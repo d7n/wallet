@@ -1,1 +1,1 @@
-var mnemonic = "april local reflect meat ceiling sunny harsh net job walnut kiwi you";
+var mnemonic = "tissue rural enroll arrive bleak fancy labor crush oxygen social sleep assist";

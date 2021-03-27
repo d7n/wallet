@@ -1,1 +1,1 @@
-var mnemonic = "drive rack south snake open doll token judge grace shuffle lizard census";
+var mnemonic = "coffee cancel airport sense parent keep ribbon during pony suspect hour appear";

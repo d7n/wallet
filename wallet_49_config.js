@@ -1,1 +1,1 @@
-var mnemonic = "tobacco regular cute copy coast describe clip gesture lumber use hood extend";
+var mnemonic = "spring exchange duty miss weird effort harvest street history repeat series diet";

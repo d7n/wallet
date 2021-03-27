@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur online develop swallow dial brisk month run cigar mixture tobacco torch";
+var mnemonic = "light check laundry veteran split portion pelican choice feel merge salt promote";

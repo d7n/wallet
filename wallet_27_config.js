@@ -1,1 +1,1 @@
-var mnemonic = "arrange inch mad child crush same wreck spread tube basket churn figure";
+var mnemonic = "blue abstract salmon spirit attitude illegal nominee replace yard all brain arrive";

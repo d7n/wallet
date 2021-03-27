@@ -1,1 +1,1 @@
-var mnemonic = "spend zoo danger express present nuclear adjust firm engage virtual door hollow";
+var mnemonic = "client chair donate order region wink boil bulk nasty mirror hidden hammer";

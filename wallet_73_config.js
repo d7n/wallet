@@ -1,1 +1,1 @@
-var mnemonic = "fade kitten nature child crane valley cube curtain daring wrong crystal heavy";
+var mnemonic = "decline leopard modify spoil click august ankle vacant tube level someone million";

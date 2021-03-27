@@ -1,1 +1,1 @@
-var mnemonic = "expect woman burst intact must twenty cream element tent tool clip width";
+var mnemonic = "creek into impact jacket poet whale artist glue funny empower hamster require";
