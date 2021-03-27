@@ -1,1 +1,1 @@
-var mnemonic = "turkey pact any shaft brother surround brown near alarm mass victory major";
+var mnemonic = "shine child cupboard trash grocery choice trap coral urge case pupil recall";

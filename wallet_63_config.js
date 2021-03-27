@@ -1,1 +1,1 @@
-var mnemonic = "way tiger tenant century second pilot saddle lab federal vague label joke";
+var mnemonic = "genre follow mansion pool derive also violin night behind funny control boring";

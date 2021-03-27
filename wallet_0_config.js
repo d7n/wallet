@@ -1,1 +1,1 @@
-var mnemonic = "tank arch unusual design order region notable child abuse admit matrix obscure";
+var mnemonic = "enrich hockey tiger error cannon indoor biology traffic carpet post peasant present";

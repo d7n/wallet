@@ -1,1 +1,1 @@
-var mnemonic = "cruel silly weekend coach chef track damp element tip fan gold embody";
+var mnemonic = "fit culture reject mansion purse extend master bulk syrup please remember session";

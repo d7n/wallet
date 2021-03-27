@@ -1,1 +1,1 @@
-var mnemonic = "flame obscure dignity family virtual story until fantasy desk van naive rare";
+var mnemonic = "royal envelope ridge grow empower patient fever deny accident position phone flock";

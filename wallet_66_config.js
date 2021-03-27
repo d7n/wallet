@@ -1,1 +1,1 @@
-var mnemonic = "hundred world page travel mind animal coil address people fame type car";
+var mnemonic = "rail picnic display area vault remind poem aunt stamp supreme dynamic emerge";

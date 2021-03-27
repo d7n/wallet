@@ -1,1 +1,1 @@
-var mnemonic = "feed pumpkin pig fault dutch cute maze calm large recipe more museum";
+var mnemonic = "worth truth uphold foster conduct arrange point slim they amazing alcohol clog";

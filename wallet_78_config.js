@@ -1,1 +1,1 @@
-var mnemonic = "bike muscle finish enter element text limit spring giant topic during ask";
+var mnemonic = "coin outdoor furnace chimney tree column crunch extend journey table album replace";

@@ -1,1 +1,1 @@
-var mnemonic = "addict rice door entire dove final country tool donor genre identify maze";
+var mnemonic = "wink cloud abandon chicken now neglect day lens maple foam wool famous";

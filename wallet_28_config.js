@@ -1,1 +1,1 @@
-var mnemonic = "nose obscure onion joke task chunk retire plunge grief illegal beach narrow";
+var mnemonic = "fog ocean soon ladder remove world kid two tattoo category message repeat";

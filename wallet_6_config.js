@@ -1,1 +1,1 @@
-var mnemonic = "acquire green glare reveal awful put protect siege body opera nasty secret";
+var mnemonic = "evoke theme possible borrow produce flower rude december crunch cover vintage alcohol";

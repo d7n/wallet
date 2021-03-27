@@ -1,1 +1,1 @@
-var mnemonic = "never cruise renew alert always repair rigid offer bright indicate mention spell";
+var mnemonic = "decade collect number direct control artist abstract lawn improve often problem chapter";

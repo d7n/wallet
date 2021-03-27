@@ -1,1 +1,1 @@
-var mnemonic = "hunt frozen casino piano lecture juice label chalk slam swear unusual garlic";
+var mnemonic = "business liberty canyon clean stable tip electric refuse alter exercise zone sell";

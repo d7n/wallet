@@ -1,1 +1,1 @@
-var mnemonic = "uphold knee girl bike time weasel collect plate entire mom february mesh";
+var mnemonic = "fork disagree festival rebuild super ten pigeon clump during slow answer bus";

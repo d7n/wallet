@@ -1,1 +1,1 @@
-var mnemonic = "october name scene interest peasant involve gaze open caught crater satoshi shy";
+var mnemonic = "core apple loyal more dawn above scatter above rhythm truth embrace feel";

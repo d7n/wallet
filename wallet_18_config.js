@@ -1,1 +1,1 @@
-var mnemonic = "twice kingdom nothing fence enable park damp mad inmate boat theme token";
+var mnemonic = "trophy course process pave enact news female tree mystery pulse give olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "focus slight pottery wash winter tonight tired crash eager such puzzle drop";
+var mnemonic = "fresh magnet guide useless doctor stereo infant gesture enough attend memory inquiry";

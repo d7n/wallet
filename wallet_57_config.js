@@ -1,1 +1,1 @@
-var mnemonic = "radio nephew trigger essence dash tattoo wine pen swim ethics tragic lucky";
+var mnemonic = "into tool water first sort direct scissors tomorrow quit regret sight try";

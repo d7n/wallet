@@ -1,1 +1,1 @@
-var mnemonic = "soon myself crawl honey double cupboard kitchen artwork enrich lawn spy fever";
+var mnemonic = "pizza spread burger unable ski label another spoil unfold brass shrimp lobster";

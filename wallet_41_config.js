@@ -1,1 +1,1 @@
-var mnemonic = "fortune clump brush tube zero monster hedgehog glow cancel source delay pink";
+var mnemonic = "detect miss electric stem volcano can drive obvious source glimpse degree rug";

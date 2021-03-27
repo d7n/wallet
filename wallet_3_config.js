@@ -1,1 +1,1 @@
-var mnemonic = "embody oven cash adult mutual curtain stove invite team tribe glue trigger";
+var mnemonic = "morning potato hundred potato adapt garment narrow salute gloom kid wagon burden";

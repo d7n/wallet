@@ -1,1 +1,1 @@
-var mnemonic = "shock bundle accident toy purity bronze curtain hedgehog puppy turkey muscle play";
+var mnemonic = "mystery sudden odor chapter embody panic lottery benefit similar that letter theory";

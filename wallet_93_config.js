@@ -1,1 +1,1 @@
-var mnemonic = "deny away regular require hospital sugar little idea remove candy know noise";
+var mnemonic = "timber best spawn antique drop radio team absorb vessel mandate sea rely";

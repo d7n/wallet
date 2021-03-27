@@ -1,1 +1,1 @@
-var mnemonic = "virus speak myth rough firm rubber pumpkin album dolphin offer priority sustain";
+var mnemonic = "make elegant weekend crawl ask cheap easy favorite label quote skirt announce";

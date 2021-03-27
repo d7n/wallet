@@ -1,1 +1,1 @@
-var mnemonic = "situate rib hair undo please prison soup surprise suffer start vivid fuel";
+var mnemonic = "comfort drop dice regret oblige sea giggle capable prison this kind casino";

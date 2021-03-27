@@ -1,1 +1,1 @@
-var mnemonic = "process stem they wheel suspect injury morning cotton maple parade resource genre";
+var mnemonic = "vanish dirt insane voyage enlist vast lunar fatal medal story repeat afford";

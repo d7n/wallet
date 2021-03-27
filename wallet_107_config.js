@@ -1,1 +1,1 @@
-var mnemonic = "false drink typical victory once ritual emerge accident catch know swap gold";
+var mnemonic = "quick flag believe ordinary hospital protect pluck chair response couple trip upon";

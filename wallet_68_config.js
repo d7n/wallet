@@ -1,1 +1,1 @@
-var mnemonic = "rude people early snack tube rice regret matrix width magic color remove";
+var mnemonic = "fatal seed soul elite certain spray recall silly current scare blouse outside";

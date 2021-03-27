@@ -1,1 +1,1 @@
-var mnemonic = "decline school robust patch patch argue lake claim indoor blind artist roof";
+var mnemonic = "bunker wage beef project humble sister armed business rain list crash toast";

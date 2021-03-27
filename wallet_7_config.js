@@ -1,1 +1,1 @@
-var mnemonic = "among control olympic veteran magnet wine order nation mixed anxiety evil carpet";
+var mnemonic = "trim hello fabric bench exchange pass spread typical practice huge fringe affair";

@@ -1,1 +1,1 @@
-var mnemonic = "fault victory express assume sing boat venue balance weather delay stand tribe";
+var mnemonic = "install almost olive twelve powder owner bunker game noble cushion torch devote";

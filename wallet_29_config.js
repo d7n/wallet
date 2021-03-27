@@ -1,1 +1,1 @@
-var mnemonic = "loud blossom name suffer turkey story mushroom apology arrest popular seek cable";
+var mnemonic = "angle before spider faith neglect visual drastic man curtain trade follow barely";

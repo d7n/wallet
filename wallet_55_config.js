@@ -1,1 +1,1 @@
-var mnemonic = "decline medal sport thumb title cushion kangaroo siren wrong train shrimp renew";
+var mnemonic = "ordinary joke cushion wrist fossil witness meadow taste vendor van risk rent";

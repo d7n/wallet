@@ -1,1 +1,1 @@
-var mnemonic = "gentle pipe escape spot neck panic cycle excite floor oppose crisp panther";
+var mnemonic = "use lock range debris kiss main dream daring midnight uniform dune orange";

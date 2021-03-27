@@ -1,1 +1,1 @@
-var mnemonic = "guide survey tool again cupboard step recipe crack divorce near trash wear";
+var mnemonic = "make tide check food leisure crumble indicate gate edit peasant purity alley";

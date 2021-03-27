@@ -1,1 +1,1 @@
-var mnemonic = "gospel plunge loan buddy mass valid guilt gaze purpose attitude deposit assist";
+var mnemonic = "screen link beach essence tornado liar moon add park furnace warrior pass";

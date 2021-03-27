@@ -1,1 +1,1 @@
-var mnemonic = "taxi double capital deposit job eternal vicious rotate follow stay ripple vehicle";
+var mnemonic = "frequent fault cabin struggle giggle yellow river fitness coast kidney raw mind";

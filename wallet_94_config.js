@@ -1,1 +1,1 @@
-var mnemonic = "load devote stem okay raven skate stool media wide define before traffic";
+var mnemonic = "rude pull educate identify gravity genius best wood easy slide surface flame";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial laptop post rely frown slender early diagram offer lab reflect cabin";
+var mnemonic = "walnut reduce cabbage jump grape logic average original lunar lounge bunker head";

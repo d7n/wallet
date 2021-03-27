@@ -1,1 +1,1 @@
-var mnemonic = "post anchor invite orphan album razor admit kid list bottom allow tower";
+var mnemonic = "play route harvest involve code become treat home soap trigger dignity medal";

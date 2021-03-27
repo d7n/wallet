@@ -1,1 +1,1 @@
-var mnemonic = "fade dilemma fault donkey fetch glass economy engine open clump rent abstract";
+var mnemonic = "omit finger income south blade receive metal adapt true sight logic fitness";

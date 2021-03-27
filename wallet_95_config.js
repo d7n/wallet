@@ -1,1 +1,1 @@
-var mnemonic = "promote hamster regret calm help vital hungry blame vacuum dry accuse absurd";
+var mnemonic = "eight knife soup alter can fury melt measure month inflict spare buffalo";

@@ -1,1 +1,1 @@
-var mnemonic = "summer knife barely cherry upon section gain expose record then brass mango";
+var mnemonic = "enrich nice duck rose ritual relief reform proud lock flame abstract sure";

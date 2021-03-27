@@ -1,1 +1,1 @@
-var mnemonic = "vicious funny fetch pen silver science forget flavor rebel drum hurdle steel";
+var mnemonic = "easy resist miss merit timber away need pause pistol rifle clutch proof";

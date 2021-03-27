@@ -1,1 +1,1 @@
-var mnemonic = "social quiz jealous accident copper vital sample peasant book shock clever salt";
+var mnemonic = "pledge simple easily hawk news now universe hurdle goat marble cigar dilemma";

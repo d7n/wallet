@@ -1,1 +1,1 @@
-var mnemonic = "muffin forward across tobacco crazy visa person gadget pilot slim course neck";
+var mnemonic = "when tide toy lottery various still rug raise weapon tell mutual nest";

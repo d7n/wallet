@@ -1,1 +1,1 @@
-var mnemonic = "move struggle choose memory area grief chaos wrong column awkward tray know";
+var mnemonic = "original ball joy retreat reflect metal van same walk lock brief squirrel";

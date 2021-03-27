@@ -1,1 +1,1 @@
-var mnemonic = "toddler onion ancient embrace gas hungry frog job jeans swamp divert supreme";
+var mnemonic = "owner bridge tag abstract rapid annual earn idle radar jelly machine tooth";

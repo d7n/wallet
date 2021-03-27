@@ -1,1 +1,1 @@
-var mnemonic = "margin spring trial share gun civil social frog flat leopard idle nation";
+var mnemonic = "taste rubber name body mother toddler credit tomorrow fun female provide glow";

@@ -1,1 +1,1 @@
-var mnemonic = "length gentle feed catch mountain toward typical say monitor sun happy wisdom";
+var mnemonic = "ritual slight brand ghost topic empty jar journey disease proof spawn onion";

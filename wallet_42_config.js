@@ -1,1 +1,1 @@
-var mnemonic = "letter tennis ignore blood prefer wait flip state system area pudding flat";
+var mnemonic = "mosquito drink print lounge worth spice isolate advance plate renew gift pond";

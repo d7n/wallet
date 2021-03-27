@@ -1,1 +1,1 @@
-var mnemonic = "issue skull cost oppose spot october sample update wife coffee beef become";
+var mnemonic = "laugh connect essence hunt crime few physical piano magnet three prefer normal";

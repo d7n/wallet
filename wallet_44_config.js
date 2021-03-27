@@ -1,1 +1,1 @@
-var mnemonic = "diamond glove brush leopard destroy soon inhale other unique skull clog fire";
+var mnemonic = "legend strong recycle endorse camp kidney report excuse power device chronic boil";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit ramp negative eager exact bachelor mixture legend clock tip entire object";
+var mnemonic = "bamboo ceiling border scale duty want pluck fame method describe observe piece";

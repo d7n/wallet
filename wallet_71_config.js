@@ -1,1 +1,1 @@
-var mnemonic = "delay head truth alcohol sniff joy adjust inch salt duty gown trust";
+var mnemonic = "setup shrimp describe clap curious alone permit gossip language match news quit";

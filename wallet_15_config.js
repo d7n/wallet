@@ -1,1 +1,1 @@
-var mnemonic = "twin utility hammer rather immune balcony pioneer ginger method minor disagree dumb";
+var mnemonic = "calm lucky index chief blame wage oblige legal fluid boss island cupboard";

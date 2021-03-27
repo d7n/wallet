@@ -1,1 +1,1 @@
-var mnemonic = "also another elite lounge sheriff salon comic life kid tennis hedgehog bulk";
+var mnemonic = "kite sister jaguar obvious vivid small arrive dwarf media soul gas car";

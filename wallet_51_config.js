@@ -1,1 +1,1 @@
-var mnemonic = "pencil poverty clog autumn when inch menu runway wife mountain apology verb";
+var mnemonic = "laugh dial like gown excess metal yellow else glance search key fury";

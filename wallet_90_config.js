@@ -1,1 +1,1 @@
-var mnemonic = "banner ethics gospel front scan enter pool sketch shift battle say bottom";
+var mnemonic = "weasel depart job kitchen pony estate moral frown avoid field shoulder adjust";

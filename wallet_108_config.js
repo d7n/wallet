@@ -1,1 +1,1 @@
-var mnemonic = "fatal maple sponsor habit dune illegal together position aisle face mother salute";
+var mnemonic = "sudden echo town note mistake idea refuse young wood assault oppose object";

@@ -1,1 +1,1 @@
-var mnemonic = "radio obvious social favorite box seat uphold vessel behave fit engage gas";
+var mnemonic = "gravity fork devote stay voice item afraid galaxy manage sponsor execute clap";

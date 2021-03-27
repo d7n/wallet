@@ -1,1 +1,1 @@
-var mnemonic = "project army coach message ball what busy topple warfare dish share small";
+var mnemonic = "attract toe certain ask hand walk ripple music luggage undo gas ask";

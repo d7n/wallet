@@ -1,1 +1,1 @@
-var mnemonic = "traffic seat network welcome churn model all forget audit tree excuse radar";
+var mnemonic = "lemon ozone used come pledge hat imitate guide repeat brown famous ready";

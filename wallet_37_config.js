@@ -1,1 +1,1 @@
-var mnemonic = "satoshi penalty giant where rice depth rebel mask panther various rural fine";
+var mnemonic = "tissue glass uncle way glance town notice alert aerobic digital glory warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp bomb alert harvest real clay route lab catch same hedgehog dignity";
+var mnemonic = "nephew escape drift chapter sniff bottom jeans minimum music speak canal flame";

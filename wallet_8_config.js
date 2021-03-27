@@ -1,1 +1,1 @@
-var mnemonic = "lounge thumb harvest online cheap banner share rib angry hill school fun";
+var mnemonic = "blame humble boy error appear long boss fruit lamp off novel pact";

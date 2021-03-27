@@ -1,1 +1,1 @@
-var mnemonic = "bottom soccer canoe fabric deer doctor project outdoor vast envelope bus slot";
+var mnemonic = "busy weapon shop citizen clog poem joke vocal enable verify check visit";

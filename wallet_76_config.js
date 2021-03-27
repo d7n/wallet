@@ -1,1 +1,1 @@
-var mnemonic = "collect bike bird wrestle group exist breeze dance virtual also scout acquire";
+var mnemonic = "borrow stem blush sword churn shy whale run update lyrics energy make";

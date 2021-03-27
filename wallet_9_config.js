@@ -1,1 +1,1 @@
-var mnemonic = "trust check clump gym board purity whip kidney bracket embody nothing seed";
+var mnemonic = "illegal drastic trip wisdom sibling kitchen inject direct curious thrive adapt mesh";

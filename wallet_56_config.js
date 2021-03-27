@@ -1,1 +1,1 @@
-var mnemonic = "immense fame exotic eight crucial action liberty easy canvas divide friend again";
+var mnemonic = "express amount wear roof two crouch virtual relax weasel girl clever law";

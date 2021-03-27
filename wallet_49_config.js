@@ -1,1 +1,1 @@
-var mnemonic = "arrive teach bonus film differ shoe increase escape tiger girl intact second";
+var mnemonic = "decorate remind magic celery wife citizen drive juice found flag feature menu";

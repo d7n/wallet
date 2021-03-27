@@ -1,1 +1,1 @@
-var mnemonic = "inspire fiscal guard quit vanish fame vapor laugh update print dance stuff";
+var mnemonic = "spider dumb improve twelve wish stadium mass stool dilemma benefit unveil knock";

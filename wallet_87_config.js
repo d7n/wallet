@@ -1,1 +1,1 @@
-var mnemonic = "bottom hedgehog bounce gas giggle flight can similar artist blur lyrics topic";
+var mnemonic = "swarm dry latin anger burst enable soap man legend crunch bring giant";

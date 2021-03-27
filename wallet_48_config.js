@@ -1,1 +1,1 @@
-var mnemonic = "lonely useful anger found undo clinic combine increase catch describe satisfy blossom";
+var mnemonic = "marriage auto fall radio same visual culture guilt shrimp dry boss inner";

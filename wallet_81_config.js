@@ -1,1 +1,1 @@
-var mnemonic = "hurry argue pool spell obtain blossom ranch cigar vapor deal vocal disease";
+var mnemonic = "purchase zoo ten one trumpet lesson female embrace milk guitar candy mass";

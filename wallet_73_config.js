@@ -1,1 +1,1 @@
-var mnemonic = "model dutch exact conduct holiday mesh salad artwork cheese solution glide yellow";
+var mnemonic = "mandate artwork vivid sunny credit slab swarm lobster mansion grab when sock";

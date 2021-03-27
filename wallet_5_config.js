@@ -1,1 +1,1 @@
-var mnemonic = "hole inch park knife mother monitor bomb pattern much spike drill social";
+var mnemonic = "chase dad crew parade large goat session record wheat young among wing";

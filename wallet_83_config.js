@@ -1,1 +1,1 @@
-var mnemonic = "popular damp public scorpion manage orchard reform grid smoke venue fog office";
+var mnemonic = "dirt unlock cupboard fan client organ buzz once december apple slam inherit";

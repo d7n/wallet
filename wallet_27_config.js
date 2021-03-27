@@ -1,1 +1,1 @@
-var mnemonic = "umbrella bachelor pole detect evidence help half local process mimic bottom magic";
+var mnemonic = "carbon gaze corn tackle island myself lunch midnight end arctic unhappy glue";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel wing solar roof banana proud cash grid grab banana fresh dance";
+var mnemonic = "purchase verify pluck toss hybrid scale gadget small shock bundle lizard scrap";

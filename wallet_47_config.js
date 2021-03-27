@@ -1,1 +1,1 @@
-var mnemonic = "wool job upon olive gossip load umbrella loud blush genius gaze olympic";
+var mnemonic = "goddess winner trigger obscure bread hub excite history sniff brick filter wisdom";

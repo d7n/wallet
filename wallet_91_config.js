@@ -1,1 +1,1 @@
-var mnemonic = "smoke chronic great shop divert park mimic deposit dose identify eager unit";
+var mnemonic = "swift child erupt milk envelope aspect speak rally ugly wine ginger switch";

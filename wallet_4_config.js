@@ -1,1 +1,1 @@
-var mnemonic = "uphold expose unaware mammal cram zebra matter shrimp topple until whisper floor";
+var mnemonic = "such saddle wreck voyage few science spray vague stable misery digital mixed";

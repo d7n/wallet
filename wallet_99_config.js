@@ -1,1 +1,1 @@
-var mnemonic = "hint scale mandate rubber curve sun fiction wish economy castle jacket canyon";
+var mnemonic = "basic affair trigger clever allow work tide skull pet unfair olive other";

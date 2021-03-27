@@ -1,1 +1,1 @@
-var mnemonic = "auction maximum disorder spider street napkin situate pact immense music fork gown";
+var mnemonic = "return wealth easy predict ketchup fold balcony dynamic hospital boil steel cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp borrow cannon fiscal chaos educate almost brief magic illness fresh general";
+var mnemonic = "hero gaze beyond empty punch minimum identify admit pudding roof trial ladder";

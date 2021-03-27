@@ -1,1 +1,1 @@
-var mnemonic = "tree purpose because language fold bronze certain attack cheese depend service slender";
+var mnemonic = "certain wise thought announce strike version can faith try sick planet mistake";

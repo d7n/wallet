@@ -1,1 +1,1 @@
-var mnemonic = "ceiling agree theory bulk hedgehog copper wolf skate pulp wise useful spoon";
+var mnemonic = "trade depth congress account banner physical vote blouse vacuum wood fee antenna";

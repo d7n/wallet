@@ -1,1 +1,1 @@
-var mnemonic = "hard resemble now cause occur dad impulse skin security clarify raccoon path";
+var mnemonic = "enough acoustic spice toddler shield someone second lecture fluid media grunt fix";

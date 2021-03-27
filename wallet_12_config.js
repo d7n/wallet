@@ -1,1 +1,1 @@
-var mnemonic = "check magnet private require remember kick service embody wagon crunch skill person";
+var mnemonic = "bind jar cheap liar elegant erode wife element food slender have mail";

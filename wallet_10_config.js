@@ -1,1 +1,1 @@
-var mnemonic = "resist vivid mistake jealous early decline glass annual pink fiction door adult";
+var mnemonic = "glimpse wasp doctor sheriff isolate mansion smart local midnight digital mandate tissue";

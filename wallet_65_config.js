@@ -1,1 +1,1 @@
-var mnemonic = "pill spoon volume write render normal because hub scheme addict buddy enroll";
+var mnemonic = "pilot lab genius post must found island lawn enable trend school rabbit";
