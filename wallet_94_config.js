@@ -1,1 +1,1 @@
-var mnemonic = "front version broken index favorite spike curious spawn cheese vicious invest fit";
+var mnemonic = "sad romance mind useless umbrella envelope egg assume spoil nephew pitch island";

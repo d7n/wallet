@@ -1,1 +1,1 @@
-var mnemonic = "night squirrel habit primary ordinary brother fox picnic echo magic album cause";
+var mnemonic = "hidden polar sphere later guide artist hazard bag grunt open electric annual";

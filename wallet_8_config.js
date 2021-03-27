@@ -1,1 +1,1 @@
-var mnemonic = "used similar zebra today system valley amused jar private account call arrest";
+var mnemonic = "poet source treat one absent dog merge pattern hunt journey route math";

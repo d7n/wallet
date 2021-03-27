@@ -1,1 +1,1 @@
-var mnemonic = "usual point task avoid guide indicate cheap coach mango increase position busy";
+var mnemonic = "fat another dutch clump only six art crisp couple provide since loan";

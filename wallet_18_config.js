@@ -1,1 +1,1 @@
-var mnemonic = "connect champion file still hip load crawl access rely century regret balcony";
+var mnemonic = "tank venture tooth entry icon report another pilot lawsuit solid stadium human";

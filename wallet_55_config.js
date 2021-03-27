@@ -1,1 +1,1 @@
-var mnemonic = "trumpet mesh eyebrow boat edge behave valid garbage color mention stairs airport";
+var mnemonic = "cover mistake below merit critic rug bleak alpha multiply forum today island";

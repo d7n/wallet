@@ -1,1 +1,1 @@
-var mnemonic = "nominee sudden ring benefit lyrics bundle warrior umbrella social spread strategy curious";
+var mnemonic = "derive help way sure ready unique remind setup churn true chat mind";

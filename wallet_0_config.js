@@ -1,1 +1,1 @@
-var mnemonic = "capital vibrant add front suspect clinic goddess fetch beach cream stuff danger";
+var mnemonic = "isolate glass code pledge food minute gift two exist have empower wink";

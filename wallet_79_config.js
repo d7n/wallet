@@ -1,1 +1,1 @@
-var mnemonic = "simple typical orange gospel enforce shrug dragon foot return daring zebra margin";
+var mnemonic = "alone unfold question stamp term napkin blanket mouse extend popular pitch stage";

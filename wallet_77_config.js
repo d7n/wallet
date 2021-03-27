@@ -1,1 +1,1 @@
-var mnemonic = "mean captain absorb mind scrap sibling process stay vault either chuckle nation";
+var mnemonic = "grit uniform myself obscure feel subway actress child subway endless mixed color";

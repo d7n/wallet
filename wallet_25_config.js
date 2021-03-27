@@ -1,1 +1,1 @@
-var mnemonic = "frost immense material toast hill energy body best rough breeze garage treat";
+var mnemonic = "attack wash talent certain donor flat rally problem neck cactus claw tool";

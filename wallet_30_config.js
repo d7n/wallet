@@ -1,1 +1,1 @@
-var mnemonic = "clutch lamp body later quantum little rigid host faith start uncle okay";
+var mnemonic = "child bicycle prison noble glove unfair bike hello depth tide focus coast";

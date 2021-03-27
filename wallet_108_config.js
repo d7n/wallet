@@ -1,1 +1,1 @@
-var mnemonic = "wage peace drastic hobby wheel cash spawn menu face cheese proof economy";
+var mnemonic = "gift float unusual fiscal distance hockey entire legend useful camp noble firm";

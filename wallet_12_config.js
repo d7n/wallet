@@ -1,1 +1,1 @@
-var mnemonic = "useless congress often giggle practice end depth noise genuine simple capable trade";
+var mnemonic = "define fever kid nice gesture digital start universe raven breeze old jaguar";

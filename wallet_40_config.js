@@ -1,1 +1,1 @@
-var mnemonic = "pride bundle rose image inquiry buddy speed print rabbit evolve kick shrug";
+var mnemonic = "credit goat obey siege maximum click toddler blood spare evil obey cram";

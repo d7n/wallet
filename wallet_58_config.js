@@ -1,1 +1,1 @@
-var mnemonic = "inherit athlete question museum stock coconut cute citizen palace clap mouse profit";
+var mnemonic = "scorpion shallow summer rib swallow catch win meadow prepare survey during educate";

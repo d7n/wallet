@@ -1,1 +1,1 @@
-var mnemonic = "plate student coach window census cherry whisper marine cabbage doctor believe wasp";
+var mnemonic = "length talk sustain half year isolate morning sense fall twelve buddy sail";

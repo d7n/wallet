@@ -1,1 +1,1 @@
-var mnemonic = "inside total theme motion sheriff wife deny taxi term swim bar private";
+var mnemonic = "alter rural captain rug certain elder random arrive burden next wagon crazy";

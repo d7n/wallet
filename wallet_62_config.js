@@ -1,1 +1,1 @@
-var mnemonic = "grunt nerve brick erosion claim soon bubble huge stereo quick example insane";
+var mnemonic = "actor romance draft tomato candy gun perfect nut man pistol typical catalog";

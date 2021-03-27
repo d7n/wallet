@@ -1,1 +1,1 @@
-var mnemonic = "small hello diary hedgehog enlist kitchen observe correct tray grow into link";
+var mnemonic = "exile tennis stereo mouse spirit female invite lend leaf hood process angry";

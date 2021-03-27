@@ -1,1 +1,1 @@
-var mnemonic = "multiply vocal battle letter cushion prepare load advice miss fruit wisdom despair";
+var mnemonic = "flock comic prefer quick either safe language express army fatigue clay siren";

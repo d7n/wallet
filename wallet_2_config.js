@@ -1,1 +1,1 @@
-var mnemonic = "person found outside nominee service scatter fetch where poem layer seat shrug";
+var mnemonic = "increase sick army seminar inquiry cancel raven iron sad trick human acid";

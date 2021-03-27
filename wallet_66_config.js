@@ -1,1 +1,1 @@
-var mnemonic = "scout garbage tip broom day barrel climb blouse annual imitate fold nest";
+var mnemonic = "gym apart unfair project firm unusual century carpet rely garment brave jacket";

@@ -1,1 +1,1 @@
-var mnemonic = "ask device blanket two pond inner piece pencil brown bread advance belt";
+var mnemonic = "cabbage few month speak between machine glide dial forest mobile trophy mad";

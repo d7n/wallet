@@ -1,1 +1,1 @@
-var mnemonic = "come spring hold argue anger turn tired uncover poverty lion spot skate";
+var mnemonic = "film salt coconut burger sight lens involve hybrid over video relax armor";

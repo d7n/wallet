@@ -1,1 +1,1 @@
-var mnemonic = "athlete panic way phrase warfare wrist extra merry proud broccoli vessel lab";
+var mnemonic = "very force capable space eyebrow soccer mixed rely hockey open nerve ability";

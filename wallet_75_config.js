@@ -1,1 +1,1 @@
-var mnemonic = "potato tell identify future forget clog fold between stem polar brick witness";
+var mnemonic = "diamond thought fragile actual shoot mule dice drive milk sadness sphere radar";

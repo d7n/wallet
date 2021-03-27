@@ -1,1 +1,1 @@
-var mnemonic = "cruel gauge shell figure try goat problem soap kit plate buffalo caution";
+var mnemonic = "wrap unlock cost unhappy coral hello under defense message soap chaos mistake";

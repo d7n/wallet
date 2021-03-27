@@ -1,1 +1,1 @@
-var mnemonic = "sing upgrade coil talk inspire giggle word cargo title carry retreat tattoo";
+var mnemonic = "flush mammal there hamster melody father memory mushroom cost child empty awful";

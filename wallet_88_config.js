@@ -1,1 +1,1 @@
-var mnemonic = "trap match hazard gold food law inmate october salad critic quantum pistol";
+var mnemonic = "process word bird diary fragile then onion rapid ready similar sick jaguar";

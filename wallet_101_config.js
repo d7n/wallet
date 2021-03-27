@@ -1,1 +1,1 @@
-var mnemonic = "begin latin liar boss potato column cabin sound load move luggage fog";
+var mnemonic = "unable stomach member giraffe gravity hard harsh friend become wreck segment avocado";

@@ -1,1 +1,1 @@
-var mnemonic = "ketchup genius soccer cannon heart welcome fiscal wrestle object general doctor visit";
+var mnemonic = "miss accuse metal wet square tiger mosquito street space eye grit veteran";

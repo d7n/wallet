@@ -1,1 +1,1 @@
-var mnemonic = "top rural shift course cattle forget ball mom public shield lumber example";
+var mnemonic = "close buddy extend yellow ask cloth glue scrub frequent sand approve bicycle";

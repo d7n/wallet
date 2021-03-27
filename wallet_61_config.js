@@ -1,1 +1,1 @@
-var mnemonic = "essence put thumb reflect artefact asset own finger toy wash seek physical";
+var mnemonic = "hurry excuse thought update deal soup supply follow wine behind chief praise";

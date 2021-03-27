@@ -1,1 +1,1 @@
-var mnemonic = "produce adjust fetch insect lizard wink ticket swim snake session enjoy future";
+var mnemonic = "trip expect equip afraid hotel reject dwarf despair anxiety connect wet marriage";

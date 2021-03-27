@@ -1,1 +1,1 @@
-var mnemonic = "crunch afraid nurse zone kind tip combine oak myself glide fork rubber";
+var mnemonic = "wink image balance second miss uncle egg bounce verify hurt bracket mushroom";

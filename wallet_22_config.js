@@ -1,1 +1,1 @@
-var mnemonic = "alcohol chapter sort drift lunar enrich lesson coral sign salute chief predict";
+var mnemonic = "episode recipe skirt solve subject child pact angry denial symbol iron gloom";

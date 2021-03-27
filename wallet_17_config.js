@@ -1,1 +1,1 @@
-var mnemonic = "liberty indoor rule film snack destroy return burger guide toy float village";
+var mnemonic = "method unusual custom cricket able notable poet flower prize define rice insect";

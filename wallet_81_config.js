@@ -1,1 +1,1 @@
-var mnemonic = "lizard teach super attract lyrics wheel style announce aspect visual cause pilot";
+var mnemonic = "jeans address gauge virtual soul inform thing aisle foil potato explain nature";

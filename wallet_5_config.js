@@ -1,1 +1,1 @@
-var mnemonic = "soup price wisdom identify frown cliff detail pair stock injury easily congress";
+var mnemonic = "luggage upset frost neck road dolphin ginger fit coral floor traffic airport";

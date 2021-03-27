@@ -1,1 +1,1 @@
-var mnemonic = "detect meat monkey alien machine extend enrich secret inch clip bus fury";
+var mnemonic = "head castle pave story process drum normal board type fee crazy gym";

@@ -1,1 +1,1 @@
-var mnemonic = "opera volcano sting where chaos term innocent knee expand side hint focus";
+var mnemonic = "gain scrub owner raven album adapt toss embody train diesel bring tonight";

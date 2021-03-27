@@ -1,1 +1,1 @@
-var mnemonic = "oblige uniform interest please pond hungry spatial address explain dragon busy caution";
+var mnemonic = "pass iron cube frown salute wheat wrong scan galaxy injury option civil";

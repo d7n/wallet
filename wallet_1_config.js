@@ -1,1 +1,1 @@
-var mnemonic = "sponsor into wet peasant umbrella hawk attend human blind exhibit soda neck";
+var mnemonic = "impact put trap behave cabbage jacket vocal grocery pudding immense clip impulse";

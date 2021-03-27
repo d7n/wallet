@@ -1,1 +1,1 @@
-var mnemonic = "sister embrace quiz salon exhaust disagree diet public trouble dirt girl illegal";
+var mnemonic = "follow antique throw hero learn much differ oyster strategy exhaust elevator shield";

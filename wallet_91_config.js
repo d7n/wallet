@@ -1,1 +1,1 @@
-var mnemonic = "decrease shoulder foot label short field grant sustain unique spawn nominee clip";
+var mnemonic = "cube armed much eye burden tissue diagram olympic call blur weather approve";

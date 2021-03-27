@@ -1,1 +1,1 @@
-var mnemonic = "confirm medal devote lecture alarm uniform guilt hair female devote goose tribe";
+var mnemonic = "lonely someone vital until away loud trade replace kite walnut famous palace";

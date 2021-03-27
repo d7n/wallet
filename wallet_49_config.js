@@ -1,1 +1,1 @@
-var mnemonic = "mule slam twin ability myth dawn run core spin hospital draft custom";
+var mnemonic = "nothing provide ski burden state swallow front entire slim capable flash open";

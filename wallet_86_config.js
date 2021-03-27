@@ -1,1 +1,1 @@
-var mnemonic = "couple actress advance shoe tone call loop enlist toss kingdom simple dream";
+var mnemonic = "exhibit nothing afraid energy tube tenant bachelor arrange logic view book goddess";

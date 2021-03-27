@@ -1,1 +1,1 @@
-var mnemonic = "boring moral bomb unique parade dwarf ride crisp salute opera expect basket";
+var mnemonic = "art charge person across buddy defense powder share family sauce captain island";

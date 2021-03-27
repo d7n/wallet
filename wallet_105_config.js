@@ -1,1 +1,1 @@
-var mnemonic = "fine easily alarm divorce defense swallow veteran sun aim cover special hello";
+var mnemonic = "clever resist click artwork face luxury item property school plunge sort frost";

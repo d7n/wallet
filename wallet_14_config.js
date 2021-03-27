@@ -1,1 +1,1 @@
-var mnemonic = "tourist hammer matrix food oval squirrel zone craft very record kid mind";
+var mnemonic = "photo flush range enter rib order chicken fiber save scrap glare cushion";

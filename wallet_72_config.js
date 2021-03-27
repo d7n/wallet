@@ -1,1 +1,1 @@
-var mnemonic = "wisdom moral theory embody film earth hammer point slush fish step pond";
+var mnemonic = "able explain despair manual same evidence paddle sugar skin occur three parade";

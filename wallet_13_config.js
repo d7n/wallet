@@ -1,1 +1,1 @@
-var mnemonic = "naive rally lecture affair glance shuffle genuine follow kick between melt pretty";
+var mnemonic = "shuffle spike flavor tackle cherry science shield myth exit wise kick anxiety";

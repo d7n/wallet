@@ -1,1 +1,1 @@
-var mnemonic = "design novel mother enter radar mushroom what brush badge huge love warfare";
+var mnemonic = "plug arena cheap endless attitude mom crunch achieve churn inform bonus vehicle";

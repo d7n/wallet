@@ -1,1 +1,1 @@
-var mnemonic = "typical above poem bring wheat beyond crowd alley produce unfair field turkey";
+var mnemonic = "demise crush exercise virus message crumble soul total lazy argue girl giant";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture blade fix critic say festival mule exotic cram spare domain ugly";
+var mnemonic = "list walk easily middle piece taste again kitten spread truck cushion convince";

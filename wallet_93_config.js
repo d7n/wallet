@@ -1,1 +1,1 @@
-var mnemonic = "myth solve bread top already smile certain absent amused goat cheese habit";
+var mnemonic = "that fence rebuild shield fiber hub stand elite urban insane cricket option";

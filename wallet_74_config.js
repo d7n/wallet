@@ -1,1 +1,1 @@
-var mnemonic = "sibling forward teach firm left around similar across catalog connect embark rubber";
+var mnemonic = "remind over figure notable midnight puzzle impact carbon truth gauge cover labor";

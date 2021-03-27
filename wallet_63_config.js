@@ -1,1 +1,1 @@
-var mnemonic = "nasty cruel hundred cupboard bullet pet blossom flame opinion slam bullet lesson";
+var mnemonic = "spell text initial shove lady net dinosaur soda blush liar rotate tongue";

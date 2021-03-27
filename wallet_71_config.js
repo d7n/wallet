@@ -1,1 +1,1 @@
-var mnemonic = "express thing wet casual start theme raven salon prefer rally dwarf daring";
+var mnemonic = "cute hollow sunset worth crisp bubble pony walnut rescue creek gift penalty";

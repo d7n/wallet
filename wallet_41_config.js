@@ -1,1 +1,1 @@
-var mnemonic = "tilt hurt client blind mixed peanut recipe impulse hair gift cabbage debris";
+var mnemonic = "desert belt syrup civil juice cram zoo dirt food salt kind captain";

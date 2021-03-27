@@ -1,1 +1,1 @@
-var mnemonic = "border west canvas until immune liquid vanish meat canvas pair resist erupt";
+var mnemonic = "hedgehog return usual child copy raven quantum clinic clown never indoor school";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery asthma explain exclude harbor item common swear toss curve expire super";
+var mnemonic = "member eye devote alien addict lock faculty liquid sunset galaxy outside ride";

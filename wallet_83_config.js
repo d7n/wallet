@@ -1,1 +1,1 @@
-var mnemonic = "surface film hotel minute lonely kitten front fancy hen pole tomorrow cupboard";
+var mnemonic = "spice combine meat blush scene asthma romance cliff response easily ketchup sock";

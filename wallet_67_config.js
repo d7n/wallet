@@ -1,1 +1,1 @@
-var mnemonic = "amateur shrimp ancient correct ethics wave ceiling feed soup youth swap olympic";
+var mnemonic = "news crystal identify clip lounge shadow earth brisk stone grant kangaroo calm";

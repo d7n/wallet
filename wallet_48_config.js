@@ -1,1 +1,1 @@
-var mnemonic = "eternal tenant honey arm little peanut loan drip picnic floor lend alter";
+var mnemonic = "safe pretty region disagree odor number lift worth tiny royal lounge flag";

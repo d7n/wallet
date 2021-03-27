@@ -1,1 +1,1 @@
-var mnemonic = "profit insane earth error visual mosquito again praise ranch sleep earth present";
+var mnemonic = "field hen subway pole ball car caution notable gallery orient give only";

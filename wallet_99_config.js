@@ -1,1 +1,1 @@
-var mnemonic = "seminar deposit hobby mutual join rebuild rice dance magnet blast genuine stand";
+var mnemonic = "churn plunge scale lawsuit inherit orphan parade moment tobacco bitter survey cherry";

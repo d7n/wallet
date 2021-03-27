@@ -1,1 +1,1 @@
-var mnemonic = "illegal negative check velvet supreme gadget surprise appear month repeat clinic wisdom";
+var mnemonic = "imitate aunt crop height scorpion warrior vocal bamboo resist draw this cousin";

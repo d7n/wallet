@@ -1,1 +1,1 @@
-var mnemonic = "great visa spider pizza eternal bulb behind august wreck chat shadow nation";
+var mnemonic = "scan labor movie perfect side twin diary shadow embark breeze uphold page";

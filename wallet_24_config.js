@@ -1,1 +1,1 @@
-var mnemonic = "thumb hollow atom swap blanket stove tribe traffic little valid raven nature";
+var mnemonic = "logic culture foot spike hawk enforce rough embody hire obtain try mail";

@@ -1,1 +1,1 @@
-var mnemonic = "expand trim depart fame social add circle key behind voice change bind";
+var mnemonic = "record wheel liar fancy inside logic provide gaze reflect width almost tone";

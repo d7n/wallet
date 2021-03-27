@@ -1,1 +1,1 @@
-var mnemonic = "frame bamboo good web sense post describe grace village fine steel trial";
+var mnemonic = "riot trust snack believe nerve accuse peace brother adjust indoor aspect happy";

@@ -1,1 +1,1 @@
-var mnemonic = "team sight kiwi behind chat vendor report execute rabbit profit kiwi flock";
+var mnemonic = "early desk fashion height claim essay pride vote raise nephew task perfect";

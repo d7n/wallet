@@ -1,1 +1,1 @@
-var mnemonic = "seven outer dust radio raven series admit page seat winner bamboo evolve";
+var mnemonic = "gap around expect bottom machine point fix toe hammer rural category laugh";

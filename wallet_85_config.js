@@ -1,1 +1,1 @@
-var mnemonic = "argue worth uphold analyst control engage near mandate mixture latin frost hurdle";
+var mnemonic = "sell wire destroy pig point private swap foil predict repair supply liberty";

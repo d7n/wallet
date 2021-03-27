@@ -1,1 +1,1 @@
-var mnemonic = "oxygen palace item guess shy lecture glove depart shoe pave rally excite";
+var mnemonic = "begin talent monkey smooth hand unusual toddler absurd ribbon tube portion home";

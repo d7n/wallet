@@ -1,1 +1,1 @@
-var mnemonic = "rather virtual dial hurdle venture perfect wood sad ten toast high clerk";
+var mnemonic = "rifle hawk prevent bird one during napkin name van flip goddess tackle";

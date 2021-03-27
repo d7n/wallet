@@ -1,1 +1,1 @@
-var mnemonic = "since private suit arrange seat trick lab treat train churn essay burden";
+var mnemonic = "improve swarm mixed art knife human spirit next exercise regret mimic vault";

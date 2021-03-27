@@ -1,1 +1,1 @@
-var mnemonic = "quick slab video banner abandon pet ecology desert certain betray clap flat";
+var mnemonic = "dry must peace brisk menu heavy play artefact pizza climb light craft";

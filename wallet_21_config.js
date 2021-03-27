@@ -1,1 +1,1 @@
-var mnemonic = "injury become cargo retire diesel calm nature reveal balcony suggest lab ridge";
+var mnemonic = "lobster chalk funny wool still bid street nominee evolve govern jeans arrow";

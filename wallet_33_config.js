@@ -1,1 +1,1 @@
-var mnemonic = "tired blur immense insect sing exact foot museum aim puppy cattle age";
+var mnemonic = "strategy slide city please cancel visit cube analyst solar collect all street";

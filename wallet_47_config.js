@@ -1,1 +1,1 @@
-var mnemonic = "spirit medal puppy room tower jazz suffer daughter sister leave immune bind";
+var mnemonic = "easily eagle matter undo weird flee flower expand scout earn metal girl";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin cluster soldier pass pig praise venue common plastic movie daughter rib";
+var mnemonic = "toss unit flame decade three sail brother chase silent baby blush give";

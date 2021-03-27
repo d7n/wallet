@@ -1,1 +1,1 @@
-var mnemonic = "humor burst muscle lady stove bundle august danger strike excite puppy obscure";
+var mnemonic = "love deposit nuclear negative clump winter differ radio caution arctic reveal book";

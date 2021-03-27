@@ -1,1 +1,1 @@
-var mnemonic = "neither major assist neglect shine mercy collect illegal foam matrix weird beyond";
+var mnemonic = "below dash beauty coral logic risk faith lion celery helmet tool arch";

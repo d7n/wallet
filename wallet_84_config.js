@@ -1,1 +1,1 @@
-var mnemonic = "return honey tuna hand crop motion middle shift sadness final private lab";
+var mnemonic = "other buyer slim scheme vehicle level provide violin core auto victory clay";
