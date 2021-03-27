@@ -1,1 +1,1 @@
-var mnemonic = "now state crazy brown mistake eagle melody home mushroom wife egg write";
+var mnemonic = "mosquito farm view burst govern element brass trash opera wash level filter";

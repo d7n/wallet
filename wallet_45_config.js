@@ -1,1 +1,1 @@
-var mnemonic = "ocean thank stumble give jungle develop donor flee voyage opinion tent sight";
+var mnemonic = "reunion denial fire fix correct minute cage forest gesture among tag pig";

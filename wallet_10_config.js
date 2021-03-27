@@ -1,1 +1,1 @@
-var mnemonic = "avocado wrist measure family merry expire believe vault street swing ceiling dutch";
+var mnemonic = "sign drum juice opinion require kick sketch cluster chat purchase laptop ill";

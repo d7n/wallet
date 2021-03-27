@@ -1,1 +1,1 @@
-var mnemonic = "ramp focus eager slam cloth catch permit damp age slender bus minor";
+var mnemonic = "spike base legal option thumb define broom pen secret main park cube";

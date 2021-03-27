@@ -1,1 +1,1 @@
-var mnemonic = "novel arena such gospel oppose reason sing fantasy basket actress tobacco there";
+var mnemonic = "quantum cube virus piece subject release member mammal layer hello latin admit";

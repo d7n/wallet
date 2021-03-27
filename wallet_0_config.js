@@ -1,1 +1,1 @@
-var mnemonic = "version quality foster chief shiver thrive mesh shaft visit distance potato message";
+var mnemonic = "system baby ribbon gate photo goose bar essence resemble forward bottom athlete";

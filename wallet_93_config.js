@@ -1,1 +1,1 @@
-var mnemonic = "chuckle whip nominee provide ivory page hazard top gown stool erosion uncle";
+var mnemonic = "canvas resource cause muffin nuclear exercise want permit voice wrestle alarm dove";

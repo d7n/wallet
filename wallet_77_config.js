@@ -1,1 +1,1 @@
-var mnemonic = "pool hill daring aware convince cave increase march cause pride inherit behave";
+var mnemonic = "aim skirt hedgehog cream manage display wasp spray mango business frame change";

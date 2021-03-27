@@ -1,1 +1,1 @@
-var mnemonic = "delay critic diamond true sort job rhythm tunnel ball talent valve melt";
+var mnemonic = "deal jealous fortune upgrade input float fat session hint evil poverty fence";

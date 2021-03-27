@@ -1,1 +1,1 @@
-var mnemonic = "oak catch corn cruise fun submit mail anxiety lock junk half happy";
+var mnemonic = "parrot guide vault summer move often debris decrease fish pioneer brief doctor";

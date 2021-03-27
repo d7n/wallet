@@ -1,1 +1,1 @@
-var mnemonic = "easy blouse only window sleep rapid nerve wrestle manage suit host noise";
+var mnemonic = "banana bunker exact across fitness awkward treat pupil critic review sing fiscal";

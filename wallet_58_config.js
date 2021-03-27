@@ -1,1 +1,1 @@
-var mnemonic = "orchard relief reveal appear chase labor frozen slim stairs mechanic such finger";
+var mnemonic = "impact axis rose left gravity silver monitor insane skill arrive now awkward";

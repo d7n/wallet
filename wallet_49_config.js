@@ -1,1 +1,1 @@
-var mnemonic = "trash vicious pioneer farm economy dog maid elevator electric chicken oval account";
+var mnemonic = "twin point luxury screen language theme senior setup smart slow physical wine";

@@ -1,1 +1,1 @@
-var mnemonic = "pause draw chief pet silk vast punch horse twice raise collect merge";
+var mnemonic = "chaos butter anxiety magnet forget clap frame paper forget appear since miracle";

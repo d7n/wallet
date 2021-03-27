@@ -1,1 +1,1 @@
-var mnemonic = "indoor laundry provide social sell ostrich peanut sorry goddess nature patrol that";
+var mnemonic = "annual surface clog effort salmon trial twice three finish tower blur cloud";

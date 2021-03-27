@@ -1,1 +1,1 @@
-var mnemonic = "mention lemon bullet shy void addict aunt example toss decline head actor";
+var mnemonic = "entry material crack recycle into tired coconut point album say candy soap";

@@ -1,1 +1,1 @@
-var mnemonic = "staff april apart example away urban cry allow book soft chat cabbage";
+var mnemonic = "try cloud adjust stable gadget play similar forget actress wire tank spend";

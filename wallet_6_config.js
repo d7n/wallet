@@ -1,1 +1,1 @@
-var mnemonic = "verb slide quality enhance eye stuff long nest glory essay oyster father";
+var mnemonic = "wrap tornado trade october jar panda load organ cattle pool abandon average";

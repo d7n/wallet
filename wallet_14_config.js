@@ -1,1 +1,1 @@
-var mnemonic = "expose cool neglect man loyal portion lyrics cancel napkin machine accident twin";
+var mnemonic = "maximum hollow genuine rural key lizard elbow drop prevent just captain lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "cash super portion message mind chest trash sport bag access hand machine";
+var mnemonic = "tilt sketch estate tunnel gap seven spirit absent park ankle amused nature";

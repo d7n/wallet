@@ -1,1 +1,1 @@
-var mnemonic = "excite brother empty wine trim negative income grab shrimp position tag usage";
+var mnemonic = "prefer dwarf slight proud enhance arctic crater have cram know cricket left";

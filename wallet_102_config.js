@@ -1,1 +1,1 @@
-var mnemonic = "shop model unhappy label left duck wing drop invest traffic empty emotion";
+var mnemonic = "real swamp barely lab border thought oak book census laugh merry road";

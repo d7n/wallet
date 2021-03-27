@@ -1,1 +1,1 @@
-var mnemonic = "sibling crouch upper mercy scale win kangaroo combine local pact because goat";
+var mnemonic = "infant shy detect hammer unique ridge act lemon wish cat flee island";

@@ -1,1 +1,1 @@
-var mnemonic = "seminar end erase bean grid umbrella song twist exclude distance trigger brain";
+var mnemonic = "entry sponsor hour leopard wild gentle tragic marine student grant brass plate";

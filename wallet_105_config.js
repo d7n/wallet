@@ -1,1 +1,1 @@
-var mnemonic = "portion shiver awkward you heart physical target impact animal portion ice harsh";
+var mnemonic = "annual secret marble ugly eight ill hub powder distance basket vocal crack";

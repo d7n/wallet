@@ -1,1 +1,1 @@
-var mnemonic = "runway time always army guide divert basic shed capital speak fork eight";
+var mnemonic = "general turn genuine document arena scatter stomach innocent flat home pride settle";

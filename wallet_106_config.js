@@ -1,1 +1,1 @@
-var mnemonic = "hint identify foot excuse kingdom citizen weekend syrup fall crumble barrel wing";
+var mnemonic = "junk joke lend flip pet enlist spy theme stamp pen tip kitchen";

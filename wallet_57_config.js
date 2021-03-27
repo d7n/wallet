@@ -1,1 +1,1 @@
-var mnemonic = "odor witness skull kite say sun nation fly actress shell foam song";
+var mnemonic = "father fog blood side trash license loyal prepare area motion melt leisure";

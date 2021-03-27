@@ -1,1 +1,1 @@
-var mnemonic = "dune require unable fresh shoulder reason dial produce buyer dish foil accuse";
+var mnemonic = "rocket climb snap twenty afraid morning between joy behind mutual express impose";

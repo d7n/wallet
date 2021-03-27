@@ -1,1 +1,1 @@
-var mnemonic = "exile praise rifle boring moral swear horror stove scene minute notable rhythm";
+var mnemonic = "employ bridge sword smile cook trip mango safe awful tray myth unit";

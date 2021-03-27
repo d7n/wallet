@@ -1,1 +1,1 @@
-var mnemonic = "moral quarter glide grow buzz spoon supreme apart feel crawl make vacuum";
+var mnemonic = "envelope fame initial speak speak erosion cherry any motion chuckle rigid then";

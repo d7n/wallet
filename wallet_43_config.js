@@ -1,1 +1,1 @@
-var mnemonic = "curtain ability earth lunar purse off frozen kite trumpet crew argue bar";
+var mnemonic = "huge kangaroo fault tower park seek loud purpose unit crime child evoke";

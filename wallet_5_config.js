@@ -1,1 +1,1 @@
-var mnemonic = "material color help before valve grid derive hollow train hospital town hockey";
+var mnemonic = "plunge total stumble achieve angry situate frequent dog opera marble night position";

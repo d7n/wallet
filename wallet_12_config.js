@@ -1,1 +1,1 @@
-var mnemonic = "wall frozen update cake cost alley address clean find reward year toast";
+var mnemonic = "nature grief obtain solid orbit dinner trap nerve gown defy visa twin";

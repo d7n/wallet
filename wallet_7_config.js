@@ -1,1 +1,1 @@
-var mnemonic = "observe pear diagram jacket impose glow gas brief only craft method siege";
+var mnemonic = "current charge tourist fruit foam scare immune cart endorse image credit pond";

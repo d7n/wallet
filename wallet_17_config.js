@@ -1,1 +1,1 @@
-var mnemonic = "dentist region prepare option cheese winner analyst winner suit horror detail element";
+var mnemonic = "myth render cricket belt truth sorry mercy pulp few wear nothing orient";

@@ -1,1 +1,1 @@
-var mnemonic = "siege local trust tribe text garbage fitness knock actress great knock drive";
+var mnemonic = "destroy garment awake drastic tube imitate deliver motor lunch run language brief";

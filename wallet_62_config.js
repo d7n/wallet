@@ -1,1 +1,1 @@
-var mnemonic = "negative again auto doctor layer foam other erode color brand loud roast";
+var mnemonic = "bulk deposit equal depart canyon topple correct off toy wasp rebel power";

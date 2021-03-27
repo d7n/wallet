@@ -1,1 +1,1 @@
-var mnemonic = "over casino improve hurt year scatter collect bag loop employ tape ghost";
+var mnemonic = "cash lunar bike guess cupboard arctic seven indicate long achieve favorite walk";

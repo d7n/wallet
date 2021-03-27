@@ -1,1 +1,1 @@
-var mnemonic = "case gold tattoo else ahead dismiss south merit brick eyebrow desert extend";
+var mnemonic = "shock fever hen reunion melody mass hard buyer doctor humble bunker peanut";

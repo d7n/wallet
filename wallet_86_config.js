@@ -1,1 +1,1 @@
-var mnemonic = "sugar cushion word pill thumb tunnel actor lens clown gaze hockey purpose";
+var mnemonic = "journey click worth sea long enrich glass small love section crane year";

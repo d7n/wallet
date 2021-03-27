@@ -1,1 +1,1 @@
-var mnemonic = "lab glass forest story armor arm salmon retreat fever similar choice usage";
+var mnemonic = "begin napkin armed owner pencil mandate lecture nerve purpose jacket effort motion";

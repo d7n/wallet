@@ -1,1 +1,1 @@
-var mnemonic = "crime decrease quantum famous palm mansion address essence good recipe clean hurry";
+var mnemonic = "kind oblige embark immense install hotel near verb wrestle portion start old";

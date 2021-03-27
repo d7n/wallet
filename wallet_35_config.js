@@ -1,1 +1,1 @@
-var mnemonic = "spray subject enter dish step display coach wise better author prison equal";
+var mnemonic = "useless retire gift secret paddle sister tortoise reunion uphold great gift panda";

@@ -1,1 +1,1 @@
-var mnemonic = "bone tell whip either olive version holiday weasel gold fiscal name gorilla";
+var mnemonic = "load obtain patrol wish daring scrub weasel obtain vacuum fly segment aware";

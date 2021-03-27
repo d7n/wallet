@@ -1,1 +1,1 @@
-var mnemonic = "fly dutch differ twist forward chase labor banana between throw chief amount";
+var mnemonic = "forward actor armor crawl vintage diet aim embody pepper spare maze shell";

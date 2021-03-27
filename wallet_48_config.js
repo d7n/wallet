@@ -1,1 +1,1 @@
-var mnemonic = "cross nothing zebra funny lift network above over worth like across danger";
+var mnemonic = "civil addict swim spirit runway wine seven reform torch work label orient";

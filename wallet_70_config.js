@@ -1,1 +1,1 @@
-var mnemonic = "nice hurt check trigger pipe wing hedgehog panel obtain rail flee cat";
+var mnemonic = "luggage slide shrimp glass copy transfer icon secret okay width high furnace";

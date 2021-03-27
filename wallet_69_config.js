@@ -1,1 +1,1 @@
-var mnemonic = "ball cactus size pelican time school van beef try ocean end staff";
+var mnemonic = "dynamic pave napkin clarify spoil water olive pelican injury canvas panda spider";

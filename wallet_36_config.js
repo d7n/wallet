@@ -1,1 +1,1 @@
-var mnemonic = "pave tattoo remove trap print excuse sting crunch cushion aisle main divorce";
+var mnemonic = "donate anger deal chunk debris possible cattle remind dragon upset heavy virus";

@@ -1,1 +1,1 @@
-var mnemonic = "beef decrease soup stadium stem affair spot dentist invest school shy chest";
+var mnemonic = "dish shrug tortoise torch spider drip flag olympic slow essence social much";

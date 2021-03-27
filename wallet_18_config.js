@@ -1,1 +1,1 @@
-var mnemonic = "gossip hurry balcony guess ocean element galaxy pond smart average chase already";
+var mnemonic = "hybrid symbol mercy dust symbol lonely two road dress girl oval diary";

@@ -1,1 +1,1 @@
-var mnemonic = "cake horror because that leaf alarm stamp flat item march draft aspect";
+var mnemonic = "curious box ginger elbow network analyst gallery spoon twin parade surface popular";

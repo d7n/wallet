@@ -1,1 +1,1 @@
-var mnemonic = "error zoo reunion wire snake excess title intact panel mask ecology flame";
+var mnemonic = "trick armor fame liquid test vote bundle relief involve truly swap napkin";

@@ -1,1 +1,1 @@
-var mnemonic = "garden fantasy deer fury purpose grant large grant east endless luxury raven";
+var mnemonic = "action entry zebra seat power viable leave mule air spatial any plastic";

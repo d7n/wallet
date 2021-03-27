@@ -1,1 +1,1 @@
-var mnemonic = "medal wood plug neck hen series invite also survey coconut cradle boil";
+var mnemonic = "feed mixture length hollow noise vast ivory later twenty often agent sword";

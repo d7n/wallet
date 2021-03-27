@@ -1,1 +1,1 @@
-var mnemonic = "sport load fitness affair hour rural pipe loyal identify adult century fabric";
+var mnemonic = "excite own curtain mutual fee devote cloud razor design neglect toss lyrics";

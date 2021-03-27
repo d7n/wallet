@@ -1,1 +1,1 @@
-var mnemonic = "around gap silver intact film online blame shallow library mouse predict three";
+var mnemonic = "shrug charge cage retire spread enjoy alter weird guide curve spice surface";

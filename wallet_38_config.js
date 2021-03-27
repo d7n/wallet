@@ -1,1 +1,1 @@
-var mnemonic = "hunt desert thought consider easy provide sight clock outer broom lift fury";
+var mnemonic = "omit artefact enjoy wolf future aerobic stairs ahead click foil soda turn";

@@ -1,1 +1,1 @@
-var mnemonic = "book pipe hobby before february chaos mimic under grant beef issue horse";
+var mnemonic = "alcohol bid key delay symbol remain drink sustain night clutch donor cave";

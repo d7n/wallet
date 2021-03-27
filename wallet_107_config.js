@@ -1,1 +1,1 @@
-var mnemonic = "pause always equip orchard sibling cruise roast expand solution muffin blind hello";
+var mnemonic = "pole drip cherry trust step firm math peanut state permit degree transfer";

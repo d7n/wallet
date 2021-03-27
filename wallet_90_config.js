@@ -1,1 +1,1 @@
-var mnemonic = "tag patient scout burst cycle put awful country pottery light critic acquire";
+var mnemonic = "boring harbor balcony oval avoid begin hidden taste fortune endless width olive";

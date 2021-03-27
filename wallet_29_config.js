@@ -1,1 +1,1 @@
-var mnemonic = "useless evoke onion joy puzzle hair business vast skirt fire arrow wealth";
+var mnemonic = "unit medal mixed ocean wall must burst alley december earn captain pool";

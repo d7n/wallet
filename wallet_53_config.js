@@ -1,1 +1,1 @@
-var mnemonic = "engine capital produce bag half bomb pond planet chimney muscle public just";
+var mnemonic = "half beef fortune action enjoy humor prepare output doctor avoid elbow holiday";

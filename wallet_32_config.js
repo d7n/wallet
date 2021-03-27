@@ -1,1 +1,1 @@
-var mnemonic = "receive inquiry army blouse crew toe useful problem where possible panda witness";
+var mnemonic = "come roof unaware twin network alone bacon scorpion eight punch caution link";

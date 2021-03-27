@@ -1,1 +1,1 @@
-var mnemonic = "future develop member hold allow trophy hand upset purse museum lunar tenant";
+var mnemonic = "wreck consider explain random disorder wrist fat fan report drift assault pole";

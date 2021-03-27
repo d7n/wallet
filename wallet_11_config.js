@@ -1,1 +1,1 @@
-var mnemonic = "mother man super truck lamp trial test unaware extra angry drip gadget";
+var mnemonic = "census legal enough gain rice trouble wedding warrior genre search zone believe";

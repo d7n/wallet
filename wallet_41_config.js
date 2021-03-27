@@ -1,1 +1,1 @@
-var mnemonic = "clean indoor like slush motion camp urge acquire afraid empty violin post";
+var mnemonic = "jealous taxi tomato sauce cloth common vanish border small border enough spawn";

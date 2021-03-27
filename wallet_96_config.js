@@ -1,1 +1,1 @@
-var mnemonic = "cherry people decline february achieve gasp embark blanket demand effort lunch manual";
+var mnemonic = "plug ivory sight that basic fresh deliver mirror strategy spy blush dad";

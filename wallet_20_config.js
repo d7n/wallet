@@ -1,1 +1,1 @@
-var mnemonic = "report kind interest lens danger immense paper someone enrich boring violin leisure";
+var mnemonic = "clever cover plastic mango ball also face grain viable despair jazz police";

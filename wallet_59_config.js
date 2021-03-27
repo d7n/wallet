@@ -1,1 +1,1 @@
-var mnemonic = "catch cereal measure million adjust judge walk blur garden seminar scrub wire";
+var mnemonic = "exotic thing olympic bronze hold wealth fortune mercy keen lesson absent blouse";

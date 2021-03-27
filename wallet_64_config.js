@@ -1,1 +1,1 @@
-var mnemonic = "smoke excuse illegal jelly crawl trap okay mix pig glad glove main";
+var mnemonic = "agent rain globe prize demand kiss salt flush immune nerve cook snake";

@@ -1,1 +1,1 @@
-var mnemonic = "biology century endless mule drill slice tree inquiry idle talk rebel bring";
+var mnemonic = "zoo pill brief swamp birth edge busy change upon describe odor enforce";

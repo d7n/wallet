@@ -1,1 +1,1 @@
-var mnemonic = "gap swallow twin thumb plate about fan digital choice guitar taxi reason";
+var mnemonic = "spike element crush sea text swear few buyer ramp burger replace domain";

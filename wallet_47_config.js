@@ -1,1 +1,1 @@
-var mnemonic = "own argue useless tent crunch gesture clerk cruise hamster dentist belt puppy";
+var mnemonic = "soldier include excess ginger axis silent elegant shiver phrase program search toe";

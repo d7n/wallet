@@ -1,1 +1,1 @@
-var mnemonic = "winner depend later spirit fresh kiwi off reunion mystery street ancient praise";
+var mnemonic = "pool require narrow section tortoise another mouse library pulp furnace scrub pen";

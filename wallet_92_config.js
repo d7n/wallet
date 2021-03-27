@@ -1,1 +1,1 @@
-var mnemonic = "wet stable reward impose region wear tenant essay explain suspect deputy galaxy";
+var mnemonic = "flavor frequent patrol pill achieve ancient oak parade nest depend employ diesel";

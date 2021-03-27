@@ -1,1 +1,1 @@
-var mnemonic = "network holiday couch skin gas soccer jacket sketch smoke day tattoo tonight";
+var mnemonic = "behind robot physical hurry flower spirit cool ceiling party trip board must";

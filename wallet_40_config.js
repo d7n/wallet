@@ -1,1 +1,1 @@
-var mnemonic = "voyage twelve neck awake soda update example deal exercise weapon noodle hybrid";
+var mnemonic = "work certain boat benefit shell chase guitar horn hungry fancy swamp special";

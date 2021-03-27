@@ -1,1 +1,1 @@
-var mnemonic = "soup glow wine ribbon knife mouse acoustic age dizzy media evolve cousin";
+var mnemonic = "clay captain exchange sadness crawl jar body fragile vibrant vanish caution alcohol";

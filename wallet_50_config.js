@@ -1,1 +1,1 @@
-var mnemonic = "elite rely awake guitar pear master infant tomorrow develop romance enrich hand";
+var mnemonic = "permit sing garbage client oval special buyer bean limit economy giant common";

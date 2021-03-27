@@ -1,1 +1,1 @@
-var mnemonic = "month gym mention desk situate equal never execute empower symptom tortoise tomorrow";
+var mnemonic = "add scissors toss large pact horse just vault admit more snake dove";

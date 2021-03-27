@@ -1,1 +1,1 @@
-var mnemonic = "burger teach stomach rely rookie tissue wire media answer embrace help shrug";
+var mnemonic = "truth midnight better brand october vivid wreck glue sad fiber foot divert";

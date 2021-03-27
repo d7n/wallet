@@ -1,1 +1,1 @@
-var mnemonic = "symptom six swim donate father miss model style uphold horse garbage swamp";
+var mnemonic = "say match federal outside sail neutral daring noble deer person jaguar apple";

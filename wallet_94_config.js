@@ -1,1 +1,1 @@
-var mnemonic = "educate tell there party tooth system thing practice mad distance sudden topic";
+var mnemonic = "dumb oxygen upper office unhappy ankle pole unaware invest depart wide soul";

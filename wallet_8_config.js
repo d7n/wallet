@@ -1,1 +1,1 @@
-var mnemonic = "harvest that eternal lemon cube vocal bamboo path era barrel umbrella swim";
+var mnemonic = "absent wide hurt during school conduct benefit toilet lottery net method whip";

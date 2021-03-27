@@ -1,1 +1,1 @@
-var mnemonic = "rotate banana skull regret coyote tunnel expand always bless ankle cigar reform";
+var mnemonic = "toddler now true shove lucky stick just flash stick vital token feature";

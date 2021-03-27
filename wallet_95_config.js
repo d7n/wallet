@@ -1,1 +1,1 @@
-var mnemonic = "ability hard firm wasp goddess divorce enact rotate eager latin body quote";
+var mnemonic = "grid current rival stumble behind promote kiss hello balance page hero embark";

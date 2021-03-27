@@ -1,1 +1,1 @@
-var mnemonic = "guard wash exhibit indoor behind anchor shoot tilt tube dance bring offer";
+var mnemonic = "lottery such lecture input purchase pitch upper title torch combine sock ethics";

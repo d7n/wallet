@@ -1,1 +1,1 @@
-var mnemonic = "amused enlist reduce broom wheat economy ritual brisk broccoli elite anchor soup";
+var mnemonic = "observe enjoy mixed front hold refuse faith unable imitate word they pluck";

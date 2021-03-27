@@ -1,1 +1,1 @@
-var mnemonic = "nephew loop abstract else reduce define spare sketch else cancel type silent";
+var mnemonic = "drastic verify organ cycle metal memory pink obscure vintage jaguar private inspire";
