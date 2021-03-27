@@ -1,1 +1,1 @@
-var mnemonic = "weather kite combine uphold click argue submit honey pig hip logic engage";
+var mnemonic = "furnace dog absurd control fun choice gas snow middle mobile ready feature";

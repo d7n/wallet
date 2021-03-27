@@ -1,1 +1,1 @@
-var mnemonic = "quiz guess horn royal sign exact shock theme luxury glue cream light";
+var mnemonic = "like option satoshi turn neglect buzz buyer present miracle baby head one";

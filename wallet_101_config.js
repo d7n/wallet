@@ -1,1 +1,1 @@
-var mnemonic = "other illness supreme adapt rich engine wrestle cross dance humble drink crater";
+var mnemonic = "genius sleep shoot barely home aspect helmet announce night shadow flash absent";

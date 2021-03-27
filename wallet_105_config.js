@@ -1,1 +1,1 @@
-var mnemonic = "vital seed rival baby oak system twelve bicycle disorder erase series hunt";
+var mnemonic = "owner alley august round screen dog gadget physical together cannon stamp truck";

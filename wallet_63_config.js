@@ -1,1 +1,1 @@
-var mnemonic = "tilt patient already arrow okay demand pipe autumn until primary over deny";
+var mnemonic = "place orange grow carpet suffer trash couple security scatter teach broken twist";

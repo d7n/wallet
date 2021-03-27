@@ -1,1 +1,1 @@
-var mnemonic = "forget mechanic mad whisper aware fence lecture flag outer happy friend rocket";
+var mnemonic = "ankle gloom pencil wool excuse squirrel possible swear dream curtain bird ceiling";

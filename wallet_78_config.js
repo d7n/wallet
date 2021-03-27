@@ -1,1 +1,1 @@
-var mnemonic = "west swing fault guilt record gym choose matrix hammer engine pelican east";
+var mnemonic = "unique half manage either hand chaos vault reform age toe middle regret";

@@ -1,1 +1,1 @@
-var mnemonic = "grace valve barrel twin security umbrella priority able prison confirm endorse rebuild";
+var mnemonic = "prize axis differ term scan focus pumpkin cushion dish afraid cash boat";

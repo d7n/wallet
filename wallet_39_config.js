@@ -1,1 +1,1 @@
-var mnemonic = "valley eagle student dice basket voyage final ill symptom decrease disorder hat";
+var mnemonic = "discover decrease tonight prepare elder coffee castle unfair entire spoil feed crack";

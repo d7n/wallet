@@ -1,1 +1,1 @@
-var mnemonic = "salt nature subject zoo taxi ski ice long gorilla boil silly decade";
+var mnemonic = "govern print fantasy caught dawn increase future bar wool beef pride mercy";

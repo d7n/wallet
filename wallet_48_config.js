@@ -1,1 +1,1 @@
-var mnemonic = "fog stereo scissors define chapter dirt action broom inch subway minimum steel";
+var mnemonic = "bicycle stuff jar select mammal emerge spray ability leave report scorpion harbor";

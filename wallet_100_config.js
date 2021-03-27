@@ -1,1 +1,1 @@
-var mnemonic = "camera umbrella frost tiger mushroom traffic entry vacuum client donate group fall";
+var mnemonic = "audit live donor helmet lobster crunch chronic crazy daughter example two tumble";

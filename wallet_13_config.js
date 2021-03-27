@@ -1,1 +1,1 @@
-var mnemonic = "divide gather bleak end pact garage switch claw motor brain start render";
+var mnemonic = "stock ignore usage coil gate used into stick river comfort boring work";

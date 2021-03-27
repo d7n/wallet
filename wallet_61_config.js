@@ -1,1 +1,1 @@
-var mnemonic = "venture shadow sauce manual minor begin short wrist march make grief camp";
+var mnemonic = "merge coil inform shiver unlock clutch equip gauge small because mask tissue";

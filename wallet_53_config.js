@@ -1,1 +1,1 @@
-var mnemonic = "attitude genius case remove endorse emerge lemon scout enhance polar oil elite";
+var mnemonic = "snake amused home pioneer banana hammer begin lecture agree track usual dial";

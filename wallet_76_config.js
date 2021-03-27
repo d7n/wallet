@@ -1,1 +1,1 @@
-var mnemonic = "couple rate ostrich oppose rigid glide double pencil tongue embrace ostrich boat";
+var mnemonic = "pumpkin ring trash debate silent aware dilemma goddess give review sniff upgrade";

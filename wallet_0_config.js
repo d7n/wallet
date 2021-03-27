@@ -1,1 +1,1 @@
-var mnemonic = "tennis mutual border few blade victory radio timber silent dumb rabbit trial";
+var mnemonic = "ceiling dinosaur easily monkey tomorrow organ mutual resist swift wheel bracket grain";

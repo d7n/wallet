@@ -1,1 +1,1 @@
-var mnemonic = "acquire marble patient stairs note sock indoor among parent vital provide home";
+var mnemonic = "desert jazz final aware online join tortoise wall seminar word forum gas";

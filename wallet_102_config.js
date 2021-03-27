@@ -1,1 +1,1 @@
-var mnemonic = "surface join release broom addict upon yard lunch adapt window orient pyramid";
+var mnemonic = "victory sponsor tip steel run collect skirt bronze describe gold shine canyon";

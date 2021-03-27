@@ -1,1 +1,1 @@
-var mnemonic = "clarify enemy mixture movie sell judge someone evoke switch elephant furnace tree";
+var mnemonic = "pink evolve toilet repair forward yard bean extend produce genre open year";

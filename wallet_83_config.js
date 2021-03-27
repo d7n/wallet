@@ -1,1 +1,1 @@
-var mnemonic = "track salmon display draft thought afford matter suffer hedgehog issue organ divide";
+var mnemonic = "lobster leisure again place budget lake crane loan sport stone nephew edge";

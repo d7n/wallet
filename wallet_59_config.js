@@ -1,1 +1,1 @@
-var mnemonic = "grab kiwi rookie cable throw turkey calm fly pink lonely bean mimic";
+var mnemonic = "sunset style snack design month sense blade piano robust among until black";

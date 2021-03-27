@@ -1,1 +1,1 @@
-var mnemonic = "eternal display test wife payment hungry minimum during verify shiver oven hazard";
+var mnemonic = "hair scene senior debate budget depth galaxy clump net desert ethics glory";

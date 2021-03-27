@@ -1,1 +1,1 @@
-var mnemonic = "gloom kind jewel lake oblige upset project ring net winter fitness medal";
+var mnemonic = "tray double journey youth melody open sad cram absorb matter ahead umbrella";

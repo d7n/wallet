@@ -1,1 +1,1 @@
-var mnemonic = "edge decide boost adult better regular coast pact ostrich flat burst just";
+var mnemonic = "enter wine purity duty claim quantum shoulder warfare inquiry drift tree endless";

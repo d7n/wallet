@@ -1,1 +1,1 @@
-var mnemonic = "safe vocal indicate glory frost ugly erupt desk travel federal nominee tiger";
+var mnemonic = "speak welcome target shaft unfold smoke adult fitness ribbon clap cement promote";

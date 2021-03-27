@@ -1,1 +1,1 @@
-var mnemonic = "vendor acoustic hammer hurry improve gauge maple shoot fever pledge pudding glue";
+var mnemonic = "spider shrimp bag hat scatter suggest tragic border critic magnet lunar range";

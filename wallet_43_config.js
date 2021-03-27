@@ -1,1 +1,1 @@
-var mnemonic = "country zoo slide token shallow island nature van basic absorb glimpse check";
+var mnemonic = "say frown lake help weekend palace carbon addict lunch legend walnut ocean";

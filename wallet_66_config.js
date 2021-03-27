@@ -1,1 +1,1 @@
-var mnemonic = "grain script buffalo jealous twelve metal side two message stairs visit volcano";
+var mnemonic = "crawl urge demise limb resemble sniff eagle arrest broccoli rain metal blue";

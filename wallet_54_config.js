@@ -1,1 +1,1 @@
-var mnemonic = "chimney since envelope orphan video follow deal rookie keen unveil until surge";
+var mnemonic = "license render whale raw improve anxiety pool flame leg lounge outdoor century";

@@ -1,1 +1,1 @@
-var mnemonic = "finish caution define thrive sign critic weekend price law bag minimum decide";
+var mnemonic = "actual buyer risk sphere ribbon hire choose arrive more sense nut toddler";

@@ -1,1 +1,1 @@
-var mnemonic = "relax extend busy spoil song glad shiver option warfare will pottery film";
+var mnemonic = "crime urge style ankle assault weekend magic decorate asset ivory become obey";

@@ -1,1 +1,1 @@
-var mnemonic = "trust brass tilt noise slush double cluster believe swear pelican danger awesome";
+var mnemonic = "height heart vessel error position mention advance whisper thought eight pet math";

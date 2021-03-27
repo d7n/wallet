@@ -1,1 +1,1 @@
-var mnemonic = "state culture plunge injury blame protect sphere father invest magnet piece raise";
+var mnemonic = "run open lonely close ozone horse inmate cook track alter wasp space";

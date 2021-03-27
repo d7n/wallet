@@ -1,1 +1,1 @@
-var mnemonic = "night okay crush hope monitor flag iron mutual unknown proud meat romance";
+var mnemonic = "extra link range color leopard relax potato carbon together bubble attend network";

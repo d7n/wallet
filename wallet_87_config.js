@@ -1,1 +1,1 @@
-var mnemonic = "nation you fault bundle dose save easily verify share exist next useless";
+var mnemonic = "shy demand slush equal salmon often outer piano bind another grain tag";

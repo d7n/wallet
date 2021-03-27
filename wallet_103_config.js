@@ -1,1 +1,1 @@
-var mnemonic = "steak fire drip dish chair survey blossom food hat diet property grunt";
+var mnemonic = "inch able inmate crazy advance state among despair sugar rural replace zone";

@@ -1,1 +1,1 @@
-var mnemonic = "office champion pill double tiger health eager engage empty runway spread multiply";
+var mnemonic = "adult animal odor tomato east wash large puzzle switch call foam exhaust";

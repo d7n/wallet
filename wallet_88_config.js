@@ -1,1 +1,1 @@
-var mnemonic = "inquiry park sheriff build history shed end sign season swim grab cream";
+var mnemonic = "dial note alcohol buffalo east immense mercy start witness accuse stock clock";

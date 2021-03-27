@@ -1,1 +1,1 @@
-var mnemonic = "media style plug shaft drop maze raven dice ahead under often hold";
+var mnemonic = "just quantum chef crime float auction reform genre angry arrest rigid purchase";

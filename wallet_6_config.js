@@ -1,1 +1,1 @@
-var mnemonic = "motion wine bring disagree seed language virus diesel mother current detect verify";
+var mnemonic = "solve mixed health grass proof recipe fault photo picture usual fruit cabin";

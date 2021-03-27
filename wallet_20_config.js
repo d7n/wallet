@@ -1,1 +1,1 @@
-var mnemonic = "code minimum very miss allow rough girl prevent arrow insect ramp twenty";
+var mnemonic = "march federal recipe trash guide time scissors you dust certain lounge jacket";

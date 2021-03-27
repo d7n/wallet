@@ -1,1 +1,1 @@
-var mnemonic = "sustain never planet hill snap since oppose diesel metal need normal acoustic";
+var mnemonic = "hundred burger recall whisper siege lesson blanket wise flavor march stock cruel";

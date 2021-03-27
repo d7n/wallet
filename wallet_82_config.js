@@ -1,1 +1,1 @@
-var mnemonic = "upgrade daring maid social banner fall business sister bread sponsor source humor";
+var mnemonic = "senior lens earth soap mango gym cactus wet benefit unable route volcano";

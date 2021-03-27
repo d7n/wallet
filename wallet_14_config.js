@@ -1,1 +1,1 @@
-var mnemonic = "weather dawn very hamster famous crystal hip digital autumn daring cry dust";
+var mnemonic = "labor avocado wing reunion deny elevator owner aspect disagree crawl suspect eye";

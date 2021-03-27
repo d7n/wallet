@@ -1,1 +1,1 @@
-var mnemonic = "evidence artwork tuna valve symptom metal garment obey rival cement pill oyster";
+var mnemonic = "young focus vast leaf minimum oppose satoshi rent dune situate aspect shrug";

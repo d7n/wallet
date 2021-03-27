@@ -1,1 +1,1 @@
-var mnemonic = "blouse glow ride domain spy debris measure matter depth text defense daring";
+var mnemonic = "cruel response holiday trial crime wonder slide rail orange innocent hobby bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "speed flip bacon grain rich warrior fruit caution swim mom candy rather";
+var mnemonic = "evidence slight main alter midnight among buffalo express access refuse crime moment";

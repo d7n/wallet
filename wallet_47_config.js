@@ -1,1 +1,1 @@
-var mnemonic = "trim bird crop hard portion area arena install pencil flame tackle three";
+var mnemonic = "pride word hope seven feel corn modify asthma source chunk distance tongue";

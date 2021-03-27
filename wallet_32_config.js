@@ -1,1 +1,1 @@
-var mnemonic = "move hundred dawn page quiz income worth able lift brother balcony select";
+var mnemonic = "host unaware away loan attack sense obscure off load arch detail cradle";

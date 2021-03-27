@@ -1,1 +1,1 @@
-var mnemonic = "phone shaft purpose soft trend merge color spatial pledge fuel blade wedding";
+var mnemonic = "current learn misery stadium across layer hello bridge fabric lamp drum subway";

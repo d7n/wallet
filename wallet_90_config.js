@@ -1,1 +1,1 @@
-var mnemonic = "analyst same sausage scale winner salon fiscal time absent post retire case";
+var mnemonic = "object thought perfect rice stomach dawn planet juice orange pattern pill edge";

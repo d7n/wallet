@@ -1,1 +1,1 @@
-var mnemonic = "replace skin sphere absorb globe laundry pyramid salt arrest top winner what";
+var mnemonic = "echo horse enhance finish busy injury cart senior toilet repeat bar cinnamon";

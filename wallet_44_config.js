@@ -1,1 +1,1 @@
-var mnemonic = "track antenna broccoli patient warfare trend jeans rigid muscle abstract quote real";
+var mnemonic = "report bind vessel fault alley lounge stool rigid reopen segment pave material";

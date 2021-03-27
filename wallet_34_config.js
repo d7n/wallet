@@ -1,1 +1,1 @@
-var mnemonic = "dog basic purchase deputy depart other motion flavor feel neutral income garlic";
+var mnemonic = "embark enter steel panic track leisure winter vital meat dinosaur dwarf trust";

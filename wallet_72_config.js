@@ -1,1 +1,1 @@
-var mnemonic = "lumber country ripple fragile rug skirt rely push artefact text slice lock";
+var mnemonic = "cloud dinosaur world awful legal balcony sauce diary uncover coil tent window";

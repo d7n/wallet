@@ -1,1 +1,1 @@
-var mnemonic = "genre afraid kit ostrich great night chunk fence vague trim method betray";
+var mnemonic = "tuition addict lounge usage pond annual unveil vocal brother promote soldier salad";

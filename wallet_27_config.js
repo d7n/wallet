@@ -1,1 +1,1 @@
-var mnemonic = "nice visual bean shoot urge entry rug clinic anger royal peanut crouch";
+var mnemonic = "broom venue burst metal puzzle turkey session very noble common become warrior";

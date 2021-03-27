@@ -1,1 +1,1 @@
-var mnemonic = "stomach exhaust bone develop hurdle erode travel satoshi bone matrix custom purchase";
+var mnemonic = "dignity moment stove indicate trust chef lend boss lonely treat ginger rely";

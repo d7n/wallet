@@ -1,1 +1,1 @@
-var mnemonic = "spin still cave quiz goddess talent thunder rally movie grow cotton trick";
+var mnemonic = "evoke oak entire range write decrease gather broken forward party multiply fox";

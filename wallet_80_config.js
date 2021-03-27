@@ -1,1 +1,1 @@
-var mnemonic = "forest inquiry bag trumpet plastic chat swim unfair draft moral capable sure";
+var mnemonic = "prevent jaguar common arrow alter cushion receive basket film good office donate";

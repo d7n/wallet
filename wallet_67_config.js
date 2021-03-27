@@ -1,1 +1,1 @@
-var mnemonic = "three want series upgrade onion enroll royal guide bitter purchase burst strike";
+var mnemonic = "plate tornado private best fence waste flock box record tent renew caution";

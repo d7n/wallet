@@ -1,1 +1,1 @@
-var mnemonic = "dream vacuum dial first enroll cousin vessel paper top siren judge scorpion";
+var mnemonic = "often retire include wide slice faculty pony virus pencil luggage rigid false";

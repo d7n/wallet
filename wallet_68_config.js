@@ -1,1 +1,1 @@
-var mnemonic = "hold warrior kick typical proud twist alter refuse critic grow churn volcano";
+var mnemonic = "sphere marriage budget hedgehog garbage present butter original now hood gadget potato";

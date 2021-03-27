@@ -1,1 +1,1 @@
-var mnemonic = "among present limit bone best fee latin glove tuna door mother grocery";
+var mnemonic = "include margin brown drop similar ecology exotic divorce runway tip lawsuit draw";

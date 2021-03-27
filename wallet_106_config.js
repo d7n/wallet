@@ -1,1 +1,1 @@
-var mnemonic = "rice uncover hover click purity canyon number profit mansion chicken dismiss breeze";
+var mnemonic = "window grow margin rhythm wire sniff razor asthma symptom course concert scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol club grow reopen unusual immense medal case fault often differ daughter";
+var mnemonic = "around retire inherit champion pause smart level bridge client reason ready galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "this kangaroo awake beach rose real broken hollow limb egg just alarm";
+var mnemonic = "amount law mirror festival acoustic couple empower ethics camp work thrive tooth";

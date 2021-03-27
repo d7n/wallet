@@ -1,1 +1,1 @@
-var mnemonic = "speak behave shop escape warm fever else sausage address romance draft truck";
+var mnemonic = "boy leaf seat slam suggest carbon genuine loop muffin use punch green";

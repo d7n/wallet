@@ -1,1 +1,1 @@
-var mnemonic = "promote nasty maximum practice october wreck unusual where year boy salon black";
+var mnemonic = "fence merry belt you lift about swim grain maple rhythm snow about";

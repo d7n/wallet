@@ -1,1 +1,1 @@
-var mnemonic = "coach humble recycle wish all rule mistake engine comic script toast deputy";
+var mnemonic = "coach catalog visa hotel fury cream kick simple inch father awesome pair";

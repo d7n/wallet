@@ -1,1 +1,1 @@
-var mnemonic = "vacuum cute verb cycle virtual arena enact setup weekend mercy vague gather";
+var mnemonic = "sport cabin letter wire noodle have pull example depart nuclear afraid inmate";

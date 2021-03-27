@@ -1,1 +1,1 @@
-var mnemonic = "faint traffic faculty cluster ask warrior boy decrease coil amazing relief major";
+var mnemonic = "want mean adjust divide reflect blur cage urge blade chimney broom tree";

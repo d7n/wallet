@@ -1,1 +1,1 @@
-var mnemonic = "fan actual jelly shed antique company disorder abuse vapor armor deny slight";
+var mnemonic = "sure census trade describe globe wrap syrup island car minor brother ugly";

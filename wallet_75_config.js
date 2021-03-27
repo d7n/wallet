@@ -1,1 +1,1 @@
-var mnemonic = "vendor client eight evidence host resist vintage gap wide explain clerk disagree";
+var mnemonic = "audit hawk crane worry leisure ethics basic index tray predict barely grit";

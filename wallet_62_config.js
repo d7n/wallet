@@ -1,1 +1,1 @@
-var mnemonic = "mixture old melody cherry field bacon mechanic amazing wagon worth dash dial";
+var mnemonic = "beauty slim motion safe nuclear grass innocent century unknown globe figure solution";

@@ -1,1 +1,1 @@
-var mnemonic = "cry joy maid brain digital smooth piece faculty eye illness donate target";
+var mnemonic = "panther bean garage goat biology release task please veteran dry apart agent";

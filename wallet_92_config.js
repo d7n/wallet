@@ -1,1 +1,1 @@
-var mnemonic = "buyer only clinic fiscal behave aisle problem lunar escape weather girl outdoor";
+var mnemonic = "churn buffalo long tongue own diamond shallow economy piano dad ten whisper";

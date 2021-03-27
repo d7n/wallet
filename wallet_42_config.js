@@ -1,1 +1,1 @@
-var mnemonic = "payment capital middle radio extend crater castle dinosaur harbor buyer net undo";
+var mnemonic = "crack spider bread arctic casual involve creek valley universe cream patch such";

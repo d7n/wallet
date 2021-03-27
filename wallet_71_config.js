@@ -1,1 +1,1 @@
-var mnemonic = "suspect kit negative isolate print slim bleak swap skirt tennis mean audit";
+var mnemonic = "rough increase sad mirror layer parent rack february crowd loan define dentist";

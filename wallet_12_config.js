@@ -1,1 +1,1 @@
-var mnemonic = "fatal street index chase shove museum noise dial carry couch swim hurry";
+var mnemonic = "casino mass there enhance enter bird purity illegal bullet outer lobster sight";

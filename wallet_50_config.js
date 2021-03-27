@@ -1,1 +1,1 @@
-var mnemonic = "giraffe animal expand nut baby unhappy gentle result what loop tilt poverty";
+var mnemonic = "daring this bean powder correct beach absent hole engine pelican cereal drastic";

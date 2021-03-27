@@ -1,1 +1,1 @@
-var mnemonic = "urban alpha face family speak just puppy profit buzz cave trophy sphere";
+var mnemonic = "alcohol small blame media truck shiver photo album tennis flash decade solar";

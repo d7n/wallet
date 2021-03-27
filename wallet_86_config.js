@@ -1,1 +1,1 @@
-var mnemonic = "flip erode collect insane help pilot crisp float symptom behave barely limit";
+var mnemonic = "fuel stick file share toast express leaf guitar patrol index expire patch";

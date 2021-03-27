@@ -1,1 +1,1 @@
-var mnemonic = "insect name physical master spike dry smoke forward train world report earn";
+var mnemonic = "parrot broccoli arch share pottery oxygen between essay elevator runway broccoli junior";

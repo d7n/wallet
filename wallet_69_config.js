@@ -1,1 +1,1 @@
-var mnemonic = "address enrich leg session fantasy olympic dynamic fly tired engine monitor daughter";
+var mnemonic = "state month relief net false roof embark normal lamp tank deal entire";

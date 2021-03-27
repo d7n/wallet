@@ -1,1 +1,1 @@
-var mnemonic = "flame genuine energy lemon aware wealth purpose insane curtain adapt patch hedgehog";
+var mnemonic = "toy venue draw bean blush pause record airport depth dress faculty holiday";

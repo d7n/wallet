@@ -1,1 +1,1 @@
-var mnemonic = "super pupil secret collect frog refuse proof decline zebra danger romance urge";
+var mnemonic = "swift only ask message item grape appear occur panda february hello coral";

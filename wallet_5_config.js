@@ -1,1 +1,1 @@
-var mnemonic = "nut design zero trial once enlist slab blur box negative shrimp ice";
+var mnemonic = "rabbit light whip spend erode permit bargain hat lottery century ethics avoid";

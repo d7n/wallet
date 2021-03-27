@@ -1,1 +1,1 @@
-var mnemonic = "test edit main enable unit dune square away cream pond bleak theory";
+var mnemonic = "toast border approve very skill valve phone can prosper discover wealth gloom";

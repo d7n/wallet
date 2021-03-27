@@ -1,1 +1,1 @@
-var mnemonic = "beauty always inner invest used evidence moment jazz meadow come virus sister";
+var mnemonic = "pole safe table control settle clip section dash spray such oven pet";

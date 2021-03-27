@@ -1,1 +1,1 @@
-var mnemonic = "congress local mouse infant sunny heavy diary violin lava two expire ship";
+var mnemonic = "empty island diary friend slow arctic hood reflect strong kidney same assume";
