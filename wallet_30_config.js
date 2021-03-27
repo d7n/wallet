@@ -1,1 +1,1 @@
-var mnemonic = "odor neither pipe quantum month tenant vacant news average model alarm panda";
+var mnemonic = "manage grief ten bone speed candy giraffe cherry drink hard success shaft";

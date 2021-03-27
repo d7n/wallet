@@ -1,1 +1,1 @@
-var mnemonic = "visa logic aware ahead link celery expect degree wedding small alert scissors";
+var mnemonic = "rib clever flower ramp around always antenna twist blur leaf client garment";

@@ -1,1 +1,1 @@
-var mnemonic = "kick series click enlist donkey blast brother find skirt motion until prevent";
+var mnemonic = "observe marine sudden author want width tribe talent clay pitch dice jelly";

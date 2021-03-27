@@ -1,1 +1,1 @@
-var mnemonic = "gown mountain tray stable cube elite time lemon stuff witness beyond client";
+var mnemonic = "marriage conduct much love abuse beef smoke robust sauce uncle argue fiber";

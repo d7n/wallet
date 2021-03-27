@@ -1,1 +1,1 @@
-var mnemonic = "cable pave impulse phone frozen sadness speak remember room stove chest thing";
+var mnemonic = "adjust imitate purity taxi lesson expose latin toy prosper bless normal pluck";

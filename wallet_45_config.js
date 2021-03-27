@@ -1,1 +1,1 @@
-var mnemonic = "hurt know diary nasty moral urban rent tissue slender defy husband adult";
+var mnemonic = "elephant tape void crew often gospel weasel music sound change vicious try";

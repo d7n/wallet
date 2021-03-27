@@ -1,1 +1,1 @@
-var mnemonic = "cycle floor judge never arrange situate angry tired case deny immense pony";
+var mnemonic = "ketchup rude credit diet bone never moon idea bus music arena shed";

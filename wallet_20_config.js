@@ -1,1 +1,1 @@
-var mnemonic = "cluster one enlist mixture keep just skill offer silent jewel easy pen";
+var mnemonic = "chapter soda letter lemon goddess shoulder myself catalog mouse rare problem release";

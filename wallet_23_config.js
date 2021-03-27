@@ -1,1 +1,1 @@
-var mnemonic = "pair child indoor long cheese walnut lunar sure injury staff festival kit";
+var mnemonic = "capable gown elevator session lawn chef rally capable rare gossip local into";

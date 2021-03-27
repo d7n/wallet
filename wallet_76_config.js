@@ -1,1 +1,1 @@
-var mnemonic = "message aspect basket region cancel cream street swamp nephew gravity cram online";
+var mnemonic = "salute royal adult female tide idea audit music obvious regular ready tuition";

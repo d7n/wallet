@@ -1,1 +1,1 @@
-var mnemonic = "tomato sun carbon patient recycle tag nest winter mouse rubber lock tonight";
+var mnemonic = "term metal size radar blood antenna attitude arctic weasel naive tuna spoon";

@@ -1,1 +1,1 @@
-var mnemonic = "hire enlist already cart reason inquiry genre walnut toddler favorite faith gallery";
+var mnemonic = "vast pair ice forget stereo shadow gather young fiscal tongue goose panther";

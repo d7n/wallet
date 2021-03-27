@@ -1,1 +1,1 @@
-var mnemonic = "small rug course profit trap change nice turn twenty forest room egg";
+var mnemonic = "park early plastic emotion staff thunder color drama vital steel tiny champion";

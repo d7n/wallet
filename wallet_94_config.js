@@ -1,1 +1,1 @@
-var mnemonic = "gas minor kit resemble wall tackle call core idea pole crawl sheriff";
+var mnemonic = "cube right hotel dust exercise grunt type they fossil smart dice rice";

@@ -1,1 +1,1 @@
-var mnemonic = "mule scrub space name baby language tool record gown error judge asset";
+var mnemonic = "mistake year error potato buzz estate change oil modify apple erosion blur";

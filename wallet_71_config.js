@@ -1,1 +1,1 @@
-var mnemonic = "naive coconut company option prepare silk pattern mobile drop milk vocal injury";
+var mnemonic = "popular cave ordinary develop rose print great picnic install put reveal pass";

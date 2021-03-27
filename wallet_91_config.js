@@ -1,1 +1,1 @@
-var mnemonic = "first rain autumn custom borrow come lens describe final melody major chaos";
+var mnemonic = "promote plug vacant next wrist blast fantasy tip cup allow glimpse expand";

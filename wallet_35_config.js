@@ -1,1 +1,1 @@
-var mnemonic = "page city genuine clinic behind only curious alley diesel believe genre shiver";
+var mnemonic = "process abandon zero hunt actual final frequent keep nice host common elder";

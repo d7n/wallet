@@ -1,1 +1,1 @@
-var mnemonic = "reflect air blouse marble whisper will picnic cube ozone argue bike actor";
+var mnemonic = "piece average chase spike pupil lunar soccer path disagree bulk nature stand";

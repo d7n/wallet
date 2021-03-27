@@ -1,1 +1,1 @@
-var mnemonic = "peasant borrow aerobic accuse invest snap strategy accuse damp double draft develop";
+var mnemonic = "omit floor bag fish dismiss render forest busy anger increase economy river";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil drip provide circle arena guilt couch home embrace donkey life abstract";
+var mnemonic = "grunt satisfy execute improve fat wink box defense foot reopen guess exclude";

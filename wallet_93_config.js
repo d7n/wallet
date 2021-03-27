@@ -1,1 +1,1 @@
-var mnemonic = "neck sound guitar donkey boat illness foam civil tube promote awful muffin";
+var mnemonic = "sudden denial exchange repeat immense example subject lend wire topple letter soul";

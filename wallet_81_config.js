@@ -1,1 +1,1 @@
-var mnemonic = "script together tribe planet attitude over riot time raven mother grace fatigue";
+var mnemonic = "bargain quit poem brick industry junior antique life fiber wave inch fringe";

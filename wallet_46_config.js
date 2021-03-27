@@ -1,1 +1,1 @@
-var mnemonic = "combine paddle still unhappy erupt mesh valley company electric accuse earn artist";
+var mnemonic = "remember swing dish crouch curve render shoot cabin view magnet liberty bounce";

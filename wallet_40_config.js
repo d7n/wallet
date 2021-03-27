@@ -1,1 +1,1 @@
-var mnemonic = "text keep safe velvet chief menu panda impulse essence mother similar dress";
+var mnemonic = "very cry gap unhappy swift yellow bamboo kiwi avocado daring machine peanut";

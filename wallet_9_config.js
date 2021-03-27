@@ -1,1 +1,1 @@
-var mnemonic = "need axis fatigue actor chicken boss genre off picture tag winner mystery";
+var mnemonic = "bitter toe inmate skirt quarter nerve holiday cement news dance connect dynamic";

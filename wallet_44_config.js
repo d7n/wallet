@@ -1,1 +1,1 @@
-var mnemonic = "wisdom ship hard finish warm print fog pepper unknown dumb tooth comic";
+var mnemonic = "unit post inside slow okay leg wine rally mail guide trend hurry";

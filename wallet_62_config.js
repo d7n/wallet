@@ -1,1 +1,1 @@
-var mnemonic = "truly kiss wrong sound fortune crane mobile galaxy letter notice message bargain";
+var mnemonic = "caught local estate whale obtain robot dismiss disagree smoke rose power cram";

@@ -1,1 +1,1 @@
-var mnemonic = "position agent atom shield retire person panther opinion able witness delay birth";
+var mnemonic = "great stick blanket hour use load cute hello oil unlock powder rifle";

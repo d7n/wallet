@@ -1,1 +1,1 @@
-var mnemonic = "just room common coyote safe hope display clinic hurdle embody shoulder flash";
+var mnemonic = "betray exist essay walnut city robust annual gallery label shy guess pair";

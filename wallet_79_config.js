@@ -1,1 +1,1 @@
-var mnemonic = "joy piece brand power wire tortoise daring dilemma pupil candy smart brain";
+var mnemonic = "say stairs suggest soon liberty reject media ship luxury web cash indoor";

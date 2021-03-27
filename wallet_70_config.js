@@ -1,1 +1,1 @@
-var mnemonic = "wisdom crowd exchange hidden whisper spider enlist bulb dwarf pear earn gloom";
+var mnemonic = "garment october talk claim genius modify zoo need engine love drive yard";

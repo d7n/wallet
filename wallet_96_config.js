@@ -1,1 +1,1 @@
-var mnemonic = "segment fiscal appear music demise unfair rapid doctor bacon satisfy cool mammal";
+var mnemonic = "caution you rate useful announce voyage bleak open plastic gate invite close";

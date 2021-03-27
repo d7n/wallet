@@ -1,1 +1,1 @@
-var mnemonic = "twin sweet scrap cave decrease bind protect travel tired crisp middle orient";
+var mnemonic = "pool boy grid item moon spread dentist absurd color warrior prize board";

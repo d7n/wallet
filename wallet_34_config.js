@@ -1,1 +1,1 @@
-var mnemonic = "park liberty result away stage pass learn fortune fringe census voyage junk";
+var mnemonic = "era crash hobby pretty window east water brick unfair range calm swap";

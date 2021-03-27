@@ -1,1 +1,1 @@
-var mnemonic = "morning coach depth cushion weather want snap flash van glad upper mango";
+var mnemonic = "jar execute whisper pyramid waste enemy oval picnic lucky dynamic focus fence";

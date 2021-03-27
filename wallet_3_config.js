@@ -1,1 +1,1 @@
-var mnemonic = "damage video opera detect avocado point laptop wife sting august salt citizen";
+var mnemonic = "ankle west aerobic tree virus body end surround west deposit apart local";

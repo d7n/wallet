@@ -1,1 +1,1 @@
-var mnemonic = "team flat trim vault obscure night gentle limit coast more report cable";
+var mnemonic = "rookie history east guess culture plunge stereo comfort sign gloom peanut knife";

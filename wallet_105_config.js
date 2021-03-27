@@ -1,1 +1,1 @@
-var mnemonic = "script unfold order chunk crew belt spawn wasp plug trumpet mobile keep";
+var mnemonic = "swallow convince sword trash stumble basket hire barrel birth carbon stand across";

@@ -1,1 +1,1 @@
-var mnemonic = "income donor frog walnut february sketch faculty mercy uncover tattoo upon minimum";
+var mnemonic = "clean sign catch mention notable correct vague head track adapt second blue";

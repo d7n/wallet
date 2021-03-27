@@ -1,1 +1,1 @@
-var mnemonic = "gravity retreat quality occur shallow hair honey coin group wage matrix truly";
+var mnemonic = "hello million maze grain accident donor poem magnet unit valid gasp clean";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito lady cruise turn also lava glare crumble sea pulse gym consider";
+var mnemonic = "improve omit outdoor walk destroy barrel verb buyer jaguar mansion upon high";

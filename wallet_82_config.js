@@ -1,1 +1,1 @@
-var mnemonic = "stock pupil loyal wine nominee beyond cricket stay scrub lawsuit alpha ostrich";
+var mnemonic = "debris rug execute forward void lens riot glass broccoli you rate bamboo";

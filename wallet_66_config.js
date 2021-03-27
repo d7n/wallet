@@ -1,1 +1,1 @@
-var mnemonic = "alien nose oxygen broccoli visual jump hobby dose sing sketch warm rigid";
+var mnemonic = "rifle hazard sketch arrive response version lava reform embrace depth alter actor";

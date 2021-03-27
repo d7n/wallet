@@ -1,1 +1,1 @@
-var mnemonic = "truly venue arctic immune below erupt civil weekend steel film author supreme";
+var mnemonic = "elder hip random noodle elite know invest ozone cable private planet luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "alley caught fortune metal media enjoy april hip girl bitter medal answer";
+var mnemonic = "industry pen silly false record say glue sausage talent box rule science";

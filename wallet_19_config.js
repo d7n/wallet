@@ -1,1 +1,1 @@
-var mnemonic = "rally patient antique occur increase torch absorb eye carbon pizza melody recipe";
+var mnemonic = "under track cat art infant join friend size desk snake level float";

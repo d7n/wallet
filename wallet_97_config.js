@@ -1,1 +1,1 @@
-var mnemonic = "toward mountain skirt heart team cancel bronze wise forest aisle ankle zoo";
+var mnemonic = "bargain lazy street among release album index mango error aspect aspect unable";

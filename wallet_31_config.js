@@ -1,1 +1,1 @@
-var mnemonic = "bike pitch day spin wide captain retreat legend firm cabin lucky advice";
+var mnemonic = "lumber false moment prepare sheriff snap elite toss balance okay oxygen author";

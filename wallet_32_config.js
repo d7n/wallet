@@ -1,1 +1,1 @@
-var mnemonic = "steak pepper jeans joke proof vibrant sweet sail brave theme elevator lava";
+var mnemonic = "trouble inch empty image cabbage chest dinosaur pave bench wide nephew bomb";

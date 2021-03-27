@@ -1,1 +1,1 @@
-var mnemonic = "same invite relief double other inflict fun caution all never fragile ostrich";
+var mnemonic = "route scout cream leg problem brave calm regret surface goat soldier hurt";

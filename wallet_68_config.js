@@ -1,1 +1,1 @@
-var mnemonic = "traffic high loyal box must mercy crisp attack indoor salt artefact firm";
+var mnemonic = "taste horse stumble lawsuit crowd such dragon task apple music chapter copy";

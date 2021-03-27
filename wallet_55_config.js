@@ -1,1 +1,1 @@
-var mnemonic = "roof base gossip mammal level million step tent live attend clay crater";
+var mnemonic = "inhale rough current hub opera detail wide poem student liquid brave place";

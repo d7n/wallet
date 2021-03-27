@@ -1,1 +1,1 @@
-var mnemonic = "tornado access pear carbon zebra push width snap index fence tuition syrup";
+var mnemonic = "build senior dial obey all blossom assist hand they fossil cat puppy";

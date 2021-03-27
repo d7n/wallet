@@ -1,1 +1,1 @@
-var mnemonic = "park manage repair license impose swear artist matrix fashion sample volcano vanish";
+var mnemonic = "expose assault radar toddler oven uncle discover pair master quiz junior post";

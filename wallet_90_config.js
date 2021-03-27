@@ -1,1 +1,1 @@
-var mnemonic = "adult possible satisfy medal sunset vacant prosper pull bounce salmon crane abstract";
+var mnemonic = "object rich color mad immune begin slim argue cheap finish include banner";

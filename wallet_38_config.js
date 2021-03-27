@@ -1,1 +1,1 @@
-var mnemonic = "strike barely false exhibit summer soda ripple snow filter test venture core";
+var mnemonic = "shock city index bike garment shove chaos purse attitude palace copper host";

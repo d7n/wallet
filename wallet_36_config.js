@@ -1,1 +1,1 @@
-var mnemonic = "police blast spring ranch click excuse thunder rough scrub miracle debate filter";
+var mnemonic = "news year alpha someone exact fan rabbit hurt armed high board tunnel";

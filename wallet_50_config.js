@@ -1,1 +1,1 @@
-var mnemonic = "assault depth conduct mammal cinnamon spell peace stairs raw viable seven scatter";
+var mnemonic = "panda embark salon pulp lizard price actress pelican abandon extend gap area";

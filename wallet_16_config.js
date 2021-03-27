@@ -1,1 +1,1 @@
-var mnemonic = "sample edge rigid memory try easily naive special mammal lend island profit";
+var mnemonic = "leave athlete depart adjust physical viable boss august never design melt siege";

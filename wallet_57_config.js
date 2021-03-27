@@ -1,1 +1,1 @@
-var mnemonic = "capital frame add apart final muffin cereal vacuum flock fortune coast kit";
+var mnemonic = "team brief version aisle merge mammal unlock umbrella tooth high congress device";

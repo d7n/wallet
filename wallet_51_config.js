@@ -1,1 +1,1 @@
-var mnemonic = "cereal slush bulk rapid labor victory tide ill old west cable frown";
+var mnemonic = "extend run item envelope absent often deposit cushion view ladder strategy try";

@@ -1,1 +1,1 @@
-var mnemonic = "phone trouble hand cream churn dentist horror ticket brass boost behave skirt";
+var mnemonic = "bus enable benefit scissors hold domain sing lumber ugly thumb crazy valley";

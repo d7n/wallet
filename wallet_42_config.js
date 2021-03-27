@@ -1,1 +1,1 @@
-var mnemonic = "deposit convince card pulse simple hover october chest wine hidden release rural";
+var mnemonic = "purity oxygen equal welcome chief need erase object aerobic rally together area";

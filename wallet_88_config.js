@@ -1,1 +1,1 @@
-var mnemonic = "trick sense glare muscle cream spend mobile equal fork client curve slender";
+var mnemonic = "pond dizzy debate food suggest slow grit celery goose flee danger soul";

@@ -1,1 +1,1 @@
-var mnemonic = "credit discover defense suspect grace erase wreck express detect tool record rebuild";
+var mnemonic = "pool crane notable vague way agent soda vicious member liquid enlist zebra";

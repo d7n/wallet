@@ -1,1 +1,1 @@
-var mnemonic = "nerve clinic swallow accident long bacon add certain panel gesture scorpion crucial";
+var mnemonic = "dignity neglect prosper best gas pulp where barely cabbage learn beef scatter";

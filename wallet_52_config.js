@@ -1,1 +1,1 @@
-var mnemonic = "tooth good minute head category thought remove unaware reject album giggle owner";
+var mnemonic = "program license twin metal thank party broccoli antenna mobile trust umbrella venture";

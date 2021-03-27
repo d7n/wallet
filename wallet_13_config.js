@@ -1,1 +1,1 @@
-var mnemonic = "noise shift cause hair tunnel tattoo lottery law weather spatial neck about";
+var mnemonic = "into skill custom wash seek flight skirt essay expect install boss clown";

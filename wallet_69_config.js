@@ -1,1 +1,1 @@
-var mnemonic = "install diary detail neither priority tuition road turkey document fee gadget elite";
+var mnemonic = "brown slogan elephant today appear moon enable rude hospital zebra start vessel";

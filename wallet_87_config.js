@@ -1,1 +1,1 @@
-var mnemonic = "solid example alien food assume wisdom income card habit diagram treat wrist";
+var mnemonic = "open list upper tortoise polar iron parrot panther electric spirit decline supreme";

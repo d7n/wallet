@@ -1,1 +1,1 @@
-var mnemonic = "solution ceiling recycle glue essay celery solar copy dragon advice minute crouch";
+var mnemonic = "cheese weird admit evil scrap cotton ozone age excuse coral kiss disagree";

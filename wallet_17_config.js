@@ -1,1 +1,1 @@
-var mnemonic = "scare ladder lazy stock web hungry cradle blossom fancy just battle trigger";
+var mnemonic = "eager loud certain pet knife clog good wrong connect travel gift foam";

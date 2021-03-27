@@ -1,1 +1,1 @@
-var mnemonic = "city sudden ten must sock candy express trap remain onion century tomorrow";
+var mnemonic = "prepare panda shrug cruel head torch hint miss immense cabin typical index";

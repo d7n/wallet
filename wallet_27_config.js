@@ -1,1 +1,1 @@
-var mnemonic = "soccer knee name game maximum similar section arrow equal dance park toe";
+var mnemonic = "street upper champion vital emotion author sugar sight deal game paper deer";

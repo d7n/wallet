@@ -1,1 +1,1 @@
-var mnemonic = "finish glove abuse light legend client screen awful agree bid hint sugar";
+var mnemonic = "issue foster hole display afford innocent citizen crane dose feel jungle inform";

@@ -1,1 +1,1 @@
-var mnemonic = "chief green stadium eager harsh visit unique vendor false inside oppose earth";
+var mnemonic = "purchase assist news risk walk swamp helmet inch pen town visit combine";

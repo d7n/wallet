@@ -1,1 +1,1 @@
-var mnemonic = "replace ghost muscle satisfy butter melody sing jungle renew fabric luggage quality";
+var mnemonic = "memory result finger guard price engage usual enlist become position dumb office";

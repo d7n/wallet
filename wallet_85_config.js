@@ -1,1 +1,1 @@
-var mnemonic = "midnight know very grass range brass endless alter rocket puzzle thunder column";
+var mnemonic = "rubber basic agree trash rare doll page sphere leg practice timber voice";

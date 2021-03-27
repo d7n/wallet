@@ -1,1 +1,1 @@
-var mnemonic = "clip talk disagree picnic galaxy outer entire harsh grunt virus black educate";
+var mnemonic = "include message allow frequent negative height pitch fresh shallow sugar universe note";

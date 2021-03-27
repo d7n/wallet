@@ -1,1 +1,1 @@
-var mnemonic = "pause height meat usual primary matter pottery donor bracket nerve spoil asset";
+var mnemonic = "demise also oblige enact slogan shove net include evolve among chalk nice";

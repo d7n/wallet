@@ -1,1 +1,1 @@
-var mnemonic = "parent border quote oven happy stove wheel ski country depth sing nose";
+var mnemonic = "govern rescue giggle faculty range youth giraffe anger accident glory health able";

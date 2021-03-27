@@ -1,1 +1,1 @@
-var mnemonic = "glue normal blast elite indoor track impact setup amazing limb security together";
+var mnemonic = "innocent kitchen veteran strategy inject crime sibling hazard village beach soldier clock";

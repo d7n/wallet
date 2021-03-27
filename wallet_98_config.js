@@ -1,1 +1,1 @@
-var mnemonic = "monkey alert auto silly humor bottom iron roast bitter music squeeze run";
+var mnemonic = "punch velvet patient same tattoo exercise repair alcohol twelve win derive van";

@@ -1,1 +1,1 @@
-var mnemonic = "output warfare crop neglect aerobic dismiss actor pave pulp family wrist hobby";
+var mnemonic = "ivory juice neck bright spike coil humor daring explain laugh where lunch";

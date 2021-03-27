@@ -1,1 +1,1 @@
-var mnemonic = "dilemma wolf engine engage gift share brain slice april census warrior viable";
+var mnemonic = "aunt bargain basic season wisdom captain foil idle either rail tool praise";

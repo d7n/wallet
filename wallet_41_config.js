@@ -1,1 +1,1 @@
-var mnemonic = "motion display fringe guess drive wreck chapter staff direct wink harsh measure";
+var mnemonic = "build width vapor allow march drama organ force deposit laugh shed public";

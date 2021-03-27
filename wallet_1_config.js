@@ -1,1 +1,1 @@
-var mnemonic = "volcano because develop flip index tooth bone exhaust dirt canvas essay absurd";
+var mnemonic = "magic rather eye original topple laugh multiply runway dune unlock fire plug";

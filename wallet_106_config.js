@@ -1,1 +1,1 @@
-var mnemonic = "shrimp radio patrol raven thrive normal board core pigeon never poem stem";
+var mnemonic = "used nut energy govern thrive dragon find program brisk innocent gadget casual";

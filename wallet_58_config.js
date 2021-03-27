@@ -1,1 +1,1 @@
-var mnemonic = "luxury city stay siege real shoe fee observe guide shift poet library";
+var mnemonic = "coyote message wonder drip very collect quality dinner excess rhythm pipe typical";

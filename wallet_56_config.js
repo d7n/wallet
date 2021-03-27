@@ -1,1 +1,1 @@
-var mnemonic = "vote modify track antenna ladder poet mixed weasel auction nasty peanut wish";
+var mnemonic = "famous virtual rich online across flat kick gallery consider merge online pink";

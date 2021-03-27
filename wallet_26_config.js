@@ -1,1 +1,1 @@
-var mnemonic = "expand drip speed bid guide right prison funny grief bench echo throw";
+var mnemonic = "skill buyer squeeze mechanic choose pyramid announce universe unhappy key average skill";

@@ -1,1 +1,1 @@
-var mnemonic = "bamboo soul until like palace friend food rare smart tide monster primary";
+var mnemonic = "oppose same quarter devote reopen permit tube action knife guess pumpkin index";

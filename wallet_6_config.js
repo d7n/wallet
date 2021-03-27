@@ -1,1 +1,1 @@
-var mnemonic = "weekend peasant athlete marriage planet bean remove salad legal strike solar hunt";
+var mnemonic = "oak kite require face ship orient fiscal manual hair color flower vacuum";

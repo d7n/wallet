@@ -1,1 +1,1 @@
-var mnemonic = "captain denial scatter family original imitate swing approve edit vocal good wire";
+var mnemonic = "ritual toast narrow devote kiss skirt sort affair rally elegant toss avoid";

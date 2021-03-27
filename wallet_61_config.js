@@ -1,1 +1,1 @@
-var mnemonic = "blossom question gloom buyer airport phone hero material vivid detail slight club";
+var mnemonic = "indicate sight corn bread trial drill olive voyage worry pear diagram blush";

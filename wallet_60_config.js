@@ -1,1 +1,1 @@
-var mnemonic = "curtain cattle odor december floor mesh park drift demand chef unknown bone";
+var mnemonic = "mystery humor risk clarify club wage rice silly intact solar must bus";
