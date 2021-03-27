@@ -1,1 +1,1 @@
-var mnemonic = "clever resist click artwork face luxury item property school plunge sort frost";
+var mnemonic = "thank suffer wall morning hamster deputy stereo alcohol cube maple skull ignore";

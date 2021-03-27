@@ -1,1 +1,1 @@
-var mnemonic = "rifle hawk prevent bird one during napkin name van flip goddess tackle";
+var mnemonic = "bamboo genuine brain grass measure flower win merge holiday recipe sphere clerk";

@@ -1,1 +1,1 @@
-var mnemonic = "attack wash talent certain donor flat rally problem neck cactus claw tool";
+var mnemonic = "resemble trend endless cat want basket promote enable blade chase young act";

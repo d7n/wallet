@@ -1,1 +1,1 @@
-var mnemonic = "sell wire destroy pig point private swap foil predict repair supply liberty";
+var mnemonic = "taxi science ribbon pulse sustain stool people hammer increase pupil plate fancy";

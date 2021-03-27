@@ -1,1 +1,1 @@
-var mnemonic = "imitate aunt crop height scorpion warrior vocal bamboo resist draw this cousin";
+var mnemonic = "invite maximum hair unfold volcano gesture truly turkey chalk better lamp case";

@@ -1,1 +1,1 @@
-var mnemonic = "dry must peace brisk menu heavy play artefact pizza climb light craft";
+var mnemonic = "keen salon prepare surprise coffee diamond direct velvet layer faint web glow";

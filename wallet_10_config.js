@@ -1,1 +1,1 @@
-var mnemonic = "very force capable space eyebrow soccer mixed rely hockey open nerve ability";
+var mnemonic = "submit wire sample family symptom vault crystal rent suggest weather decrease other";

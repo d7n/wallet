@@ -1,1 +1,1 @@
-var mnemonic = "lonely someone vital until away loud trade replace kite walnut famous palace";
+var mnemonic = "another slender taxi depart prize phone fringe gospel volcano width spread owner";

@@ -1,1 +1,1 @@
-var mnemonic = "luggage upset frost neck road dolphin ginger fit coral floor traffic airport";
+var mnemonic = "guitar dentist husband text imitate urge west digital canoe syrup company shoulder";

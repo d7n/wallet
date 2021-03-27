@@ -1,1 +1,1 @@
-var mnemonic = "photo flush range enter rib order chicken fiber save scrap glare cushion";
+var mnemonic = "excuse buzz hurt catalog tag observe atom rocket undo replace exhaust onion";

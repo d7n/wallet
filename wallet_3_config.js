@@ -1,1 +1,1 @@
-var mnemonic = "fat another dutch clump only six art crisp couple provide since loan";
+var mnemonic = "crisp sport dolphin cross domain setup river pretty squirrel nose gift exhibit";

@@ -1,1 +1,1 @@
-var mnemonic = "unable stomach member giraffe gravity hard harsh friend become wreck segment avocado";
+var mnemonic = "melody enlist cancel cousin trigger mouse believe radar art suggest duty dignity";

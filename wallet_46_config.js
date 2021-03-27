@@ -1,1 +1,1 @@
-var mnemonic = "scare dizzy comfort wrong leaf diesel power dizzy cream hotel later version";
+var mnemonic = "spider elder nephew remember spring subject like frozen dilemma logic episode smoke";

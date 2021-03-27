@@ -1,1 +1,1 @@
-var mnemonic = "blind dolphin year family kidney cook dismiss enhance frozen winner wool cycle";
+var mnemonic = "grow wasp spider alone usual rally tuition drill average soft tortoise original";

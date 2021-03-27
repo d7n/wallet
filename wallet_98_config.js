@@ -1,1 +1,1 @@
-var mnemonic = "write shop lobster delay rate industry during penalty such bicycle impose among";
+var mnemonic = "castle garage pistol brass cube about walnut double federal cry express income";

@@ -1,1 +1,1 @@
-var mnemonic = "mercy cruel thumb lazy chimney double nominee flag alien tired arrow major";
+var mnemonic = "choose section month hire pond rally sugar total better grief toward merge";

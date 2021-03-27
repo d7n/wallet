@@ -1,1 +1,1 @@
-var mnemonic = "magic mystery creek mammal panel shop diagram powder coach daughter legend move";
+var mnemonic = "vault pupil shock ceiling voyage charge egg put stay faculty differ female";

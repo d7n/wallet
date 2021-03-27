@@ -1,1 +1,1 @@
-var mnemonic = "impact put trap behave cabbage jacket vocal grocery pudding immense clip impulse";
+var mnemonic = "despair such step trumpet insane deal frown fly hair jacket smile future";

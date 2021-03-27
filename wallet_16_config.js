@@ -1,1 +1,1 @@
-var mnemonic = "wink image balance second miss uncle egg bounce verify hurt bracket mushroom";
+var mnemonic = "pave correct liquid disagree film oblige budget chest vacant electric biology garlic";

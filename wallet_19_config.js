@@ -1,1 +1,1 @@
-var mnemonic = "trade limb honey damage above neck assist color vanish cube island rookie";
+var mnemonic = "ice kitten great rifle celery dynamic wise immense warfare gentle artist fitness";

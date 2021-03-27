@@ -1,1 +1,1 @@
-var mnemonic = "follow antique throw hero learn much differ oyster strategy exhaust elevator shield";
+var mnemonic = "average dynamic absent code please add happy lake glance hazard ability major";

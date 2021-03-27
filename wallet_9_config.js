@@ -1,1 +1,1 @@
-var mnemonic = "eye song write rural setup coffee velvet have swallow gadget glory system";
+var mnemonic = "bargain feature hundred woman shaft actor lizard tent plastic stairs tip sadness";

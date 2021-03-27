@@ -1,1 +1,1 @@
-var mnemonic = "increase sick army seminar inquiry cancel raven iron sad trick human acid";
+var mnemonic = "rally almost buzz gas live confirm fine method brass suit beyond banana";

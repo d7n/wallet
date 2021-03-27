@@ -1,1 +1,1 @@
-var mnemonic = "strategy slide city please cancel visit cube analyst solar collect all street";
+var mnemonic = "copy appear phone roast express struggle album gauge pink ride deal normal";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing provide ski burden state swallow front entire slim capable flash open";
+var mnemonic = "split flip artist loud disease guess dentist strategy surface chuckle find deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "desert belt syrup civil juice cram zoo dirt food salt kind captain";
+var mnemonic = "clay monitor era canyon uphold unveil spin aim morning popular answer sure";

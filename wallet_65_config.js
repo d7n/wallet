@@ -1,1 +1,1 @@
-var mnemonic = "try pretty close follow language luggage upper segment tree alley potato history";
+var mnemonic = "spell lamp vapor process discover side myself flee excite clock arrest laugh";

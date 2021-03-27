@@ -1,1 +1,1 @@
-var mnemonic = "remind over figure notable midnight puzzle impact carbon truth gauge cover labor";
+var mnemonic = "exhibit inquiry million squirrel aspect yard cactus street shaft warfare various cruel";

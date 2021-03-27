@@ -1,1 +1,1 @@
-var mnemonic = "pass iron cube frown salute wheat wrong scan galaxy injury option civil";
+var mnemonic = "piano picture final boss deposit lake fiction fish yard pencil physical mind";

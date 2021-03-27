@@ -1,1 +1,1 @@
-var mnemonic = "process word bird diary fragile then onion rapid ready similar sick jaguar";
+var mnemonic = "shy fog oven business earth silly drum vacuum usage diet grape salon";

@@ -1,1 +1,1 @@
-var mnemonic = "plug arena cheap endless attitude mom crunch achieve churn inform bonus vehicle";
+var mnemonic = "peanut hurt broken tail child erode omit quality bus just ship advance";

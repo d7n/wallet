@@ -1,1 +1,1 @@
-var mnemonic = "tank venture tooth entry icon report another pilot lawsuit solid stadium human";
+var mnemonic = "ceiling call head cloud slender rate despair outdoor make morning huge inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "cross bracket glide village mass story boat ensure will choice try buyer";
+var mnemonic = "alter final pause book latin update cactus wash walk split hospital together";

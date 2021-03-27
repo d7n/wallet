@@ -1,1 +1,1 @@
-var mnemonic = "cube armed much eye burden tissue diagram olympic call blur weather approve";
+var mnemonic = "flat final happy used wet elegant dice kitten first goose wife away";

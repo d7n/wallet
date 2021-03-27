@@ -1,1 +1,1 @@
-var mnemonic = "spell text initial shove lady net dinosaur soda blush liar rotate tongue";
+var mnemonic = "casino tackle square vivid flash race hub grant roast citizen else must";

@@ -1,1 +1,1 @@
-var mnemonic = "hidden polar sphere later guide artist hazard bag grunt open electric annual";
+var mnemonic = "credit rival hint neglect mobile define build motor skirt milk federal eye";

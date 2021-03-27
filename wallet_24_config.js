@@ -1,1 +1,1 @@
-var mnemonic = "logic culture foot spike hawk enforce rough embody hire obtain try mail";
+var mnemonic = "wing twist cart peasant garage merry outdoor congress enter gadget believe metal";

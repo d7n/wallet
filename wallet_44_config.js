@@ -1,1 +1,1 @@
-var mnemonic = "hold april stick hobby night submit flavor ensure between wall old save";
+var mnemonic = "impact split novel push palm awake tail congress bike fiber grape spread";

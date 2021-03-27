@@ -1,1 +1,1 @@
-var mnemonic = "album lock forest lonely pottery rude among enforce video during birth identify";
+var mnemonic = "nuclear wood top choose shoot donkey identify fetch ribbon glue panic minimum";

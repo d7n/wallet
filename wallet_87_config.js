@@ -1,1 +1,1 @@
-var mnemonic = "derive help way sure ready unique remind setup churn true chat mind";
+var mnemonic = "regular stove tape anger chunk draft fatal gown oil review sound frequent";

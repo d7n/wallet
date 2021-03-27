@@ -1,1 +1,1 @@
-var mnemonic = "head castle pave story process drum normal board type fee crazy gym";
+var mnemonic = "basic true junior hero border club usual topic coil ball federal reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "cover mistake below merit critic rug bleak alpha multiply forum today island";
+var mnemonic = "truly liberty regret blind essence method basket lemon prosper vendor twelve off";

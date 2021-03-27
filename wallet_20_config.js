@@ -1,1 +1,1 @@
-var mnemonic = "field hen subway pole ball car caution notable gallery orient give only";
+var mnemonic = "together toe manage task slice spend tattoo essay vacuum clap dress predict";

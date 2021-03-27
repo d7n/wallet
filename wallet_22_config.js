@@ -1,1 +1,1 @@
-var mnemonic = "episode recipe skirt solve subject child pact angry denial symbol iron gloom";
+var mnemonic = "life door organ use slight audit daring glance duck delay olive rich";

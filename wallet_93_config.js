@@ -1,1 +1,1 @@
-var mnemonic = "that fence rebuild shield fiber hub stand elite urban insane cricket option";
+var mnemonic = "canyon dismiss surge struggle slide olive clever spot head swamp artist leader";

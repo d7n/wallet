@@ -1,1 +1,1 @@
-var mnemonic = "poet source treat one absent dog merge pattern hunt journey route math";
+var mnemonic = "chapter vacuum budget spike fan evidence obscure run clever level damp sustain";

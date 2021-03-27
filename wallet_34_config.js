@@ -1,1 +1,1 @@
-var mnemonic = "art charge person across buddy defense powder share family sauce captain island";
+var mnemonic = "stem finish school such anger match chunk gown asthma pull stock gate";

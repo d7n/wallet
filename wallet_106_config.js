@@ -1,1 +1,1 @@
-var mnemonic = "begin talent monkey smooth hand unusual toddler absurd ribbon tube portion home";
+var mnemonic = "alley click property bacon limb father ceiling shell flash senior cricket auto";

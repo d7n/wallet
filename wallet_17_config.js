@@ -1,1 +1,1 @@
-var mnemonic = "method unusual custom cricket able notable poet flower prize define rice insect";
+var mnemonic = "benefit swap clown pretty plastic area rural keep blossom spatial casino guide";

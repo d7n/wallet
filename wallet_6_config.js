@@ -1,1 +1,1 @@
-var mnemonic = "roast bunker galaxy game library bundle say domain erase certain title favorite";
+var mnemonic = "slender drink rebuild limb move page gorilla point minor ridge train enact";

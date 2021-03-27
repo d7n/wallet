@@ -1,1 +1,1 @@
-var mnemonic = "member eye devote alien addict lock faculty liquid sunset galaxy outside ride";
+var mnemonic = "obvious garage dumb fog eager grunt cupboard border robust audit smooth educate";

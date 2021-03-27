@@ -1,1 +1,1 @@
-var mnemonic = "trip expect equip afraid hotel reject dwarf despair anxiety connect wet marriage";
+var mnemonic = "that gym uphold choice enjoy february industry harsh shoe excess visual brown";

@@ -1,1 +1,1 @@
-var mnemonic = "other buyer slim scheme vehicle level provide violin core auto victory clay";
+var mnemonic = "also canal female gallery cost canvas suspect segment drip animal chest vast";

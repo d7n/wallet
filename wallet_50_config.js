@@ -1,1 +1,1 @@
-var mnemonic = "miss accuse metal wet square tiger mosquito street space eye grit veteran";
+var mnemonic = "tornado pioneer rhythm cushion bundle october minimum whip express term more raise";

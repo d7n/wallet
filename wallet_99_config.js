@@ -1,1 +1,1 @@
-var mnemonic = "churn plunge scale lawsuit inherit orphan parade moment tobacco bitter survey cherry";
+var mnemonic = "rain energy capable list sport ladder eye elephant clown artwork unit window";

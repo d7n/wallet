@@ -1,1 +1,1 @@
-var mnemonic = "gain scrub owner raven album adapt toss embody train diesel bring tonight";
+var mnemonic = "daughter goddess off license water grab cake drink pelican stomach seat apology";

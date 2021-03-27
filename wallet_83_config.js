@@ -1,1 +1,1 @@
-var mnemonic = "spice combine meat blush scene asthma romance cliff response easily ketchup sock";
+var mnemonic = "town habit dog load powder warm cargo cherry brain confirm clay hidden";

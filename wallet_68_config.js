@@ -1,1 +1,1 @@
-var mnemonic = "love deposit nuclear negative clump winter differ radio caution arctic reveal book";
+var mnemonic = "profit level pigeon noodle cricket august ethics wagon rent wall exercise wheat";

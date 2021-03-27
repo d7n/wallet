@@ -1,1 +1,1 @@
-var mnemonic = "diamond thought fragile actual shoot mule dice drive milk sadness sphere radar";
+var mnemonic = "hub entry since faint three arm piano educate bus plastic loan maid";

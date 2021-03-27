@@ -1,1 +1,1 @@
-var mnemonic = "wrap unlock cost unhappy coral hello under defense message soap chaos mistake";
+var mnemonic = "impose crystal paper night clap prepare mirror erosion aerobic rubber soul door";

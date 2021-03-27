@@ -1,1 +1,1 @@
-var mnemonic = "demise crush exercise virus message crumble soul total lazy argue girl giant";
+var mnemonic = "angle left minimum wisdom orbit second drive kit found fabric ring wreck";

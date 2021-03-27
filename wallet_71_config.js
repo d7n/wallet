@@ -1,1 +1,1 @@
-var mnemonic = "cute hollow sunset worth crisp bubble pony walnut rescue creek gift penalty";
+var mnemonic = "country mom century disease client bottom skate matrix raccoon dragon leader castle";

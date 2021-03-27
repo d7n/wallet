@@ -1,1 +1,1 @@
-var mnemonic = "below dash beauty coral logic risk faith lion celery helmet tool arch";
+var mnemonic = "renew bar select spell cash visual push cigar satisfy inhale pigeon bright";

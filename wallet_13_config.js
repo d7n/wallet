@@ -1,1 +1,1 @@
-var mnemonic = "shuffle spike flavor tackle cherry science shield myth exit wise kick anxiety";
+var mnemonic = "chair one renew trust parade talent together tooth daughter verify engine theme";

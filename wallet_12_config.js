@@ -1,1 +1,1 @@
-var mnemonic = "define fever kid nice gesture digital start universe raven breeze old jaguar";
+var mnemonic = "elbow original various kiss pottery bundle wing float regret guitar industry couple";

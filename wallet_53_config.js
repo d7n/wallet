@@ -1,1 +1,1 @@
-var mnemonic = "junior way scissors obtain list science fly retreat hundred endless sleep staff";
+var mnemonic = "tip across claim cluster neither soup sort program adjust valid machine mom";

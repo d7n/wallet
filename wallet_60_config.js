@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog return usual child copy raven quantum clinic clown never indoor school";
+var mnemonic = "dirt dog accuse want oblige region butter cash scissors guess arrive march";

@@ -1,1 +1,1 @@
-var mnemonic = "child bicycle prison noble glove unfair bike hello depth tide focus coast";
+var mnemonic = "bleak often choose border bridge deal promote acoustic fee mercy diet width";

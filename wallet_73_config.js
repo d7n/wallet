@@ -1,1 +1,1 @@
-var mnemonic = "exile tennis stereo mouse spirit female invite lend leaf hood process angry";
+var mnemonic = "blind obvious govern wire deny immune treat amount ripple cage jungle farm";

@@ -1,1 +1,1 @@
-var mnemonic = "able explain despair manual same evidence paddle sugar skin occur three parade";
+var mnemonic = "aunt caution edge sure post auction pitch radio trigger benefit segment spread";

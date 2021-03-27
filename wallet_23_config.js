@@ -1,1 +1,1 @@
-var mnemonic = "gap around expect bottom machine point fix toe hammer rural category laugh";
+var mnemonic = "paper weekend bid seed much arctic post art armed future churn echo";

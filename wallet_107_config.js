@@ -1,1 +1,1 @@
-var mnemonic = "length talk sustain half year isolate morning sense fall twelve buddy sail";
+var mnemonic = "garbage clean honey fresh trim grace wealth knife cheese snap course shell";

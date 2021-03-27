@@ -1,1 +1,1 @@
-var mnemonic = "early desk fashion height claim essay pride vote raise nephew task perfect";
+var mnemonic = "glue shed despair shy gown climb response excite blast increase property adapt";

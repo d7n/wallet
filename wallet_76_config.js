@@ -1,1 +1,1 @@
-var mnemonic = "decrease shift estate knock much flower box sun rude shadow tenant ticket";
+var mnemonic = "cabin group used transfer wear betray opera price tail main dismiss sock";

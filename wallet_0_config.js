@@ -1,1 +1,1 @@
-var mnemonic = "isolate glass code pledge food minute gift two exist have empower wink";
+var mnemonic = "despair basket control sorry vast baby genius float diary noodle faculty crop";

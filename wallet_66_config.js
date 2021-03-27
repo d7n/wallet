@@ -1,1 +1,1 @@
-var mnemonic = "gym apart unfair project firm unusual century carpet rely garment brave jacket";
+var mnemonic = "junk jazz magic shiver child ramp inhale carpet leg correct west relief";

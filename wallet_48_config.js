@@ -1,1 +1,1 @@
-var mnemonic = "safe pretty region disagree odor number lift worth tiny royal lounge flag";
+var mnemonic = "journey order easily armor write mandate reveal kangaroo control call team sheriff";

@@ -1,1 +1,1 @@
-var mnemonic = "goat echo story between link hand scissors permit hybrid cycle candy february";
+var mnemonic = "correct flush search wheel series utility below oil bright drive talent winner";

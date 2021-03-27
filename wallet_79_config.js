@@ -1,1 +1,1 @@
-var mnemonic = "alone unfold question stamp term napkin blanket mouse extend popular pitch stage";
+var mnemonic = "mention style roof ready crouch season list live host seminar picture tape";

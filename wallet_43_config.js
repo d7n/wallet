@@ -1,1 +1,1 @@
-var mnemonic = "marriage riot bleak rice question sad summer endorse glow resource celery violin";
+var mnemonic = "stomach erase goddess salmon fold bunker human tooth very topic proud ozone";

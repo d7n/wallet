@@ -1,1 +1,1 @@
-var mnemonic = "coil total job group swamp badge world sun split net smart wrap";
+var mnemonic = "woman begin crime broken insane now news news dose weird pumpkin ripple";

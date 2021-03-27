@@ -1,1 +1,1 @@
-var mnemonic = "shrimp zebra begin water noise invest brief powder borrow coral disagree require";
+var mnemonic = "crisp label reopen output rapid boring fall winter soon noodle spice mail";

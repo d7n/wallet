@@ -1,1 +1,1 @@
-var mnemonic = "scan labor movie perfect side twin diary shadow embark breeze uphold page";
+var mnemonic = "sting mistake end author another raw true cliff pact father wide canvas";

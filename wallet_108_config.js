@@ -1,1 +1,1 @@
-var mnemonic = "gift float unusual fiscal distance hockey entire legend useful camp noble firm";
+var mnemonic = "comic gift exotic fuel humble ensure among amount anger ethics crew dose";
