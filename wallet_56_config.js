@@ -1,1 +1,1 @@
-var mnemonic = "magic annual rotate swim tackle grace blur expose vintage grit present divert";
+var mnemonic = "vote modify track antenna ladder poet mixed weasel auction nasty peanut wish";

@@ -1,1 +1,1 @@
-var mnemonic = "pole drip cherry trust step firm math peanut state permit degree transfer";
+var mnemonic = "decline before piece fox ecology burst enjoy velvet journey girl bomb lonely";

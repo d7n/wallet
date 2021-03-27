@@ -1,1 +1,1 @@
-var mnemonic = "reunion denial fire fix correct minute cage forest gesture among tag pig";
+var mnemonic = "hurt know diary nasty moral urban rent tissue slender defy husband adult";

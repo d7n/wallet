@@ -1,1 +1,1 @@
-var mnemonic = "entry material crack recycle into tired coconut point album say candy soap";
+var mnemonic = "phone trouble hand cream churn dentist horror ticket brass boost behave skirt";

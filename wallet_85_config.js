@@ -1,1 +1,1 @@
-var mnemonic = "furnace soul glass month prison play lumber unlock response power arrive fly";
+var mnemonic = "midnight know very grass range brass endless alter rocket puzzle thunder column";

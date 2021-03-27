@@ -1,1 +1,1 @@
-var mnemonic = "trick armor fame liquid test vote bundle relief involve truly swap napkin";
+var mnemonic = "monkey alert auto silly humor bottom iron roast bitter music squeeze run";

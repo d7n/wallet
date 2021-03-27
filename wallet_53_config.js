@@ -1,1 +1,1 @@
-var mnemonic = "half beef fortune action enjoy humor prepare output doctor avoid elbow holiday";
+var mnemonic = "morning coach depth cushion weather want snap flash van glad upper mango";

@@ -1,1 +1,1 @@
-var mnemonic = "clever cover plastic mango ball also face grain viable despair jazz police";
+var mnemonic = "cluster one enlist mixture keep just skill offer silent jewel easy pen";

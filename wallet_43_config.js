@@ -1,1 +1,1 @@
-var mnemonic = "huge kangaroo fault tower park seek loud purpose unit crime child evoke";
+var mnemonic = "peasant borrow aerobic accuse invest snap strategy accuse damp double draft develop";

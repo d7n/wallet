@@ -1,1 +1,1 @@
-var mnemonic = "luggage slide shrimp glass copy transfer icon secret okay width high furnace";
+var mnemonic = "wisdom crowd exchange hidden whisper spider enlist bulb dwarf pear earn gloom";

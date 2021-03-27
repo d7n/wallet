@@ -1,1 +1,1 @@
-var mnemonic = "canvas resource cause muffin nuclear exercise want permit voice wrestle alarm dove";
+var mnemonic = "neck sound guitar donkey boat illness foam civil tube promote awful muffin";

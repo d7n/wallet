@@ -1,1 +1,1 @@
-var mnemonic = "bomb ring table example rival prefer pledge spatial wish flame push radar";
+var mnemonic = "toward mountain skirt heart team cancel bronze wise forest aisle ankle zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "census legal enough gain rice trouble wedding warrior genre search zone believe";
+var mnemonic = "mosquito lady cruise turn also lava glare crumble sea pulse gym consider";

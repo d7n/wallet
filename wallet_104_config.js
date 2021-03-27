@@ -1,1 +1,1 @@
-var mnemonic = "entry sponsor hour leopard wild gentle tragic marine student grant brass plate";
+var mnemonic = "position agent atom shield retire person panther opinion able witness delay birth";

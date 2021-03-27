@@ -1,1 +1,1 @@
-var mnemonic = "wreck consider explain random disorder wrist fat fan report drift assault pole";
+var mnemonic = "cable pave impulse phone frozen sadness speak remember room stove chest thing";

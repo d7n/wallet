@@ -1,1 +1,1 @@
-var mnemonic = "alcohol bid key delay symbol remain drink sustain night clutch donor cave";
+var mnemonic = "captain denial scatter family original imitate swing approve edit vocal good wire";

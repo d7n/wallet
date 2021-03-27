@@ -1,1 +1,1 @@
-var mnemonic = "plunge total stumble achieve angry situate frequent dog opera marble night position";
+var mnemonic = "chief green stadium eager harsh visit unique vendor false inside oppose earth";

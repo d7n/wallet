@@ -1,1 +1,1 @@
-var mnemonic = "kind oblige embark immense install hotel near verb wrestle portion start old";
+var mnemonic = "park liberty result away stage pass learn fortune fringe census voyage junk";

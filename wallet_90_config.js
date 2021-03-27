@@ -1,1 +1,1 @@
-var mnemonic = "boring harbor balcony oval avoid begin hidden taste fortune endless width olive";
+var mnemonic = "adult possible satisfy medal sunset vacant prosper pull bounce salmon crane abstract";

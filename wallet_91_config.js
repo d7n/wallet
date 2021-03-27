@@ -1,1 +1,1 @@
-var mnemonic = "gasp blame column empty stairs help snake tree caught brother tornado law";
+var mnemonic = "first rain autumn custom borrow come lens describe final melody major chaos";

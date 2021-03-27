@@ -1,1 +1,1 @@
-var mnemonic = "load obtain patrol wish daring scrub weasel obtain vacuum fly segment aware";
+var mnemonic = "blossom question gloom buyer airport phone hero material vivid detail slight club";

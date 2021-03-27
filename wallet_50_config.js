@@ -1,1 +1,1 @@
-var mnemonic = "permit sing garbage client oval special buyer bean limit economy giant common";
+var mnemonic = "assault depth conduct mammal cinnamon spell peace stairs raw viable seven scatter";

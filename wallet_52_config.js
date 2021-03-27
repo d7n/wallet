@@ -1,1 +1,1 @@
-var mnemonic = "lottery such lecture input purchase pitch upper title torch combine sock ethics";
+var mnemonic = "tooth good minute head category thought remove unaware reject album giggle owner";

@@ -1,1 +1,1 @@
-var mnemonic = "sustain expire wait foam sponsor sheriff bone creek priority receive surprise enemy";
+var mnemonic = "rally patient antique occur increase torch absorb eye carbon pizza melody recipe";

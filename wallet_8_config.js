@@ -1,1 +1,1 @@
-var mnemonic = "absent wide hurt during school conduct benefit toilet lottery net method whip";
+var mnemonic = "animal unique dentist letter fall hat vanish punch curious student muscle smoke";

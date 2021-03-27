@@ -1,1 +1,1 @@
-var mnemonic = "twin point luxury screen language theme senior setup smart slow physical wine";
+var mnemonic = "visa logic aware ahead link celery expect degree wedding small alert scissors";

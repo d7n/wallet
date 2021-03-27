@@ -1,1 +1,1 @@
-var mnemonic = "try cloud adjust stable gadget play similar forget actress wire tank spend";
+var mnemonic = "odor neither pipe quantum month tenant vacant news average model alarm panda";

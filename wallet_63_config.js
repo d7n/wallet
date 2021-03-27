@@ -1,1 +1,1 @@
-var mnemonic = "begin napkin armed owner pencil mandate lecture nerve purpose jacket effort motion";
+var mnemonic = "hire enlist already cart reason inquiry genre walnut toddler favorite faith gallery";

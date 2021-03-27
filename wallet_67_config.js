@@ -1,1 +1,1 @@
-var mnemonic = "clean beyond truly someone various undo shaft joke slight icon quick soup";
+var mnemonic = "nerve clinic swallow accident long bacon add certain panel gesture scorpion crucial";

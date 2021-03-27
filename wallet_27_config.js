@@ -1,1 +1,1 @@
-var mnemonic = "destroy garment awake drastic tube imitate deliver motor lunch run language brief";
+var mnemonic = "soccer knee name game maximum similar section arrow equal dance park toe";

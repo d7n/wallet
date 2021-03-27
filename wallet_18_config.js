@@ -1,1 +1,1 @@
-var mnemonic = "hybrid symbol mercy dust symbol lonely two road dress girl oval diary";
+var mnemonic = "sword spare circle skate twenty occur scrap miracle brown bulb zoo vendor";

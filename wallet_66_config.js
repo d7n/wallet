@@ -1,1 +1,1 @@
-var mnemonic = "quantum cube virus piece subject release member mammal layer hello latin admit";
+var mnemonic = "alien nose oxygen broccoli visual jump hobby dose sing sketch warm rigid";

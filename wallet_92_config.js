@@ -1,1 +1,1 @@
-var mnemonic = "flavor frequent patrol pill achieve ancient oak parade nest depend employ diesel";
+var mnemonic = "team flat trim vault obscure night gentle limit coast more report cable";

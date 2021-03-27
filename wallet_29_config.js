@@ -1,1 +1,1 @@
-var mnemonic = "unit medal mixed ocean wall must burst alley december earn captain pool";
+var mnemonic = "finish glove abuse light legend client screen awful agree bid hint sugar";

@@ -1,1 +1,1 @@
-var mnemonic = "annual secret marble ugly eight ill hub powder distance basket vocal crack";
+var mnemonic = "script unfold order chunk crew belt spawn wasp plug trumpet mobile keep";

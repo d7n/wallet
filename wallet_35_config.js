@@ -1,1 +1,1 @@
-var mnemonic = "useless retire gift secret paddle sister tortoise reunion uphold great gift panda";
+var mnemonic = "page city genuine clinic behind only curious alley diesel believe genre shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "lift couple verb summer impulse cool bag educate busy cactus ask special";
+var mnemonic = "curtain cattle odor december floor mesh park drift demand chef unknown bone";

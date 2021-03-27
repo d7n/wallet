@@ -1,1 +1,1 @@
-var mnemonic = "parrot guide vault summer move often debris decrease fish pioneer brief doctor";
+var mnemonic = "output warfare crop neglect aerobic dismiss actor pave pulp family wrist hobby";

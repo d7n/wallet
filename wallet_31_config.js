@@ -1,1 +1,1 @@
-var mnemonic = "cash lunar bike guess cupboard arctic seven indicate long achieve favorite walk";
+var mnemonic = "bike pitch day spin wide captain retreat legend firm cabin lucky advice";

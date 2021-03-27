@@ -1,1 +1,1 @@
-var mnemonic = "aerobic senior novel opinion task swift image prison street poet arm escape";
+var mnemonic = "solid example alien food assume wisdom income card habit diagram treat wrist";

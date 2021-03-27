@@ -1,1 +1,1 @@
-var mnemonic = "father fog blood side trash license loyal prepare area motion melt leisure";
+var mnemonic = "capital frame add apart final muffin cereal vacuum flock fortune coast kit";

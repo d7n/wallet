@@ -1,1 +1,1 @@
-var mnemonic = "junk joke lend flip pet enlist spy theme stamp pen tip kitchen";
+var mnemonic = "shrimp radio patrol raven thrive normal board core pigeon never poem stem";

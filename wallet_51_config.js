@@ -1,1 +1,1 @@
-var mnemonic = "observe enjoy mixed front hold refuse faith unable imitate word they pluck";
+var mnemonic = "cereal slush bulk rapid labor victory tide ill old west cable frown";

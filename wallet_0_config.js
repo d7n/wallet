@@ -1,1 +1,1 @@
-var mnemonic = "system baby ribbon gate photo goose bar essence resemble forward bottom athlete";
+var mnemonic = "potato marine swift anger plunge keen enter nation oyster little weird plug";

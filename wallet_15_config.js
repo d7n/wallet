@@ -1,1 +1,1 @@
-var mnemonic = "drastic verify organ cycle metal memory pink obscure vintage jaguar private inspire";
+var mnemonic = "city sudden ten must sock candy express trap remain onion century tomorrow";

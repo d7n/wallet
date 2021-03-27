@@ -1,1 +1,1 @@
-var mnemonic = "infant shy detect hammer unique ridge act lemon wish cat flee island";
+var mnemonic = "naive coconut company option prepare silk pattern mobile drop milk vocal injury";

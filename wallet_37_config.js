@@ -1,1 +1,1 @@
-var mnemonic = "general turn genuine document arena scatter stomach innocent flat home pride settle";
+var mnemonic = "income donor frog walnut february sketch faculty mercy uncover tattoo upon minimum";

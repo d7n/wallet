@@ -1,1 +1,1 @@
-var mnemonic = "plug ivory sight that basic fresh deliver mirror strategy spy blush dad";
+var mnemonic = "segment fiscal appear music demise unfair rapid doctor bacon satisfy cool mammal";

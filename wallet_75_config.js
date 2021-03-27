@@ -1,1 +1,1 @@
-var mnemonic = "employ bridge sword smile cook trip mango safe awful tray myth unit";
+var mnemonic = "gown mountain tray stable cube elite time lemon stuff witness beyond client";

@@ -1,1 +1,1 @@
-var mnemonic = "come roof unaware twin network alone bacon scorpion eight punch caution link";
+var mnemonic = "steak pepper jeans joke proof vibrant sweet sail brave theme elevator lava";

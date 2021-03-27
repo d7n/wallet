@@ -1,1 +1,1 @@
-var mnemonic = "truth midnight better brand october vivid wreck glue sad fiber foot divert";
+var mnemonic = "unveil drip provide circle arena guilt couch home embrace donkey life abstract";

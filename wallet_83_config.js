@@ -1,1 +1,1 @@
-var mnemonic = "shrug charge cage retire spread enjoy alter weird guide curve spice surface";
+var mnemonic = "bamboo soul until like palace friend food rare smart tide monster primary";

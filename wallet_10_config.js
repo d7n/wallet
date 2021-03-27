@@ -1,1 +1,1 @@
-var mnemonic = "sign drum juice opinion require kick sketch cluster chat purchase laptop ill";
+var mnemonic = "airport prevent oval buyer account boat fade universe struggle stamp antenna begin";

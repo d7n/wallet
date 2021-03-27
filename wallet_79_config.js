@@ -1,1 +1,1 @@
-var mnemonic = "curious box ginger elbow network analyst gallery spoon twin parade surface popular";
+var mnemonic = "joy piece brand power wire tortoise daring dilemma pupil candy smart brain";

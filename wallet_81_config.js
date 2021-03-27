@@ -1,1 +1,1 @@
-var mnemonic = "excite own curtain mutual fee devote cloud razor design neglect toss lyrics";
+var mnemonic = "script together tribe planet attitude over riot time raven mother grace fatigue";

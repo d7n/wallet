@@ -1,1 +1,1 @@
-var mnemonic = "pelican deer define banana now romance expose impulse talent major exit rural";
+var mnemonic = "need axis fatigue actor chicken boss genre off picture tag winner mystery";

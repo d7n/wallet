@@ -1,1 +1,1 @@
-var mnemonic = "behind robot physical hurry flower spirit cool ceiling party trip board must";
+var mnemonic = "gravity retreat quality occur shallow hair honey coin group wage matrix truly";

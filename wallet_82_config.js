@@ -1,1 +1,1 @@
-var mnemonic = "spike element crush sea text swear few buyer ramp burger replace domain";
+var mnemonic = "stock pupil loyal wine nominee beyond cricket stay scrub lawsuit alpha ostrich";

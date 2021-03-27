@@ -1,1 +1,1 @@
-var mnemonic = "pool require narrow section tortoise another mouse library pulp furnace scrub pen";
+var mnemonic = "expand drip speed bid guide right prison funny grief bench echo throw";

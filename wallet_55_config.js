@@ -1,1 +1,1 @@
-var mnemonic = "vehicle put notable guilt party derive giggle august rough cart bunker bird";
+var mnemonic = "roof base gossip mammal level million step tent live attend clay crater";

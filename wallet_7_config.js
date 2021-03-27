@@ -1,1 +1,1 @@
-var mnemonic = "current charge tourist fruit foam scare immune cart endorse image credit pond";
+var mnemonic = "just room common coyote safe hope display clinic hurdle embody shoulder flash";

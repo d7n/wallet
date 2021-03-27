@@ -1,1 +1,1 @@
-var mnemonic = "impact axis rose left gravity silver monitor insane skill arrive now awkward";
+var mnemonic = "luxury city stay siege real shoe fee observe guide shift poet library";

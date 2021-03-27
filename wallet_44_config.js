@@ -1,1 +1,1 @@
-var mnemonic = "clay captain exchange sadness crawl jar body fragile vibrant vanish caution alcohol";
+var mnemonic = "wisdom ship hard finish warm print fog pepper unknown dumb tooth comic";

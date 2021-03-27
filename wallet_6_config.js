@@ -1,1 +1,1 @@
-var mnemonic = "wrap tornado trade october jar panda load organ cattle pool abandon average";
+var mnemonic = "weekend peasant athlete marriage planet bean remove salad legal strike solar hunt";

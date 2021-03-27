@@ -1,1 +1,1 @@
-var mnemonic = "agent rain globe prize demand kiss salt flush immune nerve cook snake";
+var mnemonic = "same invite relief double other inflict fun caution all never fragile ostrich";

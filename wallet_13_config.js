@@ -1,1 +1,1 @@
-var mnemonic = "media call second crystal rifle crouch exit radar grab will soap liberty";
+var mnemonic = "noise shift cause hair tunnel tattoo lottery law weather spatial neck about";

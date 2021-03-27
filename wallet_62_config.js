@@ -1,1 +1,1 @@
-var mnemonic = "bulk deposit equal depart canyon topple correct off toy wasp rebel power";
+var mnemonic = "truly kiss wrong sound fortune crane mobile galaxy letter notice message bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "myth render cricket belt truth sorry mercy pulp few wear nothing orient";
+var mnemonic = "scare ladder lazy stock web hungry cradle blossom fancy just battle trigger";

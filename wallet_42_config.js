@@ -1,1 +1,1 @@
-var mnemonic = "spike base legal option thumb define broom pen secret main park cube";
+var mnemonic = "deposit convince card pulse simple hover october chest wine hidden release rural";

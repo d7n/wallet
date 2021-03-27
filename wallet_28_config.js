@@ -1,1 +1,1 @@
-var mnemonic = "zoo pill brief swamp birth edge busy change upon describe odor enforce";
+var mnemonic = "senior actress divorce shell student junior slice print cheese champion ski stuff";

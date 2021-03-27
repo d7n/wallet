@@ -1,1 +1,1 @@
-var mnemonic = "promote reflect scrub tiny nothing busy typical domain shiver century prevent ignore";
+var mnemonic = "truly venue arctic immune below erupt civil weekend steel film author supreme";

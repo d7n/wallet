@@ -1,1 +1,1 @@
-var mnemonic = "wild salute security amateur gauge kitchen antique direct remind cry expect census";
+var mnemonic = "sample edge rigid memory try easily naive special mammal lend island profit";

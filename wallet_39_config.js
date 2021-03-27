@@ -1,1 +1,1 @@
-var mnemonic = "toddler now true shove lucky stick just flash stick vital token feature";
+var mnemonic = "credit discover defense suspect grace erase wreck express detect tool record rebuild";

@@ -1,1 +1,1 @@
-var mnemonic = "donate anger deal chunk debris possible cattle remind dragon upset heavy virus";
+var mnemonic = "police blast spring ranch click excuse thunder rough scrub miracle debate filter";

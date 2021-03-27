@@ -1,1 +1,1 @@
-var mnemonic = "action entry zebra seat power viable leave mule air spatial any plastic";
+var mnemonic = "damage video opera detect avocado point laptop wife sting august salt citizen";

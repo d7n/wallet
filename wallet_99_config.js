@@ -1,1 +1,1 @@
-var mnemonic = "dish shrug tortoise torch spider drip flag olympic slow essence social much";
+var mnemonic = "tornado access pear carbon zebra push width snap index fence tuition syrup";

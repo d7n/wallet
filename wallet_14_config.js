@@ -1,1 +1,1 @@
-var mnemonic = "maximum hollow genuine rural key lizard elbow drop prevent just captain lemon";
+var mnemonic = "kick series click enlist donkey blast brother find skirt motion until prevent";

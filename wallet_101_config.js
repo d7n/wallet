@@ -1,1 +1,1 @@
-var mnemonic = "envelope fame initial speak speak erosion cherry any motion chuckle rigid then";
+var mnemonic = "replace ghost muscle satisfy butter melody sing jungle renew fabric luggage quality";

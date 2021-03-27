@@ -1,1 +1,1 @@
-var mnemonic = "real swamp barely lab border thought oak book census laugh merry road";
+var mnemonic = "surge smooth oil exist cinnamon mirror one question wealth prefer hope chicken";

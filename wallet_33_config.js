@@ -1,1 +1,1 @@
-var mnemonic = "tennis board price candy taxi purity flag curve inherit doctor amazing modify";
+var mnemonic = "pause height meat usual primary matter pottery donor bracket nerve spoil asset";

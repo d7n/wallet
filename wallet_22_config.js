@@ -1,1 +1,1 @@
-var mnemonic = "say match federal outside sail neutral daring noble deer person jaguar apple";
+var mnemonic = "small rug course profit trap change nice turn twenty forest room egg";

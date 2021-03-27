@@ -1,1 +1,1 @@
-var mnemonic = "shock fever hen reunion melody mass hard buyer doctor humble bunker peanut";
+var mnemonic = "traffic high loyal box must mercy crisp attack indoor salt artefact firm";

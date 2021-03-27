@@ -1,1 +1,1 @@
-var mnemonic = "deal jealous fortune upgrade input float fat session hint evil poverty fence";
+var mnemonic = "trick sense glare muscle cream spend mobile equal fork client curve slender";

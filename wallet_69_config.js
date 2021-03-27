@@ -1,1 +1,1 @@
-var mnemonic = "dynamic pave napkin clarify spoil water olive pelican injury canvas panda spider";
+var mnemonic = "install diary detail neither priority tuition road turkey document fee gadget elite";

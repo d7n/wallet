@@ -1,1 +1,1 @@
-var mnemonic = "work certain boat benefit shell chase guitar horn hungry fancy swamp special";
+var mnemonic = "text keep safe velvet chief menu panda impulse essence mother similar dress";

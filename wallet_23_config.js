@@ -1,1 +1,1 @@
-var mnemonic = "annual surface clog effort salmon trial twice three finish tower blur cloud";
+var mnemonic = "pair child indoor long cheese walnut lunar sure injury staff festival kit";

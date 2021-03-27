@@ -1,1 +1,1 @@
-var mnemonic = "add scissors toss large pact horse just vault admit more snake dove";
+var mnemonic = "reflect air blouse marble whisper will picnic cube ozone argue bike actor";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos butter anxiety magnet forget clap frame paper forget appear since miracle";
+var mnemonic = "clip talk disagree picnic galaxy outer entire harsh grunt virus black educate";

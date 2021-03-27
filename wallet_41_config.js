@@ -1,1 +1,1 @@
-var mnemonic = "jealous taxi tomato sauce cloth common vanish border small border enough spawn";
+var mnemonic = "motion display fringe guess drive wreck chapter staff direct wink harsh measure";

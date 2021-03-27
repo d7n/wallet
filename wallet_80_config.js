@@ -1,1 +1,1 @@
-var mnemonic = "rocket climb snap twenty afraid morning between joy behind mutual express impose";
+var mnemonic = "army shell stock ankle fossil way disorder text radar load dilemma nuclear";

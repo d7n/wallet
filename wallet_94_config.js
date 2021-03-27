@@ -1,1 +1,1 @@
-var mnemonic = "dumb oxygen upper office unhappy ankle pole unaware invest depart wide soul";
+var mnemonic = "gas minor kit resemble wall tackle call core idea pole crawl sheriff";
