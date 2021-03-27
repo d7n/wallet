@@ -1,1 +1,1 @@
-var mnemonic = "skin roast dolphin hood empower clean ice maze dumb settle work mouse";
+var mnemonic = "dance roast rabbit kangaroo rain height deny maid pencil endless galaxy follow";

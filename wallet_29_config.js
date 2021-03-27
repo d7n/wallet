@@ -1,1 +1,1 @@
-var mnemonic = "large faint bubble addict digital brush actual vacuum casual tonight beyond fat";
+var mnemonic = "crane pitch shrug purchase chat arrive orbit giant tortoise prosper hollow kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome letter soap march face blade inspire lens off merit occur trip";
+var mnemonic = "bar badge neck maple minor color begin original evil gold vital armed";

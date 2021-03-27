@@ -1,1 +1,1 @@
-var mnemonic = "off history derive tray roof close stick popular text approve only movie";
+var mnemonic = "card hungry panic flee barrel midnight decline candy useful right embark jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "focus object situate exercise envelope radar degree wedding fog hurt paper quarter";
+var mnemonic = "citizen melody exhibit gold move until stock outer armor subway piano such";

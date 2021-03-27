@@ -1,1 +1,1 @@
-var mnemonic = "width minimum boil shed exotic agent between canvas sauce consider attend peace";
+var mnemonic = "balance carbon mule choice creek abandon cigar dry worth best already tobacco";

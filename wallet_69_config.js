@@ -1,1 +1,1 @@
-var mnemonic = "property filter example humble original walk own nothing design oxygen chicken bomb";
+var mnemonic = "ecology indoor quiz insane memory bunker tired host giggle soda milk cube";

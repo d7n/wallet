@@ -1,1 +1,1 @@
-var mnemonic = "wrist assault either space layer check walk high novel erosion palace nature";
+var mnemonic = "net wing aisle enrich suspect chaos scheme oval next powder grant multiply";

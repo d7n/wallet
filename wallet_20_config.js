@@ -1,1 +1,1 @@
-var mnemonic = "limb silver decorate decline orange clog manage neglect type tool vanish food";
+var mnemonic = "bunker afraid success february door whisper awake pair illness brief promote airport";

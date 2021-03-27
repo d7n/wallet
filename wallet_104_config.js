@@ -1,1 +1,1 @@
-var mnemonic = "broken invite ride oyster glad property finish satoshi age during balcony upset";
+var mnemonic = "sustain bus vintage uniform bulk wreck police vivid round level trigger voice";

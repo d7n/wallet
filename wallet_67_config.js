@@ -1,1 +1,1 @@
-var mnemonic = "rare ten bargain control ice still expire limit tennis plug absorb pluck";
+var mnemonic = "give purchase above furnace insect music insane bubble apart hotel negative invest";

@@ -1,1 +1,1 @@
-var mnemonic = "tumble matrix captain budget smoke glow horse camera answer album position shiver";
+var mnemonic = "cactus squirrel diary journey design intact pluck ask conduct cabin indoor order";

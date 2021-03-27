@@ -1,1 +1,1 @@
-var mnemonic = "become guess neutral pause crater around loan mom call lamp permit cloth";
+var mnemonic = "amount remove public brother response depth unveil hover pill paper quote pill";

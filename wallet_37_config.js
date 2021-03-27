@@ -1,1 +1,1 @@
-var mnemonic = "section area disorder black expect stereo resist mutual aerobic odor master real";
+var mnemonic = "concert brush album valley enhance disease panel fetch palm action vendor grape";

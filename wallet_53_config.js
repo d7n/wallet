@@ -1,1 +1,1 @@
-var mnemonic = "super kite joy hen country any damp account theory hub main involve";
+var mnemonic = "split royal mouse legal act have argue carbon sound sail march yellow";

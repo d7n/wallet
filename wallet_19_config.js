@@ -1,1 +1,1 @@
-var mnemonic = "super gadget fatal equal belt smart game culture east quote abstract essence";
+var mnemonic = "point flash upper knee produce infant drastic subway into marriage barrel toss";

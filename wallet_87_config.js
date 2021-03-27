@@ -1,1 +1,1 @@
-var mnemonic = "key kind unusual keep cliff notable token salon save drink rail food";
+var mnemonic = "olive nature parrot protect mountain unusual replace valve correct practice leg clean";

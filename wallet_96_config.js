@@ -1,1 +1,1 @@
-var mnemonic = "blur poverty other siren share plate wasp boring unlock grab bind humble";
+var mnemonic = "borrow music relax design film light coconut inject cabin lounge luggage diamond";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy merge gun cat team pelican gold swarm enemy coin actor giraffe";
+var mnemonic = "prevent segment fetch surface south husband pole flock exist fever seek also";

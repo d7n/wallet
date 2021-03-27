@@ -1,1 +1,1 @@
-var mnemonic = "confirm huge patient member title vague segment utility diamond leader depend tissue";
+var mnemonic = "panda gather maid nothing calm hamster try winner suit mammal great dolphin";

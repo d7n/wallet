@@ -1,1 +1,1 @@
-var mnemonic = "speed screen system budget flight muffin output steak announce cousin hungry gym";
+var mnemonic = "blue cart grit lab clutch thumb recall embark repeat rib erase october";

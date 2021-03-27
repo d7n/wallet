@@ -1,1 +1,1 @@
-var mnemonic = "clump pilot journey mask limb logic rib grace mask season person detail";
+var mnemonic = "canvas impact audit fantasy rural category dinosaur bronze ozone taste farm latin";

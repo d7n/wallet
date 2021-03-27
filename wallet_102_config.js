@@ -1,1 +1,1 @@
-var mnemonic = "salon lecture chuckle diet alcohol mixed strategy salmon disagree clog lift interest";
+var mnemonic = "famous dad monitor online six weird shove detail glimpse march point distance";

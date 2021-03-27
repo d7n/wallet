@@ -1,1 +1,1 @@
-var mnemonic = "task father whip message captain amount stock round avoid nurse leopard oblige";
+var mnemonic = "lemon damage echo assume sail into box current blood solid rely bid";

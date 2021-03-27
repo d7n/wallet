@@ -1,1 +1,1 @@
-var mnemonic = "valley depth matrix flock title load double romance club apart nothing elder";
+var mnemonic = "crop name acid rain hole tragic match expose alcohol planet business artist";

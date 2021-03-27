@@ -1,1 +1,1 @@
-var mnemonic = "input apart garage use strike plug tuition hub resemble buyer combine twist";
+var mnemonic = "honey thought orchard resemble bleak buddy social flee rival enter claw cram";

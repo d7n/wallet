@@ -1,1 +1,1 @@
-var mnemonic = "ghost steel daring fee rice suspect segment bike tonight divorce pulp law";
+var mnemonic = "detail scrap leader doctor alien liar grunt innocent parent evil fetch energy";

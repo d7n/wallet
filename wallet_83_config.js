@@ -1,1 +1,1 @@
-var mnemonic = "cake tent better soon face future permit destroy prosper also quick color";
+var mnemonic = "post multiply answer safe fruit random size cube damage hello winner moral";

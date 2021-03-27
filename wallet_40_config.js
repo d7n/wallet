@@ -1,1 +1,1 @@
-var mnemonic = "talent easy planet faculty time aim icon depend canyon comic leader office";
+var mnemonic = "urban grief pride wage document awkward forget slab song door course width";

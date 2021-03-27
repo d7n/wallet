@@ -1,1 +1,1 @@
-var mnemonic = "detect bind scorpion avoid observe original staff shaft call proud canvas jacket";
+var mnemonic = "club umbrella subject virtual few give inside warm east uniform casino refuse";

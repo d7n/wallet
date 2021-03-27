@@ -1,1 +1,1 @@
-var mnemonic = "into recipe program window estate vacuum replace roast over loan ramp kitchen";
+var mnemonic = "own tail pen mouse sadness chunk purchase inner swamp about mistake summer";

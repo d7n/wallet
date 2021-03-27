@@ -1,1 +1,1 @@
-var mnemonic = "renew labor estate kitchen bitter grid gloom much debate report average summer";
+var mnemonic = "tower journey hub mechanic cereal cinnamon brave ghost tell desk stool worry";

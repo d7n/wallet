@@ -1,1 +1,1 @@
-var mnemonic = "use ship stay alley potato shrimp worth arrive renew priority strike tunnel";
+var mnemonic = "dragon soul major assist deputy cruise strike face wait source trial duty";

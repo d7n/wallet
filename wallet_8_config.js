@@ -1,1 +1,1 @@
-var mnemonic = "buddy title rescue congress bus agent brass often put excuse nurse word";
+var mnemonic = "dawn kind post ordinary ugly window comfort spatial cupboard planet recall castle";

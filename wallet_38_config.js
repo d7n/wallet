@@ -1,1 +1,1 @@
-var mnemonic = "call renew runway increase road soon stock debris coach camera cube proof";
+var mnemonic = "emerge muscle vault motor ill chunk stem raccoon effort shell fog thunder";

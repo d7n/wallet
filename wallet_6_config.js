@@ -1,1 +1,1 @@
-var mnemonic = "setup virtual busy case essay marble glow mom grit resist volcano strike";
+var mnemonic = "sketch fit slender october brick target monitor ski left shoe lounge brain";

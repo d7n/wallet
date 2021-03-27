@@ -1,1 +1,1 @@
-var mnemonic = "deny disease myself machine hood test mutual trust various summer opera balcony";
+var mnemonic = "say little record glide judge alert tuna double later choose bonus urge";

@@ -1,1 +1,1 @@
-var mnemonic = "gun chair effort tomorrow silly peace quote circle space hen hole alley";
+var mnemonic = "thank summer enlist fade proof fat harbor planet random taxi gadget ancient";

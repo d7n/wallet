@@ -1,1 +1,1 @@
-var mnemonic = "chuckle heart book where width daring nothing grab tonight today tip task";
+var mnemonic = "dilemma proud hand lyrics clock tag south march unhappy pink sister danger";

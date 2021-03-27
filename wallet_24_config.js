@@ -1,1 +1,1 @@
-var mnemonic = "social fix enforce space side egg scrub fabric aisle north early save";
+var mnemonic = "shop dune inmate word toddler decide animal over wink jungle roof ramp";

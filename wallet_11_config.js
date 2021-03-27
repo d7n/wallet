@@ -1,1 +1,1 @@
-var mnemonic = "cool elevator toast menu december empower host craft salute sting ugly orange";
+var mnemonic = "knife fan pepper guide door neck media current pipe spoon afford object";

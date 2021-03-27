@@ -1,1 +1,1 @@
-var mnemonic = "hood quit cup remind betray athlete material bitter concert casual boss girl";
+var mnemonic = "tennis fox beach deal tube scheme tag host solid eagle athlete weird";

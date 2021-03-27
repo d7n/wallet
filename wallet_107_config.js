@@ -1,1 +1,1 @@
-var mnemonic = "scrap fragile immune unlock brush mushroom scout spider page limit hub chest";
+var mnemonic = "ancient alley vote resource grocery depend spell luxury boil device remind leaf";

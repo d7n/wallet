@@ -1,1 +1,1 @@
-var mnemonic = "sense idea shine ready six eight brick peace gym crime genius erupt";
+var mnemonic = "aware arrow work casual crash know park sight wish only use alpha";

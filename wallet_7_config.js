@@ -1,1 +1,1 @@
-var mnemonic = "sibling hungry axis inject enhance erupt tray police divorce other indicate clog";
+var mnemonic = "crack submit hungry moon squirrel spirit try humor marriage fresh rebel level";

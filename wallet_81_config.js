@@ -1,1 +1,1 @@
-var mnemonic = "front baby afraid nephew cook small behave park magnet cup yellow farm";
+var mnemonic = "wasp blind frog uncover hold high among deny once truth donor weather";

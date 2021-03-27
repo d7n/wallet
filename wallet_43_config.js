@@ -1,1 +1,1 @@
-var mnemonic = "joy inch inch subway eternal fix era sleep raise shield stuff crane";
+var mnemonic = "million night leaf fragile delay cousin loop output daughter mass gospel bread";

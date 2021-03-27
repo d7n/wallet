@@ -1,1 +1,1 @@
-var mnemonic = "assault eight drink oxygen range use merry mercy kick curious kit endless";
+var mnemonic = "sadness mesh call gas spy loan despair visa era photo trust soft";

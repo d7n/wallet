@@ -1,1 +1,1 @@
-var mnemonic = "flash lumber arrest lonely device gesture laundry base exit grocery box grief";
+var mnemonic = "village fade stadium fetch prize bind shine odor badge angry rebel fine";

@@ -1,1 +1,1 @@
-var mnemonic = "bring board number gown winner swamp lazy identify lottery sound people use";
+var mnemonic = "vibrant crazy tobacco busy grass purse busy badge begin install quality unlock";

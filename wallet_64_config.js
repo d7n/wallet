@@ -1,1 +1,1 @@
-var mnemonic = "sorry prepare festival stock dog scorpion novel hospital voice trap cupboard remove";
+var mnemonic = "clean cool home try depend bronze eternal supreme army butter genuine donkey";

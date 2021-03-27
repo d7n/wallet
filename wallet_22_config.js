@@ -1,1 +1,1 @@
-var mnemonic = "drastic hamster reflect mango chicken feature gun autumn robot about chapter endorse";
+var mnemonic = "side beyond trick practice reduce dumb enhance never jump sort olympic rookie";

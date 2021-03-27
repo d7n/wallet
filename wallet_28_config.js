@@ -1,1 +1,1 @@
-var mnemonic = "swarm magic desert call sunset original taste section crucial plunge access wealth";
+var mnemonic = "employ tenant body strike position position obscure journey dilemma girl code agent";

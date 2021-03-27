@@ -1,1 +1,1 @@
-var mnemonic = "ring forget exclude winner fade swallow rule question decrease measure fringe lemon";
+var mnemonic = "anchor excuse lend tent pottery tribe benefit food multiply wrong worth fat";

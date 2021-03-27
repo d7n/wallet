@@ -1,1 +1,1 @@
-var mnemonic = "limit process route buffalo cupboard ritual upset genuine figure mail income relief";
+var mnemonic = "suggest drastic rely wheel worry cotton setup uphold exotic network boil student";

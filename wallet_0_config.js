@@ -1,1 +1,1 @@
-var mnemonic = "deal jar helmet table mosquito team luxury myself modify song exchange fragile";
+var mnemonic = "icon crystal clap above siren buddy arm horror cricket cereal steel drip";

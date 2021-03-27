@@ -1,1 +1,1 @@
-var mnemonic = "lady fame mesh damage convince drum gadget chunk seek blush liar regular";
+var mnemonic = "kite universe priority eager slow lawn intact acoustic elevator august quiz ridge";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos wall bargain foam color alley charge hybrid rent twice shiver soft";
+var mnemonic = "proof buddy unlock horn distance tennis run crowd below spread apple minute";

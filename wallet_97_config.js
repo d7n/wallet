@@ -1,1 +1,1 @@
-var mnemonic = "obey mad violin replace admit wet neutral leg wheat hip kit educate";
+var mnemonic = "foot excess report brown evoke census deer skirt inflict avocado author cup";

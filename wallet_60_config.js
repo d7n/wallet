@@ -1,1 +1,1 @@
-var mnemonic = "amazing caution sauce blanket turtle diet blade hen hole picnic language blossom";
+var mnemonic = "gas sad trial expose update room wisdom ski tunnel wish orange twenty";

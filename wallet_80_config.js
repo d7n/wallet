@@ -1,1 +1,1 @@
-var mnemonic = "easy comfort depend abstract slender furnace scheme layer welcome people license panel";
+var mnemonic = "yard stock brother antenna duck rubber quality open nuclear dinosaur anger goose";

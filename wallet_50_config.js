@@ -1,1 +1,1 @@
-var mnemonic = "bridge marine such host embrace usage voyage two retreat indoor later crumble";
+var mnemonic = "chapter perfect alley burger slight ability fiscal acquire rocket toy split rubber";

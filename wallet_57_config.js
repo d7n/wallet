@@ -1,1 +1,1 @@
-var mnemonic = "beauty hurdle december cute silver turtle ghost near tooth offer flight lava";
+var mnemonic = "youth conduct extend execute mango collect monster supreme supreme erode cherry worth";

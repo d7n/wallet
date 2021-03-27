@@ -1,1 +1,1 @@
-var mnemonic = "fly charge inhale spoon slot steel fringe slam pistol exercise soul glass";
+var mnemonic = "crowd notice approve music frequent hybrid modify oil quiz rose coast age";

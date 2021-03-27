@@ -1,1 +1,1 @@
-var mnemonic = "review fortune order glance angry town struggle basic vivid title bacon trend";
+var mnemonic = "wood pair resemble plunge copper child tissue razor turtle strategy pilot acoustic";

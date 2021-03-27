@@ -1,1 +1,1 @@
-var mnemonic = "neck talent cable fossil twin equip room green turkey illness original abstract";
+var mnemonic = "tunnel bone shell crime general soul diagram era debate face little ocean";

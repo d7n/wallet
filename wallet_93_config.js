@@ -1,1 +1,1 @@
-var mnemonic = "rhythm symptom day ridge chronic raw slush chicken normal window odor wedding";
+var mnemonic = "doll boil trap happy cash minor infant kind agree focus seed awesome";

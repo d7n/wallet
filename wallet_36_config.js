@@ -1,1 +1,1 @@
-var mnemonic = "boss tennis boat slab pitch rent afford dash write apple country elevator";
+var mnemonic = "service truly gravity deer black expose grunt disagree floor merge advice frequent";

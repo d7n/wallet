@@ -1,1 +1,1 @@
-var mnemonic = "release into distance club design million lawsuit step stable suffer acquire right";
+var mnemonic = "improve choice mixture control fog arctic carpet potato sadness field hour celery";

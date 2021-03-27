@@ -1,1 +1,1 @@
-var mnemonic = "clown biology toast gold obvious age angry shield frequent service blade start";
+var mnemonic = "boil account identify dice fame easy embrace acid zero right stadium soccer";

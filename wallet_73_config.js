@@ -1,1 +1,1 @@
-var mnemonic = "scheme mirror crater piano cry tray element magnet detect tissue goat genre";
+var mnemonic = "purchase mirror swamp update fantasy label cargo blossom project foster debate chef";

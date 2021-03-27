@@ -1,1 +1,1 @@
-var mnemonic = "rifle sand daring cherry uniform era joy fancy average deer cable know";
+var mnemonic = "twice social dragon pen ceiling endorse relief uncover seek tackle way alert";

@@ -1,1 +1,1 @@
-var mnemonic = "offer learn best attend board wealth laugh panther target together bonus box";
+var mnemonic = "sorry shine risk lend chaos wreck escape cluster popular syrup average lawsuit";

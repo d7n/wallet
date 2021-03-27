@@ -1,1 +1,1 @@
-var mnemonic = "engage plastic awesome humor bid bright manual deliver husband oppose wrap bitter";
+var mnemonic = "spin float treat pattern labor choose actor save credit wood immense train";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual loop churn kingdom team brush ripple collect attract rookie oxygen candy";
+var mnemonic = "crystal spatial library inherit tennis net debate critic ivory dice orphan object";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor fatal physical drill cheese adjust any sock supreme lawn flee unaware";
+var mnemonic = "silent wolf gap level column swift crazy ski fine true timber aerobic";

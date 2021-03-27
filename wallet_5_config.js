@@ -1,1 +1,1 @@
-var mnemonic = "mushroom world kiwi lawsuit material twenty can minute include trophy protect sleep";
+var mnemonic = "mirror fancy acid exit resemble maid race spoon fun crumble fix blouse";

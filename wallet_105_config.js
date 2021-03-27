@@ -1,1 +1,1 @@
-var mnemonic = "rally devote tide tiger route toast jealous embody gossip honey soup casual";
+var mnemonic = "second define jungle ring budget laundry earn attract monster loop fiscal answer";

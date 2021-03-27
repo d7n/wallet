@@ -1,1 +1,1 @@
-var mnemonic = "start topic crane play wood drift test stone million hospital trial exist";
+var mnemonic = "today margin senior track penalty sunset onion sing whip blast tribe original";

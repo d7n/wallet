@@ -1,1 +1,1 @@
-var mnemonic = "system marble law ridge crawl excite project vintage axis balance fragile dolphin";
+var mnemonic = "jacket female bitter detect boat swing cook mix once number village various";

@@ -1,1 +1,1 @@
-var mnemonic = "hire album basic theme surprise know actor forward goddess brush body escape";
+var mnemonic = "picnic gown parade space forward eager nephew toy second embrace smart spray";

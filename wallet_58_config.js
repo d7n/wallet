@@ -1,1 +1,1 @@
-var mnemonic = "guard grief swear poem shadow reflect roof leopard chicken repeat danger spy";
+var mnemonic = "salt wool mad label opinion unit rough upon hundred caution sorry fix";

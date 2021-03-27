@@ -1,1 +1,1 @@
-var mnemonic = "farm wedding airport canal amazing problem account olive era bike ice until";
+var mnemonic = "welcome soap wise fortune spoil stable minute correct remain desk error rifle";

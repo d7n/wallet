@@ -1,1 +1,1 @@
-var mnemonic = "someone better survey tube boy oak frown arena hair harsh face razor";
+var mnemonic = "slender soldier museum fly gloom output zebra cargo ski error soccer enact";

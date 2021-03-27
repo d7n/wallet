@@ -1,1 +1,1 @@
-var mnemonic = "arrow ask notable vivid disagree crystal upon garment auto confirm wedding donor";
+var mnemonic = "shaft evil regular rude enrich visit vessel fluid cattle junior remember approve";

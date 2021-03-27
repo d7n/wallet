@@ -1,1 +1,1 @@
-var mnemonic = "hungry amateur wing never over bamboo tooth ostrich worry glove where artefact";
+var mnemonic = "web bus veteran better cliff loan lady language cloud carry month panic";

@@ -1,1 +1,1 @@
-var mnemonic = "initial lumber under token stable alcohol kiss river quiz mom wing sibling";
+var mnemonic = "youth exhaust critic cake parrot text slogan bounce know faculty best noble";

@@ -1,1 +1,1 @@
-var mnemonic = "sister vibrant ozone snack release panic coral tunnel rice install welcome possible";
+var mnemonic = "nation salute segment service business receive squeeze avocado must shine leisure gym";

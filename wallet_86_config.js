@@ -1,1 +1,1 @@
-var mnemonic = "error child mixture ride dash denial gaze over silent kitchen nose text";
+var mnemonic = "accuse poem hover romance civil title right candy oil safe body era";
