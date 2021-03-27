@@ -1,1 +1,1 @@
-var mnemonic = "eight meadow odor monitor frog innocent bubble nurse finish cancel monkey next";
+var mnemonic = "erase situate idea bird maid jar feel hello license mail parent arrange";

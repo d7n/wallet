@@ -1,1 +1,1 @@
-var mnemonic = "equal antenna lazy chief subway hire conduct narrow supreme excess demise reform";
+var mnemonic = "rate head pony magic own basic garden program waste federal boring business";

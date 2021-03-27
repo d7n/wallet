@@ -1,1 +1,1 @@
-var mnemonic = "fire ball depart position jump decide fantasy receive theme sadness tool bracket";
+var mnemonic = "weather salt length rubber punch casino mutual hint have subway dune jungle";

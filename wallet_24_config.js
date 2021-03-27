@@ -1,1 +1,1 @@
-var mnemonic = "spread bean maid ivory congress physical purpose impose balcony athlete session miracle";
+var mnemonic = "style panther evil timber switch portion stove cloud baby put rail bind";

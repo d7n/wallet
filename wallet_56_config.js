@@ -1,1 +1,1 @@
-var mnemonic = "scorpion dream fame split barrel beyond cluster better goat furnace farm decide";
+var mnemonic = "bike ladder shield crack color hire always away tunnel museum float artefact";

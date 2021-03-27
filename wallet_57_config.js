@@ -1,1 +1,1 @@
-var mnemonic = "car ghost monkey energy absorb divorce valid injury multiply share mutual grab";
+var mnemonic = "south sugar unfair cloud spoil sense nest glad pear stool virtual suit";

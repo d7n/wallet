@@ -1,1 +1,1 @@
-var mnemonic = "supreme change raw wing danger frequent birth turtle excess quick virtual hover";
+var mnemonic = "possible void jazz danger clarify border bind skin hen top boat congress";

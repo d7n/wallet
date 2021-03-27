@@ -1,1 +1,1 @@
-var mnemonic = "sign core discover foster outer scare claim month sail extra erupt hand";
+var mnemonic = "act tonight gravity floor utility trade priority early decrease ready fog army";

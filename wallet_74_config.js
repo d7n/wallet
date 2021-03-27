@@ -1,1 +1,1 @@
-var mnemonic = "swarm now danger swim tent flower final pumpkin act drastic angle trigger";
+var mnemonic = "chase hole visa right local dragon once dismiss twelve urge body glue";

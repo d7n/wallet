@@ -1,1 +1,1 @@
-var mnemonic = "carbon search face over weapon whip ensure inflict undo sadness custom maid";
+var mnemonic = "hope play viable wide youth grass clay grief delay detect rapid puppy";

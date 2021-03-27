@@ -1,1 +1,1 @@
-var mnemonic = "february artwork truth decade hurdle shoe churn sheriff skill provide fuel rescue";
+var mnemonic = "can forget bargain field proud kick shadow prevent indoor job crime fresh";

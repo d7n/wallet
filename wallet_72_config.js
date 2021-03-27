@@ -1,1 +1,1 @@
-var mnemonic = "elevator gentle comfort border damage magnet maid high announce scorpion umbrella then";
+var mnemonic = "drift grant food annual lumber diet retreat avoid duck trip until salute";

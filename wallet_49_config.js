@@ -1,1 +1,1 @@
-var mnemonic = "tomato machine level album bunker amazing squirrel derive borrow gasp print ladder";
+var mnemonic = "input found dice exchange auction arrow action merry youth lucky update hub";

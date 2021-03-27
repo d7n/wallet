@@ -1,1 +1,1 @@
-var mnemonic = "cry walnut tomato aim link impose blanket fire nice step act silver";
+var mnemonic = "vocal gift earth add repeat hollow captain develop dash fresh rose wood";

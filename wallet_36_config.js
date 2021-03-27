@@ -1,1 +1,1 @@
-var mnemonic = "logic enable maximum rent uncle afraid stereo course donate ripple diary skin";
+var mnemonic = "dynamic virus seed trumpet impulse lamp candy section fatal rocket fade divorce";

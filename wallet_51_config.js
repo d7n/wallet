@@ -1,1 +1,1 @@
-var mnemonic = "east share switch hair multiply master wish razor poem judge soda own";
+var mnemonic = "pole input settle fold pool walk fire picture arrest catalog love near";

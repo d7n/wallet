@@ -1,1 +1,1 @@
-var mnemonic = "sleep jungle hungry tell gold people bird humble alter burst unit police";
+var mnemonic = "kind gesture survey swift until leopard ice front nice name opera jaguar";

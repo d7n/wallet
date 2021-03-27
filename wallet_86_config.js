@@ -1,1 +1,1 @@
-var mnemonic = "pony tell share tip token monkey gauge trophy assume accuse rent client";
+var mnemonic = "ecology mad run protect cloud siege cliff ketchup portion giant axis issue";

@@ -1,1 +1,1 @@
-var mnemonic = "finger pottery switch brass fuel entire scissors blossom nephew arrow rib erupt";
+var mnemonic = "soul liquid recall basic school gain blast royal skate voyage squeeze source";

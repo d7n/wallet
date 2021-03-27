@@ -1,1 +1,1 @@
-var mnemonic = "rent cup property clutch kingdom scale shed gun check pizza marble december";
+var mnemonic = "share soon lounge wood praise deal delay entry retire weasel unhappy eyebrow";

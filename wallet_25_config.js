@@ -1,1 +1,1 @@
-var mnemonic = "fine fade garlic member grocery crowd wealth deposit pen harsh series romance";
+var mnemonic = "antique fold garment thing lawsuit poverty bamboo client crew stick danger much";

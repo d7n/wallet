@@ -1,1 +1,1 @@
-var mnemonic = "term artwork cram canvas clever window undo ignore gossip layer hour large";
+var mnemonic = "plate price fluid roof sketch choice dust priority daring protect stay soap";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge deal modify clever stable club radar decrease crouch evidence web dune";
+var mnemonic = "faith very display display health barely spike push sound nuclear gym plastic";

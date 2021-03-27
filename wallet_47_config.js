@@ -1,1 +1,1 @@
-var mnemonic = "member anger donor smoke jar tower oval green night exit canoe position";
+var mnemonic = "pet abuse reveal little find what lemon faith hill skirt glass action";

@@ -1,1 +1,1 @@
-var mnemonic = "theme victory gate false sample symbol old glue perfect foot blush country";
+var mnemonic = "dragon catch grid depth jealous round flash frown extend protect armor light";

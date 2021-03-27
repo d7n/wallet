@@ -1,1 +1,1 @@
-var mnemonic = "grain only clean embark envelope leaf divorce much dream now final cross";
+var mnemonic = "ramp sport sight aisle estate primary employ access salt situate cereal maximum";

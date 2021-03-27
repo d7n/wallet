@@ -1,1 +1,1 @@
-var mnemonic = "faint danger caution curtain elegant stamp render innocent maze cloth second just";
+var mnemonic = "someone pen discover token hammer faculty noise mosquito dish thumb lens early";

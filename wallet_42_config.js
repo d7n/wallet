@@ -1,1 +1,1 @@
-var mnemonic = "hurry elite join remove toss during apology gather huge penalty attract throw";
+var mnemonic = "student bulk hint decide stuff only system palm strong hybrid choose work";

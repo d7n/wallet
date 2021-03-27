@@ -1,1 +1,1 @@
-var mnemonic = "theme ice claim fuel square duck small casual inhale learn play try";
+var mnemonic = "hill social enforce awkward vendor betray basic pluck copper isolate eye baby";

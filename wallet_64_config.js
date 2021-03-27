@@ -1,1 +1,1 @@
-var mnemonic = "grow fresh end olympic agree thrive because sure major inflict phone property";
+var mnemonic = "core one short demise rent fringe sun balcony bench escape slide win";

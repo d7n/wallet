@@ -1,1 +1,1 @@
-var mnemonic = "december device master list junk buffalo route betray cloth uphold exact warfare";
+var mnemonic = "tank used horse obey mammal diet repair bomb harbor person tragic drift";

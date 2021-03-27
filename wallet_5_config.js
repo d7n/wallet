@@ -1,1 +1,1 @@
-var mnemonic = "fog success bring pond zero lyrics february rice attitude dentist pluck magnet";
+var mnemonic = "ranch shift report window hollow issue poem case lawn umbrella success license";

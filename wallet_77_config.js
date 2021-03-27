@@ -1,1 +1,1 @@
-var mnemonic = "blossom buddy wet shine need pledge fence chief then inquiry blast ketchup";
+var mnemonic = "daughter jealous devote analyst gravity rival belt today betray soon ugly advice";

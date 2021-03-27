@@ -1,1 +1,1 @@
-var mnemonic = "walk observe caution burst duck armor evoke unaware emotion van float ridge";
+var mnemonic = "similar armor enroll trade net kid vocal valve raw loop make police";

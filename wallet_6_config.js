@@ -1,1 +1,1 @@
-var mnemonic = "guard beach unique game pass obtain goose prize butter adjust sister mom";
+var mnemonic = "hello aerobic inner furnace mountain proof cricket shallow first umbrella when quarter";

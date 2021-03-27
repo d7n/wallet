@@ -1,1 +1,1 @@
-var mnemonic = "cereal metal donor inquiry sense eternal kit network divorce earth patch cancel";
+var mnemonic = "benefit frame hurt person foam friend consider rack setup fiction disorder heart";

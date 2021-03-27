@@ -1,1 +1,1 @@
-var mnemonic = "pepper crowd clog stem civil embody cement rally game pigeon twist alert";
+var mnemonic = "nut nephew sock supply common include lemon pumpkin staff other hero inform";

@@ -1,1 +1,1 @@
-var mnemonic = "say ghost shiver bundle memory ordinary oven grief base oven history steel";
+var mnemonic = "street traffic dress clog series auction fence rotate harvest credit mass deposit";

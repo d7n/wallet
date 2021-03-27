@@ -1,1 +1,1 @@
-var mnemonic = "visit eight upgrade dance picnic holiday drift across hockey october soda flat";
+var mnemonic = "warm candy nothing spare mad keen camera large saddle swamp alarm bar";

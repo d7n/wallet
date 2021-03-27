@@ -1,1 +1,1 @@
-var mnemonic = "favorite opera monkey lucky across wire gold pledge cart bench maximum angry";
+var mnemonic = "dad future conduct rich hire hat tree style purchase always accuse vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond defy spin choice provide globe memory answer end helmet vibrant pizza";
+var mnemonic = "ethics stomach hidden space zero elbow gallery tornado point merry tuition prison";

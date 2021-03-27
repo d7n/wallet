@@ -1,1 +1,1 @@
-var mnemonic = "salad engine position grow woman notice place news lab journey language enforce";
+var mnemonic = "credit mistake double save mule caution wink hotel certain master sword market";

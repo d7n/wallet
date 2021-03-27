@@ -1,1 +1,1 @@
-var mnemonic = "track genre shock obvious walnut dust fragile note life bullet foil want";
+var mnemonic = "vicious speed scale order best either tide walnut manual trumpet proof asthma";

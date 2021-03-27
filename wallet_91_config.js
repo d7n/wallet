@@ -1,1 +1,1 @@
-var mnemonic = "sniff potato vicious card auction uphold nurse symptom very soap banner race";
+var mnemonic = "latin echo unfair invest forum extra behind snow choice bargain receive olive";

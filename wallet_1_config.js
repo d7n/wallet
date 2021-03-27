@@ -1,1 +1,1 @@
-var mnemonic = "join flee only note include honey mobile great athlete engine enable dress";
+var mnemonic = "aim basket century keen tired knee utility plunge fade angry ginger village";

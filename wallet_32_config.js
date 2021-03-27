@@ -1,1 +1,1 @@
-var mnemonic = "shed senior receive muscle cupboard prepare side envelope chair give butter miracle";
+var mnemonic = "morning wrong engine equal galaxy like shoulder there celery cheese woman surround";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple other enroll motion anxiety limb seven income vocal empty potato vast";
+var mnemonic = "rough monster hour bird paper permit ice put blind ranch physical night";

@@ -1,1 +1,1 @@
-var mnemonic = "will they youth alarm release opera waste dutch quote boat universe scale";
+var mnemonic = "chase situate human evoke lab cigar circle silent screen dignity budget excuse";

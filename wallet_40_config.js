@@ -1,1 +1,1 @@
-var mnemonic = "six manage slot carry merit live crack enact acid shaft access poet";
+var mnemonic = "magic ribbon illegal bitter quality original unable fatigue bronze abandon wash equip";

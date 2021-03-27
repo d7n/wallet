@@ -1,1 +1,1 @@
-var mnemonic = "work salmon marine foam mango hover rack parent express rifle lazy can";
+var mnemonic = "reform lounge spread draft sorry scorpion fiber alcohol shrimp search health circle";

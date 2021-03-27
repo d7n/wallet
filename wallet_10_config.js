@@ -1,1 +1,1 @@
-var mnemonic = "hard coral armor other lecture couch shop dry harvest now hidden input";
+var mnemonic = "frequent actual zoo debate spin flash romance tongue ostrich odor monster marine";

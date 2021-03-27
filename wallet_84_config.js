@@ -1,1 +1,1 @@
-var mnemonic = "frown ritual mutual infant rebel favorite conduct true debris erosion click worth";
+var mnemonic = "calm key essence chimney math aisle sauce twelve snake chase hotel crazy";

@@ -1,1 +1,1 @@
-var mnemonic = "space day engine recall myth cliff grief garbage spell pride canvas satoshi";
+var mnemonic = "host snack effort pencil party crouch disease morning trophy again actual limb";

@@ -1,1 +1,1 @@
-var mnemonic = "host vote notable sausage elevator core file nature change mail tiger knee";
+var mnemonic = "sword voyage skate animal day major anger hand phone member speed member";

@@ -1,1 +1,1 @@
-var mnemonic = "mad chief pizza always arena soul taxi mimic comic hat pulp sure";
+var mnemonic = "excuse decline build garden era pony kind summer divide have guide night";

@@ -1,1 +1,1 @@
-var mnemonic = "wave peace melody jungle hurdle element ribbon room cause leader output jungle";
+var mnemonic = "custom turn huge arrive head lunch hunt hen try erosion tortoise deputy";

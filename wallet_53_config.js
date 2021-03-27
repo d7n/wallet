@@ -1,1 +1,1 @@
-var mnemonic = "tattoo trip process asset spoon soap loud manage stereo ready lake parrot";
+var mnemonic = "shoot job flower west wonder catch crime wood dolphin boring same venture";

@@ -1,1 +1,1 @@
-var mnemonic = "real crack engage estate thumb comfort dice cross dice gallery tone miracle";
+var mnemonic = "dream proof avocado ethics child apple athlete north among client urban fit";

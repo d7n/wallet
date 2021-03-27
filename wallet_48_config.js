@@ -1,1 +1,1 @@
-var mnemonic = "speed below benefit leaf pole stone obscure govern lake conduct pelican able";
+var mnemonic = "smart glass there demand hard onion mutual outdoor chronic oyster truly rug";

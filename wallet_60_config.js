@@ -1,1 +1,1 @@
-var mnemonic = "rapid machine try soldier grunt unit general column will buddy course any";
+var mnemonic = "vivid best lend manage crouch solution robust raccoon zoo memory early atom";

@@ -1,1 +1,1 @@
-var mnemonic = "arm almost guard urge base kangaroo walnut affair combine brother similar orchard";
+var mnemonic = "result negative audit blood apple oven fence hope during divorce ship amount";

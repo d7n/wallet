@@ -1,1 +1,1 @@
-var mnemonic = "label cute protect fatal genius brain service burger crane concert fever practice";
+var mnemonic = "taxi stable festival write guide situate leopard stamp state sample guard metal";

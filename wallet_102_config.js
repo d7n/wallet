@@ -1,1 +1,1 @@
-var mnemonic = "raise mobile shaft awesome normal camp surge wine axis three mix vacuum";
+var mnemonic = "once cloth argue chest build base search maze key rural glass stable";

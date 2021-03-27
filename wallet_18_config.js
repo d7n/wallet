@@ -1,1 +1,1 @@
-var mnemonic = "crush during hockey lobster hungry suffer danger roof air action symptom exotic";
+var mnemonic = "ramp betray minimum danger math rally owner bamboo window slight satisfy velvet";

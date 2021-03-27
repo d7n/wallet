@@ -1,1 +1,1 @@
-var mnemonic = "portion replace control bus crawl small jungle brief have grain demise general";
+var mnemonic = "staff salmon wrestle pact scatter tilt effort gap marriage battle collect ensure";

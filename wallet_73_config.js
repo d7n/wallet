@@ -1,1 +1,1 @@
-var mnemonic = "smoke initial lyrics master oppose achieve need cruise lawsuit attack fantasy funny";
+var mnemonic = "wide infant sense text voyage minor card cage lock deposit saddle bamboo";

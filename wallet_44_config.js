@@ -1,1 +1,1 @@
-var mnemonic = "sample recipe cigar surround permit fame cabbage boost phrase symptom brief identify";
+var mnemonic = "loop memory error bonus almost timber diagram replace alcohol inflict same hard";

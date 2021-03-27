@@ -1,1 +1,1 @@
-var mnemonic = "mixed matter garage decorate person thumb birth vintage round gift dry nice";
+var mnemonic = "defense carry tiny cash report chef demise pond peace illegal dust chapter";

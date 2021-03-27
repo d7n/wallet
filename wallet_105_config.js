@@ -1,1 +1,1 @@
-var mnemonic = "muscle cart quick pizza wrestle giant possible pumpkin perfect sketch shoe sea";
+var mnemonic = "task matter stand recipe jeans service carbon whale wheel news cereal sword";

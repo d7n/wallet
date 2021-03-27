@@ -1,1 +1,1 @@
-var mnemonic = "winter arrange cover enjoy tooth protect balance powder balance anger mail yard";
+var mnemonic = "clarify erupt grab festival mobile point matter clever ready property increase depth";

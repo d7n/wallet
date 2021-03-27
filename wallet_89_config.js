@@ -1,1 +1,1 @@
-var mnemonic = "gate unique gap symbol fuel apology floor illegal media ghost federal rib";
+var mnemonic = "dumb tennis believe enter strong reform proud wool picture item slot weapon";

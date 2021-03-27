@@ -1,1 +1,1 @@
-var mnemonic = "digital resource adult shrimp mother bacon chapter style amused debate exile derive";
+var mnemonic = "until chief toward ship solve afraid common cloud gun wolf build tank";

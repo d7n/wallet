@@ -1,1 +1,1 @@
-var mnemonic = "core nothing trouble mosquito funny enter patient trophy project pistol pill kitten";
+var mnemonic = "essence inject hedgehog access slice pelican tiny level sport burger outdoor record";

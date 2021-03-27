@@ -1,1 +1,1 @@
-var mnemonic = "total today slush auction wet notable poem butter tackle scrap either proud";
+var mnemonic = "fall ivory kangaroo manage private mango royal awake orange there host vague";

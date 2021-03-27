@@ -1,1 +1,1 @@
-var mnemonic = "flip clump lava arrow unaware input citizen walnut nerve burden title case";
+var mnemonic = "conduct awful mosquito ten flame whale profit fat toss turn violin kitten";

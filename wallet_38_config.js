@@ -1,1 +1,1 @@
-var mnemonic = "economy tag giggle much hundred trick floor arrive drip fetch slow flee";
+var mnemonic = "boat project become absorb address raw equal asset mouse scissors rack engage";

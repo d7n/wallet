@@ -1,1 +1,1 @@
-var mnemonic = "oxygen bunker desert slot genius bind frame wait you scale argue parade";
+var mnemonic = "squeeze alley sea access drama general uphold increase promote picture waste flush";

@@ -1,1 +1,1 @@
-var mnemonic = "quote citizen share airport practice question survey steak suit question obtain fresh";
+var mnemonic = "list join search foam muffin skin ramp snack head pipe kitchen upon";

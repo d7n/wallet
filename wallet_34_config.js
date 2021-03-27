@@ -1,1 +1,1 @@
-var mnemonic = "almost typical patrol surge glass engage coffee iron gloom venue ten system";
+var mnemonic = "echo copy orient coach unique reason knife north force still glimpse blur";

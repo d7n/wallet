@@ -1,1 +1,1 @@
-var mnemonic = "burst drip elite select half edit maximum hand ski color bind direct";
+var mnemonic = "table sunset egg soap finger awake decade amazing favorite hint bind junk";

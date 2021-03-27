@@ -1,1 +1,1 @@
-var mnemonic = "reveal change flame such crisp warrior faint sign wagon program phone elder";
+var mnemonic = "cross divorce below gift skin stone inspire panel spoil eagle since initial";

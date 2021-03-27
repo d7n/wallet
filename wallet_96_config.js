@@ -1,1 +1,1 @@
-var mnemonic = "feature south deputy million wool tomato orange coast snap humor web jazz";
+var mnemonic = "trial decorate venture embrace top supreme hat sell town body admit display";

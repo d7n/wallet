@@ -1,1 +1,1 @@
-var mnemonic = "any clerk tiger limb license quality butter ranch own noise fuel multiply";
+var mnemonic = "find habit scorpion mango buzz large person mushroom twin myth boil grit";

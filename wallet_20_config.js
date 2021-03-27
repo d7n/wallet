@@ -1,1 +1,1 @@
-var mnemonic = "hamster kit switch economy vibrant aunt method trim rebel snap general gossip";
+var mnemonic = "awesome drill boat cheap captain panic innocent scheme sponsor wait bullet ramp";

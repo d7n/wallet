@@ -1,1 +1,1 @@
-var mnemonic = "tackle ring speed find filter segment gadget search guitar party merit upon";
+var mnemonic = "domain aware gaze evoke coin obtain hawk vanish submit hint various episode";

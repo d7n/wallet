@@ -1,1 +1,1 @@
-var mnemonic = "era exit farm cupboard sort delay basic exotic snap emerge chapter tired";
+var mnemonic = "shuffle elephant elegant put fluid fire joke trash scrap peace reveal load";

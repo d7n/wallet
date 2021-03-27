@@ -1,1 +1,1 @@
-var mnemonic = "tilt defy grocery shell surround dash coral gossip elegant consider tragic elephant";
+var mnemonic = "humor priority fly laptop glory flower project castle lumber vanish random easily";

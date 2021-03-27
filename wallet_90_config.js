@@ -1,1 +1,1 @@
-var mnemonic = "flight lab version almost oval coffee fence party broken infant solid adult";
+var mnemonic = "grow defense father book raw artefact exhibit cook invest echo medal actual";

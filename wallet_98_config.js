@@ -1,1 +1,1 @@
-var mnemonic = "surface dismiss scan neither shiver ghost absent rookie ritual inquiry narrow canoe";
+var mnemonic = "culture angry upset energy clinic that ahead that must spare bridge cute";

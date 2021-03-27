@@ -1,1 +1,1 @@
-var mnemonic = "erode turtle soft bachelor pill decline utility few holiday bird lesson eternal";
+var mnemonic = "child picture panic outside engine canal veteran north stage section setup seminar";

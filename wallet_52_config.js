@@ -1,1 +1,1 @@
-var mnemonic = "slide poet affair hood theme pave poem maze sausage summer bar wash";
+var mnemonic = "index episode small diesel term fruit artist tuna knock gloom shove similar";

@@ -1,1 +1,1 @@
-var mnemonic = "vital ability quiz wealth such rail attitude used exile bird lamp cotton";
+var mnemonic = "forward venue hurt gun identify crouch monkey prison jewel sand junior ketchup";

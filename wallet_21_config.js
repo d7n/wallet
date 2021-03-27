@@ -1,1 +1,1 @@
-var mnemonic = "august into hard female way raven demand blade oppose divide cousin devote";
+var mnemonic = "embody black soul pink cute element melt media behind arctic please cluster";

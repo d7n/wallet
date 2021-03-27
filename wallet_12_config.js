@@ -1,1 +1,1 @@
-var mnemonic = "alone impulse sock muffin elegant broom village amount profit raccoon guilt hill";
+var mnemonic = "broken affair adult cruel betray tail critic manage weird north soldier start";
