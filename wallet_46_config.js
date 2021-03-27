@@ -1,1 +1,1 @@
-var mnemonic = "evidence slight main alter midnight among buffalo express access refuse crime moment";
+var mnemonic = "stable general drum code travel girl grain view hollow bridge bachelor orchard";

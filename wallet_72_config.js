@@ -1,1 +1,1 @@
-var mnemonic = "cloud dinosaur world awful legal balcony sauce diary uncover coil tent window";
+var mnemonic = "degree joy exhaust school museum parrot clown year supreme curtain video rail";

@@ -1,1 +1,1 @@
-var mnemonic = "total absorb giant fun strike fork gasp task ancient aware palm frog";
+var mnemonic = "glad true lion legal fuel force spin opinion industry gate alter release";

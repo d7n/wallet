@@ -1,1 +1,1 @@
-var mnemonic = "item slight nominee adapt regular moral practice clog leader note barely panic";
+var mnemonic = "tool group truck mass mountain next super private poverty basic sad mushroom";

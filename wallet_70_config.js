@@ -1,1 +1,1 @@
-var mnemonic = "swift only ask message item grape appear occur panda february hello coral";
+var mnemonic = "rabbit canal wide fame divert spoon outer vanish long way cricket company";

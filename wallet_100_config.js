@@ -1,1 +1,1 @@
-var mnemonic = "audit live donor helmet lobster crunch chronic crazy daughter example two tumble";
+var mnemonic = "around beyond mango loop bunker slim pole exit close broken cliff turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "casino mass there enhance enter bird purity illegal bullet outer lobster sight";
+var mnemonic = "bridge category bar solar drama advance snap age warrior juice pizza banner";

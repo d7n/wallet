@@ -1,1 +1,1 @@
-var mnemonic = "actual buyer risk sphere ribbon hire choose arrive more sense nut toddler";
+var mnemonic = "popular marriage exist modify slab noise blush mask angry balcony excite grant";

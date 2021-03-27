@@ -1,1 +1,1 @@
-var mnemonic = "labor avocado wing reunion deny elevator owner aspect disagree crawl suspect eye";
+var mnemonic = "lecture gun code chronic holiday hurt exist inside oppose real expire sense";

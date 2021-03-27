@@ -1,1 +1,1 @@
-var mnemonic = "host unaware away loan attack sense obscure off load arch detail cradle";
+var mnemonic = "impulse patch wealth such weasel elder recycle into claim nephew prepare curious";

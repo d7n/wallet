@@ -1,1 +1,1 @@
-var mnemonic = "sunset style snack design month sense blade piano robust among until black";
+var mnemonic = "foot eternal audit coffee spirit bargain toilet knee damp prize pottery poem";

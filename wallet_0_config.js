@@ -1,1 +1,1 @@
-var mnemonic = "ceiling dinosaur easily monkey tomorrow organ mutual resist swift wheel bracket grain";
+var mnemonic = "seven sentence sauce raw deputy joy crisp ticket oil brand soon together";

@@ -1,1 +1,1 @@
-var mnemonic = "sport cabin letter wire noodle have pull example depart nuclear afraid inmate";
+var mnemonic = "game mixture clerk hundred bonus clean cannon naive taste swim put blame";

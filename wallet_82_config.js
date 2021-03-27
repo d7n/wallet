@@ -1,1 +1,1 @@
-var mnemonic = "senior lens earth soap mango gym cactus wet benefit unable route volcano";
+var mnemonic = "caution unit trigger jungle chase long victory flame tuna tail upon easy";

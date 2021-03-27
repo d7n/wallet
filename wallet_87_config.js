@@ -1,1 +1,1 @@
-var mnemonic = "shy demand slush equal salmon often outer piano bind another grain tag";
+var mnemonic = "iron thing glass oblige change grid wool claw boy taste fade pepper";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent jaguar common arrow alter cushion receive basket film good office donate";
+var mnemonic = "earth crazy elevator mule fantasy scout cheap sustain car strong club enact";

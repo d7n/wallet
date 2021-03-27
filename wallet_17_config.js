@@ -1,1 +1,1 @@
-var mnemonic = "cruel response holiday trial crime wonder slide rail orange innocent hobby bicycle";
+var mnemonic = "sponsor eagle bean tube jazz clump denial attitude play select recall rough";

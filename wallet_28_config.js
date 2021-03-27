@@ -1,1 +1,1 @@
-var mnemonic = "frame cave want caution narrow elegant carbon join indoor frown chair fox";
+var mnemonic = "attend life quote example play morning develop girl amazing climb solar weird";

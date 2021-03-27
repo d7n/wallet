@@ -1,1 +1,1 @@
-var mnemonic = "hundred burger recall whisper siege lesson blanket wise flavor march stock cruel";
+var mnemonic = "twin chat amazing verify online visa latin pioneer glass click barrel host";

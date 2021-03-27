@@ -1,1 +1,1 @@
-var mnemonic = "owner alley august round screen dog gadget physical together cannon stamp truck";
+var mnemonic = "lazy labor reveal inspire alert time ride track prevent glue veteran fault";

@@ -1,1 +1,1 @@
-var mnemonic = "desert jazz final aware online join tortoise wall seminar word forum gas";
+var mnemonic = "agent become adjust eyebrow group hour have humor usual genuine bracket disagree";

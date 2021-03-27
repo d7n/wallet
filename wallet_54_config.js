@@ -1,1 +1,1 @@
-var mnemonic = "license render whale raw improve anxiety pool flame leg lounge outdoor century";
+var mnemonic = "desert capable man fancy tissue frozen bridge mean eternal decline middle autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "hair scene senior debate budget depth galaxy clump net desert ethics glory";
+var mnemonic = "royal venue play tide property potato voyage spare body dentist hip interest";

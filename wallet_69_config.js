@@ -1,1 +1,1 @@
-var mnemonic = "state month relief net false roof embark normal lamp tank deal entire";
+var mnemonic = "casino approve drum fog alter price agent soup pull wealth filter spare";

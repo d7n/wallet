@@ -1,1 +1,1 @@
-var mnemonic = "pride word hope seven feel corn modify asthma source chunk distance tongue";
+var mnemonic = "parade road giggle trust blanket spawn follow slight letter exit blade end";

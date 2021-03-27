@@ -1,1 +1,1 @@
-var mnemonic = "lobster leisure again place budget lake crane loan sport stone nephew edge";
+var mnemonic = "cause cheese arch tobacco powder track struggle gun universe question crane better";

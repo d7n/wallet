@@ -1,1 +1,1 @@
-var mnemonic = "sure census trade describe globe wrap syrup island car minor brother ugly";
+var mnemonic = "pass credit use draw uphold zoo town viable rural identify seat canyon";

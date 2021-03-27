@@ -1,1 +1,1 @@
-var mnemonic = "pink evolve toilet repair forward yard bean extend produce genre open year";
+var mnemonic = "catch enter ask symbol inject arctic hello open nominee cave seminar column";

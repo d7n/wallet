@@ -1,1 +1,1 @@
-var mnemonic = "split walnut student bonus usage range fiscal sword middle faith arena arrow";
+var mnemonic = "ivory rely damage noodle drive lion dish abuse unknown bachelor wonder rail";

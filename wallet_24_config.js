@@ -1,1 +1,1 @@
-var mnemonic = "young focus vast leaf minimum oppose satoshi rent dune situate aspect shrug";
+var mnemonic = "strike strategy that sea skin lunch renew cattle layer music volume another";

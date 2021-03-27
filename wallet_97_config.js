@@ -1,1 +1,1 @@
-var mnemonic = "furnace dog absurd control fun choice gas snow middle mobile ready feature";
+var mnemonic = "cloth gesture library remove confirm lava hover pig peasant salt daughter light";

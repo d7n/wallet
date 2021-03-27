@@ -1,1 +1,1 @@
-var mnemonic = "crime urge style ankle assault weekend magic decorate asset ivory become obey";
+var mnemonic = "narrow elite pair genius mother grief police document rail merge air broccoli";

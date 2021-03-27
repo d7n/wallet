@@ -1,1 +1,1 @@
-var mnemonic = "want mean adjust divide reflect blur cage urge blade chimney broom tree";
+var mnemonic = "floor target shift monkey film other zebra flavor sorry assist ceiling correct";

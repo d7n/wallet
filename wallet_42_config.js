@@ -1,1 +1,1 @@
-var mnemonic = "crack spider bread arctic casual involve creek valley universe cream patch such";
+var mnemonic = "eager ill february tragic silent neck antique garment ketchup universe citizen earth";

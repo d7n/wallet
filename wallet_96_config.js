@@ -1,1 +1,1 @@
-var mnemonic = "alcohol small blame media truck shiver photo album tennis flash decade solar";
+var mnemonic = "bicycle gadget choose margin despair focus demand smile slogan grass tooth clip";

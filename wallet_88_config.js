@@ -1,1 +1,1 @@
-var mnemonic = "dial note alcohol buffalo east immense mercy start witness accuse stock clock";
+var mnemonic = "innocent hockey actual staff initial ring menu clip illness loop sting field";

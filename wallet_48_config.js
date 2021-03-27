@@ -1,1 +1,1 @@
-var mnemonic = "bicycle stuff jar select mammal emerge spray ability leave report scorpion harbor";
+var mnemonic = "plunge alone various upset demand you wheel range cushion rhythm hub duty";

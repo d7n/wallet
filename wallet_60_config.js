@@ -1,1 +1,1 @@
-var mnemonic = "panther bean garage goat biology release task please veteran dry apart agent";
+var mnemonic = "sibling bottom dutch tell chronic method turkey romance pact roast umbrella turkey";

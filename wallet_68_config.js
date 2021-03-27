@@ -1,1 +1,1 @@
-var mnemonic = "sphere marriage budget hedgehog garbage present butter original now hood gadget potato";
+var mnemonic = "cruise artefact gallery empty stumble electric hub toe speed magnet nominee decorate";

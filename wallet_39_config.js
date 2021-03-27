@@ -1,1 +1,1 @@
-var mnemonic = "discover decrease tonight prepare elder coffee castle unfair entire spoil feed crack";
+var mnemonic = "library afford scan novel dignity humor invest logic remember void spirit police";

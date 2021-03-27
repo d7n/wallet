@@ -1,1 +1,1 @@
-var mnemonic = "govern print fantasy caught dawn increase future bar wool beef pride mercy";
+var mnemonic = "giraffe top van frequent book foil attitude budget coach stable hockey cup";

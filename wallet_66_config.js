@@ -1,1 +1,1 @@
-var mnemonic = "crawl urge demise limb resemble sniff eagle arrest broccoli rain metal blue";
+var mnemonic = "theory vacant turkey index cattle glance liberty replace jungle vivid blush dignity";

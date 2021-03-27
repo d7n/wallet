@@ -1,1 +1,1 @@
-var mnemonic = "broom venue burst metal puzzle turkey session very noble common become warrior";
+var mnemonic = "hotel include screen glue wrist fashion oval ethics crash symbol december media";

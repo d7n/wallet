@@ -1,1 +1,1 @@
-var mnemonic = "small tiger evil cruel bus matrix boring cloud shuffle sunny lawn such";
+var mnemonic = "orphan flip public now congress odor snake quick involve library average address";

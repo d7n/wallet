@@ -1,1 +1,1 @@
-var mnemonic = "fuel stick file share toast express leaf guitar patrol index expire patch";
+var mnemonic = "talent moment enable intact remain wagon endorse position crime clever crush alter";

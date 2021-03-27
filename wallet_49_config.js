@@ -1,1 +1,1 @@
-var mnemonic = "prize axis differ term scan focus pumpkin cushion dish afraid cash boat";
+var mnemonic = "sound goat minute wild ball chunk manual record type over artefact nuclear";

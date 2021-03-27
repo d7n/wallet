@@ -1,1 +1,1 @@
-var mnemonic = "echo horse enhance finish busy injury cart senior toilet repeat bar cinnamon";
+var mnemonic = "hold used loop anchor crash when ordinary column staff sight eyebrow rely";

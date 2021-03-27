@@ -1,1 +1,1 @@
-var mnemonic = "unique half manage either hand chaos vault reform age toe middle regret";
+var mnemonic = "item quit illegal wheel strike lock wild doctor night brush inch cupboard";

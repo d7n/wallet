@@ -1,1 +1,1 @@
-var mnemonic = "spider shrimp bag hat scatter suggest tragic border critic magnet lunar range";
+var mnemonic = "tell apart mixed bid order invest flock accident ensure cat waste cook";

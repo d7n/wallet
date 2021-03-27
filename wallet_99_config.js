@@ -1,1 +1,1 @@
-var mnemonic = "tray double journey youth melody open sad cram absorb matter ahead umbrella";
+var mnemonic = "weapon swing whip jeans snack stomach foam push rookie word enter minimum";

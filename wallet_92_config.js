@@ -1,1 +1,1 @@
-var mnemonic = "churn buffalo long tongue own diamond shallow economy piano dad ten whisper";
+var mnemonic = "immune success aware hundred sketch cinnamon mountain jazz sure veteran oyster usage";

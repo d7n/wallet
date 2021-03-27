@@ -1,1 +1,1 @@
-var mnemonic = "dignity moment stove indicate trust chef lend boss lonely treat ginger rely";
+var mnemonic = "coast uncover month try sun patch million twin hole embark borrow ethics";

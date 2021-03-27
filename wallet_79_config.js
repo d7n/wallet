@@ -1,1 +1,1 @@
-var mnemonic = "name wagon toy puppy october finger reopen height divert assume claim critic";
+var mnemonic = "race thought wrist quarter defense faculty cliff pen load supreme void riot";

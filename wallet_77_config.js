@@ -1,1 +1,1 @@
-var mnemonic = "evoke oak entire range write decrease gather broken forward party multiply fox";
+var mnemonic = "electric rabbit canoe avocado witness base wheel suffer voice noble drop visa";

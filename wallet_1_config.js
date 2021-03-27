@@ -1,1 +1,1 @@
-var mnemonic = "speak welcome target shaft unfold smoke adult fitness ribbon clap cement promote";
+var mnemonic = "gaze borrow drastic fork august chief fever have syrup guess acquire strong";

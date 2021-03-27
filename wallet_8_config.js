@@ -1,1 +1,1 @@
-var mnemonic = "like option satoshi turn neglect buzz buyer present miracle baby head one";
+var mnemonic = "blood image defy dolphin rural begin doll soul owner tooth they chief";

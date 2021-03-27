@@ -1,1 +1,1 @@
-var mnemonic = "height heart vessel error position mention advance whisper thought eight pet math";
+var mnemonic = "valid thrive close olympic rhythm circle good wear smooth wide mechanic ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "genius sleep shoot barely home aspect helmet announce night shadow flash absent";
+var mnemonic = "furnace salmon number pulse swap warm box noise because tuna another pupil";

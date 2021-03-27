@@ -1,1 +1,1 @@
-var mnemonic = "merge coil inform shiver unlock clutch equip gauge small because mask tissue";
+var mnemonic = "pepper dismiss gallery talk dynamic solution ready aim infant category desert address";

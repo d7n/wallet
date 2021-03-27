@@ -1,1 +1,1 @@
-var mnemonic = "ankle gloom pencil wool excuse squirrel possible swear dream curtain bird ceiling";
+var mnemonic = "cherry shoe staff isolate hello hub exact key heart cash act panel";

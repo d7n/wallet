@@ -1,1 +1,1 @@
-var mnemonic = "boy leaf seat slam suggest carbon genuine loop muffin use punch green";
+var mnemonic = "logic bread globe penalty tag early popular silver eager autumn sure limit";

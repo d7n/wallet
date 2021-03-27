@@ -1,1 +1,1 @@
-var mnemonic = "victory sponsor tip steel run collect skirt bronze describe gold shine canyon";
+var mnemonic = "amateur vivid any success radar pottery fence quote lift balance method super";

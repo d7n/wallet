@@ -1,1 +1,1 @@
-var mnemonic = "toy venue draw bean blush pause record airport depth dress faculty holiday";
+var mnemonic = "salmon obtain elegant appear vehicle galaxy tide fan secret skate crucial caught";

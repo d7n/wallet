@@ -1,1 +1,1 @@
-var mnemonic = "guard team comfort forget penalty double logic dragon torch noise addict way";
+var mnemonic = "about three afraid current exhibit galaxy chapter raccoon angle lawsuit meadow expire";

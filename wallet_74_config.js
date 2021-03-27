@@ -1,1 +1,1 @@
-var mnemonic = "orange cigar lab ordinary vacant describe hunt enough miss sword lava exit";
+var mnemonic = "comic poet tackle few fall popular icon wall mystery run pizza stereo";

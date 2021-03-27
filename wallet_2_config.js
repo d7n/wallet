@@ -1,1 +1,1 @@
-var mnemonic = "thumb drift athlete lock current glad crumble forum ramp engage mystery brass";
+var mnemonic = "exile chimney smile sustain caution brown life obvious join cause pause jeans";

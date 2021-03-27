@@ -1,1 +1,1 @@
-var mnemonic = "daring this bean powder correct beach absent hole engine pelican cereal drastic";
+var mnemonic = "effort midnight relief essence drive broccoli rotate tree zebra rain skin today";

@@ -1,1 +1,1 @@
-var mnemonic = "around retire inherit champion pause smart level bridge client reason ready galaxy";
+var mnemonic = "engage evidence assist innocent amateur source cluster pupil tower gaze chair hover";

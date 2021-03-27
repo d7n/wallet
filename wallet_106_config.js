@@ -1,1 +1,1 @@
-var mnemonic = "window grow margin rhythm wire sniff razor asthma symptom course concert scrap";
+var mnemonic = "siren gas edit truck aim business pluck chair shy mother grit exact";

@@ -1,1 +1,1 @@
-var mnemonic = "inch able inmate crazy advance state among despair sugar rural replace zone";
+var mnemonic = "setup west strike syrup child twelve hole panel wish mirror audit squirrel";

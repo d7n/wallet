@@ -1,1 +1,1 @@
-var mnemonic = "place orange grow carpet suffer trash couple security scatter teach broken twist";
+var mnemonic = "slim fade oak owner pottery envelope way still dance abstract alcohol episode";

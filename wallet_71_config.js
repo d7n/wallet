@@ -1,1 +1,1 @@
-var mnemonic = "rough increase sad mirror layer parent rack february crowd loan define dentist";
+var mnemonic = "field neglect bamboo dose theme patch section error scan water woman cry";

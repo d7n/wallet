@@ -1,1 +1,1 @@
-var mnemonic = "extra link range color leopard relax potato carbon together bubble attend network";
+var mnemonic = "permit retreat sort figure glove love train deliver person fabric derive fix";

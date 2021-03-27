@@ -1,1 +1,1 @@
-var mnemonic = "often retire include wide slice faculty pony virus pencil luggage rigid false";
+var mnemonic = "invite hover lens laugh napkin report pass pistol garbage soul pupil trash";

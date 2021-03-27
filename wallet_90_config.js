@@ -1,1 +1,1 @@
-var mnemonic = "object thought perfect rice stomach dawn planet juice orange pattern pill edge";
+var mnemonic = "home dune parrot scatter oil fault camera initial awesome exhaust strike ketchup";

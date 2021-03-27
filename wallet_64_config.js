@@ -1,1 +1,1 @@
-var mnemonic = "adult animal odor tomato east wash large puzzle switch call foam exhaust";
+var mnemonic = "cave hundred direct warrior script bicycle street shock current treat rose rotate";

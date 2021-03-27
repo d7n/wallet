@@ -1,1 +1,1 @@
-var mnemonic = "catch trial explain dial space cushion what midnight exist under arrest garage";
+var mnemonic = "soccer evoke history park doctor print hen enroll jelly tragic aware under";

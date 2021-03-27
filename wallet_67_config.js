@@ -1,1 +1,1 @@
-var mnemonic = "plate tornado private best fence waste flock box record tent renew caution";
+var mnemonic = "surprise crane urban gloom clay swamp heavy present draw blouse trap coil";

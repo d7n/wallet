@@ -1,1 +1,1 @@
-var mnemonic = "toast border approve very skill valve phone can prosper discover wealth gloom";
+var mnemonic = "diamond twelve ready cost puzzle fly crisp fork staff wide lady barely";

@@ -1,1 +1,1 @@
-var mnemonic = "march federal recipe trash guide time scissors you dust certain lounge jacket";
+var mnemonic = "bulk renew grocery love kingdom filter execute viable purity shed despair viable";

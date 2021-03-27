@@ -1,1 +1,1 @@
-var mnemonic = "run open lonely close ozone horse inmate cook track alter wasp space";
+var mnemonic = "broccoli rail mystery drop source quick wait liberty shine misery suspect please";

@@ -1,1 +1,1 @@
-var mnemonic = "fence merry belt you lift about swim grain maple rhythm snow about";
+var mnemonic = "scrub mask emerge expose gorilla hat appear brick body color table jar";

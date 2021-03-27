@@ -1,1 +1,1 @@
-var mnemonic = "snake amused home pioneer banana hammer begin lecture agree track usual dial";
+var mnemonic = "flame domain depend acoustic amazing one gallery siege hamster bitter foil grunt";

@@ -1,1 +1,1 @@
-var mnemonic = "enter wine purity duty claim quantum shoulder warfare inquiry drift tree endless";
+var mnemonic = "private elevator window brave limb dune ski fetch voice type three crush";

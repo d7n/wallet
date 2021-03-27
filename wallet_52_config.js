@@ -1,1 +1,1 @@
-var mnemonic = "parrot broccoli arch share pottery oxygen between essay elevator runway broccoli junior";
+var mnemonic = "define rather seek employ cream heavy broccoli despair used affair essence author";

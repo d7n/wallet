@@ -1,1 +1,1 @@
-var mnemonic = "pole safe table control settle clip section dash spray such oven pet";
+var mnemonic = "pole bring together jealous slam tragic grunt people cart razor coral cruel";

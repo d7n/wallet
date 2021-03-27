@@ -1,1 +1,1 @@
-var mnemonic = "tuition addict lounge usage pond annual unveil vocal brother promote soldier salad";
+var mnemonic = "photo bulb leg broken skin nice meat few bitter remain giraffe camp";

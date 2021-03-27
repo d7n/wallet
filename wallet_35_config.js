@@ -1,1 +1,1 @@
-var mnemonic = "dolphin wheat gospel slot camera curtain erosion food author help doctor creek";
+var mnemonic = "riot symbol sugar lens major beach announce hedgehog clarify winter picnic bracket";

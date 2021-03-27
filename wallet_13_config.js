@@ -1,1 +1,1 @@
-var mnemonic = "stock ignore usage coil gate used into stick river comfort boring work";
+var mnemonic = "item buyer already you upon cook caution fetch quote grocery silk transfer";
