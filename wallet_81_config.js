@@ -1,1 +1,1 @@
-var mnemonic = "inner mansion paddle helmet excuse kind shiver donor doll coin glide fragile";
+var mnemonic = "beauty ancient rural daring trust direct enjoy bachelor label small cattle crumble";

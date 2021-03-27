@@ -1,1 +1,1 @@
-var mnemonic = "adjust wine tongue kangaroo purchase illness century picture crazy task lamp all";
+var mnemonic = "spy jelly carry funny idle detect will depend ostrich spoil fuel glow";

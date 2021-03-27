@@ -1,1 +1,1 @@
-var mnemonic = "open blame defy any chunk outer tone oven fire burden inflict act";
+var mnemonic = "deny doctor relax praise neutral grant olympic office attend decade all achieve";

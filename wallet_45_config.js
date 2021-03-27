@@ -1,1 +1,1 @@
-var mnemonic = "bonus maze entire mosquito general moral finger local century decrease good satisfy";
+var mnemonic = "blue best disagree goddess sphere relief again relax any south asset village";

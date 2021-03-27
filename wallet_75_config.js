@@ -1,1 +1,1 @@
-var mnemonic = "throw photo nuclear dirt typical behind when sock captain inject erosion admit";
+var mnemonic = "salt jewel spider either use oval confirm body praise hamster copper curious";

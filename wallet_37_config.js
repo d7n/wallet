@@ -1,1 +1,1 @@
-var mnemonic = "require shrug hedgehog nose edge payment mercy lounge never legend critic pattern";
+var mnemonic = "home keen circle elegant awful rookie before spice toast unhappy chalk eight";

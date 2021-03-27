@@ -1,1 +1,1 @@
-var mnemonic = "despair obscure session master brick ankle display school drive season they combine";
+var mnemonic = "excuse repair absurd virtual hundred loud light evolve pulse soccer light drift";

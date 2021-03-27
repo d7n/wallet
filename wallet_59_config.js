@@ -1,1 +1,1 @@
-var mnemonic = "lend giant dial urge captain divide rather position shuffle already flip pelican";
+var mnemonic = "actual stem burden satisfy battle sell famous lucky lady this agree six";

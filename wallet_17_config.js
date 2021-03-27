@@ -1,1 +1,1 @@
-var mnemonic = "crater bullet genuine dizzy sad urban problem lamp shallow bulk kingdom clay";
+var mnemonic = "deposit night teach photo ignore lunar problem endorse grain century birth area";

@@ -1,1 +1,1 @@
-var mnemonic = "broken link arena sun arrow aunt pistol pool change cannon worth moral";
+var mnemonic = "slow squeeze crush wine pony voice alien lounge remind proof present hollow";

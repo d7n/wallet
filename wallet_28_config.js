@@ -1,1 +1,1 @@
-var mnemonic = "oval million add balance green position example state wrist toss rebel decide";
+var mnemonic = "spend invite chapter page burden enrich base initial explain deal mammal blossom";

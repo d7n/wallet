@@ -1,1 +1,1 @@
-var mnemonic = "hood cabin share you lift dash park athlete ritual saddle lava cycle";
+var mnemonic = "double update sunset virtual heavy search agent inspire rubber joke echo assume";

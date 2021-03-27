@@ -1,1 +1,1 @@
-var mnemonic = "barrel lift expect adult author peanut hamster circle rookie spider deputy disagree";
+var mnemonic = "ignore knife tower impose cancel alert craft sniff tuition cereal coconut soup";

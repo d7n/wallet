@@ -1,1 +1,1 @@
-var mnemonic = "picture spot twin barrel capable poverty canoe barrel increase leave identify hunt";
+var mnemonic = "require siren weekend improve cannon urban sport ripple grid million game actual";

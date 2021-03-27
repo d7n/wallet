@@ -1,1 +1,1 @@
-var mnemonic = "drastic give bubble order hundred diagram bean token harsh head luxury raise";
+var mnemonic = "prefer mass genuine unusual trumpet atom poem entire like detect pool yellow";

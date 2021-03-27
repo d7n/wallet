@@ -1,1 +1,1 @@
-var mnemonic = "tenant sorry cancel conduct lamp between need grunt nerve guilt state survey";
+var mnemonic = "dice rapid half odor endorse mercy media sugar animal beauty boat bacon";

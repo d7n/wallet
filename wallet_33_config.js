@@ -1,1 +1,1 @@
-var mnemonic = "trial coast one bind high grab gain now pull day april inch";
+var mnemonic = "mass horror physical moon unveil tornado mean solar nothing bulb next lunch";

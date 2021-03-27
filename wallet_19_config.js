@@ -1,1 +1,1 @@
-var mnemonic = "silver dance much between inch team round zero kitchen matter visit path";
+var mnemonic = "stand rally pledge rate like agent wood spray invest base switch kangaroo";

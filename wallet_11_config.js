@@ -1,1 +1,1 @@
-var mnemonic = "radio pulse problem clock patch place path laundry carpet sheriff carry enact";
+var mnemonic = "rebel polar renew humor fly carry various power grief cinnamon exist skin";

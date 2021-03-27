@@ -1,1 +1,1 @@
-var mnemonic = "earn eager awful double control valley poem mandate beach loud luxury cycle";
+var mnemonic = "dog army borrow timber square panda agent snow swallow insect rabbit wedding";

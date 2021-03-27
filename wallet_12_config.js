@@ -1,1 +1,1 @@
-var mnemonic = "roof trick image celery clever stick blame series escape patient found pink";
+var mnemonic = "deposit marriage fragile snack enhance drop guide bullet elephant indoor detail erode";

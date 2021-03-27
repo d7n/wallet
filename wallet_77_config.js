@@ -1,1 +1,1 @@
-var mnemonic = "predict judge orchard marriage into sad kangaroo increase bridge jaguar people gift";
+var mnemonic = "three pyramid aware tell coin evil verify exit canyon weekend rifle arctic";

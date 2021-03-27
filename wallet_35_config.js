@@ -1,1 +1,1 @@
-var mnemonic = "wisdom sunny buddy paper picture cheese grant ice jazz unit cram pretty";
+var mnemonic = "glove bleak inch ensure retreat again net sun awful law carpet health";

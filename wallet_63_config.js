@@ -1,1 +1,1 @@
-var mnemonic = "aim improve august gasp visual acoustic enemy lottery present alter tongue interest";
+var mnemonic = "reopen demand napkin produce purity post common junior apology blade cereal shift";

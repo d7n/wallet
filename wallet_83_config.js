@@ -1,1 +1,1 @@
-var mnemonic = "nephew wonder clump daughter smile hammer crunch hollow illness artist crash tiger";
+var mnemonic = "right regular public taste casual crowd cave fiber gas tunnel question walnut";

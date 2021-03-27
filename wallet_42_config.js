@@ -1,1 +1,1 @@
-var mnemonic = "ocean possible busy witness neck copy number toe predict suggest manual river";
+var mnemonic = "speak tank jar gravity nut water shrimp unable expose proud blanket recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "session what speak tired pill begin silly demise float fantasy gasp hungry";
+var mnemonic = "citizen filter picture loop letter delay actual model beauty donkey erode clump";

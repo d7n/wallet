@@ -1,1 +1,1 @@
-var mnemonic = "wagon tunnel enlist abuse suit live glory around pair tray still coast";
+var mnemonic = "meat erosion attract wedding sign distance dynamic style harvest gadget foster pole";

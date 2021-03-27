@@ -1,1 +1,1 @@
-var mnemonic = "grunt elder bind one allow frozen twin require echo aisle walnut curtain";
+var mnemonic = "alone expire federal range flame excite seven job patrol define wrist purse";

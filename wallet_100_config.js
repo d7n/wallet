@@ -1,1 +1,1 @@
-var mnemonic = "fat outer void ketchup profit dinner age helmet hotel pottery crouch guide";
+var mnemonic = "mechanic truth million endorse uncover phone utility twenty maximum can better destroy";

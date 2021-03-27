@@ -1,1 +1,1 @@
-var mnemonic = "eight glory cabbage rely curious render news brand unveil melody turkey consider";
+var mnemonic = "actual myth whisper kingdom this icon girl mixed destroy decide nice pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "knock hope ritual inject critic unable science polar mixed west portion physical";
+var mnemonic = "oxygen ten manage moment barely off acid dose peanut split seek page";

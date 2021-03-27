@@ -1,1 +1,1 @@
-var mnemonic = "model kitchen flat umbrella grain fish depend degree avoid blush library actor";
+var mnemonic = "shift note swift chalk puppy fly reason alert excite onion defy math";

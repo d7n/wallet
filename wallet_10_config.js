@@ -1,1 +1,1 @@
-var mnemonic = "sting manual price dolphin change fetch lunch hair any image harvest click";
+var mnemonic = "celery maximum prepare black sauce convince orchard oppose hurry between maid display";

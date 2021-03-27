@@ -1,1 +1,1 @@
-var mnemonic = "exchange zone distance upset gentle turkey tissue canvas device vessel soda inner";
+var mnemonic = "note polar cargo enforce write swear flight water lizard hungry voyage field";

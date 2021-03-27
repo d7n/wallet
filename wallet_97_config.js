@@ -1,1 +1,1 @@
-var mnemonic = "follow quote napkin swarm armor tongue twist vital drink book vessel evoke";
+var mnemonic = "exotic balance direct tool grow festival chief axis globe autumn dismiss thrive";

@@ -1,1 +1,1 @@
-var mnemonic = "thing left bunker vibrant clerk shift level tomorrow pill purse ready push";
+var mnemonic = "tomorrow kangaroo chunk tray eagle quality bulb jaguar live extra perfect lion";

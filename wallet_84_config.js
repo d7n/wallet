@@ -1,1 +1,1 @@
-var mnemonic = "slow valve thing opinion march load price avoid crater buffalo only valve";
+var mnemonic = "mixture behave win endless lift wool ketchup comfort critic clay skin puzzle";

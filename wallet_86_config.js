@@ -1,1 +1,1 @@
-var mnemonic = "hamster razor palm orient divorce light genuine deputy crazy tube provide champion";
+var mnemonic = "source pledge post mad artefact feature lawsuit ladder begin inflict snake grunt";

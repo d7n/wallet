@@ -1,1 +1,1 @@
-var mnemonic = "carry cricket shed open adult exhaust dad siege improve fatal subject winner";
+var mnemonic = "similar letter broken actual deposit salad direct sick robot increase group finish";

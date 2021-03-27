@@ -1,1 +1,1 @@
-var mnemonic = "social enough skin oppose build cute patch april announce girl travel knee";
+var mnemonic = "surprise prison vintage sick ranch notice clog coral usage hint invite enter";

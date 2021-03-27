@@ -1,1 +1,1 @@
-var mnemonic = "grow fragile mother spare oyster define expand cup language fiction mule sure";
+var mnemonic = "summer awkward reduce scatter figure decade fit layer grit sweet impact this";

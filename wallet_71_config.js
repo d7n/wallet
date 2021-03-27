@@ -1,1 +1,1 @@
-var mnemonic = "material fee mom laundry sausage have unaware tiny advice analyst involve twice";
+var mnemonic = "skirt mirror match grocery prosper lawn cry hidden filter brush swallow reward";

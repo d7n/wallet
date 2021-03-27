@@ -1,1 +1,1 @@
-var mnemonic = "mother shrug among scheme soccer require stem cycle course giraffe solid rich";
+var mnemonic = "skill fish chaos absorb great noble laugh thrive orient choice close bullet";

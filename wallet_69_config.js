@@ -1,1 +1,1 @@
-var mnemonic = "minor food movie coffee scout pitch jungle acid jaguar pitch engine home";
+var mnemonic = "remain shell tone mixed save glare okay viable million liar fame remember";

@@ -1,1 +1,1 @@
-var mnemonic = "depend year claw correct private obscure couch lazy chair correct roof brush";
+var mnemonic = "powder clock violin sun undo craft crawl double buffalo comfort sorry bulb";

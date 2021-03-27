@@ -1,1 +1,1 @@
-var mnemonic = "top auction excite embody camera fever pink best habit analyst hub cinnamon";
+var mnemonic = "anger equip wise matter odor coral pottery analyst squirrel pupil pupil public";

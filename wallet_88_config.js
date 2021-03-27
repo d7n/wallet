@@ -1,1 +1,1 @@
-var mnemonic = "buzz candy moon lamp warfare marble anxiety impulse glory bicycle immense air";
+var mnemonic = "vanish rough someone blouse squeeze flavor key echo height balance onion admit";

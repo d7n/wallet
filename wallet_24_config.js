@@ -1,1 +1,1 @@
-var mnemonic = "tennis tube unit unknown jelly say globe universe divert tank term spice";
+var mnemonic = "weather exclude flag private anger potato device soon online hunt build cram";

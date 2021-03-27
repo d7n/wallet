@@ -1,1 +1,1 @@
-var mnemonic = "perfect crane step dream loop theory rely learn salt winner asset elevator";
+var mnemonic = "range silver spider produce club turn romance fabric cluster proof seminar civil";

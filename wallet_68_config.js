@@ -1,1 +1,1 @@
-var mnemonic = "tiny scene reform solid boring only language verify inch arrow mask rude";
+var mnemonic = "educate buyer spring chalk perfect adult manage exit group jacket cable measure";

@@ -1,1 +1,1 @@
-var mnemonic = "open visit rich economy snake network common century check salmon clump pink";
+var mnemonic = "pact duck review glare health crystal faith spawn party oyster dutch pledge";

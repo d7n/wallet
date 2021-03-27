@@ -1,1 +1,1 @@
-var mnemonic = "wall useless boost ghost dolphin message also shoulder joke crumble cradle rally";
+var mnemonic = "shoe gentle spider doctor cram reflect copy mystery symptom inch book announce";

@@ -1,1 +1,1 @@
-var mnemonic = "flock danger congress huge bitter tattoo person hood little swing barely card";
+var mnemonic = "attitude shuffle estate praise upon clap quote female verb leader fetch maze";

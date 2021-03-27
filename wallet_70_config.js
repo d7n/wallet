@@ -1,1 +1,1 @@
-var mnemonic = "muffin vendor learn garlic jealous jump lunch item dragon engage circle treat";
+var mnemonic = "kiwi lemon punch guitar walk uphold hurdle clump razor obey maze scout";

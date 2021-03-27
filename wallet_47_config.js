@@ -1,1 +1,1 @@
-var mnemonic = "boost nose buffalo great elevator yard domain enable ladder emerge search parade";
+var mnemonic = "month film cart gate light arena movie spy nerve embrace pigeon timber";

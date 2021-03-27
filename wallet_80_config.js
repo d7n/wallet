@@ -1,1 +1,1 @@
-var mnemonic = "desk spend skin bind excite cargo east develop talent property blanket miracle";
+var mnemonic = "enrich spread image empower drop current finger tissue machine manual popular tide";

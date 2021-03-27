@@ -1,1 +1,1 @@
-var mnemonic = "math foil music total pretty cat roast boost base resist winter liar";
+var mnemonic = "air card photo fossil artist edit dynamic enroll century park useful upon";

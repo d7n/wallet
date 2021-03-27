@@ -1,1 +1,1 @@
-var mnemonic = "toward road afraid student tunnel grow outer ceiling spoon candy visit eager";
+var mnemonic = "vivid margin exist spot hole garlic live hunt shoe truck brass actual";

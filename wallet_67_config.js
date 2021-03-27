@@ -1,1 +1,1 @@
-var mnemonic = "air magic hero achieve hockey weather silent wreck spell toe abstract across";
+var mnemonic = "leisure ready drift shuffle argue current message private neglect arrive fabric combine";

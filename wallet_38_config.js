@@ -1,1 +1,1 @@
-var mnemonic = "flock real length unusual frozen remember vessel toy elite truck tilt slot";
+var mnemonic = "chimney ghost silent pulp kitten alpha control palm note soda easy bid";

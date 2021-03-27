@@ -1,1 +1,1 @@
-var mnemonic = "pear retreat soft ignore emotion much purity viable open brand medal oil";
+var mnemonic = "under envelope exercise galaxy relief expose reunion guard price keen photo convince";

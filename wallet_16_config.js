@@ -1,1 +1,1 @@
-var mnemonic = "verify visa wisdom canvas problem limit decrease build flock mandate doctor pledge";
+var mnemonic = "phrase priority relax frown sure catch dance dice cloud video home trim";

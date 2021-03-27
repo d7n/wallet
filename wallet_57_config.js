@@ -1,1 +1,1 @@
-var mnemonic = "amused quantum enable prison barely tray accuse define royal lab slush velvet";
+var mnemonic = "pipe music escape derive strike member lounge someone employ wire menu puppy";

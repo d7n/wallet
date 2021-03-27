@@ -1,1 +1,1 @@
-var mnemonic = "dust asthma rude brain knee radar safe prosper between twist wise text";
+var mnemonic = "segment sniff saddle mass inhale dynamic brain scheme drip forest balance weird";

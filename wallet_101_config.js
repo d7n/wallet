@@ -1,1 +1,1 @@
-var mnemonic = "skin arena try coil tail submit tuna tiny symbol manage head frown";
+var mnemonic = "teach swarm next pen bless cat snap settle random cradle laugh rice";

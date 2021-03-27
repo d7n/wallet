@@ -1,1 +1,1 @@
-var mnemonic = "vapor step bacon crowd popular book float gentle neutral sick dolphin flat";
+var mnemonic = "almost clever annual spring early meat casual scissors stool surround debris media";

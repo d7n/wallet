@@ -1,1 +1,1 @@
-var mnemonic = "use cook eternal pizza daughter economy apart nut mouse soldier cage crucial";
+var mnemonic = "top squirrel train walnut large mom adapt width learn bench cave fly";

@@ -1,1 +1,1 @@
-var mnemonic = "appear suggest vault nurse aunt advance couple warrior spoil tank face appear";
+var mnemonic = "primary satoshi elegant steel pattern laptop frame split dash scheme broken public";

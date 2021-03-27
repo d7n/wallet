@@ -1,1 +1,1 @@
-var mnemonic = "purity truth birth account animal parade happy crush wasp quit obscure bird";
+var mnemonic = "north snap gaze midnight tortoise solid wrap evil violin rug joy sausage";

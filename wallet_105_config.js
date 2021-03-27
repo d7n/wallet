@@ -1,1 +1,1 @@
-var mnemonic = "kingdom copper disorder pear tobacco camp stock hire ask friend recipe stay";
+var mnemonic = "unlock conduct cloud awkward olympic caught daring divide popular trumpet bind talk";

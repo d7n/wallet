@@ -1,1 +1,1 @@
-var mnemonic = "panic fury fresh stomach cotton magic slow mansion charge ice fuel wink";
+var mnemonic = "churn want ignore morning certain transfer hurt matrix foot essence planet notice";

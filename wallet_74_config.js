@@ -1,1 +1,1 @@
-var mnemonic = "ranch sketch blood erosion hover drive collect trigger aisle nephew box scan";
+var mnemonic = "small custom busy leave clutch clever employ fabric have wink above kidney";

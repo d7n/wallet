@@ -1,1 +1,1 @@
-var mnemonic = "hawk upset assault note give abandon scare shop faculty pull tattoo hole";
+var mnemonic = "birth zone excess keep guitar swift math crouch fiscal invest carry isolate";

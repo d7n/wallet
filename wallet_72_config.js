@@ -1,1 +1,1 @@
-var mnemonic = "equip knock true nature drastic tree ocean turn tortoise waste dial remember";
+var mnemonic = "wealth twist bleak fault merge sport subject loan fold front method valid";

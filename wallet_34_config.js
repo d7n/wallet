@@ -1,1 +1,1 @@
-var mnemonic = "prison apple slice law cake stage help earth item bottom normal noble";
+var mnemonic = "sugar coin usual honey armed search torch business develop runway comic absent";

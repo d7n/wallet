@@ -1,1 +1,1 @@
-var mnemonic = "topple account attend medal elbow quality lemon silk toe drive water chaos";
+var mnemonic = "crazy canal opinion multiply path remain elephant script fashion rifle submit wood";

@@ -1,1 +1,1 @@
-var mnemonic = "false youth frequent lift modify stereo lawsuit october bring outside more same";
+var mnemonic = "limit cost build spoon inherit blue combine bless chair about level solve";

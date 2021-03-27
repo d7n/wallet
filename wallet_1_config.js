@@ -1,1 +1,1 @@
-var mnemonic = "cotton cereal cradle clinic tent permit diagram vibrant ensure unable film cherry";
+var mnemonic = "loyal panther science casual creek legal limb satisfy mask crawl soccer lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "beyond final large fringe depend fever tree sustain cool word purse palm";
+var mnemonic = "talent spirit collect ice ahead slot keen during identify solid squeeze mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "gesture draw afford various town omit chef cruel arch clever scorpion puzzle";
+var mnemonic = "suffer broom table unusual blame physical quiz corn other test fine volcano";

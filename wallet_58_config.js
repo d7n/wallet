@@ -1,1 +1,1 @@
-var mnemonic = "remind worry foot thank group quiz harvest recycle solution melody soft noble";
+var mnemonic = "hero original occur labor clerk adjust oblige local april robust predict then";

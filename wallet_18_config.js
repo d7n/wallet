@@ -1,1 +1,1 @@
-var mnemonic = "example clay relief debate patient aisle exile word destroy join smile pink";
+var mnemonic = "family renew news ice pudding couple ship brand million dawn cricket east";

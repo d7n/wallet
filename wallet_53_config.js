@@ -1,1 +1,1 @@
-var mnemonic = "rabbit sick fiscal write fire ugly hen trip throw skirt harvest debate";
+var mnemonic = "version defy flock marriage usual laptop proud object meadow frequent follow cupboard";

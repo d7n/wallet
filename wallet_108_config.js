@@ -1,1 +1,1 @@
-var mnemonic = "recall stamp egg kid lazy axis rocket mesh matrix alien come invest";
+var mnemonic = "sand gossip giraffe suggest include pyramid lake keen cheese spirit aunt jewel";

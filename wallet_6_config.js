@@ -1,1 +1,1 @@
-var mnemonic = "strategy burst canal text mimic pepper link salon lucky cliff ladder chronic";
+var mnemonic = "upper juice install erosion chronic just lab blur injury craft wheel sight";

@@ -1,1 +1,1 @@
-var mnemonic = "butter mushroom stone salon fluid link float since rain draw swallow grace";
+var mnemonic = "indicate brush couple town science grab cool enlist earth eagle snack rare";

@@ -1,1 +1,1 @@
-var mnemonic = "aim civil sword improve thank section dragon spatial stone sick country deer";
+var mnemonic = "arch fade lecture actual crane undo limb spoon hospital junk sleep replace";
