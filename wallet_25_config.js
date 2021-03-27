@@ -1,1 +1,1 @@
-var mnemonic = "fatal brisk abstract crack bright bronze acquire envelope strategy interest addict scrap";
+var mnemonic = "february moment leader current sign dune lock animal burden young cliff once";

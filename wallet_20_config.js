@@ -1,1 +1,1 @@
-var mnemonic = "tell vague puzzle slab arm fine consider little blanket dentist adult define";
+var mnemonic = "share wage mimic medal rent unveil vendor onion track other vital urban";

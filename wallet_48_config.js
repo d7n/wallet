@@ -1,1 +1,1 @@
-var mnemonic = "remember bread female meadow layer detect visual blouse valve believe turtle spider";
+var mnemonic = "antenna sock apple barely rather find couch apple pact zebra same rack";

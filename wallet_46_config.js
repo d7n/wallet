@@ -1,1 +1,1 @@
-var mnemonic = "warrior wedding over absent fun gift system festival armed put quarter tonight";
+var mnemonic = "web rice virus skull gym gentle recipe pony census digital wealth tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "behave fluid chalk bright circle drastic elder hover vague antenna talent ritual";
+var mnemonic = "stick tattoo flash grass asset evidence pink card wine brass heart prefer";

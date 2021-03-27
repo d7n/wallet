@@ -1,1 +1,1 @@
-var mnemonic = "hope comfort ask enroll fish crystal kidney hybrid fever dog zone scatter";
+var mnemonic = "immense immense north renew spawn spatial inside economy drum stock rotate room";

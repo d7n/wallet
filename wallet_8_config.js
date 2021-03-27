@@ -1,1 +1,1 @@
-var mnemonic = "wage business small camp torch wasp embody nurse switch vital again estate";
+var mnemonic = "unable neglect hand lonely mansion hurry unfold brave wealth float over extra";

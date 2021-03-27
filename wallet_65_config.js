@@ -1,1 +1,1 @@
-var mnemonic = "again chair first winner liquid trash carry valley candy manage riot allow";
+var mnemonic = "image crunch wrestle seek surround magic paddle busy melt denial spin van";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy gospel bomb true modify defy local hover journey slow fold cruel";
+var mnemonic = "defy eagle front lazy meat topic win pear apart spy bacon violin";

@@ -1,1 +1,1 @@
-var mnemonic = "leave butter warm claim maple trip decrease foster broken reason vapor guide";
+var mnemonic = "north shove sting lift agent cage steel awesome entry agree town fiber";

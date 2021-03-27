@@ -1,1 +1,1 @@
-var mnemonic = "phone dentist fancy candy catalog black bunker report firm keen mutual move";
+var mnemonic = "orphan essay spread legend scorpion pretty finger sausage host draw yard episode";

@@ -1,1 +1,1 @@
-var mnemonic = "dog short gentle mom space float swap what motor impact captain cargo";
+var mnemonic = "you erosion fruit voyage alarm task bicycle tube bar erase gift trade";

@@ -1,1 +1,1 @@
-var mnemonic = "forget possible thumb ball recall stem public hawk squeeze episode old person";
+var mnemonic = "repeat damage path dilemma noise village camera parade million fancy dad fury";

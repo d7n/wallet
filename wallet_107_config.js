@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow donate extend gold pull hip main praise april obvious crime myself";
+var mnemonic = "exist wreck leisure lemon review hub truly identify mystery ceiling cruise canal";

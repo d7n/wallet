@@ -1,1 +1,1 @@
-var mnemonic = "true seat unfair try come minute ice bench fall minor more post";
+var mnemonic = "magic admit dizzy minimum reform ten member suit blossom license orchard winner";

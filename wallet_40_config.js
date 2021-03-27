@@ -1,1 +1,1 @@
-var mnemonic = "arena weapon pear taste scout tomato kingdom target crowd add fix beauty";
+var mnemonic = "symbol bus injury method movie because intact unknown hill slot curtain sleep";

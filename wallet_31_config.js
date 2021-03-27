@@ -1,1 +1,1 @@
-var mnemonic = "picnic nasty alter rabbit proud valve harvest trap vacuum fall few million";
+var mnemonic = "region sport forward day feed during song sight shy green oak law";

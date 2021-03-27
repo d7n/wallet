@@ -1,1 +1,1 @@
-var mnemonic = "embark creek canoe beauty about lesson pattern ghost canal once dentist must";
+var mnemonic = "razor ginger solid caution poet element immune fog flower brass proof window";

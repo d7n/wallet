@@ -1,1 +1,1 @@
-var mnemonic = "orient affair tower wink shallow marine blur decorate whisper almost sadness rail";
+var mnemonic = "twelve crouch insane betray attend lottery position note motion fabric peace evoke";

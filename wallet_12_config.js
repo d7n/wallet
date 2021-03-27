@@ -1,1 +1,1 @@
-var mnemonic = "tide process sauce feed trick priority shine proof deputy science eyebrow security";
+var mnemonic = "demise junior blind possible mystery slam child base material accident usual festival";

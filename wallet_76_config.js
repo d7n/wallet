@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog replace replace essence put desk glad sound note yellow rebuild club";
+var mnemonic = "time wagon sun spare buddy vessel repair describe type adapt erode include";

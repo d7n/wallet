@@ -1,1 +1,1 @@
-var mnemonic = "reward random empty eternal confirm escape save donor penalty guitar fit annual";
+var mnemonic = "rare popular dance vicious across entry among pupil march cluster pipe grant";

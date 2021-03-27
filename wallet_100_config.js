@@ -1,1 +1,1 @@
-var mnemonic = "section club second size print print bind pet grocery lumber fuel evoke";
+var mnemonic = "used burger shrimp possible forest drift solution multiply gesture ensure scissors recall";

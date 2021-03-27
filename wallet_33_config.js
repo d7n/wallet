@@ -1,1 +1,1 @@
-var mnemonic = "forest scrub blanket wealth asset slush latin hint inhale oblige opera settle";
+var mnemonic = "soap season subject wife magnet clip height snap level symptom fix galaxy";

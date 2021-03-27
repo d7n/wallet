@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur cloud donate excess egg cream middle enjoy phrase news island cushion";
+var mnemonic = "promote raw copper resemble chase glass height dose obscure cluster height office";

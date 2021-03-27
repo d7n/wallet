@@ -1,1 +1,1 @@
-var mnemonic = "wine ritual wisdom toy affair heavy approve olive coffee bridge join vintage";
+var mnemonic = "adult anxiety carry skin knee denial legal addict other scorpion wasp sort";

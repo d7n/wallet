@@ -1,1 +1,1 @@
-var mnemonic = "orphan ticket gadget guard train brisk forest account scene solar cost cigar";
+var mnemonic = "code equal tourist flavor joke know repeat minute sense such toilet corn";

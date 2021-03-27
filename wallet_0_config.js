@@ -1,1 +1,1 @@
-var mnemonic = "business reward cube review valley invite mule feed attack talent stem kitchen";
+var mnemonic = "tonight scheme empower inner elephant property laundry never glimpse maze conduct fresh";

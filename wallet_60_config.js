@@ -1,1 +1,1 @@
-var mnemonic = "analyst crop debate firm stand box hair diet survey dirt produce flee";
+var mnemonic = "party suit hold more trend thing shed chest series dinosaur treat super";

@@ -1,1 +1,1 @@
-var mnemonic = "soon tuna expand tip faint act replace thumb random squeeze pilot cargo";
+var mnemonic = "palace roof bomb below divert brisk true giant rug web kid royal";

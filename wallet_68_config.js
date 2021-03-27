@@ -1,1 +1,1 @@
-var mnemonic = "similar decrease ride romance crew quality armed beach slam zoo flock chief";
+var mnemonic = "slight athlete jelly patrol concert relax siege basket idle tank diary inch";

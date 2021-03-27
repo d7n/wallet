@@ -1,1 +1,1 @@
-var mnemonic = "hammer alien club fruit discover south squeeze wage outdoor devote stuff shoot";
+var mnemonic = "notable toe talent drop agent exist number once climb month trigger lemon";

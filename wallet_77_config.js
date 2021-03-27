@@ -1,1 +1,1 @@
-var mnemonic = "birth soda wheat relax please casual ski tumble chest ice wreck popular";
+var mnemonic = "frost enact impact cannon humor barely deer staff latin relax ghost chest";

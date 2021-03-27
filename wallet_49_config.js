@@ -1,1 +1,1 @@
-var mnemonic = "plate will around change tank squeeze slide insect pipe moment say atom";
+var mnemonic = "luxury come stone talent reflect table remember warfare crumble soccer token input";

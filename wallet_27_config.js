@@ -1,1 +1,1 @@
-var mnemonic = "rice clarify guess hotel steak plastic split sure jealous bracket later direct";
+var mnemonic = "remember reject dust gossip deputy day wire draft code oven economy senior";

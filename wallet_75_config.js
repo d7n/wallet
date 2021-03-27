@@ -1,1 +1,1 @@
-var mnemonic = "exhaust hero wheat basic slab approve need empty pill found mirror wheel";
+var mnemonic = "grunt canoe chest color myself extra chronic tip polar chef sunny glad";

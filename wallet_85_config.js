@@ -1,1 +1,1 @@
-var mnemonic = "process neither patient churn target brave start enhance omit chase toward renew";
+var mnemonic = "entry enhance hand chapter strong bounce point pair toddler girl picture relief";

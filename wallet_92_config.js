@@ -1,1 +1,1 @@
-var mnemonic = "spring cross token tornado animal scene deny lens orphan metal ski castle";
+var mnemonic = "define truth hand leg recall purpose hollow giggle squirrel phone interest silly";

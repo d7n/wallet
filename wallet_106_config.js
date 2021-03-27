@@ -1,1 +1,1 @@
-var mnemonic = "foil canal eyebrow wear usage renew unfold dismiss grab gallery hockey wisdom";
+var mnemonic = "brand remain fiscal easy despair parent unfair unaware aunt danger bundle text";

@@ -1,1 +1,1 @@
-var mnemonic = "bean friend faculty ride already giraffe ankle whale vanish priority current thrive";
+var mnemonic = "minimum appear boost ticket valley pottery unfold upon claw frequent list enrich";

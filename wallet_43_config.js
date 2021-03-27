@@ -1,1 +1,1 @@
-var mnemonic = "obvious nephew boost mansion guitar exclude gaze toy intact connect hire van";
+var mnemonic = "canoe sick cause sister flock ankle empower thrive syrup barely upon blouse";

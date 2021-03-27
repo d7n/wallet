@@ -1,1 +1,1 @@
-var mnemonic = "cat rival blush know climb gasp small zebra lunar mansion dilemma picture";
+var mnemonic = "total actual melody pepper permit win eager tilt churn neutral odor secret";

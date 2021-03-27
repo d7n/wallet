@@ -1,1 +1,1 @@
-var mnemonic = "letter know child horse quantum other medal sword lonely palm lake whisper";
+var mnemonic = "mechanic absorb peasant ugly soup chief ensure faculty refuse wreck scare worth";

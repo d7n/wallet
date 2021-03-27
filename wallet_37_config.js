@@ -1,1 +1,1 @@
-var mnemonic = "stay zone love exclude apple fish acid ignore bike plunge extend lake";
+var mnemonic = "apart dish ghost almost paddle roast steel situate aspect tortoise nerve legend";

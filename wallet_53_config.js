@@ -1,1 +1,1 @@
-var mnemonic = "grace mom income type swarm bracket veteran fee mass cherry barely farm";
+var mnemonic = "main thrive utility error claw segment marine mimic dry renew wool width";

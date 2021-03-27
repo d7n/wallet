@@ -1,1 +1,1 @@
-var mnemonic = "beach youth buffalo offer verb polar usual shuffle record gesture turkey badge";
+var mnemonic = "custom duty display team culture degree evoke write nice balcony umbrella grab";

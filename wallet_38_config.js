@@ -1,1 +1,1 @@
-var mnemonic = "dune umbrella miss powder input chicken sample equip staff supreme good federal";
+var mnemonic = "roast protect lamp sudden erosion isolate trust regular budget define adjust cloud";

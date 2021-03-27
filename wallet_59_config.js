@@ -1,1 +1,1 @@
-var mnemonic = "cart approve pigeon wing plastic cherry daughter wall peanut brain orient marriage";
+var mnemonic = "green afford jelly direct very crazy gate nasty throw wife fitness vicious";

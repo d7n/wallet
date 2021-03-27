@@ -1,1 +1,1 @@
-var mnemonic = "require coconut brief audit advance pencil stadium feature father love celery boy";
+var mnemonic = "initial middle race powder fuel someone cost language collect rain salad raise";

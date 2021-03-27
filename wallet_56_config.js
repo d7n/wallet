@@ -1,1 +1,1 @@
-var mnemonic = "speed tank elevator waste alarm cousin nephew ahead view enhance caution track";
+var mnemonic = "shallow once beef soccer raw hedgehog scrap bounce loan nothing wreck price";

@@ -1,1 +1,1 @@
-var mnemonic = "ancient refuse absent twist age glow dish letter emotion movie hello rose";
+var mnemonic = "seed unhappy match speak agent typical busy loyal alley scissors churn top";

@@ -1,1 +1,1 @@
-var mnemonic = "visa drastic nothing width couch legal apple aspect note tuna husband ethics";
+var mnemonic = "jar loan piece regret prison short boss fame vibrant task cruise problem";

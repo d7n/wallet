@@ -1,1 +1,1 @@
-var mnemonic = "voice image female napkin stable federal wise kiss adult panda laundry illness";
+var mnemonic = "donkey panther bunker old quiz reject march dune defense junior together license";

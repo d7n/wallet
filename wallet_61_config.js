@@ -1,1 +1,1 @@
-var mnemonic = "puppy license token treat someone emerge vintage inform school teach project duty";
+var mnemonic = "buffalo text real utility bench robot joke order fresh collect reduce problem";

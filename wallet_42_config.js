@@ -1,1 +1,1 @@
-var mnemonic = "oak catch price enrich invest emotion own ahead labor sleep verb skull";
+var mnemonic = "despair source absurd sadness kitchen confirm carpet common pigeon couple bargain number";

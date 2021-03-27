@@ -1,1 +1,1 @@
-var mnemonic = "poet spin reject property segment amount frozen urban radio awkward hollow sport";
+var mnemonic = "venue kick peanut occur picnic stick alcohol rude dad require truck loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "best income lonely popular robot badge awkward bubble nominee arrow gauge dutch";
+var mnemonic = "merry circle travel sponsor obtain absurd blame improve wheat smooth clutch outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "economy legend crouch donkey blush skull put spice rack void wish ignore";
+var mnemonic = "girl grow token aisle trouble fix tourist actor warm hire weather outdoor";

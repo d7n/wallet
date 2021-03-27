@@ -1,1 +1,1 @@
-var mnemonic = "thrive control monkey crime clock shoot expect vendor moon beach manage vibrant";
+var mnemonic = "machine spell shrug ability entire exhibit convince zebra jazz reunion series finish";

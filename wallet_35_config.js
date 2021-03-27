@@ -1,1 +1,1 @@
-var mnemonic = "march mammal dune turtle skull stove mixture strategy lake scorpion riot solve";
+var mnemonic = "van actual hen satoshi cool pull minimum indoor weasel focus loan insect";

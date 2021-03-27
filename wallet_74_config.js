@@ -1,1 +1,1 @@
-var mnemonic = "trim glad spoon hard pipe milk stumble digital square reveal furnace sniff";
+var mnemonic = "retreat useful super trip occur hour candy purse crumble decade zoo exist";

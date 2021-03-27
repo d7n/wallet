@@ -1,1 +1,1 @@
-var mnemonic = "orchard squeeze below boss forward corn black exit wonder truck voice century";
+var mnemonic = "climb maid ahead lamp barely doll chest inflict kiss between melody meadow";

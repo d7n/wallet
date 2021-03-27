@@ -1,1 +1,1 @@
-var mnemonic = "banner exhaust destroy check ocean radio paper desert bone maple coil deer";
+var mnemonic = "obtain exercise kangaroo blind into crumble catch elevator beauty great comfort empower";

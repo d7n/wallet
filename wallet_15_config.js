@@ -1,1 +1,1 @@
-var mnemonic = "curious mutual upon universe zoo problem cherry craft school sock word flip";
+var mnemonic = "dizzy three orbit identify ceiling more friend boy bridge arm reason liquid";

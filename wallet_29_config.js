@@ -1,1 +1,1 @@
-var mnemonic = "oppose market surge clump surprise jar cupboard deer veteran you ocean huge";
+var mnemonic = "weapon torch until camera three panic summer average village price disorder vibrant";

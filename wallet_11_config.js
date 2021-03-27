@@ -1,1 +1,1 @@
-var mnemonic = "load unique slow simple tide bulk leopard base screen rural garbage layer";
+var mnemonic = "urban night olive famous twist flat switch bridge spirit drama urban morning";

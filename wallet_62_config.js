@@ -1,1 +1,1 @@
-var mnemonic = "satoshi arrow gap column retire rent access wet antenna budget beef win";
+var mnemonic = "mix oil grass clown other scout cannon actress mention sadness deer sustain";

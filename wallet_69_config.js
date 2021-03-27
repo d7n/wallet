@@ -1,1 +1,1 @@
-var mnemonic = "grunt super bonus clean mystery price expect glare hedgehog pumpkin provide busy";
+var mnemonic = "canyon style jealous skin east now marriage glimpse mixed custom monkey panic";

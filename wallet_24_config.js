@@ -1,1 +1,1 @@
-var mnemonic = "rail enroll distance top half hospital lizard broken mobile suggest useless pill";
+var mnemonic = "lava undo alter pudding silver theme manual collect envelope lumber lottery number";

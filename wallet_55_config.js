@@ -1,1 +1,1 @@
-var mnemonic = "dream lounge busy model powder chronic resource fan abuse race fault furnace";
+var mnemonic = "grain trick strategy dentist celery satoshi senior open traffic summer empower actual";

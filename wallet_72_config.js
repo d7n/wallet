@@ -1,1 +1,1 @@
-var mnemonic = "crane person exchange faculty among degree cancel shove forest pattern phone foam";
+var mnemonic = "near brief clinic frog account coast soul virus method clinic fame bubble";

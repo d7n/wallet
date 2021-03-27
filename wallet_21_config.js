@@ -1,1 +1,1 @@
-var mnemonic = "athlete typical glue master limit balcony industry citizen grid skull around awful";
+var mnemonic = "spin donkey govern detect develop smart dizzy rocket doll loop require print";

@@ -1,1 +1,1 @@
-var mnemonic = "knee decorate flag frown quick chat laptop wide problem ship motor rifle";
+var mnemonic = "people myself month return depth news peasant response follow door party age";

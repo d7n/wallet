@@ -1,1 +1,1 @@
-var mnemonic = "arena physical seat food blush patrol fresh afford unable measure grab boat";
+var mnemonic = "bonus library teach rocket increase motion stadium legend nerve various twelve hip";

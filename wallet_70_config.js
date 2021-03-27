@@ -1,1 +1,1 @@
-var mnemonic = "skirt boss clever marriage run hotel spatial cat install payment pulse domain";
+var mnemonic = "enemy hungry museum party kiwi unfold deny arrest decrease borrow win crawl";

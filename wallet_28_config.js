@@ -1,1 +1,1 @@
-var mnemonic = "elite unable submit grief easy table excite seed verb stage random square";
+var mnemonic = "dentist desert stove peanut check junk expect nothing put crane dragon educate";

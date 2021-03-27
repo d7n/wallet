@@ -1,1 +1,1 @@
-var mnemonic = "simple differ wise special aerobic fiber bird raven tornado ridge panda income";
+var mnemonic = "broccoli gift violin wrong chaos place apple movie lamp hint volcano merry";

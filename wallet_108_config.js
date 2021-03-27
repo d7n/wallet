@@ -1,1 +1,1 @@
-var mnemonic = "barely chapter naive sense spoon hamster guide noodle prefer weird bracket local";
+var mnemonic = "outer story doctor jazz spirit bachelor advice tackle fame flame giant appear";

@@ -1,1 +1,1 @@
-var mnemonic = "snap glass apart badge output verb betray want garbage filter detect seven";
+var mnemonic = "twenty route festival debate profit order mask item roast leaf rally crush";

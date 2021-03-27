@@ -1,1 +1,1 @@
-var mnemonic = "shoot knee chaos today jeans smile misery scatter library obtain mistake bench";
+var mnemonic = "spell donor word naive cake climb issue swim legal address outdoor soda";

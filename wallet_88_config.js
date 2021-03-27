@@ -1,1 +1,1 @@
-var mnemonic = "maple twist tent come machine prize crack round gentle reopen upon cattle";
+var mnemonic = "impact upon surround music scout trigger engage clarify bright armed govern ghost";

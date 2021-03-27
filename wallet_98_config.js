@@ -1,1 +1,1 @@
-var mnemonic = "symbol simple usual kingdom magnet unhappy pink punch ramp trouble blouse club";
+var mnemonic = "pottery cluster next resist leg raven vanish assault tower swamp dust grain";

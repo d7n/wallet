@@ -1,1 +1,1 @@
-var mnemonic = "security civil round life plastic series chapter end awful live athlete depend";
+var mnemonic = "off planet jelly fluid fatal canoe close chapter kitchen story hockey insane";

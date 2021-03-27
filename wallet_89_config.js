@@ -1,1 +1,1 @@
-var mnemonic = "hospital property crumble lonely tape ability wire roast pipe ill gift forest";
+var mnemonic = "envelope remember knife hour blouse fiber busy grab bind craft foam trend";

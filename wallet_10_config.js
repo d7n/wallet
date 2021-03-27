@@ -1,1 +1,1 @@
-var mnemonic = "photo ahead they toast aunt bus chicken exile loan wheel pottery deer";
+var mnemonic = "game student depend afraid pride stairs client sunny marine slogan festival enjoy";

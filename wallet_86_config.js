@@ -1,1 +1,1 @@
-var mnemonic = "system phone know lady position fine story leaf modify treat left reduce";
+var mnemonic = "bread earn account march boat hammer spatial dance tennis advance breeze book";

@@ -1,1 +1,1 @@
-var mnemonic = "mule moral praise zero mix slush pencil depart lawsuit pledge inflict rifle";
+var mnemonic = "palm trophy square afraid opinion struggle cake live state tired spoon increase";

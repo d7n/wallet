@@ -1,1 +1,1 @@
-var mnemonic = "confirm anchor biology kit core elder person run royal damage explain account";
+var mnemonic = "check tell major crater rain chalk owner topic bullet stage beyond flash";

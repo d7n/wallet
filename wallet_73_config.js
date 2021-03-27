@@ -1,1 +1,1 @@
-var mnemonic = "treat inflict main table student dog panther express envelope shove rice pelican";
+var mnemonic = "trouble theme unveil tomato fork grape face proof display loud lawsuit deposit";

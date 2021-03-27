@@ -1,1 +1,1 @@
-var mnemonic = "airport stuff cat extend voyage wait engine repeat hobby magic cheese narrow";
+var mnemonic = "coconut badge illegal sport favorite oppose capable orchard such alcohol obvious jump";

@@ -1,1 +1,1 @@
-var mnemonic = "job hammer flame sausage awful resist fancy aim excite skirt lecture direct";
+var mnemonic = "range wise kick property purchase slim era romance rhythm mystery repeat want";

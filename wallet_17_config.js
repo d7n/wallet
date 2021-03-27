@@ -1,1 +1,1 @@
-var mnemonic = "clump wool sweet canyon dress fox slim matter security visual dismiss reason";
+var mnemonic = "acid bounce miss traffic human bounce inch situate wreck broccoli follow smooth";

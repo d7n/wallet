@@ -1,1 +1,1 @@
-var mnemonic = "submit point double rail airport sun maid melody castle elite decrease clay";
+var mnemonic = "icon entire shove nest exit fee carry link whale deputy voice account";

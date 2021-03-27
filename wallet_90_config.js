@@ -1,1 +1,1 @@
-var mnemonic = "wrist crime address goose brief dinosaur file observe stage snow symbol bread";
+var mnemonic = "arctic maple crouch purchase you rack essay jaguar voyage arrange indoor announce";

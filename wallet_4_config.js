@@ -1,1 +1,1 @@
-var mnemonic = "top cram announce cute child enrich high motion treat library dice budget";
+var mnemonic = "curtain silver income turkey admit piano just poverty open seat scout daughter";

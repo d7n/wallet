@@ -1,1 +1,1 @@
-var mnemonic = "script thrive wheat crowd oppose deputy model aisle area lake junior drop";
+var mnemonic = "miss giggle pulp sleep list analyst supreme secret sustain burger scare adapt";
