@@ -1,1 +1,1 @@
-var mnemonic = "fork jewel problem sign churn apple forum express plate ensure target step";
+var mnemonic = "strategy burst canal text mimic pepper link salon lucky cliff ladder chronic";

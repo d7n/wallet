@@ -1,1 +1,1 @@
-var mnemonic = "current brother clarify tornado crop much brown panther fog weapon vacuum resist";
+var mnemonic = "code service owner quote truth renew horror nasty cost avoid desk jewel";

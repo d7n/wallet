@@ -1,1 +1,1 @@
-var mnemonic = "auto item stomach spot kidney message fun ketchup arrest silly blossom picture";
+var mnemonic = "top auction excite embody camera fever pink best habit analyst hub cinnamon";

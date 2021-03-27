@@ -1,1 +1,1 @@
-var mnemonic = "position language tell stereo assist mercy surge rib swamp soup have burst";
+var mnemonic = "example clay relief debate patient aisle exile word destroy join smile pink";

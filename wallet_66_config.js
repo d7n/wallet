@@ -1,1 +1,1 @@
-var mnemonic = "beach shy normal gate remember domain aerobic hollow rain delay rib penalty";
+var mnemonic = "torch chief there matrix thrive unknown pink weird mention cannon beef wash";

@@ -1,1 +1,1 @@
-var mnemonic = "trap impose bean dismiss picture assume path time minimum lava copy scare";
+var mnemonic = "muffin vendor learn garlic jealous jump lunch item dragon engage circle treat";

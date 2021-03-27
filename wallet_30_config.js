@@ -1,1 +1,1 @@
-var mnemonic = "shove type bracket feature puppy type novel april soul type fade street";
+var mnemonic = "stable napkin trouble fire outer best olive next clay boil visual cigar";

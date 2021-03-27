@@ -1,1 +1,1 @@
-var mnemonic = "switch fossil win empty lumber assist health bronze exhibit lunar melt noble";
+var mnemonic = "trial coast one bind high grab gain now pull day april inch";

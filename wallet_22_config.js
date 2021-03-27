@@ -1,1 +1,1 @@
-var mnemonic = "estate grief require submit hawk spare jaguar other chaos token wrestle moon";
+var mnemonic = "toward road afraid student tunnel grow outer ceiling spoon candy visit eager";

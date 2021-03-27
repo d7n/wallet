@@ -1,1 +1,1 @@
-var mnemonic = "olympic movie situate pottery rocket dash kiss leader network future cage broken";
+var mnemonic = "amused quantum enable prison barely tray accuse define royal lab slush velvet";

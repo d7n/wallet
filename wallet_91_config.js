@@ -1,1 +1,1 @@
-var mnemonic = "can shop health destroy seek swap suspect assault idea cluster fortune success";
+var mnemonic = "grunt elder bind one allow frozen twin require echo aisle walnut curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "right candy secret love gorilla admit later add narrow pottery party pass";
+var mnemonic = "boost nose buffalo great elevator yard domain enable ladder emerge search parade";

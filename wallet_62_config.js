@@ -1,1 +1,1 @@
-var mnemonic = "amateur talent air unfair rebel arrive embody critic cat present alter enter";
+var mnemonic = "start general reduce near hidden logic capable source mansion evil sun unfair";

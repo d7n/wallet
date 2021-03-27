@@ -1,1 +1,1 @@
-var mnemonic = "since asthma sausage fashion man improve garbage guess vapor reason kick segment";
+var mnemonic = "uphold hunt goddess gadget ghost early share sand reopen foster ostrich long";

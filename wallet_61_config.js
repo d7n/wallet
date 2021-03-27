@@ -1,1 +1,1 @@
-var mnemonic = "caught top near fish valley decorate frog major load holiday hello pond";
+var mnemonic = "hood cabin share you lift dash park athlete ritual saddle lava cycle";

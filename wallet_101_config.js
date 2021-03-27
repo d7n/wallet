@@ -1,1 +1,1 @@
-var mnemonic = "welcome cradle fade pluck model capital wasp raccoon gossip access item wrong";
+var mnemonic = "skin arena try coil tail submit tuna tiny symbol manage head frown";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle alcohol lake dilemma silly frown vintage faint harvest tilt alter era";
+var mnemonic = "mother shrug among scheme soccer require stem cycle course giraffe solid rich";

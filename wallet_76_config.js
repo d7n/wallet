@@ -1,1 +1,1 @@
-var mnemonic = "craft prepare proof fancy day electric space wire infant best cargo duck";
+var mnemonic = "eight glory cabbage rely curious render news brand unveil melody turkey consider";

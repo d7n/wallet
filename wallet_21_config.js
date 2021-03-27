@@ -1,1 +1,1 @@
-var mnemonic = "alcohol capital west also proud visual zoo sausage dismiss canal capital trip";
+var mnemonic = "exchange zone distance upset gentle turkey tissue canvas device vessel soda inner";

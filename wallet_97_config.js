@@ -1,1 +1,1 @@
-var mnemonic = "vanish spawn craft where ice age ice theory title skin voyage cash";
+var mnemonic = "follow quote napkin swarm armor tongue twist vital drink book vessel evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "exercise girl island motor word sausage flame sort steak build copy obey";
+var mnemonic = "topple account attend medal elbow quality lemon silk toe drive water chaos";

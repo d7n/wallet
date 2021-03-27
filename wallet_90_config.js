@@ -1,1 +1,1 @@
-var mnemonic = "entry people potato now inner pipe remove system field wreck air very";
+var mnemonic = "only smooth retire ask cart special future hope extend degree suggest fitness";

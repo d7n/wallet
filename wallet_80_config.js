@@ -1,1 +1,1 @@
-var mnemonic = "arch expand wealth early rather luxury crawl bid cute hero year speed";
+var mnemonic = "desk spend skin bind excite cargo east develop talent property blanket miracle";

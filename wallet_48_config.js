@@ -1,1 +1,1 @@
-var mnemonic = "artist head derive unhappy globe note pupil tattoo use magic actual culture";
+var mnemonic = "gesture draw afford various town omit chef cruel arch clever scorpion puzzle";

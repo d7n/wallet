@@ -1,1 +1,1 @@
-var mnemonic = "chat crane discover tide tent route abuse enter skull track work actual";
+var mnemonic = "model kitchen flat umbrella grain fish depend degree avoid blush library actor";

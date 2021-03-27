@@ -1,1 +1,1 @@
-var mnemonic = "bubble suspect sample park never ranch genius glove color turtle royal mango";
+var mnemonic = "hawk upset assault note give abandon scare shop faculty pull tattoo hole";

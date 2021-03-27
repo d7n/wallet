@@ -1,1 +1,1 @@
-var mnemonic = "join sea swift mom impact save lonely plate ticket tower clinic nuclear";
+var mnemonic = "lend giant dial urge captain divide rather position shuffle already flip pelican";

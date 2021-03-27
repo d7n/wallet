@@ -1,1 +1,1 @@
-var mnemonic = "make snake reflect book brass proof toss carbon axis excess between pattern";
+var mnemonic = "slow valve thing opinion march load price avoid crater buffalo only valve";

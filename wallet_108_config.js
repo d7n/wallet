@@ -1,1 +1,1 @@
-var mnemonic = "awesome deer write always cloth patch luxury glare pave fruit claim drink";
+var mnemonic = "recall stamp egg kid lazy axis rocket mesh matrix alien come invest";

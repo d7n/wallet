@@ -1,1 +1,1 @@
-var mnemonic = "middle furnace actor bless cage cabin basic upset rookie empty cruise increase";
+var mnemonic = "open blame defy any chunk outer tone oven fire burden inflict act";

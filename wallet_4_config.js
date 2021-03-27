@@ -1,1 +1,1 @@
-var mnemonic = "barrel soccer vanish verb reflect foot hollow solve ring ball bonus angle";
+var mnemonic = "clerk clinic help able clay swallow piano orbit theory quiz target fancy";

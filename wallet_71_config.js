@@ -1,1 +1,1 @@
-var mnemonic = "album cluster resist motion teach flame galaxy royal sing camera student crack";
+var mnemonic = "material fee mom laundry sausage have unaware tiny advice analyst involve twice";

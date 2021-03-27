@@ -1,1 +1,1 @@
-var mnemonic = "void day gossip devote write any lucky winter penalty depend clog vendor";
+var mnemonic = "fat outer void ketchup profit dinner age helmet hotel pottery crouch guide";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito draw display toddler program pigeon sight survey park middle grape can";
+var mnemonic = "remind worry foot thank group quiz harvest recycle solution melody soft noble";

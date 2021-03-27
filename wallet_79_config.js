@@ -1,1 +1,1 @@
-var mnemonic = "reunion perfect celery word open exhaust rural stadium matter drill pyramid pelican";
+var mnemonic = "flock danger congress huge bitter tattoo person hood little swing barely card";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom spend dismiss oyster analyst lucky later borrow pig dizzy rotate mixed";
+var mnemonic = "inner mansion paddle helmet excuse kind shiver donor doll coin glide fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "message wool afford slice glory human pretty type lounge adapt start bless";
+var mnemonic = "kingdom copper disorder pear tobacco camp stock hire ask friend recipe stay";

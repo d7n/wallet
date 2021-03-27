@@ -1,1 +1,1 @@
-var mnemonic = "hockey fall sell essence photo live simple rhythm book paper lady return";
+var mnemonic = "drastic give bubble order hundred diagram bean token harsh head luxury raise";

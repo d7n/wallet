@@ -1,1 +1,1 @@
-var mnemonic = "bulb laugh promote shift huge push piano economy ensure idle glory debris";
+var mnemonic = "crater bullet genuine dizzy sad urban problem lamp shallow bulk kingdom clay";

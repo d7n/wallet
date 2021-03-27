@@ -1,1 +1,1 @@
-var mnemonic = "congress october process frost scorpion invest marine clip front divert deliver afford";
+var mnemonic = "syrup clutch chair route release enter truth milk update exhibit ranch core";

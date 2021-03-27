@@ -1,1 +1,1 @@
-var mnemonic = "rabbit wisdom expire sister maple hollow awesome fancy screen fatal excite merge";
+var mnemonic = "session what speak tired pill begin silly demise float fantasy gasp hungry";

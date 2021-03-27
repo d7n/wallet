@@ -1,1 +1,1 @@
-var mnemonic = "boil floor inspire artwork slim hand taxi sample kiwi short warfare balance";
+var mnemonic = "verify visa wisdom canvas problem limit decrease build flock mandate doctor pledge";

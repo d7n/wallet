@@ -1,1 +1,1 @@
-var mnemonic = "ethics illness note lawn top tell panda own cost lawsuit dream analyst";
+var mnemonic = "knock hope ritual inject critic unable science polar mixed west portion physical";

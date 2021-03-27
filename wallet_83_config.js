@@ -1,1 +1,1 @@
-var mnemonic = "truck crouch guess sustain special exotic memory false nephew promote dance indicate";
+var mnemonic = "nephew wonder clump daughter smile hammer crunch hollow illness artist crash tiger";

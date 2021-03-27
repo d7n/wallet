@@ -1,1 +1,1 @@
-var mnemonic = "pulse maple gaze chaos thank weapon walk reflect wrestle disorder gloom sorry";
+var mnemonic = "buzz candy moon lamp warfare marble anxiety impulse glory bicycle immense air";

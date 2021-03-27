@@ -1,1 +1,1 @@
-var mnemonic = "betray room chapter grit hold return label nut burden waste ceiling gasp";
+var mnemonic = "ocean possible busy witness neck copy number toe predict suggest manual river";

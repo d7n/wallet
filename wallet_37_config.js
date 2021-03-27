@@ -1,1 +1,1 @@
-var mnemonic = "bargain fault inhale vacant because work foam already cake cruise wood blade";
+var mnemonic = "require shrug hedgehog nose edge payment mercy lounge never legend critic pattern";

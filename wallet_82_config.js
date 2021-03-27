@@ -1,1 +1,1 @@
-var mnemonic = "grape improve joke toast what advance boring file keen state charge cable";
+var mnemonic = "middle guilt toy mandate crumble rich basket social mango true jewel bean";

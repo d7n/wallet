@@ -1,1 +1,1 @@
-var mnemonic = "caution dolphin omit over sound toe olive critic bulk gorilla popular yard";
+var mnemonic = "dust asthma rude brain knee radar safe prosper between twist wise text";

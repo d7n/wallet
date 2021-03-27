@@ -1,1 +1,1 @@
-var mnemonic = "depart random belt letter family segment inside start drill galaxy drastic beyond";
+var mnemonic = "butter mushroom stone salon fluid link float since rain draw swallow grace";

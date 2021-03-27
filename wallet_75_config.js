@@ -1,1 +1,1 @@
-var mnemonic = "response manual car inspire daring million ice dad surprise reform dance pledge";
+var mnemonic = "throw photo nuclear dirt typical behind when sock captain inject erosion admit";

@@ -1,1 +1,1 @@
-var mnemonic = "ginger wash hat frog learn measure bid clown knock couple rack skirt";
+var mnemonic = "false youth frequent lift modify stereo lawsuit october bring outside more same";

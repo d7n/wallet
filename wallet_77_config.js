@@ -1,1 +1,1 @@
-var mnemonic = "stand dream torch talk despair boil fabric vacuum cinnamon oil pigeon father";
+var mnemonic = "predict judge orchard marriage into sad kangaroo increase bridge jaguar people gift";

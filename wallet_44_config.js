@@ -1,1 +1,1 @@
-var mnemonic = "measure decide stadium exchange mean tree permit glue ripple armor song hedgehog";
+var mnemonic = "shield swear popular weekend match later spider amused dumb topic empty pass";

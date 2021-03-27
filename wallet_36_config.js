@@ -1,1 +1,1 @@
-var mnemonic = "ready spy voice someone wisdom cheap inherit mass wise enact confirm hazard";
+var mnemonic = "earn eager awful double control valley poem mandate beach loud luxury cycle";

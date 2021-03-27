@@ -1,1 +1,1 @@
-var mnemonic = "miracle tourist absorb spare ski hurry birth athlete language grab clock voice";
+var mnemonic = "beyond final large fringe depend fever tree sustain cool word purse palm";

@@ -1,1 +1,1 @@
-var mnemonic = "wing history loop fashion lawn diesel butter there sell arm cost develop";
+var mnemonic = "spice lumber mail winter skill abandon shop craft stadium key oak story";

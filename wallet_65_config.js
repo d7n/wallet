@@ -1,1 +1,1 @@
-var mnemonic = "fiber music monster bullet height green faith palm ritual attract winter point";
+var mnemonic = "open visit rich economy snake network common century check salmon clump pink";

@@ -1,1 +1,1 @@
-var mnemonic = "whip pass toss master wrong symptom genuine siege aisle person business where";
+var mnemonic = "wall useless boost ghost dolphin message also shoulder joke crumble cradle rally";

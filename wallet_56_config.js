@@ -1,1 +1,1 @@
-var mnemonic = "teach assault number only flee arrow round behave fortune joy wise ripple";
+var mnemonic = "purity truth birth account animal parade happy crush wasp quit obscure bird";

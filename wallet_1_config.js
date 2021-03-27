@@ -1,1 +1,1 @@
-var mnemonic = "beef rent agree inside maze roast achieve deny fox search hazard autumn";
+var mnemonic = "cotton cereal cradle clinic tent permit diagram vibrant ensure unable film cherry";

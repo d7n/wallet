@@ -1,1 +1,1 @@
-var mnemonic = "patrol moment gun trial trap way harsh critic never long amazing vicious";
+var mnemonic = "tennis tube unit unknown jelly say globe universe divert tank term spice";

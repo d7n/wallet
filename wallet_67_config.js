@@ -1,1 +1,1 @@
-var mnemonic = "grit enrich later supply fossil drip much own virtual nasty below immense";
+var mnemonic = "air magic hero achieve hockey weather silent wreck spell toe abstract across";

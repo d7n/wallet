@@ -1,1 +1,1 @@
-var mnemonic = "bag salad describe soap volume hard bachelor ritual pulp trial glass allow";
+var mnemonic = "oval million add balance green position example state wrist toss rebel decide";

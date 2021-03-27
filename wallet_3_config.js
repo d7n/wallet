@@ -1,1 +1,1 @@
-var mnemonic = "exile suit blur ancient fine spoil receive pledge cart doctor faculty into";
+var mnemonic = "barrel lift expect adult author peanut hamster circle rookie spider deputy disagree";

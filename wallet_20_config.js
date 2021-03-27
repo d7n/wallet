@@ -1,1 +1,1 @@
-var mnemonic = "upper valve romance knife inject crop just jewel dry tribe carbon wing";
+var mnemonic = "vapor step bacon crowd popular book float gentle neutral sick dolphin flat";

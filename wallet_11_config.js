@@ -1,1 +1,1 @@
-var mnemonic = "fantasy talk want biology army direct pledge wait tobacco across weapon capital";
+var mnemonic = "radio pulse problem clock patch place path laundry carpet sheriff carry enact";

@@ -1,1 +1,1 @@
-var mnemonic = "daring crime pony pretty barrel play reflect save silly home walnut similar";
+var mnemonic = "appear suggest vault nurse aunt advance couple warrior spoil tank face appear";

@@ -1,1 +1,1 @@
-var mnemonic = "accident major wagon lift decide track wall fever marble gate ready balance";
+var mnemonic = "despair obscure session master brick ankle display school drive season they combine";

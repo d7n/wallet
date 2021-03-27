@@ -1,1 +1,1 @@
-var mnemonic = "mother safe palm gadget seed vault lawsuit lounge radar glow verify jacket";
+var mnemonic = "job abandon pipe key rabbit language sketch parade siren poverty edit ankle";

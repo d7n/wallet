@@ -1,1 +1,1 @@
-var mnemonic = "tennis embark shoe sunset lizard fat boat sad valve dirt mad zone";
+var mnemonic = "social enough skin oppose build cute patch april announce girl travel knee";

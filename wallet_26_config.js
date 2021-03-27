@@ -1,1 +1,1 @@
-var mnemonic = "cook denial lazy glove verb bachelor exact stable legal visual income transfer";
+var mnemonic = "aim civil sword improve thank section dragon spatial stone sick country deer";

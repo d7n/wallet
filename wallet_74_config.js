@@ -1,1 +1,1 @@
-var mnemonic = "normal peanut similar surface pact face swallow cactus venue galaxy mixture economy";
+var mnemonic = "ranch sketch blood erosion hover drive collect trigger aisle nephew box scan";

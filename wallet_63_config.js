@@ -1,1 +1,1 @@
-var mnemonic = "shrug deliver economy baby error kiwi draft census media fossil busy arena";
+var mnemonic = "aim improve august gasp visual acoustic enemy lottery present alter tongue interest";

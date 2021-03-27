@@ -1,1 +1,1 @@
-var mnemonic = "sea index cigar road acquire spring survey sunny kangaroo wheat elevator then";
+var mnemonic = "wagon tunnel enlist abuse suit live glory around pair tray still coast";

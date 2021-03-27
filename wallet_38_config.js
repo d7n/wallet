@@ -1,1 +1,1 @@
-var mnemonic = "wash hold survey depend broom spread legal lumber easy axis detail crystal";
+var mnemonic = "flock real length unusual frozen remember vessel toy elite truck tilt slot";

@@ -1,1 +1,1 @@
-var mnemonic = "judge saddle hill judge wild swim universe used august attack lottery shy";
+var mnemonic = "sting manual price dolphin change fetch lunch hair any image harvest click";

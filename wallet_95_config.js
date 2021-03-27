@@ -1,1 +1,1 @@
-var mnemonic = "delay choose special orchard mind erupt mother wheel short onion finger among";
+var mnemonic = "rich tool pear tornado dove soup liar loop next tongue clinic six";

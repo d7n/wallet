@@ -1,1 +1,1 @@
-var mnemonic = "attack maximum original napkin oyster number help aspect region deputy cake write";
+var mnemonic = "use cook eternal pizza daughter economy apart nut mouse soldier cage crucial";

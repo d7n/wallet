@@ -1,1 +1,1 @@
-var mnemonic = "never worth squirrel autumn famous famous option oblige sight system obtain tell";
+var mnemonic = "basket depth feature club response consider indicate replace govern baby kind width";

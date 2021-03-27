@@ -1,1 +1,1 @@
-var mnemonic = "club cup canal math deer can bubble expire course mandate wait sting";
+var mnemonic = "bonus maze entire mosquito general moral finger local century decrease good satisfy";

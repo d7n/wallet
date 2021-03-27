@@ -1,1 +1,1 @@
-var mnemonic = "drastic pill labor pair pencil load amazing dynamic mix depth canal grow";
+var mnemonic = "crew desert diesel fiscal mule upper width raven cargo into favorite globe";

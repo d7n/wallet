@@ -1,1 +1,1 @@
-var mnemonic = "math upper provide case stamp suit country such purchase video soul fresh";
+var mnemonic = "carry cricket shed open adult exhaust dad siege improve fatal subject winner";

@@ -1,1 +1,1 @@
-var mnemonic = "trip disorder vintage grape nephew twist habit media chat layer scout obey";
+var mnemonic = "equip knock true nature drastic tree ocean turn tortoise waste dial remember";

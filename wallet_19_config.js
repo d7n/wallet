@@ -1,1 +1,1 @@
-var mnemonic = "rail wolf place follow peace orange auction attend leader system vast leader";
+var mnemonic = "silver dance much between inch team round zero kitchen matter visit path";

@@ -1,1 +1,1 @@
-var mnemonic = "salad grab tray weapon neglect license couple man shock before noble burger";
+var mnemonic = "remain exercise loud tobacco expect room valid floor concert nice faith shine";

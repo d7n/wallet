@@ -1,1 +1,1 @@
-var mnemonic = "toilet wine fish scrub plate tongue air buzz found sorry ramp solve";
+var mnemonic = "grow fragile mother spare oyster define expand cup language fiction mule sure";

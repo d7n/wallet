@@ -1,1 +1,1 @@
-var mnemonic = "decide cherry female fury tiger airport pulse manage tuna polar arena absorb";
+var mnemonic = "tiny scene reform solid boring only language verify inch arrow mask rude";

@@ -1,1 +1,1 @@
-var mnemonic = "clump father often neck thought august organ cactus aspect man mirror blame";
+var mnemonic = "pear retreat soft ignore emotion much purity viable open brand medal oil";

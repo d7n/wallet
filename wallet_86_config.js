@@ -1,1 +1,1 @@
-var mnemonic = "mixed taste wide current afraid kid travel gorilla fragile remind ice stand";
+var mnemonic = "hamster razor palm orient divorce light genuine deputy crazy tube provide champion";

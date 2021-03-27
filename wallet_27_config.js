@@ -1,1 +1,1 @@
-var mnemonic = "develop outside ride maximum script kangaroo aim debris any silent laptop moment";
+var mnemonic = "panic fury fresh stomach cotton magic slow mansion charge ice fuel wink";
