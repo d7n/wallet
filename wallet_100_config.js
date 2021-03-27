@@ -1,1 +1,1 @@
-var mnemonic = "owner stone expect electric fade feel screen acoustic segment person uncle alone";
+var mnemonic = "convince burger forum manual cat distance ugly false country draft obvious lend";

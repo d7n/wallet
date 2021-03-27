@@ -1,1 +1,1 @@
-var mnemonic = "chimney sight siren copy captain electric sing shuffle flame city tortoise permit";
+var mnemonic = "certain mask harbor edge access caught agent slide winter chef gown airport";

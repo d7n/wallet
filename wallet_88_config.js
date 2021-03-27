@@ -1,1 +1,1 @@
-var mnemonic = "learn oil review crazy keep agree faint piano impact skull broken universe";
+var mnemonic = "speak stove hunt word energy during artefact immense idle bundle dial tool";

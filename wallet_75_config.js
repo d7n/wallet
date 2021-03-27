@@ -1,1 +1,1 @@
-var mnemonic = "album affair tiny double matrix bulk end door inherit bronze duty talk";
+var mnemonic = "glimpse collect bind maximum hard onion season actress fade quit mask talent";

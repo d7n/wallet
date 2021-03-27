@@ -1,1 +1,1 @@
-var mnemonic = "prepare engine crime salute document perfect spray impulse fruit horn snake afford";
+var mnemonic = "flock heart obvious retire core host under width humble rival relief assist";

@@ -1,1 +1,1 @@
-var mnemonic = "list two chicken mass few speed law public blanket cargo rule chaos";
+var mnemonic = "yellow salad clinic sentence digital deposit paper bulb dilemma vault muscle swap";

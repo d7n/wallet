@@ -1,1 +1,1 @@
-var mnemonic = "palace immune quantum champion public final diamond energy color exclude pledge install";
+var mnemonic = "digital mind stem mercy rich bonus siege destroy cereal rule boil match";

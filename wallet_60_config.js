@@ -1,1 +1,1 @@
-var mnemonic = "gate enforce useless enlist jaguar breeze catch truly whisper wise vicious spider";
+var mnemonic = "repeat occur cloud giant nominee trip wrestle target nose dragon season census";

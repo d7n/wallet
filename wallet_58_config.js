@@ -1,1 +1,1 @@
-var mnemonic = "glance spare possible prosper drift asset away modify couch aware cream face";
+var mnemonic = "planet square chair brown wage plug doctor end census crouch page smile";

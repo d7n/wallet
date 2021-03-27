@@ -1,1 +1,1 @@
-var mnemonic = "snap office worry capable genius shaft churn rely promote patch thunder mango";
+var mnemonic = "alley airport soccer nose zebra valve away small river gym yard broom";

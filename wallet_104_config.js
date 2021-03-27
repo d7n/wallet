@@ -1,1 +1,1 @@
-var mnemonic = "actor old lesson twin pull angry give join faculty sell pulp nuclear";
+var mnemonic = "project latin calm worry father fine supply rose barely fly meat valve";

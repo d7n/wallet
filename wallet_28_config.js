@@ -1,1 +1,1 @@
-var mnemonic = "west fortune moon banner raven opinion song balcony moment deputy forum squeeze";
+var mnemonic = "crisp athlete era poverty stove clean menu absorb client syrup abstract seminar";

@@ -1,1 +1,1 @@
-var mnemonic = "remove concert lady length front ketchup air cloud kite proof give water";
+var mnemonic = "bounce cube wedding length merry age hire tape come left title blame";

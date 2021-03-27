@@ -1,1 +1,1 @@
-var mnemonic = "load leader weapon over buddy season abandon there test seek slush pool";
+var mnemonic = "almost fog round indoor exist steak clean faculty ready observe pulp color";

@@ -1,1 +1,1 @@
-var mnemonic = "model forget kit axis legend palace decide pony write boring shadow brown";
+var mnemonic = "route tooth skate topic split riot undo fold mountain derive injury brief";

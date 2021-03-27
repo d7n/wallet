@@ -1,1 +1,1 @@
-var mnemonic = "swarm inside uncle layer bulk snake chicken beauty social skull under lottery";
+var mnemonic = "kit crop crime organ liberty cash puzzle entry stem lock lunch mad";

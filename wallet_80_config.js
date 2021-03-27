@@ -1,1 +1,1 @@
-var mnemonic = "throw glow rough twice secret include ride high vintage when lens thank";
+var mnemonic = "wine time capital venue time sword guess local tent before stock nose";

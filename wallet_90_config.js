@@ -1,1 +1,1 @@
-var mnemonic = "net foil major knife behind stereo result couple hour service confirm poverty";
+var mnemonic = "twice sand purity seed lonely close water paddle display disagree media mirror";

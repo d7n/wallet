@@ -1,1 +1,1 @@
-var mnemonic = "valley whip blast rare fence quarter hybrid slender surprise method visual warrior";
+var mnemonic = "second blood fuel riot reflect drama egg sustain common bread vital oyster";

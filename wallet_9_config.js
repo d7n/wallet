@@ -1,1 +1,1 @@
-var mnemonic = "jeans lecture cliff kick furnace ticket pelican luxury type arm nest situate";
+var mnemonic = "short innocent curve jaguar humor riot diesel galaxy author wool clerk recycle";

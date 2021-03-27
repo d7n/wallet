@@ -1,1 +1,1 @@
-var mnemonic = "eight hub exclude blouse original tide local assault network loan mouse tide";
+var mnemonic = "mule text genre enact unfold tumble spring dutch ozone uphold royal scare";

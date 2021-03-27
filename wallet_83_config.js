@@ -1,1 +1,1 @@
-var mnemonic = "provide strong pencil ticket midnight pause inside shy bright vanish sphere nice";
+var mnemonic = "flip sponsor clarify divorce accuse ready engine reduce cactus antenna into race";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest addict winter fortune asthma piano skate polar siege tide attitude dry";
+var mnemonic = "bonus fine swim long force proof ensure input skate net warfare ostrich";

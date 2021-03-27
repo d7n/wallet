@@ -1,1 +1,1 @@
-var mnemonic = "december agree black shiver brush junk pattern east logic moon symbol mansion";
+var mnemonic = "pony fiber moral eye aerobic invest unaware filter monkey tired skill absurd";

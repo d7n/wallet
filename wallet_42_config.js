@@ -1,1 +1,1 @@
-var mnemonic = "original satisfy rebuild paddle bread give protect width powder pull duck casual";
+var mnemonic = "cross immune grass celery paddle cereal any student fiscal recipe forget invite";

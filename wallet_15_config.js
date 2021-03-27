@@ -1,1 +1,1 @@
-var mnemonic = "spatial blouse toddler chunk column mutual cloth gadget verify crew above truly";
+var mnemonic = "custom drastic mask embrace enable peace steel fox hedgehog slogan action deliver";

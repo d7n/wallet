@@ -1,1 +1,1 @@
-var mnemonic = "left hazard tobacco crawl between jaguar olive quiz educate prison unable sand";
+var mnemonic = "voyage lumber awful actress feature earth child weather novel normal vicious disagree";

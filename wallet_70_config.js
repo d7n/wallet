@@ -1,1 +1,1 @@
-var mnemonic = "pepper noise vote fatal elephant teach ordinary fluid network banner speak warrior";
+var mnemonic = "jump viable grief skull change assume trouble picnic grain uncover walk input";

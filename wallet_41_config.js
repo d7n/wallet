@@ -1,1 +1,1 @@
-var mnemonic = "ethics punch monitor small beef evoke enjoy off country fancy enact unknown";
+var mnemonic = "nerve vicious accuse enforce margin same monster know pencil gadget climb cup";

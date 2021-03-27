@@ -1,1 +1,1 @@
-var mnemonic = "visa letter utility begin pencil upgrade waste romance course fantasy beyond raise";
+var mnemonic = "awkward blast leisure useless find jar jar soft silly flight twelve because";

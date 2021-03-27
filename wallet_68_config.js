@@ -1,1 +1,1 @@
-var mnemonic = "sweet cushion buyer lesson super anchor ranch relief unaware problem escape spin";
+var mnemonic = "next stem borrow machine unhappy grant illegal silent enforce cat travel truth";

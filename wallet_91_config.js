@@ -1,1 +1,1 @@
-var mnemonic = "water text camera airport tackle can faint utility trip absent nuclear anchor";
+var mnemonic = "engage monitor among start oppose dignity behind dust lecture card canyon name";

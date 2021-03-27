@@ -1,1 +1,1 @@
-var mnemonic = "uphold ranch parent kitten twin impact artist vacuum wire wool tag twice";
+var mnemonic = "design assist style cement belt super young clarify lounge goose magnet fat";

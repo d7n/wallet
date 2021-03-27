@@ -1,1 +1,1 @@
-var mnemonic = "soap firm dog nice already nature diesel cute grain hundred toss where";
+var mnemonic = "palace menu purse food degree wheel august cliff crash observe silly excite";

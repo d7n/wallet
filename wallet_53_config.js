@@ -1,1 +1,1 @@
-var mnemonic = "minimum detect diamond clown lawsuit mango clap manual crop used tuna ability";
+var mnemonic = "slab exist desert marble fever convince draw awake piece cloth finger educate";

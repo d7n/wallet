@@ -1,1 +1,1 @@
-var mnemonic = "own head cake issue dilemma steak object result design bullet tourist seminar";
+var mnemonic = "demise math adjust market join keen charge image type disagree family neglect";

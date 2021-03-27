@@ -1,1 +1,1 @@
-var mnemonic = "female flame cactus hole mother render wild pair bread flip shift tourist";
+var mnemonic = "phrase cash ginger thing lucky hammer chapter sphere luggage grab settle small";

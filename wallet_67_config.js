@@ -1,1 +1,1 @@
-var mnemonic = "deliver cover win virtual venue cart gentle badge input arrest argue keen";
+var mnemonic = "slice chalk power work tattoo cotton drop foot hobby skin situate injury";

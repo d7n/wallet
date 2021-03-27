@@ -1,1 +1,1 @@
-var mnemonic = "boy near pulp capital run erode happy orange roof melody sketch grace";
+var mnemonic = "ill arctic frog dilemma auto junk night throw oppose cliff result test";

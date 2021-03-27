@@ -1,1 +1,1 @@
-var mnemonic = "private kit junk remind blanket gossip load female muffin shrimp egg curious";
+var mnemonic = "bubble library deal artwork minimum wall into maze skill walnut goose valley";

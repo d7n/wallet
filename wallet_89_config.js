@@ -1,1 +1,1 @@
-var mnemonic = "inmate mass arrange place medal potato verify love adult green secret romance";
+var mnemonic = "zone frost duty between diet slim agree rescue card wet van pulse";

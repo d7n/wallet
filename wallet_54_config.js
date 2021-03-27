@@ -1,1 +1,1 @@
-var mnemonic = "entire solid pupil romance nephew cute drift gate knee ghost quiz inspire";
+var mnemonic = "west machine siren suspect wrap update conduct sign alley gauge amount category";

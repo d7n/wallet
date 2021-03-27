@@ -1,1 +1,1 @@
-var mnemonic = "truly enhance attack math violin aisle wreck today fire chronic clinic consider";
+var mnemonic = "popular repair knock liquid spider devote yard seminar swallow pact apple canvas";

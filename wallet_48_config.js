@@ -1,1 +1,1 @@
-var mnemonic = "gate will learn penalty festival night suit okay math tiger only gown";
+var mnemonic = "wait amount couch world diamond spring prosper random sweet regret lazy glare";

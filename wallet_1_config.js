@@ -1,1 +1,1 @@
-var mnemonic = "shop sport stamp frog island choose author describe blast favorite cement deny";
+var mnemonic = "spice ridge tool artwork adjust venue crawl change snack conduct fresh again";

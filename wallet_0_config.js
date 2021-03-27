@@ -1,1 +1,1 @@
-var mnemonic = "visa sick rabbit range miracle bleak learn eyebrow desk conduct belt script";
+var mnemonic = "yellow auction tell pet box tuition pear glare swarm ribbon whisper grow";

@@ -1,1 +1,1 @@
-var mnemonic = "drip rare tip mixture october weather arrange small mad like bulk unhappy";
+var mnemonic = "fetch armor crystal beach silly under meat gorilla cake scrap awful health";

@@ -1,1 +1,1 @@
-var mnemonic = "theory wheel scissors ginger chunk slab good liar own coffee nominee saddle";
+var mnemonic = "ball blush target reason bitter cotton force practice address skate cradle cheese";

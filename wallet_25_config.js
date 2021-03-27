@@ -1,1 +1,1 @@
-var mnemonic = "level bar weapon casual shoe solid escape middle misery movie kidney achieve";
+var mnemonic = "alpha correct canyon hamster morning atom whisper race mail mention lawn found";

@@ -1,1 +1,1 @@
-var mnemonic = "hold limit analyst open neither text bulb actress pause never frost over";
+var mnemonic = "account update cream timber message season never toy then suggest future grape";

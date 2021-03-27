@@ -1,1 +1,1 @@
-var mnemonic = "reveal face hire jazz fade miss arena hurt dance major school bag";
+var mnemonic = "feel unknown fatigue loop clutch blouse jump child tree banana early regret";

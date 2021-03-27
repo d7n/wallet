@@ -1,1 +1,1 @@
-var mnemonic = "either black position patient dial twenty obscure tilt away thrive trust october";
+var mnemonic = "crush option list patch same lake baby water night wash oppose fury";

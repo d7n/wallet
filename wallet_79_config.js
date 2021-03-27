@@ -1,1 +1,1 @@
-var mnemonic = "employ voyage prepare endorse scrub initial trade fall sister mule run leg";
+var mnemonic = "drip cotton check bomb enroll sure ceiling tongue fatal session later material";

@@ -1,1 +1,1 @@
-var mnemonic = "fun debate ranch reason glare client spike mansion blind stereo film truck";
+var mnemonic = "uphold burst wagon caution vacant globe method cigar cinnamon close key oak";

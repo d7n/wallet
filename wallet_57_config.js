@@ -1,1 +1,1 @@
-var mnemonic = "grape envelope old object wasp top pulp number display doctor rally soldier";
+var mnemonic = "alarm dog evoke cabin razor weather wish license hamster distance topple flock";

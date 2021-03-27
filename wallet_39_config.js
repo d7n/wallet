@@ -1,1 +1,1 @@
-var mnemonic = "wreck bracket squirrel sustain icon hawk awesome involve woman stage viable slender";
+var mnemonic = "hollow home cotton audit involve balcony file buffalo diagram mix top crush";

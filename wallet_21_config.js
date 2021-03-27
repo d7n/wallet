@@ -1,1 +1,1 @@
-var mnemonic = "exile focus favorite romance animal interest debate ocean detail basket error unveil";
+var mnemonic = "utility attract exotic secret dog must oblige host tiger asset river plunge";

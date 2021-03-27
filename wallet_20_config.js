@@ -1,1 +1,1 @@
-var mnemonic = "mimic neck much boy pioneer prepare suffer swallow fortune sister satoshi regular";
+var mnemonic = "front click sad swing invest session crisp maid fold excuse chuckle essence";

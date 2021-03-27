@@ -1,1 +1,1 @@
-var mnemonic = "cry judge near acoustic heavy dumb claim day dove west ladder fresh";
+var mnemonic = "hat little moral return joke love sunny team plastic baby dirt hand";

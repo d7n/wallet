@@ -1,1 +1,1 @@
-var mnemonic = "ankle trophy health picnic tank detect autumn rhythm deal order rail someone";
+var mnemonic = "demand scrap dentist tragic equip cloth retire click slim rifle nest ride";

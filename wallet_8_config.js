@@ -1,1 +1,1 @@
-var mnemonic = "funny anger dutch index brief ghost captain okay laundry symbol what suit";
+var mnemonic = "funny stand multiply galaxy race say city heart warfare caught lady clap";

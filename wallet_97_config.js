@@ -1,1 +1,1 @@
-var mnemonic = "sustain load sock pact state voice solar arena verb network veteran snack";
+var mnemonic = "double law shield hundred choice mushroom grab link rookie vault ignore normal";

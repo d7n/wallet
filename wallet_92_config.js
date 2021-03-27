@@ -1,1 +1,1 @@
-var mnemonic = "blossom reflect opera salad luxury bundle crazy dizzy comic develop document forum";
+var mnemonic = "exhaust oil have assault decade wrap urge agree speed wall client access";

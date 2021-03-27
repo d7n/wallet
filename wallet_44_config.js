@@ -1,1 +1,1 @@
-var mnemonic = "surprise offer skull black category course sniff reward journey good chronic syrup";
+var mnemonic = "owner shuffle punch wave weasel hospital alpha crunch kidney tooth fatigue census";

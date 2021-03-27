@@ -1,1 +1,1 @@
-var mnemonic = "sister stove concert inch raven milk stem eager magnet bicycle stick finish";
+var mnemonic = "obey laptop feed glue pupil fluid settle view wave toy old marble";

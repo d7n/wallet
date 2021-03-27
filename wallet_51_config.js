@@ -1,1 +1,1 @@
-var mnemonic = "actor stand trophy region humor case kite tiny song blame elder nasty";
+var mnemonic = "movie gentle current release ball pudding solve pipe giant dumb panther pistol";

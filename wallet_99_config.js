@@ -1,1 +1,1 @@
-var mnemonic = "also type design rain valley hover route rubber pave spy cover struggle";
+var mnemonic = "wolf oblige oxygen result paper merry trophy short gasp dove sugar just";

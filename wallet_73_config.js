@@ -1,1 +1,1 @@
-var mnemonic = "attitude inquiry club evidence betray prize effort kind cabin detail loyal glad";
+var mnemonic = "paddle ghost stock evil patch crouch entire surprise marine logic cry wage";

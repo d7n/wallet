@@ -1,1 +1,1 @@
-var mnemonic = "below alarm blanket run fire turn snack evoke tissue book hidden stamp";
+var mnemonic = "world axis element include uncle kingdom rough rocket hurt life impose obvious";

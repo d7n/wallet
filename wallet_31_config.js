@@ -1,1 +1,1 @@
-var mnemonic = "small mass develop hint can forest faith recycle couple survey vivid isolate";
+var mnemonic = "forest amateur truth trophy review magnet bus wealth comfort winner mechanic prize";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge fire tongue olive match chair buyer town wait drop enemy field";
+var mnemonic = "license draft barrel net student derive clown track pill bridge marriage praise";

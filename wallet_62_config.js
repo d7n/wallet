@@ -1,1 +1,1 @@
-var mnemonic = "elevator pitch cook twist lens spoon female tumble critic tribe noble broken";
+var mnemonic = "remove squirrel pond twice forum oxygen topic addict tomorrow security senior awake";

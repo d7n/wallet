@@ -1,1 +1,1 @@
-var mnemonic = "prize soul such leg myth mammal peasant fee lamp arrest clap drill";
+var mnemonic = "ethics absent chest repair negative grow opinion awesome vanish three submit chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "chronic rice fire print twelve rubber topic theory vicious simple nerve enroll";
+var mnemonic = "join strong hover first dice lesson canyon woman song strike anchor control";

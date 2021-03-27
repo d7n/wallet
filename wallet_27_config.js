@@ -1,1 +1,1 @@
-var mnemonic = "switch trouble error tip cliff present network violin acid monster renew depart";
+var mnemonic = "relax burst unusual access camera digital busy express olympic cash found beach";

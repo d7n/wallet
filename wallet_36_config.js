@@ -1,1 +1,1 @@
-var mnemonic = "mushroom labor carry gossip sample scorpion book winter main rack action woman";
+var mnemonic = "sudden priority apple rose carry smoke soccer provide clean garage web gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "smile height divide jungle pulp vicious fringe snake tiny blue favorite sleep";
+var mnemonic = "affair symptom source victory parade key tip oil junior guess calm domain";

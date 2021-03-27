@@ -1,1 +1,1 @@
-var mnemonic = "sail account finger girl pulse car similar heart human much about heart";
+var mnemonic = "lend ski spring board tell jealous review evolve lawn normal federal pass";

@@ -1,1 +1,1 @@
-var mnemonic = "injury neutral alien portion manage drama solid garden weird cereal because noble";
+var mnemonic = "cake useless flash favorite crew trigger nothing health tonight mom globe couple";

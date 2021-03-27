@@ -1,1 +1,1 @@
-var mnemonic = "cloth start possible spell flight actual oyster better rent allow initial roof";
+var mnemonic = "sure tip there birth gravity aunt spare crack dish indicate weird belt";

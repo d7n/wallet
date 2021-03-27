@@ -1,1 +1,1 @@
-var mnemonic = "horn stomach leisure zoo side yellow pelican romance carpet hill butter march";
+var mnemonic = "wheat carbon shadow glimpse play what soul warfare chronic cousin cousin avocado";

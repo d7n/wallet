@@ -1,1 +1,1 @@
-var mnemonic = "bridge stairs shed ethics sound never rose pulse warfare assume segment wet";
+var mnemonic = "drink crawl noise frost rhythm document ginger hen alley supply stock dizzy";

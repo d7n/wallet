@@ -1,1 +1,1 @@
-var mnemonic = "where gesture adjust icon ahead that allow faculty vague plastic rhythm valley";
+var mnemonic = "smooth marine rabbit circle head beyond twice army move private cement defy";

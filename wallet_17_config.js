@@ -1,1 +1,1 @@
-var mnemonic = "maximum have report uphold split utility middle caution swamp diesel portion pilot";
+var mnemonic = "disorder crumble cable define gentle slam pluck fit design six correct undo";

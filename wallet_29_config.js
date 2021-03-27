@@ -1,1 +1,1 @@
-var mnemonic = "large trade milk erode conduct tuition oil cream illegal ring setup flower";
+var mnemonic = "echo cry ski hope file gold hamster note bonus skill tool mammal";

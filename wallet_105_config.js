@@ -1,1 +1,1 @@
-var mnemonic = "vivid unhappy female idea bind cream normal ethics joy toast neither net";
+var mnemonic = "tobacco home top section syrup shy depend forest can used visual grit";

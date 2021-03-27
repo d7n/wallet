@@ -1,1 +1,1 @@
-var mnemonic = "art about excess someone base exact teach dolphin stick shield panda kit";
+var mnemonic = "slogan protect expose category tag bike arm soul quote minimum ketchup slight";

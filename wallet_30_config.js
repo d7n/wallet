@@ -1,1 +1,1 @@
-var mnemonic = "alcohol mean shield brain corn practice cool afraid august space runway syrup";
+var mnemonic = "weather person sudden receive check stamp end sample ahead airport crawl nut";

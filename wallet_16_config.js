@@ -1,1 +1,1 @@
-var mnemonic = "night flock cigar link nominee layer cloth myth head frog fall month";
+var mnemonic = "bicycle picture field insect expand arch evolve lunch advice still engage pitch";

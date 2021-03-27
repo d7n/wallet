@@ -1,1 +1,1 @@
-var mnemonic = "blue session point note strong saddle december enter empower october crystal divorce";
+var mnemonic = "tide enact analyst absorb wool oxygen artefact tomato nice hospital ordinary drive";

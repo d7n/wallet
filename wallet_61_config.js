@@ -1,1 +1,1 @@
-var mnemonic = "swim battle tent size march vague very come addict cancel outer demand";
+var mnemonic = "glide butter cake gorilla enforce health panic scout video amazing view early";

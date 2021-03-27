@@ -1,1 +1,1 @@
-var mnemonic = "since original struggle evil spatial cage often animal swim pipe person wood";
+var mnemonic = "relax initial culture life unaware early whip library property weekend dinner sister";

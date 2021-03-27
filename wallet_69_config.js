@@ -1,1 +1,1 @@
-var mnemonic = "entry robust fury outside very life lunch carpet render calm grief violin";
+var mnemonic = "exhaust end intact major must label clarify salmon champion leader wave gorilla";

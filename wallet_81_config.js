@@ -1,1 +1,1 @@
-var mnemonic = "piano main humor miss swing puzzle firm swap need this useless duck";
+var mnemonic = "connect stone disease axis two reveal dish inject act plate fossil october";
