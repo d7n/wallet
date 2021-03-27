@@ -1,1 +1,1 @@
-var mnemonic = "bike three various other tree hollow casino grab bonus together twist female";
+var mnemonic = "feature seek stage ahead shell duty absorb quarter vocal spread obtain collect";

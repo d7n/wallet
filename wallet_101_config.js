@@ -1,1 +1,1 @@
-var mnemonic = "tunnel stick slide cradle ten cabbage tent often clay grant immune nephew";
+var mnemonic = "betray occur crawl front lava maze bleak enact program hour message shift";

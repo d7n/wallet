@@ -1,1 +1,1 @@
-var mnemonic = "insane move brother flame camera quiz midnight anger expose naive track style";
+var mnemonic = "crush strike give way unusual feature win bridge top badge pluck again";

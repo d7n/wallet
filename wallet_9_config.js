@@ -1,1 +1,1 @@
-var mnemonic = "tackle music rather beyond bone illness pottery dismiss type pledge poem route";
+var mnemonic = "useless walnut ginger raise horror aware misery express actress donate only sunset";

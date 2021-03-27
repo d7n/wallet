@@ -1,1 +1,1 @@
-var mnemonic = "cloth dolphin hammer blood cannon future spatial grace walnut ability rebuild bus";
+var mnemonic = "behave enjoy problem banner dose lab rally sense fat banana moment trap";

@@ -1,1 +1,1 @@
-var mnemonic = "word daring cherry trap basket idle rate surface hood attend volume culture";
+var mnemonic = "custom satoshi sister pistol fan outdoor library foster acquire brisk despair embody";

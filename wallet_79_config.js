@@ -1,1 +1,1 @@
-var mnemonic = "army announce unique barely agent razor draft output magic best used deposit";
+var mnemonic = "category struggle tragic throw alter into alley upset print multiply draft pattern";

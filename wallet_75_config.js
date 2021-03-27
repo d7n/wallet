@@ -1,1 +1,1 @@
-var mnemonic = "hat clarify jewel soldier brother inmate still inject already valid clip furnace";
+var mnemonic = "plunge recall artist blue fly dismiss admit erode neutral owner tower ski";

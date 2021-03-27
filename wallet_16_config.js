@@ -1,1 +1,1 @@
-var mnemonic = "today two caught useless peace shove pyramid color finish gospel bachelor lizard";
+var mnemonic = "ozone edit giant hawk clinic slice toy ensure badge faculty flock elevator";

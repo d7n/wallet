@@ -1,1 +1,1 @@
-var mnemonic = "next glass silk feel tank output arch absurd offer alter chat erase";
+var mnemonic = "curious slender dice spare debate any soon inflict satisfy tunnel capital tiger";

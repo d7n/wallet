@@ -1,1 +1,1 @@
-var mnemonic = "ordinary chair hair gym find segment inflict hundred submit wash canvas tooth";
+var mnemonic = "stone close soldier network various life twenty rely grow canyon whale zero";

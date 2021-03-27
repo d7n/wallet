@@ -1,1 +1,1 @@
-var mnemonic = "bunker tower diamond flush must void expire practice industry image side need";
+var mnemonic = "sustain powder simple attend juice lab merry harvest desert advice dutch build";

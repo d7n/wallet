@@ -1,1 +1,1 @@
-var mnemonic = "stem very huge pave mosquito elegant bike satisfy head angle gauge estate";
+var mnemonic = "copper unveil oven force leg require now sense room leisure concert tissue";

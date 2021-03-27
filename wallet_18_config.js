@@ -1,1 +1,1 @@
-var mnemonic = "rifle fold hamster call unlock robot fragile buffalo asthma during answer seven";
+var mnemonic = "modify bulk cake comic build analyst wide fatal heavy solid luxury mansion";

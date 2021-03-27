@@ -1,1 +1,1 @@
-var mnemonic = "scheme amazing copy yellow cause wonder party captain midnight enjoy dance love";
+var mnemonic = "rookie cancel lucky voice cable ostrich fuel special vanish aisle trend outdoor";

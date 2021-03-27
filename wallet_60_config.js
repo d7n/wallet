@@ -1,1 +1,1 @@
-var mnemonic = "seat daring hat outdoor cruel drastic ability prize source miracle write lens";
+var mnemonic = "fame anchor urge that oyster female random later increase violin inhale orbit";

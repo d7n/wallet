@@ -1,1 +1,1 @@
-var mnemonic = "pond option top circle place jelly benefit swamp churn design lake picture";
+var mnemonic = "village vapor expect bomb sand concert brass grocery outdoor thrive cheap jungle";

@@ -1,1 +1,1 @@
-var mnemonic = "issue taxi wife critic error dinner bone exit evidence unfair notice trophy";
+var mnemonic = "piece portion liquid climb install antique make glove slim other loud alert";

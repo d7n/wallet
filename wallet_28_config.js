@@ -1,1 +1,1 @@
-var mnemonic = "crunch basket history recipe wait come evolve island material unknown rocket minute";
+var mnemonic = "estate tribe leisure style meat wasp fresh process display truth heart obey";

@@ -1,1 +1,1 @@
-var mnemonic = "inner help sock flavor jar wing submit strategy ahead drop gadget name";
+var mnemonic = "sword bottom coach novel pelican emotion sudden museum fantasy wash confirm beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "give ring slender pair rich tool guide hawk figure weird light envelope";
+var mnemonic = "fog version toast area manual clump soup despair boost install liquid best";

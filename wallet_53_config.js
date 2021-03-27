@@ -1,1 +1,1 @@
-var mnemonic = "fog improve morning butter various flower identify myself monkey february warm develop";
+var mnemonic = "kiss galaxy alley help orphan raise winter volume hunt move exhibit middle";

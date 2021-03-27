@@ -1,1 +1,1 @@
-var mnemonic = "ignore act romance front inmate asthma injury hero will team civil barely";
+var mnemonic = "dolphin render awesome sample ridge follow sail celery clog baby upgrade left";

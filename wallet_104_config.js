@@ -1,1 +1,1 @@
-var mnemonic = "spread truck buyer logic figure rescue cabin raven smoke tennis cycle inject";
+var mnemonic = "else excite ask view october pig hello lobster must voyage clarify salute";

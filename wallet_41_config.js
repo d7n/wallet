@@ -1,1 +1,1 @@
-var mnemonic = "dignity tail stadium absurd damage athlete doctor length identify cube stereo index";
+var mnemonic = "oven seminar casino chalk track science error degree pistol claw design asthma";

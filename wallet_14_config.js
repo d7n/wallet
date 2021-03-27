@@ -1,1 +1,1 @@
-var mnemonic = "thing obscure poem hybrid acquire chat coconut cry theme vapor staff frost";
+var mnemonic = "foot erode duck library wall gain avocado cost easily same cannon brand";

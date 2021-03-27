@@ -1,1 +1,1 @@
-var mnemonic = "meadow lab notice someone glass sadness food forward amateur lucky pistol quiz";
+var mnemonic = "nothing okay divide treat planet maple day lounge guide book blouse thrive";

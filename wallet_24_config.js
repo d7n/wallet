@@ -1,1 +1,1 @@
-var mnemonic = "gas curve clay sunset ticket brown follow coconut light spoil achieve swarm";
+var mnemonic = "fuel census laugh melt confirm mask olive bid field steel inherit stove";

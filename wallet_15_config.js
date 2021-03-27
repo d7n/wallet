@@ -1,1 +1,1 @@
-var mnemonic = "luggage garden smart help fuel body attract thank piece silly romance nature";
+var mnemonic = "universe code lab potato series box frog volcano present fetch tourist print";

@@ -1,1 +1,1 @@
-var mnemonic = "save cave switch boss snack claw left desk horror jump tackle settle";
+var mnemonic = "modify pulse crisp same thank nut wink work cover knock bottom fame";

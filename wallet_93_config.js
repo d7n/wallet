@@ -1,1 +1,1 @@
-var mnemonic = "merry utility unusual that pigeon apart warrior cost paddle pumpkin gaze shoulder";
+var mnemonic = "earth garment grit enough fortune imitate hub scene way govern lumber return";

@@ -1,1 +1,1 @@
-var mnemonic = "thought copper used pact emerge scale metal grass bread poverty fun horn";
+var mnemonic = "dad evolve west loan insane segment social frozen used object brain sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "one bean mutual hole move young turtle food pottery rebuild hello spend";
+var mnemonic = "never tuition cigar plug random echo myth chief nation major either extend";

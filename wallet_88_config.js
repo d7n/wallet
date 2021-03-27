@@ -1,1 +1,1 @@
-var mnemonic = "tonight inmate lecture salon badge february permit crouch volume design pattern segment";
+var mnemonic = "nephew bunker wood buddy search raven drill strategy tent end knock nest";

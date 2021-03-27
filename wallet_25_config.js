@@ -1,1 +1,1 @@
-var mnemonic = "exclude erupt heart boat material fog response cube connect initial network armor";
+var mnemonic = "high globe alert belt purse annual lumber fish cattle cute crowd atom";

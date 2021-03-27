@@ -1,1 +1,1 @@
-var mnemonic = "over seat capable update leisure capital sting wool thank resemble inmate neither";
+var mnemonic = "almost satoshi police pink coffee vivid toast ranch bulb sausage own wall";

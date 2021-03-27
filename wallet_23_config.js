@@ -1,1 +1,1 @@
-var mnemonic = "insane curtain useless aisle virus leg infant float soon brave frequent alarm";
+var mnemonic = "law twenty claw deposit stock boss awkward process feed another edit dinner";

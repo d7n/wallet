@@ -1,1 +1,1 @@
-var mnemonic = "horse measure foam vivid magic cattle recipe soccer only shove sad stamp";
+var mnemonic = "nation depart guide exhibit weasel select water wrong scale code coffee side";

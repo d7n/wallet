@@ -1,1 +1,1 @@
-var mnemonic = "churn retreat apart outer fatigue large escape zebra music observe prize caught";
+var mnemonic = "enforce flavor manual hair predict acoustic tower true delay admit agree burst";

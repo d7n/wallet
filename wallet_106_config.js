@@ -1,1 +1,1 @@
-var mnemonic = "elegant width enact fashion ankle girl sadness ancient apology curve fine aim";
+var mnemonic = "axis cradle glory kind hard clown light camp bread tag patient damage";

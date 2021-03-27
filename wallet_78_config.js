@@ -1,1 +1,1 @@
-var mnemonic = "cry private label category ill level million village caution entry mountain aware";
+var mnemonic = "vault summer lava harvest ship glad feature lazy retreat sunset fold shaft";

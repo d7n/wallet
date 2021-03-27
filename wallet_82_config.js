@@ -1,1 +1,1 @@
-var mnemonic = "evidence demand tray say toe eternal salmon slush interest dolphin barrel fruit";
+var mnemonic = "replace spend have noble hero pact leopard area ticket wreck vote clerk";

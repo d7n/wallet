@@ -1,1 +1,1 @@
-var mnemonic = "agent treat buffalo swamp blossom razor garment deliver permit peanut phone rug";
+var mnemonic = "often fatigue moral junior oval spray domain piece vendor forum banana museum";

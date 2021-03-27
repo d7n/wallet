@@ -1,1 +1,1 @@
-var mnemonic = "blade lava typical quality artwork foot pumpkin position broken nothing swamp host";
+var mnemonic = "rural large valley unhappy quantum brick nest agree giggle attend love target";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse cheese plastic chef hip blossom deliver swim awkward taxi omit peanut";
+var mnemonic = "huge sauce trust park confirm fancy lizard wasp crucial solid sock neck";

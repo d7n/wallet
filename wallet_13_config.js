@@ -1,1 +1,1 @@
-var mnemonic = "duck claim believe fish quiz globe skirt soap process wall grape guide";
+var mnemonic = "oil hungry fault steak welcome vehicle modify kiss neck gorilla gravity fat";

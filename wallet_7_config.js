@@ -1,1 +1,1 @@
-var mnemonic = "orange fiction example artist struggle tip asset reason rabbit arch law bleak";
+var mnemonic = "dirt sail cement nut chimney typical lava evolve abstract obey cute agent";

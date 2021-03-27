@@ -1,1 +1,1 @@
-var mnemonic = "bicycle income section kind chapter celery stage carpet issue stumble grab surround";
+var mnemonic = "river clever sun kidney family green ghost next world endless squirrel farm";

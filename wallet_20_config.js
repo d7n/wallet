@@ -1,1 +1,1 @@
-var mnemonic = "unveil tomato pause mimic teach pizza baby kick wage hand range grocery";
+var mnemonic = "beyond pony catch search cabbage carpet share language popular cabbage orphan swear";

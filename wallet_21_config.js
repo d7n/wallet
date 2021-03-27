@@ -1,1 +1,1 @@
-var mnemonic = "still detect tower width torch slight okay engage proof drive adult fish";
+var mnemonic = "measure valid document century robot army winner work aunt obey biology effort";

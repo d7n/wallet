@@ -1,1 +1,1 @@
-var mnemonic = "shadow harsh achieve use icon comfort tobacco safe ostrich right glimpse episode";
+var mnemonic = "recipe coin myself discover chat audit soap shell spoil boring success throw";

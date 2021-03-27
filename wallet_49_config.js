@@ -1,1 +1,1 @@
-var mnemonic = "angle wrong day master good lava circle sign exile will oil trouble";
+var mnemonic = "first spider usage fever alien typical glow knee agent wrong horror yellow";

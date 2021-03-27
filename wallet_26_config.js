@@ -1,1 +1,1 @@
-var mnemonic = "scout excuse core tell slot accuse clean session lawn affair meat wet";
+var mnemonic = "fire famous capable suggest trouble erode below before purpose engine pattern fantasy";

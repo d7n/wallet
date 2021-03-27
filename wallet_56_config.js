@@ -1,1 +1,1 @@
-var mnemonic = "reward negative crunch measure panther sphere size rally buddy park kitten exist";
+var mnemonic = "century alpha track pluck year best rug heavy media stuff beauty primary";

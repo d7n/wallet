@@ -1,1 +1,1 @@
-var mnemonic = "boring endless begin myth old runway process earn small dance leopard chimney";
+var mnemonic = "deal emotion budget mirror lawn popular combine spatial ceiling venture elder couple";

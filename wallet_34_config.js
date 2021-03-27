@@ -1,1 +1,1 @@
-var mnemonic = "basket wrong describe deposit hotel century decade essence coast shell dynamic below";
+var mnemonic = "deliver notable tired decline approve wonder leopard decide pulp ensure trend fade";

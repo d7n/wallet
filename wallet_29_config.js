@@ -1,1 +1,1 @@
-var mnemonic = "project trouble boil reform liar blur relief occur stove result two crystal";
+var mnemonic = "industry unfold supply leg glad domain case sell ladder identify account sun";

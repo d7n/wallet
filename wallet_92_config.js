@@ -1,1 +1,1 @@
-var mnemonic = "crunch can render kick harsh genius talk solid garment gaze reform airport";
+var mnemonic = "regular later yellow destroy hungry about game stock lottery smooth author issue";

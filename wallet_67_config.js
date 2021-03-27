@@ -1,1 +1,1 @@
-var mnemonic = "rack element valve rate rifle wheel budget record gentle phrase where inflict";
+var mnemonic = "open share bargain hunt hammer flavor identify cloth shove burst custom pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "model room achieve include rate valve cream action law doctor under exchange";
+var mnemonic = "wave idle please immune awake just loyal remain mercy economy sea turn";

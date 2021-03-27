@@ -1,1 +1,1 @@
-var mnemonic = "mirror video diet art clay hello result forum large silent example man";
+var mnemonic = "promote april retreat ten dash connect fly ordinary doctor multiply devote regret";

@@ -1,1 +1,1 @@
-var mnemonic = "appear peanut soon legend ride chuckle again eagle promote unknown maple idle";
+var mnemonic = "argue fee pioneer minimum injury clock doll stairs bright obvious describe sphere";

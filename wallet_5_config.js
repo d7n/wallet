@@ -1,1 +1,1 @@
-var mnemonic = "man human happy dragon penalty father layer sugar table initial ship guess";
+var mnemonic = "matrix focus clean absent smart baby private vault wave student hawk metal";

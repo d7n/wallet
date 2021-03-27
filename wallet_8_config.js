@@ -1,1 +1,1 @@
-var mnemonic = "maximum quote cannon later stem dizzy escape detect slender exit check put";
+var mnemonic = "dwarf fossil social profit century grief task what awesome scare wheat arrow";

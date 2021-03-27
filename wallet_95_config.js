@@ -1,1 +1,1 @@
-var mnemonic = "between spike civil fiber trick child volcano track ramp shuffle weird battle";
+var mnemonic = "glue jealous blanket consider rain bring outer cloth smoke grace panel master";

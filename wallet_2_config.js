@@ -1,1 +1,1 @@
-var mnemonic = "creek uncle correct primary razor remain nut wrist skull attend expire lucky";
+var mnemonic = "absent scrub shine twenty cheap era zero essence later mosquito position mushroom";

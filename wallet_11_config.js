@@ -1,1 +1,1 @@
-var mnemonic = "veteran favorite avoid decorate camp memory wet retire skirt goat steak canal";
+var mnemonic = "veteran exchange dutch dream arena comfort language violin robot auto dash prevent";

@@ -1,1 +1,1 @@
-var mnemonic = "piece clap wet border item slim trouble yellow ski boss stock adult";
+var mnemonic = "response good aspect observe hand illness vicious noble slab jealous scatter famous";

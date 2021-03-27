@@ -1,1 +1,1 @@
-var mnemonic = "appear witness cement involve grocery surface mind cram escape real rocket business";
+var mnemonic = "onion gallery across panic subway salmon that giraffe cheap what actress team";

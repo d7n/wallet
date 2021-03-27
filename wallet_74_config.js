@@ -1,1 +1,1 @@
-var mnemonic = "obtain expire oak erupt silent sort renew cook bind lock arrange improve";
+var mnemonic = "video hurdle dawn buffalo burger core will aisle immune express awesome family";

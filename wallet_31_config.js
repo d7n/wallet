@@ -1,1 +1,1 @@
-var mnemonic = "sure oppose message bird elder fog enemy amateur south wheat best note";
+var mnemonic = "few level sick own engine dry coffee abstract still allow unknown fat";

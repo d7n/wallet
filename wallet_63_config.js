@@ -1,1 +1,1 @@
-var mnemonic = "elbow auto trust stable woman good curve filter crucial absorb display exact";
+var mnemonic = "snap such erosion name fluid survey innocent depend armed team faith gas";

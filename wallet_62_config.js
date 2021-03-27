@@ -1,1 +1,1 @@
-var mnemonic = "fancy decrease bubble cloth news secret push burden copper true result quit";
+var mnemonic = "basic blanket tell despair devote filter edge viable hundred clever kiwi rely";

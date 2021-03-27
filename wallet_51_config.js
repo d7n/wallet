@@ -1,1 +1,1 @@
-var mnemonic = "wine canal depend wall media tonight eagle invest near like govern train";
+var mnemonic = "office fever claim expand return gain bird cloud nasty infant detail mad";

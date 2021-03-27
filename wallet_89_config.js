@@ -1,1 +1,1 @@
-var mnemonic = "witness shallow elephant ketchup mixture culture whisper share parrot aerobic curtain motor";
+var mnemonic = "lady ride kite bridge museum satoshi opera sudden mountain roof basket slight";

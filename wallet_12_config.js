@@ -1,1 +1,1 @@
-var mnemonic = "outer bonus dune catalog harvest confirm select pair road evidence key yard";
+var mnemonic = "hip sunny rather must choose check tray stamp resource meadow install deal";

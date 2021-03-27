@@ -1,1 +1,1 @@
-var mnemonic = "various smile try category capable toddler okay force ride scorpion deer entry";
+var mnemonic = "pencil situate congress right enable quarter fade video cook spider rookie outside";

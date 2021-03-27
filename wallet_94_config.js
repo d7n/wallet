@@ -1,1 +1,1 @@
-var mnemonic = "sample assume dry fog reveal lens imitate crazy laptop sword allow cruel";
+var mnemonic = "turtle ranch top ten ivory valid speed pact diary key story infant";

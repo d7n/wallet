@@ -1,1 +1,1 @@
-var mnemonic = "face bamboo core fatigue sign december balcony brain depth story demise script";
+var mnemonic = "group giraffe square accident old toast donor mountain foot fault outer stick";

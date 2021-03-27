@@ -1,1 +1,1 @@
-var mnemonic = "situate tongue hip goddess turtle fee dutch goddess kiwi custom when street";
+var mnemonic = "prosper truly trip suffer soda wheat project reward noodle try unlock title";

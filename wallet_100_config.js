@@ -1,1 +1,1 @@
-var mnemonic = "cruel leader wreck blur inch odor steel change fabric marriage utility spot";
+var mnemonic = "banana lounge tired input much actor miracle push reject engage supreme economy";

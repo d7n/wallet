@@ -1,1 +1,1 @@
-var mnemonic = "remember pretty drift infant helmet rebuild police tag gather phone oval among";
+var mnemonic = "travel profit rate solution slice torch auto glide board ensure ribbon mercy";

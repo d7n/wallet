@@ -1,1 +1,1 @@
-var mnemonic = "replace casual opinion bench farm warrior demand farm toy tortoise decide rhythm";
+var mnemonic = "auction infant crime warfare that test prefer will volume situate favorite case";

@@ -1,1 +1,1 @@
-var mnemonic = "night kangaroo globe shiver tail useless bitter still book cloud crush black";
+var mnemonic = "sand myth bacon erosion walk service exact lobster oval also short panther";

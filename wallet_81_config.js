@@ -1,1 +1,1 @@
-var mnemonic = "purse shuffle letter hidden arena auto arrive broccoli elder pluck favorite elite";
+var mnemonic = "nest pioneer unveil cherry thunder impose client company question orange welcome turtle";
