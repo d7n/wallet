@@ -1,1 +1,1 @@
-var mnemonic = "vanish start define unable gun venue cliff fine replace explain order fun";
+var mnemonic = "derive ensure seminar refuse opinion shield phone tooth dirt west diagram scout";

@@ -1,1 +1,1 @@
-var mnemonic = "harsh desert learn welcome drama laundry youth cherry dust wasp number hurt";
+var mnemonic = "salon idea quality clown cage trigger require eight audit ketchup company depart";

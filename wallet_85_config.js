@@ -1,1 +1,1 @@
-var mnemonic = "right relief march palace symptom doll bulk total matrix uphold trap amused";
+var mnemonic = "logic fresh famous ribbon below crowd robust profit change light label paper";

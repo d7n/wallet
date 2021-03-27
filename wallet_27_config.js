@@ -1,1 +1,1 @@
-var mnemonic = "kiss bicycle century gloom paper snow relax health slender try tooth stove";
+var mnemonic = "monster bus slab lake debris skull paddle meat clutch dynamic unknown will";

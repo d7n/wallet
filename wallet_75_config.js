@@ -1,1 +1,1 @@
-var mnemonic = "used box envelope demand equip dinosaur million cool bunker legal cabbage sorry";
+var mnemonic = "gain nose empty narrow jacket grain atom provide source stadium zebra total";

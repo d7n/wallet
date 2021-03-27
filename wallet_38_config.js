@@ -1,1 +1,1 @@
-var mnemonic = "canyon day tongue market blanket permit treat devote review brass story enroll";
+var mnemonic = "another display sausage excuse craft gallery lottery ridge latin tackle rich stem";

@@ -1,1 +1,1 @@
-var mnemonic = "garment narrow episode sad wire wisdom asset wise invest tip erode odor";
+var mnemonic = "inherit call absent breeze garage machine move misery mail kiss vacuum wise";

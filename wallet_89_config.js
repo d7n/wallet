@@ -1,1 +1,1 @@
-var mnemonic = "travel current analyst citizen tank visa zebra injury now spatial oyster vapor";
+var mnemonic = "attack damp symptom whale video prefer club betray finger diet tribe person";

@@ -1,1 +1,1 @@
-var mnemonic = "lion twelve weekend below abuse velvet impact key maze silly multiply push";
+var mnemonic = "vault below portion stone salmon canvas enhance churn retreat bacon demise hawk";

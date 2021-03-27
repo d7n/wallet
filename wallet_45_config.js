@@ -1,1 +1,1 @@
-var mnemonic = "tank obvious fence panther aunt fiscal office sugar fatal royal gasp sight";
+var mnemonic = "noodle cabbage letter soup glimpse belt wet shop same woman puppy power";

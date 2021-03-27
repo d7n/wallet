@@ -1,1 +1,1 @@
-var mnemonic = "tent toe salmon scrub year force hollow tuition isolate feel all noodle";
+var mnemonic = "maple empty usual metal party such embrace meat blind ridge artefact price";

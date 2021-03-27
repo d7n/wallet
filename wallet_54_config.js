@@ -1,1 +1,1 @@
-var mnemonic = "away possible agree civil soldier permit journey visit desert amount call man";
+var mnemonic = "swarm problem define clean maximum theme garment trip elbow wealth neglect rude";

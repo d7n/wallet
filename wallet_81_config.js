@@ -1,1 +1,1 @@
-var mnemonic = "sweet release friend evoke only shoot abandon gain zone island vapor shine";
+var mnemonic = "toss world viable boost pottery tomorrow upper lesson margin drink stumble all";

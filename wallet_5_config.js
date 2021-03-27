@@ -1,1 +1,1 @@
-var mnemonic = "feel torch live legend enroll feel pyramid punch unlock plunge world author";
+var mnemonic = "duty helmet interest number cake path object buddy topple obtain off plastic";

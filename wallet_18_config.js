@@ -1,1 +1,1 @@
-var mnemonic = "nurse hollow admit diary load lawsuit salmon ten welcome lab salad super";
+var mnemonic = "leg ankle early risk motor claim push someone pool inside offer spatial";

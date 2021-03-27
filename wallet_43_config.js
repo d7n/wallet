@@ -1,1 +1,1 @@
-var mnemonic = "fence route child myself language must mandate erosion begin glory pumpkin message";
+var mnemonic = "slender chase topple wave parrot section pear front shove chapter shoot inspire";

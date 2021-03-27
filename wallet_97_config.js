@@ -1,1 +1,1 @@
-var mnemonic = "speed undo number cushion retreat repair proof insane twice turn employ source";
+var mnemonic = "best soccer fade sketch ecology fit swallow bread resource city omit various";

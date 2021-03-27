@@ -1,1 +1,1 @@
-var mnemonic = "rookie velvet crumble hidden vague slush decline below bird quote inherit broccoli";
+var mnemonic = "canyon swap sausage smile slam elbow awake stool bargain ritual stick random";

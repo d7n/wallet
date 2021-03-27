@@ -1,1 +1,1 @@
-var mnemonic = "bargain nice reduce civil any rice giant skill want session giraffe emerge";
+var mnemonic = "disease trick valley misery arctic fluid multiply leg avocado exit stone frame";

@@ -1,1 +1,1 @@
-var mnemonic = "depart model ceiling isolate ask shiver damage donor rebel walnut pig impulse";
+var mnemonic = "bird team hunt bacon forest bulb issue sugar damage slide leaf uncle";

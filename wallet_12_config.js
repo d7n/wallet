@@ -1,1 +1,1 @@
-var mnemonic = "spend divide little best ensure alpha found crawl slice grain pelican among";
+var mnemonic = "canyon crack cannon news angry viable mechanic replace taxi divorce usual reflect";

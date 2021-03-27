@@ -1,1 +1,1 @@
-var mnemonic = "require desk trim erase door junk pair sorry organ current run idle";
+var mnemonic = "helmet interest elegant north same pretty insane nature inmate mimic soon sing";

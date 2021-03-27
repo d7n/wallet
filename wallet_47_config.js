@@ -1,1 +1,1 @@
-var mnemonic = "load notice initial ceiling theory monster voyage giggle meadow general trap all";
+var mnemonic = "infant monkey project boil cream film expect cool bamboo lesson term garden";

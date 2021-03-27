@@ -1,1 +1,1 @@
-var mnemonic = "learn denial uphold mercy twelve best ivory census now assist speed erosion";
+var mnemonic = "level bread lesson celery smart lava spare busy saddle move flip join";

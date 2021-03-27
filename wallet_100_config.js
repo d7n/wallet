@@ -1,1 +1,1 @@
-var mnemonic = "flee input tobacco panther feed bracket tone warfare ocean novel address nurse";
+var mnemonic = "solar extend enroll arm ridge happy dentist bundle galaxy food misery welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "top finish lady genre life choose chicken perfect van spawn quarter tool";
+var mnemonic = "base mad coach music fan into clay unlock soda need mass sick";

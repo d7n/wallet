@@ -1,1 +1,1 @@
-var mnemonic = "useful village north moment hard visit unusual reopen pigeon bar filter click";
+var mnemonic = "salmon unable dizzy wise virtual stairs confirm ketchup wear tag place motion";

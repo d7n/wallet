@@ -1,1 +1,1 @@
-var mnemonic = "virus raise best deputy equip citizen canvas trash burst earth mask output";
+var mnemonic = "address rack proof hazard veteran slight craft april yellow arrest citizen pyramid";

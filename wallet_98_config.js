@@ -1,1 +1,1 @@
-var mnemonic = "truly habit kiss melt weapon purity execute forward novel dutch roof help";
+var mnemonic = "ice option economy focus pilot trumpet crumble excuse awake pledge sentence winter";

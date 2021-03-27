@@ -1,1 +1,1 @@
-var mnemonic = "battle name student trigger sniff glove advice surprise impact priority aerobic pony";
+var mnemonic = "elevator wrap broom fury crop rural settle hip dress stomach depart initial";

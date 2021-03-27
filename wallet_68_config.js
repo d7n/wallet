@@ -1,1 +1,1 @@
-var mnemonic = "exhaust spin crash edit boat fabric visa thing scare light ladder gauge";
+var mnemonic = "lens vast fortune mobile this awesome design neglect music speak wine urban";

@@ -1,1 +1,1 @@
-var mnemonic = "rubber head team frog doll snow fancy spider park genius outdoor virus";
+var mnemonic = "habit portion they nerve item manage crawl submit marble unlock slice van";

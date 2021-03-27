@@ -1,1 +1,1 @@
-var mnemonic = "tornado cry term bounce pave hobby add over alarm enemy social real";
+var mnemonic = "empty purse timber coast front code wheat during airport unfair topple physical";

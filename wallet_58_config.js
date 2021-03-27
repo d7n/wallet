@@ -1,1 +1,1 @@
-var mnemonic = "pill bamboo speak cry region jazz daring inspire frequent test announce iron";
+var mnemonic = "decrease across empty junior sphere sense tourist rebuild enough hill swallow tobacco";

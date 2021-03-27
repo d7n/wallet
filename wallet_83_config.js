@@ -1,1 +1,1 @@
-var mnemonic = "mask toy enlist will strike oak bless category grape treat idle seek";
+var mnemonic = "tenant avoid clean pulp degree gospel borrow nothing claw number bid truly";

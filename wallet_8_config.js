@@ -1,1 +1,1 @@
-var mnemonic = "bring ten boost cannon mammal perfect busy sunset gate segment breeze frost";
+var mnemonic = "actress team venue dignity film feel genre stable skull crunch summer super";

@@ -1,1 +1,1 @@
-var mnemonic = "pen script actual tape script twice sea lemon coconut gift agree test";
+var mnemonic = "point humor tenant entire elephant rifle damage suit brave violin minimum cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "bounce imitate poet blast stick false common capable rib spend label jacket";
+var mnemonic = "clinic payment clerk hobby bind expect depart mistake popular visual panther tuna";

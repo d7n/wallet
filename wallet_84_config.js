@@ -1,1 +1,1 @@
-var mnemonic = "ginger wall exercise inflict juice proud sock orange decrease venue dune grief";
+var mnemonic = "skill quiz manage universe spike young mesh cattle region riot wave luxury";

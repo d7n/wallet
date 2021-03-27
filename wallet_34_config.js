@@ -1,1 +1,1 @@
-var mnemonic = "cage cool jazz sausage mix minute letter twelve fringe winner zero door";
+var mnemonic = "unusual caution leisure very denial oak final describe decade gym trap mechanic";

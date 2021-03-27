@@ -1,1 +1,1 @@
-var mnemonic = "call throw banner mention clutch gain limit kitchen enact earth color boy";
+var mnemonic = "naive adjust paper escape level alcohol elder notice liquid imitate rifle sadness";

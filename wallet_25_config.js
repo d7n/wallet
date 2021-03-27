@@ -1,1 +1,1 @@
-var mnemonic = "trash into system network tackle legend decrease lake obtain junk weird always";
+var mnemonic = "brief cancel idle secret search deputy deposit nominee connect attend sting script";

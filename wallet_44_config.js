@@ -1,1 +1,1 @@
-var mnemonic = "episode range arm harvest globe when decline caution exhaust armed decrease hover";
+var mnemonic = "gap attract upset twist own split student frost artwork idea drive globe";

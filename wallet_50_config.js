@@ -1,1 +1,1 @@
-var mnemonic = "harsh custom voice burst dust leg device cream lonely gym edge improve";
+var mnemonic = "trumpet bonus sound east champion special genuine loop borrow double already element";

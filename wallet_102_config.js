@@ -1,1 +1,1 @@
-var mnemonic = "kidney chuckle cupboard need orient subject stay sun nose wrap city guilt";
+var mnemonic = "quarter vault object forest claw interest hockey trend rescue inch winter home";

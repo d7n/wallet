@@ -1,1 +1,1 @@
-var mnemonic = "fossil gorilla silly protect disease piece subject approve ranch glare into bike";
+var mnemonic = "sketch catch metal collect pattern frame diesel dish retire exhaust joke common";

@@ -1,1 +1,1 @@
-var mnemonic = "toe clerk school citizen vessel habit debate miss trend throw cigar eight";
+var mnemonic = "scrap verb brand ski sphere nasty rice toss able struggle buzz turtle";

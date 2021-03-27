@@ -1,1 +1,1 @@
-var mnemonic = "weapon betray now sausage print media type twelve prosper master faculty shed";
+var mnemonic = "hold much dish tornado symbol scorpion banana hire spray pilot auction fragile";

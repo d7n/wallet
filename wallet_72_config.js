@@ -1,1 +1,1 @@
-var mnemonic = "resemble shrimp ability vessel deny sniff goat kiwi brand canal session pattern";
+var mnemonic = "absurd hope install fitness minor cube select cup artefact outdoor vehicle seven";

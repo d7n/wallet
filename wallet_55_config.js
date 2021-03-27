@@ -1,1 +1,1 @@
-var mnemonic = "grass next squirrel soldier chair arena assault sense boy copy stove economy";
+var mnemonic = "broccoli power safe pattern lava lounge dragon picnic pear cliff cry under";

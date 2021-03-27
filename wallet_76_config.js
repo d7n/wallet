@@ -1,1 +1,1 @@
-var mnemonic = "kitten innocent egg bubble defense curtain cake spend damp canyon anxiety length";
+var mnemonic = "involve great brisk blue soldier grace nurse someone decrease glad surge onion";

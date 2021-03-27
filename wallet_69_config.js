@@ -1,1 +1,1 @@
-var mnemonic = "together almost valley auto horror peasant amateur language swear right version receive";
+var mnemonic = "engine swing weapon scrap aisle industry thumb lunar symptom capable combine damp";

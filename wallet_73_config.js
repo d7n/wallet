@@ -1,1 +1,1 @@
-var mnemonic = "host become excite physical annual clinic stamp course uniform fish comic rhythm";
+var mnemonic = "market lady carry urge measure come they ankle cabin wall story will";

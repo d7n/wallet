@@ -1,1 +1,1 @@
-var mnemonic = "blind between flight raw kite clean illness mistake whisper lemon health sadness";
+var mnemonic = "subject march couch start erupt earn apart canyon input dose volcano flavor";

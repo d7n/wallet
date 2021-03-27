@@ -1,1 +1,1 @@
-var mnemonic = "special ridge tonight letter coach jungle genuine cruel remember scrap bottom dismiss";
+var mnemonic = "source author slide fluid sheriff expand attack already blame jar save opera";

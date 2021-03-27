@@ -1,1 +1,1 @@
-var mnemonic = "claim eyebrow avocado pen common rare match cargo home valley excite business";
+var mnemonic = "stadium vehicle child evoke remain powder aware situate hurt talk burger village";

@@ -1,1 +1,1 @@
-var mnemonic = "page tourist tortoise crowd canal toe sock eyebrow screen solve exhaust salad";
+var mnemonic = "tiger height glow neutral grid divert birth army ecology flat produce science";

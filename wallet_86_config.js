@@ -1,1 +1,1 @@
-var mnemonic = "rare skate expose language jump impact female trap clever guide energy diamond";
+var mnemonic = "elite pave young soap resource sketch hero mixture element awesome stock bus";

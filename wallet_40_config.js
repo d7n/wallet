@@ -1,1 +1,1 @@
-var mnemonic = "script young security describe clump portion deliver desert crunch firm casual gossip";
+var mnemonic = "grass poverty hat armor modify ugly great excite write also blush result";

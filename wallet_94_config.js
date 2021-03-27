@@ -1,1 +1,1 @@
-var mnemonic = "ski ghost wrong exit oval scare garden gate text sponsor use athlete";
+var mnemonic = "truck uphold expect boost sick theme transfer volume indoor output actress matrix";

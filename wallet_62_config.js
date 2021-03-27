@@ -1,1 +1,1 @@
-var mnemonic = "negative kiwi olympic ripple welcome embark cycle make scissors border clever surprise";
+var mnemonic = "tiger find solar verb task elder isolate client boring bomb fork message";

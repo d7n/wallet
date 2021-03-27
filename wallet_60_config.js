@@ -1,1 +1,1 @@
-var mnemonic = "fit figure various cancel seven apology orphan nasty fun ship beef apology";
+var mnemonic = "unfold great length gossip mule grab wire fault leisure grocery know zero";

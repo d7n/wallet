@@ -1,1 +1,1 @@
-var mnemonic = "gold lunch into saddle option boring scatter scale silly mind urge input";
+var mnemonic = "submit just party grace salmon fly orphan fade clap attract eight day";

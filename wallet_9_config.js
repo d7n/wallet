@@ -1,1 +1,1 @@
-var mnemonic = "ozone pitch echo parent drastic bridge garment kick thunder cradle motor damage";
+var mnemonic = "apology remove smooth shaft window ancient skill village fault minute aunt word";

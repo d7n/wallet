@@ -1,1 +1,1 @@
-var mnemonic = "crumble peace animal group hint worry case cash runway upgrade cabin need";
+var mnemonic = "powder taxi thing poet clown genius summer judge bubble spell pigeon impose";

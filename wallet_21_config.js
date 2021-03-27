@@ -1,1 +1,1 @@
-var mnemonic = "push object wonder dinosaur jacket purity clip neglect surge scorpion tomorrow ski";
+var mnemonic = "crack honey invite ritual grape tennis canvas group loan planet lend doll";

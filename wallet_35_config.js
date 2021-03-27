@@ -1,1 +1,1 @@
-var mnemonic = "approve true phone fossil knee cook plate voyage junior power hello under";
+var mnemonic = "initial try kidney stamp flat oak narrow repeat guess defense segment camera";

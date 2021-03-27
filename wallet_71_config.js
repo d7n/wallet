@@ -1,1 +1,1 @@
-var mnemonic = "angle ladder satisfy mushroom survey job matter joke ritual employ any potato";
+var mnemonic = "chimney trick long kit smile sound harvest island sunset erupt certain regret";

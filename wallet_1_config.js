@@ -1,1 +1,1 @@
-var mnemonic = "ill other chest mixed turkey large supply cram solution twelve this lady";
+var mnemonic = "soldier rebuild secret tunnel genuine kangaroo odor window still early exchange process";

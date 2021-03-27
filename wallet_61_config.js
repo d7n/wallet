@@ -1,1 +1,1 @@
-var mnemonic = "ticket inner mix follow cool blue pulse violin spread estate primary daring";
+var mnemonic = "pair boss lava dance disease bring gauge subject salmon frog pitch body";

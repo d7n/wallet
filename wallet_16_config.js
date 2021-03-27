@@ -1,1 +1,1 @@
-var mnemonic = "gravity dolphin agent olympic magnet miracle grow enlist trial hint fringe short";
+var mnemonic = "acoustic own grab afford orphan expect collect cliff cheap spin ahead garbage";

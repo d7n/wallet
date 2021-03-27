@@ -1,1 +1,1 @@
-var mnemonic = "render material ill expire truth address silver now rural marine wear fold";
+var mnemonic = "depart carpet nurse iron inflict produce finish color second fork promote aim";

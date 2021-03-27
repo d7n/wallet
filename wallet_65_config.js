@@ -1,1 +1,1 @@
-var mnemonic = "try party knock raccoon sea rent solution metal sweet ecology net cliff";
+var mnemonic = "retire bleak electric lobster visa tell arm cereal jungle fun essay suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh tip negative below misery swear short angry pelican fog flip help";
+var mnemonic = "latin stuff blur vanish school symptom goat congress fury wish craft celery";

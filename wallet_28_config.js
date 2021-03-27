@@ -1,1 +1,1 @@
-var mnemonic = "admit upper rocket exit unique local garbage carry income patch fashion worth";
+var mnemonic = "patient flag produce april any soda illness denial private seek brass drastic";

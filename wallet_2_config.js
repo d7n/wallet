@@ -1,1 +1,1 @@
-var mnemonic = "desert suggest lonely manual discover title iron below settle lift uncle fragile";
+var mnemonic = "transfer dutch enlist flush notice list obtain stamp discover brain vintage purpose";

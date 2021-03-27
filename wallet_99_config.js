@@ -1,1 +1,1 @@
-var mnemonic = "govern mercy unable wolf output host tape grocery crucial ancient legal annual";
+var mnemonic = "degree base saddle use deny rookie thought post blade hip bus space";

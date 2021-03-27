@@ -1,1 +1,1 @@
-var mnemonic = "glide south episode piano govern ceiling rubber shuffle seat hurdle salute napkin";
+var mnemonic = "year faculty quote act pistol net approve key sick flash fetch omit";

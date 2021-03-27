@@ -1,1 +1,1 @@
-var mnemonic = "floor brother window chuckle act section forum change jump verb food ugly";
+var mnemonic = "barrel leg mercy escape road enlist kiwi repair guard fade flower guide";

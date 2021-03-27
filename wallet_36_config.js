@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo raven obscure paper boost afford sleep dolphin receive april spice pill";
+var mnemonic = "blind tiger pig same vehicle habit decorate enroll mimic syrup avoid force";

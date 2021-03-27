@@ -1,1 +1,1 @@
-var mnemonic = "vehicle start drive talk grass salute elbow fetch debate frozen aerobic bridge";
+var mnemonic = "crash thrive hope labor that obvious echo claim dragon tenant quarter crater";

@@ -1,1 +1,1 @@
-var mnemonic = "gate priority hope butter taste ripple wall load glass vague lucky subject";
+var mnemonic = "voice utility sure search traffic smile rubber please spring young barrel assist";

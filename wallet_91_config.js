@@ -1,1 +1,1 @@
-var mnemonic = "ugly cushion alien boost erosion bronze suggest depart cabbage apology nasty setup";
+var mnemonic = "impulse crime asset bike proud spot elegant vote cart spy surprise bamboo";

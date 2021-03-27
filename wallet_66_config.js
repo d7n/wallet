@@ -1,1 +1,1 @@
-var mnemonic = "measure lemon list food share talk ensure mail ketchup salute catch pen";
+var mnemonic = "tray gift face flower kit smoke board nephew repeat drastic play next";

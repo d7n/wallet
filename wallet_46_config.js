@@ -1,1 +1,1 @@
-var mnemonic = "hour purchase friend soccer assume receive kite tag deny orient kid audit";
+var mnemonic = "stairs worry train bachelor cabin stable place multiply leisure pulp that course";

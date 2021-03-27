@@ -1,1 +1,1 @@
-var mnemonic = "photo session develop vivid avocado noble bid saddle dwarf pistol olive silver";
+var mnemonic = "loyal escape mandate wait culture worry slush grant music abuse hole judge";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch picture explain join diet dry air loan slogan express snake jelly";
+var mnemonic = "menu victory submit better quarter cram unlock twenty entry aspect sea velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal lecture beyond ethics service slender mix enforce access fatigue seven napkin";
+var mnemonic = "invest myself erosion multiply panda kind jeans woman cradle habit kick copy";

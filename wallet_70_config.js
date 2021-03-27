@@ -1,1 +1,1 @@
-var mnemonic = "broccoli tower faint ecology supreme panther lend park hope else away join";
+var mnemonic = "angry outer rib hockey physical raccoon toilet enroll bless night feed spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "dilemma ten demand person group fix fringe piano insane settle alone night";
+var mnemonic = "sword nest expire screen car essence pride such satisfy strong surge expand";

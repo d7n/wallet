@@ -1,1 +1,1 @@
-var mnemonic = "shadow hotel shaft search broken injury receive arrive penalty portion language art";
+var mnemonic = "thunder cannon cigar gadget parade exist add frozen derive cream horn inside";

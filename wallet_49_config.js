@@ -1,1 +1,1 @@
-var mnemonic = "smoke soda marble film just dirt midnight layer vendor labor hundred ordinary";
+var mnemonic = "pistol inject quick lobster symptom angle dose lend dial pattern wine crop";

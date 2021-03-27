@@ -1,1 +1,1 @@
-var mnemonic = "wash elbow dirt easy room digital capable draw tribe remind gravity hotel";
+var mnemonic = "divert poem current since sell people powder file below broccoli upon cube";

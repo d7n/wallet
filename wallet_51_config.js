@@ -1,1 +1,1 @@
-var mnemonic = "endless marble wedding tip scatter visual mushroom odor rally magnet surge achieve";
+var mnemonic = "light slab kangaroo owner horn tag car loud pottery once powder neither";

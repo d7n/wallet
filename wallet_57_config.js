@@ -1,1 +1,1 @@
-var mnemonic = "design main decorate arena urban wealth panel treat imitate bread issue shiver";
+var mnemonic = "balcony elevator shock ticket barely axis laptop jacket ability recycle afraid lemon";

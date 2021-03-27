@@ -1,1 +1,1 @@
-var mnemonic = "drill chair great bamboo oppose prevent daring mail original crystal entire arrest";
+var mnemonic = "kite castle kingdom tackle budget field assault invite combine ceiling unknown frown";
