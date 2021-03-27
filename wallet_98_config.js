@@ -1,1 +1,1 @@
-var mnemonic = "subway concert maple recipe crouch find symbol require version tornado rich outer";
+var mnemonic = "cricket fame shine seven news seat glance bless tuition head argue chief";

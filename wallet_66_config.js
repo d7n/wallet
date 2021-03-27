@@ -1,1 +1,1 @@
-var mnemonic = "simple account dad key surface shop output benefit dignity legend second museum";
+var mnemonic = "onion honey cereal olympic pizza spoon flush kit box stuff scan rifle";

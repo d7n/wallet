@@ -1,1 +1,1 @@
-var mnemonic = "view food square prepare vivid tennis forum lonely region brass sauce pulse";
+var mnemonic = "invite brass robot bread library bunker multiply secret across clog climb famous";

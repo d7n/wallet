@@ -1,1 +1,1 @@
-var mnemonic = "surprise naive during ranch expire fox holiday cycle stand leopard desert yellow";
+var mnemonic = "sausage tone sleep fault recycle detail return few umbrella barrel motion inflict";

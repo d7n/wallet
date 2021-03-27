@@ -1,1 +1,1 @@
-var mnemonic = "little attract antenna gaze judge discover verb energy pretty sauce horse crucial";
+var mnemonic = "elevator fever assault predict soccer rug twice gesture faint eager short hamster";

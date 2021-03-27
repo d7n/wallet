@@ -1,1 +1,1 @@
-var mnemonic = "puppy excess sad ginger powder grace retire term goddess theme slot reform";
+var mnemonic = "laundry usage proof vapor devote south sun crime among head report anchor";

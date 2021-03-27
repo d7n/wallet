@@ -1,1 +1,1 @@
-var mnemonic = "cable powder unhappy spot industry paddle suspect comic bomb bacon wisdom screen";
+var mnemonic = "wedding potato maximum menu grow destroy direct coconut curve identify choose desk";

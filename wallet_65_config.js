@@ -1,1 +1,1 @@
-var mnemonic = "wolf winter hammer use expire million napkin orient cram gold chief finish";
+var mnemonic = "purity vanish stereo swim board clay gift tobacco impact differ fitness resource";

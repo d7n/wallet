@@ -1,1 +1,1 @@
-var mnemonic = "soccer bird brave master fold ritual length staff famous diet quarter youth";
+var mnemonic = "hammer convince exhibit tennis letter december air iron betray chunk valid soup";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz capable autumn exchange swear receive hockey bottom execute motion sorry muffin";
+var mnemonic = "ribbon save middle often loan ritual address genuine humor expire bonus piece";

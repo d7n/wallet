@@ -1,1 +1,1 @@
-var mnemonic = "gain wire sleep sentence valid risk dash episode silly choose tomato panel";
+var mnemonic = "keen office exercise giggle fiction rate exchange sausage marriage dust round absent";

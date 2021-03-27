@@ -1,1 +1,1 @@
-var mnemonic = "sister profit feel sugar coil away bone oven priority skin above spend";
+var mnemonic = "slice cube tobacco actual ensure liar brand ring cotton flower tray month";

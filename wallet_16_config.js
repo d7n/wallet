@@ -1,1 +1,1 @@
-var mnemonic = "cover window gas key shrimp speak purpose shove occur tube much major";
+var mnemonic = "arch fiber used weather decide task flip minute sure slogan small orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "nephew gospel talent struggle chronic lamp dismiss hat session shoulder price sentence";
+var mnemonic = "wish brick elevator raven stick old toddler edge beach hub organ item";

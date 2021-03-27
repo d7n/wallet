@@ -1,1 +1,1 @@
-var mnemonic = "client bring apple loyal bulk use jazz ancient safe quit grass cube";
+var mnemonic = "material seat gate work gas floor drift under thank mom key cattle";

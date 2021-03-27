@@ -1,1 +1,1 @@
-var mnemonic = "pair dog bid inmate invest city tape exist voice foil produce mean";
+var mnemonic = "hockey address toddler model shuffle lunar omit trip glory core copper scare";

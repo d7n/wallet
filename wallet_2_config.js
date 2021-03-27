@@ -1,1 +1,1 @@
-var mnemonic = "edit giraffe ill pilot rubber curve credit air impose boil sea loud";
+var mnemonic = "work victory van debate patient material lecture atom tattoo about unknown key";

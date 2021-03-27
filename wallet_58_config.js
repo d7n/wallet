@@ -1,1 +1,1 @@
-var mnemonic = "quality blush paper useless law minute jealous universe lemon soup ankle lake";
+var mnemonic = "suggest climb tree gather identify when pyramid history public length wave daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "master neither rich mask orient display barely fringe oxygen blur blanket desk";
+var mnemonic = "door legend diary size shift sudden biology ozone balance cement derive settle";

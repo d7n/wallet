@@ -1,1 +1,1 @@
-var mnemonic = "cruel express excuse material april zone note soul brave chicken attract spice";
+var mnemonic = "fury air movie muscle kiss fall slender salute normal stuff frame phone";

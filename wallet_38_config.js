@@ -1,1 +1,1 @@
-var mnemonic = "chalk goat oven shell sibling law six shuffle lazy choice person extra";
+var mnemonic = "unfold cook wood abuse choose utility blush creek clutch course small tobacco";

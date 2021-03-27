@@ -1,1 +1,1 @@
-var mnemonic = "shoulder lawsuit describe brush goose blast silly indoor goddess across bike host";
+var mnemonic = "small actor pool change rookie pattern carpet drum round alert federal toy";

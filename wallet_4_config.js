@@ -1,1 +1,1 @@
-var mnemonic = "expire mechanic hamster update gadget sign goddess now skull soul car sad";
+var mnemonic = "gym message diesel arrange cigar annual chief velvet virus iron this sign";

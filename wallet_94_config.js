@@ -1,1 +1,1 @@
-var mnemonic = "voyage damage addict claw ball slush whisper cat mimic light leaf test";
+var mnemonic = "cross tail zero crew end trouble have forest detail civil april club";

@@ -1,1 +1,1 @@
-var mnemonic = "fox glance pioneer jelly glad snack hover naive patrol owner abuse text";
+var mnemonic = "change author shoe club saddle motor furnace kiwi pluck sail attend still";

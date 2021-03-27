@@ -1,1 +1,1 @@
-var mnemonic = "film fix hello glue tell pulse accuse wreck entire major dizzy blush";
+var mnemonic = "solar cargo have program peanut try noble burst glad cup mail credit";

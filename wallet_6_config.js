@@ -1,1 +1,1 @@
-var mnemonic = "virtual child zoo mobile twenty concert fish ridge sniff apart wild cargo";
+var mnemonic = "vast citizen risk way remind sight purse spoil hammer witness clean burden";

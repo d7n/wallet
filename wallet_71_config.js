@@ -1,1 +1,1 @@
-var mnemonic = "wall shy harsh tent spider visa clay ritual canal sleep ring brother";
+var mnemonic = "picture flee fox nerve curve pumpkin company party neutral ranch object wheat";

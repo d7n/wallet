@@ -1,1 +1,1 @@
-var mnemonic = "sail keen spoil town blame cabin leisure horror usage between marine grid";
+var mnemonic = "uphold local pony deputy magnet episode spot dance faint stage shuffle shop";

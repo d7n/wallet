@@ -1,1 +1,1 @@
-var mnemonic = "symptom main false purpose excite patch purity clip sheriff business hedgehog honey";
+var mnemonic = "general unfold buddy cigar dumb adult you you junior turkey apology torch";

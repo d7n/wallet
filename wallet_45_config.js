@@ -1,1 +1,1 @@
-var mnemonic = "cluster kangaroo goose reveal wheel fruit grab rail dizzy silk rib exact";
+var mnemonic = "uncle enough raccoon pink grain garbage enrich pet admit clay decline brain";

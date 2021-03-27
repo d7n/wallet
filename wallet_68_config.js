@@ -1,1 +1,1 @@
-var mnemonic = "blossom quick ride turkey advice expire fitness poet spike mechanic paper lawsuit";
+var mnemonic = "truly couch swamp neutral position tomorrow rain exotic cry blade annual soldier";

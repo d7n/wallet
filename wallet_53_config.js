@@ -1,1 +1,1 @@
-var mnemonic = "blind sketch tribe diamond twelve lady hat pitch legend pole depart leopard";
+var mnemonic = "puzzle vault custom divide bone metal special worry erupt keen chalk cotton";

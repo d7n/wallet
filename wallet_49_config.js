@@ -1,1 +1,1 @@
-var mnemonic = "hole oven swamp jazz silly crane poem snake harvest decorate drift main";
+var mnemonic = "atom kid person become spider expect trial learn clutch prison country collect";

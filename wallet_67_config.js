@@ -1,1 +1,1 @@
-var mnemonic = "practice amount camera measure bus embody foam catalog unlock rather buzz banana";
+var mnemonic = "pelican opera print nothing system attract guide sauce exercise pole review celery";

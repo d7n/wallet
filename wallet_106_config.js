@@ -1,1 +1,1 @@
-var mnemonic = "pitch actress capable injury east please piano jazz bounce tissue good subject";
+var mnemonic = "blade man cash bicycle senior pave prepare spring actual emerge silk slush";

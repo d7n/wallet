@@ -1,1 +1,1 @@
-var mnemonic = "local banner monitor timber bridge opinion turkey predict rail solution breeze dumb";
+var mnemonic = "crouch stock flock actor into kitchen defy furnace dog clock monitor diary";

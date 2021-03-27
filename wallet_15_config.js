@@ -1,1 +1,1 @@
-var mnemonic = "tenant west noodle fat drift breeze edit lesson gossip suspect owner junior";
+var mnemonic = "order tennis catch image alarm uncover tattoo runway warfare brave differ behind";

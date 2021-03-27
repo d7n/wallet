@@ -1,1 +1,1 @@
-var mnemonic = "lift drink stadium embrace obscure sting world plunge dish forum february order";
+var mnemonic = "clock ensure eager series twin then maple phrase pool supreme travel abandon";

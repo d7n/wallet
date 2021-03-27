@@ -1,1 +1,1 @@
-var mnemonic = "fashion story current caution improve forum toast holiday today brother vivid dial";
+var mnemonic = "kite penalty cook that shoulder coral chair scene any ranch animal stem";

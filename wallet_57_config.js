@@ -1,1 +1,1 @@
-var mnemonic = "same moon casino explain peanut orchard subway nerve submit bracket shaft arrest";
+var mnemonic = "foot erode embody thrive metal silent burst fee employ lecture choice approve";

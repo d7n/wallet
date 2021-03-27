@@ -1,1 +1,1 @@
-var mnemonic = "bread room improve wife abstract expire later detail eager drum cruel edit";
+var mnemonic = "dwarf jungle emerge burst audit frame snake follow enable calm cabin history";

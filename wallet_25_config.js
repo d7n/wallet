@@ -1,1 +1,1 @@
-var mnemonic = "crowd laundry jar pony skull about pause breeze say prepare idle sleep";
+var mnemonic = "coffee valid vicious basket chair wine kingdom ghost husband head tomato violin";

@@ -1,1 +1,1 @@
-var mnemonic = "nature relief exist punch file lawsuit smoke expect scene walnut puppy suggest";
+var mnemonic = "then resist market sausage remove east kangaroo antenna develop frost home actor";

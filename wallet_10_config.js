@@ -1,1 +1,1 @@
-var mnemonic = "guess present rule mean zero heavy point cash domain figure tiger bright";
+var mnemonic = "napkin thank daring they review omit decade limb donkey organ vital bag";

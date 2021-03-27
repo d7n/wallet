@@ -1,1 +1,1 @@
-var mnemonic = "matrix deny wool toe since gallery access cool minimum report pause talent";
+var mnemonic = "round dizzy arctic near lab fix puppy stuff laugh marine then volume";

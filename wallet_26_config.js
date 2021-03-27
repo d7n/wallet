@@ -1,1 +1,1 @@
-var mnemonic = "load few water wire scheme control skull artefact tent income betray insect";
+var mnemonic = "loyal seed mutual desk wild expect despair manage reveal trade dragon pilot";

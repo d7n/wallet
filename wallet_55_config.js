@@ -1,1 +1,1 @@
-var mnemonic = "drama gather secret slim ribbon champion rude hollow ignore ticket exhibit rude";
+var mnemonic = "frequent glory harbor suffer nature credit jacket pledge group knife flock afford";

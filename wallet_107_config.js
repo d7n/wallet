@@ -1,1 +1,1 @@
-var mnemonic = "together camp divide flock confirm trip purchase before enhance add couch misery";
+var mnemonic = "eight address skill immense setup citizen achieve picture rib coach feature just";

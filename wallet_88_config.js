@@ -1,1 +1,1 @@
-var mnemonic = "federal toward plastic since shield normal cloud weapon soda asset vocal lock";
+var mnemonic = "damage ticket stomach sibling tail violin curtain dirt sugar deer oblige pool";

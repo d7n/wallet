@@ -1,1 +1,1 @@
-var mnemonic = "vacant retire orphan will glad silent join crop cinnamon tag struggle spin";
+var mnemonic = "limit balance oppose female extra page cricket note journey host clown damage";

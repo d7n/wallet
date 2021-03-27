@@ -1,1 +1,1 @@
-var mnemonic = "lab voyage paper middle arrest hawk gauge choice alien donor gold nut";
+var mnemonic = "remember client unhappy because one scout tube cable glory meat alcohol double";

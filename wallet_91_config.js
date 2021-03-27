@@ -1,1 +1,1 @@
-var mnemonic = "wage quit dinosaur lyrics act country grid hawk myth oak ginger alley";
+var mnemonic = "future gorilla kangaroo today major team cruise picnic patient between donor result";

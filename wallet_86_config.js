@@ -1,1 +1,1 @@
-var mnemonic = "suspect undo deputy cycle twist reveal world vital imitate dismiss file muscle";
+var mnemonic = "meadow ketchup virtual fine public industry increase chapter tomato top brother elevator";

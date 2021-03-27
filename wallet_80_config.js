@@ -1,1 +1,1 @@
-var mnemonic = "street danger jacket fantasy whale plug celery exhaust jazz ask bleak sentence";
+var mnemonic = "orbit cage ring limit fiber vocal case plastic warm move design faculty";

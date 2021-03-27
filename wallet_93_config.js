@@ -1,1 +1,1 @@
-var mnemonic = "mountain submit clutch can occur physical tortoise insane radio silk art during";
+var mnemonic = "tag example sure clinic patient town leave shove spend panther interest huge";

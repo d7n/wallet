@@ -1,1 +1,1 @@
-var mnemonic = "tube cart deputy special success roof ensure dinner arrive weekend decade leaf";
+var mnemonic = "primary hen leave vital bulk feel keep heavy route outer moon together";

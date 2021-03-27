@@ -1,1 +1,1 @@
-var mnemonic = "torch cluster rate nice alien apple april fringe erupt two stadium cabbage";
+var mnemonic = "hip dumb grass liberty bid bitter suffer gallery time much axis off";

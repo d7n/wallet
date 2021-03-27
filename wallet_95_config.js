@@ -1,1 +1,1 @@
-var mnemonic = "divorce elephant author shuffle bomb meadow hazard great excess garage reform thank";
+var mnemonic = "able nut ladder biology crane midnight drum mom quit coil gap service";

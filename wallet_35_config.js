@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow menu source economy frozen settle fix planet person rifle rabbit example";
+var mnemonic = "twenty sort flush bench reason tube witness just target renew zoo beef";

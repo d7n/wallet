@@ -1,1 +1,1 @@
-var mnemonic = "retire bacon blossom six nut treat venue soup width again table slight";
+var mnemonic = "skill pulp behave globe elder cereal dad moral group clock neglect accident";

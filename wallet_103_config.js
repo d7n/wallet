@@ -1,1 +1,1 @@
-var mnemonic = "taxi audit fan lunar appear elder real pen attract best stumble cash";
+var mnemonic = "wine rapid staff degree master truly tobacco call farm never donkey proof";

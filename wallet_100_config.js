@@ -1,1 +1,1 @@
-var mnemonic = "beach brain session guard rifle average tornado globe silk sheriff brick exercise";
+var mnemonic = "hire easy robust lecture since cinnamon legal federal build such board cram";

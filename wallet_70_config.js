@@ -1,1 +1,1 @@
-var mnemonic = "glimpse decrease pride box trophy paper goat around later human route museum";
+var mnemonic = "travel wool gorilla lunch found clock surge start average forward remind legend";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial demand drip involve quote vehicle hair start aerobic toast front current";
+var mnemonic = "jungle tent keen bounce movie access hawk leopard dove slender usual hood";

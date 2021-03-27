@@ -1,1 +1,1 @@
-var mnemonic = "emerge speed defy special shove rhythm ozone entry limb sponsor heavy girl";
+var mnemonic = "next often parade stairs exit valley original boat lizard answer robot seven";

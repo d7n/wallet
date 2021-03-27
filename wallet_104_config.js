@@ -1,1 +1,1 @@
-var mnemonic = "happy help hawk bounce blush loyal bronze oppose cradle father later poet";
+var mnemonic = "cliff slender treat access recycle check grass rate outer viable fog screen";

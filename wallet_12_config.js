@@ -1,1 +1,1 @@
-var mnemonic = "scene near evoke arrive coil pledge strong lonely void mad settle undo";
+var mnemonic = "boring lunar trial bike slot wrap fat fitness grace meadow fire emerge";

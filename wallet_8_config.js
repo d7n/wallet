@@ -1,1 +1,1 @@
-var mnemonic = "often indicate unknown east anger gospel absurd expect where quality eight height";
+var mnemonic = "milk nest need kiwi manual muffin feed walk inflict staff deny appear";

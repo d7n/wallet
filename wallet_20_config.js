@@ -1,1 +1,1 @@
-var mnemonic = "toilet sheriff hunt order august tide elbow bronze strategy sustain staff page";
+var mnemonic = "wink rookie poverty accident swing orbit taste cheap gap route divide merry";

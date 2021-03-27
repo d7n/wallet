@@ -1,1 +1,1 @@
-var mnemonic = "miss disorder trumpet swear traffic output over artefact shrug elbow throw belt";
+var mnemonic = "panel vehicle gown motion dignity ripple april polar stone hurt gas layer";

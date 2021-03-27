@@ -1,1 +1,1 @@
-var mnemonic = "client dutch rain circle sustain crouch business basket consider nominee pigeon spot";
+var mnemonic = "parent caught bid odor actress truly fan clown country drill know pupil";

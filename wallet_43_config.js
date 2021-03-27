@@ -1,1 +1,1 @@
-var mnemonic = "use grain say rude candy inquiry try giraffe depth pepper panic tool";
+var mnemonic = "exile reward pole carpet target phone oak face elevator barrel elite major";

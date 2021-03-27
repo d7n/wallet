@@ -1,1 +1,1 @@
-var mnemonic = "major dutch desk park tank kick jealous six vacuum rain cushion miracle";
+var mnemonic = "adult aunt pair sound cotton person predict essay behind invest dune bonus";

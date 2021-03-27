@@ -1,1 +1,1 @@
-var mnemonic = "sleep average purchase season improve animal client pole leisure final magic comic";
+var mnemonic = "rural nose consider achieve despair galaxy hint crew drama arrange airport year";

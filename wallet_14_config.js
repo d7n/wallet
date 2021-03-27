@@ -1,1 +1,1 @@
-var mnemonic = "crush seven faculty tell bonus fiction aunt journey man pizza concert chef";
+var mnemonic = "cigar account august trim dad post supreme average rough broom august genre";

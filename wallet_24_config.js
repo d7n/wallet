@@ -1,1 +1,1 @@
-var mnemonic = "push absurd couple people pear doctor island tone chunk organ license still";
+var mnemonic = "lesson pipe eye east beach tumble device fog detect bean midnight bid";

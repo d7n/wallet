@@ -1,1 +1,1 @@
-var mnemonic = "stomach crisp unhappy offer onion rival morning tornado used pitch glad guilt";
+var mnemonic = "mango armor document spatial daring inmate alien faint raccoon orient recipe head";

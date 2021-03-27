@@ -1,1 +1,1 @@
-var mnemonic = "sauce meadow regular produce shine umbrella govern window river law define off";
+var mnemonic = "indoor bracket finish world good festival foster adult radio atom save pizza";

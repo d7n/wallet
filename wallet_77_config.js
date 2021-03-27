@@ -1,1 +1,1 @@
-var mnemonic = "rabbit lunar surround liberty struggle winner rookie anchor essay educate glide inch";
+var mnemonic = "patch gadget beef obey foster level cute deny viable favorite panel benefit";

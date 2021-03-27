@@ -1,1 +1,1 @@
-var mnemonic = "race web deliver over tattoo want minimum large luggage pretty session recall";
+var mnemonic = "tackle cube alien attack way wreck rail fine cousin distance blanket clerk";

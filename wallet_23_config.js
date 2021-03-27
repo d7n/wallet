@@ -1,1 +1,1 @@
-var mnemonic = "success half recall large nature toward execute desert uncle palace approve already";
+var mnemonic = "casual shiver never police furnace exit snap raise wall reason have cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "enter hint trial actor pole rapid cliff remind vanish occur suffer today";
+var mnemonic = "spice art crew column cool captain worry click brand smoke winner pill";

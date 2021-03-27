@@ -1,1 +1,1 @@
-var mnemonic = "slogan check unusual chunk kid pool torch pink accident gesture buzz jump";
+var mnemonic = "twin spend ribbon barely oak scorpion arch track hip whisper garden surface";

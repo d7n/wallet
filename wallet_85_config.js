@@ -1,1 +1,1 @@
-var mnemonic = "primary worth enroll secret exhibit tissue flower ostrich index snack universe bright";
+var mnemonic = "member provide bracket then never come stairs ostrich board inch boat crash";

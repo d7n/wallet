@@ -1,1 +1,1 @@
-var mnemonic = "offer flight excess bomb manual govern young vivid blind thought potato relief";
+var mnemonic = "siege sign antenna ginger deposit great sibling clarify pitch predict snap clock";

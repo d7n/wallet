@@ -1,1 +1,1 @@
-var mnemonic = "axis current pulse secret yard crack garbage believe grunt fix govern peasant";
+var mnemonic = "muffin tragic congress gift main dizzy access drift friend credit note scatter";
