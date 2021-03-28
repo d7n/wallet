@@ -1,1 +1,1 @@
-var mnemonic = "outer same cliff fit turtle hurt spider arrow evolve say drive title";
+var mnemonic = "input today gossip diamond solar speak little reason stool elegant path board";

@@ -1,1 +1,1 @@
-var mnemonic = "spread behind shiver robust alcohol welcome gorilla hockey auction elephant casino object";
+var mnemonic = "finish hundred bitter excite genre bar sweet shove verb edge spy aerobic";

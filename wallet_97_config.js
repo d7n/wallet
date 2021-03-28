@@ -1,1 +1,1 @@
-var mnemonic = "situate regret menu column bridge umbrella arrest pet foot cheese hazard renew";
+var mnemonic = "scorpion anxiety raw luxury finger laundry ranch lend palace box item sugar";

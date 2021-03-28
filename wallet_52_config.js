@@ -1,1 +1,1 @@
-var mnemonic = "flower wine gossip hood label blanket head copper soft wrap thunder biology";
+var mnemonic = "forum gentle extra saddle outside silver garlic subway heart melt filter absorb";

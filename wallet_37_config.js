@@ -1,1 +1,1 @@
-var mnemonic = "end vanish acquire whale off aisle relief into wheel limb blast drill";
+var mnemonic = "pear hen wish resist upon festival rapid wire judge shop release used";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger maximum arrive coach kite sport around acoustic problem water weekend dish";
+var mnemonic = "loyal absurd vague walk since undo excuse fiscal hazard fly glide leader";

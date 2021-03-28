@@ -1,1 +1,1 @@
-var mnemonic = "net wife fat whisper wash balcony kangaroo kidney damp floor lumber below";
+var mnemonic = "theme infant happy bacon memory exit region pipe glow stone feel fitness";

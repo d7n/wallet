@@ -1,1 +1,1 @@
-var mnemonic = "tonight client fog elevator firm whip book public keen correct master fancy";
+var mnemonic = "hour side market wreck heavy soup twelve worth elephant mansion soda slogan";

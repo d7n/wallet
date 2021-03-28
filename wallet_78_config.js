@@ -1,1 +1,1 @@
-var mnemonic = "puzzle worth display analyst zone thunder capable rocket lake unaware noise soap";
+var mnemonic = "glance tonight spring equip monitor kid birth ritual accuse balcony method dawn";

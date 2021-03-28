@@ -1,1 +1,1 @@
-var mnemonic = "duck program cargo carbon rose question aware meat trap step media switch";
+var mnemonic = "that health bargain thing round obtain exercise peanut junk account elbow traffic";

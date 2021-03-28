@@ -1,1 +1,1 @@
-var mnemonic = "modify grief uncle cluster world doctor effort sting extend crumble neck grass";
+var mnemonic = "boring ensure word carbon grief knock damage column fruit okay north silent";

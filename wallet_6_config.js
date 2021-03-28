@@ -1,1 +1,1 @@
-var mnemonic = "crew night usual stumble toilet ribbon galaxy limit disagree birth scan slight";
+var mnemonic = "audit half payment cook radar require artefact elite west fold ranch large";

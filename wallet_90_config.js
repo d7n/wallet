@@ -1,1 +1,1 @@
-var mnemonic = "obvious tip speed junior find subway team relief attract such shadow ancient";
+var mnemonic = "space melt net baby task can paper ghost because force comfort orange";

@@ -1,1 +1,1 @@
-var mnemonic = "make rotate fossil flag lawn unit kid cart arch offer color cave";
+var mnemonic = "garage tape bleak initial empower train struggle slogan evidence march around ramp";

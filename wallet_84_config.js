@@ -1,1 +1,1 @@
-var mnemonic = "alley normal garage human hazard fault bicycle state surprise hope list vanish";
+var mnemonic = "clean cook jungle love hedgehog usual portion access inhale someone blur merit";

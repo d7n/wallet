@@ -1,1 +1,1 @@
-var mnemonic = "patch nothing story cushion digital volcano mixed spring believe hello series dose";
+var mnemonic = "elbow plate hire sand solve owner keep curious sausage bring worth grab";

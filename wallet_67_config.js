@@ -1,1 +1,1 @@
-var mnemonic = "spare pulse radar sphere gap real arena small sea riot list basket";
+var mnemonic = "soap salon illegal increase whip garbage relax false opera load raw source";

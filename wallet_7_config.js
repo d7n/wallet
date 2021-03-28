@@ -1,1 +1,1 @@
-var mnemonic = "erosion twenty fox evoke flower room dirt cup cheap unit weird memory";
+var mnemonic = "toy chalk good stomach tired bring honey short submit gospel image slender";

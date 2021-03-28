@@ -1,1 +1,1 @@
-var mnemonic = "crowd image prevent cause manage try retreat power mouse enemy divorce nurse";
+var mnemonic = "kind flock mechanic impose chicken silver universe effort police oil total jungle";

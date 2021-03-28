@@ -1,1 +1,1 @@
-var mnemonic = "lab faith melt portion mention motor divorce mercy half budget skirt left";
+var mnemonic = "vicious error oblige heart museum slogan crawl public topple sheriff foam work";

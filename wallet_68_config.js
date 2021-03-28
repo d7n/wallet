@@ -1,1 +1,1 @@
-var mnemonic = "happy permit slim tragic giraffe mail excite hundred auction lazy label tribe";
+var mnemonic = "black laundry injury employ leg umbrella sad clean space jelly possible fat";

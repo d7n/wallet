@@ -1,1 +1,1 @@
-var mnemonic = "silver jungle toast rain lend business mechanic release jump scare brother soon";
+var mnemonic = "north decrease vault someone festival damp tunnel lamp metal couple man normal";

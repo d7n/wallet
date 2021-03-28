@@ -1,1 +1,1 @@
-var mnemonic = "casual forum goose effort exclude buffalo dust settle join client convince armor";
+var mnemonic = "junior summer aunt alone carbon large giraffe rice answer admit worth destroy";

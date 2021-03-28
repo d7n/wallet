@@ -1,1 +1,1 @@
-var mnemonic = "flame track theory obvious robot burger sunny income pool sting library excuse";
+var mnemonic = "frame expose develop march smoke vessel turn aspect dust situate target narrow";

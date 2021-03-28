@@ -1,1 +1,1 @@
-var mnemonic = "agent category soldier include blossom around execute tiny aim enjoy shadow depth";
+var mnemonic = "choose process bulk chaos void chat ramp sustain spare vivid hood silly";

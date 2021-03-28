@@ -1,1 +1,1 @@
-var mnemonic = "addict anger lucky mixed blade scheme radio veteran state cram grass skin";
+var mnemonic = "story unusual drink tower puppy bright original fault diary hen usage cage";

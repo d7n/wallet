@@ -1,1 +1,1 @@
-var mnemonic = "outer dress become victory limit situate original vibrant stomach exclude swing fruit";
+var mnemonic = "dirt cake able maid robot whale cruise hurt fever discover drop yellow";

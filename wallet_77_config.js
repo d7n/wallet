@@ -1,1 +1,1 @@
-var mnemonic = "canoe stuff wide sing west wrestle code layer atom scatter choose silk";
+var mnemonic = "little beyond witness tunnel fade poverty alarm capable mango differ man tonight";

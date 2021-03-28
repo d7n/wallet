@@ -1,1 +1,1 @@
-var mnemonic = "glass hybrid cherry unaware enough purse rebel hint hair vast neutral exclude";
+var mnemonic = "fiction nerve remember antenna rely author fantasy bracket embark food boil inherit";

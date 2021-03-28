@@ -1,1 +1,1 @@
-var mnemonic = "wild bag twist thought wedding lottery suit hedgehog file squeeze region earth";
+var mnemonic = "hundred annual rain found history february silent hungry jeans current history pass";

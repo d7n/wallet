@@ -1,1 +1,1 @@
-var mnemonic = "upper stereo soldier social gym want crouch plate seed upgrade sheriff extend";
+var mnemonic = "best across promote debate warm glare auction faint pride similar confirm fly";

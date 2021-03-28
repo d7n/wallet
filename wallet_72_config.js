@@ -1,1 +1,1 @@
-var mnemonic = "control minimum vote urge action ghost produce good stamp tissue method crouch";
+var mnemonic = "trust fantasy upon forest calm fiber duck heart property roast material aisle";

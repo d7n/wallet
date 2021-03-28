@@ -1,1 +1,1 @@
-var mnemonic = "vote ship float actor maze copper talent size member juice alcohol round";
+var mnemonic = "depth giant eye opera turkey coyote slow own live robust error valve";

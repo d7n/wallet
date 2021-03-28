@@ -1,1 +1,1 @@
-var mnemonic = "appear split edit cousin extend junk intact shrimp teach horn license fee";
+var mnemonic = "index point shadow gravity blast blood bicycle you piece move wasp glory";

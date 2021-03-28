@@ -1,1 +1,1 @@
-var mnemonic = "party join mean subway hockey angle slight future nasty jungle walnut profit";
+var mnemonic = "confirm pioneer bean lounge piano country derive legal cricket convince timber inmate";

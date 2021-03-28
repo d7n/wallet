@@ -1,1 +1,1 @@
-var mnemonic = "junk stay rent artist expire lens wreck doll blur glide oppose drop";
+var mnemonic = "galaxy isolate alone myself diesel skate survey employ often verb pepper neutral";

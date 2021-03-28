@@ -1,1 +1,1 @@
-var mnemonic = "bitter hello smooth able already armor wage crystal athlete noise nest fix";
+var mnemonic = "fiscal client front cactus gorilla admit man zoo voyage laundry cherry float";

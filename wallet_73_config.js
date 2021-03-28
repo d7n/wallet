@@ -1,1 +1,1 @@
-var mnemonic = "guilt answer blade soda assume sight swear board mansion tired hammer grass";
+var mnemonic = "impulse capital fortune toilet wolf twice true cable prize scrub again token";

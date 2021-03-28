@@ -1,1 +1,1 @@
-var mnemonic = "document enemy admit uncover charge document subject hedgehog client cinnamon true flash";
+var mnemonic = "shoot diet memory actress chaos aisle region soul panel happy spirit mix";

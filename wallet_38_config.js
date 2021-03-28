@@ -1,1 +1,1 @@
-var mnemonic = "castle orphan strategy cactus puppy flower expose topic cherry athlete flash man";
+var mnemonic = "bean side gift panel dutch sudden diesel spice cricket walnut evolve weekend";

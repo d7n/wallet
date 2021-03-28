@@ -1,1 +1,1 @@
-var mnemonic = "nation pass limit great since version strategy reunion announce run wrist furnace";
+var mnemonic = "hill manage cost supreme jacket segment melt layer right grape know among";

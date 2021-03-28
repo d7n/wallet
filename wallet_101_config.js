@@ -1,1 +1,1 @@
-var mnemonic = "kitchen busy poem grape accuse large point skirt genre become method leader";
+var mnemonic = "cage super eagle grief ecology asset angle airport save walk ostrich write";

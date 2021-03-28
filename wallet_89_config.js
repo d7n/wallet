@@ -1,1 +1,1 @@
-var mnemonic = "immune tongue above have butter crawl express frost mystery put text top";
+var mnemonic = "right estate circle chapter will rich filter eight soul idle pig arrive";

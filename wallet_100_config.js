@@ -1,1 +1,1 @@
-var mnemonic = "primary kangaroo grape cattle thrive glad glide rally focus crucial throw catalog";
+var mnemonic = "session come draw comfort claw senior speed bunker survey twice brief raven";

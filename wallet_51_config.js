@@ -1,1 +1,1 @@
-var mnemonic = "inhale laptop inside project galaxy number sister master high pass sing avoid";
+var mnemonic = "beach prosper escape health leave fossil eager lonely light bag enter fetch";

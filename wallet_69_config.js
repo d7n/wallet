@@ -1,1 +1,1 @@
-var mnemonic = "maze palace airport left wood rather october syrup asthma lizard price unfair";
+var mnemonic = "unfair adjust below pumpkin scale isolate cool athlete surface swap glimpse absorb";

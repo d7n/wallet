@@ -1,1 +1,1 @@
-var mnemonic = "forward silver seat plunge wrestle apology engage test blouse life lyrics neutral";
+var mnemonic = "eyebrow skin sleep deliver lobster craft begin cloud acquire cute lecture shine";

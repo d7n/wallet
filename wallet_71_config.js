@@ -1,1 +1,1 @@
-var mnemonic = "lizard desert measure perfect theory acid distance element shiver pattern more stuff";
+var mnemonic = "ahead net fork visa cruise alien kingdom broccoli exit hospital frame soft";

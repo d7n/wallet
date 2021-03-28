@@ -1,1 +1,1 @@
-var mnemonic = "library paper maple poem faint require you wonder assume shaft reopen century";
+var mnemonic = "dice that indoor galaxy picture goat school switch bus enforce ketchup purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney dragon disease return code tobacco relief gun crane general pepper supply";
+var mnemonic = "drill rich fee upon orchard spoon excite motor sauce turtle panther avoid";

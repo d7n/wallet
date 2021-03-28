@@ -1,1 +1,1 @@
-var mnemonic = "cupboard plastic top shoot minimum crisp unit visa update glory razor cake";
+var mnemonic = "knee wheel major yard chase grass travel reflect play dad dirt problem";

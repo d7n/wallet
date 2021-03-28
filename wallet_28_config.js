@@ -1,1 +1,1 @@
-var mnemonic = "rose tail dinosaur poverty must match pipe sibling that believe potato payment";
+var mnemonic = "company romance anchor gain much decline tennis sniff celery quick above false";

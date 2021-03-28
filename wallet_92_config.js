@@ -1,1 +1,1 @@
-var mnemonic = "identify area live hamster over differ orphan situate fade burden effort search";
+var mnemonic = "mail reform cave region panda suspect pizza shrug ignore nothing climb derive";

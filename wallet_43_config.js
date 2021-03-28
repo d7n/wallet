@@ -1,1 +1,1 @@
-var mnemonic = "brown margin harbor car pull search hub hunt knife tree you tenant";
+var mnemonic = "turn rather couple action tiny reform cabin ticket pond good tourist bonus";

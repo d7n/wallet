@@ -1,1 +1,1 @@
-var mnemonic = "oblige coach pass local emotion link number fatigue female worth cluster convince";
+var mnemonic = "nation same absurd magnet cannon measure dose record runway remain lobster just";

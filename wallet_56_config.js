@@ -1,1 +1,1 @@
-var mnemonic = "subway estate goddess catch kid sure fine orchard couple era material island";
+var mnemonic = "flip pill fragile purchase magnet once able wrestle denial autumn voyage napkin";

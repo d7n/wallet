@@ -1,1 +1,1 @@
-var mnemonic = "urban pool law comic hammer someone stem unique chuckle vintage candy castle";
+var mnemonic = "curtain picnic limb party race sick because ice energy little key fiber";

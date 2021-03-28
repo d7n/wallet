@@ -1,1 +1,1 @@
-var mnemonic = "wave pottery inherit sudden damp assist foil useless across snake expand patient";
+var mnemonic = "rival palace fan recall still defy room tonight correct achieve genuine near";

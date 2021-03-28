@@ -1,1 +1,1 @@
-var mnemonic = "scan myth inspire model clutch focus nerve draw romance frozen maid piano";
+var mnemonic = "leaf rather light crumble have expect ahead more door street announce correct";

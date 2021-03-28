@@ -1,1 +1,1 @@
-var mnemonic = "trial brick reunion elegant mention trick area rally spy that orient hungry";
+var mnemonic = "tank dress flag tomorrow push patch project grid occur punch drip final";

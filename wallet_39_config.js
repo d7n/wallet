@@ -1,1 +1,1 @@
-var mnemonic = "paddle hand wash tuition surround sister subway merry below mass race indoor";
+var mnemonic = "adapt clay cat tiger place learn eagle attend train lemon immense intact";

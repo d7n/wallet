@@ -1,1 +1,1 @@
-var mnemonic = "web betray what olympic because water open budget razor virtual admit dice";
+var mnemonic = "between guilt basket endorse air city scatter cinnamon assault crucial fringe thought";

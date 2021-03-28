@@ -1,1 +1,1 @@
-var mnemonic = "host setup body canyon plunge year hybrid alien bamboo pilot picnic fall";
+var mnemonic = "strong valve that cream wife dilemma armor add stumble skull okay bread";

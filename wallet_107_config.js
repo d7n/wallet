@@ -1,1 +1,1 @@
-var mnemonic = "inspire maximum wool despair announce caught iron syrup shell vivid dress hip";
+var mnemonic = "rhythm interest someone learn tent trust memory soft drop buffalo decorate wave";

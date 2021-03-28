@@ -1,1 +1,1 @@
-var mnemonic = "identify unusual ranch power enlist manage where balance student toe forget fringe";
+var mnemonic = "term aunt renew icon chat indicate banana feel candy shaft require tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "zero rookie valid bitter quarter because similar curtain blast tonight category payment";
+var mnemonic = "warfare spatial soft toilet mix foil power hurry title alone table expand";

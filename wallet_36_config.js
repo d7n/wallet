@@ -1,1 +1,1 @@
-var mnemonic = "sight surface come few reject box annual note sibling over culture lucky";
+var mnemonic = "limit invite forget loan wolf blade height allow sock wet bundle category";

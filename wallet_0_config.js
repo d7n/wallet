@@ -1,1 +1,1 @@
-var mnemonic = "cactus salon junior raise bag ten sail shoot mixture famous tortoise absurd";
+var mnemonic = "obtain usual proud sponsor various casino hospital shallow jazz anchor fruit small";

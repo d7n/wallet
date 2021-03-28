@@ -1,1 +1,1 @@
-var mnemonic = "month track expand castle prosper alert peace edit reward provide town can";
+var mnemonic = "sniff shift sweet body umbrella response theory drama plastic rubber genre dial";

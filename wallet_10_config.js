@@ -1,1 +1,1 @@
-var mnemonic = "maple problem nominee lady useless enemy exchange square shoot mimic resist piano";
+var mnemonic = "army few punch fatigue shield carpet ostrich ready ranch roof smooth spirit";

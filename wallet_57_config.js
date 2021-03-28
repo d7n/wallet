@@ -1,1 +1,1 @@
-var mnemonic = "fatal hire boil rhythm essay brave punch shoot among maple proof solid";
+var mnemonic = "front mean intact volcano sentence call ocean pelican sword slab bacon glue";

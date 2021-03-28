@@ -1,1 +1,1 @@
-var mnemonic = "salt exhibit soul frequent seven young industry fan uncover outdoor twist patient";
+var mnemonic = "cousin mail castle program seek gesture clump mushroom rookie silly multiply bachelor";

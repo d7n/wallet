@@ -1,1 +1,1 @@
-var mnemonic = "festival rival brand can security myself leader owner blind can sign announce";
+var mnemonic = "antenna theme copy glory space behave sail basic earn pioneer soldier poverty";

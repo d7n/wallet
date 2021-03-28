@@ -1,1 +1,1 @@
-var mnemonic = "alpha bicycle oven address issue turn faint relief pave cancel section idle";
+var mnemonic = "goose weasel alarm then runway fence smile dial essay south thing script";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol unable salute merit text enough pool dice autumn chimney pepper income";
+var mnemonic = "twenty spoil fancy piece arena bar rice hint dust chapter diesel usual";

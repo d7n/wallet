@@ -1,1 +1,1 @@
-var mnemonic = "chalk venture zoo broken deer oppose evolve yellow exercise sauce middle rally";
+var mnemonic = "situate crush slush humble vacant random wasp multiply left shrug agree fetch";

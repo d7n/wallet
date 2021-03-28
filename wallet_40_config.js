@@ -1,1 +1,1 @@
-var mnemonic = "shallow onion box sing deer degree indicate fall hospital vicious crumble tape";
+var mnemonic = "addict agree door achieve immense powder scare amused phrase wish oxygen cannon";

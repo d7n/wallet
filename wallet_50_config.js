@@ -1,1 +1,1 @@
-var mnemonic = "control venture proud cargo lonely window call actress leaf fine visual trend";
+var mnemonic = "cruel shoulder horn chalk frost swarm portion tank claim hazard invest idle";

@@ -1,1 +1,1 @@
-var mnemonic = "team flower grace install kit powder minimum clog night addict put mushroom";
+var mnemonic = "shiver fee script fine hammer medal better ranch walk tobacco cradle rent";

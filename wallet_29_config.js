@@ -1,1 +1,1 @@
-var mnemonic = "top rug master symptom raw round ring snow forum harvest bless start";
+var mnemonic = "humor side climb organ food innocent steak present budget scheme six person";

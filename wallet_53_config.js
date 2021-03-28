@@ -1,1 +1,1 @@
-var mnemonic = "lab hat grab recall bike arrow adjust knock feed matter ceiling soldier";
+var mnemonic = "rare design shuffle diet often parrot genius quantum swallow alert piece present";

@@ -1,1 +1,1 @@
-var mnemonic = "slim odor basket people seven silver float amused coast diagram various trumpet";
+var mnemonic = "sausage eagle slender aware seek throw reject october comfort soft jelly eye";

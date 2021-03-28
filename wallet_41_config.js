@@ -1,1 +1,1 @@
-var mnemonic = "apology sketch prison first vintage anxiety truck swarm smart slim bleak amount";
+var mnemonic = "dawn truck turn powder virtual infant response erosion maze flavor high family";

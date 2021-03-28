@@ -1,1 +1,1 @@
-var mnemonic = "wedding series occur floor list wash wrestle pink cinnamon cable estate clog";
+var mnemonic = "improve code once road taste else mail market verify seek donate foster";

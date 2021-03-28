@@ -1,1 +1,1 @@
-var mnemonic = "slide file raccoon special equip noodle proof road ketchup source silk record";
+var mnemonic = "online exist disorder mix top blossom air ecology finger dash patient burger";

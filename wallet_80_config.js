@@ -1,1 +1,1 @@
-var mnemonic = "rotate reform tornado idea fault series witness hour input payment sign joy";
+var mnemonic = "wool remain scan private human affair bomb scene wedding toss ripple museum";

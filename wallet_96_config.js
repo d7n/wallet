@@ -1,1 +1,1 @@
-var mnemonic = "air chunk smile what lake island unfold mass wall pledge mansion shoot";
+var mnemonic = "leader beauty total second wage rich broccoli cram device velvet stage private";

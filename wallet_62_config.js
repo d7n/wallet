@@ -1,1 +1,1 @@
-var mnemonic = "bubble stuff rebuild guitar crunch reject cruise gossip staff wise carbon stool";
+var mnemonic = "fame service example win side extend predict detail minor health subway cigar";

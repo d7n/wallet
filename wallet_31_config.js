@@ -1,1 +1,1 @@
-var mnemonic = "visit struggle simple peace peasant copy inflict beef jelly scale vintage grain";
+var mnemonic = "lava bubble elevator call barrel bleak luxury virtual swear enough length segment";

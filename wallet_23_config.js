@@ -1,1 +1,1 @@
-var mnemonic = "engage cereal nice drum tongue village federal diagram girl sock canvas wide";
+var mnemonic = "heavy velvet still learn fringe shine cargo find photo dragon powder urge";

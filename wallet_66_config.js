@@ -1,1 +1,1 @@
-var mnemonic = "science bonus noise exhibit core elbow glue suggest evidence color crush awful";
+var mnemonic = "ready hurdle vital gas weather scene reunion border uphold toward scissors circle";

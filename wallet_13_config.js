@@ -1,1 +1,1 @@
-var mnemonic = "ship draft dust around mountain taste bundle crouch vapor bachelor cigar add";
+var mnemonic = "bomb century state myth attitude because romance turn hour dentist scene leopard";

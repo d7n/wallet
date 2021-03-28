@@ -1,1 +1,1 @@
-var mnemonic = "clean cover office cook gold hedgehog hawk yellow city moon shop alley";
+var mnemonic = "hint pledge winter aerobic romance deliver vibrant square dish school whisper issue";

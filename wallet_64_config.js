@@ -1,1 +1,1 @@
-var mnemonic = "rose size wagon circle hobby wild invite more dawn alcohol glance seven";
+var mnemonic = "dilemma high base fiction ketchup area wait remind timber kiwi brass civil";

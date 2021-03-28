@@ -1,1 +1,1 @@
-var mnemonic = "hill plate hair useless addict magic lounge cross path weasel walnut video";
+var mnemonic = "buddy pride change tunnel agent aisle vital page outer dinner rule bacon";

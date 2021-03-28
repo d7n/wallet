@@ -1,1 +1,1 @@
-var mnemonic = "exact emerge cactus maple penalty hurry latin share dove gentle alcohol attack";
+var mnemonic = "express try village approve ugly easily sock depend miracle public hunt victory";
