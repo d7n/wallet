@@ -1,1 +1,1 @@
-var mnemonic = "beyond despair youth brave napkin winner nephew turtle music crowd assist unfold";
+var mnemonic = "toy good fall enjoy hedgehog ahead portion skin toast choice text lecture";

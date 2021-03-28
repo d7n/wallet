@@ -1,1 +1,1 @@
-var mnemonic = "shrug resist wool clutch salt brisk crucial forest inform jaguar first flight";
+var mnemonic = "body void either voyage blue purpose fly nut fantasy matrix virus stereo";

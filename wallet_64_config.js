@@ -1,1 +1,1 @@
-var mnemonic = "bargain casual left idea option reward knock goose cactus shrug gown zone";
+var mnemonic = "spy identify squirrel avoid retire wait fashion frost option staff shop service";

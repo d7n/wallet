@@ -1,1 +1,1 @@
-var mnemonic = "picture soon cushion coach differ midnight cactus glare fly era volume blue";
+var mnemonic = "dress someone tunnel punch noise deposit hungry provide spirit victory early ahead";

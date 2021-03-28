@@ -1,1 +1,1 @@
-var mnemonic = "profit glare crumble spoil trend whisper click rose metal angry claim parent";
+var mnemonic = "critic toss hill cousin expire vendor define swap curious floor road move";

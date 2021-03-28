@@ -1,1 +1,1 @@
-var mnemonic = "acquire north market camera cabbage oil drill wild praise soft tortoise slim";
+var mnemonic = "dress fatigue share collect extra oak enrich hungry snake add flock light";

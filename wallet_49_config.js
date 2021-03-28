@@ -1,1 +1,1 @@
-var mnemonic = "dwarf dawn two response tongue amazing person riot exchange piano act rigid";
+var mnemonic = "palm matrix step useful enemy tool suspect like move yellow palace major";

@@ -1,1 +1,1 @@
-var mnemonic = "robot mobile ribbon gadget hungry violin method ability unique angle wagon dignity";
+var mnemonic = "crack flat carbon reform coral cool universe index ocean kit danger turtle";

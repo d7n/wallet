@@ -1,1 +1,1 @@
-var mnemonic = "quick diary monitor dust renew sunset basket custom merry illness grape travel";
+var mnemonic = "ghost tiny holiday lion peace catch blue snap faint mind object mushroom";

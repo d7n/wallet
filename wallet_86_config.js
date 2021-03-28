@@ -1,1 +1,1 @@
-var mnemonic = "midnight prison easily foot thumb logic uncover finger middle media funny blush";
+var mnemonic = "window purchase explain guess dragon early cheese exotic know police credit room";

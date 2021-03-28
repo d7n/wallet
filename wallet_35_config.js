@@ -1,1 +1,1 @@
-var mnemonic = "miss start nasty alpha music two door physical marriage umbrella motor clutch";
+var mnemonic = "fluid piano memory enjoy way cruise slight warrior island maximum syrup tonight";

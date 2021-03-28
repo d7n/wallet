@@ -1,1 +1,1 @@
-var mnemonic = "toss notable jealous left bus behind sense upper machine walk update night";
+var mnemonic = "lobster timber magic subject replace similar unfold tag pond sorry faith retreat";

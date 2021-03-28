@@ -1,1 +1,1 @@
-var mnemonic = "real front identify better bridge glory alter blast urge ranch turn tower";
+var mnemonic = "tag method immense cotton tray dolphin chunk sugar boss ocean thumb alone";

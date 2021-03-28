@@ -1,1 +1,1 @@
-var mnemonic = "trust place three vocal borrow faint train awful donkey will phrase corn";
+var mnemonic = "crime kitten win crowd cause fiction option robot limb fault omit later";

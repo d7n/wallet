@@ -1,1 +1,1 @@
-var mnemonic = "repair forum glad hair physical kiwi avocado same limb canyon best flush";
+var mnemonic = "poem junior lens beyond mule invest decide rookie potato range circle check";

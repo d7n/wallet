@@ -1,1 +1,1 @@
-var mnemonic = "panther inform camp joke vehicle april govern wagon later twice vote frequent";
+var mnemonic = "venue regular mirror neck erupt senior begin swim race juice video effort";

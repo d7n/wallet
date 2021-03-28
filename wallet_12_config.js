@@ -1,1 +1,1 @@
-var mnemonic = "inhale skate spoon pottery copper barrel gun retreat balance arm welcome rifle";
+var mnemonic = "vanish ready envelope crouch embark village glide suffer stay muffin gift muscle";

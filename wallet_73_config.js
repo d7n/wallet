@@ -1,1 +1,1 @@
-var mnemonic = "erase about recipe mutual else enforce base drastic aisle runway cheap surround";
+var mnemonic = "maid cool onion swear film rail perfect rose job aisle moment erosion";

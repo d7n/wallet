@@ -1,1 +1,1 @@
-var mnemonic = "odor journey future chase cannon wave maze artist mango banana stay mirror";
+var mnemonic = "scale artwork laundry dentist invite work pulse image company urge either scorpion";

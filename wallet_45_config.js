@@ -1,1 +1,1 @@
-var mnemonic = "decade buddy unique ask drive wedding shield title weather shop planet alcohol";
+var mnemonic = "crop debris amazing siren door grit rent napkin mirror draw despair miss";

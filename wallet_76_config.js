@@ -1,1 +1,1 @@
-var mnemonic = "mesh combine nephew space soccer swallow person regular rally soda maximum buyer";
+var mnemonic = "sketch kid picture armed hill brief jazz cost inside ahead spread victory";

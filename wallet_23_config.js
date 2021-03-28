@@ -1,1 +1,1 @@
-var mnemonic = "amount hedgehog oyster happy drastic quick turn library arrest lizard tank script";
+var mnemonic = "reduce custom gold chalk mirror nut label address lawsuit hybrid dash poverty";

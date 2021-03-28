@@ -1,1 +1,1 @@
-var mnemonic = "close chef rookie model oyster sweet picture scale bone culture sound mass";
+var mnemonic = "message badge good region smoke brain armed castle test enemy smooth exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty divert royal extra fiscal color bicycle today crack wild patrol crawl";
+var mnemonic = "address federal project bunker impose remain document elevator few cabbage access finish";

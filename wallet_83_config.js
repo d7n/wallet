@@ -1,1 +1,1 @@
-var mnemonic = "monitor garment filter velvet cry wealth noodle wise dutch coast ridge fever";
+var mnemonic = "violin notable promote crowd guilt liar despair rent neutral lizard bridge office";

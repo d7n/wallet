@@ -1,1 +1,1 @@
-var mnemonic = "senior resemble museum invest unveil clinic miss dentist orphan trial rally dilemma";
+var mnemonic = "brass slush calm champion retreat pet oval cricket spot episode grocery stereo";

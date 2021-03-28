@@ -1,1 +1,1 @@
-var mnemonic = "drip sure essence local daring monitor prize primary muscle goddess zone empty";
+var mnemonic = "mushroom host happy tongue cluster hurry second arrest marble doll video joy";

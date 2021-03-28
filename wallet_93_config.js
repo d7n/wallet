@@ -1,1 +1,1 @@
-var mnemonic = "shoot unfair worry wide endorse wall double tattoo aerobic fatal tower return";
+var mnemonic = "metal final brief ketchup unfold witness slush impact claw donkey basket boss";

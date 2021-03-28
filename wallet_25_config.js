@@ -1,1 +1,1 @@
-var mnemonic = "kid bring shaft tissue simple page biology inmate siren hollow daring taxi";
+var mnemonic = "bulk advice jealous scan fit sniff voyage square top such marble primary";

@@ -1,1 +1,1 @@
-var mnemonic = "wide region stomach summer legal chef visit civil slab sister purpose sunny";
+var mnemonic = "garage neck lawsuit prize visual measure pear survey history inquiry galaxy humor";

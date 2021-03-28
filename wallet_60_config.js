@@ -1,1 +1,1 @@
-var mnemonic = "enrich that faculty royal denial exclude toilet baby enlist second gift stereo";
+var mnemonic = "vessel dinosaur fly renew enforce electric canyon carbon ill quiz response life";

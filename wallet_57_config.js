@@ -1,1 +1,1 @@
-var mnemonic = "someone child crunch mail stairs salon surprise ginger fashion age sea noise";
+var mnemonic = "parrot metal give minute cradle medal ancient rule assist mobile spring vague";

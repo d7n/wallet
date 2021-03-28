@@ -1,1 +1,1 @@
-var mnemonic = "note gasp perfect market dolphin tunnel radar feature cluster debate camera keen";
+var mnemonic = "forum arena nice reason gospel crunch sheriff rubber capable mom silk solution";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon garlic citizen walnut narrow lobster knock kidney promote wide valve wise";
+var mnemonic = "clog wink that push canyon village crunch final maze belt permit joke";

@@ -1,1 +1,1 @@
-var mnemonic = "fork hundred stick fan canyon kidney today vanish make wool guide column";
+var mnemonic = "sock tape menu spoil orange arctic fit lesson guilt useless robot inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "arena mercy mosquito seek basic vault code price person brave upgrade fatal";
+var mnemonic = "violin gospel economy brand welcome answer law prefer budget sausage credit photo";

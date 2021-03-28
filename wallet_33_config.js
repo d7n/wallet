@@ -1,1 +1,1 @@
-var mnemonic = "tail mule unable extend labor hedgehog what aunt when rent lizard sausage";
+var mnemonic = "present broken size infant lesson excite lion meadow true welcome grid income";

@@ -1,1 +1,1 @@
-var mnemonic = "street next prosper card close idea design lazy lend body tumble client";
+var mnemonic = "pave thing deer eternal wedding code bind oblige make ceiling wine tortoise";

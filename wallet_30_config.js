@@ -1,1 +1,1 @@
-var mnemonic = "sheriff bounce core assault slot battle rotate chapter pair hawk fuel enforce";
+var mnemonic = "axis van pride pigeon double climb trust soap tribe sheriff theory cruise";

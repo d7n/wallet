@@ -1,1 +1,1 @@
-var mnemonic = "capable couple skill decade burger seminar onion shiver equip very top move";
+var mnemonic = "cruise grief lawn artwork wheel economy unusual then bring heavy debate bird";

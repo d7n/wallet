@@ -1,1 +1,1 @@
-var mnemonic = "same dust trip antenna return clip barely wrestle puzzle tip between social";
+var mnemonic = "report wild dice total dignity onion figure upgrade gorilla judge cannon initial";

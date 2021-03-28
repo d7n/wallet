@@ -1,1 +1,1 @@
-var mnemonic = "pigeon boost fit tribe diamond first answer vital fruit space hedgehog latin";
+var mnemonic = "web vivid toilet minute weasel detail scheme arrow nominee cage tackle learn";

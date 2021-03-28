@@ -1,1 +1,1 @@
-var mnemonic = "digital cannon october topple business enough satisfy sketch absurd chief negative radio";
+var mnemonic = "post question fiscal century caution anger neither ankle rich circle jealous fog";

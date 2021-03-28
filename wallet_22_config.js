@@ -1,1 +1,1 @@
-var mnemonic = "tide uniform defense old grow buddy panel pen april supply crumble stairs";
+var mnemonic = "feed quote key laptop heavy tenant wood crumble immune napkin south able";

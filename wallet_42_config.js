@@ -1,1 +1,1 @@
-var mnemonic = "sure rival crouch tobacco phrase place six bus flock put erase pen";
+var mnemonic = "turtle arrow peasant service like settle beyond science reduce flat increase express";

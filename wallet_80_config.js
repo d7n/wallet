@@ -1,1 +1,1 @@
-var mnemonic = "fury disorder prison name thank venture path fold seat gesture silver ivory";
+var mnemonic = "vacuum federal trap guilt laundry doctor garbage goose surprise output aspect october";

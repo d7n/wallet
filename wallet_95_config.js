@@ -1,1 +1,1 @@
-var mnemonic = "believe curious wedding girl oyster auction quarter thank tribe unlock undo wish";
+var mnemonic = "brush hover smart nut onion dream hello tree excite dream goat race";

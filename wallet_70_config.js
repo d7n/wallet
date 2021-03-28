@@ -1,1 +1,1 @@
-var mnemonic = "timber sniff fence shine curtain drum word pepper switch fault one twin";
+var mnemonic = "noodle seat cost mixture square neither minor certain write surprise pet hover";

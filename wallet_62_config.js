@@ -1,1 +1,1 @@
-var mnemonic = "auto citizen energy design problem census copper stick desert inhale feel click";
+var mnemonic = "tenant lucky unfair column mother praise spell detail inmate argue glide crush";

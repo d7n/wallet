@@ -1,1 +1,1 @@
-var mnemonic = "garlic glory erosion apology measure guilt path rural deliver huge need early";
+var mnemonic = "street shrug recall dial before produce clean recipe base claw brown will";

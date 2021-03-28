@@ -1,1 +1,1 @@
-var mnemonic = "demand upgrade clump oak embrace struggle poem breeze slice expand recycle limit";
+var mnemonic = "involve rib fade crater remind put useless volume boost clown twist firm";

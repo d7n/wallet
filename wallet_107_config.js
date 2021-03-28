@@ -1,1 +1,1 @@
-var mnemonic = "left shield option session phrase example devote pepper sense merge know robot";
+var mnemonic = "slab silly magnet clap ugly decorate sock include amateur place regular trial";

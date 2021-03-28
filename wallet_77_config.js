@@ -1,1 +1,1 @@
-var mnemonic = "ceiling jeans over dutch chicken island sad pink object knife wrist assault";
+var mnemonic = "pen blast oxygen skin early elegant sea kick dumb stamp clump just";

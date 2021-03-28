@@ -1,1 +1,1 @@
-var mnemonic = "entire gym answer october medal prepare merge include mask pole soldier hurry";
+var mnemonic = "chapter illegal stay long two sad vault strong tomorrow paddle beauty size";

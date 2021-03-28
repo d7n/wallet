@@ -1,1 +1,1 @@
-var mnemonic = "quiz under hole popular code wrap embody river shaft wrong sign piece";
+var mnemonic = "egg next tomorrow minor insane portion pill glory dinner story gasp palace";

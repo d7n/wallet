@@ -1,1 +1,1 @@
-var mnemonic = "cry target quote fashion jelly foam clog harsh barely reopen weather payment";
+var mnemonic = "aerobic smooth forest panther circle frost suit end animal zoo bitter fire";

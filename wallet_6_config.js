@@ -1,1 +1,1 @@
-var mnemonic = "virtual piece black dentist educate pool funny one grass brisk unusual ticket";
+var mnemonic = "unfold large bike ignore girl turtle vivid burden lion excuse any habit";

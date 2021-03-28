@@ -1,1 +1,1 @@
-var mnemonic = "million response curious armor banana electric pink antique alarm rhythm cheap nice";
+var mnemonic = "awkward thunder bind spawn sugar knee pact rebel believe frog melt start";

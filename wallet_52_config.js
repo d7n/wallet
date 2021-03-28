@@ -1,1 +1,1 @@
-var mnemonic = "engage actor burger eyebrow side receive elevator abstract peace that disorder ridge";
+var mnemonic = "salon inhale segment corn ticket famous chase moral era funny west ring";

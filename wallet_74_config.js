@@ -1,1 +1,1 @@
-var mnemonic = "gentle day occur trick orbit mad convince tilt danger filter ugly rough";
+var mnemonic = "stage dry river legal race shrug example arrest seed what sauce digital";

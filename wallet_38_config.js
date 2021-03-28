@@ -1,1 +1,1 @@
-var mnemonic = "manage two crouch prevent recycle mule frown coffee broom museum start enjoy";
+var mnemonic = "bundle logic demise album basic artwork between helmet version gold ride menu";

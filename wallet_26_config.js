@@ -1,1 +1,1 @@
-var mnemonic = "area mother isolate cup harbor fat spot chaos crisp clog crack mosquito";
+var mnemonic = "sauce bacon hope certain control river casual gun rookie oak laundry coast";

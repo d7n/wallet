@@ -1,1 +1,1 @@
-var mnemonic = "wear quick luggage base category tackle echo zone sentence fat roof lunch";
+var mnemonic = "eagle badge gloom will fancy bid either earn exhibit achieve trend obscure";

@@ -1,1 +1,1 @@
-var mnemonic = "grab desert void vendor tent fever possible prosper random display mushroom buzz";
+var mnemonic = "search gift dress tide sail demise shiver jaguar pottery shield powder project";

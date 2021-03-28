@@ -1,1 +1,1 @@
-var mnemonic = "warm gospel clinic dilemma right donor capital clarify blur can waste mail";
+var mnemonic = "minimum panda strong sugar hover learn cheese satisfy destroy soldier birth destroy";

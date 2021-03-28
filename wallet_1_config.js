@@ -1,1 +1,1 @@
-var mnemonic = "category tongue success holiday trophy evil indoor olive spring hungry wolf flower";
+var mnemonic = "smooth bind arrive manage magic winner push among segment fame ancient promote";

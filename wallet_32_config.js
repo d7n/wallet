@@ -1,1 +1,1 @@
-var mnemonic = "option ill arrest lady trend bronze accident expect child fold rug balcony";
+var mnemonic = "ship genius quiz breeze fluid mirror alpha island lion lift noise town";

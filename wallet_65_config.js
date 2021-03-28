@@ -1,1 +1,1 @@
-var mnemonic = "mask february mechanic fiction obscure test found enhance knee glow laugh embody";
+var mnemonic = "assist garment syrup chuckle friend say traffic raw noodle toddler sword quantum";

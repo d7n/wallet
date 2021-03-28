@@ -1,1 +1,1 @@
-var mnemonic = "canvas file dumb tattoo proud old vendor crowd cherry scout below spoon";
+var mnemonic = "impose frame gravity awful cross quantum lobster lazy fossil garlic minute grit";

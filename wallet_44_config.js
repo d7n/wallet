@@ -1,1 +1,1 @@
-var mnemonic = "afford apart about satisfy quarter cigar kidney blur radio lucky manual canoe";
+var mnemonic = "van horror nothing cargo permit engage mechanic panther decide gun spirit observe";

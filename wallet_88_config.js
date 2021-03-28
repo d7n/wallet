@@ -1,1 +1,1 @@
-var mnemonic = "shaft stand chat hurt fix model child promote penalty carbon economy cost";
+var mnemonic = "shiver bulb bicycle say cliff agree eager lyrics race blush addict roof";

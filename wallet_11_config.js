@@ -1,1 +1,1 @@
-var mnemonic = "firm buzz lens drastic lazy action cliff very roof benefit sleep swallow";
+var mnemonic = "reform baby sun sketch sign apple energy someone clinic evoke crime wall";

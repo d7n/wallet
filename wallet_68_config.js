@@ -1,1 +1,1 @@
-var mnemonic = "lady giggle cliff they stand ring furnace brick glare daring company rival";
+var mnemonic = "airport recipe situate unit scissors organ quote risk car drift cruise tennis";

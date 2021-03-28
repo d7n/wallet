@@ -1,1 +1,1 @@
-var mnemonic = "ladder pepper position empower labor clown category orange banana repeat fox decrease";
+var mnemonic = "chronic mail upset fun response help sword motor unable lava spawn control";

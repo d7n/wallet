@@ -1,1 +1,1 @@
-var mnemonic = "atom lake aerobic helmet forward pulp ready ceiling spider custom inspire ride";
+var mnemonic = "bounce trust differ crash shy tree knee more arrest harvest inherit copy";

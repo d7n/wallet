@@ -1,1 +1,1 @@
-var mnemonic = "end universe warfare reflect usual vendor filter patch obey moral purpose spatial";
+var mnemonic = "erosion picture wagon describe first bundle chunk alpha drastic diagram repeat future";

@@ -1,1 +1,1 @@
-var mnemonic = "stool gallery once message weasel arctic category pizza blossom envelope plastic canyon";
+var mnemonic = "famous winter face detail plastic reunion install zoo shoe breeze demand hybrid";

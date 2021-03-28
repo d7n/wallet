@@ -1,1 +1,1 @@
-var mnemonic = "save fetch half soccer uniform second analyst cake biology grunt follow tip";
+var mnemonic = "marriage cart abstract little boost rather gaze double motion usual next trigger";

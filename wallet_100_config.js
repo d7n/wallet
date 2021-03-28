@@ -1,1 +1,1 @@
-var mnemonic = "vibrant sorry benefit solve frozen turtle glide pioneer green foster later liquid";
+var mnemonic = "duck elevator couch bullet wealth perfect famous shove scan fashion help interest";

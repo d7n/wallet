@@ -1,1 +1,1 @@
-var mnemonic = "tail mesh glad situate vacuum lumber wood awful find width minute impose";
+var mnemonic = "rain easy half margin claim apple upset supreme woman inject dish custom";

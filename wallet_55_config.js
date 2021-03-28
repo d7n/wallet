@@ -1,1 +1,1 @@
-var mnemonic = "dog burst small ripple lecture fee stove gap final render observe runway";
+var mnemonic = "oak later eyebrow fruit expire atom process vital window motor liberty horror";

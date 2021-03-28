@@ -1,1 +1,1 @@
-var mnemonic = "danger grace large index radio floor room mobile fix uniform print security";
+var mnemonic = "feed pill cat window tunnel document parent wet cupboard van ensure motion";

@@ -1,1 +1,1 @@
-var mnemonic = "audit job certain copper direct unable mechanic burst wool alpha disagree lamp";
+var mnemonic = "capital antique argue differ camera wolf lunch oak buyer swing skin chimney";

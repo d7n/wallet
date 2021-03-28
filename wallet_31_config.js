@@ -1,1 +1,1 @@
-var mnemonic = "youth memory return connect draft mass system huge fashion violin fancy anchor";
+var mnemonic = "tuition vast put dream diesel glad renew omit equal manual oak fade";

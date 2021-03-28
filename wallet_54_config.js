@@ -1,1 +1,1 @@
-var mnemonic = "unfair popular share random report gain genius seat limb acid airport admit";
+var mnemonic = "chapter dignity lawn giant hobby episode bunker height tiny result float letter";

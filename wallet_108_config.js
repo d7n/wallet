@@ -1,1 +1,1 @@
-var mnemonic = "face pipe innocent decorate person flower essay ship type pig income color";
+var mnemonic = "empower victory twin income mail dirt pledge glow garlic mechanic enemy cat";

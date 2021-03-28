@@ -1,1 +1,1 @@
-var mnemonic = "near bomb music plastic another awful deer urban purpose artefact survey anxiety";
+var mnemonic = "fee embark draw diagram whale demand hub company injury join glare high";

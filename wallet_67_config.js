@@ -1,1 +1,1 @@
-var mnemonic = "soap lab raven train result supreme blouse ancient basket act scare nut";
+var mnemonic = "pull evolve dry orange gallery possible venture dice protect life announce process";

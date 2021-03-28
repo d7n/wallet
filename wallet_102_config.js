@@ -1,1 +1,1 @@
-var mnemonic = "naive goat tuna garage seven inch settle coyote mansion unique online cover";
+var mnemonic = "day cram equip genre pudding mountain crush chest task shrug doll social";

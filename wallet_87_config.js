@@ -1,1 +1,1 @@
-var mnemonic = "pink fork run maximum capable must attend ripple drink core bag claw";
+var mnemonic = "page grace embark peasant disorder run spatial wrist erode pink outer dirt";

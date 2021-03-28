@@ -1,1 +1,1 @@
-var mnemonic = "craft gate sort honey tenant bird today weasel unlock exile switch capital";
+var mnemonic = "potato street verify bench child stool lab clinic before thrive yard goose";

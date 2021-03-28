@@ -1,1 +1,1 @@
-var mnemonic = "story lunar theme idle right question swim daring crystal loyal rule pipe";
+var mnemonic = "chair kingdom clinic prevent border require whip foil cluster hill federal question";

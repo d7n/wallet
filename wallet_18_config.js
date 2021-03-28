@@ -1,1 +1,1 @@
-var mnemonic = "dutch piano law wait benefit oven modify oil awake wheel useless believe";
+var mnemonic = "pact december stable guilt skill unusual flush excuse love benefit explain tribe";

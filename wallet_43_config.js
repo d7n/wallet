@@ -1,1 +1,1 @@
-var mnemonic = "disagree spoil blouse fault lion loud inquiry notice hello vapor angle outdoor";
+var mnemonic = "learn rookie pluck forget ugly idea force man civil certain mammal twice";
