@@ -1,1 +1,1 @@
-var mnemonic = "actor impose sister absorb mobile mercy cactus drip horror fan tornado target";
+var mnemonic = "alert velvet pioneer sponsor crumble glue wagon rice diary foam equal evil";

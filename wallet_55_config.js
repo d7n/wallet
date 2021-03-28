@@ -1,1 +1,1 @@
-var mnemonic = "illness approve nominee vivid sand upon visa unusual plate hope filter find";
+var mnemonic = "camera title certain curious slide orange shop hazard unaware drum puppy remove";

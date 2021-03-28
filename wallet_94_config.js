@@ -1,1 +1,1 @@
-var mnemonic = "evil name desk tongue talk rate hour alone curtain lemon change radio";
+var mnemonic = "correct limit dad pool stock tank tent give lottery tilt cake shine";

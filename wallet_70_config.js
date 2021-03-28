@@ -1,1 +1,1 @@
-var mnemonic = "document apple burden history panda bargain error crystal certain path doll magnet";
+var mnemonic = "man spend heart frequent flip goat butter hill scissors garlic tragic pitch";

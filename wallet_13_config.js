@@ -1,1 +1,1 @@
-var mnemonic = "army utility degree swallow vague loud urban finger struggle heart duty warfare";
+var mnemonic = "short confirm floor glimpse immune seek walnut fresh outdoor shoot stamp copy";

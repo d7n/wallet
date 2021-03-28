@@ -1,1 +1,1 @@
-var mnemonic = "snow plunge crime team scan hunt smooth nature during library wealth announce";
+var mnemonic = "occur become remain switch vessel divide enrich help capital clerk sweet employ";

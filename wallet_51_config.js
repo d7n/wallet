@@ -1,1 +1,1 @@
-var mnemonic = "aunt orient kidney fortune fence change abstract phrase whip enforce junk margin";
+var mnemonic = "ten empty whale eyebrow gold marriage diagram flee thing medal slogan guide";

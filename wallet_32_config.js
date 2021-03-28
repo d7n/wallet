@@ -1,1 +1,1 @@
-var mnemonic = "resist phone surprise there fresh wet desert hedgehog impact penalty brush hen";
+var mnemonic = "panic stuff goose crane color educate sea stone glow mean swear knock";

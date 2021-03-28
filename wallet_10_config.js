@@ -1,1 +1,1 @@
-var mnemonic = "drum uncover weird shrimp shrimp garden frozen evidence liar business wild coyote";
+var mnemonic = "photo illness awkward category afraid innocent kiss segment awake mango security add";

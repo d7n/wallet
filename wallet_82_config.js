@@ -1,1 +1,1 @@
-var mnemonic = "airport front social fame humble vocal apology dizzy cake citizen economy danger";
+var mnemonic = "essence right also diary pen kangaroo mixed sauce correct hint quality phrase";

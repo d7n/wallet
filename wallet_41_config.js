@@ -1,1 +1,1 @@
-var mnemonic = "winter divorce fringe fat blade tree helmet over original stadium perfect hybrid";
+var mnemonic = "deputy mistake inner harsh warrior choice gun panic emotion thrive venue net";

@@ -1,1 +1,1 @@
-var mnemonic = "voice man suit prefer panic front clinic run scatter panther ivory badge";
+var mnemonic = "negative hood scout sword manual stereo coffee wall latin leopard crime receive";

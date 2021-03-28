@@ -1,1 +1,1 @@
-var mnemonic = "one toast paddle snake embark afraid car blush baby ripple much bread";
+var mnemonic = "upper garden answer consider token vault seminar argue bacon drop alley armor";

@@ -1,1 +1,1 @@
-var mnemonic = "estate hole unknown venue diesel across glide must shiver any cancel panel";
+var mnemonic = "zone raise success disorder modify witness dune try primary fruit wedding stick";

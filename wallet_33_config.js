@@ -1,1 +1,1 @@
-var mnemonic = "giraffe merit measure image keen thrive bone garbage consider three page expose";
+var mnemonic = "project mask label lunar credit swift claim exit cube note ring bring";

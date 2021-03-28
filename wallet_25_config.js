@@ -1,1 +1,1 @@
-var mnemonic = "mobile aisle dose decrease code loyal session size verify snake silly sister";
+var mnemonic = "pet mesh throw coconut hub post lecture rubber profit chuckle drift survey";

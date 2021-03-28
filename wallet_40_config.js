@@ -1,1 +1,1 @@
-var mnemonic = "clever pulp orbit bottom abstract wait toss ignore mercy slogan save level";
+var mnemonic = "tiny hint movie long chimney syrup cloud voice grant neutral squirrel rail";

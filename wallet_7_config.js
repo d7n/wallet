@@ -1,1 +1,1 @@
-var mnemonic = "midnight joke toy upgrade story siege drive mad dice fossil capital wood";
+var mnemonic = "next vibrant refuse cinnamon tube eyebrow wreck blast neglect pottery shy hobby";

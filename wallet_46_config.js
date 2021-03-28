@@ -1,1 +1,1 @@
-var mnemonic = "soccer lemon exact buzz stool weather vehicle portion napkin cloud lonely shift";
+var mnemonic = "oil globe title birth check drive rose skirt spend fence prefer receive";

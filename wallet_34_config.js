@@ -1,1 +1,1 @@
-var mnemonic = "ice permit inhale future inch vintage skull whisper bulb broken beef end";
+var mnemonic = "execute sword kiwi skirt crystal alcohol bar nature round movie payment talent";

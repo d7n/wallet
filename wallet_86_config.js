@@ -1,1 +1,1 @@
-var mnemonic = "oxygen salad brown cactus vivid captain shy boss pair hybrid table busy";
+var mnemonic = "vehicle sketch ritual husband muffin peasant august betray multiply birth water thing";

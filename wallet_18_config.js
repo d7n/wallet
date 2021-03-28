@@ -1,1 +1,1 @@
-var mnemonic = "wonder dragon spirit depart radar prevent twice melody match develop between juice";
+var mnemonic = "mushroom huge admit car choose scout cable defy miss remove farm junk";

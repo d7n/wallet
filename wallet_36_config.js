@@ -1,1 +1,1 @@
-var mnemonic = "roof depart brush cereal top pet loud celery idea input film top";
+var mnemonic = "often announce sleep cram paper live destroy skin sting panic dutch parade";

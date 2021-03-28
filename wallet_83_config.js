@@ -1,1 +1,1 @@
-var mnemonic = "crack few legend now good grab series donkey strategy puppy tell hen";
+var mnemonic = "fury fly sad erosion express recipe real brisk cricket cup caught such";

@@ -1,1 +1,1 @@
-var mnemonic = "top champion fringe jump coconut old peasant repeat rotate deny believe family";
+var mnemonic = "praise fit call vintage forum merit dragon stand rare leg heart utility";

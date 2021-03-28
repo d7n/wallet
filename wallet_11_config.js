@@ -1,1 +1,1 @@
-var mnemonic = "chronic green unfold broccoli luggage mango plunge pony level shrug actor thank";
+var mnemonic = "addict neutral fade answer dance logic leader replace solid battle deal cousin";

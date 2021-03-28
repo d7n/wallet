@@ -1,1 +1,1 @@
-var mnemonic = "license tattoo bronze kangaroo citizen conduct output segment slow robust detail then";
+var mnemonic = "jump escape airport verb various model habit curtain ready fatigue frequent brave";

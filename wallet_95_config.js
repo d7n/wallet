@@ -1,1 +1,1 @@
-var mnemonic = "ability actress victory demand merry oval own copy crash speak away talent";
+var mnemonic = "sadness gesture add snap cram wrong cave gauge abuse life recipe market";

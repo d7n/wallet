@@ -1,1 +1,1 @@
-var mnemonic = "good frame resist health primary shaft green affair enable fitness grab sentence";
+var mnemonic = "vast asset gate gentle push gasp gown prepare say breeze rate flower";

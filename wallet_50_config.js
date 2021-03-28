@@ -1,1 +1,1 @@
-var mnemonic = "clever elegant interest hat uniform west cabbage minute mystery rhythm supply bunker";
+var mnemonic = "magic unusual orient special find dentist educate pencil detail voice coil family";

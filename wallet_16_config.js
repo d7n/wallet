@@ -1,1 +1,1 @@
-var mnemonic = "pattern under course craft upgrade swap firm strike tissue street endless puppy";
+var mnemonic = "cradle erosion crazy tunnel tongue twist cereal rapid exotic giant load elite";

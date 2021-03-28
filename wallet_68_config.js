@@ -1,1 +1,1 @@
-var mnemonic = "ridge month genuine elevator cement cannon talent oblige ankle wave present gain";
+var mnemonic = "minimum dirt identify mountain dignity dirt hunt vague final capital cause stomach";

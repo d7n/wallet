@@ -1,1 +1,1 @@
-var mnemonic = "mechanic find beach dentist sadness kid strategy gather hill equip perfect fade";
+var mnemonic = "regular famous achieve bean ability soul defy skin icon position seek length";

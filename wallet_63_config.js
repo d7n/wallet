@@ -1,1 +1,1 @@
-var mnemonic = "verify identify kangaroo flag express plate finger screen rebel response valve behave";
+var mnemonic = "pretty earn poverty wrong sorry peanut good satoshi increase joy spice soup";

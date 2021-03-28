@@ -1,1 +1,1 @@
-var mnemonic = "unhappy proof civil start brain maple flat genre giraffe scare body key";
+var mnemonic = "fitness resemble catalog inmate faculty system vocal dwarf proof retire doll offer";

@@ -1,1 +1,1 @@
-var mnemonic = "stomach forget swallow truck amazing blue arctic spice champion giggle finger lunch";
+var mnemonic = "obscure giggle rich wise inquiry custom obvious decide engine glare fiscal arrange";

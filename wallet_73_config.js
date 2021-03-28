@@ -1,1 +1,1 @@
-var mnemonic = "heart such slice riot celery exit target congress hamster inch divert helmet";
+var mnemonic = "behave expect spring melody local muscle blood input income raccoon jelly glove";

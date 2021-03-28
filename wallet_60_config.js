@@ -1,1 +1,1 @@
-var mnemonic = "sponsor trash laugh layer round boring hotel enlist ship bridge legend meadow";
+var mnemonic = "little patrol north fancy wire skirt session renew mistake present seek elephant";

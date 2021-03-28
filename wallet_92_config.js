@@ -1,1 +1,1 @@
-var mnemonic = "mind reduce accident seat novel grab front resource use limb undo orphan";
+var mnemonic = "obvious brief way special thunder worry multiply clump fashion harsh clarify used";

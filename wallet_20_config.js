@@ -1,1 +1,1 @@
-var mnemonic = "okay among rack behind hamster crazy quantum analyst galaxy black reunion brain";
+var mnemonic = "pottery shaft organ offer assault beyond faint tilt mechanic junior print mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito fly age little kid language ginger sample slice sunny casino caught";
+var mnemonic = "super reward urban busy floor limit smart clock cradle decorate unveil fever";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot way approve sight bring shove curve purse biology sport patrol medal";
+var mnemonic = "sad distance box portion scan arm rubber fitness much symbol feel giant";

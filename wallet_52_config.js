@@ -1,1 +1,1 @@
-var mnemonic = "skirt cement nest else pave bless music window canyon call critic distance";
+var mnemonic = "ring warfare dream produce orient broken subway sentence waste nothing medal relief";

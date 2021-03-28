@@ -1,1 +1,1 @@
-var mnemonic = "few twice pelican crowd oval hospital minor web such chuckle expand vehicle";
+var mnemonic = "harbor catch kiwi lunch spin chief method paddle document reunion wagon injury";

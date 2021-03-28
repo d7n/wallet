@@ -1,1 +1,1 @@
-var mnemonic = "case buzz fat case sock wild hand gadget decide live security bulb";
+var mnemonic = "box lyrics script unable celery under vital sick ladder clump seminar carbon";

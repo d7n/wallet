@@ -1,1 +1,1 @@
-var mnemonic = "rural doctor fame print surface language kitchen chimney motor useful winter crew";
+var mnemonic = "love absurd edge remind oyster right wolf amused tube cricket depend aisle";

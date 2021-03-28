@@ -1,1 +1,1 @@
-var mnemonic = "raw expand auction physical parent category title stone ticket gauge swap finish";
+var mnemonic = "silly auto theme wise shoulder two captain bid debris rifle raise fox";

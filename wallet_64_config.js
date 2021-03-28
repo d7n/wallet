@@ -1,1 +1,1 @@
-var mnemonic = "art marine leopard donor appear action uncle number sleep vibrant clarify innocent";
+var mnemonic = "monster about group horse proof alpha capable zero century oval actress vivid";

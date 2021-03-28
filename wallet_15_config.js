@@ -1,1 +1,1 @@
-var mnemonic = "clock together sudden prepare panther keen crash profit account elegant deer flat";
+var mnemonic = "purpose concert whale cabin marble any enough boy baby rule state daring";

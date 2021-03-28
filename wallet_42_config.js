@@ -1,1 +1,1 @@
-var mnemonic = "waste window trip smile owner any juice combine segment age duck mimic";
+var mnemonic = "dutch like sick mother bulb tortoise armor defense rent giggle stay child";

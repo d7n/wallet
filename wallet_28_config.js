@@ -1,1 +1,1 @@
-var mnemonic = "gallery glory spirit spot sudden child female breeze tooth diet canoe gym";
+var mnemonic = "bind crisp resist float key dad warfare mean fossil wheel goat hazard";

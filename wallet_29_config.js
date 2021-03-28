@@ -1,1 +1,1 @@
-var mnemonic = "local cherry genuine fold photo hollow decorate cinnamon leave solar kick holiday";
+var mnemonic = "teach crumble funny nut broom brother lend unaware pair dinner laundry shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "pill rhythm elite fever jaguar tragic peace hotel burst wheel settle popular";
+var mnemonic = "bicycle slush undo again object speak either process tissue awful cave drill";

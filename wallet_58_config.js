@@ -1,1 +1,1 @@
-var mnemonic = "rich acid powder match someone aware obscure machine rate collect potato judge";
+var mnemonic = "hire box worth evoke stay script ordinary catch tray unlock harsh foster";

@@ -1,1 +1,1 @@
-var mnemonic = "behave mass toe diagram climb tattoo scissors offer hero air eye garment";
+var mnemonic = "dragon large humor bean tuition cheap spend drop enlist three hurdle capital";

@@ -1,1 +1,1 @@
-var mnemonic = "mango express course outside live exhaust mean catch decide vicious sudden survey";
+var mnemonic = "rebel speak dash increase favorite million join mirror donate teach submit mesh";

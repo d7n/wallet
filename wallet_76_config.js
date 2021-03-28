@@ -1,1 +1,1 @@
-var mnemonic = "quiz lesson achieve brother duck report grab great goddess notable annual purchase";
+var mnemonic = "eye witness apple occur require rib story hair popular promote divorce meat";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit cup exhaust melt direct wide retreat outdoor lucky tissue alert gown";
+var mnemonic = "crunch captain true tenant cheese private wage window cart kidney piece shiver";

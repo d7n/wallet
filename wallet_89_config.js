@@ -1,1 +1,1 @@
-var mnemonic = "doctor present van arena wedding virtual lumber indicate salute weasel shoe draft";
+var mnemonic = "sense trash salmon answer gap plastic album sustain venue mistake strategy nuclear";

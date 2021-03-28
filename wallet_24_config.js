@@ -1,1 +1,1 @@
-var mnemonic = "since leg can purchase uncover artefact artefact cabin chaos movie school tobacco";
+var mnemonic = "priority today clown layer anchor dose jewel peanut clock happy dinosaur cruel";

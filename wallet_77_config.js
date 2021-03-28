@@ -1,1 +1,1 @@
-var mnemonic = "fiber unable witness color six great master junk bar coral cement truck";
+var mnemonic = "easy canoe behind concert record fade erode primary route juice top insane";

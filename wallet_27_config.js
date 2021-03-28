@@ -1,1 +1,1 @@
-var mnemonic = "useful improve rough ecology section fluid document frozen tobacco scan clap parrot";
+var mnemonic = "cup glimpse couple cradle velvet grit rigid spider hen goose between auto";

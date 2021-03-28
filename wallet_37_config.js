@@ -1,1 +1,1 @@
-var mnemonic = "clinic coyote sand often trumpet special elephant voyage unlock patrol derive horn";
+var mnemonic = "flat lizard desk angle advice champion comic invite rural way rib sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "join blossom era rival garlic roof talent half mix cause diary riot";
+var mnemonic = "speak ride pole force say spider mountain embrace inject decide camera dance";

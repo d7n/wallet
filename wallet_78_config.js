@@ -1,1 +1,1 @@
-var mnemonic = "risk circle relief include need sun attack wire pave perfect van tell";
+var mnemonic = "valid balcony portion canvas midnight pepper giraffe wait crime admit two legend";

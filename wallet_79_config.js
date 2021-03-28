@@ -1,1 +1,1 @@
-var mnemonic = "music feel item carpet concert drill cruise casino never theory spy rib";
+var mnemonic = "flat clog elephant convince scatter solution museum student find digital ripple remove";

@@ -1,1 +1,1 @@
-var mnemonic = "issue warfare allow machine display more popular initial sweet provide property either";
+var mnemonic = "visual robust whip belt settle notice melt account morning hard soul dawn";

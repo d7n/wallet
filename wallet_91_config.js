@@ -1,1 +1,1 @@
-var mnemonic = "junior believe employ antique sing trap chair misery fragile arrest myth planet";
+var mnemonic = "shed casino place hurt aerobic narrow prevent vast gate relief describe local";

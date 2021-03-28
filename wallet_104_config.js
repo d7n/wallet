@@ -1,1 +1,1 @@
-var mnemonic = "glide return assume decide brick hamster hole pond snake across volume remember";
+var mnemonic = "whisper dust leopard machine exercise trophy shuffle dirt load female genre fever";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow chest define light height blast invite injury embark raccoon all rookie";
+var mnemonic = "jaguar draft dish private angry during coffee clown song cargo add day";

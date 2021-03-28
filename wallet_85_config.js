@@ -1,1 +1,1 @@
-var mnemonic = "word argue month need liquid cost lucky intact brief toe author act";
+var mnemonic = "elder sick price range stomach liar mention usual sponsor there exist still";

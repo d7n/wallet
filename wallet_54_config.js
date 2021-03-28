@@ -1,1 +1,1 @@
-var mnemonic = "flight paper someone learn glow mad ostrich reward expand welcome spin sound";
+var mnemonic = "sweet illegal crucial gain throw submit slim cloth wolf dwarf can permit";

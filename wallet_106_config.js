@@ -1,1 +1,1 @@
-var mnemonic = "donor eyebrow only runway stove term ship error inch mandate carry stock";
+var mnemonic = "half noble neutral memory render boy element pretty innocent industry pistol south";

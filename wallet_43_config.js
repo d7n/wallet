@@ -1,1 +1,1 @@
-var mnemonic = "shield hold provide clerk pause kitchen cool reflect obscure lend adjust produce";
+var mnemonic = "hub cherry wet gasp nose floor check dilemma ranch doctor hen winner";

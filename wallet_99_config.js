@@ -1,1 +1,1 @@
-var mnemonic = "giraffe talent barrel tonight dawn crew clarify grocery torch avocado nurse pole";
+var mnemonic = "crane cable security reflect pen gym snap humor rail stadium tree deposit";

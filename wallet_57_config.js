@@ -1,1 +1,1 @@
-var mnemonic = "half spread disease sort sail case humor monitor mad want marble forest";
+var mnemonic = "rifle cabbage skin grow parrot clown lazy gasp noodle unknown weapon ribbon";

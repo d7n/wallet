@@ -1,1 +1,1 @@
-var mnemonic = "tragic inject misery dentist combine urban fall roof junk shrug heavy gas";
+var mnemonic = "utility voice science sting answer rude engine modify gallery soon round owner";

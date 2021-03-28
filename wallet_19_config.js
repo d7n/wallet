@@ -1,1 +1,1 @@
-var mnemonic = "arrange scene crush fossil baby audit catalog vanish mirror cost right human";
+var mnemonic = "wall seat run ring feed wait cause twice mechanic marine oil onion";

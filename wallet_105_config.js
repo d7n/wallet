@@ -1,1 +1,1 @@
-var mnemonic = "shine pupil world build corn leg scatter muscle boy sting bridge powder";
+var mnemonic = "tragic beyond chef market air floor tube proud trim hazard lonely invest";

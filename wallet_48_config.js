@@ -1,1 +1,1 @@
-var mnemonic = "man grass bitter else transfer swift cousin found certain baby whip useless";
+var mnemonic = "monster sad document cheap between transfer equal gauge cash dirt target holiday";

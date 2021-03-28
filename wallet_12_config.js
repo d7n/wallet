@@ -1,1 +1,1 @@
-var mnemonic = "tent omit address visual film wool youth nice pen cup toe jelly";
+var mnemonic = "soldier notice deny weasel behave wisdom matrix waste jungle dentist envelope retire";

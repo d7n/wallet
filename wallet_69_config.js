@@ -1,1 +1,1 @@
-var mnemonic = "comic imitate rice team coin vivid blood music happy extend copper train";
+var mnemonic = "much error dignity observe toy flee diagram perfect tent rival mammal address";

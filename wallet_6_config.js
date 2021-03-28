@@ -1,1 +1,1 @@
-var mnemonic = "artefact toward tape aunt oven duck saddle federal boss knife theory review";
+var mnemonic = "tornado step card roof bacon kick lesson congress damp vapor hood october";

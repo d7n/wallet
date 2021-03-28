@@ -1,1 +1,1 @@
-var mnemonic = "high giraffe dinner credit salute fantasy artist lobster fame knee twenty crunch";
+var mnemonic = "donor enable filter wife sweet bulk spice veteran edge ball venue primary";
