@@ -1,1 +1,1 @@
-var mnemonic = "dry return news volume early warrior world mechanic process furnace glad gallery";
+var mnemonic = "theme also omit area home judge allow alien chronic observe artist little";

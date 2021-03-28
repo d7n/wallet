@@ -1,1 +1,1 @@
-var mnemonic = "future know waste tomorrow twin paper they stem able airport ceiling harsh";
+var mnemonic = "unique common breeze health tray heart library issue genius mirror wet ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "surround elevator clutch point slow arrive seven rather edit also stable bless";
+var mnemonic = "slogan rug clarify viable scout connect measure light erase winner wash happy";

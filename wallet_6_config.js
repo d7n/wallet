@@ -1,1 +1,1 @@
-var mnemonic = "wedding bar such illegal clump demise south rug suspect praise river excuse";
+var mnemonic = "february color repair buddy laptop reward south potato aisle solve acid clog";

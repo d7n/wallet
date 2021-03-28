@@ -1,1 +1,1 @@
-var mnemonic = "crucial fly february upper online exhaust announce banana vocal order shuffle proud";
+var mnemonic = "useless midnight window clinic genre only enemy vault noise dignity crater merry";

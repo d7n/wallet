@@ -1,1 +1,1 @@
-var mnemonic = "laptop deal play reject rude glimpse chapter creek august wait face shallow";
+var mnemonic = "orphan above flower firm demand chapter regret door draw mutual popular broom";

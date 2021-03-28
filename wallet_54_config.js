@@ -1,1 +1,1 @@
-var mnemonic = "gauge skin learn good clump check kiss width image phone habit also";
+var mnemonic = "copper excite sting security volcano feed knee credit bracket present country jaguar";

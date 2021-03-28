@@ -1,1 +1,1 @@
-var mnemonic = "race dry novel grape ill impact voice year strong hospital creek scrap";
+var mnemonic = "fire still fossil polar original list situate gauge cook dwarf garage physical";

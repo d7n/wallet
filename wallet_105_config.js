@@ -1,1 +1,1 @@
-var mnemonic = "burst motion supreme photo evidence soft distance final truck lunch laugh skill";
+var mnemonic = "six leader rather enough begin accident notice scrub edit scheme now bless";

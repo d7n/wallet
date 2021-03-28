@@ -1,1 +1,1 @@
-var mnemonic = "bar word can entry wash announce type card settle zebra grape mesh";
+var mnemonic = "leaf square valid short change follow valley cherry casino jungle already layer";

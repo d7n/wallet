@@ -1,1 +1,1 @@
-var mnemonic = "cool uncover frown whip misery circle need simple brown deposit gloom rate";
+var mnemonic = "merit globe science involve voice abstract blur cover off flock merit client";

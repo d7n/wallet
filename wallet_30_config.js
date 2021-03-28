@@ -1,1 +1,1 @@
-var mnemonic = "security race popular fuel dawn lift mean theory jeans smile spatial shop";
+var mnemonic = "token orient ghost jaguar lend pair friend very practice wheel soda task";

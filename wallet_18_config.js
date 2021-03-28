@@ -1,1 +1,1 @@
-var mnemonic = "snake inform various mind bench dynamic rocket merry frog comic gift provide";
+var mnemonic = "renew rate rifle include ahead lion gossip odor mammal outer very host";

@@ -1,1 +1,1 @@
-var mnemonic = "journey plate few that strong detail kidney half logic chaos avocado mixed";
+var mnemonic = "love gentle tooth stadium exchange artefact traffic sweet glance beef point neutral";

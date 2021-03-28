@@ -1,1 +1,1 @@
-var mnemonic = "bench wife excess attack paddle rescue shadow enable enable clarify oven gate";
+var mnemonic = "abandon object sadness match pulp sun job virus step analyst sadness stamp";

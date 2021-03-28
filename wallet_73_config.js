@@ -1,1 +1,1 @@
-var mnemonic = "property stairs delay decline kit apple thank ozone vapor release inmate frost";
+var mnemonic = "video erase exclude body eight tag detect promote orbit winter expect cause";

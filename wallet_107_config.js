@@ -1,1 +1,1 @@
-var mnemonic = "calm ready drop uphold board little all scrub profit option vapor catch";
+var mnemonic = "knock ladder shift follow mix wish vacuum champion top bundle resemble police";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran swift problem marine just hurry east piece wonder practice kitten alert";
+var mnemonic = "oppose badge obtain midnight noble daring east genre evil dose sketch damp";

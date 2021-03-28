@@ -1,1 +1,1 @@
-var mnemonic = "minute poet toast acid item fresh spoil toddler obvious process monitor art";
+var mnemonic = "primary innocent habit fruit cigar loud hover bonus account bunker planet city";

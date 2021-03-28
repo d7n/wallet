@@ -1,1 +1,1 @@
-var mnemonic = "broom inflict exile animal sadness festival already tool increase hint blame vibrant";
+var mnemonic = "crater sorry dish rocket clap sister follow gloom silver match market become";

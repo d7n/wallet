@@ -1,1 +1,1 @@
-var mnemonic = "cousin pole enrich clean chat theory fitness master suit off priority sweet";
+var mnemonic = "obvious cube supply tattoo shrimp visit version twelve broccoli garment truly casual";

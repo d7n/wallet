@@ -1,1 +1,1 @@
-var mnemonic = "media dawn elegant husband olympic second bitter economy scan zone submit chronic";
+var mnemonic = "ghost private swap submit scatter column short edit govern wheel tunnel alert";

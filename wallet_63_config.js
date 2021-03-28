@@ -1,1 +1,1 @@
-var mnemonic = "awesome hundred fuel win jaguar need scrap arrest canyon cheese skull unlock";
+var mnemonic = "museum pear novel addict nurse pioneer broken fortune work access move wine";

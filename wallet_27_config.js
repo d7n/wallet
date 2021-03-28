@@ -1,1 +1,1 @@
-var mnemonic = "reason shell trial nut joke omit fancy indoor fatigue bacon begin unaware";
+var mnemonic = "denial theme airport jeans flag tell satoshi friend puzzle crack bread disagree";

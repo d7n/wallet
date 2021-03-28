@@ -1,1 +1,1 @@
-var mnemonic = "slim garden analyst grit social worry you retire sock occur joke deliver";
+var mnemonic = "royal join female bird nerve make ghost unusual guard plug junk fall";

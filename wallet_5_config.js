@@ -1,1 +1,1 @@
-var mnemonic = "glide small pass spatial system slot stairs noble auto current struggle measure";
+var mnemonic = "name scrap female audit expand pioneer moral edit extend clarify since deer";

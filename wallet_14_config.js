@@ -1,1 +1,1 @@
-var mnemonic = "domain hope remain balcony isolate tribe secret forward enact dance sail spell";
+var mnemonic = "oyster observe popular story rich pact rack swift science moral bonus cargo";

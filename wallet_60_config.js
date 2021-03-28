@@ -1,1 +1,1 @@
-var mnemonic = "life detail problem monster supply antique rival filter what kiss hello cause";
+var mnemonic = "talent tuna embark stock banana job ribbon vivid confirm pink youth chaos";

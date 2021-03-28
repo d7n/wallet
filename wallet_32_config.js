@@ -1,1 +1,1 @@
-var mnemonic = "unable coyote vehicle topple display iron pause word message breeze virtual critic";
+var mnemonic = "genius shell deputy crew direct wonder loyal deliver supreme invest chest month";

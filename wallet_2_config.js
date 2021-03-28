@@ -1,1 +1,1 @@
-var mnemonic = "damage often summer add ladder panel labor gun name fringe toward canoe";
+var mnemonic = "flower casino light act multiply spread cover exist knife prefer defy beauty";

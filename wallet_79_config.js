@@ -1,1 +1,1 @@
-var mnemonic = "vault hurdle cash duty pottery olive snow monkey cost major wall sudden";
+var mnemonic = "peace right cart annual among rather budget member labor dawn turkey omit";

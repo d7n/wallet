@@ -1,1 +1,1 @@
-var mnemonic = "milk sausage parent crop throw filter puppy plastic oxygen child tattoo book";
+var mnemonic = "help shoot motion film monitor sunset shine start snack drum attitude wink";

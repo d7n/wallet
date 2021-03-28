@@ -1,1 +1,1 @@
-var mnemonic = "choice tray private prize answer attract angle matrix siege noble tomato crisp";
+var mnemonic = "ring key deposit often rhythm valley random comfort fresh balance prosper radar";

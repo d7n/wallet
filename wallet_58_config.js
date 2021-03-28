@@ -1,1 +1,1 @@
-var mnemonic = "correct expose situate muffin hat evoke thrive neither bless identify large foil";
+var mnemonic = "broken stem hurdle mom bar slim truth clock build cloud dismiss swift";

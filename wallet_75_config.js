@@ -1,1 +1,1 @@
-var mnemonic = "powder bike explain harvest quote truth mail finish extend mean ribbon noise";
+var mnemonic = "mother skin number north best shy disorder pupil decide adult diary question";

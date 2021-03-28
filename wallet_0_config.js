@@ -1,1 +1,1 @@
-var mnemonic = "target umbrella hold noble release bacon leader divert theme palm badge gravity";
+var mnemonic = "coral lab found verify upgrade wheel drift marble make harvest arm exclude";

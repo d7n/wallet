@@ -1,1 +1,1 @@
-var mnemonic = "green peasant finish sphere drink sick insane dynamic hard soul actual sniff";
+var mnemonic = "safe essay plate increase dose butter amateur injury air strong shove voyage";

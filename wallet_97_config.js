@@ -1,1 +1,1 @@
-var mnemonic = "quarter logic page perfect stairs brain symptom staff expire fuel entry tool";
+var mnemonic = "nothing nasty weird kangaroo destroy universe pupil tray lift yellow arrive kind";

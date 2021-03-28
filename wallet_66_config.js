@@ -1,1 +1,1 @@
-var mnemonic = "shed husband castle loyal afford myself math pole hurt merry vocal radar";
+var mnemonic = "timber twice giggle glass tail host timber canal afraid attack fame sail";

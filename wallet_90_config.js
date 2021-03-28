@@ -1,1 +1,1 @@
-var mnemonic = "collect step goddess cup put eager fiber bounce shift sight memory patrol";
+var mnemonic = "brand pen casual hawk direct excess boss student chair apple enough vague";

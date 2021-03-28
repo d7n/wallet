@@ -1,1 +1,1 @@
-var mnemonic = "struggle sign diamond drift laundry uncle maximum hospital state jealous loan fancy";
+var mnemonic = "arrest warm truly exile luggage coin chunk size anger penalty coral wink";

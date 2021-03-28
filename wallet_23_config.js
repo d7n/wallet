@@ -1,1 +1,1 @@
-var mnemonic = "portion luxury lion detect isolate report another dolphin other catch inspire raw";
+var mnemonic = "episode level swamp turn banner welcome pave account clump brother sibling always";

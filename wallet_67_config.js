@@ -1,1 +1,1 @@
-var mnemonic = "jazz theory aware dress together spoil isolate cook recall cliff bitter market";
+var mnemonic = "cement gap ask donkey benefit off know year bamboo good skull rotate";

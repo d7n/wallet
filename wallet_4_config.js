@@ -1,1 +1,1 @@
-var mnemonic = "tide hazard absorb torch story liquid best health assist wealth fancy tank";
+var mnemonic = "hair will connect option shock torch way brass ride among jaguar salon";

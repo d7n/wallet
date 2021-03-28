@@ -1,1 +1,1 @@
-var mnemonic = "entire badge kick basket deposit cannon giggle piece amazing rail time ramp";
+var mnemonic = "exclude shadow home any shoulder harvest rich suffer penalty visit demise exit";

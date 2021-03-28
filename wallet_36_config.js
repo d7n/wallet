@@ -1,1 +1,1 @@
-var mnemonic = "master elbow tonight muffin risk agent cushion kiss goose wonder okay symbol";
+var mnemonic = "crystal bar orbit wasp village miss weekend tip two client lake mango";

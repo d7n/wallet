@@ -1,1 +1,1 @@
-var mnemonic = "mammal level public stand kingdom void machine flat setup tonight flee add";
+var mnemonic = "treat truth hockey peace more detect key vote country filter robust mechanic";

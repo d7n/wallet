@@ -1,1 +1,1 @@
-var mnemonic = "vast annual number ignore alert sunset pill useful scrub steak chase victory";
+var mnemonic = "make ensure repeat absurd tunnel onion document club rhythm female become install";

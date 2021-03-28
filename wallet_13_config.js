@@ -1,1 +1,1 @@
-var mnemonic = "friend act vacant resemble vote execute just asthma permit arrow response funny";
+var mnemonic = "cool acquire swallow pass fault rice exclude strategy reform trust hill lake";

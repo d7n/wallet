@@ -1,1 +1,1 @@
-var mnemonic = "execute analyst churn turn forest scrub space mobile cabin result issue mercy";
+var mnemonic = "surface price defense reduce unique renew divide achieve cloud talent napkin indoor";

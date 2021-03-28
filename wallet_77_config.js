@@ -1,1 +1,1 @@
-var mnemonic = "arrow host south scatter forest border polar only polar rough social ankle";
+var mnemonic = "tennis slight leisure off noodle certain sugar grit fever federal devote hello";

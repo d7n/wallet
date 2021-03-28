@@ -1,1 +1,1 @@
-var mnemonic = "three uncle little buffalo palm still crouch found celery analyst umbrella lend";
+var mnemonic = "chuckle blanket arm divide sick crisp job drastic category afford vessel battle";

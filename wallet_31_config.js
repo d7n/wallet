@@ -1,1 +1,1 @@
-var mnemonic = "bridge pulse ready swamp language smart kiwi smoke reward crop silent acoustic";
+var mnemonic = "ill gaze advance hope neutral accuse help rug economy toss search hip";

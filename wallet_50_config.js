@@ -1,1 +1,1 @@
-var mnemonic = "elephant animal wolf melt treat federal fun stove suspect never fresh asthma";
+var mnemonic = "jeans prize humble join elite grief direct joy moral latin cheap topic";

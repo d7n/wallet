@@ -1,1 +1,1 @@
-var mnemonic = "oppose cement hollow tourist remember noodle actress broom lunar expose exile border";
+var mnemonic = "squeeze giant doll trophy announce describe settle civil cabbage claim angle saddle";

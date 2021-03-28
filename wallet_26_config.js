@@ -1,1 +1,1 @@
-var mnemonic = "stamp police roof daughter scan staff omit fork leopard price dawn short";
+var mnemonic = "crystal sick airport season pink dizzy genuine humble diary two west element";

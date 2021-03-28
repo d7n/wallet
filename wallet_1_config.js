@@ -1,1 +1,1 @@
-var mnemonic = "toddler layer loan lend frozen stool cart swim kangaroo pledge they pistol";
+var mnemonic = "image burger zero portion excite depart copper extend thank shield interest real";

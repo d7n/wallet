@@ -1,1 +1,1 @@
-var mnemonic = "plunge connect slide giant script then seminar rookie dose connect vintage artist";
+var mnemonic = "comic column topple clutch celery before monkey when nothing camera vivid help";

@@ -1,1 +1,1 @@
-var mnemonic = "nice ugly toast win wise enemy hybrid zero urge habit east radio";
+var mnemonic = "rack idea trap solar minor illegal quality stereo smart fabric fluid bubble";

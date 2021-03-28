@@ -1,1 +1,1 @@
-var mnemonic = "west asthma host stone caught fitness repair speed toward perfect thank talk";
+var mnemonic = "come vacant lizard tiger capital girl infant tornado south mixture insane fly";

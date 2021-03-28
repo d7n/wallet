@@ -1,1 +1,1 @@
-var mnemonic = "cancel joke tell total erupt online sock this room notice cruel post";
+var mnemonic = "estate circle pretty camp history paddle guard ranch slice nature exchange path";

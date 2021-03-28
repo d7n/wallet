@@ -1,1 +1,1 @@
-var mnemonic = "social bind local coast stove resist observe squeeze zero wealth power evil";
+var mnemonic = "unfold juice hawk roast floor sunny tomorrow kind upgrade drive code expire";

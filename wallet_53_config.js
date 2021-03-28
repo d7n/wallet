@@ -1,1 +1,1 @@
-var mnemonic = "box corn short fog exist host pizza capital paper copper eternal thunder";
+var mnemonic = "range few plate fabric kidney eyebrow cluster arrange rotate stadium year valve";

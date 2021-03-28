@@ -1,1 +1,1 @@
-var mnemonic = "safe entry opera daughter scrap camp raven first strike already reward churn";
+var mnemonic = "festival kiss human bacon bracket change favorite south identify ginger pull dog";

@@ -1,1 +1,1 @@
-var mnemonic = "early basic size foil quick water blush mixture pair flame hero ostrich";
+var mnemonic = "horror orient garden term pool lion cube rail connect stomach thunder color";

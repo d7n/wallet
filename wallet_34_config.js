@@ -1,1 +1,1 @@
-var mnemonic = "clip twin marble rain husband volcano perfect gravity surface nice digital math";
+var mnemonic = "loan indoor hunt catch neutral lens gain flash maple laundry season chef";

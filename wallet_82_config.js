@@ -1,1 +1,1 @@
-var mnemonic = "anxiety obvious hood evolve sea wine pattern dash above evidence hello client";
+var mnemonic = "blossom notice junior stove sight midnight remind destroy avocado around spoil twice";

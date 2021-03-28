@@ -1,1 +1,1 @@
-var mnemonic = "spread example acoustic casual wash trophy bunker animal window rival reduce caution";
+var mnemonic = "cruise lumber card armed fun wool noodle memory rail vicious athlete party";

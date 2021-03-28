@@ -1,1 +1,1 @@
-var mnemonic = "matrix quiz output recycle brand hire trap grit people grocery hill field";
+var mnemonic = "open latin avocado atom garment mountain enforce pyramid tiger door pear window";

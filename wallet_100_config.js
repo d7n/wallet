@@ -1,1 +1,1 @@
-var mnemonic = "raise fuel shoe frog afford erode spider lake success pelican weather trap";
+var mnemonic = "pencil bamboo tattoo erase buffalo hover wash south drill upgrade alley element";

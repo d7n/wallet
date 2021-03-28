@@ -1,1 +1,1 @@
-var mnemonic = "cross reason brass today load mistake squirrel obvious gallery return cherry recycle";
+var mnemonic = "puppy alcohol polar copper word first shell frost route slight kiss current";

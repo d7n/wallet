@@ -1,1 +1,1 @@
-var mnemonic = "hybrid wonder pumpkin fence lucky cruel entry parrot garlic move dream soldier";
+var mnemonic = "simple portion stage benefit cargo step zone notice injury educate dragon borrow";

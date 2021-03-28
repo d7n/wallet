@@ -1,1 +1,1 @@
-var mnemonic = "matter repair dolphin nerve legal vintage shiver outer point payment heavy lawn";
+var mnemonic = "nothing thumb prison hat tissue nation coffee engage fee talk hero option";

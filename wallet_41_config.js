@@ -1,1 +1,1 @@
-var mnemonic = "mechanic off fire fox island merge category predict try master globe three";
+var mnemonic = "sand venue defense color hat return frown way spray make client naive";

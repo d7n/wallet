@@ -1,1 +1,1 @@
-var mnemonic = "trigger cage useless mean foster pluck dumb smoke maid owner bronze theme";
+var mnemonic = "drink fish evoke auto bracket story false segment often miracle later conduct";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect fever frequent drama rude foil window witness security miss valley high";
+var mnemonic = "horse rich equip approve twelve young notice bargain frown tent else sweet";

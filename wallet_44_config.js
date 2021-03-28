@@ -1,1 +1,1 @@
-var mnemonic = "shoot lonely weather setup hurt auto job cherry tuna chapter pottery desk";
+var mnemonic = "flower produce document vessel gossip emerge unable firm term width jelly tip";

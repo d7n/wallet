@@ -1,1 +1,1 @@
-var mnemonic = "diamond ask pause make make purity moon once museum electric fork frequent";
+var mnemonic = "fold stable combine very stable vessel gauge enable ankle banana because mango";

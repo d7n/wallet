@@ -1,1 +1,1 @@
-var mnemonic = "element slow alarm strategy mean chief burger captain ripple shadow funny table";
+var mnemonic = "radio silk pull whip deputy pistol diary grant online common leaf diagram";

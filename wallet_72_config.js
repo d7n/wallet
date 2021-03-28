@@ -1,1 +1,1 @@
-var mnemonic = "runway picture distance priority female truly swing raccoon primary fringe boy enhance";
+var mnemonic = "verb absurd initial home sound special guard humor beauty orchard quit phone";

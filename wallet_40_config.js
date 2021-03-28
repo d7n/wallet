@@ -1,1 +1,1 @@
-var mnemonic = "bus term seven whip social filter horn brave gap fade wave write";
+var mnemonic = "today invite old welcome bulb govern limit cage riot remove aim ribbon";

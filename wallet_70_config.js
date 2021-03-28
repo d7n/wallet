@@ -1,1 +1,1 @@
-var mnemonic = "cry assist fitness table page rib label summer arrive wash box buddy";
+var mnemonic = "pencil debate index depth hero cluster boost never side desk any rain";

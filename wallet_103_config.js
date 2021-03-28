@@ -1,1 +1,1 @@
-var mnemonic = "negative eight excess pave settle grain world decorate renew attract vague much";
+var mnemonic = "pony arrest weapon snow alien focus stuff dynamic board flip pledge daring";

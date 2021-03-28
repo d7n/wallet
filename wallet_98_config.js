@@ -1,1 +1,1 @@
-var mnemonic = "host foot can negative escape rotate agree adapt cheap foil spoil hello";
+var mnemonic = "speed salt inject tennis kitten type renew river pilot whale winner paddle";

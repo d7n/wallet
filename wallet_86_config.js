@@ -1,1 +1,1 @@
-var mnemonic = "nice giraffe nose excite divide post salmon morning pluck ignore release adapt";
+var mnemonic = "exchange rack suggest bulb chuckle slim jump retreat disagree zone act wonder";

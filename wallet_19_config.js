@@ -1,1 +1,1 @@
-var mnemonic = "cloth lecture foil rural damage twist twice oven meadow beef cheese gaze";
+var mnemonic = "subject vote normal spot item extra sense zero fuel vacuum swift forward";

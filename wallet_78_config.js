@@ -1,1 +1,1 @@
-var mnemonic = "mother use curious ancient shrug theory dance blush rule inhale april fatigue";
+var mnemonic = "catch uphold finish latin aunt appear quality want category level screen history";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon vivid panic erase pause marine fluid similar when drill attack develop";
+var mnemonic = "virtual obvious endorse slow bright galaxy genuine protect neither divide carpet decide";

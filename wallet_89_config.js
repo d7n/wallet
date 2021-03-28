@@ -1,1 +1,1 @@
-var mnemonic = "escape only update reject speak buyer wing manual excess science tip blouse";
+var mnemonic = "shed smart false deny various appear senior capital trigger length twice wave";

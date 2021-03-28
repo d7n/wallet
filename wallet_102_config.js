@@ -1,1 +1,1 @@
-var mnemonic = "buyer own shoot tiger october half business word cereal concert mule diesel";
+var mnemonic = "gentle used liquid mushroom since defense scatter tobacco retreat winner roast cook";
