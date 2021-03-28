@@ -1,1 +1,1 @@
-var mnemonic = "galaxy poverty piece check casual gun scout lion measure palace topple day";
+var mnemonic = "gentle robust bright wink invest gospel glass corn pass sign theme diet";

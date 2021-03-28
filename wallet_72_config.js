@@ -1,1 +1,1 @@
-var mnemonic = "life tiny winter video damage two must stadium depth ready need poet";
+var mnemonic = "pelican notable happy habit side draft borrow cruel produce average ritual fringe";

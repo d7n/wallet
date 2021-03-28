@@ -1,1 +1,1 @@
-var mnemonic = "vault hood brisk decrease island sleep farm walk security learn security still";
+var mnemonic = "code oil rail pigeon tennis treat weapon motion artefact arch risk hope";

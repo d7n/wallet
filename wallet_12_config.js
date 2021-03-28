@@ -1,1 +1,1 @@
-var mnemonic = "north radar wait swallow much dirt hotel bulk turn bottom matter action";
+var mnemonic = "donkey edge trim valve gather ceiling crane early soccer brisk hold pass";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz young pupil little track valley wave oak rare deliver spoil cabin";
+var mnemonic = "wear start forward visit cook seven imitate lounge action resemble resource toast";

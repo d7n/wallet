@@ -1,1 +1,1 @@
-var mnemonic = "hour shoe party spy carpet sock settle unit upgrade suspect history lizard";
+var mnemonic = "witness spike program raw sound disorder sudden image skate olive journey stool";

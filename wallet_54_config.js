@@ -1,1 +1,1 @@
-var mnemonic = "chair ability delay debate merge come grace avocado casino spider salt coffee";
+var mnemonic = "false renew flock neither artwork stumble budget jump eagle right tell shadow";

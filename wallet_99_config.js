@@ -1,1 +1,1 @@
-var mnemonic = "domain snow federal staff where poem nice void stuff seek fragile catalog";
+var mnemonic = "camera trip actor pipe bargain accuse nest result first concert pigeon innocent";

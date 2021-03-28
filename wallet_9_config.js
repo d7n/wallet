@@ -1,1 +1,1 @@
-var mnemonic = "anchor refuse endless vintage captain tenant volume quarter intact sting round neglect";
+var mnemonic = "estate cactus hen infant learn high syrup cross riot clean heavy dose";

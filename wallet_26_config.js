@@ -1,1 +1,1 @@
-var mnemonic = "siren exchange shift ethics blade buzz term narrow comic churn aerobic venture";
+var mnemonic = "hedgehog unaware pull party praise motor deputy midnight chunk cotton join boost";

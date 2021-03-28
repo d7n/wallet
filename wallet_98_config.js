@@ -1,1 +1,1 @@
-var mnemonic = "wool clip enforce tumble ten cat wool mass kit high salon message";
+var mnemonic = "target danger earn wool winter exotic cool invest unit layer tray jeans";

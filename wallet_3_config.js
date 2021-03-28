@@ -1,1 +1,1 @@
-var mnemonic = "online person gold alpha birth broccoli october poem key identify marble brass";
+var mnemonic = "cave hunt hair menu north tired cabbage sort hair disease tag riot";

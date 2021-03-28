@@ -1,1 +1,1 @@
-var mnemonic = "oyster kit fresh across vital grunt rich badge connect silent local island";
+var mnemonic = "giant ability puzzle wood make fit vague library muscle floor term crane";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital pulp become noodle learn rack brave nothing march saddle occur melt";
+var mnemonic = "ordinary broken clutch suggest company oxygen cloud unable ordinary scan glimpse fruit";

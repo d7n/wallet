@@ -1,1 +1,1 @@
-var mnemonic = "control pilot high account access eye suit such slide this amount display";
+var mnemonic = "follow describe genius critic hip hawk solve gospel know alone toast this";

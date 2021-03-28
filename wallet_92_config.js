@@ -1,1 +1,1 @@
-var mnemonic = "orange surge hollow reward island glass symbol faint index coffee say discover";
+var mnemonic = "range garlic poverty spend taste news until citizen magic light virtual hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt lion divert plate trap shadow sad jealous jump team solution empower";
+var mnemonic = "butter column captain elder super lamp humble trap creek gym satisfy crush";

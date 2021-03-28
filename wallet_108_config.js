@@ -1,1 +1,1 @@
-var mnemonic = "mind unhappy carbon casino belt eye retreat gaze empower direct cover short";
+var mnemonic = "noise girl corn adult giraffe minimum photo mistake hour farm share awful";

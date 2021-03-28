@@ -1,1 +1,1 @@
-var mnemonic = "cream become fashion switch feature stool elephant debate crash animal leader sausage";
+var mnemonic = "album park barely festival other oven donor noble burger actual coffee false";

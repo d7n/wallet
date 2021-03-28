@@ -1,1 +1,1 @@
-var mnemonic = "odor warm infant flag almost exhibit cram lab shadow bamboo today ribbon";
+var mnemonic = "brass bottom ranch kingdom pioneer coin occur nuclear damp laugh turn reflect";

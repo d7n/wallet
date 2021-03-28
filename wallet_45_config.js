@@ -1,1 +1,1 @@
-var mnemonic = "major join provide ensure danger future flash exclude shiver alert moon picture";
+var mnemonic = "coral nothing iron vast resist forward very range useless shadow online casual";

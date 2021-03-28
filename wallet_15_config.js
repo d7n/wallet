@@ -1,1 +1,1 @@
-var mnemonic = "deal snake future remain leg reduce actress smooth youth pair reduce nest";
+var mnemonic = "load cannon cliff easily duty extend hospital mix okay glare rebel blade";

@@ -1,1 +1,1 @@
-var mnemonic = "salute inmate panda iron salad metal injury trigger school treat cool horn";
+var mnemonic = "object decrease depend power slab basic expose tackle onion butter rule chicken";

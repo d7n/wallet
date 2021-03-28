@@ -1,1 +1,1 @@
-var mnemonic = "copy envelope circle gorilla swift labor suffer scale involve danger bacon tent";
+var mnemonic = "acid renew erupt enroll unusual message wing involve net mutual sort grain";

@@ -1,1 +1,1 @@
-var mnemonic = "around glance custom trade kick account trick churn child enter thumb end";
+var mnemonic = "behave blanket throw casino record laugh blade hole where fault sudden indoor";

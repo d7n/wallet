@@ -1,1 +1,1 @@
-var mnemonic = "scrap length receive sign peasant shift talk neither ecology mail put wage";
+var mnemonic = "discover stage flame pepper canal blue topic enroll resist critic kitchen topple";

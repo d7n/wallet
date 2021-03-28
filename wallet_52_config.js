@@ -1,1 +1,1 @@
-var mnemonic = "sauce casino volcano general dutch twice private heart game field phone security";
+var mnemonic = "valve spice energy female symptom cabin half mango smooth federal loan manual";

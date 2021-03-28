@@ -1,1 +1,1 @@
-var mnemonic = "sting paper dance quit scale tube size ignore hawk season forget review";
+var mnemonic = "egg dish bag proud tourist end voice tiny play gesture define bachelor";

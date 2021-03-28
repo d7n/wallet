@@ -1,1 +1,1 @@
-var mnemonic = "angle size nothing firm vapor ten coach someone task field cricket lizard";
+var mnemonic = "idea deal lottery become midnight buffalo august oak unknown scan cause like";

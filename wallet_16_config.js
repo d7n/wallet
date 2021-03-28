@@ -1,1 +1,1 @@
-var mnemonic = "head seed machine express predict park tonight again later shadow rebuild clap";
+var mnemonic = "force amateur balcony dynamic congress famous pumpkin primary express panic scare welcome";

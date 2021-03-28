@@ -1,1 +1,1 @@
-var mnemonic = "shadow coral honey deliver muffin rival impulse black focus hammer heavy brisk";
+var mnemonic = "wreck spirit vague spin attract marine mobile author place design absorb wise";

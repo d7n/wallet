@@ -1,1 +1,1 @@
-var mnemonic = "fresh almost kingdom diamond figure detail system material cabbage add old garbage";
+var mnemonic = "foil shock stem exercise panther rigid beauty clog problem poet slam utility";

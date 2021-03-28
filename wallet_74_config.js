@@ -1,1 +1,1 @@
-var mnemonic = "boring lumber have gorilla pony staff bean alert chalk cruise firm bus";
+var mnemonic = "fruit loan scrub trophy reform intact merit awful clerk clutch eyebrow vague";

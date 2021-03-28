@@ -1,1 +1,1 @@
-var mnemonic = "page buyer emerge innocent inherit muffin acquire convince solution pride tiny equip";
+var mnemonic = "exchange grass soon coral task depend card observe orphan minimum riot rough";

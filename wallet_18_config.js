@@ -1,1 +1,1 @@
-var mnemonic = "globe sad future another system fade old dish tissue wrap control vessel";
+var mnemonic = "exist promote city entry half alpha loan choice escape diamond arrow clap";

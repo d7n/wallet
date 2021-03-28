@@ -1,1 +1,1 @@
-var mnemonic = "vacant biology electric immense govern market great pet acquire better mind until";
+var mnemonic = "bicycle photo city course stone seat mad transfer cabbage radio scare steak";

@@ -1,1 +1,1 @@
-var mnemonic = "remain moral immense local orchard museum basic history voice stove mother confirm";
+var mnemonic = "monitor peanut can motion engage oak access scissors cradle void garage damp";

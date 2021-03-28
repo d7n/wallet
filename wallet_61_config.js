@@ -1,1 +1,1 @@
-var mnemonic = "unusual gun together slow barrel identify kitten silly faith race blame theme";
+var mnemonic = "sheriff crash ignore average include novel buyer either step leaf hand again";

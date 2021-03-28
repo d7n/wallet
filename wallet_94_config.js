@@ -1,1 +1,1 @@
-var mnemonic = "avocado warm sting stomach giraffe refuse length oil sunny powder toss great";
+var mnemonic = "eager penalty asthma title dawn hair puppy exercise knife sorry give panic";

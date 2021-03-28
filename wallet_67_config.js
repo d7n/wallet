@@ -1,1 +1,1 @@
-var mnemonic = "joke search work expect ill hurry inspire express sun gym mask surge";
+var mnemonic = "hint wear recipe pave stamp maid behind slow film finish now place";

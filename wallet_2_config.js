@@ -1,1 +1,1 @@
-var mnemonic = "fossil grit body whip cabbage lucky faith ahead group goat meadow demand";
+var mnemonic = "prize buyer giraffe filter ice swamp orphan joy whale shaft shiver bulb";

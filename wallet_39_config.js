@@ -1,1 +1,1 @@
-var mnemonic = "fix squirrel awkward innocent guess shift hammer smooth father illness smoke arctic";
+var mnemonic = "lamp hold bar just increase bargain place opinion alpha fury focus cash";

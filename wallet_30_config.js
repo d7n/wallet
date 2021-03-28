@@ -1,1 +1,1 @@
-var mnemonic = "attend cigar divert raven moon swim mango bus head card wave true";
+var mnemonic = "radar fence virtual exclude cannon draft scrub math energy cabin salon harbor";

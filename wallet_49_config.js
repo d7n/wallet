@@ -1,1 +1,1 @@
-var mnemonic = "brown opera fox box useless wrap tobacco hurt target uphold marine inmate";
+var mnemonic = "update short announce useful harvest floor borrow must mean tumble north toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony sword gorilla noble salute scrub second museum opera coach worry tissue";
+var mnemonic = "bracket lawn bike cloud long endless asthma inch ship student salt olympic";

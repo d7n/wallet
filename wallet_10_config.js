@@ -1,1 +1,1 @@
-var mnemonic = "love front cabbage false donate law talent sudden proof file cousin change";
+var mnemonic = "daughter gown ignore owner final vote south build flush feature rug brother";

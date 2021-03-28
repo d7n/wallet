@@ -1,1 +1,1 @@
-var mnemonic = "clinic blur weasel cover such model install miracle clay neither vast six";
+var mnemonic = "brief romance arrest question series nice doll stand jelly pencil luxury cool";

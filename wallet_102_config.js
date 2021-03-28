@@ -1,1 +1,1 @@
-var mnemonic = "bargain noodle horse battle distance female comic opera panther gloom lyrics reform";
+var mnemonic = "bounce switch voyage bomb fall destroy account giggle ranch innocent divorce control";

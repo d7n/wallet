@@ -1,1 +1,1 @@
-var mnemonic = "impulse reopen subway uncover foam giggle dust outdoor scan number rival when";
+var mnemonic = "rate bulk invite island traffic noodle earn creek kitten cheese regular talent";

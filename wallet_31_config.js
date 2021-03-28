@@ -1,1 +1,1 @@
-var mnemonic = "brave wolf lock toilet steel adult jealous plug fat monitor leader wish";
+var mnemonic = "usual present neck rain bonus cheap swamp orphan eye ostrich spend invite";

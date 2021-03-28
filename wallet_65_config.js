@@ -1,1 +1,1 @@
-var mnemonic = "general game home time budget horn advice burst business dog injury pony";
+var mnemonic = "mix seat uniform gasp vessel rule shock profit pepper turkey huge say";

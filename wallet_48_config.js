@@ -1,1 +1,1 @@
-var mnemonic = "text market bachelor off wool roof element picnic frown illness explain snack";
+var mnemonic = "rally race cave glad famous foot amused favorite gift august smooth fetch";

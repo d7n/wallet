@@ -1,1 +1,1 @@
-var mnemonic = "fever love patient speed actor gloom grief fashion praise nature polar candy";
+var mnemonic = "indicate label goat acid snake shrimp knee brother expect frame rent awful";

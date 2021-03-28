@@ -1,1 +1,1 @@
-var mnemonic = "penalty history age garden later parrot pull category obey verb clown pizza";
+var mnemonic = "parent expect make noodle hip deliver choose trap cute salad egg tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "trim myth tiger own velvet grid help scrub barely vocal rate beauty";
+var mnemonic = "cute bacon evil best pigeon buffalo advance behind cheese tenant mandate clip";

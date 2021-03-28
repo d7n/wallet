@@ -1,1 +1,1 @@
-var mnemonic = "that toe tape indoor cruise funny crane earn rack slim forward exercise";
+var mnemonic = "grass horn mechanic logic wise shaft genius awkward appear cabin federal mistake";

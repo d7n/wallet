@@ -1,1 +1,1 @@
-var mnemonic = "merge usual strong enhance throw trumpet oven effort vessel gas fog liar";
+var mnemonic = "already theory moon rotate dynamic gorilla various assault warfare wet family draw";

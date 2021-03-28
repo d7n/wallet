@@ -1,1 +1,1 @@
-var mnemonic = "wild escape offer proof number member citizen mad job album photo lecture";
+var mnemonic = "rose sword east between call equip firm purse offer fossil popular option";

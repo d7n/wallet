@@ -1,1 +1,1 @@
-var mnemonic = "motor asset feed coil found furnace festival danger bring business weather crisp";
+var mnemonic = "table friend supreme badge old estate trumpet power upset slot horror media";

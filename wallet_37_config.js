@@ -1,1 +1,1 @@
-var mnemonic = "horse online gift fan lunch much bring shoulder you ensure mandate zebra";
+var mnemonic = "clock tomorrow where language castle smart scare pet demand mixed face regret";

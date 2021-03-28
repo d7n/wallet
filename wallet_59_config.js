@@ -1,1 +1,1 @@
-var mnemonic = "glory pattern provide lunch live swap earth slab liar treat boss federal";
+var mnemonic = "sense inner panda blossom bag main rather mother shock street amused marble";

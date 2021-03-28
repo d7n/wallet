@@ -1,1 +1,1 @@
-var mnemonic = "coyote wet remember cancel smooth one utility athlete diesel basic betray right";
+var mnemonic = "filter abuse surprise comfort special kiss soldier comic glue possible inch rib";

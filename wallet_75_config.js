@@ -1,1 +1,1 @@
-var mnemonic = "fatal game man agent brave bleak size slide make must asthma dilemma";
+var mnemonic = "avocado danger shrug soon prepare table hard mean spin display lunch squirrel";

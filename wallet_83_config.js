@@ -1,1 +1,1 @@
-var mnemonic = "asset wine harvest opinion kit axis husband cancel above luggage myself silly";
+var mnemonic = "absurd enroll hen winner senior high addict pretty endless resist bike rare";

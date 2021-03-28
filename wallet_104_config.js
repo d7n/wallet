@@ -1,1 +1,1 @@
-var mnemonic = "diet exile similar buzz bullet hint tribe eight uniform clerk arch venture";
+var mnemonic = "suspect small vessel ecology develop juice fashion resist action blue found clean";

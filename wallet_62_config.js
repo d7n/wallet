@@ -1,1 +1,1 @@
-var mnemonic = "picnic often stuff illness rate hollow glory impulse area exact stable error";
+var mnemonic = "gun vacuum price inside burst endorse pill idle cereal slush history few";

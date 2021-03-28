@@ -1,1 +1,1 @@
-var mnemonic = "tone swallow forest magnet entire balance business father menu hollow resist sibling";
+var mnemonic = "supply vacant simple gas winter good clip cake worry million twin often";

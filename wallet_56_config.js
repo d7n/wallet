@@ -1,1 +1,1 @@
-var mnemonic = "zebra pulse uphold annual trend stamp soap fresh warm notable universe into";
+var mnemonic = "real ball faint flight sock funny village royal loop jacket stay close";

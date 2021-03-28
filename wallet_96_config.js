@@ -1,1 +1,1 @@
-var mnemonic = "allow eyebrow sudden mask sense animal syrup census beef evolve among office";
+var mnemonic = "almost foster winner trend wheat moment boss dragon total bitter usual fall";

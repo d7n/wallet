@@ -1,1 +1,1 @@
-var mnemonic = "economy sing nice regular lion scrap immense turn chief trend jewel olympic";
+var mnemonic = "crime mesh broccoli awesome question craft autumn banana goose ladder amazing diagram";

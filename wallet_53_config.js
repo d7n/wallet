@@ -1,1 +1,1 @@
-var mnemonic = "action that expire tent bomb pave umbrella paddle brick wait essence truck";
+var mnemonic = "pond bone adjust critic indicate myth barrel narrow razor blur before tone";

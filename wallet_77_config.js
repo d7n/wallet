@@ -1,1 +1,1 @@
-var mnemonic = "sock odor between can solar chunk glance gold kind jacket wrist exhibit";
+var mnemonic = "twist beef happy soap tunnel arch chapter flame iron cheap jazz north";

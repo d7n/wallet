@@ -1,1 +1,1 @@
-var mnemonic = "blouse castle boy whale park genius add left awake choice elbow chronic";
+var mnemonic = "exclude save hire mechanic flower busy frequent blast safe where pottery make";

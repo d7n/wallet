@@ -1,1 +1,1 @@
-var mnemonic = "symbol remember input airport episode merge high guard bird nurse air lottery";
+var mnemonic = "flight point rebel joy ladder notable object donkey follow episode minimum gadget";

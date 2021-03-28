@@ -1,1 +1,1 @@
-var mnemonic = "film civil ranch note toilet comfort reward nephew search extend potato couch";
+var mnemonic = "anxiety rule solar festival brain certain device cabbage there vanish vacant hammer";

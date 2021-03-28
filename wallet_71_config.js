@@ -1,1 +1,1 @@
-var mnemonic = "find talent charge crowd nominee world series pear joy current cigar burden";
+var mnemonic = "excuse sudden feature front pond this display valve space clinic ranch mystery";

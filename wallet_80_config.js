@@ -1,1 +1,1 @@
-var mnemonic = "follow forget blur business series three push forest auction lobster shuffle radar";
+var mnemonic = "circle install kid sun ship culture dizzy praise merge daughter addict ice";

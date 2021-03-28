@@ -1,1 +1,1 @@
-var mnemonic = "dumb cruise small horror plunge stick what brain hood patient actor crater";
+var mnemonic = "school tag hurt breeze kid recycle flat pumpkin fossil answer favorite allow";

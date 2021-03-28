@@ -1,1 +1,1 @@
-var mnemonic = "bunker fox palace solve fee answer park blood impact need girl thing";
+var mnemonic = "able now always glad ostrich pond dad furnace gallery motor hazard suffer";

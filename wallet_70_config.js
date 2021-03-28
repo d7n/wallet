@@ -1,1 +1,1 @@
-var mnemonic = "spot spice old jeans bridge under keen hire pretty enrich extend right";
+var mnemonic = "regret loud fault face library unfair laundry two cheap echo walnut stem";

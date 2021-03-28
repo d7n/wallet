@@ -1,1 +1,1 @@
-var mnemonic = "rain little game blood frame uniform dizzy trade decrease fiber violin wood";
+var mnemonic = "govern prefer carbon subway convince solar treat key novel search almost body";

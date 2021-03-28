@@ -1,1 +1,1 @@
-var mnemonic = "pulse volcano proof word pumpkin idle program stuff sphere lamp dumb mention";
+var mnemonic = "liar swap unfold refuse quote twenty reveal provide satisfy shy craft lunar";

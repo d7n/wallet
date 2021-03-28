@@ -1,1 +1,1 @@
-var mnemonic = "life type seven pulse leader try super desert poet lazy east trophy";
+var mnemonic = "cotton edge parent immense link normal trash gas borrow expire install dose";

@@ -1,1 +1,1 @@
-var mnemonic = "try change maximum radio exit squirrel once artwork poem bubble airport sausage";
+var mnemonic = "boring like ocean palace faculty wave tail swear inject note skin drill";

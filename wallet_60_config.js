@@ -1,1 +1,1 @@
-var mnemonic = "change peasant dilemma traffic list when benefit fire clinic inherit sadness pistol";
+var mnemonic = "whip flash trophy demand drama panel wrong swarm faith erode vibrant peanut";

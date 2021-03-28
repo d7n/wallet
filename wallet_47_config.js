@@ -1,1 +1,1 @@
-var mnemonic = "awesome parrot noodle april owner practice panda charge remember witness fun rebel";
+var mnemonic = "birth lottery hurdle trim state budget search resist exist negative clip sick";

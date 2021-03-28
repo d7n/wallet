@@ -1,1 +1,1 @@
-var mnemonic = "maid dinner proud ritual alien mammal evil kingdom develop virus jelly sniff";
+var mnemonic = "bargain mother usual during maze web rigid cargo water below rare level";

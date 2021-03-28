@@ -1,1 +1,1 @@
-var mnemonic = "stumble peanut nerve fetch oak elbow sign flock lens radar rescue plate";
+var mnemonic = "utility limit airport allow filter brass dance gallery over antenna olympic key";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred this basic among carry relief stool tuition awkward mix flower away";
+var mnemonic = "cradle asthma mandate until spring coin nephew dismiss kit wolf outside obscure";
