@@ -1,1 +1,1 @@
-var mnemonic = "core floor bundle woman speed afraid draw cushion flame physical inherit toast";
+var mnemonic = "attitude used chicken service rocket start crisp spoil gloom skirt lamp lemon";

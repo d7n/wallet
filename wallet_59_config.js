@@ -1,1 +1,1 @@
-var mnemonic = "lock panda agent card mystery vessel road know social pull inhale shrimp";
+var mnemonic = "disease tank cargo fold ethics foster child spray innocent galaxy have engine";

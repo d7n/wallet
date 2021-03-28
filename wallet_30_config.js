@@ -1,1 +1,1 @@
-var mnemonic = "remain divorce burden silent sentence screen gym course view spring trick arrive";
+var mnemonic = "whale couch save near island disagree pony differ beef era mean coffee";

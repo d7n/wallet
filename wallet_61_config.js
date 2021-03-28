@@ -1,1 +1,1 @@
-var mnemonic = "ghost celery neutral twelve sea october sight digital coffee vast small true";
+var mnemonic = "endless loud trap timber aspect club sport ranch gauge shrimp legal poet";

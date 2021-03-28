@@ -1,1 +1,1 @@
-var mnemonic = "angry trophy dirt coral involve luxury lazy educate left unaware vital damage";
+var mnemonic = "balance crucial spin improve spend right any crowd argue idea vicious solar";

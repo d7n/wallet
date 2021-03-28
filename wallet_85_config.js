@@ -1,1 +1,1 @@
-var mnemonic = "brain crouch desk young eight rug palm scrub region rebel one payment";
+var mnemonic = "immense sick fun rapid fun dynamic monkey once cabin blame coyote supply";

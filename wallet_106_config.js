@@ -1,1 +1,1 @@
-var mnemonic = "fruit bamboo pledge describe chimney bicycle bar cactus barely chicken ceiling fault";
+var mnemonic = "glide price pair orphan drift entry guilt swing stumble erupt record attract";

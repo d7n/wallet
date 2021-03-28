@@ -1,1 +1,1 @@
-var mnemonic = "slot cake reform dream embrace usage quick retire spice collect rookie pact";
+var mnemonic = "talent able earn wish assume alone service pear rotate position false capable";

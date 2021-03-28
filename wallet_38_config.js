@@ -1,1 +1,1 @@
-var mnemonic = "scatter enter cook damage lemon diagram bullet salon ramp noble behave raven";
+var mnemonic = "twenty hole salad coin cradle cement blur magnet gauge travel two grape";

@@ -1,1 +1,1 @@
-var mnemonic = "loyal lunch response meat goat loan source nut razor moral wish voice";
+var mnemonic = "confirm talk aspect ranch increase resource fat february myth category mimic soap";

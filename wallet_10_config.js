@@ -1,1 +1,1 @@
-var mnemonic = "soft wing smart theme promote helmet muscle cute final dirt bunker claw";
+var mnemonic = "wash enrich awake board vanish boil museum control quick sun ginger silver";

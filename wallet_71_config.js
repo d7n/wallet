@@ -1,1 +1,1 @@
-var mnemonic = "wreck average execute pave truly giant ocean jelly anger sibling culture clog";
+var mnemonic = "fragile narrow country siren bulk drama story museum maple column symptom alien";

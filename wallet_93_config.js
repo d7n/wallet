@@ -1,1 +1,1 @@
-var mnemonic = "tell april pitch drop auto half fix exile ranch option copy come";
+var mnemonic = "word innocent loan achieve game noise jelly worth mirror explain cluster roof";

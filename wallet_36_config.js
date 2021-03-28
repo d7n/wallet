@@ -1,1 +1,1 @@
-var mnemonic = "exile zebra round diary embrace arctic hand alpha surround vote speak flight";
+var mnemonic = "talent situate vacuum culture welcome lake aspect pigeon weapon season impact puzzle";

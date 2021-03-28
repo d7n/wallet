@@ -1,1 +1,1 @@
-var mnemonic = "win retreat buzz kid member raccoon visual couple report devote similar soft";
+var mnemonic = "play month civil decide obtain tail guilt hawk fashion nature fade mercy";

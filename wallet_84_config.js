@@ -1,1 +1,1 @@
-var mnemonic = "blouse lecture ignore worth bleak luxury balance faint rally globe farm joy";
+var mnemonic = "rude gadget update copper collect sell decide portion october clever tag safe";

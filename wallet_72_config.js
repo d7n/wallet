@@ -1,1 +1,1 @@
-var mnemonic = "force genuine face main junior curtain boil supply sweet stuff forum scale";
+var mnemonic = "smoke strike dress wide chimney begin elite twin common obey wear faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "possible holiday whale ozone gift local perfect month liberty increase middle canal";
+var mnemonic = "loop fat jump pair age limb ugly believe yard patient strike that";

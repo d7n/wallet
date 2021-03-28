@@ -1,1 +1,1 @@
-var mnemonic = "small weapon still ozone opera mask rotate camera bottom blood possible dirt";
+var mnemonic = "coast country pause accuse afraid okay girl spawn card pact flavor attack";

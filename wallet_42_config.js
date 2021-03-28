@@ -1,1 +1,1 @@
-var mnemonic = "neither advice rude spot main fortune beef audit quantum skirt drastic submit";
+var mnemonic = "return yellow common gaze grief bundle undo tunnel endorse destroy fix size";

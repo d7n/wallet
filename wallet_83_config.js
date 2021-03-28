@@ -1,1 +1,1 @@
-var mnemonic = "there engine glide repair ride lens carbon gorilla gospel lawn eager phone";
+var mnemonic = "misery cherry film burger thank supreme casino wife provide faculty moon legend";

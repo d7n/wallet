@@ -1,1 +1,1 @@
-var mnemonic = "capital stick upper together state retreat claw bless submit bleak concert bonus";
+var mnemonic = "gesture urban labor artist segment boost penalty industry edit direct gentle salt";

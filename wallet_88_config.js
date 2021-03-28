@@ -1,1 +1,1 @@
-var mnemonic = "creek hospital trick put change visual into extend kid comic hub street";
+var mnemonic = "patient laptop step satoshi sibling celery rail surround trouble glove lab copy";

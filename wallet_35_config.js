@@ -1,1 +1,1 @@
-var mnemonic = "grief movie eight wrestle person update weather core title judge manage boring";
+var mnemonic = "travel enter crawl blanket lecture black pitch unlock steel size oil own";

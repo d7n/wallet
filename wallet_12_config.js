@@ -1,1 +1,1 @@
-var mnemonic = "seminar curve trigger void salon photo viable normal gather upgrade illegal child";
+var mnemonic = "fitness over help blood clerk cattle program health tray oak act legal";

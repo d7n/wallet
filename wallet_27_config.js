@@ -1,1 +1,1 @@
-var mnemonic = "immune day violin zone view motion divorce cave find praise clap ill";
+var mnemonic = "depart monitor machine artist sniff orphan same solid mix left assume poet";

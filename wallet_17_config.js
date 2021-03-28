@@ -1,1 +1,1 @@
-var mnemonic = "tuna grunt someone goat badge light endless gossip winter bone dawn pulse";
+var mnemonic = "evoke page dice material gospel gym toe stay bachelor always friend note";

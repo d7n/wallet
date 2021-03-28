@@ -1,1 +1,1 @@
-var mnemonic = "foot chunk buddy glory engage find pulp tiny rain discover siren kick";
+var mnemonic = "leader hungry rapid boss puzzle exact odor end scissors bomb pencil season";

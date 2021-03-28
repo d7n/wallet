@@ -1,1 +1,1 @@
-var mnemonic = "meat major trigger end adjust food stay afford uncover loud matter beach";
+var mnemonic = "lens such maze total enemy stable blast pioneer mom sort solve wife";

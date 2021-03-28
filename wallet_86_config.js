@@ -1,1 +1,1 @@
-var mnemonic = "inquiry reform fetch exclude dust rally fragile bitter library chunk segment view";
+var mnemonic = "doctor correct match rebuild suspect body crater gym image clutch simple very";

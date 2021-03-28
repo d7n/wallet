@@ -1,1 +1,1 @@
-var mnemonic = "abuse moon resource entire engage math enact artwork host day loop blush";
+var mnemonic = "silly feel negative they banner replace gesture leg innocent brother robot oppose";

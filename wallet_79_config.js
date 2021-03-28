@@ -1,1 +1,1 @@
-var mnemonic = "switch gloom abstract input dinosaur sentence minimum field neck elbow tank loud";
+var mnemonic = "pig globe despair direct scheme salon because canvas north ugly slam asset";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney frequent other dune pipe animal holiday claw swing ripple multiply forget";
+var mnemonic = "wisdom swap girl column damage tower cruel cloud silver small apology only";

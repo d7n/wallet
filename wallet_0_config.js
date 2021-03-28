@@ -1,1 +1,1 @@
-var mnemonic = "alter urban polar play like say antenna gift size chest delay repeat";
+var mnemonic = "time water lottery valid swamp tissue worry rare behave include jacket slice";

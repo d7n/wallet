@@ -1,1 +1,1 @@
-var mnemonic = "poet pride allow announce dice ritual invest scout seek insect car guard";
+var mnemonic = "bleak behave solve drink convince cushion just extra plate aunt aim endless";

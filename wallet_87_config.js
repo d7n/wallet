@@ -1,1 +1,1 @@
-var mnemonic = "spirit online margin uniform shaft virtual cargo junk expire typical orchard verify";
+var mnemonic = "action where ghost victory green twelve total artwork dove reduce extra door";

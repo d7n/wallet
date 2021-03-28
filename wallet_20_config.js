@@ -1,1 +1,1 @@
-var mnemonic = "leader arrest feature drill battle very desk mimic mixed hurry all perfect";
+var mnemonic = "wild episode purchase section trip hawk mouse urge toss damp sibling sketch";

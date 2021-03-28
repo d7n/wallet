@@ -1,1 +1,1 @@
-var mnemonic = "source brick garment love cross rug mask wife dry ignore trouble zebra";
+var mnemonic = "panda neither maple sun tonight trumpet render provide vanish whale speed case";

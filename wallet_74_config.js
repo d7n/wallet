@@ -1,1 +1,1 @@
-var mnemonic = "advance clinic calm minor pride conduct endless slot kidney stairs eternal smoke";
+var mnemonic = "loop clever lift decade under flower broken brain horse fit together embody";

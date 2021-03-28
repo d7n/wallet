@@ -1,1 +1,1 @@
-var mnemonic = "source argue profit attitude universe will clerk motion water choice reflect trim";
+var mnemonic = "violin denial farm keep normal physical parent bone better ancient voyage acoustic";

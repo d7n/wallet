@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit gravity then duty mirror onion shield spirit sample poverty magic second";
+var mnemonic = "breeze midnight fade avoid exact cave false fox receive monkey inside know";

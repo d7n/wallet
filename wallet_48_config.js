@@ -1,1 +1,1 @@
-var mnemonic = "tower student absent left balance insane lyrics car night castle cherry recipe";
+var mnemonic = "pumpkin urban skin post young unaware major melody trigger purse ask gaze";

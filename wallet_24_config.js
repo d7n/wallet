@@ -1,1 +1,1 @@
-var mnemonic = "sad quarter liberty gallery female potato choice scale feature lawn age resemble";
+var mnemonic = "name mobile paddle input century mean balance kitchen fitness develop later report";

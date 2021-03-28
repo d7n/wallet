@@ -1,1 +1,1 @@
-var mnemonic = "buddy disease dream rich firm occur lounge easily faith salt casino obey";
+var mnemonic = "shiver hunt wool stomach pipe deer box frequent know crunch old before";

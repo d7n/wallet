@@ -1,1 +1,1 @@
-var mnemonic = "cave moral embrace senior depend shell tenant phrase release anger cement unlock";
+var mnemonic = "nose hunt spatial usage travel pulse alone wine weird fence equip cave";

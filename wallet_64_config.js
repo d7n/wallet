@@ -1,1 +1,1 @@
-var mnemonic = "appear coach stable chair monkey second cherry brave kingdom smart cube exchange";
+var mnemonic = "cliff loop panda skull myself end pencil exact drive plate sea engine";

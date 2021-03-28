@@ -1,1 +1,1 @@
-var mnemonic = "ivory poem rough bean match shock pledge wild coral country decade scout";
+var mnemonic = "ten place key enrich blind enable soul guess inspire local elephant scene";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken practice enough learn pipe health kiwi around ketchup hobby odor fame";
+var mnemonic = "power lounge wash eyebrow urge unable unknown gadget because brain wait boring";

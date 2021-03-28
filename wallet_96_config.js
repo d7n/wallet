@@ -1,1 +1,1 @@
-var mnemonic = "extra curtain slogan link chronic figure laugh canal require father payment napkin";
+var mnemonic = "faint boy miss defy chapter rather leopard abstract under garment toast field";

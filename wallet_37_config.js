@@ -1,1 +1,1 @@
-var mnemonic = "enough race trick fire sight silver correct sauce brick tuna bar method";
+var mnemonic = "magic raccoon south phone cactus clinic display banner owner man finish cloth";

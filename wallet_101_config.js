@@ -1,1 +1,1 @@
-var mnemonic = "random timber lucky coin analyst flash slot cereal sting wealth arrow use";
+var mnemonic = "track fiscal submit color never drum sniff saddle teach left melt era";

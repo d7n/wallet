@@ -1,1 +1,1 @@
-var mnemonic = "evolve artefact build cotton pride day hint prepare surround early believe walnut";
+var mnemonic = "vague region glance cable unlock crater mention husband swim season that inform";

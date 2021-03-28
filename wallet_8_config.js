@@ -1,1 +1,1 @@
-var mnemonic = "cry hammer analyst return concert lab scheme convince army forest glance dance";
+var mnemonic = "elegant begin cruise trick refuse story program soup voice desert next chuckle";

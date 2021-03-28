@@ -1,1 +1,1 @@
-var mnemonic = "castle protect parade night stamp client defense child honey affair drop battle";
+var mnemonic = "illegal rebuild anger appear anger trust history gaze scout then collect apple";

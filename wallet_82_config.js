@@ -1,1 +1,1 @@
-var mnemonic = "nation rather avoid match attack dignity clarify fortune car stage dragon nature";
+var mnemonic = "lab oppose space frost cruise artist flame neglect model garlic shuffle focus";

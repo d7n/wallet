@@ -1,1 +1,1 @@
-var mnemonic = "aware cheap tone crack master upper slim dream bubble distance charge banner";
+var mnemonic = "civil dream pool answer slam review pause dust pitch stomach license soft";

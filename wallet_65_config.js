@@ -1,1 +1,1 @@
-var mnemonic = "other movie virus great pitch wisdom inside yard shine right opera potato";
+var mnemonic = "genuine image quick course poverty post blood quote tuition fish aware icon";

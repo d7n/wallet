@@ -1,1 +1,1 @@
-var mnemonic = "elbow want renew cheese must dog pen salute debris organ engage aerobic";
+var mnemonic = "amateur turkey half buddy track snap hard two opinion mixed index length";

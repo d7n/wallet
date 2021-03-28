@@ -1,1 +1,1 @@
-var mnemonic = "trust chapter daughter december stadium all exhibit judge shop earth doctor december";
+var mnemonic = "tower hand public trap expand flag gauge donor can broken play top";

@@ -1,1 +1,1 @@
-var mnemonic = "prefer reunion lunar genre exhibit march reform kind soap before differ aisle";
+var mnemonic = "pool able laugh bulb maximum army sail sphere quantum describe meat state";

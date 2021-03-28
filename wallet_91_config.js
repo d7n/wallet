@@ -1,1 +1,1 @@
-var mnemonic = "pond olive brief unable cricket innocent intact village ski chest prevent crush";
+var mnemonic = "risk animal gain language term dirt blur sausage dance coffee liquid zebra";

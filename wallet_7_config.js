@@ -1,1 +1,1 @@
-var mnemonic = "stool jar flock hour essay jazz before can orchard nation child wear";
+var mnemonic = "kit swing undo topple liar sister daughter faint parent woman when glance";

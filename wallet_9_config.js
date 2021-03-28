@@ -1,1 +1,1 @@
-var mnemonic = "theme allow lion episode fetch adapt luggage fitness cave actor morning term";
+var mnemonic = "exile ready suit swift shoulder exile detect token trigger run expand cousin";

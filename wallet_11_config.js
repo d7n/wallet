@@ -1,1 +1,1 @@
-var mnemonic = "sister fuel detail inquiry among turn such boost disease bus weather excess";
+var mnemonic = "speed core blind trash hammer obey rocket kangaroo salt bitter misery general";

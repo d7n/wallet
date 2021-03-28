@@ -1,1 +1,1 @@
-var mnemonic = "enrich remind sweet square album rich chicken either beef maximum lucky capital";
+var mnemonic = "point logic oxygen issue setup release install wrist issue project multiply pass";

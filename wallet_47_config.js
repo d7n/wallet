@@ -1,1 +1,1 @@
-var mnemonic = "flip fortune salt betray lock noble cloth wine sure away minute find";
+var mnemonic = "laugh bounce fold message spring genre stool polar bean clay assist twice";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery steak exact theme adult left gap vast switch later element absurd";
+var mnemonic = "corn blame cruel resource connect hedgehog cotton cube talk chuckle peanut spread";

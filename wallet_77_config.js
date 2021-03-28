@@ -1,1 +1,1 @@
-var mnemonic = "toss myself fan piece modify crop slot feature tragic behind auction false";
+var mnemonic = "worry vacuum ramp appear glide dry judge drum acid ride produce finish";

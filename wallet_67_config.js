@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon betray coffee trip evoke clarify clog kitchen glide parent pencil dynamic";
+var mnemonic = "account obey price whale enlist caution stem address avoid subject purse black";

@@ -1,1 +1,1 @@
-var mnemonic = "jar someone toe want vault borrow dawn oil seven plastic hungry beach";
+var mnemonic = "casino problem fuel faculty aim time end radio oppose diet enroll cluster";

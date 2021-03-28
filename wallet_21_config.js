@@ -1,1 +1,1 @@
-var mnemonic = "slogan label abandon usual position gain glory coral gorilla maze juice stuff";
+var mnemonic = "sausage erase then road outer typical valley tell boss aware crush pistol";

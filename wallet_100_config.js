@@ -1,1 +1,1 @@
-var mnemonic = "fish apology trust lounge tissue minimum mistake tortoise ordinary exile dream alone";
+var mnemonic = "tackle cream direct route able lobster bone large visual decline deal embody";

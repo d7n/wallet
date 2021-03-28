@@ -1,1 +1,1 @@
-var mnemonic = "slam yellow birth tomato matter away rich ice carbon conduct winter option";
+var mnemonic = "tourist crater size town walk unit phrase jewel outer guard miss transfer";

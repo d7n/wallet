@@ -1,1 +1,1 @@
-var mnemonic = "equip heavy demand gallery art topic race taxi flower leisure chuckle two";
+var mnemonic = "imitate rare peace right actual wage napkin lion atom afford buyer upon";

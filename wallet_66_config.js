@@ -1,1 +1,1 @@
-var mnemonic = "screen meadow reward message maid gaze zoo lecture seminar media mesh aware";
+var mnemonic = "hammer pitch marine ability decide connect armor tornado question sugar noise sock";

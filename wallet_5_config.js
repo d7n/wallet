@@ -1,1 +1,1 @@
-var mnemonic = "tuna fox right curtain salmon carbon dry exist staff lab scan suggest";
+var mnemonic = "gap truck horn crater abuse mule fuel believe fat offer dress relief";

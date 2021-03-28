@@ -1,1 +1,1 @@
-var mnemonic = "myth hour gift upset exchange island door bacon near try snack car";
+var mnemonic = "goose wine eyebrow seek lift neck hobby crazy anxiety gift endless news";

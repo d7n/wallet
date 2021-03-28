@@ -1,1 +1,1 @@
-var mnemonic = "proof fruit tower inherit bean toward tourist motor manual boat cute online";
+var mnemonic = "session never narrow soon agent choose shed bubble exile eyebrow negative plate";

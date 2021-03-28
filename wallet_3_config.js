@@ -1,1 +1,1 @@
-var mnemonic = "crawl daring purpose tourist permit build universe better double unfold gauge wool";
+var mnemonic = "evidence sort vicious unusual pole leave about dove mix enhance squirrel swim";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo chaos snow wife zone material hire fire under milk gesture original";
+var mnemonic = "copper develop wing unhappy walnut assist sister license hamster nurse update wrestle";

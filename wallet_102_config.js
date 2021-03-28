@@ -1,1 +1,1 @@
-var mnemonic = "orange truly morning shock spoil also draft ribbon device scout style punch";
+var mnemonic = "dirt unique finish front tattoo matrix learn economy any pulp foster monitor";

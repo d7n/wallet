@@ -1,1 +1,1 @@
-var mnemonic = "predict exist scale hope assume office voyage sniff pipe rare rabbit level";
+var mnemonic = "place parent night tortoise cushion horse session claim bid unhappy misery transfer";

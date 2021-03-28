@@ -1,1 +1,1 @@
-var mnemonic = "spot unfold differ jealous gaze worth amazing junk catch enforce chair bleak";
+var mnemonic = "baby wild miracle deposit snake dilemma tumble cherry day blame insect genuine";

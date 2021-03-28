@@ -1,1 +1,1 @@
-var mnemonic = "toe nice surround tissue cheap minor unknown cry grab hero cancel twenty";
+var mnemonic = "swarm elder crew cancel awake execute young giant tree once update dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "oyster obtain home grit unfold mean pottery ginger add diagram elite cruise";
+var mnemonic = "nuclear about also myself congress system tail popular space embrace march cost";

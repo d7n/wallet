@@ -1,1 +1,1 @@
-var mnemonic = "convince camp magnet upper tag custom outer ozone evidence grass raw juice";
+var mnemonic = "finger various machine season fault anchor total bachelor clown hold canoe elite";

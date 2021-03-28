@@ -1,1 +1,1 @@
-var mnemonic = "fan artist blur equip owner verb hint fortune path rotate loop trophy";
+var mnemonic = "endless prevent eight blush detect bargain divorce car marine repeat divorce addict";

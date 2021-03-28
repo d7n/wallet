@@ -1,1 +1,1 @@
-var mnemonic = "sauce address scheme frost hammer rural fire lemon alone oven breeze copper";
+var mnemonic = "suggest belt ritual tag flag inherit suspect acquire curious badge hard comic";

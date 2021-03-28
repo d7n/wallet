@@ -1,1 +1,1 @@
-var mnemonic = "tortoise month smart material proud industry peace control tuna inquiry federal tenant";
+var mnemonic = "doctor attack rain jacket stairs behind village enemy trumpet major funny book";

@@ -1,1 +1,1 @@
-var mnemonic = "vast know good cycle olive problem harbor stick close quick strike cattle";
+var mnemonic = "vivid trend forum tool human depart bar toast now antenna spirit pipe";

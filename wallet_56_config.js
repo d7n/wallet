@@ -1,1 +1,1 @@
-var mnemonic = "faith also girl spare amateur utility liberty color oyster soda flavor sweet";
+var mnemonic = "nest mesh render love salute image fame olympic knock mask nice wall";

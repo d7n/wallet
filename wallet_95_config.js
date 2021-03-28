@@ -1,1 +1,1 @@
-var mnemonic = "loop top salt mango help symbol jungle gap man matter remain lucky";
+var mnemonic = "turtle genius walnut certain remove extend youth angry pattern giant increase salute";

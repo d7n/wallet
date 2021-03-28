@@ -1,1 +1,1 @@
-var mnemonic = "model pink quality arrow much produce bike eager dice direct match sing";
+var mnemonic = "artefact soul occur winter rare hard surprise toast detail side test all";

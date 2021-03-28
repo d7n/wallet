@@ -1,1 +1,1 @@
-var mnemonic = "truth bus force catalog price follow sign indoor glove life steel tackle";
+var mnemonic = "raccoon bridge capital order often palm warrior fatal hen maid news soon";

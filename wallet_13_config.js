@@ -1,1 +1,1 @@
-var mnemonic = "start verb village nose venture recipe slot blush ice federal response visual";
+var mnemonic = "trade happy twist appear soft avocado flee gallery bag gasp acid rely";

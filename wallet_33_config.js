@@ -1,1 +1,1 @@
-var mnemonic = "draw seek text garment wood hunt either prefer resource doctor off gadget";
+var mnemonic = "keen tray hundred net energy amused net donkey rough border table provide";
