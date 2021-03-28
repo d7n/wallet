@@ -1,1 +1,1 @@
-var mnemonic = "brisk hen duty grant pig hazard bench rack asset matter sponsor defense";
+var mnemonic = "rescue face spatial toe pole retreat card lunar oil outer vessel science";

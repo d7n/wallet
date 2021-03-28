@@ -1,1 +1,1 @@
-var mnemonic = "balcony rabbit decide course style assist can lottery home rival bid february";
+var mnemonic = "glide pepper drift spend electric pepper urge body subject girl pact clay";

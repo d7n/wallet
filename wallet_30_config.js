@@ -1,1 +1,1 @@
-var mnemonic = "enough proud region notice carbon valid tomorrow february panel angle film problem";
+var mnemonic = "process morning either easy unhappy female soldier guilt vote lucky exercise shock";

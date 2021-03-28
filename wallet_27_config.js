@@ -1,1 +1,1 @@
-var mnemonic = "sell agent rent behave learn utility mammal scissors green glide divide later";
+var mnemonic = "wrong swamp mind inspire typical slow common leisure fence engine weather wood";

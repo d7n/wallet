@@ -1,1 +1,1 @@
-var mnemonic = "buffalo main delay wonder rug human exhibit shy super lounge armor rough";
+var mnemonic = "cereal destroy shine autumn seat garden ancient toilet orchard couch suffer crater";

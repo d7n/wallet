@@ -1,1 +1,1 @@
-var mnemonic = "certain loud amateur glow area skate brown popular own provide robust reject";
+var mnemonic = "type record rebel seminar pig design donkey session wait surface home say";

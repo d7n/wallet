@@ -1,1 +1,1 @@
-var mnemonic = "reflect blind address song decline wagon identify scout home ribbon net avoid";
+var mnemonic = "bring side salad spice connect panic barely multiply comfort tube capital two";

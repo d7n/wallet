@@ -1,1 +1,1 @@
-var mnemonic = "duck gather snake unlock walk sea fury valid wash scrub faculty bicycle";
+var mnemonic = "culture people surface afford way spoon spray escape forward laptop fossil foil";

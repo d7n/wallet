@@ -1,1 +1,1 @@
-var mnemonic = "bone afford sound copy frozen elder summer typical bracket nose monkey scheme";
+var mnemonic = "century zone nothing release dry oppose gadget asset match ball dash door";

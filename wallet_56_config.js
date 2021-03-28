@@ -1,1 +1,1 @@
-var mnemonic = "swamp dose gentle final pink round spider smooth solve bring define upon";
+var mnemonic = "remove stage legend just news swim crouch raccoon twenty sheriff slice armor";

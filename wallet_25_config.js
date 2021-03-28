@@ -1,1 +1,1 @@
-var mnemonic = "clock desk lyrics deer recall sand dynamic fall grain slender juice type";
+var mnemonic = "property virus wish trust present various relax ceiling such pulp fuel soup";

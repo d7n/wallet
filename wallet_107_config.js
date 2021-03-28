@@ -1,1 +1,1 @@
-var mnemonic = "stand wink seminar civil top wide champion unhappy expose riot bottom ginger";
+var mnemonic = "reopen castle seat film sudden slice wet caution earth angle believe ten";

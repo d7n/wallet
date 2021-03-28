@@ -1,1 +1,1 @@
-var mnemonic = "ship together present erosion marine tree casual aware crawl food snow fruit";
+var mnemonic = "worry pilot depend negative hunt auto good about banner auction grid drive";

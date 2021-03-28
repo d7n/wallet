@@ -1,1 +1,1 @@
-var mnemonic = "victory ahead rhythm solar scrub tissue legend waste news spirit addict place";
+var mnemonic = "auction finger icon derive warm slogan fame ethics clerk heavy control room";

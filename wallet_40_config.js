@@ -1,1 +1,1 @@
-var mnemonic = "remain flush any assault umbrella pole apple abstract analyst park strike raccoon";
+var mnemonic = "draw jacket reflect car employ pyramid syrup various rotate vivid purchase cycle";

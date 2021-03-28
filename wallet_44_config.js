@@ -1,1 +1,1 @@
-var mnemonic = "legend parade novel height bright ordinary target cage champion occur flash able";
+var mnemonic = "fantasy pause ancient pitch wet dwarf address strategy reject siren canvas want";

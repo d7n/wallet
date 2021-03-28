@@ -1,1 +1,1 @@
-var mnemonic = "erupt repeat penalty work about dentist view neutral leave term bitter immense";
+var mnemonic = "donkey twist happy humor actual joke dutch crucial pumpkin current cage month";

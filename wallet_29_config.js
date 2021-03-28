@@ -1,1 +1,1 @@
-var mnemonic = "small monitor bird drop edit analyst frown scissors board ordinary later nephew";
+var mnemonic = "main alcohol child ask fantasy primary limit country coffee lock pupil someone";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit pet elephant differ cloud slow submit image gadget oil still blossom";
+var mnemonic = "tide crash grape ripple one prize inside rail walk subject alone arrive";

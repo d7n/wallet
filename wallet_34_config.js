@@ -1,1 +1,1 @@
-var mnemonic = "stool shoulder grant obtain dad build produce prefer tunnel rescue abuse tool";
+var mnemonic = "cannon pony train pride kite resemble phrase ocean option tennis receive wool";

@@ -1,1 +1,1 @@
-var mnemonic = "save aerobic dumb dynamic flight album private dirt romance cannon movie boy";
+var mnemonic = "hobby near ball laundry ceiling essence spend flavor remind ghost trust custom";

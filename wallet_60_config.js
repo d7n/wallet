@@ -1,1 +1,1 @@
-var mnemonic = "shiver gather hungry alert doctor team cup test decorate toe luxury improve";
+var mnemonic = "another federal prosper camera ostrich taste vibrant taste word around wet human";

@@ -1,1 +1,1 @@
-var mnemonic = "join tennis track noise minimum cross usual mammal oblige scrap mirror area";
+var mnemonic = "jaguar later giggle foster genuine arm gain yellow spatial year mesh tornado";

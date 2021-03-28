@@ -1,1 +1,1 @@
-var mnemonic = "ticket clean alter faint soap source language jelly naive spring remind shoot";
+var mnemonic = "pulp flight course embark moment genuine purse doll oil dizzy mad city";

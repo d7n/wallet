@@ -1,1 +1,1 @@
-var mnemonic = "aerobic scene certain response large sunset slam october edit taxi idle coyote";
+var mnemonic = "shrimp gather arrange drip music bike admit trouble castle task owner outside";

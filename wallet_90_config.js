@@ -1,1 +1,1 @@
-var mnemonic = "crunch clip derive top laundry bundle torch spend drip menu similar sing";
+var mnemonic = "solid chimney divert tornado mandate creek switch mango giant company frequent mixed";

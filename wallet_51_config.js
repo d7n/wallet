@@ -1,1 +1,1 @@
-var mnemonic = "another snow annual nerve rocket exchange drill axis miracle nothing village fresh";
+var mnemonic = "miss tip dove dish unaware exhibit cry cigar nerve hero grid bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "crater shuffle begin ugly myself sadness grass index valve trust aunt rug";
+var mnemonic = "chest field slogan october giraffe normal purse bottom topic extend series flee";

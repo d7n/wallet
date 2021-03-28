@@ -1,1 +1,1 @@
-var mnemonic = "puppy garment answer green mix fault agree nuclear divide corn make kick";
+var mnemonic = "neutral release cherry visual reopen double chair crater pretty prevent floor taxi";

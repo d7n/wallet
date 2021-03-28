@@ -1,1 +1,1 @@
-var mnemonic = "say swift replace fan rabbit dash lonely ivory gloom move barely antenna";
+var mnemonic = "pistol clump salute thrive tackle unveil hunt bargain occur describe such tide";

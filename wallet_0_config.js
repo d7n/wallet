@@ -1,1 +1,1 @@
-var mnemonic = "typical horror youth copy plug trip scan sleep glance earth shrug suggest";
+var mnemonic = "devote expand spell cup spoil achieve worry host save quit hurt quality";

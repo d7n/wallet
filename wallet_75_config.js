@@ -1,1 +1,1 @@
-var mnemonic = "kite social payment mandate minute warm animal neglect walnut blush dolphin depart";
+var mnemonic = "company fan stock plastic uniform travel fuel tenant juice latin spice father";

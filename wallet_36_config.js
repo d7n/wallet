@@ -1,1 +1,1 @@
-var mnemonic = "dash grocery use type recall dance route gauge fragile slight census pencil";
+var mnemonic = "outer dignity cinnamon require utility stable wine coin essence fantasy assume still";

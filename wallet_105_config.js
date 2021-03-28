@@ -1,1 +1,1 @@
-var mnemonic = "swing poverty way kitten only fiber enter flame analyst tuition deposit husband";
+var mnemonic = "segment hedgehog security deposit evil secret index giant series letter escape resemble";

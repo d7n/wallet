@@ -1,1 +1,1 @@
-var mnemonic = "that scare when exhibit fuel permit render ability hamster field coil piece";
+var mnemonic = "obey source bridge wood tree divide novel describe welcome glove praise forget";

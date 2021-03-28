@@ -1,1 +1,1 @@
-var mnemonic = "bean hill trust crazy field sell word proof arrange harbor detect tragic";
+var mnemonic = "else devote size fame chat more shrimp helmet ticket page lunch sleep";

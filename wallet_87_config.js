@@ -1,1 +1,1 @@
-var mnemonic = "mobile abstract donor tobacco air aware hockey sight gain vacant reflect evidence";
+var mnemonic = "motion soda vocal course renew path crush super capital praise among rifle";

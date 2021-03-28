@@ -1,1 +1,1 @@
-var mnemonic = "vivid gospel artefact volcano subway portion uphold easily render siege flee rigid";
+var mnemonic = "scissors much bid connect enlist picnic scene wrong lottery act inmate extend";

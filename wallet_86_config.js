@@ -1,1 +1,1 @@
-var mnemonic = "nation trash subject nut boy kick build regret mushroom reduce hour veteran";
+var mnemonic = "pause income smooth urge dry half moment session biology tongue dad alone";

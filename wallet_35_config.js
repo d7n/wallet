@@ -1,1 +1,1 @@
-var mnemonic = "offer muffin denial lyrics when antenna open limit junior second theory small";
+var mnemonic = "process insect true execute asset outdoor brave giggle affair resource spin attitude";

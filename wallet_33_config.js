@@ -1,1 +1,1 @@
-var mnemonic = "north wrist accuse object machine bone avocado child eight excuse slow pony";
+var mnemonic = "level potato draw travel glove kid mesh arrow acquire skin razor plunge";

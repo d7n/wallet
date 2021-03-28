@@ -1,1 +1,1 @@
-var mnemonic = "fix issue pause doctor inhale rotate this icon unusual field lizard garage";
+var mnemonic = "myself mushroom warfare put reveal obscure infant motor husband climb element vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery slender wheel ticket chat art believe process reason fitness grocery clown";
+var mnemonic = "acquire relief panel squirrel bitter arena private act fee slight visual rough";

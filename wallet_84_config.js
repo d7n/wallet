@@ -1,1 +1,1 @@
-var mnemonic = "hollow chase mutual genuine female sign omit brand square start rice gap";
+var mnemonic = "box vague ill kite order marine wait estate aunt legal drama amused";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp permit busy ketchup relax kid run ecology ghost frog elephant silent";
+var mnemonic = "mango before speak home flame strong report merge employ satoshi profit before";

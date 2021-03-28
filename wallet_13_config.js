@@ -1,1 +1,1 @@
-var mnemonic = "stone teach gospel arena eagle syrup flag roast reduce fat wolf hurt";
+var mnemonic = "again chair cram display idle roast wink raccoon ginger glass news unveil";

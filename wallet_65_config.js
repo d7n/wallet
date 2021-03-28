@@ -1,1 +1,1 @@
-var mnemonic = "flag diary december unhappy shock useful stick useless inflict wedding deal cancel";
+var mnemonic = "orchard very august luggage beyond height frequent diesel enroll tragic such riot";

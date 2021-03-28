@@ -1,1 +1,1 @@
-var mnemonic = "news ball deer elbow search visual route snake glimpse harsh network mean";
+var mnemonic = "helmet cute piece measure nerve pilot young elder talent century surround observe";

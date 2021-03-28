@@ -1,1 +1,1 @@
-var mnemonic = "tenant zebra village aim start sell cute can nuclear name waste treat";
+var mnemonic = "nerve autumn praise bring genre wish tourist adjust burden today rather around";

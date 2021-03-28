@@ -1,1 +1,1 @@
-var mnemonic = "pass earth pole error moral clever venture select school jelly imitate final";
+var mnemonic = "hello list ripple impose twin bacon excuse skill extend envelope initial cheap";

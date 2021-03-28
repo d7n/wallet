@@ -1,1 +1,1 @@
-var mnemonic = "deposit sadness flower reform fetch cake prize fever nominee music sponsor guess";
+var mnemonic = "physical lunar diet taste initial gallery pass emerge invest price glad demand";

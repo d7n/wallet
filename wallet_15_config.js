@@ -1,1 +1,1 @@
-var mnemonic = "card camp leave tomorrow bleak any cherry basket work fade spring chase";
+var mnemonic = "crumble patrol mimic miss split add more require original spare page column";

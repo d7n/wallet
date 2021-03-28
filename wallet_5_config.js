@@ -1,1 +1,1 @@
-var mnemonic = "borrow lesson banana distance photo visa nephew direct comic dilemma salt divide";
+var mnemonic = "reject regret exclude laptop junior transfer acoustic excuse onion luggage grunt pistol";

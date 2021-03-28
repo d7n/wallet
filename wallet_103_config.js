@@ -1,1 +1,1 @@
-var mnemonic = "planet sight wine affair glue volcano illness train prosper tragic shine arm";
+var mnemonic = "bone device deposit country cannon more derive virtual balcony walnut genuine style";

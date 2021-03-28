@@ -1,1 +1,1 @@
-var mnemonic = "reward obey install razor vapor unaware wool anchor mirror chase era ozone";
+var mnemonic = "scissors sheriff owner dinner estate humble flag among bitter describe hockey legend";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt day phrase jacket rug tribe dinner brush joy damp odor emotion";
+var mnemonic = "auction cross cargo question swear meadow shine loop input faith clean shallow";

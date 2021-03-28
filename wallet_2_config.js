@@ -1,1 +1,1 @@
-var mnemonic = "powder train buzz raccoon start rug enlist distance vote bicycle behind mirror";
+var mnemonic = "salad coral exile alley about aisle system custom miss crater add limit";

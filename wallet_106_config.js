@@ -1,1 +1,1 @@
-var mnemonic = "enlist furnace cattle run reduce decorate chest door upon shuffle shed law";
+var mnemonic = "burger suffer indicate client inquiry fade name mansion prefer away mixture cake";

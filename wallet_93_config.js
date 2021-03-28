@@ -1,1 +1,1 @@
-var mnemonic = "cube notable wool lift journey scrub supply tower tuition into nothing brother";
+var mnemonic = "much hold decorate eternal evolve federal valley core increase piano popular soup";

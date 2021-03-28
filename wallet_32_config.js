@@ -1,1 +1,1 @@
-var mnemonic = "puppy misery casino wagon throw expect begin fiscal trigger uphold identify budget";
+var mnemonic = "discover route stay stuff bulk connect mother area jelly spy moral mind";

@@ -1,1 +1,1 @@
-var mnemonic = "misery total practice pattern shift ice embody display diary fame head another";
+var mnemonic = "series want direct indicate crew purity can rookie rubber visa crane equip";

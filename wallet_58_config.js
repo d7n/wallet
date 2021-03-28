@@ -1,1 +1,1 @@
-var mnemonic = "dizzy invest kangaroo degree swear void man damp now multiply ahead client";
+var mnemonic = "guitar journey roof snack dizzy know breeze bird trick live child phrase";

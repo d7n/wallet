@@ -1,1 +1,1 @@
-var mnemonic = "solid visual control strategy vocal race black hello act bind visa true";
+var mnemonic = "anxiety cliff wash vicious soap bread elder umbrella huge ostrich obscure weird";

@@ -1,1 +1,1 @@
-var mnemonic = "print panic crash vivid twenty cat decade answer cable interest praise category";
+var mnemonic = "enact profit typical bacon episode venture consider check you snap evil party";

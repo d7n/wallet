@@ -1,1 +1,1 @@
-var mnemonic = "pride guilt mistake crunch climb eager nation head just memory fiber human";
+var mnemonic = "equal february employ online artwork ski sniff ripple entry code spawn worry";

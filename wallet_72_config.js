@@ -1,1 +1,1 @@
-var mnemonic = "expand prepare save cabin slim ramp lizard arena slot path blush check";
+var mnemonic = "emerge leave supply they kitchen know hawk burger present wife resist sand";

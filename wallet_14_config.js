@@ -1,1 +1,1 @@
-var mnemonic = "swamp salt stereo nature motion sport foot polar news cluster jump core";
+var mnemonic = "place manage oven earth topple food love achieve turkey industry moral winner";

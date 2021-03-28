@@ -1,1 +1,1 @@
-var mnemonic = "once mountain industry paddle stool glide false start odor tool open van";
+var mnemonic = "return hungry oyster hat coach unaware notable call clog soap obey vessel";

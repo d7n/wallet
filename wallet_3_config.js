@@ -1,1 +1,1 @@
-var mnemonic = "ivory choice various harbor digital trust retreat fresh pen suffer lock wrap";
+var mnemonic = "sand exit collect laundry violin cricket ostrich scan say member urge lava";

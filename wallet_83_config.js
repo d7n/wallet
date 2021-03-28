@@ -1,1 +1,1 @@
-var mnemonic = "play morning mother middle betray decade glass antenna maple vast tissue rough";
+var mnemonic = "source voice copper rescue salute brisk gorilla album dentist cake clog truck";

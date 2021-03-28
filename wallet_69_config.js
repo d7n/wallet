@@ -1,1 +1,1 @@
-var mnemonic = "since despair remove spray noise taxi blush cart river other never step";
+var mnemonic = "buzz auction best spider sun orphan hunt dust wonder salad short warm";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme logic regular drama science tide sheriff staff face palace practice comfort";
+var mnemonic = "room blush hair stone hint equal mother hire evolve fresh license portion";

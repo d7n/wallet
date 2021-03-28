@@ -1,1 +1,1 @@
-var mnemonic = "suggest rescue episode market shadow chronic swing cloud poet size noble lecture";
+var mnemonic = "mix deposit abuse win century coffee finger recipe spread guilt era grit";

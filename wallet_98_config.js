@@ -1,1 +1,1 @@
-var mnemonic = "please cabin quantum tackle approve saddle boost lawsuit print morning lady rabbit";
+var mnemonic = "tag purpose time click warfare long sausage lesson father bachelor embark vote";

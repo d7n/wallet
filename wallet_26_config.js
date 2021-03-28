@@ -1,1 +1,1 @@
-var mnemonic = "current public thought clean occur apart nose mimic wolf month clay moment";
+var mnemonic = "lunar insect much roast stone able siege spread female unable distance identify";

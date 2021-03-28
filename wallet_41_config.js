@@ -1,1 +1,1 @@
-var mnemonic = "attack side one despair arch slab vocal imitate gasp aspect tray arrow";
+var mnemonic = "pause try civil wish inner grow toe quarter laugh badge become hard";

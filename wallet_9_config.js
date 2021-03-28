@@ -1,1 +1,1 @@
-var mnemonic = "rice depart media cash scene island friend foot always test file engine";
+var mnemonic = "artefact feature render cry enrich want bullet shift scheme find tuition wealth";

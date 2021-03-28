@@ -1,1 +1,1 @@
-var mnemonic = "great case jeans alone original average chef wheat journey advice neglect nominee";
+var mnemonic = "bachelor wait library orphan blur holiday correct happy charge indicate elegant input";

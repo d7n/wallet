@@ -1,1 +1,1 @@
-var mnemonic = "orphan fantasy obvious social just permit funny actual embrace exhaust drum pitch";
+var mnemonic = "enroll much web soup forget crumble extra rent pause twist quality sun";

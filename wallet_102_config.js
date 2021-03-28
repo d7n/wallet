@@ -1,1 +1,1 @@
-var mnemonic = "exit dance thought pottery country enact around believe alone love piano cabbage";
+var mnemonic = "aisle jewel note regular stuff reward ride approve math peanut faculty pitch";

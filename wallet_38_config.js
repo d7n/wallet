@@ -1,1 +1,1 @@
-var mnemonic = "laptop hint home sick crew visa lend goose exercise spread tattoo execute";
+var mnemonic = "tiny wolf amazing glow apple smile near spell embody salon follow dolphin";

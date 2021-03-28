@@ -1,1 +1,1 @@
-var mnemonic = "please one thumb brief goddess kiwi draw secret huge state auction soccer";
+var mnemonic = "all title dawn grow gaze conduct nice stuff depart office method aim";

@@ -1,1 +1,1 @@
-var mnemonic = "curious suggest pet style glass thumb deputy race peace tooth lake cradle";
+var mnemonic = "silly poem test unlock bamboo source accident drive guitar blush rude enroll";

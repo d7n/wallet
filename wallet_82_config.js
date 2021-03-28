@@ -1,1 +1,1 @@
-var mnemonic = "obscure blush arch green tip owner sting allow lonely away process atom";
+var mnemonic = "fossil emotion exercise toward ship fossil visit knee avoid illegal tree crazy";

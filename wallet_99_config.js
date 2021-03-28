@@ -1,1 +1,1 @@
-var mnemonic = "devote assume balcony bleak swift mixture soap stairs neither remember stamp earn";
+var mnemonic = "easy worry segment loan congress second correct happy grab jacket olive differ";

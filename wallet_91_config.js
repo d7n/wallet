@@ -1,1 +1,1 @@
-var mnemonic = "credit glove slush rural then outer unit smoke permit town side giant";
+var mnemonic = "stable mammal position toy social chicken plunge chicken tortoise rug rare damage";

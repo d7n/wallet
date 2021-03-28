@@ -1,1 +1,1 @@
-var mnemonic = "remain language history slot giraffe dial awesome energy camp just couch cabbage";
+var mnemonic = "breeze noise relief hub help claim awkward bonus bracket cute crunch corn";

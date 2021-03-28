@@ -1,1 +1,1 @@
-var mnemonic = "type father proud body movie shift assist census liar bulk disease subject";
+var mnemonic = "color impact retire agent curtain foil local lounge remember ostrich worth bulk";

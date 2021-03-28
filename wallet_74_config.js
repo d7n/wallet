@@ -1,1 +1,1 @@
-var mnemonic = "shove lion exotic lab caught shoe multiply liberty dance gallery ghost escape";
+var mnemonic = "animal venue flee sad follow scrap nice wet dial cage diesel pony";

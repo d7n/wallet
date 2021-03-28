@@ -1,1 +1,1 @@
-var mnemonic = "useless stumble always travel shrug bike chase camp shield mystery evoke cage";
+var mnemonic = "genuine belt token wish crumble there warm inspire smart sausage situate online";

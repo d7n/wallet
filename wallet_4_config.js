@@ -1,1 +1,1 @@
-var mnemonic = "select spell section utility pepper oak page edit nice grace girl kid";
+var mnemonic = "height deer mind garden spice service effort style type smoke acquire enhance";

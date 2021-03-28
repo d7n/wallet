@@ -1,1 +1,1 @@
-var mnemonic = "now cake regular pole other leopard ring ladder wait garage february bind";
+var mnemonic = "sauce collect catch income amateur flash urge aspect cause nurse math bench";

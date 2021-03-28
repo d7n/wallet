@@ -1,1 +1,1 @@
-var mnemonic = "ostrich promote person embrace they enrich bullet surface lava math engine sort";
+var mnemonic = "muffin vendor demise arm fabric clay firm mean add model hurdle gospel";

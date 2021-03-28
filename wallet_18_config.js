@@ -1,1 +1,1 @@
-var mnemonic = "guess animal boring coyote olympic adapt sign extra bind inhale have afraid";
+var mnemonic = "absurd dutch novel child fury direct robust change disorder indoor smoke acid";
