@@ -1,1 +1,1 @@
-var mnemonic = "brief romance arrest question series nice doll stand jelly pencil luxury cool";
+var mnemonic = "coil power best cash beauty top inherit scorpion lumber awful phrase sudden";

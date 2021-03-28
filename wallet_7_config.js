@@ -1,1 +1,1 @@
-var mnemonic = "few toe volcano position parade kidney cart shy leave trial refuse pyramid";
+var mnemonic = "setup occur shrimp penalty pill retire idea measure feature topic early end";

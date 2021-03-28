@@ -1,1 +1,1 @@
-var mnemonic = "butter column captain elder super lamp humble trap creek gym satisfy crush";
+var mnemonic = "purchase viable immune proud anxiety ginger mixed shop truly since miracle salad";

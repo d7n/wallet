@@ -1,1 +1,1 @@
-var mnemonic = "gun vacuum price inside burst endorse pill idle cereal slush history few";
+var mnemonic = "drama nest wife what lake author rebuild vehicle trophy logic menu save";

@@ -1,1 +1,1 @@
-var mnemonic = "clock tomorrow where language castle smart scare pet demand mixed face regret";
+var mnemonic = "series glimpse matrix tenant shock cannon digital federal peanut multiply sense sheriff";

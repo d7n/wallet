@@ -1,1 +1,1 @@
-var mnemonic = "cotton edge parent immense link normal trash gas borrow expire install dose";
+var mnemonic = "flush myself clerk talent effort segment huge ancient clever broccoli scrub load";

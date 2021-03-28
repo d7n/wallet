@@ -1,1 +1,1 @@
-var mnemonic = "target danger earn wool winter exotic cool invest unit layer tray jeans";
+var mnemonic = "echo disagree champion cement panther mother caught cycle shock nominee display indicate";

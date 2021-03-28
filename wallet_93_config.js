@@ -1,1 +1,1 @@
-var mnemonic = "olympic silk round surge behind grief fever giant lady melt crisp goat";
+var mnemonic = "drum glass smooth select degree swim obvious prepare whisper stool trouble swap";

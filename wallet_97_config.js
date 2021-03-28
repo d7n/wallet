@@ -1,1 +1,1 @@
-var mnemonic = "parent expect make noodle hip deliver choose trap cute salad egg tomorrow";
+var mnemonic = "detect try shaft gift belt journey drip crater nerve prepare bamboo obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "rose sword east between call equip firm purse offer fossil popular option";
+var mnemonic = "supply extra believe day grass reflect another umbrella myth frozen gown ten";

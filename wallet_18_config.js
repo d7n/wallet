@@ -1,1 +1,1 @@
-var mnemonic = "exist promote city entry half alpha loan choice escape diamond arrow clap";
+var mnemonic = "lecture attitude before uniform pencil minute outer old cousin autumn collect pond";

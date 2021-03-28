@@ -1,1 +1,1 @@
-var mnemonic = "exclude save hire mechanic flower busy frequent blast safe where pottery make";
+var mnemonic = "pluck indoor version country address sea guilt auction dial crouch expire loop";

@@ -1,1 +1,1 @@
-var mnemonic = "able now always glad ostrich pond dad furnace gallery motor hazard suffer";
+var mnemonic = "unique agree shrimp female original client humble rib animal oblige report stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "discover stage flame pepper canal blue topic enroll resist critic kitchen topple";
+var mnemonic = "spy debris flock eager object motion lazy true spoil behind crime region";

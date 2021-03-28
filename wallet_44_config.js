@@ -1,1 +1,1 @@
-var mnemonic = "egg dish bag proud tourist end voice tiny play gesture define bachelor";
+var mnemonic = "nerve bottom marble exhaust choose where inner cousin judge disease invite film";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber cinnamon vacuum achieve flat dizzy smoke mix garment gravity metal strike";
+var mnemonic = "modify hat tortoise mushroom move urban broccoli color price cat gospel used";

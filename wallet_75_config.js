@@ -1,1 +1,1 @@
-var mnemonic = "avocado danger shrug soon prepare table hard mean spin display lunch squirrel";
+var mnemonic = "ancient inhale animal drip pass witness metal elder below elegant brand phrase";

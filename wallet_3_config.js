@@ -1,1 +1,1 @@
-var mnemonic = "cave hunt hair menu north tired cabbage sort hair disease tag riot";
+var mnemonic = "announce music weasel tide one knee fringe long settle interest advance time";

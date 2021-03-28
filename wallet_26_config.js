@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog unaware pull party praise motor deputy midnight chunk cotton join boost";
+var mnemonic = "artwork slam bike bone enemy impact garlic accident tuna shuffle gauge catch";

@@ -1,1 +1,1 @@
-var mnemonic = "rally race cave glad famous foot amused favorite gift august smooth fetch";
+var mnemonic = "photo large lonely accident viable butter canal lecture mask cake bone coach";

@@ -1,1 +1,1 @@
-var mnemonic = "acid renew erupt enroll unusual message wing involve net mutual sort grain";
+var mnemonic = "three person cream kingdom win outer apart lecture elegant purchase siege crew";

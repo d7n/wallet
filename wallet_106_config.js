@@ -1,1 +1,1 @@
-var mnemonic = "bicycle photo city course stone seat mad transfer cabbage radio scare steak";
+var mnemonic = "salmon capital humble view swear anxiety monkey lion flash scissors million illness";

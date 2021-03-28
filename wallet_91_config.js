@@ -1,1 +1,1 @@
-var mnemonic = "treat inflict miracle elder benefit father prevent become foil false defense clerk";
+var mnemonic = "beach gasp pigeon orchard curve modify success raw vacant sudden guard clean";

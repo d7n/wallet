@@ -1,1 +1,1 @@
-var mnemonic = "force amateur balcony dynamic congress famous pumpkin primary express panic scare welcome";
+var mnemonic = "talent loan comfort buzz shed loyal drip buffalo young betray album fall";

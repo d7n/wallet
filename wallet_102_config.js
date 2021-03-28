@@ -1,1 +1,1 @@
-var mnemonic = "bounce switch voyage bomb fall destroy account giggle ranch innocent divorce control";
+var mnemonic = "parrot witness essay label glimpse people dizzy october frequent round load tape";

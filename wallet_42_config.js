@@ -1,1 +1,1 @@
-var mnemonic = "giant ability puzzle wood make fit vague library muscle floor term crane";
+var mnemonic = "come salad grunt trial vacant rail broken oak into educate modify elephant";

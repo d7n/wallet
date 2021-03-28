@@ -1,1 +1,1 @@
-var mnemonic = "best pistol panic record fox false mutual diamond glide industry weapon year";
+var mnemonic = "idea blame blossom notice key drink figure blast hunt wise ritual mom";

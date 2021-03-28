@@ -1,1 +1,1 @@
-var mnemonic = "birth lottery hurdle trim state budget search resist exist negative clip sick";
+var mnemonic = "cheese hub endorse fog zebra ozone wire extra seat derive damage easily";

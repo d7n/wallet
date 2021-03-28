@@ -1,1 +1,1 @@
-var mnemonic = "anxiety rule solar festival brain certain device cabbage there vanish vacant hammer";
+var mnemonic = "adapt code taste injury wait monitor rude kit nice nasty piece guard";

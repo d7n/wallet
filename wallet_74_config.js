@@ -1,1 +1,1 @@
-var mnemonic = "fruit loan scrub trophy reform intact merit awful clerk clutch eyebrow vague";
+var mnemonic = "million estate access crush paper muscle cover improve exclude inflict mad warfare";

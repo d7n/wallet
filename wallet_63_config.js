@@ -1,1 +1,1 @@
-var mnemonic = "shiver blur note smoke saddle alone chimney chest fabric awkward seek old";
+var mnemonic = "brush choose midnight sun popular ill become quit steel air pluck expire";

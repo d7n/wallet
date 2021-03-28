@@ -1,1 +1,1 @@
-var mnemonic = "rate bulk invite island traffic noodle earn creek kitten cheese regular talent";
+var mnemonic = "dune reward fade impact hour noble twist talent sugar palace dust hire";

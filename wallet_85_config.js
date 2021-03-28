@@ -1,1 +1,1 @@
-var mnemonic = "follow describe genius critic hip hawk solve gospel know alone toast this";
+var mnemonic = "whisper two water hello abstract pipe become burden trim among viable expand";

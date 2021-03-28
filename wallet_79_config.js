@@ -1,1 +1,1 @@
-var mnemonic = "witness spike program raw sound disorder sudden image skate olive journey stool";
+var mnemonic = "rapid element control soul begin thing maze call blade glare peace task";

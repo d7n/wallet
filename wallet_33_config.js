@@ -1,1 +1,1 @@
-var mnemonic = "album park barely festival other oven donor noble burger actual coffee false";
+var mnemonic = "tree kiwi slab snake right leader refuse scrap stomach arena struggle slim";

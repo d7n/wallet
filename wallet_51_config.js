@@ -1,1 +1,1 @@
-var mnemonic = "grass horn mechanic logic wise shaft genius awkward appear cabin federal mistake";
+var mnemonic = "reflect flash rate melody daring glory puppy diary coconut polar intact pact";

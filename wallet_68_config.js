@@ -1,1 +1,1 @@
-var mnemonic = "boring like ocean palace faculty wave tail swear inject note skin drill";
+var mnemonic = "naive repeat amateur movie thing phone agent dial abandon baby combine lemon";

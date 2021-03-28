@@ -1,1 +1,1 @@
-var mnemonic = "eager penalty asthma title dawn hair puppy exercise knife sorry give panic";
+var mnemonic = "divide foster catalog keen robust flat light supply ladder success merge dismiss";

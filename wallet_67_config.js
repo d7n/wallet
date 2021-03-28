@@ -1,1 +1,1 @@
-var mnemonic = "hint wear recipe pave stamp maid behind slow film finish now place";
+var mnemonic = "vocal analyst zoo team method window master divide swap squirrel sell laugh";

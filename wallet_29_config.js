@@ -1,1 +1,1 @@
-var mnemonic = "raccoon unknown soap term monkey custom dash wrestle vendor crystal chapter legal";
+var mnemonic = "chef clog iron edge armed relief just immune faith cream current syrup";

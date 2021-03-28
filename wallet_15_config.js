@@ -1,1 +1,1 @@
-var mnemonic = "load cannon cliff easily duty extend hospital mix okay glare rebel blade";
+var mnemonic = "subway minor icon try little scan state rough drum box fee gasp";

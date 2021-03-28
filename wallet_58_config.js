@@ -1,1 +1,1 @@
-var mnemonic = "spell elder dune maple oppose quantum evidence upper just point visa meat";
+var mnemonic = "among diesel people razor quantum chat extra cheap forest topple answer tube";

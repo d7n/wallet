@@ -1,1 +1,1 @@
-var mnemonic = "valve spice energy female symptom cabin half mango smooth federal loan manual";
+var mnemonic = "second ball cluster enroll fun office dwarf spread road lottery reflect task";

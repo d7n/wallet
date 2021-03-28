@@ -1,1 +1,1 @@
-var mnemonic = "usual present neck rain bonus cheap swamp orphan eye ostrich spend invite";
+var mnemonic = "maid snack swamp since stomach top cupboard liar harvest own liberty mention";

@@ -1,1 +1,1 @@
-var mnemonic = "liar swap unfold refuse quote twenty reveal provide satisfy shy craft lunar";
+var mnemonic = "firm add ozone weird eight reform wagon surface become bag dwarf cable";

@@ -1,1 +1,1 @@
-var mnemonic = "brass bottom ranch kingdom pioneer coin occur nuclear damp laugh turn reflect";
+var mnemonic = "master frame shoe shaft window embrace hawk often replace retreat rude margin";

@@ -1,1 +1,1 @@
-var mnemonic = "object decrease depend power slab basic expose tackle onion butter rule chicken";
+var mnemonic = "skin trend average domain clown curious they doctor broccoli during oval evoke";

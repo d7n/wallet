@@ -1,1 +1,1 @@
-var mnemonic = "behave blanket throw casino record laugh blade hole where fault sudden indoor";
+var mnemonic = "similar erupt bubble disorder balcony wealth build chest school assault person dumb";

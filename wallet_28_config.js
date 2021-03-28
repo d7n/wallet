@@ -1,1 +1,1 @@
-var mnemonic = "dawn salad knock life swim sweet explain spy future leopard acoustic across";
+var mnemonic = "sad table wish pet fine one mean squirrel stereo artefact trust absent";

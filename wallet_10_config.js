@@ -1,1 +1,1 @@
-var mnemonic = "daughter gown ignore owner final vote south build flush feature rug brother";
+var mnemonic = "wedding short seek thank resource search broken swap retire truly flip hire";

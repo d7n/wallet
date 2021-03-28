@@ -1,1 +1,1 @@
-var mnemonic = "bracket lawn bike cloud long endless asthma inch ship student salt olympic";
+var mnemonic = "craft wash capable lonely example repeat combine season middle recycle gallery laundry";

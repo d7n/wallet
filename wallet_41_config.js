@@ -1,1 +1,1 @@
-var mnemonic = "wear start forward visit cook seven imitate lounge action resemble resource toast";
+var mnemonic = "snap horror mosquito little bring general water sniff verify bitter eternal bring";

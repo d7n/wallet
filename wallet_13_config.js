@@ -1,1 +1,1 @@
-var mnemonic = "bench quote modify pig power raven bus negative tide theme wisdom mushroom";
+var mnemonic = "ginger credit beauty fuel vast tornado clay chef treat spawn exact cheap";

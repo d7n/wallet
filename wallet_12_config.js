@@ -1,1 +1,1 @@
-var mnemonic = "donkey edge trim valve gather ceiling crane early soccer brisk hold pass";
+var mnemonic = "van virtual mix derive endless network smile speed question orient crew abandon";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle robust bright wink invest gospel glass corn pass sign theme diet";
+var mnemonic = "convince loud holiday person sugar dry liar antique lady keep brother receive";

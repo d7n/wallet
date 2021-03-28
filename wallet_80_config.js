@@ -1,1 +1,1 @@
-var mnemonic = "circle install kid sun ship culture dizzy praise merge daughter addict ice";
+var mnemonic = "rocket piano hill sure resist burden despair undo large plastic position economy";

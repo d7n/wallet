@@ -1,1 +1,1 @@
-var mnemonic = "cradle asthma mandate until spring coin nephew dismiss kit wolf outside obscure";
+var mnemonic = "prize card lesson learn tissue deliver inner hamster shiver cinnamon spread lesson";

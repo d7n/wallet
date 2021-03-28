@@ -1,1 +1,1 @@
-var mnemonic = "almost foster winner trend wheat moment boss dragon total bitter usual fall";
+var mnemonic = "trap result razor window eight grace file relax service topic ceiling series";

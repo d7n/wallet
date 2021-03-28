@@ -1,1 +1,1 @@
-var mnemonic = "supply vacant simple gas winter good clip cake worry million twin often";
+var mnemonic = "ritual jeans trumpet mother orchard trade ribbon ask water border hamster marble";

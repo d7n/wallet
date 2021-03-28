@@ -1,1 +1,1 @@
-var mnemonic = "sense inner panda blossom bag main rather mother shock street amused marble";
+var mnemonic = "parent police toy cheese error ladder never wish habit south body hazard";

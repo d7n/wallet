@@ -1,1 +1,1 @@
-var mnemonic = "wreck spirit vague spin attract marine mobile author place design absorb wise";
+var mnemonic = "castle lazy measure lizard symbol answer bicycle brain clip blue history fog";

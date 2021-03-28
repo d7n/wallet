@@ -1,1 +1,1 @@
-var mnemonic = "ordinary broken clutch suggest company oxygen cloud unable ordinary scan glimpse fruit";
+var mnemonic = "mobile quit imitate talk people scorpion supply already race high hamster copper";

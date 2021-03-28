@@ -1,1 +1,1 @@
-var mnemonic = "radar fence virtual exclude cannon draft scrub math energy cabin salon harbor";
+var mnemonic = "hidden half crash chronic ripple addict wrist culture coin network improve february";

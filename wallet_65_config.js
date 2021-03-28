@@ -1,1 +1,1 @@
-var mnemonic = "mix seat uniform gasp vessel rule shock profit pepper turkey huge say";
+var mnemonic = "vote talk country range act asset head assault pulp pioneer special issue";

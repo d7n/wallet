@@ -1,1 +1,1 @@
-var mnemonic = "already theory moon rotate dynamic gorilla various assault warfare wet family draw";
+var mnemonic = "attract fault napkin mosquito stick fine general evolve park case early erosion";

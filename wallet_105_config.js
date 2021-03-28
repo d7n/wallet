@@ -1,1 +1,1 @@
-var mnemonic = "table friend supreme badge old estate trumpet power upset slot horror media";
+var mnemonic = "add erupt inch access angry dinosaur charge miss lawsuit legal owner hammer";

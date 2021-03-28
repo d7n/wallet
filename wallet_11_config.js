@@ -1,1 +1,1 @@
-var mnemonic = "foil shock stem exercise panther rigid beauty clog problem poet slam utility";
+var mnemonic = "wing minute exchange stool crater weird spike delay expand retire rubber wide";

@@ -1,1 +1,1 @@
-var mnemonic = "twist beef happy soap tunnel arch chapter flame iron cheap jazz north";
+var mnemonic = "noodle mean cause mention slow tone sleep hundred napkin lobster travel cause";

@@ -1,1 +1,1 @@
-var mnemonic = "indicate label goat acid snake shrimp knee brother expect frame rent awful";
+var mnemonic = "yard bind story slide frequent pen allow mass obey friend exist elder";

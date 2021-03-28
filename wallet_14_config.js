@@ -1,1 +1,1 @@
-var mnemonic = "idea deal lottery become midnight buffalo august oak unknown scan cause like";
+var mnemonic = "diamond false client injury any prefer abstract shy remind heart horse between";

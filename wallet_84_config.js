@@ -1,1 +1,1 @@
-var mnemonic = "utility limit airport allow filter brass dance gallery over antenna olympic key";
+var mnemonic = "define relax neck table foam scan shy govern soft foam clock bounce";

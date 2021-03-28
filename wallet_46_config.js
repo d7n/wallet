@@ -1,1 +1,1 @@
-var mnemonic = "filter abuse surprise comfort special kiss soldier comic glue possible inch rib";
+var mnemonic = "slush window expire misery end vessel local moment join hedgehog chicken produce";

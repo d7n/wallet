@@ -1,1 +1,1 @@
-var mnemonic = "exchange grass soon coral task depend card observe orphan minimum riot rough";
+var mnemonic = "vicious large scale pudding banana endless coil myself canoe sadness garden scheme";

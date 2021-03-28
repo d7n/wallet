@@ -1,1 +1,1 @@
-var mnemonic = "school tag hurt breeze kid recycle flat pumpkin fossil answer favorite allow";
+var mnemonic = "dream lonely museum bonus fatigue verb note language puzzle high fold advance";

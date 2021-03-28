@@ -1,1 +1,1 @@
-var mnemonic = "armed wedding once drip saddle smooth market voice notable almost aware mind";
+var mnemonic = "adjust spare marine glide about royal hour scan rib control crash dilemma";

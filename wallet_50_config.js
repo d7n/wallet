@@ -1,1 +1,1 @@
-var mnemonic = "govern prefer carbon subway convince solar treat key novel search almost body";
+var mnemonic = "crucial hour hole media obey radio alter bid season vocal such skirt";

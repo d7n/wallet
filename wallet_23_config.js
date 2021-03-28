@@ -1,1 +1,1 @@
-var mnemonic = "primary green fade sponsor wreck subject battle square screen defy march number";
+var mnemonic = "room genius enhance key mix math scale voyage else frequent arch deliver";

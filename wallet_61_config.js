@@ -1,1 +1,1 @@
-var mnemonic = "sheriff crash ignore average include novel buyer either step leaf hand again";
+var mnemonic = "biology garden kitten april ritual ski soup click act tumble sea wage";

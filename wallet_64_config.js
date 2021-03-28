@@ -1,1 +1,1 @@
-var mnemonic = "mushroom barely success develop blade pupil change mandate cheap good chat adapt";
+var mnemonic = "uphold nasty discover document ethics employ pioneer mimic toddler infant garbage roast";

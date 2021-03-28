@@ -1,1 +1,1 @@
-var mnemonic = "absurd enroll hen winner senior high addict pretty endless resist bike rare";
+var mnemonic = "garden day salute evoke siege cherry good order region voyage river move";

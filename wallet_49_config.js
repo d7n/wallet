@@ -1,1 +1,1 @@
-var mnemonic = "update short announce useful harvest floor borrow must mean tumble north toilet";
+var mnemonic = "scorpion small cereal ride tree certain genuine boil ridge indoor left moon";

@@ -1,1 +1,1 @@
-var mnemonic = "range garlic poverty spend taste news until citizen magic light virtual hospital";
+var mnemonic = "slush raw cushion churn vague insane call above can prepare mountain scrub";

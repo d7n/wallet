@@ -1,1 +1,1 @@
-var mnemonic = "guitar rural mouse replace shock hybrid grief dumb scatter math file initial";
+var mnemonic = "kitchen pear dutch sock mixture gauge timber shuffle kick permit cliff peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain mother usual during maze web rigid cargo water below rare level";
+var mnemonic = "trouble harbor capital stairs say ship over orphan throw mixed mean vendor";
