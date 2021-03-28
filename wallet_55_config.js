@@ -1,1 +1,1 @@
-var mnemonic = "axis immense stay venture engine frost fire hair initial spray thank water";
+var mnemonic = "scissors oil video mansion valve shoot hedgehog catch need bundle expire wait";

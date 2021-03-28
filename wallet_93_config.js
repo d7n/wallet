@@ -1,1 +1,1 @@
-var mnemonic = "state spoil exhaust amount maze wrap repair window angry jaguar build ready";
+var mnemonic = "whale blind spray topic metal position fall wink position cargo boss tuition";

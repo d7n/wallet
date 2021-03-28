@@ -1,1 +1,1 @@
-var mnemonic = "glass device retire park estate tongue gasp dash portion abuse hammer rough";
+var mnemonic = "weekend enrich journey health turtle pond frequent exist busy promote penalty cluster";

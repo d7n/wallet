@@ -1,1 +1,1 @@
-var mnemonic = "must grain memory element neither symbol turn empower build rib club subway";
+var mnemonic = "element provide spoil raven rhythm meat what stool vacant mail bargain rib";

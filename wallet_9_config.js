@@ -1,1 +1,1 @@
-var mnemonic = "warrior august gold swarm novel dismiss rookie syrup clap open horse blade";
+var mnemonic = "surprise enlist bacon essence cinnamon mansion rule parrot disorder affair slush matter";

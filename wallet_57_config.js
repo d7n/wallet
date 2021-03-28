@@ -1,1 +1,1 @@
-var mnemonic = "glass muffin keep disorder absurd same pink indicate increase kid awake october";
+var mnemonic = "squirrel news trophy nurse volume frog soul empty burden light tone domain";

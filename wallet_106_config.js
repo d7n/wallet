@@ -1,1 +1,1 @@
-var mnemonic = "infant divide indoor job supreme auction amateur hobby breeze lend explain gauge";
+var mnemonic = "crack cable sail faith combine fringe lens giraffe tornado pull dry elbow";

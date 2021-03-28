@@ -1,1 +1,1 @@
-var mnemonic = "produce there render buyer riot moon possible test clarify elite bike pottery";
+var mnemonic = "battle april fly slide kidney depart stumble gather phrase dove critic snow";

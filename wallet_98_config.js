@@ -1,1 +1,1 @@
-var mnemonic = "midnight adult castle suffer cinnamon wire rough logic umbrella unable repair symbol";
+var mnemonic = "holiday casual wasp interest shine pass also slender pudding source utility stairs";

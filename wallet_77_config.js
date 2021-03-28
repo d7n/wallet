@@ -1,1 +1,1 @@
-var mnemonic = "annual kid save rally mail buzz bracket asthma setup boss tonight kangaroo";
+var mnemonic = "author gauge entire approve vital mushroom wood picnic fresh orient rail bright";

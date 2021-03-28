@@ -1,1 +1,1 @@
-var mnemonic = "oxygen demand property wheel skill ice argue rival giggle evil soap window";
+var mnemonic = "light toward rug exhaust club motion ugly whale memory fresh mule favorite";

@@ -1,1 +1,1 @@
-var mnemonic = "insect visual become raise proud amateur squeeze major flower suffer tunnel ask";
+var mnemonic = "job gauge dumb dwarf found polar depth clap drive bachelor toast pioneer";

@@ -1,1 +1,1 @@
-var mnemonic = "diesel length change kiss uncover oxygen property actress photo transfer file humor";
+var mnemonic = "behind put claw evolve frost finger winter alcohol smile thumb list metal";

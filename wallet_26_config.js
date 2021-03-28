@@ -1,1 +1,1 @@
-var mnemonic = "salute defense woman legal ride bamboo fee beef security chuckle monkey smile";
+var mnemonic = "fluid power tourist foil vibrant between guide kid peace asthma penalty awake";

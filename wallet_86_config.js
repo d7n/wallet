@@ -1,1 +1,1 @@
-var mnemonic = "adjust audit cost column machine poverty regular oppose become rare finish orbit";
+var mnemonic = "practice already champion hotel helmet dove float ice coffee episode wheel recall";

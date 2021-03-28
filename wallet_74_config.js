@@ -1,1 +1,1 @@
-var mnemonic = "same satisfy roast zero view earn foot model route market december author";
+var mnemonic = "blast ski dream border mobile tragic world tired awake horse bomb clap";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage talent net pudding together ripple nurse bus office old swallow front";
+var mnemonic = "thought expand castle spoon topple security chaos apart legal chuckle below best";

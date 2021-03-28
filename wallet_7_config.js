@@ -1,1 +1,1 @@
-var mnemonic = "shield photo emerge merry battle genius young suspect swear fresh elder lazy";
+var mnemonic = "toy flip edit craft cave visit nephew scorpion call dizzy physical chalk";

@@ -1,1 +1,1 @@
-var mnemonic = "over salt camp design weapon future source document puzzle dragon cause tourist";
+var mnemonic = "pulse organ lecture accuse team skull radio talent coyote cement fluid entry";

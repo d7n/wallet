@@ -1,1 +1,1 @@
-var mnemonic = "method catalog risk rare aspect accident tent genre wool tool erase universe";
+var mnemonic = "cradle inflict stage sound clinic orphan zone beyond series genre describe gossip";

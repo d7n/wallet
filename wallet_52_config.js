@@ -1,1 +1,1 @@
-var mnemonic = "version viable ketchup grit dress nurse crop stick dilemma tongue discover differ";
+var mnemonic = "often dolphin rescue gym omit under wing appear plastic mistake ignore crush";

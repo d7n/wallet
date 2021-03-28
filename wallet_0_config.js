@@ -1,1 +1,1 @@
-var mnemonic = "course brief question bridge lend horn body obscure acquire build drill main";
+var mnemonic = "coffee tooth neither start hover tomato reduce deny photo park rather sick";

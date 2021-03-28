@@ -1,1 +1,1 @@
-var mnemonic = "load midnight train wolf peanut base town double demand youth okay park";
+var mnemonic = "better plastic plug degree dish powder stadium fancy surround spray describe music";

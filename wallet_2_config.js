@@ -1,1 +1,1 @@
-var mnemonic = "frog motion myth amount crash awkward display venture fog violin author assault";
+var mnemonic = "advance arrive ill service typical please describe swim gym velvet client economy";

@@ -1,1 +1,1 @@
-var mnemonic = "fun utility timber assault zero flame point among brisk foil live blood";
+var mnemonic = "crowd picnic attract blush split scheme ethics ozone flip wash few skill";

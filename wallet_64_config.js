@@ -1,1 +1,1 @@
-var mnemonic = "manual scale nasty omit destroy pepper short drastic ordinary sad spider seat";
+var mnemonic = "describe enemy time tribe dizzy canyon regular input quit spawn hire guard";

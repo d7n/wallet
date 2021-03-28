@@ -1,1 +1,1 @@
-var mnemonic = "poet fat attitude where time hurry cause soup keen odor broom snake";
+var mnemonic = "custom turn unhappy view long grow gift penalty hard there oxygen clog";

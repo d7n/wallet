@@ -1,1 +1,1 @@
-var mnemonic = "night mesh impulse noodle column approve sauce shy rack celery aim fortune";
+var mnemonic = "license alter banana quick lazy price tonight answer royal control egg rather";

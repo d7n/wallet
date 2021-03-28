@@ -1,1 +1,1 @@
-var mnemonic = "honey plug hundred local bind eyebrow rifle teach paper pipe hood volume";
+var mnemonic = "recipe pool voyage marriage clean alone roof series smoke submit invite addict";

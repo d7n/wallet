@@ -1,1 +1,1 @@
-var mnemonic = "sentence lesson never bounce tattoo aerobic erase canoe evoke range prosper express";
+var mnemonic = "green inquiry clump bridge two jealous fun wood buddy margin hurry between";

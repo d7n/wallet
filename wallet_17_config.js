@@ -1,1 +1,1 @@
-var mnemonic = "flag sponsor kind assist foster cricket error park squirrel shift submit corn";
+var mnemonic = "lawsuit child brown glow salute mesh evoke raise foot sample broccoli creek";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow pig town twin provide clutch pioneer hidden victory vault weird short";
+var mnemonic = "tomato wish question clump used item eternal tired icon cannon miracle admit";

@@ -1,1 +1,1 @@
-var mnemonic = "table throw carry retreat success logic ensure sweet repeat vehicle slow taxi";
+var mnemonic = "upper age table lawn success letter genre square under satisfy worth sausage";

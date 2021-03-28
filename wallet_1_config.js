@@ -1,1 +1,1 @@
-var mnemonic = "bench kick because police exclude garden romance shiver guilt auto ankle board";
+var mnemonic = "jelly like cheese weekend clog liar dose pledge interest uniform innocent observe";

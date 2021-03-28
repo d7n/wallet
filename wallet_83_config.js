@@ -1,1 +1,1 @@
-var mnemonic = "scale bless bench inhale fury slab average anchor nominee amateur basket family";
+var mnemonic = "prefer valley only process lawn invest crack author nuclear shy arrest rib";

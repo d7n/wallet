@@ -1,1 +1,1 @@
-var mnemonic = "firm silent text mom mesh turn toast popular deliver vacuum six amused";
+var mnemonic = "pass grunt alert noodle peanut stairs fuel abuse ozone swamp foam canvas";

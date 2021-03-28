@@ -1,1 +1,1 @@
-var mnemonic = "electric session congress exchange clinic fade lottery conduct genius nice casino modify";
+var mnemonic = "tag ecology cause bid spatial crop cash quantum dog seat sponsor patrol";

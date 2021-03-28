@@ -1,1 +1,1 @@
-var mnemonic = "base announce shoe gadget anger banana glare actress trick castle produce slice";
+var mnemonic = "box useless liar talent clinic cloth poet cry spawn float weasel scheme";

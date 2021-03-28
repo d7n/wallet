@@ -1,1 +1,1 @@
-var mnemonic = "express humor topic snake original quantum where olympic people lawsuit alien until";
+var mnemonic = "ecology glide blade ribbon video stairs monster obtain crumble punch private outer";

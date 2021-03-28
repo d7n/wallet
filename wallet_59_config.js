@@ -1,1 +1,1 @@
-var mnemonic = "fabric place ripple bachelor whale win never sister lady banner fitness plastic";
+var mnemonic = "ship shuffle sad prefer knock sock orbit brief struggle attack vendor dinner";

@@ -1,1 +1,1 @@
-var mnemonic = "radar click speak journey fan couple flame dash member path coil much";
+var mnemonic = "waste rule grief crime story vague buddy gold great before main accident";

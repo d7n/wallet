@@ -1,1 +1,1 @@
-var mnemonic = "hospital seven dice fancy crater office wink purpose life baby repair orbit";
+var mnemonic = "hawk join canoe ankle nothing crop speak change orange step fury rocket";

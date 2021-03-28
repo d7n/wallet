@@ -1,1 +1,1 @@
-var mnemonic = "walnut twenty excite favorite forest body coil promote accident matter hire stamp";
+var mnemonic = "health page purity lady vibrant steak pen sample asset marble brain wrist";

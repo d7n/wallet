@@ -1,1 +1,1 @@
-var mnemonic = "mirror plug wait gown bind organ scissors funny rebel judge name clutch";
+var mnemonic = "city danger worry armed theme idle nest spawn loan rebel universe very";

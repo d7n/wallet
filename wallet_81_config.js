@@ -1,1 +1,1 @@
-var mnemonic = "raw focus crack filter salute weasel include fish slow unusual rare six";
+var mnemonic = "february rough base pyramid property bundle survey debate gasp vanish scrub blue";

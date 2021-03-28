@@ -1,1 +1,1 @@
-var mnemonic = "naive estate bargain pluck run child meadow theory jazz loan banana ring";
+var mnemonic = "insect solid hello usage system fiber ship elder scheme hurry crime quit";

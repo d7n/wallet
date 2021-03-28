@@ -1,1 +1,1 @@
-var mnemonic = "romance social item rug benefit world drastic marble task soda badge youth";
+var mnemonic = "lucky choice grace chimney bonus tourist merge mirror coast civil nation surprise";

@@ -1,1 +1,1 @@
-var mnemonic = "mobile cluster spray rude accident trophy design submit frog town decorate adapt";
+var mnemonic = "bargain power develop creek idea shaft lottery debris alley major lumber hamster";

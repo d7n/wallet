@@ -1,1 +1,1 @@
-var mnemonic = "seed woman boy gadget ugly august damp swarm caught security top initial";
+var mnemonic = "elegant language blossom hospital wrap large useless friend infant they season census";

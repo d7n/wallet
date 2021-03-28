@@ -1,1 +1,1 @@
-var mnemonic = "swallow fly moral render portion add camp equip adjust vast skull potato";
+var mnemonic = "bounce cram avoid shaft length neither second cargo denial enable raccoon fetch";

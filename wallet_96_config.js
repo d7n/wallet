@@ -1,1 +1,1 @@
-var mnemonic = "basic fitness symptom knee cricket parade teach spirit method vast sorry party";
+var mnemonic = "hold expose screen crane amateur blast long bacon pause charge seed spoon";

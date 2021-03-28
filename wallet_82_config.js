@@ -1,1 +1,1 @@
-var mnemonic = "twist impulse opera tortoise ordinary shy leave that yellow coach involve execute";
+var mnemonic = "juice worth sadness dismiss cargo choose unaware fit visa save frame degree";

@@ -1,1 +1,1 @@
-var mnemonic = "duty artist enable divert buffalo scrap call outdoor pizza north drastic sorry";
+var mnemonic = "enhance dash insane calm material sea woman then visit convince live physical";

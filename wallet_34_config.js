@@ -1,1 +1,1 @@
-var mnemonic = "comic honey throw neglect together giant change fashion crisp tuition sleep jungle";
+var mnemonic = "park stadium art genius pig cabbage holiday mixed dust rely glance talent";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow void ozone essence second short pottery runway canvas crucial theory saddle";
+var mnemonic = "team appear grow soul canvas case orbit blue oblige habit smooth force";

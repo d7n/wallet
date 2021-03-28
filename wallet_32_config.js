@@ -1,1 +1,1 @@
-var mnemonic = "armed human baby wreck develop beyond cannon trim rubber math basket vital";
+var mnemonic = "arena elite enable plastic square muscle melt manual abandon bar clarify swear";

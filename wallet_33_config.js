@@ -1,1 +1,1 @@
-var mnemonic = "notable state usage creek text acquire wing local peace valve birth cupboard";
+var mnemonic = "ethics where merge under attend lobster resource history upgrade drop sure youth";

@@ -1,1 +1,1 @@
-var mnemonic = "embark vivid quiz angry caution vendor risk feel creek patient favorite lamp";
+var mnemonic = "holiday accuse rescue debris pumpkin hundred thunder involve supply approve marine seed";

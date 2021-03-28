@@ -1,1 +1,1 @@
-var mnemonic = "toy coach shop egg region clerk frequent monster mouse nose sample lady";
+var mnemonic = "tomato knock submit mirror police inspire poem morning group layer heavy planet";

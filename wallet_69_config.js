@@ -1,1 +1,1 @@
-var mnemonic = "possible arch addict bridge error dragon hobby empower entry sea ice invest";
+var mnemonic = "normal ostrich make sister height brown access flash extend school turkey cook";

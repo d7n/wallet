@@ -1,1 +1,1 @@
-var mnemonic = "hard civil cake expose sudden tool uniform display friend replace abandon easy";
+var mnemonic = "base tuna scale toy pause unaware bid original shove trip company during";

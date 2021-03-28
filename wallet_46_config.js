@@ -1,1 +1,1 @@
-var mnemonic = "naive source run skin exit observe bronze blade immense smooth wish nose";
+var mnemonic = "hold captain mean myself scatter knife twelve busy copy about museum lobster";

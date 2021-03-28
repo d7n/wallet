@@ -1,1 +1,1 @@
-var mnemonic = "thrive lunch gallery pitch layer era plastic wisdom funny fruit fatigue spy";
+var mnemonic = "envelope daughter symbol foil gap enjoy length stand rotate clock praise quiz";

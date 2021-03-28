@@ -1,1 +1,1 @@
-var mnemonic = "box hat upper limb found manual lawn giant session ordinary south shallow";
+var mnemonic = "one lunar exchange meat traffic brass pelican bird myself leisure name document";

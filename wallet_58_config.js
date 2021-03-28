@@ -1,1 +1,1 @@
-var mnemonic = "pluck urban tenant ski wet involve avocado slab ski super original cross";
+var mnemonic = "margin dinner face shiver acquire album ugly return pitch slim morning menu";

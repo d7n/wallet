@@ -1,1 +1,1 @@
-var mnemonic = "grunt defy cereal embrace visual seek swap patient custom ancient piece horn";
+var mnemonic = "route mail easily success identify organ suffer resource veteran diesel section bulb";

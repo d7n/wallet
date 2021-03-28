@@ -1,1 +1,1 @@
-var mnemonic = "multiply left scatter couch make label muscle express trophy appear sword loyal";
+var mnemonic = "snap auction offer inside door fetch gun common learn grit shallow loud";

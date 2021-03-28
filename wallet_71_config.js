@@ -1,1 +1,1 @@
-var mnemonic = "major awake jaguar trash vintage gadget size arena fitness awake wheel shy";
+var mnemonic = "chair thunder kingdom wide timber drive mercy envelope sample height fall audit";

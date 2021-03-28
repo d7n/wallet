@@ -1,1 +1,1 @@
-var mnemonic = "margin lion health rate omit best behind bone rule venture leader repair";
+var mnemonic = "achieve dose little undo buffalo whisper fun sausage mandate thought post inmate";

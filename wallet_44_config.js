@@ -1,1 +1,1 @@
-var mnemonic = "swarm boring economy adapt ball permit pass transfer staff method mango real";
+var mnemonic = "benefit vast anchor picnic net emerge long hold cloth wall dream notice";

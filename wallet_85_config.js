@@ -1,1 +1,1 @@
-var mnemonic = "clarify salmon emotion plunge top start kitten draw spider awful hotel north";
+var mnemonic = "such exist lawsuit fitness police awake armed sight monitor picnic access answer";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold minor same box attack ball swim about into globe same actress";
+var mnemonic = "word shadow enforce play garment minor flat cigar case snow spoon often";

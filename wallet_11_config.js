@@ -1,1 +1,1 @@
-var mnemonic = "spin giant during diet oil pudding exist leisure drill under topic expand";
+var mnemonic = "casino wide vault good analyst expire raise ocean boss step room quote";

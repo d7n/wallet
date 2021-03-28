@@ -1,1 +1,1 @@
-var mnemonic = "sail fan prepare throw venue subject photo oven disorder home hunt van";
+var mnemonic = "humble group stomach fruit achieve strategy clog search hair flower neutral foster";

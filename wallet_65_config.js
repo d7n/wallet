@@ -1,1 +1,1 @@
-var mnemonic = "mobile spawn six napkin employ deputy island enemy spoon way remind document";
+var mnemonic = "thunder course window reopen refuse merge neutral south whip awesome opinion vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "used heart program mutual wool neither stairs ten tumble frog antique peasant";
+var mnemonic = "husband expand cotton talk express admit accident depart type truth rhythm blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "angry rival dirt satisfy sing shoe rug hole giraffe cat naive sense";
+var mnemonic = "three soda major document lunar pull assist ordinary shove fruit thing genius";

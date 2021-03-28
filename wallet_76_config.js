@@ -1,1 +1,1 @@
-var mnemonic = "enforce engage off doll reason ten ready mountain filter filter horn pudding";
+var mnemonic = "peace dilemma arch mandate now column fork blood wool trust cannon catch";

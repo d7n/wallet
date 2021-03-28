@@ -1,1 +1,1 @@
-var mnemonic = "flat maze since pull drive sing crucial joke balance lunch wedding fiction";
+var mnemonic = "antenna expect best seed planet silk foster arrest curious capital fat limit";

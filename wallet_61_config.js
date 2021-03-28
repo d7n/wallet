@@ -1,1 +1,1 @@
-var mnemonic = "vanish say laptop hockey symbol stadium purpose lend ridge ski frost vital";
+var mnemonic = "soap category exclude add today song crew fringe olympic explain car dry";

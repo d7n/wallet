@@ -1,1 +1,1 @@
-var mnemonic = "session strike rely nice response polar tell kangaroo palm scatter source approve";
+var mnemonic = "column park jealous dilemma grief effort old perfect verb predict abuse crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "wedding roast about kite load camp range push claim tumble hazard comfort";
+var mnemonic = "miracle beyond artwork trick victory column acquire east erupt buffalo icon palace";

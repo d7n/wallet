@@ -1,1 +1,1 @@
-var mnemonic = "click jump burger manage guard wheat very mutual crunch rubber license nice";
+var mnemonic = "add corn salon filter dismiss onion misery dawn join abandon exact coyote";

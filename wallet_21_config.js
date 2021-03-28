@@ -1,1 +1,1 @@
-var mnemonic = "medal sleep coconut syrup unhappy whisper post pill grass accident owner siege";
+var mnemonic = "picnic theory obvious fashion shoe swamp olympic knock hen wise spawn benefit";

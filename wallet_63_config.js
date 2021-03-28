@@ -1,1 +1,1 @@
-var mnemonic = "patient survey early peanut stereo master sight tuition situate birth float this";
+var mnemonic = "comfort size lucky vacant pistol sleep economy flash arena siren detect help";

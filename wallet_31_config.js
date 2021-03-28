@@ -1,1 +1,1 @@
-var mnemonic = "cause smoke pudding inform afraid syrup glue film catalog vivid lecture drink";
+var mnemonic = "valley entire scissors student note cattle subject blast nut pepper enrich avocado";

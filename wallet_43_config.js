@@ -1,1 +1,1 @@
-var mnemonic = "chair load uncle educate toddler badge region steel work cake puzzle pear";
+var mnemonic = "river toddler flag able flame same rifle cause split satoshi pottery liberty";

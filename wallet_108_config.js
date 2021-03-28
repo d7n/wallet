@@ -1,1 +1,1 @@
-var mnemonic = "six lucky hope economy smooth pretty office craft uncle school fashion obtain";
+var mnemonic = "sense tape fitness version undo venture clerk idea pulp track snake exotic";

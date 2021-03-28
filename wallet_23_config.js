@@ -1,1 +1,1 @@
-var mnemonic = "recycle common hazard abandon shell clerk real hair table side strategy surface";
+var mnemonic = "surround beach gold innocent swamp chaos clock clever reward ordinary rough inject";

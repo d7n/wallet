@@ -1,1 +1,1 @@
-var mnemonic = "taxi manual mammal private example convince false regular coconut grid first between";
+var mnemonic = "vacant brave cream staff region again network recycle normal hidden limb swim";

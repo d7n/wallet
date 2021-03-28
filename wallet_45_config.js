@@ -1,1 +1,1 @@
-var mnemonic = "purpose pepper jaguar soap speak accident stereo private siege ice kite unlock";
+var mnemonic = "game explain gather subject rough segment wait depart educate desk flower forest";
