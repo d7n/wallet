@@ -1,1 +1,1 @@
-var mnemonic = "cover wrong social aware just property life figure squirrel anchor tail ride";
+var mnemonic = "slide file raccoon special equip noodle proof road ketchup source silk record";

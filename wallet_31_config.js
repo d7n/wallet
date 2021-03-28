@@ -1,1 +1,1 @@
-var mnemonic = "swim sting twelve orange manage regret unhappy report roof sibling away switch";
+var mnemonic = "visit struggle simple peace peasant copy inflict beef jelly scale vintage grain";

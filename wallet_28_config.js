@@ -1,1 +1,1 @@
-var mnemonic = "onion toddler diagram lounge hand approve planet robust elevator radar gather museum";
+var mnemonic = "rose tail dinosaur poverty must match pipe sibling that believe potato payment";

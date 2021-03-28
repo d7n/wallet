@@ -1,1 +1,1 @@
-var mnemonic = "mistake just key fit salad hip leg loyal maple jewel animal ski";
+var mnemonic = "paddle hand wash tuition surround sister subway merry below mass race indoor";

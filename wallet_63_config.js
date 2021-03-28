@@ -1,1 +1,1 @@
-var mnemonic = "budget scan first fitness curve tiny shaft dentist board airport cannon vote";
+var mnemonic = "real barely lava dog catalog goddess truck true element truly credit absent";

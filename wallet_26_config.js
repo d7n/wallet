@@ -1,1 +1,1 @@
-var mnemonic = "empty style either praise wise wet wage odor erode fun human patrol";
+var mnemonic = "party join mean subway hockey angle slight future nasty jungle walnut profit";

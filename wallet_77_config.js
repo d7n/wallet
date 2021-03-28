@@ -1,1 +1,1 @@
-var mnemonic = "expire negative owner clog inmate tower beef trial unlock merge buffalo donkey";
+var mnemonic = "canoe stuff wide sing west wrestle code layer atom scatter choose silk";

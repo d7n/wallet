@@ -1,1 +1,1 @@
-var mnemonic = "illegal equip science slam song garbage grunt favorite title assume two found";
+var mnemonic = "flower wine gossip hood label blanket head copper soft wrap thunder biology";

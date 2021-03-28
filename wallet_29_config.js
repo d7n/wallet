@@ -1,1 +1,1 @@
-var mnemonic = "warrior cash mirror suggest praise sad argue box ill traffic pig okay";
+var mnemonic = "top rug master symptom raw round ring snow forum harvest bless start";

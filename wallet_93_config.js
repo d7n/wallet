@@ -1,1 +1,1 @@
-var mnemonic = "neutral design neck differ pig kingdom peanut praise seminar foster elephant hope";
+var mnemonic = "okay miracle antenna silver neck alarm circle sick middle below tackle skirt";

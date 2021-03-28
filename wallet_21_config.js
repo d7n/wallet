@@ -1,1 +1,1 @@
-var mnemonic = "daughter light frost tent stone fortune rural cinnamon submit strategy mushroom unknown";
+var mnemonic = "make rotate fossil flag lawn unit kid cart arch offer color cave";

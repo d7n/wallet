@@ -1,1 +1,1 @@
-var mnemonic = "dirt limb amount mother almost obey coconut year oak faith whale lawsuit";
+var mnemonic = "obvious tip speed junior find subway team relief attract such shadow ancient";

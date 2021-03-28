@@ -1,1 +1,1 @@
-var mnemonic = "trick knock museum misery west detail gown actress diamond joy sadness quality";
+var mnemonic = "identify unusual ranch power enlist manage where balance student toe forget fringe";

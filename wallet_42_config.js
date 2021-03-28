@@ -1,1 +1,1 @@
-var mnemonic = "federal dinosaur flip symbol grace pelican stage better friend endorse joke affair";
+var mnemonic = "modify grief uncle cluster world doctor effort sting extend crumble neck grass";

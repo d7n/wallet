@@ -1,1 +1,1 @@
-var mnemonic = "clip file bonus cupboard welcome ball balance insect diesel appear refuse pause";
+var mnemonic = "raw build valid basket produce desk ask paddle grow imitate fossil coyote";

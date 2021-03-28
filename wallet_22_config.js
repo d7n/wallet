@@ -1,1 +1,1 @@
-var mnemonic = "age offer become wood barrel miracle rule path between rhythm base ship";
+var mnemonic = "patch nothing story cushion digital volcano mixed spring believe hello series dose";

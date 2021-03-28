@@ -1,1 +1,1 @@
-var mnemonic = "current badge bunker cousin panther elder trick finish scene wrist vacant tail";
+var mnemonic = "junk stay rent artist expire lens wreck doll blur glide oppose drop";

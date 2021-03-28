@@ -1,1 +1,1 @@
-var mnemonic = "thunder offer ready pink young maze copper action save soft balance early";
+var mnemonic = "clean cover office cook gold hedgehog hawk yellow city moon shop alley";

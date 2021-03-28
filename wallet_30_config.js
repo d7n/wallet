@@ -1,1 +1,1 @@
-var mnemonic = "silver gesture response soap asthma teach naive quiz coconut cake polar antenna";
+var mnemonic = "tiger maximum arrive coach kite sport around acoustic problem water weekend dish";

@@ -1,1 +1,1 @@
-var mnemonic = "when argue famous turn east birth strike pulse winter social yellow release";
+var mnemonic = "lab faith melt portion mention motor divorce mercy half budget skirt left";

@@ -1,1 +1,1 @@
-var mnemonic = "laundry wheat general join blush problem bring orbit churn quality giraffe whale";
+var mnemonic = "puzzle worth display analyst zone thunder capable rocket lake unaware noise soap";

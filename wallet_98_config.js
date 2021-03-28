@@ -1,1 +1,1 @@
-var mnemonic = "timber place volcano grief example december raw mimic able island keen theory";
+var mnemonic = "alpha bicycle oven address issue turn faint relief pave cancel section idle";

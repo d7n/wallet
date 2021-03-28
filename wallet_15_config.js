@@ -1,1 +1,1 @@
-var mnemonic = "trumpet speed donor shift spell tree carbon upset future latin shove chalk";
+var mnemonic = "casual forum goose effort exclude buffalo dust settle join client convince armor";

@@ -1,1 +1,1 @@
-var mnemonic = "gown wrist ladder debate cheap album math heavy quantum online age copper";
+var mnemonic = "forward silver seat plunge wrestle apology engage test blouse life lyrics neutral";

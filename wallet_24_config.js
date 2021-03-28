@@ -1,1 +1,1 @@
-var mnemonic = "guilt people excite shuffle olive noodle found radio seven kitchen ostrich stadium";
+var mnemonic = "side round index castle wine inform receive transfer manual clock slab ridge";

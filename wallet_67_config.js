@@ -1,1 +1,1 @@
-var mnemonic = "punch team element phone cross rug bar inherit typical antique route nest";
+var mnemonic = "spare pulse radar sphere gap real arena small sea riot list basket";

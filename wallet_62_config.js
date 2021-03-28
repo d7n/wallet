@@ -1,1 +1,1 @@
-var mnemonic = "large ritual aisle arena relief pepper model combine enter type venue rocket";
+var mnemonic = "bubble stuff rebuild guitar crunch reject cruise gossip staff wise carbon stool";

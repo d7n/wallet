@@ -1,1 +1,1 @@
-var mnemonic = "stove film ocean amount cost extend private bamboo fix furnace advance note";
+var mnemonic = "oblige coach pass local emotion link number fatigue female worth cluster convince";

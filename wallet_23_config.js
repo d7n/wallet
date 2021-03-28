@@ -1,1 +1,1 @@
-var mnemonic = "length dentist mom spice clip online bench seek rough that giant galaxy";
+var mnemonic = "engage cereal nice drum tongue village federal diagram girl sock canvas wide";

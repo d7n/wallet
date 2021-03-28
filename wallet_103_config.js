@@ -1,1 +1,1 @@
-var mnemonic = "cricket october start ladder employ duck goat insect fit country material similar";
+var mnemonic = "upper stereo soldier social gym want crouch plate seed upgrade sheriff extend";

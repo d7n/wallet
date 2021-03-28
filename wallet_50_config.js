@@ -1,1 +1,1 @@
-var mnemonic = "now length affair question volume half pluck chicken travel shove category awesome";
+var mnemonic = "control venture proud cargo lonely window call actress leaf fine visual trend";

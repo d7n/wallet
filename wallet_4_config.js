@@ -1,1 +1,1 @@
-var mnemonic = "grocery aware punch vacuum cushion sustain carry canoe bubble manage misery oven";
+var mnemonic = "duck program cargo carbon rose question aware meat trap step media switch";

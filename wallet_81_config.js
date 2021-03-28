@@ -1,1 +1,1 @@
-var mnemonic = "vital toddler what image trade endless despair material then resource length govern";
+var mnemonic = "boring debate jump spare knock steel fame filter filter rotate desk attend";

@@ -1,1 +1,1 @@
-var mnemonic = "tray degree urban fish wrong eagle rather depart taste design spatial ten";
+var mnemonic = "air chunk smile what lake island unfold mass wall pledge mansion shoot";

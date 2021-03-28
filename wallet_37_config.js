@@ -1,1 +1,1 @@
-var mnemonic = "level fashion tank spoon skin dial level case fragile family near method";
+var mnemonic = "end vanish acquire whale off aisle relief into wheel limb blast drill";

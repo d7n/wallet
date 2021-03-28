@@ -1,1 +1,1 @@
-var mnemonic = "swallow misery pond dice youth level prevent brick skull flower thing barely";
+var mnemonic = "inhale laptop inside project galaxy number sister master high pass sing avoid";

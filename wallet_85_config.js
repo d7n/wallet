@@ -1,1 +1,1 @@
-var mnemonic = "excess humble corn enroll vintage action city leg swallow vintage elite tenant";
+var mnemonic = "nation pass limit great since version strategy reunion announce run wrist furnace";

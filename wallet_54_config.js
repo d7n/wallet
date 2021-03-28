@@ -1,1 +1,1 @@
-var mnemonic = "juice wagon bus calm text orange business force trouble firm pill snake";
+var mnemonic = "wave pottery inherit sudden damp assist foil useless across snake expand patient";

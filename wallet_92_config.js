@@ -1,1 +1,1 @@
-var mnemonic = "frog more gadget social short kitchen about century island wave piano arrive";
+var mnemonic = "identify area live hamster over differ orphan situate fade burden effort search";

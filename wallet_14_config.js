@@ -1,1 +1,1 @@
-var mnemonic = "kiss reform gaze swing unfold cycle iron feature pool laugh hazard riot";
+var mnemonic = "caught local extend wrap fire reduce civil ketchup law fade right grace";

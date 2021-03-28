@@ -1,1 +1,1 @@
-var mnemonic = "armed mutual season pact hen disorder cup pudding oval alley relax nut";
+var mnemonic = "situate regret menu column bridge umbrella arrest pet foot cheese hazard renew";

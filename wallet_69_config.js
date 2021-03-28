@@ -1,1 +1,1 @@
-var mnemonic = "hybrid inmate labor remain business color elbow link foam year west time";
+var mnemonic = "maze palace airport left wood rather october syrup asthma lizard price unfair";

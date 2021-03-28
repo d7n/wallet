@@ -1,1 +1,1 @@
-var mnemonic = "pistol siege bean stay advance dawn process boost grocery betray barely protect";
+var mnemonic = "erosion twenty fox evoke flower room dirt cup cheap unit weird memory";

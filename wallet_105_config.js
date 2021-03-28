@@ -1,1 +1,1 @@
-var mnemonic = "cupboard please put plastic festival bacon property force bright recall iron primary";
+var mnemonic = "distance buddy detect dirt ordinary agree retreat amount jaguar bar beyond crash";

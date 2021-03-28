@@ -1,1 +1,1 @@
-var mnemonic = "brother oppose battle photo brown noodle rocket blue dice hammer hobby people";
+var mnemonic = "net wife fat whisper wash balcony kangaroo kidney damp floor lumber below";

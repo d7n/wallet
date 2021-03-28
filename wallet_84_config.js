@@ -1,1 +1,1 @@
-var mnemonic = "company trip valid sphere lion brother cover daughter urban elegant fold denial";
+var mnemonic = "alley normal garage human hazard fault bicycle state surprise hope list vanish";

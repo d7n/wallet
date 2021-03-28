@@ -1,1 +1,1 @@
-var mnemonic = "decide wedding visual lizard sting rack street stool february shallow subway female";
+var mnemonic = "happy permit slim tragic giraffe mail excite hundred auction lazy label tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "excess neck example gas twist image puzzle ceiling tenant price camp script";
+var mnemonic = "rose size wagon circle hobby wild invite more dawn alcohol glance seven";

@@ -1,1 +1,1 @@
-var mnemonic = "address breeze ladder rally cinnamon crime goose sun total process trick destroy";
+var mnemonic = "symbol unable salute merit text enough pool dice autumn chimney pepper income";

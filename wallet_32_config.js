@@ -1,1 +1,1 @@
-var mnemonic = "unique again kingdom cake inch wagon nerve song sight actress tip feel";
+var mnemonic = "host setup body canyon plunge year hybrid alien bamboo pilot picnic fall";

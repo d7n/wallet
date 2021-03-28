@@ -1,1 +1,1 @@
-var mnemonic = "envelope glimpse amateur attack memory glide arena like myth canvas mule weekend";
+var mnemonic = "castle orphan strategy cactus puppy flower expose topic cherry athlete flash man";

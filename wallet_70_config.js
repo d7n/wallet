@@ -1,1 +1,1 @@
-var mnemonic = "hen cash twist shrug sister often swim nerve miss victory trophy modify";
+var mnemonic = "library paper maple poem faint require you wonder assume shaft reopen century";

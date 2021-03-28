@@ -1,1 +1,1 @@
-var mnemonic = "sister rose luggage honey between interest critic approve over staff rapid dad";
+var mnemonic = "hill plate hair useless addict magic lounge cross path weasel walnut video";

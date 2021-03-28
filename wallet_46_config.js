@@ -1,1 +1,1 @@
-var mnemonic = "razor arrest close submit toward gas thumb borrow sudden alert loop amazing";
+var mnemonic = "kidney dragon disease return code tobacco relief gun crane general pepper supply";

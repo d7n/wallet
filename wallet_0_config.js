@@ -1,1 +1,1 @@
-var mnemonic = "uphold trade holiday wife neither extend eight zone accident puzzle split gauge";
+var mnemonic = "cactus salon junior raise bag ten sail shoot mixture famous tortoise absurd";

@@ -1,1 +1,1 @@
-var mnemonic = "little salt turkey wave argue more goat stay minimum salon secret nephew";
+var mnemonic = "salt exhibit soul frequent seven young industry fan uncover outdoor twist patient";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics pet gasp chronic venue limb second peasant person glory struggle dose";
+var mnemonic = "rotate reform tornado idea fault series witness hour input payment sign joy";

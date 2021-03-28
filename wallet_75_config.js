@@ -1,1 +1,1 @@
-var mnemonic = "cruel bless gentle sadness unlock head shift unveil spatial trust casual rapid";
+var mnemonic = "spread behind shiver robust alcohol welcome gorilla hockey auction elephant casino object";

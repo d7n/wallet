@@ -1,1 +1,1 @@
-var mnemonic = "click forward volcano grocery join tray crucial beef movie book price spread";
+var mnemonic = "guilt answer blade soda assume sight swear board mansion tired hammer grass";

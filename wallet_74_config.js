@@ -1,1 +1,1 @@
-var mnemonic = "nest gain flock rhythm float aspect flat island column cheese soup exhaust";
+var mnemonic = "trial brick reunion elegant mention trick area rally spy that orient hungry";

@@ -1,1 +1,1 @@
-var mnemonic = "nose budget fee culture used distance fossil wait pottery enter arrange approve";
+var mnemonic = "apology sketch prison first vintage anxiety truck swarm smart slim bleak amount";

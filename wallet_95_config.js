@@ -1,1 +1,1 @@
-var mnemonic = "deliver dumb bomb vehicle sense honey easily labor brain trouble magic chef";
+var mnemonic = "addict anger lucky mixed blade scheme radio veteran state cram grass skin";

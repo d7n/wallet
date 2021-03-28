@@ -1,1 +1,1 @@
-var mnemonic = "prosper cycle cushion curtain luggage raccoon knife column pull luxury merry gap";
+var mnemonic = "brown margin harbor car pull search hub hunt knife tree you tenant";

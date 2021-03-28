@@ -1,1 +1,1 @@
-var mnemonic = "lab dirt motor cage parrot crater require before pig glide large double";
+var mnemonic = "chalk venture zoo broken deer oppose evolve yellow exercise sauce middle rally";

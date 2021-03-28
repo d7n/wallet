@@ -1,1 +1,1 @@
-var mnemonic = "leader glance erosion material interest this filter stove rely hobby ill ladder";
+var mnemonic = "clog atom mother zero shock august shine between envelope west knife digital";

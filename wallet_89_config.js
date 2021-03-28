@@ -1,1 +1,1 @@
-var mnemonic = "lunch barrel avoid chaos hand avocado exercise sketch orphan kangaroo local option";
+var mnemonic = "immune tongue above have butter crawl express frost mystery put text top";

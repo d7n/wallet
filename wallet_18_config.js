@@ -1,1 +1,1 @@
-var mnemonic = "leg sword notice neither mixture polar prison mandate heavy pattern future hundred";
+var mnemonic = "document enemy admit uncover charge document subject hedgehog client cinnamon true flash";

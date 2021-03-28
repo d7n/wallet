@@ -1,1 +1,1 @@
-var mnemonic = "uphold flash enact label dose ginger dolphin express people that absorb will";
+var mnemonic = "sight surface come few reject box annual note sibling over culture lucky";

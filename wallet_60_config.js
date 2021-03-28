@@ -1,1 +1,1 @@
-var mnemonic = "sample air penalty grit tumble dumb fatigue design struggle spare reward salt";
+var mnemonic = "team flower grace install kit powder minimum clog night addict put mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset chimney buffalo forum velvet kit lens visit indicate rigid together deal";
+var mnemonic = "wild bag twist thought wedding lottery suit hedgehog file squeeze region earth";

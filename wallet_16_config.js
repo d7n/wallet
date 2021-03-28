@@ -1,1 +1,1 @@
-var mnemonic = "own alpha ridge outside interest evidence whale two genuine lizard skin search";
+var mnemonic = "tonight client fog elevator firm whip book public keen correct master fancy";

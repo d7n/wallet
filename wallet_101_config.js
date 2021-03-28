@@ -1,1 +1,1 @@
-var mnemonic = "daring tent concert fatal cinnamon second dove antenna buddy grief slow search";
+var mnemonic = "kitchen busy poem grape accuse large point skirt genre become method leader";

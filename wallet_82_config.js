@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow stage rotate shaft found more antenna build drastic gospel actor bulb";
+var mnemonic = "month track expand castle prosper alert peace edit reward provide town can";

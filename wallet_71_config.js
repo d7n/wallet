@@ -1,1 +1,1 @@
-var mnemonic = "knee small wedding remain model cost great craft coil panda deputy concert";
+var mnemonic = "lizard desert measure perfect theory acid distance element shiver pattern more stuff";

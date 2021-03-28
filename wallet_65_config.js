@@ -1,1 +1,1 @@
-var mnemonic = "wire angle box shed video peanut jar gesture purity wink round easily";
+var mnemonic = "slim odor basket people seven silver float amused coast diagram various trumpet";

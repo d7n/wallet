@@ -1,1 +1,1 @@
-var mnemonic = "proof spin glove innocent maximum enlist short real view lift clog icon";
+var mnemonic = "doll drop wolf museum initial salute rifle frozen bitter skate torch size";

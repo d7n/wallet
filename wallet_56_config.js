@@ -1,1 +1,1 @@
-var mnemonic = "prize truck garden insane play couple similar moon clever inspire faint example";
+var mnemonic = "subway estate goddess catch kid sure fine orchard couple era material island";

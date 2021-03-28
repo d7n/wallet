@@ -1,1 +1,1 @@
-var mnemonic = "winter wink expire anchor donkey truly wasp umbrella strong tide mimic before";
+var mnemonic = "boss host industry regret hockey cool cover idea dragon sunset open attitude";

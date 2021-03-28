@@ -1,1 +1,1 @@
-var mnemonic = "miss utility rough bind pottery abuse lab chalk must festival cancel ring";
+var mnemonic = "crowd image prevent cause manage try retreat power mouse enemy divorce nurse";

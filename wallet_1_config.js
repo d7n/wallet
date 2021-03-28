@@ -1,1 +1,1 @@
-var mnemonic = "street moral awake dose demand pear siege unveil ignore inherit dish average";
+var mnemonic = "festival rival brand can security myself leader owner blind can sign announce";

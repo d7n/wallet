@@ -1,1 +1,1 @@
-var mnemonic = "pelican quote cannon myself monitor design deposit rough cool december swing secret";
+var mnemonic = "zero rookie valid bitter quarter because similar curtain blast tonight category payment";

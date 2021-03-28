@@ -1,1 +1,1 @@
-var mnemonic = "autumn tooth seminar yellow capable awake magic wave silver step join aspect";
+var mnemonic = "wall media attend wash middle area lift sample confirm clump change pear";

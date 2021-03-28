@@ -1,1 +1,1 @@
-var mnemonic = "fruit nature donate civil focus quote nuclear attack cheese chef lens ten";
+var mnemonic = "maple problem nominee lady useless enemy exchange square shoot mimic resist piano";

@@ -1,1 +1,1 @@
-var mnemonic = "error toddler chase odor demise glimpse recycle tribe correct crane blood deputy";
+var mnemonic = "glass hybrid cherry unaware enough purse rebel hint hair vast neutral exclude";

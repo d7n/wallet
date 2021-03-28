@@ -1,1 +1,1 @@
-var mnemonic = "wire deer amount feed vault exercise split excite action refuse dragon want";
+var mnemonic = "agent category soldier include blossom around execute tiny aim enjoy shadow depth";

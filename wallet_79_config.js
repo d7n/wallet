@@ -1,1 +1,1 @@
-var mnemonic = "absurd toy ready public air problem dice sunny demise casual fade learn";
+var mnemonic = "outer dress become victory limit situate original vibrant stomach exclude swing fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "reward shock text industry egg labor glue sniff myth avocado coin extend";
+var mnemonic = "science bonus noise exhibit core elbow glue suggest evidence color crush awful";

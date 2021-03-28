@@ -1,1 +1,1 @@
-var mnemonic = "actual skirt job gain exercise butter expect denial hurt insect source settle";
+var mnemonic = "shallow onion box sing deer degree indicate fall hospital vicious crumble tape";

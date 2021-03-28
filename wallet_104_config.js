@@ -1,1 +1,1 @@
-var mnemonic = "shield fragile latin course shove business prize unique tooth off quality stool";
+var mnemonic = "discover shock version grow happy box borrow salt street able elegant dry";

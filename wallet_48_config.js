@@ -1,1 +1,1 @@
-var mnemonic = "gate bacon danger gain broom okay setup trophy humor quarter jewel belt";
+var mnemonic = "used senior thank buyer vacuum cliff easy donkey also universe shield lunch";

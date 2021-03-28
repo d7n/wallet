@@ -1,1 +1,1 @@
-var mnemonic = "town chief pottery sick interest proud current receive length render oak venture";
+var mnemonic = "flame track theory obvious robot burger sunny income pool sting library excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry garage much dilemma seek cross creek clip believe tomorrow bomb close";
+var mnemonic = "primary kangaroo grape cattle thrive glad glide rally focus crucial throw catalog";

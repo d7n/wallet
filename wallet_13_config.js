@@ -1,1 +1,1 @@
-var mnemonic = "secret month sing lobster armed hurt float town fork ring example globe";
+var mnemonic = "ship draft dust around mountain taste bundle crouch vapor bachelor cigar add";

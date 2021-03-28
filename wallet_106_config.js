@@ -1,1 +1,1 @@
-var mnemonic = "fit shock visit kangaroo mixed minute hazard ball hurry raccoon slender body";
+var mnemonic = "wedding series occur floor list wash wrestle pink cinnamon cable estate clog";
