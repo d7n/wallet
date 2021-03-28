@@ -1,1 +1,1 @@
-var mnemonic = "pride shuffle sauce credit custom void wet oxygen easy galaxy giant protect";
+var mnemonic = "ritual circle clean slender crumble state list salmon gaze calm spread stove";

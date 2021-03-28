@@ -1,1 +1,1 @@
-var mnemonic = "word pencil reveal before feel scissors bid bag resource season ladder young";
+var mnemonic = "verify drop witness sight sure tip oven steak february uncle village plunge";

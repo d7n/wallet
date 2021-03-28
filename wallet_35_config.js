@@ -1,1 +1,1 @@
-var mnemonic = "attitude ten dismiss arch beyond labor sphere mammal future discover drastic valve";
+var mnemonic = "short miss use damage young tree vacant clog jacket craft because weapon";

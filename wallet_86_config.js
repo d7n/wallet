@@ -1,1 +1,1 @@
-var mnemonic = "section strike upset clutch report vague reject nominee whisper speed question pass";
+var mnemonic = "raven play giraffe cute normal raven seven peanut coconut cream ripple subway";

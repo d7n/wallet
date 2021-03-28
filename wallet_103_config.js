@@ -1,1 +1,1 @@
-var mnemonic = "dress load eyebrow unfold fall truth thing injury special over prefer token";
+var mnemonic = "damage sphere once describe judge spray alert recipe oak actress raven moral";

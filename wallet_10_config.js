@@ -1,1 +1,1 @@
-var mnemonic = "protect hint envelope document maid piano decade inquiry sustain live thrive trap";
+var mnemonic = "toddler sunny decade hybrid twice trouble evidence inhale add payment first moral";

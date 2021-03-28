@@ -1,1 +1,1 @@
-var mnemonic = "organ link pilot destroy yard web mosquito dolphin meat abstract panda tomato";
+var mnemonic = "tower lady swift first purpose diagram recall pond identify enter input venue";

@@ -1,1 +1,1 @@
-var mnemonic = "scout clown problem enable sphere hood jelly pen tribe cave already ask";
+var mnemonic = "lady tent mother pink list rocket better divorce grunt sausage bamboo file";

@@ -1,1 +1,1 @@
-var mnemonic = "candy bargain orphan provide term carbon inflict panel neck fetch love silent";
+var mnemonic = "bar lab mandate fashion tuition antique drip ecology metal stairs smoke spring";

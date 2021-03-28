@@ -1,1 +1,1 @@
-var mnemonic = "trick sound remind mansion divorce cream gap olympic bridge pepper evidence follow";
+var mnemonic = "only anxiety approve provide shine three clip awesome first game awkward below";

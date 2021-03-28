@@ -1,1 +1,1 @@
-var mnemonic = "evil reject gain south ceiling awful false ensure will struggle record circle";
+var mnemonic = "then allow avocado innocent marble arrest castle exclude two tobacco make element";

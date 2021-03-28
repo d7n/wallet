@@ -1,1 +1,1 @@
-var mnemonic = "payment police display buzz always truth depth clump cradle note basket post";
+var mnemonic = "slogan fan secret mango text nature fuel mind impose language record ability";

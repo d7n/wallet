@@ -1,1 +1,1 @@
-var mnemonic = "assist focus process brisk device spare cart capable cushion ramp tumble crucial";
+var mnemonic = "observe busy paper boat almost very finger famous eagle that crush december";

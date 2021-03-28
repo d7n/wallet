@@ -1,1 +1,1 @@
-var mnemonic = "giant glow middle flavor post wise slice tilt grief riot typical try";
+var mnemonic = "yellow bag stock auto erase essence piano unable scatter gossip shell wrap";

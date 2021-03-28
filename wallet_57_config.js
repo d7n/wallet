@@ -1,1 +1,1 @@
-var mnemonic = "put alter title push rapid annual wedding audit inhale merry joy tunnel";
+var mnemonic = "relax vessel spell few proud easy unique ethics luxury sketch life gesture";

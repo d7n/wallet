@@ -1,1 +1,1 @@
-var mnemonic = "sphere flock close word foil catch risk border swamp nurse mobile escape";
+var mnemonic = "assault round wish wish next swarm priority until surface cause start apart";

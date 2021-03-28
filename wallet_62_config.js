@@ -1,1 +1,1 @@
-var mnemonic = "shrimp eight drastic senior cycle twin volcano rib bread east vehicle lab";
+var mnemonic = "name easy online talk lunch holiday reject lawn surge spike guide excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "glare gesture index icon alarm join behave west middle memory angry copy";
+var mnemonic = "license route volume genre vague shine elephant alter enroll cabin fog net";

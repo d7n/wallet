@@ -1,1 +1,1 @@
-var mnemonic = "cotton guilt garden renew butter hazard response book rebel finger execute weapon";
+var mnemonic = "rate future fox subway orphan task shrimp clutch blast hello chef plunge";

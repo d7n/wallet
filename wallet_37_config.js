@@ -1,1 +1,1 @@
-var mnemonic = "ring plunge fee ozone glow often practice duty spirit sun forward wild";
+var mnemonic = "thunder curtain nose almost pupil truly club top human cigar breeze leopard";

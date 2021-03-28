@@ -1,1 +1,1 @@
-var mnemonic = "ski fine another focus water tube winner viable poet version attack awkward";
+var mnemonic = "cross language violin saddle clip warm kitchen mix chief meadow recycle dizzy";

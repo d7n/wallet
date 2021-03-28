@@ -1,1 +1,1 @@
-var mnemonic = "safe lion two mandate return beyond october toe pulp fine pencil inject";
+var mnemonic = "inspire tenant sound duty hint toe retreat guitar nest also perfect spray";

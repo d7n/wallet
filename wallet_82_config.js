@@ -1,1 +1,1 @@
-var mnemonic = "minute mask metal trumpet fall lens else coin improve common kidney online";
+var mnemonic = "fluid purchase blade stick call project robot bachelor south buddy believe cash";

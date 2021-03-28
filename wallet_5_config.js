@@ -1,1 +1,1 @@
-var mnemonic = "razor elbow together mansion wagon lobster again cradle one excite virus vacuum";
+var mnemonic = "sponsor poet news one trust clarify light bench figure else forum point";

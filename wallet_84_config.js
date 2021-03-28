@@ -1,1 +1,1 @@
-var mnemonic = "motion brisk where float struggle version veteran all waste peasant sunset canal";
+var mnemonic = "grunt issue math flag organ pilot volume antenna original always what tuition";

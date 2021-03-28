@@ -1,1 +1,1 @@
-var mnemonic = "depth twelve ancient celery client course label injury life absurd pig rabbit";
+var mnemonic = "mango proof wheat embody tunnel barely rely fog goddess sound main credit";

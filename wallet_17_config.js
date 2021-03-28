@@ -1,1 +1,1 @@
-var mnemonic = "can proof manage remove system online hurdle learn trophy still into little";
+var mnemonic = "vicious since dice time sad transfer tail two supply pink offer retire";

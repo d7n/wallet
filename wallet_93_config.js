@@ -1,1 +1,1 @@
-var mnemonic = "access escape peace trim citizen attack wisdom bronze pencil field hint maze";
+var mnemonic = "fine legal first minute unfair garment fuel motor hospital version kitten loud";

@@ -1,1 +1,1 @@
-var mnemonic = "guess twice budget follow nice quote supply device kind chaos devote grain";
+var mnemonic = "basic solution asset match squeeze diamond spoil dwarf anger unknown artefact announce";

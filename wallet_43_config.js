@@ -1,1 +1,1 @@
-var mnemonic = "flat bar kiwi ticket tent exile must evidence gasp process when search";
+var mnemonic = "mad mix rich diagram good moral bring earn trim horror dance black";

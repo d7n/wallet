@@ -1,1 +1,1 @@
-var mnemonic = "iron bright tribe tennis fly flush hire spatial chalk advance mix sand";
+var mnemonic = "eagle option nice tattoo scan mirror turn beach best leopard october board";

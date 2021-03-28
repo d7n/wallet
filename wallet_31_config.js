@@ -1,1 +1,1 @@
-var mnemonic = "robust left ketchup start pencil group trap radio make media cousin mountain";
+var mnemonic = "siege language adult clarify super comfort zoo affair fit spy velvet play";

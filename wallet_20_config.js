@@ -1,1 +1,1 @@
-var mnemonic = "piano topic quiz cattle dignity submit tiger tourist slam move trumpet pistol";
+var mnemonic = "hood thing vacuum fatal opera wealth claim alcohol list bounce weapon surge";

@@ -1,1 +1,1 @@
-var mnemonic = "forward fat cute conduct civil live uniform outer topple wrist gloom hamster";
+var mnemonic = "page crane powder tree luxury sting case shoulder trade fashion bundle pupil";

@@ -1,1 +1,1 @@
-var mnemonic = "build tiny absurd ahead arena script crater code artwork bus acid school";
+var mnemonic = "sign digital usage divide vote bless crouch frost upon raccoon cabbage kit";

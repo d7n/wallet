@@ -1,1 +1,1 @@
-var mnemonic = "clinic toast soul minimum where manage cover shell dash joke cattle pride";
+var mnemonic = "sound wall vivid tongue thank cabin book dawn tooth adapt weapon pottery";

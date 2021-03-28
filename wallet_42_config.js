@@ -1,1 +1,1 @@
-var mnemonic = "nuclear final inner uphold help derive know renew bachelor lake taste hazard";
+var mnemonic = "industry person paddle coconut obvious practice size harvest clinic color canoe apology";

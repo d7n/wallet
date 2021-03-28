@@ -1,1 +1,1 @@
-var mnemonic = "inmate nature brother owner forest replace mom wonder stomach render frequent secret";
+var mnemonic = "govern stove rigid claim rural beach misery resemble tape reason defense moon";

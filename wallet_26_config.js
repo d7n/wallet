@@ -1,1 +1,1 @@
-var mnemonic = "scorpion bottom hamster ski early collect hint bundle boat dry risk stadium";
+var mnemonic = "sea arrive north maze screen middle insane glow spot peasant supply planet";

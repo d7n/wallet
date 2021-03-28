@@ -1,1 +1,1 @@
-var mnemonic = "neutral volume pioneer afford priority sail beauty cigar soap fix lion skull";
+var mnemonic = "ecology bulk notable scout nest alarm outer couple nuclear cool milk nephew";

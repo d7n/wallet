@@ -1,1 +1,1 @@
-var mnemonic = "film hire comic appear resource worry aspect swallow issue flower help iron";
+var mnemonic = "scout tell sign ensure book cheap mammal excite govern pioneer uniform rude";

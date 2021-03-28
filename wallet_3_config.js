@@ -1,1 +1,1 @@
-var mnemonic = "north carry judge gravity mesh juice drink orient kick skirt relief west";
+var mnemonic = "rebuild skill grass account ski bracket gauge execute series garment gun dune";

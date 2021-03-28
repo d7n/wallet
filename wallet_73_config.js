@@ -1,1 +1,1 @@
-var mnemonic = "lunar nest draw come danger wreck pistol add kite conduct senior candy";
+var mnemonic = "network slogan loud open wrist brisk scare critic hammer frost edit father";

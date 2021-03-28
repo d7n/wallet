@@ -1,1 +1,1 @@
-var mnemonic = "spread comfort slight vanish genius tank atom left unlock predict alter unhappy";
+var mnemonic = "sustain design share awesome ski client rural zone census spray clog crisp";

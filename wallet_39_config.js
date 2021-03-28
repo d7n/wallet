@@ -1,1 +1,1 @@
-var mnemonic = "enable material control dumb whip total cake attend march accident spy throw";
+var mnemonic = "novel remind write index kitchen design entire deal canvas concert game toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "danger rifle sponsor leg dial casino vicious olympic mosquito scissors clip word";
+var mnemonic = "mercy search judge peanut thought swear isolate control hope marble fly age";

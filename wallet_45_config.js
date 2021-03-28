@@ -1,1 +1,1 @@
-var mnemonic = "little gold stuff barely sense crucial follow side battle tongue humble forward";
+var mnemonic = "category invite latin mind desert bottom jaguar shiver ahead visual chronic reopen";

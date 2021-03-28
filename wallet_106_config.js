@@ -1,1 +1,1 @@
-var mnemonic = "icon local service you filter describe dust dynamic ivory blue february safe";
+var mnemonic = "load circle march globe crunch argue wife gaze scatter gauge elite genre";

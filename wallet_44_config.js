@@ -1,1 +1,1 @@
-var mnemonic = "leaf settle glue atom cloud require tragic wing when select category spirit";
+var mnemonic = "wave indicate drop lock staff fork rabbit mad human foam depth huge";

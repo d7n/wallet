@@ -1,1 +1,1 @@
-var mnemonic = "smart dawn jump girl december cycle correct beyond donor comfort egg slow";
+var mnemonic = "broom earth announce pact actor pull jungle top convince tongue love half";

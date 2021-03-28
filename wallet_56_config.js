@@ -1,1 +1,1 @@
-var mnemonic = "dress two excite silent monkey luxury area daughter protect run goddess teach";
+var mnemonic = "economy alarm monkey pudding fence bring giant high pulp guard become amused";

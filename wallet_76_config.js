@@ -1,1 +1,1 @@
-var mnemonic = "yellow jazz mail drop purity pluck crash carbon radar notice empty venue";
+var mnemonic = "cat enemy media bubble illegal spice fee afford relax absorb image word";

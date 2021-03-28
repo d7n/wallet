@@ -1,1 +1,1 @@
-var mnemonic = "slot coach embody flower net apple witness begin journey mule clean enough";
+var mnemonic = "nephew photo amused remove bar siren salt garlic update figure abandon tissue";

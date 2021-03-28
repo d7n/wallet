@@ -1,1 +1,1 @@
-var mnemonic = "another message skill cheap mouse traffic relax globe blind daughter innocent mistake";
+var mnemonic = "sugar cattle kit flush deal mean bacon logic cube cannon jewel bundle";

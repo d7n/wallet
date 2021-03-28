@@ -1,1 +1,1 @@
-var mnemonic = "receive one mention pave goat remember shell inhale cage boy tiger sick";
+var mnemonic = "day list game grass limb iron father coach drive patrol hammer stereo";

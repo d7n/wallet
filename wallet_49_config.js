@@ -1,1 +1,1 @@
-var mnemonic = "bring need best rent month exotic song apology scrub shine cool inquiry";
+var mnemonic = "panther beauty recipe health powder junk erosion enhance broom hockey blur bitter";

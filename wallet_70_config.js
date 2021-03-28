@@ -1,1 +1,1 @@
-var mnemonic = "can soon dwarf pilot rug record shuffle example jeans wedding link speak";
+var mnemonic = "final enforce approve seven flag educate situate action beach crack high proud";

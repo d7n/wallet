@@ -1,1 +1,1 @@
-var mnemonic = "auto engine divorce pool someone input debris step caution claw knife pool";
+var mnemonic = "auction pizza notice tent exclude fork food chuckle happy home glory day";

@@ -1,1 +1,1 @@
-var mnemonic = "globe balance coast doll crisp parrot relief title above loan smart misery";
+var mnemonic = "laundry sting eagle subway cluster level voice frequent stand more permit toast";

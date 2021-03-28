@@ -1,1 +1,1 @@
-var mnemonic = "box hover truth buddy hotel away grace permit frequent moral absent remember";
+var mnemonic = "edge sweet gaze knee sketch alert outer reveal myth large penalty secret";

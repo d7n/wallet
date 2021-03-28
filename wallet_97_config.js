@@ -1,1 +1,1 @@
-var mnemonic = "around rice glad hover proof blur banner panel civil sniff category pudding";
+var mnemonic = "want noble relax cook female dial renew length trust usage skirt erode";

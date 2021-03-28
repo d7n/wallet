@@ -1,1 +1,1 @@
-var mnemonic = "bracket naive honey demise garment enjoy patch lunar whisper soon program alien";
+var mnemonic = "ripple foot small paper window stomach warfare industry police cage provide club";

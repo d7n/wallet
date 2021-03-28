@@ -1,1 +1,1 @@
-var mnemonic = "van race laptop settle latin history legal joke want pizza woman notice";
+var mnemonic = "next range oak lobster remain notice ecology broken misery island own firm";

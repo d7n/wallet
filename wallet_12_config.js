@@ -1,1 +1,1 @@
-var mnemonic = "frame woman match hotel pizza truck nurse blossom glimpse liquid note mail";
+var mnemonic = "announce choice praise pen hammer half upset hire gold gown festival nature";

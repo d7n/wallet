@@ -1,1 +1,1 @@
-var mnemonic = "kitchen model angry copper fly observe voice quit peace enable loan worth";
+var mnemonic = "option develop scan focus write amateur angry knee rack fancy update fabric";

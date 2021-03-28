@@ -1,1 +1,1 @@
-var mnemonic = "civil beach delay dance various space immune artist soon country fetch noble";
+var mnemonic = "mention scatter never thunder click cherry burden scout violin tonight sick smile";

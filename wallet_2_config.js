@@ -1,1 +1,1 @@
-var mnemonic = "easily crisp giant barrel proud eight remember crisp solution forget dose secret";
+var mnemonic = "bleak manage canoe fluid absent sign hen spin artwork dismiss scrap clump";

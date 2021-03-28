@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit uniform transfer ribbon impact farm endless atom fatigue awake cannon extra";
+var mnemonic = "chicken concert ladder wave economy oven crisp silver ridge essay text slot";

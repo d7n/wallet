@@ -1,1 +1,1 @@
-var mnemonic = "cradle vapor abandon game stock clip mandate spike ugly surge target meat";
+var mnemonic = "one giant modify rug fatal observe manage attend soldier trust post better";

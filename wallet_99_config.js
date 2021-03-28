@@ -1,1 +1,1 @@
-var mnemonic = "dolphin admit salt auction thunder credit slab logic brief trend decorate shoot";
+var mnemonic = "decide walnut plug twelve over amused margin whale topple rent major license";

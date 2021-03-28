@@ -1,1 +1,1 @@
-var mnemonic = "pact gown kitten salute swift crystal admit version decade peace depend affair";
+var mnemonic = "speak level entry kangaroo music weekend document rigid cabin below blue torch";

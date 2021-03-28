@@ -1,1 +1,1 @@
-var mnemonic = "orphan staff crane else broom horror cloth sweet company present dismiss faith";
+var mnemonic = "ticket sick void unlock between surface artefact borrow man enough stuff want";

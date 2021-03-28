@@ -1,1 +1,1 @@
-var mnemonic = "across six patient maze burst observe assist party scare cube knock adapt";
+var mnemonic = "muscle parent horse pizza clever urge price confirm across gap try magnet";

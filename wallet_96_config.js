@@ -1,1 +1,1 @@
-var mnemonic = "ranch mobile insect movie lift appear brisk force wheat business online annual";
+var mnemonic = "add garment rice concert frozen future emotion adjust merry exercise abandon trip";

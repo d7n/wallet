@@ -1,1 +1,1 @@
-var mnemonic = "length prison surge unlock real remember adult entry comfort rude supply frame";
+var mnemonic = "shed drum excuse galaxy custom possible minute diamond regular brave sunny deputy";

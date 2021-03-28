@@ -1,1 +1,1 @@
-var mnemonic = "baby universe stock result old urban stadium blouse crunch mutual mimic crisp";
+var mnemonic = "hybrid sword number secret soccer payment armor coffee hello engage smile marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "awkward upper rice foam adapt cushion coin humor flavor derive lady young";
+var mnemonic = "december right ancient arena wave grain prosper erase claw salt future path";

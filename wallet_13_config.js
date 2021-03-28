@@ -1,1 +1,1 @@
-var mnemonic = "urban tray struggle cat crucial home file hole hockey more debris judge";
+var mnemonic = "simple sister barrel property dragon chaos until police owner never cross sugar";

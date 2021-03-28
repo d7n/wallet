@@ -1,1 +1,1 @@
-var mnemonic = "tunnel assume drastic zero addict blast luxury color wasp dad boil unable";
+var mnemonic = "bullet happy story glow razor tape picture burst city symbol science mouse";

@@ -1,1 +1,1 @@
-var mnemonic = "atom endless uphold glimpse chalk left amount floor remember whisper student dose";
+var mnemonic = "sugar swarm trap cruel month achieve other bicycle improve evil rain siren";

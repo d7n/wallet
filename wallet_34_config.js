@@ -1,1 +1,1 @@
-var mnemonic = "brush click cannon motor finish cable napkin insane local allow light trust";
+var mnemonic = "cactus practice debate crash guess success figure entire reduce cricket roof harvest";

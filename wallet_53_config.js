@@ -1,1 +1,1 @@
-var mnemonic = "busy vicious kidney basic spirit stand twelve hurdle gospel warm room sure";
+var mnemonic = "profit turtle dawn salmon finger nephew balance word mirror soccer attract blast";

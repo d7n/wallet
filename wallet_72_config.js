@@ -1,1 +1,1 @@
-var mnemonic = "copper lyrics deny cradle song era fabric way work hurt bitter hero";
+var mnemonic = "kingdom replace survey sort rigid oyster reunion recipe ketchup dwarf cute subject";

@@ -1,1 +1,1 @@
-var mnemonic = "bread thrive forward civil misery cake focus game fan bread tree parent";
+var mnemonic = "brother moment ancient pear dream trim black scheme lonely tooth limb engage";
