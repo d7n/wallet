@@ -1,1 +1,1 @@
-var mnemonic = "cheap sting coconut dinosaur outside carbon grain cattle dutch success vehicle echo";
+var mnemonic = "blouse castle boy whale park genius add left awake choice elbow chronic";

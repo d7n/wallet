@@ -1,1 +1,1 @@
-var mnemonic = "frame patch width wild vivid general biology flag room monster liar alarm";
+var mnemonic = "love front cabbage false donate law talent sudden proof file cousin change";

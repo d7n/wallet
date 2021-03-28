@@ -1,1 +1,1 @@
-var mnemonic = "escape traffic inherit jungle glance stage kind enlist list price month reflect";
+var mnemonic = "artwork permit denial close lab index school together comic equip album mouse";

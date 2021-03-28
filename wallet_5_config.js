@@ -1,1 +1,1 @@
-var mnemonic = "oxygen donor snow autumn diesel kidney glow guess opera able bottom return";
+var mnemonic = "wild escape offer proof number member citizen mad job album photo lecture";

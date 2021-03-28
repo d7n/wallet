@@ -1,1 +1,1 @@
-var mnemonic = "drum carry hope mystery enroll basket sell employ mixture client people swallow";
+var mnemonic = "angle size nothing firm vapor ten coach someone task field cricket lizard";

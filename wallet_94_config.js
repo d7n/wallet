@@ -1,1 +1,1 @@
-var mnemonic = "bless arctic icon bring shallow express satoshi couch minimum radio owner over";
+var mnemonic = "avocado warm sting stomach giraffe refuse length oil sunny powder toss great";

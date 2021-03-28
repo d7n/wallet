@@ -1,1 +1,1 @@
-var mnemonic = "deliver rule onion pledge unknown series region front beach course merge mention";
+var mnemonic = "scrap length receive sign peasant shift talk neither ecology mail put wage";

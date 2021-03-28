@@ -1,1 +1,1 @@
-var mnemonic = "dad addict mechanic velvet try length alley south riot service inspire relax";
+var mnemonic = "wool clip enforce tumble ten cat wool mass kit high salon message";

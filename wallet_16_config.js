@@ -1,1 +1,1 @@
-var mnemonic = "depart battle title trend bachelor arctic dawn rhythm absorb stool topple float";
+var mnemonic = "head seed machine express predict park tonight again later shadow rebuild clap";

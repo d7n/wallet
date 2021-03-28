@@ -1,1 +1,1 @@
-var mnemonic = "stamp gossip million habit tooth license famous heart depend fantasy cruel pig";
+var mnemonic = "impulse reopen subway uncover foam giggle dust outdoor scan number rival when";

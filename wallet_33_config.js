@@ -1,1 +1,1 @@
-var mnemonic = "lyrics guide stumble huge piano museum round fan piano cycle wage pluck";
+var mnemonic = "cream become fashion switch feature stool elephant debate crash animal leader sausage";

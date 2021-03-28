@@ -1,1 +1,1 @@
-var mnemonic = "relax client manage fantasy hobby reopen rabbit stomach lady gap adult legal";
+var mnemonic = "fresh almost kingdom diamond figure detail system material cabbage add old garbage";

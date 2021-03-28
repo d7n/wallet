@@ -1,1 +1,1 @@
-var mnemonic = "hen intact nice stumble easily arrest dial hedgehog minimum border pull rhythm";
+var mnemonic = "action that expire tent bomb pave umbrella paddle brick wait essence truck";

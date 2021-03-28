@@ -1,1 +1,1 @@
-var mnemonic = "base nothing bullet force use praise negative matter network abandon all blade";
+var mnemonic = "major join provide ensure danger future flash exclude shiver alert moon picture";

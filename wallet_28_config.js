@@ -1,1 +1,1 @@
-var mnemonic = "disagree exclude trust doll trouble home song chat crisp brass rug pen";
+var mnemonic = "mosquito regret bundle charge hill patrol dice mass own hover report quiz";

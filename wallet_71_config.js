@@ -1,1 +1,1 @@
-var mnemonic = "badge apart belt square kind gun supply slush script various clean slogan";
+var mnemonic = "find talent charge crowd nominee world series pear joy current cigar burden";

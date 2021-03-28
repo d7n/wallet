@@ -1,1 +1,1 @@
-var mnemonic = "load mule island fruit embark range property exist strike february oak emerge";
+var mnemonic = "copy public proof accident champion team street lawn around cook crucial clutch";

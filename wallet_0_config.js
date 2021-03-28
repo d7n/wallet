@@ -1,1 +1,1 @@
-var mnemonic = "strike catalog bundle execute chat mind napkin car coyote army vacuum wisdom";
+var mnemonic = "symbol remember input airport episode merge high guard bird nurse air lottery";

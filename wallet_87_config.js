@@ -1,1 +1,1 @@
-var mnemonic = "mouse salad dash ball jelly number tent bubble vintage repair stick spice";
+var mnemonic = "balcony sword gorilla noble salute scrub second museum opera coach worry tissue";

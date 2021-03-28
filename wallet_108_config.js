@@ -1,1 +1,1 @@
-var mnemonic = "fiber draw mechanic join rookie remain scout define gun topple domain immune";
+var mnemonic = "mind unhappy carbon casino belt eye retreat gaze empower direct cover short";

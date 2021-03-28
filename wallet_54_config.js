@@ -1,1 +1,1 @@
-var mnemonic = "aim glimpse sausage harvest link space payment tip avocado family aspect reflect";
+var mnemonic = "chair ability delay debate merge come grace avocado casino spider salt coffee";

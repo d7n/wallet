@@ -1,1 +1,1 @@
-var mnemonic = "stadium raven always spoil diesel puppy antique index manual diet violin isolate";
+var mnemonic = "control pilot high account access eye suit such slide this amount display";

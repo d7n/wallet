@@ -1,1 +1,1 @@
-var mnemonic = "truth gym right road film snap hood build rude ahead engine solve";
+var mnemonic = "save train burst chimney artefact pass wing gentle reward mouse head catch";

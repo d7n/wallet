@@ -1,1 +1,1 @@
-var mnemonic = "craft acoustic squeeze vanish remind chef profit hen kingdom twin dash airport";
+var mnemonic = "globe sad future another system fade old dish tissue wrap control vessel";

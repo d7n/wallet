@@ -1,1 +1,1 @@
-var mnemonic = "coyote winner unveil dismiss pepper snack struggle fine inquiry industry blur edit";
+var mnemonic = "vault hood brisk decrease island sleep farm walk security learn security still";

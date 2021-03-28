@@ -1,1 +1,1 @@
-var mnemonic = "erupt still share sister enforce scissors jelly accuse forward jealous hard rescue";
+var mnemonic = "anchor refuse endless vintage captain tenant volume quarter intact sting round neglect";

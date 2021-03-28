@@ -1,1 +1,1 @@
-var mnemonic = "rival awkward task much room sting reject access liquid fix novel change";
+var mnemonic = "coyote wet remember cancel smooth one utility athlete diesel basic betray right";

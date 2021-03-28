@@ -1,1 +1,1 @@
-var mnemonic = "harsh flash dinosaur reduce spy october bulk senior crop safe reason rely";
+var mnemonic = "fatal game man agent brave bleak size slide make must asthma dilemma";

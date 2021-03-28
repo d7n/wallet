@@ -1,1 +1,1 @@
-var mnemonic = "supreme ignore trash demand maximum relief dinosaur finish defense feature vanish lava";
+var mnemonic = "remain moral immense local orchard museum basic history voice stove mother confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "salad prize thought arena between behave record model release shiver tobacco sugar";
+var mnemonic = "spot spice old jeans bridge under keen hire pretty enrich extend right";

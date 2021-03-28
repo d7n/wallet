@@ -1,1 +1,1 @@
-var mnemonic = "guide drama process lab initial kangaroo social tortoise six expect welcome various";
+var mnemonic = "jazz young pupil little track valley wave oak rare deliver spoil cabin";

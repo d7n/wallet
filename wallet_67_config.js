@@ -1,1 +1,1 @@
-var mnemonic = "fetch initial lady vacuum screen smart switch awake garbage they melt scale";
+var mnemonic = "joke search work expect ill hurry inspire express sun gym mask surge";

@@ -1,1 +1,1 @@
-var mnemonic = "put slow mansion churn glory banana term hungry bicycle ordinary holiday purchase";
+var mnemonic = "follow forget blur business series three push forest auction lobster shuffle radar";

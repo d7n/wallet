@@ -1,1 +1,1 @@
-var mnemonic = "chief celery mistake cereal squeeze metal museum hover nest toward rack knife";
+var mnemonic = "allow eyebrow sudden mask sense animal syrup census beef evolve among office";

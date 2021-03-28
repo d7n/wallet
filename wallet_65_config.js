@@ -1,1 +1,1 @@
-var mnemonic = "approve globe daughter voyage olive history citizen raw order theme tongue tenant";
+var mnemonic = "general game home time budget horn advice burst business dog injury pony";

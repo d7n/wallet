@@ -1,1 +1,1 @@
-var mnemonic = "tomato crowd prepare aerobic table proud west casino network shy top swear";
+var mnemonic = "dumb cruise small horror plunge stick what brain hood patient actor crater";

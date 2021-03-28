@@ -1,1 +1,1 @@
-var mnemonic = "kingdom bubble title social blue butter artist client sweet illness vicious inspire";
+var mnemonic = "vacant biology electric immense govern market great pet acquire better mind until";

@@ -1,1 +1,1 @@
-var mnemonic = "onion globe ill drill worth eye address grocery mouse battle mean okay";
+var mnemonic = "text market bachelor off wool roof element picnic frown illness explain snack";

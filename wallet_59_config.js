@@ -1,1 +1,1 @@
-var mnemonic = "tell coast scheme year black easily hamster minute divide plastic hen local";
+var mnemonic = "glory pattern provide lunch live swap earth slab liar treat boss federal";

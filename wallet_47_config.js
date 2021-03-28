@@ -1,1 +1,1 @@
-var mnemonic = "exercise lobster jewel speak orphan oblige trash alone hour final return impose";
+var mnemonic = "awesome parrot noodle april owner practice panda charge remember witness fun rebel";

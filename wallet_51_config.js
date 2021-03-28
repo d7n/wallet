@@ -1,1 +1,1 @@
-var mnemonic = "measure flame cinnamon citizen biology actual stand exercise leave grit fire confirm";
+var mnemonic = "that toe tape indoor cruise funny crane earn rack slim forward exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch kidney once spoil snack deal wrestle hedgehog onion list merit curve";
+var mnemonic = "life type seven pulse leader try super desert poet lazy east trophy";

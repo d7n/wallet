@@ -1,1 +1,1 @@
-var mnemonic = "artwork crowd crater bomb crowd bar iron unfair oval memory fly west";
+var mnemonic = "brave wolf lock toilet steel adult jealous plug fat monitor leader wish";

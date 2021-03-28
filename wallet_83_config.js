@@ -1,1 +1,1 @@
-var mnemonic = "purpose screen quick entry refuse truth imitate stairs fancy nephew spoon float";
+var mnemonic = "asset wine harvest opinion kit axis husband cancel above luggage myself silly";

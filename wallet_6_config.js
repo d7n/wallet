@@ -1,1 +1,1 @@
-var mnemonic = "arrest penalty alcohol combine merge lucky sibling coach clinic fluid arm lucky";
+var mnemonic = "fever love patient speed actor gloom grief fashion praise nature polar candy";

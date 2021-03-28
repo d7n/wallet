@@ -1,1 +1,1 @@
-var mnemonic = "marine chef switch squeeze grape negative anchor license fresh truth above awkward";
+var mnemonic = "surround radar diet sad host hover stomach split sweet cash debate people";

@@ -1,1 +1,1 @@
-var mnemonic = "flight sustain armor document dismiss agree busy ordinary skin hungry taxi devote";
+var mnemonic = "pair orbit farm orient hurry language sleep alien dignity bundle vote disorder";

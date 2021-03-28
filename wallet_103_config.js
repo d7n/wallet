@@ -1,1 +1,1 @@
-var mnemonic = "stage oxygen expand pull decrease access credit lake pioneer cost obscure artefact";
+var mnemonic = "around glance custom trade kick account trick churn child enter thumb end";

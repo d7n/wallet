@@ -1,1 +1,1 @@
-var mnemonic = "biology month unit physical curtain rigid craft short page assist skill unable";
+var mnemonic = "beef upgrade despair pulp huge winter civil airport cradle engage runway become";

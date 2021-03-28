@@ -1,1 +1,1 @@
-var mnemonic = "lesson update fall exhibit tomorrow taxi also sustain elevator rebuild mandate kind";
+var mnemonic = "oyster kit fresh across vital grunt rich badge connect silent local island";

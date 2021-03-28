@@ -1,1 +1,1 @@
-var mnemonic = "paddle feel orphan family retire tonight old cream lift session design village";
+var mnemonic = "column magic file sweet inherit awesome enforce illness shift balcony dawn census";

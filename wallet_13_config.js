@@ -1,1 +1,1 @@
-var mnemonic = "argue letter pudding quote ball mandate gown exhibit sock miss loan crop";
+var mnemonic = "other inquiry ready gym unhappy carpet dress awful topic eyebrow fiscal collect";

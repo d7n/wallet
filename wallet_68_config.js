@@ -1,1 +1,1 @@
-var mnemonic = "cargo armed alone mom champion burden jar oval juice original habit lamp";
+var mnemonic = "try change maximum radio exit squirrel once artwork poem bubble airport sausage";

@@ -1,1 +1,1 @@
-var mnemonic = "arctic cancel mutual will behind furnace retreat like acid hidden ribbon sleep";
+var mnemonic = "abuse champion island thank lunar room boat blur ritual wisdom fantasy mask";

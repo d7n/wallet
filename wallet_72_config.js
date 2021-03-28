@@ -1,1 +1,1 @@
-var mnemonic = "snow liberty fiber start sign yard love viable much expire woman fire";
+var mnemonic = "life tiny winter video damage two must stadium depth ready need poet";

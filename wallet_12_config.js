@@ -1,1 +1,1 @@
-var mnemonic = "resource surge rule forest long health suffer silent this stage dose already";
+var mnemonic = "north radar wait swallow much dirt hotel bulk turn bottom matter action";

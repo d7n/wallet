@@ -1,1 +1,1 @@
-var mnemonic = "profit among race between season lunch together destroy habit thing announce estate";
+var mnemonic = "cause soda local beauty pipe topple beef runway moment scan arm corn";

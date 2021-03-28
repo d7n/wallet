@@ -1,1 +1,1 @@
-var mnemonic = "absent supreme help stomach game rigid uphold demise company pulse trap morning";
+var mnemonic = "siren exchange shift ethics blade buzz term narrow comic churn aerobic venture";

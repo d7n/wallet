@@ -1,1 +1,1 @@
-var mnemonic = "cream upper indoor ocean message fiscal dad dutch portion setup alpha produce";
+var mnemonic = "exit cigar region flat dignity notice cruise gather olive buyer pride rural";

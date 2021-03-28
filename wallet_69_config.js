@@ -1,1 +1,1 @@
-var mnemonic = "tuna awake sunset access speed portion match pupil smoke endless muscle evidence";
+var mnemonic = "galaxy poverty piece check casual gun scout lion measure palace topple day";

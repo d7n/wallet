@@ -1,1 +1,1 @@
-var mnemonic = "time across say finish life drill vehicle famous cake brisk upon flat";
+var mnemonic = "bargain noodle horse battle distance female comic opera panther gloom lyrics reform";

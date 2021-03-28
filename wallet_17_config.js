@@ -1,1 +1,1 @@
-var mnemonic = "dynamic limit ramp garbage front toss frozen spring together pigeon void exhibit";
+var mnemonic = "pulse volcano proof word pumpkin idle program stuff sphere lamp dumb mention";

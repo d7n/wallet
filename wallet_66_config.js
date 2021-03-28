@@ -1,1 +1,1 @@
-var mnemonic = "tiny word churn female stool yellow rely cabin faith clinic degree suit";
+var mnemonic = "bunker fox palace solve fee answer park blood impact need girl thing";

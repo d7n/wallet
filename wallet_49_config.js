@@ -1,1 +1,1 @@
-var mnemonic = "acquire chat now subway surprise wash scrub broom fresh tunnel enroll draft";
+var mnemonic = "brown opera fox box useless wrap tobacco hurt target uphold marine inmate";

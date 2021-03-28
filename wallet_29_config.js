@@ -1,1 +1,1 @@
-var mnemonic = "viable parent giggle wrestle tone human luggage history weapon inject core imitate";
+var mnemonic = "convince illness train betray idle bone ritual turkey rocket nation usual battle";

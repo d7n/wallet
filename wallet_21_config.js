@@ -1,1 +1,1 @@
-var mnemonic = "pill still embody mistake place useful border festival honey twin host require";
+var mnemonic = "copy envelope circle gorilla swift labor suffer scale involve danger bacon tent";

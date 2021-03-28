@@ -1,1 +1,1 @@
-var mnemonic = "lizard change range dance oak now surge south mutual spice deny scrap";
+var mnemonic = "maid dinner proud ritual alien mammal evil kingdom develop virus jelly sniff";

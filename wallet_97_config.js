@@ -1,1 +1,1 @@
-var mnemonic = "hub food wisdom advice skin normal august caution crazy siren helmet burst";
+var mnemonic = "penalty history age garden later parrot pull category obey verb clown pizza";

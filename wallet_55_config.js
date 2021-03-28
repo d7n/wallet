@@ -1,1 +1,1 @@
-var mnemonic = "fatigue submit snow much toe timber opinion acoustic crouch shiver walk orient";
+var mnemonic = "merge usual strong enhance throw trumpet oven effort vessel gas fog liar";

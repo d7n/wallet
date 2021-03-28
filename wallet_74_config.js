@@ -1,1 +1,1 @@
-var mnemonic = "miss blood lemon sustain sun dust disagree run heart box volume rose";
+var mnemonic = "boring lumber have gorilla pony staff bean alert chalk cruise firm bus";

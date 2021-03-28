@@ -1,1 +1,1 @@
-var mnemonic = "general robot trick glance oppose ramp damp antique throw accident perfect else";
+var mnemonic = "aspect impulse fever wet bind same insane trip arrange benefit tribe maple";

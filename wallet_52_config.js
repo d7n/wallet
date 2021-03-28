@@ -1,1 +1,1 @@
-var mnemonic = "arch slogan device staff jazz change call book lesson canoe fatigue minute";
+var mnemonic = "sauce casino volcano general dutch twice private heart game field phone security";

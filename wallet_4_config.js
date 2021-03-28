@@ -1,1 +1,1 @@
-var mnemonic = "abuse soda bitter wear gain attitude fresh slender rich mechanic bicycle annual";
+var mnemonic = "trim myth tiger own velvet grid help scrub barely vocal rate beauty";

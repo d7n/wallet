@@ -1,1 +1,1 @@
-var mnemonic = "sadness bronze judge timber team news mercy execute amateur dad slogan prosper";
+var mnemonic = "horse online gift fan lunch much bring shoulder you ensure mandate zebra";

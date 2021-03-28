@@ -1,1 +1,1 @@
-var mnemonic = "merry student six vacant flash indicate inquiry fan scale bleak skin gold";
+var mnemonic = "stumble peanut nerve fetch oak elbow sign flock lens radar rescue plate";

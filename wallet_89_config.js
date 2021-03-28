@@ -1,1 +1,1 @@
-var mnemonic = "luxury people tide fiction waste never install verify govern account bacon vessel";
+var mnemonic = "hospital pulp become noodle learn rack brave nothing march saddle occur melt";

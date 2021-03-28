@@ -1,1 +1,1 @@
-var mnemonic = "auction crane popular drip vapor summer absurd fresh gasp derive leave human";
+var mnemonic = "hour shoe party spy carpet sock settle unit upgrade suspect history lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "you salad power high glory about diary journey write chicken only quality";
+var mnemonic = "fix squirrel awkward innocent guess shift hammer smooth father illness smoke arctic";

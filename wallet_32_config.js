@@ -1,1 +1,1 @@
-var mnemonic = "sphere task swamp cloud grocery bargain puppy bag hint dutch upgrade index";
+var mnemonic = "film civil ranch note toilet comfort reward nephew search extend potato couch";

@@ -1,1 +1,1 @@
-var mnemonic = "scrub knife husband pact nephew august rebuild fragile disorder tomorrow wet already";
+var mnemonic = "picnic often stuff illness rate hollow glory impulse area exact stable error";

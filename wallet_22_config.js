@@ -1,1 +1,1 @@
-var mnemonic = "twist hard couch sea resist popular movie broom sibling present square october";
+var mnemonic = "aunt lion divert plate trap shadow sad jealous jump team solution empower";

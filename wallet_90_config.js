@@ -1,1 +1,1 @@
-var mnemonic = "equal special view square door woman feed potato super cupboard section derive";
+var mnemonic = "quarter insane pizza current ridge ten price bird punch accuse bronze theory";

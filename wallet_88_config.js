@@ -1,1 +1,1 @@
-var mnemonic = "market review derive meat mechanic belt current fluid couple burst toss clean";
+var mnemonic = "hundred this basic among carry relief stool tuition awkward mix flower away";

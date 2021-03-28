@@ -1,1 +1,1 @@
-var mnemonic = "urge fish yard carpet goddess afraid mandate sting truth pull finish lemon";
+var mnemonic = "diet exile similar buzz bullet hint tribe eight uniform clerk arch venture";

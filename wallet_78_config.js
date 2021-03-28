@@ -1,1 +1,1 @@
-var mnemonic = "oblige mercy salon okay border edge sell dutch mistake drastic firm wage";
+var mnemonic = "salute inmate panda iron salad metal injury trigger school treat cool horn";

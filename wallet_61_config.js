@@ -1,1 +1,1 @@
-var mnemonic = "accident snake beauty grunt submit can attract truck reduce mask slim then";
+var mnemonic = "unusual gun together slow barrel identify kitten silly faith race blame theme";

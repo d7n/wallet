@@ -1,1 +1,1 @@
-var mnemonic = "mail foot myself family fiscal gate cluster breeze nice goose walk soccer";
+var mnemonic = "online person gold alpha birth broccoli october poem key identify marble brass";

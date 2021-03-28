@@ -1,1 +1,1 @@
-var mnemonic = "outer fury anchor draft own image yard oven chair permit will turkey";
+var mnemonic = "sting paper dance quit scale tube size ignore hawk season forget review";

@@ -1,1 +1,1 @@
-var mnemonic = "rally twin trigger proof lizard toward live genuine trial reflect pistol rely";
+var mnemonic = "orange surge hollow reward island glass symbol faint index coffee say discover";

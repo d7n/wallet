@@ -1,1 +1,1 @@
-var mnemonic = "wire ancient fan expand resource happy model tragic verify animal legend fork";
+var mnemonic = "tone swallow forest magnet entire balance business father menu hollow resist sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "hospital head penalty feature brown wrist envelope trade venue sock caught busy";
+var mnemonic = "rain little game blood frame uniform dizzy trade decrease fiber violin wood";
