@@ -1,1 +1,1 @@
-var mnemonic = "used want voice visa medal render frozen wool pen column odor nothing";
+var mnemonic = "melody heavy away deputy laptop coin chief apart afford video address defy";

@@ -1,1 +1,1 @@
-var mnemonic = "museum render dress require barrel oyster phone unusual dice jar smile sketch";
+var mnemonic = "scout century marble share rare pitch walk balance ski chair rescue limit";

@@ -1,1 +1,1 @@
-var mnemonic = "staff prize ketchup need desert stay decrease measure typical local play world";
+var mnemonic = "scissors elite net group useful choice hold tip reduce inch security stem";

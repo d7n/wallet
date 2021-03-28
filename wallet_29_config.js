@@ -1,1 +1,1 @@
-var mnemonic = "detect fitness mistake stumble medal inspire behind donate confirm leg doll mountain";
+var mnemonic = "joke enemy minimum second course all earn position just benefit nephew lava";

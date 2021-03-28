@@ -1,1 +1,1 @@
-var mnemonic = "place tone cost very pumpkin meat outer mansion pluck bunker unaware direct";
+var mnemonic = "rib blade medal chunk midnight bright news banner random emerge juice reunion";

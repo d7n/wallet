@@ -1,1 +1,1 @@
-var mnemonic = "rural horse penalty atom company usual push people about sail ginger random";
+var mnemonic = "digital grape live butter gold bachelor unfair public east rude journey display";

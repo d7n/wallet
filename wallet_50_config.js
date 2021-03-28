@@ -1,1 +1,1 @@
-var mnemonic = "mushroom giggle broccoli obvious shuffle art mammal hair chef umbrella gather topic";
+var mnemonic = "stairs orchard buddy strong nice lyrics chief patch link jazz music matrix";

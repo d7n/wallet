@@ -1,1 +1,1 @@
-var mnemonic = "hospital february dust space fatal swift meadow rude rhythm earn candy canvas";
+var mnemonic = "repair pen ceiling skirt video able glare when oblige cash frown together";

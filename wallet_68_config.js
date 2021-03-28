@@ -1,1 +1,1 @@
-var mnemonic = "click mesh ankle upset auto foil gentle auto fringe leader symptom panther";
+var mnemonic = "sting door wave tail endorse cloth engage actor correct width person disease";

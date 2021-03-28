@@ -1,1 +1,1 @@
-var mnemonic = "among check unable salad easy case truth alter junior issue infant yard";
+var mnemonic = "rabbit twenty photo arena foster position above surprise flat large jaguar east";

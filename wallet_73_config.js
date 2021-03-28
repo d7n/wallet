@@ -1,1 +1,1 @@
-var mnemonic = "coin nephew fortune top calm bracket pattern absorb boss text rate kiss";
+var mnemonic = "leg spawn taxi salon edge myth confirm method dirt cruise case blouse";

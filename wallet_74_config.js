@@ -1,1 +1,1 @@
-var mnemonic = "obvious marine spring submit innocent vicious spike palm bench length tortoise rib";
+var mnemonic = "clock foot ripple battle ship butter illegal lyrics witness dawn merit arm";

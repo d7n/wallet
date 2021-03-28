@@ -1,1 +1,1 @@
-var mnemonic = "critic ensure aisle remind correct pelican saddle admit emerge scout truth online";
+var mnemonic = "pelican exact marble jungle light cluster meat can remove output rug empty";

@@ -1,1 +1,1 @@
-var mnemonic = "news valley jaguar adapt clerk horror snap trumpet kiwi involve balcony glow";
+var mnemonic = "fashion mandate love unit margin cricket rose monster session fatigue clump oppose";

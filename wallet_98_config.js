@@ -1,1 +1,1 @@
-var mnemonic = "grow length tower first damp life label earn claw squeeze upper tent";
+var mnemonic = "gun orphan name cricket crouch guard wheel athlete art wool butter real";

@@ -1,1 +1,1 @@
-var mnemonic = "stage prepare foot industry word pact quit concert old organ doctor loud";
+var mnemonic = "segment hurt powder garment whisper update index mirror cry word used naive";

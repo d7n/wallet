@@ -1,1 +1,1 @@
-var mnemonic = "glove issue inside annual swear they kid text curtain exhibit daughter bacon";
+var mnemonic = "local stove illegal glide govern talent slush city illegal maid buyer moment";

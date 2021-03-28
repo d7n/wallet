@@ -1,1 +1,1 @@
-var mnemonic = "pool rhythm snap dynamic false consider claw network drastic dragon nice cotton";
+var mnemonic = "march tobacco pencil decide rib bonus bundle ordinary impose pill wonder march";

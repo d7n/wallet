@@ -1,1 +1,1 @@
-var mnemonic = "stuff evolve iron become clean swarm regret expire zero amount derive visit";
+var mnemonic = "black girl unhappy cool text calm spice address work always dial poverty";

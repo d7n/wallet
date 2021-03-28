@@ -1,1 +1,1 @@
-var mnemonic = "master goose account away dress recipe make upset dust online burst steak";
+var mnemonic = "list estate chaos soap velvet exact tide spike hundred pet trap horror";

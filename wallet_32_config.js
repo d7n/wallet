@@ -1,1 +1,1 @@
-var mnemonic = "earn height promote try hold scissors feature venture unhappy lottery fantasy blind";
+var mnemonic = "render drum prepare riot daring desk move twist vintage staff morning rich";

@@ -1,1 +1,1 @@
-var mnemonic = "drill chapter river evolve soft talk define glide oil excess issue stock";
+var mnemonic = "hidden ancient mention always upper object arrive concert unveil frog dinosaur inject";

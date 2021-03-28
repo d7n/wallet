@@ -1,1 +1,1 @@
-var mnemonic = "armed clutch nest wealth swear sketch vault stone host throw stand bitter";
+var mnemonic = "behave fashion observe tackle worth execute mirror bamboo filter same bubble guide";

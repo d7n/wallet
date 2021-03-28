@@ -1,1 +1,1 @@
-var mnemonic = "mixed canoe execute depart ostrich fiction borrow alarm about flock outside frown";
+var mnemonic = "skate dry fix gravity trust unusual upgrade capital above cricket category toy";

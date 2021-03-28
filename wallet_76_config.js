@@ -1,1 +1,1 @@
-var mnemonic = "search praise hood decline proud heart culture remember attend grow sure equal";
+var mnemonic = "permit someone salmon security idea brave grab gasp exile bridge stumble balance";

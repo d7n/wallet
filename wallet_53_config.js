@@ -1,1 +1,1 @@
-var mnemonic = "velvet tonight raccoon call give taste tourist innocent certain public craft reduce";
+var mnemonic = "canvas cabin capable toss moment novel stage once file scale few portion";

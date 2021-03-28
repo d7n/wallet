@@ -1,1 +1,1 @@
-var mnemonic = "method fish awake genius stomach suggest pear perfect coffee orient build step";
+var mnemonic = "daughter half shop off trend moon dumb indoor rice brand illness gather";

@@ -1,1 +1,1 @@
-var mnemonic = "pepper unfair shoe donate unfold spin acoustic picture leopard august hub blouse";
+var mnemonic = "law trophy plastic tree negative scrub whale ring top donate acid message";

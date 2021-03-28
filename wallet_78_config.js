@@ -1,1 +1,1 @@
-var mnemonic = "demise amazing mad wrap vacuum tool bind book ancient until silly owner";
+var mnemonic = "few pass pink mushroom small arrow toss potato help video kangaroo cute";

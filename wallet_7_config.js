@@ -1,1 +1,1 @@
-var mnemonic = "provide clay able marriage assault shoulder example used roast noodle comfort race";
+var mnemonic = "gap cloud chimney stuff build limit grunt outer about bronze jewel coach";

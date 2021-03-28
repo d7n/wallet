@@ -1,1 +1,1 @@
-var mnemonic = "target sight renew adjust front purse system nuclear label silver item saddle";
+var mnemonic = "segment tired neglect lesson mail squeeze peasant foster song eternal wait wrong";

@@ -1,1 +1,1 @@
-var mnemonic = "clog neglect ketchup quiz blue warfare bitter animal axis song clown rent";
+var mnemonic = "peace cram lift ring trade casual venture enrich lens orange unveil roof";

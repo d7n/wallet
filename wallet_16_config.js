@@ -1,1 +1,1 @@
-var mnemonic = "behave know pudding copy kitchen truth gift work column shine mail gadget";
+var mnemonic = "magnet kick thrive net steak good mom document bachelor tide similar palm";

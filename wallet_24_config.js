@@ -1,1 +1,1 @@
-var mnemonic = "farm dumb session order pudding uniform resource require pioneer truck chaos source";
+var mnemonic = "husband bar resource report chuckle oyster crane glide slender mesh ability scheme";

@@ -1,1 +1,1 @@
-var mnemonic = "naive fabric country soft art language boss bus warfare interest rather force";
+var mnemonic = "surround shiver hollow material time extra dance scale puppy wheat ribbon security";

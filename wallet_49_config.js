@@ -1,1 +1,1 @@
-var mnemonic = "pink sniff teach track fiscal achieve satisfy march tube pole later fever";
+var mnemonic = "opera author lottery awesome inhale trophy awesome anchor narrow level keen area";

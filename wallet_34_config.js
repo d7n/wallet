@@ -1,1 +1,1 @@
-var mnemonic = "caught oven glad evolve vital group scout welcome stamp okay high pole";
+var mnemonic = "noise tuition box main collect glance reflect admit maximum under possible upper";

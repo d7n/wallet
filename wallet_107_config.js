@@ -1,1 +1,1 @@
-var mnemonic = "raw screen useful eyebrow twin month universe either speed muscle unit history";
+var mnemonic = "chicken churn great inflict morning yellow document stable muscle follow age spring";

@@ -1,1 +1,1 @@
-var mnemonic = "inner figure friend write wood dove hammer unfold concert scrub example rally";
+var mnemonic = "witness lunch enforce rookie buffalo social toy number lava critic increase march";

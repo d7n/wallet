@@ -1,1 +1,1 @@
-var mnemonic = "course social taxi avoid shy garden elephant topic wisdom outside decline drip";
+var mnemonic = "switch omit engage certain upper okay wave material nothing crew miracle door";

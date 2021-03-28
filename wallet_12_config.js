@@ -1,1 +1,1 @@
-var mnemonic = "cute vehicle limb bone dawn motor half toilet silent test bounce annual";
+var mnemonic = "giggle glass chalk valve deputy buffalo strategy top minimum balcony shadow thrive";

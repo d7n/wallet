@@ -1,1 +1,1 @@
-var mnemonic = "manual cargo mirror type lumber word announce gadget bunker legend stay seed";
+var mnemonic = "marriage tray canoe crime remain kid always body paper author learn young";

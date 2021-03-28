@@ -1,1 +1,1 @@
-var mnemonic = "dream link shiver draft holiday purchase bean under tunnel silk sustain hawk";
+var mnemonic = "asset cash measure divide divorce marine lizard gate divide tray pond fitness";

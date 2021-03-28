@@ -1,1 +1,1 @@
-var mnemonic = "biology ordinary success pass visual lunar chimney bonus creek canal mobile acid";
+var mnemonic = "acid become success vanish say unique seminar arrow pulp congress identify gorilla";

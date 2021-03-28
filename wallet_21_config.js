@@ -1,1 +1,1 @@
-var mnemonic = "adult theme spoon awake engine eagle tourist destroy duty detail hello song";
+var mnemonic = "devote shove armed drop bench soldier fantasy million vintage harvest pave either";

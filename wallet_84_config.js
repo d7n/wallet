@@ -1,1 +1,1 @@
-var mnemonic = "grace bullet canoe casual gold point profit champion cactus distance frame laundry";
+var mnemonic = "plate wear vehicle rose mad useful horn crane swear demise cabin doll";

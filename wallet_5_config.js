@@ -1,1 +1,1 @@
-var mnemonic = "talk town knee harsh hello sail fiction pioneer bronze capable step feed";
+var mnemonic = "possible toilet hidden soldier better novel genius claw tennis mirror damage amateur";

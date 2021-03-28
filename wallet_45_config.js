@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog cigar fire zoo exist donor street struggle chair spirit usage gloom";
+var mnemonic = "glass final useless open empty worry high trim anger peace early insane";

@@ -1,1 +1,1 @@
-var mnemonic = "forest seat faith clinic ball about angry steel degree coin crystal entry";
+var mnemonic = "luxury enact middle twelve desert soldier derive joy spice season air blame";

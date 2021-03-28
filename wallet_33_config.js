@@ -1,1 +1,1 @@
-var mnemonic = "biology wire game track noise turtle clarify month follow eyebrow era priority";
+var mnemonic = "enough voice risk ketchup shine general post better chalk fresh impact promote";

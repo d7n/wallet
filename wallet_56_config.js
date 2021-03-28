@@ -1,1 +1,1 @@
-var mnemonic = "raise okay trick dolphin fatal draft push chicken smile purity pink wrist";
+var mnemonic = "net muffin ginger deny arch elephant toast once alien sleep crazy apart";

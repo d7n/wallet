@@ -1,1 +1,1 @@
-var mnemonic = "close heart author logic dice absent emotion ostrich glory valve mansion chat";
+var mnemonic = "remove diamond gun finger cluster situate exist keep craft gate catalog fire";

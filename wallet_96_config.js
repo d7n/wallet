@@ -1,1 +1,1 @@
-var mnemonic = "casual increase lion sad nest boat remove topic ribbon vendor ketchup tray";
+var mnemonic = "slim stage improve style wrap exist lazy genre never plug fish lend";

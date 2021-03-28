@@ -1,1 +1,1 @@
-var mnemonic = "engine purchase nature round random beyond capable month margin balcony stock distance";
+var mnemonic = "duty furnace clip dress remember manage please retire quick electric border live";

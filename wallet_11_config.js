@@ -1,1 +1,1 @@
-var mnemonic = "love visit ladder casino model way sign finish crazy suspect apart year";
+var mnemonic = "right betray filter kitten fiscal dose indoor time eyebrow delay file budget";

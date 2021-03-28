@@ -1,1 +1,1 @@
-var mnemonic = "pioneer salt allow afford wife call next allow broken cricket pig denial";
+var mnemonic = "crew approve stove asthma couple caution chaos join disorder friend plug forward";

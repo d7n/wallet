@@ -1,1 +1,1 @@
-var mnemonic = "shrug solve bundle melody sheriff trumpet attract food magic blouse unfold scorpion";
+var mnemonic = "car cube taste before fault coyote visit dust dynamic tragic wealth fiber";

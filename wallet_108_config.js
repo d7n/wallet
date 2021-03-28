@@ -1,1 +1,1 @@
-var mnemonic = "smile awkward document rhythm emerge album game brush bag deliver season squirrel";
+var mnemonic = "favorite lawsuit firm ready juice summer master solve smoke memory admit company";

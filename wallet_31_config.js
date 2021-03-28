@@ -1,1 +1,1 @@
-var mnemonic = "circle notable attend item rent lock grain fantasy proof perfect minimum club";
+var mnemonic = "century potato door abuse parrot lecture wedding fork toss moral rule suit";

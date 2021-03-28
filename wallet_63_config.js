@@ -1,1 +1,1 @@
-var mnemonic = "farm card pony attack large rally chunk private orphan much day plate";
+var mnemonic = "shadow long clarify loyal twice fat film ordinary saddle scrub key spike";

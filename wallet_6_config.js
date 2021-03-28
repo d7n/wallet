@@ -1,1 +1,1 @@
-var mnemonic = "time bread chaos night admit muscle hill abstract follow sphere ask improve";
+var mnemonic = "hospital view grant man cook raven display game medal volume grief peanut";

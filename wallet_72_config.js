@@ -1,1 +1,1 @@
-var mnemonic = "fly avoid token monitor climb toddler equal cinnamon museum merge afraid alley";
+var mnemonic = "flock hammer setup burden favorite artefact slab tip inflict book evolve fruit";

@@ -1,1 +1,1 @@
-var mnemonic = "report coffee solar thank couple lounge love hub high system eye sing";
+var mnemonic = "tiny guide edit large copy hub explain ice fee elite normal devote";

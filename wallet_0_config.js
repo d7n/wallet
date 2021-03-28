@@ -1,1 +1,1 @@
-var mnemonic = "bounce turtle gloom reduce another treat blush infant service end satoshi retire";
+var mnemonic = "mammal garment mail super slide coyote emotion eagle fox brick suit modify";

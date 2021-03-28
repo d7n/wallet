@@ -1,1 +1,1 @@
-var mnemonic = "start bubble learn approve account parent series slim drill recall obtain drastic";
+var mnemonic = "defense erode concert ensure black reward net powder nose logic hurry solar";

@@ -1,1 +1,1 @@
-var mnemonic = "solar walk outer remind taxi patient extend drive margin track wait wash";
+var mnemonic = "reopen patch month lyrics engage tattoo tell shoe attend satisfy gloom sleep";

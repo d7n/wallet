@@ -1,1 +1,1 @@
-var mnemonic = "require middle dizzy alpha shadow lady news secret scorpion junior final lumber";
+var mnemonic = "dizzy nuclear diamond indicate property crop dream infant vintage boil erosion acid";

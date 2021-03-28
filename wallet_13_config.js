@@ -1,1 +1,1 @@
-var mnemonic = "torch depend face salon spray miracle position cupboard employ welcome ghost select";
+var mnemonic = "furnace decide crawl youth strong divorce erode churn split ketchup dynamic glue";

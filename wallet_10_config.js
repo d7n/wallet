@@ -1,1 +1,1 @@
-var mnemonic = "patch impulse equal seed puzzle unhappy indoor magnet aunt rabbit envelope afraid";
+var mnemonic = "cannon utility push void novel immune segment hospital giggle anger among relief";

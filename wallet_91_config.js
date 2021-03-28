@@ -1,1 +1,1 @@
-var mnemonic = "depart sphere across aunt profit shy round elevator crystal rough wheel cave";
+var mnemonic = "mask fog fortune clip shallow razor tribe bicycle bonus true alone cotton";

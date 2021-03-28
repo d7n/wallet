@@ -1,1 +1,1 @@
-var mnemonic = "focus inform donkey summer laundry aware sorry saddle snack add please repeat";
+var mnemonic = "doctor enact blind game asset fresh kid bargain orange tornado limb annual";

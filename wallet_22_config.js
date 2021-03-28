@@ -1,1 +1,1 @@
-var mnemonic = "rabbit skill exhibit mirror leave sound execute dignity learn twelve act monster";
+var mnemonic = "receive main swamp tuna tackle grain pulse able chaos cancel unknown jump";

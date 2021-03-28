@@ -1,1 +1,1 @@
-var mnemonic = "occur soup hundred old autumn immune steak biology stick summer off hire";
+var mnemonic = "miss hidden february trip diary purity spell correct mention stomach movie sock";

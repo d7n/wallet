@@ -1,1 +1,1 @@
-var mnemonic = "rotate struggle quarter glue oyster reflect path swamp negative square pig trial";
+var mnemonic = "access churn antenna garage state beach pair memory smoke agree opinion evil";

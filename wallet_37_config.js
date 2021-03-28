@@ -1,1 +1,1 @@
-var mnemonic = "taste spice prosper intact allow supreme hello nurse that giraffe blind gaze";
+var mnemonic = "cigar actual main load north inmate key quarter repeat include pulp develop";

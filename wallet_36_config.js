@@ -1,1 +1,1 @@
-var mnemonic = "menu law stove clap learn fancy mesh impact hair robot eye leisure";
+var mnemonic = "warfare anchor random reform paper sock cake defy hire permit town reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "park whisper yellow close split wasp foot range birth bright silver ten";
+var mnemonic = "symbol stamp still menu upset asset ski they culture profit icon flame";

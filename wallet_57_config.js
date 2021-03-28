@@ -1,1 +1,1 @@
-var mnemonic = "summer salad timber uncover ride then document lottery script treat carbon flee";
+var mnemonic = "sail glimpse mesh coral cover mango second treat misery ask oppose increase";

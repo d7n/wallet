@@ -1,1 +1,1 @@
-var mnemonic = "truck find present enough supreme spend office wrestle already siege afford rent";
+var mnemonic = "whale liquid marine arch feed balance pepper city miracle obscure tilt filter";

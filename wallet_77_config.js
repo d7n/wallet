@@ -1,1 +1,1 @@
-var mnemonic = "shell action timber famous smooth acquire help toy illness squeeze fun axis";
+var mnemonic = "type engine search suspect village gate advice honey early rough power task";

@@ -1,1 +1,1 @@
-var mnemonic = "lava riot lady trust phone gun foster real tool update remain lonely";
+var mnemonic = "cheese admit envelope few pave inherit sound iron few stock sure smoke";

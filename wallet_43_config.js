@@ -1,1 +1,1 @@
-var mnemonic = "pond empower mystery emotion soup sell check person vicious length poet plate";
+var mnemonic = "fun athlete junk soap hurt check burst rain soda exchange seek mixed";

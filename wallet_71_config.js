@@ -1,1 +1,1 @@
-var mnemonic = "open couple comic belt sport loyal provide cruise rail slow zoo ancient";
+var mnemonic = "blouse rate jazz motion express solve sense mask aerobic gauge wide glory";
