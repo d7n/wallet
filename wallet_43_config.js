@@ -1,1 +1,1 @@
-var mnemonic = "learn rookie pluck forget ugly idea force man civil certain mammal twice";
+var mnemonic = "shield hold provide clerk pause kitchen cool reflect obscure lend adjust produce";

@@ -1,1 +1,1 @@
-var mnemonic = "reform baby sun sketch sign apple energy someone clinic evoke crime wall";
+var mnemonic = "chronic green unfold broccoli luggage mango plunge pony level shrug actor thank";

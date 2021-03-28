@@ -1,1 +1,1 @@
-var mnemonic = "fiction swing world traffic service tool system above grain canvas panic together";
+var mnemonic = "issue warfare allow machine display more popular initial sweet provide property either";

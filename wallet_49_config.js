@@ -1,1 +1,1 @@
-var mnemonic = "palm matrix step useful enemy tool suspect like move yellow palace major";
+var mnemonic = "engine adjust dog flush great height emotion old bean vague catch exile";

@@ -1,1 +1,1 @@
-var mnemonic = "famous bracket glance dentist august rescue convince lamp mutual jacket win buzz";
+var mnemonic = "arrange scene crush fossil baby audit catalog vanish mirror cost right human";

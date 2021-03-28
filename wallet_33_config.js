@@ -1,1 +1,1 @@
-var mnemonic = "present broken size infant lesson excite lion meadow true welcome grid income";
+var mnemonic = "giraffe merit measure image keen thrive bone garbage consider three page expose";

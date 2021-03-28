@@ -1,1 +1,1 @@
-var mnemonic = "crime kitten win crowd cause fiction option robot limb fault omit later";
+var mnemonic = "raw expand auction physical parent category title stone ticket gauge swap finish";

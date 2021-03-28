@@ -1,1 +1,1 @@
-var mnemonic = "page grace embark peasant disorder run spatial wrist erode pink outer dirt";
+var mnemonic = "mosquito fly age little kid language ginger sample slice sunny casino caught";

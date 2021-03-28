@@ -1,1 +1,1 @@
-var mnemonic = "dress someone tunnel punch noise deposit hungry provide spirit victory early ahead";
+var mnemonic = "pattern under course craft upgrade swap firm strike tissue street endless puppy";

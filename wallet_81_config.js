@@ -1,1 +1,1 @@
-var mnemonic = "potato street verify bench child stool lab clinic before thrive yard goose";
+var mnemonic = "search faculty tool practice phone next meadow shell bounce elbow oblige hurdle";

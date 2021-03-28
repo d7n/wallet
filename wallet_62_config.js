@@ -1,1 +1,1 @@
-var mnemonic = "tenant lucky unfair column mother praise spell detail inmate argue glide crush";
+var mnemonic = "mango express course outside live exhaust mean catch decide vicious sudden survey";

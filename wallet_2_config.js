@@ -1,1 +1,1 @@
-var mnemonic = "feed pill cat window tunnel document parent wet cupboard van ensure motion";
+var mnemonic = "pill rhythm elite fever jaguar tragic peace hotel burst wheel settle popular";

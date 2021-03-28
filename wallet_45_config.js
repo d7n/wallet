@@ -1,1 +1,1 @@
-var mnemonic = "crop debris amazing siren door grit rent napkin mirror draw despair miss";
+var mnemonic = "actor impose sister absorb mobile mercy cactus drip horror fan tornado target";

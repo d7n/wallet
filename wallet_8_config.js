@@ -1,1 +1,1 @@
-var mnemonic = "body void either voyage blue purpose fly nut fantasy matrix virus stereo";
+var mnemonic = "tragic inject misery dentist combine urban fall roof junk shrug heavy gas";

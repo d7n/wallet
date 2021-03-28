@@ -1,1 +1,1 @@
-var mnemonic = "axis van pride pigeon double climb trust soap tribe sheriff theory cruise";
+var mnemonic = "such pretty century check tourist area keep river nephew exchange bacon seek";

@@ -1,1 +1,1 @@
-var mnemonic = "garage neck lawsuit prize visual measure pear survey history inquiry galaxy humor";
+var mnemonic = "since leg can purchase uncover artefact artefact cabin chaos movie school tobacco";

@@ -1,1 +1,1 @@
-var mnemonic = "critic toss hill cousin expire vendor define swap curious floor road move";
+var mnemonic = "giraffe talent barrel tonight dawn crew clarify grocery torch avocado nurse pole";

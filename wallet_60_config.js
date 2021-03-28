@@ -1,1 +1,1 @@
-var mnemonic = "vessel dinosaur fly renew enforce electric canyon carbon ill quiz response life";
+var mnemonic = "sponsor trash laugh layer round boring hotel enlist ship bridge legend meadow";

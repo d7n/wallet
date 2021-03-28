@@ -1,1 +1,1 @@
-var mnemonic = "vacuum federal trap guilt laundry doctor garbage goose surprise output aspect october";
+var mnemonic = "license tattoo bronze kangaroo citizen conduct output segment slow robust detail then";

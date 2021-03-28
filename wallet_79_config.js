@@ -1,1 +1,1 @@
-var mnemonic = "urban black tool enroll wrist diesel novel apart organ session update lesson";
+var mnemonic = "music feel item carpet concert drill cruise casino never theory spy rib";

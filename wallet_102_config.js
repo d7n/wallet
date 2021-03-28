@@ -1,1 +1,1 @@
-var mnemonic = "day cram equip genre pudding mountain crush chest task shrug doll social";
+var mnemonic = "invite slab thank priority talent diamond promote doll agree alpha brisk orchard";

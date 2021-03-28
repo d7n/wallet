@@ -1,1 +1,1 @@
-var mnemonic = "sock tape menu spoil orange arctic fit lesson guilt useless robot inspire";
+var mnemonic = "rural doctor fame print surface language kitchen chimney motor useful winter crew";

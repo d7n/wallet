@@ -1,1 +1,1 @@
-var mnemonic = "mushroom host happy tongue cluster hurry second arrest marble doll video joy";
+var mnemonic = "knock remove quantum type burger pledge dad diary essence organ bless ugly";

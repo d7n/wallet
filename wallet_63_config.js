@@ -1,1 +1,1 @@
-var mnemonic = "rain easy half margin claim apple upset supreme woman inject dish custom";
+var mnemonic = "verify identify kangaroo flag express plate finger screen rebel response valve behave";

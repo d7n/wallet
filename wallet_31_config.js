@@ -1,1 +1,1 @@
-var mnemonic = "tuition vast put dream diesel glad renew omit equal manual oak fade";
+var mnemonic = "top champion fringe jump coconut old peasant repeat rotate deny believe family";

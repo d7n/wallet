@@ -1,1 +1,1 @@
-var mnemonic = "reduce custom gold chalk mirror nut label address lawsuit hybrid dash poverty";
+var mnemonic = "voice man suit prefer panic front clinic run scatter panther ivory badge";

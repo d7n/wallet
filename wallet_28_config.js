@@ -1,1 +1,1 @@
-var mnemonic = "pave thing deer eternal wedding code bind oblige make ceiling wine tortoise";
+var mnemonic = "gallery glory spirit spot sudden child female breeze tooth diet canoe gym";

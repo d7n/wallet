@@ -1,1 +1,1 @@
-var mnemonic = "egg next tomorrow minor insane portion pill glory dinner story gasp palace";
+var mnemonic = "clock together sudden prepare panther keen crash profit account elegant deer flat";

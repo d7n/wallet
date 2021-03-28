@@ -1,1 +1,1 @@
-var mnemonic = "purse cradle argue cigar inmate harbor barely tunnel ginger yellow taxi talk";
+var mnemonic = "midnight joke toy upgrade story siege drive mad dice fossil capital wood";

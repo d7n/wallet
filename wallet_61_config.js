@@ -1,1 +1,1 @@
-var mnemonic = "address federal project bunker impose remain document elevator few cabbage access finish";
+var mnemonic = "issue grass junk burden rigid erase lunar imitate matrix lucky forum exchange";

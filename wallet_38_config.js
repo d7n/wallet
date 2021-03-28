@@ -1,1 +1,1 @@
-var mnemonic = "bundle logic demise album basic artwork between helmet version gold ride menu";
+var mnemonic = "basic try advice upper pioneer rural nominee pattern account scene artist quality";

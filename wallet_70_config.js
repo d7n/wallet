@@ -1,1 +1,1 @@
-var mnemonic = "noodle seat cost mixture square neither minor certain write surprise pet hover";
+var mnemonic = "document apple burden history panda bargain error crystal certain path doll magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk advice jealous scan fit sniff voyage square top such marble primary";
+var mnemonic = "mobile aisle dose decrease code loyal session size verify snake silly sister";

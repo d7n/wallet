@@ -1,1 +1,1 @@
-var mnemonic = "report wild dice total dignity onion figure upgrade gorilla judge cannon initial";
+var mnemonic = "exit jungle august clever rival early ensure limit retire crew almost buyer";

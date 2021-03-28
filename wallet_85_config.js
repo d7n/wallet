@@ -1,1 +1,1 @@
-var mnemonic = "capital antique argue differ camera wolf lunch oak buyer swing skin chimney";
+var mnemonic = "word argue month need liquid cost lucky intact brief toe author act";

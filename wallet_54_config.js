@@ -1,1 +1,1 @@
-var mnemonic = "chapter dignity lawn giant hobby episode bunker height tiny result float letter";
+var mnemonic = "flight paper someone learn glow mad ostrich reward expand welcome spin sound";

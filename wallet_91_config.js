@@ -1,1 +1,1 @@
-var mnemonic = "ghost tiny holiday lion peace catch blue snap faint mind object mushroom";
+var mnemonic = "junior believe employ antique sing trap chair misery fragile arrest myth planet";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal tooth warfare carbon pitch school mix aim sentence provide arrange cover";
+var mnemonic = "unhappy proof civil start brain maple flat genre giraffe scare body key";

@@ -1,1 +1,1 @@
-var mnemonic = "ship genius quiz breeze fluid mirror alpha island lion lift noise town";
+var mnemonic = "resist phone surprise there fresh wet desert hedgehog impact penalty brush hen";

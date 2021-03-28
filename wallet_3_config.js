@@ -1,1 +1,1 @@
-var mnemonic = "mom beyond cart goose biology crunch edit grocery leg mom vanish aim";
+var mnemonic = "little match box end whisper dolphin disease leave conduct reunion copy range";

@@ -1,1 +1,1 @@
-var mnemonic = "fee embark draw diagram whale demand hub company injury join glare high";
+var mnemonic = "roof depart brush cereal top pet loud celery idea input film top";

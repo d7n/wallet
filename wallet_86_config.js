@@ -1,1 +1,1 @@
-var mnemonic = "window purchase explain guess dragon early cheese exotic know police credit room";
+var mnemonic = "oxygen salad brown cactus vivid captain shy boss pair hybrid table busy";

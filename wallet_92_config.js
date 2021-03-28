@@ -1,1 +1,1 @@
-var mnemonic = "awkward thunder bind spawn sugar knee pact rebel believe frog melt start";
+var mnemonic = "mind reduce accident seat novel grab front resource use limb undo orphan";

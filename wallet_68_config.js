@@ -1,1 +1,1 @@
-var mnemonic = "airport recipe situate unit scissors organ quote risk car drift cruise tennis";
+var mnemonic = "ridge month genuine elevator cement cannon talent oblige ankle wave present gain";

@@ -1,1 +1,1 @@
-var mnemonic = "marriage cart abstract little boost rather gaze double motion usual next trigger";
+var mnemonic = "comic imitate rice team coin vivid blood music happy extend copper train";

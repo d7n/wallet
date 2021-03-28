@@ -1,1 +1,1 @@
-var mnemonic = "erase excite seat naive wrestle honey jazz consider thank spirit plug payment";
+var mnemonic = "estate hole unknown venue diesel across glide must shiver any cancel panel";

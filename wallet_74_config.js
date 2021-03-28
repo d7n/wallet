@@ -1,1 +1,1 @@
-var mnemonic = "stage dry river legal race shrug example arrest seed what sauce digital";
+var mnemonic = "original scrub expire crisp illegal library hybrid round crystal stereo field drill";

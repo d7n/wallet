@@ -1,1 +1,1 @@
-var mnemonic = "dress fatigue share collect extra oak enrich hungry snake add flock light";
+var mnemonic = "case buzz fat case sock wild hand gadget decide live security bulb";

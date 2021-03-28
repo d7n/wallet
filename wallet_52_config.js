@@ -1,1 +1,1 @@
-var mnemonic = "salon inhale segment corn ticket famous chase moral era funny west ring";
+var mnemonic = "skirt cement nest else pave bless music window canyon call critic distance";

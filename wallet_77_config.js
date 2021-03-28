@@ -1,1 +1,1 @@
-var mnemonic = "pen blast oxygen skin early elegant sea kick dumb stamp clump just";
+var mnemonic = "fiber unable witness color six great master junk bar coral cement truck";

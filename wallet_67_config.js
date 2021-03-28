@@ -1,1 +1,1 @@
-var mnemonic = "pull evolve dry orange gallery possible venture dice protect life announce process";
+var mnemonic = "latin cash awake piano absorb sphere raise viable thunder hidden hero use";

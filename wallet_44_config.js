@@ -1,1 +1,1 @@
-var mnemonic = "van horror nothing cargo permit engage mechanic panther decide gun spirit observe";
+var mnemonic = "one toast paddle snake embark afraid car blush baby ripple much bread";

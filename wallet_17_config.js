@@ -1,1 +1,1 @@
-var mnemonic = "impose frame gravity awful cross quantum lobster lazy fossil garlic minute grit";
+var mnemonic = "shadow chest define light height blast invite injury embark raccoon all rookie";

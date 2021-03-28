@@ -1,1 +1,1 @@
-var mnemonic = "oak later eyebrow fruit expire atom process vital window motor liberty horror";
+var mnemonic = "illness approve nominee vivid sand upon visa unusual plate hope filter find";

@@ -1,1 +1,1 @@
-var mnemonic = "spy identify squirrel avoid retire wait fashion frost option staff shop service";
+var mnemonic = "art marine leopard donor appear action uncle number sleep vibrant clarify innocent";

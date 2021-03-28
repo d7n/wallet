@@ -1,1 +1,1 @@
-var mnemonic = "around panel ladder glance allow same fury alert champion winter soul educate";
+var mnemonic = "shine pupil world build corn leg scatter muscle boy sting bridge powder";

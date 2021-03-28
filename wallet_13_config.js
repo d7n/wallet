@@ -1,1 +1,1 @@
-var mnemonic = "forum arena nice reason gospel crunch sheriff rubber capable mom silk solution";
+var mnemonic = "army utility degree swallow vague loud urban finger struggle heart duty warfare";

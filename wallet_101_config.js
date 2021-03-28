@@ -1,1 +1,1 @@
-var mnemonic = "tag method immense cotton tray dolphin chunk sugar boss ocean thumb alone";
+var mnemonic = "stomach forget swallow truck amazing blue arctic spice champion giggle finger lunch";

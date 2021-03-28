@@ -1,1 +1,1 @@
-var mnemonic = "parrot metal give minute cradle medal ancient rule assist mobile spring vague";
+var mnemonic = "half spread disease sort sail case humor monitor mad want marble forest";

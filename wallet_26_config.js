@@ -1,1 +1,1 @@
-var mnemonic = "sauce bacon hope certain control river casual gun rookie oak laundry coast";
+var mnemonic = "parrot way approve sight bring shove curve purse biology sport patrol medal";

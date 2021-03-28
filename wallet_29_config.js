@@ -1,1 +1,1 @@
-var mnemonic = "chronic mail upset fun response help sword motor unable lava spawn control";
+var mnemonic = "local cherry genuine fold photo hollow decorate cinnamon leave solar kick holiday";

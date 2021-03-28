@@ -1,1 +1,1 @@
-var mnemonic = "violin notable promote crowd guilt liar despair rent neutral lizard bridge office";
+var mnemonic = "crack few legend now good grab series donkey strategy puppy tell hen";

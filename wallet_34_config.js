@@ -1,1 +1,1 @@
-var mnemonic = "chair kingdom clinic prevent border require whip foil cluster hill federal question";
+var mnemonic = "ice permit inhale future inch vintage skull whisper bulb broken beef end";

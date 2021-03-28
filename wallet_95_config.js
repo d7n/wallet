@@ -1,1 +1,1 @@
-var mnemonic = "brush hover smart nut onion dream hello tree excite dream goat race";
+var mnemonic = "ability actress victory demand merry oval own copy crash speak away talent";

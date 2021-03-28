@@ -1,1 +1,1 @@
-var mnemonic = "lobster timber magic subject replace similar unfold tag pond sorry faith retreat";
+var mnemonic = "join blossom era rival garlic roof talent half mix cause diary riot";

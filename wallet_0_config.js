@@ -1,1 +1,1 @@
-var mnemonic = "raccoon design ripple obtain lemon supply problem output april mass season cake";
+var mnemonic = "regret demand embody achieve risk asthma cage session enroll decrease chaos chalk";

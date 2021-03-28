@@ -1,1 +1,1 @@
-var mnemonic = "search gift dress tide sail demise shiver jaguar pottery shield powder project";
+var mnemonic = "doctor present van arena wedding virtual lumber indicate salute weasel shoe draft";

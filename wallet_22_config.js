@@ -1,1 +1,1 @@
-var mnemonic = "feed quote key laptop heavy tenant wood crumble immune napkin south able";
+var mnemonic = "input scan entire pill gold index cactus obvious album hard bind expose";

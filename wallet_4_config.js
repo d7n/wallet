@@ -1,1 +1,1 @@
-var mnemonic = "famous winter face detail plastic reunion install zoo shoe breeze demand hybrid";
+var mnemonic = "few twice pelican crowd oval hospital minor web such chuckle expand vehicle";

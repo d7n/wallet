@@ -1,1 +1,1 @@
-var mnemonic = "cruise grief lawn artwork wheel economy unusual then bring heavy debate bird";
+var mnemonic = "snow plunge crime team scan hunt smooth nature during library wealth announce";

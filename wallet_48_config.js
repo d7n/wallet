@@ -1,1 +1,1 @@
-var mnemonic = "aerobic smooth forest panther circle frost suit end animal zoo bitter fire";
+var mnemonic = "man grass bitter else transfer swift cousin found certain baby whip useless";

@@ -1,1 +1,1 @@
-var mnemonic = "empower victory twin income mail dirt pledge glow garlic mechanic enemy cat";
+var mnemonic = "ahead winner cross about meat zero town horn primary confirm voice tree";

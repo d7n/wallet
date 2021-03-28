@@ -1,1 +1,1 @@
-var mnemonic = "sketch kid picture armed hill brief jazz cost inside ahead spread victory";
+var mnemonic = "quiz lesson achieve brother duck report grab great goddess notable annual purchase";

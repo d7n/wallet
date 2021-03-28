@@ -1,1 +1,1 @@
-var mnemonic = "bounce trust differ crash shy tree knee more arrest harvest inherit copy";
+var mnemonic = "donor eyebrow only runway stove term ship error inch mandate carry stock";

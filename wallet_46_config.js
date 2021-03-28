@@ -1,1 +1,1 @@
-var mnemonic = "street shrug recall dial before produce clean recipe base claw brown will";
+var mnemonic = "soccer lemon exact buzz stool weather vehicle portion napkin cloud lonely shift";

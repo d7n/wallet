@@ -1,1 +1,1 @@
-var mnemonic = "eagle badge gloom will fancy bid either earn exhibit achieve trend obscure";
+var mnemonic = "clever pulp orbit bottom abstract wait toss ignore mercy slogan save level";

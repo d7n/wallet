@@ -1,1 +1,1 @@
-var mnemonic = "era list urban citizen impulse one close possible observe when fall must";
+var mnemonic = "glide return assume decide brick hamster hole pond snake across volume remember";

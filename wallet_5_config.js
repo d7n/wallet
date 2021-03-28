@@ -1,1 +1,1 @@
-var mnemonic = "poem junior lens beyond mule invest decide rookie potato range circle check";
+var mnemonic = "good frame resist health primary shaft green affair enable fitness grab sentence";

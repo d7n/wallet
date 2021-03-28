@@ -1,1 +1,1 @@
-var mnemonic = "chapter illegal stay long two sad vault strong tomorrow paddle beauty size";
+var mnemonic = "clever elegant interest hat uniform west cabbage minute mystery rhythm supply bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid piano memory enjoy way cruise slight warrior island maximum syrup tonight";
+var mnemonic = "patch float summer clarify blade regular movie add push behind choose share";

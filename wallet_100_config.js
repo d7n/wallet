@@ -1,1 +1,1 @@
-var mnemonic = "duck elevator couch bullet wealth perfect famous shove scan fashion help interest";
+var mnemonic = "again eyebrow average budget obvious stereo estate quality never quiz fatal such";

@@ -1,1 +1,1 @@
-var mnemonic = "maid cool onion swear film rail perfect rose job aisle moment erosion";
+var mnemonic = "heart such slice riot celery exit target congress hamster inch divert helmet";

@@ -1,1 +1,1 @@
-var mnemonic = "post question fiscal century caution anger neither ankle rich circle jealous fog";
+var mnemonic = "brisk enforce tennis excess loud pledge virus stamp modify tooth nominee wire";

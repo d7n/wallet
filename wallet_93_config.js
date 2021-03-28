@@ -1,1 +1,1 @@
-var mnemonic = "metal final brief ketchup unfold witness slush impact claw donkey basket boss";
+var mnemonic = "direct sunny change scan balcony sketch toast vacuum arch use chaos end";

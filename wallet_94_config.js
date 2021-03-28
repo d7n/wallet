@@ -1,1 +1,1 @@
-var mnemonic = "remind vehicle company drill oak yard shallow border list present orphan dog";
+var mnemonic = "evil name desk tongue talk rate hour alone curtain lemon change radio";

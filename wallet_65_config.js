@@ -1,1 +1,1 @@
-var mnemonic = "assist garment syrup chuckle friend say traffic raw noodle toddler sword quantum";
+var mnemonic = "pink champion unveil sunset settle license genre illness soul tray matrix cook";

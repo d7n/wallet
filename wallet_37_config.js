@@ -1,1 +1,1 @@
-var mnemonic = "horse fame reveal rotate crime marble sign trip home pen undo glide";
+var mnemonic = "clinic coyote sand often trumpet special elephant voyage unlock patrol derive horn";

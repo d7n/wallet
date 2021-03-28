@@ -1,1 +1,1 @@
-var mnemonic = "turtle arrow peasant service like settle beyond science reduce flat increase express";
+var mnemonic = "waste window trip smile owner any juice combine segment age duck mimic";

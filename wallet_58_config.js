@@ -1,1 +1,1 @@
-var mnemonic = "february glove stone debate pluck point hard unaware display armor diamond north";
+var mnemonic = "rich acid powder match someone aware obscure machine rate collect potato judge";

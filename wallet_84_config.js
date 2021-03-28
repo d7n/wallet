@@ -1,1 +1,1 @@
-var mnemonic = "toy good fall enjoy hedgehog ahead portion skin toast choice text lecture";
+var mnemonic = "until strong ill expose relief endorse remain voice ignore border fringe tattoo";

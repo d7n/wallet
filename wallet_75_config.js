@@ -1,1 +1,1 @@
-var mnemonic = "scale artwork laundry dentist invite work pulse image company urge either scorpion";
+var mnemonic = "behave mass toe diagram climb tattoo scissors offer hero air eye garment";

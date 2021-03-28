@@ -1,1 +1,1 @@
-var mnemonic = "smooth bind arrive manage magic winner push among segment fame ancient promote";
+var mnemonic = "labor able protect midnight element film sister goose hurt ocean hard topic";

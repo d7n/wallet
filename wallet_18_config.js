@@ -1,1 +1,1 @@
-var mnemonic = "pact december stable guilt skill unusual flush excuse love benefit explain tribe";
+var mnemonic = "wonder dragon spirit depart radar prevent twice melody match develop between juice";
