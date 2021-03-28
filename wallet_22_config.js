@@ -1,1 +1,1 @@
-var mnemonic = "safe electric element area love version glow fold siren video gesture stool";
+var mnemonic = "rabbit skill exhibit mirror leave sound execute dignity learn twelve act monster";

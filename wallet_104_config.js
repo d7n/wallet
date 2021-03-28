@@ -1,1 +1,1 @@
-var mnemonic = "thought expand castle spoon topple security chaos apart legal chuckle below best";
+var mnemonic = "inherit shrimp draw cart finish tattoo shift keep shallow garlic ticket gas";

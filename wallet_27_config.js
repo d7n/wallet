@@ -1,1 +1,1 @@
-var mnemonic = "blanket later list spin mule crime neglect aisle ocean other celery enough";
+var mnemonic = "news valley jaguar adapt clerk horror snap trumpet kiwi involve balcony glow";

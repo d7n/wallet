@@ -1,1 +1,1 @@
-var mnemonic = "elegant language blossom hospital wrap large useless friend infant they season census";
+var mnemonic = "forest seat faith clinic ball about angry steel degree coin crystal entry";

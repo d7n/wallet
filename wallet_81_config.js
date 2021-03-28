@@ -1,1 +1,1 @@
-var mnemonic = "february rough base pyramid property bundle survey debate gasp vanish scrub blue";
+var mnemonic = "unfair recall pair advice pumpkin coffee soft common female divorce proud stable";

@@ -1,1 +1,1 @@
-var mnemonic = "margin dinner face shiver acquire album ugly return pitch slim morning menu";
+var mnemonic = "stuff disagree robust giant blur make light myth frog thrive gospel neck";

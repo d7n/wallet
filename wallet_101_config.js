@@ -1,1 +1,1 @@
-var mnemonic = "base tuna scale toy pause unaware bid original shove trip company during";
+var mnemonic = "focus inform donkey summer laundry aware sorry saddle snack add please repeat";

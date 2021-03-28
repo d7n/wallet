@@ -1,1 +1,1 @@
-var mnemonic = "battle april fly slide kidney depart stumble gather phrase dove critic snow";
+var mnemonic = "spirit dish tag oval ill desk energy spoil affair fold copy strong";

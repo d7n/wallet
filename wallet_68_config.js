@@ -1,1 +1,1 @@
-var mnemonic = "tomato wish question clump used item eternal tired icon cannon miracle admit";
+var mnemonic = "click mesh ankle upset auto foil gentle auto fringe leader symptom panther";

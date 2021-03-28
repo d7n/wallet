@@ -1,1 +1,1 @@
-var mnemonic = "behind put claw evolve frost finger winter alcohol smile thumb list metal";
+var mnemonic = "rotate struggle quarter glue oyster reflect path swamp negative square pig trial";

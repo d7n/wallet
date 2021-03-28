@@ -1,1 +1,1 @@
-var mnemonic = "tomato knock submit mirror police inspire poem morning group layer heavy planet";
+var mnemonic = "height filter proof illness appear clog fatigue frequent drive drama heart census";

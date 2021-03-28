@@ -1,1 +1,1 @@
-var mnemonic = "mask iron erosion industry scrub guess follow clog trial can truck claw";
+var mnemonic = "pink sniff teach track fiscal achieve satisfy march tube pole later fever";

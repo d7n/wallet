@@ -1,1 +1,1 @@
-var mnemonic = "light toward rug exhaust club motion ugly whale memory fresh mule favorite";
+var mnemonic = "raise okay trick dolphin fatal draft push chicken smile purity pink wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow piano guilt crop net loud defy grape thrive skin sorry hollow";
+var mnemonic = "raw screen useful eyebrow twin month universe either speed muscle unit history";

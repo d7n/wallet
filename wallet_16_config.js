@@ -1,1 +1,1 @@
-var mnemonic = "pulse organ lecture accuse team skull radio talent coyote cement fluid entry";
+var mnemonic = "behave know pudding copy kitchen truth gift work column shine mail gadget";

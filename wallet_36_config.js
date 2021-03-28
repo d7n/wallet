@@ -1,1 +1,1 @@
-var mnemonic = "team appear grow soul canvas case orbit blue oblige habit smooth force";
+var mnemonic = "menu law stove clap learn fancy mesh impact hair robot eye leisure";

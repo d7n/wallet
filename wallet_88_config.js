@@ -1,1 +1,1 @@
-var mnemonic = "bounce cram avoid shaft length neither second cargo denial enable raccoon fetch";
+var mnemonic = "glove issue inside annual swear they kid text curtain exhibit daughter bacon";

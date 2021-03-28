@@ -1,1 +1,1 @@
-var mnemonic = "antenna expect best seed planet silk foster arrest curious capital fat limit";
+var mnemonic = "farm dumb session order pudding uniform resource require pioneer truck chaos source";

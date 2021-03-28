@@ -1,1 +1,1 @@
-var mnemonic = "often dolphin rescue gym omit under wing appear plastic mistake ignore crush";
+var mnemonic = "place tone cost very pumpkin meat outer mansion pluck bunker unaware direct";

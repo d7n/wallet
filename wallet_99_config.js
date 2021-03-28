@@ -1,1 +1,1 @@
-var mnemonic = "column park jealous dilemma grief effort old perfect verb predict abuse crumble";
+var mnemonic = "thought prize pioneer pink impose bar funny confirm raw sock night pond";

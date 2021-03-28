@@ -1,1 +1,1 @@
-var mnemonic = "blast ski dream border mobile tragic world tired awake horse bomb clap";
+var mnemonic = "obvious marine spring submit innocent vicious spike palm bench length tortoise rib";

@@ -1,1 +1,1 @@
-var mnemonic = "pass grunt alert noodle peanut stairs fuel abuse ozone swamp foam canvas";
+var mnemonic = "dream link shiver draft holiday purchase bean under tunnel silk sustain hawk";

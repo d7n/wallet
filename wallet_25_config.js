@@ -1,1 +1,1 @@
-var mnemonic = "green inquiry clump bridge two jealous fun wood buddy margin hurry between";
+var mnemonic = "start bubble learn approve account parent series slim drill recall obtain drastic";

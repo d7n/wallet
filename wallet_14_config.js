@@ -1,1 +1,1 @@
-var mnemonic = "proud pink nose day satisfy offer danger menu neck endorse praise siege";
+var mnemonic = "sister survey blind wide bounce crawl fence dash syrup unveil insect area";

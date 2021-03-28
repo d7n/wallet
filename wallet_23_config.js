@@ -1,1 +1,1 @@
-var mnemonic = "surround beach gold innocent swamp chaos clock clever reward ordinary rough inject";
+var mnemonic = "naive fabric country soft art language boss bus warfare interest rather force";

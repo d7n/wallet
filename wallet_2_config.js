@@ -1,1 +1,1 @@
-var mnemonic = "advance arrive ill service typical please describe swim gym velvet client economy";
+var mnemonic = "chaos hospital various shallow issue clump dove warm grass match charge lonely";

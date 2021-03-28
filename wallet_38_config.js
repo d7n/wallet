@@ -1,1 +1,1 @@
-var mnemonic = "license alter banana quick lazy price tonight answer royal control egg rather";
+var mnemonic = "armed clutch nest wealth swear sketch vault stone host throw stand bitter";

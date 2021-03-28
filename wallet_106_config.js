@@ -1,1 +1,1 @@
-var mnemonic = "crack cable sail faith combine fringe lens giraffe tornado pull dry elbow";
+var mnemonic = "pepper unfair shoe donate unfold spin acoustic picture leopard august hub blouse";

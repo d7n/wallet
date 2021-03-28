@@ -1,1 +1,1 @@
-var mnemonic = "hold captain mean myself scatter knife twelve busy copy about museum lobster";
+var mnemonic = "close heart author logic dice absent emotion ostrich glory valve mansion chat";

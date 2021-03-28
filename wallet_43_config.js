@@ -1,1 +1,1 @@
-var mnemonic = "river toddler flag able flame same rifle cause split satoshi pottery liberty";
+var mnemonic = "pond empower mystery emotion soup sell check person vicious length poet plate";

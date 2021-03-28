@@ -1,1 +1,1 @@
-var mnemonic = "ecology glide blade ribbon video stairs monster obtain crumble punch private outer";
+var mnemonic = "parrot claim steak accident crouch deal tone desk unhappy dress drop boil";

@@ -1,1 +1,1 @@
-var mnemonic = "poet pear hand iron critic harbor cousin sadness miss lazy display exile";
+var mnemonic = "engine purchase nature round random beyond capable month margin balcony stock distance";

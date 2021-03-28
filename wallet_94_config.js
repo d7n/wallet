@@ -1,1 +1,1 @@
-var mnemonic = "lucky choice grace chimney bonus tourist merge mirror coast civil nation surprise";
+var mnemonic = "inspire save uniform issue very flock online flash predict dynamic pact guard";

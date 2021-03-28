@@ -1,1 +1,1 @@
-var mnemonic = "surprise enlist bacon essence cinnamon mansion rule parrot disorder affair slush matter";
+var mnemonic = "pool rhythm snap dynamic false consider claw network drastic dragon nice cotton";

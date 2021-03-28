@@ -1,1 +1,1 @@
-var mnemonic = "better plastic plug degree dish powder stadium fancy surround spray describe music";
+var mnemonic = "patch impulse equal seed puzzle unhappy indoor magnet aunt rabbit envelope afraid";

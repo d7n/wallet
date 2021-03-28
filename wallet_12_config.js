@@ -1,1 +1,1 @@
-var mnemonic = "mimic gown shrug lunar spatial around swamp apple napkin verb ancient sweet";
+var mnemonic = "cute vehicle limb bone dawn motor half toilet silent test bounce annual";

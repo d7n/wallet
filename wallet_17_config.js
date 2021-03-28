@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit child brown glow salute mesh evoke raise foot sample broccoli creek";
+var mnemonic = "truck find present enough supreme spend office wrestle already siege afford rent";

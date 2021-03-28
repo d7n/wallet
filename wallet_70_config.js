@@ -1,1 +1,1 @@
-var mnemonic = "word shadow enforce play garment minor flat cigar case snow spoon often";
+var mnemonic = "inner figure friend write wood dove hammer unfold concert scrub example rally";

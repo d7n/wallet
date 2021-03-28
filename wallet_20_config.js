@@ -1,1 +1,1 @@
-var mnemonic = "vacant brave cream staff region again network recycle normal hidden limb swim";
+var mnemonic = "used want voice visa medal render frozen wool pen column odor nothing";

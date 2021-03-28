@@ -1,1 +1,1 @@
-var mnemonic = "crowd picnic attract blush split scheme ethics ozone flip wash few skill";
+var mnemonic = "occur soup hundred old autumn immune steak biology stick summer off hire";

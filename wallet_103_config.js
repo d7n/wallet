@@ -1,1 +1,1 @@
-var mnemonic = "miracle beyond artwork trick victory column acquire east erupt buffalo icon palace";
+var mnemonic = "critic ensure aisle remind correct pelican saddle admit emerge scout truth online";

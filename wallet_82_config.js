@@ -1,1 +1,1 @@
-var mnemonic = "juice worth sadness dismiss cargo choose unaware fit visa save frame degree";
+var mnemonic = "stage prepare foot industry word pact quit concert old organ doctor loud";

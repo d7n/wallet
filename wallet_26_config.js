@@ -1,1 +1,1 @@
-var mnemonic = "fluid power tourist foil vibrant between guide kid peace asthma penalty awake";
+var mnemonic = "staff prize ketchup need desert stay decrease measure typical local play world";

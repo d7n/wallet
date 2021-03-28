@@ -1,1 +1,1 @@
-var mnemonic = "author gauge entire approve vital mushroom wood picnic fresh orient rail bright";
+var mnemonic = "shell action timber famous smooth acquire help toy illness squeeze fun axis";

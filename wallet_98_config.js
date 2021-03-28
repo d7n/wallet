@@ -1,1 +1,1 @@
-var mnemonic = "holiday casual wasp interest shine pass also slender pudding source utility stairs";
+var mnemonic = "grow length tower first damp life label earn claw squeeze upper tent";

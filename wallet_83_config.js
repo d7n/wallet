@@ -1,1 +1,1 @@
-var mnemonic = "prefer valley only process lawn invest crack author nuclear shy arrest rib";
+var mnemonic = "lava riot lady trust phone gun foster real tool update remain lonely";

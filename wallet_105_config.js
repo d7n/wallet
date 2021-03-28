@@ -1,1 +1,1 @@
-var mnemonic = "element provide spoil raven rhythm meat what stool vacant mail bargain rib";
+var mnemonic = "merry supreme garbage february review lyrics dirt mind brick short relax conduct";

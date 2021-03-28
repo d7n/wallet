@@ -1,1 +1,1 @@
-var mnemonic = "sound regular nasty skin chalk siren index burden huge already cinnamon bean";
+var mnemonic = "goat absorb bird scatter pond lonely close diet pole museum vanish rookie";

@@ -1,1 +1,1 @@
-var mnemonic = "century soccer priority rally gift day expire tuna rare solar cigar require";
+var mnemonic = "detect fitness mistake stumble medal inspire behind donate confirm leg doll mountain";

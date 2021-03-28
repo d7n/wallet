@@ -1,1 +1,1 @@
-var mnemonic = "upper age table lawn success letter genre square under satisfy worth sausage";
+var mnemonic = "among check unable salad easy case truth alter junior issue infant yard";

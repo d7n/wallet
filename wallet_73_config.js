@@ -1,1 +1,1 @@
-var mnemonic = "health page purity lady vibrant steak pen sample asset marble brain wrist";
+var mnemonic = "coin nephew fortune top calm bracket pattern absorb boss text rate kiss";

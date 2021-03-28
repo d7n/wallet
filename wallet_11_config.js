@@ -1,1 +1,1 @@
-var mnemonic = "casino wide vault good analyst expire raise ocean boss step room quote";
+var mnemonic = "love visit ladder casino model way sign finish crazy suspect apart year";

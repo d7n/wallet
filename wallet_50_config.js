@@ -1,1 +1,1 @@
-var mnemonic = "humble group stomach fruit achieve strategy clog search hair flower neutral foster";
+var mnemonic = "mushroom giggle broccoli obvious shuffle art mammal hair chef umbrella gather topic";

@@ -1,1 +1,1 @@
-var mnemonic = "such exist lawsuit fitness police awake armed sight monitor picnic access answer";
+var mnemonic = "require middle dizzy alpha shadow lady news secret scorpion junior final lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "build crouch garlic casual worth wine purpose acid alter lounge cube style";
+var mnemonic = "museum render dress require barrel oyster phone unusual dice jar smile sketch";

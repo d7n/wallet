@@ -1,1 +1,1 @@
-var mnemonic = "bread envelope sentence color hazard nest junior cover conduct fiber wear talent";
+var mnemonic = "velvet tonight raccoon call give taste tourist innocent certain public craft reduce";

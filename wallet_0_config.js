@@ -1,1 +1,1 @@
-var mnemonic = "coffee tooth neither start hover tomato reduce deny photo park rather sick";
+var mnemonic = "bounce turtle gloom reduce another treat blush infant service end satoshi retire";

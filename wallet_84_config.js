@@ -1,1 +1,1 @@
-var mnemonic = "enhance dash insane calm material sea woman then visit convince live physical";
+var mnemonic = "grace bullet canoe casual gold point profit champion cactus distance frame laundry";

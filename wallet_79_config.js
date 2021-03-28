@@ -1,1 +1,1 @@
-var mnemonic = "insect solid hello usage system fiber ship elder scheme hurry crime quit";
+var mnemonic = "congress mesh rely identify mind vessel debris merit system defy ask volcano";

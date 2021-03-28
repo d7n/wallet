@@ -1,1 +1,1 @@
-var mnemonic = "squirrel news trophy nurse volume frog soul empty burden light tone domain";
+var mnemonic = "summer salad timber uncover ride then document lottery script treat carbon flee";

@@ -1,1 +1,1 @@
-var mnemonic = "whale blind spray topic metal position fall wink position cargo boss tuition";
+var mnemonic = "slam acoustic net build inform boring broccoli lunar fringe mosquito magic tunnel";

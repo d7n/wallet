@@ -1,1 +1,1 @@
-var mnemonic = "route mail easily success identify organ suffer resource veteran diesel section bulb";
+var mnemonic = "torch depend face salon spray miracle position cupboard employ welcome ghost select";

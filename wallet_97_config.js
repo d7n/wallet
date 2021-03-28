@@ -1,1 +1,1 @@
-var mnemonic = "city danger worry armed theme idle nest spawn loan rebel universe very";
+var mnemonic = "biology ordinary success pass visual lunar chimney bonus creek canal mobile acid";

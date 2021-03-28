@@ -1,1 +1,1 @@
-var mnemonic = "thunder course window reopen refuse merge neutral south whip awesome opinion vocal";
+var mnemonic = "method fish awake genius stomach suggest pear perfect coffee orient build step";

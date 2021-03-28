@@ -1,1 +1,1 @@
-var mnemonic = "bargain power develop creek idea shaft lottery debris alley major lumber hamster";
+var mnemonic = "pioneer salt allow afford wife call next allow broken cricket pig denial";

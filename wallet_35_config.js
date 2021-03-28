@@ -1,1 +1,1 @@
-var mnemonic = "job gauge dumb dwarf found polar depth clap drive bachelor toast pioneer";
+var mnemonic = "evidence demand heart warfare blame coyote wrist clutch glory echo protect silent";

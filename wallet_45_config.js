@@ -1,1 +1,1 @@
-var mnemonic = "game explain gather subject rough segment wait depart educate desk flower forest";
+var mnemonic = "hedgehog cigar fire zoo exist donor street struggle chair spirit usage gloom";

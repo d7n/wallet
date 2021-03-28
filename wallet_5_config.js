@@ -1,1 +1,1 @@
-var mnemonic = "one lunar exchange meat traffic brass pelican bird myself leisure name document";
+var mnemonic = "talk town knee harsh hello sail fiction pioneer bronze capable step feed";

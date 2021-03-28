@@ -1,1 +1,1 @@
-var mnemonic = "box useless liar talent clinic cloth poet cry spawn float weasel scheme";
+var mnemonic = "limb produce captain prefer copper apology update where rival bubble you trust";

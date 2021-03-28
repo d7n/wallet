@@ -1,1 +1,1 @@
-var mnemonic = "achieve dose little undo buffalo whisper fun sausage mandate thought post inmate";
+var mnemonic = "clog neglect ketchup quiz blue warfare bitter animal axis song clown rent";

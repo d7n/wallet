@@ -1,1 +1,1 @@
-var mnemonic = "snap auction offer inside door fetch gun common learn grit shallow loud";
+var mnemonic = "demise amazing mad wrap vacuum tool bind book ancient until silly owner";

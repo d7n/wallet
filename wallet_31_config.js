@@ -1,1 +1,1 @@
-var mnemonic = "valley entire scissors student note cattle subject blast nut pepper enrich avocado";
+var mnemonic = "circle notable attend item rent lock grain fantasy proof perfect minimum club";

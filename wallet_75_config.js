@@ -1,1 +1,1 @@
-var mnemonic = "tornado blush year orbit ivory file affair segment guard misery kick fantasy";
+var mnemonic = "rural horse penalty atom company usual push people about sail ginger random";

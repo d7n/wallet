@@ -1,1 +1,1 @@
-var mnemonic = "ship shuffle sad prefer knock sock orbit brief struggle attack vendor dinner";
+var mnemonic = "master goose account away dress recipe make upset dust online burst steak";

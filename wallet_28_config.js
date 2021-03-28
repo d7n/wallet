@@ -1,1 +1,1 @@
-var mnemonic = "code game autumn answer valley kick repair author lottery room patch long";
+var mnemonic = "nut mobile badge clarify romance destroy donkey solid wish donor fly actress";

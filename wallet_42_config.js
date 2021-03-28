@@ -1,1 +1,1 @@
-var mnemonic = "hawk join canoe ankle nothing crop speak change orange step fury rocket";
+var mnemonic = "deliver move rather object clock student sail senior way hollow horse vicious";

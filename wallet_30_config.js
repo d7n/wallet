@@ -1,1 +1,1 @@
-var mnemonic = "lonely another apart electric prosper soap response price spring during kingdom depth";
+var mnemonic = "skull mistake behind trial away build reform effort burden cabin custom cover";

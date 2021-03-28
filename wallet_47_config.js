@@ -1,1 +1,1 @@
-var mnemonic = "practice fatigue stem fold report unknown twenty book orbit raven allow demand";
+var mnemonic = "cash mammal text uphold special dose wet pumpkin truck fuel odor bind";

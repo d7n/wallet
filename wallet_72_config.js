@@ -1,1 +1,1 @@
-var mnemonic = "three soda major document lunar pull assist ordinary shove fruit thing genius";
+var mnemonic = "fly avoid token monitor climb toddler equal cinnamon museum merge afraid alley";

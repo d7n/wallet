@@ -1,1 +1,1 @@
-var mnemonic = "weekend enrich journey health turtle pond frequent exist busy promote penalty cluster";
+var mnemonic = "drill chapter river evolve soft talk define glide oil excess issue stock";

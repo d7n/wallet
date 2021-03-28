@@ -1,1 +1,1 @@
-var mnemonic = "soap category exclude add today song crew fringe olympic explain car dry";
+var mnemonic = "manual cargo mirror type lumber word announce gadget bunker legend stay seed";

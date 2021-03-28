@@ -1,1 +1,1 @@
-var mnemonic = "waste rule grief crime story vague buddy gold great before main accident";
+var mnemonic = "hospital february dust space fatal swift meadow rude rhythm earn candy canvas";

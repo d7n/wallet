@@ -1,1 +1,1 @@
-var mnemonic = "sense tape fitness version undo venture clerk idea pulp track snake exotic";
+var mnemonic = "smile awkward document rhythm emerge album game brush bag deliver season squirrel";

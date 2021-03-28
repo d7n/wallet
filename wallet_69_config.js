@@ -1,1 +1,1 @@
-var mnemonic = "normal ostrich make sister height brown access flash extend school turkey cook";
+var mnemonic = "kingdom animal work thought salute boring gloom panda end mention idea mail";

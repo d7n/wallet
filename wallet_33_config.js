@@ -1,1 +1,1 @@
-var mnemonic = "ethics where merge under attend lobster resource history upgrade drop sure youth";
+var mnemonic = "biology wire game track noise turtle clarify month follow eyebrow era priority";

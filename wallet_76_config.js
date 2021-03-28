@@ -1,1 +1,1 @@
-var mnemonic = "peace dilemma arch mandate now column fork blood wool trust cannon catch";
+var mnemonic = "search praise hood decline proud heart culture remember attend grow sure equal";

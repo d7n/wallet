@@ -1,1 +1,1 @@
-var mnemonic = "recipe pool voyage marriage clean alone roof series smoke submit invite addict";
+var mnemonic = "harbor push title olive tattoo toilet age champion light lift unveil license";

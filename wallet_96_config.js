@@ -1,1 +1,1 @@
-var mnemonic = "hold expose screen crane amateur blast long bacon pause charge seed spoon";
+var mnemonic = "casual increase lion sad nest boat remove topic ribbon vendor ketchup tray";
