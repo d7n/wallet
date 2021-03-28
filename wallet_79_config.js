@@ -1,1 +1,1 @@
-var mnemonic = "punch obey imitate common gun trip arrow long mechanic dolphin door example";
+var mnemonic = "first dust undo cat walnut wing cable render know bargain dose feature";

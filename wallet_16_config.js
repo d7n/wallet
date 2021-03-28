@@ -1,1 +1,1 @@
-var mnemonic = "enjoy bachelor mushroom program remember talk family glow audit matrix skirt almost";
+var mnemonic = "person tank fluid jacket supply over skate twin what damp learn occur";

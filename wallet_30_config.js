@@ -1,1 +1,1 @@
-var mnemonic = "pig eight again mass praise velvet trip injury series empower snake truth";
+var mnemonic = "salt cereal series remind great delay design grief letter total ticket mechanic";

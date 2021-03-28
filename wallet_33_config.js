@@ -1,1 +1,1 @@
-var mnemonic = "pen situate aisle naive broom sell dynamic nest street river horror humor";
+var mnemonic = "vintage solar grid pear strike tray flush kitchen aerobic sting toast alert";

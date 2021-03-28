@@ -1,1 +1,1 @@
-var mnemonic = "demise pet flip unfair weasel crew muscle brave appear rely pole recipe";
+var mnemonic = "blame door august mystery smile diagram robust stomach expand local thumb unveil";

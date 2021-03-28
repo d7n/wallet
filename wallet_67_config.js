@@ -1,1 +1,1 @@
-var mnemonic = "original unit bag beyond daughter address topic broken eyebrow question tide hungry";
+var mnemonic = "chief opera job immune exhaust ticket soup weapon dish romance exit debate";

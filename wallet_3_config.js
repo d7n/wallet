@@ -1,1 +1,1 @@
-var mnemonic = "dial general cave decorate identify drift actress flee guilt indicate arch much";
+var mnemonic = "battle brush moon beyond fox lazy absorb tiger social silk gold lion";

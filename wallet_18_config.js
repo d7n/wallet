@@ -1,1 +1,1 @@
-var mnemonic = "brisk ask bulk ring alpha leader domain roast item genuine subway unfair";
+var mnemonic = "list carry sport two tenant stand mammal audit crucial sense faith wheat";

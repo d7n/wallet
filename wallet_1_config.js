@@ -1,1 +1,1 @@
-var mnemonic = "oven truth provide goose gun olympic inherit awesome organ shaft father tell";
+var mnemonic = "word manage excuse element gossip include moral coral swamp right artist impulse";

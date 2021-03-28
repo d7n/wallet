@@ -1,1 +1,1 @@
-var mnemonic = "nose annual extra elite one oak awesome become fit tank survey noodle";
+var mnemonic = "daughter mimic chair solution vibrant bottom online canvas swim banana jazz foster";

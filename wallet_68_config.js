@@ -1,1 +1,1 @@
-var mnemonic = "culture sample rain solve stamp brass input habit clean youth toe enrich";
+var mnemonic = "era exotic abandon explain market sadness process before pigeon company expand able";

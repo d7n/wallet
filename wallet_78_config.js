@@ -1,1 +1,1 @@
-var mnemonic = "cigar pony dose original light syrup face silk warrior clean feature file";
+var mnemonic = "rifle fitness seed crater saddle patient deny correct rely essence manual family";

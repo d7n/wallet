@@ -1,1 +1,1 @@
-var mnemonic = "pudding deer define property debris live harbor tooth online split method walk";
+var mnemonic = "hybrid trash desk force erase shed olympic tone blossom relax evoke practice";

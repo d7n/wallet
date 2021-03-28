@@ -1,1 +1,1 @@
-var mnemonic = "street since inside battle label ordinary void agree artwork spare fortune sustain";
+var mnemonic = "scatter subway cheese twenty scorpion catalog hand capable warfare siren smile recipe";

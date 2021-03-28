@@ -1,1 +1,1 @@
-var mnemonic = "census day peanut best page dynamic juice miss call moment sell picnic";
+var mnemonic = "gorilla good mango hybrid entry window retreat banana glory verify odor hold";

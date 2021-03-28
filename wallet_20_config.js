@@ -1,1 +1,1 @@
-var mnemonic = "chicken evil express duty check doll okay purpose medal brother noble saddle";
+var mnemonic = "mosquito ride thumb angry armed level blur obey desk kangaroo hint depart";

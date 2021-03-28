@@ -1,1 +1,1 @@
-var mnemonic = "drum taste forward genre excess absorb tree right chase fatigue notable tone";
+var mnemonic = "hair enable cinnamon sadness motion piano shoulder tackle friend crunch around mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "movie squirrel focus region manage garage become cave wool drift garbage woman";
+var mnemonic = "nothing recycle pride sword youth trumpet size pyramid invite lawn smooth wonder";

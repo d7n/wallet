@@ -1,1 +1,1 @@
-var mnemonic = "betray act cup present crush allow tube heart chapter cactus ugly flame";
+var mnemonic = "great salmon thumb park keep kiwi response rookie trigger receive ethics diary";

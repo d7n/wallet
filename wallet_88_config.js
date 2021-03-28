@@ -1,1 +1,1 @@
-var mnemonic = "galaxy kit another silent series forest civil skill hour funny crane grief";
+var mnemonic = "regret olive camera awful valid eternal target mutual equip trial mom craft";

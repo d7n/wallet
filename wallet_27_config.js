@@ -1,1 +1,1 @@
-var mnemonic = "amount coin broccoli feel deal report episode goddess copper genius blanket reopen";
+var mnemonic = "already canvas broccoli fall human excite stairs behind cigar buffalo scene exercise";

@@ -1,1 +1,1 @@
-var mnemonic = "fortune envelope cheap stove twin detail woman head destroy blue guess wheat";
+var mnemonic = "dish output loop tobacco such nature extend surface captain example key trap";

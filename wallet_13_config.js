@@ -1,1 +1,1 @@
-var mnemonic = "churn comfort focus impose ladder off injury diamond because expect define trust";
+var mnemonic = "sure floor glove double mask dilemma proud escape fiber text visa give";

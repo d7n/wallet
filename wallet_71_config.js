@@ -1,1 +1,1 @@
-var mnemonic = "perfect argue benefit erode wedding donate scissors orange chat weird green enroll";
+var mnemonic = "leisure cannon mandate tree depend ten symbol same century tool sphere elegant";

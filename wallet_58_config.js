@@ -1,1 +1,1 @@
-var mnemonic = "math kitchen trade wonder detail burst bubble raw depend later satisfy gym";
+var mnemonic = "wisdom laundry inhale deliver split minimum piano cigar claim brand purse sorry";

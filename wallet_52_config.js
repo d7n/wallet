@@ -1,1 +1,1 @@
-var mnemonic = "moment scare family black daring body palm oxygen embark peace picnic fever";
+var mnemonic = "fun comfort swing rib jazz unveil praise rule promote tomorrow flush pudding";

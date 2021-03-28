@@ -1,1 +1,1 @@
-var mnemonic = "fossil biology imitate traffic need forest grass thank polar pizza vivid bullet";
+var mnemonic = "flag sphere exchange mechanic action simple judge mechanic sustain soon tooth snap";

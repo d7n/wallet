@@ -1,1 +1,1 @@
-var mnemonic = "proof public stable coconut service peasant often hen square split level pear";
+var mnemonic = "opera post talent north battle toe sniff stem cushion liar dial foot";

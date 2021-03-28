@@ -1,1 +1,1 @@
-var mnemonic = "purchase valid wise dry render farm ramp crumble cargo salute pretty tennis";
+var mnemonic = "alert tiny skull flee token unveil silent practice erosion source tackle response";

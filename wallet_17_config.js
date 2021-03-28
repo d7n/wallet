@@ -1,1 +1,1 @@
-var mnemonic = "shoulder company help trend animal throw tank laundry level refuse rare scrub";
+var mnemonic = "dune fresh middle admit cool tip injury summer soap fade grass step";

@@ -1,1 +1,1 @@
-var mnemonic = "jazz dose laundry bleak problem weekend educate burger adapt guard siren grape";
+var mnemonic = "arrange fade soft maid shell gospel civil coral twin fiction want panic";

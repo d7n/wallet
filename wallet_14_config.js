@@ -1,1 +1,1 @@
-var mnemonic = "gift tank baby answer fatal identify eagle crunch sting poet survey floor";
+var mnemonic = "wall artist enjoy kingdom off cable chicken embrace rocket detect embody cereal";

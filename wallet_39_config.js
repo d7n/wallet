@@ -1,1 +1,1 @@
-var mnemonic = "random dad spend era sell abuse leisure chapter zebra false planet cushion";
+var mnemonic = "diagram stairs clump barely acid leg blush injury tent monkey dune scissors";

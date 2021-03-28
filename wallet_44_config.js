@@ -1,1 +1,1 @@
-var mnemonic = "they easy assist public sign busy talent moment step shift powder bonus";
+var mnemonic = "little multiply swallow taste spy perfect vessel negative prepare group under deliver";

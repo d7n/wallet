@@ -1,1 +1,1 @@
-var mnemonic = "seek essence vacant worth combine accuse fine sense stairs slam deny demise";
+var mnemonic = "animal patrol dwarf fetch tiny squirrel fee danger latin gun sock employ";

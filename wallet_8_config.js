@@ -1,1 +1,1 @@
-var mnemonic = "remind inspire case whip blanket tornado mosquito buffalo faint balcony chief average";
+var mnemonic = "kiss wonder label praise fish skirt alien vacuum hobby utility peasant point";

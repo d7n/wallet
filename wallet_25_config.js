@@ -1,1 +1,1 @@
-var mnemonic = "topple elite nominee hire check hub intact cat report power weasel web";
+var mnemonic = "oak rib bind spare angle coyote any protect corn cherry carpet police";

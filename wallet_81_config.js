@@ -1,1 +1,1 @@
-var mnemonic = "obtain state inject avocado fine skate uniform smoke sugar fit scrap virtual";
+var mnemonic = "attend holiday idea federal figure palm occur trumpet cause sword license obtain";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil album island capital acquire planet maximum point assist stomach inherit entire";
+var mnemonic = "hold follow regret rotate liar hole clip renew will vault clever piano";

@@ -1,1 +1,1 @@
-var mnemonic = "warrior snap student hen ask harvest punch glimpse round evidence neither exchange";
+var mnemonic = "barely turn balance normal feature culture start coyote slush muscle potato social";

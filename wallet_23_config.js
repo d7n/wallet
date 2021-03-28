@@ -1,1 +1,1 @@
-var mnemonic = "acquire assist clutch resource estate canyon post half genuine hole february proud";
+var mnemonic = "spell tragic swallow inch eyebrow face differ banana shaft enable brick swallow";

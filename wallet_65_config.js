@@ -1,1 +1,1 @@
-var mnemonic = "spring daring truck fan identify soap police need toy arrive lottery medal";
+var mnemonic = "flip dad boost palm game couch flip idle planet mushroom grain duty";

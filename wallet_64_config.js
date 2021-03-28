@@ -1,1 +1,1 @@
-var mnemonic = "must little cruel occur zebra level chunk noodle chair enact sea ready";
+var mnemonic = "imitate front harbor light critic front stone host idle brand scout junior";

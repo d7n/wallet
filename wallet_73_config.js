@@ -1,1 +1,1 @@
-var mnemonic = "viable crop hair wild prepare upon comic keep chase vocal ordinary atom";
+var mnemonic = "inside double find cactus fence network curve gun wild cruise puppy hard";

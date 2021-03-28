@@ -1,1 +1,1 @@
-var mnemonic = "produce faint fiber victory sadness salmon explain shop burden leopard toilet rain";
+var mnemonic = "wall noble scale aim lock teach shop dawn gift regular vintage custom";

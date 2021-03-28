@@ -1,1 +1,1 @@
-var mnemonic = "crime can toss render cancel clock salt amateur doctor derive east close";
+var mnemonic = "spell worth earth empower sand mail such pulp surge task tattoo sunset";

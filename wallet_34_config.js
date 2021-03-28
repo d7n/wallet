@@ -1,1 +1,1 @@
-var mnemonic = "stick trash suggest flush bench dress barrel onion fantasy solar enough velvet";
+var mnemonic = "one bread robust domain agent glimpse fever punch divide genuine express ketchup";

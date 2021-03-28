@@ -1,1 +1,1 @@
-var mnemonic = "guess friend crowd sausage seat endless police tent emotion foster focus equal";
+var mnemonic = "winter can symptom various shove predict mobile chronic exit bag taxi heart";

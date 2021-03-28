@@ -1,1 +1,1 @@
-var mnemonic = "old south chase fluid private island room wrist oval reason topic climb";
+var mnemonic = "cannon impulse agent evolve hungry sure jewel deliver mutual food foster solar";

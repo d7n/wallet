@@ -1,1 +1,1 @@
-var mnemonic = "tired super dilemma wear title easily light case police fade traffic moral";
+var mnemonic = "leader gravity stool rate sunny mean laugh coyote message envelope boat labor";

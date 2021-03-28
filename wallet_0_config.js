@@ -1,1 +1,1 @@
-var mnemonic = "salon stock spice salad improve unknown mouse crop pizza myself debate neutral";
+var mnemonic = "blush enemy tomato minimum squirrel result crash latin there idle surge orange";

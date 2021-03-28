@@ -1,1 +1,1 @@
-var mnemonic = "swamp play region discover all payment universe can become lava bind abstract";
+var mnemonic = "copy weird report submit rude barely online volcano test reason chaos treat";

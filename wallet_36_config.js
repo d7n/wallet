@@ -1,1 +1,1 @@
-var mnemonic = "alien ship series own decrease tiger butter helmet south viable carbon shove";
+var mnemonic = "dragon pact select quick satoshi toy blanket beauty naive motor gift name";

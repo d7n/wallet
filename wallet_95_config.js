@@ -1,1 +1,1 @@
-var mnemonic = "sorry quiz six filter write inmate lawn august skirt atom plastic young";
+var mnemonic = "prosper wage sign nuclear delay this royal ritual stove badge time inquiry";

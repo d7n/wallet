@@ -1,1 +1,1 @@
-var mnemonic = "elegant gap laundry excess moral tiny host slide rebuild globe open room";
+var mnemonic = "jacket plate puzzle lock olive casino circle armed recipe opera mobile hazard";

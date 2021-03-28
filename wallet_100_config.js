@@ -1,1 +1,1 @@
-var mnemonic = "harbor frog roast job cushion monkey expire pepper chest tackle build convince";
+var mnemonic = "strike grab skull rookie march prize sunny habit bus lift surface mimic";

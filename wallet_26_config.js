@@ -1,1 +1,1 @@
-var mnemonic = "clever drastic inherit summer local twice bridge put viable razor rough version";
+var mnemonic = "tornado focus balance night mind rubber indicate clap old asthma lunar mixture";

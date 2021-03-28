@@ -1,1 +1,1 @@
-var mnemonic = "nurse calm charge pull frequent organ tourist sadness remember vendor fog verb";
+var mnemonic = "frame service grape upper pencil oil lounge supreme viable reunion coast sweet";

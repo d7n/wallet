@@ -1,1 +1,1 @@
-var mnemonic = "adjust general bachelor inmate spoil lemon rice youth flat multiply outdoor organ";
+var mnemonic = "demand bottom wrap village smile sight also depart swarm series wish duty";

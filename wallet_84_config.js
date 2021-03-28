@@ -1,1 +1,1 @@
-var mnemonic = "clay near emerge panda alcohol donor shaft venue absurd lock tone combine";
+var mnemonic = "vacuum pizza capable logic prevent output recycle film office spell sick bachelor";

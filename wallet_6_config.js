@@ -1,1 +1,1 @@
-var mnemonic = "private saddle vicious audit humor verb garlic mechanic help rookie choice slender";
+var mnemonic = "garbage curious tone surface negative security fade essay index replace spider tape";

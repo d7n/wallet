@@ -1,1 +1,1 @@
-var mnemonic = "piano subway piano enroll flip wheat kind because sister network sadness arrow";
+var mnemonic = "vital tape exchange dutch various shove rule kit scorpion tray decrease curtain";

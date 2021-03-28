@@ -1,1 +1,1 @@
-var mnemonic = "side front catalog wait crouch federal asset neither salad flag solution else";
+var mnemonic = "repeat flat depend okay output pudding else science jewel guess visa elephant";

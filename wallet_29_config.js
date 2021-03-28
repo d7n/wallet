@@ -1,1 +1,1 @@
-var mnemonic = "dutch number aim jazz daughter broken run deny warrior reform execute wedding";
+var mnemonic = "coast fall celery load scatter copper border wedding public path nice toy";

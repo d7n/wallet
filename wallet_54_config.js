@@ -1,1 +1,1 @@
-var mnemonic = "off bicycle trust hour disease galaxy easy number diary always wolf corn";
+var mnemonic = "bicycle top true divide person flash option remember heavy broom sell onion";

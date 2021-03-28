@@ -1,1 +1,1 @@
-var mnemonic = "nut plastic peanut sample harsh merit enable near day panel penalty arctic";
+var mnemonic = "ice trust lava oxygen game glue country organ lab barely destroy dress";

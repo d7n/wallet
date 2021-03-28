@@ -1,1 +1,1 @@
-var mnemonic = "method link pattern system marriage connect invest hedgehog advice cream cupboard trade";
+var mnemonic = "avocado coach defense other tip high diesel subject hard wide shaft prefer";

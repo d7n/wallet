@@ -1,1 +1,1 @@
-var mnemonic = "squeeze apology fancy wrist among garlic lumber switch nominee subway grief effort";
+var mnemonic = "piece express fury whip exotic rack blast elegant private time brother vanish";

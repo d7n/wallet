@@ -1,1 +1,1 @@
-var mnemonic = "dizzy fix pioneer edge replace hill second sock beef echo exhibit glass";
+var mnemonic = "key strike record depth bubble horn tenant replace flight diary skill improve";

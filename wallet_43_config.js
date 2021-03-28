@@ -1,1 +1,1 @@
-var mnemonic = "ripple switch decline state frost promote eyebrow flavor barrel canoe later elevator";
+var mnemonic = "empty muffin crime visa giggle lion blossom brain victory high view cream";

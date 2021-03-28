@@ -1,1 +1,1 @@
-var mnemonic = "blast news hill elder they near bonus gold ranch satisfy subject during";
+var mnemonic = "fetch sheriff again firm merge dress butter oyster parade badge mean ignore";

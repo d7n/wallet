@@ -1,1 +1,1 @@
-var mnemonic = "flat water host scatter bonus jaguar disease armed absorb disorder nose play";
+var mnemonic = "eye symbol wolf cargo sand slot into cradle ship snake stadium soap";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure coach tenant company dress toilet clever ring wage butter slim smart";
+var mnemonic = "oval toe dad salon present buyer report assume sail tiny rapid skirt";

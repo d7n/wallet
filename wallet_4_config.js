@@ -1,1 +1,1 @@
-var mnemonic = "expect mixed poverty wild catch maid elder repair process carry into cloud";
+var mnemonic = "swift robot snap mobile leader announce roast mistake risk size obey notice";

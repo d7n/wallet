@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur judge ride dad body state stock weekend force surround season cycle";
+var mnemonic = "brother congress system hard relief clump evidence barrel follow two van keen";

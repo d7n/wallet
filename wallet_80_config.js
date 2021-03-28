@@ -1,1 +1,1 @@
-var mnemonic = "soul small gold seminar alarm panel winter solid lava entry mail bless";
+var mnemonic = "reveal address maple liar video uphold aisle digital avocado small script useful";

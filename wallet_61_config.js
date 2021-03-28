@@ -1,1 +1,1 @@
-var mnemonic = "rebuild focus theory reform fox fiction squeeze clerk theory barrel museum kidney";
+var mnemonic = "skin tide razor muffin unfold universe stairs crane visual check cake next";

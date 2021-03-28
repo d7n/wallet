@@ -1,1 +1,1 @@
-var mnemonic = "aspect artist multiply cook boss patch woman civil capable give kidney blade";
+var mnemonic = "next arrow there bullet hero mandate angle deputy dream length cook sport";

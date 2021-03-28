@@ -1,1 +1,1 @@
-var mnemonic = "breeze box match limit degree expose major ritual note vicious minute undo";
+var mnemonic = "increase tongue explain govern midnight drink cruise hobby tide arrest bless huge";

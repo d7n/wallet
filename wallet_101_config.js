@@ -1,1 +1,1 @@
-var mnemonic = "drip truth noise account logic police question bike peace follow bottom draw";
+var mnemonic = "radio can yellow hurt shuffle inquiry clay piece lunch category hope share";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur insect tonight party certain broken armed novel evoke engine purse hunt";
+var mnemonic = "ten finish invite umbrella peasant squirrel nest history picnic budget control split";

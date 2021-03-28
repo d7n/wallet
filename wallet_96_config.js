@@ -1,1 +1,1 @@
-var mnemonic = "poet science describe travel surface jacket learn flavor century universe smooth sister";
+var mnemonic = "inquiry open square donate escape vehicle alley silk alley region proud follow";

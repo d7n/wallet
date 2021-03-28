@@ -1,1 +1,1 @@
-var mnemonic = "alert cradle jelly misery elbow gas vacuum adapt steak art soft machine";
+var mnemonic = "possible daring book hobby evoke royal wire hundred opinion entire join release";

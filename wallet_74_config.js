@@ -1,1 +1,1 @@
-var mnemonic = "begin lawn lava parade pulp ring nurse middle clarify local two three";
+var mnemonic = "lava spend pair deal across sweet such access evil dune park master";

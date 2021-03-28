@@ -1,1 +1,1 @@
-var mnemonic = "tiger profit awkward surge awful punch spray wild speak maid human win";
+var mnemonic = "exile garment fiction diet poet daring sphere harvest arrow dish aunt peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "fork final hidden dutch protect autumn whisper slim air person symptom dynamic";
+var mnemonic = "cancel acoustic seminar uphold bamboo busy panther repeat impact broken lawn pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "tortoise movie enact together design jelly person moment vault office supply file";
+var mnemonic = "offer memory annual inherit moment type delay eager license picture garden bag";

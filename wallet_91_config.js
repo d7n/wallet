@@ -1,1 +1,1 @@
-var mnemonic = "correct absurd alarm grocery bracket wheat claim drink syrup wealth enter great";
+var mnemonic = "cherry hub among tonight recycle chair squirrel asset defy auto dolphin square";

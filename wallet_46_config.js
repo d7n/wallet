@@ -1,1 +1,1 @@
-var mnemonic = "actual picture pulp canoe era often double price couch hub render series";
+var mnemonic = "swallow caution evidence proof method unfair indicate main kidney shell pencil hurdle";

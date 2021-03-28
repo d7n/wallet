@@ -1,1 +1,1 @@
-var mnemonic = "cereal cloth enable double scan genre student bar escape trumpet sleep tired";
+var mnemonic = "solar test gather state puppy develop reunion render equal omit glue maximum";

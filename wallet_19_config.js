@@ -1,1 +1,1 @@
-var mnemonic = "shoe flame flight payment deliver asthma cancel order frog police meadow voice";
+var mnemonic = "power breeze pencil illegal orange surface connect vanish fold expire snake country";

@@ -1,1 +1,1 @@
-var mnemonic = "banner gown length stereo permit bird tilt pond despair system liberty afford";
+var mnemonic = "armor machine ketchup jaguar rally craft innocent race meadow begin pilot fiction";

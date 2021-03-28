@@ -1,1 +1,1 @@
-var mnemonic = "scheme ecology lottery large badge sport lounge script this punch broken annual";
+var mnemonic = "planet warm simple wolf demand sight oblige one hybrid time bundle moon";

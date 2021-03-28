@@ -1,1 +1,1 @@
-var mnemonic = "hockey used tonight eyebrow labor capable select follow embark smile shell culture";
+var mnemonic = "jealous torch nose garlic fresh seven brass crystal bicycle luggage foil rival";

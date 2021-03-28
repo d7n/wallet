@@ -1,1 +1,1 @@
-var mnemonic = "voyage chief history ride little shaft typical side flock gospel team enlist";
+var mnemonic = "canoe champion circle occur thank divide giggle version try table vivid pave";

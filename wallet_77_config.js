@@ -1,1 +1,1 @@
-var mnemonic = "future method project sign general fringe estate relief copper oppose zone hybrid";
+var mnemonic = "improve never buzz lab civil defy peasant circle mad original true onion";

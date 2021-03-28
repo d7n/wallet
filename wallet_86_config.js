@@ -1,1 +1,1 @@
-var mnemonic = "jungle own foot matrix green scrub sting asset soul ice draft aware";
+var mnemonic = "early clay hidden sure announce hint tomato regular regret color lab again";

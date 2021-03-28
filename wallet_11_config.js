@@ -1,1 +1,1 @@
-var mnemonic = "admit reward okay reject foil gift frequent delay arch grief index two";
+var mnemonic = "feed green wrap upper fly usual business open immune bicycle drive stone";

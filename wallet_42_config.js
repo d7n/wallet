@@ -1,1 +1,1 @@
-var mnemonic = "sick perfect notice talent ten ramp bag shaft kind page jealous carbon";
+var mnemonic = "absorb police barrel require cargo grow side prefer unknown garbage novel flee";
