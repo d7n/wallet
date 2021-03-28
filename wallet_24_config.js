@@ -1,1 +1,1 @@
-var mnemonic = "result faith clump awkward guilt sign village rebel decade pause demand future";
+var mnemonic = "escape traffic inherit jungle glance stage kind enlist list price month reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "scout crime proof critic obtain seat eternal gasp affair debris carbon hollow";
+var mnemonic = "resource surge rule forest long health suffer silent this stage dose already";

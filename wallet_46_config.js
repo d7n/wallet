@@ -1,1 +1,1 @@
-var mnemonic = "witness roof believe hollow reject protect urban three wrist patch inmate bus";
+var mnemonic = "rival awkward task much room sting reject access liquid fix novel change";

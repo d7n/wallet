@@ -1,1 +1,1 @@
-var mnemonic = "violin stick sail alpha chronic snap next dad autumn inherit situate axis";
+var mnemonic = "manual bullet gallery nominee liberty fame twice crime dice pink come enough";

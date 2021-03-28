@@ -1,1 +1,1 @@
-var mnemonic = "lazy flavor master empty rocket field wrong cotton cloth lobster dignity hip";
+var mnemonic = "drip deliver senior gorilla destroy bind race tenant mad local foil reveal";

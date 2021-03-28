@@ -1,1 +1,1 @@
-var mnemonic = "million twice thunder crowd stay behind limb news amazing price uncover position";
+var mnemonic = "hospital head penalty feature brown wrist envelope trade venue sock caught busy";

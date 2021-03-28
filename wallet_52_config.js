@@ -1,1 +1,1 @@
-var mnemonic = "bring wink alpha improve purpose inner core dolphin crouch group ghost unhappy";
+var mnemonic = "arch slogan device staff jazz change call book lesson canoe fatigue minute";

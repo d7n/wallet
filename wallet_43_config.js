@@ -1,1 +1,1 @@
-var mnemonic = "word lottery attack lottery either truly switch camp knee home crack settle";
+var mnemonic = "balcony title rifle wool tooth mammal attend false vital exotic opinion spray";

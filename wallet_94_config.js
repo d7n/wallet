@@ -1,1 +1,1 @@
-var mnemonic = "solve fiber chest jungle project vintage seek social luxury lucky among limit";
+var mnemonic = "bless arctic icon bring shallow express satoshi couch minimum radio owner over";

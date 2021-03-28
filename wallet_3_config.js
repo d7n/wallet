@@ -1,1 +1,1 @@
-var mnemonic = "rug verb coyote admit relax exact office click model depth insect method";
+var mnemonic = "mail foot myself family fiscal gate cluster breeze nice goose walk soccer";

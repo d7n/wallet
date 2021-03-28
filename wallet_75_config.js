@@ -1,1 +1,1 @@
-var mnemonic = "into brand carry smooth all tongue version open away wagon bomb tree";
+var mnemonic = "harsh flash dinosaur reduce spy october bulk senior crop safe reason rely";

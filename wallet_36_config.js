@@ -1,1 +1,1 @@
-var mnemonic = "galaxy fix decorate rifle arrow source guitar loyal first boy diesel special";
+var mnemonic = "profit among race between season lunch together destroy habit thing announce estate";

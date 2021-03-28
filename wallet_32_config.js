@@ -1,1 +1,1 @@
-var mnemonic = "radar spare tooth impulse stumble evidence ritual stick language salmon gap fiction";
+var mnemonic = "sphere task swamp cloud grocery bargain puppy bag hint dutch upgrade index";

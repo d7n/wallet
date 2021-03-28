@@ -1,1 +1,1 @@
-var mnemonic = "point cute open kite catalog era mobile grain divide finger useful dawn";
+var mnemonic = "fatigue submit snow much toe timber opinion acoustic crouch shiver walk orient";

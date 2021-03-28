@@ -1,1 +1,1 @@
-var mnemonic = "resource pitch party urban step drive panic night assist damp unable must";
+var mnemonic = "cream upper indoor ocean message fiscal dad dutch portion setup alpha produce";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity thrive foam laugh broccoli group rely tail lucky typical winter scan";
+var mnemonic = "onion globe ill drill worth eye address grocery mouse battle mean okay";

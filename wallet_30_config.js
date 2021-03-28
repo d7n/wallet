@@ -1,1 +1,1 @@
-var mnemonic = "number flash ordinary bring bicycle spy kiss choice return universe warm total";
+var mnemonic = "kid manual define final fade antique mutual settle rural brave stand clerk";

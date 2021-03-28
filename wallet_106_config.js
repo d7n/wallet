@@ -1,1 +1,1 @@
-var mnemonic = "usage venture dial flavor grit answer cabin swamp stairs pole rate replace";
+var mnemonic = "kingdom bubble title social blue butter artist client sweet illness vicious inspire";

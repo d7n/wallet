@@ -1,1 +1,1 @@
-var mnemonic = "inner prison valley alarm senior fancy palm milk hammer near cross gown";
+var mnemonic = "mosquito credit alien away van knife divide emerge bring denial ill immune";

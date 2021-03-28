@@ -1,1 +1,1 @@
-var mnemonic = "flight burst story drop disease stool seven lesson upset learn better tonight";
+var mnemonic = "strike catalog bundle execute chat mind napkin car coyote army vacuum wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "season shift agent chaos coral tumble task soul olympic top output olympic";
+var mnemonic = "swift wagon celery frost frown range title retire habit west desert reveal";

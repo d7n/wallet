@@ -1,1 +1,1 @@
-var mnemonic = "verify mother great vague zoo reward dynamic habit wrist close elder leisure";
+var mnemonic = "luxury people tide fiction waste never install verify govern account bacon vessel";

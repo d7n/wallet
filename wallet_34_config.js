@@ -1,1 +1,1 @@
-var mnemonic = "monster donor junk wave across pass there absent busy famous shove face";
+var mnemonic = "paddle feel orphan family retire tonight old cream lift session design village";

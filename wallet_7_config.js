@@ -1,1 +1,1 @@
-var mnemonic = "legal come praise buffalo sort retire render catalog dutch shift crash regret";
+var mnemonic = "check bottom sting drink tomorrow expose early reunion document plunge wonder donkey";

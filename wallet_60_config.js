@@ -1,1 +1,1 @@
-var mnemonic = "learn police frozen card garage sand proof execute slogan used reopen cotton";
+var mnemonic = "amused sorry common minor adjust step toward thought bargain copy ship canal";

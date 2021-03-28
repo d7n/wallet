@@ -1,1 +1,1 @@
-var mnemonic = "unfold master dutch tide amazing resemble deny flat onion strategy spirit risk";
+var mnemonic = "source fortune fat human imitate post slender gain vapor fury gap hood";

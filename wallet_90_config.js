@@ -1,1 +1,1 @@
-var mnemonic = "woman giggle bunker reflect anger spice world blush airport black moment umbrella";
+var mnemonic = "equal special view square door woman feed potato super cupboard section derive";

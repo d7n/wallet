@@ -1,1 +1,1 @@
-var mnemonic = "drop multiply pool rapid fiction attack call legend mesh gold slender future";
+var mnemonic = "deliver rule onion pledge unknown series region front beach course merge mention";

@@ -1,1 +1,1 @@
-var mnemonic = "craft frozen bracket frost print artefact car hope quiz improve bus student";
+var mnemonic = "twist hard couch sea resist popular movie broom sibling present square october";

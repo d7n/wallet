@@ -1,1 +1,1 @@
-var mnemonic = "vehicle explain rich chicken smart dinner abandon furnace real vague want chuckle";
+var mnemonic = "fetch initial lady vacuum screen smart switch awake garbage they melt scale";

@@ -1,1 +1,1 @@
-var mnemonic = "story timber water end velvet chalk measure basic century flip grid hub";
+var mnemonic = "fiber draw mechanic join rookie remain scout define gun topple domain immune";

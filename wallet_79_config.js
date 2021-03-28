@@ -1,1 +1,1 @@
-var mnemonic = "barely estate high wear detail monkey order exchange virus conduct crew foot";
+var mnemonic = "auction crane popular drip vapor summer absurd fresh gasp derive leave human";

@@ -1,1 +1,1 @@
-var mnemonic = "trial torch property okay whip month feature report hole monster desert thumb";
+var mnemonic = "crouch kidney once spoil snack deal wrestle hedgehog onion list merit curve";

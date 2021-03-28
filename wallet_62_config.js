@@ -1,1 +1,1 @@
-var mnemonic = "attend bronze wish become genuine fantasy dash runway case eight maze tuna";
+var mnemonic = "scrub knife husband pact nephew august rebuild fragile disorder tomorrow wet already";

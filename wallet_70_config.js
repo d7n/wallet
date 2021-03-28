@@ -1,1 +1,1 @@
-var mnemonic = "couch jar steel mutual hole faculty crack green render forum prepare margin";
+var mnemonic = "salad prize thought arena between behave record model release shiver tobacco sugar";

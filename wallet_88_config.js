@@ -1,1 +1,1 @@
-var mnemonic = "leave syrup ocean arena dog step ride panel nominee imitate cruise dust";
+var mnemonic = "market review derive meat mechanic belt current fluid couple burst toss clean";

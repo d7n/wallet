@@ -1,1 +1,1 @@
-var mnemonic = "track bachelor monitor youth stove pony guitar vicious view warfare trial fuel";
+var mnemonic = "coyote winner unveil dismiss pepper snack struggle fine inquiry industry blur edit";

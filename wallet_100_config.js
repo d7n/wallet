@@ -1,1 +1,1 @@
-var mnemonic = "faculty disagree small palace letter uncover extend mom battle artist topic abandon";
+var mnemonic = "marine chef switch squeeze grape negative anchor license fresh truth above awkward";

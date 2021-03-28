@@ -1,1 +1,1 @@
-var mnemonic = "scare cupboard loop venue throw casino sunny grape rate pledge crumble moon";
+var mnemonic = "general robot trick glance oppose ramp damp antique throw accident perfect else";

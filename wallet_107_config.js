@@ -1,1 +1,1 @@
-var mnemonic = "jar october any body frost enrich drill wave trouble citizen army proof";
+var mnemonic = "letter useless absurd soul defense expose toe degree skill urban tape salmon";

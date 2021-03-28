@@ -1,1 +1,1 @@
-var mnemonic = "visit target foot toward east regret indoor stuff what pole hawk soldier";
+var mnemonic = "lesson update fall exhibit tomorrow taxi also sustain elevator rebuild mandate kind";

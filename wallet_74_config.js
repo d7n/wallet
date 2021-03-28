@@ -1,1 +1,1 @@
-var mnemonic = "spirit lava visit angry sunset voyage destroy inner snake divorce rhythm slogan";
+var mnemonic = "miss blood lemon sustain sun dust disagree run heart box volume rose";

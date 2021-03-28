@@ -1,1 +1,1 @@
-var mnemonic = "provide giraffe solve similar warrior suspect earn add enroll tape alone cereal";
+var mnemonic = "tomato crowd prepare aerobic table proud west casino network shy top swear";

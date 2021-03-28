@@ -1,1 +1,1 @@
-var mnemonic = "swarm fever one bridge denial poverty version adapt wrong harsh over actress";
+var mnemonic = "purpose screen quick entry refuse truth imitate stairs fancy nephew spoon float";

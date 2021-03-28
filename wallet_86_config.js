@@ -1,1 +1,1 @@
-var mnemonic = "library auto tragic layer update crack blame drum approve measure old fossil";
+var mnemonic = "stamp gossip million habit tooth license famous heart depend fantasy cruel pig";

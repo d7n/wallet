@@ -1,1 +1,1 @@
-var mnemonic = "tornado jewel isolate inmate where parrot label foot acid armor soft you";
+var mnemonic = "cheap sting coconut dinosaur outside carbon grain cattle dutch success vehicle echo";

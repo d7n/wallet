@@ -1,1 +1,1 @@
-var mnemonic = "region off abandon photo couple sort door merge bitter fog check monkey";
+var mnemonic = "acquire chat now subway surprise wash scrub broom fresh tunnel enroll draft";

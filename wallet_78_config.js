@@ -1,1 +1,1 @@
-var mnemonic = "trumpet trash photo salon rally approve better onion prefer knee fish middle";
+var mnemonic = "oblige mercy salon okay border edge sell dutch mistake drastic firm wage";

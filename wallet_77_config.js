@@ -1,1 +1,1 @@
-var mnemonic = "bomb person same orbit urban mountain scare exhaust unknown fitness digital cheap";
+var mnemonic = "person train conduct shuffle deposit veteran sing plunge income travel series cruel";

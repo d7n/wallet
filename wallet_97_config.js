@@ -1,1 +1,1 @@
-var mnemonic = "crater cycle rate check clarify width often hurdle scorpion add hard luxury";
+var mnemonic = "hub food wisdom advice skin normal august caution crazy siren helmet burst";

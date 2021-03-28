@@ -1,1 +1,1 @@
-var mnemonic = "quantum lounge season autumn distance reveal link above prison figure assault mean";
+var mnemonic = "relax client manage fantasy hobby reopen rabbit stomach lady gap adult legal";

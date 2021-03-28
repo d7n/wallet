@@ -1,1 +1,1 @@
-var mnemonic = "secret kiss spatial aerobic muscle tag taxi way legal subway neither universe";
+var mnemonic = "lyrics guide stumble huge piano museum round fan piano cycle wage pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "electric around mutual exclude tired cross mistake scrub impose quarter skin dinosaur";
+var mnemonic = "arctic cancel mutual will behind furnace retreat like acid hidden ribbon sleep";

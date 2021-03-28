@@ -1,1 +1,1 @@
-var mnemonic = "turtle scare online when prepare denial artist misery finish brown exclude lonely";
+var mnemonic = "truth gym right road film snap hood build rude ahead engine solve";

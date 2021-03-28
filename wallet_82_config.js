@@ -1,1 +1,1 @@
-var mnemonic = "dad cargo increase margin toy blanket river say ordinary choice over solid";
+var mnemonic = "wire ancient fan expand resource happy model tragic verify animal legend fork";

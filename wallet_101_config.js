@@ -1,1 +1,1 @@
-var mnemonic = "evolve drop tackle canvas blur science trick fluid swear frozen scrub exact";
+var mnemonic = "bulk help calm penalty detect hospital range bachelor horse stomach limit extra";

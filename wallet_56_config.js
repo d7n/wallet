@@ -1,1 +1,1 @@
-var mnemonic = "lecture naive nominee link photo enrich claw pretty april satoshi reward frown";
+var mnemonic = "vanish strategy dawn choice ice robust enough sell clarify pottery ocean dismiss";

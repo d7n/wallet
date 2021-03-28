@@ -1,1 +1,1 @@
-var mnemonic = "sister toe deer dust burger solution shy they inherit ask luggage hint";
+var mnemonic = "stadium raven always spoil diesel puppy antique index manual diet violin isolate";

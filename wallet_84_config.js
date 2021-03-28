@@ -1,1 +1,1 @@
-var mnemonic = "return grape mosquito echo ethics people useless success purse skirt wealth wheel";
+var mnemonic = "merry student six vacant flash indicate inquiry fan scale bleak skin gold";

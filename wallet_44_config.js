@@ -1,1 +1,1 @@
-var mnemonic = "rely obey world zero cherry valid lamp wonder scare panic emerge oppose";
+var mnemonic = "outer fury anchor draft own image yard oven chair permit will turkey";

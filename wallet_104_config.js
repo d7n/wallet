@@ -1,1 +1,1 @@
-var mnemonic = "must virus door pupil love torch toy labor squirrel caution winter rely";
+var mnemonic = "urge fish yard carpet goddess afraid mandate sting truth pull finish lemon";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent pupil impulse chicken tenant sentence toast amused fee pull apple video";
+var mnemonic = "disorder prize hill drop fall split depend enlist fun bottom vicious boil";

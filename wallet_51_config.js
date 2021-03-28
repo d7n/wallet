@@ -1,1 +1,1 @@
-var mnemonic = "undo replace job pole clog list allow father mobile matrix blouse shift";
+var mnemonic = "measure flame cinnamon citizen biology actual stand exercise leave grit fire confirm";

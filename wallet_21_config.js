@@ -1,1 +1,1 @@
-var mnemonic = "blush rent traffic climb sibling cloth dismiss strategy explain ill jump chimney";
+var mnemonic = "pill still embody mistake place useful border festival honey twin host require";

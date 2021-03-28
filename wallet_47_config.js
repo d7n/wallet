@@ -1,1 +1,1 @@
-var mnemonic = "live chicken bulk guilt traffic size proof gold alpha taste team april";
+var mnemonic = "exercise lobster jewel speak orphan oblige trash alone hour final return impose";

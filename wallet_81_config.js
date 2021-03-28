@@ -1,1 +1,1 @@
-var mnemonic = "will mandate tent history lesson final behave bulk stomach pair clap rich";
+var mnemonic = "train casino knee arrest yellow during gadget found media fringe balance scorpion";

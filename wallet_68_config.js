@@ -1,1 +1,1 @@
-var mnemonic = "fiction doll this detail jungle indoor priority outdoor upper joy speak always";
+var mnemonic = "cargo armed alone mom champion burden jar oval juice original habit lamp";

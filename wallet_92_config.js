@@ -1,1 +1,1 @@
-var mnemonic = "slogan more acquire around crop black chest rent true web vivid drum";
+var mnemonic = "rally twin trigger proof lizard toward live genuine trial reflect pistol rely";

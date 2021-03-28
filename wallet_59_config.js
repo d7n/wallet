@@ -1,1 +1,1 @@
-var mnemonic = "urban print prosper sadness lunar put ancient cake need mail walnut raven";
+var mnemonic = "tell coast scheme year black easily hamster minute divide plastic hen local";

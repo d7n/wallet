@@ -1,1 +1,1 @@
-var mnemonic = "dice cargo spend quick mansion situate embody door borrow palm cluster shoe";
+var mnemonic = "time across say finish life drill vehicle famous cake brisk upon flat";

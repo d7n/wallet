@@ -1,1 +1,1 @@
-var mnemonic = "mass winter forum rich wonder jealous hard fiber draft rule gym van";
+var mnemonic = "snow liberty fiber start sign yard love viable much expire woman fire";

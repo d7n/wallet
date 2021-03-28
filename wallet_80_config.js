@@ -1,1 +1,1 @@
-var mnemonic = "knee modify half exile tuna scale debris such heart crazy annual maximum";
+var mnemonic = "put slow mansion churn glory banana term hungry bicycle ordinary holiday purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "clean one exclude essay hill hill sand deposit rebel sustain army valley";
+var mnemonic = "guide drama process lab initial kangaroo social tortoise six expect welcome various";

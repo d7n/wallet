@@ -1,1 +1,1 @@
-var mnemonic = "satisfy property wheel slim forest traffic tiny mouse latin advice grow scrub";
+var mnemonic = "hen intact nice stumble easily arrest dial hedgehog minimum border pull rhythm";

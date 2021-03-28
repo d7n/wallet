@@ -1,1 +1,1 @@
-var mnemonic = "mutual valid walk size stay spirit very outer olive law fluid lounge";
+var mnemonic = "viable parent giggle wrestle tone human luggage history weapon inject core imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "draw honey source climb dream blush debris strong define shaft pupil price";
+var mnemonic = "tiny word churn female stool yellow rely cabin faith clinic degree suit";

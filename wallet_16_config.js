@@ -1,1 +1,1 @@
-var mnemonic = "engine grief entry visa tail dynamic crawl daring relief grow always dawn";
+var mnemonic = "depart battle title trend bachelor arctic dawn rhythm absorb stool topple float";

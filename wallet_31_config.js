@@ -1,1 +1,1 @@
-var mnemonic = "orient carbon waste praise material aisle code gesture banana unfair still whale";
+var mnemonic = "artwork crowd crater bomb crowd bar iron unfair oval memory fly west";

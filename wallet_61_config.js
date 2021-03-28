@@ -1,1 +1,1 @@
-var mnemonic = "loyal whale chuckle anxiety jump say maze flower chuckle busy dumb surround";
+var mnemonic = "accident snake beauty grunt submit can attract truck reduce mask slim then";

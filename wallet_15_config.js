@@ -1,1 +1,1 @@
-var mnemonic = "glance online audit cupboard dentist fee submit iron radar review tube position";
+var mnemonic = "fall monster worry total wisdom fancy famous gun attitude brave buzz surprise";

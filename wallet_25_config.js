@@ -1,1 +1,1 @@
-var mnemonic = "amateur affair that wet gift scrub session animal coil search dry civil";
+var mnemonic = "flight sustain armor document dismiss agree busy ordinary skin hungry taxi devote";

@@ -1,1 +1,1 @@
-var mnemonic = "snow blanket label square planet demand arena skull route social cancel sight";
+var mnemonic = "aim glimpse sausage harvest link space payment tip avocado family aspect reflect";

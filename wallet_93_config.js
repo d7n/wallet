@@ -1,1 +1,1 @@
-var mnemonic = "hole salute few blouse absent metal apple coral hub door wage favorite";
+var mnemonic = "load mule island fruit embark range property exist strike february oak emerge";

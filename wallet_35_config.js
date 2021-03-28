@@ -1,1 +1,1 @@
-var mnemonic = "vapor patrol jungle layer gown recall ready filter equal lawn small current";
+var mnemonic = "supreme ignore trash demand maximum relief dinosaur finish defense feature vanish lava";

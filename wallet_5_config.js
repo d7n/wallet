@@ -1,1 +1,1 @@
-var mnemonic = "hip middle either erode gesture body climb novel clip slim spend elevator";
+var mnemonic = "oxygen donor snow autumn diesel kidney glow guess opera able bottom return";

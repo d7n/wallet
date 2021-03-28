@@ -1,1 +1,1 @@
-var mnemonic = "oyster leave father scheme process clean april evidence across pledge manual analyst";
+var mnemonic = "chief celery mistake cereal squeeze metal museum hover nest toward rack knife";

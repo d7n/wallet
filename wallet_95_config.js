@@ -1,1 +1,1 @@
-var mnemonic = "around cart now vessel saddle pet useful broken sure twist swift alter";
+var mnemonic = "meat medal confirm penalty ordinary fortune kingdom legend daring east term spare";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus envelope coil floor maple exotic dry shadow fault need garage foot";
+var mnemonic = "mouse salad dash ball jelly number tent bubble vintage repair stick spice";

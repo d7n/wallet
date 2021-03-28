@@ -1,1 +1,1 @@
-var mnemonic = "member answer green force garden photo column prepare grace social survey illness";
+var mnemonic = "erupt still share sister enforce scissors jelly accuse forward jealous hard rescue";

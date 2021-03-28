@@ -1,1 +1,1 @@
-var mnemonic = "winter employ clog year squeeze upon tissue donate jar noble tattoo duty";
+var mnemonic = "you salad power high glory about diary journey write chicken only quality";

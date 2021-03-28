@@ -1,1 +1,1 @@
-var mnemonic = "dash blouse possible vote mutual squirrel rib super pole into render there";
+var mnemonic = "abuse soda bitter wear gain attitude fresh slender rich mechanic bicycle annual";

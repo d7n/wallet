@@ -1,1 +1,1 @@
-var mnemonic = "muscle goose deposit brand session worth abuse random tomorrow actor spoil potato";
+var mnemonic = "craft acoustic squeeze vanish remind chef profit hen kingdom twin dash airport";

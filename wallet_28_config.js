@@ -1,1 +1,1 @@
-var mnemonic = "bring blue fresh buffalo bundle spirit pole bacon among spike april oyster";
+var mnemonic = "disagree exclude trust doll trouble home song chat crisp brass rug pen";
