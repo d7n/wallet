@@ -1,1 +1,1 @@
-var mnemonic = "vacuum pizza capable logic prevent output recycle film office spell sick bachelor";
+var mnemonic = "session cupboard foot health sleep subject gym close normal master token discover";

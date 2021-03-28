@@ -1,1 +1,1 @@
-var mnemonic = "ice trust lava oxygen game glue country organ lab barely destroy dress";
+var mnemonic = "payment sense discover donate tongue robust eternal autumn install setup pyramid pet";

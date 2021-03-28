@@ -1,1 +1,1 @@
-var mnemonic = "one bread robust domain agent glimpse fever punch divide genuine express ketchup";
+var mnemonic = "opera pepper ethics because toast tragic wedding drill creek resist floor clog";

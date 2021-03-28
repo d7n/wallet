@@ -1,1 +1,1 @@
-var mnemonic = "dune fresh middle admit cool tip injury summer soap fade grass step";
+var mnemonic = "grocery effort bean what begin admit silly bean myth describe mad solar";

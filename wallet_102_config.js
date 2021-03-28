@@ -1,1 +1,1 @@
-var mnemonic = "cannon impulse agent evolve hungry sure jewel deliver mutual food foster solar";
+var mnemonic = "layer face act eager jungle setup evoke churn august safe junk glory";

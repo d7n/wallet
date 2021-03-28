@@ -1,1 +1,1 @@
-var mnemonic = "absorb police barrel require cargo grow side prefer unknown garbage novel flee";
+var mnemonic = "today prison later skate attack story claim clever height struggle glad excite";

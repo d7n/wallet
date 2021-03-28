@@ -1,1 +1,1 @@
-var mnemonic = "gorilla good mango hybrid entry window retreat banana glory verify odor hold";
+var mnemonic = "frown pelican rotate vague mean display runway author hub rally approve minor";

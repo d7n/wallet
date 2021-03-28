@@ -1,1 +1,1 @@
-var mnemonic = "jacket plate puzzle lock olive casino circle armed recipe opera mobile hazard";
+var mnemonic = "cart elbow chunk brand area danger seed stereo scene chapter resemble destroy";

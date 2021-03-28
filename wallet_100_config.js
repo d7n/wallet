@@ -1,1 +1,1 @@
-var mnemonic = "strike grab skull rookie march prize sunny habit bus lift surface mimic";
+var mnemonic = "green attract bubble absent model quick alcohol summer vendor family guilt vintage";

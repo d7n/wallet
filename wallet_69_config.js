@@ -1,1 +1,1 @@
-var mnemonic = "animal patrol dwarf fetch tiny squirrel fee danger latin gun sock employ";
+var mnemonic = "session swim repair trust smart image awful fiber trust hospital derive pipe";

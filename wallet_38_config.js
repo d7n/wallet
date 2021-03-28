@@ -1,1 +1,1 @@
-var mnemonic = "eye symbol wolf cargo sand slot into cradle ship snake stadium soap";
+var mnemonic = "mad want gaze body ecology proud effort tone renew rug reveal undo";

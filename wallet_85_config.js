@@ -1,1 +1,1 @@
-var mnemonic = "reduce winner doll citizen initial copper bachelor month tenant crisp attitude seven";
+var mnemonic = "pact ride mean stock ugly loyal movie reason cattle follow chuckle come";

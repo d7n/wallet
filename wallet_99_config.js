@@ -1,1 +1,1 @@
-var mnemonic = "leader gravity stool rate sunny mean laugh coyote message envelope boat labor";
+var mnemonic = "denial home silly alley pen uncle student provide major wood gym hub";

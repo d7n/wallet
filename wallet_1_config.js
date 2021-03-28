@@ -1,1 +1,1 @@
-var mnemonic = "word manage excuse element gossip include moral coral swamp right artist impulse";
+var mnemonic = "pyramid hurry blood tribe mask rough cricket east clerk audit champion dove";

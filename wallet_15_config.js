@@ -1,1 +1,1 @@
-var mnemonic = "flag sphere exchange mechanic action simple judge mechanic sustain soon tooth snap";
+var mnemonic = "decorate return battle door casino erosion immune pencil save assist senior dismiss";

@@ -1,1 +1,1 @@
-var mnemonic = "shield forest soldier burden library shock citizen side dinner magnet miss clever";
+var mnemonic = "find monster moon lesson energy negative receive behave sun predict whisper maze";

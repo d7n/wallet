@@ -1,1 +1,1 @@
-var mnemonic = "dish output loop tobacco such nature extend surface captain example key trap";
+var mnemonic = "choose caught civil wolf shuffle tribe voice struggle soda cherry hotel wrist";

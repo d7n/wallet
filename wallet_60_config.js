@@ -1,1 +1,1 @@
-var mnemonic = "armor machine ketchup jaguar rally craft innocent race meadow begin pilot fiction";
+var mnemonic = "early lumber genre omit matrix dice floor ginger sister liquid lend believe";

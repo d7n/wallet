@@ -1,1 +1,1 @@
-var mnemonic = "next arrow there bullet hero mandate angle deputy dream length cook sport";
+var mnemonic = "angry knife bracket cause saddle wine worth coffee twenty stick kingdom switch";

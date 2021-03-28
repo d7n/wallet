@@ -1,1 +1,1 @@
-var mnemonic = "reveal address maple liar video uphold aisle digital avocado small script useful";
+var mnemonic = "brief fire slim moon retreat beauty shrug hold penalty share melody chest";

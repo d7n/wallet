@@ -1,1 +1,1 @@
-var mnemonic = "radio can yellow hurt shuffle inquiry clay piece lunch category hope share";
+var mnemonic = "orphan gadget actress decorate reunion miss mimic fringe warrior quit erase agree";

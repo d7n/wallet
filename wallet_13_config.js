@@ -1,1 +1,1 @@
-var mnemonic = "sure floor glove double mask dilemma proud escape fiber text visa give";
+var mnemonic = "excess scatter tuition scheme poverty ketchup toy void misery save tower crowd";

@@ -1,1 +1,1 @@
-var mnemonic = "regret olive camera awful valid eternal target mutual equip trial mom craft";
+var mnemonic = "whale kidney client mixed wave rabbit emotion chapter furnace risk drama indoor";

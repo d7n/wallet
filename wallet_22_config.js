@@ -1,1 +1,1 @@
-var mnemonic = "fiber album canoe obtain system learn brief wealth pilot humor marble idea";
+var mnemonic = "head rug insect target knife shuffle shoulder develop make ready because giant";

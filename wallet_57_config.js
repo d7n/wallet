@@ -1,1 +1,1 @@
-var mnemonic = "exile garment fiction diet poet daring sphere harvest arrow dish aunt peanut";
+var mnemonic = "alien champion stamp outside bike eternal wool search holiday involve frame dinner";

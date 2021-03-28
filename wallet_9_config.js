@@ -1,1 +1,1 @@
-var mnemonic = "soul cousin orchard vocal mammal ten autumn wing van dog chicken poverty";
+var mnemonic = "car robust helmet scene long velvet shoot choose sword jaguar ice elder";

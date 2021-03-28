@@ -1,1 +1,1 @@
-var mnemonic = "salt cereal series remind great delay design grief letter total ticket mechanic";
+var mnemonic = "barely craft attack man actress wire hat such sketch angle cave consider";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter mimic chair solution vibrant bottom online canvas swim banana jazz foster";
+var mnemonic = "asthma hero notice kidney hello result sail glance polar alone picnic web";

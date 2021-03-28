@@ -1,1 +1,1 @@
-var mnemonic = "canoe champion circle occur thank divide giggle version try table vivid pave";
+var mnemonic = "unit salute light join jazz never connect usual cable cousin cross grain";

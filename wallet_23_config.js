@@ -1,1 +1,1 @@
-var mnemonic = "spell tragic swallow inch eyebrow face differ banana shaft enable brick swallow";
+var mnemonic = "dose rack stereo indicate calm detail author soldier butter cabin sign slam";

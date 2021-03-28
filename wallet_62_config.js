@@ -1,1 +1,1 @@
-var mnemonic = "vital tape exchange dutch various shove rule kit scorpion tray decrease curtain";
+var mnemonic = "duck crowd critic master now connect stereo reunion unlock alarm anger economy";

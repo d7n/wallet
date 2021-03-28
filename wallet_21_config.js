@@ -1,1 +1,1 @@
-var mnemonic = "spell worth earth empower sand mail such pulp surge task tattoo sunset";
+var mnemonic = "maze ask enlist uncle tip announce permit artist hood pelican stage trim";

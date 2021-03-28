@@ -1,1 +1,1 @@
-var mnemonic = "tornado focus balance night mind rubber indicate clap old asthma lunar mixture";
+var mnemonic = "loud chuckle spike try skull relax gadget rare poverty adult upset lift";

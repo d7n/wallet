@@ -1,1 +1,1 @@
-var mnemonic = "mosquito ride thumb angry armed level blur obey desk kangaroo hint depart";
+var mnemonic = "material sun cross crush master paper depend inside slim cable hurry raven";

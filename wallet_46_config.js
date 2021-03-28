@@ -1,1 +1,1 @@
-var mnemonic = "swallow caution evidence proof method unfair indicate main kidney shell pencil hurdle";
+var mnemonic = "wrestle tower warrior flush matter neck flame myself merge chunk cat census";

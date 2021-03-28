@@ -1,1 +1,1 @@
-var mnemonic = "possible daring book hobby evoke royal wire hundred opinion entire join release";
+var mnemonic = "expire cabbage unique fee box better move real social glimpse own tomato";

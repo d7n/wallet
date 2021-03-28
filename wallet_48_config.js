@@ -1,1 +1,1 @@
-var mnemonic = "winter twelve jewel this future punch antenna napkin turn whale jaguar quiz";
+var mnemonic = "subway wolf truth ice bean sting immense spray absent relief item whip";

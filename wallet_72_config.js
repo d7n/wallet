@@ -1,1 +1,1 @@
-var mnemonic = "deal devote skin interest palace angle cable sun reason daughter uphold arrange";
+var mnemonic = "champion sleep possible adult matrix cable roof hunt large horror legend genuine";

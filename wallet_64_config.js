@@ -1,1 +1,1 @@
-var mnemonic = "imitate front harbor light critic front stone host idle brand scout junior";
+var mnemonic = "lady gesture endorse praise guess reward amused filter federal near museum arena";

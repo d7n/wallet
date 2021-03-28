@@ -1,1 +1,1 @@
-var mnemonic = "bicycle top true divide person flash option remember heavy broom sell onion";
+var mnemonic = "annual because faint wealth maximum panic camera six where shell heavy point";

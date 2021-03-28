@@ -1,1 +1,1 @@
-var mnemonic = "flock lemon apology betray celery tail fringe test captain betray camera alpha";
+var mnemonic = "head best van slab project alert obscure spoil sister loyal aerobic miss";

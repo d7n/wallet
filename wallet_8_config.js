@@ -1,1 +1,1 @@
-var mnemonic = "kiss wonder label praise fish skirt alien vacuum hobby utility peasant point";
+var mnemonic = "search mask noodle column shy avoid economy couch daughter lottery inspire armor";

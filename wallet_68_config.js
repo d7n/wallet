@@ -1,1 +1,1 @@
-var mnemonic = "era exotic abandon explain market sadness process before pigeon company expand able";
+var mnemonic = "pet company radio decide estate sibling can december quick cost violin first";

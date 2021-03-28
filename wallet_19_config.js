@@ -1,1 +1,1 @@
-var mnemonic = "power breeze pencil illegal orange surface connect vanish fold expire snake country";
+var mnemonic = "property mountain chapter certain machine hair dial explain broken visa tape shock";

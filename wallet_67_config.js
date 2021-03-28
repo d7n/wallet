@@ -1,1 +1,1 @@
-var mnemonic = "chief opera job immune exhaust ticket soup weapon dish romance exit debate";
+var mnemonic = "absent seek enjoy invest among throw visa priority genuine capable wedding travel";

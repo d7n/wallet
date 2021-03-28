@@ -1,1 +1,1 @@
-var mnemonic = "empty muffin crime visa giggle lion blossom brain victory high view cream";
+var mnemonic = "link dry message sausage salt length dose drink noble release vacuum fringe";

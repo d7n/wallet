@@ -1,1 +1,1 @@
-var mnemonic = "rifle fitness seed crater saddle patient deny correct rely essence manual family";
+var mnemonic = "question erode twist fabric write orbit harbor pyramid great loud uphold session";

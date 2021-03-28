@@ -1,1 +1,1 @@
-var mnemonic = "oak rib bind spare angle coyote any protect corn cherry carpet police";
+var mnemonic = "emotion field raccoon garbage sugar icon invite sorry index parade model layer";

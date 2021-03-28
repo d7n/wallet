@@ -1,1 +1,1 @@
-var mnemonic = "diagram stairs clump barely acid leg blush injury tent monkey dune scissors";
+var mnemonic = "shoulder mean jelly rifle ready glue wedding enemy mail truck reform rose";

@@ -1,1 +1,1 @@
-var mnemonic = "lava spend pair deal across sweet such access evil dune park master";
+var mnemonic = "young initial leader love cart during park tail believe disorder erosion modify";

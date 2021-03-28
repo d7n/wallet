@@ -1,1 +1,1 @@
-var mnemonic = "opera post talent north battle toe sniff stem cushion liar dial foot";
+var mnemonic = "bean trumpet blouse parade impulse flock hotel pioneer word vocal topple suit";

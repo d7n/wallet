@@ -1,1 +1,1 @@
-var mnemonic = "winter can symptom various shove predict mobile chronic exit bag taxi heart";
+var mnemonic = "name unusual funny unhappy carry saddle price review gorilla satisfy excuse rocket";

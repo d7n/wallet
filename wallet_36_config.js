@@ -1,1 +1,1 @@
-var mnemonic = "dragon pact select quick satoshi toy blanket beauty naive motor gift name";
+var mnemonic = "feel lounge crush dry enforce acoustic neutral motion armor zone clarify rocket";

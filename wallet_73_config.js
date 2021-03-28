@@ -1,1 +1,1 @@
-var mnemonic = "inside double find cactus fence network curve gun wild cruise puppy hard";
+var mnemonic = "still job twist drill duck survey cram produce acquire case force spoon";

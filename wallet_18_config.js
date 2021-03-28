@@ -1,1 +1,1 @@
-var mnemonic = "list carry sport two tenant stand mammal audit crucial sense faith wheat";
+var mnemonic = "envelope fiscal endorse gadget neglect pool stage fantasy grace mystery comfort physical";

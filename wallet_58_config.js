@@ -1,1 +1,1 @@
-var mnemonic = "wisdom laundry inhale deliver split minimum piano cigar claim brand purse sorry";
+var mnemonic = "unveil enroll rent midnight arrest loan clump one crew sleep define evoke";

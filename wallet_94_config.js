@@ -1,1 +1,1 @@
-var mnemonic = "key strike record depth bubble horn tenant replace flight diary skill improve";
+var mnemonic = "pigeon total engine sibling lift public flower chapter exotic gentle demand dash";

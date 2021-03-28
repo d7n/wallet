@@ -1,1 +1,1 @@
-var mnemonic = "hold follow regret rotate liar hole clip renew will vault clever piano";
+var mnemonic = "hawk cube veteran game crawl balcony purity knee culture worry nominee access";

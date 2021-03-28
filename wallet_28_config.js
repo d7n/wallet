@@ -1,1 +1,1 @@
-var mnemonic = "hair enable cinnamon sadness motion piano shoulder tackle friend crunch around mechanic";
+var mnemonic = "auto wire coconut charge process thumb athlete connect rookie engine rare carpet";

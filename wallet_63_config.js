@@ -1,1 +1,1 @@
-var mnemonic = "barely turn balance normal feature culture start coyote slush muscle potato social";
+var mnemonic = "debate tortoise boring crowd broom song rebuild invite hub connect sauce nation";

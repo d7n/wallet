@@ -1,1 +1,1 @@
-var mnemonic = "avocado coach defense other tip high diesel subject hard wide shaft prefer";
+var mnemonic = "evolve gossip mind object rate lava achieve tag zero unfold job belt";

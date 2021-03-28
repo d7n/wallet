@@ -1,1 +1,1 @@
-var mnemonic = "problem lumber spirit squirrel stand panel audit abstract rib secret such custom";
+var mnemonic = "weird between bachelor belt trip item pave post wasp flock supreme noble";

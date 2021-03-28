@@ -1,1 +1,1 @@
-var mnemonic = "ten finish invite umbrella peasant squirrel nest history picnic budget control split";
+var mnemonic = "elevator option tip casino flower ribbon rival enough sausage foil employ quiz";

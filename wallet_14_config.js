@@ -1,1 +1,1 @@
-var mnemonic = "wall artist enjoy kingdom off cable chicken embrace rocket detect embody cereal";
+var mnemonic = "focus trial trash spell match liar cheese include raw abuse original offer";

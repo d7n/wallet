@@ -1,1 +1,1 @@
-var mnemonic = "solar test gather state puppy develop reunion render equal omit glue maximum";
+var mnemonic = "unveil dash orchard few copy legal relax jealous chase matrix tooth mosquito";

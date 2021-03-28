@@ -1,1 +1,1 @@
-var mnemonic = "garbage curious tone surface negative security fade essay index replace spider tape";
+var mnemonic = "must release immune brown vague fade paddle erase useless visit vast about";

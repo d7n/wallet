@@ -1,1 +1,1 @@
-var mnemonic = "copy weird report submit rude barely online volcano test reason chaos treat";
+var mnemonic = "sadness vehicle weapon time explain van monkey gospel shoot mandate limit rug";

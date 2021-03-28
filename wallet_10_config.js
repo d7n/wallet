@@ -1,1 +1,1 @@
-var mnemonic = "cancel acoustic seminar uphold bamboo busy panther repeat impact broken lawn pluck";
+var mnemonic = "top predict super rather wall mansion inhale spare parade very laugh feed";

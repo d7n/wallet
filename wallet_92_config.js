@@ -1,1 +1,1 @@
-var mnemonic = "repeat flat depend okay output pudding else science jewel guess visa elephant";
+var mnemonic = "rail crew hidden gospel robust panic twelve cry rhythm social together clock";

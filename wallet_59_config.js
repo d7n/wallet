@@ -1,1 +1,1 @@
-var mnemonic = "nothing recycle pride sword youth trumpet size pyramid invite lawn smooth wonder";
+var mnemonic = "fame miracle usual hamster elephant blue lazy decide liar feel bus elegant";

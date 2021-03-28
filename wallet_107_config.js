@@ -1,1 +1,1 @@
-var mnemonic = "arrange fade soft maid shell gospel civil coral twin fiction want panic";
+var mnemonic = "shy first lesson valve soul spend benefit cluster ramp profit shoulder glimpse";

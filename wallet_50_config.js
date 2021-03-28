@@ -1,1 +1,1 @@
-var mnemonic = "increase tongue explain govern midnight drink cruise hobby tide arrest bless huge";
+var mnemonic = "unlock humor cargo cloth attend tank survey myth educate open jaguar used";

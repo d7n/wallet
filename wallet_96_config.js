@@ -1,1 +1,1 @@
-var mnemonic = "inquiry open square donate escape vehicle alley silk alley region proud follow";
+var mnemonic = "exhaust viable kind consider puzzle uncle escape insect leader struggle regret enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "first dust undo cat walnut wing cable render know bargain dose feature";
+var mnemonic = "stick culture loud soda insane hungry army glad scorpion increase bulb swarm";

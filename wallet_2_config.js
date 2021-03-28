@@ -1,1 +1,1 @@
-var mnemonic = "wall noble scale aim lock teach shop dawn gift regular vintage custom";
+var mnemonic = "clinic aspect snow slot copy snap rent evidence stool truth object ostrich";

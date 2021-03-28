@@ -1,1 +1,1 @@
-var mnemonic = "brother congress system hard relief clump evidence barrel follow two van keen";
+var mnemonic = "print whisper topple enact venue arrange thunder such senior improve sand pluck";

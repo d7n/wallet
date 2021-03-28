@@ -1,1 +1,1 @@
-var mnemonic = "gather stamp garage file maximum wave hope trouble bonus walnut that salmon";
+var mnemonic = "reopen regular aunt shy lake object gym old cheese album car chest";

@@ -1,1 +1,1 @@
-var mnemonic = "demand bottom wrap village smile sight also depart swarm series wish duty";
+var mnemonic = "apart predict misery release myself absorb town device swamp alley wine marble";

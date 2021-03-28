@@ -1,1 +1,1 @@
-var mnemonic = "planet warm simple wolf demand sight oblige one hybrid time bundle moon";
+var mnemonic = "loan remain talent arrive reduce cannon ring limb illness link clutch bird";

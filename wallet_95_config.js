@@ -1,1 +1,1 @@
-var mnemonic = "prosper wage sign nuclear delay this royal ritual stove badge time inquiry";
+var mnemonic = "elder slush assist arctic vintage miss smile grunt burger such quarter volume";

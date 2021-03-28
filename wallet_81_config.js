@@ -1,1 +1,1 @@
-var mnemonic = "attend holiday idea federal figure palm occur trumpet cause sword license obtain";
+var mnemonic = "circle agree soccer wet drip shine man stereo black unit mention cereal";

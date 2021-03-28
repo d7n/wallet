@@ -1,1 +1,1 @@
-var mnemonic = "piece express fury whip exotic rack blast elegant private time brother vanish";
+var mnemonic = "bulb useless belt wing rug pipe mention mansion casual mandate goat cost";

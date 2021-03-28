@@ -1,1 +1,1 @@
-var mnemonic = "vintage solar grid pear strike tray flush kitchen aerobic sting toast alert";
+var mnemonic = "hard wave frost calm farm review injury acid please milk exclude february";

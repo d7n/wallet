@@ -1,1 +1,1 @@
-var mnemonic = "improve never buzz lab civil defy peasant circle mad original true onion";
+var mnemonic = "axis black settle opinion dawn awful run swamp exotic cage taste vicious";

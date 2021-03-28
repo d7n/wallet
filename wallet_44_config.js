@@ -1,1 +1,1 @@
-var mnemonic = "little multiply swallow taste spy perfect vessel negative prepare group under deliver";
+var mnemonic = "ladder surge topic point few logic current stand dial pride alert sign";

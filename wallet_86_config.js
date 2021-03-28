@@ -1,1 +1,1 @@
-var mnemonic = "early clay hidden sure announce hint tomato regular regret color lab again";
+var mnemonic = "fiction liberty hard talk birth proud unknown assume raccoon fine satisfy another";

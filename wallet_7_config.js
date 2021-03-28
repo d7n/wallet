@@ -1,1 +1,1 @@
-var mnemonic = "fetch sheriff again firm merge dress butter oyster parade badge mean ignore";
+var mnemonic = "assume supply bundle submit bunker satoshi hawk forest account puzzle bird universe";

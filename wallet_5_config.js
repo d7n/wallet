@@ -1,1 +1,1 @@
-var mnemonic = "alert tiny skull flee token unveil silent practice erosion source tackle response";
+var mnemonic = "suffer amateur news raven add tuna state cloth involve alter system neck";
