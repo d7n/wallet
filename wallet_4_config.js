@@ -1,1 +1,1 @@
-var mnemonic = "employ path depend slam favorite potato virus orbit young fame stomach foster";
+var mnemonic = "milk prison off ethics require mosquito brush ghost field famous barrel resist";

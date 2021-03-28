@@ -1,1 +1,1 @@
-var mnemonic = "cave home edge trigger call engine crack degree label congress possible token";
+var mnemonic = "pole uniform disagree front spy adapt awkward enhance learn myself magic vibrant";

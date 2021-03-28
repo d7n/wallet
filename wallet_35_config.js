@@ -1,1 +1,1 @@
-var mnemonic = "possible glare net hen picnic casual sure jeans defense sponsor knee pledge";
+var mnemonic = "business congress shallow black tilt roast elbow slide brave buffalo obscure neglect";

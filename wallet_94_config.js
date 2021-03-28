@@ -1,1 +1,1 @@
-var mnemonic = "state miss swing link funny excess neutral tree execute cargo voyage mask";
+var mnemonic = "parent process copper twelve demand all age margin country help catalog visa";

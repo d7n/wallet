@@ -1,1 +1,1 @@
-var mnemonic = "purity blame tilt tennis true emerge drift smooth syrup action leg cheese";
+var mnemonic = "audit shuffle damage bring choice keep hen universe enemy crush elegant water";

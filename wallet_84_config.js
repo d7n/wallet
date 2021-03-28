@@ -1,1 +1,1 @@
-var mnemonic = "gospel badge auction fragile drill spirit worth ship atom prosper opera spawn";
+var mnemonic = "exact arm stomach dice like radar diesel check text patient swarm own";

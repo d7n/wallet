@@ -1,1 +1,1 @@
-var mnemonic = "theme typical village carry choice brief dawn room enable erode gauge budget";
+var mnemonic = "wreck book siren excess garage fit manual extend fault chunk car slam";

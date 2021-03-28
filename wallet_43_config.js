@@ -1,1 +1,1 @@
-var mnemonic = "easy awesome neither orange broken choose between fresh option exercise person acquire";
+var mnemonic = "network month scout denial like pluck initial dove piano funny area female";

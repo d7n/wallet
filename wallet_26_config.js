@@ -1,1 +1,1 @@
-var mnemonic = "call wedding cargo enhance cotton brave toilet episode bottom diagram brown debris";
+var mnemonic = "brush street ozone arrive pride wish more check citizen attack swift become";

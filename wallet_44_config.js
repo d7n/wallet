@@ -1,1 +1,1 @@
-var mnemonic = "nut frozen endorse fossil attitude couple dad child paper gym calm half";
+var mnemonic = "warrior ability travel kingdom mercy company matter cruise nominee found spin aerobic";

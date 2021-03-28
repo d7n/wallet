@@ -1,1 +1,1 @@
-var mnemonic = "champion kingdom post coach jeans nation feed clarify clever van flag rate";
+var mnemonic = "clap pitch sponsor hour enough carpet agree claw ozone table security soldier";

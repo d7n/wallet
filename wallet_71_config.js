@@ -1,1 +1,1 @@
-var mnemonic = "feature beach you wing initial wish moment hen split orient someone lawn";
+var mnemonic = "coin opinion forum oblige option sail round dream toy despair escape episode";

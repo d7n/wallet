@@ -1,1 +1,1 @@
-var mnemonic = "type stumble fame once journey actual cabin whale dish seed outer fine";
+var mnemonic = "slab fatal hat universe autumn business sleep ensure bullet outside food endorse";

@@ -1,1 +1,1 @@
-var mnemonic = "tiger crowd city used cost height brisk town talent border pole vapor";
+var mnemonic = "elite carpet catch chair shove adult force glide quarter stuff sea cruise";

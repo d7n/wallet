@@ -1,1 +1,1 @@
-var mnemonic = "lava proud degree fitness addict bid spray spy truck skate symbol episode";
+var mnemonic = "meadow sunset ready senior perfect physical cloth oblige range spoon civil race";

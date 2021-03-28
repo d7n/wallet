@@ -1,1 +1,1 @@
-var mnemonic = "pudding ramp idea file identify repeat crane conduct figure clinic runway neutral";
+var mnemonic = "tone random market love print rescue rebel skin affair slight welcome genuine";

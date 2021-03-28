@@ -1,1 +1,1 @@
-var mnemonic = "park torch palace ride praise video disease host poet timber fish mimic";
+var mnemonic = "name lend admit bubble stool opinion wave copper album coin drift tackle";

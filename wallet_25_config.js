@@ -1,1 +1,1 @@
-var mnemonic = "sword diagram frozen require alley order manual more soul auction whip second";
+var mnemonic = "bulb churn inherit traffic swarm april capable manage coffee shield universe repair";

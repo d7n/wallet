@@ -1,1 +1,1 @@
-var mnemonic = "spawn corn hockey excess arrange lady vacuum firm empty supply pact issue";
+var mnemonic = "chalk armor project often jar convince change weapon suit poverty energy increase";

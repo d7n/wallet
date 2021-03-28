@@ -1,1 +1,1 @@
-var mnemonic = "year sniff client liar provide ugly spray noble whale fade seat repair";
+var mnemonic = "digital slice rabbit museum hint once property crouch mind puppy near roast";

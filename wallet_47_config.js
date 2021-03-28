@@ -1,1 +1,1 @@
-var mnemonic = "jump robot unfair refuse ugly what cause leaf crime defy fog butter";
+var mnemonic = "scissors history already belt join toss bundle bitter capital liquid fresh avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire pig wrap little loop cactus pottery people cupboard false must labor";
+var mnemonic = "soon gap van moment kingdom used mushroom mixed cigar coconut oppose deer";

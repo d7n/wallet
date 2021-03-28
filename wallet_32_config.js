@@ -1,1 +1,1 @@
-var mnemonic = "achieve sound vote cruel average shadow school high demand wife skate metal";
+var mnemonic = "flush prevent fun east room caution squeeze animal harbor merit funny raven";

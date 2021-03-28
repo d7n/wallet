@@ -1,1 +1,1 @@
-var mnemonic = "obtain weird life unlock decorate divide butter west erase code figure crystal";
+var mnemonic = "royal flock spring mix maple expire help rather bargain mango noodle trophy";

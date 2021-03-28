@@ -1,1 +1,1 @@
-var mnemonic = "badge auto syrup sugar useless mad business neck horror team bacon meadow";
+var mnemonic = "fame destroy danger muffin void loan medal umbrella torch flight soap soccer";

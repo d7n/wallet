@@ -1,1 +1,1 @@
-var mnemonic = "second daughter tree trade kick amazing ritual raven jar toast naive garden";
+var mnemonic = "stable diet curtain guide burger dumb anxiety version icon matter acid crew";

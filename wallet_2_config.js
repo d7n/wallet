@@ -1,1 +1,1 @@
-var mnemonic = "slice void mask alien average purchase wasp shrug kitchen cruel dwarf high";
+var mnemonic = "piano seven middle notice diary fossil despair denial identify into again tennis";

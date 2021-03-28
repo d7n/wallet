@@ -1,1 +1,1 @@
-var mnemonic = "divert hunt satisfy service artist slim young fan axis permit idle catalog";
+var mnemonic = "nose truth beyond tray civil pulse carpet umbrella term acquire sting depth";

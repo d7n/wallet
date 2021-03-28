@@ -1,1 +1,1 @@
-var mnemonic = "sheriff anchor ahead arena ethics helmet mansion anxiety valid hollow help tribe";
+var mnemonic = "syrup merry curtain seat baby high virus tongue option iron dentist butter";

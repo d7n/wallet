@@ -1,1 +1,1 @@
-var mnemonic = "ozone unveil bachelor addict jump float clog firm lock dilemma satoshi grace";
+var mnemonic = "wear escape between manual mail weekend cry egg project moral crawl useless";

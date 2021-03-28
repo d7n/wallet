@@ -1,1 +1,1 @@
-var mnemonic = "pilot staff myself beef symbol under pear glide panda cage gain where";
+var mnemonic = "join rural narrow whale street toddler globe adult noble hammer clutch vault";

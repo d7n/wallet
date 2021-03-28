@@ -1,1 +1,1 @@
-var mnemonic = "digital scan unique mouse cube arch normal shield skill sock diagram dilemma";
+var mnemonic = "interest thumb music term upgrade comfort dinosaur seek wrap giraffe cushion arctic";

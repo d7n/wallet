@@ -1,1 +1,1 @@
-var mnemonic = "wasp sister scale visual casual alley anchor fee whisper chase image elbow";
+var mnemonic = "sniff leaf else brown crunch agent because wing sand view budget toddler";

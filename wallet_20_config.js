@@ -1,1 +1,1 @@
-var mnemonic = "actress nominee aerobic speed cake step trash slot guilt slab crater horror";
+var mnemonic = "photo warm settle real cat deny auction pilot sun busy pill riot";

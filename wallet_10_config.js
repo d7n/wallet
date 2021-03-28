@@ -1,1 +1,1 @@
-var mnemonic = "solution subject drill capable face skin tissue orient peace vault tank know";
+var mnemonic = "bring power lift mobile jelly mention shoe more pave promote option water";

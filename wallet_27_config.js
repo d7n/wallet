@@ -1,1 +1,1 @@
-var mnemonic = "prepare outside square drop federal boy brother hurdle firm fine planet october";
+var mnemonic = "owner happy twenty extra chicken fabric mansion bird jazz shrimp genre any";

@@ -1,1 +1,1 @@
-var mnemonic = "worth will control bulb make bind improve base wood join nominee column";
+var mnemonic = "security culture bomb enter cool save umbrella pupil prevent dish judge glance";

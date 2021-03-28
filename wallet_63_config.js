@@ -1,1 +1,1 @@
-var mnemonic = "face impact peanut hollow inch perfect poverty exact pretty wagon index shield";
+var mnemonic = "drastic tilt result popular potato champion symptom coffee dry wreck sense wait";

@@ -1,1 +1,1 @@
-var mnemonic = "plastic cake machine police afraid business soccer happy idea excess shell paper";
+var mnemonic = "nut inherit teach park comic detect process typical airport scrub angle apple";

@@ -1,1 +1,1 @@
-var mnemonic = "pizza material refuse extend tomato pass acquire about spoil toddler tuition claim";
+var mnemonic = "firm child furnace enhance tooth verify fence mix sketch practice air paddle";

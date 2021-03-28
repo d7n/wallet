@@ -1,1 +1,1 @@
-var mnemonic = "gesture century payment better can story razor orphan educate cupboard indicate sustain";
+var mnemonic = "auction win kingdom infant direct parade floor aunt approve edge theme load";

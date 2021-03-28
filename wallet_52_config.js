@@ -1,1 +1,1 @@
-var mnemonic = "parrot upon peasant object stool purchase index lazy prepare frame inside clock";
+var mnemonic = "copy goat pause clever help undo actor slide couch saddle razor option";

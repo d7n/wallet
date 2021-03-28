@@ -1,1 +1,1 @@
-var mnemonic = "glance employ speak giggle street unhappy rib visit paper pepper rail concert";
+var mnemonic = "shoot section distance wrong deputy order rhythm miracle member anchor cabin match";

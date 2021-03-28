@@ -1,1 +1,1 @@
-var mnemonic = "fetch motor matter lock detail mansion rule disagree income little welcome mimic";
+var mnemonic = "rail audit behave inquiry champion wheel depend sauce execute ranch casual wash";

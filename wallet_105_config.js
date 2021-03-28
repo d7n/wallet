@@ -1,1 +1,1 @@
-var mnemonic = "outer luxury bubble pledge host clown useful noodle exhibit crisp ticket notable";
+var mnemonic = "audit ostrich latin scatter column oval detail impose someone churn undo sort";

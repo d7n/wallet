@@ -1,1 +1,1 @@
-var mnemonic = "drive shove snake peasant decide wish feel inspire build secret ski whale";
+var mnemonic = "raw fish baby potato weekend bag fish gesture struggle mad vibrant play";

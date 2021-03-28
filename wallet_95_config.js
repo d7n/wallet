@@ -1,1 +1,1 @@
-var mnemonic = "math useful fold verify try legal essence movie base fetch flag because";
+var mnemonic = "antique blouse sniff exclude crumble cigar hour jungle soldier city slot learn";

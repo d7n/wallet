@@ -1,1 +1,1 @@
-var mnemonic = "liquid clay double lady priority company enter list romance stem make where";
+var mnemonic = "sting candy muffin tribe very legend flag donate code sight plug hour";

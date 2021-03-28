@@ -1,1 +1,1 @@
-var mnemonic = "thought throw execute divorce pole delay injury glimpse junk uncover tip ancient";
+var mnemonic = "rug walk cage income funny reject stone meadow scheme oak razor know";

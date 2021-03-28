@@ -1,1 +1,1 @@
-var mnemonic = "solar avocado accuse swap crush gentle upper impulse question comic suspect fit";
+var mnemonic = "split squeeze blood beef warrior unlock plug rebel gospel learn assist action";

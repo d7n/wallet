@@ -1,1 +1,1 @@
-var mnemonic = "eye park dwarf pride link switch slide rabbit diary deer super quiz";
+var mnemonic = "roast song portion spawn favorite unknown brain twice shoulder stomach chase ecology";

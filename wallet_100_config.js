@@ -1,1 +1,1 @@
-var mnemonic = "slim garden air scatter until moon pretty vendor gift found ten define";
+var mnemonic = "sausage alert normal shy repair close jungle rate iron never symbol volcano";

@@ -1,1 +1,1 @@
-var mnemonic = "inner eyebrow truly talk mother cat evolve casual zoo inflict song blind";
+var mnemonic = "hamster offer police property veteran mother load wrong spawn answer filter cup";

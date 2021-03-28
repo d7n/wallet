@@ -1,1 +1,1 @@
-var mnemonic = "satoshi lens dose good wreck permit tattoo assist virus town famous elder";
+var mnemonic = "marriage skin history creek daughter cereal ride reward post shuffle high snake";

@@ -1,1 +1,1 @@
-var mnemonic = "puzzle window course tray nose winner tool journey decide success clock survey";
+var mnemonic = "tackle depth level wrong carpet tribe orbit hospital destroy peasant fetch lottery";

@@ -1,1 +1,1 @@
-var mnemonic = "spawn hub reunion dash horse stomach lunar bench outer ridge income knock";
+var mnemonic = "around fun abstract gold draft stand give machine muscle find iron caught";

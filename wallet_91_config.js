@@ -1,1 +1,1 @@
-var mnemonic = "elephant bridge volcano flush sugar mixture vault fold curve link total era";
+var mnemonic = "view output sad obey speak fringe trip exchange reward potato veteran chaos";

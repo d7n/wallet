@@ -1,1 +1,1 @@
-var mnemonic = "plunge ginger holiday ritual glove couple desk ranch prefer ecology attitude palm";
+var mnemonic = "split bind visual robot again tongue between calm insect thunder destroy pudding";

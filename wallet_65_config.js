@@ -1,1 +1,1 @@
-var mnemonic = "office olympic arrest tissue enter slide east design twenty prepare time teach";
+var mnemonic = "other year trouble ugly net clinic discover casino muscle phone travel regret";

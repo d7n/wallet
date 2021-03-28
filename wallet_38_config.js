@@ -1,1 +1,1 @@
-var mnemonic = "motion rent cancel someone post hedgehog walnut surround spike essence bone agree";
+var mnemonic = "forest heavy beef elite gasp need ski alert barrel keep believe girl";

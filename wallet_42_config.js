@@ -1,1 +1,1 @@
-var mnemonic = "vicious finish antique aerobic cycle thrive cart glory giant obvious burger ice";
+var mnemonic = "into frequent erase choice sniff spring guess next shift matrix auto forward";

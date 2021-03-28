@@ -1,1 +1,1 @@
-var mnemonic = "monitor eager evoke rescue drum drum tuna patient hint castle just dinosaur";
+var mnemonic = "foil beach fish genius dizzy kidney box syrup gravity soon cupboard matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "rule unique purpose language stereo entire act satisfy rely seed tiny sort";
+var mnemonic = "voyage fix two ordinary result bracket check you session canoe gather trial";

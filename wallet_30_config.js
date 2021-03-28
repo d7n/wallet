@@ -1,1 +1,1 @@
-var mnemonic = "nothing decrease empower truth spawn vintage inquiry web group trumpet dish lucky";
+var mnemonic = "toast margin ability solid grief split grain devote opinion west liberty ecology";

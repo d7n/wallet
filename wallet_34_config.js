@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur park grab funny anchor mother boy slot coach rich caution scan";
+var mnemonic = "obtain slam visual february wish mean obey frequent spirit gown raw erosion";

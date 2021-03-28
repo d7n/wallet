@@ -1,1 +1,1 @@
-var mnemonic = "wealth baby pyramid amateur rich hobby oppose someone any fix solid stomach";
+var mnemonic = "picture upon museum clerk force mix earth net end hill agent type";

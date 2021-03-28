@@ -1,1 +1,1 @@
-var mnemonic = "flash solution skill exhaust demand burger arrow wide happy memory curtain drastic";
+var mnemonic = "once hurt robust west neutral annual sure glide number despair again autumn";

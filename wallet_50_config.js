@@ -1,1 +1,1 @@
-var mnemonic = "oven acid girl exercise episode reduce scout shoulder hazard spin old reopen";
+var mnemonic = "top answer people social beef rule want erase seat fire source street";

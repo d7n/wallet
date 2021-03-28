@@ -1,1 +1,1 @@
-var mnemonic = "trust mystery year position member magnet orange lumber twenty liquid can neither";
+var mnemonic = "frown junk gap chat album edge advice trap angle rather dash give";

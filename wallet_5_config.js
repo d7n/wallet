@@ -1,1 +1,1 @@
-var mnemonic = "nephew average then nurse position atom style gesture menu pledge planet sustain";
+var mnemonic = "check ritual decide much hard barrel hood couch pool recall exhibit level";

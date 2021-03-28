@@ -1,1 +1,1 @@
-var mnemonic = "remind orchard travel plastic dutch clump matter decrease axis voice reject season";
+var mnemonic = "history rural hobby endless daughter strategy option average captain shine climb maple";

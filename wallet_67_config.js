@@ -1,1 +1,1 @@
-var mnemonic = "rack walnut unhappy company join wait wash obey hire attract margin stuff";
+var mnemonic = "call love entry poem dwarf moon crime lesson rifle crater before final";

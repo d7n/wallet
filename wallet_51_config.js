@@ -1,1 +1,1 @@
-var mnemonic = "raw wagon snap swap warfare space kidney process concert else lab logic";
+var mnemonic = "rebel clever wild below sausage funny garden palace useless start where canal";

@@ -1,1 +1,1 @@
-var mnemonic = "skill thank buffalo orbit install eager journey dismiss often country avoid sound";
+var mnemonic = "dutch toy dial apple improve sister stove perfect shift swallow once float";

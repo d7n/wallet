@@ -1,1 +1,1 @@
-var mnemonic = "check solid bridge energy roast coconut cake throw sample fabric leisure youth";
+var mnemonic = "valley school hip scare foster alter penalty swift heavy tongue skull observe";

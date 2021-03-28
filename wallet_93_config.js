@@ -1,1 +1,1 @@
-var mnemonic = "atom book giant virtual guess gasp behave oven okay popular reopen neither";
+var mnemonic = "clinic couple sausage wedding text resist iron exile airport nominee jealous father";

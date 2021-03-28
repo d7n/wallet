@@ -1,1 +1,1 @@
-var mnemonic = "hockey book category payment table clock cattle knock fitness patrol disorder output";
+var mnemonic = "situate early stem resemble joke tuna window cancel finger grab vacuum twenty";

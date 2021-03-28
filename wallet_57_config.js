@@ -1,1 +1,1 @@
-var mnemonic = "wink fly claw wild deputy plate junior person acquire chuckle special token";
+var mnemonic = "screen anchor gift purpose truly extend regular public critic twist diet century";

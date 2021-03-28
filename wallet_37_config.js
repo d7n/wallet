@@ -1,1 +1,1 @@
-var mnemonic = "club snake sell laugh kid claw gospel during another motor involve oval";
+var mnemonic = "scorpion inhale explain ocean hint ugly narrow athlete arrive token open dignity";

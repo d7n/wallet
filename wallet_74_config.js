@@ -1,1 +1,1 @@
-var mnemonic = "palm promote load electric tide brick dwarf sunset poem obey alter dutch";
+var mnemonic = "absent deputy skate safe kingdom desert ritual antique ill vacuum repeat join";

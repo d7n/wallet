@@ -1,1 +1,1 @@
-var mnemonic = "check during cave shoulder hurry three pink swim vast board enact mixed";
+var mnemonic = "rely gorilla rural acid gallery approve erupt once ecology rebuild neglect cement";

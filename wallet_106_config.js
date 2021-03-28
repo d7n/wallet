@@ -1,1 +1,1 @@
-var mnemonic = "solve supreme peasant parade poverty review seat buyer cup problem hurdle debate";
+var mnemonic = "crater wasp false entry speed load hire subway sketch goddess hope sentence";

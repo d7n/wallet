@@ -1,1 +1,1 @@
-var mnemonic = "hurry file soldier category barely bring release replace captain pair sense first";
+var mnemonic = "retire pig surprise shaft taxi leopard smart glove clock picture reason royal";

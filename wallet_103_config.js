@@ -1,1 +1,1 @@
-var mnemonic = "quarter tank embody rain glue puppy govern forum venue coach parrot become";
+var mnemonic = "music guess replace hello trend praise office phone output position there alley";

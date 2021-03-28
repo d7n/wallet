@@ -1,1 +1,1 @@
-var mnemonic = "record poverty road close impulse session push kid gain destroy loyal unlock";
+var mnemonic = "twist crouch feature drill crop cake joy dignity crystal unaware fat scene";

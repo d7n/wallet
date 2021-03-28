@@ -1,1 +1,1 @@
-var mnemonic = "demand spring copy broken pull faculty fence object upset corn bicycle tray";
+var mnemonic = "frost comic exist tragic rubber citizen addict teach cycle royal eager balcony";
