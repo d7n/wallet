@@ -1,1 +1,1 @@
-var mnemonic = "endless prevent eight blush detect bargain divorce car marine repeat divorce addict";
+var mnemonic = "trust lazy youth click between legal setup base board oven nest talk";

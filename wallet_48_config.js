@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin urban skin post young unaware major melody trigger purse ask gaze";
+var mnemonic = "burst diary oxygen rely excess illness another river attitude hen adult job";

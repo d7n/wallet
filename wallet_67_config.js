@@ -1,1 +1,1 @@
-var mnemonic = "account obey price whale enlist caution stem address avoid subject purse black";
+var mnemonic = "matrix try raise route hurdle govern alone adjust pink pencil chief door";

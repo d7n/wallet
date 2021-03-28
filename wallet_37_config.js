@@ -1,1 +1,1 @@
-var mnemonic = "magic raccoon south phone cactus clinic display banner owner man finish cloth";
+var mnemonic = "clinic film jeans ranch seminar obscure atom crunch gas salmon scare situate";

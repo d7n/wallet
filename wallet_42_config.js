@@ -1,1 +1,1 @@
-var mnemonic = "return yellow common gaze grief bundle undo tunnel endorse destroy fix size";
+var mnemonic = "bus enable ladder whip brave damp club follow coil melody tackle spot";

@@ -1,1 +1,1 @@
-var mnemonic = "worry vacuum ramp appear glide dry judge drum acid ride produce finish";
+var mnemonic = "rely spare violin gift arrest service anxiety subway example purpose chief rubber";

@@ -1,1 +1,1 @@
-var mnemonic = "power lounge wash eyebrow urge unable unknown gadget because brain wait boring";
+var mnemonic = "mad where vacant lecture divorce want case december tennis nut sad engine";

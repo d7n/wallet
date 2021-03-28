@@ -1,1 +1,1 @@
-var mnemonic = "picnic put section civil burden chicken window pigeon pumpkin risk bullet neither";
+var mnemonic = "museum box rapid oppose tooth initial easy cheap meadow control lawsuit legal";

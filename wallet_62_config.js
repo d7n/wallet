@@ -1,1 +1,1 @@
-var mnemonic = "loop fat jump pair age limb ugly believe yard patient strike that";
+var mnemonic = "deal frog school social path clever snake pony theory motor real viable";

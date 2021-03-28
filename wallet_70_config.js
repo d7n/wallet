@@ -1,1 +1,1 @@
-var mnemonic = "latin razor lucky cement marble fruit pudding cook fantasy nest right neck";
+var mnemonic = "brave artwork candy shove ignore shaft squirrel typical arctic noise sauce prosper";

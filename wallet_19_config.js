@@ -1,1 +1,1 @@
-var mnemonic = "balance crucial spin improve spend right any crowd argue idea vicious solar";
+var mnemonic = "gain dentist when genuine layer other city victory crawl hidden wise tobacco";

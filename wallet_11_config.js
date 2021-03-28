@@ -1,1 +1,1 @@
-var mnemonic = "speed core blind trash hammer obey rocket kangaroo salt bitter misery general";
+var mnemonic = "valid enough stadium asthma couch onion shuffle one asset debris cannon suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "goose wine eyebrow seek lift neck hobby crazy anxiety gift endless news";
+var mnemonic = "hotel jacket venture analyst lucky brick remember possible direct soft situate jeans";

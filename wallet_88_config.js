@@ -1,1 +1,1 @@
-var mnemonic = "patient laptop step satoshi sibling celery rail surround trouble glove lab copy";
+var mnemonic = "client piece critic skull prevent that settle chaos outdoor improve mother fantasy";

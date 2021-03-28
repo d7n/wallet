@@ -1,1 +1,1 @@
-var mnemonic = "nuclear about also myself congress system tail popular space embrace march cost";
+var mnemonic = "refuse mention sudden sight film trip size material dove oil confirm robot";

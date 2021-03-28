@@ -1,1 +1,1 @@
-var mnemonic = "fitness over help blood clerk cattle program health tray oak act legal";
+var mnemonic = "source negative only canvas network ignore forward else solar pulp faint stomach";

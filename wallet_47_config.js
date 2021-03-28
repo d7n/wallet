@@ -1,1 +1,1 @@
-var mnemonic = "laugh bounce fold message spring genre stool polar bean clay assist twice";
+var mnemonic = "scatter rate insect deputy fit know property rich autumn stay tunnel matter";

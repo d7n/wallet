@@ -1,1 +1,1 @@
-var mnemonic = "dirt unique finish front tattoo matrix learn economy any pulp foster monitor";
+var mnemonic = "endless nominee potato know wet update primary syrup sound ready access picture";

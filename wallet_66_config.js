@@ -1,1 +1,1 @@
-var mnemonic = "hammer pitch marine ability decide connect armor tornado question sugar noise sock";
+var mnemonic = "awful awkward core bless rebuild october arrow citizen meadow boil suffer case";

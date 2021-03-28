@@ -1,1 +1,1 @@
-var mnemonic = "point logic oxygen issue setup release install wrist issue project multiply pass";
+var mnemonic = "gate beach pilot arrange bullet ice fiber border hip leopard army choice";

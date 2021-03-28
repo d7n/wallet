@@ -1,1 +1,1 @@
-var mnemonic = "kit swing undo topple liar sister daughter faint parent woman when glance";
+var mnemonic = "wave little obtain audit habit wedding hunt galaxy alpha struggle develop few";

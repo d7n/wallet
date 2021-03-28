@@ -1,1 +1,1 @@
-var mnemonic = "track fiscal submit color never drum sniff saddle teach left melt era";
+var mnemonic = "genuine vapor marine future dumb never awesome flock month valid visa bracket";

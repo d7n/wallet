@@ -1,1 +1,1 @@
-var mnemonic = "doctor attack rain jacket stairs behind village enemy trumpet major funny book";
+var mnemonic = "cargo depart sail stem naive peasant boil wasp start mother judge amount";

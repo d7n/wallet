@@ -1,1 +1,1 @@
-var mnemonic = "lens such maze total enemy stable blast pioneer mom sort solve wife";
+var mnemonic = "orange decline legal soon talk soda attitude resist annual document segment disease";

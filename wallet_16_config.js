@@ -1,1 +1,1 @@
-var mnemonic = "wisdom swap girl column damage tower cruel cloud silver small apology only";
+var mnemonic = "another gasp modify odor dwarf finger toward cattle season ecology key include";

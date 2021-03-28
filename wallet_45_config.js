@@ -1,1 +1,1 @@
-var mnemonic = "amateur turkey half buddy track snap hard two opinion mixed index length";
+var mnemonic = "poverty brown bid culture solve tank disagree visit final rent panic dynamic";

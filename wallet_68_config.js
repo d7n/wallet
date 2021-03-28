@@ -1,1 +1,1 @@
-var mnemonic = "illegal rebuild anger appear anger trust history gaze scout then collect apple";
+var mnemonic = "wish surround attack deputy skin work bottom library melody electric carry shrug";

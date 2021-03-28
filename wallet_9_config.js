@@ -1,1 +1,1 @@
-var mnemonic = "exile ready suit swift shoulder exile detect token trigger run expand cousin";
+var mnemonic = "gasp ivory wink sign enforce chronic combine cross hard grab sunny velvet";

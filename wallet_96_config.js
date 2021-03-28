@@ -1,1 +1,1 @@
-var mnemonic = "faint boy miss defy chapter rather leopard abstract under garment toast field";
+var mnemonic = "earn heavy spin shell bullet fetch ball celery company steel put chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "silly feel negative they banner replace gesture leg innocent brother robot oppose";
+var mnemonic = "primary someone hamster alert acquire retire right steel rain clip silk hammer";

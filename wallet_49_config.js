@@ -1,1 +1,1 @@
-var mnemonic = "vivid trend forum tool human depart bar toast now antenna spirit pipe";
+var mnemonic = "unfair begin since stairs machine floor leopard loop wave limb place army";

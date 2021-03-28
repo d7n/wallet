@@ -1,1 +1,1 @@
-var mnemonic = "palace course erosion garbage possible feel monkey muscle pilot knife all bamboo";
+var mnemonic = "witness secret analyst obvious keen interest salad say option metal wife leaf";

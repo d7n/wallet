@@ -1,1 +1,1 @@
-var mnemonic = "pool able laugh bulb maximum army sail sphere quantum describe meat state";
+var mnemonic = "click few example pupil net advance thrive grant knee float isolate junior";

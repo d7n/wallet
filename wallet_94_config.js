@@ -1,1 +1,1 @@
-var mnemonic = "vague region glance cable unlock crater mention husband swim season that inform";
+var mnemonic = "prize dirt smooth smart random wealth toddler veteran attack blush issue lawn";

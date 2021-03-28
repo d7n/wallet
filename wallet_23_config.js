@@ -1,1 +1,1 @@
-var mnemonic = "play month civil decide obtain tail guilt hawk fashion nature fade mercy";
+var mnemonic = "draw buyer trouble unable ability decide rotate fog picnic state nerve firm";

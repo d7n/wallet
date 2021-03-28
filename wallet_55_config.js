@@ -1,1 +1,1 @@
-var mnemonic = "coast country pause accuse afraid okay girl spawn card pact flavor attack";
+var mnemonic = "catalog trash crawl solid kick caution bright trophy joy cup mandate eight";

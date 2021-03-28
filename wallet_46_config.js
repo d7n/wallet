@@ -1,1 +1,1 @@
-var mnemonic = "swarm elder crew cancel awake execute young giant tree once update dinner";
+var mnemonic = "people fossil prize damp fortune castle erosion enemy accuse myth hurdle churn";

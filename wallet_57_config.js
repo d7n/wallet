@@ -1,1 +1,1 @@
-var mnemonic = "panda neither maple sun tonight trumpet render provide vanish whale speed case";
+var mnemonic = "swift bargain pipe royal stadium click walnut act mule birth hour upper";

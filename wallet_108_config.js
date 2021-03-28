@@ -1,1 +1,1 @@
-var mnemonic = "corn blame cruel resource connect hedgehog cotton cube talk chuckle peanut spread";
+var mnemonic = "misery love mixed since fatigue donate sight giggle whisper because arrange live";

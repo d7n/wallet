@@ -1,1 +1,1 @@
-var mnemonic = "loop clever lift decade under flower broken brain horse fit together embody";
+var mnemonic = "alley negative mixture orbit walk mountain noise simple salmon forum purity shadow";

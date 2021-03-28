@@ -1,1 +1,1 @@
-var mnemonic = "pig globe despair direct scheme salon because canvas north ugly slam asset";
+var mnemonic = "hedgehog grace skull bean sand panther marble oven rival evidence letter invest";

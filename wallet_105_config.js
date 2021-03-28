@@ -1,1 +1,1 @@
-var mnemonic = "naive increase nerve edit vendor critic blossom chimney crisp repair humble member";
+var mnemonic = "marble lock eagle gift together action kind name jaguar object knife century";

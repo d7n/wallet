@@ -1,1 +1,1 @@
-var mnemonic = "depart monitor machine artist sniff orphan same solid mix left assume poet";
+var mnemonic = "before camp team pigeon give pigeon tribe task science song draft minimum";

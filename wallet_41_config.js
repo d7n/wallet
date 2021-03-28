@@ -1,1 +1,1 @@
-var mnemonic = "copper develop wing unhappy walnut assist sister license hamster nurse update wrestle";
+var mnemonic = "name audit title imitate robust great disorder crime traffic rocket gate purse";

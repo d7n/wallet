@@ -1,1 +1,1 @@
-var mnemonic = "elegant begin cruise trick refuse story program soup voice desert next chuckle";
+var mnemonic = "syrup accuse course proof shy gasp stamp frozen attend boil fantasy chair";

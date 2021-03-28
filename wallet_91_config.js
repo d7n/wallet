@@ -1,1 +1,1 @@
-var mnemonic = "risk animal gain language term dirt blur sausage dance coffee liquid zebra";
+var mnemonic = "nuclear half crumble wave novel glove master blue pyramid east topic moon";

@@ -1,1 +1,1 @@
-var mnemonic = "finger various machine season fault anchor total bachelor clown hold canoe elite";
+var mnemonic = "wash disagree elephant affair casual enemy between apology engine glide tunnel receive";

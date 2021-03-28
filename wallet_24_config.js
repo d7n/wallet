@@ -1,1 +1,1 @@
-var mnemonic = "name mobile paddle input century mean balance kitchen fitness develop later report";
+var mnemonic = "just diesel pill purity lawsuit fame zebra forum way pitch crucial often";

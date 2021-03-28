@@ -1,1 +1,1 @@
-var mnemonic = "gap truck horn crater abuse mule fuel believe fat offer dress relief";
+var mnemonic = "stick taxi alley lion vacuum dizzy fault tuna love venture round bicycle";

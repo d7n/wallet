@@ -1,1 +1,1 @@
-var mnemonic = "fragile narrow country siren bulk drama story museum maple column symptom alien";
+var mnemonic = "grant cruise drum turkey enhance maximum pepper broom soup olympic flip wink";

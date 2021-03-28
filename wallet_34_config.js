@@ -1,1 +1,1 @@
-var mnemonic = "confirm talk aspect ranch increase resource fat february myth category mimic soap";
+var mnemonic = "doctor quit clean evoke reveal inhale receive excess load into ability produce";

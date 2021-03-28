@@ -1,1 +1,1 @@
-var mnemonic = "misery cherry film burger thank supreme casino wife provide faculty moon legend";
+var mnemonic = "pink decrease route must decade hair wash panic drill topic lobster middle";

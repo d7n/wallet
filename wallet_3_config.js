@@ -1,1 +1,1 @@
-var mnemonic = "evidence sort vicious unusual pole leave about dove mix enhance squirrel swim";
+var mnemonic = "walk era flat purity subway tail once primary jaguar eight plunge reform";

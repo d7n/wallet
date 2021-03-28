@@ -1,1 +1,1 @@
-var mnemonic = "aerobic second ensure jar nephew nothing robot awake human piano tiger else";
+var mnemonic = "reject melody fit element antique game air jazz weekend eternal army fame";

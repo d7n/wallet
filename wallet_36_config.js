@@ -1,1 +1,1 @@
-var mnemonic = "talent situate vacuum culture welcome lake aspect pigeon weapon season impact puzzle";
+var mnemonic = "pretty small stand poverty pledge asset actual sick creek biology plate indoor";

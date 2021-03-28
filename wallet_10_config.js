@@ -1,1 +1,1 @@
-var mnemonic = "wash enrich awake board vanish boil museum control quick sun ginger silver";
+var mnemonic = "lamp reform grief net person deer fatigue canyon panic refuse exact shuffle";

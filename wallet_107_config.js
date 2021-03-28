@@ -1,1 +1,1 @@
-var mnemonic = "tourist crater size town walk unit phrase jewel outer guard miss transfer";
+var mnemonic = "illegal lab copper shoulder amount decrease broom capable urge furnace search family";

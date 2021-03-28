@@ -1,1 +1,1 @@
-var mnemonic = "word innocent loan achieve game noise jelly worth mirror explain cluster roof";
+var mnemonic = "jungle salon glimpse venue tent nuclear square matrix share parrot excuse remain";

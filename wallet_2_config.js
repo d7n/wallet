@@ -1,1 +1,1 @@
-var mnemonic = "market toward unknown insect vote south reveal valve lab minimum version like";
+var mnemonic = "parent reopen style bar unhappy victory pizza load inner ribbon scare art";

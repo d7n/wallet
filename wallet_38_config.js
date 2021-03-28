@@ -1,1 +1,1 @@
-var mnemonic = "twenty hole salad coin cradle cement blur magnet gauge travel two grape";
+var mnemonic = "reform produce online hamster slice wife sweet portion drum luxury test urban";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze midnight fade avoid exact cave false fox receive monkey inside know";
+var mnemonic = "recycle laundry stamp legal honey boy sweet hint appear ridge flower simple";

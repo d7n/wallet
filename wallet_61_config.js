@@ -1,1 +1,1 @@
-var mnemonic = "endless loud trap timber aspect club sport ranch gauge shrimp legal poet";
+var mnemonic = "flag brain whip pigeon retreat gaze cream eager cluster inhale caught result";

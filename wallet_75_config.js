@@ -1,1 +1,1 @@
-var mnemonic = "gesture urban labor artist segment boost penalty industry edit direct gentle salt";
+var mnemonic = "arm install video anchor use mirror survey since snap tumble inquiry comfort";

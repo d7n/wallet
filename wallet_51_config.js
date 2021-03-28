@@ -1,1 +1,1 @@
-var mnemonic = "raccoon bridge capital order often palm warrior fatal hen maid news soon";
+var mnemonic = "awful knock race cabbage post bus craft lens scout shallow bargain bridge";

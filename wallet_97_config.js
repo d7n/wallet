@@ -1,1 +1,1 @@
-var mnemonic = "session never narrow soon agent choose shed bubble exile eyebrow negative plate";
+var mnemonic = "trophy super home they fit bargain strategy tiger trial infant almost raw";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude used chicken service rocket start crisp spoil gloom skirt lamp lemon";
+var mnemonic = "fox wear arm arrow cabin burger leopard slab kiwi story inner category";

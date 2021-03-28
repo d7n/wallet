@@ -1,1 +1,1 @@
-var mnemonic = "suggest belt ritual tag flag inherit suspect acquire curious badge hard comic";
+var mnemonic = "ranch tool practice pledge remain same bring crime inch wall calm verb";

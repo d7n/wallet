@@ -1,1 +1,1 @@
-var mnemonic = "immense sick fun rapid fun dynamic monkey once cabin blame coyote supply";
+var mnemonic = "tent balcony spoil fox word arch sheriff spread cattle fatal sketch cushion";

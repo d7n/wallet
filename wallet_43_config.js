@@ -1,1 +1,1 @@
-var mnemonic = "tower hand public trap expand flag gauge donor can broken play top";
+var mnemonic = "depth want exhibit raven charge tonight across sort fortune void sponsor promote";

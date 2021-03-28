@@ -1,1 +1,1 @@
-var mnemonic = "whale couch save near island disagree pony differ beef era mean coffee";
+var mnemonic = "cage idle input mad tired provide six outside nature rule happy fiber";

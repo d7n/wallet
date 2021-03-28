@@ -1,1 +1,1 @@
-var mnemonic = "lab oppose space frost cruise artist flame neglect model garlic shuffle focus";
+var mnemonic = "maximum token math burden better seminar village silly chronic city caution depend";

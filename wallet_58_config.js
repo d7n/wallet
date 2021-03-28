@@ -1,1 +1,1 @@
-var mnemonic = "bleak behave solve drink convince cushion just extra plate aunt aim endless";
+var mnemonic = "still success cat demand grief steak volcano property rose spider debate scale";

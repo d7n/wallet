@@ -1,1 +1,1 @@
-var mnemonic = "upset again child faint shoot museum kid peanut use replace oxygen avocado";
+var mnemonic = "random pink caution dress torch electric awesome wasp ugly skull broom parade";

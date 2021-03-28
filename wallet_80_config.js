@@ -1,1 +1,1 @@
-var mnemonic = "artefact soul occur winter rare hard surprise toast detail side test all";
+var mnemonic = "skate merit raise speak illness elevator airport soup they cat gravity dream";

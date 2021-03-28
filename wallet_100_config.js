@@ -1,1 +1,1 @@
-var mnemonic = "tackle cream direct route able lobster bone large visual decline deal embody";
+var mnemonic = "exclude public spend burden penalty stable farm debate group still rug glide";

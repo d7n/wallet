@@ -1,1 +1,1 @@
-var mnemonic = "casino problem fuel faculty aim time end radio oppose diet enroll cluster";
+var mnemonic = "dove dish public remain broccoli dignity napkin verify where trick gather segment";

@@ -1,1 +1,1 @@
-var mnemonic = "time water lottery valid swamp tissue worry rare behave include jacket slice";
+var mnemonic = "lawsuit write subject obtain filter mistake cereal nurse sponsor slight treat join";

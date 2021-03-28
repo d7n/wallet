@@ -1,1 +1,1 @@
-var mnemonic = "action where ghost victory green twelve total artwork dove reduce extra door";
+var mnemonic = "jelly erosion puppy kit gallery unfold beef duty travel month man unveil";

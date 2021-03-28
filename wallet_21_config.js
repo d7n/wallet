@@ -1,1 +1,1 @@
-var mnemonic = "sausage erase then road outer typical valley tell boss aware crush pistol";
+var mnemonic = "hungry club change all occur service right access motor rhythm involve shop";

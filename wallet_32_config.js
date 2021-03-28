@@ -1,1 +1,1 @@
-var mnemonic = "place parent night tortoise cushion horse session claim bid unhappy misery transfer";
+var mnemonic = "oval elbow roof erosion solution pear month private exhaust guess ripple mind";

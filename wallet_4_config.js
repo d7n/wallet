@@ -1,1 +1,1 @@
-var mnemonic = "wood mechanic this order still below rocket ready laundry polar rail pigeon";
+var mnemonic = "voyage goddess vapor inflict wreck between witness magic theme much spider another";

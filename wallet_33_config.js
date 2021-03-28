@@ -1,1 +1,1 @@
-var mnemonic = "keen tray hundred net energy amused net donkey rough border table provide";
+var mnemonic = "valley air exchange crumble kit sad ritual bright video foil ritual fetch";

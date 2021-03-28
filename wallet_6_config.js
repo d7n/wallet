@@ -1,1 +1,1 @@
-var mnemonic = "talent able earn wish assume alone service pear rotate position false capable";
+var mnemonic = "pair vendor crouch special obscure clarify unique olympic tackle boss fancy road";

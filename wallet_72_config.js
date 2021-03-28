@@ -1,1 +1,1 @@
-var mnemonic = "smoke strike dress wide chimney begin elite twin common obey wear faculty";
+var mnemonic = "over figure debris feature violin day rich furnace cave dress favorite twelve";

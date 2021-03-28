@@ -1,1 +1,1 @@
-var mnemonic = "opinion mercy chief machine mixture ozone cabin confirm spoil ring duty stage";
+var mnemonic = "cigar fold call idea uncover venture clarify such emotion angry transfer ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "leader hungry rapid boss puzzle exact odor end scissors bomb pencil season";
+var mnemonic = "eagle resist consider resist ripple private vehicle theme crane profit clinic ethics";

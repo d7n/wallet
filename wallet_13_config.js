@@ -1,1 +1,1 @@
-var mnemonic = "trade happy twist appear soft avocado flee gallery bag gasp acid rely";
+var mnemonic = "index city voyage unique enemy process possible attract win employ dilemma typical";

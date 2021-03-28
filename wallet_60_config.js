@@ -1,1 +1,1 @@
-var mnemonic = "clap royal record potato feature high divert noise end anger idea leopard";
+var mnemonic = "frog custom vivid boost jungle width west ecology hill bunker embrace staff";

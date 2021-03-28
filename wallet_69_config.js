@@ -1,1 +1,1 @@
-var mnemonic = "nose hunt spatial usage travel pulse alone wine weird fence equip cave";
+var mnemonic = "cart slender divert final strategy rifle reflect stamp mesh junk order famous";

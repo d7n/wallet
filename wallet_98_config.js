@@ -1,1 +1,1 @@
-var mnemonic = "wrestle spike primary annual ethics among amateur hedgehog borrow visual cheap grunt";
+var mnemonic = "fabric scene marine expire call reflect judge crush rookie note train boring";

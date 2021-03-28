@@ -1,1 +1,1 @@
-var mnemonic = "ten place key enrich blind enable soul guess inspire local elephant scene";
+var mnemonic = "always gloom spare warfare wheel wild sponsor start dash always smile illness";

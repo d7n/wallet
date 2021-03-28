@@ -1,1 +1,1 @@
-var mnemonic = "disease tank cargo fold ethics foster child spray innocent galaxy have engine";
+var mnemonic = "boat renew dry arm pipe accuse celery brown want matrix drill scale";
