@@ -1,1 +1,1 @@
-var mnemonic = "candy trick social section autumn direct bridge grab middle simple paper wave";
+var mnemonic = "vast region limb eight deposit good unaware alter rule crouch hurry gravity";

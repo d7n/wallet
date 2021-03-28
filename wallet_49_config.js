@@ -1,1 +1,1 @@
-var mnemonic = "patch game normal swear visa harsh question crumble wrestle index egg reduce";
+var mnemonic = "erosion tobacco become mind route flush analyst step brave marriage lizard decorate";

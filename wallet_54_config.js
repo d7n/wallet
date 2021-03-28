@@ -1,1 +1,1 @@
-var mnemonic = "neutral release cherry visual reopen double chair crater pretty prevent floor taxi";
+var mnemonic = "enter still auto student coil oak sign tenant gap rely rug wild";

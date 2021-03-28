@@ -1,1 +1,1 @@
-var mnemonic = "scissors much bid connect enlist picnic scene wrong lottery act inmate extend";
+var mnemonic = "wife note mountain toddler stock appear wood goose trade sand dynamic pull";

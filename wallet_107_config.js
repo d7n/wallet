@@ -1,1 +1,1 @@
-var mnemonic = "reopen castle seat film sudden slice wet caution earth angle believe ten";
+var mnemonic = "trip manage cover disease library gym say lawn jacket market label guitar";

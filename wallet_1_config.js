@@ -1,1 +1,1 @@
-var mnemonic = "cereal destroy shine autumn seat garden ancient toilet orchard couch suffer crater";
+var mnemonic = "weather vacant rural ritual ball museum year brick grocery nation welcome nominee";

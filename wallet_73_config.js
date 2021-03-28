@@ -1,1 +1,1 @@
-var mnemonic = "rescue face spatial toe pole retreat card lunar oil outer vessel science";
+var mnemonic = "divert earth model guard shove enough steak mobile blossom giggle jar nut";

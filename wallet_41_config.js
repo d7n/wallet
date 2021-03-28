@@ -1,1 +1,1 @@
-var mnemonic = "pause try civil wish inner grow toe quarter laugh badge become hard";
+var mnemonic = "moment fold true habit banner effort immune depart panel cash dry initial";

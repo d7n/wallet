@@ -1,1 +1,1 @@
-var mnemonic = "muffin vendor demise arm fabric clay firm mean add model hurdle gospel";
+var mnemonic = "combine fire hand rent later rain blind funny frown beach robust girl";

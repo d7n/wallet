@@ -1,1 +1,1 @@
-var mnemonic = "return hungry oyster hat coach unaware notable call clog soap obey vessel";
+var mnemonic = "during grow scatter duty broom cruel nice grape robot hollow spoil explain";

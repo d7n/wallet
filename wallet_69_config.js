@@ -1,1 +1,1 @@
-var mnemonic = "buzz auction best spider sun orphan hunt dust wonder salad short warm";
+var mnemonic = "bullet hen loan jar ramp mirror tragic subject ladder much jungle puzzle";

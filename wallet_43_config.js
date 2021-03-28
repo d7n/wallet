@@ -1,1 +1,1 @@
-var mnemonic = "bring side salad spice connect panic barely multiply comfort tube capital two";
+var mnemonic = "volume street rule screen lens awkward vessel soda detect daughter math wear";

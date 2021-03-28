@@ -1,1 +1,1 @@
-var mnemonic = "sauce collect catch income amateur flash urge aspect cause nurse math bench";
+var mnemonic = "reason cheese hurdle belt local grit install decline solution version black foam";

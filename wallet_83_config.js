@@ -1,1 +1,1 @@
-var mnemonic = "source voice copper rescue salute brisk gorilla album dentist cake clog truck";
+var mnemonic = "false divorce echo canoe never juice electric merge guide run advance student";

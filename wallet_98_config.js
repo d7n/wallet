@@ -1,1 +1,1 @@
-var mnemonic = "tag purpose time click warfare long sausage lesson father bachelor embark vote";
+var mnemonic = "want peace lady bag borrow dove fox glide stick owner material mechanic";

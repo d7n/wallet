@@ -1,1 +1,1 @@
-var mnemonic = "emerge leave supply they kitchen know hawk burger present wife resist sand";
+var mnemonic = "solve joke fence favorite turtle ordinary female future doll science join soft";

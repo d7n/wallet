@@ -1,1 +1,1 @@
-var mnemonic = "miss tip dove dish unaware exhibit cry cigar nerve hero grid bunker";
+var mnemonic = "job grief coyote hammer funny rose way play wrist parrot outdoor museum";

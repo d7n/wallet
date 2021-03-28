@@ -1,1 +1,1 @@
-var mnemonic = "elegant strategy just index render barrel absurd disorder parade physical race hurt";
+var mnemonic = "tired upgrade clay faith topic amount chunk general transfer dragon accident treat";

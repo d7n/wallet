@@ -1,1 +1,1 @@
-var mnemonic = "banana dove copy antique daughter kit category champion lend media sketch sign";
+var mnemonic = "bleak dentist dentist fiction damp click brother mechanic cannon tonight endless shrug";

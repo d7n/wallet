@@ -1,1 +1,1 @@
-var mnemonic = "bachelor wait library orphan blur holiday correct happy charge indicate elegant input";
+var mnemonic = "nominee hero similar liar car parade forest hotel rain monitor guess excuse";

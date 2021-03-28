@@ -1,1 +1,1 @@
-var mnemonic = "obey source bridge wood tree divide novel describe welcome glove praise forget";
+var mnemonic = "aim moon spell bring web rigid jewel alley language track identify arm";

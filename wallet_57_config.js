@@ -1,1 +1,1 @@
-var mnemonic = "scissors sheriff owner dinner estate humble flag among bitter describe hockey legend";
+var mnemonic = "angle recall remain dove mutual envelope place awful crop scrap labor person";

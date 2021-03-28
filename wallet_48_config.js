@@ -1,1 +1,1 @@
-var mnemonic = "breeze noise relief hub help claim awkward bonus bracket cute crunch corn";
+var mnemonic = "pulp clean alert other child motion mind topple olive common melt ladder";

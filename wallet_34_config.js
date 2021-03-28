@@ -1,1 +1,1 @@
-var mnemonic = "cannon pony train pride kite resemble phrase ocean option tennis receive wool";
+var mnemonic = "damp speed sadness ivory inflict school entire deny grab brain until picnic";

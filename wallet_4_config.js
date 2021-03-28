@@ -1,1 +1,1 @@
-var mnemonic = "height deer mind garden spice service effort style type smoke acquire enhance";
+var mnemonic = "bone inform hurry again mountain cricket load oyster paddle fragile require demise";

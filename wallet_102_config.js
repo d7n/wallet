@@ -1,1 +1,1 @@
-var mnemonic = "aisle jewel note regular stuff reward ride approve math peanut faculty pitch";
+var mnemonic = "kiss obey good loyal retreat riot jewel benefit gap spell jar velvet";

@@ -1,1 +1,1 @@
-var mnemonic = "place manage oven earth topple food love achieve turkey industry moral winner";
+var mnemonic = "error chimney valley vintage under blush sing basic frequent public remind supreme";

@@ -1,1 +1,1 @@
-var mnemonic = "series want direct indicate crew purity can rookie rubber visa crane equip";
+var mnemonic = "demand brisk glue seek emotion raccoon social fall apart fire body million";

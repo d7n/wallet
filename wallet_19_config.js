@@ -1,1 +1,1 @@
-var mnemonic = "jaguar later giggle foster genuine arm gain yellow spatial year mesh tornado";
+var mnemonic = "neck impose since fiction project input weird always couple rate bunker where";

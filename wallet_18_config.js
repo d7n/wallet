@@ -1,1 +1,1 @@
-var mnemonic = "absurd dutch novel child fury direct robust change disorder indoor smoke acid";
+var mnemonic = "certain bleak coconut write reopen network copper swarm happy wealth decide clap";

@@ -1,1 +1,1 @@
-var mnemonic = "devote expand spell cup spoil achieve worry host save quit hurt quality";
+var mnemonic = "total ripple wrap dinosaur film tank educate slide glow ocean annual ceiling";

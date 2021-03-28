@@ -1,1 +1,1 @@
-var mnemonic = "pattern diagram inner rebel hollow skill sibling absorb poem mesh topic inquiry";
+var mnemonic = "must ankle void pudding team almost proof whisper gauge tribe outdoor park";

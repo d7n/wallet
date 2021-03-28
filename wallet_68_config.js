@@ -1,1 +1,1 @@
-var mnemonic = "anxiety cliff wash vicious soap bread elder umbrella huge ostrich obscure weird";
+var mnemonic = "sight company hill profit order van fatigue sail heavy fade alpha essence";

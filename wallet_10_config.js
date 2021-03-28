@@ -1,1 +1,1 @@
-var mnemonic = "all title dawn grow gaze conduct nice stuff depart office method aim";
+var mnemonic = "point lawn flight around sand defy pretty answer lawsuit visual carry laundry";

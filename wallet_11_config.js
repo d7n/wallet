@@ -1,1 +1,1 @@
-var mnemonic = "room blush hair stone hint equal mother hire evolve fresh license portion";
+var mnemonic = "cigar dentist cluster noodle flock crew permit calm gaze airport carpet coyote";

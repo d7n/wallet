@@ -1,1 +1,1 @@
-var mnemonic = "hello list ripple impose twin bacon excuse skill extend envelope initial cheap";
+var mnemonic = "invest rose shield hill recipe hire measure person false position chief great";

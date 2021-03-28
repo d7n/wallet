@@ -1,1 +1,1 @@
-var mnemonic = "process insect true execute asset outdoor brave giggle affair resource spin attitude";
+var mnemonic = "crime purchase salon liar round nominee suspect bright circle upgrade melody device";

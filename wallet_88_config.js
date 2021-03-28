@@ -1,1 +1,1 @@
-var mnemonic = "image one suspect trophy come purpose vehicle occur have frame arrest uncle";
+var mnemonic = "post math woman ghost human ozone rural security matrix grass banana year";

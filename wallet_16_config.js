@@ -1,1 +1,1 @@
-var mnemonic = "enact profit typical bacon episode venture consider check you snap evil party";
+var mnemonic = "thunder neglect skill lava loyal myth scene eager fitness way fetch swap";

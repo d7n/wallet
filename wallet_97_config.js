@@ -1,1 +1,1 @@
-var mnemonic = "auction cross cargo question swear meadow shine loop input faith clean shallow";
+var mnemonic = "surround parent clerk daughter minimum copper region valid hero fiber put federal";

@@ -1,1 +1,1 @@
-var mnemonic = "culture people surface afford way spoon spray escape forward laptop fossil foil";
+var mnemonic = "custom stomach urban hungry empower volume impulse neck race lawn girl number";

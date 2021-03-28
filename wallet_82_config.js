@@ -1,1 +1,1 @@
-var mnemonic = "fossil emotion exercise toward ship fossil visit knee avoid illegal tree crazy";
+var mnemonic = "mimic mix miracle shock various cage edit hard pink index worry isolate";

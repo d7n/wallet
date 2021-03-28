@@ -1,1 +1,1 @@
-var mnemonic = "ozone orchard damp knock walnut tomorrow bring print mirror pitch crouch witness";
+var mnemonic = "hurdle major salon inner please slight solution cliff mixture age leader cluster";

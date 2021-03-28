@@ -1,1 +1,1 @@
-var mnemonic = "guitar journey roof snack dizzy know breeze bird trick live child phrase";
+var mnemonic = "magic fitness rather security scrub ship claw excess rule carry pioneer truck";

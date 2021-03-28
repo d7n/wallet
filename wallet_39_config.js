@@ -1,1 +1,1 @@
-var mnemonic = "myself mushroom warfare put reveal obscure infant motor husband climb element vessel";
+var mnemonic = "during local eyebrow fame injury latin lesson stadium know doctor index wealth";

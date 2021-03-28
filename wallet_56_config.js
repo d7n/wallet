@@ -1,1 +1,1 @@
-var mnemonic = "remove stage legend just news swim crouch raccoon twenty sheriff slice armor";
+var mnemonic = "weasel garage section quiz argue object hotel mad genius fog jewel effort";

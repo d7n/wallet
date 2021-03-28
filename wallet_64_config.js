@@ -1,1 +1,1 @@
-var mnemonic = "enroll much web soup forget crumble extra rent pause twist quality sun";
+var mnemonic = "subject print hedgehog shiver catalog marine useful athlete health mesh donate dragon";

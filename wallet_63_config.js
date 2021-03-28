@@ -1,1 +1,1 @@
-var mnemonic = "century zone nothing release dry oppose gadget asset match ball dash door";
+var mnemonic = "shrug uphold kidney oak chest humor turn gather cart range immense moral";

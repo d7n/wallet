@@ -1,1 +1,1 @@
-var mnemonic = "draw jacket reflect car employ pyramid syrup various rotate vivid purchase cycle";
+var mnemonic = "harsh shop lab polar circle patrol margin student mom gather relax park";

@@ -1,1 +1,1 @@
-var mnemonic = "mango before speak home flame strong report merge employ satoshi profit before";
+var mnemonic = "beyond pigeon tuna left sing illegal embrace member craft distance price believe";

@@ -1,1 +1,1 @@
-var mnemonic = "easy worry segment loan congress second correct happy grab jacket olive differ";
+var mnemonic = "security shy payment nation ivory energy voyage treat royal pledge valley virus";

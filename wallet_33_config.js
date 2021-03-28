@@ -1,1 +1,1 @@
-var mnemonic = "level potato draw travel glove kid mesh arrow acquire skin razor plunge";
+var mnemonic = "transfer fabric labor owner purity anchor enemy fancy loud parent must speak";

@@ -1,1 +1,1 @@
-var mnemonic = "glide pepper drift spend electric pepper urge body subject girl pact clay";
+var mnemonic = "copy tortoise open ramp chalk mixed kitten indoor gown bread behave robust";

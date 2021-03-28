@@ -1,1 +1,1 @@
-var mnemonic = "leader card meat fold bronze luxury reflect wear arm ostrich library lens";
+var mnemonic = "forget donate fiction purchase human seminar giggle slim alcohol wing bean hurdle";

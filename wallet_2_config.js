@@ -1,1 +1,1 @@
-var mnemonic = "salad coral exile alley about aisle system custom miss crater add limit";
+var mnemonic = "thumb olympic climb churn harsh fatigue soda nature diet practice royal mobile";

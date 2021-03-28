@@ -1,1 +1,1 @@
-var mnemonic = "simple rival game attend mind very jealous open patrol slow glimpse tide";
+var mnemonic = "define more differ gaze satoshi panda soft narrow patient space slab document";

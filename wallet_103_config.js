@@ -1,1 +1,1 @@
-var mnemonic = "bone device deposit country cannon more derive virtual balcony walnut genuine style";
+var mnemonic = "breeze laundry actor brown improve involve cross trouble feature maximum enhance proud";

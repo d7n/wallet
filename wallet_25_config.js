@@ -1,1 +1,1 @@
-var mnemonic = "property virus wish trust present various relax ceiling such pulp fuel soup";
+var mnemonic = "dance call depend popular mind bullet dash joy word appear oil hen";

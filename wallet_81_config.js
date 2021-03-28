@@ -1,1 +1,1 @@
-var mnemonic = "tide crash grape ripple one prize inside rail walk subject alone arrive";
+var mnemonic = "isolate service onion run female hood opinion kind lucky inherit mother armor";

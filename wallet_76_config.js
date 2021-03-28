@@ -1,1 +1,1 @@
-var mnemonic = "pistol clump salute thrive tackle unveil hunt bargain occur describe such tide";
+var mnemonic = "witness awake expire dad seminar odor december office elite gold hover height";

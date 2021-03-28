@@ -1,1 +1,1 @@
-var mnemonic = "helmet cute piece measure nerve pilot young elder talent century surround observe";
+var mnemonic = "witness music group swim rice valid depth regret deer unlock useless arrive";

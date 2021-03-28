@@ -1,1 +1,1 @@
-var mnemonic = "grant scrub silk arch stuff special burst trial scissors bar pair across";
+var mnemonic = "lunch dignity hat bridge grab reopen ketchup outdoor size hamster casual shove";

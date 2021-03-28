@@ -1,1 +1,1 @@
-var mnemonic = "expose firm abandon endorse ozone toward vault address erosion trouble critic parrot";
+var mnemonic = "cereal infant scare sadness web impulse clog desk glare crazy fresh frost";

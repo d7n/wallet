@@ -1,1 +1,1 @@
-var mnemonic = "silly poem test unlock bamboo source accident drive guitar blush rude enroll";
+var mnemonic = "boil foot actress sugar dignity daring impact filter violin keep arrest lens";

@@ -1,1 +1,1 @@
-var mnemonic = "reject regret exclude laptop junior transfer acoustic excuse onion luggage grunt pistol";
+var mnemonic = "reunion air exchange stool brand immune sock soon horse knock aware feature";

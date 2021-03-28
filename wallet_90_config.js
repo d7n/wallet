@@ -1,1 +1,1 @@
-var mnemonic = "solid chimney divert tornado mandate creek switch mango giant company frequent mixed";
+var mnemonic = "story memory husband cloud donor wine eager buyer breeze pioneer sing survey";

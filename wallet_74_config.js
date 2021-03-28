@@ -1,1 +1,1 @@
-var mnemonic = "animal venue flee sad follow scrap nice wet dial cage diesel pony";
+var mnemonic = "enjoy dream aspect void enlist chicken move enrich alpha beauty release negative";

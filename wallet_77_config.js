@@ -1,1 +1,1 @@
-var mnemonic = "acquire relief panel squirrel bitter arena private act fee slight visual rough";
+var mnemonic = "split party hockey pause put awake tent dust filter gaze earn fiction";

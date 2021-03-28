@@ -1,1 +1,1 @@
-var mnemonic = "hobby near ball laundry ceiling essence spend flavor remind ghost trust custom";
+var mnemonic = "green youth club warrior dice banana exact write sponsor amazing pluck federal";

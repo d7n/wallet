@@ -1,1 +1,1 @@
-var mnemonic = "color impact retire agent curtain foil local lounge remember ostrich worth bulk";
+var mnemonic = "install exercise sunny aunt brand people hungry similar output case coffee collect";

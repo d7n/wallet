@@ -1,1 +1,1 @@
-var mnemonic = "segment hedgehog security deposit evil secret index giant series letter escape resemble";
+var mnemonic = "casual spread sight mixed number ordinary laugh priority olive essence achieve depth";

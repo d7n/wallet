@@ -1,1 +1,1 @@
-var mnemonic = "chest field slogan october giraffe normal purse bottom topic extend series flee";
+var mnemonic = "gap globe swallow crater advance settle local ski still cement awful trick";

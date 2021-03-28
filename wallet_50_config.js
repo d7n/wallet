@@ -1,1 +1,1 @@
-var mnemonic = "else devote size fame chat more shrimp helmet ticket page lunch sleep";
+var mnemonic = "learn range cactus tube prosper omit better family lottery organ alley crowd";

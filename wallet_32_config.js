@@ -1,1 +1,1 @@
-var mnemonic = "discover route stay stuff bulk connect mother area jelly spy moral mind";
+var mnemonic = "black state fly nation force small gesture office primary chicken media lion";

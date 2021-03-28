@@ -1,1 +1,1 @@
-var mnemonic = "again chair cram display idle roast wink raccoon ginger glass news unveil";
+var mnemonic = "permit hybrid bonus rifle deputy path stool rule surprise end gasp year";

@@ -1,1 +1,1 @@
-var mnemonic = "sand exit collect laundry violin cricket ostrich scan say member urge lava";
+var mnemonic = "history ostrich web kite unable morning swarm embody hamster pride top grow";

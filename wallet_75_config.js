@@ -1,1 +1,1 @@
-var mnemonic = "company fan stock plastic uniform travel fuel tenant juice latin spice father";
+var mnemonic = "december style attend soap kitten fetch stand lizard capable enact sport between";

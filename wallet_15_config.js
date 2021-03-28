@@ -1,1 +1,1 @@
-var mnemonic = "crumble patrol mimic miss split add more require original spare page column";
+var mnemonic = "hip outer used warrior destroy series hurry hundred promote ceiling weird rely";

@@ -1,1 +1,1 @@
-var mnemonic = "click merry water fatal weapon resource unfold sniff champion burger organ humble";
+var mnemonic = "swarm disagree pizza blue series toddler attack bless allow metal birth luggage";

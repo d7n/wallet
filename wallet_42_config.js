@@ -1,1 +1,1 @@
-var mnemonic = "auction finger icon derive warm slogan fame ethics clerk heavy control room";
+var mnemonic = "dial doll obtain predict owner acid slice poverty surprise essence fence butter";

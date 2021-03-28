@@ -1,1 +1,1 @@
-var mnemonic = "speak item because song resist unique intact iron flight flat used strong";
+var mnemonic = "dad vast fade book mean initial admit expect embrace twin life motor";

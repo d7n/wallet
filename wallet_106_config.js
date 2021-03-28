@@ -1,1 +1,1 @@
-var mnemonic = "burger suffer indicate client inquiry fade name mansion prefer away mixture cake";
+var mnemonic = "shell escape behave fortune depth clump word approve derive purchase junk sure";

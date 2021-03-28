@@ -1,1 +1,1 @@
-var mnemonic = "coffee comfort aerobic idle entire panic genre pond must neck local maid";
+var mnemonic = "panel topple label amused annual pledge know first occur road want blue";

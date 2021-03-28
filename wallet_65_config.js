@@ -1,1 +1,1 @@
-var mnemonic = "orchard very august luggage beyond height frequent diesel enroll tragic such riot";
+var mnemonic = "fossil equal thumb nurse urban lend sound life now path daughter ripple";

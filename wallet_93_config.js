@@ -1,1 +1,1 @@
-var mnemonic = "much hold decorate eternal evolve federal valley core increase piano popular soup";
+var mnemonic = "question review only appear scorpion behind timber area choice alone sell wealth";

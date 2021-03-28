@@ -1,1 +1,1 @@
-var mnemonic = "equal february employ online artwork ski sniff ripple entry code spawn worry";
+var mnemonic = "problem once then local gasp antenna tissue label develop coil toe jungle";

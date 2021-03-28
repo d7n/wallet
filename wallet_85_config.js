@@ -1,1 +1,1 @@
-var mnemonic = "donkey twist happy humor actual joke dutch crucial pumpkin current cage month";
+var mnemonic = "field fade test rebuild tattoo praise lawsuit warm snake try arrive awkward";

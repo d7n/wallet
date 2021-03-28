@@ -1,1 +1,1 @@
-var mnemonic = "pulp flight course embark moment genuine purse doll oil dizzy mad city";
+var mnemonic = "ghost canyon ten hotel shrug scout narrow humble finger rather glimpse mercy";

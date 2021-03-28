@@ -1,1 +1,1 @@
-var mnemonic = "tiny wolf amazing glow apple smile near spell embody salon follow dolphin";
+var mnemonic = "awake industry present develop embark hurdle advance token shoe laptop enlist diagram";

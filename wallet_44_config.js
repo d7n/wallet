@@ -1,1 +1,1 @@
-var mnemonic = "fantasy pause ancient pitch wet dwarf address strategy reject siren canvas want";
+var mnemonic = "clay drill lend fantasy program about lake aware banner hire soup humble";
