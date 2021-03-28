@@ -1,1 +1,1 @@
-var mnemonic = "patch large adjust wisdom rocket defy conduct lecture chicken child throw despair";
+var mnemonic = "glass device retire park estate tongue gasp dash portion abuse hammer rough";

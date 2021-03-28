@@ -1,1 +1,1 @@
-var mnemonic = "fancy volcano fluid cruel allow ten village tone reward slam machine lazy";
+var mnemonic = "change scale flavor early follow enforce ensure plunge view cheap dove boat";

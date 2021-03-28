@@ -1,1 +1,1 @@
-var mnemonic = "skill course option clutch hover raw drill quote ritual youth leader cake";
+var mnemonic = "cannon medal dismiss sick captain explain congress flee sign clown illness melody";

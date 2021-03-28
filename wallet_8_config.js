@@ -1,1 +1,1 @@
-var mnemonic = "initial train beauty badge choose degree glue ozone there aware isolate eager";
+var mnemonic = "electric session congress exchange clinic fade lottery conduct genius nice casino modify";

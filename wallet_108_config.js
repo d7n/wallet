@@ -1,1 +1,1 @@
-var mnemonic = "stomach core income ask artefact hotel inhale twin amount young cheap country";
+var mnemonic = "six lucky hope economy smooth pretty office craft uncle school fashion obtain";

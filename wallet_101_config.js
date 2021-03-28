@@ -1,1 +1,1 @@
-var mnemonic = "you twenty place wire addict robot turn sheriff sleep rebel pill toward";
+var mnemonic = "hard civil cake expose sudden tool uniform display friend replace abandon easy";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin matter gallery vital soul invest shy soon arrive napkin festival wool";
+var mnemonic = "possible arch addict bridge error dragon hobby empower entry sea ice invest";

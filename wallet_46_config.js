@@ -1,1 +1,1 @@
-var mnemonic = "robust change recipe people annual swap ask protect invite physical hen uncover";
+var mnemonic = "naive source run skin exit observe bronze blade immense smooth wish nose";

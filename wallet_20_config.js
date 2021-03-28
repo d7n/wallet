@@ -1,1 +1,1 @@
-var mnemonic = "target talk burger ignore near discover short cross better agent depart pluck";
+var mnemonic = "taxi manual mammal private example convince false regular coconut grid first between";

@@ -1,1 +1,1 @@
-var mnemonic = "holiday final public sphere slim taxi force regret doll pledge lawn remember";
+var mnemonic = "frog motion myth amount crash awkward display venture fog violin author assault";

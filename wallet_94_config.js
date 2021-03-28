@@ -1,1 +1,1 @@
-var mnemonic = "assume badge game become mystery chimney kind rescue climb kid unfold industry";
+var mnemonic = "romance social item rug benefit world drastic marble task soda badge youth";

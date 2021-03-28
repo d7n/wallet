@@ -1,1 +1,1 @@
-var mnemonic = "release sick bottom marriage shove cool tank spring cousin number chat lake";
+var mnemonic = "version viable ketchup grit dress nurse crop stick dilemma tongue discover differ";

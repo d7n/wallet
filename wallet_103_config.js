@@ -1,1 +1,1 @@
-var mnemonic = "level embrace economy eye ecology bargain net either blue stereo ski dove";
+var mnemonic = "wedding roast about kite load camp range push claim tumble hazard comfort";

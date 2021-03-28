@@ -1,1 +1,1 @@
-var mnemonic = "essay okay camera pave prevent this cruise ladder furnace siege champion bicycle";
+var mnemonic = "oxygen demand property wheel skill ice argue rival giggle evil soap window";

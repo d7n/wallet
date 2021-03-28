@@ -1,1 +1,1 @@
-var mnemonic = "hen crawl explain snake anger human local coffee barely erase human peace";
+var mnemonic = "text jar material flip viable merit dignity once cage frame defy panther";

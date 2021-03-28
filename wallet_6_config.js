@@ -1,1 +1,1 @@
-var mnemonic = "spring alley work pulp now shine dirt pitch electric fork hen color";
+var mnemonic = "click jump burger manage guard wheat very mutual crunch rubber license nice";

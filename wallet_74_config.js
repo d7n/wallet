@@ -1,1 +1,1 @@
-var mnemonic = "juice require sting mammal conduct emerge aspect topple deal narrow vintage surface";
+var mnemonic = "same satisfy roast zero view earn foot model route market december author";

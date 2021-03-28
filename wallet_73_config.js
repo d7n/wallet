@@ -1,1 +1,1 @@
-var mnemonic = "have hybrid roof auto scorpion have tower square right chief hill hurdle";
+var mnemonic = "walnut twenty excite favorite forest body coil promote accident matter hire stamp";

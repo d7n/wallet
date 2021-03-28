@@ -1,1 +1,1 @@
-var mnemonic = "column spider mirror enemy pizza protect neither produce wood case borrow social";
+var mnemonic = "raw focus crack filter salute weasel include fish slow unusual rare six";

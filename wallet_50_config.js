@@ -1,1 +1,1 @@
-var mnemonic = "strike edge whisper peace box novel remain donor pledge truth enact april";
+var mnemonic = "sail fan prepare throw venue subject photo oven disorder home hunt van";

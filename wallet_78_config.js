@@ -1,1 +1,1 @@
-var mnemonic = "oven move engage average october arrow borrow carbon fluid sand noodle sing";
+var mnemonic = "multiply left scatter couch make label muscle express trophy appear sword loyal";

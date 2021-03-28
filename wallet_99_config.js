@@ -1,1 +1,1 @@
-var mnemonic = "age always beyond deliver armed correct garlic bottom doll survey side bottom";
+var mnemonic = "session strike rely nice response polar tell kangaroo palm scatter source approve";

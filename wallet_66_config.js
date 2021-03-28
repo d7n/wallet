@@ -1,1 +1,1 @@
-var mnemonic = "plug mixed legend brain design sudden hurdle engine rapid sting loyal magic";
+var mnemonic = "embark vivid quiz angry caution vendor risk feel creek patient favorite lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "appear post hobby present eight empty noble ocean spider apple scrap tongue";
+var mnemonic = "insect visual become raise proud amateur squeeze major flower suffer tunnel ask";

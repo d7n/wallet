@@ -1,1 +1,1 @@
-var mnemonic = "bike census club until stage one vicious excess mutual panel roof advance";
+var mnemonic = "adjust audit cost column machine poverty regular oppose become rare finish orbit";

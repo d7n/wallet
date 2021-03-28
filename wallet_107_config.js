@@ -1,1 +1,1 @@
-var mnemonic = "peanut season unfair cheap guard boring element clip evidence sense squirrel can";
+var mnemonic = "virus account result business pilot pepper exile meat creek clarify off battle";

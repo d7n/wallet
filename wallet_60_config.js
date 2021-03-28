@@ -1,1 +1,1 @@
-var mnemonic = "leaf depart they fly bid glory cousin kidney nephew illness script split";
+var mnemonic = "poet fat attitude where time hurry cause soup keen odor broom snake";

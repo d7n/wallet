@@ -1,1 +1,1 @@
-var mnemonic = "knock elephant valley drop health vague saddle lottery sea liquid young lonely";
+var mnemonic = "must grain memory element neither symbol turn empower build rib club subway";

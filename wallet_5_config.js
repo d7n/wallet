@@ -1,1 +1,1 @@
-var mnemonic = "fortune large canvas also ice address tonight sphere stereo until risk adult";
+var mnemonic = "box hat upper limb found manual lawn giant session ordinary south shallow";

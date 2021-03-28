@@ -1,1 +1,1 @@
-var mnemonic = "kick pen violin address chief alien rabbit peasant license toward come caught";
+var mnemonic = "wonder crash wrap relief bridge crawl deer chunk cannon ripple shed illness";

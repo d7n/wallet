@@ -1,1 +1,1 @@
-var mnemonic = "setup silly panda comfort agree blush harvest favorite vague field forward tornado";
+var mnemonic = "firm silent text mom mesh turn toast popular deliver vacuum six amused";

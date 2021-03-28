@@ -1,1 +1,1 @@
-var mnemonic = "alpha embrace fever turkey trial scrap onion deer amount improve relax neither";
+var mnemonic = "warrior august gold swarm novel dismiss rookie syrup clap open horse blade";

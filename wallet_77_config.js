@@ -1,1 +1,1 @@
-var mnemonic = "payment puppy mail cable bomb outside cram nice festival casual thrive furnace";
+var mnemonic = "annual kid save rally mail buzz bracket asthma setup boss tonight kangaroo";

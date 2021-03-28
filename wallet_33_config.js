@@ -1,1 +1,1 @@
-var mnemonic = "off honey congress keen nuclear hundred anger valve discover farm shift health";
+var mnemonic = "notable state usage creek text acquire wing local peace valve birth cupboard";

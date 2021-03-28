@@ -1,1 +1,1 @@
-var mnemonic = "february mixture neck depend lobster song drink trouble book runway rib beyond";
+var mnemonic = "color wheel teach rude energy one wreck width stem spell ride length";

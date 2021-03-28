@@ -1,1 +1,1 @@
-var mnemonic = "sheriff useful case history almost adapt possible exit pottery combine sadness design";
+var mnemonic = "margin lion health rate omit best behind bone rule venture leader repair";

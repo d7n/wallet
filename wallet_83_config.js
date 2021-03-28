@@ -1,1 +1,1 @@
-var mnemonic = "govern reward hover mushroom health humor pole glow now entire ten casual";
+var mnemonic = "scale bless bench inhale fury slab average anchor nominee amateur basket family";

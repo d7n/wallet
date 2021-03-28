@@ -1,1 +1,1 @@
-var mnemonic = "pet ribbon minute anchor carpet turkey valid skirt dose goose crane rice";
+var mnemonic = "infant divide indoor job supreme auction amateur hobby breeze lend explain gauge";

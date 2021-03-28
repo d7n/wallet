@@ -1,1 +1,1 @@
-var mnemonic = "will flavor hello dutch blame rally social will behave lawn session civil";
+var mnemonic = "flag sponsor kind assist foster cricket error park squirrel shift submit corn";

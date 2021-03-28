@@ -1,1 +1,1 @@
-var mnemonic = "script oppose ride like identify cruel gaze meadow capital execute acquire bind";
+var mnemonic = "monster doctor village pulse dance squeeze supply stick drill choose mouse base";

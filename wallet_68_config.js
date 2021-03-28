@@ -1,1 +1,1 @@
-var mnemonic = "scan wire edit broom wonder output suspect lamp script wrong radar butter";
+var mnemonic = "arrow pig town twin provide clutch pioneer hidden victory vault weird short";

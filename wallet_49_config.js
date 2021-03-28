@@ -1,1 +1,1 @@
-var mnemonic = "usage island merit pioneer egg cute vanish crouch captain tumble obscure swallow";
+var mnemonic = "ketchup speed bacon bronze twist spin hobby visit tail forward cradle hip";

@@ -1,1 +1,1 @@
-var mnemonic = "trip replace address lawn joke maze profit enlist ritual warm wild dutch";
+var mnemonic = "manual scale nasty omit destroy pepper short drastic ordinary sad spider seat";

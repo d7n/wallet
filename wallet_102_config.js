@@ -1,1 +1,1 @@
-var mnemonic = "figure profit indicate pet bike chicken wrong tumble diesel piano between rural";
+var mnemonic = "toy coach shop egg region clerk frequent monster mouse nose sample lady";

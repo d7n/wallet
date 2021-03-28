@@ -1,1 +1,1 @@
-var mnemonic = "popular gloom want very luxury gasp rug airport lobster ticket wheat session";
+var mnemonic = "bench kick because police exclude garden romance shiver guilt auto ankle board";

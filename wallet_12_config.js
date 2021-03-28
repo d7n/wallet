@@ -1,1 +1,1 @@
-var mnemonic = "math jeans protect trumpet steak reason test world ill youth remember huge";
+var mnemonic = "dad fog predict frown vanish better have wire copper frog mammal net";

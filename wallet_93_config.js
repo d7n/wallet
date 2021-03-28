@@ -1,1 +1,1 @@
-var mnemonic = "level favorite escape shove maximum purity fee kite winter off hammer club";
+var mnemonic = "state spoil exhaust amount maze wrap repair window angry jaguar build ready";

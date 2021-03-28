@@ -1,1 +1,1 @@
-var mnemonic = "attack great print solve gadget modify follow mystery spoon penalty cart eager";
+var mnemonic = "viable ethics repair elevator blame beyond carbon spoon method hip item fit";

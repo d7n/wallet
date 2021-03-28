@@ -1,1 +1,1 @@
-var mnemonic = "forest bonus bottom capable faith ten rally apple pony other slam wave";
+var mnemonic = "flat maze since pull drive sing crucial joke balance lunch wedding fiction";

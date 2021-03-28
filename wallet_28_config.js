@@ -1,1 +1,1 @@
-var mnemonic = "excess measure again fat remove eager tired slam round argue awesome brave";
+var mnemonic = "border cloud sell black blur auto brand plug silver nerve same toss";

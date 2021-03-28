@@ -1,1 +1,1 @@
-var mnemonic = "theory between simple acoustic dutch bench yard engage rain require person monitor";
+var mnemonic = "midnight adult castle suffer cinnamon wire rough logic umbrella unable repair symbol";

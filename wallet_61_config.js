@@ -1,1 +1,1 @@
-var mnemonic = "ritual dolphin secret sport hole light bamboo oxygen cage drill select soul";
+var mnemonic = "vanish say laptop hockey symbol stadium purpose lend ridge ski frost vital";

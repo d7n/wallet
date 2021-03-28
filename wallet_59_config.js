@@ -1,1 +1,1 @@
-var mnemonic = "holiday deal disorder fuel congress crane include asthma pact movie journey bundle";
+var mnemonic = "fabric place ripple bachelor whale win never sister lady banner fitness plastic";

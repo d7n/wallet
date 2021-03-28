@@ -1,1 +1,1 @@
-var mnemonic = "infant clump fantasy bounce review gossip expand hat twenty wear prison initial";
+var mnemonic = "swarm boring economy adapt ball permit pass transfer staff method mango real";

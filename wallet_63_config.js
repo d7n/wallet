@@ -1,1 +1,1 @@
-var mnemonic = "model patrol must barrel myself client cruel solve genre have invest smooth";
+var mnemonic = "patient survey early peanut stereo master sight tuition situate birth float this";

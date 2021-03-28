@@ -1,1 +1,1 @@
-var mnemonic = "monster loud brush february film lens cruel glass aerobic strategy hair pulse";
+var mnemonic = "cause smoke pudding inform afraid syrup glue film catalog vivid lecture drink";

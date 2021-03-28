@@ -1,1 +1,1 @@
-var mnemonic = "life dog assist special buddy hat prize mistake stand breeze over velvet";
+var mnemonic = "enforce engage off doll reason ten ready mountain filter filter horn pudding";

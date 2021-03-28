@@ -1,1 +1,1 @@
-var mnemonic = "submit hungry shrimp awesome ride ignore symbol exotic gate own dad mother";
+var mnemonic = "axis immense stay venture engine frost fire hair initial spray thank water";

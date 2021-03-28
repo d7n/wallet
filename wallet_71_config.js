@@ -1,1 +1,1 @@
-var mnemonic = "wink rotate since door champion random lobster satisfy employ focus remember monkey";
+var mnemonic = "major awake jaguar trash vintage gadget size arena fitness awake wheel shy";

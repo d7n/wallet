@@ -1,1 +1,1 @@
-var mnemonic = "theory divorce what inside rookie invite access enable divide trial welcome toss";
+var mnemonic = "shield photo emerge merry battle genius young suspect swear fresh elder lazy";

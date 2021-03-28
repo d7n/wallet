@@ -1,1 +1,1 @@
-var mnemonic = "frequent copy marble box street brand add include anchor limb give crazy";
+var mnemonic = "purpose pepper jaguar soap speak accident stereo private siege ice kite unlock";

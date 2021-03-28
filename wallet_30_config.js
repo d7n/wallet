@@ -1,1 +1,1 @@
-var mnemonic = "unaware cake dress tone pizza hour exchange plunge squeeze agent ticket reform";
+var mnemonic = "bean rose move glove model web panda trigger ivory success during tackle";

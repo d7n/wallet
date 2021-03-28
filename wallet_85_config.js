@@ -1,1 +1,1 @@
-var mnemonic = "accuse sell swear liquid fortune consider job gentle label seed wall patch";
+var mnemonic = "clarify salmon emotion plunge top start kitten draw spider awful hotel north";

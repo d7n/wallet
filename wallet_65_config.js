@@ -1,1 +1,1 @@
-var mnemonic = "prosper chest rail home lounge famous neck measure essay rude clown buyer";
+var mnemonic = "mobile spawn six napkin employ deputy island enemy spoon way remind document";

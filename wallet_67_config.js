@@ -1,1 +1,1 @@
-var mnemonic = "elder enact absorb into pole million phone word six list pretty mutual";
+var mnemonic = "boring expect genuine shaft what put office scale copy gloom accident lens";

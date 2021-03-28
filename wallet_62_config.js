@@ -1,1 +1,1 @@
-var mnemonic = "unaware dove space liberty daring execute onion genre vote naive meadow reject";
+var mnemonic = "produce there render buyer riot moon possible test clarify elite bike pottery";

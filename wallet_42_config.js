@@ -1,1 +1,1 @@
-var mnemonic = "clog vintage recycle calm punch segment denial lion vote permit glare that";
+var mnemonic = "hospital seven dice fancy crater office wink purpose life baby repair orbit";

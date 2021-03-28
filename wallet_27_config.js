@@ -1,1 +1,1 @@
-var mnemonic = "dove moon bullet eight taste rack rose empower elite repeat salad roof";
+var mnemonic = "smooth inside stove damp family hour rescue man vivid goat diagram deal";

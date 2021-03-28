@@ -1,1 +1,1 @@
-var mnemonic = "warfare future source piano topic net life truth romance dose boat finish";
+var mnemonic = "naive estate bargain pluck run child meadow theory jazz loan banana ring";

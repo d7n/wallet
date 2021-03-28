@@ -1,1 +1,1 @@
-var mnemonic = "spider squirrel ugly absurd solution fortune fee march waste army screen inform";
+var mnemonic = "radar click speak journey fan couple flame dash member path coil much";

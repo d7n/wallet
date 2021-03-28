@@ -1,1 +1,1 @@
-var mnemonic = "wrestle radar wrong song resource kidney tomorrow cable mind clever rent arrive";
+var mnemonic = "cabbage talent net pudding together ripple nurse bus office old swallow front";

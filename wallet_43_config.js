@@ -1,1 +1,1 @@
-var mnemonic = "adapt hungry pool chronic sponsor mushroom angry okay slam bubble ball visa";
+var mnemonic = "chair load uncle educate toddler badge region steel work cake puzzle pear";

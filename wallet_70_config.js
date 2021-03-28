@@ -1,1 +1,1 @@
-var mnemonic = "disagree actress spot reduce rare confirm crime proud island seed exact parent";
+var mnemonic = "uphold minor same box attack ball swim about into globe same actress";

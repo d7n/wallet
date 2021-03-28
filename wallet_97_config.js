@@ -1,1 +1,1 @@
-var mnemonic = "erode upon fish vocal force tooth maid opera ready there soccer nominee";
+var mnemonic = "mirror plug wait gown bind organ scissors funny rebel judge name clutch";

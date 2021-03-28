@@ -1,1 +1,1 @@
-var mnemonic = "curtain mixture next total frozen minimum someone humble winter maple boil merit";
+var mnemonic = "duty artist enable divert buffalo scrap call outdoor pizza north drastic sorry";

@@ -1,1 +1,1 @@
-var mnemonic = "exclude usual general puzzle half ribbon relief force sugar play cradle win";
+var mnemonic = "column grab unit whip ginger ask rack language client purpose include memory";

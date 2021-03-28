@@ -1,1 +1,1 @@
-var mnemonic = "horror frozen work nurse soap minute choose day rotate burden ski clarify";
+var mnemonic = "pluck urban tenant ski wet involve avocado slab ski super original cross";

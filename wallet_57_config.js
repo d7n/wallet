@@ -1,1 +1,1 @@
-var mnemonic = "chuckle erode tray sorry local garlic common wrong sheriff brave company endorse";
+var mnemonic = "glass muffin keep disorder absurd same pink indicate increase kid awake october";

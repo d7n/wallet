@@ -1,1 +1,1 @@
-var mnemonic = "estate vapor swarm extra seven history upset install lab split high rescue";
+var mnemonic = "powder tomato captain benefit enemy hamster plate forward people phone rule garage";

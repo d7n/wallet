@@ -1,1 +1,1 @@
-var mnemonic = "roast urban tiger pyramid matter manual goat help worth kite prize away";
+var mnemonic = "express humor topic snake original quantum where olympic people lawsuit alien until";

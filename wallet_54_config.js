@@ -1,1 +1,1 @@
-var mnemonic = "swim pet vibrant fine trophy dirt cousin saddle sister very execute sort";
+var mnemonic = "ugly camera eight lonely beef lawsuit ready mansion ramp east clay away";

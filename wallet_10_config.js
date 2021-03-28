@@ -1,1 +1,1 @@
-var mnemonic = "clever scissors fancy blind gravity banana sell cup sound pact measure term";
+var mnemonic = "load midnight train wolf peanut base town double demand youth okay park";

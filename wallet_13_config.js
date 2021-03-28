@@ -1,1 +1,1 @@
-var mnemonic = "doctor garlic venue work direct absent piece shell battle unveil ranch nerve";
+var mnemonic = "grunt defy cereal embrace visual seek swap patient custom ancient piece horn";

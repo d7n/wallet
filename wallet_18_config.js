@@ -1,1 +1,1 @@
-var mnemonic = "pond label vessel engage frost autumn skill turn swap decade chef garlic";
+var mnemonic = "table throw carry retreat success logic ensure sweet repeat vehicle slow taxi";

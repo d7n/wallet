@@ -1,1 +1,1 @@
-var mnemonic = "unable suffer bike keep leave actress pluck kiwi attitude tide method flavor";
+var mnemonic = "basic fitness symptom knee cricket parade teach spirit method vast sorry party";

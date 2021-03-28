@@ -1,1 +1,1 @@
-var mnemonic = "junk baby roast start depart twice enrich pioneer jaguar west knife cycle";
+var mnemonic = "swallow fly moral render portion add camp equip adjust vast skull potato";

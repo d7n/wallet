@@ -1,1 +1,1 @@
-var mnemonic = "dash ethics lamp december fit wheel unveil because course age tide then";
+var mnemonic = "used heart program mutual wool neither stairs ten tumble frog antique peasant";

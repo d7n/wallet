@@ -1,1 +1,1 @@
-var mnemonic = "swear kid current stamp table bulk render dizzy exotic bench dish athlete";
+var mnemonic = "night mesh impulse noodle column approve sauce shy rack celery aim fortune";

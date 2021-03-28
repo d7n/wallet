@@ -1,1 +1,1 @@
-var mnemonic = "target foam pond patch exit tornado pact pill organ scrap bean bread";
+var mnemonic = "sentence lesson never bounce tattoo aerobic erase canoe evoke range prosper express";

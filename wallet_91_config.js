@@ -1,1 +1,1 @@
-var mnemonic = "forest shift safe figure busy mad gentle coast arena quiz supreme material";
+var mnemonic = "thrive lunch gallery pitch layer era plastic wisdom funny fruit fatigue spy";

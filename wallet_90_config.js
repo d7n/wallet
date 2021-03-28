@@ -1,1 +1,1 @@
-var mnemonic = "payment faith mandate radio miracle note shove bullet mixed danger client brain";
+var mnemonic = "seed woman boy gadget ugly august damp swarm caught security top initial";
