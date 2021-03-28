@@ -1,1 +1,1 @@
-var mnemonic = "exclude quit derive input keep deny admit call denial tired exchange above";
+var mnemonic = "yellow jazz mail drop purity pluck crash carbon radar notice empty venue";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic detect student warrior topic draw into demise connect pipe fame burst";
+var mnemonic = "depth twelve ancient celery client course label injury life absurd pig rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "fame state tongue predict news surface foot eyebrow lecture cherry decade language";
+var mnemonic = "access escape peace trim citizen attack wisdom bronze pencil field hint maze";

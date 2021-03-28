@@ -1,1 +1,1 @@
-var mnemonic = "victory style eight lady impulse bicycle royal budget must drum artist turtle";
+var mnemonic = "patch tattoo deliver shed banner hotel bird velvet soda night coral divorce";

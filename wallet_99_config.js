@@ -1,1 +1,1 @@
-var mnemonic = "feed frozen sunny frame window identify cave defy rely pulse crumble secret";
+var mnemonic = "dolphin admit salt auction thunder credit slab logic brief trend decorate shoot";

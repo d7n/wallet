@@ -1,1 +1,1 @@
-var mnemonic = "sure hospital garage bright tonight ozone flat tag crucial tomato swallow warfare";
+var mnemonic = "put alter title push rapid annual wedding audit inhale merry joy tunnel";

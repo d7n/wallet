@@ -1,1 +1,1 @@
-var mnemonic = "woman engage say snap make few celery label ribbon such snap retreat";
+var mnemonic = "box hover truth buddy hotel away grace permit frequent moral absent remember";

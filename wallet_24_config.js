@@ -1,1 +1,1 @@
-var mnemonic = "raven oak tortoise limb quality possible survey educate stamp earth gold erase";
+var mnemonic = "safe lion two mandate return beyond october toe pulp fine pencil inject";

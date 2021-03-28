@@ -1,1 +1,1 @@
-var mnemonic = "mango base memory canvas legal ski process arrive skirt tell puzzle deer";
+var mnemonic = "length prison surge unlock real remember adult entry comfort rude supply frame";

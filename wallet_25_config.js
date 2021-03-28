@@ -1,1 +1,1 @@
-var mnemonic = "volcano magic bundle primary upgrade soda vapor winter hedgehog secret water civil";
+var mnemonic = "civil beach delay dance various space immune artist soon country fetch noble";

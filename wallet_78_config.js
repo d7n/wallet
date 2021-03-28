@@ -1,1 +1,1 @@
-var mnemonic = "diagram hockey elevator exile olympic hover shy will under mind first satisfy";
+var mnemonic = "smart dawn jump girl december cycle correct beyond donor comfort egg slow";

@@ -1,1 +1,1 @@
-var mnemonic = "census brush ghost eye clean little demise pitch common once like lab";
+var mnemonic = "midnight spider puzzle isolate hover stand gate pyramid dash rubber total present";

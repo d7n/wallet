@@ -1,1 +1,1 @@
-var mnemonic = "nation flavor hat nose common that peasant melt vacant office second concert";
+var mnemonic = "swim antenna will festival jaguar limb size practice swift decide drum sing";

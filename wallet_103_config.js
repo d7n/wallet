@@ -1,1 +1,1 @@
-var mnemonic = "leave virus bag drip witness ritual summer quote birth shiver over million";
+var mnemonic = "dress load eyebrow unfold fall truth thing injury special over prefer token";

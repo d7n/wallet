@@ -1,1 +1,1 @@
-var mnemonic = "differ market arrow junk aware own place silver tortoise they girl sweet";
+var mnemonic = "busy vicious kidney basic spirit stand twelve hurdle gospel warm room sure";

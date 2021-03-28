@@ -1,1 +1,1 @@
-var mnemonic = "spice glory that glad crawl smile six sense daring menu first slight";
+var mnemonic = "spread comfort slight vanish genius tank atom left unlock predict alter unhappy";

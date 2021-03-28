@@ -1,1 +1,1 @@
-var mnemonic = "snow sell slab horror arrive enter town rug cram income direct bachelor";
+var mnemonic = "motion brisk where float struggle version veteran all waste peasant sunset canal";

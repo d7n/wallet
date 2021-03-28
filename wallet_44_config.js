@@ -1,1 +1,1 @@
-var mnemonic = "sail theory sad view grant pear custom remind end category adapt share";
+var mnemonic = "leaf settle glue atom cloud require tragic wing when select category spirit";

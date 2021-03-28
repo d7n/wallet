@@ -1,1 +1,1 @@
-var mnemonic = "melt excess oppose friend eight poem humble erosion frost input apart broom";
+var mnemonic = "candy bargain orphan provide term carbon inflict panel neck fetch love silent";

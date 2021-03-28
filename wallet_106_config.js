@@ -1,1 +1,1 @@
-var mnemonic = "truly already catalog runway truly twice leisure demise oven crawl spider amateur";
+var mnemonic = "icon local service you filter describe dust dynamic ivory blue february safe";

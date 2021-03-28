@@ -1,1 +1,1 @@
-var mnemonic = "antique section dumb deal lava notice knock scout pill dismiss web differ";
+var mnemonic = "van race laptop settle latin history legal joke want pizza woman notice";

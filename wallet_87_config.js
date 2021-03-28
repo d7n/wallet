@@ -1,1 +1,1 @@
-var mnemonic = "art aware wedding dolphin person regular balance saddle joy bird token chronic";
+var mnemonic = "bulk analyst smoke birth fan dance memory mosquito security crew design quick";

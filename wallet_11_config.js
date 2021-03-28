@@ -1,1 +1,1 @@
-var mnemonic = "together goat drive bicycle equal like green host shift party moral science";
+var mnemonic = "assist focus process brisk device spare cart capable cushion ramp tumble crucial";

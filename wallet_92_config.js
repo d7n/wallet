@@ -1,1 +1,1 @@
-var mnemonic = "fancy glance gaze tomato survey mirror total acid amateur rare subway ocean";
+var mnemonic = "cotton guilt garden renew butter hazard response book rebel finger execute weapon";

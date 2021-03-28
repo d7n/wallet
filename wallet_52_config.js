@@ -1,1 +1,1 @@
-var mnemonic = "love you grief razor level draft defy small glare adult when toward";
+var mnemonic = "evil reject gain south ceiling awful false ensure will struggle record circle";

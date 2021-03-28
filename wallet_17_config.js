@@ -1,1 +1,1 @@
-var mnemonic = "clever soda high life follow august morning wrap case rival broom two";
+var mnemonic = "can proof manage remove system online hurdle learn trophy still into little";

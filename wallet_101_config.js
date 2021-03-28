@@ -1,1 +1,1 @@
-var mnemonic = "blame tail empower outer pilot system noble believe giggle truck flee fringe";
+var mnemonic = "danger rifle sponsor leg dial casino vicious olympic mosquito scissors clip word";

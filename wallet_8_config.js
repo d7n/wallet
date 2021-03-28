@@ -1,1 +1,1 @@
-var mnemonic = "defy risk melt birth toddler world direct blanket push demise luxury cushion";
+var mnemonic = "relief awkward hurt shove eternal market path rich rapid river aunt search";

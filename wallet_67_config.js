@@ -1,1 +1,1 @@
-var mnemonic = "blood able slide child betray over dutch also better digital pony evoke";
+var mnemonic = "iron bright tribe tennis fly flush hire spatial chalk advance mix sand";

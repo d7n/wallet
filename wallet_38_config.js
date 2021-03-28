@@ -1,1 +1,1 @@
-var mnemonic = "cloth hunt series extend brief south eye erase pipe access affair boring";
+var mnemonic = "cinnamon doctor screen pulse rail normal dash sock vibrant wreck wool dream";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden wide assist south ocean two train urge door outdoor dirt theme";
+var mnemonic = "ring plunge fee ozone glow often practice duty spirit sun forward wild";

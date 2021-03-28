@@ -1,1 +1,1 @@
-var mnemonic = "measure mean grace fresh december cute razor drip fitness day enjoy kingdom";
+var mnemonic = "flat bar kiwi ticket tent exile must evidence gasp process when search";

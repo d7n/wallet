@@ -1,1 +1,1 @@
-var mnemonic = "transfer wide provide ripple easy will verb laundry lumber abstract right goddess";
+var mnemonic = "around rice glad hover proof blur banner panel civil sniff category pudding";

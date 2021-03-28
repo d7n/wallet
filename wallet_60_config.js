@@ -1,1 +1,1 @@
-var mnemonic = "liberty fancy inject exercise pill paper you soap display behind catch help";
+var mnemonic = "brief lion into shaft code unable wash food peace eyebrow afford man";

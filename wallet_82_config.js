@@ -1,1 +1,1 @@
-var mnemonic = "benefit retire zoo demise border castle grunt endless more magic glimpse settle";
+var mnemonic = "minute mask metal trumpet fall lens else coin improve common kidney online";

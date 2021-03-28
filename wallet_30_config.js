@@ -1,1 +1,1 @@
-var mnemonic = "busy fluid silver indoor goddess return elegant regular crater giggle pudding know";
+var mnemonic = "neutral volume pioneer afford priority sail beauty cigar soap fix lion skull";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk awkward mix angle fuel satisfy emerge aspect job mesh begin defense";
+var mnemonic = "salute appear globe dash slice input chimney pink survey disease flush image";

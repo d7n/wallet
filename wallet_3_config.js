@@ -1,1 +1,1 @@
-var mnemonic = "penalty donor blue disagree welcome onion conduct program helmet fitness call grab";
+var mnemonic = "north carry judge gravity mesh juice drink orient kick skirt relief west";

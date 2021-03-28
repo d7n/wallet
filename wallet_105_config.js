@@ -1,1 +1,1 @@
-var mnemonic = "hover addict execute all payment cradle cool between humor bulb flee inject";
+var mnemonic = "scout clown problem enable sphere hood jelly pen tribe cave already ask";

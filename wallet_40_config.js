@@ -1,1 +1,1 @@
-var mnemonic = "critic goddess few evil poverty bag frog private spray slim soup try";
+var mnemonic = "glare gesture index icon alarm join behave west middle memory angry copy";

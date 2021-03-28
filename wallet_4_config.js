@@ -1,1 +1,1 @@
-var mnemonic = "frequent zebra add wrestle pitch weather first hungry witness color paper enroll";
+var mnemonic = "stage find stomach lottery rack child coast large journey east panther million";

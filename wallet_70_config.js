@@ -1,1 +1,1 @@
-var mnemonic = "inquiry talk push average lucky absurd riot normal canyon fuel loan promote";
+var mnemonic = "can soon dwarf pilot rug record shuffle example jeans wedding link speak";

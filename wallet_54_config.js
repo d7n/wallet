@@ -1,1 +1,1 @@
-var mnemonic = "all urban example rotate engine beach fiber utility riot broom weekend object";
+var mnemonic = "grass junior scheme chat boat solar drastic slab ridge library tray pistol";

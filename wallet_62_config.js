@@ -1,1 +1,1 @@
-var mnemonic = "junk tragic chair label bulb coconut plate hard ugly miss civil supply";
+var mnemonic = "shrimp eight drastic senior cycle twin volcano rib bread east vehicle lab";

@@ -1,1 +1,1 @@
-var mnemonic = "cannon join general labor bitter fly connect provide assault decide grape razor";
+var mnemonic = "enable material control dumb whip total cake attend march accident spy throw";

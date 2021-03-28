@@ -1,1 +1,1 @@
-var mnemonic = "lobster dinner clock second column elephant gloom file over ivory dice grab";
+var mnemonic = "captain omit trigger need canyon awful february radio around away admit catch";

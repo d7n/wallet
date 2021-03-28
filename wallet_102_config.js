@@ -1,1 +1,1 @@
-var mnemonic = "heavy person maid video drop payment subject extend relief powder lumber asthma";
+var mnemonic = "giant glow middle flavor post wise slice tilt grief riot typical try";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy rule width cable good wonder dolphin motion despair involve business welcome";
+var mnemonic = "siren like puppy figure bright example shove fault select music market april";

@@ -1,1 +1,1 @@
-var mnemonic = "throw surprise alley jealous reunion flat school utility lecture element royal dragon";
+var mnemonic = "cradle vapor abandon game stock clip mandate spike ugly surge target meat";

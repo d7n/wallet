@@ -1,1 +1,1 @@
-var mnemonic = "estate next similar ramp pumpkin recall frame popular spoil sign method million";
+var mnemonic = "guess twice budget follow nice quote supply device kind chaos devote grain";

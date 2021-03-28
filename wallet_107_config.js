@@ -1,1 +1,1 @@
-var mnemonic = "radio wash glad manage industry remove awake daring slogan multiply erosion blade";
+var mnemonic = "build tiny absurd ahead arena script crater code artwork bus acid school";

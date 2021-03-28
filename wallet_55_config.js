@@ -1,1 +1,1 @@
-var mnemonic = "boil stable certain fall hurt science submit toss estate blood flash follow";
+var mnemonic = "eagle leader puzzle waste corn blood brush orange source window high noodle";

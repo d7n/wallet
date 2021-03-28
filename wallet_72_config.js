@@ -1,1 +1,1 @@
-var mnemonic = "remind hole large hub dinosaur brown jazz radio whale because famous chimney";
+var mnemonic = "copper lyrics deny cradle song era fabric way work hurt bitter hero";

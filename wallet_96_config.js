@@ -1,1 +1,1 @@
-var mnemonic = "trade step anxiety slow loop consider curtain alien brand height youth screen";
+var mnemonic = "ranch mobile insect movie lift appear brisk force wheat business online annual";

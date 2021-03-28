@@ -1,1 +1,1 @@
-var mnemonic = "fetch mix expose nuclear chronic ancient seed legal world noodle black silly";
+var mnemonic = "dress two excite silent monkey luxury area daughter protect run goddess teach";

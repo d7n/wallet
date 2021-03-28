@@ -1,1 +1,1 @@
-var mnemonic = "weapon spot seminar hospital catch balance protect glory post subject amazing input";
+var mnemonic = "baby universe stock result old urban stadium blouse crunch mutual mimic crisp";

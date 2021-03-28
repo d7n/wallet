@@ -1,1 +1,1 @@
-var mnemonic = "soup feel switch wood marriage wide kid fiber decorate market exact sound";
+var mnemonic = "glove keen tail slim canyon ghost scorpion beauty wage run whisper rotate";

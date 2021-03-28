@@ -1,1 +1,1 @@
-var mnemonic = "cook anchor olympic mutual depth move imitate slot wealth sure box coil";
+var mnemonic = "dwarf universe prison correct ahead load remove coin cluster palace bread indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "morning volcano original retire grab oyster cram young glow scale illegal pool";
+var mnemonic = "pony danger artist ill purchase cabbage oppose attitude crunch annual chef adapt";

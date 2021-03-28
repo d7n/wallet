@@ -1,1 +1,1 @@
-var mnemonic = "box impact echo trade wool tool insect rice hub boring brother lady";
+var mnemonic = "organ link pilot destroy yard web mosquito dolphin meat abstract panda tomato";

@@ -1,1 +1,1 @@
-var mnemonic = "curve sorry rebuild lawn judge fan purpose rookie beyond exotic album juice";
+var mnemonic = "inmate nature brother owner forest replace mom wonder stomach render frequent secret";

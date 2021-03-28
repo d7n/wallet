@@ -1,1 +1,1 @@
-var mnemonic = "autumn flee health assault behind where rival column music output face key";
+var mnemonic = "clinic toast soul minimum where manage cover shell dash joke cattle pride";

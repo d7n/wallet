@@ -1,1 +1,1 @@
-var mnemonic = "poet labor useless blue melody filter panther curve will trend asthma light";
+var mnemonic = "lawsuit uniform transfer ribbon impact farm endless atom fatigue awake cannon extra";

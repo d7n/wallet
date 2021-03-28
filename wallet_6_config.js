@@ -1,1 +1,1 @@
-var mnemonic = "clay cricket paper certain differ limb glass repair various page hospital huge";
+var mnemonic = "elbow breeze expire water client congress junk window blade alpha lift stay";

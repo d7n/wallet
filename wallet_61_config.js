@@ -1,1 +1,1 @@
-var mnemonic = "oak drift try promote modify smart oxygen dial tell hungry long fine";
+var mnemonic = "kitchen model angry copper fly observe voice quit peace enable loan worth";

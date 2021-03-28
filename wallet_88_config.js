@@ -1,1 +1,1 @@
-var mnemonic = "abstract hour trap craft barely relief fuel develop build feel hope video";
+var mnemonic = "vendor slender know either demise soccer picnic clean kid hollow someone tip";

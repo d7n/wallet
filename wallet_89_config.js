@@ -1,1 +1,1 @@
-var mnemonic = "tape between noodle claw age lion arrange talent auto business pupil hospital";
+var mnemonic = "toss surround bright fortune cousin wrestle confirm hundred garlic weather steel learn";

@@ -1,1 +1,1 @@
-var mnemonic = "action pizza alpha core circle cup risk library simple wing run require";
+var mnemonic = "trick sound remind mansion divorce cream gap olympic bridge pepper evidence follow";

@@ -1,1 +1,1 @@
-var mnemonic = "survey derive yellow mother profit lawsuit tilt dismiss demand plate net auction";
+var mnemonic = "receive one mention pave goat remember shell inhale cage boy tiger sick";

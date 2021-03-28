@@ -1,1 +1,1 @@
-var mnemonic = "fade employ ozone body gold wave museum bottom rug balcony vast feed";
+var mnemonic = "another message skill cheap mouse traffic relax globe blind daughter innocent mistake";

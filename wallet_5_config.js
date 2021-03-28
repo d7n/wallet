@@ -1,1 +1,1 @@
-var mnemonic = "month slogan trigger faith jelly sock balcony ceiling lamp ketchup neck wear";
+var mnemonic = "razor elbow together mansion wagon lobster again cradle one excite virus vacuum";

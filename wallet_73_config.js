@@ -1,1 +1,1 @@
-var mnemonic = "fine secret pepper message between neutral aunt frozen artefact wonder pottery connect";
+var mnemonic = "lunar nest draw come danger wreck pistol add kite conduct senior candy";

@@ -1,1 +1,1 @@
-var mnemonic = "kite exist upgrade panic staff crunch rebel range spirit silly episode hero";
+var mnemonic = "little gold stuff barely sense crucial follow side battle tongue humble forward";

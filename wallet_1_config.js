@@ -1,1 +1,1 @@
-var mnemonic = "monitor couch admit coyote help spatial proof twelve jealous team put public";
+var mnemonic = "filter brisk annual embody theory expose state used another merry help job";

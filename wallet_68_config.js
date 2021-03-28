@@ -1,1 +1,1 @@
-var mnemonic = "six woman state verify middle peace similar foil skull float tribe flip";
+var mnemonic = "awkward upper rice foam adapt cushion coin humor flavor derive lady young";

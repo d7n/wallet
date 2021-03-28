@@ -1,1 +1,1 @@
-var mnemonic = "fetch soccer cluster debate tired plunge rubber laugh fashion play work load";
+var mnemonic = "fine pigeon oil pulse electric merge script minor three trigger atom govern";

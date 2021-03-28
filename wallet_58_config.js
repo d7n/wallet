@@ -1,1 +1,1 @@
-var mnemonic = "barely flash share abuse meat spring chicken canvas begin gold vivid brass";
+var mnemonic = "pact gown kitten salute swift crystal admit version decade peace depend affair";

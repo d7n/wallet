@@ -1,1 +1,1 @@
-var mnemonic = "boring extend card sausage oyster gown shadow below bring enemy vendor better";
+var mnemonic = "easily crisp giant barrel proud eight remember crisp solution forget dose secret";

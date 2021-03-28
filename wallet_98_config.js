@@ -1,1 +1,1 @@
-var mnemonic = "lecture year ignore immense reform corn mention relax hybrid minimum basket worry";
+var mnemonic = "bread thrive forward civil misery cake focus game fan bread tree parent";

@@ -1,1 +1,1 @@
-var mnemonic = "foil invite marble yard exercise ramp enter squirrel agree family olympic combine";
+var mnemonic = "pride shuffle sauce credit custom void wet oxygen easy galaxy giant protect";

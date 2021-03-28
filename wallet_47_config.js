@@ -1,1 +1,1 @@
-var mnemonic = "wet decrease waste volume behind huge garlic record train learn dolphin flat";
+var mnemonic = "film hire comic appear resource worry aspect swallow issue flower help iron";

@@ -1,1 +1,1 @@
-var mnemonic = "dove oven hip already breeze false blanket bronze dose network credit embark";
+var mnemonic = "tunnel assume drastic zero addict blast luxury color wasp dad boil unable";

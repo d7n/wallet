@@ -1,1 +1,1 @@
-var mnemonic = "planet option mechanic patrol cousin common fitness forum runway online hidden success";
+var mnemonic = "scorpion bottom hamster ski early collect hint bundle boat dry risk stadium";

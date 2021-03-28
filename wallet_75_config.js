@@ -1,1 +1,1 @@
-var mnemonic = "sniff resist soft comfort almost slight stove two cube mule tuna journey";
+var mnemonic = "ski fine another focus water tube winner viable poet version attack awkward";

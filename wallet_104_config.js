@@ -1,1 +1,1 @@
-var mnemonic = "little lottery avocado dune marine dentist derive stove smart uncover field radar";
+var mnemonic = "jar muffin wine exile walnut immense output blossom seat swear awkward medal";

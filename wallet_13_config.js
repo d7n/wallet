@@ -1,1 +1,1 @@
-var mnemonic = "enrich hold bag fold trophy belt spoon wet green rescue coil animal";
+var mnemonic = "urban tray struggle cat crucial home file hole hockey more debris judge";

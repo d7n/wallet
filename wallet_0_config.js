@@ -1,1 +1,1 @@
-var mnemonic = "celery mercy depth must picnic danger odor remove output electric thumb second";
+var mnemonic = "slot coach embody flower net apple witness begin journey mule clean enough";

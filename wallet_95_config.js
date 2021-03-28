@@ -1,1 +1,1 @@
-var mnemonic = "source pass champion public owner illegal curve vague hold matter wife warrior";
+var mnemonic = "atom endless uphold glimpse chalk left amount floor remember whisper student dose";

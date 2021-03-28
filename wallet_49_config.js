@@ -1,1 +1,1 @@
-var mnemonic = "stable emotion puppy object infant shine grief miracle kidney knife toilet estate";
+var mnemonic = "bring need best rent month exotic song apology scrub shine cool inquiry";

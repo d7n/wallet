@@ -1,1 +1,1 @@
-var mnemonic = "shadow shove answer insane torch endorse black maximum interest power bench exercise";
+var mnemonic = "frame woman match hotel pizza truck nurse blossom glimpse liquid note mail";

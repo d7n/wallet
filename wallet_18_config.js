@@ -1,1 +1,1 @@
-var mnemonic = "satisfy fall mosquito task mercy adjust marine history unique nest sibling bamboo";
+var mnemonic = "across six patient maze burst observe assist party scare cube knock adapt";

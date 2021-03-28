@@ -1,1 +1,1 @@
-var mnemonic = "purpose tired buddy inherit fatigue vacuum history catch opera advice shop link";
+var mnemonic = "brush click cannon motor finish cable napkin insane local allow light trust";

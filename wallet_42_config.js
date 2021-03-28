@@ -1,1 +1,1 @@
-var mnemonic = "sing endless toss earn usual lava wonder leisure captain control beauty guilt";
+var mnemonic = "nuclear final inner uphold help derive know renew bachelor lake taste hazard";
