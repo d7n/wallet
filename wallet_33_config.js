@@ -1,1 +1,1 @@
-var mnemonic = "tree kiwi slab snake right leader refuse scrap stomach arena struggle slim";
+var mnemonic = "pen situate aisle naive broom sell dynamic nest street river horror humor";

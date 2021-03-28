@@ -1,1 +1,1 @@
-var mnemonic = "second ball cluster enroll fun office dwarf spread road lottery reflect task";
+var mnemonic = "moment scare family black daring body palm oxygen embark peace picnic fever";

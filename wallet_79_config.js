@@ -1,1 +1,1 @@
-var mnemonic = "rapid element control soul begin thing maze call blade glare peace task";
+var mnemonic = "punch obey imitate common gun trip arrow long mechanic dolphin door example";

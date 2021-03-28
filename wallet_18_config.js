@@ -1,1 +1,1 @@
-var mnemonic = "lecture attitude before uniform pencil minute outer old cousin autumn collect pond";
+var mnemonic = "brisk ask bulk ring alpha leader domain roast item genuine subway unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble harbor capital stairs say ship over orphan throw mixed mean vendor";
+var mnemonic = "chicken evil express duty check doll okay purpose medal brother noble saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "vessel patrol trash bargain tongue coil aspect whip verify butter stand repeat";
+var mnemonic = "flat water host scatter bonus jaguar disease armed absorb disorder nose play";

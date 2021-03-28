@@ -1,1 +1,1 @@
-var mnemonic = "noodle mean cause mention slow tone sleep hundred napkin lobster travel cause";
+var mnemonic = "future method project sign general fringe estate relief copper oppose zone hybrid";

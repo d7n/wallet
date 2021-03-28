@@ -1,1 +1,1 @@
-var mnemonic = "unique agree shrimp female original client humble rib animal oblige report stadium";
+var mnemonic = "elegant gap laundry excess moral tiny host slide rebuild globe open room";

@@ -1,1 +1,1 @@
-var mnemonic = "crane tail top silly exit kite right ranch inform sing size book";
+var mnemonic = "method link pattern system marriage connect invest hedgehog advice cream cupboard trade";

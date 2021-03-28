@@ -1,1 +1,1 @@
-var mnemonic = "beach gasp pigeon orchard curve modify success raw vacant sudden guard clean";
+var mnemonic = "correct absurd alarm grocery bracket wheat claim drink syrup wealth enter great";

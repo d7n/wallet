@@ -1,1 +1,1 @@
-var mnemonic = "genre bag indoor famous trim gain banner appear wait kangaroo front city";
+var mnemonic = "street since inside battle label ordinary void agree artwork spare fortune sustain";

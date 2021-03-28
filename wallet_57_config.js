@@ -1,1 +1,1 @@
-var mnemonic = "spy debris flock eager object motion lazy true spoil behind crime region";
+var mnemonic = "tiger profit awkward surge awful punch spray wild speak maid human win";

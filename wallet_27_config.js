@@ -1,1 +1,1 @@
-var mnemonic = "pluck indoor version country address sea guilt auction dial crouch expire loop";
+var mnemonic = "amount coin broccoli feel deal report episode goddess copper genius blanket reopen";

@@ -1,1 +1,1 @@
-var mnemonic = "fog party digital network survey ozone awake kiss combine exotic penalty stock";
+var mnemonic = "pupil album island capital acquire planet maximum point assist stomach inherit entire";

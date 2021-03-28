@@ -1,1 +1,1 @@
-var mnemonic = "trap result razor window eight grace file relax service topic ceiling series";
+var mnemonic = "poet science describe travel surface jacket learn flavor century universe smooth sister";

@@ -1,1 +1,1 @@
-var mnemonic = "vote talk country range act asset head assault pulp pioneer special issue";
+var mnemonic = "spring daring truck fan identify soap police need toy arrive lottery medal";

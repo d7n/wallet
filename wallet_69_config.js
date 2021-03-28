@@ -1,1 +1,1 @@
-var mnemonic = "convince loud holiday person sugar dry liar antique lady keep brother receive";
+var mnemonic = "seek essence vacant worth combine accuse fine sense stairs slam deny demise";

@@ -1,1 +1,1 @@
-var mnemonic = "rocket piano hill sure resist burden despair undo large plastic position economy";
+var mnemonic = "soul small gold seminar alarm panel winter solid lava entry mail bless";

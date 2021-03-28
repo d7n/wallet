@@ -1,1 +1,1 @@
-var mnemonic = "subway minor icon try little scan state rough drum box fee gasp";
+var mnemonic = "fossil biology imitate traffic need forest grass thank polar pizza vivid bullet";

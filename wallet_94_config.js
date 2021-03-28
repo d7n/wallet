@@ -1,1 +1,1 @@
-var mnemonic = "divide foster catalog keen robust flat light supply ladder success merge dismiss";
+var mnemonic = "dizzy fix pioneer edge replace hill second sock beef echo exhibit glass";

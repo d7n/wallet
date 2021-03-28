@@ -1,1 +1,1 @@
-var mnemonic = "ritual jeans trumpet mother orchard trade ribbon ask water border hamster marble";
+var mnemonic = "scheme ecology lottery large badge sport lounge script this punch broken annual";

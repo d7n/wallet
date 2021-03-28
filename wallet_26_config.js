@@ -1,1 +1,1 @@
-var mnemonic = "artwork slam bike bone enemy impact garlic accident tuna shuffle gauge catch";
+var mnemonic = "clever drastic inherit summer local twice bridge put viable razor rough version";

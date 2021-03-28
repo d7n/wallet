@@ -1,1 +1,1 @@
-var mnemonic = "announce music weasel tide one knee fringe long settle interest advance time";
+var mnemonic = "dial general cave decorate identify drift actress flee guilt indicate arch much";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold nasty discover document ethics employ pioneer mimic toddler infant garbage roast";
+var mnemonic = "must little cruel occur zebra level chunk noodle chair enact sea ready";

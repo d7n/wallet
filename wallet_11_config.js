@@ -1,1 +1,1 @@
-var mnemonic = "wing minute exchange stool crater weird spike delay expand retire rubber wide";
+var mnemonic = "admit reward okay reject foil gift frequent delay arch grief index two";

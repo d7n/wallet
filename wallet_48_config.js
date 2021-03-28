@@ -1,1 +1,1 @@
-var mnemonic = "photo large lonely accident viable butter canal lecture mask cake bone coach";
+var mnemonic = "skirt moon useful cradle despair order luxury panther guard bless valve giraffe";

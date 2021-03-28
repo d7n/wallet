@@ -1,1 +1,1 @@
-var mnemonic = "fix check health unable marble satisfy ladder hunt curve diamond scrub autumn";
+var mnemonic = "adjust general bachelor inmate spoil lemon rice youth flat multiply outdoor organ";

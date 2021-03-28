@@ -1,1 +1,1 @@
-var mnemonic = "reflect flash rate melody daring glory puppy diary coconut polar intact pact";
+var mnemonic = "amateur insect tonight party certain broken armed novel evoke engine purse hunt";

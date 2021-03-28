@@ -1,1 +1,1 @@
-var mnemonic = "dune reward fade impact hour noble twist talent sugar palace dust hire";
+var mnemonic = "jungle own foot matrix green scrub sting asset soul ice draft aware";

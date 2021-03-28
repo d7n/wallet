@@ -1,1 +1,1 @@
-var mnemonic = "room genius enhance key mix math scale voyage else frequent arch deliver";
+var mnemonic = "acquire assist clutch resource estate canyon post half genuine hole february proud";

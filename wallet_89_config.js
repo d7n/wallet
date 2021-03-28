@@ -1,1 +1,1 @@
-var mnemonic = "mobile quit imitate talk people scorpion supply already race high hamster copper";
+var mnemonic = "off oil spring almost corn glance dragon page bag welcome upper frog";

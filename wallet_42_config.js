@@ -1,1 +1,1 @@
-var mnemonic = "come salad grunt trial vacant rail broken oak into educate modify elephant";
+var mnemonic = "sick perfect notice talent ten ramp bag shaft kind page jealous carbon";

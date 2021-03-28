@@ -1,1 +1,1 @@
-var mnemonic = "flush myself clerk talent effort segment huge ancient clever broccoli scrub load";
+var mnemonic = "oven truth provide goose gun olympic inherit awesome organ shaft father tell";

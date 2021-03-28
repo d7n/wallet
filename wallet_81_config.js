@@ -1,1 +1,1 @@
-var mnemonic = "castle lazy measure lizard symbol answer bicycle brain clip blue history fog";
+var mnemonic = "obtain state inject avocado fine skate uniform smoke sugar fit scrap virtual";

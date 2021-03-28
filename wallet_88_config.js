@@ -1,1 +1,1 @@
-var mnemonic = "prize card lesson learn tissue deliver inner hamster shiver cinnamon spread lesson";
+var mnemonic = "galaxy kit another silent series forest civil skill hour funny crane grief";

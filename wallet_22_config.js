@@ -1,1 +1,1 @@
-var mnemonic = "purchase viable immune proud anxiety ginger mixed shop truly since miracle salad";
+var mnemonic = "latin sibling burst bone tank narrow coast boy announce fit debris short";

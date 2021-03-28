@@ -1,1 +1,1 @@
-var mnemonic = "priority lonely issue company run thought autumn mail ramp reason eager rigid";
+var mnemonic = "tired super dilemma wear title easily light case police fade traffic moral";

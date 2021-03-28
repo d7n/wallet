@@ -1,1 +1,1 @@
-var mnemonic = "million rose vast roast sponsor high great exotic antenna vague civil render";
+var mnemonic = "produce faint fiber victory sadness salmon explain shop burden leopard toilet rain";

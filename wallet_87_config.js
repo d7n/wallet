@@ -1,1 +1,1 @@
-var mnemonic = "craft wash capable lonely example repeat combine season middle recycle gallery laundry";
+var mnemonic = "pudding deer define property debris live harbor tooth online split method walk";

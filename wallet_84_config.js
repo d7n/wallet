@@ -1,1 +1,1 @@
-var mnemonic = "define relax neck table foam scan shy govern soft foam clock bounce";
+var mnemonic = "clay near emerge panda alcohol donor shaft venue absurd lock tone combine";

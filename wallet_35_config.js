@@ -1,1 +1,1 @@
-var mnemonic = "blade just industry ozone relief upset mule dose mind tank small trim";
+var mnemonic = "cereal cloth enable double scan genre student bar escape trumpet sleep tired";

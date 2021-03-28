@@ -1,1 +1,1 @@
-var mnemonic = "salmon capital humble view swear anxiety monkey lion flash scissors million illness";
+var mnemonic = "squeeze apology fancy wrist among garlic lumber switch nominee subway grief effort";

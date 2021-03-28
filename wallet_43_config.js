@@ -1,1 +1,1 @@
-var mnemonic = "vicious large scale pudding banana endless coil myself canoe sadness garden scheme";
+var mnemonic = "ripple switch decline state frost promote eyebrow flavor barrel canoe later elevator";

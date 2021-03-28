@@ -1,1 +1,1 @@
-var mnemonic = "slush raw cushion churn vague insane call above can prepare mountain scrub";
+var mnemonic = "side front catalog wait crouch federal asset neither salad flag solution else";

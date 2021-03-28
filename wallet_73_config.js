@@ -1,1 +1,1 @@
-var mnemonic = "kitchen pear dutch sock mixture gauge timber shuffle kick permit cliff peanut";
+var mnemonic = "viable crop hair wild prepare upon comic keep chase vocal ordinary atom";

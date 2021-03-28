@@ -1,1 +1,1 @@
-var mnemonic = "bless observe change achieve since mixture photo swap machine violin crowd sail";
+var mnemonic = "depend pelican drop scene unusual gap mad brass leave same flee inhale";

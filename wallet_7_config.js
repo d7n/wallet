@@ -1,1 +1,1 @@
-var mnemonic = "setup occur shrimp penalty pill retire idea measure feature topic early end";
+var mnemonic = "blast news hill elder they near bonus gold ranch satisfy subject during";

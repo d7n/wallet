@@ -1,1 +1,1 @@
-var mnemonic = "drama nest wife what lake author rebuild vehicle trophy logic menu save";
+var mnemonic = "piano subway piano enroll flip wheat kind because sister network sadness arrow";

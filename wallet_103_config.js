@@ -1,1 +1,1 @@
-var mnemonic = "similar erupt bubble disorder balcony wealth build chest school assault person dumb";
+var mnemonic = "aspect artist multiply cook boss patch woman civil capable give kidney blade";

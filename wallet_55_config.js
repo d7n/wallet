@@ -1,1 +1,1 @@
-var mnemonic = "attract fault napkin mosquito stick fine general evolve park case early erosion";
+var mnemonic = "hockey used tonight eyebrow labor capable select follow embark smile shell culture";

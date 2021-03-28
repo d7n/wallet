@@ -1,1 +1,1 @@
-var mnemonic = "cube all scheme frozen afraid method canal delay addict blur pitch dumb";
+var mnemonic = "remind inspire case whip blanket tornado mosquito buffalo faint balcony chief average";

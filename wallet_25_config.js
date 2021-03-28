@@ -1,1 +1,1 @@
-var mnemonic = "layer forget flash move trend rescue mix razor proof media mesh jealous";
+var mnemonic = "topple elite nominee hire check hub intact cat report power weasel web";

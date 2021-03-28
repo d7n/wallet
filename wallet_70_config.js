@@ -1,1 +1,1 @@
-var mnemonic = "small festival permit north giggle champion thing vicious acid lobster lake frost";
+var mnemonic = "nurse calm charge pull frequent organ tourist sadness remember vendor fog verb";

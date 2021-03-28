@@ -1,1 +1,1 @@
-var mnemonic = "nerve bottom marble exhaust choose where inner cousin judge disease invite film";
+var mnemonic = "they easy assist public sign busy talent moment step shift powder bonus";

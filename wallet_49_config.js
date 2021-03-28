@@ -1,1 +1,1 @@
-var mnemonic = "scorpion small cereal ride tree certain genuine boil ridge indoor left moon";
+var mnemonic = "swamp play region discover all payment universe can become lava bind abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "supply extra believe day grass reflect another umbrella myth frozen gown ten";
+var mnemonic = "purchase valid wise dry render farm ramp crumble cargo salute pretty tennis";

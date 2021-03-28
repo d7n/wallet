@@ -1,1 +1,1 @@
-var mnemonic = "master frame shoe shaft window embrace hawk often replace retreat rude margin";
+var mnemonic = "nut plastic peanut sample harsh merit enable near day panel penalty arctic";

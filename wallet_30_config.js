@@ -1,1 +1,1 @@
-var mnemonic = "hidden half crash chronic ripple addict wrist culture coin network improve february";
+var mnemonic = "pig eight again mass praise velvet trip injury series empower snake truth";

@@ -1,1 +1,1 @@
-var mnemonic = "van virtual mix derive endless network smile speed question orient crew abandon";
+var mnemonic = "nose annual extra elite one oak awesome become fit tank survey noodle";

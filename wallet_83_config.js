@@ -1,1 +1,1 @@
-var mnemonic = "garden day salute evoke siege cherry good order region voyage river move";
+var mnemonic = "describe weapon novel salute curious police oxygen calm march when country crisp";

@@ -1,1 +1,1 @@
-var mnemonic = "detect try shaft gift belt journey drip crater nerve prepare bamboo obvious";
+var mnemonic = "dinosaur judge ride dad body state stock weekend force surround season cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "snap horror mosquito little bring general water sniff verify bitter eternal bring";
+var mnemonic = "swallow siege face chase essence thank crash neutral exercise regular bid mango";

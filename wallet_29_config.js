@@ -1,1 +1,1 @@
-var mnemonic = "chef clog iron edge armed relief just immune faith cream current syrup";
+var mnemonic = "dutch number aim jazz daughter broken run deny warrior reform execute wedding";

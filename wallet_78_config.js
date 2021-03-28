@@ -1,1 +1,1 @@
-var mnemonic = "skin trend average domain clown curious they doctor broccoli during oval evoke";
+var mnemonic = "cigar pony dose original light syrup face silk warrior clean feature file";

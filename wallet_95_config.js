@@ -1,1 +1,1 @@
-var mnemonic = "install culture sport flip write debate tell token bottom first chronic absent";
+var mnemonic = "sorry quiz six filter write inmate lawn august skirt atom plastic young";

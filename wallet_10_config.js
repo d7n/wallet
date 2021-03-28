@@ -1,1 +1,1 @@
-var mnemonic = "wedding short seek thank resource search broken swap retire truly flip hire";
+var mnemonic = "fork final hidden dutch protect autumn whisper slim air person symptom dynamic";

@@ -1,1 +1,1 @@
-var mnemonic = "million estate access crush paper muscle cover improve exclude inflict mad warfare";
+var mnemonic = "begin lawn lava parade pulp ring nurse middle clarify local two three";

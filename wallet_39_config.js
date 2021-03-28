@@ -1,1 +1,1 @@
-var mnemonic = "advice swallow harvest shrug key version invest tomato grant cactus describe expand";
+var mnemonic = "random dad spend era sell abuse leisure chapter zebra false planet cushion";

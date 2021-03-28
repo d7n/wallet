@@ -1,1 +1,1 @@
-var mnemonic = "add erupt inch access angry dinosaur charge miss lawsuit legal owner hammer";
+var mnemonic = "illness tonight behind quiz orphan crouch impose pencil body chuckle rich retire";

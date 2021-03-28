@@ -1,1 +1,1 @@
-var mnemonic = "drum glass smooth select degree swim obvious prepare whisper stool trouble swap";
+var mnemonic = "census day peanut best page dynamic juice miss call moment sell picnic";

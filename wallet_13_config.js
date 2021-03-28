@@ -1,1 +1,1 @@
-var mnemonic = "ginger credit beauty fuel vast tornado clay chef treat spawn exact cheap";
+var mnemonic = "churn comfort focus impose ladder off injury diamond because expect define trust";

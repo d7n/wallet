@@ -1,1 +1,1 @@
-var mnemonic = "glory flight prefer network correct you iron worry conduct found injury balcony";
+var mnemonic = "off bicycle trust hour disease galaxy easy number diary always wolf corn";

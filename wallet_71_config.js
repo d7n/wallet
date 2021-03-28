@@ -1,1 +1,1 @@
-var mnemonic = "check journey month body wonder paddle hospital south token insect spike tiny";
+var mnemonic = "perfect argue benefit erode wedding donate scissors orange chat weird green enroll";

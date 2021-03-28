@@ -1,1 +1,1 @@
-var mnemonic = "diamond false client injury any prefer abstract shy remind heart horse between";
+var mnemonic = "gift tank baby answer fatal identify eagle crunch sting poet survey floor";

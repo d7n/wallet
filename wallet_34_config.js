@@ -1,1 +1,1 @@
-var mnemonic = "idea blame blossom notice key drink figure blast hunt wise ritual mom";
+var mnemonic = "stick trash suggest flush bench dress barrel onion fantasy solar enough velvet";

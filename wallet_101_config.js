@@ -1,1 +1,1 @@
-var mnemonic = "coil power best cash beauty top inherit scorpion lumber awful phrase sudden";
+var mnemonic = "drip truth noise account logic police question bike peace follow bottom draw";

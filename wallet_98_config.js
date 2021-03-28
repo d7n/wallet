@@ -1,1 +1,1 @@
-var mnemonic = "echo disagree champion cement panther mother caught cycle shock nominee display indicate";
+var mnemonic = "voyage chief history ride little shaft typical side flock gospel team enlist";

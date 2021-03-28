@@ -1,1 +1,1 @@
-var mnemonic = "biology garden kitten april ritual ski soup click act tumble sea wage";
+var mnemonic = "rebuild focus theory reform fox fiction squeeze clerk theory barrel museum kidney";

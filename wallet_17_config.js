@@ -1,1 +1,1 @@
-var mnemonic = "firm add ozone weird eight reform wagon surface become bag dwarf cable";
+var mnemonic = "shoulder company help trend animal throw tank laundry level refuse rare scrub";

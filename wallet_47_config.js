@@ -1,1 +1,1 @@
-var mnemonic = "cheese hub endorse fog zebra ozone wire extra seat derive damage easily";
+var mnemonic = "tortoise movie enact together design jelly person moment vault office supply file";

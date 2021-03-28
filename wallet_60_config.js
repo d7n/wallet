@@ -1,1 +1,1 @@
-var mnemonic = "right hover hawk tower jungle tired secret swim fish coast happy glide";
+var mnemonic = "banner gown length stereo permit bird tilt pond despair system liberty afford";

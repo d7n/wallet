@@ -1,1 +1,1 @@
-var mnemonic = "concert night space lab pulse sport ethics camp library armed taste frame";
+var mnemonic = "expect mixed poverty wild catch maid elder repair process carry into cloud";

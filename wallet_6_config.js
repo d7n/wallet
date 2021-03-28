@@ -1,1 +1,1 @@
-var mnemonic = "yard bind story slide frequent pen allow mass obey friend exist elder";
+var mnemonic = "private saddle vicious audit humor verb garlic mechanic help rookie choice slender";

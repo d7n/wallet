@@ -1,1 +1,1 @@
-var mnemonic = "dream lonely museum bonus fatigue verb note language puzzle high fold advance";
+var mnemonic = "shoe flame flight payment deliver asthma cancel order frog police meadow voice";

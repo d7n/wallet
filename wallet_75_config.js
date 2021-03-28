@@ -1,1 +1,1 @@
-var mnemonic = "ancient inhale animal drip pass witness metal elder below elegant brand phrase";
+var mnemonic = "demise pet flip unfair weasel crew muscle brave appear rely pole recipe";

@@ -1,1 +1,1 @@
-var mnemonic = "sad table wish pet fine one mean squirrel stereo artefact trust absent";
+var mnemonic = "drum taste forward genre excess absorb tree right chase fatigue notable tone";

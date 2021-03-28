@@ -1,1 +1,1 @@
-var mnemonic = "give rice width circle come sun desk dirt close submit truck comfort";
+var mnemonic = "fortune envelope cheap stove twin detail woman head destroy blue guess wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify bachelor child decline verb style turn seek drastic cute garlic subway";
+var mnemonic = "alien ship series own decrease tiger butter helmet south viable carbon shove";

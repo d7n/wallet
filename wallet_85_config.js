@@ -1,1 +1,1 @@
-var mnemonic = "whisper two water hello abstract pipe become burden trim among viable expand";
+var mnemonic = "satisfy arrest cave squeeze neck benefit dismiss beef door play nephew endorse";

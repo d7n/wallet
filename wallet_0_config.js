@@ -1,1 +1,1 @@
-var mnemonic = "simple course enable equip spy payment soldier advance document skate punch spider";
+var mnemonic = "salon stock spice salad improve unknown mouse crop pizza myself debate neutral";

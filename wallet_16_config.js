@@ -1,1 +1,1 @@
-var mnemonic = "talent loan comfort buzz shed loyal drip buffalo young betray album fall";
+var mnemonic = "enjoy bachelor mushroom program remember talk family glow audit matrix skirt almost";

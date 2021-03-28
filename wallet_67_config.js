@@ -1,1 +1,1 @@
-var mnemonic = "vocal analyst zoo team method window master divide swap squirrel sell laugh";
+var mnemonic = "original unit bag beyond daughter address topic broken eyebrow question tide hungry";

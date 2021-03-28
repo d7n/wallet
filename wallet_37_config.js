@@ -1,1 +1,1 @@
-var mnemonic = "series glimpse matrix tenant shock cannon digital federal peanut multiply sense sheriff";
+var mnemonic = "guess friend crowd sausage seat endless police tent emotion foster focus equal";

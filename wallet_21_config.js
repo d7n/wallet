@@ -1,1 +1,1 @@
-var mnemonic = "three person cream kingdom win outer apart lecture elegant purchase siege crew";
+var mnemonic = "crime can toss render cancel clock salt amateur doctor derive east close";
