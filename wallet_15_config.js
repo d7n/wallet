@@ -1,1 +1,1 @@
-var mnemonic = "garlic license baby rib accident forward youth report embody saddle raise coral";
+var mnemonic = "play style apology invite ghost small matrix nothing close cart panther flip";

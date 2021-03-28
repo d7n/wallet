@@ -1,1 +1,1 @@
-var mnemonic = "venture cruise hotel improve blossom want plate wool stay fashion monster orange";
+var mnemonic = "nice ozone latin camp real pig crime sibling game future category notice";

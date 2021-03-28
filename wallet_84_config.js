@@ -1,1 +1,1 @@
-var mnemonic = "drum urban bicycle found depart unaware trend veteran urge tooth collect earth";
+var mnemonic = "error luggage hour catch system able trip silly luxury man buzz squirrel";

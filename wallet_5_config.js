@@ -1,1 +1,1 @@
-var mnemonic = "mother circle sustain price dress crane main creek differ save space tent";
+var mnemonic = "check master rug walk own olympic shoot hawk recall tone glue garage";

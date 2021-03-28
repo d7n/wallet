@@ -1,1 +1,1 @@
-var mnemonic = "edge casual whale village oblige mom peanut disease adult deposit elegant post";
+var mnemonic = "solve draft place ridge dove occur lake clean island knife noble lobster";

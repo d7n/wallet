@@ -1,1 +1,1 @@
-var mnemonic = "razor obscure library because floor cloth army harvest kiwi rose fiber grab";
+var mnemonic = "cube easy trigger fabric alert frost hybrid leopard place doll ice gravity";

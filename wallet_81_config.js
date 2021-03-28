@@ -1,1 +1,1 @@
-var mnemonic = "brown crisp skill network unhappy loud prosper very sudden vacant box genuine";
+var mnemonic = "addict blind bring kit proud morning toilet typical spring brain scout wheel";

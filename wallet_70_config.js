@@ -1,1 +1,1 @@
-var mnemonic = "blouse bacon vapor valley pact churn reward aware grocery gym language absorb";
+var mnemonic = "hybrid hello stamp collect affair parent gasp december kind mule boy diary";

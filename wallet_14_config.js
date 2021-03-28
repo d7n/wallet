@@ -1,1 +1,1 @@
-var mnemonic = "jeans note credit burger old primary inch general lumber victory royal keen";
+var mnemonic = "coyote size forward life credit invite cherry rose output process endorse area";

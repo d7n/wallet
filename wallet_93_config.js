@@ -1,1 +1,1 @@
-var mnemonic = "fatal link foil slender behind alter skirt govern myself garden repeat build";
+var mnemonic = "illness solid purpose switch away skull pyramid nature plate define original gravity";

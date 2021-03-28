@@ -1,1 +1,1 @@
-var mnemonic = "cheap pill present food exit sketch brief merit rate tree mirror desk";
+var mnemonic = "deny allow above hour axis expand enforce mushroom scare amateur amount film";

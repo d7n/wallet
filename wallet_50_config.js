@@ -1,1 +1,1 @@
-var mnemonic = "magic identify rice such final frost teach carbon climb split okay spike";
+var mnemonic = "board ship resource mystery hamster rely dilemma bundle gravity struggle random bridge";

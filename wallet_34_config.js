@@ -1,1 +1,1 @@
-var mnemonic = "woman aim spell science retreat disease need inside often away hood curve";
+var mnemonic = "aspect increase zero image fragile nasty cover buddy hub increase useless doctor";

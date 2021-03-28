@@ -1,1 +1,1 @@
-var mnemonic = "tumble toward hint swear riot grab flash culture citizen tree glare isolate";
+var mnemonic = "rifle inch garden guess tired atom put weird tent obey ability often";

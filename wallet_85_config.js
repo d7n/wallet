@@ -1,1 +1,1 @@
-var mnemonic = "armor ring inflict easy brief forest noble poverty organ moment recall crater";
+var mnemonic = "settle wool cricket cabin fortune govern genuine giraffe permit rail civil spoon";

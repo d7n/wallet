@@ -1,1 +1,1 @@
-var mnemonic = "record student access remove canoe party radar debris tourist joy clog timber";
+var mnemonic = "shy resource fantasy husband coach exit nephew diet virus wife glass carry";

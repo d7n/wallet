@@ -1,1 +1,1 @@
-var mnemonic = "gun length flower crisp nasty work inflict flee conduct test together attract";
+var mnemonic = "rain humble nothing afraid advance caught kangaroo skate chair tooth certain woman";

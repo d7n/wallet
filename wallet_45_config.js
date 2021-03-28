@@ -1,1 +1,1 @@
-var mnemonic = "odor one north season motor settle fatigue betray frown service gym push";
+var mnemonic = "benefit arena album act chair gentle patch alter pluck honey zone topic";

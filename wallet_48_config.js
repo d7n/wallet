@@ -1,1 +1,1 @@
-var mnemonic = "current bind burger clap relief crumble dentist will regret science zone cat";
+var mnemonic = "purchase scan inmate knock network differ wagon bless alley ball pull inform";

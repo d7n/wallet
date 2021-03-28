@@ -1,1 +1,1 @@
-var mnemonic = "adult claw token dilemma ahead craft noodle term satisfy either predict print";
+var mnemonic = "discover firm tornado brick outer emotion opera warm runway onion country jar";

@@ -1,1 +1,1 @@
-var mnemonic = "happy describe claw fiscal make member aisle tobacco raw census small supreme";
+var mnemonic = "limit lunch scene correct source impulse repair similar visit cupboard bracket mom";

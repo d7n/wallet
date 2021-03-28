@@ -1,1 +1,1 @@
-var mnemonic = "common middle wait alpha attract skull congress area series clump series captain";
+var mnemonic = "clinic dose wrong rather suffer adjust arrive party green inform coach load";

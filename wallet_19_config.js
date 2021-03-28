@@ -1,1 +1,1 @@
-var mnemonic = "maximum shine echo fee hotel ugly obscure duty soft bring alert force";
+var mnemonic = "artefact require peanut slow club clog gown ketchup ostrich spice funny anchor";

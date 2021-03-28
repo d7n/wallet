@@ -1,1 +1,1 @@
-var mnemonic = "rotate near put drip test smile feed laundry rival blouse kite inch";
+var mnemonic = "film armed bargain affair setup garage slim humble dress panel kite paper";

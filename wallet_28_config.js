@@ -1,1 +1,1 @@
-var mnemonic = "eternal panel faculty draft odor body salute resource stomach alpha feel mom";
+var mnemonic = "shine credit screen heavy brain round chicken sunny way bench history poverty";

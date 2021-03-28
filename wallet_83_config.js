@@ -1,1 +1,1 @@
-var mnemonic = "uniform acoustic engage machine grass curious tortoise sentence they horse book sand";
+var mnemonic = "dismiss corn guitar focus unhappy raise vast sort okay defy capable tattoo";

@@ -1,1 +1,1 @@
-var mnemonic = "soft act wet robot bulk title uphold little wish crane air autumn";
+var mnemonic = "baby unit save actual oak galaxy stay abuse leopard thought camp rude";

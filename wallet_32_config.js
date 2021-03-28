@@ -1,1 +1,1 @@
-var mnemonic = "phone traffic noise random home hotel puppy mechanic raw burger liquid hair";
+var mnemonic = "project couch first sunny lumber add pyramid cube truly village marble bubble";

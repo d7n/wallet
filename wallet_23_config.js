@@ -1,1 +1,1 @@
-var mnemonic = "cup stomach balance road actor erode marble erupt quality file join acquire";
+var mnemonic = "mansion harvest hunt pink era steel weather social duty next bleak accuse";

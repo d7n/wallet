@@ -1,1 +1,1 @@
-var mnemonic = "chalk legal curious elbow voice action crane describe inject snow vendor maze";
+var mnemonic = "lava game inmate alcohol light kidney note defy holiday grace laptop addict";

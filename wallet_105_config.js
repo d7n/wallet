@@ -1,1 +1,1 @@
-var mnemonic = "lobster clinic credit hedgehog aim cry urban sample meadow display crop review";
+var mnemonic = "space between grant punch settle lobster survey multiply hobby coil improve together";

@@ -1,1 +1,1 @@
-var mnemonic = "garlic write sweet intact stomach blouse clerk law urge calm attack cycle";
+var mnemonic = "sort clarify cover device side simple window orchard rifle wave trigger carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "school snow jazz rate bracket oppose dune rough weapon habit solve theory";
+var mnemonic = "correct mixture february spread around few smart judge window divide enemy liar";

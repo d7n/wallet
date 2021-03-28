@@ -1,1 +1,1 @@
-var mnemonic = "actress super buffalo leg tone rice coyote dose alien juice garlic witness";
+var mnemonic = "business cradle palace escape accident buddy useless sudden reunion myself regular crystal";

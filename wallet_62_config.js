@@ -1,1 +1,1 @@
-var mnemonic = "door metal mind kingdom odor joy indoor together define gap net kick";
+var mnemonic = "witness member seek fame deer among submit awake final iron trim novel";

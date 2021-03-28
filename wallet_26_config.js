@@ -1,1 +1,1 @@
-var mnemonic = "luxury glimpse chalk twice nerve small advice antenna stay dash crazy roof";
+var mnemonic = "reopen vacant pole menu enforce great foam history matrix adjust crater holiday";

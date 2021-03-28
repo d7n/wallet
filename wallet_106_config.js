@@ -1,1 +1,1 @@
-var mnemonic = "give outside actress mechanic emotion ghost wreck evoke unfair movie pipe float";
+var mnemonic = "drill aspect phone magic elite creek adult reject nest whale awkward gossip";

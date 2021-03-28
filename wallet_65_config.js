@@ -1,1 +1,1 @@
-var mnemonic = "clever adult boring master pond advance fall siege more doctor love drama";
+var mnemonic = "tree zoo zoo already agent input left rule garage room fit version";

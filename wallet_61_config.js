@@ -1,1 +1,1 @@
-var mnemonic = "legal march drive uncle remain hidden bench beauty must meat seat fork";
+var mnemonic = "crumble bamboo adult evidence flock emotion accident dose rule pluck useless wagon";

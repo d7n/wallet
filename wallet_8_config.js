@@ -1,1 +1,1 @@
-var mnemonic = "skill retire bitter oak reunion embrace dove scissors piano vague grow asset";
+var mnemonic = "balcony fiber crop energy craft all garbage neck tooth apple sudden scissors";

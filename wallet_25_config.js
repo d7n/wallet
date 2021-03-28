@@ -1,1 +1,1 @@
-var mnemonic = "stereo danger ranch agent doctor nominee maid foil rain hill green unaware";
+var mnemonic = "brave rapid small jump industry plastic purity mother enough eagle ensure social";

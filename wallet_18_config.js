@@ -1,1 +1,1 @@
-var mnemonic = "artefact anchor just mushroom earth emotion example much hundred nasty vessel fork";
+var mnemonic = "abstract there leopard diet source cricket tooth sad east indoor volume old";

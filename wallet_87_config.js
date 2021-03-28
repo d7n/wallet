@@ -1,1 +1,1 @@
-var mnemonic = "awful absent slot clay tobacco shine mango nurse neck way please orchard";
+var mnemonic = "dutch spoil path soft burden style roof invest box universe bone cotton";

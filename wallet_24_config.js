@@ -1,1 +1,1 @@
-var mnemonic = "silent merit among census comic mirror cactus shoe only clip virus two";
+var mnemonic = "lady brown pulse idle layer chase home marble endorse cream produce demand";

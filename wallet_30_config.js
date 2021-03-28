@@ -1,1 +1,1 @@
-var mnemonic = "detect jungle excess faint present kid garment mystery prefer olive job stereo";
+var mnemonic = "neck mother scorpion mesh cover car wasp suffer limb document few seminar";

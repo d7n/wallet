@@ -1,1 +1,1 @@
-var mnemonic = "lake unveil canyon police adult reopen agree latin surge bicycle treat walk";
+var mnemonic = "time saddle wood word embark gossip begin citizen already moral vacuum someone";

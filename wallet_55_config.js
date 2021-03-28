@@ -1,1 +1,1 @@
-var mnemonic = "joke knock fence review fortune promote term curve hamster again shadow scorpion";
+var mnemonic = "happy waste demand remove combine pepper video whip cricket vanish coyote voyage";

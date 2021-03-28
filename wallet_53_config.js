@@ -1,1 +1,1 @@
-var mnemonic = "vapor equip remove retire loud ecology fantasy member pumpkin cotton stairs join";
+var mnemonic = "shrug nuclear giraffe topic cricket young direct skill live omit hen train";

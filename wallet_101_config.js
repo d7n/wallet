@@ -1,1 +1,1 @@
-var mnemonic = "refuse slim goat general path effort rhythm keen void behave detail verb";
+var mnemonic = "sure fatigue clinic fish life grant biology dumb dry deer minute debris";

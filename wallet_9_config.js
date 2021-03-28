@@ -1,1 +1,1 @@
-var mnemonic = "banner toward ability seed funny tuition bamboo error minimum merge salmon excuse";
+var mnemonic = "social express winter puppy vivid before wrist hat suit expose inch brain";

@@ -1,1 +1,1 @@
-var mnemonic = "state muffin stadium ranch around easy jacket injury hotel glow champion injury";
+var mnemonic = "merry teach boss order enforce labor raccoon dawn neck reform argue else";

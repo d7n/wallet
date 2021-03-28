@@ -1,1 +1,1 @@
-var mnemonic = "state cruise clap trumpet velvet way tribe aunt gallery math parent exist";
+var mnemonic = "boost there silk during goose slender glass arch author polar yard speed";

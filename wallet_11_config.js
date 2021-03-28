@@ -1,1 +1,1 @@
-var mnemonic = "affair expose disease attract decade jaguar utility hip hamster health melt sight";
+var mnemonic = "poet material tag once series impulse home daughter sun layer scorpion rapid";

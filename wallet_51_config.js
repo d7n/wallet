@@ -1,1 +1,1 @@
-var mnemonic = "snap duck stove wage cloth picnic hamster include cage health sound before";
+var mnemonic = "thumb stove object charge mammal thumb firm glance knee prevent bundle nephew";

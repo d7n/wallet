@@ -1,1 +1,1 @@
-var mnemonic = "ahead old always zone doll portion melt patrol nurse proud second alley";
+var mnemonic = "teach twin round grace attack lazy museum butter alcohol proof flat aware";

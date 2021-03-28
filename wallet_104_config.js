@@ -1,1 +1,1 @@
-var mnemonic = "canal library group castle large depart below coyote brief spirit exist cheese";
+var mnemonic = "before inch spring more fine involve collect cruel voice awkward sense twice";

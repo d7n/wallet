@@ -1,1 +1,1 @@
-var mnemonic = "purse increase pave black tonight side hedgehog duty warm deer hard found";
+var mnemonic = "peace company crew item tribe disagree spell alone soap winner local race";

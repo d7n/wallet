@@ -1,1 +1,1 @@
-var mnemonic = "turkey cousin warrior park city review dawn situate type law tunnel okay";
+var mnemonic = "sniff arrest adjust caution obvious fiscal copy tip faith palm ugly yellow";

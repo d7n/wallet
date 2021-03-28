@@ -1,1 +1,1 @@
-var mnemonic = "lens avoid suit force orchard stand other pool pull nest bar genre";
+var mnemonic = "volcano kit nominee female wheel harvest mushroom pear stamp permit basket among";

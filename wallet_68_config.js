@@ -1,1 +1,1 @@
-var mnemonic = "divide circle they butter chuckle receive subway noble update defy remind chief";
+var mnemonic = "sudden twin scare almost embark profit route oil salmon salon roast left";

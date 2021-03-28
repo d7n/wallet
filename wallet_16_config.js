@@ -1,1 +1,1 @@
-var mnemonic = "pull popular squirrel goat bamboo trick sample rose field apart destroy service";
+var mnemonic = "capital churn purity endless cause law hope drastic hat bullet bubble hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "kite brief shrug crunch remember master cruel anger vault wonder over prize";
+var mnemonic = "wink improve viable walk parade mail solution response film charge insect hover";

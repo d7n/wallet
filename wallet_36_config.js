@@ -1,1 +1,1 @@
-var mnemonic = "setup inch frequent amused kitchen daughter coach basket reward similar lava kidney";
+var mnemonic = "brand brass truly alter laundry kangaroo display alter demise hamster critic traffic";

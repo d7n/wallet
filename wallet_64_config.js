@@ -1,1 +1,1 @@
-var mnemonic = "solid arch reveal popular leg mosquito capable express pool rural retire corn";
+var mnemonic = "hurt chat school embody admit modify force wheel favorite guilt faculty still";

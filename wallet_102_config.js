@@ -1,1 +1,1 @@
-var mnemonic = "phone tell tattoo kangaroo absurd twice square private alarm shine alley display";
+var mnemonic = "inform annual jump mirror detail enrich someone gun milk wine track entire";

@@ -1,1 +1,1 @@
-var mnemonic = "caught erode exchange swap sense wrestle income choose curious direct repair tag";
+var mnemonic = "catalog true fiber allow behave one just message rice cry step tumble";

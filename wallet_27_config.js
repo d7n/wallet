@@ -1,1 +1,1 @@
-var mnemonic = "aim light disagree fetch toe cake key garbage monster clock behind space";
+var mnemonic = "shock dune rich project tag street wealth heavy trick edit dolphin used";

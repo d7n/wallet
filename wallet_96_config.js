@@ -1,1 +1,1 @@
-var mnemonic = "champion cherry replace clutch angry tail space notice cluster puzzle robust despair";
+var mnemonic = "renew atom train plastic trust tower badge forget will ball oppose conduct";

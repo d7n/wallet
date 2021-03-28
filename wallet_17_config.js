@@ -1,1 +1,1 @@
-var mnemonic = "ladder effort sure artwork bamboo math leader health ski ensure pet crew";
+var mnemonic = "stamp code faith link bonus ghost clerk eager cable tooth addict cushion";

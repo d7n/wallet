@@ -1,1 +1,1 @@
-var mnemonic = "rigid peasant thought wrist chaos indicate derive mutual knife glass garment journey";
+var mnemonic = "cradle consider island weird enough path spot rival tomorrow obtain model practice";

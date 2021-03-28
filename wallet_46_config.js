@@ -1,1 +1,1 @@
-var mnemonic = "elegant void cake assault same trap purse panic noise slot favorite tide";
+var mnemonic = "picture injury hazard list debris mind comfort void gentle art swim divide";

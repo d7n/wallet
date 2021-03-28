@@ -1,1 +1,1 @@
-var mnemonic = "such heart only wing club law sock act supreme soda dune bacon";
+var mnemonic = "where split rhythm describe figure walk banner prosper disease pact drip potato";

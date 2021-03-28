@@ -1,1 +1,1 @@
-var mnemonic = "notable cruel squirrel earth opinion brass garment fun before endless digital please";
+var mnemonic = "concert crouch since tape eternal fortune bread fuel puppy truth ill jelly";

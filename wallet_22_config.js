@@ -1,1 +1,1 @@
-var mnemonic = "member age seminar tired deposit leopard grief debris auto slender duck apple";
+var mnemonic = "neglect advance wasp erosion foster crane frown fantasy bid excite salt icon";

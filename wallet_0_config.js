@@ -1,1 +1,1 @@
-var mnemonic = "wet vote already similar alter fatigue hotel symbol avocado brick ball ring";
+var mnemonic = "outdoor novel uphold typical fantasy robust tomato steel help palm sausage clarify";

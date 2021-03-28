@@ -1,1 +1,1 @@
-var mnemonic = "still such begin envelope dizzy excite number people lion figure lunch voyage";
+var mnemonic = "project engine sausage decade dinosaur snake saddle trend logic figure skill scrub";

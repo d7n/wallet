@@ -1,1 +1,1 @@
-var mnemonic = "task mix notice fetch same middle cupboard material coil useless pact empty";
+var mnemonic = "dentist onion boost goat multiply taste punch shuffle nasty staff pupil rib";

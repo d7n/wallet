@@ -1,1 +1,1 @@
-var mnemonic = "panda wink list before heart device bridge myth dumb toast absurd acid";
+var mnemonic = "jelly rich gown soup car enlist cage dizzy innocent lumber direct short";

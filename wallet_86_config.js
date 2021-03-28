@@ -1,1 +1,1 @@
-var mnemonic = "odor over install metal sure vicious hair flat veteran local pencil nasty";
+var mnemonic = "six estate stone wheat ankle scale dragon secret snow canvas recipe key";

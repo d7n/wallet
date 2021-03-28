@@ -1,1 +1,1 @@
-var mnemonic = "display film accident develop bench close tribe mean tornado aisle few unaware";
+var mnemonic = "able canyon glare rule axis solar middle enhance nerve length rotate burst";

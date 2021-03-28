@@ -1,1 +1,1 @@
-var mnemonic = "sustain write normal keep purchase spell upon lyrics refuse tail lab gloom";
+var mnemonic = "almost cook gold stage slab utility question festival maximum squirrel armed finger";

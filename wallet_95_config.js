@@ -1,1 +1,1 @@
-var mnemonic = "cost stuff vote fine obvious session drive tiger strong crisp now train";
+var mnemonic = "aisle spell once gesture uncle valve fee bracket wheel hood top trash";

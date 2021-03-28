@@ -1,1 +1,1 @@
-var mnemonic = "adult addict bus abandon tongue cycle treat gadget oblige indicate excite fury";
+var mnemonic = "long trophy mimic soon salt deny damp wine vintage merge chicken meat";

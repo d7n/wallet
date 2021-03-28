@@ -1,1 +1,1 @@
-var mnemonic = "mutual thunder sibling system fatigue regular actress enforce pink offer spare security";
+var mnemonic = "lava write rain song giant wash echo pair salon parent dilemma hair";

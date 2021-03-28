@@ -1,1 +1,1 @@
-var mnemonic = "client bonus beef regret purity swear wonder liberty before tooth beach cactus";
+var mnemonic = "garden silent sustain battle cram model unhappy struggle gaze toe artefact fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery grocery aim enhance better retreat demise method above client inherit sadness";
+var mnemonic = "alone voyage clown wire grass sight hollow huge annual royal radio celery";

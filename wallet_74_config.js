@@ -1,1 +1,1 @@
-var mnemonic = "spoon burden logic brick damp chicken neutral sniff book cushion gorilla history";
+var mnemonic = "domain duty tell theory fury stage infant nature loan when body search";

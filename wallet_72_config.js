@@ -1,1 +1,1 @@
-var mnemonic = "range aisle spike receive wish city fantasy antique mushroom scrub mouse high";
+var mnemonic = "bridge analyst claim swap miss divorce lady hunt address car dignity citizen";

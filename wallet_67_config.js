@@ -1,1 +1,1 @@
-var mnemonic = "foil voyage hollow town number crash leave track staff release ocean violin";
+var mnemonic = "three pride damage hawk sock leopard bread taxi denial main youth above";

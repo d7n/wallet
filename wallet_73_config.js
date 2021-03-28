@@ -1,1 +1,1 @@
-var mnemonic = "coast risk course moral catalog brain mention practice spirit above torch question";
+var mnemonic = "champion relax despair report involve manage twist hello goddess popular taste essay";

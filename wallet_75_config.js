@@ -1,1 +1,1 @@
-var mnemonic = "work acquire river near join sight section fiction soldier grit wedding category";
+var mnemonic = "dawn find misery chest hungry never rhythm core common case fame country";
