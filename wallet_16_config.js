@@ -1,1 +1,1 @@
-var mnemonic = "cradle erosion crazy tunnel tongue twist cereal rapid exotic giant load elite";
+var mnemonic = "engine drama tip hybrid lock more crystal sail again gauge enable chase";

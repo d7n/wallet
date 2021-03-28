@@ -1,1 +1,1 @@
-var mnemonic = "bicycle slush undo again object speak either process tissue awful cave drill";
+var mnemonic = "father palm critic above vapor blind twin erode crowd obscure chase hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "panic stuff goose crane color educate sea stone glow mean swear knock";
+var mnemonic = "apple junior swift lunar mushroom fat liquid snap shock warm anchor diesel";

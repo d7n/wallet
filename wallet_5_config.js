@@ -1,1 +1,1 @@
-var mnemonic = "vast asset gate gentle push gasp gown prepare say breeze rate flower";
+var mnemonic = "organ theory crime all diet egg square base aware fine hood corn";

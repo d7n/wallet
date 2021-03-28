@@ -1,1 +1,1 @@
-var mnemonic = "wing any honey near man book wink ghost penalty skill column comfort";
+var mnemonic = "digital always genuine record illegal among draw marriage more scheme nation zebra";

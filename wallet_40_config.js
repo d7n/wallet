@@ -1,1 +1,1 @@
-var mnemonic = "tiny hint movie long chimney syrup cloud voice grant neutral squirrel rail";
+var mnemonic = "screen pass hair awesome rate transfer senior ladder record symptom cat pony";

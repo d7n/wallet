@@ -1,1 +1,1 @@
-var mnemonic = "behave expect spring melody local muscle blood input income raccoon jelly glove";
+var mnemonic = "shift industry jaguar interest tent equip ketchup traffic before garlic dose adjust";

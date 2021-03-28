@@ -1,1 +1,1 @@
-var mnemonic = "pottery shaft organ offer assault beyond faint tilt mechanic junior print mechanic";
+var mnemonic = "mandate pyramid share aim rebel blame divide venture mention fitness fiber mechanic";

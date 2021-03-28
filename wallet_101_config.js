@@ -1,1 +1,1 @@
-var mnemonic = "obscure giggle rich wise inquiry custom obvious decide engine glare fiscal arrange";
+var mnemonic = "feature home enjoy second diagram rib same february ship recall normal catalog";

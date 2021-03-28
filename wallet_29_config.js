@@ -1,1 +1,1 @@
-var mnemonic = "teach crumble funny nut broom brother lend unaware pair dinner laundry shadow";
+var mnemonic = "column fade aim goat egg merge general ladder observe weasel copper gift";

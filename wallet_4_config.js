@@ -1,1 +1,1 @@
-var mnemonic = "harbor catch kiwi lunch spin chief method paddle document reunion wagon injury";
+var mnemonic = "grow zero arrow pond vintage pen wink clarify derive payment fancy alien";

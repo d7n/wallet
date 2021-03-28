@@ -1,1 +1,1 @@
-var mnemonic = "flat clog elephant convince scatter solution museum student find digital ripple remove";
+var mnemonic = "believe index address brick edit nest stick bulb glance pumpkin tissue whale";

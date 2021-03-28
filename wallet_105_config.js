@@ -1,1 +1,1 @@
-var mnemonic = "tragic beyond chef market air floor tube proud trim hazard lonely invest";
+var mnemonic = "reward raise grid six token ugly popular hello noble soul point ivory";

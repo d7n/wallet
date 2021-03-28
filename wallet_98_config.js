@@ -1,1 +1,1 @@
-var mnemonic = "donor enable filter wife sweet bulk spice veteran edge ball venue primary";
+var mnemonic = "ceiling toward history balance keep palm pilot tell grace learn secret maximum";

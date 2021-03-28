@@ -1,1 +1,1 @@
-var mnemonic = "hub cherry wet gasp nose floor check dilemma ranch doctor hen winner";
+var mnemonic = "cushion south depart fold review salute crime month pool nest aim tornado";

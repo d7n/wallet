@@ -1,1 +1,1 @@
-var mnemonic = "box lyrics script unable celery under vital sick ladder clump seminar carbon";
+var mnemonic = "chef fame predict dash carbon robot decade maximum damage copper wonder knee";

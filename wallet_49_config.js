@@ -1,1 +1,1 @@
-var mnemonic = "leave horse wear exhaust frequent chief document core adapt crowd veteran seminar";
+var mnemonic = "refuse auction vicious dog conduct fade frown report neglect leopard click galaxy";

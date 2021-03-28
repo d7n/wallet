@@ -1,1 +1,1 @@
-var mnemonic = "occur become remain switch vessel divide enrich help capital clerk sweet employ";
+var mnemonic = "width armor cart neutral crazy pilot rifle alpha differ weapon mistake domain";

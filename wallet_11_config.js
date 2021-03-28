@@ -1,1 +1,1 @@
-var mnemonic = "addict neutral fade answer dance logic leader replace solid battle deal cousin";
+var mnemonic = "chief link funny bicycle grape manage shoot build bitter top lemon garage";

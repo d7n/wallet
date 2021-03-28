@@ -1,1 +1,1 @@
-var mnemonic = "eye witness apple occur require rib story hair popular promote divorce meat";
+var mnemonic = "shiver food usual tunnel pause palm couch force confirm faculty hill will";

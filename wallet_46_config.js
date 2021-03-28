@@ -1,1 +1,1 @@
-var mnemonic = "oil globe title birth check drive rose skirt spend fence prefer receive";
+var mnemonic = "point spoon position employ coast faint divorce feel nominee gift shrimp swift";

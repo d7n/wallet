@@ -1,1 +1,1 @@
-var mnemonic = "whisper dust leopard machine exercise trophy shuffle dirt load female genre fever";
+var mnemonic = "purchase easily cabin insane machine about cash salmon struggle artwork rescue hold";

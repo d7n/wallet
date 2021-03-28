@@ -1,1 +1,1 @@
-var mnemonic = "bind crisp resist float key dad warfare mean fossil wheel goat hazard";
+var mnemonic = "enroll city baby type dumb major that unveil month harsh choice tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "project mask label lunar credit swift claim exit cube note ring bring";
+var mnemonic = "reflect brush target govern drill false control pear hundred social latin corn";

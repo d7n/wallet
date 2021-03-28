@@ -1,1 +1,1 @@
-var mnemonic = "purpose concert whale cabin marble any enough boy baby rule state daring";
+var mnemonic = "day under hawk custom seminar gown arrest gloom river old salad inmate";

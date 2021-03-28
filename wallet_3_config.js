@@ -1,1 +1,1 @@
-var mnemonic = "protect regret hand shy crumble where sniff actor bring kangaroo floor rough";
+var mnemonic = "hat noodle total peasant change deal hill hedgehog clerk boil feel rubber";

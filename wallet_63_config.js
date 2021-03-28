@@ -1,1 +1,1 @@
-var mnemonic = "pretty earn poverty wrong sorry peanut good satoshi increase joy spice soup";
+var mnemonic = "coast cute pistol dream pumpkin message loyal banana doll this exit offer";

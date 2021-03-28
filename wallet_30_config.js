@@ -1,1 +1,1 @@
-var mnemonic = "patrol toss olympic noise athlete giraffe fabric blame perfect script fragile cotton";
+var mnemonic = "drama copy join recipe kit raven kitten screen neglect shop fiction embrace";

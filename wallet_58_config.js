@@ -1,1 +1,1 @@
-var mnemonic = "hire box worth evoke stay script ordinary catch tray unlock harsh foster";
+var mnemonic = "cook diary believe hidden mobile broken canyon task need just tuition normal";

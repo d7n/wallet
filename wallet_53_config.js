@@ -1,1 +1,1 @@
-var mnemonic = "silly auto theme wise shoulder two captain bid debris rifle raise fox";
+var mnemonic = "sudden beach ill price host section angry aware fork team combine prison";

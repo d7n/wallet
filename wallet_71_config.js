@@ -1,1 +1,1 @@
-var mnemonic = "grape idea unit album shop hint evidence amused board version myself stay";
+var mnemonic = "eye around valid shallow wagon bone own kiss tomorrow damage avocado defense";

@@ -1,1 +1,1 @@
-var mnemonic = "easy canoe behind concert record fade erode primary route juice top insane";
+var mnemonic = "mail green tenant ankle hotel tool creek sail bean wrap example body";

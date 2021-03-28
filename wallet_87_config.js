@@ -1,1 +1,1 @@
-var mnemonic = "super reward urban busy floor limit smart clock cradle decorate unveil fever";
+var mnemonic = "angry circle anxiety brown moral slice wise future suit ozone glad taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "magic unusual orient special find dentist educate pencil detail voice coil family";
+var mnemonic = "beauty develop weather leg jaguar pave toward adjust shield bless joy category";

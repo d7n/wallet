@@ -1,1 +1,1 @@
-var mnemonic = "ring warfare dream produce orient broken subway sentence waste nothing medal relief";
+var mnemonic = "inject steel grunt little kick stereo sting lizard street into velvet coconut";

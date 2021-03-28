@@ -1,1 +1,1 @@
-var mnemonic = "foot hand island innocent minimum whip often gold since left mobile foster";
+var mnemonic = "collect release field fury december expire term scorpion else coral lady situate";

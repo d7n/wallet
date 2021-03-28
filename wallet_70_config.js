@@ -1,1 +1,1 @@
-var mnemonic = "man spend heart frequent flip goat butter hill scissors garlic tragic pitch";
+var mnemonic = "glue hammer rich afford fish upgrade orphan virus choice sword devote wait";

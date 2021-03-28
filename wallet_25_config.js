@@ -1,1 +1,1 @@
-var mnemonic = "pet mesh throw coconut hub post lecture rubber profit chuckle drift survey";
+var mnemonic = "amount skirt trouble motor hold early motor luxury wash crawl supply artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "speak ride pole force say spider mountain embrace inject decide camera dance";
+var mnemonic = "smile review priority lend lounge lizard fish improve decide again suspect work";

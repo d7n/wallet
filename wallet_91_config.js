@@ -1,1 +1,1 @@
-var mnemonic = "shed casino place hurt aerobic narrow prevent vast gate relief describe local";
+var mnemonic = "ticket orchard dutch orange laundry pioneer cheese vital alone salmon wheat cluster";

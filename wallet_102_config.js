@@ -1,1 +1,1 @@
-var mnemonic = "lecture tank off assume debris suit rebel luxury tornado satoshi report crystal";
+var mnemonic = "rare rotate shine festival rug shield dove dolphin excess lunar cinnamon honey";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch captain true tenant cheese private wage window cart kidney piece shiver";
+var mnemonic = "bar harvest armor flip dice coach anxiety ladder abandon focus thing palm";

@@ -1,1 +1,1 @@
-var mnemonic = "next vibrant refuse cinnamon tube eyebrow wreck blast neglect pottery shy hobby";
+var mnemonic = "green blossom whisper ginger pottery wage private vapor capable divide trash ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "early radio chicken feature firm aerobic control evidence office cash ice traffic";
+var mnemonic = "fabric better poet budget brave tennis demise favorite lunar rice other eagle";

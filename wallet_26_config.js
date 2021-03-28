@@ -1,1 +1,1 @@
-var mnemonic = "sad distance box portion scan arm rubber fitness much symbol feel giant";
+var mnemonic = "embrace unfold crime praise fruit gold business scale about endless arm blue";

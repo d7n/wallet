@@ -1,1 +1,1 @@
-var mnemonic = "ten empty whale eyebrow gold marriage diagram flee thing medal slogan guide";
+var mnemonic = "fatigue cluster size result grief number trap hazard curtain auction exhibit cabbage";

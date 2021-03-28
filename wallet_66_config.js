@@ -1,1 +1,1 @@
-var mnemonic = "visual robust whip belt settle notice melt account morning hard soul dawn";
+var mnemonic = "custom screen brick rotate code injury release message weasel enter output figure";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness resemble catalog inmate faculty system vocal dwarf proof retire doll offer";
+var mnemonic = "cycle truth bleak parade joke alone dinner try reduce carbon blind farm";

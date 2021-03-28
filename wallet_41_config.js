@@ -1,1 +1,1 @@
-var mnemonic = "deputy mistake inner harsh warrior choice gun panic emotion thrive venue net";
+var mnemonic = "giraffe story final plunge bring laugh pelican rally embrace rookie viable effort";

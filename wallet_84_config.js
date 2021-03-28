@@ -1,1 +1,1 @@
-var mnemonic = "mutual plate present art local rocket damp elegant farm pyramid cigar fuel";
+var mnemonic = "minor master diesel state dove jar model jeans bulk chase stand slam";

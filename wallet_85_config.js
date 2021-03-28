@@ -1,1 +1,1 @@
-var mnemonic = "elder sick price range stomach liar mention usual sponsor there exist still";
+var mnemonic = "inside library demand fiscal catch inquiry turtle inch language palace argue inhale";

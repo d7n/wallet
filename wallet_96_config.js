@@ -1,1 +1,1 @@
-var mnemonic = "regular famous achieve bean ability soul defy skin icon position seek length";
+var mnemonic = "exit federal vast face cruise cream stuff future say grass window visit";

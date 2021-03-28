@@ -1,1 +1,1 @@
-var mnemonic = "half noble neutral memory render boy element pretty innocent industry pistol south";
+var mnemonic = "forget truth thunder funny galaxy dose bone cushion cattle name shop shrug";

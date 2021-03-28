@@ -1,1 +1,1 @@
-var mnemonic = "zone raise success disorder modify witness dune try primary fruit wedding stick";
+var mnemonic = "ill ethics slim goddess fiscal matrix phone inflict shine current insane lock";

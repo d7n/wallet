@@ -1,1 +1,1 @@
-var mnemonic = "alert velvet pioneer sponsor crumble glue wagon rice diary foam equal evil";
+var mnemonic = "primary deal process slender toe razor total corn pond dune melody raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "crane cable security reflect pen gym snap humor rail stadium tree deposit";
+var mnemonic = "armor enact stuff educate fade rain kitten clock hurt become people much";

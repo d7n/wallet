@@ -1,1 +1,1 @@
-var mnemonic = "monster about group horse proof alpha capable zero century oval actress vivid";
+var mnemonic = "quiz foam inflict shift laptop size wealth cake mean rain garbage month";

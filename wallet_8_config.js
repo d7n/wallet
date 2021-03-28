@@ -1,1 +1,1 @@
-var mnemonic = "utility voice science sting answer rude engine modify gallery soon round owner";
+var mnemonic = "repeat among forget prosper luggage surface physical hurdle census asset skull churn";

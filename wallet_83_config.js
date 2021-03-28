@@ -1,1 +1,1 @@
-var mnemonic = "fury fly sad erosion express recipe real brisk cricket cup caught such";
+var mnemonic = "whip manage oven wild skirt skate plate auto blossom strike ugly daughter";

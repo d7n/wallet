@@ -1,1 +1,1 @@
-var mnemonic = "sweet illegal crucial gain throw submit slim cloth wolf dwarf can permit";
+var mnemonic = "alien defense kiwi reject syrup front reopen lottery control now toddler quantum";

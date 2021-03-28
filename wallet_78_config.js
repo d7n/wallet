@@ -1,1 +1,1 @@
-var mnemonic = "valid balcony portion canvas midnight pepper giraffe wait crime admit two legend";
+var mnemonic = "lamp worry fine auto dawn focus traffic refuse expand swim rate pipe";

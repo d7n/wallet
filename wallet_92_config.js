@@ -1,1 +1,1 @@
-var mnemonic = "obvious brief way special thunder worry multiply clump fashion harsh clarify used";
+var mnemonic = "say return awkward park entire talent era cycle rough innocent profit inner";

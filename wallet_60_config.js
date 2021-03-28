@@ -1,1 +1,1 @@
-var mnemonic = "little patrol north fancy wire skirt session renew mistake present seek elephant";
+var mnemonic = "detail endorse seven acquire vivid suit quarter clock turkey convince stem puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum dirt identify mountain dignity dirt hunt vague final capital cause stomach";
+var mnemonic = "alley blade accident chest shallow habit crack cannon forget crowd list glue";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic thrive asset impose bachelor balcony miracle treat utility hub parade mobile";
+var mnemonic = "garage subway plate jewel romance climb coconut sketch brother foster room panther";

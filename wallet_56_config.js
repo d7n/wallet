@@ -1,1 +1,1 @@
-var mnemonic = "crystal away siege real audit issue blossom fitness club race soup neck";
+var mnemonic = "future genre clean pave abandon empower seminar rotate barely flat wing asset";

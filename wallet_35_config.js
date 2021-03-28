@@ -1,1 +1,1 @@
-var mnemonic = "slim sight syrup shrimp top snap school call region same rude match";
+var mnemonic = "crucial source turkey help load banana tail blame decide rich crawl erode";

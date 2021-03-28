@@ -1,1 +1,1 @@
-var mnemonic = "praise fit call vintage forum merit dragon stand rare leg heart utility";
+var mnemonic = "screen toy tribe symptom gesture atom leader author where unveil jar middle";

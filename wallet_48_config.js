@@ -1,1 +1,1 @@
-var mnemonic = "monster sad document cheap between transfer equal gauge cash dirt target holiday";
+var mnemonic = "smile theory metal aware team bullet this pen among belt tilt item";

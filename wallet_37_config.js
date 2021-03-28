@@ -1,1 +1,1 @@
-var mnemonic = "flat lizard desk angle advice champion comic invite rural way rib sketch";
+var mnemonic = "resource confirm harbor quarter disease rug loop check hire stuff thumb prevent";

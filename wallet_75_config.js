@@ -1,1 +1,1 @@
-var mnemonic = "dragon large humor bean tuition cheap spend drop enlist three hurdle capital";
+var mnemonic = "frequent jump drive master useful rather input solve hazard flower paddle catch";

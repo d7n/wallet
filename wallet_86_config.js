@@ -1,1 +1,1 @@
-var mnemonic = "vehicle sketch ritual husband muffin peasant august betray multiply birth water thing";
+var mnemonic = "major morning weird urge erupt bleak arrange practice truck move goat uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "correct limit dad pool stock tank tent give lottery tilt cake shine";
+var mnemonic = "insect decade churn present half rigid modify sister decrease appear essay address";

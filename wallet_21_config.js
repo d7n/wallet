@@ -1,1 +1,1 @@
-var mnemonic = "emerge they person ethics strike trend fresh easily rotate crush pledge copy";
+var mnemonic = "connect shoulder say napkin burden dash crunch fog escape pave never train";

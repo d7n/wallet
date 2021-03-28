@@ -1,1 +1,1 @@
-var mnemonic = "often announce sleep cram paper live destroy skin sting panic dutch parade";
+var mnemonic = "acoustic hunt tell excite either acoustic milk bitter police load urge panel";

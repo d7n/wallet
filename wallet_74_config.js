@@ -1,1 +1,1 @@
-var mnemonic = "cliff behave boring design amazing wheel dwarf live cattle trim october bubble";
+var mnemonic = "path machine very actress march wild salmon swallow agree image kite acoustic";

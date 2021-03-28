@@ -1,1 +1,1 @@
-var mnemonic = "love absurd edge remind oyster right wolf amused tube cricket depend aisle";
+var mnemonic = "wish quiz wheel advice fashion include calm defy song unable version sort";

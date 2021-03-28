@@ -1,1 +1,1 @@
-var mnemonic = "sense trash salmon answer gap plastic album sustain venue mistake strategy nuclear";
+var mnemonic = "there motor supreme knife pledge unfair autumn boss huge flock hub wagon";

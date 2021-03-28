@@ -1,1 +1,1 @@
-var mnemonic = "much error dignity observe toy flee diagram perfect tent rival mammal address";
+var mnemonic = "release april what unusual trip first vacant horn hire wing help mosquito";

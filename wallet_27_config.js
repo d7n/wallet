@@ -1,1 +1,1 @@
-var mnemonic = "cup glimpse couple cradle velvet grit rigid spider hen goose between auto";
+var mnemonic = "love document survey once transfer twelve uphold display term egg cradle ridge";

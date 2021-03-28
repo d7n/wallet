@@ -1,1 +1,1 @@
-var mnemonic = "tornado step card roof bacon kick lesson congress damp vapor hood october";
+var mnemonic = "riot submit galaxy verb body rebel dumb swear olympic agree damage stereo";

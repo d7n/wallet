@@ -1,1 +1,1 @@
-var mnemonic = "when cricket maid enrich quantum pyramid current wine chef style mix width";
+var mnemonic = "husband fever fog web suspect earn memory hunt hill borrow morning retreat";

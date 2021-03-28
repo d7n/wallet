@@ -1,1 +1,1 @@
-var mnemonic = "jump escape airport verb various model habit curtain ready fatigue frequent brave";
+var mnemonic = "salt add still have audit atom suspect cave hand size social snack";

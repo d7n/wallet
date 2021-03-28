@@ -1,1 +1,1 @@
-var mnemonic = "priority today clown layer anchor dose jewel peanut clock happy dinosaur cruel";
+var mnemonic = "display mesh adult beyond bunker dilemma marble code steak major soft sight";

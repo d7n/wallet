@@ -1,1 +1,1 @@
-var mnemonic = "sadness gesture add snap cram wrong cave gauge abuse life recipe market";
+var mnemonic = "cup picnic daring wash carbon field emerge catalog away hurt motion metal";

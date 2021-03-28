@@ -1,1 +1,1 @@
-var mnemonic = "essence right also diary pen kangaroo mixed sauce correct hint quality phrase";
+var mnemonic = "vacant garbage dash walk nest surface embrace deliver rebuild sing end provide";

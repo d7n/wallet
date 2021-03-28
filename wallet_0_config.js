@@ -1,1 +1,1 @@
-var mnemonic = "reflect divorce use couple trust upset general digital casual glimpse match museum";
+var mnemonic = "airport obey stadium goddess tobacco crop witness fringe ridge tilt focus autumn";

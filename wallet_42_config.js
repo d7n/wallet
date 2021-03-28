@@ -1,1 +1,1 @@
-var mnemonic = "dutch like sick mother bulb tortoise armor defense rent giggle stay child";
+var mnemonic = "surface angle pride author measure exact family wolf immune remove hope tonight";

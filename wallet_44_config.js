@@ -1,1 +1,1 @@
-var mnemonic = "upper garden answer consider token vault seminar argue bacon drop alley armor";
+var mnemonic = "truth dirt earth neutral feed divorce system language eager mail process close";
