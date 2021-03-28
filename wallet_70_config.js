@@ -1,1 +1,1 @@
-var mnemonic = "glue hammer rich afford fish upgrade orphan virus choice sword devote wait";
+var mnemonic = "solar avocado accuse swap crush gentle upper impulse question comic suspect fit";

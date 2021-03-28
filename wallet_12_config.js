@@ -1,1 +1,1 @@
-var mnemonic = "uncle you ripple deposit faculty answer large carpet tonight enforce train orchard";
+var mnemonic = "kitten tourist sense churn warfare apple winner because bless lunar pitch spend";

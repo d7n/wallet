@@ -1,1 +1,1 @@
-var mnemonic = "cushion south depart fold review salute crime month pool nest aim tornado";
+var mnemonic = "easy awesome neither orange broken choose between fresh option exercise person acquire";

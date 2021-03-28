@@ -1,1 +1,1 @@
-var mnemonic = "digital always genuine record illegal among draw marriage more scheme nation zebra";
+var mnemonic = "skill thank buffalo orbit install eager journey dismiss often country avoid sound";

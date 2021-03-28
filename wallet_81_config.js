@@ -1,1 +1,1 @@
-var mnemonic = "husband fever fog web suspect earn memory hunt hill borrow morning retreat";
+var mnemonic = "holiday there grant razor water bean hybrid endorse confirm sad math fiber";

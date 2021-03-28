@@ -1,1 +1,1 @@
-var mnemonic = "inject steel grunt little kick stereo sting lizard street into velvet coconut";
+var mnemonic = "parrot upon peasant object stool purchase index lazy prepare frame inside clock";

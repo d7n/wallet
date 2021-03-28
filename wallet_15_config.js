@@ -1,1 +1,1 @@
-var mnemonic = "day under hawk custom seminar gown arrest gloom river old salad inmate";
+var mnemonic = "pizza material refuse extend tomato pass acquire about spoil toddler tuition claim";

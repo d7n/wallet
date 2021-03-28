@@ -1,1 +1,1 @@
-var mnemonic = "acoustic hunt tell excite either acoustic milk bitter police load urge panel";
+var mnemonic = "badge auto syrup sugar useless mad business neck horror team bacon meadow";

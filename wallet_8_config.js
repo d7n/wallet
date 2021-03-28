@@ -1,1 +1,1 @@
-var mnemonic = "repeat among forget prosper luggage surface physical hurdle census asset skull churn";
+var mnemonic = "remind orchard travel plastic dutch clump matter decrease axis voice reject season";

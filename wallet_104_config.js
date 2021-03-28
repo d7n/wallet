@@ -1,1 +1,1 @@
-var mnemonic = "purchase easily cabin insane machine about cash salmon struggle artwork rescue hold";
+var mnemonic = "thought throw execute divorce pole delay injury glimpse junk uncover tip ancient";

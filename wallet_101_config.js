@@ -1,1 +1,1 @@
-var mnemonic = "feature home enjoy second diagram rib same february ship recall normal catalog";
+var mnemonic = "stone coral dutch tongue pudding enlist yard original bird source velvet shoulder";

@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cluster size result grief number trap hazard curtain auction exhibit cabbage";
+var mnemonic = "raw wagon snap swap warfare space kidney process concert else lab logic";

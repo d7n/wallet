@@ -1,1 +1,1 @@
-var mnemonic = "travel retire saddle rookie diamond dinosaur suspect butter diamond connect census media";
+var mnemonic = "speed depend river aware steak muscle pull gospel derive cake sketch ranch";

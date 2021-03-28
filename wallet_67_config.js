@@ -1,1 +1,1 @@
-var mnemonic = "garage subway plate jewel romance climb coconut sketch brother foster room panther";
+var mnemonic = "rack walnut unhappy company join wait wash obey hire attract margin stuff";

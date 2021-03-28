@@ -1,1 +1,1 @@
-var mnemonic = "ceiling toward history balance keep palm pilot tell grace learn secret maximum";
+var mnemonic = "obtain weird life unlock decorate divide butter west erase code figure crystal";

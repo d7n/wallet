@@ -1,1 +1,1 @@
-var mnemonic = "surface angle pride author measure exact family wolf immune remove hope tonight";
+var mnemonic = "vicious finish antique aerobic cycle thrive cart glory giant obvious burger ice";

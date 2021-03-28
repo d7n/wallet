@@ -1,1 +1,1 @@
-var mnemonic = "width armor cart neutral crazy pilot rifle alpha differ weapon mistake domain";
+var mnemonic = "wasp sister scale visual casual alley anchor fee whisper chase image elbow";

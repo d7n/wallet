@@ -1,1 +1,1 @@
-var mnemonic = "connect shoulder say napkin burden dash crunch fog escape pave never train";
+var mnemonic = "success success curve pen excuse silent kid text lyrics secret speak water";

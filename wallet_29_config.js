@@ -1,1 +1,1 @@
-var mnemonic = "column fade aim goat egg merge general ladder observe weasel copper gift";
+var mnemonic = "hurry file soldier category barely bring release replace captain pair sense first";

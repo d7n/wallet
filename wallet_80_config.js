@@ -1,1 +1,1 @@
-var mnemonic = "salt add still have audit atom suspect cave hand size social snack";
+var mnemonic = "spawn corn hockey excess arrange lady vacuum firm empty supply pact issue";

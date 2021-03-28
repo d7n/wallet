@@ -1,1 +1,1 @@
-var mnemonic = "drama copy join recipe kit raven kitten screen neglect shop fiction embrace";
+var mnemonic = "nothing decrease empower truth spawn vintage inquiry web group trumpet dish lucky";

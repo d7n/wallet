@@ -1,1 +1,1 @@
-var mnemonic = "vacant garbage dash walk nest surface embrace deliver rebuild sing end provide";
+var mnemonic = "alone comfort enrich fog weapon polar negative olive tuition loop empty gun";

@@ -1,1 +1,1 @@
-var mnemonic = "collect release field fury december expire term scorpion else coral lady situate";
+var mnemonic = "shiver eight cute wagon member target fragile fee direct symbol symbol oxygen";

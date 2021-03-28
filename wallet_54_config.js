@@ -1,1 +1,1 @@
-var mnemonic = "alien defense kiwi reject syrup front reopen lottery control now toddler quantum";
+var mnemonic = "divide market draft hobby solar later easily invite fresh embody decline noble";

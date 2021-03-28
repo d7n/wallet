@@ -1,1 +1,1 @@
-var mnemonic = "vapor kitten photo side salmon pulse upset uphold topic angry sell immense";
+var mnemonic = "monitor eager evoke rescue drum drum tuna patient hint castle just dinosaur";

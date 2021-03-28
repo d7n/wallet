@@ -1,1 +1,1 @@
-var mnemonic = "believe index address brick edit nest stick bulb glance pumpkin tissue whale";
+var mnemonic = "inner eyebrow truly talk mother cat evolve casual zoo inflict song blind";

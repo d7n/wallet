@@ -1,1 +1,1 @@
-var mnemonic = "quality execute lunch noise drum upon capable depart attract switch couch execute";
+var mnemonic = "plastic cake machine police afraid business soccer happy idea excess shell paper";

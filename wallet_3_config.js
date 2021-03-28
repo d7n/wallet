@@ -1,1 +1,1 @@
-var mnemonic = "hat noodle total peasant change deal hill hedgehog clerk boil feel rubber";
+var mnemonic = "divert hunt satisfy service artist slim young fan axis permit idle catalog";

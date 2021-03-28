@@ -1,1 +1,1 @@
-var mnemonic = "fabric better poet budget brave tennis demise favorite lunar rice other eagle";
+var mnemonic = "office olympic arrest tissue enter slide east design twenty prepare time teach";

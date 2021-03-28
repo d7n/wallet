@@ -1,1 +1,1 @@
-var mnemonic = "vintage reform despair drama foster moral property parade upset second silent vessel";
+var mnemonic = "tiger crowd city used cost height brisk town talent border pole vapor";

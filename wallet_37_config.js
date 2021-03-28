@@ -1,1 +1,1 @@
-var mnemonic = "resource confirm harbor quarter disease rug loop check hire stuff thumb prevent";
+var mnemonic = "club snake sell laugh kid claw gospel during another motor involve oval";

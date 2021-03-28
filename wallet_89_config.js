@@ -1,1 +1,1 @@
-var mnemonic = "there motor supreme knife pledge unfair autumn boss huge flock hub wagon";
+var mnemonic = "record poverty road close impulse session push kid gain destroy loyal unlock";

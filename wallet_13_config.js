@@ -1,1 +1,1 @@
-var mnemonic = "captain wrist fire club man toe soul spot empty first glare draft";
+var mnemonic = "cave home edge trigger call engine crack degree label congress possible token";

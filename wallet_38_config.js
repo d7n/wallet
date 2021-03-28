@@ -1,1 +1,1 @@
-var mnemonic = "thought champion someone cinnamon winner man soccer key trigger miss urge liquid";
+var mnemonic = "motion rent cancel someone post hedgehog walnut surround spike essence bone agree";

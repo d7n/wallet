@@ -1,1 +1,1 @@
-var mnemonic = "inside library demand fiscal catch inquiry turtle inch language palace argue inhale";
+var mnemonic = "park torch palace ride praise video disease host poet timber fish mimic";

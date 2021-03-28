@@ -1,1 +1,1 @@
-var mnemonic = "amount skirt trouble motor hold early motor luxury wash crawl supply artefact";
+var mnemonic = "sword diagram frozen require alley order manual more soul auction whip second";

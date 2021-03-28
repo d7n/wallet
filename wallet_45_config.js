@@ -1,1 +1,1 @@
-var mnemonic = "primary deal process slender toe razor total corn pond dune melody raccoon";
+var mnemonic = "year sniff client liar provide ugly spray noble whale fade seat repair";

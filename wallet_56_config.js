@@ -1,1 +1,1 @@
-var mnemonic = "future genre clean pave abandon empower seminar rotate barely flat wing asset";
+var mnemonic = "check during cave shoulder hurry three pink swim vast board enact mixed";

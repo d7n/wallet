@@ -1,1 +1,1 @@
-var mnemonic = "shift industry jaguar interest tent equip ketchup traffic before garlic dose adjust";
+var mnemonic = "puzzle window course tray nose winner tool journey decide success clock survey";

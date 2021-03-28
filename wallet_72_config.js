@@ -1,1 +1,1 @@
-var mnemonic = "cycle truth bleak parade joke alone dinner try reduce carbon blind farm";
+var mnemonic = "theme typical village carry choice brief dawn room enable erode gauge budget";

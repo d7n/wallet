@@ -1,1 +1,1 @@
-var mnemonic = "clump panda match luxury baby cat anger liquid quote shine actor army";
+var mnemonic = "wink fly claw wild deputy plate junior person acquire chuckle special token";

@@ -1,1 +1,1 @@
-var mnemonic = "display mesh adult beyond bunker dilemma marble code steak major soft sight";
+var mnemonic = "hockey book category payment table clock cattle knock fitness patrol disorder output";

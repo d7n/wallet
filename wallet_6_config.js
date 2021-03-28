@@ -1,1 +1,1 @@
-var mnemonic = "riot submit galaxy verb body rebel dumb swear olympic agree damage stereo";
+var mnemonic = "useless decline wisdom music early citizen scan course pull quote obscure book";

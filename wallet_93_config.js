@@ -1,1 +1,1 @@
-var mnemonic = "violin bullet setup peanut paddle portion just sea indoor bitter wise focus";
+var mnemonic = "atom book giant virtual guess gasp behave oven okay popular reopen neither";

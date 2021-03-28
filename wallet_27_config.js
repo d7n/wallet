@@ -1,1 +1,1 @@
-var mnemonic = "love document survey once transfer twelve uphold display term egg cradle ridge";
+var mnemonic = "prepare outside square drop federal boy brother hurdle firm fine planet october";

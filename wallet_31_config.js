@@ -1,1 +1,1 @@
-var mnemonic = "screen toy tribe symptom gesture atom leader author where unveil jar middle";
+var mnemonic = "hazard animal year slight moment soccer august rigid table ahead improve humble";

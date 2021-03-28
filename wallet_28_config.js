@@ -1,1 +1,1 @@
-var mnemonic = "enroll city baby type dumb major that unveil month harsh choice tenant";
+var mnemonic = "lava proud degree fitness addict bid spray spy truck skate symbol episode";

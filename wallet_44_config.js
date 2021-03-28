@@ -1,1 +1,1 @@
-var mnemonic = "truth dirt earth neutral feed divorce system language eager mail process close";
+var mnemonic = "nut frozen endorse fossil attitude couple dad child paper gym calm half";

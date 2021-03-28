@@ -1,1 +1,1 @@
-var mnemonic = "glide miss detail news mansion acid surprise solar moon orient treat give";
+var mnemonic = "pilot staff myself beef symbol under pear glide panda cage gain where";

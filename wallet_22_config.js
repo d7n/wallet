@@ -1,1 +1,1 @@
-var mnemonic = "direct lava spike insane lecture brain faith improve want obvious minute intact";
+var mnemonic = "trust mystery year position member magnet orange lumber twenty liquid can neither";

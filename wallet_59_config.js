@@ -1,1 +1,1 @@
-var mnemonic = "bar harvest armor flip dice coach anxiety ladder abandon focus thing palm";
+var mnemonic = "critic kidney twist panic boring large trumpet gadget document prize butter remind";

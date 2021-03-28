@@ -1,1 +1,1 @@
-var mnemonic = "shiver food usual tunnel pause palm couch force confirm faculty hill will";
+var mnemonic = "address elbow visa consider popular exact vacuum educate soup common load regular";

@@ -1,1 +1,1 @@
-var mnemonic = "reward raise grid six token ugly popular hello noble soul point ivory";
+var mnemonic = "outer luxury bubble pledge host clown useful noodle exhibit crisp ticket notable";

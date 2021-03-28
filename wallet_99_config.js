@@ -1,1 +1,1 @@
-var mnemonic = "armor enact stuff educate fade rain kitten clock hurt become people much";
+var mnemonic = "frozen smile measure another camp inherit doctor claim grain bulb bundle turtle";

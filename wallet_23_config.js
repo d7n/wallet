@@ -1,1 +1,1 @@
-var mnemonic = "advice plunge equal section emerge gauge cushion brain check crane comic pottery";
+var mnemonic = "spawn hub reunion dash horse stomach lunar bench outer ridge income knock";

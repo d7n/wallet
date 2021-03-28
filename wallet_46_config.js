@@ -1,1 +1,1 @@
-var mnemonic = "point spoon position employ coast faint divorce feel nominee gift shrimp swift";
+var mnemonic = "purity blame tilt tennis true emerge drift smooth syrup action leg cheese";

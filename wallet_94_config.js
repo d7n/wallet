@@ -1,1 +1,1 @@
-var mnemonic = "insect decade churn present half rigid modify sister decrease appear essay address";
+var mnemonic = "state miss swing link funny excess neutral tree execute cargo voyage mask";

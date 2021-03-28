@@ -1,1 +1,1 @@
-var mnemonic = "say return awkward park entire talent era cycle rough innocent profit inner";
+var mnemonic = "satoshi lens dose good wreck permit tattoo assist virus town famous elder";

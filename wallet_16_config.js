@@ -1,1 +1,1 @@
-var mnemonic = "engine drama tip hybrid lock more crystal sail again gauge enable chase";
+var mnemonic = "foster mutual cattle liberty since tree logic develop arrest hamster feel gate";

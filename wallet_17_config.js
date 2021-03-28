@@ -1,1 +1,1 @@
-var mnemonic = "better quit siege upset roof arch tuna material flat ivory duty rule";
+var mnemonic = "project life satoshi memory chat maple wing material dune foot village lake";

@@ -1,1 +1,1 @@
-var mnemonic = "chef fame predict dash carbon robot decade maximum damage copper wonder knee";
+var mnemonic = "quarter tank embody rain glue puppy govern forum venue coach parrot become";

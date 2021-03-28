@@ -1,1 +1,1 @@
-var mnemonic = "giraffe story final plunge bring laugh pelican rally embrace rookie viable effort";
+var mnemonic = "check solid bridge energy roast coconut cake throw sample fabric leisure youth";

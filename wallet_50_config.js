@@ -1,1 +1,1 @@
-var mnemonic = "beauty develop weather leg jaguar pave toward adjust shield bless joy category";
+var mnemonic = "oven acid girl exercise episode reduce scout shoulder hazard spin old reopen";

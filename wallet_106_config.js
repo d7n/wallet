@@ -1,1 +1,1 @@
-var mnemonic = "forget truth thunder funny galaxy dose bone cushion cattle name shop shrug";
+var mnemonic = "solve supreme peasant parade poverty review seat buyer cup problem hurdle debate";

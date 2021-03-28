@@ -1,1 +1,1 @@
-var mnemonic = "smile theory metal aware team bullet this pen among belt tilt item";
+var mnemonic = "second daughter tree trade kick amazing ritual raven jar toast naive garden";

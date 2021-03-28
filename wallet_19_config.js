@@ -1,1 +1,1 @@
-var mnemonic = "hundred method hard pause cram awake leg world enrich lottery sleep concert";
+var mnemonic = "uncle ginger trade bean hire weapon luggage note knock lift view list";

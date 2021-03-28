@@ -1,1 +1,1 @@
-var mnemonic = "airport obey stadium goddess tobacco crop witness fringe ridge tilt focus autumn";
+var mnemonic = "acquire pig wrap little loop cactus pottery people cupboard false must labor";

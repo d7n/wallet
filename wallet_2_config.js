@@ -1,1 +1,1 @@
-var mnemonic = "father palm critic above vapor blind twin erode crowd obscure chase hunt";
+var mnemonic = "slice void mask alien average purchase wasp shrug kitchen cruel dwarf high";

@@ -1,1 +1,1 @@
-var mnemonic = "truth attend leisure wrap extra also very child bounce where taxi layer";
+var mnemonic = "solution subject drill capable face skin tissue orient peace vault tank know";

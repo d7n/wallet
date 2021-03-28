@@ -1,1 +1,1 @@
-var mnemonic = "apple junior swift lunar mushroom fat liquid snap shock warm anchor diesel";
+var mnemonic = "achieve sound vote cruel average shadow school high demand wife skate metal";

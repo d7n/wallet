@@ -1,1 +1,1 @@
-var mnemonic = "ticket orchard dutch orange laundry pioneer cheese vital alone salmon wheat cluster";
+var mnemonic = "elephant bridge volcano flush sugar mixture vault fold curve link total era";

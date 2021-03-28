@@ -1,1 +1,1 @@
-var mnemonic = "sudden beach ill price host section angry aware fork team combine prison";
+var mnemonic = "type stumble fame once journey actual cabin whale dish seed outer fine";

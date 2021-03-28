@@ -1,1 +1,1 @@
-var mnemonic = "reflect brush target govern drill false control pear hundred social latin corn";
+var mnemonic = "message online skill table glory quality curve clerk cool symbol gloom adjust";

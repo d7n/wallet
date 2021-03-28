@@ -1,1 +1,1 @@
-var mnemonic = "smile review priority lend lounge lizard fish improve decide again suspect work";
+var mnemonic = "digital scan unique mouse cube arch normal shield skill sock diagram dilemma";

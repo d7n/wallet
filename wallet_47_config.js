@@ -1,1 +1,1 @@
-var mnemonic = "thumb furnace copy grit food explain input auction daring biology chalk boring";
+var mnemonic = "jump robot unfair refuse ugly what cause leaf crime defy fog butter";

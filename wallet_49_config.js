@@ -1,1 +1,1 @@
-var mnemonic = "refuse auction vicious dog conduct fade frown report neglect leopard click galaxy";
+var mnemonic = "demand spring copy broken pull faculty fence object upset corn bicycle tray";

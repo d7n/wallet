@@ -1,1 +1,1 @@
-var mnemonic = "crucial source turkey help load banana tail blame decide rich crawl erode";
+var mnemonic = "possible glare net hen picnic casual sure jeans defense sponsor knee pledge";

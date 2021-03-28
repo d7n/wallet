@@ -1,1 +1,1 @@
-var mnemonic = "release april what unusual trip first vacant horn hire wing help mosquito";
+var mnemonic = "champion kingdom post coach jeans nation feed clarify clever van flag rate";

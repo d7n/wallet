@@ -1,1 +1,1 @@
-var mnemonic = "chief link funny bicycle grape manage shoot build bitter top lemon garage";
+var mnemonic = "gesture century payment better can story razor orphan educate cupboard indicate sustain";

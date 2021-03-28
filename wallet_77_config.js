@@ -1,1 +1,1 @@
-var mnemonic = "mail green tenant ankle hotel tool creek sail bean wrap example body";
+var mnemonic = "liquid clay double lady priority company enter list romance stem make where";

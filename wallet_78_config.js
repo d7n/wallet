@@ -1,1 +1,1 @@
-var mnemonic = "lamp worry fine auto dawn focus traffic refuse expand swim rate pipe";
+var mnemonic = "bubble naive maid ice fame delay ten pyramid rally basic pigeon rapid";

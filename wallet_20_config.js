@@ -1,1 +1,1 @@
-var mnemonic = "mandate pyramid share aim rebel blame divide venture mention fitness fiber mechanic";
+var mnemonic = "actress nominee aerobic speed cake step trash slot guilt slab crater horror";

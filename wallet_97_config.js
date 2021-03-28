@@ -1,1 +1,1 @@
-var mnemonic = "wish quiz wheel advice fashion include calm defy song unable version sort";
+var mnemonic = "pudding ramp idea file identify repeat crane conduct figure clinic runway neutral";

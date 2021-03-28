@@ -1,1 +1,1 @@
-var mnemonic = "alter remind burden hole wheel spoil glory because benefit trumpet sword afford";
+var mnemonic = "dinosaur park grab funny anchor mother boy slot coach rich caution scan";

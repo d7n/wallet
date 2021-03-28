@@ -1,1 +1,1 @@
-var mnemonic = "minor master diesel state dove jar model jeans bulk chase stand slam";
+var mnemonic = "gospel badge auction fragile drill spirit worth ship atom prosper opera spawn";

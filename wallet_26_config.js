@@ -1,1 +1,1 @@
-var mnemonic = "embrace unfold crime praise fruit gold business scale about endless arm blue";
+var mnemonic = "call wedding cargo enhance cotton brave toilet episode bottom diagram brown debris";

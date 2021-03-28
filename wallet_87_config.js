@@ -1,1 +1,1 @@
-var mnemonic = "angry circle anxiety brown moral slice wise future suit ozone glad taxi";
+var mnemonic = "drive shove snake peasant decide wish feel inspire build secret ski whale";

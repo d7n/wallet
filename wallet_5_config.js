@@ -1,1 +1,1 @@
-var mnemonic = "organ theory crime all diet egg square base aware fine hood corn";
+var mnemonic = "nephew average then nurse position atom style gesture menu pledge planet sustain";

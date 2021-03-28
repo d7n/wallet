@@ -1,1 +1,1 @@
-var mnemonic = "grow zero arrow pond vintage pen wink clarify derive payment fancy alien";
+var mnemonic = "employ path depend slam favorite potato virus orbit young fame stomach foster";

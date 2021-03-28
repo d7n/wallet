@@ -1,1 +1,1 @@
-var mnemonic = "detail endorse seven acquire vivid suit quarter clock turkey convince stem puzzle";
+var mnemonic = "glance employ speak giggle street unhappy rib visit paper pepper rail concert";

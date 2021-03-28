@@ -1,1 +1,1 @@
-var mnemonic = "term media stamp effort soldier usage fence opera judge improve comfort brush";
+var mnemonic = "grace hybrid aerobic unable canal bag artist alert scrap obtain sphere parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "cup picnic daring wash carbon field emerge catalog away hurt motion metal";
+var mnemonic = "math useful fold verify try legal essence movie base fetch flag because";

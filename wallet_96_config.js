@@ -1,1 +1,1 @@
-var mnemonic = "exit federal vast face cruise cream stuff future say grass window visit";
+var mnemonic = "eye park dwarf pride link switch slide rabbit diary deer super quiz";

@@ -1,1 +1,1 @@
-var mnemonic = "screen pass hair awesome rate transfer senior ladder record symptom cat pony";
+var mnemonic = "flash solution skill exhaust demand burger arrow wide happy memory curtain drastic";

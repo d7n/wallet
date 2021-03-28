@@ -1,1 +1,1 @@
-var mnemonic = "frequent jump drive master useful rather input solve hazard flower paddle catch";
+var mnemonic = "mechanic step inmate select original crystal infant barrel edge that jazz cube";
