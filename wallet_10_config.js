@@ -1,1 +1,1 @@
-var mnemonic = "search method doctor someone obscure judge swallow quit pass hollow disagree state";
+var mnemonic = "come pulse album joke all hello north prevent awful grief ketchup noise";

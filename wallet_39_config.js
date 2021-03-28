@@ -1,1 +1,1 @@
-var mnemonic = "horror purse dutch park appear fit supply winter depth want shy brass";
+var mnemonic = "nephew install life unfold sheriff turn dress liberty best earn stay you";

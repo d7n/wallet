@@ -1,1 +1,1 @@
-var mnemonic = "hidden broken initial magnet fitness wool scare public brick position action script";
+var mnemonic = "liberty quote huge drip level casual friend country rifle neither birth cross";

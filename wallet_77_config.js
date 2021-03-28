@@ -1,1 +1,1 @@
-var mnemonic = "provide little endless column fantasy attract similar winner share now diary table";
+var mnemonic = "expose enhance like furnace travel diet donkey ostrich forest garment inside solve";

@@ -1,1 +1,1 @@
-var mnemonic = "mail jazz music victory upon elbow cram vivid enough tape flash confirm";
+var mnemonic = "battle talk fire tennis fortune cigar fiber control van fence resource surface";

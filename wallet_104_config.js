@@ -1,1 +1,1 @@
-var mnemonic = "matter north leave subway arrow trick swap property beyond sleep senior spot";
+var mnemonic = "distance vocal artefact old moon senior warm master avoid carbon twelve habit";

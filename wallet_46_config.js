@@ -1,1 +1,1 @@
-var mnemonic = "ski knock across garage goddess chalk road snap cement armor quality solution";
+var mnemonic = "lava process tiny test swift demise bring vote breeze urge rubber rigid";

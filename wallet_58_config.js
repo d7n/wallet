@@ -1,1 +1,1 @@
-var mnemonic = "wish emotion round lend erupt danger prison athlete wasp tenant weather assist";
+var mnemonic = "easily link clap lend monkey waste sunny plug fix rally mixture armed";

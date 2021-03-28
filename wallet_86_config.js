@@ -1,1 +1,1 @@
-var mnemonic = "mechanic more happy wish blood toss jeans hawk garbage gather science dynamic";
+var mnemonic = "dust jelly lift palm define antenna bean industry become degree autumn rich";

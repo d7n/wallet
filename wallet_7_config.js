@@ -1,1 +1,1 @@
-var mnemonic = "replace sail cupboard pilot october volume soccer portion extra frost frown spike";
+var mnemonic = "around brisk silent industry light also real flame endorse tribe maximum unlock";

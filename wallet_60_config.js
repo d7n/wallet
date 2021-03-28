@@ -1,1 +1,1 @@
-var mnemonic = "fancy pool seek tube pear bronze twist valid release silver next frequent";
+var mnemonic = "code friend festival panel memory stereo lecture scorpion ethics repair devote now";

@@ -1,1 +1,1 @@
-var mnemonic = "town word helmet item version sugar luggage phone sleep escape roof hawk";
+var mnemonic = "token august swim radar hurry hammer stable patient wasp toward pink sad";

@@ -1,1 +1,1 @@
-var mnemonic = "math deliver purpose taxi forget bridge clerk drastic car eyebrow detect swear";
+var mnemonic = "student cactus picture because dice panda once produce carry behave tool table";

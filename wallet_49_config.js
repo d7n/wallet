@@ -1,1 +1,1 @@
-var mnemonic = "spare demand neck same trade letter teach method orient giggle genre brave";
+var mnemonic = "job excess snack syrup gown obvious capital arena subway economy couch cover";

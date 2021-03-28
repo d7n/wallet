@@ -1,1 +1,1 @@
-var mnemonic = "have wreck worry glory paddle cliff dry dolphin acid correct oyster mad";
+var mnemonic = "critic visit panda track fetch toddler tired bulb banner body erase either";

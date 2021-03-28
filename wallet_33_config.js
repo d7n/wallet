@@ -1,1 +1,1 @@
-var mnemonic = "ramp spoon gown crane scene episode scorpion cabin siren reject heart tail";
+var mnemonic = "frost era balcony draft once remain palm pelican dice nice early shuffle";

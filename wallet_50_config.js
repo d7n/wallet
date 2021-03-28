@@ -1,1 +1,1 @@
-var mnemonic = "dune energy lock book wealth miracle ecology later flee hope elite page";
+var mnemonic = "velvet mirror cushion inhale expose extend army cotton note crisp taxi domain";

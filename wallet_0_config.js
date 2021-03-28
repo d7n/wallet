@@ -1,1 +1,1 @@
-var mnemonic = "trust label upgrade kiss news afraid slogan bottom length armed float walk";
+var mnemonic = "high miss stool cruel search angry film chair shoot large candy never";

@@ -1,1 +1,1 @@
-var mnemonic = "empty echo track upset vital quantum hint fox raven edge trumpet hard";
+var mnemonic = "enable enact bread submit logic evolve sweet brain wear dream lucky city";

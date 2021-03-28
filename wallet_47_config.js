@@ -1,1 +1,1 @@
-var mnemonic = "thunder tool version stool squeeze donkey thought public settle meat ridge assist";
+var mnemonic = "hamster alpha basic author razor napkin erase merry adapt usual kite grace";

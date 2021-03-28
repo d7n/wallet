@@ -1,1 +1,1 @@
-var mnemonic = "file reunion tissue boost dwarf occur vivid lyrics van broken cheap blanket";
+var mnemonic = "almost kiwi top awful wonder age fit near column raise annual fine";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen spy elephant banner rabbit silent ribbon short laundry tourist finish equal";
+var mnemonic = "onion jaguar female range hen dizzy material raven promote blade super alpha";

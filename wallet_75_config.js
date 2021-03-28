@@ -1,1 +1,1 @@
-var mnemonic = "amateur spell enter bamboo cotton metal inner choose say bridge page flame";
+var mnemonic = "high turn giraffe bubble strong typical steel comfort raise car mechanic chair";

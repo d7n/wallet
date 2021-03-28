@@ -1,1 +1,1 @@
-var mnemonic = "since three believe convince delay gym fever bridge engage mansion spoon useless";
+var mnemonic = "voyage upon purse sheriff devote farm gym fancy fruit syrup figure loan";

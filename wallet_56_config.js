@@ -1,1 +1,1 @@
-var mnemonic = "wealth that more tilt arm creek tell hockey oxygen plunge hurry notable";
+var mnemonic = "diary number gadget glimpse salmon endless steel auction deal tag cherry accuse";

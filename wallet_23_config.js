@@ -1,1 +1,1 @@
-var mnemonic = "glory identify gossip hazard meat lamp light spend lens tool confirm number";
+var mnemonic = "resemble vital door grocery between proud helmet civil grit pear relief beauty";

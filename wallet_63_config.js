@@ -1,1 +1,1 @@
-var mnemonic = "master because census bone fall matter sun twice crop gospel hurry ankle";
+var mnemonic = "current price humble erase space audit wild album bitter school tooth mind";

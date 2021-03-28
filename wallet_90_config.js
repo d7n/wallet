@@ -1,1 +1,1 @@
-var mnemonic = "rhythm humble drop genius junior phrase vocal aware enjoy machine doll squirrel";
+var mnemonic = "lesson cinnamon slush rice pond author divert protect mass hedgehog dumb country";

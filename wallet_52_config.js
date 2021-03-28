@@ -1,1 +1,1 @@
-var mnemonic = "can soldier lend armor icon twelve side mercy comfort pave woman few";
+var mnemonic = "flight autumn inhale upset tunnel party talk library must album bus castle";

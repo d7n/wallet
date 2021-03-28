@@ -1,1 +1,1 @@
-var mnemonic = "win comfort dismiss april mountain occur boy into horror buddy scout mixture";
+var mnemonic = "crouch labor grow patrol sing more ceiling virtual goose force dynamic junior";

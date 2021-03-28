@@ -1,1 +1,1 @@
-var mnemonic = "alone long figure obey enrich work you basket embrace rude host book";
+var mnemonic = "symbol toddler size risk fringe expire range quit flee wrist direct mesh";

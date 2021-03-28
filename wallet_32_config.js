@@ -1,1 +1,1 @@
-var mnemonic = "switch return develop arctic vast mom will range toe cable mandate tourist";
+var mnemonic = "seat special ticket soap woman april awkward work elder vocal prevent meadow";

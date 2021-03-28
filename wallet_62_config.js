@@ -1,1 +1,1 @@
-var mnemonic = "cool misery wild ahead learn warm confirm impose chair gun camp upon";
+var mnemonic = "twin dwarf ankle olive despair fruit pass claw exhibit record afraid dynamic";

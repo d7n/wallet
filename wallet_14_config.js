@@ -1,1 +1,1 @@
-var mnemonic = "cream alley proof dirt alley timber when business search attack oil clap";
+var mnemonic = "marble stem fragile critic dismiss reject owner scout wise math rice garbage";

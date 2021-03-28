@@ -1,1 +1,1 @@
-var mnemonic = "foam desert rain cube skull clock maid network document float renew door";
+var mnemonic = "coyote peasant solve sustain cupboard silk intact stem fatal ask six license";

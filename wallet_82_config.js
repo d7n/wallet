@@ -1,1 +1,1 @@
-var mnemonic = "alarm nothing bachelor soda beef regret immune hen photo pond path suggest";
+var mnemonic = "dinosaur mask lion fork another wealth claw return shoulder invite piano letter";

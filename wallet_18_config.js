@@ -1,1 +1,1 @@
-var mnemonic = "off style ring payment swift aisle rhythm final monkey federal round swallow";
+var mnemonic = "palm will real model either fine insane arrive poet seek piece rapid";

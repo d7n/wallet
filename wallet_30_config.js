@@ -1,1 +1,1 @@
-var mnemonic = "lady sugar veteran aware end chaos borrow moment corn toast sell hedgehog";
+var mnemonic = "awful rain occur shop say royal palace bar like task sugar over";

@@ -1,1 +1,1 @@
-var mnemonic = "slot uncle emotion prepare stand alcohol figure capital burst panther vault melody";
+var mnemonic = "job toddler fix during crumble code helmet spy capable half abandon flee";

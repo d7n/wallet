@@ -1,1 +1,1 @@
-var mnemonic = "dream alien beach find slide arctic boss fix all enrich leader nice";
+var mnemonic = "goddess order wide distance rule cradle dumb toss grain segment virus medal";

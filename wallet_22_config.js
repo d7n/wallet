@@ -1,1 +1,1 @@
-var mnemonic = "steak two trend blind board stay squeeze violin survey mad chair cancel";
+var mnemonic = "reopen trumpet hedgehog oak north lesson mention pretty category clarify symbol genius";

@@ -1,1 +1,1 @@
-var mnemonic = "they wet winner tonight pond initial human replace boss tenant ribbon river";
+var mnemonic = "hotel image then memory intact nice guilt surprise basic resource gallery refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "cereal drop comic tunnel pitch valid century never egg pool detail north";
+var mnemonic = "caution knee eternal rapid island armed such pumpkin rib van polar marine";

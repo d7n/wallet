@@ -1,1 +1,1 @@
-var mnemonic = "fetch blast tragic script submit immune lunch youth same loyal dinner junior";
+var mnemonic = "initial sauce myth bracket soon soccer ivory paddle staff glue evidence fog";

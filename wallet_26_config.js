@@ -1,1 +1,1 @@
-var mnemonic = "palace parrot tiger honey diary forum solar invest sock tag divide switch";
+var mnemonic = "horn leaf skate task flower cost fetch robot pumpkin foil lift pave";

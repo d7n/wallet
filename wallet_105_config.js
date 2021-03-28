@@ -1,1 +1,1 @@
-var mnemonic = "current good engage crouch spatial plastic suggest ripple omit security october merit";
+var mnemonic = "luggage usage zoo because mail this crime course omit toddler rubber quiz";

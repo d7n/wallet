@@ -1,1 +1,1 @@
-var mnemonic = "key turtle equal profit celery claw high end distance funny bind oblige";
+var mnemonic = "mom brass diesel before pear affair scrub final taste oblige sport citizen";

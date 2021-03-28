@@ -1,1 +1,1 @@
-var mnemonic = "armor snap suggest more frequent cactus iron pyramid ribbon pass gloom seek";
+var mnemonic = "ritual sign rule ostrich stomach draw apart miss return health between win";

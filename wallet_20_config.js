@@ -1,1 +1,1 @@
-var mnemonic = "coin amount post lake material foam trick mobile average shaft vanish cave";
+var mnemonic = "warrior purse panda tool dress borrow scout session achieve turn shine high";

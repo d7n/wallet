@@ -1,1 +1,1 @@
-var mnemonic = "vacant orchard sister garbage update brisk mansion corn notice cost bench helmet";
+var mnemonic = "explain among size ball access result before index mosquito mask strategy final";

@@ -1,1 +1,1 @@
-var mnemonic = "orient demise junior estate rack until flat surge simple mutual smooth ozone";
+var mnemonic = "fantasy maple crawl valley flame prefer scrap vendor couch make scheme daughter";

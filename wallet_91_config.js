@@ -1,1 +1,1 @@
-var mnemonic = "pitch era exile comic version cross burden tomorrow disease below circle muffin";
+var mnemonic = "hover pipe taxi slush half craft record once rare dry achieve fish";

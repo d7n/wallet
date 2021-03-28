@@ -1,1 +1,1 @@
-var mnemonic = "pass huge indoor canyon stumble obvious tennis win width rival theme dream";
+var mnemonic = "banner zero upon hair salad one topic sketch frozen slide walnut walnut";

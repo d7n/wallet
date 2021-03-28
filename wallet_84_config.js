@@ -1,1 +1,1 @@
-var mnemonic = "crane apart unable assault sausage pizza news lumber play cup manual firm";
+var mnemonic = "second pretty pink more matter clap process sight cousin stereo empower real";

@@ -1,1 +1,1 @@
-var mnemonic = "logic wife human net leisure release erosion notice vocal all bless foil";
+var mnemonic = "clown tree typical bomb stadium valve off cushion awful body mercy rate";

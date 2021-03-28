@@ -1,1 +1,1 @@
-var mnemonic = "element stuff wild fabric rebel work town average transfer school museum river";
+var mnemonic = "scale excess knock spice shove disease skirt surprise remind core poverty girl";

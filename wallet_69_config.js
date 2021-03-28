@@ -1,1 +1,1 @@
-var mnemonic = "park lunch marriage spider night today water chef assume artefact fetch cage";
+var mnemonic = "milk panther awesome mystery zero caught spice taxi someone wall bid unique";

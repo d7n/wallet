@@ -1,1 +1,1 @@
-var mnemonic = "history close atom treat afraid can domain fog wink fury hire vicious";
+var mnemonic = "oil title pole asset tip umbrella trial borrow jump magic same culture";

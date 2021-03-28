@@ -1,1 +1,1 @@
-var mnemonic = "juice will witness member suit finish curtain ramp drastic option fluid harvest";
+var mnemonic = "action antenna kidney direct family despair shop noble tip luxury mouse culture";

@@ -1,1 +1,1 @@
-var mnemonic = "category genuine phrase extra price sail cargo merge thumb female hood breeze";
+var mnemonic = "silk early urban suspect arch lamp craft mom test addict client evidence";

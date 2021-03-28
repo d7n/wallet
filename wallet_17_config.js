@@ -1,1 +1,1 @@
-var mnemonic = "walnut urge random scrap setup air clean creek uncle enforce damage provide";
+var mnemonic = "banana exit this bounce spatial dish depend ritual remind scheme wreck soccer";

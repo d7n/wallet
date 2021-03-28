@@ -1,1 +1,1 @@
-var mnemonic = "acid bag impact grain people jar shoe response cycle exact dry latin";
+var mnemonic = "increase pioneer legend session moon chalk year helmet dust pet mechanic vapor";

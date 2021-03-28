@@ -1,1 +1,1 @@
-var mnemonic = "barrel company biology then banana whale manage evoke garment derive laugh cannon";
+var mnemonic = "material sure fatigue dirt topic gym wall search brand vendor weather rain";

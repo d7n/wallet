@@ -1,1 +1,1 @@
-var mnemonic = "stage catch athlete umbrella drip muscle purity plunge wheat early cute anchor";
+var mnemonic = "rigid shrug betray cactus shaft interest soul marriage snow quantum trap rally";

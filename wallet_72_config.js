@@ -1,1 +1,1 @@
-var mnemonic = "bike banner angry divorce slice night infant mad huge pistol artist safe";
+var mnemonic = "cancel mosquito whale distance script decade vivid hen dizzy clip country cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "bar there basket price equip degree total solution fun relax asthma caught";
+var mnemonic = "loud alarm cabin card make boss mansion race horse quality whale style";

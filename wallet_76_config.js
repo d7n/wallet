@@ -1,1 +1,1 @@
-var mnemonic = "reveal defense traffic rival timber season speed grief wink gun equal nephew";
+var mnemonic = "bachelor liquid dinosaur guitar radio stumble hybrid sort atom rookie very pledge";

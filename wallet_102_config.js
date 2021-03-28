@@ -1,1 +1,1 @@
-var mnemonic = "language advice refuse shift verb birth above panel gauge remove polar analyst";
+var mnemonic = "void broom joke canoe goose history notice palace foam distance fade case";

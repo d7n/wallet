@@ -1,1 +1,1 @@
-var mnemonic = "above vintage similar kit draft pause aspect cousin entire large trap pave";
+var mnemonic = "chuckle cabbage idea measure peanut recipe alcohol imitate appear live wave bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "drip rural wedding same siege aunt balance frog mobile that oil object";
+var mnemonic = "subject bunker federal curtain gorilla rebuild defense afraid twice square coach cushion";

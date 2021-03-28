@@ -1,1 +1,1 @@
-var mnemonic = "offer doctor casual country brown film arch discover embrace kiwi adult refuse";
+var mnemonic = "lock warrior mule hard network foster popular blind mask party sand step";

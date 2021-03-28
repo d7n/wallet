@@ -1,1 +1,1 @@
-var mnemonic = "shy initial lemon sea breeze polar library truly cram muffin exhaust impact";
+var mnemonic = "maze debris birth choice roof maximum deal treat proof cross limb orchard";

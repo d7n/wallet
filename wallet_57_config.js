@@ -1,1 +1,1 @@
-var mnemonic = "hair six accuse brass mom draw reveal cargo shallow garbage robot noodle";
+var mnemonic = "science tackle drink divert balcony proof mango ask office gentle must better";

@@ -1,1 +1,1 @@
-var mnemonic = "happy special target sword skill execute dentist rocket access pupil crew never";
+var mnemonic = "time trigger design syrup clean dignity celery ring reform arch toddler trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset soap snow deliver swamp chief cool gallery salad fork used vehicle";
+var mnemonic = "people mountain predict tip wish theme panic exist razor duck beef there";

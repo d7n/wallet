@@ -1,1 +1,1 @@
-var mnemonic = "pistol erode cash special snow garden raven click type goat pizza own";
+var mnemonic = "chaos rally choose body giggle sail waste holiday blur picnic power always";

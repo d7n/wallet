@@ -1,1 +1,1 @@
-var mnemonic = "fence river poverty vault domain trim response truth weather expose floor monitor";
+var mnemonic = "divide hollow pave quick custom primary mention day toward knock weather board";

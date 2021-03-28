@@ -1,1 +1,1 @@
-var mnemonic = "random elite immune insane climb occur rebuild carbon donkey expect palace state";
+var mnemonic = "artefact alcohol inform resist layer sign riot eagle fan forget flee shoulder";

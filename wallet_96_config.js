@@ -1,1 +1,1 @@
-var mnemonic = "soap broccoli wrist drill flip pear window approve oblige zero art field";
+var mnemonic = "crowd trouble spider shiver session dutch private match village tag weekend truck";
