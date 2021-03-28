@@ -1,1 +1,1 @@
-var mnemonic = "battle talk fire tennis fortune cigar fiber control van fence resource surface";
+var mnemonic = "vivid mother exchange burger tilt giant between host ball lottery pact sure";

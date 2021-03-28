@@ -1,1 +1,1 @@
-var mnemonic = "milk panther awesome mystery zero caught spice taxi someone wall bid unique";
+var mnemonic = "since despair remove spray noise taxi blush cart river other never step";

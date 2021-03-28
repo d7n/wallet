@@ -1,1 +1,1 @@
-var mnemonic = "swap refuse ready disorder desert notable canal grain immense antenna kick work";
+var mnemonic = "solid visual control strategy vocal race black hello act bind visa true";

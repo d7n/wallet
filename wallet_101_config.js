@@ -1,1 +1,1 @@
-var mnemonic = "pass call clock submit observe pledge edit onion stem midnight tourist online";
+var mnemonic = "useless stumble always travel shrug bike chase camp shield mystery evoke cage";

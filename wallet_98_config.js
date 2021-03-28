@@ -1,1 +1,1 @@
-var mnemonic = "calm tuna tribe glove hope dumb frost bird boat kitten squirrel blade";
+var mnemonic = "please cabin quantum tackle approve saddle boost lawsuit print morning lady rabbit";

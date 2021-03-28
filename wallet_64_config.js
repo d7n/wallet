@@ -1,1 +1,1 @@
-var mnemonic = "voyage upon purse sheriff devote farm gym fancy fruit syrup figure loan";
+var mnemonic = "orphan fantasy obvious social just permit funny actual embrace exhaust drum pitch";

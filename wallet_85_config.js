@@ -1,1 +1,1 @@
-var mnemonic = "virus snake distance super bridge salad rail snack need six inhale foster";
+var mnemonic = "erupt repeat penalty work about dentist view neutral leave term bitter immense";

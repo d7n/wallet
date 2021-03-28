@@ -1,1 +1,1 @@
-var mnemonic = "expose enhance like furnace travel diet donkey ostrich forest garment inside solve";
+var mnemonic = "mystery slender wheel ticket chat art believe process reason fitness grocery clown";

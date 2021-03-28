@@ -1,1 +1,1 @@
-var mnemonic = "people mountain predict tip wish theme panic exist razor duck beef there";
+var mnemonic = "forum kiwi tray trip host finish license cactus stem secret neutral word";

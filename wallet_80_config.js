@@ -1,1 +1,1 @@
-var mnemonic = "recycle army range proud crawl type denial three chair aim piece coconut";
+var mnemonic = "family version possible junk meadow demand balcony account spend shop grace guard";

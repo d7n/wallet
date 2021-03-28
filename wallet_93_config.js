@@ -1,1 +1,1 @@
-var mnemonic = "job toddler fix during crumble code helmet spy capable half abandon flee";
+var mnemonic = "cube notable wool lift journey scrub supply tower tuition into nothing brother";

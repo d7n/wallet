@@ -1,1 +1,1 @@
-var mnemonic = "lounge scissors snack purse cannon uniform infant crane anxiety all symptom combine";
+var mnemonic = "reflect blind address song decline wagon identify scout home ribbon net avoid";

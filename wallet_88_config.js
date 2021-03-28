@@ -1,1 +1,1 @@
-var mnemonic = "burden install supply bitter fortune evil suspect arrow clerk rotate width toilet";
+var mnemonic = "sunny page damage nephew obscure cross boy spell return hard squirrel cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "rent expose melody amount chief dust retire iron task stomach cage naive";
+var mnemonic = "offer muffin denial lyrics when antenna open limit junior second theory small";

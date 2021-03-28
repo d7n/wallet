@@ -1,1 +1,1 @@
-var mnemonic = "velvet mirror cushion inhale expose extend army cotton note crisp taxi domain";
+var mnemonic = "bean hill trust crazy field sell word proof arrange harbor detect tragic";

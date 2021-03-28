@@ -1,1 +1,1 @@
-var mnemonic = "oil title pole asset tip umbrella trial borrow jump magic same culture";
+var mnemonic = "clock desk lyrics deer recall sand dynamic fall grain slender juice type";

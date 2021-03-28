@@ -1,1 +1,1 @@
-var mnemonic = "spin chunk novel gain upgrade stick badge metal remind plate uncle provide";
+var mnemonic = "ostrich danger then fault use cook net mix mansion violin candy little";

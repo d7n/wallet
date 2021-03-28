@@ -1,1 +1,1 @@
-var mnemonic = "awful rain occur shop say royal palace bar like task sugar over";
+var mnemonic = "enough proud region notice carbon valid tomorrow february panel angle film problem";

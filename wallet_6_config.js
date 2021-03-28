@@ -1,1 +1,1 @@
-var mnemonic = "maze debris birth choice roof maximum deal treat proof cross limb orchard";
+var mnemonic = "now cake regular pole other leopard ring ladder wait garage february bind";

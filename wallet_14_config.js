@@ -1,1 +1,1 @@
-var mnemonic = "marble stem fragile critic dismiss reject owner scout wise math rice garbage";
+var mnemonic = "swamp salt stereo nature motion sport foot polar news cluster jump core";

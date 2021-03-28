@@ -1,1 +1,1 @@
-var mnemonic = "tag barely nephew meadow glory dilemma hen humble jungle question object priority";
+var mnemonic = "remain flush any assault umbrella pole apple abstract analyst park strike raccoon";

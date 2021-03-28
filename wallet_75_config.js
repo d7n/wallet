@@ -1,1 +1,1 @@
-var mnemonic = "high turn giraffe bubble strong typical steel comfort raise car mechanic chair";
+var mnemonic = "kite social payment mandate minute warm animal neglect walnut blush dolphin depart";

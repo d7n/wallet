@@ -1,1 +1,1 @@
-var mnemonic = "artefact alcohol inform resist layer sign riot eagle fan forget flee shoulder";
+var mnemonic = "cook expose rail spin decorate aunt total high situate wet renew olympic";

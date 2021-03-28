@@ -1,1 +1,1 @@
-var mnemonic = "brain inner corn cross lake purse hospital six icon boy butter wonder";
+var mnemonic = "sell agent rent behave learn utility mammal scissors green glide divide later";

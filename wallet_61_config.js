@@ -1,1 +1,1 @@
-var mnemonic = "trigger permit update dream burst fog grid cat copper ivory obey sadness";
+var mnemonic = "good chunk cost illness nice route nominee assist replace recall private pear";

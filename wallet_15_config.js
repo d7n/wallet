@@ -1,1 +1,1 @@
-var mnemonic = "symbol toddler size risk fringe expire range quit flee wrist direct mesh";
+var mnemonic = "card camp leave tomorrow bleak any cherry basket work fade spring chase";

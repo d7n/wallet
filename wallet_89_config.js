@@ -1,1 +1,1 @@
-var mnemonic = "own since fan correct globe begin recipe cart suffer crane prize allow";
+var mnemonic = "ticket clean alter faint soap source language jelly naive spring remind shoot";

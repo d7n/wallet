@@ -1,1 +1,1 @@
-var mnemonic = "material sure fatigue dirt topic gym wall search brand vendor weather rain";
+var mnemonic = "deposit sadness flower reform fetch cake prize fever nominee music sponsor guess";

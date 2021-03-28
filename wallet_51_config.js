@@ -1,1 +1,1 @@
-var mnemonic = "ready piano zoo flavor level deny vote pen basic remind aim thank";
+var mnemonic = "another snow annual nerve rocket exchange drill axis miracle nothing village fresh";

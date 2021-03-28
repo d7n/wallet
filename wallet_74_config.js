@@ -1,1 +1,1 @@
-var mnemonic = "coyote peasant solve sustain cupboard silk intact stem fatal ask six license";
+var mnemonic = "shove lion exotic lab caught shoe multiply liberty dance gallery ghost escape";

@@ -1,1 +1,1 @@
-var mnemonic = "code friend festival panel memory stereo lecture scorpion ethics repair devote now";
+var mnemonic = "shiver gather hungry alert doctor team cup test decorate toe luxury improve";

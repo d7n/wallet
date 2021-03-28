@@ -1,1 +1,1 @@
-var mnemonic = "crowd trouble spider shiver session dutch private match village tag weekend truck";
+var mnemonic = "misery total practice pattern shift ice embody display diary fame head another";

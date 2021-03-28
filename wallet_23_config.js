@@ -1,1 +1,1 @@
-var mnemonic = "resemble vital door grocery between proud helmet civil grit pear relief beauty";
+var mnemonic = "once mountain industry paddle stool glide false start odor tool open van";

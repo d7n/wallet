@@ -1,1 +1,1 @@
-var mnemonic = "divide hollow pave quick custom primary mention day toward knock weather board";
+var mnemonic = "stone teach gospel arena eagle syrup flag roast reduce fat wolf hurt";

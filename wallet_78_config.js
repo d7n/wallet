@@ -1,1 +1,1 @@
-var mnemonic = "spray upgrade gun whip secret drive tongue trigger bar stereo ladder spoil";
+var mnemonic = "crater shuffle begin ugly myself sadness grass index valve trust aunt rug";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess order wide distance rule cradle dumb toss grain segment virus medal";
+var mnemonic = "pride guilt mistake crunch climb eager nation head just memory fiber human";

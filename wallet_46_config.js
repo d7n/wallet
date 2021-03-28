@@ -1,1 +1,1 @@
-var mnemonic = "lava process tiny test swift demise bring vote breeze urge rubber rigid";
+var mnemonic = "balcony rabbit decide course style assist can lottery home rival bid february";

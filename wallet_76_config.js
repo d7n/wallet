@@ -1,1 +1,1 @@
-var mnemonic = "bachelor liquid dinosaur guitar radio stumble hybrid sort atom rookie very pledge";
+var mnemonic = "say swift replace fan rabbit dash lonely ivory gloom move barely antenna";

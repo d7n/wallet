@@ -1,1 +1,1 @@
-var mnemonic = "subject bunker federal curtain gorilla rebuild defense afraid twice square coach cushion";
+var mnemonic = "enlist furnace cattle run reduce decorate chest door upon shuffle shed law";

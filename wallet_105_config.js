@@ -1,1 +1,1 @@
-var mnemonic = "luggage usage zoo because mail this crime course omit toddler rubber quiz";
+var mnemonic = "swing poverty way kitten only fiber enter flame analyst tuition deposit husband";

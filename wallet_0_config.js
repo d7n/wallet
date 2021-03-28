@@ -1,1 +1,1 @@
-var mnemonic = "high miss stool cruel search angry film chair shoot large candy never";
+var mnemonic = "typical horror youth copy plug trip scan sleep glance earth shrug suggest";

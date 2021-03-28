@@ -1,1 +1,1 @@
-var mnemonic = "scale excess knock spice shove disease skirt surprise remind core poverty girl";
+var mnemonic = "puppy garment answer green mix fault agree nuclear divide corn make kick";

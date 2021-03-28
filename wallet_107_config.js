@@ -1,1 +1,1 @@
-var mnemonic = "student eager climb husband recipe cliff still comic impact team simple clock";
+var mnemonic = "stand wink seminar civil top wide champion unhappy expose riot bottom ginger";

@@ -1,1 +1,1 @@
-var mnemonic = "easily link clap lend monkey waste sunny plug fix rally mixture armed";
+var mnemonic = "dizzy invest kangaroo degree swear void man damp now multiply ahead client";

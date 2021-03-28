@@ -1,1 +1,1 @@
-var mnemonic = "liberty quote huge drip level casual friend country rifle neither birth cross";
+var mnemonic = "that scare when exhibit fuel permit render ability hamster field coil piece";

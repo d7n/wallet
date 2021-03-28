@@ -1,1 +1,1 @@
-var mnemonic = "round taste spike primary language merry bitter ill unhappy pact describe suggest";
+var mnemonic = "suggest rescue episode market shadow chronic swing cloud poet size noble lecture";

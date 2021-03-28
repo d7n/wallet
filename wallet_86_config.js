@@ -1,1 +1,1 @@
-var mnemonic = "dust jelly lift palm define antenna bean industry become degree autumn rich";
+var mnemonic = "nation trash subject nut boy kick build regret mushroom reduce hour veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "around brisk silent industry light also real flame endorse tribe maximum unlock";
+var mnemonic = "ship together present erosion marine tree casual aware crawl food snow fruit";

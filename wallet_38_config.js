@@ -1,1 +1,1 @@
-var mnemonic = "caution knee eternal rapid island armed such pumpkin rib van polar marine";
+var mnemonic = "laptop hint home sick crew visa lend goose exercise spread tattoo execute";

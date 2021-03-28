@@ -1,1 +1,1 @@
-var mnemonic = "twin dwarf ankle olive despair fruit pass claw exhibit record afraid dynamic";
+var mnemonic = "pass earth pole error moral clever venture select school jelly imitate final";

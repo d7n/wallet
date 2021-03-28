@@ -1,1 +1,1 @@
-var mnemonic = "token august swim radar hurry hammer stable patient wasp toward pink sad";
+var mnemonic = "slim bright extend pretty either scheme summer distance smart file chaos feed";

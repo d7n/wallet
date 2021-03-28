@@ -1,1 +1,1 @@
-var mnemonic = "frost era balcony draft once remain palm pelican dice nice early shuffle";
+var mnemonic = "north wrist accuse object machine bone avocado child eight excuse slow pony";

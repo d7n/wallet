@@ -1,1 +1,1 @@
-var mnemonic = "second pretty pink more matter clap process sight cousin stereo empower real";
+var mnemonic = "hollow chase mutual genuine female sign omit brand square start rice gap";

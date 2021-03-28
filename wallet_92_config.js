@@ -1,1 +1,1 @@
-var mnemonic = "mirror detail number artwork oven famous estate deer wagon okay grape crowd";
+var mnemonic = "bundle bag tape favorite heart gallery federal vintage donkey staff battle entry";

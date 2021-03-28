@@ -1,1 +1,1 @@
-var mnemonic = "hotel image then memory intact nice guilt surprise basic resource gallery refuse";
+var mnemonic = "curious suggest pet style glass thumb deputy race peace tooth lake cradle";

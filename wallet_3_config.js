@@ -1,1 +1,1 @@
-var mnemonic = "time trigger design syrup clean dignity celery ring reform arch toddler trumpet";
+var mnemonic = "ivory choice various harbor digital trust retreat fresh pen suffer lock wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "mule select cereal annual tortoise claw unveil echo other barely promote aware";
+var mnemonic = "join tennis track noise minimum cross usual mammal oblige scrap mirror area";

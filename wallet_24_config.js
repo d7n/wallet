@@ -1,1 +1,1 @@
-var mnemonic = "animal stumble blame rural empower coconut sport wool crowd coffee front wave";
+var mnemonic = "bleak limit maximum enact hint chimney sword there borrow retreat mother border";

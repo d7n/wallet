@@ -1,1 +1,1 @@
-var mnemonic = "silk early urban suspect arch lamp craft mom test addict client evidence";
+var mnemonic = "ostrich promote person embrace they enrich bullet surface lava math engine sort";

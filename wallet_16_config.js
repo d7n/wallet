@@ -1,1 +1,1 @@
-var mnemonic = "clown tree typical bomb stadium valve off cushion awful body mercy rate";
+var mnemonic = "print panic crash vivid twenty cat decade answer cable interest praise category";

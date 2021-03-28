@@ -1,1 +1,1 @@
-var mnemonic = "seat special ticket soap woman april awkward work elder vocal prevent meadow";
+var mnemonic = "puppy misery casino wagon throw expect begin fiscal trigger uphold identify budget";

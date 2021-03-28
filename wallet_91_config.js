@@ -1,1 +1,1 @@
-var mnemonic = "hover pipe taxi slush half craft record once rare dry achieve fish";
+var mnemonic = "credit glove slush rural then outer unit smoke permit town side giant";

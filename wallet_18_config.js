@@ -1,1 +1,1 @@
-var mnemonic = "palm will real model either fine insane arrive poet seek piece rapid";
+var mnemonic = "guess animal boring coyote olympic adapt sign extra bind inhale have afraid";

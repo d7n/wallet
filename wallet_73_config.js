@@ -1,1 +1,1 @@
-var mnemonic = "loud alarm cabin card make boss mansion race horse quality whale style";
+var mnemonic = "brisk hen duty grant pig hazard bench rack asset matter sponsor defense";

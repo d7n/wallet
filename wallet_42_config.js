@@ -1,1 +1,1 @@
-var mnemonic = "enable enact bread submit logic evolve sweet brain wear dream lucky city";
+var mnemonic = "victory ahead rhythm solar scrub tissue legend waste news spirit addict place";

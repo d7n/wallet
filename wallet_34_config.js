@@ -1,1 +1,1 @@
-var mnemonic = "ask eyebrow cereal swallow thought spice bachelor walk hazard cupboard island range";
+var mnemonic = "stool shoulder grant obtain dad build produce prefer tunnel rescue abuse tool";

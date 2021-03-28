@@ -1,1 +1,1 @@
-var mnemonic = "almost kiwi top awful wonder age fit near column raise annual fine";
+var mnemonic = "attack side one despair arch slab vocal imitate gasp aspect tray arrow";

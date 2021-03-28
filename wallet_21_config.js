@@ -1,1 +1,1 @@
-var mnemonic = "lock warrior mule hard network foster popular blind mask party sand step";
+var mnemonic = "tenant zebra village aim start sell cute can nuclear name waste treat";

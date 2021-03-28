@@ -1,1 +1,1 @@
-var mnemonic = "warrior purse panda tool dress borrow scout session achieve turn shine high";
+var mnemonic = "old diet usual next bone photo music float bullet primary force useful";

@@ -1,1 +1,1 @@
-var mnemonic = "fantasy maple crawl valley flame prefer scrap vendor couch make scheme daughter";
+var mnemonic = "select spell section utility pepper oak page edit nice grace girl kid";

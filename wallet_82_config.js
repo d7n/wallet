@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur mask lion fork another wealth claw return shoulder invite piano letter";
+var mnemonic = "obscure blush arch green tip owner sting allow lonely away process atom";

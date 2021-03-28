@@ -1,1 +1,1 @@
-var mnemonic = "current price humble erase space audit wild album bitter school tooth mind";
+var mnemonic = "bone afford sound copy frozen elder summer typical bracket nose monkey scheme";

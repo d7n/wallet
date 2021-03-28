@@ -1,1 +1,1 @@
-var mnemonic = "nephew install life unfold sheriff turn dress liberty best earn stay you";
+var mnemonic = "fix issue pause doctor inhale rotate this icon unusual field lizard garage";

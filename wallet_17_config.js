@@ -1,1 +1,1 @@
-var mnemonic = "banana exit this bounce spatial dish depend ritual remind scheme wreck soccer";
+var mnemonic = "ramp permit busy ketchup relax kid run ecology ghost frog elephant silent";

@@ -1,1 +1,1 @@
-var mnemonic = "initial sauce myth bracket soon soccer ivory paddle staff glue evidence fog";
+var mnemonic = "guilt day phrase jacket rug tribe dinner brush joy damp odor emotion";

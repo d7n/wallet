@@ -1,1 +1,1 @@
-var mnemonic = "horn leaf skate task flower cost fetch robot pumpkin foil lift pave";
+var mnemonic = "current public thought clean occur apart nose mimic wolf month clay moment";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch labor grow patrol sing more ceiling virtual goose force dynamic junior";
+var mnemonic = "dash grocery use type recall dance route gauge fragile slight census pencil";

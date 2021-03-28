@@ -1,1 +1,1 @@
-var mnemonic = "job excess snack syrup gown obvious capital arena subway economy couch cover";
+var mnemonic = "depend thought burst damp six web tip road absorb raven they empower";

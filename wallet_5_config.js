@@ -1,1 +1,1 @@
-var mnemonic = "monitor thunder slender pond lab save cactus furnace refuse tell soft early";
+var mnemonic = "borrow lesson banana distance photo visa nephew direct comic dilemma salt divide";

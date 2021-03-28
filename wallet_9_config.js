@@ -1,1 +1,1 @@
-var mnemonic = "leisure hope fever begin bachelor arctic surge lecture dose exclude arrive ride";
+var mnemonic = "rice depart media cash scene island friend foot always test file engine";

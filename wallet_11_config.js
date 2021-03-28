@@ -1,1 +1,1 @@
-var mnemonic = "page liar among joy evolve course that chief silent object seminar essence";
+var mnemonic = "scheme logic regular drama science tide sheriff staff face palace practice comfort";

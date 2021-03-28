@@ -1,1 +1,1 @@
-var mnemonic = "lesson cinnamon slush rice pond author divert protect mass hedgehog dumb country";
+var mnemonic = "crunch clip derive top laundry bundle torch spend drip menu similar sing";

@@ -1,1 +1,1 @@
-var mnemonic = "flight autumn inhale upset tunnel party talk library must album bus castle";
+var mnemonic = "certain loud amateur glow area skate brown popular own provide robust reject";

@@ -1,1 +1,1 @@
-var mnemonic = "distance vocal artefact old moon senior warm master avoid carbon twelve habit";
+var mnemonic = "duck gather snake unlock walk sea fury valid wash scrub faculty bicycle";

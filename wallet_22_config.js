@@ -1,1 +1,1 @@
-var mnemonic = "reopen trumpet hedgehog oak north lesson mention pretty category clarify symbol genius";
+var mnemonic = "news ball deer elbow search visual route snake glimpse harsh network mean";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster alpha basic author razor napkin erase merry adapt usual kite grace";
+var mnemonic = "type father proud body movie shift assist census liar bulk disease subject";

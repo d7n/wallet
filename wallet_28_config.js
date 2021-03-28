@@ -1,1 +1,1 @@
-var mnemonic = "mom brass diesel before pear affair scrub final taste oblige sport citizen";
+var mnemonic = "alcohol shop raise divorce dolphin open move decline alcohol indoor hip gain";

@@ -1,1 +1,1 @@
-var mnemonic = "void broom joke canoe goose history notice palace foam distance fade case";
+var mnemonic = "exit dance thought pottery country enact around believe alone love piano cabbage";

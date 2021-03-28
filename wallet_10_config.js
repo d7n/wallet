@@ -1,1 +1,1 @@
-var mnemonic = "come pulse album joke all hello north prevent awful grief ketchup noise";
+var mnemonic = "please one thumb brief goddess kiwi draw secret huge state auction soccer";

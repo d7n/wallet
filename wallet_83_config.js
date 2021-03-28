@@ -1,1 +1,1 @@
-var mnemonic = "chaos rally choose body giggle sail waste holiday blur picnic power always";
+var mnemonic = "play morning mother middle betray decade glass antenna maple vast tissue rough";
