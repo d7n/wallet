@@ -1,1 +1,1 @@
-var mnemonic = "lava slush analyst mushroom spider grow expect cause merit insane video frequent";
+var mnemonic = "finger afford mango razor walk tennis theory dry put route boring now";

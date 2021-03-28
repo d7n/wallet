@@ -1,1 +1,1 @@
-var mnemonic = "fantasy axis federal method grief direct stove banner can pool cruel home";
+var mnemonic = "inflict ivory until black inhale atom borrow jar knock hand detect opera";

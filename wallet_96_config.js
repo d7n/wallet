@@ -1,1 +1,1 @@
-var mnemonic = "truly indoor record agent shy wise print much cannon type notable tiny";
+var mnemonic = "retire average peace cushion picture knock board try ridge alone bike excuse";

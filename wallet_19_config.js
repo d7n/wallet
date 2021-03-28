@@ -1,1 +1,1 @@
-var mnemonic = "tuition donate rigid impact actual twenty below burst nephew pill truly absurd";
+var mnemonic = "wife unusual only word radar manage trash fiber wing grid flee mean";

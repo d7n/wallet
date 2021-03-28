@@ -1,1 +1,1 @@
-var mnemonic = "elbow three visit quantum skill possible year muscle task proud again left";
+var mnemonic = "zoo news swear tree main vote dynamic boil cactus design arch miracle";

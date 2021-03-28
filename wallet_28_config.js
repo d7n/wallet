@@ -1,1 +1,1 @@
-var mnemonic = "manage portion october return basket lend clever indicate confirm remind focus travel";
+var mnemonic = "clog sleep perfect argue what buddy twin essay embrace charge screen slab";

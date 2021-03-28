@@ -1,1 +1,1 @@
-var mnemonic = "duck artwork talk weapon wish panel learn doctor attitude present goddess long";
+var mnemonic = "fly cargo retire congress baby decorate eye another health ecology author future";

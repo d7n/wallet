@@ -1,1 +1,1 @@
-var mnemonic = "rule age awful flash cook place invite hello pave ocean divide century";
+var mnemonic = "brass lottery help entire repeat metal city scale skull narrow grant cram";

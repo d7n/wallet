@@ -1,1 +1,1 @@
-var mnemonic = "penalty call night accident aware token nothing between novel feed discover tennis";
+var mnemonic = "lemon about erase dizzy goat rich renew iron include sausage grain later";

@@ -1,1 +1,1 @@
-var mnemonic = "satoshi hope idea monitor energy knock cluster fire sister video hen card";
+var mnemonic = "abandon photo plastic remind use start open pigeon crane uphold cave wine";

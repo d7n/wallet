@@ -1,1 +1,1 @@
-var mnemonic = "victory october airport edit rapid flame method crash vague satisfy jelly raccoon";
+var mnemonic = "win distance coral actual display endorse flash fence child arctic memory roast";

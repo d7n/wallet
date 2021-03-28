@@ -1,1 +1,1 @@
-var mnemonic = "phrase file patient weather cloud erase expire that okay help resource board";
+var mnemonic = "swing sorry agent trip beauty chief inherit fabric consider reform submit gate";

@@ -1,1 +1,1 @@
-var mnemonic = "stick army merge royal owner protect capital chef soap whip jazz void";
+var mnemonic = "owner disease shock sleep pottery brush spatial since garlic insect worth early";

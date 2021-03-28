@@ -1,1 +1,1 @@
-var mnemonic = "snap throw detect siren ensure violin scare physical crack matter potato tornado";
+var mnemonic = "knock lesson expire giraffe hotel raccoon olive cigar civil dice salt axis";

@@ -1,1 +1,1 @@
-var mnemonic = "hello mixed over flat acquire ceiling obvious few brief food humble blame";
+var mnemonic = "tape high hungry faith glare paddle can valid right despair spray grunt";

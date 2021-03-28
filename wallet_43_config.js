@@ -1,1 +1,1 @@
-var mnemonic = "source rubber fade penalty pizza uniform diagram cotton sustain benefit inside custom";
+var mnemonic = "limb hint large family figure usage praise funny emerge you olive system";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm miracle glare attack escape tiny trophy brave novel ghost stable twice";
+var mnemonic = "orchard kitchen curve nuclear earth flag kitchen donor fruit chimney phrase obscure";

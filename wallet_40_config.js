@@ -1,1 +1,1 @@
-var mnemonic = "theory unusual merit rather garbage vocal matrix fragile small unlock behave artist";
+var mnemonic = "range electric alien open mushroom banana twelve naive fence pull library chef";

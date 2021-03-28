@@ -1,1 +1,1 @@
-var mnemonic = "gloom segment rude winter capable curve top ceiling dune congress food menu";
+var mnemonic = "auction uphold diesel focus aspect thumb coast pill daring major already stay";

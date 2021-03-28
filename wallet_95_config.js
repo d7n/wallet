@@ -1,1 +1,1 @@
-var mnemonic = "snow near item comfort bunker story police dentist affair property certain around";
+var mnemonic = "ethics menu develop river coast vintage abuse squeeze design spend during sugar";

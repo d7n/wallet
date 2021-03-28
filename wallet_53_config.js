@@ -1,1 +1,1 @@
-var mnemonic = "outside blouse disorder crime earn lottery drastic stone tackle twenty ugly cluster";
+var mnemonic = "buddy cabbage pluck mosquito twice pig diary sniff wolf unknown diesel weasel";

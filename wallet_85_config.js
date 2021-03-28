@@ -1,1 +1,1 @@
-var mnemonic = "clean first timber year wife harbor choose start earth sell interest educate";
+var mnemonic = "help penalty husband athlete vicious portion frog current idea jewel force enough";

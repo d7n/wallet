@@ -1,1 +1,1 @@
-var mnemonic = "issue outside suit little glass drill measure crowd quantum cage vacuum junk";
+var mnemonic = "hurdle shrimp minute dirt kingdom acid fine goddess utility grid hazard venture";

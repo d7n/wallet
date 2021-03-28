@@ -1,1 +1,1 @@
-var mnemonic = "wait divorce coin gauge glimpse day pet series remain remain taste leg";
+var mnemonic = "place kiwi shallow poem certain tuna bag clarify swarm gentle actress coast";

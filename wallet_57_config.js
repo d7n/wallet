@@ -1,1 +1,1 @@
-var mnemonic = "master top absorb brick detail sand slim move rare note bounce volcano";
+var mnemonic = "bike since reflect power valid remind until injury august typical list swamp";

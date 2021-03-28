@@ -1,1 +1,1 @@
-var mnemonic = "example critic have inside never property upper blue north forget nation wheat";
+var mnemonic = "zoo crane leader rail borrow flag word tuition bulb wife crunch success";

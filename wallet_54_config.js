@@ -1,1 +1,1 @@
-var mnemonic = "lemon card original advice flip reflect sphere talk lady keep stuff genius";
+var mnemonic = "faith shrimp fresh hold fan patch detect trust dove grit ramp south";

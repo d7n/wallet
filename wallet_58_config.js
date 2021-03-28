@@ -1,1 +1,1 @@
-var mnemonic = "divert bomb category ill share only stool wage sadness obey wolf onion";
+var mnemonic = "list hawk live bacon whisper today sick vital pyramid cradle barely flower";

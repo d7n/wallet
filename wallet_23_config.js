@@ -1,1 +1,1 @@
-var mnemonic = "jelly boring confirm rigid diary escape discover jeans scheme concert voyage endless";
+var mnemonic = "test avoid crime merit volcano inmate toast sport soccer remind kind transfer";

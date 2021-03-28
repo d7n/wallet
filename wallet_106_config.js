@@ -1,1 +1,1 @@
-var mnemonic = "extra asthma goat casino pottery frozen promote sibling eagle purpose holiday garage";
+var mnemonic = "vessel uncover flat recipe spare setup flame shoe raise around anchor elevator";

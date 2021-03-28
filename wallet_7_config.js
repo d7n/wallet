@@ -1,1 +1,1 @@
-var mnemonic = "surge celery cube scout ecology maximum unfold suggest soon narrow frequent exercise";
+var mnemonic = "maximum legend object gift mansion milk when fog price fortune mesh once";

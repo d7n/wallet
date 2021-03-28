@@ -1,1 +1,1 @@
-var mnemonic = "tumble receive ordinary minimum glance bamboo twice stove echo yellow lunch parrot";
+var mnemonic = "stairs enhance ceiling toy year physical program fortune kidney similar extra mercy";

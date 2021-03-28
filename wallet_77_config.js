@@ -1,1 +1,1 @@
-var mnemonic = "excess body measure forum dust stage gap into casual defense peace core";
+var mnemonic = "drop lesson before high slab raise decrease half sniff risk glad old";

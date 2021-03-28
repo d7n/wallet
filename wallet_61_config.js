@@ -1,1 +1,1 @@
-var mnemonic = "quit birth firm wasp web average sunset tip mobile rough penalty mistake";
+var mnemonic = "method casino surface wolf daring scorpion narrow diesel coconut critic curious play";

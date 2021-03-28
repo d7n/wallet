@@ -1,1 +1,1 @@
-var mnemonic = "country design bone report sentence exclude all kidney start speed possible husband";
+var mnemonic = "rotate skin opinion kiss baby egg cream bright install mobile sun during";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle iron purchase crucial top light erase glove area birth never enjoy";
+var mnemonic = "confirm punch grape dinosaur window degree office hobby kid hood punch move";

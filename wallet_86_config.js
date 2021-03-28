@@ -1,1 +1,1 @@
-var mnemonic = "nominee sick rebuild join diary kind custom amateur word decline taste three";
+var mnemonic = "east effort metal daughter shove poet region embark puppy rocket rapid daughter";

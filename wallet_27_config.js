@@ -1,1 +1,1 @@
-var mnemonic = "simple marble broken tortoise bunker simple voyage ketchup local rescue undo finger";
+var mnemonic = "electric share brand cement ready glove thank spice pear bring category harsh";

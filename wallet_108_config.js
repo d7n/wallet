@@ -1,1 +1,1 @@
-var mnemonic = "divert culture lunch festival oak hunt cover all image resemble deputy penalty";
+var mnemonic = "agree stove tired weird warm empty airport reunion forest swamp face claim";

@@ -1,1 +1,1 @@
-var mnemonic = "all number country evidence people word climb buffalo guilt system remember gym";
+var mnemonic = "slot betray key dirt mom tool title dad trap mixture bring note";

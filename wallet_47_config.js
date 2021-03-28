@@ -1,1 +1,1 @@
-var mnemonic = "hole tuna desert race brave guide busy february cheap congress giraffe calm";
+var mnemonic = "notable donkey equip crouch chalk country olympic pudding extra candy gift reason";

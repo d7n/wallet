@@ -1,1 +1,1 @@
-var mnemonic = "shaft admit wisdom rural promote tail siege defy noodle hub funny once";
+var mnemonic = "panther morning risk fuel pill clock amazing ceiling three virtual denial very";

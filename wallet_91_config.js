@@ -1,1 +1,1 @@
-var mnemonic = "winner bring author table husband canal lucky top decade ship soft quote";
+var mnemonic = "purity intact lyrics pledge foam few adapt ticket comic improve enjoy wolf";

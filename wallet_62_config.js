@@ -1,1 +1,1 @@
-var mnemonic = "trap improve easily menu hill ill spray initial breeze bomb vacuum problem";
+var mnemonic = "bargain cake deliver section just zebra suffer ask polar balcony access cart";

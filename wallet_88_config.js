@@ -1,1 +1,1 @@
-var mnemonic = "now draft veteran ketchup cave bulb client wage certain surprise cycle stand";
+var mnemonic = "comfort upper cement nation naive way crunch salt video high finish outside";

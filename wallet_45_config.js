@@ -1,1 +1,1 @@
-var mnemonic = "infant certain dragon heart muffin hurt buddy fossil vessel discover doll olive";
+var mnemonic = "roof cheap valve unfair leaf shift raccoon limit cup spice aware ready";

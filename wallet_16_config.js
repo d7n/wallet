@@ -1,1 +1,1 @@
-var mnemonic = "else fog brand general ahead school rug evoke place truly flip maze";
+var mnemonic = "odor draft brisk practice enter sugar fossil dragon muffin real trap category";

@@ -1,1 +1,1 @@
-var mnemonic = "amused help cash october edge weasel into chief fire liberty castle mountain";
+var mnemonic = "naive base easily cat wheel nice forget cancel guard task execute install";

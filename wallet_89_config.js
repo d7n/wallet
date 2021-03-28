@@ -1,1 +1,1 @@
-var mnemonic = "cruel client worry squeeze purchase shield scorpion pulse black before pen kiss";
+var mnemonic = "sorry allow horse gospel stone panic swamp order liberty adjust style dad";

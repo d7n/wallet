@@ -1,1 +1,1 @@
-var mnemonic = "spin lock between whisper bone plug update lion gravity thumb inmate since";
+var mnemonic = "sister better claw deliver canyon wage foam exit silk tunnel drill slab";

@@ -1,1 +1,1 @@
-var mnemonic = "brave evoke visual tuition twist another brave cave give unhappy crack circle";
+var mnemonic = "woman fan friend warm purity wise matter fitness two pipe aware used";

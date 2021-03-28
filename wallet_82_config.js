@@ -1,1 +1,1 @@
-var mnemonic = "shaft portion pink earn firm ship axis valve pioneer unfair blade notable";
+var mnemonic = "resource science slice aisle stock damp wise mesh spend brown picnic move";

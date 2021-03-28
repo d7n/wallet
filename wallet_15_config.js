@@ -1,1 +1,1 @@
-var mnemonic = "click picture decide ahead thunder flee okay else drill trap arrest silk";
+var mnemonic = "novel pepper shiver stick grocery east venue subway bullet staff bring soon";

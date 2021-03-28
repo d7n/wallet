@@ -1,1 +1,1 @@
-var mnemonic = "saddle surface business galaxy hood april spirit over evolve tunnel churn upgrade";
+var mnemonic = "fabric exist fatigue sorry vocal profit betray wide solution lonely kind later";

@@ -1,1 +1,1 @@
-var mnemonic = "merry priority more excite know panther current airport bridge about make profit";
+var mnemonic = "ripple dash cargo name winter cry pottery section useful kid high envelope";

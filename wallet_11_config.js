@@ -1,1 +1,1 @@
-var mnemonic = "seminar valid guess envelope today abstract track trigger portion bleak gun allow";
+var mnemonic = "jeans raccoon inject myth team obey derive differ moment model street human";

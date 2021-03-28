@@ -1,1 +1,1 @@
-var mnemonic = "elegant scare sea budget climb pet voice half glory custom awake iron";
+var mnemonic = "enter shiver outdoor exile cluster network brain negative latin receive dove boost";

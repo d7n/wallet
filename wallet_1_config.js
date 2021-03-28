@@ -1,1 +1,1 @@
-var mnemonic = "liquid length region coil small doll one question oak crater romance joke";
+var mnemonic = "wine cake save lava middle dynamic chunk grant faculty edge alone faculty";

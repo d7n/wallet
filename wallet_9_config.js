@@ -1,1 +1,1 @@
-var mnemonic = "woman evoke apple awake humble prepare cage roof river seven bird evolve";
+var mnemonic = "empty scissors own volume fly spirit salmon curve grape globe inform endorse";

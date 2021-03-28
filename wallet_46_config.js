@@ -1,1 +1,1 @@
-var mnemonic = "magic south stand range dolphin build athlete coffee south great matrix purpose";
+var mnemonic = "digital acquire result trouble twist tail promote police jewel uphold world ripple";

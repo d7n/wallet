@@ -1,1 +1,1 @@
-var mnemonic = "section absent hidden crisp opera treat rose patch ritual require grid orbit";
+var mnemonic = "heart explain robust spoon water few brother inner curious index derive excuse";

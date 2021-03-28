@@ -1,1 +1,1 @@
-var mnemonic = "saddle produce library north make spoon rough teach reason twenty find immense";
+var mnemonic = "mimic doll color tube tunnel senior field brief foam party mammal cube";

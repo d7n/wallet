@@ -1,1 +1,1 @@
-var mnemonic = "win equip odor noble day glove grit body provide pepper goose train";
+var mnemonic = "trick throw habit fitness subway auction such reject grief accident onion finger";

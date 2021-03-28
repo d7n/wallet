@@ -1,1 +1,1 @@
-var mnemonic = "infant noodle again toss horse sick movie copy letter company silent surprise";
+var mnemonic = "flight model butter super water door view document meat spice toilet panda";

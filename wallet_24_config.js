@@ -1,1 +1,1 @@
-var mnemonic = "wisdom river paddle cigar treat plate fluid make life eyebrow distance priority";
+var mnemonic = "ask laugh fury casino tooth acquire please rocket valley income oval horror";

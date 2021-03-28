@@ -1,1 +1,1 @@
-var mnemonic = "scare poem farm flock home asthma friend neither small reason cheese picnic";
+var mnemonic = "token front valve improve prize coconut sample recipe squeeze guard surge suggest";

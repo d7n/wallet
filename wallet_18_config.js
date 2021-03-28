@@ -1,1 +1,1 @@
-var mnemonic = "glide provide awkward ritual stick rack quality wise seminar ceiling release skill";
+var mnemonic = "humor deer gasp crystal announce enhance renew bird winter motor debate claim";

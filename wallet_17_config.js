@@ -1,1 +1,1 @@
-var mnemonic = "tenant gadget lawsuit cabbage reveal artist label gossip trash record critic need";
+var mnemonic = "angry wealth duty gun insect manage people ignore dolphin about resemble train";

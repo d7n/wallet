@@ -1,1 +1,1 @@
-var mnemonic = "census result chuckle six month trend power blouse spoil final card marriage";
+var mnemonic = "reject shine wealth shrug process bring absorb basic uncover rocket session hire";

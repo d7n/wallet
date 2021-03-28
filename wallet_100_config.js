@@ -1,1 +1,1 @@
-var mnemonic = "car grit lake attack reflect cause wreck primary orbit angle buyer trick";
+var mnemonic = "morning truth deer busy library neither rent wasp muffin shove injury today";

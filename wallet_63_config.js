@@ -1,1 +1,1 @@
-var mnemonic = "mirror pull exotic rather quote arm cute roof margin scrub have flame";
+var mnemonic = "resource exact arrive virus zebra silly soldier proof bitter rescue lonely clarify";

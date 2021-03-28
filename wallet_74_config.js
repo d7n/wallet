@@ -1,1 +1,1 @@
-var mnemonic = "easily truly swap envelope little dose choice sweet battle cannon worry tissue";
+var mnemonic = "action tumble impact parade future ethics cruise suspect old repair river used";

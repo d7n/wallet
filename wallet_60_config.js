@@ -1,1 +1,1 @@
-var mnemonic = "smart online emerge medal tortoise soon novel obvious spring mask evolve left";
+var mnemonic = "push sword pitch august core correct boat accuse limit target siege bone";

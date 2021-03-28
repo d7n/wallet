@@ -1,1 +1,1 @@
-var mnemonic = "entire visit crack nut wave update pass loyal during swift boat hammer";
+var mnemonic = "human general visit remain clap antenna solve liberty gate estate toast satisfy";

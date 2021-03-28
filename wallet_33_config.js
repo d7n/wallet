@@ -1,1 +1,1 @@
-var mnemonic = "tortoise divorce movie obtain grid pistol pass rice young cover never news";
+var mnemonic = "scene upset trip brave artefact flush lyrics style flat scene furnace large";

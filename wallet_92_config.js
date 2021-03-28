@@ -1,1 +1,1 @@
-var mnemonic = "leopard fresh chuckle bread wide stable patrol impose neglect now boy ghost";
+var mnemonic = "amateur dust satoshi ladder axis surprise young voice nasty magic crouch canal";

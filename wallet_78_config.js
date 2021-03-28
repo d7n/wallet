@@ -1,1 +1,1 @@
-var mnemonic = "wrap slice sand owner globe sand gaze episode income harsh pull junior";
+var mnemonic = "illegal eight entire skill wood position moon wish stumble bacon win evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "basket riot reform rebel reveal glad bulk air evoke nest taste lawn";
+var mnemonic = "pyramid obvious female lemon cup catalog track season prepare draw accident rabbit";

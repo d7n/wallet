@@ -1,1 +1,1 @@
-var mnemonic = "lion just gorilla hour exile quote mail distance remain faint twin raise";
+var mnemonic = "cash barrel resemble donkey face bamboo patient steak cry struggle law glimpse";

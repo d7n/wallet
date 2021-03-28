@@ -1,1 +1,1 @@
-var mnemonic = "nurse slogan victory melt ensure ignore vehicle tomorrow unique tail spice excite";
+var mnemonic = "insect already fork scan force general cup latin cousin badge lamp defense";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion clog tent loop genre canvas envelope category athlete chimney muffin dawn";
+var mnemonic = "pencil blue position great immune dose common gift argue bid song throw";

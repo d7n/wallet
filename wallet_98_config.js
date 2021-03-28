@@ -1,1 +1,1 @@
-var mnemonic = "leader indicate act core negative govern author illness museum rate planet horse";
+var mnemonic = "embody public voice guilt usage surround lion arrow govern argue grant enrich";

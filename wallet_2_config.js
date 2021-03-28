@@ -1,1 +1,1 @@
-var mnemonic = "quick bright orange someone hurry coral benefit hammer book like impulse whip";
+var mnemonic = "fan episode virtual health uncle walnut marine damp stem creek jeans jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "wheat middle salt blue rookie sustain useful cattle junior medal child exit";
+var mnemonic = "tunnel fiscal submit ring heavy equip net rifle often opera feel cricket";

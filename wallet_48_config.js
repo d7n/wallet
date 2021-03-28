@@ -1,1 +1,1 @@
-var mnemonic = "culture protect echo brain skill search valid gravity pen hammer bless because";
+var mnemonic = "fold furnace aspect mother super range nature student trust slot gesture movie";

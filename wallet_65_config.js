@@ -1,1 +1,1 @@
-var mnemonic = "action brick proof fashion submit crane outer horn all miss truly swift";
+var mnemonic = "kid reopen simple seven stock face orchard lazy argue spin actress solution";

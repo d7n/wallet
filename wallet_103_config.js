@@ -1,1 +1,1 @@
-var mnemonic = "board purse put merit text rubber rival plate improve health knife innocent";
+var mnemonic = "hill drive emotion check monkey feel puzzle cave original boost begin broccoli";

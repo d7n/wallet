@@ -1,1 +1,1 @@
-var mnemonic = "cupboard sword bring during pepper crawl bleak brain path spread quantum calm";
+var mnemonic = "imitate media armed solar unfold have adult orient pill horror model fantasy";

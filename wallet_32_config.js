@@ -1,1 +1,1 @@
-var mnemonic = "again valley manual comfort chronic ginger bone alone raccoon crop design liar";
+var mnemonic = "scatter else husband market climb scrub kangaroo multiply gesture left add august";

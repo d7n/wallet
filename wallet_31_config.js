@@ -1,1 +1,1 @@
-var mnemonic = "begin hood rural toast talk bonus unable dolphin hole equip potato cage";
+var mnemonic = "gap brand else shallow crew spread shiver inject build alley turtle artefact";

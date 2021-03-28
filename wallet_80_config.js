@@ -1,1 +1,1 @@
-var mnemonic = "use family muscle often walnut federal guard crazy stone elbow nominee endorse";
+var mnemonic = "recycle slogan slogan ostrich hint candy topple blade electric marine brain wave";

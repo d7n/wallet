@@ -1,1 +1,1 @@
-var mnemonic = "camera honey layer turkey enable enrich grid spoil spoil symptom top target";
+var mnemonic = "come panda era essence define already machine hurdle kangaroo embark unveil network";
