@@ -1,1 +1,1 @@
-var mnemonic = "mango toss wave oil fuel develop youth human example fantasy accuse timber";
+var mnemonic = "glass photo trade now mention speak snap hard mention priority angle desk";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow swallow blur since wrist quality gauge emerge material identify into canal";
+var mnemonic = "steel coil gym spell fan fashion chapter company cement fetch since object";

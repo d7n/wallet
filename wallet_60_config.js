@@ -1,1 +1,1 @@
-var mnemonic = "doctor foster urban avocado churn novel ski sad either borrow ensure deposit";
+var mnemonic = "aunt reject kind question luxury secret vacant leave card dutch trigger canoe";

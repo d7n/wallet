@@ -1,1 +1,1 @@
-var mnemonic = "silver alley source tent chuckle leisure slot select license undo orient forest";
+var mnemonic = "canvas mouse river shrimp history usage punch salute economy remain lawn popular";

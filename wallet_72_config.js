@@ -1,1 +1,1 @@
-var mnemonic = "poet west stadium quality chest behind west throw erosion model minimum february";
+var mnemonic = "theory leg gain dust eagle donate guitar weekend coach where peanut west";

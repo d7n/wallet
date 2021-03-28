@@ -1,1 +1,1 @@
-var mnemonic = "cloud battle design coffee fatal achieve album face prize foster rotate humor";
+var mnemonic = "speak virus city jeans electric domain disagree act tribe music notable column";

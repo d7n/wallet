@@ -1,1 +1,1 @@
-var mnemonic = "plate tent voice kiss tunnel clinic fashion put sick awake wash fancy";
+var mnemonic = "girl tell stamp test repair bracket erode rubber pumpkin siren wait lava";

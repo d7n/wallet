@@ -1,1 +1,1 @@
-var mnemonic = "nasty fine salt harbor patch protect empower orphan custom ahead magnet end";
+var mnemonic = "craft supply hamster hint equal feel siege frost trust about soda cannon";

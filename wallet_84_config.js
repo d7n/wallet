@@ -1,1 +1,1 @@
-var mnemonic = "bean frown promote tissue snow health few annual pulse sun uniform tumble";
+var mnemonic = "video drama range ship trend history hundred pyramid raven fold bind inch";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel trophy design panel maid story vibrant physical drift same about wink";
+var mnemonic = "scatter alter surprise true tube region eight giraffe grab hospital leisure baby";

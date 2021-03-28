@@ -1,1 +1,1 @@
-var mnemonic = "shield girl marriage cradle artefact remove material frame fog warfare dawn inhale";
+var mnemonic = "stomach slush unhappy deal spatial lounge collect april guilt appear opinion anger";

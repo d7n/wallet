@@ -1,1 +1,1 @@
-var mnemonic = "physical engine pupil enjoy junior hello accuse hammer rival coach vendor erupt";
+var mnemonic = "twenty mammal toast link call metal guard stage report broom immune gate";

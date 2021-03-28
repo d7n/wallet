@@ -1,1 +1,1 @@
-var mnemonic = "blade exit leopard olive adjust minimum summer update witness remind when increase";
+var mnemonic = "census switch rich december heart remember dismiss genius sword glue venture series";

@@ -1,1 +1,1 @@
-var mnemonic = "reveal oblige blanket slush empower latin metal minimum deposit raw sea foil";
+var mnemonic = "effort hat spy upgrade nerve pelican border sorry stomach demand neglect option";

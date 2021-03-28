@@ -1,1 +1,1 @@
-var mnemonic = "swallow wasp ribbon crunch hungry dial wealth style fold fresh sauce acid";
+var mnemonic = "depend palm diesel legal ready object gaze neck gallery quote dish twelve";

@@ -1,1 +1,1 @@
-var mnemonic = "inject arch average manage endless exit noble pattern pass angry march office";
+var mnemonic = "fortune retire gravity all right domain mystery sail neglect sea time mass";

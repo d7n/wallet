@@ -1,1 +1,1 @@
-var mnemonic = "mansion south gift tower prefer cattle ahead erode nothing alert sail hawk";
+var mnemonic = "month fit rely focus purpose purchase fantasy firm mind erase brave turtle";

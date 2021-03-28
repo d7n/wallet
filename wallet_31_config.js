@@ -1,1 +1,1 @@
-var mnemonic = "curtain unusual axis ski ecology oak crucial warrior utility service long march";
+var mnemonic = "symbol depend song cricket author depend pupil they mountain salt arrow memory";

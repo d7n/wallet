@@ -1,1 +1,1 @@
-var mnemonic = "lottery aim abandon satisfy bullet roast kiss mesh balance medal pledge you";
+var mnemonic = "either before need slide improve spawn fatigue program floor remove elbow stick";

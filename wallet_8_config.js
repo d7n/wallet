@@ -1,1 +1,1 @@
-var mnemonic = "split memory fabric border garbage bicycle hen myth engage giggle hamster despair";
+var mnemonic = "lunar fold install join betray satoshi oven original tomorrow media initial foam";

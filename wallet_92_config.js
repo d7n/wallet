@@ -1,1 +1,1 @@
-var mnemonic = "pond wine include east chef wear island keep debate nothing glance smile";
+var mnemonic = "blue concert code obscure misery congress sport violin concert almost marriage uncover";

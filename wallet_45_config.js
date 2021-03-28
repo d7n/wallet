@@ -1,1 +1,1 @@
-var mnemonic = "guard army topple nurse host bring motor famous gift merit possible example";
+var mnemonic = "birth swift term ivory coral wedding path dirt swarm draw acoustic crane";

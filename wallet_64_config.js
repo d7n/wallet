@@ -1,1 +1,1 @@
-var mnemonic = "now blind enable open about youth square visual stool regular mention raw";
+var mnemonic = "copper cabbage unknown elegant rail fan miracle basic ticket nation diet arm";

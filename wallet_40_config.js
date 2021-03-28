@@ -1,1 +1,1 @@
-var mnemonic = "weasel where unhappy repeat report squirrel license rally frost lava snap intact";
+var mnemonic = "protect deposit feed drop social gain away hamster mixed link enroll add";

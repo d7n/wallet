@@ -1,1 +1,1 @@
-var mnemonic = "they bullet gospel convince donate black caution avocado guard multiply smile potato";
+var mnemonic = "they holiday joke fault question flower deposit evoke immense artwork humble coral";

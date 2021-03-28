@@ -1,1 +1,1 @@
-var mnemonic = "attend crunch frame elite cake impose anger salute urban evoke very guilt";
+var mnemonic = "mutual kidney tooth since injury amazing moon grape entry raccoon design praise";

@@ -1,1 +1,1 @@
-var mnemonic = "escape fuel tenant execute lamp execute recycle sing company butter stone dinosaur";
+var mnemonic = "script they practice jewel wrestle since hint web clock scale blanket name";

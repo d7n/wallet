@@ -1,1 +1,1 @@
-var mnemonic = "bread double sick view rescue bench entry cycle title tent pulp assist";
+var mnemonic = "ten airport long predict net holiday mirror august present harsh session tray";

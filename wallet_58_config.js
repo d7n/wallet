@@ -1,1 +1,1 @@
-var mnemonic = "appear prison stairs coach chat wonder write fat layer mushroom seat marriage";
+var mnemonic = "tourist person awesome weasel limb expand tornado slender daring spring cat crouch";

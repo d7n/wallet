@@ -1,1 +1,1 @@
-var mnemonic = "cause fiction tragic drastic attend wall alter shop satisfy knock hospital tackle";
+var mnemonic = "abandon vibrant replace wife matter table usage snow rebel orchard beach kick";

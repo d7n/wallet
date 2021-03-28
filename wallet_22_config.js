@@ -1,1 +1,1 @@
-var mnemonic = "tray glow concert scrub rail public lounge custom cheese lizard brief angle";
+var mnemonic = "attend ring adapt advice game robot theme debris come race toddler depart";

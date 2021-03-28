@@ -1,1 +1,1 @@
-var mnemonic = "dice inmate amateur champion destroy noodle invest govern opera assume vague steak";
+var mnemonic = "foil angle maple effort blame food guard parent estate sand reflect fancy";

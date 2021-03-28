@@ -1,1 +1,1 @@
-var mnemonic = "coconut victory city stable junk symbol ill black dice hire marble perfect";
+var mnemonic = "sight prize legal bamboo broken thing focus police pill mosquito shrug bridge";

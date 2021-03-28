@@ -1,1 +1,1 @@
-var mnemonic = "vast shed merit warfare narrow snow payment pupil basic appear scrap piece";
+var mnemonic = "wall illegal hand harbor sport toe walnut hood robust prepare topic way";

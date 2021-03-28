@@ -1,1 +1,1 @@
-var mnemonic = "guess fire trophy protect arm mechanic autumn egg dwarf client asthma gaze";
+var mnemonic = "immune home champion filter valve salad truly illness enough upper cement armor";

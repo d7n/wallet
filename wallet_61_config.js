@@ -1,1 +1,1 @@
-var mnemonic = "increase lounge inject donkey settle joy lonely dumb photo brick close labor";
+var mnemonic = "daughter shy capable palm wink future curve ripple sample okay solve tortoise";

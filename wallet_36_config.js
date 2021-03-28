@@ -1,1 +1,1 @@
-var mnemonic = "swamp diagram renew cannon trim fiscal useful potato west chalk report topic";
+var mnemonic = "label patient income walnut print limb harvest same economy jump sick bubble";

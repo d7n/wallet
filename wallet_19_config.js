@@ -1,1 +1,1 @@
-var mnemonic = "motor toward actual blood stock jealous busy echo crack taxi coast light";
+var mnemonic = "flight rebel rude lesson liberty art deputy prize assault symbol hill annual";

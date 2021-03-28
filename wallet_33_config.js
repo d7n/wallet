@@ -1,1 +1,1 @@
-var mnemonic = "whip insect action famous best media deal jungle flush muscle mass course";
+var mnemonic = "route item desk teach park talk galaxy since solid canvas soon sail";

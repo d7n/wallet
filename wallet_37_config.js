@@ -1,1 +1,1 @@
-var mnemonic = "brother rally cute ketchup hole wire foil manage mix alcohol uncle pair";
+var mnemonic = "layer spatial ancient eternal blur setup pepper canvas water bunker decrease fiction";

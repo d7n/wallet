@@ -1,1 +1,1 @@
-var mnemonic = "dance program busy stadium punch live float immense wrist success chief organ";
+var mnemonic = "diesel utility sure fork mistake quote tuna chaos vendor sugar enough east";

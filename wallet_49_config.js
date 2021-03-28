@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin awful draw dry tomorrow lock wing wrap attend whip table aspect";
+var mnemonic = "sheriff autumn amazing deal parrot click erase mirror warrior genuine giggle pen";

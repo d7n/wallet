@@ -1,1 +1,1 @@
-var mnemonic = "fat walnut occur disease engage robot fade person run slight special stamp";
+var mnemonic = "matter catch priority produce echo want maid embrace scout curtain act scrub";

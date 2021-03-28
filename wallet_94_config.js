@@ -1,1 +1,1 @@
-var mnemonic = "private budget kick plate object coral away elite prosper engine dizzy episode";
+var mnemonic = "error fish soon crime powder model chuckle damage seek ball middle spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "chase bamboo blush alone dizzy caught hour thank tail outdoor dumb boil";
+var mnemonic = "response coyote help rocket tent shield artist guitar control merit shoot best";

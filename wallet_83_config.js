@@ -1,1 +1,1 @@
-var mnemonic = "use rookie chimney casual market card pudding one noodle ensure cannon mad";
+var mnemonic = "gown dream leg donor alpha welcome choice win kitten rally canyon zero";

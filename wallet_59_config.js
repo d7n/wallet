@@ -1,1 +1,1 @@
-var mnemonic = "mystery soda vote category mirror sail multiply current clown sentence member token";
+var mnemonic = "shallow second heavy theme sadness trick fish siren endorse arrange crisp gasp";

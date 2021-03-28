@@ -1,1 +1,1 @@
-var mnemonic = "obtain color dust divorce accident tiny melody power embark smooth pave depart";
+var mnemonic = "fruit orchard window seven knife behind bronze miracle general prize hour time";

@@ -1,1 +1,1 @@
-var mnemonic = "choose reason vessel coil comfort disease puppy raccoon crouch setup peanut enable";
+var mnemonic = "royal increase labor garlic feel monster comic pave gain across almost lamp";

@@ -1,1 +1,1 @@
-var mnemonic = "radar buyer era trust urban crane timber conduct cage govern hybrid tent";
+var mnemonic = "immune unfold sing double speed matrix blanket off angle expand portion sign";

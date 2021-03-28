@@ -1,1 +1,1 @@
-var mnemonic = "guilt stereo convince among cupboard wet maid begin paper afford lawn paddle";
+var mnemonic = "million patrol clever catalog invite purity action frost embrace trophy father lemon";

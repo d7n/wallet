@@ -1,1 +1,1 @@
-var mnemonic = "flush monster stairs reduce need winter heart depth crowd own mosquito tissue";
+var mnemonic = "onion romance legend wool motor arch jar shield trend appear patch behave";

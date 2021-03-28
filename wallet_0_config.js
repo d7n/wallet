@@ -1,1 +1,1 @@
-var mnemonic = "section inhale alert reunion situate silk film peasant ability style piece jealous";
+var mnemonic = "give noble claim gloom page banana believe all maid fruit evil end";

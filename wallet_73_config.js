@@ -1,1 +1,1 @@
-var mnemonic = "change apology limit fitness reveal sight warm pledge buyer extend friend drink";
+var mnemonic = "sign drink word staff ranch camp reflect spawn tent hover mystery people";

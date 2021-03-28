@@ -1,1 +1,1 @@
-var mnemonic = "conduct wrestle pudding mechanic acoustic danger unique regret fade calm orphan suggest";
+var mnemonic = "dust uncover pigeon public swing educate slice sea odor wash zoo crime";

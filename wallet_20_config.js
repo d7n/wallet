@@ -1,1 +1,1 @@
-var mnemonic = "gospel impact foam hammer loan ketchup drill main solve hurry august client";
+var mnemonic = "spot wide february parade index tooth father own skill witness vibrant husband";

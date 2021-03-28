@@ -1,1 +1,1 @@
-var mnemonic = "apology push neither original senior autumn pet prefer lunar device kitten gold";
+var mnemonic = "royal undo umbrella canal false vessel clever female head input force observe";

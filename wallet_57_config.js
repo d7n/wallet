@@ -1,1 +1,1 @@
-var mnemonic = "alien industry rose betray chronic use switch pole desert ski slim into";
+var mnemonic = "young where employ soda quarter unable solid mechanic ladder robust rigid monitor";

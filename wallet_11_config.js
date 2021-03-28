@@ -1,1 +1,1 @@
-var mnemonic = "organ address behave autumn capable close hip middle intact lunar business despair";
+var mnemonic = "time capital carry bleak gaze match clown lyrics space answer say laptop";

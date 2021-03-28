@@ -1,1 +1,1 @@
-var mnemonic = "chief regret arrange boss liar general always wear muscle life heart universe";
+var mnemonic = "brown uphold account boring account fiscal pool aspect jeans biology choose payment";

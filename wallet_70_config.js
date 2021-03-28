@@ -1,1 +1,1 @@
-var mnemonic = "album cake rug ride pizza slush aware sail extra alert twin letter";
+var mnemonic = "category latin fame old kitchen differ window rain chalk shoe report result";

@@ -1,1 +1,1 @@
-var mnemonic = "game episode donor lizard enhance call grief soap ritual artwork outer jacket";
+var mnemonic = "assault wealth empower scatter carbon ramp bubble engine capital alpha setup peasant";

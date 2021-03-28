@@ -1,1 +1,1 @@
-var mnemonic = "manual tenant never guitar cool link mandate uniform topic wrong fringe elephant";
+var mnemonic = "group mutual turn output stone pony type cushion favorite treat tattoo bench";

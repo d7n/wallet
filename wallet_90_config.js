@@ -1,1 +1,1 @@
-var mnemonic = "tiny crouch away sunset lend hobby region fiscal follow snap lawn brisk";
+var mnemonic = "auto guard suspect accident layer clay expire can beyond eye industry photo";

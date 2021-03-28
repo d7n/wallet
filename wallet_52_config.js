@@ -1,1 +1,1 @@
-var mnemonic = "diagram typical bean modify master office fiscal slush property carpet deny black";
+var mnemonic = "trash anger cage burger govern awesome under idle sorry concert sample glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "capital sad brother hold blind intact stock nasty soccer august paddle excess";
+var mnemonic = "walnut face idea cannon credit protect current cream trust borrow worry fork";

@@ -1,1 +1,1 @@
-var mnemonic = "pole south ten mail meat merit surge notable question subway slogan hand";
+var mnemonic = "basic tip waste bacon host worth depth text stuff venue shiver fiscal";

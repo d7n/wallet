@@ -1,1 +1,1 @@
-var mnemonic = "brown life apple clarify morning icon sock supreme romance flush copy echo";
+var mnemonic = "nation want kick cool treat ride stick unveil right size display harsh";

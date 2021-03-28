@@ -1,1 +1,1 @@
-var mnemonic = "actor utility depart forward vague improve equal ill prosper uncle butter pride";
+var mnemonic = "afraid never suit door pelican bomb medal oxygen jealous awesome crack night";

@@ -1,1 +1,1 @@
-var mnemonic = "add swear dash fetch pen avocado security vocal betray spoil wink used";
+var mnemonic = "floor process lizard stick multiply soup tomato auction wife click champion head";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty example girl crucial party onion movie ladder claw accident enter camp";
+var mnemonic = "reward margin term chimney harbor destroy betray paper eight venue transfer repair";

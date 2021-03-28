@@ -1,1 +1,1 @@
-var mnemonic = "vanish bridge busy else truck excite expire until upon behind display display";
+var mnemonic = "shaft indoor horror raise hero bless push rude between speak select strategy";

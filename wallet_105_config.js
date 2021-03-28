@@ -1,1 +1,1 @@
-var mnemonic = "tower sure green bitter into best tilt science giant bleak thing glad";
+var mnemonic = "fault wedding pudding snap private tennis embrace sister banner laundry fine gauge";

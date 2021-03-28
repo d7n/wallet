@@ -1,1 +1,1 @@
-var mnemonic = "evoke verify lion urban maximum team journey shield humor addict gasp ready";
+var mnemonic = "attack crop goat differ toy unfold just bulk panel ozone mixture nest";

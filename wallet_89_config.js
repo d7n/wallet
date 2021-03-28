@@ -1,1 +1,1 @@
-var mnemonic = "deputy crisp student cycle gift pride shaft penalty pencil harbor path issue";
+var mnemonic = "fitness staff steel harsh shift business tree toilet welcome culture orphan word";

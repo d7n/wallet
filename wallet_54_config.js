@@ -1,1 +1,1 @@
-var mnemonic = "vast emerge spot gym talent high situate liar useless bullet give item";
+var mnemonic = "inner hole faith pair admit carpet dial bacon need arrest index front";

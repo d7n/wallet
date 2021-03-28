@@ -1,1 +1,1 @@
-var mnemonic = "fine weather retreat whip exile wisdom mistake subject club uniform route wage";
+var mnemonic = "wage auction canal danger polar usual submit oblige tonight tackle chief between";

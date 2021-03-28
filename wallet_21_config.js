@@ -1,1 +1,1 @@
-var mnemonic = "relax regular olive gather gather faculty potato rhythm visa staff brief collect";
+var mnemonic = "core fade security mixture easily table pride envelope jungle inject retire table";

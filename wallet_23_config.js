@@ -1,1 +1,1 @@
-var mnemonic = "violin riot pumpkin celery bundle brick praise brief depart wrap unaware notice";
+var mnemonic = "always cricket huge able spirit west good butter minimum give web sick";

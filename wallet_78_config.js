@@ -1,1 +1,1 @@
-var mnemonic = "under adult almost myself tuition gym garbage oak pelican museum shoulder ozone";
+var mnemonic = "want north shy item wheel biology develop rifle clean scare benefit balance";

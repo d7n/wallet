@@ -1,1 +1,1 @@
-var mnemonic = "soup river myth swarm floor mom also stamp reflect destroy motor brick";
+var mnemonic = "sketch broccoli divide length pole lens world point measure mammal soldier electric";

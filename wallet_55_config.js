@@ -1,1 +1,1 @@
-var mnemonic = "fix volcano series release cook safe page method lion immune merry fly";
+var mnemonic = "hazard sunny rice item gravity solar midnight position crouch expand adapt thrive";

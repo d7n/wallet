@@ -1,1 +1,1 @@
-var mnemonic = "ring citizen six script hungry foil miss copper history token anger metal";
+var mnemonic = "gas bless expand faint hidden embody access urge vast wedding exit sunny";

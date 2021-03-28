@@ -1,1 +1,1 @@
-var mnemonic = "payment clap tank super absurd swift fire apple purity gym iron open";
+var mnemonic = "good tenant capital clay absorb choice riot resource ghost shoot inner pause";

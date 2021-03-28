@@ -1,1 +1,1 @@
-var mnemonic = "mind sun people panther term dirt viable major fiction panda usual nut";
+var mnemonic = "boil bubble light fall asthma return shrimp essence tissue pole grief dove";

@@ -1,1 +1,1 @@
-var mnemonic = "truly lake arena ticket clog illness uphold add cake orient tattoo furnace";
+var mnemonic = "picnic join weather kidney recipe negative road audit force ribbon eye violin";

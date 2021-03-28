@@ -1,1 +1,1 @@
-var mnemonic = "ritual critic dose peanut lock silk drum cinnamon acoustic leave peace loop";
+var mnemonic = "swamp addict letter mesh drink demise hurdle slide answer zoo recall shoot";

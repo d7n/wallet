@@ -1,1 +1,1 @@
-var mnemonic = "spider patrol myth credit embrace service puppy rabbit negative year real bid";
+var mnemonic = "host bracket oblige science siren wild dad result claim party tissue rule";

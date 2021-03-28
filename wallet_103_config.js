@@ -1,1 +1,1 @@
-var mnemonic = "invest chaos crime tired beyond series turtle shell route latin aspect meadow";
+var mnemonic = "sibling master hunt blast supreme trick current cigar debris board lonely venture";

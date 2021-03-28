@@ -1,1 +1,1 @@
-var mnemonic = "hobby bachelor radar gaze potato forest law float exhibit pudding latin fork";
+var mnemonic = "home same wife gorilla piece what address cute chaos flame liquid cave";

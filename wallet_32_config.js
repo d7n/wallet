@@ -1,1 +1,1 @@
-var mnemonic = "sorry alpha chief fit shaft person awake entry gun seed scale property";
+var mnemonic = "render swarm cheap reform subway spray voice space drastic west during mask";
