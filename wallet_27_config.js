@@ -1,1 +1,1 @@
-var mnemonic = "mixed one first priority loop twelve pause mass cradle hurdle vocal side";
+var mnemonic = "immune day violin zone view motion divorce cave find praise clap ill";

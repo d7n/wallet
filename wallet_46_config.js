@@ -1,1 +1,1 @@
-var mnemonic = "century chaos draft absorb add promote replace example draw nephew tonight clutch";
+var mnemonic = "toe nice surround tissue cheap minor unknown cry grab hero cancel twenty";

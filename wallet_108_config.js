@@ -1,1 +1,1 @@
-var mnemonic = "guilt pool crazy decrease cute option clap fat wheat razor beyond grief";
+var mnemonic = "gallery steak exact theme adult left gap vast switch later element absurd";

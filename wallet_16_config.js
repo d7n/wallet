@@ -1,1 +1,1 @@
-var mnemonic = "solar police struggle wool phone tag essence obey buddy scatter upgrade section";
+var mnemonic = "kidney frequent other dune pipe animal holiday claw swing ripple multiply forget";

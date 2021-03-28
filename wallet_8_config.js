@@ -1,1 +1,1 @@
-var mnemonic = "empower seed gun mass galaxy frozen flag whisper lobster copy pistol gallery";
+var mnemonic = "cry hammer analyst return concert lab scheme convince army forest glance dance";

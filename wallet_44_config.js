@@ -1,1 +1,1 @@
-var mnemonic = "leaf wrap test essay exact spy grain boost jacket horse home around";
+var mnemonic = "chicken practice enough learn pipe health kiwi around ketchup hobby odor fame";

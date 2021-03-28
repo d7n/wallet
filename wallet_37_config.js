@@ -1,1 +1,1 @@
-var mnemonic = "lazy canal envelope wasp people extra sock razor sting dog couch weasel";
+var mnemonic = "enough race trick fire sight silver correct sauce brick tuna bar method";

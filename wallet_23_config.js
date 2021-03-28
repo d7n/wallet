@@ -1,1 +1,1 @@
-var mnemonic = "raw feed tree vacuum social exit piano good forest hospital hawk matter";
+var mnemonic = "win retreat buzz kid member raccoon visual couple report devote similar soft";

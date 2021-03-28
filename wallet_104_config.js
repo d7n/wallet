@@ -1,1 +1,1 @@
-var mnemonic = "keen fossil spike welcome else diamond silver ocean inquiry ribbon firm notable";
+var mnemonic = "foot chunk buddy glory engage find pulp tiny rain discover siren kick";

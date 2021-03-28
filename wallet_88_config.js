@@ -1,1 +1,1 @@
-var mnemonic = "stone correct prefer reopen outside sight vehicle deal someone recipe someone super";
+var mnemonic = "creek hospital trick put change visual into extend kid comic hub street";

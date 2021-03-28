@@ -1,1 +1,1 @@
-var mnemonic = "fetch rose drop jealous follow bottom crop perfect plunge crawl bus laundry";
+var mnemonic = "there engine glide repair ride lens carbon gorilla gospel lawn eager phone";

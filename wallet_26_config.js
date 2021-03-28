@@ -1,1 +1,1 @@
-var mnemonic = "hour ocean still chaos swim local flat note address view fall loud";
+var mnemonic = "wage meat alpha pilot tennis sure solid prison wheel legal gasp apart";

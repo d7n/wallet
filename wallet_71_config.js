@@ -1,1 +1,1 @@
-var mnemonic = "raw ahead slot clean fruit reveal butter source cross aisle yard olive";
+var mnemonic = "wreck average execute pave truly giant ocean jelly anger sibling culture clog";

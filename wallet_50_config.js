@@ -1,1 +1,1 @@
-var mnemonic = "scrap wrist stand series entire miss pudding keep ripple protect moment wink";
+var mnemonic = "source argue profit attitude universe will clerk motion water choice reflect trim";

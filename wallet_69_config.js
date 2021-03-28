@@ -1,1 +1,1 @@
-var mnemonic = "century warrior decorate artefact wealth trap blouse drink iron sad random decline";
+var mnemonic = "cave moral embrace senior depend shell tenant phrase release anger cement unlock";

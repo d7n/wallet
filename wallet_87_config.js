@@ -1,1 +1,1 @@
-var mnemonic = "kick young stuff method enter hub position beef tuition party income brand";
+var mnemonic = "spirit online margin uniform shaft virtual cargo junk expire typical orchard verify";

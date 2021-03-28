@@ -1,1 +1,1 @@
-var mnemonic = "wrestle invest inch pond hawk yellow shed quote spell under inch output";
+var mnemonic = "entry ignore record adult initial tape critic often obvious brisk okay accuse";

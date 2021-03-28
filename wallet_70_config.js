@@ -1,1 +1,1 @@
-var mnemonic = "zone taxi alcohol sentence decline citizen speed pride picnic peace bargain vanish";
+var mnemonic = "math size kick piece maple believe parent injury evoke crisp unaware neck";

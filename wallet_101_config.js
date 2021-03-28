@@ -1,1 +1,1 @@
-var mnemonic = "else visit clay when regret moral grief spot okay slam file marble";
+var mnemonic = "random timber lucky coin analyst flash slot cereal sting wealth arrow use";

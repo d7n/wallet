@@ -1,1 +1,1 @@
-var mnemonic = "gap advance stem artist skate salad inhale hood pencil shove grain soft";
+var mnemonic = "vast know good cycle olive problem harbor stick close quick strike cattle";

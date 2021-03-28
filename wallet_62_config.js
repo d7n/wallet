@@ -1,1 +1,1 @@
-var mnemonic = "side stamp salute clump ensure junior eternal virtual scrap divorce rival ginger";
+var mnemonic = "possible holiday whale ozone gift local perfect month liberty increase middle canal";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna shield witness nest swear point garage shadow bulk enable bunker close";
+var mnemonic = "extra curtain slogan link chronic figure laugh canal require father payment napkin";

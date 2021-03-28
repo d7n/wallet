@@ -1,1 +1,1 @@
-var mnemonic = "region oak scheme build frost dial divide addict provide income vital small";
+var mnemonic = "other movie virus great pitch wisdom inside yard shine right opera potato";

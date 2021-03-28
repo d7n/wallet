@@ -1,1 +1,1 @@
-var mnemonic = "direct odor winner tuition fantasy north alien orchard ridge glad gauge ozone";
+var mnemonic = "core floor bundle woman speed afraid draw cushion flame physical inherit toast";

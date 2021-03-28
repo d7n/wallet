@@ -1,1 +1,1 @@
-var mnemonic = "job swear lyrics common pig beach crash lift often walk drum sense";
+var mnemonic = "prefer reunion lunar genre exhibit march reform kind soap before differ aisle";

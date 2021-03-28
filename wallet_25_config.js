@@ -1,1 +1,1 @@
-var mnemonic = "oak minor inject second capital nerve prison fresh hidden curtain betray cousin";
+var mnemonic = "spot unfold differ jealous gaze worth amazing junk catch enforce chair bleak";

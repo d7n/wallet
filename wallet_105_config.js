@@ -1,1 +1,1 @@
-var mnemonic = "decline never valid process avocado reject into urge actual title kid move";
+var mnemonic = "pretty symptom hill vivid stand example steak gloom couch when victory jelly";

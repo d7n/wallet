@@ -1,1 +1,1 @@
-var mnemonic = "street pepper lecture six height recipe shaft fringe atom isolate desk security";
+var mnemonic = "buddy disease dream rich firm occur lounge easily faith salt casino obey";

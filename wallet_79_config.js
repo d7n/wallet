@@ -1,1 +1,1 @@
-var mnemonic = "protect mistake prevent alley smoke notice shield what silver pepper sauce badge";
+var mnemonic = "switch gloom abstract input dinosaur sentence minimum field neck elbow tank loud";

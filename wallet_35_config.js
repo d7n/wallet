@@ -1,1 +1,1 @@
-var mnemonic = "boil actual hip anger pony grass year desert scatter marine escape benefit";
+var mnemonic = "grief movie eight wrestle person update weather core title judge manage boring";

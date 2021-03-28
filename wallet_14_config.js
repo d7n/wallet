@@ -1,1 +1,1 @@
-var mnemonic = "raw mobile age same cool pole mushroom purity wave frozen super blush";
+var mnemonic = "ivory poem rough bean match shock pledge wild coral country decade scout";

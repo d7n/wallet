@@ -1,1 +1,1 @@
-var mnemonic = "abstract sunset piece pole apple canoe spell wink insect plug blood cup";
+var mnemonic = "fish apology trust lounge tissue minimum mistake tortoise ordinary exile dream alone";

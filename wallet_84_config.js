@@ -1,1 +1,1 @@
-var mnemonic = "wheel online miracle divide pear clever potato math stadium survey erupt used";
+var mnemonic = "blouse lecture ignore worth bleak luxury balance faint rally globe farm joy";

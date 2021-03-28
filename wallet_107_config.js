@@ -1,1 +1,1 @@
-var mnemonic = "garbage thank lend level three bacon hole obtain damp coin motor region";
+var mnemonic = "slam yellow birth tomato matter away rich ice carbon conduct winter option";

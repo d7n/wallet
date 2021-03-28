@@ -1,1 +1,1 @@
-var mnemonic = "success tomorrow scan silly ranch river liberty enhance alone warrior shaft local";
+var mnemonic = "stereo chaos snow wife zone material hire fire under milk gesture original";

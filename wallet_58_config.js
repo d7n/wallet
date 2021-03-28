@@ -1,1 +1,1 @@
-var mnemonic = "book age convince horror capable elder push fog slogan stamp correct annual";
+var mnemonic = "poet pride allow announce dice ritual invest scout seek insect car guard";

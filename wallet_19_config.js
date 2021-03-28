@@ -1,1 +1,1 @@
-var mnemonic = "burst silly real shove village sing mean call flash sand learn strategy";
+var mnemonic = "angry trophy dirt coral involve luxury lazy educate left unaware vital damage";

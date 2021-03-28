@@ -1,1 +1,1 @@
-var mnemonic = "real fat salt nation knee liberty surround avoid buyer turkey cabin limb";
+var mnemonic = "flip fortune salt betray lock noble cloth wine sure away minute find";

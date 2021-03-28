@@ -1,1 +1,1 @@
-var mnemonic = "soap october vague pen drop finger timber code very tornado narrow clay";
+var mnemonic = "orange truly morning shock spoil also draft ribbon device scout style punch";

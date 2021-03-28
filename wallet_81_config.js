@@ -1,1 +1,1 @@
-var mnemonic = "orphan pink spell stumble dizzy help rally claim exhibit portion hard unlock";
+var mnemonic = "coin dinner zero cactus galaxy cupboard control duty moon tower moment afraid";

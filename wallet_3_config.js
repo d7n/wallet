@@ -1,1 +1,1 @@
-var mnemonic = "company evil total series perfect grocery such wrestle join pumpkin brief coyote";
+var mnemonic = "crawl daring purpose tourist permit build universe better double unfold gauge wool";

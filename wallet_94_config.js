@@ -1,1 +1,1 @@
-var mnemonic = "thunder glass unknown tomorrow fox sibling banana term frost wild faint hamster";
+var mnemonic = "evolve artefact build cotton pride day hint prepare surround early believe walnut";

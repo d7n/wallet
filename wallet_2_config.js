@@ -1,1 +1,1 @@
-var mnemonic = "embody warfare hockey panic walnut bind capable achieve sand worry area meat";
+var mnemonic = "worry patrol mirror trophy estate rapid gate uncover match upgrade limit actress";

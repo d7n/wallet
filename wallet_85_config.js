@@ -1,1 +1,1 @@
-var mnemonic = "portion entire chalk involve veteran muscle fetch sign acquire pretty fancy era";
+var mnemonic = "brain crouch desk young eight rug palm scrub region rebel one payment";

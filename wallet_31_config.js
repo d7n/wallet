@@ -1,1 +1,1 @@
-var mnemonic = "ice text carry into degree excuse snow reform thing sting sound book";
+var mnemonic = "drum other range cruel kidney acoustic swift entire quit power coast rude";

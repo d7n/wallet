@@ -1,1 +1,1 @@
-var mnemonic = "soup brain skin smooth bounce detail reward vote check athlete about harbor";
+var mnemonic = "fan artist blur equip owner verb hint fortune path rotate loop trophy";

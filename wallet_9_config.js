@@ -1,1 +1,1 @@
-var mnemonic = "tortoise mushroom trust provide lounge dentist certain estate popular staff will notable";
+var mnemonic = "theme allow lion episode fetch adapt luggage fitness cave actor morning term";

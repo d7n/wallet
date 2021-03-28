@@ -1,1 +1,1 @@
-var mnemonic = "neither soul skin section frame robust brass anger snow valve damp disorder";
+var mnemonic = "capital stick upper together state retreat claw bless submit bleak concert bonus";

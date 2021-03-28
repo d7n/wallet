@@ -1,1 +1,1 @@
-var mnemonic = "lake since boat cabin cloud robot armor burger hedgehog throw capable perfect";
+var mnemonic = "inquiry reform fetch exclude dust rally fragile bitter library chunk segment view";

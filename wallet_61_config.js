@@ -1,1 +1,1 @@
-var mnemonic = "shadow funny ecology tide climb stick alert scorpion upon morning stock lake";
+var mnemonic = "ghost celery neutral twelve sea october sight digital coffee vast small true";

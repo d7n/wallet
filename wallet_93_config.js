@@ -1,1 +1,1 @@
-var mnemonic = "reunion quarter permit issue dinner alpha breeze file century purse exact guilt";
+var mnemonic = "tell april pitch drop auto half fix exile ranch option copy come";

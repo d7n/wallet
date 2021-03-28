@@ -1,1 +1,1 @@
-var mnemonic = "poem coil person tomorrow point outdoor novel tip casino guitar discover ship";
+var mnemonic = "small weapon still ozone opera mask rotate camera bottom blood possible dirt";

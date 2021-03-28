@@ -1,1 +1,1 @@
-var mnemonic = "duck state blast slot mutual oven enemy sauce sustain deputy sight garlic";
+var mnemonic = "toss myself fan piece modify crop slot feature tragic behind auction false";

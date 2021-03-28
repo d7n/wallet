@@ -1,1 +1,1 @@
-var mnemonic = "congress rubber problem guitar imitate miss enrich cancel shell object junk country";
+var mnemonic = "proof fruit tower inherit bean toward tourist motor manual boat cute online";

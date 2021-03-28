@@ -1,1 +1,1 @@
-var mnemonic = "fruit screen trash trap pool frozen useful notice nature tackle sheriff open";
+var mnemonic = "elbow want renew cheese must dog pen salute debris organ engage aerobic";

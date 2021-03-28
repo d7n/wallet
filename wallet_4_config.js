@@ -1,1 +1,1 @@
-var mnemonic = "stem tomorrow zero vacant retreat river aim salmon artefact cheap fancy surge";
+var mnemonic = "oven ozone slide inflict window trim tent fruit number drip gloom page";

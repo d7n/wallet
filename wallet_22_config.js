@@ -1,1 +1,1 @@
-var mnemonic = "daughter view theme mother jelly task kind lumber fat afford dad aware";
+var mnemonic = "abuse moon resource entire engage math enact artwork host day loop blush";

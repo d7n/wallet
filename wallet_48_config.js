@@ -1,1 +1,1 @@
-var mnemonic = "zero huge wagon skate rebuild rose castle old film saddle tank dizzy";
+var mnemonic = "tower student absent left balance insane lyrics car night castle cherry recipe";

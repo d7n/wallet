@@ -1,1 +1,1 @@
-var mnemonic = "cage wedding skill cake trap what gather guard alter jazz immense element";
+var mnemonic = "enrich remind sweet square album rich chicken either beef maximum lucky capital";

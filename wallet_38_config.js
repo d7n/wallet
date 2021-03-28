@@ -1,1 +1,1 @@
-var mnemonic = "token region canoe awful record pencil smoke hockey hurdle coral adapt figure";
+var mnemonic = "scatter enter cook damage lemon diagram bullet salon ramp noble behave raven";

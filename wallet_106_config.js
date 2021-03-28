@@ -1,1 +1,1 @@
-var mnemonic = "barrel spatial bamboo bridge grunt pretty still remind dinner extend entire panda";
+var mnemonic = "fruit bamboo pledge describe chimney bicycle bar cactus barely chicken ceiling fault";

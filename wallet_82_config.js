@@ -1,1 +1,1 @@
-var mnemonic = "resource want body roast pet aware credit fury federal type armor puzzle";
+var mnemonic = "nation rather avoid match attack dignity clarify fortune car stage dragon nature";

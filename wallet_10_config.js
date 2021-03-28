@@ -1,1 +1,1 @@
-var mnemonic = "end chimney follow wolf rival bachelor point artist result buddy talk burst";
+var mnemonic = "soft wing smart theme promote helmet muscle cute final dirt bunker claw";

@@ -1,1 +1,1 @@
-var mnemonic = "because federal letter volume birth chuckle already mistake sibling glue own return";
+var mnemonic = "truth bus force catalog price follow sign indoor glove life steel tackle";

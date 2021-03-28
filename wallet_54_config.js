@@ -1,1 +1,1 @@
-var mnemonic = "garment famous sauce option beyond legend resemble gold earth mixture shock opera";
+var mnemonic = "lawsuit gravity then duty mirror onion shield spirit sample poverty magic second";

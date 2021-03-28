@@ -1,1 +1,1 @@
-var mnemonic = "document joke tennis joy actress scale inherit enhance obey depth symptom trim";
+var mnemonic = "start verb village nose venture recipe slot blush ice federal response visual";

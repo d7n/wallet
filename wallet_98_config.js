@@ -1,1 +1,1 @@
-var mnemonic = "potato swarm define fork embark save dish junk physical aware village romance";
+var mnemonic = "shock present vague dynamic throw grit detail useless slam gown below never";

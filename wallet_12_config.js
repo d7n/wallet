@@ -1,1 +1,1 @@
-var mnemonic = "diagram royal field girl involve harbor quantum ribbon excuse blur nerve person";
+var mnemonic = "seminar curve trigger void salon photo viable normal gather upgrade illegal child";

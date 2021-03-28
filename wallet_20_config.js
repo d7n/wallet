@@ -1,1 +1,1 @@
-var mnemonic = "december odor junk fruit eager alert link sand husband antenna wisdom lazy";
+var mnemonic = "leader arrest feature drill battle very desk mimic mixed hurry all perfect";

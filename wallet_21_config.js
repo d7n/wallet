@@ -1,1 +1,1 @@
-var mnemonic = "swap wire rack town casual victory garlic about winter width exhibit level";
+var mnemonic = "slogan label abandon usual position gain glory coral gorilla maze juice stuff";

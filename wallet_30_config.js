@@ -1,1 +1,1 @@
-var mnemonic = "sentence jump right put early shine hurry share drive report seminar own";
+var mnemonic = "remain divorce burden silent sentence screen gym course view spring trick arrive";

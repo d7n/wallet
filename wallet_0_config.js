@@ -1,1 +1,1 @@
-var mnemonic = "entry distance clog disagree gown protect smoke ivory scissors sure december cheese";
+var mnemonic = "alter urban polar play like say antenna gift size chest delay repeat";

@@ -1,1 +1,1 @@
-var mnemonic = "slam buddy lesson police wedding high dove wise oak mobile entire switch";
+var mnemonic = "convince camp magnet upper tag custom outer ozone evidence grass raw juice";

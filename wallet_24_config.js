@@ -1,1 +1,1 @@
-var mnemonic = "tip pledge render chef river sponsor capable coconut lemon jelly disorder oak";
+var mnemonic = "sad quarter liberty gallery female potato choice scale feature lawn age resemble";

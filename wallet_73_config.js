@@ -1,1 +1,1 @@
-var mnemonic = "romance main absorb pencil bulb image scorpion vague loop shield drive asthma";
+var mnemonic = "tortoise month smart material proud industry peace control tuna inquiry federal tenant";

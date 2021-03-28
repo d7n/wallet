@@ -1,1 +1,1 @@
-var mnemonic = "poet actor argue direct guitar record pretty camera say sponsor payment glove";
+var mnemonic = "oyster obtain home grit unfold mean pottery ginger add diagram elite cruise";

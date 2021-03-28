@@ -1,1 +1,1 @@
-var mnemonic = "seek swift blue bounce pond minor play street slow ancient great female";
+var mnemonic = "equip heavy demand gallery art topic race taxi flower leisure chuckle two";

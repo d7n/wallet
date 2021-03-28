@@ -1,1 +1,1 @@
-var mnemonic = "chat sick field general aerobic wrap yard energy pumpkin fan jealous artist";
+var mnemonic = "trust chapter daughter december stadium all exhibit judge shop earth doctor december";

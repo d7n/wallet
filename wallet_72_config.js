@@ -1,1 +1,1 @@
-var mnemonic = "can obey across strategy chapter punch damp pigeon punch grass trigger digital";
+var mnemonic = "force genuine face main junior curtain boil supply sweet stuff forum scale";

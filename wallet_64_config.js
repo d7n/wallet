@@ -1,1 +1,1 @@
-var mnemonic = "daughter mobile depend exotic way sea slender alert tragic assist lunch boy";
+var mnemonic = "appear coach stable chair monkey second cherry brave kingdom smart cube exchange";

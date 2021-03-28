@@ -1,1 +1,1 @@
-var mnemonic = "away tide moral mother bunker hotel deer stadium subject fork ship demise";
+var mnemonic = "exile zebra round diary embrace arctic hand alpha surround vote speak flight";

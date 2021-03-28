@@ -1,1 +1,1 @@
-var mnemonic = "crash source true home mosquito spray poverty toddler true pottery enact asset";
+var mnemonic = "sauce address scheme frost hammer rural fire lemon alone oven breeze copper";

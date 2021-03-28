@@ -1,1 +1,1 @@
-var mnemonic = "debris erode world album arm awful payment secret valid bag inflict elephant";
+var mnemonic = "meat major trigger end adjust food stay afford uncover loud matter beach";

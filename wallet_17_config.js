@@ -1,1 +1,1 @@
-var mnemonic = "invest involve trigger outdoor elephant chat nominee correct check setup time rule";
+var mnemonic = "tuna grunt someone goat badge light endless gossip winter bone dawn pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "damage tube fortune drip elephant yellow infant shed feel illegal flash unfold";
+var mnemonic = "stool jar flock hour essay jazz before can orchard nation child wear";

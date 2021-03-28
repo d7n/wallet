@@ -1,1 +1,1 @@
-var mnemonic = "wrestle penalty outer book hover brisk will boat obey roast awesome annual";
+var mnemonic = "clump only two midnight miss indicate symbol observe regular pet lawsuit excess";

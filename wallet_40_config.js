@@ -1,1 +1,1 @@
-var mnemonic = "base afford future photo hold sheriff lobster error jelly weasel cotton hidden";
+var mnemonic = "myth hour gift upset exchange island door bacon near try snack car";

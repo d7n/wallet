@@ -1,1 +1,1 @@
-var mnemonic = "jaguar mother sport begin risk pride mammal light afraid rigid cigar sphere";
+var mnemonic = "loyal lunch response meat goat loan source nut razor moral wish voice";

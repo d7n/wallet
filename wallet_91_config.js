@@ -1,1 +1,1 @@
-var mnemonic = "debate dinosaur tag lens negative cheap park embrace approve zoo shoot diet";
+var mnemonic = "pond olive brief unable cricket innocent intact village ski chest prevent crush";
