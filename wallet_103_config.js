@@ -1,1 +1,1 @@
-var mnemonic = "sing carbon hedgehog scatter trigger snake raccoon brother result pretty refuse diesel";
+var mnemonic = "warrior divide opinion good amount proof file grab wild garment almost buyer";

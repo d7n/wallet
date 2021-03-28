@@ -1,1 +1,1 @@
-var mnemonic = "truth museum keep hedgehog mix analyst arm stumble job artwork sock shiver";
+var mnemonic = "home lab champion size foot hawk team holiday truth jewel negative mammal";

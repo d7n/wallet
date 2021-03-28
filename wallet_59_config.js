@@ -1,1 +1,1 @@
-var mnemonic = "bitter tourist remember deal cigar off champion crane movie also vibrant index";
+var mnemonic = "way enact target grocery glad guitar gaze birth elite clinic ecology response";

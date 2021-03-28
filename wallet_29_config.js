@@ -1,1 +1,1 @@
-var mnemonic = "caught party success soul jelly surprise riot wasp moral position economy price";
+var mnemonic = "repeat okay ketchup exist planet damage march silent vivid finger hammer rival";

@@ -1,1 +1,1 @@
-var mnemonic = "globe produce spin test lyrics lawn primary broken vehicle chief coffee tent";
+var mnemonic = "gaze leisure unusual tribe alley electric speak enjoy ski differ act deputy";

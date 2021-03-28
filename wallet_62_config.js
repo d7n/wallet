@@ -1,1 +1,1 @@
-var mnemonic = "tortoise typical drink aisle physical dutch twist bulk cinnamon payment visa relief";
+var mnemonic = "illness stick almost urge this protect puzzle awkward minor fame whale squeeze";

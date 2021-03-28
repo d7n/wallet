@@ -1,1 +1,1 @@
-var mnemonic = "patient scrub gold any today original law million purity famous unveil language";
+var mnemonic = "shy height point forward clap law throw garlic drip express inch town";

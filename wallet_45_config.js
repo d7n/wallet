@@ -1,1 +1,1 @@
-var mnemonic = "exist slide ethics puzzle margin neck muffin panda salute try neutral strategy";
+var mnemonic = "human shrimp consider private siege next helmet scissors annual coil upgrade warfare";

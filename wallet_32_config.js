@@ -1,1 +1,1 @@
-var mnemonic = "bring imitate shoot craft only direct adapt legal castle choose illegal woman";
+var mnemonic = "taste polar charge load raw river gallery globe south brand pitch embrace";

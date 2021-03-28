@@ -1,1 +1,1 @@
-var mnemonic = "upon tiny solar nut else priority hawk step viable picnic core media";
+var mnemonic = "chimney tuna exhaust sunny syrup reward bind define owner disorder document hair";

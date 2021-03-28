@@ -1,1 +1,1 @@
-var mnemonic = "still guard company near broom agree situate champion manual donate weird eternal";
+var mnemonic = "cable potato electric float staff amused sunny boil real myself toy old";

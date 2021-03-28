@@ -1,1 +1,1 @@
-var mnemonic = "normal client invite album soft deliver junior desk about satoshi proud thought";
+var mnemonic = "path elite dutch then result code ride grit sand glory satoshi behind";

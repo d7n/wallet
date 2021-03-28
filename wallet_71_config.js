@@ -1,1 +1,1 @@
-var mnemonic = "crisp ketchup ensure distance fog child huge rail poem armor dust magic";
+var mnemonic = "detect ethics theme box input dial sleep absent unfair supply recall boil";

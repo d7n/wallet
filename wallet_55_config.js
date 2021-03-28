@@ -1,1 +1,1 @@
-var mnemonic = "orchard special aunt paddle slight screen salon swift repeat mountain address danger";
+var mnemonic = "unknown loyal license believe pink ring mandate sight diary clap blush cool";

@@ -1,1 +1,1 @@
-var mnemonic = "defy relief sort mobile tip envelope dilemma mind black mushroom pyramid gentle";
+var mnemonic = "together glow security prize current image cabbage nut aunt sense rhythm couch";

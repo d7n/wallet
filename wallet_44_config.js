@@ -1,1 +1,1 @@
-var mnemonic = "expire rifle penalty flight follow flee now brick only elephant stick divorce";
+var mnemonic = "prefer zone pill sleep crime seed mean health voyage meat essay office";

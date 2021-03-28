@@ -1,1 +1,1 @@
-var mnemonic = "doctor name stool record charge endless excess seek road torch volcano bicycle";
+var mnemonic = "speak seat island violin weasel woman inspire stereo news much kitchen company";

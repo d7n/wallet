@@ -1,1 +1,1 @@
-var mnemonic = "control trim ripple boat collect resemble bomb aware behave castle discover fitness";
+var mnemonic = "original farm furnace demand accuse use piano erode beyond cotton defense random";

@@ -1,1 +1,1 @@
-var mnemonic = "warm empower skull estate indoor oxygen renew mom solid banana force pave";
+var mnemonic = "employ certain scan sudden blush document reopen prefer document must normal bubble";

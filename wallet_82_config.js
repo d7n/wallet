@@ -1,1 +1,1 @@
-var mnemonic = "tennis until draft original hamster multiply seven dolphin language lend edit service";
+var mnemonic = "photo heavy mule soap comfort embrace auto fork clown squirrel blame click";

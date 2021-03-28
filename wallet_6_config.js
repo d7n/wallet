@@ -1,1 +1,1 @@
-var mnemonic = "transfer coral elevator weird ecology update execute check blade record fall squeeze";
+var mnemonic = "result mimic clerk lonely grab second bundle bottom old donor long dawn";

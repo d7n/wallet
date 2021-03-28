@@ -1,1 +1,1 @@
-var mnemonic = "wonder senior section cigar mobile miracle accuse veteran minimum juice deliver umbrella";
+var mnemonic = "resource essence social ethics captain garden smart label fancy humor concert auction";

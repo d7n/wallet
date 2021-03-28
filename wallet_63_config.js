@@ -1,1 +1,1 @@
-var mnemonic = "alcohol prepare weasel sort much clip palm exit often diary goat vacuum";
+var mnemonic = "nature two vocal silk slab switch survey upper clown drama push test";

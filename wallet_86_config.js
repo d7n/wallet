@@ -1,1 +1,1 @@
-var mnemonic = "wreck forum sauce much time mixed chase news liquid curtain rural mask";
+var mnemonic = "orange romance exhaust blame favorite step stool palm canvas fix balcony sun";

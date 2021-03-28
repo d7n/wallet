@@ -1,1 +1,1 @@
-var mnemonic = "round sustain author rabbit matrix filter van robust deputy donor defy zero";
+var mnemonic = "slim rabbit cousin main ride wish tooth attitude agent indoor turtle essay";

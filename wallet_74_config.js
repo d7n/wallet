@@ -1,1 +1,1 @@
-var mnemonic = "depend feature license act able cricket trap luggage valve car gas soap";
+var mnemonic = "swing duck evidence this moon ski ugly apple assault copy dress ceiling";

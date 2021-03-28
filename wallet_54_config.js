@@ -1,1 +1,1 @@
-var mnemonic = "cement stick bitter produce page together holiday digital bacon chef destroy pact";
+var mnemonic = "nation unknown solar urban waste differ simple silk banner stone biology youth";

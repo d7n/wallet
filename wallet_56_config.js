@@ -1,1 +1,1 @@
-var mnemonic = "toilet nuclear bundle tell snow dynamic panda save collect garbage only inquiry";
+var mnemonic = "jealous antique furnace lonely clap deer afford start success obey element barely";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn uniform celery start erupt quit engage wave better dune gain method";
+var mnemonic = "pudding three blade cave inmate firm track unusual proud next pave host";

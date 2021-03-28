@@ -1,1 +1,1 @@
-var mnemonic = "razor voice marriage orbit myth focus moon distance recycle pistol table naive";
+var mnemonic = "athlete damage able maze neck region dish must tobacco chronic choose resemble";

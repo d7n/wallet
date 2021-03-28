@@ -1,1 +1,1 @@
-var mnemonic = "defy wheel stem fire prize security rhythm sunset vibrant relief retire end";
+var mnemonic = "hub mixture volume prison crunch midnight cost alone garbage attract eye salmon";

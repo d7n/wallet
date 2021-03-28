@@ -1,1 +1,1 @@
-var mnemonic = "casual public scare sudden laugh sad protect one prosper replace smile taste";
+var mnemonic = "mixture snake danger floor knee second again series spread question coast remind";

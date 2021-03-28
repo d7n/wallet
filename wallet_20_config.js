@@ -1,1 +1,1 @@
-var mnemonic = "vanish bid soup letter hint noodle movie final gold artwork access deputy";
+var mnemonic = "genuine twin various cotton evidence situate parade need hospital amount winter suit";

@@ -1,1 +1,1 @@
-var mnemonic = "model hungry cycle alarm figure ritual doll fault assault tomorrow must base";
+var mnemonic = "shaft title lazy infant agree unique tail talk cup term guilt object";

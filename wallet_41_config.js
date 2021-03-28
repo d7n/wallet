@@ -1,1 +1,1 @@
-var mnemonic = "human custom finger field pizza found false whisper surface pulse express shiver";
+var mnemonic = "obscure copper agree first future hint hire awesome mixture fantasy crush video";

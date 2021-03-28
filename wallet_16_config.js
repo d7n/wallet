@@ -1,1 +1,1 @@
-var mnemonic = "pottery road twice palace door gesture luggage couch utility decide panel oil";
+var mnemonic = "height saddle credit forum rely result beyond inner exist armed document forward";

@@ -1,1 +1,1 @@
-var mnemonic = "extend reveal trial tail attitude ancient east kiss salt aisle disagree chief";
+var mnemonic = "smooth scale satisfy error impact gallery edit session various float finish tag";

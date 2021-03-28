@@ -1,1 +1,1 @@
-var mnemonic = "rabbit exotic hungry future during festival chase urge science phrase wild flat";
+var mnemonic = "morning option tide royal weather okay left mask dice gentle pact immune";

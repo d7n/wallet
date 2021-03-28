@@ -1,1 +1,1 @@
-var mnemonic = "cereal cheese any hand speed nerve frown junior mask scan actress owner";
+var mnemonic = "gentle field alarm regular girl inject achieve fee opinion street reveal budget";

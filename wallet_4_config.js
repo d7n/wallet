@@ -1,1 +1,1 @@
-var mnemonic = "park journey immune vocal half evoke impact ignore thing actress click master";
+var mnemonic = "inject false ceiling uncle parrot flock goose cabbage fine deliver mind unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "remain onion cover tuition small suit still injury fetch photo puppy runway";
+var mnemonic = "action poet nominee idea cream keep notice text wide filter ramp can";

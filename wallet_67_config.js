@@ -1,1 +1,1 @@
-var mnemonic = "opinion spice trend able fetch guess melody abandon humble busy rocket cable";
+var mnemonic = "distance cattle found absent swim clever avocado skirt reform index envelope drop";

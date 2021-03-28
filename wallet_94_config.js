@@ -1,1 +1,1 @@
-var mnemonic = "blade destroy bleak wedding away off wine social mail limit naive sample";
+var mnemonic = "annual song erase trust charge error heavy east shine doll police bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "tag tonight start endless venture stomach try alpha summer monitor bamboo cactus";
+var mnemonic = "woman crumble opera immense clay fringe battle shield wasp person balcony cup";

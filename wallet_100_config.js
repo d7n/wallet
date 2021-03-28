@@ -1,1 +1,1 @@
-var mnemonic = "salad seven leopard coyote tornado edit truck skin soul ability often pink";
+var mnemonic = "glory family fashion high already mother grid car inform daring toilet soccer";

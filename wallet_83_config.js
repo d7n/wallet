@@ -1,1 +1,1 @@
-var mnemonic = "mansion winner horn guard tattoo grace blind economy few assume include raven";
+var mnemonic = "fault strategy negative sleep allow media jump yard remind lobster age life";

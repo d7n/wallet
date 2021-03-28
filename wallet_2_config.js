@@ -1,1 +1,1 @@
-var mnemonic = "video tenant sugar wild daring legal feel object lawn lady pioneer onion";
+var mnemonic = "lounge jaguar shove labor animal magnet fold hub cement duck taste disagree";

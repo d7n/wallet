@@ -1,1 +1,1 @@
-var mnemonic = "act silent border churn sniff embark aware lobster mosquito sphere decade increase";
+var mnemonic = "chest cram town wife history oyster purchase oblige science jungle more vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "trip often truck demise eyebrow pause festival thrive victory dune grow odor";
+var mnemonic = "citizen joy attend diet rice puppy miracle draw screen tape cattle riot";

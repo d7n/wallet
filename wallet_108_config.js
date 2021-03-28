@@ -1,1 +1,1 @@
-var mnemonic = "balance pole purity busy glare hub impose shallow vivid sauce rural danger";
+var mnemonic = "cup milk stool menu announce steel duck panther client detail fashion tuna";

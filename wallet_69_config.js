@@ -1,1 +1,1 @@
-var mnemonic = "grant ill turtle save foil actress uphold shoulder rack broken scrap into";
+var mnemonic = "awkward good nasty school tiny hill loop surge token orchard vibrant garbage";

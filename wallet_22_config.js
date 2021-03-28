@@ -1,1 +1,1 @@
-var mnemonic = "puzzle isolate sentence pole scrap zoo despair vanish sorry brother world melody";
+var mnemonic = "diet car sister hint region audit clerk inside decrease leopard main field";

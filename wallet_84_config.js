@@ -1,1 +1,1 @@
-var mnemonic = "kid click inhale must artwork gossip motion actress winner option junior mirror";
+var mnemonic = "measure kiss leg glass guess hint brown cruise habit marine mansion script";

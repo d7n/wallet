@@ -1,1 +1,1 @@
-var mnemonic = "spring idle canvas alarm theme fold virtual eyebrow icon soon chaos pony";
+var mnemonic = "elegant swamp fade correct parade teach project popular penalty search cable sausage";

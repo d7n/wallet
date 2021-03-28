@@ -1,1 +1,1 @@
-var mnemonic = "caution brush match clump harsh logic mind oval pony pair violin brick";
+var mnemonic = "arctic stone force bubble clump arrest nothing mix canal bless focus still";

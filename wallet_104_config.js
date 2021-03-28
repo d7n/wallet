@@ -1,1 +1,1 @@
-var mnemonic = "waste moral enhance idea fall broom diary recycle vicious expand arctic poverty";
+var mnemonic = "day liar deal into humble album waste moral version buyer squeeze sample";

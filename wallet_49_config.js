@@ -1,1 +1,1 @@
-var mnemonic = "funny decide ribbon peasant hazard talk evil stable entry ice carpet neither";
+var mnemonic = "cat country little kitchen method target essay champion divert idle margin ball";

@@ -1,1 +1,1 @@
-var mnemonic = "panel fire melody simple vote consider powder eternal draft network lamp share";
+var mnemonic = "palm awake crazy inner apology neutral wolf next machine loop turn hint";

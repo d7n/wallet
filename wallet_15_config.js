@@ -1,1 +1,1 @@
-var mnemonic = "sign turkey more innocent cable doctor trip code miss cute fluid deer";
+var mnemonic = "hello void menu vast dumb patrol excuse tissue unlock observe tired access";

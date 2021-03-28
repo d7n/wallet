@@ -1,1 +1,1 @@
-var mnemonic = "ankle oblige arrest medal toddler planet process truly divorce chalk please vapor";
+var mnemonic = "candy flavor athlete donkey exact gossip little ranch peanut viable guitar label";

@@ -1,1 +1,1 @@
-var mnemonic = "food fashion buffalo improve license tumble sphere immune foot glue attitude seed";
+var mnemonic = "pass toast fine pattern limit glimpse forum where frown surface fuel number";

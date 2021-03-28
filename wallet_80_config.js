@@ -1,1 +1,1 @@
-var mnemonic = "brush anxiety brain pluck energy clinic mixed sleep rail version zoo good";
+var mnemonic = "town dirt pulp perfect bean potato saddle just turn monitor put allow";

@@ -1,1 +1,1 @@
-var mnemonic = "pencil cry shop radio boy keen melt romance athlete select remain tape";
+var mnemonic = "weird metal brown decrease brass alert forget insect program belt success pitch";

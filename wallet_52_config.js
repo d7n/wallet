@@ -1,1 +1,1 @@
-var mnemonic = "public sun cream course slim card vast local oval life side fatigue";
+var mnemonic = "pilot pumpkin knife debris image agree song cause find cash aisle type";

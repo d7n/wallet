@@ -1,1 +1,1 @@
-var mnemonic = "oblige indicate upset praise bonus wage demand all network crunch future badge";
+var mnemonic = "aunt abandon you wrong silver drop member enable grant industry witness among";

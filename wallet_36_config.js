@@ -1,1 +1,1 @@
-var mnemonic = "grass engage venture junk amount hard flavor mistake track oven love carbon";
+var mnemonic = "nest birth critic canyon smile step below pond giraffe rose option decorate";

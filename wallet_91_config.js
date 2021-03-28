@@ -1,1 +1,1 @@
-var mnemonic = "uncover urge blue velvet cake mask benefit rabbit blanket vote saddle stay";
+var mnemonic = "rail ethics leader organ burst acid ahead guitar hurt wonder piano chair";

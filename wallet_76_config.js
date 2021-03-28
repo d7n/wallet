@@ -1,1 +1,1 @@
-var mnemonic = "cancel bridge physical example jungle grunt kind scout horse expire stand barely";
+var mnemonic = "ill bulb text world decline void ketchup coin topple brand head fly";

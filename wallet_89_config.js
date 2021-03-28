@@ -1,1 +1,1 @@
-var mnemonic = "kiss survey arrive salt blade siege initial polar spot display scan vibrant";
+var mnemonic = "table swear theme victory ignore moral comfort garment ritual bread glide van";

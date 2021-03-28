@@ -1,1 +1,1 @@
-var mnemonic = "flee sample april neglect misery lady story little turtle avocado arrest ripple";
+var mnemonic = "medal skirt ride acquire olive obey impose crouch mixed crack foster turn";

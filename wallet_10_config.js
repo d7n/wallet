@@ -1,1 +1,1 @@
-var mnemonic = "cargo art vivid dove tissue tortoise meadow share crash wife youth escape";
+var mnemonic = "nuclear spot industry winter reject skull hurt hero door diagram number era";

@@ -1,1 +1,1 @@
-var mnemonic = "skate online fiction defy age whisper camera evidence myself series eagle jaguar";
+var mnemonic = "minimum retire since sustain wet sunset cable short favorite ramp slab patch";

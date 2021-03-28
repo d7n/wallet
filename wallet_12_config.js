@@ -1,1 +1,1 @@
-var mnemonic = "worry where easy flee volcano evil beauty balance broken scout guard side";
+var mnemonic = "brass flush return involve nice blush betray plate charge room neither dust";

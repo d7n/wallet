@@ -1,1 +1,1 @@
-var mnemonic = "lounge inner east pizza across shoot kiwi excuse stage drum fan unlock";
+var mnemonic = "main bleak emotion put travel aunt will round choose finger ugly material";

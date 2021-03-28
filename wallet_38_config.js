@@ -1,1 +1,1 @@
-var mnemonic = "bridge impose benefit weasel detail salt voyage slide skin calm ready swallow";
+var mnemonic = "vendor horse patrol orchard quiz light debris amused neither theme truth scare";

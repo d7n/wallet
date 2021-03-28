@@ -1,1 +1,1 @@
-var mnemonic = "stove finger before century increase border candy enhance drip test lunch ancient";
+var mnemonic = "oven correct addict miracle kiss design frozen cross enforce purity edit save";

@@ -1,1 +1,1 @@
-var mnemonic = "three razor sail noodle notable catch tired maid room term artefact leader";
+var mnemonic = "silk sad prison chapter height mutual traffic liquid balcony soda apology essay";

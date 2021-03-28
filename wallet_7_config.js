@@ -1,1 +1,1 @@
-var mnemonic = "school tobacco ride sting sheriff deer rescue undo learn dust core ozone";
+var mnemonic = "uncover boost put size oxygen sing traffic abstract own tobacco kitten sketch";

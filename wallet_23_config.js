@@ -1,1 +1,1 @@
-var mnemonic = "guitar lab shoe midnight exit embrace indicate balcony leopard there decorate manual";
+var mnemonic = "hotel nothing bomb wrestle soldier famous outer blush depart tomorrow speak share";

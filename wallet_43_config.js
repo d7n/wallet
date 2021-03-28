@@ -1,1 +1,1 @@
-var mnemonic = "dismiss food acquire upper sand jewel ceiling know comfort spare tomorrow eternal";
+var mnemonic = "veteran depth nominee mammal faculty inner diary vast crumble glimpse shadow garment";

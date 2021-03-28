@@ -1,1 +1,1 @@
-var mnemonic = "now upon script smoke juice waste faint exhaust green rapid neutral dust";
+var mnemonic = "puzzle just visit soon vintage bean cactus edit piece panic fat boil";

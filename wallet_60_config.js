@@ -1,1 +1,1 @@
-var mnemonic = "mutual monitor cable happy toe step dirt sister gun replace language cause";
+var mnemonic = "size wagon cloth legend aim mention runway coffee mango produce civil name";

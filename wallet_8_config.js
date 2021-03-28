@@ -1,1 +1,1 @@
-var mnemonic = "rail verify liar shine suspect flavor easily flip pass remove sister replace";
+var mnemonic = "hover stove forum cost puzzle state short rural total unit stone verb";

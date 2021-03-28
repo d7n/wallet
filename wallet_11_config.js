@@ -1,1 +1,1 @@
-var mnemonic = "girl timber bunker denial current normal damp oven scan poem ahead brass";
+var mnemonic = "hire retreat end hover detail jar green celery hockey cube sock car";

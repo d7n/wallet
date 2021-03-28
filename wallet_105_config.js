@@ -1,1 +1,1 @@
-var mnemonic = "inherit various spare purpose invite acid camp token smile ignore market venue";
+var mnemonic = "maple elegant like ignore blame virtual fat piano pledge system knife arch";

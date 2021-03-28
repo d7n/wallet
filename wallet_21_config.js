@@ -1,1 +1,1 @@
-var mnemonic = "quarter seminar hurdle ecology green split grab country paper roof elegant swamp";
+var mnemonic = "average latin news lawn lounge style install ghost lyrics spell upper bulk";

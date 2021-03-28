@@ -1,1 +1,1 @@
-var mnemonic = "forest thought garment milk expire crack close pencil party clinic outer vacuum";
+var mnemonic = "pause innocent worry aim oblige zebra runway census unfair amazing napkin stamp";

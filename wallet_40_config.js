@@ -1,1 +1,1 @@
-var mnemonic = "tomato turtle ostrich orange witness motor pattern tenant captain lava garbage grow";
+var mnemonic = "edit kitten puzzle message swim lake hunt cable online enrich special blade";

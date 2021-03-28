@@ -1,1 +1,1 @@
-var mnemonic = "hover pave tube dash journey exhibit perfect relax solar slam ahead pet";
+var mnemonic = "ensure cruise decrease blossom whisper differ month voice grid siren plug afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "farm number refuse turkey muscle bachelor between want auction oak that session";
+var mnemonic = "bachelor bridge snow rain elder hour vacant public torch casual erode coil";

@@ -1,1 +1,1 @@
-var mnemonic = "update height grow base demand truth wedding pill tank because office unaware";
+var mnemonic = "celery fruit afraid cactus ostrich radar woman bring jeans virus skull crater";

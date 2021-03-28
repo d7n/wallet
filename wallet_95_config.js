@@ -1,1 +1,1 @@
-var mnemonic = "market tooth victory wrong local unaware oyster race crawl release network boss";
+var mnemonic = "dune mobile follow poet day pudding eye engine struggle next subway swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper casino other profit grace thumb finger churn potato pledge morning morning";
+var mnemonic = "letter grace breeze burst elbow worry merge embark satoshi question style doctor";

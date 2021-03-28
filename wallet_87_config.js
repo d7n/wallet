@@ -1,1 +1,1 @@
-var mnemonic = "reject rubber develop romance item hat rebuild script hero memory gloom chimney";
+var mnemonic = "token ivory odor forest share flash spider car team shine soul pilot";
