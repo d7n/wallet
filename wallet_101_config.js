@@ -1,1 +1,1 @@
-var mnemonic = "mercy search judge peanut thought swear isolate control hope marble fly age";
+var mnemonic = "list sad sadness mother bless economy cabbage roof label depend fame nasty";

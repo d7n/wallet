@@ -1,1 +1,1 @@
-var mnemonic = "short miss use damage young tree vacant clog jacket craft because weapon";
+var mnemonic = "nut snap bonus unable illness drip best noodle penalty hospital express reunion";

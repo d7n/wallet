@@ -1,1 +1,1 @@
-var mnemonic = "broom earth announce pact actor pull jungle top convince tongue love half";
+var mnemonic = "tail control shallow ten teach toward width convince candy tail build oxygen";

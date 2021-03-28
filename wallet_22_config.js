@@ -1,1 +1,1 @@
-var mnemonic = "water promote phone slush soccer guide motion crumble bicycle laundry emerge inner";
+var mnemonic = "stable deputy caught glad oil truly moral world scatter describe rich crystal";

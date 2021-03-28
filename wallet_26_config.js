@@ -1,1 +1,1 @@
-var mnemonic = "sea arrive north maze screen middle insane glow spot peasant supply planet";
+var mnemonic = "they garlic fossil detect arrange agree clump honey coyote math else snap";

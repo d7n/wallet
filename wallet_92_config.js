@@ -1,1 +1,1 @@
-var mnemonic = "rate future fox subway orphan task shrimp clutch blast hello chef plunge";
+var mnemonic = "hotel harvest pool decade orient olympic power earn mystery modify sport camera";

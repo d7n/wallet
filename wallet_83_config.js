@@ -1,1 +1,1 @@
-var mnemonic = "bar lab mandate fashion tuition antique drip ecology metal stairs smoke spring";
+var mnemonic = "immense put gap wisdom broccoli enforce similar essay rotate lake fragile artefact";

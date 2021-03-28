@@ -1,1 +1,1 @@
-var mnemonic = "fine legal first minute unfair garment fuel motor hospital version kitten loud";
+var mnemonic = "now below require apart supreme head soda allow educate crowd survey canyon";

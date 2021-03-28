@@ -1,1 +1,1 @@
-var mnemonic = "industry person paddle coconut obvious practice size harvest clinic color canoe apology";
+var mnemonic = "depart cry fatal illness rich radar clown ugly slender bubble renew wild";

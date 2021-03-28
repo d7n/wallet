@@ -1,1 +1,1 @@
-var mnemonic = "want noble relax cook female dial renew length trust usage skirt erode";
+var mnemonic = "unveil come three unfair clown near news saddle tobacco boost desert almost";

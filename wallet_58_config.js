@@ -1,1 +1,1 @@
-var mnemonic = "speak level entry kangaroo music weekend document rigid cabin below blue torch";
+var mnemonic = "window various behave auto bird section drip cliff grab motor diamond this";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder curtain nose almost pupil truly club top human cigar breeze leopard";
+var mnemonic = "flock keen vote park tower speak good tooth deal original network phrase";

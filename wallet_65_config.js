@@ -1,1 +1,1 @@
-var mnemonic = "nut drastic hurry render claw buddy planet reject enter chase casino baby";
+var mnemonic = "romance tone sing pupil torch include broom congress volcano hamster wear celery";

@@ -1,1 +1,1 @@
-var mnemonic = "sound wall vivid tongue thank cabin book dawn tooth adapt weapon pottery";
+var mnemonic = "wasp chef adapt trophy finish warm carry kangaroo bread now tool canal";

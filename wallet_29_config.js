@@ -1,1 +1,1 @@
-var mnemonic = "day list game grass limb iron father coach drive patrol hammer stereo";
+var mnemonic = "problem rigid fit cross pave negative rigid evil garage wet square blade";

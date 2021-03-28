@@ -1,1 +1,1 @@
-var mnemonic = "option develop scan focus write amateur angry knee rack fancy update fabric";
+var mnemonic = "winter violin truth craft chat person moon join shallow term guard intact";

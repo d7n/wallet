@@ -1,1 +1,1 @@
-var mnemonic = "yellow bag stock auto erase essence piano unable scatter gossip shell wrap";
+var mnemonic = "faculty discover all phone ginger winter way pluck cluster collect guilt enact";

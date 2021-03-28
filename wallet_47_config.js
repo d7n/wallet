@@ -1,1 +1,1 @@
-var mnemonic = "scout tell sign ensure book cheap mammal excite govern pioneer uniform rude";
+var mnemonic = "casual ocean immune eager fitness aerobic style phone debate apology coach rich";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid purchase blade stick call project robot bachelor south buddy believe cash";
+var mnemonic = "accident bicycle stick idle require merge gather edit brother then isolate orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "govern stove rigid claim rural beach misery resemble tape reason defense moon";
+var mnemonic = "immune result champion blind human sport puzzle table above come wheat core";

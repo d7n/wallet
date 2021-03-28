@@ -1,1 +1,1 @@
-var mnemonic = "announce choice praise pen hammer half upset hire gold gown festival nature";
+var mnemonic = "taste praise infant invest act ribbon electric elephant cabbage you gossip sad";

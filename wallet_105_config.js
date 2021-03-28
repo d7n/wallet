@@ -1,1 +1,1 @@
-var mnemonic = "lady tent mother pink list rocket better divorce grunt sausage bamboo file";
+var mnemonic = "ritual deer cotton armor awesome romance voyage crunch convince earth spray power";

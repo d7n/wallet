@@ -1,1 +1,1 @@
-var mnemonic = "then allow avocado innocent marble arrest castle exclude two tobacco make element";
+var mnemonic = "fly crash recipe fit erosion canal slim giant cotton mystery cool slam";

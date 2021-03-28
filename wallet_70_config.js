@@ -1,1 +1,1 @@
-var mnemonic = "final enforce approve seven flag educate situate action beach crack high proud";
+var mnemonic = "cool business sugar blast paddle near wreck give erase piece unique repair";

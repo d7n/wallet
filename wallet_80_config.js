@@ -1,1 +1,1 @@
-var mnemonic = "enable daring hood upper hand knock need voice pear pipe winter glove";
+var mnemonic = "curtain rate bleak cruise promote foil depart eight bless candy high motion";

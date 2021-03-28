@@ -1,1 +1,1 @@
-var mnemonic = "license route volume genre vague shine elephant alter enroll cabin fog net";
+var mnemonic = "answer exit parrot save future plate charge aim antenna return mansion erode";

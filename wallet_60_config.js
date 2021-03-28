@@ -1,1 +1,1 @@
-var mnemonic = "mirror poem quarter mammal friend green swing disease earth unfold educate mad";
+var mnemonic = "raw accident poet round asset buyer address bracket pumpkin army planet blade";

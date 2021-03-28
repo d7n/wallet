@@ -1,1 +1,1 @@
-var mnemonic = "cat enemy media bubble illegal spice fee afford relax absorb image word";
+var mnemonic = "kit hope sword danger piece east project able craft uncover sword achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "ripple foot small paper window stomach warfare industry police cage provide club";
+var mnemonic = "rebel cousin amused combine favorite episode basket sell that guard idea smoke";

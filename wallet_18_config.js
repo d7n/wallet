@@ -1,1 +1,1 @@
-var mnemonic = "muscle parent horse pizza clever urge price confirm across gap try magnet";
+var mnemonic = "fetch virtual render announce pair leg choose search inject purpose skill relief";

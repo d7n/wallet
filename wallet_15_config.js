@@ -1,1 +1,1 @@
-var mnemonic = "ghost absurd young control venue camp nice giggle height home erode evolve";
+var mnemonic = "give castle tired pool beyond census purchase decade dance tired latin metal";

@@ -1,1 +1,1 @@
-var mnemonic = "embody roast portion liar wagon finger recipe adapt mansion describe battle debris";
+var mnemonic = "album aware area treat slide ranch skirt garment awful wreck olive insane";

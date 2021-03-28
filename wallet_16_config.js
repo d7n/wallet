@@ -1,1 +1,1 @@
-var mnemonic = "raise purpose sheriff search game glue congress garden track whip morning strike";
+var mnemonic = "shuffle mimic swap bicycle soul polar zero motion guess hub derive bleak";

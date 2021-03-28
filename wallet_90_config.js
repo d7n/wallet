@@ -1,1 +1,1 @@
-var mnemonic = "verify drop witness sight sure tip oven steak february uncle village plunge";
+var mnemonic = "edit office load problem nasty return visit surface measure boil oppose waste";

@@ -1,1 +1,1 @@
-var mnemonic = "profit turtle dawn salmon finger nephew balance word mirror soccer attract blast";
+var mnemonic = "slice trust erase talk gentle cute erosion finger record curtain acquire mystery";

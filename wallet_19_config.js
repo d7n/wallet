@@ -1,1 +1,1 @@
-var mnemonic = "next range oak lobster remain notice ecology broken misery island own firm";
+var mnemonic = "patch planet critic happy fade end toilet hundred slice hobby energy wedding";

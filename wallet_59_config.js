@@ -1,1 +1,1 @@
-var mnemonic = "diary point spoon genre promote boss conduct reduce best execute faith pony";
+var mnemonic = "sea junior inspire share sword merry truly twenty miracle envelope journey luggage";

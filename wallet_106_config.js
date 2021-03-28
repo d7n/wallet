@@ -1,1 +1,1 @@
-var mnemonic = "load circle march globe crunch argue wife gaze scatter gauge elite genre";
+var mnemonic = "illness alpha club heavy evolve layer relax dizzy spare whale outer daughter";

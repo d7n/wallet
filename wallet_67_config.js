@@ -1,1 +1,1 @@
-var mnemonic = "eagle option nice tattoo scan mirror turn beach best leopard october board";
+var mnemonic = "pluck tent slim urge gown kite muscle angle rubber clown sense swarm";

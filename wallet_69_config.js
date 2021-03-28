@@ -1,1 +1,1 @@
-var mnemonic = "one giant modify rug fatal observe manage attend soldier trust post better";
+var mnemonic = "swamp robust coyote diesel cotton scheme glory proud diamond actress ready sea";

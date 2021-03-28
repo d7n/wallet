@@ -1,1 +1,1 @@
-var mnemonic = "equal resist away truly kangaroo swallow very keep sight friend drop day";
+var mnemonic = "assist tumble crime social absorb pepper cruise young sentence athlete know any";

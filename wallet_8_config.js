@@ -1,1 +1,1 @@
-var mnemonic = "slim timber ball garbage athlete scene blood then earn ridge ask pull";
+var mnemonic = "defy upper stamp shop spot rack lucky horn shaft mixed consider present";

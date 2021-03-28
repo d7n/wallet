@@ -1,1 +1,1 @@
-var mnemonic = "ritual circle clean slender crumble state list salmon gaze calm spread stove";
+var mnemonic = "fish defense breeze mountain diagram update memory promote will rural hamster sad";

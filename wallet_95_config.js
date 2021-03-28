@@ -1,1 +1,1 @@
-var mnemonic = "sugar swarm trap cruel month achieve other bicycle improve evil rain siren";
+var mnemonic = "exact pipe describe creek rail isolate mercy coast typical game manual benefit";

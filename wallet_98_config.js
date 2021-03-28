@@ -1,1 +1,1 @@
-var mnemonic = "brother moment ancient pear dream trim black scheme lonely tooth limb engage";
+var mnemonic = "banana embark into author card original genuine impact extend about stock extra";

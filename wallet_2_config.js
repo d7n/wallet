@@ -1,1 +1,1 @@
-var mnemonic = "bleak manage canoe fluid absent sign hen spin artwork dismiss scrap clump";
+var mnemonic = "merry lesson depth focus tool thing fan grant crash proof saddle work";

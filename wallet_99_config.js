@@ -1,1 +1,1 @@
-var mnemonic = "decide walnut plug twelve over amused margin whale topple rent major license";
+var mnemonic = "salt hill eight oval metal enemy autumn cotton valley start history voyage";

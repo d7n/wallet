@@ -1,1 +1,1 @@
-var mnemonic = "crew rural rib deputy match traffic blue tide invite oyster draft kit";
+var mnemonic = "doctor success trade reason inhale addict security puppy cruel round accident vivid";

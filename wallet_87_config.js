@@ -1,1 +1,1 @@
-var mnemonic = "long there grab rug junior require short chair dad confirm innocent tent";
+var mnemonic = "mirror biology sleep ugly beach blade rare arrive crime attract tenant betray";

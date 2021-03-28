@@ -1,1 +1,1 @@
-var mnemonic = "toddler sunny decade hybrid twice trouble evidence inhale add payment first moral";
+var mnemonic = "chuckle razor dumb key transfer iron festival rubber economy betray rate hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "simple runway country front tissue matter hurt field fork will clock few";
+var mnemonic = "search donor clap viable waste jewel other airport horror drama flag marble";

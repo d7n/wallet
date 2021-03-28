@@ -1,1 +1,1 @@
-var mnemonic = "chicken concert ladder wave economy oven crisp silver ridge essay text slot";
+var mnemonic = "chalk gadget cousin sketch heart frost response farm marine pluck jazz hood";

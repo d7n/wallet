@@ -1,1 +1,1 @@
-var mnemonic = "abstract front riot secret gas physical luxury satisfy find meat aim raven";
+var mnemonic = "owner soul session century analyst pony cargo turn patient bar title harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "page crane powder tree luxury sting case shoulder trade fashion bundle pupil";
+var mnemonic = "become trust clog nuclear donate foam idea play erosion popular sauce near";

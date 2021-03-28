@@ -1,1 +1,1 @@
-var mnemonic = "cactus practice debate crash guess success figure entire reduce cricket roof harvest";
+var mnemonic = "grape scan use blood effort small rookie broom gossip trim spatial today";

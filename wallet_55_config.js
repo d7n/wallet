@@ -1,1 +1,1 @@
-var mnemonic = "squeeze age text result motion hint random coin butter word pioneer hard";
+var mnemonic = "forest dash sound flock attack knock ordinary used garage find recall erode";

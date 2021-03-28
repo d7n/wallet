@@ -1,1 +1,1 @@
-var mnemonic = "siege pet oval turkey custom crouch message ignore leisure gallery object crystal";
+var mnemonic = "sense frame unlock copper worth shell desert whip rule acquire lift armor";

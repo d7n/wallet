@@ -1,1 +1,1 @@
-var mnemonic = "basic solution asset match squeeze diamond spoil dwarf anger unknown artefact announce";
+var mnemonic = "ribbon item access element grab inform sauce mistake hair photo notice photo";

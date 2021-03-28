@@ -1,1 +1,1 @@
-var mnemonic = "relax vessel spell few proud easy unique ethics luxury sketch life gesture";
+var mnemonic = "word panic shell giant mystery picture isolate female antenna fee pizza stay";

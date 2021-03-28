@@ -1,1 +1,1 @@
-var mnemonic = "assault round wish wish next swarm priority until surface cause start apart";
+var mnemonic = "tiny spray shoulder attend estate market length expire spatial spray segment core";

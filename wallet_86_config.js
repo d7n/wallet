@@ -1,1 +1,1 @@
-var mnemonic = "raven play giraffe cute normal raven seven peanut coconut cream ripple subway";
+var mnemonic = "fold embody absent home ranch dragon toast cherry fan tone six coffee";

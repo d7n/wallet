@@ -1,1 +1,1 @@
-var mnemonic = "unable topple hub enable inquiry reopen quote diamond ten sustain shove pass";
+var mnemonic = "hen fancy snack jar salmon region garment scatter jar blade rotate share";

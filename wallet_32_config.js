@@ -1,1 +1,1 @@
-var mnemonic = "ticket sick void unlock between surface artefact borrow man enough stuff want";
+var mnemonic = "gentle come update piano outdoor estate category spirit walk corn isolate firm";

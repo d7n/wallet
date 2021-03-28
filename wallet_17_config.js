@@ -1,1 +1,1 @@
-var mnemonic = "vicious since dice time sad transfer tail two supply pink offer retire";
+var mnemonic = "express erupt again element wage include bachelor error flower coast error jeans";

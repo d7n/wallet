@@ -1,1 +1,1 @@
-var mnemonic = "often vessel atom skin concert twist kingdom butter dignity scissors anger omit";
+var mnemonic = "fringe answer silent cancel enact awesome quiz monkey special vague key soup";

@@ -1,1 +1,1 @@
-var mnemonic = "despair void miss action history outside inspire abandon discover rice drama exact";
+var mnemonic = "payment first whip shop process hunt rely rain foam pen stool subway";

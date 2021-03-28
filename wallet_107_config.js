@@ -1,1 +1,1 @@
-var mnemonic = "sign digital usage divide vote bless crouch frost upon raccoon cabbage kit";
+var mnemonic = "rally soft sphere blossom trigger unit melody oil drift supply shield inspire";

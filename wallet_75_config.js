@@ -1,1 +1,1 @@
-var mnemonic = "cross language violin saddle clip warm kitchen mix chief meadow recycle dizzy";
+var mnemonic = "level jelly salmon cruise robust tennis liar boil window disorder furnace wear";

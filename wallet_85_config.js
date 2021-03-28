@@ -1,1 +1,1 @@
-var mnemonic = "tower lady swift first purpose diagram recall pond identify enter input venue";
+var mnemonic = "token elevator best useful machine mechanic owner kitten law exchange gun man";

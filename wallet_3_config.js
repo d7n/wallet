@@ -1,1 +1,1 @@
-var mnemonic = "rebuild skill grass account ski bracket gauge execute series garment gun dune";
+var mnemonic = "furnace odor bus impose shine puppy bird maple innocent engage lonely casual";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid sword number secret soccer payment armor coffee hello engage smile marriage";
+var mnemonic = "pyramid economy matrix tuna cake spider hybrid menu wrestle accident mom region";

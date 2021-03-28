@@ -1,1 +1,1 @@
-var mnemonic = "network slogan loud open wrist brisk scare critic hammer frost edit father";
+var mnemonic = "own crew tortoise element fancy scale ring siege antenna never exclude innocent";

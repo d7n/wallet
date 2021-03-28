@@ -1,1 +1,1 @@
-var mnemonic = "sponsor poet news one trust clarify light bench figure else forum point";
+var mnemonic = "exile mother spawn picture main mosquito month toilet next sleep easily beef";

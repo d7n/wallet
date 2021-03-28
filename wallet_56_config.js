@@ -1,1 +1,1 @@
-var mnemonic = "economy alarm monkey pudding fence bring giant high pulp guard become amused";
+var mnemonic = "weekend coyote truck wrist patch cover burst hello creek forward horn garment";

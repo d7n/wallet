@@ -1,1 +1,1 @@
-var mnemonic = "observe busy paper boat almost very finger famous eagle that crush december";
+var mnemonic = "boil convince soup seek screen squirrel execute jelly strike message gossip section";

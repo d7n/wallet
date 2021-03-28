@@ -1,1 +1,1 @@
-var mnemonic = "name easy online talk lunch holiday reject lawn surge spike guide excuse";
+var mnemonic = "patient absorb story song deal foam guilt this panther hurt leave myself";

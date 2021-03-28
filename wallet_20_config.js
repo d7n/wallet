@@ -1,1 +1,1 @@
-var mnemonic = "hood thing vacuum fatal opera wealth claim alcohol list bounce weapon surge";
+var mnemonic = "milk aerobic rifle undo margin favorite ordinary duck stool subway cram lift";

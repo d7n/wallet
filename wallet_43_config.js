@@ -1,1 +1,1 @@
-var mnemonic = "mad mix rich diagram good moral bring earn trim horror dance black";
+var mnemonic = "million during second coin retire snack power bring impulse crew disease public";

@@ -1,1 +1,1 @@
-var mnemonic = "auction pizza notice tent exclude fork food chuckle happy home glory day";
+var mnemonic = "matter boss raccoon swallow napkin object edge logic just umbrella chronic next";

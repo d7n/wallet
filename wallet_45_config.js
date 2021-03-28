@@ -1,1 +1,1 @@
-var mnemonic = "category invite latin mind desert bottom jaguar shiver ahead visual chronic reopen";
+var mnemonic = "video innocent pilot display smoke sand general mad offer whip genre human";

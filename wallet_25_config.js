@@ -1,1 +1,1 @@
-var mnemonic = "mention scatter never thunder click cherry burden scout violin tonight sick smile";
+var mnemonic = "faculty artwork toy fade turkey balance panel belt forget second lounge cruise";

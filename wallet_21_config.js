@@ -1,1 +1,1 @@
-var mnemonic = "bullet happy story glow razor tape picture burst city symbol science mouse";
+var mnemonic = "sniff sell way hire sort name page vanish wonder leave special injury";

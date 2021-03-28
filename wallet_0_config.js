@@ -1,1 +1,1 @@
-var mnemonic = "nephew photo amused remove bar siren salt garlic update figure abandon tissue";
+var mnemonic = "record urban adapt garment item supply burst knee chalk final symptom family";

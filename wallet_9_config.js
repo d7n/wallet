@@ -1,1 +1,1 @@
-var mnemonic = "mango proof wheat embody tunnel barely rely fog goddess sound main credit";
+var mnemonic = "subway timber sound health winter august canoe raw power pumpkin obscure critic";

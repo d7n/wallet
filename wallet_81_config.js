@@ -1,1 +1,1 @@
-var mnemonic = "laundry sting eagle subway cluster level voice frequent stand more permit toast";
+var mnemonic = "volcano text else abandon embrace toddler exact mad metal abstract friend quarter";

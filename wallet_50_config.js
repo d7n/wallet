@@ -1,1 +1,1 @@
-var mnemonic = "mesh risk cover holiday cloth defense lizard unveil pink mountain minor buzz";
+var mnemonic = "olympic lion this baby shaft salute ketchup exhibit guilt drop chimney tissue";

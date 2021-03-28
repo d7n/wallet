@@ -1,1 +1,1 @@
-var mnemonic = "butter rose intact mention soul flame torch word leisure side team exact";
+var mnemonic = "define sign error army urge impact nice shuffle render proof jaguar awful";

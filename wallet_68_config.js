@@ -1,1 +1,1 @@
-var mnemonic = "december right ancient arena wave grain prosper erase claw salt future path";
+var mnemonic = "measure tell fury sense hover another toward asthma exact neutral scout rhythm";

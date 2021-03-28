@@ -1,1 +1,1 @@
-var mnemonic = "inspire tenant sound duty hint toe retreat guitar nest also perfect spray";
+var mnemonic = "ecology critic host ceiling usual cancel list step celery focus sword release";

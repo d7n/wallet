@@ -1,1 +1,1 @@
-var mnemonic = "edge sweet gaze knee sketch alert outer reveal myth large penalty secret";
+var mnemonic = "jacket kid address bless arrow strategy render van amount live guilt nation";

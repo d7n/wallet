@@ -1,1 +1,1 @@
-var mnemonic = "add garment rice concert frozen future emotion adjust merry exercise abandon trip";
+var mnemonic = "reopen update banner daring blush letter top run right robot slender situate";

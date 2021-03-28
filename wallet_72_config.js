@@ -1,1 +1,1 @@
-var mnemonic = "kingdom replace survey sort rigid oyster reunion recipe ketchup dwarf cute subject";
+var mnemonic = "stumble oblige margin better distance bacon thunder hybrid despair gas erase juice";

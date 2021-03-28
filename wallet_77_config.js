@@ -1,1 +1,1 @@
-var mnemonic = "sustain design share awesome ski client rural zone census spray clog crisp";
+var mnemonic = "famous absurd among cluster uncle capable stem dial spirit glue later senior";

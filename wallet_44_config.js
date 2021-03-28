@@ -1,1 +1,1 @@
-var mnemonic = "wave indicate drop lock staff fork rabbit mad human foam depth huge";
+var mnemonic = "twin goat detect office ketchup destroy modify tide rotate clump clay vague";

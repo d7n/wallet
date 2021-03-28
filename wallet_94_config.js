@@ -1,1 +1,1 @@
-var mnemonic = "only anxiety approve provide shine three clip awesome first game awkward below";
+var mnemonic = "record kind wise edge unhappy cancel duck pause access gather rebel glad";

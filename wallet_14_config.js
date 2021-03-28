@@ -1,1 +1,1 @@
-var mnemonic = "slogan fan secret mango text nature fuel mind impose language record ability";
+var mnemonic = "prepare sugar book normal piece piece wonder moral law insane kitten fantasy";
