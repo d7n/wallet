@@ -1,1 +1,1 @@
-var mnemonic = "inform annual jump mirror detail enrich someone gun milk wine track entire";
+var mnemonic = "naive goat tuna garage seven inch settle coyote mansion unique online cover";

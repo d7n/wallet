@@ -1,1 +1,1 @@
-var mnemonic = "artefact require peanut slow club clog gown ketchup ostrich spice funny anchor";
+var mnemonic = "market general thumb cloud food engage ten replace dwarf rely plate silent";

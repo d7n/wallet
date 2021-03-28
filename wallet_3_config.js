@@ -1,1 +1,1 @@
-var mnemonic = "sniff arrest adjust caution obvious fiscal copy tip faith palm ugly yellow";
+var mnemonic = "afraid sadness inject slogan gentle trash brick situate market guide planet original";

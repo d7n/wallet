@@ -1,1 +1,1 @@
-var mnemonic = "dentist onion boost goat multiply taste punch shuffle nasty staff pupil rib";
+var mnemonic = "mesh combine nephew space soccer swallow person regular rally soda maximum buyer";

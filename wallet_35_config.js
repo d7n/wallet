@@ -1,1 +1,1 @@
-var mnemonic = "long trophy mimic soon salt deny damp wine vintage merge chicken meat";
+var mnemonic = "miss start nasty alpha music two door physical marriage umbrella motor clutch";

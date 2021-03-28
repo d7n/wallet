@@ -1,1 +1,1 @@
-var mnemonic = "time saddle wood word embark gossip begin citizen already moral vacuum someone";
+var mnemonic = "weapon garlic citizen walnut narrow lobster knock kidney promote wide valve wise";

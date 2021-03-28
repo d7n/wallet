@@ -1,1 +1,1 @@
-var mnemonic = "neglect advance wasp erosion foster crane frown fantasy bid excite salt icon";
+var mnemonic = "tide uniform defense old grow buddy panel pen april supply crumble stairs";

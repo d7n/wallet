@@ -1,1 +1,1 @@
-var mnemonic = "film armed bargain affair setup garage slim humble dress panel kite paper";
+var mnemonic = "grab desert void vendor tent fever possible prosper random display mushroom buzz";

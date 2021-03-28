@@ -1,1 +1,1 @@
-var mnemonic = "baby unit save actual oak galaxy stay abuse leopard thought camp rude";
+var mnemonic = "danger grace large index radio floor room mobile fix uniform print security";

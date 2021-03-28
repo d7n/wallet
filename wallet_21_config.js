@@ -1,1 +1,1 @@
-var mnemonic = "peace company crew item tribe disagree spell alone soap winner local race";
+var mnemonic = "arena mercy mosquito seek basic vault code price person brave upgrade fatal";

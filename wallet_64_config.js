@@ -1,1 +1,1 @@
-var mnemonic = "hurt chat school embody admit modify force wheel favorite guilt faculty still";
+var mnemonic = "bargain casual left idea option reward knock goose cactus shrug gown zone";

@@ -1,1 +1,1 @@
-var mnemonic = "illness solid purpose switch away skull pyramid nature plate define original gravity";
+var mnemonic = "shoot unfair worry wide endorse wall double tattoo aerobic fatal tower return";

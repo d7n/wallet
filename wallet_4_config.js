@@ -1,1 +1,1 @@
-var mnemonic = "clinic dose wrong rather suffer adjust arrive party green inform coach load";
+var mnemonic = "stool gallery once message weasel arctic category pizza blossom envelope plastic canyon";

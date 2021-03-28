@@ -1,1 +1,1 @@
-var mnemonic = "sort clarify cover device side simple window orchard rifle wave trigger carpet";
+var mnemonic = "demand upgrade clump oak embrace struggle poem breeze slice expand recycle limit";

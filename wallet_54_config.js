@@ -1,1 +1,1 @@
-var mnemonic = "almost cook gold stage slab utility question festival maximum squirrel armed finger";
+var mnemonic = "unfair popular share random report gain genius seat limb acid airport admit";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn find misery chest hungry never rhythm core common case fame country";
+var mnemonic = "odor journey future chase cannon wave maze artist mango banana stay mirror";

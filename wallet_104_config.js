@@ -1,1 +1,1 @@
-var mnemonic = "before inch spring more fine involve collect cruel voice awkward sense twice";
+var mnemonic = "shine volume apology gloom immense chalk era tonight six acoustic turtle gun";

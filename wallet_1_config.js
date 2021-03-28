@@ -1,1 +1,1 @@
-var mnemonic = "cube easy trigger fabric alert frost hybrid leopard place doll ice gravity";
+var mnemonic = "category tongue success holiday trophy evil indoor olive spring hungry wolf flower";

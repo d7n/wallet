@@ -1,1 +1,1 @@
-var mnemonic = "benefit arena album act chair gentle patch alter pluck honey zone topic";
+var mnemonic = "decade buddy unique ask drive wedding shield title weather shop planet alcohol";

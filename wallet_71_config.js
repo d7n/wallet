@@ -1,1 +1,1 @@
-var mnemonic = "garden silent sustain battle cram model unhappy struggle gaze toe artefact fancy";
+var mnemonic = "same dust trip antenna return clip barely wrestle puzzle tip between social";

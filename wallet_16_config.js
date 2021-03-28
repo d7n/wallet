@@ -1,1 +1,1 @@
-var mnemonic = "capital churn purity endless cause law hope drastic hat bullet bubble hidden";
+var mnemonic = "picture soon cushion coach differ midnight cactus glare fly era volume blue";

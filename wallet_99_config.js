@@ -1,1 +1,1 @@
-var mnemonic = "usual gossip connect dirt volcano wealth spatial very clarify when hockey insect";
+var mnemonic = "profit glare crumble spoil trend whisper click rose metal angry claim parent";

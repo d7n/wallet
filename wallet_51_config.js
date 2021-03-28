@@ -1,1 +1,1 @@
-var mnemonic = "thumb stove object charge mammal thumb firm glance knee prevent bundle nephew";
+var mnemonic = "senior resemble museum invest unveil clinic miss dentist orphan trial rally dilemma";

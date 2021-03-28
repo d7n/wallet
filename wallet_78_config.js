@@ -1,1 +1,1 @@
-var mnemonic = "tomato slice mom plug unknown other mountain motor hurry fit cook family";
+var mnemonic = "panther inform camp joke vehicle april govern wagon later twice vote frequent";

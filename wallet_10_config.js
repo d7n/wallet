@@ -1,1 +1,1 @@
-var mnemonic = "merry teach boss order enforce labor raccoon dawn neck reform argue else";
+var mnemonic = "robot mobile ribbon gadget hungry violin method ability unique angle wagon dignity";

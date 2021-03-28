@@ -1,1 +1,1 @@
-var mnemonic = "solve draft place ridge dove occur lake clean island knife noble lobster";
+var mnemonic = "tail mule unable extend labor hedgehog what aunt when rent lizard sausage";

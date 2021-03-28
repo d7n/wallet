@@ -1,1 +1,1 @@
-var mnemonic = "wink improve viable walk parade mail solution response film charge insect hover";
+var mnemonic = "enrich that faculty royal denial exclude toilet baby enlist second gift stereo";

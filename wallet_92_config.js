@@ -1,1 +1,1 @@
-var mnemonic = "rain humble nothing afraid advance caught kangaroo skate chair tooth certain woman";
+var mnemonic = "million response curious armor banana electric pink antique alarm rhythm cheap nice";

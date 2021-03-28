@@ -1,1 +1,1 @@
-var mnemonic = "social express winter puppy vivid before wrist hat suit expose inch brain";
+var mnemonic = "capable couple skill decade burger seminar onion shiver equip very top move";

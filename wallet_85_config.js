@@ -1,1 +1,1 @@
-var mnemonic = "settle wool cricket cabin fortune govern genuine giraffe permit rail civil spoon";
+var mnemonic = "audit job certain copper direct unable mechanic burst wool alpha disagree lamp";

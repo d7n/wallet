@@ -1,1 +1,1 @@
-var mnemonic = "nice ozone latin camp real pig crime sibling game future category notice";
+var mnemonic = "note gasp perfect market dolphin tunnel radar feature cluster debate camera keen";

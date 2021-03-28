@@ -1,1 +1,1 @@
-var mnemonic = "shiver always hole evidence birth mosquito pen olympic pumpkin planet title virtual";
+var mnemonic = "virtual piece black dentist educate pool funny one grass brisk unusual ticket";

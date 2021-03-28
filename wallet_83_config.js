@@ -1,1 +1,1 @@
-var mnemonic = "dismiss corn guitar focus unhappy raise vast sort okay defy capable tattoo";
+var mnemonic = "monitor garment filter velvet cry wealth noodle wise dutch coast ridge fever";

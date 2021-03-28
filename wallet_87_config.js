@@ -1,1 +1,1 @@
-var mnemonic = "dutch spoil path soft burden style roof invest box universe bone cotton";
+var mnemonic = "pink fork run maximum capable must attend ripple drink core bag claw";

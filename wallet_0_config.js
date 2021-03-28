@@ -1,1 +1,1 @@
-var mnemonic = "outdoor novel uphold typical fantasy robust tomato steel help palm sausage clarify";
+var mnemonic = "science tooth tonight prosper crouch dream science plug profit beach ask bargain";

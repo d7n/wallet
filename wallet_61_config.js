@@ -1,1 +1,1 @@
-var mnemonic = "crumble bamboo adult evidence flock emotion accident dose rule pluck useless wagon";
+var mnemonic = "liberty divert royal extra fiscal color bicycle today crack wild patrol crawl";

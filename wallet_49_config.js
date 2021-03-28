@@ -1,1 +1,1 @@
-var mnemonic = "rifle inch garden guess tired atom put weird tent obey ability often";
+var mnemonic = "dwarf dawn two response tongue amazing person riot exchange piano act rigid";

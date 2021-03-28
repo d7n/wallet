@@ -1,1 +1,1 @@
-var mnemonic = "business cradle palace escape accident buddy useless sudden reunion myself regular crystal";
+var mnemonic = "shaft stand chat hurt fix model child promote penalty carbon economy cost";

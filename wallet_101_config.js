@@ -1,1 +1,1 @@
-var mnemonic = "sure fatigue clinic fish life grant biology dumb dry deer minute debris";
+var mnemonic = "real front identify better bridge glory alter blast urge ranch turn tower";

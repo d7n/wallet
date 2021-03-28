@@ -1,1 +1,1 @@
-var mnemonic = "witness artwork rough room crack buffalo cycle canvas kitchen wink theme surprise";
+var mnemonic = "wear quick luggage base category tackle echo zone sentence fat roof lunch";

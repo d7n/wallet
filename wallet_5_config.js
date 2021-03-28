@@ -1,1 +1,1 @@
-var mnemonic = "check master rug walk own olympic shoot hawk recall tone glue garage";
+var mnemonic = "repair forum glad hair physical kiwi avocado same limb canyon best flush";

@@ -1,1 +1,1 @@
-var mnemonic = "deny allow above hour axis expand enforce mushroom scare amateur amount film";
+var mnemonic = "acquire north market camera cabbage oil drill wild praise soft tortoise slim";

@@ -1,1 +1,1 @@
-var mnemonic = "purchase scan inmate knock network differ wagon bless alley ball pull inform";
+var mnemonic = "cry target quote fashion jelly foam clog harsh barely reopen weather payment";

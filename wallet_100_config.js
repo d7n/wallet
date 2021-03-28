@@ -1,1 +1,1 @@
-var mnemonic = "orchard citizen attend tackle genre game spice surround best two shrug math";
+var mnemonic = "vibrant sorry benefit solve frozen turtle glide pioneer green foster later liquid";

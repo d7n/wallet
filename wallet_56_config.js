@@ -1,1 +1,1 @@
-var mnemonic = "boost there silk during goose slender glass arch author polar yard speed";
+var mnemonic = "drip sure essence local daring monitor prize primary muscle goddess zone empty";

@@ -1,1 +1,1 @@
-var mnemonic = "volcano kit nominee female wheel harvest mushroom pear stamp permit basket among";
+var mnemonic = "face pipe innocent decorate person flower essay ship type pig income color";

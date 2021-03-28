@@ -1,1 +1,1 @@
-var mnemonic = "catalog true fiber allow behave one just message rice cry step tumble";
+var mnemonic = "save fetch half soccer uniform second analyst cake biology grunt follow tip";

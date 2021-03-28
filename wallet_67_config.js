@@ -1,1 +1,1 @@
-var mnemonic = "three pride damage hawk sock leopard bread taxi denial main youth above";
+var mnemonic = "soap lab raven train result supreme blouse ancient basket act scare nut";

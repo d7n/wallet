@@ -1,1 +1,1 @@
-var mnemonic = "neck mother scorpion mesh cover car wasp suffer limb document few seminar";
+var mnemonic = "sheriff bounce core assault slot battle rotate chapter pair hawk fuel enforce";

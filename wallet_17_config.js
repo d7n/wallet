@@ -1,1 +1,1 @@
-var mnemonic = "stamp code faith link bonus ghost clerk eager cable tooth addict cushion";
+var mnemonic = "canvas file dumb tattoo proud old vendor crowd cherry scout below spoon";

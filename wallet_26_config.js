@@ -1,1 +1,1 @@
-var mnemonic = "reopen vacant pole menu enforce great foam history matrix adjust crater holiday";
+var mnemonic = "area mother isolate cup harbor fat spot chaos crisp clog crack mosquito";

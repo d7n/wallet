@@ -1,1 +1,1 @@
-var mnemonic = "oxygen large chunk grain raven system term belt guitar baby polar novel";
+var mnemonic = "day clean want wasp they welcome rate ugly exchange able crush resemble";

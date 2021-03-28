@@ -1,1 +1,1 @@
-var mnemonic = "witness member seek fame deer among submit awake final iron trim novel";
+var mnemonic = "auto citizen energy design problem census copper stick desert inhale feel click";

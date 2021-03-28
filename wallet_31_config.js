@@ -1,1 +1,1 @@
-var mnemonic = "where split rhythm describe figure walk banner prosper disease pact drip potato";
+var mnemonic = "youth memory return connect draft mass system huge fashion violin fancy anchor";

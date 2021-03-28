@@ -1,1 +1,1 @@
-var mnemonic = "mansion harvest hunt pink era steel weather social duty next bleak accuse";
+var mnemonic = "amount hedgehog oyster happy drastic quick turn library arrest lizard tank script";

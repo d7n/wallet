@@ -1,1 +1,1 @@
-var mnemonic = "aisle spell once gesture uncle valve fee bracket wheel hood top trash";
+var mnemonic = "believe curious wedding girl oyster auction quarter thank tribe unlock undo wish";

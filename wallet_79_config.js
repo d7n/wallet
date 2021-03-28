@@ -1,1 +1,1 @@
-var mnemonic = "discover firm tornado brick outer emotion opera warm runway onion country jar";
+var mnemonic = "jelly prize attend churn design raw mutual lunch muffin else street abuse";

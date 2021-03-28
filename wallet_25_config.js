@@ -1,1 +1,1 @@
-var mnemonic = "brave rapid small jump industry plastic purity mother enough eagle ensure social";
+var mnemonic = "kid bring shaft tissue simple page biology inmate siren hollow daring taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle consider island weird enough path spot rival tomorrow obtain model practice";
+var mnemonic = "fury disorder prison name thank venture path fold seat gesture silver ivory";

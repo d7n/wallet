@@ -1,1 +1,1 @@
-var mnemonic = "hybrid hello stamp collect affair parent gasp december kind mule boy diary";
+var mnemonic = "timber sniff fence shine curtain drum word pepper switch fault one twin";

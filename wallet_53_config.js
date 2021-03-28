@@ -1,1 +1,1 @@
-var mnemonic = "shrug nuclear giraffe topic cricket young direct skill live omit hen train";
+var mnemonic = "trust place three vocal borrow faint train awful donkey will phrase corn";

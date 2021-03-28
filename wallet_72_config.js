@@ -1,1 +1,1 @@
-var mnemonic = "bridge analyst claim swap miss divorce lady hunt address car dignity citizen";
+var mnemonic = "art melt pen coffee trade slam ugly initial special public fantasy license";

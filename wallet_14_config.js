@@ -1,1 +1,1 @@
-var mnemonic = "coyote size forward life credit invite cherry rose output process endorse area";
+var mnemonic = "toss notable jealous left bus behind sense upper machine walk update night";

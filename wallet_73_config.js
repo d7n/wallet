@@ -1,1 +1,1 @@
-var mnemonic = "champion relax despair report involve manage twist hello goddess popular taste essay";
+var mnemonic = "erase about recipe mutual else enforce base drastic aisle runway cheap surround";

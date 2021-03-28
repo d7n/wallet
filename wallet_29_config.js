@@ -1,1 +1,1 @@
-var mnemonic = "search spice gold despair body notable clever bronze almost monkey use matrix";
+var mnemonic = "ladder pepper position empower labor clown category orange banana repeat fox decrease";

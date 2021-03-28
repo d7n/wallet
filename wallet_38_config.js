@@ -1,1 +1,1 @@
-var mnemonic = "able canyon glare rule axis solar middle enhance nerve length rotate burst";
+var mnemonic = "manage two crouch prevent recycle mule frown coffee broom museum start enjoy";

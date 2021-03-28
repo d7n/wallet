@@ -1,1 +1,1 @@
-var mnemonic = "help excite embark benefit rifle say prison spoil section make radio female";
+var mnemonic = "engage actor burger eyebrow side receive elevator abstract peace that disorder ridge";

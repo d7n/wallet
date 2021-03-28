@@ -1,1 +1,1 @@
-var mnemonic = "sudden twin scare almost embark profit route oil salmon salon roast left";
+var mnemonic = "lady giggle cliff they stand ring furnace brick glare daring company rival";

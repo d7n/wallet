@@ -1,1 +1,1 @@
-var mnemonic = "teach twin round grace attack lazy museum butter alcohol proof flat aware";
+var mnemonic = "digital cannon october topple business enough satisfy sketch absurd chief negative radio";

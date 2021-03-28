@@ -1,1 +1,1 @@
-var mnemonic = "equal blur stumble crumble again curtain crazy clock marine fury blade client";
+var mnemonic = "disagree spoil blouse fault lion loud inquiry notice hello vapor angle outdoor";

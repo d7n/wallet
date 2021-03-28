@@ -1,1 +1,1 @@
-var mnemonic = "lava write rain song giant wash echo pair salon parent dilemma hair";
+var mnemonic = "fresh badge work worth effort music armed circle syrup oval lumber raise";

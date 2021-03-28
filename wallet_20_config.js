@@ -1,1 +1,1 @@
-var mnemonic = "veteran lesson mean song slam pudding trial buzz enter sleep step lock";
+var mnemonic = "end universe warfare reflect usual vendor filter patch obey moral purpose spatial";

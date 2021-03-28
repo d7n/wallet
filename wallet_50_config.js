@@ -1,1 +1,1 @@
-var mnemonic = "board ship resource mystery hamster rely dilemma bundle gravity struggle random bridge";
+var mnemonic = "entire gym answer october medal prepare merge include mask pole soldier hurry";

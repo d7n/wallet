@@ -1,1 +1,1 @@
-var mnemonic = "raw private ability pigeon derive balance era recall alien acid merit cherry";
+var mnemonic = "ceiling jeans over dutch chicken island sad pink object knife wrist assault";

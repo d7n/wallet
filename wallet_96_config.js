@@ -1,1 +1,1 @@
-var mnemonic = "renew atom train plastic trust tower badge forget will ball oppose conduct";
+var mnemonic = "uncle capable army fog hamster retreat loop electric taste bless glide mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "happy waste demand remove combine pepper video whip cricket vanish coyote voyage";
+var mnemonic = "dog burst small ripple lecture fee stove gap final render observe runway";

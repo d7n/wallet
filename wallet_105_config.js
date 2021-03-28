@@ -1,1 +1,1 @@
-var mnemonic = "space between grant punch settle lobster survey multiply hobby coil improve together";
+var mnemonic = "lottery jungle syrup prevent hotel shrimp joke october syrup mimic green general";

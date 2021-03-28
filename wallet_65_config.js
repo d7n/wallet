@@ -1,1 +1,1 @@
-var mnemonic = "tree zoo zoo already agent input left rule garage room fit version";
+var mnemonic = "mask february mechanic fiction obscure test found enhance knee glow laugh embody";

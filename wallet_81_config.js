@@ -1,1 +1,1 @@
-var mnemonic = "addict blind bring kit proud morning toilet typical spring brain scout wheel";
+var mnemonic = "craft gate sort honey tenant bird today weasel unlock exile switch capital";

@@ -1,1 +1,1 @@
-var mnemonic = "baby private miss key grain blush extra hub sphere say mosquito disease";
+var mnemonic = "public spike problem artwork spawn tongue auto enrich code decrease unveil upon";

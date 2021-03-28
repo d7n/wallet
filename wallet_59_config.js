@@ -1,1 +1,1 @@
-var mnemonic = "coyote phone hub wild science pretty way clap process fatigue credit sunny";
+var mnemonic = "embark age height that abandon win myself crucial fantasy trick impulse ivory";

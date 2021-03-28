@@ -1,1 +1,1 @@
-var mnemonic = "picture injury hazard list debris mind comfort void gentle art swim divide";
+var mnemonic = "garlic glory erosion apology measure guilt path rural deliver huge need early";
