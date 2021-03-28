@@ -1,1 +1,1 @@
-var mnemonic = "tape tide fit danger slush huge enough apart buffalo economy laptop interest";
+var mnemonic = "winter wink expire anchor donkey truly wasp umbrella strong tide mimic before";

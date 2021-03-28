@@ -1,1 +1,1 @@
-var mnemonic = "border assume own bomb teach cruel sample method birth fancy frame panel";
+var mnemonic = "vital toddler what image trade endless despair material then resource length govern";

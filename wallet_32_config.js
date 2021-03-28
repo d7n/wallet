@@ -1,1 +1,1 @@
-var mnemonic = "oval elbow roof erosion solution pear month private exhaust guess ripple mind";
+var mnemonic = "unique again kingdom cake inch wagon nerve song sight actress tip feel";

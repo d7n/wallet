@@ -1,1 +1,1 @@
-var mnemonic = "reform produce online hamster slice wife sweet portion drum luxury test urban";
+var mnemonic = "envelope glimpse amateur attack memory glide arena like myth canvas mule weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "couple pause bridge foster increase camera ethics identify sphere common equip rhythm";
+var mnemonic = "now length affair question volume half pluck chicken travel shove category awesome";

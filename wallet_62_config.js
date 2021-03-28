@@ -1,1 +1,1 @@
-var mnemonic = "deal frog school social path clever snake pony theory motor real viable";
+var mnemonic = "large ritual aisle arena relief pepper model combine enter type venue rocket";

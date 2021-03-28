@@ -1,1 +1,1 @@
-var mnemonic = "name audit title imitate robust great disorder crime traffic rocket gate purse";
+var mnemonic = "nose budget fee culture used distance fossil wait pottery enter arrange approve";

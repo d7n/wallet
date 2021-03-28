@@ -1,1 +1,1 @@
-var mnemonic = "draw buyer trouble unable ability decide rotate fog picnic state nerve firm";
+var mnemonic = "length dentist mom spice clip online bench seek rough that giant galaxy";

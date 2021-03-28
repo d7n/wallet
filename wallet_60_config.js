@@ -1,1 +1,1 @@
-var mnemonic = "frog custom vivid boost jungle width west ecology hill bunker embrace staff";
+var mnemonic = "sample air penalty grit tumble dumb fatigue design struggle spare reward salt";

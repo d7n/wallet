@@ -1,1 +1,1 @@
-var mnemonic = "lumber funny dust unfold provide pluck guide offer eye crucial rent vital";
+var mnemonic = "cover wrong social aware just property life figure squirrel anchor tail ride";

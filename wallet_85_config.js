@@ -1,1 +1,1 @@
-var mnemonic = "tent balcony spoil fox word arch sheriff spread cattle fatal sketch cushion";
+var mnemonic = "excess humble corn enroll vintage action city leg swallow vintage elite tenant";

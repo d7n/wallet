@@ -1,1 +1,1 @@
-var mnemonic = "jungle salon glimpse venue tent nuclear square matrix share parrot excuse remain";
+var mnemonic = "neutral design neck differ pig kingdom peanut praise seminar foster elephant hope";

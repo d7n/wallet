@@ -1,1 +1,1 @@
-var mnemonic = "skate merit raise speak illness elevator airport soup they cat gravity dream";
+var mnemonic = "lyrics pet gasp chronic venue limb second peasant person glory struggle dose";

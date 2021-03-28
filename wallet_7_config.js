@@ -1,1 +1,1 @@
-var mnemonic = "wave little obtain audit habit wedding hunt galaxy alpha struggle develop few";
+var mnemonic = "pistol siege bean stay advance dawn process boost grocery betray barely protect";

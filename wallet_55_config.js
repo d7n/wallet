@@ -1,1 +1,1 @@
-var mnemonic = "catalog trash crawl solid kick caution bright trophy joy cup mandate eight";
+var mnemonic = "town chief pottery sick interest proud current receive length render oak venture";

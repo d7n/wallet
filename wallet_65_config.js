@@ -1,1 +1,1 @@
-var mnemonic = "easily pulp myth orbit engage police wood fashion lawn economy crater fringe";
+var mnemonic = "wire angle box shed video peanut jar gesture purity wink round easily";

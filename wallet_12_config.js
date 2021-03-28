@@ -1,1 +1,1 @@
-var mnemonic = "source negative only canvas network ignore forward else solar pulp faint stomach";
+var mnemonic = "leader glance erosion material interest this filter stove rely hobby ill ladder";

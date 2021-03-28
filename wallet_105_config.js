@@ -1,1 +1,1 @@
-var mnemonic = "marble lock eagle gift together action kind name jaguar object knife century";
+var mnemonic = "cupboard please put plastic festival bacon property force bright recall iron primary";

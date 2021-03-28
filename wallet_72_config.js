@@ -1,1 +1,1 @@
-var mnemonic = "over figure debris feature violin day rich furnace cave dress favorite twelve";
+var mnemonic = "rifle symbol abandon blood craft soap lobster erosion shaft reward faculty across";

@@ -1,1 +1,1 @@
-var mnemonic = "earn heavy spin shell bullet fetch ball celery company steel put chaos";
+var mnemonic = "tray degree urban fish wrong eagle rather depart taste design spatial ten";

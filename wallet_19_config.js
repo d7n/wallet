@@ -1,1 +1,1 @@
-var mnemonic = "gain dentist when genuine layer other city victory crawl hidden wise tobacco";
+var mnemonic = "olympic august dance dilemma aim used town popular caught hurry license scrap";

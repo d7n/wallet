@@ -1,1 +1,1 @@
-var mnemonic = "fox wear arm arrow cabin burger leopard slab kiwi story inner category";
+var mnemonic = "proof spin glove innocent maximum enlist short real view lift clog icon";

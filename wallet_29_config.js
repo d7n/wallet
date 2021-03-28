@@ -1,1 +1,1 @@
-var mnemonic = "crouch boost useless taste weather coffee trophy where sunny gallery divert cluster";
+var mnemonic = "warrior cash mirror suggest praise sad argue box ill traffic pig okay";

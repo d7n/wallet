@@ -1,1 +1,1 @@
-var mnemonic = "lamp reform grief net person deer fatigue canyon panic refuse exact shuffle";
+var mnemonic = "fruit nature donate civil focus quote nuclear attack cheese chef lens ten";

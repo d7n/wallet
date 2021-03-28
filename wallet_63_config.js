@@ -1,1 +1,1 @@
-var mnemonic = "click few example pupil net advance thrive grant knee float isolate junior";
+var mnemonic = "budget scan first fitness curve tiny shaft dentist board airport cannon vote";

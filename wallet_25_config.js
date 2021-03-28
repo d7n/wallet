@@ -1,1 +1,1 @@
-var mnemonic = "hobby beach legend empower flat faith indoor ugly echo trial unit vanish";
+var mnemonic = "address breeze ladder rally cinnamon crime goose sun total process trick destroy";

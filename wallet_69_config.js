@@ -1,1 +1,1 @@
-var mnemonic = "cart slender divert final strategy rifle reflect stamp mesh junk order famous";
+var mnemonic = "hybrid inmate labor remain business color elbow link foam year west time";

@@ -1,1 +1,1 @@
-var mnemonic = "arm install video anchor use mirror survey since snap tumble inquiry comfort";
+var mnemonic = "cruel bless gentle sadness unlock head shift unveil spatial trust casual rapid";

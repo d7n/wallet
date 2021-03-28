@@ -1,1 +1,1 @@
-var mnemonic = "jelly erosion puppy kit gallery unfold beef duty travel month man unveil";
+var mnemonic = "lab dirt motor cage parrot crater require before pig glide large double";

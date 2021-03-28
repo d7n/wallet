@@ -1,1 +1,1 @@
-var mnemonic = "wash disagree elephant affair casual enemy between apology engine glide tunnel receive";
+var mnemonic = "access legend proud kitten horn gain unaware cloud gown hybrid spike owner";

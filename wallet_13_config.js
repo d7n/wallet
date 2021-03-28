@@ -1,1 +1,1 @@
-var mnemonic = "index city voyage unique enemy process possible attract win employ dilemma typical";
+var mnemonic = "secret month sing lobster armed hurt float town fork ring example globe";

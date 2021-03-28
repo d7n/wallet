@@ -1,1 +1,1 @@
-var mnemonic = "awful knock race cabbage post bus craft lens scout shallow bargain bridge";
+var mnemonic = "swallow misery pond dice youth level prevent brick skull flower thing barely";

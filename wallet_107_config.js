@@ -1,1 +1,1 @@
-var mnemonic = "illegal lab copper shoulder amount decrease broom capable urge furnace search family";
+var mnemonic = "celery differ divert layer skirt faith salt utility bamboo social salute city";

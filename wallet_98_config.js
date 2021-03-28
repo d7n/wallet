@@ -1,1 +1,1 @@
-var mnemonic = "fabric scene marine expire call reflect judge crush rookie note train boring";
+var mnemonic = "timber place volcano grief example december raw mimic able island keen theory";

@@ -1,1 +1,1 @@
-var mnemonic = "orange decline legal soon talk soda attitude resist annual document segment disease";
+var mnemonic = "leg sword notice neither mixture polar prison mandate heavy pattern future hundred";

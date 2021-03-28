@@ -1,1 +1,1 @@
-var mnemonic = "pair vendor crouch special obscure clarify unique olympic tackle boss fancy road";
+var mnemonic = "common keen nominee guilt tattoo accident sense fee jelly art quality excess";

@@ -1,1 +1,1 @@
-var mnemonic = "parent reopen style bar unhappy victory pizza load inner ribbon scare art";
+var mnemonic = "wire deer amount feed vault exercise split excite action refuse dragon want";

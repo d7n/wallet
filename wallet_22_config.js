@@ -1,1 +1,1 @@
-var mnemonic = "primary someone hamster alert acquire retire right steel rain clip silk hammer";
+var mnemonic = "age offer become wood barrel miracle rule path between rhythm base ship";

@@ -1,1 +1,1 @@
-var mnemonic = "wish surround attack deputy skin work bottom library melody electric carry shrug";
+var mnemonic = "decide wedding visual lizard sting rack street stool february shallow subway female";

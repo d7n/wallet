@@ -1,1 +1,1 @@
-var mnemonic = "enough brave knock stairs involve proof timber remind proof photo weekend recipe";
+var mnemonic = "company trip valid sphere lion brother cover daughter urban elegant fold denial";

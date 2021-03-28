@@ -1,1 +1,1 @@
-var mnemonic = "pretty small stand poverty pledge asset actual sick creek biology plate indoor";
+var mnemonic = "uphold flash enact label dose ginger dolphin express people that absorb will";

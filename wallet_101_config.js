@@ -1,1 +1,1 @@
-var mnemonic = "genuine vapor marine future dumb never awesome flock month valid visa bracket";
+var mnemonic = "daring tent concert fatal cinnamon second dove antenna buddy grief slow search";

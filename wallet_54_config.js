@@ -1,1 +1,1 @@
-var mnemonic = "recycle laundry stamp legal honey boy sweet hint appear ridge flower simple";
+var mnemonic = "juice wagon bus calm text orange business force trouble firm pill snake";

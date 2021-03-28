@@ -1,1 +1,1 @@
-var mnemonic = "brave artwork candy shove ignore shaft squirrel typical arctic noise sauce prosper";
+var mnemonic = "hen cash twist shrug sister often swim nerve miss victory trophy modify";

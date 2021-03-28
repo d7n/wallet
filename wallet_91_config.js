@@ -1,1 +1,1 @@
-var mnemonic = "nuclear half crumble wave novel glove master blue pyramid east topic moon";
+var mnemonic = "slim toast song smart romance family twelve insane ticket hamster better camera";

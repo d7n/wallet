@@ -1,1 +1,1 @@
-var mnemonic = "hotel jacket venture analyst lucky brick remember possible direct soft situate jeans";
+var mnemonic = "actual skirt job gain exercise butter expect denial hurt insect source settle";

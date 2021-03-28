@@ -1,1 +1,1 @@
-var mnemonic = "trophy super home they fit bargain strategy tiger trial infant almost raw";
+var mnemonic = "armed mutual season pact hen disorder cup pudding oval alley relax nut";

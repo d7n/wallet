@@ -1,1 +1,1 @@
-var mnemonic = "poverty brown bid culture solve tank disagree visit final rent panic dynamic";
+var mnemonic = "flame inner craft immense wheat give misery erode behave tattoo romance supply";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup accuse course proof shy gasp stamp frozen attend boil fantasy chair";
+var mnemonic = "pelican quote cannon myself monitor design deposit rough cool december swing secret";

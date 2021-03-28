@@ -1,1 +1,1 @@
-var mnemonic = "rely spare violin gift arrest service anxiety subway example purpose chief rubber";
+var mnemonic = "expire negative owner clog inmate tower beef trial unlock merge buffalo donkey";

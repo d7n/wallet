@@ -1,1 +1,1 @@
-var mnemonic = "doctor quit clean evoke reveal inhale receive excess load into ability produce";
+var mnemonic = "gown wrist ladder debate cheap album math heavy quantum online age copper";

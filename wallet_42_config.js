@@ -1,1 +1,1 @@
-var mnemonic = "bus enable ladder whip brave damp club follow coil melody tackle spot";
+var mnemonic = "federal dinosaur flip symbol grace pelican stage better friend endorse joke affair";

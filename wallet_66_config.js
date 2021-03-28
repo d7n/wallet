@@ -1,1 +1,1 @@
-var mnemonic = "awful awkward core bless rebuild october arrow citizen meadow boil suffer case";
+var mnemonic = "reward shock text industry egg labor glue sniff myth avocado coin extend";

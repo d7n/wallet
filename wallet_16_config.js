@@ -1,1 +1,1 @@
-var mnemonic = "another gasp modify odor dwarf finger toward cattle season ecology key include";
+var mnemonic = "own alpha ridge outside interest evidence whale two genuine lizard skin search";

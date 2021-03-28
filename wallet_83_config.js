@@ -1,1 +1,1 @@
-var mnemonic = "pink decrease route must decade hair wash panic drill topic lobster middle";
+var mnemonic = "clip file bonus cupboard welcome ball balance insect diesel appear refuse pause";

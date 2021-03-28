@@ -1,1 +1,1 @@
-var mnemonic = "still success cat demand grief steak volcano property rose spider debate scale";
+var mnemonic = "size diet trick kick decade raven wise exotic window lift shove hockey";

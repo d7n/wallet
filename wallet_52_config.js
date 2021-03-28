@@ -1,1 +1,1 @@
-var mnemonic = "trust lazy youth click between legal setup base board oven nest talk";
+var mnemonic = "illegal equip science slam song garbage grunt favorite title assume two found";

@@ -1,1 +1,1 @@
-var mnemonic = "help pottery equal rule yard opera affair bubble device raven hire material";
+var mnemonic = "deliver dumb bomb vehicle sense honey easily labor brain trouble magic chef";

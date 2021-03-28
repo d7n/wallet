@@ -1,1 +1,1 @@
-var mnemonic = "always gloom spare warfare wheel wild sponsor start dash always smile illness";
+var mnemonic = "kiss reform gaze swing unfold cycle iron feature pool laugh hazard riot";

@@ -1,1 +1,1 @@
-var mnemonic = "refuse mention sudden sight film trip size material dove oil confirm robot";
+var mnemonic = "cricket october start ladder employ duck goat insect fit country material similar";

@@ -1,1 +1,1 @@
-var mnemonic = "valid enough stadium asthma couch onion shuffle one asset debris cannon suggest";
+var mnemonic = "autumn tooth seminar yellow capable awake magic wave silver step join aspect";

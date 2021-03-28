@@ -1,1 +1,1 @@
-var mnemonic = "just diesel pill purity lawsuit fame zebra forum way pitch crucial often";
+var mnemonic = "guilt people excite shuffle olive noodle found radio seven kitchen ostrich stadium";

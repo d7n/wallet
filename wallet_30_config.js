@@ -1,1 +1,1 @@
-var mnemonic = "cage idle input mad tired provide six outside nature rule happy fiber";
+var mnemonic = "silver gesture response soap asthma teach naive quiz coconut cake polar antenna";

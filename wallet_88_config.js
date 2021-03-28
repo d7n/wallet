@@ -1,1 +1,1 @@
-var mnemonic = "client piece critic skull prevent that settle chaos outdoor improve mother fantasy";
+var mnemonic = "buddy concert piano middle pizza dolphin close quit stand degree hamster energy";

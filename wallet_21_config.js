@@ -1,1 +1,1 @@
-var mnemonic = "hungry club change all occur service right access motor rhythm involve shop";
+var mnemonic = "daughter light frost tent stone fortune rural cinnamon submit strategy mushroom unknown";

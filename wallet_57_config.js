@@ -1,1 +1,1 @@
-var mnemonic = "swift bargain pipe royal stadium click walnut act mule birth hour upper";
+var mnemonic = "bitter once catch street blanket uncle flee verb afford eight nasty test";

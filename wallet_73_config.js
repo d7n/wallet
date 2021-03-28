@@ -1,1 +1,1 @@
-var mnemonic = "cargo depart sail stem naive peasant boil wasp start mother judge amount";
+var mnemonic = "click forward volcano grocery join tray crucial beef movie book price spread";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit write subject obtain filter mistake cereal nurse sponsor slight treat join";
+var mnemonic = "uphold trade holiday wife neither extend eight zone accident puzzle split gauge";

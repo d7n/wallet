@@ -1,1 +1,1 @@
-var mnemonic = "clinic film jeans ranch seminar obscure atom crunch gas salmon scare situate";
+var mnemonic = "level fashion tank spoon skin dial level case fragile family near method";

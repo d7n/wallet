@@ -1,1 +1,1 @@
-var mnemonic = "people fossil prize damp fortune castle erosion enemy accuse myth hurdle churn";
+var mnemonic = "razor arrest close submit toward gas thumb borrow sudden alert loop amazing";

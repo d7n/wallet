@@ -1,1 +1,1 @@
-var mnemonic = "valley air exchange crumble kit sad ritual bright video foil ritual fetch";
+var mnemonic = "error toddler chase odor demise glimpse recycle tribe correct crane blood deputy";

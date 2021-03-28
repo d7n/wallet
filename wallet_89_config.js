@@ -1,1 +1,1 @@
-var mnemonic = "random pink caution dress torch electric awesome wasp ugly skull broom parade";
+var mnemonic = "lunch barrel avoid chaos hand avocado exercise sketch orphan kangaroo local option";

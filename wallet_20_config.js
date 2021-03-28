@@ -1,1 +1,1 @@
-var mnemonic = "convince spare million vapor carry pony hood satisfy response auction orphan cattle";
+var mnemonic = "melody vintage avocado bridge else marriage anger noodle afraid charge detect ski";

@@ -1,1 +1,1 @@
-var mnemonic = "museum box rapid oppose tooth initial easy cheap meadow control lawsuit legal";
+var mnemonic = "frog more gadget social short kitchen about century island wave piano arrive";

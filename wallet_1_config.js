@@ -1,1 +1,1 @@
-var mnemonic = "gate beach pilot arrange bullet ice fiber border hip leopard army choice";
+var mnemonic = "street moral awake dose demand pear siege unveil ignore inherit dish average";

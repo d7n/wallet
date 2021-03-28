@@ -1,1 +1,1 @@
-var mnemonic = "mom abandon forget riot pelican tower milk once fire hire metal ship";
+var mnemonic = "excess neck example gas twist image puzzle ceiling tenant price camp script";

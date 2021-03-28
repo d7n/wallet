@@ -1,1 +1,1 @@
-var mnemonic = "slow token reunion capable relax safe local grunt sustain dinosaur exercise jelly";
+var mnemonic = "swim sting twelve orange manage regret unhappy report roof sibling away switch";

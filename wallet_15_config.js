@@ -1,1 +1,1 @@
-var mnemonic = "dove dish public remain broccoli dignity napkin verify where trick gather segment";
+var mnemonic = "trumpet speed donor shift spell tree carbon upset future latin shove chalk";

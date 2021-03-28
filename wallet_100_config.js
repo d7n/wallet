@@ -1,1 +1,1 @@
-var mnemonic = "exclude public spend burden penalty stable farm debate group still rug glide";
+var mnemonic = "sorry garage much dilemma seek cross creek clip believe tomorrow bomb close";

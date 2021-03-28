@@ -1,1 +1,1 @@
-var mnemonic = "mad where vacant lecture divorce want case december tennis nut sad engine";
+var mnemonic = "stove film ocean amount cost extend private bamboo fix furnace advance note";

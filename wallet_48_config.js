@@ -1,1 +1,1 @@
-var mnemonic = "burst diary oxygen rely excess illness another river attitude hen adult job";
+var mnemonic = "gate bacon danger gain broom okay setup trophy humor quarter jewel belt";

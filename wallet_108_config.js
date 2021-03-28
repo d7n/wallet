@@ -1,1 +1,1 @@
-var mnemonic = "misery love mixed since fatigue donate sight giggle whisper because arrange live";
+var mnemonic = "trick knock museum misery west detail gown actress diamond joy sadness quality";

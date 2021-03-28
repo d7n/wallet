@@ -1,1 +1,1 @@
-var mnemonic = "voyage goddess vapor inflict wreck between witness magic theme much spider another";
+var mnemonic = "grocery aware punch vacuum cushion sustain carry canoe bubble manage misery oven";

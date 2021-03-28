@@ -1,1 +1,1 @@
-var mnemonic = "boat renew dry arm pipe accuse celery brown want matrix drill scale";
+var mnemonic = "foil sail memory mind analyst ranch magnet near cherry force foam network";

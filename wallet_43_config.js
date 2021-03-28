@@ -1,1 +1,1 @@
-var mnemonic = "depth want exhibit raven charge tonight across sort fortune void sponsor promote";
+var mnemonic = "prosper cycle cushion curtain luggage raccoon knife column pull luxury merry gap";

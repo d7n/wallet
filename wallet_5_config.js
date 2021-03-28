@@ -1,1 +1,1 @@
-var mnemonic = "stick taxi alley lion vacuum dizzy fault tuna love venture round bicycle";
+var mnemonic = "jump rifle eternal improve bonus rabbit execute capable inhale iron section tonight";

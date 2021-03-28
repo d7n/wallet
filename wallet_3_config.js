@@ -1,1 +1,1 @@
-var mnemonic = "walk era flat purity subway tail once primary jaguar eight plunge reform";
+var mnemonic = "brother oppose battle photo brown noodle rocket blue dice hammer hobby people";

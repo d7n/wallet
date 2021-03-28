@@ -1,1 +1,1 @@
-var mnemonic = "grant cruise drum turkey enhance maximum pepper broom soup olympic flip wink";
+var mnemonic = "knee small wedding remain model cost great craft coil panda deputy concert";

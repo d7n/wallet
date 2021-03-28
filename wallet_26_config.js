@@ -1,1 +1,1 @@
-var mnemonic = "reject melody fit element antique game air jazz weekend eternal army fame";
+var mnemonic = "empty style either praise wise wet wage odor erode fun human patrol";
