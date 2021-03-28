@@ -1,1 +1,1 @@
-var mnemonic = "muffin soccer rather slush used market unique critic olive fossil act process";
+var mnemonic = "barely estate high wear detail monkey order exchange virus conduct crew foot";

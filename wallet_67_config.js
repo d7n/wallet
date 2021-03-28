@@ -1,1 +1,1 @@
-var mnemonic = "distance cattle found absent swim clever avocado skirt reform index envelope drop";
+var mnemonic = "vehicle explain rich chicken smart dinner abandon furnace real vague want chuckle";

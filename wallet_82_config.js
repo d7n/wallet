@@ -1,1 +1,1 @@
-var mnemonic = "photo heavy mule soap comfort embrace auto fork clown squirrel blame click";
+var mnemonic = "dad cargo increase margin toy blanket river say ordinary choice over solid";

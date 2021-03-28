@@ -1,1 +1,1 @@
-var mnemonic = "dune mobile follow poet day pudding eye engine struggle next subway swamp";
+var mnemonic = "around cart now vessel saddle pet useful broken sure twist swift alter";

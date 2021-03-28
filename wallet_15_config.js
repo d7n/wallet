@@ -1,1 +1,1 @@
-var mnemonic = "hello void menu vast dumb patrol excuse tissue unlock observe tired access";
+var mnemonic = "glance online audit cupboard dentist fee submit iron radar review tube position";

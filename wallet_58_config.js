@@ -1,1 +1,1 @@
-var mnemonic = "cable potato electric float staff amused sunny boil real myself toy old";
+var mnemonic = "season shift agent chaos coral tumble task soul olympic top output olympic";

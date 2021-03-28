@@ -1,1 +1,1 @@
-var mnemonic = "rare defense river recipe industry special grocery area entry crane jealous notice";
+var mnemonic = "bring blue fresh buffalo bundle spirit pole bacon among spike april oyster";

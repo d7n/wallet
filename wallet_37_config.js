@@ -1,1 +1,1 @@
-var mnemonic = "weird metal brown decrease brass alert forget insect program belt success pitch";
+var mnemonic = "once audit people exchange current exit move help online clever embody example";

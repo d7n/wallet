@@ -1,1 +1,1 @@
-var mnemonic = "town dirt pulp perfect bean potato saddle just turn monitor put allow";
+var mnemonic = "knee modify half exile tuna scale debris such heart crazy annual maximum";

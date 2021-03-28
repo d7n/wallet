@@ -1,1 +1,1 @@
-var mnemonic = "rail ethics leader organ burst acid ahead guitar hurt wonder piano chair";
+var mnemonic = "lazy flavor master empty rocket field wrong cotton cloth lobster dignity hip";

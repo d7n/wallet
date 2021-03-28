@@ -1,1 +1,1 @@
-var mnemonic = "citizen joy attend diet rice puppy miracle draw screen tape cattle riot";
+var mnemonic = "winter employ clog year squeeze upon tissue donate jar noble tattoo duty";

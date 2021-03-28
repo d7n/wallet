@@ -1,1 +1,1 @@
-var mnemonic = "veteran depth nominee mammal faculty inner diary vast crumble glimpse shadow garment";
+var mnemonic = "word lottery attack lottery either truly switch camp knee home crack settle";

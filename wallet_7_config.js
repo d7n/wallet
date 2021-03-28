@@ -1,1 +1,1 @@
-var mnemonic = "uncover boost put size oxygen sing traffic abstract own tobacco kitten sketch";
+var mnemonic = "legal come praise buffalo sort retire render catalog dutch shift crash regret";

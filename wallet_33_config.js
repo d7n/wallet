@@ -1,1 +1,1 @@
-var mnemonic = "amused nose sad dilemma mind tank maid organ click solid brisk south";
+var mnemonic = "secret kiss spatial aerobic muscle tag taxi way legal subway neither universe";

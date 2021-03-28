@@ -1,1 +1,1 @@
-var mnemonic = "oven correct addict miracle kiss design frozen cross enforce purity edit save";
+var mnemonic = "draw honey source climb dream blush debris strong define shaft pupil price";

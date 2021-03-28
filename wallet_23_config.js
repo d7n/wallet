@@ -1,1 +1,1 @@
-var mnemonic = "hotel nothing bomb wrestle soldier famous outer blush depart tomorrow speak share";
+var mnemonic = "resource pitch party urban step drive panic night assist damp unable must";

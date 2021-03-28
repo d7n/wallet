@@ -1,1 +1,1 @@
-var mnemonic = "athlete damage able maze neck region dish must tobacco chronic choose resemble";
+var mnemonic = "pizza doll bubble topic wood mom burden public zoo arrow sphere social";

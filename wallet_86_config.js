@@ -1,1 +1,1 @@
-var mnemonic = "orange romance exhaust blame favorite step stool palm canvas fix balcony sun";
+var mnemonic = "library auto tragic layer update crack blame drum approve measure old fossil";

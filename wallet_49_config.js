@@ -1,1 +1,1 @@
-var mnemonic = "cat country little kitchen method target essay champion divert idle margin ball";
+var mnemonic = "region off abandon photo couple sort door merge bitter fog check monkey";

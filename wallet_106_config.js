@@ -1,1 +1,1 @@
-var mnemonic = "gaze leisure unusual tribe alley electric speak enjoy ski differ act deputy";
+var mnemonic = "usage venture dial flavor grit answer cabin swamp stairs pole rate replace";

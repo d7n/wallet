@@ -1,1 +1,1 @@
-var mnemonic = "plastic kidney there palace arctic weasel annual burst thrive garage below toilet";
+var mnemonic = "woman giggle bunker reflect anger spice world blush airport black moment umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "cup milk stool menu announce steel duck panther client detail fashion tuna";
+var mnemonic = "story timber water end velvet chalk measure basic century flip grid hub";

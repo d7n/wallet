@@ -1,1 +1,1 @@
-var mnemonic = "nuclear spot industry winter reject skull hurt hero door diagram number era";
+var mnemonic = "film frame august embark fish enjoy hire addict tackle track ski dream";

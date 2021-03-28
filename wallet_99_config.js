@@ -1,1 +1,1 @@
-var mnemonic = "chest cram town wife history oyster purchase oblige science jungle more vibrant";
+var mnemonic = "inner prison valley alarm senior fancy palm milk hammer near cross gown";

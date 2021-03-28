@@ -1,1 +1,1 @@
-var mnemonic = "maple elegant like ignore blame virtual fat piano pledge system knife arch";
+var mnemonic = "unfold master dutch tide amazing resemble deny flat onion strategy spirit risk";

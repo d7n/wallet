@@ -1,1 +1,1 @@
-var mnemonic = "aunt abandon you wrong silver drop member enable grant industry witness among";
+var mnemonic = "orient carbon waste praise material aisle code gesture banana unfair still whale";

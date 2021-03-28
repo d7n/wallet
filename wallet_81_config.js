@@ -1,1 +1,1 @@
-var mnemonic = "minimum retire since sustain wet sunset cable short favorite ramp slab patch";
+var mnemonic = "will mandate tent history lesson final behave bulk stomach pair clap rich";

@@ -1,1 +1,1 @@
-var mnemonic = "resource essence social ethics captain garden smart label fancy humor concert auction";
+var mnemonic = "mass winter forum rich wonder jealous hard fiber draft rule gym van";

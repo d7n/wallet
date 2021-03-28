@@ -1,1 +1,1 @@
-var mnemonic = "jealous antique furnace lonely clap deer afford start success obey element barely";
+var mnemonic = "lecture naive nominee link photo enrich claw pretty april satoshi reward frown";

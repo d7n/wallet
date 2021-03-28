@@ -1,1 +1,1 @@
-var mnemonic = "hub mixture volume prison crunch midnight cost alone garbage attract eye salmon";
+var mnemonic = "gravity thrive foam laugh broccoli group rely tail lucky typical winter scan";

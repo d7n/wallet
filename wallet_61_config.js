@@ -1,1 +1,1 @@
-var mnemonic = "together glow security prize current image cabbage nut aunt sense rhythm couch";
+var mnemonic = "loyal whale chuckle anxiety jump say maze flower chuckle busy dumb surround";

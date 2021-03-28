@@ -1,1 +1,1 @@
-var mnemonic = "average latin news lawn lounge style install ghost lyrics spell upper bulk";
+var mnemonic = "blush rent traffic climb sibling cloth dismiss strategy explain ill jump chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "brass flush return involve nice blush betray plate charge room neither dust";
+var mnemonic = "scout crime proof critic obtain seat eternal gasp affair debris carbon hollow";

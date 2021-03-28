@@ -1,1 +1,1 @@
-var mnemonic = "unknown loyal license believe pink ring mandate sight diary clap blush cool";
+var mnemonic = "point cute open kite catalog era mobile grain divide finger useful dawn";

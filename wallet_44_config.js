@@ -1,1 +1,1 @@
-var mnemonic = "prefer zone pill sleep crime seed mean health voyage meat essay office";
+var mnemonic = "rely obey world zero cherry valid lamp wonder scare panic emerge oppose";

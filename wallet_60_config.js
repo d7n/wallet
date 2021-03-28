@@ -1,1 +1,1 @@
-var mnemonic = "size wagon cloth legend aim mention runway coffee mango produce civil name";
+var mnemonic = "learn police frozen card garage sand proof execute slogan used reopen cotton";

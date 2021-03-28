@@ -1,1 +1,1 @@
-var mnemonic = "host badge world almost evidence festival voyage bless bullet tiger hazard catch";
+var mnemonic = "over rib movie angle begin ripple situate lonely there kid punch narrow";

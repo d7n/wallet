@@ -1,1 +1,1 @@
-var mnemonic = "detect ethics theme box input dial sleep absent unfair supply recall boil";
+var mnemonic = "hotel puzzle name poem slab deputy must supreme awkward artist finger slice";

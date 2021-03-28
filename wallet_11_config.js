@@ -1,1 +1,1 @@
-var mnemonic = "hire retreat end hover detail jar green celery hockey cube sock car";
+var mnemonic = "quantum lounge season autumn distance reveal link above prison figure assault mean";

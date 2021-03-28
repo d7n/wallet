@@ -1,1 +1,1 @@
-var mnemonic = "celery fruit afraid cactus ostrich radar woman bring jeans virus skull crater";
+var mnemonic = "sister toe deer dust burger solution shy they inherit ask luggage hint";

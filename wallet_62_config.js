@@ -1,1 +1,1 @@
-var mnemonic = "illness stick almost urge this protect puzzle awkward minor fame whale squeeze";
+var mnemonic = "attend bronze wish become genuine fantasy dash runway case eight maze tuna";

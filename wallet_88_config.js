@@ -1,1 +1,1 @@
-var mnemonic = "speak seat island violin weasel woman inspire stereo news much kitchen company";
+var mnemonic = "leave syrup ocean arena dog step ride panel nominee imitate cruise dust";

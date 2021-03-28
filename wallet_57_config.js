@@ -1,1 +1,1 @@
-var mnemonic = "woman crumble opera immense clay fringe battle shield wasp person balcony cup";
+var mnemonic = "drop multiply pool rapid fiction attack call legend mesh gold slender future";

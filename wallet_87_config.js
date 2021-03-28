@@ -1,1 +1,1 @@
-var mnemonic = "token ivory odor forest share flash spider car team shine soul pilot";
+var mnemonic = "bonus envelope coil floor maple exotic dry shadow fault need garage foot";

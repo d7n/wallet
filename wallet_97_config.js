@@ -1,1 +1,1 @@
-var mnemonic = "ensure cruise decrease blossom whisper differ month voice grid siren plug afraid";
+var mnemonic = "crater cycle rate check clarify width often hurdle scorpion add hard luxury";

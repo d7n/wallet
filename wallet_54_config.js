@@ -1,1 +1,1 @@
-var mnemonic = "nation unknown solar urban waste differ simple silk banner stone biology youth";
+var mnemonic = "snow blanket label square planet demand arena skull route social cancel sight";

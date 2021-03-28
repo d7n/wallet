@@ -1,1 +1,1 @@
-var mnemonic = "clip either pattern actress letter attend emotion flame silk property parade horn";
+var mnemonic = "flight burst story drop disease stool seven lesson upset learn better tonight";

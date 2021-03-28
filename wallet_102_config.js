@@ -1,1 +1,1 @@
-var mnemonic = "empty infant mule soccer famous heart since misery copy labor pioneer bus";
+var mnemonic = "dice cargo spend quick mansion situate embody door borrow palm cluster shoe";

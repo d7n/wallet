@@ -1,1 +1,1 @@
-var mnemonic = "genuine twin various cotton evidence situate parade need hospital amount winter suit";
+var mnemonic = "urban neck skill hire need diagram mass cram range corn jazz such";

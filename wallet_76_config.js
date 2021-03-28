@@ -1,1 +1,1 @@
-var mnemonic = "ill bulb text world decline void ketchup coin topple brand head fly";
+var mnemonic = "violin stick sail alpha chronic snap next dad autumn inherit situate axis";

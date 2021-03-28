@@ -1,1 +1,1 @@
-var mnemonic = "nature two vocal silk slab switch survey upper clown drama push test";
+var mnemonic = "turtle scare online when prepare denial artist misery finish brown exclude lonely";

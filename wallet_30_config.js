@@ -1,1 +1,1 @@
-var mnemonic = "crew raise actress bottom surprise pen tell catalog victory proud august task";
+var mnemonic = "number flash ordinary bring bicycle spy kiss choice return universe warm total";

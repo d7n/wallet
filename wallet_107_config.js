@@ -1,1 +1,1 @@
-var mnemonic = "pass toast fine pattern limit glimpse forum where frown surface fuel number";
+var mnemonic = "jar october any body frost enrich drill wave trouble citizen army proof";

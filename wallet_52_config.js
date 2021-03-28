@@ -1,1 +1,1 @@
-var mnemonic = "pilot pumpkin knife debris image agree song cause find cash aisle type";
+var mnemonic = "bring wink alpha improve purpose inner core dolphin crouch group ghost unhappy";

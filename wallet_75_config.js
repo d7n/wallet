@@ -1,1 +1,1 @@
-var mnemonic = "path elite dutch then result code ride grit sand glory satoshi behind";
+var mnemonic = "into brand carry smooth all tongue version open away wagon bomb tree";

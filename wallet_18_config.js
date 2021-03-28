@@ -1,1 +1,1 @@
-var mnemonic = "bachelor bridge snow rain elder hour vacant public torch casual erode coil";
+var mnemonic = "muscle goose deposit brand session worth abuse random tomorrow actor spoil potato";

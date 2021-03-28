@@ -1,1 +1,1 @@
-var mnemonic = "employ certain scan sudden blush document reopen prefer document must normal bubble";
+var mnemonic = "bomb person same orbit urban mountain scare exhaust unknown fitness digital cheap";

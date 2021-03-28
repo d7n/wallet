@@ -1,1 +1,1 @@
-var mnemonic = "state miracle pupil runway option elegant first help spray check outer absurd";
+var mnemonic = "tornado jewel isolate inmate where parrot label foot acid armor soft you";

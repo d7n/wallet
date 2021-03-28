@@ -1,1 +1,1 @@
-var mnemonic = "edit kitten puzzle message swim lake hunt cable online enrich special blade";
+var mnemonic = "prevent pupil impulse chicken tenant sentence toast amused fee pull apple video";

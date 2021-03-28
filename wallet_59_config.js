@@ -1,1 +1,1 @@
-var mnemonic = "way enact target grocery glad guitar gaze birth elite clinic ecology response";
+var mnemonic = "urban print prosper sadness lunar put ancient cake need mail walnut raven";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure copper agree first future hint hire awesome mixture fantasy crush video";
+var mnemonic = "clean one exclude essay hill hill sand deposit rebel sustain army valley";

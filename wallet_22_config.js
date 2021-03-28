@@ -1,1 +1,1 @@
-var mnemonic = "diet car sister hint region audit clerk inside decrease leopard main field";
+var mnemonic = "craft frozen bracket frost print artefact car hope quiz improve bus student";

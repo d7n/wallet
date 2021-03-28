@@ -1,1 +1,1 @@
-var mnemonic = "food year captain deputy meadow goddess tenant final access bulk century satisfy";
+var mnemonic = "million twice thunder crowd stay behind limb news amazing price uncover position";

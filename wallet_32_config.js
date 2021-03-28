@@ -1,1 +1,1 @@
-var mnemonic = "taste polar charge load raw river gallery globe south brand pitch embrace";
+var mnemonic = "radar spare tooth impulse stumble evidence ritual stick language salmon gap fiction";

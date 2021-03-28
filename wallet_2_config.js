@@ -1,1 +1,1 @@
-var mnemonic = "lounge jaguar shove labor animal magnet fold hub cement duck taste disagree";
+var mnemonic = "ozone media satisfy million move blade avoid capital damage cactus dress machine";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor horse patrol orchard quiz light debris amused neither theme truth scare";
+var mnemonic = "track bachelor monitor youth stove pony guitar vicious view warfare trial fuel";

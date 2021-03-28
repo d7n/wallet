@@ -1,1 +1,1 @@
-var mnemonic = "puzzle just visit soon vintage bean cactus edit piece panic fat boil";
+var mnemonic = "amateur affair that wet gift scrub session animal coil search dry civil";

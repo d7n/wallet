@@ -1,1 +1,1 @@
-var mnemonic = "pause innocent worry aim oblige zebra runway census unfair amazing napkin stamp";
+var mnemonic = "member answer green force garden photo column prepare grace social survey illness";

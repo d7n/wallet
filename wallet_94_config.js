@@ -1,1 +1,1 @@
-var mnemonic = "annual song erase trust charge error heavy east shine doll police bunker";
+var mnemonic = "solve fiber chest jungle project vintage seek social luxury lucky among limit";

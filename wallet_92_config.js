@@ -1,1 +1,1 @@
-var mnemonic = "gentle field alarm regular girl inject achieve fee opinion street reveal budget";
+var mnemonic = "slogan more acquire around crop black chest rent true web vivid drum";

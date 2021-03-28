@@ -1,1 +1,1 @@
-var mnemonic = "action poet nominee idea cream keep notice text wide filter ramp can";
+var mnemonic = "mechanic someone bronze risk ancient social pen patient plunge focus cost card";

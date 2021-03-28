@@ -1,1 +1,1 @@
-var mnemonic = "measure kiss leg glass guess hint brown cruise habit marine mansion script";
+var mnemonic = "return grape mosquito echo ethics people useless success purse skirt wealth wheel";

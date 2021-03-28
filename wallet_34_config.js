@@ -1,1 +1,1 @@
-var mnemonic = "home lab champion size foot hawk team holiday truth jewel negative mammal";
+var mnemonic = "monster donor junk wave across pass there absent busy famous shove face";

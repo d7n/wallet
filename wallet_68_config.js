@@ -1,1 +1,1 @@
-var mnemonic = "morning option tide royal weather okay left mask dice gentle pact immune";
+var mnemonic = "fiction doll this detail jungle indoor priority outdoor upper joy speak always";

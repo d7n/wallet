@@ -1,1 +1,1 @@
-var mnemonic = "warrior divide opinion good amount proof file grab wild garment almost buyer";
+var mnemonic = "elevator oil idea gospel promote toss oppose ignore file merge chronic sad";

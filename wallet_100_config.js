@@ -1,1 +1,1 @@
-var mnemonic = "glory family fashion high already mother grid car inform daring toilet soccer";
+var mnemonic = "faculty disagree small palace letter uncover extend mom battle artist topic abandon";

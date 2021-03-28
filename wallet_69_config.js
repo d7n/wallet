@@ -1,1 +1,1 @@
-var mnemonic = "awkward good nasty school tiny hill loop surge token orchard vibrant garbage";
+var mnemonic = "crawl gloom punch kangaroo lion donor injury toss orbit sketch leave display";

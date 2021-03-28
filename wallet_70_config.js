@@ -1,1 +1,1 @@
-var mnemonic = "arctic stone force bubble clump arrest nothing mix canal bless focus still";
+var mnemonic = "couch jar steel mutual hole faculty crack green render forum prepare margin";

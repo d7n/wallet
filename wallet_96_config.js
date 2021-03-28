@@ -1,1 +1,1 @@
-var mnemonic = "slogan salon guide abuse perfect glove original focus pattern empty worth maid";
+var mnemonic = "oyster leave father scheme process clean april evidence across pledge manual analyst";

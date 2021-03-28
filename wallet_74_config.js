@@ -1,1 +1,1 @@
-var mnemonic = "swing duck evidence this moon ski ugly apple assault copy dress ceiling";
+var mnemonic = "spirit lava visit angry sunset voyage destroy inner snake divorce rhythm slogan";

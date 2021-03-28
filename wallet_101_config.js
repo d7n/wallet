@@ -1,1 +1,1 @@
-var mnemonic = "silk sad prison chapter height mutual traffic liquid balcony soda apology essay";
+var mnemonic = "evolve drop tackle canvas blur science trick fluid swear frozen scrub exact";

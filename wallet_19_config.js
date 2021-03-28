@@ -1,1 +1,1 @@
-var mnemonic = "mixture snake danger floor knee second again series spread question coast remind";
+var mnemonic = "provide giraffe solve similar warrior suspect earn add enroll tape alone cereal";

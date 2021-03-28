@@ -1,1 +1,1 @@
-var mnemonic = "pudding three blade cave inmate firm track unusual proud next pave host";
+var mnemonic = "undo replace job pole clog list allow father mobile matrix blouse shift";

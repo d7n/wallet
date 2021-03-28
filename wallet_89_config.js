@@ -1,1 +1,1 @@
-var mnemonic = "table swear theme victory ignore moral comfort garment ritual bread glide van";
+var mnemonic = "verify mother great vague zoo reward dynamic habit wrist close elder leisure";

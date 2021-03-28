@@ -1,1 +1,1 @@
-var mnemonic = "original farm furnace demand accuse use piano erode beyond cotton defense random";
+var mnemonic = "visit target foot toward east regret indoor stuff what pole hawk soldier";

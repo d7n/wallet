@@ -1,1 +1,1 @@
-var mnemonic = "chimney tuna exhaust sunny syrup reward bind define owner disorder document hair";
+var mnemonic = "civil scene matrix keen million ten melody three gloom mosquito mutual sister";

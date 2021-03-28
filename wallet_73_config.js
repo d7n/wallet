@@ -1,1 +1,1 @@
-var mnemonic = "slim rabbit cousin main ride wish tooth attitude agent indoor turtle essay";
+var mnemonic = "scare cupboard loop venue throw casino sunny grape rate pledge crumble moon";

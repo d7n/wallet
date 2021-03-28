@@ -1,1 +1,1 @@
-var mnemonic = "palm awake crazy inner apology neutral wolf next machine loop turn hint";
+var mnemonic = "trumpet trash photo salon rally approve better onion prefer knee fish middle";

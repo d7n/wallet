@@ -1,1 +1,1 @@
-var mnemonic = "shy height point forward clap law throw garlic drip express inch town";
+var mnemonic = "rug verb coyote admit relax exact office click model depth insect method";

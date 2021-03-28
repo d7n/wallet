@@ -1,1 +1,1 @@
-var mnemonic = "repeat okay ketchup exist planet damage march silent vivid finger hammer rival";
+var mnemonic = "mutual valid walk size stay spirit very outer olive law fluid lounge";

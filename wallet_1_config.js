@@ -1,1 +1,1 @@
-var mnemonic = "letter grace breeze burst elbow worry merge embark satoshi question style doctor";
+var mnemonic = "trial torch property okay whip month feature report hole monster desert thumb";

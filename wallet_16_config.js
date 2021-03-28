@@ -1,1 +1,1 @@
-var mnemonic = "height saddle credit forum rely result beyond inner exist armed document forward";
+var mnemonic = "engine grief entry visa tail dynamic crawl daring relief grow always dawn";

@@ -1,1 +1,1 @@
-var mnemonic = "smooth scale satisfy error impact gallery edit session various float finish tag";
+var mnemonic = "vapor patrol jungle layer gown recall ready filter equal lawn small current";

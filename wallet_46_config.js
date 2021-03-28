@@ -1,1 +1,1 @@
-var mnemonic = "blouse dizzy dry riot senior message differ evil chapter setup disorder vessel";
+var mnemonic = "witness roof believe hollow reject protect urban three wrist patch inmate bus";

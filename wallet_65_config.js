@@ -1,1 +1,1 @@
-var mnemonic = "main bleak emotion put travel aunt will round choose finger ugly material";
+var mnemonic = "dream segment drive provide mushroom abstract portion tool coil lobster sock fade";

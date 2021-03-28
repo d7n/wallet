@@ -1,1 +1,1 @@
-var mnemonic = "human shrimp consider private siege next helmet scissors annual coil upgrade warfare";
+var mnemonic = "angry teach dinosaur borrow fashion blur switch offer move olive tray match";

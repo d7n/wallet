@@ -1,1 +1,1 @@
-var mnemonic = "fault strategy negative sleep allow media jump yard remind lobster age life";
+var mnemonic = "swarm fever one bridge denial poverty version adapt wrong harsh over actress";

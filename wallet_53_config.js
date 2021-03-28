@@ -1,1 +1,1 @@
-var mnemonic = "elegant swamp fade correct parade teach project popular penalty search cable sausage";
+var mnemonic = "satisfy property wheel slim forest traffic tiny mouse latin advice grow scrub";

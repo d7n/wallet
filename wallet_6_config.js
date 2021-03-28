@@ -1,1 +1,1 @@
-var mnemonic = "result mimic clerk lonely grab second bundle bottom old donor long dawn";
+var mnemonic = "spare velvet limit layer ozone outdoor vehicle ski domain pluck upset bar";

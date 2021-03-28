@@ -1,1 +1,1 @@
-var mnemonic = "youth trap legend mobile stumble cause first trick tone disease depart memory";
+var mnemonic = "hip middle either erode gesture body climb novel clip slim spend elevator";
