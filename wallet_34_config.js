@@ -1,1 +1,1 @@
-var mnemonic = "obscure bid shell peasant amateur click real trigger edit write actual series";
+var mnemonic = "clip twin marble rain husband volcano perfect gravity surface nice digital math";

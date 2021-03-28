@@ -1,1 +1,1 @@
-var mnemonic = "teach thought reunion knee weather sight fancy wire dove sport task retreat";
+var mnemonic = "ladder unique all sign eyebrow demise envelope devote truly maid together inherit";

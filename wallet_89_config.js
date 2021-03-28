@@ -1,1 +1,1 @@
-var mnemonic = "update sport shiver finish acid pepper liar join garbage agent glimpse include";
+var mnemonic = "escape only update reject speak buyer wing manual excess science tip blouse";

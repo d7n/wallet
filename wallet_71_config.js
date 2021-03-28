@@ -1,1 +1,1 @@
-var mnemonic = "fatal dune empower paper bike salon own pretty secret fog narrow honey";
+var mnemonic = "matrix quiz output recycle brand hire trap grit people grocery hill field";

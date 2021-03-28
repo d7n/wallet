@@ -1,1 +1,1 @@
-var mnemonic = "hip gym piece polar rack pear wreck runway gasp autumn bulb skate";
+var mnemonic = "misery note wrap learn plug arrange kiss kitchen strong wolf lift bacon";

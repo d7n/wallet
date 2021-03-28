@@ -1,1 +1,1 @@
-var mnemonic = "limit priority three pill virus island critic require outer left memory clutch";
+var mnemonic = "hold awake ozone diagram minimum hub close angle damage tumble skate shadow";

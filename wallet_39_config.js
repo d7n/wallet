@@ -1,1 +1,1 @@
-var mnemonic = "water comic common kidney talk assault grace man earth material embark random";
+var mnemonic = "plunge connect slide giant script then seminar rookie dose connect vintage artist";

@@ -1,1 +1,1 @@
-var mnemonic = "final much lounge room hour cool model buzz organ surround say legend";
+var mnemonic = "target umbrella hold noble release bacon leader divert theme palm badge gravity";

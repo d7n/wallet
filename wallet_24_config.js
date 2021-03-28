@@ -1,1 +1,1 @@
-var mnemonic = "charge express must taxi average wear usual term order spend flock uncover";
+var mnemonic = "safe entry opera daughter scrap camp raven first strike already reward churn";

@@ -1,1 +1,1 @@
-var mnemonic = "demand century detect metal awesome keen occur sausage rhythm amazing chase dad";
+var mnemonic = "hybrid wonder pumpkin fence lucky cruel entry parrot garlic move dream soldier";

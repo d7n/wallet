@@ -1,1 +1,1 @@
-var mnemonic = "flash oil put arctic bulb example scrub order patrol horse slender diagram";
+var mnemonic = "jazz theory aware dress together spoil isolate cook recall cliff bitter market";

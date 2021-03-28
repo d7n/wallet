@@ -1,1 +1,1 @@
-var mnemonic = "keen recipe gloom hip rubber vault cousin two vague bitter impulse judge";
+var mnemonic = "front couch globe kind elbow scene fix front scare syrup drama squeeze";

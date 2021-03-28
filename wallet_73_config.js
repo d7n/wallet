@@ -1,1 +1,1 @@
-var mnemonic = "forest mystery employ lake reform security awful soul chuckle dust manage forum";
+var mnemonic = "property stairs delay decline kit apple thank ozone vapor release inmate frost";

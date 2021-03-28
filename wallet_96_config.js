@@ -1,1 +1,1 @@
-var mnemonic = "ill brass private invest dumb zero few ethics slim stone grocery bread";
+var mnemonic = "noble among nest around wink harsh journey awful peasant farm appear express";

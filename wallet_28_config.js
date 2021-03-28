@@ -1,1 +1,1 @@
-var mnemonic = "prefer useless ahead purity shrug hub action sport duty avoid hope board";
+var mnemonic = "media dawn elegant husband olympic second bitter economy scan zone submit chronic";

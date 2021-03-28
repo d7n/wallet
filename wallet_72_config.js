@@ -1,1 +1,1 @@
-var mnemonic = "start visa media flip bind fat assault foster nominee bacon silly electric";
+var mnemonic = "runway picture distance priority female truly swing raccoon primary fringe boy enhance";

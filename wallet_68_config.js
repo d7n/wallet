@@ -1,1 +1,1 @@
-var mnemonic = "enough tonight sauce happy margin differ deal salad include picture blur comfort";
+var mnemonic = "bar word can entry wash announce type card settle zebra grape mesh";

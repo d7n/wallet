@@ -1,1 +1,1 @@
-var mnemonic = "front model chase island letter leisure hard lumber rocket bracket circle excite";
+var mnemonic = "friend act vacant resemble vote execute just asthma permit arrow response funny";

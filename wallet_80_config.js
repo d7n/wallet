@@ -1,1 +1,1 @@
-var mnemonic = "float naive into flame decade seat online plug border cup reunion pluck";
+var mnemonic = "surround elevator clutch point slow arrive seven rather edit also stable bless";

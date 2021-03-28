@@ -1,1 +1,1 @@
-var mnemonic = "steel unfair note solar robust mention canoe round pair journey area morning";
+var mnemonic = "box corn short fog exist host pizza capital paper copper eternal thunder";

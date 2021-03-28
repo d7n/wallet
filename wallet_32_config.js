@@ -1,1 +1,1 @@
-var mnemonic = "transfer cover wine olympic consider prevent galaxy flat avocado expect spoil talk";
+var mnemonic = "unable coyote vehicle topple display iron pause word message breeze virtual critic";

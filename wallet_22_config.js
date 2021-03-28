@@ -1,1 +1,1 @@
-var mnemonic = "problem episode method guide wall hedgehog motion unusual unfair course cinnamon mask";
+var mnemonic = "rabbit tonight hero holiday sad maximum catalog spice chalk usage acquire found";

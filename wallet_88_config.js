@@ -1,1 +1,1 @@
-var mnemonic = "drift kingdom street lens embrace exotic situate alert slender judge clog hurdle";
+var mnemonic = "dry return news volume early warrior world mechanic process furnace glad gallery";

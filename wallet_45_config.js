@@ -1,1 +1,1 @@
-var mnemonic = "achieve innocent kitchen such diet minimum often sausage observe client traffic glare";
+var mnemonic = "lend horn vibrant inhale angle icon rate brave outdoor coral simple woman";

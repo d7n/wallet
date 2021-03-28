@@ -1,1 +1,1 @@
-var mnemonic = "also normal spirit mother pear garbage butter casual youth ozone ocean erosion";
+var mnemonic = "shoot lonely weather setup hurt auto job cherry tuna chapter pottery desk";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy fog almost voice cinnamon before turtle page jaguar refuse fit involve";
+var mnemonic = "bridge pulse ready swamp language smart kiwi smoke reward crop silent acoustic";

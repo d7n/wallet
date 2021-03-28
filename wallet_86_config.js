@@ -1,1 +1,1 @@
-var mnemonic = "crush foil swarm shadow bubble face rug small nothing region blast beach";
+var mnemonic = "nice giraffe nose excite divide post salmon morning pluck ignore release adapt";

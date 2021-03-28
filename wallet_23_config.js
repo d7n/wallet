@@ -1,1 +1,1 @@
-var mnemonic = "body size thought theory drill brass peasant eye dinosaur flip dumb must";
+var mnemonic = "portion luxury lion detect isolate report another dolphin other catch inspire raw";

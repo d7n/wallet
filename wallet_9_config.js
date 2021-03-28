@@ -1,1 +1,1 @@
-var mnemonic = "prepare ritual tag toward thought better direct raven nice mother inmate output";
+var mnemonic = "veteran swift problem marine just hurry east piece wonder practice kitten alert";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent nerve rough stone mimic despair patient knock coyote method kind convince";
+var mnemonic = "diamond ask pause make make purity moon once museum electric fork frequent";

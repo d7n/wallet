@@ -1,1 +1,1 @@
-var mnemonic = "state expire door call ability oxygen model broom test ordinary sure thank";
+var mnemonic = "vast annual number ignore alert sunset pill useful scrub steak chase victory";

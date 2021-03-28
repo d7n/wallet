@@ -1,1 +1,1 @@
-var mnemonic = "vote apart rely motor exact favorite float loyal license bright attitude kick";
+var mnemonic = "three uncle little buffalo palm still crouch found celery analyst umbrella lend";

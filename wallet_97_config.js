@@ -1,1 +1,1 @@
-var mnemonic = "matrix rival section joke conduct toward point pledge awesome behind bench aisle";
+var mnemonic = "quarter logic page perfect stairs brain symptom staff expire fuel entry tool";

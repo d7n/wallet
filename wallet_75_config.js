@@ -1,1 +1,1 @@
-var mnemonic = "language rent shift nut pet boat beyond canyon six spot laugh execute";
+var mnemonic = "powder bike explain harvest quote truth mail finish extend mean ribbon noise";

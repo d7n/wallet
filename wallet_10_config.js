@@ -1,1 +1,1 @@
-var mnemonic = "analyst fancy step say chest acid warm loop stomach refuse grain liberty";
+var mnemonic = "frozen security caution skate clarify drastic miracle buffalo slice wrestle note mirror";

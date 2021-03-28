@@ -1,1 +1,1 @@
-var mnemonic = "winner hip put furnace drop reveal damp maze stadium gym mystery loan";
+var mnemonic = "toddler layer loan lend frozen stool cart swim kangaroo pledge they pistol";

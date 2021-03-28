@@ -1,1 +1,1 @@
-var mnemonic = "smooth name borrow club barely work twelve hurry radio sea fury moon";
+var mnemonic = "cool uncover frown whip misery circle need simple brown deposit gloom rate";

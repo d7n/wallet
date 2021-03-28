@@ -1,1 +1,1 @@
-var mnemonic = "spider edge cloud wreck swarm liquid during please pair critic only tip";
+var mnemonic = "damage often summer add ladder panel labor gun name fringe toward canoe";

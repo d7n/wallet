@@ -1,1 +1,1 @@
-var mnemonic = "brush copy bench seven lucky traffic december hope fat ensure mushroom surge";
+var mnemonic = "matter repair dolphin nerve legal vintage shiver outer point payment heavy lawn";

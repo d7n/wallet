@@ -1,1 +1,1 @@
-var mnemonic = "absurd traffic knife tattoo demise exclude double sugar silly ugly utility rough";
+var mnemonic = "milk sausage parent crop throw filter puppy plastic oxygen child tattoo book";

@@ -1,1 +1,1 @@
-var mnemonic = "point bread vault chuckle tower estate story picnic apple panther turkey vital";
+var mnemonic = "vault hurdle cash duty pottery olive snow monkey cost major wall sudden";

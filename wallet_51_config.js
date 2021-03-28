@@ -1,1 +1,1 @@
-var mnemonic = "genuine capital cry swift noise minimum pig travel lab reveal approve tuition";
+var mnemonic = "income meadow cement effort lock diary shell remove inject setup midnight isolate";

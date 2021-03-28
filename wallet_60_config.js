@@ -1,1 +1,1 @@
-var mnemonic = "auto laundry trash vote uncle diagram appear stay hurdle ugly slight chronic";
+var mnemonic = "life detail problem monster supply antique rival filter what kiss hello cause";

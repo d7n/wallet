@@ -1,1 +1,1 @@
-var mnemonic = "caution grain receive middle road attitude hungry feel release orange differ sniff";
+var mnemonic = "master elbow tonight muffin risk agent cushion kiss goose wonder okay symbol";

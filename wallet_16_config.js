@@ -1,1 +1,1 @@
-var mnemonic = "high fall view pledge bleak mimic orchard balcony quick maid track valley";
+var mnemonic = "mammal level public stand kingdom void machine flat setup tonight flee add";

@@ -1,1 +1,1 @@
-var mnemonic = "absent girl moon light response clerk slide donor legend camera meadow source";
+var mnemonic = "cloth lecture foil rural damage twist twice oven meadow beef cheese gaze";

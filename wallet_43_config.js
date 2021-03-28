@@ -1,1 +1,1 @@
-var mnemonic = "member paddle shrimp scrub reopen spike poet ready into input limit program";
+var mnemonic = "cross reason brass today load mistake squirrel obvious gallery return cherry recycle";

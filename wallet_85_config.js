@@ -1,1 +1,1 @@
-var mnemonic = "deer first toss resource face fortune hen clay tomato keen front frequent";
+var mnemonic = "oppose cement hollow tourist remember noodle actress broom lunar expose exile border";

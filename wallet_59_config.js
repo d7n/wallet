@@ -1,1 +1,1 @@
-var mnemonic = "act gaze wrist unlock option master pipe enemy excite roof usual nominee";
+var mnemonic = "element slow alarm strategy mean chief burger captain ripple shadow funny table";

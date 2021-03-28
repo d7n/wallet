@@ -1,1 +1,1 @@
-var mnemonic = "crop exit finger credit mansion spatial enjoy roast pen jump faculty label";
+var mnemonic = "gauge skin learn good clump check kiss width image phone habit also";

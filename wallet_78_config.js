@@ -1,1 +1,1 @@
-var mnemonic = "try cinnamon journey hedgehog weather blue race fiction ketchup air attend model";
+var mnemonic = "mother use curious ancient shrug theory dance blush rule inhale april fatigue";

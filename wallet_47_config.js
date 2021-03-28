@@ -1,1 +1,1 @@
-var mnemonic = "slot quick cricket market net poem cart garbage donkey thumb purse spy";
+var mnemonic = "journey plate few that strong detail kidney half logic chaos avocado mixed";

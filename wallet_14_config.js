@@ -1,1 +1,1 @@
-var mnemonic = "riot dirt face into muscle coral frost thunder liquid you rough web";
+var mnemonic = "domain hope remain balcony isolate tribe secret forward enact dance sail spell";

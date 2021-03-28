@@ -1,1 +1,1 @@
-var mnemonic = "piece tonight drift indicate insane drop minimum deposit slice warrior attack issue";
+var mnemonic = "perfect fever frequent drama rude foil window witness security miss valley high";

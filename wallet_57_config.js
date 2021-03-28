@@ -1,1 +1,1 @@
-var mnemonic = "drift seek regular duty asset limit news reveal chest random suggest sort";
+var mnemonic = "social bind local coast stove resist observe squeeze zero wealth power evil";

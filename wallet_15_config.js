@@ -1,1 +1,1 @@
-var mnemonic = "invite victory balcony alley earn suggest unveil absurd flower link course manual";
+var mnemonic = "laugh august same egg submit trend cause fuel flash practice cart staff";

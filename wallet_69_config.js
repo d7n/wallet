@@ -1,1 +1,1 @@
-var mnemonic = "appear prison rebuild equal vanish equip fun gentle clutch mountain cover reopen";
+var mnemonic = "choose bean tide situate waste reform usage unit flag require hospital section";

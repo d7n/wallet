@@ -1,1 +1,1 @@
-var mnemonic = "budget eager heart tuition deny ensure pen canvas glow size april check";
+var mnemonic = "security race popular fuel dawn lift mean theory jeans smile spatial shop";

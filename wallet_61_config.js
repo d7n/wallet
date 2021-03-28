@@ -1,1 +1,1 @@
-var mnemonic = "absurd beauty come tower good gravity one over siege library fetch payment";
+var mnemonic = "west wrestle news spice burst life switch point glide slam door update";

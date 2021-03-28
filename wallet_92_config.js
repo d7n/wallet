@@ -1,1 +1,1 @@
-var mnemonic = "crucial guitar position track outdoor churn bone climb volcano boat mesh crane";
+var mnemonic = "choice tray private prize answer attract angle matrix siege noble tomato crisp";

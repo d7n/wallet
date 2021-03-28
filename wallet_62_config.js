@@ -1,1 +1,1 @@
-var mnemonic = "harsh process holiday bachelor hub correct walnut hood gym upon cigar frog";
+var mnemonic = "spread example acoustic casual wash trophy bunker animal window rival reduce caution";

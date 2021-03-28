@@ -1,1 +1,1 @@
-var mnemonic = "small pumpkin grow fiction soda coin away eternal food piano cliff tooth";
+var mnemonic = "future know waste tomorrow twin paper they stem able airport ceiling harsh";

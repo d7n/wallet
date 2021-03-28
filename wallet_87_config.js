@@ -1,1 +1,1 @@
-var mnemonic = "material palm reward security bless number swift comfort coach slot crisp seed";
+var mnemonic = "struggle sign diamond drift laundry uncle maximum hospital state jealous loan fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "lucky gospel civil tag size dismiss injury universe gym surround name shrug";
+var mnemonic = "buyer own shoot tiger october half business word cereal concert mule diesel";

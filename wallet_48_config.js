@@ -1,1 +1,1 @@
-var mnemonic = "piano endless reject ask drink canyon used knock infant human royal certain";
+var mnemonic = "bench wife excess attack paddle rescue shadow enable enable clarify oven gate";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom round syrup hour weasel crime essence news cry noise rack puzzle";
+var mnemonic = "negative eight excess pave settle grain world decorate renew attract vague much";

@@ -1,1 +1,1 @@
-var mnemonic = "purse lazy climb medal betray image machine copper quote basic slab brass";
+var mnemonic = "trigger cage useless mean foster pluck dumb smoke maid owner bronze theme";

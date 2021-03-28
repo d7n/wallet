@@ -1,1 +1,1 @@
-var mnemonic = "muscle brave save amazing private obtain cliff arrow access diamond always melt";
+var mnemonic = "correct expose situate muffin hat evoke thrive neither bless identify large foil";

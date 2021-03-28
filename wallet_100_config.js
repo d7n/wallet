@@ -1,1 +1,1 @@
-var mnemonic = "swallow over stone siege dune clock panel elegant wealth name motor walnut";
+var mnemonic = "raise fuel shoe frog afford erode spider lake success pelican weather trap";

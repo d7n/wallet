@@ -1,1 +1,1 @@
-var mnemonic = "flavor train jeans horse wolf burger employ lab safe tape depend welcome";
+var mnemonic = "laptop deal play reject rude glimpse chapter creek august wait face shallow";

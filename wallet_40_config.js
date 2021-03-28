@@ -1,1 +1,1 @@
-var mnemonic = "tail uniform pelican tube dynamic enact fish guilt stable humble afford claw";
+var mnemonic = "bus term seven whip social filter horn brave gap fade wave write";

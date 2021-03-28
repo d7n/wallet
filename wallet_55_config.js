@@ -1,1 +1,1 @@
-var mnemonic = "diary rival chat item garlic grape average survey answer pond rubber kit";
+var mnemonic = "cancel joke tell total erupt online sock this room notice cruel post";

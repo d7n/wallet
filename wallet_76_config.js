@@ -1,1 +1,1 @@
-var mnemonic = "casino long matrix armor spirit zone initial pill trigger possible what duty";
+var mnemonic = "exotic awful meat divorce wave cargo story runway trial cry wait involve";

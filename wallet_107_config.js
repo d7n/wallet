@@ -1,1 +1,1 @@
-var mnemonic = "describe travel clarify sauce fossil seed rice render easy tilt lab busy";
+var mnemonic = "calm ready drop uphold board little all scrub profit option vapor catch";

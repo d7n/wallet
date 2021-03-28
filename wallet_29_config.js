@@ -1,1 +1,1 @@
-var mnemonic = "foster during category input plunge afraid ordinary oxygen victory night potato evoke";
+var mnemonic = "toward vanish poem panic dynamic abuse minimum bullet cattle bicycle replace orange";

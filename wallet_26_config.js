@@ -1,1 +1,1 @@
-var mnemonic = "turkey repair rain crop phone harvest captain ensure thought night buffalo theory";
+var mnemonic = "stamp police roof daughter scan staff omit fork leopard price dawn short";

@@ -1,1 +1,1 @@
-var mnemonic = "unfair october there casual spell stamp bone receive tide shoe unaware era";
+var mnemonic = "mechanic off fire fox island merge category predict try master globe three";

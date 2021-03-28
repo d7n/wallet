@@ -1,1 +1,1 @@
-var mnemonic = "sting quick output immense tenant beef tribe found purchase shop cruise kangaroo";
+var mnemonic = "early basic size foil quick water blush mixture pair flame hero ostrich";

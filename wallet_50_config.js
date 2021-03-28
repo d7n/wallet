@@ -1,1 +1,1 @@
-var mnemonic = "cover meat night phone truth govern coyote sphere detail citizen south require";
+var mnemonic = "elephant animal wolf melt treat federal fun stove suspect never fresh asthma";

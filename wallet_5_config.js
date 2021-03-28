@@ -1,1 +1,1 @@
-var mnemonic = "near gap jungle maple cloth ceiling range apology scatter luxury wall denial";
+var mnemonic = "glide small pass spatial system slot stairs noble auto current struggle measure";

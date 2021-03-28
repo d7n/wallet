@@ -1,1 +1,1 @@
-var mnemonic = "torch acquire ethics force umbrella frost chef chef blush gun pave saddle";
+var mnemonic = "motor evoke reward hello stadium begin enlist attend royal hire reunion raw";

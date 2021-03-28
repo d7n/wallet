@@ -1,1 +1,1 @@
-var mnemonic = "forum sample view scrub rain ski hawk pelican guitar smoke knee direct";
+var mnemonic = "minute poet toast acid item fresh spoil toddler obvious process monitor art";

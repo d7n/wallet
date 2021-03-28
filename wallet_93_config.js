@@ -1,1 +1,1 @@
-var mnemonic = "throw powder host achieve express foam talk exercise analyst much hobby uncover";
+var mnemonic = "crucial fly february upper online exhaust announce banana vocal order shuffle proud";

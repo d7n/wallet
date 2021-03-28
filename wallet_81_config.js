@@ -1,1 +1,1 @@
-var mnemonic = "metal tumble conduct track frog decorate trumpet jungle pond stumble become stadium";
+var mnemonic = "cinnamon vivid panic erase pause marine fluid similar when drill attack develop";

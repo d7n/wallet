@@ -1,1 +1,1 @@
-var mnemonic = "among legal average bonus culture ranch evolve discover spice suspect property journey";
+var mnemonic = "reason shell trial nut joke omit fancy indoor fatigue bacon begin unaware";

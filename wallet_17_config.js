@@ -1,1 +1,1 @@
-var mnemonic = "mammal solve goddess path trend impose prosper trim appear cannon alley hamster";
+var mnemonic = "video best token pioneer loyal safe rain afford unlock mail episode chuckle";
