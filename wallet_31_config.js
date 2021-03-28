@@ -1,1 +1,1 @@
-var mnemonic = "ill gaze advance hope neutral accuse help rug economy toss search hip";
+var mnemonic = "grief skin taxi quiz shop alien critic occur right report absent west";

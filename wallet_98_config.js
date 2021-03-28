@@ -1,1 +1,1 @@
-var mnemonic = "speed salt inject tennis kitten type renew river pilot whale winner paddle";
+var mnemonic = "ritual soap stuff admit load royal allow hip garbage caught suggest head";

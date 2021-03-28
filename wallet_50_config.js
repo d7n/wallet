@@ -1,1 +1,1 @@
-var mnemonic = "jeans prize humble join elite grief direct joy moral latin cheap topic";
+var mnemonic = "abandon biology pill punch win genuine forest crowd brush way scrub humble";

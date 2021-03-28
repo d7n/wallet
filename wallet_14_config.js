@@ -1,1 +1,1 @@
-var mnemonic = "oyster observe popular story rich pact rack swift science moral bonus cargo";
+var mnemonic = "option aim clog because smoke blossom enhance absent forum game eye present";

@@ -1,1 +1,1 @@
-var mnemonic = "sand venue defense color hat return frown way spray make client naive";
+var mnemonic = "supreme cook course near alley garlic gate trigger roof economy shield velvet";

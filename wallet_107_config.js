@@ -1,1 +1,1 @@
-var mnemonic = "knock ladder shift follow mix wish vacuum champion top bundle resemble police";
+var mnemonic = "desk fix wealth amount virtual little erosion enough giant object voice man";

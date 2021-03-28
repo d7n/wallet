@@ -1,1 +1,1 @@
-var mnemonic = "unique common breeze health tray heart library issue genius mirror wet ignore";
+var mnemonic = "mammal energy announce august swear object casino pizza radio receive tenant innocent";

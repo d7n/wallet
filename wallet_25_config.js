@@ -1,1 +1,1 @@
-var mnemonic = "help shoot motion film monitor sunset shine start snack drum attitude wink";
+var mnemonic = "true fame cool front glory pause pottery acoustic pupil country true panel";

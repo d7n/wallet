@@ -1,1 +1,1 @@
-var mnemonic = "that merge exchange crane easy barrel traffic aunt pair ball pigeon runway";
+var mnemonic = "hazard elegant shadow green join hazard cream ordinary iron rent mosquito jeans";

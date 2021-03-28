@@ -1,1 +1,1 @@
-var mnemonic = "flower casino light act multiply spread cover exist knife prefer defy beauty";
+var mnemonic = "devote tray symptom glory border bounce globe horror sleep priority case all";

@@ -1,1 +1,1 @@
-var mnemonic = "sport evidence fossil teach illegal tobacco wing mom perfect inhale coin chief";
+var mnemonic = "tip enemy pill list enhance decorate layer member pigeon bird throw drill";

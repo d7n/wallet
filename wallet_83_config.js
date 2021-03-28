@@ -1,1 +1,1 @@
-var mnemonic = "fire still fossil polar original list situate gauge cook dwarf garage physical";
+var mnemonic = "kind danger luggage response settle space flip flight square demise nuclear special";

@@ -1,1 +1,1 @@
-var mnemonic = "loan indoor hunt catch neutral lens gain flash maple laundry season chef";
+var mnemonic = "sick outer frown impact cactus floor shine chronic garden other road toast";

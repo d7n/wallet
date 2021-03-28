@@ -1,1 +1,1 @@
-var mnemonic = "obvious cube supply tattoo shrimp visit version twelve broccoli garment truly casual";
+var mnemonic = "cup bird mesh nice pear bundle section shoulder hair romance hen rotate";

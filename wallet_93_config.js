@@ -1,1 +1,1 @@
-var mnemonic = "useless midnight window clinic genre only enemy vault noise dignity crater merry";
+var mnemonic = "eagle dynamic review ozone buzz cloud divorce anger alcohol hybrid debris learn";

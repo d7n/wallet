@@ -1,1 +1,1 @@
-var mnemonic = "theme also omit area home judge allow alien chronic observe artist little";
+var mnemonic = "envelope click mask season social crew angry twist okay life aware tornado";

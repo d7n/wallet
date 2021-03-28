@@ -1,1 +1,1 @@
-var mnemonic = "crystal sick airport season pink dizzy genuine humble diary two west element";
+var mnemonic = "catalog vicious wood sustain october luggage child camera napkin stone armor later";

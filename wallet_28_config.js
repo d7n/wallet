@@ -1,1 +1,1 @@
-var mnemonic = "ghost private swap submit scatter column short edit govern wheel tunnel alert";
+var mnemonic = "clog cabbage spoon visit grit skin alone dolphin subject device fat image";

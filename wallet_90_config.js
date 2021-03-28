@@ -1,1 +1,1 @@
-var mnemonic = "brand pen casual hawk direct excess boss student chair apple enough vague";
+var mnemonic = "grace wrap judge cupboard weasel space chef pretty oyster crowd ride inhale";

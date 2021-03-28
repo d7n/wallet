@@ -1,1 +1,1 @@
-var mnemonic = "subject vote normal spot item extra sense zero fuel vacuum swift forward";
+var mnemonic = "night empty crowd fortune rival risk approve awkward useless arctic visual impact";

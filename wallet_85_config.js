@@ -1,1 +1,1 @@
-var mnemonic = "squeeze giant doll trophy announce describe settle civil cabbage claim angle saddle";
+var mnemonic = "service satisfy kit assist dawn remember situate allow lab enter fitness culture";

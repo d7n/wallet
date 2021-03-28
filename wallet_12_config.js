@@ -1,1 +1,1 @@
-var mnemonic = "primary innocent habit fruit cigar loud hover bonus account bunker planet city";
+var mnemonic = "mixture deposit piano eager suspect reduce expire bring cabin cycle evolve capable";

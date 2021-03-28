@@ -1,1 +1,1 @@
-var mnemonic = "cherry pony basic bamboo tattoo trade angle make mystery address grape engage";
+var mnemonic = "price moral little solar march right melt cement egg disorder this negative";

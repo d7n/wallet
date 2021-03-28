@@ -1,1 +1,1 @@
-var mnemonic = "cool acquire swallow pass fault rice exclude strategy reform trust hill lake";
+var mnemonic = "virus raccoon error work fish pool penalty current minimum around special public";

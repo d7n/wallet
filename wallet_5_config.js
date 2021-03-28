@@ -1,1 +1,1 @@
-var mnemonic = "name scrap female audit expand pioneer moral edit extend clarify since deer";
+var mnemonic = "cluster dog circle youth tank duty net million session elder barely cage";

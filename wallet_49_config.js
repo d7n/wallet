@@ -1,1 +1,1 @@
-var mnemonic = "hammer inmate family link cricket also reason ridge aunt snap fog pottery";
+var mnemonic = "kick force hundred tragic virtual win educate fruit accuse congress update thought";

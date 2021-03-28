@@ -1,1 +1,1 @@
-var mnemonic = "bunker consider senior input mosquito width stairs general question grab tribe demand";
+var mnemonic = "subway logic crunch monitor horn rib surprise error pigeon media answer magnet";

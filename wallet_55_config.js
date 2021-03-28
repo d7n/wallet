@@ -1,1 +1,1 @@
-var mnemonic = "estate circle pretty camp history paddle guard ranch slice nature exchange path";
+var mnemonic = "yard middle mandate cable foam hidden lounge powder wise seminar regret ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "video erase exclude body eight tag detect promote orbit winter expect cause";
+var mnemonic = "win lucky sheriff female duty sample cost blind talent fan find pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "ring key deposit often rhythm valley random comfort fresh balance prosper radar";
+var mnemonic = "observe airport urban logic empty comfort praise sheriff board witness alien spring";

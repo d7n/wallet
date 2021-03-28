@@ -1,1 +1,1 @@
-var mnemonic = "merit globe science involve voice abstract blur cover off flock merit client";
+var mnemonic = "certain midnight bright bamboo fatigue legal number language human movie expect uniform";

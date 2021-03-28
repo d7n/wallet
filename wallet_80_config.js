@@ -1,1 +1,1 @@
-var mnemonic = "slogan rug clarify viable scout connect measure light erase winner wash happy";
+var mnemonic = "book remove toast leaf ugly session magnet pigeon awkward scrub innocent filter";

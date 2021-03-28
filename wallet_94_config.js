@@ -1,1 +1,1 @@
-var mnemonic = "chuckle blanket arm divide sick crisp job drastic category afford vessel battle";
+var mnemonic = "clutch birth know nuclear engage album keen medal arena ginger bargain camera";

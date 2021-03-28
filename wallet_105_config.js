@@ -1,1 +1,1 @@
-var mnemonic = "six leader rather enough begin accident notice scrub edit scheme now bless";
+var mnemonic = "skull park fire travel mushroom wild one junk month pen valid alien";

@@ -1,1 +1,1 @@
-var mnemonic = "drink fish evoke auto bracket story false segment often miracle later conduct";
+var mnemonic = "outside common lawn feel share vague inquiry disorder parrot coffee swap become";

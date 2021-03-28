@@ -1,1 +1,1 @@
-var mnemonic = "mushroom giraffe unusual lamp develop loan emerge solution buddy lemon slim lady";
+var mnemonic = "card injury cereal jungle raw win come slot wedding situate magnet parade";

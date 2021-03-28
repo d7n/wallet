@@ -1,1 +1,1 @@
-var mnemonic = "museum pear novel addict nurse pioneer broken fortune work access move wine";
+var mnemonic = "pole audit august expand oxygen paddle celery fury there fantasy key life";

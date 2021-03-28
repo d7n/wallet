@@ -1,1 +1,1 @@
-var mnemonic = "tennis slight leisure off noodle certain sugar grit fever federal devote hello";
+var mnemonic = "youth chat citizen eagle viable gentle ozone strike summer miss arrest kiwi";

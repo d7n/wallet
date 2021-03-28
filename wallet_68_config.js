@@ -1,1 +1,1 @@
-var mnemonic = "leaf square valid short change follow valley cherry casino jungle already layer";
+var mnemonic = "fantasy ritual flag quiz fluid sight inner axis message pluck snow brief";

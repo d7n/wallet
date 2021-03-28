@@ -1,1 +1,1 @@
-var mnemonic = "pony arrest weapon snow alien focus stuff dynamic board flip pledge daring";
+var mnemonic = "inject market mushroom disorder document trust mimic spin agent abuse meat eye";

@@ -1,1 +1,1 @@
-var mnemonic = "broken stem hurdle mom bar slim truth clock build cloud dismiss swift";
+var mnemonic = "category theory tent glove rent quarter census orbit horse attract spin empower";

@@ -1,1 +1,1 @@
-var mnemonic = "blossom notice junior stove sight midnight remind destroy avocado around spoil twice";
+var mnemonic = "pact canvas laundry bullet punch country manage reason attitude absent model amazing";

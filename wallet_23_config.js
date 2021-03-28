@@ -1,1 +1,1 @@
-var mnemonic = "episode level swamp turn banner welcome pave account clump brother sibling always";
+var mnemonic = "blame enemy puppy remove any seminar entire shield bottom blue parade tilt";

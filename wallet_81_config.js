@@ -1,1 +1,1 @@
-var mnemonic = "virtual obvious endorse slow bright galaxy genuine protect neither divide carpet decide";
+var mnemonic = "north whale plug thunder hawk auto badge rapid recycle rather thrive explain";

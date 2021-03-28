@@ -1,1 +1,1 @@
-var mnemonic = "crystal bar orbit wasp village miss weekend tip two client lake mango";
+var mnemonic = "check heart wild steel category edit clinic atom twin chat despair type";

@@ -1,1 +1,1 @@
-var mnemonic = "come vacant lizard tiger capital girl infant tornado south mixture insane fly";
+var mnemonic = "must use tower reform inch clarify idea easy state dwarf beach purpose";

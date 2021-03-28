@@ -1,1 +1,1 @@
-var mnemonic = "coral lab found verify upgrade wheel drift marble make harvest arm exclude";
+var mnemonic = "make remind shield guess crucial sister pony museum direct orbit annual thumb";

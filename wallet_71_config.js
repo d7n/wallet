@@ -1,1 +1,1 @@
-var mnemonic = "open latin avocado atom garment mountain enforce pyramid tiger door pear window";
+var mnemonic = "lyrics fiscal orphan focus close exhibit eagle siren budget spy rapid desert";

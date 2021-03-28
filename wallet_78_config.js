@@ -1,1 +1,1 @@
-var mnemonic = "catch uphold finish latin aunt appear quality want category level screen history";
+var mnemonic = "runway asset point flip cycle attract document trend wrist used alter eagle";

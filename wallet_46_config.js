@@ -1,1 +1,1 @@
-var mnemonic = "drip risk clip iron ivory cruel say inherit rebel phone rookie diagram";
+var mnemonic = "march vast clarify census kick corn renew ranch calm mad spike easy";

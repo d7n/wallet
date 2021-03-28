@@ -1,1 +1,1 @@
-var mnemonic = "exchange rack suggest bulb chuckle slim jump retreat disagree zone act wonder";
+var mnemonic = "uncle weapon vocal bright inspire item roast erupt arena balcony whale occur";

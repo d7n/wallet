@@ -1,1 +1,1 @@
-var mnemonic = "mother skin number north best shy disorder pupil decide adult diary question";
+var mnemonic = "drift badge poverty moral stove come disorder tuition claw frame scrap ginger";

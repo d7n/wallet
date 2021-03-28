@@ -1,1 +1,1 @@
-var mnemonic = "vanish upgrade kiss decorate delay raw execute note age ginger valve gather";
+var mnemonic = "come drive hawk junior cube enter nerve stairs lazy notice smile skin";

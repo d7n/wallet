@@ -1,1 +1,1 @@
-var mnemonic = "shed smart false deny various appear senior capital trigger length twice wave";
+var mnemonic = "river abstract ankle click bamboo furnace drop boost next small vessel comfort";

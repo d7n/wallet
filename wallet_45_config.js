@@ -1,1 +1,1 @@
-var mnemonic = "inside cabin smile alien oak minimum kiwi because miracle damp zoo torch";
+var mnemonic = "outdoor pelican extra steel novel liquid metal slice weird crater during link";

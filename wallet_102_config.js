@@ -1,1 +1,1 @@
-var mnemonic = "gentle used liquid mushroom since defense scatter tobacco retreat winner roast cook";
+var mnemonic = "gym web toy become helmet permit soul join blouse globe pencil assume";

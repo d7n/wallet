@@ -1,1 +1,1 @@
-var mnemonic = "talent tuna embark stock banana job ribbon vivid confirm pink youth chaos";
+var mnemonic = "timber result illegal shuffle unusual voice magnet update stand use monitor cook";

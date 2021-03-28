@@ -1,1 +1,1 @@
-var mnemonic = "wreck method cook pattern loop friend aware name inherit say useless april";
+var mnemonic = "route gadget potato thought rapid right sell south cloud congress unfair all";

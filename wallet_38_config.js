@@ -1,1 +1,1 @@
-var mnemonic = "surface price defense reduce unique renew divide achieve cloud talent napkin indoor";
+var mnemonic = "snake various business flat man quality region correct birth rhythm joy dish";

@@ -1,1 +1,1 @@
-var mnemonic = "royal join female bird nerve make ghost unusual guard plug junk fall";
+var mnemonic = "patrol retire monitor inform focus olympic dutch plate phrase knock suit dad";

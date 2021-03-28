@@ -1,1 +1,1 @@
-var mnemonic = "charge scheme family claim candy shield cave raccoon affair heavy message upgrade";
+var mnemonic = "upgrade sport rain neck poem mesh tonight slight topic cactus cost claim";

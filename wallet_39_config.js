@@ -1,1 +1,1 @@
-var mnemonic = "comic column topple clutch celery before monkey when nothing camera vivid help";
+var mnemonic = "initial worry divide cliff town once sort ask begin yellow ready help";

@@ -1,1 +1,1 @@
-var mnemonic = "peace right cart annual among rather budget member labor dawn turkey omit";
+var mnemonic = "abuse hold reflect comfort april control unaware taxi guard rich window grief";

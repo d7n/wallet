@@ -1,1 +1,1 @@
-var mnemonic = "february color repair buddy laptop reward south potato aisle solve acid clog";
+var mnemonic = "believe silver weird original raise casino click inside dinosaur concert country artist";

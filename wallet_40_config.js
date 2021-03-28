@@ -1,1 +1,1 @@
-var mnemonic = "today invite old welcome bulb govern limit cage riot remove aim ribbon";
+var mnemonic = "october disorder tomorrow oval table rose seed also unaware poverty fit tuna";

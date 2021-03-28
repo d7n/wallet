@@ -1,1 +1,1 @@
-var mnemonic = "upgrade drift love grass destroy fragile caught nasty hedgehog stand census intact";
+var mnemonic = "convince tornado invite color soda endless tourist critic jungle lizard alley weekend";

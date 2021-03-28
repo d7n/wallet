@@ -1,1 +1,1 @@
-var mnemonic = "cruise lumber card armed fun wool noodle memory rail vicious athlete party";
+var mnemonic = "adjust license system assault real ask sad copy bridge injury hat adult";

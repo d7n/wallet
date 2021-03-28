@@ -1,1 +1,1 @@
-var mnemonic = "abandon object sadness match pulp sun job virus step analyst sadness stamp";
+var mnemonic = "arch organ october analyst wheat omit mansion glance coach they ski travel";

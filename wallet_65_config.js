@@ -1,1 +1,1 @@
-var mnemonic = "silver upgrade emotion draw sausage history foot hammer away diamond wait media";
+var mnemonic = "math orient congress drill sister impact boy loyal boost popular anchor language";

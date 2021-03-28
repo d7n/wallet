@@ -1,1 +1,1 @@
-var mnemonic = "manual hurdle involve draft athlete blood seven insane sphere pull sense festival";
+var mnemonic = "birth angry life ahead tribe verb teach add warm shed live unit";

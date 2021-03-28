@@ -1,1 +1,1 @@
-var mnemonic = "love gentle tooth stadium exchange artefact traffic sweet glance beef point neutral";
+var mnemonic = "essay execute level rookie repair inhale improve neither frog chuckle flight fan";

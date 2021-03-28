@@ -1,1 +1,1 @@
-var mnemonic = "safe essay plate increase dose butter amateur injury air strong shove voyage";
+var mnemonic = "glory noise rose mutual salmon cheese cargo upon dice image zoo ridge";

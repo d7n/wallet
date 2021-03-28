@@ -1,1 +1,1 @@
-var mnemonic = "nothing thumb prison hat tissue nation coffee engage fee talk hero option";
+var mnemonic = "decide any flock admit author avoid gun torch thing cram actress about";

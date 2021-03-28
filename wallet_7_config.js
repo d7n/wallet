@@ -1,1 +1,1 @@
-var mnemonic = "simple portion stage benefit cargo step zone notice injury educate dragon borrow";
+var mnemonic = "trend winner shoot lemon venture upgrade skull dignity hill jewel must velvet";

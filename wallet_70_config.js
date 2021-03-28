@@ -1,1 +1,1 @@
-var mnemonic = "pencil debate index depth hero cluster boost never side desk any rain";
+var mnemonic = "detail banana abuse elephant okay bulk cotton series town siren census call";

@@ -1,1 +1,1 @@
-var mnemonic = "rack idea trap solar minor illegal quality stereo smart fabric fluid bubble";
+var mnemonic = "maid only report certain lamp foam plastic acid report owner board enhance";

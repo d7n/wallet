@@ -1,1 +1,1 @@
-var mnemonic = "fold stable combine very stable vessel gauge enable ankle banana because mango";
+var mnemonic = "achieve reduce piano unfold direct robust blade scrub essay tuition labor secret";

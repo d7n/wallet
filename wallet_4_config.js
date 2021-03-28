@@ -1,1 +1,1 @@
-var mnemonic = "hair will connect option shock torch way brass ride among jaguar salon";
+var mnemonic = "clock nephew such hood lawsuit ride mansion dry snack nice supreme empower";

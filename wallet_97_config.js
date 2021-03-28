@@ -1,1 +1,1 @@
-var mnemonic = "nothing nasty weird kangaroo destroy universe pupil tray lift yellow arrive kind";
+var mnemonic = "they body hedgehog hurt toss envelope toe wrap bone advice skull picture";

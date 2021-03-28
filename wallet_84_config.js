@@ -1,1 +1,1 @@
-var mnemonic = "make ensure repeat absurd tunnel onion document club rhythm female become install";
+var mnemonic = "tribe chase connect alcohol lottery whip pull stairs slow grain gallery bar";

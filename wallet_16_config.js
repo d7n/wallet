@@ -1,1 +1,1 @@
-var mnemonic = "treat truth hockey peace more detect key vote country filter robust mechanic";
+var mnemonic = "ordinary child cage torch chuckle symptom hidden dream donor stay stuff civil";

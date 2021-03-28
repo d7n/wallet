@@ -1,1 +1,1 @@
-var mnemonic = "genius shell deputy crew direct wonder loyal deliver supreme invest chest month";
+var mnemonic = "exist daughter fetch noble powder change ring begin visual time ceiling rule";

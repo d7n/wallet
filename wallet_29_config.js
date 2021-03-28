@@ -1,1 +1,1 @@
-var mnemonic = "shallow fiber fit exclude truly anxiety volume foot nut grace leopard slide";
+var mnemonic = "stay minor iron client fiction reject sentence alone assault security action slight";

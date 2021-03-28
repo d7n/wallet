@@ -1,1 +1,1 @@
-var mnemonic = "orphan above flower firm demand chapter regret door draw mutual popular broom";
+var mnemonic = "sudden hip choose blind squirrel demise tired truth seven term cousin choice";

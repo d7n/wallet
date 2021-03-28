@@ -1,1 +1,1 @@
-var mnemonic = "cement gap ask donkey benefit off know year bamboo good skull rotate";
+var mnemonic = "provide tornado photo crack chair catalog grunt escape pledge soda idea receive";

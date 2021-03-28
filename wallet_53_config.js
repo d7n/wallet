@@ -1,1 +1,1 @@
-var mnemonic = "range few plate fabric kidney eyebrow cluster arrange rotate stadium year valve";
+var mnemonic = "promote section obscure model giraffe enact mind hunt festival range short soldier";
