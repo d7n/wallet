@@ -1,1 +1,1 @@
-var mnemonic = "frown junk gap chat album edge advice trap angle rather dash give";
+var mnemonic = "tray glow concert scrub rail public lounge custom cheese lizard brief angle";

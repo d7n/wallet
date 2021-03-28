@@ -1,1 +1,1 @@
-var mnemonic = "meadow sunset ready senior perfect physical cloth oblige range spoon civil race";
+var mnemonic = "evoke verify lion urban maximum team journey shield humor addict gasp ready";

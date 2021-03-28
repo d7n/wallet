@@ -1,1 +1,1 @@
-var mnemonic = "vanish second buffalo true fine million vessel cargo rough spoon thumb sure";
+var mnemonic = "injury glue crowd slogan hello rain spatial sense purpose april bullet disagree";

@@ -1,1 +1,1 @@
-var mnemonic = "foil beach fish genius dizzy kidney box syrup gravity soon cupboard matrix";
+var mnemonic = "twice wait afraid repeat vendor security soldier poverty degree wrap clap real";

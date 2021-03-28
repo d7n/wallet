@@ -1,1 +1,1 @@
-var mnemonic = "sting candy muffin tribe very legend flag donate code sight plug hour";
+var mnemonic = "escape fuel tenant execute lamp execute recycle sing company butter stone dinosaur";

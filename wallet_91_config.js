@@ -1,1 +1,1 @@
-var mnemonic = "view output sad obey speak fringe trip exchange reward potato veteran chaos";
+var mnemonic = "inject arch average manage endless exit noble pattern pass angry march office";

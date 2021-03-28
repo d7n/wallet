@@ -1,1 +1,1 @@
-var mnemonic = "valley school hip scare foster alter penalty swift heavy tongue skull observe";
+var mnemonic = "vast shed merit warfare narrow snow payment pupil basic appear scrap piece";

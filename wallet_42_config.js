@@ -1,1 +1,1 @@
-var mnemonic = "into frequent erase choice sniff spring guess next shift matrix auto forward";
+var mnemonic = "reveal oblige blanket slush empower latin metal minimum deposit raw sea foil";

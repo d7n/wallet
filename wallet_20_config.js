@@ -1,1 +1,1 @@
-var mnemonic = "photo warm settle real cat deny auction pilot sun busy pill riot";
+var mnemonic = "gospel impact foam hammer loan ketchup drill main solve hurry august client";

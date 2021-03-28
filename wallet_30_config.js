@@ -1,1 +1,1 @@
-var mnemonic = "toast margin ability solid grief split grain devote opinion west liberty ecology";
+var mnemonic = "evil six nephew job fit monkey divert abandon security unable romance intact";

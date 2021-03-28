@@ -1,1 +1,1 @@
-var mnemonic = "bomb muffin raw mother rocket biology stable teach health history napkin lonely";
+var mnemonic = "capital sad brother hold blind intact stock nasty soccer august paddle excess";

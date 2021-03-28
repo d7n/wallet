@@ -1,1 +1,1 @@
-var mnemonic = "piano seven middle notice diary fossil despair denial identify into again tennis";
+var mnemonic = "lion pencil discover shield avoid column rude casual ribbon plug genuine grit";

@@ -1,1 +1,1 @@
-var mnemonic = "history rural hobby endless daughter strategy option average captain shine climb maple";
+var mnemonic = "split memory fabric border garbage bicycle hen myth engage giggle hamster despair";

@@ -1,1 +1,1 @@
-var mnemonic = "auction win kingdom infant direct parade floor aunt approve edge theme load";
+var mnemonic = "organ address behave autumn capable close hip middle intact lunar business despair";

@@ -1,1 +1,1 @@
-var mnemonic = "picture upon museum clerk force mix earth net end hill agent type";
+var mnemonic = "nasty fine salt harbor patch protect empower orphan custom ahead magnet end";

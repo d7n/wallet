@@ -1,1 +1,1 @@
-var mnemonic = "elite carpet catch chair shove adult force glide quarter stuff sea cruise";
+var mnemonic = "tiny crouch away sunset lend hobby region fiscal follow snap lawn brisk";

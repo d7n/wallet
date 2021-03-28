@@ -1,1 +1,1 @@
-var mnemonic = "blue siren put chapter seven company improve increase way close used clog";
+var mnemonic = "guilt stereo convince among cupboard wet maid begin paper afford lawn paddle";

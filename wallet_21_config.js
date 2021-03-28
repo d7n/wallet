@@ -1,1 +1,1 @@
-var mnemonic = "wisdom level sudden mad elite upon peace chunk loop hotel exclude romance";
+var mnemonic = "relax regular olive gather gather faculty potato rhythm visa staff brief collect";

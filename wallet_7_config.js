@@ -1,1 +1,1 @@
-var mnemonic = "zero shed spawn three brown tornado office tiny urban volume satisfy valve";
+var mnemonic = "truly lake arena ticket clog illness uphold add cake orient tattoo furnace";

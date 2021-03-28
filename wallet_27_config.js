@@ -1,1 +1,1 @@
-var mnemonic = "owner happy twenty extra chicken fabric mansion bird jazz shrimp genre any";
+var mnemonic = "conduct wrestle pudding mechanic acoustic danger unique regret fade calm orphan suggest";

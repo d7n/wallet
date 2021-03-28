@@ -1,1 +1,1 @@
-var mnemonic = "rug walk cage income funny reject stone meadow scheme oak razor know";
+var mnemonic = "chase bamboo blush alone dizzy caught hour thank tail outdoor dumb boil";

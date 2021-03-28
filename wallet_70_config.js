@@ -1,1 +1,1 @@
-var mnemonic = "split squeeze blood beef warrior unlock plug rebel gospel learn assist action";
+var mnemonic = "album cake rug ride pizza slush aware sail extra alert twin letter";

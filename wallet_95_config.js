@@ -1,1 +1,1 @@
-var mnemonic = "antique blouse sniff exclude crumble cigar hour jungle soldier city slot learn";
+var mnemonic = "they bullet gospel convince donate black caution avocado guard multiply smile potato";

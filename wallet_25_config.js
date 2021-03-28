@@ -1,1 +1,1 @@
-var mnemonic = "bulb churn inherit traffic swarm april capable manage coffee shield universe repair";
+var mnemonic = "dumb balance dial panda scorpion harbor shield want anger copy choice mutual";

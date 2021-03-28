@@ -1,1 +1,1 @@
-var mnemonic = "chalk armor project often jar convince change weapon suit poverty energy increase";
+var mnemonic = "soldier collect nice travel toddler code hurdle math erase fruit return response";

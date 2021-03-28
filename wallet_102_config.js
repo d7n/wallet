@@ -1,1 +1,1 @@
-var mnemonic = "wear escape between manual mail weekend cry egg project moral crawl useless";
+var mnemonic = "fat walnut occur disease engage robot fade person run slight special stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle depth level wrong carpet tribe orbit hospital destroy peasant fetch lottery";
+var mnemonic = "change apology limit fitness reveal sight warm pledge buyer extend friend drink";

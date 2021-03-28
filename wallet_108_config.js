@@ -1,1 +1,1 @@
-var mnemonic = "nut inherit teach park comic detect process typical airport scrub angle apple";
+var mnemonic = "coconut victory city stable junk symbol ill black dice hire marble perfect";

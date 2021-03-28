@@ -1,1 +1,1 @@
-var mnemonic = "call love entry poem dwarf moon crime lesson rifle crater before final";
+var mnemonic = "cause fiction tragic drastic attend wall alter shop satisfy knock hospital tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "other year trouble ugly net clinic discover casino muscle phone travel regret";
+var mnemonic = "dice inmate amateur champion destroy noodle invest govern opera assume vague steak";

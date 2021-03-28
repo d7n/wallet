@@ -1,1 +1,1 @@
-var mnemonic = "brush street ozone arrive pride wish more check citizen attack swift become";
+var mnemonic = "shield girl marriage cradle artefact remove material frame fog warfare dawn inhale";

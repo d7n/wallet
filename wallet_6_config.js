@@ -1,1 +1,1 @@
-var mnemonic = "dog catalog unique champion piano claim engine try smooth subway sentence until";
+var mnemonic = "pole south ten mail meat merit surge notable question subway slogan hand";

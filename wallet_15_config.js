@@ -1,1 +1,1 @@
-var mnemonic = "firm child furnace enhance tooth verify fence mix sketch practice air paddle";
+var mnemonic = "payment clap tank super absurd swift fire apple purity gym iron open";

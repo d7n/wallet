@@ -1,1 +1,1 @@
-var mnemonic = "royal flock spring mix maple expire help rather bargain mango noodle trophy";
+var mnemonic = "bread double sick view rescue bench entry cycle title tent pulp assist";

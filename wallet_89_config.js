@@ -1,1 +1,1 @@
-var mnemonic = "twist crouch feature drill crop cake joy dignity crystal unaware fat scene";
+var mnemonic = "deputy crisp student cycle gift pride shaft penalty pencil harbor path issue";

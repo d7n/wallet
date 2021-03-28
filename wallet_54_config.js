@@ -1,1 +1,1 @@
-var mnemonic = "globe sheriff apart cupboard arm pride vote since chef cruise sound embark";
+var mnemonic = "vast emerge spot gym talent high situate liar useless bullet give item";

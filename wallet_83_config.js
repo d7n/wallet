@@ -1,1 +1,1 @@
-var mnemonic = "security culture bomb enter cool save umbrella pupil prevent dish judge glance";
+var mnemonic = "use rookie chimney casual market card pudding one noodle ensure cannon mad";

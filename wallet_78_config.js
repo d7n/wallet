@@ -1,1 +1,1 @@
-var mnemonic = "genuine island october claim runway blind siren joy wild spike pool trick";
+var mnemonic = "under adult almost myself tuition gym garbage oak pelican museum shoulder ozone";

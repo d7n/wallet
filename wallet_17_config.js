@@ -1,1 +1,1 @@
-var mnemonic = "decorate member laundry course opinion various engine laugh warrior tape run appear";
+var mnemonic = "ritual critic dose peanut lock silk drum cinnamon acoustic leave peace loop";

@@ -1,1 +1,1 @@
-var mnemonic = "audit shuffle damage bring choice keep hen universe enemy crush elegant water";
+var mnemonic = "actor utility depart forward vague improve equal ill prosper uncle butter pride";

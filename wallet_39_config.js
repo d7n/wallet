@@ -1,1 +1,1 @@
-var mnemonic = "syrup merry curtain seat baby high virus tongue option iron dentist butter";
+var mnemonic = "problem two guilt usual sugar online buffalo roast jewel during hawk wood";

@@ -1,1 +1,1 @@
-var mnemonic = "raw fish baby potato weekend bag fish gesture struggle mad vibrant play";
+var mnemonic = "brown life apple clarify morning icon sock supreme romance flush copy echo";

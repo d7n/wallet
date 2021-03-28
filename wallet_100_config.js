@@ -1,1 +1,1 @@
-var mnemonic = "sausage alert normal shy repair close jungle rate iron never symbol volcano";
+var mnemonic = "radar buyer era trust urban crane timber conduct cage govern hybrid tent";

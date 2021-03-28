@@ -1,1 +1,1 @@
-var mnemonic = "rely gorilla rural acid gallery approve erupt once ecology rebuild neglect cement";
+var mnemonic = "attend crunch frame elite cake impose anger salute urban evoke very guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "nose truth beyond tray civil pulse carpet umbrella term acquire sting depth";
+var mnemonic = "mail orient solve slight north busy kidney sketch trumpet bird duck network";

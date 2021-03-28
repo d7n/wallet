@@ -1,1 +1,1 @@
-var mnemonic = "copy goat pause clever help undo actor slide couch saddle razor option";
+var mnemonic = "diagram typical bean modify master office fiscal slush property carpet deny black";

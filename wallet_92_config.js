@@ -1,1 +1,1 @@
-var mnemonic = "marriage skin history creek daughter cereal ride reward post shuffle high snake";
+var mnemonic = "pond wine include east chef wear island keep debate nothing glance smile";

@@ -1,1 +1,1 @@
-var mnemonic = "business congress shallow black tilt roast elbow slide brave buffalo obscure neglect";
+var mnemonic = "game episode donor lizard enhance call grief soap ritual artwork outer jacket";

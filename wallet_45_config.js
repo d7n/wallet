@@ -1,1 +1,1 @@
-var mnemonic = "digital slice rabbit museum hint once property crouch mind puppy near roast";
+var mnemonic = "guard army topple nurse host bring motor famous gift merit possible example";

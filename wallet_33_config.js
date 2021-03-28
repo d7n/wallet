@@ -1,1 +1,1 @@
-var mnemonic = "notice expire card scrub milk punch arch exclude silver ceiling escape perfect";
+var mnemonic = "whip insect action famous best media deal jungle flush muscle mass course";

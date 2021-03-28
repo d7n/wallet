@@ -1,1 +1,1 @@
-var mnemonic = "split bind visual robot again tongue between calm insect thunder destroy pudding";
+var mnemonic = "appear prison stairs coach chat wonder write fat layer mushroom seat marriage";

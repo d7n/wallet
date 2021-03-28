@@ -1,1 +1,1 @@
-var mnemonic = "voyage fix two ordinary result bracket check you session canoe gather trial";
+var mnemonic = "now blind enable open about youth square visual stool regular mention raw";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain slam visual february wish mean obey frequent spirit gown raw erosion";
+var mnemonic = "manual tenant never guitar cool link mandate uniform topic wrong fringe elephant";

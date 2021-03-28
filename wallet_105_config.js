@@ -1,1 +1,1 @@
-var mnemonic = "audit ostrich latin scatter column oval detail impose someone churn undo sort";
+var mnemonic = "tower sure green bitter into best tilt science giant bleak thing glad";

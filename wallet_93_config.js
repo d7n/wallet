@@ -1,1 +1,1 @@
-var mnemonic = "clinic couple sausage wedding text resist iron exile airport nominee jealous father";
+var mnemonic = "guess fire trophy protect arm mechanic autumn egg dwarf client asthma gaze";

@@ -1,1 +1,1 @@
-var mnemonic = "exact arm stomach dice like radar diesel check text patient swarm own";
+var mnemonic = "bean frown promote tissue snow health few annual pulse sun uniform tumble";

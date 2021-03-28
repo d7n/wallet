@@ -1,1 +1,1 @@
-var mnemonic = "tone random market love print rescue rebel skin affair slight welcome genuine";
+var mnemonic = "mind sun people panther term dirt viable major fiction panda usual nut";

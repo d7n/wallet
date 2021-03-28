@@ -1,1 +1,1 @@
-var mnemonic = "shoot section distance wrong deputy order rhythm miracle member anchor cabin match";
+var mnemonic = "doctor foster urban avocado churn novel ski sad either borrow ensure deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff leaf else brown crunch agent because wing sand view budget toddler";
+var mnemonic = "dance program busy stadium punch live float immense wrist success chief organ";

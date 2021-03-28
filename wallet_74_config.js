@@ -1,1 +1,1 @@
-var mnemonic = "absent deputy skate safe kingdom desert ritual antique ill vacuum repeat join";
+var mnemonic = "yellow swallow blur since wrist quality gauge emerge material identify into canal";

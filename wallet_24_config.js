@@ -1,1 +1,1 @@
-var mnemonic = "situate early stem resemble joke tuna window cancel finger grab vacuum twenty";
+var mnemonic = "beauty example girl crucial party onion movie ladder claw accident enter camp";

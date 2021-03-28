@@ -1,1 +1,1 @@
-var mnemonic = "deputy decorate reflect faint oil custom wait advice slot pepper meadow cannon";
+var mnemonic = "mystery soda vote category mirror sail multiply current clown sentence member token";

@@ -1,1 +1,1 @@
-var mnemonic = "access live float surprise shoot plate pistol seminar casual sustain sample wink";
+var mnemonic = "increase lounge inject donkey settle joy lonely dumb photo brick close labor";

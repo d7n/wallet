@@ -1,1 +1,1 @@
-var mnemonic = "main index admit vessel fragile olive aerobic story demand reward border embark";
+var mnemonic = "unique fog rigid search waste expand artefact ridge weekend derive multiply cousin";

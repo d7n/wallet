@@ -1,1 +1,1 @@
-var mnemonic = "clap pitch sponsor hour enough carpet agree claw ozone table security soldier";
+var mnemonic = "post food armor wall ivory short father hurry huge olympic private switch";

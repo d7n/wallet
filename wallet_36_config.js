@@ -1,1 +1,1 @@
-var mnemonic = "fame destroy danger muffin void loan medal umbrella torch flight soap soccer";
+var mnemonic = "swamp diagram renew cannon trim fiscal useful potato west chalk report topic";

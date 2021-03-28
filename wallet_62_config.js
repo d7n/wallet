@@ -1,1 +1,1 @@
-var mnemonic = "rail audit behave inquiry champion wheel depend sauce execute ranch casual wash";
+var mnemonic = "swallow wasp ribbon crunch hungry dial wealth style fold fresh sauce acid";

@@ -1,1 +1,1 @@
-var mnemonic = "tube curious truly mandate wage ugly exhaust husband guard display film timber";
+var mnemonic = "bonus wagon federal soul sail parade above tilt unique bonus allow fly";

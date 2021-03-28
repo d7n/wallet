@@ -1,1 +1,1 @@
-var mnemonic = "flight settle script stool equal paddle mistake cake power mammal swap purchase";
+var mnemonic = "vanish bridge busy else truck excite expire until upon behind display display";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel clever wild below sausage funny garden palace useless start where canal";
+var mnemonic = "fine weather retreat whip exile wisdom mistake subject club uniform route wage";

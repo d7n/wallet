@@ -1,1 +1,1 @@
-var mnemonic = "roast song portion spawn favorite unknown brain twice shoulder stomach chase ecology";
+var mnemonic = "physical engine pupil enjoy junior hello accuse hammer rival coach vendor erupt";

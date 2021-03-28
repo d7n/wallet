@@ -1,1 +1,1 @@
-var mnemonic = "pole uniform disagree front spy adapt awkward enhance learn myself magic vibrant";
+var mnemonic = "spider patrol myth credit embrace service puppy rabbit negative year real bid";

@@ -1,1 +1,1 @@
-var mnemonic = "check ritual decide much hard barrel hood couch pool recall exhibit level";
+var mnemonic = "hospital dizzy friend bike churn soap diagram proof eternal alert october next";

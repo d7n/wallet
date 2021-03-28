@@ -1,1 +1,1 @@
-var mnemonic = "screen anchor gift purpose truly extend regular public critic twist diet century";
+var mnemonic = "alien industry rose betray chronic use switch pole desert ski slim into";

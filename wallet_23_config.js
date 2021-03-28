@@ -1,1 +1,1 @@
-var mnemonic = "around fun abstract gold draft stand give machine muscle find iron caught";
+var mnemonic = "violin riot pumpkin celery bundle brick praise brief depart wrap unaware notice";

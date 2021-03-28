@@ -1,1 +1,1 @@
-var mnemonic = "kitchen casual thumb neglect symbol wing gather make wire high van glide";
+var mnemonic = "gospel trophy design panel maid story vibrant physical drift same about wink";

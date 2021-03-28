@@ -1,1 +1,1 @@
-var mnemonic = "scissors history already belt join toss bundle bitter capital liquid fresh avoid";
+var mnemonic = "ring citizen six script hungry foil miss copper history token anger metal";

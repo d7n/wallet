@@ -1,1 +1,1 @@
-var mnemonic = "network month scout denial like pluck initial dove piano funny area female";
+var mnemonic = "run tiny spring boy hurdle dwarf frost shell mechanic sniff sound barely";

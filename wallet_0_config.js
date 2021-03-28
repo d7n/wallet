@@ -1,1 +1,1 @@
-var mnemonic = "soon gap van moment kingdom used mushroom mixed cigar coconut oppose deer";
+var mnemonic = "section inhale alert reunion situate silk film peasant ability style piece jealous";

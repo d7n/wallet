@@ -1,1 +1,1 @@
-var mnemonic = "interest thumb music term upgrade comfort dinosaur seek wrap giraffe cushion arctic";
+var mnemonic = "blade exit leopard olive adjust minimum summer update witness remind when increase";

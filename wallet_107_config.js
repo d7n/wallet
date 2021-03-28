@@ -1,1 +1,1 @@
-var mnemonic = "observe animal identify reject quit lizard reject fragile midnight pyramid cupboard pistol";
+var mnemonic = "lottery aim abandon satisfy bullet roast kiss mesh balance medal pledge you";

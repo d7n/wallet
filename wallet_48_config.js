@@ -1,1 +1,1 @@
-var mnemonic = "stable diet curtain guide burger dumb anxiety version icon matter acid crew";
+var mnemonic = "add swear dash fetch pen avocado security vocal betray spoil wink used";

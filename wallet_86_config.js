@@ -1,1 +1,1 @@
-var mnemonic = "industry describe trust exist outdoor noble father romance heavy renew outer sting";
+var mnemonic = "mango toss wave oil fuel develop youth human example fantasy accuse timber";

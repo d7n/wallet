@@ -1,1 +1,1 @@
-var mnemonic = "hamster offer police property veteran mother load wrong spawn answer filter cup";
+var mnemonic = "choose reason vessel coil comfort disease puppy raccoon crouch setup peanut enable";

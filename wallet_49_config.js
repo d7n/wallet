@@ -1,1 +1,1 @@
-var mnemonic = "frost comic exist tragic rubber citizen addict teach cycle royal eager balcony";
+var mnemonic = "pumpkin awful draw dry tomorrow lock wing wrap attend whip table aspect";

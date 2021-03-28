@@ -1,1 +1,1 @@
-var mnemonic = "flush prevent fun east room caution squeeze animal harbor merit funny raven";
+var mnemonic = "sorry alpha chief fit shaft person awake entry gun seed scale property";

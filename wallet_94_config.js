@@ -1,1 +1,1 @@
-var mnemonic = "parent process copper twelve demand all age margin country help catalog visa";
+var mnemonic = "private budget kick plate object coral away elite prosper engine dizzy episode";

@@ -1,1 +1,1 @@
-var mnemonic = "join rural narrow whale street toddler globe adult noble hammer clutch vault";
+var mnemonic = "fix volcano series release cook safe page method lion immune merry fly";

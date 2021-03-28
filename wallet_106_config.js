@@ -1,1 +1,1 @@
-var mnemonic = "crater wasp false entry speed load hire subway sketch goddess hope sentence";
+var mnemonic = "silver alley source tent chuckle leisure slot select license undo orient forest";

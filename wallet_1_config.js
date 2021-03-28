@@ -1,1 +1,1 @@
-var mnemonic = "marine october payment choice pilot battle alcohol private scan fork strike budget";
+var mnemonic = "chief regret arrange boss liar general always wear muscle life heart universe";

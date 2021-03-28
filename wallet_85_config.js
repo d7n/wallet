@@ -1,1 +1,1 @@
-var mnemonic = "name lend admit bubble stool opinion wave copper album coin drift tackle";
+var mnemonic = "obtain color dust divorce accident tiny melody power embark smooth pave depart";

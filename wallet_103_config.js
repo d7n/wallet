@@ -1,1 +1,1 @@
-var mnemonic = "music guess replace hello trend praise office phone output position there alley";
+var mnemonic = "invest chaos crime tired beyond series turtle shell route latin aspect meadow";
