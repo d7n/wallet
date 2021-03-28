@@ -1,1 +1,1 @@
-var mnemonic = "defy upper stamp shop spot rack lucky horn shaft mixed consider present";
+var mnemonic = "purse lazy climb medal betray image machine copper quote basic slab brass";

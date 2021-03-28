@@ -1,1 +1,1 @@
-var mnemonic = "romance tone sing pupil torch include broom congress volcano hamster wear celery";
+var mnemonic = "insect verb screen innocent trophy nominee inject promote river diamond brass column";

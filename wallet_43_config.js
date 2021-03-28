@@ -1,1 +1,1 @@
-var mnemonic = "million during second coin retire snack power bring impulse crew disease public";
+var mnemonic = "member paddle shrimp scrub reopen spike poet ready into input limit program";

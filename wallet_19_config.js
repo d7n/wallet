@@ -1,1 +1,1 @@
-var mnemonic = "patch planet critic happy fade end toilet hundred slice hobby energy wedding";
+var mnemonic = "absent girl moon light response clerk slide donor legend camera meadow source";

@@ -1,1 +1,1 @@
-var mnemonic = "twin goat detect office ketchup destroy modify tide rotate clump clay vague";
+var mnemonic = "also normal spirit mother pear garbage butter casual youth ozone ocean erosion";

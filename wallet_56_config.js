@@ -1,1 +1,1 @@
-var mnemonic = "weekend coyote truck wrist patch cover burst hello creek forward horn garment";
+var mnemonic = "fire athlete device present unfair domain believe bronze banana behind spin margin";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare sugar book normal piece piece wonder moral law insane kitten fantasy";
+var mnemonic = "riot dirt face into muscle coral frost thunder liquid you rough web";

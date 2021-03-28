@@ -1,1 +1,1 @@
-var mnemonic = "evil quiz trim river ice cream piano limb basket pact lesson heavy";
+var mnemonic = "state expire door call ability oxygen model broom test ordinary sure thank";

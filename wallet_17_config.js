@@ -1,1 +1,1 @@
-var mnemonic = "express erupt again element wage include bachelor error flower coast error jeans";
+var mnemonic = "mammal solve goddess path trend impose prosper trim appear cannon alley hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "milk aerobic rifle undo margin favorite ordinary duck stool subway cram lift";
+var mnemonic = "spoil sign nuclear reward biology clock mad gorilla people manual wink misery";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel harvest pool decade orient olympic power earn mystery modify sport camera";
+var mnemonic = "crucial guitar position track outdoor churn bone climb volcano boat mesh crane";

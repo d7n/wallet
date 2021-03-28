@@ -1,1 +1,1 @@
-var mnemonic = "depart cry fatal illness rich radar clown ugly slender bubble renew wild";
+var mnemonic = "torch acquire ethics force umbrella frost chef chef blush gun pave saddle";

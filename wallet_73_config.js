@@ -1,1 +1,1 @@
-var mnemonic = "own crew tortoise element fancy scale ring siege antenna never exclude innocent";
+var mnemonic = "forest mystery employ lake reform security awful soul chuckle dust manage forum";

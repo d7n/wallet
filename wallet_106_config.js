@@ -1,1 +1,1 @@
-var mnemonic = "illness alpha club heavy evolve layer relax dizzy spare whale outer daughter";
+var mnemonic = "piece tonight drift indicate insane drop minimum deposit slice warrior attack issue";

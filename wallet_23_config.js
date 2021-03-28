@@ -1,1 +1,1 @@
-var mnemonic = "fish defense breeze mountain diagram update memory promote will rural hamster sad";
+var mnemonic = "body size thought theory drill brass peasant eye dinosaur flip dumb must";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk gadget cousin sketch heart frost response farm marine pluck jazz hood";
+var mnemonic = "fatal dune empower paper bike salon own pretty secret fog narrow honey";

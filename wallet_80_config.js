@@ -1,1 +1,1 @@
-var mnemonic = "curtain rate bleak cruise promote foil depart eight bless candy high motion";
+var mnemonic = "float naive into flame decade seat online plug border cup reunion pluck";

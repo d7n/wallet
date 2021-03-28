@@ -1,1 +1,1 @@
-var mnemonic = "give castle tired pool beyond census purchase decade dance tired latin metal";
+var mnemonic = "invite victory balcony alley earn suggest unveil absurd flower link course manual";

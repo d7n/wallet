@@ -1,1 +1,1 @@
-var mnemonic = "subway timber sound health winter august canoe raw power pumpkin obscure critic";
+var mnemonic = "prepare ritual tag toward thought better direct raven nice mother inmate output";

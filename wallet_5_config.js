@@ -1,1 +1,1 @@
-var mnemonic = "exile mother spawn picture main mosquito month toilet next sleep easily beef";
+var mnemonic = "near gap jungle maple cloth ceiling range apology scatter luxury wall denial";

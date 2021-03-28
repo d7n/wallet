@@ -1,1 +1,1 @@
-var mnemonic = "doctor success trade reason inhale addict security puppy cruel round accident vivid";
+var mnemonic = "winner hip put furnace drop reveal damp maze stadium gym mystery loan";

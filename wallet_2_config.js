@@ -1,1 +1,1 @@
-var mnemonic = "merry lesson depth focus tool thing fan grant crash proof saddle work";
+var mnemonic = "spider edge cloud wreck swarm liquid during please pair critic only tip";

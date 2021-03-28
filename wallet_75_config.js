@@ -1,1 +1,1 @@
-var mnemonic = "level jelly salmon cruise robust tennis liar boil window disorder furnace wear";
+var mnemonic = "language rent shift nut pet boat beyond canyon six spot laugh execute";

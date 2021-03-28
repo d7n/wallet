@@ -1,1 +1,1 @@
-var mnemonic = "heavy mixed rotate below uncover change cloud tennis bunker anxiety vapor response";
+var mnemonic = "heavy fog almost voice cinnamon before turtle page jaguar refuse fit involve";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble oblige margin better distance bacon thunder hybrid despair gas erase juice";
+var mnemonic = "start visa media flip bind fat assault foster nominee bacon silly electric";

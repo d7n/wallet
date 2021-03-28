@@ -1,1 +1,1 @@
-var mnemonic = "matter boss raccoon swallow napkin object edge logic just umbrella chronic next";
+var mnemonic = "sausage industry chuckle that control gloom cricket eight rotate away gossip across";

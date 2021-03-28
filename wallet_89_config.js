@@ -1,1 +1,1 @@
-var mnemonic = "sense frame unlock copper worth shell desert whip rule acquire lift armor";
+var mnemonic = "update sport shiver finish acid pepper liar join garbage agent glimpse include";

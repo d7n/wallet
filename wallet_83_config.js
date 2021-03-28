@@ -1,1 +1,1 @@
-var mnemonic = "immense put gap wisdom broccoli enforce similar essay rotate lake fragile artefact";
+var mnemonic = "planet lab smoke kiwi unfair oak boss about guilt plunge spice catalog";

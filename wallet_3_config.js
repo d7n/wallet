@@ -1,1 +1,1 @@
-var mnemonic = "furnace odor bus impose shine puppy bird maple innocent engage lonely casual";
+var mnemonic = "brush copy bench seven lucky traffic december hope fat ensure mushroom surge";

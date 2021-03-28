@@ -1,1 +1,1 @@
-var mnemonic = "banana embark into author card original genuine impact extend about stock extra";
+var mnemonic = "physical ancient step humor artwork never hip leave ranch table gentle dragon";

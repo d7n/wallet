@@ -1,1 +1,1 @@
-var mnemonic = "answer exit parrot save future plate charge aim antenna return mansion erode";
+var mnemonic = "tail uniform pelican tube dynamic enact fish guilt stable humble afford claw";

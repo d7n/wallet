@@ -1,1 +1,1 @@
-var mnemonic = "faculty artwork toy fade turkey balance panel belt forget second lounge cruise";
+var mnemonic = "absurd traffic knife tattoo demise exclude double sugar silly ugly utility rough";

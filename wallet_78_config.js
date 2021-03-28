@@ -1,1 +1,1 @@
-var mnemonic = "tail control shallow ten teach toward width convince candy tail build oxygen";
+var mnemonic = "try cinnamon journey hedgehog weather blue race fiction ketchup air attend model";

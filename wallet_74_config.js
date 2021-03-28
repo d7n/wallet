@@ -1,1 +1,1 @@
-var mnemonic = "search donor clap viable waste jewel other airport horror drama flag marble";
+var mnemonic = "half online clever juice pipe shock clock cycle diesel prison tuition cloud";

@@ -1,1 +1,1 @@
-var mnemonic = "fold embody absent home ranch dragon toast cherry fan tone six coffee";
+var mnemonic = "crush foil swarm shadow bubble face rug small nothing region blast beach";

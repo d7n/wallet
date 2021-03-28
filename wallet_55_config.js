@@ -1,1 +1,1 @@
-var mnemonic = "forest dash sound flock attack knock ordinary used garage find recall erode";
+var mnemonic = "diary rival chat item garlic grape average survey answer pond rubber kit";

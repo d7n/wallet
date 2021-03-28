@@ -1,1 +1,1 @@
-var mnemonic = "rally soft sphere blossom trigger unit melody oil drift supply shield inspire";
+var mnemonic = "describe travel clarify sauce fossil seed rice render easy tilt lab busy";

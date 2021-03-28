@@ -1,1 +1,1 @@
-var mnemonic = "reopen update banner daring blush letter top run right robot slender situate";
+var mnemonic = "ill brass private invest dumb zero few ethics slim stone grocery bread";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff sell way hire sort name page vanish wonder leave special injury";
+var mnemonic = "leave outside review subject hat sadness tip such sing lesson basic husband";

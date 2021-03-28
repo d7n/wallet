@@ -1,1 +1,1 @@
-var mnemonic = "winter violin truth craft chat person moon join shallow term guard intact";
+var mnemonic = "absurd beauty come tower good gravity one over siege library fetch payment";

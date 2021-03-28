@@ -1,1 +1,1 @@
-var mnemonic = "faculty discover all phone ginger winter way pluck cluster collect guilt enact";
+var mnemonic = "lucky gospel civil tag size dismiss injury universe gym surround name shrug";

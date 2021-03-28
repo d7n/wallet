@@ -1,1 +1,1 @@
-var mnemonic = "sea junior inspire share sword merry truly twenty miracle envelope journey luggage";
+var mnemonic = "act gaze wrist unlock option master pipe enemy excite roof usual nominee";

@@ -1,1 +1,1 @@
-var mnemonic = "measure tell fury sense hover another toward asthma exact neutral scout rhythm";
+var mnemonic = "enough tonight sauce happy margin differ deal salad include picture blur comfort";

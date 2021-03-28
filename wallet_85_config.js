@@ -1,1 +1,1 @@
-var mnemonic = "token elevator best useful machine mechanic owner kitten law exchange gun man";
+var mnemonic = "deer first toss resource face fortune hen clay tomato keen front frequent";

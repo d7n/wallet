@@ -1,1 +1,1 @@
-var mnemonic = "grape scan use blood effort small rookie broom gossip trim spatial today";
+var mnemonic = "obscure bid shell peasant amateur click real trigger edit write actual series";

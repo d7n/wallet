@@ -1,1 +1,1 @@
-var mnemonic = "accident bicycle stick idle require merge gather edit brother then isolate orphan";
+var mnemonic = "dry wedding young almost multiply wrist what pioneer gold outside door story";

@@ -1,1 +1,1 @@
-var mnemonic = "good theme intact portion orbit cube drum mistake tourist alien awake close";
+var mnemonic = "flavor train jeans horse wolf burger employ lab safe tape depend welcome";

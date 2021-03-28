@@ -1,1 +1,1 @@
-var mnemonic = "swamp robust coyote diesel cotton scheme glory proud diamond actress ready sea";
+var mnemonic = "appear prison rebuild equal vanish equip fun gentle clutch mountain cover reopen";

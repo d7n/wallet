@@ -1,1 +1,1 @@
-var mnemonic = "rebel cousin amused combine favorite episode basket sell that guard idea smoke";
+var mnemonic = "thought cause brass ice vague clinic maple benefit alcohol valid banana sugar";

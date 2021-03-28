@@ -1,1 +1,1 @@
-var mnemonic = "kit hope sword danger piece east project able craft uncover sword achieve";
+var mnemonic = "casino long matrix armor spirit zone initial pill trigger possible what duty";

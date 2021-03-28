@@ -1,1 +1,1 @@
-var mnemonic = "human build pool interest absorb celery industry secret start refuse naive drip";
+var mnemonic = "limit priority three pill virus island critic require outer left memory clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "casual ocean immune eager fitness aerobic style phone debate apology coach rich";
+var mnemonic = "slot quick cricket market net poem cart garbage donkey thumb purse spy";

@@ -1,1 +1,1 @@
-var mnemonic = "chief during silent earn twice volcano pledge chronic trophy defense border dirt";
+var mnemonic = "front model chase island letter leisure hard lumber rocket bracket circle excite";

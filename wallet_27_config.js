@@ -1,1 +1,1 @@
-var mnemonic = "panic tomato slice spider skirt spirit panic cover veteran lab limit advance";
+var mnemonic = "among legal average bonus culture ranch evolve discover spice suspect property journey";

@@ -1,1 +1,1 @@
-var mnemonic = "neither tonight expire cushion sleep melody ostrich nurse sniff zebra antique fancy";
+var mnemonic = "mushroom round syrup hour weasel crime essence news cry noise rack puzzle";

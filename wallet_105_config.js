@@ -1,1 +1,1 @@
-var mnemonic = "ritual deer cotton armor awesome romance voyage crunch convince earth spray power";
+var mnemonic = "drum spare atom gesture tuna slogan laptop switch call obscure antenna fiction";

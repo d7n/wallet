@@ -1,1 +1,1 @@
-var mnemonic = "mirror biology sleep ugly beach blade rare arrive crime attract tenant betray";
+var mnemonic = "material palm reward security bless number swift comfort coach slot crisp seed";

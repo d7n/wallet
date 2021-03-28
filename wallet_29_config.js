@@ -1,1 +1,1 @@
-var mnemonic = "problem rigid fit cross pave negative rigid evil garage wet square blade";
+var mnemonic = "foster during category input plunge afraid ordinary oxygen victory night potato evoke";

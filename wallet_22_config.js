@@ -1,1 +1,1 @@
-var mnemonic = "stable deputy caught glad oil truly moral world scatter describe rich crystal";
+var mnemonic = "problem episode method guide wall hedgehog motion unusual unfair course cinnamon mask";

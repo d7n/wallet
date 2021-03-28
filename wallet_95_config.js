@@ -1,1 +1,1 @@
-var mnemonic = "exact pipe describe creek rail isolate mercy coast typical game manual benefit";
+var mnemonic = "sting quick output immense tenant beef tribe found purchase shop cruise kangaroo";

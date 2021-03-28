@@ -1,1 +1,1 @@
-var mnemonic = "album aware area treat slide ranch skirt garment awful wreck olive insane";
+var mnemonic = "crop exit finger credit mansion spatial enjoy roast pen jump faculty label";

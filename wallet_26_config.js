@@ -1,1 +1,1 @@
-var mnemonic = "they garlic fossil detect arrange agree clump honey coyote math else snap";
+var mnemonic = "turkey repair rain crop phone harvest captain ensure thought night buffalo theory";

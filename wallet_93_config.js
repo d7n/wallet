@@ -1,1 +1,1 @@
-var mnemonic = "now below require apart supreme head soda allow educate crowd survey canyon";
+var mnemonic = "throw powder host achieve express foam talk exercise analyst much hobby uncover";

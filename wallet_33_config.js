@@ -1,1 +1,1 @@
-var mnemonic = "wasp chef adapt trophy finish warm carry kangaroo bread now tool canal";
+var mnemonic = "umbrella evidence material twelve dust obvious cross divide make remove wet marine";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe answer silent cancel enact awesome quiz monkey special vague key soup";
+var mnemonic = "brown veteran choose property sun lounge now advice swamp beyond body next";

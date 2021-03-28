@@ -1,1 +1,1 @@
-var mnemonic = "record urban adapt garment item supply burst knee chalk final symptom family";
+var mnemonic = "final much lounge room hour cool model buzz organ surround say legend";

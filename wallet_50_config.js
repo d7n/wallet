@@ -1,1 +1,1 @@
-var mnemonic = "olympic lion this baby shaft salute ketchup exhibit guilt drop chimney tissue";
+var mnemonic = "cover meat night phone truth govern coyote sphere detail citizen south require";

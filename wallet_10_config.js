@@ -1,1 +1,1 @@
-var mnemonic = "chuckle razor dumb key transfer iron festival rubber economy betray rate hollow";
+var mnemonic = "analyst fancy step say chest acid warm loop stomach refuse grain liberty";

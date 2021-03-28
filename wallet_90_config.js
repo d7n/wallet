@@ -1,1 +1,1 @@
-var mnemonic = "edit office load problem nasty return visit surface measure boil oppose waste";
+var mnemonic = "defy play forward spell unit room license argue neck paddle wheat shine";

@@ -1,1 +1,1 @@
-var mnemonic = "raw accident poet round asset buyer address bracket pumpkin army planet blade";
+var mnemonic = "auto laundry trash vote uncle diagram appear stay hurdle ugly slight chronic";

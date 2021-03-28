@@ -1,1 +1,1 @@
-var mnemonic = "tiny spray shoulder attend estate market length expire spatial spray segment core";
+var mnemonic = "point bread vault chuckle tower estate story picnic apple panther turkey vital";

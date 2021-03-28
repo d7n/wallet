@@ -1,1 +1,1 @@
-var mnemonic = "patient absorb story song deal foam guilt this panther hurt leave myself";
+var mnemonic = "harsh process holiday bachelor hub correct walnut hood gym upon cigar frog";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon item access element grab inform sauce mistake hair photo notice photo";
+var mnemonic = "keen recipe gloom hip rubber vault cousin two vague bitter impulse judge";

@@ -1,1 +1,1 @@
-var mnemonic = "pluck tent slim urge gown kite muscle angle rubber clown sense swarm";
+var mnemonic = "flash oil put arctic bulb example scrub order patrol horse slender diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "pyramid economy matrix tuna cake spider hybrid menu wrestle accident mom region";
+var mnemonic = "demand century detect metal awesome keen occur sausage rhythm amazing chase dad";

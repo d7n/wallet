@@ -1,1 +1,1 @@
-var mnemonic = "feed gun athlete mouse animal resist mutual armor history buyer river valve";
+var mnemonic = "prefer useless ahead purity shrug hub action sport duty avoid hope board";

@@ -1,1 +1,1 @@
-var mnemonic = "assist tumble crime social absorb pepper cruise young sentence athlete know any";
+var mnemonic = "prevent nerve rough stone mimic despair patient knock coyote method kind convince";

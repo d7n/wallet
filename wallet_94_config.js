@@ -1,1 +1,1 @@
-var mnemonic = "record kind wise edge unhappy cancel duck pause access gather rebel glad";
+var mnemonic = "vote apart rely motor exact favorite float loyal license bright attitude kick";

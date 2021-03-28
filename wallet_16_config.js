@@ -1,1 +1,1 @@
-var mnemonic = "shuffle mimic swap bicycle soul polar zero motion guess hub derive bleak";
+var mnemonic = "high fall view pledge bleak mimic orchard balcony quick maid track valley";

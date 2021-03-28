@@ -1,1 +1,1 @@
-var mnemonic = "either alert wrong gauge weasel grunt real market trim legend buddy fiscal";
+var mnemonic = "drift kingdom street lens embrace exotic situate alert slender judge clog hurdle";

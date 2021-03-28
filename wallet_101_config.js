@@ -1,1 +1,1 @@
-var mnemonic = "list sad sadness mother bless economy cabbage roof label depend fame nasty";
+var mnemonic = "hip gym piece polar rack pear wreck runway gasp autumn bulb skate";

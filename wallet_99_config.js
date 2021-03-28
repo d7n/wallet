@@ -1,1 +1,1 @@
-var mnemonic = "salt hill eight oval metal enemy autumn cotton valley start history voyage";
+var mnemonic = "small pumpkin grow fiction soda coin away eternal food piano cliff tooth";

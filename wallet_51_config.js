@@ -1,1 +1,1 @@
-var mnemonic = "jacket kid address bless arrow strategy render van amount live guilt nation";
+var mnemonic = "genuine capital cry swift noise minimum pig travel lab reveal approve tuition";

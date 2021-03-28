@@ -1,1 +1,1 @@
-var mnemonic = "hen fancy snack jar salmon region garment scatter jar blade rotate share";
+var mnemonic = "caution grain receive middle road attitude hungry feel release orange differ sniff";

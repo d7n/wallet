@@ -1,1 +1,1 @@
-var mnemonic = "gentle come update piano outdoor estate category spirit walk corn isolate firm";
+var mnemonic = "transfer cover wine olympic consider prevent galaxy flat avocado expect spoil talk";

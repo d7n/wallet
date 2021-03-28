@@ -1,1 +1,1 @@
-var mnemonic = "boil convince soup seek screen squirrel execute jelly strike message gossip section";
+var mnemonic = "scrub undo roof skill mule client drive banana seminar door fun file";

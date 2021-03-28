@@ -1,1 +1,1 @@
-var mnemonic = "become trust clog nuclear donate foam idea play erosion popular sauce near";
+var mnemonic = "swallow over stone siege dune clock panel elegant wealth name motor walnut";

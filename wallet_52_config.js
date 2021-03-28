@@ -1,1 +1,1 @@
-var mnemonic = "fly crash recipe fit erosion canal slim giant cotton mystery cool slam";
+var mnemonic = "rural raccoon wrestle punch wrong kind surge tray energy input crack south";

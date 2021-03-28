@@ -1,1 +1,1 @@
-var mnemonic = "define sign error army urge impact nice shuffle render proof jaguar awful";
+var mnemonic = "unfair october there casual spell stamp bone receive tide shoe unaware era";

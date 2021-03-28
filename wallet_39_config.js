@@ -1,1 +1,1 @@
-var mnemonic = "sing gauge blast sample another design property burden seed hawk farm weekend";
+var mnemonic = "water comic common kidney talk assault grace man earth material embark random";

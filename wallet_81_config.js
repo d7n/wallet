@@ -1,1 +1,1 @@
-var mnemonic = "volcano text else abandon embrace toddler exact mad metal abstract friend quarter";
+var mnemonic = "metal tumble conduct track frog decorate trumpet jungle pond stumble become stadium";
