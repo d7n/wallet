@@ -1,1 +1,1 @@
-var mnemonic = "morning wrong engine equal galaxy like shoulder there celery cheese woman surround";
+var mnemonic = "phone traffic noise random home hotel puppy mechanic raw burger liquid hair";

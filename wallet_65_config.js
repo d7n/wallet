@@ -1,1 +1,1 @@
-var mnemonic = "plate price fluid roof sketch choice dust priority daring protect stay soap";
+var mnemonic = "clever adult boring master pond advance fall siege more doctor love drama";

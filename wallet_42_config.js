@@ -1,1 +1,1 @@
-var mnemonic = "student bulk hint decide stuff only system palm strong hybrid choose work";
+var mnemonic = "panda wink list before heart device bridge myth dumb toast absurd acid";

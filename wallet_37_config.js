@@ -1,1 +1,1 @@
-var mnemonic = "share soon lounge wood praise deal delay entry retire weasel unhappy eyebrow";
+var mnemonic = "chalk legal curious elbow voice action crane describe inject snow vendor maze";

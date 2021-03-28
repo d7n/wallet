@@ -1,1 +1,1 @@
-var mnemonic = "culture angry upset energy clinic that ahead that must spare bridge cute";
+var mnemonic = "elbow skull demand clip minute shallow disorder oval also blood size toward";

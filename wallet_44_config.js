@@ -1,1 +1,1 @@
-var mnemonic = "loop memory error bonus almost timber diagram replace alcohol inflict same hard";
+var mnemonic = "happy describe claw fiscal make member aisle tobacco raw census small supreme";

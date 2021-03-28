@@ -1,1 +1,1 @@
-var mnemonic = "hill social enforce awkward vendor betray basic pluck copper isolate eye baby";
+var mnemonic = "legal march drive uncle remain hidden bench beauty must meat seat fork";

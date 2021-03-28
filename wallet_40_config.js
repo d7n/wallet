@@ -1,1 +1,1 @@
-var mnemonic = "magic ribbon illegal bitter quality original unable fatigue bronze abandon wash equip";
+var mnemonic = "myth december scale then knee rule gloom glimpse myth wife speed title";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi stable festival write guide situate leopard stamp state sample guard metal";
+var mnemonic = "lottery grocery aim enhance better retreat demise method above client inherit sadness";

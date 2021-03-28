@@ -1,1 +1,1 @@
-var mnemonic = "below ensure pink soul upper improve nerve file obvious spy retreat adapt";
+var mnemonic = "canal library group castle large depart below coyote brief spirit exist cheese";

@@ -1,1 +1,1 @@
-var mnemonic = "ranch shift report window hollow issue poem case lawn umbrella success license";
+var mnemonic = "mother circle sustain price dress crane main creek differ save space tent";

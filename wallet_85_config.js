@@ -1,1 +1,1 @@
-var mnemonic = "galaxy swing annual two purity because prosper rug top couch curve tourist";
+var mnemonic = "armor ring inflict easy brief forest noble poverty organ moment recall crater";

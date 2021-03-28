@@ -1,1 +1,1 @@
-var mnemonic = "anchor coffee great adult gorilla appear other fun visit raw culture trumpet";
+var mnemonic = "praise country december oyster mesh jazz dry head lonely erode chair shell";

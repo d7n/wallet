@@ -1,1 +1,1 @@
-var mnemonic = "calm key essence chimney math aisle sauce twelve snake chase hotel crazy";
+var mnemonic = "drum urban bicycle found depart unaware trend veteran urge tooth collect earth";

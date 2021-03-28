@@ -1,1 +1,1 @@
-var mnemonic = "wide infant sense text voyage minor card cage lock deposit saddle bamboo";
+var mnemonic = "coast risk course moral catalog brain mention practice spirit above torch question";

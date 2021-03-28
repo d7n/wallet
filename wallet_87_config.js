@@ -1,1 +1,1 @@
-var mnemonic = "excuse decline build garden era pony kind summer divide have guide night";
+var mnemonic = "awful absent slot clay tobacco shine mango nurse neck way please orchard";

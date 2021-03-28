@@ -1,1 +1,1 @@
-var mnemonic = "latin echo unfair invest forum extra behind snow choice bargain receive olive";
+var mnemonic = "still such begin envelope dizzy excite number people lion figure lunch voyage";

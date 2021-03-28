@@ -1,1 +1,1 @@
-var mnemonic = "sword voyage skate animal day major anger hand phone member speed member";
+var mnemonic = "edge casual whale village oblige mom peanut disease adult deposit elegant post";

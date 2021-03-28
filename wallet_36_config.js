@@ -1,1 +1,1 @@
-var mnemonic = "dynamic virus seed trumpet impulse lamp candy section fatal rocket fade divorce";
+var mnemonic = "setup inch frequent amused kitchen daughter coach basket reward similar lava kidney";

@@ -1,1 +1,1 @@
-var mnemonic = "can forget bargain field proud kick shadow prevent indoor job crime fresh";
+var mnemonic = "venture cruise hotel improve blossom want plate wool stay fashion monster orange";

@@ -1,1 +1,1 @@
-var mnemonic = "agree any busy snap breeze easily transfer torch execute type thing pass";
+var mnemonic = "rigid peasant thought wrist chaos indicate derive mutual knife glass garment journey";

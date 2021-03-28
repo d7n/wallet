@@ -1,1 +1,1 @@
-var mnemonic = "awesome drill boat cheap captain panic innocent scheme sponsor wait bullet ramp";
+var mnemonic = "tongue reflect weird imitate venue program limit correct pony size coin school";

@@ -1,1 +1,1 @@
-var mnemonic = "echo copy orient coach unique reason knife north force still glimpse blur";
+var mnemonic = "woman aim spell science retreat disease need inside often away hood curve";

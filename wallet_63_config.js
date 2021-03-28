@@ -1,1 +1,1 @@
-var mnemonic = "until chief toward ship solve afraid common cloud gun wolf build tank";
+var mnemonic = "frost sea short talent photo occur card occur final glance tragic unveil";

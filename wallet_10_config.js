@@ -1,1 +1,1 @@
-var mnemonic = "frequent actual zoo debate spin flash romance tongue ostrich odor monster marine";
+var mnemonic = "state muffin stadium ranch around easy jacket injury hotel glow champion injury";

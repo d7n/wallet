@@ -1,1 +1,1 @@
-var mnemonic = "list join search foam muffin skin ramp snack head pipe kitchen upon";
+var mnemonic = "garlic license baby rib accident forward youth report embody saddle raise coral";

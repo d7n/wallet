@@ -1,1 +1,1 @@
-var mnemonic = "daughter jealous devote analyst gravity rival belt today betray soon ugly advice";
+var mnemonic = "crisp recipe cactus abandon dose tiger marble february autumn venue master forum";

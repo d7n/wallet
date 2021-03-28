@@ -1,1 +1,1 @@
-var mnemonic = "aim basket century keen tired knee utility plunge fade angry ginger village";
+var mnemonic = "razor obscure library because floor cloth army harvest kiwi rose fiber grab";

@@ -1,1 +1,1 @@
-var mnemonic = "flame test force provide little leave pact derive thrive connect amount bunker";
+var mnemonic = "give outside actress mechanic emotion ghost wreck evoke unfair movie pipe float";

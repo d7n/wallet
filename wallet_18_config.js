@@ -1,1 +1,1 @@
-var mnemonic = "ramp betray minimum danger math rally owner bamboo window slight satisfy velvet";
+var mnemonic = "artefact anchor just mushroom earth emotion example much hundred nasty vessel fork";

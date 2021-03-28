@@ -1,1 +1,1 @@
-var mnemonic = "ecology mad run protect cloud siege cliff ketchup portion giant axis issue";
+var mnemonic = "odor over install metal sure vicious hair flat veteran local pencil nasty";

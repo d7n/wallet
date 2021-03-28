@@ -1,1 +1,1 @@
-var mnemonic = "staff salmon wrestle pact scatter tilt effort gap marriage battle collect ensure";
+var mnemonic = "lens avoid suit force orchard stand other pool pull nest bar genre";

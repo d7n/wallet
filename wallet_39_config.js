@@ -1,1 +1,1 @@
-var mnemonic = "kind gesture survey swift until leopard ice front nice name opera jaguar";
+var mnemonic = "mutual thunder sibling system fatigue regular actress enforce pink offer spare security";

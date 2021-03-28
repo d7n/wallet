@@ -1,1 +1,1 @@
-var mnemonic = "index episode small diesel term fruit artist tuna knock gloom shove similar";
+var mnemonic = "juice broken certain almost squeeze canal aerobic toy level major elephant evidence";

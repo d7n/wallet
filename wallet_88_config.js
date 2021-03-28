@@ -1,1 +1,1 @@
-var mnemonic = "patient misery drastic draw ticket romance organ diary worth file term method";
+var mnemonic = "actress super buffalo leg tone rice coyote dose alien juice garlic witness";

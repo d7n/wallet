@@ -1,1 +1,1 @@
-var mnemonic = "broken affair adult cruel betray tail critic manage weird north soldier start";
+var mnemonic = "notable cruel squirrel earth opinion brass garment fun before endless digital please";

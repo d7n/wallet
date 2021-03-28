@@ -1,1 +1,1 @@
-var mnemonic = "input found dice exchange auction arrow action merry youth lucky update hub";
+var mnemonic = "tumble toward hint swear riot grab flash culture citizen tree glare isolate";

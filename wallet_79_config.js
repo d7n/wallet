@@ -1,1 +1,1 @@
-var mnemonic = "nut nephew sock supply common include lemon pumpkin staff other hero inform";
+var mnemonic = "adult claw token dilemma ahead craft noodle term satisfy either predict print";

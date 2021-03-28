@@ -1,1 +1,1 @@
-var mnemonic = "sense vintage cousin window elegant weather lens stamp recall afford can trick";
+var mnemonic = "joke knock fence review fortune promote term curve hamster again shadow scorpion";

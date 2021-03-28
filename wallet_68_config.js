@@ -1,1 +1,1 @@
-var mnemonic = "ramp sport sight aisle estate primary employ access salt situate cereal maximum";
+var mnemonic = "divide circle they butter chuckle receive subway noble update defy remind chief";

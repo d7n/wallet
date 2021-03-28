@@ -1,1 +1,1 @@
-var mnemonic = "act tonight gravity floor utility trade priority early decrease ready fog army";
+var mnemonic = "affair expose disease attract decade jaguar utility hip hamster health melt sight";

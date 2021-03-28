@@ -1,1 +1,1 @@
-var mnemonic = "profit orphan shaft over minute crystal hen dry reject curtain danger photo";
+var mnemonic = "cup stomach balance road actor erode marble erupt quality file join acquire";

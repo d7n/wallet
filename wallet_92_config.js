@@ -1,1 +1,1 @@
-var mnemonic = "weather salt length rubber punch casino mutual hint have subway dune jungle";
+var mnemonic = "gun length flower crisp nasty work inflict flee conduct test together attract";

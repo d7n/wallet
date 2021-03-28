@@ -1,1 +1,1 @@
-var mnemonic = "shuffle elephant elegant put fluid fire joke trash scrap peace reveal load";
+var mnemonic = "wire wolf effort piece bulb base vast mass evidence evidence wonder actor";

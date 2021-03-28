@@ -1,1 +1,1 @@
-var mnemonic = "grow defense father book raw artefact exhibit cook invest echo medal actual";
+var mnemonic = "ahead old always zone doll portion melt patrol nurse proud second alley";

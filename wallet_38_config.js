@@ -1,1 +1,1 @@
-var mnemonic = "boat project become absorb address raw equal asset mouse scissors rack engage";
+var mnemonic = "display film accident develop bench close tribe mean tornado aisle few unaware";

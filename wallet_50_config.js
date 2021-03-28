@@ -1,1 +1,1 @@
-var mnemonic = "reform lounge spread draft sorry scorpion fiber alcohol shrimp search health circle";
+var mnemonic = "magic identify rice such final frost teach carbon climb split okay spike";

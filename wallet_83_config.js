@@ -1,1 +1,1 @@
-var mnemonic = "rough monster hour bird paper permit ice put blind ranch physical night";
+var mnemonic = "uniform acoustic engage machine grass curious tortoise sentence they horse book sand";

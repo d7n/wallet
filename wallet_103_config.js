@@ -1,1 +1,1 @@
-var mnemonic = "rate head pony magic own basic garden program waste federal boring business";
+var mnemonic = "cheap pill present food exit sketch brief merit rate tree mirror desk";

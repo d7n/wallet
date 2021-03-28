@@ -1,1 +1,1 @@
-var mnemonic = "custom turn huge arrive head lunch hunt hen try erosion tortoise deputy";
+var mnemonic = "luxury glimpse chalk twice nerve small advice antenna stay dash crazy roof";

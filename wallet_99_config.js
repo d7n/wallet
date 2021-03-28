@@ -1,1 +1,1 @@
-var mnemonic = "domain aware gaze evoke coin obtain hawk vanish submit hint various episode";
+var mnemonic = "proud mansion grit coyote blouse misery job muffin cliff cinnamon found index";

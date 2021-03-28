@@ -1,1 +1,1 @@
-var mnemonic = "warm candy nothing spare mad keen camera large saddle swamp alarm bar";
+var mnemonic = "refuse slim goat general path effort rhythm keen void behave detail verb";

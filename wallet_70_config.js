@@ -1,1 +1,1 @@
-var mnemonic = "tank used horse obey mammal diet repair bomb harbor person tragic drift";
+var mnemonic = "blouse bacon vapor valley pact churn reward aware grocery gym language absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "drift grant food annual lumber diet retreat avoid duck trip until salute";
+var mnemonic = "range aisle spike receive wish city fantasy antique mushroom scrub mouse high";

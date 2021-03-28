@@ -1,1 +1,1 @@
-var mnemonic = "bike ladder shield crack color hire always away tunnel museum float artefact";
+var mnemonic = "state cruise clap trumpet velvet way tribe aunt gallery math parent exist";

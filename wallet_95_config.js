@@ -1,1 +1,1 @@
-var mnemonic = "possible void jazz danger clarify border bind skin hen top boat congress";
+var mnemonic = "cost stuff vote fine obvious session drive tiger strong crisp now train";

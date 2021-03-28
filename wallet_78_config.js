@@ -1,1 +1,1 @@
-var mnemonic = "result negative audit blood apple oven fence hope during divorce ship amount";
+var mnemonic = "brand bring patrol drip item luxury movie balcony own have bind angry";

@@ -1,1 +1,1 @@
-var mnemonic = "pet abuse reveal little find what lemon faith hill skirt glass action";
+var mnemonic = "garlic write sweet intact stomach blouse clerk law urge calm attack cycle";

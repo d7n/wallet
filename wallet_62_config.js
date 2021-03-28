@@ -1,1 +1,1 @@
-var mnemonic = "squeeze alley sea access drama general uphold increase promote picture waste flush";
+var mnemonic = "door metal mind kingdom odor joy indoor together define gap net kick";

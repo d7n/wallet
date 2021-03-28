@@ -1,1 +1,1 @@
-var mnemonic = "south sugar unfair cloud spoil sense nest glad pear stool virtual suit";
+var mnemonic = "kind toilet tube actor then short hover industry intact hazard dawn point";

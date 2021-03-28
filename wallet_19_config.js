@@ -1,1 +1,1 @@
-var mnemonic = "essence inject hedgehog access slice pelican tiny level sport burger outdoor record";
+var mnemonic = "maximum shine echo fee hotel ugly obscure duty soft bring alert force";

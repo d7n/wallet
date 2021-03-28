@@ -1,1 +1,1 @@
-var mnemonic = "benefit frame hurt person foam friend consider rack setup fiction disorder heart";
+var mnemonic = "pull popular squirrel goat bamboo trick sample rose field apart destroy service";

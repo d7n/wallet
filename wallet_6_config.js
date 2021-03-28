@@ -1,1 +1,1 @@
-var mnemonic = "hello aerobic inner furnace mountain proof cricket shallow first umbrella when quarter";
+var mnemonic = "order dish orchard off potato garment wear blind cycle tattoo absent stool";

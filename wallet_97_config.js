@@ -1,1 +1,1 @@
-var mnemonic = "blast pond fit impact debate soldier search someone gown cereal royal main";
+var mnemonic = "giraffe knife lunar bulb jealous answer reward cable anchor venture plastic bulk";

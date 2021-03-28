@@ -1,1 +1,1 @@
-var mnemonic = "dream proof avocado ethics child apple athlete north among client urban fit";
+var mnemonic = "soft act wet robot bulk title uphold little wish crane air autumn";

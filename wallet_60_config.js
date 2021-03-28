@@ -1,1 +1,1 @@
-var mnemonic = "vivid best lend manage crouch solution robust raccoon zoo memory early atom";
+var mnemonic = "kite brief shrug crunch remember master cruel anger vault wonder over prize";

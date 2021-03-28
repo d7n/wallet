@@ -1,1 +1,1 @@
-var mnemonic = "dragon catch grid depth jealous round flash frown extend protect armor light";
+var mnemonic = "common middle wait alpha attract skull congress area series clump series captain";

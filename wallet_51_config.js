@@ -1,1 +1,1 @@
-var mnemonic = "pole input settle fold pool walk fire picture arrest catalog love near";
+var mnemonic = "snap duck stove wage cloth picnic hamster include cage health sound before";

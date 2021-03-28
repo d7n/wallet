@@ -1,1 +1,1 @@
-var mnemonic = "twist inject cute garage arrow actress fatigue gloom afraid siren anchor rotate";
+var mnemonic = "aim light disagree fetch toe cake key garbage monster clock behind space";

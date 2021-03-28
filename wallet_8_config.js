@@ -1,1 +1,1 @@
-var mnemonic = "hope play viable wide youth grass clay grief delay detect rapid puppy";
+var mnemonic = "skill retire bitter oak reunion embrace dove scissors piano vague grow asset";

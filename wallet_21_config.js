@@ -1,1 +1,1 @@
-var mnemonic = "embody black soul pink cute element melt media behind arctic please cluster";
+var mnemonic = "purse increase pave black tonight side hedgehog duty warm deer hard found";

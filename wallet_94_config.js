@@ -1,1 +1,1 @@
-var mnemonic = "soul liquid recall basic school gain blast royal skate voyage squeeze source";
+var mnemonic = "tumble jeans pole blossom phone code mesh click liquid liar indicate split";

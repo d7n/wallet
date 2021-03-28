@@ -1,1 +1,1 @@
-var mnemonic = "erase situate idea bird maid jar feel hello license mail parent arrange";
+var mnemonic = "lake unveil canyon police adult reopen agree latin surge bicycle treat walk";

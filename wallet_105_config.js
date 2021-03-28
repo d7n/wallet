@@ -1,1 +1,1 @@
-var mnemonic = "task matter stand recipe jeans service carbon whale wheel news cereal sword";
+var mnemonic = "lobster clinic credit hedgehog aim cry urban sample meadow display crop review";

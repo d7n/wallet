@@ -1,1 +1,1 @@
-var mnemonic = "vocal gift earth add repeat hollow captain develop dash fresh rose wood";
+var mnemonic = "address input deny meadow lens silent merit ring window burden dose hedgehog";

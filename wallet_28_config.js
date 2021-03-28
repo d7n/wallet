@@ -1,1 +1,1 @@
-var mnemonic = "assault option month child orient void salon mistake core worth earth manual";
+var mnemonic = "eternal panel faculty draft odor body salute resource stomach alpha feel mom";

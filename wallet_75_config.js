@@ -1,1 +1,1 @@
-var mnemonic = "fall ivory kangaroo manage private mango royal awake orange there host vague";
+var mnemonic = "work acquire river near join sight section fiction soldier grit wedding category";

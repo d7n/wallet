@@ -1,1 +1,1 @@
-var mnemonic = "child picture panic outside engine canal veteran north stage section setup seminar";
+var mnemonic = "caught erode exchange swap sense wrestle income choose curious direct repair tag";

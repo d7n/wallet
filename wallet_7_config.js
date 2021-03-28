@@ -1,1 +1,1 @@
-var mnemonic = "clarify erupt grab festival mobile point matter clever ready property increase depth";
+var mnemonic = "school snow jazz rate bracket oppose dune rough weapon habit solve theory";

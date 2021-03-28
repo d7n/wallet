@@ -1,1 +1,1 @@
-var mnemonic = "lake absurd memory pink start possible danger ability nominee clump wash search";
+var mnemonic = "record student access remove canoe party radar debris tourist joy clog timber";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare cream axis elevator dismiss exit bread fine plastic palm yard settle";
+var mnemonic = "penalty rocket dentist kingdom tilt clown matrix blade require road tackle romance";

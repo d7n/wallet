@@ -1,1 +1,1 @@
-var mnemonic = "core one short demise rent fringe sun balcony bench escape slide win";
+var mnemonic = "solid arch reveal popular leg mosquito capable express pool rural retire corn";

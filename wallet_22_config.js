@@ -1,1 +1,1 @@
-var mnemonic = "cross divorce below gift skin stone inspire panel spoil eagle since initial";
+var mnemonic = "member age seminar tired deposit leopard grief debris auto slender duck apple";

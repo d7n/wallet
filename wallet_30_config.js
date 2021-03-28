@@ -1,1 +1,1 @@
-var mnemonic = "chase situate human evoke lab cigar circle silent screen dignity budget excuse";
+var mnemonic = "detect jungle excess faint present kid garment mystery prefer olive job stereo";

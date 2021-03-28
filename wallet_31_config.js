@@ -1,1 +1,1 @@
-var mnemonic = "quote ancient frog wreck hurry rural toward pear price entire lizard field";
+var mnemonic = "such heart only wing club law sock act supreme soda dune bacon";

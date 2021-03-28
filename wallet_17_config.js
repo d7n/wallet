@@ -1,1 +1,1 @@
-var mnemonic = "table sunset egg soap finger awake decade amazing favorite hint bind junk";
+var mnemonic = "ladder effort sure artwork bamboo math leader health ski ensure pet crew";

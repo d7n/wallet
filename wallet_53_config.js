@@ -1,1 +1,1 @@
-var mnemonic = "shoot job flower west wonder catch crime wood dolphin boring same venture";
+var mnemonic = "vapor equip remove retire loud ecology fantasy member pumpkin cotton stairs join";

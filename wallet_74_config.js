@@ -1,1 +1,1 @@
-var mnemonic = "chase hole visa right local dragon once dismiss twelve urge body glue";
+var mnemonic = "spoon burden logic brick damp chicken neutral sniff book cushion gorilla history";

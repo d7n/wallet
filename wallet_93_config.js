@@ -1,1 +1,1 @@
-var mnemonic = "similar armor enroll trade net kid vocal valve raw loop make police";
+var mnemonic = "fatal link foil slender behind alter skirt govern myself garden repeat build";

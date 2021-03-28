@@ -1,1 +1,1 @@
-var mnemonic = "once cloth argue chest build base search maze key rural glass stable";
+var mnemonic = "phone tell tattoo kangaroo absurd twice square private alarm shine alley display";
