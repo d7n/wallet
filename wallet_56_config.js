@@ -1,1 +1,1 @@
-var mnemonic = "cloud frost wave moon dinner other obscure wheat cloth panther accuse gravity";
+var mnemonic = "wealth that more tilt arm creek tell hockey oxygen plunge hurry notable";

@@ -1,1 +1,1 @@
-var mnemonic = "wine cake save lava middle dynamic chunk grant faculty edge alone faculty";
+var mnemonic = "peanut online tilt torch weekend ivory dawn story dice brown goat original";

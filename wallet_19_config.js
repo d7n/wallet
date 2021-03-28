@@ -1,1 +1,1 @@
-var mnemonic = "wife unusual only word radar manage trash fiber wing grid flee mean";
+var mnemonic = "print nominee code fatal excite quality share dinner wine silly need reward";

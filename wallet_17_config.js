@@ -1,1 +1,1 @@
-var mnemonic = "angry wealth duty gun insect manage people ignore dolphin about resemble train";
+var mnemonic = "walnut urge random scrap setup air clean creek uncle enforce damage provide";

@@ -1,1 +1,1 @@
-var mnemonic = "naive base easily cat wheel nice forget cancel guard task execute install";
+var mnemonic = "vacant orchard sister garbage update brisk mansion corn notice cost bench helmet";

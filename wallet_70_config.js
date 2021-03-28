@@ -1,1 +1,1 @@
-var mnemonic = "squirrel fat romance matter announce during hold dolphin local winter escape panda";
+var mnemonic = "stage catch athlete umbrella drip muscle purity plunge wheat early cute anchor";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton gift square genuine aerobic act ability fish offer armed cable access";
+var mnemonic = "above vintage similar kit draft pause aspect cousin entire large trap pave";

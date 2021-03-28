@@ -1,1 +1,1 @@
-var mnemonic = "fold furnace aspect mother super range nature student trust slot gesture movie";
+var mnemonic = "easily asthma six conduct adjust donate notice leopard lawsuit mobile cradle cloth";

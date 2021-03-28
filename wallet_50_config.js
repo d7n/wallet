@@ -1,1 +1,1 @@
-var mnemonic = "win distance coral actual display endorse flash fence child arctic memory roast";
+var mnemonic = "dune energy lock book wealth miracle ecology later flee hope elite page";

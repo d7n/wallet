@@ -1,1 +1,1 @@
-var mnemonic = "donkey peace coconut film shadow asthma during pause hurdle order property flock";
+var mnemonic = "gauge advance defense check life pudding question father capital theme critic better";

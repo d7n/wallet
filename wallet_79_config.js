@@ -1,1 +1,1 @@
-var mnemonic = "oil group secret initial weekend length happy lion dutch few fan case";
+var mnemonic = "mail jazz music victory upon elbow cram vivid enough tape flash confirm";

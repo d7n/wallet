@@ -1,1 +1,1 @@
-var mnemonic = "wide antenna sphere clump garbage broccoli excuse digital turtle wish flame famous";
+var mnemonic = "pass huge indoor canyon stumble obvious tennis win width rival theme dream";

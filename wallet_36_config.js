@@ -1,1 +1,1 @@
-var mnemonic = "come panda era essence define already machine hurdle kangaroo embark unveil network";
+var mnemonic = "win comfort dismiss april mountain occur boy into horror buddy scout mixture";

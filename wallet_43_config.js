@@ -1,1 +1,1 @@
-var mnemonic = "limb hint large family figure usage praise funny emerge you olive system";
+var mnemonic = "blame torch east saddle hill puppy bargain cat saddle else certain fall";

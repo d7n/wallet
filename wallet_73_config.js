@@ -1,1 +1,1 @@
-var mnemonic = "heart explain robust spoon water few brother inner curious index derive excuse";
+var mnemonic = "bar there basket price equip degree total solution fun relax asthma caught";

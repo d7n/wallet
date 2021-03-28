@@ -1,1 +1,1 @@
-var mnemonic = "confirm punch grape dinosaur window degree office hobby kid hood punch move";
+var mnemonic = "language advice refuse shift verb birth above panel gauge remove polar analyst";

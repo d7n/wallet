@@ -1,1 +1,1 @@
-var mnemonic = "slot betray key dirt mom tool title dad trap mixture bring note";
+var mnemonic = "horror purse dutch park appear fit supply winter depth want shy brass";

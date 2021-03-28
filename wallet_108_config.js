@@ -1,1 +1,1 @@
-var mnemonic = "agree stove tired weird warm empty airport reunion forest swamp face claim";
+var mnemonic = "armor snap suggest more frequent cactus iron pyramid ribbon pass gloom seek";

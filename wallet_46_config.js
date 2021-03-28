@@ -1,1 +1,1 @@
-var mnemonic = "digital acquire result trouble twist tail promote police jewel uphold world ripple";
+var mnemonic = "ski knock across garage goddess chalk road snap cement armor quality solution";

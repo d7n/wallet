@@ -1,1 +1,1 @@
-var mnemonic = "orchard kitchen curve nuclear earth flag kitchen donor fruit chimney phrase obscure";
+var mnemonic = "file reunion tissue boost dwarf occur vivid lyrics van broken cheap blanket";

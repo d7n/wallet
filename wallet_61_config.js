@@ -1,1 +1,1 @@
-var mnemonic = "method casino surface wolf daring scorpion narrow diesel coconut critic curious play";
+var mnemonic = "ginger crop defense mesh bike cheap layer text bottom outer lava bus";

@@ -1,1 +1,1 @@
-var mnemonic = "notable donkey equip crouch chalk country olympic pudding extra candy gift reason";
+var mnemonic = "thunder tool version stool squeeze donkey thought public settle meat ridge assist";

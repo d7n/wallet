@@ -1,1 +1,1 @@
-var mnemonic = "faith shrimp fresh hold fan patch detect trust dove grit ramp south";
+var mnemonic = "element stuff wild fabric rebel work town average transfer school museum river";

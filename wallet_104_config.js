@@ -1,1 +1,1 @@
-var mnemonic = "zoo news swear tree main vote dynamic boil cactus design arch miracle";
+var mnemonic = "matter north leave subway arrow trick swap property beyond sleep senior spot";

@@ -1,1 +1,1 @@
-var mnemonic = "insect already fork scan force general cup latin cousin badge lamp defense";
+var mnemonic = "orient demise junior estate rack until flat surge simple mutual smooth ozone";

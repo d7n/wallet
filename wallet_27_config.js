@@ -1,1 +1,1 @@
-var mnemonic = "electric share brand cement ready glove thank spice pear bring category harsh";
+var mnemonic = "laptop lion together gasp behind sponsor gate property recipe income shiver bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "clog sleep perfect argue what buddy twin essay embrace charge screen slab";
+var mnemonic = "key turtle equal profit celery claw high end distance funny bind oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "amateur dust satoshi ladder axis surprise young voice nasty magic crouch canal";
+var mnemonic = "post olympic dinner basket focus unknown where harvest undo ability bleak humble";

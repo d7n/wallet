@@ -1,1 +1,1 @@
-var mnemonic = "jeans raccoon inject myth team obey derive differ moment model street human";
+var mnemonic = "upper cluster random primary sport used wash hockey wealth loan refuse length";

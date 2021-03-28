@@ -1,1 +1,1 @@
-var mnemonic = "resource exact arrive virus zebra silly soldier proof bitter rescue lonely clarify";
+var mnemonic = "master because census bone fall matter sun twice crop gospel hurry ankle";

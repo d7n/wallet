@@ -1,1 +1,1 @@
-var mnemonic = "reject shine wealth shrug process bring absorb basic uncover rocket session hire";
+var mnemonic = "search method doctor someone obscure judge swallow quit pass hollow disagree state";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle slogan slogan ostrich hint candy topple blade electric marine brain wave";
+var mnemonic = "route wrap afford process awful tourist assault find load devote erase arch";

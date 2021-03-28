@@ -1,1 +1,1 @@
-var mnemonic = "trick throw habit fitness subway auction such reject grief accident onion finger";
+var mnemonic = "nephew cross box rain time vivid blouse observe person wrestle service silly";

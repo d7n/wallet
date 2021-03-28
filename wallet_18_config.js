@@ -1,1 +1,1 @@
-var mnemonic = "humor deer gasp crystal announce enhance renew bird winter motor debate claim";
+var mnemonic = "off style ring payment swift aisle rhythm final monkey federal round swallow";

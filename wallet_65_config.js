@@ -1,1 +1,1 @@
-var mnemonic = "kid reopen simple seven stock face orchard lazy argue spin actress solution";
+var mnemonic = "owner element valid useful bomb uncle awake improve mystery parade topic wear";

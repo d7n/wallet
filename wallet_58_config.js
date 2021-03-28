@@ -1,1 +1,1 @@
-var mnemonic = "list hawk live bacon whisper today sick vital pyramid cradle barely flower";
+var mnemonic = "wish emotion round lend erupt danger prison athlete wasp tenant weather assist";

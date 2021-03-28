@@ -1,1 +1,1 @@
-var mnemonic = "company toss fiction diet april toe scrap album danger glimpse image sniff";
+var mnemonic = "current good engage crouch spatial plastic suggest ripple omit security october merit";

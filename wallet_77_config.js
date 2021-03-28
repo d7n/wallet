@@ -1,1 +1,1 @@
-var mnemonic = "drop lesson before high slab raise decrease half sniff risk glad old";
+var mnemonic = "provide little endless column fantasy attract similar winner share now diary table";

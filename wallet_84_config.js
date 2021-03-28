@@ -1,1 +1,1 @@
-var mnemonic = "pencil blue position great immune dose common gift argue bid song throw";
+var mnemonic = "crane apart unable assault sausage pizza news lumber play cup manual firm";

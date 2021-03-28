@@ -1,1 +1,1 @@
-var mnemonic = "swing sorry agent trip beauty chief inherit fabric consider reform submit gate";
+var mnemonic = "slot uncle emotion prepare stand alcohol figure capital burst panther vault melody";

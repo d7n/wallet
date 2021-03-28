@@ -1,1 +1,1 @@
-var mnemonic = "finger afford mango razor walk tennis theory dry put route boring now";
+var mnemonic = "bike banner angry divorce slice night infant mad huge pistol artist safe";

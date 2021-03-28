@@ -1,1 +1,1 @@
-var mnemonic = "illegal eight entire skill wood position moon wish stumble bacon win evoke";
+var mnemonic = "glow plastic december business agent carpet another fog bleak toward region parent";

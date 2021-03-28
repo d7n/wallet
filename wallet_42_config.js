@@ -1,1 +1,1 @@
-var mnemonic = "place kiwi shallow poem certain tuna bag clarify swarm gentle actress coast";
+var mnemonic = "empty echo track upset vital quantum hint fox raven edge trumpet hard";

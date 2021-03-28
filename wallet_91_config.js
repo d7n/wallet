@@ -1,1 +1,1 @@
-var mnemonic = "purity intact lyrics pledge foam few adapt ticket comic improve enjoy wolf";
+var mnemonic = "pitch era exile comic version cross burden tomorrow disease below circle muffin";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry allow horse gospel stone panic swamp order liberty adjust style dad";
+var mnemonic = "what search exchange abandon edit install tattoo there replace vapor used glad";

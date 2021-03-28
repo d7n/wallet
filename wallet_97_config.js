@@ -1,1 +1,1 @@
-var mnemonic = "weekend scatter charge mystery few climb fetch skill desk notable master hunt";
+var mnemonic = "fetch blast tragic script submit immune lunch youth same loyal dinner junior";

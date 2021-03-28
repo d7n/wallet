@@ -1,1 +1,1 @@
-var mnemonic = "odor draft brisk practice enter sugar fossil dragon muffin real trap category";
+var mnemonic = "logic wife human net leisure release erosion notice vocal all bless foil";

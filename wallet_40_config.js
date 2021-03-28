@@ -1,1 +1,1 @@
-var mnemonic = "range electric alien open mushroom banana twelve naive fence pull library chef";
+var mnemonic = "attack dash true aerobic eagle weather spoon treat town critic chef check";

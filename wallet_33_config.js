@@ -1,1 +1,1 @@
-var mnemonic = "scene upset trip brave artefact flush lyrics style flat scene furnace large";
+var mnemonic = "ramp spoon gown crane scene episode scorpion cabin siren reject heart tail";

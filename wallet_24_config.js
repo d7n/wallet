@@ -1,1 +1,1 @@
-var mnemonic = "ask laugh fury casino tooth acquire please rocket valley income oval horror";
+var mnemonic = "nature sunny regret crazy velvet cream level deliver rice raise soul laugh";

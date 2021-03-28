@@ -1,1 +1,1 @@
-var mnemonic = "rack dutch flip raise output spy prosper soon scissors sudden mass idle";
+var mnemonic = "cream alley proof dirt alley timber when business search attack oil clap";

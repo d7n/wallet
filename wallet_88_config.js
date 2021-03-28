@@ -1,1 +1,1 @@
-var mnemonic = "comfort upper cement nation naive way crunch salt video high finish outside";
+var mnemonic = "receive pelican hint note around toilet earn alone dust wrap hockey spare";

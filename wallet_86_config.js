@@ -1,1 +1,1 @@
-var mnemonic = "east effort metal daughter shove poet region embark puppy rocket rapid daughter";
+var mnemonic = "mechanic more happy wish blood toss jeans hawk garbage gather science dynamic";

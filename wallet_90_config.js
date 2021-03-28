@@ -1,1 +1,1 @@
-var mnemonic = "bridge number current spoil suffer universe water industry doll erosion inquiry board";
+var mnemonic = "rhythm humble drop genius junior phrase vocal aware enjoy machine doll squirrel";

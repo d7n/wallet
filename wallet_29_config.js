@@ -1,1 +1,1 @@
-var mnemonic = "auction uphold diesel focus aspect thumb coast pill daring major already stay";
+var mnemonic = "frozen spy elephant banner rabbit silent ribbon short laundry tourist finish equal";

@@ -1,1 +1,1 @@
-var mnemonic = "panther morning risk fuel pill clock amazing ceiling three virtual denial very";
+var mnemonic = "park lunch marriage spider night today water chef assume artefact fetch cage";

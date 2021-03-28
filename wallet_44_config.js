@@ -1,1 +1,1 @@
-var mnemonic = "imitate media armed solar unfold have adult orient pill horror model fantasy";
+var mnemonic = "acid bag impact grain people jar shoe response cycle exact dry latin";

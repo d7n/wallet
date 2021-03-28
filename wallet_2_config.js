@@ -1,1 +1,1 @@
-var mnemonic = "fan episode virtual health uncle walnut marine damp stem creek jeans jealous";
+var mnemonic = "math deliver purpose taxi forget bridge clerk drastic car eyebrow detect swear";

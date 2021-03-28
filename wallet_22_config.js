@@ -1,1 +1,1 @@
-var mnemonic = "zoo crane leader rail borrow flag word tuition bulb wife crunch success";
+var mnemonic = "steak two trend blind board stay squeeze violin survey mad chair cancel";

@@ -1,1 +1,1 @@
-var mnemonic = "gap brand else shallow crew spread shiver inject build alley turtle artefact";
+var mnemonic = "they wet winner tonight pond initial human replace boss tenant ribbon river";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs enhance ceiling toy year physical program fortune kidney similar extra mercy";
+var mnemonic = "ring rack october stick depth panda lens catch certain unable name become";

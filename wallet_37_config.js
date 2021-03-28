@@ -1,1 +1,1 @@
-var mnemonic = "float brush rival bar famous project bird digital update frame float busy";
+var mnemonic = "hunt trick naive recipe twist sight exercise infant rabbit entry material deny";

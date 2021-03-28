@@ -1,1 +1,1 @@
-var mnemonic = "ethics menu develop river coast vintage abuse squeeze design spend during sugar";
+var mnemonic = "dream alien beach find slide arctic boss fix all enrich leader nice";

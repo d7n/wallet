@@ -1,1 +1,1 @@
-var mnemonic = "cash barrel resemble donkey face bamboo patient steak cry struggle law glimpse";
+var mnemonic = "since three believe convince delay gym fever bridge engage mansion spoon useless";

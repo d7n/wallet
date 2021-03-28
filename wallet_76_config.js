@@ -1,1 +1,1 @@
-var mnemonic = "opera industry wash away other better when joke section final useless broccoli";
+var mnemonic = "reveal defense traffic rival timber season speed grief wink gun equal nephew";

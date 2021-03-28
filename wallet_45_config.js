@@ -1,1 +1,1 @@
-var mnemonic = "roof cheap valve unfair leaf shift raccoon limit cup spice aware ready";
+var mnemonic = "random elite immune insane climb occur rebuild carbon donkey expect palace state";

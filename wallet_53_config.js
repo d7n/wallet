@@ -1,1 +1,1 @@
-var mnemonic = "buddy cabbage pluck mosquito twice pig diary sniff wolf unknown diesel weasel";
+var mnemonic = "desert tube example raccoon lucky neck move country hamster element doctor between";

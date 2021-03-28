@@ -1,1 +1,1 @@
-var mnemonic = "help penalty husband athlete vicious portion frog current idea jewel force enough";
+var mnemonic = "crucial thunder danger chapter give visa trigger choose gasp pair catch basic";

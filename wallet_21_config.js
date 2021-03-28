@@ -1,1 +1,1 @@
-var mnemonic = "tape high hungry faith glare paddle can valid right despair spray grunt";
+var mnemonic = "offer doctor casual country brown film arch discover embrace kiwi adult refuse";

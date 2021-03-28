@@ -1,1 +1,1 @@
-var mnemonic = "enter shiver outdoor exile cluster network brain negative latin receive dove boost";
+var mnemonic = "cereal drop comic tunnel pitch valid century never egg pool detail north";

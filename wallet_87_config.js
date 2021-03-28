@@ -1,1 +1,1 @@
-var mnemonic = "hurdle shrimp minute dirt kingdom acid fine goddess utility grid hazard venture";
+var mnemonic = "have wreck worry glory paddle cliff dry dolphin acid correct oyster mad";

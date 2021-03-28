@@ -1,1 +1,1 @@
-var mnemonic = "abandon photo plastic remind use start open pigeon crane uphold cave wine";
+var mnemonic = "pistol erode cash special snow garden raven click type goat pizza own";

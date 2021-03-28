@@ -1,1 +1,1 @@
-var mnemonic = "inflict ivory until black inhale atom borrow jar knock hand detect opera";
+var mnemonic = "barrel company biology then banana whale manage evoke garment derive laugh cannon";

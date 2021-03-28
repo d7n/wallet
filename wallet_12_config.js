@@ -1,1 +1,1 @@
-var mnemonic = "tunnel fiscal submit ring heavy equip net rifle often opera feel cricket";
+var mnemonic = "juice will witness member suit finish curtain ramp drastic option fluid harvest";

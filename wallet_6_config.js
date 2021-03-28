@@ -1,1 +1,1 @@
-var mnemonic = "brass lottery help entire repeat metal city scale skull narrow grant cram";
+var mnemonic = "shy initial lemon sea breeze polar library truly cram muffin exhaust impact";

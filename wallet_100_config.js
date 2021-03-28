@@ -1,1 +1,1 @@
-var mnemonic = "morning truth deer busy library neither rent wasp muffin shove injury today";
+var mnemonic = "sunset soap snow deliver swamp chief cool gallery salad fork used vehicle";

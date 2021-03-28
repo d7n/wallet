@@ -1,1 +1,1 @@
-var mnemonic = "test avoid crime merit volcano inmate toast sport soccer remind kind transfer";
+var mnemonic = "glory identify gossip hazard meat lamp light spend lens tool confirm number";

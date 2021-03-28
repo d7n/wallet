@@ -1,1 +1,1 @@
-var mnemonic = "stock dwarf dentist feature peace shoot cricket carpet bid horse doll next";
+var mnemonic = "coin amount post lake material foam trick mobile average shaft vanish cave";

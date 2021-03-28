@@ -1,1 +1,1 @@
-var mnemonic = "human general visit remain clap antenna solve liberty gate estate toast satisfy";
+var mnemonic = "history close atom treat afraid can domain fog wink fury hire vicious";

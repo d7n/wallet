@@ -1,1 +1,1 @@
-var mnemonic = "scatter else husband market climb scrub kangaroo multiply gesture left add august";
+var mnemonic = "switch return develop arctic vast mom will range toe cable mandate tourist";

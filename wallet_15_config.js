@@ -1,1 +1,1 @@
-var mnemonic = "novel pepper shiver stick grocery east venue subway bullet staff bring soon";
+var mnemonic = "alone long figure obey enrich work you basket embrace rude host book";

@@ -1,1 +1,1 @@
-var mnemonic = "token front valve improve prize coconut sample recipe squeeze guard surge suggest";
+var mnemonic = "deal beef disorder liar split leaf gain nurse vibrant skull fortune object";

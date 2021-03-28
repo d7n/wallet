@@ -1,1 +1,1 @@
-var mnemonic = "ripple dash cargo name winter cry pottery section useful kid high envelope";
+var mnemonic = "palace parrot tiger honey diary forum solar invest sock tag divide switch";

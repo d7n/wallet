@@ -1,1 +1,1 @@
-var mnemonic = "retire average peace cushion picture knock board try ridge alone bike excuse";
+var mnemonic = "soap broccoli wrist drill flip pear window approve oblige zero art field";

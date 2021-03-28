@@ -1,1 +1,1 @@
-var mnemonic = "fly cargo retire congress baby decorate eye another health ecology author future";
+var mnemonic = "elbow home glance decorate illness squirrel original sort beyond method jacket labor";

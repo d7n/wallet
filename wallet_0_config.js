@@ -1,1 +1,1 @@
-var mnemonic = "knock lesson expire giraffe hotel raccoon olive cigar civil dice salt axis";
+var mnemonic = "trust label upgrade kiss news afraid slogan bottom length armed float walk";

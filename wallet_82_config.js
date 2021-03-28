@@ -1,1 +1,1 @@
-var mnemonic = "resource science slice aisle stock damp wise mesh spend brown picnic move";
+var mnemonic = "alarm nothing bachelor soda beef regret immune hen photo pond path suggest";

@@ -1,1 +1,1 @@
-var mnemonic = "owner disease shock sleep pottery brush spatial since garlic insect worth early";
+var mnemonic = "fence river poverty vault domain trim response truth weather expose floor monitor";

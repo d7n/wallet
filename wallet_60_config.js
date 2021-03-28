@@ -1,1 +1,1 @@
-var mnemonic = "push sword pitch august core correct boat accuse limit target siege bone";
+var mnemonic = "fancy pool seek tube pear bronze twist valid release silver next frequent";
