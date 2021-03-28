@@ -1,1 +1,1 @@
-var mnemonic = "strong valve that cream wife dilemma armor add stumble skull okay bread";
+var mnemonic = "air sister crisp grocery control salmon sting fine asset depend gown public";

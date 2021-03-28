@@ -1,1 +1,1 @@
-var mnemonic = "leader beauty total second wage rich broccoli cram device velvet stage private";
+var mnemonic = "trade step anxiety slow loop consider curtain alien brand height youth screen";

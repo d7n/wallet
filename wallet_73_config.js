@@ -1,1 +1,1 @@
-var mnemonic = "impulse capital fortune toilet wolf twice true cable prize scrub again token";
+var mnemonic = "fine secret pepper message between neutral aunt frozen artefact wonder pottery connect";

@@ -1,1 +1,1 @@
-var mnemonic = "leaf rather light crumble have expect ahead more door street announce correct";
+var mnemonic = "exclude quit derive input keep deny admit call denial tired exchange above";

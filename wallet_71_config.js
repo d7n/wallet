@@ -1,1 +1,1 @@
-var mnemonic = "ahead net fork visa cruise alien kingdom broccoli exit hospital frame soft";
+var mnemonic = "poet labor useless blue melody filter panther curve will trend asthma light";

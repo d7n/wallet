@@ -1,1 +1,1 @@
-var mnemonic = "boring ensure word carbon grief knock damage column fruit okay north silent";
+var mnemonic = "sing endless toss earn usual lava wonder leisure captain control beauty guilt";

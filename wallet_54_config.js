@@ -1,1 +1,1 @@
-var mnemonic = "rival palace fan recall still defy room tonight correct achieve genuine near";
+var mnemonic = "all urban example rotate engine beach fiber utility riot broom weekend object";

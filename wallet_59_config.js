@@ -1,1 +1,1 @@
-var mnemonic = "curtain picnic limb party race sick because ice energy little key fiber";
+var mnemonic = "fetch soccer cluster debate tired plunge rubber laugh fashion play work load";

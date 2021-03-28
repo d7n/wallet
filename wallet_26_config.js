@@ -1,1 +1,1 @@
-var mnemonic = "confirm pioneer bean lounge piano country derive legal cricket convince timber inmate";
+var mnemonic = "planet option mechanic patrol cousin common fitness forum runway online hidden success";

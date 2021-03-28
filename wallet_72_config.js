@@ -1,1 +1,1 @@
-var mnemonic = "trust fantasy upon forest calm fiber duck heart property roast material aisle";
+var mnemonic = "remind hole large hub dinosaur brown jazz radio whale because famous chimney";

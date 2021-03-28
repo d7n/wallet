@@ -1,1 +1,1 @@
-var mnemonic = "black laundry injury employ leg umbrella sad clean space jelly possible fat";
+var mnemonic = "six woman state verify middle peace similar foil skull float tribe flip";

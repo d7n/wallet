@@ -1,1 +1,1 @@
-var mnemonic = "hill manage cost supreme jacket segment melt layer right grape know among";
+var mnemonic = "box impact echo trade wool tool insect rice hub boring brother lady";

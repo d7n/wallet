@@ -1,1 +1,1 @@
-var mnemonic = "lava bubble elevator call barrel bleak luxury virtual swear enough length segment";
+var mnemonic = "art else seed option anchor taxi initial shift rival amused remember plunge";

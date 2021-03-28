@@ -1,1 +1,1 @@
-var mnemonic = "humor side climb organ food innocent steak present budget scheme six person";
+var mnemonic = "survey derive yellow mother profit lawsuit tilt dismiss demand plate net auction";

@@ -1,1 +1,1 @@
-var mnemonic = "forum gentle extra saddle outside silver garlic subway heart melt filter absorb";
+var mnemonic = "love you grief razor level draft defy small glare adult when toward";

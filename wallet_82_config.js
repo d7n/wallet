@@ -1,1 +1,1 @@
-var mnemonic = "sniff shift sweet body umbrella response theory drama plastic rubber genre dial";
+var mnemonic = "benefit retire zoo demise border castle grunt endless more magic glimpse settle";

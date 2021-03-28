@@ -1,1 +1,1 @@
-var mnemonic = "depth giant eye opera turkey coyote slow own live robust error valve";
+var mnemonic = "kite exist upgrade panic staff crunch rebel range spirit silly episode hero";

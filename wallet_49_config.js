@@ -1,1 +1,1 @@
-var mnemonic = "buddy pride change tunnel agent aisle vital page outer dinner rule bacon";
+var mnemonic = "stable emotion puppy object infant shine grief miracle kidney knife toilet estate";

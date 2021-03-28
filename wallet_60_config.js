@@ -1,1 +1,1 @@
-var mnemonic = "shiver fee script fine hammer medal better ranch walk tobacco cradle rent";
+var mnemonic = "liberty fancy inject exercise pill paper you soap display behind catch help";

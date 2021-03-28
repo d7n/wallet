@@ -1,1 +1,1 @@
-var mnemonic = "obtain usual proud sponsor various casino hospital shallow jazz anchor fruit small";
+var mnemonic = "celery mercy depth must picnic danger odor remove output electric thumb second";

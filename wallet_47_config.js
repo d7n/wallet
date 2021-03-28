@@ -1,1 +1,1 @@
-var mnemonic = "vicious error oblige heart museum slogan crawl public topple sheriff foam work";
+var mnemonic = "wet decrease waste volume behind huge garlic record train learn dolphin flat";

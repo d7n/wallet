@@ -1,1 +1,1 @@
-var mnemonic = "heavy velvet still learn fringe shine cargo find photo dragon powder urge";
+var mnemonic = "foil invite marble yard exercise ramp enter squirrel agree family olympic combine";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt cake able maid robot whale cruise hurt fever discover drop yellow";
+var mnemonic = "surprise leave manual easily vanish empty antenna portion invite size tuna hub";

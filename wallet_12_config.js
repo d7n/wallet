@@ -1,1 +1,1 @@
-var mnemonic = "bike razor vivid panther blame abstract elevator gather spice member project design";
+var mnemonic = "shadow shove answer insane torch endorse black maximum interest power bench exercise";

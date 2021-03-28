@@ -1,1 +1,1 @@
-var mnemonic = "garage tape bleak initial empower train struggle slogan evidence march around ramp";
+var mnemonic = "dove oven hip already breeze false blanket bronze dose network credit embark";

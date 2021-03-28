@@ -1,1 +1,1 @@
-var mnemonic = "session come draw comfort claw senior speed bunker survey twice brief raven";
+var mnemonic = "gas uncover above enhance icon cherry rich grape sunny nest dolphin rescue";

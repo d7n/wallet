@@ -1,1 +1,1 @@
-var mnemonic = "finish hundred bitter excite genre bar sweet shove verb edge spy aerobic";
+var mnemonic = "sniff resist soft comfort almost slight stove two cube mule tuna journey";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb century state myth attitude because romance turn hour dentist scene leopard";
+var mnemonic = "enrich hold bag fold trophy belt spoon wet green rescue coil animal";

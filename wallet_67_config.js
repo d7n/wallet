@@ -1,1 +1,1 @@
-var mnemonic = "soap salon illegal increase whip garbage relax false opera load raw source";
+var mnemonic = "blood able slide child betray over dutch also better digital pony evoke";

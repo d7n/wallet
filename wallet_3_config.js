@@ -1,1 +1,1 @@
-var mnemonic = "theme infant happy bacon memory exit region pipe glow stone feel fitness";
+var mnemonic = "penalty donor blue disagree welcome onion conduct program helmet fitness call grab";

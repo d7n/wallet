@@ -1,1 +1,1 @@
-var mnemonic = "goose weasel alarm then runway fence smile dial essay south thing script";
+var mnemonic = "lecture year ignore immense reform corn mention relax hybrid minimum basket worry";

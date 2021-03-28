@@ -1,1 +1,1 @@
-var mnemonic = "input today gossip diamond solar speak little reason stool elegant path board";
+var mnemonic = "barely flash share abuse meat spring chicken canvas begin gold vivid brass";

@@ -1,1 +1,1 @@
-var mnemonic = "detail hamster antenna cement heavy primary reflect write knock uphold symptom remember";
+var mnemonic = "iron cover symptom normal sorry oval pond neck hamster bundle confirm fruit";

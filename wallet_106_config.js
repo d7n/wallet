@@ -1,1 +1,1 @@
-var mnemonic = "improve code once road taste else mail market verify seek donate foster";
+var mnemonic = "truly already catalog runway truly twice leisure demise oven crawl spider amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "pear hen wish resist upon festival rapid wire judge shop release used";
+var mnemonic = "sudden wide assist south ocean two train urge door outdoor dirt theme";

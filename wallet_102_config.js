@@ -1,1 +1,1 @@
-var mnemonic = "hundred annual rain found history february silent hungry jeans current history pass";
+var mnemonic = "heavy person maid video drop payment subject extend relief powder lumber asthma";

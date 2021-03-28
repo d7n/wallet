@@ -1,1 +1,1 @@
-var mnemonic = "scorpion anxiety raw luxury finger laundry ranch lend palace box item sugar";
+var mnemonic = "transfer wide provide ripple easy will verb laundry lumber abstract right goddess";

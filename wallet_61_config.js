@@ -1,1 +1,1 @@
-var mnemonic = "galaxy isolate alone myself diesel skate survey employ often verb pepper neutral";
+var mnemonic = "oak drift try promote modify smart oxygen dial tell hungry long fine";

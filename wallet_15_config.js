@@ -1,1 +1,1 @@
-var mnemonic = "junior summer aunt alone carbon large giraffe rice answer admit worth destroy";
+var mnemonic = "soup feel switch wood marriage wide kid fiber decorate market exact sound";

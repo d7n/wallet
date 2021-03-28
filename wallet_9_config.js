@@ -1,1 +1,1 @@
-var mnemonic = "hint pledge winter aerobic romance deliver vibrant square dish school whisper issue";
+var mnemonic = "exotic detect student warrior topic draw into demise connect pipe fame burst";

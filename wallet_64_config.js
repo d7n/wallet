@@ -1,1 +1,1 @@
-var mnemonic = "dilemma high base fiction ketchup area wait remind timber kiwi brass civil";
+var mnemonic = "strategy rule width cable good wonder dolphin motion despair involve business welcome";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin mail castle program seek gesture clump mushroom rookie silly multiply bachelor";
+var mnemonic = "cry post antenna unveil walk basic book must furnace cruel warm core";

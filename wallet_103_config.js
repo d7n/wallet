@@ -1,1 +1,1 @@
-var mnemonic = "best across promote debate warm glare auction faint pride similar confirm fly";
+var mnemonic = "leave virus bag drip witness ritual summer quote birth shiver over million";

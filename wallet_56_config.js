@@ -1,1 +1,1 @@
-var mnemonic = "flip pill fragile purchase magnet once able wrestle denial autumn voyage napkin";
+var mnemonic = "fetch mix expose nuclear chronic ancient seed legal world noodle black silly";

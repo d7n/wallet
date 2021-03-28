@@ -1,1 +1,1 @@
-var mnemonic = "beach prosper escape health leave fossil eager lonely light bag enter fetch";
+var mnemonic = "woman engage say snap make few celery label ribbon such snap retreat";

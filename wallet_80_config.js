@@ -1,1 +1,1 @@
-var mnemonic = "wool remain scan private human affair bomb scene wedding toss ripple museum";
+var mnemonic = "lobster dinner clock second column elephant gloom file over ivory dice grab";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate beauty fabric refuse garage chaos there prize next hood human tag";
+var mnemonic = "feed frozen sunny frame window identify cave defy rely pulse crumble secret";

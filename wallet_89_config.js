@@ -1,1 +1,1 @@
-var mnemonic = "right estate circle chapter will rich filter eight soul idle pig arrive";
+var mnemonic = "tape between noodle claw age lion arrange talent auto business pupil hospital";

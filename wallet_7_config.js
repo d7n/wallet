@@ -1,1 +1,1 @@
-var mnemonic = "toy chalk good stomach tired bring honey short submit gospel image slender";
+var mnemonic = "weapon spot seminar hospital catch balance protect glory post subject amazing input";

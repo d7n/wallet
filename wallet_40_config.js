@@ -1,1 +1,1 @@
-var mnemonic = "addict agree door achieve immense powder scare amused phrase wish oxygen cannon";
+var mnemonic = "critic goddess few evil poverty bag frog private spray slim soup try";

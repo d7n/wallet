@@ -1,1 +1,1 @@
-var mnemonic = "adapt clay cat tiger place learn eagle attend train lemon immense intact";
+var mnemonic = "cannon join general labor bitter fly connect provide assault decide grape razor";

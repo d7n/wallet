@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow season draw virtual barrel hedgehog away post honey dove aware grant";
+var mnemonic = "hover addict execute all payment cradle cool between humor bulb flee inject";

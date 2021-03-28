@@ -1,1 +1,1 @@
-var mnemonic = "tank dress flag tomorrow push patch project grid occur punch drip final";
+var mnemonic = "pen excuse risk mimic under stadium force year tunnel inmate bachelor enable";

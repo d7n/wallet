@@ -1,1 +1,1 @@
-var mnemonic = "cage super eagle grief ecology asset angle airport save walk ostrich write";
+var mnemonic = "blame tail empower outer pilot system noble believe giggle truck flee fringe";

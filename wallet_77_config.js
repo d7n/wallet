@@ -1,1 +1,1 @@
-var mnemonic = "little beyond witness tunnel fade poverty alarm capable mango differ man tonight";
+var mnemonic = "spice glory that glad crawl smile six sense daring menu first slight";

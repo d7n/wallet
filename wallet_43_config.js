@@ -1,1 +1,1 @@
-var mnemonic = "turn rather couple action tiny reform cabin ticket pond good tourist bonus";
+var mnemonic = "measure mean grace fresh december cute razor drip fitness day enjoy kingdom";

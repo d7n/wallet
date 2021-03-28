@@ -1,1 +1,1 @@
-var mnemonic = "ready hurdle vital gas weather scene reunion border uphold toward scissors circle";
+var mnemonic = "parade slender test salute basket chef visual trade artist skill cream moon";

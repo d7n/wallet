@@ -1,1 +1,1 @@
-var mnemonic = "north decrease vault someone festival damp tunnel lamp metal couple man normal";
+var mnemonic = "fade employ ozone body gold wave museum bottom rug balcony vast feed";

@@ -1,1 +1,1 @@
-var mnemonic = "limit invite forget loan wolf blade height allow sock wet bundle category";
+var mnemonic = "predict moon orphan unaware usage cake moon unlock guilt afraid apple total";

@@ -1,1 +1,1 @@
-var mnemonic = "knee wheel major yard chase grass travel reflect play dad dirt problem";
+var mnemonic = "month slogan trigger faith jelly sock balcony ceiling lamp ketchup neck wear";

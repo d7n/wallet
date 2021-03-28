@@ -1,1 +1,1 @@
-var mnemonic = "twenty spoil fancy piece arena bar rice hint dust chapter diesel usual";
+var mnemonic = "volcano magic bundle primary upgrade soda vapor winter hedgehog secret water civil";

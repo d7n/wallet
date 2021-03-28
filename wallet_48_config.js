@@ -1,1 +1,1 @@
-var mnemonic = "alert mouse sleep predict novel poem hamster tail electric moon flush primary";
+var mnemonic = "curve sorry rebuild lawn judge fan purpose rookie beyond exotic album juice";

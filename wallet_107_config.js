@@ -1,1 +1,1 @@
-var mnemonic = "rhythm interest someone learn tent trust memory soft drop buffalo decorate wave";
+var mnemonic = "radio wash glad manage industry remove awake daring slogan multiply erosion blade";

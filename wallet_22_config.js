@@ -1,1 +1,1 @@
-var mnemonic = "elbow plate hire sand solve owner keep curious sausage bring worth grab";
+var mnemonic = "morning volcano original retire grab oyster cram young glow scale illegal pool";

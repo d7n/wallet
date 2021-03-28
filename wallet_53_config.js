@@ -1,1 +1,1 @@
-var mnemonic = "rare design shuffle diet often parrot genius quantum swallow alert piece present";
+var mnemonic = "differ market arrow junk aware own place silver tortoise they girl sweet";

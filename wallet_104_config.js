@@ -1,1 +1,1 @@
-var mnemonic = "turtle detect clinic pool lunch write kidney prevent public indicate rate child";
+var mnemonic = "little lottery avocado dune marine dentist derive stove smart uncover field radar";

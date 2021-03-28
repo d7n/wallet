@@ -1,1 +1,1 @@
-var mnemonic = "choose process bulk chaos void chat ramp sustain spare vivid hood silly";
+var mnemonic = "boring extend card sausage oyster gown shadow below bring enemy vendor better";

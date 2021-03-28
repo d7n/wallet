@@ -1,1 +1,1 @@
-var mnemonic = "sausage eagle slender aware seek throw reject october comfort soft jelly eye";
+var mnemonic = "victory style eight lady impulse bicycle royal budget must drum artist turtle";

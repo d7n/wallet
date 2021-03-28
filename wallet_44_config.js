@@ -1,1 +1,1 @@
-var mnemonic = "nation same absurd magnet cannon measure dose record runway remain lobster just";
+var mnemonic = "sail theory sad view grant pear custom remind end category adapt share";

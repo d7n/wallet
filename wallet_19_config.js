@@ -1,1 +1,1 @@
-var mnemonic = "fiscal client front cactus gorilla admit man zoo voyage laundry cherry float";
+var mnemonic = "antique section dumb deal lava notice knock scout pill dismiss web differ";

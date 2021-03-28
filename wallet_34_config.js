@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow skin sleep deliver lobster craft begin cloud acquire cute lecture shine";
+var mnemonic = "purpose tired buddy inherit fatigue vacuum history catch opera advice shop link";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction fragile success steel parade main local put cupboard powder suggest armed";
+var mnemonic = "phone execute buffalo afford demand example push help define fatal broccoli spoil";

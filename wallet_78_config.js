@@ -1,1 +1,1 @@
-var mnemonic = "glance tonight spring equip monitor kid birth ritual accuse balcony method dawn";
+var mnemonic = "diagram hockey elevator exile olympic hover shy will under mind first satisfy";

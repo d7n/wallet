@@ -1,1 +1,1 @@
-var mnemonic = "army few punch fatigue shield carpet ostrich ready ranch roof smooth spirit";
+var mnemonic = "feed crack rescue cool glove luxury term muscle omit thought riot puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "walnut sign taste strong talk account hover grit bean thought robust need";
+var mnemonic = "ritual devote jump drift quick sponsor fox major pride fever crime best";

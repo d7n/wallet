@@ -1,1 +1,1 @@
-var mnemonic = "term aunt renew icon chat indicate banana feel candy shaft require tennis";
+var mnemonic = "cook anchor olympic mutual depth move imitate slot wealth sure box coil";

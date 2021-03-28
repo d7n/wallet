@@ -1,1 +1,1 @@
-var mnemonic = "warfare spatial soft toilet mix foil power hurry title alone table expand";
+var mnemonic = "defy risk melt birth toddler world direct blanket push demise luxury cushion";

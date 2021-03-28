@@ -1,1 +1,1 @@
-var mnemonic = "drill rich fee upon orchard spoon excite motor sauce turtle panther avoid";
+var mnemonic = "estate next similar ramp pumpkin recall frame popular spoil sign method million";

@@ -1,1 +1,1 @@
-var mnemonic = "frame expose develop march smoke vessel turn aspect dust situate target narrow";
+var mnemonic = "boil stable certain fall hurt science submit toss estate blood flash follow";

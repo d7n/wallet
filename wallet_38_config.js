@@ -1,1 +1,1 @@
-var mnemonic = "bean side gift panel dutch sudden diesel spice cricket walnut evolve weekend";
+var mnemonic = "cloth hunt series extend brief south eye erase pipe access affair boring";

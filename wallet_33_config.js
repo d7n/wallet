@@ -1,1 +1,1 @@
-var mnemonic = "fiction nerve remember antenna rely author fantasy bracket embark food boil inherit";
+var mnemonic = "autumn flee health assault behind where rival column music output face key";

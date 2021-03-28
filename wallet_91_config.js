@@ -1,1 +1,1 @@
-var mnemonic = "index point shadow gravity blast blood bicycle you piece move wasp glory";
+var mnemonic = "clerk awkward mix angle fuel satisfy emerge aspect job mesh begin defense";

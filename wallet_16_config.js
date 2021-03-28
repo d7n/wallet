@@ -1,1 +1,1 @@
-var mnemonic = "hour side market wreck heavy soup twelve worth elephant mansion soda slogan";
+var mnemonic = "census brush ghost eye clean little demise pitch common once like lab";

@@ -1,1 +1,1 @@
-var mnemonic = "color mad wrestle expose remove process talent melt pistol rack place come";
+var mnemonic = "fame state tongue predict news surface foot eyebrow lecture cherry decade language";

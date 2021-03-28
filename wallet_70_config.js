@@ -1,1 +1,1 @@
-var mnemonic = "dice that indoor galaxy picture goat school switch bus enforce ketchup purpose";
+var mnemonic = "inquiry talk push average lucky absurd riot normal canyon fuel loan promote";

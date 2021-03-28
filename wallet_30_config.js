@@ -1,1 +1,1 @@
-var mnemonic = "loyal absurd vague walk since undo excuse fiscal hazard fly glide leader";
+var mnemonic = "busy fluid silver indoor goddess return elegant regular crater giggle pudding know";

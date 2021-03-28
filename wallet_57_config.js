@@ -1,1 +1,1 @@
-var mnemonic = "front mean intact volcano sentence call ocean pelican sword slab bacon glue";
+var mnemonic = "sure hospital garage bright tonight ozone flat tag crucial tomato swallow warfare";

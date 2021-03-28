@@ -1,1 +1,1 @@
-var mnemonic = "fame service example win side extend predict detail minor health subway cigar";
+var mnemonic = "junk tragic chair label bulb coconut plate hard ugly miss civil supply";

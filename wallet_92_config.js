@@ -1,1 +1,1 @@
-var mnemonic = "mail reform cave region panda suspect pizza shrug ignore nothing climb derive";
+var mnemonic = "fancy glance gaze tomato survey mirror total acid amateur rare subway ocean";

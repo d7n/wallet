@@ -1,1 +1,1 @@
-var mnemonic = "situate crush slush humble vacant random wasp multiply left shrug agree fetch";
+var mnemonic = "art aware wedding dolphin person regular balance saddle joy bird token chronic";

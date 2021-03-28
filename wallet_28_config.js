@@ -1,1 +1,1 @@
-var mnemonic = "company romance anchor gain much decline tennis sniff celery quick above false";
+var mnemonic = "mango base memory canvas legal ski process arrive skirt tell puzzle deer";

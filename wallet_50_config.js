@@ -1,1 +1,1 @@
-var mnemonic = "cruel shoulder horn chalk frost swarm portion tank claim hazard invest idle";
+var mnemonic = "search candy biology target reject employ orange corn service animal melt abstract";

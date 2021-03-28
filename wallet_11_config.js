@@ -1,1 +1,1 @@
-var mnemonic = "old fantasy shallow dune machine enemy ladder expire goddess museum exile local";
+var mnemonic = "together goat drive bicycle equal like green host shift party moral science";
