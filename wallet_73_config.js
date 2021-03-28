@@ -1,1 +1,1 @@
-var mnemonic = "leg spawn taxi salon edge myth confirm method dirt cruise case blouse";
+var mnemonic = "romance main absorb pencil bulb image scorpion vague loop shield drive asthma";

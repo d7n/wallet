@@ -1,1 +1,1 @@
-var mnemonic = "witness lunch enforce rookie buffalo social toy number lava critic increase march";
+var mnemonic = "zone taxi alcohol sentence decline citizen speed pride picnic peace bargain vanish";

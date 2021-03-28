@@ -1,1 +1,1 @@
-var mnemonic = "black girl unhappy cool text calm spice address work always dial poverty";
+var mnemonic = "poem coil person tomorrow point outdoor novel tip casino guitar discover ship";

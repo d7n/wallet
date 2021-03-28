@@ -1,1 +1,1 @@
-var mnemonic = "indoor exercise column lounge unaware never garment fee october key option plate";
+var mnemonic = "boil actual hip anger pony grass year desert scatter marine escape benefit";

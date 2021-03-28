@@ -1,1 +1,1 @@
-var mnemonic = "dizzy nuclear diamond indicate property crop dream infant vintage boil erosion acid";
+var mnemonic = "portion entire chalk involve veteran muscle fetch sign acquire pretty fancy era";

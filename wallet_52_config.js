@@ -1,1 +1,1 @@
-var mnemonic = "rib blade medal chunk midnight bright news banner random emerge juice reunion";
+var mnemonic = "soup brain skin smooth bounce detail reward vote check athlete about harbor";

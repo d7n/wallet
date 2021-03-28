@@ -1,1 +1,1 @@
-var mnemonic = "right betray filter kitten fiscal dose indoor time eyebrow delay file budget";
+var mnemonic = "squeeze assist trouble neck deal width evolve flame circle oblige black fog";

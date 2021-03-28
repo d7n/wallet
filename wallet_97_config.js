@@ -1,1 +1,1 @@
-var mnemonic = "acid become success vanish say unique seminar arrow pulp congress identify gorilla";
+var mnemonic = "congress rubber problem guitar imitate miss enrich cancel shell object junk country";

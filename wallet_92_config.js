@@ -1,1 +1,1 @@
-var mnemonic = "miss hidden february trip diary purity spell correct mention stomach movie sock";
+var mnemonic = "tail angle sauce orchard feature army entry square chicken will harsh rabbit";

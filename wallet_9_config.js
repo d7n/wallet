@@ -1,1 +1,1 @@
-var mnemonic = "march tobacco pencil decide rib bonus bundle ordinary impose pill wonder march";
+var mnemonic = "tortoise mushroom trust provide lounge dentist certain estate popular staff will notable";

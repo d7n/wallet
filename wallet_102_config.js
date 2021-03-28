@@ -1,1 +1,1 @@
-var mnemonic = "execute relief insane visual blanket hour fat predict choice level taste check";
+var mnemonic = "soap october vague pen drop finger timber code very tornado narrow clay";

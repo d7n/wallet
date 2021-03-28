@@ -1,1 +1,1 @@
-var mnemonic = "giggle glass chalk valve deputy buffalo strategy top minimum balcony shadow thrive";
+var mnemonic = "diagram royal field girl involve harbor quantum ribbon excuse blur nerve person";

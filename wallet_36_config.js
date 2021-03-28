@@ -1,1 +1,1 @@
-var mnemonic = "warfare anchor random reform paper sock cake defy hire permit town reflect";
+var mnemonic = "away tide moral mother bunker hotel deer stadium subject fork ship demise";

@@ -1,1 +1,1 @@
-var mnemonic = "devote shove armed drop bench soldier fantasy million vintage harvest pave either";
+var mnemonic = "swap wire rack town casual victory garlic about winter width exhibit level";

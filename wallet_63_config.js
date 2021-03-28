@@ -1,1 +1,1 @@
-var mnemonic = "shadow long clarify loyal twice fat film ordinary saddle scrub key spike";
+var mnemonic = "job swear lyrics common pig beach crash lift often walk drum sense";

@@ -1,1 +1,1 @@
-var mnemonic = "melody heavy away deputy laptop coin chief apart afford video address defy";
+var mnemonic = "december odor junk fruit eager alert link sand husband antenna wisdom lazy";

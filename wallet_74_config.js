@@ -1,1 +1,1 @@
-var mnemonic = "clock foot ripple battle ship butter illegal lyrics witness dawn merit arm";
+var mnemonic = "track humble question squeeze poet town orphan father hero income guess program";

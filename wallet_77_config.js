@@ -1,1 +1,1 @@
-var mnemonic = "type engine search suspect village gate advice honey early rough power task";
+var mnemonic = "duck state blast slot mutual oven enemy sauce sustain deputy sight garlic";

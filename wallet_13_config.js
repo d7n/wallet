@@ -1,1 +1,1 @@
-var mnemonic = "furnace decide crawl youth strong divorce erode churn split ketchup dynamic glue";
+var mnemonic = "document joke tennis joy actress scale inherit enhance obey depth symptom trim";

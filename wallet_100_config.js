@@ -1,1 +1,1 @@
-var mnemonic = "pact invite rare trend tiny dynamic output sauce toward holiday kind improve";
+var mnemonic = "abstract sunset piece pole apple canoe spell wink insect plug blood cup";

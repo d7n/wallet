@@ -1,1 +1,1 @@
-var mnemonic = "repair pen ceiling skirt video able glare when oblige cash frown together";
+var mnemonic = "zero huge wagon skate rebuild rose castle old film saddle tank dizzy";

@@ -1,1 +1,1 @@
-var mnemonic = "gun orphan name cricket crouch guard wheel athlete art wool butter real";
+var mnemonic = "potato swarm define fork embark save dish junk physical aware village romance";

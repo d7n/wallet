@@ -1,1 +1,1 @@
-var mnemonic = "prize general explain flavor devote craft river review mosquito suggest layer near";
+var mnemonic = "hand disease assault couple royal coil divide stable screen cloud float potato";

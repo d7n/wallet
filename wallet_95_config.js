@@ -1,1 +1,1 @@
-var mnemonic = "gasp chicken cage crash dish nerve duty frost music prosper into annual";
+var mnemonic = "fix banana where hazard elder goose champion luggage boring kick cousin oyster";

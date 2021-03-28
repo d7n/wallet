@@ -1,1 +1,1 @@
-var mnemonic = "segment tired neglect lesson mail squeeze peasant foster song eternal wait wrong";
+var mnemonic = "empower seed gun mass galaxy frozen flag whisper lobster copy pistol gallery";

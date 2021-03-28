@@ -1,1 +1,1 @@
-var mnemonic = "million century ritual scan ethics head ride multiply hazard vague erode snack";
+var mnemonic = "keen fossil spike welcome else diamond silver ocean inquiry ribbon firm notable";

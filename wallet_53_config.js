@@ -1,1 +1,1 @@
-var mnemonic = "canvas cabin capable toss moment novel stage once file scale few portion";
+var mnemonic = "wrestle invest inch pond hawk yellow shed quote spell under inch output";

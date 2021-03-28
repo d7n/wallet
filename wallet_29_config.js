@@ -1,1 +1,1 @@
-var mnemonic = "joke enemy minimum second course all earn position just benefit nephew lava";
+var mnemonic = "wash roast mask rug hobby shy must fold system critic symptom jealous";

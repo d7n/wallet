@@ -1,1 +1,1 @@
-var mnemonic = "opera author lottery awesome inhale trophy awesome anchor narrow level keen area";
+var mnemonic = "gap advance stem artist skate salad inhale hood pencil shove grain soft";

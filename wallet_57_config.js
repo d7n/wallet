@@ -1,1 +1,1 @@
-var mnemonic = "sail glimpse mesh coral cover mango second treat misery ask oppose increase";
+var mnemonic = "tree churn slender combine secret bachelor bird runway will drip earn keen";

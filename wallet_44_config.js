@@ -1,1 +1,1 @@
-var mnemonic = "symbol stamp still menu upset asset ski they culture profit icon flame";
+var mnemonic = "leaf wrap test essay exact spy grain boost jacket horse home around";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite lawsuit firm ready juice summer master solve smoke memory admit company";
+var mnemonic = "guilt pool crazy decrease cute option clap fat wheat razor beyond grief";

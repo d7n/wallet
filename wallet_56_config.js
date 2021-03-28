@@ -1,1 +1,1 @@
-var mnemonic = "net muffin ginger deny arch elephant toast once alien sleep crazy apart";
+var mnemonic = "dance filter clay wasp quiz power initial ripple minute sheriff diagram bid";

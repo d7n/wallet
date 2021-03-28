@@ -1,1 +1,1 @@
-var mnemonic = "switch omit engage certain upper okay wave material nothing crew miracle door";
+var mnemonic = "street pepper lecture six height recipe shaft fringe atom isolate desk security";

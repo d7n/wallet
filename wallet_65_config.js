@@ -1,1 +1,1 @@
-var mnemonic = "daughter half shop off trend moon dumb indoor rice brand illness gather";
+var mnemonic = "region oak scheme build frost dial divide addict provide income vital small";

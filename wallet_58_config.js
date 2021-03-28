@@ -1,1 +1,1 @@
-var mnemonic = "odor neutral another magnet ability collect galaxy very appear vehicle negative breeze";
+var mnemonic = "book age convince horror capable elder push fog slogan stamp correct annual";

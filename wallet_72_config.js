@@ -1,1 +1,1 @@
-var mnemonic = "flock hammer setup burden favorite artefact slab tip inflict book evolve fruit";
+var mnemonic = "can obey across strategy chapter punch damp pigeon punch grass trigger digital";

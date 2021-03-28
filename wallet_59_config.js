@@ -1,1 +1,1 @@
-var mnemonic = "list estate chaos soap velvet exact tide spike hundred pet trap horror";
+var mnemonic = "balance jewel spawn blade tent addict rack ostrich forest spatial kingdom alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "noise tuition box main collect glance reflect admit maximum under possible upper";
+var mnemonic = "jaguar mother sport begin risk pride mammal light afraid rigid cigar sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "decide dawn yellow fee please island clutch miss that lawn dignity gun";
+var mnemonic = "evil wood will jewel until maze february mobile travel easily crawl empty";

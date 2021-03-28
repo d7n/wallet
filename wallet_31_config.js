@@ -1,1 +1,1 @@
-var mnemonic = "century potato door abuse parrot lecture wedding fork toss moral rule suit";
+var mnemonic = "ice text carry into degree excuse snow reform thing sting sound book";

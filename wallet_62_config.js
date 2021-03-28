@@ -1,1 +1,1 @@
-var mnemonic = "oppose luxury across umbrella else problem park thank tent canvas quarter toss";
+var mnemonic = "side stamp salute clump ensure junior eternal virtual scrap divorce rival ginger";

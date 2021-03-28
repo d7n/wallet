@@ -1,1 +1,1 @@
-var mnemonic = "plate wear vehicle rose mad useful horn crane swear demise cabin doll";
+var mnemonic = "wheel online miracle divide pear clever potato math stadium survey erupt used";

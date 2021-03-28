@@ -1,1 +1,1 @@
-var mnemonic = "behave fashion observe tackle worth execute mirror bamboo filter same bubble guide";
+var mnemonic = "token region canoe awful record pencil smoke hockey hurdle coral adapt figure";

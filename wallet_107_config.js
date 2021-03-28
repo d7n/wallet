@@ -1,1 +1,1 @@
-var mnemonic = "chicken churn great inflict morning yellow document stable muscle follow age spring";
+var mnemonic = "garbage thank lend level three bacon hole obtain damp coin motor region";

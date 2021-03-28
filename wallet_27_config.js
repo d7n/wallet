@@ -1,1 +1,1 @@
-var mnemonic = "fashion mandate love unit margin cricket rose monster session fatigue clump oppose";
+var mnemonic = "mixed one first priority loop twelve pause mass cradle hurdle vocal side";

@@ -1,1 +1,1 @@
-var mnemonic = "glass final useless open empty worry high trim anger peace early insane";
+var mnemonic = "fruit screen trash trap pool frozen useful notice nature tackle sheriff open";

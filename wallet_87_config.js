@@ -1,1 +1,1 @@
-var mnemonic = "duty furnace clip dress remember manage please retire quick electric border live";
+var mnemonic = "kick young stuff method enter hub position beef tuition party income brand";

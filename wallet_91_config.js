@@ -1,1 +1,1 @@
-var mnemonic = "mask fog fortune clip shallow razor tribe bicycle bonus true alone cotton";
+var mnemonic = "debate dinosaur tag lens negative cheap park embrace approve zoo shoot diet";

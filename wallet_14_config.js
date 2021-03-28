@@ -1,1 +1,1 @@
-var mnemonic = "olympic tooth table drum rebel joy nasty project pluck scrap situate blast";
+var mnemonic = "raw mobile age same cool pole mushroom purity wave frozen super blush";

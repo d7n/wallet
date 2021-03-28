@@ -1,1 +1,1 @@
-var mnemonic = "mass disagree solution often solar trash tired pilot dilemma ahead answer give";
+var mnemonic = "direct odor winner tuition fantasy north alien orchard ridge glad gauge ozone";

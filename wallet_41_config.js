@@ -1,1 +1,1 @@
-var mnemonic = "click claw memory general employ obtain text engine clap seek tissue tuition";
+var mnemonic = "success tomorrow scan silly ranch river liberty enhance alone warrior shaft local";

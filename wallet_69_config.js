@@ -1,1 +1,1 @@
-var mnemonic = "bone polar question scale smoke picture country people goose mixture chef next";
+var mnemonic = "century warrior decorate artefact wealth trap blouse drink iron sad random decline";

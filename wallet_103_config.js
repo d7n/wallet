@@ -1,1 +1,1 @@
-var mnemonic = "pelican exact marble jungle light cluster meat can remove output rug empty";
+var mnemonic = "poet actor argue direct guitar record pretty camera say sponsor payment glove";

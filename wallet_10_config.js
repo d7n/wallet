@@ -1,1 +1,1 @@
-var mnemonic = "cannon utility push void novel immune segment hospital giggle anger among relief";
+var mnemonic = "end chimney follow wolf rival bachelor point artist result buddy talk burst";

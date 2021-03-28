@@ -1,1 +1,1 @@
-var mnemonic = "enough voice risk ketchup shine general post better chalk fresh impact promote";
+var mnemonic = "inside screen basic used only subject surface fish round grain swap citizen";

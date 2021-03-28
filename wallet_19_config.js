@@ -1,1 +1,1 @@
-var mnemonic = "access churn antenna garage state beach pair memory smoke agree opinion evil";
+var mnemonic = "burst silly real shove village sing mean call flash sand learn strategy";

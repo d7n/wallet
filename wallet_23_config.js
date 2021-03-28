@@ -1,1 +1,1 @@
-var mnemonic = "surround shiver hollow material time extra dance scale puppy wheat ribbon security";
+var mnemonic = "raw feed tree vacuum social exit piano good forest hospital hawk matter";

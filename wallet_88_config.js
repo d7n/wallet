@@ -1,1 +1,1 @@
-var mnemonic = "local stove illegal glide govern talent slush city illegal maid buyer moment";
+var mnemonic = "stone correct prefer reopen outside sight vehicle deal someone recipe someone super";

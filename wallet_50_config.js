@@ -1,1 +1,1 @@
-var mnemonic = "stairs orchard buddy strong nice lyrics chief patch link jazz music matrix";
+var mnemonic = "scrap wrist stand series entire miss pudding keep ripple protect moment wink";

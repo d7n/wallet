@@ -1,1 +1,1 @@
-var mnemonic = "fancy chicken paper elbow cereal staff addict gadget video demise song cable";
+var mnemonic = "cage wedding skill cake trap what gather guard alter jazz immense element";

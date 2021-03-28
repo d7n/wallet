@@ -1,1 +1,1 @@
-var mnemonic = "peace cram lift ring trade casual venture enrich lens orange unveil roof";
+var mnemonic = "powder tribe suggest lonely virus tourist cinnamon property ginger unaware resist grace";

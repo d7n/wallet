@@ -1,1 +1,1 @@
-var mnemonic = "reopen patch month lyrics engage tattoo tell shoe attend satisfy gloom sleep";
+var mnemonic = "voyage misery gun sense mixture rough tray fat weather yard boat organ";

@@ -1,1 +1,1 @@
-var mnemonic = "gap cloud chimney stuff build limit grunt outer about bronze jewel coach";
+var mnemonic = "damage tube fortune drip elephant yellow infant shed feel illegal flash unfold";

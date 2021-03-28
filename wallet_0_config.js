@@ -1,1 +1,1 @@
-var mnemonic = "mammal garment mail super slide coyote emotion eagle fox brick suit modify";
+var mnemonic = "entry distance clog disagree gown protect smoke ivory scissors sure december cheese";

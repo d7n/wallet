@@ -1,1 +1,1 @@
-var mnemonic = "asset cash measure divide divorce marine lizard gate divide tray pond fitness";
+var mnemonic = "stem tomorrow zero vacant retreat river aim salmon artefact cheap fancy surge";

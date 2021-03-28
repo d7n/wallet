@@ -1,1 +1,1 @@
-var mnemonic = "receive main swamp tuna tackle grain pulse able chaos cancel unknown jump";
+var mnemonic = "daughter view theme mother jelly task kind lumber fat afford dad aware";

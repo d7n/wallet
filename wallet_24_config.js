@@ -1,1 +1,1 @@
-var mnemonic = "husband bar resource report chuckle oyster crane glide slender mesh ability scheme";
+var mnemonic = "tip pledge render chef river sponsor capable coconut lemon jelly disorder oak";

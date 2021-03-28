@@ -1,1 +1,1 @@
-var mnemonic = "skate dry fix gravity trust unusual upgrade capital above cricket category toy";
+var mnemonic = "lake since boat cabin cloud robot armor burger hedgehog throw capable perfect";

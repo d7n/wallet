@@ -1,1 +1,1 @@
-var mnemonic = "tiny guide edit large copy hub explain ice fee elite normal devote";
+var mnemonic = "wrestle penalty outer book hover brisk will boat obey roast awesome annual";

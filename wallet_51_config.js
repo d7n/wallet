@@ -1,1 +1,1 @@
-var mnemonic = "car cube taste before fault coyote visit dust dynamic tragic wealth fiber";
+var mnemonic = "because federal letter volume birth chuckle already mistake sibling glue own return";

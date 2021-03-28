@@ -1,1 +1,1 @@
-var mnemonic = "purchase chuckle ensure feature verb shop ramp shuffle they mean promote miracle";
+var mnemonic = "protect mistake prevent alley smoke notice shield what silver pepper sauce badge";

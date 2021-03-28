@@ -1,1 +1,1 @@
-var mnemonic = "cheese admit envelope few pave inherit sound iron few stock sure smoke";
+var mnemonic = "fetch rose drop jealous follow bottom crop perfect plunge crawl bus laundry";

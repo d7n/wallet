@@ -1,1 +1,1 @@
-var mnemonic = "cigar actual main load north inmate key quarter repeat include pulp develop";
+var mnemonic = "lazy canal envelope wasp people extra sock razor sting dog couch weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "magnet kick thrive net steak good mom document bachelor tide similar palm";
+var mnemonic = "solar police struggle wool phone tag essence obey buddy scatter upgrade section";

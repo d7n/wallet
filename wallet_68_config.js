@@ -1,1 +1,1 @@
-var mnemonic = "sting door wave tail endorse cloth engage actor correct width person disease";
+var mnemonic = "deliver grit couple cancel cradle organ tower alien slow attack come result";

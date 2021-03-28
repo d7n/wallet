@@ -1,1 +1,1 @@
-var mnemonic = "chronic ring burger invest innocent girl toddler ribbon victory eternal include brush";
+var mnemonic = "laugh allow quality broccoli decade inject lucky process aspect seven chat learn";

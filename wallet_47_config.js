@@ -1,1 +1,1 @@
-var mnemonic = "board gown someone another hospital liquid armor omit equal feature margin sight";
+var mnemonic = "real fat salt nation knee liberty surround avoid buyer turkey cabin limb";

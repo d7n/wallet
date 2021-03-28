@@ -1,1 +1,1 @@
-var mnemonic = "scout century marble share rare pitch walk balance ski chair rescue limit";
+var mnemonic = "garment famous sauce option beyond legend resemble gold earth mixture shock opera";

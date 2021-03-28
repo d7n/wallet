@@ -1,1 +1,1 @@
-var mnemonic = "stable assist false genuine minor planet labor earth illness eager identify hen";
+var mnemonic = "daughter mobile depend exotic way sea slender alert tragic assist lunch boy";

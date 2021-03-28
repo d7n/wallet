@@ -1,1 +1,1 @@
-var mnemonic = "luxury enact middle twelve desert soldier derive joy spice season air blame";
+var mnemonic = "seek swift blue bounce pond minor play street slow ancient great female";

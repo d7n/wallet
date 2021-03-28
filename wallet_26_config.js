@@ -1,1 +1,1 @@
-var mnemonic = "scissors elite net group useful choice hold tip reduce inch security stem";
+var mnemonic = "hour ocean still chaos swim local flat note address view fall loud";

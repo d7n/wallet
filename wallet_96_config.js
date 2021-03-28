@@ -1,1 +1,1 @@
-var mnemonic = "slim stage improve style wrap exist lazy genre never plug fish lend";
+var mnemonic = "tuna shield witness nest swear point garage shadow bulk enable bunker close";

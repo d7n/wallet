@@ -1,1 +1,1 @@
-var mnemonic = "blouse rate jazz motion express solve sense mask aerobic gauge wide glory";
+var mnemonic = "raw ahead slot clean fruit reveal butter source cross aisle yard olive";

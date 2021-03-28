@@ -1,1 +1,1 @@
-var mnemonic = "fun athlete junk soap hurt check burst rain soda exchange seek mixed";
+var mnemonic = "chat sick field general aerobic wrap yard energy pumpkin fan jealous artist";

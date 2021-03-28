@@ -1,1 +1,1 @@
-var mnemonic = "remove diamond gun finger cluster situate exist keep craft gate catalog fire";
+var mnemonic = "century chaos draft absorb add promote replace example draw nephew tonight clutch";

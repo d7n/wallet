@@ -1,1 +1,1 @@
-var mnemonic = "render drum prepare riot daring desk move twist vintage staff morning rich";
+var mnemonic = "oblige hair way donkey uncover monkey abstract mixed force copper main govern";

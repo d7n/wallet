@@ -1,1 +1,1 @@
-var mnemonic = "doctor enact blind game asset fresh kid bargain orange tornado limb annual";
+var mnemonic = "else visit clay when regret moral grief spot okay slam file marble";

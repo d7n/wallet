@@ -1,1 +1,1 @@
-var mnemonic = "digital grape live butter gold bachelor unfair public east rude journey display";
+var mnemonic = "neither soul skin section frame robust brass anger snow valve damp disorder";

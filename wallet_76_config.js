@@ -1,1 +1,1 @@
-var mnemonic = "permit someone salmon security idea brave grab gasp exile bridge stumble balance";
+var mnemonic = "slam buddy lesson police wedding high dove wise oak mobile entire switch";

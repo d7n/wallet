@@ -1,1 +1,1 @@
-var mnemonic = "defense erode concert ensure black reward net powder nose logic hurry solar";
+var mnemonic = "oak minor inject second capital nerve prison fresh hidden curtain betray cousin";

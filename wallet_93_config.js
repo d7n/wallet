@@ -1,1 +1,1 @@
-var mnemonic = "rally tomorrow disorder avoid improve metal fashion brown lemon initial cage endless";
+var mnemonic = "reunion quarter permit issue dinner alpha breeze file century purse exact guilt";
