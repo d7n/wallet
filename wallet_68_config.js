@@ -1,1 +1,1 @@
-var mnemonic = "fantasy ritual flag quiz fluid sight inner axis message pluck snow brief";
+var mnemonic = "rabbit exotic hungry future during festival chase urge science phrase wild flat";

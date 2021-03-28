@@ -1,1 +1,1 @@
-var mnemonic = "decide any flock admit author avoid gun torch thing cram actress about";
+var mnemonic = "patient scrub gold any today original law million purity famous unveil language";

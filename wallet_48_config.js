@@ -1,1 +1,1 @@
-var mnemonic = "arch organ october analyst wheat omit mansion glance coach they ski travel";
+var mnemonic = "defy wheel stem fire prize security rhythm sunset vibrant relief retire end";

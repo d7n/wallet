@@ -1,1 +1,1 @@
-var mnemonic = "mammal energy announce august swear object casino pizza radio receive tenant innocent";
+var mnemonic = "act silent border churn sniff embark aware lobster mosquito sphere decade increase";

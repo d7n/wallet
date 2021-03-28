@@ -1,1 +1,1 @@
-var mnemonic = "youth chat citizen eagle viable gentle ozone strike summer miss arrest kiwi";
+var mnemonic = "warm empower skull estate indoor oxygen renew mom solid banana force pave";

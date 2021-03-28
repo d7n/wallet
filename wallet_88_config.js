@@ -1,1 +1,1 @@
-var mnemonic = "envelope click mask season social crew angry twist okay life aware tornado";
+var mnemonic = "doctor name stool record charge endless excess seek road torch volcano bicycle";

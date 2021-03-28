@@ -1,1 +1,1 @@
-var mnemonic = "tip enemy pill list enhance decorate layer member pigeon bird throw drill";
+var mnemonic = "defy relief sort mobile tip envelope dilemma mind black mushroom pyramid gentle";

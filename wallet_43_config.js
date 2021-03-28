@@ -1,1 +1,1 @@
-var mnemonic = "together can sand little vivid plunge tornado clinic move firm retreat forward";
+var mnemonic = "dismiss food acquire upper sand jewel ceiling know comfort spare tomorrow eternal";

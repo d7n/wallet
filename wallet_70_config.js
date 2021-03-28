@@ -1,1 +1,1 @@
-var mnemonic = "detail banana abuse elephant okay bulk cotton series town siren census call";
+var mnemonic = "caution brush match clump harsh logic mind oval pony pair violin brick";

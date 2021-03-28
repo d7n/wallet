@@ -1,1 +1,1 @@
-var mnemonic = "essay execute level rookie repair inhale improve neither frog chuckle flight fan";
+var mnemonic = "flee sample april neglect misery lady story little turtle avocado arrest ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "provide tornado photo crack chair catalog grunt escape pledge soda idea receive";
+var mnemonic = "opinion spice trend able fetch guess melody abandon humble busy rocket cable";

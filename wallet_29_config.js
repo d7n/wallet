@@ -1,1 +1,1 @@
-var mnemonic = "stay minor iron client fiction reject sentence alone assault security action slight";
+var mnemonic = "caught party success soul jelly surprise riot wasp moral position economy price";

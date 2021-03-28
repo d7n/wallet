@@ -1,1 +1,1 @@
-var mnemonic = "october disorder tomorrow oval table rose seed also unaware poverty fit tuna";
+var mnemonic = "tomato turtle ostrich orange witness motor pattern tenant captain lava garbage grow";

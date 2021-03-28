@@ -1,1 +1,1 @@
-var mnemonic = "win lucky sheriff female duty sample cost blind talent fan find pitch";
+var mnemonic = "round sustain author rabbit matrix filter van robust deputy donor defy zero";

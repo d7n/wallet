@@ -1,1 +1,1 @@
-var mnemonic = "ordinary child cage torch chuckle symptom hidden dream donor stay stuff civil";
+var mnemonic = "pottery road twice palace door gesture luggage couch utility decide panel oil";

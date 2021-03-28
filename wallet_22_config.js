@@ -1,1 +1,1 @@
-var mnemonic = "card injury cereal jungle raw win come slot wedding situate magnet parade";
+var mnemonic = "puzzle isolate sentence pole scrap zoo despair vanish sorry brother world melody";

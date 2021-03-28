@@ -1,1 +1,1 @@
-var mnemonic = "duck entire birth normal pluck desk loop earn same kangaroo pluck image";
+var mnemonic = "ankle oblige arrest medal toddler planet process truly divorce chalk please vapor";

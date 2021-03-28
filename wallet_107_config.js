@@ -1,1 +1,1 @@
-var mnemonic = "desk fix wealth amount virtual little erosion enough giant object voice man";
+var mnemonic = "food fashion buffalo improve license tumble sphere immune foot glue attitude seed";

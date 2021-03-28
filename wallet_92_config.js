@@ -1,1 +1,1 @@
-var mnemonic = "observe airport urban logic empty comfort praise sheriff board witness alien spring";
+var mnemonic = "cereal cheese any hand speed nerve frown junior mask scan actress owner";

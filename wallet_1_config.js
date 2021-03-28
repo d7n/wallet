@@ -1,1 +1,1 @@
-var mnemonic = "vibrant begin kitchen trumpet planet charge crystal comic miss tragic metal differ";
+var mnemonic = "whisper casino other profit grace thumb finger churn potato pledge morning morning";

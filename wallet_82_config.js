@@ -1,1 +1,1 @@
-var mnemonic = "pact canvas laundry bullet punch country manage reason attitude absent model amazing";
+var mnemonic = "tennis until draft original hamster multiply seven dolphin language lend edit service";

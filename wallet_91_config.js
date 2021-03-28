@@ -1,1 +1,1 @@
-var mnemonic = "birth angry life ahead tribe verb teach add warm shed live unit";
+var mnemonic = "uncover urge blue velvet cake mask benefit rabbit blanket vote saddle stay";

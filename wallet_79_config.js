@@ -1,1 +1,1 @@
-var mnemonic = "abuse hold reflect comfort april control unaware taxi guard rich window grief";
+var mnemonic = "sunset input urge manage invest right resemble chase type enlist valley ivory";

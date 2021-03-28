@@ -1,1 +1,1 @@
-var mnemonic = "spider benefit neither grape jewel lounge derive wing fit combine plunge travel";
+var mnemonic = "cement stick bitter produce page together holiday digital bacon chef destroy pact";

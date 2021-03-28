@@ -1,1 +1,1 @@
-var mnemonic = "book remove toast leaf ugly session magnet pigeon awkward scrub innocent filter";
+var mnemonic = "brush anxiety brain pluck energy clinic mixed sleep rail version zoo good";

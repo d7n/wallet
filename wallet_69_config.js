@@ -1,1 +1,1 @@
-var mnemonic = "route gadget potato thought rapid right sell south cloud congress unfair all";
+var mnemonic = "grant ill turtle save foil actress uphold shoulder rack broken scrap into";

@@ -1,1 +1,1 @@
-var mnemonic = "certain midnight bright bamboo fatigue legal number language human movie expect uniform";
+var mnemonic = "pencil cry shop radio boy keen melt romance athlete select remain tape";

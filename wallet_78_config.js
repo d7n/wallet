@@ -1,1 +1,1 @@
-var mnemonic = "runway asset point flip cycle attract document trend wrist used alter eagle";
+var mnemonic = "panel fire melody simple vote consider powder eternal draft network lamp share";

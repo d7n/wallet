@@ -1,1 +1,1 @@
-var mnemonic = "catalog vicious wood sustain october luggage child camera napkin stone armor later";
+var mnemonic = "razor voice marriage orbit myth focus moon distance recycle pistol table naive";

@@ -1,1 +1,1 @@
-var mnemonic = "put top demand other mandate beef fatigue comic tray mirror rack jump";
+var mnemonic = "reject rubber develop romance item hat rebuild script hero memory gloom chimney";

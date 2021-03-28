@@ -1,1 +1,1 @@
-var mnemonic = "mom team forget whisper gap wrestle ozone churn cereal quiz funny flight";
+var mnemonic = "control trim ripple boat collect resemble bomb aware behave castle discover fitness";

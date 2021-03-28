@@ -1,1 +1,1 @@
-var mnemonic = "virus raccoon error work fish pool penalty current minimum around special public";
+var mnemonic = "boat box bounce staff surge bomb student strong jewel casino ball flat";

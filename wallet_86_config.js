@@ -1,1 +1,1 @@
-var mnemonic = "uncle weapon vocal bright inspire item roast erupt arena balcony whale occur";
+var mnemonic = "wreck forum sauce much time mixed chase news liquid curtain rural mask";

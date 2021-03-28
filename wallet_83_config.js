@@ -1,1 +1,1 @@
-var mnemonic = "kind danger luggage response settle space flip flight square demise nuclear special";
+var mnemonic = "mansion winner horn guard tattoo grace blind economy few assume include raven";

@@ -1,1 +1,1 @@
-var mnemonic = "river abstract ankle click bamboo furnace drop boost next small vessel comfort";
+var mnemonic = "kiss survey arrive salt blade siege initial polar spot display scan vibrant";

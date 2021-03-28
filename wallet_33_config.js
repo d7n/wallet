@@ -1,1 +1,1 @@
-var mnemonic = "ladder picnic gloom tower thrive defy bright scale afraid life employ fit";
+var mnemonic = "thrive index combine relax upgrade traffic never version eager fragile globe toward";

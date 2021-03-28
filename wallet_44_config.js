@@ -1,1 +1,1 @@
-var mnemonic = "tag all cabin fan mushroom raven approve broken design gather crumble easy";
+var mnemonic = "expire rifle penalty flight follow flee now brick only elephant stick divorce";

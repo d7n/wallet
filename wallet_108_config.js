@@ -1,1 +1,1 @@
-var mnemonic = "achieve reduce piano unfold direct robust blade scrub essay tuition labor secret";
+var mnemonic = "balance pole purity busy glare hub impose shallow vivid sauce rural danger";

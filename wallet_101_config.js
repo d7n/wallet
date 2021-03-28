@@ -1,1 +1,1 @@
-var mnemonic = "upgrade sport rain neck poem mesh tonight slight topic cactus cost claim";
+var mnemonic = "three razor sail noodle notable catch tired maid room term artefact leader";

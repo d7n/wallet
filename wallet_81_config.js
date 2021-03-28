@@ -1,1 +1,1 @@
-var mnemonic = "north whale plug thunder hawk auto badge rapid recycle rather thrive explain";
+var mnemonic = "skate online fiction defy age whisper camera evidence myself series eagle jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden hip choose blind squirrel demise tired truth seven term cousin choice";
+var mnemonic = "waste moral enhance idea fall broom diary recycle vicious expand arctic poverty";

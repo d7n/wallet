@@ -1,1 +1,1 @@
-var mnemonic = "clog cabbage spoon visit grit skin alone dolphin subject device fat image";
+var mnemonic = "waste view surface park earth slogan bring mushroom enough panda seat nest";

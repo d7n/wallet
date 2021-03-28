@@ -1,1 +1,1 @@
-var mnemonic = "cream crane two shell fancy axis raise antenna sustain change poem chaos";
+var mnemonic = "settle wagon school earn luggage food cross keep wet dish crouch sun";

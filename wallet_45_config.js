@@ -1,1 +1,1 @@
-var mnemonic = "outdoor pelican extra steel novel liquid metal slice weird crater during link";
+var mnemonic = "exist slide ethics puzzle margin neck muffin panda salute try neutral strategy";

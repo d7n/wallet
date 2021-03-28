@@ -1,1 +1,1 @@
-var mnemonic = "they body hedgehog hurt toss envelope toe wrap bone advice skull picture";
+var mnemonic = "hover pave tube dash journey exhibit perfect relax solar slam ahead pet";

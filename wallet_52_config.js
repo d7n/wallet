@@ -1,1 +1,1 @@
-var mnemonic = "must use tower reform inch clarify idea easy state dwarf beach purpose";
+var mnemonic = "public sun cream course slim card vast local oval life side fatigue";

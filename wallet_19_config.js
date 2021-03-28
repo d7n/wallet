@@ -1,1 +1,1 @@
-var mnemonic = "night empty crowd fortune rival risk approve awkward useless arctic visual impact";
+var mnemonic = "casual public scare sudden laugh sad protect one prosper replace smile taste";

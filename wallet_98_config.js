@@ -1,1 +1,1 @@
-var mnemonic = "ritual soap stuff admit load royal allow hip garbage caught suggest head";
+var mnemonic = "remain onion cover tuition small suit still injury fetch photo puppy runway";

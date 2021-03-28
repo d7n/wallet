@@ -1,1 +1,1 @@
-var mnemonic = "promote section obscure model giraffe enact mind hunt festival range short soldier";
+var mnemonic = "spring idle canvas alarm theme fold virtual eyebrow icon soon chaos pony";

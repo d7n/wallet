@@ -1,1 +1,1 @@
-var mnemonic = "trend winner shoot lemon venture upgrade skull dignity hill jewel must velvet";
+var mnemonic = "school tobacco ride sting sheriff deer rescue undo learn dust core ozone";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe chase connect alcohol lottery whip pull stairs slow grain gallery bar";
+var mnemonic = "kid click inhale must artwork gossip motion actress winner option junior mirror";

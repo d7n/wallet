@@ -1,1 +1,1 @@
-var mnemonic = "sick outer frown impact cactus floor shine chronic garden other road toast";
+var mnemonic = "truth museum keep hedgehog mix analyst arm stumble job artwork sock shiver";

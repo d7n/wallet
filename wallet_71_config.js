@@ -1,1 +1,1 @@
-var mnemonic = "lyrics fiscal orphan focus close exhibit eagle siren budget spy rapid desert";
+var mnemonic = "crisp ketchup ensure distance fog child huge rail poem armor dust magic";

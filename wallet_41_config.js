@@ -1,1 +1,1 @@
-var mnemonic = "supreme cook course near alley garlic gate trigger roof economy shield velvet";
+var mnemonic = "human custom finger field pizza found false whisper surface pulse express shiver";

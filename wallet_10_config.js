@@ -1,1 +1,1 @@
-var mnemonic = "add host buffalo force drop pupil bubble mass domain month impact thrive";
+var mnemonic = "cargo art vivid dove tissue tortoise meadow share crash wife youth escape";

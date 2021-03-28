@@ -1,1 +1,1 @@
-var mnemonic = "patrol retire monitor inform focus olympic dutch plate phrase knock suit dad";
+var mnemonic = "depend feature license act able cricket trap luggage valve car gas soap";

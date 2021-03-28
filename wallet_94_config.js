@@ -1,1 +1,1 @@
-var mnemonic = "clutch birth know nuclear engage album keen medal arena ginger bargain camera";
+var mnemonic = "blade destroy bleak wedding away off wine social mail limit naive sample";

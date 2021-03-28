@@ -1,1 +1,1 @@
-var mnemonic = "price moral little solar march right melt cement egg disorder this negative";
+var mnemonic = "priority flat spy exotic blur coconut pair accident bracket option bind cousin";

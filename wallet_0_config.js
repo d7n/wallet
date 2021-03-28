@@ -1,1 +1,1 @@
-var mnemonic = "make remind shield guess crucial sister pony museum direct orbit annual thumb";
+var mnemonic = "hard blame radar upon hour elder reform start dad swim fix month";

@@ -1,1 +1,1 @@
-var mnemonic = "exist daughter fetch noble powder change ring begin visual time ceiling rule";
+var mnemonic = "bring imitate shoot craft only direct adapt legal castle choose illegal woman";

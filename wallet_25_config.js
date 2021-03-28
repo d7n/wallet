@@ -1,1 +1,1 @@
-var mnemonic = "true fame cool front glory pause pottery acoustic pupil country true panel";
+var mnemonic = "now upon script smoke juice waste faint exhaust green rapid neutral dust";

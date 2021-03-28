@@ -1,1 +1,1 @@
-var mnemonic = "mixture deposit piano eager suspect reduce expire bring cabin cycle evolve capable";
+var mnemonic = "worry where easy flee volcano evil beauty balance broken scout guard side";

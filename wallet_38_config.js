@@ -1,1 +1,1 @@
-var mnemonic = "snake various business flat man quality region correct birth rhythm joy dish";
+var mnemonic = "bridge impose benefit weasel detail salt voyage slide skin calm ready swallow";

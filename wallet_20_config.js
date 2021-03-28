@@ -1,1 +1,1 @@
-var mnemonic = "maid only report certain lamp foam plastic acid report owner board enhance";
+var mnemonic = "vanish bid soup letter hint noodle movie final gold artwork access deputy";

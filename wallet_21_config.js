@@ -1,1 +1,1 @@
-var mnemonic = "cup bird mesh nice pear bundle section shoulder hair romance hen rotate";
+var mnemonic = "quarter seminar hurdle ecology green split grab country paper roof elegant swamp";

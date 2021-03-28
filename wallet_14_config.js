@@ -1,1 +1,1 @@
-var mnemonic = "option aim clog because smoke blossom enhance absent forum game eye present";
+var mnemonic = "normal margin segment pole acid pilot match minute minute force valley sibling";

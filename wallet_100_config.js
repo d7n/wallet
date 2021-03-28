@@ -1,1 +1,1 @@
-var mnemonic = "picture rail jump name tool genuine tail shield funny basic student embody";
+var mnemonic = "salad seven leopard coyote tornado edit truck skin soul ability often pink";

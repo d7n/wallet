@@ -1,1 +1,1 @@
-var mnemonic = "category theory tent glove rent quarter census orbit horse attract spin empower";
+var mnemonic = "still guard company near broom agree situate champion manual donate weird eternal";

@@ -1,1 +1,1 @@
-var mnemonic = "believe silver weird original raise casino click inside dinosaur concert country artist";
+var mnemonic = "transfer coral elevator weird ecology update execute check blade record fall squeeze";

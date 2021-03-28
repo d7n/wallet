@@ -1,1 +1,1 @@
-var mnemonic = "razor laundry annual horse ozone interest poet clip mechanic pilot orphan match";
+var mnemonic = "bitter tourist remember deal cigar off champion crane movie also vibrant index";

@@ -1,1 +1,1 @@
-var mnemonic = "service satisfy kit assist dawn remember situate allow lab enter fitness culture";
+var mnemonic = "update height grow base demand truth wedding pill tank because office unaware";

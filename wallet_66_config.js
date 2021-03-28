@@ -1,1 +1,1 @@
-var mnemonic = "table page occur trip soap unusual spawn guard else analyst square check";
+var mnemonic = "stove finger before century increase border candy enhance drip test lunch ancient";

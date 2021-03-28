@@ -1,1 +1,1 @@
-var mnemonic = "glory noise rose mutual salmon cheese cargo upon dice image zoo ridge";
+var mnemonic = "extend reveal trial tail attitude ancient east kiss salt aisle disagree chief";

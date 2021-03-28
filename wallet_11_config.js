@@ -1,1 +1,1 @@
-var mnemonic = "mixed churn sheriff lonely area bachelor budget level spot design december birth";
+var mnemonic = "girl timber bunker denial current normal damp oven scan poem ahead brass";

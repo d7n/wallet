@@ -1,1 +1,1 @@
-var mnemonic = "initial worry divide cliff town once sort ask begin yellow ready help";
+var mnemonic = "trip often truck demise eyebrow pause festival thrive victory dune grow odor";

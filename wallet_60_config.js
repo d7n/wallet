@@ -1,1 +1,1 @@
-var mnemonic = "timber result illegal shuffle unusual voice magnet update stand use monitor cook";
+var mnemonic = "mutual monitor cable happy toe step dirt sister gun replace language cause";

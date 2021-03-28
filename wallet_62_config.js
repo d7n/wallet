@@ -1,1 +1,1 @@
-var mnemonic = "adjust license system assault real ask sad copy bridge injury hat adult";
+var mnemonic = "tortoise typical drink aisle physical dutch twist bulk cinnamon payment visa relief";

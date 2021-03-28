@@ -1,1 +1,1 @@
-var mnemonic = "flash reveal produce guess muscle number say oval text rose either liquid";
+var mnemonic = "forest thought garment milk expire crack close pencil party clinic outer vacuum";

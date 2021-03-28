@@ -1,1 +1,1 @@
-var mnemonic = "abandon biology pill punch win genuine forest crowd brush way scrub humble";
+var mnemonic = "piano blur follow cigar want swear hotel initial leopard disorder maple people";

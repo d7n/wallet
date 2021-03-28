@@ -1,1 +1,1 @@
-var mnemonic = "check heart wild steel category edit clinic atom twin chat despair type";
+var mnemonic = "grass engage venture junk amount hard flavor mistake track oven love carbon";

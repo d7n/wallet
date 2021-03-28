@@ -1,1 +1,1 @@
-var mnemonic = "cabbage dream issue maple relief motor autumn float assist hour dial metal";
+var mnemonic = "wonder senior section cigar mobile miracle accuse veteran minimum juice deliver umbrella";

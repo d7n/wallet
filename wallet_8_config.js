@@ -1,1 +1,1 @@
-var mnemonic = "outside common lawn feel share vague inquiry disorder parrot coffee swap become";
+var mnemonic = "rail verify liar shine suspect flavor easily flip pass remove sister replace";

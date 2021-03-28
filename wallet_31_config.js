@@ -1,1 +1,1 @@
-var mnemonic = "grief skin taxi quiz shop alien critic occur right report absent west";
+var mnemonic = "oblige indicate upset praise bonus wage demand all network crunch future badge";

@@ -1,1 +1,1 @@
-var mnemonic = "devote tray symptom glory border bounce globe horror sleep priority case all";
+var mnemonic = "video tenant sugar wild daring legal feel object lawn lady pioneer onion";

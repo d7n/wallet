@@ -1,1 +1,1 @@
-var mnemonic = "grace wrap judge cupboard weasel space chef pretty oyster crowd ride inhale";
+var mnemonic = "jaguar daring escape mule session power vibrant kid ready tobacco figure embark";

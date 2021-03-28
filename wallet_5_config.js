@@ -1,1 +1,1 @@
-var mnemonic = "cluster dog circle youth tank duty net million session elder barely cage";
+var mnemonic = "eight country home left exist item extend giraffe modify thank asthma dash";

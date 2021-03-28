@@ -1,1 +1,1 @@
-var mnemonic = "math orient congress drill sister impact boy loyal boost popular anchor language";
+var mnemonic = "lounge inner east pizza across shoot kiwi excuse stage drum fan unlock";

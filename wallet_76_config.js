@@ -1,1 +1,1 @@
-var mnemonic = "pull moral capital saddle fashion giant attitude royal month blush safe response";
+var mnemonic = "cancel bridge physical example jungle grunt kind scout horse expire stand barely";

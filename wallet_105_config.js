@@ -1,1 +1,1 @@
-var mnemonic = "skull park fire travel mushroom wild one junk month pen valid alien";
+var mnemonic = "inherit various spare purpose invite acid camp token smile ignore market venue";

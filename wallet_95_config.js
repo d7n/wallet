@@ -1,1 +1,1 @@
-var mnemonic = "correct mandate romance all carry enjoy march arena measure end kite pilot";
+var mnemonic = "market tooth victory wrong local unaware oyster race crawl release network boss";

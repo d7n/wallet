@@ -1,1 +1,1 @@
-var mnemonic = "hazard elegant shadow green join hazard cream ordinary iron rent mosquito jeans";
+var mnemonic = "often labor sister age glory say gauge gap crater spider tattoo across";

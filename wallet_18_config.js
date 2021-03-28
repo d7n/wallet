@@ -1,1 +1,1 @@
-var mnemonic = "door simple era jacket benefit hundred unlock wagon nerve blur steel vault";
+var mnemonic = "farm number refuse turkey muscle bachelor between want auction oak that session";

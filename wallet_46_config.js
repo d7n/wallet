@@ -1,1 +1,1 @@
-var mnemonic = "march vast clarify census kick corn renew ranch calm mad spike easy";
+var mnemonic = "barrel raw assist mass nephew catch raw ignore allow depend occur august";

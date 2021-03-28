@@ -1,1 +1,1 @@
-var mnemonic = "kick force hundred tragic virtual win educate fruit accuse congress update thought";
+var mnemonic = "funny decide ribbon peasant hazard talk evil stable entry ice carpet neither";
