@@ -1,1 +1,1 @@
-var mnemonic = "define more differ gaze satoshi panda soft narrow patient space slab document";
+var mnemonic = "sheriff useful case history almost adapt possible exit pottery combine sadness design";

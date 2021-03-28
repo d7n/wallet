@@ -1,1 +1,1 @@
-var mnemonic = "point lawn flight around sand defy pretty answer lawsuit visual carry laundry";
+var mnemonic = "clever scissors fancy blind gravity banana sell cup sound pact measure term";

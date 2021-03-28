@@ -1,1 +1,1 @@
-var mnemonic = "solve joke fence favorite turtle ordinary female future doll science join soft";
+var mnemonic = "cake soda sister balcony cannon kind bench rifle once put cancel cannon";

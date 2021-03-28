@@ -1,1 +1,1 @@
-var mnemonic = "weasel garage section quiz argue object hotel mad genius fog jewel effort";
+var mnemonic = "essay okay camera pave prevent this cruise ladder furnace siege champion bicycle";

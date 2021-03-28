@@ -1,1 +1,1 @@
-var mnemonic = "neck impose since fiction project input weird always couple rate bunker where";
+var mnemonic = "evoke survey candy elephant evolve power select enlist shoot friend swamp spoon";

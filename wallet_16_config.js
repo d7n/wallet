@@ -1,1 +1,1 @@
-var mnemonic = "thunder neglect skill lava loyal myth scene eager fitness way fetch swap";
+var mnemonic = "apple monkey float pistol what deal lonely trend hood slow cross retreat";

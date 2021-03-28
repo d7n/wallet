@@ -1,1 +1,1 @@
-var mnemonic = "castle cluster inject assist sample foster hand patch correct disease salmon mandate";
+var mnemonic = "truly floor assault monitor repair alter upgrade jungle economy cushion fee travel";

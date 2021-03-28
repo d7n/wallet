@@ -1,1 +1,1 @@
-var mnemonic = "harsh shop lab polar circle patrol margin student mom gather relax park";
+var mnemonic = "upgrade win scrub because smile employ math forget recall shallow offer nut";

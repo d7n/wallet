@@ -1,1 +1,1 @@
-var mnemonic = "panel topple label amused annual pledge know first occur road want blue";
+var mnemonic = "assume badge game become mystery chimney kind rescue climb kid unfold industry";

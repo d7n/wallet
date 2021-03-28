@@ -1,1 +1,1 @@
-var mnemonic = "december style attend soap kitten fetch stand lizard capable enact sport between";
+var mnemonic = "attack great print solve gadget modify follow mystery spoon penalty cart eager";

@@ -1,1 +1,1 @@
-var mnemonic = "divert earth model guard shove enough steak mobile blossom giggle jar nut";
+var mnemonic = "have hybrid roof auto scorpion have tower square right chief hill hurdle";

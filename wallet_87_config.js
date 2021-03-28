@@ -1,1 +1,1 @@
-var mnemonic = "garlic giraffe lemon west conduct spike kiwi under siege situate vacuum payment";
+var mnemonic = "script oppose ride like identify cruel gaze meadow capital execute acquire bind";

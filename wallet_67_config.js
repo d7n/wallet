@@ -1,1 +1,1 @@
-var mnemonic = "forget donate fiction purchase human seminar giggle slim alcohol wing bean hurdle";
+var mnemonic = "elder enact absorb into pole million phone word six list pretty mutual";

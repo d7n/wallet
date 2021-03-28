@@ -1,1 +1,1 @@
-var mnemonic = "transfer fabric labor owner purity anchor enemy fancy loud parent must speak";
+var mnemonic = "off honey congress keen nuclear hundred anger valve discover farm shift health";

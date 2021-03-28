@@ -1,1 +1,1 @@
-var mnemonic = "tired upgrade clay faith topic amount chunk general transfer dragon accident treat";
+var mnemonic = "frequent copy marble box street brand add include anchor limb give crazy";

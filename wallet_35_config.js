@@ -1,1 +1,1 @@
-var mnemonic = "crime purchase salon liar round nominee suspect bright circle upgrade melody device";
+var mnemonic = "appear post hobby present eight empty noble ocean spider apple scrap tongue";

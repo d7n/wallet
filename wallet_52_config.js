@@ -1,1 +1,1 @@
-var mnemonic = "filter domain embrace multiply country scene upon gate upgrade bone cancel visual";
+var mnemonic = "release sick bottom marriage shove cool tank spring cousin number chat lake";

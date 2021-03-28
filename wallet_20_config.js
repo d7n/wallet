@@ -1,1 +1,1 @@
-var mnemonic = "thunder pole cute pumpkin once energy erosion wedding awesome infant tongue leopard";
+var mnemonic = "target talk burger ignore near discover short cross better agent depart pluck";

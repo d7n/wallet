@@ -1,1 +1,1 @@
-var mnemonic = "shell escape behave fortune depth clump word approve derive purchase junk sure";
+var mnemonic = "pet ribbon minute anchor carpet turkey valid skirt dose goose crane rice";

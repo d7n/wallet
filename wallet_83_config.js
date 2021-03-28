@@ -1,1 +1,1 @@
-var mnemonic = "false divorce echo canoe never juice electric merge guide run advance student";
+var mnemonic = "govern reward hover mushroom health humor pole glow now entire ten casual";

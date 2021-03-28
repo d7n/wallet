@@ -1,1 +1,1 @@
-var mnemonic = "weather vacant rural ritual ball museum year brick grocery nation welcome nominee";
+var mnemonic = "popular gloom want very luxury gasp rug airport lobster ticket wheat session";

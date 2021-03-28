@@ -1,1 +1,1 @@
-var mnemonic = "reason cheese hurdle belt local grit install decline solution version black foam";
+var mnemonic = "spring alley work pulp now shine dirt pitch electric fork hen color";

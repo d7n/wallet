@@ -1,1 +1,1 @@
-var mnemonic = "pupil carpet coffee deputy kiss bridge portion hunt worry buddy february about";
+var mnemonic = "skill course option clutch hover raw drill quote ritual youth leader cake";

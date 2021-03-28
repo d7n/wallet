@@ -1,1 +1,1 @@
-var mnemonic = "subject print hedgehog shiver catalog marine useful athlete health mesh donate dragon";
+var mnemonic = "trip replace address lawn joke maze profit enlist ritual warm wild dutch";

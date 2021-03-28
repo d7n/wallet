@@ -1,1 +1,1 @@
-var mnemonic = "gap globe swallow crater advance settle local ski still cement awful trick";
+var mnemonic = "oven move engage average october arrow borrow carbon fluid sand noodle sing";

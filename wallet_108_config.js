@@ -1,1 +1,1 @@
-var mnemonic = "swap cluster together dry shop guitar science shine neither cat inquiry barrel";
+var mnemonic = "stomach core income ask artefact hotel inhale twin amount young cheap country";

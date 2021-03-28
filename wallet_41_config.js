@@ -1,1 +1,1 @@
-var mnemonic = "moment fold true habit banner effort immune depart panel cash dry initial";
+var mnemonic = "roast urban tiger pyramid matter manual goat help worth kite prize away";

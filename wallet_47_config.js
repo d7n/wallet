@@ -1,1 +1,1 @@
-var mnemonic = "install exercise sunny aunt brand people hungry similar output case coffee collect";
+var mnemonic = "raven borrow private festival orphan tribe dutch regret victory heavy success item";

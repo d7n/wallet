@@ -1,1 +1,1 @@
-var mnemonic = "awake industry present develop embark hurdle advance token shoe laptop enlist diagram";
+var mnemonic = "swear kid current stamp table bulk render dizzy exotic bench dish athlete";

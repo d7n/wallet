@@ -1,1 +1,1 @@
-var mnemonic = "swarm disagree pizza blue series toddler attack bless allow metal birth luggage";
+var mnemonic = "holiday deal disorder fuel congress crane include asthma pact movie journey bundle";

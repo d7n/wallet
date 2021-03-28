@@ -1,1 +1,1 @@
-var mnemonic = "reunion air exchange stool brand immune sock soon horse knock aware feature";
+var mnemonic = "fortune large canvas also ice address tonight sphere stereo until risk adult";

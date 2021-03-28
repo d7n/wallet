@@ -1,1 +1,1 @@
-var mnemonic = "good list mimic learn limit whisper poem arrange shop fiscal soldier endorse";
+var mnemonic = "badge father inspire total base now aspect educate client assume jeans usual";

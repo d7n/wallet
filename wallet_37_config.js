@@ -1,1 +1,1 @@
-var mnemonic = "green youth club warrior dice banana exact write sponsor amazing pluck federal";
+var mnemonic = "kick pen violin address chief alien rabbit peasant license toward come caught";

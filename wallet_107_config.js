@@ -1,1 +1,1 @@
-var mnemonic = "trip manage cover disease library gym say lawn jacket market label guitar";
+var mnemonic = "peanut season unfair cheap guard boring element clip evidence sense squirrel can";

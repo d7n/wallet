@@ -1,1 +1,1 @@
-var mnemonic = "wife note mountain toddler stock appear wood goose trade sand dynamic pull";
+var mnemonic = "disagree actress spot reduce rare confirm crime proud island seed exact parent";

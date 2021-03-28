@@ -1,1 +1,1 @@
-var mnemonic = "copy tortoise open ramp chalk mixed kitten indoor gown bread behave robust";
+var mnemonic = "robust change recipe people annual swap ask protect invite physical hen uncover";

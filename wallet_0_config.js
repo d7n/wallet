@@ -1,1 +1,1 @@
-var mnemonic = "total ripple wrap dinosaur film tank educate slide glow ocean annual ceiling";
+var mnemonic = "help lady suggest confirm shallow panic retreat spawn romance patient ride enough";

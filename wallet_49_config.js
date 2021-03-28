@@ -1,1 +1,1 @@
-var mnemonic = "erosion tobacco become mind route flush analyst step brave marriage lizard decorate";
+var mnemonic = "usage island merit pioneer egg cute vanish crouch captain tumble obscure swallow";

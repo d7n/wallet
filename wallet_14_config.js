@@ -1,1 +1,1 @@
-var mnemonic = "error chimney valley vintage under blush sing basic frequent public remind supreme";
+var mnemonic = "fancy volcano fluid cruel allow ten village tone reward slam machine lazy";

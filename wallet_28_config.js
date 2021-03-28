@@ -1,1 +1,1 @@
-var mnemonic = "must ankle void pudding team almost proof whisper gauge tribe outdoor park";
+var mnemonic = "excess measure again fat remove eager tired slam round argue awesome brave";

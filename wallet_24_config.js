@@ -1,1 +1,1 @@
-var mnemonic = "lunch dignity hat bridge grab reopen ketchup outdoor size hamster casual shove";
+var mnemonic = "forest bonus bottom capable faith ten rally apple pony other slam wave";

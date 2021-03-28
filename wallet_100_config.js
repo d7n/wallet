@@ -1,1 +1,1 @@
-var mnemonic = "bleak dentist dentist fiction damp click brother mechanic cannon tonight endless shrug";
+var mnemonic = "dash ethics lamp december fit wheel unveil because course age tide then";

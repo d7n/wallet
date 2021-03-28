@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo dragon festival north two shaft moon forget rack vendor crunch abstract";
+var mnemonic = "bike census club until stage one vicious excess mutual panel roof advance";

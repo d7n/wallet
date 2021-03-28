@@ -1,1 +1,1 @@
-var mnemonic = "shrug uphold kidney oak chest humor turn gather cart range immense moral";
+var mnemonic = "model patrol must barrel myself client cruel solve genre have invest smooth";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic mix miracle shock various cage edit hard pink index worry isolate";
+var mnemonic = "token aspect sheriff nerve tide eternal pyramid predict swear fit equal enact";

@@ -1,1 +1,1 @@
-var mnemonic = "damp speed sadness ivory inflict school entire deny grab brain until picnic";
+var mnemonic = "priority cattle recycle genuine law torch elbow great siren ugly alarm connect";

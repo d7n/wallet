@@ -1,1 +1,1 @@
-var mnemonic = "dial doll obtain predict owner acid slice poverty surprise essence fence butter";
+var mnemonic = "clog vintage recycle calm punch segment denial lion vote permit glare that";

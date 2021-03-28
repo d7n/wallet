@@ -1,1 +1,1 @@
-var mnemonic = "cereal infant scare sadness web impulse clog desk glare crazy fresh frost";
+var mnemonic = "hidden favorite pear combine ridge sun grant segment suit danger echo choose";

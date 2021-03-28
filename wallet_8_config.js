@@ -1,1 +1,1 @@
-var mnemonic = "aim moon spell bring web rigid jewel alley language track identify arm";
+var mnemonic = "initial train beauty badge choose degree glue ozone there aware isolate eager";

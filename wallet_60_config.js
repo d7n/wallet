@@ -1,1 +1,1 @@
-var mnemonic = "cherry scout image between film neutral regular inspire jaguar sugar island blue";
+var mnemonic = "leaf depart they fly bid glory cousin kidney nephew illness script split";

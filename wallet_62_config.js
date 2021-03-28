@@ -1,1 +1,1 @@
-var mnemonic = "invest rose shield hill recipe hire measure person false position chief great";
+var mnemonic = "unaware dove space liberty daring execute onion genre vote naive meadow reject";

@@ -1,1 +1,1 @@
-var mnemonic = "dad vast fade book mean initial admit expect embrace twin life motor";
+var mnemonic = "math jeans protect trumpet steak reason test world ill youth remember huge";

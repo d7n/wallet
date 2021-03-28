@@ -1,1 +1,1 @@
-var mnemonic = "history ostrich web kite unable morning swarm embody hamster pride top grow";
+var mnemonic = "patch large adjust wisdom rocket defy conduct lecture chicken child throw despair";

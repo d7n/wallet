@@ -1,1 +1,1 @@
-var mnemonic = "question review only appear scorpion behind timber area choice alone sell wealth";
+var mnemonic = "level favorite escape shove maximum purity fee kite winter off hammer club";

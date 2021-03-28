@@ -1,1 +1,1 @@
-var mnemonic = "job grief coyote hammer funny rose way play wrist parrot outdoor museum";
+var mnemonic = "bright exhibit loop casual glance reform deny smoke foil task label course";

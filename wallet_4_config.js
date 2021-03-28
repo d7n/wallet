@@ -1,1 +1,1 @@
-var mnemonic = "bone inform hurry again mountain cricket load oyster paddle fragile require demise";
+var mnemonic = "setup silly panda comfort agree blush harvest favorite vague field forward tornado";

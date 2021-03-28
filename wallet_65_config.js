@@ -1,1 +1,1 @@
-var mnemonic = "fossil equal thumb nurse urban lend sound life now path daughter ripple";
+var mnemonic = "prosper chest rail home lounge famous neck measure essay rude clown buyer";

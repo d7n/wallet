@@ -1,1 +1,1 @@
-var mnemonic = "magic fitness rather security scrub ship claw excess rule carry pioneer truck";
+var mnemonic = "horror frozen work nurse soap minute choose day rotate burden ski clarify";

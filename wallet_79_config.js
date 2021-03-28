@@ -1,1 +1,1 @@
-var mnemonic = "hurdle major salon inner please slight solution cliff mixture age leader cluster";
+var mnemonic = "warfare future source piano topic net life truth romance dose boat finish";

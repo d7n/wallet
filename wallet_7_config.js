@@ -1,1 +1,1 @@
-var mnemonic = "duck flat father coral endorse know solution awake found apology dwarf badge";
+var mnemonic = "theory divorce what inside rookie invite access enable divide trial welcome toss";

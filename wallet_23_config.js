@@ -1,1 +1,1 @@
-var mnemonic = "during grow scatter duty broom cruel nice grape robot hollow spoil explain";
+var mnemonic = "welcome diamond poet wire virtual sort joy deal maid swim pilot rate";

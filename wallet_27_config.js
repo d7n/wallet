@@ -1,1 +1,1 @@
-var mnemonic = "glue key early river axis crisp sentence crowd wrestle woman cost blame";
+var mnemonic = "dove moon bullet eight taste rack rose empower elite repeat salad roof";

@@ -1,1 +1,1 @@
-var mnemonic = "breeze laundry actor brown improve involve cross trouble feature maximum enhance proud";
+var mnemonic = "level embrace economy eye ecology bargain net either blue stereo ski dove";

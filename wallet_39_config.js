@@ -1,1 +1,1 @@
-var mnemonic = "during local eyebrow fame injury latin lesson stadium know doctor index wealth";
+var mnemonic = "exclude usual general puzzle half ribbon relief force sugar play cradle win";

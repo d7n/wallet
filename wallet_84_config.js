@@ -1,1 +1,1 @@
-var mnemonic = "define rule mountain clean tiny crunch amount talk replace damage blue solution";
+var mnemonic = "curtain mixture next total frozen minimum someone humble winter maple boil merit";

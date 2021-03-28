@@ -1,1 +1,1 @@
-var mnemonic = "post math woman ghost human ozone rural security matrix grass banana year";
+var mnemonic = "junk baby roast start depart twice enrich pioneer jaguar west knife cycle";

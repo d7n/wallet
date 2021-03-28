@@ -1,1 +1,1 @@
-var mnemonic = "enter still auto student coil oak sign tenant gap rely rug wild";
+var mnemonic = "swim pet vibrant fine trophy dirt cousin saddle sister very execute sort";

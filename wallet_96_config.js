@@ -1,1 +1,1 @@
-var mnemonic = "demand brisk glue seek emotion raccoon social fall apart fire body million";
+var mnemonic = "unable suffer bike keep leave actress pluck kiwi attitude tide method flavor";

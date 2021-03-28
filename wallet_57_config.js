@@ -1,1 +1,1 @@
-var mnemonic = "angle recall remain dove mutual envelope place awful crop scrap labor person";
+var mnemonic = "chuckle erode tray sorry local garlic common wrong sheriff brave company endorse";

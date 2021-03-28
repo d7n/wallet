@@ -1,1 +1,1 @@
-var mnemonic = "surround parent clerk daughter minimum copper region valid hero fiber put federal";
+var mnemonic = "erode upon fish vocal force tooth maid opera ready there soccer nominee";

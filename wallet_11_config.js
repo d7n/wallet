@@ -1,1 +1,1 @@
-var mnemonic = "cigar dentist cluster noodle flock crew permit calm gaze airport carpet coyote";
+var mnemonic = "beauty desk shrimp corn grit immense foster tomorrow quick lion say carry";

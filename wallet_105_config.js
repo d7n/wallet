@@ -1,1 +1,1 @@
-var mnemonic = "casual spread sight mixed number ordinary laugh priority olive essence achieve depth";
+var mnemonic = "knock elephant valley drop health vague saddle lottery sea liquid young lonely";

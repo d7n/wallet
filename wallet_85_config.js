@@ -1,1 +1,1 @@
-var mnemonic = "field fade test rebuild tattoo praise lawsuit warm snake try arrive awkward";
+var mnemonic = "accuse sell swear liquid fortune consider job gentle label seed wall patch";

@@ -1,1 +1,1 @@
-var mnemonic = "witness awake expire dad seminar odor december office elite gold hover height";
+var mnemonic = "life dog assist special buddy hat prize mistake stand breeze over velvet";

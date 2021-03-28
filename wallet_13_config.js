@@ -1,1 +1,1 @@
-var mnemonic = "permit hybrid bonus rifle deputy path stool rule surprise end gasp year";
+var mnemonic = "doctor garlic venue work direct absent piece shell battle unveil ranch nerve";

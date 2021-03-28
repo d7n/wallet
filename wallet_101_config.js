@@ -1,1 +1,1 @@
-var mnemonic = "notice hood maze ski display cancel fade addict soon spin brick length";
+var mnemonic = "you twenty place wire addict robot turn sheriff sleep rebel pill toward";

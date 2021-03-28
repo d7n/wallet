@@ -1,1 +1,1 @@
-var mnemonic = "learn range cactus tube prosper omit better family lottery organ alley crowd";
+var mnemonic = "strike edge whisper peace box novel remain donor pledge truth enact april";

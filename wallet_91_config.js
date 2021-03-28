@@ -1,1 +1,1 @@
-var mnemonic = "federal build fix bitter skirt north season say honey rug meadow valve";
+var mnemonic = "forest shift safe figure busy mad gentle coast arena quiz supreme material";

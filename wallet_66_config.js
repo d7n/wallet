@@ -1,1 +1,1 @@
-var mnemonic = "nominee hero similar liar car parade forest hotel rain monitor guess excuse";
+var mnemonic = "plug mixed legend brain design sudden hurdle engine rapid sting loyal magic";

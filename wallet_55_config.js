@@ -1,1 +1,1 @@
-var mnemonic = "combine fire hand rent later rain blind funny frown beach robust girl";
+var mnemonic = "submit hungry shrimp awesome ride ignore symbol exotic gate own dad mother";
