@@ -1,1 +1,1 @@
-var mnemonic = "category latin fame old kitchen differ window rain chalk shoe report result";
+var mnemonic = "midnight cause charge warfare direct hat wire member melt save prize glow";

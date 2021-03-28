@@ -1,1 +1,1 @@
-var mnemonic = "copper cabbage unknown elegant rail fan miracle basic ticket nation diet arm";
+var mnemonic = "lion just gorilla hour exile quote mail distance remain faint twin raise";

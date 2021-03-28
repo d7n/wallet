@@ -1,1 +1,1 @@
-var mnemonic = "nation want kick cool treat ride stick unveil right size display harsh";
+var mnemonic = "issue outside suit little glass drill measure crowd quantum cage vacuum junk";

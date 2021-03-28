@@ -1,1 +1,1 @@
-var mnemonic = "dust uncover pigeon public swing educate slice sea odor wash zoo crime";
+var mnemonic = "simple marble broken tortoise bunker simple voyage ketchup local rescue undo finger";

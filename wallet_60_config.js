@@ -1,1 +1,1 @@
-var mnemonic = "aunt reject kind question luxury secret vacant leave card dutch trigger canoe";
+var mnemonic = "smart online emerge medal tortoise soon novel obvious spring mask evolve left";

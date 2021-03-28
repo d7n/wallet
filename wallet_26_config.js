@@ -1,1 +1,1 @@
-var mnemonic = "stomach slush unhappy deal spatial lounge collect april guilt appear opinion anger";
+var mnemonic = "merry priority more excite know panther current airport bridge about make profit";

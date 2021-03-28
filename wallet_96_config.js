@@ -1,1 +1,1 @@
-var mnemonic = "twenty mammal toast link call metal guard stage report broom immune gate";
+var mnemonic = "truly indoor record agent shy wise print much cannon type notable tiny";

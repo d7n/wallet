@@ -1,1 +1,1 @@
-var mnemonic = "video drama range ship trend history hundred pyramid raven fold bind inch";
+var mnemonic = "mansion clog tent loop genre canvas envelope category athlete chimney muffin dawn";

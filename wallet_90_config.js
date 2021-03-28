@@ -1,1 +1,1 @@
-var mnemonic = "auto guard suspect accident layer clay expire can beyond eye industry photo";
+var mnemonic = "senior alarm cushion you catch cry inside kidney grow close spike want";

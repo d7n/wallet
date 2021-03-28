@@ -1,1 +1,1 @@
-var mnemonic = "bargain faith primary width imitate chief action twenty soft venue volcano barrel";
+var mnemonic = "glide provide awkward ritual stick rack quality wise seminar ceiling release skill";

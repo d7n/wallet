@@ -1,1 +1,1 @@
-var mnemonic = "matter catch priority produce echo want maid embrace scout curtain act scrub";
+var mnemonic = "giggle iron purchase crucial top light erase glove area birth never enjoy";

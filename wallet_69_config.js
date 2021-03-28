@@ -1,1 +1,1 @@
-var mnemonic = "goat hint road service more pony obey theme toast wish picnic sorry";
+var mnemonic = "shaft admit wisdom rural promote tail siege defy noodle hub funny once";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic join weather kidney recipe negative road audit force ribbon eye violin";
+var mnemonic = "surge celery cube scout ecology maximum unfold suggest soon narrow frequent exercise";

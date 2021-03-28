@@ -1,1 +1,1 @@
-var mnemonic = "girl tell stamp test repair bracket erode rubber pumpkin siren wait lava";
+var mnemonic = "victory october airport edit rapid flame method crash vague satisfy jelly raccoon";

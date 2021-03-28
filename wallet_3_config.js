@@ -1,1 +1,1 @@
-var mnemonic = "fabric essence fly foil online onion illegal strike giraffe pizza pony squirrel";
+var mnemonic = "spin lock between whisper bone plug update lion gravity thumb inmate since";

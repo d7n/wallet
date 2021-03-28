@@ -1,1 +1,1 @@
-var mnemonic = "collect direct lucky interest what joy nothing estate inherit turkey discover mystery";
+var mnemonic = "else fog brand general ahead school rug evoke place truly flip maze";

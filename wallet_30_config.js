@@ -1,1 +1,1 @@
-var mnemonic = "shine road oval wine deliver three sock page elephant trash alley prefer";
+var mnemonic = "brave evoke visual tuition twist another brave cave give unhappy crack circle";

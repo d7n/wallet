@@ -1,1 +1,1 @@
-var mnemonic = "blue concert code obscure misery congress sport violin concert almost marriage uncover";
+var mnemonic = "leopard fresh chuckle bread wide stable patrol impose neglect now boy ghost";

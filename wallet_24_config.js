@@ -1,1 +1,1 @@
-var mnemonic = "reward margin term chimney harbor destroy betray paper eight venue transfer repair";
+var mnemonic = "wisdom river paddle cigar treat plate fluid make life eyebrow distance priority";

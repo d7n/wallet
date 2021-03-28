@@ -1,1 +1,1 @@
-var mnemonic = "hazard sunny rice item gravity solar midnight position crouch expand adapt thrive";
+var mnemonic = "penalty call night accident aware token nothing between novel feed discover tennis";

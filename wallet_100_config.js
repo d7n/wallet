@@ -1,1 +1,1 @@
-var mnemonic = "immune unfold sing double speed matrix blanket off angle expand portion sign";
+var mnemonic = "car grit lake attack reflect cause wreck primary orbit angle buyer trick";

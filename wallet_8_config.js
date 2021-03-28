@@ -1,1 +1,1 @@
-var mnemonic = "lunar fold install join betray satoshi oven original tomorrow media initial foam";
+var mnemonic = "country design bone report sentence exclude all kidney start speed possible husband";

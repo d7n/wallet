@@ -1,1 +1,1 @@
-var mnemonic = "host bracket oblige science siren wild dad result claim party tissue rule";
+var mnemonic = "stick army merge royal owner protect capital chef soap whip jazz void";

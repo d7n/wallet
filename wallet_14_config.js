@@ -1,1 +1,1 @@
-var mnemonic = "census switch rich december heart remember dismiss genius sword glue venture series";
+var mnemonic = "oppose champion grass person bench lift biology help milk ostrich reduce rifle";

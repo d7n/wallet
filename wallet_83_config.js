@@ -1,1 +1,1 @@
-var mnemonic = "gown dream leg donor alpha welcome choice win kitten rally canyon zero";
+var mnemonic = "satoshi hope idea monitor energy knock cluster fire sister video hen card";

@@ -1,1 +1,1 @@
-var mnemonic = "mutual kidney tooth since injury amazing moon grape entry raccoon design praise";
+var mnemonic = "dolphin lava leader soon vacant evolve strong diesel now park voyage autumn";

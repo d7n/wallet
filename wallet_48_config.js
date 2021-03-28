@@ -1,1 +1,1 @@
-var mnemonic = "floor process lizard stick multiply soup tomato auction wife click champion head";
+var mnemonic = "culture protect echo brain skill search valid gravity pen hammer bless because";

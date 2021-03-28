@@ -1,1 +1,1 @@
-var mnemonic = "shallow second heavy theme sadness trick fish siren endorse arrange crisp gasp";
+var mnemonic = "saddle surface business galaxy hood april spirit over evolve tunnel churn upgrade";

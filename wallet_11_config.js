@@ -1,1 +1,1 @@
-var mnemonic = "time capital carry bleak gaze match clown lyrics space answer say laptop";
+var mnemonic = "seminar valid guess envelope today abstract track trigger portion bleak gun allow";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble work between quick antique popular hat matrix exotic knee edge sauce";
+var mnemonic = "use family muscle often walnut federal guard crazy stone elbow nominee endorse";

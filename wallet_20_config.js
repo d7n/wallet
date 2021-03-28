@@ -1,1 +1,1 @@
-var mnemonic = "spot wide february parade index tooth father own skill witness vibrant husband";
+var mnemonic = "cake urban suffer pact arena legal dose pave bullet alcohol clever aspect";

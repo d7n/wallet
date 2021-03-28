@@ -1,1 +1,1 @@
-var mnemonic = "group mutual turn output stone pony type cushion favorite treat tattoo bench";
+var mnemonic = "duck artwork talk weapon wish panel learn doctor attitude present goddess long";

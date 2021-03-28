@@ -1,1 +1,1 @@
-var mnemonic = "salute weasel guard laptop elder friend valid weapon float because young agent";
+var mnemonic = "entire visit crack nut wave update pass loyal during swift boat hammer";

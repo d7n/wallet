@@ -1,1 +1,1 @@
-var mnemonic = "daughter shy capable palm wink future curve ripple sample okay solve tortoise";
+var mnemonic = "quit birth firm wasp web average sunset tip mobile rough penalty mistake";

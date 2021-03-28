@@ -1,1 +1,1 @@
-var mnemonic = "foil angle maple effort blame food guard parent estate sand reflect fancy";
+var mnemonic = "action brick proof fashion submit crane outer horn all miss truly swift";

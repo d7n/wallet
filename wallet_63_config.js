@@ -1,1 +1,1 @@
-var mnemonic = "speak virus city jeans electric domain disagree act tribe music notable column";
+var mnemonic = "mirror pull exotic rather quote arm cute roof margin scrub have flame";

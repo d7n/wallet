@@ -1,1 +1,1 @@
-var mnemonic = "fault wedding pudding snap private tennis embrace sister banner laundry fine gauge";
+var mnemonic = "cement tail position click logic mention either spirit text later wear pigeon";

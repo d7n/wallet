@@ -1,1 +1,1 @@
-var mnemonic = "tourist person awesome weasel limb expand tornado slender daring spring cat crouch";
+var mnemonic = "divert bomb category ill share only stool wage sadness obey wolf onion";

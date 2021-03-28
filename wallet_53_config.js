@@ -1,1 +1,1 @@
-var mnemonic = "royal undo umbrella canal false vessel clever female head input force observe";
+var mnemonic = "outside blouse disorder crime earn lottery drastic stone tackle twenty ugly cluster";

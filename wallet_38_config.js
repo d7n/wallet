@@ -1,1 +1,1 @@
-var mnemonic = "month fit rely focus purpose purchase fantasy firm mind erase brave turtle";
+var mnemonic = "elegant scare sea budget climb pet voice half glory custom awake iron";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling master hunt blast supreme trick current cigar debris board lonely venture";
+var mnemonic = "board purse put merit text rubber rival plate improve health knife innocent";

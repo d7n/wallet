@@ -1,1 +1,1 @@
-var mnemonic = "label patient income walnut print limb harvest same economy jump sick bubble";
+var mnemonic = "camera honey layer turkey enable enrich grid spoil spoil symptom top target";

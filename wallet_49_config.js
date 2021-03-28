@@ -1,1 +1,1 @@
-var mnemonic = "sheriff autumn amazing deal parrot click erase mirror warrior genuine giggle pen";
+var mnemonic = "catalog phrase source spatial pulse sister legal purchase have latin maid ride";

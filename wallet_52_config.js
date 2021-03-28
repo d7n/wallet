@@ -1,1 +1,1 @@
-var mnemonic = "trash anger cage burger govern awesome under idle sorry concert sample glimpse";
+var mnemonic = "priority runway drum decrease midnight eight angle wood copper cloth insect topic";

@@ -1,1 +1,1 @@
-var mnemonic = "attack crop goat differ toy unfold just bulk panel ozone mixture nest";
+var mnemonic = "manage portion october return basket lend clever indicate confirm remind focus travel";

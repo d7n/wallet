@@ -1,1 +1,1 @@
-var mnemonic = "fruit orchard window seven knife behind bronze miracle general prize hour time";
+var mnemonic = "clean first timber year wife harbor choose start earth sell interest educate";

@@ -1,1 +1,1 @@
-var mnemonic = "core fade security mixture easily table pride envelope jungle inject retire table";
+var mnemonic = "hello mixed over flat acquire ceiling obvious few brief food humble blame";

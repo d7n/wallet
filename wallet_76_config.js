@@ -1,1 +1,1 @@
-var mnemonic = "million patrol clever catalog invite purity action frost embrace trophy father lemon";
+var mnemonic = "day scale sausage throw leisure blouse tornado spy chase staff delay gadget";

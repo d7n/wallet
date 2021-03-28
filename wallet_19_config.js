@@ -1,1 +1,1 @@
-var mnemonic = "flight rebel rude lesson liberty art deputy prize assault symbol hill annual";
+var mnemonic = "tuition donate rigid impact actual twenty below burst nephew pill truly absurd";

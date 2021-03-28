@@ -1,1 +1,1 @@
-var mnemonic = "give noble claim gloom page banana believe all maid fruit evil end";
+var mnemonic = "snap throw detect siren ensure violin scare physical crack matter potato tornado";

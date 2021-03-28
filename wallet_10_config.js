@@ -1,1 +1,1 @@
-var mnemonic = "home same wife gorilla piece what address cute chaos flame liquid cave";
+var mnemonic = "census result chuckle six month trend power blouse spoil final card marriage";

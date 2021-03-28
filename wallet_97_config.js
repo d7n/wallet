@@ -1,1 +1,1 @@
-var mnemonic = "boil bubble light fall asthma return shrimp essence tissue pole grief dove";
+var mnemonic = "together improve program juice amount unveil burger way endless much carry small";

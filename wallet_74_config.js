@@ -1,1 +1,1 @@
-var mnemonic = "steel coil gym spell fan fashion chapter company cement fetch since object";
+var mnemonic = "easily truly swap envelope little dose choice sweet battle cannon worry tissue";

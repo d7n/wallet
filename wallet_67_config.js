@@ -1,1 +1,1 @@
-var mnemonic = "abandon vibrant replace wife matter table usage snow rebel orchard beach kick";
+var mnemonic = "basket riot reform rebel reveal glad bulk air evoke nest taste lawn";

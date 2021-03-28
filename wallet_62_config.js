@@ -1,1 +1,1 @@
-var mnemonic = "depend palm diesel legal ready object gaze neck gallery quote dish twelve";
+var mnemonic = "trap improve easily menu hill ill spray initial breeze bomb vacuum problem";

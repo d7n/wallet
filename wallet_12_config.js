@@ -1,1 +1,1 @@
-var mnemonic = "walnut face idea cannon credit protect current cream trust borrow worry fork";
+var mnemonic = "wheat middle salt blue rookie sustain useful cattle junior medal child exit";

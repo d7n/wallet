@@ -1,1 +1,1 @@
-var mnemonic = "good tenant capital clay absorb choice riot resource ghost shoot inner pause";
+var mnemonic = "click picture decide ahead thunder flee okay else drill trap arrest silk";

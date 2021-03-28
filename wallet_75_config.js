@@ -1,1 +1,1 @@
-var mnemonic = "shaft indoor horror raise hero bless push rude between speak select strategy";
+var mnemonic = "student label salt end oil wood federal rebel tongue energy minor brisk";

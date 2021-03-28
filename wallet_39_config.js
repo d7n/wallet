@@ -1,1 +1,1 @@
-var mnemonic = "truck noise unlock neutral crucial behave goose nest pole brother tank direct";
+var mnemonic = "all number country evidence people word climb buffalo guilt system remember gym";

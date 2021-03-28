@@ -1,1 +1,1 @@
-var mnemonic = "wage auction canal danger polar usual submit oblige tonight tackle chief between";
+var mnemonic = "tumble receive ordinary minimum glance bamboo twice stove echo yellow lunch parrot";

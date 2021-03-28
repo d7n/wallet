@@ -1,1 +1,1 @@
-var mnemonic = "afraid never suit door pelican bomb medal oxygen jealous awesome crack night";
+var mnemonic = "magic south stand range dolphin build athlete coffee south great matrix purpose";

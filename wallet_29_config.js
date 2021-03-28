@@ -1,1 +1,1 @@
-var mnemonic = "wise staff champion snap clump gauge slight demise donor lottery toss evolve";
+var mnemonic = "gloom segment rude winter capable curve top ceiling dune congress food menu";

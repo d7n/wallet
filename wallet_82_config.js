@@ -1,1 +1,1 @@
-var mnemonic = "address traffic broken jealous crack tube syrup lounge current acquire like camp";
+var mnemonic = "shaft portion pink earn firm ship axis valve pioneer unfair blade notable";

@@ -1,1 +1,1 @@
-var mnemonic = "attend ring adapt advice game robot theme debris come race toddler depart";
+var mnemonic = "example critic have inside never property upper blue north forget nation wheat";

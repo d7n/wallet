@@ -1,1 +1,1 @@
-var mnemonic = "ten airport long predict net holiday mirror august present harsh session tray";
+var mnemonic = "leader indicate act core negative govern author illness museum rate planet horse";

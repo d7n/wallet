@@ -1,1 +1,1 @@
-var mnemonic = "gas bless expand faint hidden embody access urge vast wedding exit sunny";
+var mnemonic = "hole tuna desert race brave guide busy february cheap congress giraffe calm";

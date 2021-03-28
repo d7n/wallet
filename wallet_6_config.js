@@ -1,1 +1,1 @@
-var mnemonic = "basic tip waste bacon host worth depth text stuff venue shiver fiscal";
+var mnemonic = "rule age awful flash cook place invite hello pave ocean divide century";

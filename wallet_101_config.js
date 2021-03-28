@@ -1,1 +1,1 @@
-var mnemonic = "cheap aspect opinion hospital coach usual again scare annual direct shallow globe";
+var mnemonic = "table asthma fancy cave hat exclude exhaust source logic dismiss senior abstract";

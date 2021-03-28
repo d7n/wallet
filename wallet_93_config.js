@@ -1,1 +1,1 @@
-var mnemonic = "immune home champion filter valve salad truly illness enough upper cement armor";
+var mnemonic = "phrase file patient weather cloud erase expire that okay help resource board";

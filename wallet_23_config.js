@@ -1,1 +1,1 @@
-var mnemonic = "always cricket huge able spirit west good butter minimum give web sick";
+var mnemonic = "jelly boring confirm rigid diary escape discover jeans scheme concert voyage endless";

@@ -1,1 +1,1 @@
-var mnemonic = "swamp addict letter mesh drink demise hurdle slide answer zoo recall shoot";
+var mnemonic = "tenant gadget lawsuit cabbage reveal artist label gossip trash record critic need";

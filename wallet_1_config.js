@@ -1,1 +1,1 @@
-var mnemonic = "brown uphold account boring account fiscal pool aspect jeans biology choose payment";
+var mnemonic = "liquid length region coil small doll one question oak crater romance joke";

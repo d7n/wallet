@@ -1,1 +1,1 @@
-var mnemonic = "craft supply hamster hint equal feel siege frost trust about soda cannon";
+var mnemonic = "crop elder fetch assist beef steel toast minor digital among elder slot";

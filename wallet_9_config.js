@@ -1,1 +1,1 @@
-var mnemonic = "diesel utility sure fork mistake quote tuna chaos vendor sugar enough east";
+var mnemonic = "woman evoke apple awake humble prepare cage roof river seven bird evolve";

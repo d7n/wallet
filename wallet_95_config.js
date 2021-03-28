@@ -1,1 +1,1 @@
-var mnemonic = "they holiday joke fault question flower deposit evoke immense artwork humble coral";
+var mnemonic = "snow near item comfort bunker story police dentist affair property certain around";

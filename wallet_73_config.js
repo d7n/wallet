@@ -1,1 +1,1 @@
-var mnemonic = "sign drink word staff ranch camp reflect spawn tent hover mystery people";
+var mnemonic = "section absent hidden crisp opera treat rose patch ritual require grid orbit";

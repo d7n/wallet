@@ -1,1 +1,1 @@
-var mnemonic = "response coyote help rocket tent shield artist guitar control merit shoot best";
+var mnemonic = "elbow three visit quantum skill possible year muscle task proud again left";

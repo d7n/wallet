@@ -1,1 +1,1 @@
-var mnemonic = "sketch broccoli divide length pole lens world point measure mammal soldier electric";
+var mnemonic = "nurse slogan victory melt ensure ignore vehicle tomorrow unique tail spice excite";

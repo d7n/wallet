@@ -1,1 +1,1 @@
-var mnemonic = "theory leg gain dust eagle donate guitar weekend coach where peanut west";
+var mnemonic = "lava slush analyst mushroom spider grow expect cause merit insane video frequent";

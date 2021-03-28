@@ -1,1 +1,1 @@
-var mnemonic = "inner hole faith pair admit carpet dial bacon need arrest index front";
+var mnemonic = "lemon card original advice flip reflect sphere talk lady keep stuff genius";

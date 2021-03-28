@@ -1,1 +1,1 @@
-var mnemonic = "royal increase labor garlic feel monster comic pave gain across almost lamp";
+var mnemonic = "arm media birth display diesel winner mutual ghost spot put write push";

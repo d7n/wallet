@@ -1,1 +1,1 @@
-var mnemonic = "error fish soon crime powder model chuckle damage seek ball middle spatial";
+var mnemonic = "degree hurry actor size convince notable armed wrap this globe zone cabbage";

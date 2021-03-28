@@ -1,1 +1,1 @@
-var mnemonic = "route item desk teach park talk galaxy since solid canvas soon sail";
+var mnemonic = "tortoise divorce movie obtain grid pistol pass rice young cover never news";

@@ -1,1 +1,1 @@
-var mnemonic = "city october gospel flip sketch initial mushroom orient uncover aunt library trip";
+var mnemonic = "cupboard sword bring during pepper crawl bleak brain path spread quantum calm";

@@ -1,1 +1,1 @@
-var mnemonic = "canvas mouse river shrimp history usage punch salute economy remain lawn popular";
+var mnemonic = "extra asthma goat casino pottery frozen promote sibling eagle purpose holiday garage";

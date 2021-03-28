@@ -1,1 +1,1 @@
-var mnemonic = "effort hat spy upgrade nerve pelican border sorry stomach demand neglect option";
+var mnemonic = "wait divorce coin gauge glimpse day pet series remain remain taste leg";

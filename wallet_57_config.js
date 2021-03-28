@@ -1,1 +1,1 @@
-var mnemonic = "young where employ soda quarter unable solid mechanic ladder robust rigid monitor";
+var mnemonic = "master top absorb brick detail sand slim move rare note bounce volcano";

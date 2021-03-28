@@ -1,1 +1,1 @@
-var mnemonic = "assault wealth empower scatter carbon ramp bubble engine capital alpha setup peasant";
+var mnemonic = "saddle produce library north make spoon rough teach reason twenty find immense";

@@ -1,1 +1,1 @@
-var mnemonic = "cherry mix place camera awful pigeon twelve exact window door hope three";
+var mnemonic = "scare poem farm flock home asthma friend neither small reason cheese picnic";

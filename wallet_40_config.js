@@ -1,1 +1,1 @@
-var mnemonic = "protect deposit feed drop social gain away hamster mixed link enroll add";
+var mnemonic = "theory unusual merit rather garbage vocal matrix fragile small unlock behave artist";

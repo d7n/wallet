@@ -1,1 +1,1 @@
-var mnemonic = "onion romance legend wool motor arch jar shield trend appear patch behave";
+var mnemonic = "fantasy axis federal method grief direct stove banner can pool cruel home";

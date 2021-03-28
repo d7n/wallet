@@ -1,1 +1,1 @@
-var mnemonic = "scatter alter surprise true tube region eight giraffe grab hospital leisure baby";
+var mnemonic = "amused help cash october edge weasel into chief fire liberty castle mountain";

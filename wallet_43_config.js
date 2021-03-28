@@ -1,1 +1,1 @@
-var mnemonic = "mail alert hobby base rain side provide throw forward inherit unique happy";
+var mnemonic = "source rubber fade penalty pizza uniform diagram cotton sustain benefit inside custom";

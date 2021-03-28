@@ -1,1 +1,1 @@
-var mnemonic = "wall illegal hand harbor sport toe walnut hood robust prepare topic way";
+var mnemonic = "swarm miracle glare attack escape tiny trophy brave novel ghost stable twice";
