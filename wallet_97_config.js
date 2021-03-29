@@ -1,1 +1,1 @@
-var mnemonic = "forget spray shadow multiply index horn drift number envelope congress wise acquire";
+var mnemonic = "balcony chimney dynamic mobile merry detect mechanic pigeon secret afraid trip bread";

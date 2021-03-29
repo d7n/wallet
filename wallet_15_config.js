@@ -1,1 +1,1 @@
-var mnemonic = "bench coyote install rural gravity real despair mushroom hobby crunch moral sport";
+var mnemonic = "banner champion ceiling income beyond cat shield prevent quiz gun foil act";

@@ -1,1 +1,1 @@
-var mnemonic = "license never sadness own country year unaware torch honey garlic garment excess";
+var mnemonic = "wedding tribe marble pyramid wisdom lottery pudding album gaze embody glad onion";

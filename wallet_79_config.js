@@ -1,1 +1,1 @@
-var mnemonic = "service faculty walk crumble bargain bean burger cash glue hotel ignore spoil";
+var mnemonic = "good peace before mention thank average kingdom say nothing write survey property";

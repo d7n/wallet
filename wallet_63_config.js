@@ -1,1 +1,1 @@
-var mnemonic = "album december physical ladder wide rib cherry gain begin embody toss then";
+var mnemonic = "grit cherry dizzy rare net walnut swear involve grace cool surge mirror";

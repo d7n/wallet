@@ -1,1 +1,1 @@
-var mnemonic = "desk dad dune fatal solid hotel wreck twin coconut message page group";
+var mnemonic = "flip artist victory hill approve clump fossil never menu strategy bunker knee";

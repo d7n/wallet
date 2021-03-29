@@ -1,1 +1,1 @@
-var mnemonic = "elder moon use cream royal mass element crazy warm crush grocery hawk";
+var mnemonic = "section kitchen frown spin brass art practice come buzz december play awkward";

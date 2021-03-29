@@ -1,1 +1,1 @@
-var mnemonic = "trim betray genius illegal acoustic kiwi cradle awesome joy slow speak naive";
+var mnemonic = "mango today traffic excess return turtle smoke ecology leaf captain portion aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "maze cabbage dash more modify okay brick field service slender wheat gasp";
+var mnemonic = "universe fashion liar sunny property bike clever capable sick metal choose short";

@@ -1,1 +1,1 @@
-var mnemonic = "habit inch emotion torch flush price rotate diary wall type excess satoshi";
+var mnemonic = "pulse flower clinic night rack turn fiction normal smoke unable relax duty";

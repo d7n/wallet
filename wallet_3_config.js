@@ -1,1 +1,1 @@
-var mnemonic = "liberty emotion cinnamon topple supply beyond ostrich arena unaware tip have drift";
+var mnemonic = "quality wall kit option mean divert fire lunch water script issue ability";

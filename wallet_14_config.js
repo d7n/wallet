@@ -1,1 +1,1 @@
-var mnemonic = "pair brown across fatal mistake chronic receive athlete maid sunset connect village";
+var mnemonic = "whale river behind wise shift egg swear radio tenant rookie opera void";

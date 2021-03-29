@@ -1,1 +1,1 @@
-var mnemonic = "relax thank sad hope people parade youth drink sheriff paper rack around";
+var mnemonic = "window twin before fire void talk leisure lumber feel argue follow parent";

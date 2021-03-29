@@ -1,1 +1,1 @@
-var mnemonic = "goose board slight morning border gun timber exhaust vicious nose shove balcony";
+var mnemonic = "toddler diagram dress flag wrap half afraid helmet camera harbor brave swamp";

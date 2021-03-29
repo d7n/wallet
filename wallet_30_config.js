@@ -1,1 +1,1 @@
-var mnemonic = "mercy castle mandate goose parade impose before such author tribe decrease cupboard";
+var mnemonic = "crater code pond hammer hamster evidence orient ill regular sound inquiry search";

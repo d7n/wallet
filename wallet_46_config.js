@@ -1,1 +1,1 @@
-var mnemonic = "express warm afford trial release unit text gloom memory ginger game zone";
+var mnemonic = "private visual capital globe decorate pool salon control menu round force good";

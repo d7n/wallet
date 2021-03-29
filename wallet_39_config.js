@@ -1,1 +1,1 @@
-var mnemonic = "tourist diet champion deposit blast salute steak brave throw recall intact afraid";
+var mnemonic = "cup razor capital love reject face acoustic crucial because pig wrestle museum";

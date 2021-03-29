@@ -1,1 +1,1 @@
-var mnemonic = "hole season mango drink double curtain such bird frozen inherit length luxury";
+var mnemonic = "soon list cash estate gain steel crater nut outer dinosaur tortoise large";

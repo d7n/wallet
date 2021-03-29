@@ -1,1 +1,1 @@
-var mnemonic = "sustain account lemon crew truth viable lesson tennis lecture method chuckle net";
+var mnemonic = "cluster inmate collect kite spell leg spring rabbit pet immense sudden bag";

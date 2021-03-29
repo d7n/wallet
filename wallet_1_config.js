@@ -1,1 +1,1 @@
-var mnemonic = "inform mixture grab syrup alpha ticket wage clerk dawn account door slender";
+var mnemonic = "small timber claim camp good unlock song yellow ready giant easily purpose";

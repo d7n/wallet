@@ -1,1 +1,1 @@
-var mnemonic = "core track already mammal enjoy divide donate amazing certain icon transfer athlete";
+var mnemonic = "delay dilemma embark void plastic dance alien girl floor such ten service";

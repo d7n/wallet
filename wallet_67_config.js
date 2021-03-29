@@ -1,1 +1,1 @@
-var mnemonic = "where where light monitor intact release flame royal misery ramp check globe";
+var mnemonic = "gallery twice live alcohol clarify simple mom pigeon deer laundry among library";

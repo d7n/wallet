@@ -1,1 +1,1 @@
-var mnemonic = "noodle daring teach napkin hub where female accident steak pepper inmate toward";
+var mnemonic = "basic version number index rabbit submit similar fall lunar peanut much mirror";

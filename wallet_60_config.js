@@ -1,1 +1,1 @@
-var mnemonic = "skill laptop indoor arrow behave lottery term found moral island student junior";
+var mnemonic = "help ball saddle candy dove lottery original nest just kiss elevator own";

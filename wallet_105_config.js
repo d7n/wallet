@@ -1,1 +1,1 @@
-var mnemonic = "source smooth welcome isolate busy invite rescue expect exercise debate inside inch";
+var mnemonic = "behind brief guide keen skate north depth good exit gym music umbrella";

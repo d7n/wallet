@@ -1,1 +1,1 @@
-var mnemonic = "crater antique weasel lava harvest initial pigeon error famous work episode verb";
+var mnemonic = "exact brain version wisdom quiz quick share potato enhance drip pizza rail";

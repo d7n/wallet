@@ -1,1 +1,1 @@
-var mnemonic = "click cabbage crisp able diamond razor wheel battle spy victory food town";
+var mnemonic = "humor prosper paper hope spray just fault catch initial feed sense over";

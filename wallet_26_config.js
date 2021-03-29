@@ -1,1 +1,1 @@
-var mnemonic = "kit you marriage abuse merge prison riot jelly board mad claim rigid";
+var mnemonic = "prepare sport concert royal raise scatter symbol consider ensure message twelve bless";

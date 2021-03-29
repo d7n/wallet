@@ -1,1 +1,1 @@
-var mnemonic = "treat cattle slice bid deliver weird indicate illness purity enjoy pass rhythm";
+var mnemonic = "nominee total twist swear liquid alter diamond tell sauce virus flush knee";

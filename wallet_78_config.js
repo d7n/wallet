@@ -1,1 +1,1 @@
-var mnemonic = "attack suffer stamp sword salon thumb joy day embark essay idle desk";
+var mnemonic = "manage shift when civil sell clip review frog stick exotic payment green";

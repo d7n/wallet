@@ -1,1 +1,1 @@
-var mnemonic = "distance strong limit stuff cry parent route pyramid almost impose loop thank";
+var mnemonic = "spy exchange ring quiz hazard orange glow ranch crunch lucky bicycle gaze";

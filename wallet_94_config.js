@@ -1,1 +1,1 @@
-var mnemonic = "romance scissors timber cancel spin list impose decade plate please book all";
+var mnemonic = "sadness bread code smart elite reject seat thunder dumb govern trim harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom boss still bean scout office leopard orphan march vicious picture suggest";
+var mnemonic = "gun pledge father annual wrap select dolphin crash sure dignity deal bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "fringe catch sick coach reason daughter wrong stamp boat ignore gather casino";
+var mnemonic = "artefact another knife cruise bulk grain secret never maze aerobic journey custom";

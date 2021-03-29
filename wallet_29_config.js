@@ -1,1 +1,1 @@
-var mnemonic = "goat mushroom engine save admit eager canoe abandon grunt body autumn abstract";
+var mnemonic = "mask educate shove arrest flip learn weasel warrior length waste need maximum";

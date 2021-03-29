@@ -1,1 +1,1 @@
-var mnemonic = "rib female ignore crack habit barrel elegant round circle sing engine expect";
+var mnemonic = "hunt illegal buzz echo sauce shadow lab slot mutual long maple track";

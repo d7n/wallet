@@ -1,1 +1,1 @@
-var mnemonic = "ozone job tide exclude oak crazy volume news february bullet busy plunge";
+var mnemonic = "all trip push hazard jazz pupil raise elegant pluck license predict coyote";

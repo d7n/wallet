@@ -1,1 +1,1 @@
-var mnemonic = "helmet expand knife occur swing outside smart decorate imitate faculty horror caution";
+var mnemonic = "burger deliver opinion benefit liquid remember false route spike ocean trend correct";

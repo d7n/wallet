@@ -1,1 +1,1 @@
-var mnemonic = "chef current gravity ask enemy arrange supply maid clog memory middle actress";
+var mnemonic = "corn twenty ahead dry position vintage remove shoot use steak term salon";

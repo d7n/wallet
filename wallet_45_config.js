@@ -1,1 +1,1 @@
-var mnemonic = "minor same height detect motion vessel critic cheese connect embrace bar kangaroo";
+var mnemonic = "room remind endless box all cigar milk method assault often outdoor confirm";

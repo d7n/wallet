@@ -1,1 +1,1 @@
-var mnemonic = "occur advice east brick arrow damage mosquito menu safe view slot year";
+var mnemonic = "voyage tip nest night nuclear miracle expire possible dinosaur tragic era sock";

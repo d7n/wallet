@@ -1,1 +1,1 @@
-var mnemonic = "rain say invite soap wild similar arm miracle then seat dance base";
+var mnemonic = "until surge ranch vehicle erode knife arena coral blue midnight pear creek";

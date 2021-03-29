@@ -1,1 +1,1 @@
-var mnemonic = "steel aspect during novel utility lawsuit club buyer carbon primary slot skate";
+var mnemonic = "know atom country habit access drip road squeeze drift hood tragic piano";

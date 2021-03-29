@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit prefer sugar clutch lounge pilot load clog midnight twist airport become";
+var mnemonic = "strong great pudding debate twelve tape bright weird gadget venture true double";

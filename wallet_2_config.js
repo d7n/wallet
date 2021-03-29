@@ -1,1 +1,1 @@
-var mnemonic = "salon course search elephant digital kiss drastic tank bind crush away immense";
+var mnemonic = "hurt news brick pause hill oven occur elder drill stool bid guitar";

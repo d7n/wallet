@@ -1,1 +1,1 @@
-var mnemonic = "lizard female almost tide toast educate recall unknown lock nest flush govern";
+var mnemonic = "music fame best crater wreck ridge scrap castle word elevator legal cancel";

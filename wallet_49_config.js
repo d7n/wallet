@@ -1,1 +1,1 @@
-var mnemonic = "helmet flip gaze pride famous prepare clog hurt atom claim gospel stove";
+var mnemonic = "science fiscal farm soup pluck quality pride rent chalk impact million input";

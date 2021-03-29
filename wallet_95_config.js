@@ -1,1 +1,1 @@
-var mnemonic = "whisper brain mutual amateur victory peace mimic spirit easy enter rain idle";
+var mnemonic = "pattern dash involve hybrid dentist wolf coach reflect thunder jungle clay useless";

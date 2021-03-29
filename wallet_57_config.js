@@ -1,1 +1,1 @@
-var mnemonic = "swim donkey toddler galaxy initial festival sunset air index matrix snake awful";
+var mnemonic = "debate question deal cream stool advance car grunt tooth yard airport beef";

@@ -1,1 +1,1 @@
-var mnemonic = "worry evolve essence world quick useless venture tissue retire teach thrive tackle";
+var mnemonic = "hub inflict caught easy book snap height warrior acid trouble tail skill";

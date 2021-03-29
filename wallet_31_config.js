@@ -1,1 +1,1 @@
-var mnemonic = "lend wet dice guilt easily tortoise silly kiwi busy base safe issue";
+var mnemonic = "cross soup bleak speak stool nuclear layer trumpet embrace choose stone adjust";

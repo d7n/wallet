@@ -1,1 +1,1 @@
-var mnemonic = "rival obey stamp rival party drift very fruit gap gloom deny syrup";
+var mnemonic = "surprise injury monitor pony drift junior identify gallery grocery whip puzzle absorb";

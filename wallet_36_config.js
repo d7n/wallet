@@ -1,1 +1,1 @@
-var mnemonic = "monster grid milk smoke bacon question evolve filter expose alley wear unlock";
+var mnemonic = "much visa crazy fuel trash life enjoy clean tone pudding kid stomach";

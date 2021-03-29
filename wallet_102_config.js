@@ -1,1 +1,1 @@
-var mnemonic = "dune inflict seek trade parade vehicle narrow absurd jungle gesture elbow kind";
+var mnemonic = "child derive elbow drive squirrel museum awful permit ridge grocery toast mix";

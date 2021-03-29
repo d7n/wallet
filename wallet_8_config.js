@@ -1,1 +1,1 @@
-var mnemonic = "forum amateur rather cram sketch boil park arm gospel pave refuse theme";
+var mnemonic = "right innocent cover bubble luggage keep ozone close culture battle grain echo";

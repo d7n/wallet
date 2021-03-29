@@ -1,1 +1,1 @@
-var mnemonic = "turn invite raccoon stadium kitten urge acoustic window vintage win west slam";
+var mnemonic = "rookie vibrant cargo south grid invest average train come debate limb drop";

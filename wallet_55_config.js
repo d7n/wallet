@@ -1,1 +1,1 @@
-var mnemonic = "slab produce exit trial label palace luggage invite dumb bread misery blind";
+var mnemonic = "purity stand more rigid isolate pioneer spoon zone wheat already lucky castle";

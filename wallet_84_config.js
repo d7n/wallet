@@ -1,1 +1,1 @@
-var mnemonic = "assault main green canoe later broken trend soldier vital stove junior comic";
+var mnemonic = "toddler fun reveal what entire model settle medal mansion immense olympic example";

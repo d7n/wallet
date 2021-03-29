@@ -1,1 +1,1 @@
-var mnemonic = "glance polar home again dawn again mom grant flat wrap thrive best";
+var mnemonic = "truth acid twist swim friend enemy inspire flash bean benefit custom slim";

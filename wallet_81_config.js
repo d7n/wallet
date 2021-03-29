@@ -1,1 +1,1 @@
-var mnemonic = "wine riot very draft couple fuel chunk price rail patient once girl";
+var mnemonic = "seminar exercise curious slab aim later two clip calm promote copper belt";

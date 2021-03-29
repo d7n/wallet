@@ -1,1 +1,1 @@
-var mnemonic = "slush adjust similar fence throw labor manage frown size public awake window";
+var mnemonic = "crumble slight more gallery glove female table bag lift discover clerk skin";

@@ -1,1 +1,1 @@
-var mnemonic = "honey crash insect catch raven coffee bar come wool slim auto pelican";
+var mnemonic = "knife shock twenty accuse swear sword vessel embrace found easy rotate interest";

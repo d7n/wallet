@@ -1,1 +1,1 @@
-var mnemonic = "loan thrive unable dilemma level route know repair merry bitter female blouse";
+var mnemonic = "sheriff hero damp another purpose frost ask few waste solution enhance cause";

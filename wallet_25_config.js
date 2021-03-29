@@ -1,1 +1,1 @@
-var mnemonic = "endorse step duty silver pudding leisure robust price churn tag crisp risk";
+var mnemonic = "sleep region wife parent journey screen thunder film coil network fall friend";

@@ -1,1 +1,1 @@
-var mnemonic = "burger promote disagree favorite marine assume outside steel session near west improve";
+var mnemonic = "virtual peasant flag castle syrup dash nephew hawk planet people excess wait";

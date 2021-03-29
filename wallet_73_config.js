@@ -1,1 +1,1 @@
-var mnemonic = "reward relief secret chair man surprise peace point march various foster weird";
+var mnemonic = "dance release purpose aerobic wide very lumber where time arrow pill reduce";

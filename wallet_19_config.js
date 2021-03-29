@@ -1,1 +1,1 @@
-var mnemonic = "price left session wash effort mansion scrap item vapor artwork sense sugar";
+var mnemonic = "crush ancient digital save inch half penalty brown forest option large used";

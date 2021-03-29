@@ -1,1 +1,1 @@
-var mnemonic = "hollow name oyster struggle ribbon forward man lobster involve sorry state bench";
+var mnemonic = "orange index carbon clarify swing excess exact where clay quiz toward ill";

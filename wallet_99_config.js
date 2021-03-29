@@ -1,1 +1,1 @@
-var mnemonic = "fiscal present hobby loyal census between winner shine carbon cannon convince height";
+var mnemonic = "finger dutch relax name reflect leaf antenna aim lamp screen oval improve";

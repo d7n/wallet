@@ -1,1 +1,1 @@
-var mnemonic = "cricket ask lab coconut word glide coach chef fiber mobile fine amazing";
+var mnemonic = "enroll subway elder remember fit soul rug win noise just fix curtain";

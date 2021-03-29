@@ -1,1 +1,1 @@
-var mnemonic = "check sibling chuckle since clump sport vote into flame sand drip over";
+var mnemonic = "struggle joy educate despair example improve lizard budget wall bless glue payment";

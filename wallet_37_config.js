@@ -1,1 +1,1 @@
-var mnemonic = "pupil sleep design test tower ticket feature execute demand forward december whisper";
+var mnemonic = "paper angle employ edit kangaroo margin wood bike little abstract animal gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "skull tonight genius accident bitter foster group shine walk please curtain letter";
+var mnemonic = "rough wage actual increase expose agree organ enter nerve issue walnut pig";

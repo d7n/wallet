@@ -1,1 +1,1 @@
-var mnemonic = "poverty quit journey home document bracket title intact like pig fit account";
+var mnemonic = "usual deny budget fade elite misery gather garden siren orphan advice payment";

@@ -1,1 +1,1 @@
-var mnemonic = "hundred sing shaft what venue slogan hover lunar assault paper ugly stadium";
+var mnemonic = "plastic dash beef spot glory index six hungry ugly excuse canal village";

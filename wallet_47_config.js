@@ -1,1 +1,1 @@
-var mnemonic = "seven strike charge pigeon now surround antenna chronic jewel student fetch attitude";
+var mnemonic = "settle mimic spray dutch pudding spirit page zone entry umbrella siege pig";

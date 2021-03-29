@@ -1,1 +1,1 @@
-var mnemonic = "neglect regular swarm between rocket accident carpet cereal hub reflect furnace wheel";
+var mnemonic = "client trade urban excite visa solve mirror coach renew split wish march";

@@ -1,1 +1,1 @@
-var mnemonic = "credit split mercy large atom length cricket nerve monitor cabin wool educate";
+var mnemonic = "share whisper float occur vanish object can retire average strike pact office";

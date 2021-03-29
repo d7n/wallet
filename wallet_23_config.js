@@ -1,1 +1,1 @@
-var mnemonic = "tomato echo april width trend depth mango million clap ridge master absurd";
+var mnemonic = "mushroom pause nuclear ten saddle course shrimp duck never boil lend consider";

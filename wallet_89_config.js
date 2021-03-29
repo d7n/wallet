@@ -1,1 +1,1 @@
-var mnemonic = "loop twenty ahead upgrade napkin slender napkin snake bargain muscle play live";
+var mnemonic = "fashion annual hospital aspect century title uniform leader rent much lemon diet";

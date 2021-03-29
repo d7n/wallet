@@ -1,1 +1,1 @@
-var mnemonic = "protect metal rain sick dose crystal youth struggle chimney cream admit father";
+var mnemonic = "reform spend image bring jazz negative flight sadness race minute brick fabric";

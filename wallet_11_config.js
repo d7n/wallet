@@ -1,1 +1,1 @@
-var mnemonic = "heart artefact icon ceiling hungry obscure truck acoustic trade detect senior tree";
+var mnemonic = "install voice huge one section version typical ugly other stadium riot month";

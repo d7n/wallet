@@ -1,1 +1,1 @@
-var mnemonic = "wrong car evolve identify mountain fatigue egg sudden follow uncle silk rebuild";
+var mnemonic = "penalty enroll impulse involve jazz peanut tourist canvas tomorrow song industry route";

@@ -1,1 +1,1 @@
-var mnemonic = "valley cricket stone enemy flip frost aware require shock track sell debris";
+var mnemonic = "marriage goat shift celery come figure extend spend naive oval frozen develop";

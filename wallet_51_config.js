@@ -1,1 +1,1 @@
-var mnemonic = "dutch fun fall piece twenty weird vessel allow innocent protect sheriff obtain";
+var mnemonic = "donor notice child census space garage weapon weekend immune capital eagle distance";

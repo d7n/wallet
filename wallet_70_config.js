@@ -1,1 +1,1 @@
-var mnemonic = "dream outer offer credit second flight what potato gym hedgehog wasp that";
+var mnemonic = "feature museum girl match salmon tent swallow trap salon weasel desert forward";

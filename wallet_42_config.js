@@ -1,1 +1,1 @@
-var mnemonic = "quit have few zebra reform recycle hungry settle casino cupboard copy type";
+var mnemonic = "bird strike always rose square uncle wash put dignity someone vocal among";

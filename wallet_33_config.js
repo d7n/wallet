@@ -1,1 +1,1 @@
-var mnemonic = "chat reunion remind medal omit oppose staff acid input royal fox urban";
+var mnemonic = "isolate gift night axis scan key rifle maple file floor sudden leaf";
