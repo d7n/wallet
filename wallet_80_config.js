@@ -1,1 +1,1 @@
-var mnemonic = "equal meadow retire glimpse noble address fortune tent army innocent spread before";
+var mnemonic = "urban fault before stadium trumpet runway sick govern subway taxi rural save";

@@ -1,1 +1,1 @@
-var mnemonic = "blade deer gold layer timber shoot fortune rug soda come dry fan";
+var mnemonic = "rescue chair night aspect bird blur near cave opera prepare security soon";

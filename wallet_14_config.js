@@ -1,1 +1,1 @@
-var mnemonic = "rocket govern gown avocado exchange draw first wash bench elevator warfare rural";
+var mnemonic = "bone awful payment claw jungle alter clog hazard market term absurd timber";

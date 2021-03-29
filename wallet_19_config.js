@@ -1,1 +1,1 @@
-var mnemonic = "model globe chapter hard still alert save still hill ten lecture noise";
+var mnemonic = "across girl eight easily crack casino ugly side program question spell price";

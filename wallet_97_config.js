@@ -1,1 +1,1 @@
-var mnemonic = "casino leopard lift scrap bamboo shadow case ship celery employ drift blast";
+var mnemonic = "hour price sleep label drop art gown aisle next release camp soul";

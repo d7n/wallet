@@ -1,1 +1,1 @@
-var mnemonic = "scare common family harbor foot smoke appear chicken brick outside produce balcony";
+var mnemonic = "off security aerobic senior trash candy bone degree express rhythm surprise floor";

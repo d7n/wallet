@@ -1,1 +1,1 @@
-var mnemonic = "emotion local digital sand champion prevent fever divide issue note obtain limit";
+var mnemonic = "pool lava hole cause link erase damage dice town half hover drink";

@@ -1,1 +1,1 @@
-var mnemonic = "dwarf hundred wonder world more rely leaf rely trash shove fragile buddy";
+var mnemonic = "comfort fade crisp raven glow fox obey citizen movie another ill depart";

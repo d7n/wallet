@@ -1,1 +1,1 @@
-var mnemonic = "jaguar under march all kangaroo inform rebel cement hat fix favorite daring";
+var mnemonic = "heavy hold bamboo gap mask soon hat laundry eager cactus mail hello";

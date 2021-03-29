@@ -1,1 +1,1 @@
-var mnemonic = "sugar artist copy excite antenna put ketchup inmate source attend snack isolate";
+var mnemonic = "dynamic whip plastic amused chicken enlist daring elevator comfort give alone replace";

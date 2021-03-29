@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow illegal claim harbor copper say top ready gossip next race rifle";
+var mnemonic = "warfare barely trim frequent quiz gas afraid wrap alpha beyond fury sight";

@@ -1,1 +1,1 @@
-var mnemonic = "child shoot patch spy bless derive whisper liquid top pumpkin carbon manage";
+var mnemonic = "cat shop fiscal outer virtual inherit dune wish icon column ugly roof";

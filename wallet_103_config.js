@@ -1,1 +1,1 @@
-var mnemonic = "gesture ceiling kit lend quick burden senior slender nephew puppy zoo wage";
+var mnemonic = "snack crouch solution power panic powder radar genuine net pact consider maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "dream clog spell exile target poem bench bind puzzle hand plastic stairs";
+var mnemonic = "salad mule crush liberty law hungry occur drastic run reduce laptop found";

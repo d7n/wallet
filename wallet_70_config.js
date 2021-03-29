@@ -1,1 +1,1 @@
-var mnemonic = "mandate sibling model spoil require target inmate oval merit display genuine honey";
+var mnemonic = "coast sadness omit giraffe symptom orient gesture noodle size onion rare throw";

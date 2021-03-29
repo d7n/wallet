@@ -1,1 +1,1 @@
-var mnemonic = "sweet eternal mother cigar season derive alert area adapt pigeon earth equip";
+var mnemonic = "rib country lend you digital tent crop green need museum clump devote";

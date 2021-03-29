@@ -1,1 +1,1 @@
-var mnemonic = "wrestle behind gate brass depth near radar approve into zone sentence tool";
+var mnemonic = "cup aspect before detect hub width else cabin orbit evidence beach resemble";

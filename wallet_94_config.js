@@ -1,1 +1,1 @@
-var mnemonic = "ignore return category punch clean crouch attend trick disorder upgrade turkey pave";
+var mnemonic = "heavy payment iron emerge fragile detect leave fragile question say theme female";

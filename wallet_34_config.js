@@ -1,1 +1,1 @@
-var mnemonic = "chief exit describe tail clever sunny embrace orphan police frost goddess brother";
+var mnemonic = "test north orient require broken fabric venue early margin dolphin drink they";

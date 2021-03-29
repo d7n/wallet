@@ -1,1 +1,1 @@
-var mnemonic = "tag cable demand arrow energy behave weird nuclear glimpse crunch need ride";
+var mnemonic = "peace fuel romance plunge tip pelican curious plastic wonder number club beauty";

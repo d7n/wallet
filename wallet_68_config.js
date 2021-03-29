@@ -1,1 +1,1 @@
-var mnemonic = "weapon science trade push snake fog sketch remain catalog fashion behind require";
+var mnemonic = "pepper raw project regular surface chimney around base sense monkey onion night";

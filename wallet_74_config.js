@@ -1,1 +1,1 @@
-var mnemonic = "better kitchen breeze destroy cliff magnet garlic best total begin garage tragic";
+var mnemonic = "shallow stable flash employ swap actual dilemma index quiz bamboo breeze surge";

@@ -1,1 +1,1 @@
-var mnemonic = "manage awkward retreat educate gift struggle system isolate swim history client insect";
+var mnemonic = "reason average more test crunch settle domain wedding recipe rent join junk";

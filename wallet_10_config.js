@@ -1,1 +1,1 @@
-var mnemonic = "begin renew rhythm already shed license boil hair student hollow castle regret";
+var mnemonic = "perfect merry payment plunge cream local thought country chicken kiss need extra";

@@ -1,1 +1,1 @@
-var mnemonic = "history chuckle city quote phone tail real sad smart soccer broom screen";
+var mnemonic = "urge genius taxi shrug fury insane flash smile dad pyramid direct umbrella";

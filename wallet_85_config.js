@@ -1,1 +1,1 @@
-var mnemonic = "custom panda hungry film parrot tongue sustain asset mandate logic phone shrimp";
+var mnemonic = "biology firm antique lyrics inner sniff talk found stove ordinary rifle bless";

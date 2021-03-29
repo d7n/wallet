@@ -1,1 +1,1 @@
-var mnemonic = "biology people science laptop toy cry damp dash melody evoke stone anchor";
+var mnemonic = "hammer pave skate siren witness output gallery grit offer alpha flat account";

@@ -1,1 +1,1 @@
-var mnemonic = "cream social limit sadness consider roast wisdom famous mean until drip cycle";
+var mnemonic = "fall arrive almost sell firm add thumb manage shaft double cost domain";

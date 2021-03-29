@@ -1,1 +1,1 @@
-var mnemonic = "country idle kit tobacco elevator oyster vocal vague accident north motor prevent";
+var mnemonic = "baby night sphere know pen omit false universe neither remove crop special";

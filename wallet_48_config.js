@@ -1,1 +1,1 @@
-var mnemonic = "cross honey vehicle bag weird maple asthma other scissors sorry urge today";
+var mnemonic = "cycle oil visit tide tourist match alien sunset tray deer rude spider";

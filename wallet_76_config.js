@@ -1,1 +1,1 @@
-var mnemonic = "vital owner vital expire burger creek head grow stage fee eagle aisle";
+var mnemonic = "grain pigeon degree robust absent armed truck razor comic skin west another";

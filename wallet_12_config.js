@@ -1,1 +1,1 @@
-var mnemonic = "hand worth danger exit page client salad egg hip seed inflict actress";
+var mnemonic = "stock display enjoy test foil shoot wave thunder roof riot example usual";

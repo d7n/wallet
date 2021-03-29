@@ -1,1 +1,1 @@
-var mnemonic = "pelican dwarf orchard ensure spirit emerge lucky club lemon please myself mechanic";
+var mnemonic = "cable answer color harbor rose bundle mad rifle afford cool indicate pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "voyage mistake deposit chef erode brown expire enough joke pull enhance drop";
+var mnemonic = "guard parrot weasel under card lawn weird oblige desk panther deny network";

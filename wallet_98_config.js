@@ -1,1 +1,1 @@
-var mnemonic = "forward flower banner length genius dry concert cruise fatal detail exit wink";
+var mnemonic = "pull side flip nothing hedgehog spawn inside brief deposit east prepare concert";

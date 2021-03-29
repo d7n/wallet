@@ -1,1 +1,1 @@
-var mnemonic = "easily isolate expand scan barely tower smart disorder stereo risk venture guess";
+var mnemonic = "parrot student lake patrol royal debris depth entry method company describe keep";

@@ -1,1 +1,1 @@
-var mnemonic = "sudden tired hundred admit correct chef salt bargain patrol urban cook cool";
+var mnemonic = "slot slab vault fortune future climb divorce submit knee convince fog purse";

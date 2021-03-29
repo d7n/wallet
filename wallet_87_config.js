@@ -1,1 +1,1 @@
-var mnemonic = "stuff bread crane rug drill senior scorpion rebel music custom frost admit";
+var mnemonic = "border bubble adjust endless report erupt slight extend slab armor basic hard";

@@ -1,1 +1,1 @@
-var mnemonic = "gain ride same hint gather coast throw rice cave text parent notable";
+var mnemonic = "trial fox search spot barrel garden drip market good luxury fatal priority";

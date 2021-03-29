@@ -1,1 +1,1 @@
-var mnemonic = "plug ski cloth bomb return index super page choice major wrap wish";
+var mnemonic = "tenant process once add start drop alpha tube matter bring mechanic solid";

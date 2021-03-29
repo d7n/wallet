@@ -1,1 +1,1 @@
-var mnemonic = "axis fruit guide strong crop round visual river child faint essence ignore";
+var mnemonic = "toss firm shoulder primary garage tortoise program pledge budget kite rely arctic";

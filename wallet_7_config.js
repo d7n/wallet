@@ -1,1 +1,1 @@
-var mnemonic = "idea ignore bargain tomorrow lizard inquiry cube leopard comfort flip receive vital";
+var mnemonic = "mansion tennis alpha absorb rib warrior cruise leader sauce party rigid caught";

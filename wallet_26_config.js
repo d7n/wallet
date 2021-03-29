@@ -1,1 +1,1 @@
-var mnemonic = "air subway evoke sunset cricket wine basket pull above eternal steak tongue";
+var mnemonic = "drive exact area dust capable grow romance acquire smoke gown coffee limit";

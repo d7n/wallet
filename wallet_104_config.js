@@ -1,1 +1,1 @@
-var mnemonic = "flee lion stem bar nest harsh leg wear pond useful august box";
+var mnemonic = "slab tennis scatter quick kidney dinosaur situate tissue monitor enable aerobic category";

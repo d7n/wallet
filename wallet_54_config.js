@@ -1,1 +1,1 @@
-var mnemonic = "skull wrap master idea scrub replace exotic essence bread punch differ guard";
+var mnemonic = "spread alcohol tube legend inhale once nut occur method express life nerve";

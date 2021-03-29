@@ -1,1 +1,1 @@
-var mnemonic = "ugly jaguar traffic rocket square inspire favorite kite weasel miracle ostrich glove";
+var mnemonic = "obscure indicate shrug dwarf course purpose jungle palm grid number wrestle coin";

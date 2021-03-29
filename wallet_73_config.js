@@ -1,1 +1,1 @@
-var mnemonic = "pencil pole clown slot replace spring entire orchard near mandate burst venue";
+var mnemonic = "cup enemy month broccoli east vacuum collect start undo female clarify gun";

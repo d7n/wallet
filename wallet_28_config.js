@@ -1,1 +1,1 @@
-var mnemonic = "promote rabbit unable decide illness spring wage radar stairs blush future damage";
+var mnemonic = "profit square tool hundred concert envelope embark hollow sugar muffin soldier swallow";

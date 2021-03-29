@@ -1,1 +1,1 @@
-var mnemonic = "awake net cabbage basic cinnamon left apology chef deliver suit gold nasty";
+var mnemonic = "tag happy leaf coach vintage grain middle vendor siren develop pilot jealous";

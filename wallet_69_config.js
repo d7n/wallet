@@ -1,1 +1,1 @@
-var mnemonic = "novel chef robot pink pave forest ignore proof siren usage awkward plastic";
+var mnemonic = "adjust coach open coil school aim say duty park apology what milk";

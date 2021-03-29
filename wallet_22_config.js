@@ -1,1 +1,1 @@
-var mnemonic = "fish artist verb afraid trick crowd capital begin whip turtle fox sunny";
+var mnemonic = "original void extra worth later tongue stem feed citizen direct runway path";

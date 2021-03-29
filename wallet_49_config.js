@@ -1,1 +1,1 @@
-var mnemonic = "tip glove palm hedgehog swift warfare flower truly icon owner mule mouse";
+var mnemonic = "year verify try once spray click debate aspect wrong know canal mail";

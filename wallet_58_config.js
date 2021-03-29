@@ -1,1 +1,1 @@
-var mnemonic = "bleak crack display barrel pig tired sister bracket visa rib patch buyer";
+var mnemonic = "fruit pepper ensure powder lamp tribe drum student dice dog weather message";

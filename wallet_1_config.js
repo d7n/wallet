@@ -1,1 +1,1 @@
-var mnemonic = "dash mosquito silent essence later vehicle hidden edit timber original tortoise prosper";
+var mnemonic = "charge piano treat solar input green flag require wall cream master absent";

@@ -1,1 +1,1 @@
-var mnemonic = "kingdom crime tilt mail ugly circle blush genius moral oxygen ostrich ethics";
+var mnemonic = "rebuild thing start copper gorilla bracket educate shoe ten search tobacco attract";

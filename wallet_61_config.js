@@ -1,1 +1,1 @@
-var mnemonic = "neck coconut black fly tragic dynamic sorry flock debris civil cross bargain";
+var mnemonic = "marine please steak forward start surprise drift stairs design tiny announce need";

@@ -1,1 +1,1 @@
-var mnemonic = "brother portion make pole tilt fork pause have buyer convince account arrest";
+var mnemonic = "pulse seed impact picture illegal quality donate citizen lab season kitten own";

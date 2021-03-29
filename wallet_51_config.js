@@ -1,1 +1,1 @@
-var mnemonic = "more pulp gadget net other umbrella electric width sport tribe rule space";
+var mnemonic = "puppy swift ice smoke analyst invest core wasp twelve sell truck broken";

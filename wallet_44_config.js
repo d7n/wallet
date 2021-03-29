@@ -1,1 +1,1 @@
-var mnemonic = "habit exchange spice bring hollow access approve outside avoid crop casino hobby";
+var mnemonic = "mind cupboard minute ten luggage dinner middle young nothing person radio soap";

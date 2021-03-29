@@ -1,1 +1,1 @@
-var mnemonic = "castle hire loyal capital snake cup north myself pretty promote mansion treat";
+var mnemonic = "announce brief surge damage bronze term begin morning cube limit virtual window";

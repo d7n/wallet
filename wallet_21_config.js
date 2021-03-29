@@ -1,1 +1,1 @@
-var mnemonic = "hint left cancel peace forum print enlist wrestle odor machine disease mix";
+var mnemonic = "finger orbit truth zone frequent say swarm secret giant gasp inhale broom";

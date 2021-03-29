@@ -1,1 +1,1 @@
-var mnemonic = "build same subway ladder right edge harbor siege erupt boil sure fly";
+var mnemonic = "reunion bulb coral report wink stadium collect pact truth pride that void";

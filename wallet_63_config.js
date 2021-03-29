@@ -1,1 +1,1 @@
-var mnemonic = "beef december angle tool frog similar organ south alien author govern measure";
+var mnemonic = "zone lottery first ranch runway wolf bargain culture subject floor proud walnut";

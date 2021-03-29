@@ -1,1 +1,1 @@
-var mnemonic = "climb chase quarter dove radio dignity curve oyster intact pull exist early";
+var mnemonic = "rate strong sure tunnel purse ankle dress appear remind hope era dog";

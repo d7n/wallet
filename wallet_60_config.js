@@ -1,1 +1,1 @@
-var mnemonic = "sadness file wall wasp just asset tail harbor trash intact mutual bitter";
+var mnemonic = "narrow bird doll erupt transfer pulp material oil problem combine ahead sick";

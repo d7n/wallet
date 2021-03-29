@@ -1,1 +1,1 @@
-var mnemonic = "dove cube fetch this spin kingdom play novel mask rough industry swift";
+var mnemonic = "civil hole patrol despair marine salmon master gentle undo minimum twenty capable";

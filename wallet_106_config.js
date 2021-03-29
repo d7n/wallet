@@ -1,1 +1,1 @@
-var mnemonic = "penalty sad reward lobster bubble artwork chair long thing payment pottery furnace";
+var mnemonic = "law okay apology humor leisure early army room pen tissue duty fringe";

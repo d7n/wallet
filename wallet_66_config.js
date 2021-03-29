@@ -1,1 +1,1 @@
-var mnemonic = "endorse prison lobster tortoise undo holiday grant buzz vicious beach elite depend";
+var mnemonic = "tragic fossil assist silent title pair wave rack school across range style";

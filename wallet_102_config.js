@@ -1,1 +1,1 @@
-var mnemonic = "evil impose boss obvious siege spoil zoo exhibit hero wheat repeat under";
+var mnemonic = "round potato have credit sadness wet warm garden shallow nuclear shoot grass";

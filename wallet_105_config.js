@@ -1,1 +1,1 @@
-var mnemonic = "dice cherry curtain armor hotel walk inspire choice mom regular style valid";
+var mnemonic = "resemble canvas swallow vintage danger park detect thank animal pizza federal trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "trust noodle flock dry twelve that ball sad science estate stage empty";
+var mnemonic = "saddle quick burger will goat raven snow want turn kitten critic amazing";

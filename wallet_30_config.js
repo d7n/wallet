@@ -1,1 +1,1 @@
-var mnemonic = "alpha elder kitchen sausage nurse path brief appear symbol trim gather february";
+var mnemonic = "parrot behind market radio charge dentist afraid village keen axis rule swarm";

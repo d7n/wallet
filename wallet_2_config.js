@@ -1,1 +1,1 @@
-var mnemonic = "cram vivid face garlic demise young brave latin alone diesel shield elephant";
+var mnemonic = "swing skin promote hip video birth poverty snack hood blur frog pledge";

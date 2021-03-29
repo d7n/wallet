@@ -1,1 +1,1 @@
-var mnemonic = "earth forum glow label media sauce style enemy copper iron gossip duty";
+var mnemonic = "flag school copper lyrics blue business use dilemma kiwi goddess mimic climb";

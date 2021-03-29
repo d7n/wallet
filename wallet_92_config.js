@@ -1,1 +1,1 @@
-var mnemonic = "suit card sad bind wish south can home surge liquid broom income";
+var mnemonic = "today tuna leaf mercy diagram defense faith loud cloud wool right exile";

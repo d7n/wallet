@@ -1,1 +1,1 @@
-var mnemonic = "blouse now poverty grape fly same apology accuse refuse mango fold cherry";
+var mnemonic = "object warrior impose execute soul yard smooth until order wing grid jacket";

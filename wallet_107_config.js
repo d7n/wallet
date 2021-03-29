@@ -1,1 +1,1 @@
-var mnemonic = "shed spice salt soon pizza scale scorpion lake cradle pen level time";
+var mnemonic = "repeat make team current cross deal mesh clog gauge explain quick true";

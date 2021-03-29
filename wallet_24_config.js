@@ -1,1 +1,1 @@
-var mnemonic = "ankle rigid urge fix blast card alien put power mutual adult wish";
+var mnemonic = "chapter soap fever payment effort neither segment spring message fuel text blood";

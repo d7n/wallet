@@ -1,1 +1,1 @@
-var mnemonic = "neither soccer entire unusual crew frozen priority poem demand there salon release";
+var mnemonic = "attack chaos frozen slice marriage devote wool canoe rail flag call brush";

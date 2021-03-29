@@ -1,1 +1,1 @@
-var mnemonic = "head rack arrive figure fox veteran moment addict balance bullet mystery drink";
+var mnemonic = "indoor various alert brisk matrix cluster swear soul border script only goddess";

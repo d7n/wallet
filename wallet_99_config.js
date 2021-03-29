@@ -1,1 +1,1 @@
-var mnemonic = "deposit stock power cabin snack clean orbit normal inflict enforce animal notable";
+var mnemonic = "owner market actor girl thrive egg water join buddy nothing plastic uncover";

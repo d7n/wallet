@@ -1,1 +1,1 @@
-var mnemonic = "wheat buzz tray install secret october movie science kid enemy craft magic";
+var mnemonic = "ankle dinosaur balcony library obvious awesome analyst mixed cushion color ski filter";

@@ -1,1 +1,1 @@
-var mnemonic = "east trick achieve develop omit unusual small chair collect tiny swamp govern";
+var mnemonic = "harsh skin spice check bounce spoil fiction kiwi fancy siren inner wide";

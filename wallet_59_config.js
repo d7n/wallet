@@ -1,1 +1,1 @@
-var mnemonic = "between live vivid hood hire mad tool sea steel october actual wing";
+var mnemonic = "ridge glow south minimum silk praise robot traffic dash innocent advice fox";

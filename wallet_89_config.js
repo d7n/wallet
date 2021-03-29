@@ -1,1 +1,1 @@
-var mnemonic = "decline screen private produce idea exotic damp debris slam sunny naive garage";
+var mnemonic = "fever ribbon leopard heart brown twelve jump laptop spin destroy trumpet adapt";

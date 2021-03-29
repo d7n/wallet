@@ -1,1 +1,1 @@
-var mnemonic = "winter duck view peasant eye accident bone ivory speed sting obtain waste";
+var mnemonic = "custom vital tube false tenant record bonus era coach path heavy snow";

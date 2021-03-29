@@ -1,1 +1,1 @@
-var mnemonic = "canyon position sentence find swallow pull task stand lunch hat bus welcome";
+var mnemonic = "sight increase spell avocado antique field erupt help weekend gallery point aunt";

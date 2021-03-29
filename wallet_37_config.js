@@ -1,1 +1,1 @@
-var mnemonic = "limb junior wool traffic limit mercy afford panda trumpet cube jar must";
+var mnemonic = "sleep pilot fog mechanic cereal habit mass salad camera bitter nominee spray";
