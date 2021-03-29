@@ -1,1 +1,1 @@
-var mnemonic = "wood chest antenna notable assist scale suspect heavy damp never awkward attend";
+var mnemonic = "town dutch outdoor canvas dinner series beyond trick crew avoid session hammer";

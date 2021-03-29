@@ -1,1 +1,1 @@
-var mnemonic = "party bless artist giggle live luggage vehicle click atom oak danger joy";
+var mnemonic = "awkward endless carbon stone dash label file obvious funny divorce remain drift";

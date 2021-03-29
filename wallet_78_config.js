@@ -1,1 +1,1 @@
-var mnemonic = "present elder rely agree jewel wire caution scissors refuse laugh roast seven";
+var mnemonic = "mystery remind conduct crop bundle foster pride excuse action focus village remind";

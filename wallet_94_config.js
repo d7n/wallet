@@ -1,1 +1,1 @@
-var mnemonic = "another dumb dwarf wrap round night amazing metal hub surround depth universe";
+var mnemonic = "crucial advice catch curtain repair cry dumb fresh alter fault alone shuffle";

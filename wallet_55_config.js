@@ -1,1 +1,1 @@
-var mnemonic = "catch produce fee claw immune culture carpet foster current hill flip come";
+var mnemonic = "where flash upset road health clip shiver mystery decorate humble tag solve";

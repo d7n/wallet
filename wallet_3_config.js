@@ -1,1 +1,1 @@
-var mnemonic = "galaxy spread bind curtain husband dash initial ugly endless trash wasp renew";
+var mnemonic = "elite okay beach cool draw olive plug submit globe toward tuition midnight";

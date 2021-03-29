@@ -1,1 +1,1 @@
-var mnemonic = "endorse pitch option robot auction post dawn clean drum topple super father";
+var mnemonic = "exotic power smile disorder pool minimum uphold diesel inquiry review own draft";

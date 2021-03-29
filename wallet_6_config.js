@@ -1,1 +1,1 @@
-var mnemonic = "owner walk force parade liar scare note card turtle impose together despair";
+var mnemonic = "great gravity useful siren sadness cool obscure bone gold useful flight eternal";

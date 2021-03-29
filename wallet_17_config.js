@@ -1,1 +1,1 @@
-var mnemonic = "sphere pyramid annual impact pledge rug ribbon siren vessel already grief year";
+var mnemonic = "ticket rice lazy icon jungle tenant onion table pretty kangaroo student robot";

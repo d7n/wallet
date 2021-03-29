@@ -1,1 +1,1 @@
-var mnemonic = "kid client coin lock tourist idea sheriff design uniform body rice lumber";
+var mnemonic = "palace vital wet gloom hungry absurd deliver rare gauge page execute month";

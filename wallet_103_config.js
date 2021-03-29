@@ -1,1 +1,1 @@
-var mnemonic = "wine slam old curve tragic enjoy sample right spin razor tongue awesome";
+var mnemonic = "stay useful address symbol glue gorilla decide scout lend rug inquiry pelican";

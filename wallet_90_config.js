@@ -1,1 +1,1 @@
-var mnemonic = "long what pink reunion pistol edge rocket moon meadow cattle dress month";
+var mnemonic = "cram dice melt river mirror danger segment brief tool purpose talent family";

@@ -1,1 +1,1 @@
-var mnemonic = "memory wonder defense ball cute system design flock embrace human barely stem";
+var mnemonic = "bitter desk train crazy shift slot wheel mask neutral motion stay garden";

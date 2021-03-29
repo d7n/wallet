@@ -1,1 +1,1 @@
-var mnemonic = "wealth admit law green library roof chaos undo potato lawn picture frequent";
+var mnemonic = "canal build option elbow little nest near detect icon credit anchor cable";

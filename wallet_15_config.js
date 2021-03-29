@@ -1,1 +1,1 @@
-var mnemonic = "lucky spend tank day cave matrix merge turn chapter video excite call";
+var mnemonic = "pattern mobile pole essence borrow gospel year neither swarm square acoustic refuse";

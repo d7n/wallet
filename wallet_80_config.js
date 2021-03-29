@@ -1,1 +1,1 @@
-var mnemonic = "spatial current wine oblige fitness energy inhale alien lion loud hat escape";
+var mnemonic = "pitch guard pattern gloom ranch receive panther grunt fan decade tube faith";

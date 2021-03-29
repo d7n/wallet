@@ -1,1 +1,1 @@
-var mnemonic = "affair call catch matrix assume awful bracket wear tuna item banner glove";
+var mnemonic = "easily pull live ramp slender agent trend luggage spider vintage punch true";

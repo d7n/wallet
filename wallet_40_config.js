@@ -1,1 +1,1 @@
-var mnemonic = "weird mom emerge tank novel love walnut endless piece subject vapor pear";
+var mnemonic = "chapter angle car mail sunny umbrella carry still beyond latin perfect vital";

@@ -1,1 +1,1 @@
-var mnemonic = "spare vital guess outer manual method dentist brief permit priority hundred swing";
+var mnemonic = "tray shallow shallow battle deposit twelve august inmate rally amused exact inject";

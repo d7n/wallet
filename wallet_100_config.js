@@ -1,1 +1,1 @@
-var mnemonic = "volcano scatter steel affair tennis vapor ghost valid grass income congress strike";
+var mnemonic = "melt senior harvest shaft summer voice swarm sustain quality sort garbage okay";

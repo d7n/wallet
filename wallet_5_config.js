@@ -1,1 +1,1 @@
-var mnemonic = "neither entry discover rain powder calm surprise wagon hat knock heavy wave";
+var mnemonic = "business result club skull someone cradle venture relax verify excite echo mesh";

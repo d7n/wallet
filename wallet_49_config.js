@@ -1,1 +1,1 @@
-var mnemonic = "tackle label trim city journey tower build flat pizza morning mule walk";
+var mnemonic = "slight clarify infant shrug cup mushroom ordinary gasp fault exit bunker item";

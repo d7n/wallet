@@ -1,1 +1,1 @@
-var mnemonic = "dice area method ten income boil slight mobile report purse relief you";
+var mnemonic = "vacant parent proud axis cigar shiver fix actual cattle jungle balance valley";

@@ -1,1 +1,1 @@
-var mnemonic = "pioneer equal agent dignity curtain dust acquire blanket secret struggle weasel budget";
+var mnemonic = "wheel fiscal demand dune smile soldier birth matrix cabin door arm disorder";

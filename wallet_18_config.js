@@ -1,1 +1,1 @@
-var mnemonic = "divide crane bullet six olympic hidden prepare remove wrap explain oxygen combine";
+var mnemonic = "stand fun exhibit afford gun become door direct stand north solve intact";

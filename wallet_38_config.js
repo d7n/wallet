@@ -1,1 +1,1 @@
-var mnemonic = "hard shed monitor win rabbit wagon frequent lumber thumb subject glass beauty";
+var mnemonic = "fossil danger turtle ivory joy social merry already wild tree edit media";

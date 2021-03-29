@@ -1,1 +1,1 @@
-var mnemonic = "zone ignore food strike quarter sail announce security parade scheme hollow exhibit";
+var mnemonic = "still deposit attend august broom peace door soldier canal trade cousin raise";

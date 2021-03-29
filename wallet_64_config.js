@@ -1,1 +1,1 @@
-var mnemonic = "kiwi funny vibrant humble always spatial planet avoid monitor minimum stool goat";
+var mnemonic = "wait female ketchup between round earth basket enemy bomb casual equip plastic";

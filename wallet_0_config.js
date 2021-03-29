@@ -1,1 +1,1 @@
-var mnemonic = "vapor pig venue grid nice inspire joke spot asthma update amateur devote";
+var mnemonic = "universe napkin price safe agent captain animal jeans wolf tuition merge alien";

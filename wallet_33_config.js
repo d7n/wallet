@@ -1,1 +1,1 @@
-var mnemonic = "connect quarter twist moment belt unusual confirm stereo still zone leg weasel";
+var mnemonic = "wheat swear fiscal just upon hockey tired joy oval knee curve cricket";

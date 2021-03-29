@@ -1,1 +1,1 @@
-var mnemonic = "prosper dignity enroll lemon monitor employ excite misery roast depth bag story";
+var mnemonic = "change bag salon grit forget boy fan length dumb physical video buzz";

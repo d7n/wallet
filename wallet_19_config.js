@@ -1,1 +1,1 @@
-var mnemonic = "riot alley main lab clog spin seven glove route document payment shuffle";
+var mnemonic = "vast sort path visit gown pill cancel alone explain sausage position spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "there ugly timber civil pave prevent unhappy pioneer genuine rare much column";
+var mnemonic = "orchard chicken head firm bacon resist very gold boil limb family absorb";

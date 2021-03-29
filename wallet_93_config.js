@@ -1,1 +1,1 @@
-var mnemonic = "image erase truly burger build swing blast iron bring stand connect anchor";
+var mnemonic = "harsh vanish erosion hamster small ethics sound dutch survey peanut fetch left";

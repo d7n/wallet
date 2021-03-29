@@ -1,1 +1,1 @@
-var mnemonic = "display prison innocent address someone tomorrow ball shrug key reward quality release";
+var mnemonic = "throw squirrel nurse arm million various van remember enable tissue void finger";

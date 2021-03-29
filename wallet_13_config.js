@@ -1,1 +1,1 @@
-var mnemonic = "bitter length nose park decrease speed actress team betray insect heavy setup";
+var mnemonic = "enter item robot glory cool clog fluid drill profit trip light sign";

@@ -1,1 +1,1 @@
-var mnemonic = "permit hope movie vanish couch afford shaft property click around moment flower";
+var mnemonic = "hello hybrid copper muscle library garlic enough coral truth fog taxi hire";

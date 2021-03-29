@@ -1,1 +1,1 @@
-var mnemonic = "illegal torch pink pull unhappy conduct denial game escape lunch feature reason";
+var mnemonic = "focus illegal loan switch sun deer follow stay run cement dry dog";

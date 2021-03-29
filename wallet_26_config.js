@@ -1,1 +1,1 @@
-var mnemonic = "awake harsh knock gossip area distance thrive session art script once laugh";
+var mnemonic = "rural nuclear cousin fossil squirrel welcome sand blood manual wolf initial bounce";

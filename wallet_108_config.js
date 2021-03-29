@@ -1,1 +1,1 @@
-var mnemonic = "flag input crime amount caught sphere expose medal sphere task fix crumble";
+var mnemonic = "hamster message grocery diesel sustain judge biology depth concert attitude unit trigger";

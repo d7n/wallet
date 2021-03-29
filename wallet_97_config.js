@@ -1,1 +1,1 @@
-var mnemonic = "stock siege approve trial crime hint deliver actor benefit enlist sauce grab";
+var mnemonic = "trade gasp gift ready fancy jungle ignore green warrior short scatter glimpse";

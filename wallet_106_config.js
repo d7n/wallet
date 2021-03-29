@@ -1,1 +1,1 @@
-var mnemonic = "chase head unlock ramp cheese mutual suggest identify illness avoid upset faint";
+var mnemonic = "smile glory autumn catch census address dash mobile clay stove way advice";

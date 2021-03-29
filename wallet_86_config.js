@@ -1,1 +1,1 @@
-var mnemonic = "climb pet injury addict rack floor way trust disease soul happy exhaust";
+var mnemonic = "olympic pear side sport earn february scare unfair zone sorry genuine expand";

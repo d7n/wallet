@@ -1,1 +1,1 @@
-var mnemonic = "cabin dune unhappy mystery enjoy time desert eight lonely wide quiz olive";
+var mnemonic = "young race blur hand lunar engage damage tuna rose foot concert muscle";

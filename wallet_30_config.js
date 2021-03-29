@@ -1,1 +1,1 @@
-var mnemonic = "bubble club alley blast enlist hand rice attract must monster wait absurd";
+var mnemonic = "garment guilt enact catch flower pair ill chest bread sample raven fantasy";

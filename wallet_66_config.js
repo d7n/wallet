@@ -1,1 +1,1 @@
-var mnemonic = "virus always wonder ride banner mango caution bus once story silent excite";
+var mnemonic = "congress face price pistol faculty park kangaroo buyer exhaust stairs snake safe";

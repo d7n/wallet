@@ -1,1 +1,1 @@
-var mnemonic = "type boss glove waste online cave try dutch drill between brick test";
+var mnemonic = "scale design gown farm acquire sick daring dilemma twice start rude equal";

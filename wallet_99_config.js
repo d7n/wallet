@@ -1,1 +1,1 @@
-var mnemonic = "zone leave aunt kiss fan retreat useless rabbit atom unusual under laundry";
+var mnemonic = "goat measure isolate faculty sunset put patient main oil order video refuse";

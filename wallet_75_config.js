@@ -1,1 +1,1 @@
-var mnemonic = "copper aim grace approve file name push tired later spatial post surprise";
+var mnemonic = "cry awake limit chimney nephew text scene already leaf sunset wild cinnamon";

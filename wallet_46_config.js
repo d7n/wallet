@@ -1,1 +1,1 @@
-var mnemonic = "light relax slight two diesel regular fabric injury toy mechanic imitate struggle";
+var mnemonic = "dentist mechanic harsh search talent omit bulb castle lobster rigid roast rookie";

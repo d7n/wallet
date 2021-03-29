@@ -1,1 +1,1 @@
-var mnemonic = "spice unique noble chat excuse someone meat avocado outdoor bicycle copper slogan";
+var mnemonic = "text upper slim village price abandon biology gain cloud tackle large crouch";

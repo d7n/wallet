@@ -1,1 +1,1 @@
-var mnemonic = "hammer ring crack toy orchard special melt range clutch renew capable enhance";
+var mnemonic = "feed like foil silent desert also choose drink settle beach welcome explain";

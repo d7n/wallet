@@ -1,1 +1,1 @@
-var mnemonic = "throw bacon kind good taste humor close afraid annual under mom smart";
+var mnemonic = "jealous employ lab latin neck radar radio transfer also country guide brain";

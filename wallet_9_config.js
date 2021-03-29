@@ -1,1 +1,1 @@
-var mnemonic = "race room school glare sphere once awkward remove lift mother unlock want";
+var mnemonic = "answer journey spy deal green chalk winner exile enjoy delay mix arctic";

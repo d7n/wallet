@@ -1,1 +1,1 @@
-var mnemonic = "trumpet group since silver blur such fox speed wear ring voyage super";
+var mnemonic = "meadow vapor route area animal burden action merry broken tattoo file pact";

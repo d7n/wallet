@@ -1,1 +1,1 @@
-var mnemonic = "unable lyrics tomorrow artwork angry bomb vast unfold mango cage shoot oxygen";
+var mnemonic = "crowd mimic also wear asthma veteran collect daughter offer isolate traffic sick";

@@ -1,1 +1,1 @@
-var mnemonic = "still merry term reject glare enrich avocado tunnel tomorrow glove almost upper";
+var mnemonic = "grit task pull ten believe conduct olive setup equal measure put again";

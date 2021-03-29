@@ -1,1 +1,1 @@
-var mnemonic = "venture again joy fatigue blouse portion tell visual edit fitness exhibit warm";
+var mnemonic = "pen cheap spray industry call cargo stick law belt first chief unusual";

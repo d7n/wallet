@@ -1,1 +1,1 @@
-var mnemonic = "seek stage sponsor genuine almost make drip artwork off cheap letter urge";
+var mnemonic = "custom pond among virus south direct divide miracle float upper aisle dizzy";

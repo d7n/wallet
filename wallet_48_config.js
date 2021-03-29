@@ -1,1 +1,1 @@
-var mnemonic = "bitter glove ten foster squirrel path balance impose total fat fortune mercy";
+var mnemonic = "gravity crouch shed fee inhale grid feed degree boil space debris winner";

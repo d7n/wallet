@@ -1,1 +1,1 @@
-var mnemonic = "opera enable track scatter misery seat garment nice course cat useful twist";
+var mnemonic = "box glide cluster surprise exchange harbor walk siren three guilt limb maximum";

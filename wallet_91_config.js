@@ -1,1 +1,1 @@
-var mnemonic = "spend clutch horse dinosaur tree ten stereo donor fee misery grunt target";
+var mnemonic = "roof ivory decade level all leg put joke base start magic maple";

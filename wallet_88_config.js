@@ -1,1 +1,1 @@
-var mnemonic = "elite output canvas fashion figure siege long negative alert draft van cat";
+var mnemonic = "else spider remind easily wedding tuition basket curtain humble main evidence tower";

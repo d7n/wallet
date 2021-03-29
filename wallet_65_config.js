@@ -1,1 +1,1 @@
-var mnemonic = "close fortune display faculty cruel tortoise kiwi together balance example very robust";
+var mnemonic = "rescue what autumn position agree coast gas spare slender pear illness wife";

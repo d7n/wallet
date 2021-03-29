@@ -1,1 +1,1 @@
-var mnemonic = "struggle tide economy visit can neck shoulder supreme exile lesson palace actress";
+var mnemonic = "material fire segment tell security occur any speak trap hold sword law";

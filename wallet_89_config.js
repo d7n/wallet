@@ -1,1 +1,1 @@
-var mnemonic = "pudding prosper ladder climb engine welcome message axis genius era clay artist";
+var mnemonic = "mechanic moon domain amount fence year account enact adjust equip crumble trumpet";

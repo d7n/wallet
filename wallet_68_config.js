@@ -1,1 +1,1 @@
-var mnemonic = "biology fitness obtain style find awesome merge kiwi aunt north skill danger";
+var mnemonic = "digital tired unfair outer quarter cake morning guess bomb found produce index";

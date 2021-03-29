@@ -1,1 +1,1 @@
-var mnemonic = "already tooth river skate job upper acoustic ship vendor ankle hotel push";
+var mnemonic = "radar tone slight worth quarter prevent use equip awful heavy fringe shine";

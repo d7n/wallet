@@ -1,1 +1,1 @@
-var mnemonic = "enrich profit venue dentist bulb slim scale result awake distance draft topic";
+var mnemonic = "ticket loop craft catch rhythm segment roast pitch donkey impact evoke network";

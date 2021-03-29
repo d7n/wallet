@@ -1,1 +1,1 @@
-var mnemonic = "guard radar whisper again define minute myth setup volcano casual illness tag";
+var mnemonic = "dish burst used joke physical sail news vapor bone food mixed retreat";

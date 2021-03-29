@@ -1,1 +1,1 @@
-var mnemonic = "fee ecology fade power immense system jealous patrol render express express vocal";
+var mnemonic = "clever able forum wheel toy sustain century pond recipe liberty doctor wood";

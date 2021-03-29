@@ -1,1 +1,1 @@
-var mnemonic = "champion tumble close have sphere room slice gentle equip regret fork proof";
+var mnemonic = "assist model spawn remember vote enemy sure denial repair grape accident only";

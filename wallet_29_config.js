@@ -1,1 +1,1 @@
-var mnemonic = "tiger vapor edge miracle bounce acquire mystery alcohol else where anxiety very";
+var mnemonic = "idea orphan guard kit action doll casual envelope peasant female pass chunk";

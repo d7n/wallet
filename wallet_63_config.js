@@ -1,1 +1,1 @@
-var mnemonic = "speed blanket creek honey example pond copper fix head owner response coffee";
+var mnemonic = "sport switch sand hurdle belt curtain birth kidney employ imitate immense lemon";

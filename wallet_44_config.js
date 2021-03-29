@@ -1,1 +1,1 @@
-var mnemonic = "ship spoon aunt visit winner fault speed occur helmet spice giant nature";
+var mnemonic = "cargo proud possible pluck arctic liquid clinic day banana supreme enrich old";

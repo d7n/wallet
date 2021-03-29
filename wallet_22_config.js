@@ -1,1 +1,1 @@
-var mnemonic = "olympic cupboard indoor oak myself require motor napkin cheap gaze welcome alpha";
+var mnemonic = "daughter anger small menu metal lab more dinner flight chicken arm can";

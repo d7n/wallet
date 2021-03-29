@@ -1,1 +1,1 @@
-var mnemonic = "motion vintage globe film apple book boost apart put liberty alley cement";
+var mnemonic = "stairs silk toddler answer slot engine brand steel lucky similar voice huge";

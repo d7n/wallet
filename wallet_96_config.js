@@ -1,1 +1,1 @@
-var mnemonic = "scare cinnamon aisle people test worry dawn oppose end alpha vivid luggage";
+var mnemonic = "sustain tornado unique name cliff wealth wink truth monster budget use senior";

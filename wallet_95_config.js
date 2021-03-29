@@ -1,1 +1,1 @@
-var mnemonic = "cherry immense light where steel truth favorite afford drama wire airport offer";
+var mnemonic = "stereo athlete purchase elegant apology visa winter brother spend possible doll fee";

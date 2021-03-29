@@ -1,1 +1,1 @@
-var mnemonic = "theory apology swift apple purpose border recall quiz icon cannon romance bid";
+var mnemonic = "twice enable zero lava scissors edit squirrel bike grant rhythm celery armor";

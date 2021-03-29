@@ -1,1 +1,1 @@
-var mnemonic = "village lake man reduce bubble hand slide claim primary pass dust luggage";
+var mnemonic = "code mixture frown clean kitten vast narrow mother genre smooth universe wonder";

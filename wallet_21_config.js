@@ -1,1 +1,1 @@
-var mnemonic = "unit moral romance patch tower urge grain uncle lyrics chase liquid omit";
+var mnemonic = "tenant spatial machine example glue expire round outer one hawk odor inmate";

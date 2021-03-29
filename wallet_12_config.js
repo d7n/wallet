@@ -1,1 +1,1 @@
-var mnemonic = "sniff bag broccoli harvest program trip below civil wish abstract lens voice";
+var mnemonic = "oppose poet brand indoor become lobster noodle initial order home era april";

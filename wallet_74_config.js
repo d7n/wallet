@@ -1,1 +1,1 @@
-var mnemonic = "void extra parent thrive vast deal leader require cram boy humor raw";
+var mnemonic = "appear isolate bubble token pulp firm phrase attitude rate water quality shiver";

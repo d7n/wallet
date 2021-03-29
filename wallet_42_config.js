@@ -1,1 +1,1 @@
-var mnemonic = "cactus drastic game tower air order right dentist jelly sadness live jacket";
+var mnemonic = "convince grass grid action era velvet symbol girl unfold master drum script";

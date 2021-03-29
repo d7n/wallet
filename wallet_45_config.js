@@ -1,1 +1,1 @@
-var mnemonic = "evil subway decade awake require various arrive simple wagon dress shift soft";
+var mnemonic = "diamond flash face kiwi used unit unfold apple adjust cheese any impulse";

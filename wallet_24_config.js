@@ -1,1 +1,1 @@
-var mnemonic = "quit plug lyrics december cover problem ritual attitude shoot today shield track";
+var mnemonic = "ocean tumble ceiling curtain door grace cover upset merry salt lemon brick";

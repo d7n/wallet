@@ -1,1 +1,1 @@
-var mnemonic = "keep such organ stomach rigid fault plate inflict kick rule betray shiver";
+var mnemonic = "better alter wrestle ranch dismiss enlist confirm sponsor frame kiwi boost inject";

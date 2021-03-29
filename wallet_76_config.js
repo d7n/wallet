@@ -1,1 +1,1 @@
-var mnemonic = "bargain critic topic census fade guess bird idle select mother project prevent";
+var mnemonic = "betray exclude grant recipe obvious write echo snake used fantasy song pole";

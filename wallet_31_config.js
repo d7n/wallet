@@ -1,1 +1,1 @@
-var mnemonic = "denial hat silly work moral thank person song foam swift smart stove";
+var mnemonic = "bracket flash energy quote middle lend shell game decide before ozone position";

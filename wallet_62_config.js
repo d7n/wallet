@@ -1,1 +1,1 @@
-var mnemonic = "student citizen ice blind pyramid network unlock nest lizard shove talent slow";
+var mnemonic = "come click amateur legal timber estate clerk oil camera history camera entry";

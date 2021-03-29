@@ -1,1 +1,1 @@
-var mnemonic = "puppy arrest toy verify universe civil captain upgrade uncover myth caught home";
+var mnemonic = "clown pupil blush tired harvest powder nerve multiply obscure already diagram load";

@@ -1,1 +1,1 @@
-var mnemonic = "copy diary opera genius vote cat kidney retire assist major diet misery";
+var mnemonic = "surge nothing area violin sniff question blade mail bacon harvest grant daring";

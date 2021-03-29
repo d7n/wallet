@@ -1,1 +1,1 @@
-var mnemonic = "huge toilet another tell polar category cube kingdom donor brain gas congress";
+var mnemonic = "vault rose way peanut faculty juice piece spirit weather deer mesh endorse";

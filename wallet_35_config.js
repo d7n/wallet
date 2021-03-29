@@ -1,1 +1,1 @@
-var mnemonic = "illegal stool tattoo front rug night object setup index normal jazz want";
+var mnemonic = "carpet improve change belt name fresh spatial verb ridge index you mountain";

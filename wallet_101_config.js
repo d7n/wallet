@@ -1,1 +1,1 @@
-var mnemonic = "melody web cement machine disagree cloth among latin tool people upset length";
+var mnemonic = "found jealous sunset rural sauce jeans actress coin loud clay dinner clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "door goddess panther wisdom baby brisk clown about jeans faint divorce country";
+var mnemonic = "december squeeze concert repeat before monkey lecture demand anchor wrap first involve";

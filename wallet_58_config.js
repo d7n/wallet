@@ -1,1 +1,1 @@
-var mnemonic = "total cotton visual cost rule orient brick combine basic rough honey fork";
+var mnemonic = "crash gasp syrup chapter city view illness ozone special tower interest multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "option staff outdoor trouble tonight evil settle success obvious snack cool net";
+var mnemonic = "divorce attract harbor brain what cook few ask brisk ankle topple inflict";

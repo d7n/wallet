@@ -1,1 +1,1 @@
-var mnemonic = "panther asthma symptom pupil hire harvest rent still habit pipe obey fury";
+var mnemonic = "worth spy hint clarify that rose polar three truly turkey noodle picnic";
