@@ -1,1 +1,1 @@
-var mnemonic = "design must tuna pig credit input else circle fluid dilemma clay copy";
+var mnemonic = "forum play this grocery stay donate uphold match pair nerve orbit fluid";

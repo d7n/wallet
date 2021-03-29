@@ -1,1 +1,1 @@
-var mnemonic = "broom exercise drip gold gap sick marriage people oblige maple slim winner";
+var mnemonic = "army brass decline guitar polar auto alert crane clarify wheat dinosaur shadow";

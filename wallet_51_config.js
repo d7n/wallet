@@ -1,1 +1,1 @@
-var mnemonic = "climb figure sound dinosaur actor surface color lumber stove wait critic art";
+var mnemonic = "funny sadness discover system divorce way victory similar used good circle spread";

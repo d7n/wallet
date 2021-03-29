@@ -1,1 +1,1 @@
-var mnemonic = "column corn slot because devote fatal siren omit warm wait reflect west";
+var mnemonic = "chef acquire usage father educate lava captain buzz afraid flip claim cute";

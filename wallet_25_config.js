@@ -1,1 +1,1 @@
-var mnemonic = "sell visa torch verb roast where catalog olive apple wrap oblige follow";
+var mnemonic = "three verb success champion cement attitude sad mom response visa treat talk";

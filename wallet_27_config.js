@@ -1,1 +1,1 @@
-var mnemonic = "render antique toward basket swim more actual point amused solution curve icon";
+var mnemonic = "dentist basket exclude breeze canal meadow address slot daring shadow coral shoot";

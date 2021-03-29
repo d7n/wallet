@@ -1,1 +1,1 @@
-var mnemonic = "judge embark enjoy hero equal hotel target confirm loop sad jump grief";
+var mnemonic = "antique grunt alter million repair control sample garden update tree monkey oblige";

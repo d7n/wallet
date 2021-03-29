@@ -1,1 +1,1 @@
-var mnemonic = "disagree combine lunch federal palace hour tiny gadget fabric walnut soul ordinary";
+var mnemonic = "waste wheel ostrich acquire pair language decide fine stick mushroom cook hood";

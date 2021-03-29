@@ -1,1 +1,1 @@
-var mnemonic = "diesel wool armor improve mountain buddy defense left sock indoor ladder emerge";
+var mnemonic = "venture shed horror enable absent faint wool rapid pyramid almost fabric analyst";

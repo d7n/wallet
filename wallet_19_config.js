@@ -1,1 +1,1 @@
-var mnemonic = "agent prize path frame include space visit canal current need advance wide";
+var mnemonic = "select illegal surface gospel sand salad engage napkin heavy upset crop ramp";

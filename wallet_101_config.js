@@ -1,1 +1,1 @@
-var mnemonic = "rebel rural lucky monkey arm acquire name left unveil crane merge angle";
+var mnemonic = "nuclear toward organ labor dizzy hobby power style mansion answer oven slot";

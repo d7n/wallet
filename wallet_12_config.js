@@ -1,1 +1,1 @@
-var mnemonic = "garden man mass divorce track company seminar task expire envelope about bind";
+var mnemonic = "asthma alcohol reason liberty cheap chef solid cancel sketch blind penalty train";

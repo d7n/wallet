@@ -1,1 +1,1 @@
-var mnemonic = "glide buzz relax vintage note rough depth remind century people ball punch";
+var mnemonic = "ready regular stock champion result picnic list figure school beach hurry cube";

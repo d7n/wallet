@@ -1,1 +1,1 @@
-var mnemonic = "flight gym destroy wild auction faith column logic spare risk book example";
+var mnemonic = "render suffer best cream butter mandate measure huge blur vote sponsor patrol";

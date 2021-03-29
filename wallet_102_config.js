@@ -1,1 +1,1 @@
-var mnemonic = "wine ahead real trend net ridge reflect base fault amazing caution tobacco";
+var mnemonic = "speak remain siege chief poverty vast salmon tired roast crew lend jealous";

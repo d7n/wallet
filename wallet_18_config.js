@@ -1,1 +1,1 @@
-var mnemonic = "trim traffic edge daughter access obey lion left fashion truck define tumble";
+var mnemonic = "cute please mirror maid surface shop they treat renew virus private dirt";

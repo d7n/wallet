@@ -1,1 +1,1 @@
-var mnemonic = "bridge property increase wheel between buzz sign learn luxury sunset upgrade marble";
+var mnemonic = "trigger scrap train submit chef waste tent comic lemon table access mandate";

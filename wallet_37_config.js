@@ -1,1 +1,1 @@
-var mnemonic = "layer suffer quit east mutual afraid market marble wrap fiction roof maze";
+var mnemonic = "short denial muscle absorb prevent shop tray photo act front syrup size";

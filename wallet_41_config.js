@@ -1,1 +1,1 @@
-var mnemonic = "pool symbol speed gas job quality odor machine girl purpose buddy army";
+var mnemonic = "accuse erosion arrange smart ceiling ticket forest dolphin oval fruit inherit legal";

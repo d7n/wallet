@@ -1,1 +1,1 @@
-var mnemonic = "spoil over scheme already junior hire candy liberty half fortune clever swarm";
+var mnemonic = "good snap history curtain wine once lab try sure come sniff fork";

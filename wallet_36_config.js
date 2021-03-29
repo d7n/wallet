@@ -1,1 +1,1 @@
-var mnemonic = "sound uphold bitter either brave pistol six truck finish left truck found";
+var mnemonic = "match script spot dutch hand wrestle foil outdoor profit guess donor flee";

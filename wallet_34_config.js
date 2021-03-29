@@ -1,1 +1,1 @@
-var mnemonic = "palm sorry sibling innocent reflect rhythm wasp tortoise good bomb that update";
+var mnemonic = "strong response kiss main left equip guide require dish entry thumb wool";

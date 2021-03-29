@@ -1,1 +1,1 @@
-var mnemonic = "fly office hedgehog figure power season disorder wave gloom segment process warrior";
+var mnemonic = "produce test fruit work cradle wage alley tooth run stomach inflict awake";

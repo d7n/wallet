@@ -1,1 +1,1 @@
-var mnemonic = "display traffic truth hazard begin talent typical pizza among exclude rural document";
+var mnemonic = "decade permit critic safe sad cinnamon junior payment beyond unfair earth public";

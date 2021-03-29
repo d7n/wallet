@@ -1,1 +1,1 @@
-var mnemonic = "box panic inhale arrest pulse steel capital skill song slush regret butter";
+var mnemonic = "harvest puzzle fluid industry ribbon human run merge print off term step";

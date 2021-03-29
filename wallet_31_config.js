@@ -1,1 +1,1 @@
-var mnemonic = "blossom dose glory victory phone garlic hybrid inside tip bronze indicate spirit";
+var mnemonic = "inhale report void swift traffic depth shove cream cargo crush boring kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "connect hawk unique inject congress humble eager sport keep prefer sting bean";
+var mnemonic = "notable tunnel foot bean weapon now blade erosion target ready rug silly";

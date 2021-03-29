@@ -1,1 +1,1 @@
-var mnemonic = "gown banner grid code thumb chair muffin cricket cactus coach juice chicken";
+var mnemonic = "sleep glance weapon fade must bag shy accident breeze abstract swarm vibrant";

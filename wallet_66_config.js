@@ -1,1 +1,1 @@
-var mnemonic = "moon pet harvest disagree burger trick smooth quote mobile cave slot foam";
+var mnemonic = "want rebel setup ancient cable cave index gossip evidence correct fitness search";

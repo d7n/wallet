@@ -1,1 +1,1 @@
-var mnemonic = "decide inch salad tuition envelope grid burger derive ghost knock item estate";
+var mnemonic = "laugh bitter empower second leopard recycle future mouse leopard creek liquid jaguar";

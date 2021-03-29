@@ -1,1 +1,1 @@
-var mnemonic = "erode bulb code brown diary unveil brisk organ trim echo accuse radar";
+var mnemonic = "response garbage name category ball lazy belt alarm table couch surface dirt";

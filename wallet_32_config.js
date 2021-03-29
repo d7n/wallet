@@ -1,1 +1,1 @@
-var mnemonic = "indicate vapor edge poem trend breeze mother charge visit glare rose aerobic";
+var mnemonic = "strike frozen brief cry swamp awesome diet air grape morning shoulder wool";

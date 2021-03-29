@@ -1,1 +1,1 @@
-var mnemonic = "purse only build swap dragon emerge message used round maid allow diary";
+var mnemonic = "question raise govern planet punch surface quick visa stool round write olympic";

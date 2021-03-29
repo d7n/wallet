@@ -1,1 +1,1 @@
-var mnemonic = "coast chimney proof puppy mushroom enter potato cigar need correct indicate chat";
+var mnemonic = "need enough cat token ivory spawn subject pumpkin drive silly unveil heavy";

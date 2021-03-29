@@ -1,1 +1,1 @@
-var mnemonic = "away better lift method universe awkward lady cat cheap very text receive";
+var mnemonic = "sort carpet fine material dolphin medal wink bacon dentist town announce burst";

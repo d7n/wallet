@@ -1,1 +1,1 @@
-var mnemonic = "report double steel dinosaur cook borrow hockey close rail verify help crater";
+var mnemonic = "foam wedding gas stone exact foster lunar drip electric angry injury faint";

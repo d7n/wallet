@@ -1,1 +1,1 @@
-var mnemonic = "dog adapt umbrella better mesh combine high universe teach copy elegant purpose";
+var mnemonic = "normal excess fox safe sport item debate error globe pioneer decrease survey";

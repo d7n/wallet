@@ -1,1 +1,1 @@
-var mnemonic = "diamond local logic desert leisure misery predict legal ankle primary job dice";
+var mnemonic = "worry bulk force prepare vanish dice nest own install arctic know tuition";

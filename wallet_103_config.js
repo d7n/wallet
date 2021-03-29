@@ -1,1 +1,1 @@
-var mnemonic = "garlic amateur mention foam peace three pitch detail chapter knee fantasy learn";
+var mnemonic = "month observe garage alpha fame silk attack planet series illness observe rifle";

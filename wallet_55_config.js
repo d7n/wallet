@@ -1,1 +1,1 @@
-var mnemonic = "wool erupt host opinion swap describe prevent initial exact extra injury purity";
+var mnemonic = "clinic volcano biology uniform gas stomach they average element wagon consider hidden";

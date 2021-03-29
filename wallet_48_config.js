@@ -1,1 +1,1 @@
-var mnemonic = "gown radar vendor gloom success doll usual walk such now alley bundle";
+var mnemonic = "detail kite achieve iron fruit chase pattern fence draw stage slim limb";

@@ -1,1 +1,1 @@
-var mnemonic = "fabric enhance roof often slice wild source auction popular curious forget sort";
+var mnemonic = "across filter region attend habit soft pill local satisfy kitchen stool other";

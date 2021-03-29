@@ -1,1 +1,1 @@
-var mnemonic = "rebel bicycle nose tooth current suggest cargo roast harsh pen silver vessel";
+var mnemonic = "film grief tank addict allow adapt shoot property west depth dentist tunnel";

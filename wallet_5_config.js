@@ -1,1 +1,1 @@
-var mnemonic = "century industry anxiety expose ozone gym denial chase uncover target offer addict";
+var mnemonic = "unveil tornado old field empty merit feed people clip chronic mean join";

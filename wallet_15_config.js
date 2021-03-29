@@ -1,1 +1,1 @@
-var mnemonic = "absorb detail seminar tuna marriage soul foil defense stem exclude caught arrow";
+var mnemonic = "festival demand worth mistake hill carbon silk arrest behind inside art poet";

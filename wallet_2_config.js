@@ -1,1 +1,1 @@
-var mnemonic = "behind embody release random young warrior emotion grunt marble resource setup combine";
+var mnemonic = "spirit merge tail season police brass wrong picnic gasp license goose pair";

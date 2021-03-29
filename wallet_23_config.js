@@ -1,1 +1,1 @@
-var mnemonic = "traffic erode sail window behind timber close timber live science divide course";
+var mnemonic = "sweet ghost notice online face turtle inform seminar number regret dress trial";

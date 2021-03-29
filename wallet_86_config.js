@@ -1,1 +1,1 @@
-var mnemonic = "usage shove spawn decrease advance blush jacket blanket return cycle act owner";
+var mnemonic = "lens tired depart hedgehog giraffe exit nurse dice elbow funny carbon owner";

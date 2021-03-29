@@ -1,1 +1,1 @@
-var mnemonic = "people scale surface appear correct bunker apple work bean blood forward rather";
+var mnemonic = "air limb broom chuckle fix spot bulb decrease drum cake forest gravity";

@@ -1,1 +1,1 @@
-var mnemonic = "poet silk rocket hero various peasant noise ghost night safe ocean quit";
+var mnemonic = "dad hint detect borrow sibling endless couch pole syrup diamond exhibit pear";

@@ -1,1 +1,1 @@
-var mnemonic = "near weasel sport tumble moment maid pyramid soldier phrase pulse diesel soon";
+var mnemonic = "jeans mosquito tiny awkward floor grit brief click boil mosquito lazy simple";

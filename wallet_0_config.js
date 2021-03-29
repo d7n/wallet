@@ -1,1 +1,1 @@
-var mnemonic = "turn abandon myself source vault fade labor myself decline tackle south equal";
+var mnemonic = "soldier song cradle empower weasel planet hint simple item organ promote ancient";

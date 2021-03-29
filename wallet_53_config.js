@@ -1,1 +1,1 @@
-var mnemonic = "twenty crack rookie veteran picture conduct noble wagon script champion sock topple";
+var mnemonic = "catch fiber gasp calm joke duck swarm night spoil ancient one scheme";

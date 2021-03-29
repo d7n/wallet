@@ -1,1 +1,1 @@
-var mnemonic = "whale mom knock height normal license gun bleak tortoise option soon egg";
+var mnemonic = "fresh spike symbol patient group dwarf prosper ball hen any ivory pattern";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry draw garbage mad bonus surge popular magic weekend anchor bench umbrella";
+var mnemonic = "until chaos setup stumble tackle suit dinosaur exact blossom try annual empty";

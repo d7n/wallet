@@ -1,1 +1,1 @@
-var mnemonic = "kick beyond sun object nut still boring van ugly talent motor amount";
+var mnemonic = "spawn paper desk garbage food acoustic rhythm belt inject wrestle certain organ";

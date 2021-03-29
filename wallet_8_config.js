@@ -1,1 +1,1 @@
-var mnemonic = "cube raccoon bachelor grain window gasp castle wear whip life cup giggle";
+var mnemonic = "dynamic ski drop breeze slender confirm into crunch image pass truth risk";

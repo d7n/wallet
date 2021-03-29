@@ -1,1 +1,1 @@
-var mnemonic = "liberty history demise casino pattern burst cost crawl beach machine forward faculty";
+var mnemonic = "action into dress stage dentist peace repeat myself sentence industry skin truly";

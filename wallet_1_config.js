@@ -1,1 +1,1 @@
-var mnemonic = "keep useful crew lesson strike shoe rather rare member grape acquire woman";
+var mnemonic = "clap afford catch vote genius fury vehicle sun owner nice bicycle process";

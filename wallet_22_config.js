@@ -1,1 +1,1 @@
-var mnemonic = "stick pizza surprise sweet purity sound random select sing dinner pool reunion";
+var mnemonic = "receive bread entry midnight doll misery asthma vital mutual define insane coast";

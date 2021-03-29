@@ -1,1 +1,1 @@
-var mnemonic = "digital admit antique vintage theme guilt element broccoli celery column rice horror";
+var mnemonic = "black mobile valid movie nominee host brick donkey cycle guitar emerge cupboard";

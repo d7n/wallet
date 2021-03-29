@@ -1,1 +1,1 @@
-var mnemonic = "mimic order awkward program true couch icon clean lamp include become series";
+var mnemonic = "pole pony grunt empower orange high club silver gauge dignity inspire aware";

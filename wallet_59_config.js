@@ -1,1 +1,1 @@
-var mnemonic = "cannon bench thing course leg train length sorry tilt remove trophy exotic";
+var mnemonic = "effort caution manual juice alcohol horn antique funny build empty fence achieve";

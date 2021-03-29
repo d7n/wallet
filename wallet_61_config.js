@@ -1,1 +1,1 @@
-var mnemonic = "debate magnet adapt furnace speed glow broken receive jump outdoor shy addict";
+var mnemonic = "owner print early glue collect boss wonder gesture black eight vacuum stage";

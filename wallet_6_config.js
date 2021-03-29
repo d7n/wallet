@@ -1,1 +1,1 @@
-var mnemonic = "message result test dune machine fee convince addict people conduct bachelor practice";
+var mnemonic = "salad police pig fan corn stove piano feature mechanic swamp green duck";

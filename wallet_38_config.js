@@ -1,1 +1,1 @@
-var mnemonic = "pottery hire gorilla trap bright hub february cream lazy emotion strong dream";
+var mnemonic = "nephew bright ride note eyebrow citizen damp turkey vague dragon wolf shop";

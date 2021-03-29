@@ -1,1 +1,1 @@
-var mnemonic = "tool two produce mushroom final truck marine idle behave scheme recall daring";
+var mnemonic = "image act food icon situate joy wash picture two daughter ticket know";

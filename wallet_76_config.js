@@ -1,1 +1,1 @@
-var mnemonic = "hover occur video field raven defy refuse tone illegal negative stable proud";
+var mnemonic = "trial addict promote chat nose gauge drama traffic chimney whisper sign purse";

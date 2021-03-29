@@ -1,1 +1,1 @@
-var mnemonic = "note evoke photo observe cash become enemy peasant quarter nest anger focus";
+var mnemonic = "couch poem upgrade bracket zone dutch claim boy phone better abandon island";

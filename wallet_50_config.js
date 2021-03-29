@@ -1,1 +1,1 @@
-var mnemonic = "raise nose confirm length two language afraid puzzle ticket quick tube lamp";
+var mnemonic = "impact admit design fork warrior belt sausage panic bubble tornado wash people";

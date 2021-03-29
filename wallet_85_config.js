@@ -1,1 +1,1 @@
-var mnemonic = "noble wolf liquid present dirt winter tool blouse slow crew vicious armor";
+var mnemonic = "guess target shoot business bench eight behave pumpkin odor also genius vault";

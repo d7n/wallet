@@ -1,1 +1,1 @@
-var mnemonic = "rebel grit climb discover warm plastic chicken face extra actual confirm box";
+var mnemonic = "faith brick giraffe sing useful shadow woman parade hidden bring grape adapt";

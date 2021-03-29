@@ -1,1 +1,1 @@
-var mnemonic = "web sight news else odor garment rug walk there text erase umbrella";
+var mnemonic = "burst pass art exit resist patrol double bag card onion attend large";

@@ -1,1 +1,1 @@
-var mnemonic = "match visa modify like venue hip point cook turtle remember fog garbage";
+var mnemonic = "where essence place indoor guard slice combine vocal genuine ecology shoe cradle";

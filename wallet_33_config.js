@@ -1,1 +1,1 @@
-var mnemonic = "purchase crisp vanish profit false boost eyebrow grab kitten weasel high cupboard";
+var mnemonic = "sheriff aim divorce word explain unaware long fine search direct stable quote";

@@ -1,1 +1,1 @@
-var mnemonic = "nation oxygen mixed dice course pupil flip soul blue roast wood crop";
+var mnemonic = "goddess coyote person embark husband monster course dose upon garden crane dynamic";

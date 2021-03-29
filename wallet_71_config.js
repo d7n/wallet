@@ -1,1 +1,1 @@
-var mnemonic = "tent body resource hurt tooth age knife mirror denial army imitate fringe";
+var mnemonic = "ostrich involve column pulse sad govern delay sugar high unit address boss";

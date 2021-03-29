@@ -1,1 +1,1 @@
-var mnemonic = "uncover blur hub era tip total solar cross lawn monitor ivory notice";
+var mnemonic = "weekend level situate firm youth text bright wine time arm patch plate";

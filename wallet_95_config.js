@@ -1,1 +1,1 @@
-var mnemonic = "urge prevent profit camera slow rifle abuse fitness wealth please bless liar";
+var mnemonic = "direct egg swamp alarm crop master adjust wedding raw shed script hill";

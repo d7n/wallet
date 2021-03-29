@@ -1,1 +1,1 @@
-var mnemonic = "mercy protect gate inflict horror lock effort shed rhythm reopen anchor retire";
+var mnemonic = "silk fetch boring oblige rather illegal broom fall tree clay seek axis";

@@ -1,1 +1,1 @@
-var mnemonic = "capital erupt nasty second bottom shuffle glue six inhale wild puppy bread";
+var mnemonic = "blade carpet fan repair width evidence faint cactus usage betray coil movie";

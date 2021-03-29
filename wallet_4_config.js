@@ -1,1 +1,1 @@
-var mnemonic = "biology dress decide prevent since favorite blood right kiwi truck episode series";
+var mnemonic = "come frozen soul until clog humble start utility come code loyal win";

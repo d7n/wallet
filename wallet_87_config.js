@@ -1,1 +1,1 @@
-var mnemonic = "song meat march water hello coil comfort curve crush local alarm topic";
+var mnemonic = "parrot crowd crouch stamp apology original method rebel habit elite hub hurdle";

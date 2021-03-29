@@ -1,1 +1,1 @@
-var mnemonic = "organ useful deer stand myself finger axis setup typical minute busy swamp";
+var mnemonic = "across plastic mean viable kidney volcano habit pig brick outdoor slow panic";

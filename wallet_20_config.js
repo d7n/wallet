@@ -1,1 +1,1 @@
-var mnemonic = "wasp virtual dune bless refuse satisfy fun dwarf combine fetch half embark";
+var mnemonic = "undo rabbit tide move jelly visit pause door taste interest elephant hole";

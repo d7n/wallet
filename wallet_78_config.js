@@ -1,1 +1,1 @@
-var mnemonic = "holiday spring era fabric ladder jump canoe genius nominee kiwi baby circle";
+var mnemonic = "outdoor renew need flock good suggest vapor jealous clump crane rack pipe";

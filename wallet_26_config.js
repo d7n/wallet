@@ -1,1 +1,1 @@
-var mnemonic = "approve income close toast screen hamster broccoli luxury sick animal cattle economy";
+var mnemonic = "earth initial model trap trophy purpose wire rebuild stadium swim help muffin";

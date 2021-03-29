@@ -1,1 +1,1 @@
-var mnemonic = "toast present relief rescue history visit scheme hockey popular rubber avocado range";
+var mnemonic = "street certain drink cover embrace rail chat menu remain into north planet";

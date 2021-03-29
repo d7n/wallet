@@ -1,1 +1,1 @@
-var mnemonic = "glance office inform observe sweet gown balance slam farm grow confirm dilemma";
+var mnemonic = "broccoli obscure option cube family outer dirt attitude vital slight protect public";

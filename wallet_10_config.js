@@ -1,1 +1,1 @@
-var mnemonic = "stay sight add dish property squirrel damage govern fun armed prison cover";
+var mnemonic = "elder shoot velvet dilemma whip remove much vault grief cable churn worth";

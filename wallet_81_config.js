@@ -1,1 +1,1 @@
-var mnemonic = "much question health garlic palm always ice spoil spray robot junior then";
+var mnemonic = "keep food thought dizzy route sell gospel bullet okay cook motor valid";

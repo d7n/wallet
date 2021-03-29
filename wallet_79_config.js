@@ -1,1 +1,1 @@
-var mnemonic = "helmet own vendor chair view stick wheel evidence west option tower tragic";
+var mnemonic = "approve common proud stereo stamp giggle mule urban mushroom top moon repair";
