@@ -1,1 +1,1 @@
-var mnemonic = "quality spend happy clown legend doctor genuine midnight pencil exercise father income";
+var mnemonic = "peace copy pledge comfort outdoor scrap prefer mushroom absorb token canyon scan";

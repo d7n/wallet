@@ -1,1 +1,1 @@
-var mnemonic = "sadness public test runway toward license october wasp confirm define wall net";
+var mnemonic = "steak crazy hollow emotion like flight level life pond board dignity bounce";

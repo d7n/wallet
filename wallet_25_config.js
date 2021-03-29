@@ -1,1 +1,1 @@
-var mnemonic = "book okay present square wire squeeze leopard december over write picture grass";
+var mnemonic = "wheel concert rent extend unhappy enact name amused reduce trick away manual";

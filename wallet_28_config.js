@@ -1,1 +1,1 @@
-var mnemonic = "fury loan pink high best kit tourist chimney marriage razor actual where";
+var mnemonic = "clap junk mirror pipe fabric cabbage ankle uphold soup about agent circle";

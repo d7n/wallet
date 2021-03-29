@@ -1,1 +1,1 @@
-var mnemonic = "divide always hunt segment crucial drill genre gauge blossom car truck dice";
+var mnemonic = "mechanic odor rather castle brief rotate nuclear release gather reopen large occur";

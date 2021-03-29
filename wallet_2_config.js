@@ -1,1 +1,1 @@
-var mnemonic = "impact raven moral company tool nothing buzz short chimney false dawn engine";
+var mnemonic = "lend guide dentist robot arrest envelope chaos boil river picture chaos meadow";

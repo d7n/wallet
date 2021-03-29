@@ -1,1 +1,1 @@
-var mnemonic = "roast large design dice grunt tone capable grunt insect obvious regret model";
+var mnemonic = "purpose tuition mammal flee home decorate process cheese yard figure east design";

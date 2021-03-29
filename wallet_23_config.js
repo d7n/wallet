@@ -1,1 +1,1 @@
-var mnemonic = "glide amount harbor timber erode benefit lizard news plunge smooth blue vote";
+var mnemonic = "pottery boss better cruel aunt hour drive cactus october wall glory arrow";

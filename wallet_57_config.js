@@ -1,1 +1,1 @@
-var mnemonic = "loop radar federal dance tragic sense bring palace accident odor galaxy cliff";
+var mnemonic = "merge furnace negative income device figure loud major want section check account";

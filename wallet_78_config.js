@@ -1,1 +1,1 @@
-var mnemonic = "green crunch town absurd observe year forum young buddy setup merry margin";
+var mnemonic = "tenant scatter magnet color cake pilot spirit devote tortoise family foot shrug";

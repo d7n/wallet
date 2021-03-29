@@ -1,1 +1,1 @@
-var mnemonic = "typical impact control true nerve meadow then distance host jump labor canyon";
+var mnemonic = "cool dragon rifle margin ridge farm mass point vital hybrid letter inhale";

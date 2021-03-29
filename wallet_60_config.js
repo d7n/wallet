@@ -1,1 +1,1 @@
-var mnemonic = "feel feel average tennis ancient topic minor similar dinosaur inspire appear camp";
+var mnemonic = "digital polar poverty snap little detail guide depart near regular hungry pluck";

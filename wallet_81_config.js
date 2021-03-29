@@ -1,1 +1,1 @@
-var mnemonic = "build dumb entire left upon divide cinnamon knife degree humble runway setup";
+var mnemonic = "clap special degree grant sphere panic distance illegal luxury fine general only";

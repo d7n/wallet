@@ -1,1 +1,1 @@
-var mnemonic = "dash shoe furnace health prepare balance curious excuse submit youth valve clinic";
+var mnemonic = "false buyer science tower fiber champion file panda draft divorce normal oil";

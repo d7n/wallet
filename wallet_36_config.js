@@ -1,1 +1,1 @@
-var mnemonic = "sheriff raven under catalog ozone amount spy crash desk goose alter able";
+var mnemonic = "matrix unable face tornado lake female subject work hospital sunset effort media";

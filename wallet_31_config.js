@@ -1,1 +1,1 @@
-var mnemonic = "genre episode width clump icon moral move pond resemble interest flavor tomorrow";
+var mnemonic = "all cool win camera resource ship security globe kiss deny inject valid";

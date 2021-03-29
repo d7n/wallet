@@ -1,1 +1,1 @@
-var mnemonic = "fox screen civil grid wild muscle garment injury sting vendor surround elder";
+var mnemonic = "bachelor what screen chat exist success priority flash unveil royal fortune tag";

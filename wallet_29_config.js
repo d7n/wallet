@@ -1,1 +1,1 @@
-var mnemonic = "release category spell fan chair network run merit agree patrol topple tumble";
+var mnemonic = "click heart peasant large observe choose ball load budget wrap hope mix";

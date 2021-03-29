@@ -1,1 +1,1 @@
-var mnemonic = "tilt danger crane soft armed embody stem pencil oval jewel assume resource";
+var mnemonic = "trouble era chuckle pistol knife burger upset palm course either combine appear";

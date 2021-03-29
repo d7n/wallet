@@ -1,1 +1,1 @@
-var mnemonic = "plastic damage basic ticket circle route antique label youth mom bottom grit";
+var mnemonic = "useless kind illness flash butter prison hotel maximum frost educate sock garbage";

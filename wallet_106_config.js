@@ -1,1 +1,1 @@
-var mnemonic = "day gas machine shy popular town turkey neither rural lyrics column entry";
+var mnemonic = "dynamic execute rally omit minor music educate best icon heavy retreat scale";

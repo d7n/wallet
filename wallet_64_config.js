@@ -1,1 +1,1 @@
-var mnemonic = "practice floor famous reform winner tilt dose melody fatal swap vault public";
+var mnemonic = "outdoor head expect produce father act various large food spice school monkey";

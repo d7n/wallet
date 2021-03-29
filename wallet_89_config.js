@@ -1,1 +1,1 @@
-var mnemonic = "outside bleak order tenant rookie repeat morning concert cause awake valley enjoy";
+var mnemonic = "wait sun harbor toss submit orient jazz desk green dentist fat roast";

@@ -1,1 +1,1 @@
-var mnemonic = "antique cat benefit viable erase ketchup envelope flower ozone essence cover stage";
+var mnemonic = "duck burger chief layer decade distance blame dove pig edit chuckle salon";

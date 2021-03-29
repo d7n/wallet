@@ -1,1 +1,1 @@
-var mnemonic = "midnight above speed joke reduce behave clown steak kiss rude expect noise";
+var mnemonic = "rifle general suspect slim magic fiber battle child join suit winner sea";

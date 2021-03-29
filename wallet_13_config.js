@@ -1,1 +1,1 @@
-var mnemonic = "mule pass suggest neutral february fabric sunset remind cheese smoke cycle extend";
+var mnemonic = "diary pig broccoli neutral crush satisfy soon popular pet fox hawk latin";

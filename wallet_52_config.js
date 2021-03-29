@@ -1,1 +1,1 @@
-var mnemonic = "venture achieve soda occur absorb cup pen cricket legal play rotate museum";
+var mnemonic = "sport high gather universe write version zoo census beach engage impact position";

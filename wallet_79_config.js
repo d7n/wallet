@@ -1,1 +1,1 @@
-var mnemonic = "globe utility culture post any lounge ridge grant daughter peanut sense inch";
+var mnemonic = "poem second virus tired citizen solution reduce maximum clock mass wish note";

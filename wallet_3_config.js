@@ -1,1 +1,1 @@
-var mnemonic = "decline choice march banner fitness scorpion addict tortoise endless nose pilot moon";
+var mnemonic = "scrub symbol monster typical cost decorate lock track cabbage cook harvest subject";

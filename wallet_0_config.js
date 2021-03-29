@@ -1,1 +1,1 @@
-var mnemonic = "file absorb surge extend depend join buzz battle swarm menu inmate mistake";
+var mnemonic = "panther exile peanut quantum panther front bean favorite exchange rubber smile much";

@@ -1,1 +1,1 @@
-var mnemonic = "infant barely future unknown velvet clip marriage hard slam feed can brass";
+var mnemonic = "coil gallery enemy item famous cloth vacuum harsh predict nose window town";

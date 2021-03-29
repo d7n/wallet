@@ -1,1 +1,1 @@
-var mnemonic = "social high doctor bunker drip city emerge entry ability pluck ghost castle";
+var mnemonic = "fuel choose attract diamond scene pattern fringe valid false napkin tired render";

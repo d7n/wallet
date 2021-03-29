@@ -1,1 +1,1 @@
-var mnemonic = "same demise clean ancient bottom inherit emotion emotion regular make camp carry";
+var mnemonic = "end sample rack gold survey slab dose above vital crazy smart fossil";

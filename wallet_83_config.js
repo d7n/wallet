@@ -1,1 +1,1 @@
-var mnemonic = "cattle inject body message holiday next castle pave alter north before desk";
+var mnemonic = "wine circle april pen angry health scan property check seed gym clay";

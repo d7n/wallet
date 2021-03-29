@@ -1,1 +1,1 @@
-var mnemonic = "leave narrow book can rally zone like fortune body program corn square";
+var mnemonic = "zoo prison leaf order mirror sniff coast enter foot steel planet frost";

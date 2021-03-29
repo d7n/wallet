@@ -1,1 +1,1 @@
-var mnemonic = "woman giant unit merry fragile card olive mistake hope reveal act train";
+var mnemonic = "tree apple ladder elephant brass suit soap bird modify purchase install since";

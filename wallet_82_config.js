@@ -1,1 +1,1 @@
-var mnemonic = "loan obey dog maple abuse raw guilt receive muffin enter capital cool";
+var mnemonic = "card frost nature dish dry aspect wheel learn tonight margin monitor busy";

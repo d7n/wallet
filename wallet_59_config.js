@@ -1,1 +1,1 @@
-var mnemonic = "brass luxury law crack spoon will floor online twelve able cross smile";
+var mnemonic = "web special else matrix cash horse aisle address annual drum gesture say";

@@ -1,1 +1,1 @@
-var mnemonic = "mesh flush express ocean way approve pledge settle team impact cousin oxygen";
+var mnemonic = "tooth food source goddess right final problem travel risk atom fame split";

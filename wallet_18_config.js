@@ -1,1 +1,1 @@
-var mnemonic = "exhibit duck purchase stem process situate theme tree motion arm shield later";
+var mnemonic = "kiss unaware myth menu debate pizza because pet merry giant index august";

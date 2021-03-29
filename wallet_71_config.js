@@ -1,1 +1,1 @@
-var mnemonic = "again idea hungry pass sand render pioneer catch wild memory excess achieve";
+var mnemonic = "major kiwi fury arctic relax stand off sphere ostrich lake soup laundry";

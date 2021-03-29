@@ -1,1 +1,1 @@
-var mnemonic = "path margin park monster mail orphan aspect surround someone quarter donor method";
+var mnemonic = "final rocket special student taxi space basic merry recall regular direct era";

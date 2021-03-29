@@ -1,1 +1,1 @@
-var mnemonic = "bleak mansion clay tiny travel essence indicate dumb comic goose tired book";
+var mnemonic = "snow defense circle survey slice tennis cool wagon person whale still brass";

@@ -1,1 +1,1 @@
-var mnemonic = "dish conduct tray ill behave unit swamp stairs cinnamon wood april mandate";
+var mnemonic = "pass grit citizen fun bomb pitch radio board model winner steak belt";

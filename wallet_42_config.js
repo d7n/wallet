@@ -1,1 +1,1 @@
-var mnemonic = "mosquito bar seat phone rifle dirt east dawn gesture squirrel program rebuild";
+var mnemonic = "annual shove tail expire afraid detect arrow under special dwarf feature people";

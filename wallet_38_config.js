@@ -1,1 +1,1 @@
-var mnemonic = "lizard when awesome wall dragon unit pull cancel genuine include prosper rebuild";
+var mnemonic = "piece embrace announce oval act trick produce novel access fun begin galaxy";

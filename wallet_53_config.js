@@ -1,1 +1,1 @@
-var mnemonic = "together document safe right real discover ritual thumb midnight lobster butter square";
+var mnemonic = "furnace axis unfold protect collect champion draw feed prevent wedding flat quiz";

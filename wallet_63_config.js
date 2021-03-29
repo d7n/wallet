@@ -1,1 +1,1 @@
-var mnemonic = "chapter mansion draw album garden twice drift unit input kidney horn trumpet";
+var mnemonic = "crumble tree sustain man stage wrist one swift cheese discover involve weasel";

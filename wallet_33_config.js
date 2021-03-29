@@ -1,1 +1,1 @@
-var mnemonic = "season feed stand purpose orange artist toss gossip bracket delay hire miss";
+var mnemonic = "soul scheme fun talent animal neck powder mechanic luxury setup culture awkward";

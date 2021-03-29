@@ -1,1 +1,1 @@
-var mnemonic = "lemon bright upper that humble outside enough van twin blame type jaguar";
+var mnemonic = "clay bronze rabbit draft normal obey pill vote wealth alpha tool level";

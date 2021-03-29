@@ -1,1 +1,1 @@
-var mnemonic = "creek year ghost laptop civil slight cherry usage mask segment voyage spirit";
+var mnemonic = "okay now detail initial fatal behave tackle dentist always upper pluck crouch";

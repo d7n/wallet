@@ -1,1 +1,1 @@
-var mnemonic = "upon blind fit organ cook field trouble question insane crunch network prepare";
+var mnemonic = "elephant fortune margin outer enter predict learn grid sense flower fan tobacco";

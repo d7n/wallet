@@ -1,1 +1,1 @@
-var mnemonic = "glimpse hold yard cinnamon decade gloom worry roast word document try pole";
+var mnemonic = "lawsuit license day manage dumb vacant crew path version swear alert devote";

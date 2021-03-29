@@ -1,1 +1,1 @@
-var mnemonic = "awful claim doll push decorate pattern hip liar birth since craft kiwi";
+var mnemonic = "chat cannon cruel denial trust wheel gossip denial feel witness mango film";

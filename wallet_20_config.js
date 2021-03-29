@@ -1,1 +1,1 @@
-var mnemonic = "follow glare apology turn sight aim dilemma slush cement secret elegant area";
+var mnemonic = "glory casino student eagle pledge sure tone another fatal pen prosper sound";

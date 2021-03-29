@@ -1,1 +1,1 @@
-var mnemonic = "pond fatal lava erode enable manage doll hair fluid result simple lawn";
+var mnemonic = "cart cheap faint client oyster stove boss expect duck scrap good feel";

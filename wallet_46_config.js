@@ -1,1 +1,1 @@
-var mnemonic = "pottery giggle fan antique afraid youth crane warfare away describe steel wrist";
+var mnemonic = "shrug lake idle inquiry surge black siege below case about spend snap";

@@ -1,1 +1,1 @@
-var mnemonic = "issue trophy wagon lion expand round bless oxygen bamboo found claw abstract";
+var mnemonic = "crawl tent frown metal beauty monkey hole ahead exhibit expect pair stem";

@@ -1,1 +1,1 @@
-var mnemonic = "deposit brief glad play regret furnace bridge lock van carpet type poem";
+var mnemonic = "turn chuckle trumpet gesture chapter merit fun brick flock order sound infant";

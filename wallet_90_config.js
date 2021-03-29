@@ -1,1 +1,1 @@
-var mnemonic = "grocery farm fatigue auto sheriff original mandate robot rubber photo frequent pig";
+var mnemonic = "life day give squeeze warrior fiber gather fitness exercise client luxury bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness marine rural power expand end until remember scale scissors wealth mandate";
+var mnemonic = "cabbage spirit orbit clever today until lumber toe hub problem hazard upgrade";

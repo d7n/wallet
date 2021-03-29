@@ -1,1 +1,1 @@
-var mnemonic = "talk brief issue oyster antenna garden chalk detect ivory junk jelly morning";
+var mnemonic = "thunder eagle machine better scare staff client disagree quantum final gesture tomorrow";

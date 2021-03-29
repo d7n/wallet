@@ -1,1 +1,1 @@
-var mnemonic = "nerve because lend huge mule cause bomb edit peanut thrive ordinary east";
+var mnemonic = "delay churn robust mail visa laundry minute defy wish net gift such";

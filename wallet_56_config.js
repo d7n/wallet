@@ -1,1 +1,1 @@
-var mnemonic = "find dry chaos income monkey forward segment weasel rough hotel breeze marble";
+var mnemonic = "wet stereo book mass assist inch sword easy myth girl original vivid";

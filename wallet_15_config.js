@@ -1,1 +1,1 @@
-var mnemonic = "walnut donate dose pass idle stem blind silver absent zoo trumpet before";
+var mnemonic = "gate approve toilet winter image sheriff smile gloom orient ankle exhaust satisfy";

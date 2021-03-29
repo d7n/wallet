@@ -1,1 +1,1 @@
-var mnemonic = "oil stamp like urge reward cliff camp project quality slab group notable";
+var mnemonic = "marble globe street chicken gain hedgehog between romance faint image cage trigger";

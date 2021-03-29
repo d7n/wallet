@@ -1,1 +1,1 @@
-var mnemonic = "destroy warm fatigue actual draft rocket vanish fire solution claim build gossip";
+var mnemonic = "subject polar quick only outside mansion tower speak sponsor hair april hollow";

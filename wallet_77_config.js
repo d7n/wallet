@@ -1,1 +1,1 @@
-var mnemonic = "alter silent throw only depend solid rice limit struggle foam wish cruel";
+var mnemonic = "excuse fame depend record juice gown dinner weather banner guide exile license";

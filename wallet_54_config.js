@@ -1,1 +1,1 @@
-var mnemonic = "pulse glue resemble antique oven slow ghost head scheme harbor joke eight";
+var mnemonic = "father anger prevent bless motion fold stove social drive invest coach hood";

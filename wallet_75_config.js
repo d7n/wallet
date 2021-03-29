@@ -1,1 +1,1 @@
-var mnemonic = "equal meadow detail detect zone strike drop stage wet undo dune shallow";
+var mnemonic = "comic stick garbage castle suspect clump begin report first receive mobile much";

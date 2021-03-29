@@ -1,1 +1,1 @@
-var mnemonic = "invite top paddle hen suffer maid core come field concert tribe relax";
+var mnemonic = "decorate alarm claw coach harbor blur subway dwarf tongue midnight swift mandate";

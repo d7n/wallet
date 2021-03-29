@@ -1,1 +1,1 @@
-var mnemonic = "vapor reflect cinnamon inquiry ceiling derive enhance canoe local favorite involve assault";
+var mnemonic = "leopard pave either daring patrol balance border embark clay palm essay ramp";

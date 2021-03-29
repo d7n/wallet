@@ -1,1 +1,1 @@
-var mnemonic = "winter glad fault crowd extend jewel outer drop yellow dentist spot cabbage";
+var mnemonic = "nature differ fluid trust laptop occur future category whale olive zero ivory";

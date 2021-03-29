@@ -1,1 +1,1 @@
-var mnemonic = "example capital abstract jazz mistake turn cinnamon nice chunk choose thing day";
+var mnemonic = "vivid tell chimney skull clip relax dose stick sting visit half miracle";

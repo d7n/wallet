@@ -1,1 +1,1 @@
-var mnemonic = "gold bachelor upgrade monkey food evoke laugh answer opinion humble crime squeeze";
+var mnemonic = "normal energy shallow mercy impulse differ inspire simple olive auto twist rhythm";

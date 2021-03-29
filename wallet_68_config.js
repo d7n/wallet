@@ -1,1 +1,1 @@
-var mnemonic = "fetch try tongue recycle idle marble want alert caught smoke list problem";
+var mnemonic = "private destroy attitude airport account praise jaguar oppose agree sock market future";

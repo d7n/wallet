@@ -1,1 +1,1 @@
-var mnemonic = "common close excite diary change garden lady kiss road body code palace";
+var mnemonic = "share essence member dash analyst fabric bonus can fat clump police rate";

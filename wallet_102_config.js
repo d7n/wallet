@@ -1,1 +1,1 @@
-var mnemonic = "gaze size benefit scatter expect swallow derive state physical fortune system ability";
+var mnemonic = "art nest dream cancel motion account state water cart genuine fresh credit";

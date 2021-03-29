@@ -1,1 +1,1 @@
-var mnemonic = "cliff plunge march measure goddess cradle math kind display ghost sea year";
+var mnemonic = "jeans hotel dune insect hair royal garment certain hero measure spoil sample";

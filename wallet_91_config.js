@@ -1,1 +1,1 @@
-var mnemonic = "erosion chief library car erode modify regret hamster catalog before bird squeeze";
+var mnemonic = "genius voyage slice elegant diary truth digital busy donor reason gorilla tide";

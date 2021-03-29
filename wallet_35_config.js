@@ -1,1 +1,1 @@
-var mnemonic = "bone beach pen hungry when hospital great negative injury garlic custom unfold";
+var mnemonic = "dutch across must ladder sphere faith police spoil ten foot below dawn";

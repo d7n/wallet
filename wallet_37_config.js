@@ -1,1 +1,1 @@
-var mnemonic = "window horror typical dance ready urge frequent brother destroy decrease okay dash";
+var mnemonic = "nephew utility install glimpse limb honey broken camera night cement solution valley";

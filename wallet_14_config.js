@@ -1,1 +1,1 @@
-var mnemonic = "lava merge hedgehog noodle brand memory lift exist paper scrub believe camp";
+var mnemonic = "paper youth stock gather crowd broken mammal donate oyster forest fall chat";

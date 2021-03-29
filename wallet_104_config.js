@@ -1,1 +1,1 @@
-var mnemonic = "horror recycle rare believe enrich idea define engage shoe season vast disagree";
+var mnemonic = "message index symbol royal diamond winter maximum elite live casual verify exact";

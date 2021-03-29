@@ -1,1 +1,1 @@
-var mnemonic = "curious clutch midnight add slow glue miracle stereo anchor exchange visa outer";
+var mnemonic = "still bar clip foil olive wool knock fresh leisure crystal cook stem";
