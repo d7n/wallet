@@ -1,1 +1,1 @@
-var mnemonic = "strong great pudding debate twelve tape bright weird gadget venture true double";
+var mnemonic = "tool two produce mushroom final truck marine idle behave scheme recall daring";

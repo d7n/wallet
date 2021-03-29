@@ -1,1 +1,1 @@
-var mnemonic = "donor notice child census space garage weapon weekend immune capital eagle distance";
+var mnemonic = "climb figure sound dinosaur actor surface color lumber stove wait critic art";

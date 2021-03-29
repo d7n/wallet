@@ -1,1 +1,1 @@
-var mnemonic = "reform spend image bring jazz negative flight sadness race minute brick fabric";
+var mnemonic = "biology dress decide prevent since favorite blood right kiwi truck episode series";

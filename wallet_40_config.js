@@ -1,1 +1,1 @@
-var mnemonic = "penalty enroll impulse involve jazz peanut tourist canvas tomorrow song industry route";
+var mnemonic = "whale mom knock height normal license gun bleak tortoise option soon egg";

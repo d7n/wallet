@@ -1,1 +1,1 @@
-var mnemonic = "orange index carbon clarify swing excess exact where clay quiz toward ill";
+var mnemonic = "expire tube attract fatigue inner problem rural produce super wet catch mistake";

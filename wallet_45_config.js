@@ -1,1 +1,1 @@
-var mnemonic = "room remind endless box all cigar milk method assault often outdoor confirm";
+var mnemonic = "people scale surface appear correct bunker apple work bean blood forward rather";

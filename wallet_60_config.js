@@ -1,1 +1,1 @@
-var mnemonic = "help ball saddle candy dove lottery original nest just kiss elevator own";
+var mnemonic = "sorry draw garbage mad bonus surge popular magic weekend anchor bench umbrella";

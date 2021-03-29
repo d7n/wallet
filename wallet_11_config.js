@@ -1,1 +1,1 @@
-var mnemonic = "install voice huge one section version typical ugly other stadium riot month";
+var mnemonic = "report double steel dinosaur cook borrow hockey close rail verify help crater";

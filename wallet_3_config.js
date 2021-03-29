@@ -1,1 +1,1 @@
-var mnemonic = "quality wall kit option mean divert fire lunch water script issue ability";
+var mnemonic = "display traffic truth hazard begin talent typical pizza among exclude rural document";

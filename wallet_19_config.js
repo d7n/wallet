@@ -1,1 +1,1 @@
-var mnemonic = "crush ancient digital save inch half penalty brown forest option large used";
+var mnemonic = "agent prize path frame include space visit canal current need advance wide";

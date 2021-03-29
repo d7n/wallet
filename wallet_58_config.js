@@ -1,1 +1,1 @@
-var mnemonic = "truth acid twist swim friend enemy inspire flash bean benefit custom slim";
+var mnemonic = "capital erupt nasty second bottom shuffle glue six inhale wild puppy bread";

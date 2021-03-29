@@ -1,1 +1,1 @@
-var mnemonic = "struggle joy educate despair example improve lizard budget wall bless glue payment";
+var mnemonic = "column corn slot because devote fatal siren omit warm wait reflect west";

@@ -1,1 +1,1 @@
-var mnemonic = "mask educate shove arrest flip learn weasel warrior length waste need maximum";
+var mnemonic = "away better lift method universe awkward lady cat cheap very text receive";

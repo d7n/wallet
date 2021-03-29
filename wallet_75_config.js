@@ -1,1 +1,1 @@
-var mnemonic = "plastic dash beef spot glory index six hungry ugly excuse canal village";
+var mnemonic = "design must tuna pig credit input else circle fluid dilemma clay copy";

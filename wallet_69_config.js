@@ -1,1 +1,1 @@
-var mnemonic = "know atom country habit access drip road squeeze drift hood tragic piano";
+var mnemonic = "connect hawk unique inject congress humble eager sport keep prefer sting bean";

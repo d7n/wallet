@@ -1,1 +1,1 @@
-var mnemonic = "country hammer add view rebel fresh denial practice goat cherry net april";
+var mnemonic = "noble wolf liquid present dirt winter tool blouse slow crew vicious armor";

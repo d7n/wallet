@@ -1,1 +1,1 @@
-var mnemonic = "artefact another knife cruise bulk grain secret never maze aerobic journey custom";
+var mnemonic = "garlic amateur mention foam peace three pitch detail chapter knee fantasy learn";

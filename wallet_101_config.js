@@ -1,1 +1,1 @@
-var mnemonic = "hub inflict caught easy book snap height warrior acid trouble tail skill";
+var mnemonic = "rebel rural lucky monkey arm acquire name left unveil crane merge angle";

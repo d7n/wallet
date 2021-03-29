@@ -1,1 +1,1 @@
-var mnemonic = "bird strike always rose square uncle wash put dignity someone vocal among";
+var mnemonic = "reform speed crawl music emerge shift orchard demand scissors catalog honey ripple";

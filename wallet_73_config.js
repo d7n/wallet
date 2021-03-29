@@ -1,1 +1,1 @@
-var mnemonic = "dance release purpose aerobic wide very lumber where time arrow pill reduce";
+var mnemonic = "engine satisfy yellow topple orphan deliver economy impact jacket awesome skill right";

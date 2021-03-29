@@ -1,1 +1,1 @@
-var mnemonic = "steel project fiscal owner typical thought mango round will supply learn vivid";
+var mnemonic = "fly office hedgehog figure power season disorder wave gloom segment process warrior";

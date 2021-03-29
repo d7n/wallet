@@ -1,1 +1,1 @@
-var mnemonic = "private visual capital globe decorate pool salon control menu round force good";
+var mnemonic = "relax oblige breeze idle destroy tower ladder toddler master dune naive vital";

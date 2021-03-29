@@ -1,1 +1,1 @@
-var mnemonic = "finger dutch relax name reflect leaf antenna aim lamp screen oval improve";
+var mnemonic = "work media oval survey dumb shoulder chef include piano senior boring response";

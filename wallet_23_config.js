@@ -1,1 +1,1 @@
-var mnemonic = "mushroom pause nuclear ten saddle course shrimp duck never boil lend consider";
+var mnemonic = "traffic erode sail window behind timber close timber live science divide course";

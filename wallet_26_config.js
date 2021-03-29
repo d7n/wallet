@@ -1,1 +1,1 @@
-var mnemonic = "prepare sport concert royal raise scatter symbol consider ensure message twelve bless";
+var mnemonic = "approve income close toast screen hamster broccoli luxury sick animal cattle economy";

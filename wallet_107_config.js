@@ -1,1 +1,1 @@
-var mnemonic = "major evil cycle adult broccoli decide annual lock auto medal multiply gravity";
+var mnemonic = "glide buzz relax vintage note rough depth remind century people ball punch";

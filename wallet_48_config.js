@@ -1,1 +1,1 @@
-var mnemonic = "all trip push hazard jazz pupil raise elegant pluck license predict coyote";
+var mnemonic = "gown radar vendor gloom success doll usual walk such now alley bundle";

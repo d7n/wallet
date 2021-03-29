@@ -1,1 +1,1 @@
-var mnemonic = "gun pledge father annual wrap select dolphin crash sure dignity deal bridge";
+var mnemonic = "wasp virtual dune bless refuse satisfy fun dwarf combine fetch half embark";

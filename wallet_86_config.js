@@ -1,1 +1,1 @@
-var mnemonic = "virtual peasant flag castle syrup dash nephew hawk planet people excess wait";
+var mnemonic = "usage shove spawn decrease advance blush jacket blanket return cycle act owner";

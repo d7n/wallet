@@ -1,1 +1,1 @@
-var mnemonic = "rookie vibrant cargo south grid invest average train come debate limb drop";
+var mnemonic = "moon pet harvest disagree burger trick smooth quote mobile cave slot foam";

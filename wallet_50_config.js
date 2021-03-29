@@ -1,1 +1,1 @@
-var mnemonic = "metal capital adult orient help they chalk true plunge hard near stable";
+var mnemonic = "raise nose confirm length two language afraid puzzle ticket quick tube lamp";

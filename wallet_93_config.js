@@ -1,1 +1,1 @@
-var mnemonic = "announce decline wonder valve easy devote innocent deer ripple media scout install";
+var mnemonic = "poet silk rocket hero various peasant noise ghost night safe ocean quit";

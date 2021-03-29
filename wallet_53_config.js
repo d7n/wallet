@@ -1,1 +1,1 @@
-var mnemonic = "rifle butter shadow tattoo erase pear problem fashion usage dose ahead boring";
+var mnemonic = "twenty crack rookie veteran picture conduct noble wagon script champion sock topple";

@@ -1,1 +1,1 @@
-var mnemonic = "rough wage actual increase expose agree organ enter nerve issue walnut pig";
+var mnemonic = "riot neutral proud edge inspire indicate pudding apology powder satisfy kangaroo wonder";

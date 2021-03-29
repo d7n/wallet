@@ -1,1 +1,1 @@
-var mnemonic = "hunt illegal buzz echo sauce shadow lab slot mutual long maple track";
+var mnemonic = "scan best truly gap minor hole scan sport flight blossom tiny sport";

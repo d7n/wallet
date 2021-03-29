@@ -1,1 +1,1 @@
-var mnemonic = "fashion annual hospital aspect century title uniform leader rent much lemon diet";
+var mnemonic = "auto relax copper smart excite olive thing february explain find disease ten";

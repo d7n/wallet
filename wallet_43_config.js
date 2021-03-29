@@ -1,1 +1,1 @@
-var mnemonic = "hurdle ensure chef option exhaust you toe knife achieve step sun more";
+var mnemonic = "digital admit antique vintage theme guilt element broccoli celery column rice horror";

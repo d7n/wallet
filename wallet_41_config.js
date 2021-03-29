@@ -1,1 +1,1 @@
-var mnemonic = "mango today traffic excess return turtle smoke ecology leaf captain portion aisle";
+var mnemonic = "pool symbol speed gas job quality odor machine girl purpose buddy army";

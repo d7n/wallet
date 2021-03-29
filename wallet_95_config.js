@@ -1,1 +1,1 @@
-var mnemonic = "pattern dash involve hybrid dentist wolf coach reflect thunder jungle clay useless";
+var mnemonic = "urge prevent profit camera slow rifle abuse fitness wealth please bless liar";

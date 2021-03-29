@@ -1,1 +1,1 @@
-var mnemonic = "unfold visa salmon father clock swallow message fold stand excess brisk pioneer";
+var mnemonic = "pottery hire gorilla trap bright hub february cream lazy emotion strong dream";

@@ -1,1 +1,1 @@
-var mnemonic = "small timber claim camp good unlock song yellow ready giant easily purpose";
+var mnemonic = "keep useful crew lesson strike shoe rather rare member grape acquire woman";

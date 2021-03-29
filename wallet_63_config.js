@@ -1,1 +1,1 @@
-var mnemonic = "grit cherry dizzy rare net walnut swear involve grace cool surge mirror";
+var mnemonic = "uncover blur hub era tip total solar cross lawn monitor ivory notice";

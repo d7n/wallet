@@ -1,1 +1,1 @@
-var mnemonic = "usual deny budget fade elite misery gather garden siren orphan advice payment";
+var mnemonic = "nation oxygen mixed dice course pupil flip soul blue roast wood crop";

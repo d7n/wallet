@@ -1,1 +1,1 @@
-var mnemonic = "knife shock twenty accuse swear sword vessel embrace found easy rotate interest";
+var mnemonic = "bridge property increase wheel between buzz sign learn luxury sunset upgrade marble";

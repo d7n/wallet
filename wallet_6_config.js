@@ -1,1 +1,1 @@
-var mnemonic = "soon list cash estate gain steel crater nut outer dinosaur tortoise large";
+var mnemonic = "message result test dune machine fee convince addict people conduct bachelor practice";

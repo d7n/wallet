@@ -1,1 +1,1 @@
-var mnemonic = "feature museum girl match salmon tent swallow trap salon weasel desert forward";
+var mnemonic = "web sight news else odor garment rug walk there text erase umbrella";

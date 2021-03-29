@@ -1,1 +1,1 @@
-var mnemonic = "spy exchange ring quiz hazard orange glow ranch crunch lucky bicycle gaze";
+var mnemonic = "song meat march water hello coil comfort curve crush local alarm topic";

@@ -1,1 +1,1 @@
-var mnemonic = "crater code pond hammer hamster evidence orient ill regular sound inquiry search";
+var mnemonic = "organ useful deer stand myself finger axis setup typical minute busy swamp";

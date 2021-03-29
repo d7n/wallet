@@ -1,1 +1,1 @@
-var mnemonic = "snap oyster park churn uphold oval cement scorpion hen token float absent";
+var mnemonic = "debate magnet adapt furnace speed glow broken receive jump outdoor shy addict";

@@ -1,1 +1,1 @@
-var mnemonic = "much visa crazy fuel trash life enjoy clean tone pudding kid stomach";
+var mnemonic = "sound uphold bitter either brave pistol six truck finish left truck found";

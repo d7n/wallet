@@ -1,1 +1,1 @@
-var mnemonic = "surprise injury monitor pony drift junior identify gallery grocery whip puzzle absorb";
+var mnemonic = "crack emerge deliver below nose bind forget exercise mother alien original spider";

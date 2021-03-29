@@ -1,1 +1,1 @@
-var mnemonic = "cup razor capital love reject face acoustic crucial because pig wrestle museum";
+var mnemonic = "judge embark enjoy hero equal hotel target confirm loop sad jump grief";

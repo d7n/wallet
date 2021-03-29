@@ -1,1 +1,1 @@
-var mnemonic = "marriage goat shift celery come figure extend spend naive oval frozen develop";
+var mnemonic = "copper humble shine van bulb celery silver venue pilot afraid traffic chaos";

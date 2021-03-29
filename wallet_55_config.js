@@ -1,1 +1,1 @@
-var mnemonic = "purity stand more rigid isolate pioneer spoon zone wheat already lucky castle";
+var mnemonic = "wool erupt host opinion swap describe prevent initial exact extra injury purity";

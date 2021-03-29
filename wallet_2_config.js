@@ -1,1 +1,1 @@
-var mnemonic = "hurt news brick pause hill oven occur elder drill stool bid guitar";
+var mnemonic = "behind embody release random young warrior emotion grunt marble resource setup combine";

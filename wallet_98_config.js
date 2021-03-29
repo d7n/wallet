@@ -1,1 +1,1 @@
-var mnemonic = "music fame best crater wreck ridge scrap castle word elevator legal cancel";
+var mnemonic = "rebel bicycle nose tooth current suggest cargo roast harsh pen silver vessel";

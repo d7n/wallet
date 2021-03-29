@@ -1,1 +1,1 @@
-var mnemonic = "detail fantasy protect cloud mom brief soccer regular bubble sing soccer frequent";
+var mnemonic = "diesel wool armor improve mountain buddy defense left sock indoor ladder emerge";

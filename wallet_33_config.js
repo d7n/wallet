@@ -1,1 +1,1 @@
-var mnemonic = "isolate gift night axis scan key rifle maple file floor sudden leaf";
+var mnemonic = "purchase crisp vanish profit false boost eyebrow grab kitten weasel high cupboard";

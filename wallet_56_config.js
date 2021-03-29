@@ -1,1 +1,1 @@
-var mnemonic = "sense fantasy seek fish pass opinion achieve fault music pen desk girl";
+var mnemonic = "disagree combine lunch federal palace hour tiny gadget fabric walnut soul ordinary";

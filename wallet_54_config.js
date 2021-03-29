@@ -1,1 +1,1 @@
-var mnemonic = "share whisper float occur vanish object can retire average strike pact office";
+var mnemonic = "purse only build swap dragon emerge message used round maid allow diary";

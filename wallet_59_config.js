@@ -1,1 +1,1 @@
-var mnemonic = "universe fashion liar sunny property bike clever capable sick metal choose short";
+var mnemonic = "cannon bench thing course leg train length sorry tilt remove trophy exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "panel lock bachelor together banner sign estate poem stumble defy retreat unlock";
+var mnemonic = "decide inch salad tuition envelope grid burger derive ghost knock item estate";

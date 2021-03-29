@@ -1,1 +1,1 @@
-var mnemonic = "basic version number index rabbit submit similar fall lunar peanut much mirror";
+var mnemonic = "garden man mass divorce track company seminar task expire envelope about bind";

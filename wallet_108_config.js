@@ -1,1 +1,1 @@
-var mnemonic = "faculty usage cash cross mask trigger car clinic dress force verb cable";
+var mnemonic = "mercy protect gate inflict horror lock effort shed rhythm reopen anchor retire";

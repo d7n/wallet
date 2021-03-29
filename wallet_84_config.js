@@ -1,1 +1,1 @@
-var mnemonic = "toddler fun reveal what entire model settle medal mansion immense olympic example";
+var mnemonic = "match visa modify like venue hip point cook turtle remember fog garbage";

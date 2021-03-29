@@ -1,1 +1,1 @@
-var mnemonic = "cancel license soul notable weekend reduce foam grain gap have balcony priority";
+var mnemonic = "turn abandon myself source vault fade labor myself decline tackle south equal";

@@ -1,1 +1,1 @@
-var mnemonic = "delay dilemma embark void plastic dance alien girl floor such ten service";
+var mnemonic = "liberty history demise casino pattern burst cost crawl beach machine forward faculty";

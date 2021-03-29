@@ -1,1 +1,1 @@
-var mnemonic = "until surge ranch vehicle erode knife arena coral blue midnight pear creek";
+var mnemonic = "render antique toward basket swim more actual point amused solution curve icon";

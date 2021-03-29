@@ -1,1 +1,1 @@
-var mnemonic = "whale river behind wise shift egg swear radio tenant rookie opera void";
+var mnemonic = "box panic inhale arrest pulse steel capital skill song slush regret butter";

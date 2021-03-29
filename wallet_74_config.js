@@ -1,1 +1,1 @@
-var mnemonic = "pulse flower clinic night rack turn fiction normal smoke unable relax duty";
+var mnemonic = "spoil over scheme already junior hire candy liberty half fortune clever swarm";

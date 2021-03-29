@@ -1,1 +1,1 @@
-var mnemonic = "cluster inmate collect kite spell leg spring rabbit pet immense sudden bag";
+var mnemonic = "gold spring design sing inspire jump trust need that fruit remain caution";

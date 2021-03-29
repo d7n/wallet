@@ -1,1 +1,1 @@
-var mnemonic = "gallery twice live alcohol clarify simple mom pigeon deer laundry among library";
+var mnemonic = "near weasel sport tumble moment maid pyramid soldier phrase pulse diesel soon";

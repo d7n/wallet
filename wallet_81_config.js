@@ -1,1 +1,1 @@
-var mnemonic = "seminar exercise curious slab aim later two clip calm promote copper belt";
+var mnemonic = "much question health garlic palm always ice spoil spray robot junior then";

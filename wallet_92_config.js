@@ -1,1 +1,1 @@
-var mnemonic = "humor prosper paper hope spray just fault catch initial feed sense over";
+var mnemonic = "kick beyond sun object nut still boring van ugly talent motor amount";

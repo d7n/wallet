@@ -1,1 +1,1 @@
-var mnemonic = "heavy oil keep rocket bottom detail nasty subject bunker diary hazard escape";
+var mnemonic = "tent body resource hurt tooth age knife mirror denial army imitate fringe";

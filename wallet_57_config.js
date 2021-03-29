@@ -1,1 +1,1 @@
-var mnemonic = "debate question deal cream stool advance car grunt tooth yard airport beef";
+var mnemonic = "stem pretty estate city guitar north squirrel mistake enough peanut exact frog";

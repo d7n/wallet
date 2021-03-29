@@ -1,1 +1,1 @@
-var mnemonic = "corn twenty ahead dry position vintage remove shoot use steak term salon";
+var mnemonic = "stick pizza surprise sweet purity sound random select sing dinner pool reunion";

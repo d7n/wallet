@@ -1,1 +1,1 @@
-var mnemonic = "sheriff hero damp another purpose frost ask few waste solution enhance cause";
+var mnemonic = "toast present relief rescue history visit scheme hockey popular rubber avocado range";

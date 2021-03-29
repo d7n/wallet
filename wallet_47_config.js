@@ -1,1 +1,1 @@
-var mnemonic = "settle mimic spray dutch pudding spirit page zone entry umbrella siege pig";
+var mnemonic = "fabric enhance roof often slice wild source auction popular curious forget sort";

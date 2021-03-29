@@ -1,1 +1,1 @@
-var mnemonic = "voyage tip nest night nuclear miracle expire possible dinosaur tragic era sock";
+var mnemonic = "erode bulb code brown diary unveil brisk organ trim echo accuse radar";

@@ -1,1 +1,1 @@
-var mnemonic = "banner champion ceiling income beyond cat shield prevent quiz gun foil act";
+var mnemonic = "absorb detail seminar tuna marriage soul foil defense stem exclude caught arrow";

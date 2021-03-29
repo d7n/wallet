@@ -1,1 +1,1 @@
-var mnemonic = "toddler diagram dress flag wrap half afraid helmet camera harbor brave swamp";
+var mnemonic = "dog adapt umbrella better mesh combine high universe teach copy elegant purpose";

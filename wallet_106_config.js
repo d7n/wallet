@@ -1,1 +1,1 @@
-var mnemonic = "client trade urban excite visa solve mirror coach renew split wish march";
+var mnemonic = "note evoke photo observe cash become enemy peasant quarter nest anger focus";

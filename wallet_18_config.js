@@ -1,1 +1,1 @@
-var mnemonic = "fitness example zebra near portion glue derive drop autumn blast portion stick";
+var mnemonic = "trim traffic edge daughter access obey lion left fashion truck define tumble";

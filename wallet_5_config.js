@@ -1,1 +1,1 @@
-var mnemonic = "window twin before fire void talk leisure lumber feel argue follow parent";
+var mnemonic = "century industry anxiety expose ozone gym denial chase uncover target offer addict";

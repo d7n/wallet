@@ -1,1 +1,1 @@
-var mnemonic = "recipe taxi snack spell wide double maze misery kite stock explain vital";
+var mnemonic = "broom exercise drip gold gap sick marriage people oblige maple slim winner";

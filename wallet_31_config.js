@@ -1,1 +1,1 @@
-var mnemonic = "cross soup bleak speak stool nuclear layer trumpet embrace choose stone adjust";
+var mnemonic = "blossom dose glory victory phone garlic hybrid inside tip bronze indicate spirit";

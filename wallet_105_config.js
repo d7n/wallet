@@ -1,1 +1,1 @@
-var mnemonic = "behind brief guide keen skate north depth good exit gym music umbrella";
+var mnemonic = "mimic order awkward program true couch icon clean lamp include become series";

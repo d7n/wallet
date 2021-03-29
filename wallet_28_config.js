@@ -1,1 +1,1 @@
-var mnemonic = "tongue worth grunt team hazard cute scatter wash portion mesh mad silent";
+var mnemonic = "coast chimney proof puppy mushroom enter potato cigar need correct indicate chat";

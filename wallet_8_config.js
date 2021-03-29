@@ -1,1 +1,1 @@
-var mnemonic = "right innocent cover bubble luggage keep ozone close culture battle grain echo";
+var mnemonic = "cube raccoon bachelor grain window gasp castle wear whip life cup giggle";

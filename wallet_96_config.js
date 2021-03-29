@@ -1,1 +1,1 @@
-var mnemonic = "annual tired patrol thought outdoor melody pitch off route rather steak matrix";
+var mnemonic = "effort elite gaze spirit hotel clap club modify sail rifle own upon";

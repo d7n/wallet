@@ -1,1 +1,1 @@
-var mnemonic = "paper angle employ edit kangaroo margin wood bike little abstract animal gravity";
+var mnemonic = "layer suffer quit east mutual afraid market marble wrap fiction roof maze";

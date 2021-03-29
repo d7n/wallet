@@ -1,1 +1,1 @@
-var mnemonic = "balcony chimney dynamic mobile merry detect mechanic pigeon secret afraid trip bread";
+var mnemonic = "flight gym destroy wild auction faith column logic spare risk book example";
