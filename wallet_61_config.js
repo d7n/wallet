@@ -1,1 +1,1 @@
-var mnemonic = "ozone combine fluid valve bunker gun member boss eagle salmon deny coach";
+var mnemonic = "wool hill afraid waste observe pigeon life inject idea trade ankle arrow";

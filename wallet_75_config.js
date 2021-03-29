@@ -1,1 +1,1 @@
-var mnemonic = "creek era panther erupt regular enhance area buddy tag sun future option";
+var mnemonic = "venture secret phrase disorder bird violin flat hunt lift acoustic duck diet";

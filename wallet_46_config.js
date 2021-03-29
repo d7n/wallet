@@ -1,1 +1,1 @@
-var mnemonic = "fiscal lounge same legend come grief laptop luggage tumble common kitchen rate";
+var mnemonic = "unveil abuse pioneer program ghost royal upper wife powder mind swamp dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "shoot olympic update tiny aisle visit color palace aspect fly remind fiscal";
+var mnemonic = "spare bike border speak dismiss axis supreme fish clog object second school";

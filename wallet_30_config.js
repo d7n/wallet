@@ -1,1 +1,1 @@
-var mnemonic = "trend robot inch finish lobster another absent verify load old involve health";
+var mnemonic = "toward mutual winter envelope cake bleak easy warrior output knife east victory";

@@ -1,1 +1,1 @@
-var mnemonic = "essay elegant screen turn jaguar keep outside siren phrase lonely oven dumb";
+var mnemonic = "today clay office design loyal angle modify hungry slight damp own bottom";

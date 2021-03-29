@@ -1,1 +1,1 @@
-var mnemonic = "issue protect frog question champion infant nature tomorrow phrase lift canoe wage";
+var mnemonic = "another same habit add action table absurd glare burst army fiction arrive";

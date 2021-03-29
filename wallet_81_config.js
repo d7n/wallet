@@ -1,1 +1,1 @@
-var mnemonic = "avocado road devote praise toilet ecology duty sadness cherry round bridge denial";
+var mnemonic = "fiction rail device direct tuition sting cry unknown busy attitude kangaroo result";

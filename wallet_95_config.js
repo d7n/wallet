@@ -1,1 +1,1 @@
-var mnemonic = "chaos market invest stuff casino omit skin pony pepper social decline census";
+var mnemonic = "assault airport essence valve lesson damp ice enact off wash antenna metal";

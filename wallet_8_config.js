@@ -1,1 +1,1 @@
-var mnemonic = "note float there else outdoor spider visit meadow history dish mechanic subject";
+var mnemonic = "embrace noodle stem lamp lumber matrix cheese tomato seminar more season real";

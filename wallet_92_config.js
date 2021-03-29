@@ -1,1 +1,1 @@
-var mnemonic = "entry math fiscal near list repeat neither insane scorpion bicycle broken mystery";
+var mnemonic = "sorry yellow uphold wreck region brand chase earth occur body cup repair";

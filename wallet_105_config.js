@@ -1,1 +1,1 @@
-var mnemonic = "admit saddle phone cage worry dress face arrow satisfy gospel nerve refuse";
+var mnemonic = "smooth frozen senior shaft tilt clean worth aim topple wealth play square";

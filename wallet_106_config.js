@@ -1,1 +1,1 @@
-var mnemonic = "accident remember pipe bag general glow nation unveil call kiwi until still";
+var mnemonic = "recycle gas sort jeans senior budget salon alcohol put shove inhale sand";

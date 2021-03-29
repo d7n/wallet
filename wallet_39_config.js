@@ -1,1 +1,1 @@
-var mnemonic = "arctic black walk evidence lumber verify math tackle bargain retreat fiber shoot";
+var mnemonic = "silver pluck library guide chest name girl nose aunt prosper cloth accident";

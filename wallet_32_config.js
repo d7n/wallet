@@ -1,1 +1,1 @@
-var mnemonic = "lonely rate fever tragic coral rare index stairs confirm issue scout neglect";
+var mnemonic = "pig artefact mercy repair give coffee share can meadow broken forward try";

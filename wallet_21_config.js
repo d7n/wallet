@@ -1,1 +1,1 @@
-var mnemonic = "neck response rate jacket cloth tape color pride dawn stereo sheriff dragon";
+var mnemonic = "plastic unaware shaft amazing accuse festival ill december dice pudding naive when";

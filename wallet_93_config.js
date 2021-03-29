@@ -1,1 +1,1 @@
-var mnemonic = "grape exile fork capable wish steak page deny orange romance decade lady";
+var mnemonic = "cinnamon walnut say dragon job swim egg sick car census tissue deal";

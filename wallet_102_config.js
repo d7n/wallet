@@ -1,1 +1,1 @@
-var mnemonic = "flip love culture table rapid feed dizzy slot fury light body sniff";
+var mnemonic = "solar clerk nest farm isolate pepper dinosaur brisk mix poem menu parade";

@@ -1,1 +1,1 @@
-var mnemonic = "bargain park piece advance balance stone ecology embody silk monkey rug meat";
+var mnemonic = "engage news broom south screen action bulk code famous soccer tool bronze";

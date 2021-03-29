@@ -1,1 +1,1 @@
-var mnemonic = "cotton surface sight because file fox apology service faint trouble naive summer";
+var mnemonic = "behave cycle input debris corn supreme fiber sun often dolphin together real";

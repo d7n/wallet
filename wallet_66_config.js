@@ -1,1 +1,1 @@
-var mnemonic = "oxygen tank anxiety supply start wall step digital race film glimpse swallow";
+var mnemonic = "rug illegal behind scheme rare dose question grocery alone lake biology buyer";

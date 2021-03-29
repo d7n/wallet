@@ -1,1 +1,1 @@
-var mnemonic = "food mango novel moment evil raven cruel since damp people vacuum beef";
+var mnemonic = "cloth profit unveil double section gap disease involve circle squirrel cram dilemma";

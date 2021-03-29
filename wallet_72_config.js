@@ -1,1 +1,1 @@
-var mnemonic = "ask club cube cactus scout wall maximum intact body sauce owner raven";
+var mnemonic = "minute helmet lake album vanish cream merit nominee velvet bundle grocery wasp";

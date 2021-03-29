@@ -1,1 +1,1 @@
-var mnemonic = "fault problem senior ask year subject crew skill throw guess excess used";
+var mnemonic = "flight alcohol ten tornado sphere grace clean veteran long link keen naive";

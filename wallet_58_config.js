@@ -1,1 +1,1 @@
-var mnemonic = "else pioneer life imitate cash mass wolf cloud assault express three damage";
+var mnemonic = "wreck vast pair deputy ridge pelican salad zero sweet trend check real";

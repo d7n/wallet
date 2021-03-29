@@ -1,1 +1,1 @@
-var mnemonic = "lake you emerge degree link addict empower green physical artefact saddle next";
+var mnemonic = "whip interest kiss off oxygen guilt town feed omit awkward control umbrella";

@@ -1,1 +1,1 @@
-var mnemonic = "vault concert spider follow solar write cliff chunk lizard huge soon situate";
+var mnemonic = "romance seat slice car tenant gain detect cruise scale snap puppy few";

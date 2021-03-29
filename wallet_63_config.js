@@ -1,1 +1,1 @@
-var mnemonic = "guard loop fresh hair friend uncover where spoon grant already charge city";
+var mnemonic = "dinosaur swift ankle misery very aware parent play question orange debris major";

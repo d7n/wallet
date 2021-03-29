@@ -1,1 +1,1 @@
-var mnemonic = "maximum steak donate shock gaze give song own unfold hungry couple word";
+var mnemonic = "result lady kiwi figure young castle charge metal crawl switch light decorate";

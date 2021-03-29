@@ -1,1 +1,1 @@
-var mnemonic = "pave honey skin nature employ person reflect drip income clock husband toast";
+var mnemonic = "sample tone song gift jelly delay nothing amused rescue fence rose auction";

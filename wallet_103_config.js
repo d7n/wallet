@@ -1,1 +1,1 @@
-var mnemonic = "shock topple minor exhaust senior tobacco increase trophy rifle vague dumb marine";
+var mnemonic = "visit hurdle fashion cattle sibling float horror magic aisle network hobby history";

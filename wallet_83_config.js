@@ -1,1 +1,1 @@
-var mnemonic = "spare magnet ginger chimney nephew below slogan tongue chicken exhibit ozone diamond";
+var mnemonic = "erupt bullet cabbage soul nut garden session kingdom faculty pill speak torch";

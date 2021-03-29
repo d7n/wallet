@@ -1,1 +1,1 @@
-var mnemonic = "current rifle orange caught between knock render depart draw dial afraid blind";
+var mnemonic = "sick mom gas badge raw artefact suggest ordinary diary apart mountain knock";

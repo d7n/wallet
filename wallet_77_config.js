@@ -1,1 +1,1 @@
-var mnemonic = "image between daring mass else sister matrix fiber frog hope ankle smile";
+var mnemonic = "else cactus dress naive genuine phrase leisure shield cause actor bring fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "fence talent menu process potato portion congress script begin decorate display estate";
+var mnemonic = "cruise delay dutch valve south access patch mention host piano income dirt";

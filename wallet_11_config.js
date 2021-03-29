@@ -1,1 +1,1 @@
-var mnemonic = "hammer desert maze device siren tooth fiber repeat type call bike human";
+var mnemonic = "loyal hard layer foil observe fold guitar civil forward hub connect garage";

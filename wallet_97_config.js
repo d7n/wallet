@@ -1,1 +1,1 @@
-var mnemonic = "essay love arm whisper elegant weird uphold panel reduce churn leg strategy";
+var mnemonic = "kiss later mystery horror mystery afraid major pill prevent resist limb crater";

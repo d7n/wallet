@@ -1,1 +1,1 @@
-var mnemonic = "blanket level fitness engage punch post dream love advice rough maximum order";
+var mnemonic = "economy trumpet crumble fatigue exact donor attend taxi mother clump oven end";

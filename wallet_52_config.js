@@ -1,1 +1,1 @@
-var mnemonic = "front tomorrow blossom scene defense soldier crystal please enough sad fancy clock";
+var mnemonic = "sight like hedgehog hybrid onion annual crime around age shop bulk lumber";

@@ -1,1 +1,1 @@
-var mnemonic = "bitter lava narrow boat comic soldier equip board elder normal marriage cage";
+var mnemonic = "wood detail boat artefact curve movie invite basic field afford slender juice";

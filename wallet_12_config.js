@@ -1,1 +1,1 @@
-var mnemonic = "dilemma system same arena settle fat universe mention human host stick fan";
+var mnemonic = "run private earn rubber skirt ocean yard spoon exact ride alpha draw";

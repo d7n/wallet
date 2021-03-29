@@ -1,1 +1,1 @@
-var mnemonic = "force danger auction animal kiss muffin hunt eager high depart swamp pass";
+var mnemonic = "zebra above universe athlete feature garage expect victory raise gun essay derive";

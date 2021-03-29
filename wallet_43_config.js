@@ -1,1 +1,1 @@
-var mnemonic = "between unlock priority have trap ring thought hedgehog bus remain deal panther";
+var mnemonic = "wink cereal rebuild sick online income film first ugly peasant lecture weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "slush auto gift decline because wheat august actress eyebrow ecology already brave";
+var mnemonic = "diamond juice small usual buffalo saddle sword treat gather space catalog health";

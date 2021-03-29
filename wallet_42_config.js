@@ -1,1 +1,1 @@
-var mnemonic = "sister march stone monkey armed produce decade harbor category random ride unique";
+var mnemonic = "hand tip embrace taxi vague swallow rotate crash maze pass chunk palace";

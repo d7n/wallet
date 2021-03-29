@@ -1,1 +1,1 @@
-var mnemonic = "lemon fatigue civil cute speak myself plate minute wall farm dial february";
+var mnemonic = "giggle survey copper wolf purity bar cousin rude immense into banana sister";

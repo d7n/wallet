@@ -1,1 +1,1 @@
-var mnemonic = "dad dream timber shop conduct round where acid best surprise waste smoke";
+var mnemonic = "economy only hedgehog flight position confirm woman sauce main inside dance more";

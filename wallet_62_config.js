@@ -1,1 +1,1 @@
-var mnemonic = "utility trend action blouse happy romance sadness need bulk old acquire alter";
+var mnemonic = "feature hedgehog zebra rather poet jaguar weasel whale little gain owner allow";

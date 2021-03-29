@@ -1,1 +1,1 @@
-var mnemonic = "speed jungle discover illegal noise suffer deny lobster when segment crowd concert";
+var mnemonic = "unfair fire crazy race member left lyrics census image juice salute orphan";

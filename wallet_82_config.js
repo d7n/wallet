@@ -1,1 +1,1 @@
-var mnemonic = "express isolate video nice medal news excite virus stuff leisure message quit";
+var mnemonic = "frequent horse razor energy arrive sister divert resemble miracle tooth chair fiscal";

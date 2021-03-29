@@ -1,1 +1,1 @@
-var mnemonic = "feature quality royal marine indicate fitness thing fiscal awake menu twice lawsuit";
+var mnemonic = "apple pig world tomato stage seven moment crunch tell bitter denial hole";

@@ -1,1 +1,1 @@
-var mnemonic = "tired copper trash erupt glory damage degree sweet brass subject other network";
+var mnemonic = "margin attend moral install spy pool hundred east rent divide slice ranch";

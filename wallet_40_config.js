@@ -1,1 +1,1 @@
-var mnemonic = "purity country october rate labor obvious dignity kingdom flee federal govern slice";
+var mnemonic = "pluck slow prefer pudding junk gold remain shrimp gasp fame waste flight";

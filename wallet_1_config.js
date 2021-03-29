@@ -1,1 +1,1 @@
-var mnemonic = "whip cruise era salute depth cluster giraffe library blame lyrics chunk ketchup";
+var mnemonic = "fan adapt torch air light elbow marble student happy spawn champion brand";

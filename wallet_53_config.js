@@ -1,1 +1,1 @@
-var mnemonic = "play awkward invite wheel average family flock erosion quit marble prefer onion";
+var mnemonic = "medal bullet gallery cushion sea pole lucky asthma visa cook federal amateur";

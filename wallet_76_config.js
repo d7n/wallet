@@ -1,1 +1,1 @@
-var mnemonic = "bomb prison salt muscle clinic theme mass drift kick scan diary magnet";
+var mnemonic = "squeeze lock wide blue either oblige romance cigar monkey bless arrive middle";

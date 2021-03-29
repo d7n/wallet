@@ -1,1 +1,1 @@
-var mnemonic = "blue grunt bring choice possible pear envelope buffalo typical silly lottery ketchup";
+var mnemonic = "extra flock sting pipe liquid ghost insane season group zebra ill scheme";

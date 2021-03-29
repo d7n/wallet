@@ -1,1 +1,1 @@
-var mnemonic = "leisure future guitar vague diesel olympic torch machine physical absurd clock burger";
+var mnemonic = "knife destroy bag couple little east theme kite athlete giant pond load";

@@ -1,1 +1,1 @@
-var mnemonic = "staff snap senior bronze receive pave oblige leaf wrestle actress crane palm";
+var mnemonic = "win gentle salute need clean replace bottom sick damp release situate sentence";

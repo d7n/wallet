@@ -1,1 +1,1 @@
-var mnemonic = "forward book grocery notice bargain step slot wrap deer wink whale purpose";
+var mnemonic = "blame sure brick abandon logic churn teach rookie tower glimpse negative hour";

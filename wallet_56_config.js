@@ -1,1 +1,1 @@
-var mnemonic = "decrease crazy sister kind negative raise devote merge interest win capital great";
+var mnemonic = "silly inherit drum pipe tuna pistol snake illness ceiling demise else merge";

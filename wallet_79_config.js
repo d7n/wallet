@@ -1,1 +1,1 @@
-var mnemonic = "toast switch museum clean blood yellow tomato load reopen rookie admit letter";
+var mnemonic = "trigger harsh birth quality bright night inherit hour load believe organ host";

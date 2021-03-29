@@ -1,1 +1,1 @@
-var mnemonic = "patch globe forward siege market own base observe memory glare tattoo infant";
+var mnemonic = "head inflict fresh uncover token shrimp coconut bid hint grit side elegant";

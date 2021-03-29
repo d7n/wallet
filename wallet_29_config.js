@@ -1,1 +1,1 @@
-var mnemonic = "weapon congress replace board tower asthma coconut february tattoo thank hover tomorrow";
+var mnemonic = "frost chuckle twist slight bring size joy ribbon man unique business essence";

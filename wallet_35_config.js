@@ -1,1 +1,1 @@
-var mnemonic = "book bracket debris crucial assault burst rich topic business neglect enhance update";
+var mnemonic = "end code hunt misery distance army weather okay obvious path already now";

@@ -1,1 +1,1 @@
-var mnemonic = "regular toddler assault gown predict note champion always word cook length detail";
+var mnemonic = "neutral where link more sad turkey quantum sphere interest episode add eye";

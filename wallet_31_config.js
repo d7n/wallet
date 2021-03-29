@@ -1,1 +1,1 @@
-var mnemonic = "state advance buffalo skirt december ahead maid wink opera shield dizzy tell";
+var mnemonic = "able buzz soul garlic uncle violin hat hero small unknown accident science";

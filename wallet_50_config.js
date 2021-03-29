@@ -1,1 +1,1 @@
-var mnemonic = "disorder baby soccer defense twist dash sign wear mixed memory never fabric";
+var mnemonic = "offer fox check sea soup vacant buddy job warm dentist aisle color";

@@ -1,1 +1,1 @@
-var mnemonic = "ocean frame venue eager clay grocery fuel post deal turkey print crawl";
+var mnemonic = "lunch merry this initial gun puppy raccoon space dad better parent kit";

@@ -1,1 +1,1 @@
-var mnemonic = "exhibit skin speak sick label mirror okay hover much call bird reform";
+var mnemonic = "book phrase category carry fire inner shy silk identify alone vessel remind";

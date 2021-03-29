@@ -1,1 +1,1 @@
-var mnemonic = "negative list fabric link cargo source quantum exile casual enact column wood";
+var mnemonic = "flash mass hammer tennis car trim negative seed melt involve lesson move";

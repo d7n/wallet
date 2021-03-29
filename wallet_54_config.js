@@ -1,1 +1,1 @@
-var mnemonic = "blade satisfy latin accident comfort action one horse butter cinnamon lazy bonus";
+var mnemonic = "error snow weekend brown finish ten excite beach antenna wide exclude image";

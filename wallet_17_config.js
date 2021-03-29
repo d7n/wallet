@@ -1,1 +1,1 @@
-var mnemonic = "creek disagree actual erosion check shrug sock away example any wrist nerve";
+var mnemonic = "syrup lobster opinion degree emotion unable idle mask blame animal unaware snap";

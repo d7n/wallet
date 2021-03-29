@@ -1,1 +1,1 @@
-var mnemonic = "parent until metal million olympic bleak unfold rigid stone actress thumb domain";
+var mnemonic = "shoe caught oblige wheat put garden seek team bracket man increase absorb";

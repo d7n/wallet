@@ -1,1 +1,1 @@
-var mnemonic = "kitten process risk lottery cost furnace lava fall trigger diet rabbit caution";
+var mnemonic = "imitate volcano oppose note manual twelve save hybrid eternal patch reduce top";

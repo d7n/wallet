@@ -1,1 +1,1 @@
-var mnemonic = "tackle duty beef assume luggage blade story question giraffe choose bind theory";
+var mnemonic = "lunar zone rocket east dumb lab future swear retreat upgrade slender camp";

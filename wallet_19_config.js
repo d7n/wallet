@@ -1,1 +1,1 @@
-var mnemonic = "speed space code often leopard better library rhythm rule until surprise ramp";
+var mnemonic = "hard wool veteran crime bag jewel say virus lyrics bomb trumpet asthma";

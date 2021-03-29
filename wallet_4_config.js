@@ -1,1 +1,1 @@
-var mnemonic = "error come subway olive imitate notice card protect borrow theory lucky sad";
+var mnemonic = "gasp dice lion indicate stuff brush brush game school fade genuine upon";

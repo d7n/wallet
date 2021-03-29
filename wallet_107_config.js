@@ -1,1 +1,1 @@
-var mnemonic = "sword vacant range celery cycle tenant until fancy spirit weasel blur stairs";
+var mnemonic = "betray amazing dune mean exercise lounge scorpion galaxy pupil region talk limb";

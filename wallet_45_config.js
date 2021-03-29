@@ -1,1 +1,1 @@
-var mnemonic = "similar sheriff labor height sun address blade daring coach position taste slight";
+var mnemonic = "memory flight dragon sister shy glide enact scatter inform crash ivory gorilla";

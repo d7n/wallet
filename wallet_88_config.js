@@ -1,1 +1,1 @@
-var mnemonic = "swear dawn rare shoe inch depth chaos term fuel crawl question scan";
+var mnemonic = "frame matter panther toast buddy skull retire swap visit source blossom shift";

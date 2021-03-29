@@ -1,1 +1,1 @@
-var mnemonic = "slide plunge hard result danger attack harbor cargo maze render project field";
+var mnemonic = "chief manage smile where engage tackle mansion stand inflict measure opera rail";

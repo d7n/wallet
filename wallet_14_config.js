@@ -1,1 +1,1 @@
-var mnemonic = "spy forum hazard benefit strong accident actress rack spirit rabbit enrich like";
+var mnemonic = "arch tone swing fruit cloud firm apology host small bargain chaos guard";

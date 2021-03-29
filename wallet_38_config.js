@@ -1,1 +1,1 @@
-var mnemonic = "steak equal exotic invest crisp agent soda advance trick again naive best";
+var mnemonic = "dream first circle illegal guard robot federal length say among enlist zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "home ranch panel remind agent zebra ugly brand sport syrup fee hood";
+var mnemonic = "renew topic custom sail clay panic resist hybrid across call intact vehicle";
