@@ -1,1 +1,1 @@
-var mnemonic = "cannon vacuum essay almost math step occur nature year educate busy cycle";
+var mnemonic = "glove dose mixture road cherry conduct dress speed forward size debate deliver";

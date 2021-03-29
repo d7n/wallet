@@ -1,1 +1,1 @@
-var mnemonic = "oblige script summer system tiny rookie arena actual offer know example captain";
+var mnemonic = "soul hamster gorilla blade primary nature ask oval calm drink wool quarter";

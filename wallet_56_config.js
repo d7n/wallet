@@ -1,1 +1,1 @@
-var mnemonic = "shift differ vintage suit wire half salon glance anger divert rebel sketch";
+var mnemonic = "gown spice violin live little train blind waste solve learn bulb car";

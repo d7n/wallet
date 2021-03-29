@@ -1,1 +1,1 @@
-var mnemonic = "foam dry kite second parrot tunnel foster helmet easily nasty roast century";
+var mnemonic = "allow simple opinion hockey subject elephant isolate zoo ancient join absent dolphin";

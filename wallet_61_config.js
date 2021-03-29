@@ -1,1 +1,1 @@
-var mnemonic = "where intact spy trial chunk brisk circle warrior lemon shove candy cloth";
+var mnemonic = "dinosaur brain monster beyond use pizza flush mail endorse company usual correct";

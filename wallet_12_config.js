@@ -1,1 +1,1 @@
-var mnemonic = "fit pattern dynamic tonight addict consider cat conduct capital infant woman scissors";
+var mnemonic = "fatigue diet leg cake stock tool antique play food captain raw impact";

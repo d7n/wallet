@@ -1,1 +1,1 @@
-var mnemonic = "satisfy glory cheese fury donkey arrest choose denial tape owner game hunt";
+var mnemonic = "midnight enforce slogan more pilot lunar behind before birth gym immense use";

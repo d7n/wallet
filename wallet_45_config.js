@@ -1,1 +1,1 @@
-var mnemonic = "stick dentist pumpkin seven draft visa adapt public other prison verb leader";
+var mnemonic = "bracket float install merry tiger this mosquito forum cupboard object party genuine";

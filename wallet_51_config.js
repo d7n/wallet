@@ -1,1 +1,1 @@
-var mnemonic = "tackle hard decide betray subject cradle key reveal sight trouble spoon degree";
+var mnemonic = "frost vehicle abstract absorb sport song pluck border dove excuse ring sister";

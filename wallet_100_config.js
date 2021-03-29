@@ -1,1 +1,1 @@
-var mnemonic = "always keep quit marine true dentist tobacco come maximum census giggle kid";
+var mnemonic = "toward road quit exact doll act square jelly disorder require bounce toward";

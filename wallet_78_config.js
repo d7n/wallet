@@ -1,1 +1,1 @@
-var mnemonic = "leader since mass jaguar appear couch whip later monkey soon auction tackle";
+var mnemonic = "guide royal parrot employ raw file turtle reveal seek require judge clerk";

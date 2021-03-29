@@ -1,1 +1,1 @@
-var mnemonic = "way winter script liar decorate sign promote erode opinion south silly average";
+var mnemonic = "dragon sustain only panel element manage method truly post canoe card cluster";

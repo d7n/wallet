@@ -1,1 +1,1 @@
-var mnemonic = "suspect theory affair tail domain plastic object net actual movie thumb enjoy";
+var mnemonic = "suit poem essay script catch harsh vault venue genre identify behind cry";

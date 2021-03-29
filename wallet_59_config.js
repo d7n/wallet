@@ -1,1 +1,1 @@
-var mnemonic = "tip host open obey inside position bargain chunk earth flip bundle super";
+var mnemonic = "manage mule author country recycle gloom vital orchard can breeze usage gift";

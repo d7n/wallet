@@ -1,1 +1,1 @@
-var mnemonic = "survey brain admit unknown pole gain flock hurry lift joke devote tonight";
+var mnemonic = "favorite apology razor smooth dress fury net wagon pioneer tired horror output";

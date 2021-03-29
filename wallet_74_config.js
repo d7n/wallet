@@ -1,1 +1,1 @@
-var mnemonic = "plastic improve truth daughter soup rate rural column sunset hungry orange jaguar";
+var mnemonic = "chaos pencil grid axis west cabin canal rather that puzzle work seven";

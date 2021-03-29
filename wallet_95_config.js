@@ -1,1 +1,1 @@
-var mnemonic = "mandate various bird length drive penalty keep negative regular second family celery";
+var mnemonic = "misery extra mule raw mask curve then injury hurt distance elite stem";

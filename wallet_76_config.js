@@ -1,1 +1,1 @@
-var mnemonic = "calm month minimum burger correct prefer truth pride comfort casual sight noodle";
+var mnemonic = "punch story nurse stand resist license crater error battle current mixed cabbage";

@@ -1,1 +1,1 @@
-var mnemonic = "village cupboard end just length pigeon donkey practice damp warrior wear luxury";
+var mnemonic = "federal found ocean picnic swallow wave reject nature fade hybrid weather lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "again spoon identify hair crazy situate sheriff code concert violin cup oval";
+var mnemonic = "crisp artefact loyal mechanic clutch unique ill boost glance pioneer eye goat";

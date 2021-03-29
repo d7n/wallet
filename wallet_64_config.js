@@ -1,1 +1,1 @@
-var mnemonic = "delay knock busy small cruel staff live vintage slice brief innocent decide";
+var mnemonic = "cause sail maximum harbor tornado strong click village toss crush witness hope";

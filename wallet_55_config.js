@@ -1,1 +1,1 @@
-var mnemonic = "mind play kitchen lunch siege excess ball always demand spatial wreck screen";
+var mnemonic = "public profit twist raven radar draft steak favorite lobster arctic say nothing";

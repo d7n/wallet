@@ -1,1 +1,1 @@
-var mnemonic = "eight local stick cruel noise dust immune swamp best denial course fat";
+var mnemonic = "dove lounge february prefer repair weasel shaft junior disease tail copy burger";

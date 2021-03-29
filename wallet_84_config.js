@@ -1,1 +1,1 @@
-var mnemonic = "forest myth glow never meadow tide fuel animal danger result used above";
+var mnemonic = "typical elephant interest dial announce control alert lava assault prosper section goat";

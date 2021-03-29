@@ -1,1 +1,1 @@
-var mnemonic = "witness foster wall ivory sibling receive dignity digital submit ceiling guide napkin";
+var mnemonic = "rifle bacon attend rural boat glory sail unhappy silk desert saddle trend";

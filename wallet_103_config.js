@@ -1,1 +1,1 @@
-var mnemonic = "twenty dance shaft peanut grit metal remove tent gap story bunker you";
+var mnemonic = "clutch rice reunion start remain twist suit comic helmet magic boost degree";

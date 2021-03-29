@@ -1,1 +1,1 @@
-var mnemonic = "swift hollow budget park debate else tongue suffer tilt swift local hotel";
+var mnemonic = "reason shrug pet blade erosion sugar year glad bronze bread donor man";

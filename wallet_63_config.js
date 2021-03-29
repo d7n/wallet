@@ -1,1 +1,1 @@
-var mnemonic = "explain hard ethics damp detail safe caution mimic rapid staff vanish merry";
+var mnemonic = "hill circle stumble day critic valley skill fossil physical wasp phrase opinion";

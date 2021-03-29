@@ -1,1 +1,1 @@
-var mnemonic = "school hotel define ticket arena mother body festival umbrella stable drive zero";
+var mnemonic = "suffer camera ramp chimney copper yard erupt danger vocal video loyal detail";

@@ -1,1 +1,1 @@
-var mnemonic = "gap remove flock school dinosaur pair suit say unable hat approve vacuum";
+var mnemonic = "blade year gap until office book field kingdom bless boy divorce unable";

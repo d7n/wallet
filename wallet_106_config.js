@@ -1,1 +1,1 @@
-var mnemonic = "gauge novel toward mouse payment march sea cause manual order poet crush";
+var mnemonic = "play next other electric six author egg tobacco gift poet clog match";

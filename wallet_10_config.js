@@ -1,1 +1,1 @@
-var mnemonic = "zebra sock icon video bleak solution share warm gentle ten glad dish";
+var mnemonic = "number inject quarter drip police disagree sad knee smooth blur travel parrot";

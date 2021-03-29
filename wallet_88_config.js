@@ -1,1 +1,1 @@
-var mnemonic = "run day ball service same gossip kidney lecture belt attitude tattoo tiger";
+var mnemonic = "fossil champion rack mountain express penalty only frown correct clock decade all";

@@ -1,1 +1,1 @@
-var mnemonic = "come despair wheel crush fancy produce biology output cave fringe secret mango";
+var mnemonic = "method purchase bag install busy lift enough kite oval math unusual reunion";

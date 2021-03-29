@@ -1,1 +1,1 @@
-var mnemonic = "fetch second brown else term start lyrics chicken flight measure audit museum";
+var mnemonic = "mixed abstract convince genius razor tortoise target depend test section because grocery";

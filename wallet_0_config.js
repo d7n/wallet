@@ -1,1 +1,1 @@
-var mnemonic = "people always minimum thrive seven whale dilemma gas imitate witness slight menu";
+var mnemonic = "increase elbow permit under very issue near boring large knock lawn olympic";

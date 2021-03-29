@@ -1,1 +1,1 @@
-var mnemonic = "leader nephew excite topic three solution tennis nose crisp soap mutual amateur";
+var mnemonic = "walnut punch service special gasp paddle ostrich perfect brick toy frost gain";

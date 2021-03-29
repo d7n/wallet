@@ -1,1 +1,1 @@
-var mnemonic = "view volcano shock immune reopen nurse mule enact tool woman combine coyote";
+var mnemonic = "symptom volcano quote two blur squeeze auto panther skull dirt script gather";

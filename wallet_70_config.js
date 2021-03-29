@@ -1,1 +1,1 @@
-var mnemonic = "prosper waste raise exotic make escape open current kick produce foil appear";
+var mnemonic = "language rescue hour save tree inquiry dilemma drive hybrid north physical valve";

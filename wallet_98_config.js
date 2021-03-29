@@ -1,1 +1,1 @@
-var mnemonic = "deal nephew advice curve alien suspect chaos nuclear guitar harbor amused media";
+var mnemonic = "dismiss swap trouble picnic purchase chuckle stock high lady collect remind power";

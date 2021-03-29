@@ -1,1 +1,1 @@
-var mnemonic = "rose vivid vacuum bacon loud camera gain disease exact cute clown domain";
+var mnemonic = "clump impulse biology current return shoulder clay believe immune struggle above top";

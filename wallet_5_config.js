@@ -1,1 +1,1 @@
-var mnemonic = "shallow blood such bunker emotion brown magic enemy amused obey acid mammal";
+var mnemonic = "any push admit enter jazz oven solar forest increase settle enhance bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "head elite neck mask toilet cousin bless fringe place embark pottery trophy";
+var mnemonic = "thing permit access trash cube mouse random nose blind essay loop toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "suggest orchard wreck ginger valley volume spin need seven quote age wing";
+var mnemonic = "icon suspect valve jealous weird voice memory decorate once deputy west frozen";

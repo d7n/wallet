@@ -1,1 +1,1 @@
-var mnemonic = "grunt delay lens metal always section olive habit document endorse delay nuclear";
+var mnemonic = "example catch raven enrich shoe update strategy into dragon race arena concert";

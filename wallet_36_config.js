@@ -1,1 +1,1 @@
-var mnemonic = "kick chief vague canyon crawl adapt vague alone fresh cheap error subway";
+var mnemonic = "hero utility dress habit there time rebuild shiver pen year crater pelican";

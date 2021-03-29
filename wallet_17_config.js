@@ -1,1 +1,1 @@
-var mnemonic = "person scatter toward fresh vintage crystal eternal bulk language lyrics holiday begin";
+var mnemonic = "essay empty wrap garage size magnet liquid genuine fringe style ill spike";

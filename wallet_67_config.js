@@ -1,1 +1,1 @@
-var mnemonic = "parent pet actor ladder duty input cross tool blossom lobster school canoe";
+var mnemonic = "crumble silent monkey evoke mandate nominee action ordinary park hospital turkey letter";

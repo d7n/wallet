@@ -1,1 +1,1 @@
-var mnemonic = "tumble type arrow sunset puzzle vacant tired settle recipe mimic bronze dismiss";
+var mnemonic = "satisfy kick carry south extra pottery ring foil dutch naive anxiety hockey";

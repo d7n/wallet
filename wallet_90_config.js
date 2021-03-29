@@ -1,1 +1,1 @@
-var mnemonic = "voyage choice cereal fortune rare gas industry interest runway crucial glue dawn";
+var mnemonic = "pass metal present cheese zoo march away glance visual early monitor unit";

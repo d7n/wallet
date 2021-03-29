@@ -1,1 +1,1 @@
-var mnemonic = "piano cream hip idea surge dream spray expand word jelly return lawsuit";
+var mnemonic = "seed mass save edge kiwi congress stairs ancient mule fork bone frown";

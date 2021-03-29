@@ -1,1 +1,1 @@
-var mnemonic = "carry gain wealth razor steak online spot suspect aerobic cluster wrestle awesome";
+var mnemonic = "frame shock smooth imitate gold crop mix sugar hello struggle three report";

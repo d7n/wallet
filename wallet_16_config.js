@@ -1,1 +1,1 @@
-var mnemonic = "clap title merry faint frost globe magnet ordinary crisp board train trend";
+var mnemonic = "front diary myth noise smooth yellow include steel average just upset raven";

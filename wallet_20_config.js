@@ -1,1 +1,1 @@
-var mnemonic = "regret inspire session valid solve nothing buyer broken output lawn canvas pink";
+var mnemonic = "exercise high jeans grape chapter noble fun camera street exhibit improve virus";

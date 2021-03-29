@@ -1,1 +1,1 @@
-var mnemonic = "faint swear until jazz riot remind shadow absent task unlock ball shoe";
+var mnemonic = "close giant interest letter produce more there popular file fix defense dinner";

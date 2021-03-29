@@ -1,1 +1,1 @@
-var mnemonic = "amused pistol purse purse vicious great swallow security cluster pact forget rain";
+var mnemonic = "anchor copper object pass remain village segment acquire tackle century waste gym";

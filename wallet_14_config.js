@@ -1,1 +1,1 @@
-var mnemonic = "trouble salt approve bounce sun case system bind cloth find praise success";
+var mnemonic = "devote maximum blanket pipe siren harvest thrive piece upset expect feed amazing";

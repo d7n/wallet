@@ -1,1 +1,1 @@
-var mnemonic = "manage box genre allow fit town toss tone shift diary knee fury";
+var mnemonic = "unknown earth logic replace vintage engage cream canyon expire neutral cricket fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse swallow put disease bind boring easy laugh spot vivid awake much";
+var mnemonic = "become power lucky radio embody away amazing fruit bamboo spring symptom display";

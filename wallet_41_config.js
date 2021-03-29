@@ -1,1 +1,1 @@
-var mnemonic = "tray radio awful exist practice shoe favorite depth elephant wild suspect fringe";
+var mnemonic = "attract endorse always game vanish badge pumpkin flavor used topic few assist";

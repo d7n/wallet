@@ -1,1 +1,1 @@
-var mnemonic = "reason amount same sudden giggle crucial awful endorse buzz reason leopard symptom";
+var mnemonic = "beef benefit funny inquiry horror odor junk rural exclude capable certain rent";

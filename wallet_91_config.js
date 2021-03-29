@@ -1,1 +1,1 @@
-var mnemonic = "between collect timber circle police salon eager quiz stage almost dry beauty";
+var mnemonic = "hip doctor that local draw squeeze enroll depth choice wool sport conduct";

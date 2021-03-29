@@ -1,1 +1,1 @@
-var mnemonic = "convince chest impose comfort stairs legend food finger people strike tunnel faculty";
+var mnemonic = "edit educate flower fresh lend address capital orange burst magic twelve cave";

@@ -1,1 +1,1 @@
-var mnemonic = "quantum check column vintage warm ketchup add hub dinosaur kidney lava come";
+var mnemonic = "until faith inner dune hole predict couch degree employ clay clinic huge";

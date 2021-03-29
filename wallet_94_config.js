@@ -1,1 +1,1 @@
-var mnemonic = "humor vapor rubber hire appear faint erosion capable pause thought banner orphan";
+var mnemonic = "winter pudding genuine mimic holiday jealous hospital spider bachelor loan ugly rent";

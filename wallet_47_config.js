@@ -1,1 +1,1 @@
-var mnemonic = "all banana inch credit trumpet aim salt truck engine accident era ramp";
+var mnemonic = "bread era raven join usage scrap destroy wood defy power choose damage";

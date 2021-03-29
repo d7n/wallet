@@ -1,1 +1,1 @@
-var mnemonic = "unit just hungry hamster shallow chief settle crucial stuff ridge list fame";
+var mnemonic = "degree run square rebuild remove person profit track dismiss blossom obvious slab";

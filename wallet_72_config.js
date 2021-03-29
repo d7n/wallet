@@ -1,1 +1,1 @@
-var mnemonic = "slot vendor fold trend once will clean ski fog load soft doll";
+var mnemonic = "grant among level fiscal adjust airport hammer produce alley equip purpose vicious";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist general nominee hint minor drive photo prevent lonely crash urge gallery";
+var mnemonic = "sand diagram infant leg submit game song expect foam chimney bomb because";

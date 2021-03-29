@@ -1,1 +1,1 @@
-var mnemonic = "hood cake twice fix spider kind lunar trade wheat disorder flash finger";
+var mnemonic = "same century budget february title domain will disagree shy grab tennis noble";

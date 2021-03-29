@@ -1,1 +1,1 @@
-var mnemonic = "sport become mule wear priority month run stereo tired toddler beauty uncover";
+var mnemonic = "carry shine oval equip street field shiver range liar orphan hammer unhappy";

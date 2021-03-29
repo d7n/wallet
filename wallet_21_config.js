@@ -1,1 +1,1 @@
-var mnemonic = "ill measure income cable define hint addict rule open antique estate test";
+var mnemonic = "first text joy unit couch labor embark tilt potato clinic swift chair";

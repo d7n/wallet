@@ -1,1 +1,1 @@
-var mnemonic = "van catalog melody volcano sudden design shoe picture repair rack jealous boss";
+var mnemonic = "ask kind tennis girl question sauce vault suspect wide scan artist lumber";

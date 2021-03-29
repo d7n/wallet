@@ -1,1 +1,1 @@
-var mnemonic = "arena orient include glide empower imitate liquid ugly lizard congress day heart";
+var mnemonic = "surprise legend injury excite distance toddler scissors fringe window dawn urban logic";

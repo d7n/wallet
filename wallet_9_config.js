@@ -1,1 +1,1 @@
-var mnemonic = "cat since feature media fantasy adult neutral gauge squeeze super awful display";
+var mnemonic = "aim invest vessel sort junk drink index shoot mask unveil annual meadow";

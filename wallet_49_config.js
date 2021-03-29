@@ -1,1 +1,1 @@
-var mnemonic = "into deposit suggest six gym spell prison deer model knock actress aisle";
+var mnemonic = "hover ball ball doctor jeans window curve good two enact voice census";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect cupboard method section rocket angry goddess raw hope brother squeeze add";
+var mnemonic = "join jacket dynamic cream weekend vast expand sheriff kid walnut bird exchange";

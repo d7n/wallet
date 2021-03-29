@@ -1,1 +1,1 @@
-var mnemonic = "toilet boat blade click sport sad human census honey okay vacant post";
+var mnemonic = "they shoe disorder sugar sand client dutch addict museum mutual glad dish";

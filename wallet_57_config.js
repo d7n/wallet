@@ -1,1 +1,1 @@
-var mnemonic = "blind near cloud gravity economy hire expose language plate title document worth";
+var mnemonic = "swallow hat nest elevator shock way tank onion tunnel two prison story";

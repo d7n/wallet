@@ -1,1 +1,1 @@
-var mnemonic = "merit electric comic kidney ring witness when best october already embark shift";
+var mnemonic = "movie brisk execute attract square stay pig stable seminar camera chimney smoke";

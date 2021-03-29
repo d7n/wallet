@@ -1,1 +1,1 @@
-var mnemonic = "spend swift until century eight team thank select shop display elegant sleep";
+var mnemonic = "blush frequent range high ask bulb feature betray index simple gold file";

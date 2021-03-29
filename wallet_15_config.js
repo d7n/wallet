@@ -1,1 +1,1 @@
-var mnemonic = "river lizard stand owner wagon device champion payment aisle bird shiver train";
+var mnemonic = "enact churn found picnic relief swamp rifle fiber ticket main poem tip";

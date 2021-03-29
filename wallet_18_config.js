@@ -1,1 +1,1 @@
-var mnemonic = "blind stone dirt kidney educate wage fantasy clock east slim owner expire";
+var mnemonic = "rubber tired junior speak crop foot victory industry ivory matter gravity often";

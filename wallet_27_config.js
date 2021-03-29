@@ -1,1 +1,1 @@
-var mnemonic = "catch thank hover joke news thought flat neutral furnace model neck pigeon";
+var mnemonic = "corn tree give similar lumber glue old child friend apple direct fluid";

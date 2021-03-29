@@ -1,1 +1,1 @@
-var mnemonic = "onion harvest salt timber wheat indicate decade alone curious era cloud warrior";
+var mnemonic = "dentist gun happy axis suggest pretty blame example sauce bachelor siege party";

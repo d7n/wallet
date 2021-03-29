@@ -1,1 +1,1 @@
-var mnemonic = "ridge rate major adult laundry gentle travel endorse glue sausage wisdom science";
+var mnemonic = "poverty nut patrol cup vote devote rose sand install shift cotton kitten";

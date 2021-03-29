@@ -1,1 +1,1 @@
-var mnemonic = "junk cabin ship champion capital obtain similar move motor differ marble abuse";
+var mnemonic = "lava outer ocean tribe guard cushion truly gasp caution lion gas entry";

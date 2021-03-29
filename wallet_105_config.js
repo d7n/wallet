@@ -1,1 +1,1 @@
-var mnemonic = "actual report clump scrub agree circle clown arrive what quality olympic what";
+var mnemonic = "sheriff inform fix amused toddler canal target ice peanut example high deputy";
