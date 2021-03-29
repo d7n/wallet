@@ -1,1 +1,1 @@
-var mnemonic = "wool phone patch shuffle hollow fence worth auction hour curious scorpion ability";
+var mnemonic = "segment skin unit embrace elite witness they stairs area inside female arrive";

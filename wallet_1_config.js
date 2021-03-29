@@ -1,1 +1,1 @@
-var mnemonic = "orphan share art history upon allow pigeon glance life abuse special split";
+var mnemonic = "blood crouch hockey trash tip peasant scale prison common wage crumble embark";

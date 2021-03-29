@@ -1,1 +1,1 @@
-var mnemonic = "rotate sad chief announce man result sphere nuclear core panel decide say";
+var mnemonic = "satoshi nose urban farm nose artefact nut dragon soul original choice clump";

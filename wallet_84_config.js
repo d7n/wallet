@@ -1,1 +1,1 @@
-var mnemonic = "also cluster flat cause profit enjoy lecture over whale cost mosquito original";
+var mnemonic = "admit current between beyond kick morning girl help iron believe heart aunt";

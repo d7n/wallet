@@ -1,1 +1,1 @@
-var mnemonic = "primary swamp flip fancy arrange beauty fan cliff cheap emotion toast desk";
+var mnemonic = "marine armor ride virus loop thumb orbit target sword naive camera vendor";

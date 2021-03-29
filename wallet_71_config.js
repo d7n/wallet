@@ -1,1 +1,1 @@
-var mnemonic = "dizzy license program someone eager food endorse strong hidden illegal equip bag";
+var mnemonic = "observe girl rubber pave exercise shoot screen mad typical water chase spread";

@@ -1,1 +1,1 @@
-var mnemonic = "educate label ceiling during stand measure robust basket already upset employ exit";
+var mnemonic = "wedding struggle visa ranch unusual brass silver despair flag quantum light entire";

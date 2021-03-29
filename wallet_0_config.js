@@ -1,1 +1,1 @@
-var mnemonic = "hip strong chicken rude someone kiwi umbrella candy certain pave fog taste";
+var mnemonic = "copy banana ten dance punch usage learn walk spare turn service loan";

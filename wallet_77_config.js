@@ -1,1 +1,1 @@
-var mnemonic = "taste provide liberty tumble march fan stairs market mushroom wheat foster try";
+var mnemonic = "vacant mango minute ring bring frost hire alpha gravity gaze panther crater";

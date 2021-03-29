@@ -1,1 +1,1 @@
-var mnemonic = "garage feature predict battle cousin talent axis fee office obtain organ tone";
+var mnemonic = "father shaft science obtain scheme distance friend forget outer fox daring alarm";

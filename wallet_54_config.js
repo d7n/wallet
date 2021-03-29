@@ -1,1 +1,1 @@
-var mnemonic = "purchase behind refuse museum cricket noodle bid you deliver creek sister trumpet";
+var mnemonic = "tennis genuine pigeon render vessel almost shield make basket brush muffin orient";

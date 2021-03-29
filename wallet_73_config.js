@@ -1,1 +1,1 @@
-var mnemonic = "concert bleak fiber silly sick soldier siren correct type drop walk uncover";
+var mnemonic = "maze switch mad they milk machine someone badge top sugar affair myth";

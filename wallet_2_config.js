@@ -1,1 +1,1 @@
-var mnemonic = "orphan fog screen picnic story enter print minute farm grape visa fitness";
+var mnemonic = "state toilet bullet coconut depart promote infant crowd such peanut stereo pen";

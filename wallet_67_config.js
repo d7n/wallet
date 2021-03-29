@@ -1,1 +1,1 @@
-var mnemonic = "frog setup zone crisp drift bottom plastic congress citizen young fat sense";
+var mnemonic = "virtual chicken zebra carry rhythm that eternal work impose stadium swim mask";

@@ -1,1 +1,1 @@
-var mnemonic = "cause minimum eternal history fan swallow approve jungle detail room near cover";
+var mnemonic = "sibling lobster truth engage forward kid more flavor sugar hole parade lend";

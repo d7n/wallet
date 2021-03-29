@@ -1,1 +1,1 @@
-var mnemonic = "raven machine table retire awake mimic satoshi spider twist fun excite figure";
+var mnemonic = "insane tide twist pelican develop neglect glue hen super define veteran owner";

@@ -1,1 +1,1 @@
-var mnemonic = "book rare rib tenant day squirrel attitude jacket hobby pulp taxi paddle";
+var mnemonic = "million pig online century arrest large dad raw vessel lab turkey expire";

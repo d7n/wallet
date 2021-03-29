@@ -1,1 +1,1 @@
-var mnemonic = "sustain enable flag employ aware later arena ill good endorse engine raccoon";
+var mnemonic = "tower observe satoshi motion into fetch skill measure level peanut hold survey";

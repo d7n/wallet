@@ -1,1 +1,1 @@
-var mnemonic = "pigeon nation need plastic master furnace lunch pink clean disorder escape layer";
+var mnemonic = "summer before dash grief choose double pretty keep sphere grain arrow weird";

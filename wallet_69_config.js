@@ -1,1 +1,1 @@
-var mnemonic = "crucial shrimp curious amount exclude note edge insane hand pause remove toddler";
+var mnemonic = "base ritual culture cruel skull loyal kid toilet taxi tongue turn blast";

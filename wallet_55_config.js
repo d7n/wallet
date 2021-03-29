@@ -1,1 +1,1 @@
-var mnemonic = "skate jazz danger tennis lift ready unit faculty pudding wealth brave slow";
+var mnemonic = "enhance noodle rude mouse ranch oxygen blood sock grit camp into harbor";

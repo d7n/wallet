@@ -1,1 +1,1 @@
-var mnemonic = "attack prepare dutch rebel anger aunt axis slam grunt all page vote";
+var mnemonic = "jeans decade monster index pink amused claw tragic hybrid vapor melt minimum";

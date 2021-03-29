@@ -1,1 +1,1 @@
-var mnemonic = "effort city weasel evolve song lens blue text lazy room novel denial";
+var mnemonic = "vital few gate hen bike craft scrap record install suspect awkward route";

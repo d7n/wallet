@@ -1,1 +1,1 @@
-var mnemonic = "sun smart real buffalo leg maximum basic slogan regular scene road use";
+var mnemonic = "heavy hair age bomb sunny found banner cage fiction snap admit input";

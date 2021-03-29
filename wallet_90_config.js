@@ -1,1 +1,1 @@
-var mnemonic = "royal fit they harsh hero supply sadness wear chest devote fancy pink";
+var mnemonic = "repeat miss saddle alarm hood degree valley mosquito glad cushion frog wage";

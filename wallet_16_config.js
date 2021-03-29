@@ -1,1 +1,1 @@
-var mnemonic = "hotel vessel blue below twin buffalo movie review worth since notable cheap";
+var mnemonic = "toast library device cricket mad cousin shoulder item duck tree bracket state";

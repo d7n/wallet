@@ -1,1 +1,1 @@
-var mnemonic = "note twist bench melt hybrid flame roast van elite isolate fee genius";
+var mnemonic = "course snack battle vicious core absorb plastic group dutch bundle kiwi frequent";

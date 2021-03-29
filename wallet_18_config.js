@@ -1,1 +1,1 @@
-var mnemonic = "staff lesson arm rifle viable nest shock cliff thank siege typical train";
+var mnemonic = "stereo cube wagon sand number logic bench error hybrid find excess sphere";

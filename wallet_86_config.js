@@ -1,1 +1,1 @@
-var mnemonic = "ask history victory copper copy damp cherry attend conduct start convince great";
+var mnemonic = "grow pill country always normal clock donkey series van heavy rice nuclear";

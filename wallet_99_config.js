@@ -1,1 +1,1 @@
-var mnemonic = "sudden remember bread grape wine select width moment toward friend rib undo";
+var mnemonic = "column theory need charge edge various army choice parent consider toilet cancel";

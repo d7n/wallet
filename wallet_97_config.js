@@ -1,1 +1,1 @@
-var mnemonic = "average come able apology mail witness limit title catalog flee doll immune";
+var mnemonic = "lobster curve half such laugh solve suggest start jealous valid erupt put";

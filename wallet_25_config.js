@@ -1,1 +1,1 @@
-var mnemonic = "extra shallow before anxiety crop clog index river milk record west cube";
+var mnemonic = "cry pact steak rebuild explain struggle inflict gauge dutch pulp elegant close";

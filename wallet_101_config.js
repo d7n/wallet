@@ -1,1 +1,1 @@
-var mnemonic = "over injury exchange broccoli sea poem imitate step milk coyote brick truck";
+var mnemonic = "butter tube adjust egg artist click prevent risk slogan common harsh radio";

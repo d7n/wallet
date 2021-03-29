@@ -1,1 +1,1 @@
-var mnemonic = "above garage basic deputy pretty enjoy wood basic extra unveil draw universe";
+var mnemonic = "hockey inhale nature follow edge wing increase book crash toddler toilet best";

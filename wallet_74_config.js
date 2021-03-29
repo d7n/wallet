@@ -1,1 +1,1 @@
-var mnemonic = "glass deputy edit hen whisper awkward meadow kitten fringe arctic play tumble";
+var mnemonic = "unfair tennis royal civil elite vital renew attend own dirt potato finish";

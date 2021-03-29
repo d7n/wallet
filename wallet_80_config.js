@@ -1,1 +1,1 @@
-var mnemonic = "century vague west nothing immense entire fiber blast worry library push cute";
+var mnemonic = "doll rebuild museum armed net become that wash jelly treat mobile recall";

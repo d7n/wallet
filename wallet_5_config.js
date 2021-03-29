@@ -1,1 +1,1 @@
-var mnemonic = "cradle lawn wall laugh aerobic despair document clinic pelican fade indicate nurse";
+var mnemonic = "spike island cannon seven member hurt express flower affair vintage credit erase";

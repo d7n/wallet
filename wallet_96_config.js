@@ -1,1 +1,1 @@
-var mnemonic = "pistol until clutch family letter gossip away slim face sight stage core";
+var mnemonic = "fog accuse surface canvas barely dumb silly toilet honey process front street";

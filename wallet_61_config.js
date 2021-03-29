@@ -1,1 +1,1 @@
-var mnemonic = "state mask sweet leaf expect ketchup hunt oak auction license strategy trumpet";
+var mnemonic = "mobile napkin game edit power flat bright ugly reduce nurse admit squeeze";

@@ -1,1 +1,1 @@
-var mnemonic = "today loop liquid matrix scout whip bread leisure morning bright health word";
+var mnemonic = "start bid breeze position place token brown pony grant car conduct hood";

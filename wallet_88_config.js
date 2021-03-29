@@ -1,1 +1,1 @@
-var mnemonic = "hold company abandon erase indicate already web edit figure deputy armed begin";
+var mnemonic = "knife crawl foam often skill three fish cover broken nice monster fork";

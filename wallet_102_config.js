@@ -1,1 +1,1 @@
-var mnemonic = "novel lab differ grace minute smoke bronze devote leg memory stage wrestle";
+var mnemonic = "game negative involve magnet parent vacuum absurd still desert portion blossom palace";

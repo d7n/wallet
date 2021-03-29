@@ -1,1 +1,1 @@
-var mnemonic = "finish person volume require room bread emerge tree panda always plastic chunk";
+var mnemonic = "puppy original fitness menu order piano spice direct chef royal popular neither";

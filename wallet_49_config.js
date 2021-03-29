@@ -1,1 +1,1 @@
-var mnemonic = "invite practice globe entire forget firm remain animal village fly custom trap";
+var mnemonic = "calm capable pill cream depth point segment monkey defy host describe situate";

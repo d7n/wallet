@@ -1,1 +1,1 @@
-var mnemonic = "lady dilemma axis sponsor net ecology fringe divorce east what elite scissors";
+var mnemonic = "actual evolve govern security vessel undo pilot erase ankle gap gift pyramid";

@@ -1,1 +1,1 @@
-var mnemonic = "fine peace armed decide proud rural century usual edit neutral license siren";
+var mnemonic = "flower tomorrow business burger easily vivid anger unusual gravity hub peace dish";

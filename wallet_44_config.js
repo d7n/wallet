@@ -1,1 +1,1 @@
-var mnemonic = "bleak lonely code social potato gate frame swamp faculty thank alert exhibit";
+var mnemonic = "behind way fire fork opinion obey kiss neutral page loop opera round";

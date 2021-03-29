@@ -1,1 +1,1 @@
-var mnemonic = "seat pill guilt token sunny spray dwarf decrease kind valve digital tree";
+var mnemonic = "woman pulp stay deny melt other target stadium monster want tent identify";

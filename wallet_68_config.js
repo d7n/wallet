@@ -1,1 +1,1 @@
-var mnemonic = "blouse cross phrase second appear exercise lion gain purchase embody excess patch";
+var mnemonic = "ritual potato wise ability mosquito okay depart area clip romance flock general";

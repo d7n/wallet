@@ -1,1 +1,1 @@
-var mnemonic = "nerve radio stay motion stay still august inflict super punch minor devote";
+var mnemonic = "happy depend couch tuna grape next express energy social torch payment coin";

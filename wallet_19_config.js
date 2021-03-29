@@ -1,1 +1,1 @@
-var mnemonic = "web update twin select afraid depth fade scene merry destroy wife ethics";
+var mnemonic = "inspire rocket myth owner odor leaf matrix anxiety lazy decrease issue siege";

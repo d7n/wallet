@@ -1,1 +1,1 @@
-var mnemonic = "release phrase scare obscure hard ability head credit foster unit evidence utility";
+var mnemonic = "system sting chuckle autumn also lift yellow sock citizen nominee grace swamp";

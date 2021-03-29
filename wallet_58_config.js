@@ -1,1 +1,1 @@
-var mnemonic = "rebel bleak spider seat connect useless grab correct crime face teach sport";
+var mnemonic = "mixture female fiber bronze brief spawn admit cost arena age picnic city";

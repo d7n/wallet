@@ -1,1 +1,1 @@
-var mnemonic = "select state leisure mass bench step recycle aisle connect forward hello chronic";
+var mnemonic = "another pool devote napkin bronze zero eye cool caution gentle salute sunny";

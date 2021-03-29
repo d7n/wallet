@@ -1,1 +1,1 @@
-var mnemonic = "pencil side black tiger group village attend source spice gym silk collect";
+var mnemonic = "piece illness enough glance host cement antenna news foil mutual arena kitten";

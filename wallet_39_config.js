@@ -1,1 +1,1 @@
-var mnemonic = "easily matrix ski repair reflect flock video dish door chef lucky more";
+var mnemonic = "twin frown valley moral escape fever asthma exclude flash umbrella address infant";

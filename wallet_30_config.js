@@ -1,1 +1,1 @@
-var mnemonic = "normal shove december gentle detect drift jar tent trim fault card approve";
+var mnemonic = "lottery used stone six bamboo need wild tattoo daring spawn flat law";

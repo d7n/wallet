@@ -1,1 +1,1 @@
-var mnemonic = "wreck rally permit palm car bench forum mystery trumpet eyebrow merge project";
+var mnemonic = "region online setup pitch shaft unit door phrase library involve island lesson";

@@ -1,1 +1,1 @@
-var mnemonic = "pony genre bounce access phone boss wrist power skin monitor unveil primary";
+var mnemonic = "shy crouch force valid cargo pumpkin enact hover better victory scissors autumn";

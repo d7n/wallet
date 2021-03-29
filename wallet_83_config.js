@@ -1,1 +1,1 @@
-var mnemonic = "blouse topple print exist once home unusual guide tell waste honey bulb";
+var mnemonic = "frozen tornado bonus amazing extend please expand height tray lawn police this";

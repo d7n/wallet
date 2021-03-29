@@ -1,1 +1,1 @@
-var mnemonic = "mandate onion velvet stage where section game physical pupil fatal lunar history";
+var mnemonic = "soul share junk setup target stick rely vessel kite fresh parade comic";

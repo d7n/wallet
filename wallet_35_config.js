@@ -1,1 +1,1 @@
-var mnemonic = "romance clay ozone lift loud lumber hand wonder surge model holiday diamond";
+var mnemonic = "faith vibrant rubber catalog magnet bread artist loud welcome stock usage cousin";

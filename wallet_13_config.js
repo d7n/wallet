@@ -1,1 +1,1 @@
-var mnemonic = "orient spread glare oval garlic memory square vintage silent mention sock claw";
+var mnemonic = "can domain glide priority verb naive maid senior position fiction siren ozone";

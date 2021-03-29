@@ -1,1 +1,1 @@
-var mnemonic = "hand rib raw battle soul force castle labor oil umbrella album electric";
+var mnemonic = "attack jazz right state sniff tonight this avoid kitchen fit lady opinion";

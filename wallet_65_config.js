@@ -1,1 +1,1 @@
-var mnemonic = "strategy tool wink culture pulp onion tag neither hospital chimney neck solution";
+var mnemonic = "fine various fade universe noble normal come leaf express charge upper turkey";

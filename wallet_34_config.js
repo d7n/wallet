@@ -1,1 +1,1 @@
-var mnemonic = "glove wait brand grid popular expose empty mutual gravity gaze gown enter";
+var mnemonic = "solar shuffle identify medal wolf claw wool dash omit game first below";

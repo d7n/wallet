@@ -1,1 +1,1 @@
-var mnemonic = "under around conduct marine slam remain razor clarify ramp strategy assault ginger";
+var mnemonic = "jelly turn green beyond fork silk profit whisper picture stairs tourist check";

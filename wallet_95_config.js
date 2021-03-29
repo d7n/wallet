@@ -1,1 +1,1 @@
-var mnemonic = "worth host ordinary typical obscure scheme dismiss need used simple race legend";
+var mnemonic = "rally spatial lady suggest absurd wood ecology raw onion acoustic leader brown";

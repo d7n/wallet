@@ -1,1 +1,1 @@
-var mnemonic = "shrimp leader because balcony author shift stairs field prepare flag cycle kit";
+var mnemonic = "slim submit slender mixed move valley better begin modify quit across couch";

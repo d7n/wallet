@@ -1,1 +1,1 @@
-var mnemonic = "tobacco inherit feed spare any visa carry assault cute tuition tomato lock";
+var mnemonic = "still nominee bean round unknown leg feature bulk trumpet donate sugar tone";

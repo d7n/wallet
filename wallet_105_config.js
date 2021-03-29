@@ -1,1 +1,1 @@
-var mnemonic = "dismiss sight art dilemma regular oval relief black lava merry marine toy";
+var mnemonic = "case gravity situate evidence pride chair turn onion imitate primary stand rice";

@@ -1,1 +1,1 @@
-var mnemonic = "calm across term gravity kitchen affair voice exotic panther worry genre require";
+var mnemonic = "bus arch protect long axis conduct reform olive extra lumber wreck elbow";

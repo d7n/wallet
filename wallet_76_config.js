@@ -1,1 +1,1 @@
-var mnemonic = "sort law craft dad minor solution pyramid inmate left bonus must gas";
+var mnemonic = "atom wink violin click rural tissue wage snack joke melt tragic carry";

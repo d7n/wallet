@@ -1,1 +1,1 @@
-var mnemonic = "fork rule collect artefact bulk ecology supply scrub tail purchase sudden crucial";
+var mnemonic = "scheme heart brother title swear legend unfold cherry various size come crawl";

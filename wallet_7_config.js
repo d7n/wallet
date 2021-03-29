@@ -1,1 +1,1 @@
-var mnemonic = "peace glow lady plunge undo aim recipe trim grocery radar repeat forward";
+var mnemonic = "fitness return cattle slender feed visit same absurd kiwi snake orchard split";

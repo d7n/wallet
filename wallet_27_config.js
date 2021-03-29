@@ -1,1 +1,1 @@
-var mnemonic = "gadget alcohol shaft budget derive success ocean basket become scorpion edge myth";
+var mnemonic = "slice slow visual lyrics elevator rescue erosion ginger thunder patch design diary";

@@ -1,1 +1,1 @@
-var mnemonic = "west race letter tent flame differ step pitch century share wage degree";
+var mnemonic = "sausage index rebel gym future candy melody result pyramid rival flame party";

@@ -1,1 +1,1 @@
-var mnemonic = "split antique drip fortune divorce connect crop success normal skill pony drop";
+var mnemonic = "member excess table edge desk unknown brush abuse cluster exist romance fog";

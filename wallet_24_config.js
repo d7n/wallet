@@ -1,1 +1,1 @@
-var mnemonic = "near identify glide fresh creek modify mad carpet advice throw consider narrow";
+var mnemonic = "cement dinner ill jazz gloom eager click round truly salon adult lion";

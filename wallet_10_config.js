@@ -1,1 +1,1 @@
-var mnemonic = "smooth trophy orchard twenty find anxiety useless flower blame explain science spice";
+var mnemonic = "shoe income female anchor cabbage swear green oak middle health friend chalk";

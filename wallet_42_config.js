@@ -1,1 +1,1 @@
-var mnemonic = "mouse pony copper denial aerobic orange oak case evolve home leave wood";
+var mnemonic = "coffee evidence drift ensure blue matter oxygen chef whale luxury clap heavy";

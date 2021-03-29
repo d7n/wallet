@@ -1,1 +1,1 @@
-var mnemonic = "mutual enhance lumber raven promote all crane attend popular clump vicious unknown";
+var mnemonic = "slim fatigue hollow gun battle add toast face wrestle knife you paddle";

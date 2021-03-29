@@ -1,1 +1,1 @@
-var mnemonic = "mimic output neither polar minimum meat indoor chaos slender regular traffic noodle";
+var mnemonic = "bone average great accuse harsh example subway patient happy tell bless project";

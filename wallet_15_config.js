@@ -1,1 +1,1 @@
-var mnemonic = "cluster equip desk float hurdle sunset digital century issue immense race number";
+var mnemonic = "rough lamp toy change pizza need weapon general yellow settle pear custom";

@@ -1,1 +1,1 @@
-var mnemonic = "loan forum country unaware explain give ghost belt source voyage hotel keen";
+var mnemonic = "long tortoise favorite protect record budget thumb tank retreat acoustic mosquito unveil";

@@ -1,1 +1,1 @@
-var mnemonic = "snow sport crime peasant almost globe swim dial devote inspire midnight letter";
+var mnemonic = "cable help elephant best acid raccoon dinosaur whip boy grid swift shrug";

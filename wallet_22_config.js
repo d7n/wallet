@@ -1,1 +1,1 @@
-var mnemonic = "order save animal replace borrow obvious regular debate symbol sight film industry";
+var mnemonic = "cross hotel city ten front cause enact person castle end expect crush";

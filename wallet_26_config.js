@@ -1,1 +1,1 @@
-var mnemonic = "river actual action wolf crystal simple know struggle voyage pen region fit";
+var mnemonic = "wheel install number skate gap guide mad general subway brave debris great";
