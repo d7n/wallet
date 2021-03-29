@@ -1,1 +1,1 @@
-var mnemonic = "purity relief certain lawn end logic priority obscure grief lemon peanut mask";
+var mnemonic = "snake ivory slice submit dizzy vintage fire guard caught morning record eager";

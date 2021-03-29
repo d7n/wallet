@@ -1,1 +1,1 @@
-var mnemonic = "moral faint cart settle priority dragon reason capital estate alarm coin much";
+var mnemonic = "child element midnight must describe outdoor timber butter brave private fish analyst";

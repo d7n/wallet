@@ -1,1 +1,1 @@
-var mnemonic = "grant install pause recycle rather twenty awesome trim vague plastic occur pig";
+var mnemonic = "bundle wolf theme afraid dance family amateur life sun wear plug park";

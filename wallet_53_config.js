@@ -1,1 +1,1 @@
-var mnemonic = "anger tail gallery pool reject small together project fitness smoke song caught";
+var mnemonic = "erosion dose exact civil first token object stairs excuse shed renew illegal";

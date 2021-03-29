@@ -1,1 +1,1 @@
-var mnemonic = "bicycle resource roof monster correct lamp father rural diagram fringe cost glove";
+var mnemonic = "swing news short false opera hobby topic wear sport wife replace aim";

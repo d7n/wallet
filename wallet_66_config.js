@@ -1,1 +1,1 @@
-var mnemonic = "ostrich unveil limb chimney apart acquire attract embrace believe equal solve lunar";
+var mnemonic = "word clinic summer perfect cheese cause divorce viable degree wire lyrics beef";

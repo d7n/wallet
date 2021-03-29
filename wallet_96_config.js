@@ -1,1 +1,1 @@
-var mnemonic = "beauty observe bicycle reduce then test fatal cinnamon crowd palm crunch cupboard";
+var mnemonic = "inspire seminar filter change about grace cherry old amazing muscle drill differ";

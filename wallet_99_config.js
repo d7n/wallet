@@ -1,1 +1,1 @@
-var mnemonic = "habit mention stand loyal update thing load wire vehicle wage direct witness";
+var mnemonic = "fortune stove owner minor magic dream cherry mad grant cave such label";

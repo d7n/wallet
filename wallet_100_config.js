@@ -1,1 +1,1 @@
-var mnemonic = "box panther faculty size bar volcano luxury dream choose gather trouble diary";
+var mnemonic = "project nurse quiz high cage dry festival error naive above affair idle";

@@ -1,1 +1,1 @@
-var mnemonic = "dawn title exhibit grape iron guilt victory security warfare dog parade series";
+var mnemonic = "fiscal gown napkin intact season arctic file solar illness expire scheme loop";

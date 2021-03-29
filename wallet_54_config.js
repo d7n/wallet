@@ -1,1 +1,1 @@
-var mnemonic = "until poet click ancient divorce drill video drink find across sponsor metal";
+var mnemonic = "armed hamster february mirror melody school call stable sea crawl age parent";

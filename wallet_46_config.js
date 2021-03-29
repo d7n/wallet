@@ -1,1 +1,1 @@
-var mnemonic = "various chaos enjoy sphere require pink forest input crane install wheel frog";
+var mnemonic = "egg swift circle priority luxury tooth shell nut depart chuckle vintage ordinary";

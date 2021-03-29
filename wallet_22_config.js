@@ -1,1 +1,1 @@
-var mnemonic = "sibling salute eternal inherit fetch today coyote garbage canal cave rival remain";
+var mnemonic = "evidence category cost infant result wood refuse marble edge junk stage accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "local arch draw firm hazard wrestle spirit busy history two must grief";
+var mnemonic = "enable swear danger dish oblige swamp shoot pet coach build unhappy tube";

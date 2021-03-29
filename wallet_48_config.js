@@ -1,1 +1,1 @@
-var mnemonic = "plate zero move bus valley rare solve swing slender dinosaur wrestle burst";
+var mnemonic = "slide tomato guilt tooth grain federal frozen surprise switch flavor acid what";

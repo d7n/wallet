@@ -1,1 +1,1 @@
-var mnemonic = "novel term else prize abandon steel hen monitor island blue tag green";
+var mnemonic = "hero roof calm curious route owner image dance earn portion track laundry";

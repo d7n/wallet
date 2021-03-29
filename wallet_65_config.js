@@ -1,1 +1,1 @@
-var mnemonic = "real vibrant rare gesture initial scout adapt own eternal puppy gravity involve";
+var mnemonic = "celery just essence nice maximum dream swear local puppy wonder cage air";

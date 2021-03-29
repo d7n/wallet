@@ -1,1 +1,1 @@
-var mnemonic = "wasp pond fossil ahead escape column hub million truly field world movie";
+var mnemonic = "roof vacant concert hospital close antique wolf midnight isolate youth liquid inmate";

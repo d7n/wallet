@@ -1,1 +1,1 @@
-var mnemonic = "spray toe below snow ignore supreme silly joke weapon onion pizza enable";
+var mnemonic = "quote atom desk argue crucial seat panther waste shy offer glare voice";

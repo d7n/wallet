@@ -1,1 +1,1 @@
-var mnemonic = "palace drum theme seek eagle grid survey laugh face wise before bargain";
+var mnemonic = "father visit ordinary wagon area large good side topple void differ dance";

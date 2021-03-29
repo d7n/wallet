@@ -1,1 +1,1 @@
-var mnemonic = "program void margin vacant drama expand melody finish more alcohol height actress";
+var mnemonic = "fit radar local regret spirit message ice someone ocean manage lizard hollow";

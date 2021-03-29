@@ -1,1 +1,1 @@
-var mnemonic = "loop tape scatter before net news social lawsuit agree base average camp";
+var mnemonic = "squirrel swap reward paper buzz daring today width fringe dignity toward quiz";

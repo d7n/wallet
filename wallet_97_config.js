@@ -1,1 +1,1 @@
-var mnemonic = "endless parrot original worth surge jump usual junior twenty category nice tent";
+var mnemonic = "write hurt cost spatial empty foil obtain final pepper shop infant actual";

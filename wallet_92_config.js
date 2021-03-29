@@ -1,1 +1,1 @@
-var mnemonic = "wealth mad winner cram gravity diamond portion salute shuffle hat theory gallery";
+var mnemonic = "coconut ecology glue file anchor foster connect mimic change cool grain scrub";

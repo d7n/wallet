@@ -1,1 +1,1 @@
-var mnemonic = "woman post zone powder cloth modify prize fork bench gospel craft earn";
+var mnemonic = "found demand cricket emerge chronic wide impose crunch shuffle hundred record twice";

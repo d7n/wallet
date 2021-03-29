@@ -1,1 +1,1 @@
-var mnemonic = "fiber easily riot tail cram horse repair table wing system swarm rescue";
+var mnemonic = "thank shrimp capital calm artefact airport drum album stick harbor update eager";

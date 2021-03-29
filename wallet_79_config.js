@@ -1,1 +1,1 @@
-var mnemonic = "twice comic siege nation choice three soda innocent screen course roof march";
+var mnemonic = "govern version win upper era toy cool alien hockey sniff rare lucky";

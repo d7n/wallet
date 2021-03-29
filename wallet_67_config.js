@@ -1,1 +1,1 @@
-var mnemonic = "good tumble genuine tuna ridge ankle large guilt whale knee sail web";
+var mnemonic = "pistol remind scrap ignore during light hip disorder mansion thunder clap catch";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify parade october expand chimney water valley phrase wagon scale snake plastic";
+var mnemonic = "uniform erosion virtual witness virus frequent secret cactus enforce edit merge clever";

@@ -1,1 +1,1 @@
-var mnemonic = "spray practice grant scare auto hen they wink brisk magnet lawsuit decrease";
+var mnemonic = "federal squeeze transfer amount merry original capital glance planet absorb fan aware";

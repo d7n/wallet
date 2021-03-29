@@ -1,1 +1,1 @@
-var mnemonic = "immense undo oval invest gym hungry volume sun uncle guilt fade hobby";
+var mnemonic = "letter melt balcony bullet cable crush explain shed slender fiction shaft run";

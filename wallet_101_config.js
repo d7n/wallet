@@ -1,1 +1,1 @@
-var mnemonic = "neither usage vendor life satisfy number disorder project almost reunion give accident";
+var mnemonic = "laugh anger when quiz veteran letter rookie visit pudding chat analyst involve";

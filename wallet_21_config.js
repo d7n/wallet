@@ -1,1 +1,1 @@
-var mnemonic = "fashion virus tank topic saddle announce pencil gaze ridge car naive just";
+var mnemonic = "neck board rose all ladder melody manual notice upon route visa swap";

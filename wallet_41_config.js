@@ -1,1 +1,1 @@
-var mnemonic = "heart nerve tray penalty mad pretty daughter exit special expose never hip";
+var mnemonic = "simple robot whale width off donate undo depart easily crush lift wealth";

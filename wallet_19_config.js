@@ -1,1 +1,1 @@
-var mnemonic = "cradle leopard tiger about tent circle cricket tongue junk wrong demand flock";
+var mnemonic = "finish visit crisp treat stand smoke cigar sword inject mosquito acid office";

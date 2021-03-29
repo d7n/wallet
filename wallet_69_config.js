@@ -1,1 +1,1 @@
-var mnemonic = "wool firm company clown senior property manage bike judge asthma drop patrol";
+var mnemonic = "bag chat apart sister owner hundred liquid brain civil insect rookie cover";

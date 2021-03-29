@@ -1,1 +1,1 @@
-var mnemonic = "flee know radar retire debris decide letter uncover chapter patient capable output";
+var mnemonic = "bone legal ring city ensure inherit radar adult usual eye cluster ten";

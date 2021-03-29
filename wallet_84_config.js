@@ -1,1 +1,1 @@
-var mnemonic = "zebra comic wage elite wise price dry paddle deliver muffin replace month";
+var mnemonic = "nerve system earn mad reject guide boat thrive poet street album husband";

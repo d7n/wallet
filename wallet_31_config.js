@@ -1,1 +1,1 @@
-var mnemonic = "control found inhale deliver essence stuff traffic fly toast demand claw lens";
+var mnemonic = "blossom panther style clump news pink squirrel west enroll crash sniff eye";

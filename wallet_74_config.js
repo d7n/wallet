@@ -1,1 +1,1 @@
-var mnemonic = "message demise smooth child useful error bind cute nurse silly oven vault";
+var mnemonic = "predict limit hold amazing hammer six tuna dress poem loud junior ring";

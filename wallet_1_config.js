@@ -1,1 +1,1 @@
-var mnemonic = "doctor sorry omit loud cage walk mandate novel ripple whip monitor flee";
+var mnemonic = "inspire worry ginger dawn federal cash hidden thunder giant human drama fall";

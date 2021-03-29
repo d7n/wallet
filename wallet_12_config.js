@@ -1,1 +1,1 @@
-var mnemonic = "ramp grape south shock sadness pull remember rabbit impose virus night behind";
+var mnemonic = "toward casino witness notice horse desert thank bottom easy mango figure vanish";

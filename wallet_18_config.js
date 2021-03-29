@@ -1,1 +1,1 @@
-var mnemonic = "afraid end horror erosion excess similar fitness pudding title monitor dismiss quarter";
+var mnemonic = "anger marriage obey apology asset pudding bag grain ankle math obvious torch";

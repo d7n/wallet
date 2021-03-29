@@ -1,1 +1,1 @@
-var mnemonic = "hospital issue change vibrant bench live prevent tape notable cruise agree any";
+var mnemonic = "express crawl staff cliff denial shallow stage purse spring sister diesel thought";

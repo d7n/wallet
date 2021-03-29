@@ -1,1 +1,1 @@
-var mnemonic = "mechanic toss roast barrel pride boat disagree penalty cancel guess echo tragic";
+var mnemonic = "omit rifle fossil pear napkin oyster sustain insane field axis sleep exile";

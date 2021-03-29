@@ -1,1 +1,1 @@
-var mnemonic = "object raw lyrics account owner reunion gun echo eyebrow match mobile evoke";
+var mnemonic = "olive chief soft potato gown syrup pluck civil sell wall cycle muscle";

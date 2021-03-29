@@ -1,1 +1,1 @@
-var mnemonic = "lake manage casino still destroy almost amazing feature yellow amazing decide poverty";
+var mnemonic = "prison unaware secret local key october wide warfare glide nuclear draft armed";

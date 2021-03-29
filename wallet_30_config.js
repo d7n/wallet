@@ -1,1 +1,1 @@
-var mnemonic = "share humor awful win owner clever unhappy yard basic quit comfort embody";
+var mnemonic = "avoid utility basic boil unable brisk exist kiwi blossom crazy journey swear";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd sail sudden tissue timber mammal talk penalty twenty penalty tell pair";
+var mnemonic = "sure leader spawn mesh access always click isolate expose abstract ecology toast";

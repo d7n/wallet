@@ -1,1 +1,1 @@
-var mnemonic = "wedding owner end stand battle stereo zoo steak vessel fold final primary";
+var mnemonic = "fatigue spare tower timber final gold civil genuine aerobic truth liar stool";

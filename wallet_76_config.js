@@ -1,1 +1,1 @@
-var mnemonic = "exist style lawsuit year hire misery shrimp inhale scheme frame erode sail";
+var mnemonic = "enhance laugh upper agent random update wet split stadium arrow dry violin";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan depart mule owner woman patient reduce popular wasp light blame length";
+var mnemonic = "swing figure clip such enable badge maximum initial rebuild boss loan believe";

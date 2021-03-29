@@ -1,1 +1,1 @@
-var mnemonic = "safe blood midnight panther reform bronze pupil chronic dragon sand super comic";
+var mnemonic = "monitor reunion kite husband pizza journey arrow indoor basket barely tragic swim";

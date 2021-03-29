@@ -1,1 +1,1 @@
-var mnemonic = "ladder squirrel cereal proof panel violin original erode cruise foster lift bless";
+var mnemonic = "bonus possible found suffer morning gravity off airport patch title beach dish";

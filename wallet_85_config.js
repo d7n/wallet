@@ -1,1 +1,1 @@
-var mnemonic = "dice script install danger reopen armed hammer upset poem latin discover loyal";
+var mnemonic = "palm tennis beauty split face sea hammer reward armed yard broken ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "sunset spoon ride police among slide during repair arm weird memory draft";
+var mnemonic = "bacon pottery amazing brown wreck because security patch member shop morning film";

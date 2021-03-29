@@ -1,1 +1,1 @@
-var mnemonic = "response radio vacuum budget almost hotel dial unknown nerve invite pull spirit";
+var mnemonic = "cart outside pizza say ghost yellow winter emerge exact fringe prepare arctic";

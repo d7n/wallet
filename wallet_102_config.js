@@ -1,1 +1,1 @@
-var mnemonic = "toss drip saddle toss thrive moral spatial noise discover valve monster book";
+var mnemonic = "mask cloud trap can ridge boss cotton vast fatal discover day cash";

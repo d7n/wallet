@@ -1,1 +1,1 @@
-var mnemonic = "improve girl zero field plastic black black found arena strong horse witness";
+var mnemonic = "three dinosaur dust space tonight when female rail exercise sting equip habit";

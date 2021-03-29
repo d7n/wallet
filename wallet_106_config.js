@@ -1,1 +1,1 @@
-var mnemonic = "buyer never bitter birth indoor wise acoustic voice vibrant apology update tail";
+var mnemonic = "black chat bright fiber coin jungle coil nose mercy mushroom puppy vague";

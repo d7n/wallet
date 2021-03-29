@@ -1,1 +1,1 @@
-var mnemonic = "love clever blast alpha increase document myself someone agent rabbit apart nature";
+var mnemonic = "plate long toy hurt mask husband bomb monster cancel deposit salt slow";

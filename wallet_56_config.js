@@ -1,1 +1,1 @@
-var mnemonic = "dice stereo vessel smart jealous useless rib prize zoo hurdle reject receive";
+var mnemonic = "wire season holiday kind pilot apple connect grit reject distance brave wheat";

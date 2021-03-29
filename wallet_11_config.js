@@ -1,1 +1,1 @@
-var mnemonic = "drink chicken assume check more general muscle deputy salmon side amateur awesome";
+var mnemonic = "suit pulp choose pizza canyon snack lucky radar board husband exclude lecture";

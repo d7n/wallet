@@ -1,1 +1,1 @@
-var mnemonic = "tiny city mandate cinnamon index elder corn scissors scout solid rack vocal";
+var mnemonic = "garden dish message mean gospel leaf assist pizza never network hold middle";

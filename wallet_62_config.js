@@ -1,1 +1,1 @@
-var mnemonic = "make vibrant domain pool until among churn belt until save pluck tobacco";
+var mnemonic = "bonus mule step seed solve soft common crane wrap sing enjoy give";

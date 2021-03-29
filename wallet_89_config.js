@@ -1,1 +1,1 @@
-var mnemonic = "aspect join warm expand frozen wheel sample tube hero indoor clock quiz";
+var mnemonic = "angle cluster common family quick manual same virus hint humble ill miss";

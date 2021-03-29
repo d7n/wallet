@@ -1,1 +1,1 @@
-var mnemonic = "slab search awesome company laugh problem olive advice dolphin key paddle flame";
+var mnemonic = "lesson duty aspect term priority pottery august soldier saddle story guard model";

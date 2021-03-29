@@ -1,1 +1,1 @@
-var mnemonic = "yellow carpet crucial stock bridge leave cost alert october naive suspect program";
+var mnemonic = "trash latin toss survey husband lounge dog park notice stock wash else";

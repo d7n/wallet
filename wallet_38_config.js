@@ -1,1 +1,1 @@
-var mnemonic = "language salmon kiwi normal swap tray fortune asset rescue physical denial gift";
+var mnemonic = "coffee alpha student angle noodle razor original figure great shield rebel match";

@@ -1,1 +1,1 @@
-var mnemonic = "extra path high cluster limb canvas copper mean raven hurdle excess snack";
+var mnemonic = "essence system potato orchard afford range trick erase soul daughter volume what";

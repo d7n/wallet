@@ -1,1 +1,1 @@
-var mnemonic = "once dance tooth urban exclude work light mansion cancel original asset knife";
+var mnemonic = "odor steel own simple arch arrive owner trust rotate pretty dream chapter";

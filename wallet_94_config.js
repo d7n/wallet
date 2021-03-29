@@ -1,1 +1,1 @@
-var mnemonic = "term network tail dune salon orient maple earn begin best stove citizen";
+var mnemonic = "inner lizard alert hour prize heart grain wise atom method clean vote";

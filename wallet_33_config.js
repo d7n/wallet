@@ -1,1 +1,1 @@
-var mnemonic = "snap cycle bean gentle degree vacuum tip own seed view ten common";
+var mnemonic = "letter cannon crisp blue resemble shed jewel creek asthma tiger grab warfare";

@@ -1,1 +1,1 @@
-var mnemonic = "awake impact immune boat scatter right toss chicken poverty shoe display eagle";
+var mnemonic = "grid strike section airport cabbage buffalo split fiction nephew parent satoshi jewel";

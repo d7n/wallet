@@ -1,1 +1,1 @@
-var mnemonic = "mercy list tip indicate ridge ask relief anger soldier express ice marriage";
+var mnemonic = "endless struggle student jeans limit family promote wrestle carbon month miss artist";

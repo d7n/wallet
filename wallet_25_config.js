@@ -1,1 +1,1 @@
-var mnemonic = "shrimp this prepare crop voyage deputy know siren peasant surround large hat";
+var mnemonic = "color mobile double switch combine gorilla swim between mobile gun phrase agree";

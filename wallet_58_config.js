@@ -1,1 +1,1 @@
-var mnemonic = "chief scrap frozen junk drip print urban angry enough toward card stone";
+var mnemonic = "protect hip ugly detect bind echo fuel entire slow blossom whip blouse";

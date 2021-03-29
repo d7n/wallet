@@ -1,1 +1,1 @@
-var mnemonic = "deer author measure people dilemma slot magnet nominee cause interest fence movie";
+var mnemonic = "upon shadow muffin amused short shy tennis maximum garlic diesel modify inform";

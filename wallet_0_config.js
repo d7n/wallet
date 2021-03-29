@@ -1,1 +1,1 @@
-var mnemonic = "video file private walk vital walk cute vacuum strategy attract chuckle slab";
+var mnemonic = "glass earn reform spy spice quarter salt minimum discover weather noble local";

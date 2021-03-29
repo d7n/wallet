@@ -1,1 +1,1 @@
-var mnemonic = "firm caution gain jazz glimpse parrot nice aspect rocket half dust furnace";
+var mnemonic = "junk profit shell stamp forget bench key feed own stem give autumn";

@@ -1,1 +1,1 @@
-var mnemonic = "stick entire carpet come receive purity swap bounce crowd sudden despair captain";
+var mnemonic = "advance code grain solar hollow medal romance wide multiply diet adapt profit";

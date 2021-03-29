@@ -1,1 +1,1 @@
-var mnemonic = "essay suffer dizzy museum damage salute village panel grit cheese ensure crouch";
+var mnemonic = "answer enter owner inspire swear drum walnut engine stomach cradle essay remember";

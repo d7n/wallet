@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo close ordinary width work potato age notable milk caution cup make";
+var mnemonic = "gaze blossom core squirrel seven transfer hover power fee mask cricket mobile";

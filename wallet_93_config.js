@@ -1,1 +1,1 @@
-var mnemonic = "tool wife join fetch grace juice noodle nuclear found flower blur cargo";
+var mnemonic = "good member nurse domain chunk total bicycle insect toast prepare heart uniform";

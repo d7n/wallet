@@ -1,1 +1,1 @@
-var mnemonic = "upper leisure list cute episode wine wish dawn often accuse fork design";
+var mnemonic = "topple soul master write ignore foot balcony awake december across grape cable";

@@ -1,1 +1,1 @@
-var mnemonic = "name broken matrix soda exclude stage timber put umbrella genre like zebra";
+var mnemonic = "eagle insect unveil arrest cheap capable army rather ocean snap blast yard";

@@ -1,1 +1,1 @@
-var mnemonic = "dream sample action increase bachelor citizen cement panel metal dumb pulp gaze";
+var mnemonic = "scrub company letter involve behave double aim dismiss input amount walk buyer";

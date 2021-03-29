@@ -1,1 +1,1 @@
-var mnemonic = "knee fall fitness alcohol permit echo silent base shrimp panel brush garage";
+var mnemonic = "spike link leave moon clever ginger rail good bullet never carbon husband";

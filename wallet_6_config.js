@@ -1,1 +1,1 @@
-var mnemonic = "brush open alley defy kick sense strike fortune neck reject spare crumble";
+var mnemonic = "domain evoke seven arctic crumble front excess diamond waste celery rebuild wasp";

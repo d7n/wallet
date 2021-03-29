@@ -1,1 +1,1 @@
-var mnemonic = "soap brush reveal business ribbon antique company soul income ceiling know sadness";
+var mnemonic = "rain betray benefit raw census artwork organ walk bean switch century just";

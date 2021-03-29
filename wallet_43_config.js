@@ -1,1 +1,1 @@
-var mnemonic = "merit marine dose merge wild angry stuff seed patch shoot blue illegal";
+var mnemonic = "wrist multiply junior surge runway feature monster fluid coach festival enrich olympic";

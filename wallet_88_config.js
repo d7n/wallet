@@ -1,1 +1,1 @@
-var mnemonic = "clinic tired glare genuine nephew proud empty ill column fatal hen govern";
+var mnemonic = "license forest shrug hold purchase choose carry ill charge spell people marriage";

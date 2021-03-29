@@ -1,1 +1,1 @@
-var mnemonic = "snow gun quality unusual find between foil live only artefact opinion family";
+var mnemonic = "afraid laugh feel cash job series symbol ensure frown cannon wealth clown";

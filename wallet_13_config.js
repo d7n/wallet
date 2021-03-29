@@ -1,1 +1,1 @@
-var mnemonic = "invest veteran amount banana carry similar enable cup again penalty accident kitchen";
+var mnemonic = "chair people sauce simple journey advice organ future valley canvas yard mutual";

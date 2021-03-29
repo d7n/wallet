@@ -1,1 +1,1 @@
-var mnemonic = "cake lion unique magnet town mention more balcony that debris dolphin cross";
+var mnemonic = "subject result sheriff guard struggle banner cereal ramp lunar poem must goose";

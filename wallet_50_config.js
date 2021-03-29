@@ -1,1 +1,1 @@
-var mnemonic = "stick caution puzzle tuition diet sight luggage slogan axis couple resource repeat";
+var mnemonic = "wrestle basket ensure among dilemma marble asthma gadget strike social pluck lamp";
