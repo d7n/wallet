@@ -1,1 +1,1 @@
-var mnemonic = "initial enlist yard diet taxi video chuckle grass crisp beyond duty fruit";
+var mnemonic = "artist cheese erode relief crater slogan loan vibrant strategy shove ghost movie";

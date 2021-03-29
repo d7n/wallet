@@ -1,1 +1,1 @@
-var mnemonic = "diary ranch leisure enforce bottom another gesture art maple someone absurd bless";
+var mnemonic = "attack fragile effort birth prefer tissue brief friend flavor feel coffee visit";

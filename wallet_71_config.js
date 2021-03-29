@@ -1,1 +1,1 @@
-var mnemonic = "wild tissue blossom all joke item trip faculty feel call arm copper";
+var mnemonic = "shell build response three faith elevator vast error truly taxi basket possible";

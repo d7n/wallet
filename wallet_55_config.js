@@ -1,1 +1,1 @@
-var mnemonic = "dress leopard about antenna perfect chef ripple giant lake soldier force satisfy";
+var mnemonic = "palm jelly remain blood miss brass panda cloth denial brand tuna radar";

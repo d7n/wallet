@@ -1,1 +1,1 @@
-var mnemonic = "appear soup armed second swift sugar strike company wave nice palace crouch";
+var mnemonic = "valve wear harsh found click flash popular weasel canvas move miracle whip";

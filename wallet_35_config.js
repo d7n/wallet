@@ -1,1 +1,1 @@
-var mnemonic = "lady casual hurry elder now autumn island quick stand helmet wrestle long";
+var mnemonic = "lawn connect term merry winter entry unveil maid few size boring library";

@@ -1,1 +1,1 @@
-var mnemonic = "deal minimum decorate quote wisdom shed assist strong worth display phone injury";
+var mnemonic = "fury medal direct mountain impact picture popular monitor drill school capable suggest";

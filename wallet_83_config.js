@@ -1,1 +1,1 @@
-var mnemonic = "recall scare current glory cart click junk valley setup table girl icon";
+var mnemonic = "abandon mimic curve please saddle front junior phrase end airport snow silver";

@@ -1,1 +1,1 @@
-var mnemonic = "palm timber isolate name catalog object step harsh february profit vintage excuse";
+var mnemonic = "curious taste similar faith wall squirrel explain payment myth genius gaze wet";

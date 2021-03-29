@@ -1,1 +1,1 @@
-var mnemonic = "wisdom spirit puzzle legend pen claw height shell violin since outside short";
+var mnemonic = "around luxury lesson biology hybrid human patrol sorry grid fade scout fog";

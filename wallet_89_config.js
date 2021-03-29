@@ -1,1 +1,1 @@
-var mnemonic = "gentle stick before quick maple pole word brisk conduct rabbit expect return";
+var mnemonic = "stable craft calm federal upgrade session olympic exhibit brand acid shrimp wonder";

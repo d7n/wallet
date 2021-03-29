@@ -1,1 +1,1 @@
-var mnemonic = "desert clerk sunset rare fruit sound true dial october citizen deposit gravity";
+var mnemonic = "muffin orchard aim nuclear crawl suggest maid street tail audit future guilt";

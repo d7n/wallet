@@ -1,1 +1,1 @@
-var mnemonic = "mango aerobic symbol ozone often boat often share cradle patch easy ordinary";
+var mnemonic = "spider lottery bonus yard skin mango snow sing holiday cloth february real";

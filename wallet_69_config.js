@@ -1,1 +1,1 @@
-var mnemonic = "seven enhance peasant crush pass build mosquito clarify doctor stone suffer blur";
+var mnemonic = "behave open hard globe ladder word drift decline future craft sibling save";

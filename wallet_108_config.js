@@ -1,1 +1,1 @@
-var mnemonic = "layer supreme hazard initial page stage detail symbol original ship heavy message";
+var mnemonic = "juice patrol ring series frown trip spare crystal enjoy require scheme illegal";

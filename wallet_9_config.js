@@ -1,1 +1,1 @@
-var mnemonic = "region rude dance virtual occur produce tired invest ramp foster half detail";
+var mnemonic = "ghost insect girl mimic blouse legal dash leaf hand cart hotel survey";

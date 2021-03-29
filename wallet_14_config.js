@@ -1,1 +1,1 @@
-var mnemonic = "result share unable warfare cube sibling current net midnight banner chuckle turn";
+var mnemonic = "observe collect shoot vacuum humble oxygen announce warm inflict message climb recall";

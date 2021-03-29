@@ -1,1 +1,1 @@
-var mnemonic = "west apology virtual report hedgehog make police verify cloth tape ugly cinnamon";
+var mnemonic = "gauge permit input magnet logic dry response toddler fade movie detail hand";

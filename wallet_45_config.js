@@ -1,1 +1,1 @@
-var mnemonic = "coffee siege obscure wool push uncle gadget table change chalk shaft frost";
+var mnemonic = "tip ticket winter magnet enact robot prevent blast stereo audit unveil actor";

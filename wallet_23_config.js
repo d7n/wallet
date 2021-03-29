@@ -1,1 +1,1 @@
-var mnemonic = "must right energy topic place march mimic road model position grocery shallow";
+var mnemonic = "future crop solid raise affair skull world detect kite clog layer oval";

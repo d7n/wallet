@@ -1,1 +1,1 @@
-var mnemonic = "elegant trigger want awful van onion pattern own depart author maple vacant";
+var mnemonic = "vivid blur desk photo enhance express gospel torch base avocado wreck quote";

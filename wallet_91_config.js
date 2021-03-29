@@ -1,1 +1,1 @@
-var mnemonic = "stadium floor height sphere require present silent blouse clip bless since remain";
+var mnemonic = "glimpse erode collect strategy habit nerve grace quantum tobacco volcano congress vital";

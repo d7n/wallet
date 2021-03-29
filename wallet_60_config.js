@@ -1,1 +1,1 @@
-var mnemonic = "warfare about planet pulp language swarm equip amazing scatter spare rail oak";
+var mnemonic = "federal burst boil sausage squirrel mosquito nation antenna syrup orchard nephew nature";

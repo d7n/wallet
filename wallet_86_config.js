@@ -1,1 +1,1 @@
-var mnemonic = "bar use sustain inform emerge celery crucial mammal habit heart phrase globe";
+var mnemonic = "ranch quote speak carry valid invest sense power strong derive argue wasp";

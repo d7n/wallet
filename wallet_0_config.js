@@ -1,1 +1,1 @@
-var mnemonic = "soccer climb thank biology soul connect term suffer bottom awesome remind worry";
+var mnemonic = "ozone absurd accident gym result gloom above custom panda aware relax useless";

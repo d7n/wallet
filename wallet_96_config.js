@@ -1,1 +1,1 @@
-var mnemonic = "guess water kite check april peace odor device jump situate fat dish";
+var mnemonic = "clock dynamic device wish student become empty parent cream click advice resource";

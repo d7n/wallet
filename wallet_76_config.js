@@ -1,1 +1,1 @@
-var mnemonic = "control humor bunker elder barrel gloom stick luggage mistake antique veteran plug";
+var mnemonic = "hockey dust describe fire local story mimic gossip advice either scout memory";

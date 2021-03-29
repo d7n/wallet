@@ -1,1 +1,1 @@
-var mnemonic = "blanket scatter wet response universe jacket term bitter blossom aspect ten tree";
+var mnemonic = "small clarify used arena fatigue fluid lecture evolve carry predict inside safe";

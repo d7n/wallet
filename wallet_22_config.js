@@ -1,1 +1,1 @@
-var mnemonic = "wealth gather page scatter unlock pipe grab rival jewel age illegal author";
+var mnemonic = "gas guitar credit system edit inherit matter harvest attack april barely broccoli";

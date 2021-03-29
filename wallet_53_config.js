@@ -1,1 +1,1 @@
-var mnemonic = "boring nurse vacant raw canvas usual second dragon limit shop nerve inside";
+var mnemonic = "limit avocado blossom mail salon alpha input gain unaware strategy chef size";

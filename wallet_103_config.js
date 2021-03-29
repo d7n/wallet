@@ -1,1 +1,1 @@
-var mnemonic = "water recall believe later grape banner misery veteran chicken donor scare manual";
+var mnemonic = "day spread gallery dumb game tree heavy crack flip local ball before";

@@ -1,1 +1,1 @@
-var mnemonic = "attract extend bird couple ostrich army shift dose catalog imitate boil mean";
+var mnemonic = "boat proof life cave cupboard busy boy sing smoke strike animal soap";

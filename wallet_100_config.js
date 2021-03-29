@@ -1,1 +1,1 @@
-var mnemonic = "short dragon foster fringe copper wing web dish minute glue solution canyon";
+var mnemonic = "cabbage aim able pencil cube then detail zebra mountain evidence ensure fringe";

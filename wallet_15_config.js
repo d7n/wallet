@@ -1,1 +1,1 @@
-var mnemonic = "father catch excess consider bubble simple pass rude defense frog chase damage";
+var mnemonic = "rib save slight reflect outdoor space adult shine repeat bomb punch scrub";

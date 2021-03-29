@@ -1,1 +1,1 @@
-var mnemonic = "scale luggage custom visa ancient history betray swing inflict prefer provide thought";
+var mnemonic = "squeeze cricket clip depth tennis warrior apology path salad crawl rule beef";

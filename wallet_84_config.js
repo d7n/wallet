@@ -1,1 +1,1 @@
-var mnemonic = "pig panther barrel insane salad hurry pave welcome leader merit describe female";
+var mnemonic = "limb neither vast kitten near differ apart grit window civil sniff direct";

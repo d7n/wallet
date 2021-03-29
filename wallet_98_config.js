@@ -1,1 +1,1 @@
-var mnemonic = "fence mirror uncle scrub void spider fee fruit flat kidney tortoise boring";
+var mnemonic = "squirrel size sleep stand page domain exclude output foil syrup episode edit";

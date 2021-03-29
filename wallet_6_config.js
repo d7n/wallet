@@ -1,1 +1,1 @@
-var mnemonic = "obvious scrub essay bubble century hero entire slush coast rabbit bulb camera";
+var mnemonic = "glow moment comic tilt flight orbit barely zoo hope ocean shrimp absorb";

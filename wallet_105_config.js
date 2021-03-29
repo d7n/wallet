@@ -1,1 +1,1 @@
-var mnemonic = "type bubble manage sorry view water similar volcano decade welcome eight demise";
+var mnemonic = "setup culture unique kiwi patient oval nurse fame play such sphere orchard";

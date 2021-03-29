@@ -1,1 +1,1 @@
-var mnemonic = "juice ensure meadow fault debate view swarm canvas blanket hazard evil gas";
+var mnemonic = "uncle scorpion learn also patch fatal convince panther labor galaxy produce extend";

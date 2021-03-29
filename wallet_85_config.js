@@ -1,1 +1,1 @@
-var mnemonic = "shoe million wolf actor day aim melt eager still animal mountain crystal";
+var mnemonic = "truly hurdle manage off you public violin lady only inmate inherit raw";

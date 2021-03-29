@@ -1,1 +1,1 @@
-var mnemonic = "rival bullet layer language pink quantum sense cash glove ghost void blood";
+var mnemonic = "tell execute matter word lecture actual vault spawn churn online steel script";

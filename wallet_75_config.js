@@ -1,1 +1,1 @@
-var mnemonic = "report choice caution search debate moment differ parrot doctor inside runway inspire";
+var mnemonic = "lake grief fire slow bullet ball ski either burden rigid sudden soap";

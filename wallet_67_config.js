@@ -1,1 +1,1 @@
-var mnemonic = "logic enlist case chair pear token eagle patch theory immune leave side";
+var mnemonic = "recycle kind taxi quit wheel spider anxiety run visual lunch enable leader";

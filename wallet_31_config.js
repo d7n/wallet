@@ -1,1 +1,1 @@
-var mnemonic = "view alpha climb lobster grid enable fix this text scorpion afraid hurdle";
+var mnemonic = "legend mountain enable memory flat then stairs rude crop suspect tilt license";

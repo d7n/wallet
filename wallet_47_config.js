@@ -1,1 +1,1 @@
-var mnemonic = "holiday sniff throw dragon dwarf word aerobic erode someone spike extra void";
+var mnemonic = "number trip bring snack pudding coil exclude sausage charge mouse drive test";

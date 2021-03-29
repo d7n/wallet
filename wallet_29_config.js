@@ -1,1 +1,1 @@
-var mnemonic = "amateur width corn into poverty lab air casual amazing cargo despair stable";
+var mnemonic = "skill eternal divert adapt habit behave ticket much news modify pioneer park";

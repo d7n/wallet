@@ -1,1 +1,1 @@
-var mnemonic = "wise garlic rotate hint novel school push weird ankle divide boat innocent";
+var mnemonic = "stadium duck gloom man rice build cushion swap flee valve abuse tornado";

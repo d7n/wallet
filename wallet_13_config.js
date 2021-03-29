@@ -1,1 +1,1 @@
-var mnemonic = "meat derive hotel faith exchange cement federal feature click page whisper glass";
+var mnemonic = "hobby devote crouch adjust grief define unusual bird valid atom exhaust acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "marine stay thrive push favorite region orbit soon crime swim casino stone";
+var mnemonic = "myself flight man timber drink despair chief remove loop sun hint income";

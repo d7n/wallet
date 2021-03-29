@@ -1,1 +1,1 @@
-var mnemonic = "reveal rich radar nation sand pepper light kitten shed apple buddy deliver";
+var mnemonic = "beyond resemble item gate mammal injury length pulp diary alarm pear ginger";

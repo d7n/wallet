@@ -1,1 +1,1 @@
-var mnemonic = "kiwi record copy camera guilt chief fuel city please power wealth deer";
+var mnemonic = "kid dove caution lawsuit love pottery ask general main accident attract else";

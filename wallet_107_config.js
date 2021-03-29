@@ -1,1 +1,1 @@
-var mnemonic = "throw island rough shift airport tag never educate scale diary bean essence";
+var mnemonic = "prevent post rocket illness arrest sponsor fetch champion maple monster seven pave";

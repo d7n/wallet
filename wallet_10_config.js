@@ -1,1 +1,1 @@
-var mnemonic = "hill pony lizard luggage antique gas dignity elegant gift critic divert state";
+var mnemonic = "grocery goddess parrot salt demand kind catalog toss veteran cricket street squirrel";

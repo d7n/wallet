@@ -1,1 +1,1 @@
-var mnemonic = "dynamic film give forward ignore review marriage moon hawk fog cheap spoil";
+var mnemonic = "decrease tumble cradle case song tooth retire trim spirit sword laugh fire";

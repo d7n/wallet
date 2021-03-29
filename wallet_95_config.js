@@ -1,1 +1,1 @@
-var mnemonic = "kick start over riot armed wagon defense evidence convince run permit obscure";
+var mnemonic = "subway bean snap damage govern word dash oak original program click language";

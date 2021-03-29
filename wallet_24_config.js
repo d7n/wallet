@@ -1,1 +1,1 @@
-var mnemonic = "okay poverty paddle number language dress helmet unfair large travel night proud";
+var mnemonic = "blast employ ozone pretty begin gap conduct employ exit episode grass tackle";

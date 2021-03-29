@@ -1,1 +1,1 @@
-var mnemonic = "moment supreme amazing chronic screen filter large december mystery jazz faculty crystal";
+var mnemonic = "learn segment legend boss feel push emotion faculty essence chuckle pyramid stem";

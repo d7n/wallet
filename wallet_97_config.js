@@ -1,1 +1,1 @@
-var mnemonic = "protect analyst obtain cost that crystal glide nasty olive twelve fuel review";
+var mnemonic = "wash render rubber box panel fuel ritual erode endorse digital forum forward";

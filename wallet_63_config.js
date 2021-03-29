@@ -1,1 +1,1 @@
-var mnemonic = "unit quick universe main employ track square crunch define sand mesh market";
+var mnemonic = "fashion surface beach dolphin old bring collect bicycle reveal all fine make";

@@ -1,1 +1,1 @@
-var mnemonic = "arrow camp uncover cereal knee series certain benefit boat index thing regret";
+var mnemonic = "disorder keep reflect wolf tuna neutral memory tuna lecture first rabbit universe";

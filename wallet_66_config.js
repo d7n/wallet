@@ -1,1 +1,1 @@
-var mnemonic = "dial film junior matrix shove exact dust swear enjoy adult cannon vessel";
+var mnemonic = "assault vacuum margin abandon twice ripple panel era garbage sweet goddess income";

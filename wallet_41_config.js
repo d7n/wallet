@@ -1,1 +1,1 @@
-var mnemonic = "tissue love donate want alert kite laptop treat hungry pulse blush purse";
+var mnemonic = "fish actor shoe claw runway bachelor salad dinosaur elevator unique mixed blind";

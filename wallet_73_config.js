@@ -1,1 +1,1 @@
-var mnemonic = "have timber august nominee grunt few seed scout wet food aspect move";
+var mnemonic = "burger man tortoise maple purity tunnel slot doctor prosper match salute toy";

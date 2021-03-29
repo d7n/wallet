@@ -1,1 +1,1 @@
-var mnemonic = "ski you security kitten clay wheel act bench fiber beyond drum charge";
+var mnemonic = "dance hood much laugh abuse alpha person speak inject canvas survey dinner";

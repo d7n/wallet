@@ -1,1 +1,1 @@
-var mnemonic = "ancient alpha forest cream critic pig century man front foot wing exist";
+var mnemonic = "focus photo curve sustain visa symptom coast sister key unhappy morning impulse";

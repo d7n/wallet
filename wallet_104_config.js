@@ -1,1 +1,1 @@
-var mnemonic = "cause wasp match oppose island around liar type record school remove tortoise";
+var mnemonic = "decide legend leaf off method solve midnight rice ring choice employ spot";

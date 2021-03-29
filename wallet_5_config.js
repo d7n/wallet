@@ -1,1 +1,1 @@
-var mnemonic = "crack nice tip resist open happy circle broccoli nominee mass pilot kiwi";
+var mnemonic = "nature walk shock settle club annual eye crash chest name angle castle";

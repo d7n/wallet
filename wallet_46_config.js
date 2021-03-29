@@ -1,1 +1,1 @@
-var mnemonic = "walk original embody random drastic auction smooth zero emotion denial escape property";
+var mnemonic = "mother polar animal state now amazing family gadget defense treat release oyster";

@@ -1,1 +1,1 @@
-var mnemonic = "culture typical cram horror pause sing chief sad pepper august juice hip";
+var mnemonic = "grunt tiger unable visual supreme resist deputy throw amused busy twist display";

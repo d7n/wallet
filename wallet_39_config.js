@@ -1,1 +1,1 @@
-var mnemonic = "offer eagle avoid snap margin place conduct six blouse ceiling swamp side";
+var mnemonic = "aware island refuse acoustic sugar waste solar night label scissors royal lift";

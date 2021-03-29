@@ -1,1 +1,1 @@
-var mnemonic = "utility concert faith ball clap select pink summer fiscal task tent canyon";
+var mnemonic = "bracket reunion rather autumn erosion clever joke ribbon prefer embody imitate eight";

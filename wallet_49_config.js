@@ -1,1 +1,1 @@
-var mnemonic = "shadow want tower behave journey broccoli cram team pencil daring human umbrella";
+var mnemonic = "illness alert danger check jazz allow choice hurry elephant improve public infant";

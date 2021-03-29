@@ -1,1 +1,1 @@
-var mnemonic = "deputy physical deliver buddy wheel lamp patient save debris already resist detail";
+var mnemonic = "crop cage bitter expose salt bike ketchup rather vendor country question depart";

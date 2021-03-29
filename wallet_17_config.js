@@ -1,1 +1,1 @@
-var mnemonic = "grant tank purse milk wish salute inflict average fitness casual raise gravity";
+var mnemonic = "excuse bullet fabric split rural poet small interest gospel matrix news loyal";

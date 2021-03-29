@@ -1,1 +1,1 @@
-var mnemonic = "slush enter lady capital weird dog matrix charge debate coral obscure company";
+var mnemonic = "neither security rigid silent debate leaf list try life include size moral";

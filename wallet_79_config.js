@@ -1,1 +1,1 @@
-var mnemonic = "eagle mechanic use repair relief chunk radio true gasp shallow stable echo";
+var mnemonic = "faith wrestle clap ribbon game remain merry achieve boil novel key season";

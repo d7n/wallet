@@ -1,1 +1,1 @@
-var mnemonic = "glow sun punch air problem dad pudding modify usual quarter finish stamp";
+var mnemonic = "shine urge daring average wrist curve grab already connect balcony square vivid";

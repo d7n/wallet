@@ -1,1 +1,1 @@
-var mnemonic = "pass system size silk fiction wet rubber squirrel genre age virtual hundred";
+var mnemonic = "situate make ring fatal thunder awake typical nature offer picnic pipe boring";

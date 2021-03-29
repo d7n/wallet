@@ -1,1 +1,1 @@
-var mnemonic = "stadium help horn awake young system guess cupboard busy pizza merge find";
+var mnemonic = "ocean switch impose own thrive belt orchard duty leaf tank during canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "glare update switch slogan monitor bacon actress chief endorse paddle amount edge";
+var mnemonic = "happy sustain napkin try merit clean mimic walk tackle wing purchase culture";

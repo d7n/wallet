@@ -1,1 +1,1 @@
-var mnemonic = "polar morning normal force shiver matter tail goddess input paddle limit present";
+var mnemonic = "tray artwork allow search rail between arrange humble evoke else rotate rebel";

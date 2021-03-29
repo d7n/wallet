@@ -1,1 +1,1 @@
-var mnemonic = "eight improve pig absent almost type please loop dirt talk word paddle";
+var mnemonic = "coil joke hollow cream present stem coach tomorrow fun stairs system thunder";

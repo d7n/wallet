@@ -1,1 +1,1 @@
-var mnemonic = "unlock ostrich conduct essay friend short decade miss betray nut pretty rookie";
+var mnemonic = "enact swarm couple kit erupt above lunar reason foot space vague auction";

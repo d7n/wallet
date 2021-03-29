@@ -1,1 +1,1 @@
-var mnemonic = "burst agent bone grocery boy reduce biology appear hockey stool caught gold";
+var mnemonic = "wish dance start spike swap knock century awake item merry bamboo more";

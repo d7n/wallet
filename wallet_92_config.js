@@ -1,1 +1,1 @@
-var mnemonic = "case elite analyst fluid gap borrow begin attend rug grab boat collect";
+var mnemonic = "merge defy trophy thrive lazy flat save discover uncover future decline early";

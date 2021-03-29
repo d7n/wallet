@@ -1,1 +1,1 @@
-var mnemonic = "sun convince please bind nose often truly brief observe dance buddy isolate";
+var mnemonic = "visit pattern assume high kidney merge hidden gossip primary universe slow reform";

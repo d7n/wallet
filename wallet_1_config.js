@@ -1,1 +1,1 @@
-var mnemonic = "truth step wire net polar speed basic ankle indoor release fortune model";
+var mnemonic = "sniff glad heart slow lizard turtle primary village situate monkey sound cement";

@@ -1,1 +1,1 @@
-var mnemonic = "forward joy strong include mail ship skin wink cover table able card";
+var mnemonic = "cycle prefer swamp digital chunk room prosper oak orient walk tattoo retire";

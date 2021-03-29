@@ -1,1 +1,1 @@
-var mnemonic = "power rent hurry where yellow equip dinosaur bind drip mother another cancel";
+var mnemonic = "warrior crater eight object educate client lion street slot funny silent movie";

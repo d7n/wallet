@@ -1,1 +1,1 @@
-var mnemonic = "burden cousin quiz album mix real gas phone casual success liquid because";
+var mnemonic = "drastic ocean between icon divorce poverty behave giant mechanic dumb else swarm";

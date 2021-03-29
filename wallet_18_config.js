@@ -1,1 +1,1 @@
-var mnemonic = "achieve rural piano earn noodle brisk suffer only window genuine hockey wreck";
+var mnemonic = "coach gym during style veteran talk remain castle ensure trim people weapon";

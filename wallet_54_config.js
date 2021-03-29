@@ -1,1 +1,1 @@
-var mnemonic = "silver aerobic measure video stumble ranch rhythm only sea monster meadow uncover";
+var mnemonic = "clever three boring away goddess maid drink kitchen absorb moon outdoor lens";

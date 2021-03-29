@@ -1,1 +1,1 @@
-var mnemonic = "crouch stereo settle blind era raccoon attract next recipe shaft future dawn";
+var mnemonic = "mention assist ready front detect pulp couch honey target kangaroo joke elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma flat witness shell cross obtain cat run laptop clutch ritual milk";
+var mnemonic = "forget language crack cruel album sun wreck evidence whale claim helmet certain";

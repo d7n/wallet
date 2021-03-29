@@ -1,1 +1,1 @@
-var mnemonic = "umbrella runway cherry aisle bus girl kick mean awful struggle window acid";
+var mnemonic = "spoon rent frost nerve insect parent zero bind rigid wheat auto empower";

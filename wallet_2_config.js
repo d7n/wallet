@@ -1,1 +1,1 @@
-var mnemonic = "tank spider foster empty vanish goat peace fatigue party color wish alien";
+var mnemonic = "help story enrich kingdom view car cream device flag april device punch";
