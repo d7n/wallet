@@ -1,1 +1,1 @@
-var mnemonic = "speak remain siege chief poverty vast salmon tired roast crew lend jealous";
+var mnemonic = "connect mistake misery turkey soon know cannon slogan tuna mechanic speak stamp";

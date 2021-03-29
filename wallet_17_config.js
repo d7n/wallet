@@ -1,1 +1,1 @@
-var mnemonic = "spike spike dolphin door pyramid keen where better soda kite end voyage";
+var mnemonic = "drama awful ability summer frozen duck table long spike orange kangaroo april";

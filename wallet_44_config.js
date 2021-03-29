@@ -1,1 +1,1 @@
-var mnemonic = "goddess coyote person embark husband monster course dose upon garden crane dynamic";
+var mnemonic = "message beauty matter catalog anxiety south decide rapid way loyal castle similar";

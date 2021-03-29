@@ -1,1 +1,1 @@
-var mnemonic = "black mobile valid movie nominee host brick donkey cycle guitar emerge cupboard";
+var mnemonic = "glow steel purity damage maximum work name empty travel figure sausage hazard";

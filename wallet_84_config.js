@@ -1,1 +1,1 @@
-var mnemonic = "where essence place indoor guard slice combine vocal genuine ecology shoe cradle";
+var mnemonic = "matter actor misery hour candy police wet spirit lake wing language feature";

@@ -1,1 +1,1 @@
-var mnemonic = "three verb success champion cement attitude sad mom response visa treat talk";
+var mnemonic = "stairs bulk cousin cattle job human try bid month match else clay";

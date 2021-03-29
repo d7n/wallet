@@ -1,1 +1,1 @@
-var mnemonic = "across filter region attend habit soft pill local satisfy kitchen stool other";
+var mnemonic = "brain buzz lady setup require artist grocery program comic divert fiber picture";

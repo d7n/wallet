@@ -1,1 +1,1 @@
-var mnemonic = "detail kite achieve iron fruit chase pattern fence draw stage slim limb";
+var mnemonic = "fashion once error maze charge caution useless demise salute seed blur victory";

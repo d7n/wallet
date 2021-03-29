@@ -1,1 +1,1 @@
-var mnemonic = "direct egg swamp alarm crop master adjust wedding raw shed script hill";
+var mnemonic = "trouble horror please unfair mail zero tonight movie timber topic object beef";

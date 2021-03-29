@@ -1,1 +1,1 @@
-var mnemonic = "street certain drink cover embrace rail chat menu remain into north planet";
+var mnemonic = "toe piano sheriff average night garage veteran plunge lion custom lonely pass";

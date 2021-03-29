@@ -1,1 +1,1 @@
-var mnemonic = "clinic volcano biology uniform gas stomach they average element wagon consider hidden";
+var mnemonic = "accuse label sister lucky delay upgrade spike fine amateur enact endorse kind";

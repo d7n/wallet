@@ -1,1 +1,1 @@
-var mnemonic = "impact admit design fork warrior belt sausage panic bubble tornado wash people";
+var mnemonic = "buzz book vehicle trumpet arena used kingdom guess adult custom fan once";

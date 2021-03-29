@@ -1,1 +1,1 @@
-var mnemonic = "question raise govern planet punch surface quick visa stool round write olympic";
+var mnemonic = "hurry brother army junior wolf mistake little machine turtle rack unknown mind";

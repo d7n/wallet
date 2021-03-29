@@ -1,1 +1,1 @@
-var mnemonic = "until chaos setup stumble tackle suit dinosaur exact blossom try annual empty";
+var mnemonic = "uncle camp pizza inform nose feature brass february broom pretty innocent custom";

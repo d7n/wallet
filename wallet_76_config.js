@@ -1,1 +1,1 @@
-var mnemonic = "trial addict promote chat nose gauge drama traffic chimney whisper sign purse";
+var mnemonic = "unfold mirror once swallow chef express burst brave spider rose palace common";

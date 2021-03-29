@@ -1,1 +1,1 @@
-var mnemonic = "parrot crowd crouch stamp apology original method rebel habit elite hub hurdle";
+var mnemonic = "flame cloth crowd guard proof dismiss combine must van rally embrace churn";

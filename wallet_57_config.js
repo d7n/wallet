@@ -1,1 +1,1 @@
-var mnemonic = "dad fashion foot observe rocket trigger fit host garlic tenant world suspect";
+var mnemonic = "office little path crater burst unveil spray wheat mimic dry pretty public";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale report void swift traffic depth shove cream cargo crush boring kiwi";
+var mnemonic = "enrich trial guitar resource forget magnet dumb cancel cigar video envelope eyebrow";

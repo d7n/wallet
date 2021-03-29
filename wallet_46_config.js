@@ -1,1 +1,1 @@
-var mnemonic = "tube face shrug grow sugar glory outer shy plug month reduce disease";
+var mnemonic = "turn trade curve adjust ostrich arm gun south insane turn margin another";

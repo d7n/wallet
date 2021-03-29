@@ -1,1 +1,1 @@
-var mnemonic = "couch poem upgrade bracket zone dutch claim boy phone better abandon island";
+var mnemonic = "helmet veteran space craft jealous child super funny ocean behave chef garlic";

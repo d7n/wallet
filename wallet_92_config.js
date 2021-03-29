@@ -1,1 +1,1 @@
-var mnemonic = "spawn paper desk garbage food acoustic rhythm belt inject wrestle certain organ";
+var mnemonic = "come diary flee today accident month truly neck bounce profit pluck cart";

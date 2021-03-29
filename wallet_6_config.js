@@ -1,1 +1,1 @@
-var mnemonic = "salad police pig fan corn stove piano feature mechanic swamp green duck";
+var mnemonic = "exhaust tuna jar attack hockey man heavy spray close water tennis slow";

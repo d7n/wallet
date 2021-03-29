@@ -1,1 +1,1 @@
-var mnemonic = "nuclear toward organ labor dizzy hobby power style mansion answer oven slot";
+var mnemonic = "strike save index receive copper tiger waste shuffle side noise pretty evil";

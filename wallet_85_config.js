@@ -1,1 +1,1 @@
-var mnemonic = "guess target shoot business bench eight behave pumpkin odor also genius vault";
+var mnemonic = "liberty festival cool keep sadness demand diamond pelican cannon soft parent chunk";

@@ -1,1 +1,1 @@
-var mnemonic = "approve common proud stereo stamp giggle mule urban mushroom top moon repair";
+var mnemonic = "doll youth cluster approve marble bacon illegal office team follow organ hole";

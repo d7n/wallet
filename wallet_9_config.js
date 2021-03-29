@@ -1,1 +1,1 @@
-var mnemonic = "puppy champion damp swing crystal assist opinion snap kick morning sustain tumble";
+var mnemonic = "expect grass chronic hobby cover kiss fatal focus until waste scale home";

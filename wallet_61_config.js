@@ -1,1 +1,1 @@
-var mnemonic = "owner print early glue collect boss wonder gesture black eight vacuum stage";
+var mnemonic = "fat glove hen inmate imitate raise dad basic cargo monster fiber filter";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse erosion arrange smart ceiling ticket forest dolphin oval fruit inherit legal";
+var mnemonic = "estate stumble marine range vessel motion car glory margin doctor metal magnet";

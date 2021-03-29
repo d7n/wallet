@@ -1,1 +1,1 @@
-var mnemonic = "when coast vibrant pioneer pattern century sudden category sun maximum flee always";
+var mnemonic = "fatal try travel voyage waste talk raven bracket museum jewel recipe chaos";

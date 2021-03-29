@@ -1,1 +1,1 @@
-var mnemonic = "sleep glance weapon fade must bag shy accident breeze abstract swarm vibrant";
+var mnemonic = "wasp cover purse change foil fun defense lumber drum clump cycle odor";

@@ -1,1 +1,1 @@
-var mnemonic = "image act food icon situate joy wash picture two daughter ticket know";
+var mnemonic = "mobile wear climb cover loan thunder bracket solid harvest elephant hire vacant";

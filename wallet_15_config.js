@@ -1,1 +1,1 @@
-var mnemonic = "festival demand worth mistake hill carbon silk arrest behind inside art poet";
+var mnemonic = "abandon strike square earn feature fine jealous ice work scrub remain cave";

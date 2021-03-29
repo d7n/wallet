@@ -1,1 +1,1 @@
-var mnemonic = "across plastic mean viable kidney volcano habit pig brick outdoor slow panic";
+var mnemonic = "march hunt this stereo original advance soldier excite mammal unfair credit corn";

@@ -1,1 +1,1 @@
-var mnemonic = "nest cycle clock mistake sugar market soda unveil wave clap ridge eternal";
+var mnemonic = "cover baby debris extra eager horror middle muscle luxury audit affair south";

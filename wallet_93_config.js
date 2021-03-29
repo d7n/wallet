@@ -1,1 +1,1 @@
-var mnemonic = "dad hint detect borrow sibling endless couch pole syrup diamond exhibit pear";
+var mnemonic = "imitate kangaroo village already busy dignity garment cactus super sheriff must slab";

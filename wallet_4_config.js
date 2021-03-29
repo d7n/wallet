@@ -1,1 +1,1 @@
-var mnemonic = "come frozen soul until clog humble start utility come code loyal win";
+var mnemonic = "hire chunk notice spice lawsuit hill improve essence reflect elegant moon boss";

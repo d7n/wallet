@@ -1,1 +1,1 @@
-var mnemonic = "keep food thought dizzy route sell gospel bullet okay cook motor valid";
+var mnemonic = "insane found black theme admit taxi island logic canyon table escape media";

@@ -1,1 +1,1 @@
-var mnemonic = "cute please mirror maid surface shop they treat renew virus private dirt";
+var mnemonic = "trim execute lion hunt helmet happy regret blue away cotton logic guide";

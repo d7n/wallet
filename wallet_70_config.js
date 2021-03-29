@@ -1,1 +1,1 @@
-var mnemonic = "burst pass art exit resist patrol double bag card onion attend large";
+var mnemonic = "cable matter paper parrot favorite crew bitter guilt length ski flip album";

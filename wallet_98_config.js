@@ -1,1 +1,1 @@
-var mnemonic = "film grief tank addict allow adapt shoot property west depth dentist tunnel";
+var mnemonic = "double race popular brass blush time true wink destroy finger usual story";

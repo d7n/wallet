@@ -1,1 +1,1 @@
-var mnemonic = "faith brick giraffe sing useful shadow woman parade hidden bring grape adapt";
+var mnemonic = "any mention castle smart modify lunar cable celery sausage found polar zero";

@@ -1,1 +1,1 @@
-var mnemonic = "short denial muscle absorb prevent shop tray photo act front syrup size";
+var mnemonic = "primary permit puzzle rhythm guess fruit judge unlock antique black expand gallery";

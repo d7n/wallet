@@ -1,1 +1,1 @@
-var mnemonic = "soul oil wild border orchard siren apology matrix fine coffee beyond spread";
+var mnemonic = "close shrimp diamond banana indoor tattoo voice walnut city episode ivory duck";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor renew need flock good suggest vapor jealous clump crane rack pipe";
+var mnemonic = "around minor sample ecology improve render sea wave soup nurse damp immune";

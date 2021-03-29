@@ -1,1 +1,1 @@
-var mnemonic = "ostrich involve column pulse sad govern delay sugar high unit address boss";
+var mnemonic = "play decrease novel east amazing sorry fluid potato turtle cotton flat sphere";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit merge tail season police brass wrong picnic gasp license goose pair";
+var mnemonic = "disorder extend kitchen mule final average demand used icon hair cat oak";

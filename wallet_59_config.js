@@ -1,1 +1,1 @@
-var mnemonic = "effort caution manual juice alcohol horn antique funny build empty fence achieve";
+var mnemonic = "monitor accuse meat average stand kiss mammal bulk risk hollow close alone";

@@ -1,1 +1,1 @@
-var mnemonic = "venture shed horror enable absent faint wool rapid pyramid almost fabric analyst";
+var mnemonic = "pioneer beauty hobby goose science february simple sauce jealous onion fun lobster";

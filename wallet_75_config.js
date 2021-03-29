@@ -1,1 +1,1 @@
-var mnemonic = "forum play this grocery stay donate uphold match pair nerve orbit fluid";
+var mnemonic = "update museum ceiling current balcony rotate since wait animal negative fault baby";

@@ -1,1 +1,1 @@
-var mnemonic = "fresh spike symbol patient group dwarf prosper ball hen any ivory pattern";
+var mnemonic = "attract slogan fan embrace punch green pattern detail burden mansion blossom tell";

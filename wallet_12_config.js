@@ -1,1 +1,1 @@
-var mnemonic = "asthma alcohol reason liberty cheap chef solid cancel sketch blind penalty train";
+var mnemonic = "grit analyst anchor popular again dash grid asthma cruise photo dolphin tool";

@@ -1,1 +1,1 @@
-var mnemonic = "strike frozen brief cry swamp awesome diet air grape morning shoulder wool";
+var mnemonic = "bomb alpha electric prize cereal pigeon pet load mountain mule spawn seek";

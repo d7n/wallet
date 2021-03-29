@@ -1,1 +1,1 @@
-var mnemonic = "soldier song cradle empower weasel planet hint simple item organ promote ancient";
+var mnemonic = "blossom intact multiply patch junk remove typical fish wealth menu catalog reason";

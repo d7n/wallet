@@ -1,1 +1,1 @@
-var mnemonic = "trigger scrap train submit chef waste tent comic lemon table access mandate";
+var mnemonic = "fluid film citizen throw infant rare all wedding stock naive crowd liquid";

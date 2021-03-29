@@ -1,1 +1,1 @@
-var mnemonic = "nephew bright ride note eyebrow citizen damp turkey vague dragon wolf shop";
+var mnemonic = "horn color plastic answer crew kit slender gain promote crime spirit rice";

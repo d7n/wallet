@@ -1,1 +1,1 @@
-var mnemonic = "earth initial model trap trophy purpose wire rebuild stadium swim help muffin";
+var mnemonic = "inner access prepare live sentence neutral beach history lock media street minute";

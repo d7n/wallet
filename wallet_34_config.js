@@ -1,1 +1,1 @@
-var mnemonic = "strong response kiss main left equip guide require dish entry thumb wool";
+var mnemonic = "parrot speak stay game party legal much work risk top portion enroll";

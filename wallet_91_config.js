@@ -1,1 +1,1 @@
-var mnemonic = "normal excess fox safe sport item debate error globe pioneer decrease survey";
+var mnemonic = "small emerge okay version again lunch fiscal wild swarm laugh limb conduct";

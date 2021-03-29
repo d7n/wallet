@@ -1,1 +1,1 @@
-var mnemonic = "pole pony grunt empower orange high club silver gauge dignity inspire aware";
+var mnemonic = "oven develop next nature fossil tell moon mystery clinic ancient label flame";

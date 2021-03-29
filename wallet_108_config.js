@@ -1,1 +1,1 @@
-var mnemonic = "silk fetch boring oblige rather illegal broom fall tree clay seek axis";
+var mnemonic = "stable clarify labor flat buyer excuse flower august civil end share aisle";

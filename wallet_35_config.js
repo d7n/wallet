@@ -1,1 +1,1 @@
-var mnemonic = "buffalo century raven sudden prison seven upset behave olympic volcano eyebrow athlete";
+var mnemonic = "edge purchase dust flavor pretty diamond protect guide gorilla will bean help";

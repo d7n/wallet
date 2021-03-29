@@ -1,1 +1,1 @@
-var mnemonic = "crowd shove random any welcome chest base quote feel success curious evoke";
+var mnemonic = "pupil police verb awful stay dance april junk border develop negative during";

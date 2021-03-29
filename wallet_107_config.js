@@ -1,1 +1,1 @@
-var mnemonic = "ready regular stock champion result picnic list figure school beach hurry cube";
+var mnemonic = "cattle state fat cargo coyote virtual cute park ice maximum scrub oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "lens tired depart hedgehog giraffe exit nurse dice elbow funny carbon owner";
+var mnemonic = "loop inner sword congress wait warm affair maze betray prefer pudding find";

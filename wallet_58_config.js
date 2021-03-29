@@ -1,1 +1,1 @@
-var mnemonic = "blade carpet fan repair width evidence faint cactus usage betray coil movie";
+var mnemonic = "dizzy surface wild train join charge mean burger wait spatial patrol either";

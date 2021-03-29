@@ -1,1 +1,1 @@
-var mnemonic = "turtle sight expose used return advice priority wire moral apart enact kite";
+var mnemonic = "hybrid among over sadness achieve patrol tribe monster weather emerge floor pair";

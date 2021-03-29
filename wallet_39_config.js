@@ -1,1 +1,1 @@
-var mnemonic = "antique grunt alter million repair control sample garden update tree monkey oblige";
+var mnemonic = "three awesome captain enrich battle violin exchange crop craft narrow heavy rookie";

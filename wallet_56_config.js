@@ -1,1 +1,1 @@
-var mnemonic = "waste wheel ostrich acquire pair language decide fine stick mushroom cook hood";
+var mnemonic = "syrup kiss put turtle bread clip vault old elder sustain slice mention";

@@ -1,1 +1,1 @@
-var mnemonic = "army brass decline guitar polar auto alert crane clarify wheat dinosaur shadow";
+var mnemonic = "bar luxury brisk orchard metal evolve hunt old feature rookie search steak";

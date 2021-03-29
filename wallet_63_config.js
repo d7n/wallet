@@ -1,1 +1,1 @@
-var mnemonic = "weekend level situate firm youth text bright wine time arm patch plate";
+var mnemonic = "announce social toe outdoor ladder start door shuffle club kitchen reward wheel";

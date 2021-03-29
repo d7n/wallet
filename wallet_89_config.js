@@ -1,1 +1,1 @@
-var mnemonic = "asthma empty unable diary rotate cage pumpkin debate develop lounge evidence stove";
+var mnemonic = "ecology bacon airport online social any clean sauce razor actual detail index";

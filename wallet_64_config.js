@@ -1,1 +1,1 @@
-var mnemonic = "chef acquire usage father educate lava captain buzz afraid flip claim cute";
+var mnemonic = "potato clarify sad spot dinner wreck scale affair weather math belt theory";

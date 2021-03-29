@@ -1,1 +1,1 @@
-var mnemonic = "online leave slight promote plunge mom topic oven olympic uphold hard crew";
+var mnemonic = "duty flat critic begin seat state sponsor trigger undo cart puppy empower";

@@ -1,1 +1,1 @@
-var mnemonic = "sort carpet fine material dolphin medal wink bacon dentist town announce burst";
+var mnemonic = "position symbol void elder panic cruise decline method fall prosper swarm defense";

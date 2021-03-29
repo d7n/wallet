@@ -1,1 +1,1 @@
-var mnemonic = "action into dress stage dentist peace repeat myself sentence industry skin truly";
+var mnemonic = "cheap address have meadow unlock vessel always install axis fee deliver normal";

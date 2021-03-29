@@ -1,1 +1,1 @@
-var mnemonic = "early choose math photo curve vote apology chapter orchard mass combine sheriff";
+var mnemonic = "hold manage kitten make high strategy flavor hedgehog live grain old squeeze";

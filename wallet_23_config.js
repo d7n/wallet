@@ -1,1 +1,1 @@
-var mnemonic = "sweet ghost notice online face turtle inform seminar number regret dress trial";
+var mnemonic = "wealth tattoo print melt medal measure reduce obey peasant bench venture fall";

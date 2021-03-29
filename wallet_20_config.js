@@ -1,1 +1,1 @@
-var mnemonic = "undo rabbit tide move jelly visit pause door taste interest elephant hole";
+var mnemonic = "slogan swamp mind hurry dove enroll occur other trend aerobic foster owner";

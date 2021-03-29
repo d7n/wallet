@@ -1,1 +1,1 @@
-var mnemonic = "dynamic ski drop breeze slender confirm into crunch image pass truth risk";
+var mnemonic = "cute city broken wish loop rebuild consider obscure anchor sense drill forget";

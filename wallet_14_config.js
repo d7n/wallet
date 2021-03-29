@@ -1,1 +1,1 @@
-var mnemonic = "harvest puzzle fluid industry ribbon human run merge print off term step";
+var mnemonic = "warfare forum brown gravity dial right seek prize hip hurry bean entry";

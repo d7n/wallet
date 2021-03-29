@@ -1,1 +1,1 @@
-var mnemonic = "unveil tornado old field empty merit feed people clip chronic mean join";
+var mnemonic = "arena sell remove true blue fence turkey pen income fantasy always effort";

@@ -1,1 +1,1 @@
-var mnemonic = "need enough cat token ivory spawn subject pumpkin drive silly unveil heavy";
+var mnemonic = "deliver twice few ladder flame sausage harsh love hold seminar grocery uphold";

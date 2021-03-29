@@ -1,1 +1,1 @@
-var mnemonic = "decade permit critic safe sad cinnamon junior payment beyond unfair earth public";
+var mnemonic = "couch turkey tired boost way drip behind glide tooth baby insane unable";

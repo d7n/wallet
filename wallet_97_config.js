@@ -1,1 +1,1 @@
-var mnemonic = "render suffer best cream butter mandate measure huge blur vote sponsor patrol";
+var mnemonic = "master kiwi palm acquire business plastic now offer bundle ticket shaft clog";

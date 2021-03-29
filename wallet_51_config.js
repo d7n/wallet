@@ -1,1 +1,1 @@
-var mnemonic = "funny sadness discover system divorce way victory similar used good circle spread";
+var mnemonic = "rude ceiling federal attitude path vessel wonder dose rely art today rubber";

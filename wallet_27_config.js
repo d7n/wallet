@@ -1,1 +1,1 @@
-var mnemonic = "dentist basket exclude breeze canal meadow address slot daring shadow coral shoot";
+var mnemonic = "equip fitness nose annual much aware patient half clog olympic oyster view";

@@ -1,1 +1,1 @@
-var mnemonic = "jeans mosquito tiny awkward floor grit brief click boil mosquito lazy simple";
+var mnemonic = "diet gas cost view purpose hair quit genius make tray soul model";

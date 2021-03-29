@@ -1,1 +1,1 @@
-var mnemonic = "good snap history curtain wine once lab try sure come sniff fork";
+var mnemonic = "patient accident among height execute ill blanket paper decrease thank snack width";

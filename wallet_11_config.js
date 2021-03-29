@@ -1,1 +1,1 @@
-var mnemonic = "foam wedding gas stone exact foster lunar drip electric angry injury faint";
+var mnemonic = "brain trumpet mind object gym grunt world spy turtle minor claim lumber";
