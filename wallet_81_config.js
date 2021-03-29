@@ -1,1 +1,1 @@
-var mnemonic = "insane found black theme admit taxi island logic canyon table escape media";
+var mnemonic = "liquid century seminar forum symptom predict total hazard door okay card symbol";

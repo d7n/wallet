@@ -1,1 +1,1 @@
-var mnemonic = "stable clarify labor flat buyer excuse flower august civil end share aisle";
+var mnemonic = "judge dress remove embark balcony shy have benefit resist clean blur twelve";

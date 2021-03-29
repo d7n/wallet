@@ -1,1 +1,1 @@
-var mnemonic = "fluid film citizen throw infant rare all wedding stock naive crowd liquid";
+var mnemonic = "mountain inmate primary gown prefer glare fee okay spirit ordinary aware property";

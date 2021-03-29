@@ -1,1 +1,1 @@
-var mnemonic = "fat glove hen inmate imitate raise dad basic cargo monster fiber filter";
+var mnemonic = "tray space mixed deliver moon safe lion marriage cruel column birth lab";

@@ -1,1 +1,1 @@
-var mnemonic = "estate stumble marine range vessel motion car glory margin doctor metal magnet";
+var mnemonic = "air move grace trade first enlist inject plug goddess keep input album";

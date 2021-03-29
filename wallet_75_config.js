@@ -1,1 +1,1 @@
-var mnemonic = "update museum ceiling current balcony rotate since wait animal negative fault baby";
+var mnemonic = "pole crew fly empower clean grass glance vague voice pluck addict dry";

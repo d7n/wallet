@@ -1,1 +1,1 @@
-var mnemonic = "cheap address have meadow unlock vessel always install axis fee deliver normal";
+var mnemonic = "scale game aisle useful merit luggage crisp found grunt dirt nasty alpha";

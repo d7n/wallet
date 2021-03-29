@@ -1,1 +1,1 @@
-var mnemonic = "coach universe spin turkey cup similar velvet genius film tell atom profit";
+var mnemonic = "immense public stool couple install frozen harvest airport hidden gold rookie humor";

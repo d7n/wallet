@@ -1,1 +1,1 @@
-var mnemonic = "march hunt this stereo original advance soldier excite mammal unfair credit corn";
+var mnemonic = "attend attract scissors sort accuse talk innocent flash grab wide thrive board";

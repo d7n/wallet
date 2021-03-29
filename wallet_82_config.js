@@ -1,1 +1,1 @@
-var mnemonic = "toe piano sheriff average night garage veteran plunge lion custom lonely pass";
+var mnemonic = "artefact concert purse mesh cliff borrow mean angle wrong divert funny trend";

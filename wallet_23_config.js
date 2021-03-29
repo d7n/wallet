@@ -1,1 +1,1 @@
-var mnemonic = "wealth tattoo print melt medal measure reduce obey peasant bench venture fall";
+var mnemonic = "pause genius drama walk sock bless six music gossip demise hurry inhale";

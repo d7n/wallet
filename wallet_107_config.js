@@ -1,1 +1,1 @@
-var mnemonic = "cattle state fat cargo coyote virtual cute park ice maximum scrub oxygen";
+var mnemonic = "lounge remain surge arena rent glass horror list december thought elite captain";

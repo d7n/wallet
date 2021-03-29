@@ -1,1 +1,1 @@
-var mnemonic = "doll youth cluster approve marble bacon illegal office team follow organ hole";
+var mnemonic = "bind glove crunch manual bid quiz reunion ranch language claim dynamic injury";

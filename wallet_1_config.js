@@ -1,1 +1,1 @@
-var mnemonic = "rail welcome disorder return below nothing cement inflict switch pave delay among";
+var mnemonic = "project mimic disorder setup normal raise used rifle middle pool network hazard";

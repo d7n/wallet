@@ -1,1 +1,1 @@
-var mnemonic = "brain trumpet mind object gym grunt world spy turtle minor claim lumber";
+var mnemonic = "device wife pool uphold donate verb stove pill gospel cross virtual object";

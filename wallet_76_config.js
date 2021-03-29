@@ -1,1 +1,1 @@
-var mnemonic = "unfold mirror once swallow chef express burst brave spider rose palace common";
+var mnemonic = "ahead film dust original seed wrap lumber render casino scheme hidden reward";

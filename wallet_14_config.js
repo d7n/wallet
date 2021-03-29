@@ -1,1 +1,1 @@
-var mnemonic = "warfare forum brown gravity dial right seek prize hip hurry bean entry";
+var mnemonic = "property since famous coil cable few trap pink wire abandon amused resist";

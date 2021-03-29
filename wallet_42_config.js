@@ -1,1 +1,1 @@
-var mnemonic = "duty flat critic begin seat state sponsor trigger undo cart puppy empower";
+var mnemonic = "crucial cattle universe success alcohol case poet boost dune leisure circle unhappy";

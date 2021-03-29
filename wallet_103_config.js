@@ -1,1 +1,1 @@
-var mnemonic = "van whale garage bean virus claw tunnel crisp more fatigue provide audit";
+var mnemonic = "hundred more crane tank tiger parent scene park symbol slice dust choose";

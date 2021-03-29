@@ -1,1 +1,1 @@
-var mnemonic = "tiger daughter firm boost situate giraffe visa century federal toss grunt practice";
+var mnemonic = "hurt kick embark quick mobile sphere blossom blast small consider paper hour";

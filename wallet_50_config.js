@@ -1,1 +1,1 @@
-var mnemonic = "buzz book vehicle trumpet arena used kingdom guess adult custom fan once";
+var mnemonic = "silver soul pulse pulse quality myth canal waste fortune shift mind online";

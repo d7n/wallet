@@ -1,1 +1,1 @@
-var mnemonic = "hybrid among over sadness achieve patrol tribe monster weather emerge floor pair";
+var mnemonic = "material awkward child half portion possible world luggage scale sorry person giggle";

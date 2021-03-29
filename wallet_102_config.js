@@ -1,1 +1,1 @@
-var mnemonic = "connect mistake misery turkey soon know cannon slogan tuna mechanic speak stamp";
+var mnemonic = "enforce asthma photo drink demand chalk fresh bachelor daughter remove action portion";

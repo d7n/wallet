@@ -1,1 +1,1 @@
-var mnemonic = "bomb alpha electric prize cereal pigeon pet load mountain mule spawn seek";
+var mnemonic = "dolphin increase enforce zebra crumble public cry cry helmet release silent coin";

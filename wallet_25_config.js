@@ -1,1 +1,1 @@
-var mnemonic = "stairs bulk cousin cattle job human try bid month match else clay";
+var mnemonic = "carpet vacuum select debris captain hole rally core body kite machine spot";

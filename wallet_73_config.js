@@ -1,1 +1,1 @@
-var mnemonic = "client south good never orange cash gap eye chase orphan resemble zebra";
+var mnemonic = "nephew famous poverty burst glory disease leopard faculty loan vessel defy sorry";

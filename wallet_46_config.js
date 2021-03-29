@@ -1,1 +1,1 @@
-var mnemonic = "turn trade curve adjust ostrich arm gun south insane turn margin another";
+var mnemonic = "negative ten clever beauty rice shift butter eye trip reason smile lesson";

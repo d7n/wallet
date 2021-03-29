@@ -1,1 +1,1 @@
-var mnemonic = "party auto list poverty profit vacant hour pelican brass avocado roast wheel";
+var mnemonic = "genre robot universe black foam mesh note reopen marble list aerobic cage";

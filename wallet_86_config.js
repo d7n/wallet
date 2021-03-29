@@ -1,1 +1,1 @@
-var mnemonic = "loop inner sword congress wait warm affair maze betray prefer pudding find";
+var mnemonic = "salute manual simple cable judge wood about broken night axis orient firm";

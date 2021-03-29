@@ -1,1 +1,1 @@
-var mnemonic = "accuse label sister lucky delay upgrade spike fine amateur enact endorse kind";
+var mnemonic = "vital never seat garment cereal clever under bulk oil very true gather";

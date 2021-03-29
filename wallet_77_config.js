@@ -1,1 +1,1 @@
-var mnemonic = "bar luxury brisk orchard metal evolve hunt old feature rookie search steak";
+var mnemonic = "mistake cluster salt divert swift flame nothing kitten tilt index apple awkward";

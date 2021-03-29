@@ -1,1 +1,1 @@
-var mnemonic = "liberty festival cool keep sadness demand diamond pelican cannon soft parent chunk";
+var mnemonic = "dust need physical size cancel repair album surge attend chat cream section";

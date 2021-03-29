@@ -1,1 +1,1 @@
-var mnemonic = "hire chunk notice spice lawsuit hill improve essence reflect elegant moon boss";
+var mnemonic = "degree jazz medal slam maple engage peasant they whip crew aware tragic";

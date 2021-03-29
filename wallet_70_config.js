@@ -1,1 +1,1 @@
-var mnemonic = "cable matter paper parrot favorite crew bitter guilt length ski flip album";
+var mnemonic = "rural ride acid diamond era find harvest punch dust coach damage option";

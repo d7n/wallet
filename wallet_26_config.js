@@ -1,1 +1,1 @@
-var mnemonic = "inner access prepare live sentence neutral beach history lock media street minute";
+var mnemonic = "camp change become magic evoke win flat theme pattern false end actress";

@@ -1,1 +1,1 @@
-var mnemonic = "trim execute lion hunt helmet happy regret blue away cotton logic guide";
+var mnemonic = "anger service man awful end will machine refuse bar novel lesson shy";

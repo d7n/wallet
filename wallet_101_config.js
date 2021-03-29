@@ -1,1 +1,1 @@
-var mnemonic = "strike save index receive copper tiger waste shuffle side noise pretty evil";
+var mnemonic = "badge habit primary volume vessel burst pen unique bronze find inform mimic";

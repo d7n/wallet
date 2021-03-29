@@ -1,1 +1,1 @@
-var mnemonic = "front volcano genre donor foam chicken push blood file flavor rigid interest";
+var mnemonic = "spare maximum select gas brush roof add light will unusual pause title";

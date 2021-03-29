@@ -1,1 +1,1 @@
-var mnemonic = "sleep hat fold match random across cruel welcome neither bridge voice tenant";
+var mnemonic = "scatter comfort famous potato steel vacuum minute describe raise coach urge damp";

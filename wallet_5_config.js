@@ -1,1 +1,1 @@
-var mnemonic = "arena sell remove true blue fence turkey pen income fantasy always effort";
+var mnemonic = "lunar gospel sight frequent measure cannon sure ecology violin rocket boat north";

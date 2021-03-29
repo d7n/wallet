@@ -1,1 +1,1 @@
-var mnemonic = "hurry brother army junior wolf mistake little machine turtle rack unknown mind";
+var mnemonic = "false focus suit train rail spatial super east jar choice major ensure";

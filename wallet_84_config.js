@@ -1,1 +1,1 @@
-var mnemonic = "matter actor misery hour candy police wet spirit lake wing language feature";
+var mnemonic = "energy blouse grab kiss initial idea teach reflect under kiss goddess edit";

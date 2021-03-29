@@ -1,1 +1,1 @@
-var mnemonic = "wasp cover purse change foil fun defense lumber drum clump cycle odor";
+var mnemonic = "elbow chat wide rib fiscal dolphin tuition actor local sorry borrow guard";

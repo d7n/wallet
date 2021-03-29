@@ -1,1 +1,1 @@
-var mnemonic = "parrot speak stay game party legal much work risk top portion enroll";
+var mnemonic = "attitude index casual cotton under group acid sport comic crane two relief";

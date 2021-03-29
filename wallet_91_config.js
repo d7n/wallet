@@ -1,1 +1,1 @@
-var mnemonic = "small emerge okay version again lunch fiscal wild swarm laugh limb conduct";
+var mnemonic = "believe increase sure version fade maximum try label morning soon nut change";

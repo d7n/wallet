@@ -1,1 +1,1 @@
-var mnemonic = "horn color plastic answer crew kit slender gain promote crime spirit rice";
+var mnemonic = "direct sleep scatter struggle speak crucial seek peasant grunt fabric album rough";

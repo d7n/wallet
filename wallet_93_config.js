@@ -1,1 +1,1 @@
-var mnemonic = "imitate kangaroo village already busy dignity garment cactus super sheriff must slab";
+var mnemonic = "field satisfy shed live special equip hint initial tube matrix hair beef";

@@ -1,1 +1,1 @@
-var mnemonic = "dizzy surface wild train join charge mean burger wait spatial patrol either";
+var mnemonic = "capable mixture news suit easy wing glue keep improve learn fee world";

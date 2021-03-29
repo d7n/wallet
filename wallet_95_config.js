@@ -1,1 +1,1 @@
-var mnemonic = "trouble horror please unfair mail zero tonight movie timber topic object beef";
+var mnemonic = "bus sphere wire faculty text stem bamboo next inform vapor vapor advice";

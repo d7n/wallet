@@ -1,1 +1,1 @@
-var mnemonic = "potato clarify sad spot dinner wreck scale affair weather math belt theory";
+var mnemonic = "glue genre ability leader token rapid age history neck glue pact crop";

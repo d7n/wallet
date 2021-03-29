@@ -1,1 +1,1 @@
-var mnemonic = "grit analyst anchor popular again dash grid asthma cruise photo dolphin tool";
+var mnemonic = "addict crucial there meadow skirt ghost boost metal fossil misery shed body";

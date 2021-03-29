@@ -1,1 +1,1 @@
-var mnemonic = "diet gas cost view purpose hair quit genius make tray soul model";
+var mnemonic = "sort electric tortoise range size engine few faculty toddler act jacket ensure";

@@ -1,1 +1,1 @@
-var mnemonic = "avoid inherit negative dinosaur bag alter atom mutual dignity pole drip lake";
+var mnemonic = "dove belt great humble soft problem cover soap broom repeat august office";

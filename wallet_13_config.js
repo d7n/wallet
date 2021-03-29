@@ -1,1 +1,1 @@
-var mnemonic = "desert tooth few very happy nose warm common rail entry garden endless";
+var mnemonic = "energy level morning shop hazard trade oil balcony couple describe lab awake";

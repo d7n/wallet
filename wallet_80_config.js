@@ -1,1 +1,1 @@
-var mnemonic = "any mention castle smart modify lunar cable celery sausage found polar zero";
+var mnemonic = "main tool easily future matter consider panda super intact blade confirm account";

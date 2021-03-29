@@ -1,1 +1,1 @@
-var mnemonic = "exhaust tuna jar attack hockey man heavy spray close water tennis slow";
+var mnemonic = "inch hero provide mosquito aisle feature veteran top trade wolf jealous topic";

@@ -1,1 +1,1 @@
-var mnemonic = "come diary flee today accident month truly neck bounce profit pluck cart";
+var mnemonic = "organ reflect father fan minute priority later praise symbol indicate lens peasant";

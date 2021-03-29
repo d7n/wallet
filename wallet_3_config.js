@@ -1,1 +1,1 @@
-var mnemonic = "couch turkey tired boost way drip behind glide tooth baby insane unable";
+var mnemonic = "split shed end cliff trim news detail purity jump mystery decade winter";

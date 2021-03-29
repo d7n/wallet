@@ -1,1 +1,1 @@
-var mnemonic = "patient accident among height execute ill blanket paper decrease thank snack width";
+var mnemonic = "camp limb wave swift dance term upon bulb melt wild conduct record";

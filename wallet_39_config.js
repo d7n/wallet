@@ -1,1 +1,1 @@
-var mnemonic = "three awesome captain enrich battle violin exchange crop craft narrow heavy rookie";
+var mnemonic = "total puppy doll issue old prosper screen total crush myth priority steak";

@@ -1,1 +1,1 @@
-var mnemonic = "master kiwi palm acquire business plastic now offer bundle ticket shaft clog";
+var mnemonic = "universe symptom ramp detect home logic enter rude rather baby circle unveil";

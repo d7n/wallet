@@ -1,1 +1,1 @@
-var mnemonic = "cover baby debris extra eager horror middle muscle luxury audit affair south";
+var mnemonic = "then axis wrong piece video truth project curious clown engine effort lucky";

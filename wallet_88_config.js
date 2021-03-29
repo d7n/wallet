@@ -1,1 +1,1 @@
-var mnemonic = "mobile wear climb cover loan thunder bracket solid harvest elephant hire vacant";
+var mnemonic = "post river marriage foot exile innocent broccoli surge chimney fever point source";

@@ -1,1 +1,1 @@
-var mnemonic = "position symbol void elder panic cruise decline method fall prosper swarm defense";
+var mnemonic = "pencil urban slush dignity heavy second hero lady sudden shoulder wedding kick";

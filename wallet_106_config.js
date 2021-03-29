@@ -1,1 +1,1 @@
-var mnemonic = "helmet veteran space craft jealous child super funny ocean behave chef garlic";
+var mnemonic = "essence gift impose water rigid toilet absent dice clay ugly biology mixture";

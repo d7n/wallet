@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow recycle winter couple gentle kingdom state demise medal cover idle field";
+var mnemonic = "trigger injury charge decorate surprise cheese yard grab wrist arch swim jealous";

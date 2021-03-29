@@ -1,1 +1,1 @@
-var mnemonic = "deliver twice few ladder flame sausage harsh love hold seminar grocery uphold";
+var mnemonic = "creek pelican near marine noodle board gas chapter walk glue media one";

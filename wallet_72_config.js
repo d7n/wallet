@@ -1,1 +1,1 @@
-var mnemonic = "close shrimp diamond banana indoor tattoo voice walnut city episode ivory duck";
+var mnemonic = "zoo hunt valid spatial bleak few seven surge twelve reopen steel tobacco";

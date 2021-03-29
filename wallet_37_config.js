@@ -1,1 +1,1 @@
-var mnemonic = "primary permit puzzle rhythm guess fruit judge unlock antique black expand gallery";
+var mnemonic = "step goose kitten equip grass knee base cube west party core clean";

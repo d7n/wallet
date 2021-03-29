@@ -1,1 +1,1 @@
-var mnemonic = "video exercise spirit say kangaroo curious hip network popular hundred second lion";
+var mnemonic = "profit arm weapon exotic hidden lonely steak faculty gun trim onion wall";

@@ -1,1 +1,1 @@
-var mnemonic = "glow steel purity damage maximum work name empty travel figure sausage hazard";
+var mnemonic = "brown carry climb write rocket salute deal ribbon story cigar door remember";

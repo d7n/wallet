@@ -1,1 +1,1 @@
-var mnemonic = "drink plastic first assist lunch physical tank dawn athlete local cram beef";
+var mnemonic = "tooth little blush kingdom belt daring discover youth sell sample lumber steel";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil police verb awful stay dance april junk border develop negative during";
+var mnemonic = "brown cargo desk print term coffee fancy cupboard deny effort lucky cost";

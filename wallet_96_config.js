@@ -1,1 +1,1 @@
-var mnemonic = "bargain clip little three salt birth nose describe make limit popular skull";
+var mnemonic = "choose limb dentist worry square blood response town now help copper satisfy";

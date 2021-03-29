@@ -1,1 +1,1 @@
-var mnemonic = "announce social toe outdoor ladder start door shuffle club kitchen reward wheel";
+var mnemonic = "wine inside item anger often second boil below fat edge illegal fancy";

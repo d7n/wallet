@@ -1,1 +1,1 @@
-var mnemonic = "offer peasant frozen arrive earn unhappy good fiction noble elephant fancy cruise";
+var mnemonic = "summer eagle lounge trick blur primary clutch drop umbrella spirit bridge cliff";

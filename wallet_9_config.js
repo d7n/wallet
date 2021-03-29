@@ -1,1 +1,1 @@
-var mnemonic = "expect grass chronic hobby cover kiss fatal focus until waste scale home";
+var mnemonic = "machine relief parent able climb usage reveal wait bike parent stove unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion once error maze charge caution useless demise salute seed blur victory";
+var mnemonic = "physical ask problem evoke chief tilt debate summer citizen beef shop travel";

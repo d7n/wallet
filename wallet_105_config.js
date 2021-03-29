@@ -1,1 +1,1 @@
-var mnemonic = "oven develop next nature fossil tell moon mystery clinic ancient label flame";
+var mnemonic = "assault kingdom outer thumb talent pair hill speak add fox drastic bid";

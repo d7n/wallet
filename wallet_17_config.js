@@ -1,1 +1,1 @@
-var mnemonic = "drama awful ability summer frozen duck table long spike orange kangaroo april";
+var mnemonic = "coral fame release piece control input castle tank autumn tiny dune lizard";

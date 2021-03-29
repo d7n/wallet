@@ -1,1 +1,1 @@
-var mnemonic = "garment kick picnic banana once rare silk cover title lawsuit document riot";
+var mnemonic = "bless road hour chimney eight broken phrase scan humble copper boss concert";

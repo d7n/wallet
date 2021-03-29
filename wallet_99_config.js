@@ -1,1 +1,1 @@
-var mnemonic = "hold manage kitten make high strategy flavor hedgehog live grain old squeeze";
+var mnemonic = "fury album agree prevent enlist own climb weekend dilemma stadium job casino";

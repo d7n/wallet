@@ -1,1 +1,1 @@
-var mnemonic = "slogan swamp mind hurry dove enroll occur other trend aerobic foster owner";
+var mnemonic = "result layer spot sting sunset monster upset solve climb disorder rare steel";

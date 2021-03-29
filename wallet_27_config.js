@@ -1,1 +1,1 @@
-var mnemonic = "equip fitness nose annual much aware patient half clog olympic oyster view";
+var mnemonic = "neutral obey banana twelve void diamond avoid good decade trade only rifle";

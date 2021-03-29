@@ -1,1 +1,1 @@
-var mnemonic = "ecology bacon airport online social any clean sauce razor actual detail index";
+var mnemonic = "cart rail tennis web butter lucky spell hood village episode solve parent";

@@ -1,1 +1,1 @@
-var mnemonic = "edge purchase dust flavor pretty diamond protect guide gorilla will bean help";
+var mnemonic = "can situate blur finger mix accident dumb energy just key comfort reward";

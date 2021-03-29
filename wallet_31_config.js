@@ -1,1 +1,1 @@
-var mnemonic = "enrich trial guitar resource forget magnet dumb cancel cigar video envelope eyebrow";
+var mnemonic = "roof invest debate margin fold fantasy stage prepare neglect sadness cross bulk";

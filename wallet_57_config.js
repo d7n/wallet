@@ -1,1 +1,1 @@
-var mnemonic = "office little path crater burst unveil spray wheat mimic dry pretty public";
+var mnemonic = "broccoli mandate stove disease vapor garlic utility long romance quality push there";

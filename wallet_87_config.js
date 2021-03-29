@@ -1,1 +1,1 @@
-var mnemonic = "flame cloth crowd guard proof dismiss combine must van rally embrace churn";
+var mnemonic = "document inquiry just vehicle entry mesh pave raise wide deputy unique blouse";

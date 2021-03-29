@@ -1,1 +1,1 @@
-var mnemonic = "monitor accuse meat average stand kiss mammal bulk risk hollow close alone";
+var mnemonic = "bonus collect around quiz panic abuse deer cargo cheese reopen prepare parent";

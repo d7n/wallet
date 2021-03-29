@@ -1,1 +1,1 @@
-var mnemonic = "blossom intact multiply patch junk remove typical fish wealth menu catalog reason";
+var mnemonic = "own mixture invest pepper rare south office bacon office series happy cash";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder extend kitchen mule final average demand used icon hair cat oak";
+var mnemonic = "regret where transfer clever rescue because awesome mass job adapt abandon chuckle";
