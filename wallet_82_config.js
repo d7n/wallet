@@ -1,1 +1,1 @@
-var mnemonic = "deputy boy seven immense daring juice range grain country apart remove stay";
+var mnemonic = "poem glance oyster cabbage beef boss humble connect top entire village kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum hill void squeeze genius beauty student street transfer grass scorpion wood";
+var mnemonic = "doll range gadget else olympic casual prevent frame wage armed mind humor";

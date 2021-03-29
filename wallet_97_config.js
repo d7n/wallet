@@ -1,1 +1,1 @@
-var mnemonic = "lazy panther public useful toilet figure hammer various apology ice cream cactus";
+var mnemonic = "average come able apology mail witness limit title catalog flee doll immune";

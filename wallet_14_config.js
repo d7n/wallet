@@ -1,1 +1,1 @@
-var mnemonic = "state ancient whale lab view slogan essay dawn behind witness common stool";
+var mnemonic = "effort city weasel evolve song lens blue text lazy room novel denial";

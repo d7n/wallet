@@ -1,1 +1,1 @@
-var mnemonic = "ostrich match then swap obey domain trade excess brisk debris glance throw";
+var mnemonic = "mouse pony copper denial aerobic orange oak case evolve home leave wood";

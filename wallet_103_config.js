@@ -1,1 +1,1 @@
-var mnemonic = "door blade indicate ensure price company horn beauty gather bird moment rapid";
+var mnemonic = "book rare rib tenant day squirrel attitude jacket hobby pulp taxi paddle";

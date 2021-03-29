@@ -1,1 +1,1 @@
-var mnemonic = "cable flag hub extra ski toy oil title verify candy trouble better";
+var mnemonic = "pencil side black tiger group village attend source spice gym silk collect";

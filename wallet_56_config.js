@@ -1,1 +1,1 @@
-var mnemonic = "leader machine abandon giant valve allow dash define turkey pig among hollow";
+var mnemonic = "fine peace armed decide proud rural century usual edit neutral license siren";

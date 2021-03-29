@@ -1,1 +1,1 @@
-var mnemonic = "gate scale dolphin replace food tobacco crime model tribe keen behind unfair";
+var mnemonic = "under around conduct marine slam remain razor clarify ramp strategy assault ginger";

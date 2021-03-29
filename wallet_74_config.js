@@ -1,1 +1,1 @@
-var mnemonic = "soup problem memory faith seven surprise cross have owner paper chief company";
+var mnemonic = "glass deputy edit hen whisper awkward meadow kitten fringe arctic play tumble";

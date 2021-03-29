@@ -1,1 +1,1 @@
-var mnemonic = "napkin window stomach inform worry glance forest elegant shop police snake cluster";
+var mnemonic = "glove wait brand grid popular expose empty mutual gravity gaze gown enter";

@@ -1,1 +1,1 @@
-var mnemonic = "surround universe lemon adapt result volcano mirror junior item daring script warfare";
+var mnemonic = "raven machine table retire awake mimic satoshi spider twist fun excite figure";

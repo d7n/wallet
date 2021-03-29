@@ -1,1 +1,1 @@
-var mnemonic = "amused arena genuine attack artist reopen obey trend punch keep veteran vast";
+var mnemonic = "rebel bleak spider seat connect useless grab correct crime face teach sport";

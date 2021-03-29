@@ -1,1 +1,1 @@
-var mnemonic = "raccoon donkey sibling absurd recall security mind reflect margin grocery bread west";
+var mnemonic = "win circle path supply shoot erupt stick inquiry match protect crush dust";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate ask april large affair alley never together crew opera force casual";
+var mnemonic = "burger thunder tail spring agree banner culture gain crack scrap label junior";

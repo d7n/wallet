@@ -1,1 +1,1 @@
-var mnemonic = "door depth media vanish cricket shove account distance organ fortune kitchen auction";
+var mnemonic = "hip strong chicken rude someone kiwi umbrella candy certain pave fog taste";

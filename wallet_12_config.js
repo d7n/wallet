@@ -1,1 +1,1 @@
-var mnemonic = "decide matrix edit chimney yard oppose brown train indicate saddle dwarf deliver";
+var mnemonic = "lady dilemma axis sponsor net ecology fringe divorce east what elite scissors";

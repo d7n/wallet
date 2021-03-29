@@ -1,1 +1,1 @@
-var mnemonic = "what exchange come major run loop before viable ripple obvious spare marble";
+var mnemonic = "auction catalog include winter hobby struggle panda weekend brand limit reduce income";

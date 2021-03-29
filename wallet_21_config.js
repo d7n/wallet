@@ -1,1 +1,1 @@
-var mnemonic = "alcohol garage school skull brand inquiry wine middle artist gospel liquid group";
+var mnemonic = "calm across term gravity kitchen affair voice exotic panther worry genre require";

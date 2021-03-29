@@ -1,1 +1,1 @@
-var mnemonic = "fix artwork concert comfort youth bonus minor fruit lesson skill wedding element";
+var mnemonic = "frog setup zone crisp drift bottom plastic congress citizen young fat sense";

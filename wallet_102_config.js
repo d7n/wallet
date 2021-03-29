@@ -1,1 +1,1 @@
-var mnemonic = "loan response expect busy document crazy time first tuition clinic verb column";
+var mnemonic = "novel lab differ grace minute smoke bronze devote leg memory stage wrestle";

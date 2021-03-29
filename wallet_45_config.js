@@ -1,1 +1,1 @@
-var mnemonic = "illegal topic project credit start trash ranch destroy disease vehicle place mirror";
+var mnemonic = "select state leisure mass bench step recycle aisle connect forward hello chronic";

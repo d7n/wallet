@@ -1,1 +1,1 @@
-var mnemonic = "negative anxiety sick radar absorb gaze work short right zone code design";
+var mnemonic = "pistol until clutch family letter gossip away slim face sight stage core";

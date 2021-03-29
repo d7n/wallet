@@ -1,1 +1,1 @@
-var mnemonic = "medal achieve allow ecology valve celery away guitar energy wool rather today";
+var mnemonic = "primary swamp flip fancy arrange beauty fan cliff cheap emotion toast desk";

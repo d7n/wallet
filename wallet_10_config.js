@@ -1,1 +1,1 @@
-var mnemonic = "narrow injury uphold unhappy nuclear win chuckle vintage rally curious address art";
+var mnemonic = "smooth trophy orchard twenty find anxiety useless flower blame explain science spice";

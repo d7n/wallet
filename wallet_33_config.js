@@ -1,1 +1,1 @@
-var mnemonic = "peasant sample mimic put friend member fringe general flag genius before laundry";
+var mnemonic = "jealous real sister amount prefer tobacco duck category corn sphere apart lesson";

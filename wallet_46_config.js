@@ -1,1 +1,1 @@
-var mnemonic = "immune bundle side icon feel total dance tuna furnace album breeze describe";
+var mnemonic = "garage feature predict battle cousin talent axis fee office obtain organ tone";

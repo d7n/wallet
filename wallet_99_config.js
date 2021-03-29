@@ -1,1 +1,1 @@
-var mnemonic = "april casual column curtain train air uphold museum oyster bronze victory salute";
+var mnemonic = "sudden remember bread grape wine select width moment toward friend rib undo";

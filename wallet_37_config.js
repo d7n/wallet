@@ -1,1 +1,1 @@
-var mnemonic = "improve follow brief century waste actor caught letter piece lawn range reopen";
+var mnemonic = "seat pill guilt token sunny spray dwarf decrease kind valve digital tree";

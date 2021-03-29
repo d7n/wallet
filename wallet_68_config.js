@@ -1,1 +1,1 @@
-var mnemonic = "remain again recall sing mansion woman sorry polar slush ribbon strategy dizzy";
+var mnemonic = "blouse cross phrase second appear exercise lion gain purchase embody excess patch";

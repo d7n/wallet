@@ -1,1 +1,1 @@
-var mnemonic = "since come property blue raven unhappy spoil matrix left buddy doctor stamp";
+var mnemonic = "bleak lonely code social potato gate frame swamp faculty thank alert exhibit";

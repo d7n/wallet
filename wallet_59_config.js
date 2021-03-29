@@ -1,1 +1,1 @@
-var mnemonic = "art hood space practice urban reopen cable lizard reduce trigger outside convince";
+var mnemonic = "wreck rally permit palm car bench forum mystery trumpet eyebrow merge project";

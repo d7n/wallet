@@ -1,1 +1,1 @@
-var mnemonic = "enhance firm speak demand spoon please theme execute banner dove globe magnet";
+var mnemonic = "note twist bench melt hybrid flame roast van elite isolate fee genius";

@@ -1,1 +1,1 @@
-var mnemonic = "hire nice capital receive aspect soft spend hire address quantum enlist better";
+var mnemonic = "sustain enable flag employ aware later arena ill good endorse engine raccoon";

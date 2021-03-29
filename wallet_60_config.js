@@ -1,1 +1,1 @@
-var mnemonic = "globe orange man resource second chaos mass boss reason solid park senior";
+var mnemonic = "west race letter tent flame differ step pitch century share wage degree";

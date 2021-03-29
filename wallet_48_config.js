@@ -1,1 +1,1 @@
-var mnemonic = "maid dwarf govern time rose purse gorilla few room note short weather";
+var mnemonic = "today loop liquid matrix scout whip bread leisure morning bright health word";

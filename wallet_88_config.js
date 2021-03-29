@@ -1,1 +1,1 @@
-var mnemonic = "kind shy universe hand buzz amateur economy glow that still wrong drift";
+var mnemonic = "hold company abandon erase indicate already web edit figure deputy armed begin";

@@ -1,1 +1,1 @@
-var mnemonic = "fish liar maze age put kangaroo hello sausage cool keen raise coffee";
+var mnemonic = "above armed response kind cricket lonely snake tragic silver math trick confirm";

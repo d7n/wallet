@@ -1,1 +1,1 @@
-var mnemonic = "power cake allow heavy uncle cushion doctor climb deposit assume speed view";
+var mnemonic = "attack prepare dutch rebel anger aunt axis slam grunt all page vote";

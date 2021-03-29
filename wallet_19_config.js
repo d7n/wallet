@@ -1,1 +1,1 @@
-var mnemonic = "mosquito sense nephew family claw social garden sketch oyster unique wood receive";
+var mnemonic = "web update twin select afraid depth fade scene merry destroy wife ethics";

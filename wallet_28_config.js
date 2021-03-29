@@ -1,1 +1,1 @@
-var mnemonic = "rocket original apology lady mystery book lady cherry hello hundred scare that";
+var mnemonic = "educate label ceiling during stand measure robust basket already upset employ exit";

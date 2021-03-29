@@ -1,1 +1,1 @@
-var mnemonic = "danger glare vast crush weather wheel alarm urge shed circle fetch again";
+var mnemonic = "cup feel lake staff clock hockey spider control fix cricket rude lawn";

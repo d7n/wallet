@@ -1,1 +1,1 @@
-var mnemonic = "balance parade fault snow health swallow bracket pyramid pelican focus test glass";
+var mnemonic = "purchase behind refuse museum cricket noodle bid you deliver creek sister trumpet";

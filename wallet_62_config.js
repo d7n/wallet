@@ -1,1 +1,1 @@
-var mnemonic = "thrive liquid comfort syrup mule gossip foil curtain surge dentist year stove";
+var mnemonic = "loan forum country unaware explain give ghost belt source voyage hotel keen";

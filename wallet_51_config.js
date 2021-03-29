@@ -1,1 +1,1 @@
-var mnemonic = "drift cause eager casino cannon eight alert cup ridge miracle repair visa";
+var mnemonic = "pony genre bounce access phone boss wrist power skin monitor unveil primary";

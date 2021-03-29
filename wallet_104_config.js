@@ -1,1 +1,1 @@
-var mnemonic = "pave drive tackle crunch boost fruit erupt twin frown mechanic trend heavy";
+var mnemonic = "wool phone patch shuffle hollow fence worth auction hour curious scorpion ability";

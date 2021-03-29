@@ -1,1 +1,1 @@
-var mnemonic = "network early law elite easily mix shed trust program wage stuff afford";
+var mnemonic = "strategy tool wink culture pulp onion tag neither hospital chimney neck solution";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry pluck crouch scheme enter engine kind merge junior safe draw view";
+var mnemonic = "gain come hour brother depth visual bargain design fluid brief chest around";

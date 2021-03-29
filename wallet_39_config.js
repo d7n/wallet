@@ -1,1 +1,1 @@
-var mnemonic = "evil oven unique myth luxury crop dawn naive domain pass buzz cinnamon";
+var mnemonic = "easily matrix ski repair reflect flock video dish door chef lucky more";

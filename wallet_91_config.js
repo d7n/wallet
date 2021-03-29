@@ -1,1 +1,1 @@
-var mnemonic = "name leg core violin debate subway couch work immune above bulb risk";
+var mnemonic = "release phrase scare obscure hard ability head credit foster unit evidence utility";

@@ -1,1 +1,1 @@
-var mnemonic = "game rebuild history wide garage neglect wine rotate pull idea wool blue";
+var mnemonic = "ask history victory copper copy damp cherry attend conduct start convince great";

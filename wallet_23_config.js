@@ -1,1 +1,1 @@
-var mnemonic = "breeze cricket step image decline fade ticket domain another skate eagle problem";
+var mnemonic = "finish person volume require room bread emerge tree panda always plastic chunk";

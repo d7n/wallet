@@ -1,1 +1,1 @@
-var mnemonic = "misery force save social feel tonight collect sphere song tone radio choice";
+var mnemonic = "fringe permit frog boost option kitten baby coast viable combine cage stick";

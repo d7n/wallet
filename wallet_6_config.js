@@ -1,1 +1,1 @@
-var mnemonic = "segment spread drastic pledge jewel infant kitten embark market taste reason tragic";
+var mnemonic = "false goat eyebrow warrior grain ring circle any boy ecology decorate fury";

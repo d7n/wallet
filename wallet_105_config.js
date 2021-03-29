@@ -1,1 +1,1 @@
-var mnemonic = "frame twist car unfold hill gauge trouble nothing offer patient piano sheriff";
+var mnemonic = "dismiss sight art dilemma regular oval relief black lava merry marine toy";

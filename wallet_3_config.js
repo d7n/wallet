@@ -1,1 +1,1 @@
-var mnemonic = "mobile charge grant reform hand cannon senior lumber moral elite shoe engage";
+var mnemonic = "tobacco inherit feed spare any visa carry assault cute tuition tomato lock";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma elevator curve next assume pear sun enforce isolate open cup slab";
+var mnemonic = "sun smart real buffalo leg maximum basic slogan regular scene road use";

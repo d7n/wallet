@@ -1,1 +1,1 @@
-var mnemonic = "rain tackle cabbage hammer into behave response use diagram hundred tobacco achieve";
+var mnemonic = "panic general summer acoustic mutual labor junk glow release bullet inform stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "lava biology you talk pony shell entry sheriff write quiz volume total";
+var mnemonic = "shrimp leader because balcony author shift stairs field prepare flag cycle kit";

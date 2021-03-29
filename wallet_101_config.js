@@ -1,1 +1,1 @@
-var mnemonic = "planet flash throw roast grow lunch soap orphan school idle source during";
+var mnemonic = "over injury exchange broccoli sea poem imitate step milk coyote brick truck";

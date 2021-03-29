@@ -1,1 +1,1 @@
-var mnemonic = "museum toward earn airport wheel satisfy uniform season empower rebel love view";
+var mnemonic = "invite practice globe entire forget firm remain animal village fly custom trap";

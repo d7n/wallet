@@ -1,1 +1,1 @@
-var mnemonic = "deposit reopen addict tail interest because allow scan before cute hedgehog mercy";
+var mnemonic = "near identify glide fresh creek modify mad carpet advice throw consider narrow";

@@ -1,1 +1,1 @@
-var mnemonic = "alarm visual chair invest prevent because blanket board fiber turtle sugar eight";
+var mnemonic = "cradle lawn wall laugh aerobic despair document clinic pelican fade indicate nurse";

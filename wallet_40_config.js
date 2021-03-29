@@ -1,1 +1,1 @@
-var mnemonic = "cable piano joy motion tent argue edit dove when gun long pitch";
+var mnemonic = "suggest mention hamster umbrella heart spend trend ignore liar empower wish flash";

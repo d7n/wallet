@@ -1,1 +1,1 @@
-var mnemonic = "child response hammer end pilot own taste rescue version balcony dash impact";
+var mnemonic = "sort law craft dad minor solution pyramid inmate left bonus must gas";

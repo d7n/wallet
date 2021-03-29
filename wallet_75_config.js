@@ -1,1 +1,1 @@
-var mnemonic = "shift copper addict park lava cancel zone brisk renew below uncle stable";
+var mnemonic = "mimic output neither polar minimum meat indoor chaos slender regular traffic noodle";

@@ -1,1 +1,1 @@
-var mnemonic = "fan rate upset vacuum wall flavor access quality decline risk knife empty";
+var mnemonic = "orphan fog screen picnic story enter print minute farm grape visa fitness";

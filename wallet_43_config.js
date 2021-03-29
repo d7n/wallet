@@ -1,1 +1,1 @@
-var mnemonic = "panic salute timber birth special art leaf auto system please crime dove";
+var mnemonic = "stove wine undo crime present amazing desert street tone popular knock brand";

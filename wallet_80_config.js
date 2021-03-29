@@ -1,1 +1,1 @@
-var mnemonic = "lab year attend feature wagon guitar lady motor shock nut inflict electric";
+var mnemonic = "century vague west nothing immense entire fiber blast worry library push cute";

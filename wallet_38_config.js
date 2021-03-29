@@ -1,1 +1,1 @@
-var mnemonic = "screen tuition own grocery welcome economy property include siege apart sauce mango";
+var mnemonic = "mutual enhance lumber raven promote all crane attend popular clump vicious unknown";

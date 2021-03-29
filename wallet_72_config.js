@@ -1,1 +1,1 @@
-var mnemonic = "drum absent type city fury crop attract slab explain cable fossil bicycle";
+var mnemonic = "hand rib raw battle soul force castle labor oil umbrella album electric";

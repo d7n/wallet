@@ -1,1 +1,1 @@
-var mnemonic = "sausage copy original april front bulk glow ship enforce scatter leave later";
+var mnemonic = "cluster equip desk float hurdle sunset digital century issue immense race number";

@@ -1,1 +1,1 @@
-var mnemonic = "lawn top outside elbow where pretty bounce brother fruit ahead tongue pioneer";
+var mnemonic = "gadget alcohol shaft budget derive success ocean basket become scorpion edge myth";

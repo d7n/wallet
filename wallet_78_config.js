@@ -1,1 +1,1 @@
-var mnemonic = "turkey shield way boost brush struggle december grow acquire vocal click mosquito";
+var mnemonic = "cause minimum eternal history fan swallow approve jungle detail room near cover";

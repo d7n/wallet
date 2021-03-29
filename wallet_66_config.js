@@ -1,1 +1,1 @@
-var mnemonic = "okay sick spin cotton just nuclear mosquito endless eye bounce vivid chair";
+var mnemonic = "stadium want wedding unaware sign atom height response onion amateur honey furnace";

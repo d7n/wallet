@@ -1,1 +1,1 @@
-var mnemonic = "goddess carpet cash outdoor iron know lake damp jungle urban call author";
+var mnemonic = "normal shove december gentle detect drift jar tent trim fault card approve";

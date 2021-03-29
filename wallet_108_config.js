@@ -1,1 +1,1 @@
-var mnemonic = "pluck agent measure lawsuit ensure pink jeans memory spy cereal shadow kidney";
+var mnemonic = "small myth math erase armor route panel divert soda knife family ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "hurdle such south useless excite slam report gentle author ripple practice once";
+var mnemonic = "staff lesson arm rifle viable nest shock cliff thank siege typical train";

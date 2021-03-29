@@ -1,1 +1,1 @@
-var mnemonic = "ivory rack busy spawn observe virus entire curtain sausage ten oppose toss";
+var mnemonic = "easily sibling cloth cradle stem bulk thumb siege jewel direct damage retreat";

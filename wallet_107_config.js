@@ -1,1 +1,1 @@
-var mnemonic = "always inject side coral scene food mystery grocery guitar absurd debris moon";
+var mnemonic = "mandate onion velvet stage where section game physical pupil fatal lunar history";

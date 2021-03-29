@@ -1,1 +1,1 @@
-var mnemonic = "wild tortoise slot oyster coffee weasel split notable enter length shock sort";
+var mnemonic = "concert bleak fiber silly sick soldier siren correct type drop walk uncover";

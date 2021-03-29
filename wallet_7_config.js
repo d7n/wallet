@@ -1,1 +1,1 @@
-var mnemonic = "pyramid cable fix rule square race mirror book dice shy spice cave";
+var mnemonic = "peace glow lady plunge undo aim recipe trim grocery radar repeat forward";

@@ -1,1 +1,1 @@
-var mnemonic = "quick leisure stick marriage bullet puzzle object near awesome barely provide review";
+var mnemonic = "hotel vessel blue below twin buffalo movie review worth since notable cheap";

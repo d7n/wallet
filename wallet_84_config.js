@@ -1,1 +1,1 @@
-var mnemonic = "path rate charge curtain law glory over thank wear spin rare dolphin";
+var mnemonic = "also cluster flat cause profit enjoy lecture over whale cost mosquito original";

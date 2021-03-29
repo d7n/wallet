@@ -1,1 +1,1 @@
-var mnemonic = "february tortoise zoo menu left decorate treat saddle spirit once clever dry";
+var mnemonic = "royal fit they harsh hero supply sadness wear chest devote fancy pink";

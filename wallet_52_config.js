@@ -1,1 +1,1 @@
-var mnemonic = "pull rival unveil jungle lunch cloth rubber quote resemble conduct theory meat";
+var mnemonic = "nerve radio stay motion stay still august inflict super punch minor devote";

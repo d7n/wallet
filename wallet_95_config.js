@@ -1,1 +1,1 @@
-var mnemonic = "picture original hunt panel lyrics warrior soup bike horse fantasy rug essay";
+var mnemonic = "worth host ordinary typical obscure scheme dismiss need used simple race legend";
