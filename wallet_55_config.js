@@ -1,1 +1,1 @@
-var mnemonic = "where flash upset road health clip shiver mystery decorate humble tag solve";
+var mnemonic = "blossom axis stool rebel alcohol whisper under antenna pond permit shiver provide";

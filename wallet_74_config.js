@@ -1,1 +1,1 @@
-var mnemonic = "appear isolate bubble token pulp firm phrase attitude rate water quality shiver";
+var mnemonic = "tonight mesh zebra kick trust resist decorate guard hamster isolate poem squirrel";

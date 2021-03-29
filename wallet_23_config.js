@@ -1,1 +1,1 @@
-var mnemonic = "town dutch outdoor canvas dinner series beyond trick crew avoid session hammer";
+var mnemonic = "gown detail kite squeeze bounce category tide exit shoe rent stable lecture";

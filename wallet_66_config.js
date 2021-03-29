@@ -1,1 +1,1 @@
-var mnemonic = "congress face price pistol faculty park kangaroo buyer exhaust stairs snake safe";
+var mnemonic = "hand affair cycle cute occur tilt always just pigeon bachelor include glad";

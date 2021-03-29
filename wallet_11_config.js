@@ -1,1 +1,1 @@
-var mnemonic = "worth spy hint clarify that rose polar three truly turkey noodle picnic";
+var mnemonic = "impact hub tube card tuna duck slow rich oyster orange student motor";

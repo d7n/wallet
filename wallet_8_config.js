@@ -1,1 +1,1 @@
-var mnemonic = "ticket loop craft catch rhythm segment roast pitch donkey impact evoke network";
+var mnemonic = "lock dream victory morning spawn lift abandon knock radio typical midnight hover";

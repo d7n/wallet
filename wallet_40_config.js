@@ -1,1 +1,1 @@
-var mnemonic = "chapter angle car mail sunny umbrella carry still beyond latin perfect vital";
+var mnemonic = "lock speed box occur trouble hello win machine business govern fall kite";

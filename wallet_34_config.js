@@ -1,1 +1,1 @@
-var mnemonic = "awkward endless carbon stone dash label file obvious funny divorce remain drift";
+var mnemonic = "secret hire figure minor hazard possible fiber season bring oppose develop judge";

@@ -1,1 +1,1 @@
-var mnemonic = "meadow vapor route area animal burden action merry broken tattoo file pact";
+var mnemonic = "priority jazz mail leader remember dignity cat gather lawsuit situate hair piano";

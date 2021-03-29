@@ -1,1 +1,1 @@
-var mnemonic = "olympic pear side sport earn february scare unfair zone sorry genuine expand";
+var mnemonic = "evoke bind announce provide noise retire rebel chaos help moon toy worry";

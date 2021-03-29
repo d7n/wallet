@@ -1,1 +1,1 @@
-var mnemonic = "stay useful address symbol glue gorilla decide scout lend rug inquiry pelican";
+var mnemonic = "discover cabbage black ship voice glory rabbit glory lamp seven thing absorb";

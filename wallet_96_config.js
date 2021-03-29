@@ -1,1 +1,1 @@
-var mnemonic = "sustain tornado unique name cliff wealth wink truth monster budget use senior";
+var mnemonic = "timber panther smooth galaxy text lecture swift group jewel cruise sound gravity";

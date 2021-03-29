@@ -1,1 +1,1 @@
-var mnemonic = "box glide cluster surprise exchange harbor walk siren three guilt limb maximum";
+var mnemonic = "outside effort unveil float mango crush food dove top area useless reveal";

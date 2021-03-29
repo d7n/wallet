@@ -1,1 +1,1 @@
-var mnemonic = "dentist mechanic harsh search talent omit bulb castle lobster rigid roast rookie";
+var mnemonic = "sniff crew letter whip mom tilt burst liquid picture poet crime student";

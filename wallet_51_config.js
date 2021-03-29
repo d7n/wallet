@@ -1,1 +1,1 @@
-var mnemonic = "vault rose way peanut faculty juice piece spirit weather deer mesh endorse";
+var mnemonic = "state shrug observe original elder ensure warm replace year best limit culture";

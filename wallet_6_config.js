@@ -1,1 +1,1 @@
-var mnemonic = "great gravity useful siren sadness cool obscure bone gold useful flight eternal";
+var mnemonic = "snow warrior time unfair lens sorry grunt frost random exclude traffic consider";

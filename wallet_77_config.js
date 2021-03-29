@@ -1,1 +1,1 @@
-var mnemonic = "robust regular collect rural tissue laptop safe twice similar fuel title true";
+var mnemonic = "bonus talent sock offer punch finish rabbit earn conduct click brain neutral";

@@ -1,1 +1,1 @@
-var mnemonic = "universe napkin price safe agent captain animal jeans wolf tuition merge alien";
+var mnemonic = "era disease suffer sword puzzle bundle inject cruel hazard miracle zero distance";

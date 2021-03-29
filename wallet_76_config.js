@@ -1,1 +1,1 @@
-var mnemonic = "betray exclude grant recipe obvious write echo snake used fantasy song pole";
+var mnemonic = "sense energy coffee upper hedgehog unhappy trip quantum potato render shoulder tobacco";

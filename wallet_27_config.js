@@ -1,1 +1,1 @@
-var mnemonic = "assist model spawn remember vote enemy sure denial repair grape accident only";
+var mnemonic = "mix hammer total leader ethics safe flower cancel trip humble become clinic";

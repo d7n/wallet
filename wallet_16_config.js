@@ -1,1 +1,1 @@
-var mnemonic = "radar tone slight worth quarter prevent use equip awful heavy fringe shine";
+var mnemonic = "balcony dentist deputy keep modify daughter wet stamp apart noise little inside";

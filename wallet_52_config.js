@@ -1,1 +1,1 @@
-var mnemonic = "interest witness love vault pyramid patch narrow want solve echo open raw";
+var mnemonic = "library cable rally dolphin auto advice ethics poet liquid fame torch poet";

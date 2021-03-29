@@ -1,1 +1,1 @@
-var mnemonic = "found jealous sunset rural sauce jeans actress coin loud clay dinner clinic";
+var mnemonic = "fox train surface script tattoo material sword quit all edit share ancient";

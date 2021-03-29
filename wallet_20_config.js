@@ -1,1 +1,1 @@
-var mnemonic = "myth sing champion young cloud hole very guilt orchard cousin laundry risk";
+var mnemonic = "round torch beyond gown choice alcohol mistake write decline faculty vessel saddle";

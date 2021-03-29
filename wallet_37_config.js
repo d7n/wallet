@@ -1,1 +1,1 @@
-var mnemonic = "divorce attract harbor brain what cook few ask brisk ankle topple inflict";
+var mnemonic = "dust exhibit armor apart normal winner dinosaur option lonely brisk vacuum excess";

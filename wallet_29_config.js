@@ -1,1 +1,1 @@
-var mnemonic = "idea orphan guard kit action doll casual envelope peasant female pass chunk";
+var mnemonic = "smoke trick myself slim spring novel yard hip present desk moon rent";

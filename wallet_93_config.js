@@ -1,1 +1,1 @@
-var mnemonic = "harsh vanish erosion hamster small ethics sound dutch survey peanut fetch left";
+var mnemonic = "trophy basket crowd insane bullet bacon boring arch toy foam small useful";

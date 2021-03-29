@@ -1,1 +1,1 @@
-var mnemonic = "digital tired unfair outer quarter cake morning guess bomb found produce index";
+var mnemonic = "system daughter false velvet midnight before similar typical toast chicken word federal";

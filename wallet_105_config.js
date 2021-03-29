@@ -1,1 +1,1 @@
-var mnemonic = "custom pond among virus south direct divide miracle float upper aisle dizzy";
+var mnemonic = "plate rebel barely hero busy critic rare between fiber year genius frost";

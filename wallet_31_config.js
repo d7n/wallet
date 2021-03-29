@@ -1,1 +1,1 @@
-var mnemonic = "bracket flash energy quote middle lend shell game decide before ozone position";
+var mnemonic = "measure one public bundle wealth thought keep amateur end cute allow genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard chicken head firm bacon resist very gold boil limb family absorb";
+var mnemonic = "combine you dial fiber insect pool spice agree kite human use mean";

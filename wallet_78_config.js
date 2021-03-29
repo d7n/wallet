@@ -1,1 +1,1 @@
-var mnemonic = "mystery remind conduct crop bundle foster pride excuse action focus village remind";
+var mnemonic = "school mean insane dance voyage stay six hidden embark grace fiber carbon";

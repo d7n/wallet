@@ -1,1 +1,1 @@
-var mnemonic = "ocean tumble ceiling curtain door grace cover upset merry salt lemon brick";
+var mnemonic = "install game sand country famous since level pattern wet sample detail gadget";

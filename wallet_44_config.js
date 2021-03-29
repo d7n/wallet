@@ -1,1 +1,1 @@
-var mnemonic = "cargo proud possible pluck arctic liquid clinic day banana supreme enrich old";
+var mnemonic = "danger topic degree consider hello style inform panic catalog enemy tank peanut";

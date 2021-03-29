@@ -1,1 +1,1 @@
-var mnemonic = "sport switch sand hurdle belt curtain birth kidney employ imitate immense lemon";
+var mnemonic = "velvet tell explain south become develop mad spoon return hub clutch bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "grit task pull ten believe conduct olive setup equal measure put again";
+var mnemonic = "expose story easily verify mansion judge tool gift gold anchor buyer flavor";

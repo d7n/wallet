@@ -1,1 +1,1 @@
-var mnemonic = "daughter anger small menu metal lab more dinner flight chicken arm can";
+var mnemonic = "tuna stand find barely document floor galaxy devote advice van bleak exchange";

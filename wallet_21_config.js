@@ -1,1 +1,1 @@
-var mnemonic = "tenant spatial machine example glue expire round outer one hawk odor inmate";
+var mnemonic = "race trouble cheap speak sustain matter host marine ladder girl pride era";

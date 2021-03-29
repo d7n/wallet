@@ -1,1 +1,1 @@
-var mnemonic = "gravity crouch shed fee inhale grid feed degree boil space debris winner";
+var mnemonic = "muffin mesh rifle tennis jealous hobby hour piece bitter thunder assume crystal";

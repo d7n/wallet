@@ -1,1 +1,1 @@
-var mnemonic = "better alter wrestle ranch dismiss enlist confirm sponsor frame kiwi boost inject";
+var mnemonic = "reveal leg trip rough run demand before chase barely worth ceiling industry";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose poet brand indoor become lobster noodle initial order home era april";
+var mnemonic = "crazy client tiny motor voice tackle mule door cigar legend differ stay";

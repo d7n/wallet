@@ -1,1 +1,1 @@
-var mnemonic = "scale design gown farm acquire sick daring dilemma twice start rude equal";
+var mnemonic = "actual birth beauty sudden action panda jewel laundry duck helmet good duck";

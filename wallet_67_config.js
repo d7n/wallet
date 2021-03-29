@@ -1,1 +1,1 @@
-var mnemonic = "crystal option initial again boost alarm tornado develop remember audit purchase path";
+var mnemonic = "suffer ship patrol allow cancel deputy connect amused trap maximum document actor";

@@ -1,1 +1,1 @@
-var mnemonic = "palace vital wet gloom hungry absurd deliver rare gauge page execute month";
+var mnemonic = "balcony elder opinion goddess fly ridge wheel chicken quarter sunset light ill";

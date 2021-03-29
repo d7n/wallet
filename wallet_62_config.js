@@ -1,1 +1,1 @@
-var mnemonic = "come click amateur legal timber estate clerk oil camera history camera entry";
+var mnemonic = "merit learn canyon position bitter people old segment clean book enable staff";

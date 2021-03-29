@@ -1,1 +1,1 @@
-var mnemonic = "pitch guard pattern gloom ranch receive panther grunt fan decade tube faith";
+var mnemonic = "swallow job jungle edge spray royal recycle add evidence boss stock arrow";

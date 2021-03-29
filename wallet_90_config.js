@@ -1,1 +1,1 @@
-var mnemonic = "cram dice melt river mirror danger segment brief tool purpose talent family";
+var mnemonic = "unveil sausage number disorder fresh tree best census consider diet betray expect";

@@ -1,1 +1,1 @@
-var mnemonic = "crowd mimic also wear asthma veteran collect daughter offer isolate traffic sick";
+var mnemonic = "year layer mesh volume property panic ethics north angle potato fish once";

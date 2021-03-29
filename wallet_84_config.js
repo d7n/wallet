@@ -1,1 +1,1 @@
-var mnemonic = "dish burst used joke physical sail news vapor bone food mixed retreat";
+var mnemonic = "nuclear program dust shuffle trend fatigue space safe element item blade response";

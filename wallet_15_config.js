@@ -1,1 +1,1 @@
-var mnemonic = "pattern mobile pole essence borrow gospel year neither swarm square acoustic refuse";
+var mnemonic = "moment squirrel milk size disagree cake scorpion blue pattern autumn siren farm";

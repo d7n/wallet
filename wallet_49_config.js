@@ -1,1 +1,1 @@
-var mnemonic = "slight clarify infant shrug cup mushroom ordinary gasp fault exit bunker item";
+var mnemonic = "swim crouch evoke dentist crazy open miss total card cheese online convince";

@@ -1,1 +1,1 @@
-var mnemonic = "crash gasp syrup chapter city view illness ozone special tower interest multiply";
+var mnemonic = "lawsuit message dress teach honey patrol math fox merry cable cluster bitter";

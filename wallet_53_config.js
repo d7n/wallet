@@ -1,1 +1,1 @@
-var mnemonic = "canal build option elbow little nest near detect icon credit anchor cable";
+var mnemonic = "entry glimpse wisdom crowd prison evil injury abuse text long vacuum news";

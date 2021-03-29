@@ -1,1 +1,1 @@
-var mnemonic = "stereo athlete purchase elegant apology visa winter brother spend possible doll fee";
+var mnemonic = "siege picture sunset entire orphan kiwi side anxiety knee stand until catalog";

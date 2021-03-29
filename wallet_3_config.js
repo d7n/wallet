@@ -1,1 +1,1 @@
-var mnemonic = "elite okay beach cool draw olive plug submit globe toward tuition midnight";
+var mnemonic = "anger sound gate face grab usual illness thrive then boring taste mother";

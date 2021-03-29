@@ -1,1 +1,1 @@
-var mnemonic = "wait female ketchup between round earth basket enemy bomb casual equip plastic";
+var mnemonic = "cart door able grace honey cheese faith comfort garden holiday gauge pottery";

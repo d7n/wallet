@@ -1,1 +1,1 @@
-var mnemonic = "mechanic moon domain amount fence year account enact adjust equip crumble trumpet";
+var mnemonic = "arch drop jealous hip away sign pelican wool toss pluck misery act";

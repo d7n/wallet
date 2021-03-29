@@ -1,1 +1,1 @@
-var mnemonic = "material fire segment tell security occur any speak trap hold sword law";
+var mnemonic = "scale sadness local human mango oyster define path skate bullet divert galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "change bag salon grit forget boy fan length dumb physical video buzz";
+var mnemonic = "settle perfect layer loyal blossom alone toast sell report release treat decade";

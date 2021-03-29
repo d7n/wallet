@@ -1,1 +1,1 @@
-var mnemonic = "grow twist prepare film thumb few cycle gift poet have evolve scheme";
+var mnemonic = "umbrella blossom panda saddle arena trumpet rug depth modify blush bicycle save";

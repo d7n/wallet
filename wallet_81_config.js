@@ -1,1 +1,1 @@
-var mnemonic = "good hello buddy egg flush evoke until aspect crop element candy memory";
+var mnemonic = "length funny erode donor february float tuition receive surprise apple arrest magnet";

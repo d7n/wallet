@@ -1,1 +1,1 @@
-var mnemonic = "vast sort path visit gown pill cancel alone explain sausage position spawn";
+var mnemonic = "fury virtual empty perfect weasel chaos barely force width fiber hour draw";

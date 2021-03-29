@@ -1,1 +1,1 @@
-var mnemonic = "enter item robot glory cool clog fluid drill profit trip light sign";
+var mnemonic = "earn erosion lumber winner legend protect dizzy home toilet dad belt invest";

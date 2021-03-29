@@ -1,1 +1,1 @@
-var mnemonic = "payment person unknown crack floor lounge public tortoise cloud funny drama hammer";
+var mnemonic = "truly million bike mirror hedgehog portion episode glue immense athlete bracket window";

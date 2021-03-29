@@ -1,1 +1,1 @@
-var mnemonic = "exotic power smile disorder pool minimum uphold diesel inquiry review own draft";
+var mnemonic = "salute brass bread kingdom scout country fabric nephew favorite screen frog child";

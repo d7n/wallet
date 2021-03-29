@@ -1,1 +1,1 @@
-var mnemonic = "clever able forum wheel toy sustain century pond recipe liberty doctor wood";
+var mnemonic = "cement fuel result spirit broken column demise marriage wheel run disagree menu";

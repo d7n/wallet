@@ -1,1 +1,1 @@
-var mnemonic = "crucial advice catch curtain repair cry dumb fresh alter fault alone shuffle";
+var mnemonic = "super estate tattoo trend vintage planet garment library fabric fever there surround";

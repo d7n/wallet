@@ -1,1 +1,1 @@
-var mnemonic = "answer journey spy deal green chalk winner exile enjoy delay mix arctic";
+var mnemonic = "gap call business run cloud tonight verify wash visa famous assault edge";

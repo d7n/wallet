@@ -1,1 +1,1 @@
-var mnemonic = "stand fun exhibit afford gun become door direct stand north solve intact";
+var mnemonic = "alpha random below consider lyrics now spice catalog expect renew used tape";

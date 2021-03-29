@@ -1,1 +1,1 @@
-var mnemonic = "still deposit attend august broom peace door soldier canal trade cousin raise";
+var mnemonic = "toward believe dismiss siren trumpet damp sort decide circle lava mule zero";

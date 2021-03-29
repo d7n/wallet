@@ -1,1 +1,1 @@
-var mnemonic = "code mixture frown clean kitten vast narrow mother genre smooth universe wonder";
+var mnemonic = "news page detail used wool bring bitter verify better toss frost curve";

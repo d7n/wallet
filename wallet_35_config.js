@@ -1,1 +1,1 @@
-var mnemonic = "carpet improve change belt name fresh spatial verb ridge index you mountain";
+var mnemonic = "embark exotic unable repair field near damp naive sword expire fossil toward";

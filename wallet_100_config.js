@@ -1,1 +1,1 @@
-var mnemonic = "melt senior harvest shaft summer voice swarm sustain quality sort garbage okay";
+var mnemonic = "nasty sister know crystal fitness rail famous pony claim network vapor fly";

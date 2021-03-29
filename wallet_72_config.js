@@ -1,1 +1,1 @@
-var mnemonic = "green list pony actor expect excite silly elite dentist wage awesome tide";
+var mnemonic = "problem matter bounce skirt soul ritual speak utility ring uphold man amateur";

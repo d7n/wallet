@@ -1,1 +1,1 @@
-var mnemonic = "young race blur hand lunar engage damage tuna rose foot concert muscle";
+var mnemonic = "way orbit domain banner mixed possible until first surge talk debate keep";

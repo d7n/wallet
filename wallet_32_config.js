@@ -1,1 +1,1 @@
-var mnemonic = "jealous employ lab latin neck radar radio transfer also country guide brain";
+var mnemonic = "defy innocent style because deny jaguar trust stable cloth frost give faith";

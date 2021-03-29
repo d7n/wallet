@@ -1,1 +1,1 @@
-var mnemonic = "twice enable zero lava scissors edit squirrel bike grant rhythm celery armor";
+var mnemonic = "link boring install reveal upper habit decline code vibrant agree stone arch";

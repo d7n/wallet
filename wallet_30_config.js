@@ -1,1 +1,1 @@
-var mnemonic = "garment guilt enact catch flower pair ill chest bread sample raven fantasy";
+var mnemonic = "maze large fresh sight strong vote bicycle twenty february outside bonus miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "trade gasp gift ready fancy jungle ignore green warrior short scatter glimpse";
+var mnemonic = "either hope ritual tribe position derive luggage finger boil mule sell globe";

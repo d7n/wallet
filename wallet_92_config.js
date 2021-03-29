@@ -1,1 +1,1 @@
-var mnemonic = "clown pupil blush tired harvest powder nerve multiply obscure already diagram load";
+var mnemonic = "ghost frost motor income also march vintage wrist vocal plastic project physical";

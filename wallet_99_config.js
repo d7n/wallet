@@ -1,1 +1,1 @@
-var mnemonic = "goat measure isolate faculty sunset put patient main oil order video refuse";
+var mnemonic = "tower dice tool orphan bag mouse sniff goat neglect negative stomach typical";

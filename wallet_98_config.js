@@ -1,1 +1,1 @@
-var mnemonic = "bitter desk train crazy shift slot wheel mask neutral motion stay garden";
+var mnemonic = "attract soda either banner sudden chronic fetch cram firm company bleak maze";

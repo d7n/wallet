@@ -1,1 +1,1 @@
-var mnemonic = "rebuild myth fresh spray future attack conduct true erase ostrich limb guard";
+var mnemonic = "mail myself anchor replace attitude nominee stay six body omit grow leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster message grocery diesel sustain judge biology depth concert attitude unit trigger";
+var mnemonic = "tower possible ship cool auto unique blame wrap tape cheese puzzle equip";

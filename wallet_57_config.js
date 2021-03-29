@@ -1,1 +1,1 @@
-var mnemonic = "tray shallow shallow battle deposit twelve august inmate rally amused exact inject";
+var mnemonic = "truly happy guard anger sunset breeze figure you keen main object pride";

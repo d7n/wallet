@@ -1,1 +1,1 @@
-var mnemonic = "business result club skull someone cradle venture relax verify excite echo mesh";
+var mnemonic = "forum rich oil power size barely cheap produce skull speed inquiry law";

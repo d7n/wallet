@@ -1,1 +1,1 @@
-var mnemonic = "smile glory autumn catch census address dash mobile clay stove way advice";
+var mnemonic = "issue leisure apology market conduct giggle liar diamond card divert budget income";
