@@ -1,1 +1,1 @@
-var mnemonic = "cattle hope boost sail final twist pulp maximum dinner decade unfold mechanic";
+var mnemonic = "wage scatter cinnamon cat prepare fiscal write elevator radio destroy process delay";

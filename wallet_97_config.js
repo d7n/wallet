@@ -1,1 +1,1 @@
-var mnemonic = "kite short quit average diamond test trade never play day eight depend";
+var mnemonic = "matter mystery taxi shuffle cigar concert lemon wide web online vibrant best";

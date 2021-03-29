@@ -1,1 +1,1 @@
-var mnemonic = "want skate slide finish say service swallow emotion slow throw version shell";
+var mnemonic = "film faint loan tourist tomato congress expose distance happy icon arrest chair";

@@ -1,1 +1,1 @@
-var mnemonic = "hungry neither tired little water sound eager open speak churn cigar melody";
+var mnemonic = "sponsor put wait island other test reform surround page hockey glove gym";

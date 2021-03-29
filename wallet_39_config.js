@@ -1,1 +1,1 @@
-var mnemonic = "august gesture abandon horror lunch pumpkin firm survey grain control segment duty";
+var mnemonic = "enhance sort dog region liberty solid shy style guard drive clarify mountain";

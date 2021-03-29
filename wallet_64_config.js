@@ -1,1 +1,1 @@
-var mnemonic = "gun family ancient educate steel miss they leg write pioneer pole draw";
+var mnemonic = "deny series multiply grit uncle finish neither situate subject history casino vast";

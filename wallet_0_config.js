@@ -1,1 +1,1 @@
-var mnemonic = "general picnic reform over project theme garlic knock choose model birth crew";
+var mnemonic = "taxi auction service venue series metal thrive okay rural good battle crater";

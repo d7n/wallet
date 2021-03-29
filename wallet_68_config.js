@@ -1,1 +1,1 @@
-var mnemonic = "claw mystery outdoor eye script grab away curve mesh museum museum lizard";
+var mnemonic = "jungle add blossom until thought among corn price kiss clay priority property";

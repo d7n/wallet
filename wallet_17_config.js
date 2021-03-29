@@ -1,1 +1,1 @@
-var mnemonic = "hero room eye patrol truck hub carpet proud pretty mirror surge betray";
+var mnemonic = "mosquito two suit seed river target alter puppy ready wool bench reward";

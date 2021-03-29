@@ -1,1 +1,1 @@
-var mnemonic = "person betray already city devote west carpet peasant require provide wedding toy";
+var mnemonic = "journey rescue turn delay exclude control nominee ocean tiger achieve fee lizard";

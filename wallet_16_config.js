@@ -1,1 +1,1 @@
-var mnemonic = "involve gravity mango version visit three dial control drop shuffle bridge chair";
+var mnemonic = "vast sad oblige midnight inherit timber clock sick fault board scorpion secret";

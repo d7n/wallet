@@ -1,1 +1,1 @@
-var mnemonic = "require index knock music eager mix warm honey gentle travel donate mushroom";
+var mnemonic = "spoon pen kid wedding victory clarify leopard outer earth kangaroo face predict";

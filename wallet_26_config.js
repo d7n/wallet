@@ -1,1 +1,1 @@
-var mnemonic = "equal panic faculty gift alley hamster guitar learn hurry brand tide mail";
+var mnemonic = "onion burger muscle mouse unit depth flag awesome add pig scrap monkey";

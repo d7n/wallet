@@ -1,1 +1,1 @@
-var mnemonic = "property twenty begin bamboo milk become wall rhythm you end opinion fame";
+var mnemonic = "kingdom aunt crisp grid myth input stay lunch blood cinnamon give inhale";

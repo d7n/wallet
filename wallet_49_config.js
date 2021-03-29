@@ -1,1 +1,1 @@
-var mnemonic = "media village belt salon noise cake boss assault wet sell exercise rib";
+var mnemonic = "pill actual day search shaft jelly dust grape shed match chest illness";

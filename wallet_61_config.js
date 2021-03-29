@@ -1,1 +1,1 @@
-var mnemonic = "warfare rhythm finish open choose enemy brain wash mass autumn armor inject";
+var mnemonic = "layer slogan body innocent smart peanut century bomb evil man cross discover";

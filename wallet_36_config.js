@@ -1,1 +1,1 @@
-var mnemonic = "napkin guard bulk source narrow team slender celery volume slender alien round";
+var mnemonic = "valve virtual rose sugar audit cluster teach surprise rich battle identify blame";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic whale army patient report later bring original keen credit nominee curious";
+var mnemonic = "pause tell original danger main erode ski another pool dawn confirm frame";

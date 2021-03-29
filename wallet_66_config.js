@@ -1,1 +1,1 @@
-var mnemonic = "wrestle net bottom spare melt funny grass hip decline cage level sort";
+var mnemonic = "motor embrace ripple genre print misery salmon foam detect morning mom eye";

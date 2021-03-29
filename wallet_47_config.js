@@ -1,1 +1,1 @@
-var mnemonic = "coast utility few day category cart item library hill knee hurdle network";
+var mnemonic = "clog garment demise artwork rug predict hello knee devote black slab emotion";

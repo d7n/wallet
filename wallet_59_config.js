@@ -1,1 +1,1 @@
-var mnemonic = "develop cotton just skill jar auto vivid chapter erupt arch student travel";
+var mnemonic = "answer boy nuclear glimpse swing sketch humor master elegant whale ill tunnel";

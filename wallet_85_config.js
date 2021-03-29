@@ -1,1 +1,1 @@
-var mnemonic = "plate vast obvious glove fury capable fuel squeeze essay scare skirt pond";
+var mnemonic = "lab slush draft brush machine confirm head wealth ball clean velvet detect";

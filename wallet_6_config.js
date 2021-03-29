@@ -1,1 +1,1 @@
-var mnemonic = "wide load viable dizzy animal dice race artist rhythm sword strategy inspire";
+var mnemonic = "music express stool steak torch make glue tail result lava carbon shell";

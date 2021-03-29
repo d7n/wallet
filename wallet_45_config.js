@@ -1,1 +1,1 @@
-var mnemonic = "domain door fan jacket march kiss unhappy fluid sick volume loud subway";
+var mnemonic = "movie flower famous essence labor divide meat copper sorry knock catalog foot";

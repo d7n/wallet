@@ -1,1 +1,1 @@
-var mnemonic = "happy exist soon attack walnut race develop peanut debate exhibit best series";
+var mnemonic = "sea property egg message cotton fuel scheme soft left thrive lab invite";

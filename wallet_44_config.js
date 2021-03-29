@@ -1,1 +1,1 @@
-var mnemonic = "ride air glare love giggle follow language develop primary fit need toilet";
+var mnemonic = "switch clump upset attend wage eight address point seminar same marine winner";

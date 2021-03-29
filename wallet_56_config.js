@@ -1,1 +1,1 @@
-var mnemonic = "stay slogan there convince client window wagon evoke eyebrow ring weather maximum";
+var mnemonic = "company december image olive file recall gospel number attend vast sock fix";

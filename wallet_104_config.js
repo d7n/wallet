@@ -1,1 +1,1 @@
-var mnemonic = "install aware wagon escape install pulse humor crouch machine card kit pitch";
+var mnemonic = "regular impose foster price car trim firm math correct window distance grass";

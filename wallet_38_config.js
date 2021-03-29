@@ -1,1 +1,1 @@
-var mnemonic = "edit balcony minor bitter shrimp erosion spoil track balcony express lion spoon";
+var mnemonic = "beef peanut raw step wealth install version infant skull just grid solar";

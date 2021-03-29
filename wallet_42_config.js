@@ -1,1 +1,1 @@
-var mnemonic = "used shove april dragon angle ship gain before health never poem picnic";
+var mnemonic = "add subject race slot two rude expose stay element dolphin foster give";

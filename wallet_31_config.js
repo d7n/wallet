@@ -1,1 +1,1 @@
-var mnemonic = "cost thought disease speak live property parade forget gallery cage opera ritual";
+var mnemonic = "liberty unhappy behind radio boil canyon glide artwork wrist post demand broccoli";

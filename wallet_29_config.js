@@ -1,1 +1,1 @@
-var mnemonic = "among access win dutch shoe illness embrace aspect quick clever left alley";
+var mnemonic = "ready latin attract act sauce boring worth rotate route match rice friend";

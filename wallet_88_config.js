@@ -1,1 +1,1 @@
-var mnemonic = "gown toddler eternal canoe solve tourist quote vendor ability discover egg debate";
+var mnemonic = "example category can hill nation identify hurdle vehicle fat oval fabric digital";

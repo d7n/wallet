@@ -1,1 +1,1 @@
-var mnemonic = "dune uncle dune ten orchard science mushroom code nerve spray alone rain";
+var mnemonic = "depend opera express panic gallery fence blur spatial inch unable kite artefact";

@@ -1,1 +1,1 @@
-var mnemonic = "space trumpet improve borrow basic wear elbow empty earth lock analyst little";
+var mnemonic = "test work arrange wife spatial tiger cabin chuckle stock regret ranch flag";

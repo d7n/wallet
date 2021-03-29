@@ -1,1 +1,1 @@
-var mnemonic = "tail carry faint peasant relax grunt relief index theme inherit amateur wool";
+var mnemonic = "rural party happy possible crush father absurd moral ridge argue primary media";

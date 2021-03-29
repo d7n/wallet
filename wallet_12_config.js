@@ -1,1 +1,1 @@
-var mnemonic = "occur hundred love family monster surface differ elbow garage attend found remind";
+var mnemonic = "happy two layer repeat wonder exist trick novel vessel zone vanish rice";

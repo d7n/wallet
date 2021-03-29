@@ -1,1 +1,1 @@
-var mnemonic = "prefer surface fish pudding story course drama path eye law exit hobby";
+var mnemonic = "basket use august derive radio jungle vapor book auction panda invite online";

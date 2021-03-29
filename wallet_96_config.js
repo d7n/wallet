@@ -1,1 +1,1 @@
-var mnemonic = "clean gorilla spawn nurse smile affair flag idle knife orphan interest notable";
+var mnemonic = "path birth cute insane scissors crater zero school angry hundred castle fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige breeze winter quote bachelor issue piano marble lunar mind balcony play";
+var mnemonic = "goddess assume okay grant tragic science opera foot ask clutch sorry loan";

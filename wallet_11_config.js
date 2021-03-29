@@ -1,1 +1,1 @@
-var mnemonic = "journey attitude carbon oppose tired lab sail pet cricket february treat glide";
+var mnemonic = "robot local water drift again initial type assist marine measure shy tunnel";

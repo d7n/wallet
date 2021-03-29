@@ -1,1 +1,1 @@
-var mnemonic = "above seed organ crunch choose reopen ecology giant elite trigger cheese near";
+var mnemonic = "entire choose busy draft crowd mystery poem leisure bus alarm arrow repair";

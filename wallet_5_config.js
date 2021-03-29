@@ -1,1 +1,1 @@
-var mnemonic = "genius bullet torch sick motion globe movie eye tip tilt void carry";
+var mnemonic = "hand sister between material poem agree volume rubber already twin fiction chair";

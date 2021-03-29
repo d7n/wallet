@@ -1,1 +1,1 @@
-var mnemonic = "sausage dinner hill man addict point fold muscle aunt wheat cancel soap";
+var mnemonic = "explain deputy wine table fragile dismiss tray find river can fun relax";

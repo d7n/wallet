@@ -1,1 +1,1 @@
-var mnemonic = "album crater error opinion spawn nose meat pitch rich small stereo avoid";
+var mnemonic = "menu primary shy team subject tattoo express cause ahead liberty category regret";

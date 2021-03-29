@@ -1,1 +1,1 @@
-var mnemonic = "debris outer kangaroo blanket fix hen crunch vintage nation decrease knee senior";
+var mnemonic = "favorite cycle curtain hybrid prevent pipe kidney idea bitter success west rural";

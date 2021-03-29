@@ -1,1 +1,1 @@
-var mnemonic = "elegant clump retreat buzz bring smart arctic below random adjust oxygen bench";
+var mnemonic = "liquid bottom mesh debris attract depth spike skirt easy trust price stick";

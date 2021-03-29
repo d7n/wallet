@@ -1,1 +1,1 @@
-var mnemonic = "try price seed side learn aunt bonus hill busy genius easy clean";
+var mnemonic = "oxygen south scare protect tuna oppose empty sing stadium edit cradle concert";

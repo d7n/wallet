@@ -1,1 +1,1 @@
-var mnemonic = "raven possible appear liberty manage solar idle boost distance april fiscal choose";
+var mnemonic = "scissors glimpse wreck gym bullet fashion topple obey memory uphold logic senior";

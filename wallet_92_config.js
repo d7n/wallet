@@ -1,1 +1,1 @@
-var mnemonic = "fat pyramid pupil cattle elbow moment salmon milk idea hand coach arena";
+var mnemonic = "scene mix room enemy insect arrive lyrics tuition duty furnace report guess";

@@ -1,1 +1,1 @@
-var mnemonic = "useful upper truck visual still drop edge family report alcohol small maximum";
+var mnemonic = "school orange slender present mansion half once grace record fuel super suffer";

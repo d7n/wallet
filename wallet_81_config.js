@@ -1,1 +1,1 @@
-var mnemonic = "drip drink fluid habit hen hard man lake alcohol random admit slab";
+var mnemonic = "hunt broken artwork inform nice siege menu crash cart royal toast grunt";

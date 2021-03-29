@@ -1,1 +1,1 @@
-var mnemonic = "just teach join neutral survey nose glue bench response team issue muffin";
+var mnemonic = "sense wagon unknown marine hawk lawn normal near before minimum latin alien";

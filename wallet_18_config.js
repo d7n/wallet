@@ -1,1 +1,1 @@
-var mnemonic = "key youth wife pool tilt mail bottom cube cycle fatigue marine slush";
+var mnemonic = "struggle teach joy rare whisper catch round depart cause future another major";

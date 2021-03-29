@@ -1,1 +1,1 @@
-var mnemonic = "inmate obscure gospel size village clump tomato tennis fiction umbrella universe essence";
+var mnemonic = "green need flock gold tooth column employ riot level client joke law";

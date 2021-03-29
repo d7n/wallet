@@ -1,1 +1,1 @@
-var mnemonic = "butter zero soda trumpet hand weekend equip fitness apart grass ladder moment";
+var mnemonic = "farm shrug jungle often solution try shed clerk echo express below because";

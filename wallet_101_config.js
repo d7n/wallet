@@ -1,1 +1,1 @@
-var mnemonic = "grant bleak height river galaxy boy loud decrease response dragon lazy swing";
+var mnemonic = "hurdle two trim mule position industry illegal scan photo grain art moment";

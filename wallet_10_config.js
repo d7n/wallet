@@ -1,1 +1,1 @@
-var mnemonic = "artwork yellow napkin simple hurdle quote bone present fragile alcohol improve seed";
+var mnemonic = "meat obvious cruel tube large frequent news liquid minimum under remind drill";

@@ -1,1 +1,1 @@
-var mnemonic = "siege grant spike price ostrich tide snack minute shift twist ready taxi";
+var mnemonic = "exhaust truly lucky birth hospital trophy cram wheel ostrich banner mixture broken";

@@ -1,1 +1,1 @@
-var mnemonic = "vendor jar shadow correct riot polar oak state select gaze economy level";
+var mnemonic = "slogan life category kid tribe will pave salute vendor panther hurry hidden";

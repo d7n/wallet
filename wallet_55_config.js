@@ -1,1 +1,1 @@
-var mnemonic = "shed candy soul arrange undo scene comfort whale pet wing trial hawk";
+var mnemonic = "fruit pony stick slender adjust beauty excess autumn math guide purse title";

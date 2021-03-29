@@ -1,1 +1,1 @@
-var mnemonic = "talk truck swarm arena human scale fetch twin month mansion captain bag";
+var mnemonic = "suspect hero pave soup rose easily clarify real husband blush bike pony";

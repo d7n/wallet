@@ -1,1 +1,1 @@
-var mnemonic = "video gospel blade want claim razor math found master strike banner fame";
+var mnemonic = "tray tiny hip island focus enrich ketchup capital assume profit nothing visit";

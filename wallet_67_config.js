@@ -1,1 +1,1 @@
-var mnemonic = "flee pink brick police lunar embrace naive agent permit much machine someone";
+var mnemonic = "crater one twenty pencil clarify field regular eye cry verb liberty fragile";

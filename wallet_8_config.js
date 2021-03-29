@@ -1,1 +1,1 @@
-var mnemonic = "chief cruel fiscal duck alone route key usual genius sort upper funny";
+var mnemonic = "humble nothing dry hobby bag office autumn animal tomorrow garden warfare search";

@@ -1,1 +1,1 @@
-var mnemonic = "town airport town skirt skirt volcano amazing oil result maze inquiry upon";
+var mnemonic = "conduct witness ticket person wisdom toward online toe umbrella subject never reveal";

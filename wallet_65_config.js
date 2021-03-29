@@ -1,1 +1,1 @@
-var mnemonic = "nurse hospital hospital pig exist tilt hip wasp normal zone best muffin";
+var mnemonic = "myth fade salmon snow sing local poet rhythm autumn palace chronic fault";

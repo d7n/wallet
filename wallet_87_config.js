@@ -1,1 +1,1 @@
-var mnemonic = "debate cute lesson camp seminar room put tide flat tree joke any";
+var mnemonic = "castle shrug plate force replace tilt aspect catch dinosaur sorry west area";

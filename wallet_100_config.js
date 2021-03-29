@@ -1,1 +1,1 @@
-var mnemonic = "tone sniff option camera few miracle shoulder good usual act patient sad";
+var mnemonic = "valley quantum mixed smile tower woman kit marine dog solution celery lamp";

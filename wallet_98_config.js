@@ -1,1 +1,1 @@
-var mnemonic = "sock camp drop absent shed execute found exchange where sauce razor mom";
+var mnemonic = "account rival token label side shed uniform oil south ribbon pave cradle";

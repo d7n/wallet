@@ -1,1 +1,1 @@
-var mnemonic = "drive security fabric nice bean estate october dog hollow universe trap turtle";
+var mnemonic = "sport athlete list extra vocal escape next danger maid express evoke rain";

@@ -1,1 +1,1 @@
-var mnemonic = "govern hurdle bundle birth false solar fruit favorite inner live subject latin";
+var mnemonic = "cousin member hen lift unfold narrow select luxury pave avocado what try";

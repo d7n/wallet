@@ -1,1 +1,1 @@
-var mnemonic = "mean sudden essay subject simple allow eagle dirt among crawl hole depth";
+var mnemonic = "train demand wave roast wink cram spike trap fiscal target trigger horror";

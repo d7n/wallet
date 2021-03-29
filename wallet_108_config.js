@@ -1,1 +1,1 @@
-var mnemonic = "hungry dizzy march gossip monitor demand notice twin primary best about exhibit";
+var mnemonic = "quarter entry share onion net tree shrimp wife release defy just scout";

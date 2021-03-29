@@ -1,1 +1,1 @@
-var mnemonic = "old resemble coin text velvet protect elephant razor change ridge stereo aunt";
+var mnemonic = "crouch grocery detect trigger domain wife music strike reunion kiss crucial essence";

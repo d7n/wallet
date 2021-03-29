@@ -1,1 +1,1 @@
-var mnemonic = "sense sustain allow program ceiling skin library catalog nose parade purse thank";
+var mnemonic = "invest poem outside diagram punch head odor deal artist country flock bubble";

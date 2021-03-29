@@ -1,1 +1,1 @@
-var mnemonic = "warfare cycle action fitness jaguar chat student remove cost huge risk belt";
+var mnemonic = "update legal lava analyst target destroy torch until spatial bike genre rapid";

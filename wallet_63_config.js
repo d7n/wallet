@@ -1,1 +1,1 @@
-var mnemonic = "stamp require trust trouble wreck strategy father double mosquito huge slogan speak";
+var mnemonic = "husband salad bright avocado mother thing jeans bless train lounge begin cart";

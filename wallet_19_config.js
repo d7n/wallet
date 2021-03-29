@@ -1,1 +1,1 @@
-var mnemonic = "master ski hedgehog miss salon wage basic stool fatal garlic wonder life";
+var mnemonic = "faculty stick pizza verify fence always output sight top thing upper filter";

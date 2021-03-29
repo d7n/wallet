@@ -1,1 +1,1 @@
-var mnemonic = "train spread error vote same leaf barrel body express mosquito chicken put";
+var mnemonic = "index ribbon deputy raw struggle era fault trip certain glory mutual loop";

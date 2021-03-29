@@ -1,1 +1,1 @@
-var mnemonic = "impose dilemma remain bonus aspect color holiday fury neutral village rural economy";
+var mnemonic = "only flat echo bronze collect among develop convince invite behave indoor grace";

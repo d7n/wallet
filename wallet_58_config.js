@@ -1,1 +1,1 @@
-var mnemonic = "harvest draft rude where own pledge bean cycle cross stairs million poet";
+var mnemonic = "twenty project buzz welcome usage hybrid iron nest thumb space depth banner";

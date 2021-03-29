@@ -1,1 +1,1 @@
-var mnemonic = "amused asset actual drive point seven gravity human shield step ask notice";
+var mnemonic = "collect model slender monster combine canyon depend sorry volcano focus cruise regret";

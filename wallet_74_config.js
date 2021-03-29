@@ -1,1 +1,1 @@
-var mnemonic = "blossom vacant lava chest snake enroll ankle kidney slab often baby proud";
+var mnemonic = "badge term village addict pioneer column wave virtual canvas fluid stadium expect";

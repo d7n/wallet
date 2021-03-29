@@ -1,1 +1,1 @@
-var mnemonic = "month spike someone naive merry feel hammer nice focus attack alcohol area";
+var mnemonic = "expire other coyote dragon device police lunch crystal act put tail iron";

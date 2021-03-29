@@ -1,1 +1,1 @@
-var mnemonic = "response inner merit shield unknown rubber steak husband share bleak under sick";
+var mnemonic = "match shiver recycle runway rug rural speak flock explain idea vault this";
