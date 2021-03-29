@@ -1,1 +1,1 @@
-var mnemonic = "fit radar local regret spirit message ice someone ocean manage lizard hollow";
+var mnemonic = "gloom path decide novel void rare ski wealth eager glance stumble dinosaur";

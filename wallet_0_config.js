@@ -1,1 +1,1 @@
-var mnemonic = "glass earn reform spy spice quarter salt minimum discover weather noble local";
+var mnemonic = "view silk name metal truck bundle baby major speak pilot yard tortoise";

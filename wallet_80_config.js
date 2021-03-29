@@ -1,1 +1,1 @@
-var mnemonic = "swing figure clip such enable badge maximum initial rebuild boss loan believe";
+var mnemonic = "dream local train problem symbol mixture grape clay catch repair pause sister";

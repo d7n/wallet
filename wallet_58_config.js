@@ -1,1 +1,1 @@
-var mnemonic = "protect hip ugly detect bind echo fuel entire slow blossom whip blouse";
+var mnemonic = "sunset upper say baby attract together discover install ready carpet few grunt";

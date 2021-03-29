@@ -1,1 +1,1 @@
-var mnemonic = "express crawl staff cliff denial shallow stage purse spring sister diesel thought";
+var mnemonic = "brand jar bind nest sing melody sing carry deny casual concert write";

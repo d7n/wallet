@@ -1,1 +1,1 @@
-var mnemonic = "endless struggle student jeans limit family promote wrestle carbon month miss artist";
+var mnemonic = "until awake connect coast believe tourist coach bean tail crop doll fossil";

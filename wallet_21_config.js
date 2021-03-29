@@ -1,1 +1,1 @@
-var mnemonic = "neck board rose all ladder melody manual notice upon route visa swap";
+var mnemonic = "penalty desert smoke transfer oyster obvious walk foam cliff physical absorb hope";

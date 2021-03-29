@@ -1,1 +1,1 @@
-var mnemonic = "wash license arm edit lab dilemma display universe when second novel cave";
+var mnemonic = "absent swarm ice print own soda skate summer scout flight brother absorb";

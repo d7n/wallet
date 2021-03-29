@@ -1,1 +1,1 @@
-var mnemonic = "topple soul master write ignore foot balcony awake december across grape cable";
+var mnemonic = "clock need crane swamp gun media intact indicate sense legal audit aunt";

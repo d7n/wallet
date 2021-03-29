@@ -1,1 +1,1 @@
-var mnemonic = "square drill slow crunch affair pill parrot essay garment thumb moment turtle";
+var mnemonic = "also bean design pistol blind ladder comfort school thumb super jacket dismiss";

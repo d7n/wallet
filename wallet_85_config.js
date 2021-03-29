@@ -1,1 +1,1 @@
-var mnemonic = "palm tennis beauty split face sea hammer reward armed yard broken ankle";
+var mnemonic = "road west guard noodle lamp zone fly sword imitate hope blast under";

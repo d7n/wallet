@@ -1,1 +1,1 @@
-var mnemonic = "toward casino witness notice horse desert thank bottom easy mango figure vanish";
+var mnemonic = "chair flame tree borrow tragic game bleak caught involve leg awful purity";

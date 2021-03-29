@@ -1,1 +1,1 @@
-var mnemonic = "simple robot whale width off donate undo depart easily crush lift wealth";
+var mnemonic = "muffin increase uphold explain sense cloud excite profit problem reason submit design";

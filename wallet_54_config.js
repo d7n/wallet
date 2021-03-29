@@ -1,1 +1,1 @@
-var mnemonic = "armed hamster february mirror melody school call stable sea crawl age parent";
+var mnemonic = "mail proud change napkin joke say better only clump chronic artwork focus";

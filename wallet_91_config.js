@@ -1,1 +1,1 @@
-var mnemonic = "tuna wild almost emerge eyebrow tonight social side duty build minor enroll";
+var mnemonic = "emotion similar core throw baby photo cushion party deal shock idle pepper";

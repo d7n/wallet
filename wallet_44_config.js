@@ -1,1 +1,1 @@
-var mnemonic = "child element midnight must describe outdoor timber butter brave private fish analyst";
+var mnemonic = "tent draw remind hurt desk melody must leg amazing act pole home";

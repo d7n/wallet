@@ -1,1 +1,1 @@
-var mnemonic = "inspire worry ginger dawn federal cash hidden thunder giant human drama fall";
+var mnemonic = "attack illegal vacant anchor clump survey acid put brother target logic unfold";

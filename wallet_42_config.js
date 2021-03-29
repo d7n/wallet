@@ -1,1 +1,1 @@
-var mnemonic = "monitor reunion kite husband pizza journey arrow indoor basket barely tragic swim";
+var mnemonic = "address spread member cradle select museum border fit congress maid empower car";

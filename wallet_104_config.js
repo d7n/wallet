@@ -1,1 +1,1 @@
-var mnemonic = "answer enter owner inspire swear drum walnut engine stomach cradle essay remember";
+var mnemonic = "kick foil impact wrap ability whisper hard inside swarm return face divert";

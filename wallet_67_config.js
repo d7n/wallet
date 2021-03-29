@@ -1,1 +1,1 @@
-var mnemonic = "pistol remind scrap ignore during light hip disorder mansion thunder clap catch";
+var mnemonic = "that trick magic practice begin apology cattle weather exist kidney aim phone";

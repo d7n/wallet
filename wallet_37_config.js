@@ -1,1 +1,1 @@
-var mnemonic = "father visit ordinary wagon area large good side topple void differ dance";
+var mnemonic = "food utility pass more list whisper announce horn absurd rotate slim enemy";

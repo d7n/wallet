@@ -1,1 +1,1 @@
-var mnemonic = "gaze blossom core squirrel seven transfer hover power fee mask cricket mobile";
+var mnemonic = "recall guide shaft verb current crucial region oven shuffle right sketch skate";

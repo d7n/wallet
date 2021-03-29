@@ -1,1 +1,1 @@
-var mnemonic = "squirrel swap reward paper buzz daring today width fringe dignity toward quiz";
+var mnemonic = "reform inflict long swap one undo romance prosper mountain mango tuition coach";

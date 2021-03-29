@@ -1,1 +1,1 @@
-var mnemonic = "advance code grain solar hollow medal romance wide multiply diet adapt profit";
+var mnemonic = "pride soup oyster fat know travel small expand truly resist siege grace";

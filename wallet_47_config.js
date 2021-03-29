@@ -1,1 +1,1 @@
-var mnemonic = "sure leader spawn mesh access always click isolate expose abstract ecology toast";
+var mnemonic = "liar girl swim scatter lift gallery gift winter fork switch grass behind";

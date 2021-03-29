@@ -1,1 +1,1 @@
-var mnemonic = "letter melt balcony bullet cable crush explain shed slender fiction shaft run";
+var mnemonic = "gadget blind sock upset sting elbow elegant neck wisdom today barrel feed";

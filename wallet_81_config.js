@@ -1,1 +1,1 @@
-var mnemonic = "federal squeeze transfer amount merry original capital glance planet absorb fan aware";
+var mnemonic = "ocean adapt ball wreck until stable only there become arm trim actual";

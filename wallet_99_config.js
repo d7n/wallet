@@ -1,1 +1,1 @@
-var mnemonic = "fortune stove owner minor magic dream cherry mad grant cave such label";
+var mnemonic = "carry warrior street sunny essay turkey scrub stamp supply alone area lock";

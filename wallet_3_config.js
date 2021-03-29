@@ -1,1 +1,1 @@
-var mnemonic = "lesson duty aspect term priority pottery august soldier saddle story guard model";
+var mnemonic = "mail poet spin roast father knee draft follow nice organ saddle bag";

@@ -1,1 +1,1 @@
-var mnemonic = "bacon pottery amazing brown wreck because security patch member shop morning film";
+var mnemonic = "memory drift key choose remind payment permit exile pair follow struggle project";

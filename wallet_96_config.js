@@ -1,1 +1,1 @@
-var mnemonic = "inspire seminar filter change about grace cherry old amazing muscle drill differ";
+var mnemonic = "push husband vehicle figure skull fever sport fortune truck aspect once high";

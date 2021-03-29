@@ -1,1 +1,1 @@
-var mnemonic = "eagle insect unveil arrest cheap capable army rather ocean snap blast yard";
+var mnemonic = "version subway view toward check legend bag blast aim oak approve twice";

@@ -1,1 +1,1 @@
-var mnemonic = "upon shadow muffin amused short shy tennis maximum garlic diesel modify inform";
+var mnemonic = "path hill pill coin final candy salon vanish improve angle submit company";

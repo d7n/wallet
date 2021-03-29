@@ -1,1 +1,1 @@
-var mnemonic = "black chat bright fiber coin jungle coil nose mercy mushroom puppy vague";
+var mnemonic = "idle friend history alien evolve black extend slow churn toilet siege unhappy";

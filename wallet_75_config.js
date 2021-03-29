@@ -1,1 +1,1 @@
-var mnemonic = "essence system potato orchard afford range trick erase soul daughter volume what";
+var mnemonic = "village surprise august tattoo enlist enhance obey plunge tongue nurse bright lava";

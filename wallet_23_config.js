@@ -1,1 +1,1 @@
-var mnemonic = "liar elder boss renew garage goddess multiply glide seed siren belt cup";
+var mnemonic = "tag pause safe noodle absorb someone twenty steel income glad concert will";

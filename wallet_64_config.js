@@ -1,1 +1,1 @@
-var mnemonic = "prison unaware secret local key october wide warfare glide nuclear draft armed";
+var mnemonic = "man surround term reject amount enter excite clay match color hair comfort";

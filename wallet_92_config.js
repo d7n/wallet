@@ -1,1 +1,1 @@
-var mnemonic = "coconut ecology glue file anchor foster connect mimic change cool grain scrub";
+var mnemonic = "steak capital toilet dune first coral alert slice funny bright camera guitar";

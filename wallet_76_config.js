@@ -1,1 +1,1 @@
-var mnemonic = "enhance laugh upper agent random update wet split stadium arrow dry violin";
+var mnemonic = "brain inject similar slide next problem pole west volcano alcohol distance two";

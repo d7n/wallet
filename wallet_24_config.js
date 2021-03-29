@@ -1,1 +1,1 @@
-var mnemonic = "cart outside pizza say ghost yellow winter emerge exact fringe prepare arctic";
+var mnemonic = "gauge point inject catch idea despair ghost slab rail burger blush analyst";

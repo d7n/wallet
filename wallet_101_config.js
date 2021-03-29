@@ -1,1 +1,1 @@
-var mnemonic = "laugh anger when quiz veteran letter rookie visit pudding chat analyst involve";
+var mnemonic = "collect detail winter fee mirror voice gentle foster guilt rate return make";

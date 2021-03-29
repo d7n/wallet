@@ -1,1 +1,1 @@
-var mnemonic = "olive chief soft potato gown syrup pluck civil sell wall cycle muscle";
+var mnemonic = "series mansion blouse faint bus mention change start valid drama plastic polar";

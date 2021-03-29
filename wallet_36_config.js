@@ -1,1 +1,1 @@
-var mnemonic = "found demand cricket emerge chronic wide impose crunch shuffle hundred record twice";
+var mnemonic = "rare buddy undo pipe drastic pool liquid fire detect cousin lawn dentist";

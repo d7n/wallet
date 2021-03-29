@@ -1,1 +1,1 @@
-var mnemonic = "finish visit crisp treat stand smoke cigar sword inject mosquito acid office";
+var mnemonic = "effort bulk grass put pumpkin believe digital address various vacuum embody length";

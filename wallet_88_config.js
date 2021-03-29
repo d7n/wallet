@@ -1,1 +1,1 @@
-var mnemonic = "license forest shrug hold purchase choose carry ill charge spell people marriage";
+var mnemonic = "badge arrow limit worry thought during differ mercy burger disorder depth arena";

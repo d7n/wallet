@@ -1,1 +1,1 @@
-var mnemonic = "bag chat apart sister owner hundred liquid brain civil insect rookie cover";
+var mnemonic = "neutral tank inmate wall install month vacuum fatigue appear female ticket glance";

@@ -1,1 +1,1 @@
-var mnemonic = "write hurt cost spatial empty foil obtain final pepper shop infant actual";
+var mnemonic = "salon reject will cheese peasant chat tide improve reopen language detect vault";

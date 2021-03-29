@@ -1,1 +1,1 @@
-var mnemonic = "rain betray benefit raw census artwork organ walk bean switch century just";
+var mnemonic = "wash inform act robot camp toss pond other excuse glove sea foot";

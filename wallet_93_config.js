@@ -1,1 +1,1 @@
-var mnemonic = "good member nurse domain chunk total bicycle insect toast prepare heart uniform";
+var mnemonic = "index weird match section put engage vintage media autumn basic save clay";

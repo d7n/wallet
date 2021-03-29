@@ -1,1 +1,1 @@
-var mnemonic = "project nurse quiz high cage dry festival error naive above affair idle";
+var mnemonic = "dragon drop evil baby gift roof hurt smile gather pelican tomato jazz";

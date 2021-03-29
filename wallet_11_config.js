@@ -1,1 +1,1 @@
-var mnemonic = "suit pulp choose pizza canyon snack lucky radar board husband exclude lecture";
+var mnemonic = "liar girl comic random movie heavy help busy cloth physical faith gallery";

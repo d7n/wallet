@@ -1,1 +1,1 @@
-var mnemonic = "omit rifle fossil pear napkin oyster sustain insane field axis sleep exile";
+var mnemonic = "physical coach away hungry gauge infant unit wagon check wide unfair vote";

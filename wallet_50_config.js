@@ -1,1 +1,1 @@
-var mnemonic = "wrestle basket ensure among dilemma marble asthma gadget strike social pluck lamp";
+var mnemonic = "surround during rigid curtain much giant priority direct prison diamond cruise mixture";

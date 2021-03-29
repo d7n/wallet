@@ -1,1 +1,1 @@
-var mnemonic = "slide tomato guilt tooth grain federal frozen surprise switch flavor acid what";
+var mnemonic = "castle mansion combine tunnel fall powder begin toss bounce vessel insane ancient";

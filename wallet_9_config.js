@@ -1,1 +1,1 @@
-var mnemonic = "grid strike section airport cabbage buffalo split fiction nephew parent satoshi jewel";
+var mnemonic = "net name kind fun vital left frost firm clump easy put wedding";

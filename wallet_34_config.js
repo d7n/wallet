@@ -1,1 +1,1 @@
-var mnemonic = "offer behind grace brief discover leaf radio require erase just entry coach";
+var mnemonic = "toy junior sudden real afford shuffle great mammal loyal fury obscure sport";

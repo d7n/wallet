@@ -1,1 +1,1 @@
-var mnemonic = "mask cloud trap can ridge boss cotton vast fatal discover day cash";
+var mnemonic = "buzz bulk lamp swamp slush glimpse brown plug crash spoil stadium empower";

@@ -1,1 +1,1 @@
-var mnemonic = "enable swear danger dish oblige swamp shoot pet coach build unhappy tube";
+var mnemonic = "lesson claw panda welcome draft magnet civil gauge salad evolve suspect sudden";

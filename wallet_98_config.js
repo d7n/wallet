@@ -1,1 +1,1 @@
-var mnemonic = "canvas custom hurry quality boost pupil sunset ethics angle amazing solution siege";
+var mnemonic = "city hold lottery horn cancel blind disagree limb disorder easily hamster differ";

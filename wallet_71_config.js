@@ -1,1 +1,1 @@
-var mnemonic = "defense glass quote tell damp spend horn pet digital mean swamp athlete";
+var mnemonic = "where media inspire cable endless pink train explain cool clinic tip excess";

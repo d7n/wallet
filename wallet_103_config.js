@@ -1,1 +1,1 @@
-var mnemonic = "differ manage act memory juice attitude brave endorse pupil uniform vehicle method";
+var mnemonic = "multiply boost daring price ride chapter identify own extra crop flame scare";

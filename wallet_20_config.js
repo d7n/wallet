@@ -1,1 +1,1 @@
-var mnemonic = "roof vacant concert hospital close antique wolf midnight isolate youth liquid inmate";
+var mnemonic = "salute rebuild search road soup unlock scrap surprise street glare rate issue";

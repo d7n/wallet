@@ -1,1 +1,1 @@
-var mnemonic = "hour wedding yard tank night interest opinion other human dumb ticket dismiss";
+var mnemonic = "raise together wrong corn together call unveil story devote will achieve knock";

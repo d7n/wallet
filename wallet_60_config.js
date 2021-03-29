@@ -1,1 +1,1 @@
-var mnemonic = "bundle wolf theme afraid dance family amateur life sun wear plug park";
+var mnemonic = "swamp scare enforce stairs broken planet mimic able much update torch brisk";

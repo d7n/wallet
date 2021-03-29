@@ -1,1 +1,1 @@
-var mnemonic = "hero roof calm curious route owner image dance earn portion track laundry";
+var mnemonic = "shy egg hill verb cream margin bind buzz onion season normal badge";

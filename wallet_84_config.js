@@ -1,1 +1,1 @@
-var mnemonic = "nerve system earn mad reject guide boat thrive poet street album husband";
+var mnemonic = "athlete marriage story join celery upon crisp earth clock grant say excess";

@@ -1,1 +1,1 @@
-var mnemonic = "chair people sauce simple journey advice organ future valley canvas yard mutual";
+var mnemonic = "cool auction category whip remember denial lab topple hole mom want device";

@@ -1,1 +1,1 @@
-var mnemonic = "predict limit hold amazing hammer six tuna dress poem loud junior ring";
+var mnemonic = "castle broom screen cereal size fold act eight country view permit borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "word clinic summer perfect cheese cause divorce viable degree wire lyrics beef";
+var mnemonic = "umbrella extend crowd erode tired baby entry wait crunch session ethics shiver";

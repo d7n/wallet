@@ -1,1 +1,1 @@
-var mnemonic = "wrist multiply junior surge runway feature monster fluid coach festival enrich olympic";
+var mnemonic = "soccer scatter tragic industry empower trip clarify wagon trigger slow primary almost";

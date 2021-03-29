@@ -1,1 +1,1 @@
-var mnemonic = "spike link leave moon clever ginger rail good bullet never carbon husband";
+var mnemonic = "air science issue nuclear annual dolphin income uphold ancient scare act celery";

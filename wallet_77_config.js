@@ -1,1 +1,1 @@
-var mnemonic = "hub turn advice answer cargo elevator collect thunder add essay move soap";
+var mnemonic = "surround general traffic prison celery fun ribbon bridge swamp control mail try";

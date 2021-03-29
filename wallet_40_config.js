@@ -1,1 +1,1 @@
-var mnemonic = "snake ivory slice submit dizzy vintage fire guard caught morning record eager";
+var mnemonic = "claim subject syrup industry hazard dress bottom garage little disorder excess ahead";

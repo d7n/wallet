@@ -1,1 +1,1 @@
-var mnemonic = "celery just essence nice maximum dream swear local puppy wonder cage air";
+var mnemonic = "immense donkey giant forget you double trophy buddy drama badge illness race";

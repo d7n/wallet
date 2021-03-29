@@ -1,1 +1,1 @@
-var mnemonic = "subject result sheriff guard struggle banner cereal ramp lunar poem must goose";
+var mnemonic = "physical search seed prevent ready opinion speak pond parade excite engage old";

@@ -1,1 +1,1 @@
-var mnemonic = "quote atom desk argue crucial seat panther waste shy offer glare voice";
+var mnemonic = "fresh thrive hole reunion poem suffer ethics light swing snake sense sea";

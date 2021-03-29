@@ -1,1 +1,1 @@
-var mnemonic = "govern version win upper era toy cool alien hockey sniff rare lucky";
+var mnemonic = "initial invite plastic noble charge umbrella lawn eager company lonely discover spray";

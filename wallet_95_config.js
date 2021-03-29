@@ -1,1 +1,1 @@
-var mnemonic = "thank shrimp capital calm artefact airport drum album stick harbor update eager";
+var mnemonic = "pass amount armed debate sand fiscal seed vintage media brave ill once";

@@ -1,1 +1,1 @@
-var mnemonic = "erosion dose exact civil first token object stairs excuse shed renew illegal";
+var mnemonic = "often hazard raccoon produce action render fish alter atom mimic visual swap";

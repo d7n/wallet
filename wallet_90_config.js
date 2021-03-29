@@ -1,1 +1,1 @@
-var mnemonic = "cement add drift love ice bike energy exhibit prepare pave shine endless";
+var mnemonic = "require cook aspect endorse bring lava always cushion develop hybrid kiss settle";

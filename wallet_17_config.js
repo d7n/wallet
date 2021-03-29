@@ -1,1 +1,1 @@
-var mnemonic = "fatigue spare tower timber final gold civil genuine aerobic truth liar stool";
+var mnemonic = "critic object arrive energy horse enact glory proof truck adapt endless wait";

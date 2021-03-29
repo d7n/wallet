@@ -1,1 +1,1 @@
-var mnemonic = "color mobile double switch combine gorilla swim between mobile gun phrase agree";
+var mnemonic = "girl mule cup kangaroo raise title prevent object swallow tribe dutch between";
