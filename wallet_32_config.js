@@ -1,1 +1,1 @@
-var mnemonic = "into find action link damp parrot dust leg melody nest banner rug";
+var mnemonic = "miss punch pipe naive task twenty shine crack swift crazy enlist cloud";

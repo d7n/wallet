@@ -1,1 +1,1 @@
-var mnemonic = "silver trend exist just glimpse busy bind rescue asset mechanic invest bacon";
+var mnemonic = "useful upper truck visual still drop edge family report alcohol small maximum";

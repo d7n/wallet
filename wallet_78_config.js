@@ -1,1 +1,1 @@
-var mnemonic = "fantasy pottery come vocal solve fork topic rocket neglect marble habit season";
+var mnemonic = "property twenty begin bamboo milk become wall rhythm you end opinion fame";

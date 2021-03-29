@@ -1,1 +1,1 @@
-var mnemonic = "there tennis fancy library pass sun rent lobster reopen assume wagon stuff";
+var mnemonic = "debris outer kangaroo blanket fix hen crunch vintage nation decrease knee senior";

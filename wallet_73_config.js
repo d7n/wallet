@@ -1,1 +1,1 @@
-var mnemonic = "always tail share column praise deposit weather taste oxygen battle obscure meadow";
+var mnemonic = "impose dilemma remain bonus aspect color holiday fury neutral village rural economy";

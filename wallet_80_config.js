@@ -1,1 +1,1 @@
-var mnemonic = "head bundle creek board later velvet mind swamp fun critic mosquito punch";
+var mnemonic = "mule describe airport equip elephant kangaroo chicken vast way shift atom relief";

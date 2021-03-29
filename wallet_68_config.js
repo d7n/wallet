@@ -1,1 +1,1 @@
-var mnemonic = "erupt kingdom bring express market athlete abstract cloth frozen actual clinic trim";
+var mnemonic = "claw mystery outdoor eye script grab away curve mesh museum museum lizard";

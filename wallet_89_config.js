@@ -1,1 +1,1 @@
-var mnemonic = "entry aisle spoon word side arrange enforce grape speak verify piece neutral";
+var mnemonic = "orphan spoil bulb guess celery ceiling diet traffic access wood morning vast";

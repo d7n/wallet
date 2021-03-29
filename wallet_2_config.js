@@ -1,1 +1,1 @@
-var mnemonic = "valve flame pact side pupil oblige mystery shaft distance innocent piano attack";
+var mnemonic = "old zebra cake smoke endless wisdom guide asthma note dinner analyst symbol";

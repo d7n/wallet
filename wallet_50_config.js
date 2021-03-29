@@ -1,1 +1,1 @@
-var mnemonic = "hub later scan misery damage concert code weird genius success web poverty";
+var mnemonic = "vendor jar shadow correct riot polar oak state select gaze economy level";

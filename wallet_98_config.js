@@ -1,1 +1,1 @@
-var mnemonic = "poet tomorrow gasp quality penalty agree broken wrist pioneer erupt control catch";
+var mnemonic = "sock camp drop absent shed execute found exchange where sauce razor mom";

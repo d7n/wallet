@@ -1,1 +1,1 @@
-var mnemonic = "nature clever acid remind cost very change page trash process grain riot";
+var mnemonic = "short wrestle need mail fluid muffin rib fabric crush media border network";

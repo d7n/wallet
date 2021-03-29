@@ -1,1 +1,1 @@
-var mnemonic = "kitten emerge job exchange dog galaxy perfect rocket prosper message village kitten";
+var mnemonic = "journey attitude carbon oppose tired lab sail pet cricket february treat glide";

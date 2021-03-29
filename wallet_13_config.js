@@ -1,1 +1,1 @@
-var mnemonic = "warm taste trouble hair arm ten rocket frog vivid ribbon size master";
+var mnemonic = "siege grant spike price ostrich tide snack minute shift twist ready taxi";

@@ -1,1 +1,1 @@
-var mnemonic = "joke combine embrace crime ridge barely rich amount zoo bridge birth farm";
+var mnemonic = "among access win dutch shoe illness embrace aspect quick clever left alley";

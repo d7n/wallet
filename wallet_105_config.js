@@ -1,1 +1,1 @@
-var mnemonic = "suggest cover client kiwi remember swear fuel target borrow deny siege ranch";
+var mnemonic = "cattle hope boost sail final twist pulp maximum dinner decade unfold mechanic";

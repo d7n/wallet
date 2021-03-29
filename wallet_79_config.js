@@ -1,1 +1,1 @@
-var mnemonic = "width anger typical similar ski soul rural slow spirit animal web plug";
+var mnemonic = "happy exist soon attack walnut race develop peanut debate exhibit best series";

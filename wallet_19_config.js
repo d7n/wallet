@@ -1,1 +1,1 @@
-var mnemonic = "another mistake dog spend leopard curious swim decade knock rose unaware car";
+var mnemonic = "master ski hedgehog miss salon wage basic stool fatal garlic wonder life";

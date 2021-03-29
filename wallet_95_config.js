@@ -1,1 +1,1 @@
-var mnemonic = "cruise happy oyster advice embody obscure cushion want spray prefer fitness cigar";
+var mnemonic = "blind film worth organ hold legal floor fabric anchor ozone thumb erupt";

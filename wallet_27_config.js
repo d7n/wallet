@@ -1,1 +1,1 @@
-var mnemonic = "clutch couch equip rescue eagle bargain link theory setup crew coach acquire";
+var mnemonic = "diagram shrug legal cool taste affair normal three state hold alley sample";

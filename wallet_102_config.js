@@ -1,1 +1,1 @@
-var mnemonic = "mandate attend deputy peanut share current tiger typical verb version upon cousin";
+var mnemonic = "require index knock music eager mix warm honey gentle travel donate mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "three easily cash hill fuel myth prefer correct hood farm dinner myth";
+var mnemonic = "napkin guard bulk source narrow team slender celery volume slender alien round";

@@ -1,1 +1,1 @@
-var mnemonic = "silent inquiry popular shallow renew raven tobacco inch fun organ lamp narrow";
+var mnemonic = "oblige breeze winter quote bachelor issue piano marble lunar mind balcony play";

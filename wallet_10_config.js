@@ -1,1 +1,1 @@
-var mnemonic = "police unknown vote exchange harbor book sight diagram crane know pair change";
+var mnemonic = "artwork yellow napkin simple hurdle quote bone present fragile alcohol improve seed";

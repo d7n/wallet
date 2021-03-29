@@ -1,1 +1,1 @@
-var mnemonic = "remove hard frost buffalo example palm version canyon transfer layer junk genre";
+var mnemonic = "blossom vacant lava chest snake enroll ankle kidney slab often baby proud";

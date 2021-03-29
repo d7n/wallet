@@ -1,1 +1,1 @@
-var mnemonic = "design right train habit angry combine color long nest still hero sister";
+var mnemonic = "butter zero soda trumpet hand weekend equip fitness apart grass ladder moment";

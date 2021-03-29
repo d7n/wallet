@@ -1,1 +1,1 @@
-var mnemonic = "notable want force tomorrow october tackle promote write six social liquid what";
+var mnemonic = "space trumpet improve borrow basic wear elbow empty earth lock analyst little";

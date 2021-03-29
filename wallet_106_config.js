@@ -1,1 +1,1 @@
-var mnemonic = "include alone dove letter wide cool trigger stereo chimney cargo two print";
+var mnemonic = "meadow wire assume carpet leader often bundle badge satoshi scrub series grocery";

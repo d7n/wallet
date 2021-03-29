@@ -1,1 +1,1 @@
-var mnemonic = "silk snow target reunion track void age pledge spring state oil limit";
+var mnemonic = "amused asset actual drive point seven gravity human shield step ask notice";

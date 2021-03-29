@@ -1,1 +1,1 @@
-var mnemonic = "october owner anger diesel duty close fragile cake brass enough blossom metal";
+var mnemonic = "kit meadow sick ecology swap measure tank vibrant appear live panda opera";

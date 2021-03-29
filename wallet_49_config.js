@@ -1,1 +1,1 @@
-var mnemonic = "subway adjust please faint detect main trick onion trial idle certain army";
+var mnemonic = "media village belt salon noise cake boss assault wet sell exercise rib";

@@ -1,1 +1,1 @@
-var mnemonic = "approve decrease gap tag sketch horn eternal also panel reunion happy item";
+var mnemonic = "arrive jacket trophy nut favorite rebel enjoy test peanut release leg myself";

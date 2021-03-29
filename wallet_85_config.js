@@ -1,1 +1,1 @@
-var mnemonic = "life dolphin library confirm shove tank bleak legal fetch fringe canoe loud";
+var mnemonic = "plate vast obvious glove fury capable fuel squeeze essay scare skirt pond";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle update umbrella jaguar horse gallery average total path cancel various waste";
+var mnemonic = "kite short quit average diamond test trade never play day eight depend";

@@ -1,1 +1,1 @@
-var mnemonic = "trouble panda hamster today aerobic clutch spy dry retire bone end museum";
+var mnemonic = "empower orbit retire run inside wash liar hurdle first oak control simple";

@@ -1,1 +1,1 @@
-var mnemonic = "april age outside drip poet chest deposit unhappy polar mandate few fly";
+var mnemonic = "used shove april dragon angle ship gain before health never poem picnic";

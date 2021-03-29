@@ -1,1 +1,1 @@
-var mnemonic = "into humble ankle tissue friend blue tribe hello tool invite grab hurdle";
+var mnemonic = "just teach join neutral survey nose glue bench response team issue muffin";

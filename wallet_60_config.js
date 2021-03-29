@@ -1,1 +1,1 @@
-var mnemonic = "board kiss lemon desk pear work teach noodle hundred glance reason time";
+var mnemonic = "train spread error vote same leaf barrel body express mosquito chicken put";

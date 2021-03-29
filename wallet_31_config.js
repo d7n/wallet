@@ -1,1 +1,1 @@
-var mnemonic = "umbrella right vapor above obtain excess pride enough emerge pact album olive";
+var mnemonic = "cost thought disease speak live property parade forget gallery cage opera ritual";

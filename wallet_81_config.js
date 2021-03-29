@@ -1,1 +1,1 @@
-var mnemonic = "border expose duck bracket giant there pulp father remain fan account social";
+var mnemonic = "drip drink fluid habit hen hard man lake alcohol random admit slab";

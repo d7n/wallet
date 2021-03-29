@@ -1,1 +1,1 @@
-var mnemonic = "gun zoo swear tide vault drift champion path crane raven question comic";
+var mnemonic = "tone sniff option camera few miracle shoulder good usual act patient sad";

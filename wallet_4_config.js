@@ -1,1 +1,1 @@
-var mnemonic = "foot silent vast whip mesh large bubble prison modify cube lab cruel";
+var mnemonic = "picnic whale army patient report later bring original keen credit nominee curious";

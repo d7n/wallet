@@ -1,1 +1,1 @@
-var mnemonic = "eye evolve vibrant cargo sting thunder abstract chaos easily amount gravity lend";
+var mnemonic = "install aware wagon escape install pulse humor crouch machine card kit pitch";

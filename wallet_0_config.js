@@ -1,1 +1,1 @@
-var mnemonic = "story fringe keen certain marriage stay silly myth person tank donate name";
+var mnemonic = "general picnic reform over project theme garlic knock choose model birth crew";

@@ -1,1 +1,1 @@
-var mnemonic = "humor must fatal arrive cabin discover bachelor girl depend man tongue tomato";
+var mnemonic = "elegant clump retreat buzz bring smart arctic below random adjust oxygen bench";

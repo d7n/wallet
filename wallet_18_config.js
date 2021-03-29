@@ -1,1 +1,1 @@
-var mnemonic = "body toe gauge divert mask bargain arctic organ soap cream token bonus";
+var mnemonic = "key youth wife pool tilt mail bottom cube cycle fatigue marine slush";

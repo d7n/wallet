@@ -1,1 +1,1 @@
-var mnemonic = "vacant cook meadow battle duck march naive medal powder virus analyst into";
+var mnemonic = "response inner merit shield unknown rubber steak husband share bleak under sick";

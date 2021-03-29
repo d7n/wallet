@@ -1,1 +1,1 @@
-var mnemonic = "negative pull thrive catalog absurd draft child buyer raw nuclear run mobile";
+var mnemonic = "debate cute lesson camp seminar room put tide flat tree joke any";

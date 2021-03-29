@@ -1,1 +1,1 @@
-var mnemonic = "speed pull flock raccoon other fox pig cheese ticket window absurd quantum";
+var mnemonic = "drive security fabric nice bean estate october dog hollow universe trap turtle";

@@ -1,1 +1,1 @@
-var mnemonic = "high relax dirt fee camera ship pave mistake thrive pool surround minimum";
+var mnemonic = "fat pyramid pupil cattle elbow moment salmon milk idea hand coach arena";

@@ -1,1 +1,1 @@
-var mnemonic = "fire utility make limit confirm argue antenna man chronic need stick extend";
+var mnemonic = "mean sudden essay subject simple allow eagle dirt among crawl hole depth";

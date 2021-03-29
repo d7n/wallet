@@ -1,1 +1,1 @@
-var mnemonic = "unit exchange deliver mixed antique output rigid side around artist raven mandate";
+var mnemonic = "sausage dinner hill man addict point fold muscle aunt wheat cancel soap";

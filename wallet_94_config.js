@@ -1,1 +1,1 @@
-var mnemonic = "mystery outer near slice smart ability beef rely air outdoor idea pilot";
+var mnemonic = "prefer surface fish pudding story course drama path eye law exit hobby";

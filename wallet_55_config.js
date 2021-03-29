@@ -1,1 +1,1 @@
-var mnemonic = "ridge trap junior basic corn dash burst engine security payment dog hamster";
+var mnemonic = "shed candy soul arrange undo scene comfort whale pet wing trial hawk";

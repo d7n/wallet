@@ -1,1 +1,1 @@
-var mnemonic = "argue sweet ten nothing parade whisper caution visa season game caught gloom";
+var mnemonic = "tomorrow south two clap polar index during gorilla stereo ridge october curve";

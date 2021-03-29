@@ -1,1 +1,1 @@
-var mnemonic = "execute muscle often punch lecture girl speed entry fat junior spawn abuse";
+var mnemonic = "raven possible appear liberty manage solar idle boost distance april fiscal choose";

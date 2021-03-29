@@ -1,1 +1,1 @@
-var mnemonic = "quit moment repair match success glass torch stable soda ecology mule merit";
+var mnemonic = "talk truck swarm arena human scale fetch twin month mansion captain bag";

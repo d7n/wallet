@@ -1,1 +1,1 @@
-var mnemonic = "feel purity insane spot design cake century drama plug gauge drum only";
+var mnemonic = "warfare cycle action fitness jaguar chat student remove cost huge risk belt";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator biology hundred remove weapon rail carry machine deal payment width shallow";
+var mnemonic = "town airport town skirt skirt volcano amazing oil result maze inquiry upon";

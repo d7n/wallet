@@ -1,1 +1,1 @@
-var mnemonic = "good future fold coconut hawk coast nothing gadget pencil method bridge clump";
+var mnemonic = "develop cotton just skill jar auto vivid chapter erupt arch student travel";

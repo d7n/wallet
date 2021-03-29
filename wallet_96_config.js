@@ -1,1 +1,1 @@
-var mnemonic = "image parade kind ankle all normal become warm spray era nuclear melt";
+var mnemonic = "clean gorilla spawn nurse smile affair flag idle knife orphan interest notable";

@@ -1,1 +1,1 @@
-var mnemonic = "abstract fetch dutch cradle despair check grant month girl young traffic vintage";
+var mnemonic = "album crater error opinion spawn nose meat pitch rich small stereo avoid";

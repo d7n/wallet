@@ -1,1 +1,1 @@
-var mnemonic = "install armor album protect carry inspire gauge horn party quarter mosquito dinosaur";
+var mnemonic = "inmate obscure gospel size village clump tomato tennis fiction umbrella universe essence";

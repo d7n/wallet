@@ -1,1 +1,1 @@
-var mnemonic = "enough frame bounce aspect below sport other cargo can canoe worry heart";
+var mnemonic = "warfare rhythm finish open choose enemy brain wash mass autumn armor inject";

@@ -1,1 +1,1 @@
-var mnemonic = "absent comfort guard tank comic exhaust hope beef salad habit monkey arrest";
+var mnemonic = "person betray already city devote west carpet peasant require provide wedding toy";

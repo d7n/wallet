@@ -1,1 +1,1 @@
-var mnemonic = "lamp boil fish type fitness olympic smoke will decade argue flock lab";
+var mnemonic = "dune uncle dune ten orchard science mushroom code nerve spray alone rain";

@@ -1,1 +1,1 @@
-var mnemonic = "cattle settle resource idea can doll father poet useless shiver pause vague";
+var mnemonic = "flee pink brick police lunar embrace naive agent permit much machine someone";

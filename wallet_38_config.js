@@ -1,1 +1,1 @@
-var mnemonic = "response birth rural gravity wave pass lyrics riot tower render common damp";
+var mnemonic = "edit balcony minor bitter shrimp erosion spoil track balcony express lion spoon";

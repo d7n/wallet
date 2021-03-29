@@ -1,1 +1,1 @@
-var mnemonic = "action hundred sound split paper mixed bench tube because medal camp labor";
+var mnemonic = "involve gravity mango version visit three dial control drop shuffle bridge chair";

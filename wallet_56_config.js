@@ -1,1 +1,1 @@
-var mnemonic = "runway abuse bubble lab link task often token shrimp isolate wagon rocket";
+var mnemonic = "stay slogan there convince client window wagon evoke eyebrow ring weather maximum";

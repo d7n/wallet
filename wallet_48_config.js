@@ -1,1 +1,1 @@
-var mnemonic = "turtle climb hurry session merit avocado donor exist equal satoshi wear electric";
+var mnemonic = "video gospel blade want claim razor math found master strike banner fame";

@@ -1,1 +1,1 @@
-var mnemonic = "winter siege gesture current advance scout decline birth advice average riot shine";
+var mnemonic = "future rookie floor craft input wild guard custom coil faculty uphold lyrics";

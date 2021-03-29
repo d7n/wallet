@@ -1,1 +1,1 @@
-var mnemonic = "exercise filter myth exclude silver live tower deposit disease language side hamster";
+var mnemonic = "audit bachelor cream west idle cute decide sample sorry congress immense spy";

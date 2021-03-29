@@ -1,1 +1,1 @@
-var mnemonic = "spring manage tide great dentist car dolphin fiction clock maze blade tongue";
+var mnemonic = "large outside cliff wine prevent whisper vessel destroy game february glide usual";

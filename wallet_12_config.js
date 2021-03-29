@@ -1,1 +1,1 @@
-var mnemonic = "enroll divide rigid arrest cotton cushion clog excuse creek minute nice broom";
+var mnemonic = "occur hundred love family monster surface differ elbow garage attend found remind";

@@ -1,1 +1,1 @@
-var mnemonic = "stem trash correct hire advance dutch kick fish friend wash ancient melody";
+var mnemonic = "ride air glare love giggle follow language develop primary fit need toilet";

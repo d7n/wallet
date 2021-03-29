@@ -1,1 +1,1 @@
-var mnemonic = "annual panda mimic analyst group chair tackle execute educate ridge dish salad";
+var mnemonic = "grant bleak height river galaxy boy loud decrease response dragon lazy swing";

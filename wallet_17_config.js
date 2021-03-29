@@ -1,1 +1,1 @@
-var mnemonic = "soup common lumber foam gesture era magic cabin seven kitten pyramid depth";
+var mnemonic = "hero room eye patrol truck hub carpet proud pretty mirror surge betray";

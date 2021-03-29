@@ -1,1 +1,1 @@
-var mnemonic = "clever core expand moral glory dismiss try drill broccoli message pioneer grit";
+var mnemonic = "govern hurdle bundle birth false solar fruit favorite inner live subject latin";

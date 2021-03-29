@@ -1,1 +1,1 @@
-var mnemonic = "found tone ahead wall beauty decorate myth wedding mass enter effort slab";
+var mnemonic = "harvest draft rude where own pledge bean cycle cross stairs million poet";

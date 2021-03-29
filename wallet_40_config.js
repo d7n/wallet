@@ -1,1 +1,1 @@
-var mnemonic = "cement absorb program air little forest butter type loop front develop already";
+var mnemonic = "want skate slide finish say service swallow emotion slow throw version shell";

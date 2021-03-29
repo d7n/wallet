@@ -1,1 +1,1 @@
-var mnemonic = "donor tank result surface west ring index suit pass multiply hurt picnic";
+var mnemonic = "upgrade dolphin network token inch resist mechanic warfare exercise multiply deputy library";

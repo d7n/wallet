@@ -1,1 +1,1 @@
-var mnemonic = "extra exact bird warm window okay mesh crane remind strike capable inhale";
+var mnemonic = "stamp require trust trouble wreck strategy father double mosquito huge slogan speak";

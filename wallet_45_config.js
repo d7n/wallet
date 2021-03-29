@@ -1,1 +1,1 @@
-var mnemonic = "area siren immune curious into edit pigeon edit great tobacco road embody";
+var mnemonic = "domain door fan jacket march kiss unhappy fluid sick volume loud subway";

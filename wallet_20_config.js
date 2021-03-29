@@ -1,1 +1,1 @@
-var mnemonic = "spread hockey wet someone royal lamp glove iron coil relax pass solar";
+var mnemonic = "dynamic live build ring away shift dolphin soul increase concert sustain release";

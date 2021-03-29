@@ -1,1 +1,1 @@
-var mnemonic = "route orange island fatal fire series ethics travel canoe shock spend alarm";
+var mnemonic = "genius bullet torch sick motion globe movie eye tip tilt void carry";

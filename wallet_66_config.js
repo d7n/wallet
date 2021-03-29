@@ -1,1 +1,1 @@
-var mnemonic = "cart jeans dynamic sorry ginger upon dash cousin purchase august write ginger";
+var mnemonic = "wrestle net bottom spare melt funny grass hip decline cage level sort";

@@ -1,1 +1,1 @@
-var mnemonic = "dance thing viable gown wash memory prevent bargain coast chimney undo industry";
+var mnemonic = "august gesture abandon horror lunch pumpkin firm survey grain control segment duty";

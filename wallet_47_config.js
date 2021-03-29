@@ -1,1 +1,1 @@
-var mnemonic = "slice nurse salad sister mass color indoor kitten various forward awake couch";
+var mnemonic = "coast utility few day category cart item library hill knee hurdle network";

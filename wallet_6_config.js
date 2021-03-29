@@ -1,1 +1,1 @@
-var mnemonic = "arena sister place effort cross session hair often ozone chunk energy town";
+var mnemonic = "wide load viable dizzy animal dice race artist rhythm sword strategy inspire";

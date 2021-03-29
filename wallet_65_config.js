@@ -1,1 +1,1 @@
-var mnemonic = "light demise keen shadow tool foil dwarf fuel follow news crowd gadget";
+var mnemonic = "nurse hospital hospital pig exist tilt hip wasp normal zone best muffin";

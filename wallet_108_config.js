@@ -1,1 +1,1 @@
-var mnemonic = "motion supreme round garbage deliver figure bottom elevator tourist wedding turkey exchange";
+var mnemonic = "hungry dizzy march gossip monitor demand notice twin primary best about exhibit";

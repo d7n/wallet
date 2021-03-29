@@ -1,1 +1,1 @@
-var mnemonic = "debris submit pupil put noble punch devote draw rich judge avocado cry";
+var mnemonic = "humble crack enter mother analyst rich wing search cave unveil saddle alter";

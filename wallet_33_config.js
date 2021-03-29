@@ -1,1 +1,1 @@
-var mnemonic = "hurt human enjoy over trim begin girl elegant annual viable forest vault";
+var mnemonic = "roof glass zebra world give gentle error soup stick focus bargain front";
