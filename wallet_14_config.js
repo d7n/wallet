@@ -1,1 +1,1 @@
-var mnemonic = "civil desert soccer title broccoli alien sort wagon aisle glide gun omit";
+var mnemonic = "result share unable warfare cube sibling current net midnight banner chuckle turn";

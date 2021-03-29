@@ -1,1 +1,1 @@
-var mnemonic = "desert certain broken adapt already tackle apart spawn dose luxury kitchen deposit";
+var mnemonic = "tissue love donate want alert kite laptop treat hungry pulse blush purse";

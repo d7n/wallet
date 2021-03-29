@@ -1,1 +1,1 @@
-var mnemonic = "predict bulk enter hood salmon track submit sauce razor trigger hand area";
+var mnemonic = "pass system size silk fiction wet rubber squirrel genre age virtual hundred";

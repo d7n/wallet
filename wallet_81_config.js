@@ -1,1 +1,1 @@
-var mnemonic = "marine impact eight woman catch impose rare blind guilt skirt corn alarm";
+var mnemonic = "shoot illness apple level either grief crop piano gesture actor endorse wild";

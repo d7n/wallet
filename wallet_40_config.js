@@ -1,1 +1,1 @@
-var mnemonic = "region wolf remove park topic search pitch adult surprise mountain leader quarter";
+var mnemonic = "appear soup armed second swift sugar strike company wave nice palace crouch";

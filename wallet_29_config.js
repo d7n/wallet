@@ -1,1 +1,1 @@
-var mnemonic = "balcony maximum dizzy misery shell cruise wink glue steel crumble faith lonely";
+var mnemonic = "amateur width corn into poverty lab air casual amazing cargo despair stable";

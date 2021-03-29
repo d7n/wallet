@@ -1,1 +1,1 @@
-var mnemonic = "express donate chicken width bullet search frozen maze one enhance museum bird";
+var mnemonic = "coffee siege obscure wool push uncle gadget table change chalk shaft frost";

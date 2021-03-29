@@ -1,1 +1,1 @@
-var mnemonic = "basic hobby jar clump tuition senior all sunset company spend essence capital";
+var mnemonic = "wise garlic rotate hint novel school push weird ankle divide boat innocent";

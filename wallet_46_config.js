@@ -1,1 +1,1 @@
-var mnemonic = "wink vacant armor habit borrow legal slow inflict arrest refuse style improve";
+var mnemonic = "walk original embody random drastic auction smooth zero emotion denial escape property";

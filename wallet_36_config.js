@@ -1,1 +1,1 @@
-var mnemonic = "shed muscle age ginger season cloth body hair entire usual pattern illegal";
+var mnemonic = "initial enlist yard diet taxi video chuckle grass crisp beyond duty fruit";

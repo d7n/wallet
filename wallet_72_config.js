@@ -1,1 +1,1 @@
-var mnemonic = "east upset evoke sail spell muscle fragile mouse tragic mosquito fortune win";
+var mnemonic = "polar morning normal force shiver matter tail goddess input paddle limit present";

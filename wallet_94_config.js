@@ -1,1 +1,1 @@
-var mnemonic = "proof small sense despair wish include fit daring catch quality total patrol";
+var mnemonic = "charge orient pupil broccoli grape side stool unaware cool plunge pottery mimic";

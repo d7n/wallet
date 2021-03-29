@@ -1,1 +1,1 @@
-var mnemonic = "bonus machine mad worth glimpse spoon wisdom gentle list sauce same cake";
+var mnemonic = "burst agent bone grocery boy reduce biology appear hockey stool caught gold";

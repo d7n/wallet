@@ -1,1 +1,1 @@
-var mnemonic = "employ like august human chef good curtain bike family fashion nose behave";
+var mnemonic = "wealth gather page scatter unlock pipe grab rival jewel age illegal author";

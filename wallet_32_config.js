@@ -1,1 +1,1 @@
-var mnemonic = "thing harvest account swim oak almost direct job someone portion sad confirm";
+var mnemonic = "ski you security kitten clay wheel act bench fiber beyond drum charge";

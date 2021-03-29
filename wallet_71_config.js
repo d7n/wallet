@@ -1,1 +1,1 @@
-var mnemonic = "fabric demise network atom cake wild shaft arrive cage anchor noise nurse";
+var mnemonic = "wild tissue blossom all joke item trip faculty feel call arm copper";

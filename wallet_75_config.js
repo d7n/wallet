@@ -1,1 +1,1 @@
-var mnemonic = "notable outside water test end become peasant unaware bone sniff volcano roast";
+var mnemonic = "report choice caution search debate moment differ parrot doctor inside runway inspire";

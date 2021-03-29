@@ -1,1 +1,1 @@
-var mnemonic = "find accident simple tent chef proof viable amazing melody buyer home flavor";
+var mnemonic = "marine stay thrive push favorite region orbit soon crime swim casino stone";

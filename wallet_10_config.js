@@ -1,1 +1,1 @@
-var mnemonic = "twin occur congress faith absurd lumber parade evolve gravity pet possible offer";
+var mnemonic = "hill pony lizard luggage antique gas dignity elegant gift critic divert state";

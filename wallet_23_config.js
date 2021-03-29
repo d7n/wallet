@@ -1,1 +1,1 @@
-var mnemonic = "frost mimic whip undo crack tape exotic spot owner industry imitate sword";
+var mnemonic = "must right energy topic place march mimic road model position grocery shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "picture stock love trade obvious attack riot nuclear actress actual unusual day";
+var mnemonic = "father catch excess consider bubble simple pass rude defense frog chase damage";

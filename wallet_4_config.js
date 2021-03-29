@@ -1,1 +1,1 @@
-var mnemonic = "artist lamp unfair connect layer rail orbit artwork improve pink mean oil";
+var mnemonic = "invite neglect bless hat mask gauge diet learn screen destroy anxiety online";

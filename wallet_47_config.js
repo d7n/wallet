@@ -1,1 +1,1 @@
-var mnemonic = "humble speak valley link spoon ill maze frozen eagle mouse photo build";
+var mnemonic = "holiday sniff throw dragon dwarf word aerobic erode someone spike extra void";

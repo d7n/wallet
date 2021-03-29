@@ -1,1 +1,1 @@
-var mnemonic = "public theory across endless second trip zero pupil frequent angle message imitate";
+var mnemonic = "slush enter lady capital weird dog matrix charge debate coral obscure company";

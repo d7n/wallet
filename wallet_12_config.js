@@ -1,1 +1,1 @@
-var mnemonic = "muscle will mixed human short neck guilt since gain stay rabbit diagram";
+var mnemonic = "sun convince please bind nose often truly brief observe dance buddy isolate";

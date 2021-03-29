@@ -1,1 +1,1 @@
-var mnemonic = "satoshi visual idea day health knee cruel rent job cement property enroll";
+var mnemonic = "silver aerobic measure video stumble ranch rhythm only sea monster meadow uncover";

@@ -1,1 +1,1 @@
-var mnemonic = "shaft turn license come punch vote still accident kick chair hire present";
+var mnemonic = "throw island rough shift airport tag never educate scale diary bean essence";

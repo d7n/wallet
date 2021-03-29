@@ -1,1 +1,1 @@
-var mnemonic = "play have oval traffic garage polar van real riot clinic gain lawn";
+var mnemonic = "west apology virtual report hedgehog make police verify cloth tape ugly cinnamon";

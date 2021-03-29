@@ -1,1 +1,1 @@
-var mnemonic = "post universe salt infant horn clay govern laugh depth help raise flee";
+var mnemonic = "protect analyst obtain cost that crystal glide nasty olive twelve fuel review";

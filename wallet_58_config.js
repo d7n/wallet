@@ -1,1 +1,1 @@
-var mnemonic = "often sniff crouch north strategy furnace bitter equip hamster disorder couch sting";
+var mnemonic = "deputy physical deliver buddy wheel lamp patient save debris already resist detail";

@@ -1,1 +1,1 @@
-var mnemonic = "endless work notable expire glance pear zero biology coyote wage draw culture";
+var mnemonic = "water recall believe later grape banner misery veteran chicken donor scare manual";

@@ -1,1 +1,1 @@
-var mnemonic = "piano material alien chicken village bring above exotic process worry assault spring";
+var mnemonic = "unit quick universe main employ track square crunch define sand mesh market";

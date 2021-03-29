@@ -1,1 +1,1 @@
-var mnemonic = "major average nose rose rocket develop dance sponsor unique fame cross brass";
+var mnemonic = "grant tank purse milk wish salute inflict average fitness casual raise gravity";

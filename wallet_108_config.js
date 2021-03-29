@@ -1,1 +1,1 @@
-var mnemonic = "moment night fringe paddle off staff modify dentist believe brass tired primary";
+var mnemonic = "layer supreme hazard initial page stage detail symbol original ship heavy message";

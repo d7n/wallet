@@ -1,1 +1,1 @@
-var mnemonic = "forward place dad process evoke hire symptom all middle discover hollow noise";
+var mnemonic = "kiwi record copy camera guilt chief fuel city please power wealth deer";

@@ -1,1 +1,1 @@
-var mnemonic = "grab step blast taxi member wash parade train exhibit venue claw foot";
+var mnemonic = "asthma flat witness shell cross obtain cat run laptop clutch ritual milk";

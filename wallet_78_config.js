@@ -1,1 +1,1 @@
-var mnemonic = "connect bomb neglect cricket save dinosaur effort animal whip unusual file elegant";
+var mnemonic = "sad rebuild category coast begin waste detect decade tornado cruise lamp immense";

@@ -1,1 +1,1 @@
-var mnemonic = "feel funny panda run pair cabin dinner champion pledge omit grain boring";
+var mnemonic = "glare update switch slogan monitor bacon actress chief endorse paddle amount edge";

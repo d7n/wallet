@@ -1,1 +1,1 @@
-var mnemonic = "ethics rare figure timber lazy one found wreck risk net error idle";
+var mnemonic = "wisdom spirit puzzle legend pen claw height shell violin since outside short";

@@ -1,1 +1,1 @@
-var mnemonic = "blast deer want local salt tag include hover dance attitude forest cereal";
+var mnemonic = "kick start over riot armed wagon defense evidence convince run permit obscure";

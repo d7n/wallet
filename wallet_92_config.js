@@ -1,1 +1,1 @@
-var mnemonic = "apart bracket result boy frost note fruit bid fringe scale move market";
+var mnemonic = "case elite analyst fluid gap borrow begin attend rug grab boat collect";

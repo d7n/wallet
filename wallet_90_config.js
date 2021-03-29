@@ -1,1 +1,1 @@
-var mnemonic = "creek burden result weasel custom cute faculty once change wisdom never yard";
+var mnemonic = "crouch stereo settle blind era raccoon attract next recipe shaft future dawn";

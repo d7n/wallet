@@ -1,1 +1,1 @@
-var mnemonic = "episode soup above coil impose embark climb cherry mean volume catch snack";
+var mnemonic = "dynamic ten pulse mixed canvas staff carpet direct tank virtual machine tent";

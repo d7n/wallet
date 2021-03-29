@@ -1,1 +1,1 @@
-var mnemonic = "velvet pass six donkey elder choice canvas knee bean cricket distance prepare";
+var mnemonic = "arrow camp uncover cereal knee series certain benefit boat index thing regret";

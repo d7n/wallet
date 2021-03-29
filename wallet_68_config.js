@@ -1,1 +1,1 @@
-var mnemonic = "cry comic marriage shadow dutch balance student satoshi front multiply identify amount";
+var mnemonic = "scale luggage custom visa ancient history betray swing inflict prefer provide thought";

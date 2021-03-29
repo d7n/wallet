@@ -1,1 +1,1 @@
-var mnemonic = "unfair essay obey marine poet anchor coral cute crush primary brisk silent";
+var mnemonic = "dress leopard about antenna perfect chef ripple giant lake soldier force satisfy";

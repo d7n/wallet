@@ -1,1 +1,1 @@
-var mnemonic = "cable left sweet exit wreck web access save bulb elevator maple daring";
+var mnemonic = "pig panther barrel insane salad hurry pave welcome leader merit describe female";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin traffic crucial shoulder high frog draft crisp coconut used inhale assault";
+var mnemonic = "have timber august nominee grunt few seed scout wet food aspect move";

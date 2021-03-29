@@ -1,1 +1,1 @@
-var mnemonic = "agent alpha tiny critic area prepare arrest image pepper key hub rookie";
+var mnemonic = "short dragon foster fringe copper wing web dish minute glue solution canyon";

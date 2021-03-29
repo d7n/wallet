@@ -1,1 +1,1 @@
-var mnemonic = "thunder vicious fold prefer strike normal meadow dry hold smoke express weather";
+var mnemonic = "obvious scrub essay bubble century hero entire slush coast rabbit bulb camera";

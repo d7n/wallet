@@ -1,1 +1,1 @@
-var mnemonic = "film fresh exchange canal crunch repair toss cable globe today funny cabin";
+var mnemonic = "shoe million wolf actor day aim melt eager still animal mountain crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "trash tool minimum blossom faith phrase acquire cube fluid step copper bind";
+var mnemonic = "reveal rich radar nation sand pepper light kitten shed apple buddy deliver";

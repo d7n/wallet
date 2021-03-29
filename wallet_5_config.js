@@ -1,1 +1,1 @@
-var mnemonic = "wine reject filter cannon coil toast nest suit rebuild nurse unlock print";
+var mnemonic = "crack nice tip resist open happy circle broccoli nominee mass pilot kiwi";

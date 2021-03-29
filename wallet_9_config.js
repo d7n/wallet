@@ -1,1 +1,1 @@
-var mnemonic = "panda kitchen elephant badge similar fly other fortune begin teach reject large";
+var mnemonic = "region rude dance virtual occur produce tired invest ramp foster half detail";

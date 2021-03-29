@@ -1,1 +1,1 @@
-var mnemonic = "nasty always sure anger around that page pudding adapt elevator divert giraffe";
+var mnemonic = "fence mirror uncle scrub void spider fee fruit flat kidney tortoise boring";

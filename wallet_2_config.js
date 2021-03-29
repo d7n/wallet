@@ -1,1 +1,1 @@
-var mnemonic = "cost render letter dumb asset mixed valve inspire joy drive wrong simple";
+var mnemonic = "tank spider foster empty vanish goat peace fatigue party color wish alien";

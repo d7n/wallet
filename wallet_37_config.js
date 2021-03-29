@@ -1,1 +1,1 @@
-var mnemonic = "car flock nasty insane pipe unique critic wheat gift mother destroy vapor";
+var mnemonic = "bitter clip work potato inherit zebra crisp rural solve athlete patch lunch";

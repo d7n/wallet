@@ -1,1 +1,1 @@
-var mnemonic = "enable kiwi bunker dress melt practice barely flat normal maple case neither";
+var mnemonic = "truth step wire net polar speed basic ankle indoor release fortune model";

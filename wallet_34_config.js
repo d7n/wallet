@@ -1,1 +1,1 @@
-var mnemonic = "satisfy skill delay tragic emerge scrub ridge three august hazard waste quarter";
+var mnemonic = "burden cousin quiz album mix real gas phone casual success liquid because";

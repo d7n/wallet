@@ -1,1 +1,1 @@
-var mnemonic = "ceiling symptom talent orbit nose walk pilot knee pilot river cart census";
+var mnemonic = "rival bullet layer language pink quantum sense cash glove ghost void blood";

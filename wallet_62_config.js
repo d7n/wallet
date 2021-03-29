@@ -1,1 +1,1 @@
-var mnemonic = "false leg wire bitter winner shoulder popular people few either right pulp";
+var mnemonic = "deal minimum decorate quote wisdom shed assist strong worth display phone injury";

@@ -1,1 +1,1 @@
-var mnemonic = "above pulse thunder brave step multiply bleak away canal divorce matter pig";
+var mnemonic = "stadium floor height sphere require present silent blouse clip bless since remain";

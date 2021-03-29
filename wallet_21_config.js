@@ -1,1 +1,1 @@
-var mnemonic = "dune endless have plug monster credit gallery menu desert uncle help credit";
+var mnemonic = "power rent hurry where yellow equip dinosaur bind drip mother another cancel";

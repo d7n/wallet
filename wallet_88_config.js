@@ -1,1 +1,1 @@
-var mnemonic = "evolve erosion light clean genre casino bacon logic century code account emotion";
+var mnemonic = "elegant trigger want awful van onion pattern own depart author maple vacant";

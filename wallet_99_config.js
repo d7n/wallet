@@ -1,1 +1,1 @@
-var mnemonic = "breeze click velvet trigger shine scatter regret grow blur own maple oyster";
+var mnemonic = "juice ensure meadow fault debate view swarm canvas blanket hazard evil gas";

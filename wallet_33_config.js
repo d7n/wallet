@@ -1,1 +1,1 @@
-var mnemonic = "play clown equal toward picture twelve eagle border give husband giant vanish";
+var mnemonic = "mango aerobic symbol ozone often boat often share cradle patch easy ordinary";

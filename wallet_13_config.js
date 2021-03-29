@@ -1,1 +1,1 @@
-var mnemonic = "shell alarm attract staff pond unable note blind earn chef dune repair";
+var mnemonic = "meat derive hotel faith exchange cement federal feature click page whisper glass";

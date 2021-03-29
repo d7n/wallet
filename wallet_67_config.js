@@ -1,1 +1,1 @@
-var mnemonic = "athlete brisk crystal syrup day beyond cash immune drip siren leopard dog";
+var mnemonic = "logic enlist case chair pear token eagle patch theory immune leave side";

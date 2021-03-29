@@ -1,1 +1,1 @@
-var mnemonic = "breeze winter way resource turtle lab imitate wing sponsor burger depth dream";
+var mnemonic = "stadium help horn awake young system guess cupboard busy pizza merge find";

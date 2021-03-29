@@ -1,1 +1,1 @@
-var mnemonic = "pizza file kitchen noodle deposit off joke faint stem notable stuff forum";
+var mnemonic = "control humor bunker elder barrel gloom stick luggage mistake antique veteran plug";

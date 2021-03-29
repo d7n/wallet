@@ -1,1 +1,1 @@
-var mnemonic = "orient weekend sponsor inch human praise nut fancy visit caution extend gym";
+var mnemonic = "segment grab fine alcohol cat clerk diagram clarify senior insane wave valley";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive virus shed crack network barely alien avoid man very cluster dinner";
+var mnemonic = "blanket scatter wet response universe jacket term bitter blossom aspect ten tree";

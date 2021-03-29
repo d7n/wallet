@@ -1,1 +1,1 @@
-var mnemonic = "observe claim apple habit twice rifle shock grant soup lecture size animal";
+var mnemonic = "forward joy strong include mail ship skin wink cover table able card";

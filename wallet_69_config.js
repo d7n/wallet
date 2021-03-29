@@ -1,1 +1,1 @@
-var mnemonic = "loud wave broom kit host travel bar fatigue auto sheriff mirror icon";
+var mnemonic = "seven enhance peasant crush pass build mosquito clarify doctor stone suffer blur";

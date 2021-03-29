@@ -1,1 +1,1 @@
-var mnemonic = "maple demand deposit glow fox vanish beach release ostrich protect domain pretty";
+var mnemonic = "lady casual hurry elder now autumn island quick stand helmet wrestle long";

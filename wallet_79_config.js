@@ -1,1 +1,1 @@
-var mnemonic = "fence rose odor toe idle swear key hurry jacket render club nephew";
+var mnemonic = "eagle mechanic use repair relief chunk radio true gasp shallow stable echo";

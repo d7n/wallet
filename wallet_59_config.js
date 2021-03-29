@@ -1,1 +1,1 @@
-var mnemonic = "phrase rubber noble laugh slogan person climb sustain rebuild urban hold educate";
+var mnemonic = "attract extend bird couple ostrich army shift dose catalog imitate boil mean";

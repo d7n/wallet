@@ -1,1 +1,1 @@
-var mnemonic = "clip egg gallery dial address strong flat marble episode carry dash dirt";
+var mnemonic = "ancient alpha forest cream critic pig century man front foot wing exist";

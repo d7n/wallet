@@ -1,1 +1,1 @@
-var mnemonic = "oppose long mansion jealous manual farm stable motion sausage era harsh remove";
+var mnemonic = "diary ranch leisure enforce bottom another gesture art maple someone absurd bless";

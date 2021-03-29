@@ -1,1 +1,1 @@
-var mnemonic = "visual minimum learn talk winner draw strategy toilet about glass object push";
+var mnemonic = "moment supreme amazing chronic screen filter large december mystery jazz faculty crystal";

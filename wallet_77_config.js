@@ -1,1 +1,1 @@
-var mnemonic = "basket pottery color wealth olympic payment identify spider under coral you siege";
+var mnemonic = "utility concert faith ball clap select pink summer fiscal task tent canyon";

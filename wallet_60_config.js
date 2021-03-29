@@ -1,1 +1,1 @@
-var mnemonic = "junk puppy win angle add visual divorce cave magnet circle glimpse maid";
+var mnemonic = "warfare about planet pulp language swarm equip amazing scatter spare rail oak";

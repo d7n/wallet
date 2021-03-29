@@ -1,1 +1,1 @@
-var mnemonic = "present trim wrist also desk cave soda aisle mesh combine speed also";
+var mnemonic = "palm timber isolate name catalog object step harsh february profit vintage excuse";

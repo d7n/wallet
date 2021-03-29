@@ -1,1 +1,1 @@
-var mnemonic = "slogan domain trick before walk dance adapt demand mountain stuff valid episode";
+var mnemonic = "culture typical cram horror pause sing chief sad pepper august juice hip";

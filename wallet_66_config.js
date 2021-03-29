@@ -1,1 +1,1 @@
-var mnemonic = "hazard blame salt today grain gift nose possible husband forum when hawk";
+var mnemonic = "dial film junior matrix shove exact dust swear enjoy adult cannon vessel";

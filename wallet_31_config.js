@@ -1,1 +1,1 @@
-var mnemonic = "slogan kid digital kangaroo kick weapon grunt rotate asthma leisure regret mouse";
+var mnemonic = "view alpha climb lobster grid enable fix this text scorpion afraid hurdle";

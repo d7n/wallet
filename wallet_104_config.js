@@ -1,1 +1,1 @@
-var mnemonic = "skate effort twist predict suggest tunnel swear winner tuition police desert type";
+var mnemonic = "cause wasp match oppose island around liar type record school remove tortoise";

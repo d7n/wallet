@@ -1,1 +1,1 @@
-var mnemonic = "spoon issue comfort surround reject liquid miracle daring girl improve clerk hero";
+var mnemonic = "glow sun punch air problem dad pudding modify usual quarter finish stamp";

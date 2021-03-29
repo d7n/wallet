@@ -1,1 +1,1 @@
-var mnemonic = "stock digital twist replace list fish genre dragon flat catalog nest viable";
+var mnemonic = "bar use sustain inform emerge celery crucial mammal habit heart phrase globe";

@@ -1,1 +1,1 @@
-var mnemonic = "sort dad luggage across screen hello script brick video girl autumn rather";
+var mnemonic = "achieve rural piano earn noodle brisk suffer only window genuine hockey wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "perfect rice orchard toilet bicycle forest diet enjoy stay first small swamp";
+var mnemonic = "desert clerk sunset rare fruit sound true dial october citizen deposit gravity";

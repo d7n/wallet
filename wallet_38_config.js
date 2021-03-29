@@ -1,1 +1,1 @@
-var mnemonic = "castle entry victory parent champion minute estate client blast faith abstract source";
+var mnemonic = "trumpet runway finish limb drill flame stuff lazy donate farm above spawn";

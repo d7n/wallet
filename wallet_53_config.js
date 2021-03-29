@@ -1,1 +1,1 @@
-var mnemonic = "boil float today decade faculty twin fossil blame crucial motion certain number";
+var mnemonic = "boring nurse vacant raw canvas usual second dragon limit shop nerve inside";
