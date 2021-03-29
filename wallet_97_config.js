@@ -1,1 +1,1 @@
-var mnemonic = "print whisper topple enact venue arrange thunder such senior improve sand pluck";
+var mnemonic = "canoe hedgehog net later like retreat garden lyrics grid come utility north";

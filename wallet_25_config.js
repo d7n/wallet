@@ -1,1 +1,1 @@
-var mnemonic = "emotion field raccoon garbage sugar icon invite sorry index parade model layer";
+var mnemonic = "boost stomach attack that blouse maple suit enemy fall tray daring uphold";

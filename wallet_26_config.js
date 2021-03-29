@@ -1,1 +1,1 @@
-var mnemonic = "loud chuckle spike try skull relax gadget rare poverty adult upset lift";
+var mnemonic = "dry patch index siege build salon detect city talent rabbit siren side";

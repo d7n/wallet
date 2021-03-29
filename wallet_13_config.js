@@ -1,1 +1,1 @@
-var mnemonic = "excess scatter tuition scheme poverty ketchup toy void misery save tower crowd";
+var mnemonic = "zone napkin fantasy sweet science type any evil miss gesture donate cherry";

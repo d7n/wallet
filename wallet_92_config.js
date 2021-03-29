@@ -1,1 +1,1 @@
-var mnemonic = "rail crew hidden gospel robust panic twelve cry rhythm social together clock";
+var mnemonic = "mansion sword maximum still craft win fancy hungry whale dolphin glow exhaust";

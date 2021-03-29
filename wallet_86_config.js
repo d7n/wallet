@@ -1,1 +1,1 @@
-var mnemonic = "fiction liberty hard talk birth proud unknown assume raccoon fine satisfy another";
+var mnemonic = "paper pattern when cabbage welcome visit this law two master offer worth";

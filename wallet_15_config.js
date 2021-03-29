@@ -1,1 +1,1 @@
-var mnemonic = "decorate return battle door casino erosion immune pencil save assist senior dismiss";
+var mnemonic = "decorate acquire damp auto two enemy benefit exchange dynamic replace piece fatigue";

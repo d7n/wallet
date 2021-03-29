@@ -1,1 +1,1 @@
-var mnemonic = "alien champion stamp outside bike eternal wool search holiday involve frame dinner";
+var mnemonic = "blast stumble pumpkin silly shine winner useless dismiss cloth picture oblige true";

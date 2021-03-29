@@ -1,1 +1,1 @@
-var mnemonic = "opera pepper ethics because toast tragic wedding drill creek resist floor clog";
+var mnemonic = "artwork quiz tag vanish disorder squeeze tattoo grain over grow excuse grid";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma hero notice kidney hello result sail glance polar alone picnic web";
+var mnemonic = "brick alarm rescue axis cake coconut stand fiscal metal kid empty warm";

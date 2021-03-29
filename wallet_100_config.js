@@ -1,1 +1,1 @@
-var mnemonic = "green attract bubble absent model quick alcohol summer vendor family guilt vintage";
+var mnemonic = "soul napkin repeat trip little area scissors document mom almost latin net";

@@ -1,1 +1,1 @@
-var mnemonic = "search anxiety claw breeze transfer wish orbit race cushion gasp boat govern";
+var mnemonic = "inner artwork secret gorilla accuse swamp memory census trash bomb correct ostrich";

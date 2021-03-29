@@ -1,1 +1,1 @@
-var mnemonic = "payment sense discover donate tongue robust eternal autumn install setup pyramid pet";
+var mnemonic = "forward hill worry confirm twice gadget badge tuna detail ugly inner funny";

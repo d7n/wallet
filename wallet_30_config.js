@@ -1,1 +1,1 @@
-var mnemonic = "barely craft attack man actress wire hat such sketch angle cave consider";
+var mnemonic = "baby life story pen corn maid obey ranch just apple dawn romance";

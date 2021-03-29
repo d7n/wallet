@@ -1,1 +1,1 @@
-var mnemonic = "portion culture remain ceiling earth track lava large pen turn debris eagle";
+var mnemonic = "stadium able service inspire title life pumpkin kiss oval lunch tennis bamboo";

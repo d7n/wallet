@@ -1,1 +1,1 @@
-var mnemonic = "maze ask enlist uncle tip announce permit artist hood pelican stage trim";
+var mnemonic = "film focus final protect wide picture reunion sun any nest embody myth";

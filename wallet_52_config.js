@@ -1,1 +1,1 @@
-var mnemonic = "guitar test decorate only edge asset knock carbon chat foam staff maple";
+var mnemonic = "cannon dragon road hospital quiz color time exercise slow firm now review";

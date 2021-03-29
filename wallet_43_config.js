@@ -1,1 +1,1 @@
-var mnemonic = "link dry message sausage salt length dose drink noble release vacuum fringe";
+var mnemonic = "mammal float library exhaust connect illegal credit false exotic oblige zero cactus";

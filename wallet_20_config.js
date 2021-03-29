@@ -1,1 +1,1 @@
-var mnemonic = "material sun cross crush master paper depend inside slim cable hurry raven";
+var mnemonic = "second mom fatigue burst garbage more cheap photo impulse group bronze salt";

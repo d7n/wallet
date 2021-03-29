@@ -1,1 +1,1 @@
-var mnemonic = "wrestle tower warrior flush matter neck flame myself merge chunk cat census";
+var mnemonic = "bridge december tell method brisk mammal planet fatigue search salon fancy audit";

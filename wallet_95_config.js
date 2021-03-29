@@ -1,1 +1,1 @@
-var mnemonic = "elder slush assist arctic vintage miss smile grunt burger such quarter volume";
+var mnemonic = "april swing peace venture physical prevent best soldier tobacco soft crisp thunder";

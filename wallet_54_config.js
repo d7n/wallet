@@ -1,1 +1,1 @@
-var mnemonic = "annual because faint wealth maximum panic camera six where shell heavy point";
+var mnemonic = "local market walk wage blur believe mask clutch entry collect paper error";

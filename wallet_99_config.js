@@ -1,1 +1,1 @@
-var mnemonic = "denial home silly alley pen uncle student provide major wood gym hub";
+var mnemonic = "patch color hub measure crack giggle mandate bacon focus weird modify people";

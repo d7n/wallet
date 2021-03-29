@@ -1,1 +1,1 @@
-var mnemonic = "embody comic boil room pill palace love common shell circle tragic neck";
+var mnemonic = "cinnamon domain goddess style uniform vital mean mean page tent manual plastic";

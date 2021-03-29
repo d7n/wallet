@@ -1,1 +1,1 @@
-var mnemonic = "family prison join loan provide twist jar same pear mother first melody";
+var mnemonic = "expect put claim limb pear lunch vague urge rug color juice exotic";

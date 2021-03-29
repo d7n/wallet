@@ -1,1 +1,1 @@
-var mnemonic = "still job twist drill duck survey cram produce acquire case force spoon";
+var mnemonic = "culture culture stairs stand click egg tired shine corn urban tuna pencil";

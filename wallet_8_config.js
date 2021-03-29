@@ -1,1 +1,1 @@
-var mnemonic = "search mask noodle column shy avoid economy couch daughter lottery inspire armor";
+var mnemonic = "local magnet jar mesh fox pear jar side spread predict glad need";

@@ -1,1 +1,1 @@
-var mnemonic = "unveil dash orchard few copy legal relax jealous chase matrix tooth mosquito";
+var mnemonic = "ready spot icon front switch appear charge print spell omit cricket inherit";

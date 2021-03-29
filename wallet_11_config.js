@@ -1,1 +1,1 @@
-var mnemonic = "vicious initial tunnel pepper entire wave weekend captain all more pitch caught";
+var mnemonic = "express impact appear luxury together employ wisdom alarm lizard sort dune garlic";

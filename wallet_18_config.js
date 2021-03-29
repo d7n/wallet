@@ -1,1 +1,1 @@
-var mnemonic = "envelope fiscal endorse gadget neglect pool stage fantasy grace mystery comfort physical";
+var mnemonic = "network fresh aspect wild tourist loud syrup trip tool vault island enforce";

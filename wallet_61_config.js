@@ -1,1 +1,1 @@
-var mnemonic = "bomb glass worry response cabbage great artwork ozone room sad ticket warrior";
+var mnemonic = "face alarm kite three great wedding two vessel athlete venture mosquito rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade hour hurdle neglect ripple demise puppy spice biology caution brand knock";
+var mnemonic = "foster hundred idea kingdom tobacco grief honey coyote object side agree wrestle";

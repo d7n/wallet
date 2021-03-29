@@ -1,1 +1,1 @@
-var mnemonic = "question erode twist fabric write orbit harbor pyramid great loud uphold session";
+var mnemonic = "rose resemble egg cage problem pear auction review example runway bag race";

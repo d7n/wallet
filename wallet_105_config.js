@@ -1,1 +1,1 @@
-var mnemonic = "reopen regular aunt shy lake object gym old cheese album car chest";
+var mnemonic = "gentle scrub always execute flower fall ozone merit cart end off wise";

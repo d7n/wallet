@@ -1,1 +1,1 @@
-var mnemonic = "shoulder mean jelly rifle ready glue wedding enemy mail truck reform rose";
+var mnemonic = "risk speed reveal cheese spice around domain senior smile social rally august";

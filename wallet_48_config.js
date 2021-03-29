@@ -1,1 +1,1 @@
-var mnemonic = "subway wolf truth ice bean sting immense spray absent relief item whip";
+var mnemonic = "learn struggle cash quarter brown organ hollow hammer assist million tip race";

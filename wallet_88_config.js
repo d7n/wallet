@@ -1,1 +1,1 @@
-var mnemonic = "whale kidney client mixed wave rabbit emotion chapter furnace risk drama indoor";
+var mnemonic = "focus lend trumpet dose alley eager motion outside security hand adapt slender";

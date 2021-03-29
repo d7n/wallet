@@ -1,1 +1,1 @@
-var mnemonic = "feel lounge crush dry enforce acoustic neutral motion armor zone clarify rocket";
+var mnemonic = "salon wear unknown winner follow congress jeans elder bullet essence daughter nerve";

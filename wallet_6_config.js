@@ -1,1 +1,1 @@
-var mnemonic = "must release immune brown vague fade paddle erase useless visit vast about";
+var mnemonic = "jungle finish nation merry sample soul weasel menu announce soap health ignore";

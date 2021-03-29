@@ -1,1 +1,1 @@
-var mnemonic = "face fruit alert rebuild tilt axis behave spread conduct buzz jump burger";
+var mnemonic = "pulp canvas crouch weekend fix number blade civil input circle input ginger";

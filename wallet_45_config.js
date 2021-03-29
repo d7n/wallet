@@ -1,1 +1,1 @@
-var mnemonic = "hawk cube veteran game crawl balcony purity knee culture worry nominee access";
+var mnemonic = "soldier border sad simple police jungle scatter autumn receive obtain dismiss yard";

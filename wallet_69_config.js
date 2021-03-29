@@ -1,1 +1,1 @@
-var mnemonic = "session swim repair trust smart image awful fiber trust hospital derive pipe";
+var mnemonic = "stamp bike monitor lend vessel now legal dutch letter add salon satisfy";

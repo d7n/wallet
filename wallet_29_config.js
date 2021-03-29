@@ -1,1 +1,1 @@
-var mnemonic = "grace cost genuine mosquito fresh clay foot rare gym motor tilt cousin";
+var mnemonic = "fetch boy few spend amount absorb position ancient duck diesel chronic syrup";

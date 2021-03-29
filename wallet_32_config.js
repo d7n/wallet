@@ -1,1 +1,1 @@
-var mnemonic = "bamboo grow capital worry shield response tongue eagle jazz reflect neglect expose";
+var mnemonic = "inhale surround timber reject man gift spy deposit divert museum wife ketchup";

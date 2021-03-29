@@ -1,1 +1,1 @@
-var mnemonic = "property mountain chapter certain machine hair dial explain broken visa tape shock";
+var mnemonic = "slim pelican repair oppose glass napkin proud dry combine art wise inflict";

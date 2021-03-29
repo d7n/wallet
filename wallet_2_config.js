@@ -1,1 +1,1 @@
-var mnemonic = "clinic aspect snow slot copy snap rent evidence stool truth object ostrich";
+var mnemonic = "coin million media divert visit wash simple over divorce solar photo kite";

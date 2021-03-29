@@ -1,1 +1,1 @@
-var mnemonic = "unlock humor cargo cloth attend tank survey myth educate open jaguar used";
+var mnemonic = "health high rapid history pulse undo cave radar bubble wonder village kitten";

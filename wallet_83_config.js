@@ -1,1 +1,1 @@
-var mnemonic = "find monster moon lesson energy negative receive behave sun predict whisper maze";
+var mnemonic = "define drip match position dawn shift upon foil sell spot require beauty";

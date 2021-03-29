@@ -1,1 +1,1 @@
-var mnemonic = "frown pelican rotate vague mean display runway author hub rally approve minor";
+var mnemonic = "panther bring desk equip unfold six skate relax habit liberty table promote";

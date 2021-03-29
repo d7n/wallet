@@ -1,1 +1,1 @@
-var mnemonic = "course travel shadow leg crumble scan eternal fiscal tackle drop girl clap";
+var mnemonic = "subway face clutch situate post together artwork multiply cross enrich scrub surprise";

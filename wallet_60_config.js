@@ -1,1 +1,1 @@
-var mnemonic = "early lumber genre omit matrix dice floor ginger sister liquid lend believe";
+var mnemonic = "shoulder comfort try later cereal disease solid panel theme empower today evolve";

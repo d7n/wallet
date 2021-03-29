@@ -1,1 +1,1 @@
-var mnemonic = "angry knife bracket cause saddle wine worth coffee twenty stick kingdom switch";
+var mnemonic = "first diesel build tool scrub awesome night treat nice road genius material";

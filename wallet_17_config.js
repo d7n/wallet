@@ -1,1 +1,1 @@
-var mnemonic = "grocery effort bean what begin admit silly bean myth describe mad solar";
+var mnemonic = "mixture gossip bounce fatigue worth struggle valid twice magnet give wheat gap";

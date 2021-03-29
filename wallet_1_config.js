@@ -1,1 +1,1 @@
-var mnemonic = "pyramid hurry blood tribe mask rough cricket east clerk audit champion dove";
+var mnemonic = "seminar side exit predict error faint piano warm wash wear nerve raise";

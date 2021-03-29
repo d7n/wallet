@@ -1,1 +1,1 @@
-var mnemonic = "pill dismiss entry panther buzz airport trade rack layer vendor desert case";
+var mnemonic = "chuckle spawn tree oak gossip first large enemy wagon upper capital pass";

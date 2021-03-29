@@ -1,1 +1,1 @@
-var mnemonic = "name unusual funny unhappy carry saddle price review gorilla satisfy excuse rocket";
+var mnemonic = "cause prize guard turn share catalog cage pupil august prosper interest sick";

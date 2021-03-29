@@ -1,1 +1,1 @@
-var mnemonic = "unit salute light join jazz never connect usual cable cousin cross grain";
+var mnemonic = "harbor example skate nuclear burst blood drum gasp oval metal artist solve";

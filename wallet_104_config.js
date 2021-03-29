@@ -1,1 +1,1 @@
-var mnemonic = "erosion whisper north place vast oyster lemon strike rapid emerge elegant tank";
+var mnemonic = "purity analyst lawsuit field clump live then fatal insane only exist garment";

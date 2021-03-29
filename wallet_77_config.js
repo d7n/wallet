@@ -1,1 +1,1 @@
-var mnemonic = "axis black settle opinion dawn awful run swamp exotic cage taste vicious";
+var mnemonic = "farm vapor health dolphin turn base broken install drum session also like";

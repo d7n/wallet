@@ -1,1 +1,1 @@
-var mnemonic = "bulb useless belt wing rug pipe mention mansion casual mandate goat cost";
+var mnemonic = "six seat donate yellow another luggage plunge royal buffalo inch idea alter";

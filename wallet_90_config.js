@@ -1,1 +1,1 @@
-var mnemonic = "apart predict misery release myself absorb town device swamp alley wine marble";
+var mnemonic = "proud seven job awkward dose crop citizen right cute enact prepare blade";

@@ -1,1 +1,1 @@
-var mnemonic = "stick culture loud soda insane hungry army glad scorpion increase bulb swarm";
+var mnemonic = "year note nasty brand term van wife squeeze forward dragon kind now";

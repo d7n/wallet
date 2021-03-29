@@ -1,1 +1,1 @@
-var mnemonic = "stumble kind need nest reward possible absent muffin any help change found";
+var mnemonic = "fade world six release advance sick bamboo snake random punch possible allow";

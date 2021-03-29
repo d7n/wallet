@@ -1,1 +1,1 @@
-var mnemonic = "champion sleep possible adult matrix cable roof hunt large horror legend genuine";
+var mnemonic = "spend old nation range clever aerobic actor vapor topple topic train betray";

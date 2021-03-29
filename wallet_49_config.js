@@ -1,1 +1,1 @@
-var mnemonic = "sadness vehicle weapon time explain van monkey gospel shoot mandate limit rug";
+var mnemonic = "round earth absurd push notice kingdom market digital urban erupt burden burst";

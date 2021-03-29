@@ -1,1 +1,1 @@
-var mnemonic = "car robust helmet scene long velvet shoot choose sword jaguar ice elder";
+var mnemonic = "focus glad lawsuit hood swift smooth mixed endless load result train seek";

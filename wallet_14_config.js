@@ -1,1 +1,1 @@
-var mnemonic = "focus trial trash spell match liar cheese include raw abuse original offer";
+var mnemonic = "gossip obscure magnet eagle original trick honey verify aspect various bar upon";

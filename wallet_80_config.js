@@ -1,1 +1,1 @@
-var mnemonic = "brief fire slim moon retreat beauty shrug hold penalty share melody chest";
+var mnemonic = "have rent inner sample moon estate seminar filter couch industry patch swallow";

@@ -1,1 +1,1 @@
-var mnemonic = "loan remain talent arrive reduce cannon ring limb illness link clutch bird";
+var mnemonic = "tribe race pilot tragic arrange release crane gun toward uniform awesome prepare";

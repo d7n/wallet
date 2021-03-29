@@ -1,1 +1,1 @@
-var mnemonic = "assume supply bundle submit bunker satoshi hawk forest account puzzle bird universe";
+var mnemonic = "jump real solar install trip shaft luxury toy diagram city census satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "fame miracle usual hamster elephant blue lazy decide liar feel bus elegant";
+var mnemonic = "ancient fly picnic autumn truck amount naive copper tag antique matrix wire";

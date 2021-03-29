@@ -1,1 +1,1 @@
-var mnemonic = "head best van slab project alert obscure spoil sister loyal aerobic miss";
+var mnemonic = "asthma runway float fiscal bird two buyer exact swift walk chair uncle";

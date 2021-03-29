@@ -1,1 +1,1 @@
-var mnemonic = "mad want gaze body ecology proud effort tone renew rug reveal undo";
+var mnemonic = "twelve oppose finger rebuild melt chunk dinosaur twist spring traffic give weekend";

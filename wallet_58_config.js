@@ -1,1 +1,1 @@
-var mnemonic = "unveil enroll rent midnight arrest loan clump one crew sleep define evoke";
+var mnemonic = "slow task fragile action fat ice wash debate yellow miss anger fiber";

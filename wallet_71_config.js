@@ -1,1 +1,1 @@
-var mnemonic = "net brick load decline unit term doctor culture cruel wisdom fury laugh";
+var mnemonic = "trick stove genius unknown task photo rather squirrel air garbage idle manage";

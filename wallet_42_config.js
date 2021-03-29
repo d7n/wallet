@@ -1,1 +1,1 @@
-var mnemonic = "today prison later skate attack story claim clever height struggle glad excite";
+var mnemonic = "funny story display time swarm slide seven casual foster cargo always onion";

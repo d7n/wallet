@@ -1,1 +1,1 @@
-var mnemonic = "debate tortoise boring crowd broom song rebuild invite hub connect sauce nation";
+var mnemonic = "eternal attack rice have bridge law capital gown apart source foot brush";

@@ -1,1 +1,1 @@
-var mnemonic = "pigeon total engine sibling lift public flower chapter exotic gentle demand dash";
+var mnemonic = "trumpet prize milk shed fade belt they true dutch symptom punch hero";

@@ -1,1 +1,1 @@
-var mnemonic = "whip embark egg list antenna army carbon motion appear wait quality between";
+var mnemonic = "glue blood farm october maple festival mushroom airport more believe angry hat";

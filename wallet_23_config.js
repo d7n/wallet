@@ -1,1 +1,1 @@
-var mnemonic = "dose rack stereo indicate calm detail author soldier butter cabin sign slam";
+var mnemonic = "rail tide state slush galaxy flash harvest grape south ethics home ripple";

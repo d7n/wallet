@@ -1,1 +1,1 @@
-var mnemonic = "expire cabbage unique fee box better move real social glimpse own tomato";
+var mnemonic = "pencil unlock kite venture soon december session day tip gaze reduce belt";

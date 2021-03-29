@@ -1,1 +1,1 @@
-var mnemonic = "cart elbow chunk brand area danger seed stereo scene chapter resemble destroy";
+var mnemonic = "find explain earth kidney soon lonely clay equip vapor sea planet unique";

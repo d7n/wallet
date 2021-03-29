@@ -1,1 +1,1 @@
-var mnemonic = "head rug insect target knife shuffle shoulder develop make ready because giant";
+var mnemonic = "response knee hundred stock over easy carry width come clerk hip balance";

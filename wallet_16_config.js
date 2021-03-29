@@ -1,1 +1,1 @@
-var mnemonic = "letter helmet pulp eye rubber same oak guard curve direct split cup";
+var mnemonic = "april enact collect gadget sting lens slender come auction arrange arch off";

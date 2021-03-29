@@ -1,1 +1,1 @@
-var mnemonic = "choose caught civil wolf shuffle tribe voice struggle soda cherry hotel wrist";
+var mnemonic = "close valid outside purse judge panther spread mistake time violin tell comic";

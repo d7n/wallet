@@ -1,1 +1,1 @@
-var mnemonic = "suffer amateur news raven add tuna state cloth involve alter system neck";
+var mnemonic = "dry cable debate someone best feature reward jacket teach oil cake project";

@@ -1,1 +1,1 @@
-var mnemonic = "young initial leader love cart during park tail believe disorder erosion modify";
+var mnemonic = "song opinion polar beef else immense series empty nerve brown design chimney";

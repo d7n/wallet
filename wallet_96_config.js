@@ -1,1 +1,1 @@
-var mnemonic = "exhaust viable kind consider puzzle uncle escape insect leader struggle regret enroll";
+var mnemonic = "useless hobby scorpion ceiling video vapor devote gorilla sponsor century city merge";
