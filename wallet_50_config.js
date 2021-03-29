@@ -1,1 +1,1 @@
-var mnemonic = "heavy hold bamboo gap mask soon hat laundry eager cactus mail hello";
+var mnemonic = "ride close wait stamp one world owner measure shuffle slide section across";

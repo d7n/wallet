@@ -1,1 +1,1 @@
-var mnemonic = "year verify try once spray click debate aspect wrong know canal mail";
+var mnemonic = "helmet flip gaze pride famous prepare clog hurt atom claim gospel stove";

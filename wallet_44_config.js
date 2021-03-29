@@ -1,1 +1,1 @@
-var mnemonic = "mind cupboard minute ten luggage dinner middle young nothing person radio soap";
+var mnemonic = "poverty quit journey home document bracket title intact like pig fit account";

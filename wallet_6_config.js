@@ -1,1 +1,1 @@
-var mnemonic = "tenant process once add start drop alpha tube matter bring mechanic solid";
+var mnemonic = "hole season mango drink double curtain such bird frozen inherit length luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "wish distance narrow child shield smoke magnet safe wrap dash quality horse";
+var mnemonic = "slab produce exit trial label palace luggage invite dumb bread misery blind";

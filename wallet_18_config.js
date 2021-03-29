@@ -1,1 +1,1 @@
-var mnemonic = "parrot student lake patrol royal debris depth entry method company describe keep";
+var mnemonic = "carpet arrow mesh flock jacket element desert junior burden vessel member tuition";

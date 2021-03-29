@@ -1,1 +1,1 @@
-var mnemonic = "appear sponsor make hero exhibit popular ritual evolve employ apology account infant";
+var mnemonic = "occur advice east brick arrow damage mosquito menu safe view slot year";

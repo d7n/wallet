@@ -1,1 +1,1 @@
-var mnemonic = "tragic fossil assist silent title pair wave rack school across range style";
+var mnemonic = "turn invite raccoon stadium kitten urge acoustic window vintage win west slam";

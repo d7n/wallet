@@ -1,1 +1,1 @@
-var mnemonic = "hollow choose already dizzy symbol sad vague run hybrid viable parrot smart";
+var mnemonic = "bench coyote install rural gravity real despair mushroom hobby crunch moral sport";

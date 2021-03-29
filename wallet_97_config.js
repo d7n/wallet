@@ -1,1 +1,1 @@
-var mnemonic = "hour price sleep label drop art gown aisle next release camp soul";
+var mnemonic = "forget spray shadow multiply index horn drift number envelope congress wise acquire";

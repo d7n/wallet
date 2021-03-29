@@ -1,1 +1,1 @@
-var mnemonic = "puppy swift ice smoke analyst invest core wasp twelve sell truck broken";
+var mnemonic = "dutch fun fall piece twenty weird vessel allow innocent protect sheriff obtain";

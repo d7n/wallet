@@ -1,1 +1,1 @@
-var mnemonic = "resemble canvas swallow vintage danger park detect thank animal pizza federal trumpet";
+var mnemonic = "source smooth welcome isolate busy invite rescue expect exercise debate inside inch";

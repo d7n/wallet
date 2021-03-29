@@ -1,1 +1,1 @@
-var mnemonic = "silver rose city broken leave moment either exercise speed weather virtual limb";
+var mnemonic = "trim betray genius illegal acoustic kiwi cradle awesome joy slow speak naive";

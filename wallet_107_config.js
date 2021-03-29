@@ -1,1 +1,1 @@
-var mnemonic = "repeat make team current cross deal mesh clog gauge explain quick true";
+var mnemonic = "sugar private expose mercy swift program peasant crush desk icon exact erode";

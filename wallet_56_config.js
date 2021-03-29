@@ -1,1 +1,1 @@
-var mnemonic = "pool lava hole cause link erase damage dice town half hover drink";
+var mnemonic = "clog nerve shield zero web ring auto hunt number before try pony";

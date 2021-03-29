@@ -1,1 +1,1 @@
-var mnemonic = "toss firm shoulder primary garage tortoise program pledge budget kite rely arctic";
+var mnemonic = "chat reunion remind medal omit oppose staff acid input royal fox urban";

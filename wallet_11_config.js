@@ -1,1 +1,1 @@
-var mnemonic = "cat shop fiscal outer virtual inherit dune wish icon column ugly roof";
+var mnemonic = "heart artefact icon ceiling hungry obscure truck acoustic trade detect senior tree";

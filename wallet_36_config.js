@@ -1,1 +1,1 @@
-var mnemonic = "indoor various alert brisk matrix cluster swear soul border script only goddess";
+var mnemonic = "monster grid milk smoke bacon question evolve filter expose alley wear unlock";

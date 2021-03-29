@@ -1,1 +1,1 @@
-var mnemonic = "rebuild thing start copper gorilla bracket educate shoe ten search tobacco attract";
+var mnemonic = "tomato echo april width trend depth mango million clap ridge master absurd";

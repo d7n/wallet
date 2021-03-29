@@ -1,1 +1,1 @@
-var mnemonic = "cycle oil visit tide tourist match alien sunset tray deer rude spider";
+var mnemonic = "ozone job tide exclude oak crazy volume news february bullet busy plunge";

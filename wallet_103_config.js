@@ -1,1 +1,1 @@
-var mnemonic = "snack crouch solution power panic powder radar genuine net pact consider maximum";
+var mnemonic = "fringe catch sick coach reason daughter wrong stamp boat ignore gather casino";

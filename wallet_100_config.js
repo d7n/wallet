@@ -1,1 +1,1 @@
-var mnemonic = "hotel caution attack elephant vault stable buddy jungle attend actual dutch know";
+var mnemonic = "cricket ask lab coconut word glide coach chef fiber mobile fine amazing";

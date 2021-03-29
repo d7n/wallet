@@ -1,1 +1,1 @@
-var mnemonic = "total actor lesson bunker camera farm second buyer three casual select puzzle";
+var mnemonic = "quit have few zebra reform recycle hungry settle casino cupboard copy type";

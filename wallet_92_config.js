@@ -1,1 +1,1 @@
-var mnemonic = "today tuna leaf mercy diagram defense faith loud cloud wool right exile";
+var mnemonic = "click cabbage crisp able diamond razor wheel battle spy victory food town";

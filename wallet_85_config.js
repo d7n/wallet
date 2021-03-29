@@ -1,1 +1,1 @@
-var mnemonic = "biology firm antique lyrics inner sniff talk found stove ordinary rifle bless";
+var mnemonic = "loan liquid start coach pride letter romance venture flash helmet whisper accuse";

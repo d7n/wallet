@@ -1,1 +1,1 @@
-var mnemonic = "baby night sphere know pen omit false universe neither remove crop special";
+var mnemonic = "wine riot very draft couple fuel chunk price rail patient once girl";

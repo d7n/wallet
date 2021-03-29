@@ -1,1 +1,1 @@
-var mnemonic = "pepper raw project regular surface chimney around base sense monkey onion night";
+var mnemonic = "core track already mammal enjoy divide donate amazing certain icon transfer athlete";

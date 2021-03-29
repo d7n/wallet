@@ -1,1 +1,1 @@
-var mnemonic = "earth boat fine vacant fruit dinosaur pave coffee school lady wagon adult";
+var mnemonic = "forum amateur rather cram sketch boil park arm gospel pave refuse theme";

@@ -1,1 +1,1 @@
-var mnemonic = "marine please steak forward start surprise drift stairs design tiny announce need";
+var mnemonic = "spoil shrug tail amused music cable morning mammal pear range dial gain";

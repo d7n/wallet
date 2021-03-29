@@ -1,1 +1,1 @@
-var mnemonic = "dynamic whip plastic amused chicken enlist daring elevator comfort give alone replace";
+var mnemonic = "tourist diet champion deposit blast salute steak brave throw recall intact afraid";

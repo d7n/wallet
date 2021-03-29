@@ -1,1 +1,1 @@
-var mnemonic = "border bubble adjust endless report erupt slight extend slab armor basic hard";
+var mnemonic = "distance strong limit stuff cry parent route pyramid almost impose loop thank";

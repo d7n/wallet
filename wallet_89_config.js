@@ -1,1 +1,1 @@
-var mnemonic = "fever ribbon leopard heart brown twelve jump laptop spin destroy trumpet adapt";
+var mnemonic = "loop twenty ahead upgrade napkin slender napkin snake bargain muscle play live";

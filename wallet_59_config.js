@@ -1,1 +1,1 @@
-var mnemonic = "ridge glow south minimum silk praise robot traffic dash innocent advice fox";
+var mnemonic = "maze cabbage dash more modify okay brick field service slender wheat gasp";

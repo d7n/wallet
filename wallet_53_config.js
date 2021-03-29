@@ -1,1 +1,1 @@
-var mnemonic = "peace fuel romance plunge tip pelican curious plastic wonder number club beauty";
+var mnemonic = "share any ugly rain width atom ocean valley leaf panel lens enact";

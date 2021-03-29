@@ -1,1 +1,1 @@
-var mnemonic = "saddle quick burger will goat raven snow want turn kitten critic amazing";
+var mnemonic = "liberty emotion cinnamon topple supply beyond ostrich arena unaware tip have drift";

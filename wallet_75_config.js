@@ -1,1 +1,1 @@
-var mnemonic = "trial fox search spot barrel garden drip market good luxury fatal priority";
+var mnemonic = "hundred sing shaft what venue slogan hover lunar assault paper ugly stadium";

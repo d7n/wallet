@@ -1,1 +1,1 @@
-var mnemonic = "grain pigeon degree robust absent armed truck razor comic skin west another";
+var mnemonic = "license never sadness own country year unaware torch honey garlic garment excess";

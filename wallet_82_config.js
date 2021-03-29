@@ -1,1 +1,1 @@
-var mnemonic = "obscure indicate shrug dwarf course purpose jungle palm grid number wrestle coin";
+var mnemonic = "loan thrive unable dilemma level route know repair merry bitter female blouse";

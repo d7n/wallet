@@ -1,1 +1,1 @@
-var mnemonic = "shallow stable flash employ swap actual dilemma index quiz bamboo breeze surge";
+var mnemonic = "habit inch emotion torch flush price rotate diary wall type excess satoshi";

@@ -1,1 +1,1 @@
-var mnemonic = "charge piano treat solar input green flag require wall cream master absent";
+var mnemonic = "inform mixture grab syrup alpha ticket wage clerk dawn account door slender";

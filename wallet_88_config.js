@@ -1,1 +1,1 @@
-var mnemonic = "cup aspect before detect hub width else cabin orbit evidence beach resemble";
+var mnemonic = "lawsuit prefer sugar clutch lounge pilot load clog midnight twist airport become";

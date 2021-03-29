@@ -1,1 +1,1 @@
-var mnemonic = "guard parrot weasel under card lawn weird oblige desk panther deny network";
+var mnemonic = "wrong car evolve identify mountain fatigue egg sudden follow uncle silk rebuild";

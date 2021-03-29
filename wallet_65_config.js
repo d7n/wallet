@@ -1,1 +1,1 @@
-var mnemonic = "flag school copper lyrics blue business use dilemma kiwi goddess mimic climb";
+var mnemonic = "slush adjust similar fence throw labor manage frown size public awake window";

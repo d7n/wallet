@@ -1,1 +1,1 @@
-var mnemonic = "bone awful payment claw jungle alter clog hazard market term absurd timber";
+var mnemonic = "pair brown across fatal mistake chronic receive athlete maid sunset connect village";

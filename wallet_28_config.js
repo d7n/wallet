@@ -1,1 +1,1 @@
-var mnemonic = "profit square tool hundred concert envelope embark hollow sugar muffin soldier swallow";
+var mnemonic = "violin thumb cash risk photo mansion police ensure agent tomorrow know shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "swing skin promote hip video birth poverty snack hood blur frog pledge";
+var mnemonic = "salon course search elephant digital kiss drastic tank bind crush away immense";

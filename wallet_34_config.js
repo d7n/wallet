@@ -1,1 +1,1 @@
-var mnemonic = "test north orient require broken fabric venue early margin dolphin drink they";
+var mnemonic = "helmet expand knife occur swing outside smart decorate imitate faculty horror caution";

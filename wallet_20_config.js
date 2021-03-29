@@ -1,1 +1,1 @@
-var mnemonic = "slot slab vault fortune future climb divorce submit knee convince fog purse";
+var mnemonic = "mushroom boss still bean scout office leopard orphan march vicious picture suggest";

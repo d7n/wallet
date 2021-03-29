@@ -1,1 +1,1 @@
-var mnemonic = "object warrior impose execute soul yard smooth until order wing grid jacket";
+var mnemonic = "protect metal rain sick dose crystal youth struggle chimney cream admit father";

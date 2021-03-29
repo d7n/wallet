@@ -1,1 +1,1 @@
-var mnemonic = "sleep pilot fog mechanic cereal habit mass salad camera bitter nominee spray";
+var mnemonic = "pupil sleep design test tower ticket feature execute demand forward december whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit pepper ensure powder lamp tribe drum student dice dog weather message";
+var mnemonic = "glance polar home again dawn again mom grant flat wrap thrive best";

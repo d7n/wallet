@@ -1,1 +1,1 @@
-var mnemonic = "heavy payment iron emerge fragile detect leave fragile question say theme female";
+var mnemonic = "romance scissors timber cancel spin list impose decade plate please book all";

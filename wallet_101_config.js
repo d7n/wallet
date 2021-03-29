@@ -1,1 +1,1 @@
-var mnemonic = "tag happy leaf coach vintage grain middle vendor siren develop pilot jealous";
+var mnemonic = "worry evolve essence world quick useless venture tissue retire teach thrive tackle";

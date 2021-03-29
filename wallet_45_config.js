@@ -1,1 +1,1 @@
-var mnemonic = "ribbon advance elegant remember detect cannon interest bunker tennis ticket demise youth";
+var mnemonic = "minor same height detect motion vessel critic cheese connect embrace bar kangaroo";

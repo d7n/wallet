@@ -1,1 +1,1 @@
-var mnemonic = "drive exact area dust capable grow romance acquire smoke gown coffee limit";
+var mnemonic = "kit you marriage abuse merge prison riot jelly board mad claim rigid";

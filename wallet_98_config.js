@@ -1,1 +1,1 @@
-var mnemonic = "pull side flip nothing hedgehog spawn inside brief deposit east prepare concert";
+var mnemonic = "lizard female almost tide toast educate recall unknown lock nest flush govern";

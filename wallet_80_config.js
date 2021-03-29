@@ -1,1 +1,1 @@
-var mnemonic = "urban fault before stadium trumpet runway sick govern subway taxi rural save";
+var mnemonic = "treat cattle slice bid deliver weird indicate illness purity enjoy pass rhythm";

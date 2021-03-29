@@ -1,1 +1,1 @@
-var mnemonic = "finger orbit truth zone frequent say swarm secret giant gasp inhale broom";
+var mnemonic = "eager swarm clutch city train ozone lumber supply chronic magnet panel novel";

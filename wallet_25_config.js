@@ -1,1 +1,1 @@
-var mnemonic = "music shuffle donor maximum panda funny drip boy want acoustic learn tool";
+var mnemonic = "endorse step duty silver pudding leisure robust price churn tag crisp risk";

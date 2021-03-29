@@ -1,1 +1,1 @@
-var mnemonic = "across girl eight easily crack casino ugly side program question spell price";
+var mnemonic = "price left session wash effort mansion scrap item vapor artwork sense sugar";

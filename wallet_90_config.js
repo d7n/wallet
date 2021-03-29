@@ -1,1 +1,1 @@
-var mnemonic = "reunion bulb coral report wink stadium collect pact truth pride that void";
+var mnemonic = "rival obey stamp rival party drift very fruit gap gloom deny syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "use enforce cake exist knock venture worth method leisure tobacco girl ghost";
+var mnemonic = "great mad essay dog pulp sketch announce exclude husband lady above tag";

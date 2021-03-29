@@ -1,1 +1,1 @@
-var mnemonic = "civil hole patrol despair marine salmon master gentle undo minimum twenty capable";
+var mnemonic = "attack suffer stamp sword salon thumb joy day embark essay idle desk";

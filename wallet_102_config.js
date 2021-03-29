@@ -1,1 +1,1 @@
-var mnemonic = "round potato have credit sadness wet warm garden shallow nuclear shoot grass";
+var mnemonic = "dune inflict seek trade parade vehicle narrow absurd jungle gesture elbow kind";

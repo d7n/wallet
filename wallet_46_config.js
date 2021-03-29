@@ -1,1 +1,1 @@
-var mnemonic = "custom vital tube false tenant record bonus era coach path heavy snow";
+var mnemonic = "express warm afford trial release unit text gloom memory ginger game zone";

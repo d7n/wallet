@@ -1,1 +1,1 @@
-var mnemonic = "rate strong sure tunnel purse ankle dress appear remind hope era dog";
+var mnemonic = "hollow name oyster struggle ribbon forward man lobster involve sorry state bench";

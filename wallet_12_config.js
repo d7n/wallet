@@ -1,1 +1,1 @@
-var mnemonic = "stock display enjoy test foil shoot wave thunder roof riot example usual";
+var mnemonic = "noodle daring teach napkin hub where female accident steak pepper inmate toward";

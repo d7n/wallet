@@ -1,1 +1,1 @@
-var mnemonic = "nest light witness buzz used van hawk outside afraid busy chest deliver";
+var mnemonic = "whisper brain mutual amateur victory peace mimic spirit easy enter rain idle";

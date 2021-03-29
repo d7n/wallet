@@ -1,1 +1,1 @@
-var mnemonic = "law okay apology humor leisure early army room pen tissue duty fringe";
+var mnemonic = "neglect regular swarm between rocket accident carpet cereal hub reflect furnace wheel";

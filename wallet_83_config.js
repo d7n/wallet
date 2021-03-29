@@ -1,1 +1,1 @@
-var mnemonic = "usual cook lottery stick sniff hidden guilt another course recall flight woman";
+var mnemonic = "sustain account lemon crew truth viable lesson tennis lecture method chuckle net";

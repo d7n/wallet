@@ -1,1 +1,1 @@
-var mnemonic = "coast sadness omit giraffe symptom orient gesture noodle size onion rare throw";
+var mnemonic = "dream outer offer credit second flight what potato gym hedgehog wasp that";

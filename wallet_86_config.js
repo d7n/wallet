@@ -1,1 +1,1 @@
-var mnemonic = "ankle dinosaur balcony library obvious awesome analyst mixed cushion color ski filter";
+var mnemonic = "burger promote disagree favorite marine assume outside steel session near west improve";

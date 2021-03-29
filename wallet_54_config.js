@@ -1,1 +1,1 @@
-var mnemonic = "spread alcohol tube legend inhale once nut occur method express life nerve";
+var mnemonic = "credit split mercy large atom length cricket nerve monitor cabin wool educate";

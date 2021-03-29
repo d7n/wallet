@@ -1,1 +1,1 @@
-var mnemonic = "parrot behind market radio charge dentist afraid village keen axis rule swarm";
+var mnemonic = "mercy castle mandate goose parade impose before such author tribe decrease cupboard";

@@ -1,1 +1,1 @@
-var mnemonic = "reason average more test crunch settle domain wedding recipe rent join junk";
+var mnemonic = "elder moon use cream royal mass element crazy warm crush grocery hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "obtain three fire bunker extend eye pattern balcony release black sting unveil";
+var mnemonic = "erupt body ring shy east tomorrow warrior notable pride lens amateur clean";

@@ -1,1 +1,1 @@
-var mnemonic = "off security aerobic senior trash candy bone degree express rhythm surprise floor";
+var mnemonic = "check sibling chuckle since clump sport vote into flame sand drip over";

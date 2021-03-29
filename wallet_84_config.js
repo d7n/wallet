@@ -1,1 +1,1 @@
-var mnemonic = "hammer pave skate siren witness output gallery grit offer alpha flat account";
+var mnemonic = "assault main green canoe later broken trend soldier vital stove junior comic";

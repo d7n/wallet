@@ -1,1 +1,1 @@
-var mnemonic = "owner market actor girl thrive egg water join buddy nothing plastic uncover";
+var mnemonic = "fiscal present hobby loyal census between winner shine carbon cannon convince height";

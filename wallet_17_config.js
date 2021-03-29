@@ -1,1 +1,1 @@
-var mnemonic = "sell thing focus render tomorrow forward casual wet jealous motor depart crazy";
+var mnemonic = "desk dad dune fatal solid hotel wreck twin coconut message page group";

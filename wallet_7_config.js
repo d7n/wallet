@@ -1,1 +1,1 @@
-var mnemonic = "mansion tennis alpha absorb rib warrior cruise leader sauce party rigid caught";
+var mnemonic = "clutch physical clarify festival wage catch hill file powder creek special call";

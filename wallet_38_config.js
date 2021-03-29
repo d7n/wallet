@@ -1,1 +1,1 @@
-var mnemonic = "cable answer color harbor rose bundle mad rifle afford cool indicate pitch";
+var mnemonic = "unique taste finger power oyster false join goddess connect hybrid angle gain";

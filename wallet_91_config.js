@@ -1,1 +1,1 @@
-var mnemonic = "rescue chair night aspect bird blur near cave opera prepare security soon";
+var mnemonic = "goose board slight morning border gun timber exhaust vicious nose shove balcony";

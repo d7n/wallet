@@ -1,1 +1,1 @@
-var mnemonic = "comfort fade crisp raven glow fox obey citizen movie another ill depart";
+var mnemonic = "relax thank sad hope people parade youth drink sheriff paper rack around";
