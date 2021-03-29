@@ -1,1 +1,1 @@
-var mnemonic = "dance gather online vacant husband river bronze harvest engage main borrow penalty";
+var mnemonic = "galaxy lottery fossil nominee champion panda ring mechanic grunt napkin civil joke";

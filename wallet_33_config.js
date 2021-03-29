@@ -1,1 +1,1 @@
-var mnemonic = "smooth motor grant manual garlic bubble divide resource pass coach cricket bicycle";
+var mnemonic = "panel bone victory ocean east river menu extend swap feel engage worry";

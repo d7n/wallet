@@ -1,1 +1,1 @@
-var mnemonic = "swamp fortune dry into aerobic feed ivory puzzle ball must bless nut";
+var mnemonic = "sugar arctic orange blouse raw differ wage tell bounce fluid grunt essence";

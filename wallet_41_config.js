@@ -1,1 +1,1 @@
-var mnemonic = "main forward quote genre solar arena melt circle more body peace web";
+var mnemonic = "annual swing observe glare inmate hair return dolphin damp gloom fault fork";

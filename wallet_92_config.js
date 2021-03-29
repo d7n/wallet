@@ -1,1 +1,1 @@
-var mnemonic = "utility report loan thank emerge wolf robust buffalo oak blood garlic detect";
+var mnemonic = "start cotton wine bridge luxury trouble light lyrics sign oxygen act move";

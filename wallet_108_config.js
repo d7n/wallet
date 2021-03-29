@@ -1,1 +1,1 @@
-var mnemonic = "near country annual rally word admit biology globe tennis total rib account";
+var mnemonic = "stove must phrase consider welcome half mandate myth uncover mosquito april giraffe";

@@ -1,1 +1,1 @@
-var mnemonic = "force tumble lawsuit universe basic cart absurd verb rug track average inside";
+var mnemonic = "knife document harsh weekend desk member lava sorry cable alpha fun alarm";

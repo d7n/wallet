@@ -1,1 +1,1 @@
-var mnemonic = "satoshi price away erosion swamp regret dress tiger bag pool build oval";
+var mnemonic = "tobacco artwork denial turkey gown train mule blame glory badge gospel stick";

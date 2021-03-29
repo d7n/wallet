@@ -1,1 +1,1 @@
-var mnemonic = "coast grow marriage math resemble regular system shrug size universe vivid angle";
+var mnemonic = "actual obscure bonus staff sight humble bench field settle vast slush tell";

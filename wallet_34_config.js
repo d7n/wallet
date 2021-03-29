@@ -1,1 +1,1 @@
-var mnemonic = "swallow trend grab depend best host cruel park hawk dust release below";
+var mnemonic = "scissors runway lady salad eternal daughter seat siege stock blame matter legal";

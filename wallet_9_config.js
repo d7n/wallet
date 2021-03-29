@@ -1,1 +1,1 @@
-var mnemonic = "between zero air armor nation gospel lava hunt cute hotel chief grape";
+var mnemonic = "inform luggage lemon arch aisle motor feed inject spike poem tail defense";

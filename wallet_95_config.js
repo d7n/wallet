@@ -1,1 +1,1 @@
-var mnemonic = "own poet wait laundry few exercise limb close merry broken input element";
+var mnemonic = "weather vicious body pledge horror excuse night chuckle quarter above okay spike";

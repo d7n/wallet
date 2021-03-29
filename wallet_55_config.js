@@ -1,1 +1,1 @@
-var mnemonic = "pencil unlock sock prefer butter hunt harsh blue pizza anxiety resemble calm";
+var mnemonic = "radar enrich cheap volume main message exact gather neck humor isolate token";

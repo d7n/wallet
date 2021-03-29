@@ -1,1 +1,1 @@
-var mnemonic = "nasty captain across mix news satoshi material know release barrel tobacco snack";
+var mnemonic = "life wink where chaos ready april winter prosper fish alpha fun lawsuit";

@@ -1,1 +1,1 @@
-var mnemonic = "radio public diagram bird olympic rival elbow asthma half region cupboard finish";
+var mnemonic = "then enjoy remind half lock ski giraffe stumble beach stage evidence glad";

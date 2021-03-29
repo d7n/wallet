@@ -1,1 +1,1 @@
-var mnemonic = "crystal legal senior board humor dose update zebra parrot asthma close boil";
+var mnemonic = "oyster wine vicious west negative weird debate proof lunar boat drop castle";

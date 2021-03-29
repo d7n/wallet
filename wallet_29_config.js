@@ -1,1 +1,1 @@
-var mnemonic = "chunk method snap horror ostrich palace merge consider occur bacon whisper elder";
+var mnemonic = "mosquito total gauge treat spray flight vibrant mix hybrid witness tube twin";

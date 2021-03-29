@@ -1,1 +1,1 @@
-var mnemonic = "clown empty fix bench elbow country vivid margin brother defy eyebrow glare";
+var mnemonic = "learn radar minimum verify menu canal chapter negative behind way eye post";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna friend nut parrot photo nature penalty major vapor say sort retreat";
+var mnemonic = "wheel inch curtain add option sign float student favorite supply capable tenant";

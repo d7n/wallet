@@ -1,1 +1,1 @@
-var mnemonic = "spy puzzle dad school wisdom unveil crumble cattle frequent rail now absurd";
+var mnemonic = "talent afraid priority weekend reward ghost stone monitor fragile wage palace dish";

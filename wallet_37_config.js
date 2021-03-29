@@ -1,1 +1,1 @@
-var mnemonic = "document beauty cycle squirrel eternal symptom mandate wreck enforce decorate minute climb";
+var mnemonic = "nose below marriage around photo unveil mandate abandon pluck place hold risk";

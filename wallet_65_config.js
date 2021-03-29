@@ -1,1 +1,1 @@
-var mnemonic = "diamond mammal zebra awful suggest ketchup loyal minimum rifle lemon control guilt";
+var mnemonic = "cheese unfair reduce cabin soup dawn grocery material trap timber race wall";

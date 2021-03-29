@@ -1,1 +1,1 @@
-var mnemonic = "pony pretty fiber prize act aim success aisle mammal double achieve regret";
+var mnemonic = "oval bundle lunch tool rural else occur enemy address swift lonely bring";

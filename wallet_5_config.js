@@ -1,1 +1,1 @@
-var mnemonic = "cupboard retreat video help edge sign clay matter inhale swift toast jewel";
+var mnemonic = "wink click seek gesture steak swarm brief wolf bamboo exercise sing match";

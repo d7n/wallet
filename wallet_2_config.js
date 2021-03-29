@@ -1,1 +1,1 @@
-var mnemonic = "mom absent wrong else energy cliff calm beach seed ripple wonder muffin";
+var mnemonic = "ride pond else problem order turn black endless gather mind diet call";

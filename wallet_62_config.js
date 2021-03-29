@@ -1,1 +1,1 @@
-var mnemonic = "drop water shallow install liar bike depth moon pitch valve unique primary";
+var mnemonic = "thumb wave convince match beyond limb fence art liar tape cram reform";

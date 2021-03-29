@@ -1,1 +1,1 @@
-var mnemonic = "teach jump motor radio also husband tumble fitness gospel tent busy buyer";
+var mnemonic = "increase cabbage bike execute mirror reunion miracle crucial chunk crumble cry marriage";

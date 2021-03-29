@@ -1,1 +1,1 @@
-var mnemonic = "rude ski spin maze result usual eye illness blame hub pitch boost";
+var mnemonic = "message monkey wrestle assault domain wasp divorce wide celery cabbage duty unlock";

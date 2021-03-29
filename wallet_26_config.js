@@ -1,1 +1,1 @@
-var mnemonic = "naive supreme number eternal exchange food major essence clarify coconut perfect jump";
+var mnemonic = "expire relief that barely young express rich tone video waste kidney junk";

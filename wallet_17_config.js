@@ -1,1 +1,1 @@
-var mnemonic = "patient notice pond step quality candy acquire media ordinary apology river champion";
+var mnemonic = "attract amused system prison dinner outer shaft achieve stairs lunar excuse rack";

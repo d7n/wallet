@@ -1,1 +1,1 @@
-var mnemonic = "design rural hammer enter zebra garden relief another bunker picnic conduct bomb";
+var mnemonic = "electric narrow gain umbrella normal tuition run share eternal frequent patient anger";

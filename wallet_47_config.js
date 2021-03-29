@@ -1,1 +1,1 @@
-var mnemonic = "when cross alone make meat wear tennis grow pink chef garlic frame";
+var mnemonic = "bean clean priority copy miss crush august cliff crouch alone fancy purpose";

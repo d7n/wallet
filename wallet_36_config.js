@@ -1,1 +1,1 @@
-var mnemonic = "common eight match else trap person shoulder click dizzy edge tiny bulk";
+var mnemonic = "industry giraffe remember upset satisfy shop figure impulse payment cup blur clock";

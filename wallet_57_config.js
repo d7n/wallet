@@ -1,1 +1,1 @@
-var mnemonic = "dream oven inspire produce myself obey waste blossom note artist truly round";
+var mnemonic = "purchase make word monkey caution stick minor pepper appear tag license sustain";

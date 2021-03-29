@@ -1,1 +1,1 @@
-var mnemonic = "reflect sister unit wolf veteran tongue vivid lazy letter parent young victory";
+var mnemonic = "mom delay execute flip supply wrestle power coach patient now erupt joke";

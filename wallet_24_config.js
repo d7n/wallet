@@ -1,1 +1,1 @@
-var mnemonic = "treat coyote fiber cereal label ticket plastic decrease frog surface kind armed";
+var mnemonic = "release sign soon moral blood process canal rocket screen office stay thrive";

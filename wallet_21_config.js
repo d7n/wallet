@@ -1,1 +1,1 @@
-var mnemonic = "more rug stone scrap oven eye feel duck afraid version nice visual";
+var mnemonic = "anxiety quote farm crowd airport estate satisfy inner best hurdle vicious town";

@@ -1,1 +1,1 @@
-var mnemonic = "panda dry simple nurse square spend bicycle relief cigar conduct beauty urge";
+var mnemonic = "attract split soft expect habit modify general trouble ticket win announce project";

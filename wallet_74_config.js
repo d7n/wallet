@@ -1,1 +1,1 @@
-var mnemonic = "skill garden help brown unveil season crazy galaxy grain gloom excuse climb";
+var mnemonic = "frown find yard practice orphan bulb sock public find misery cigar plastic";

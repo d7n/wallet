@@ -1,1 +1,1 @@
-var mnemonic = "pipe used home finger enable negative assume atom execute laundry bright tree";
+var mnemonic = "balcony oxygen undo parrot name pause spawn curve movie brain climb kangaroo";

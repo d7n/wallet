@@ -1,1 +1,1 @@
-var mnemonic = "tool kid artist main awesome lonely sad woman mass tree unveil slot";
+var mnemonic = "silver fire soap grace output castle throw gesture bless result ask enough";

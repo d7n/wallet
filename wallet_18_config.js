@@ -1,1 +1,1 @@
-var mnemonic = "hero celery correct jewel sight mandate spy olive struggle shadow craft spoil";
+var mnemonic = "cloth riot raven rough olive sentence pyramid gasp lady space crane dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "seed jaguar rather matter board orphan blouse easy donate dismiss reopen corn";
+var mnemonic = "joy assume leg worth year arm place fork punch what tragic vague";

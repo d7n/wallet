@@ -1,1 +1,1 @@
-var mnemonic = "combine argue useful throw make coconut poem proof million physical nose diary";
+var mnemonic = "spider erupt surprise steel clean federal marriage fade race idle diesel exotic";

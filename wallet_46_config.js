@@ -1,1 +1,1 @@
-var mnemonic = "paper blanket runway green upset polar grunt ahead hill physical first olympic";
+var mnemonic = "vote leg custom inherit rent tackle steel congress mixed call unable concert";

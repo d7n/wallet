@@ -1,1 +1,1 @@
-var mnemonic = "hello memory fragile print drift mail zero rigid float alone plunge habit";
+var mnemonic = "pole town suspect edge turtle crucial echo valve tennis slim grocery better";

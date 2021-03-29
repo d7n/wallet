@@ -1,1 +1,1 @@
-var mnemonic = "nominee worth green gasp autumn acid hold test brass conduct imitate laundry";
+var mnemonic = "okay witness winner equip dove slush engine swear ramp indoor install crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery chalk mass amount cigar rifle drastic clump proof tape garlic affair";
+var mnemonic = "foam observe will already document try citizen make amateur iron sample volcano";

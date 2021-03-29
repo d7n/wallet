@@ -1,1 +1,1 @@
-var mnemonic = "clap cement since certain diary spread smart resist scatter armed modify escape";
+var mnemonic = "decline copy pupil nut vanish kid stool faculty snake short early ugly";

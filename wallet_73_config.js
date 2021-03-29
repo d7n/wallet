@@ -1,1 +1,1 @@
-var mnemonic = "stock quiz motor inform hint slight mass split refuse chaos comfort loyal";
+var mnemonic = "nurse know motion horror work coast print buffalo wink assist brand purchase";

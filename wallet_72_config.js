@@ -1,1 +1,1 @@
-var mnemonic = "doctor cannon toddler reveal again goose play harvest myth wet obvious render";
+var mnemonic = "food recall year venture hawk rate educate argue dress shine like transfer";

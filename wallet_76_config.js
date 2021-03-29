@@ -1,1 +1,1 @@
-var mnemonic = "better bitter gown open they sweet shy black dad fancy twice rib";
+var mnemonic = "track night mother vote call common unaware rescue brand desert innocent auction";

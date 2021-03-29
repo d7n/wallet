@@ -1,1 +1,1 @@
-var mnemonic = "hospital wolf account banana rhythm outer future glove hour arm icon spike";
+var mnemonic = "happy fog must eagle focus fire supreme city game roast brand creek";

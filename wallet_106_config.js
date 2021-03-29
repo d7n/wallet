@@ -1,1 +1,1 @@
-var mnemonic = "fantasy ripple weekend ski impulse cherry punch oblige tag surprise advance trouble";
+var mnemonic = "limit priority blast artefact fence crew notable club desert arrest woman essence";

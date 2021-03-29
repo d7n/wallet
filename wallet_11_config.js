@@ -1,1 +1,1 @@
-var mnemonic = "have nature exchange junior release scale save release correct aunt vicious save";
+var mnemonic = "hawk nut analyst giant shadow can wrong portion foster lobster general all";

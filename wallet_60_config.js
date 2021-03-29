@@ -1,1 +1,1 @@
-var mnemonic = "object limit spot tip mother escape report brisk kitten arena sad spring";
+var mnemonic = "dwarf filter escape such axis ship rival flame prison various ten anxiety";

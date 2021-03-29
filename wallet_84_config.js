@@ -1,1 +1,1 @@
-var mnemonic = "prevent shop tube negative ticket pilot cream trash antique duty fan eye";
+var mnemonic = "slim shift unknown rifle human immune balance scare season foster scrap rapid";

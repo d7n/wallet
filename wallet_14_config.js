@@ -1,1 +1,1 @@
-var mnemonic = "stamp empower want pen insane educate display figure either buddy strategy giant";
+var mnemonic = "electric seminar fly fence floor vanish off rib express crucial roof foot";

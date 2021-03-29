@@ -1,1 +1,1 @@
-var mnemonic = "air combine pink master armor spice wear okay pool bacon glass act";
+var mnemonic = "bleak text credit boy zoo return liberty piece better aim bridge scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "actual author visual swarm magic unfair silent moment explain capital card vendor";
+var mnemonic = "fold habit exercise adult flip gloom put save join observe hen rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "police column empty cage work grocery suspect liar utility frequent include sponsor";
+var mnemonic = "blanket silk arena option result urban pave embody work cousin letter add";

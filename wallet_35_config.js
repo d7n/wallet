@@ -1,1 +1,1 @@
-var mnemonic = "absurd soft ceiling source able glory jelly gas end rookie upper renew";
+var mnemonic = "elite excess sniff knife address rug finger endless prosper diary carbon bone";

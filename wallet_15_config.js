@@ -1,1 +1,1 @@
-var mnemonic = "pelican issue together solve will supreme swim funny lawsuit gym shed normal";
+var mnemonic = "thank square jump law extra brick urban pledge process deal under calm";

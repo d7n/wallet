@@ -1,1 +1,1 @@
-var mnemonic = "install suspect move neck soccer lab mushroom skull yellow unhappy screen sponsor";
+var mnemonic = "diesel earn envelope cat february pet cash jacket uphold riot abstract leisure";

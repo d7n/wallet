@@ -1,1 +1,1 @@
-var mnemonic = "cliff bag leave actor leg lake treat warfare peace reduce scale better";
+var mnemonic = "little use hip message canoe autumn cost trophy kind swallow noble faculty";

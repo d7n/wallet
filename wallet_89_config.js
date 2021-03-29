@@ -1,1 +1,1 @@
-var mnemonic = "history catalog remind road correct shop logic popular sausage leopard become recycle";
+var mnemonic = "monster next unfold load rabbit patient taste bunker shiver error worth bubble";

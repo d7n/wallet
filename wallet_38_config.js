@@ -1,1 +1,1 @@
-var mnemonic = "basket fee push tomato pink oxygen ladder beef page addict sniff you";
+var mnemonic = "employ garage tuition reflect permit quote goddess discover spell baby demand damp";

@@ -1,1 +1,1 @@
-var mnemonic = "come brand casual disorder denial easy train merit master fancy release erase";
+var mnemonic = "very rose similar dolphin frown biology fee mammal crush tattoo pride slush";

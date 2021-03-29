@@ -1,1 +1,1 @@
-var mnemonic = "tuna demise boy card cycle jewel similar fury drive sound celery surprise";
+var mnemonic = "city process desert country amazing rude impact steak decorate gauge remove spice";

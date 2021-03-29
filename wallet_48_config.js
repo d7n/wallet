@@ -1,1 +1,1 @@
-var mnemonic = "claw question someone resemble abandon summer spare west spirit elephant bring demise";
+var mnemonic = "radar bullet always pulse recipe degree dumb winter leopard soldier add jacket";

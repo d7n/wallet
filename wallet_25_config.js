@@ -1,1 +1,1 @@
-var mnemonic = "expire rival file liberty mansion volume twenty enhance box tennis fabric crush";
+var mnemonic = "either sponsor viable pizza cluster correct bless lift silver comfort guess episode";

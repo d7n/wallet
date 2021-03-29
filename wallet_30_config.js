@@ -1,1 +1,1 @@
-var mnemonic = "sunset menu hole guess message correct home liberty actual slide olympic mammal";
+var mnemonic = "violin hub clap liquid remove garden end say silly keep document crop";

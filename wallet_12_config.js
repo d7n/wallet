@@ -1,1 +1,1 @@
-var mnemonic = "silly list kind scout bomb push rabbit puzzle fiber size crawl feature";
+var mnemonic = "mix grant awesome thank frown rookie absurd purpose across slush identify explain";

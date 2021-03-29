@@ -1,1 +1,1 @@
-var mnemonic = "jump liquid company laugh pattern flight nation speak roof connect dust truck";
+var mnemonic = "trumpet dice glimpse proof belt valley such cattle you urge fee atom";

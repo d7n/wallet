@@ -1,1 +1,1 @@
-var mnemonic = "appear knee toe theory panic yard wealth govern gloom label moment rude";
+var mnemonic = "double gun torch member secret risk fix crater identify dove tribe mad";

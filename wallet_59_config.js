@@ -1,1 +1,1 @@
-var mnemonic = "flip omit symptom elegant panel ring away erase glow chat curious omit";
+var mnemonic = "mule consider travel inherit random argue decade buzz art finger trophy gift";

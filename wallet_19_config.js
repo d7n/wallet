@@ -1,1 +1,1 @@
-var mnemonic = "wall arrive predict clip climb throw taxi provide mask issue buffalo slide";
+var mnemonic = "shallow pulp job illegal slam eternal flame hundred obvious puppy great year";

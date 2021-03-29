@@ -1,1 +1,1 @@
-var mnemonic = "timber sustain material hello lucky grant someone waste unlock lesson cook ancient";
+var mnemonic = "nothing sort often history absorb gentle burden jazz quarter burst evolve soap";

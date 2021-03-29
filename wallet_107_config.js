@@ -1,1 +1,1 @@
-var mnemonic = "lend wine saddle oyster decline depth member three devote rail common tilt";
+var mnemonic = "agree all crunch move novel cupboard solid convince script crystal memory pilot";

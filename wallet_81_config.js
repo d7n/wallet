@@ -1,1 +1,1 @@
-var mnemonic = "asset provide client blade hole leg sweet chunk tail insect hundred violin";
+var mnemonic = "blue small primary duty train crack depend prosper useless minor car window";

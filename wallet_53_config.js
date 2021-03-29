@@ -1,1 +1,1 @@
-var mnemonic = "virtual amateur mask chief hub earn actual issue west nest best miracle";
+var mnemonic = "clock onion put call scatter margin apple giraffe antenna insect case goat";

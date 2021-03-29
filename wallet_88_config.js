@@ -1,1 +1,1 @@
-var mnemonic = "any spring cover host please clarify claim purse promote sweet spirit common";
+var mnemonic = "mango pencil meadow gesture couple promote sick shine spatial humor fault today";

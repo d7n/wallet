@@ -1,1 +1,1 @@
-var mnemonic = "olive exhibit differ broom moon turkey quality lunar village version hospital industry";
+var mnemonic = "crane love winter diesel drastic monkey crush fury slender debate that muffin";

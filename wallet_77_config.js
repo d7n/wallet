@@ -1,1 +1,1 @@
-var mnemonic = "curve fluid office nothing observe guide join wall sugar slow explain oppose";
+var mnemonic = "six scheme point industry robust mule bomb satisfy rack verb swear attack";

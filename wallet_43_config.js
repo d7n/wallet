@@ -1,1 +1,1 @@
-var mnemonic = "slim warfare traffic unfair rebuild measure dynamic sell draw dinosaur minute pupil";
+var mnemonic = "anchor mosquito soldier blouse month rare fat reduce ramp episode witness sunset";

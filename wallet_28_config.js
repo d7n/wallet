@@ -1,1 +1,1 @@
-var mnemonic = "figure system nerve tired retreat bus liberty country dynamic race ignore engine";
+var mnemonic = "century weapon skill book choose coil history visit kitchen caught thing pulse";

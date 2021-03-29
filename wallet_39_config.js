@@ -1,1 +1,1 @@
-var mnemonic = "march great early program fever slogan sustain steel door book shadow shift";
+var mnemonic = "major token panel human apology toward two leopard oxygen patrol phone report";

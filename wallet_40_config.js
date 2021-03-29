@@ -1,1 +1,1 @@
-var mnemonic = "drop shiver arctic oval gain core air increase industry include predict stage";
+var mnemonic = "real knee blast wish begin modify choice goose topic noodle sponsor group";

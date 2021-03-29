@@ -1,1 +1,1 @@
-var mnemonic = "under episode lady setup health speak cliff main meadow cherry bulb bless";
+var mnemonic = "tobacco attitude museum nut hire barely canyon citizen prepare color monkey source";
