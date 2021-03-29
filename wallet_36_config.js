@@ -1,1 +1,1 @@
-var mnemonic = "dose fiscal cement park disorder regular summer sun together between real word";
+var mnemonic = "woman post zone powder cloth modify prize fork bench gospel craft earn";

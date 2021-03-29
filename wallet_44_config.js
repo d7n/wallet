@@ -1,1 +1,1 @@
-var mnemonic = "apple typical acid hazard enable session large coral snow step march tide";
+var mnemonic = "moral faint cart settle priority dragon reason capital estate alarm coin much";

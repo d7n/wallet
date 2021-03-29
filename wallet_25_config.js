@@ -1,1 +1,1 @@
-var mnemonic = "jaguar mass neither drill palm time vintage flash upon eagle broom gaze";
+var mnemonic = "shrimp this prepare crop voyage deputy know siren peasant surround large hat";

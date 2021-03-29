@@ -1,1 +1,1 @@
-var mnemonic = "extra stay exhibit beauty magnet pattern giant change gorilla arm please defy";
+var mnemonic = "clinic tired glare genuine nephew proud empty ill column fatal hen govern";

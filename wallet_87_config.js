@@ -1,1 +1,1 @@
-var mnemonic = "woman citizen captain social eager apple marble cover regular mosquito cruel crack";
+var mnemonic = "ladder squirrel cereal proof panel violin original erode cruise foster lift bless";

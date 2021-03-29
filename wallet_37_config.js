@@ -1,1 +1,1 @@
-var mnemonic = "country vocal episode anchor draft mom describe object green ancient clip burden";
+var mnemonic = "palace drum theme seek eagle grid survey laugh face wise before bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "term memory wolf firm weekend index effort wife dice crush bread movie";
+var mnemonic = "snow gun quality unusual find between foil live only artefact opinion family";

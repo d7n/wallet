@@ -1,1 +1,1 @@
-var mnemonic = "solution motor apology thunder fan hero surge potato network tackle cover off";
+var mnemonic = "share humor awful win owner clever unhappy yard basic quit comfort embody";

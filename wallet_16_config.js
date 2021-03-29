@@ -1,1 +1,1 @@
-var mnemonic = "exile credit frown dash sword pulp episode cruel leg trust system mimic";
+var mnemonic = "soap brush reveal business ribbon antique company soul income ceiling know sadness";

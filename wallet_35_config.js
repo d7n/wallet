@@ -1,1 +1,1 @@
-var mnemonic = "curious estate little vendor cat escape pyramid until march certain foot train";
+var mnemonic = "local arch draw firm hazard wrestle spirit busy history two must grief";

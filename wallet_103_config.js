@@ -1,1 +1,1 @@
-var mnemonic = "debate where churn awesome siege fashion gym maid fog clay rice fish";
+var mnemonic = "warrior plate neutral gap bachelor loan object march main motion catalog piece";

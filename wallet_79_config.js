@@ -1,1 +1,1 @@
-var mnemonic = "hurdle punch pony bone chronic tribe hair fine like pride rather melody";
+var mnemonic = "twice comic siege nation choice three soda innocent screen course roof march";

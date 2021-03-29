@@ -1,1 +1,1 @@
-var mnemonic = "olive quote very bag indicate grace pistol galaxy cricket mass hold wait";
+var mnemonic = "girl swallow season portion palm rescue cloth venture absent garment riot denial";

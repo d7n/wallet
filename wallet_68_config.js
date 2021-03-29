@@ -1,1 +1,1 @@
-var mnemonic = "pioneer health shell arrive choose boost twin roof height prison giraffe dizzy";
+var mnemonic = "almost mixed mass smile brief hello slide undo alone solar file match";

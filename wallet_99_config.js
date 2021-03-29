@@ -1,1 +1,1 @@
-var mnemonic = "virtual staff chief pencil way keep drive unfair step sure neglect worth";
+var mnemonic = "habit mention stand loyal update thing load wire vehicle wage direct witness";

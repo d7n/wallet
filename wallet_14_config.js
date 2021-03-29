@@ -1,1 +1,1 @@
-var mnemonic = "scorpion youth loop diesel dose glory shaft post awake census harsh judge";
+var mnemonic = "index pear pipe catalog swarm define number impulse wave monkey maximum above";

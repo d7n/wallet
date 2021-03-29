@@ -1,1 +1,1 @@
-var mnemonic = "asset grape boss visual nominee require voyage choice ticket icon buffalo route";
+var mnemonic = "novel term else prize abandon steel hen monitor island blue tag green";

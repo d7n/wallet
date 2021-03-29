@@ -1,1 +1,1 @@
-var mnemonic = "motor when plunge couch come arch december lemon duck apart awake profit";
+var mnemonic = "spray toe below snow ignore supreme silly joke weapon onion pizza enable";

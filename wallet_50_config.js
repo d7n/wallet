@@ -1,1 +1,1 @@
-var mnemonic = "thumb wrong unable obscure pluck thrive junk fruit define angle bridge faith";
+var mnemonic = "stick caution puzzle tuition diet sight luggage slogan axis couple resource repeat";

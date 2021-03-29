@@ -1,1 +1,1 @@
-var mnemonic = "baby erupt zebra decade spawn rather bone evidence tilt length wet ticket";
+var mnemonic = "civil there play worth sheriff blanket ride dish funny mosquito tuna people";

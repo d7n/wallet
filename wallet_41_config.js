@@ -1,1 +1,1 @@
-var mnemonic = "squeeze situate acoustic market bus drop captain exit six comfort gym install";
+var mnemonic = "heart nerve tray penalty mad pretty daughter exit special expose never hip";

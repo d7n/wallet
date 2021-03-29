@@ -1,1 +1,1 @@
-var mnemonic = "icon umbrella mercy still say divert glad belt address document asthma test";
+var mnemonic = "fiber easily riot tail cram horse repair table wing system swarm rescue";

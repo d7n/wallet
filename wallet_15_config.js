@@ -1,1 +1,1 @@
-var mnemonic = "same skate depart ecology phrase shallow unfold butter advice film cousin fiscal";
+var mnemonic = "yellow carpet crucial stock bridge leave cost alert october naive suspect program";

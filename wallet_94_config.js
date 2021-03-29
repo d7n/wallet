@@ -1,1 +1,1 @@
-var mnemonic = "move document gym talent clay unaware piece media smooth cactus glow imitate";
+var mnemonic = "term network tail dune salon orient maple earn begin best stove citizen";

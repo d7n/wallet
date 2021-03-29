@@ -1,1 +1,1 @@
-var mnemonic = "maximum sort donor loop swim actor daring federal helmet keep table funny";
+var mnemonic = "merit marine dose merge wild angry stuff seed patch shoot blue illegal";

@@ -1,1 +1,1 @@
-var mnemonic = "cliff harsh subject bring genre spirit later snow flower blanket soda air";
+var mnemonic = "victory diary school drift shell visit monitor embrace biology sponsor off saddle";

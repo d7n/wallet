@@ -1,1 +1,1 @@
-var mnemonic = "gold clump priority senior sugar blue spike canoe crouch cheese surprise excite";
+var mnemonic = "wool firm company clown senior property manage bike judge asthma drop patrol";

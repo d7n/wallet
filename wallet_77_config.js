@@ -1,1 +1,1 @@
-var mnemonic = "grass bullet heavy there segment scrap moment calm chat comic lens anxiety";
+var mnemonic = "target drama bundle price double prefer find cable begin color affair they";

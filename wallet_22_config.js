@@ -1,1 +1,1 @@
-var mnemonic = "powder sudden address super issue snap family valve roast drum mosquito jar";
+var mnemonic = "sibling salute eternal inherit fetch today coyote garbage canal cave rival remain";

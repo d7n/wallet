@@ -1,1 +1,1 @@
-var mnemonic = "trust faculty way concert position caught traffic diamond author share brain ramp";
+var mnemonic = "make vibrant domain pool until among churn belt until save pluck tobacco";

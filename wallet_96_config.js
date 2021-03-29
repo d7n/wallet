@@ -1,1 +1,1 @@
-var mnemonic = "inmate hollow excess perfect baby click dentist interest scale large charge road";
+var mnemonic = "beauty observe bicycle reduce then test fatal cinnamon crowd palm crunch cupboard";

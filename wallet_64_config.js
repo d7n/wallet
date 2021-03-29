@@ -1,1 +1,1 @@
-var mnemonic = "answer hammer slab word type dinosaur donkey capable decade trap boss diet";
+var mnemonic = "lake manage casino still destroy almost amazing feature yellow amazing decide poverty";

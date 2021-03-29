@@ -1,1 +1,1 @@
-var mnemonic = "slender wood betray replace aim muffin volume chief gas ability silver hazard";
+var mnemonic = "fashion virus tank topic saddle announce pencil gaze ridge car naive just";

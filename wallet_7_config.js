@@ -1,1 +1,1 @@
-var mnemonic = "recall oven gift verify range fiscal embark innocent west phone hand size";
+var mnemonic = "mercy list tip indicate ridge ask relief anger soldier express ice marriage";

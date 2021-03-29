@@ -1,1 +1,1 @@
-var mnemonic = "avocado sand spirit horror meadow today woman tape element loud crawl trade";
+var mnemonic = "safe blood midnight panther reform bronze pupil chronic dragon sand super comic";

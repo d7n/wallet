@@ -1,1 +1,1 @@
-var mnemonic = "genius gallery place duck bacon derive weasel ocean crucial purchase rabbit ten";
+var mnemonic = "crowd sail sudden tissue timber mammal talk penalty twenty penalty tell pair";

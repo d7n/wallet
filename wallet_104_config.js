@@ -1,1 +1,1 @@
-var mnemonic = "decline fiction gather swing armed kitchen negative brown scorpion elder prevent double";
+var mnemonic = "essay suffer dizzy museum damage salute village panel grit cheese ensure crouch";

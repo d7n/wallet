@@ -1,1 +1,1 @@
-var mnemonic = "round extra average vague another refuse swarm general sorry warrior shift chat";
+var mnemonic = "message demise smooth child useful error bind cute nurse silly oven vault";

@@ -1,1 +1,1 @@
-var mnemonic = "obscure vacant depth divorce come buyer sail lizard install chicken square corn";
+var mnemonic = "knee fall fitness alcohol permit echo silent base shrimp panel brush garage";

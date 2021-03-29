@@ -1,1 +1,1 @@
-var mnemonic = "wrong vocal fatigue usual moral cost large cool purpose resist grain radio";
+var mnemonic = "response radio vacuum budget almost hotel dial unknown nerve invite pull spirit";

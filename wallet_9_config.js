@@ -1,1 +1,1 @@
-var mnemonic = "runway brown expire antique gallery calm universe half shadow someone pave soldier";
+var mnemonic = "awake impact immune boat scatter right toss chicken poverty shoe display eagle";

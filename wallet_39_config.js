@@ -1,1 +1,1 @@
-var mnemonic = "sibling orient tide embrace clown layer cave degree room holiday pet deposit";
+var mnemonic = "tiny city mandate cinnamon index elder corn scissors scout solid rack vocal";

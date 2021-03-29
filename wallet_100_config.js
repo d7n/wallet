@@ -1,1 +1,1 @@
-var mnemonic = "pet unaware ethics tomorrow expire divert front term decorate sell lazy layer";
+var mnemonic = "box panther faculty size bar volcano luxury dream choose gather trouble diary";

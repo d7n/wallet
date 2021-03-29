@@ -1,1 +1,1 @@
-var mnemonic = "mercy broken casual position cattle snap attitude cruel coach duty glove dance";
+var mnemonic = "aspect join warm expand frozen wheel sample tube hero indoor clock quiz";

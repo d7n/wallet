@@ -1,1 +1,1 @@
-var mnemonic = "cereal proud intact side combine stone reward buzz crush alcohol shoot police";
+var mnemonic = "drink chicken assume check more general muscle deputy salmon side amateur awesome";

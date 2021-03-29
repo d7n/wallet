@@ -1,1 +1,1 @@
-var mnemonic = "amount farm puzzle hero rose orange jar milk rocket frame still radar";
+var mnemonic = "cake lion unique magnet town mention more balcony that debris dolphin cross";

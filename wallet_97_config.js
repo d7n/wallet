@@ -1,1 +1,1 @@
-var mnemonic = "waste remove drift sniff hair fat basic service original manage bottom cabbage";
+var mnemonic = "endless parrot original worth surge jump usual junior twenty category nice tent";

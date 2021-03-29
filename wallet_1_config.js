@@ -1,1 +1,1 @@
-var mnemonic = "forum trap limb evolve talent trap borrow powder trophy decide maximum stereo";
+var mnemonic = "doctor sorry omit loud cage walk mandate novel ripple whip monitor flee";

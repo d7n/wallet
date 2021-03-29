@@ -1,1 +1,1 @@
-var mnemonic = "speak style outer afraid maximum title strong surface adult ordinary face chief";
+var mnemonic = "dream sample action increase bachelor citizen cement panel metal dumb pulp gaze";

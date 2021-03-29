@@ -1,1 +1,1 @@
-var mnemonic = "urban habit venue copper slab picnic zero adapt knife quit trophy common";
+var mnemonic = "stick entire carpet come receive purity swap bounce crowd sudden despair captain";

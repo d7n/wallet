@@ -1,1 +1,1 @@
-var mnemonic = "innocent antenna seven agent quick wing outdoor genius party happy police hint";
+var mnemonic = "purity relief certain lawn end logic priority obscure grief lemon peanut mask";

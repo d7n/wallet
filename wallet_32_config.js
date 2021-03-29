@@ -1,1 +1,1 @@
-var mnemonic = "fever december junior arrow erode tower they road sand fiber floor festival";
+var mnemonic = "program void margin vacant drama expand melody finish more alcohol height actress";

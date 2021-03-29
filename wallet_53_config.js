@@ -1,1 +1,1 @@
-var mnemonic = "course enhance under gather mirror guitar sheriff burden frame female vacant achieve";
+var mnemonic = "anger tail gallery pool reject small together project fitness smoke song caught";

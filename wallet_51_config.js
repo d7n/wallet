@@ -1,1 +1,1 @@
-var mnemonic = "type input always boss fade column bar six business episode wood sketch";
+var mnemonic = "love clever blast alpha increase document myself someone agent rabbit apart nature";

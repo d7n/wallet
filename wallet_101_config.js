@@ -1,1 +1,1 @@
-var mnemonic = "tomato noble demand damage that deer glide today custom plastic north balance";
+var mnemonic = "neither usage vendor life satisfy number disorder project almost reunion give accident";

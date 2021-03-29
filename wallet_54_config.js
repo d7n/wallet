@@ -1,1 +1,1 @@
-var mnemonic = "regret neck wool soap slot piece lawn spatial gossip ozone fabric capable";
+var mnemonic = "until poet click ancient divorce drill video drink find across sponsor metal";

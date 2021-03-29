@@ -1,1 +1,1 @@
-var mnemonic = "entire fat insane heavy manage song notice false letter tiny observe theme";
+var mnemonic = "mechanic toss roast barrel pride boat disagree penalty cancel guess echo tragic";

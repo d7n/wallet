@@ -1,1 +1,1 @@
-var mnemonic = "address decide vote wedding chief horse until equip dwarf cotton dinosaur quiz";
+var mnemonic = "dust rubber fruit bargain august general slow stem leisure vocal blast surface";

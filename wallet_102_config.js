@@ -1,1 +1,1 @@
-var mnemonic = "category weekend coast turn kitten slice behind half inside equip spread eye";
+var mnemonic = "toss drip saddle toss thrive moral spatial noise discover valve monster book";

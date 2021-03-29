@@ -1,1 +1,1 @@
-var mnemonic = "push turkey brown smooth weasel spread swing base network valley connect finish";
+var mnemonic = "slogan depart mule owner woman patient reduce popular wasp light blame length";

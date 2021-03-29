@@ -1,1 +1,1 @@
-var mnemonic = "round cup onion team exhibit ill special spin rocket goat render venture";
+var mnemonic = "ostrich unveil limb chimney apart acquire attract embrace believe equal solve lunar";

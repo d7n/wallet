@@ -1,1 +1,1 @@
-var mnemonic = "gap caught twice crane excuse spice kangaroo later destroy decide song depart";
+var mnemonic = "real vibrant rare gesture initial scout adapt own eternal puppy gravity involve";

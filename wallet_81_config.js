@@ -1,1 +1,1 @@
-var mnemonic = "audit horse ripple elephant candy seat limb body improve dad track sphere";
+var mnemonic = "spray practice grant scare auto hen they wink brisk magnet lawsuit decrease";

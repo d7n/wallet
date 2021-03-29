@@ -1,1 +1,1 @@
-var mnemonic = "luggage seven glance armor phone envelope manual swamp purpose gain that motor";
+var mnemonic = "name broken matrix soda exclude stage timber put umbrella genre like zebra";

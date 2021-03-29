@@ -1,1 +1,1 @@
-var mnemonic = "afraid will lottery equal absent govern opera inch fox uphold nephew winner";
+var mnemonic = "language salmon kiwi normal swap tray fortune asset rescue physical denial gift";

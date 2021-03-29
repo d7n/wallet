@@ -1,1 +1,1 @@
-var mnemonic = "click inform stick marine goddess denial wool abandon engine suspect salon cabbage";
+var mnemonic = "upper leisure list cute episode wine wish dawn often accuse fork design";

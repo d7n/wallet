@@ -1,1 +1,1 @@
-var mnemonic = "gather shield miss elevator dirt limb tell bamboo giggle push output chronic";
+var mnemonic = "dice script install danger reopen armed hammer upset poem latin discover loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "general ancient awesome undo rapid obtain joy diesel engine mechanic owner fee";
+var mnemonic = "firm caution gain jazz glimpse parrot nice aspect rocket half dust furnace";

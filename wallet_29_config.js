@@ -1,1 +1,1 @@
-var mnemonic = "require mention actress youth more tourist soldier dice farm color slight wise";
+var mnemonic = "coconut raw struggle frog clarify inner teach wage profit soccer improve gas";

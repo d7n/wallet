@@ -1,1 +1,1 @@
-var mnemonic = "family rib question bacon debate grid elbow piece play oil goat frame";
+var mnemonic = "cradle leopard tiger about tent circle cricket tongue junk wrong demand flock";

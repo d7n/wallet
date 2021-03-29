@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit torch smile silk edge length scare zone start modify turtle reduce";
+var mnemonic = "chief scrap frozen junk drip print urban angry enough toward card stone";

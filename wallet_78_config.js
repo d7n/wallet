@@ -1,1 +1,1 @@
-var mnemonic = "jeans night now input service theory sport capable aerobic friend embody humble";
+var mnemonic = "dawn title exhibit grape iron guilt victory security warfare dog parade series";

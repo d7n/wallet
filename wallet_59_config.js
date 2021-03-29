@@ -1,1 +1,1 @@
-var mnemonic = "mother fox alley behind version pioneer rule crazy picnic nominee hour tent";
+var mnemonic = "once dance tooth urban exclude work light mansion cancel original asset knife";

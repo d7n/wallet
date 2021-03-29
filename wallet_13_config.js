@@ -1,1 +1,1 @@
-var mnemonic = "vicious fog token uphold distance comic jewel fun atom together axis whip";
+var mnemonic = "invest veteran amount banana carry similar enable cup again penalty accident kitchen";

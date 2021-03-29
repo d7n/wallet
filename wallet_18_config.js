@@ -1,1 +1,1 @@
-var mnemonic = "hockey almost occur fever broken habit snow beyond parade cloud grief affair";
+var mnemonic = "afraid end horror erosion excess similar fitness pudding title monitor dismiss quarter";

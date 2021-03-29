@@ -1,1 +1,1 @@
-var mnemonic = "enrich glove card piano change foster observe dynamic forest best price fox";
+var mnemonic = "ramp grape south shock sadness pull remember rabbit impose virus night behind";

@@ -1,1 +1,1 @@
-var mnemonic = "fence drill ethics delay grunt enter tower gas dish hero walnut fragile";
+var mnemonic = "exist style lawsuit year hire misery shrimp inhale scheme frame erode sail";

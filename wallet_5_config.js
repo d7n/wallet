@@ -1,1 +1,1 @@
-var mnemonic = "shiver like reopen report defense gift snack shine suit arrow armor delay";
+var mnemonic = "pool exotic observe unit mushroom plastic deposit omit vocal panda between learn";

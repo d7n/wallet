@@ -1,1 +1,1 @@
-var mnemonic = "expire inside lake this used job clutch kid host assist elbow old";
+var mnemonic = "tool wife join fetch grace juice noodle nuclear found flower blur cargo";

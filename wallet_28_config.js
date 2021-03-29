@@ -1,1 +1,1 @@
-var mnemonic = "copper occur oven vacant drill ill wool half power game hamster sudden";
+var mnemonic = "immense undo oval invest gym hungry volume sun uncle guilt fade hobby";

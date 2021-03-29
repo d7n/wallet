@@ -1,1 +1,1 @@
-var mnemonic = "flash also clinic husband blush name someone theme number stock slush citizen";
+var mnemonic = "loop tape scatter before net news social lawsuit agree base average camp";

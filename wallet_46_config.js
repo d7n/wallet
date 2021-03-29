@@ -1,1 +1,1 @@
-var mnemonic = "clutch expect review whip clip resource smart elbow chef hurt attack spoon";
+var mnemonic = "various chaos enjoy sphere require pink forest input crane install wheel frog";

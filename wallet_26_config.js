@@ -1,1 +1,1 @@
-var mnemonic = "spawn amazing proud knock economy alert belt wedding few skirt parent dinosaur";
+var mnemonic = "deer author measure people dilemma slot magnet nominee cause interest fence movie";

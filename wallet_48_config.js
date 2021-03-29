@@ -1,1 +1,1 @@
-var mnemonic = "vessel surface trade cabbage rich access float economy umbrella glad rail page";
+var mnemonic = "plate zero move bus valley rare solve swing slender dinosaur wrestle burst";

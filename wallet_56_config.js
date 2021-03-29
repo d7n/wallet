@@ -1,1 +1,1 @@
-var mnemonic = "drift plunge rough divide comfort casual ahead harvest input south daughter present";
+var mnemonic = "dice stereo vessel smart jealous useless rib prize zoo hurdle reject receive";

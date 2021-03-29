@@ -1,1 +1,1 @@
-var mnemonic = "legal aunt dice error behave bring short member endorse same property child";
+var mnemonic = "control found inhale deliver essence stuff traffic fly toast demand claw lens";

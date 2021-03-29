@@ -1,1 +1,1 @@
-var mnemonic = "offer help page chuckle tennis hospital entry wrong surge bonus inmate trip";
+var mnemonic = "zebra comic wage elite wise price dry paddle deliver muffin replace month";
