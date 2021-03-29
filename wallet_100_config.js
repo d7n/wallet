@@ -1,1 +1,1 @@
-var mnemonic = "blossom finger myth general elite silent bulb bid vessel brain try doctor";
+var mnemonic = "warfare lecture diagram absent foam another coach glow buffalo announce song popular";

@@ -1,1 +1,1 @@
-var mnemonic = "genius voyage slice elegant diary truth digital busy donor reason gorilla tide";
+var mnemonic = "globe twist company amount tornado quality then zone february guide diary blanket";

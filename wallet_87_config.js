@@ -1,1 +1,1 @@
-var mnemonic = "subject polar quick only outside mansion tower speak sponsor hair april hollow";
+var mnemonic = "task midnight hazard denial battle choose firm spray crew bullet bike toilet";

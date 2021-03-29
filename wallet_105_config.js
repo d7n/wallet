@@ -1,1 +1,1 @@
-var mnemonic = "share essence member dash analyst fabric bonus can fat clump police rate";
+var mnemonic = "give replace wall divorce exile bleak flame feel pet orient unfair village";

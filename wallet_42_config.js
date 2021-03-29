@@ -1,1 +1,1 @@
-var mnemonic = "annual shove tail expire afraid detect arrow under special dwarf feature people";
+var mnemonic = "void shift ancient sand hold clerk negative skirt mango kid snow miss";

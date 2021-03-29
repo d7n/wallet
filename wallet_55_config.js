@@ -1,1 +1,1 @@
-var mnemonic = "danger wild convince magic top oppose law music sleep churn review impose";
+var mnemonic = "napkin other veteran virus quantum captain unusual banana mosquito october worry peasant";

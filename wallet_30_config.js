@@ -1,1 +1,1 @@
-var mnemonic = "calm tribe wing hire level grace swap allow recall exotic soccer shadow";
+var mnemonic = "have shed clinic anxiety visit ill sponsor print joy enter fringe piece";

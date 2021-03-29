@@ -1,1 +1,1 @@
-var mnemonic = "still bar clip foil olive wool knock fresh leisure crystal cook stem";
+var mnemonic = "spike hedgehog hurry gorilla scissors mom boat brother evolve job throw collect";

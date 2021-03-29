@@ -1,1 +1,1 @@
-var mnemonic = "soul scheme fun talent animal neck powder mechanic luxury setup culture awkward";
+var mnemonic = "awake beef spoil cover collect raven sudden canyon pill jacket boost gas";

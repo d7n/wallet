@@ -1,1 +1,1 @@
-var mnemonic = "fire fiction catch clip inquiry kitchen stage aspect fat duty subject dune";
+var mnemonic = "hotel health tissue basic north diary short school sort item develop market";

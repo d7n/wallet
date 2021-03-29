@@ -1,1 +1,1 @@
-var mnemonic = "wait sun harbor toss submit orient jazz desk green dentist fat roast";
+var mnemonic = "innocent time forum fence about dust process luxury oyster pet rib long";

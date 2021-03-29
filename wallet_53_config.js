@@ -1,1 +1,1 @@
-var mnemonic = "furnace axis unfold protect collect champion draw feed prevent wedding flat quiz";
+var mnemonic = "winner radio twist inflict assault remain divide lounge child mesh slender achieve";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss unaware myth menu debate pizza because pet merry giant index august";
+var mnemonic = "leaf asset elbow route large enlist tortoise sing outer winner sauce mother";

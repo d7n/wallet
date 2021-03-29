@@ -1,1 +1,1 @@
-var mnemonic = "gate approve toilet winter image sheriff smile gloom orient ankle exhaust satisfy";
+var mnemonic = "finger around galaxy kid shop devote private high cage dragon pretty option";

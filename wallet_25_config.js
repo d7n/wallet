@@ -1,1 +1,1 @@
-var mnemonic = "wheel concert rent extend unhappy enact name amused reduce trick away manual";
+var mnemonic = "brush juice current culture enemy rain aim hungry decrease border push style";

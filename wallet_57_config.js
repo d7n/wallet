@@ -1,1 +1,1 @@
-var mnemonic = "merge furnace negative income device figure loud major want section check account";
+var mnemonic = "hill globe pride prepare accident again hotel autumn draw notice rapid fan";

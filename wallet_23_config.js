@@ -1,1 +1,1 @@
-var mnemonic = "pottery boss better cruel aunt hour drive cactus october wall glory arrow";
+var mnemonic = "evolve dragon cake peace gesture false beauty wing future top mean patrol";

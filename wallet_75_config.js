@@ -1,1 +1,1 @@
-var mnemonic = "comic stick garbage castle suspect clump begin report first receive mobile much";
+var mnemonic = "hen nuclear conduct manage bitter thought powder tree hurry surface stick quality";

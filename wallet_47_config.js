@@ -1,1 +1,1 @@
-var mnemonic = "fuel choose attract diamond scene pattern fringe valid false napkin tired render";
+var mnemonic = "soon dune level vicious pizza party bike best grain scout sure estate";

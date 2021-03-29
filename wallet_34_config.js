@@ -1,1 +1,1 @@
-var mnemonic = "cool dragon rifle margin ridge farm mass point vital hybrid letter inhale";
+var mnemonic = "case disorder balance panel master toddler disorder tell sad avoid myth episode";

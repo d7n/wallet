@@ -1,1 +1,1 @@
-var mnemonic = "thunder eagle machine better scare staff client disagree quantum final gesture tomorrow";
+var mnemonic = "pattern canal casino either sustain guess route receive staff diary length punch";

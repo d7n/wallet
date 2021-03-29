@@ -1,1 +1,1 @@
-var mnemonic = "paper youth stock gather crowd broken mammal donate oyster forest fall chat";
+var mnemonic = "strike scorpion bus legend capital early draft wrestle motion real opinion rebel";

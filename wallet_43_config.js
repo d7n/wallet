@@ -1,1 +1,1 @@
-var mnemonic = "useless kind illness flash butter prison hotel maximum frost educate sock garbage";
+var mnemonic = "real supreme pyramid sauce core similar desk lobster ceiling awesome behave inquiry";

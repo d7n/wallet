@@ -1,1 +1,1 @@
-var mnemonic = "steak crazy hollow emotion like flight level life pond board dignity bounce";
+var mnemonic = "color someone cushion cotton evoke impact prevent sing achieve tower course smoke";

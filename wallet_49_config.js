@@ -1,1 +1,1 @@
-var mnemonic = "armed piano duck okay clinic share mammal receive lottery behind index twist";
+var mnemonic = "devote rain case guide kite bless between regular play erode piano smooth";

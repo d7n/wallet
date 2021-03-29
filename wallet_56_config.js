@@ -1,1 +1,1 @@
-var mnemonic = "wet stereo book mass assist inch sword easy myth girl original vivid";
+var mnemonic = "focus flower panic impulse rely loan happy inspire cargo cool picnic feed";

@@ -1,1 +1,1 @@
-var mnemonic = "shrug lake idle inquiry surge black siege below case about spend snap";
+var mnemonic = "blue cart wasp fever tone weapon sea chunk arch aware sphere legal";

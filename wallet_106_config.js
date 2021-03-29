@@ -1,1 +1,1 @@
-var mnemonic = "dynamic execute rally omit minor music educate best icon heavy retreat scale";
+var mnemonic = "burger mirror ocean spin odor regret august scrub guitar duty error side";

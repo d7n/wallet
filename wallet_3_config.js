@@ -1,1 +1,1 @@
-var mnemonic = "scrub symbol monster typical cost decorate lock track cabbage cook harvest subject";
+var mnemonic = "armed pretty flame unique fabric glide vocal wage wink tennis open panic";

@@ -1,1 +1,1 @@
-var mnemonic = "okay now detail initial fatal behave tackle dentist always upper pluck crouch";
+var mnemonic = "explain dismiss person exit organ host embody cross become amateur noble radio";

@@ -1,1 +1,1 @@
-var mnemonic = "crumble tree sustain man stage wrist one swift cheese discover involve weasel";
+var mnemonic = "cement online garden snow edit cook divide farm high pass cactus fat";

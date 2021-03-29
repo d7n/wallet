@@ -1,1 +1,1 @@
-var mnemonic = "clap special degree grant sphere panic distance illegal luxury fine general only";
+var mnemonic = "popular success category one expose explain pilot odor gauge dirt tray hundred";

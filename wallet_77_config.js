@@ -1,1 +1,1 @@
-var mnemonic = "excuse fame depend record juice gown dinner weather banner guide exile license";
+var mnemonic = "owner occur volume sense patrol drink impulse over flock toast grape tide";

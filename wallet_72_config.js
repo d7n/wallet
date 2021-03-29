@@ -1,1 +1,1 @@
-var mnemonic = "elephant fortune margin outer enter predict learn grid sense flower fan tobacco";
+var mnemonic = "control napkin outdoor much celery census response gravity length oil wolf help";

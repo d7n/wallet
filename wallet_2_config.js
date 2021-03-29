@@ -1,1 +1,1 @@
-var mnemonic = "lend guide dentist robot arrest envelope chaos boil river picture chaos meadow";
+var mnemonic = "melt warfare tower angry bus kitten puzzle october lounge hundred attract damp";

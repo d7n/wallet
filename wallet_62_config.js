@@ -1,1 +1,1 @@
-var mnemonic = "tree apple ladder elephant brass suit soap bird modify purchase install since";
+var mnemonic = "fiscal oval ivory typical problem fork mushroom saddle admit fancy pyramid absurd";

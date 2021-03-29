@@ -1,1 +1,1 @@
-var mnemonic = "vivid tell chimney skull clip relax dose stick sting visit half miracle";
+var mnemonic = "palace cliff unfold slight struggle scheme digital repair journey under organ crater";

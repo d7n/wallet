@@ -1,1 +1,1 @@
-var mnemonic = "multiply path position charge impact group burger brush alone clean family soft";
+var mnemonic = "marble silver bonus hazard either salon basic divide upper soda pitch supply";

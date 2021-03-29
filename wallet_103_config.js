@@ -1,1 +1,1 @@
-var mnemonic = "laundry organ chat tongue try network leave oven junior diagram unique syrup";
+var mnemonic = "donor ship scrap resource real peanut inmate amateur distance miracle trumpet shock";

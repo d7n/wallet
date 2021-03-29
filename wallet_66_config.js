@@ -1,1 +1,1 @@
-var mnemonic = "leopard pave either daring patrol balance border embark clay palm essay ramp";
+var mnemonic = "sport party access act choice guide abuse kingdom report tribe rail retire";

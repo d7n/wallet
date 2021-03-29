@@ -1,1 +1,1 @@
-var mnemonic = "web special else matrix cash horse aisle address annual drum gesture say";
+var mnemonic = "husband charge february envelope casual twin issue off flash finish announce father";

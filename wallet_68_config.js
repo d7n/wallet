@@ -1,1 +1,1 @@
-var mnemonic = "private destroy attitude airport account praise jaguar oppose agree sock market future";
+var mnemonic = "minor cycle home bless outside broken design author toe drift marble flame";

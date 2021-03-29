@@ -1,1 +1,1 @@
-var mnemonic = "angry bargain anxiety stage treat best absurd trophy dove awake rural husband";
+var mnemonic = "shaft ancient song network verb balcony gorilla broken copper alarm cake tell";

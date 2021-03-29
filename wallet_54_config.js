@@ -1,1 +1,1 @@
-var mnemonic = "father anger prevent bless motion fold stove social drive invest coach hood";
+var mnemonic = "profit away corn gift abstract hand exile shrug fit copper disorder agree";

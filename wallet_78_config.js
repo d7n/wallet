@@ -1,1 +1,1 @@
-var mnemonic = "tenant scatter magnet color cake pilot spirit devote tortoise family foot shrug";
+var mnemonic = "segment soul wrong mosquito fog dove rally clarify anchor twenty used purchase";

@@ -1,1 +1,1 @@
-var mnemonic = "glory casino student eagle pledge sure tone another fatal pen prosper sound";
+var mnemonic = "because chicken unaware casino breeze payment bag universe alpha boost august only";

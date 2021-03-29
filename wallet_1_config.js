@@ -1,1 +1,1 @@
-var mnemonic = "trouble era chuckle pistol knife burger upset palm course either combine appear";
+var mnemonic = "favorite duty alter seed tornado chronic coral hungry tuna short dismiss middle";

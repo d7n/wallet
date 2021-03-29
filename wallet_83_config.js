@@ -1,1 +1,1 @@
-var mnemonic = "wine circle april pen angry health scan property check seed gym clay";
+var mnemonic = "kidney juice sunny pass true room practice edit evil vintage battle sponsor";

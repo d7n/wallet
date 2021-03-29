@@ -1,1 +1,1 @@
-var mnemonic = "diary pig broccoli neutral crush satisfy soon popular pet fox hawk latin";
+var mnemonic = "runway safe urge blast inflict mom dentist sentence feel purse toss swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "end sample rack gold survey slab dose above vital crazy smart fossil";
+var mnemonic = "summer relax alert evolve race tone actress silver dizzy talent six hurry";

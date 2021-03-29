@@ -1,1 +1,1 @@
-var mnemonic = "dignity account march strategy green sock surge evil autumn divorce shell display";
+var mnemonic = "else frog eye hamster purse nature ring mango snap amount forum gospel";

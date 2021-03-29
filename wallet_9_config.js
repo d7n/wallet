@@ -1,1 +1,1 @@
-var mnemonic = "crawl tent frown metal beauty monkey hole ahead exhibit expect pair stem";
+var mnemonic = "modify enforce wear snake avocado call nose defense can grain gym kind";

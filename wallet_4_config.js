@@ -1,1 +1,1 @@
-var mnemonic = "bachelor what screen chat exist success priority flash unveil royal fortune tag";
+var mnemonic = "rail weasel mobile december novel skull share canal lion brick fresh spoil";

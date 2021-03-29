@@ -1,1 +1,1 @@
-var mnemonic = "delay churn robust mail visa laundry minute defy wish net gift such";
+var mnemonic = "grocery nuclear dish melt parrot protect era certain royal book pledge world";

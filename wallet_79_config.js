@@ -1,1 +1,1 @@
-var mnemonic = "poem second virus tired citizen solution reduce maximum clock mass wish note";
+var mnemonic = "manage flower impact defy strategy inner volume pluck chronic country toward robust";

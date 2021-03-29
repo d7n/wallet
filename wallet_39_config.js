@@ -1,1 +1,1 @@
-var mnemonic = "normal energy shallow mercy impulse differ inspire simple olive auto twist rhythm";
+var mnemonic = "south bacon author page pistol civil network glance similar stage hungry gun";

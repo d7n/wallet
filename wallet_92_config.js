@@ -1,1 +1,1 @@
-var mnemonic = "dutch autumn dawn jar lady roof farm poverty duty flower spread sunset";
+var mnemonic = "noodle hold ritual bring salt coffee final girl high recipe guess urge";

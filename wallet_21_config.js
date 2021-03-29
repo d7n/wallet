@@ -1,1 +1,1 @@
-var mnemonic = "nature differ fluid trust laptop occur future category whale olive zero ivory";
+var mnemonic = "gospel donate jar news amazing post tragic kitten kidney quit clown remember";

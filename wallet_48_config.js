@@ -1,1 +1,1 @@
-var mnemonic = "purpose tuition mammal flee home decorate process cheese yard figure east design";
+var mnemonic = "average confirm turn double veteran hamster dentist slush match jealous cost hidden";

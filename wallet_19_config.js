@@ -1,1 +1,1 @@
-var mnemonic = "broken brother rent february tiny excuse happy fun matter tube present abandon";
+var mnemonic = "ghost answer jewel job exit thing dry swallow cereal choose brand busy";

@@ -1,1 +1,1 @@
-var mnemonic = "major kiwi fury arctic relax stand off sphere ostrich lake soup laundry";
+var mnemonic = "gaze cousin erase tragic mercy deliver chunk below remind very cook tilt";

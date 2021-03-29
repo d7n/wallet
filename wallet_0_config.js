@@ -1,1 +1,1 @@
-var mnemonic = "panther exile peanut quantum panther front bean favorite exchange rubber smile much";
+var mnemonic = "tired thank tooth position blouse helmet sausage main ride icon crash frown";

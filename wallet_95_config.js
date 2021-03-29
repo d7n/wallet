@@ -1,1 +1,1 @@
-var mnemonic = "mechanic odor rather castle brief rotate nuclear release gather reopen large occur";
+var mnemonic = "chalk wolf banana parade hair minor before satisfy aim save one crystal";

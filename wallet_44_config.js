@@ -1,1 +1,1 @@
-var mnemonic = "tooth food source goddess right final problem travel risk atom fame split";
+var mnemonic = "cancel glide column begin imitate drift peasant zoo heart gold evil town";

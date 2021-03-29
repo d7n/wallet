@@ -1,1 +1,1 @@
-var mnemonic = "clay bronze rabbit draft normal obey pill vote wealth alpha tool level";
+var mnemonic = "repeat canvas permit ozone own weird region cram dutch control distance life";

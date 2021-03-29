@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog state half ecology maze lens lake crouch design confirm enlist brick";
+var mnemonic = "nature bless brother scrap derive tiger bundle snap click crouch spice gasp";

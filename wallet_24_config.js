@@ -1,1 +1,1 @@
-var mnemonic = "predict polar edit fragile clip arm gentle unveil glass broken regret arrange";
+var mnemonic = "frog mixture need biology ask tide knock absorb only december solar crumble";

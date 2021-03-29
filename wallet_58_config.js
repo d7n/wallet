@@ -1,1 +1,1 @@
-var mnemonic = "cabbage spirit orbit clever today until lumber toe hub problem hazard upgrade";
+var mnemonic = "retire clean horror ask pony glide claw regret deal rib until public";

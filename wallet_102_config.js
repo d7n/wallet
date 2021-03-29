@@ -1,1 +1,1 @@
-var mnemonic = "art nest dream cancel motion account state water cart genuine fresh credit";
+var mnemonic = "unique visit trash puppy lemon shove rib crowd wear lesson mixture move";

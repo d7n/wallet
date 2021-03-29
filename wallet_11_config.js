@@ -1,1 +1,1 @@
-var mnemonic = "jeans hotel dune insect hair royal garment certain hero measure spoil sample";
+var mnemonic = "subject salon member rack scrap diary other wait shine comic emotion sleep";

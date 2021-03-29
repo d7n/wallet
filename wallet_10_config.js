@@ -1,1 +1,1 @@
-var mnemonic = "chat cannon cruel denial trust wheel gossip denial feel witness mango film";
+var mnemonic = "defense resemble mystery under artist ride first legend portion census sustain fuel";

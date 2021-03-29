@@ -1,1 +1,1 @@
-var mnemonic = "piece embrace announce oval act trick produce novel access fun begin galaxy";
+var mnemonic = "wet grow long stock verify key pause humble inquiry silent nurse vital";

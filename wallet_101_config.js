@@ -1,1 +1,1 @@
-var mnemonic = "cart cheap faint client oyster stove boss expect duck scrap good feel";
+var mnemonic = "pottery fatal demise type tragic horror gauge carpet convince climb planet sound";

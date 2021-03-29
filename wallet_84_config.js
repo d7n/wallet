@@ -1,1 +1,1 @@
-var mnemonic = "guide laptop gaze ancient speak lottery code sausage lens enhance bring fitness";
+var mnemonic = "inquiry radar beach busy potato symptom winner album festival orbit silly behave";

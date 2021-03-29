@@ -1,1 +1,1 @@
-var mnemonic = "sport high gather universe write version zoo census beach engage impact position";
+var mnemonic = "eye october siren example student subway route raw brand arm super balcony";

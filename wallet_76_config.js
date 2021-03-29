@@ -1,1 +1,1 @@
-var mnemonic = "coil gallery enemy item famous cloth vacuum harsh predict nose window town";
+var mnemonic = "half response daring tell divorce ring field quick win abuse oblige announce";

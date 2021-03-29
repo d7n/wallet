@@ -1,1 +1,1 @@
-var mnemonic = "clap junk mirror pipe fabric cabbage ankle uphold soup about agent circle";
+var mnemonic = "clown broom jacket rely chicken slim detect dinner dog unaware control celery";

@@ -1,1 +1,1 @@
-var mnemonic = "marble globe street chicken gain hedgehog between romance faint image cage trigger";
+var mnemonic = "angry coast entry dice brass dentist sleep liberty orchard mandate illegal inquiry";

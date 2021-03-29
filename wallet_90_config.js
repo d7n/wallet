@@ -1,1 +1,1 @@
-var mnemonic = "life day give squeeze warrior fiber gather fitness exercise client luxury bicycle";
+var mnemonic = "vendor post wink palace drip pilot boost drama leader wear yellow pond";

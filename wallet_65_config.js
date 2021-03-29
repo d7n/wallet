@@ -1,1 +1,1 @@
-var mnemonic = "base leaf valid swamp flat normal amount stamp liar dizzy mechanic alien";
+var mnemonic = "peanut general oyster cupboard wool ridge shield disorder invite want simple cattle";

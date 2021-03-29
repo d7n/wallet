@@ -1,1 +1,1 @@
-var mnemonic = "thumb senior vault absorb viable jewel exercise gossip example abuse leave tenant";
+var mnemonic = "sail quick smooth yard unit high perfect trick music winter organ chimney";

@@ -1,1 +1,1 @@
-var mnemonic = "outdoor head expect produce father act various large food spice school monkey";
+var mnemonic = "wave abstract initial moral tiger random peace couple jacket nice prosper hammer";

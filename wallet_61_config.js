@@ -1,1 +1,1 @@
-var mnemonic = "curtain current media stamp parade topic blossom announce spread viable present number";
+var mnemonic = "april motion maze cheap bachelor obtain kitchen arrow initial voyage live bundle";

@@ -1,1 +1,1 @@
-var mnemonic = "turn chuckle trumpet gesture chapter merit fun brick flock order sound infant";
+var mnemonic = "armor town wrestle letter plunge diagram inside alien lawn rack business wrist";

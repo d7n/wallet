@@ -1,1 +1,1 @@
-var mnemonic = "dutch across must ladder sphere faith police spoil ten foot below dawn";
+var mnemonic = "avoid shaft where hedgehog lounge sunny clog pause million figure margin evidence";

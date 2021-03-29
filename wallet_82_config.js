@@ -1,1 +1,1 @@
-var mnemonic = "card frost nature dish dry aspect wheel learn tonight margin monitor busy";
+var mnemonic = "surround room ancient program curve sunset island grunt book system oil task";

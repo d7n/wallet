@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit license day manage dumb vacant crew path version swear alert devote";
+var mnemonic = "cement deny drive slush grunt social income view rely train cricket boost";

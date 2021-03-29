@@ -1,1 +1,1 @@
-var mnemonic = "false buyer science tower fiber champion file panda draft divorce normal oil";
+var mnemonic = "weather cereal sunset nurse strategy cave attend strike traffic first water cry";

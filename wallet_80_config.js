@@ -1,1 +1,1 @@
-var mnemonic = "final rocket special student taxi space basic merry recall regular direct era";
+var mnemonic = "drill harbor urge grape exhibit other canyon round jump joke super witness";
