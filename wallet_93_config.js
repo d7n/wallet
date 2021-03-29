@@ -1,1 +1,1 @@
-var mnemonic = "index weird match section put engage vintage media autumn basic save clay";
+var mnemonic = "detect shiver fancy volcano sound south bonus voyage bid butter icon income";

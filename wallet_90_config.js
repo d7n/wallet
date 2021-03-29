@@ -1,1 +1,1 @@
-var mnemonic = "require cook aspect endorse bring lava always cushion develop hybrid kiss settle";
+var mnemonic = "lab busy bronze fault little cloth possible enough breeze estate airport chimney";

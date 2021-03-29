@@ -1,1 +1,1 @@
-var mnemonic = "provide develop funny panel interest analyst amount scorpion mention avocado typical grit";
+var mnemonic = "recipe census open absurd lock purity creek dust return enlist jaguar display";

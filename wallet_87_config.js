@@ -1,1 +1,1 @@
-var mnemonic = "grief deputy glass trash cloth height girl security crouch romance novel idle";
+var mnemonic = "deer morning business drop cliff ride lounge proud farm worry cousin occur";

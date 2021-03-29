@@ -1,1 +1,1 @@
-var mnemonic = "surround general traffic prison celery fun ribbon bridge swamp control mail try";
+var mnemonic = "acid mansion soup busy hedgehog keep six genuine birth wagon eye pig";

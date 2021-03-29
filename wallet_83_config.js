@@ -1,1 +1,1 @@
-var mnemonic = "series mansion blouse faint bus mention change start valid drama plastic polar";
+var mnemonic = "siren foam obscure immune rug gospel convince exclude protect trust misery cancel";

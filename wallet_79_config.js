@@ -1,1 +1,1 @@
-var mnemonic = "initial invite plastic noble charge umbrella lawn eager company lonely discover spray";
+var mnemonic = "seat tumble appear rubber foot bind skirt feed fatigue recipe grit heart";

@@ -1,1 +1,1 @@
-var mnemonic = "view silk name metal truck bundle baby major speak pilot yard tortoise";
+var mnemonic = "forest skill usual leaf couple tent close cluster wealth near admit cave";

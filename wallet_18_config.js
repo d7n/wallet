@@ -1,1 +1,1 @@
-var mnemonic = "share execute lava movie street trick margin vacuum sun flush candy path";
+var mnemonic = "public butter tree crash win vendor soldier wait inject swap science leave";

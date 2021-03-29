@@ -1,1 +1,1 @@
-var mnemonic = "raise together wrong corn together call unveil story devote will achieve knock";
+var mnemonic = "board country spring wasp bird bacon learn happy spot source code phrase";

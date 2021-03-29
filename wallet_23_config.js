@@ -1,1 +1,1 @@
-var mnemonic = "tag pause safe noodle absorb someone twenty steel income glad concert will";
+var mnemonic = "inform cable ship leave sauce milk birth almost gym honey master peanut";

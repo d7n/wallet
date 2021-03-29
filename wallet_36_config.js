@@ -1,1 +1,1 @@
-var mnemonic = "rare buddy undo pipe drastic pool liquid fire detect cousin lawn dentist";
+var mnemonic = "mixed shine diamond crisp pass scatter found early jeans despair must erode";

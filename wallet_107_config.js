@@ -1,1 +1,1 @@
-var mnemonic = "garbage album useful news source disagree glass salt degree frog unable twice";
+var mnemonic = "custom major ladder equal fine milk disease vivid season they denial fabric";

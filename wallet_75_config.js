@@ -1,1 +1,1 @@
-var mnemonic = "village surprise august tattoo enlist enhance obey plunge tongue nurse bright lava";
+var mnemonic = "session company hedgehog arm vague place scene receive grace abuse soap angle";

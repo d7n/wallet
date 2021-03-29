@@ -1,1 +1,1 @@
-var mnemonic = "swamp scare enforce stairs broken planet mimic able much update torch brisk";
+var mnemonic = "faint town upper rose small afford cradle hand punch relief abandon between";

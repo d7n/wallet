@@ -1,1 +1,1 @@
-var mnemonic = "athlete marriage story join celery upon crisp earth clock grant say excess";
+var mnemonic = "health tattoo farm lab brown super much shop provide acoustic dawn grab";

@@ -1,1 +1,1 @@
-var mnemonic = "guard mix fame depart card stem dentist input crash solution valve vote";
+var mnemonic = "peanut orphan mention reunion heart gap cable zero upon glow fence cave";

@@ -1,1 +1,1 @@
-var mnemonic = "claim subject syrup industry hazard dress bottom garage little disorder excess ahead";
+var mnemonic = "excuse apart infant fortune peace fine clutch suspect coffee aim april kitchen";

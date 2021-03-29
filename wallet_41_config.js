@@ -1,1 +1,1 @@
-var mnemonic = "muffin increase uphold explain sense cloud excite profit problem reason submit design";
+var mnemonic = "cloud island harbor erode lend cruise emotion sound hockey faculty guilt session";

@@ -1,1 +1,1 @@
-var mnemonic = "umbrella extend crowd erode tired baby entry wait crunch session ethics shiver";
+var mnemonic = "key illness object find trip regular switch casual wise girl doctor notable";

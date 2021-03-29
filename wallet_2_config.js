@@ -1,1 +1,1 @@
-var mnemonic = "physical search seed prevent ready opinion speak pond parade excite engage old";
+var mnemonic = "liberty demand corn estate garment grain lizard trash donor dove battle squirrel";

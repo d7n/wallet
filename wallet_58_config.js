@@ -1,1 +1,1 @@
-var mnemonic = "sunset upper say baby attract together discover install ready carpet few grunt";
+var mnemonic = "chimney today loan breeze below sunny gloom volcano hole job clarify tip";

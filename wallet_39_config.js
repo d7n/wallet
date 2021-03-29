@@ -1,1 +1,1 @@
-var mnemonic = "dentist scheme vendor glove daughter jump rack exile pill pull require final";
+var mnemonic = "thrive popular bachelor recycle movie hub index spike prison elbow risk kind";

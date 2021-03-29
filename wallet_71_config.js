@@ -1,1 +1,1 @@
-var mnemonic = "where media inspire cable endless pink train explain cool clinic tip excess";
+var mnemonic = "enjoy sample front limb bus food coral dilemma planet second multiply hip";

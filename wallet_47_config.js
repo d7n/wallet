@@ -1,1 +1,1 @@
-var mnemonic = "liar girl swim scatter lift gallery gift winter fork switch grass behind";
+var mnemonic = "equal anxiety brief toe control carry ketchup fringe taste auction twenty seven";

@@ -1,1 +1,1 @@
-var mnemonic = "address spread member cradle select museum border fit congress maid empower car";
+var mnemonic = "cloth fatal bitter rib inside quiz woman once orient convince slam used";

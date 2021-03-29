@@ -1,1 +1,1 @@
-var mnemonic = "physical coach away hungry gauge infant unit wagon check wide unfair vote";
+var mnemonic = "essay live tragic gasp proof plate faculty robust prosper forest praise act";

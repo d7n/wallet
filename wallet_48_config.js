@@ -1,1 +1,1 @@
-var mnemonic = "castle mansion combine tunnel fall powder begin toss bounce vessel insane ancient";
+var mnemonic = "flag broccoli sorry update payment parade age slice room corn receive clay";

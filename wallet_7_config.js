@@ -1,1 +1,1 @@
-var mnemonic = "until awake connect coast believe tourist coach bean tail crop doll fossil";
+var mnemonic = "earth brief comic total faculty alpha deal toss income inflict deal tube";

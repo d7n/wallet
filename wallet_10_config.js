@@ -1,1 +1,1 @@
-var mnemonic = "fresh thrive hole reunion poem suffer ethics light swing snake sense sea";
+var mnemonic = "tobacco open twelve laugh salon pattern census coffee buzz pioneer ensure calm";

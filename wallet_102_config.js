@@ -1,1 +1,1 @@
-var mnemonic = "buzz bulk lamp swamp slush glimpse brown plug crash spoil stadium empower";
+var mnemonic = "expose cannon ask gym shield rely arctic town coast citizen salmon bounce";

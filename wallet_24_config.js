@@ -1,1 +1,1 @@
-var mnemonic = "gauge point inject catch idea despair ghost slab rail burger blush analyst";
+var mnemonic = "wish average mango novel galaxy impose lake purse once oppose monkey crush";

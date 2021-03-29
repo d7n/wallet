@@ -1,1 +1,1 @@
-var mnemonic = "food utility pass more list whisper announce horn absurd rotate slim enemy";
+var mnemonic = "verb enemy tuna oval total magnet rocket glue cluster quarter egg upgrade";

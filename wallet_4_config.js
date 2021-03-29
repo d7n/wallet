@@ -1,1 +1,1 @@
-var mnemonic = "silk asset steak excuse account alter drama ozone very engine ocean symbol";
+var mnemonic = "autumn depart draw sense nice shy wool damage library mansion maximum country";

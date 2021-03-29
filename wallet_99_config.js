@@ -1,1 +1,1 @@
-var mnemonic = "carry warrior street sunny essay turkey scrub stamp supply alone area lock";
+var mnemonic = "advance shove outer today wedding wreck illness promote zoo catch crystal brass";

@@ -1,1 +1,1 @@
-var mnemonic = "mail proud change napkin joke say better only clump chronic artwork focus";
+var mnemonic = "common metal jar crawl bench busy version wisdom tenant earn puzzle truly";

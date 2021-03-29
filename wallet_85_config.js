@@ -1,1 +1,1 @@
-var mnemonic = "road west guard noodle lamp zone fly sword imitate hope blast under";
+var mnemonic = "flock drum turtle company crystal dawn betray dilemma era kangaroo position whisper";

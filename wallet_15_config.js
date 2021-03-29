@@ -1,1 +1,1 @@
-var mnemonic = "exotic innocent sick way review bird helmet demand that furnace unhappy unveil";
+var mnemonic = "talent spread grain grab demise foster judge square tiger flat canyon mom";

@@ -1,1 +1,1 @@
-var mnemonic = "gadget blind sock upset sting elbow elegant neck wisdom today barrel feed";
+var mnemonic = "naive allow waste evoke still permit winner stand devote canyon bean blast";

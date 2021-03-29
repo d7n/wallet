@@ -1,1 +1,1 @@
-var mnemonic = "bid miss you argue lens teach change choice coyote blue few thrive";
+var mnemonic = "recycle sword actor body planet book curtain seven arrange truck card govern";

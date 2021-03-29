@@ -1,1 +1,1 @@
-var mnemonic = "tent draw remind hurt desk melody must leg amazing act pole home";
+var mnemonic = "latin doll couple future resemble practice soul couple cycle job spider range";

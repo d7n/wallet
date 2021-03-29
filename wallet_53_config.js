@@ -1,1 +1,1 @@
-var mnemonic = "often hazard raccoon produce action render fish alter atom mimic visual swap";
+var mnemonic = "earn smooth sugar segment level anger pet course wrestle fork exit layer";

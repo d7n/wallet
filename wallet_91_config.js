@@ -1,1 +1,1 @@
-var mnemonic = "emotion similar core throw baby photo cushion party deal shock idle pepper";
+var mnemonic = "shell almost genuine fabric lion piano limb census argue again property album";

@@ -1,1 +1,1 @@
-var mnemonic = "attack illegal vacant anchor clump survey acid put brother target logic unfold";
+var mnemonic = "scan busy during enough siren prevent surface reform index squirrel govern job";

@@ -1,1 +1,1 @@
-var mnemonic = "chair flame tree borrow tragic game bleak caught involve leg awful purity";
+var mnemonic = "bridge repair silk mystery mango equal uncle slight simple skirt hedgehog tiger";

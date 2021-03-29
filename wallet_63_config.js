@@ -1,1 +1,1 @@
-var mnemonic = "also bean design pistol blind ladder comfort school thumb super jacket dismiss";
+var mnemonic = "agree member flip cigar fuel cross finger reunion gate silver barrel kid";

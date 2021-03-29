@@ -1,1 +1,1 @@
-var mnemonic = "badge arrow limit worry thought during differ mercy burger disorder depth arena";
+var mnemonic = "zoo weasel perfect general clock potato narrow team nose differ raw nature";

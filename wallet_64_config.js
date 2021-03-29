@@ -1,1 +1,1 @@
-var mnemonic = "man surround term reject amount enter excite clay match color hair comfort";
+var mnemonic = "mosquito broccoli various side cannon army vivid wash pave there gown giant";

@@ -1,1 +1,1 @@
-var mnemonic = "surround during rigid curtain much giant priority direct prison diamond cruise mixture";
+var mnemonic = "way frame finish deal off vapor bounce web slogan eight produce post";

@@ -1,1 +1,1 @@
-var mnemonic = "wash inform act robot camp toss pond other excuse glove sea foot";
+var mnemonic = "ethics three feel drip portion thunder napkin exit liberty return claim omit";

@@ -1,1 +1,1 @@
-var mnemonic = "cool auction category whip remember denial lab topple hole mom want device";
+var mnemonic = "stool depth cost maid skin head dolphin caution pole purpose staff trim";

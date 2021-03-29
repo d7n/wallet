@@ -1,1 +1,1 @@
-var mnemonic = "filter shine pact walnut immune rack quiz identify shock stereo mountain pause";
+var mnemonic = "rate umbrella gown brown tiny bracket west heart syrup muffin find jewel";

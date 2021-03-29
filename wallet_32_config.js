@@ -1,1 +1,1 @@
-var mnemonic = "gloom path decide novel void rare ski wealth eager glance stumble dinosaur";
+var mnemonic = "elevator exchange other magnet hover nurse kite midnight stick slight dragon verb";

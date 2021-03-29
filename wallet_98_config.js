@@ -1,1 +1,1 @@
-var mnemonic = "city hold lottery horn cancel blind disagree limb disorder easily hamster differ";
+var mnemonic = "blue into mask mad mind neutral retire runway reflect hard mobile uphold";

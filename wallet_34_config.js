@@ -1,1 +1,1 @@
-var mnemonic = "toy junior sudden real afford shuffle great mammal loyal fury obscure sport";
+var mnemonic = "dream illness gold mention nation chronic decade dinosaur dash candy exist weather";

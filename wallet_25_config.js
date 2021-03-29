@@ -1,1 +1,1 @@
-var mnemonic = "girl mule cup kangaroo raise title prevent object swallow tribe dutch between";
+var mnemonic = "weasel wrap obey disagree danger cook robot item state arctic chuckle asset";

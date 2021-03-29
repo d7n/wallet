@@ -1,1 +1,1 @@
-var mnemonic = "ocean adapt ball wreck until stable only there become arm trim actual";
+var mnemonic = "occur wink soap end grief grit response embrace must tip admit pattern";

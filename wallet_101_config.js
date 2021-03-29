@@ -1,1 +1,1 @@
-var mnemonic = "collect detail winter fee mirror voice gentle foster guilt rate return make";
+var mnemonic = "salt board sail reveal worth wasp monitor poem mask atom road ozone";

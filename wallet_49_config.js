@@ -1,1 +1,1 @@
-var mnemonic = "air science issue nuclear annual dolphin income uphold ancient scare act celery";
+var mnemonic = "primary mention path month situate super club oak garbage potato shoe palace";

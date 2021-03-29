@@ -1,1 +1,1 @@
-var mnemonic = "liar girl comic random movie heavy help busy cloth physical faith gallery";
+var mnemonic = "velvet floor soap final maze tobacco amused drift damp nature iron point";

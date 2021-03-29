@@ -1,1 +1,1 @@
-var mnemonic = "inmate velvet prevent yellow rebel consider awake borrow floor become worry indicate";
+var mnemonic = "million property hybrid render goose emotion jar tower kit build lab husband";

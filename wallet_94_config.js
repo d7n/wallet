@@ -1,1 +1,1 @@
-var mnemonic = "zone bicycle corn message cage dial code inject speak fan mad despair";
+var mnemonic = "loop rabbit glare bar bitter detect monkey chaos meadow scene depart quarter";

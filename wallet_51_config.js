@@ -1,1 +1,1 @@
-var mnemonic = "film robot pet couple bargain diamond credit tonight shaft reason allow joke";
+var mnemonic = "wish crash lottery lemon post globe fix reform tag milk flush woman";

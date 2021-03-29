@@ -1,1 +1,1 @@
-var mnemonic = "reform inflict long swap one undo romance prosper mountain mango tuition coach";
+var mnemonic = "amazing cricket inquiry punch forward bench push mobile security host proof divide";

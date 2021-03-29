@@ -1,1 +1,1 @@
-var mnemonic = "penalty desert smoke transfer oyster obvious walk foam cliff physical absorb hope";
+var mnemonic = "chest ostrich correct observe bronze shine maid month valley broom mushroom cattle";

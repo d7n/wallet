@@ -1,1 +1,1 @@
-var mnemonic = "push husband vehicle figure skull fever sport fortune truck aspect once high";
+var mnemonic = "kick dumb sail enact peace length bike inhale dance flame surge inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "dragon drop evil baby gift roof hurt smile gather pelican tomato jazz";
+var mnemonic = "fatigue various spike kid sight ugly bronze coil wage attack away average";

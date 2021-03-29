@@ -1,1 +1,1 @@
-var mnemonic = "multiply boost daring price ride chapter identify own extra crop flame scare";
+var mnemonic = "ketchup matter cash nice true crane age glare siren cage wine onion";

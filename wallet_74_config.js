@@ -1,1 +1,1 @@
-var mnemonic = "castle broom screen cereal size fold act eight country view permit borrow";
+var mnemonic = "unveil minute document toast unusual among list pistol arch enough melody senior";

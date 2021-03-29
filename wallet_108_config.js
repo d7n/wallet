@@ -1,1 +1,1 @@
-var mnemonic = "pride soup oyster fat know travel small expand truly resist siege grace";
+var mnemonic = "elegant drift toy good try boring mass sing simple achieve iron aerobic";

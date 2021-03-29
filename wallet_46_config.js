@@ -1,1 +1,1 @@
-var mnemonic = "baby best axis beach insane observe angle endorse dove smile price problem";
+var mnemonic = "truck guitar swap polar mutual flip rain prepare add shrug kitchen excite";

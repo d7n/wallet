@@ -1,1 +1,1 @@
-var mnemonic = "insect doll sun soccer whip violin cheese like million lawn erosion fee";
+var mnemonic = "proof glory donate lend six used truck donkey slam project lucky stone";

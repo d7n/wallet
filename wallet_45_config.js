@@ -1,1 +1,1 @@
-var mnemonic = "version subway view toward check legend bag blast aim oak approve twice";
+var mnemonic = "price inquiry oyster shuffle kingdom scatter october quantum crawl system north elevator";

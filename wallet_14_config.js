@@ -1,1 +1,1 @@
-var mnemonic = "absent swarm ice print own soda skate summer scout flight brother absorb";
+var mnemonic = "journey quote mountain bullet lonely guilt siren fit keep risk usage artist";

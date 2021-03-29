@@ -1,1 +1,1 @@
-var mnemonic = "net name kind fun vital left frost firm clump easy put wedding";
+var mnemonic = "upgrade thumb predict length radar ball nut cruel pretty piano salt glance";

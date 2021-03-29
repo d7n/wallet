@@ -1,1 +1,1 @@
-var mnemonic = "mail poet spin roast father knee draft follow nice organ saddle bag";
+var mnemonic = "crisp invest unlock borrow define cloth write unique orbit apology august vessel";

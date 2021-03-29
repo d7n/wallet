@@ -1,1 +1,1 @@
-var mnemonic = "kick foil impact wrap ability whisper hard inside swarm return face divert";
+var mnemonic = "chest drop still seminar flee toddler that electric shield debate pepper lock";

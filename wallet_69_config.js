@@ -1,1 +1,1 @@
-var mnemonic = "neutral tank inmate wall install month vacuum fatigue appear female ticket glance";
+var mnemonic = "mother often stick elbow asthma jacket wide then vault caught ready call";

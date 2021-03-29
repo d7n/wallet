@@ -1,1 +1,1 @@
-var mnemonic = "brain inject similar slide next problem pole west volcano alcohol distance two";
+var mnemonic = "eyebrow price marble earn judge front slow world angry puzzle just parade";

@@ -1,1 +1,1 @@
-var mnemonic = "critic object arrive energy horse enact glory proof truck adapt endless wait";
+var mnemonic = "blur used type defy phrase library swarm candy eight slot mean demand";

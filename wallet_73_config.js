@@ -1,1 +1,1 @@
-var mnemonic = "width junk slide away six level can awake deliver film echo quality";
+var mnemonic = "civil tiger problem butter fluid rookie task vivid ghost peace orchard own";

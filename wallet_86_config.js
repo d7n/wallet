@@ -1,1 +1,1 @@
-var mnemonic = "shy egg hill verb cream margin bind buzz onion season normal badge";
+var mnemonic = "always gentle certain ancient cousin humble eagle add fog say dinosaur wool";

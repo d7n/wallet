@@ -1,1 +1,1 @@
-var mnemonic = "salute rebuild search road soup unlock scrap surprise street glare rate issue";
+var mnemonic = "mystery valid opinion script behave avoid weapon share soccer wealth hotel walk";

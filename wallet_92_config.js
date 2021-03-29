@@ -1,1 +1,1 @@
-var mnemonic = "steak capital toilet dune first coral alert slice funny bright camera guitar";
+var mnemonic = "tornado buyer hedgehog truth vague lumber ice slogan tortoise awkward bid weasel";
