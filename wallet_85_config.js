@@ -1,1 +1,1 @@
-var mnemonic = "enrich hill shell unable thank settle cage mom antenna capable spell smooth";
+var mnemonic = "child deer dwarf final bean virtual indicate must kangaroo antique horn crunch";

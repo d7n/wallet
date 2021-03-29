@@ -1,1 +1,1 @@
-var mnemonic = "erupt position trap taste skill magic slogan zone tube universe visa nurse";
+var mnemonic = "repeat club weird dragon gadget episode praise digital maze screen vintage hurdle";

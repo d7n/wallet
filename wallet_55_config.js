@@ -1,1 +1,1 @@
-var mnemonic = "prepare width chair aim frog diesel cruel promote elbow ill person castle";
+var mnemonic = "test modify legend visual state blind speak image job foam drum urban";

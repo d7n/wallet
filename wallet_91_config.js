@@ -1,1 +1,1 @@
-var mnemonic = "near service tape alley author unable claim liberty cube antique behind critic";
+var mnemonic = "wonder same ignore soul pitch weekend nurse south damage aerobic deal dry";

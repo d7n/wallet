@@ -1,1 +1,1 @@
-var mnemonic = "nest someone citizen fence fine diet custom crowd treat license bean obey";
+var mnemonic = "left soda aware bacon kid pitch brass rookie rather wreck that ugly";

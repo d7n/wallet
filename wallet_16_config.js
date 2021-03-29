@@ -1,1 +1,1 @@
-var mnemonic = "exchange loyal frog satisfy license wing bamboo pony man pizza oblige find";
+var mnemonic = "swim primary gesture ramp purse slight floor feature attract supply ready reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "eye differ space theory salon ocean circle soul actual rely nominee shallow";
+var mnemonic = "ice cupboard genre throw before logic east submit trap axis apology secret";

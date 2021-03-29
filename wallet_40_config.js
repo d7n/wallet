@@ -1,1 +1,1 @@
-var mnemonic = "near jungle nerve fall permit board bind mercy wealth mother like indicate";
+var mnemonic = "debate borrow mixed canal roast narrow word novel detect rich cake cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "exist water reform outdoor humor boring limb erupt birth tiger foil april";
+var mnemonic = "profit aim jacket enroll clog habit merge where castle boost giant step";

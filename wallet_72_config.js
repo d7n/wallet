@@ -1,1 +1,1 @@
-var mnemonic = "fabric bottom august merry blue eyebrow receive bind night away hover custom";
+var mnemonic = "congress siege rural neither oxygen family become bike refuse subject rain hollow";

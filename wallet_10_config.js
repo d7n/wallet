@@ -1,1 +1,1 @@
-var mnemonic = "twice there planet maximum acquire index dinner scheme abuse knife nation main";
+var mnemonic = "inspire hood among cousin virus man marriage sort general guilt february vocal";

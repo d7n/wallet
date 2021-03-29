@@ -1,1 +1,1 @@
-var mnemonic = "faculty grid furnace mobile boss clown awkward weasel smile alley slab void";
+var mnemonic = "hip flower seminar season cup penalty velvet run kick inspire soldier alter";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet forget assume kind mobile version open wrist render mango nest cactus";
+var mnemonic = "mention admit bullet forward index aisle smooth settle hard voice average blur";

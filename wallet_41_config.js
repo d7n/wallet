@@ -1,1 +1,1 @@
-var mnemonic = "thought logic bubble dizzy slot tired spawn very glimpse eager hub aim";
+var mnemonic = "puppy trigger tornado roast mechanic garment rely trade remind clip fish ritual";

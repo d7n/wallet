@@ -1,1 +1,1 @@
-var mnemonic = "radio wheel vibrant scene beauty hurry vicious anxiety joke dry soap six";
+var mnemonic = "chair track weather eagle dice bike farm address forward orchard broom shadow";

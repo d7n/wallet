@@ -1,1 +1,1 @@
-var mnemonic = "unknown wonder security zone keen urge afraid custom pattern social false hurdle";
+var mnemonic = "announce oven song reject dolphin drift obtain search black electric amount dynamic";

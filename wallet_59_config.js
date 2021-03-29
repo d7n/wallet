@@ -1,1 +1,1 @@
-var mnemonic = "steak side ancient door infant funny monitor today funny fringe extend either";
+var mnemonic = "issue piece vague sing voice cereal three light receive pill trigger mountain";

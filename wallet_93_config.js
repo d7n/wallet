@@ -1,1 +1,1 @@
-var mnemonic = "produce diet payment apology asset rubber busy network urge priority pitch foam";
+var mnemonic = "night rent fork disorder lawn island clarify flee connect olympic hole crime";

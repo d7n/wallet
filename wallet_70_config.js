@@ -1,1 +1,1 @@
-var mnemonic = "depend list language render employ pistol behave poverty develop useful rug faith";
+var mnemonic = "snake crystal age want theme acid hello spy leaf photo dish depend";

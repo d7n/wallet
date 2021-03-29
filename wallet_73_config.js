@@ -1,1 +1,1 @@
-var mnemonic = "jelly degree leader creek tiny plate select soft traffic exchange crime elbow";
+var mnemonic = "hood price favorite derive amazing hill owner crowd wolf nerve shallow soda";

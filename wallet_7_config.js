@@ -1,1 +1,1 @@
-var mnemonic = "industry tree write horse life ridge miss transfer afraid kiss match issue";
+var mnemonic = "layer much duck spin because game detail fence allow little pilot put";

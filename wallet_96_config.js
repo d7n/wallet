@@ -1,1 +1,1 @@
-var mnemonic = "message invest tag witness awesome crowd floor enlist problem process almost harsh";
+var mnemonic = "erosion feel slow token shell just narrow leader story effort ring foster";

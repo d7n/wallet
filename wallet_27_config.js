@@ -1,1 +1,1 @@
-var mnemonic = "wink office resemble carry ketchup write neglect nothing toddler betray receive payment";
+var mnemonic = "sample slab cost puzzle young find electric spring resist diary kangaroo whisper";

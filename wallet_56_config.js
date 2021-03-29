@@ -1,1 +1,1 @@
-var mnemonic = "armed example clump infant thank series stage bid rely blush clinic cause";
+var mnemonic = "remind bench spoil wrong throw hold assist furnace series bonus engine pig";

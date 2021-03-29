@@ -1,1 +1,1 @@
-var mnemonic = "ghost marble diary maximum husband elite coast danger old whale dinosaur blue";
+var mnemonic = "machine damp galaxy vapor imitate estate tail ice piece heavy cabbage slush";

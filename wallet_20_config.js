@@ -1,1 +1,1 @@
-var mnemonic = "royal educate agent oven protect spy enjoy quarter usage donate wink phrase";
+var mnemonic = "topic cable picnic force blossom discover crumble slender midnight borrow actual bag";

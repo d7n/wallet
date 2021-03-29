@@ -1,1 +1,1 @@
-var mnemonic = "album dinner steel leopard where cabbage seminar empower account pupil glare can";
+var mnemonic = "exotic warfare tattoo butter calm elevator bullet pond length ability proud when";

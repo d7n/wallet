@@ -1,1 +1,1 @@
-var mnemonic = "ride plate burger system grape frequent ivory subway come burden squeeze profit";
+var mnemonic = "story fit argue light rabbit curious color habit cool amount peanut medal";

@@ -1,1 +1,1 @@
-var mnemonic = "lazy nasty way entire foam small mix bounce antenna drum fragile gallery";
+var mnemonic = "cricket glad soccer sword total fine chaos supreme cancel idle obvious provide";

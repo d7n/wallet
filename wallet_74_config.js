@@ -1,1 +1,1 @@
-var mnemonic = "blush relief kingdom gate cool wheat mask taxi simple gown shift black";
+var mnemonic = "tent wait syrup detect viable usage fire leaf sense language panda captain";

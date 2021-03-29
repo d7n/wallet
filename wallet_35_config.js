@@ -1,1 +1,1 @@
-var mnemonic = "antique wall act office drift sadness worry hello power monitor napkin rapid";
+var mnemonic = "either category assume virtual scare east eternal sail earn gift gallery believe";

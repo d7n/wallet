@@ -1,1 +1,1 @@
-var mnemonic = "wolf hobby citizen spice snake frame lion summer cage suffer chief stove";
+var mnemonic = "saddle bike control recall planet loud sea erase lens flock top screen";

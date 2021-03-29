@@ -1,1 +1,1 @@
-var mnemonic = "furnace bullet man pizza visa bleak toast fitness scheme knee spy panel";
+var mnemonic = "moment camera math right scare poverty turkey rescue proof science liquid onion";

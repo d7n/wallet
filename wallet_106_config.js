@@ -1,1 +1,1 @@
-var mnemonic = "fatal aunt marriage tornado expect crew hurry void arena tip home dizzy";
+var mnemonic = "dinner quit tail carpet upper satisfy enough release sell remember demand depend";

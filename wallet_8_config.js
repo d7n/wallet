@@ -1,1 +1,1 @@
-var mnemonic = "aisle old pipe rate catalog flavor train upset tuition machine jazz close";
+var mnemonic = "glow autumn switch acoustic popular earn guide clarify tennis such winner amazing";

@@ -1,1 +1,1 @@
-var mnemonic = "mandate basic multiply save food nominee normal distance joy trial dog distance";
+var mnemonic = "mad blood beef kid peasant ozone naive bomb balance swear weird popular";

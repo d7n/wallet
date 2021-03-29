@@ -1,1 +1,1 @@
-var mnemonic = "dismiss kangaroo pear soul expose master chapter donor kidney recycle ketchup chest";
+var mnemonic = "hollow expand prefer finish involve sound edge yellow left kind crisp ticket";

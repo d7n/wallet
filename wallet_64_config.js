@@ -1,1 +1,1 @@
-var mnemonic = "match female wide slender tennis sign ball bring nerve describe stock clump";
+var mnemonic = "dial manual arrest novel fringe opera matrix dish burger broom depart discover";

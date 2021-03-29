@@ -1,1 +1,1 @@
-var mnemonic = "neck ethics knock wealth liar anxiety aerobic hedgehog dolphin liquid rough bulk";
+var mnemonic = "just fly rural legend strong popular breeze result ill theory youth permit";

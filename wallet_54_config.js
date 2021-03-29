@@ -1,1 +1,1 @@
-var mnemonic = "pluck brother situate fever biology judge noble kingdom sun toy target error";
+var mnemonic = "always dad plunge board few crowd powder obvious rhythm have blur pink";

@@ -1,1 +1,1 @@
-var mnemonic = "heavy news badge note spike defy rack sentence leaf stage rifle drip";
+var mnemonic = "valley boost transfer canoe organ vote random kangaroo current crime split enroll";

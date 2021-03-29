@@ -1,1 +1,1 @@
-var mnemonic = "host film float state deliver fuel artefact swamp wish salad online reveal";
+var mnemonic = "hello cook pulse ripple pool ask knock police bitter siren speed blanket";

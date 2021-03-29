@@ -1,1 +1,1 @@
-var mnemonic = "make radar use grow lounge bench cancel sand symbol ocean nice hand";
+var mnemonic = "tissue bird fluid vocal elegant glove bonus industry noise shrug embrace ritual";

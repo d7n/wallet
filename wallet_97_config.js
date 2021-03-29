@@ -1,1 +1,1 @@
-var mnemonic = "castle borrow error summer midnight mammal town cart human walnut angry keen";
+var mnemonic = "hurry manual clarify salmon laundry mushroom bulk mammal despair girl panic escape";

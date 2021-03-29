@@ -1,1 +1,1 @@
-var mnemonic = "advice thought man emerge stereo slow bread energy try cook plastic banana";
+var mnemonic = "orphan equal evidence manual intact myself actual mushroom human cake travel kiwi";

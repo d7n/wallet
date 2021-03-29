@@ -1,1 +1,1 @@
-var mnemonic = "poet popular iron piece offer gadget other mechanic sketch imitate sure prosper";
+var mnemonic = "gorilla skate detail umbrella brush escape about frame host chef minute credit";

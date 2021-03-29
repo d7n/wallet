@@ -1,1 +1,1 @@
-var mnemonic = "client entire exile garage cover hello advance choose alcohol scissors hawk earth";
+var mnemonic = "pupil broken dumb alarm injury lock magic ten grief enact enrich elevator";

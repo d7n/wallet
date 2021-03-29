@@ -1,1 +1,1 @@
-var mnemonic = "measure innocent shop repeat gap possible erosion unique pistol theory arena avoid";
+var mnemonic = "season cement elbow wood announce auto tag equal private under reflect mind";

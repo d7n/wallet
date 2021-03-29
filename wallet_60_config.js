@@ -1,1 +1,1 @@
-var mnemonic = "inch evil pave elegant dwarf assault price addict under deputy elder steel";
+var mnemonic = "winter repair wise repair reject knife machine suspect neck age panel pottery";

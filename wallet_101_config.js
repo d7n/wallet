@@ -1,1 +1,1 @@
-var mnemonic = "install whale flight flee recall congress purchase feel ecology visual board invest";
+var mnemonic = "nominee actual seminar leg test piece chapter wild unlock fitness peace woman";

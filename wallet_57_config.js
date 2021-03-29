@@ -1,1 +1,1 @@
-var mnemonic = "hurdle display aunt outdoor hospital drastic spider fog script other because drift";
+var mnemonic = "south journey kick action trouble yard jar one arctic goat coyote rain";

@@ -1,1 +1,1 @@
-var mnemonic = "insane unaware siren nephew leisure ecology strike teach recycle possible blame welcome";
+var mnemonic = "solve pretty climb teach remove claw movie carpet describe blind furnace ignore";

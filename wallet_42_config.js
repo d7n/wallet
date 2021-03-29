@@ -1,1 +1,1 @@
-var mnemonic = "dove sibling mammal sleep few test bike animal job guide gym weapon";
+var mnemonic = "health innocent solid junk hub sketch crush gossip shiver obey property tag";

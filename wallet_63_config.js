@@ -1,1 +1,1 @@
-var mnemonic = "mad patch vibrant genuine book oil real column enact atom offer sunny";
+var mnemonic = "weekend private hunt impulse sense genuine swear remain fitness dial turtle among";

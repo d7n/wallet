@@ -1,1 +1,1 @@
-var mnemonic = "eight leaf cabbage gift inmate chaos sight input lake ask record erode";
+var mnemonic = "muscle observe receive license almost equip capable slide wedding robust cave drive";

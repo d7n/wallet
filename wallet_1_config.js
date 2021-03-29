@@ -1,1 +1,1 @@
-var mnemonic = "point letter loyal glow drink success ketchup alert hospital frequent permit session";
+var mnemonic = "climb long era sketch welcome punch pride exhaust exercise item useful used";

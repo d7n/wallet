@@ -1,1 +1,1 @@
-var mnemonic = "domain canoe middle harvest garment model umbrella castle romance observe boil avoid";
+var mnemonic = "hunt nuclear double write remind decide solar eight honey letter risk coral";

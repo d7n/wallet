@@ -1,1 +1,1 @@
-var mnemonic = "fortune outer lemon battle worry sentence wash burden donate point next earn";
+var mnemonic = "turtle inform nose exclude face rich anxiety shoot rescue web luxury refuse";

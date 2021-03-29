@@ -1,1 +1,1 @@
-var mnemonic = "toilet inspire gravity fitness benefit kind slender fury marine limit menu solid";
+var mnemonic = "vacuum congress ribbon health owner topic mystery emerge grass penalty lunch rule";

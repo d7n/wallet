@@ -1,1 +1,1 @@
-var mnemonic = "thunder layer future oak flame live oval rice cancel route horse spot";
+var mnemonic = "claw negative exile scare vital idea improve easy case whisper cream lens";

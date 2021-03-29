@@ -1,1 +1,1 @@
-var mnemonic = "try vital own render crawl fog need slender border brush bulk lesson";
+var mnemonic = "minute toss provide loud retire only require abuse nurse admit organ upper";

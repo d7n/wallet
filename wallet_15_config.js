@@ -1,1 +1,1 @@
-var mnemonic = "famous smile result fog family arm fashion aerobic trophy observe hip jazz";
+var mnemonic = "half club else face oxygen will hawk play drum cable little okay";

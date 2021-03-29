@@ -1,1 +1,1 @@
-var mnemonic = "blouse glimpse certain volume strong fire analyst record mosquito tool income ask";
+var mnemonic = "ten reunion census hold baby leg rebuild spell bitter member solve prison";

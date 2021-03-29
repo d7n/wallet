@@ -1,1 +1,1 @@
-var mnemonic = "have ugly just kitchen equal suit frog ill quick smooth rubber lock";
+var mnemonic = "gaze punch gym chronic rate fit try exercise marine library sport flight";

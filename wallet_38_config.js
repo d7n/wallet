@@ -1,1 +1,1 @@
-var mnemonic = "image nothing wage lecture soldier path deposit stage kick cat filter speed";
+var mnemonic = "grape eye floor scan domain night badge midnight dress oppose cement ethics";

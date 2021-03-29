@@ -1,1 +1,1 @@
-var mnemonic = "account section congress silver access romance viable cake transfer calm genuine switch";
+var mnemonic = "ski original print timber apart mutual sphere congress traffic basket merit million";

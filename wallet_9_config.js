@@ -1,1 +1,1 @@
-var mnemonic = "wreck exist suspect crucial grant fee utility option divert gorilla curve trade";
+var mnemonic = "maximum squeeze hedgehog load power fury uphold soft tiger very off gloom";

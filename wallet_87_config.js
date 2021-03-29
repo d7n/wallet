@@ -1,1 +1,1 @@
-var mnemonic = "village water hammer fine alone culture business begin this diet pistol naive";
+var mnemonic = "quit prison spot rocket gym guard immune sister bullet proud pave shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "fire glad hungry lesson journey tail noble simple control orient school season";
+var mnemonic = "method pumpkin unit humble all upgrade cricket display thank excess unlock state";

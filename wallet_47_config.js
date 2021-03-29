@@ -1,1 +1,1 @@
-var mnemonic = "skull glow box arrive tiger rely audit patch media fatigue portion enroll";
+var mnemonic = "practice maximum client caution cousin coconut dawn vendor number lava bless dilemma";

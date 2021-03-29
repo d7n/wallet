@@ -1,1 +1,1 @@
-var mnemonic = "major flag enhance subway phrase ahead juice device surge scout drip sad";
+var mnemonic = "crawl cushion hungry nice blossom render wall rely photo equip that scorpion";

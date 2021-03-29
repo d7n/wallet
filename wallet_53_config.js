@@ -1,1 +1,1 @@
-var mnemonic = "sugar smart marine gospel extend castle second cabin chase shrug yellow flight";
+var mnemonic = "soccer dish sheriff edge jar common mixture violin quality total firm oblige";

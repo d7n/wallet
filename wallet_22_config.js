@@ -1,1 +1,1 @@
-var mnemonic = "surface apple parade dad layer injury matrix whip weekend visa list now";
+var mnemonic = "local return flavor curve convince someone vital salt wire during glue valley";

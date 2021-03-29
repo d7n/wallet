@@ -1,1 +1,1 @@
-var mnemonic = "mechanic erode cliff voice jeans little cushion fruit struggle weasel year innocent";
+var mnemonic = "museum drum card ghost crop hill carbon science defy flag flag sentence";

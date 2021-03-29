@@ -1,1 +1,1 @@
-var mnemonic = "element brush street tail print zone twist grunt guilt tunnel address clay";
+var mnemonic = "fitness salmon vicious laundry penalty bid spin zebra misery use legend state";

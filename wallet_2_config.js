@@ -1,1 +1,1 @@
-var mnemonic = "what easy morning harvest client arrange unveil east focus behave motion all";
+var mnemonic = "outdoor theory present food father proof scout slight puzzle wet barrel script";

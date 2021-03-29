@@ -1,1 +1,1 @@
-var mnemonic = "pact demand puzzle gravity lucky winner imitate item sense energy wink hurry";
+var mnemonic = "best city rate midnight harsh power hurdle post crime phone curve remember";

@@ -1,1 +1,1 @@
-var mnemonic = "fluid buyer follow north evoke egg retire change abuse what nerve glad";
+var mnemonic = "sail shy shaft wave cycle romance caught link equip lion movie pipe";

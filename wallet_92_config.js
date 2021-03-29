@@ -1,1 +1,1 @@
-var mnemonic = "north chimney room card auction cattle menu expect rifle crew visit betray";
+var mnemonic = "survey blush power rubber that hobby expect peace melt segment skull ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "long tissue face warm embark practice blue other come color cave cluster";
+var mnemonic = "swing pen wrap valley dial gesture antique spread water typical note fortune";

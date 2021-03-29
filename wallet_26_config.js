@@ -1,1 +1,1 @@
-var mnemonic = "hood embark mystery maximum athlete possible attract iron when cradle abuse erupt";
+var mnemonic = "crane label cost find orange remember below kiss angry sheriff guitar master";

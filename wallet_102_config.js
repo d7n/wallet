@@ -1,1 +1,1 @@
-var mnemonic = "gun defy miss swift scheme puzzle glance tree near sniff allow feature";
+var mnemonic = "forget crack charge orbit sauce duck story home century you hip search";

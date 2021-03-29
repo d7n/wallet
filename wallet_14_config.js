@@ -1,1 +1,1 @@
-var mnemonic = "tip twist news blue web feature novel lunar smoke embody banner crisp";
+var mnemonic = "circle ill area there brown vote raise regret chapter above current verb";
