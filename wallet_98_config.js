@@ -1,1 +1,1 @@
-var mnemonic = "oval price venue craft shift man pact either indicate embrace pluck above";
+var mnemonic = "faculty grid furnace mobile boss clown awkward weasel smile alley slab void";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage install stool team tree win throw switch day antenna assault destroy";
+var mnemonic = "dove sibling mammal sleep few test bike animal job guide gym weapon";

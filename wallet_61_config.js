@@ -1,1 +1,1 @@
-var mnemonic = "brush fat panic skull garlic early divide alert blush message pigeon exile";
+var mnemonic = "duty ball ship inmate illness velvet drama type clutch regular owner depart";

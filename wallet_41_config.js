@@ -1,1 +1,1 @@
-var mnemonic = "dirt error carry utility virtual reflect inch silver moral patient hold chef";
+var mnemonic = "thought logic bubble dizzy slot tired spawn very glimpse eager hub aim";

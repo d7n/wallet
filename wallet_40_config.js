@@ -1,1 +1,1 @@
-var mnemonic = "near ranch common angle leopard wage avocado badge suspect boy myth you";
+var mnemonic = "near jungle nerve fall permit board bind mercy wealth mother like indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "lava gentle consider resemble march butter choice food measure silk snow tennis";
+var mnemonic = "blouse glimpse certain volume strong fire analyst record mosquito tool income ask";

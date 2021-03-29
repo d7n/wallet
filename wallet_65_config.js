@@ -1,1 +1,1 @@
-var mnemonic = "banner book help genre brass bridge illness island famous six shrug device";
+var mnemonic = "clip country live select gate much initial tree cherry ocean ride bind";

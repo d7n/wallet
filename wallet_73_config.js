@@ -1,1 +1,1 @@
-var mnemonic = "satisfy hour century spoon helmet reward people era cargo manage casual buzz";
+var mnemonic = "jelly degree leader creek tiny plate select soft traffic exchange crime elbow";

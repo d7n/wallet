@@ -1,1 +1,1 @@
-var mnemonic = "undo gadget fantasy kangaroo index exotic source tackle explain legend liar involve";
+var mnemonic = "ghost marble diary maximum husband elite coast danger old whale dinosaur blue";

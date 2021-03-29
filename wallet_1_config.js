@@ -1,1 +1,1 @@
-var mnemonic = "turn invest earth auction attack elite label quick opera profit episode ill";
+var mnemonic = "point letter loyal glow drink success ketchup alert hospital frequent permit session";

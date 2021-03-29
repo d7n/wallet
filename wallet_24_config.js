@@ -1,1 +1,1 @@
-var mnemonic = "social thumb visit monster issue obvious impact genre team clap pencil cereal";
+var mnemonic = "segment frost else weird lamp ketchup couch tooth zone industry bachelor layer";

@@ -1,1 +1,1 @@
-var mnemonic = "hold hood aerobic later firm daring frog seat biology spice parade beyond";
+var mnemonic = "produce diet payment apology asset rubber busy network urge priority pitch foam";

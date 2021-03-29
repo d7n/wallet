@@ -1,1 +1,1 @@
-var mnemonic = "frequent crack muffin almost bone style educate gas shove media fork coil";
+var mnemonic = "wink office resemble carry ketchup write neglect nothing toddler betray receive payment";

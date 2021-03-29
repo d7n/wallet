@@ -1,1 +1,1 @@
-var mnemonic = "volcano network circle fun trigger kiss assume tent grocery jungle monster miss";
+var mnemonic = "nest someone citizen fence fine diet custom crowd treat license bean obey";

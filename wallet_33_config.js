@@ -1,1 +1,1 @@
-var mnemonic = "exotic seed predict buffalo bench era puppy train agree weather document metal";
+var mnemonic = "unknown wonder security zone keen urge afraid custom pattern social false hurdle";

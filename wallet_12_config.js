@@ -1,1 +1,1 @@
-var mnemonic = "reveal verify spider lucky burst topple treat bonus give shell opera cart";
+var mnemonic = "dismiss kangaroo pear soul expose master chapter donor kidney recycle ketchup chest";

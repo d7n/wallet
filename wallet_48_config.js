@@ -1,1 +1,1 @@
-var mnemonic = "raccoon monster stock dentist share cluster enforce account keep barrel junior crumble";
+var mnemonic = "core setup tilt depart label van arch educate answer april sound east";

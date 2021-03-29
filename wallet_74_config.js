@@ -1,1 +1,1 @@
-var mnemonic = "recycle chronic green venture rifle stomach rich whale toddler seat junior vacuum";
+var mnemonic = "blush relief kingdom gate cool wheat mask taxi simple gown shift black";

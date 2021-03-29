@@ -1,1 +1,1 @@
-var mnemonic = "theme where again cost attack pluck loud drip merry credit decide negative";
+var mnemonic = "tip twist news blue web feature novel lunar smoke embody banner crisp";

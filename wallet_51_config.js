@@ -1,1 +1,1 @@
-var mnemonic = "grain bike inject across carbon spirit goat canyon month crumble breeze knock";
+var mnemonic = "wolf hobby citizen spice snake frame lion summer cage suffer chief stove";

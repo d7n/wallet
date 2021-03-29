@@ -1,1 +1,1 @@
-var mnemonic = "weasel barely world bird elevator drum car panic elevator trade globe laugh";
+var mnemonic = "village water hammer fine alone culture business begin this diet pistol naive";

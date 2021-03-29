@@ -1,1 +1,1 @@
-var mnemonic = "rubber stock helmet author include naive seminar price goat shoe blast rely";
+var mnemonic = "fabric bottom august merry blue eyebrow receive bind night away hover custom";

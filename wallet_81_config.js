@@ -1,1 +1,1 @@
-var mnemonic = "length issue reason nuclear knock vapor over album cabbage above life pave";
+var mnemonic = "pact demand puzzle gravity lucky winner imitate item sense energy wink hurry";

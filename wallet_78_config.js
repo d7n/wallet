@@ -1,1 +1,1 @@
-var mnemonic = "panel public warm wheel cactus gentle bid notice you mystery twelve unfold";
+var mnemonic = "erupt position trap taste skill magic slogan zone tube universe visa nurse";

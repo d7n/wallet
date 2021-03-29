@@ -1,1 +1,1 @@
-var mnemonic = "toy bachelor trend cigar timber shaft aware claw topple venture ahead enable";
+var mnemonic = "portion camp rocket sock prosper piano observe dress differ law void inquiry";

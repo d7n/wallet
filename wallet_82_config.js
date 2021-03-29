@@ -1,1 +1,1 @@
-var mnemonic = "kiwi enter all sort advice drop fruit foam assist ice still hammer";
+var mnemonic = "exist water reform outdoor humor boring limb erupt birth tiger foil april";

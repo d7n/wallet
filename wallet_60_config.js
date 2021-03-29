@@ -1,1 +1,1 @@
-var mnemonic = "output gospel pear feel alcohol album moon cruel wealth wire spike picture";
+var mnemonic = "inch evil pave elegant dwarf assault price addict under deputy elder steel";

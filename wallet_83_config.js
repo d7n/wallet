@@ -1,1 +1,1 @@
-var mnemonic = "feed number diet athlete liquid cradle famous snap control crack weapon world";
+var mnemonic = "velvet forget assume kind mobile version open wrist render mango nest cactus";

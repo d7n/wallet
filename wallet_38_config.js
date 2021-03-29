@@ -1,1 +1,1 @@
-var mnemonic = "near shoot shoe habit strike tackle track follow biology rough moral truly";
+var mnemonic = "image nothing wage lecture soldier path deposit stage kick cat filter speed";

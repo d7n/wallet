@@ -1,1 +1,1 @@
-var mnemonic = "require erode noble dad ritual surprise safe equal turkey vintage face brush";
+var mnemonic = "insane unaware siren nephew leisure ecology strike teach recycle possible blame welcome";

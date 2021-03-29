@@ -1,1 +1,1 @@
-var mnemonic = "describe ritual early rib imitate shrug index laugh upon eternal property orchard";
+var mnemonic = "near service tape alley author unable claim liberty cube antique behind critic";

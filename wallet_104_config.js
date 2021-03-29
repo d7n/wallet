@@ -1,1 +1,1 @@
-var mnemonic = "include scout strategy either oval loud plug used put mother retreat road";
+var mnemonic = "lazy nasty way entire foam small mix bounce antenna drum fragile gallery";

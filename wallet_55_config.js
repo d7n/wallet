@@ -1,1 +1,1 @@
-var mnemonic = "dance grit broccoli outdoor hotel mountain suffer castle home unveil put close";
+var mnemonic = "prepare width chair aim frog diesel cruel promote elbow ill person castle";

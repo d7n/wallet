@@ -1,1 +1,1 @@
-var mnemonic = "hungry man wonder together alpha pitch hand effort miss absorb idle confirm";
+var mnemonic = "century luggage turtle inner utility online upgrade large weather puzzle nest cricket";

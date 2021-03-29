@@ -1,1 +1,1 @@
-var mnemonic = "senior like rapid seminar bless couple gather answer envelope item fine ability";
+var mnemonic = "toilet inspire gravity fitness benefit kind slender fury marine limit menu solid";

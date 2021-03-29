@@ -1,1 +1,1 @@
-var mnemonic = "attend charge brass virtual fluid endorse ladder melt neutral pen minute hip";
+var mnemonic = "focus square enemy clap segment champion edge neither buzz demand useful cook";

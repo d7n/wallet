@@ -1,1 +1,1 @@
-var mnemonic = "suspect lucky draft lion elevator second punch tongue civil payment dragon public";
+var mnemonic = "gun defy miss swift scheme puzzle glance tree near sniff allow feature";

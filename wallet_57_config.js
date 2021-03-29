@@ -1,1 +1,1 @@
-var mnemonic = "uniform desk notice provide feature moment room endless just skill purpose trend";
+var mnemonic = "hurdle display aunt outdoor hospital drastic spider fog script other because drift";

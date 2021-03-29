@@ -1,1 +1,1 @@
-var mnemonic = "history laundry nature paddle average goat puzzle voyage sun scale obscure candy";
+var mnemonic = "surface apple parade dad layer injury matrix whip weekend visa list now";

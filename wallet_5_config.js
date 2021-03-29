@@ -1,1 +1,1 @@
-var mnemonic = "help easy debris renew cycle oven deer flat vicious involve icon quarter";
+var mnemonic = "radio wheel vibrant scene beauty hurry vicious anxiety joke dry soap six";

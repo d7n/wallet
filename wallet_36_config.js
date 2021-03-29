@@ -1,1 +1,1 @@
-var mnemonic = "heavy property record addict spin pioneer flavor tilt card marriage ready female";
+var mnemonic = "riot tool monitor ranch uncover report vendor resist snap outdoor worth squirrel";

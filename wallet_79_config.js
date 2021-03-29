@@ -1,1 +1,1 @@
-var mnemonic = "labor clinic assume cliff reform people key mobile air rural jewel chase";
+var mnemonic = "domain canoe middle harvest garment model umbrella castle romance observe boil avoid";

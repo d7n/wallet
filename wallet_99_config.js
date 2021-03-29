@@ -1,1 +1,1 @@
-var mnemonic = "degree sausage young weird unhappy earn talk enter spring foot tank visa";
+var mnemonic = "measure innocent shop repeat gap possible erosion unique pistol theory arena avoid";

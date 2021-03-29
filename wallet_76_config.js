@@ -1,1 +1,1 @@
-var mnemonic = "endorse fog army lunch riot blossom inside shove bulb science aerobic thrive";
+var mnemonic = "host film float state deliver fuel artefact swamp wish salad online reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb margin beyond unique fade life polar sleep number hour skin gospel";
+var mnemonic = "make radar use grow lounge bench cancel sand symbol ocean nice hand";

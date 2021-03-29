@@ -1,1 +1,1 @@
-var mnemonic = "garlic cart key senior bleak cricket lobster frozen era unfair title pave";
+var mnemonic = "this chief suggest power response belt dog ancient stem property then local";

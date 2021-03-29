@@ -1,1 +1,1 @@
-var mnemonic = "lift snack build film glass brother snow hurry spoon material sun tomorrow";
+var mnemonic = "tattoo twenty bulk bike enter parrot true bag baby slab pottery woman";

@@ -1,1 +1,1 @@
-var mnemonic = "medal attack bronze fancy legal retreat carpet claw surround honey good old";
+var mnemonic = "eight leaf cabbage gift inmate chaos sight input lake ask record erode";

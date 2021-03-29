@@ -1,1 +1,1 @@
-var mnemonic = "group front marine burst excite universe cherry ankle include judge town swamp";
+var mnemonic = "skull glow box arrive tiger rely audit patch media fatigue portion enroll";

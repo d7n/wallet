@@ -1,1 +1,1 @@
-var mnemonic = "pole hope crew visit cruise broccoli cart fitness verb eye fire lunch";
+var mnemonic = "shrug cloth draw oblige during antenna hurt soul differ cheese test tackle";

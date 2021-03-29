@@ -1,1 +1,1 @@
-var mnemonic = "hair depart tube left flame submit execute cage report later forward clutch";
+var mnemonic = "depend list language render employ pistol behave poverty develop useful rug faith";

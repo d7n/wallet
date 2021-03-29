@@ -1,1 +1,1 @@
-var mnemonic = "gadget math twin soda barely obscure agree wide north radio host until";
+var mnemonic = "antique wall act office drift sadness worry hello power monitor napkin rapid";

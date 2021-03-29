@@ -1,1 +1,1 @@
-var mnemonic = "enough sauce level hunt still hand list wrap magnet napkin rose legend";
+var mnemonic = "message invest tag witness awesome crowd floor enlist problem process almost harsh";

@@ -1,1 +1,1 @@
-var mnemonic = "win okay empower broccoli clinic system behind method absorb basket tape wasp";
+var mnemonic = "north chimney room card auction cattle menu expect rifle crew visit betray";

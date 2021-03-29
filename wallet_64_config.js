@@ -1,1 +1,1 @@
-var mnemonic = "charge spread wheel detect pride actual deposit crash usage excess example whip";
+var mnemonic = "match female wide slender tennis sign ball bring nerve describe stock clump";

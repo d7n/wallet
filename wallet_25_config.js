@@ -1,1 +1,1 @@
-var mnemonic = "impulse begin addict scrub mosquito armed eight access horn save life poet";
+var mnemonic = "audit seminar cheap state until sing swear shine bus essay coil same";

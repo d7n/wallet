@@ -1,1 +1,1 @@
-var mnemonic = "trophy vague bunker picture idle issue valley pride coffee dutch path real";
+var mnemonic = "armed example clump infant thank series stage bid rely blush clinic cause";

@@ -1,1 +1,1 @@
-var mnemonic = "capable all frozen art crystal buffalo absent clever invite repair miracle wood";
+var mnemonic = "long tissue face warm embark practice blue other come color cave cluster";

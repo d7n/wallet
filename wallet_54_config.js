@@ -1,1 +1,1 @@
-var mnemonic = "forget ghost ritual street kidney dish result vanish rough hungry define bunker";
+var mnemonic = "pluck brother situate fever biology judge noble kingdom sun toy target error";

@@ -1,1 +1,1 @@
-var mnemonic = "guide hat hamster chair belt cabbage alpha pill buddy barely genius mesh";
+var mnemonic = "neck ethics knock wealth liar anxiety aerobic hedgehog dolphin liquid rough bulk";

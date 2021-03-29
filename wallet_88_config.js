@@ -1,1 +1,1 @@
-var mnemonic = "cradle parent oven idle inmate lawsuit tone scorpion praise narrow account begin";
+var mnemonic = "thunder layer future oak flame live oval rice cancel route horse spot";

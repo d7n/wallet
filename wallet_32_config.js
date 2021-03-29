@@ -1,1 +1,1 @@
-var mnemonic = "wasp there tuition rally rice pistol palm evoke useful leisure dwarf impose";
+var mnemonic = "ride plate burger system grape frequent ivory subway come burden squeeze profit";

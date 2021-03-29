@@ -1,1 +1,1 @@
-var mnemonic = "visa gain brown sport dice embark bring broccoli lady nasty boat pig";
+var mnemonic = "message slight chicken adjust popular scatter guitar october rain matter news gorilla";

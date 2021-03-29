@@ -1,1 +1,1 @@
-var mnemonic = "blast kitchen abandon reopen desert sample guilt wise palm wet erase comfort";
+var mnemonic = "install whale flight flee recall congress purchase feel ecology visual board invest";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha result ignore diet volcano poet blanket castle memory unveil chalk sponsor";
+var mnemonic = "wreck exist suspect crucial grant fee utility option divert gorilla curve trade";

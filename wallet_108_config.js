@@ -1,1 +1,1 @@
-var mnemonic = "helmet total speak bronze pony type hurdle pride help wedding mango mistake";
+var mnemonic = "element brush street tail print zone twist grunt guilt tunnel address clay";

@@ -1,1 +1,1 @@
-var mnemonic = "physical upper swear slim chronic dust leaf castle hope height spell jeans";
+var mnemonic = "sugar smart marine gospel extend castle second cabin chase shrug yellow flight";

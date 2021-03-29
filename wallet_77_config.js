@@ -1,1 +1,1 @@
-var mnemonic = "pitch blossom hammer tag antique mesh burden stereo business electric primary dry";
+var mnemonic = "major flag enhance subway phrase ahead juice device surge scout drip sad";

@@ -1,1 +1,1 @@
-var mnemonic = "atom turkey melody fantasy giraffe kind bus medal menu outer gallery deal";
+var mnemonic = "easy submit found retreat document cook state trouble beef thrive exile quiz";

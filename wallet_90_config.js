@@ -1,1 +1,1 @@
-var mnemonic = "earn wool stove debris abstract orphan glove output hold peace museum tray";
+var mnemonic = "client entire exile garage cover hello advance choose alcohol scissors hawk earth";

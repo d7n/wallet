@@ -1,1 +1,1 @@
-var mnemonic = "view raven rather lemon nasty love seed coin view latin toy idle";
+var mnemonic = "fortune outer lemon battle worry sentence wash burden donate point next earn";

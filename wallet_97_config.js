@@ -1,1 +1,1 @@
-var mnemonic = "adapt fire comic dizzy toe plug ice emerge mix armed enact robot";
+var mnemonic = "castle borrow error summer midnight mammal town cart human walnut angry keen";

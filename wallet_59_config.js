@@ -1,1 +1,1 @@
-var mnemonic = "peanut observe push gas job sibling inner imitate nephew cricket sting bounce";
+var mnemonic = "steak side ancient door infant funny monitor today funny fringe extend either";

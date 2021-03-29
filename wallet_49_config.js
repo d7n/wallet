@@ -1,1 +1,1 @@
-var mnemonic = "embark jazz neck glide cream shop recipe client oil annual reward poet";
+var mnemonic = "fluid buyer follow north evoke egg retire change abuse what nerve glad";

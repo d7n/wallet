@@ -1,1 +1,1 @@
-var mnemonic = "soul best auto coast exclude sphere mirror release mobile gather direct ostrich";
+var mnemonic = "food tribe party tornado melt exact steak shuffle wire valley empower recipe";

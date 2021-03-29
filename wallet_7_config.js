@@ -1,1 +1,1 @@
-var mnemonic = "guard bright grain holiday panic school negative million section face senior type";
+var mnemonic = "industry tree write horse life ridge miss transfer afraid kiss match issue";

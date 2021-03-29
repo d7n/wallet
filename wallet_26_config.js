@@ -1,1 +1,1 @@
-var mnemonic = "chaos crisp leopard brass myth away surround below hard light patrol chimney";
+var mnemonic = "hood embark mystery maximum athlete possible attract iron when cradle abuse erupt";

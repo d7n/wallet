@@ -1,1 +1,1 @@
-var mnemonic = "keep kiss skirt blossom slab before basic candy toy method speak material";
+var mnemonic = "royal educate agent oven protect spy enjoy quarter usage donate wink phrase";

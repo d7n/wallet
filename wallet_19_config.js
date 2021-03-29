@@ -1,1 +1,1 @@
-var mnemonic = "hen subway abandon sea jaguar about squeeze armor crime vicious copper reduce";
+var mnemonic = "cruise delay joke script twist climb follow inch good observe science session";

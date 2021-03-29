@@ -1,1 +1,1 @@
-var mnemonic = "earth valve steel wisdom scale youth weekend month fabric differ panel require";
+var mnemonic = "account section congress silver access romance viable cake transfer calm genuine switch";

@@ -1,1 +1,1 @@
-var mnemonic = "knee quarter dinner finish village lawsuit oxygen miracle coral holiday area scissors";
+var mnemonic = "fire glad hungry lesson journey tail noble simple control orient school season";

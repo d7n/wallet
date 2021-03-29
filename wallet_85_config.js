@@ -1,1 +1,1 @@
-var mnemonic = "apology tennis drip fix forget price palm dutch image one zero clog";
+var mnemonic = "enrich hill shell unable thank settle cage mom antenna capable spell smooth";

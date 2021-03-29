@@ -1,1 +1,1 @@
-var mnemonic = "garden vivid green ozone odor reveal hint express panda latin enough emotion";
+var mnemonic = "ethics bachelor garage silent comic copy blush slender punch resource kid circle";

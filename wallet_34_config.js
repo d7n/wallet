@@ -1,1 +1,1 @@
-var mnemonic = "reform estate girl orient cheese cabbage tip ostrich dinosaur ice credit solve";
+var mnemonic = "thrive toast blade uncover fever uniform anxiety absurd turkey dial exist retire";

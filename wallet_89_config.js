@@ -1,1 +1,1 @@
-var mnemonic = "merge deliver sea margin canvas weapon distance senior rose rubber pull battle";
+var mnemonic = "album dinner steel leopard where cabbage seminar empower account pupil glare can";

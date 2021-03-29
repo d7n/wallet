@@ -1,1 +1,1 @@
-var mnemonic = "uncover visit damage neutral farm right main van situate job tissue bag";
+var mnemonic = "what easy morning harvest client arrange unveil east focus behave motion all";

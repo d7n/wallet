@@ -1,1 +1,1 @@
-var mnemonic = "beyond sugar seek hawk lend steak quiz picture name direct baby diagram";
+var mnemonic = "aisle old pipe rate catalog flavor train upset tuition machine jazz close";

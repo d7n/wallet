@@ -1,1 +1,1 @@
-var mnemonic = "cheese drum huge fitness brother bonus width typical armor attract shoe gas";
+var mnemonic = "mad patch vibrant genuine book oil real column enact atom offer sunny";

@@ -1,1 +1,1 @@
-var mnemonic = "celery airport perfect discover holiday host fiscal tower mandate win space gun";
+var mnemonic = "velvet cloud segment produce elevator recall wear shift atom library marine logic";

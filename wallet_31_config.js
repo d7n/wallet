@@ -1,1 +1,1 @@
-var mnemonic = "chaos pledge salon skull tortoise analyst flat moral pill script garment cruise";
+var mnemonic = "mandate basic multiply save food nominee normal distance joy trial dog distance";

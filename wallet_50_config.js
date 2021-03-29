@@ -1,1 +1,1 @@
-var mnemonic = "minor brother olympic crop connect margin clump chuckle say gold attitude duty";
+var mnemonic = "advice thought man emerge stereo slow bread energy try cook plastic banana";

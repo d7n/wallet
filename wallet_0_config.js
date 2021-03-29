@@ -1,1 +1,1 @@
-var mnemonic = "eagle story mystery share virtual olive science frog renew try master final";
+var mnemonic = "utility air very remind latin seek strategy stamp apology violin verb short";

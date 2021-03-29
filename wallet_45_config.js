@@ -1,1 +1,1 @@
-var mnemonic = "entry gallery ritual hard sponsor blast install poem grab talent grid ramp";
+var mnemonic = "hurry bridge impact blush bind stool differ reform since enrich final suffer";

@@ -1,1 +1,1 @@
-var mnemonic = "disease ignore inner nose void same like present enemy one imitate soon";
+var mnemonic = "cricket snow pudding desk come fence leisure execute actor ketchup bacon chapter";
