@@ -1,1 +1,1 @@
-var mnemonic = "base ritual culture cruel skull loyal kid toilet taxi tongue turn blast";
+var mnemonic = "gold clump priority senior sugar blue spike canoe crouch cheese surprise excite";

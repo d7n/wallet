@@ -1,1 +1,1 @@
-var mnemonic = "ramp mistake bracket buzz firm balcony just race unable office brush garage";
+var mnemonic = "runway brown expire antique gallery calm universe half shadow someone pave soldier";

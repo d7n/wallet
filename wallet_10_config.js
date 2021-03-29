@@ -1,1 +1,1 @@
-var mnemonic = "shoe income female anchor cabbage swear green oak middle health friend chalk";
+var mnemonic = "motor when plunge couch come arch december lemon duck apart awake profit";

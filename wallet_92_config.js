@@ -1,1 +1,1 @@
-var mnemonic = "few copper garden gym tone belt science front course route uncle nose";
+var mnemonic = "embody genuine energy diagram ugly top student minor angry enact prefer recycle";

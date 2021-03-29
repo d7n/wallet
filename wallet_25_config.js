@@ -1,1 +1,1 @@
-var mnemonic = "cry pact steak rebuild explain struggle inflict gauge dutch pulp elegant close";
+var mnemonic = "jaguar mass neither drill palm time vintage flash upon eagle broom gaze";

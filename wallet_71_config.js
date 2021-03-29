@@ -1,1 +1,1 @@
-var mnemonic = "observe girl rubber pave exercise shoot screen mad typical water chase spread";
+var mnemonic = "baby erupt zebra decade spawn rather bone evidence tilt length wet ticket";

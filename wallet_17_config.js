@@ -1,1 +1,1 @@
-var mnemonic = "kid broccoli electric wheat rib razor hundred quality squeeze pave stay until";
+var mnemonic = "visa hour broom napkin mixed corn save output oblige document toy together";

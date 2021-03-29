@@ -1,1 +1,1 @@
-var mnemonic = "behind way fire fork opinion obey kiss neutral page loop opera round";
+var mnemonic = "apple typical acid hazard enable session large coral snow step march tide";

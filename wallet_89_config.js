@@ -1,1 +1,1 @@
-var mnemonic = "jelly turn green beyond fork silk profit whisper picture stairs tourist check";
+var mnemonic = "mercy broken casual position cattle snap attitude cruel coach duty glove dance";

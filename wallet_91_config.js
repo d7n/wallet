@@ -1,1 +1,1 @@
-var mnemonic = "system sting chuckle autumn also lift yellow sock citizen nominee grace swamp";
+var mnemonic = "lazy arrow stock cabbage cinnamon junior army alter medal double enough also";

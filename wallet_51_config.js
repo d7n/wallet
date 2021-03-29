@@ -1,1 +1,1 @@
-var mnemonic = "shy crouch force valid cargo pumpkin enact hover better victory scissors autumn";
+var mnemonic = "type input always boss fade column bar six business episode wood sketch";

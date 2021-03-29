@@ -1,1 +1,1 @@
-var mnemonic = "game negative involve magnet parent vacuum absurd still desert portion blossom palace";
+var mnemonic = "category weekend coast turn kitten slice behind half inside equip spread eye";

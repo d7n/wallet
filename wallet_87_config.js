@@ -1,1 +1,1 @@
-var mnemonic = "bracket alarm pledge domain wink notable ankle task elite between elevator truck";
+var mnemonic = "woman citizen captain social eager apple marble cover regular mosquito cruel crack";

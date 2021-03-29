@@ -1,1 +1,1 @@
-var mnemonic = "junior divert loud team caution display pistol regret galaxy boy point pitch";
+var mnemonic = "legal aunt dice error behave bring short member endorse same property child";

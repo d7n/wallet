@@ -1,1 +1,1 @@
-var mnemonic = "soul share junk setup target stick rely vessel kite fresh parade comic";
+var mnemonic = "term memory wolf firm weekend index effort wife dice crush bread movie";

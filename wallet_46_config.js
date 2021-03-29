@@ -1,1 +1,1 @@
-var mnemonic = "father shaft science obtain scheme distance friend forget outer fox daring alarm";
+var mnemonic = "clutch expect review whip clip resource smart elbow chef hurt attack spoon";

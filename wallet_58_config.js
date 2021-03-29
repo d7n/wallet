@@ -1,1 +1,1 @@
-var mnemonic = "mixture female fiber bronze brief spawn admit cost arena age picnic city";
+var mnemonic = "lawsuit torch smile silk edge length scare zone start modify turtle reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness return cattle slender feed visit same absurd kiwi snake orchard split";
+var mnemonic = "recall oven gift verify range fiscal embark innocent west phone hand size";

@@ -1,1 +1,1 @@
-var mnemonic = "million pig online century arrest large dad raw vessel lab turkey expire";
+var mnemonic = "debate where churn awesome siege fashion gym maid fog clay rice fish";

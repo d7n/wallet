@@ -1,1 +1,1 @@
-var mnemonic = "bus arch protect long axis conduct reform olive extra lumber wreck elbow";
+var mnemonic = "slender wood betray replace aim muffin volume chief gas ability silver hazard";

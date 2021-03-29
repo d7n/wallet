@@ -1,1 +1,1 @@
-var mnemonic = "knife crawl foam often skill three fish cover broken nice monster fork";
+var mnemonic = "extra stay exhibit beauty magnet pattern giant change gorilla arm please defy";

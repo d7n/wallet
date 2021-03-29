@@ -1,1 +1,1 @@
-var mnemonic = "mobile napkin game edit power flat bright ugly reduce nurse admit squeeze";
+var mnemonic = "plunge charge impose explain expose autumn parade tell crew cream term check";

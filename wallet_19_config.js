@@ -1,1 +1,1 @@
-var mnemonic = "inspire rocket myth owner odor leaf matrix anxiety lazy decrease issue siege";
+var mnemonic = "family rib question bacon debate grid elbow piece play oil goat frame";

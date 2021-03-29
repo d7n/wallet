@@ -1,1 +1,1 @@
-var mnemonic = "atom wink violin click rural tissue wage snack joke melt tragic carry";
+var mnemonic = "fence drill ethics delay grunt enter tower gas dish hero walnut fragile";

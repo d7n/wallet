@@ -1,1 +1,1 @@
-var mnemonic = "can domain glide priority verb naive maid senior position fiction siren ozone";
+var mnemonic = "vicious fog token uphold distance comic jewel fun atom together axis whip";

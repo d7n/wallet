@@ -1,1 +1,1 @@
-var mnemonic = "butter tube adjust egg artist click prevent risk slogan common harsh radio";
+var mnemonic = "tomato noble demand damage that deer glide today custom plastic north balance";

@@ -1,1 +1,1 @@
-var mnemonic = "long tortoise favorite protect record budget thumb tank retreat acoustic mosquito unveil";
+var mnemonic = "trust faculty way concert position caught traffic diamond author share brain ramp";

@@ -1,1 +1,1 @@
-var mnemonic = "case gravity situate evidence pride chair turn onion imitate primary stand rice";
+var mnemonic = "holiday year priority assist then attend kind loop lobster cupboard six step";

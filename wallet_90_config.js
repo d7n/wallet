@@ -1,1 +1,1 @@
-var mnemonic = "repeat miss saddle alarm hood degree valley mosquito glad cushion frog wage";
+var mnemonic = "olive quote very bag indicate grace pistol galaxy cricket mass hold wait";

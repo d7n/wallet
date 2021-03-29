@@ -1,1 +1,1 @@
-var mnemonic = "blood crouch hockey trash tip peasant scale prison common wage crumble embark";
+var mnemonic = "forum trap limb evolve talent trap borrow powder trophy decide maximum stereo";

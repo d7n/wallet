@@ -1,1 +1,1 @@
-var mnemonic = "actual evolve govern security vessel undo pilot erase ankle gap gift pyramid";
+var mnemonic = "enrich glove card piano change foster observe dynamic forest best price fox";

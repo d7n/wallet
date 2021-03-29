@@ -1,1 +1,1 @@
-var mnemonic = "state toilet bullet coconut depart promote infant crowd such peanut stereo pen";
+var mnemonic = "amount farm puzzle hero rose orange jar milk rocket frame still radar";

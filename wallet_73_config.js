@@ -1,1 +1,1 @@
-var mnemonic = "maze switch mad they milk machine someone badge top sugar affair myth";
+var mnemonic = "van leaf seven grief firm birth ugly grocery relief theory margin belt";

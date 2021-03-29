@@ -1,1 +1,1 @@
-var mnemonic = "slim submit slender mixed move valley better begin modify quit across couch";
+var mnemonic = "pet unaware ethics tomorrow expire divert front term decorate sell lazy layer";

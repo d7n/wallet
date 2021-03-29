@@ -1,1 +1,1 @@
-var mnemonic = "another pool devote napkin bronze zero eye cool caution gentle salute sunny";
+var mnemonic = "luggage seven glance armor phone envelope manual swamp purpose gain that motor";

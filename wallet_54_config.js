@@ -1,1 +1,1 @@
-var mnemonic = "tennis genuine pigeon render vessel almost shield make basket brush muffin orient";
+var mnemonic = "regret neck wool soap slot piece lawn spatial gossip ozone fabric capable";

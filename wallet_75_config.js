@@ -1,1 +1,1 @@
-var mnemonic = "bone average great accuse harsh example subway patient happy tell bless project";
+var mnemonic = "slim reflect ball misery walk hill young skin cheap general blind soldier";

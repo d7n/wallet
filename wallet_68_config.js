@@ -1,1 +1,1 @@
-var mnemonic = "ritual potato wise ability mosquito okay depart area clip romance flock general";
+var mnemonic = "pioneer health shell arrive choose boost twin roof height prison giraffe dizzy";

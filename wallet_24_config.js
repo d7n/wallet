@@ -1,1 +1,1 @@
-var mnemonic = "cement dinner ill jazz gloom eager click round truly salon adult lion";
+var mnemonic = "wrong vocal fatigue usual moral cost large cool purpose resist grain radio";

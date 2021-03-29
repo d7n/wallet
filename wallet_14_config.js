@@ -1,1 +1,1 @@
-var mnemonic = "vital few gate hen bike craft scrap record install suspect awkward route";
+var mnemonic = "scorpion youth loop diesel dose glory shaft post awake census harsh judge";

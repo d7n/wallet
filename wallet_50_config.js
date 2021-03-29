@@ -1,1 +1,1 @@
-var mnemonic = "marine armor ride virus loop thumb orbit target sword naive camera vendor";
+var mnemonic = "thumb wrong unable obscure pluck thrive junk fruit define angle bridge faith";

@@ -1,1 +1,1 @@
-var mnemonic = "fine various fade universe noble normal come leaf express charge upper turkey";
+var mnemonic = "gap caught twice crane excuse spice kangaroo later destroy decide song depart";

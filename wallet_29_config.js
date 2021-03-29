@@ -1,1 +1,1 @@
-var mnemonic = "jeans decade monster index pink amused claw tragic hybrid vapor melt minimum";
+var mnemonic = "require mention actress youth more tourist soldier dice farm color slight wise";

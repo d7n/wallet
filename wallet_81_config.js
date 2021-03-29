@@ -1,1 +1,1 @@
-var mnemonic = "capable head hockey casual marble fox hero tuna endless feel tip strategy";
+var mnemonic = "audit horse ripple elephant candy seat limb body improve dad track sphere";

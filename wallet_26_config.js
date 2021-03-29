@@ -1,1 +1,1 @@
-var mnemonic = "wheel install number skate gap guide mad general subway brave debris great";
+var mnemonic = "spawn amazing proud knock economy alert belt wedding few skirt parent dinosaur";

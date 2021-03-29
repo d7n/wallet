@@ -1,1 +1,1 @@
-var mnemonic = "vacant mango minute ring bring frost hire alpha gravity gaze panther crater";
+var mnemonic = "grass bullet heavy there segment scrap moment calm chat comic lens anxiety";

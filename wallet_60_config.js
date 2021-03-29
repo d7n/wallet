@@ -1,1 +1,1 @@
-var mnemonic = "sausage index rebel gym future candy melody result pyramid rival flame party";
+var mnemonic = "palm slight because crack later symbol envelope ball achieve maid throw identify";

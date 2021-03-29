@@ -1,1 +1,1 @@
-var mnemonic = "happy depend couch tuna grape next express energy social torch payment coin";
+var mnemonic = "speak style outer afraid maximum title strong surface adult ordinary face chief";

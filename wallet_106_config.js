@@ -1,1 +1,1 @@
-var mnemonic = "heavy hair age bomb sunny found banner cage fiction snap admit input";
+var mnemonic = "alter marble phone oxygen grant snack blast sphere same strategy distance arena";

@@ -1,1 +1,1 @@
-var mnemonic = "course snack battle vicious core absorb plastic group dutch bundle kiwi frequent";
+var mnemonic = "click inform stick marine goddess denial wool abandon engine suspect salon cabbage";

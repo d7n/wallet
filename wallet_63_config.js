@@ -1,1 +1,1 @@
-var mnemonic = "member excess table edge desk unknown brush abuse cluster exist romance fog";
+var mnemonic = "public file thunder wish welcome silk athlete daughter brain final same hotel";

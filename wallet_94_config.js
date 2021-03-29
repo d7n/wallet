@@ -1,1 +1,1 @@
-var mnemonic = "tower observe satoshi motion into fetch skill measure level peanut hold survey";
+var mnemonic = "move document gym talent clay unaware piece media smooth cactus glow imitate";

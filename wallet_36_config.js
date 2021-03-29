@@ -1,1 +1,1 @@
-var mnemonic = "family oval blanket hamster cruise stumble return bean filter cake crew base";
+var mnemonic = "dose fiscal cement park disorder regular summer sun together between real word";

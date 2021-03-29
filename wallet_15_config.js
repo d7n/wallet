@@ -1,1 +1,1 @@
-var mnemonic = "rough lamp toy change pizza need weapon general yellow settle pear custom";
+var mnemonic = "same skate depart ecology phrase shallow unfold butter advice film cousin fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "solar shuffle identify medal wolf claw wool dash omit game first below";
+var mnemonic = "sign awesome hurry foot battle access belt kick almost goddess dish duty";

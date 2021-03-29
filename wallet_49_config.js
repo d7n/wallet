@@ -1,1 +1,1 @@
-var mnemonic = "calm capable pill cream depth point segment monkey defy host describe situate";
+var mnemonic = "obscure vacant depth divorce come buyer sail lizard install chicken square corn";

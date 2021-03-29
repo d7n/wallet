@@ -1,1 +1,1 @@
-var mnemonic = "twin frown valley moral escape fever asthma exclude flash umbrella address infant";
+var mnemonic = "sibling orient tide embrace clown layer cave degree room holiday pet deposit";

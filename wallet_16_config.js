@@ -1,1 +1,1 @@
-var mnemonic = "toast library device cricket mad cousin shoulder item duck tree bracket state";
+var mnemonic = "exile credit frown dash sword pulp episode cruel leg trust system mimic";

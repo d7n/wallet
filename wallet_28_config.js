@@ -1,1 +1,1 @@
-var mnemonic = "wedding struggle visa ranch unusual brass silver despair flag quantum light entire";
+var mnemonic = "copper occur oven vacant drill ill wool half power game hamster sudden";

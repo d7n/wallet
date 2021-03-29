@@ -1,1 +1,1 @@
-var mnemonic = "stereo cube wagon sand number logic bench error hybrid find excess sphere";
+var mnemonic = "hockey almost occur fever broken habit snow beyond parade cloud grief affair";

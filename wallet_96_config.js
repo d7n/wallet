@@ -1,1 +1,1 @@
-var mnemonic = "fog accuse surface canvas barely dumb silly toilet honey process front street";
+var mnemonic = "inmate hollow excess perfect baby click dentist interest scale large charge road";

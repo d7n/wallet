@@ -1,1 +1,1 @@
-var mnemonic = "region online setup pitch shaft unit door phrase library involve island lesson";
+var mnemonic = "mother fox alley behind version pioneer rule crazy picnic nominee hour tent";

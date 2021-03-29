@@ -1,1 +1,1 @@
-var mnemonic = "innocent marriage ecology mirror evoke merry receive orbit obvious broom observe setup";
+var mnemonic = "squeeze situate acoustic market bus drop captain exit six comfort gym install";

@@ -1,1 +1,1 @@
-var mnemonic = "cross hotel city ten front cause enact person castle end expect crush";
+var mnemonic = "powder sudden address super issue snap family valve roast drum mosquito jar";

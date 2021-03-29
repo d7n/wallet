@@ -1,1 +1,1 @@
-var mnemonic = "slice slow visual lyrics elevator rescue erosion ginger thunder patch design diary";
+var mnemonic = "flash also clinic husband blush name someone theme number stock slush citizen";

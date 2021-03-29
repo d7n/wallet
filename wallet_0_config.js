@@ -1,1 +1,1 @@
-var mnemonic = "copy banana ten dance punch usage learn walk spare turn service loan";
+var mnemonic = "make segment trash blood say issue jelly path until file nest rude";

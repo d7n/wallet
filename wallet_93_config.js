@@ -1,1 +1,1 @@
-var mnemonic = "act frog risk notable gallery squirrel library arctic lounge middle castle dune";
+var mnemonic = "expire inside lake this used job clutch kid host assist elbow old";

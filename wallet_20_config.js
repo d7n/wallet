@@ -1,1 +1,1 @@
-var mnemonic = "insane tide twist pelican develop neglect glue hen super define veteran owner";
+var mnemonic = "vessel calm perfect wage slide knee what holiday exercise shoulder enrich annual";

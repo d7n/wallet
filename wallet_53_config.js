@@ -1,1 +1,1 @@
-var mnemonic = "scheme heart brother title swear legend unfold cherry various size come crawl";
+var mnemonic = "course enhance under gather mirror guitar sheriff burden frame female vacant achieve";

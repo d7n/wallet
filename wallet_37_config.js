@@ -1,1 +1,1 @@
-var mnemonic = "woman pulp stay deny melt other target stadium monster want tent identify";
+var mnemonic = "country vocal episode anchor draft mom describe object green ancient clip burden";

@@ -1,1 +1,1 @@
-var mnemonic = "lobster curve half such laugh solve suggest start jealous valid erupt put";
+var mnemonic = "waste remove drift sniff hair fat basic service original manage bottom cabbage";

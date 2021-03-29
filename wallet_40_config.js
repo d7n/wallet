@@ -1,1 +1,1 @@
-var mnemonic = "visit common skirt page call remain soccer undo nerve mass raw program";
+var mnemonic = "innocent antenna seven agent quick wing outdoor genius party happy police hint";

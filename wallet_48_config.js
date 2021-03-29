@@ -1,1 +1,1 @@
-var mnemonic = "start bid breeze position place token brown pony grant car conduct hood";
+var mnemonic = "vessel surface trade cabbage rich access float economy umbrella glad rail page";

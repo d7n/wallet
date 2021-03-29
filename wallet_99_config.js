@@ -1,1 +1,1 @@
-var mnemonic = "column theory need charge edge various army choice parent consider toilet cancel";
+var mnemonic = "virtual staff chief pencil way keep drive unfair step sure neglect worth";

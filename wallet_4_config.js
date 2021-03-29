@@ -1,1 +1,1 @@
-var mnemonic = "summer before dash grief choose double pretty keep sphere grain arrow weird";
+var mnemonic = "shaft tattoo source people impact balance table phrase later risk peasant pottery";

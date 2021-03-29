@@ -1,1 +1,1 @@
-var mnemonic = "grow pill country always normal clock donkey series van heavy rice nuclear";
+var mnemonic = "asset grape boss visual nominee require voyage choice ticket icon buffalo route";

@@ -1,1 +1,1 @@
-var mnemonic = "coffee evidence drift ensure blue matter oxygen chef whale luxury clap heavy";
+var mnemonic = "avocado sand spirit horror meadow today woman tape element loud crawl trade";

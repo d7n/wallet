@@ -1,1 +1,1 @@
-var mnemonic = "still nominee bean round unknown leg feature bulk trumpet donate sugar tone";
+var mnemonic = "load dose yellow receive ghost certain during creek labor special sign cactus";

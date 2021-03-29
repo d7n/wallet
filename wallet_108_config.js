@@ -1,1 +1,1 @@
-var mnemonic = "depart ankle genuine clerk harvest half caught describe rose sustain trade present";
+var mnemonic = "urban habit venue copper slab picnic zero adapt knife quit trophy common";

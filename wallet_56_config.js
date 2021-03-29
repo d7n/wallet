@@ -1,1 +1,1 @@
-var mnemonic = "flower tomorrow business burger easily vivid anger unusual gravity hub peace dish";
+var mnemonic = "drift plunge rough divide comfort casual ahead harvest input south daughter present";

@@ -1,1 +1,1 @@
-var mnemonic = "huge fashion pond green age hazard woman dirt hungry off deny sad";
+var mnemonic = "general ancient awesome undo rapid obtain joy diesel engine mechanic owner fee";

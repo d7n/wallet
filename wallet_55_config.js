@@ -1,1 +1,1 @@
-var mnemonic = "enhance noodle rude mouse ranch oxygen blood sock grit camp into harbor";
+var mnemonic = "entire fat insane heavy manage song notice false letter tiny observe theme";

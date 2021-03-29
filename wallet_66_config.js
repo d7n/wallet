@@ -1,1 +1,1 @@
-var mnemonic = "ticket anger nuclear nuclear habit super prize correct motor pulp renew write";
+var mnemonic = "round cup onion team exhibit ill special spin rocket goat render venture";

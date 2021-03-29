@@ -1,1 +1,1 @@
-var mnemonic = "spike island cannon seven member hurt express flower affair vintage credit erase";
+var mnemonic = "shiver like reopen report defense gift snack shine suit arrow armor delay";

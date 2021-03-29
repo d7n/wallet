@@ -1,1 +1,1 @@
-var mnemonic = "process balcony bright upper execute arrest cause street matrix gloom cheap poem";
+var mnemonic = "genius gallery place duck bacon derive weasel ocean crucial purchase rabbit ten";

@@ -1,1 +1,1 @@
-var mnemonic = "rally spatial lady suggest absurd wood ecology raw onion acoustic leader brown";
+var mnemonic = "icon umbrella mercy still say divert glad belt address document asthma test";

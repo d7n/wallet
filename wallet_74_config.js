@@ -1,1 +1,1 @@
-var mnemonic = "unfair tennis royal civil elite vital renew attend own dirt potato finish";
+var mnemonic = "round extra average vague another refuse swarm general sorry warrior shift chat";

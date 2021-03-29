@@ -1,1 +1,1 @@
-var mnemonic = "segment skin unit embrace elite witness they stairs area inside female arrive";
+var mnemonic = "decline fiction gather swing armed kitchen negative brown scorpion elder prevent double";

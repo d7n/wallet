@@ -1,1 +1,1 @@
-var mnemonic = "code cherry bottom author ramp prison assist ritual best motor exile exotic";
+var mnemonic = "october trash upset visit erase exchange soap master devote display valid issue";
