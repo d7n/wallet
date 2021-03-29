@@ -1,1 +1,1 @@
-var mnemonic = "olive repeat junior hub actor milk wire fluid oven exotic assume blush";
+var mnemonic = "obtain candy absurd slab insane cinnamon range same twin whip credit title";

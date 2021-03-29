@@ -1,1 +1,1 @@
-var mnemonic = "device vintage pioneer gentle kid deposit wasp nose goat valley banana crop";
+var mnemonic = "outer practice beach shed culture grocery cigar hire divide fluid card gate";

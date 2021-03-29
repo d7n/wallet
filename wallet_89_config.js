@@ -1,1 +1,1 @@
-var mnemonic = "bottom camp inspire small exotic grace pattern about wire neutral list sunny";
+var mnemonic = "elbow job lounge creek tenant friend river daughter end ramp bronze ivory";

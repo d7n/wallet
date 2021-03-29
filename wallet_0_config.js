@@ -1,1 +1,1 @@
-var mnemonic = "stairs similar around antique dwarf tribe toast income churn question version bean";
+var mnemonic = "maximum tail fence sport truth giggle ancient fly local endless unhappy feed";

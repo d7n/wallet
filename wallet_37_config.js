@@ -1,1 +1,1 @@
-var mnemonic = "metal exist correct face color industry loud cloud raven dentist caught dune";
+var mnemonic = "price occur video spawn spare dynamic boil cricket sphere core denial enough";

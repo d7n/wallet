@@ -1,1 +1,1 @@
-var mnemonic = "boy wait strategy potato main bicycle already globe cat stay absorb wash";
+var mnemonic = "exotic vibrant range adjust pumpkin start crime lizard gate second barrel weird";

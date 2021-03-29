@@ -1,1 +1,1 @@
-var mnemonic = "question cinnamon hold transfer trash violin limb bless cover dinosaur cost mistake";
+var mnemonic = "memory deposit kick water fragile jewel captain inherit joy rival rifle warm";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy mango review merit cannon bench excess friend rural list there treat";
+var mnemonic = "answer slush protect fan clean price trim consider small daring scan snap";

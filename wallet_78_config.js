@@ -1,1 +1,1 @@
-var mnemonic = "since voice fury voyage answer globe now share advice vapor catalog attack";
+var mnemonic = "column trust tone crucial impose dignity custom elder price kind diesel announce";

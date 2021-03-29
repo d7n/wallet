@@ -1,1 +1,1 @@
-var mnemonic = "run congress angle thank sponsor wild tilt arena cloth soldier entire math";
+var mnemonic = "enroll animal edge sea vehicle multiply harvest cram camp blade cloud high";

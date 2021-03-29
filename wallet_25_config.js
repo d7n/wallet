@@ -1,1 +1,1 @@
-var mnemonic = "abuse purchase humor humble become zoo huge right coil ladder high bicycle";
+var mnemonic = "venue opinion radio oven economy ocean fetch grant limb such jealous clump";

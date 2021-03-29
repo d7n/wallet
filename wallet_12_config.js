@@ -1,1 +1,1 @@
-var mnemonic = "mother artist below tissue mouse female curve project baby carbon try mixture";
+var mnemonic = "thing veteran wave grocery coffee border antique hunt step distance awake ancient";

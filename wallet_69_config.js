@@ -1,1 +1,1 @@
-var mnemonic = "nation tuna fold glory acquire wood olympic grocery multiply large reform orchard";
+var mnemonic = "enjoy skull peanut help west collect security day moment solution noodle spawn";

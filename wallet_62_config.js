@@ -1,1 +1,1 @@
-var mnemonic = "flavor fruit snow craft auto museum wide extra order ability tube evolve";
+var mnemonic = "wear album castle inside banner orient soap dish rigid card depth rubber";

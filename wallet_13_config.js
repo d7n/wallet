@@ -1,1 +1,1 @@
-var mnemonic = "spend dash describe student seek auction furnace festival pledge sort surprise relief";
+var mnemonic = "napkin sorry say music buddy sauce behind cradle early occur obvious wealth";

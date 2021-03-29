@@ -1,1 +1,1 @@
-var mnemonic = "latin badge method orphan force term quit toddler sibling destroy wild either";
+var mnemonic = "apple planet muffin help radio acoustic solar federal game mention resist table";

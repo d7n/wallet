@@ -1,1 +1,1 @@
-var mnemonic = "neutral mind arrow staff carbon hope zoo develop project only resemble risk";
+var mnemonic = "melt grain dice giant cushion almost dad check wheel cupboard crime oxygen";

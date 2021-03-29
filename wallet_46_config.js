@@ -1,1 +1,1 @@
-var mnemonic = "keen cloud success trash ensure exercise bamboo exhibit ridge vacuum fatal million";
+var mnemonic = "whip beef leader hurry pull retreat steak negative sausage isolate iron busy";

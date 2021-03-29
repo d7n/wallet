@@ -1,1 +1,1 @@
-var mnemonic = "motor doll mutual moral primary jacket ensure denial town egg modify lonely";
+var mnemonic = "hurry crawl hobby amazing radio taxi social cage lift mean silent oxygen";

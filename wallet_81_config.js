@@ -1,1 +1,1 @@
-var mnemonic = "load discover fee mango buffalo connect attend soda twist interest vault cargo";
+var mnemonic = "kidney balance wet vacuum this east tonight reject monitor jewel exclude fiscal";

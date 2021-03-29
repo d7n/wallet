@@ -1,1 +1,1 @@
-var mnemonic = "satoshi consider lemon depend soul good seek foster oven firm sheriff tissue";
+var mnemonic = "jewel obtain mansion blouse fetch narrow fish history curve autumn else chronic";

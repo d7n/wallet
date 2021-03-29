@@ -1,1 +1,1 @@
-var mnemonic = "trust dress hip panel joy lonely wood box boss jar slender narrow";
+var mnemonic = "divert script rapid kitten rely west legal talk rookie collect cattle capital";

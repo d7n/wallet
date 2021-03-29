@@ -1,1 +1,1 @@
-var mnemonic = "unhappy result when romance hungry castle coyote include hair avoid kite snake";
+var mnemonic = "helmet dizzy dilemma mother under evil decline economy verb cattle large swamp";

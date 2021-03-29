@@ -1,1 +1,1 @@
-var mnemonic = "shrimp recipe food arm bright trap innocent balcony angle road hospital immune";
+var mnemonic = "peasant shoulder innocent acquire agree bargain attend stage business report autumn sweet";

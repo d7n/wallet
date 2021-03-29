@@ -1,1 +1,1 @@
-var mnemonic = "all caught render diamond fine laugh resemble cash access pioneer window tomorrow";
+var mnemonic = "follow puzzle expand talent manual ensure rug before proud easy juice cereal";

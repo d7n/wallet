@@ -1,1 +1,1 @@
-var mnemonic = "injury because song sun tool alcohol refuse surge cement grain write lift";
+var mnemonic = "circle happy motion wheel survey nest team april unique essence opera slot";

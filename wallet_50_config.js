@@ -1,1 +1,1 @@
-var mnemonic = "broken squirrel segment wage govern away viable clock feel interest ignore train";
+var mnemonic = "orange acid account dice duck horse task miss bring aunt before oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "reject hope fatigue assume three curtain target brief comic balance strong cherry";
+var mnemonic = "iron carry spoon daring bonus traffic inch category rate palace project swift";

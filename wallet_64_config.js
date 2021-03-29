@@ -1,1 +1,1 @@
-var mnemonic = "neither media youth shallow claw assume secret divert trigger yellow deliver depart";
+var mnemonic = "mango tail guitar amount lyrics reform empty tackle flee end two race";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange cook clinic nest indicate stick escape obtain stuff dose shift fragile";
+var mnemonic = "shoot brain goat soccer tuition destroy near rely super bulb grain critic";

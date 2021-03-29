@@ -1,1 +1,1 @@
-var mnemonic = "reject gasp silly leg lake rough endorse calm season provide viable area";
+var mnemonic = "harvest mask deposit grab purse supply manual upset margin grain hawk melody";

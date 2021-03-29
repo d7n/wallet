@@ -1,1 +1,1 @@
-var mnemonic = "reveal spoil bullet fiscal traffic coast story afraid cruise alpha mind reason";
+var mnemonic = "enemy garlic fantasy paper situate humor vocal tortoise aisle maid person fish";

@@ -1,1 +1,1 @@
-var mnemonic = "daring cactus method strike treat defense nuclear gauge must vault mixture tattoo";
+var mnemonic = "gauge rice salmon task festival bind outer jelly marble youth snake void";

@@ -1,1 +1,1 @@
-var mnemonic = "gown supply trophy much frost tobacco knife this pony stadium mimic energy";
+var mnemonic = "crush box library sting analyst endless tail brush kangaroo short monkey amazing";

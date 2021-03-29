@@ -1,1 +1,1 @@
-var mnemonic = "daring neutral tool element captain battle whisper hub super screen company orphan";
+var mnemonic = "strong betray dynamic cabbage fine cruel caution sadness assume economy citizen chaos";

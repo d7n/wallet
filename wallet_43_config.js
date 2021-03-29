@@ -1,1 +1,1 @@
-var mnemonic = "joke scene fun clarify raw crew mimic indoor web scrap lottery dream";
+var mnemonic = "joy noise neglect mad edit supply height version success city alert exist";

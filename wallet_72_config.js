@@ -1,1 +1,1 @@
-var mnemonic = "margin banana there stem check field squirrel sausage promote spike powder wear";
+var mnemonic = "disorder setup leg clarify buddy course cactus artist yellow report nurse scale";

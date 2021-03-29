@@ -1,1 +1,1 @@
-var mnemonic = "exile patrol spider book entry ancient tiny sport lonely about because hamster";
+var mnemonic = "process sunset city wing find mask wrong height result banana frost drill";

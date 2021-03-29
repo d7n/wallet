@@ -1,1 +1,1 @@
-var mnemonic = "wife news chuckle have average social toss parent medal clump one cruel";
+var mnemonic = "seminar can shell shop blame viable income exist erupt this ramp receive";

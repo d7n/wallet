@@ -1,1 +1,1 @@
-var mnemonic = "alter brief border engage echo junior meat around fetch easy thing prosper";
+var mnemonic = "sock lyrics crisp love brush oven lecture quiz enhance business cost thank";

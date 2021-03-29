@@ -1,1 +1,1 @@
-var mnemonic = "source kingdom slight student whisper shield river crater artist direct castle increase";
+var mnemonic = "fatigue gentle throw candy skill board border circle easy antique envelope chunk";

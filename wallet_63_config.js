@@ -1,1 +1,1 @@
-var mnemonic = "palace genre party skirt minute night shop again sniff predict phrase remind";
+var mnemonic = "allow permit gospel merge devote music stomach neck boil you brass tail";

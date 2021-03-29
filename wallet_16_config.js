@@ -1,1 +1,1 @@
-var mnemonic = "novel glow effort parrot trouble change eager fortune grant donor model battle";
+var mnemonic = "among cigar exchange fan chicken cushion depend nuclear turn author caution oven";

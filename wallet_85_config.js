@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit relief bitter champion bean wool quality fix exhaust endless token earn";
+var mnemonic = "kid uncover liar miss sausage slight flavor load drink ostrich chat hunt";

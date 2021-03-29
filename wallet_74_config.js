@@ -1,1 +1,1 @@
-var mnemonic = "strong input castle witness border boring love license cotton cotton topic nose";
+var mnemonic = "festival absent check expire frequent unknown kitten panel remember they discover truck";

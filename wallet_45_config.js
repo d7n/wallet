@@ -1,1 +1,1 @@
-var mnemonic = "skin defy hill cable fiber hobby credit blouse gain reduce baby record";
+var mnemonic = "design frog box coast victory develop theory lion stereo avocado devote side";

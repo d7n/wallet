@@ -1,1 +1,1 @@
-var mnemonic = "pulp unveil into dutch visit gaze crunch become help clog west shed";
+var mnemonic = "amazing traffic impact leave buffalo flame orchard vibrant wrist unusual question scrap";

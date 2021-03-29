@@ -1,1 +1,1 @@
-var mnemonic = "survey lumber mountain question relief hobby car exercise skull camp grass across";
+var mnemonic = "whisper book subway tree about artwork anger mimic wrist stomach cry lion";

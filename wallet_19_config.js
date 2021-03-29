@@ -1,1 +1,1 @@
-var mnemonic = "news frown grape climb design oblige shy clay record absorb rival champion";
+var mnemonic = "kiwi truly cousin town today express castle matrix raise clinic sunset sure";

@@ -1,1 +1,1 @@
-var mnemonic = "hover medal snow orient clutch turtle blur vacant pair economy bronze ability";
+var mnemonic = "uncover capital build drum project box concert fee genre happy fault kid";

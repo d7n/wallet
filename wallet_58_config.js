@@ -1,1 +1,1 @@
-var mnemonic = "tonight length tornado together census fringe lumber mistake force pulse piece cliff";
+var mnemonic = "execute grass adult frog left cinnamon style push real rabbit goose result";

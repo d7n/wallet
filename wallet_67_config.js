@@ -1,1 +1,1 @@
-var mnemonic = "mountain ecology brisk secret elder fatal forward sausage sail pair exile pulp";
+var mnemonic = "provide eye pave room park jelly slab tide dirt volcano rare emotion";

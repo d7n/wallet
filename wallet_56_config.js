@@ -1,1 +1,1 @@
-var mnemonic = "wish now join enable error between eager thing timber lizard index jealous";
+var mnemonic = "pink taxi input drip hawk egg good ribbon burden acoustic crumble vocal";

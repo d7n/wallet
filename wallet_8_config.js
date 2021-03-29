@@ -1,1 +1,1 @@
-var mnemonic = "stereo cereal right ribbon family limb snow radar garlic tip vivid badge";
+var mnemonic = "comic apart door bomb then raise order relief margin ski unique burst";

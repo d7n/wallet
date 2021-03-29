@@ -1,1 +1,1 @@
-var mnemonic = "false deal glad oxygen emerge manual struggle cactus divide vibrant budget inside";
+var mnemonic = "call shed math rural roof moral feed tiny zero either smoke country";

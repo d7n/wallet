@@ -1,1 +1,1 @@
-var mnemonic = "remain isolate scene wait violin asset abandon couple winter expose bronze inject";
+var mnemonic = "bus noise ten trim subject agent body sad manual army talent pipe";

@@ -1,1 +1,1 @@
-var mnemonic = "prepare narrow asthma educate shrimp ahead gas fashion hole hollow draft day";
+var mnemonic = "rose color fresh strike cancel intact pitch senior cloth flower economy say";

@@ -1,1 +1,1 @@
-var mnemonic = "bubble bubble obscure diet circle mirror scorpion outside extend room satoshi marble";
+var mnemonic = "curve page payment refuse cannon excuse order creek seven chase special rail";

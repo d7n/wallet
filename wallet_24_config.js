@@ -1,1 +1,1 @@
-var mnemonic = "alarm grunt festival soon click capital attack quality party universe shed grass";
+var mnemonic = "network boost blood boring dynamic butter warm right junk emotion lock tortoise";

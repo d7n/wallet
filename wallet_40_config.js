@@ -1,1 +1,1 @@
-var mnemonic = "convince mutual dad chair sea tissue sunset join wolf garage program cargo";
+var mnemonic = "dinosaur evolve tomato spread angle taxi rice remind salon curious short economy";

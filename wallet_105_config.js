@@ -1,1 +1,1 @@
-var mnemonic = "license rib already gospel cube over range bunker panel monkey report sea";
+var mnemonic = "puppy sun tuna vacuum sausage shell swamp welcome share kite amateur maximum";

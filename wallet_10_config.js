@@ -1,1 +1,1 @@
-var mnemonic = "case melt purse call fabric polar spray reason grief tip infant clip";
+var mnemonic = "beach express summer assume carbon exhibit peanut half lizard enhance desert world";

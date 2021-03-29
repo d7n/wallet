@@ -1,1 +1,1 @@
-var mnemonic = "visa liquid plastic explain asthma idle define maid match need defy comfort";
+var mnemonic = "cancel magnet hurt cactus dawn oppose grit try pistol change fat march";

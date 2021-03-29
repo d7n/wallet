@@ -1,1 +1,1 @@
-var mnemonic = "gown copy once very tissue treat net join program lunar cereal syrup";
+var mnemonic = "east brown local auto wave bronze demand kid fancy enemy brick crucial";

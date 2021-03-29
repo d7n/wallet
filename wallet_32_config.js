@@ -1,1 +1,1 @@
-var mnemonic = "fossil baby fame fruit olive pole exclude crop demise iron usage meat";
+var mnemonic = "badge barrel lobster fitness funny soldier state sword book canyon also poet";

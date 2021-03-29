@@ -1,1 +1,1 @@
-var mnemonic = "helmet cigar trash vintage token essence pepper begin modify random witness time";
+var mnemonic = "false neither analyst planet marble skull food task kidney ordinary drive carbon";

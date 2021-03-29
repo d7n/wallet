@@ -1,1 +1,1 @@
-var mnemonic = "cushion skirt gospel oxygen decade copy supreme problem capable try predict favorite";
+var mnemonic = "feed fog turn civil liquid guess possible lion police flock problem design";

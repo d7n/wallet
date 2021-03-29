@@ -1,1 +1,1 @@
-var mnemonic = "demand skull robust next large cruel use fruit tornado sketch destroy parade";
+var mnemonic = "slice glad aware caution grief expire special inside slender favorite steak eager";

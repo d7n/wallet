@@ -1,1 +1,1 @@
-var mnemonic = "pink hole tip list tenant series present device clarify stick roof card";
+var mnemonic = "goose around marble pride armed attend opera fit banner aerobic situate dose";

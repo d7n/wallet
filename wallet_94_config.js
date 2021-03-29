@@ -1,1 +1,1 @@
-var mnemonic = "daughter punch adjust broken green humble submit face ten need love someone";
+var mnemonic = "uncover clock autumn debate blossom alcohol announce matrix legend decade you month";

@@ -1,1 +1,1 @@
-var mnemonic = "jump wish resource iron gauge method ship object swallow apart corn sample";
+var mnemonic = "sudden response into opinion chief keen young injury system powder follow muffin";

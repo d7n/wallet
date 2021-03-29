@@ -1,1 +1,1 @@
-var mnemonic = "zoo giraffe universe initial pitch code seed visa file usual pattern tooth";
+var mnemonic = "lemon dinosaur buffalo bronze grace attract arena magnet person amused middle fetch";

@@ -1,1 +1,1 @@
-var mnemonic = "vault box matrix put panda bind defy suspect fame jazz uncover orbit";
+var mnemonic = "shoe actor essay adjust cabbage nice now visual garment always error someone";

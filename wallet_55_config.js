@@ -1,1 +1,1 @@
-var mnemonic = "critic loyal drum fit invest quantum program first bench hole pig report";
+var mnemonic = "lunar garden voyage eight silly nature march daughter prepare mammal pupil velvet";

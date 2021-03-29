@@ -1,1 +1,1 @@
-var mnemonic = "level genre army view parent wisdom laugh arrest half lawsuit blur damage";
+var mnemonic = "skill exclude impose wine view ancient tuna poverty giggle glass fat elevator";

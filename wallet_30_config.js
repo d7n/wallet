@@ -1,1 +1,1 @@
-var mnemonic = "response immune cry medal tribe easily arrow library able idle walk survey";
+var mnemonic = "pill crime wing carry gym size fine kind strong depart coffee riot";

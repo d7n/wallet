@@ -1,1 +1,1 @@
-var mnemonic = "secret acoustic time solution profit kit cattle book gorilla pool lab broken";
+var mnemonic = "tourist load region knee goat inspire injury tower report pony pave glance";

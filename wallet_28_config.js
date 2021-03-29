@@ -1,1 +1,1 @@
-var mnemonic = "vapor skull rely replace gold jar transfer almost spot possible include perfect";
+var mnemonic = "reform shine noodle connect fragile way luggage focus candy fiction come fence";

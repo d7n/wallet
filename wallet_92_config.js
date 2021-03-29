@@ -1,1 +1,1 @@
-var mnemonic = "army auto normal nice novel seat hurt donor shield vital later destroy";
+var mnemonic = "alter virtual grunt butter sibling spend practice text sponsor donate alert walnut";

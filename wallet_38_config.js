@@ -1,1 +1,1 @@
-var mnemonic = "valley brisk renew stone example timber duck save sleep purity maze scorpion";
+var mnemonic = "tattoo reflect vacuum bicycle chronic myself please message dream sadness garage mammal";

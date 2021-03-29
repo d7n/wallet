@@ -1,1 +1,1 @@
-var mnemonic = "lend orbit room choice laugh acid farm unfold shrug economy situate luxury";
+var mnemonic = "close surround uniform author power victory sword repeat cousin frequent wine devote";

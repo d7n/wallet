@@ -1,1 +1,1 @@
-var mnemonic = "slender ill tonight blanket slender case slide reform erode place myself pepper";
+var mnemonic = "deposit gravity salt act link pig price enhance tourist sea join fat";

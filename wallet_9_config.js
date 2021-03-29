@@ -1,1 +1,1 @@
-var mnemonic = "insane loyal utility uniform cute bargain mass cross close aspect genre arm";
+var mnemonic = "talent demise author member imitate craft ecology space olympic whisper village airport";

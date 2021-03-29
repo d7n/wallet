@@ -1,1 +1,1 @@
-var mnemonic = "whisper dignity rocket horror coin monkey inspire when expire vote crack journey";
+var mnemonic = "attend basket kangaroo rebel follow cloud damp hip drastic cabbage prevent dream";

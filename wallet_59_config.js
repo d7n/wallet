@@ -1,1 +1,1 @@
-var mnemonic = "daughter unaware midnight endless nurse tuna party olympic gift expand hedgehog fall";
+var mnemonic = "will avoid ketchup only pumpkin cargo clean fix age afraid typical comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "daring ticket ostrich rebuild panda miss orient humble champion recall aware garlic";
+var mnemonic = "sample return survey cement silly frog theme expose river casino trophy enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "swear marriage kingdom pudding false music fatal dice legend video boost provide";
+var mnemonic = "now enroll fluid note spatial castle current viable innocent admit office atom";

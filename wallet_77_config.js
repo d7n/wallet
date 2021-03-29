@@ -1,1 +1,1 @@
-var mnemonic = "spice focus zebra pet section recipe earth notice trophy tennis labor puzzle";
+var mnemonic = "mouse very close wrong addict bundle dragon begin home admit peasant rebuild";

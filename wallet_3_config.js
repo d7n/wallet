@@ -1,1 +1,1 @@
-var mnemonic = "pyramid acoustic proof move pluck wing rally priority slush engage wear maze";
+var mnemonic = "cram blade victory dune spider victory occur gossip veteran online click zebra";

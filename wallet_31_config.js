@@ -1,1 +1,1 @@
-var mnemonic = "female ethics vanish gym lumber wet current notice curious dash solid outside";
+var mnemonic = "top beach panther engine average eye bless kid start first side screen";
