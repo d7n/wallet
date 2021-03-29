@@ -1,1 +1,1 @@
-var mnemonic = "bonus collect around quiz panic abuse deer cargo cheese reopen prepare parent";
+var mnemonic = "tip host open obey inside position bargain chunk earth flip bundle super";

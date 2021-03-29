@@ -1,1 +1,1 @@
-var mnemonic = "total puppy doll issue old prosper screen total crush myth priority steak";
+var mnemonic = "arena orient include glide empower imitate liquid ugly lizard congress day heart";

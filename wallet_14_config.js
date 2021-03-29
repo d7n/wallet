@@ -1,1 +1,1 @@
-var mnemonic = "property since famous coil cable few trap pink wire abandon amused resist";
+var mnemonic = "trouble salt approve bounce sun case system bind cloth find praise success";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic forest assume mistake excuse club strategy public fan combine relax peace";
+var mnemonic = "way winter script liar decorate sign promote erode opinion south silly average";

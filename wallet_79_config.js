@@ -1,1 +1,1 @@
-var mnemonic = "bind glove crunch manual bid quiz reunion ranch language claim dynamic injury";
+var mnemonic = "three install uncle memory orchard again gaze grace system bless believe thumb";

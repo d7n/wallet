@@ -1,1 +1,1 @@
-var mnemonic = "solution purchase charge also detail door kangaroo corn run twice ski bullet";
+var mnemonic = "deal nephew advice curve alien suspect chaos nuclear guitar harbor amused media";

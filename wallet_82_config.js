@@ -1,1 +1,1 @@
-var mnemonic = "artefact concert purse mesh cliff borrow mean angle wrong divert funny trend";
+var mnemonic = "merit electric comic kidney ring witness when best october already embark shift";

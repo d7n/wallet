@@ -1,1 +1,1 @@
-var mnemonic = "glue genre ability leader token rapid age history neck glue pact crop";
+var mnemonic = "delay knock busy small cruel staff live vintage slice brief innocent decide";

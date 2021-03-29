@@ -1,1 +1,1 @@
-var mnemonic = "genre robot universe black foam mesh note reopen marble list aerobic cage";
+var mnemonic = "view volcano shock immune reopen nurse mule enact tool woman combine coyote";

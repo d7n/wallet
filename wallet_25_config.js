@@ -1,1 +1,1 @@
-var mnemonic = "carpet vacuum select debris captain hole rally core body kite machine spot";
+var mnemonic = "physical weekend away fever fire nurse load wine ugly quarter prepare crowd";

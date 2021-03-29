@@ -1,1 +1,1 @@
-var mnemonic = "essence gift impose water rigid toilet absent dice clay ugly biology mixture";
+var mnemonic = "gauge novel toward mouse payment march sea cause manual order poet crush";

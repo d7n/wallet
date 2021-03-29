@@ -1,1 +1,1 @@
-var mnemonic = "tray space mixed deliver moon safe lion marriage cruel column birth lab";
+var mnemonic = "where intact spy trial chunk brisk circle warrior lemon shove candy cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "silver soul pulse pulse quality myth canal waste fortune shift mind online";
+var mnemonic = "addict spirit text toy pulse jeans trade swallow version monkey illness trumpet";

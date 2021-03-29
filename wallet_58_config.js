@@ -1,1 +1,1 @@
-var mnemonic = "capable mixture news suit easy wing glue keep improve learn fee world";
+var mnemonic = "cannon vacuum essay almost math step occur nature year educate busy cycle";

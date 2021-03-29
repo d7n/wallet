@@ -1,1 +1,1 @@
-var mnemonic = "pause genius drama walk sock bless six music gossip demise hurry inhale";
+var mnemonic = "wave rail rather shed frequent verb call lottery sword muscle brass cup";

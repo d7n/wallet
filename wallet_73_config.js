@@ -1,1 +1,1 @@
-var mnemonic = "nephew famous poverty burst glory disease leopard faculty loan vessel defy sorry";
+var mnemonic = "toilet boat blade click sport sad human census honey okay vacant post";

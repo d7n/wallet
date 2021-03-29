@@ -1,1 +1,1 @@
-var mnemonic = "scrub egg helmet woman bright bulk master wheel kidney gasp rough genius";
+var mnemonic = "zebra sock icon video bleak solution share warm gentle ten glad dish";

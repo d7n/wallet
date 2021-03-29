@@ -1,1 +1,1 @@
-var mnemonic = "creek pelican near marine noodle board gas chapter walk glue media one";
+var mnemonic = "party chair hill hawk dance hover crawl mail future hole flag noodle";

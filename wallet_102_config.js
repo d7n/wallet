@@ -1,1 +1,1 @@
-var mnemonic = "enforce asthma photo drink demand chalk fresh bachelor daughter remove action portion";
+var mnemonic = "nurse swallow put disease bind boring easy laugh spot vivid awake much";

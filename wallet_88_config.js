@@ -1,1 +1,1 @@
-var mnemonic = "post river marriage foot exile innocent broccoli surge chimney fever point source";
+var mnemonic = "run day ball service same gossip kidney lecture belt attitude tattoo tiger";

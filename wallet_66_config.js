@@ -1,1 +1,1 @@
-var mnemonic = "dove belt great humble soft problem cover soap broom repeat august office";
+var mnemonic = "carry gain wealth razor steak online spot suspect aerobic cluster wrestle awesome";

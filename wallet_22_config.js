@@ -1,1 +1,1 @@
-var mnemonic = "scatter comfort famous potato steel vacuum minute describe raise coach urge damp";
+var mnemonic = "village cupboard end just length pigeon donkey practice damp warrior wear luxury";

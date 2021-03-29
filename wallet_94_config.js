@@ -1,1 +1,1 @@
-var mnemonic = "profit arm weapon exotic hidden lonely steak faculty gun trim onion wall";
+var mnemonic = "humor vapor rubber hire appear faint erosion capable pause thought banner orphan";

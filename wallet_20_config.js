@@ -1,1 +1,1 @@
-var mnemonic = "result layer spot sting sunset monster upset solve climb disorder rare steel";
+var mnemonic = "regret inspire session valid solve nothing buyer broken output lawn canvas pink";

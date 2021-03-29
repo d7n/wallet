@@ -1,1 +1,1 @@
-var mnemonic = "hurt kick embark quick mobile sphere blossom blast small consider paper hour";
+var mnemonic = "stick dentist pumpkin seven draft visa adapt public other prison verb leader";

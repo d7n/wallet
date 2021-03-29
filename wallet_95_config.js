@@ -1,1 +1,1 @@
-var mnemonic = "bus sphere wire faculty text stem bamboo next inform vapor vapor advice";
+var mnemonic = "mandate various bird length drive penalty keep negative regular second family celery";

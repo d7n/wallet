@@ -1,1 +1,1 @@
-var mnemonic = "broccoli mandate stove disease vapor garlic utility long romance quality push there";
+var mnemonic = "blind near cloud gravity economy hire expose language plate title document worth";

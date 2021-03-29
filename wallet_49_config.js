@@ -1,1 +1,1 @@
-var mnemonic = "brown cargo desk print term coffee fancy cupboard deny effort lucky cost";
+var mnemonic = "into deposit suggest six gym spell prison deer model knock actress aisle";

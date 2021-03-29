@@ -1,1 +1,1 @@
-var mnemonic = "bless road hour chimney eight broken phrase scan humble copper boss concert";
+var mnemonic = "sadness exhaust hat inform salon stairs point device choose ship camp throw";

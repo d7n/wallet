@@ -1,1 +1,1 @@
-var mnemonic = "physical ask problem evoke chief tilt debate summer citizen beef shop travel";
+var mnemonic = "tumble type arrow sunset puzzle vacant tired settle recipe mimic bronze dismiss";

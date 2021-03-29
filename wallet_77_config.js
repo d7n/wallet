@@ -1,1 +1,1 @@
-var mnemonic = "mistake cluster salt divert swift flame nothing kitten tilt index apple awkward";
+var mnemonic = "school hotel define ticket arena mother body festival umbrella stable drive zero";

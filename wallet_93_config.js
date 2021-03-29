@@ -1,1 +1,1 @@
-var mnemonic = "field satisfy shed live special equip hint initial tube matrix hair beef";
+var mnemonic = "often disagree van exist brush only limit coyote caught crime toe win";

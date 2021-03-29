@@ -1,1 +1,1 @@
-var mnemonic = "summer eagle lounge trick blur primary clutch drop umbrella spirit bridge cliff";
+var mnemonic = "ridge rate major adult laundry gentle travel endorse glue sausage wisdom science";

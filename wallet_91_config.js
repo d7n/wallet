@@ -1,1 +1,1 @@
-var mnemonic = "believe increase sure version fade maximum try label morning soon nut change";
+var mnemonic = "between collect timber circle police salon eager quiz stage almost dry beauty";

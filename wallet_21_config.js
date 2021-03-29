@@ -1,1 +1,1 @@
-var mnemonic = "network frog paper repair aim people theory brick sting pink wonder profit";
+var mnemonic = "ill measure income cable define hint addict rule open antique estate test";

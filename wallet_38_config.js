@@ -1,1 +1,1 @@
-var mnemonic = "direct sleep scatter struggle speak crucial seek peasant grunt fabric album rough";
+var mnemonic = "insect popular trick february fatal doll live final employ weapon another bleak";

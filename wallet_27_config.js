@@ -1,1 +1,1 @@
-var mnemonic = "neutral obey banana twelve void diamond avoid good decade trade only rifle";
+var mnemonic = "catch thank hover joke news thought flat neutral furnace model neck pigeon";

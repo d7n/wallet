@@ -1,1 +1,1 @@
-var mnemonic = "scale game aisle useful merit luggage crisp found grunt dirt nasty alpha";
+var mnemonic = "effort wrap century amused liberty fever silver arrive economy betray walk main";

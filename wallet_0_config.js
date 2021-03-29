@@ -1,1 +1,1 @@
-var mnemonic = "own mixture invest pepper rare south office bacon office series happy cash";
+var mnemonic = "people always minimum thrive seven whale dilemma gas imitate witness slight menu";

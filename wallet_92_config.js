@@ -1,1 +1,1 @@
-var mnemonic = "organ reflect father fan minute priority later praise symbol indicate lens peasant";
+var mnemonic = "quantum check column vintage warm ketchup add hub dinosaur kidney lava come";

@@ -1,1 +1,1 @@
-var mnemonic = "dust need physical size cancel repair album surge attend chat cream section";
+var mnemonic = "satisfy glory cheese fury donkey arrest choose denial tape owner game hunt";

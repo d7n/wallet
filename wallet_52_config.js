@@ -1,1 +1,1 @@
-var mnemonic = "lucky spread sheriff south unit census annual cloud horse teach setup tattoo";
+var mnemonic = "oblige script summer system tiny rookie arena actual offer know example captain";

@@ -1,1 +1,1 @@
-var mnemonic = "roof invest debate margin fold fantasy stage prepare neglect sadness cross bulk";
+var mnemonic = "convince chest impose comfort stairs legend food finger people strike tunnel faculty";

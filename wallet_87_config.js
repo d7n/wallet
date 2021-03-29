@@ -1,1 +1,1 @@
-var mnemonic = "document inquiry just vehicle entry mesh pave raise wide deputy unique blouse";
+var mnemonic = "head elite neck mask toilet cousin bless fringe place embark pottery trophy";

@@ -1,1 +1,1 @@
-var mnemonic = "wine inside item anger often second boil below fat edge illegal fancy";
+var mnemonic = "explain hard ethics damp detail safe caution mimic rapid staff vanish merry";

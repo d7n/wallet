@@ -1,1 +1,1 @@
-var mnemonic = "hello coast diagram avocado owner truth birth chief left elephant hazard fall";
+var mnemonic = "all banana inch credit trumpet aim salt truck engine accident era ramp";

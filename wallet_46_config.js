@@ -1,1 +1,1 @@
-var mnemonic = "negative ten clever beauty rice shift butter eye trip reason smile lesson";
+var mnemonic = "beef arctic damp cry spatial correct giggle day mistake twice pact lunar";

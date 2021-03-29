@@ -1,1 +1,1 @@
-var mnemonic = "attend attract scissors sort accuse talk innocent flash grab wide thrive board";
+var mnemonic = "fetch second brown else term start lyrics chicken flight measure audit museum";

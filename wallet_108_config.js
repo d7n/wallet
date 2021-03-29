@@ -1,1 +1,1 @@
-var mnemonic = "judge dress remove embark balcony shy have benefit resist clean blur twelve";
+var mnemonic = "spend swift until century eight team thank select shop display elegant sleep";

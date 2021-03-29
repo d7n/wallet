@@ -1,1 +1,1 @@
-var mnemonic = "then axis wrong piece video truth project curious clown engine effort lucky";
+var mnemonic = "leader nephew excite topic three solution tennis nose crisp soap mutual amateur";

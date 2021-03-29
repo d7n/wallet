@@ -1,1 +1,1 @@
-var mnemonic = "device wife pool uphold donate verb stove pill gospel cross virtual object";
+var mnemonic = "gap remove flock school dinosaur pair suit say unable hat approve vacuum";

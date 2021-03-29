@@ -1,1 +1,1 @@
-var mnemonic = "rural ride acid diamond era find harvest punch dust coach damage option";
+var mnemonic = "prosper waste raise exotic make escape open current kick produce foil appear";

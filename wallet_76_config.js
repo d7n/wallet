@@ -1,1 +1,1 @@
-var mnemonic = "ahead film dust original seed wrap lumber render casino scheme hidden reward";
+var mnemonic = "calm month minimum burger correct prefer truth pride comfort casual sight noodle";

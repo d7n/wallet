@@ -1,1 +1,1 @@
-var mnemonic = "energy level morning shop hazard trade oil balcony couple describe lab awake";
+var mnemonic = "survey brain admit unknown pole gain flock hurry lift joke devote tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "energy blouse grab kiss initial idea teach reflect under kiss goddess edit";
+var mnemonic = "forest myth glow never meadow tide fuel animal danger result used above";

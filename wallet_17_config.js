@@ -1,1 +1,1 @@
-var mnemonic = "coral fame release piece control input castle tank autumn tiny dune lizard";
+var mnemonic = "person scatter toward fresh vintage crystal eternal bulk language lyrics holiday begin";

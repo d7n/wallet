@@ -1,1 +1,1 @@
-var mnemonic = "spare maximum select gas brush roof add light will unusual pause title";
+var mnemonic = "grunt delay lens metal always section olive habit document endorse delay nuclear";

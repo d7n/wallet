@@ -1,1 +1,1 @@
-var mnemonic = "badge habit primary volume vessel burst pen unique bronze find inform mimic";
+var mnemonic = "deposit seven siege actor crew vanish taste major gossip they face shock";

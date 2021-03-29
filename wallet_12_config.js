@@ -1,1 +1,1 @@
-var mnemonic = "addict crucial there meadow skirt ghost boost metal fossil misery shed body";
+var mnemonic = "fit pattern dynamic tonight addict consider cat conduct capital infant woman scissors";

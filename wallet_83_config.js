@@ -1,1 +1,1 @@
-var mnemonic = "material awkward child half portion possible world luggage scale sorry person giggle";
+var mnemonic = "van catalog melody volcano sudden design shoe picture repair rack jealous boss";

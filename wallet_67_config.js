@@ -1,1 +1,1 @@
-var mnemonic = "sort electric tortoise range size engine few faculty toddler act jacket ensure";
+var mnemonic = "parent pet actor ladder duty input cross tool blossom lobster school canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar gospel sight frequent measure cannon sure ecology violin rocket boat north";
+var mnemonic = "shallow blood such bunker emotion brown magic enemy amused obey acid mammal";

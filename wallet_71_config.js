@@ -1,1 +1,1 @@
-var mnemonic = "phrase uncover stage deal collect ocean trim pony rifle ready stamp resemble";
+var mnemonic = "faint swear until jazz riot remind shadow absent task unlock ball shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "assault kingdom outer thumb talent pair hill speak add fox drastic bid";
+var mnemonic = "actual report clump scrub agree circle clown arrive what quality olympic what";

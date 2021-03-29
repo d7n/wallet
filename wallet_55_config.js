@@ -1,1 +1,1 @@
-var mnemonic = "vital never seat garment cereal clever under bulk oil very true gather";
+var mnemonic = "mind play kitchen lunch siege excess ball always demand spatial wreck screen";

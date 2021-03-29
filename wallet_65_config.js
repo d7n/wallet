@@ -1,1 +1,1 @@
-var mnemonic = "hover allow slide black cash culture sorry fantasy afford thing raven gossip";
+var mnemonic = "unknown area attend describe echo praise wheat answer devote symbol wire decide";

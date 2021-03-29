@@ -1,1 +1,1 @@
-var mnemonic = "lounge remain surge arena rent glass horror list december thought elite captain";
+var mnemonic = "hood cake twice fix spider kind lunar trade wheat disorder flash finger";

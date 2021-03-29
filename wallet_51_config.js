@@ -1,1 +1,1 @@
-var mnemonic = "boss ecology arrest chaos dad pet pattern early spare drill fresh camera";
+var mnemonic = "tackle hard decide betray subject cradle key reveal sight trouble spoon degree";

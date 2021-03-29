@@ -1,1 +1,1 @@
-var mnemonic = "split shed end cliff trim news detail purity jump mystery decade winter";
+var mnemonic = "piano cream hip idea surge dream spray expand word jelly return lawsuit";

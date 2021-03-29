@@ -1,1 +1,1 @@
-var mnemonic = "salute manual simple cable judge wood about broken night axis orient firm";
+var mnemonic = "keen trick globe obey diesel butter coach north vocal gas color first";

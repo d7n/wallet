@@ -1,1 +1,1 @@
-var mnemonic = "anger service man awful end will machine refuse bar novel lesson shy";
+var mnemonic = "blind stone dirt kidney educate wage fantasy clock east slim owner expire";

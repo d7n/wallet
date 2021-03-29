@@ -1,1 +1,1 @@
-var mnemonic = "camp limb wave swift dance term upon bulb melt wild conduct record";
+var mnemonic = "plastic improve truth daughter soup rate rural column sunset hungry orange jaguar";

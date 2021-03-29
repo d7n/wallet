@@ -1,1 +1,1 @@
-var mnemonic = "degree jazz medal slam maple engage peasant they whip crew aware tragic";
+var mnemonic = "suspect theory affair tail domain plastic object net actual movie thumb enjoy";

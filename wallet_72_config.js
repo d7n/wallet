@@ -1,1 +1,1 @@
-var mnemonic = "zoo hunt valid spatial bleak few seven surge twelve reopen steel tobacco";
+var mnemonic = "slot vendor fold trend once will clean ski fog load soft doll";

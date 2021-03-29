@@ -1,1 +1,1 @@
-var mnemonic = "pencil urban slush dignity heavy second hero lady sudden shoulder wedding kick";
+var mnemonic = "rose vivid vacuum bacon loud camera gain disease exact cute clown domain";

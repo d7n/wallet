@@ -1,1 +1,1 @@
-var mnemonic = "liquid century seminar forum symptom predict total hazard door okay card symbol";
+var mnemonic = "eight local stick cruel noise dust immune swamp best denial course fat";

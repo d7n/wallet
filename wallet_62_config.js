@@ -1,1 +1,1 @@
-var mnemonic = "elbow chat wide rib fiscal dolphin tuition actor local sorry borrow guard";
+var mnemonic = "junk cabin ship champion capital obtain similar move motor differ marble abuse";

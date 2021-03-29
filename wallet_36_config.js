@@ -1,1 +1,1 @@
-var mnemonic = "tooth little blush kingdom belt daring discover youth sell sample lumber steel";
+var mnemonic = "kick chief vague canyon crawl adapt vague alone fresh cheap error subway";

@@ -1,1 +1,1 @@
-var mnemonic = "brown carry climb write rocket salute deal ribbon story cigar door remember";
+var mnemonic = "wonder news record diagram beyond congress clay zebra pepper tomato affair issue";

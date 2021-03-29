@@ -1,1 +1,1 @@
-var mnemonic = "can situate blur finger mix accident dumb energy just key comfort reward";
+var mnemonic = "manage box genre allow fit town toss tone shift diary knee fury";

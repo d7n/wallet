@@ -1,1 +1,1 @@
-var mnemonic = "false focus suit train rail spatial super east jar choice major ensure";
+var mnemonic = "wine flight evidence car found move meat ensure label adjust minor elite";

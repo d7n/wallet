@@ -1,1 +1,1 @@
-var mnemonic = "project mimic disorder setup normal raise used rifle middle pool network hazard";
+var mnemonic = "swift hollow budget park debate else tongue suffer tilt swift local hotel";

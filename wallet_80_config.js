@@ -1,1 +1,1 @@
-var mnemonic = "main tool easily future matter consider panda super intact blade confirm account";
+var mnemonic = "suggest orchard wreck ginger valley volume spin need seven quote age wing";

@@ -1,1 +1,1 @@
-var mnemonic = "camp change become magic evoke win flat theme pattern false end actress";
+var mnemonic = "onion harvest salt timber wheat indicate decade alone curious era cloud warrior";

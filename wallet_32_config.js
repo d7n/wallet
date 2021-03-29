@@ -1,1 +1,1 @@
-var mnemonic = "dolphin increase enforce zebra crumble public cry cry helmet release silent coin";
+var mnemonic = "unable bronze try car misery festival dinosaur verb clown put march sister";

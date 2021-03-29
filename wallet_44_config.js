@@ -1,1 +1,1 @@
-var mnemonic = "caught stomach stable demand chimney mushroom funny comic nose burger crystal home";
+var mnemonic = "reason amount same sudden giggle crucial awful endorse buzz reason leopard symptom";

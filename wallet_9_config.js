@@ -1,1 +1,1 @@
-var mnemonic = "machine relief parent able climb usage reveal wait bike parent stove unfair";
+var mnemonic = "cat since feature media fantasy adult neutral gauge squeeze super awful display";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial cattle universe success alcohol case poet boost dune leisure circle unhappy";
+var mnemonic = "enlist general nominee hint minor drive photo prevent lonely crash urge gallery";

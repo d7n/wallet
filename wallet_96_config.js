@@ -1,1 +1,1 @@
-var mnemonic = "choose limb dentist worry square blood response town now help copper satisfy";
+var mnemonic = "lemon amateur expand note patrol broccoli banner such hazard blood cabin already";

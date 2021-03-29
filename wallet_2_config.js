@@ -1,1 +1,1 @@
-var mnemonic = "regret where transfer clever rescue because awesome mass job adapt abandon chuckle";
+var mnemonic = "phrase lunar neck junior high hair wave box team adult key rifle";

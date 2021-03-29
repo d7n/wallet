@@ -1,1 +1,1 @@
-var mnemonic = "trigger injury charge decorate surprise cheese yard grab wrist arch swim jealous";
+var mnemonic = "always keep quit marine true dentist tobacco come maximum census giggle kid";
