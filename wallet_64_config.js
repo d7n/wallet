@@ -1,1 +1,1 @@
-var mnemonic = "cable outdoor inner sail crime fever deny siren people little hurry captain";
+var mnemonic = "practice floor famous reform winner tilt dose melody fatal swap vault public";

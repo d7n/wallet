@@ -1,1 +1,1 @@
-var mnemonic = "eagle autumn hand good saddle scatter giant unique scheme dove rescue satisfy";
+var mnemonic = "destroy warm fatigue actual draft rocket vanish fire solution claim build gossip";

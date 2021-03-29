@@ -1,1 +1,1 @@
-var mnemonic = "lady shy panic offer biology tooth wrap timber silver rebuild metal benefit";
+var mnemonic = "walnut donate dose pass idle stem blind silver absent zoo trumpet before";

@@ -1,1 +1,1 @@
-var mnemonic = "note stereo panda frog sentence kick sad baby prevent father siren embody";
+var mnemonic = "alter silent throw only depend solid rice limit struggle foam wish cruel";

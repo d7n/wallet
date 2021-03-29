@@ -1,1 +1,1 @@
-var mnemonic = "alpha license arrow cry volume floor false destroy digital spike tennis fluid";
+var mnemonic = "venture achieve soda occur absorb cup pen cricket legal play rotate museum";

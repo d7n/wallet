@@ -1,1 +1,1 @@
-var mnemonic = "oxygen magic motor blame adapt flee venue core oil salmon stock diesel";
+var mnemonic = "erosion chief library car erode modify regret hamster catalog before bird squeeze";

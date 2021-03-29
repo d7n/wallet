@@ -1,1 +1,1 @@
-var mnemonic = "lend guitar tuition silent rich come slim crop room stock globe predict";
+var mnemonic = "inject rate horror jungle gold appear guide soccer soccer prepare humble coin";

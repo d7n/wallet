@@ -1,1 +1,1 @@
-var mnemonic = "nuclear among athlete oblige rose medal flavor tenant cup abuse sudden vibrant";
+var mnemonic = "day gas machine shy popular town turkey neither rural lyrics column entry";

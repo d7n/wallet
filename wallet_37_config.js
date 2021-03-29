@@ -1,1 +1,1 @@
-var mnemonic = "vibrant virus arena avocado custom image hospital differ between rally acoustic another";
+var mnemonic = "window horror typical dance ready urge frequent brother destroy decrease okay dash";

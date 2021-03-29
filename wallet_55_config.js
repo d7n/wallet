@@ -1,1 +1,1 @@
-var mnemonic = "slow blast local ski come conduct tenant arm curious beyond drama float";
+var mnemonic = "arrange matter math remove plate make step october devote scrub kiss peanut";

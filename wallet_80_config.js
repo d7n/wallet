@@ -1,1 +1,1 @@
-var mnemonic = "supply renew toward wide gate sudden hurry card quit actual open matter";
+var mnemonic = "path margin park monster mail orphan aspect surround someone quarter donor method";

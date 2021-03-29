@@ -1,1 +1,1 @@
-var mnemonic = "filter light winner lecture brand shield buzz shallow clock divorce carpet ready";
+var mnemonic = "sadness marine rural power expand end until remember scale scissors wealth mandate";

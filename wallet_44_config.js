@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin volume post measure faculty forget indicate ethics bubble sure season remove";
+var mnemonic = "mesh flush express ocean way approve pledge settle team impact cousin oxygen";

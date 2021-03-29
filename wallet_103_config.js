@@ -1,1 +1,1 @@
-var mnemonic = "oven garlic patient unfold cousin bird scrap recall jaguar weird brush dog";
+var mnemonic = "peanut cry blouse arctic note volcano lion fish endorse ready tissue collect";

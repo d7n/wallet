@@ -1,1 +1,1 @@
-var mnemonic = "response brown vicious subway salon report tumble logic auction story reward layer";
+var mnemonic = "lizard when awesome wall dragon unit pull cancel genuine include prosper rebuild";

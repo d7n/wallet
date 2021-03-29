@@ -1,1 +1,1 @@
-var mnemonic = "nose infant client diesel acid blanket hazard biology gather country similar bench";
+var mnemonic = "common close excite diary change garden lady kiss road body code palace";

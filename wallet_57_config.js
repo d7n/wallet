@@ -1,1 +1,1 @@
-var mnemonic = "depth trophy clip fox essay muscle copper eternal symbol civil logic throw";
+var mnemonic = "loop radar federal dance tragic sense bring palace accident odor galaxy cliff";

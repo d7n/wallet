@@ -1,1 +1,1 @@
-var mnemonic = "tennis spot aspect ridge unable birth settle kite width planet focus fatigue";
+var mnemonic = "cattle inject body message holiday next castle pave alter north before desk";

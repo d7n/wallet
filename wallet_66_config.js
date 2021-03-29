@@ -1,1 +1,1 @@
-var mnemonic = "front ribbon stuff alert position boss sight liar border modify beauty sight";
+var mnemonic = "vapor reflect cinnamon inquiry ceiling derive enhance canoe local favorite involve assault";

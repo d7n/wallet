@@ -1,1 +1,1 @@
-var mnemonic = "gas dinner mammal flee burger approve roast zero guide vacuum palm hen";
+var mnemonic = "again idea hungry pass sand render pioneer catch wild memory excess achieve";

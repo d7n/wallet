@@ -1,1 +1,1 @@
-var mnemonic = "drum pistol virtual pulp cream burger demand guide flush valve major fragile";
+var mnemonic = "winter glad fault crowd extend jewel outer drop yellow dentist spot cabbage";

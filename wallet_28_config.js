@@ -1,1 +1,1 @@
-var mnemonic = "first trouble stairs cycle fortune copper jazz medal exclude safe quiz dish";
+var mnemonic = "fury loan pink high best kit tourist chimney marriage razor actual where";

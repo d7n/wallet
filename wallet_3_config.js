@@ -1,1 +1,1 @@
-var mnemonic = "seed into scheme express bless apology custom help course record genre pink";
+var mnemonic = "decline choice march banner fitness scorpion addict tortoise endless nose pilot moon";

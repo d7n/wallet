@@ -1,1 +1,1 @@
-var mnemonic = "gate loop eagle earth multiply humble peasant broken depend please zebra there";
+var mnemonic = "quality spend happy clown legend doctor genuine midnight pencil exercise father income";

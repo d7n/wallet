@@ -1,1 +1,1 @@
-var mnemonic = "degree fetch grief afraid come human kangaroo winter equip defense outside adapt";
+var mnemonic = "execute panic cause impose camp gym carpet wife cabin walk coral river";

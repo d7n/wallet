@@ -1,1 +1,1 @@
-var mnemonic = "acoustic try earn length wrestle add used dust insect two despair spy";
+var mnemonic = "nerve because lend huge mule cause bomb edit peanut thrive ordinary east";

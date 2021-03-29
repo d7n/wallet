@@ -1,1 +1,1 @@
-var mnemonic = "front recycle curious sense pen lumber nuclear bracket round blanket consider rookie";
+var mnemonic = "oxygen child pet scale wear sting potato trophy guilt best belt company";

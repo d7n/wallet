@@ -1,1 +1,1 @@
-var mnemonic = "demise meadow badge elbow venture throw host young october quarter legend sure";
+var mnemonic = "sunny impulse priority shuffle bar little horn unknown book unveil local unusual";

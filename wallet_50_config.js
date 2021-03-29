@@ -1,1 +1,1 @@
-var mnemonic = "patient orbit general frown again fly weapon opinion aware kit planet trigger";
+var mnemonic = "invite top paddle hen suffer maid core come field concert tribe relax";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow diesel thumb venue auction common shop olive maple olympic mouse unique";
+var mnemonic = "upon blind fit organ cook field trouble question insane crunch network prepare";

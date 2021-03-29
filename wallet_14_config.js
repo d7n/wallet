@@ -1,1 +1,1 @@
-var mnemonic = "record elite ill critic below cram panda keep fragile pledge junk weasel";
+var mnemonic = "lava merge hedgehog noodle brand memory lift exist paper scrub believe camp";

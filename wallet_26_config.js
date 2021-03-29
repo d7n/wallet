@@ -1,1 +1,1 @@
-var mnemonic = "aim roast total island sport tank define suggest artist reduce crouch minimum";
+var mnemonic = "glimpse hold yard cinnamon decade gloom worry roast word document try pole";

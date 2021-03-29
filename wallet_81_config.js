@@ -1,1 +1,1 @@
-var mnemonic = "grit midnight travel install lift rally wisdom keen dinner phrase luxury rude";
+var mnemonic = "build dumb entire left upon divide cinnamon knife degree humble runway setup";

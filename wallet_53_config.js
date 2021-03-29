@@ -1,1 +1,1 @@
-var mnemonic = "alley soap clip rib elegant blur old brick latin effort gossip concert";
+var mnemonic = "together document safe right real discover ritual thumb midnight lobster butter square";

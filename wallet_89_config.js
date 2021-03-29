@@ -1,1 +1,1 @@
-var mnemonic = "behave smoke pony feed approve reject eternal online add journey major grant";
+var mnemonic = "outside bleak order tenant rookie repeat morning concert cause awake valley enjoy";

@@ -1,1 +1,1 @@
-var mnemonic = "write vibrant cluster carbon labor awkward cruel make dose region denial vivid";
+var mnemonic = "bread episode maid genuine drum sausage hammer minute pattern oblige genius junk";

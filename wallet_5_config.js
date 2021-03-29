@@ -1,1 +1,1 @@
-var mnemonic = "phone monitor basic mandate express minimum kid grant movie affair rubber random";
+var mnemonic = "deposit brief glad play regret furnace bridge lock van carpet type poem";

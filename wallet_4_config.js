@@ -1,1 +1,1 @@
-var mnemonic = "quarter stove marine danger top forget target glad intact brief wool ostrich";
+var mnemonic = "fox screen civil grid wild muscle garment injury sting vendor surround elder";

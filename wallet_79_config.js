@@ -1,1 +1,1 @@
-var mnemonic = "cave denial february rubber thunder inmate rare seed flag merge humor rather";
+var mnemonic = "globe utility culture post any lounge ridge grant daughter peanut sense inch";

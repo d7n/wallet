@@ -1,1 +1,1 @@
-var mnemonic = "author broken text people regret fat bitter army please give spirit lounge";
+var mnemonic = "genre episode width clump icon moral move pond resemble interest flavor tomorrow";

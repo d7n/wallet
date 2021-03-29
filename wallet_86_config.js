@@ -1,1 +1,1 @@
-var mnemonic = "region exist zebra giant cattle you hill unusual alone second educate kite";
+var mnemonic = "talk brief issue oyster antenna garden chalk detect ivory junk jelly morning";

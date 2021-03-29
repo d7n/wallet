@@ -1,1 +1,1 @@
-var mnemonic = "myself artist pattern twelve camera bench royal rail adjust energy verb turn";
+var mnemonic = "dish conduct tray ill behave unit swamp stairs cinnamon wood april mandate";

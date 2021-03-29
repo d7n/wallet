@@ -1,1 +1,1 @@
-var mnemonic = "once one pig minute route desert tennis oval pudding memory pony double";
+var mnemonic = "midnight above speed joke reduce behave clown steak kiss rude expect noise";

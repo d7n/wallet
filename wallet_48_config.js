@@ -1,1 +1,1 @@
-var mnemonic = "crouch describe bicycle faculty fun cement globe design cabin asthma eight submit";
+var mnemonic = "roast large design dice grunt tone capable grunt insect obvious regret model";

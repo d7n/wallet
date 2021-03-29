@@ -1,1 +1,1 @@
-var mnemonic = "truly gadget wing age debris favorite squirrel age narrow erupt turtle episode";
+var mnemonic = "mule pass suggest neutral february fabric sunset remind cheese smoke cycle extend";

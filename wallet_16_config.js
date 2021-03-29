@@ -1,1 +1,1 @@
-var mnemonic = "very invite update grant require biology omit nerve cherry illness scrub ankle";
+var mnemonic = "quiz evil artefact person cousin stay quiz luxury light dress onion provide";

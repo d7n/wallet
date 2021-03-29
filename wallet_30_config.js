@@ -1,1 +1,1 @@
-var mnemonic = "delay exile arch believe nephew volume dwarf rabbit cradle glare rigid iron";
+var mnemonic = "entry ring emotion armor misery used bounce educate cabin circle aware cricket";

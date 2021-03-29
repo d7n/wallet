@@ -1,1 +1,1 @@
-var mnemonic = "twin heavy lunar sort warfare antique garden mistake snake memory lazy spin";
+var mnemonic = "mosquito bar seat phone rifle dirt east dawn gesture squirrel program rebuild";

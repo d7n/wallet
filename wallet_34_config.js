@@ -1,1 +1,1 @@
-var mnemonic = "satoshi lawn excess jar submit ancient cereal cause essay stereo doctor wife";
+var mnemonic = "typical impact control true nerve meadow then distance host jump labor canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "layer speed rare thought embark oil juice fragile custom action bleak clutch";
+var mnemonic = "sadness public test runway toward license october wasp confirm define wall net";

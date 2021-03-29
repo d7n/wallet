@@ -1,1 +1,1 @@
-var mnemonic = "fabric female refuse obtain dolphin useful salad transfer program loan skirt sauce";
+var mnemonic = "dash shoe furnace health prepare balance curious excuse submit youth valve clinic";

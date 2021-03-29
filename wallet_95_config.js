@@ -1,1 +1,1 @@
-var mnemonic = "purity yard defy retire slim rain unhappy sense job goat decade dove";
+var mnemonic = "divide always hunt segment crucial drill genre gauge blossom car truck dice";

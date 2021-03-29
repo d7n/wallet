@@ -1,1 +1,1 @@
-var mnemonic = "bacon word cotton organ crane meat puzzle couple tomorrow usage blast figure";
+var mnemonic = "very together abuse balance cycle cricket humor alpha rare spirit burst armor";

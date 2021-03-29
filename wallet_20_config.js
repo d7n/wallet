@@ -1,1 +1,1 @@
-var mnemonic = "pilot cup excite divide equal vicious achieve clutch hurry flower thunder abandon";
+var mnemonic = "follow glare apology turn sight aim dilemma slush cement secret elegant area";

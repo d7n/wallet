@@ -1,1 +1,1 @@
-var mnemonic = "define age omit attend click avoid paddle dolphin enhance casual space idle";
+var mnemonic = "fetch try tongue recycle idle marble want alert caught smoke list problem";

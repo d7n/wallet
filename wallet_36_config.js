@@ -1,1 +1,1 @@
-var mnemonic = "dad soccer lake forget cupboard only order parade tiny swim result honey";
+var mnemonic = "sheriff raven under catalog ozone amount spy crash desk goose alter able";

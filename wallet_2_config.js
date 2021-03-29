@@ -1,1 +1,1 @@
-var mnemonic = "deer crazy cannon uncover owner recipe glow this capital silly city onion";
+var mnemonic = "impact raven moral company tool nothing buzz short chimney false dawn engine";

@@ -1,1 +1,1 @@
-var mnemonic = "feel patient spread punch visit skate first submit reform hurdle diet ramp";
+var mnemonic = "tilt danger crane soft armed embody stem pencil oval jewel assume resource";

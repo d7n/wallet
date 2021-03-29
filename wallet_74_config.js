@@ -1,1 +1,1 @@
-var mnemonic = "miracle cube eyebrow hurdle exhibit frog stage useful minute frequent pretty point";
+var mnemonic = "buffalo wall zoo era erase foot solid comic link song just design";

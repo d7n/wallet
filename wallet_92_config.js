@@ -1,1 +1,1 @@
-var mnemonic = "want bread parrot true person lemon warrior wasp bean laptop beach wreck";
+var mnemonic = "first pioneer differ fog invest sunny shift try denial false keen depth";

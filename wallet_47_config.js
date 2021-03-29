@@ -1,1 +1,1 @@
-var mnemonic = "reunion transfer hole rib decline tattoo soda valley eight crisp trade gloom";
+var mnemonic = "social high doctor bunker drip city emerge entry ability pluck ghost castle";

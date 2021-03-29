@@ -1,1 +1,1 @@
-var mnemonic = "else path mouse orange whip like voice wedding hand devote advice luxury";
+var mnemonic = "release category spell fan chair network run merit agree patrol topple tumble";

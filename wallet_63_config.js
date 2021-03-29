@@ -1,1 +1,1 @@
-var mnemonic = "receive ethics fatigue dice fault pelican exact inquiry donkey gift combine dinosaur";
+var mnemonic = "chapter mansion draw album garden twice drift unit input kidney horn trumpet";

@@ -1,1 +1,1 @@
-var mnemonic = "poet million scale parrot gravity genius abstract evil visual seek brush all";
+var mnemonic = "fiction bonus swear ankle lounge twin again either dumb put lens dawn";

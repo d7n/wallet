@@ -1,1 +1,1 @@
-var mnemonic = "undo junior door scissors poet question sing twist plunge tennis awful tumble";
+var mnemonic = "equal meadow detail detect zone strike drop stage wet undo dune shallow";

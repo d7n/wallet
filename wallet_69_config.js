@@ -1,1 +1,1 @@
-var mnemonic = "update hair fee aisle faith win arm fiction boat avocado pulp buddy";
+var mnemonic = "mushroom october forward weird adapt stage cousin idea sister toast void husband";

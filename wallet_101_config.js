@@ -1,1 +1,1 @@
-var mnemonic = "orange grief snow lounge over pilot miss banana finish current ordinary praise";
+var mnemonic = "pond fatal lava erode enable manage doll hair fluid result simple lawn";

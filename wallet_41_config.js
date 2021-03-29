@@ -1,1 +1,1 @@
-var mnemonic = "sheriff behave evidence bar rotate grape super gospel still flag earth fossil";
+var mnemonic = "same demise clean ancient bottom inherit emotion emotion regular make camp carry";

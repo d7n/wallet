@@ -1,1 +1,1 @@
-var mnemonic = "pool found twice census enlist culture innocent setup legend page depart submit";
+var mnemonic = "curious clutch midnight add slow glue miracle stereo anchor exchange visa outer";

@@ -1,1 +1,1 @@
-var mnemonic = "wage uphold sand congress young cost neutral squeeze trend radar nut woman";
+var mnemonic = "grocery farm fatigue auto sheriff original mandate robot rubber photo frequent pig";

@@ -1,1 +1,1 @@
-var mnemonic = "review oxygen goat shuffle pigeon weasel liberty brave jelly pledge film armed";
+var mnemonic = "awful claim doll push decorate pattern hip liar birth since craft kiwi";

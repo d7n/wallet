@@ -1,1 +1,1 @@
-var mnemonic = "million glove clarify exact raise guide peace gas empower weather case year";
+var mnemonic = "lemon bright upper that humble outside enough van twin blame type jaguar";

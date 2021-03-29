@@ -1,1 +1,1 @@
-var mnemonic = "sport grief organ inject critic shop love follow develop family rent warm";
+var mnemonic = "issue trophy wagon lion expand round bless oxygen bamboo found claw abstract";

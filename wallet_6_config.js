@@ -1,1 +1,1 @@
-var mnemonic = "copper sadness quick pretty board unfair luggage box address bridge boy torch";
+var mnemonic = "antique cat benefit viable erase ketchup envelope flower ozone essence cover stage";

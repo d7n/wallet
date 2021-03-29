@@ -1,1 +1,1 @@
-var mnemonic = "trophy brother okay result concert hybrid now kite educate peace ski cupboard";
+var mnemonic = "cliff plunge march measure goddess cradle math kind display ghost sea year";

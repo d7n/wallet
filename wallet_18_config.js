@@ -1,1 +1,1 @@
-var mnemonic = "deny balcony portion helmet arch ghost when main someone eternal fold tank";
+var mnemonic = "exhibit duck purchase stem process situate theme tree motion arm shield later";

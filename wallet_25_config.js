@@ -1,1 +1,1 @@
-var mnemonic = "vivid opinion corn cute axis public arrive ask smoke globe verb solution";
+var mnemonic = "book okay present square wire squeeze leopard december over write picture grass";

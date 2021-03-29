@@ -1,1 +1,1 @@
-var mnemonic = "control pill great bargain avoid injury found stand need umbrella grunt dune";
+var mnemonic = "float virtual series drift across absurd term ten flight rhythm bright erode";

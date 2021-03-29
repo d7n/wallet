@@ -1,1 +1,1 @@
-var mnemonic = "short culture trouble around march wink brass cram foam zero cluster name";
+var mnemonic = "feel feel average tennis ancient topic minor similar dinosaur inspire appear camp";

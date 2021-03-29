@@ -1,1 +1,1 @@
-var mnemonic = "father hamster supreme measure news leg supreme rapid winner light slot priority";
+var mnemonic = "shop fine network mention mimic net must artist mercy avocado empty beach";

@@ -1,1 +1,1 @@
-var mnemonic = "ritual man list fantasy cycle fiber huge card remember abstract bright obtain";
+var mnemonic = "pulse glue resemble antique oven slow ghost head scheme harbor joke eight";

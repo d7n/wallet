@@ -1,1 +1,1 @@
-var mnemonic = "pottery fame near ripple tag prize soul giraffe lady custom basket below";
+var mnemonic = "horror recycle rare believe enrich idea define engage shoe season vast disagree";

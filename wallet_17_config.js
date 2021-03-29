@@ -1,1 +1,1 @@
-var mnemonic = "lottery joy goat evil hurt winter chase fold rich member better primary";
+var mnemonic = "hand they apple fade connect imitate annual dove asthma material sock zoo";

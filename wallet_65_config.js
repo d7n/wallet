@@ -1,1 +1,1 @@
-var mnemonic = "salute slight story response amount lesson jacket flat body act cruel parrot";
+var mnemonic = "amateur across fury put idea argue giraffe harsh produce motion steel intact";

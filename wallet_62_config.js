@@ -1,1 +1,1 @@
-var mnemonic = "tribe icon anxiety burst will fiber help open trap evil spatial stool";
+var mnemonic = "woman giant unit merry fragile card olive mistake hope reveal act train";

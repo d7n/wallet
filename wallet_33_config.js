@@ -1,1 +1,1 @@
-var mnemonic = "craft beach reduce garment cross over soccer mail false under half wealth";
+var mnemonic = "season feed stand purpose orange artist toss gossip bracket delay hire miss";

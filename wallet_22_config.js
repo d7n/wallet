@@ -1,1 +1,1 @@
-var mnemonic = "law document viable embrace begin organ cupboard group cream brand gallery taxi";
+var mnemonic = "example capital abstract jazz mistake turn cinnamon nice chunk choose thing day";

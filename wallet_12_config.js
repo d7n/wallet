@@ -1,1 +1,1 @@
-var mnemonic = "negative divert during major anger loud voice cram client sadness cloud load";
+var mnemonic = "oil stamp like urge reward cliff camp project quality slab group notable";

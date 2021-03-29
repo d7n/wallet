@@ -1,1 +1,1 @@
-var mnemonic = "hero orbit butter view spell label choose erosion fitness oyster blanket outside";
+var mnemonic = "south bus huge silly sibling hold simple excess icon enlist reform crumble";

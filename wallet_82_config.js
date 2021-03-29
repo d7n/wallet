@@ -1,1 +1,1 @@
-var mnemonic = "measure pottery wet random upset bridge middle era cousin cross oppose blind";
+var mnemonic = "loan obey dog maple abuse raw guilt receive muffin enter capital cool";

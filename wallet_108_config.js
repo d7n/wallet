@@ -1,1 +1,1 @@
-var mnemonic = "scrub repeat steel derive cereal nature stone boat useless sibling fun install";
+var mnemonic = "bleak mansion clay tiny travel essence indicate dumb comic goose tired book";

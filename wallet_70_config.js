@@ -1,1 +1,1 @@
-var mnemonic = "document because practice any tenant team venture direct point judge attract hood";
+var mnemonic = "polar again blanket cruise business enter voyage shallow question kid wagon soup";
