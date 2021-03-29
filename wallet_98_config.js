@@ -1,1 +1,1 @@
-var mnemonic = "walnut entire marine salad noise doctor melody pelican gift sad bubble reduce";
+var mnemonic = "staff snap senior bronze receive pave oblige leaf wrestle actress crane palm";

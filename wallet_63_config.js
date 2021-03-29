@@ -1,1 +1,1 @@
-var mnemonic = "museum gentle swallow survey box puzzle purity loan when frequent tone vital";
+var mnemonic = "guard loop fresh hair friend uncover where spoon grant already charge city";

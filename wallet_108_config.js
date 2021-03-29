@@ -1,1 +1,1 @@
-var mnemonic = "cliff invite fan win wild scan dish chaos hat student check predict";
+var mnemonic = "trophy undo mind final wreck circle tennis mule retreat can illegal matter";

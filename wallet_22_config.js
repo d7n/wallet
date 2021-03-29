@@ -1,1 +1,1 @@
-var mnemonic = "mouse already daughter siren fiction lift evil embark minute sausage avoid volcano";
+var mnemonic = "together funny woman trophy object upgrade there choose next kite enhance fence";

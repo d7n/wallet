@@ -1,1 +1,1 @@
-var mnemonic = "erosion shrug purpose stem fix cannon frame obey cat stairs injury raccoon";
+var mnemonic = "toast switch museum clean blood yellow tomato load reopen rookie admit letter";

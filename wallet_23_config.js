@@ -1,1 +1,1 @@
-var mnemonic = "climb violin scan degree soldier sphere myself axis give cute river top";
+var mnemonic = "forward book grocery notice bargain step slot wrap deer wink whale purpose";

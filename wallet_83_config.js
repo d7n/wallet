@@ -1,1 +1,1 @@
-var mnemonic = "raven original fancy focus clinic reflect lend great delay celery tragic weekend";
+var mnemonic = "spare magnet ginger chimney nephew below slogan tongue chicken exhibit ozone diamond";

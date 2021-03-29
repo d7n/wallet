@@ -1,1 +1,1 @@
-var mnemonic = "naive drink soldier have negative abstract fox oven average forest romance holiday";
+var mnemonic = "believe palm spy bright december expire obey label demand retire brother hamster";

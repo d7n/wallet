@@ -1,1 +1,1 @@
-var mnemonic = "immense afford rigid neck quantum tank left message heart safe borrow discover";
+var mnemonic = "flash harvest sister hospital plunge hurdle menu promote arrive wonder gloom bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken resist cliff foam token jeans hockey mosquito recycle cube hand either";
+var mnemonic = "slide plunge hard result danger attack harbor cargo maze render project field";

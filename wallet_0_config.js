@@ -1,1 +1,1 @@
-var mnemonic = "canoe process image egg muscle escape drink someone album item fancy bacon";
+var mnemonic = "patch globe forward siege market own base observe memory glare tattoo infant";

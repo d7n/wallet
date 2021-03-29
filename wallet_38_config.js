@@ -1,1 +1,1 @@
-var mnemonic = "swear clean shrug key dove tribe memory need wait genuine limb trigger";
+var mnemonic = "steak equal exotic invest crisp agent soda advance trick again naive best";

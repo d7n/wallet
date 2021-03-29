@@ -1,1 +1,1 @@
-var mnemonic = "oblige border source scare inside noble slim barrel hotel romance diet eight";
+var mnemonic = "tired copper trash erupt glory damage degree sweet brass subject other network";

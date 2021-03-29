@@ -1,1 +1,1 @@
-var mnemonic = "destroy shine huge tool duty express stick divide much nuclear team capable";
+var mnemonic = "image between daring mass else sister matrix fiber frog hope ankle smile";

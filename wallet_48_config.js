@@ -1,1 +1,1 @@
-var mnemonic = "scrub wheat bird recall mimic skin maple index solid gift horror seminar";
+var mnemonic = "feature quality royal marine indicate fitness thing fiscal awake menu twice lawsuit";

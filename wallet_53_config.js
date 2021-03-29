@@ -1,1 +1,1 @@
-var mnemonic = "able image warm kitten broom old recall defy elephant faint evil lonely";
+var mnemonic = "play awkward invite wheel average family flock erosion quit marble prefer onion";

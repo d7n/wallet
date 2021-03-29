@@ -1,1 +1,1 @@
-var mnemonic = "find fashion chalk focus casino nature unveil actual sauce mango fiber athlete";
+var mnemonic = "flip love culture table rapid feed dizzy slot fury light body sniff";

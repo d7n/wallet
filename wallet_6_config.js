@@ -1,1 +1,1 @@
-var mnemonic = "deer trade motion fatigue cigar output type pumpkin estate powder govern wing";
+var mnemonic = "kitten process risk lottery cost furnace lava fall trigger diet rabbit caution";

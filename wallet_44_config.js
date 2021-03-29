@@ -1,1 +1,1 @@
-var mnemonic = "ignore fringe sauce gold dial blue riot ask slender speed powder toilet";
+var mnemonic = "maximum steak donate shock gaze give song own unfold hungry couple word";

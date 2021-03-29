@@ -1,1 +1,1 @@
-var mnemonic = "bicycle into fever tumble relax section chaos below grunt gorilla flat learn";
+var mnemonic = "issue protect frog question champion infant nature tomorrow phrase lift canoe wage";

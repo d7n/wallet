@@ -1,1 +1,1 @@
-var mnemonic = "soup vocal flee rescue wait crime torch holiday blanket spoon lemon final";
+var mnemonic = "shock topple minor exhaust senior tobacco increase trophy rifle vague dumb marine";

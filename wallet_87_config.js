@@ -1,1 +1,1 @@
-var mnemonic = "female spread unfair session seven echo payment mobile cat response trouble belt";
+var mnemonic = "ocean frame venue eager clay grocery fuel post deal turkey print crawl";

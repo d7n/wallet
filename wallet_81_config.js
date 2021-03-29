@@ -1,1 +1,1 @@
-var mnemonic = "tool void element any picnic enact tragic trap soft ski reveal music";
+var mnemonic = "avocado road devote praise toilet ecology duty sadness cherry round bridge denial";

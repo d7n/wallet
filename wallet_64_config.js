@@ -1,1 +1,1 @@
-var mnemonic = "pink better slice cover ketchup curtain course honey air sting repair pencil";
+var mnemonic = "blanket level fitness engage punch post dream love advice rough maximum order";

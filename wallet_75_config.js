@@ -1,1 +1,1 @@
-var mnemonic = "farm humble festival submit certain rocket myth cotton cross woman milk stem";
+var mnemonic = "creek era panther erupt regular enhance area buddy tag sun future option";

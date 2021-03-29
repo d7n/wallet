@@ -1,1 +1,1 @@
-var mnemonic = "vault gasp joke bargain moment basic dose fragile vague clap punch price";
+var mnemonic = "swear dawn rare shoe inch depth chaos term fuel crawl question scan";

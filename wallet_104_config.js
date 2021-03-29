@@ -1,1 +1,1 @@
-var mnemonic = "arena private please fiscal blush annual pluck adjust mixed survey pole palace";
+var mnemonic = "home ranch panel remind agent zebra ugly brand sport syrup fee hood";

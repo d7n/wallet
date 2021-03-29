@@ -1,1 +1,1 @@
-var mnemonic = "book panther abuse fever desert toast dial warm sick scrub chest miracle";
+var mnemonic = "parent until metal million olympic bleak unfold rigid stone actress thumb domain";

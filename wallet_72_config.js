@@ -1,1 +1,1 @@
-var mnemonic = "crack clip pistol stadium domain exclude angry act upper lift accuse spatial";
+var mnemonic = "ask club cube cactus scout wall maximum intact body sauce owner raven";

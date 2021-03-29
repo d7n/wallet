@@ -1,1 +1,1 @@
-var mnemonic = "tail wing plug jungle popular large upgrade gold safe skull slim language";
+var mnemonic = "lemon fatigue civil cute speak myself plate minute wall farm dial february";

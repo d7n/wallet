@@ -1,1 +1,1 @@
-var mnemonic = "tumble athlete pony surprise roast assume crane unit traffic damage convince hybrid";
+var mnemonic = "shoot olympic update tiny aisle visit color palace aspect fly remind fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup pipe maid predict fatigue odor whisper assume spy off clutch traffic";
+var mnemonic = "split few cool dirt galaxy afraid capital spring violin option multiply cost";

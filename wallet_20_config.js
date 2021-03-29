@@ -1,1 +1,1 @@
-var mnemonic = "patch town awful arch donor ring recipe volume expose reveal wine pizza";
+var mnemonic = "use estate pill expand little maid never enact spawn eye intact exist";

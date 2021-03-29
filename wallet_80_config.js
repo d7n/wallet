@@ -1,1 +1,1 @@
-var mnemonic = "marine exit found grape merge seven pause urban law negative fish talent";
+var mnemonic = "attract print illegal melody piece host goat season glue clutch art blossom";

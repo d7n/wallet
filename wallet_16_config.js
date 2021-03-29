@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow heavy shell network share equal farm deal pumpkin uncover observe guitar";
+var mnemonic = "fence talent menu process potato portion congress script begin decorate display estate";

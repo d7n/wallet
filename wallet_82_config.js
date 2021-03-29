@@ -1,1 +1,1 @@
-var mnemonic = "guitar install payment brand beauty adjust awesome wall install sense bottom solid";
+var mnemonic = "express isolate video nice medal news excite virus stuff leisure message quit";

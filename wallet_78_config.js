@@ -1,1 +1,1 @@
-var mnemonic = "barrel mother large pond level gospel educate neutral dose soul very able";
+var mnemonic = "home crunch million depend render label you armor picnic attend cousin park";

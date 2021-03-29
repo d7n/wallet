@@ -1,1 +1,1 @@
-var mnemonic = "output empower soccer common model favorite crisp glide puzzle claw beef raccoon";
+var mnemonic = "blue grunt bring choice possible pear envelope buffalo typical silly lottery ketchup";

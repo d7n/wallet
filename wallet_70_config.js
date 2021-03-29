@@ -1,1 +1,1 @@
-var mnemonic = "renew prize vocal essence fatigue sell riot twenty alcohol assume dolphin april";
+var mnemonic = "food mango novel moment evil raven cruel since damp people vacuum beef";

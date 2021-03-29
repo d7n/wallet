@@ -1,1 +1,1 @@
-var mnemonic = "limb buzz spice situate poem armed small dish civil scare assault sound";
+var mnemonic = "lonely rate fever tragic coral rare index stairs confirm issue scout neglect";

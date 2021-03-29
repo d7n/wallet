@@ -1,1 +1,1 @@
-var mnemonic = "illness orchard know nose report small tray jeans federal dose inmate review";
+var mnemonic = "spy forum hazard benefit strong accident actress rack spirit rabbit enrich like";

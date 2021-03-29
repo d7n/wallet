@@ -1,1 +1,1 @@
-var mnemonic = "erosion return floor current deposit cute expect candy tomorrow ball clean bind";
+var mnemonic = "tackle duty beef assume luggage blade story question giraffe choose bind theory";

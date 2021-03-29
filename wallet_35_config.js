@@ -1,1 +1,1 @@
-var mnemonic = "august weekend hybrid milk carpet glimpse brisk swap have sock crime grace";
+var mnemonic = "book bracket debris crucial assault burst rich topic business neglect enhance update";

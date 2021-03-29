@@ -1,1 +1,1 @@
-var mnemonic = "unveil ability exact either tribe over area feel letter sting blind castle";
+var mnemonic = "similar sheriff labor height sun address blade daring coach position taste slight";

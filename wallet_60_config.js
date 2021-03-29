@@ -1,1 +1,1 @@
-var mnemonic = "kid path soldier before inject grace idle kitchen lecture sketch wisdom dish";
+var mnemonic = "spread hazard smoke buyer roof attitude scene sword fabric stomach drive churn";

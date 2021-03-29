@@ -1,1 +1,1 @@
-var mnemonic = "drink soap invite bounce sad tennis say upon grunt check crisp tray";
+var mnemonic = "poverty enact sell laptop dilemma olympic income ticket cup three describe twice";

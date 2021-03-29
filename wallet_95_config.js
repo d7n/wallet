@@ -1,1 +1,1 @@
-var mnemonic = "sleep blast path clever humble normal frog inner waste draw gravity surface";
+var mnemonic = "chaos market invest stuff casino omit skin pony pepper social decline census";

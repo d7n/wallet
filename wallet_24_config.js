@@ -1,1 +1,1 @@
-var mnemonic = "argue ticket artwork unlock smooth tree zebra remain video swim point arm";
+var mnemonic = "vault concert spider follow solar write cliff chunk lizard huge soon situate";

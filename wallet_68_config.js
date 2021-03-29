@@ -1,1 +1,1 @@
-var mnemonic = "endorse vacant mail measure this gravity end sea satisfy only used all";
+var mnemonic = "fame glory include remind sphere cram interest kitchen brother fit can shadow";

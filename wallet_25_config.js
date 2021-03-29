@@ -1,1 +1,1 @@
-var mnemonic = "also palace moral detail maid true hint invite inner feature rapid extend";
+var mnemonic = "funny vehicle lift destroy grab evil apple table scene ticket jacket provide";

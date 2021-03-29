@@ -1,1 +1,1 @@
-var mnemonic = "amateur arch better art volume corn fat rice distance weekend ready window";
+var mnemonic = "horse amount twice glad winner walnut goat marriage brown cube little outdoor";

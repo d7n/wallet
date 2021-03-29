@@ -1,1 +1,1 @@
-var mnemonic = "bulb typical lumber invite coffee enrich bonus lawsuit life dynamic tired quote";
+var mnemonic = "whip cruise era salute depth cluster giraffe library blame lyrics chunk ketchup";

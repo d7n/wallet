@@ -1,1 +1,1 @@
-var mnemonic = "choose wet blast inspire limit alarm ankle quick surround element champion eye";
+var mnemonic = "entry amateur unique anger sun clerk bird velvet pioneer tissue near sample";

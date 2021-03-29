@@ -1,1 +1,1 @@
-var mnemonic = "right crash clap scatter solve feature road imitate hello window coyote put";
+var mnemonic = "speed space code often leopard better library rhythm rule until surprise ramp";

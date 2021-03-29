@@ -1,1 +1,1 @@
-var mnemonic = "hole shrug gym scissors month mercy edit nuclear elevator slot pizza local";
+var mnemonic = "dad dream timber shop conduct round where acid best surprise waste smoke";

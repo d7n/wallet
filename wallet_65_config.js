@@ -1,1 +1,1 @@
-var mnemonic = "hamster cycle allow merit brave health chuckle burst trick couch mouse private";
+var mnemonic = "negative list fabric link cargo source quantum exile casual enact column wood";

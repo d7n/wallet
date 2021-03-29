@@ -1,1 +1,1 @@
-var mnemonic = "elbow family punch identify fragile purpose fade august orange dial sleep arch";
+var mnemonic = "library shed monkey ensure expect host buyer total lobster history perfect under";

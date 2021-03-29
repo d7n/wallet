@@ -1,1 +1,1 @@
-var mnemonic = "entry symptom slender improve sure where club tackle easy nothing celery fix";
+var mnemonic = "utility trend action blouse happy romance sadness need bulk old acquire alter";

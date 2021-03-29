@@ -1,1 +1,1 @@
-var mnemonic = "sword famous twin project blade dad six solar side chapter vicious glance";
+var mnemonic = "bomb prison salt muscle clinic theme mass drift kick scan diary magnet";

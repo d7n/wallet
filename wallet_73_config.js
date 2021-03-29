@@ -1,1 +1,1 @@
-var mnemonic = "buzz divert cheese frame save dawn master say member puppy undo trade";
+var mnemonic = "current rifle orange caught between knock render depart draw dial afraid blind";

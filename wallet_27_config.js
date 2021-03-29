@@ -1,1 +1,1 @@
-var mnemonic = "bind skate session image extra vague dawn protect dignity flock search aim";
+var mnemonic = "tide blood permit say draft thunder setup grow clever two tank poverty";

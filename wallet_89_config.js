@@ -1,1 +1,1 @@
-var mnemonic = "food seminar enjoy glare noodle submit garment weird again morning injury help";
+var mnemonic = "crew bleak shock orbit claim social bright drink pink fashion brick repair";

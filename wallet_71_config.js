@@ -1,1 +1,1 @@
-var mnemonic = "vague harbor glory height repair paddle wink era lonely cliff song inspire";
+var mnemonic = "sister behind depart opinion clever prize tumble strike pill brief can ankle";

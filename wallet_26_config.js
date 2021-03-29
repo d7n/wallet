@@ -1,1 +1,1 @@
-var mnemonic = "film tired song devote away dolphin flame knife tackle hard dinosaur regret";
+var mnemonic = "bitter lava narrow boat comic soldier equip board elder normal marriage cage";

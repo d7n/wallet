@@ -1,1 +1,1 @@
-var mnemonic = "coast keep grunt icon indicate plastic hunt sign virus valley exact soap";
+var mnemonic = "else pioneer life imitate cash mass wolf cloud assault express three damage";

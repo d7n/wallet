@@ -1,1 +1,1 @@
-var mnemonic = "jaguar concert nominee kiwi push bird ignore year tape whip fatigue hurry";
+var mnemonic = "pave honey skin nature employ person reflect drip income clock husband toast";

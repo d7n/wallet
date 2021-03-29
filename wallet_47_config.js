@@ -1,1 +1,1 @@
-var mnemonic = "mercy more bean grocery ordinary damp pole gospel plunge ensure unfair crouch";
+var mnemonic = "wonder diagram present lady vicious theme sand attract mixed record mistake answer";

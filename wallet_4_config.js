@@ -1,1 +1,1 @@
-var mnemonic = "castle someone hundred ozone lazy indoor stage display warfare dad stool illness";
+var mnemonic = "error come subway olive imitate notice card protect borrow theory lucky sad";

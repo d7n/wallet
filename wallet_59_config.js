@@ -1,1 +1,1 @@
-var mnemonic = "disease survey oven decorate guitar gun wealth search guard april among harvest";
+var mnemonic = "slush auto gift decline because wheat august actress eyebrow ecology already brave";

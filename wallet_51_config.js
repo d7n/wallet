@@ -1,1 +1,1 @@
-var mnemonic = "elevator hotel step able inquiry angle acquire piano wisdom thought fly tribe";
+var mnemonic = "lake you emerge degree link addict empower green physical artefact saddle next";

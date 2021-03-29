@@ -1,1 +1,1 @@
-var mnemonic = "knee spy deputy item insect situate sense mixed feel evil opera pretty";
+var mnemonic = "leisure future guitar vague diesel olympic torch machine physical absurd clock burger";

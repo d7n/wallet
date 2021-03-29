@@ -1,1 +1,1 @@
-var mnemonic = "business cliff worry ribbon cloth photo flame ship maid forget cram load";
+var mnemonic = "accident remember pipe bag general glow nation unveil call kiwi until still";

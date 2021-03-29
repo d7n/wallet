@@ -1,1 +1,1 @@
-var mnemonic = "pitch bike vote fossil seminar service toilet vast impact animal oblige spread";
+var mnemonic = "hammer desert maze device siren tooth fiber repeat type call bike human";

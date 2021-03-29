@@ -1,1 +1,1 @@
-var mnemonic = "spoon soul spend page antenna memory clarify emerge spider anger pact swamp";
+var mnemonic = "ozone combine fluid valve bunker gun member boss eagle salmon deny coach";

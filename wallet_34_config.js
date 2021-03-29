@@ -1,1 +1,1 @@
-var mnemonic = "tilt useful adapt crew clinic weasel raven excess lake thunder wood cool";
+var mnemonic = "force danger auction animal kiss muffin hunt eager high depart swamp pass";

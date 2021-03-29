@@ -1,1 +1,1 @@
-var mnemonic = "glad best civil permit aunt adapt cradle defense that monitor prepare hole";
+var mnemonic = "between unlock priority have trap ring thought hedgehog bus remain deal panther";

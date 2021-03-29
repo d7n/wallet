@@ -1,1 +1,1 @@
-var mnemonic = "dilemma panda deer sausage great ride melt naive purity trumpet type donkey";
+var mnemonic = "weapon congress replace board tower asthma coconut february tattoo thank hover tomorrow";

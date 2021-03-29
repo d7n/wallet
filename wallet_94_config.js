@@ -1,1 +1,1 @@
-var mnemonic = "click grunt oven crash ride asset spice spread capital inner october empty";
+var mnemonic = "fetch gallery trust tragic ribbon merry unlock stairs below visa warm best";

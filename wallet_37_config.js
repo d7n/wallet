@@ -1,1 +1,1 @@
-var mnemonic = "ridge eager slow grape record hover ignore slab anchor toast salon lizard";
+var mnemonic = "you wrap tool buyer romance basket knife flight flag lunar canoe wolf";

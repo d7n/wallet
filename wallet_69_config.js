@@ -1,1 +1,1 @@
-var mnemonic = "bitter riot net pulse quote obvious fault expose panel yellow element mansion";
+var mnemonic = "speed jungle discover illegal noise suffer deny lobster when segment crowd concert";

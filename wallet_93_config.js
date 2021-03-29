@@ -1,1 +1,1 @@
-var mnemonic = "sing equal reduce grab flee section glue stem bird sorry woman nerve";
+var mnemonic = "grape exile fork capable wish steak page deny orange romance decade lady";

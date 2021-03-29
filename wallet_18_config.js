@@ -1,1 +1,1 @@
-var mnemonic = "cushion custom life entire check husband wonder upgrade bomb help achieve despair";
+var mnemonic = "fault problem senior ask year subject crew skill throw guess excess used";

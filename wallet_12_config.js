@@ -1,1 +1,1 @@
-var mnemonic = "impact lava head review frozen vacuum aware describe odor future patient fiber";
+var mnemonic = "dilemma system same arena settle fat universe mention human host stick fan";

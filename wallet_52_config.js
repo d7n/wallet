@@ -1,1 +1,1 @@
-var mnemonic = "panic cloud damage immune kite tennis anger segment glove rather debris vacuum";
+var mnemonic = "front tomorrow blossom scene defense soldier crystal please enough sad fancy clock";

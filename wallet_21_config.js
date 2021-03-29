@@ -1,1 +1,1 @@
-var mnemonic = "uphold easy brief brass wink dismiss left wonder save draw west dirt";
+var mnemonic = "neck response rate jacket cloth tape color pride dawn stereo sheriff dragon";

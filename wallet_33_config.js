@@ -1,1 +1,1 @@
-var mnemonic = "beef elite candy basic legal melt winner priority spider raccoon forest jar";
+var mnemonic = "bright fresh believe market sunny cage luggage renew because fault couch modify";

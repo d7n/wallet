@@ -1,1 +1,1 @@
-var mnemonic = "private mistake almost siren fire volcano melody release cinnamon know spare exchange";
+var mnemonic = "sister march stone monkey armed produce decade harbor category random ride unique";

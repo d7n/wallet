@@ -1,1 +1,1 @@
-var mnemonic = "rival provide mom cabbage double cruise shrimp risk guess hungry sphere tuition";
+var mnemonic = "entry math fiscal near list repeat neither insane scorpion bicycle broken mystery";
