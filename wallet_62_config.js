@@ -1,1 +1,1 @@
-var mnemonic = "ten reunion census hold baby leg rebuild spell bitter member solve prison";
+var mnemonic = "bamboo blame portion dove cabin rent inquiry garage salmon uniform zebra critic";

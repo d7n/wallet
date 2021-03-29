@@ -1,1 +1,1 @@
-var mnemonic = "erosion feel slow token shell just narrow leader story effort ring foster";
+var mnemonic = "exhaust path artist color kitten culture month rebuild shop goose angle raw";

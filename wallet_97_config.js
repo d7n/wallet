@@ -1,1 +1,1 @@
-var mnemonic = "hurry manual clarify salmon laundry mushroom bulk mammal despair girl panic escape";
+var mnemonic = "slam planet hour paper trophy art random cook loan buddy dice boost";

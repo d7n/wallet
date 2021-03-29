@@ -1,1 +1,1 @@
-var mnemonic = "valley boost transfer canoe organ vote random kangaroo current crime split enroll";
+var mnemonic = "crystal noise hat property action pave adapt cinnamon final riot index involve";

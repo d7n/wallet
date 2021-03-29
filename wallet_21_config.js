@@ -1,1 +1,1 @@
-var mnemonic = "ice cupboard genre throw before logic east submit trap axis apology secret";
+var mnemonic = "lift amount leaf width buyer pave isolate noble decline economy mimic now";

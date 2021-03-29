@@ -1,1 +1,1 @@
-var mnemonic = "thing settle shy soda grain cargo hero life invest foot arrange salmon";
+var mnemonic = "antique rigid happy exact trick indicate flip motion thought because capable crash";

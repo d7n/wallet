@@ -1,1 +1,1 @@
-var mnemonic = "dinner quit tail carpet upper satisfy enough release sell remember demand depend";
+var mnemonic = "bench differ whip salmon grid behind boring define skate ancient heavy tunnel";

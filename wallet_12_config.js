@@ -1,1 +1,1 @@
-var mnemonic = "hollow expand prefer finish involve sound edge yellow left kind crisp ticket";
+var mnemonic = "culture happy erupt series border game monster assist spray economy grocery subject";

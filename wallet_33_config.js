@@ -1,1 +1,1 @@
-var mnemonic = "announce oven song reject dolphin drift obtain search black electric amount dynamic";
+var mnemonic = "buyer sweet air reunion room hero glass symbol column shrug filter sniff";

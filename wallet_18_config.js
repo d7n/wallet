@@ -1,1 +1,1 @@
-var mnemonic = "clock foster bomb exit unveil visa smooth rebel fantasy pledge knee poet";
+var mnemonic = "mystery comic elegant method cook until sister shop sniff tide noodle online";

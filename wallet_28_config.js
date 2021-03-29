@@ -1,1 +1,1 @@
-var mnemonic = "just fly rural legend strong popular breeze result ill theory youth permit";
+var mnemonic = "major doll doctor wedding craft patient now claw base pottery follow total";

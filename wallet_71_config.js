@@ -1,1 +1,1 @@
-var mnemonic = "turtle inform nose exclude face rich anxiety shoot rescue web luxury refuse";
+var mnemonic = "pact install roast famous damage diesel feed joke width permit phone whale";

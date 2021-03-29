@@ -1,1 +1,1 @@
-var mnemonic = "south journey kick action trouble yard jar one arctic goat coyote rain";
+var mnemonic = "joke leopard pear melt strong alter spin know elegant sound head defense";

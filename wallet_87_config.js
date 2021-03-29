@@ -1,1 +1,1 @@
-var mnemonic = "quit prison spot rocket gym guard immune sister bullet proud pave shrimp";
+var mnemonic = "floor net moment globe entry protect timber evoke mosquito ramp coral friend";

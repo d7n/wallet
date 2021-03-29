@@ -1,1 +1,1 @@
-var mnemonic = "best city rate midnight harsh power hurdle post crime phone curve remember";
+var mnemonic = "sort sick welcome jealous renew know pair oyster holiday vintage rally bounce";

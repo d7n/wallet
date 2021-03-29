@@ -1,1 +1,1 @@
-var mnemonic = "weekend private hunt impulse sense genuine swear remain fitness dial turtle among";
+var mnemonic = "warm neutral omit sleep wisdom short travel either bounce order inflict ahead";

@@ -1,1 +1,1 @@
-var mnemonic = "topic cable picnic force blossom discover crumble slender midnight borrow actual bag";
+var mnemonic = "wrong end judge cotton depth pride expose resist local pact century party";

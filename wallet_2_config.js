@@ -1,1 +1,1 @@
-var mnemonic = "outdoor theory present food father proof scout slight puzzle wet barrel script";
+var mnemonic = "worth unlock elite alarm cigar aspect gown broom outer million loud doll";

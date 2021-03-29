@@ -1,1 +1,1 @@
-var mnemonic = "loop fish bright corn cube aerobic add supply burger certain pride input";
+var mnemonic = "double sudden zone retreat public idle news focus member cute puzzle wire";

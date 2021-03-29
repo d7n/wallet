@@ -1,1 +1,1 @@
-var mnemonic = "night rent fork disorder lawn island clarify flee connect olympic hole crime";
+var mnemonic = "donkey rebel this abandon talent shock vault fix stem small damp situate";

@@ -1,1 +1,1 @@
-var mnemonic = "client urban jelly erase magnet live build alone power salt select blue";
+var mnemonic = "echo unhappy begin unfair dumb hair analyst bar casino child shoot theme";

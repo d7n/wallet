@@ -1,1 +1,1 @@
-var mnemonic = "congress siege rural neither oxygen family become bike refuse subject rain hollow";
+var mnemonic = "blouse deer safe sight electric all click clean explain bike list transfer";

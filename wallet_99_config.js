@@ -1,1 +1,1 @@
-var mnemonic = "season cement elbow wood announce auto tag equal private under reflect mind";
+var mnemonic = "average swear direct initial forest spell join coffee price chuckle range kick";

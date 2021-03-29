@@ -1,1 +1,1 @@
-var mnemonic = "crane label cost find orange remember below kiss angry sheriff guitar master";
+var mnemonic = "fancy fiction raven host seek ride damp entry zone resource victory shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy midnight cereal scene will similar toast spatial grace grant sad craft";
+var mnemonic = "stomach category bridge plastic napkin warm midnight prosper honey draft belt rotate";

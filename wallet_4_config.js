@@ -1,1 +1,1 @@
-var mnemonic = "lend remember crop profit funny fun coffee busy gesture resemble noise riot";
+var mnemonic = "tool tilt desert bunker awake reopen cave shove shuffle oven impose river";

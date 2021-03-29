@@ -1,1 +1,1 @@
-var mnemonic = "solve pretty climb teach remove claw movie carpet describe blind furnace ignore";
+var mnemonic = "office dinner scrap tribe borrow pipe agent patch car arrange margin security";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt nuclear double write remind decide solar eight honey letter risk coral";
+var mnemonic = "sleep run sponsor treat pretty shock upper satisfy brain aspect earth novel";

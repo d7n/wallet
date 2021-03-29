@@ -1,1 +1,1 @@
-var mnemonic = "machine damp galaxy vapor imitate estate tail ice piece heavy cabbage slush";
+var mnemonic = "know dilemma collect picture meat wave twenty retreat spray brain lawsuit lion";

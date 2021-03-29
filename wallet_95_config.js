@@ -1,1 +1,1 @@
-var mnemonic = "method pumpkin unit humble all upgrade cricket display thank excess unlock state";
+var mnemonic = "ask pilot prefer carbon eye manual erode alarm sister desk blade jump";

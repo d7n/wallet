@@ -1,1 +1,1 @@
-var mnemonic = "update vacuum short black brave cactus novel neutral oyster depend news sell";
+var mnemonic = "giggle address mail adapt install verb venue column sorry blast just pyramid";

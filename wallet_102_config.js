@@ -1,1 +1,1 @@
-var mnemonic = "forget crack charge orbit sauce duck story home century you hip search";
+var mnemonic = "daughter glue lesson holiday unveil please rib direct abstract peanut foster acquire";

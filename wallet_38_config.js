@@ -1,1 +1,1 @@
-var mnemonic = "grape eye floor scan domain night badge midnight dress oppose cement ethics";
+var mnemonic = "illness eyebrow verb party legend tongue home panel prevent umbrella adapt elder";

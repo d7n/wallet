@@ -1,1 +1,1 @@
-var mnemonic = "glow autumn switch acoustic popular earn guide clarify tennis such winner amazing";
+var mnemonic = "sea action chair worry hard winner fork connect buzz peasant blade manage";

@@ -1,1 +1,1 @@
-var mnemonic = "captain gym diagram captain gospel ready wealth water fragile happy notice mountain";
+var mnemonic = "card dinner logic staff vendor enroll crack onion year name airport topple";

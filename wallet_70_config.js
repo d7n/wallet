@@ -1,1 +1,1 @@
-var mnemonic = "snake crystal age want theme acid hello spy leaf photo dish depend";
+var mnemonic = "add gather sauce buyer raise this long warfare myth display forum coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "climb long era sketch welcome punch pride exhaust exercise item useful used";
+var mnemonic = "race soap chalk inmate ensure business indicate range era journey mammal index";

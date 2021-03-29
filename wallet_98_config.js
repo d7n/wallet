@@ -1,1 +1,1 @@
-var mnemonic = "hip flower seminar season cup penalty velvet run kick inspire soldier alter";
+var mnemonic = "ability tissue rifle cabbage sun more decrease observe census chat chaos limb";

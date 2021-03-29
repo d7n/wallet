@@ -1,1 +1,1 @@
-var mnemonic = "layer much duck spin because game detail fence allow little pilot put";
+var mnemonic = "excite vapor mix shock unable surge indicate cupboard blur history dignity scheme";

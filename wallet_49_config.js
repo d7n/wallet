@@ -1,1 +1,1 @@
-var mnemonic = "sail shy shaft wave cycle romance caught link equip lion movie pipe";
+var mnemonic = "never resemble topic inner depend language uniform extra small shoe pair sausage";

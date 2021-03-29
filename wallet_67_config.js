@@ -1,1 +1,1 @@
-var mnemonic = "cram peace nose lawn blame march exist super evidence major liquid diet";
+var mnemonic = "nurse erode country drive quarter decorate fashion trade defense assault service word";

@@ -1,1 +1,1 @@
-var mnemonic = "gaze punch gym chronic rate fit try exercise marine library sport flight";
+var mnemonic = "slice stereo dash private abstract true pipe under denial because slight tennis";

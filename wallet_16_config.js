@@ -1,1 +1,1 @@
-var mnemonic = "swim primary gesture ramp purse slight floor feature attract supply ready reduce";
+var mnemonic = "young toy build fatigue unit level scout best price offer clown scorpion";

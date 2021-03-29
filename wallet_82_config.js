@@ -1,1 +1,1 @@
-var mnemonic = "profit aim jacket enroll clog habit merge where castle boost giant step";
+var mnemonic = "lamp brother certain together enrich buffalo shine speak invite seminar ensure observe";

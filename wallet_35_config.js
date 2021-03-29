@@ -1,1 +1,1 @@
-var mnemonic = "either category assume virtual scare east eternal sail earn gift gallery believe";
+var mnemonic = "keep desk vehicle control correct fault multiply seek figure turn few crumble";

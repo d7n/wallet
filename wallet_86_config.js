@@ -1,1 +1,1 @@
-var mnemonic = "ahead vendor enrich useless heart giraffe silk fiction move panther water zoo";
+var mnemonic = "local walnut rural man virtual rotate nut organ demise regular ice mechanic";

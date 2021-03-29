@@ -1,1 +1,1 @@
-var mnemonic = "enlist still blind beyond stand diamond protect else gadget snake wide fiction";
+var mnemonic = "enable absent woman sheriff want essence anchor hair city outside below urban";

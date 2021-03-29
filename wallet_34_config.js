@@ -1,1 +1,1 @@
-var mnemonic = "chief giggle enjoy gallery demise filter witness rotate cactus belt sell quote";
+var mnemonic = "nation head reason true atom flame noodle exist crawl write vibrant border";

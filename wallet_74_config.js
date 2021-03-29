@@ -1,1 +1,1 @@
-var mnemonic = "tent wait syrup detect viable usage fire leaf sense language panda captain";
+var mnemonic = "basket loud extra device peace frown harbor fatal opinion confirm fan pride";

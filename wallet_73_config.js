@@ -1,1 +1,1 @@
-var mnemonic = "hood price favorite derive amazing hill owner crowd wolf nerve shallow soda";
+var mnemonic = "also offer major script window rug decide proof bracket sketch hotel step";

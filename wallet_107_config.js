@@ -1,1 +1,1 @@
-var mnemonic = "figure insane wait trigger next sign brother excess chimney twin frown tomato";
+var mnemonic = "security pelican open apart expose barely express brass diagram clever fish hip";

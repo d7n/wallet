@@ -1,1 +1,1 @@
-var mnemonic = "club vault turtle million weekend wasp silly vital key obtain utility robust";
+var mnemonic = "stable gold tape travel patch siege lawsuit lion mass school cause farm";

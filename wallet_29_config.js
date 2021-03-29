@@ -1,1 +1,1 @@
-var mnemonic = "vacuum congress ribbon health owner topic mystery emerge grass penalty lunch rule";
+var mnemonic = "shallow leisure above vague young auto test puppy floor pencil future dumb";

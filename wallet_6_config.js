@@ -1,1 +1,1 @@
-var mnemonic = "swing pen wrap valley dial gesture antique spread water typical note fortune";
+var mnemonic = "pudding argue guess ozone rich fancy carry want leopard gun cash gap";

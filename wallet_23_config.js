@@ -1,1 +1,1 @@
-var mnemonic = "wish dynamic enable acid flee wealth excite satoshi change area echo fetch";
+var mnemonic = "dolphin hamster fox horse office soft toast lawn juice snack quote boat";

@@ -1,1 +1,1 @@
-var mnemonic = "repeat club weird dragon gadget episode praise digital maze screen vintage hurdle";
+var mnemonic = "wish giggle tuna future marine vacant dove uphold receive design fiber destroy";

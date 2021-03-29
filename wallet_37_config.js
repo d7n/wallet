@@ -1,1 +1,1 @@
-var mnemonic = "museum drum card ghost crop hill carbon science defy flag flag sentence";
+var mnemonic = "tiger law day olive scorpion innocent lens solid turn game family merry";

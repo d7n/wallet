@@ -1,1 +1,1 @@
-var mnemonic = "chair track weather eagle dice bike farm address forward orchard broom shadow";
+var mnemonic = "hero coffee route resist fringe dilemma word join gorilla crawl lottery cannon";

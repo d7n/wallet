@@ -1,1 +1,1 @@
-var mnemonic = "puppy trigger tornado roast mechanic garment rely trade remind clip fish ritual";
+var mnemonic = "thunder fault draft unfold thunder sugar goose custom always thought grunt rude";

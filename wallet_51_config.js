@@ -1,1 +1,1 @@
-var mnemonic = "saddle bike control recall planet loud sea erase lens flock top screen";
+var mnemonic = "decorate exact blame today interest tooth bachelor gasp cupboard donkey timber oil";

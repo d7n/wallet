@@ -1,1 +1,1 @@
-var mnemonic = "health innocent solid junk hub sketch crush gossip shiver obey property tag";
+var mnemonic = "stomach hamster joke mention waste milk february prosper protect recycle assist travel";

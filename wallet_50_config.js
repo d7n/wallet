@@ -1,1 +1,1 @@
-var mnemonic = "orphan equal evidence manual intact myself actual mushroom human cake travel kiwi";
+var mnemonic = "worth sphere endless local indicate cricket wheat spread rude symptom ahead amount";

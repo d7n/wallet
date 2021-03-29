@@ -1,1 +1,1 @@
-var mnemonic = "supply resemble lawn syrup surprise knee course rhythm girl harvest vital purse";
+var mnemonic = "human carry dynamic urge gather anger you choice ahead jelly sock tooth";

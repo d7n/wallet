@@ -1,1 +1,1 @@
-var mnemonic = "minute toss provide loud retire only require abuse nurse admit organ upper";
+var mnemonic = "slam cake forward base tomato olive alert bullet rug they gain marble";

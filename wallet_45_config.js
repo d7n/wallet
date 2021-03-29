@@ -1,1 +1,1 @@
-var mnemonic = "always venture fold bronze ladder column yellow inmate sight trick leaf armor";
+var mnemonic = "build derive fresh exact open submit defy raven castle silk ready rose";

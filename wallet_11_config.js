@@ -1,1 +1,1 @@
-var mnemonic = "muscle observe receive license almost equip capable slide wedding robust cave drive";
+var mnemonic = "certain clutch mix raccoon employ plastic pen alarm bread cushion sister fog";

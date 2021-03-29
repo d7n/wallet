@@ -1,1 +1,1 @@
-var mnemonic = "bullet soup dial bleak crop latin cinnamon pizza song level canoe lend";
+var mnemonic = "uphold latin discover child such door spring dwarf ceiling salute good custom";

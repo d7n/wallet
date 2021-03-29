@@ -1,1 +1,1 @@
-var mnemonic = "pupil broken dumb alarm injury lock magic ten grief enact enrich elevator";
+var mnemonic = "glass mass paper choose shoe art wheel unfold exchange pig unit minor";

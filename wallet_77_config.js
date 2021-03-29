@@ -1,1 +1,1 @@
-var mnemonic = "crawl cushion hungry nice blossom render wall rely photo equip that scorpion";
+var mnemonic = "corn labor sibling pact equal together play total deposit gossip wheat month";

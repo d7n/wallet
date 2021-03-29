@@ -1,1 +1,1 @@
-var mnemonic = "claw negative exile scare vital idea improve easy case whisper cream lens";
+var mnemonic = "buffalo adapt chase miracle wrestle escape eternal ancient lecture legend board thing";

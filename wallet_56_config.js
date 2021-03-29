@@ -1,1 +1,1 @@
-var mnemonic = "remind bench spoil wrong throw hold assist furnace series bonus engine pig";
+var mnemonic = "prize ritual blanket divert abstract drill require write usage curtain lyrics oven";

@@ -1,1 +1,1 @@
-var mnemonic = "left soda aware bacon kid pitch brass rookie rather wreck that ugly";
+var mnemonic = "exist admit door aim slam best seat relax lift river room census";

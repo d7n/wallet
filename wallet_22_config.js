@@ -1,1 +1,1 @@
-var mnemonic = "local return flavor curve convince someone vital salt wire during glue valley";
+var mnemonic = "dignity pig exit camp consider plastic short sorry coyote squirrel mean buzz";

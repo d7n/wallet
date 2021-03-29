@@ -1,1 +1,1 @@
-var mnemonic = "always dad plunge board few crowd powder obvious rhythm have blur pink";
+var mnemonic = "alpha rate garlic upon lonely exotic mass nominee west system casual initial";

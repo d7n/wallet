@@ -1,1 +1,1 @@
-var mnemonic = "exotic warfare tattoo butter calm elevator bullet pond length ability proud when";
+var mnemonic = "spring swap fine hotel tower bean laundry dash ice jacket bundle robot";

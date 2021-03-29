@@ -1,1 +1,1 @@
-var mnemonic = "moment camera math right scare poverty turkey rescue proof science liquid onion";
+var mnemonic = "visa leopard popular leg govern shed sell ride brass edge eye explain";

@@ -1,1 +1,1 @@
-var mnemonic = "practice maximum client caution cousin coconut dawn vendor number lava bless dilemma";
+var mnemonic = "media plate camp dutch kit scout salon atom lesson report peasant once";

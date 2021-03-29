@@ -1,1 +1,1 @@
-var mnemonic = "winter repair wise repair reject knife machine suspect neck age panel pottery";
+var mnemonic = "depend dizzy search coast post amateur hurt vibrant snake crush cash tomato";

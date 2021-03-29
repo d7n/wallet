@@ -1,1 +1,1 @@
-var mnemonic = "issue piece vague sing voice cereal three light receive pill trigger mountain";
+var mnemonic = "cinnamon shadow champion wonder flat hello seed uniform twice eternal pink cabbage";

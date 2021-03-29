@@ -1,1 +1,1 @@
-var mnemonic = "ski original print timber apart mutual sphere congress traffic basket merit million";
+var mnemonic = "barrel water muffin know shove trust myth waste dinner ball neck save";

@@ -1,1 +1,1 @@
-var mnemonic = "story fit argue light rabbit curious color habit cool amount peanut medal";
+var mnemonic = "cost west crazy style rib decline pig hammer rookie pipe connect tilt";

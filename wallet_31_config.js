@@ -1,1 +1,1 @@
-var mnemonic = "mad blood beef kid peasant ozone naive bomb balance swear weird popular";
+var mnemonic = "spring crane reason review recipe clip phrase convince wasp street copper wage";

@@ -1,1 +1,1 @@
-var mnemonic = "soccer dish sheriff edge jar common mixture violin quality total firm oblige";
+var mnemonic = "praise candy fruit buddy subway betray lyrics sea various axis habit myth";

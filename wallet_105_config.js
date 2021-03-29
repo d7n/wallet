@@ -1,1 +1,1 @@
-var mnemonic = "inner brave sick fortune price below upgrade damage maximum world twice owner";
+var mnemonic = "control kit useful usage conduct wonder enroll area tiger ignore math chunk";

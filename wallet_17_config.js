@@ -1,1 +1,1 @@
-var mnemonic = "gorilla skate detail umbrella brush escape about frame host chef minute credit";
+var mnemonic = "problem current ostrich super spike gun blouse chat because rabbit modify unlock";

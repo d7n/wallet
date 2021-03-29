@@ -1,1 +1,1 @@
-var mnemonic = "survey blush power rubber that hobby expect peace melt segment skull ocean";
+var mnemonic = "sniff one devote require make hospital finish arrow escape resemble resist dentist";

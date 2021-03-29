@@ -1,1 +1,1 @@
-var mnemonic = "pony market hat walnut agree real genuine chair hurdle jacket enroll hobby";
+var mnemonic = "jewel boost crisp exhibit reopen intact sleep palace practice artefact else rack";

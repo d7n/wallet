@@ -1,1 +1,1 @@
-var mnemonic = "dial manual arrest novel fringe opera matrix dish burger broom depart discover";
+var mnemonic = "drink myth meat ability aim regret gasp current adult myself dynamic course";

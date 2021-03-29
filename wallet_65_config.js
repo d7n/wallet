@@ -1,1 +1,1 @@
-var mnemonic = "bomb filter squirrel buzz broccoli program hollow shine right alter include volcano";
+var mnemonic = "virtual elite dream myself outer object can embark good push swift portion";

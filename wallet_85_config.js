@@ -1,1 +1,1 @@
-var mnemonic = "child deer dwarf final bean virtual indicate must kangaroo antique horn crunch";
+var mnemonic = "lounge reform bulk zone muscle repair fold outside cousin style fashion exotic";

@@ -1,1 +1,1 @@
-var mnemonic = "wonder same ignore soul pitch weekend nurse south damage aerobic deal dry";
+var mnemonic = "penalty victory dress side repeat whale tide garlic protect just tornado slim";

@@ -1,1 +1,1 @@
-var mnemonic = "half club else face oxygen will hawk play drum cable little okay";
+var mnemonic = "author trash lamp body vicious join hub air evil laptop chest gym";
