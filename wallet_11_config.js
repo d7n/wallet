@@ -1,1 +1,1 @@
-var mnemonic = "predict length solution clarify echo release sugar drastic horror ivory play help";
+var mnemonic = "argue merry better weather behind honey base profit dove vital curtain lottery";

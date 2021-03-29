@@ -1,1 +1,1 @@
-var mnemonic = "lottery like marine wolf pumpkin vital ticket ecology into pink sure adjust";
+var mnemonic = "ordinary physical ski few dress robot easy hood peanut liquid maze hair";

@@ -1,1 +1,1 @@
-var mnemonic = "someone shiver scrap hen budget document mirror addict talk time evil recall";
+var mnemonic = "luggage unfold elevator amount spider voyage property camera police dish tired wall";

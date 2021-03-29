@@ -1,1 +1,1 @@
-var mnemonic = "feel deputy alter easily actor update bar hunt moon alcohol remind sure";
+var mnemonic = "scrap sense quit cool chunk hole embark remove report sausage vocal crack";

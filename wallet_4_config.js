@@ -1,1 +1,1 @@
-var mnemonic = "certain reduce leg summer drift require jewel only ignore gesture casual unknown";
+var mnemonic = "blast frost umbrella moment tail ecology hello kidney session ice term ecology";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan confirm dignity vessel cube stove usage desert fringe this supply season";
+var mnemonic = "multiply leaf surround fantasy hedgehog chair outer mix certain autumn setup bone";

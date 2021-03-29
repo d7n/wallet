@@ -1,1 +1,1 @@
-var mnemonic = "hazard indoor asset seek trial combine sample eagle include embark chronic film";
+var mnemonic = "promote multiply venue myself under once hood warfare waste produce lyrics desk";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh crystal affair suspect feed hole truly wrist upper mosquito annual school";
+var mnemonic = "dash fringe blossom drama inject hammer host deny inject bronze priority trip";

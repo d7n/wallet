@@ -1,1 +1,1 @@
-var mnemonic = "faith cable tattoo waste speed coral theme dwarf grow this journey sport";
+var mnemonic = "great fossil noble script note armor smooth sand ski please dignity ignore";

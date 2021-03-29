@@ -1,1 +1,1 @@
-var mnemonic = "income boss two helmet case wrap pioneer cool spare dust power strong";
+var mnemonic = "ivory awake defy news sense capital stove habit recipe sustain foam absorb";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect iron music honey awkward balcony misery category lounge tourist casino gravity";
+var mnemonic = "finger remember venture trigger thought oak negative finger web horse pride coconut";

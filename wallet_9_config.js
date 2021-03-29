@@ -1,1 +1,1 @@
-var mnemonic = "always audit hat speed glass code grid later aim melody cram clay";
+var mnemonic = "permit occur dutch senior clay same fork airport stick success loop seek";

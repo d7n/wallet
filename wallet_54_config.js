@@ -1,1 +1,1 @@
-var mnemonic = "habit trumpet panther erase ignore same expose space winter parent joy metal";
+var mnemonic = "gallery barrel winner group gauge faint boy idle zone vendor silver waste";

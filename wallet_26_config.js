@@ -1,1 +1,1 @@
-var mnemonic = "panda vast elbow subject cube cake file journey vault antenna dutch space";
+var mnemonic = "evoke chalk coral destroy glow globe topple they truck resemble girl path";

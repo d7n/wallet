@@ -1,1 +1,1 @@
-var mnemonic = "milk blind sun adapt birth field north say virtual much damage frozen";
+var mnemonic = "there guilt good fee model wrestle mystery sauce artefact again swim narrow";

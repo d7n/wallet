@@ -1,1 +1,1 @@
-var mnemonic = "hair involve pony enlist crane alarm canvas dinosaur myth turkey brother foil";
+var mnemonic = "habit track baby mirror icon debris rib local picture detect monitor slice";

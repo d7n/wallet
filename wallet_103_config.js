@@ -1,1 +1,1 @@
-var mnemonic = "cliff craft basket tube junk memory derive popular pluck glass tuition usual";
+var mnemonic = "practice worry edit bamboo top crane panic used bonus boat sick trumpet";

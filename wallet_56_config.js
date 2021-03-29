@@ -1,1 +1,1 @@
-var mnemonic = "smooth maximum length column push spell sight frequent asthma sign secret velvet";
+var mnemonic = "peanut gossip hotel witness female talent fix nice reduce truly jaguar mix";

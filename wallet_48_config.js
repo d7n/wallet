@@ -1,1 +1,1 @@
-var mnemonic = "erase congress belt feature teach blue resource pilot senior gap topic exist";
+var mnemonic = "divorce board good eagle call mammal during sting solar shy session palace";

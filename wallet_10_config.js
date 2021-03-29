@@ -1,1 +1,1 @@
-var mnemonic = "loud useless adult bounce found reveal chuckle brown topic couple come maple";
+var mnemonic = "mail pudding matter copper ramp ring main carbon praise settle small soul";

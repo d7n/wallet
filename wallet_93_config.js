@@ -1,1 +1,1 @@
-var mnemonic = "mandate satisfy abandon horror predict school oblige blade food solar despair oblige";
+var mnemonic = "fork van alert exist obvious loud prize cattle know music finish hunt";

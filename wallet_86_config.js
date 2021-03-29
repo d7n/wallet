@@ -1,1 +1,1 @@
-var mnemonic = "cement ozone version poet cute empower buyer zoo legend amount list adult";
+var mnemonic = "behind swarm hundred pole skate exhibit monitor crucial must ozone warfare orient";

@@ -1,1 +1,1 @@
-var mnemonic = "pilot city ensure pattern exile split wide shaft velvet orange sock noise";
+var mnemonic = "vapor imitate brush shuffle size smooth olympic position depart romance upset process";

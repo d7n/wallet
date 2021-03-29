@@ -1,1 +1,1 @@
-var mnemonic = "dawn demand fine planet imitate lawsuit pottery excuse display siege cross sugar";
+var mnemonic = "biology response weird dilemma famous quick edge romance coin cabbage dose initial";

@@ -1,1 +1,1 @@
-var mnemonic = "onion unique wet right share upper neutral thought allow used bomb critic";
+var mnemonic = "idea enemy soft abstract sweet car claim broken tissue visa shove huge";

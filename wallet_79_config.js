@@ -1,1 +1,1 @@
-var mnemonic = "mesh tissue sleep arena cotton celery merge ancient equal kind what broccoli";
+var mnemonic = "shoe balcony limb eyebrow announce tide pluck evoke drip cake tackle column";

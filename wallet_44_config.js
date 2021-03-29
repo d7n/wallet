@@ -1,1 +1,1 @@
-var mnemonic = "core noble pitch diamond range small embody alert pig speed cream demand";
+var mnemonic = "join clarify vintage parade engine coyote differ wink render weekend perfect pretty";

@@ -1,1 +1,1 @@
-var mnemonic = "boss silly hedgehog smile brisk educate hint devote people argue dynamic game";
+var mnemonic = "ocean catch blanket walnut uncle habit kiwi door obtain cause alcohol velvet";

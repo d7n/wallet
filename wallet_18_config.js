@@ -1,1 +1,1 @@
-var mnemonic = "few stereo correct oval clip motor combine lazy apart clerk add disagree";
+var mnemonic = "aspect junk other music erase goose you zone egg festival prison joy";

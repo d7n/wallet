@@ -1,1 +1,1 @@
-var mnemonic = "hill crater wrong return wall eye excess vehicle black behave daughter wage";
+var mnemonic = "wrap stem lunar glide wish race time uphold derive knife cloud injury";

@@ -1,1 +1,1 @@
-var mnemonic = "slot laundry call universe question force athlete spray eight license muffin shiver";
+var mnemonic = "gauge skill issue water spatial please share army frown fire cup eight";

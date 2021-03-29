@@ -1,1 +1,1 @@
-var mnemonic = "peasant eager student figure heavy neck change stable swap scrub coffee member";
+var mnemonic = "solid claw purchase verb turn corn apology pet client unusual novel simple";

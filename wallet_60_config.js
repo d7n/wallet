@@ -1,1 +1,1 @@
-var mnemonic = "friend cube roof bronze obvious obey globe lucky promote slight rookie sudden";
+var mnemonic = "height gasp elephant chat sponsor source before olive cruel banner suspect mutual";

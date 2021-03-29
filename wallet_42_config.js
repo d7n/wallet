@@ -1,1 +1,1 @@
-var mnemonic = "domain where father fitness shock remove discover often pact health into expose";
+var mnemonic = "address session tomorrow museum tilt tribe cry advice laugh hover palace radio";

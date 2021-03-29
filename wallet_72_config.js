@@ -1,1 +1,1 @@
-var mnemonic = "damage engine artist matter effort frequent swallow spy vintage similar joke cram";
+var mnemonic = "only slow hunt blood broccoli exercise moral floor lab long web gain";

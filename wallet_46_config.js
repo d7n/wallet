@@ -1,1 +1,1 @@
-var mnemonic = "tissue else morning path buddy salt embody tomorrow hand client more essay";
+var mnemonic = "dish forum brick oxygen capable mixed tissue pole exist giraffe kingdom robust";

@@ -1,1 +1,1 @@
-var mnemonic = "olive stereo own love pioneer traffic fiber wasp soda forum orchard hurdle";
+var mnemonic = "fancy syrup else final clean price hurry industry march coconut glimpse crouch";

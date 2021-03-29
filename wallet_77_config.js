@@ -1,1 +1,1 @@
-var mnemonic = "uncover entire need resist clutch meadow salute claim add midnight endorse trend";
+var mnemonic = "abstract anchor blind impulse actor frequent space sunset lyrics burst february girl";

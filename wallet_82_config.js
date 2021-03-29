@@ -1,1 +1,1 @@
-var mnemonic = "burden cart slender together clutch reopen sound raw artwork document square cost";
+var mnemonic = "cannon false private pass group shrimp opinion symptom brush shine arena around";

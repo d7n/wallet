@@ -1,1 +1,1 @@
-var mnemonic = "shell rabbit arctic wheat arrange fade reunion piano twelve parent empty hockey";
+var mnemonic = "where wolf weird parrot palace lonely lab hint quality now click apart";

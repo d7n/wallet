@@ -1,1 +1,1 @@
-var mnemonic = "organ check crunch tunnel bread seminar drum express holiday kite call problem";
+var mnemonic = "setup learn wheat rival alley shallow able chase junior nation another poem";

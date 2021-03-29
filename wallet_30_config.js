@@ -1,1 +1,1 @@
-var mnemonic = "grunt engine peasant banana soup nice best bottom twelve elephant strong cattle";
+var mnemonic = "toilet brass police puzzle race man shine filter skill slush lonely service";

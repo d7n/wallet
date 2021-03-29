@@ -1,1 +1,1 @@
-var mnemonic = "marble omit moral mail worry brush peace abstract candy become horn jealous";
+var mnemonic = "mean fresh conduct clutch mail copy attract dizzy job alert daring dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "clump review siren chest priority carry prefer nest fine pet thumb mail";
+var mnemonic = "always panic mix ugly spare breeze public junk collect shell that daring";

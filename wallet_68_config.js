@@ -1,1 +1,1 @@
-var mnemonic = "echo asthma clump table blast worth spread remind picnic nothing sport shadow";
+var mnemonic = "submit jeans palace novel typical flag weather broken chest hospital rice dawn";

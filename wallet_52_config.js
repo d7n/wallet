@@ -1,1 +1,1 @@
-var mnemonic = "situate cupboard solar youth camera hamster group wide earn market antique water";
+var mnemonic = "impose vocal unveil fluid helmet inquiry mistake solution fee cook hawk shadow";

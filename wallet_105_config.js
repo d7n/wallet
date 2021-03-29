@@ -1,1 +1,1 @@
-var mnemonic = "all else field direct penalty spoil all siege deliver twelve act grit";
+var mnemonic = "join spice three tuition rural measure replace fantasy coconut cram elbow improve";

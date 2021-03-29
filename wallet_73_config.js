@@ -1,1 +1,1 @@
-var mnemonic = "fresh differ print elite enable absurd unhappy angry worry exchange area clump";
+var mnemonic = "globe lucky clip split horse series other keep bacon deer tenant disease";

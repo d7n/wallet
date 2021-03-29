@@ -1,1 +1,1 @@
-var mnemonic = "engine spell better twist museum riot sight arctic trend paper bulk wire";
+var mnemonic = "tissue venture pattern curtain noise fury clog update bundle globe discover oyster";

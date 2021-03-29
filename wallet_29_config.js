@@ -1,1 +1,1 @@
-var mnemonic = "tag keep truck bench start dolphin law swap prison know turkey bridge";
+var mnemonic = "sauce steak bomb camp panel various lobster mass legal uniform device ripple";

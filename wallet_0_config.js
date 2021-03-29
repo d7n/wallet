@@ -1,1 +1,1 @@
-var mnemonic = "odor glow eternal tackle excite loyal shadow ladder people earth kiss cinnamon";
+var mnemonic = "essay slogan viable view wall pink crazy brush unable thought swing tag";

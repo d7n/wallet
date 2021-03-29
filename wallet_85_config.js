@@ -1,1 +1,1 @@
-var mnemonic = "reopen toast rubber buffalo screen clean timber practice second merit federal aim";
+var mnemonic = "flash various wire diesel announce gun have wonder access upper rigid trial";

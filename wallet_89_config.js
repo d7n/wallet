@@ -1,1 +1,1 @@
-var mnemonic = "caution multiply sister remember slice popular swarm inspire possible shove pelican confirm";
+var mnemonic = "gossip wait dentist oblige shock common quantum laptop adapt bird pattern scare";

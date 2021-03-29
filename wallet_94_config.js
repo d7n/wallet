@@ -1,1 +1,1 @@
-var mnemonic = "glimpse below any tank bubble clock off floor float pledge flag pave";
+var mnemonic = "ramp sad noise abuse play arrange bargain harbor chase emotion excess erase";

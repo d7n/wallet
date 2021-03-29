@@ -1,1 +1,1 @@
-var mnemonic = "ill inch sponsor cruel hello strategy below cram purpose logic camp neck";
+var mnemonic = "dice fitness token first give can record venture stool arctic brick bring";

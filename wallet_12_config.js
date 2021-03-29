@@ -1,1 +1,1 @@
-var mnemonic = "lizard pink turtle raccoon mask rapid job photo need fringe also junk";
+var mnemonic = "suspect segment doctor romance autumn blade mushroom height blast cave outdoor liberty";

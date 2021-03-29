@@ -1,1 +1,1 @@
-var mnemonic = "lamp tower heavy shrimp protect dish wealth champion nasty odor grid tape";
+var mnemonic = "crop fancy math isolate report best amateur budget another install onion magic";

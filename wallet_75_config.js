@@ -1,1 +1,1 @@
-var mnemonic = "luggage forget wonder demand drip drink dry visa debate vast fog prosper";
+var mnemonic = "draft pear garment raw mesh rate hover clip concert faith umbrella swallow";

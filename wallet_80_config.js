@@ -1,1 +1,1 @@
-var mnemonic = "despair common trip prize venue alien obvious fade pave tag private atom";
+var mnemonic = "bean slogan adapt inside margin light thing fine inflict finger metal vessel";

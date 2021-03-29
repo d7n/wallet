@@ -1,1 +1,1 @@
-var mnemonic = "grace lion betray tackle air weasel fix decide acquire daring better blanket";
+var mnemonic = "blossom news fit try aisle buyer limb solution grief sock tonight vault";

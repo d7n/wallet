@@ -1,1 +1,1 @@
-var mnemonic = "army opera guard cube crucial own clever thrive trust practice worry rival";
+var mnemonic = "nothing book crowd wage time such tumble actor infant end disagree tongue";

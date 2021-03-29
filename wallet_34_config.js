@@ -1,1 +1,1 @@
-var mnemonic = "strike shy thing uncover chicken measure inspire fan fan famous jeans wash";
+var mnemonic = "unknown myself garden name tip sea super example claim excite attract upon";

@@ -1,1 +1,1 @@
-var mnemonic = "apology session destroy social hole alter year replace shell balcony rally enroll";
+var mnemonic = "must foster uniform arm exact slim prevent member add mom salt correct";

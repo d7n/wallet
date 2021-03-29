@@ -1,1 +1,1 @@
-var mnemonic = "item joy develop antique force disagree erode corn over leave pause envelope";
+var mnemonic = "mosquito enroll elephant suffer expose aunt depend vicious stove body junior fiber";

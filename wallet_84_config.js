@@ -1,1 +1,1 @@
-var mnemonic = "trigger midnight spike ethics protect record drop pave myth install dinosaur donate";
+var mnemonic = "kite immune salute mountain shop frown system surround image secret split citizen";

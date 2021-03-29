@@ -1,1 +1,1 @@
-var mnemonic = "attitude endorse symptom secret essay saddle echo young sheriff judge angle click";
+var mnemonic = "thank palace denial slam solid reward nerve pilot disagree junior civil wish";

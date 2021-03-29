@@ -1,1 +1,1 @@
-var mnemonic = "gasp grace pool badge empower service sponsor scene series produce festival detect";
+var mnemonic = "lunar permit now couple keep media scan corn reduce allow various lounge";

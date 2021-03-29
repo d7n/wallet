@@ -1,1 +1,1 @@
-var mnemonic = "token language chuckle cradle problem spike copy surface pitch unable syrup vital";
+var mnemonic = "wife tonight lion shy observe zoo select satoshi hidden jaguar capable twist";

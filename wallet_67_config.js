@@ -1,1 +1,1 @@
-var mnemonic = "survey then gloom envelope shrimp brain daughter oak soup ancient caution fat";
+var mnemonic = "melody clump artist above soldier dignity soda tuna toy odor virtual inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "rib fantasy double trust floor shop fringe payment business fee put prize";
+var mnemonic = "record dismiss farm example food inquiry neither tree exclude net auto neutral";

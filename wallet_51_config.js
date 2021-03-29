@@ -1,1 +1,1 @@
-var mnemonic = "area forum happy shed author parade note around build field blue youth";
+var mnemonic = "fire brother welcome knock book dose modify blood drift ivory throw sugar";

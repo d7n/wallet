@@ -1,1 +1,1 @@
-var mnemonic = "engage unique ripple cluster tuna beef tilt add void tank play bridge";
+var mnemonic = "salmon say spice law distance repeat total tenant idle hard pattern amount";

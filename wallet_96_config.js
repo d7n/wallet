@@ -1,1 +1,1 @@
-var mnemonic = "search will lazy item tornado claim weasel napkin gentle owner wood feed";
+var mnemonic = "couple horror metal bracket consider announce erupt cricket hurt involve slight system";

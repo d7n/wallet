@@ -1,1 +1,1 @@
-var mnemonic = "artefact farm dignity proof impulse mesh shift miracle panther faith miracle drink";
+var mnemonic = "blame keen special city sword train stomach arm during slide tiger nothing";

@@ -1,1 +1,1 @@
-var mnemonic = "rule thank trap process misery quarter cream nasty message apple trumpet dutch";
+var mnemonic = "disagree smart asthma popular between hurdle surface similar shed margin write oval";

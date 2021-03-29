@@ -1,1 +1,1 @@
-var mnemonic = "heart liquid area damp learn absent extend lemon humor coral spread chat";
+var mnemonic = "already dignity depend case mobile emerge cabin model little shoot waste rapid";

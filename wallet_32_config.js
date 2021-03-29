@@ -1,1 +1,1 @@
-var mnemonic = "coyote border world horn orchard canoe live dice cliff term angle cluster";
+var mnemonic = "donor soul tunnel hollow pull wise common mango fix ankle rug glove";

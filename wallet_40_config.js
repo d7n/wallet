@@ -1,1 +1,1 @@
-var mnemonic = "bike fold warrior gaze acid provide pave shift illness proud broom annual";
+var mnemonic = "produce skin tool champion sort script salmon undo sudden major breeze join";

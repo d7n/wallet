@@ -1,1 +1,1 @@
-var mnemonic = "car accuse wonder foam strike stadium supply salmon trust join strike camera";
+var mnemonic = "mouse raw cloth vocal stone lab caught please exist year feature library";

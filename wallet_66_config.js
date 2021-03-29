@@ -1,1 +1,1 @@
-var mnemonic = "wink merit rare silent mixture hub rib aim antenna inner august range";
+var mnemonic = "female find magic impulse verify square early april live sister palace deliver";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver lesson solar jelly enroll east duck morning soccer cover sense slice";
+var mnemonic = "innocent job pony tobacco area annual refuse stay fix ritual race deer";

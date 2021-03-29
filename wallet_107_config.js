@@ -1,1 +1,1 @@
-var mnemonic = "retire author evoke wool vessel clay resource stick play until trial race";
+var mnemonic = "evolve fine beauty month card rain meadow turkey share repeat link vast";

@@ -1,1 +1,1 @@
-var mnemonic = "open lobster essence column kitten boy blood engine area shield print mansion";
+var mnemonic = "else bus case dash predict source giggle seminar usage dial version fantasy";

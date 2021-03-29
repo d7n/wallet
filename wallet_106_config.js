@@ -1,1 +1,1 @@
-var mnemonic = "dust glow bind scene debris winter fame hover basket salmon flee celery";
+var mnemonic = "ritual kidney concert end dynamic ready measure baby hamster soft shaft immune";

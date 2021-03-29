@@ -1,1 +1,1 @@
-var mnemonic = "wheel flower master door census pact push fog artwork barely desk head";
+var mnemonic = "refuse admit arrive wine pet monster resist private sound ugly else arena";

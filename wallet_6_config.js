@@ -1,1 +1,1 @@
-var mnemonic = "device area attitude foot ring then turn fox scorpion gossip oxygen palace";
+var mnemonic = "solid grocery fat need half slot ordinary donkey oyster stay between improve";

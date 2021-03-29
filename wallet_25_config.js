@@ -1,1 +1,1 @@
-var mnemonic = "business bless practice empty pattern apple crazy vibrant drill hurdle harbor expose";
+var mnemonic = "ring apology elbow siren flee feed pact suggest welcome excess impose engine";

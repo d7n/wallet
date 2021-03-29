@@ -1,1 +1,1 @@
-var mnemonic = "loyal sea wire critic fan eternal habit select fog okay horse horse";
+var mnemonic = "essence glimpse minor skull right glow measure song chronic student list arrange";

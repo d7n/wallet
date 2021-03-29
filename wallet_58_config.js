@@ -1,1 +1,1 @@
-var mnemonic = "car talent fun toilet tuna spread public town cup jeans twin reject";
+var mnemonic = "aim peace answer result oil easy uncover roast turtle maze depth sort";

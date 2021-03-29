@@ -1,1 +1,1 @@
-var mnemonic = "donor card step scorpion snap hurt business abuse strong artist blame fun";
+var mnemonic = "december height planet child eager globe spider assault garbage census long deliver";

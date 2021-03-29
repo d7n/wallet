@@ -1,1 +1,1 @@
-var mnemonic = "hamster axis special agree eyebrow average imitate camp honey car color wonder";
+var mnemonic = "reduce dust panda donor avocado forest delay taste walnut anxiety supreme exchange";

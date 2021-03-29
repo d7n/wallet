@@ -1,1 +1,1 @@
-var mnemonic = "inner tissue ladder bubble thrive trumpet rude idle sister surface will bird";
+var mnemonic = "mixed hidden option squeeze butter apart measure mouse swim injury cat flush";
