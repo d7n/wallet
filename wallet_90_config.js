@@ -1,1 +1,1 @@
-var mnemonic = "electric narrow gain umbrella normal tuition run share eternal frequent patient anger";
+var mnemonic = "jaguar concert nominee kiwi push bird ignore year tape whip fatigue hurry";

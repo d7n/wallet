@@ -1,1 +1,1 @@
-var mnemonic = "deer foot salon rare screen raven isolate alcohol fiction frequent much gentle";
+var mnemonic = "endorse vacant mail measure this gravity end sea satisfy only used all";

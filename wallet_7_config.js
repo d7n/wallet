@@ -1,1 +1,1 @@
-var mnemonic = "pole town suspect edge turtle crucial echo valve tennis slim grocery better";
+var mnemonic = "amateur arch better art volume corn fat rice distance weekend ready window";

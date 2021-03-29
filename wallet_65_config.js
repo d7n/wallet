@@ -1,1 +1,1 @@
-var mnemonic = "cheese unfair reduce cabin soup dawn grocery material trap timber race wall";
+var mnemonic = "hamster cycle allow merit brave health chuckle burst trick couch mouse private";

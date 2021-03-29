@@ -1,1 +1,1 @@
-var mnemonic = "double gun torch member secret risk fix crater identify dove tribe mad";
+var mnemonic = "elbow family punch identify fragile purpose fade august orange dial sleep arch";

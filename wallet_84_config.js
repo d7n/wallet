@@ -1,1 +1,1 @@
-var mnemonic = "slim shift unknown rifle human immune balance scare season foster scrap rapid";
+var mnemonic = "book panther abuse fever desert toast dial warm sick scrub chest miracle";

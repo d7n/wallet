@@ -1,1 +1,1 @@
-var mnemonic = "much treat surge fiber social luggage morning limit story blade limb people";
+var mnemonic = "find fashion chalk focus casino nature unveil actual sauce mango fiber athlete";

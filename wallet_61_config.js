@@ -1,1 +1,1 @@
-var mnemonic = "mom delay execute flip supply wrestle power coach patient now erupt joke";
+var mnemonic = "spoon soul spend page antenna memory clarify emerge spider anger pact swamp";

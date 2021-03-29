@@ -1,1 +1,1 @@
-var mnemonic = "balcony oxygen undo parrot name pause spawn curve movie brain climb kangaroo";
+var mnemonic = "imitate boost true coach air sand door dress weapon until napkin arm";

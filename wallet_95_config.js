@@ -1,1 +1,1 @@
-var mnemonic = "weather vicious body pledge horror excuse night chuckle quarter above okay spike";
+var mnemonic = "sleep blast path clever humble normal frog inner waste draw gravity surface";

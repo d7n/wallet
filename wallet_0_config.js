@@ -1,1 +1,1 @@
-var mnemonic = "ghost depth because dish clutch frown volcano gap actual mixture bracket room";
+var mnemonic = "canoe process image egg muscle escape drink someone album item fancy bacon";

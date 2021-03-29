@@ -1,1 +1,1 @@
-var mnemonic = "hawk nut analyst giant shadow can wrong portion foster lobster general all";
+var mnemonic = "pitch bike vote fossil seminar service toilet vast impact animal oblige spread";

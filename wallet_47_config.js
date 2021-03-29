@@ -1,1 +1,1 @@
-var mnemonic = "bean clean priority copy miss crush august cliff crouch alone fancy purpose";
+var mnemonic = "mercy more bean grocery ordinary damp pole gospel plunge ensure unfair crouch";

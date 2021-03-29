@@ -1,1 +1,1 @@
-var mnemonic = "ride pond else problem order turn black endless gather mind diet call";
+var mnemonic = "immense afford rigid neck quantum tank left message heart safe borrow discover";

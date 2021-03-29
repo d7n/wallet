@@ -1,1 +1,1 @@
-var mnemonic = "online page since drop happy claw flat weapon join blanket curious fold";
+var mnemonic = "walnut entire marine salad noise doctor melody pelican gift sad bubble reduce";

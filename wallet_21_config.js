@@ -1,1 +1,1 @@
-var mnemonic = "anxiety quote farm crowd airport estate satisfy inner best hurdle vicious town";
+var mnemonic = "uphold easy brief brass wink dismiss left wonder save draw west dirt";

@@ -1,1 +1,1 @@
-var mnemonic = "nothing sort often history absorb gentle burden jazz quarter burst evolve soap";
+var mnemonic = "farm humble festival submit certain rocket myth cotton cross woman milk stem";

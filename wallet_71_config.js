@@ -1,1 +1,1 @@
-var mnemonic = "bamboo primary lion rhythm gospel claim armor drama just trial predict silent";
+var mnemonic = "vague harbor glory height repair paddle wink era lonely cliff song inspire";

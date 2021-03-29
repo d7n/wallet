@@ -1,1 +1,1 @@
-var mnemonic = "scissors runway lady salad eternal daughter seat siege stock blame matter legal";
+var mnemonic = "tilt useful adapt crew clinic weasel raven excess lake thunder wood cool";

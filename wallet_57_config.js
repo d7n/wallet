@@ -1,1 +1,1 @@
-var mnemonic = "purchase make word monkey caution stick minor pepper appear tag license sustain";
+var mnemonic = "knee spy deputy item insect situate sense mixed feel evil opera pretty";

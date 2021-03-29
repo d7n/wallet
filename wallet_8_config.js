@@ -1,1 +1,1 @@
-var mnemonic = "knife document harsh weekend desk member lava sorry cable alpha fun alarm";
+var mnemonic = "broom transfer law pool primary young mother gravity unfair live panda useless";

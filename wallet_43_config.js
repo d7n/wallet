@@ -1,1 +1,1 @@
-var mnemonic = "anchor mosquito soldier blouse month rare fat reduce ramp episode witness sunset";
+var mnemonic = "glad best civil permit aunt adapt cradle defense that monitor prepare hole";

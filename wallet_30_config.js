@@ -1,1 +1,1 @@
-var mnemonic = "violin hub clap liquid remove garden end say silly keep document crop";
+var mnemonic = "view person lake nominee cake gaze project bargain season exact dirt property";

@@ -1,1 +1,1 @@
-var mnemonic = "silver fire soap grace output castle throw gesture bless result ask enough";
+var mnemonic = "marine exit found grape merge seven pause urban law negative fish talent";

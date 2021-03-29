@@ -1,1 +1,1 @@
-var mnemonic = "nose below marriage around photo unveil mandate abandon pluck place hold risk";
+var mnemonic = "ridge eager slow grape record hover ignore slab anchor toast salon lizard";

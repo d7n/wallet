@@ -1,1 +1,1 @@
-var mnemonic = "attract amused system prison dinner outer shaft achieve stairs lunar excuse rack";
+var mnemonic = "achieve rack system aunt canyon convince target burden reason cinnamon amazing cake";

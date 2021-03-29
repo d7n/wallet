@@ -1,1 +1,1 @@
-var mnemonic = "wink click seek gesture steak swarm brief wolf bamboo exercise sing match";
+var mnemonic = "chicken resist cliff foam token jeans hockey mosquito recycle cube hand either";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage another rhythm stove sight tumble liquid green hour shadow vacuum cabbage";
+var mnemonic = "glimpse friend green initial adapt quantum stadium accuse whip bracket tuition rifle";

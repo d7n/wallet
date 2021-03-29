@@ -1,1 +1,1 @@
-var mnemonic = "trumpet dice glimpse proof belt valley such cattle you urge fee atom";
+var mnemonic = "panic cloud damage immune kite tennis anger segment glove rather debris vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "industry giraffe remember upset satisfy shop figure impulse payment cup blur clock";
+var mnemonic = "syrup pipe maid predict fatigue odor whisper assume spy off clutch traffic";

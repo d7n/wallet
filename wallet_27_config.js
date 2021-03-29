@@ -1,1 +1,1 @@
-var mnemonic = "tobacco artwork denial turkey gown train mule blame glory badge gospel stick";
+var mnemonic = "bind skate session image extra vague dawn protect dignity flock search aim";

@@ -1,1 +1,1 @@
-var mnemonic = "crane love winter diesel drastic monkey crush fury slender debate that muffin";
+var mnemonic = "naive drink soldier have negative abstract fox oven average forest romance holiday";

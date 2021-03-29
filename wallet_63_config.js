@@ -1,1 +1,1 @@
-var mnemonic = "message monkey wrestle assault domain wasp divorce wide celery cabbage duty unlock";
+var mnemonic = "museum gentle swallow survey box puzzle purity loan when frequent tone vital";

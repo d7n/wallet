@@ -1,1 +1,1 @@
-var mnemonic = "galaxy lottery fossil nominee champion panda ring mechanic grunt napkin civil joke";
+var mnemonic = "barrel mother large pond level gospel educate neutral dose soul very able";

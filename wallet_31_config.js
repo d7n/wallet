@@ -1,1 +1,1 @@
-var mnemonic = "metal napkin green cotton token alert you baby stable harvest sentence swing";
+var mnemonic = "couple regular more phone expect spice canal arrow before arch kangaroo secret";

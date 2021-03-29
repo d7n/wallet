@@ -1,1 +1,1 @@
-var mnemonic = "inform luggage lemon arch aisle motor feed inject spike poem tail defense";
+var mnemonic = "output empower soccer common model favorite crisp glide puzzle claw beef raccoon";

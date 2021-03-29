@@ -1,1 +1,1 @@
-var mnemonic = "city process desert country amazing rude impact steak decorate gauge remove spice";
+var mnemonic = "patch town awful arch donor ring recipe volume expose reveal wine pizza";

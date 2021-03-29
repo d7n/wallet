@@ -1,1 +1,1 @@
-var mnemonic = "real knee blast wish begin modify choice goose topic noodle sponsor group";
+var mnemonic = "olive error horse magic chef actual undo sock fly wheel magic guess";

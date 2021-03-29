@@ -1,1 +1,1 @@
-var mnemonic = "vote leg custom inherit rent tackle steel congress mixed call unable concert";
+var mnemonic = "inform cigar whip elevator stumble behind negative rude purity trash hotel maid";

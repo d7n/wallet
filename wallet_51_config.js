@@ -1,1 +1,1 @@
-var mnemonic = "fine tank wheel jaguar surface depart dinner supreme chase flavor already thrive";
+var mnemonic = "elevator hotel step able inquiry angle acquire piano wisdom thought fly tribe";

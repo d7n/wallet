@@ -1,1 +1,1 @@
-var mnemonic = "across coil repeat grid sock true emerge chuckle element blast need avocado";
+var mnemonic = "hole shrug gym scissors month mercy edit nuclear elevator slot pizza local";

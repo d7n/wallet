@@ -1,1 +1,1 @@
-var mnemonic = "dwarf filter escape such axis ship rival flame prison various ten anxiety";
+var mnemonic = "kid path soldier before inject grace idle kitchen lecture sketch wisdom dish";

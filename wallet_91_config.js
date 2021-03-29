@@ -1,1 +1,1 @@
-var mnemonic = "tobacco attitude museum nut hire barely canyon citizen prepare color monkey source";
+var mnemonic = "tumble athlete pony surprise roast assume crane unit traffic damage convince hybrid";

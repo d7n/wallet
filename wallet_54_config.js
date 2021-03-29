@@ -1,1 +1,1 @@
-var mnemonic = "diesel earn envelope cat february pet cash jacket uphold riot abstract leisure";
+var mnemonic = "gate patient scissors analyst forget foster type flight vintage farm dynamic planet";

@@ -1,1 +1,1 @@
-var mnemonic = "timber control basket pet relief execute valley device creek boil cloud zebra";
+var mnemonic = "coast keep grunt icon indicate plastic hunt sign virus valley exact soap";

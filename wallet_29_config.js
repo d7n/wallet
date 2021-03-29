@@ -1,1 +1,1 @@
-var mnemonic = "mosquito total gauge treat spray flight vibrant mix hybrid witness tube twin";
+var mnemonic = "dilemma panda deer sausage great ride melt naive purity trumpet type donkey";

@@ -1,1 +1,1 @@
-var mnemonic = "fancy thank exact horse click conduct tuition buddy dad jeans fantasy attend";
+var mnemonic = "bicycle into fever tumble relax section chaos below grunt gorilla flat learn";

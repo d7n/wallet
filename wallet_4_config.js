@@ -1,1 +1,1 @@
-var mnemonic = "casual chef satisfy much wasp bubble grief grief air fun thunder bottom";
+var mnemonic = "castle someone hundred ozone lazy indoor stage display warfare dad stool illness";

@@ -1,1 +1,1 @@
-var mnemonic = "mango pencil meadow gesture couple promote sick shine spatial humor fault today";
+var mnemonic = "vault gasp joke bargain moment basic dose fragile vague clap punch price";

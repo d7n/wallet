@@ -1,1 +1,1 @@
-var mnemonic = "radar enrich cheap volume main message exact gather neck humor isolate token";
+var mnemonic = "erosion return floor current deposit cute expect candy tomorrow ball clean bind";

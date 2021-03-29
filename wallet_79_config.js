@@ -1,1 +1,1 @@
-var mnemonic = "token heavy tornado dragon horn start salon submit rose resource half own";
+var mnemonic = "erosion shrug purpose stem fix cannon frame obey cat stairs injury raccoon";

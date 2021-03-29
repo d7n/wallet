@@ -1,1 +1,1 @@
-var mnemonic = "twelve prize seed search north book wear usage rocket soft chest maid";
+var mnemonic = "ignore fringe sauce gold dial blue riot ask slender speed powder toilet";

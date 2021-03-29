@@ -1,1 +1,1 @@
-var mnemonic = "clock onion put call scatter margin apple giraffe antenna insect case goat";
+var mnemonic = "able image warm kitten broom old recall defy elephant faint evil lonely";

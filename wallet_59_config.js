@@ -1,1 +1,1 @@
-var mnemonic = "mule consider travel inherit random argue decade buzz art finger trophy gift";
+var mnemonic = "disease survey oven decorate guitar gun wealth search guard april among harvest";

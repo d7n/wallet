@@ -1,1 +1,1 @@
-var mnemonic = "increase cabbage bike execute mirror reunion miracle crucial chunk crumble cry marriage";
+var mnemonic = "soup vocal flee rescue wait crime torch holiday blanket spoon lemon final";

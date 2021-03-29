@@ -1,1 +1,1 @@
-var mnemonic = "bleak text credit boy zoo return liberty piece better aim bridge scissors";
+var mnemonic = "vague anger note harsh shiver seat census juice gain hip raven bus";

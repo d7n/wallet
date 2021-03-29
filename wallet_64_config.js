@@ -1,1 +1,1 @@
-var mnemonic = "blanket silk arena option result urban pave embody work cousin letter add";
+var mnemonic = "pink better slice cover ketchup curtain course honey air sting repair pencil";

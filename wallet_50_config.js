@@ -1,1 +1,1 @@
-var mnemonic = "model achieve weapon kitten found lock impact random unfair assist gallery wish";
+var mnemonic = "define vessel sell unfold culture trash unable cargo valve deliver poverty obtain";

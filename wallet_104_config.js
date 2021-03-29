@@ -1,1 +1,1 @@
-var mnemonic = "surround major certain pottery coach float shuffle wasp cave region museum time";
+var mnemonic = "arena private please fiscal blush annual pluck adjust mixed survey pole palace";

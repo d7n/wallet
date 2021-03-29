@@ -1,1 +1,1 @@
-var mnemonic = "oval bundle lunch tool rural else occur enemy address swift lonely bring";
+var mnemonic = "woman style almost about across crowd farm arch erode check taxi miracle";

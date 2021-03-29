@@ -1,1 +1,1 @@
-var mnemonic = "six scheme point industry robust mule bomb satisfy rack verb swear attack";
+var mnemonic = "destroy shine huge tool duty express stick divide much nuclear team capable";

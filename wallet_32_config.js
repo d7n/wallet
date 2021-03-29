@@ -1,1 +1,1 @@
-var mnemonic = "then enjoy remind half lock ski giraffe stumble beach stage evidence glad";
+var mnemonic = "limb buzz spice situate poem armed small dish civil scare assault sound";

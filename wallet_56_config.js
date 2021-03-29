@@ -1,1 +1,1 @@
-var mnemonic = "wheel inch curtain add option sign float student favorite supply capable tenant";
+var mnemonic = "august vocal wait kitchen fix cinnamon essay enable denial pitch item gaze";

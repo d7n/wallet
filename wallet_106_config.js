@@ -1,1 +1,1 @@
-var mnemonic = "limit priority blast artefact fence crew notable club desert arrest woman essence";
+var mnemonic = "business cliff worry ribbon cloth photo flame ship maid forget cram load";

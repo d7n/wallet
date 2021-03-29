@@ -1,1 +1,1 @@
-var mnemonic = "learn radar minimum verify menu canal chapter negative behind way eye post";
+var mnemonic = "client scan absorb omit chair century impact float someone exchange approve result";

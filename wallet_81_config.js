@@ -1,1 +1,1 @@
-var mnemonic = "blue small primary duty train crack depend prosper useless minor car window";
+var mnemonic = "tool void element any picnic enact tragic trap soft ski reveal music";

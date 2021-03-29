@@ -1,1 +1,1 @@
-var mnemonic = "joy assume leg worth year arm place fork punch what tragic vague";
+var mnemonic = "mouse already daughter siren fiction lift evil embark minute sausage avoid volcano";

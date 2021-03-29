@@ -1,1 +1,1 @@
-var mnemonic = "sugar arctic orange blouse raw differ wage tell bounce fluid grunt essence";
+var mnemonic = "account degree deal lift maid tool allow lock assault ring media away";

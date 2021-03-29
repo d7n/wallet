@@ -1,1 +1,1 @@
-var mnemonic = "foam observe will already document try citizen make amateur iron sample volcano";
+var mnemonic = "tail wing plug jungle popular large upgrade gold safe skull slim language";

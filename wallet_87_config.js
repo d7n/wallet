@@ -1,1 +1,1 @@
-var mnemonic = "little use hip message canoe autumn cost trophy kind swallow noble faculty";
+var mnemonic = "female spread unfair session seven echo payment mobile cat response trouble belt";

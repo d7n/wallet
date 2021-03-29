@@ -1,1 +1,1 @@
-var mnemonic = "nurse know motion horror work coast print buffalo wink assist brand purchase";
+var mnemonic = "buzz divert cheese frame save dawn master say member puppy undo trade";

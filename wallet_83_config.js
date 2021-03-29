@@ -1,1 +1,1 @@
-var mnemonic = "actual obscure bonus staff sight humble bench field settle vast slush tell";
+var mnemonic = "raven original fancy focus clinic reflect lend great delay celery tragic weekend";

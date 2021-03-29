@@ -1,1 +1,1 @@
-var mnemonic = "fold habit exercise adult flip gloom put save join observe hen rhythm";
+var mnemonic = "sing equal reduce grab flee section glue stem bird sorry woman nerve";

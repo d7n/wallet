@@ -1,1 +1,1 @@
-var mnemonic = "panel bone victory ocean east river menu extend swap feel engage worry";
+var mnemonic = "beef elite candy basic legal melt winner priority spider raccoon forest jar";

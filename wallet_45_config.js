@@ -1,1 +1,1 @@
-var mnemonic = "happy fog must eagle focus fire supreme city game roast brand creek";
+var mnemonic = "unveil ability exact either tribe over area feel letter sting blind castle";

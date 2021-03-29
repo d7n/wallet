@@ -1,1 +1,1 @@
-var mnemonic = "very rose similar dolphin frown biology fee mammal crush tattoo pride slush";
+var mnemonic = "drink soap invite bounce sad tennis say upon grunt check crisp tray";

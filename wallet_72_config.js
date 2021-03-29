@@ -1,1 +1,1 @@
-var mnemonic = "food recall year venture hawk rate educate argue dress shine like transfer";
+var mnemonic = "crack clip pistol stadium domain exclude angry act upper lift accuse spatial";

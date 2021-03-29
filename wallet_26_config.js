@@ -1,1 +1,1 @@
-var mnemonic = "expire relief that barely young express rich tone video waste kidney junk";
+var mnemonic = "film tired song devote away dolphin flame knife tackle hard dinosaur regret";

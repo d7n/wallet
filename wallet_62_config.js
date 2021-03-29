@@ -1,1 +1,1 @@
-var mnemonic = "thumb wave convince match beyond limb fence art liar tape cram reform";
+var mnemonic = "entry symptom slender improve sure where club tackle easy nothing celery fix";

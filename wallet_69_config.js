@@ -1,1 +1,1 @@
-var mnemonic = "repeat stairs various six clip come gorilla front dismiss shiver away grid";
+var mnemonic = "bitter riot net pulse quote obvious fault expose panel yellow element mansion";

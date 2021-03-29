@@ -1,1 +1,1 @@
-var mnemonic = "stove must phrase consider welcome half mandate myth uncover mosquito april giraffe";
+var mnemonic = "cliff invite fan win wild scan dish chaos hat student check predict";

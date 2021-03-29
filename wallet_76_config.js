@@ -1,1 +1,1 @@
-var mnemonic = "track night mother vote call common unaware rescue brand desert innocent auction";
+var mnemonic = "sword famous twin project blade dad six solar side chapter vicious glance";

@@ -1,1 +1,1 @@
-var mnemonic = "either sponsor viable pizza cluster correct bless lift silver comfort guess episode";
+var mnemonic = "also palace moral detail maid true hint invite inner feature rapid extend";

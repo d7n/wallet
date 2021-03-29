@@ -1,1 +1,1 @@
-var mnemonic = "radar bullet always pulse recipe degree dumb winter leopard soldier add jacket";
+var mnemonic = "scrub wheat bird recall mimic skin maple index solid gift horror seminar";
