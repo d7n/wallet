@@ -1,1 +1,1 @@
-var mnemonic = "walnut punch service special gasp paddle ostrich perfect brick toy frost gain";
+var mnemonic = "draw crunch pool cabbage patch metal merry smile replace hamster normal build";

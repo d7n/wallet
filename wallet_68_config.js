@@ -1,1 +1,1 @@
-var mnemonic = "kitchen mask clip put primary slide thrive rude belt capital chaos frozen";
+var mnemonic = "follow egg hover coconut offer police unique glimpse rate climb aerobic next";

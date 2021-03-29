@@ -1,1 +1,1 @@
-var mnemonic = "gown spice violin live little train blind waste solve learn bulb car";
+var mnemonic = "strong soccer patrol orchard canoe input false fire silk upset double unaware";

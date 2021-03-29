@@ -1,1 +1,1 @@
-var mnemonic = "dragon sustain only panel element manage method truly post canoe card cluster";
+var mnemonic = "notice hero law calm moral zone hotel depth dream wash input between";

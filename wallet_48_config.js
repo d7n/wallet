@@ -1,1 +1,1 @@
-var mnemonic = "satisfy kick carry south extra pottery ring foil dutch naive anxiety hockey";
+var mnemonic = "stool claim tray spice clip sign rate flavor produce notable pretty danger";

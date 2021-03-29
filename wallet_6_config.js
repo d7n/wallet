@@ -1,1 +1,1 @@
-var mnemonic = "allow simple opinion hockey subject elephant isolate zoo ancient join absent dolphin";
+var mnemonic = "silk security earn pause rigid dilemma tide recipe youth loan weasel flame";

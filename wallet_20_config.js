@@ -1,1 +1,1 @@
-var mnemonic = "exercise high jeans grape chapter noble fun camera street exhibit improve virus";
+var mnemonic = "nephew night dial solid silly betray alien require pluck cement have document";

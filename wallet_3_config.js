@@ -1,1 +1,1 @@
-var mnemonic = "seed mass save edge kiwi congress stairs ancient mule fork bone frown";
+var mnemonic = "cry north fashion rifle mixed usage what visit lock desk food grid";

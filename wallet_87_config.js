@@ -1,1 +1,1 @@
-var mnemonic = "thing permit access trash cube mouse random nose blind essay loop toilet";
+var mnemonic = "stock excess orchard circle shock cabin quick winner paper bullet trade eight";

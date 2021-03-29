@@ -1,1 +1,1 @@
-var mnemonic = "carry shine oval equip street field shiver range liar orphan hammer unhappy";
+var mnemonic = "bracket find hurdle buzz credit famous sadness shoe remind ridge amazing foster";

@@ -1,1 +1,1 @@
-var mnemonic = "reason shrug pet blade erosion sugar year glad bronze bread donor man";
+var mnemonic = "pill clap profit genius decade spoil call stomach where knee inside anger";

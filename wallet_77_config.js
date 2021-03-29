@@ -1,1 +1,1 @@
-var mnemonic = "suffer camera ramp chimney copper yard erupt danger vocal video loyal detail";
+var mnemonic = "riot diet unfold kitchen depart curve vivid dune attract wife crystal movie";

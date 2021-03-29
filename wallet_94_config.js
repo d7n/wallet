@@ -1,1 +1,1 @@
-var mnemonic = "winter pudding genuine mimic holiday jealous hospital spider bachelor loan ugly rent";
+var mnemonic = "grace endless head gather waste write sunny cable toddler giraffe brush alarm";

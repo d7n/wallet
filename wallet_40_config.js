@@ -1,1 +1,1 @@
-var mnemonic = "crisp artefact loyal mechanic clutch unique ill boost glance pioneer eye goat";
+var mnemonic = "slogan bid inflict before anger illness seven repeat close science blush tobacco";

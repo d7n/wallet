@@ -1,1 +1,1 @@
-var mnemonic = "feel hurt syrup solar will type confirm win worry camp head gadget";
+var mnemonic = "wrist credit core december motor coconut crumble miss model joy execute diamond";

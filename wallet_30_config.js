@@ -1,1 +1,1 @@
-var mnemonic = "mixed abstract convince genius razor tortoise target depend test section because grocery";
+var mnemonic = "lyrics smooth pride olympic cream inmate forward bind pistol traffic neglect cupboard";

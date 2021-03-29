@@ -1,1 +1,1 @@
-var mnemonic = "crumble silent monkey evoke mandate nominee action ordinary park hospital turkey letter";
+var mnemonic = "tongue island need share truth endless true circle valley apology absent olive";

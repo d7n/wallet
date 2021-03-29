@@ -1,1 +1,1 @@
-var mnemonic = "lizard mystery harbor battle chicken cousin dutch replace forget purity sheriff mind";
+var mnemonic = "shield still mimic guess believe spoil season roof carpet fluid myth ocean";

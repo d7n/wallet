@@ -1,1 +1,1 @@
-var mnemonic = "become power lucky radio embody away amazing fruit bamboo spring symptom display";
+var mnemonic = "pitch tired orient defense galaxy useless absorb exact frost urge edge someone";

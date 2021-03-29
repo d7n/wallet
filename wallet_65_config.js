@@ -1,1 +1,1 @@
-var mnemonic = "select rotate drama smoke autumn paper emerge about arm orchard hold inspire";
+var mnemonic = "stay blind beyond teach believe duty combine match near simple grass traffic";

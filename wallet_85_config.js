@@ -1,1 +1,1 @@
-var mnemonic = "midnight enforce slogan more pilot lunar behind before birth gym immense use";
+var mnemonic = "soft trend concert rate special horror crumble resist room embody nuclear jazz";

@@ -1,1 +1,1 @@
-var mnemonic = "chaos pencil grid axis west cabin canal rather that puzzle work seven";
+var mnemonic = "damage direct morning carbon hundred radio beyond rack cliff above keen faint";

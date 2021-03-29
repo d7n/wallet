@@ -1,1 +1,1 @@
-var mnemonic = "same century budget february title domain will disagree shy grab tennis noble";
+var mnemonic = "rose miracle winner process few announce waste mammal energy today identify polar";

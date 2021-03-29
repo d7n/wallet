@@ -1,1 +1,1 @@
-var mnemonic = "subway stamp expand obvious volume enter cover endless green misery slab engage";
+var mnemonic = "lecture square blossom helmet undo flight rocket cat govern inmate basic human";

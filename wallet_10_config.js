@@ -1,1 +1,1 @@
-var mnemonic = "number inject quarter drip police disagree sad knee smooth blur travel parrot";
+var mnemonic = "under hold review napkin hard melt student around air argue chief unit";

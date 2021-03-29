@@ -1,1 +1,1 @@
-var mnemonic = "brief jump lake vote crater high deposit scale girl tree hood much";
+var mnemonic = "clerk mosquito master spirit mass glass wise lend enroll symptom dance erupt";

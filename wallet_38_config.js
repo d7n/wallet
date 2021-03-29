@@ -1,1 +1,1 @@
-var mnemonic = "girl donor machine pact lawsuit key bubble blast width member diet soda";
+var mnemonic = "type attend carry giraffe video boy cattle approve phrase six romance vacant";

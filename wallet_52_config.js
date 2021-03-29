@@ -1,1 +1,1 @@
-var mnemonic = "soul hamster gorilla blade primary nature ask oval calm drink wool quarter";
+var mnemonic = "cinnamon yellow outside cabin scissors athlete inform banner frog screen income hazard";

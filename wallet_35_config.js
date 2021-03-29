@@ -1,1 +1,1 @@
-var mnemonic = "unknown earth logic replace vintage engage cream canyon expire neutral cricket fortune";
+var mnemonic = "kitchen enlist grace talk square arch knee just noble problem unfair merge";

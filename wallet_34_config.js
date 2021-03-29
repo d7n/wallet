@@ -1,1 +1,1 @@
-var mnemonic = "phrase public lawsuit smile amazing butter purchase unlock this impact million crucial";
+var mnemonic = "mom scare lottery problem runway weasel orbit forget prevent hobby will pepper";

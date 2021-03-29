@@ -1,1 +1,1 @@
-var mnemonic = "typical elephant interest dial announce control alert lava assault prosper section goat";
+var mnemonic = "situate prize shoot swap gravity endless excite accident waste arrest rebel much";

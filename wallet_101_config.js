@@ -1,1 +1,1 @@
-var mnemonic = "raise pulse outdoor north that story picture athlete casino bronze swear embody";
+var mnemonic = "steel frequent donate outer point debris chat display stock hood wire scout";

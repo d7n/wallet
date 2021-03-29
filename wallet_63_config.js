@@ -1,1 +1,1 @@
-var mnemonic = "hill circle stumble day critic valley skill fossil physical wasp phrase opinion";
+var mnemonic = "december innocent example pumpkin there fresh story bag critic feed horn nest";

@@ -1,1 +1,1 @@
-var mnemonic = "celery target layer open sail aspect cook sentence stuff pulp pelican erupt";
+var mnemonic = "possible rose shy address venue immune umbrella secret unfair split pattern palace";

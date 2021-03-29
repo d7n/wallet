@@ -1,1 +1,1 @@
-var mnemonic = "dove lounge february prefer repair weasel shaft junior disease tail copy burger";
+var mnemonic = "cluster volcano impulse hammer hint open person ordinary screen range usual language";

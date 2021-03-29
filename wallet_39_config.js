@@ -1,1 +1,1 @@
-var mnemonic = "surprise legend injury excite distance toddler scissors fringe window dawn urban logic";
+var mnemonic = "analyst enrich voyage brave matrix group girl water market fantasy fortune distance";

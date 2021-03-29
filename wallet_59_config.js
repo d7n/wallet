@@ -1,1 +1,1 @@
-var mnemonic = "manage mule author country recycle gloom vital orchard can breeze usage gift";
+var mnemonic = "near stumble illness buffalo twelve indoor distance web stadium heart submit pyramid";

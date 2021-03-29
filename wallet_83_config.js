@@ -1,1 +1,1 @@
-var mnemonic = "ask kind tennis girl question sauce vault suspect wide scan artist lumber";
+var mnemonic = "hold cruel funny sense canoe party hover hub junk midnight youth weapon";

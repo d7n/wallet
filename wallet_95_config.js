@@ -1,1 +1,1 @@
-var mnemonic = "misery extra mule raw mask curve then injury hurt distance elite stem";
+var mnemonic = "move chronic manual indoor palm candy multiply sibling jazz rookie disease lend";

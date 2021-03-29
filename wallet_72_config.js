@@ -1,1 +1,1 @@
-var mnemonic = "grant among level fiscal adjust airport hammer produce alley equip purpose vicious";
+var mnemonic = "mention breeze auto battle salon foot dinosaur roof culture fence craft ripple";

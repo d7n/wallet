@@ -1,1 +1,1 @@
-var mnemonic = "clump impulse biology current return shoulder clay believe immune struggle above top";
+var mnemonic = "silver reform senior bunker clinic pulp next noodle mansion segment engine skill";

@@ -1,1 +1,1 @@
-var mnemonic = "frame shock smooth imitate gold crop mix sugar hello struggle three report";
+var mnemonic = "swamp soldier winter outdoor gap jeans armed month purity never short cost";

@@ -1,1 +1,1 @@
-var mnemonic = "suit poem essay script catch harsh vault venue genre identify behind cry";
+var mnemonic = "answer walk fossil text cart stem swift neglect grape wine resist gesture";

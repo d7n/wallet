@@ -1,1 +1,1 @@
-var mnemonic = "blade year gap until office book field kingdom bless boy divorce unable";
+var mnemonic = "genius cat essay metal hero naive van process rely mutual skull valid";

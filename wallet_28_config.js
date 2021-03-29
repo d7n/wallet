@@ -1,1 +1,1 @@
-var mnemonic = "sheriff force manual person soon slow balcony sudden road fortune convince vague";
+var mnemonic = "ethics ensure unable news process flee canvas flat vapor repeat legal wait";

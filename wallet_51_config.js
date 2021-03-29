@@ -1,1 +1,1 @@
-var mnemonic = "frost vehicle abstract absorb sport song pluck border dove excuse ring sister";
+var mnemonic = "minimum early remind bean harsh boat explain lobster message atom clip nature";

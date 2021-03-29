@@ -1,1 +1,1 @@
-var mnemonic = "punch story nurse stand resist license crater error battle current mixed cabbage";
+var mnemonic = "bleak laugh erode term cloth goose filter soon also skull armed bargain";

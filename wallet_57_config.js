@@ -1,1 +1,1 @@
-var mnemonic = "swallow hat nest elevator shock way tank onion tunnel two prison story";
+var mnemonic = "cloud scrap demand library bring language tired country vivid excite town future";

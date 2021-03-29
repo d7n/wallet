@@ -1,1 +1,1 @@
-var mnemonic = "hobby quote spawn pill lazy deal make beach outer bleak fiction glove";
+var mnemonic = "must either boil sign inside slow holiday extra piano nuclear bright same";

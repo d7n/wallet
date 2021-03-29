@@ -1,1 +1,1 @@
-var mnemonic = "close giant interest letter produce more there popular file fix defense dinner";
+var mnemonic = "arena tornado cluster craft people hard head naive pupil solar sausage donor";

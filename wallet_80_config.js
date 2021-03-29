@@ -1,1 +1,1 @@
-var mnemonic = "icon suspect valve jealous weird voice memory decorate once deputy west frozen";
+var mnemonic = "sting offer thunder thumb sword adjust copy oil figure bubble common universe";

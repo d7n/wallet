@@ -1,1 +1,1 @@
-var mnemonic = "edit educate flower fresh lend address capital orange burst magic twelve cave";
+var mnemonic = "outdoor unlock front bunker anger curve target then crumble metal eternal diamond";

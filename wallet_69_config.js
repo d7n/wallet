@@ -1,1 +1,1 @@
-var mnemonic = "poverty nut patrol cup vote devote rose sand install shift cotton kitten";
+var mnemonic = "tissue sun print twin shine kid brother clerk mimic drive long dinosaur";

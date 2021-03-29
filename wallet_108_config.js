@@ -1,1 +1,1 @@
-var mnemonic = "blush frequent range high ask bulb feature betray index simple gold file";
+var mnemonic = "police indicate have snake desert icon gravity path work identify scheme october";

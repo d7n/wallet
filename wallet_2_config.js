@@ -1,1 +1,1 @@
-var mnemonic = "route peasant task inspire drive leg cabbage physical famous ivory actor stand";
+var mnemonic = "bundle case remember topple because shed fun seat resource rail obey apart";

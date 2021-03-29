@@ -1,1 +1,1 @@
-var mnemonic = "clutch rice reunion start remain twist suit comic helmet magic boost degree";
+var mnemonic = "puppy resource finger shell profit hawk dolphin large glory pass airport remember";

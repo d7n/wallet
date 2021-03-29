@@ -1,1 +1,1 @@
-var mnemonic = "method purchase bag install busy lift enough kite oval math unusual reunion";
+var mnemonic = "limb hawk ribbon sugar blanket antique lunch wood village elevator phrase mesh";

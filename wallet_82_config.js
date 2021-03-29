@@ -1,1 +1,1 @@
-var mnemonic = "movie brisk execute attract square stay pig stable seminar camera chimney smoke";
+var mnemonic = "brown snow powder relax govern young ketchup retreat gadget party opera pink";

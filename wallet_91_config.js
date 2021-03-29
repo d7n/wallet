@@ -1,1 +1,1 @@
-var mnemonic = "hip doctor that local draw squeeze enroll depth choice wool sport conduct";
+var mnemonic = "sausage harsh habit regular meat surround alert nominee nature rain impose ten";

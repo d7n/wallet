@@ -1,1 +1,1 @@
-var mnemonic = "cause sail maximum harbor tornado strong click village toss crush witness hope";
+var mnemonic = "right flash snake toddler shiver judge agree box corn start door mass";

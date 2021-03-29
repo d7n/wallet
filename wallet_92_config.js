@@ -1,1 +1,1 @@
-var mnemonic = "until faith inner dune hole predict couch degree employ clay clinic huge";
+var mnemonic = "venture notable renew shell mechanic address urge guitar envelope winter eager bag";

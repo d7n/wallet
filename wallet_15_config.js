@@ -1,1 +1,1 @@
-var mnemonic = "enact churn found picnic relief swamp rifle fiber ticket main poem tip";
+var mnemonic = "panther dust twin review vehicle dwarf gaze chat marble finish year duck";

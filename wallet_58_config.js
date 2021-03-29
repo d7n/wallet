@@ -1,1 +1,1 @@
-var mnemonic = "glove dose mixture road cherry conduct dress speed forward size debate deliver";
+var mnemonic = "media since beach work churn thank unhappy under calm become thank provide";

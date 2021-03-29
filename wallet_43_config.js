@@ -1,1 +1,1 @@
-var mnemonic = "fatal address water filter breeze true future program bird solution place grunt";
+var mnemonic = "force zone immense skate bulb topple art property benefit strong mule abandon";

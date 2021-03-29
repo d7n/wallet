@@ -1,1 +1,1 @@
-var mnemonic = "pass metal present cheese zoo march away glance visual early monitor unit";
+var mnemonic = "suit usual step garage mask belt practice bicycle defy emotion nation annual";

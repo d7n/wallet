@@ -1,1 +1,1 @@
-var mnemonic = "favorite apology razor smooth dress fury net wagon pioneer tired horror output";
+var mnemonic = "pen title tobacco laptop carry honey winner peace decline valley cattle reduce";

@@ -1,1 +1,1 @@
-var mnemonic = "devote maximum blanket pipe siren harvest thrive piece upset expect feed amazing";
+var mnemonic = "romance video grunt flavor vivid citizen romance size dream burger certain jungle";

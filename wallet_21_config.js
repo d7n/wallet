@@ -1,1 +1,1 @@
-var mnemonic = "first text joy unit couch labor embark tilt potato clinic swift chair";
+var mnemonic = "language transfer laptop dune youth wonder title auto april evoke blossom more";

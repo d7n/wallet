@@ -1,1 +1,1 @@
-var mnemonic = "corn tree give similar lumber glue old child friend apple direct fluid";
+var mnemonic = "scene divert double split mixed hazard memory coach doll attend layer extend";

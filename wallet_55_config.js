@@ -1,1 +1,1 @@
-var mnemonic = "public profit twist raven radar draft steak favorite lobster arctic say nothing";
+var mnemonic = "brush quit real royal clever monster arrow slice genuine quarter urge record";

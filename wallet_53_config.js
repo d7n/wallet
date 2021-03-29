@@ -1,1 +1,1 @@
-var mnemonic = "fitness lens maze mountain truly turkey must fall syrup lemon uphold pulse";
+var mnemonic = "turkey weapon coil upon anchor together argue auction sauce glow prepare rather";

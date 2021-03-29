@@ -1,1 +1,1 @@
-var mnemonic = "anchor copper object pass remain village segment acquire tackle century waste gym";
+var mnemonic = "zebra deal coral issue wide love evil gesture fever code century island";

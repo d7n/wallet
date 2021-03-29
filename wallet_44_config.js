@@ -1,1 +1,1 @@
-var mnemonic = "beef benefit funny inquiry horror odor junk rural exclude capable certain rent";
+var mnemonic = "wrap around pigeon virtual dolphin frown verify promote rule lion ticket supply";

@@ -1,1 +1,1 @@
-var mnemonic = "sand diagram infant leg submit game song expect foam chimney bomb because";
+var mnemonic = "bone enact library morning become breeze dream jewel pioneer time list banner";

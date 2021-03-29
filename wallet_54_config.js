@@ -1,1 +1,1 @@
-var mnemonic = "silly ozone fatigue shrimp bamboo what curious wealth royal coyote weather disagree";
+var mnemonic = "harsh sunset veteran company curve march ugly circle inspire depth picnic walnut";

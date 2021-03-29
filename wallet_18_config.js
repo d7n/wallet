@@ -1,1 +1,1 @@
-var mnemonic = "rubber tired junior speak crop foot victory industry ivory matter gravity often";
+var mnemonic = "hub alert link jeans spy prize home scissors mother trust matter camera";

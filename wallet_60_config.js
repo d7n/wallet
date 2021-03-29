@@ -1,1 +1,1 @@
-var mnemonic = "degree run square rebuild remove person profit track dismiss blossom obvious slab";
+var mnemonic = "equip cupboard divert clip erode empty during slush play dentist level slice";

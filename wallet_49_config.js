@@ -1,1 +1,1 @@
-var mnemonic = "hover ball ball doctor jeans window curve good two enact voice census";
+var mnemonic = "blush assault cost unveil flash van amount decline prevent renew pizza capital";

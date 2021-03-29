@@ -1,1 +1,1 @@
-var mnemonic = "front diary myth noise smooth yellow include steel average just upset raven";
+var mnemonic = "keep push later moral style dress clean remind panda oven just meat";

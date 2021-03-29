@@ -1,1 +1,1 @@
-var mnemonic = "fossil champion rack mountain express penalty only frown correct clock decade all";
+var mnemonic = "shine veteran nest where erosion tape tide near step number stable job";

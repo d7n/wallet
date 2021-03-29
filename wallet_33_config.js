@@ -1,1 +1,1 @@
-var mnemonic = "symptom volcano quote two blur squeeze auto panther skull dirt script gather";
+var mnemonic = "credit cycle potato valve sense anxiety scrap liquid car mesh talent twist";

@@ -1,1 +1,1 @@
-var mnemonic = "aim invest vessel sort junk drink index shoot mask unveil annual meadow";
+var mnemonic = "glove notable oppose obvious century cute repeat appear media pepper turkey message";

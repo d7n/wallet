@@ -1,1 +1,1 @@
-var mnemonic = "hero utility dress habit there time rebuild shiver pen year crater pelican";
+var mnemonic = "strong girl shrug acid report arrange pledge direct mean march weasel wall";

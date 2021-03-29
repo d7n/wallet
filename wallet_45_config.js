@@ -1,1 +1,1 @@
-var mnemonic = "bracket float install merry tiger this mosquito forum cupboard object party genuine";
+var mnemonic = "ring velvet seed rocket void aunt nation split duck aware neck distance";

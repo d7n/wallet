@@ -1,1 +1,1 @@
-var mnemonic = "toward road quit exact doll act square jelly disorder require bounce toward";
+var mnemonic = "nurse script seat document mule host attack wagon long shell flight embark";

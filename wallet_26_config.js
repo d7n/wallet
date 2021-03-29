@@ -1,1 +1,1 @@
-var mnemonic = "dentist gun happy axis suggest pretty blame example sauce bachelor siege party";
+var mnemonic = "swap sponsor hobby finger morning boss section evoke burst tell huge off";

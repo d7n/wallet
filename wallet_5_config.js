@@ -1,1 +1,1 @@
-var mnemonic = "any push admit enter jazz oven solar forest increase settle enhance bicycle";
+var mnemonic = "quarter wolf pond split picture uniform fiber home grant expose shove blind";

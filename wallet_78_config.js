@@ -1,1 +1,1 @@
-var mnemonic = "guide royal parrot employ raw file turtle reveal seek require judge clerk";
+var mnemonic = "stone typical kick lab client giraffe garment vacuum clarify much educate grunt";
