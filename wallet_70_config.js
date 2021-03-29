@@ -1,1 +1,1 @@
-var mnemonic = "concert snack wife kit prepare concert analyst million amateur cousin slender icon";
+var mnemonic = "milk blind sun adapt birth field north say virtual much damage frozen";

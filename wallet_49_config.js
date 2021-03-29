@@ -1,1 +1,1 @@
-var mnemonic = "devote rain case guide kite bless between regular play erode piano smooth";
+var mnemonic = "satoshi arrange result demise obtain million angle nephew obscure old burden text";

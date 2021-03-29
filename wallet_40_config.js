@@ -1,1 +1,1 @@
-var mnemonic = "explain dismiss person exit organ host embody cross become amateur noble radio";
+var mnemonic = "bike fold warrior gaze acid provide pave shift illness proud broom annual";

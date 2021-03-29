@@ -1,1 +1,1 @@
-var mnemonic = "donor ship scrap resource real peanut inmate amateur distance miracle trumpet shock";
+var mnemonic = "cliff craft basket tube junk memory derive popular pluck glass tuition usual";

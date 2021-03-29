@@ -1,1 +1,1 @@
-var mnemonic = "chalk wolf banana parade hair minor before satisfy aim save one crystal";
+var mnemonic = "rule thank trap process misery quarter cream nasty message apple trumpet dutch";

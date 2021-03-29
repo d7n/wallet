@@ -1,1 +1,1 @@
-var mnemonic = "eye october siren example student subway route raw brand arm super balcony";
+var mnemonic = "situate cupboard solar youth camera hamster group wide earn market antique water";

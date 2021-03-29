@@ -1,1 +1,1 @@
-var mnemonic = "awake beef spoil cover collect raven sudden canyon pill jacket boost gas";
+var mnemonic = "grace lion betray tackle air weasel fix decide acquire daring better blanket";

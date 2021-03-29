@@ -1,1 +1,1 @@
-var mnemonic = "excuse this describe law lens fall sort brave motion satisfy helmet differ";
+var mnemonic = "someone shiver scrap hen budget document mirror addict talk time evil recall";

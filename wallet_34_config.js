@@ -1,1 +1,1 @@
-var mnemonic = "case disorder balance panel master toddler disorder tell sad avoid myth episode";
+var mnemonic = "strike shy thing uncover chicken measure inspire fan fan famous jeans wash";

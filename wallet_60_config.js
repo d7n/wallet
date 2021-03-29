@@ -1,1 +1,1 @@
-var mnemonic = "shadow embark marine smart pumpkin review elegant anxiety coast proud later cat";
+var mnemonic = "friend cube roof bronze obvious obey globe lucky promote slight rookie sudden";

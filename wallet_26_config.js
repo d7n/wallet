@@ -1,1 +1,1 @@
-var mnemonic = "cement deny drive slush grunt social income view rely train cricket boost";
+var mnemonic = "panda vast elbow subject cube cake file journey vault antenna dutch space";

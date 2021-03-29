@@ -1,1 +1,1 @@
-var mnemonic = "task midnight hazard denial battle choose firm spray crew bullet bike toilet";
+var mnemonic = "attitude endorse symptom secret essay saddle echo young sheriff judge angle click";

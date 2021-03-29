@@ -1,1 +1,1 @@
-var mnemonic = "venue bone garden plug panic grid attract mimic remain share ecology reflect";
+var mnemonic = "income boss two helmet case wrap pioneer cool spare dust power strong";

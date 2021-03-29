@@ -1,1 +1,1 @@
-var mnemonic = "vendor post wink palace drip pilot boost drama leader wear yellow pond";
+var mnemonic = "gasp grace pool badge empower service sponsor scene series produce festival detect";

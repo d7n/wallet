@@ -1,1 +1,1 @@
-var mnemonic = "clown broom jacket rely chicken slim detect dinner dog unaware control celery";
+var mnemonic = "inner tissue ladder bubble thrive trumpet rude idle sister surface will bird";

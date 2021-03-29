@@ -1,1 +1,1 @@
-var mnemonic = "gaze cousin erase tragic mercy deliver chunk below remind very cook tilt";
+var mnemonic = "hobby dragon unlock busy increase owner distance swear process era web amount";

@@ -1,1 +1,1 @@
-var mnemonic = "weather cereal sunset nurse strategy cave attend strike traffic first water cry";
+var mnemonic = "mandate satisfy abandon horror predict school oblige blade food solar despair oblige";

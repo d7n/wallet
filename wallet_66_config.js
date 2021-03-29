@@ -1,1 +1,1 @@
-var mnemonic = "sport party access act choice guide abuse kingdom report tribe rail retire";
+var mnemonic = "wink merit rare silent mixture hub rib aim antenna inner august range";

@@ -1,1 +1,1 @@
-var mnemonic = "middle load kitten picture very park logic invite pen bus board tragic";
+var mnemonic = "area forum happy shed author parade note around build field blue youth";

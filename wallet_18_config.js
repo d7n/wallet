@@ -1,1 +1,1 @@
-var mnemonic = "leaf asset elbow route large enlist tortoise sing outer winner sauce mother";
+var mnemonic = "few stereo correct oval clip motor combine lazy apart clerk add disagree";

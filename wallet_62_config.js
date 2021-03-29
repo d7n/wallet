@@ -1,1 +1,1 @@
-var mnemonic = "fiscal oval ivory typical problem fork mushroom saddle admit fancy pyramid absurd";
+var mnemonic = "lottery like marine wolf pumpkin vital ticket ecology into pink sure adjust";

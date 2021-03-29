@@ -1,1 +1,1 @@
-var mnemonic = "april motion maze cheap bachelor obtain kitchen arrow initial voyage live bundle";
+var mnemonic = "lamp tower heavy shrimp protect dish wealth champion nasty odor grid tape";

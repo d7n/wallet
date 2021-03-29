@@ -1,1 +1,1 @@
-var mnemonic = "father option giraffe alcohol actor area plate lobster black wish machine ten";
+var mnemonic = "shell rabbit arctic wheat arrange fade reunion piano twelve parent empty hockey";

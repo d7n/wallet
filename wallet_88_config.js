@@ -1,1 +1,1 @@
-var mnemonic = "nature bless brother scrap derive tiger bundle snap click crouch spice gasp";
+var mnemonic = "dawn demand fine planet imitate lawsuit pottery excuse display siege cross sugar";

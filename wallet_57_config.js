@@ -1,1 +1,1 @@
-var mnemonic = "hill globe pride prepare accident again hotel autumn draw notice rapid fan";
+var mnemonic = "laugh crystal affair suspect feed hole truly wrist upper mosquito annual school";

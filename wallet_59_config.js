@@ -1,1 +1,1 @@
-var mnemonic = "husband charge february envelope casual twin issue off flash finish announce father";
+var mnemonic = "hundred skull ecology whip disorder couple axis warrior office drive adult ten";

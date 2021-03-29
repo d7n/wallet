@@ -1,1 +1,1 @@
-var mnemonic = "winner radio twist inflict assault remain divide lounge child mesh slender achieve";
+var mnemonic = "car accuse wonder foam strike stadium supply salmon trust join strike camera";

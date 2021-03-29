@@ -1,1 +1,1 @@
-var mnemonic = "hen nuclear conduct manage bitter thought powder tree hurry surface stick quality";
+var mnemonic = "luggage forget wonder demand drip drink dry visa debate vast fog prosper";

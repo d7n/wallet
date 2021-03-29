@@ -1,1 +1,1 @@
-var mnemonic = "peanut general oyster cupboard wool ridge shield disorder invite want simple cattle";
+var mnemonic = "helmet snow grant client major gallery mountain beef banana spike diesel afford";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost answer jewel job exit thing dry swallow cereal choose brand busy";
+var mnemonic = "anchor run alone bid need fiber way satisfy fox grab urge wheat";

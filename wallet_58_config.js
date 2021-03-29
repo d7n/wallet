@@ -1,1 +1,1 @@
-var mnemonic = "retire clean horror ask pony glide claw regret deal rib until public";
+var mnemonic = "car talent fun toilet tuna spread public town cup jeans twin reject";

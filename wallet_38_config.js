@@ -1,1 +1,1 @@
-var mnemonic = "wet grow long stock verify key pause humble inquiry silent nurse vital";
+var mnemonic = "rib fantasy double trust floor shop fringe payment business fee put prize";

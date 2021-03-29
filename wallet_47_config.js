@@ -1,1 +1,1 @@
-var mnemonic = "soon dune level vicious pizza party bike best grain scout sure estate";
+var mnemonic = "boss silly hedgehog smile brisk educate hint devote people argue dynamic game";

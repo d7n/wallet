@@ -1,1 +1,1 @@
-var mnemonic = "favorite duty alter seed tornado chronic coral hungry tuna short dismiss middle";
+var mnemonic = "ill inch sponsor cruel hello strategy below cram purpose logic camp neck";

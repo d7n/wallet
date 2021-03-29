@@ -1,1 +1,1 @@
-var mnemonic = "sheriff march vault table spider devote post can hard regret raw glow";
+var mnemonic = "deliver lesson solar jelly enroll east duck morning soccer cover sense slice";

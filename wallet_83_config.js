@@ -1,1 +1,1 @@
-var mnemonic = "kidney juice sunny pass true room practice edit evil vintage battle sponsor";
+var mnemonic = "loyal sea wire critic fan eternal habit select fog okay horse horse";

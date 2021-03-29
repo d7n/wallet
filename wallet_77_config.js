@@ -1,1 +1,1 @@
-var mnemonic = "owner occur volume sense patrol drink impulse over flock toast grape tide";
+var mnemonic = "uncover entire need resist clutch meadow salute claim add midnight endorse trend";

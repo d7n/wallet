@@ -1,1 +1,1 @@
-var mnemonic = "marble silver bonus hazard either salon basic divide upper soda pitch supply";
+var mnemonic = "token language chuckle cradle problem spike copy surface pitch unable syrup vital";

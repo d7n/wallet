@@ -1,1 +1,1 @@
-var mnemonic = "shaft ancient song network verb balcony gorilla broken copper alarm cake tell";
+var mnemonic = "army opera guard cube crucial own clever thrive trust practice worry rival";

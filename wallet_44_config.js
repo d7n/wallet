@@ -1,1 +1,1 @@
-var mnemonic = "cancel glide column begin imitate drift peasant zoo heart gold evil town";
+var mnemonic = "core noble pitch diamond range small embody alert pig speed cream demand";

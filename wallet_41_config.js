@@ -1,1 +1,1 @@
-var mnemonic = "summer relax alert evolve race tone actress silver dizzy talent six hurry";
+var mnemonic = "heart liquid area damp learn absent extend lemon humor coral spread chat";

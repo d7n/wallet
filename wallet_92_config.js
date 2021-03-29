@@ -1,1 +1,1 @@
-var mnemonic = "noodle hold ritual bring salt coffee final girl high recipe guess urge";
+var mnemonic = "onion unique wet right share upper neutral thought allow used bomb critic";

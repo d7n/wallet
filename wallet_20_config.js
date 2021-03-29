@@ -1,1 +1,1 @@
-var mnemonic = "because chicken unaware casino breeze payment bag universe alpha boost august only";
+var mnemonic = "again reject deputy first dad divide dry salmon cloud student slender tragic";

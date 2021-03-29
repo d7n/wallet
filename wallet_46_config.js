@@ -1,1 +1,1 @@
-var mnemonic = "blue cart wasp fever tone weapon sea chunk arch aware sphere legal";
+var mnemonic = "tissue else morning path buddy salt embody tomorrow hand client more essay";

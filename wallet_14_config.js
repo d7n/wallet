@@ -1,1 +1,1 @@
-var mnemonic = "strike scorpion bus legend capital early draft wrestle motion real opinion rebel";
+var mnemonic = "clump review siren chest priority carry prefer nest fine pet thumb mail";

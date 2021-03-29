@@ -1,1 +1,1 @@
-var mnemonic = "defense resemble mystery under artist ride first legend portion census sustain fuel";
+var mnemonic = "loud useless adult bounce found reveal chuckle brown topic couple come maple";

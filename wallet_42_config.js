@@ -1,1 +1,1 @@
-var mnemonic = "void shift ancient sand hold clerk negative skirt mango kid snow miss";
+var mnemonic = "domain where father fitness shock remove discover often pact health into expose";

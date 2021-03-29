@@ -1,1 +1,1 @@
-var mnemonic = "innocent time forum fence about dust process luxury oyster pet rib long";
+var mnemonic = "caution multiply sister remember slice popular swarm inspire possible shove pelican confirm";

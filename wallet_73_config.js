@@ -1,1 +1,1 @@
-var mnemonic = "spike hedgehog hurry gorilla scissors mom boat brother evolve job throw collect";
+var mnemonic = "fresh differ print elite enable absurd unhappy angry worry exchange area clump";

@@ -1,1 +1,1 @@
-var mnemonic = "armor town wrestle letter plunge diagram inside alien lawn rack business wrist";
+var mnemonic = "hazard indoor asset seek trial combine sample eagle include embark chronic film";

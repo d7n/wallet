@@ -1,1 +1,1 @@
-var mnemonic = "give replace wall divorce exile bleak flame feel pet orient unfair village";
+var mnemonic = "all else field direct penalty spoil all siege deliver twelve act grit";

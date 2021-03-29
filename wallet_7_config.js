@@ -1,1 +1,1 @@
-var mnemonic = "repeat canvas permit ozone own weird region cram dutch control distance life";
+var mnemonic = "feel deputy alter easily actor update bar hunt moon alcohol remind sure";

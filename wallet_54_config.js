@@ -1,1 +1,1 @@
-var mnemonic = "profit away corn gift abstract hand exile shrug fit copper disorder agree";
+var mnemonic = "habit trumpet panther erase ignore same expose space winter parent joy metal";

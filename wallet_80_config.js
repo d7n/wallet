@@ -1,1 +1,1 @@
-var mnemonic = "drill harbor urge grape exhibit other canyon round jump joke super witness";
+var mnemonic = "despair common trip prize venue alien obvious fade pave tag private atom";

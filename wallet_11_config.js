@@ -1,1 +1,1 @@
-var mnemonic = "subject salon member rack scrap diary other wait shine comic emotion sleep";
+var mnemonic = "predict length solution clarify echo release sugar drastic horror ivory play help";

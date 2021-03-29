@@ -1,1 +1,1 @@
-var mnemonic = "private tired spike hub private endorse help enhance grace wish cycle pudding";
+var mnemonic = "coyote border world horn orchard canoe live dice cliff term angle cluster";

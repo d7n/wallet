@@ -1,1 +1,1 @@
-var mnemonic = "cement online garden snow edit cook divide farm high pass cactus fat";
+var mnemonic = "peasant eager student figure heavy neck change stable swap scrub coffee member";

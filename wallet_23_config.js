@@ -1,1 +1,1 @@
-var mnemonic = "evolve dragon cake peace gesture false beauty wing future top mean patrol";
+var mnemonic = "only forward speed minor wisdom want mother child normal enroll cram fruit";

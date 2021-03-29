@@ -1,1 +1,1 @@
-var mnemonic = "brush juice current culture enemy rain aim hungry decrease border push style";
+var mnemonic = "business bless practice empty pattern apple crazy vibrant drill hurdle harbor expose";

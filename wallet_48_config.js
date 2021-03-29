@@ -1,1 +1,1 @@
-var mnemonic = "average confirm turn double veteran hamster dentist slush match jealous cost hidden";
+var mnemonic = "erase congress belt feature teach blue resource pilot senior gap topic exist";

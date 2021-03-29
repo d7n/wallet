@@ -1,1 +1,1 @@
-var mnemonic = "finger around galaxy kid shop devote private high cage dragon pretty option";
+var mnemonic = "donor card step scorpion snap hurt business abuse strong artist blame fun";

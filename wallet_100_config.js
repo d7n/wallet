@@ -1,1 +1,1 @@
-var mnemonic = "warfare lecture diagram absent foam another coach glow buffalo announce song popular";
+var mnemonic = "wheel flower master door census pact push fog artwork barely desk head";

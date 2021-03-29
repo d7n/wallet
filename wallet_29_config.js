@@ -1,1 +1,1 @@
-var mnemonic = "legend movie team grace rather close give receive success flavor trade bullet";
+var mnemonic = "tag keep truck bench start dolphin law swap prison know turkey bridge";

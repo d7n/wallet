@@ -1,1 +1,1 @@
-var mnemonic = "grocery nuclear dish melt parrot protect era certain royal book pledge world";
+var mnemonic = "retire author evoke wool vessel clay resource stick play until trial race";

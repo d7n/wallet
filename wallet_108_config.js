@@ -1,1 +1,1 @@
-var mnemonic = "weapon drink when kit fashion lyrics issue olympic undo angle argue kingdom";
+var mnemonic = "slot laundry call universe question force athlete spray eight license muffin shiver";

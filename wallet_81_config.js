@@ -1,1 +1,1 @@
-var mnemonic = "popular success category one expose explain pilot odor gauge dirt tray hundred";
+var mnemonic = "note chef burger attack harvest service toe ridge battle acquire broken main";

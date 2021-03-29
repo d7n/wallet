@@ -1,1 +1,1 @@
-var mnemonic = "unique visit trash puppy lemon shove rib crowd wear lesson mixture move";
+var mnemonic = "please bulk upgrade meat soap recycle obey blanket actor since miracle magic";

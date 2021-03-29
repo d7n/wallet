@@ -1,1 +1,1 @@
-var mnemonic = "else frog eye hamster purse nature ring mango snap amount forum gospel";
+var mnemonic = "survey then gloom envelope shrimp brain daughter oak soup ancient caution fat";

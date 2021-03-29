@@ -1,1 +1,1 @@
-var mnemonic = "ship mouse quality add slice valve enrich cart shine bicycle mountain robot";
+var mnemonic = "organ check crunch tunnel bread seminar drum express holiday kite call problem";

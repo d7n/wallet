@@ -1,1 +1,1 @@
-var mnemonic = "color someone cushion cotton evoke impact prevent sing achieve tower course smoke";
+var mnemonic = "service rival debris clip unable infant upset either monkey oxygen polar leg";

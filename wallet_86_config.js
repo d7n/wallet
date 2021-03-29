@@ -1,1 +1,1 @@
-var mnemonic = "pattern canal casino either sustain guess route receive staff diary length punch";
+var mnemonic = "cement ozone version poet cute empower buyer zoo legend amount list adult";

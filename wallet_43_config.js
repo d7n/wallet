@@ -1,1 +1,1 @@
-var mnemonic = "real supreme pyramid sauce core similar desk lobster ceiling awesome behave inquiry";
+var mnemonic = "engine spell better twist museum riot sight arctic trend paper bulk wire";

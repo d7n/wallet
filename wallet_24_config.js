@@ -1,1 +1,1 @@
-var mnemonic = "frog mixture need biology ask tide knock absorb only december solar crumble";
+var mnemonic = "grace atom lumber increase scrap annual liberty hazard crime balcony shock flag";

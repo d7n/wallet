@@ -1,1 +1,1 @@
-var mnemonic = "armed pretty flame unique fabric glide vocal wage wink tennis open panic";
+var mnemonic = "orphan confirm dignity vessel cube stove usage desert fringe this supply season";

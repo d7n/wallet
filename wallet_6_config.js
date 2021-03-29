@@ -1,1 +1,1 @@
-var mnemonic = "wall fluid again zone finger census walk soul abandon blanket cotton spy";
+var mnemonic = "device area attitude foot ring then turn fox scorpion gossip oxygen palace";

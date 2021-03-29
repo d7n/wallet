@@ -1,1 +1,1 @@
-var mnemonic = "hotel health tissue basic north diary short school sort item develop market";
+var mnemonic = "faith cable tattoo waste speed coral theme dwarf grow this journey sport";

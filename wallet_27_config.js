@@ -1,1 +1,1 @@
-var mnemonic = "sail quick smooth yard unit high perfect trick music winter organ chimney";
+var mnemonic = "latin gospel double size canvas aunt peasant print radio trade envelope love";

@@ -1,1 +1,1 @@
-var mnemonic = "melt warfare tower angry bus kitten puzzle october lounge hundred attract damp";
+var mnemonic = "client quiz awkward another milk buzz mom random scorpion someone sleep member";

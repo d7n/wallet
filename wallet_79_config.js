@@ -1,1 +1,1 @@
-var mnemonic = "manage flower impact defy strategy inner volume pluck chronic country toward robust";
+var mnemonic = "mesh tissue sleep arena cotton celery merge ancient equal kind what broccoli";

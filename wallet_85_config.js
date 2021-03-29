@@ -1,1 +1,1 @@
-var mnemonic = "burden toast scene donor armor feature gospel paddle final female fit region";
+var mnemonic = "reopen toast rubber buffalo screen clean timber practice second merit federal aim";

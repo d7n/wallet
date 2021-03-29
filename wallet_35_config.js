@@ -1,1 +1,1 @@
-var mnemonic = "avoid shaft where hedgehog lounge sunny clog pause million figure margin evidence";
+var mnemonic = "suspect iron music honey awkward balcony misery category lounge tourist casino gravity";

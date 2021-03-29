@@ -1,1 +1,1 @@
-var mnemonic = "oyster castle liar behind senior steak level demise patch nut advice loyal";
+var mnemonic = "search will lazy item tornado claim weasel napkin gentle owner wood feed";

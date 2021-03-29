@@ -1,1 +1,1 @@
-var mnemonic = "inquiry scout slogan doll crucial tornado snack symbol humble motor dream govern";
+var mnemonic = "open lobster essence column kitten boy blood engine area shield print mansion";

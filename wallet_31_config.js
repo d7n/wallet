@@ -1,1 +1,1 @@
-var mnemonic = "cave swing differ artwork impact nominee tuna jewel police basic transfer include";
+var mnemonic = "pilot city ensure pattern exile split wide shaft velvet orange sock noise";

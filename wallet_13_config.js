@@ -1,1 +1,1 @@
-var mnemonic = "runway safe urge blast inflict mom dentist sentence feel purse toss swarm";
+var mnemonic = "engage unique ripple cluster tuna beef tilt add void tank play bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel donate jar news amazing post tragic kitten kidney quit clown remember";
+var mnemonic = "olive stereo own love pioneer traffic fiber wasp soda forum orchard hurdle";

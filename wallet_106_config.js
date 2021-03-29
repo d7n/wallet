@@ -1,1 +1,1 @@
-var mnemonic = "burger mirror ocean spin odor regret august scrub guitar duty error side";
+var mnemonic = "dust glow bind scene debris winter fame hover basket salmon flee celery";

@@ -1,1 +1,1 @@
-var mnemonic = "surround room ancient program curve sunset island grunt book system oil task";
+var mnemonic = "burden cart slender together clutch reopen sound raw artwork document square cost";

@@ -1,1 +1,1 @@
-var mnemonic = "south bacon author page pistol civil network glance similar stage hungry gun";
+var mnemonic = "benefit smoke provide thunder gun cook glad dumb clutch repair reunion naive";
