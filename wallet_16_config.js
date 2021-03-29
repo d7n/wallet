@@ -1,1 +1,1 @@
-var mnemonic = "keep push later moral style dress clean remind panda oven just meat";
+var mnemonic = "very invite update grant require biology omit nerve cherry illness scrub ankle";

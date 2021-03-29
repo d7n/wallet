@@ -1,1 +1,1 @@
-var mnemonic = "firm later bean rug human fly pen impact anger auto cloth pelican";
+var mnemonic = "front recycle curious sense pen lumber nuclear bracket round blanket consider rookie";

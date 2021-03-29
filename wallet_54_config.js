@@ -1,1 +1,1 @@
-var mnemonic = "harsh sunset veteran company curve march ugly circle inspire depth picnic walnut";
+var mnemonic = "ritual man list fantasy cycle fiber huge card remember abstract bright obtain";

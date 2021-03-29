@@ -1,1 +1,1 @@
-var mnemonic = "simple coconut crane chapter produce ensure blind step slot oil another vanish";
+var mnemonic = "pool found twice census enlist culture innocent setup legend page depart submit";

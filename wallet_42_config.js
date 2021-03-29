@@ -1,1 +1,1 @@
-var mnemonic = "bone enact library morning become breeze dream jewel pioneer time list banner";
+var mnemonic = "twin heavy lunar sort warfare antique garden mistake snake memory lazy spin";

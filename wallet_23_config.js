@@ -1,1 +1,1 @@
-var mnemonic = "wrist credit core december motor coconut crumble miss model joy execute diamond";
+var mnemonic = "reflect total achieve dynamic busy swap head fetch metal destroy width guitar";

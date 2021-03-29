@@ -1,1 +1,1 @@
-var mnemonic = "quarter wolf pond split picture uniform fiber home grant expose shove blind";
+var mnemonic = "phone monitor basic mandate express minimum kid grant movie affair rubber random";

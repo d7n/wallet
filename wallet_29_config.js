@@ -1,1 +1,1 @@
-var mnemonic = "silver reform senior bunker clinic pulp next noodle mansion segment engine skill";
+var mnemonic = "else path mouse orange whip like voice wedding hand devote advice luxury";

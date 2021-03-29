@@ -1,1 +1,1 @@
-var mnemonic = "glove notable oppose obvious century cute repeat appear media pepper turkey message";
+var mnemonic = "sport grief organ inject critic shop love follow develop family rent warm";

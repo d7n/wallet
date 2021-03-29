@@ -1,1 +1,1 @@
-var mnemonic = "swap sponsor hobby finger morning boss section evoke burst tell huge off";
+var mnemonic = "aim roast total island sport tank define suggest artist reduce crouch minimum";

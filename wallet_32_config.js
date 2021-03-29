@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo adult derive ski attitude agree can timber symbol spider pole vacant";
+var mnemonic = "hero orbit butter view spell label choose erosion fitness oyster blanket outside";

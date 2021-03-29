@@ -1,1 +1,1 @@
-var mnemonic = "police indicate have snake desert icon gravity path work identify scheme october";
+var mnemonic = "scrub repeat steel derive cereal nature stone boat useless sibling fun install";

@@ -1,1 +1,1 @@
-var mnemonic = "tongue island need share truth endless true circle valley apology absent olive";
+var mnemonic = "lend guitar tuition silent rich come slim crop room stock globe predict";

@@ -1,1 +1,1 @@
-var mnemonic = "equip cupboard divert clip erode empty during slush play dentist level slice";
+var mnemonic = "short culture trouble around march wink brass cram foam zero cluster name";

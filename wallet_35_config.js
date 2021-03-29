@@ -1,1 +1,1 @@
-var mnemonic = "kitchen enlist grace talk square arch knee just noble problem unfair merge";
+var mnemonic = "click broken innocent frame insane mechanic scatter sand purchase sketch lyrics correct";

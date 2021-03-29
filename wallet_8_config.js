@@ -1,1 +1,1 @@
-var mnemonic = "must either boil sign inside slow holiday extra piano nuclear bright same";
+var mnemonic = "goddess system trial number despair squeeze upper behave cool wave catch matter";

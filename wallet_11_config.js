@@ -1,1 +1,1 @@
-var mnemonic = "genius cat essay metal hero naive van process rely mutual skull valid";
+var mnemonic = "trophy brother okay result concert hybrid now kite educate peace ski cupboard";

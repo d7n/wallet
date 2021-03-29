@@ -1,1 +1,1 @@
-var mnemonic = "brisk budget aware demise volcano minute glass mountain off pyramid cactus caution";
+var mnemonic = "nose infant client diesel acid blanket hazard biology gather country similar bench";

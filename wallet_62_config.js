@@ -1,1 +1,1 @@
-var mnemonic = "kind arrange short mosquito frog height arrange shrug food carpet genuine permit";
+var mnemonic = "tribe icon anxiety burst will fiber help open trap evil spatial stool";

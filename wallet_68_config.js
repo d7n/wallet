@@ -1,1 +1,1 @@
-var mnemonic = "follow egg hover coconut offer police unique glimpse rate climb aerobic next";
+var mnemonic = "define age omit attend click avoid paddle dolphin enhance casual space idle";

@@ -1,1 +1,1 @@
-var mnemonic = "romance video grunt flavor vivid citizen romance size dream burger certain jungle";
+var mnemonic = "record elite ill critic below cram panda keep fragile pledge junk weasel";

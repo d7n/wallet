@@ -1,1 +1,1 @@
-var mnemonic = "blush assault cost unveil flash van amount decline prevent renew pizza capital";
+var mnemonic = "bacon word cotton organ crane meat puzzle couple tomorrow usage blast figure";

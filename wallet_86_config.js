@@ -1,1 +1,1 @@
-var mnemonic = "ask umbrella depend old wood stick torch bubble asset expose man movie";
+var mnemonic = "region exist zebra giant cattle you hill unusual alone second educate kite";

@@ -1,1 +1,1 @@
-var mnemonic = "strong soccer patrol orchard canoe input false fire silk upset double unaware";
+var mnemonic = "fatal blame neither waste onion layer day burger fortune vacuum recall industry";

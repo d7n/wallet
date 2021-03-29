@@ -1,1 +1,1 @@
-var mnemonic = "sting offer thunder thumb sword adjust copy oil figure bubble common universe";
+var mnemonic = "supply renew toward wide gate sudden hurry card quit actual open matter";

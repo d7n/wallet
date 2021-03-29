@@ -1,1 +1,1 @@
-var mnemonic = "source stereo grant tuition early bracket truck face remind glass base bottom";
+var mnemonic = "sheriff behave evidence bar rotate grape super gospel still flag earth fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "answer walk fossil text cart stem swift neglect grape wine resist gesture";
+var mnemonic = "quarter stove marine danger top forget target glad intact brief wool ostrich";

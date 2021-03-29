@@ -1,1 +1,1 @@
-var mnemonic = "damage direct morning carbon hundred radio beyond rack cliff above keen faint";
+var mnemonic = "miracle cube eyebrow hurdle exhibit frog stage useful minute frequent pretty point";

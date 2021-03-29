@@ -1,1 +1,1 @@
-var mnemonic = "type attend carry giraffe video boy cattle approve phrase six romance vacant";
+var mnemonic = "response brown vicious subway salon report tumble logic auction story reward layer";

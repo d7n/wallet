@@ -1,1 +1,1 @@
-var mnemonic = "limb hawk ribbon sugar blanket antique lunch wood village elevator phrase mesh";
+var mnemonic = "father hamster supreme measure news leg supreme rapid winner light slot priority";

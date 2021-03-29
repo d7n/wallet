@@ -1,1 +1,1 @@
-var mnemonic = "nephew night dial solid silly betray alien require pluck cement have document";
+var mnemonic = "pilot cup excite divide equal vicious achieve clutch hurry flower thunder abandon";

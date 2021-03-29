@@ -1,1 +1,1 @@
-var mnemonic = "clerk mosquito master spirit mass glass wise lend enroll symptom dance erupt";
+var mnemonic = "degree fetch grief afraid come human kangaroo winter equip defense outside adapt";

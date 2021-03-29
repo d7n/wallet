@@ -1,1 +1,1 @@
-var mnemonic = "draw crunch pool cabbage patch metal merry smile replace hamster normal build";
+var mnemonic = "pottery fame near ripple tag prize soul giraffe lady custom basket below";

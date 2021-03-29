@@ -1,1 +1,1 @@
-var mnemonic = "brown snow powder relax govern young ketchup retreat gadget party opera pink";
+var mnemonic = "measure pottery wet random upset bridge middle era cousin cross oppose blind";

@@ -1,1 +1,1 @@
-var mnemonic = "steel frequent donate outer point debris chat display stock hood wire scout";
+var mnemonic = "orange grief snow lounge over pilot miss banana finish current ordinary praise";

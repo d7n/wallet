@@ -1,1 +1,1 @@
-var mnemonic = "stone typical kick lab client giraffe garment vacuum clarify much educate grunt";
+var mnemonic = "pizza curve ostrich primary acid crash hobby verb piano enough hawk visa";

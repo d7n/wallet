@@ -1,1 +1,1 @@
-var mnemonic = "bracket find hurdle buzz credit famous sadness shoe remind ridge amazing foster";
+var mnemonic = "vibrant virus arena avocado custom image hospital differ between rally acoustic another";

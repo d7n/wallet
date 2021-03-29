@@ -1,1 +1,1 @@
-var mnemonic = "raccoon depth donate smile brick crunch fetch business artwork advice arrest similar";
+var mnemonic = "fantasy visa cliff eagle gentle install bachelor remove patient volcano bid torch";

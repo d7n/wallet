@@ -1,1 +1,1 @@
-var mnemonic = "cry north fashion rifle mixed usage what visit lock desk food grid";
+var mnemonic = "seed into scheme express bless apology custom help course record genre pink";

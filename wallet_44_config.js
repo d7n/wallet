@@ -1,1 +1,1 @@
-var mnemonic = "wrap around pigeon virtual dolphin frown verify promote rule lion ticket supply";
+var mnemonic = "pumpkin volume post measure faculty forget indicate ethics bubble sure season remove";

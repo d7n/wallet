@@ -1,1 +1,1 @@
-var mnemonic = "brush quit real royal clever monster arrow slice genuine quarter urge record";
+var mnemonic = "slow blast local ski come conduct tenant arm curious beyond drama float";

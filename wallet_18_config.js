@@ -1,1 +1,1 @@
-var mnemonic = "hub alert link jeans spy prize home scissors mother trust matter camera";
+var mnemonic = "deny balcony portion helmet arch ghost when main someone eternal fold tank";

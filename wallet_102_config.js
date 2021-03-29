@@ -1,1 +1,1 @@
-var mnemonic = "pitch tired orient defense galaxy useless absorb exact frost urge edge someone";
+var mnemonic = "angry sail lamp wool soup task rail pause evoke wrong attack genuine";

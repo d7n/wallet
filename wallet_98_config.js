@@ -1,1 +1,1 @@
-var mnemonic = "forward squeeze aisle issue clay top knee endorse kitten relief marriage vintage";
+var mnemonic = "layer speed rare thought embark oil juice fragile custom action bleak clutch";

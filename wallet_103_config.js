@@ -1,1 +1,1 @@
-var mnemonic = "puppy resource finger shell profit hawk dolphin large glory pass airport remember";
+var mnemonic = "oven garlic patient unfold cousin bird scrap recall jaguar weird brush dog";

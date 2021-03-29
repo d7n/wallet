@@ -1,1 +1,1 @@
-var mnemonic = "move chronic manual indoor palm candy multiply sibling jazz rookie disease lend";
+var mnemonic = "purity yard defy retire slim rain unhappy sense job goat decade dove";

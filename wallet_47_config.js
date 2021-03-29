@@ -1,1 +1,1 @@
-var mnemonic = "because scheme draft ugly leisure aisle among dolphin fly private kid item";
+var mnemonic = "reunion transfer hole rib decline tattoo soda valley eight crisp trade gloom";

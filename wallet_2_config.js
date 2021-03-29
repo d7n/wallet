@@ -1,1 +1,1 @@
-var mnemonic = "bundle case remember topple because shed fun seat resource rail obey apart";
+var mnemonic = "deer crazy cannon uncover owner recipe glow this capital silly city onion";

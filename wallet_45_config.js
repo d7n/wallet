@@ -1,1 +1,1 @@
-var mnemonic = "ring velvet seed rocket void aunt nation split duck aware neck distance";
+var mnemonic = "mistake fruit bachelor ordinary problem item client outer collect yard save talent";

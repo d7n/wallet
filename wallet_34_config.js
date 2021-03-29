@@ -1,1 +1,1 @@
-var mnemonic = "mom scare lottery problem runway weasel orbit forget prevent hobby will pepper";
+var mnemonic = "satoshi lawn excess jar submit ancient cereal cause essay stereo doctor wife";

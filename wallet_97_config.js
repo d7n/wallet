@@ -1,1 +1,1 @@
-var mnemonic = "cancel regular buddy traffic talk dice vicious arch enlist ketchup two file";
+var mnemonic = "once one pig minute route desert tennis oval pudding memory pony double";

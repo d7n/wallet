@@ -1,1 +1,1 @@
-var mnemonic = "stool claim tray spice clip sign rate flavor produce notable pretty danger";
+var mnemonic = "crouch describe bicycle faculty fun cement globe design cabin asthma eight submit";

@@ -1,1 +1,1 @@
-var mnemonic = "lyrics smooth pride olympic cream inmate forward bind pistol traffic neglect cupboard";
+var mnemonic = "delay exile arch believe nephew volume dwarf rabbit cradle glare rigid iron";

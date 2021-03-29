@@ -1,1 +1,1 @@
-var mnemonic = "venture notable renew shell mechanic address urge guitar envelope winter eager bag";
+var mnemonic = "want bread parrot true person lemon warrior wasp bean laptop beach wreck";

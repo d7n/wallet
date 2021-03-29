@@ -1,1 +1,1 @@
-var mnemonic = "ice hospital amused push almost raven ostrich verb pen lunar warm prefer";
+var mnemonic = "lottery joy goat evil hurt winter chase fold rich member better primary";

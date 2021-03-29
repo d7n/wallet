@@ -1,1 +1,1 @@
-var mnemonic = "ethics ensure unable news process flee canvas flat vapor repeat legal wait";
+var mnemonic = "first trouble stairs cycle fortune copper jazz medal exclude safe quiz dish";

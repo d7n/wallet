@@ -1,1 +1,1 @@
-var mnemonic = "cloud scrap demand library bring language tired country vivid excite town future";
+var mnemonic = "depth trophy clip fox essay muscle copper eternal symbol civil logic throw";

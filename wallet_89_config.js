@@ -1,1 +1,1 @@
-var mnemonic = "zebra deal coral issue wide love evil gesture fever code century island";
+var mnemonic = "behave smoke pony feed approve reject eternal online add journey major grant";

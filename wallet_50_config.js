@@ -1,1 +1,1 @@
-var mnemonic = "lecture square blossom helmet undo flight rocket cat govern inmate basic human";
+var mnemonic = "patient orbit general frown again fly weapon opinion aware kit planet trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "turkey weapon coil upon anchor together argue auction sauce glow prepare rather";
+var mnemonic = "alley soap clip rib elegant blur old brick latin effort gossip concert";

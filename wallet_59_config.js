@@ -1,1 +1,1 @@
-var mnemonic = "near stumble illness buffalo twelve indoor distance web stadium heart submit pyramid";
+var mnemonic = "amazing foil scale quick maze flock soul bulk husband client vendor plug";

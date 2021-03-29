@@ -1,1 +1,1 @@
-var mnemonic = "right flash snake toddler shiver judge agree box corn start door mass";
+var mnemonic = "cable outdoor inner sail crime fever deny siren people little hurry captain";

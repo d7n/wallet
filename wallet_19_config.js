@@ -1,1 +1,1 @@
-var mnemonic = "notice hero law calm moral zone hotel depth dream wash input between";
+var mnemonic = "demise meadow badge elbow venture throw host young october quarter legend sure";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon yellow outside cabin scissors athlete inform banner frog screen income hazard";
+var mnemonic = "alpha license arrow cry volume floor false destroy digital spike tennis fluid";

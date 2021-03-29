@@ -1,1 +1,1 @@
-var mnemonic = "silk security earn pause rigid dilemma tide recipe youth loan weasel flame";
+var mnemonic = "copper sadness quick pretty board unfair luggage box address bridge boy torch";

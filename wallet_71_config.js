@@ -1,1 +1,1 @@
-var mnemonic = "arena tornado cluster craft people hard head naive pupil solar sausage donor";
+var mnemonic = "gas dinner mammal flee burger approve roast zero guide vacuum palm hen";

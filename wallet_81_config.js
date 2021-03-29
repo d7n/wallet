@@ -1,1 +1,1 @@
-var mnemonic = "cluster volcano impulse hammer hint open person ordinary screen range usual language";
+var mnemonic = "grit midnight travel install lift rally wisdom keen dinner phrase luxury rude";

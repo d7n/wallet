@@ -1,1 +1,1 @@
-var mnemonic = "twist forget change rookie flight scrub human fire flame guard cook lizard";
+var mnemonic = "negative divert during major anger loud voice cram client sadness cloud load";

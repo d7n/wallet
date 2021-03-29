@@ -1,1 +1,1 @@
-var mnemonic = "bleak laugh erode term cloth goose filter soon also skull armed bargain";
+var mnemonic = "know cake provide embrace visual tissue faculty agree region access blue kitten";

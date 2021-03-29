@@ -1,1 +1,1 @@
-var mnemonic = "panther dust twin review vehicle dwarf gaze chat marble finish year duck";
+var mnemonic = "lady shy panic offer biology tooth wrap timber silver rebuild metal benefit";

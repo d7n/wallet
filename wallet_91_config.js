@@ -1,1 +1,1 @@
-var mnemonic = "sausage harsh habit regular meat surround alert nominee nature rain impose ten";
+var mnemonic = "oxygen magic motor blame adapt flee venue core oil salmon stock diesel";

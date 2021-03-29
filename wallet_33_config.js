@@ -1,1 +1,1 @@
-var mnemonic = "credit cycle potato valve sense anxiety scrap liquid car mesh talent twist";
+var mnemonic = "craft beach reduce garment cross over soccer mail false under half wealth";

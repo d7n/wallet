@@ -1,1 +1,1 @@
-var mnemonic = "pill clap profit genius decade spoil call stomach where knee inside anger";
+var mnemonic = "feel patient spread punch visit skate first submit reform hurdle diet ramp";

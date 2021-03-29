@@ -1,1 +1,1 @@
-var mnemonic = "hold cruel funny sense canoe party hover hub junk midnight youth weapon";
+var mnemonic = "tennis spot aspect ridge unable birth settle kite width planet focus fatigue";

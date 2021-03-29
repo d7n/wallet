@@ -1,1 +1,1 @@
-var mnemonic = "shield still mimic guess believe spoil season roof carpet fluid myth ocean";
+var mnemonic = "valley wreck matrix gate sick gallery tackle sleep stick erupt sunset reform";

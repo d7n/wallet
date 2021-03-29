@@ -1,1 +1,1 @@
-var mnemonic = "stay blind beyond teach believe duty combine match near simple grass traffic";
+var mnemonic = "salute slight story response amount lesson jacket flat body act cruel parrot";

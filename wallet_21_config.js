@@ -1,1 +1,1 @@
-var mnemonic = "language transfer laptop dune youth wonder title auto april evoke blossom more";
+var mnemonic = "drum pistol virtual pulp cream burger demand guide flush valve major fragile";

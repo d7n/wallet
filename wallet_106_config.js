@@ -1,1 +1,1 @@
-var mnemonic = "couch priority copper cricket federal pepper toddler result cliff police release dune";
+var mnemonic = "nuclear among athlete oblige rose medal flavor tenant cup abuse sudden vibrant";

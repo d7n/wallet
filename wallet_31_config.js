@@ -1,1 +1,1 @@
-var mnemonic = "outdoor unlock front bunker anger curve target then crumble metal eternal diamond";
+var mnemonic = "author broken text people regret fat bitter army please give spirit lounge";

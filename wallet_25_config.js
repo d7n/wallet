@@ -1,1 +1,1 @@
-var mnemonic = "possible rose shy address venue immune umbrella secret unfair split pattern palace";
+var mnemonic = "vivid opinion corn cute axis public arrive ask smoke globe verb solution";

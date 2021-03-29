@@ -1,1 +1,1 @@
-var mnemonic = "pencil vanish hub depend range diary heart merit need inspire hawk balcony";
+var mnemonic = "million glove clarify exact raise guide peace gas empower weather case year";

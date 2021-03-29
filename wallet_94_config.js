@@ -1,1 +1,1 @@
-var mnemonic = "grace endless head gather waste write sunny cable toddler giraffe brush alarm";
+var mnemonic = "write vibrant cluster carbon labor awkward cruel make dose region denial vivid";

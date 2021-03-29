@@ -1,1 +1,1 @@
-var mnemonic = "mention breeze auto battle salon foot dinosaur roof culture fence craft ripple";
+var mnemonic = "yellow diesel thumb venue auction common shop olive maple olympic mouse unique";

@@ -1,1 +1,1 @@
-var mnemonic = "rose miracle winner process few announce waste mammal energy today identify polar";
+var mnemonic = "acoustic try earn length wrestle add used dust insect two despair spy";

@@ -1,1 +1,1 @@
-var mnemonic = "analyst enrich voyage brave matrix group girl water market fantasy fortune distance";
+var mnemonic = "combine female grief pave print reform yellow flower humble odor huge farm";

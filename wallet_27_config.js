@@ -1,1 +1,1 @@
-var mnemonic = "scene divert double split mixed hazard memory coach doll attend layer extend";
+var mnemonic = "control pill great bargain avoid injury found stand need umbrella grunt dune";

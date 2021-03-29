@@ -1,1 +1,1 @@
-var mnemonic = "pen title tobacco laptop carry honey winner peace decline valley cattle reduce";
+var mnemonic = "truly gadget wing age debris favorite squirrel age narrow erupt turtle episode";

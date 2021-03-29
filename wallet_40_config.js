@@ -1,1 +1,1 @@
-var mnemonic = "slogan bid inflict before anger illness seven repeat close science blush tobacco";
+var mnemonic = "exotic relax exhaust switch vicious type train motion business panel use casino";

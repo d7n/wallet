@@ -1,1 +1,1 @@
-var mnemonic = "legal search release fatigue together winner print trigger cook evoke expire bulb";
+var mnemonic = "fabric female refuse obtain dolphin useful salad transfer program loan skirt sauce";

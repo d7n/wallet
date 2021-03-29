@@ -1,1 +1,1 @@
-var mnemonic = "nurse script seat document mule host attack wagon long shell flight embark";
+var mnemonic = "lend rule home buffalo spy dirt people menu decade burden lounge mom";

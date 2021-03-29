@@ -1,1 +1,1 @@
-var mnemonic = "suit usual step garage mask belt practice bicycle defy emotion nation annual";
+var mnemonic = "wage uphold sand congress young cost neutral squeeze trend radar nut woman";

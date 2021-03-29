@@ -1,1 +1,1 @@
-var mnemonic = "rely club session sugar portion drill daring car slender bracket try measure";
+var mnemonic = "cave denial february rubber thunder inmate rare seed flag merge humor rather";

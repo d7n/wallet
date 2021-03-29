@@ -1,1 +1,1 @@
-var mnemonic = "swamp soldier winter outdoor gap jeans armed month purity never short cost";
+var mnemonic = "front ribbon stuff alert position boss sight liar border modify beauty sight";

@@ -1,1 +1,1 @@
-var mnemonic = "soft trend concert rate special horror crumble resist room embody nuclear jazz";
+var mnemonic = "gate loop eagle earth multiply humble peasant broken depend please zebra there";
