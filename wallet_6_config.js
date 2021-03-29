@@ -1,1 +1,1 @@
-var mnemonic = "chapter allow sister client image moon enable topic old lend ginger purchase";
+var mnemonic = "segment spread drastic pledge jewel infant kitten embark market taste reason tragic";

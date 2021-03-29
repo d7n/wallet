@@ -1,1 +1,1 @@
-var mnemonic = "battle load actor stuff fame other scout unable basket lesson culture sample";
+var mnemonic = "improve follow brief century waste actor caught letter piece lawn range reopen";

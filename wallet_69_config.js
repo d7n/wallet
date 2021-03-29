@@ -1,1 +1,1 @@
-var mnemonic = "diesel later friend cargo render disorder chapter idea antenna feed negative employ";
+var mnemonic = "predict guitar net curious tiger cost wink subway rail vapor steak inside";

@@ -1,1 +1,1 @@
-var mnemonic = "inject evoke crucial gas cute short neglect ribbon spirit stove super agree";
+var mnemonic = "deposit reopen addict tail interest because allow scan before cute hedgehog mercy";

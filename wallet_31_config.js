@@ -1,1 +1,1 @@
-var mnemonic = "junior celery mother popular neutral craft setup cream silver slim noble left";
+var mnemonic = "upset advance protect major garden express mule gossip industry seven island entry";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct school promote squeeze wagon together museum during select arrest wise census";
+var mnemonic = "lazy panther public useful toilet figure hammer various apology ice cream cactus";

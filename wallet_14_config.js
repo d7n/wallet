@@ -1,1 +1,1 @@
-var mnemonic = "weekend creek initial orange bamboo trim satoshi act mass jungle seek lend";
+var mnemonic = "state ancient whale lab view slogan essay dawn behind witness common stool";

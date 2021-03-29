@@ -1,1 +1,1 @@
-var mnemonic = "over clip gaze box music visa prize dutch wide radar cat pupil";
+var mnemonic = "leader machine abandon giant valve allow dash define turkey pig among hollow";

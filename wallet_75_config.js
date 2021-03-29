@@ -1,1 +1,1 @@
-var mnemonic = "pony reason engage capable soccer coach invite wrist gain price behave flame";
+var mnemonic = "shift copper addict park lava cancel zone brisk renew below uncle stable";

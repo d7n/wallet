@@ -1,1 +1,1 @@
-var mnemonic = "exchange again please door tiny stamp icon foot oxygen wise inside misery";
+var mnemonic = "soup problem memory faith seven surprise cross have owner paper chief company";

@@ -1,1 +1,1 @@
-var mnemonic = "depend ramp tent maid state immense vapor bring doctor cube mask jar";
+var mnemonic = "current between hole faculty friend attend salute film frame soup analyst journey";

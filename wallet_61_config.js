@@ -1,1 +1,1 @@
-var mnemonic = "glow salute present zone husband stable annual cook rural bind weapon foam";
+var mnemonic = "dog zero unfold prison verb resource giggle drill novel notice category they";

@@ -1,1 +1,1 @@
-var mnemonic = "grit company level eternal update skin silver slow involve planet lawsuit section";
+var mnemonic = "network early law elite easily mix shed trust program wage stuff afford";

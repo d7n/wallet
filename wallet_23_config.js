@@ -1,1 +1,1 @@
-var mnemonic = "option left rebuild obscure debate inquiry brother skill address stuff bring various";
+var mnemonic = "breeze cricket step image decline fade ticket domain another skate eagle problem";

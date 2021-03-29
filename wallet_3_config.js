@@ -1,1 +1,1 @@
-var mnemonic = "priority asset bitter memory scale attract hood sail mixed lawn menu slight";
+var mnemonic = "mobile charge grant reform hand cannon senior lumber moral elite shoe engage";

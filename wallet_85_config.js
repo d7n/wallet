@@ -1,1 +1,1 @@
-var mnemonic = "tumble random federal climb saddle summer immune lava shock sound hammer letter";
+var mnemonic = "rose artwork chef husband giraffe object tide raise decide alert august grocery";

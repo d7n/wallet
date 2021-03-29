@@ -1,1 +1,1 @@
-var mnemonic = "during warrior transfer winner inmate cherry vehicle material boy few fortune blue";
+var mnemonic = "pave drive tackle crunch boost fruit erupt twin frown mechanic trend heavy";

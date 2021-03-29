@@ -1,1 +1,1 @@
-var mnemonic = "purchase welcome chicken company nest need hover fine injury super diamond find";
+var mnemonic = "rocket original apology lady mystery book lady cherry hello hundred scare that";

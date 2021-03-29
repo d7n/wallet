@@ -1,1 +1,1 @@
-var mnemonic = "option educate decide basket rely daughter sort walnut nation rapid language youth";
+var mnemonic = "maid dwarf govern time rose purse gorilla few room note short weather";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic hold space whale weather cook two maple tilt crop grid eager";
+var mnemonic = "pluck agent measure lawsuit ensure pink jeans memory spy cereal shadow kidney";

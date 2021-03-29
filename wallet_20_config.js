@@ -1,1 +1,1 @@
-var mnemonic = "spot ecology off mushroom pelican asset protect truck evil rib extra excite";
+var mnemonic = "surround universe lemon adapt result volcano mirror junior item daring script warfare";

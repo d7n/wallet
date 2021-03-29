@@ -1,1 +1,1 @@
-var mnemonic = "general barrel pluck twelve promote drill absurd alone chuckle crouch sadness midnight";
+var mnemonic = "turkey tomorrow clerk race sun sword derive dress three caught among entry";

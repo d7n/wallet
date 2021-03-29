@@ -1,1 +1,1 @@
-var mnemonic = "just scatter symbol seek need soldier lounge useless twice mule diesel caution";
+var mnemonic = "reject offer stone category element pony security decide pudding catch horn traffic";

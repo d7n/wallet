@@ -1,1 +1,1 @@
-var mnemonic = "castle traffic detail salon neck chapter animal stadium great resist attract drift";
+var mnemonic = "hurdle such south useless excite slam report gentle author ripple practice once";

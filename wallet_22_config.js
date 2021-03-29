@@ -1,1 +1,1 @@
-var mnemonic = "rebel acquire path kit section seven crowd all clown loan royal audit";
+var mnemonic = "keep cluster nice useless sword ginger maple noise van glide seven execute";

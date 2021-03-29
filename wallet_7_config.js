@@ -1,1 +1,1 @@
-var mnemonic = "purpose drift garage cart scene list regular penalty brother left eternal finish";
+var mnemonic = "pyramid cable fix rule square race mirror book dice shy spice cave";

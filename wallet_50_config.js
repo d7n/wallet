@@ -1,1 +1,1 @@
-var mnemonic = "couple bulk require uncle modify farm fetch chat spawn disease child robust";
+var mnemonic = "medal achieve allow ecology valve celery away guitar energy wool rather today";

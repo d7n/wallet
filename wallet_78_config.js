@@ -1,1 +1,1 @@
-var mnemonic = "moon ladder armed sleep barrel effort firm foam soccer empower vendor grocery";
+var mnemonic = "turkey shield way boost brush struggle december grow acquire vocal click mosquito";

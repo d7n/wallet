@@ -1,1 +1,1 @@
-var mnemonic = "capable correct curtain shuffle garden tape hunt ensure daughter supply weapon trim";
+var mnemonic = "april casual column curtain train air uphold museum oyster bronze victory salute";

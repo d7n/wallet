@@ -1,1 +1,1 @@
-var mnemonic = "three bullet then nasty document lava sock dog rebuild glory ride spell";
+var mnemonic = "scale more resist virus lazy industry indicate enact horror since defy pilot";

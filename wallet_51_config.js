@@ -1,1 +1,1 @@
-var mnemonic = "party denial hawk alert vibrant train crouch local apology romance column common";
+var mnemonic = "drift cause eager casino cannon eight alert cup ridge miracle repair visa";

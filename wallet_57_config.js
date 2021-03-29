@@ -1,1 +1,1 @@
-var mnemonic = "shoot recycle track client helmet onion style property helmet around aspect era";
+var mnemonic = "stock rare tortoise swift ribbon cruel brick sweet issue enable target resource";

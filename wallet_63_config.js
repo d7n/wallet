@@ -1,1 +1,1 @@
-var mnemonic = "useless swing picnic tragic work arm shadow glove seek lady pave curious";
+var mnemonic = "month aisle ranch edit age view remember develop flock enrich rescue pill";

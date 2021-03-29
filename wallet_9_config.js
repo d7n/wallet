@@ -1,1 +1,1 @@
-var mnemonic = "venue about object state era pass busy task humble large ethics grit";
+var mnemonic = "what exchange come major run loop before viable ripple obvious spare marble";

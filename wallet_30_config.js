@@ -1,1 +1,1 @@
-var mnemonic = "deputy fire surround knee kitten screen blanket swap glad type forest foster";
+var mnemonic = "goddess carpet cash outdoor iron know lake damp jungle urban call author";

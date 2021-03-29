@@ -1,1 +1,1 @@
-var mnemonic = "suffer behave salon barely monitor slim frame glory pizza orange hover robot";
+var mnemonic = "pepper cart crane chicken circle security reunion forget feed object piece deposit";

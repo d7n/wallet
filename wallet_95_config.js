@@ -1,1 +1,1 @@
-var mnemonic = "pass army goat monitor length impose expire across wealth silver marble bulk";
+var mnemonic = "picture original hunt panel lyrics warrior soup bike horse fantasy rug essay";

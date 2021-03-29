@@ -1,1 +1,1 @@
-var mnemonic = "visual behave gossip then fancy around idea van deny mesh segment keep";
+var mnemonic = "door blade indicate ensure price company horn beauty gather bird moment rapid";

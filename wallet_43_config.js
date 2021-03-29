@@ -1,1 +1,1 @@
-var mnemonic = "proof peace scrub light winter certain rug betray retreat only pony olive";
+var mnemonic = "panic salute timber birth special art leaf auto system please crime dove";

@@ -1,1 +1,1 @@
-var mnemonic = "donate bleak exhaust bachelor screen gauge village piece crane length choice board";
+var mnemonic = "power cake allow heavy uncle cushion doctor climb deposit assume speed view";

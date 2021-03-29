@@ -1,1 +1,1 @@
-var mnemonic = "inject summer sketch wealth reduce easily moon myself wrestle venture seven trial";
+var mnemonic = "hire nice capital receive aspect soft spend hire address quantum enlist better";

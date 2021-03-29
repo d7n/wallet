@@ -1,1 +1,1 @@
-var mnemonic = "bundle village live joke team various chief junior lecture possible fever surface";
+var mnemonic = "decorate ask april large affair alley never together crew opera force casual";

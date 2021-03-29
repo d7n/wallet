@@ -1,1 +1,1 @@
-var mnemonic = "genius funny latin giggle spawn small gift trigger base chair sail inch";
+var mnemonic = "wild tortoise slot oyster coffee weasel split notable enter length shock sort";

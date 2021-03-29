@@ -1,1 +1,1 @@
-var mnemonic = "salt name verify forest despair cinnamon wonder brave crucial buddy bench hill";
+var mnemonic = "retire shop video twin glad make bubble slow luxury toe magic mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "jelly maze fee wrong rude tongue parent strike ranch keen solid quantum";
+var mnemonic = "mosquito sense nephew family claw social garden sketch oyster unique wood receive";

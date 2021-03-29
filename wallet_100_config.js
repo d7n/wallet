@@ -1,1 +1,1 @@
-var mnemonic = "position piano crush kite diamond find settle assault tray pulse benefit mass";
+var mnemonic = "lava biology you talk pony shell entry sheriff write quiz volume total";

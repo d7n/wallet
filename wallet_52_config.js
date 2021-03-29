@@ -1,1 +1,1 @@
-var mnemonic = "tape install opera robot drift snake farm foster spirit scout member display";
+var mnemonic = "pull rival unveil jungle lunch cloth rubber quote resemble conduct theory meat";

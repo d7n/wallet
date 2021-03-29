@@ -1,1 +1,1 @@
-var mnemonic = "ready lawn ranch memory injury hour course polar benefit video sand sausage";
+var mnemonic = "game rebuild history wide garage neglect wine rotate pull idea wool blue";

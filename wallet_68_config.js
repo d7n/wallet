@@ -1,1 +1,1 @@
-var mnemonic = "decrease team sign assist exclude picnic ten oppose replace breeze twelve inch";
+var mnemonic = "remain again recall sing mansion woman sorry polar slush ribbon strategy dizzy";

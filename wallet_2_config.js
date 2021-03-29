@@ -1,1 +1,1 @@
-var mnemonic = "fly visa cement advance must divorce pioneer bomb address clog spatial vendor";
+var mnemonic = "fan rate upset vacuum wall flavor access quality decline risk knife empty";

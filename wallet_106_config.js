@@ -1,1 +1,1 @@
-var mnemonic = "hat funny polar reject round wrestle school plate awful magic large fancy";
+var mnemonic = "asthma elevator curve next assume pear sun enforce isolate open cup slab";

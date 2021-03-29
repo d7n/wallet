@@ -1,1 +1,1 @@
-var mnemonic = "feature portion clog paddle swear dad pepper absurd soft sport spare cable";
+var mnemonic = "immune bundle side icon feel total dance tuna furnace album breeze describe";

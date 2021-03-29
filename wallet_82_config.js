@@ -1,1 +1,1 @@
-var mnemonic = "sausage acid fever useful win basket educate deliver scheme ripple vintage acquire";
+var mnemonic = "deputy boy seven immense daring juice range grain country apart remove stay";

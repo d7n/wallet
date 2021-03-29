@@ -1,1 +1,1 @@
-var mnemonic = "jelly attract when gift achieve uncle point flee success harbor violin cat";
+var mnemonic = "friend long purity fever view pipe shed slab choose current large original";

@@ -1,1 +1,1 @@
-var mnemonic = "idea impulse angry soap material knee exclude sentence enforce menu popular enhance";
+var mnemonic = "resemble minor click armor pelican appear maid dose winner night addict wheel";

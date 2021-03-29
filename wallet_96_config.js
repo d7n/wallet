@@ -1,1 +1,1 @@
-var mnemonic = "avoid hybrid afford burden unknown void quarter bacon ketchup found check prepare";
+var mnemonic = "negative anxiety sick radar absorb gaze work short right zone code design";

@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon layer soup nominee chapter company fall chaos safe impose exhibit same";
+var mnemonic = "always inject side coral scene food mystery grocery guitar absurd debris moon";

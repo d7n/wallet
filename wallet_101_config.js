@@ -1,1 +1,1 @@
-var mnemonic = "visa mixture once tape dawn toss urge salad female dumb fire elevator";
+var mnemonic = "planet flash throw roast grow lunch soap orphan school idle source during";

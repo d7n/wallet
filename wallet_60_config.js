@@ -1,1 +1,1 @@
-var mnemonic = "useful punch panther matter bronze mutual tube across urban weather crisp crucial";
+var mnemonic = "globe orange man resource second chaos mass boss reason solid park senior";

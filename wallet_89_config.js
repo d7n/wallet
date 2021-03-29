@@ -1,1 +1,1 @@
-var mnemonic = "balance explain cable sail stand decide shop trick material husband nose west";
+var mnemonic = "gate scale dolphin replace food tobacco crime model tribe keen behind unfair";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent armed already under kite win clog legend before infant alter august";
+var mnemonic = "amused antenna mobile broken marriage pause gown purity rival culture live doctor";

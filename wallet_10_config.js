@@ -1,1 +1,1 @@
-var mnemonic = "lyrics tank toddler atom worth business hobby shield hero race use flag";
+var mnemonic = "narrow injury uphold unhappy nuclear win chuckle vintage rally curious address art";

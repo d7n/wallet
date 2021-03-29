@@ -1,1 +1,1 @@
-var mnemonic = "truck throw drift enable demise noodle inch tape dial tool jealous light";
+var mnemonic = "peasant sample mimic put friend member fringe general flag genius before laundry";

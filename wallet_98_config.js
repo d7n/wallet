@@ -1,1 +1,1 @@
-var mnemonic = "energy busy main idea bottom bird potato lake disorder affair rubber garbage";
+var mnemonic = "cable flag hub extra ski toy oil title verify candy trouble better";

@@ -1,1 +1,1 @@
-var mnemonic = "ivory panther earth recipe forward current young liquid hungry satisfy picnic good";
+var mnemonic = "napkin window stomach inform worry glance forest elegant shop police snake cluster";

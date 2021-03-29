@@ -1,1 +1,1 @@
-var mnemonic = "together force forum cattle reflect margin tackle asthma draft valve subject lottery";
+var mnemonic = "february tortoise zoo menu left decorate treat saddle spirit once clever dry";

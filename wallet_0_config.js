@@ -1,1 +1,1 @@
-var mnemonic = "awkward protect drill usage fiber pottery silver child bottom loop senior proud";
+var mnemonic = "door depth media vanish cricket shove account distance organ fortune kitchen auction";

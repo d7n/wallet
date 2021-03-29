@@ -1,1 +1,1 @@
-var mnemonic = "remove arena rural relax aware verb engine mad moment lounge lava own";
+var mnemonic = "amused arena genuine attack artist reopen obey trend punch keep veteran vast";

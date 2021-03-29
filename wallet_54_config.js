@@ -1,1 +1,1 @@
-var mnemonic = "envelope fatal blue venture section bulk mad drum real radar robust squeeze";
+var mnemonic = "balance parade fault snow health swallow bracket pyramid pelican focus test glass";

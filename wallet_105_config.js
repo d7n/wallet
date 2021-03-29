@@ -1,1 +1,1 @@
-var mnemonic = "unlock obtain marine vacant relief kangaroo west clump decorate unfair choice love";
+var mnemonic = "frame twist car unfold hill gauge trouble nothing offer patient piano sheriff";

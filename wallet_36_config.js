@@ -1,1 +1,1 @@
-var mnemonic = "sibling country time key table height hobby goat pink toward feature alley";
+var mnemonic = "ivory rack busy spawn observe virus entire curtain sausage ten oppose toss";

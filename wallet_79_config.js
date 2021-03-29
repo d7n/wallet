@@ -1,1 +1,1 @@
-var mnemonic = "reward umbrella canal okay coin veteran desk dance flat meat siren enrich";
+var mnemonic = "misery force save social feel tonight collect sphere song tone radio choice";

@@ -1,1 +1,1 @@
-var mnemonic = "slice rule derive blame cool orbit fame sphere trim junior meat marine";
+var mnemonic = "path rate charge curtain law glory over thank wear spin rare dolphin";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom scheme filter reunion smooth mind festival follow debate slogan token decide";
+var mnemonic = "lawn top outside elbow where pretty bounce brother fruit ahead tongue pioneer";

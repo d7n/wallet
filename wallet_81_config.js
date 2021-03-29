@@ -1,1 +1,1 @@
-var mnemonic = "search rhythm orbit dry craft destroy try apology remove increase candy stadium";
+var mnemonic = "raccoon donkey sibling absurd recall security mind reflect margin grocery bread west";

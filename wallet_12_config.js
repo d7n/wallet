@@ -1,1 +1,1 @@
-var mnemonic = "protect hybrid party proud garbage mask hockey car evoke master exile stamp";
+var mnemonic = "decide matrix edit chimney yard oppose brown train indicate saddle dwarf deliver";

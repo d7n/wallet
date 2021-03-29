@@ -1,1 +1,1 @@
-var mnemonic = "crowd quantum trust industry aware during physical high proud truck fluid library";
+var mnemonic = "desert exclude learn tonight monkey voice rookie include spirit tower distance proud";

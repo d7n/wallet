@@ -1,1 +1,1 @@
-var mnemonic = "cause derive estate skate party square index solve amazing negative machine misery";
+var mnemonic = "screen tuition own grocery welcome economy property include siege apart sauce mango";
