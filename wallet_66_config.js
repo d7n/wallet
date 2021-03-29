@@ -1,1 +1,1 @@
-var mnemonic = "rug illegal behind scheme rare dose question grocery alone lake biology buyer";
+var mnemonic = "hazard blame salt today grain gift nose possible husband forum when hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "else cactus dress naive genuine phrase leisure shield cause actor bring fitness";
+var mnemonic = "basket pottery color wealth olympic payment identify spider under coral you siege";

@@ -1,1 +1,1 @@
-var mnemonic = "medal bullet gallery cushion sea pole lucky asthma visa cook federal amateur";
+var mnemonic = "boil float today decade faculty twin fossil blame crucial motion certain number";

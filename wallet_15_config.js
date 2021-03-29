@@ -1,1 +1,1 @@
-var mnemonic = "margin attend moral install spy pool hundred east rent divide slice ranch";
+var mnemonic = "picture stock love trade obvious attack riot nuclear actress actual unusual day";

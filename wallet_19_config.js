@@ -1,1 +1,1 @@
-var mnemonic = "hard wool veteran crime bag jewel say virus lyrics bomb trumpet asthma";
+var mnemonic = "ethics rare figure timber lazy one found wreck risk net error idle";

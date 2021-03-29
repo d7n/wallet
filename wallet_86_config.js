@@ -1,1 +1,1 @@
-var mnemonic = "letter love buyer ribbon speak aunt subway sudden tackle blame soldier solar";
+var mnemonic = "stock digital twist replace list fish genre dragon flat catalog nest viable";

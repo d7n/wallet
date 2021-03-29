@@ -1,1 +1,1 @@
-var mnemonic = "energy resource piece danger host globe stuff actress owner govern iron there";
+var mnemonic = "picture fragile ozone scale drip arch fence soon club envelope bracket satisfy";

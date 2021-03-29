@@ -1,1 +1,1 @@
-var mnemonic = "able buzz soul garlic uncle violin hat hero small unknown accident science";
+var mnemonic = "slogan kid digital kangaroo kick weapon grunt rotate asthma leisure regret mouse";

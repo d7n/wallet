@@ -1,1 +1,1 @@
-var mnemonic = "rent ritual together dinosaur neck wrong fish garbage there gate adapt sadness";
+var mnemonic = "letter liquid solve saddle cricket letter enlist flip broken inquiry already believe";

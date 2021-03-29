@@ -1,1 +1,1 @@
-var mnemonic = "book phrase category carry fire inner shy silk identify alone vessel remind";
+var mnemonic = "shell alarm attract staff pond unable note blind earn chef dune repair";

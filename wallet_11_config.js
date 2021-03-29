@@ -1,1 +1,1 @@
-var mnemonic = "loyal hard layer foil observe fold guitar civil forward hub connect garage";
+var mnemonic = "focus one salmon length noble initial loud guitar wise myth history weapon";

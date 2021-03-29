@@ -1,1 +1,1 @@
-var mnemonic = "drink oxygen visa swamp orchard where rose client sight excuse wisdom act";
+var mnemonic = "play clown equal toward picture twelve eagle border give husband giant vanish";

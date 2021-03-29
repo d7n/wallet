@@ -1,1 +1,1 @@
-var mnemonic = "shoe catalog valve ensure general alien fantasy blind powder sphere purpose table";
+var mnemonic = "moment night fringe paddle off staff modify dentist believe brass tired primary";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger harsh birth quality bright night inherit hour load believe organ host";
+var mnemonic = "fence rose odor toe idle swear key hurry jacket render club nephew";

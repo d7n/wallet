@@ -1,1 +1,1 @@
-var mnemonic = "engage news broom south screen action bulk code famous soccer tool bronze";
+var mnemonic = "clip egg gallery dial address strong flat marble episode carry dash dirt";

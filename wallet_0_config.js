@@ -1,1 +1,1 @@
-var mnemonic = "head inflict fresh uncover token shrimp coconut bid hint grit side elegant";
+var mnemonic = "flush future picture stock total frost february raccoon dry wood page meat";

@@ -1,1 +1,1 @@
-var mnemonic = "spare bike border speak dismiss axis supreme fish clog object second school";
+var mnemonic = "above pulse thunder brave step multiply bleak away canal divorce matter pig";

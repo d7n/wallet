@@ -1,1 +1,1 @@
-var mnemonic = "memory flight dragon sister shy glide enact scatter inform crash ivory gorilla";
+var mnemonic = "express donate chicken width bullet search frozen maze one enhance museum bird";

@@ -1,1 +1,1 @@
-var mnemonic = "few source narrow stock peanut senior fun barrel chalk elite rough harvest";
+var mnemonic = "proof small sense despair wish include fit daring catch quality total patrol";

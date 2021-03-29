@@ -1,1 +1,1 @@
-var mnemonic = "economy only hedgehog flight position confirm woman sauce main inside dance more";
+var mnemonic = "athlete brisk crystal syrup day beyond cash immune drip siren leopard dog";

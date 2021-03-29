@@ -1,1 +1,1 @@
-var mnemonic = "unfair fire crazy race member left lyrics census image juice salute orphan";
+var mnemonic = "loud wave broom kit host travel bar fatigue auto sheriff mirror icon";

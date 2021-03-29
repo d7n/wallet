@@ -1,1 +1,1 @@
-var mnemonic = "apple pig world tomato stage seven moment crunch tell bitter denial hole";
+var mnemonic = "present trim wrist also desk cave soda aisle mesh combine speed also";

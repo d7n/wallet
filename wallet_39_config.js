@@ -1,1 +1,1 @@
-var mnemonic = "silver pluck library guide chest name girl nose aunt prosper cloth accident";
+var mnemonic = "snake fringe top flat tag yard grape result apple current spray hockey";

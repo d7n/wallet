@@ -1,1 +1,1 @@
-var mnemonic = "frame matter panther toast buddy skull retire swap visit source blossom shift";
+var mnemonic = "evolve erosion light clean genre casino bacon logic century code account emotion";

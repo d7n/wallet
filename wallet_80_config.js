@@ -1,1 +1,1 @@
-var mnemonic = "electric dress adult spot bullet accident lizard scare recycle cage athlete unlock";
+var mnemonic = "breeze winter way resource turtle lab imitate wing sponsor burger depth dream";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry yellow uphold wreck region brand chase earth occur body cup repair";
+var mnemonic = "apart bracket result boy frost note fruit bid fringe scale move market";

@@ -1,1 +1,1 @@
-var mnemonic = "silly inherit drum pipe tuna pistol snake illness ceiling demise else merge";
+var mnemonic = "grab step blast taxi member wash parade train exhibit venue claw foot";

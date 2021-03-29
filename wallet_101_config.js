@@ -1,1 +1,1 @@
-var mnemonic = "nothing mandate budget window wash web acquire tornado light gaze law layer";
+var mnemonic = "slogan domain trick before walk dance adapt demand mountain stuff valid episode";

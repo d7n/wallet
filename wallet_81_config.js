@@ -1,1 +1,1 @@
-var mnemonic = "fiction rail device direct tuition sting cry unknown busy attitude kangaroo result";
+var mnemonic = "marine impact eight woman catch impose rare blind guilt skirt corn alarm";

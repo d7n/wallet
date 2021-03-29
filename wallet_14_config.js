@@ -1,1 +1,1 @@
-var mnemonic = "arch tone swing fruit cloud firm apology host small bargain chaos guard";
+var mnemonic = "civil desert soccer title broccoli alien sort wagon aisle glide gun omit";

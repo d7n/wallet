@@ -1,1 +1,1 @@
-var mnemonic = "renew topic custom sail clay panic resist hybrid across call intact vehicle";
+var mnemonic = "skate effort twist predict suggest tunnel swear winner tuition police desert type";

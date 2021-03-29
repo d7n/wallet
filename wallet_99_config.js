@@ -1,1 +1,1 @@
-var mnemonic = "behave cycle input debris corn supreme fiber sun often dolphin together real";
+var mnemonic = "breeze click velvet trigger shine scatter regret grow blur own maple oyster";

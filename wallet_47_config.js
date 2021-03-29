@@ -1,1 +1,1 @@
-var mnemonic = "sheriff bamboo trigger congress novel party scene enforce admit east hockey coral";
+var mnemonic = "humble speak valley link spoon ill maze frozen eagle mouse photo build";

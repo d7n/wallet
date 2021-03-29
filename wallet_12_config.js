@@ -1,1 +1,1 @@
-var mnemonic = "run private earn rubber skirt ocean yard spoon exact ride alpha draw";
+var mnemonic = "muscle will mixed human short neck guilt since gain stay rabbit diagram";

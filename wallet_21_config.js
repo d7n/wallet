@@ -1,1 +1,1 @@
-var mnemonic = "plastic unaware shaft amazing accuse festival ill december dice pudding naive when";
+var mnemonic = "dune endless have plug monster credit gallery menu desert uncle help credit";

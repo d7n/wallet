@@ -1,1 +1,1 @@
-var mnemonic = "kiss later mystery horror mystery afraid major pill prevent resist limb crater";
+var mnemonic = "post universe salt infant horn clay govern laugh depth help raise flee";

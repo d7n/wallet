@@ -1,1 +1,1 @@
-var mnemonic = "frequent horse razor energy arrive sister divert resemble miracle tooth chair fiscal";
+var mnemonic = "observe claim apple habit twice rifle shock grant soup lecture size animal";

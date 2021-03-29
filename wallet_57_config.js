@@ -1,1 +1,1 @@
-var mnemonic = "knife destroy bag couple little east theme kite athlete giant pond load";
+var mnemonic = "predict bulk enter hood salmon track submit sauce razor trigger hand area";

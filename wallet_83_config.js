@@ -1,1 +1,1 @@
-var mnemonic = "erupt bullet cabbage soul nut garden session kingdom faculty pill speak torch";
+var mnemonic = "depart matrix catch pony suffer erosion nurse oxygen clown clarify senior work";

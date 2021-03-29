@@ -1,1 +1,1 @@
-var mnemonic = "piece expect toward amount setup radio area chaos tobacco marine carpet eagle";
+var mnemonic = "junk puppy win angle add visual divorce cave magnet circle glimpse maid";

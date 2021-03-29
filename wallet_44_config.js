@@ -1,1 +1,1 @@
-var mnemonic = "result lady kiwi figure young castle charge metal crawl switch light decorate";
+var mnemonic = "ceiling symptom talent orbit nose walk pilot knee pilot river cart census";

@@ -1,1 +1,1 @@
-var mnemonic = "program fatal taxi boat milk dumb series aisle hamster stem thing alien";
+var mnemonic = "cry comic marriage shadow dutch balance student satoshi front multiply identify amount";

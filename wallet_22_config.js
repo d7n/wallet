@@ -1,1 +1,1 @@
-var mnemonic = "economy turkey myself vacuum valid balance obvious soul senior install sword myself";
+var mnemonic = "employ like august human chef good curtain bike family fashion nose behave";

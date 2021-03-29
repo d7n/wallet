@@ -1,1 +1,1 @@
-var mnemonic = "feature hedgehog zebra rather poet jaguar weasel whale little gain owner allow";
+var mnemonic = "false leg wire bitter winner shoulder popular people few either right pulp";

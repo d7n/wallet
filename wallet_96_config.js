@@ -1,1 +1,1 @@
-var mnemonic = "giggle survey copper wolf purity bar cousin rude immense into banana sister";
+var mnemonic = "disagree truly deliver spend elder very soup kick weapon weekend birth tomorrow";

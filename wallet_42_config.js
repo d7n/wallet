@@ -1,1 +1,1 @@
-var mnemonic = "hand tip embrace taxi vague swallow rotate crash maze pass chunk palace";
+var mnemonic = "basic hobby jar clump tuition senior all sunset company spend essence capital";

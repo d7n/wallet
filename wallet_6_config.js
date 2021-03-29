@@ -1,1 +1,1 @@
-var mnemonic = "imitate volcano oppose note manual twelve save hybrid eternal patch reduce top";
+var mnemonic = "thunder vicious fold prefer strike normal meadow dry hold smoke express weather";

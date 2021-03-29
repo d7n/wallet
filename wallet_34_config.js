@@ -1,1 +1,1 @@
-var mnemonic = "zebra above universe athlete feature garage expect victory raise gun essay derive";
+var mnemonic = "satisfy skill delay tragic emerge scrub ridge three august hazard waste quarter";

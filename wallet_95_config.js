@@ -1,1 +1,1 @@
-var mnemonic = "assault airport essence valve lesson damp ice enact off wash antenna metal";
+var mnemonic = "blast deer want local salt tag include hover dance attitude forest cereal";

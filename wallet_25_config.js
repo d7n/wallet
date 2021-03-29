@@ -1,1 +1,1 @@
-var mnemonic = "humble strategy security notable powder vacant call awesome glance spider toy donor";
+var mnemonic = "play have oval traffic garage polar van real riot clinic gain lawn";

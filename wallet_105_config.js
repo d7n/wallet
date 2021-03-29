@@ -1,1 +1,1 @@
-var mnemonic = "smooth frozen senior shaft tilt clean worth aim topple wealth play square";
+var mnemonic = "idea capable mandate fatal suggest tooth under pause question garbage fence sign";

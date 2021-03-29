@@ -1,1 +1,1 @@
-var mnemonic = "another same habit add action table absurd glare burst army fiction arrive";
+var mnemonic = "twin occur congress faith absurd lumber parade evolve gravity pet possible offer";

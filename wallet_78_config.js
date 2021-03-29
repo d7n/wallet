@@ -1,1 +1,1 @@
-var mnemonic = "fog degree crime cause later shy cat loud often trumpet senior luxury";
+var mnemonic = "connect bomb neglect cricket save dinosaur effort animal whip unusual file elegant";

@@ -1,1 +1,1 @@
-var mnemonic = "wreck vast pair deputy ridge pelican salad zero sweet trend check real";
+var mnemonic = "often sniff crouch north strategy furnace bitter equip hamster disorder couch sting";

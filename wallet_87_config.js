@@ -1,1 +1,1 @@
-var mnemonic = "lunch merry this initial gun puppy raccoon space dad better parent kit";
+var mnemonic = "feel funny panda run pair cabin dinner champion pledge omit grain boring";

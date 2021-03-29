@@ -1,1 +1,1 @@
-var mnemonic = "interest west result casual elegant voyage barrel dilemma easily cinnamon artist safe";
+var mnemonic = "fabric demise network atom cake wild shaft arrive cage anchor noise nurse";

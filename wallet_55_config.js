@@ -1,1 +1,1 @@
-var mnemonic = "lunar zone rocket east dumb lab future swear retreat upgrade slender camp";
+var mnemonic = "unfair essay obey marine poet anchor coral cute crush primary brisk silent";

@@ -1,1 +1,1 @@
-var mnemonic = "diamond juice small usual buffalo saddle sword treat gather space catalog health";
+var mnemonic = "phrase rubber noble laugh slogan person climb sustain rebuild urban hold educate";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen use earth direct pretty afford plate merry race dawn leg goat";
+var mnemonic = "car flock nasty insane pipe unique critic wheat gift mother destroy vapor";

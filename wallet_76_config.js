@@ -1,1 +1,1 @@
-var mnemonic = "squeeze lock wide blue either oblige romance cigar monkey bless arrive middle";
+var mnemonic = "pizza file kitchen noodle deposit off joke faint stem notable stuff forum";

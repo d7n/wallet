@@ -1,1 +1,1 @@
-var mnemonic = "whip interest kiss off oxygen guilt town feed omit awkward control umbrella";
+var mnemonic = "shield grain lesson brief key negative room divide people opera ozone abandon";

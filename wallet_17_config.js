@@ -1,1 +1,1 @@
-var mnemonic = "syrup lobster opinion degree emotion unable idle mask blame animal unaware snap";
+var mnemonic = "major average nose rose rocket develop dance sponsor unique fame cross brass";

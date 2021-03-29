@@ -1,1 +1,1 @@
-var mnemonic = "embrace noodle stem lamp lumber matrix cheese tomato seminar more season real";
+var mnemonic = "episode soup above coil impose embark climb cherry mean volume catch snack";

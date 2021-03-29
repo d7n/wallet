@@ -1,1 +1,1 @@
-var mnemonic = "twice ripple swing try punch craft adjust fiction forest elbow buzz build";
+var mnemonic = "shed muscle age ginger season cloth body hair entire usual pattern illegal";

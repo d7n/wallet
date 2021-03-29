@@ -1,1 +1,1 @@
-var mnemonic = "economy trumpet crumble fatigue exact donor attend taxi mother clump oven end";
+var mnemonic = "forward place dad process evoke hire symptom all middle discover hollow noise";

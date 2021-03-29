@@ -1,1 +1,1 @@
-var mnemonic = "cloth profit unveil double section gap disease involve circle squirrel cram dilemma";
+var mnemonic = "arrive virus shed crack network barely alien avoid man very cluster dinner";

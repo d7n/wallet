@@ -1,1 +1,1 @@
-var mnemonic = "venture secret phrase disorder bird violin flat hunt lift acoustic duck diet";
+var mnemonic = "notable outside water test end become peasant unaware bone sniff volcano roast";

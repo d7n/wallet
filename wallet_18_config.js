@@ -1,1 +1,1 @@
-var mnemonic = "flight alcohol ten tornado sphere grace clean veteran long link keen naive";
+var mnemonic = "sort dad luggage across screen hello script brick video girl autumn rather";

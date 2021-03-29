@@ -1,1 +1,1 @@
-var mnemonic = "end code hunt misery distance army weather okay obvious path already now";
+var mnemonic = "maple demand deposit glow fox vanish beach release ostrich protect domain pretty";

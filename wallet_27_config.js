@@ -1,1 +1,1 @@
-var mnemonic = "brain frown dolphin dragon shove mystery spell panel amount mobile virtual ancient";
+var mnemonic = "exhibit market idea canyon barrel mean final find bomb million clarify rabbit";

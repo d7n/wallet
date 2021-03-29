@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur swift ankle misery very aware parent play question orange debris major";
+var mnemonic = "piano material alien chicken village bring above exotic process worry assault spring";

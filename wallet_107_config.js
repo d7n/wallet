@@ -1,1 +1,1 @@
-var mnemonic = "betray amazing dune mean exercise lounge scorpion galaxy pupil region talk limb";
+var mnemonic = "shaft turn license come punch vote still accident kick chair hire present";

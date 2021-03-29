@@ -1,1 +1,1 @@
-var mnemonic = "neutral where link more sad turkey quantum sphere interest episode add eye";
+var mnemonic = "film fresh exchange canal crunch repair toss cable globe today funny cabin";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise delay dutch valve south access patch mention host piano income dirt";
+var mnemonic = "find accident simple tent chef proof viable amazing melody buyer home flavor";

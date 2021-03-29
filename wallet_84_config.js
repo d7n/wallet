@@ -1,1 +1,1 @@
-var mnemonic = "shoe caught oblige wheat put garden seek team bracket man increase absorb";
+var mnemonic = "cable left sweet exit wreck web access save bulb elevator maple daring";

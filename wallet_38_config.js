@@ -1,1 +1,1 @@
-var mnemonic = "dream first circle illegal guard robot federal length say among enlist zebra";
+var mnemonic = "castle entry victory parent champion minute estate client blast faith abstract source";

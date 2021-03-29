@@ -1,1 +1,1 @@
-var mnemonic = "fan adapt torch air light elbow marble student happy spawn champion brand";
+var mnemonic = "enable kiwi bunker dress melt practice barely flat normal maple case neither";

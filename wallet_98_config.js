@@ -1,1 +1,1 @@
-var mnemonic = "win gentle salute need clean replace bottom sick damp release situate sentence";
+var mnemonic = "nasty always sure anger around that page pudding adapt elevator divert giraffe";

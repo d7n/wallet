@@ -1,1 +1,1 @@
-var mnemonic = "slice grow arrive pause frown rely exclude drink can cook protect goddess";
+var mnemonic = "cost render letter dumb asset mixed valve inspire joy drive wrong simple";

@@ -1,1 +1,1 @@
-var mnemonic = "chief manage smile where engage tackle mansion stand inflict measure opera rail";
+var mnemonic = "wine reject filter cannon coil toast nest suit rebuild nurse unlock print";

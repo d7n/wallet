@@ -1,1 +1,1 @@
-var mnemonic = "visit hurdle fashion cattle sibling float horror magic aisle network hobby history";
+var mnemonic = "endless work notable expire glance pear zero biology coyote wage draw culture";

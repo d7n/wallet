@@ -1,1 +1,1 @@
-var mnemonic = "wood detail boat artefact curve movie invite basic field afford slender juice";
+var mnemonic = "public theory across endless second trip zero pupil frequent angle message imitate";

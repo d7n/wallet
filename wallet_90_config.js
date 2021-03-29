@@ -1,1 +1,1 @@
-var mnemonic = "sample tone song gift jelly delay nothing amused rescue fence rose auction";
+var mnemonic = "creek burden result weasel custom cute faculty once change wisdom never yard";

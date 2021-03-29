@@ -1,1 +1,1 @@
-var mnemonic = "today clay office design loyal angle modify hungry slight damp own bottom";
+var mnemonic = "misery patch sorry dragon topic tunnel cradle fantasy nut issue purpose sign";

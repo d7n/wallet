@@ -1,1 +1,1 @@
-var mnemonic = "solar clerk nest farm isolate pepper dinosaur brisk mix poem menu parade";
+var mnemonic = "trash tool minimum blossom faith phrase acquire cube fluid step copper bind";

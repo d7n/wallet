@@ -1,1 +1,1 @@
-var mnemonic = "pluck slow prefer pudding junk gold remain shrimp gasp fame waste flight";
+var mnemonic = "region wolf remove park topic search pitch adult surprise mountain leader quarter";

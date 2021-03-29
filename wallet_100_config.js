@@ -1,1 +1,1 @@
-var mnemonic = "prepare scissors cherry habit across blue else forum gaze poem voyage fly";
+var mnemonic = "agent alpha tiny critic area prepare arrest image pepper key hub rookie";

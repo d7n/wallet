@@ -1,1 +1,1 @@
-var mnemonic = "error snow weekend brown finish ten excite beach antenna wide exclude image";
+var mnemonic = "satoshi visual idea day health knee cruel rent job cement property enroll";

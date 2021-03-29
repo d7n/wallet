@@ -1,1 +1,1 @@
-var mnemonic = "minute helmet lake album vanish cream merit nominee velvet bundle grocery wasp";
+var mnemonic = "east upset evoke sail spell muscle fragile mouse tragic mosquito fortune win";
