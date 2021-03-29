@@ -1,1 +1,1 @@
-var mnemonic = "learn struggle cash quarter brown organ hollow hammer assist million tip race";
+var mnemonic = "claw question someone resemble abandon summer spare west spirit elephant bring demise";

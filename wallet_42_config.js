@@ -1,1 +1,1 @@
-var mnemonic = "funny story display time swarm slide seven casual foster cargo always onion";
+var mnemonic = "spy puzzle dad school wisdom unveil crumble cattle frequent rail now absurd";

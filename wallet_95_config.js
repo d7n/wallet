@@ -1,1 +1,1 @@
-var mnemonic = "april swing peace venture physical prevent best soldier tobacco soft crisp thunder";
+var mnemonic = "own poet wait laundry few exercise limb close merry broken input element";

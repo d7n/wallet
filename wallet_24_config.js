@@ -1,1 +1,1 @@
-var mnemonic = "subway face clutch situate post together artwork multiply cross enrich scrub surprise";
+var mnemonic = "treat coyote fiber cereal label ticket plastic decrease frog surface kind armed";

@@ -1,1 +1,1 @@
-var mnemonic = "ready spot icon front switch appear charge print spell omit cricket inherit";
+var mnemonic = "absurd soft ceiling source able glory jelly gas end rookie upper renew";

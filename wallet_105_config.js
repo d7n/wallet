@@ -1,1 +1,1 @@
-var mnemonic = "gentle scrub always execute flower fall ozone merit cart end off wise";
+var mnemonic = "air combine pink master armor spice wear okay pool bacon glass act";

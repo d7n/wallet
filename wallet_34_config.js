@@ -1,1 +1,1 @@
-var mnemonic = "artwork quiz tag vanish disorder squeeze tattoo grain over grow excuse grid";
+var mnemonic = "swallow trend grab depend best host cruel park hawk dust release below";

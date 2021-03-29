@@ -1,1 +1,1 @@
-var mnemonic = "paper pattern when cabbage welcome visit this law two master offer worth";
+var mnemonic = "come brand casual disorder denial easy train merit master fancy release erase";

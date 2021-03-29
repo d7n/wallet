@@ -1,1 +1,1 @@
-var mnemonic = "jungle finish nation merry sample soul weasel menu announce soap health ignore";
+var mnemonic = "clap cement since certain diary spread smart resist scatter armed modify escape";

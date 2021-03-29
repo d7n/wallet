@@ -1,1 +1,1 @@
-var mnemonic = "local magnet jar mesh fox pear jar side spread predict glad need";
+var mnemonic = "force tumble lawsuit universe basic cart absurd verb rug track average inside";

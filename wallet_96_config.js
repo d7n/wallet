@@ -1,1 +1,1 @@
-var mnemonic = "useless hobby scorpion ceiling video vapor devote gorilla sponsor century city merge";
+var mnemonic = "pottery chalk mass amount cigar rifle drastic clump proof tape garlic affair";

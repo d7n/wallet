@@ -1,1 +1,1 @@
-var mnemonic = "risk speed reveal cheese spice around domain senior smile social rally august";
+var mnemonic = "march great early program fever slogan sustain steel door book shadow shift";

@@ -1,1 +1,1 @@
-var mnemonic = "mansion sword maximum still craft win fancy hungry whale dolphin glow exhaust";
+var mnemonic = "utility report loan thank emerge wolf robust buffalo oak blood garlic detect";

@@ -1,1 +1,1 @@
-var mnemonic = "song opinion polar beef else immense series empty nerve brown design chimney";
+var mnemonic = "skill garden help brown unveil season crazy galaxy grain gloom excuse climb";

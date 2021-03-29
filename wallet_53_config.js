@@ -1,1 +1,1 @@
-var mnemonic = "close valid outside purse judge panther spread mistake time violin tell comic";
+var mnemonic = "virtual amateur mask chief hub earn actual issue west nest best miracle";

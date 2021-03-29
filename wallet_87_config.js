@@ -1,1 +1,1 @@
-var mnemonic = "pulp canvas crouch weekend fix number blade civil input circle input ginger";
+var mnemonic = "cliff bag leave actor leg lake treat warfare peace reduce scale better";

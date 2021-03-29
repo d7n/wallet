@@ -1,1 +1,1 @@
-var mnemonic = "second mom fatigue burst garbage more cheap photo impulse group bronze salt";
+var mnemonic = "tuna demise boy card cycle jewel similar fury drive sound celery surprise";

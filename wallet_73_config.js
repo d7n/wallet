@@ -1,1 +1,1 @@
-var mnemonic = "culture culture stairs stand click egg tired shine corn urban tuna pencil";
+var mnemonic = "stock quiz motor inform hint slight mass split refuse chaos comfort loyal";

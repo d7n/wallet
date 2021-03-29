@@ -1,1 +1,1 @@
-var mnemonic = "baby life story pen corn maid obey ranch just apple dawn romance";
+var mnemonic = "sunset menu hole guess message correct home liberty actual slide olympic mammal";

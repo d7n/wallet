@@ -1,1 +1,1 @@
-var mnemonic = "health high rapid history pulse undo cave radar bubble wonder village kitten";
+var mnemonic = "picnic castle violin pole frame seat bullet grace track sort used vanish";

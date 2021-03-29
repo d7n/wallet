@@ -1,1 +1,1 @@
-var mnemonic = "canoe hedgehog net later like retreat garden lyrics grid come utility north";
+var mnemonic = "pony pretty fiber prize act aim success aisle mammal double achieve regret";

@@ -1,1 +1,1 @@
-var mnemonic = "guilt smile flavor speed milk sustain hurt project enact strike sting immense";
+var mnemonic = "asset provide client blade hole leg sweet chunk tail insect hundred violin";

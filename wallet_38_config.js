@@ -1,1 +1,1 @@
-var mnemonic = "twelve oppose finger rebuild melt chunk dinosaur twist spring traffic give weekend";
+var mnemonic = "basket fee push tomato pink oxygen ladder beef page addict sniff you";

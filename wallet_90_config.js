@@ -1,1 +1,1 @@
-var mnemonic = "proud seven job awkward dose crop citizen right cute enact prepare blade";
+var mnemonic = "design rural hammer enter zebra garden relief another bunker picnic conduct bomb";

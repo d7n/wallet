@@ -1,1 +1,1 @@
-var mnemonic = "tobacco apart behind mammal ridge lyrics gather sing weekend defy lazy pool";
+var mnemonic = "olive exhibit differ broom moon turkey quality lunar village version hospital industry";

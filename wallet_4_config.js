@@ -1,1 +1,1 @@
-var mnemonic = "jewel drastic direct today faculty butter liberty pumpkin super behind firm slice";
+var mnemonic = "myth country transfer arrest sausage panel cannon abstract crush ill juice wash";

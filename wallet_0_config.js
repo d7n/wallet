@@ -1,1 +1,1 @@
-var mnemonic = "remain meat laptop prison multiply broken seven spread silly during capital spy";
+var mnemonic = "disease return exhibit chief exile phone erase shop blue evolve three host";

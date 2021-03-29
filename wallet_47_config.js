@@ -1,1 +1,1 @@
-var mnemonic = "fade world six release advance sick bamboo snake random punch possible allow";
+var mnemonic = "when cross alone make meat wear tennis grow pink chef garlic frame";

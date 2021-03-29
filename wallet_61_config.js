@@ -1,1 +1,1 @@
-var mnemonic = "face alarm kite three great wedding two vessel athlete venture mosquito rescue";
+var mnemonic = "reflect sister unit wolf veteran tongue vivid lazy letter parent young victory";

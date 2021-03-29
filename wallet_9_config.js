@@ -1,1 +1,1 @@
-var mnemonic = "focus glad lawsuit hood swift smooth mixed endless load result train seek";
+var mnemonic = "between zero air armor nation gospel lava hunt cute hotel chief grape";

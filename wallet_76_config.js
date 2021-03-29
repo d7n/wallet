@@ -1,1 +1,1 @@
-var mnemonic = "glue blood farm october maple festival mushroom airport more believe angry hat";
+var mnemonic = "better bitter gown open they sweet shy black dad fancy twice rib";

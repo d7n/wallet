@@ -1,1 +1,1 @@
-var mnemonic = "define drip match position dawn shift upon foil sell spot require beauty";
+var mnemonic = "coast grow marriage math resemble regular system shrug size universe vivid angle";

@@ -1,1 +1,1 @@
-var mnemonic = "never defense pause average farm annual goddess smart learn property autumn car";
+var mnemonic = "minimum kick seek quality unknown please seminar frame other dirt adapt shy";

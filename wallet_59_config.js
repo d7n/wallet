@@ -1,1 +1,1 @@
-var mnemonic = "ancient fly picnic autumn truck amount naive copper tag antique matrix wire";
+var mnemonic = "flip omit symptom elegant panel ring away erase glow chat curious omit";

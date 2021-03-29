@@ -1,1 +1,1 @@
-var mnemonic = "vacant glass else drip inside transfer shove kidney inquiry extend young slogan";
+var mnemonic = "trash surround lawsuit social because journey knee answer equal cream silk company";

@@ -1,1 +1,1 @@
-var mnemonic = "inner artwork secret gorilla accuse swamp memory census trash bomb correct ostrich";
+var mnemonic = "satoshi price away erosion swamp regret dress tiger bag pool build oval";

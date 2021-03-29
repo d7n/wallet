@@ -1,1 +1,1 @@
-var mnemonic = "onion cook together pig solve hamster mesh beach marriage nation garment obscure";
+var mnemonic = "pride barrel foot blade logic beauty praise torch pigeon huge poem spice";

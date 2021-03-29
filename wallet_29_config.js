@@ -1,1 +1,1 @@
-var mnemonic = "fetch boy few spend amount absorb position ancient duck diesel chronic syrup";
+var mnemonic = "chunk method snap horror ostrich palace merge consider occur bacon whisper elder";

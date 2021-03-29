@@ -1,1 +1,1 @@
-var mnemonic = "cause prize guard turn share catalog cage pupil august prosper interest sick";
+var mnemonic = "document beauty cycle squirrel eternal symptom mandate wreck enforce decorate minute climb";

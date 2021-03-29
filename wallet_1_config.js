@@ -1,1 +1,1 @@
-var mnemonic = "seminar side exit predict error faint piano warm wash wear nerve raise";
+var mnemonic = "crystal legal senior board humor dose update zebra parrot asthma close boil";

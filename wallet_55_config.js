@@ -1,1 +1,1 @@
-var mnemonic = "two aware panel theme atom skirt valley welcome summer erase ketchup entry";
+var mnemonic = "pencil unlock sock prefer butter hunt harsh blue pizza anxiety resemble calm";

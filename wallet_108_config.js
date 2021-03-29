@@ -1,1 +1,1 @@
-var mnemonic = "industry tobacco twelve disorder clarify people festival century final civil tank winter";
+var mnemonic = "near country annual rally word admit biology globe tennis total rib account";

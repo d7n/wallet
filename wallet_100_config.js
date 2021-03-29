@@ -1,1 +1,1 @@
-var mnemonic = "soul napkin repeat trip little area scissors document mom almost latin net";
+var mnemonic = "nominee worth green gasp autumn acid hold test brass conduct imitate laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "dry cable debate someone best feature reward jacket teach oil cake project";
+var mnemonic = "cupboard retreat video help edge sign clay matter inhale swift toast jewel";

@@ -1,1 +1,1 @@
-var mnemonic = "six seat donate yellow another luggage plunge royal buffalo inch idea alter";
+var mnemonic = "fantasy ripple weekend ski impulse cherry punch oblige tag surprise advance trouble";

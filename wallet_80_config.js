@@ -1,1 +1,1 @@
-var mnemonic = "have rent inner sample moon estate seminar filter couch industry patch swallow";
+var mnemonic = "tool kid artist main awesome lonely sad woman mass tree unveil slot";

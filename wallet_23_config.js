@@ -1,1 +1,1 @@
-var mnemonic = "rail tide state slush galaxy flash harvest grape south ethics home ripple";
+var mnemonic = "panda dry simple nurse square spend bicycle relief cigar conduct beauty urge";

@@ -1,1 +1,1 @@
-var mnemonic = "chuckle spawn tree oak gossip first large enemy wagon upper capital pass";
+var mnemonic = "timber sustain material hello lucky grant someone waste unlock lesson cook ancient";

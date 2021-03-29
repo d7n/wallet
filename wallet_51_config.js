@@ -1,1 +1,1 @@
-var mnemonic = "reflect cousin admit book feed any fall august chalk leisure cancel pony";
+var mnemonic = "involve budget cluster start vehicle nasty science plastic yellow million author plug";

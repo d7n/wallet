@@ -1,1 +1,1 @@
-var mnemonic = "alert cash milk absent banner proud end melody loyal surround sibling blind";
+var mnemonic = "novel range carbon add series bitter toe faint foster saddle across mention";

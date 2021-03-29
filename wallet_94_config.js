@@ -1,1 +1,1 @@
-var mnemonic = "trumpet prize milk shed fade belt they true dutch symptom punch hero";
+var mnemonic = "combine argue useful throw make coconut poem proof million physical nose diary";

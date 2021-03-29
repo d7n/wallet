@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon domain goddess style uniform vital mean mean page tent manual plastic";
+var mnemonic = "jeans fox drip display danger pumpkin wife repeat divert ahead chalk skill";

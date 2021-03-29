@@ -1,1 +1,1 @@
-var mnemonic = "forward hill worry confirm twice gadget badge tuna detail ugly inner funny";
+var mnemonic = "drop shiver arctic oval gain core air increase industry include predict stage";

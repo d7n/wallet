@@ -1,1 +1,1 @@
-var mnemonic = "zone napkin fantasy sweet science type any evil miss gesture donate cherry";
+var mnemonic = "swamp fortune dry into aerobic feed ivory puzzle ball must bless nut";

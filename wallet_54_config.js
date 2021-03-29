@@ -1,1 +1,1 @@
-var mnemonic = "local market walk wage blur believe mask clutch entry collect paper error";
+var mnemonic = "install suspect move neck soccer lab mushroom skull yellow unhappy screen sponsor";

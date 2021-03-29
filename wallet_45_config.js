@@ -1,1 +1,1 @@
-var mnemonic = "soldier border sad simple police jungle scatter autumn receive obtain dismiss yard";
+var mnemonic = "hospital wolf account banana rhythm outer future glove hour arm icon spike";

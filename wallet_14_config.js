@@ -1,1 +1,1 @@
-var mnemonic = "gossip obscure magnet eagle original trick honey verify aspect various bar upon";
+var mnemonic = "stamp empower want pen insane educate display figure either buddy strategy giant";

@@ -1,1 +1,1 @@
-var mnemonic = "bridge december tell method brisk mammal planet fatigue search salon fancy audit";
+var mnemonic = "paper blanket runway green upset polar grunt ahead hill physical first olympic";

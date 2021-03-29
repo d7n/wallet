@@ -1,1 +1,1 @@
-var mnemonic = "stadium able service inspire title life pumpkin kiss oval lunch tennis bamboo";
+var mnemonic = "under episode lady setup health speak cliff main meadow cherry bulb bless";

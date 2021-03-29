@@ -1,1 +1,1 @@
-var mnemonic = "focus lend trumpet dose alley eager motion outside security hand adapt slender";
+var mnemonic = "any spring cover host please clarify claim purse promote sweet spirit common";

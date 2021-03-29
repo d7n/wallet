@@ -1,1 +1,1 @@
-var mnemonic = "coral weekend upset moral learn reform juice velvet guard young kind memory";
+var mnemonic = "oval dutch alpha much like void gaze lift advice artist grape apart";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp bike monitor lend vessel now legal dutch letter add salon satisfy";
+var mnemonic = "double holiday jelly crouch blast scan awake gym crime pulp cancel dice";

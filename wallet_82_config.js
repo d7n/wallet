@@ -1,1 +1,1 @@
-var mnemonic = "tribe race pilot tragic arrange release crane gun toward uniform awesome prepare";
+var mnemonic = "video milk novel chimney cargo rhythm science bounce hour inmate flash benefit";

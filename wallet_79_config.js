@@ -1,1 +1,1 @@
-var mnemonic = "year note nasty brand term van wife squeeze forward dragon kind now";
+var mnemonic = "wage quarter remind digital siege pupil surface dream agent pizza vacuum dog";

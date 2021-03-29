@@ -1,1 +1,1 @@
-var mnemonic = "spend old nation range clever aerobic actor vapor topple topic train betray";
+var mnemonic = "doctor cannon toddler reveal again goose play harvest myth wet obvious render";

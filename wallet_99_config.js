@@ -1,1 +1,1 @@
-var mnemonic = "patch color hub measure crack giggle mandate bacon focus weird modify people";
+var mnemonic = "motor stand double wide gather sell try enemy much occur body abuse";

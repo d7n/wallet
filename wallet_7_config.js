@@ -1,1 +1,1 @@
-var mnemonic = "jump real solar install trip shaft luxury toy diagram city census satoshi";
+var mnemonic = "hello memory fragile print drift mail zero rigid float alone plunge habit";

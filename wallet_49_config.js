@@ -1,1 +1,1 @@
-var mnemonic = "round earth absurd push notice kingdom market digital urban erupt burden burst";
+var mnemonic = "clown empty fix bench elbow country vivid margin brother defy eyebrow glare";

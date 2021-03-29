@@ -1,1 +1,1 @@
-var mnemonic = "dry patch index siege build salon detect city talent rabbit siren side";
+var mnemonic = "naive supreme number eternal exchange food major essence clarify coconut perfect jump";

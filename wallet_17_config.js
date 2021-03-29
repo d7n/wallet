@@ -1,1 +1,1 @@
-var mnemonic = "mixture gossip bounce fatigue worth struggle valid twice magnet give wheat gap";
+var mnemonic = "patient notice pond step quality candy acquire media ordinary apology river champion";

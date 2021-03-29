@@ -1,1 +1,1 @@
-var mnemonic = "harbor example skate nuclear burst blood drum gasp oval metal artist solve";
+var mnemonic = "stomach manage spell kick twin crystal powder dress toilet ski garage bright";

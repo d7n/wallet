@@ -1,1 +1,1 @@
-var mnemonic = "first oval struggle engine announce universe physical member lens dust jar project";
+var mnemonic = "police column empty cage work grocery suspect liar utility frequent include sponsor";

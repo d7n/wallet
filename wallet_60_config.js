@@ -1,1 +1,1 @@
-var mnemonic = "shoulder comfort try later cereal disease solid panel theme empower today evolve";
+var mnemonic = "object limit spot tip mother escape report brisk kitten arena sad spring";

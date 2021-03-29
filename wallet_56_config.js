@@ -1,1 +1,1 @@
-var mnemonic = "pencil unlock kite venture soon december session day tip gaze reduce belt";
+var mnemonic = "tuna friend nut parrot photo nature penalty major vapor say sort retreat";

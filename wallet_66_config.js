@@ -1,1 +1,1 @@
-var mnemonic = "find explain earth kidney soon lonely clay equip vapor sea planet unique";
+var mnemonic = "pipe used home finger enable negative assume atom execute laundry bright tree";

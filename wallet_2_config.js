@@ -1,1 +1,1 @@
-var mnemonic = "coin million media divert visit wash simple over divorce solar photo kite";
+var mnemonic = "mom absent wrong else energy cliff calm beach seed ripple wonder muffin";

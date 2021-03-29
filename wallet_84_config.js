@@ -1,1 +1,1 @@
-var mnemonic = "capable engine economy crisp sound awful novel jungle number found fold abandon";
+var mnemonic = "prevent shop tube negative ticket pilot cream trash antique duty fan eye";

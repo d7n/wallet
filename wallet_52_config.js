@@ -1,1 +1,1 @@
-var mnemonic = "cannon dragon road hospital quiz color time exercise slow firm now review";
+var mnemonic = "jump liquid company laugh pattern flight nation speak roof connect dust truck";

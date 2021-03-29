@@ -1,1 +1,1 @@
-var mnemonic = "rib tube seven labor blade pen bottom ability radar exact parade accuse";
+var mnemonic = "history catalog remind road correct shop logic popular sausage leopard become recycle";

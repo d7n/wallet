@@ -1,1 +1,1 @@
-var mnemonic = "become work album trip struggle planet office act blossom dawn moment they";
+var mnemonic = "figure system nerve tired retreat bus liberty country dynamic race ignore engine";

@@ -1,1 +1,1 @@
-var mnemonic = "foster hundred idea kingdom tobacco grief honey coyote object side agree wrestle";
+var mnemonic = "diamond mammal zebra awful suggest ketchup loyal minimum rifle lemon control guilt";

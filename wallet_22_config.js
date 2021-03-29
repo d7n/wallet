@@ -1,1 +1,1 @@
-var mnemonic = "response knee hundred stock over easy carry width come clerk hip balance";
+var mnemonic = "seed jaguar rather matter board orphan blouse easy donate dismiss reopen corn";

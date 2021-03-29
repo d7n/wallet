@@ -1,1 +1,1 @@
-var mnemonic = "network fresh aspect wild tourist loud syrup trip tool vault island enforce";
+var mnemonic = "hero celery correct jewel sight mandate spy olive struggle shadow craft spoil";

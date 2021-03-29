@@ -1,1 +1,1 @@
-var mnemonic = "brick alarm rescue axis cake coconut stand fiscal metal kid empty warm";
+var mnemonic = "silly list kind scout bomb push rabbit puzzle fiber size crawl feature";

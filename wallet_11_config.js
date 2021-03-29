@@ -1,1 +1,1 @@
-var mnemonic = "express impact appear luxury together employ wisdom alarm lizard sort dune garlic";
+var mnemonic = "have nature exchange junior release scale save release correct aunt vicious save";

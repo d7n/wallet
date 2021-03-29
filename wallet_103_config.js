@@ -1,1 +1,1 @@
-var mnemonic = "first diesel build tool scrub awesome night treat nice road genius material";
+var mnemonic = "teach jump motor radio also husband tumble fitness gospel tent busy buyer";

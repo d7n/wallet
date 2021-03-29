@@ -1,1 +1,1 @@
-var mnemonic = "subject van spell vague merit come school marine subject try never prevent";
+var mnemonic = "drop water shallow install liar bike depth moon pitch valve unique primary";

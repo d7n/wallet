@@ -1,1 +1,1 @@
-var mnemonic = "expect put claim limb pear lunch vague urge rug color juice exotic";
+var mnemonic = "appear knee toe theory panic yard wealth govern gloom label moment rude";

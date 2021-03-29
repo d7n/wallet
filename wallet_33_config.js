@@ -1,1 +1,1 @@
-var mnemonic = "couch buffalo require dice pony panel student account rib ribbon protect quantum";
+var mnemonic = "smooth motor grant manual garlic bubble divide resource pass coach cricket bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "blast stumble pumpkin silly shine winner useless dismiss cloth picture oblige true";
+var mnemonic = "dream oven inspire produce myself obey waste blossom note artist truly round";

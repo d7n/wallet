@@ -1,1 +1,1 @@
-var mnemonic = "rose resemble egg cage problem pear auction review example runway bag race";
+var mnemonic = "dance gather online vacant husband river bronze harvest engage main borrow penalty";

@@ -1,1 +1,1 @@
-var mnemonic = "panther bring desk equip unfold six skate relax habit liberty table promote";
+var mnemonic = "actual author visual swarm magic unfair silent moment explain capital card vendor";

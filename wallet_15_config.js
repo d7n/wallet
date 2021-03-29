@@ -1,1 +1,1 @@
-var mnemonic = "decorate acquire damp auto two enemy benefit exchange dynamic replace piece fatigue";
+var mnemonic = "pelican issue together solve will supreme swim funny lawsuit gym shed normal";

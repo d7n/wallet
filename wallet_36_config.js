@@ -1,1 +1,1 @@
-var mnemonic = "salon wear unknown winner follow congress jeans elder bullet essence daughter nerve";
+var mnemonic = "common eight match else trap person shoulder click dizzy edge tiny bulk";

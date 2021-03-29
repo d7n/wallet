@@ -1,1 +1,1 @@
-var mnemonic = "eternal attack rice have bridge law capital gown apart source foot brush";
+var mnemonic = "rude ski spin maze result usual eye illness blame hub pitch boost";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic roof genuine mystery audit awful awake label message strong clever world";
+var mnemonic = "lend wine saddle oyster decline depth member three devote rail common tilt";
