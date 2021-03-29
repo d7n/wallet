@@ -1,1 +1,1 @@
-var mnemonic = "human carry dynamic urge gather anger you choice ahead jelly sock tooth";
+var mnemonic = "there tennis fancy library pass sun rent lobster reopen assume wagon stuff";

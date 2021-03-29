@@ -1,1 +1,1 @@
-var mnemonic = "dolphin hamster fox horse office soft toast lawn juice snack quote boat";
+var mnemonic = "quit moment repair match success glass torch stable soda ecology mule merit";

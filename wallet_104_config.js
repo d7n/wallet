@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin mesh run bacon sleep birth hero coconut profit crumble edge option";
+var mnemonic = "eye evolve vibrant cargo sting thunder abstract chaos easily amount gravity lend";

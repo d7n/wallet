@@ -1,1 +1,1 @@
-var mnemonic = "exist admit door aim slam best seat relax lift river room census";
+var mnemonic = "pilot shrimp nest raise hill piano nothing olympic fiscal fortune glue stamp";

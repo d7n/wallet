@@ -1,1 +1,1 @@
-var mnemonic = "excite vapor mix shock unable surge indicate cupboard blur history dignity scheme";
+var mnemonic = "glad sick arrive obey gesture vessel luggage orphan present arrive club fringe";

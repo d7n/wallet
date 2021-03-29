@@ -1,1 +1,1 @@
-var mnemonic = "visa leopard popular leg govern shed sell ride brass edge eye explain";
+var mnemonic = "gun zoo swear tide vault drift champion path crane raven question comic";

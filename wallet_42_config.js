@@ -1,1 +1,1 @@
-var mnemonic = "stomach hamster joke mention waste milk february prosper protect recycle assist travel";
+var mnemonic = "april age outside drip poet chest deposit unhappy polar mandate few fly";

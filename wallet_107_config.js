@@ -1,1 +1,1 @@
-var mnemonic = "security pelican open apart expose barely express brass diagram clever fish hip";
+var mnemonic = "silver trend exist just glimpse busy bind rescue asset mechanic invest bacon";

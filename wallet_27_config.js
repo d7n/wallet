@@ -1,1 +1,1 @@
-var mnemonic = "paddle flock slab mail isolate attend debris genius isolate cat faith fire";
+var mnemonic = "clutch couch equip rescue eagle bargain link theory setup crew coach acquire";

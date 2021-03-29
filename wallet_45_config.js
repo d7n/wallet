@@ -1,1 +1,1 @@
-var mnemonic = "build derive fresh exact open submit defy raven castle silk ready rose";
+var mnemonic = "area siren immune curious into edit pigeon edit great tobacco road embody";

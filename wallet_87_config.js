@@ -1,1 +1,1 @@
-var mnemonic = "floor net moment globe entry protect timber evoke mosquito ramp coral friend";
+var mnemonic = "negative pull thrive catalog absurd draft child buyer raw nuclear run mobile";

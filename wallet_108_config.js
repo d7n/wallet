@@ -1,1 +1,1 @@
-var mnemonic = "inject sign quiz girl version switch satisfy casual crowd salt fantasy cloth";
+var mnemonic = "motion supreme round garbage deliver figure bottom elevator tourist wedding turkey exchange";

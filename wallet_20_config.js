@@ -1,1 +1,1 @@
-var mnemonic = "wrong end judge cotton depth pride expose resist local pact century party";
+var mnemonic = "spread hockey wet someone royal lamp glove iron coil relax pass solar";

@@ -1,1 +1,1 @@
-var mnemonic = "muffin erode student leave expect diet like prepare clerk husband major glad";
+var mnemonic = "three easily cash hill fuel myth prefer correct hood farm dinner myth";

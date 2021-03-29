@@ -1,1 +1,1 @@
-var mnemonic = "elite sponsor immune mention drastic glide near axis gun boss museum shallow";
+var mnemonic = "actress people total torch essence saddle dish excuse lounge organ quote science";

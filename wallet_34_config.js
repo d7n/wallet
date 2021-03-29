@@ -1,1 +1,1 @@
-var mnemonic = "nation head reason true atom flame noodle exist crawl write vibrant border";
+var mnemonic = "angle drift head inquiry pink learn gate next video sudden grit shaft";

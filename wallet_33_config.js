@@ -1,1 +1,1 @@
-var mnemonic = "buyer sweet air reunion room hero glass symbol column shrug filter sniff";
+var mnemonic = "hurt human enjoy over trim begin girl elegant annual viable forest vault";

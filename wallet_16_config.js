@@ -1,1 +1,1 @@
-var mnemonic = "young toy build fatigue unit level scout best price offer clown scorpion";
+var mnemonic = "action hundred sound split paper mixed bench tube because medal camp labor";

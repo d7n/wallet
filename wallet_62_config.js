@@ -1,1 +1,1 @@
-var mnemonic = "bamboo blame portion dove cabin rent inquiry garage salmon uniform zebra critic";
+var mnemonic = "feel purity insane spot design cake century drama plug gauge drum only";

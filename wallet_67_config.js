@@ -1,1 +1,1 @@
-var mnemonic = "nurse erode country drive quarter decorate fashion trade defense assault service word";
+var mnemonic = "cattle settle resource idea can doll father poet useless shiver pause vague";

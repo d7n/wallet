@@ -1,1 +1,1 @@
-var mnemonic = "antique rigid happy exact trick indicate flip motion thought because capable crash";
+var mnemonic = "embody boil donkey picnic author smart pistol wear begin decide doctor version";

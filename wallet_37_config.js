@@ -1,1 +1,1 @@
-var mnemonic = "tiger law day olive scorpion innocent lens solid turn game family merry";
+var mnemonic = "october owner anger diesel duty close fragile cake brass enough blossom metal";

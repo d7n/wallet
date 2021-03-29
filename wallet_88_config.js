@@ -1,1 +1,1 @@
-var mnemonic = "buffalo adapt chase miracle wrestle escape eternal ancient lecture legend board thing";
+var mnemonic = "cause polar claim shallow that canyon act flash belt jump leg desert";

@@ -1,1 +1,1 @@
-var mnemonic = "worth unlock elite alarm cigar aspect gown broom outer million loud doll";
+var mnemonic = "valve flame pact side pupil oblige mystery shaft distance innocent piano attack";

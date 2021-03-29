@@ -1,1 +1,1 @@
-var mnemonic = "double sudden zone retreat public idle news focus member cute puzzle wire";
+var mnemonic = "another mistake dog spend leopard curious swim decade knock rose unaware car";

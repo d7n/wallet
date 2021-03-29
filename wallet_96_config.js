@@ -1,1 +1,1 @@
-var mnemonic = "exhaust path artist color kitten culture month rebuild shop goose angle raw";
+var mnemonic = "image parade kind ankle all normal become warm spray era nuclear melt";

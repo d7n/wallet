@@ -1,1 +1,1 @@
-var mnemonic = "race soap chalk inmate ensure business indicate range era journey mammal index";
+var mnemonic = "execute muscle often punch lecture girl speed entry fat junior spawn abuse";

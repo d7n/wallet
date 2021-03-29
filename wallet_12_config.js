@@ -1,1 +1,1 @@
-var mnemonic = "culture happy erupt series border game monster assist spray economy grocery subject";
+var mnemonic = "enroll divide rigid arrest cotton cushion clog excuse creek minute nice broom";

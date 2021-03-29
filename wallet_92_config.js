@@ -1,1 +1,1 @@
-var mnemonic = "sniff one devote require make hospital finish arrow escape resemble resist dentist";
+var mnemonic = "high relax dirt fee camera ship pave mistake thrive pool surround minimum";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal noise hat property action pave adapt cinnamon final riot index involve";
+var mnemonic = "palm garden bottom favorite silver brisk annual seat floor piece fun blouse";

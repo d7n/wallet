@@ -1,1 +1,1 @@
-var mnemonic = "office dinner scrap tribe borrow pipe agent patch car arrange margin security";
+var mnemonic = "lamp boil fish type fitness olympic smoke will decade argue flock lab";

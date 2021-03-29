@@ -1,1 +1,1 @@
-var mnemonic = "stable gold tape travel patch siege lawsuit lion mass school cause farm";
+var mnemonic = "clever core expand moral glory dismiss try drill broccoli message pioneer grit";

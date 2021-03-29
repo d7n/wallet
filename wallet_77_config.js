@@ -1,1 +1,1 @@
-var mnemonic = "corn labor sibling pact equal together play total deposit gossip wheat month";
+var mnemonic = "donor tank result surface west ring index suit pass multiply hurt picnic";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep run sponsor treat pretty shock upper satisfy brain aspect earth novel";
+var mnemonic = "width anger typical similar ski soul rural slow spirit animal web plug";

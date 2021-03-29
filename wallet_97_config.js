@@ -1,1 +1,1 @@
-var mnemonic = "slam planet hour paper trophy art random cook loan buddy dice boost";
+var mnemonic = "eagle update umbrella jaguar horse gallery average total path cancel various waste";

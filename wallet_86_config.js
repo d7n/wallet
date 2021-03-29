@@ -1,1 +1,1 @@
-var mnemonic = "local walnut rural man virtual rotate nut organ demise regular ice mechanic";
+var mnemonic = "fire utility make limit confirm argue antenna man chronic need stick extend";

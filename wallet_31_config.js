@@ -1,1 +1,1 @@
-var mnemonic = "spring crane reason review recipe clip phrase convince wasp street copper wage";
+var mnemonic = "umbrella right vapor above obtain excess pride enough emerge pact album olive";

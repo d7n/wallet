@@ -1,1 +1,1 @@
-var mnemonic = "final legend review harvest calm catch exchange essence eyebrow clump yellow casino";
+var mnemonic = "story fringe keen certain marriage stay silly myth person tank donate name";

@@ -1,1 +1,1 @@
-var mnemonic = "wish giggle tuna future marine vacant dove uphold receive design fiber destroy";
+var mnemonic = "fantasy pottery come vocal solve fork topic rocket neglect marble habit season";

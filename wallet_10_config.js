@@ -1,1 +1,1 @@
-var mnemonic = "canyon robust hospital wild ordinary demise lizard among energy vacant sure invite";
+var mnemonic = "police unknown vote exchange harbor book sight diagram crane know pair change";

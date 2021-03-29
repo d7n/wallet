@@ -1,1 +1,1 @@
-var mnemonic = "ability tissue rifle cabbage sun more decrease observe census chat chaos limb";
+var mnemonic = "poet tomorrow gasp quality penalty agree broken wrist pioneer erupt control catch";

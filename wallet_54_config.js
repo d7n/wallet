@@ -1,1 +1,1 @@
-var mnemonic = "alpha rate garlic upon lonely exotic mass nominee west system casual initial";
+var mnemonic = "exercise filter myth exclude silver live tower deposit disease language side hamster";

@@ -1,1 +1,1 @@
-var mnemonic = "spring swap fine hotel tower bean laundry dash ice jacket bundle robot";
+var mnemonic = "entry aisle spoon word side arrange enforce grape speak verify piece neutral";

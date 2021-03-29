@@ -1,1 +1,1 @@
-var mnemonic = "enable absent woman sheriff want essence anchor hair city outside below urban";
+var mnemonic = "unit exchange deliver mixed antique output rigid side around artist raven mandate";

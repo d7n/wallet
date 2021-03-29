@@ -1,1 +1,1 @@
-var mnemonic = "hero coffee route resist fringe dilemma word join gorilla crawl lottery cannon";
+var mnemonic = "route orange island fatal fire series ethics travel canoe shock spend alarm";

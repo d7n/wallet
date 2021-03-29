@@ -1,1 +1,1 @@
-var mnemonic = "ask pilot prefer carbon eye manual erode alarm sister desk blade jump";
+var mnemonic = "cruise happy oyster advice embody obscure cushion want spray prefer fitness cigar";

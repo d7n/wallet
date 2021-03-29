@@ -1,1 +1,1 @@
-var mnemonic = "media plate camp dutch kit scout salon atom lesson report peasant once";
+var mnemonic = "slice nurse salad sister mass color indoor kitten various forward awake couch";

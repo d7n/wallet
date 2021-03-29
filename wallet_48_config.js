@@ -1,1 +1,1 @@
-var mnemonic = "brush globe despair dirt cave glory wall gorilla impulse vehicle fun journey";
+var mnemonic = "turtle climb hurry session merit avocado donor exist equal satoshi wear electric";

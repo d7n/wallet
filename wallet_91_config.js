@@ -1,1 +1,1 @@
-var mnemonic = "penalty victory dress side repeat whale tide garlic protect just tornado slim";
+var mnemonic = "mansion profit quarter bright grain over process random copy voyage never boat";

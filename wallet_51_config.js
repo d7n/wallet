@@ -1,1 +1,1 @@
-var mnemonic = "decorate exact blame today interest tooth bachelor gasp cupboard donkey timber oil";
+var mnemonic = "abstract fetch dutch cradle despair check grant month girl young traffic vintage";

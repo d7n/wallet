@@ -1,1 +1,1 @@
-var mnemonic = "lift amount leaf width buyer pave isolate noble decline economy mimic now";
+var mnemonic = "winter siege gesture current advance scout decline birth advice average riot shine";

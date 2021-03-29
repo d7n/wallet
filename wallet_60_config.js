@@ -1,1 +1,1 @@
-var mnemonic = "depend dizzy search coast post amateur hurt vibrant snake crush cash tomato";
+var mnemonic = "board kiss lemon desk pear work teach noodle hundred glance reason time";

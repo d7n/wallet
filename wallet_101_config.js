@@ -1,1 +1,1 @@
-var mnemonic = "all vessel region agent bullet produce worry retire beef patient tiny goat";
+var mnemonic = "annual panda mimic analyst group chair tackle execute educate ridge dish salad";

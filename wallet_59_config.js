@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon shadow champion wonder flat hello seed uniform twice eternal pink cabbage";
+var mnemonic = "good future fold coconut hawk coast nothing gadget pencil method bridge clump";

@@ -1,1 +1,1 @@
-var mnemonic = "average swear direct initial forest spell join coffee price chuckle range kick";
+var mnemonic = "notable want force tomorrow october tackle promote write six social liquid what";

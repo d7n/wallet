@@ -1,1 +1,1 @@
-var mnemonic = "worth sphere endless local indicate cricket wheat spread rude symptom ahead amount";
+var mnemonic = "hub later scan misery damage concert code weird genius success web poverty";

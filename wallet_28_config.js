@@ -1,1 +1,1 @@
-var mnemonic = "major doll doctor wedding craft patient now claw base pottery follow total";
+var mnemonic = "design right train habit angry combine color long nest still hero sister";

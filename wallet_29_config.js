@@ -1,1 +1,1 @@
-var mnemonic = "shallow leisure above vague young auto test puppy floor pencil future dumb";
+var mnemonic = "joke combine embrace crime ridge barely rich amount zoo bridge birth farm";

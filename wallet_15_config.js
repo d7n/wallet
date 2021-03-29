@@ -1,1 +1,1 @@
-var mnemonic = "author trash lamp body vicious join hub air evil laptop chest gym";
+var mnemonic = "elevator biology hundred remove weapon rail carry machine deal payment width shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "slam cake forward base tomato olive alert bullet rug they gain marble";
+var mnemonic = "dance thing viable gown wash memory prevent bargain coast chimney undo industry";

@@ -1,1 +1,1 @@
-var mnemonic = "warm neutral omit sleep wisdom short travel either bounce order inflict ahead";
+var mnemonic = "extra exact bird warm window okay mesh crane remind strike capable inhale";

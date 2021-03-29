@@ -1,1 +1,1 @@
-var mnemonic = "drink myth meat ability aim regret gasp current adult myself dynamic course";
+var mnemonic = "where style marble jacket price crawl tired goddess paddle undo mystery online";

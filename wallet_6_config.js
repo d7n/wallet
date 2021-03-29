@@ -1,1 +1,1 @@
-var mnemonic = "pudding argue guess ozone rich fancy carry want leopard gun cash gap";
+var mnemonic = "arena sister place effort cross session hair often ozone chunk energy town";

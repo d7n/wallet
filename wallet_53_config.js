@@ -1,1 +1,1 @@
-var mnemonic = "praise candy fruit buddy subway betray lyrics sea various axis habit myth";
+var mnemonic = "argue sweet ten nothing parade whisper caution visa season game caught gloom";

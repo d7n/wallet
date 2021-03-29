@@ -1,1 +1,1 @@
-var mnemonic = "never resemble topic inner depend language uniform extra small shoe pair sausage";
+var mnemonic = "subway adjust please faint detect main trick onion trial idle certain army";

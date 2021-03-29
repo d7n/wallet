@@ -1,1 +1,1 @@
-var mnemonic = "owner success whip search cross into reward invite year bulk advance picnic";
+var mnemonic = "cement absorb program air little forest butter type loop front develop already";

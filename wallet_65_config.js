@@ -1,1 +1,1 @@
-var mnemonic = "virtual elite dream myself outer object can embark good push swift portion";
+var mnemonic = "light demise keen shadow tool foil dwarf fuel follow news crowd gadget";

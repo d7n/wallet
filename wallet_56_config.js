@@ -1,1 +1,1 @@
-var mnemonic = "prize ritual blanket divert abstract drill require write usage curtain lyrics oven";
+var mnemonic = "runway abuse bubble lab link task often token shrimp isolate wagon rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "echo unhappy begin unfair dumb hair analyst bar casino child shoot theme";
+var mnemonic = "enough frame bounce aspect below sport other cargo can canoe worry heart";

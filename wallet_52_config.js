@@ -1,1 +1,1 @@
-var mnemonic = "card dinner logic staff vendor enroll crack onion year name airport topple";
+var mnemonic = "install armor album protect carry inspire gauge horn party quarter mosquito dinosaur";

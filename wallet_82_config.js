@@ -1,1 +1,1 @@
-var mnemonic = "lamp brother certain together enrich buffalo shine speak invite seminar ensure observe";
+var mnemonic = "code jealous unlock escape tell mass under sand grape employ service have";

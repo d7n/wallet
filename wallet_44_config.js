@@ -1,1 +1,1 @@
-var mnemonic = "slice stereo dash private abstract true pipe under denial because slight tennis";
+var mnemonic = "stem trash correct hire advance dutch kick fish friend wash ancient melody";

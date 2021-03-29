@@ -1,1 +1,1 @@
-var mnemonic = "barrel water muffin know shove trust myth waste dinner ball neck save";
+var mnemonic = "warm taste trouble hair arm ten rocket frog vivid ribbon size master";

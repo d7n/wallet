@@ -1,1 +1,1 @@
-var mnemonic = "fancy fiction raven host seek ride damp entry zone resource victory shiver";
+var mnemonic = "afford mammal ceiling kite leg awful act cup prepare limb inside tooth";

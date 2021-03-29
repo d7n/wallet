@@ -1,1 +1,1 @@
-var mnemonic = "lounge reform bulk zone muscle repair fold outside cousin style fashion exotic";
+var mnemonic = "life dolphin library confirm shove tank bleak legal fetch fringe canoe loud";

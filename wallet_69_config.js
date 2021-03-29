@@ -1,1 +1,1 @@
-var mnemonic = "text light dice all direct gasp smoke mesh quantum wish win maze";
+var mnemonic = "approve decrease gap tag sketch horn eternal also panel reunion happy item";

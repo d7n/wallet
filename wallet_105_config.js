@@ -1,1 +1,1 @@
-var mnemonic = "control kit useful usage conduct wonder enroll area tiger ignore math chunk";
+var mnemonic = "suggest cover client kiwi remember swear fuel target borrow deny siege ranch";

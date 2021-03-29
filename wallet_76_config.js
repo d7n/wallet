@@ -1,1 +1,1 @@
-var mnemonic = "pelican copper dust dragon world tool limit coral front space snow robot";
+var mnemonic = "feature gossip tower dwarf danger power coil plug weekend topple small child";

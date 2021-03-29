@@ -1,1 +1,1 @@
-var mnemonic = "tool tilt desert bunker awake reopen cave shove shuffle oven impose river";
+var mnemonic = "foot silent vast whip mesh large bubble prison modify cube lab cruel";

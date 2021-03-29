@@ -1,1 +1,1 @@
-var mnemonic = "stomach category bridge plastic napkin warm midnight prosper honey draft belt rotate";
+var mnemonic = "mystery outer near slice smart ability beef rely air outdoor idea pilot";

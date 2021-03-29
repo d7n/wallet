@@ -1,1 +1,1 @@
-var mnemonic = "airport beauty crunch cross gasp blush loyal grit truth sibling reveal tube";
+var mnemonic = "into humble ankle tissue friend blue tribe hello tool invite grab hurdle";

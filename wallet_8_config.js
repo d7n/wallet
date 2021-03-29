@@ -1,1 +1,1 @@
-var mnemonic = "sea action chair worry hard winner fork connect buzz peasant blade manage";
+var mnemonic = "fog brush pipe still bunker chief kitchen below cheap very unknown artist";

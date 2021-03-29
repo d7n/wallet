@@ -1,1 +1,1 @@
-var mnemonic = "thunder fault draft unfold thunder sugar goose custom always thought grunt rude";
+var mnemonic = "silk snow target reunion track void age pledge spring state oil limit";

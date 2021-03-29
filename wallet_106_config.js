@@ -1,1 +1,1 @@
-var mnemonic = "bench differ whip salmon grid behind boring define skate ancient heavy tunnel";
+var mnemonic = "include alone dove letter wide cool trigger stereo chimney cargo two print";

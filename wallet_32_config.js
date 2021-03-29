@@ -1,1 +1,1 @@
-var mnemonic = "cost west crazy style rib decline pig hammer rookie pipe connect tilt";
+var mnemonic = "into find action link damp parrot dust leg melody nest banner rug";

@@ -1,1 +1,1 @@
-var mnemonic = "add gather sauce buyer raise this long warfare myth display forum coyote";
+var mnemonic = "outer blush patient fortune gravity negative ankle cigar cruel slide dream bunker";
