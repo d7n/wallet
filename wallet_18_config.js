@@ -1,1 +1,1 @@
-var mnemonic = "alpha random below consider lyrics now spice catalog expect renew used tape";
+var mnemonic = "all caught render diamond fine laugh resemble cash access pioneer window tomorrow";

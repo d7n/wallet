@@ -1,1 +1,1 @@
-var mnemonic = "school mean insane dance voyage stay six hidden embark grace fiber carbon";
+var mnemonic = "since voice fury voyage answer globe now share advice vapor catalog attack";

@@ -1,1 +1,1 @@
-var mnemonic = "sniff crew letter whip mom tilt burst liquid picture poet crime student";
+var mnemonic = "keen cloud success trash ensure exercise bamboo exhibit ridge vacuum fatal million";

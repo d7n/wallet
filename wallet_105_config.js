@@ -1,1 +1,1 @@
-var mnemonic = "plate rebel barely hero busy critic rare between fiber year genius frost";
+var mnemonic = "license rib already gospel cube over range bunker panel monkey report sea";

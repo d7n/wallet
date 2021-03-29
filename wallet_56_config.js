@@ -1,1 +1,1 @@
-var mnemonic = "scale sadness local human mango oyster define path skate bullet divert galaxy";
+var mnemonic = "wish now join enable error between eager thing timber lizard index jealous";

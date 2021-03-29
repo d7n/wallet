@@ -1,1 +1,1 @@
-var mnemonic = "cart door able grace honey cheese faith comfort garden holiday gauge pottery";
+var mnemonic = "neither media youth shallow claw assume secret divert trigger yellow deliver depart";

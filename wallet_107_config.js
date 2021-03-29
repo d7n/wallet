@@ -1,1 +1,1 @@
-var mnemonic = "artefact whip view energy abstract name tuna blouse coconut detail exchange embody";
+var mnemonic = "soul toe jacket toast giraffe insane control cement jelly number humble torch";

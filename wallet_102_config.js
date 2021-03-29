@@ -1,1 +1,1 @@
-var mnemonic = "toward believe dismiss siren trumpet damp sort decide circle lava mule zero";
+var mnemonic = "visa liquid plastic explain asthma idle define maid match need defy comfort";

@@ -1,1 +1,1 @@
-var mnemonic = "lock dream victory morning spawn lift abandon knock radio typical midnight hover";
+var mnemonic = "stereo cereal right ribbon family limb snow radar garlic tip vivid badge";

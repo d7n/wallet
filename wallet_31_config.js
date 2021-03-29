@@ -1,1 +1,1 @@
-var mnemonic = "measure one public bundle wealth thought keep amateur end cute allow genuine";
+var mnemonic = "female ethics vanish gym lumber wet current notice curious dash solid outside";

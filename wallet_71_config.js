@@ -1,1 +1,1 @@
-var mnemonic = "eight river acid book invite foot high purity section split stay ranch";
+var mnemonic = "ordinary wage exclude retreat creek crazy split physical mushroom marble athlete ridge";

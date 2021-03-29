@@ -1,1 +1,1 @@
-var mnemonic = "dune learn language cycle omit wage album will orbit artist midnight royal";
+var mnemonic = "level genre army view parent wisdom laugh arrest half lawsuit blur damage";

@@ -1,1 +1,1 @@
-var mnemonic = "year layer mesh volume property panic ethics north angle potato fish once";
+var mnemonic = "latin badge method orphan force term quit toddler sibling destroy wild either";

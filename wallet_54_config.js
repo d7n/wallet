@@ -1,1 +1,1 @@
-var mnemonic = "truly million bike mirror hedgehog portion episode glue immense athlete bracket window";
+var mnemonic = "run congress angle thank sponsor wild tilt arena cloth soldier entire math";

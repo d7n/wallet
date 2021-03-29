@@ -1,1 +1,1 @@
-var mnemonic = "mix hammer total leader ethics safe flower cancel trip humble become clinic";
+var mnemonic = "false deal glad oxygen emerge manual struggle cactus divide vibrant budget inside";

@@ -1,1 +1,1 @@
-var mnemonic = "super estate tattoo trend vintage planet garment library fabric fever there surround";
+var mnemonic = "daughter punch adjust broken green humble submit face ten need love someone";

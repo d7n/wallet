@@ -1,1 +1,1 @@
-var mnemonic = "settle perfect layer loyal blossom alone toast sell report release treat decade";
+var mnemonic = "secret acoustic time solution profit kit cattle book gorilla pool lab broken";

@@ -1,1 +1,1 @@
-var mnemonic = "labor gas real execute sand notice random wild master juice conduct alley";
+var mnemonic = "inhale glance dose list dance snack bean devote crash treat drip always";

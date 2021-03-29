@@ -1,1 +1,1 @@
-var mnemonic = "velvet tell explain south become develop mad spoon return hub clutch bleak";
+var mnemonic = "palace genre party skirt minute night shop again sniff predict phrase remind";

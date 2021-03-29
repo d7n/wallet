@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit message dress teach honey patrol math fox merry cable cluster bitter";
+var mnemonic = "tonight length tornado together census fringe lumber mistake force pulse piece cliff";

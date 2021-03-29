@@ -1,1 +1,1 @@
-var mnemonic = "library cable rally dolphin auto advice ethics poet liquid fame torch poet";
+var mnemonic = "injury because song sun tool alcohol refuse surge cement grain write lift";

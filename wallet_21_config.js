@@ -1,1 +1,1 @@
-var mnemonic = "race trouble cheap speak sustain matter host marine ladder girl pride era";
+var mnemonic = "hover medal snow orient clutch turtle blur vacant pair economy bronze ability";

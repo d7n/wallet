@@ -1,1 +1,1 @@
-var mnemonic = "fox train surface script tattoo material sword quit all edit share ancient";
+var mnemonic = "pulp unveil into dutch visit gaze crunch become help clog west shed";

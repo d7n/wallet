@@ -1,1 +1,1 @@
-var mnemonic = "attract soda either banner sudden chronic fetch cram firm company bleak maze";
+var mnemonic = "health pull soda into scorpion host you fruit throw orient pattern smart";

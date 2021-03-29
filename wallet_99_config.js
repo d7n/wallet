@@ -1,1 +1,1 @@
-var mnemonic = "tower dice tool orphan bag mouse sniff goat neglect negative stomach typical";
+var mnemonic = "trust dress hip panel joy lonely wood box boss jar slender narrow";

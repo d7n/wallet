@@ -1,1 +1,1 @@
-var mnemonic = "cement fuel result spirit broken column demise marriage wheel run disagree menu";
+var mnemonic = "nation tuna fold glory acquire wood olympic grocery multiply large reform orchard";

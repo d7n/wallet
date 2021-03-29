@@ -1,1 +1,1 @@
-var mnemonic = "tuna stand find barely document floor galaxy devote advice van bleak exchange";
+var mnemonic = "jump wish resource iron gauge method ship object swallow apart corn sample";

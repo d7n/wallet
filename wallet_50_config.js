@@ -1,1 +1,1 @@
-var mnemonic = "priority jazz mail leader remember dignity cat gather lawsuit situate hair piano";
+var mnemonic = "broken squirrel segment wage govern away viable clock feel interest ignore train";

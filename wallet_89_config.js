@@ -1,1 +1,1 @@
-var mnemonic = "arch drop jealous hip away sign pelican wool toss pluck misery act";
+var mnemonic = "bottom camp inspire small exotic grace pattern about wire neutral list sunny";

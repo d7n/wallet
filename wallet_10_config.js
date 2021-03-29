@@ -1,1 +1,1 @@
-var mnemonic = "outside effort unveil float mango crush food dove top area useless reveal";
+var mnemonic = "case melt purse call fabric polar spray reason grief tip infant clip";

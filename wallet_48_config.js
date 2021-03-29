@@ -1,1 +1,1 @@
-var mnemonic = "muffin mesh rifle tennis jealous hobby hour piece bitter thunder assume crystal";
+var mnemonic = "alter brief border engage echo junior meat around fetch easy thing prosper";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear program dust shuffle trend fatigue space safe element item blade response";
+var mnemonic = "lend orbit room choice laugh acid farm unfold shrug economy situate luxury";

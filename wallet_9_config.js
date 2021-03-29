@@ -1,1 +1,1 @@
-var mnemonic = "gap call business run cloud tonight verify wash visa famous assault edge";
+var mnemonic = "insane loyal utility uniform cute bargain mass cross close aspect genre arm";

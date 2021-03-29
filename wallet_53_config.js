@@ -1,1 +1,1 @@
-var mnemonic = "entry glimpse wisdom crowd prison evil injury abuse text long vacuum news";
+var mnemonic = "motor doll mutual moral primary jacket ensure denial town egg modify lonely";

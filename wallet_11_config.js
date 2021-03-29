@@ -1,1 +1,1 @@
-var mnemonic = "impact hub tube card tuna duck slow rich oyster orange student motor";
+var mnemonic = "pink hole tip list tenant series present device clarify stick roof card";

@@ -1,1 +1,1 @@
-var mnemonic = "sock bargain spot purity either they actual list kiss universe will banner";
+var mnemonic = "vault box matrix put panda bind defy suspect fame jazz uncover orbit";

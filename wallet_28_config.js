@@ -1,1 +1,1 @@
-var mnemonic = "country happy space defense catalog eight peanut come tourist boss poverty clown";
+var mnemonic = "vapor skull rely replace gold jar transfer almost spot possible include perfect";

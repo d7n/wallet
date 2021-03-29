@@ -1,1 +1,1 @@
-var mnemonic = "trophy basket crowd insane bullet bacon boring arch toy foam small useful";
+var mnemonic = "gown supply trophy much frost tobacco knife this pony stadium mimic energy";

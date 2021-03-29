@@ -1,1 +1,1 @@
-var mnemonic = "leave humor spider meat wreck simple patrol half junior ceiling speed receive";
+var mnemonic = "emotion venture oven security else reopen song oblige chair spring pottery erode";

@@ -1,1 +1,1 @@
-var mnemonic = "universe penalty keep evil pill find rubber engine gasp shoe drop leaf";
+var mnemonic = "valley brisk renew stone example timber duck save sleep purity maze scorpion";

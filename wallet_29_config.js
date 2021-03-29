@@ -1,1 +1,1 @@
-var mnemonic = "smoke trick myself slim spring novel yard hip present desk moon rent";
+var mnemonic = "will venue census flash throw much doctor badge quote lawn south glory";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow job jungle edge spray royal recycle add evidence boss stock arrow";
+var mnemonic = "plate orient dove rescue announce that access clown annual snack busy solve";

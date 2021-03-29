@@ -1,1 +1,1 @@
-var mnemonic = "lock speed box occur trouble hello win machine business govern fall kite";
+var mnemonic = "convince mutual dad chair sea tissue sunset join wolf garage program cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "broom produce pen inform since festival flower balance cage phrase movie reflect";
+var mnemonic = "lawsuit relief bitter champion bean wool quality fix exhaust endless token earn";

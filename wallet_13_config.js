@@ -1,1 +1,1 @@
-var mnemonic = "earn erosion lumber winner legend protect dizzy home toilet dad belt invest";
+var mnemonic = "spend dash describe student seek auction furnace festival pledge sort surprise relief";

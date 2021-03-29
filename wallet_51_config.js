@@ -1,1 +1,1 @@
-var mnemonic = "state shrug observe original elder ensure warm replace year best limit culture";
+var mnemonic = "hammer jump present smooth dirt slight artwork fatigue invite shadow rural prevent";

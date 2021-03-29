@@ -1,1 +1,1 @@
-var mnemonic = "expose story easily verify mansion judge tool gift gold anchor buyer flavor";
+var mnemonic = "remain isolate scene wait violin asset abandon couple winter expose bronze inject";

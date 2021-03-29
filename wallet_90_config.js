@@ -1,1 +1,1 @@
-var mnemonic = "unveil sausage number disorder fresh tree best census consider diet betray expect";
+var mnemonic = "shrimp recipe food arm bright trap innocent balcony angle road hospital immune";

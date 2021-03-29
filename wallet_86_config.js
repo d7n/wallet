@@ -1,1 +1,1 @@
-var mnemonic = "evoke bind announce provide noise retire rebel chaos help moon toy worry";
+var mnemonic = "question cinnamon hold transfer trash violin limb bless cover dinosaur cost mistake";

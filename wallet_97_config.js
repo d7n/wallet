@@ -1,1 +1,1 @@
-var mnemonic = "either hope ritual tribe position derive luggage finger boil mule sell globe";
+var mnemonic = "demand skull robust next large cruel use fruit tornado sketch destroy parade";

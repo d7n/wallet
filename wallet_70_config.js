@@ -1,1 +1,1 @@
-var mnemonic = "balcony elder opinion goddess fly ridge wheel chicken quarter sunset light ill";
+var mnemonic = "survey lumber mountain question relief hobby car exercise skull camp grass across";

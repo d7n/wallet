@@ -1,1 +1,1 @@
-var mnemonic = "era disease suffer sword puzzle bundle inject cruel hazard miracle zero distance";
+var mnemonic = "stairs similar around antique dwarf tribe toast income churn question version bean";

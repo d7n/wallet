@@ -1,1 +1,1 @@
-var mnemonic = "attack found olympic web innocent tone legend aim shine tree favorite fire";
+var mnemonic = "unhappy result when romance hungry castle coyote include hair avoid kite snake";

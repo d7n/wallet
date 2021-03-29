@@ -1,1 +1,1 @@
-var mnemonic = "blossom axis stool rebel alcohol whisper under antenna pond permit shiver provide";
+var mnemonic = "critic loyal drum fit invest quantum program first bench hole pig report";

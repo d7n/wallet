@@ -1,1 +1,1 @@
-var mnemonic = "discover cabbage black ship voice glory rabbit glory lamp seven thing absorb";
+var mnemonic = "cushion skirt gospel oxygen decade copy supreme problem capable try predict favorite";

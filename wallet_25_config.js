@@ -1,1 +1,1 @@
-var mnemonic = "salute brass bread kingdom scout country fabric nephew favorite screen frog child";
+var mnemonic = "abuse purchase humor humble become zoo huge right coil ladder high bicycle";

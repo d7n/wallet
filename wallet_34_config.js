@@ -1,1 +1,1 @@
-var mnemonic = "secret hire figure minor hazard possible fiber season bring oppose develop judge";
+var mnemonic = "satoshi consider lemon depend soul good seek foster oven firm sheriff tissue";

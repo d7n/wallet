@@ -1,1 +1,1 @@
-var mnemonic = "tower possible ship cool auto unique blame wrap tape cheese puzzle equip";
+var mnemonic = "zoo giraffe universe initial pitch code seed visa file usual pattern tooth";

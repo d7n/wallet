@@ -1,1 +1,1 @@
-var mnemonic = "begin liquid agent ceiling angle bulk mean maid rain success awesome scorpion";
+var mnemonic = "grief chase burger dizzy mystery master title audit great upset fantasy bright";

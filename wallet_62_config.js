@@ -1,1 +1,1 @@
-var mnemonic = "merit learn canyon position bitter people old segment clean book enable staff";
+var mnemonic = "flavor fruit snow craft auto museum wide extra order ability tube evolve";

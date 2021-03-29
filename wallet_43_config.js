@@ -1,1 +1,1 @@
-var mnemonic = "way orbit domain banner mixed possible until first surge talk debate keep";
+var mnemonic = "joke scene fun clarify raw crew mimic indoor web scrap lottery dream";

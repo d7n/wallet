@@ -1,1 +1,1 @@
-var mnemonic = "snow warrior time unfair lens sorry grunt frost random exclude traffic consider";
+var mnemonic = "bubble bubble obscure diet circle mirror scorpion outside extend room satoshi marble";

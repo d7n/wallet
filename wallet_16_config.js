@@ -1,1 +1,1 @@
-var mnemonic = "balcony dentist deputy keep modify daughter wet stamp apart noise little inside";
+var mnemonic = "novel glow effort parrot trouble change eager fortune grant donor model battle";

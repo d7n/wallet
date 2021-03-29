@@ -1,1 +1,1 @@
-var mnemonic = "danger topic degree consider hello style inform panic catalog enemy tank peanut";
+var mnemonic = "host dial corn demand tumble begin floor mountain service effort favorite trumpet";

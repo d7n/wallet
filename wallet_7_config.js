@@ -1,1 +1,1 @@
-var mnemonic = "news page detail used wool bring bitter verify better toss frost curve";
+var mnemonic = "arrange cook clinic nest indicate stick escape obtain stuff dose shift fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "few custom song blur square fine wreck decrease trade session color nephew";
+var mnemonic = "exile patrol spider book entry ancient tiny sport lonely about because hamster";

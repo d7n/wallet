@@ -1,1 +1,1 @@
-var mnemonic = "link boring install reveal upper habit decline code vibrant agree stone arch";
+var mnemonic = "bracket sunset switch sorry sign lava cheap initial grid purchase relax run";

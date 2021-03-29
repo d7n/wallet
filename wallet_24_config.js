@@ -1,1 +1,1 @@
-var mnemonic = "install game sand country famous since level pattern wet sample detail gadget";
+var mnemonic = "alarm grunt festival soon click capital attack quality party universe shed grass";

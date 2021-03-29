@@ -1,1 +1,1 @@
-var mnemonic = "length funny erode donor february float tuition receive surprise apple arrest magnet";
+var mnemonic = "load discover fee mango buffalo connect attend soda twist interest vault cargo";

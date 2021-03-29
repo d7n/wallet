@@ -1,1 +1,1 @@
-var mnemonic = "hand affair cycle cute occur tilt always just pigeon bachelor include glad";
+var mnemonic = "boy wait strategy potato main bicycle already globe cat stay absorb wash";

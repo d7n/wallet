@@ -1,1 +1,1 @@
-var mnemonic = "nasty sister know crystal fitness rail famous pony claim network vapor fly";
+var mnemonic = "daring ticket ostrich rebuild panda miss orient humble champion recall aware garlic";

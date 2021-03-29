@@ -1,1 +1,1 @@
-var mnemonic = "suffer ship patrol allow cancel deputy connect amused trap maximum document actor";
+var mnemonic = "mountain ecology brisk secret elder fatal forward sausage sail pair exile pulp";

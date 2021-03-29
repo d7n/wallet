@@ -1,1 +1,1 @@
-var mnemonic = "gown detail kite squeeze bounce category tide exit shoe rent stable lecture";
+var mnemonic = "device vintage pioneer gentle kid deposit wasp nose goat valley banana crop";

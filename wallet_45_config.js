@@ -1,1 +1,1 @@
-var mnemonic = "crop frozen wink family now oxygen approve piano load burger betray snap";
+var mnemonic = "skin defy hill cable fiber hobby credit blouse gain reduce baby record";

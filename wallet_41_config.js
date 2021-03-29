@@ -1,1 +1,1 @@
-var mnemonic = "remain picnic cupboard begin pull connect urban illegal online film resist chat";
+var mnemonic = "wife news chuckle have average social toss parent medal clump one cruel";

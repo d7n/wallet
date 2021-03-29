@@ -1,1 +1,1 @@
-var mnemonic = "crazy client tiny motor voice tackle mule door cigar legend differ stay";
+var mnemonic = "mother artist below tissue mouse female curve project baby carbon try mixture";

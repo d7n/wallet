@@ -1,1 +1,1 @@
-var mnemonic = "siege picture sunset entire orphan kiwi side anxiety knee stand until catalog";
+var mnemonic = "avoid shallow deposit meadow barely alpha bind ride eyebrow payment drastic topic";

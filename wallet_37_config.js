@@ -1,1 +1,1 @@
-var mnemonic = "dust exhibit armor apart normal winner dinosaur option lonely brisk vacuum excess";
+var mnemonic = "metal exist correct face color industry loud cloud raven dentist caught dune";

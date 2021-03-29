@@ -1,1 +1,1 @@
-var mnemonic = "tonight mesh zebra kick trust resist decorate guard hamster isolate poem squirrel";
+var mnemonic = "strong input castle witness border boring love license cotton cotton topic nose";

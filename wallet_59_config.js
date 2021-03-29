@@ -1,1 +1,1 @@
-var mnemonic = "sorry feed artefact bless spray warrior diamond flip salad cherry giant balance";
+var mnemonic = "daughter unaware midnight endless nurse tuna party olympic gift expand hedgehog fall";

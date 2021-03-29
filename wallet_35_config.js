@@ -1,1 +1,1 @@
-var mnemonic = "embark exotic unable repair field near damp naive sword expire fossil toward";
+var mnemonic = "reveal spoil bullet fiscal traffic coast story afraid cruise alpha mind reason";

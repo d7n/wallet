@@ -1,1 +1,1 @@
-var mnemonic = "reveal leg trip rough run demand before chase barely worth ceiling industry";
+var mnemonic = "remember cargo furnace episode worth ski begin flat mule slam flavor broccoli";

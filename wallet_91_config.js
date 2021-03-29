@@ -1,1 +1,1 @@
-var mnemonic = "plate scorpion kiwi invite foam warm sample asthma broom drama vessel impulse";
+var mnemonic = "second scheme wonder jump adjust champion window feel rose million credit cloud";

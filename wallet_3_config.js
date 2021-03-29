@@ -1,1 +1,1 @@
-var mnemonic = "anger sound gate face grab usual illness thrive then boring taste mother";
+var mnemonic = "pyramid acoustic proof move pluck wing rally priority slush engage wear maze";

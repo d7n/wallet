@@ -1,1 +1,1 @@
-var mnemonic = "acid neutral profit absent wife metal million rather question differ obey pill";
+var mnemonic = "olive repeat junior hub actor milk wire fluid oven exotic assume blush";

@@ -1,1 +1,1 @@
-var mnemonic = "timber panther smooth galaxy text lecture swift group jewel cruise sound gravity";
+var mnemonic = "fox elder casino garden eager zone stay grocery move truly situate diamond";

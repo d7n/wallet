@@ -1,1 +1,1 @@
-var mnemonic = "swim crouch evoke dentist crazy open miss total card cheese online convince";
+var mnemonic = "sibling exhaust excite rule fury jewel sleep chronic album ticket guilt ribbon";

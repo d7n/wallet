@@ -1,1 +1,1 @@
-var mnemonic = "forum rich oil power size barely cheap produce skull speed inquiry law";
+var mnemonic = "daring neutral tool element captain battle whisper hub super screen company orphan";

@@ -1,1 +1,1 @@
-var mnemonic = "sense energy coffee upper hedgehog unhappy trip quantum potato render shoulder tobacco";
+var mnemonic = "neutral mind arrow staff carbon hope zoo develop project only resemble risk";

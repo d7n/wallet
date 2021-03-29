@@ -1,1 +1,1 @@
-var mnemonic = "mail myself anchor replace attitude nominee stay six body omit grow leopard";
+var mnemonic = "puppy talk suggest helmet spoil faint pilot pilot dinosaur current fortune river";
