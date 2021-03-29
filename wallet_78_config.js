@@ -1,1 +1,1 @@
-var mnemonic = "kingdom aunt crisp grid myth input stay lunch blood cinnamon give inhale";
+var mnemonic = "present elder rely agree jewel wire caution scissors refuse laugh roast seven";

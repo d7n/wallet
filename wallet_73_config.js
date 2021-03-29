@@ -1,1 +1,1 @@
-var mnemonic = "only flat echo bronze collect among develop convince invite behave indoor grace";
+var mnemonic = "spice unique noble chat excuse someone meat avocado outdoor bicycle copper slogan";

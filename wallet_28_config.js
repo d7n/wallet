@@ -1,1 +1,1 @@
-var mnemonic = "farm shrug jungle often solution try shed clerk echo express below because";
+var mnemonic = "dice area method ten income boil slight mobile report purse relief you";

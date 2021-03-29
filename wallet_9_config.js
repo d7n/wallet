@@ -1,1 +1,1 @@
-var mnemonic = "option okay please acoustic rapid essay note clump venture champion drip vendor";
+var mnemonic = "race room school glare sphere once awkward remove lift mother unlock want";

@@ -1,1 +1,1 @@
-var mnemonic = "sport athlete list extra vocal escape next danger maid express evoke rain";
+var mnemonic = "theory apology swift apple purpose border recall quiz icon cannon romance bid";

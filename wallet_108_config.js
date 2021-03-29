@@ -1,1 +1,1 @@
-var mnemonic = "quarter entry share onion net tree shrimp wife release defy just scout";
+var mnemonic = "flag input crime amount caught sphere expose medal sphere task fix crumble";

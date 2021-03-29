@@ -1,1 +1,1 @@
-var mnemonic = "sense wagon unknown marine hawk lawn normal near before minimum latin alien";
+var mnemonic = "remove merge lock radar cream tower during cream sibling disorder excess setup";

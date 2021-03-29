@@ -1,1 +1,1 @@
-var mnemonic = "crouch grocery detect trigger domain wife music strike reunion kiss crucial essence";
+var mnemonic = "guard radar whisper again define minute myth setup volcano casual illness tag";

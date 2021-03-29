@@ -1,1 +1,1 @@
-var mnemonic = "oxygen south scare protect tuna oppose empty sing stadium edit cradle concert";
+var mnemonic = "wine slam old curve tragic enjoy sample right spin razor tongue awesome";

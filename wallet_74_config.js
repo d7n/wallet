@@ -1,1 +1,1 @@
-var mnemonic = "badge term village addict pioneer column wave virtual canvas fluid stadium expect";
+var mnemonic = "void extra parent thrive vast deal leader require cram boy humor raw";

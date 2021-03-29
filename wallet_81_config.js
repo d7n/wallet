@@ -1,1 +1,1 @@
-var mnemonic = "hunt broken artwork inform nice siege menu crash cart royal toast grunt";
+var mnemonic = "spread rent car doctor brisk vault vapor lava belt left bargain banana";

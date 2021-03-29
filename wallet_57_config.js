@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit rib butter duty type essay flower supreme property axis silent upper";
+var mnemonic = "spare vital guess outer manual method dentist brief permit priority hundred swing";

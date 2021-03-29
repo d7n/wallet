@@ -1,1 +1,1 @@
-var mnemonic = "path birth cute insane scissors crater zero school angry hundred castle fiscal";
+var mnemonic = "scare cinnamon aisle people test worry dawn oppose end alpha vivid luggage";

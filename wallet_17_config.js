@@ -1,1 +1,1 @@
-var mnemonic = "mosquito two suit seed river target alter puppy ready wool bench reward";
+var mnemonic = "sphere pyramid annual impact pledge rug ribbon siren vessel already grief year";

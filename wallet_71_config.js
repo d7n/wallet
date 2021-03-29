@@ -1,1 +1,1 @@
-var mnemonic = "match shiver recycle runway rug rural speak flock explain idea vault this";
+var mnemonic = "copy diary opera genius vote cat kidney retire assist major diet misery";

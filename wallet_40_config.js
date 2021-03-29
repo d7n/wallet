@@ -1,1 +1,1 @@
-var mnemonic = "film faint loan tourist tomato congress expose distance happy icon arrest chair";
+var mnemonic = "weird mom emerge tank novel love walnut endless piece subject vapor pear";

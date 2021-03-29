@@ -1,1 +1,1 @@
-var mnemonic = "hand sister between material poem agree volume rubber already twin fiction chair";
+var mnemonic = "neither entry discover rain powder calm surprise wagon hat knock heavy wave";

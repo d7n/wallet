@@ -1,1 +1,1 @@
-var mnemonic = "ready latin attract act sauce boring worth rotate route match rice friend";
+var mnemonic = "tiger vapor edge miracle bounce acquire mystery alcohol else where anxiety very";

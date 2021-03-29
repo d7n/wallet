@@ -1,1 +1,1 @@
-var mnemonic = "test work arrange wife spatial tiger cabin chuckle stock regret ranch flag";
+var mnemonic = "zone leave aunt kiss fan retreat useless rabbit atom unusual under laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "section box observe gloom modify measure hamster marriage dose exit swim gun";
+var mnemonic = "party bless artist giggle live luggage vehicle click atom oak danger joy";

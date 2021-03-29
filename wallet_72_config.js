@@ -1,1 +1,1 @@
-var mnemonic = "unit resource account belt execute atom nominee often ripple tongue begin define";
+var mnemonic = "beyond trial insect room pupil page shrimp pause common ring erode rice";

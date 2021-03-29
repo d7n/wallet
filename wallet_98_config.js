@@ -1,1 +1,1 @@
-var mnemonic = "account rival token label side shed uniform oil south ribbon pave cradle";
+var mnemonic = "memory wonder defense ball cute system design flock embrace human barely stem";

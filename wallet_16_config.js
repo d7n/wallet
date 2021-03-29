@@ -1,1 +1,1 @@
-var mnemonic = "vast sad oblige midnight inherit timber clock sick fault board scorpion secret";
+var mnemonic = "already tooth river skate job upper acoustic ship vendor ankle hotel push";

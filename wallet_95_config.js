@@ -1,1 +1,1 @@
-var mnemonic = "giant lava area apart drum doll seek bomb parade weather test engage";
+var mnemonic = "cherry immense light where steel truth favorite afford drama wire airport offer";

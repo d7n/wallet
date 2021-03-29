@@ -1,1 +1,1 @@
-var mnemonic = "hurdle two trim mule position industry illegal scan photo grain art moment";
+var mnemonic = "melody web cement machine disagree cloth among latin tool people upset length";

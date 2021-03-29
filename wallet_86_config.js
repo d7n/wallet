@@ -1,1 +1,1 @@
-var mnemonic = "train demand wave roast wink cram spike trap fiscal target trigger horror";
+var mnemonic = "climb pet injury addict rack floor way trust disease soul happy exhaust";

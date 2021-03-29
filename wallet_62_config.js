@@ -1,1 +1,1 @@
-var mnemonic = "update legal lava analyst target destroy torch until spatial bike genre rapid";
+var mnemonic = "student citizen ice blind pyramid network unlock nest lizard shove talent slow";

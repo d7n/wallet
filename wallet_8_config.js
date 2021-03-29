@@ -1,1 +1,1 @@
-var mnemonic = "humble nothing dry hobby bag office autumn animal tomorrow garden warfare search";
+var mnemonic = "enrich profit venue dentist bulb slim scale result awake distance draft topic";

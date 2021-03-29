@@ -1,1 +1,1 @@
-var mnemonic = "lab slush draft brush machine confirm head wealth ball clean velvet detect";
+var mnemonic = "venture again joy fatigue blouse portion tell visual edit fitness exhibit warm";

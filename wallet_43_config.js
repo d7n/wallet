@@ -1,1 +1,1 @@
-var mnemonic = "expire other coyote dragon device police lunch crystal act put tail iron";
+var mnemonic = "cabin dune unhappy mystery enjoy time desert eight lonely wide quiz olive";

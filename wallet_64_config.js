@@ -1,1 +1,1 @@
-var mnemonic = "deny series multiply grit uncle finish neither situate subject history casino vast";
+var mnemonic = "kiwi funny vibrant humble always spatial planet avoid monitor minimum stool goat";

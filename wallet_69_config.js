@@ -1,1 +1,1 @@
-var mnemonic = "erase surprise ancient gold tunnel menu electric wing diamond anger absent cradle";
+var mnemonic = "fee ecology fade power immense system jealous patrol render express express vocal";

@@ -1,1 +1,1 @@
-var mnemonic = "twenty project buzz welcome usage hybrid iron nest thumb space depth banner";
+var mnemonic = "total cotton visual cost rule orient brick combine basic rough honey fork";

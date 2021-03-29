@@ -1,1 +1,1 @@
-var mnemonic = "crater one twenty pencil clarify field regular eye cry verb liberty fragile";
+var mnemonic = "stage escape shine chuckle spare muffin often crucial rule volume canoe fetch";

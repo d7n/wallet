@@ -1,1 +1,1 @@
-var mnemonic = "movie flower famous essence labor divide meat copper sorry knock catalog foot";
+var mnemonic = "evil subway decade awake require various arrive simple wagon dress shift soft";

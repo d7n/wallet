@@ -1,1 +1,1 @@
-var mnemonic = "fruit pony stick slender adjust beauty excess autumn math guide purse title";
+var mnemonic = "catch produce fee claw immune culture carpet foster current hill flip come";

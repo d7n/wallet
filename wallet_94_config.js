@@ -1,1 +1,1 @@
-var mnemonic = "basket use august derive radio jungle vapor book auction panda invite online";
+var mnemonic = "another dumb dwarf wrap round night amazing metal hub surround depth universe";

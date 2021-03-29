@@ -1,1 +1,1 @@
-var mnemonic = "music express stool steak torch make glue tail result lava carbon shell";
+var mnemonic = "owner walk force parade liar scare note card turtle impose together despair";

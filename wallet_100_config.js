@@ -1,1 +1,1 @@
-var mnemonic = "valley quantum mixed smile tower woman kit marine dog solution celery lamp";
+var mnemonic = "volcano scatter steel affair tennis vapor ghost valid grass income congress strike";

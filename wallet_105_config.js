@@ -1,1 +1,1 @@
-var mnemonic = "wage scatter cinnamon cat prepare fiscal write elevator radio destroy process delay";
+var mnemonic = "seek stage sponsor genuine almost make drip artwork off cheap letter urge";

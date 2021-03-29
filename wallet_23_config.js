@@ -1,1 +1,1 @@
-var mnemonic = "suspect hero pave soup rose easily clarify real husband blush bike pony";
+var mnemonic = "wood chest antenna notable assist scale suspect heavy damp never awkward attend";

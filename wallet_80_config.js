@@ -1,1 +1,1 @@
-var mnemonic = "civil story offer gesture once alter transfer exact novel apple panic welcome";
+var mnemonic = "spatial current wine oblige fitness energy inhale alien lion loud hat escape";

@@ -1,1 +1,1 @@
-var mnemonic = "company december image olive file recall gospel number attend vast sock fix";
+var mnemonic = "struggle tide economy visit can neck shoulder supreme exile lesson palace actress";

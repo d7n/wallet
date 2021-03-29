@@ -1,1 +1,1 @@
-var mnemonic = "add subject race slot two rude expose stay element dolphin foster give";
+var mnemonic = "cactus drastic game tower air order right dentist jelly sadness live jacket";

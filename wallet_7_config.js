@@ -1,1 +1,1 @@
-var mnemonic = "entire choose busy draft crowd mystery poem leisure bus alarm arrow repair";
+var mnemonic = "village lake man reduce bubble hand slide claim primary pass dust luggage";

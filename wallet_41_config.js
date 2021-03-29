@@ -1,1 +1,1 @@
-var mnemonic = "collect model slender monster combine canyon depend sorry volcano focus cruise regret";
+var mnemonic = "door goddess panther wisdom baby brisk clown about jeans faint divorce country";

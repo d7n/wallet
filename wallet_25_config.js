@@ -1,1 +1,1 @@
-var mnemonic = "explain deputy wine table fragile dismiss tray find river can fun relax";
+var mnemonic = "endorse pitch option robot auction post dawn clean drum topple super father";

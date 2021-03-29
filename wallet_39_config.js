@@ -1,1 +1,1 @@
-var mnemonic = "enhance sort dog region liberty solid shy style guard drive clarify mountain";
+var mnemonic = "keep such organ stomach rigid fault plate inflict kick rule betray shiver";

@@ -1,1 +1,1 @@
-var mnemonic = "robot local water drift again initial type assist marine measure shy tunnel";
+var mnemonic = "panther asthma symptom pupil hire harvest rent still habit pipe obey fury";

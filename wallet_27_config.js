@@ -1,1 +1,1 @@
-var mnemonic = "simple plate correct pupil filter limb assault clip gadget crash furnace earn";
+var mnemonic = "champion tumble close have sphere room slice gentle equip regret fork proof";

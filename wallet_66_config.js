@@ -1,1 +1,1 @@
-var mnemonic = "motor embrace ripple genre print misery salmon foam detect morning mom eye";
+var mnemonic = "virus always wonder ride banner mango caution bus once story silent excite";

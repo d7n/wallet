@@ -1,1 +1,1 @@
-var mnemonic = "regular impose foster price car trim firm math correct window distance grass";
+var mnemonic = "prosper dignity enroll lemon monitor employ excite misery roast depth bag story";

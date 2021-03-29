@@ -1,1 +1,1 @@
-var mnemonic = "husband salad bright avocado mother thing jeans bless train lounge begin cart";
+var mnemonic = "speed blanket creek honey example pond copper fix head owner response coffee";

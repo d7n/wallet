@@ -1,1 +1,1 @@
-var mnemonic = "pill actual day search shaft jelly dust grape shed match chest illness";
+var mnemonic = "tackle label trim city journey tower build flat pizza morning mule walk";

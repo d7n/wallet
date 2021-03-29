@@ -1,1 +1,1 @@
-var mnemonic = "slogan life category kid tribe will pave salute vendor panther hurry hidden";
+var mnemonic = "trumpet group since silver blur such fox speed wear ring voyage super";

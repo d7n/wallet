@@ -1,1 +1,1 @@
-var mnemonic = "matter mystery taxi shuffle cigar concert lemon wide web online vibrant best";
+var mnemonic = "stock siege approve trial crime hint deliver actor benefit enlist sauce grab";

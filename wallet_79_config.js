@@ -1,1 +1,1 @@
-var mnemonic = "sea property egg message cotton fuel scheme soft left thrive lab invite";
+var mnemonic = "type boss glove waste online cave try dutch drill between brick test";

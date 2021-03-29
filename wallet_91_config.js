@@ -1,1 +1,1 @@
-var mnemonic = "public salute detail venue eye dad ritual purpose thing embody december excite";
+var mnemonic = "spend clutch horse dinosaur tree ten stereo donor fee misery grunt target";

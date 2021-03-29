@@ -1,1 +1,1 @@
-var mnemonic = "happy two layer repeat wonder exist trick novel vessel zone vanish rice";
+var mnemonic = "sniff bag broccoli harvest program trip below civil wish abstract lens voice";

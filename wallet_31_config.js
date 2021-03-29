@@ -1,1 +1,1 @@
-var mnemonic = "liberty unhappy behind radio boil canyon glide artwork wrist post demand broccoli";
+var mnemonic = "denial hat silly work moral thank person song foam swift smart stove";

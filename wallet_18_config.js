@@ -1,1 +1,1 @@
-var mnemonic = "struggle teach joy rare whisper catch round depart cause future another major";
+var mnemonic = "divide crane bullet six olympic hidden prepare remove wrap explain oxygen combine";

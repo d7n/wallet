@@ -1,1 +1,1 @@
-var mnemonic = "index ribbon deputy raw struggle era fault trip certain glory mutual loop";
+var mnemonic = "there ugly timber civil pave prevent unhappy pioneer genuine rare much column";

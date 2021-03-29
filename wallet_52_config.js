@@ -1,1 +1,1 @@
-var mnemonic = "green need flock gold tooth column employ riot level client joke law";
+var mnemonic = "frown sign dilemma metal evil rubber loud two toy leader skirt amount";

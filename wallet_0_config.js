@@ -1,1 +1,1 @@
-var mnemonic = "taxi auction service venue series metal thrive okay rural good battle crater";
+var mnemonic = "vapor pig venue grid nice inspire joke spot asthma update amateur devote";

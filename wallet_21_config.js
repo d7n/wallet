@@ -1,1 +1,1 @@
-var mnemonic = "throw stay never appear general mandate meat nice hazard define expose casual";
+var mnemonic = "unit moral romance patch tower urge grain uncle lyrics chase liquid omit";

@@ -1,1 +1,1 @@
-var mnemonic = "onion burger muscle mouse unit depth flag awesome add pig scrap monkey";
+var mnemonic = "awake harsh knock gossip area distance thrive session art script once laugh";

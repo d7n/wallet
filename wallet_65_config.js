@@ -1,1 +1,1 @@
-var mnemonic = "myth fade salmon snow sing local poet rhythm autumn palace chronic fault";
+var mnemonic = "close fortune display faculty cruel tortoise kiwi together balance example very robust";

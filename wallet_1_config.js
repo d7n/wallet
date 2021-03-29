@@ -1,1 +1,1 @@
-var mnemonic = "scissors glimpse wreck gym bullet fashion topple obey memory uphold logic senior";
+var mnemonic = "unable lyrics tomorrow artwork angry bomb vast unfold mango cage shoot oxygen";

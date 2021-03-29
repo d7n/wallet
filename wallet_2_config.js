@@ -1,1 +1,1 @@
-var mnemonic = "ice surge example merry fork punch provide bulk very capable unlock ginger";
+var mnemonic = "still merry term reject glare enrich avocado tunnel tomorrow glove almost upper";

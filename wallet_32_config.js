@@ -1,1 +1,1 @@
-var mnemonic = "snap error tower peasant fresh vault short else army pulp weasel hint";
+var mnemonic = "throw bacon kind good taste humor close afraid annual under mom smart";

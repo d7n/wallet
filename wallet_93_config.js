@@ -1,1 +1,1 @@
-var mnemonic = "enable thunder cook bag census lock theme glue office nose today reflect";
+var mnemonic = "image erase truly burger build swing blast iron bring stand connect anchor";

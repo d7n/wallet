@@ -1,1 +1,1 @@
-var mnemonic = "valve virtual rose sugar audit cluster teach surprise rich battle identify blame";
+var mnemonic = "hammer ring crack toy orchard special melt range clutch renew capable enhance";

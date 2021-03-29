@@ -1,1 +1,1 @@
-var mnemonic = "rural party happy possible crush father absurd moral ridge argue primary media";
+var mnemonic = "kid client coin lock tourist idea sheriff design uniform body rice lumber";

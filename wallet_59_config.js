@@ -1,1 +1,1 @@
-var mnemonic = "answer boy nuclear glimpse swing sketch humor master elegant whale ill tunnel";
+var mnemonic = "illegal torch pink pull unhappy conduct denial game escape lunch feature reason";

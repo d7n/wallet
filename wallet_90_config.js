@@ -1,1 +1,1 @@
-var mnemonic = "journey rescue turn delay exclude control nominee ocean tiger achieve fee lizard";
+var mnemonic = "long what pink reunion pistol edge rocket moon meadow cattle dress month";

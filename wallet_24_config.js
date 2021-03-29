@@ -1,1 +1,1 @@
-var mnemonic = "goddess assume okay grant tragic science opera foot ask clutch sorry loan";
+var mnemonic = "quit plug lyrics december cover problem ritual attitude shoot today shield track";

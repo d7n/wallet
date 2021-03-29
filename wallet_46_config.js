@@ -1,1 +1,1 @@
-var mnemonic = "puzzle foot yard save offer clinic paddle onion anger fever common bracket";
+var mnemonic = "light relax slight two diesel regular fabric injury toy mechanic imitate struggle";

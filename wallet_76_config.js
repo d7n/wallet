@@ -1,1 +1,1 @@
-var mnemonic = "sponsor put wait island other test reform surround page hockey glove gym";
+var mnemonic = "bargain critic topic census fade guess bird idle select mother project prevent";

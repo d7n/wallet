@@ -1,1 +1,1 @@
-var mnemonic = "vacuum stairs sunny fiber harvest scene stamp have inner torch spoil have";
+var mnemonic = "armor lonely hawk acoustic endless ankle cigar execute sport chat zoo enrich";

@@ -1,1 +1,1 @@
-var mnemonic = "beef peanut raw step wealth install version infant skull just grid solar";
+var mnemonic = "hard shed monitor win rabbit wagon frequent lumber thumb subject glass beauty";

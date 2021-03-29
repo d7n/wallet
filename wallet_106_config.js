@@ -1,1 +1,1 @@
-var mnemonic = "vault close eyebrow black bridge adult gospel above that frame despair kick";
+var mnemonic = "chase head unlock ramp cheese mutual suggest identify illness avoid upset faint";

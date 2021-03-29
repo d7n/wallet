@@ -1,1 +1,1 @@
-var mnemonic = "favorite cycle curtain hybrid prevent pipe kidney idea bitter success west rural";
+var mnemonic = "bubble club alley blast enlist hand rice attract must monster wait absurd";

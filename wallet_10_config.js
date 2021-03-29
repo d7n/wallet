@@ -1,1 +1,1 @@
-var mnemonic = "meat obvious cruel tube large frequent news liquid minimum under remind drill";
+var mnemonic = "opera enable track scatter misery seat garment nice course cat useful twist";

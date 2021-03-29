@@ -1,1 +1,1 @@
-var mnemonic = "example category can hill nation identify hurdle vehicle fat oval fabric digital";
+var mnemonic = "elite output canvas fashion figure siege long negative alert draft van cat";

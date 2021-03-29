@@ -1,1 +1,1 @@
-var mnemonic = "conduct witness ticket person wisdom toward online toe umbrella subject never reveal";
+var mnemonic = "lucky spend tank day cave matrix merge turn chapter video excite call";

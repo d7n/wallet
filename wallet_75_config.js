@@ -1,1 +1,1 @@
-var mnemonic = "cousin member hen lift unfold narrow select luxury pave avocado what try";
+var mnemonic = "copper aim grace approve file name push tired later spatial post surprise";
