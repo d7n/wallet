@@ -1,1 +1,1 @@
-var mnemonic = "ocean fit mind cliff coconut gentle shrug evidence february able door unfair";
+var mnemonic = "tumble random federal climb saddle summer immune lava shock sound hammer letter";

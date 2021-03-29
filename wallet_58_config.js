@@ -1,1 +1,1 @@
-var mnemonic = "return dismiss tape beauty nose possible stamp grief fame verb again average";
+var mnemonic = "remove arena rural relax aware verb engine mad moment lounge lava own";

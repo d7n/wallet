@@ -1,1 +1,1 @@
-var mnemonic = "return rain delay pass flee verify clever similar gym cube invite neglect";
+var mnemonic = "option left rebuild obscure debate inquiry brother skill address stuff bring various";

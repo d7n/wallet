@@ -1,1 +1,1 @@
-var mnemonic = "indicate paddle slice despair project resist gate season such stool offer ripple";
+var mnemonic = "priority asset bitter memory scale attract hood sail mixed lawn menu slight";

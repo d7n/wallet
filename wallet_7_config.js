@@ -1,1 +1,1 @@
-var mnemonic = "spoil birth little nurse begin rally puppy supreme during comfort novel fiscal";
+var mnemonic = "purpose drift garage cart scene list regular penalty brother left eternal finish";

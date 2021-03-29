@@ -1,1 +1,1 @@
-var mnemonic = "cloth jazz aim weasel park metal beef mercy chaos orphan make curtain";
+var mnemonic = "three bullet then nasty document lava sock dog rebuild glory ride spell";

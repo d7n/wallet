@@ -1,1 +1,1 @@
-var mnemonic = "sound wool patient naive immune prison punch derive clinic century toss live";
+var mnemonic = "nature swallow mix chat taxi leaf poverty broken result fit void bag";

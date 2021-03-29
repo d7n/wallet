@@ -1,1 +1,1 @@
-var mnemonic = "town ocean arrive depth spend bargain muffin lava clean guard kind easy";
+var mnemonic = "balance explain cable sail stand decide shop trick material husband nose west";

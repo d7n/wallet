@@ -1,1 +1,1 @@
-var mnemonic = "license update secret quiz potato mass wide abstract plunge media front ritual";
+var mnemonic = "inject summer sketch wealth reduce easily moon myself wrestle venture seven trial";

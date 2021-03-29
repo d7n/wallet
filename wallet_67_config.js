@@ -1,1 +1,1 @@
-var mnemonic = "expand accident bid guilt demise misery deliver similar bicycle solve subway custom";
+var mnemonic = "deny nice shop popular patient hungry ankle glow melt ahead worth worth";

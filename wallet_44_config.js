@@ -1,1 +1,1 @@
-var mnemonic = "fatigue arctic throw wood tourist coffee outer lumber velvet spike seek talk";
+var mnemonic = "protect double category fortune razor vendor dry truly favorite fresh special future";

@@ -1,1 +1,1 @@
-var mnemonic = "canoe firm panel badge length battle economy kid company now dog multiply";
+var mnemonic = "ready lawn ranch memory injury hour course polar benefit video sand sausage";

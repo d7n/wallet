@@ -1,1 +1,1 @@
-var mnemonic = "tank view spring panther sort route sing spice smooth better purity vivid";
+var mnemonic = "fringe panic utility damage carpet chest rain giant head crazy echo citizen";

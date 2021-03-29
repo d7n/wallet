@@ -1,1 +1,1 @@
-var mnemonic = "dynamic opera inform romance surround prosper express heavy green cute swallow exit";
+var mnemonic = "cinnamon layer soup nominee chapter company fall chaos safe impose exhibit same";

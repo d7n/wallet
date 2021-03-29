@@ -1,1 +1,1 @@
-var mnemonic = "foot walk frost knee glide oyster century key fatigue ticket flat rude";
+var mnemonic = "moon ladder armed sleep barrel effort firm foam soccer empower vendor grocery";

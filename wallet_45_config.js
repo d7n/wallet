@@ -1,1 +1,1 @@
-var mnemonic = "avocado nuclear faith know raven ritual random minute cute route addict input";
+var mnemonic = "slim message list cement glance aware release green sand habit reject weather";

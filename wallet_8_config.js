@@ -1,1 +1,1 @@
-var mnemonic = "blood faith repair trick swarm half tooth sound once fossil three nominee";
+var mnemonic = "bundle village live joke team various chief junior lecture possible fever surface";

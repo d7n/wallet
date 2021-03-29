@@ -1,1 +1,1 @@
-var mnemonic = "swamp boost asthma sport casino accuse cloud grid ski dilemma involve atom";
+var mnemonic = "damage meadow slab rookie shock usual skull link palm citizen salute river";

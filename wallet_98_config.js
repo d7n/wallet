@@ -1,1 +1,1 @@
-var mnemonic = "chicken wage broom crush captain brick hawk sure velvet inquiry rebuild damp";
+var mnemonic = "energy busy main idea bottom bird potato lake disorder affair rubber garbage";

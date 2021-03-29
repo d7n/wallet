@@ -1,1 +1,1 @@
-var mnemonic = "vintage owner pistol rubber book tissue oak gas fashion warrior taxi expand";
+var mnemonic = "avoid hybrid afford burden unknown void quarter bacon ketchup found check prepare";

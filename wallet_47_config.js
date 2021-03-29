@@ -1,1 +1,1 @@
-var mnemonic = "goose cousin puppy write fatal sting orchard hurry similar social pizza stock";
+var mnemonic = "picnic twin labor armor shed august wave fashion orbit final fashion almost";

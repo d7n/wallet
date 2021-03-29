@@ -1,1 +1,1 @@
-var mnemonic = "october orchard element loud arch steak palace purpose great large jazz citizen";
+var mnemonic = "useful punch panther matter bronze mutual tube across urban weather crisp crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "false fitness give visa help reject track hungry shell swim route dolphin";
+var mnemonic = "slice rule derive blame cool orbit fame sphere trim junior meat marine";

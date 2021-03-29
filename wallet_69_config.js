@@ -1,1 +1,1 @@
-var mnemonic = "oppose regular magnet hub original excess fiber rebel shy label cancel gallery";
+var mnemonic = "diesel later friend cargo render disorder chapter idea antenna feed negative employ";

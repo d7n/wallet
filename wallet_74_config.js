@@ -1,1 +1,1 @@
-var mnemonic = "account upset chunk tornado easy priority half mobile keen cash solution elephant";
+var mnemonic = "exchange again please door tiny stamp icon foot oxygen wise inside misery";

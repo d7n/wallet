@@ -1,1 +1,1 @@
-var mnemonic = "chase book photo donkey reopen loud gadget affair clump soap box panel";
+var mnemonic = "orient marine depend dizzy name pen glare video rough divide spin coin";

@@ -1,1 +1,1 @@
-var mnemonic = "gasp burger salt idle upset brave humor perfect they later add scissors";
+var mnemonic = "pass army goat monitor length impose expire across wealth silver marble bulk";

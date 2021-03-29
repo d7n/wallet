@@ -1,1 +1,1 @@
-var mnemonic = "skirt visual minimum thought blur split human rifle umbrella depart wood fever";
+var mnemonic = "dynamic hold space whale weather cook two maple tilt crop grid eager";

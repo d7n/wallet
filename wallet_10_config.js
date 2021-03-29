@@ -1,1 +1,1 @@
-var mnemonic = "debate text have until major boss gadget leader page salad deal fury";
+var mnemonic = "lyrics tank toddler atom worth business hobby shield hero race use flag";

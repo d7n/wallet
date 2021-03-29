@@ -1,1 +1,1 @@
-var mnemonic = "allow process system news must future sleep throw regret noble bid health";
+var mnemonic = "cause derive estate skate party square index solve amazing negative machine misery";

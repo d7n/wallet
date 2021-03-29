@@ -1,1 +1,1 @@
-var mnemonic = "cloud maze innocent tiger blue name rubber penalty thought element purse tube";
+var mnemonic = "spot ecology off mushroom pelican asset protect truck evil rib extra excite";

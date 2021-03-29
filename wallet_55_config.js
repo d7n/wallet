@@ -1,1 +1,1 @@
-var mnemonic = "mask symptom palm whisper fox prevent pitch wrestle black wire car benefit";
+var mnemonic = "just scatter symbol seek need soldier lounge useless twice mule diesel caution";

@@ -1,1 +1,1 @@
-var mnemonic = "chest urge verify galaxy announce theory equip myth turtle garage large use";
+var mnemonic = "proof peace scrub light winter certain rug betray retreat only pony olive";

@@ -1,1 +1,1 @@
-var mnemonic = "father coral buzz enact actress install diamond foil whip claw zoo awkward";
+var mnemonic = "glow salute present zone husband stable annual cook rural bind weapon foam";

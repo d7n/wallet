@@ -1,1 +1,1 @@
-var mnemonic = "near include humor symbol marine below claim favorite rude provide cycle warfare";
+var mnemonic = "prevent armed already under kite win clog legend before infant alter august";

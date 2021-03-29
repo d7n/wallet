@@ -1,1 +1,1 @@
-var mnemonic = "universe supreme avoid silver diary broccoli prison path expect eagle coin echo";
+var mnemonic = "position piano crush kite diamond find settle assault tray pulse benefit mass";

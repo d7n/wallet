@@ -1,1 +1,1 @@
-var mnemonic = "anxiety paper famous tragic bacon purse metal dad banner garage home reform";
+var mnemonic = "unlock obtain marine vacant relief kangaroo west clump decorate unfair choice love";

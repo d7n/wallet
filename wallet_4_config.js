@@ -1,1 +1,1 @@
-var mnemonic = "unhappy unusual embody wild warrior couch select image advice hair simple universe";
+var mnemonic = "crowd quantum trust industry aware during physical high proud truck fluid library";

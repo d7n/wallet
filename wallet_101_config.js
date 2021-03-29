@@ -1,1 +1,1 @@
-var mnemonic = "number cram electric used case object where powder magic ill wild empower";
+var mnemonic = "visa mixture once tape dawn toss urge salad female dumb fire elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "chair cheap remove canvas path pencil install stairs twin exile coin ostrich";
+var mnemonic = "circle under bitter since time tail improve estate trade method bus glad";

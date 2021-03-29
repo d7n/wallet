@@ -1,1 +1,1 @@
-var mnemonic = "lawn shrimp panel retreat goddess mouse donate media chaos crowd short wise";
+var mnemonic = "earth obvious forest destroy ensure young pulp universe metal smooth mail pudding";

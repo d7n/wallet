@@ -1,1 +1,1 @@
-var mnemonic = "erosion canyon thrive slice song aisle impact blur mercy indoor park depth";
+var mnemonic = "inquiry anchor visa outer license cage garden deposit voice wasp outer hello";

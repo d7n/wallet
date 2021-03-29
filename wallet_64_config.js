@@ -1,1 +1,1 @@
-var mnemonic = "mushroom rescue ritual clay east order embrace execute vintage share tribe carbon";
+var mnemonic = "jelly attract when gift achieve uncle point flee success harbor violin cat";

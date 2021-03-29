@@ -1,1 +1,1 @@
-var mnemonic = "ice opera tag raise surround shoulder control harvest junior radio narrow open";
+var mnemonic = "before peasant jelly peanut school humor invest shadow survey force meadow cement";

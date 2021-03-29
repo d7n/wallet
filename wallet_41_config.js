@@ -1,1 +1,1 @@
-var mnemonic = "problem crunch noble impulse ladder adult front test awake oppose eyebrow again";
+var mnemonic = "guitar quit cinnamon peasant settle trumpet twenty champion poet spoon rapid edge";

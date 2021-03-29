@@ -1,1 +1,1 @@
-var mnemonic = "govern receive riot kiss copy below grief seven reform acoustic cabbage round";
+var mnemonic = "mercy vibrant library welcome kangaroo raccoon length crystal social then goose know";

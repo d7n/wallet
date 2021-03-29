@@ -1,1 +1,1 @@
-var mnemonic = "coil maple hood range loop dumb inch lawsuit use coral lemon diet";
+var mnemonic = "acid strategy blush rack piano toss illness urban salmon cruel possible duty";

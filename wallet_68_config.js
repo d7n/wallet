@@ -1,1 +1,1 @@
-var mnemonic = "step era advice interest industry slam air west brand twice science post";
+var mnemonic = "decrease team sign assist exclude picnic ten oppose replace breeze twelve inch";

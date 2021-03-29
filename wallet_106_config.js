@@ -1,1 +1,1 @@
-var mnemonic = "try outdoor survey pencil dinner tribe door service tobacco destroy destroy food";
+var mnemonic = "hat funny polar reject round wrestle school plate awful magic large fancy";

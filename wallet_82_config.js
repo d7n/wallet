@@ -1,1 +1,1 @@
-var mnemonic = "you custom already expect control hover victory phone infant thing van stadium";
+var mnemonic = "sausage acid fever useful win basket educate deliver scheme ripple vintage acquire";

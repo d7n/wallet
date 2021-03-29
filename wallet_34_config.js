@@ -1,1 +1,1 @@
-var mnemonic = "pull ask world valley fox width announce warfare excite antique reject peanut";
+var mnemonic = "ivory panther earth recipe forward current young liquid hungry satisfy picnic good";

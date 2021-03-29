@@ -1,1 +1,1 @@
-var mnemonic = "response sight soul moment airport recipe icon source property style quality dinosaur";
+var mnemonic = "option educate decide basket rely daughter sort walnut nation rapid language youth";

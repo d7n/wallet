@@ -1,1 +1,1 @@
-var mnemonic = "loud cook real medal legal dumb expect sound club skirt pencil arrest";
+var mnemonic = "idea impulse angry soap material knee exclude sentence enforce menu popular enhance";

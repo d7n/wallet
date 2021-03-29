@@ -1,1 +1,1 @@
-var mnemonic = "wall asset tube snake bulb neither primary abuse mother behave mention tobacco";
+var mnemonic = "next marriage knife betray comfort century bean permit bean plastic final slim";

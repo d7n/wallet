@@ -1,1 +1,1 @@
-var mnemonic = "envelope spring misery climb budget treat swamp width body much copper great";
+var mnemonic = "castle traffic detail salon neck chapter animal stadium great resist attract drift";

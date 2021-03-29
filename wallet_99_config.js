@@ -1,1 +1,1 @@
-var mnemonic = "away hobby there enroll minimum goat program person quick answer chair vessel";
+var mnemonic = "capable correct curtain shuffle garden tape hunt ensure daughter supply weapon trim";

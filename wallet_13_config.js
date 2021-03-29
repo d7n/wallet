@@ -1,1 +1,1 @@
-var mnemonic = "barrel jewel ticket assault apart remain hurry foot shock hedgehog hold youth";
+var mnemonic = "provide box vacuum quality potato trade need boil warfare review tube run";

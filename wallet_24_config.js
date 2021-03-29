@@ -1,1 +1,1 @@
-var mnemonic = "valve gown dynamic false sketch like range all issue aunt dizzy pumpkin";
+var mnemonic = "inject evoke crucial gas cute short neglect ribbon spirit stove super agree";

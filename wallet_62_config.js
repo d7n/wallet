@@ -1,1 +1,1 @@
-var mnemonic = "glide vote outside vendor hybrid notice display round say april young mass";
+var mnemonic = "canyon capable main share again earn history dog card market welcome shop";

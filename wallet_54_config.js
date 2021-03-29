@@ -1,1 +1,1 @@
-var mnemonic = "art bulk iron coach neglect typical idea loud differ heart stereo desert";
+var mnemonic = "envelope fatal blue venture section bulk mad drum real radar robust squeeze";

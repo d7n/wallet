@@ -1,1 +1,1 @@
-var mnemonic = "window will match sense much rent awake lumber retire talent answer film";
+var mnemonic = "visual behave gossip then fancy around idea van deny mesh segment keep";

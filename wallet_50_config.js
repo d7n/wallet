@@ -1,1 +1,1 @@
-var mnemonic = "annual mango project genuine dish near blame search salon poverty item wrestle";
+var mnemonic = "couple bulk require uncle modify farm fetch chat spawn disease child robust";

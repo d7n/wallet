@@ -1,1 +1,1 @@
-var mnemonic = "rose winner knife disagree angle essay wave couple churn valley glide wool";
+var mnemonic = "home dawn share muscle valid glance rocket segment gravity tunnel mix throw";

@@ -1,1 +1,1 @@
-var mnemonic = "thought output tiny senior erase tired element unable oppose trigger bring group";
+var mnemonic = "genius funny latin giggle spawn small gift trigger base chair sail inch";

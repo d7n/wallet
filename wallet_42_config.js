@@ -1,1 +1,1 @@
-var mnemonic = "survey scissors protect airport slender purchase oven issue hover modify type mistake";
+var mnemonic = "print debate shop smart spider wrong adult cruise discover blame parade cinnamon";

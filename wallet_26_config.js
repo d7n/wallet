@@ -1,1 +1,1 @@
-var mnemonic = "shoe taxi scissors bracket fit rule option okay praise dirt already please";
+var mnemonic = "suffer behave salon barely monitor slim frame glory pizza orange hover robot";

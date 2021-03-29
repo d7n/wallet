@@ -1,1 +1,1 @@
-var mnemonic = "electric vanish era lobster property worth suit used liberty mansion safe nose";
+var mnemonic = "sibling country time key table height hobby goat pink toward feature alley";

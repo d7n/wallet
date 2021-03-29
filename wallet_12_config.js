@@ -1,1 +1,1 @@
-var mnemonic = "torch link salute arm reason frequent soul frown spice right nice royal";
+var mnemonic = "protect hybrid party proud garbage mask hockey car evoke master exile stamp";

@@ -1,1 +1,1 @@
-var mnemonic = "sad narrow busy injury indicate theory hair follow various develop runway clog";
+var mnemonic = "fly visa cement advance must divorce pioneer bomb address clog spatial vendor";

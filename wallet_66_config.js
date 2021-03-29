@@ -1,1 +1,1 @@
-var mnemonic = "asthma lucky control steel wrong recycle melody initial aunt cram exhibit pony";
+var mnemonic = "crazy crowd diamond tree popular slender pen final render elbow silk hello";

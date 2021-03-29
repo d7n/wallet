@@ -1,1 +1,1 @@
-var mnemonic = "nation error aisle onion ramp entry issue glad lava give round story";
+var mnemonic = "reward umbrella canal okay coin veteran desk dance flat meat siren enrich";

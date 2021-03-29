@@ -1,1 +1,1 @@
-var mnemonic = "fee shield leg junk script timber caution lend staff supreme joke glue";
+var mnemonic = "world say fire supply guide tone sense angle wreck tell finish stamp";

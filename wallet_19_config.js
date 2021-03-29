@@ -1,1 +1,1 @@
-var mnemonic = "pelican nest cool fame grape guide valid humor aspect scan tide knife";
+var mnemonic = "jelly maze fee wrong rude tongue parent strike ranch keen solid quantum";

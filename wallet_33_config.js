@@ -1,1 +1,1 @@
-var mnemonic = "wall size gospel wheel juice nerve degree green surprise report lock shy";
+var mnemonic = "truck throw drift enable demise noodle inch tape dial tool jealous light";

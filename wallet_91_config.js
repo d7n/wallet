@@ -1,1 +1,1 @@
-var mnemonic = "define duty sunny rebuild ability diesel wealth lens hockey brown method switch";
+var mnemonic = "useless once expand satisfy senior reject best pet culture region dumb just";

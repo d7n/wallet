@@ -1,1 +1,1 @@
-var mnemonic = "egg various ripple wild broom rib snap luggage moon inherit bleak crystal";
+var mnemonic = "feature portion clog paddle swear dad pepper absurd soft sport spare cable";

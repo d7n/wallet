@@ -1,1 +1,1 @@
-var mnemonic = "chair core garage business siege repair imitate volcano tennis squirrel arm puzzle";
+var mnemonic = "search rhythm orbit dry craft destroy try apology remove increase candy stadium";

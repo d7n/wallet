@@ -1,1 +1,1 @@
-var mnemonic = "actor announce pilot organ say attitude together clean portion erode wealth about";
+var mnemonic = "awkward protect drill usage fiber pottery silver child bottom loop senior proud";

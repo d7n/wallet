@@ -1,1 +1,1 @@
-var mnemonic = "knee laundry love hurry tumble drink banner leaf curtain diet degree fluid";
+var mnemonic = "shoot recycle track client helmet onion style property helmet around aspect era";

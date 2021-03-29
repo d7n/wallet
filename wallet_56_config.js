@@ -1,1 +1,1 @@
-var mnemonic = "velvet payment invest interest glide outdoor suspect army model smile all bunker";
+var mnemonic = "over clip gaze box music visa prize dutch wide radar cat pupil";

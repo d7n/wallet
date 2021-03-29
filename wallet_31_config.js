@@ -1,1 +1,1 @@
-var mnemonic = "broom room milk roast song tumble frozen slot verify safe whale alone";
+var mnemonic = "junior celery mother popular neutral craft setup cream silver slim noble left";

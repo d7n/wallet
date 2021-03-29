@@ -1,1 +1,1 @@
-var mnemonic = "slide panther food mean float switch brief firm soda turn buyer reject";
+var mnemonic = "raven bring exhibit century element learn grief soul attack ship ozone valley";

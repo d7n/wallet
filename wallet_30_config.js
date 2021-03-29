@@ -1,1 +1,1 @@
-var mnemonic = "path music old ensure mistake fee trade cluster coconut click wish digital";
+var mnemonic = "deputy fire surround knee kitten screen blanket swap glad type forest foster";

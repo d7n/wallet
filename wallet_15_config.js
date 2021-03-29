@@ -1,1 +1,1 @@
-var mnemonic = "early turtle impact elite blouse denial buddy people account gun patient banner";
+var mnemonic = "morning you pluck improve buffalo pond lab jacket cactus initial illness penalty";

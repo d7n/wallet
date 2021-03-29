@@ -1,1 +1,1 @@
-var mnemonic = "during release salmon animal keen belt area rebel action virtual trophy radar";
+var mnemonic = "chapter allow sister client image moon enable topic old lend ginger purchase";

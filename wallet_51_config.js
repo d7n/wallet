@@ -1,1 +1,1 @@
-var mnemonic = "behave enrich crowd secret sponsor talent month asset return achieve carpet rhythm";
+var mnemonic = "party denial hawk alert vibrant train crouch local apology romance column common";

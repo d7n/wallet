@@ -1,1 +1,1 @@
-var mnemonic = "service arrange upon ball race alarm round minor name angry heart canyon";
+var mnemonic = "together force forum cattle reflect margin tackle asthma draft valve subject lottery";

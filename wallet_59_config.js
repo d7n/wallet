@@ -1,1 +1,1 @@
-var mnemonic = "between shoot road harbor moon crystal will same resist bless item diary";
+var mnemonic = "lottery canyon pink blur blanket elder help garage script combine empower thing";

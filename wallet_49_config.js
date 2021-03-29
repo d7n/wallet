@@ -1,1 +1,1 @@
-var mnemonic = "shop casino between toast copy fall exclude opera often pattern bitter turtle";
+var mnemonic = "private ridge example combine mix certain unhappy goddess dignity escape during sunset";
