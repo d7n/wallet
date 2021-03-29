@@ -1,1 +1,1 @@
-var mnemonic = "method window female gaze label february divert code jealous office soup enter";
+var mnemonic = "gasp burger salt idle upset brave humor perfect they later add scissors";

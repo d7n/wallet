@@ -1,1 +1,1 @@
-var mnemonic = "amazing traffic impact leave buffalo flame orchard vibrant wrist unusual question scrap";
+var mnemonic = "number cram electric used case object where powder magic ill wild empower";

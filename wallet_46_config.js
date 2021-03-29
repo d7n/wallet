@@ -1,1 +1,1 @@
-var mnemonic = "whip beef leader hurry pull retreat steak negative sausage isolate iron busy";
+var mnemonic = "egg various ripple wild broom rib snap luggage moon inherit bleak crystal";

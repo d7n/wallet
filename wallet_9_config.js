@@ -1,1 +1,1 @@
-var mnemonic = "talent demise author member imitate craft ecology space olympic whisper village airport";
+var mnemonic = "move artwork all foil story forget beyond keen spoon this swing donor";

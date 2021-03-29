@@ -1,1 +1,1 @@
-var mnemonic = "melt grain dice giant cushion almost dad check wheel cupboard crime oxygen";
+var mnemonic = "match much whip bundle method click beauty small cluster tell wrap inquiry";

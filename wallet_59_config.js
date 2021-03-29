@@ -1,1 +1,1 @@
-var mnemonic = "will avoid ketchup only pumpkin cargo clean fix age afraid typical comfort";
+var mnemonic = "between shoot road harbor moon crystal will same resist bless item diary";

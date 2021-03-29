@@ -1,1 +1,1 @@
-var mnemonic = "sample return survey cement silly frog theme expose river casino trophy enjoy";
+var mnemonic = "universe supreme avoid silver diary broccoli prison path expect eagle coin echo";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin sorry say music buddy sauce behind cradle early occur obvious wealth";
+var mnemonic = "barrel jewel ticket assault apart remain hurry foot shock hedgehog hold youth";

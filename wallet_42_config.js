@@ -1,1 +1,1 @@
-var mnemonic = "answer slush protect fan clean price trim consider small daring scan snap";
+var mnemonic = "survey scissors protect airport slender purchase oven issue hover modify type mistake";

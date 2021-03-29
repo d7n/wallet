@@ -1,1 +1,1 @@
-var mnemonic = "ranch require clock flee arrest addict usage above describe pioneer blind collect";
+var mnemonic = "swamp boost asthma sport casino accuse cloud grid ski dilemma involve atom";

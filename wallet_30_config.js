@@ -1,1 +1,1 @@
-var mnemonic = "pill crime wing carry gym size fine kind strong depart coffee riot";
+var mnemonic = "path music old ensure mistake fee trade cluster coconut click wish digital";

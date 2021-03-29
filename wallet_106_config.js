@@ -1,1 +1,1 @@
-var mnemonic = "rose color fresh strike cancel intact pitch senior cloth flower economy say";
+var mnemonic = "try outdoor survey pencil dinner tribe door service tobacco destroy destroy food";

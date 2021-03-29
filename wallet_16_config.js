@@ -1,1 +1,1 @@
-var mnemonic = "among cigar exchange fan chicken cushion depend nuclear turn author caution oven";
+var mnemonic = "tank view spring panther sort route sing spice smooth better purity vivid";

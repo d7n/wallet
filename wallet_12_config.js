@@ -1,1 +1,1 @@
-var mnemonic = "thing veteran wave grocery coffee border antique hunt step distance awake ancient";
+var mnemonic = "torch link salute arm reason frequent soul frown spice right nice royal";

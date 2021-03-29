@@ -1,1 +1,1 @@
-var mnemonic = "soon move skirt observe festival doctor team profit update shove chest once";
+var mnemonic = "shop casino between toast copy fall exclude opera often pattern bitter turtle";

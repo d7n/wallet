@@ -1,1 +1,1 @@
-var mnemonic = "east brown local auto wave bronze demand kid fancy enemy brick crucial";
+var mnemonic = "wall asset tube snake bulb neither primary abuse mother behave mention tobacco";

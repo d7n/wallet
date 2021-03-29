@@ -1,1 +1,1 @@
-var mnemonic = "price occur video spawn spare dynamic boil cricket sphere core denial enough";
+var mnemonic = "abstract example rabbit scare tongue warrior mutual table mix polar hollow prize";

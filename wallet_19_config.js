@@ -1,1 +1,1 @@
-var mnemonic = "kiwi truly cousin town today express castle matrix raise clinic sunset sure";
+var mnemonic = "pelican nest cool fame grape guide valid humor aspect scan tide knife";

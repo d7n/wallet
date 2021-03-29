@@ -1,1 +1,1 @@
-var mnemonic = "helmet dizzy dilemma mother under evil decline economy verb cattle large swamp";
+var mnemonic = "unhappy unusual embody wild warrior couch select image advice hair simple universe";

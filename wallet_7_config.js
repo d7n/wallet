@@ -1,1 +1,1 @@
-var mnemonic = "shoot brain goat soccer tuition destroy near rely super bulb grain critic";
+var mnemonic = "spoil birth little nurse begin rally puppy supreme during comfort novel fiscal";

@@ -1,1 +1,1 @@
-var mnemonic = "wage december expire fire discover track country tiger divert spoil sun light";
+var mnemonic = "fatigue arctic throw wood tourist coffee outer lumber velvet spike seek talk";

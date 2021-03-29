@@ -1,1 +1,1 @@
-var mnemonic = "harvest mask deposit grab purse supply manual upset margin grain hawk melody";
+var mnemonic = "wall size gospel wheel juice nerve degree green surprise report lock shy";

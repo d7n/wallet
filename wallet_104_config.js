@@ -1,1 +1,1 @@
-var mnemonic = "tourist load region knee goat inspire injury tower report pony pave glance";
+var mnemonic = "apple pond need analyst expect draw wrap arch joke hold veteran company";

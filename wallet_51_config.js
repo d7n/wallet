@@ -1,1 +1,1 @@
-var mnemonic = "neck tourist congress shell library skirt copy inmate unknown list embody beach";
+var mnemonic = "behave enrich crowd secret sponsor talent month asset return achieve carpet rhythm";

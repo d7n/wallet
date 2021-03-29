@@ -1,1 +1,1 @@
-var mnemonic = "skill exclude impose wine view ancient tuna poverty giggle glass fat elevator";
+var mnemonic = "thought output tiny senior erase tired element unable oppose trigger bring group";

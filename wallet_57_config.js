@@ -1,1 +1,1 @@
-var mnemonic = "false neither analyst planet marble skull food task kidney ordinary drive carbon";
+var mnemonic = "knee laundry love hurry tumble drink banner leaf curtain diet degree fluid";

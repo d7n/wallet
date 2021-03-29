@@ -1,1 +1,1 @@
-var mnemonic = "comic apart door bomb then raise order relief margin ski unique burst";
+var mnemonic = "blood faith repair trick swarm half tooth sound once fossil three nominee";

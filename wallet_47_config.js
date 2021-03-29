@@ -1,1 +1,1 @@
-var mnemonic = "obtain candy absurd slab insane cinnamon range same twin whip credit title";
+var mnemonic = "goose cousin puppy write fatal sting orchard hurry similar social pizza stock";

@@ -1,1 +1,1 @@
-var mnemonic = "festival absent check expire frequent unknown kitten panel remember they discover truck";
+var mnemonic = "account upset chunk tornado easy priority half mobile keen cash solution elephant";

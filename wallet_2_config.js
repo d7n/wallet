@@ -1,1 +1,1 @@
-var mnemonic = "bus noise ten trim subject agent body sad manual army talent pipe";
+var mnemonic = "sad narrow busy injury indicate theory hair follow various develop runway clog";

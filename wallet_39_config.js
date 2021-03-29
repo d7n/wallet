@@ -1,1 +1,1 @@
-var mnemonic = "over easy wheel box carbon life flee sign conduct divert riot surround";
+var mnemonic = "chair cheap remove canvas path pencil install stairs twin exile coin ostrich";

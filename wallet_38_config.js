@@ -1,1 +1,1 @@
-var mnemonic = "tattoo reflect vacuum bicycle chronic myself please message dream sadness garage mammal";
+var mnemonic = "allow process system news must future sleep throw regret noble bid health";

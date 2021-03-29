@@ -1,1 +1,1 @@
-var mnemonic = "alter virtual grunt butter sibling spend practice text sponsor donate alert walnut";
+var mnemonic = "chase book photo donkey reopen loud gadget affair clump soap box panel";

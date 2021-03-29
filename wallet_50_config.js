@@ -1,1 +1,1 @@
-var mnemonic = "orange acid account dice duck horse task miss bring aunt before oblige";
+var mnemonic = "annual mango project genuine dish near blame search salon poverty item wrestle";

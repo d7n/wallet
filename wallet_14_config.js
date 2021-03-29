@@ -1,1 +1,1 @@
-var mnemonic = "horror vault rebel opera frog wall follow winner inherit miss clever face";
+var mnemonic = "teach into visual minimum amazing swap manual elegant critic tumble attitude balcony";

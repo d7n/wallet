@@ -1,1 +1,1 @@
-var mnemonic = "kidney balance wet vacuum this east tonight reject monitor jewel exclude fiscal";
+var mnemonic = "chair core garage business siege repair imitate volcano tennis squirrel arm puzzle";

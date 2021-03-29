@@ -1,1 +1,1 @@
-var mnemonic = "shoe actor essay adjust cabbage nice now visual garment always error someone";
+var mnemonic = "electric vanish era lobster property worth suit used liberty mansion safe nose";

@@ -1,1 +1,1 @@
-var mnemonic = "design frog box coast victory develop theory lion stereo avocado devote side";
+var mnemonic = "avocado nuclear faith know raven ritual random minute cute route addict input";

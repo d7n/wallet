@@ -1,1 +1,1 @@
-var mnemonic = "mango tail guitar amount lyrics reform empty tackle flee end two race";
+var mnemonic = "mushroom rescue ritual clay east order embrace execute vintage share tribe carbon";

@@ -1,1 +1,1 @@
-var mnemonic = "process sunset city wing find mask wrong height result banana frost drill";
+var mnemonic = "shoe taxi scissors bracket fit rule option okay praise dirt already please";

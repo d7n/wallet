@@ -1,1 +1,1 @@
-var mnemonic = "call shed math rural roof moral feed tiny zero either smoke country";
+var mnemonic = "media verify artefact barrel diet coral job prison amateur broccoli furnace second";

@@ -1,1 +1,1 @@
-var mnemonic = "venue opinion radio oven economy ocean fetch grant limb such jealous clump";
+var mnemonic = "near include humor symbol marine below claim favorite rude provide cycle warfare";

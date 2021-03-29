@@ -1,1 +1,1 @@
-var mnemonic = "curve page payment refuse cannon excuse order creek seven chase special rail";
+var mnemonic = "during release salmon animal keen belt area rebel action virtual trophy radar";

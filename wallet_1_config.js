@@ -1,1 +1,1 @@
-var mnemonic = "apple planet muffin help radio acoustic solar federal game mention resist table";
+var mnemonic = "remain chest fly install rib style rigid race salute ordinary stomach proud";

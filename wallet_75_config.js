@@ -1,1 +1,1 @@
-var mnemonic = "now enroll fluid note spatial castle current viable innocent admit office atom";
+var mnemonic = "steak saddle stem hard banner topic lyrics wise bar citizen arrow science";

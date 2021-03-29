@@ -1,1 +1,1 @@
-var mnemonic = "fatigue gentle throw candy skill board border circle easy antique envelope chunk";
+var mnemonic = "step era advice interest industry slam air west brand twice science post";

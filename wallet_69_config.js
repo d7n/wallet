@@ -1,1 +1,1 @@
-var mnemonic = "enjoy skull peanut help west collect security day moment solution noodle spawn";
+var mnemonic = "oppose regular magnet hub original excess fiber rebel shy label cancel gallery";

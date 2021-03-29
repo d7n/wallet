@@ -1,1 +1,1 @@
-var mnemonic = "yard manual park judge must aerobic recipe reopen apart attend lunar mix";
+var mnemonic = "chicken wage broom crush captain brick hawk sure velvet inquiry rebuild damp";

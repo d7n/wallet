@@ -1,1 +1,1 @@
-var mnemonic = "close surround uniform author power victory sword repeat cousin frequent wine devote";
+var mnemonic = "false fitness give visa help reject track hungry shell swim route dolphin";

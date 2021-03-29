@@ -1,1 +1,1 @@
-var mnemonic = "goose around marble pride armed attend opera fit banner aerobic situate dose";
+var mnemonic = "analyst fence invite high gorilla net vanish enjoy sunset general spring popular";

@@ -1,1 +1,1 @@
-var mnemonic = "beach express summer assume carbon exhibit peanut half lizard enhance desert world";
+var mnemonic = "debate text have until major boss gadget leader page salad deal fury";

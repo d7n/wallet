@@ -1,1 +1,1 @@
-var mnemonic = "hurry crawl hobby amazing radio taxi social cage lift mean silent oxygen";
+var mnemonic = "drink gas parade adapt float never bless range deal maple mystery fold";

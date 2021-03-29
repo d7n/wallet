@@ -1,1 +1,1 @@
-var mnemonic = "allow permit gospel merge devote music stomach neck boil you brass tail";
+var mnemonic = "inmate sketch captain brisk junk soul lake pretty office breeze wedding degree";

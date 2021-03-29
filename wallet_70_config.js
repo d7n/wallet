@@ -1,1 +1,1 @@
-var mnemonic = "whisper book subway tree about artwork anger mimic wrist stomach cry lion";
+var mnemonic = "erosion canyon thrive slice song aisle impact blur mercy indoor park depth";

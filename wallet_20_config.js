@@ -1,1 +1,1 @@
-var mnemonic = "attend basket kangaroo rebel follow cloud damp hip drastic cabbage prevent dream";
+var mnemonic = "cloud maze innocent tiger blue name rubber penalty thought element purse tube";

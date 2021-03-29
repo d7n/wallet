@@ -1,1 +1,1 @@
-var mnemonic = "maximum tail fence sport truth giggle ancient fly local endless unhappy feed";
+var mnemonic = "actor announce pilot organ say attitude together clean portion erode wealth about";

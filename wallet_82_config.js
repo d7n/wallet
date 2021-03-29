@@ -1,1 +1,1 @@
-var mnemonic = "gauge rice salmon task festival bind outer jelly marble youth snake void";
+var mnemonic = "you custom already expect control hover victory phone infant thing van stadium";

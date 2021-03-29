@@ -1,1 +1,1 @@
-var mnemonic = "top beach panther engine average eye bless kid start first side screen";
+var mnemonic = "broom room milk roast song tumble frozen slot verify safe whale alone";

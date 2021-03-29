@@ -1,1 +1,1 @@
-var mnemonic = "puppy sun tuna vacuum sausage shell swamp welcome share kite amateur maximum";
+var mnemonic = "anxiety paper famous tragic bacon purse metal dad banner garage home reform";

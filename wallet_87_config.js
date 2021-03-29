@@ -1,1 +1,1 @@
-var mnemonic = "differ job burger dust call away wife sleep wing drum middle multiply";
+var mnemonic = "sound wool patient naive immune prison punch derive clinic century toss live";

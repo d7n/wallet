@@ -1,1 +1,1 @@
-var mnemonic = "cancel magnet hurt cactus dawn oppose grit try pistol change fat march";
+var mnemonic = "comfort slot matrix strategy permit then faint must else illegal nerve vibrant";

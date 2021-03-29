@@ -1,1 +1,1 @@
-var mnemonic = "word current fold pumpkin twenty wrestle century salad buzz mesh echo embark";
+var mnemonic = "nation error aisle onion ramp entry issue glad lava give round story";

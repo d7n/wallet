@@ -1,1 +1,1 @@
-var mnemonic = "badge barrel lobster fitness funny soldier state sword book canyon also poet";
+var mnemonic = "cloth keen scissors genuine solution educate pudding cube inform discover dad chief";

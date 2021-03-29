@@ -1,1 +1,1 @@
-var mnemonic = "cram blade victory dune spider victory occur gossip veteran online click zebra";
+var mnemonic = "indicate paddle slice despair project resist gate season such stool offer ripple";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse very close wrong addict bundle dragon begin home admit peasant rebuild";
+var mnemonic = "cloth jazz aim weasel park metal beef mercy chaos orphan make curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "jewel obtain mansion blouse fetch narrow fish history curve autumn else chronic";
+var mnemonic = "pull ask world valley fox width announce warfare excite antique reject peanut";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder setup leg clarify buddy course cactus artist yellow report nurse scale";
+var mnemonic = "ice opera tag raise surround shoulder control harvest junior radio narrow open";

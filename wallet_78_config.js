@@ -1,1 +1,1 @@
-var mnemonic = "column trust tone crucial impose dignity custom elder price kind diesel announce";
+var mnemonic = "foot walk frost knee glide oyster century key fatigue ticket flat rude";

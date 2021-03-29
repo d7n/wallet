@@ -1,1 +1,1 @@
-var mnemonic = "wear album castle inside banner orient soap dish rigid card depth rubber";
+var mnemonic = "glide vote outside vendor hybrid notice display round say april young mass";

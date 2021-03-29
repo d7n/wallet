@@ -1,1 +1,1 @@
-var mnemonic = "peasant shoulder innocent acquire agree bargain attend stage business report autumn sweet";
+var mnemonic = "service arrange upon ball race alarm round minor name angry heart canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "reform shine noodle connect fragile way luggage focus candy fiction come fence";
+var mnemonic = "over rail carbon offer other impulse result coral congress vessel miracle blush";

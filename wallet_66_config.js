@@ -1,1 +1,1 @@
-var mnemonic = "exotic vibrant range adjust pumpkin start crime lizard gate second barrel weird";
+var mnemonic = "asthma lucky control steel wrong recycle melody initial aunt cram exhibit pony";

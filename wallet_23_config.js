@@ -1,1 +1,1 @@
-var mnemonic = "outer practice beach shed culture grocery cigar hire divide fluid card gate";
+var mnemonic = "return rain delay pass flee verify clever similar gym cube invite neglect";

@@ -1,1 +1,1 @@
-var mnemonic = "galaxy cart goat grocery tooth result grunt weasel cost ski fantasy grief";
+var mnemonic = "loud cook real medal legal dumb expect sound club skirt pencil arrest";

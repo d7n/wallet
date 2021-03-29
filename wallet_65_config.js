@@ -1,1 +1,1 @@
-var mnemonic = "reject dance maximum relief spray lock hawk waste village subject oppose civil";
+var mnemonic = "enough cheese inside sure inmate trap social ask retire early minor coconut";

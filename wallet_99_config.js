@@ -1,1 +1,1 @@
-var mnemonic = "divert script rapid kitten rely west legal talk rookie collect cattle capital";
+var mnemonic = "away hobby there enroll minimum goat program person quick answer chair vessel";

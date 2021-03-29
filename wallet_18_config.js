@@ -1,1 +1,1 @@
-var mnemonic = "follow puzzle expand talent manual ensure rug before proud easy juice cereal";
+var mnemonic = "envelope spring misery climb budget treat swamp width body much copper great";

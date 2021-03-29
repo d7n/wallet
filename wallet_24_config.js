@@ -1,1 +1,1 @@
-var mnemonic = "network boost blood boring dynamic butter warm right junk emotion lock tortoise";
+var mnemonic = "valve gown dynamic false sketch like range all issue aunt dizzy pumpkin";

@@ -1,1 +1,1 @@
-var mnemonic = "siege prefer canyon someone cream guitar game juice sketch enhance unfold gather";
+var mnemonic = "dynamic opera inform romance surround prosper express heavy green cute swallow exit";

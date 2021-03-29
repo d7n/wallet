@@ -1,1 +1,1 @@
-var mnemonic = "provide eye pave room park jelly slab tide dirt volcano rare emotion";
+var mnemonic = "expand accident bid guilt demise misery deliver similar bicycle solve subway custom";

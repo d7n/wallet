@@ -1,1 +1,1 @@
-var mnemonic = "execute grass adult frog left cinnamon style push real rabbit goose result";
+var mnemonic = "return dismiss tape beauty nose possible stamp grief fame verb again average";

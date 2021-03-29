@@ -1,1 +1,1 @@
-var mnemonic = "iron carry spoon daring bonus traffic inch category rate palace project swift";
+var mnemonic = "early turtle impact elite blouse denial buddy people account gun patient banner";

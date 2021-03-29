@@ -1,1 +1,1 @@
-var mnemonic = "uncover clock autumn debate blossom alcohol announce matrix legend decade you month";
+var mnemonic = "license update secret quiz potato mass wide abstract plunge media front ritual";

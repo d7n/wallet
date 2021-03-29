@@ -1,1 +1,1 @@
-var mnemonic = "crush box library sting analyst endless tail brush kangaroo short monkey amazing";
+var mnemonic = "rose winner knife disagree angle essay wave couple churn valley glide wool";

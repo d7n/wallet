@@ -1,1 +1,1 @@
-var mnemonic = "uncover capital build drum project box concert fee genre happy fault kid";
+var mnemonic = "govern receive riot kiss copy below grief seven reform acoustic cabbage round";

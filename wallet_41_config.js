@@ -1,1 +1,1 @@
-var mnemonic = "seminar can shell shop blame viable income exist erupt this ramp receive";
+var mnemonic = "problem crunch noble impulse ladder adult front test awake oppose eyebrow again";

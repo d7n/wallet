@@ -1,1 +1,1 @@
-var mnemonic = "elbow job lounge creek tenant friend river daughter end ramp bronze ivory";
+var mnemonic = "town ocean arrive depth spend bargain muffin lava clean guard kind easy";

@@ -1,1 +1,1 @@
-var mnemonic = "feed fog turn civil liquid guess possible lion police flock problem design";
+var mnemonic = "window will match sense much rent awake lumber retire talent answer film";

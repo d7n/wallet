@@ -1,1 +1,1 @@
-var mnemonic = "pink taxi input drip hawk egg good ribbon burden acoustic crumble vocal";
+var mnemonic = "velvet payment invest interest glide outdoor suspect army model smile all bunker";

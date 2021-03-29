@@ -1,1 +1,1 @@
-var mnemonic = "sock lyrics crisp love brush oven lecture quiz enhance business cost thank";
+var mnemonic = "response sight soul moment airport recipe icon source property style quality dinosaur";
