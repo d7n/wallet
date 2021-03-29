@@ -1,1 +1,1 @@
-var mnemonic = "thank palace denial slam solid reward nerve pilot disagree junior civil wish";
+var mnemonic = "weasel barely world bird elevator drum car panic elevator trade globe laugh";

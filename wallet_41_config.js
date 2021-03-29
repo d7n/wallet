@@ -1,1 +1,1 @@
-var mnemonic = "already dignity depend case mobile emerge cabin model little shoot waste rapid";
+var mnemonic = "dirt error carry utility virtual reflect inch silver moral patient hold chef";

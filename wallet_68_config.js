@@ -1,1 +1,1 @@
-var mnemonic = "submit jeans palace novel typical flag weather broken chest hospital rice dawn";
+var mnemonic = "hungry man wonder together alpha pitch hand effort miss absorb idle confirm";

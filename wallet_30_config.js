@@ -1,1 +1,1 @@
-var mnemonic = "toilet brass police puzzle race man shine filter skill slush lonely service";
+var mnemonic = "confirm fun plunge fuel become shaft pig fiber local disorder nephew device";

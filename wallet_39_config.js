@@ -1,1 +1,1 @@
-var mnemonic = "hotel sausage shadow glare jealous control language usual hold welcome escape resource";
+var mnemonic = "stock response couple erase risk offer usual census dumb celery power donor";

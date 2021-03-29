@@ -1,1 +1,1 @@
-var mnemonic = "where wolf weird parrot palace lonely lab hint quality now click apart";
+var mnemonic = "include scout strategy either oval loud plug used put mother retreat road";

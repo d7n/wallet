@@ -1,1 +1,1 @@
-var mnemonic = "bean slogan adapt inside margin light thing fine inflict finger metal vessel";
+var mnemonic = "elite wise actress gas already mirror garlic list captain maze earn property";

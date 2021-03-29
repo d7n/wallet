@@ -1,1 +1,1 @@
-var mnemonic = "permit occur dutch senior clay same fork airport stick success loop seek";
+var mnemonic = "alpha result ignore diet volcano poet blanket castle memory unveil chalk sponsor";

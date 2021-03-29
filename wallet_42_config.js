@@ -1,1 +1,1 @@
-var mnemonic = "address session tomorrow museum tilt tribe cry advice laugh hover palace radio";
+var mnemonic = "vintage install stool team tree win throw switch day antenna assault destroy";

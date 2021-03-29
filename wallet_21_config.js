@@ -1,1 +1,1 @@
-var mnemonic = "fancy syrup else final clean price hurry industry march coconut glimpse crouch";
+var mnemonic = "much swift limit parrot devote inspire leader toast march acid grief nurse";

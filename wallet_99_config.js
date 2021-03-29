@@ -1,1 +1,1 @@
-var mnemonic = "wife tonight lion shy observe zoo select satoshi hidden jaguar capable twist";
+var mnemonic = "degree sausage young weird unhappy earn talk enter spring foot tank visa";

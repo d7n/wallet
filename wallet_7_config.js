@@ -1,1 +1,1 @@
-var mnemonic = "scrap sense quit cool chunk hole embark remove report sausage vocal crack";
+var mnemonic = "guard bright grain holiday panic school negative million section face senior type";

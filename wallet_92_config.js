@@ -1,1 +1,1 @@
-var mnemonic = "idea enemy soft abstract sweet car claim broken tissue visa shove huge";
+var mnemonic = "win okay empower broccoli clinic system behind method absorb basket tape wasp";

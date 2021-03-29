@@ -1,1 +1,1 @@
-var mnemonic = "radar latin window trouble tissue clip cable borrow estate soda middle arrow";
+var mnemonic = "oval price venue craft shift man pact either indicate embrace pluck above";

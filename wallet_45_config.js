@@ -1,1 +1,1 @@
-var mnemonic = "ivory awake defy news sense capital stove habit recipe sustain foam absorb";
+var mnemonic = "entry gallery ritual hard sponsor blast install poem grab talent grid ramp";

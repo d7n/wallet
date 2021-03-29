@@ -1,1 +1,1 @@
-var mnemonic = "merry item case upon symptom pelican solid either solid danger army garage";
+var mnemonic = "banner book help genre brass bridge illness island famous six shrug device";

@@ -1,1 +1,1 @@
-var mnemonic = "ordinary physical ski few dress robot easy hood peanut liquid maze hair";
+var mnemonic = "lava gentle consider resemble march butter choice food measure silk snow tennis";

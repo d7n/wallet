@@ -1,1 +1,1 @@
-var mnemonic = "mixed hidden option squeeze butter apart measure mouse swim injury cat flush";
+var mnemonic = "guide hat hamster chair belt cabbage alpha pill buddy barely genius mesh";

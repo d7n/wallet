@@ -1,1 +1,1 @@
-var mnemonic = "cannon false private pass group shrimp opinion symptom brush shine arena around";
+var mnemonic = "kiwi enter all sort advice drop fruit foam assist ice still hammer";

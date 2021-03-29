@@ -1,1 +1,1 @@
-var mnemonic = "biology response weird dilemma famous quick edge romance coin cabbage dose initial";
+var mnemonic = "cradle parent oven idle inmate lawsuit tone scorpion praise narrow account begin";

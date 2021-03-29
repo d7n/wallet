@@ -1,1 +1,1 @@
-var mnemonic = "vapor imitate brush shuffle size smooth olympic position depart romance upset process";
+var mnemonic = "chaos pledge salon skull tortoise analyst flat moral pill script garment cruise";

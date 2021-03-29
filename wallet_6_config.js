@@ -1,1 +1,1 @@
-var mnemonic = "solid grocery fat need half slot ordinary donkey oyster stay between improve";
+var mnemonic = "capable all frozen art crystal buffalo absent clever invite repair miracle wood";

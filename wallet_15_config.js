@@ -1,1 +1,1 @@
-var mnemonic = "december height planet child eager globe spider assault garbage census long deliver";
+var mnemonic = "away bar sauce impulse ordinary pioneer fashion amazing endorse unique crop banana";

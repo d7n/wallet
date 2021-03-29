@@ -1,1 +1,1 @@
-var mnemonic = "aspect junk other music erase goose you zone egg festival prison joy";
+var mnemonic = "lift snack build film glass brother snow hurry spoon material sun tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "fork van alert exist obvious loud prize cattle know music finish hunt";
+var mnemonic = "hold hood aerobic later firm daring frog seat biology spice parade beyond";

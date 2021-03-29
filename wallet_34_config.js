@@ -1,1 +1,1 @@
-var mnemonic = "unknown myself garden name tip sea super example claim excite attract upon";
+var mnemonic = "reform estate girl orient cheese cabbage tip ostrich dinosaur ice credit solve";

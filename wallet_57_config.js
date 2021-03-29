@@ -1,1 +1,1 @@
-var mnemonic = "dash fringe blossom drama inject hammer host deny inject bronze priority trip";
+var mnemonic = "uniform desk notice provide feature moment room endless just skill purpose trend";

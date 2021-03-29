@@ -1,1 +1,1 @@
-var mnemonic = "globe lucky clip split horse series other keep bacon deer tenant disease";
+var mnemonic = "satisfy hour century spoon helmet reward people era cargo manage casual buzz";

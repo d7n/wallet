@@ -1,1 +1,1 @@
-var mnemonic = "sauce steak bomb camp panel various lobster mass legal uniform device ripple";
+var mnemonic = "senior like rapid seminar bless couple gather answer envelope item fine ability";

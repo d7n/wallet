@@ -1,1 +1,1 @@
-var mnemonic = "couple horror metal bracket consider announce erupt cricket hurt involve slight system";
+var mnemonic = "enough sauce level hunt still hand list wrap magnet napkin rose legend";

@@ -1,1 +1,1 @@
-var mnemonic = "mouse raw cloth vocal stone lab caught please exist year feature library";
+var mnemonic = "physical upper swear slim chronic dust leaf castle hope height spell jeans";

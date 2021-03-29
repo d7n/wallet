@@ -1,1 +1,1 @@
-var mnemonic = "kite immune salute mountain shop frown system surround image secret split citizen";
+var mnemonic = "volcano network circle fun trigger kiss assume tent grocery jungle monster miss";

@@ -1,1 +1,1 @@
-var mnemonic = "gossip wait dentist oblige shock common quantum laptop adapt bird pattern scare";
+var mnemonic = "merge deliver sea margin canvas weapon distance senior rose rubber pull battle";

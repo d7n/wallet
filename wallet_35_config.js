@@ -1,1 +1,1 @@
-var mnemonic = "finger remember venture trigger thought oak negative finger web horse pride coconut";
+var mnemonic = "gadget math twin soda barely obscure agree wide north radio host until";

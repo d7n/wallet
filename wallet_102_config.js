@@ -1,1 +1,1 @@
-var mnemonic = "episode develop final tennis shiver virtual fashion champion pledge report derive ripple";
+var mnemonic = "suspect lucky draft lion elevator second punch tongue civil payment dragon public";

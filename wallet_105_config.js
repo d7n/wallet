@@ -1,1 +1,1 @@
-var mnemonic = "join spice three tuition rural measure replace fantasy coconut cram elbow improve";
+var mnemonic = "celery airport perfect discover holiday host fiscal tower mandate win space gun";

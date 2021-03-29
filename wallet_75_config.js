@@ -1,1 +1,1 @@
-var mnemonic = "draft pear garment raw mesh rate hover clip concert faith umbrella swallow";
+var mnemonic = "toy bachelor trend cigar timber shaft aware claw topple venture ahead enable";

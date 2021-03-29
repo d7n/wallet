@@ -1,1 +1,1 @@
-var mnemonic = "evoke chalk coral destroy glow globe topple they truck resemble girl path";
+var mnemonic = "chaos crisp leopard brass myth away surround below hard light patrol chimney";

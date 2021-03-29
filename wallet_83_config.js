@@ -1,1 +1,1 @@
-var mnemonic = "essence glimpse minor skull right glow measure song chronic student list arrange";
+var mnemonic = "feed number diet athlete liquid cradle famous snap control crack weapon world";

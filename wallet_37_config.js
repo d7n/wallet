@@ -1,1 +1,1 @@
-var mnemonic = "habit track baby mirror icon debris rib local picture detect monitor slice";
+var mnemonic = "process blossom business lemon skirt reduce innocent private mistake embrace universe output";

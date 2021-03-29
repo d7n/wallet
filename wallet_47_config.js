@@ -1,1 +1,1 @@
-var mnemonic = "ocean catch blanket walnut uncle habit kiwi door obtain cause alcohol velvet";
+var mnemonic = "group front marine burst excite universe cherry ankle include judge town swamp";

@@ -1,1 +1,1 @@
-var mnemonic = "behind swarm hundred pole skate exhibit monitor crucial must ozone warfare orient";
+var mnemonic = "disease ignore inner nose void same like present enemy one imitate soon";

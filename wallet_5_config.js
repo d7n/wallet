@@ -1,1 +1,1 @@
-var mnemonic = "promote multiply venue myself under once hood warfare waste produce lyrics desk";
+var mnemonic = "help easy debris renew cycle oven deer flat vicious involve icon quarter";

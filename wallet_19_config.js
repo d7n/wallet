@@ -1,1 +1,1 @@
-var mnemonic = "sing sponsor sell security pudding pipe shrug orphan atom century fresh order";
+var mnemonic = "hen subway abandon sea jaguar about squeeze armor crime vicious copper reduce";

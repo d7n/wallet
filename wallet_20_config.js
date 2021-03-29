@@ -1,1 +1,1 @@
-var mnemonic = "awkward glance useless slogan measure major better fee drink wasp antique scrap";
+var mnemonic = "keep kiss skirt blossom slab before basic candy toy method speak material";

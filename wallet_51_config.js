@@ -1,1 +1,1 @@
-var mnemonic = "fire brother welcome knock book dose modify blood drift ivory throw sugar";
+var mnemonic = "grain bike inject across carbon spirit goat canyon month crumble breeze knock";

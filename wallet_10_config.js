@@ -1,1 +1,1 @@
-var mnemonic = "mail pudding matter copper ramp ring main carbon praise settle small soul";
+var mnemonic = "mask shaft valve chimney caution truly riot aspect hurdle calm sample shine";

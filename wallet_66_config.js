@@ -1,1 +1,1 @@
-var mnemonic = "female find magic impulse verify square early april live sister palace deliver";
+var mnemonic = "garden vivid green ozone odor reveal hint express panda latin enough emotion";

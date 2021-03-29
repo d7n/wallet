@@ -1,1 +1,1 @@
-var mnemonic = "refuse admit arrive wine pet monster resist private sound ugly else arena";
+var mnemonic = "violin embrace road hedgehog bus judge employ height cancel awesome panda avocado";

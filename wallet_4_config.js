@@ -1,1 +1,1 @@
-var mnemonic = "blast frost umbrella moment tail ecology hello kidney session ice term ecology";
+var mnemonic = "pole hope crew visit cruise broccoli cart fitness verb eye fire lunch";

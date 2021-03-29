@@ -1,1 +1,1 @@
-var mnemonic = "abstract anchor blind impulse actor frequent space sunset lyrics burst february girl";
+var mnemonic = "pitch blossom hammer tag antique mesh burden stereo business electric primary dry";

@@ -1,1 +1,1 @@
-var mnemonic = "bomb pretty size tag skin cost bargain bundle awful believe hood speed";
+var mnemonic = "social thumb visit monster issue obvious impact genre team clap pencil cereal";

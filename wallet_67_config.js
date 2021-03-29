@@ -1,1 +1,1 @@
-var mnemonic = "melody clump artist above soldier dignity soda tuna toy odor virtual inspire";
+var mnemonic = "second quote exhaust coach minute dentist tape trim wool unlock approve kite";

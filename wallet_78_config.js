@@ -1,1 +1,1 @@
-var mnemonic = "orphan right problem stage kick bullet busy ozone dance light light excite";
+var mnemonic = "panel public warm wheel cactus gentle bid notice you mystery twelve unfold";

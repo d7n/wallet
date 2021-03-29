@@ -1,1 +1,1 @@
-var mnemonic = "peanut gossip hotel witness female talent fix nice reduce truly jaguar mix";
+var mnemonic = "trophy vague bunker picture idle issue valley pride coffee dutch path real";

@@ -1,1 +1,1 @@
-var mnemonic = "mosquito enroll elephant suffer expose aunt depend vicious stove body junior fiber";
+var mnemonic = "endorse fog army lunch riot blossom inside shove bulb science aerobic thrive";

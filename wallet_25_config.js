@@ -1,1 +1,1 @@
-var mnemonic = "ring apology elbow siren flee feed pact suggest welcome excess impose engine";
+var mnemonic = "impulse begin addict scrub mosquito armed eight access horn save life poet";

@@ -1,1 +1,1 @@
-var mnemonic = "else tongue fish federal toast much exhaust album before beach uncle middle";
+var mnemonic = "peanut observe push gas job sibling inner imitate nephew cricket sting bounce";

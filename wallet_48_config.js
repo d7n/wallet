@@ -1,1 +1,1 @@
-var mnemonic = "divorce board good eagle call mammal during sting solar shy session palace";
+var mnemonic = "raccoon monster stock dentist share cluster enforce account keep barrel junior crumble";

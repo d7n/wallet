@@ -1,1 +1,1 @@
-var mnemonic = "luggage unfold elevator amount spider voyage property camera police dish tired wall";
+var mnemonic = "beyond sugar seek hawk lend steak quiz picture name direct baby diagram";

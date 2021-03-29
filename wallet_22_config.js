@@ -1,1 +1,1 @@
-var mnemonic = "mean fresh conduct clutch mail copy attract dizzy job alert daring dinosaur";
+var mnemonic = "history laundry nature paddle average goat puzzle voyage sun scale obscure candy";

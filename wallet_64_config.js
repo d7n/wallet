@@ -1,1 +1,1 @@
-var mnemonic = "reduce dust panda donor avocado forest delay taste walnut anxiety supreme exchange";
+var mnemonic = "charge spread wheel detect pride actual deposit crash usage excess example whip";

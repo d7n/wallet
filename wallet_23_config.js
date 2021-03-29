@@ -1,1 +1,1 @@
-var mnemonic = "rebel agree retire betray toilet funny taxi any often fan decade snow";
+var mnemonic = "atom turkey melody fantasy giraffe kind bus medal menu outer gallery deal";

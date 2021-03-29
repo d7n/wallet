@@ -1,1 +1,1 @@
-var mnemonic = "ritual kidney concert end dynamic ready measure baby hamster soft shaft immune";
+var mnemonic = "join congress merge margin large fault advance mistake mean joke correct blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "setup learn wheat rival alley shallow able chase junior nation another poem";
+var mnemonic = "adapt fire comic dizzy toe plug ice emerge mix armed enact robot";

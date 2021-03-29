@@ -1,1 +1,1 @@
-var mnemonic = "behave anxiety seed neither bracket nasty play spoon picture pattern calm goddess";
+var mnemonic = "embark jazz neck glide cream shop recipe client oil annual reward poet";

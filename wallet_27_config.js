@@ -1,1 +1,1 @@
-var mnemonic = "hurt hip poverty giggle job neutral alpha dismiss often volume mystery tree";
+var mnemonic = "frequent crack muffin almost bone style educate gas shove media fork coil";

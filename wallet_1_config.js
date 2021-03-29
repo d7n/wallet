@@ -1,1 +1,1 @@
-var mnemonic = "dice fitness token first give can record venture stool arctic brick bring";
+var mnemonic = "turn invest earth auction attack elite label quick opera profit episode ill";

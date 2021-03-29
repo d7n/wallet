@@ -1,1 +1,1 @@
-var mnemonic = "essay slogan viable view wall pink crazy brush unable thought swing tag";
+var mnemonic = "eagle story mystery share virtual olive science frog renew try master final";

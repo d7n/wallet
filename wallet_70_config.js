@@ -1,1 +1,1 @@
-var mnemonic = "there guilt good fee model wrestle mystery sauce artefact again swim narrow";
+var mnemonic = "hair depart tube left flame submit execute cage report later forward clutch";

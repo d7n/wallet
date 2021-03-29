@@ -1,1 +1,1 @@
-var mnemonic = "nothing book crowd wage time such tumble actor infant end disagree tongue";
+var mnemonic = "another invite club grant creek alley normal square civil congress culture trust";

@@ -1,1 +1,1 @@
-var mnemonic = "record dismiss farm example food inquiry neither tree exclude net auto neutral";
+var mnemonic = "near shoot shoe habit strike tackle track follow biology rough moral truly";

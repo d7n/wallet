@@ -1,1 +1,1 @@
-var mnemonic = "impose vocal unveil fluid helmet inquiry mistake solution fee cook hawk shadow";
+var mnemonic = "soul best auto coast exclude sphere mirror release mobile gather direct ostrich";

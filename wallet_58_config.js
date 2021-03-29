@@ -1,1 +1,1 @@
-var mnemonic = "aim peace answer result oil easy uncover roast turtle maze depth sort";
+var mnemonic = "air disorder around liar amount bottom wreck bridge empty inquiry fat owner";

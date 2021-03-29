@@ -1,1 +1,1 @@
-var mnemonic = "juice burden coral thought urge suspect common tool balance try key people";
+var mnemonic = "view raven rather lemon nasty love seed coin view latin toy idle";

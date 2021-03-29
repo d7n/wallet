@@ -1,1 +1,1 @@
-var mnemonic = "practice worry edit bamboo top crane panic used bonus boat sick trumpet";
+var mnemonic = "visa gain brown sport dice embark bring broccoli lady nasty boat pig";

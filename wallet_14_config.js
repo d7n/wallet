@@ -1,1 +1,1 @@
-var mnemonic = "always panic mix ugly spare breeze public junk collect shell that daring";
+var mnemonic = "theme where again cost attack pluck loud drip merry credit decide negative";

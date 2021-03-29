@@ -1,1 +1,1 @@
-var mnemonic = "solid claw purchase verb turn corn apology pet client unusual novel simple";
+var mnemonic = "cheese drum huge fitness brother bonus width typical armor attract shoe gas";

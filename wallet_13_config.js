@@ -1,1 +1,1 @@
-var mnemonic = "salmon say spice law distance repeat total tenant idle hard pattern amount";
+var mnemonic = "earth valve steel wisdom scale youth weekend month fabric differ panel require";

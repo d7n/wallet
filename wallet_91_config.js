@@ -1,1 +1,1 @@
-var mnemonic = "recall hope shallow deputy decrease cash napkin assault sand miss shine verb";
+var mnemonic = "describe ritual early rib imitate shrug index laugh upon eternal property orchard";

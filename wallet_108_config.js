@@ -1,1 +1,1 @@
-var mnemonic = "gauge skill issue water spatial please share army frown fire cup eight";
+var mnemonic = "helmet total speak bronze pony type hurdle pride help wedding mango mistake";

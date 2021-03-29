@@ -1,1 +1,1 @@
-var mnemonic = "donor soul tunnel hollow pull wise common mango fix ankle rug glove";
+var mnemonic = "wasp there tuition rally rice pistol palm evoke useful leisure dwarf impose";

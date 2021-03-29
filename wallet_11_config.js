@@ -1,1 +1,1 @@
-var mnemonic = "argue merry better weather behind honey base profit dove vital curtain lottery";
+var mnemonic = "medal attack bronze fancy legal retreat carpet claw surround honey good old";

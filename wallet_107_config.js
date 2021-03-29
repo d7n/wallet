@@ -1,1 +1,1 @@
-var mnemonic = "evolve fine beauty month card rain meadow turkey share repeat link vast";
+var mnemonic = "garlic cart key senior bleak cricket lobster frozen era unfair title pave";

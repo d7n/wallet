@@ -1,1 +1,1 @@
-var mnemonic = "purity dumb key swarm peasant round paddle text help spell soldier grocery";
+var mnemonic = "uncover visit damage neutral farm right main van situate job tissue bag";

@@ -1,1 +1,1 @@
-var mnemonic = "shoe balcony limb eyebrow announce tide pluck evoke drip cake tackle column";
+var mnemonic = "labor clinic assume cliff reform people key mobile air rural jewel chase";

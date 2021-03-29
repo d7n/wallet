@@ -1,1 +1,1 @@
-var mnemonic = "multiply leaf surround fantasy hedgehog chair outer mix certain autumn setup bone";
+var mnemonic = "require erode noble dad ritual surprise safe equal turkey vintage face brush";
