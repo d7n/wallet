@@ -1,1 +1,1 @@
-var mnemonic = "blast employ ozone pretty begin gap conduct employ exit episode grass tackle";
+var mnemonic = "ankle rigid urge fix blast card alien put power mutual adult wish";

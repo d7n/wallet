@@ -1,1 +1,1 @@
-var mnemonic = "limb neither vast kitten near differ apart grit window civil sniff direct";
+var mnemonic = "biology people science laptop toy cry damp dash melody evoke stone anchor";

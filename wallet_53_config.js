@@ -1,1 +1,1 @@
-var mnemonic = "limit avocado blossom mail salon alpha input gain unaware strategy chef size";
+var mnemonic = "tag cable demand arrow energy behave weird nuclear glimpse crunch need ride";

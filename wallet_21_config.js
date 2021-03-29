@@ -1,1 +1,1 @@
-var mnemonic = "warrior crater eight object educate client lion street slot funny silent movie";
+var mnemonic = "hint left cancel peace forum print enlist wrestle odor machine disease mix";

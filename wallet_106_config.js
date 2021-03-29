@@ -1,1 +1,1 @@
-var mnemonic = "enact swarm couple kit erupt above lunar reason foot space vague auction";
+var mnemonic = "penalty sad reward lobster bubble artwork chair long thing payment pottery furnace";

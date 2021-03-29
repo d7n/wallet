@@ -1,1 +1,1 @@
-var mnemonic = "myself flight man timber drink despair chief remove loop sun hint income";
+var mnemonic = "celery man motor weird anchor female thumb tomorrow alley deputy collect nephew";

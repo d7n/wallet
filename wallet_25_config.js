@@ -1,1 +1,1 @@
-var mnemonic = "gauge permit input magnet logic dry response toddler fade movie detail hand";
+var mnemonic = "always wire wonder reject scatter damage firm deliver clock flush odor canoe";

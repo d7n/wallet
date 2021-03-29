@@ -1,1 +1,1 @@
-var mnemonic = "mention assist ready front detect pulp couch honey target kangaroo joke elegant";
+var mnemonic = "build same subway ladder right edge harbor siege erupt boil sure fly";

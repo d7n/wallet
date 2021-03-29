@@ -1,1 +1,1 @@
-var mnemonic = "ghost insect girl mimic blouse legal dash leaf hand cart hotel survey";
+var mnemonic = "history chuckle city quote phone tail real sad smart soccer broom screen";

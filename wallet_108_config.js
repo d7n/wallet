@@ -1,1 +1,1 @@
-var mnemonic = "juice patrol ring series frown trip spare crystal enjoy require scheme illegal";
+var mnemonic = "spawn evolve blossom cram cube fiscal mango awful absorb excuse defy virus";

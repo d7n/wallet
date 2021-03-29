@@ -1,1 +1,1 @@
-var mnemonic = "squirrel size sleep stand page domain exclude output foil syrup episode edit";
+var mnemonic = "forward flower banner length genius dry concert cruise fatal detail exit wink";

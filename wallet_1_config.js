@@ -1,1 +1,1 @@
-var mnemonic = "sniff glad heart slow lizard turtle primary village situate monkey sound cement";
+var mnemonic = "dash mosquito silent essence later vehicle hidden edit timber original tortoise prosper";

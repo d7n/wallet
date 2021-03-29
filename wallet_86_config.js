@@ -1,1 +1,1 @@
-var mnemonic = "ranch quote speak carry valid invest sense power strong derive argue wasp";
+var mnemonic = "wheat buzz tray install secret october movie science kid enemy craft magic";

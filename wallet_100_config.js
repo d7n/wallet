@@ -1,1 +1,1 @@
-var mnemonic = "cabbage aim able pencil cube then detail zebra mountain evidence ensure fringe";
+var mnemonic = "that matter gauge style cricket soda team test heavy unable coast client";

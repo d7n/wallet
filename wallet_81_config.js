@@ -1,1 +1,1 @@
-var mnemonic = "crouch collect ozone ring super enable beach fruit humble secret accuse ahead";
+var mnemonic = "country idle kit tobacco elevator oyster vocal vague accident north motor prevent";

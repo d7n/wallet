@@ -1,1 +1,1 @@
-var mnemonic = "around luxury lesson biology hybrid human patrol sorry grid fade scout fog";
+var mnemonic = "model globe chapter hard still alert save still hill ten lecture noise";

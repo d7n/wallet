@@ -1,1 +1,1 @@
-var mnemonic = "rapid animal morning eagle tired miss basket hungry taste waste love member";
+var mnemonic = "promote rabbit unable decide illness spring wage radar stairs blush future damage";

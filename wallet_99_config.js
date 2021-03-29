@@ -1,1 +1,1 @@
-var mnemonic = "uncle scorpion learn also patch fatal convince panther labor galaxy produce extend";
+var mnemonic = "deposit stock power cabin snack clean orbit normal inflict enforce animal notable";

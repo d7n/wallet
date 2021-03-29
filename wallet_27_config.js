@@ -1,1 +1,1 @@
-var mnemonic = "leaf talk memory annual fold sphere describe destroy quit result expire quantum";
+var mnemonic = "sweet eternal mother cigar season derive alert area adapt pigeon earth equip";

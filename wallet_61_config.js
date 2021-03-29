@@ -1,1 +1,1 @@
-var mnemonic = "coil joke hollow cream present stem coach tomorrow fun stairs system thunder";
+var mnemonic = "neck coconut black fly tragic dynamic sorry flock debris civil cross bargain";

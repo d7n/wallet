@@ -1,1 +1,1 @@
-var mnemonic = "subway bean snap damage govern word dash oak original program click language";
+var mnemonic = "sword swamp seven when crumble cable attitude priority figure mom silver doll";

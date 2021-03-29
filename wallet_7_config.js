@@ -1,1 +1,1 @@
-var mnemonic = "attack fragile effort birth prefer tissue brief friend flavor feel coffee visit";
+var mnemonic = "idea ignore bargain tomorrow lizard inquiry cube leopard comfort flip receive vital";

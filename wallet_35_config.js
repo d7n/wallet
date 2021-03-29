@@ -1,1 +1,1 @@
-var mnemonic = "lawn connect term merry winter entry unveil maid few size boring library";
+var mnemonic = "climb chase quarter dove radio dignity curve oyster intact pull exist early";

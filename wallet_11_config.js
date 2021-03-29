@@ -1,1 +1,1 @@
-var mnemonic = "creek panic one segment urban elephant chef bounce wrong large drill wrist";
+var mnemonic = "child shoot patch spy bless derive whisper liquid top pumpkin carbon manage";

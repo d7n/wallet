@@ -1,1 +1,1 @@
-var mnemonic = "beyond resemble item gate mammal injury length pulp diary alarm pear ginger";
+var mnemonic = "evil impose boss obvious siege spoil zoo exhibit hero wheat repeat under";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease tumble cradle case song tooth retire trim spirit sword laugh fire";
+var mnemonic = "weird kit orphan adult cage feel wrestle lucky heavy then noble only";

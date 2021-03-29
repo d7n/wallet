@@ -1,1 +1,1 @@
-var mnemonic = "boat proof life cave cupboard busy boy sing smoke strike animal soap";
+var mnemonic = "between live vivid hood hire mad tool sea steel october actual wing";

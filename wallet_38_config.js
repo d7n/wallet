@@ -1,1 +1,1 @@
-var mnemonic = "mule anxiety captain robot toward exist jungle tell daring clump once erode";
+var mnemonic = "pelican dwarf orchard ensure spirit emerge lucky club lemon please myself mechanic";

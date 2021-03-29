@@ -1,1 +1,1 @@
-var mnemonic = "mother polar animal state now amazing family gadget defense treat release oyster";
+var mnemonic = "winter duck view peasant eye accident bone ivory speed sting obtain waste";

@@ -1,1 +1,1 @@
-var mnemonic = "coach gym during style veteran talk remain castle ensure trim people weapon";
+var mnemonic = "easily isolate expand scan barely tower smart disorder stereo risk venture guess";

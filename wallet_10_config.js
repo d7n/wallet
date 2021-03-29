@@ -1,1 +1,1 @@
-var mnemonic = "grocery goddess parrot salt demand kind catalog toss veteran cricket street squirrel";
+var mnemonic = "begin renew rhythm already shed license boil hair student hollow castle regret";

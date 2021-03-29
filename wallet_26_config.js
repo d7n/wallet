@@ -1,1 +1,1 @@
-var mnemonic = "neither security rigid silent debate leaf list try life include size moral";
+var mnemonic = "air subway evoke sunset cricket wine basket pull above eternal steak tongue";

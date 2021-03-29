@@ -1,1 +1,1 @@
-var mnemonic = "cycle prefer swamp digital chunk room prosper oak orient walk tattoo retire";
+var mnemonic = "ugly jaguar traffic rocket square inspire favorite kite weasel miracle ostrich glove";

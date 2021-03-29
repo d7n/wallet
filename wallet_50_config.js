@@ -1,1 +1,1 @@
-var mnemonic = "shine urge daring average wrist curve grab already connect balcony square vivid";
+var mnemonic = "jaguar under march all kangaroo inform rebel cement hat fix favorite daring";

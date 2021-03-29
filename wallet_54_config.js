@@ -1,1 +1,1 @@
-var mnemonic = "clever three boring away goddess maid drink kitchen absorb moon outdoor lens";
+var mnemonic = "skull wrap master idea scrub replace exotic essence bread punch differ guard";

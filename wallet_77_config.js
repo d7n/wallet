@@ -1,1 +1,1 @@
-var mnemonic = "bracket reunion rather autumn erosion clever joke ribbon prefer embody imitate eight";
+var mnemonic = "castle hire loyal capital snake cup north myself pretty promote mansion treat";

@@ -1,1 +1,1 @@
-var mnemonic = "focus photo curve sustain visa symptom coast sister key unhappy morning impulse";
+var mnemonic = "better kitchen breeze destroy cliff magnet garlic best total begin garage tragic";

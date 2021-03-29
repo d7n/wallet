@@ -1,1 +1,1 @@
-var mnemonic = "burger man tortoise maple purity tunnel slot doctor prosper match salute toy";
+var mnemonic = "pencil pole clown slot replace spring entire orchard near mandate burst venue";

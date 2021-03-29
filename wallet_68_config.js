@@ -1,1 +1,1 @@
-var mnemonic = "squeeze cricket clip depth tennis warrior apology path salad crawl rule beef";
+var mnemonic = "weapon science trade push snake fog sketch remain catalog fashion behind require";

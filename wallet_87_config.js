@@ -1,1 +1,1 @@
-var mnemonic = "happy sustain napkin try merit clean mimic walk tackle wing purchase culture";
+var mnemonic = "stuff bread crane rug drill senior scorpion rebel music custom frost admit";

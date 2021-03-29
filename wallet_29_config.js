@@ -1,1 +1,1 @@
-var mnemonic = "skill eternal divert adapt habit behave ticket much news modify pioneer park";
+var mnemonic = "speed dove fish pizza atom harbor clever flash loop reason hope option";

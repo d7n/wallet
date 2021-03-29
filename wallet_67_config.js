@@ -1,1 +1,1 @@
-var mnemonic = "recycle kind taxi quit wheel spider anxiety run visual lunch enable leader";
+var mnemonic = "vacuum twist large leisure artefact awesome inject stick animal bargain dwarf nut";

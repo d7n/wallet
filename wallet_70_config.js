@@ -1,1 +1,1 @@
-var mnemonic = "small clarify used arena fatigue fluid lecture evolve carry predict inside safe";
+var mnemonic = "mandate sibling model spoil require target inmate oval merit display genuine honey";

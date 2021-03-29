@@ -1,1 +1,1 @@
-var mnemonic = "twelve echo pigeon awake pizza recipe monkey pulse then company ask main";
+var mnemonic = "blouse now poverty grape fly same apology accuse refuse mango fold cherry";

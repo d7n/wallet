@@ -1,1 +1,1 @@
-var mnemonic = "prevent post rocket illness arrest sponsor fetch champion maple monster seven pave";
+var mnemonic = "shed spice salt soon pizza scale scorpion lake cradle pen level time";

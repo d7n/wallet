@@ -1,1 +1,1 @@
-var mnemonic = "ozone absurd accident gym result gloom above custom panda aware relax useless";
+var mnemonic = "cream social limit sadness consider roast wisdom famous mean until drip cycle";

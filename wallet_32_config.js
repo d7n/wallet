@@ -1,1 +1,1 @@
-var mnemonic = "dance hood much laugh abuse alpha person speak inject canvas survey dinner";
+var mnemonic = "december medal glad april excess lottery regular tonight market before demise you";

@@ -1,1 +1,1 @@
-var mnemonic = "excuse bullet fabric split rural poet small interest gospel matrix news loyal";
+var mnemonic = "law winner client erase float try buzz elite captain young lounge they";

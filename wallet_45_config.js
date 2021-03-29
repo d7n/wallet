@@ -1,1 +1,1 @@
-var mnemonic = "tip ticket winter magnet enact robot prevent blast stereo audit unveil actor";
+var mnemonic = "icon silly stand retreat erase pony kitchen spoon hockey pill one thought";

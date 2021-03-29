@@ -1,1 +1,1 @@
-var mnemonic = "grunt tiger unable visual supreme resist deputy throw amused busy twist display";
+var mnemonic = "awake net cabbage basic cinnamon left apology chef deliver suit gold nasty";

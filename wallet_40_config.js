@@ -1,1 +1,1 @@
-var mnemonic = "valve wear harsh found click flash popular weasel canvas move miracle whip";
+var mnemonic = "voyage mistake deposit chef erode brown expire enough joke pull enhance drop";

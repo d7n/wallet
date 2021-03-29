@@ -1,1 +1,1 @@
-var mnemonic = "spoon rent frost nerve insect parent zero bind rigid wheat auto empower";
+var mnemonic = "more pulp gadget net other umbrella electric width sport tribe rule space";

@@ -1,1 +1,1 @@
-var mnemonic = "tray artwork allow search rail between arrange humble evoke else rotate rebel";
+var mnemonic = "brother portion make pole tilt fork pause have buyer convince account arrest";

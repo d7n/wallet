@@ -1,1 +1,1 @@
-var mnemonic = "artist cheese erode relief crater slogan loan vibrant strategy shove ghost movie";
+var mnemonic = "head rack arrive figure fox veteran moment addict balance bullet mystery drink";

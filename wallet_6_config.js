@@ -1,1 +1,1 @@
-var mnemonic = "glow moment comic tilt flight orbit barely zoo hope ocean shrimp absorb";
+var mnemonic = "plug ski cloth bomb return index super page choice major wrap wish";

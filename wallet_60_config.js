@@ -1,1 +1,1 @@
-var mnemonic = "federal burst boil sausage squirrel mosquito nation antenna syrup orchard nephew nature";
+var mnemonic = "sadness file wall wasp just asset tail harbor trash intact mutual bitter";

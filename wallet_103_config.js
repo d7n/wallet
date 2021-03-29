@@ -1,1 +1,1 @@
-var mnemonic = "day spread gallery dumb game tree heavy crack flip local ball before";
+var mnemonic = "gesture ceiling kit lend quick burden senior slender nephew puppy zoo wage";

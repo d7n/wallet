@@ -1,1 +1,1 @@
-var mnemonic = "future crop solid raise affair skull world detect kite clog layer oval";
+var mnemonic = "kingdom crime tilt mail ugly circle blush genius moral oxygen ostrich ethics";

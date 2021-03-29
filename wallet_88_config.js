@@ -1,1 +1,1 @@
-var mnemonic = "vivid blur desk photo enhance express gospel torch base avocado wreck quote";
+var mnemonic = "wrestle behind gate brass depth near radar approve into zone sentence tool";

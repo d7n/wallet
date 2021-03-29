@@ -1,1 +1,1 @@
-var mnemonic = "decide legend leaf off method solve midnight rice ring choice employ spot";
+var mnemonic = "flee lion stem bar nest harsh leg wear pond useful august box";

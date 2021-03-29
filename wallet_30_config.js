@@ -1,1 +1,1 @@
-var mnemonic = "disorder keep reflect wolf tuna neutral memory tuna lecture first rabbit universe";
+var mnemonic = "alpha elder kitchen sausage nurse path brief appear symbol trim gather february";

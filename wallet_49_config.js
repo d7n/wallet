@@ -1,1 +1,1 @@
-var mnemonic = "illness alert danger check jazz allow choice hurry elephant improve public infant";
+var mnemonic = "tip glove palm hedgehog swift warfare flower truly icon owner mule mouse";

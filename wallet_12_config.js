@@ -1,1 +1,1 @@
-var mnemonic = "visit pattern assume high kidney merge hidden gossip primary universe slow reform";
+var mnemonic = "hand worth danger exit page client salad egg hip seed inflict actress";

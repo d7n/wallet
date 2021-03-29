@@ -1,1 +1,1 @@
-var mnemonic = "wash render rubber box panel fuel ritual erode endorse digital forum forward";
+var mnemonic = "casino leopard lift scrap bamboo shadow case ship celery employ drift blast";

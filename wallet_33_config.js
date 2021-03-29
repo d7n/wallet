@@ -1,1 +1,1 @@
-var mnemonic = "spider lottery bonus yard skin mango snow sing holiday cloth february real";
+var mnemonic = "axis fruit guide strong crop round visual river child faint essence ignore";

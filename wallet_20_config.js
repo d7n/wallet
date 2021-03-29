@@ -1,1 +1,1 @@
-var mnemonic = "wish dance start spike swap knock century awake item merry bamboo more";
+var mnemonic = "sudden tired hundred admit correct chef salt bargain patrol urban cook cool";

@@ -1,1 +1,1 @@
-var mnemonic = "hockey dust describe fire local story mimic gossip advice either scout memory";
+var mnemonic = "vital owner vital expire burger creek head grow stage fee eagle aisle";

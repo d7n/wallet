@@ -1,1 +1,1 @@
-var mnemonic = "leader smart illegal finger giggle major limit lonely mobile differ certain ask";
+var mnemonic = "trust noodle flock dry twelve that ball sad science estate stage empty";

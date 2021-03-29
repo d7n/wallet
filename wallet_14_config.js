@@ -1,1 +1,1 @@
-var mnemonic = "observe collect shoot vacuum humble oxygen announce warm inflict message climb recall";
+var mnemonic = "rocket govern gown avocado exchange draw first wash bench elevator warfare rural";

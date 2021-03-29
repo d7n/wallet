@@ -1,1 +1,1 @@
-var mnemonic = "legend mountain enable memory flat then stairs rude crop suspect tilt license";
+var mnemonic = "giggle hunt remain answer despair tilt amount half insect calm book pair";

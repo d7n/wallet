@@ -1,1 +1,1 @@
-var mnemonic = "number trip bring snack pudding coil exclude sausage charge mouse drive test";
+var mnemonic = "help payment sibling endorse kit hospital snap grass harsh reveal armor gym";

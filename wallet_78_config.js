@@ -1,1 +1,1 @@
-var mnemonic = "sad stay taste false mosquito oven ahead cabin rescue excite raise tower";
+var mnemonic = "dove cube fetch this spin kingdom play novel mask rough industry swift";

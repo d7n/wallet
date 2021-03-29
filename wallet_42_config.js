@@ -1,1 +1,1 @@
-var mnemonic = "stadium duck gloom man rice build cushion swap flee valve abuse tornado";
+var mnemonic = "vault program this siren fringe veteran can same arrange attitude crisp west";

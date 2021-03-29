@@ -1,1 +1,1 @@
-var mnemonic = "aware island refuse acoustic sugar waste solar night label scissors royal lift";
+var mnemonic = "sugar artist copy excite antenna put ketchup inmate source attend snack isolate";

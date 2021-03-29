@@ -1,1 +1,1 @@
-var mnemonic = "setup culture unique kiwi patient oval nurse fame play such sphere orchard";
+var mnemonic = "dice cherry curtain armor hotel walk inspire choice mom regular style valid";

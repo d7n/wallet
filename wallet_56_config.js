@@ -1,1 +1,1 @@
-var mnemonic = "forget language crack cruel album sun wreck evidence whale claim helmet certain";
+var mnemonic = "emotion local digital sand champion prevent fever divide issue note obtain limit";

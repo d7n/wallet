@@ -1,1 +1,1 @@
-var mnemonic = "tell execute matter word lecture actual vault spawn churn online steel script";
+var mnemonic = "habit exchange spice bring hollow access approve outside avoid crop casino hobby";

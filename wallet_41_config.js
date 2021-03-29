@@ -1,1 +1,1 @@
-var mnemonic = "fish actor shoe claw runway bachelor salad dinosaur elevator unique mixed blind";
+var mnemonic = "cheap defense arm boss wild domain evil million weasel poverty column grit";

@@ -1,1 +1,1 @@
-var mnemonic = "assault vacuum margin abandon twice ripple panel era garbage sweet goddess income";
+var mnemonic = "endorse prison lobster tortoise undo holiday grant buzz vicious beach elite depend";

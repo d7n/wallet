@@ -1,1 +1,1 @@
-var mnemonic = "situate make ring fatal thunder awake typical nature offer picnic pipe boring";
+var mnemonic = "neither soccer entire unusual crew frozen priority poem demand there salon release";

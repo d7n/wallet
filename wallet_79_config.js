@@ -1,1 +1,1 @@
-var mnemonic = "faith wrestle clap ribbon game remain merry achieve boil novel key season";
+var mnemonic = "east trick achieve develop omit unusual small chair collect tiny swamp govern";

@@ -1,1 +1,1 @@
-var mnemonic = "crop cage bitter expose salt bike ketchup rather vendor country question depart";
+var mnemonic = "bleak crack display barrel pig tired sister bracket visa rib patch buyer";

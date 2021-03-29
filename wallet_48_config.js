@@ -1,1 +1,1 @@
-var mnemonic = "curious taste similar faith wall squirrel explain payment myth genius gaze wet";
+var mnemonic = "cross honey vehicle bag weird maple asthma other scissors sorry urge today";

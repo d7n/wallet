@@ -1,1 +1,1 @@
-var mnemonic = "ocean switch impose own thrive belt orchard duty leaf tank during canoe";
+var mnemonic = "equal meadow retire glimpse noble address fortune tent army innocent spread before";

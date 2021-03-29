@@ -1,1 +1,1 @@
-var mnemonic = "stable craft calm federal upgrade session olympic exhibit brand acid shrimp wonder";
+var mnemonic = "decline screen private produce idea exotic damp debris slam sunny naive garage";

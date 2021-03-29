@@ -1,1 +1,1 @@
-var mnemonic = "behave open hard globe ladder word drift decline future craft sibling save";
+var mnemonic = "novel chef robot pink pave forest ignore proof siren usage awkward plastic";

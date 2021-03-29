@@ -1,1 +1,1 @@
-var mnemonic = "hobby devote crouch adjust grief define unusual bird valid atom exhaust acoustic";
+var mnemonic = "dream clog spell exile target poem bench bind puzzle hand plastic stairs";
