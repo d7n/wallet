@@ -1,1 +1,1 @@
-var mnemonic = "grid radar shadow cancel oven rent tennis avocado farm ketchup green vacant";
+var mnemonic = "ceiling alpha atom convince nest myth borrow seminar frequent refuse timber glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch brisk tumble into dry slam hospital drive spray brown wire gravity";
+var mnemonic = "shrimp option marine business wine gallery tackle minor miss blood purchase cliff";

@@ -1,1 +1,1 @@
-var mnemonic = "now large beyond fan girl raw hammer tissue message have title alpha";
+var mnemonic = "slim scrap brisk cake custom duty acquire home detail indicate valid media";

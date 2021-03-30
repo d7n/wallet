@@ -1,1 +1,1 @@
-var mnemonic = "piece file couple elder gaze praise kitchen noodle ribbon aim crouch trial";
+var mnemonic = "figure timber clap hill solution original estate adult surprise drama focus amateur";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk slot farm deny response corn such fat toddler innocent response leopard";
+var mnemonic = "wife issue price enough drive pull cupboard sauce unfold pen wheel make";

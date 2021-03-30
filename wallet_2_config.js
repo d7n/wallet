@@ -1,1 +1,1 @@
-var mnemonic = "dismiss road owner course tube inject popular squirrel team young suspect firm";
+var mnemonic = "dismiss fury midnight rifle borrow time giraffe brush security draft allow rather";

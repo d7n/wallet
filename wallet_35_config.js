@@ -1,1 +1,1 @@
-var mnemonic = "reveal organ gadget similar immune neck apology upon goose reward cactus door";
+var mnemonic = "expand coach evoke soon pioneer split misery drive age essence clap cabbage";

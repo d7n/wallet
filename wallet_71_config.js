@@ -1,1 +1,1 @@
-var mnemonic = "rescue enjoy spider chronic copper matter when rebel air kitchen they novel";
+var mnemonic = "doll sad labor section replace narrow fluid use train clever apart avoid";

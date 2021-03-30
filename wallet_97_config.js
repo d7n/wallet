@@ -1,1 +1,1 @@
-var mnemonic = "supreme foil security scheme slice among grief predict layer art festival flip";
+var mnemonic = "ocean popular ranch cross ranch grace shrimp renew name pitch typical image";

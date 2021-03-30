@@ -1,1 +1,1 @@
-var mnemonic = "soon build basic lock clarify scatter order brass item engine begin brand";
+var mnemonic = "armed velvet body captain vibrant depend chat short laptop basic obvious stairs";

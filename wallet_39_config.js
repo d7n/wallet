@@ -1,1 +1,1 @@
-var mnemonic = "click oyster asthma poem erode detect merit inside crumble any grief convince";
+var mnemonic = "alcohol orphan extend hedgehog olive resist stool drum lake stumble file honey";

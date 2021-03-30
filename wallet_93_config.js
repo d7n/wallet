@@ -1,1 +1,1 @@
-var mnemonic = "desk slim cabbage battle alcohol message vote clutch scatter federal base fiction";
+var mnemonic = "fly soul federal zoo hockey target notable fiction civil trumpet input strong";

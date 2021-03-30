@@ -1,1 +1,1 @@
-var mnemonic = "nation parrot emerge news game fetch parent model album scatter ask minute";
+var mnemonic = "finish forward umbrella crack winter half random off bamboo leader shell payment";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise enjoy problem garment maple mixed capital usage leave square change heart";
+var mnemonic = "shove play student forward promote army choice immense skill duck hard nest";

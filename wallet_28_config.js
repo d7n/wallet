@@ -1,1 +1,1 @@
-var mnemonic = "solid raven educate rice nurse ankle bring oxygen brass junk theory race";
+var mnemonic = "easily pride habit metal tonight royal achieve rebel energy brown vibrant horn";

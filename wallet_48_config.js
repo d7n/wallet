@@ -1,1 +1,1 @@
-var mnemonic = "review fun smile square wild betray exact collect major pistol buyer eyebrow";
+var mnemonic = "short circle noodle addict try convince joy one potato hire gadget orphan";

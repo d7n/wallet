@@ -1,1 +1,1 @@
-var mnemonic = "pole track any resist remember jump demand top casual rib among glad";
+var mnemonic = "wide eyebrow meadow emotion what auto search twenty image split retire anxiety";

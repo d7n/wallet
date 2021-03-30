@@ -1,1 +1,1 @@
-var mnemonic = "lab teach tuition toss exchange spend tribe swift easy sting can device";
+var mnemonic = "fresh cash era hamster frequent radar famous position crisp high force bone";

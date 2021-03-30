@@ -1,1 +1,1 @@
-var mnemonic = "veteran alter flight observe refuse arrive siege unique ivory wrap aspect reject";
+var mnemonic = "layer captain major hood device bachelor strong pledge dove worth mean under";

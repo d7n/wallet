@@ -1,1 +1,1 @@
-var mnemonic = "clay oak marine pretty awkward food banner axis guess club drama salad";
+var mnemonic = "all fix sea wagon project blossom excuse clinic rate pencil brass rotate";

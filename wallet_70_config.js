@@ -1,1 +1,1 @@
-var mnemonic = "friend zero admit reform tube maple news urban proud damp certain dirt";
+var mnemonic = "apple vital adjust dice trick net cargo setup correct meadow refuse power";

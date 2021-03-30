@@ -1,1 +1,1 @@
-var mnemonic = "gas matter cactus random grant defy move south crouch public unlock element";
+var mnemonic = "until can lock join object network shoe want jaguar useful grow lift";

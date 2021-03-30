@@ -1,1 +1,1 @@
-var mnemonic = "order perfect blame salt cinnamon flash they boss chat poem select latin";
+var mnemonic = "today clip area risk cable kit motor rack debate space impact quit";

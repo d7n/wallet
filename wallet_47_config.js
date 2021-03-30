@@ -1,1 +1,1 @@
-var mnemonic = "panic change miracle cup add honey churn trick lobster possible have act";
+var mnemonic = "survey tide clarify tattoo east mention stable sleep picnic burger burst sorry";

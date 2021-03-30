@@ -1,1 +1,1 @@
-var mnemonic = "bind concert october wood bus scatter area ankle busy shoe federal pact";
+var mnemonic = "coil surge century buyer forum atom actor auction meadow liquid okay beef";

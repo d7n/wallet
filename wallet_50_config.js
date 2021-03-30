@@ -1,1 +1,1 @@
-var mnemonic = "foot brief pact leaf whale chaos divert major vintage million animal senior";
+var mnemonic = "party consider junk hedgehog toward vapor viable network matrix polar maple cable";

@@ -1,1 +1,1 @@
-var mnemonic = "dice six shine pet ticket desk void mimic verify absorb crisp security";
+var mnemonic = "chronic below beach title cry pupil antenna bulk skin gasp valid dirt";

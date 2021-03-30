@@ -1,1 +1,1 @@
-var mnemonic = "urban ship leg explain fine weird virus celery hub yard one six";
+var mnemonic = "female puzzle slogan pig model put symptom height monkey wealth island debris";

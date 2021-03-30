@@ -1,1 +1,1 @@
-var mnemonic = "viable black critic awful rack hedgehog wave tuna tomorrow vessel master mention";
+var mnemonic = "awkward thank grow reward damp grocery marble fiber brave visa ride guitar";

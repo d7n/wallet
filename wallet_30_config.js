@@ -1,1 +1,1 @@
-var mnemonic = "town cruise wish swarm armed avoid open quote vehicle cup famous jealous";
+var mnemonic = "retire wage clerk board quick garage whale police punch dance shock plate";

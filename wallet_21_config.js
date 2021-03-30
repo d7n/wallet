@@ -1,1 +1,1 @@
-var mnemonic = "produce border carbon obvious false hover party bacon crime leader drink laundry";
+var mnemonic = "vapor bitter turn degree romance dune fiction wedding defy announce cross vibrant";

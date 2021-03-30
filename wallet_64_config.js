@@ -1,1 +1,1 @@
-var mnemonic = "attack barely frequent delay outdoor empty saddle check dash school box mixed";
+var mnemonic = "scare second setup gravity spawn ahead grocery purchase piano resource shell wing";

@@ -1,1 +1,1 @@
-var mnemonic = "soft siege know various hold member news twice yellow hole mechanic arctic";
+var mnemonic = "prepare social envelope humor rule whisper text radio tide talent govern explain";

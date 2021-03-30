@@ -1,1 +1,1 @@
-var mnemonic = "permit dune junior roast patient final midnight winter rigid honey noodle dice";
+var mnemonic = "piece swing night book purse skirt razor ability hip planet scan burger";

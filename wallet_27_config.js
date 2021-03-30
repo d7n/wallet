@@ -1,1 +1,1 @@
-var mnemonic = "risk matrix general upset venture bridge tomato hotel convince wage chat open";
+var mnemonic = "glide vehicle tragic seat cradle model indoor document will emotion leopard sound";

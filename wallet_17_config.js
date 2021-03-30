@@ -1,1 +1,1 @@
-var mnemonic = "sniff hero antique raise toddler energy depart short click phone spy next";
+var mnemonic = "expose daring grant buffalo candy dentist mango limit gift cart wet salmon";

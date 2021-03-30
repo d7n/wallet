@@ -1,1 +1,1 @@
-var mnemonic = "pencil sight open sample type permit pill smile wink frozen benefit grass";
+var mnemonic = "welcome thumb boss muffin identify bacon popular path attend other tennis will";

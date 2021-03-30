@@ -1,1 +1,1 @@
-var mnemonic = "sister syrup know lazy hedgehog gym adult struggle flee replace change nest";
+var mnemonic = "super cable confirm curious balance ill fork gravity volcano believe undo actor";

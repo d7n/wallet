@@ -1,1 +1,1 @@
-var mnemonic = "catalog price shove attract ozone order digital dentist van suspect grief art";
+var mnemonic = "science source extend cloud taxi under any such sample gaze convince anger";

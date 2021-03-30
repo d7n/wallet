@@ -1,1 +1,1 @@
-var mnemonic = "guitar manage funny near bid combine pave parrot festival rate plate coyote";
+var mnemonic = "spawn alley damp season antenna apple sentence wonder uncle tiger inmate also";

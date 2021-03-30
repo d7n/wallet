@@ -1,1 +1,1 @@
-var mnemonic = "unique attack blur certain crush paddle choice puzzle capital possible crush inform";
+var mnemonic = "security token trophy puzzle stay stick cart person casual horse true practice";

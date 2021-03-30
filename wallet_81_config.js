@@ -1,1 +1,1 @@
-var mnemonic = "hobby outer mushroom attitude face envelope coach educate mail choice letter tower";
+var mnemonic = "include multiply remember sick conduct bridge lab cricket warrior version soon box";

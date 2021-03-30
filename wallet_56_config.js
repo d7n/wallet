@@ -1,1 +1,1 @@
-var mnemonic = "price pumpkin cargo blade confirm vintage elbow one dragon name group air";
+var mnemonic = "cruel demand divide fee cluster pave balance lecture luxury drip enjoy fox";

@@ -1,1 +1,1 @@
-var mnemonic = "crawl position punch steak goose finger enhance shoot stone scorpion crouch course";
+var mnemonic = "naive ten come grab remind web client garment rotate cattle collect sense";

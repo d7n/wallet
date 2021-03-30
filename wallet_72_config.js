@@ -1,1 +1,1 @@
-var mnemonic = "van city gentle toy hobby used lumber state oppose copy uphold bread";
+var mnemonic = "theory wonder assist pioneer figure avoid width weather flat bubble cycle menu";

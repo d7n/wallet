@@ -1,1 +1,1 @@
-var mnemonic = "skin month ghost vocal bag rough fitness radio warfare combine talent train";
+var mnemonic = "want item teach next unique city when embark door fitness tube super";

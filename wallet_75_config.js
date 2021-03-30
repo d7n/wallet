@@ -1,1 +1,1 @@
-var mnemonic = "business inmate multiply tray grief beauty tortoise grass call inform fold regret";
+var mnemonic = "permit vote tone arrive hedgehog borrow skill armed master seed intact viable";

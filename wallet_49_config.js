@@ -1,1 +1,1 @@
-var mnemonic = "oblige drastic receive entry icon cement main prevent subway adult grab birth";
+var mnemonic = "fashion merit enter average raven april winter duck dose blast canoe vacuum";

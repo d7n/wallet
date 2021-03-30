@@ -1,1 +1,1 @@
-var mnemonic = "wheel follow century wealth deal sport change civil tower atom echo emerge";
+var mnemonic = "interest gaze exotic indicate shuffle project lesson hybrid fee century equal very";

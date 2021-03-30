@@ -1,1 +1,1 @@
-var mnemonic = "machine someone dove region pottery car rate thank basket enemy test feature";
+var mnemonic = "crop bean salad divide project tunnel clean fee office convince initial swallow";

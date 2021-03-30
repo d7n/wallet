@@ -1,1 +1,1 @@
-var mnemonic = "give indicate insane doctor eye vapor planet wash chef where like army";
+var mnemonic = "lottery fish tongue fly relax engage water virtual crazy typical seminar castle";

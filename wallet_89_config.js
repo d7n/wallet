@@ -1,1 +1,1 @@
-var mnemonic = "settle random royal maid jacket access chicken match hole blood reveal knock";
+var mnemonic = "evil urge ordinary series obtain grit noise tuna purity sausage amazing photo";

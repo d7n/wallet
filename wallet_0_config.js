@@ -1,1 +1,1 @@
-var mnemonic = "museum hood wreck sick ice walnut october pilot marble arena tower artist";
+var mnemonic = "weasel target loyal opera home peanut yard effort addict grass alcohol slot";

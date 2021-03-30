@@ -1,1 +1,1 @@
-var mnemonic = "awesome absent allow before weapon token galaxy man romance paddle adapt hybrid";
+var mnemonic = "oxygen mutual cart easily usage fix assault net material crane tobacco bubble";

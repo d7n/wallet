@@ -1,1 +1,1 @@
-var mnemonic = "mansion spirit style flavor jealous media focus suggest same vibrant wonder person";
+var mnemonic = "loyal option helmet armor infant raccoon west token machine mechanic donor around";

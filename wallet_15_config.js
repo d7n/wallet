@@ -1,1 +1,1 @@
-var mnemonic = "elephant shop sunny satisfy couch ball oxygen attitude theory subject wasp actress";
+var mnemonic = "reform joke virtual century resist caught crumble idea bring there put assist";

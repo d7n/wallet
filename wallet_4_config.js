@@ -1,1 +1,1 @@
-var mnemonic = "border funny very armor brief uniform defense stuff tonight mosquito response invest";
+var mnemonic = "cycle medal evoke mutual friend table blanket alter north nose boy copy";

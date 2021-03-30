@@ -1,1 +1,1 @@
-var mnemonic = "before pass mouse object harvest modify dice remember else globe jaguar amount";
+var mnemonic = "first baby light focus dish eager share friend vessel shed attract lunch";

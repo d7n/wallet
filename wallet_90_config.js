@@ -1,1 +1,1 @@
-var mnemonic = "ill climb egg camera another swim safe small drift review where erosion";
+var mnemonic = "enroll lemon snow feature sand same sight fashion album owner awake game";

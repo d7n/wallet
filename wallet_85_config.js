@@ -1,1 +1,1 @@
-var mnemonic = "arm talk broken across panther race target october decrease manual clarify shop";
+var mnemonic = "board design dwarf kingdom impact tank song benefit luggage steel setup lecture";

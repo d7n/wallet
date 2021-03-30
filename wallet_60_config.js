@@ -1,1 +1,1 @@
-var mnemonic = "menu hammer galaxy crack wear often fortune stage umbrella birth print fee";
+var mnemonic = "gesture card quantum pride royal orchard damage lonely sword faith magic child";

@@ -1,1 +1,1 @@
-var mnemonic = "pretty finger rocket memory degree toward snack leaf tone else symbol similar";
+var mnemonic = "drill fantasy mystery market tragic afraid moment number silly sword ivory arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel length can latin air share cricket theme memory ocean discover same";
+var mnemonic = "canoe reveal harbor scare curtain swift intact visit oyster garage guide title";

@@ -1,1 +1,1 @@
-var mnemonic = "foot theory coral test cook laundry camera arrest sleep piece laugh network";
+var mnemonic = "guide flag frozen mother pet tongue forward hurt mansion memory desk supply";

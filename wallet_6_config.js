@@ -1,1 +1,1 @@
-var mnemonic = "broom mean tumble result verb arctic crush vacuum fiber inject tuna speed";
+var mnemonic = "income knock bargain term daughter icon critic oval cancel filter draw crucial";

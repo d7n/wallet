@@ -1,1 +1,1 @@
-var mnemonic = "craft behind silly verb pelican farm tissue cry evoke chalk degree choose";
+var mnemonic = "license army give wise grunt eye shove absorb smart universe miss pepper";

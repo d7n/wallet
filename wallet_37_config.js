@@ -1,1 +1,1 @@
-var mnemonic = "pelican april strategy wrong chaos doctor flock tortoise oak ceiling audit liberty";
+var mnemonic = "wage nasty warfare miss metal spoil city sugar biology loop avoid execute";

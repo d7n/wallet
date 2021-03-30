@@ -1,1 +1,1 @@
-var mnemonic = "dignity monkey earn coyote charge rail bridge shift snow unable laptop husband";
+var mnemonic = "physical desk route increase dress hip kit rather anger dirt tattoo diamond";

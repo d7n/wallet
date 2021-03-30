@@ -1,1 +1,1 @@
-var mnemonic = "length powder cross frame assume siege odor joy wrong own eye erase";
+var mnemonic = "soda face distance major vicious table pear leg inmate total throw salad";

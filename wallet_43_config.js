@@ -1,1 +1,1 @@
-var mnemonic = "double fault naive play pitch route ensure body cable wheel robust talk";
+var mnemonic = "aunt rain gravity argue steel output pond equal next duty lobster open";

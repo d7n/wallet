@@ -1,1 +1,1 @@
-var mnemonic = "number mandate peace almost harvest step tray bundle answer odor into carpet";
+var mnemonic = "pitch glass sausage dove inmate skate defy essence chef bleak kiwi spatial";

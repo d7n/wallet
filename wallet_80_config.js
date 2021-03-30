@@ -1,1 +1,1 @@
-var mnemonic = "hood average hungry frog prize topple quality genuine aspect vendor bridge rate";
+var mnemonic = "spray acoustic real address dry arctic panther dog champion you rough trash";

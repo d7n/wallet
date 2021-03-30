@@ -1,1 +1,1 @@
-var mnemonic = "guilt cloud start eager cat room prize april salmon blush spend glimpse";
+var mnemonic = "coin veteran deputy finish syrup flock swift blossom skull door burden sunny";

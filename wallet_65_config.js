@@ -1,1 +1,1 @@
-var mnemonic = "rain fork bone ocean impose easy present account cage monkey little nature";
+var mnemonic = "lunch under onion broom predict grass spy gate pledge vapor labor wrestle";

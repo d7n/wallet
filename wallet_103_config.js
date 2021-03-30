@@ -1,1 +1,1 @@
-var mnemonic = "traffic absurd slender side unknown certain all flip brisk path smile movie";
+var mnemonic = "unveil genius coach coast rail cave bonus elder also okay barely figure";

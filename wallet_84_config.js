@@ -1,1 +1,1 @@
-var mnemonic = "crater upper more adapt fringe predict output doctor trick humble bless vacuum";
+var mnemonic = "nose sun sweet inject sock debate medal hip again swap immense museum";

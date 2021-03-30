@@ -1,1 +1,1 @@
-var mnemonic = "nerve key hover elegant plastic main crash region drive inside relief huge";
+var mnemonic = "health gloom avocado private divorce close release supply dash sheriff flag upon";

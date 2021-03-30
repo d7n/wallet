@@ -1,1 +1,1 @@
-var mnemonic = "float paddle often angle donkey either develop abstract repeat tenant biology under";
+var mnemonic = "pyramid birth adult price also unlock live hard fence great recycle kind";

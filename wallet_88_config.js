@@ -1,1 +1,1 @@
-var mnemonic = "cattle thank cabin bird unfair lunch lens license sting scrub reform flip";
+var mnemonic = "matter uphold lottery hospital game bachelor mimic spice extend check vote device";

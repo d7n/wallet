@@ -1,1 +1,1 @@
-var mnemonic = "wash crisp horse loan stage anchor craft market ritual page amateur betray";
+var mnemonic = "guide rural weapon border will claim apology salt abstract curve begin hill";

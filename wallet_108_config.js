@@ -1,1 +1,1 @@
-var mnemonic = "describe bleak eager fog warfare there snap duck spell voice shiver another";
+var mnemonic = "december aware miss lawsuit street glad state crumble unaware bulb pistol combine";

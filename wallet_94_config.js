@@ -1,1 +1,1 @@
-var mnemonic = "light oblige people diagram they witness evoke cat any own today whisper";
+var mnemonic = "recipe bargain naive lamp blouse ecology quit initial ticket surprise escape stage";

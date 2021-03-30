@@ -1,1 +1,1 @@
-var mnemonic = "erupt attitude truck final rate step sniff lend number fetch waste spawn";
+var mnemonic = "attract gospel arrange lion popular sorry egg moral tilt miss toe debate";

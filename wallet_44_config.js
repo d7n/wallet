@@ -1,1 +1,1 @@
-var mnemonic = "birth witness spend tool clap swap spice together saddle depart rack little";
+var mnemonic = "whip confirm amateur kit sunny track gain merit blood harvest mistake excess";

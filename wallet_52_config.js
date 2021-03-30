@@ -1,1 +1,1 @@
-var mnemonic = "rain coyote kitten like visit spot miracle era gown chalk vapor alone";
+var mnemonic = "bleak hollow loan loop judge patch step plug crush feel truly mean";

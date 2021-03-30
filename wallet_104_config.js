@@ -1,1 +1,1 @@
-var mnemonic = "whale describe dog about emotion husband rack include motion easy pig arrow";
+var mnemonic = "snack used cluster ill logic rug cook nation deal fork wash cheese";

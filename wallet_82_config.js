@@ -1,1 +1,1 @@
-var mnemonic = "vehicle program light aerobic opinion security stereo bulk piece capital install first";
+var mnemonic = "sort stumble doctor reason gentle carry roof dream bundle vessel sister wave";

@@ -1,1 +1,1 @@
-var mnemonic = "oak carpet pumpkin top crisp planet burst blade visit baby infant wagon";
+var mnemonic = "develop vast climb warrior when success flip glory useless planet cook notice";

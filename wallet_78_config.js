@@ -1,1 +1,1 @@
-var mnemonic = "exotic skull juice disease seven slide dolphin agent theme shop wine motion";
+var mnemonic = "rude toss vicious burden dinner check exhibit blame relief two jazz episode";
