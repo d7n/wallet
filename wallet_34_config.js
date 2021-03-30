@@ -1,1 +1,1 @@
-var mnemonic = "slim scrap brisk cake custom duty acquire home detail indicate valid media";
+var mnemonic = "sound shiver hammer damage mule phrase usage cable click solution hub try";

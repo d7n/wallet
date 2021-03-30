@@ -1,1 +1,1 @@
-var mnemonic = "lunch under onion broom predict grass spy gate pledge vapor labor wrestle";
+var mnemonic = "exact glare core all person effort excuse torch flame zone rule stone";

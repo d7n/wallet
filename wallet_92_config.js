@@ -1,1 +1,1 @@
-var mnemonic = "duty giant acquire city income side swift walk trumpet budget oppose bamboo";
+var mnemonic = "doctor tonight thunder payment timber picture fuel fall frame develop perfect riot";

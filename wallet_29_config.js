@@ -1,1 +1,1 @@
-var mnemonic = "depth thought fix much fan protect together debris opinion open later sea";
+var mnemonic = "cabin festival crawl mobile mutual shoulder toy pioneer cover swing unfold truly";

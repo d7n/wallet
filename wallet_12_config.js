@@ -1,1 +1,1 @@
-var mnemonic = "layer captain major hood device bachelor strong pledge dove worth mean under";
+var mnemonic = "fly taste author please time simple rival march gospel ability wreck inform";

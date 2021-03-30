@@ -1,1 +1,1 @@
-var mnemonic = "today clip area risk cable kit motor rack debate space impact quit";
+var mnemonic = "runway lunch effort chunk address wing fall sample bridge yard fluid basket";

@@ -1,1 +1,1 @@
-var mnemonic = "guide rural weapon border will claim apology salt abstract curve begin hill";
+var mnemonic = "hundred melody audit arrow flock forward crowd jungle govern force feature owner";

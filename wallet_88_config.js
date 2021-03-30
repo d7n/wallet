@@ -1,1 +1,1 @@
-var mnemonic = "matter uphold lottery hospital game bachelor mimic spice extend check vote device";
+var mnemonic = "stairs basket divide early rather zebra vintage muffin vapor alpha fetch when";

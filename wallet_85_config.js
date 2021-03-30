@@ -1,1 +1,1 @@
-var mnemonic = "board design dwarf kingdom impact tank song benefit luggage steel setup lecture";
+var mnemonic = "tent unique ivory save rib similar cool various act share waste negative";

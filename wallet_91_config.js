@@ -1,1 +1,1 @@
-var mnemonic = "first baby light focus dish eager share friend vessel shed attract lunch";
+var mnemonic = "mule hello believe cattle accident blade flower crop jaguar anchor region strong";

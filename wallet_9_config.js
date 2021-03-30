@@ -1,1 +1,1 @@
-var mnemonic = "shrimp option marine business wine gallery tackle minor miss blood purchase cliff";
+var mnemonic = "object option cherry ranch allow poem riot wise rigid car day space";

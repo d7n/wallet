@@ -1,1 +1,1 @@
-var mnemonic = "chronic below beach title cry pupil antenna bulk skin gasp valid dirt";
+var mnemonic = "rude carpet stairs step youth august potato duty tomorrow medal negative foot";

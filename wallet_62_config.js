@@ -1,1 +1,1 @@
-var mnemonic = "awkward thank grow reward damp grocery marble fiber brave visa ride guitar";
+var mnemonic = "feed hybrid injury correct poet opinion devote slim stone swim pill kingdom";

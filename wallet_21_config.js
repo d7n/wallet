@@ -1,1 +1,1 @@
-var mnemonic = "vapor bitter turn degree romance dune fiction wedding defy announce cross vibrant";
+var mnemonic = "satisfy sad physical obscure found use salute recipe admit alone essay defy";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet such pulse coin ridge two crouch assume deny word large drum";
+var mnemonic = "run mushroom copy sure truly volume loyal benefit cricket gift puppy mobile";

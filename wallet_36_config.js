@@ -1,1 +1,1 @@
-var mnemonic = "license army give wise grunt eye shove absorb smart universe miss pepper";
+var mnemonic = "unusual pepper speed pink shift stone chunk shiver admit explain attitude trim";

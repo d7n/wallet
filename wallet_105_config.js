@@ -1,1 +1,1 @@
-var mnemonic = "welcome thumb boss muffin identify bacon popular path attend other tennis will";
+var mnemonic = "street myth any history word wagon forum false hobby inquiry minor toward";

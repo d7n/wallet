@@ -1,1 +1,1 @@
-var mnemonic = "doll sad labor section replace narrow fluid use train clever apart avoid";
+var mnemonic = "furnace apart almost antenna wasp upset cycle front gesture clay stumble tonight";

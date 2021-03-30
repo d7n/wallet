@@ -1,1 +1,1 @@
-var mnemonic = "canoe boy harbor monkey forget buyer vault degree mule nature below embark";
+var mnemonic = "mixed noble pudding luxury earn smooth bid visa impose divorce super sustain";

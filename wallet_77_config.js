@@ -1,1 +1,1 @@
-var mnemonic = "shove play student forward promote army choice immense skill duck hard nest";
+var mnemonic = "trap couch venue planet rich evidence search just drift replace stamp boat";

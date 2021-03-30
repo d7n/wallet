@@ -1,1 +1,1 @@
-var mnemonic = "theory wonder assist pioneer figure avoid width weather flat bubble cycle menu";
+var mnemonic = "plug grocery barrel series advance primary table stone road hurdle pelican century";

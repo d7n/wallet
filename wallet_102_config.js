@@ -1,1 +1,1 @@
-var mnemonic = "super cable confirm curious balance ill fork gravity volcano believe undo actor";
+var mnemonic = "recipe robust garage cry shoe model click ten pony stem escape borrow";

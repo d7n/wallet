@@ -1,1 +1,1 @@
-var mnemonic = "piece swing night book purse skirt razor ability hip planet scan burger";
+var mnemonic = "matter tail practice stumble parade process museum dress front rich area marriage";

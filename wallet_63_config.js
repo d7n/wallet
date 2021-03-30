@@ -1,1 +1,1 @@
-var mnemonic = "oxygen mutual cart easily usage fix assault net material crane tobacco bubble";
+var mnemonic = "drill cup arena hole attack ugly that emerge tobacco skill ordinary field";

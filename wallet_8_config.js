@@ -1,1 +1,1 @@
-var mnemonic = "canoe reveal harbor scare curtain swift intact visit oyster garage guide title";
+var mnemonic = "prize subject layer nasty emotion cube describe blush strategy eager hurt exhibit";

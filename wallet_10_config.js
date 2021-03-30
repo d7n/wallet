@@ -1,1 +1,1 @@
-var mnemonic = "leg enact defense capital guilt kiss welcome angle enhance reunion victory major";
+var mnemonic = "knee endorse tide window worth visual faculty sight spare token hero mixture";

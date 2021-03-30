@@ -1,1 +1,1 @@
-var mnemonic = "develop vast climb warrior when success flip glory useless planet cook notice";
+var mnemonic = "crop smooth guilt square have video spring group oyster ripple lift always";

@@ -1,1 +1,1 @@
-var mnemonic = "easily pride habit metal tonight royal achieve rebel energy brown vibrant horn";
+var mnemonic = "hover knock chimney siege pottery coach crucial raise sure govern lecture oppose";

@@ -1,1 +1,1 @@
-var mnemonic = "party consider junk hedgehog toward vapor viable network matrix polar maple cable";
+var mnemonic = "old avocado avoid expire priority fence dice jump mimic pattern craft art";

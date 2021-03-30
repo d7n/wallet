@@ -1,1 +1,1 @@
-var mnemonic = "fly soul federal zoo hockey target notable fiction civil trumpet input strong";
+var mnemonic = "never giggle dog mom life word stove nut toast creek minimum daring";

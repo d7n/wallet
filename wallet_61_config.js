@@ -1,1 +1,1 @@
-var mnemonic = "anger unfold retreat apart laugh parrot yard wash limb daughter rhythm system";
+var mnemonic = "icon elite build ladder smoke public nominee churn tiny erupt gallery main";

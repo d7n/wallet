@@ -1,1 +1,1 @@
-var mnemonic = "fashion merit enter average raven april winter duck dose blast canoe vacuum";
+var mnemonic = "elephant journey company rude paper depend ghost casual ancient manual neglect juice";

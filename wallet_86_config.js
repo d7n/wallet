@@ -1,1 +1,1 @@
-var mnemonic = "ceiling alpha atom convince nest myth borrow seminar frequent refuse timber glimpse";
+var mnemonic = "zone margin cat edit furnace gravity output letter hunt kind country moral";

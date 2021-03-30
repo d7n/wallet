@@ -1,1 +1,1 @@
-var mnemonic = "sort stumble doctor reason gentle carry roof dream bundle vessel sister wave";
+var mnemonic = "special anchor must usage assist just million alter duty shoot enjoy ice";

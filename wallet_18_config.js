@@ -1,1 +1,1 @@
-var mnemonic = "price cereal vintage armed grunt spot title follow mule index orient grocery";
+var mnemonic = "nominee twist gasp average enact ethics snack orange ginger shell coast pet";

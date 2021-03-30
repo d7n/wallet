@@ -1,1 +1,1 @@
-var mnemonic = "prepare social envelope humor rule whisper text radio tide talent govern explain";
+var mnemonic = "story unusual clerk palm cabbage blue test citizen bamboo away youth benefit";

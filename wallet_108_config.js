@@ -1,1 +1,1 @@
-var mnemonic = "december aware miss lawsuit street glad state crumble unaware bulb pistol combine";
+var mnemonic = "visa ice comic avocado voyage zone cross purity october borrow village bus";

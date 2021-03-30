@@ -1,1 +1,1 @@
-var mnemonic = "wife issue price enough drive pull cupboard sauce unfold pen wheel make";
+var mnemonic = "tone proud crucial mad medal box miracle kangaroo double six opera enact";

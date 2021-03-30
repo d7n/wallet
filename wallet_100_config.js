@@ -1,1 +1,1 @@
-var mnemonic = "female puzzle slogan pig model put symptom height monkey wealth island debris";
+var mnemonic = "toilet oppose talent settle live unveil sample acoustic remove narrow interest park";

@@ -1,1 +1,1 @@
-var mnemonic = "physical desk route increase dress hip kit rather anger dirt tattoo diamond";
+var mnemonic = "target narrow smoke drift foam modify cause clay extend diamond suffer merit";

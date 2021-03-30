@@ -1,1 +1,1 @@
-var mnemonic = "obtain license repeat color tribe butter physical stone pelican sign youth absurd";
+var mnemonic = "sadness ready thing ceiling kitten million worry pulse marriage general park arrange";

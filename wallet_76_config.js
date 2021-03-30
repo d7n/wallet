@@ -1,1 +1,1 @@
-var mnemonic = "health gloom avocado private divorce close release supply dash sheriff flag upon";
+var mnemonic = "diamond palace arctic bunker steak phone mobile loud time drum seminar depend";

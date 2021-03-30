@@ -1,1 +1,1 @@
-var mnemonic = "glide vehicle tragic seat cradle model indoor document will emotion leopard sound";
+var mnemonic = "diesel weekend engine citizen wear aspect avocado aware ring save deputy plate";

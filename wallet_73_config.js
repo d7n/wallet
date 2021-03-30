@@ -1,1 +1,1 @@
-var mnemonic = "figure timber clap hill solution original estate adult surprise drama focus amateur";
+var mnemonic = "between crane hobby embrace swear finger gossip moon time maze above business";

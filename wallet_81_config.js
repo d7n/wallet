@@ -1,1 +1,1 @@
-var mnemonic = "include multiply remember sick conduct bridge lab cricket warrior version soon box";
+var mnemonic = "thought topple noble cook gather mirror panther antique borrow undo stadium fiscal";

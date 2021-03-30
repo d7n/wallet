@@ -1,1 +1,1 @@
-var mnemonic = "unveil genius coach coast rail cave bonus elder also okay barely figure";
+var mnemonic = "despair transfer brisk pink sing decrease soon weird metal alert whale marine";

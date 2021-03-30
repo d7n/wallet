@@ -1,1 +1,1 @@
-var mnemonic = "lottery fish tongue fly relax engage water virtual crazy typical seminar castle";
+var mnemonic = "panic evidence honey vacuum flag claw ride duck tool steak grab alarm";

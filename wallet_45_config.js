@@ -1,1 +1,1 @@
-var mnemonic = "loyal option helmet armor infant raccoon west token machine mechanic donor around";
+var mnemonic = "hair wear problem price earth possible rally coach love say fall problem";

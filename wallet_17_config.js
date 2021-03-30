@@ -1,1 +1,1 @@
-var mnemonic = "expose daring grant buffalo candy dentist mango limit gift cart wet salmon";
+var mnemonic = "medal print fitness tell state toss book asthma devote uniform knee figure";

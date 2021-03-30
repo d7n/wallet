@@ -1,1 +1,1 @@
-var mnemonic = "ocean popular ranch cross ranch grace shrimp renew name pitch typical image";
+var mnemonic = "seed scrap supply sleep unusual settle cram aerobic nerve admit clown sentence";

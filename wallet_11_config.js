@@ -1,1 +1,1 @@
-var mnemonic = "wide eyebrow meadow emotion what auto search twenty image split retire anxiety";
+var mnemonic = "group inmate short accident range planet aware verify negative gentle scissors discover";

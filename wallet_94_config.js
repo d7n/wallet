@@ -1,1 +1,1 @@
-var mnemonic = "recipe bargain naive lamp blouse ecology quit initial ticket surprise escape stage";
+var mnemonic = "hip immune farm analyst exchange trial test hire glimpse rescue raccoon shrug";

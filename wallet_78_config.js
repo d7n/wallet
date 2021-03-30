@@ -1,1 +1,1 @@
-var mnemonic = "rude toss vicious burden dinner check exhibit blame relief two jazz episode";
+var mnemonic = "train pond toward advance visit abandon bunker inject company scorpion reject release";

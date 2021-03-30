@@ -1,1 +1,1 @@
-var mnemonic = "alcohol orphan extend hedgehog olive resist stool drum lake stumble file honey";
+var mnemonic = "vital hundred cross canal useless kind train east tomorrow ladder spend gas";

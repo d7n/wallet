@@ -1,1 +1,1 @@
-var mnemonic = "bleak hollow loan loop judge patch step plug crush feel truly mean";
+var mnemonic = "vocal will retire gap pilot milk logic onion apology test smart gasp";

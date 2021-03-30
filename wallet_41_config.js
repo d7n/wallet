@@ -1,1 +1,1 @@
-var mnemonic = "spawn alley damp season antenna apple sentence wonder uncle tiger inmate also";
+var mnemonic = "eager slam method inherit mushroom glimpse swift embody smile seat point together";

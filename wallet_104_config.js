@@ -1,1 +1,1 @@
-var mnemonic = "snack used cluster ill logic rug cook nation deal fork wash cheese";
+var mnemonic = "remind craft quote fat gap way planet dog angry twice camera cute";

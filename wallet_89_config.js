@@ -1,1 +1,1 @@
-var mnemonic = "evil urge ordinary series obtain grit noise tuna purity sausage amazing photo";
+var mnemonic = "glove art drop bounce chuckle gauge super access violin immune giant trial";

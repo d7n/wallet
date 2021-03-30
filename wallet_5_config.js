@@ -1,1 +1,1 @@
-var mnemonic = "absent stock steel advice treat more fold teach exhibit radio acquire pottery";
+var mnemonic = "fork soap boss raven bring employ trial spawn mule lab clutch toward";

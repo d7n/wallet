@@ -1,1 +1,1 @@
-var mnemonic = "penalty result unfair sadness hurdle work lesson umbrella area draw holiday top";
+var mnemonic = "breeze bronze flock tag peanut young neglect crew bacon shed curve case";

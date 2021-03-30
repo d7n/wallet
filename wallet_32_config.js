@@ -1,1 +1,1 @@
-var mnemonic = "soda face distance major vicious table pear leg inmate total throw salad";
+var mnemonic = "nothing advance crystal inspire street jungle tray jelly audit mule cherry escape";

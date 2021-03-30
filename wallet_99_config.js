@@ -1,1 +1,1 @@
-var mnemonic = "armed velvet body captain vibrant depend chat short laptop basic obvious stairs";
+var mnemonic = "emotion below senior network open climb surface dog sign forget glue fetch";

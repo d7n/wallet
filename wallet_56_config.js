@@ -1,1 +1,1 @@
-var mnemonic = "cruel demand divide fee cluster pave balance lecture luxury drip enjoy fox";
+var mnemonic = "payment raise card stem village potato kid west wire two hello season";

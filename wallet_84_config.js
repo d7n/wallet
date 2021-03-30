@@ -1,1 +1,1 @@
-var mnemonic = "nose sun sweet inject sock debate medal hip again swap immense museum";
+var mnemonic = "pioneer remember question smooth slot hire memory praise topple excess emotion flat";

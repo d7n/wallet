@@ -1,1 +1,1 @@
-var mnemonic = "finish forward umbrella crack winter half random off bamboo leader shell payment";
+var mnemonic = "what display cliff man crater powder robot bread desert potato alarm change";

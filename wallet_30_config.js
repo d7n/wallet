@@ -1,1 +1,1 @@
-var mnemonic = "retire wage clerk board quick garage whale police punch dance shock plate";
+var mnemonic = "impact siege grass attack slam soda select inside physical cover dignity leg";

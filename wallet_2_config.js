@@ -1,1 +1,1 @@
-var mnemonic = "dismiss fury midnight rifle borrow time giraffe brush security draft allow rather";
+var mnemonic = "pair science nature use filter awkward spread indicate season medal struggle same";

@@ -1,1 +1,1 @@
-var mnemonic = "whip confirm amateur kit sunny track gain merit blood harvest mistake excess";
+var mnemonic = "drastic flat crush census flame amazing design tide appear sense dial fall";

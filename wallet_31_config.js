@@ -1,1 +1,1 @@
-var mnemonic = "garden left despair pigeon tiger skill honey digital degree any spawn audit";
+var mnemonic = "bleak fold stumble blade section match genre own insane trouble frozen protect";

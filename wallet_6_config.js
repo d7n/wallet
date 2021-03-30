@@ -1,1 +1,1 @@
-var mnemonic = "income knock bargain term daughter icon critic oval cancel filter draw crucial";
+var mnemonic = "defy cattle winter spring harsh wash ability caught machine file arrow rare";

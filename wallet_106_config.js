@@ -1,1 +1,1 @@
-var mnemonic = "want item teach next unique city when embark door fitness tube super";
+var mnemonic = "tape coil soul misery noodle wait just produce trophy couple picture stable";

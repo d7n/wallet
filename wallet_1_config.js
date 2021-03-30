@@ -1,1 +1,1 @@
-var mnemonic = "seven tray prepare donate fiction alley unlock sister ring oppose unable guard";
+var mnemonic = "tackle lounge lens mixture celery rack palm demand renew champion cereal among";

@@ -1,1 +1,1 @@
-var mnemonic = "spray acoustic real address dry arctic panther dog champion you rough trash";
+var mnemonic = "utility sugar that annual blossom milk seat nation sample carbon rebuild race";

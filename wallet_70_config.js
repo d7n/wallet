@@ -1,1 +1,1 @@
-var mnemonic = "apple vital adjust dice trick net cargo setup correct meadow refuse power";
+var mnemonic = "luxury inhale found park talk flower all advice move solid siege bronze";

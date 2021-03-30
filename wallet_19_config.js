@@ -1,1 +1,1 @@
-var mnemonic = "all fix sea wagon project blossom excuse clinic rate pencil brass rotate";
+var mnemonic = "index grab want boil casino whip scrub inner swamp inspire scout similar";

@@ -1,1 +1,1 @@
-var mnemonic = "science source extend cloud taxi under any such sample gaze convince anger";
+var mnemonic = "toss matrix grass draft quote bone buffalo ocean frame canal cliff prefer";

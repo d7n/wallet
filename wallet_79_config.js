@@ -1,1 +1,1 @@
-var mnemonic = "pitch glass sausage dove inmate skate defy essence chef bleak kiwi spatial";
+var mnemonic = "smooth more bargain correct issue dance blood virtual access flight health credit";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt rain gravity argue steel output pond equal next duty lobster open";
+var mnemonic = "slender bitter toss tissue panda you dial online laugh tuna burger fan";

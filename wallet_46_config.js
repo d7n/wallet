@@ -1,1 +1,1 @@
-var mnemonic = "coin veteran deputy finish syrup flock swift blossom skull door burden sunny";
+var mnemonic = "income pluck reason scrap display mechanic carpet grief crime debris toilet crucial";

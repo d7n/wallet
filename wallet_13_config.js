@@ -1,1 +1,1 @@
-var mnemonic = "coil surge century buyer forum atom actor auction meadow liquid okay beef";
+var mnemonic = "firm gloom clutch cargo present resemble joke onion inner pulse cash affair";

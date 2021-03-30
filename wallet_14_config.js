@@ -1,1 +1,1 @@
-var mnemonic = "security token trophy puzzle stay stick cart person casual horse true practice";
+var mnemonic = "chef solve hollow mimic artwork cart tool cancel motion siege fitness brush";

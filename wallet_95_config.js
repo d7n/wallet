@@ -1,1 +1,1 @@
-var mnemonic = "fresh cash era hamster frequent radar famous position crisp high force bone";
+var mnemonic = "grit latin tank sell all grab walk slight call fiction dutch razor";

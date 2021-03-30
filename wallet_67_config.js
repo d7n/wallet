@@ -1,1 +1,1 @@
-var mnemonic = "general between truly dish urge unique edit arrow shock evil wrong town";
+var mnemonic = "decrease hip bronze flavor loyal choose cover such lottery scare bring forest";

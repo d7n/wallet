@@ -1,1 +1,1 @@
-var mnemonic = "survey tide clarify tattoo east mention stable sleep picnic burger burst sorry";
+var mnemonic = "find donate badge spoil man solve omit breeze swallow meadow fragile weasel";

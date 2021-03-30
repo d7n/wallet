@@ -1,1 +1,1 @@
-var mnemonic = "crop bean salad divide project tunnel clean fee office convince initial swallow";
+var mnemonic = "festival clump stumble disease hobby jewel wood find employ inform bottom teach";

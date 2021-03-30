@@ -1,1 +1,1 @@
-var mnemonic = "hotel describe mirror hunt enough sell repair code domain afford ritual cause";
+var mnemonic = "crew salt smart feed amateur typical leisure annual music spawn concert ride";

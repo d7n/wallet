@@ -1,1 +1,1 @@
-var mnemonic = "swing excite beach impulse physical heart carry unlock subway demand assist dove";
+var mnemonic = "science decline drill silver drama pair blood shell thunder first time tongue";

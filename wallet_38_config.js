@@ -1,1 +1,1 @@
-var mnemonic = "spin reveal bitter decline chef cheese chaos bracket best envelope label tray";
+var mnemonic = "unfair mistake surface attitude wedding rare panda able flash display blood climb";

@@ -1,1 +1,1 @@
-var mnemonic = "permit vote tone arrive hedgehog borrow skill armed master seed intact viable";
+var mnemonic = "cave brown rocket clean welcome hidden globe clever leaf cave fun client";
