@@ -1,1 +1,1 @@
-var mnemonic = "wood joy follow toast until track pause clutch apology describe donkey praise";
+var mnemonic = "foot cliff stage yard group couple deer elite crater original style special";

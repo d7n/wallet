@@ -1,1 +1,1 @@
-var mnemonic = "situate boring autumn gospel derive code advance modify spy guess claw used";
+var mnemonic = "real expose duck cargo shoe first hungry use marble give skate issue";

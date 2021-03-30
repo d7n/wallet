@@ -1,1 +1,1 @@
-var mnemonic = "ahead abstract avocado elephant chicken bring polar virtual sleep burst hope glass";
+var mnemonic = "leisure edge private nominee inform swallow mercy crane spend into style husband";

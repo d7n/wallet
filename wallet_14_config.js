@@ -1,1 +1,1 @@
-var mnemonic = "arctic gun about punch jazz spike paper clock educate junior cargo ahead";
+var mnemonic = "spatial urban village peanut adjust level harvest company unfold rookie gather drastic";

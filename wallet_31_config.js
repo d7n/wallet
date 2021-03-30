@@ -1,1 +1,1 @@
-var mnemonic = "you town mammal heart since prepare grant castle absorb flash endorse hope";
+var mnemonic = "adult delay blush book fit today credit film embrace clay recipe code";

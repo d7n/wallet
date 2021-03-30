@@ -1,1 +1,1 @@
-var mnemonic = "depth jaguar clean tilt adult lobster soul unfair motor come arrest clip";
+var mnemonic = "trick army pipe casino wink salt cement clump wrist question erode middle";

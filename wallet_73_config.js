@@ -1,1 +1,1 @@
-var mnemonic = "gas lens tomorrow always zebra blossom mesh visual man pumpkin quick pyramid";
+var mnemonic = "annual permit add popular again wasp normal oak crater day snake coast";

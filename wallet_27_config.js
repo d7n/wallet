@@ -1,1 +1,1 @@
-var mnemonic = "spell steak puzzle where junk expose strike sword uncover plate bubble sponsor";
+var mnemonic = "state divide trade drastic produce agent horror canal kingdom planet actor object";

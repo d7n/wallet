@@ -1,1 +1,1 @@
-var mnemonic = "shove cause deposit screen ladder speed confirm endorse road unlock rebel income";
+var mnemonic = "inhale opinion snake note arrange pizza lady script inmate vanish census jealous";

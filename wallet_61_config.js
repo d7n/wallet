@@ -1,1 +1,1 @@
-var mnemonic = "suspect better street oak current major street resist cousin enable armor fatal";
+var mnemonic = "coconut ostrich engine napkin leave already zebra lottery ugly cattle child depth";

@@ -1,1 +1,1 @@
-var mnemonic = "paper person act crop vocal surface exclude edit trash pear torch oyster";
+var mnemonic = "hungry cry donate hand spawn use day fancy wild clutch traffic fine";

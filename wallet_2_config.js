@@ -1,1 +1,1 @@
-var mnemonic = "trap knee early original salmon hurdle trick host purpose bounce smart hope";
+var mnemonic = "witness august aspect box mobile pepper feed climb horn any gun govern";

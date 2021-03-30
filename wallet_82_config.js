@@ -1,1 +1,1 @@
-var mnemonic = "glow rice ensure retire blue shield zoo endorse entire crush floor patch";
+var mnemonic = "inherit fame just minor belt invite ketchup peasant rifle barrel elbow decade";

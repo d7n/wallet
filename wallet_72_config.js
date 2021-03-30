@@ -1,1 +1,1 @@
-var mnemonic = "soap impact frog report remain fringe dutch change unfair exhibit idea okay";
+var mnemonic = "wall industry exile shiver frozen cloth notice reunion hover blanket monster disorder";

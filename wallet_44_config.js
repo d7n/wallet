@@ -1,1 +1,1 @@
-var mnemonic = "hello slide web trumpet nature address feel design find rebuild fantasy sweet";
+var mnemonic = "snake nothing mosquito service hen valve crop city air social hazard orphan";

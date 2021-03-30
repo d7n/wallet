@@ -1,1 +1,1 @@
-var mnemonic = "tool nothing nest setup title mix vendor silk velvet material list yellow";
+var mnemonic = "shell afford soccer shed end boy assault box august envelope grain lunch";

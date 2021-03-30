@@ -1,1 +1,1 @@
-var mnemonic = "endless stock foster mean collect embark size sausage near erosion attitude unveil";
+var mnemonic = "hood among social unfair disorder goose health seven drama legal betray imitate";

@@ -1,1 +1,1 @@
-var mnemonic = "input loan lift unique stool wool sheriff neither oak cost senior install";
+var mnemonic = "degree barely explain glad neck suspect hard model violin live fix because";

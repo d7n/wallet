@@ -1,1 +1,1 @@
-var mnemonic = "receive error unit analyst kitchen rebel butter add climb stick build grunt";
+var mnemonic = "rely despair blossom nose dove dirt creek purity glow spot lava upset";

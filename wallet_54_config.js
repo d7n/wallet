@@ -1,1 +1,1 @@
-var mnemonic = "there quantum illegal clog antenna flavor marble wolf same fever winner frog";
+var mnemonic = "drive all net sad copper client smooth crumble betray rubber strong vocal";

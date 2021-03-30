@@ -1,1 +1,1 @@
-var mnemonic = "attack video salad slender draft couple easily brick suspect kiss fork wet";
+var mnemonic = "perfect doctor bag flight client leg illegal patrol night tomorrow student crunch";

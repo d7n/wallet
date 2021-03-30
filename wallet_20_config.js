@@ -1,1 +1,1 @@
-var mnemonic = "vacuum whip punch spice atom payment mean movie sense ensure husband bag";
+var mnemonic = "prefer barrel patch prefer interest neither olympic banana cloth bunker coil paper";

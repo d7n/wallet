@@ -1,1 +1,1 @@
-var mnemonic = "give amazing suit rib fatigue jealous math spread lab giant security goose";
+var mnemonic = "light rain certain over venture pluck grocery tuna leave chaos enjoy smart";

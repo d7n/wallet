@@ -1,1 +1,1 @@
-var mnemonic = "club balcony click interest oxygen visual small biology style height link muscle";
+var mnemonic = "kiwi start cheap dinner leader grow blush achieve dutch child they egg";

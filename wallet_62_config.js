@@ -1,1 +1,1 @@
-var mnemonic = "furnace butter alert phone luxury blur radio impact rhythm bird earth soldier";
+var mnemonic = "purpose vote start ill source library key seminar clock one gun pull";

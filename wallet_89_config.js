@@ -1,1 +1,1 @@
-var mnemonic = "loop notable lazy write divide unaware wise treat escape deer buffalo unhappy";
+var mnemonic = "wealth title slab person consider find achieve silly choose prepare bind bachelor";

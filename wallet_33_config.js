@@ -1,1 +1,1 @@
-var mnemonic = "actual order solar garage essence movie clock hair order front door door";
+var mnemonic = "worth spirit satoshi vapor later clap lake candy earn talent air oven";

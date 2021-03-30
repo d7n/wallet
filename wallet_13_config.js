@@ -1,1 +1,1 @@
-var mnemonic = "stove coral review enemy crunch debate bone pencil junior olympic orphan drift";
+var mnemonic = "sugar clerk smoke jealous smooth school burden goat clap vague armor citizen";

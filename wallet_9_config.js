@@ -1,1 +1,1 @@
-var mnemonic = "aerobic found clever cart model say fox result child cereal document valley";
+var mnemonic = "once pelican jar zebra potato salon certain safe truly glare exact mechanic";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake foster season truly rose vibrant silk report talent until excuse desk";
+var mnemonic = "doctor barrel begin trophy foam enforce finish weather cousin scout utility zebra";

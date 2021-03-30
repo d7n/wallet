@@ -1,1 +1,1 @@
-var mnemonic = "what arrange office casual limb present design grace spare quote injury stadium";
+var mnemonic = "climb address axis census engage can cactus sun task snow cat alone";

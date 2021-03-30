@@ -1,1 +1,1 @@
-var mnemonic = "hamster sure universe craft laugh lizard edge crouch pigeon social learn coach";
+var mnemonic = "tuition clap insane rude open amused stem distance trend consider crisp loyal";

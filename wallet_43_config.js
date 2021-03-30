@@ -1,1 +1,1 @@
-var mnemonic = "focus miss latin mean network mansion gap ocean dinosaur viable method spawn";
+var mnemonic = "east begin doll finish spin wash company hip pretty wing fuel rib";

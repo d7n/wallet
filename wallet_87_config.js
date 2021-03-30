@@ -1,1 +1,1 @@
-var mnemonic = "palace will sea scheme grow fever begin liberty scrub first album aware";
+var mnemonic = "solar afford explain often leave drill prefer sudden crane coffee hockey habit";

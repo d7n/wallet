@@ -1,1 +1,1 @@
-var mnemonic = "snack spot pistol biology fantasy error organ recall border later market defense";
+var mnemonic = "walk carry cluster humble raw learn wrestle shove pave season scene subway";

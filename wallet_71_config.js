@@ -1,1 +1,1 @@
-var mnemonic = "summer inhale feed about tank mystery kid hungry bachelor cloud bridge rebel";
+var mnemonic = "rent ship mixture pulse thing stereo liquid alley ecology net bless wish";

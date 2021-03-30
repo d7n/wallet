@@ -1,1 +1,1 @@
-var mnemonic = "universe what chapter panel flock strategy ginger panic skate train ivory dust";
+var mnemonic = "major market speed visa hat company pepper cat zero dune buddy rough";

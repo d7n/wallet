@@ -1,1 +1,1 @@
-var mnemonic = "helmet legend address tower fortune prize truck polar small palace surround globe";
+var mnemonic = "phrase iron link option bar aware raccoon youth cancel solid jungle chief";

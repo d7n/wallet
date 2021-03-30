@@ -1,1 +1,1 @@
-var mnemonic = "radio convince attend target maximum remind tomorrow nation quarter guide miracle flee";
+var mnemonic = "business journey neither hedgehog sick guide anger cable swing explain knee squirrel";

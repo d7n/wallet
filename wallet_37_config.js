@@ -1,1 +1,1 @@
-var mnemonic = "city swear shock pact exile top desert owner basic hurdle coin urban";
+var mnemonic = "banner avoid mutual fold notable wheel chat famous sniff slot portion grow";

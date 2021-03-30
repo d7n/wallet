@@ -1,1 +1,1 @@
-var mnemonic = "athlete spy agent ignore whale awesome pencil tissue jar used water blossom";
+var mnemonic = "devote oblige inspire cute mercy feed asthma another vital cotton tunnel possible";

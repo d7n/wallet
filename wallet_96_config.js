@@ -1,1 +1,1 @@
-var mnemonic = "panda together dance give heart talk coin firm oval frozen ordinary riot";
+var mnemonic = "bachelor rib give zebra hammer medal pumpkin rookie feed weekend trigger thunder";

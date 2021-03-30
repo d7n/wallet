@@ -1,1 +1,1 @@
-var mnemonic = "news roof awful install wife smooth acid kid group elevator excess result";
+var mnemonic = "ball report cabbage heart biology lunch near inner text obtain embark multiply";

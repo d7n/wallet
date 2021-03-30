@@ -1,1 +1,1 @@
-var mnemonic = "upgrade beauty panic leisure chest menu traffic march jealous involve inside horror";
+var mnemonic = "tornado siege wealth denial airport crowd lawn below trend solar diesel cram";

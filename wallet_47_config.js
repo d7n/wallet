@@ -1,1 +1,1 @@
-var mnemonic = "border security lock toddler trouble fluid seed consider will cry private naive";
+var mnemonic = "whale spirit riot joke evidence gap borrow desert until please spice arrest";

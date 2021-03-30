@@ -1,1 +1,1 @@
-var mnemonic = "vacuum canvas consider alpha transfer grocery bird vicious cabin ten traffic affair";
+var mnemonic = "express inmate whale divert brick amateur save diagram noodle affair solar bulk";

@@ -1,1 +1,1 @@
-var mnemonic = "involve program anxiety salt picture suspect cinnamon curious rebuild ginger trigger scout";
+var mnemonic = "episode grape spin actual bird file fatal cat slam flee cliff collect";

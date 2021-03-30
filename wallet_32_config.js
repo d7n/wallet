@@ -1,1 +1,1 @@
-var mnemonic = "candy tuition zebra swallow chat course replace tenant swing path imitate hard";
+var mnemonic = "source depart kiss route benefit buzz area faith fatigue flower blue police";

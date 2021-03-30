@@ -1,1 +1,1 @@
-var mnemonic = "child price blush street magnet future patch dance return current scheme grab";
+var mnemonic = "three museum bike amount code sick estate service thrive loan riot retire";

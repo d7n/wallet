@@ -1,1 +1,1 @@
-var mnemonic = "chest analyst guilt auto quit word welcome canal rail birth only echo";
+var mnemonic = "collect sugar program network town awake come seminar change race utility country";

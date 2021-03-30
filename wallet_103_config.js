@@ -1,1 +1,1 @@
-var mnemonic = "pony winter deliver camp poverty combine sort party nominee olympic crowd faith";
+var mnemonic = "where violin wool hazard choose unfair morning couch north critic high frequent";

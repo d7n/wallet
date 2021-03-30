@@ -1,1 +1,1 @@
-var mnemonic = "sister burden license stadium tonight siege salad describe harbor slow deny pull";
+var mnemonic = "hero fit embrace small kiss busy retreat disorder drive yard fashion diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "clog kit crumble wreck surge actor spawn naive pigeon apple glimpse crop";
+var mnemonic = "twelve crack nasty vapor entry document diagram boy kite trap absent slot";

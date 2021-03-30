@@ -1,1 +1,1 @@
-var mnemonic = "siren service private pumpkin upon naive refuse forget enlist inhale case river";
+var mnemonic = "jaguar canvas pool actual dilemma photo season super puppy clump disease income";

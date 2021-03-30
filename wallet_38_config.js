@@ -1,1 +1,1 @@
-var mnemonic = "can only coast silent swap slush broom multiply merge bundle pepper acid";
+var mnemonic = "junior forward flavor cover roof twin promote antenna slow sing century deny";

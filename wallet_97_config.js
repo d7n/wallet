@@ -1,1 +1,1 @@
-var mnemonic = "enforce lock make lawsuit usual child shove shoe alert pledge tuna tongue";
+var mnemonic = "rug sick sphere afford off category gravity zebra lucky seat rack coffee";

@@ -1,1 +1,1 @@
-var mnemonic = "cheese bag rule update bullet lunar kid lady possible warfare taxi visit";
+var mnemonic = "market width symbol exist faith coach earn lamp spell video erupt only";

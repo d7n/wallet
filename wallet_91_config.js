@@ -1,1 +1,1 @@
-var mnemonic = "notice yard zoo rubber swim atom jealous target oak mosquito erupt brother";
+var mnemonic = "romance topple year praise blush regret apart brown dwarf world napkin arrest";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion capital total pink fit alpha kangaroo define merit essay onion elite";
+var mnemonic = "system reason capable moral essence awesome disagree receive discover camera vivid saddle";

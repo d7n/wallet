@@ -1,1 +1,1 @@
-var mnemonic = "thing time bone coffee coyote strong recycle convince picture metal hover spend";
+var mnemonic = "glow basket used breeze noise plug atom pudding lab entire immense absorb";

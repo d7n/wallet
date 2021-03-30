@@ -1,1 +1,1 @@
-var mnemonic = "glimpse access fashion pond radio detect either garage cram dilemma recall shoe";
+var mnemonic = "move silk angle zero kiss waste very august obtain faculty possible source";

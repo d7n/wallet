@@ -1,1 +1,1 @@
-var mnemonic = "humor afraid between business shrimp cousin pilot urge atom stairs reason logic";
+var mnemonic = "grit oyster wife vote history pledge gesture math guitar galaxy fork material";

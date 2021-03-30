@@ -1,1 +1,1 @@
-var mnemonic = "giraffe tip crush grid trade achieve excess dice call glory icon confirm";
+var mnemonic = "globe fiction galaxy lazy lounge judge process what alcohol impact engine end";

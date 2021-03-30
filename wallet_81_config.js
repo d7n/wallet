@@ -1,1 +1,1 @@
-var mnemonic = "aunt over special good mad plastic west mad solar latin juice cook";
+var mnemonic = "parrot lonely wage path spread affair media arena help jewel need rebuild";

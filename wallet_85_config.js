@@ -1,1 +1,1 @@
-var mnemonic = "quiz royal turn replace virus drum company trouble wisdom surprise unknown tooth";
+var mnemonic = "napkin wave adjust mammal copper kiwi chimney saddle lesson expose improve transfer";

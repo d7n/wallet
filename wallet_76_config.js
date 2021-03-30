@@ -1,1 +1,1 @@
-var mnemonic = "snap section once middle holiday library wash dream base aunt saddle upon";
+var mnemonic = "narrow usual knife tongue unlock famous obtain argue hint rail library creek";

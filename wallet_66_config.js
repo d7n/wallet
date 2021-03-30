@@ -1,1 +1,1 @@
-var mnemonic = "grab mimic boy ahead kid tube priority answer decrease service axis purse";
+var mnemonic = "person air play neglect corn absurd flash polar airport balance develop entire";

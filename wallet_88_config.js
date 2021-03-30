@@ -1,1 +1,1 @@
-var mnemonic = "steel cattle garbage volcano receive mixture wheel prefer potato limb desert cheap";
+var mnemonic = "sniff salt strike august dragon lazy worry clock scheme curve priority next";

@@ -1,1 +1,1 @@
-var mnemonic = "snake critic attract sting air couple image people bundle rose illegal congress";
+var mnemonic = "wage upper faint damp spread learn cause smoke click swim index industry";

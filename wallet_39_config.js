@@ -1,1 +1,1 @@
-var mnemonic = "embark situate salt noodle marriage era cheese any adjust arm mountain snake";
+var mnemonic = "kid deliver crime behind term abstract normal trip either shoe pilot wrong";

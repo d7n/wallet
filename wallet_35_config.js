@@ -1,1 +1,1 @@
-var mnemonic = "fatigue account gossip aspect intact actress area summer find bus main frame";
+var mnemonic = "pause tunnel reform letter grape tube point stadium pretty label practice pig";

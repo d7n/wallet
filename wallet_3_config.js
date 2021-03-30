@@ -1,1 +1,1 @@
-var mnemonic = "hub pelican industry call stumble worth below merry volume poverty cover toilet";
+var mnemonic = "cousin butter suspect main cattle monster nuclear disagree farm brown vault member";

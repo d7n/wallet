@@ -1,1 +1,1 @@
-var mnemonic = "fluid hawk track man argue because bean draw proof prosper april oven";
+var mnemonic = "goddess toss lens they wage method off kitten clown submit attend unhappy";

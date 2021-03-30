@@ -1,1 +1,1 @@
-var mnemonic = "divert present card sound excite jewel wolf south pool patch cable pig";
+var mnemonic = "sad achieve pluck again shy slogan jazz net catch acquire jungle symptom";

@@ -1,1 +1,1 @@
-var mnemonic = "supply chapter turtle fantasy leisure town invest guide flash abuse tired rebel";
+var mnemonic = "rookie wink issue prison again cushion ticket tuna consider dress glad bone";

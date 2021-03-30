@@ -1,1 +1,1 @@
-var mnemonic = "meadow address dry trick base thought lion indicate exclude clay fiscal time";
+var mnemonic = "enter tired unique age brother fan bronze today tired two eight derive";

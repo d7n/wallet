@@ -1,1 +1,1 @@
-var mnemonic = "alter office people april addict young stock sentence balcony pole outside runway";
+var mnemonic = "leaf process devote gesture hazard ketchup split emotion crunch shy two rare";

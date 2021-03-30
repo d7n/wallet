@@ -1,1 +1,1 @@
-var mnemonic = "eye napkin sunset guitar tooth pottery chair onion iron screen chat knife";
+var mnemonic = "atom palm deposit flush fantasy empower infant panic inject filter file belt";

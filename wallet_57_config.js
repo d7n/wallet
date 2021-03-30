@@ -1,1 +1,1 @@
-var mnemonic = "stone nuclear help menu access tornado leave traffic effort usual creek figure";
+var mnemonic = "joy way spell puzzle method run romance lonely ten aspect lunar medal";

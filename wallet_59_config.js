@@ -1,1 +1,1 @@
-var mnemonic = "forum mesh fancy joy cinnamon advice vault kit emotion jazz melody order";
+var mnemonic = "science elevator joy follow weather cousin jar dutch clown speed home alarm";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus hip infant motion bus live soon ignore field antenna seat shed";
+var mnemonic = "distance mom access river chef muscle champion pet rotate antique rib mutual";

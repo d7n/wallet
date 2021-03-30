@@ -1,1 +1,1 @@
-var mnemonic = "laugh erosion deputy glory trap tape vacant bring before thumb property float";
+var mnemonic = "half secret parrot cupboard auto afraid skill square engage trouble high net";

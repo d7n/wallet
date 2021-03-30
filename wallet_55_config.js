@@ -1,1 +1,1 @@
-var mnemonic = "oak hybrid lumber man bubble shoulder topic ugly essay weekend follow moon";
+var mnemonic = "item panther hard labor theme elbow city since green raw fabric width";

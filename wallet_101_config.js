@@ -1,1 +1,1 @@
-var mnemonic = "language churn copper clutch fly zone width dilemma flight surprise satoshi flee";
+var mnemonic = "inquiry jungle journey never public similar notice engage armed all inquiry snap";

@@ -1,1 +1,1 @@
-var mnemonic = "hour select siren insane bid effort animal fever joy animal vocal forum";
+var mnemonic = "turtle game force enforce stone suffer disease major ice jungle badge guess";

@@ -1,1 +1,1 @@
-var mnemonic = "proud predict custom mad gloom raw average frown attend sausage pulse gasp";
+var mnemonic = "clump average advice chapter tone lake cliff hospital visit parade west tunnel";

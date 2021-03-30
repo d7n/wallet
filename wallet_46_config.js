@@ -1,1 +1,1 @@
-var mnemonic = "piece response swing common brick wrong grain wish logic hungry wreck stairs";
+var mnemonic = "used piece sport obscure short dragon obvious history unveil diesel rescue chef";

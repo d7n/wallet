@@ -1,1 +1,1 @@
-var mnemonic = "flag spin brisk outer tumble upper antique visual ghost sunset manage poet";
+var mnemonic = "call cup wisdom gloom rose slide stool chair hurry annual crush air";

@@ -1,1 +1,1 @@
-var mnemonic = "draw six then purchase cup treat pact future please predict duty fox";
+var mnemonic = "festival lounge task cement scare violin treat hollow because unit advance curious";

@@ -1,1 +1,1 @@
-var mnemonic = "mimic comfort city setup toast plunge limit tumble raise electric donate rule";
+var mnemonic = "salmon chronic want digital purity faith hold venue royal evolve stomach lend";

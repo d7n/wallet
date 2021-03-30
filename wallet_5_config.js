@@ -1,1 +1,1 @@
-var mnemonic = "worth paddle wood notice junk text trick maid lumber hello release truth";
+var mnemonic = "fame twin wrist harvest chat brisk area pole fruit debris churn unfold";
