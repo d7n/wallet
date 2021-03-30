@@ -1,1 +1,1 @@
-var mnemonic = "decide regret monitor day menu float announce slab repair address finger nerve";
+var mnemonic = "execute sell allow give dwarf behave shed reunion jungle swift bless between";

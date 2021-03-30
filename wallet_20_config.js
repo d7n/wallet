@@ -1,1 +1,1 @@
-var mnemonic = "embrace cute require brown runway crawl certain shrug zoo vibrant slender kick";
+var mnemonic = "drink tissue immune awesome blanket wool crop bike that tumble broken build";

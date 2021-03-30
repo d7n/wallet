@@ -1,1 +1,1 @@
-var mnemonic = "panther pitch wage post quick grain swear slice song evidence latin among";
+var mnemonic = "fruit under indoor giggle segment cactus unhappy mammal glide couch scan similar";

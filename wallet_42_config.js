@@ -1,1 +1,1 @@
-var mnemonic = "slice square whale energy slab orbit odor top win virtual angry ankle";
+var mnemonic = "firm smile brother piano episode lock lazy consider defense original bright brother";

@@ -1,1 +1,1 @@
-var mnemonic = "oil jungle people raven clap habit nest bid credit wonder oven idea";
+var mnemonic = "elder horn dash yellow flat coach resource lake mad before damp mandate";

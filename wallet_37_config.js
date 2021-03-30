@@ -1,1 +1,1 @@
-var mnemonic = "mercy notice magic hospital hill journey half soul portion swallow ability exchange";
+var mnemonic = "enough recall print price hello ridge total junior pioneer silent human tenant";

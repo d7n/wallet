@@ -1,1 +1,1 @@
-var mnemonic = "unusual dust until cement employ cliff phone ordinary trend define party bracket";
+var mnemonic = "neither ginger charge music tent settle manage lock bunker vanish crumble daughter";

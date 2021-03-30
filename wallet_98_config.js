@@ -1,1 +1,1 @@
-var mnemonic = "next peanut sugar priority ring glad car unusual egg duck arena music";
+var mnemonic = "ceiling hope erupt jungle brother opera season reflect crucial deliver leg few";

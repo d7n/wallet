@@ -1,1 +1,1 @@
-var mnemonic = "online thumb noise replace horror under bind april energy bulk mutual avocado";
+var mnemonic = "benefit chat radio ready raise stage child inmate uphold clog reject mobile";

@@ -1,1 +1,1 @@
-var mnemonic = "various bronze roof win history winner diesel spray same little garlic theory";
+var mnemonic = "unit exile little regular program text pool recall target proof pave believe";

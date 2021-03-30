@@ -1,1 +1,1 @@
-var mnemonic = "seed judge spell badge caught dinner erase conduct potato science parent exhaust";
+var mnemonic = "renew garden primary code region wall current minor palm hope found judge";

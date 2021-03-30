@@ -1,1 +1,1 @@
-var mnemonic = "switch silk chair nerve chest apart tape flush water drama degree arrive";
+var mnemonic = "palm wash federal wise afraid tool organ six brief brain hobby donkey";

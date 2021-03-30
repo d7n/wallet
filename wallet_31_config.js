@@ -1,1 +1,1 @@
-var mnemonic = "deposit only jaguar fury logic april magic lottery priority method guilt people";
+var mnemonic = "critic room filter equip hotel crystal fiction spray home garden violin huge";

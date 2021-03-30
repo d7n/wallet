@@ -1,1 +1,1 @@
-var mnemonic = "truly anchor person dumb flip face cool release world convince artwork engage";
+var mnemonic = "sunset spirit loud produce crowd comic raven arrest garbage hat october confirm";

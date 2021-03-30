@@ -1,1 +1,1 @@
-var mnemonic = "blast farm what captain stereo weird sphere delay help head media uncle";
+var mnemonic = "inherit enact runway visual warm owner install jungle plug indicate depart ridge";

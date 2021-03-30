@@ -1,1 +1,1 @@
-var mnemonic = "grape panther only cable hamster middle axis weekend acquire slice sun outer";
+var mnemonic = "female call expect history february beauty number toddler manage dismiss exotic vague";

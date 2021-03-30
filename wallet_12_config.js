@@ -1,1 +1,1 @@
-var mnemonic = "lens quote transfer image caution bunker ship air chest picture rival sound";
+var mnemonic = "jar machine furnace ski theory lift tiger layer celery globe marine spoon";

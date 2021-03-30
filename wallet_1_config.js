@@ -1,1 +1,1 @@
-var mnemonic = "margin fall armed arm pilot upper reflect potato invest heart broom kiss";
+var mnemonic = "evolve present bone sibling share scheme learn flee swing mad pig before";

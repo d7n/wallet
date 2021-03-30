@@ -1,1 +1,1 @@
-var mnemonic = "march head admit bargain athlete build attack before diagram spell parade agree";
+var mnemonic = "unique abuse mosquito ship divert harbor lucky ankle broccoli olive night impose";

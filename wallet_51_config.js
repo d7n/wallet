@@ -1,1 +1,1 @@
-var mnemonic = "innocent palace total obtain slow trust open robust unknown oak diamond mountain";
+var mnemonic = "lend scorpion certain enjoy expand bomb noble child busy rifle leisure pigeon";

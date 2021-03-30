@@ -1,1 +1,1 @@
-var mnemonic = "west crime symbol fan peace salute project patrol speed water laugh behind";
+var mnemonic = "lamp youth kitten divert method decrease plate nasty spell remember muffin sausage";

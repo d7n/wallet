@@ -1,1 +1,1 @@
-var mnemonic = "ginger differ service field fee estate permit rose curtain price february ordinary";
+var mnemonic = "magic medal matrix tenant wheel clump among silent push snow skirt vocal";

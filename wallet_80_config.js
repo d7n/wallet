@@ -1,1 +1,1 @@
-var mnemonic = "exact series cute unaware industry actual habit floor antenna ozone roast swallow";
+var mnemonic = "tragic alpha transfer april dirt beach dentist knife oxygen october torch universe";

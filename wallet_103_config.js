@@ -1,1 +1,1 @@
-var mnemonic = "review citizen acid swing luggage defense tumble control must furnace prepare mixed";
+var mnemonic = "spin lumber man bag cherry museum language will small today captain stand";

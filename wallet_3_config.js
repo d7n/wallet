@@ -1,1 +1,1 @@
-var mnemonic = "enhance length illegal door grocery nut sheriff east all position spread warm";
+var mnemonic = "omit festival quiz main lucky gather neck solar swallow hold prevent elevator";

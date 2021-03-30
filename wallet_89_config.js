@@ -1,1 +1,1 @@
-var mnemonic = "design then library grant problem soap park oxygen defy person burger large";
+var mnemonic = "unable gospel cost radio clay fire pumpkin announce proof arrive taste knock";

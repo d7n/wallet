@@ -1,1 +1,1 @@
-var mnemonic = "wine doll alley else always bamboo speed kidney casino monkey ecology lab";
+var mnemonic = "alley inherit awful ridge clean visa cotton coconut diagram drop inflict raven";

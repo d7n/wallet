@@ -1,1 +1,1 @@
-var mnemonic = "half profit zoo depend blouse shy alert echo island someone eternal sauce";
+var mnemonic = "bind dust picnic liquid fee grant web proof sudden expose treat burst";

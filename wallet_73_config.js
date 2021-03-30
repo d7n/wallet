@@ -1,1 +1,1 @@
-var mnemonic = "humor buzz young unfair clock select word analyst inch unlock borrow road";
+var mnemonic = "release talent lecture satisfy find pudding suit camp pave april increase learn";

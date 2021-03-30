@@ -1,1 +1,1 @@
-var mnemonic = "program innocent proof other between whip provide struggle card they brave orphan";
+var mnemonic = "expand hurry wife exotic arrive license discover hill flock oppose apart off";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow domain replace slim image mango truth canyon sword anger lumber wood";
+var mnemonic = "arrive grain chest case extend grief use shop cost hazard slam general";

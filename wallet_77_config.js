@@ -1,1 +1,1 @@
-var mnemonic = "faint tomato jaguar season twice fire dolphin bright figure almost sketch habit";
+var mnemonic = "mirror donor inhale category pigeon patch neck suffer nice oval tail prepare";

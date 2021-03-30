@@ -1,1 +1,1 @@
-var mnemonic = "gasp inspire patrol napkin rain pony ensure truth join expire embark nuclear";
+var mnemonic = "snake actual blade river peanut cement arm letter order baby capital lunar";

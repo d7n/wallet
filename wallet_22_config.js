@@ -1,1 +1,1 @@
-var mnemonic = "fine dad evoke mail rescue cactus vacant jelly interest glad noise fiction";
+var mnemonic = "glass quit chalk immense rail deer badge soul rookie input bird have";

@@ -1,1 +1,1 @@
-var mnemonic = "woman dice fatigue mistake crew analyst guitar debate ride convince pass improve";
+var mnemonic = "three just matter physical review pave moral romance long shield trophy cover";

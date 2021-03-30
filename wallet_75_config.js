@@ -1,1 +1,1 @@
-var mnemonic = "poverty expect tumble session luggage lonely parrot weapon clown hour vivid confirm";
+var mnemonic = "sting grunt exile smart position hint elite turtle into can popular domain";

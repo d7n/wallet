@@ -1,1 +1,1 @@
-var mnemonic = "asset kitchen basic couch industry minimum gentle bitter surface near fly figure";
+var mnemonic = "impact couch sunny flat cheap wait upgrade hard armor adult switch crater";

@@ -1,1 +1,1 @@
-var mnemonic = "glow deposit twin false tide fuel junk kite parrot owner field focus";
+var mnemonic = "calm north change cereal logic sure profit slender legend shine banner hand";

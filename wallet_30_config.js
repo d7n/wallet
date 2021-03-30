@@ -1,1 +1,1 @@
-var mnemonic = "cute admit kangaroo rebel envelope beauty problem assist loan staff topic skin";
+var mnemonic = "review slot friend drop merge lesson eight blind crush immense outer leader";

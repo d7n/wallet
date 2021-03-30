@@ -1,1 +1,1 @@
-var mnemonic = "treat valve select cup circle build neutral immense rib feature dice vacant";
+var mnemonic = "oxygen metal wait eagle chalk pipe kidney skill kit vehicle gift orange";

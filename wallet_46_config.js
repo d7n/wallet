@@ -1,1 +1,1 @@
-var mnemonic = "evoke blame soft lounge sound zone wing winter leaf add monster unveil";
+var mnemonic = "cake tell post sort giraffe rapid garlic pitch chuckle view guitar canoe";

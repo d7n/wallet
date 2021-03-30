@@ -1,1 +1,1 @@
-var mnemonic = "language hospital shy dish alarm diary source tower pool spread ancient spin";
+var mnemonic = "dose easily awesome vicious cry cotton suit flag bus acquire point head";

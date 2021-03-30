@@ -1,1 +1,1 @@
-var mnemonic = "exercise address egg poverty evoke swift appear exhaust surround direct kite circle";
+var mnemonic = "swear dentist brief wet sea lend clay spin index life bus future";

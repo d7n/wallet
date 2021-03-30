@@ -1,1 +1,1 @@
-var mnemonic = "energy oppose lonely family camera joy drill hint dilemma home side purse";
+var mnemonic = "gossip choice bless allow total isolate try resource absurd leader keen wasp";

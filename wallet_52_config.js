@@ -1,1 +1,1 @@
-var mnemonic = "address draft cliff planet sell gain joy fine solve easy spring crystal";
+var mnemonic = "dice rocket lamp amused firm hover element demand purpose buffalo always horse";

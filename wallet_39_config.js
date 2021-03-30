@@ -1,1 +1,1 @@
-var mnemonic = "regular tongue buddy rescue biology give ritual say inflict glance reopen sock";
+var mnemonic = "warfare radio air hope sadness wisdom retire replace prepare shoulder couple inflict";

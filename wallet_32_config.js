@@ -1,1 +1,1 @@
-var mnemonic = "balance shed balance soft reveal bundle drip fortune detail matrix increase tilt";
+var mnemonic = "search just good ahead episode what ice tornado report viable bonus awkward";

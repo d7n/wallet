@@ -1,1 +1,1 @@
-var mnemonic = "tooth village effort ghost asset symbol dismiss stick crisp rather pitch garment";
+var mnemonic = "wild tobacco town between warm sketch tortoise smart manual electric trend now";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel latin wheat valid wasp mad social mom talk tree shield inside";
+var mnemonic = "school lunch figure wine goat coast mesh vapor caught game retire blind";

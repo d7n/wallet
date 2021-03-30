@@ -1,1 +1,1 @@
-var mnemonic = "lonely private social milk act situate harsh creek disorder drip rubber slice";
+var mnemonic = "upper remove desk dragon purchase alley cook case mad width exercise route";

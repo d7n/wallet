@@ -1,1 +1,1 @@
-var mnemonic = "coach nose baby coach acquire shuffle turkey matter utility sense hollow mutual";
+var mnemonic = "fiscal speak gauge clay cannon behave wish crouch piano bachelor seed cradle";

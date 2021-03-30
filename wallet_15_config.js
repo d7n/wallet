@@ -1,1 +1,1 @@
-var mnemonic = "emerge play try suffer monkey light budget vital action catch crush jewel";
+var mnemonic = "suffer charge absurd infant fly match indicate banner panda defense donkey silly";

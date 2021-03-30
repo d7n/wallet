@@ -1,1 +1,1 @@
-var mnemonic = "meadow person senior letter adult actor smoke rate belt style sad uniform";
+var mnemonic = "sponsor south motor rural letter they jungle rifle warrior joke million session";

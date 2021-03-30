@@ -1,1 +1,1 @@
-var mnemonic = "blind click remember deliver vacant waste solid enlist once thunder kitchen brown";
+var mnemonic = "panic enjoy shy once pen horror sail width boil level rapid health";

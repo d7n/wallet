@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow stand sweet horse custom cupboard slush ethics emotion slow alter width";
+var mnemonic = "tattoo prepare proof smile dynamic fragile aim firm pause beef east present";

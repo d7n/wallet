@@ -1,1 +1,1 @@
-var mnemonic = "umbrella maze vessel clip pen garlic grit victory gap admit stumble media";
+var mnemonic = "strike phrase night spoon myth rate girl diagram cute stove version face";

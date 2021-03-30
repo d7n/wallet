@@ -1,1 +1,1 @@
-var mnemonic = "fresh river vendor excuse rebuild space drip napkin spoil emerge wrist inner";
+var mnemonic = "swim lecture meat stomach poet anchor stadium oak primary gate trial student";

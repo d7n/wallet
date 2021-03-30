@@ -1,1 +1,1 @@
-var mnemonic = "cart output defense ball shy suit canvas top consider normal forest area";
+var mnemonic = "system arrange hill lamp flee electric sport input orient barely radar coral";

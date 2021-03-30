@@ -1,1 +1,1 @@
-var mnemonic = "baby work physical purity like bright vapor seed palace idle excite awful";
+var mnemonic = "betray put odor dance imitate lucky marble palm carbon photo drink silk";

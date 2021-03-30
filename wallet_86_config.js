@@ -1,1 +1,1 @@
-var mnemonic = "green maple canal traffic poem knee midnight catch horse metal evil leisure";
+var mnemonic = "clerk fade cram garage cat food display voice crazy rain protect angry";

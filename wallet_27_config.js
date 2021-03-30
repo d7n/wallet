@@ -1,1 +1,1 @@
-var mnemonic = "garbage girl distance whisper maze pair domain fury check another render inside";
+var mnemonic = "explain team crane swamp shrug cinnamon unaware right tube harvest hazard express";

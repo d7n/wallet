@@ -1,1 +1,1 @@
-var mnemonic = "puzzle employ train panther depth thank cloth slim weird aware source girl";
+var mnemonic = "settle clock original risk two tenant wonder real pipe list spring lottery";

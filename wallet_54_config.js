@@ -1,1 +1,1 @@
-var mnemonic = "letter taxi stomach remain erase dial stick error night dizzy journey trap";
+var mnemonic = "answer property hotel change finish flower clay design lend kidney release summer";

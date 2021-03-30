@@ -1,1 +1,1 @@
-var mnemonic = "night wing sting strong reflect village wrap health job allow open brave";
+var mnemonic = "margin delay wild release silent equal train change science inherit glimpse demise";

@@ -1,1 +1,1 @@
-var mnemonic = "usual feature pipe spy sketch atom ranch when blossom bone spy liquid";
+var mnemonic = "rich judge deal piano latin grab eye surge buffalo pigeon vast crew";

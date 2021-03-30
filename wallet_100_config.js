@@ -1,1 +1,1 @@
-var mnemonic = "exist perfect quote brisk room minor resist achieve volume stay crazy inflict";
+var mnemonic = "wheel spy outside proof found disorder whale famous toast shoulder ancient once";

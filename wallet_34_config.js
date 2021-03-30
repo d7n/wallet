@@ -1,1 +1,1 @@
-var mnemonic = "bitter virus metal smile harbor debris ritual matrix soup swing mango people";
+var mnemonic = "truth enforce shallow melody dynamic region accident orbit lunch ritual fitness neutral";

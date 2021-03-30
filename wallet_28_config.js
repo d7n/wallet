@@ -1,1 +1,1 @@
-var mnemonic = "food avocado please faculty priority crouch jungle scare model knock start seed";
+var mnemonic = "marine reveal valve coral swamp person matter life tongue debris faculty canvas";

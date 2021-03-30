@@ -1,1 +1,1 @@
-var mnemonic = "mind iron cousin tennis orient office rude fever few have tomato better";
+var mnemonic = "calm neck bind useful party moon mom kidney gossip always eyebrow pigeon";

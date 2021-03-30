@@ -1,1 +1,1 @@
-var mnemonic = "smile expire tonight autumn grow erupt glass lab ramp stick mail capable";
+var mnemonic = "present load people warfare suspect success juice surround female betray wrap limit";

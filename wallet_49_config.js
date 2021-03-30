@@ -1,1 +1,1 @@
-var mnemonic = "purity nation better enter system load bacon bicycle matter become student slow";
+var mnemonic = "tissue file grid baby estate escape speak thing hospital pool oxygen crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "churn stool rent raccoon soda hamster member twin depth inspire inside myself";
+var mnemonic = "ski glory recall seed champion injury parade square wood door moon simple";

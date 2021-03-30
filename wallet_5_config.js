@@ -1,1 +1,1 @@
-var mnemonic = "worry kitchen below credit filter enlist mountain amused ethics airport good nation";
+var mnemonic = "refuse multiply adapt ostrich finger winner laundry list bulk trial skirt detect";

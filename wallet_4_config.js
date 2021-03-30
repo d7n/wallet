@@ -1,1 +1,1 @@
-var mnemonic = "hair manual trap crisp artefact useful hybrid nation animal table rifle charge";
+var mnemonic = "issue drive foot scheme juice boss length knock welcome erase glory shadow";

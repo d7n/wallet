@@ -1,1 +1,1 @@
-var mnemonic = "filter pipe friend erupt garlic bar vault donkey pledge cram distance fork";
+var mnemonic = "chronic work else kidney ability limit curious voyage genius hand answer move";

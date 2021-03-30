@@ -1,1 +1,1 @@
-var mnemonic = "school capable about search doll remind casino code penalty topple gorilla coil";
+var mnemonic = "coil unveil farm scan leader slim cup spot thunder orchard sock monster";

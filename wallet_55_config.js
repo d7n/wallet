@@ -1,1 +1,1 @@
-var mnemonic = "empty motion nerve august benefit bird monkey tourist ripple piano where hand";
+var mnemonic = "ready slim obey midnight until indoor rookie east inhale offer movie rug";

@@ -1,1 +1,1 @@
-var mnemonic = "wood hybrid guess unable march joy farm tuition daughter milk local unfold";
+var mnemonic = "defense history kingdom wrestle banana gas dinosaur vivid goose wealth bind drop";

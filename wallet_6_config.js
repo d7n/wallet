@@ -1,1 +1,1 @@
-var mnemonic = "coconut element speed fresh another food hello morning injury hub weather flash";
+var mnemonic = "boost marriage grant convince good cover legal speed cliff sing demise salon";

@@ -1,1 +1,1 @@
-var mnemonic = "fit pig once diesel lamp black icon cost cave remove license major";
+var mnemonic = "bread lens garment glory actress sad crouch cruel brave struggle caught focus";

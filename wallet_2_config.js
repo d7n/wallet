@@ -1,1 +1,1 @@
-var mnemonic = "debate boat dawn eternal bounce about wave kitchen organ sell donor people";
+var mnemonic = "paddle mirror color regular method squirrel game soup drink attack antique warm";

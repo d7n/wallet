@@ -1,1 +1,1 @@
-var mnemonic = "trigger unit force fatal reason speak real spray crazy behind anger monkey";
+var mnemonic = "cradle primary possible lobster pull urge program cave clutch language goose vehicle";

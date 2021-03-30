@@ -1,1 +1,1 @@
-var mnemonic = "debris firm breeze nuclear jazz where lion accuse gown spot bus relax";
+var mnemonic = "abandon smoke object turn photo peasant camp spawn impact thought clay permit";

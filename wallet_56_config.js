@@ -1,1 +1,1 @@
-var mnemonic = "proud eyebrow toast live pool extend purchase dizzy boss plate brief enable";
+var mnemonic = "crunch naive traffic toward resource fence mammal rather patient chronic join forward";

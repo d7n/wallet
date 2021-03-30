@@ -1,1 +1,1 @@
-var mnemonic = "badge borrow shine rule doll nephew piano enforce company bridge gun kidney";
+var mnemonic = "device birth road pilot picnic celery below equal code team sword outer";

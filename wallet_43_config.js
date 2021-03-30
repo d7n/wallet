@@ -1,1 +1,1 @@
-var mnemonic = "smart annual north luggage budget ticket flavor domain sniff scrap horror heart";
+var mnemonic = "firm panther rebuild often trial gospel fury neglect flat practice junk upset";

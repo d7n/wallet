@@ -1,1 +1,1 @@
-var mnemonic = "inspire siege alley trade vault radio scene name clap wet merry tunnel";
+var mnemonic = "route isolate need shield method focus rival wait have else tiny token";

@@ -1,1 +1,1 @@
-var mnemonic = "initial nephew scorpion indicate pumpkin grab enlist fan silly camp slim chicken";
+var mnemonic = "name what orchard frost donate artwork because twenty wedding dentist retire small";

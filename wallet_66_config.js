@@ -1,1 +1,1 @@
-var mnemonic = "sign hair enhance utility churn scout twenty reward pledge catalog promote right";
+var mnemonic = "cross throw elegant steel over odor smile narrow offer govern globe bus";

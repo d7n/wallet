@@ -1,1 +1,1 @@
-var mnemonic = "same catalog pill forget clock soccer ceiling dilemma warfare proof age crime";
+var mnemonic = "caught suspect order trim task twenty add drastic speed item depend hockey";

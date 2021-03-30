@@ -1,1 +1,1 @@
-var mnemonic = "human tooth ecology fancy feel artwork phrase spike lawn ill wire behind";
+var mnemonic = "zebra skate civil market weather sock clean bubble flag proof infant when";

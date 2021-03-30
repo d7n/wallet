@@ -1,1 +1,1 @@
-var mnemonic = "issue trap good select curious inflict draw harsh kind pudding marriage enter";
+var mnemonic = "author fat voyage focus like foot turn photo lonely art benefit diet";

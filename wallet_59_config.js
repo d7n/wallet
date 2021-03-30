@@ -1,1 +1,1 @@
-var mnemonic = "fossil season laundry once endorse upper domain catalog lemon topple exist unveil";
+var mnemonic = "ordinary plastic kiwi alpha error tenant define indoor regular million toe bitter";
