@@ -1,1 +1,1 @@
-var mnemonic = "noodle rubber draft page slogan rare occur swarm photo uphold valley excess";
+var mnemonic = "drum normal drill only shaft renew health any bicycle program mention advance";

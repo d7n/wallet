@@ -1,1 +1,1 @@
-var mnemonic = "eight slight unique unfold that pioneer rain insane else empower lamp health";
+var mnemonic = "identify labor crack evolve sample leader faculty token trade alien zero jump";

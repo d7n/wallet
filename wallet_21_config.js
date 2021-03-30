@@ -1,1 +1,1 @@
-var mnemonic = "bamboo salmon supreme consider blur auto guilt cherry tone knife reflect record";
+var mnemonic = "tone gesture stumble pottery example satoshi board lake rule waste couch awake";

@@ -1,1 +1,1 @@
-var mnemonic = "other road frozen response oval hotel wealth kitten pencil car era zebra";
+var mnemonic = "such govern surprise neutral deputy absent staff pledge nerve tent shallow add";

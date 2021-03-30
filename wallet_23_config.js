@@ -1,1 +1,1 @@
-var mnemonic = "way fresh return emotion cash gap disagree boss cereal brave wagon science";
+var mnemonic = "peasant core combine lemon stay zebra poem clip lyrics unhappy social rack";

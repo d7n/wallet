@@ -1,1 +1,1 @@
-var mnemonic = "bamboo exact spoon seminar glance blade shine cool deliver soon knee minute";
+var mnemonic = "loan dolphin table cart civil put off pool captain beauty bring naive";

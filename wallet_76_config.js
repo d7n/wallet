@@ -1,1 +1,1 @@
-var mnemonic = "banana right liberty mixed access mean social island rice hammer rate open";
+var mnemonic = "rescue manual ability virtual under uphold insect motion keen pig inch normal";

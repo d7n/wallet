@@ -1,1 +1,1 @@
-var mnemonic = "provide mountain please enlist spatial job arctic jealous coil coffee ivory album";
+var mnemonic = "destroy budget discover width tell logic chat injury tribe run south stone";

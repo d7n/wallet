@@ -1,1 +1,1 @@
-var mnemonic = "seminar island oxygen trick original install fly retreat faculty rib fury plug";
+var mnemonic = "bread spoil merge hollow wide once leaf valve joy leisure indoor target";

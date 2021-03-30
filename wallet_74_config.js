@@ -1,1 +1,1 @@
-var mnemonic = "chief reduce trash seat chimney present ramp usual upset patient lonely crack";
+var mnemonic = "push evoke repair slam awesome hurdle mirror blade shift asset lonely guitar";

@@ -1,1 +1,1 @@
-var mnemonic = "equal derive post funny tattoo stairs subject moral will stomach joy moon";
+var mnemonic = "annual inside helmet crush profit legend excite table wealth noise paper wife";

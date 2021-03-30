@@ -1,1 +1,1 @@
-var mnemonic = "slush wait pink almost old comic fun length athlete achieve easily dog";
+var mnemonic = "act giggle skill victory inquiry fish shine simple ketchup artist top dash";

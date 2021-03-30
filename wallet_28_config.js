@@ -1,1 +1,1 @@
-var mnemonic = "gaze swap much stuff divide drama inmate wisdom nut bounce vendor edge";
+var mnemonic = "lunch drastic place royal produce monkey flavor inherit earth crime element devote";

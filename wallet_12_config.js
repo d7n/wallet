@@ -1,1 +1,1 @@
-var mnemonic = "gaze boat model actual clever wedding vague clock turkey solve brain sketch";
+var mnemonic = "sure poem flavor happy cost rabbit quarter glimpse pulp fruit surge decorate";

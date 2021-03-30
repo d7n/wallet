@@ -1,1 +1,1 @@
-var mnemonic = "long clutch spoil marble grape saddle lizard angry audit fly normal fortune";
+var mnemonic = "sister mystery laundry blade access post web life voyage strategy edge depart";

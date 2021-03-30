@@ -1,1 +1,1 @@
-var mnemonic = "twice example also special law nerve void medal stuff tip fall staff";
+var mnemonic = "coin saddle pattern find sentence vault hair later snack certain end gate";

@@ -1,1 +1,1 @@
-var mnemonic = "name razor link jewel asthma awkward million help six winter build cable";
+var mnemonic = "kitten age demise erode someone empty fold memory heavy cat poem blast";

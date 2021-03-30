@@ -1,1 +1,1 @@
-var mnemonic = "mistake buzz way dream move mansion side crush business sphere dish mushroom";
+var mnemonic = "now order credit brain echo celery multiply evidence join blast speak parent";

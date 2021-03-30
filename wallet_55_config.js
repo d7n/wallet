@@ -1,1 +1,1 @@
-var mnemonic = "erosion glove post legend bubble general health gain gentle cattle excuse crash";
+var mnemonic = "conduct diary comfort lottery small blame buyer add blouse retire exhaust hat";

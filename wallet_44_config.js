@@ -1,1 +1,1 @@
-var mnemonic = "repeat rival ball dad increase split number also gadget grief around mimic";
+var mnemonic = "morning kingdom umbrella impact art piano lawn endorse jealous arrive heart spread";

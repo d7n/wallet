@@ -1,1 +1,1 @@
-var mnemonic = "motor cream legend actor uncover fun armor gauge rare dance honey chat";
+var mnemonic = "february blade wire surge scrub shrimp antenna unable praise sting put dinosaur";

@@ -1,1 +1,1 @@
-var mnemonic = "chalk relax feed glow minor step honey theory stand blur payment jaguar";
+var mnemonic = "wall panda tuition shock chalk grunt fantasy language drop into vivid affair";

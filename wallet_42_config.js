@@ -1,1 +1,1 @@
-var mnemonic = "enemy panic once find execute uphold sell bulb pottery clip charge curve";
+var mnemonic = "angle proud charge age stuff plunge sunset ensure siege tortoise anchor glue";

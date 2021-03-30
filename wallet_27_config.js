@@ -1,1 +1,1 @@
-var mnemonic = "door bone film slogan accident snow height car add close rabbit kitchen";
+var mnemonic = "gorilla ride genius brush ensure pizza afraid execute milk erode sign visa";

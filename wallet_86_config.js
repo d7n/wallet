@@ -1,1 +1,1 @@
-var mnemonic = "kid miss motion lunar eternal train world subway click flip heavy answer";
+var mnemonic = "gallery blame cable face assume script snap kick soon capital shed fan";

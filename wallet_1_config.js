@@ -1,1 +1,1 @@
-var mnemonic = "garden citizen job will bulk east ramp penalty heart bubble angry prepare";
+var mnemonic = "injury drink dial hope play duty island coyote crumble nominee absent possible";

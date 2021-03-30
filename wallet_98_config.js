@@ -1,1 +1,1 @@
-var mnemonic = "helmet twist brick end radio wagon idea mountain flower welcome reunion detect";
+var mnemonic = "snap diagram abandon rigid december surround parrot bind raw anchor draw pudding";

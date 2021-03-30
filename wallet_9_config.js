@@ -1,1 +1,1 @@
-var mnemonic = "route decide thrive wall lobster forum barrel sample nominee goose property vault";
+var mnemonic = "crystal accuse okay ginger beach quit inflict cattle retire elder mosquito cheese";

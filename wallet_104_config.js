@@ -1,1 +1,1 @@
-var mnemonic = "upset equip assist guitar lobster isolate wash royal degree gate safe uphold";
+var mnemonic = "silent maid stage provide cannon winner jewel strong cupboard disorder slow note";

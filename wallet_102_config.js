@@ -1,1 +1,1 @@
-var mnemonic = "stick vocal fatal surge share join universe wash salon choose image indoor";
+var mnemonic = "nominee vacant under cereal boy clever expect index drip rather fun goose";

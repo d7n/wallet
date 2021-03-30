@@ -1,1 +1,1 @@
-var mnemonic = "aware cost very cost task kind spend seminar festival slide circle humble";
+var mnemonic = "mandate brown battle arrange friend victory fiction split actress surface guard fiscal";

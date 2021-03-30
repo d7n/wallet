@@ -1,1 +1,1 @@
-var mnemonic = "lake eight weasel time gate delay size avoid wear kite noise loop";
+var mnemonic = "uncover motor push fatigue rent depth clever record wedding admit erase clean";

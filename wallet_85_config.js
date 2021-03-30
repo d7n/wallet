@@ -1,1 +1,1 @@
-var mnemonic = "march phrase little like negative creek bread slice ski square surface sick";
+var mnemonic = "grain harbor bacon alone stick manage pill year expose roast tissue dismiss";

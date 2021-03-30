@@ -1,1 +1,1 @@
-var mnemonic = "donate behind praise amused trigger digital worth honey theory midnight dove vessel";
+var mnemonic = "upon regret cricket lift chalk captain capable satisfy impulse spoil true tomorrow";

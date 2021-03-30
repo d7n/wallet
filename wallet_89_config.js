@@ -1,1 +1,1 @@
-var mnemonic = "badge hammer simple pottery uncover trumpet device before bless among hospital soap";
+var mnemonic = "soft twelve velvet update carbon remain cigar embark bracket win angle aunt";

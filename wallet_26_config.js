@@ -1,1 +1,1 @@
-var mnemonic = "trial hunt frequent champion clog afraid radio expose fragile sport sorry delay";
+var mnemonic = "neglect scout barrel medal cluster bag input power puppy core diesel approve";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage tooth cluster during island crouch system brisk marriage guard snap soon";
+var mnemonic = "vicious equal menu any identify degree teach trash notable speed fancy suffer";

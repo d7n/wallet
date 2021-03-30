@@ -1,1 +1,1 @@
-var mnemonic = "immune oval search banana tilt distance husband asthma coin prepare meadow cause";
+var mnemonic = "zebra exact what volcano meat neutral pass bleak essay skin bag wage";

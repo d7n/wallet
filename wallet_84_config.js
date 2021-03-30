@@ -1,1 +1,1 @@
-var mnemonic = "unveil couple meadow jar casual dish myself chase empower salmon medal monkey";
+var mnemonic = "asthma catch balcony intact you nature truly river mosquito salon life access";

@@ -1,1 +1,1 @@
-var mnemonic = "host boat subject more plate main pause spray duty tooth love cute";
+var mnemonic = "memory wet catch omit avocado loan enrich balance address smile arrive fat";

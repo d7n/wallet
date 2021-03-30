@@ -1,1 +1,1 @@
-var mnemonic = "buzz yard acid daughter scissors genuine swallow glide calm cloth thrive sphere";
+var mnemonic = "noble garment glory certain shiver steel ski about ski define rookie credit";

@@ -1,1 +1,1 @@
-var mnemonic = "upper industry birth asset burst civil account crucial black render elephant razor";
+var mnemonic = "ice blouse naive wedding tunnel stove seek thank visit soccer crime state";

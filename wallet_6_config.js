@@ -1,1 +1,1 @@
-var mnemonic = "arrest fluid online reveal client inspire uncover loop coach horror buddy float";
+var mnemonic = "twelve deny stand evidence fade celery sign credit supply suffer girl judge";

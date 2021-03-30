@@ -1,1 +1,1 @@
-var mnemonic = "garden oppose quality orange shadow fix famous bid swift thrive ring laptop";
+var mnemonic = "arena secret remove garden ethics olive ask pistol worth original sleep attack";

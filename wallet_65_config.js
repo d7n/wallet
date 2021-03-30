@@ -1,1 +1,1 @@
-var mnemonic = "tag blanket magnet meat nation edge return lawn ready yard cruise oak";
+var mnemonic = "sponsor defy brown switch kitten cancel pledge clap aerobic gorilla plastic mammal";

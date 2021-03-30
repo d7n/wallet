@@ -1,1 +1,1 @@
-var mnemonic = "upgrade traffic verb kiss brother client dolphin much language leaf crawl crack";
+var mnemonic = "width physical faculty sell account quick element curtain midnight afford city essay";

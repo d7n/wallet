@@ -1,1 +1,1 @@
-var mnemonic = "shaft become cable loop shiver garage dose stay gate settle water library";
+var mnemonic = "genuine category mom pencil music quiz steel machine virus radio winner bar";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit tortoise deputy victory barely winter multiply mango ask elite bean monkey";
+var mnemonic = "crucial usual essence relax spread crater drop stone right sick volume original";

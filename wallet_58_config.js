@@ -1,1 +1,1 @@
-var mnemonic = "cute fly gauge garden elite desert unit joy rigid private account wall";
+var mnemonic = "empower collect satisfy fire radar fan dial begin soup apology inside slow";

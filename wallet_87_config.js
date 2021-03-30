@@ -1,1 +1,1 @@
-var mnemonic = "tone deny sorry outdoor sail issue noodle life east level blush grape";
+var mnemonic = "theory gun excite nest sail short cost slam faculty book million remind";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger blossom excuse bring wage response neck multiply august high witness able";
+var mnemonic = "later sausage honey ghost order tomato antique canoe electric horn wrong enough";

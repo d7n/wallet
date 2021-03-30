@@ -1,1 +1,1 @@
-var mnemonic = "cost rebuild ordinary vacuum adjust scrap silent sound short soccer disease marriage";
+var mnemonic = "dinner normal gym coffee twice fossil alarm cliff symbol they route raccoon";

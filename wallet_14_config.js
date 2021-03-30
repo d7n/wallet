@@ -1,1 +1,1 @@
-var mnemonic = "enhance ketchup oppose creek burst dose estate attract only muffin pulse round";
+var mnemonic = "reveal where napkin clerk shoe kind love depth together expose cruel cousin";

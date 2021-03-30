@@ -1,1 +1,1 @@
-var mnemonic = "theory tail flower cannon able submit total sister patrol rice sort gather";
+var mnemonic = "repeat correct salt sadness front tomato shine kit vicious cotton merry initial";

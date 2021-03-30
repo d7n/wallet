@@ -1,1 +1,1 @@
-var mnemonic = "artefact fresh gift organ arm expand bamboo monkey will barrel wink notice";
+var mnemonic = "load expire cereal obey copper surprise clay diamond conduct document wish clump";

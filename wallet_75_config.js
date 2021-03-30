@@ -1,1 +1,1 @@
-var mnemonic = "glad powder fiber medal visa winter wisdom screen chronic topic other yard";
+var mnemonic = "citizen misery reject sign envelope gather pudding odor chuckle civil churn general";

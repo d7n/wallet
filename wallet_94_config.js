@@ -1,1 +1,1 @@
-var mnemonic = "note know range dial raven stick kit exotic weapon thumb occur kiwi";
+var mnemonic = "size april spot unfold kidney smoke clutch climb build card chronic social";

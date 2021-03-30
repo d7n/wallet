@@ -1,1 +1,1 @@
-var mnemonic = "error silent develop diagram usual silent decide develop risk oblige robust destroy";
+var mnemonic = "slice true purse bottom excuse sport process setup pole prepare fortune tribe";

@@ -1,1 +1,1 @@
-var mnemonic = "more trip busy describe outdoor enact arch apple mother supply main enroll";
+var mnemonic = "nice master hospital know country charge cement agent giraffe bachelor feel donkey";

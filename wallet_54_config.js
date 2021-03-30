@@ -1,1 +1,1 @@
-var mnemonic = "flame equip seed pass midnight rate little vague miracle ability dance warm";
+var mnemonic = "decorate clip air nerve armor smooth nose bench wall gas neutral tip";

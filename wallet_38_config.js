@@ -1,1 +1,1 @@
-var mnemonic = "swift copy below stumble brass prepare spray inside enable flavor heart reveal";
+var mnemonic = "pistol boss achieve grape thunder clerk annual give can half capable tattoo";

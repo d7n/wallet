@@ -1,1 +1,1 @@
-var mnemonic = "peanut night junior orange home loud crazy carbon then taxi actor perfect";
+var mnemonic = "ranch ritual entire orphan morning erupt service wrestle chase airport theme frog";

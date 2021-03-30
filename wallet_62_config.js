@@ -1,1 +1,1 @@
-var mnemonic = "mind domain scale winner sun slam pyramid live place excite live diesel";
+var mnemonic = "cigar average boat offer parade fruit seat spatial roof treat cereal annual";

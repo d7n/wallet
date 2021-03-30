@@ -1,1 +1,1 @@
-var mnemonic = "close series letter orange install team surface case bench adjust sauce romance";
+var mnemonic = "gold east develop phrase kangaroo empower venue theory hip vast retreat aspect";

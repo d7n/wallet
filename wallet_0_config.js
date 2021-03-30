@@ -1,1 +1,1 @@
-var mnemonic = "throw toy fire task purpose kick bike cross atom gospel cigar search";
+var mnemonic = "tilt vibrant limit attend weird artefact danger whip human review ensure clarify";

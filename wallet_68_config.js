@@ -1,1 +1,1 @@
-var mnemonic = "casual machine trick woman off detail weasel stage nuclear ostrich grain leg";
+var mnemonic = "answer butter puzzle save taxi filter stumble clerk interest matrix unaware better";

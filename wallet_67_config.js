@@ -1,1 +1,1 @@
-var mnemonic = "flee venue stamp salute adjust future school budget grab warfare employ super";
+var mnemonic = "light abandon piano junior salute genre gown better fat behave forum front";

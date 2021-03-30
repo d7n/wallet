@@ -1,1 +1,1 @@
-var mnemonic = "spring lens radar tip excite federal candy uphold safe wage track pelican";
+var mnemonic = "little man sheriff draw sibling luggage cave capable liquid banner tunnel journey";

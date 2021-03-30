@@ -1,1 +1,1 @@
-var mnemonic = "spoil affair cry abuse club lamp economy require fringe gap shed person";
+var mnemonic = "scatter feature target luxury thank win enough depend unknown limit raccoon enact";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor snack hidden helmet swing inner provide arrest category task vivid medal";
+var mnemonic = "peasant coyote bracket large denial twist reopen client allow mistake sail case";

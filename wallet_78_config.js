@@ -1,1 +1,1 @@
-var mnemonic = "able pulp news firm client fossil flee party black eye weasel industry";
+var mnemonic = "journey model betray panther upper embark cereal earn debris labor rail degree";

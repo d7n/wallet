@@ -1,1 +1,1 @@
-var mnemonic = "flock hunt enforce legal dust know frog carpet zebra list energy tired";
+var mnemonic = "endless practice raccoon spend increase select virtual happy surprise bench soccer anchor";

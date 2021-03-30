@@ -1,1 +1,1 @@
-var mnemonic = "ignore goat half inform board analyst method finger forward fantasy settle dinosaur";
+var mnemonic = "bag step verify decorate cancel anger release fit leopard sure hurt improve";

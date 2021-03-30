@@ -1,1 +1,1 @@
-var mnemonic = "practice believe easy list trust lend circle rabbit crater furnace pudding slot";
+var mnemonic = "project curve quality slide wear awful route spin tape pupil cash divide";

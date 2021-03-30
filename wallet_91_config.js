@@ -1,1 +1,1 @@
-var mnemonic = "level rebuild orient treat robot decade stand convince isolate water crater carbon";
+var mnemonic = "capable swear decade detect history valley eager balcony paper gravity access quantum";

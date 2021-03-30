@@ -1,1 +1,1 @@
-var mnemonic = "luxury autumn pumpkin dish rule cover until poverty rail juice canyon april";
+var mnemonic = "waste swarm pass glance hat pigeon dragon amazing fatigue approve evolve cradle";

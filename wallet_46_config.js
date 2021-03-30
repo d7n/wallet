@@ -1,1 +1,1 @@
-var mnemonic = "merit barely gesture inflict ship remain place stay person reject damage rocket";
+var mnemonic = "foster weird sniff catalog toss shy tragic mother obtain addict focus valve";

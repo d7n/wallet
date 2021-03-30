@@ -1,1 +1,1 @@
-var mnemonic = "fox token average wear dove ostrich buyer deposit lunar kangaroo fault organ";
+var mnemonic = "doctor echo green shock must wood reflect rapid spend pact salute maze";

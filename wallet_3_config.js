@@ -1,1 +1,1 @@
-var mnemonic = "core sea final ritual gospel have foster outside inhale injury blind keep";
+var mnemonic = "admit rule helmet best capable image style inherit logic tube daughter power";

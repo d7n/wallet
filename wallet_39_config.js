@@ -1,1 +1,1 @@
-var mnemonic = "normal desert feel goose believe man mobile depth fan disagree member useful";
+var mnemonic = "street rough banner neither sister yard under author harvest limit cabbage wine";

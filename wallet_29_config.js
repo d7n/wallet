@@ -1,1 +1,1 @@
-var mnemonic = "good chimney pink language glance river increase memory regret habit shoot illegal";
+var mnemonic = "room unable menu bike museum story during oxygen rebel hedgehog biology scheme";

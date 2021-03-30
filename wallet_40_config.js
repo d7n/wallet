@@ -1,1 +1,1 @@
-var mnemonic = "fork feel leader output pulp cube okay chaos bulk style omit token";
+var mnemonic = "float remind diary region glow gift grab mango iron explain base wrist";

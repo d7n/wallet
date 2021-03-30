@@ -1,1 +1,1 @@
-var mnemonic = "dinner describe fabric oblige high gain smoke key crisp salt april slot";
+var mnemonic = "multiply staff whale year master immune want bright mobile weekend stem host";

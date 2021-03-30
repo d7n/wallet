@@ -1,1 +1,1 @@
-var mnemonic = "stuff recycle used between main finish glass gravity oyster tent strategy tourist";
+var mnemonic = "verify jewel panther depth drive current clown bird exist merry mesh execute";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder draw glass bundle video misery oyster seat insane witness butter ecology";
+var mnemonic = "spare wagon ethics nuclear light win visa ivory kick square swift current";
