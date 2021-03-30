@@ -1,1 +1,1 @@
-var mnemonic = "sugar human taste canyon word change expand try lumber village science vehicle";
+var mnemonic = "perfect useful boss ride chief muscle range front word blood topple decade";

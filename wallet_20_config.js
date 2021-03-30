@@ -1,1 +1,1 @@
-var mnemonic = "sister sausage kitten light together joy equip brisk volcano between table frame";
+var mnemonic = "grace valve boat embody order point party wage defense boat screen shoe";

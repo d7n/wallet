@@ -1,1 +1,1 @@
-var mnemonic = "group achieve actor flip kite only barrel limit chalk innocent rail glare";
+var mnemonic = "deny lunch mimic shaft oyster trumpet gospel trouble net pudding model mean";

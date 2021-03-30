@@ -1,1 +1,1 @@
-var mnemonic = "almost crawl acoustic crash actress cart black modify measure library make exhibit";
+var mnemonic = "shrimp average amateur suspect town practice image toddler sport purity common estate";

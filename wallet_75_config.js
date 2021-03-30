@@ -1,1 +1,1 @@
-var mnemonic = "glove embark token genre tomato relief spice oil letter kangaroo fault tomorrow";
+var mnemonic = "retreat village father drop fox distance canoe swamp tenant peace surprise brisk";

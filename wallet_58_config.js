@@ -1,1 +1,1 @@
-var mnemonic = "market alarm artefact much clutch stable stay female gate father water eight";
+var mnemonic = "shadow term position athlete mushroom elite giggle deer silk anger destroy attitude";

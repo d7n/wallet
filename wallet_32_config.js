@@ -1,1 +1,1 @@
-var mnemonic = "rate labor below city crystal equal involve save control lucky fine chimney";
+var mnemonic = "dust odor job cruise coyote tackle catalog lunch public fluid certain broom";

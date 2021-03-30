@@ -1,1 +1,1 @@
-var mnemonic = "month birth long erase rebuild thunder month pizza design creek annual host";
+var mnemonic = "deny pull bundle call reform garden side shoe combine gravity glad key";

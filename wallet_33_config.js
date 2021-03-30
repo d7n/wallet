@@ -1,1 +1,1 @@
-var mnemonic = "lyrics nephew near blind gesture april crime obvious close gossip hurdle furnace";
+var mnemonic = "play snap awake key breeze concert slot refuse cat image bargain infant";

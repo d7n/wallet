@@ -1,1 +1,1 @@
-var mnemonic = "family crumble broom laundry cereal shock divorce faint balance athlete start welcome";
+var mnemonic = "pair oil fruit glow insect price track another mystery raw crater legend";

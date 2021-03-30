@@ -1,1 +1,1 @@
-var mnemonic = "purpose huge fortune elegant hire radio denial bomb cat matrix fan area";
+var mnemonic = "float vicious juice chief video school perfect prosper same snake write version";

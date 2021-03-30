@@ -1,1 +1,1 @@
-var mnemonic = "athlete culture ceiling excuse you toilet dismiss this clean hire gold page";
+var mnemonic = "improve finish margin consider resemble rule age hello around rich antique jelly";

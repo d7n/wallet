@@ -1,1 +1,1 @@
-var mnemonic = "trade faculty miss boy ahead rice worth flee blush champion blossom erosion";
+var mnemonic = "start believe assist boost job prefer slush attend skate tree demand stairs";

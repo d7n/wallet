@@ -1,1 +1,1 @@
-var mnemonic = "reopen analyst square random fee delay bid wink hobby cheap top remove";
+var mnemonic = "bounce fiscal hunt swarm gain deposit glide security leg bonus during keen";

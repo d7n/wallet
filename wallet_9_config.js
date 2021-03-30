@@ -1,1 +1,1 @@
-var mnemonic = "title bleak cotton excuse medal drastic rug sting friend fancy main praise";
+var mnemonic = "another lab olympic mean artwork access apart identify slender employ hero clean";

@@ -1,1 +1,1 @@
-var mnemonic = "access help keep recipe truly memory fog crater inflict tiger below vessel";
+var mnemonic = "woman usage ten fantasy enhance blast purpose ankle wheel nice excess six";

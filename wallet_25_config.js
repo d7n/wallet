@@ -1,1 +1,1 @@
-var mnemonic = "sea toast force attract garlic dilemma pull taxi segment news three brain";
+var mnemonic = "thought reject section name relax venue moral ribbon dizzy undo medal tornado";

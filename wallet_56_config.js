@@ -1,1 +1,1 @@
-var mnemonic = "attack tail crunch coral ill slice file taste vendor welcome energy marble";
+var mnemonic = "sting exhaust truth smile judge arrive baby nut general retire kick all";

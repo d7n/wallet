@@ -1,1 +1,1 @@
-var mnemonic = "pig impulse business unlock annual know frost joke rally venture trial boost";
+var mnemonic = "zero season worry under theme soul welcome balance fashion hire stairs advance";

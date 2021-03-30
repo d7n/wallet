@@ -1,1 +1,1 @@
-var mnemonic = "harvest about buzz plug typical exact inhale hollow juice now message gather";
+var mnemonic = "until chunk oppose loop rally admit stick theory taste rocket lawn sing";

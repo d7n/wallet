@@ -1,1 +1,1 @@
-var mnemonic = "guess weapon order task differ game idea snake differ anger trade onion";
+var mnemonic = "volcano song mosquito say ask spawn cross shoe next crouch friend chronic";

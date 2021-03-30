@@ -1,1 +1,1 @@
-var mnemonic = "purchase rain arrest daughter scrap pear doll defy first woman phrase addict";
+var mnemonic = "alpha head board helmet burger spend actor debate circle tiger disorder orchard";

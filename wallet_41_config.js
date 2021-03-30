@@ -1,1 +1,1 @@
-var mnemonic = "tuition danger artist leave orange surprise oven grace kitten forward detect bridge";
+var mnemonic = "stick right enact energy juice ozone keep cinnamon simple piano dolphin shell";

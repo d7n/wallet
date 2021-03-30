@@ -1,1 +1,1 @@
-var mnemonic = "claw ride timber trouble same spot twin pipe carry stove unusual lava";
+var mnemonic = "cabin wash top win minor veteran wall disagree digital general spike page";

@@ -1,1 +1,1 @@
-var mnemonic = "robust cycle taxi wasp detail kitten banana snap shift embody domain omit";
+var mnemonic = "stable wife cinnamon general relax awesome tide rookie replace guide worry symbol";

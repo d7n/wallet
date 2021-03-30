@@ -1,1 +1,1 @@
-var mnemonic = "stand share priority uniform recipe series rather total canal blind require extend";
+var mnemonic = "clock behave cross clever frequent spider excite clerk rabbit embody hood thought";

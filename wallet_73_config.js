@@ -1,1 +1,1 @@
-var mnemonic = "speak whale smoke sponsor material tackle olympic laugh sister crystal asthma three";
+var mnemonic = "visit decide mimic practice mountain speed pave analyst run boil lunar require";

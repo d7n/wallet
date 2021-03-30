@@ -1,1 +1,1 @@
-var mnemonic = "outside creek exhaust lunar always leopard garment then luxury sniff sad blue";
+var mnemonic = "grunt obey custom void fabric taxi agent team have velvet dentist soda";

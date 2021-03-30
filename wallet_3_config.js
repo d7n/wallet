@@ -1,1 +1,1 @@
-var mnemonic = "absurd divorce execute fashion defense coffee hybrid drift chalk level trial north";
+var mnemonic = "smile into knife elite tired later festival invite point bubble spread nuclear";

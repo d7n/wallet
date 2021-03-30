@@ -1,1 +1,1 @@
-var mnemonic = "siege rare picnic clump venture omit ten inspire skirt swim waste gas";
+var mnemonic = "shadow gasp amateur season consider rule cram near leopard history wing area";

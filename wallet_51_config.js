@@ -1,1 +1,1 @@
-var mnemonic = "jealous biology private march prison oxygen devote cricket polar flip flock decrease";
+var mnemonic = "cook happy state garden attack blush boost vast hybrid tumble whip first";

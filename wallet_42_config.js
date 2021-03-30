@@ -1,1 +1,1 @@
-var mnemonic = "gadget acid guide swim spot cradle lift initial fly hospital grass glance";
+var mnemonic = "fire wedding fee caught core loud daring jacket can eternal genuine volcano";

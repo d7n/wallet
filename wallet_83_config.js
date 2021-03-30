@@ -1,1 +1,1 @@
-var mnemonic = "enact priority butter remind upon acid there tank oppose moral quarter label";
+var mnemonic = "erupt leader swallow play priority snake crash early cruel harbor trumpet shoot";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty cannon large into surround wreck swing ginger spoon dynamic label avoid";
+var mnemonic = "mimic electric learn one smoke deal salmon fly rate update curve tortoise";

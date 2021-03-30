@@ -1,1 +1,1 @@
-var mnemonic = "casino runway cash morning express fence rebel eager sting fame canoe brown";
+var mnemonic = "quit grit solar uphold firm anchor guitar visa impact surround bacon when";

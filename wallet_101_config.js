@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow away beyond hedgehog brave pond match dismiss rate analyst title behind";
+var mnemonic = "toy length update decrease apology manual excuse round equal lizard amused crunch";

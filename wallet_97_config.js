@@ -1,1 +1,1 @@
-var mnemonic = "script moral ribbon grow guilt breeze captain water wrestle helmet rain skin";
+var mnemonic = "normal coil eye web yard payment draw face curtain spin grief father";

@@ -1,1 +1,1 @@
-var mnemonic = "special system amateur dumb business next protect hurdle control interest half swallow";
+var mnemonic = "tool cheap offer van play interest energy capital duck abandon rule wink";

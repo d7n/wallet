@@ -1,1 +1,1 @@
-var mnemonic = "load sport play gown about accident pitch under final roof about carry";
+var mnemonic = "fame era purity chase ordinary balcony turtle robot chair neutral tuition assume";

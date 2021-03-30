@@ -1,1 +1,1 @@
-var mnemonic = "derive all utility citizen lyrics jealous limb person hair large deposit era";
+var mnemonic = "liquid dad tilt deer blue nation adapt pelican usual toy ghost whale";

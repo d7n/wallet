@@ -1,1 +1,1 @@
-var mnemonic = "one topic link length mosquito great fatigue skin dune say trumpet punch";
+var mnemonic = "lock bird bomb result business recycle awake project rookie hero someone half";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain trip milk toast erosion also response capable true canal response play";
+var mnemonic = "butter skin lava wolf ugly invest orphan crazy balcony velvet exercise always";

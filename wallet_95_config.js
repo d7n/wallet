@@ -1,1 +1,1 @@
-var mnemonic = "elephant famous friend lottery lift viable climb fitness refuse profit creek trim";
+var mnemonic = "harsh chimney clump remember silver have habit public hair soon teach false";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire earn father opinion orchard length estate list series board abuse perfect";
+var mnemonic = "chuckle trust give best judge resist south capable betray fatal radio fiscal";

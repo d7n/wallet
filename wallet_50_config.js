@@ -1,1 +1,1 @@
-var mnemonic = "illegal kid female pattern clock chronic gloom various notice follow sign gesture";
+var mnemonic = "negative friend stone short devote waste above ivory history deliver fly rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "confirm ginger smile crawl enough crumble rotate kiss give adult intact nice";
+var mnemonic = "agree unknown inform promote any beauty duty chunk heart tenant gaze wood";

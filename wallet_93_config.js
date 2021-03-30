@@ -1,1 +1,1 @@
-var mnemonic = "marble fat script light purpose always forget dice record basic stem gun";
+var mnemonic = "keep fancy harvest fox width panic egg give thank wide tip someone";

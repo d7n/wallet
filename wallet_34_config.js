@@ -1,1 +1,1 @@
-var mnemonic = "brick fiscal predict amazing curtain quiz rose club income maximum appear cause";
+var mnemonic = "olive hood air spatial index stay forest witness vital rate gloom fresh";

@@ -1,1 +1,1 @@
-var mnemonic = "wage slow butter mirror hamster similar slam okay memory exhibit chuckle into";
+var mnemonic = "solve resemble exhibit bean athlete quantum distance energy invest zero share predict";

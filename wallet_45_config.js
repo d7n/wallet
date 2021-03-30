@@ -1,1 +1,1 @@
-var mnemonic = "flush observe mammal acquire account walnut cement envelope alone isolate voice pause";
+var mnemonic = "dog motor surface jelly luxury denial almost time cry bind ticket sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "motor type stay message chimney abuse armor endless people vote survey topic";
+var mnemonic = "electric solution lunch census health panther cannon save rally venue mechanic slender";

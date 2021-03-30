@@ -1,1 +1,1 @@
-var mnemonic = "group tell mixture erase stock labor fuel hunt shuffle boat ordinary involve";
+var mnemonic = "tape stem city regular security illness grain project foot valley country cabin";

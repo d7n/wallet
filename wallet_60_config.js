@@ -1,1 +1,1 @@
-var mnemonic = "possible tackle volcano train finish opera aspect victory have already mom armor";
+var mnemonic = "turtle chalk column race click soda chaos mouse valid invest quit angry";

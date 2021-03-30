@@ -1,1 +1,1 @@
-var mnemonic = "roast caution solar rain pet pitch song picture human mansion festival thank";
+var mnemonic = "horn tilt orchard hold history then tenant lottery simple apple hybrid fragile";

@@ -1,1 +1,1 @@
-var mnemonic = "sick hunt acquire margin crew danger earn boat small farm area decide";
+var mnemonic = "merit sister broom welcome range artefact daughter foam victory story logic force";

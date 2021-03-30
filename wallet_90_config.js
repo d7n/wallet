@@ -1,1 +1,1 @@
-var mnemonic = "cage exchange please wine pig avoid screen brand heavy large stone judge";
+var mnemonic = "road super thrive rigid calm lyrics lucky cheese north change small raven";

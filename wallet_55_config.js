@@ -1,1 +1,1 @@
-var mnemonic = "jewel balcony feed wasp canyon special door age skill session bag victory";
+var mnemonic = "merge key brain session quarter venue girl armed burden crack already twelve";

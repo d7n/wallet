@@ -1,1 +1,1 @@
-var mnemonic = "mountain outer doctor tape first barely response dinner winner much return truck";
+var mnemonic = "orient gain security rack grunt tissue vendor neither slogan abstract grit nuclear";

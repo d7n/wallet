@@ -1,1 +1,1 @@
-var mnemonic = "dwarf connect drum physical grocery file jazz exclude output engage attract taste";
+var mnemonic = "romance point donor bacon elder giant wool toddler liar tongue sight bring";

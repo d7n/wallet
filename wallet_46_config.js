@@ -1,1 +1,1 @@
-var mnemonic = "ten fix shell virtual jewel blanket adapt muscle illness increase dry panther";
+var mnemonic = "manage visit region shove extra enroll garlic rebuild easily make tiny spirit";

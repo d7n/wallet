@@ -1,1 +1,1 @@
-var mnemonic = "zebra parent another helmet purpose opera injury neither arrange amazing donor poet";
+var mnemonic = "time skull asthma essence anxiety shift prevent dizzy able ice purchase jump";

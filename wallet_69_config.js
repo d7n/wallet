@@ -1,1 +1,1 @@
-var mnemonic = "busy measure raccoon three mobile about major world cash bounce hard sketch";
+var mnemonic = "rack cousin property advice follow chase tank stuff nut keep endless cause";

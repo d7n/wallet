@@ -1,1 +1,1 @@
-var mnemonic = "document grab green wood raise process virus future color garden list view";
+var mnemonic = "narrow odor venue clerk upset daughter team misery battle feature snake pulse";

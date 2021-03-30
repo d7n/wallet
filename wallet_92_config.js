@@ -1,1 +1,1 @@
-var mnemonic = "release ranch oak office blanket dice permit jazz arrest pig range tackle";
+var mnemonic = "husband staff leisure execute bracket camp doctor topic net duck happy despair";

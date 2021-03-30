@@ -1,1 +1,1 @@
-var mnemonic = "winter kiss monkey metal empty skull clerk museum grass cat veteran bus";
+var mnemonic = "infant metal athlete behind balance luggage flush wisdom cloth lucky album seed";

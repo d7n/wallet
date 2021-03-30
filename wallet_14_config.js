@@ -1,1 +1,1 @@
-var mnemonic = "air web taste reform wet process defy bundle engine decade puzzle hub";
+var mnemonic = "melt impulse obey royal pill aspect oval indoor green engage predict upset";

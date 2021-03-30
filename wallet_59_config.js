@@ -1,1 +1,1 @@
-var mnemonic = "casino entire book song wedding chase nerve moral plastic tobacco book dizzy";
+var mnemonic = "only business ancient bronze mushroom error cable bamboo dolphin adapt wasp mutual";

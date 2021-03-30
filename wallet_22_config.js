@@ -1,1 +1,1 @@
-var mnemonic = "yellow review around salon giant history cabbage achieve dinner usage casual fresh";
+var mnemonic = "suspect require modify foil panther carry category silent vacuum tree april victory";

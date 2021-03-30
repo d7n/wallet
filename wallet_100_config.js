@@ -1,1 +1,1 @@
-var mnemonic = "meadow coconut protect merry clock emotion lady clever during various album negative";
+var mnemonic = "stock online swear claim evolve strategy puppy glory inform vault swift step";

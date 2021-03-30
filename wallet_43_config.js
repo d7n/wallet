@@ -1,1 +1,1 @@
-var mnemonic = "own unfair health vast father priority royal defy order hotel useless diesel";
+var mnemonic = "tenant message green fiction another chuckle crane together age wrestle walk weekend";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel harbor weather lottery flat dust mule sunset again front chicken trend";
+var mnemonic = "fun salon oak design advance walnut recipe label clutch provide lawsuit biology";

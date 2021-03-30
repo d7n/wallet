@@ -1,1 +1,1 @@
-var mnemonic = "business tobacco noodle auto puzzle fiscal depart nut fame pet wagon deliver";
+var mnemonic = "edge argue artefact tape force shadow tomorrow ensure awful online various flock";

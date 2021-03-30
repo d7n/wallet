@@ -1,1 +1,1 @@
-var mnemonic = "error smooth scene release salad address voice old other name prosper soul";
+var mnemonic = "elder adapt three parrot oblige certain know neutral primary gym decrease traffic";

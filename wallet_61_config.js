@@ -1,1 +1,1 @@
-var mnemonic = "word aunt glory hammer delay birth piece mom unusual enhance large shine";
+var mnemonic = "sample crouch nest hood fashion leopard genuine warrior aware wink catalog easy";

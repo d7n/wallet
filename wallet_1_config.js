@@ -1,1 +1,1 @@
-var mnemonic = "machine milk embark senior danger bid before drive deputy oyster arctic muscle";
+var mnemonic = "snap doll wealth fork buffalo wink basket vault wage oil potato paddle";

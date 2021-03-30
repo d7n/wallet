@@ -1,1 +1,1 @@
-var mnemonic = "work again chief twenty human olympic parent tuition real client wine practice";
+var mnemonic = "story fix earth noodle among buzz engine nest cruel hour actor move";

@@ -1,1 +1,1 @@
-var mnemonic = "spring vacant panel word fun weird fatal wise sure margin pyramid rude";
+var mnemonic = "prepare abandon again gospel ignore twenty begin depart dog public unknown achieve";

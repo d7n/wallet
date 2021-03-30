@@ -1,1 +1,1 @@
-var mnemonic = "never flight waste ship blind virus gaze crew stereo ticket mushroom sausage";
+var mnemonic = "stumble bread spray type lizard squeeze forum actual history thunder journey grant";

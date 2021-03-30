@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon dose poet tip draft always dry gain pitch shed leopard fitness";
+var mnemonic = "inhale sure electric embark buyer woman giant essay pencil dinosaur burger satisfy";

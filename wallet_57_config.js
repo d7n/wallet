@@ -1,1 +1,1 @@
-var mnemonic = "lumber deputy approve above joy witness unhappy squirrel pretty gap select angry";
+var mnemonic = "city stand water gauge raven parent pottery alone custom entry emotion price";

@@ -1,1 +1,1 @@
-var mnemonic = "pink wrestle patrol win tone kid say result athlete fluid web success";
+var mnemonic = "pizza wild polar december inject tennis purse tape churn party alarm olympic";

@@ -1,1 +1,1 @@
-var mnemonic = "myth false wreck all coffee start vacuum easily maze version shaft scare";
+var mnemonic = "pulp potato reason cricket jewel monster prefer book cherry fork dizzy useful";

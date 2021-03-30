@@ -1,1 +1,1 @@
-var mnemonic = "fade farm lunch scan review thought crash diesel damp today riot parent";
+var mnemonic = "ancient clown until fury famous know limit egg action bundle clever title";

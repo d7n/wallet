@@ -1,1 +1,1 @@
-var mnemonic = "worry police camp obtain spare member science cheap danger victory spare caught";
+var mnemonic = "lift lawn pelican alcohol volume friend glow velvet write table mass fuel";

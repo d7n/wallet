@@ -1,1 +1,1 @@
-var mnemonic = "rifle learn right reform silk fame release debate stumble knee more couple";
+var mnemonic = "undo other office unfold spin move hole cinnamon flush tornado vast trade";

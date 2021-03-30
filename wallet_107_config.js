@@ -1,1 +1,1 @@
-var mnemonic = "portion type gentle toe decrease panther swamp erupt size oyster planet glare";
+var mnemonic = "dish cloud spot glue mass wave inject hour shed index trash bike";

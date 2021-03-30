@@ -1,1 +1,1 @@
-var mnemonic = "run zero gesture between harsh winner now list alone collect prize man";
+var mnemonic = "wool luggage gadget lumber faith curve marble sauce asthma exhibit glue jazz";

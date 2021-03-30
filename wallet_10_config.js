@@ -1,1 +1,1 @@
-var mnemonic = "panic olympic lottery exchange current river police bicycle client wing tattoo chat";
+var mnemonic = "between enemy cactus avocado knee north first solution bunker duty edit normal";

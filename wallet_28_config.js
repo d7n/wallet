@@ -1,1 +1,1 @@
-var mnemonic = "subway elite diary galaxy supply whisper clerk width hunt dinner turn taste";
+var mnemonic = "gentle canal law cupboard circle aisle dirt require twice oval cry undo";

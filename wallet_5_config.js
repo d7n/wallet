@@ -1,1 +1,1 @@
-var mnemonic = "input regular couch blade dwarf basic bamboo trip indicate veteran regret noble";
+var mnemonic = "able purpose stove enlist gauge arm spike security balcony hour devote index";

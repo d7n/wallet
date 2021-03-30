@@ -1,1 +1,1 @@
-var mnemonic = "idle travel coconut energy glimpse retire cave tent impulse name toddler lawsuit";
+var mnemonic = "allow menu hold rural admit tide viable gate lend verify talent borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "slim defense happy notice thunder era boost little item monkey love boss";
+var mnemonic = "believe animal home lava fruit eager merry brush adult left inner catalog";

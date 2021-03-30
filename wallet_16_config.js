@@ -1,1 +1,1 @@
-var mnemonic = "talk liar when goat barrel profit wealth error bench zero deer private";
+var mnemonic = "crash message ridge forget shiver south this away poet fancy meadow upper";
