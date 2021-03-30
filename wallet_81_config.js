@@ -1,1 +1,1 @@
-var mnemonic = "wreck drop music symptom swift strong key pig often pact great entire";
+var mnemonic = "narrow claw elephant sheriff antique when latin round because edit season spoon";

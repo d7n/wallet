@@ -1,1 +1,1 @@
-var mnemonic = "better process grow father life party estate bonus sketch advance liberty arm";
+var mnemonic = "plastic strategy parade month arena laundry equip crystal wash agree purity globe";

@@ -1,1 +1,1 @@
-var mnemonic = "must crucial quantum language liberty divide short man enforce oxygen weekend below";
+var mnemonic = "uniform before inner win survey pond profit segment forest comic spread ski";

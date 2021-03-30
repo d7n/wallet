@@ -1,1 +1,1 @@
-var mnemonic = "anxiety muffin gloom great vocal crater know bargain entire senior fruit mammal";
+var mnemonic = "clip scheme possible muffin autumn nurse arrow tower elbow patch demand phrase";

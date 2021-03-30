@@ -1,1 +1,1 @@
-var mnemonic = "chronic switch flower use purity deny clip strong squeeze can silk time";
+var mnemonic = "wave fringe sudden dream master dove napkin ride split upon confirm mouse";

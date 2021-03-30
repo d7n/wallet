@@ -1,1 +1,1 @@
-var mnemonic = "cute soft already explain cat seat agent frost wage bid gym casual";
+var mnemonic = "estate excite one later permit scorpion man rose uncover lottery kitten lady";

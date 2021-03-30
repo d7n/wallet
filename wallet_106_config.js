@@ -1,1 +1,1 @@
-var mnemonic = "intact roof melt pen crisp hockey faint maple clever hub truck just";
+var mnemonic = "farm type surge pepper coral twice edit expand cart timber invest minimum";

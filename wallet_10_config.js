@@ -1,1 +1,1 @@
-var mnemonic = "sister recycle rule post once journey hawk wisdom exact coil medal flower";
+var mnemonic = "pave pass poet window remain artist maid brisk program exchange embody piece";

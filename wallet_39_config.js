@@ -1,1 +1,1 @@
-var mnemonic = "merry cool tonight below tobacco jazz budget shrug phone fade ugly fancy";
+var mnemonic = "choice fun depart rack mimic atom lawn demand flip flight tobacco hire";

@@ -1,1 +1,1 @@
-var mnemonic = "lab goose clerk raven solution mesh route crawl grab olive rail future";
+var mnemonic = "album hedgehog hybrid original crop term gravity rug market december arrow lens";

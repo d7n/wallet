@@ -1,1 +1,1 @@
-var mnemonic = "ketchup dream palm nuclear alley tuna cherry paddle three grief local vendor";
+var mnemonic = "guide neutral ankle coin arrange book wagon bubble lawsuit renew clown split";

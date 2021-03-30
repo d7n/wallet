@@ -1,1 +1,1 @@
-var mnemonic = "mass wink album jealous inform ready famous clinic rib village tiger defy";
+var mnemonic = "you merge brown fee reform random shed devote month patient nest else";

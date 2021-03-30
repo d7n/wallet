@@ -1,1 +1,1 @@
-var mnemonic = "glow few work pear march jeans slight quarter trip cover perfect replace";
+var mnemonic = "federal fence abandon fortune green basket certain skate bulb ancient gas furnace";

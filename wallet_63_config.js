@@ -1,1 +1,1 @@
-var mnemonic = "midnight cluster rare mouse bid typical outside sadness twin effort web grant";
+var mnemonic = "limb mom time notice orbit margin salad board reunion stadium sell crime";

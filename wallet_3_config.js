@@ -1,1 +1,1 @@
-var mnemonic = "chair annual dial wrap gap bracket close carpet heavy once picnic butter";
+var mnemonic = "crop ahead earn afford hurt change margin rabbit ocean moment rail stumble";

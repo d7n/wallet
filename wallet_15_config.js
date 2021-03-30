@@ -1,1 +1,1 @@
-var mnemonic = "path ability shrug slam crowd film easily recipe soldier prize later bachelor";
+var mnemonic = "lyrics arch crash supply pride now pulp more swallow merge used scrap";

@@ -1,1 +1,1 @@
-var mnemonic = "slow anchor rose remember situate drink foster monkey vacant right reject what";
+var mnemonic = "carpet miracle vanish divorce silk feature fly woman weekend tuna decline search";

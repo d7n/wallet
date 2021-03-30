@@ -1,1 +1,1 @@
-var mnemonic = "identify own bright time peasant vivid rent face tuition clever equal prison";
+var mnemonic = "olive hospital guilt left deputy rule gain bicycle ice fabric update trade";

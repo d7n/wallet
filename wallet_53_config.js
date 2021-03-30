@@ -1,1 +1,1 @@
-var mnemonic = "brick roast satoshi math whale thunder wear exile critic spawn tray course";
+var mnemonic = "clinic umbrella soccer dog battle apple icon exhaust fashion glad timber earth";

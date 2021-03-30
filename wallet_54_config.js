@@ -1,1 +1,1 @@
-var mnemonic = "potato almost slow junior reward despair debate sentence alarm ignore echo oven";
+var mnemonic = "ahead script wish cinnamon express subject assault direct eagle eight gauge sauce";

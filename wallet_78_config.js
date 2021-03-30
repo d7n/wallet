@@ -1,1 +1,1 @@
-var mnemonic = "pledge detail night roast coconut wealth voyage enhance enact city fringe damp";
+var mnemonic = "among affair alarm parade visit canoe draw firm bring annual unfold fortune";

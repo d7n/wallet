@@ -1,1 +1,1 @@
-var mnemonic = "alone network wealth doll chaos that film point one special fault noise";
+var mnemonic = "license aunt effort frost tool library summer bubble quality lady head inquiry";

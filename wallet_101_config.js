@@ -1,1 +1,1 @@
-var mnemonic = "other across virus blue choice lady provide opinion august broccoli feed they";
+var mnemonic = "usual direct sweet pet kingdom rival awful field present vacant only mobile";

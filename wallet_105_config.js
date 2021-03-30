@@ -1,1 +1,1 @@
-var mnemonic = "ozone flame exhaust diet ketchup globe dolphin budget bring glow jaguar hood";
+var mnemonic = "service fire question surround charge carry bring assume copy venue crew loop";

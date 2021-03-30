@@ -1,1 +1,1 @@
-var mnemonic = "include allow venue buyer elevator wise urge outside ranch inspire again jar";
+var mnemonic = "spatial job charge robust monitor vendor entire early exist please arrange hat";

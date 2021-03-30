@@ -1,1 +1,1 @@
-var mnemonic = "jelly noodle vanish misery case opinion across length tree unknown canal midnight";
+var mnemonic = "mule later blade try know must nuclear sort flat coconut destroy vendor";

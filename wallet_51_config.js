@@ -1,1 +1,1 @@
-var mnemonic = "galaxy forget maximum sniff wife vessel enrich bunker auction reduce expand universe";
+var mnemonic = "around rose fix motion clean office rabbit useless give web coin salmon";

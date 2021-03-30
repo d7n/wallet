@@ -1,1 +1,1 @@
-var mnemonic = "bulk behind hurt rubber acquire rocket convince jacket reduce mention story tray";
+var mnemonic = "twist install cave crush device virus scrub junior dirt spawn romance obscure";

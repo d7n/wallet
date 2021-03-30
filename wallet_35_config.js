@@ -1,1 +1,1 @@
-var mnemonic = "news awkward slush license harsh wolf possible cereal metal eternal nasty unveil";
+var mnemonic = "ignore nut ball risk east fluid captain soldier ugly aspect sorry draw";

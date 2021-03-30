@@ -1,1 +1,1 @@
-var mnemonic = "sniff cute despair trend town wolf hole give suit dragon vast absurd";
+var mnemonic = "medal social model oval order cigar define tourist almost salmon rigid celery";

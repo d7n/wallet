@@ -1,1 +1,1 @@
-var mnemonic = "plate dragon prefer grief buyer tackle shift stadium sing unit rotate slice";
+var mnemonic = "fatal fever little mimic drama stuff antique rigid actress undo time become";

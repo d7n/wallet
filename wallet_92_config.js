@@ -1,1 +1,1 @@
-var mnemonic = "craft fold inflict genius lesson thought bright quantum black phone pledge color";
+var mnemonic = "pulp exchange own pretty absent loyal current skin level middle lucky physical";

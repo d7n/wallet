@@ -1,1 +1,1 @@
-var mnemonic = "mistake source alter wrestle bitter little cereal toe ecology myth hobby portion";
+var mnemonic = "salute used delay cricket tomato earth vendor win prosper power peace frequent";

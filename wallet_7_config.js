@@ -1,1 +1,1 @@
-var mnemonic = "ostrich diesel try relief vicious right lizard lady weasel fiscal lamp rude";
+var mnemonic = "surge snow long repeat nominee decorate tail walk organ claw woman secret";

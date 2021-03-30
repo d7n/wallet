@@ -1,1 +1,1 @@
-var mnemonic = "uniform question match tragic easily equip grab tiger mobile mountain play robot";
+var mnemonic = "spend find scissors enact february pen slush stem goat grain govern neck";

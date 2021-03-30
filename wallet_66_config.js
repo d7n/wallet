@@ -1,1 +1,1 @@
-var mnemonic = "opera manage letter snap silly vacant pepper asset trust family recycle view";
+var mnemonic = "betray total vocal advice position double sing salt hair scene lake minor";

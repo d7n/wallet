@@ -1,1 +1,1 @@
-var mnemonic = "often oak cluster body trap area twist swear laptop gasp connect glad";
+var mnemonic = "expect car purchase spread kingdom concert forum often grit salt federal fall";

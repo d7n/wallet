@@ -1,1 +1,1 @@
-var mnemonic = "fortune arm town company average wreck south tonight sail double better park";
+var mnemonic = "lumber online source seat outdoor derive hurt priority shy truth marble dwarf";

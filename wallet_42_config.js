@@ -1,1 +1,1 @@
-var mnemonic = "route fatal habit frozen fluid stumble forget net luxury section crystal eagle";
+var mnemonic = "cart pitch fine broken grape talent lyrics bag enforce panel gown truly";

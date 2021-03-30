@@ -1,1 +1,1 @@
-var mnemonic = "guard process million century ocean appear domain remember rebuild write nut syrup";
+var mnemonic = "law erase kick marine early crucial bird merge gentle course offer festival";

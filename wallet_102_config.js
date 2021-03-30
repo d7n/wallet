@@ -1,1 +1,1 @@
-var mnemonic = "floor story grief trip manage minor upper electric upon suspect pact park";
+var mnemonic = "tissue turn brief primary odor soul benefit average open illegal mobile canyon";

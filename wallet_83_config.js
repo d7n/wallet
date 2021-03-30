@@ -1,1 +1,1 @@
-var mnemonic = "sing reopen trap scene picture trumpet swarm material sunny text cart panda";
+var mnemonic = "bird orange reward never repair stage utility farm hurdle struggle include face";

@@ -1,1 +1,1 @@
-var mnemonic = "liberty degree pulse fruit program trophy three loyal leisure park cricket flip";
+var mnemonic = "blanket buddy repeat among movie employ ankle write glory dance solid typical";

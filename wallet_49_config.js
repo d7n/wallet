@@ -1,1 +1,1 @@
-var mnemonic = "top reunion robot sauce off immense hurry castle fall elegant mail brave";
+var mnemonic = "rabbit gain indicate right pulp puppy museum atom cement object romance describe";

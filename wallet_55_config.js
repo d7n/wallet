@@ -1,1 +1,1 @@
-var mnemonic = "ripple festival explain mandate fit regret salon song panic prize motor curtain";
+var mnemonic = "tenant rural cute image staff often later segment advance note clever sunset";

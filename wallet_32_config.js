@@ -1,1 +1,1 @@
-var mnemonic = "ritual grant excite license prize bracket shock pull access run filter affair";
+var mnemonic = "silk girl polar eye able harvest erase recipe melt plug easily jungle";

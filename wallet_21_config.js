@@ -1,1 +1,1 @@
-var mnemonic = "cook egg volume truth artefact saddle manage cluster employ candy rapid hammer";
+var mnemonic = "option witness safe impose announce mention elite quick decide circle nurse exclude";

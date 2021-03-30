@@ -1,1 +1,1 @@
-var mnemonic = "argue weasel soft pave find damage solution august pig taxi strike march";
+var mnemonic = "kitchen about toy luggage roast second plate struggle pluck useless matrix throw";

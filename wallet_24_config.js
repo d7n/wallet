@@ -1,1 +1,1 @@
-var mnemonic = "update rotate scheme expire purity diet corn fame credit educate orchard bonus";
+var mnemonic = "maple sail know model race agent click coast match zoo still wear";

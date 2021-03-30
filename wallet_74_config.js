@@ -1,1 +1,1 @@
-var mnemonic = "rocket episode expire car fashion have picture help true stereo total retreat";
+var mnemonic = "dad calm turkey sample fabric session salmon make engine faculty bless panther";

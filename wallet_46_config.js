@@ -1,1 +1,1 @@
-var mnemonic = "common exhaust resemble place kiss boat jealous era ability cup finish heavy";
+var mnemonic = "solve recipe auto pave panel globe oval own pencil clown camp high";

@@ -1,1 +1,1 @@
-var mnemonic = "gold rocket situate above room away action gift snack calm weird kick";
+var mnemonic = "ready mechanic trophy flat olive boss ask consider release debate engage famous";

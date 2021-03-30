@@ -1,1 +1,1 @@
-var mnemonic = "hint apple kidney derive diet expand quick barely bread blast gun vibrant";
+var mnemonic = "cross wing amateur method winner assist minute clever blast hybrid image exclude";

@@ -1,1 +1,1 @@
-var mnemonic = "apology sphere bright fee cement fruit arm iron electric awake lawsuit theme";
+var mnemonic = "repair talent invite wage bread orient lucky cloth weird expose win despair";

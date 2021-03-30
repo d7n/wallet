@@ -1,1 +1,1 @@
-var mnemonic = "business focus left talk middle coconut mistake change general tiny toss member";
+var mnemonic = "response yellow fringe brave escape stereo album rude dizzy hazard spring position";

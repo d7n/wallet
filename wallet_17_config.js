@@ -1,1 +1,1 @@
-var mnemonic = "nose inherit iron nominee muscle pulse income drive path orchard below liar";
+var mnemonic = "couple wedding champion arrow theme stuff figure month end ski siege adult";

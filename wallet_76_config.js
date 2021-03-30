@@ -1,1 +1,1 @@
-var mnemonic = "urge deputy trial slush expose weather medal curve mule second snack drum";
+var mnemonic = "soap shrug bonus climb comic hover thought inmate correct genre kitten same";

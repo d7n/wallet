@@ -1,1 +1,1 @@
-var mnemonic = "crunch team enter victory frost sport company dash avocado genuine soft pistol";
+var mnemonic = "ticket chronic lottery upper vibrant banana uncle pull hat phone mystery note";

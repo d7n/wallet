@@ -1,1 +1,1 @@
-var mnemonic = "glimpse snap athlete situate biology laugh first fiction idea wisdom fringe rain";
+var mnemonic = "device sight coin bird agent ice tail stomach soup album jelly gorilla";

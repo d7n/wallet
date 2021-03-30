@@ -1,1 +1,1 @@
-var mnemonic = "tape sheriff suit nephew glory mercy race winner someone pen tenant come";
+var mnemonic = "strategy stairs side wink assault put tissue post praise yellow team popular";

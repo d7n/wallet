@@ -1,1 +1,1 @@
-var mnemonic = "project will engage hollow defy please brave hood future valve exhibit sponsor";
+var mnemonic = "clog hobby body drip erode behind lumber sibling among acoustic unit print";

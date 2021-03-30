@@ -1,1 +1,1 @@
-var mnemonic = "boy clinic angry phrase moon oyster spoon edit loan picture furnace gorilla";
+var mnemonic = "describe unveil liquid tell real venture moment liberty fossil benefit file bacon";

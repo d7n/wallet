@@ -1,1 +1,1 @@
-var mnemonic = "tonight produce burger portion grow razor stick kidney inquiry decade good load";
+var mnemonic = "spatial congress nuclear call aisle depart much chef decide cement story october";

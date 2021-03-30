@@ -1,1 +1,1 @@
-var mnemonic = "another embrace talent bean kangaroo report patch skill quote dignity soup midnight";
+var mnemonic = "soul lawsuit shaft drop tower inner canvas circle want romance burden banner";

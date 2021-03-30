@@ -1,1 +1,1 @@
-var mnemonic = "shove force similar sample lawn deposit almost trumpet crunch ticket ribbon quarter";
+var mnemonic = "earth second fancy birth three math shock dry unusual whip public rail";

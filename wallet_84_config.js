@@ -1,1 +1,1 @@
-var mnemonic = "debris wide oak tool rebuild era doctor advice suffer gauge fence waste";
+var mnemonic = "donate core enter tube cannon scrap stable gain loud reveal gun grace";

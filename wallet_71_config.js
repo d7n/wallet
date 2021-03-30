@@ -1,1 +1,1 @@
-var mnemonic = "laptop screen finger jacket pistol lucky erase thumb taxi first fan tornado";
+var mnemonic = "unfold sting muffin purpose use refuse young glad slide disorder absurd learn";

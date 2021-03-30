@@ -1,1 +1,1 @@
-var mnemonic = "predict route silly dry search advance barrel neglect relief wagon sail glass";
+var mnemonic = "client elegant hint name prize daring exile enter leisure letter spatial urge";

@@ -1,1 +1,1 @@
-var mnemonic = "renew fun critic opinion boy token again laugh mother spin stable differ";
+var mnemonic = "protect enemy december vendor skirt mail duty scene angry relief card quick";

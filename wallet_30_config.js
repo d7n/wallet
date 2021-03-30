@@ -1,1 +1,1 @@
-var mnemonic = "maid myth runway grace divert very raccoon cube manage tomato front rug";
+var mnemonic = "topic nest mimic horse already portion verify drip maid tortoise hamster mobile";

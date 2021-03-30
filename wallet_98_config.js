@@ -1,1 +1,1 @@
-var mnemonic = "broken enough choice gain sick require broccoli figure mom venture style tennis";
+var mnemonic = "pink drop penalty coffee quantum add into eagle only symptom fiction problem";

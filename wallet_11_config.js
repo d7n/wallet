@@ -1,1 +1,1 @@
-var mnemonic = "build truly april final couple pilot ensure walnut suit hello lunch cargo";
+var mnemonic = "torch crystal ask myself goat unveil digital what blade vendor mad melody";

@@ -1,1 +1,1 @@
-var mnemonic = "quote input reopen tank moon critic inch between glide brand arctic cost";
+var mnemonic = "despair lecture blur can online apology city bottom paper public imitate faint";

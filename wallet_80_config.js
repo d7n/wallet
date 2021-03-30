@@ -1,1 +1,1 @@
-var mnemonic = "fix rule report wall ceiling index judge roast result just stand about";
+var mnemonic = "tomorrow blush biology smile damage hungry option flee lottery giant capital amazing";

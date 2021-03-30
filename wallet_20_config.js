@@ -1,1 +1,1 @@
-var mnemonic = "evil struggle assist nasty glad industry drip side gentle custom bring rhythm";
+var mnemonic = "cave ketchup scrap syrup ribbon sunny march anxiety market rotate famous address";

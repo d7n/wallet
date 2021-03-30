@@ -1,1 +1,1 @@
-var mnemonic = "crazy moment file record dignity coach capable soul scare funny tissue output";
+var mnemonic = "opinion cabin lion festival sheriff shop leader lobster assist slot steel april";

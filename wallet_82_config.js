@@ -1,1 +1,1 @@
-var mnemonic = "cave album grain leopard sand click stand list issue panther grow again";
+var mnemonic = "sunny senior rude people elegant unusual violin act arena enact begin leisure";

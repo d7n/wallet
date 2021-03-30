@@ -1,1 +1,1 @@
-var mnemonic = "flush pen object horse someone amazing gloom begin vacant raw reduce wealth";
+var mnemonic = "october hedgehog sustain long very illness error bulk lab leopard gravity slight";

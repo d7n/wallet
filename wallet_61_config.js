@@ -1,1 +1,1 @@
-var mnemonic = "vacuum truck neutral slogan shove general minimum picnic valve brief myth fitness";
+var mnemonic = "behind gossip churn digital motion acid design property simple junior comfort what";

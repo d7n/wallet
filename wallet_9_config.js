@@ -1,1 +1,1 @@
-var mnemonic = "math fuel indoor quarter cargo figure turn wage voyage best bullet gain";
+var mnemonic = "brisk abstract child fancy sure govern stock hen section math point pioneer";

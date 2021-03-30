@@ -1,1 +1,1 @@
-var mnemonic = "crunch rule relief stand group health blanket knife guitar later lounge harsh";
+var mnemonic = "elbow argue stadium rebuild essay total enrich quit exit cheap rotate aisle";

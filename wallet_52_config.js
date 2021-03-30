@@ -1,1 +1,1 @@
-var mnemonic = "afford leopard obscure regular wall okay know diary clap outside enroll afraid";
+var mnemonic = "try vicious light option unaware winter always inquiry mouse fee credit shell";

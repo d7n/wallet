@@ -1,1 +1,1 @@
-var mnemonic = "enemy evolve aim away unlock host debate element gate hill river salad";
+var mnemonic = "develop media work enable crane wild escape plunge name loyal emerge gauge";

@@ -1,1 +1,1 @@
-var mnemonic = "setup copy easy habit craft tattoo kingdom aerobic peanut auction flock gauge";
+var mnemonic = "high obey stick cloth album planet gain skill mail guess chest disagree";

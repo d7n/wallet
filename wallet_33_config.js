@@ -1,1 +1,1 @@
-var mnemonic = "cable clean front patrol vital swear true myth dentist business under general";
+var mnemonic = "weird exist wage chuckle access income ahead plastic sudden state grace remember";

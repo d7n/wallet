@@ -1,1 +1,1 @@
-var mnemonic = "moment banner toy asset depth foam silver foot cannon visit shoulder body";
+var mnemonic = "cover focus citizen breeze focus card fox echo better busy transfer lesson";

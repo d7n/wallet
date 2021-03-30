@@ -1,1 +1,1 @@
-var mnemonic = "own analyst cluster settle frequent insane pass select night struggle attend clinic";
+var mnemonic = "napkin balcony west edit ship cause bracket hobby choice oval wage doctor";

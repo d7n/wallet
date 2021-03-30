@@ -1,1 +1,1 @@
-var mnemonic = "sphere rally tongue run erase output today shrug spy scale debate fire";
+var mnemonic = "cruise jeans misery silly weather husband core return grief bright used mansion";

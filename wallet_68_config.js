@@ -1,1 +1,1 @@
-var mnemonic = "midnight casino cabin sudden verify bring reunion welcome ignore marriage knee east";
+var mnemonic = "comfort tragic trade whip cat vocal drop various mother culture duty sort";

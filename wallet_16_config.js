@@ -1,1 +1,1 @@
-var mnemonic = "game claim funny bicycle obvious claim early film rice rib feel abuse";
+var mnemonic = "place pulse odor east foil help island atom buffalo resist tissue leopard";
