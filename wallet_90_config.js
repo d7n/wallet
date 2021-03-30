@@ -1,1 +1,1 @@
-var mnemonic = "road super thrive rigid calm lyrics lucky cheese north change small raven";
+var mnemonic = "round lift palace hungry toss web lady genius before good fly gloom";

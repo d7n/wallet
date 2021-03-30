@@ -1,1 +1,1 @@
-var mnemonic = "dog motor surface jelly luxury denial almost time cry bind ticket sudden";
+var mnemonic = "illness genius harsh armed assist expect curious grape thunder order peace move";

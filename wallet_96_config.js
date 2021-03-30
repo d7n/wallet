@@ -1,1 +1,1 @@
-var mnemonic = "butter skin lava wolf ugly invest orphan crazy balcony velvet exercise always";
+var mnemonic = "clerk room drift mad oak faith current unlock boring number festival tunnel";

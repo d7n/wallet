@@ -1,1 +1,1 @@
-var mnemonic = "pulp potato reason cricket jewel monster prefer book cherry fork dizzy useful";
+var mnemonic = "sell scout kit swallow quiz wild pull hard cruise emerge eight catalog";

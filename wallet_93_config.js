@@ -1,1 +1,1 @@
-var mnemonic = "keep fancy harvest fox width panic egg give thank wide tip someone";
+var mnemonic = "buddy sweet diesel appear sadness reform evil catalog casual cigar tray already";

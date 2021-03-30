@@ -1,1 +1,1 @@
-var mnemonic = "visit decide mimic practice mountain speed pave analyst run boil lunar require";
+var mnemonic = "parent tent corn galaxy uncover diet amazing put body east miss hockey";

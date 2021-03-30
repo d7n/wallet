@@ -1,1 +1,1 @@
-var mnemonic = "cloud member tomorrow auction strike dad bleak refuse aspect supply old fatigue";
+var mnemonic = "mad undo fantasy setup gold raccoon there wide will firm dice helmet";

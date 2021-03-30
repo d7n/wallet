@@ -1,1 +1,1 @@
-var mnemonic = "shadow term position athlete mushroom elite giggle deer silk anger destroy attitude";
+var mnemonic = "badge first denial barrel jewel bulb witness equal occur february crane shrimp";

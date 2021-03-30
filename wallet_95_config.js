@@ -1,1 +1,1 @@
-var mnemonic = "harsh chimney clump remember silver have habit public hair soon teach false";
+var mnemonic = "element doctor before cost lyrics space dutch thing solution token old enable";

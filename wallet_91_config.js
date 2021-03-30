@@ -1,1 +1,1 @@
-var mnemonic = "stable wife cinnamon general relax awesome tide rookie replace guide worry symbol";
+var mnemonic = "repeat cannon metal envelope mountain envelope tornado refuse initial main cousin credit";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle canal law cupboard circle aisle dirt require twice oval cry undo";
+var mnemonic = "catalog hover wife water march nut surround equal sibling oven mushroom visa";

@@ -1,1 +1,1 @@
-var mnemonic = "play snap awake key breeze concert slot refuse cat image bargain infant";
+var mnemonic = "outdoor clog learn buddy tide diet garden change sense mad clinic math";

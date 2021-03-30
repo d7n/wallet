@@ -1,1 +1,1 @@
-var mnemonic = "zero season worry under theme soul welcome balance fashion hire stairs advance";
+var mnemonic = "exhibit airport help youth flee silent horn eye flash castle meadow badge";

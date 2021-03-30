@@ -1,1 +1,1 @@
-var mnemonic = "pizza wild polar december inject tennis purse tape churn party alarm olympic";
+var mnemonic = "develop rigid kit flip minimum vital vendor develop mother exclude indoor happy";

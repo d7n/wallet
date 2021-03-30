@@ -1,1 +1,1 @@
-var mnemonic = "stumble bread spray type lizard squeeze forum actual history thunder journey grant";
+var mnemonic = "doctor fault cheese letter armed tomato police embark mix can brass mix";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow gasp amateur season consider rule cram near leopard history wing area";
+var mnemonic = "lumber couple beyond champion use future cloud creek pledge subway give zero";

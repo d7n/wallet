@@ -1,1 +1,1 @@
-var mnemonic = "fire wedding fee caught core loud daring jacket can eternal genuine volcano";
+var mnemonic = "drive robot jaguar purchase design citizen fabric silent weather tool people memory";

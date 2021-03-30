@@ -1,1 +1,1 @@
-var mnemonic = "electric solution lunch census health panther cannon save rally venue mechanic slender";
+var mnemonic = "elevator pond gossip raise spoil night rude athlete multiply regular canal craft";

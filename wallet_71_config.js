@@ -1,1 +1,1 @@
-var mnemonic = "time skull asthma essence anxiety shift prevent dizzy able ice purchase jump";
+var mnemonic = "speak swarm output plunge burst essay duty delay ordinary jaguar income demise";

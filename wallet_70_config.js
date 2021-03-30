@@ -1,1 +1,1 @@
-var mnemonic = "volcano song mosquito say ask spawn cross shoe next crouch friend chronic";
+var mnemonic = "vote bacon wolf note behind lottery false regret squeeze fox farm stone";

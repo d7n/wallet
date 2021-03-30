@@ -1,1 +1,1 @@
-var mnemonic = "state retire artefact feed survey helmet end guitar pet result fee shadow";
+var mnemonic = "spare seat viable erase obvious breeze receive panel churn where guitar divide";

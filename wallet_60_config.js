@@ -1,1 +1,1 @@
-var mnemonic = "turtle chalk column race click soda chaos mouse valid invest quit angry";
+var mnemonic = "sport sausage sphere car chase move disease genius obvious napkin scene gloom";

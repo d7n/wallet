@@ -1,1 +1,1 @@
-var mnemonic = "tool cheap offer van play interest energy capital duck abandon rule wink";
+var mnemonic = "enhance urban float solution abuse again another elbow tool survey hair cash";

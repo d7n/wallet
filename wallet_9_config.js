@@ -1,1 +1,1 @@
-var mnemonic = "another lab olympic mean artwork access apart identify slender employ hero clean";
+var mnemonic = "sugar air parrot stamp dinosaur useful off dutch miracle elite margin firm";

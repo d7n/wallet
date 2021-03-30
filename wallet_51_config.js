@@ -1,1 +1,1 @@
-var mnemonic = "cook happy state garden attack blush boost vast hybrid tumble whip first";
+var mnemonic = "large snake alpha virus assault pumpkin critic inform deputy portion build cheap";

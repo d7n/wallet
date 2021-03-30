@@ -1,1 +1,1 @@
-var mnemonic = "story fix earth noodle among buzz engine nest cruel hour actor move";
+var mnemonic = "empower moon toast oblige replace burger crawl cart practice dirt rhythm midnight";

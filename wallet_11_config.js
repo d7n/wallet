@@ -1,1 +1,1 @@
-var mnemonic = "glove slab model enlist heavy result flight juice rice garden multiply harsh";
+var mnemonic = "caution market link between current sure casual toe asset amazing talk garment";

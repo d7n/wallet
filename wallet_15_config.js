@@ -1,1 +1,1 @@
-var mnemonic = "prepare abandon again gospel ignore twenty begin depart dog public unknown achieve";
+var mnemonic = "veteran curious rabbit salt orange guide iron suggest forest tuition popular exotic";

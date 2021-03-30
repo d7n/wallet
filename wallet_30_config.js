@@ -1,1 +1,1 @@
-var mnemonic = "mimic electric learn one smoke deal salmon fly rate update curve tortoise";
+var mnemonic = "inform rare praise model price hollow arm april margin pelican there census";

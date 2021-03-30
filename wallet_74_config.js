@@ -1,1 +1,1 @@
-var mnemonic = "alpha head board helmet burger spend actor debate circle tiger disorder orchard";
+var mnemonic = "sorry model system stumble clarify burst monster ensure promote lazy remind donate";

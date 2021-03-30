@@ -1,1 +1,1 @@
-var mnemonic = "solve resemble exhibit bean athlete quantum distance energy invest zero share predict";
+var mnemonic = "grit swing help enact increase ready calm wall derive habit unfold author";

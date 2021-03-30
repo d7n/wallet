@@ -1,1 +1,1 @@
-var mnemonic = "believe animal home lava fruit eager merry brush adult left inner catalog";
+var mnemonic = "outer tribe giraffe energy shine base stable grit north believe pave oxygen";

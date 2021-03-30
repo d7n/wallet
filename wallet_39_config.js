@@ -1,1 +1,1 @@
-var mnemonic = "shrimp average amateur suspect town practice image toddler sport purity common estate";
+var mnemonic = "cage unknown ugly omit battle bike romance patch company pyramid require palace";

@@ -1,1 +1,1 @@
-var mnemonic = "allow menu hold rural admit tide viable gate lend verify talent borrow";
+var mnemonic = "sunny nominee small exhaust find fuel foster desk chat vivid maximum want";

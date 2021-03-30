@@ -1,1 +1,1 @@
-var mnemonic = "chuckle trust give best judge resist south capable betray fatal radio fiscal";
+var mnemonic = "sausage umbrella pet square hockey air rather field square claw awesome spend";

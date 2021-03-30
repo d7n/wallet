@@ -1,1 +1,1 @@
-var mnemonic = "bullet exclude soap embark wheat claw flush banana cradle rural odor travel";
+var mnemonic = "detail language victory pact ceiling lake venture rifle orbit ritual success come";

@@ -1,1 +1,1 @@
-var mnemonic = "pair oil fruit glow insect price track another mystery raw crater legend";
+var mnemonic = "expose carry camera across loyal private depend kind thunder govern cricket faculty";

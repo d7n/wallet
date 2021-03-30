@@ -1,1 +1,1 @@
-var mnemonic = "opera acoustic theory fashion token coral report pool day short season tenant";
+var mnemonic = "pudding slab search jungle couch display tonight online verify cart theory proud";

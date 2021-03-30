@@ -1,1 +1,1 @@
-var mnemonic = "dust odor job cruise coyote tackle catalog lunch public fluid certain broom";
+var mnemonic = "ticket neither blossom decrease chalk control private stone forum help defense session";

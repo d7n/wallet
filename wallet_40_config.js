@@ -1,1 +1,1 @@
-var mnemonic = "until chunk oppose loop rally admit stick theory taste rocket lawn sing";
+var mnemonic = "artefact pill start wheel paper mansion inherit nuclear pool earth vicious control";

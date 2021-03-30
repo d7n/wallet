@@ -1,1 +1,1 @@
-var mnemonic = "infant metal athlete behind balance luggage flush wisdom cloth lucky album seed";
+var mnemonic = "need once reflect velvet invite any mountain shed exhaust buyer tired silver";

@@ -1,1 +1,1 @@
-var mnemonic = "tape stem city regular security illness grain project foot valley country cabin";
+var mnemonic = "neck sweet twin anchor marine blush hire cart infant kind confirm grief";

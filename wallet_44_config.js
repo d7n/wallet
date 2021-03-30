@@ -1,1 +1,1 @@
-var mnemonic = "deny pull bundle call reform garden side shoe combine gravity glad key";
+var mnemonic = "move cabin list midnight high amateur truck alter trumpet control brave chunk";

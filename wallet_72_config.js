@@ -1,1 +1,1 @@
-var mnemonic = "improve finish margin consider resemble rule age hello around rich antique jelly";
+var mnemonic = "rapid snake eagle improve wrap visit poem conduct shadow physical silk legal";

@@ -1,1 +1,1 @@
-var mnemonic = "edge argue artefact tape force shadow tomorrow ensure awful online various flock";
+var mnemonic = "deputy amazing speed organ square exhaust wink fitness asthma explain fence naive";

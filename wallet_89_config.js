@@ -1,1 +1,1 @@
-var mnemonic = "cabin wash top win minor veteran wall disagree digital general spike page";
+var mnemonic = "melt biology nominee wire city lucky captain fold script vapor melt miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "inhale sure electric embark buyer woman giant essay pencil dinosaur burger satisfy";
+var mnemonic = "prison zoo hunt act feature hunt key paper tail twin police scrap";

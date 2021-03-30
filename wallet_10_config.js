@@ -1,1 +1,1 @@
-var mnemonic = "between enemy cactus avocado knee north first solution bunker duty edit normal";
+var mnemonic = "ill clap jaguar feel satoshi meadow scout fossil ridge walk mention rail";

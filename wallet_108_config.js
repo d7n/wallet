@@ -1,1 +1,1 @@
-var mnemonic = "perfect useful boss ride chief muscle range front word blood topple decade";
+var mnemonic = "bird drink advice apology payment keen pudding tell carbon patch lucky spring";

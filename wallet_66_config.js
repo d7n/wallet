@@ -1,1 +1,1 @@
-var mnemonic = "ocean weekend actor margin wink switch fit vicious list area any before";
+var mnemonic = "panther climb wood below circle step category sentence damp will sword carry";

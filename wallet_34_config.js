@@ -1,1 +1,1 @@
-var mnemonic = "olive hood air spatial index stay forest witness vital rate gloom fresh";
+var mnemonic = "unlock give forum coffee goat off flame narrow card battle field vehicle";

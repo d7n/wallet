@@ -1,1 +1,1 @@
-var mnemonic = "sample crouch nest hood fashion leopard genuine warrior aware wink catalog easy";
+var mnemonic = "city figure neither tuition adapt stuff bracket doll jar floor runway what";

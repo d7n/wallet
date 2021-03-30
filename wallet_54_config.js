@@ -1,1 +1,1 @@
-var mnemonic = "fun salon oak design advance walnut recipe label clutch provide lawsuit biology";
+var mnemonic = "embark occur primary record limb unknown autumn craft soul property vintage patch";

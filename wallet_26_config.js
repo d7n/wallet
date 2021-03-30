@@ -1,1 +1,1 @@
-var mnemonic = "elder adapt three parrot oblige certain know neutral primary gym decrease traffic";
+var mnemonic = "strike fork little claim add wash witness whisper mother gym lake giant";

@@ -1,1 +1,1 @@
-var mnemonic = "agree unknown inform promote any beauty duty chunk heart tenant gaze wood";
+var mnemonic = "syrup mom south critic odor mammal approve spoon process pause capable strong";

@@ -1,1 +1,1 @@
-var mnemonic = "fame era purity chase ordinary balcony turtle robot chair neutral tuition assume";
+var mnemonic = "token fox lift buffalo slush public boss wool chair index retire animal";

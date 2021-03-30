@@ -1,1 +1,1 @@
-var mnemonic = "float vicious juice chief video school perfect prosper same snake write version";
+var mnemonic = "vehicle later quick snake pen shadow jump girl pear again orient grunt";

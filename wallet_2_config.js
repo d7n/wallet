@@ -1,1 +1,1 @@
-var mnemonic = "start believe assist boost job prefer slush attend skate tree demand stairs";
+var mnemonic = "toast edit tiger father upon you anxiety acid chief neck pilot never";

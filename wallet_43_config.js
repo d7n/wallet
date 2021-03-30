@@ -1,1 +1,1 @@
-var mnemonic = "tenant message green fiction another chuckle crane together age wrestle walk weekend";
+var mnemonic = "surprise review zero amount junk dinner inhale ring throw distance various airport";

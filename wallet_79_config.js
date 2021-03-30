@@ -1,1 +1,1 @@
-var mnemonic = "horn tilt orchard hold history then tenant lottery simple apple hybrid fragile";
+var mnemonic = "violin account horror need cheap come retreat curtain flash style year escape";

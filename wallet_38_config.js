@@ -1,1 +1,1 @@
-var mnemonic = "liquid dad tilt deer blue nation adapt pelican usual toy ghost whale";
+var mnemonic = "buffalo trap consider drip portion reform know filter rather kangaroo among keen";

@@ -1,1 +1,1 @@
-var mnemonic = "stick right enact energy juice ozone keep cinnamon simple piano dolphin shell";
+var mnemonic = "slim pelican coral voice weather buzz consider captain matter spike rough cloth";

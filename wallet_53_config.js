@@ -1,1 +1,1 @@
-var mnemonic = "lift lawn pelican alcohol volume friend glow velvet write table mass fuel";
+var mnemonic = "right old stay spawn around old library differ mimic chuckle desert skill";

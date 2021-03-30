@@ -1,1 +1,1 @@
-var mnemonic = "only business ancient bronze mushroom error cable bamboo dolphin adapt wasp mutual";
+var mnemonic = "link enlist burst dog noodle romance champion ill arrange satoshi heavy list";

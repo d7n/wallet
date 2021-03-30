@@ -1,1 +1,1 @@
-var mnemonic = "rack cousin property advice follow chase tank stuff nut keep endless cause";
+var mnemonic = "circle melody deputy swim blossom maximum faculty one slim obtain visual imitate";

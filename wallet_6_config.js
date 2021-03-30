@@ -1,1 +1,1 @@
-var mnemonic = "indoor endless basic click limb genuine warfare simple reject manage that ridge";
+var mnemonic = "accident nominee cherry trade inch oak stable obscure fun success belt during";

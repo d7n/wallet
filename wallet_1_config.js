@@ -1,1 +1,1 @@
-var mnemonic = "snap doll wealth fork buffalo wink basket vault wage oil potato paddle";
+var mnemonic = "pipe theory defense opera acid oval soda figure leisure tackle lemon find";

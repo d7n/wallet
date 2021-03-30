@@ -1,1 +1,1 @@
-var mnemonic = "romance point donor bacon elder giant wool toddler liar tongue sight bring";
+var mnemonic = "flavor bar sock science front head blast weekend blossom hawk spirit custom";

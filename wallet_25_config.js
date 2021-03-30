@@ -1,1 +1,1 @@
-var mnemonic = "thought reject section name relax venue moral ribbon dizzy undo medal tornado";
+var mnemonic = "sad axis mango still zone caution mouse kind vintage shine crash property";

@@ -1,1 +1,1 @@
-var mnemonic = "capital artwork debris brush author enlist owner rally trip profit toward reward";
+var mnemonic = "bench champion wood forest direct tissue public walk erosion produce metal wool";

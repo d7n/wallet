@@ -1,1 +1,1 @@
-var mnemonic = "husband staff leisure execute bracket camp doctor topic net duck happy despair";
+var mnemonic = "village nature next regret pledge lawn gravity energy sea season captain resemble";

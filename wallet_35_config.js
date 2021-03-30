@@ -1,1 +1,1 @@
-var mnemonic = "sorry order sure oak reopen icon reflect bench thing episode tennis planet";
+var mnemonic = "upgrade embrace false brief trend hint unique hire aspect prefer health father";

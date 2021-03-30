@@ -1,1 +1,1 @@
-var mnemonic = "crash message ridge forget shiver south this away poet fancy meadow upper";
+var mnemonic = "survey member miss cement help balance where any nasty upgrade evolve tree";

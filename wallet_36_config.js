@@ -1,1 +1,1 @@
-var mnemonic = "tool flame calm lava settle point talent feed scrap pill hollow choose";
+var mnemonic = "addict meadow chapter shock twice people outer input drive metal only crop";

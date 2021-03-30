@@ -1,1 +1,1 @@
-var mnemonic = "city stand water gauge raven parent pottery alone custom entry emotion price";
+var mnemonic = "garlic sunset congress talk concert mention black bitter rapid welcome unfold action";

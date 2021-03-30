@@ -1,1 +1,1 @@
-var mnemonic = "able purpose stove enlist gauge arm spike security balcony hour devote index";
+var mnemonic = "engine tower purse vacant depth coin bless sword mechanic pudding crawl hamster";

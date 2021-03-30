@@ -1,1 +1,1 @@
-var mnemonic = "smile into knife elite tired later festival invite point bubble spread nuclear";
+var mnemonic = "curve practice wine person sand spray follow deposit immune hurry put mandate";

@@ -1,1 +1,1 @@
-var mnemonic = "orient gain security rack grunt tissue vendor neither slogan abstract grit nuclear";
+var mnemonic = "extend relax order brave merit dynamic later duty warm bright dad lawn";

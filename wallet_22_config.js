@@ -1,1 +1,1 @@
-var mnemonic = "suspect require modify foil panther carry category silent vacuum tree april victory";
+var mnemonic = "chef current infant van run disorder husband verb lazy vote provide decide";

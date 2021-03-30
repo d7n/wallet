@@ -1,1 +1,1 @@
-var mnemonic = "grace valve boat embody order point party wage defense boat screen shoe";
+var mnemonic = "glad seven allow boy lesson license train strike snow inmate dutch about";

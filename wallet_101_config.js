@@ -1,1 +1,1 @@
-var mnemonic = "toy length update decrease apology manual excuse round equal lizard amused crunch";
+var mnemonic = "luxury grit issue acquire creek novel describe cheese sing margin fence album";

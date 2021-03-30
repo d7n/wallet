@@ -1,1 +1,1 @@
-var mnemonic = "stock online swear claim evolve strategy puppy glory inform vault swift step";
+var mnemonic = "medal story auto carry fetch define task burger ripple march cave wonder";

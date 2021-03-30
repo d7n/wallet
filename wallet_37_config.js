@@ -1,1 +1,1 @@
-var mnemonic = "grunt obey custom void fabric taxi agent team have velvet dentist soda";
+var mnemonic = "allow express used rural eager finger sustain spring grocery group chronic include";

@@ -1,1 +1,1 @@
-var mnemonic = "position cook decline desert cliff park notice bottom poverty script time caution";
+var mnemonic = "cross video nut clip find mouse vanish innocent april orchard undo ginger";

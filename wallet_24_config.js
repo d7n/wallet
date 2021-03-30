@@ -1,1 +1,1 @@
-var mnemonic = "there neglect near decorate lawn soul injury life shuffle knock round nut";
+var mnemonic = "oblige wreck faculty assume mistake trigger glide shop menu confirm circle uphold";

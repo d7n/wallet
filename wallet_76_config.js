@@ -1,1 +1,1 @@
-var mnemonic = "merit sister broom welcome range artefact daughter foam victory story logic force";
+var mnemonic = "nothing robot manage please slush vicious human toward stumble arm one test";

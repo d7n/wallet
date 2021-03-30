@@ -1,1 +1,1 @@
-var mnemonic = "fat palace museum make art occur dust delay permit family attend mistake";
+var mnemonic = "spend holiday snow first test acoustic what vibrant buyer spring track glimpse";

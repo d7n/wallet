@@ -1,1 +1,1 @@
-var mnemonic = "normal coil eye web yard payment draw face curtain spin grief father";
+var mnemonic = "adjust payment phone property hollow prosper group client brisk boat grow token";

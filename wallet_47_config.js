@@ -1,1 +1,1 @@
-var mnemonic = "quit grit solar uphold firm anchor guitar visa impact surround bacon when";
+var mnemonic = "arrive giant used betray erupt fetch reform trade cup opinion book private";

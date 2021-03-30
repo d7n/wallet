@@ -1,1 +1,1 @@
-var mnemonic = "deny lunch mimic shaft oyster trumpet gospel trouble net pudding model mean";
+var mnemonic = "legal infant design pool error dumb claim body staff hood marriage forward";

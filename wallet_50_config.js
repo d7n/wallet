@@ -1,1 +1,1 @@
-var mnemonic = "negative friend stone short devote waste above ivory history deliver fly rapid";
+var mnemonic = "deposit behave plug mushroom chuckle where mosquito lady evil lawn blush dose";

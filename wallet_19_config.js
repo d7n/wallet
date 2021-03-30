@@ -1,1 +1,1 @@
-var mnemonic = "actual warrior advice nose logic exhibit undo lucky jaguar exit deal piano";
+var mnemonic = "palm uncover mix veteran midnight toe parent relax sunny field urban moon";

@@ -1,1 +1,1 @@
-var mnemonic = "narrow odor venue clerk upset daughter team misery battle feature snake pulse";
+var mnemonic = "okay father myself diamond cover still song absorb load intact oppose helmet";

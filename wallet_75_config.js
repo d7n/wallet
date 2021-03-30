@@ -1,1 +1,1 @@
-var mnemonic = "retreat village father drop fox distance canoe swamp tenant peace surprise brisk";
+var mnemonic = "under churn rebel left sudden snap polar ten identify enact walnut ancient";
