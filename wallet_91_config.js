@@ -1,1 +1,1 @@
-var mnemonic = "double two balance monster key wing record wing afford tragic syrup crime";
+var mnemonic = "guitar glad bag color crawl issue female together term space jungle circle";

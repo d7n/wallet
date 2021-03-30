@@ -1,1 +1,1 @@
-var mnemonic = "sock shed kitchen knife exist giant reunion insane taste worry flush hood";
+var mnemonic = "gun twelve boy retire approve bulb law congress juice there stock various";

@@ -1,1 +1,1 @@
-var mnemonic = "inch photo enter dutch road episode food manual oil chase october order";
+var mnemonic = "peasant pen engage fluid drama else cabin debate kiwi vehicle bless uniform";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp pistol auto ski panda title naive second earn lemon someone divorce";
+var mnemonic = "absorb sign cloud august monitor pave eternal lunch upgrade point deliver disorder";

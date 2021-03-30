@@ -1,1 +1,1 @@
-var mnemonic = "favorite elbow silk pull inspire hood flat female snack cycle shadow visa";
+var mnemonic = "pelican hope expect select flip fun nation trend fun keep reward juice";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone lazy wreck shed swift peanut joy scale render expose purpose tobacco";
+var mnemonic = "enhance chef slice burden memory vast winner cotton cigar bring flower climb";

@@ -1,1 +1,1 @@
-var mnemonic = "remove tuna wrestle lecture clerk bind custom pencil option include promote session";
+var mnemonic = "alien verb credit trial acoustic pyramid music early hair type castle oxygen";

@@ -1,1 +1,1 @@
-var mnemonic = "quality strike easily venue project arrow sing athlete narrow suggest kick wire";
+var mnemonic = "trip ankle image flame senior birth original cement broken auction kangaroo raccoon";

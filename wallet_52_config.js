@@ -1,1 +1,1 @@
-var mnemonic = "leopard stuff donate glare hole flush capital obey fury chicken citizen clown";
+var mnemonic = "clerk reflect universe settle excite toe chief unable analyst erupt twice embrace";

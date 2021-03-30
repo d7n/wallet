@@ -1,1 +1,1 @@
-var mnemonic = "despair isolate make swim hard tiny total comic ahead blush comic spread";
+var mnemonic = "almost stumble rate whip hello jaguar dynamic rug isolate warrior hunt illness";

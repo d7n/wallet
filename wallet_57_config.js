@@ -1,1 +1,1 @@
-var mnemonic = "deny biology broom defy rice name lend lady north promote scheme rack";
+var mnemonic = "february current second amused save coral grit bid tired argue giraffe series";

@@ -1,1 +1,1 @@
-var mnemonic = "pig actual dad worry security certain sell become choose shove flush riot";
+var mnemonic = "process fall swing web rebel anxiety laptop month express soup local slogan";

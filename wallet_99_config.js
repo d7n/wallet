@@ -1,1 +1,1 @@
-var mnemonic = "dutch comfort sail solution antenna six silk hover symptom monster find now";
+var mnemonic = "glow pond soup kick cruise dose family surge pizza crazy radar hand";

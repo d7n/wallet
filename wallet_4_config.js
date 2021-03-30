@@ -1,1 +1,1 @@
-var mnemonic = "chase easy erupt public one able bomb syrup require finger wild coin";
+var mnemonic = "enrich million repair tube regular brown flag artwork garment cube wonder inmate";

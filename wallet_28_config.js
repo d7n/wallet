@@ -1,1 +1,1 @@
-var mnemonic = "help usage often duck girl switch echo top avoid youth tiger bulb";
+var mnemonic = "toward cluster surprise floor fiction athlete minor hammer hat narrow shallow shiver";

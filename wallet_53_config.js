@@ -1,1 +1,1 @@
-var mnemonic = "clutch holiday accident auction bundle puppy evolve thing minimum merge list wise";
+var mnemonic = "early desert poet way impulse record theme negative story wood siren good";

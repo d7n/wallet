@@ -1,1 +1,1 @@
-var mnemonic = "iron hour auto record barely axis fetch rebel fly thought filter cancel";
+var mnemonic = "wrong apple sunset clay laugh soda absurd cherry deer loud proud journey";

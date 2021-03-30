@@ -1,1 +1,1 @@
-var mnemonic = "speak easy hard honey alley current stereo sentence glide crane anchor quarter";
+var mnemonic = "marble evolve slow velvet trade lamp among anger strong wire fog monitor";

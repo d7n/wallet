@@ -1,1 +1,1 @@
-var mnemonic = "uncle mandate fall veteran runway hill fade upset coral proud entry agent";
+var mnemonic = "edge alert wide slab addict crack hundred merry cook leopard wrestle frost";

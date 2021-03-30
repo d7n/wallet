@@ -1,1 +1,1 @@
-var mnemonic = "change jazz next camera scatter fiber ghost capable weather vehicle sustain plastic";
+var mnemonic = "parent quantum enhance pilot jeans caution mosquito unusual joke wasp pull nose";

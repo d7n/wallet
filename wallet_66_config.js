@@ -1,1 +1,1 @@
-var mnemonic = "faint open jungle file rose aisle buzz disagree window great awake obscure";
+var mnemonic = "reward project rival ketchup orient bachelor page vivid trend describe humble season";

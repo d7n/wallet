@@ -1,1 +1,1 @@
-var mnemonic = "balcony enforce shed forum dumb pledge blanket able spoon advance tide lonely";
+var mnemonic = "piano company knife album assume country genuine recipe lemon cheap vacant pen";

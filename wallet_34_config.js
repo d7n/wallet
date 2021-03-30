@@ -1,1 +1,1 @@
-var mnemonic = "float bargain echo screen eye palace diesel rent bronze slush question vapor";
+var mnemonic = "access fence reopen verb okay sort flame tiger unknown nest buzz album";

@@ -1,1 +1,1 @@
-var mnemonic = "tank van round crazy toilet ahead universe volume match pizza address bottom";
+var mnemonic = "gossip shrug inside they task ice want avocado gun shop broom sorry";

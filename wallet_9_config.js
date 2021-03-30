@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow cram record august sleep sunny capable glory bird snow battle crazy";
+var mnemonic = "swarm device depend guide popular canoe script crystal reopen vibrant knife airport";

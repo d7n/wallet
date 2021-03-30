@@ -1,1 +1,1 @@
-var mnemonic = "struggle wrap merge coil bleak buzz flight imitate illegal figure winner virus";
+var mnemonic = "alcohol emerge blue away they reform when sleep shoot wide nerve antique";

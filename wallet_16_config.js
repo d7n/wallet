@@ -1,1 +1,1 @@
-var mnemonic = "onion injury extra relief kiwi differ shoe autumn opera belt modify column";
+var mnemonic = "define kid water alien light thumb candy access cycle spoil narrow busy";

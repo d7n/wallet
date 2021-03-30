@@ -1,1 +1,1 @@
-var mnemonic = "banner submit educate good isolate more token praise spatial robot buyer gesture";
+var mnemonic = "perfect brick pumpkin sure cherry crowd index salmon april celery divorce trap";

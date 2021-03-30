@@ -1,1 +1,1 @@
-var mnemonic = "retreat resist laptop cruel half credit delay jeans found gospel impose tent";
+var mnemonic = "medal clump ribbon evil aim allow beyond recipe stem false sugar gate";

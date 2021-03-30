@@ -1,1 +1,1 @@
-var mnemonic = "ethics bronze crumble robust brother romance document cliff butter edge interest industry";
+var mnemonic = "always gravity enemy nothing quote bar tone year soccer fox master home";

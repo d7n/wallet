@@ -1,1 +1,1 @@
-var mnemonic = "dry mail sock warfare maximum feature merry deputy common minute spell picnic";
+var mnemonic = "install basket fragile asset scale grit theme case loyal color autumn outer";

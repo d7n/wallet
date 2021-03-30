@@ -1,1 +1,1 @@
-var mnemonic = "salmon silent laugh key mother holiday bitter slim brisk noble boring oblige";
+var mnemonic = "help tilt share smart coffee spawn wrap budget address reason trick dynamic";

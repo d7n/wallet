@@ -1,1 +1,1 @@
-var mnemonic = "rack say hawk hint velvet use current ripple sight mutual multiply puzzle";
+var mnemonic = "tone enhance oak exile divide knife avocado main edge drastic exit mule";

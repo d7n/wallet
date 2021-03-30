@@ -1,1 +1,1 @@
-var mnemonic = "library badge release frozen juice estate prosper grit monster wink legal field";
+var mnemonic = "easily beyond elephant cargo leopard one empty mad rib must ecology bread";

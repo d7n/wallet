@@ -1,1 +1,1 @@
-var mnemonic = "crash stumble diagram next improve army design remember tenant slush cross sword";
+var mnemonic = "veteran october embrace devote slice muscle group vocal deposit detail minimum enough";

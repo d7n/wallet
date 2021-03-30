@@ -1,1 +1,1 @@
-var mnemonic = "slender space grit excite wear solar method valve code agent good snack";
+var mnemonic = "purity phone balance size doctor puppy output crowd leg island upset right";

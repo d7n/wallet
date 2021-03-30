@@ -1,1 +1,1 @@
-var mnemonic = "number tomato recycle dignity snake scrap pizza swamp crunch pizza fat acid";
+var mnemonic = "tiger blade gloom nice member twice client orient glove column increase choose";

@@ -1,1 +1,1 @@
-var mnemonic = "wrap silly trigger obscure jaguar you rhythm hospital cloud online pill lemon";
+var mnemonic = "inherit solid bachelor kick cotton bulb symptom ignore pond story imitate spike";

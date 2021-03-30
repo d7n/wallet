@@ -1,1 +1,1 @@
-var mnemonic = "collect useful build ready alone inform solution nerve merry evil miss fan";
+var mnemonic = "mean system crunch analyst weekend route ocean ketchup lunar neglect grab describe";

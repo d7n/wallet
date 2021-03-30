@@ -1,1 +1,1 @@
-var mnemonic = "sing ginger panel universe orchard coast action buffalo frog glance lucky bind";
+var mnemonic = "action mango unique unaware empty sting danger venture age ketchup hello exit";

@@ -1,1 +1,1 @@
-var mnemonic = "practice rhythm monkey struggle sick unlock bounce decline runway select drill hold";
+var mnemonic = "turn brain flip enlist hawk kitten expire garage great lens sting clog";

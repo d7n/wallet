@@ -1,1 +1,1 @@
-var mnemonic = "very entry blood frame silent accident shoe piece supreme reform young canvas";
+var mnemonic = "near pair gallery wreck below hub foil hub airport inner sort roof";

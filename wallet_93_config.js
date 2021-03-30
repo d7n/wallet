@@ -1,1 +1,1 @@
-var mnemonic = "depend flush meadow absent napkin matter inject shy month olympic much place";
+var mnemonic = "evidence industry grape vacuum camp draw spirit easy home level hip brave";

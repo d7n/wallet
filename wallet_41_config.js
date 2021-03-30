@@ -1,1 +1,1 @@
-var mnemonic = "eternal athlete poem use tourist hip liar kick tail universe rescue game";
+var mnemonic = "submit nuclear couple round rebuild pulse type record lazy sunset chat cigar";

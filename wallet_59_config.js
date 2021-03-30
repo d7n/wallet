@@ -1,1 +1,1 @@
-var mnemonic = "orange level scrap electric tongue pledge science check arrest coil random lemon";
+var mnemonic = "thank half derive rail common timber radar object stool now trip afford";

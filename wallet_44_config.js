@@ -1,1 +1,1 @@
-var mnemonic = "basic return aisle match flock budget engine voice choose cross supreme model";
+var mnemonic = "state adjust scare happy predict solution twist merit day flag forward coin";

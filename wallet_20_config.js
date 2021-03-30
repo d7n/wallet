@@ -1,1 +1,1 @@
-var mnemonic = "wreck safe shaft disorder security pottery lizard genuine mask current purse journey";
+var mnemonic = "beef decorate fish climb great water own bean defy leave turtle student";

@@ -1,1 +1,1 @@
-var mnemonic = "velvet ice skill vocal spawn tomato dignity cricket logic room duck argue";
+var mnemonic = "elbow wish reopen early tomorrow object dust hard film explain later smile";

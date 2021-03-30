@@ -1,1 +1,1 @@
-var mnemonic = "damage million guide crash elite share grunt antique amused pigeon curtain ahead";
+var mnemonic = "dynamic gather eager minimum raise ahead flower fruit slot damp verb answer";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic city prize improve memory burst follow pottery used mountain explain globe";
+var mnemonic = "air coral smoke oval extend frost movie blind jewel habit zebra sand";

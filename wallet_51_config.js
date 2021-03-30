@@ -1,1 +1,1 @@
-var mnemonic = "jar gloom double segment unusual slush solve caught later bring silver possible";
+var mnemonic = "visa blast slush whip traffic number empty bird gesture sauce expose steel";

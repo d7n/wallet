@@ -1,1 +1,1 @@
-var mnemonic = "random boil crowd trip fit kitchen mobile girl goat circle merge trust";
+var mnemonic = "work shy fresh ice ugly stick spray lucky menu box adult universe";

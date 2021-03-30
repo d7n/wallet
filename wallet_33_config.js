@@ -1,1 +1,1 @@
-var mnemonic = "march suggest usage insane volume segment company nature legend license axis ketchup";
+var mnemonic = "knife pistol crew puppy trap view champion truck cereal weapon march permit";

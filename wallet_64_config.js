@@ -1,1 +1,1 @@
-var mnemonic = "unaware very digital few skull lottery wage essay plug license example hard";
+var mnemonic = "habit orange stay allow escape scissors find scissors toast gentle proud only";

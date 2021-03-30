@@ -1,1 +1,1 @@
-var mnemonic = "smart mandate orphan real pet allow hotel twist carbon defense tree zone";
+var mnemonic = "hundred trick coil salmon gaze choose lend stock mask balcony decline merge";

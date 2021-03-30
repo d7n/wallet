@@ -1,1 +1,1 @@
-var mnemonic = "cement farm gap advice captain dune ranch second supply book bone review";
+var mnemonic = "review february struggle rookie pair rebel vendor divert flame winter grape oak";

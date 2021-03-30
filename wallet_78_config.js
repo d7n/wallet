@@ -1,1 +1,1 @@
-var mnemonic = "curtain quiz victory apart bright disease document attract differ episode path wasp";
+var mnemonic = "unveil aspect slab split aunt habit reopen suggest struggle pitch soda ill";

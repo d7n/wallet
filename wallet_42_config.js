@@ -1,1 +1,1 @@
-var mnemonic = "ugly ship pelican drive volcano danger someone filter rebuild asthma monkey luxury";
+var mnemonic = "nephew shine imitate allow ritual keen brisk group kid vast raise river";

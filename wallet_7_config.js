@@ -1,1 +1,1 @@
-var mnemonic = "reduce dish jaguar bonus certain people bone magic absorb claim swallow dance";
+var mnemonic = "relax rail body exhaust display august liquid thing pen burger learn acoustic";

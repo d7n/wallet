@@ -1,1 +1,1 @@
-var mnemonic = "behave pole depth tuna kind toe open shop jungle best okay decrease";
+var mnemonic = "cinnamon cram canoe rich leaf chaos nuclear tattoo fever main wood document";

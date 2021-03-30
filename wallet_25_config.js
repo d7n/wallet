@@ -1,1 +1,1 @@
-var mnemonic = "arch south tourist clog quality clean physical pink fiber color fatigue rude";
+var mnemonic = "asset level child later garage install tank clarify where clarify toward position";

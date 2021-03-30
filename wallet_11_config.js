@@ -1,1 +1,1 @@
-var mnemonic = "welcome feed bulk carpet loud bright pill attract cream material ecology dice";
+var mnemonic = "loop cute buffalo toward embark tortoise opinion message minor attend december file";

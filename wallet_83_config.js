@@ -1,1 +1,1 @@
-var mnemonic = "alley antenna nerve cricket message secret one indoor wise month move aisle";
+var mnemonic = "daring bargain mom margin hammer polar possible sail reflect tree layer purchase";

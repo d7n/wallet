@@ -1,1 +1,1 @@
-var mnemonic = "creek deer index patch heart father liberty cupboard produce oil stem student";
+var mnemonic = "profit sorry erase hammer tornado rich museum include reduce embark maze rain";

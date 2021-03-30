@@ -1,1 +1,1 @@
-var mnemonic = "add version sunset quick liquid aerobic hello reduce orphan crazy already transfer";
+var mnemonic = "fly kind hospital reunion oppose cook planet usage creek fiction bomb lemon";

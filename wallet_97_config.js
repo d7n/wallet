@@ -1,1 +1,1 @@
-var mnemonic = "physical major ghost betray morning script aerobic retreat ketchup make oyster exile";
+var mnemonic = "fence frown lift announce brand sound couch photo situate rubber morning casino";

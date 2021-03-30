@@ -1,1 +1,1 @@
-var mnemonic = "heart stool certain cool chapter cereal cargo engage pink sunny gold amount";
+var mnemonic = "melody trim muscle fall regular deputy wait castle exhibit under census travel";

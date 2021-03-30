@@ -1,1 +1,1 @@
-var mnemonic = "peanut echo paper kid soldier tray roast emerge effort estate corn aunt";
+var mnemonic = "company they bunker annual private axis middle add remind worth curious praise";

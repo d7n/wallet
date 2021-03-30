@@ -1,1 +1,1 @@
-var mnemonic = "giggle kite exotic usage mask scrap repeat fade cradle shrimp loyal off";
+var mnemonic = "bulk census patient tongue thumb divorce nest leisure slam awake daring coconut";

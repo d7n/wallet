@@ -1,1 +1,1 @@
-var mnemonic = "pitch sell either october job ladder scorpion wear roast item claw decorate";
+var mnemonic = "tent program gap pink cancel tunnel general maze muscle hero mutual wage";

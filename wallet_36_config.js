@@ -1,1 +1,1 @@
-var mnemonic = "slim ten buffalo various behind true limit blue other cook detect match";
+var mnemonic = "pumpkin quit trumpet grit diet cruise more fiscal immune craft agent offer";

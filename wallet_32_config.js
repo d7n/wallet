@@ -1,1 +1,1 @@
-var mnemonic = "next physical front decorate milk deliver hidden ice frequent cram amount panic";
+var mnemonic = "happy accident ski paper rib pudding cool access slim mystery mirror ensure";

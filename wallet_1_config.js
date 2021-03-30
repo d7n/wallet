@@ -1,1 +1,1 @@
-var mnemonic = "solution bless major desert tennis village voyage luxury spoon empower rug immense";
+var mnemonic = "any print door phone short ski zero bundle govern nothing gather situate";

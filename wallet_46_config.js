@@ -1,1 +1,1 @@
-var mnemonic = "infant margin off fashion skin edit father stove quiz scare door remove";
+var mnemonic = "key real razor manage wood myself puppy vessel mushroom giraffe neutral stumble";

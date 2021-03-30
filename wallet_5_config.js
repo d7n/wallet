@@ -1,1 +1,1 @@
-var mnemonic = "certain empty poet moon someone pepper orange color void chat kiss cross";
+var mnemonic = "permit head ribbon innocent pitch emotion limb ability core much pumpkin rocket";

@@ -1,1 +1,1 @@
-var mnemonic = "test collect biology evidence web obscure keep then crack cereal tunnel future";
+var mnemonic = "power resource game drive test agree destroy wheat adapt celery citizen creek";

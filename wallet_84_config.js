@@ -1,1 +1,1 @@
-var mnemonic = "draw retire evolve still bench inflict digital have enough utility smart physical";
+var mnemonic = "peasant goat tail rely slogan return struggle salute clerk pole pool quiz";

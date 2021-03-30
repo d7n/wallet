@@ -1,1 +1,1 @@
-var mnemonic = "base turtle whale decide three cage flee boy vacant turkey embrace dose";
+var mnemonic = "lonely excuse coyote connect clown shaft genuine salt test crime tower attack";

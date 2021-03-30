@@ -1,1 +1,1 @@
-var mnemonic = "shock street actual deputy journey brand famous spring piece close hybrid illness";
+var mnemonic = "joke fashion pass drop sweet chest true obey quality trade spell nice";

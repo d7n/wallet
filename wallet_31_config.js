@@ -1,1 +1,1 @@
-var mnemonic = "canal warfare order liberty flee excuse panda hill badge forum element innocent";
+var mnemonic = "trick aerobic body mixture mouse sea various odor mango jump album cave";

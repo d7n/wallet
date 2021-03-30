@@ -1,1 +1,1 @@
-var mnemonic = "divert slot guilt crash cattle vintage coast detect broom letter cinnamon soda";
+var mnemonic = "guard hair abstract wasp humble zebra team earn bronze glance bounce agree";

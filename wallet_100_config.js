@@ -1,1 +1,1 @@
-var mnemonic = "wrist weasel orchard siege cradle kitchen tenant like reason any base wrong";
+var mnemonic = "unhappy cost tribe canyon spike good cloth potato left sport economy diamond";

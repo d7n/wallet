@@ -1,1 +1,1 @@
-var mnemonic = "good fever unit use sleep guard rapid turn remove buffalo forest artist";
+var mnemonic = "medal culture fury knee casual nuclear manage awkward dice jar weather illegal";

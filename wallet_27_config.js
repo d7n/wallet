@@ -1,1 +1,1 @@
-var mnemonic = "section gadget pull glare frozen behind pole toilet novel police flush toss";
+var mnemonic = "slide glue voice clog pact check habit mountain elder fluid salt ensure";

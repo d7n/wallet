@@ -1,1 +1,1 @@
-var mnemonic = "enjoy sense absorb pen dish screen remember soccer sword clock drastic mention";
+var mnemonic = "online zoo cancel kingdom hip wood eternal cactus amount hunt shoot scrap";

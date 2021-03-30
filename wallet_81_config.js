@@ -1,1 +1,1 @@
-var mnemonic = "stereo pair record long hurdle green pledge spice fabric right depth tower";
+var mnemonic = "flag wise negative audit smoke frozen knock order glare crush bus bid";

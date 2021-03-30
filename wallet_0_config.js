@@ -1,1 +1,1 @@
-var mnemonic = "dinner cement million remind save autumn brain guide expose evidence vague latin";
+var mnemonic = "maze card april oyster slim aware mimic busy globe swim galaxy convince";

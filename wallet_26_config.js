@@ -1,1 +1,1 @@
-var mnemonic = "neither notice deny crystal rain rule rely typical shiver autumn click clerk";
+var mnemonic = "bring abuse enjoy clog six monitor cattle flight ranch century other slight";

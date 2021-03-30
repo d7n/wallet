@@ -1,1 +1,1 @@
-var mnemonic = "jealous gather owner pigeon syrup zone near accident father sister track maze";
+var mnemonic = "fit kid truck suspect safe october pass habit husband manage east tuna";

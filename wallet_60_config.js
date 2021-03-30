@@ -1,1 +1,1 @@
-var mnemonic = "pelican anger build cheese ritual electric sibling claim lake buyer bomb fold";
+var mnemonic = "hint vocal escape shed used duck sun scare sport company female change";

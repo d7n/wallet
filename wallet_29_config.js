@@ -1,1 +1,1 @@
-var mnemonic = "barely slush civil jewel rug around leader scrub pencil alert shock damp";
+var mnemonic = "thrive record travel accuse jar dry oblige summer tide liar rescue that";

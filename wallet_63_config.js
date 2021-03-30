@@ -1,1 +1,1 @@
-var mnemonic = "right crack spider warrior admit mixed outdoor eyebrow jewel skate gas rigid";
+var mnemonic = "letter defy absorb machine nature report borrow mule riot embrace label pigeon";

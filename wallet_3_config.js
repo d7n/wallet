@@ -1,1 +1,1 @@
-var mnemonic = "foam approve replace shiver lazy bulb ancient festival call mad bomb analyst";
+var mnemonic = "quantum sweet renew appear success hybrid extra cereal tide advance human demise";

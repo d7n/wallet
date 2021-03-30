@@ -1,1 +1,1 @@
-var mnemonic = "more bulk invest degree kiss sadness sense hunt rude village inform fatal";
+var mnemonic = "gather exact elevator flight junior solve harbor beauty because kidney stand gasp";

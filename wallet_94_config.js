@@ -1,1 +1,1 @@
-var mnemonic = "enemy street buzz okay sun corn spin cereal fix cry slam cute";
+var mnemonic = "burger vanish miracle area require poem shy general captain grab rose program";
