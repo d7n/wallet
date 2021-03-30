@@ -1,1 +1,1 @@
-var mnemonic = "laugh flag hold license assault crawl wish fault mandate baby half vicious";
+var mnemonic = "blood risk divorce tool gesture razor response wing green hawk ask sport";

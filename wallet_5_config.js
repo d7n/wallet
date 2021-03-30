@@ -1,1 +1,1 @@
-var mnemonic = "excite ask jar athlete bitter rib garbage silk admit guilt digital provide";
+var mnemonic = "visual stairs dirt monster discover rent stove air depart drift dignity lab";

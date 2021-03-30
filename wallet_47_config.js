@@ -1,1 +1,1 @@
-var mnemonic = "search monster scrap sweet gun account dilemma van sort movie amazing shadow";
+var mnemonic = "reward armor wreck wine stumble jacket harbor magic emerge ready excess choice";

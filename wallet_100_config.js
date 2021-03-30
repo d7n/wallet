@@ -1,1 +1,1 @@
-var mnemonic = "random seek caught velvet session feed weather rebuild answer inquiry cactus dragon";
+var mnemonic = "magnet often regular glass refuse rather camp treat guard skull bachelor guess";

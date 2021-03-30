@@ -1,1 +1,1 @@
-var mnemonic = "celery under test deposit uniform enough salute save citizen shield border family";
+var mnemonic = "today iron scheme peasant add drift nominee vendor slab enemy trouble expire";

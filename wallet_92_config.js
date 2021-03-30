@@ -1,1 +1,1 @@
-var mnemonic = "monitor across captain cactus tourist resist sure mind armed cherry found junk";
+var mnemonic = "zone february guilt dinosaur smart index occur amused rule connect awkward huge";

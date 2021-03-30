@@ -1,1 +1,1 @@
-var mnemonic = "myth target state fitness claim quick must rack buddy letter crouch bulk";
+var mnemonic = "divorce thing pupil snake thought erode wife virus inflict wink peasant woman";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap edge license various bronze law desert gold certain copper siege carbon";
+var mnemonic = "immune tent blind ethics indicate faith dizzy exact radio void tiger sock";

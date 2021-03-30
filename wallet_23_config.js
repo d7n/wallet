@@ -1,1 +1,1 @@
-var mnemonic = "era ready basket curious crisp neither strike exist peanut pudding glance pluck";
+var mnemonic = "orbit vault sound festival spare cube feature solve tell clock base rubber";

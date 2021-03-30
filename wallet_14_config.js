@@ -1,1 +1,1 @@
-var mnemonic = "betray viable uniform cactus laptop install arch retire elephant east copy domain";
+var mnemonic = "mansion vague repeat wish place sauce dice pizza deny idea quiz appear";

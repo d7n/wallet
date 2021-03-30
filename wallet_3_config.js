@@ -1,1 +1,1 @@
-var mnemonic = "curve immune task dynamic once rare middle machine try seat hub talent";
+var mnemonic = "mule record casual desk scatter ride stove crop rally also way melt";

@@ -1,1 +1,1 @@
-var mnemonic = "patrol fashion allow trip scorpion increase egg soccer detail canvas tide equip";
+var mnemonic = "ivory ranch under alien reject smile trip alone obscure wrist unit unfair";

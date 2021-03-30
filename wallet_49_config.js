@@ -1,1 +1,1 @@
-var mnemonic = "excite laugh goose wet tonight wheat jump try hollow service machine hub";
+var mnemonic = "green pepper tuna cheese whale frog bone much chicken float slot walk";

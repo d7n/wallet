@@ -1,1 +1,1 @@
-var mnemonic = "comic opera possible cricket pyramid captain mimic sound endless equal rally twist";
+var mnemonic = "pass nuclear please math travel office elbow drift shine pioneer whale shrimp";

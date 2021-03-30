@@ -1,1 +1,1 @@
-var mnemonic = "defy often abuse wise right faith replace fence drift aim kangaroo female";
+var mnemonic = "novel spatial typical close balance weasel gas web finish winner pizza brisk";

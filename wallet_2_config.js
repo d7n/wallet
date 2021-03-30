@@ -1,1 +1,1 @@
-var mnemonic = "name stable pool hood lawsuit floor vague scheme quick ignore social face";
+var mnemonic = "cover fever rival sand fuel shrimp public bicycle midnight margin chair sail";

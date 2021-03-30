@@ -1,1 +1,1 @@
-var mnemonic = "fabric month train piece admit inside midnight canvas pupil must excite have";
+var mnemonic = "design satoshi avocado ready apology category vocal describe enroll swear avoid budget";

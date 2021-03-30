@@ -1,1 +1,1 @@
-var mnemonic = "pulp cannon duty lift quit clap enough style mandate normal excuse claw";
+var mnemonic = "fitness beauty shadow core normal sunny electric random toe sad raw vital";

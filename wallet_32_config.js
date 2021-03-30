@@ -1,1 +1,1 @@
-var mnemonic = "will path ankle fashion series ring embrace language find depend fatigue session";
+var mnemonic = "august animal slender unknown gain wall diamond wool deputy draft shoe upon";

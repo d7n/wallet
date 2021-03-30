@@ -1,1 +1,1 @@
-var mnemonic = "problem pluck embrace glass business mystery frown swamp reform coil diary lion";
+var mnemonic = "math marriage journey cactus trend insect essay useless butter lawsuit cannon meat";

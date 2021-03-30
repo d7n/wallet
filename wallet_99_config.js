@@ -1,1 +1,1 @@
-var mnemonic = "fatigue cancel grit safe artefact vast swift muffin raise fluid hood slow";
+var mnemonic = "manage pyramid train vague isolate else beauty sample royal victory aisle sand";

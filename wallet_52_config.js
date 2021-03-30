@@ -1,1 +1,1 @@
-var mnemonic = "shine impact such bring behave awful little action much across sail kiwi";
+var mnemonic = "good member filter social mirror van chuckle remind jazz icon enemy double";

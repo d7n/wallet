@@ -1,1 +1,1 @@
-var mnemonic = "error process brisk someone release prevent govern burden purchase service wreck coach";
+var mnemonic = "lunch dose dad sunset whip frost myself motion reopen hair flip move";

@@ -1,1 +1,1 @@
-var mnemonic = "quick sibling cube east truth shoulder sunny remain stick voyage mesh green";
+var mnemonic = "turkey limb federal country feature regret tunnel either attitude champion flag fiction";

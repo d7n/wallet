@@ -1,1 +1,1 @@
-var mnemonic = "axis network soldier pool discover pigeon pig system gaze moral mixture misery";
+var mnemonic = "plunge ketchup tiny resemble drill reason normal atom tumble rotate alcohol piece";

@@ -1,1 +1,1 @@
-var mnemonic = "person girl erupt vast mesh conduct surround smart chest athlete busy sting";
+var mnemonic = "craft absorb uncover upset disagree secret session speak code car print replace";

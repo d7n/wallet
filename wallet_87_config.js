@@ -1,1 +1,1 @@
-var mnemonic = "weekend cereal kit away ritual front vapor melody trash bicycle minute awful";
+var mnemonic = "broom hurdle phone burst unfair wine document excuse leisure become amateur moral";

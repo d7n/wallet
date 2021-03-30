@@ -1,1 +1,1 @@
-var mnemonic = "embark crazy loop panda pull joy coil glow nose barrel expand desert";
+var mnemonic = "save page drop siege rocket firm chaos pipe shoot pistol fiscal loyal";

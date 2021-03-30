@@ -1,1 +1,1 @@
-var mnemonic = "spin miracle phone spring soccer pass jump daring toward garage siege vapor";
+var mnemonic = "swing sun garage hamster letter usage input give prefer clean clarify notice";

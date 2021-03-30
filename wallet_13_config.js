@@ -1,1 +1,1 @@
-var mnemonic = "elevator seven eight tone cactus dream royal modify whale tongue envelope impose";
+var mnemonic = "sphere boat fox mean easy emotion own voyage scissors special forum you";

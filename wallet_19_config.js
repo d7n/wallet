@@ -1,1 +1,1 @@
-var mnemonic = "learn once disagree alcohol stand arrange matrix raccoon blue gift mule skate";
+var mnemonic = "cave ivory right refuse trust nest produce cheap mean thank share cover";

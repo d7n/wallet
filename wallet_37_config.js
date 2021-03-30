@@ -1,1 +1,1 @@
-var mnemonic = "bench split stage mail mechanic middle analyst still dragon inch usage unfold";
+var mnemonic = "manage attend fire yard spare eyebrow ball rule square wage total unaware";

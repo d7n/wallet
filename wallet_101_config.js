@@ -1,1 +1,1 @@
-var mnemonic = "evil pluck broken engage nurse notable daring elder category curtain awake black";
+var mnemonic = "switch fever clay camera few enter device opera erosion safe erode success";

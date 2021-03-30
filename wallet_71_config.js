@@ -1,1 +1,1 @@
-var mnemonic = "damage weekend first engage tragic acid buyer air guide domain remind problem";
+var mnemonic = "ranch usual help fruit spring weasel seed program spice carry vast lock";

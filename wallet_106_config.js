@@ -1,1 +1,1 @@
-var mnemonic = "still audit case owner acoustic tape ship frame chunk gentle female timber";
+var mnemonic = "hour giraffe any artwork nasty hood impose recycle enable fold east gloom";

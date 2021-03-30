@@ -1,1 +1,1 @@
-var mnemonic = "dirt toward metal person camp jacket story often broken bubble arch surround";
+var mnemonic = "health warm finger canvas drink circle direct route announce steak basket squeeze";

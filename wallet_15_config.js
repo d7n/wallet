@@ -1,1 +1,1 @@
-var mnemonic = "receive ensure crawl lesson win decline rare aisle loyal decorate garden ticket";
+var mnemonic = "feed caution school artist festival nose february wild menu observe wrong gallery";

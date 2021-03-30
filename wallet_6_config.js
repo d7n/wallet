@@ -1,1 +1,1 @@
-var mnemonic = "swap cancel ladder state wolf monkey lake sadness cook portion neutral zebra";
+var mnemonic = "sell game ocean gold country business deal garden aware rather beauty idle";

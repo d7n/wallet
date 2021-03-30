@@ -1,1 +1,1 @@
-var mnemonic = "kite globe convince museum sick pitch hidden useless gain such share little";
+var mnemonic = "demise flock army awkward neutral rice exotic basket exile update peanut news";

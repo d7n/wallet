@@ -1,1 +1,1 @@
-var mnemonic = "snack cute hidden great crew zebra marble enact fault sibling manage regret";
+var mnemonic = "way vessel nut craft observe scatter supreme sail nurse patch birth narrow";

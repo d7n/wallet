@@ -1,1 +1,1 @@
-var mnemonic = "soda pair worth ocean wisdom kick story divorce sunset input split stool";
+var mnemonic = "purse vapor review ride make galaxy rate prepare bring truly eyebrow sign";

@@ -1,1 +1,1 @@
-var mnemonic = "initial keen dance main hood entire sight olive square table loop december";
+var mnemonic = "client fruit spy either vendor leopard firm unable blur scatter wash chaos";

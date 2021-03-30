@@ -1,1 +1,1 @@
-var mnemonic = "hidden grape width heart foot loud admit seven gravity reflect that bunker";
+var mnemonic = "crane used very deal ostrich deer tackle pigeon control pelican stay anchor";

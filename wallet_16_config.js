@@ -1,1 +1,1 @@
-var mnemonic = "debris carry draw choice client initial circle guilt market index body improve";
+var mnemonic = "poem moment hope organ desk wood toe satisfy lizard swarm vacuum drop";

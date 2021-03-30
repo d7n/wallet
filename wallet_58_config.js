@@ -1,1 +1,1 @@
-var mnemonic = "tourist aisle winter ethics lady month gold dirt later unaware unique rib";
+var mnemonic = "extend reform rocket zone soul blanket skill tortoise wage scrap short fish";

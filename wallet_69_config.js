@@ -1,1 +1,1 @@
-var mnemonic = "join later furnace fog fire frozen bargain mirror table beyond orchard afford";
+var mnemonic = "icon cry panda talk cruel outdoor burst claim chair undo audit knock";

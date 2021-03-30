@@ -1,1 +1,1 @@
-var mnemonic = "diet ask throw stick now steel cruel home upgrade clean cabin soap";
+var mnemonic = "success vehicle elder inspire obscure sand process tumble hybrid nothing reject witness";

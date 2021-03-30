@@ -1,1 +1,1 @@
-var mnemonic = "illness away judge adapt wash unit that base monster account limb van";
+var mnemonic = "swarm boat arrange street intact buyer bottom swim hair spend city friend";

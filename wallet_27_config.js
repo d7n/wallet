@@ -1,1 +1,1 @@
-var mnemonic = "sunny milk message rally plug favorite blossom obscure knife kitchen motion climb";
+var mnemonic = "want above sight supply brush casual first salute enjoy budget athlete diamond";

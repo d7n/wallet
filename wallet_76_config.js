@@ -1,1 +1,1 @@
-var mnemonic = "soap cute forward upon subject slide above pottery draw mirror once divert";
+var mnemonic = "desert citizen pole holiday regret random balcony cupboard few monster napkin mixed";

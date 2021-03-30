@@ -1,1 +1,1 @@
-var mnemonic = "seminar refuse coffee marble cinnamon wing height found under fitness among idea";
+var mnemonic = "rival leader reward sauce obtain quote speak resemble jaguar topic book private";

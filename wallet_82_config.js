@@ -1,1 +1,1 @@
-var mnemonic = "senior present snack wheel culture gown fox eye hurt coast blouse midnight";
+var mnemonic = "search taste adult usual truth then blush off stumble snap fiber cement";

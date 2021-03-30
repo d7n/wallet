@@ -1,1 +1,1 @@
-var mnemonic = "modify sight basic transfer slim cruel box usual keep wrap mistake jungle";
+var mnemonic = "file market control carbon friend fine horror indoor sign finger envelope roof";

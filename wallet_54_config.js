@@ -1,1 +1,1 @@
-var mnemonic = "sketch pilot match six silver pear cereal favorite team spirit fringe spot";
+var mnemonic = "kiss abandon play cotton rapid upgrade exile faculty arrange curious seven soda";

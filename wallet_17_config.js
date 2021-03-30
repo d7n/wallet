@@ -1,1 +1,1 @@
-var mnemonic = "soft despair sphere mountain oyster attitude chronic timber stadium evidence season umbrella";
+var mnemonic = "excuse tumble frozen two fish country sugar elder six feature over off";

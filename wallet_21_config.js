@@ -1,1 +1,1 @@
-var mnemonic = "arch body stock pizza wise glad twice bench kidney vote marine wing";
+var mnemonic = "brown kind goddess blind noise load property find absorb oxygen inch hub";

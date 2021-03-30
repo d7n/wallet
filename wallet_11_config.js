@@ -1,1 +1,1 @@
-var mnemonic = "heart kiwi design fun rhythm trial viable rib solution weapon festival vibrant";
+var mnemonic = "muffin play company floor anchor clean critic idle noise also lecture endless";

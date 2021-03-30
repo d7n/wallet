@@ -1,1 +1,1 @@
-var mnemonic = "evidence manage correct loud matrix actress sausage blue ill inherit maid swarm";
+var mnemonic = "vivid dune silly latin sentence soup napkin adult speed tone parade enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "strong toward taxi fatal marine settle web seek shock choose vacant estate";
+var mnemonic = "chef volume lazy impulse universe wheel casual able this demand sport fold";

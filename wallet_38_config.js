@@ -1,1 +1,1 @@
-var mnemonic = "analyst float merry subway across about deposit tone century party liar census";
+var mnemonic = "girl govern remove viable begin render hobby tumble shy name hip broken";

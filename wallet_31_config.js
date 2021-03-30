@@ -1,1 +1,1 @@
-var mnemonic = "bird same argue smoke fold hold ethics crisp south jump talent keen";
+var mnemonic = "fatal fee mail desk gain couch bomb ugly proud draw private harvest";

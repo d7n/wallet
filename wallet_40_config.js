@@ -1,1 +1,1 @@
-var mnemonic = "hockey review column consider render brain when castle asthma march priority patient";
+var mnemonic = "hood bird carbon below define wine dentist accident viable midnight attitude mixture";

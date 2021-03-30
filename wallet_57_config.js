@@ -1,1 +1,1 @@
-var mnemonic = "focus ritual broom someone hammer make custom make exile protect royal choice";
+var mnemonic = "artist candy science obtain fat wagon tell possible beyond antique avocado cluster";

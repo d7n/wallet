@@ -1,1 +1,1 @@
-var mnemonic = "hawk verb mask artefact gym jazz project skin host try wink sword";
+var mnemonic = "hurry execute renew fold claw boost tent mistake lucky keep welcome good";

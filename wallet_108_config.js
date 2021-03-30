@@ -1,1 +1,1 @@
-var mnemonic = "doctor picture brisk eyebrow job home common congress recycle eternal clown quantum";
+var mnemonic = "cricket two client diet major accident leisure comfort breeze unveil boy boat";

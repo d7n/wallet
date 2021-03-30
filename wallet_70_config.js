@@ -1,1 +1,1 @@
-var mnemonic = "year broom pact rookie fiction season friend knee parent foil weasel limit";
+var mnemonic = "suspect crouch prevent enroll warfare rug sting heavy congress squirrel lens inherit";

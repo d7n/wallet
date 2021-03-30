@@ -1,1 +1,1 @@
-var mnemonic = "absurd creek dinosaur body enact number suit chat novel eye book bargain";
+var mnemonic = "swear smart harsh flash sibling omit relax cube patch ranch pottery dry";

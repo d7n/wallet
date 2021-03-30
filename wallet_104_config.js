@@ -1,1 +1,1 @@
-var mnemonic = "smoke buffalo guard accident agent obscure tube differ asthma glad reward fish";
+var mnemonic = "cushion salute gaze party brave sudden ability demise gesture year alien tongue";

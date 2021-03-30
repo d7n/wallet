@@ -1,1 +1,1 @@
-var mnemonic = "sport word spot sunset thank cat buddy middle dinner quarter task multiply";
+var mnemonic = "eye eagle design angle debate quiz verb edit lift visit demand cute";

@@ -1,1 +1,1 @@
-var mnemonic = "friend scrub brick exist retreat song slight pumpkin sport valid become slab";
+var mnemonic = "final pulp glide release minute clap human firm dry civil observe museum";

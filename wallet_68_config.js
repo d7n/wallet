@@ -1,1 +1,1 @@
-var mnemonic = "palace impact key scare word pelican good surprise now spoon spirit dance";
+var mnemonic = "poem pretty project enemy make thumb tunnel drip cancel code clay emerge";

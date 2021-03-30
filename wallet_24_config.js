@@ -1,1 +1,1 @@
-var mnemonic = "math fish injury capital disorder sign year manage weasel primary job truth";
+var mnemonic = "choice drive seven brief inquiry fever donkey art artist fury mechanic behind";

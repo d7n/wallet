@@ -1,1 +1,1 @@
-var mnemonic = "dirt nature vague club question document gentle symbol permit again snow print";
+var mnemonic = "crouch nerve useless april grunt monitor laptop damp dynamic top festival board";

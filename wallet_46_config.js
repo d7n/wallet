@@ -1,1 +1,1 @@
-var mnemonic = "canvas summer submit remind planet lady damp exist city meadow box grab";
+var mnemonic = "gas recycle person suit six lumber assume swap six annual gate retire";

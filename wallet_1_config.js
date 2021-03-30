@@ -1,1 +1,1 @@
-var mnemonic = "script glare two pizza media advance aisle armor grace concert accuse erase";
+var mnemonic = "success they orient summer river breeze jazz girl visual gain whip flavor";

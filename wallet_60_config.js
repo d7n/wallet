@@ -1,1 +1,1 @@
-var mnemonic = "boy lady jacket tomorrow retreat enrich remain biology school achieve dream grief";
+var mnemonic = "apology ordinary nephew entry beauty despair fuel educate giant piece term cluster";

@@ -1,1 +1,1 @@
-var mnemonic = "family lyrics latin photo say celery ceiling lemon symbol earn call dish";
+var mnemonic = "broken giant base glory math task method frozen monitor invite giant pave";

@@ -1,1 +1,1 @@
-var mnemonic = "cause cancel across pass outside over figure swear recall coyote shaft island";
+var mnemonic = "pizza opera claw immense yellow cry viable control raven carpet scrap clerk";

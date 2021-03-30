@@ -1,1 +1,1 @@
-var mnemonic = "chicken chronic warfare napkin artwork mosquito beyond emotion spray slow bacon solar";
+var mnemonic = "market burst person dutch dilemma doll wedding upon pony profit whip congress";

@@ -1,1 +1,1 @@
-var mnemonic = "margin bid caution bean must place kid book mail endless actor above";
+var mnemonic = "rent dune bronze hockey immense absurd fiscal gauge month spell shell sort";

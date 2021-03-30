@@ -1,1 +1,1 @@
-var mnemonic = "obvious before train fun attack flight want require letter affair lend again";
+var mnemonic = "strong know rate sustain length coffee input chase wink donate chair dust";

@@ -1,1 +1,1 @@
-var mnemonic = "churn evidence expand donor gather guitar axis guard license drive cradle toy";
+var mnemonic = "innocent piece anxiety before shy solid help attack you matrix goose opera";

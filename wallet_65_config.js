@@ -1,1 +1,1 @@
-var mnemonic = "shrimp hotel voice simple planet city achieve embark pudding siege fruit secret";
+var mnemonic = "paddle across small subject safe erase initial abandon topple typical shove actor";

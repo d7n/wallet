@@ -1,1 +1,1 @@
-var mnemonic = "layer wife allow fork lyrics bubble permit wage hint chief tape coach";
+var mnemonic = "decade feature leaf exile wire sunset will coyote popular extend bag ugly";

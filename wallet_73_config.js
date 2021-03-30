@@ -1,1 +1,1 @@
-var mnemonic = "tornado dynamic clerk latin good size shy chronic island resource illegal become";
+var mnemonic = "weather access mosquito nature soda afraid flight magnet prize human people street";
