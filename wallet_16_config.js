@@ -1,1 +1,1 @@
-var mnemonic = "mean move caught arm judge frozen addict seminar debate jar position happy";
+var mnemonic = "clog kit crumble wreck surge actor spawn naive pigeon apple glimpse crop";

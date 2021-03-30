@@ -1,1 +1,1 @@
-var mnemonic = "comic increase before brisk harbor impose olive clog dial open parrot bind";
+var mnemonic = "supply chapter turtle fantasy leisure town invest guide flash abuse tired rebel";

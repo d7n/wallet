@@ -1,1 +1,1 @@
-var mnemonic = "gym early scrap camera electric lucky basic lab theme gloom inch coffee";
+var mnemonic = "rotate rude same eyebrow bring diet wrist merit dismiss then medal roof";

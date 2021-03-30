@@ -1,1 +1,1 @@
-var mnemonic = "shoulder carbon position win inner pioneer sudden cotton price few wage calm";
+var mnemonic = "loop notable lazy write divide unaware wise treat escape deer buffalo unhappy";

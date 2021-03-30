@@ -1,1 +1,1 @@
-var mnemonic = "sketch hamster chaos siren cave machine tone season coyote aware dune panel";
+var mnemonic = "fluid hawk track man argue because bean draw proof prosper april oven";

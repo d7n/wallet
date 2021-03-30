@@ -1,1 +1,1 @@
-var mnemonic = "neither another name buddy fragile water tip phone security force clarify bag";
+var mnemonic = "ahead abstract avocado elephant chicken bring polar virtual sleep burst hope glass";

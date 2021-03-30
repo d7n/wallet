@@ -1,1 +1,1 @@
-var mnemonic = "inherit argue debris velvet misery future nothing indicate engine buzz car seat";
+var mnemonic = "give amazing suit rib fatigue jealous math spread lab giant security goose";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom hello limb glimpse silver chase rude scorpion lady leave comic strong";
+var mnemonic = "focus miss latin mean network mansion gap ocean dinosaur viable method spawn";

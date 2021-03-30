@@ -1,1 +1,1 @@
-var mnemonic = "truly latin depend swap load wave voyage project horn more height grain";
+var mnemonic = "first life endorse measure harsh wish victory tilt pact plug wear hungry";

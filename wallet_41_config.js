@@ -1,1 +1,1 @@
-var mnemonic = "long stem person blade magic patch quarter make foster palm chalk domain";
+var mnemonic = "bonus hip infant motion bus live soon ignore field antenna seat shed";

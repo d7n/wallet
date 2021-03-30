@@ -1,1 +1,1 @@
-var mnemonic = "aunt test clean floor now sell glow blind submit dwarf bind mountain";
+var mnemonic = "thank hurt cricket bulk essay near feature earn inmate only silent category";

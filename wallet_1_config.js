@@ -1,1 +1,1 @@
-var mnemonic = "lecture abuse north plug rigid afraid twelve prepare travel fog drastic issue";
+var mnemonic = "receive error unit analyst kitchen rebel butter add climb stick build grunt";

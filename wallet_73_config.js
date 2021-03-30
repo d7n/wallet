@@ -1,1 +1,1 @@
-var mnemonic = "service shiver photo flash despair ahead test prefer such cave bread survey";
+var mnemonic = "gas lens tomorrow always zebra blossom mesh visual man pumpkin quick pyramid";

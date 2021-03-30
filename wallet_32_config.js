@@ -1,1 +1,1 @@
-var mnemonic = "ladder coconut snack atom head bomb describe escape possible amazing acquire blush";
+var mnemonic = "candy tuition zebra swallow chat course replace tenant swing path imitate hard";

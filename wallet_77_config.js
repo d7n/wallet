@@ -1,1 +1,1 @@
-var mnemonic = "hover sugar mad list imitate story permit unhappy wise abuse suspect lottery";
+var mnemonic = "flag spin brisk outer tumble upper antique visual ghost sunset manage poet";

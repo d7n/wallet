@@ -1,1 +1,1 @@
-var mnemonic = "word moment cheap pulp load print mom announce skirt armed shoe sport";
+var mnemonic = "draw six then purchase cup treat pact future please predict duty fox";

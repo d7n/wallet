@@ -1,1 +1,1 @@
-var mnemonic = "sausage vapor chase south gas course veteran wheat sample hamster exit video";
+var mnemonic = "celery remember onion side inherit theme fancy neck royal stage assault connect";

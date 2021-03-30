@@ -1,1 +1,1 @@
-var mnemonic = "sure drastic orphan fantasy heavy clog tide donate excess hard sight frozen";
+var mnemonic = "climb kick elegant follow lawn stereo perfect sheriff swing gaze pizza acoustic";

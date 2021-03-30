@@ -1,1 +1,1 @@
-var mnemonic = "net space farm oblige usage rural brush series busy spirit hundred junk";
+var mnemonic = "summer inhale feed about tank mystery kid hungry bachelor cloud bridge rebel";

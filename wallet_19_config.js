@@ -1,1 +1,1 @@
-var mnemonic = "valve cement sadness deny kingdom clutch project work certain concert type plug";
+var mnemonic = "divert present card sound excite jewel wolf south pool patch cable pig";

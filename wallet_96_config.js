@@ -1,1 +1,1 @@
-var mnemonic = "excess combine remove estate inject keen urge park atom loan unaware tourist";
+var mnemonic = "panda together dance give heart talk coin firm oval frozen ordinary riot";

@@ -1,1 +1,1 @@
-var mnemonic = "note risk faint number exist code ceiling solar luxury harvest offer purchase";
+var mnemonic = "humor afraid between business shrimp cousin pilot urge atom stairs reason logic";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion good coyote topple sorry suffer ankle jaguar away machine liar horror";
+var mnemonic = "soap impact frog report remain fringe dutch change unfair exhibit idea okay";

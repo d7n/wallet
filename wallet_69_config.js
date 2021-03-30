@@ -1,1 +1,1 @@
-var mnemonic = "fat slow muscle pelican close gadget young invest stairs fresh buyer buffalo";
+var mnemonic = "mimic comfort city setup toast plunge limit tumble raise electric donate rule";

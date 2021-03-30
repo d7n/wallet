@@ -1,1 +1,1 @@
-var mnemonic = "echo ranch ship miss gun wreck case spare body rib cake nominee";
+var mnemonic = "situate boring autumn gospel derive code advance modify spy guess claw used";

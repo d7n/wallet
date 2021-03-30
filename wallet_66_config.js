@@ -1,1 +1,1 @@
-var mnemonic = "child muffin cake response alcohol alone march useless foil fury foil suggest";
+var mnemonic = "grab mimic boy ahead kid tube priority answer decrease service axis purse";

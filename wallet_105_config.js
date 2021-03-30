@@ -1,1 +1,1 @@
-var mnemonic = "myself offer monkey output point candy other mixture miss wise front setup";
+var mnemonic = "shove cause deposit screen ladder speed confirm endorse road unlock rebel income";

@@ -1,1 +1,1 @@
-var mnemonic = "swim hurt act feed public wrist embody start teach sauce bullet update";
+var mnemonic = "helmet legend address tower fortune prize truck polar small palace surround globe";

@@ -1,1 +1,1 @@
-var mnemonic = "setup tank network sure cube fit harbor volcano patient spatial siege sausage";
+var mnemonic = "worth paddle wood notice junk text trick maid lumber hello release truth";

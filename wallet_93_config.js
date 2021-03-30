@@ -1,1 +1,1 @@
-var mnemonic = "kiss label web possible rebel jelly fall theory ramp cotton filter motion";
+var mnemonic = "bicycle cotton amateur oblige chalk betray wedding enact virtual kitchen occur cart";

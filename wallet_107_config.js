@@ -1,1 +1,1 @@
-var mnemonic = "grace canoe dinosaur scissors leaf bind foster mix alley math inner power";
+var mnemonic = "fashion capital total pink fit alpha kangaroo define merit essay onion elite";

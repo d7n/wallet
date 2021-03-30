@@ -1,1 +1,1 @@
-var mnemonic = "invite cinnamon comic window depart sport tongue stem coffee ridge box useful";
+var mnemonic = "what arrange office casual limb present design grace spare quote injury stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "few police amazing lend club negative wrong flush choose royal bid hour";
+var mnemonic = "border security lock toddler trouble fluid seed consider will cry private naive";

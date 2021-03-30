@@ -1,1 +1,1 @@
-var mnemonic = "project goddess fury actual refuse inflict victory dwarf myself tobacco invite million";
+var mnemonic = "shoulder nuclear valve cost enemy license chest audit average unable exit december";

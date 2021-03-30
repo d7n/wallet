@@ -1,1 +1,1 @@
-var mnemonic = "wait ankle twelve nation taxi silent copper outside where quote dune advance";
+var mnemonic = "actual order solar garage essence movie clock hair order front door door";

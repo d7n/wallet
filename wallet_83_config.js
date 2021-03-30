@@ -1,1 +1,1 @@
-var mnemonic = "verify depend barely enjoy owner replace crisp kid sudden analyst narrow before";
+var mnemonic = "decrease coffee plastic bamboo input excess hat boat amused help census cancel";

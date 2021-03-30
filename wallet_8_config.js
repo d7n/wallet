@@ -1,1 +1,1 @@
-var mnemonic = "renew pass very disagree blast situate super shield wife gloom robust later";
+var mnemonic = "lizard flat surface shadow mistake able lemon depart whip burst census popular";

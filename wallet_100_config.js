@@ -1,1 +1,1 @@
-var mnemonic = "desk frost soon metal talent plastic bonus promote stamp gown easy combine";
+var mnemonic = "radio convince attend target maximum remind tomorrow nation quarter guide miracle flee";

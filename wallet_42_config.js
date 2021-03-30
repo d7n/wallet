@@ -1,1 +1,1 @@
-var mnemonic = "garden oven just plunge absurd drop immense describe then honey tonight flag";
+var mnemonic = "vacuum canvas consider alpha transfer grocery bird vicious cabin ten traffic affair";

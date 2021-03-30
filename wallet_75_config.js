@@ -1,1 +1,1 @@
-var mnemonic = "atom water domain source author cable crater shadow verb evoke creek hollow";
+var mnemonic = "siren service private pumpkin upon naive refuse forget enlist inhale case river";

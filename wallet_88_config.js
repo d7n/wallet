@@ -1,1 +1,1 @@
-var mnemonic = "need smile cram found charge control scrap quiz violin bind boost brief";
+var mnemonic = "steel cattle garbage volcano receive mixture wheel prefer potato limb desert cheap";

@@ -1,1 +1,1 @@
-var mnemonic = "phone almost rally very gown crunch produce merry fade arena glory animal";
+var mnemonic = "piece response swing common brick wrong grain wish logic hungry wreck stairs";

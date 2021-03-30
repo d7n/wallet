@@ -1,1 +1,1 @@
-var mnemonic = "giant sweet gauge betray club physical smooth walnut because dose tunnel spatial";
+var mnemonic = "aerobic found clever cart model say fox result child cereal document valley";

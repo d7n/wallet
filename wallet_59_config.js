@@ -1,1 +1,1 @@
-var mnemonic = "father profit company wing meat fog park diesel manual invite pass dinner";
+var mnemonic = "forum mesh fancy joy cinnamon advice vault kit emotion jazz melody order";

@@ -1,1 +1,1 @@
-var mnemonic = "execute bonus begin enforce tongue snack apple hybrid chimney arrive winner penalty";
+var mnemonic = "hamster sure universe craft laugh lizard edge crouch pigeon social learn coach";

@@ -1,1 +1,1 @@
-var mnemonic = "evoke clock reveal crew boring page film finish divide legend bracket twist";
+var mnemonic = "child price blush street magnet future patch dance return current scheme grab";

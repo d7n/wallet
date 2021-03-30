@@ -1,1 +1,1 @@
-var mnemonic = "liquid limit subject avoid base picnic seat true average brief ready baby";
+var mnemonic = "you town mammal heart since prepare grant castle absorb flash endorse hope";

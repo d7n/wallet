@@ -1,1 +1,1 @@
-var mnemonic = "response army oval rent supreme ability seminar appear merry assist danger tomorrow";
+var mnemonic = "meadow address dry trick base thought lion indicate exclude clay fiscal time";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby flock silly certain indoor faint smile sponsor glass jeans rule round";
+var mnemonic = "universe what chapter panel flock strategy ginger panic skate train ivory dust";

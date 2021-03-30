@@ -1,1 +1,1 @@
-var mnemonic = "gown advice bar dry outer amused fog adult oppose someone ordinary afraid";
+var mnemonic = "dose where reward give stomach keep okay such april certain order love";

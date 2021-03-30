@@ -1,1 +1,1 @@
-var mnemonic = "napkin note valley mail orbit patient dumb this space cake feed wire";
+var mnemonic = "laugh erosion deputy glory trap tape vacant bring before thumb property float";

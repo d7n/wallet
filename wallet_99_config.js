@@ -1,1 +1,1 @@
-var mnemonic = "lend casual search stable shrug relax clown snow captain twin latin easily";
+var mnemonic = "endless stock foster mean collect embark size sausage near erosion attitude unveil";

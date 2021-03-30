@@ -1,1 +1,1 @@
-var mnemonic = "roof limit deliver inject shock bless rabbit neck review adapt chunk duck";
+var mnemonic = "eye napkin sunset guitar tooth pottery chair onion iron screen chat knife";

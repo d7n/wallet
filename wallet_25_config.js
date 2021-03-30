@@ -1,1 +1,1 @@
-var mnemonic = "dance arrest grief deny news month force isolate wife predict horror bleak";
+var mnemonic = "paper person act crop vocal surface exclude edit trash pear torch oyster";

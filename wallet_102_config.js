@@ -1,1 +1,1 @@
-var mnemonic = "add solar quality tide muscle shield rib lyrics plunge twelve illegal title";
+var mnemonic = "chest analyst guilt auto quit word welcome canal rail birth only echo";

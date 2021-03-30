@@ -1,1 +1,1 @@
-var mnemonic = "depth fox nice busy economy rally between robot solar dizzy dash hat";
+var mnemonic = "hub pelican industry call stumble worth below merry volume poverty cover toilet";

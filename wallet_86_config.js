@@ -1,1 +1,1 @@
-var mnemonic = "rib soccer salon raise dress ignore level throw pencil leaf nuclear cover";
+var mnemonic = "proud predict custom mad gloom raw average frown attend sausage pulse gasp";

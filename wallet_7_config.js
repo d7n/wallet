@@ -1,1 +1,1 @@
-var mnemonic = "health survey honey hen attack place canyon retire theme hub dignity lamp";
+var mnemonic = "cheese bag rule update bullet lunar kid lady possible warfare taxi visit";

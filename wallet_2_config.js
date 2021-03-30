@@ -1,1 +1,1 @@
-var mnemonic = "cluster help reveal brass client install castle text habit access patient round";
+var mnemonic = "trap knee early original salmon hurdle trick host purpose bounce smart hope";

@@ -1,1 +1,1 @@
-var mnemonic = "corn maid shock reduce salt barely until board amateur keep small lunar";
+var mnemonic = "panel duty orphan rib merge local will stand ski tonight language emotion";

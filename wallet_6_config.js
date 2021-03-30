@@ -1,1 +1,1 @@
-var mnemonic = "mandate magic hawk space cheap cat enemy must thought write hunt atom";
+var mnemonic = "involve program anxiety salt picture suspect cinnamon curious rebuild ginger trigger scout";

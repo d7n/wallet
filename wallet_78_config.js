@@ -1,1 +1,1 @@
-var mnemonic = "cram dutch win right boss melt sadness furnace consider emotion ivory isolate";
+var mnemonic = "upgrade beauty panic leisure chest menu traffic march jealous involve inside horror";

@@ -1,1 +1,1 @@
-var mnemonic = "rice luggage mail fork slim because put sweet rice pluck level whisper";
+var mnemonic = "hello slide web trumpet nature address feel design find rebuild fantasy sweet";

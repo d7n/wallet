@@ -1,1 +1,1 @@
-var mnemonic = "lucky improve father polar view predict tree push divert scene festival fiction";
+var mnemonic = "furnace butter alert phone luxury blur radio impact rhythm bird earth soldier";

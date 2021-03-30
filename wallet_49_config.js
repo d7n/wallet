@@ -1,1 +1,1 @@
-var mnemonic = "buffalo eye impact rude boy early run logic wise emotion remind harsh";
+var mnemonic = "tongue harvest depth board dice brief chat melt update pizza few scale";

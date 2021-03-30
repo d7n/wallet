@@ -1,1 +1,1 @@
-var mnemonic = "luggage garbage combine sheriff balance wool abstract cook torch two travel tomato";
+var mnemonic = "fatigue account gossip aspect intact actress area summer find bus main frame";

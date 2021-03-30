@@ -1,1 +1,1 @@
-var mnemonic = "gadget hat midnight high dress lamp process fox route middle suggest legal";
+var mnemonic = "arctic gun about punch jazz spike paper clock educate junior cargo ahead";

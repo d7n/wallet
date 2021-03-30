@@ -1,1 +1,1 @@
-var mnemonic = "flip hundred badge dose mom depth same father brick leader tongue dial";
+var mnemonic = "stand manual negative baby stove slow uphold vanish pistol message atom another";

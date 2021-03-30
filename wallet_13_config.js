@@ -1,1 +1,1 @@
-var mnemonic = "finger garden sauce soup army cannon vintage concert health ensure awkward true";
+var mnemonic = "stove coral review enemy crunch debate bone pencil junior olympic orphan drift";

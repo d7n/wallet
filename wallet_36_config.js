@@ -1,1 +1,1 @@
-var mnemonic = "picnic filter express advice program tomato giraffe mass multiply bullet among assault";
+var mnemonic = "input loan lift unique stool wool sheriff neither oak cost senior install";

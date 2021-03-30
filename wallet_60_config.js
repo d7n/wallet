@@ -1,1 +1,1 @@
-var mnemonic = "jaguar pizza obscure pretty mask dilemma april lesson salmon item real soccer";
+var mnemonic = "snake critic attract sting air couple image people bundle rose illegal congress";

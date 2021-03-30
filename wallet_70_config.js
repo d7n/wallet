@@ -1,1 +1,1 @@
-var mnemonic = "coyote cupboard pool culture fame magnet hill body secret follow since buzz";
+var mnemonic = "sister burden license stadium tonight siege salad describe harbor slow deny pull";

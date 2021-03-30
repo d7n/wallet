@@ -1,1 +1,1 @@
-var mnemonic = "coach luxury album wonder hole rib invite exit deny save captain arctic";
+var mnemonic = "snap section once middle holiday library wash dream base aunt saddle upon";

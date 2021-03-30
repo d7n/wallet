@@ -1,1 +1,1 @@
-var mnemonic = "language cement improve gallery blood crowd famous three obscure join end wheel";
+var mnemonic = "embark situate salt noodle marriage era cheese any adjust arm mountain snake";

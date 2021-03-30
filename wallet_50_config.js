@@ -1,1 +1,1 @@
-var mnemonic = "alone carry mandate token fold assault hold grocery abuse april age subway";
+var mnemonic = "alter office people april addict young stock sentence balcony pole outside runway";

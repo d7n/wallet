@@ -1,1 +1,1 @@
-var mnemonic = "boil casual word happy double axis arrange gallery gauge noodle spider lazy";
+var mnemonic = "quiz royal turn replace virus drum company trouble wisdom surprise unknown tooth";

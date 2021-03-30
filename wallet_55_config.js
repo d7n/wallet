@@ -1,1 +1,1 @@
-var mnemonic = "casino daring defense fantasy wild couch rigid slam milk then anger note";
+var mnemonic = "oak hybrid lumber man bubble shoulder topic ugly essay weekend follow moon";

@@ -1,1 +1,1 @@
-var mnemonic = "pipe rescue reflect ostrich hero wink valley erupt surround theory canyon flee";
+var mnemonic = "wood joy follow toast until track pause clutch apology describe donkey praise";

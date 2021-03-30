@@ -1,1 +1,1 @@
-var mnemonic = "rent bus moon clump couch artefact someone echo march weekend hundred that";
+var mnemonic = "athlete spy agent ignore whale awesome pencil tissue jar used water blossom";

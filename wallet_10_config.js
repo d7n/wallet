@@ -1,1 +1,1 @@
-var mnemonic = "edge decide salmon mutual double echo vessel shy certain aerobic about give";
+var mnemonic = "glimpse access fashion pond radio detect either garage cram dilemma recall shoe";

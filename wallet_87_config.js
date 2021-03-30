@@ -1,1 +1,1 @@
-var mnemonic = "chaos document wild better buffalo camp gym expect like trap drink find";
+var mnemonic = "palace will sea scheme grow fever begin liberty scrub first album aware";

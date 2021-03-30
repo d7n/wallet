@@ -1,1 +1,1 @@
-var mnemonic = "stairs unlock into divide humor lawsuit ticket fiscal novel job tragic relax";
+var mnemonic = "city swear shock pact exile top desert owner basic hurdle coin urban";

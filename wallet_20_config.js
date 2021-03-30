@@ -1,1 +1,1 @@
-var mnemonic = "salmon artefact monster prepare check endorse sock trim tank grape deputy property";
+var mnemonic = "vacuum whip punch spice atom payment mean movie sense ensure husband bag";

@@ -1,1 +1,1 @@
-var mnemonic = "candy program decide save love mango visit tape despair exhaust coyote two";
+var mnemonic = "hidden link hospital immune mirror jump adapt escape all faint fiscal rural";

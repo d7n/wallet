@@ -1,1 +1,1 @@
-var mnemonic = "resemble orange erosion volcano rocket north nut puppy federal casual excuse say";
+var mnemonic = "can only coast silent swap slush broom multiply merge bundle pepper acid";

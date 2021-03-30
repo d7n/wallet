@@ -1,1 +1,1 @@
-var mnemonic = "fringe neutral material inflict sausage strong length area scene chunk spell horror";
+var mnemonic = "spell steak puzzle where junk expose strike sword uncover plate bubble sponsor";

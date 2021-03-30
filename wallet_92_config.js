@@ -1,1 +1,1 @@
-var mnemonic = "theme advice parrot bullet insect marriage alarm sketch depend future blossom admit";
+var mnemonic = "club balcony click interest oxygen visual small biology style height link muscle";

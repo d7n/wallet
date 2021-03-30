@@ -1,1 +1,1 @@
-var mnemonic = "stuff soul agree figure tube shiver cement giraffe valid clinic rabbit much";
+var mnemonic = "enforce lock make lawsuit usual child shove shoe alert pledge tuna tongue";

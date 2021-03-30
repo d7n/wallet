@@ -1,1 +1,1 @@
-var mnemonic = "impose kangaroo divert card oblige weasel grape ensure stock present canvas warm";
+var mnemonic = "pony winter deliver camp poverty combine sort party nominee olympic crowd faith";

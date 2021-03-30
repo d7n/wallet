@@ -1,1 +1,1 @@
-var mnemonic = "creek develop side eight fence brand thank room asthma scatter pink need";
+var mnemonic = "tool nothing nest setup title mix vendor silk velvet material list yellow";

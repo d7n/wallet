@@ -1,1 +1,1 @@
-var mnemonic = "light follow core pool gentle canal mammal empty crime scorpion meadow float";
+var mnemonic = "hour select siren insane bid effort animal fever joy animal vocal forum";

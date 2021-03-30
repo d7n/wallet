@@ -1,1 +1,1 @@
-var mnemonic = "gap border arrange hair shift south benefit wood rule glow turn lunar";
+var mnemonic = "stone nuclear help menu access tornado leave traffic effort usual creek figure";

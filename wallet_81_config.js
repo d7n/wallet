@@ -1,1 +1,1 @@
-var mnemonic = "iron begin health own travel useful enough bacon notice giggle target tank";
+var mnemonic = "aunt over special good mad plastic west mad solar latin juice cook";

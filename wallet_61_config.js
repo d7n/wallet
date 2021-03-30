@@ -1,1 +1,1 @@
-var mnemonic = "judge bridge exhaust gift action remove unknown trip faculty garbage dad sock";
+var mnemonic = "suspect better street oak current major street resist cousin enable armor fatal";

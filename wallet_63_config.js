@@ -1,1 +1,1 @@
-var mnemonic = "flock gauge couple winner blanket crazy recall wife asthma dynamic december meat";
+var mnemonic = "attack video salad slender draft couple easily brick suspect kiss fork wet";

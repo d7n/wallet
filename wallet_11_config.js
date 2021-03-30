@@ -1,1 +1,1 @@
-var mnemonic = "earth salute stool flip swing setup onion absorb glove crane small alter";
+var mnemonic = "demise engage noise bridge private reunion man volcano eternal naive hamster vibrant";

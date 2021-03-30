@@ -1,1 +1,1 @@
-var mnemonic = "buddy matrix intact clean kite title genre trim lazy arm whisper salmon";
+var mnemonic = "language churn copper clutch fly zone width dilemma flight surprise satoshi flee";
