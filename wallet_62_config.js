@@ -1,1 +1,1 @@
-var mnemonic = "fossil whip fan exist job until panther cabin present amused grocery laugh";
+var mnemonic = "nasty kiwi afford phone circle globe mix tennis recall know size embody";

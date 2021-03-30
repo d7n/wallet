@@ -1,1 +1,1 @@
-var mnemonic = "fan vocal hammer dirt forest position fruit habit input wish drastic pudding";
+var mnemonic = "rubber build basket nasty bleak memory topple tonight provide tongue cheese ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "rule steel index shield basket wall obvious element trust price cement boy";
+var mnemonic = "desert taxi tooth fruit cycle harsh accuse claim visit gadget inside motion";

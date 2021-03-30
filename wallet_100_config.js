@@ -1,1 +1,1 @@
-var mnemonic = "frequent refuse thrive donor brown road flavor limit dawn net rain tennis";
+var mnemonic = "nose same panel various swap avoid champion chunk music awkward rural clog";

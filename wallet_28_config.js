@@ -1,1 +1,1 @@
-var mnemonic = "media trade paper subject dress payment quarter cinnamon say sand distance anxiety";
+var mnemonic = "harbor whisper differ erase youth initial rural around advice tired pave weapon";

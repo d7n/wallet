@@ -1,1 +1,1 @@
-var mnemonic = "song olympic jar gasp fatigue mesh gloom alert birth state shed company";
+var mnemonic = "march ginger census best use spray ankle orchard love point armed home";

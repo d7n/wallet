@@ -1,1 +1,1 @@
-var mnemonic = "behave summer decorate ski bring quit various wonder black club topple what";
+var mnemonic = "this cross area like apology measure mechanic blur thumb sock random alien";

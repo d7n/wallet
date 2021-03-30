@@ -1,1 +1,1 @@
-var mnemonic = "tourist winner car discover cargo dream scan best prison blade bulk save";
+var mnemonic = "client piano zoo install valid burden exit suit ethics gym stand trial";

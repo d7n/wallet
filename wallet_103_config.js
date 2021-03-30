@@ -1,1 +1,1 @@
-var mnemonic = "mass slim crucial divorce document reflect guilt one lumber goat ozone author";
+var mnemonic = "salon vacuum smile scene almost pen wealth hip impulse sport accident ride";

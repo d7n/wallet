@@ -1,1 +1,1 @@
-var mnemonic = "link flock shiver people voyage garment network garbage inside snack wedding coffee";
+var mnemonic = "physical trash trip normal father rebuild require announce pledge multiply divide leader";

@@ -1,1 +1,1 @@
-var mnemonic = "creek release ketchup blame orient school bench motion two super increase second";
+var mnemonic = "mad illegal skin wrong engage census harvest task alpha post chaos coconut";

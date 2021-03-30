@@ -1,1 +1,1 @@
-var mnemonic = "prefer cabbage clean wisdom valid eye broom tape screen skirt head equip";
+var mnemonic = "settle jar project during soap betray horror rude crowd stamp misery decide";

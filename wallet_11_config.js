@@ -1,1 +1,1 @@
-var mnemonic = "short clump beyond always pencil hole mystery chimney wood grab observe morning";
+var mnemonic = "under imitate marine skirt upon hedgehog early few want crumble exhibit loop";

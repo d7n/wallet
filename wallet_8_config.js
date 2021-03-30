@@ -1,1 +1,1 @@
-var mnemonic = "raise primary ranch candy breeze crane depend north surge reflect exit grit";
+var mnemonic = "save forget plate rival write main away beyond predict humor turkey hamster";

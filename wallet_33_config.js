@@ -1,1 +1,1 @@
-var mnemonic = "utility throw property fatigue fold struggle friend denial risk impact draw seat";
+var mnemonic = "price alone multiply wheat mosquito guilt island deny office cream liar upset";

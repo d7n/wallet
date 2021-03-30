@@ -1,1 +1,1 @@
-var mnemonic = "three casual problem silver hawk assume erupt layer rival peace tumble web";
+var mnemonic = "float piano dumb glance egg top reunion pond print please print pluck";

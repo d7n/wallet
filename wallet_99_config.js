@@ -1,1 +1,1 @@
-var mnemonic = "credit south connect produce visit puzzle cheap nest genuine parent baby knock";
+var mnemonic = "boring paddle inject concert situate galaxy permit result logic like eyebrow hockey";

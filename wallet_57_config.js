@@ -1,1 +1,1 @@
-var mnemonic = "same present useless exotic nominee improve setup jar private cement hedgehog link";
+var mnemonic = "simple female umbrella curtain easy topple sad joke goose truth pistol open";

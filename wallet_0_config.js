@@ -1,1 +1,1 @@
-var mnemonic = "lounge around try system ticket segment dinosaur claw latin dirt must ensure";
+var mnemonic = "friend devote cousin nose lucky robot gain thrive crush umbrella galaxy move";

@@ -1,1 +1,1 @@
-var mnemonic = "olympic shed mansion color lake congress essence fresh sauce bomb carpet bleak";
+var mnemonic = "attack ride expire fault subject claw ordinary dizzy law blame century fever";

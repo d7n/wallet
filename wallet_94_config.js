@@ -1,1 +1,1 @@
-var mnemonic = "very click clown tuna rack bomb senior logic fire spread direct odor";
+var mnemonic = "rack machine clap planet barely high border husband dove box illness hollow";

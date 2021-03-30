@@ -1,1 +1,1 @@
-var mnemonic = "access fish extra thing wing nation crop cube entry pipe orchard indoor";
+var mnemonic = "rally prefer speed wire motor meat vivid already raise suggest way twenty";

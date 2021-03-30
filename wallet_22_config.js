@@ -1,1 +1,1 @@
-var mnemonic = "december civil clerk session hire federal solve prepare insane effort blade bronze";
+var mnemonic = "adjust enact diesel aware sorry salon phone appear front deer math civil";

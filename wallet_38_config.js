@@ -1,1 +1,1 @@
-var mnemonic = "chase gather wash forum piece project fly mask invest balance govern reduce";
+var mnemonic = "test song into hip enjoy lab budget recipe proof minimum round body";

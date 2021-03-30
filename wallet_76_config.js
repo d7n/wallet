@@ -1,1 +1,1 @@
-var mnemonic = "cupboard language evolve gasp address same fantasy boy ginger remember program science";
+var mnemonic = "bean patient thing future romance ticket chalk act crisp oxygen quick boy";

@@ -1,1 +1,1 @@
-var mnemonic = "motion symbol bless resource spirit great leisure team jacket foil loop alert";
+var mnemonic = "inquiry nurse worth rather nest solar notable fragile upgrade fold interest recall";

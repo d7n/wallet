@@ -1,1 +1,1 @@
-var mnemonic = "amount transfer orient proof curious man increase plate gown mind steel fiction";
+var mnemonic = "good gossip three there together foot enlist feed make final insect unfair";

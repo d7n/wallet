@@ -1,1 +1,1 @@
-var mnemonic = "chest buyer any eternal order exact brain jump quit country husband garage";
+var mnemonic = "ahead volume emerge survey cotton network paddle enhance silent thumb fine energy";

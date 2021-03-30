@@ -1,1 +1,1 @@
-var mnemonic = "private weather dwarf victory vibrant gorilla limb gown myth congress common vast";
+var mnemonic = "large hint fish venture satoshi mom mammal box section vapor never game";

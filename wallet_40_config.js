@@ -1,1 +1,1 @@
-var mnemonic = "identify squirrel capital ridge chuckle salad rookie sword slab quantum public weird";
+var mnemonic = "mushroom rabbit leg argue force curve refuse method turkey zoo gun strategy";

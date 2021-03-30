@@ -1,1 +1,1 @@
-var mnemonic = "two tenant track denial because exchange oyster jungle paper bean ritual hip";
+var mnemonic = "equal nominee flame frown height chair neglect service bid urban plate divert";

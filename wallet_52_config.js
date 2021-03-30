@@ -1,1 +1,1 @@
-var mnemonic = "neutral maze garbage put base arch debate tiny matter fall congress permit";
+var mnemonic = "movie uphold vintage erode hill small license check over print grain comic";

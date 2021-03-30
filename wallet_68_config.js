@@ -1,1 +1,1 @@
-var mnemonic = "dirt conduct absurd slush lamp exhibit polar guitar jar wrist face lock";
+var mnemonic = "common dragon nation thunder surge replace resource near brother ordinary ivory dice";

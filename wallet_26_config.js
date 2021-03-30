@@ -1,1 +1,1 @@
-var mnemonic = "absent mosquito balcony cute fiction deal library hill wisdom either monkey trumpet";
+var mnemonic = "scorpion title sugar glove round delay elegant fat glue loyal bunker blur";

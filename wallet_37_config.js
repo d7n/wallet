@@ -1,1 +1,1 @@
-var mnemonic = "leopard innocent hello mother price gospel zone question next rally desk audit";
+var mnemonic = "knee bottom small where yellow glad business ostrich kidney grief party provide";

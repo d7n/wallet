@@ -1,1 +1,1 @@
-var mnemonic = "city abuse slice claim verify move flip opinion noble original high tattoo";
+var mnemonic = "another change system winter syrup fever robust flash garage illness cat alcohol";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner olive cricket business charge wrist elephant barrel head like powder joy";
+var mnemonic = "gasp kick tongue creek glue claw crunch click rescue fresh remind unlock";

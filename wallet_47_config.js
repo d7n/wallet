@@ -1,1 +1,1 @@
-var mnemonic = "teach post jealous payment flip frozen chat hybrid civil lab attitude breeze";
+var mnemonic = "blade car gauge cruise tent begin exist observe isolate ostrich ridge slender";

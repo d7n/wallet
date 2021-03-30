@@ -1,1 +1,1 @@
-var mnemonic = "valid warfare umbrella vapor forget junior atom addict they only more have";
+var mnemonic = "parent expect interest inch slow hammer siege insane similar album crime urge";

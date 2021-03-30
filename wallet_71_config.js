@@ -1,1 +1,1 @@
-var mnemonic = "liquid great brisk present rural calm dress silk valid pulp solve feel";
+var mnemonic = "coffee hope town swing choice tank chair palace climb virus diet tell";

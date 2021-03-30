@@ -1,1 +1,1 @@
-var mnemonic = "tube ecology skin puzzle power vast urban wrestle climb acquire rural party";
+var mnemonic = "citizen leaf cube left scare tank domain mixed fatal car quick coin";

@@ -1,1 +1,1 @@
-var mnemonic = "beauty exhibit school flight egg luggage trophy barrel short same top visual";
+var mnemonic = "media stadium spare movie stomach shadow vicious shop nasty celery cliff fresh";

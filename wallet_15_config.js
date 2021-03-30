@@ -1,1 +1,1 @@
-var mnemonic = "glow wall skin coconut truck gentle planet school thumb task rotate garage";
+var mnemonic = "gas gold trouble decline hurdle slender slot lizard reflect caution wagon poet";

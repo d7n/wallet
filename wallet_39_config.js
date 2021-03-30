@@ -1,1 +1,1 @@
-var mnemonic = "next concert response brand race retreat name fiber immense weekend asthma neither";
+var mnemonic = "decade merge toe train wide jar choice suffer almost cheap tank filter";

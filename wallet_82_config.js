@@ -1,1 +1,1 @@
-var mnemonic = "seek donkey filter cube license invest kite visual title client buzz inject";
+var mnemonic = "fit dash pig tragic essence cover deal measure wreck avocado certain laundry";

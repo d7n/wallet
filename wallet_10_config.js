@@ -1,1 +1,1 @@
-var mnemonic = "olive august main iron arrow chest fan crane infant exclude fix flash";
+var mnemonic = "alcohol sting hotel head update bus palace color snow kiwi rich crunch";

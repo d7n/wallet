@@ -1,1 +1,1 @@
-var mnemonic = "hip brave mirror people depend utility clerk soul worry hole limit swear";
+var mnemonic = "struggle supreme enact planet maze south license tongue idea describe insane pause";

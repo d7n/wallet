@@ -1,1 +1,1 @@
-var mnemonic = "kid solar jaguar robust tourist resemble sure erupt mystery tackle distance menu";
+var mnemonic = "law ahead please wall describe cute dinner certain faith maple clay cross";

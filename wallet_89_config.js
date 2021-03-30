@@ -1,1 +1,1 @@
-var mnemonic = "silver receive like swallow clarify speak market field double ancient chimney soon";
+var mnemonic = "endorse bitter smart often power van shaft over bring nurse quote lamp";

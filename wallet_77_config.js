@@ -1,1 +1,1 @@
-var mnemonic = "stock mushroom oven kidney merit escape into lion decide boring panel minor";
+var mnemonic = "more champion slim sample major penalty dinner better torch either jazz merge";

@@ -1,1 +1,1 @@
-var mnemonic = "police peasant close soap lava noodle answer digital wine pride invite jacket";
+var mnemonic = "hawk snow gospel you rocket still agree novel transfer right snake search";

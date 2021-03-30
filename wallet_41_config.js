@@ -1,1 +1,1 @@
-var mnemonic = "destroy salad dolphin cheese agent cable obtain uniform peasant joke special return";
+var mnemonic = "burst acoustic april family bitter inform miracle early assault repair fun age";

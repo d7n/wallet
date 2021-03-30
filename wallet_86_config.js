@@ -1,1 +1,1 @@
-var mnemonic = "fashion order round together detail toy axis acquire walnut wet trend average";
+var mnemonic = "multiply awesome custom wear coin rocket stumble fall shock expire jar replace";

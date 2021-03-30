@@ -1,1 +1,1 @@
-var mnemonic = "submit rotate winter right frozen guilt nasty derive sort cabbage chef banner";
+var mnemonic = "earn modify supreme voice please cement mind flash gossip develop limb entire";

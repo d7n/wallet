@@ -1,1 +1,1 @@
-var mnemonic = "alone thrive margin become dry inch shift text nothing rhythm exercise robust";
+var mnemonic = "laptop rent shop coin width inquiry shoot keep hedgehog addict frog tube";

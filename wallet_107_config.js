@@ -1,1 +1,1 @@
-var mnemonic = "brother run more butter address vendor message proof loop funny skate silk";
+var mnemonic = "able alien uncover dinner brick limit liar repair sun egg save hand";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic copper split hover vicious isolate bundle garden cloud call exotic icon";
+var mnemonic = "zebra together save true dry wealth home target region fantasy mistake toast";

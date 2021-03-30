@@ -1,1 +1,1 @@
-var mnemonic = "tilt mouse kangaroo feed list dad smart dress blossom bomb fetch hood";
+var mnemonic = "pond hazard hard twenty square sustain aunt emerge edit also artwork universe";

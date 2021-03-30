@@ -1,1 +1,1 @@
-var mnemonic = "unlock canvas arch prison destroy work spot puppy post install list anger";
+var mnemonic = "device sun multiply echo badge poet lend rubber hockey broken huge arrow";

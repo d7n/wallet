@@ -1,1 +1,1 @@
-var mnemonic = "fly east crowd amount kangaroo shoulder cousin angle foil public love hour";
+var mnemonic = "congress type vehicle orient pear mule patient ride faint toward obey today";

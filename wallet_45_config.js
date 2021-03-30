@@ -1,1 +1,1 @@
-var mnemonic = "make secret injury talent forget hamster double city valve nephew doctor helmet";
+var mnemonic = "over involve health huge know joke flight undo window area mystery runway";

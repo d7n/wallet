@@ -1,1 +1,1 @@
-var mnemonic = "prefer course purpose father return rice enlist key special elephant wing wonder";
+var mnemonic = "ribbon birth dignity hidden produce color spike embody heart depart lava gaze";

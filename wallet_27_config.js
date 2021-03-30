@@ -1,1 +1,1 @@
-var mnemonic = "split sentence prefer vital erupt beauty draft conduct begin slice comfort chat";
+var mnemonic = "sock diamond harsh anger demand subject salad tone wild tiger hospital just";

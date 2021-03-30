@@ -1,1 +1,1 @@
-var mnemonic = "stairs various tide cry pudding twice clever rely above chuckle rebuild crystal";
+var mnemonic = "family pig bike side spring apart wealth sudden spray identify vast bird";

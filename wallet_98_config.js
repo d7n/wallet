@@ -1,1 +1,1 @@
-var mnemonic = "jewel faint faculty jump pride inspire woman girl term plug elegant unit";
+var mnemonic = "order master fine quarter lawn dish law solution man soft tunnel myself";

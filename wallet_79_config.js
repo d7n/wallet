@@ -1,1 +1,1 @@
-var mnemonic = "essence furnace drip style you couple gown switch stairs dove slot begin";
+var mnemonic = "galaxy settle celery under weapon say naive comic volume vacuum area grid";

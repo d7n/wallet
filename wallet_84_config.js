@@ -1,1 +1,1 @@
-var mnemonic = "axis nuclear surround host silent distance rail jelly arch ship chef slow";
+var mnemonic = "casual raccoon film immune struggle water pond fabric soap team survey tower";

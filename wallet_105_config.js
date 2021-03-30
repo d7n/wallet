@@ -1,1 +1,1 @@
-var mnemonic = "daughter zone space amazing ethics rally fiscal beauty brush crazy aim base";
+var mnemonic = "gather service memory lyrics mansion ball decrease damp goddess mention urban inmate";

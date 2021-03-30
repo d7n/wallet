@@ -1,1 +1,1 @@
-var mnemonic = "milk echo reveal track response chicken machine rabbit pony ill cradle body";
+var mnemonic = "author giraffe horse veteran magnet solve inherit defense company obtain bone dice";

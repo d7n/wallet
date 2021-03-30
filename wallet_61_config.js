@@ -1,1 +1,1 @@
-var mnemonic = "clown inspire increase orange wave tree uphold grunt all drill one swallow";
+var mnemonic = "people agree foam social collect shallow symbol frequent ready gallery matter manual";

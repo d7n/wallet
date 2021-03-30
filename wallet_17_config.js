@@ -1,1 +1,1 @@
-var mnemonic = "civil fluid shield fiscal notable pole never theory rescue certain unhappy review";
+var mnemonic = "version normal glow pride payment remove accuse favorite state furnace produce brand";

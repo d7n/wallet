@@ -1,1 +1,1 @@
-var mnemonic = "garbage verb baby either soda repeat glow ball relief mention project wait";
+var mnemonic = "bid force host law soap bright frozen remove security achieve present fan";

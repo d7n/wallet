@@ -1,1 +1,1 @@
-var mnemonic = "join width critic oblige clutch answer airport change hammer fan pigeon shadow";
+var mnemonic = "broom exit grief usual citizen gun clinic breeze law social auction lumber";

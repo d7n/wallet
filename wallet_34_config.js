@@ -1,1 +1,1 @@
-var mnemonic = "issue method comfort news spring enemy badge ethics crisp worry gold donkey";
+var mnemonic = "exhaust flat wide target core remind sugar canvas same cake observe height";

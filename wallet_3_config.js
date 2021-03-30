@@ -1,1 +1,1 @@
-var mnemonic = "sting excess obtain shaft circle plate decade chapter electric bridge visa diagram";
+var mnemonic = "embrace baby what gym one gossip jump shock vital quantum pony silent";

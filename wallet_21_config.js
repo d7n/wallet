@@ -1,1 +1,1 @@
-var mnemonic = "cradle radar issue reward sugar valley error guard roof bacon meat tape";
+var mnemonic = "assume all drink grace agree giant tiger winter subject ugly venue will";

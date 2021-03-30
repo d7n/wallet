@@ -1,1 +1,1 @@
-var mnemonic = "basket magic seek mandate prosper churn just edit gold hill master rabbit";
+var mnemonic = "artist tomato civil bronze emotion ritual display turn crowd welcome tenant pill";

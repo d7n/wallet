@@ -1,1 +1,1 @@
-var mnemonic = "ecology behind fold sand practice labor giant axis answer minute buddy mail";
+var mnemonic = "patient roof crystal total monster trip margin wall twice error million feature";

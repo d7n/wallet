@@ -1,1 +1,1 @@
-var mnemonic = "ready squirrel casual illness false uphold bitter replace myth birth swing pencil";
+var mnemonic = "fault pipe order depth ice insane soda adult ahead eyebrow blast turtle";

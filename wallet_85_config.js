@@ -1,1 +1,1 @@
-var mnemonic = "dash fever flight about drift fire sentence paddle slab cat various anxiety";
+var mnemonic = "cereal scissors wash vote future letter fence lab search surround screen yellow";

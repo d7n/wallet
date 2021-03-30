@@ -1,1 +1,1 @@
-var mnemonic = "above burst south will comfort else few coil canal wreck snow relief";
+var mnemonic = "asset spy good electric apology item auto glue summer eight arrow true";

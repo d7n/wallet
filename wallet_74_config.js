@@ -1,1 +1,1 @@
-var mnemonic = "copper book else volcano gas lobster tail olympic genius update leaf demand";
+var mnemonic = "pink process keen cradle emerge battle birth property hill wheat hill become";

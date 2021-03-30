@@ -1,1 +1,1 @@
-var mnemonic = "habit edit satisfy home furnace problem horn tongue net feature unveil combine";
+var mnemonic = "pioneer topple reason eyebrow boost gentle same wall attract offer also chimney";

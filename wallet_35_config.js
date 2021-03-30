@@ -1,1 +1,1 @@
-var mnemonic = "middle tray north broccoli fury govern stairs vicious pattern problem property wish";
+var mnemonic = "drive panel mobile discover volume hamster prison pudding tuna doctor uncle appear";

@@ -1,1 +1,1 @@
-var mnemonic = "loan hire movie pact mango bounce unveil kitchen jump female ozone sphere";
+var mnemonic = "renew guide popular body crack hotel lift ignore local check emerge truly";

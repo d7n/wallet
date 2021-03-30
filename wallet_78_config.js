@@ -1,1 +1,1 @@
-var mnemonic = "must finish seven tree arm ostrich adapt avoid thing rib prison opinion";
+var mnemonic = "knife gentle indicate anchor scan student pond undo lyrics ecology crisp discover";

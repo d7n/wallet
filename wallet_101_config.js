@@ -1,1 +1,1 @@
-var mnemonic = "gasp under lyrics girl sight poverty observe moment tower search beyond dinner";
+var mnemonic = "job erase armor solve theory original illegal noodle room basket total merit";
