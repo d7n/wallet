@@ -1,1 +1,1 @@
-var mnemonic = "album hedgehog hybrid original crop term gravity rug market december arrow lens";
+var mnemonic = "chest pride crisp apology one force museum asthma never skin skull zero";

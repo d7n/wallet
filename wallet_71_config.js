@@ -1,1 +1,1 @@
-var mnemonic = "unfold sting muffin purpose use refuse young glad slide disorder absurd learn";
+var mnemonic = "mandate satisfy hub vast museum vast wink build cruise transfer volcano theory";

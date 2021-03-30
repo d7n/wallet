@@ -1,1 +1,1 @@
-var mnemonic = "cross wing amateur method winner assist minute clever blast hybrid image exclude";
+var mnemonic = "wine test neither jacket panda omit purpose balcony job strike swear sting";

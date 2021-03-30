@@ -1,1 +1,1 @@
-var mnemonic = "reveal jazz tail control obey basket road mandate attract render gasp sustain";
+var mnemonic = "dolphin tail parent gadget lesson fruit present fury spell lecture leisure scrub";

@@ -1,1 +1,1 @@
-var mnemonic = "bird orange reward never repair stage utility farm hurdle struggle include face";
+var mnemonic = "bag blind cluster reduce lift youth once bracket spirit wave bomb music";

@@ -1,1 +1,1 @@
-var mnemonic = "spatial job charge robust monitor vendor entire early exist please arrange hat";
+var mnemonic = "gentle luggage horse clever coyote penalty asthma cradle neither forget unhappy garlic";

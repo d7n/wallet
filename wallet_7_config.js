@@ -1,1 +1,1 @@
-var mnemonic = "surge snow long repeat nominee decorate tail walk organ claw woman secret";
+var mnemonic = "develop oxygen patrol various month fiber vapor general recycle luxury snap crouch";

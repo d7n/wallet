@@ -1,1 +1,1 @@
-var mnemonic = "donate core enter tube cannon scrap stable gain loud reveal gun grace";
+var mnemonic = "hand bonus recycle inflict half awful common bike glare loyal avocado decade";

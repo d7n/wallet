@@ -1,1 +1,1 @@
-var mnemonic = "olive hospital guilt left deputy rule gain bicycle ice fabric update trade";
+var mnemonic = "boss cushion vehicle pipe sting position garment viable rally combine race super";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen about toy luggage roast second plate struggle pluck useless matrix throw";
+var mnemonic = "honey rule bring girl mutual olympic unlock movie same mandate want edge";

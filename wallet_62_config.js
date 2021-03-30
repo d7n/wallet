@@ -1,1 +1,1 @@
-var mnemonic = "fatal scorpion genre access quote bread combine gun crisp away egg wink";
+var mnemonic = "rubber year usage behind romance boost repeat funny cool switch build slim";

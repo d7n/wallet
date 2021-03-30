@@ -1,1 +1,1 @@
-var mnemonic = "tourist announce van endless skate husband airport repair affair weekend essay resist";
+var mnemonic = "roast rate peace casino plunge pen child snow project razor fitness fine";

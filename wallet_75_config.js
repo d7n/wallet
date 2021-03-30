@@ -1,1 +1,1 @@
-var mnemonic = "wave fringe sudden dream master dove napkin ride split upon confirm mouse";
+var mnemonic = "asthma share fossil common artwork enough anchor unfold human eyebrow very mistake";

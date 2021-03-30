@@ -1,1 +1,1 @@
-var mnemonic = "pave pass poet window remain artist maid brisk program exchange embody piece";
+var mnemonic = "music cigar deal taste margin day frequent marriage spare april dish olive";

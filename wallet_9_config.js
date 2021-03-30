@@ -1,1 +1,1 @@
-var mnemonic = "brisk abstract child fancy sure govern stock hen section math point pioneer";
+var mnemonic = "grape tenant joke release famous verb base symbol tenant spray finger dance";

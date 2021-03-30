@@ -1,1 +1,1 @@
-var mnemonic = "narrow claw elephant sheriff antique when latin round because edit season spoon";
+var mnemonic = "rain mouse spin swap people pudding trick swarm sea rescue chief manage";

@@ -1,1 +1,1 @@
-var mnemonic = "elbow argue stadium rebuild essay total enrich quit exit cheap rotate aisle";
+var mnemonic = "wonder hospital tragic ketchup lady tank keep lunar explain slush bottom earn";

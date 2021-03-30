@@ -1,1 +1,1 @@
-var mnemonic = "betray total vocal advice position double sing salt hair scene lake minor";
+var mnemonic = "develop weird pond destroy feel guilt cloud peanut devote release network vocal";

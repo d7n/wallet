@@ -1,1 +1,1 @@
-var mnemonic = "sunny senior rude people elegant unusual violin act arena enact begin leisure";
+var mnemonic = "palm match walk decade other daring put soldier zoo brain addict anchor";

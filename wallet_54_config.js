@@ -1,1 +1,1 @@
-var mnemonic = "ahead script wish cinnamon express subject assault direct eagle eight gauge sauce";
+var mnemonic = "filter input genius all feel demise tomato clever short quality soda health";

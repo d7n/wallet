@@ -1,1 +1,1 @@
-var mnemonic = "behind gossip churn digital motion acid design property simple junior comfort what";
+var mnemonic = "toe pumpkin minor dash symptom album embody pencil album entry adjust setup";

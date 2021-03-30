@@ -1,1 +1,1 @@
-var mnemonic = "client elegant hint name prize daring exile enter leisure letter spatial urge";
+var mnemonic = "vague fence kiss produce solve sock choose valley grace cactus retire armed";

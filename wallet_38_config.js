@@ -1,1 +1,1 @@
-var mnemonic = "estate excite one later permit scorpion man rose uncover lottery kitten lady";
+var mnemonic = "winner close repeat can blanket spice humble toe mom sibling sign witness";

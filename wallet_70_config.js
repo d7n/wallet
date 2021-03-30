@@ -1,1 +1,1 @@
-var mnemonic = "guide neutral ankle coin arrange book wagon bubble lawsuit renew clown split";
+var mnemonic = "thrive merge decline student trouble filter knife spice fish flame curve spread";

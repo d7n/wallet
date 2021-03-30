@@ -1,1 +1,1 @@
-var mnemonic = "pink drop penalty coffee quantum add into eagle only symptom fiction problem";
+var mnemonic = "defy bag you nest angry cause more together ability eternal man fantasy";

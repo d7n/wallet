@@ -1,1 +1,1 @@
-var mnemonic = "clinic umbrella soccer dog battle apple icon exhaust fashion glad timber earth";
+var mnemonic = "large vault pretty story will want one smoke lunch crime tray inside";

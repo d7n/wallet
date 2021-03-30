@@ -1,1 +1,1 @@
-var mnemonic = "weird exist wage chuckle access income ahead plastic sudden state grace remember";
+var mnemonic = "mango upon company maximum exact potato wet radio hazard add oblige mandate";

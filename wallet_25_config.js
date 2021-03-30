@@ -1,1 +1,1 @@
-var mnemonic = "you merge brown fee reform random shed devote month patient nest else";
+var mnemonic = "before wealth connect usual team horse hurdle battle honey comic depart monster";

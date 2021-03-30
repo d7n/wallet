@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow blush biology smile damage hungry option flee lottery giant capital amazing";
+var mnemonic = "clinic pioneer random vintage put round cupboard pizza initial romance seek lawn";

@@ -1,1 +1,1 @@
-var mnemonic = "earth second fancy birth three math shock dry unusual whip public rail";
+var mnemonic = "height subject spawn deposit orbit foster hill rocket dance twist learn amazing";

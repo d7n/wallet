@@ -1,1 +1,1 @@
-var mnemonic = "dolphin violin scheme nurse faint poem marble floor door enforce surround humble";
+var mnemonic = "public spare recycle cage mix fuel focus gaze stem depend actor lunar";

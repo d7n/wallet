@@ -1,1 +1,1 @@
-var mnemonic = "ignore nut ball risk east fluid captain soldier ugly aspect sorry draw";
+var mnemonic = "please churn olympic genius long despair ritual spot moon execute pair angry";

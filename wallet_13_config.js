@@ -1,1 +1,1 @@
-var mnemonic = "high obey stick cloth album planet gain skill mail guess chest disagree";
+var mnemonic = "thing average above float biology rice earn rigid wave refuse witness panda";

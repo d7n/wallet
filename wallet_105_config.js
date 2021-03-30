@@ -1,1 +1,1 @@
-var mnemonic = "service fire question surround charge carry bring assume copy venue crew loop";
+var mnemonic = "skirt wheel impact young poet penalty neglect orange artefact enter drama shield";

@@ -1,1 +1,1 @@
-var mnemonic = "solve recipe auto pave panel globe oval own pencil clown camp high";
+var mnemonic = "ticket alien pilot foil share vote federal helmet acquire upset energy reopen";

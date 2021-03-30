@@ -1,1 +1,1 @@
-var mnemonic = "license aunt effort frost tool library summer bubble quality lady head inquiry";
+var mnemonic = "moment chase quit sting toss fish position busy kid crisp museum decline";

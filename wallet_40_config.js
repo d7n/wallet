@@ -1,1 +1,1 @@
-var mnemonic = "before wood mimic useless exist please regret rubber venture grape iron grace";
+var mnemonic = "bar limb top crop faith burst detail average title cover slender danger";

@@ -1,1 +1,1 @@
-var mnemonic = "opinion cabin lion festival sheriff shop leader lobster assist slot steel april";
+var mnemonic = "private upon brass capital will bounce bullet catch future voyage forget entry";

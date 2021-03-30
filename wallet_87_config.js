@@ -1,1 +1,1 @@
-var mnemonic = "slim bunker coconut future brisk endorse income ozone pool middle club entry";
+var mnemonic = "blouse race head depart noble alone chapter chase recipe choice bring cube";

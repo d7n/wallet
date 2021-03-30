@@ -1,1 +1,1 @@
-var mnemonic = "limb mom time notice orbit margin salad board reunion stadium sell crime";
+var mnemonic = "gate wall bottom orient thumb cheap dragon album wasp erode mail describe";

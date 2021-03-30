@@ -1,1 +1,1 @@
-var mnemonic = "lumber online source seat outdoor derive hurt priority shy truth marble dwarf";
+var mnemonic = "invest super city pyramid glimpse aware giggle pyramid planet tilt village always";

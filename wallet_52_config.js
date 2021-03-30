@@ -1,1 +1,1 @@
-var mnemonic = "try vicious light option unaware winter always inquiry mouse fee credit shell";
+var mnemonic = "goddess fit try cream merry ghost drop stereo result arrange pistol tackle";

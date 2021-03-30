@@ -1,1 +1,1 @@
-var mnemonic = "cart pitch fine broken grape talent lyrics bag enforce panel gown truly";
+var mnemonic = "chaos way canal depth harsh sketch margin since universe valid tool sound";

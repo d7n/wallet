@@ -1,1 +1,1 @@
-var mnemonic = "view print unaware teach grant nuclear now grit element upset mimic liquid";
+var mnemonic = "table order absent female color dumb window orphan soon garbage track matrix";

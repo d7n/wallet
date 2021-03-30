@@ -1,1 +1,1 @@
-var mnemonic = "miss wrong dignity you east pet wood decline medal exit valve photo";
+var mnemonic = "judge bread quick bonus cabbage wink cricket salad option side mask gallery";

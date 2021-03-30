@@ -1,1 +1,1 @@
-var mnemonic = "valve mother avoid broken build kid tornado swing fold execute card turkey";
+var mnemonic = "swarm amateur excuse swim half theme affair merge gravity like lesson impose";

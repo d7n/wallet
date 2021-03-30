@@ -1,1 +1,1 @@
-var mnemonic = "mule later blade try know must nuclear sort flat coconut destroy vendor";
+var mnemonic = "squeeze stock subway weapon flame remove dawn pigeon razor aspect develop popular";

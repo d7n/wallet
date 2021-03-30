@@ -1,1 +1,1 @@
-var mnemonic = "clip scheme possible muffin autumn nurse arrow tower elbow patch demand phrase";
+var mnemonic = "shine rapid rabbit planet spoil top champion athlete bonus mechanic mesh festival";

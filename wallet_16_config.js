@@ -1,1 +1,1 @@
-var mnemonic = "place pulse odor east foil help island atom buffalo resist tissue leopard";
+var mnemonic = "dance cluster expand deer rifle lunar ceiling empower ladder fluid mixed often";

@@ -1,1 +1,1 @@
-var mnemonic = "ready mechanic trophy flat olive boss ask consider release debate engage famous";
+var mnemonic = "million appear sunny cargo depend salmon off stairs universe divorce satoshi embrace";

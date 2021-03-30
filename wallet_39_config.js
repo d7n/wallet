@@ -1,1 +1,1 @@
-var mnemonic = "choice fun depart rack mimic atom lawn demand flip flight tobacco hire";
+var mnemonic = "vast puppy north load season grass walnut nature field reject same abstract";

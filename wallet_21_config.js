@@ -1,1 +1,1 @@
-var mnemonic = "option witness safe impose announce mention elite quick decide circle nurse exclude";
+var mnemonic = "decorate leaf robot decline skull orbit remain client nation short regular around";

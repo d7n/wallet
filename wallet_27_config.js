@@ -1,1 +1,1 @@
-var mnemonic = "describe unveil liquid tell real venture moment liberty fossil benefit file bacon";
+var mnemonic = "impact into bridge tunnel unfold own horror loop rocket exchange zebra time";

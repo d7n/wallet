@@ -1,1 +1,1 @@
-var mnemonic = "cave ketchup scrap syrup ribbon sunny march anxiety market rotate famous address";
+var mnemonic = "narrow develop office caution afford dice clerk soccer narrow atom tray armed";

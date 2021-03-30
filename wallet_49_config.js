@@ -1,1 +1,1 @@
-var mnemonic = "rabbit gain indicate right pulp puppy museum atom cement object romance describe";
+var mnemonic = "atom pipe people husband trim will empty husband salon slush vivid budget";

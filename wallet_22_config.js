@@ -1,1 +1,1 @@
-var mnemonic = "expect car purchase spread kingdom concert forum often grit salt federal fall";
+var mnemonic = "clever vintage crane use cousin destroy december legal wish spin gravity they";

@@ -1,1 +1,1 @@
-var mnemonic = "library unhappy spoil boss frame also gauge clock citizen pudding jump earth";
+var mnemonic = "pulp trouble invest robot great salad tragic group convince eager neck uncle";

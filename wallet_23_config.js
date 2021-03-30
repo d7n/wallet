@@ -1,1 +1,1 @@
-var mnemonic = "someone squirrel know soup curtain rabbit job debate royal bless miracle car";
+var mnemonic = "close draw column model school woman involve salmon jewel tobacco water hour";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise jeans misery silly weather husband core return grief bright used mansion";
+var mnemonic = "lucky tonight brisk will universe build hand lumber rack lens control enrich";

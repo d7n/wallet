@@ -1,1 +1,1 @@
-var mnemonic = "tissue turn brief primary odor soul benefit average open illegal mobile canyon";
+var mnemonic = "tag speed mosquito road know desk marriage bargain engage gun found frozen";

@@ -1,1 +1,1 @@
-var mnemonic = "federal fence abandon fortune green basket certain skate bulb ancient gas furnace";
+var mnemonic = "tank tag drum cat hood medal stereo man rose urban trigger market";

@@ -1,1 +1,1 @@
-var mnemonic = "medal social model oval order cigar define tourist almost salmon rigid celery";
+var mnemonic = "tone tone outside general student help electric coyote country soccer stay bachelor";

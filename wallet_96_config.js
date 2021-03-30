@@ -1,1 +1,1 @@
-var mnemonic = "blanket buddy repeat among movie employ ankle write glory dance solid typical";
+var mnemonic = "broccoli roast violin captain inner ceiling wish solid afford cloud bachelor have";

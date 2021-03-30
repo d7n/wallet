@@ -1,1 +1,1 @@
-var mnemonic = "around rose fix motion clean office rabbit useless give web coin salmon";
+var mnemonic = "exhibit swamp draft purity truly genius extra plastic pyramid adjust lawn clinic";

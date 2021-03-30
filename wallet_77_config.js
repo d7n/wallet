@@ -1,1 +1,1 @@
-var mnemonic = "insane endless stairs absent problem flush pool fault flash lonely pyramid sibling";
+var mnemonic = "olympic fossil endless gravity clown chat under ocean trick into school iron";

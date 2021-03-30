@@ -1,1 +1,1 @@
-var mnemonic = "response yellow fringe brave escape stereo album rude dizzy hazard spring position";
+var mnemonic = "brush west entry dice rubber track add sphere fiction rifle cup family";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive canal success traffic trash pizza rapid hello march discover century talk";
+var mnemonic = "rule clog behave claw refuse sadness glory side merge word never slight";

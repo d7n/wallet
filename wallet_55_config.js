@@ -1,1 +1,1 @@
-var mnemonic = "tenant rural cute image staff often later segment advance note clever sunset";
+var mnemonic = "wine token opera pill hawk stock excuse rely alcohol weasel border curtain";

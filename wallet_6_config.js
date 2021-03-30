@@ -1,1 +1,1 @@
-var mnemonic = "napkin balcony west edit ship cause bracket hobby choice oval wage doctor";
+var mnemonic = "early light gossip horror pool start cram cash hungry cruise accident that";

@@ -1,1 +1,1 @@
-var mnemonic = "device sight coin bird agent ice tail stomach soup album jelly gorilla";
+var mnemonic = "true sorry ocean dad obscure proud soon notable error penalty cupboard dwarf";

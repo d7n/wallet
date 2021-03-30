@@ -1,1 +1,1 @@
-var mnemonic = "farm type surge pepper coral twice edit expand cart timber invest minimum";
+var mnemonic = "surprise update battle wonder flavor fashion rabbit scatter vote glad mad afford";

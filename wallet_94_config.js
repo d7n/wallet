@@ -1,1 +1,1 @@
-var mnemonic = "strategy stairs side wink assault put tissue post praise yellow team popular";
+var mnemonic = "alpha above limit stomach wool season expose wrap select drop board finish";

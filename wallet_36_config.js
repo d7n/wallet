@@ -1,1 +1,1 @@
-var mnemonic = "gift suit omit cake panda hospital spirit pigeon arena street image lottery";
+var mnemonic = "program indoor inside stick miss pear dove orange december drip adjust pottery";

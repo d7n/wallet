@@ -1,1 +1,1 @@
-var mnemonic = "despair lecture blur can online apology city bottom paper public imitate faint";
+var mnemonic = "find pear creek lucky rapid become actual upon this cotton brown robust";

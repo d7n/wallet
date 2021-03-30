@@ -1,1 +1,1 @@
-var mnemonic = "topic nest mimic horse already portion verify drip maid tortoise hamster mobile";
+var mnemonic = "jealous tooth town drop green retreat later various obey brief yellow engine";

@@ -1,1 +1,1 @@
-var mnemonic = "law erase kick marine early crucial bird merge gentle course offer festival";
+var mnemonic = "erupt oil blast mesh rich put enrich brave bring adjust trouble merry";

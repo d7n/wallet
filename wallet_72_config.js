@@ -1,1 +1,1 @@
-var mnemonic = "fox attract collect usual senior describe expect oblige occur knee catalog keep";
+var mnemonic = "vapor husband acoustic rail apple gadget upon cinnamon method afraid pond leader";

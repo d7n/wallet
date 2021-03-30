@@ -1,1 +1,1 @@
-var mnemonic = "cover focus citizen breeze focus card fox echo better busy transfer lesson";
+var mnemonic = "famous tribe run bitter version inform kind south veteran liquid minimum cloth";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp exchange own pretty absent loyal current skin level middle lucky physical";
+var mnemonic = "trust device raise net live badge guide foster hamster arctic fine volume";

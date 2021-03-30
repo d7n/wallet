@@ -1,1 +1,1 @@
-var mnemonic = "soul lawsuit shaft drop tower inner canvas circle want romance burden banner";
+var mnemonic = "trash job favorite hour please fitness glare betray whip daring nation tuna";

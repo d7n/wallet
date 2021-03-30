@@ -1,1 +1,1 @@
-var mnemonic = "crop ahead earn afford hurt change margin rabbit ocean moment rail stumble";
+var mnemonic = "eternal film during jar way banana lonely pig inject until adapt choose";

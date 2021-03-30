@@ -1,1 +1,1 @@
-var mnemonic = "repair talent invite wage bread orient lucky cloth weird expose win despair";
+var mnemonic = "daring dial miss can engage rural supreme salt popular release ability what";
