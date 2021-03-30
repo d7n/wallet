@@ -1,1 +1,1 @@
-var mnemonic = "explain grow people style chicken blade change craft run noble attitude festival";
+var mnemonic = "game claim funny bicycle obvious claim early film rice rib feel abuse";

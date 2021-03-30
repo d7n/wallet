@@ -1,1 +1,1 @@
-var mnemonic = "that milk easy nice popular defense satoshi hungry hire runway decorate achieve";
+var mnemonic = "tape sheriff suit nephew glory mercy race winner someone pen tenant come";

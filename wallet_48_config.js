@@ -1,1 +1,1 @@
-var mnemonic = "champion sense verb dizzy disease tilt flee fame zone lunar seed chuckle";
+var mnemonic = "bulk behind hurt rubber acquire rocket convince jacket reduce mention story tray";

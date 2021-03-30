@@ -1,1 +1,1 @@
-var mnemonic = "length toy that property harvest submit sheriff dilemma lesson across pupil myself";
+var mnemonic = "potato almost slow junior reward despair debate sentence alarm ignore echo oven";

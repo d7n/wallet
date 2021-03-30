@@ -1,1 +1,1 @@
-var mnemonic = "chunk comic betray twice doll deputy asthma emotion kangaroo noble iron drive";
+var mnemonic = "setup copy easy habit craft tattoo kingdom aerobic peanut auction flock gauge";

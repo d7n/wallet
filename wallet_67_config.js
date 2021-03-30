@@ -1,1 +1,1 @@
-var mnemonic = "recall dentist car health stumble volume apology ostrich biology room lottery simple";
+var mnemonic = "another embrace talent bean kangaroo report patch skill quote dignity soup midnight";

@@ -1,1 +1,1 @@
-var mnemonic = "proud rapid pepper violin sell also idle turn exist relax inquiry black";
+var mnemonic = "maid myth runway grace divert very raccoon cube manage tomato front rug";

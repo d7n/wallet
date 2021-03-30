@@ -1,1 +1,1 @@
-var mnemonic = "lunch capital unable blade acoustic unlock leisure blood snake crowd globe weather";
+var mnemonic = "enemy evolve aim away unlock host debate element gate hill river salad";

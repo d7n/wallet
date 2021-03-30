@@ -1,1 +1,1 @@
-var mnemonic = "core market kite family display ten seek trim student model spoil police";
+var mnemonic = "fortune arm town company average wreck south tonight sail double better park";

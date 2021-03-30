@@ -1,1 +1,1 @@
-var mnemonic = "twenty hire leg cupboard situate atom build vacant bind labor pitch notable";
+var mnemonic = "project will engage hollow defy please brave hood future valve exhibit sponsor";

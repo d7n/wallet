@@ -1,1 +1,1 @@
-var mnemonic = "glance derive rail large spray magnet canal lemon borrow claw inherit first";
+var mnemonic = "fix rule report wall ceiling index judge roast result just stand about";

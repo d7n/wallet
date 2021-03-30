@@ -1,1 +1,1 @@
-var mnemonic = "shed patrol caught cactus warm swim trend join stone social blue dance";
+var mnemonic = "jelly noodle vanish misery case opinion across length tree unknown canal midnight";

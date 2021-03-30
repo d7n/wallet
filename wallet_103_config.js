@@ -1,1 +1,1 @@
-var mnemonic = "endless theme thing riot atom army woman home tissue rebel borrow expire";
+var mnemonic = "identify own bright time peasant vivid rent face tuition clever equal prison";

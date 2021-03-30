@@ -1,1 +1,1 @@
-var mnemonic = "make omit album other penalty leopard diagram dial clump ghost adult elbow";
+var mnemonic = "midnight cluster rare mouse bid typical outside sadness twin effort web grant";

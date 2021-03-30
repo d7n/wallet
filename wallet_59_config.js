@@ -1,1 +1,1 @@
-var mnemonic = "squeeze embark box shaft frozen reopen transfer poverty wrist clean bulb butter";
+var mnemonic = "guard process million century ocean appear domain remember rebuild write nut syrup";

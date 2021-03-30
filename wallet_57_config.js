@@ -1,1 +1,1 @@
-var mnemonic = "ugly stumble used capital wheel sell spy flush client gorilla poverty between";
+var mnemonic = "home dragon twin embrace lyrics proof ignore rich where copy direct what";

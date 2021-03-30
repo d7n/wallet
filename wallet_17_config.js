@@ -1,1 +1,1 @@
-var mnemonic = "stone exist pulp trend priority embrace main popular north expire witness adult";
+var mnemonic = "nose inherit iron nominee muscle pulse income drive path orchard below liar";

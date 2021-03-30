@@ -1,1 +1,1 @@
-var mnemonic = "energy sausage begin borrow afraid segment prosper trust crack earn family quiz";
+var mnemonic = "virus treat menu under word gown strategy husband wrist eight session wrist";

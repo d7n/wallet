@@ -1,1 +1,1 @@
-var mnemonic = "room quote clerk hub box moral album cement dance deny kite range";
+var mnemonic = "sphere rally tongue run erase output today shrug spy scale debate fire";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess exclude case brother season state verb wreck course bachelor network token";
+var mnemonic = "give civil topple enhance trip just vague account stick step route swarm";

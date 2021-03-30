@@ -1,1 +1,1 @@
-var mnemonic = "scissors depart yard vendor odor exhibit paddle oven main submit mind prepare";
+var mnemonic = "apology sphere bright fee cement fruit arm iron electric awake lawsuit theme";

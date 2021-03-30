@@ -1,1 +1,1 @@
-var mnemonic = "gas border raw cube decide oyster adult tennis kidney scene pear unfold";
+var mnemonic = "galaxy forget maximum sniff wife vessel enrich bunker auction reduce expand universe";

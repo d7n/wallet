@@ -1,1 +1,1 @@
-var mnemonic = "library runway square bring bench possible myth tree issue gesture bus noise";
+var mnemonic = "anxiety muffin gloom great vocal crater know bargain entire senior fruit mammal";

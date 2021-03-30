@@ -1,1 +1,1 @@
-var mnemonic = "barrel range whisper deliver unusual switch wheel shoulder consider lunar earth vintage";
+var mnemonic = "glimpse snap athlete situate biology laugh first fiction idea wisdom fringe rain";

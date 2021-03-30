@@ -1,1 +1,1 @@
-var mnemonic = "replace tail six kidney settle popular parent medal symptom there double ugly";
+var mnemonic = "quote input reopen tank moon critic inch between glide brand arctic cost";

@@ -1,1 +1,1 @@
-var mnemonic = "okay car stadium album notable bicycle daring census mean drive notable grief";
+var mnemonic = "update rotate scheme expire purity diet corn fame credit educate orchard bonus";

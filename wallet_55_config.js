@@ -1,1 +1,1 @@
-var mnemonic = "crouch quick lift lens thought discover isolate churn goddess nut guess speak";
+var mnemonic = "ripple festival explain mandate fit regret salon song panic prize motor curtain";

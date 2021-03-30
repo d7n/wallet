@@ -1,1 +1,1 @@
-var mnemonic = "barely cluster humble almost rent remain will goddess remind solid sorry awful";
+var mnemonic = "alone network wealth doll chaos that film point one special fault noise";

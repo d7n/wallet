@@ -1,1 +1,1 @@
-var mnemonic = "special shiver fish water merge oven orient output receive melody number supreme";
+var mnemonic = "sister recycle rule post once journey hawk wisdom exact coil medal flower";

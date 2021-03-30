@@ -1,1 +1,1 @@
-var mnemonic = "flush dwarf nominee reflect ozone olympic cook throw story once cushion speed";
+var mnemonic = "crunch rule relief stand group health blanket knife guitar later lounge harsh";

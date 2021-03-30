@@ -1,1 +1,1 @@
-var mnemonic = "capital leopard property pride leopard draw accident impact earth fuel wine object";
+var mnemonic = "second mother exhaust flee laptop duty digital coyote relax ignore tilt damp";

@@ -1,1 +1,1 @@
-var mnemonic = "feed toast fluid badge require domain wink garden coyote peanut tongue must";
+var mnemonic = "broken enough choice gain sick require broccoli figure mom venture style tennis";

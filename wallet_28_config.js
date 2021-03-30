@@ -1,1 +1,1 @@
-var mnemonic = "theme cabbage govern sort few cereal secret chaos market arrange warfare violin";
+var mnemonic = "tonight produce burger portion grow razor stick kidney inquiry decade good load";

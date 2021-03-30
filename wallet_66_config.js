@@ -1,1 +1,1 @@
-var mnemonic = "dust source tobacco steel advance arch normal mansion dash blue antenna guilt";
+var mnemonic = "opera manage letter snap silly vacant pepper asset trust family recycle view";

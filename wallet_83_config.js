@@ -1,1 +1,1 @@
-var mnemonic = "crowd festival power paddle easy sugar keen coach defy priority like flame";
+var mnemonic = "sing reopen trap scene picture trumpet swarm material sunny text cart panda";

@@ -1,1 +1,1 @@
-var mnemonic = "wrestle east oxygen rubber divorce leave resemble way alert sentence woman autumn";
+var mnemonic = "lab goose clerk raven solution mesh route crawl grab olive rail future";

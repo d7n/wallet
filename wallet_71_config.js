@@ -1,1 +1,1 @@
-var mnemonic = "pigeon balance assume file radar cloud glimpse call film innocent artist avoid";
+var mnemonic = "laptop screen finger jacket pistol lucky erase thumb taxi first fan tornado";

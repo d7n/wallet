@@ -1,1 +1,1 @@
-var mnemonic = "poverty response layer milk exile pig gown review grunt reveal beef usual";
+var mnemonic = "frozen pull run lucky relax crop boss insect town rib royal gasp";

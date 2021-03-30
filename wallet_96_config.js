@@ -1,1 +1,1 @@
-var mnemonic = "number hen elder equip employ gravity lawsuit assault degree remind lazy average";
+var mnemonic = "liberty degree pulse fruit program trophy three loyal leisure park cricket flip";

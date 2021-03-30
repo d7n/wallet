@@ -1,1 +1,1 @@
-var mnemonic = "snap street have grunt fantasy cancel jacket style tide angry chief orbit";
+var mnemonic = "brick roast satoshi math whale thunder wear exile critic spawn tray course";

@@ -1,1 +1,1 @@
-var mnemonic = "source dial brown recall trash boring diagram absorb metal three puzzle panther";
+var mnemonic = "gold rocket situate above room away action gift snack calm weird kick";

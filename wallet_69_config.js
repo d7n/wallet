@@ -1,1 +1,1 @@
-var mnemonic = "laugh retreat claim aunt welcome motion enforce pill visual antenna tube spin";
+var mnemonic = "vapor energy wedding salon speed refuse diagram bar wrist clever zone open";

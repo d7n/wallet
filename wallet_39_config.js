@@ -1,1 +1,1 @@
-var mnemonic = "mushroom truck risk front sing danger two ill spice snack party butter";
+var mnemonic = "merry cool tonight below tobacco jazz budget shrug phone fade ugly fancy";

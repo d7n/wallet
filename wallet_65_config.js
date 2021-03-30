@@ -1,1 +1,1 @@
-var mnemonic = "erase teach bacon comfort dish funny swift ketchup inflict bean team element";
+var mnemonic = "better process grow father life party estate bonus sketch advance liberty arm";

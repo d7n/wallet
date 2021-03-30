@@ -1,1 +1,1 @@
-var mnemonic = "letter air symptom ready desert unlock cart hat fetch awesome mesh kiwi";
+var mnemonic = "dynamic local flee together chuckle sad unknown lens seat choice retreat hub";

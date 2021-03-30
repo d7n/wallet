@@ -1,1 +1,1 @@
-var mnemonic = "chat dash arrest absorb affair acoustic rule hill solid split model dial";
+var mnemonic = "oppose modify daring try aunt tent slogan phone calm chuckle tonight visa";

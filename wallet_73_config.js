@@ -1,1 +1,1 @@
-var mnemonic = "expire able section harvest broom snake behave robust hawk chef swap home";
+var mnemonic = "plate dragon prefer grief buyer tackle shift stadium sing unit rotate slice";

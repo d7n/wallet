@@ -1,1 +1,1 @@
-var mnemonic = "ribbon sail gadget long rail seminar wear gorilla moon bright giggle axis";
+var mnemonic = "urge deputy trial slush expose weather medal curve mule second snack drum";

@@ -1,1 +1,1 @@
-var mnemonic = "brief wink clip actor media claim squeeze cruise soccer fly drink series";
+var mnemonic = "margin robust slow trust series umbrella tent pyramid cable wasp purchase cruise";

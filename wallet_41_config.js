@@ -1,1 +1,1 @@
-var mnemonic = "exhaust myself wing maximum hand match acid close explain level small mobile";
+var mnemonic = "slow anchor rose remember situate drink foster monkey vacant right reject what";

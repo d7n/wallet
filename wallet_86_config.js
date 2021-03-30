@@ -1,1 +1,1 @@
-var mnemonic = "cannon lazy offer inspire legend tunnel infant weather unable magic reveal atom";
+var mnemonic = "crunch team enter victory frost sport company dash avocado genuine soft pistol";

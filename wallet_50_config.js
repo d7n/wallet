@@ -1,1 +1,1 @@
-var mnemonic = "park scare together wet offer report alien help vivid brain tribe bind";
+var mnemonic = "renew fun critic opinion boy token again laugh mother spin stable differ";

@@ -1,1 +1,1 @@
-var mnemonic = "keep sudden drift purchase raven blur wreck woman town multiply once become";
+var mnemonic = "evil struggle assist nasty glad industry drip side gentle custom bring rhythm";

@@ -1,1 +1,1 @@
-var mnemonic = "attack food bicycle letter volcano face pave logic potato fat hawk mad";
+var mnemonic = "crazy moment file record dignity coach capable soul scare funny tissue output";

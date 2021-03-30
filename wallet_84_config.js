@@ -1,1 +1,1 @@
-var mnemonic = "cabbage cactus artist spend rib hunt stumble blue message bar vast annual";
+var mnemonic = "debris wide oak tool rebuild era doctor advice suffer gauge fence waste";

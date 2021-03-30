@@ -1,1 +1,1 @@
-var mnemonic = "marriage truth hunt coyote wife tent intact iron present sight section sadness";
+var mnemonic = "crop fly ginger vague phone creek sister elephant garment unknown husband run";

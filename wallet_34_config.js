@@ -1,1 +1,1 @@
-var mnemonic = "hobby reopen segment poem wet wire wealth someone moment joy double midnight";
+var mnemonic = "uniform question match tragic easily equip grab tiger mobile mountain play robot";

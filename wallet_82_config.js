@@ -1,1 +1,1 @@
-var mnemonic = "bless palm engine cute oval cheese erosion hurry slot elevator produce fun";
+var mnemonic = "cave album grain leopard sand click stand list issue panther grow again";

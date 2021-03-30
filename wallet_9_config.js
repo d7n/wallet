@@ -1,1 +1,1 @@
-var mnemonic = "return emotion february robust above sun chest result upper funny situate isolate";
+var mnemonic = "math fuel indoor quarter cargo figure turn wage voyage best bullet gain";

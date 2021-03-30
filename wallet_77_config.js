@@ -1,1 +1,1 @@
-var mnemonic = "chair uncle private lottery enact pony renew become emerge giant promote lend";
+var mnemonic = "pink tape oven beach pitch act offer broken rescue retreat leave swear";

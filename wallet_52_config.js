@@ -1,1 +1,1 @@
-var mnemonic = "cube amazing place turn husband wood couple almost gown dragon tomato review";
+var mnemonic = "afford leopard obscure regular wall okay know diary clap outside enroll afraid";

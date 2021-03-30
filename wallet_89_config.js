@@ -1,1 +1,1 @@
-var mnemonic = "hip welcome tiger exit stable van secret afford balcony where blouse destroy";
+var mnemonic = "sniff cute despair trend town wolf hole give suit dragon vast absurd";

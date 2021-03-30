@@ -1,1 +1,1 @@
-var mnemonic = "rely middle boss sheriff mix hour start chaos citizen song birth gown";
+var mnemonic = "often oak cluster body trap area twist swear laptop gasp connect glad";

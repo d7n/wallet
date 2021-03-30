@@ -1,1 +1,1 @@
-var mnemonic = "onion tissue execute taxi elevator giant echo wait tone aspect minor stable";
+var mnemonic = "ostrich diesel try relief vicious right lizard lady weasel fiscal lamp rude";

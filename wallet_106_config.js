@@ -1,1 +1,1 @@
-var mnemonic = "believe ball hair receive lock theory royal multiply twenty jewel energy fortune";
+var mnemonic = "intact roof melt pen crisp hockey faint maple clever hub truck just";

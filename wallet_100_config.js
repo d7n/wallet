@@ -1,1 +1,1 @@
-var mnemonic = "drama thought quantum soft frost during wrestle film then list deal neck";
+var mnemonic = "rocket ten sausage unfold dirt prison remove release tobacco property owner angle";

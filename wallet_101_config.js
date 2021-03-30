@@ -1,1 +1,1 @@
-var mnemonic = "hero rabbit trust curious worth autumn spare whisper oppose lawsuit cheap bring";
+var mnemonic = "other across virus blue choice lady provide opinion august broccoli feed they";

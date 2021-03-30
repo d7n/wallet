@@ -1,1 +1,1 @@
-var mnemonic = "marine grab misery panther idea devote adapt scatter ketchup grit cycle prepare";
+var mnemonic = "floor story grief trip manage minor upper electric upon suspect pact park";

@@ -1,1 +1,1 @@
-var mnemonic = "pudding bird wreck onion hobby column very write peasant soap equip spread";
+var mnemonic = "chronic switch flower use purity deny clip strong squeeze can silk time";

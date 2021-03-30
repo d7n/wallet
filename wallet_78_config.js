@@ -1,1 +1,1 @@
-var mnemonic = "april twin merge retreat inflict round vapor awful raccoon afford cube taste";
+var mnemonic = "pledge detail night roast coconut wealth voyage enhance enact city fringe damp";

@@ -1,1 +1,1 @@
-var mnemonic = "boring myself update pudding control powder kind reflect obscure blade supply stone";
+var mnemonic = "cook egg volume truth artefact saddle manage cluster employ candy rapid hammer";

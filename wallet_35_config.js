@@ -1,1 +1,1 @@
-var mnemonic = "please note lift husband laugh science park throw divide regret dumb attack";
+var mnemonic = "news awkward slush license harsh wolf possible cereal metal eternal nasty unveil";

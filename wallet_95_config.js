@@ -1,1 +1,1 @@
-var mnemonic = "flame economy blossom shop float sniff first spin narrow spice lamp quit";
+var mnemonic = "argue weasel soft pave find damage solution august pig taxi strike march";

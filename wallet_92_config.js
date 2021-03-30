@@ -1,1 +1,1 @@
-var mnemonic = "industry usual desk decrease knife solid penalty deputy buzz stomach ivory surround";
+var mnemonic = "craft fold inflict genius lesson thought bright quantum black phone pledge color";

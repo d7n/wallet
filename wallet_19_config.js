@@ -1,1 +1,1 @@
-var mnemonic = "during chalk bird own what tunnel nice use liar awkward club mercy";
+var mnemonic = "fluid general detect blast police meadow luxury select pull urban away sick";

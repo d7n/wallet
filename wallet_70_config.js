@@ -1,1 +1,1 @@
-var mnemonic = "record dad seek crumble double sadness absurd check practice name lazy fancy";
+var mnemonic = "ketchup dream palm nuclear alley tuna cherry paddle three grief local vendor";

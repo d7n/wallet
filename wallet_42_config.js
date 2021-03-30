@@ -1,1 +1,1 @@
-var mnemonic = "lion idea girl health occur tired whale picnic tank pair benefit payment";
+var mnemonic = "route fatal habit frozen fluid stumble forget net luxury section crystal eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "similar jazz filter radar tenant also camera essay fashion woman fossil task";
+var mnemonic = "reject step trade episode stage few photo boil two turkey panda badge";

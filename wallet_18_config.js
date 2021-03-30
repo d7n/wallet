@@ -1,1 +1,1 @@
-var mnemonic = "forget tray harsh short omit number reform box crucial initial sibling veteran";
+var mnemonic = "include allow venue buyer elevator wise urge outside ranch inspire again jar";

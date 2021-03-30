@@ -1,1 +1,1 @@
-var mnemonic = "party rely just ribbon lens satisfy never tissue once plastic genre ecology";
+var mnemonic = "glow few work pear march jeans slight quarter trip cover perfect replace";

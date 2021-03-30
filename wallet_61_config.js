@@ -1,1 +1,1 @@
-var mnemonic = "garden toddler nice deposit more figure crawl smoke short patrol degree alert";
+var mnemonic = "vacuum truck neutral slogan shove general minimum picnic valve brief myth fitness";

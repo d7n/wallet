@@ -1,1 +1,1 @@
-var mnemonic = "check unit skull require more indoor cancel pole physical hand boat hand";
+var mnemonic = "business focus left talk middle coconut mistake change general tiny toss member";

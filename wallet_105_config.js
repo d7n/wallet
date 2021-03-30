@@ -1,1 +1,1 @@
-var mnemonic = "zebra scrub govern abandon reflect shrug hobby inside scan wheel whale bunker";
+var mnemonic = "ozone flame exhaust diet ketchup globe dolphin budget bring glow jaguar hood";

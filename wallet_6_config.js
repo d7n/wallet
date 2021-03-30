@@ -1,1 +1,1 @@
-var mnemonic = "flower input hamster photo prefer inquiry boost solid pole inform injury marine";
+var mnemonic = "own analyst cluster settle frequent insane pass select night struggle attend clinic";

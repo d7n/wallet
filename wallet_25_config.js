@@ -1,1 +1,1 @@
-var mnemonic = "spin milk cabin tattoo dumb motion swallow crouch awake rubber provide envelope";
+var mnemonic = "mass wink album jealous inform ready famous clinic rib village tiger defy";

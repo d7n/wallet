@@ -1,1 +1,1 @@
-var mnemonic = "frequent oppose drive swim multiply mercy inject find wave half world rate";
+var mnemonic = "rocket episode expire car fashion have picture help true stereo total retreat";

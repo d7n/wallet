@@ -1,1 +1,1 @@
-var mnemonic = "since wash crew inch proud color jewel barrel wood coast staff enlist";
+var mnemonic = "cute soft already explain cat seat agent frost wage bid gym casual";

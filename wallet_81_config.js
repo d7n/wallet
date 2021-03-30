@@ -1,1 +1,1 @@
-var mnemonic = "catalog crane access cake battle squeeze wave fresh cabin off penalty evolve";
+var mnemonic = "wreck drop music symptom swift strong key pig often pact great entire";
