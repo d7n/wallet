@@ -1,1 +1,1 @@
-var mnemonic = "stumble until young bullet jeans identify december intact piano metal fabric skirt";
+var mnemonic = "message smooth spell cube drum fly purity way away nerve acid tiger";

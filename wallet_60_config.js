@@ -1,1 +1,1 @@
-var mnemonic = "verb impact mother debris bitter buddy forum swarm emotion upset arm extra";
+var mnemonic = "envelope organ duty gaze life labor day old abuse width oppose square";

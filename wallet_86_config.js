@@ -1,1 +1,1 @@
-var mnemonic = "budget mean weasel praise strong pistol expose fragile vacant betray clay traffic";
+var mnemonic = "exhaust window eternal praise era text oblige gain melt switch recall tortoise";

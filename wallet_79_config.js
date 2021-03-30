@@ -1,1 +1,1 @@
-var mnemonic = "cost nothing effort jump attitude ancient daring tonight card border wool book";
+var mnemonic = "parade ostrich brave truck hard city meat biology apple pencil artist tide";

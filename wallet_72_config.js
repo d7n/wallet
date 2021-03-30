@@ -1,1 +1,1 @@
-var mnemonic = "smile bulb ladder various walk material symptom dilemma defy sample security pull";
+var mnemonic = "kiwi hunt solar junior process frozen maple trial dinner hammer pen water";

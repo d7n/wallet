@@ -1,1 +1,1 @@
-var mnemonic = "cheese patch marriage demise debris produce matter churn humor ride demand diary";
+var mnemonic = "rebuild worth paper humble west already drink electric off banana route slab";

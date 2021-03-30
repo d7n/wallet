@@ -1,1 +1,1 @@
-var mnemonic = "frown plate rate clown pave chief border bird patient other damage pyramid";
+var mnemonic = "apart casino piece duty rebuild obvious romance spy various release bunker exit";

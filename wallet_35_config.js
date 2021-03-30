@@ -1,1 +1,1 @@
-var mnemonic = "frost ice express capital blood home lumber bar atom chef media cart";
+var mnemonic = "net move regret hollow corn exchange negative parrot become have borrow medal";

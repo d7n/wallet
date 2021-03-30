@@ -1,1 +1,1 @@
-var mnemonic = "shield power vocal glad mom wall liquid tilt ramp end market banner";
+var mnemonic = "target crawl warfare gather coach whale coral now half party wasp attend";

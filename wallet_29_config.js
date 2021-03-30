@@ -1,1 +1,1 @@
-var mnemonic = "walk age wagon atom blur method story relax umbrella grant discover advice";
+var mnemonic = "inch chat march engage gas flash vocal lunar chunk mesh hood salute";

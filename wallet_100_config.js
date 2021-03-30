@@ -1,1 +1,1 @@
-var mnemonic = "step elegant above alley flat width proof harvest media initial bench evidence";
+var mnemonic = "deputy moment gate hungry session bid essay extra review today more market";

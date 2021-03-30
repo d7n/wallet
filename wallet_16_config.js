@@ -1,1 +1,1 @@
-var mnemonic = "bottom amused blast devote trash risk bounce bean fix define multiply raven";
+var mnemonic = "run venue athlete lottery fringe essay daughter comic trial blast tube kiss";

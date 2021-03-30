@@ -1,1 +1,1 @@
-var mnemonic = "uphold faint slight taste daring derive dinner scout trip online reason virtual";
+var mnemonic = "must eagle ribbon page adapt corn face ladder proof glare tooth error";

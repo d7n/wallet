@@ -1,1 +1,1 @@
-var mnemonic = "volcano rail effort wrong margin three goose october correct wet follow worth";
+var mnemonic = "muscle fault scrap dust live alley grid fresh catalog skate arch east";

@@ -1,1 +1,1 @@
-var mnemonic = "cube same time enough limit flee lobster lucky flight best conduct clerk";
+var mnemonic = "actual switch race total plug update oxygen window extend rib elevator wear";

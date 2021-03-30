@@ -1,1 +1,1 @@
-var mnemonic = "dentist luggage indoor powder maximum all green comic hybrid hamster popular erupt";
+var mnemonic = "body copy sing office suggest hobby pudding escape ride defy enemy bless";

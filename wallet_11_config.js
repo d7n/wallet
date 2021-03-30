@@ -1,1 +1,1 @@
-var mnemonic = "switch neck plate fly weather into reason dune ordinary announce between fever";
+var mnemonic = "general clarify unlock kangaroo coconut skill bind oxygen juice cradle six viable";

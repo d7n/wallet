@@ -1,1 +1,1 @@
-var mnemonic = "frame awesome lizard column connect hospital oval skull source host danger waste";
+var mnemonic = "example slab siege sun curve wonder faith decade final divert cute course";

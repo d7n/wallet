@@ -1,1 +1,1 @@
-var mnemonic = "stereo have alert crew scan despair repeat quantum artefact credit cinnamon almost";
+var mnemonic = "decrease pigeon rifle flush notable boat valid pelican aunt inmate vivid size";

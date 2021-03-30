@@ -1,1 +1,1 @@
-var mnemonic = "beyond twice mom mixed memory entry arrest input essence remember velvet consider";
+var mnemonic = "stock liberty type shoulder shock exhibit caught correct submit rice this option";

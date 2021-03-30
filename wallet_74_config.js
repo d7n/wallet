@@ -1,1 +1,1 @@
-var mnemonic = "recipe torch marine turn patrol garage bulb amateur scene online grocery grant";
+var mnemonic = "dentist party tape comfort miracle monkey stumble outer mutual sunny lecture color";

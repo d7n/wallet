@@ -1,1 +1,1 @@
-var mnemonic = "velvet castle trash human ethics beach sight sick loyal discover cushion adult";
+var mnemonic = "few iron faith wolf cereal reunion kind pause garbage average success spell";

@@ -1,1 +1,1 @@
-var mnemonic = "custom turtle punch hazard immune pottery used drama aunt black canyon ancient";
+var mnemonic = "common giraffe summer valve napkin normal armor reward burden pause ticket index";

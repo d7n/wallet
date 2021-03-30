@@ -1,1 +1,1 @@
-var mnemonic = "tissue violin february clip pave blossom armor sweet shrug trap sentence hope";
+var mnemonic = "senior scheme rail force match ginger various grab glory atom lawn eight";

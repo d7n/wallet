@@ -1,1 +1,1 @@
-var mnemonic = "bid fuel burst casual solar crazy blur priority soap pelican cactus across";
+var mnemonic = "remind sample banana delay miracle pulp route blur unlock suffer casino nice";

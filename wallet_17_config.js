@@ -1,1 +1,1 @@
-var mnemonic = "enrich diagram result coral finger gloom give salute neglect nation glue supply";
+var mnemonic = "tuition neck main ladder breeze seminar pool develop lecture length palm device";

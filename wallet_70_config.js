@@ -1,1 +1,1 @@
-var mnemonic = "flat cargo grid route unhappy parent border humor poem economy glide category";
+var mnemonic = "narrow senior castle stuff there patrol mixed reject boat chunk budget foam";

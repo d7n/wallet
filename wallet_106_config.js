@@ -1,1 +1,1 @@
-var mnemonic = "breeze vacant nasty antique kiss quote island evil sunny burger tag palace";
+var mnemonic = "dune mother slide gauge grit mom pole glue robust body favorite lion";

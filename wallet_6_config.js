@@ -1,1 +1,1 @@
-var mnemonic = "weapon output cram miracle error business shell brown bike mad reason milk";
+var mnemonic = "tool debris embody absorb spy edit abuse cement useless recycle physical video";

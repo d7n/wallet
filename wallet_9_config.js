@@ -1,1 +1,1 @@
-var mnemonic = "trade friend coffee chief laptop hurry buyer crazy heart transfer slogan turtle";
+var mnemonic = "protect profit photo base market pluck pledge please nothing grain awake ability";

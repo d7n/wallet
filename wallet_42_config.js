@@ -1,1 +1,1 @@
-var mnemonic = "narrow sadness energy tomato explain guess simple choose twin twelve inject toddler";
+var mnemonic = "chaos tunnel affair park bind income amused champion promote wasp raw session";

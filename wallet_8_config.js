@@ -1,1 +1,1 @@
-var mnemonic = "join shaft ozone anger basket champion explain journey rival fun design artwork";
+var mnemonic = "marble sing private mix clutch bulk network large dove cattle kitten security";

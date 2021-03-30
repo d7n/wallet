@@ -1,1 +1,1 @@
-var mnemonic = "funny manage marble energy monkey usage income awful fossil demise rib seed";
+var mnemonic = "depart spoil okay agree symbol build argue exotic plug ribbon drip salmon";

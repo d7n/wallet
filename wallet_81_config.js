@@ -1,1 +1,1 @@
-var mnemonic = "solar right struggle laugh apple spawn quality example differ gentle firm garage";
+var mnemonic = "item tobacco basket rent swap unable solve toddler upgrade peasant doctor capital";

@@ -1,1 +1,1 @@
-var mnemonic = "hammer betray remove acquire fiscal firm pluck cactus buffalo link draw kitchen";
+var mnemonic = "honey minimum reward flee door pass tip sister account deposit scorpion silent";

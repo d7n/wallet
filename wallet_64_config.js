@@ -1,1 +1,1 @@
-var mnemonic = "save pause educate crop true pause charge tornado congress shrimp ability false";
+var mnemonic = "confirm image wolf able okay scan gas arctic carry fork shop distance";

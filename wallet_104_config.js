@@ -1,1 +1,1 @@
-var mnemonic = "february vessel toddler keen jealous crunch sense note method lock problem theme";
+var mnemonic = "start affair glimpse aspect type special write move box video peanut slight";

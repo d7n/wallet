@@ -1,1 +1,1 @@
-var mnemonic = "toy always nose inhale crumble lecture hover unveil quick obey cycle inch";
+var mnemonic = "sword genuine tennis cloth other forum ladder assume undo resist hungry front";

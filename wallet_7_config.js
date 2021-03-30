@@ -1,1 +1,1 @@
-var mnemonic = "little junior urban job motor pass strategy need abandon menu wire vintage";
+var mnemonic = "inquiry december manage claw early unfold chuckle awkward stem inherit someone lunar";

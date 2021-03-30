@@ -1,1 +1,1 @@
-var mnemonic = "gorilla concert boost game gentle dizzy soup polar stage best program green";
+var mnemonic = "dismiss very giant height pave stick banner chaos witness ticket goose have";

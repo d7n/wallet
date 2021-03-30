@@ -1,1 +1,1 @@
-var mnemonic = "hockey bunker mystery vehicle grant lumber obscure leopard lazy team exclude torch";
+var mnemonic = "ancient summer unaware amazing this milk whip pink genre cruise gun toilet";

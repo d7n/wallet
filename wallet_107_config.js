@@ -1,1 +1,1 @@
-var mnemonic = "faint obvious wreck goat dust major pave require secret goat clown alley";
+var mnemonic = "hole tree advice inquiry perfect size purity run bargain blush artist pass";

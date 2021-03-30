@@ -1,1 +1,1 @@
-var mnemonic = "snow topple feel weekend decade focus foam virus claim divorce escape early";
+var mnemonic = "web discover payment network illegal quantum airport foam buddy seek mobile stairs";

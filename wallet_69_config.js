@@ -1,1 +1,1 @@
-var mnemonic = "tiny body heart proof weapon sight field soap gaze concert version bundle";
+var mnemonic = "essay acquire vessel half vintage swarm whip pioneer science gorilla suspect elevator";

@@ -1,1 +1,1 @@
-var mnemonic = "undo immense bar vital horse bone cage auto arrest lucky display leopard";
+var mnemonic = "subject defy win regular idea crystal race reunion nasty load fit acid";

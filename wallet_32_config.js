@@ -1,1 +1,1 @@
-var mnemonic = "where curious pill three elephant embody auction rapid farm express habit drill";
+var mnemonic = "opinion popular egg error field mercy gather drip tomorrow deputy pink oven";

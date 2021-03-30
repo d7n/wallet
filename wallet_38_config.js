@@ -1,1 +1,1 @@
-var mnemonic = "spend dentist dignity review cushion bulb juice guide attitude ordinary demise knee";
+var mnemonic = "marriage green tail news auto outside surprise river stairs home turn cancel";

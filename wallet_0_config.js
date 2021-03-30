@@ -1,1 +1,1 @@
-var mnemonic = "spoon slow rude guess ocean satisfy lake legal river stamp sniff daughter";
+var mnemonic = "extra olympic borrow inhale typical bridge album source fat rescue island coffee";

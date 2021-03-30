@@ -1,1 +1,1 @@
-var mnemonic = "green what village edge refuse picnic doctor expose mass dolphin giraffe lecture";
+var mnemonic = "lawsuit bone luxury swap girl curious twist feature fence surface cargo frame";

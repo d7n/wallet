@@ -1,1 +1,1 @@
-var mnemonic = "mixture old decline provide gather nothing coin word design force ginger force";
+var mnemonic = "arm witness icon grain gesture ethics album odor picnic jungle hood wolf";

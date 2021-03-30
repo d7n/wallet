@@ -1,1 +1,1 @@
-var mnemonic = "scatter bundle notice syrup lock please pilot snake raccoon month reflect essay";
+var mnemonic = "shoulder sound target rookie question mutual buyer upset net imitate inject fitness";

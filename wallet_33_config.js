@@ -1,1 +1,1 @@
-var mnemonic = "cave above pony wife sheriff exotic injury vendor deer weird deposit announce";
+var mnemonic = "embody play limit waste record hello man eyebrow improve road snack order";

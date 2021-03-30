@@ -1,1 +1,1 @@
-var mnemonic = "drill flight place spring grant close give inner quote journey pause cat";
+var mnemonic = "stick burger deposit size unable apple naive garbage network end furnace try";

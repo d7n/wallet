@@ -1,1 +1,1 @@
-var mnemonic = "dynamic jewel soap old ice link position safe case lend bird artist";
+var mnemonic = "setup hire erode column spike shadow brave tomorrow pair between crystal mutual";

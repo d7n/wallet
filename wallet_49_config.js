@@ -1,1 +1,1 @@
-var mnemonic = "team setup better spin math humor stool hen kingdom second blame tackle";
+var mnemonic = "winter dilemma practice weasel boat lumber gossip team project thank valley sock";

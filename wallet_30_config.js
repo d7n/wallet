@@ -1,1 +1,1 @@
-var mnemonic = "setup inch deal whale fantasy intact side toddler cost wrestle image town";
+var mnemonic = "sleep maximum metal pepper write common hold dial note organ fluid ill";

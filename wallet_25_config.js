@@ -1,1 +1,1 @@
-var mnemonic = "toe junk dynamic march artefact gun hammer cruise gold violin kangaroo zebra";
+var mnemonic = "material talk provide tribe toilet else fix expire panel undo alarm shift";

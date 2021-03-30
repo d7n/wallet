@@ -1,1 +1,1 @@
-var mnemonic = "casino vanish act walnut engine mask depend vintage woman whip hope exile";
+var mnemonic = "hat drop habit hunt museum gym stumble tooth thumb clever uphold craft";

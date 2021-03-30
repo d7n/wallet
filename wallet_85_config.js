@@ -1,1 +1,1 @@
-var mnemonic = "about spread bicycle father dinosaur glass jewel detail refuse midnight garden orchard";
+var mnemonic = "unit ugly guide artefact cave rescue cheap prize prison despair law olive";

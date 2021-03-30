@@ -1,1 +1,1 @@
-var mnemonic = "talent seminar echo almost fury three inform draw thrive diary gesture success";
+var mnemonic = "town onion twelve rough radio pyramid ridge size danger rabbit limit action";

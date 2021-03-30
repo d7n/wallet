@@ -1,1 +1,1 @@
-var mnemonic = "crazy camera beauty diesel favorite cannon enjoy travel person baby grape midnight";
+var mnemonic = "radar yellow cost alarm rather lava empty truth chaos scare retire hazard";

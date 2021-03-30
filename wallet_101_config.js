@@ -1,1 +1,1 @@
-var mnemonic = "bridge bubble lab buddy curve juice office peanut rival diesel evolve draw";
+var mnemonic = "scatter sponsor amateur plug safe electric potato demise wolf six cruise topple";

@@ -1,1 +1,1 @@
-var mnemonic = "seed apple quarter quote twenty trash tunnel clock silk wealth tomorrow holiday";
+var mnemonic = "success reject achieve dilemma message dutch fame fat must decide moon powder";

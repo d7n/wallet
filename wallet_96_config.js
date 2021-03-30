@@ -1,1 +1,1 @@
-var mnemonic = "powder world large kitchen enact interest unaware party park kiwi program burger";
+var mnemonic = "cigar oppose seek science tip wagon spend federal napkin giraffe cup egg";

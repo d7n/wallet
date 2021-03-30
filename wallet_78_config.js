@@ -1,1 +1,1 @@
-var mnemonic = "clarify health ranch winner glory edit sun lion pet medal primary noise";
+var mnemonic = "inherit net segment hungry oyster sheriff chalk result inflict surge chunk grunt";

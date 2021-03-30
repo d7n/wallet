@@ -1,1 +1,1 @@
-var mnemonic = "cart ocean village version truly economy wealth slogan half panic wolf scheme";
+var mnemonic = "tennis chunk sport pool endorse daughter purity mention deal brisk arrange sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "guide impact wolf ritual yard digital outer message fatal input comfort nation";
+var mnemonic = "sponsor about escape theory crunch mad replace follow cheap mountain game humor";

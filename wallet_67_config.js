@@ -1,1 +1,1 @@
-var mnemonic = "income iron offer sting since claw comic same auto ship mom outer";
+var mnemonic = "fetch strike leave winter vicious rifle destroy fold clock fashion ladder reform";

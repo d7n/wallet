@@ -1,1 +1,1 @@
-var mnemonic = "use degree vendor route machine fire elite gather kite benefit glory month";
+var mnemonic = "diary tortoise scheme aisle record parade trick piano rocket couple spray summer";

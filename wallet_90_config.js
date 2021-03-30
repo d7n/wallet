@@ -1,1 +1,1 @@
-var mnemonic = "curtain next poem army bind they lift blur permit dress unhappy jar";
+var mnemonic = "grab wagon embrace assume junior canyon gravity oak office sphere advice next";

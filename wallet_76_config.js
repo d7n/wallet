@@ -1,1 +1,1 @@
-var mnemonic = "culture off property gather salon install remain inmate era define power shine";
+var mnemonic = "differ floor gravity clog shop upgrade include duty mandate jungle frown immune";

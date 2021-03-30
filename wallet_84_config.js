@@ -1,1 +1,1 @@
-var mnemonic = "easy apology wool kitten topic raise receive force normal report lucky claim";
+var mnemonic = "poem siege talk please budget journey lemon kid cup metal immune truly";

@@ -1,1 +1,1 @@
-var mnemonic = "equal supply neutral material cattle range ticket sleep spoil symbol hammer fence";
+var mnemonic = "execute turkey slogan finish tilt liberty mad cattle skirt gas anchor memory";

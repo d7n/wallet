@@ -1,1 +1,1 @@
-var mnemonic = "roof describe lonely rule ensure hood police fish case track order same";
+var mnemonic = "legend ancient venture nest road fluid program unaware lift skin wide accident";

@@ -1,1 +1,1 @@
-var mnemonic = "learn keep quiz tell begin document quit chaos muffin post tumble uphold";
+var mnemonic = "trim model helmet tongue punch amused fox wait ketchup march body daring";

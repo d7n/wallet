@@ -1,1 +1,1 @@
-var mnemonic = "disorder wear visa open occur nest defense worth lemon provide direct tuna";
+var mnemonic = "feel chimney video small odor chat rifle height rail stand decade what";

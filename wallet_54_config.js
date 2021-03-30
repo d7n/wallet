@@ -1,1 +1,1 @@
-var mnemonic = "stool raw magnet gloom smoke leisure icon ignore snack harsh sword lion";
+var mnemonic = "oyster angle loyal boy chapter unveil about midnight fun decide behind topple";

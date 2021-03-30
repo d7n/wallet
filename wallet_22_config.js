@@ -1,1 +1,1 @@
-var mnemonic = "style ridge poverty axis remind olive mixed stairs tumble segment replace gospel";
+var mnemonic = "apple route useless abuse drift differ later act lab fit shoulder suffer";

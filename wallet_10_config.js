@@ -1,1 +1,1 @@
-var mnemonic = "pledge myself crack person adult husband picnic curious security donor primary appear";
+var mnemonic = "loop endless cement govern insane test fade cluster choice payment mass unit";

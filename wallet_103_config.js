@@ -1,1 +1,1 @@
-var mnemonic = "million culture blue during fox oppose space actor rural fury river strike";
+var mnemonic = "spread video company wage cook buyer sunny buffalo whale base quarter moon";

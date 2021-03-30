@@ -1,1 +1,1 @@
-var mnemonic = "short ugly fancy rib oppose zebra include wife base vicious title cherry";
+var mnemonic = "nut spare scheme review easily increase myself hurt shine path abandon elite";

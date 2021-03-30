@@ -1,1 +1,1 @@
-var mnemonic = "oven denial stable coach figure oval away artefact jacket fork device cupboard";
+var mnemonic = "film thought parade busy decline crime throw earth erode orbit car inflict";

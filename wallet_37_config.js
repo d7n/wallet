@@ -1,1 +1,1 @@
-var mnemonic = "law empty sunset clown agent clarify music kiwi mutual local clap again";
+var mnemonic = "crack fatigue grief robot battle swap average sunset coast chicken canal snow";

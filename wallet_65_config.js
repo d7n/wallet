@@ -1,1 +1,1 @@
-var mnemonic = "elephant celery dizzy whisper common chase month sentence actual shrug wrestle resist";
+var mnemonic = "super vote toward perfect offer hunt puppy judge fox draft attitude caution";

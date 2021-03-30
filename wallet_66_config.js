@@ -1,1 +1,1 @@
-var mnemonic = "denial together object couple energy pilot speak right vivid chalk rhythm scan";
+var mnemonic = "surprise brave forward social tone detect door crater enhance candy loan fantasy";

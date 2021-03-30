@@ -1,1 +1,1 @@
-var mnemonic = "citizen security vintage rigid ethics ripple canal meadow mobile bright toward dwarf";
+var mnemonic = "level member tower fold color topple daughter month quantum document wagon alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "despair fringe silly spice mosquito denial cash frozen ice point exist lens";
+var mnemonic = "company acquire alley dial isolate machine legal oven infant long ready all";

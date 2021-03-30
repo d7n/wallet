@@ -1,1 +1,1 @@
-var mnemonic = "aerobic circle run swing table over turn oppose giggle whale coach sorry";
+var mnemonic = "crawl gesture glare erosion tooth uncover minimum elevator chase unique city wide";

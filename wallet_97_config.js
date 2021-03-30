@@ -1,1 +1,1 @@
-var mnemonic = "divert video eager tape length strong climb hard twice skate pledge repair";
+var mnemonic = "mother safe december marriage blind canvas essay cherry mobile buddy spawn sugar";

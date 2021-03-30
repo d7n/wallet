@@ -1,1 +1,1 @@
-var mnemonic = "friend deer miracle strategy notable practice patch online guilt zero coffee nuclear";
+var mnemonic = "family lawn village cattle finish market soccer consider company squirrel regular fiction";

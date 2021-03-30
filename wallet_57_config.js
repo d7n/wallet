@@ -1,1 +1,1 @@
-var mnemonic = "issue thumb spawn dizzy powder access burger fury simple relief mean scorpion";
+var mnemonic = "fame success text lamp wrap picnic tunnel unfair vote early develop trend";

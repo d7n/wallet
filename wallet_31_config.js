@@ -1,1 +1,1 @@
-var mnemonic = "chuckle twist basic patrol impose smooth soul moon need neglect fee betray";
+var mnemonic = "champion october puppy attitude estate say panic captain tip this exact gap";
