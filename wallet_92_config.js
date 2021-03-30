@@ -1,1 +1,1 @@
-var mnemonic = "mechanic crop belt stem wall hazard other fog payment ostrich grace stairs";
+var mnemonic = "chase venue hotel level upgrade discover season insane license flash venture oval";

@@ -1,1 +1,1 @@
-var mnemonic = "angry shadow tennis target cricket cousin throw menu wreck earth coconut reject";
+var mnemonic = "polar easily sunset depth simple round office document blouse win gravity result";

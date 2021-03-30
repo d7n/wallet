@@ -1,1 +1,1 @@
-var mnemonic = "rice output abuse current action muffin gossip arctic unfair solve neck minor";
+var mnemonic = "ladder runway candy slab hawk milk amazing castle arrow already liberty syrup";

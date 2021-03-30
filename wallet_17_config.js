@@ -1,1 +1,1 @@
-var mnemonic = "since long great test limb ridge kidney journey silent slow runway doll";
+var mnemonic = "guess struggle culture submit matrix they taste cat step analyst era hundred";

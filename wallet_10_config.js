@@ -1,1 +1,1 @@
-var mnemonic = "tree vital rapid odor outdoor casual risk myth page digital manual project";
+var mnemonic = "library method kind engage motion direct distance file sun spot coach divide";

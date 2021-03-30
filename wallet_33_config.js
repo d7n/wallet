@@ -1,1 +1,1 @@
-var mnemonic = "maze burden window satisfy hybrid pumpkin dentist trim wood struggle mother scan";
+var mnemonic = "citizen strike rib proof like expand miss mercy reveal cool segment sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "unique patch come crouch stomach song swift pumpkin spy cover finish beach";
+var mnemonic = "trip figure satoshi atom peace hedgehog depth negative rich under rival govern";

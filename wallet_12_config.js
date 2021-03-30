@@ -1,1 +1,1 @@
-var mnemonic = "noble area hand cloud cry upper foil village text era buzz bargain";
+var mnemonic = "absorb clever weasel found elevator armed gravity shaft supply ripple erode forward";

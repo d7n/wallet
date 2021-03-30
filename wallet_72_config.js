@@ -1,1 +1,1 @@
-var mnemonic = "float negative galaxy island wheel assault ramp spoon real salmon push text";
+var mnemonic = "fancy lion puzzle arrive puzzle dilemma sniff shoulder subway suit eagle door";

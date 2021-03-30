@@ -1,1 +1,1 @@
-var mnemonic = "please broccoli page discover degree solve damp gas save wild opera shrug";
+var mnemonic = "assist mansion sniff sibling speak wrong champion believe rack coach half whale";

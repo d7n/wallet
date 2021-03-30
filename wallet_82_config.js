@@ -1,1 +1,1 @@
-var mnemonic = "method coral fee census document brain duck garage three awful happy all";
+var mnemonic = "arctic sand future reopen test ankle bus spoon rely message nothing huge";

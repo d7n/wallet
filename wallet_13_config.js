@@ -1,1 +1,1 @@
-var mnemonic = "tonight setup uphold marble reform dust odor version father glare viable pudding";
+var mnemonic = "lemon tooth economy monster attack frost harsh sell crazy soda slab demand";

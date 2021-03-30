@@ -1,1 +1,1 @@
-var mnemonic = "glide fluid april design payment doctor between extend city couple pattern insect";
+var mnemonic = "poem cruel copy wagon upon crop doll bid wing alone window private";

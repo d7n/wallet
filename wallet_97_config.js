@@ -1,1 +1,1 @@
-var mnemonic = "accident alien face forum chair destroy start enjoy once broom satisfy genre";
+var mnemonic = "secret snap clever bicycle message crucial retire game game unknown plate label";

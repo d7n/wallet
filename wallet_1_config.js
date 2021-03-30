@@ -1,1 +1,1 @@
-var mnemonic = "west uniform blind urban yellow fence knock kid salad next brand hood";
+var mnemonic = "bright genre inside they stand comic clutch hazard audit erosion corn borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier icon quantum weapon apple amateur pact remind today allow reform explain";
+var mnemonic = "route lemon orphan jeans south letter vehicle feed dose include silent pig";

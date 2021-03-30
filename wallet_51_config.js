@@ -1,1 +1,1 @@
-var mnemonic = "man almost cart quit dignity style donate diagram demise small arctic arrow";
+var mnemonic = "goddess huge finger van lizard audit march destroy blush video swear stove";

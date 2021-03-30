@@ -1,1 +1,1 @@
-var mnemonic = "cushion only across cube design fatigue profit picnic vehicle since peanut cheap";
+var mnemonic = "grunt comfort essence feature program number nasty three system adult glass winter";

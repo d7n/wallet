@@ -1,1 +1,1 @@
-var mnemonic = "news urban buddy drama novel input olive town divorce search frame upset";
+var mnemonic = "under glad blue work weasel alcohol retreat project receive half hand helmet";

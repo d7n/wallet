@@ -1,1 +1,1 @@
-var mnemonic = "area inside dilemma travel enough give coil alarm globe auction movie arrest";
+var mnemonic = "frown weapon horn mom nature bind since only trumpet romance screen congress";

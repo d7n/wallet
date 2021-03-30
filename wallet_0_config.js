@@ -1,1 +1,1 @@
-var mnemonic = "zoo learn glad chaos able snake dismiss brick comfort loop leopard imitate";
+var mnemonic = "skirt predict device sail offer news flag perfect couple twist manage found";

@@ -1,1 +1,1 @@
-var mnemonic = "layer attack burst bless visual maple mesh execute lamp sibling zoo energy";
+var mnemonic = "siege alley hen pipe hat law canal across forward genius survey ride";

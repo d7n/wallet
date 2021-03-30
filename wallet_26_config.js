@@ -1,1 +1,1 @@
-var mnemonic = "tide entry stay outside shift pill eyebrow left labor solve jazz weasel";
+var mnemonic = "soup globe spoil horror phrase outside session lecture merge element fire endless";

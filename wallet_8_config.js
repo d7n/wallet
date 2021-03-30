@@ -1,1 +1,1 @@
-var mnemonic = "they impulse deny dismiss hire coffee nurse favorite wasp address mechanic balance";
+var mnemonic = "street antenna puppy reason diamond piece method bitter under harbor receive wonder";

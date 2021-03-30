@@ -1,1 +1,1 @@
-var mnemonic = "region waste slot yellow inspire human awful clay prosper artefact olive tornado";
+var mnemonic = "merit damage baby slide subject vocal useful unit syrup identify banner indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake swap hold innocent satoshi sting betray fat upset feel interest initial";
+var mnemonic = "novel rose pioneer churn car shield nation diamond mind cloud move urge";

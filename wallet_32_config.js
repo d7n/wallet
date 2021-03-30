@@ -1,1 +1,1 @@
-var mnemonic = "change salon heart joke yard friend cheese vague coach script phone tube";
+var mnemonic = "visual option meadow issue wing orient sibling effort panda attitude board benefit";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse expire harsh speed wrong wrist sponsor gospel size athlete flush asthma";
+var mnemonic = "claw diet speak ignore myth castle lava baby goose dirt apology castle";

@@ -1,1 +1,1 @@
-var mnemonic = "child connect area blush pause this clock gossip siren forum bus night";
+var mnemonic = "fury crystal slogan attend scatter column twenty horror nation tornado fitness giant";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey pause change cradle lounge ostrich easily glare anger sail broom valid";
+var mnemonic = "crop dismiss pattern imitate update relief unhappy below child steel mansion auction";

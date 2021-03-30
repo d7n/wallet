@@ -1,1 +1,1 @@
-var mnemonic = "punch skate name client oven elite stamp duck toddler runway toddler birth";
+var mnemonic = "despair maid decade stairs summer accident census outside bike pretty net bean";

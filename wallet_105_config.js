@@ -1,1 +1,1 @@
-var mnemonic = "proof tribe young image feature sniff grit fortune awkward exchange duty second";
+var mnemonic = "village design light grow able arm equip winner surface caution keen person";

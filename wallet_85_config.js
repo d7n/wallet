@@ -1,1 +1,1 @@
-var mnemonic = "engine number write quote clerk cat harbor brother mask ripple play bargain";
+var mnemonic = "kingdom satisfy silent arctic example club motion diet grocery album tribe artwork";

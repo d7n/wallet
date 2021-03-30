@@ -1,1 +1,1 @@
-var mnemonic = "keen wear divide exit quick reject cause fence source blind crane amazing";
+var mnemonic = "prefer fade height father surface egg faith wolf pause adult novel anchor";

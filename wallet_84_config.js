@@ -1,1 +1,1 @@
-var mnemonic = "health display lobster cancel suffer tape lizard tenant piano razor apple someone";
+var mnemonic = "foster salute floor float pause scene forest solution decade congress isolate cook";

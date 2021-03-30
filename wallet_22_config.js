@@ -1,1 +1,1 @@
-var mnemonic = "person prosper that fringe ostrich machine riot afford snow cake joy rabbit";
+var mnemonic = "load menu acoustic produce spend bar sick habit network hurt detect humble";

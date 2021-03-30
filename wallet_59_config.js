@@ -1,1 +1,1 @@
-var mnemonic = "myth august fuel shell decide face mango affair differ shine sponsor scissors";
+var mnemonic = "food critic fence harsh divide time flat quiz window help speed idle";

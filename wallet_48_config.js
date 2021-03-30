@@ -1,1 +1,1 @@
-var mnemonic = "clever grain treat kidney exercise sketch modify cable nurse modify satisfy pipe";
+var mnemonic = "slim alert trophy certain spoil upper general girl praise fold speak cake";

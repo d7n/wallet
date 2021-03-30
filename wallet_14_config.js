@@ -1,1 +1,1 @@
-var mnemonic = "labor emerge paddle horn outside vocal couch subway discover coyote crisp buzz";
+var mnemonic = "foster essence baby hazard divert pipe kitchen exchange first liberty mobile mule";

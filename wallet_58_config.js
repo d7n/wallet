@@ -1,1 +1,1 @@
-var mnemonic = "wonder account piano play type ball loud sock force add deny spare";
+var mnemonic = "inch plate good grace trumpet heavy upgrade verify moment vote plunge tired";

@@ -1,1 +1,1 @@
-var mnemonic = "start around arrow usual luxury prevent valid emotion vicious rug affair uncover";
+var mnemonic = "swallow analyst good bulk metal shadow focus drink because trip genius morning";

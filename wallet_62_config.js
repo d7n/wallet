@@ -1,1 +1,1 @@
-var mnemonic = "forget tail equal proud marriage deal crouch quarter picnic frog mesh stamp";
+var mnemonic = "enough bottom holiday fall appear laundry damp expect intact right abuse gun";

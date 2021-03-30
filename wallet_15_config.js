@@ -1,1 +1,1 @@
-var mnemonic = "faculty army tobacco chronic mutual owner rail cinnamon tumble glory way own";
+var mnemonic = "december mobile siren special actress black truly derive comfort tell remind virus";

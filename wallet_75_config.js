@@ -1,1 +1,1 @@
-var mnemonic = "asset behind space yellow despair leader almost pulse visit wasp material accident";
+var mnemonic = "genre father rifle purse limit crawl refuse cupboard midnight whale smile will";

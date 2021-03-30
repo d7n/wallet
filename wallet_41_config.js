@@ -1,1 +1,1 @@
-var mnemonic = "next rescue primary latin casino color hair energy address kangaroo utility moment";
+var mnemonic = "poem captain normal fame spin bulb position valid exile immense humble area";

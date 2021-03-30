@@ -1,1 +1,1 @@
-var mnemonic = "purse board delay wrestle govern tomato green split dizzy tail melt quote";
+var mnemonic = "curve gauge winner balcony address member chunk faculty bottom desert term ignore";

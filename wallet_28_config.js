@@ -1,1 +1,1 @@
-var mnemonic = "picture divide edge video drift south open comfort security core system wish";
+var mnemonic = "awkward hollow category display apart view small supply organ motor this avoid";

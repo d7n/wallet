@@ -1,1 +1,1 @@
-var mnemonic = "trend flee begin gym mammal cable chuckle about nut portion sight stay";
+var mnemonic = "zero label ability chaos spare edit violin possible magnet try time party";

@@ -1,1 +1,1 @@
-var mnemonic = "voice saddle sun lemon chef legal pill tree industry inform mom smile";
+var mnemonic = "render cattle okay tunnel rubber mandate sentence vendor resist castle visit dust";

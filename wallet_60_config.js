@@ -1,1 +1,1 @@
-var mnemonic = "near faint need remember flight course able book virtual hip hover like";
+var mnemonic = "together slow glide nature moon fall sausage decrease twice mixed hungry topple";

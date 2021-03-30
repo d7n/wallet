@@ -1,1 +1,1 @@
-var mnemonic = "review menu crunch parade race toe cattle knee toward fabric evolve comfort";
+var mnemonic = "health flavor senior green erase water increase popular pluck sad salon leader";

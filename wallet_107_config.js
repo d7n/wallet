@@ -1,1 +1,1 @@
-var mnemonic = "hotel return cement obtain cute reflect truck symbol chair popular assault stairs";
+var mnemonic = "peace chalk nerve dish amateur artefact duck purity mad display spoon craft";

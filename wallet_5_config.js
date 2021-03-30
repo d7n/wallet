@@ -1,1 +1,1 @@
-var mnemonic = "erase sound credit almost fan eagle fog saddle remember bundle brick lumber";
+var mnemonic = "salon decade agree injury best wash rifle crew warfare afraid hat material";

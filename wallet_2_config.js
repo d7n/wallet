@@ -1,1 +1,1 @@
-var mnemonic = "grow palace guess dentist choice dry another fault setup ship pet master";
+var mnemonic = "vivid swim patient author rich anxiety tree convince that dawn vocal clog";

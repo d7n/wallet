@@ -1,1 +1,1 @@
-var mnemonic = "mind rule glide develop maid smoke disagree basket lemon skirt mirror grass";
+var mnemonic = "toss verify loyal survey portion wear give dog iron potato escape promote";

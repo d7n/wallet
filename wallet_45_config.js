@@ -1,1 +1,1 @@
-var mnemonic = "entry parent eternal banana cradle enjoy flock wide robust will glance blouse";
+var mnemonic = "volume hurdle climb soft toddler detail oblige profit useful vendor question violin";

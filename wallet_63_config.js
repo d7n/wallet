@@ -1,1 +1,1 @@
-var mnemonic = "code trumpet pepper muscle canal punch forum security journey prison first warrior";
+var mnemonic = "offer delay erase worry excuse robot below view senior also bread circle";

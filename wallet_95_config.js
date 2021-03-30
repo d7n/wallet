@@ -1,1 +1,1 @@
-var mnemonic = "soul youth inch once drop crouch cost situate act board pelican avocado";
+var mnemonic = "bar wagon grass excite flavor unhappy mobile dose lift fossil shrimp patch";

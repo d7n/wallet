@@ -1,1 +1,1 @@
-var mnemonic = "fever chunk beach fortune govern later amazing vacuum slide inhale panic village";
+var mnemonic = "palace double clever sorry adapt eagle enter uncover ordinary rare silent fan";

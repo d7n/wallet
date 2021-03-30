@@ -1,1 +1,1 @@
-var mnemonic = "wish shine season shed sausage rabbit section sample old legend veteran general";
+var mnemonic = "tunnel arrive ribbon cruise fun impulse book mirror come immense elbow cabin";

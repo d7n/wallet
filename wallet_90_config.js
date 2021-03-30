@@ -1,1 +1,1 @@
-var mnemonic = "large air current deny manage expand infant manage brave horn tomato aerobic";
+var mnemonic = "tiny size crater catch alcohol erupt video fade salad spin video random";

@@ -1,1 +1,1 @@
-var mnemonic = "inform seat indoor charge inspire must fossil casual loan uncover forget cook";
+var mnemonic = "retire weapon flower book mandate roof place ski spatial torch view slice";

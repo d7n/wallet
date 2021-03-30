@@ -1,1 +1,1 @@
-var mnemonic = "fortune deny wood alone spy glad awkward gas daughter carpet derive auction";
+var mnemonic = "include estate used expire heavy fold delay bleak device luggage harvest expire";

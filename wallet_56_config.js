@@ -1,1 +1,1 @@
-var mnemonic = "lift goddess account cheese episode cliff vendor gain inflict box excess auto";
+var mnemonic = "unable intact brown decade vessel stool yellow effort van pumpkin where subject";

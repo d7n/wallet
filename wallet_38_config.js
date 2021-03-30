@@ -1,1 +1,1 @@
-var mnemonic = "proof february snake truly crowd drill vehicle board arena lounge toss doctor";
+var mnemonic = "sentence join midnight pilot between harbor scrap matter giggle volcano address record";

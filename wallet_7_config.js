@@ -1,1 +1,1 @@
-var mnemonic = "relief cousin burst arrow orchard forum bread pioneer fame hire valley attitude";
+var mnemonic = "silly coin crime hundred demise sudden able solve debate village pattern put";

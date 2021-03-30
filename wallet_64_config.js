@@ -1,1 +1,1 @@
-var mnemonic = "one attend sorry drastic force boat avoid leg crater vicious always arena";
+var mnemonic = "street capable decorate stick owner enforce plug shell room struggle snake erupt";

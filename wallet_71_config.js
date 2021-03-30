@@ -1,1 +1,1 @@
-var mnemonic = "indicate rule vault library swamp wheat wagon chair height jar tone parrot";
+var mnemonic = "come slice strategy record buzz argue legal melt soap they spend zebra";

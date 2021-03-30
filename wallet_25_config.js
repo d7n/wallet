@@ -1,1 +1,1 @@
-var mnemonic = "surround minor tackle profit runway parent rebel cereal sell goat minimum foam";
+var mnemonic = "always lounge slender ketchup initial slow execute layer elbow gasp chimney cash";

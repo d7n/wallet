@@ -1,1 +1,1 @@
-var mnemonic = "daring twist owner strong canoe hybrid sock bunker gas pencil debris loyal";
+var mnemonic = "silent that spike heart throw gloom narrow stock little series verify pulp";

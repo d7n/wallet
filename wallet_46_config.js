@@ -1,1 +1,1 @@
-var mnemonic = "stand shy hungry person tonight agree aim pact future two explain island";
+var mnemonic = "ordinary convince own pyramid else crumble harvest lottery initial sorry friend remember";

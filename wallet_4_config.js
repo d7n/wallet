@@ -1,1 +1,1 @@
-var mnemonic = "nut layer brave ski body timber blush woman avoid orphan walk noodle";
+var mnemonic = "emotion together silver world turkey forest grape silk wolf dawn auto gauge";

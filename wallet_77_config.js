@@ -1,1 +1,1 @@
-var mnemonic = "spoon humble winner patch wide enlist direct enable album wreck crystal trial";
+var mnemonic = "purpose stool tower crisp state reject sadness exit wear pig shy drip";

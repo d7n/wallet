@@ -1,1 +1,1 @@
-var mnemonic = "prepare world version brief replace float man valley behave old toss enact";
+var mnemonic = "chicken slush sample mouse cinnamon opera injury feel entire void make enjoy";

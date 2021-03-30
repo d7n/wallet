@@ -1,1 +1,1 @@
-var mnemonic = "include chest offer sock easy age tent ancient carbon squeeze sand jar";
+var mnemonic = "gossip since auto tomorrow enemy risk whip color humble bulk soon embrace";

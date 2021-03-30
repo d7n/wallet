@@ -1,1 +1,1 @@
-var mnemonic = "ancient diagram puppy evolve cloth various size discover gate narrow nature cushion";
+var mnemonic = "unknown snake fancy undo tornado panda voice mercy that thrive number parade";

@@ -1,1 +1,1 @@
-var mnemonic = "pottery cattle rain bundle bachelor artist pulse cement mandate skirt rhythm select";
+var mnemonic = "poem assault wagon accuse park wool shuffle fitness surge world put toast";

@@ -1,1 +1,1 @@
-var mnemonic = "cake dwarf daughter song tower math include tired notice woman smooth rhythm";
+var mnemonic = "correct wash rack stamp foam void beach surround doctor glass envelope brown";

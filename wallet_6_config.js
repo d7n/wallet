@@ -1,1 +1,1 @@
-var mnemonic = "dilemma stadium two power garden skirt slogan pattern ugly salt boring omit";
+var mnemonic = "sketch alpha bacon sting hotel dawn guitar battle draw flash motor dad";

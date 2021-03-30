@@ -1,1 +1,1 @@
-var mnemonic = "enter consider kiwi pipe wrestle illness attack chat orphan hobby art citizen";
+var mnemonic = "water spy fitness supreme legal sphere own place genius long lounge normal";

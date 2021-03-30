@@ -1,1 +1,1 @@
-var mnemonic = "illegal length false wave exhibit miss glimpse brother drastic connect kingdom minimum";
+var mnemonic = "coconut kitchen coyote else impulse load client peanut cave frog minor ride";

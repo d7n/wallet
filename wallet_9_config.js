@@ -1,1 +1,1 @@
-var mnemonic = "lonely raise tower popular video rough basic mistake render anxiety avoid category";
+var mnemonic = "silk develop unveil dream science essay guard undo audit fantasy stumble denial";

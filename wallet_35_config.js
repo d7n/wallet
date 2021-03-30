@@ -1,1 +1,1 @@
-var mnemonic = "august area worth honey float grain ugly element infant else join route";
+var mnemonic = "wreck decorate scene exercise rich truck inhale extend narrow help buffalo educate";

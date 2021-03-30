@@ -1,1 +1,1 @@
-var mnemonic = "cheap example field lobster vital first quick insane design swamp act helmet";
+var mnemonic = "peanut hover usage usual early auto tag marble wisdom priority twelve sand";

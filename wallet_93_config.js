@@ -1,1 +1,1 @@
-var mnemonic = "this visit rule orient kiss ill total popular auto margin rookie scan";
+var mnemonic = "aim gaze under sword cloth siege recipe celery junior sick debris distance";

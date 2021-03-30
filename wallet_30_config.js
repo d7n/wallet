@@ -1,1 +1,1 @@
-var mnemonic = "library possible ring alter cattle leaf mule prison edit omit brave civil";
+var mnemonic = "situate loan palm demand salute gas elbow pear tuna client spin cross";

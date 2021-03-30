@@ -1,1 +1,1 @@
-var mnemonic = "wrap citizen charge clap black ten bubble theory close eagle mobile traffic";
+var mnemonic = "ethics enrich capital orbit odor half wash tortoise resource family south typical";

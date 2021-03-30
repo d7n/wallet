@@ -1,1 +1,1 @@
-var mnemonic = "whale fortune manage electric whip surface ginger minimum label lamp pride special";
+var mnemonic = "metal insect found peasant rice stay october club point gate bunker employ";

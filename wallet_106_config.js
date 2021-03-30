@@ -1,1 +1,1 @@
-var mnemonic = "onion service wrist hip nest cattle pelican token void vanish flame galaxy";
+var mnemonic = "simple screen project youth ghost jungle very major congress endorse people write";

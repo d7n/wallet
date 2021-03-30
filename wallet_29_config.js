@@ -1,1 +1,1 @@
-var mnemonic = "describe song gas icon scorpion review nominee youth plunge knife oval ensure";
+var mnemonic = "riot crush divorce friend river useful boring forum clutch child erupt grace";

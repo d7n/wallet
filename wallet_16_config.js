@@ -1,1 +1,1 @@
-var mnemonic = "pottery between mouse hire mesh attitude fix venture air luxury utility almost";
+var mnemonic = "sunset true system erase inhale robot window great radar cliff empower connect";

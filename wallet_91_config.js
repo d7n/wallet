@@ -1,1 +1,1 @@
-var mnemonic = "type secret mechanic permit promote sense power dust empty oval south round";
+var mnemonic = "cupboard erase credit elite metal light deny reject sunny peace easy tonight";

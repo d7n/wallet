@@ -1,1 +1,1 @@
-var mnemonic = "keep island fetch lunch couple reunion autumn candy wet priority convince notice";
+var mnemonic = "crater vast immense hedgehog grocery tower olive frame tomorrow example bar orient";

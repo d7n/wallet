@@ -1,1 +1,1 @@
-var mnemonic = "pave nest core flame stick enter animal neglect olympic current drive garden";
+var mnemonic = "dice tent reduce shoot venue ordinary large chef razor rely emotion garbage";

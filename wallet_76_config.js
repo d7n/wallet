@@ -1,1 +1,1 @@
-var mnemonic = "black great flavor chunk trouble chalk hand enforce possible melody allow glide";
+var mnemonic = "asthma glow seed service valid hurdle bind violin stock someone note naive";

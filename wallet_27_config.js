@@ -1,1 +1,1 @@
-var mnemonic = "exist logic spend legal top similar pride snow wink notable marble human";
+var mnemonic = "tissue lesson material stuff lawsuit forward symbol dentist drive february season tank";

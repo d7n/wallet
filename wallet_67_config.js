@@ -1,1 +1,1 @@
-var mnemonic = "must frozen hole truth song update describe fortune slight race build suit";
+var mnemonic = "pilot salt again approve renew bunker warrior veteran loop wonder goat opinion";

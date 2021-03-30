@@ -1,1 +1,1 @@
-var mnemonic = "swift recall twenty enforce poem crowd during amount safe jaguar bracket inspire";
+var mnemonic = "hobby practice door butter vacant food coin century sugar curious permit valley";
