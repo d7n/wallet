@@ -1,1 +1,1 @@
-var mnemonic = "aspect birth carry number brass cactus keen approve soup must wool gas";
+var mnemonic = "decide evil parrot forest employ then steel era dignity reopen rebuild stereo";

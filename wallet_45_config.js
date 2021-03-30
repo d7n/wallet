@@ -1,1 +1,1 @@
-var mnemonic = "parent vanish donor parrot dish side more moment rotate spirit giggle penalty";
+var mnemonic = "remove sting lumber sun differ hold weasel park silent solar into defy";

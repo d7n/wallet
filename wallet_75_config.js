@@ -1,1 +1,1 @@
-var mnemonic = "normal minor palm decade melt ritual custom local gain present boat crop";
+var mnemonic = "high jaguar brisk copper fly rude swarm depart hope armor talent marriage";

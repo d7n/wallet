@@ -1,1 +1,1 @@
-var mnemonic = "jealous crash glass divert gate december angle garlic pioneer can anxiety uniform";
+var mnemonic = "lens provide invest topic alcohol cement kiwi wrong friend bring blouse work";

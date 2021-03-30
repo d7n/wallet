@@ -1,1 +1,1 @@
-var mnemonic = "trim aspect child negative speak talent settle marriage clarify soap destroy prison";
+var mnemonic = "define crew knife lamp soon swarm nurse camp mail guide reflect mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cargo knock speed urge guilt gadget crop sleep practice cake volume";
+var mnemonic = "mansion cloud nut pill gate arrest install warm garage cash section bacon";

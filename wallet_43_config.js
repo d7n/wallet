@@ -1,1 +1,1 @@
-var mnemonic = "reflect decorate exit clay pledge century flame toddler hand sketch insect pattern";
+var mnemonic = "winter dash same regular deliver spray crack chief muscle feature throw omit";

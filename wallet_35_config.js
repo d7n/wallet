@@ -1,1 +1,1 @@
-var mnemonic = "wrap prefer install wait business during science rebel stick erode layer spider";
+var mnemonic = "teach device reflect already tonight erase bachelor simple route false reflect nut";

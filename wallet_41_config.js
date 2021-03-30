@@ -1,1 +1,1 @@
-var mnemonic = "sentence cigar album faith defy breeze unfold raise define giraffe online hidden";
+var mnemonic = "pottery tornado mandate punch bid try cabbage unveil hollow okay enjoy wrong";

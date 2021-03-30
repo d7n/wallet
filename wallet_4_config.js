@@ -1,1 +1,1 @@
-var mnemonic = "truck pyramid violin hour desert cart youth romance fatal come library swamp";
+var mnemonic = "fitness kite genius way fine ice stable goddess maze window boil oxygen";

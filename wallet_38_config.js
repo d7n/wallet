@@ -1,1 +1,1 @@
-var mnemonic = "harbor mention humble service adult diamond media curtain joy essence spy throw";
+var mnemonic = "joke mountain stool decade forward approve youth stage swarm pink bulk stick";

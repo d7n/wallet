@@ -1,1 +1,1 @@
-var mnemonic = "retreat remove mom skate name boat term similar fabric blade fee urban";
+var mnemonic = "when donate stumble lecture holiday divorce combine clap wire issue utility deputy";

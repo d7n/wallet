@@ -1,1 +1,1 @@
-var mnemonic = "joke sauce endless rigid kangaroo arctic average anger waste hole pulse wisdom";
+var mnemonic = "hobby exit carpet ripple total loan frown luxury repeat future obtain trigger";

@@ -1,1 +1,1 @@
-var mnemonic = "other process major usage yard chicken paddle seven swarm soap uncover embody";
+var mnemonic = "pill denial food beach casual begin enroll position pet endless lumber mention";

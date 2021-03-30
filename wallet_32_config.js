@@ -1,1 +1,1 @@
-var mnemonic = "just affair menu fish point core own water cream admit opinion jungle";
+var mnemonic = "scene snow burger raccoon reform barely glass forest penalty manage nation cigar";

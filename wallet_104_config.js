@@ -1,1 +1,1 @@
-var mnemonic = "cliff stage test rifle brush moon abstract peasant humor used craft juice";
+var mnemonic = "marine rigid will enforce clip circle parent attack chronic toss pear cash";

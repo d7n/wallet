@@ -1,1 +1,1 @@
-var mnemonic = "tonight warfare amazing satoshi journey divorce eyebrow include off current soap lunch";
+var mnemonic = "side toss push answer own doll expose salt nut output boat copper";

@@ -1,1 +1,1 @@
-var mnemonic = "actor author increase soup scan swim festival hill blossom hair exhibit impact";
+var mnemonic = "return ask repair pause sick wild object gauge green mobile cactus motion";

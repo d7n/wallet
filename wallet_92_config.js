@@ -1,1 +1,1 @@
-var mnemonic = "all chapter scout cloth board truck elegant culture relax alarm offer upper";
+var mnemonic = "brave cave knife long rebel arctic sustain concert fire tiny edge old";

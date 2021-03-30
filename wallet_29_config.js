@@ -1,1 +1,1 @@
-var mnemonic = "place blush club end metal design excess rural dress above lucky aerobic";
+var mnemonic = "awesome fatigue blue enlist pool couple still purse orbit abandon goat what";

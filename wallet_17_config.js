@@ -1,1 +1,1 @@
-var mnemonic = "awful master poem stove staff pear liquid fun mandate wreck window inside";
+var mnemonic = "endorse early twist negative point foil bundle rule sock lobster lunar lobster";

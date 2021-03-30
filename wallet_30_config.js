@@ -1,1 +1,1 @@
-var mnemonic = "major fatigue onion urge satisfy hammer stadium antenna satisfy consider used gadget";
+var mnemonic = "large square fancy inherit style ceiling faculty dust enroll nominee arrest wife";

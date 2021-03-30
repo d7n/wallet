@@ -1,1 +1,1 @@
-var mnemonic = "remind water work foster pitch moment virus seek onion festival fantasy pulp";
+var mnemonic = "limit forum sport cousin lion artist design rebuild consider where chair gate";

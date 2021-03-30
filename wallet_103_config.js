@@ -1,1 +1,1 @@
-var mnemonic = "help point blanket ladder lawsuit pool odor finger tornado suspect method vivid";
+var mnemonic = "list rookie squeeze juice copper nature ripple pull lend success strategy brush";

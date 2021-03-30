@@ -1,1 +1,1 @@
-var mnemonic = "lab year essence eight chat clog twist sun album crawl number opera";
+var mnemonic = "motor cabbage swallow neglect fuel add orphan alarm spring seven deal ski";

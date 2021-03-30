@@ -1,1 +1,1 @@
-var mnemonic = "basket only basket balcony bird require maze surface spare ill suit filter";
+var mnemonic = "attitude couch shift issue face town risk lake push surround favorite garbage";

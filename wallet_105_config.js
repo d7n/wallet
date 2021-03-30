@@ -1,1 +1,1 @@
-var mnemonic = "close devote cat vintage slide video regret media girl shove clock prevent";
+var mnemonic = "dry sunny dune eagle attitude where kind project pioneer decade champion ketchup";

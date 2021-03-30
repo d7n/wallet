@@ -1,1 +1,1 @@
-var mnemonic = "empower volcano warrior travel wild involve pottery ski real mountain motor inspire";
+var mnemonic = "illness gloom hint weapon coast auto crane agree divide supreme net select";

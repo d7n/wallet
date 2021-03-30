@@ -1,1 +1,1 @@
-var mnemonic = "connect jeans raven arctic screen common hair sad gather brand wave picture";
+var mnemonic = "twenty layer jealous pair course pledge message theory chapter volcano other neutral";

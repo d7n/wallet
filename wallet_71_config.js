@@ -1,1 +1,1 @@
-var mnemonic = "skirt apology prefer curtain must gesture gown abuse option august follow hair";
+var mnemonic = "hurt practice access hope hat mass bulk critic salute screen slam false";

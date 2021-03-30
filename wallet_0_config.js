@@ -1,1 +1,1 @@
-var mnemonic = "gap reduce misery punch plastic flower upon screen vocal give put vicious";
+var mnemonic = "swarm snake town dance atom hungry sustain noodle coconut element axis response";

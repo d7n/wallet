@@ -1,1 +1,1 @@
-var mnemonic = "biology eight embrace hood ranch reform since holiday floor hood offer around";
+var mnemonic = "hero apology cave sail force depend enter check project radar claw popular";

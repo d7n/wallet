@@ -1,1 +1,1 @@
-var mnemonic = "click danger begin hungry almost blush lock biology lecture coyote exit absurd";
+var mnemonic = "skill game talent scrap chaos captain jazz elder salt poem coin can";

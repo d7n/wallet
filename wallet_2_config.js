@@ -1,1 +1,1 @@
-var mnemonic = "final canyon credit brass insect spread eager december much obtain neither observe";
+var mnemonic = "foster rocket joke trick never panic abandon find cloud noodle tuna display";

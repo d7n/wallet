@@ -1,1 +1,1 @@
-var mnemonic = "party gold tiger obey slice consider wrap armed city mad aerobic waste";
+var mnemonic = "brand still tongue thumb room gloom choose tunnel endless model harvest kid";

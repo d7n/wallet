@@ -1,1 +1,1 @@
-var mnemonic = "fiction fitness license kit water either essence baby coffee hand erode pulp";
+var mnemonic = "range start alert quantum face brief pause poverty repeat occur choice oppose";

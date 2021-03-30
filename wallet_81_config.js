@@ -1,1 +1,1 @@
-var mnemonic = "march famous spatial unveil surround enlist among swamp junk egg struggle fresh";
+var mnemonic = "vehicle squeeze song pink chunk indicate tag mule amount scrap bridge ceiling";

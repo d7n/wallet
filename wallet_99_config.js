@@ -1,1 +1,1 @@
-var mnemonic = "misery tooth achieve vote flush taxi social they tobacco inspire decide rice";
+var mnemonic = "wet orchard human blade satisfy outdoor attend trade govern control source hill";

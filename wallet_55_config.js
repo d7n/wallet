@@ -1,1 +1,1 @@
-var mnemonic = "feel stay travel cactus borrow loan bird verify buffalo measure hazard shield";
+var mnemonic = "palace scale invite loop panel alley vital thunder bring spawn exist police";

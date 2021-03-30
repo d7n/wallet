@@ -1,1 +1,1 @@
-var mnemonic = "interest inspire trick fat pool blush industry lobster cloth resource judge caution";
+var mnemonic = "churn almost bargain load winter type left mesh hair eye connect margin";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel matrix burden fresh impulse shiver certain pizza misery rail law novel";
+var mnemonic = "short island liquid allow slot member near inquiry fold genuine tail chalk";

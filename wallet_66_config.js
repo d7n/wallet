@@ -1,1 +1,1 @@
-var mnemonic = "thunder cluster subject mushroom print woman enable shed unable wheat hamster sense";
+var mnemonic = "turn dice next blossom eternal among segment toddler praise vacuum pioneer myself";

@@ -1,1 +1,1 @@
-var mnemonic = "final grab jaguar guess erode regret drink rack veteran kid diagram virus";
+var mnemonic = "wing violin boil budget chase trick balance shop remember settle weapon inch";

@@ -1,1 +1,1 @@
-var mnemonic = "write lava list poem phrase purchase ghost sad shock once again pencil";
+var mnemonic = "gun elite record nasty ill this dilemma pilot rebel breeze track raven";

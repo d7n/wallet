@@ -1,1 +1,1 @@
-var mnemonic = "avoid song pelican squirrel gaze hip hospital next bicycle asset flag shoulder";
+var mnemonic = "little earth decade stamp genuine supreme rib cave picture between tortoise vital";

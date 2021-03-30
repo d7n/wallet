@@ -1,1 +1,1 @@
-var mnemonic = "admit segment pave escape escape park check badge stomach scale control behind";
+var mnemonic = "baby siren sleep trial denial appear pill pond error online update turkey";

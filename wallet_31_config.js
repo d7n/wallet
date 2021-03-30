@@ -1,1 +1,1 @@
-var mnemonic = "mango zero hollow code mechanic enact combine pilot lift slide stage key";
+var mnemonic = "puppy enrich design middle renew stable oyster option report frequent face pulse";

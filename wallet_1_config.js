@@ -1,1 +1,1 @@
-var mnemonic = "east hip nominee erode unknown shop renew spoon debris quit private giggle";
+var mnemonic = "peace negative sense earn build erode inmate hobby fruit runway rabbit bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "prison display fix enact innocent crater sock need life place version antique";
+var mnemonic = "couple educate fossil apology excess weird quiz drama letter knife excuse peasant";

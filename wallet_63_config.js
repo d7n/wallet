@@ -1,1 +1,1 @@
-var mnemonic = "mystery ahead assume exist soul entire require share pass penalty return economy";
+var mnemonic = "degree undo box proud amount system escape clump refuse ripple brain cart";

@@ -1,1 +1,1 @@
-var mnemonic = "leisure legal jazz victory garbage alone into equal gravity rule story mind";
+var mnemonic = "cheap destroy runway interest digital dust shallow cost fringe gas snack shop";

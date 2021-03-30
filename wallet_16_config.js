@@ -1,1 +1,1 @@
-var mnemonic = "final danger heart party pigeon match bomb dash duty sail bundle trick";
+var mnemonic = "race farm account multiply beyond okay holiday agent worth flat month magnet";

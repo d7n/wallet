@@ -1,1 +1,1 @@
-var mnemonic = "toast believe entry liar puzzle sniff summer shed concert hen attitude cabin";
+var mnemonic = "approve jewel tilt write swamp latin fiscal animal access ice cave owner";

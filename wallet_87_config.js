@@ -1,1 +1,1 @@
-var mnemonic = "area circle wish parade zone pull have stairs gesture client pear retreat";
+var mnemonic = "side exist sight midnight donkey huge satisfy treat piece route twenty alien";

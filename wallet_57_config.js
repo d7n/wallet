@@ -1,1 +1,1 @@
-var mnemonic = "kitten early will dial length poverty salt jacket economy test tornado ozone";
+var mnemonic = "skate blind young gauge course tell steel design velvet milk order ribbon";

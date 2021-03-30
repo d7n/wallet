@@ -1,1 +1,1 @@
-var mnemonic = "assault country moon learn bus merge net destroy crane illness when hold";
+var mnemonic = "busy render assault cigar catch reform action upgrade pizza club stone scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "student vacuum quantum spice wedding current salmon inquiry sunny beauty inch symptom";
+var mnemonic = "lecture crumble fog surround need tobacco year script route pig hover try";

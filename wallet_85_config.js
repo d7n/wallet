@@ -1,1 +1,1 @@
-var mnemonic = "surround fruit gap enter narrow april practice audit faculty beef oppose pill";
+var mnemonic = "canal carry seat leopard search sustain position genius simple domain believe soldier";

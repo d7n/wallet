@@ -1,1 +1,1 @@
-var mnemonic = "turkey mind sweet buffalo business arch silk vintage slice hurdle carbon harvest";
+var mnemonic = "original flash pumpkin road income word violin corn problem decade shift high";

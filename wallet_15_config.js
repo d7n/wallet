@@ -1,1 +1,1 @@
-var mnemonic = "forum under vessel bacon gravity still rich process marble alone scheme giant";
+var mnemonic = "negative bicycle summer thought jealous frozen harsh void trumpet bar anxiety gap";

@@ -1,1 +1,1 @@
-var mnemonic = "actor creek fall innocent slam daughter motion clean guess area portion win";
+var mnemonic = "balcony rival just sister stool frown praise truck pen more genre snow";

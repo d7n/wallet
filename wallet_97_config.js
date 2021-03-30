@@ -1,1 +1,1 @@
-var mnemonic = "fly upon inquiry right modify obscure unaware swallow man merit stem fuel";
+var mnemonic = "adult always great churn million candy silent height scare sign reflect render";

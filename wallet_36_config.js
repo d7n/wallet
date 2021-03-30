@@ -1,1 +1,1 @@
-var mnemonic = "cheese drink amount nature stand tackle cat close whip anger nice wedding";
+var mnemonic = "network august coyote lucky link prison diagram clean raw regular brief raven";

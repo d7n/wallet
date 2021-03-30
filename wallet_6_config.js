@@ -1,1 +1,1 @@
-var mnemonic = "consider metal pyramid pluck fragile virus final silent truck control term crew";
+var mnemonic = "legal hazard action spend faculty palm credit priority tower stumble zoo casino";

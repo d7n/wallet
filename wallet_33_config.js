@@ -1,1 +1,1 @@
-var mnemonic = "tongue seminar alley scatter trigger satoshi chapter work powder only keen develop";
+var mnemonic = "ecology off home grid junior arrow soup often option behave heart syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "nice nothing powder file obtain height decline glance above blue tongue click";
+var mnemonic = "stomach surround clock squirrel aware paper puzzle insect orchard cook praise trip";

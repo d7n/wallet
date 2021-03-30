@@ -1,1 +1,1 @@
-var mnemonic = "distance rain sense model spot target about elevator alert chicken tide cherry";
+var mnemonic = "business remember vivid doctor skill silver shoe close erode boil couch fog";

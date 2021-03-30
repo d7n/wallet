@@ -1,1 +1,1 @@
-var mnemonic = "rotate capable skill excite husband stomach purchase august around match caught unusual";
+var mnemonic = "fee stereo tribe canvas lounge almost brisk symptom craft busy gain pulse";

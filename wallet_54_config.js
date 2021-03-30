@@ -1,1 +1,1 @@
-var mnemonic = "until quarter silly govern wish wedding nest place inner build tumble attack";
+var mnemonic = "caution grief media swallow proof scatter walnut stock wait stadium audit valid";

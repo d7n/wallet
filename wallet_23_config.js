@@ -1,1 +1,1 @@
-var mnemonic = "govern work truck birth blush brick ride tuna social document angry bacon";
+var mnemonic = "empty young receive address silk assume capable lesson disagree ugly cement holiday";

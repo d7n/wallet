@@ -1,1 +1,1 @@
-var mnemonic = "dune fun wise dumb valid romance dawn science prefer believe tired shift";
+var mnemonic = "call river remain history letter thing lazy neither tank orient output bean";

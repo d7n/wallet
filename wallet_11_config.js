@@ -1,1 +1,1 @@
-var mnemonic = "peasant high flag answer also spirit raw inquiry floor ketchup pluck hospital";
+var mnemonic = "subway depend observe gesture trick cargo nature vocal cancel cover crazy concert";

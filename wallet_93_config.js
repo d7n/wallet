@@ -1,1 +1,1 @@
-var mnemonic = "drama coffee response end boring arrest boring fatal shuffle impulse orient tube";
+var mnemonic = "soul improve supply rare valve snack lazy blush what concert shield juice";

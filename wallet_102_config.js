@@ -1,1 +1,1 @@
-var mnemonic = "genre hard salt current fluid bullet sign stove oven exact silent modify";
+var mnemonic = "above science lab oven render record lawsuit movie buzz key gossip fault";

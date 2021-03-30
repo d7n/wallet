@@ -1,1 +1,1 @@
-var mnemonic = "strike pepper mom cloth cube census sausage sun gain memory question pistol";
+var mnemonic = "soda among canvas wait bicycle renew begin captain defy sting dog survey";

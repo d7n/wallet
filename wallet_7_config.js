@@ -1,1 +1,1 @@
-var mnemonic = "warfare tomato thunder mask flag armor speed athlete evoke deliver disagree hard";
+var mnemonic = "race stove rescue subject champion hover neglect kind interest rough aware huge";

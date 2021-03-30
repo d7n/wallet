@@ -1,1 +1,1 @@
-var mnemonic = "beef case core admit flight tornado genuine suit hotel angle balcony output";
+var mnemonic = "mask fame castle town bundle core song tone position park slide wear";

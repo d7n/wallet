@@ -1,1 +1,1 @@
-var mnemonic = "napkin ecology position desert escape filter creek pear glow hockey vicious curve";
+var mnemonic = "camp winter dolphin large ghost capable stamp inside visual huge iron leader";

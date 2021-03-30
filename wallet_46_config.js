@@ -1,1 +1,1 @@
-var mnemonic = "luxury capable mirror giggle quit nephew shed sibling clump doctor custom enhance";
+var mnemonic = "dwarf cruise sustain resemble father ill van ivory innocent crunch mom disagree";

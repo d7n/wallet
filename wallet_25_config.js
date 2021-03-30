@@ -1,1 +1,1 @@
-var mnemonic = "length average wait more art case joke category minute theme profit good";
+var mnemonic = "misery myself trust decide wrap pink hero bid dad stage exhaust chat";

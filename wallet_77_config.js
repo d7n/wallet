@@ -1,1 +1,1 @@
-var mnemonic = "lift riot table arrive fetch capable replace fault trumpet blouse rare ability";
+var mnemonic = "helmet idle slogan drill off moment night iron cereal hazard husband rate";

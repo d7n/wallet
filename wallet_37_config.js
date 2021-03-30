@@ -1,1 +1,1 @@
-var mnemonic = "answer cereal burst rose trick plunge bright sauce ask ball extend monster";
+var mnemonic = "rigid verb fog capital supreme legal easily orbit exclude bracket member poverty";

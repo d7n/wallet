@@ -1,1 +1,1 @@
-var mnemonic = "slide crisp double alley purpose pioneer supply involve brother wolf cupboard stay";
+var mnemonic = "strong rifle any only start horse deputy vivid method refuse kitchen grain";

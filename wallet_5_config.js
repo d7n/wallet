@@ -1,1 +1,1 @@
-var mnemonic = "humble furnace metal state prevent choose assist silent live ski square width";
+var mnemonic = "bachelor crew bridge fire street tree soda child buyer siege hockey salad";

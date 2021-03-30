@@ -1,1 +1,1 @@
-var mnemonic = "view zone stairs script quick slender soup marriage task arena flush vibrant";
+var mnemonic = "sail head trust amateur sleep sword elder ball oil unaware session climb";

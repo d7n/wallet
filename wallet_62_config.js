@@ -1,1 +1,1 @@
-var mnemonic = "code where tennis coffee coil ten laundry unaware public scrub sketch gold";
+var mnemonic = "trigger acid axis return morning volume boost essence lamp muscle cheap pistol";

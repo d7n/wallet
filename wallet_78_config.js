@@ -1,1 +1,1 @@
-var mnemonic = "ski able element cruel twice animal blood mobile hazard abstract phone wheat";
+var mnemonic = "artwork detail green employ hammer off deny example amateur slight grab clutch";

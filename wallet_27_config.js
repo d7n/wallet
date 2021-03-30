@@ -1,1 +1,1 @@
-var mnemonic = "legend attack fortune trade warm orphan until private blade verify place couch";
+var mnemonic = "boil potato nose scale flush sight combine talent review invest much ostrich";

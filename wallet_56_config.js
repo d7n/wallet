@@ -1,1 +1,1 @@
-var mnemonic = "scatter ethics push hand public endless find relief once detail theory merry";
+var mnemonic = "theme swarm lunar deputy wagon scan minimum relax canyon vivid desk language";

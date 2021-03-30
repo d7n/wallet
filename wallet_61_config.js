@@ -1,1 +1,1 @@
-var mnemonic = "phone egg wolf salmon enemy smooth nominee midnight very slice present coral";
+var mnemonic = "rack topic donkey wing city math wise master praise mobile unique child";

@@ -1,1 +1,1 @@
-var mnemonic = "such vapor walnut runway cradle lizard detail marine blanket random motor any";
+var mnemonic = "educate parrot atom defense adjust exercise giraffe sausage leg upgrade crisp venture";

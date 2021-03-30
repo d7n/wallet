@@ -1,1 +1,1 @@
-var mnemonic = "little frame mix security whisper brick option cupboard burst thing peanut fan";
+var mnemonic = "lawn thing tree inmate very say robot piano refuse hand twelve dirt";
