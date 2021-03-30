@@ -1,1 +1,1 @@
-var mnemonic = "narrow usual knife tongue unlock famous obtain argue hint rail library creek";
+var mnemonic = "ribbon sail gadget long rail seminar wear gorilla moon bright giggle axis";

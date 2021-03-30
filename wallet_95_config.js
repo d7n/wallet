@@ -1,1 +1,1 @@
-var mnemonic = "trick army pipe casino wink salt cement clump wrist question erode middle";
+var mnemonic = "flame economy blossom shop float sniff first spin narrow spice lamp quit";

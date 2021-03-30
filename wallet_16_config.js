@@ -1,1 +1,1 @@
-var mnemonic = "twelve crack nasty vapor entry document diagram boy kite trap absent slot";
+var mnemonic = "explain grow people style chicken blade change craft run noble attitude festival";

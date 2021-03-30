@@ -1,1 +1,1 @@
-var mnemonic = "inhale opinion snake note arrange pizza lady script inmate vanish census jealous";
+var mnemonic = "zebra scrub govern abandon reflect shrug hobby inside scan wheel whale bunker";

@@ -1,1 +1,1 @@
-var mnemonic = "glow basket used breeze noise plug atom pudding lab entire immense absorb";
+var mnemonic = "lunch capital unable blade acoustic unlock leisure blood snake crowd globe weather";

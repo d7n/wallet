@@ -1,1 +1,1 @@
-var mnemonic = "picture federal voyage area cook cereal auction wrestle alcohol identify clarify dust";
+var mnemonic = "okay car stadium album notable bicycle daring census mean drive notable grief";

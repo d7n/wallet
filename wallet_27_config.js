@@ -1,1 +1,1 @@
-var mnemonic = "state divide trade drastic produce agent horror canal kingdom planet actor object";
+var mnemonic = "rubber census neck act sniff visit concert unveil arrow elevator inside myself";

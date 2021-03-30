@@ -1,1 +1,1 @@
-var mnemonic = "witness august aspect box mobile pepper feed climb horn any gun govern";
+var mnemonic = "letter air symptom ready desert unlock cart hat fetch awesome mesh kiwi";

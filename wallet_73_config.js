@@ -1,1 +1,1 @@
-var mnemonic = "annual permit add popular again wasp normal oak crater day snake coast";
+var mnemonic = "expire able section harvest broom snake behave robust hawk chef swap home";

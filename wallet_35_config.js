@@ -1,1 +1,1 @@
-var mnemonic = "pause tunnel reform letter grape tube point stadium pretty label practice pig";
+var mnemonic = "please note lift husband laugh science park throw divide regret dumb attack";

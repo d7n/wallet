@@ -1,1 +1,1 @@
-var mnemonic = "major market speed visa hat company pepper cat zero dune buddy rough";
+var mnemonic = "hobby reopen segment poem wet wire wealth someone moment joy double midnight";

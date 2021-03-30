@@ -1,1 +1,1 @@
-var mnemonic = "hood among social unfair disorder goose health seven drama legal betray imitate";
+var mnemonic = "goddess exclude case brother season state verb wreck course bachelor network token";

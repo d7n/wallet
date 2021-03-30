@@ -1,1 +1,1 @@
-var mnemonic = "romance topple year praise blush regret apart brown dwarf world napkin arrest";
+var mnemonic = "script boy flower response pulp trip mass knee gossip siren leisure process";

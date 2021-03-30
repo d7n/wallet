@@ -1,1 +1,1 @@
-var mnemonic = "audit rug fall piano crawl pause torch art girl mosquito melody try";
+var mnemonic = "robust clarify learn drop ill host poem runway swamp wall lesson token";

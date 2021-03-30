@@ -1,1 +1,1 @@
-var mnemonic = "science elevator joy follow weather cousin jar dutch clown speed home alarm";
+var mnemonic = "squeeze embark box shaft frozen reopen transfer poverty wrist clean bulb butter";

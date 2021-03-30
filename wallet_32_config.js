@@ -1,1 +1,1 @@
-var mnemonic = "source depart kiss route benefit buzz area faith fatigue flower blue police";
+var mnemonic = "muffin carry leaf know idle auto all garlic job heavy pond task";

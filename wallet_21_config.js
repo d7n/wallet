@@ -1,1 +1,1 @@
-var mnemonic = "scissors weather voice clerk excess heart salt unknown scan enjoy stone false";
+var mnemonic = "boring myself update pudding control powder kind reflect obscure blade supply stone";

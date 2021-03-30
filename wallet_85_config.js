@@ -1,1 +1,1 @@
-var mnemonic = "napkin wave adjust mammal copper kiwi chimney saddle lesson expose improve transfer";
+var mnemonic = "party rely just ribbon lens satisfy never tissue once plastic genre ecology";

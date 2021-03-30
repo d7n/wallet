@@ -1,1 +1,1 @@
-var mnemonic = "inquiry jungle journey never public similar notice engage armed all inquiry snap";
+var mnemonic = "hero rabbit trust curious worth autumn spare whisper oppose lawsuit cheap bring";

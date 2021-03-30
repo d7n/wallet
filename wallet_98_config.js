@@ -1,1 +1,1 @@
-var mnemonic = "goddess toss lens they wage method off kitten clown submit attend unhappy";
+var mnemonic = "feed toast fluid badge require domain wink garden coyote peanut tongue must";

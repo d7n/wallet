@@ -1,1 +1,1 @@
-var mnemonic = "leisure edge private nominee inform swallow mercy crane spend into style husband";
+var mnemonic = "replace tail six kidney settle popular parent medal symptom there double ugly";

@@ -1,1 +1,1 @@
-var mnemonic = "wall industry exile shiver frozen cloth notice reunion hover blanket monster disorder";
+var mnemonic = "light orange orphan trust chief coin surprise novel leisure remember comic lamp";

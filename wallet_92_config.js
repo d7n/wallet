@@ -1,1 +1,1 @@
-var mnemonic = "kiwi start cheap dinner leader grow blush achieve dutch child they egg";
+var mnemonic = "industry usual desk decrease knife solid penalty deputy buzz stomach ivory surround";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition clap insane rude open amused stem distance trend consider crisp loyal";
+var mnemonic = "barrel range whisper deliver unusual switch wheel shoulder consider lunar earth vintage";

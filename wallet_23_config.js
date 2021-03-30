@@ -1,1 +1,1 @@
-var mnemonic = "shell afford soccer shed end boy assault box august envelope grain lunch";
+var mnemonic = "chat dash arrest absorb affair acoustic rule hill solid split model dial";

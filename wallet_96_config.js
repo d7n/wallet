@@ -1,1 +1,1 @@
-var mnemonic = "bachelor rib give zebra hammer medal pumpkin rookie feed weekend trigger thunder";
+var mnemonic = "number hen elder equip employ gravity lawsuit assault degree remind lazy average";

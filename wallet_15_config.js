@@ -1,1 +1,1 @@
-var mnemonic = "grit oyster wife vote history pledge gesture math guitar galaxy fork material";
+var mnemonic = "nothing around illegal cricket bind episode only possible snake cage cereal lion";

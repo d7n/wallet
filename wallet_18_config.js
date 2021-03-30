@@ -1,1 +1,1 @@
-var mnemonic = "doctor barrel begin trophy foam enforce finish weather cousin scout utility zebra";
+var mnemonic = "forget tray harsh short omit number reform box crucial initial sibling veteran";

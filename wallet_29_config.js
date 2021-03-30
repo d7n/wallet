@@ -1,1 +1,1 @@
-var mnemonic = "pear museum budget federal flash until logic cycle present goose grocery spatial";
+var mnemonic = "zone depend course action message select tomato similar hen surface tornado regret";

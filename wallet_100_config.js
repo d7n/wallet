@@ -1,1 +1,1 @@
-var mnemonic = "business journey neither hedgehog sick guide anger cable swing explain knee squirrel";
+var mnemonic = "drama thought quantum soft frost during wrestle film then list deal neck";

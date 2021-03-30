@@ -1,1 +1,1 @@
-var mnemonic = "kid deliver crime behind term abstract normal trip either shoe pilot wrong";
+var mnemonic = "mushroom truck risk front sing danger two ill spice snack party butter";

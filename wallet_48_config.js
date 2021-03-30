@@ -1,1 +1,1 @@
-var mnemonic = "globe fiction galaxy lazy lounge judge process what alcohol impact engine end";
+var mnemonic = "champion sense verb dizzy disease tilt flee fame zone lunar seed chuckle";

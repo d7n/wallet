@@ -1,1 +1,1 @@
-var mnemonic = "purpose vote start ill source library key seminar clock one gun pull";
+var mnemonic = "similar jazz filter radar tenant also camera essay fashion woman fossil task";

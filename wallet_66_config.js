@@ -1,1 +1,1 @@
-var mnemonic = "person air play neglect corn absurd flash polar airport balance develop entire";
+var mnemonic = "dust source tobacco steel advance arch normal mansion dash blue antenna guilt";

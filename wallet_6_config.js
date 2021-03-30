@@ -1,1 +1,1 @@
-var mnemonic = "episode grape spin actual bird file fatal cat slam flee cliff collect";
+var mnemonic = "flower input hamster photo prefer inquiry boost solid pole inform injury marine";

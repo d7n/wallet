@@ -1,1 +1,1 @@
-var mnemonic = "youth grow autumn state repair pear blur toss hair valid cave normal";
+var mnemonic = "baby silk census august trim ten gospel monster angle feel rate fuel";

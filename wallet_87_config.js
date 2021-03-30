@@ -1,1 +1,1 @@
-var mnemonic = "solar afford explain often leave drill prefer sudden crane coffee hockey habit";
+var mnemonic = "promote wreck patch canvas early exchange pink over gloom resemble gossip weapon";

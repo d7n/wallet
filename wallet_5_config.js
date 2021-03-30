@@ -1,1 +1,1 @@
-var mnemonic = "fame twin wrist harvest chat brisk area pole fruit debris churn unfold";
+var mnemonic = "scissors depart yard vendor odor exhibit paddle oven main submit mind prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "gate spin super lecture intact antique camera bring sure salad steak only";
+var mnemonic = "snap street have grunt fantasy cancel jacket style tide angry chief orbit";

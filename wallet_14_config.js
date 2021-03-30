@@ -1,1 +1,1 @@
-var mnemonic = "spatial urban village peanut adjust level harvest company unfold rookie gather drastic";
+var mnemonic = "marriage truth hunt coyote wife tent intact iron present sight section sadness";

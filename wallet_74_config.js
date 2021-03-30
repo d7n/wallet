@@ -1,1 +1,1 @@
-var mnemonic = "core core odor funny genuine easily wish essay cigar need deal spice";
+var mnemonic = "frequent oppose drive swim multiply mercy inject find wave half world rate";

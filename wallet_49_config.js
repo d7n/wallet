@@ -1,1 +1,1 @@
-var mnemonic = "jungle cruise gossip record session impulse share book crawl more fatal casino";
+var mnemonic = "host evolve pave unveil someone need demise bench parade brick borrow frog";

@@ -1,1 +1,1 @@
-var mnemonic = "joy way spell puzzle method run romance lonely ten aspect lunar medal";
+var mnemonic = "ugly stumble used capital wheel sell spy flush client gorilla poverty between";

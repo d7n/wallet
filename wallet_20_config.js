@@ -1,1 +1,1 @@
-var mnemonic = "prefer barrel patch prefer interest neither olympic banana cloth bunker coil paper";
+var mnemonic = "keep sudden drift purchase raven blur wreck woman town multiply once become";

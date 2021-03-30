@@ -1,1 +1,1 @@
-var mnemonic = "light rain certain over venture pluck grocery tuna leave chaos enjoy smart";
+var mnemonic = "brief wink clip actor media claim squeeze cruise soccer fly drink series";

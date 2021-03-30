@@ -1,1 +1,1 @@
-var mnemonic = "three museum bike amount code sick estate service thrive loan riot retire";
+var mnemonic = "glance derive rail large spray magnet canal lemon borrow claw inherit first";

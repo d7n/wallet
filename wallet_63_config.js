@@ -1,1 +1,1 @@
-var mnemonic = "perfect doctor bag flight client leg illegal patrol night tomorrow student crunch";
+var mnemonic = "make omit album other penalty leopard diagram dial clump ghost adult elbow";

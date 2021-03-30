@@ -1,1 +1,1 @@
-var mnemonic = "side mule mask judge arrive exchange visit fatigue afraid innocent fiscal blossom";
+var mnemonic = "cluster boil any ahead element pride exchange strike maze sure stage thrive";

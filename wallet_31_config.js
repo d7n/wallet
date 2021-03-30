@@ -1,1 +1,1 @@
-var mnemonic = "adult delay blush book fit today credit film embrace clay recipe code";
+var mnemonic = "blue chief life cube rocket gold video setup tube vapor salute easily";

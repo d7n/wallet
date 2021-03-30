@@ -1,1 +1,1 @@
-var mnemonic = "festival lounge task cement scare violin treat hollow because unit advance curious";
+var mnemonic = "capital leopard property pride leopard draw accident impact earth fuel wine object";

@@ -1,1 +1,1 @@
-var mnemonic = "item panther hard labor theme elbow city since green raw fabric width";
+var mnemonic = "crouch quick lift lens thought discover isolate churn goddess nut guess speak";

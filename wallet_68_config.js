@@ -1,1 +1,1 @@
-var mnemonic = "devote oblige inspire cute mercy feed asthma another vital cotton tunnel possible";
+var mnemonic = "elite female middle panic second tail wide labor source make paper start";

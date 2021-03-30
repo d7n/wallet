@@ -1,1 +1,1 @@
-var mnemonic = "inherit fame just minor belt invite ketchup peasant rifle barrel elbow decade";
+var mnemonic = "bless palm engine cute oval cheese erosion hurry slot elevator produce fun";

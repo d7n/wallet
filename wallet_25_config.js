@@ -1,1 +1,1 @@
-var mnemonic = "hungry cry donate hand spawn use day fancy wild clutch traffic fine";
+var mnemonic = "spin milk cabin tattoo dumb motion swallow crouch awake rubber provide envelope";

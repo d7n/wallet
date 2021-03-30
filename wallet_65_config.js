@@ -1,1 +1,1 @@
-var mnemonic = "rookie wink issue prison again cushion ticket tuna consider dress glad bone";
+var mnemonic = "erase teach bacon comfort dish funny swift ketchup inflict bean team element";

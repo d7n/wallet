@@ -1,1 +1,1 @@
-var mnemonic = "ball report cabbage heart biology lunch near inner text obtain embark multiply";
+var mnemonic = "retreat spot report crouch question walnut artefact adult lyrics fragile crater small";

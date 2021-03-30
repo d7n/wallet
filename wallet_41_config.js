@@ -1,1 +1,1 @@
-var mnemonic = "distance mom access river chef muscle champion pet rotate antique rib mutual";
+var mnemonic = "exhaust myself wing maximum hand match acid close explain level small mobile";

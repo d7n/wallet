@@ -1,1 +1,1 @@
-var mnemonic = "junior forward flavor cover roof twin promote antenna slow sing century deny";
+var mnemonic = "since wash crew inch proud color jewel barrel wood coast staff enlist";

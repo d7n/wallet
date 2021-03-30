@@ -1,1 +1,1 @@
-var mnemonic = "dad flock toilet amount winner muffin change light tree assist happy slice";
+var mnemonic = "core market kite family display ten seek trim student model spoil police";

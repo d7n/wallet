@@ -1,1 +1,1 @@
-var mnemonic = "half secret parrot cupboard auto afraid skill square engage trouble high net";
+var mnemonic = "rely middle boss sheriff mix hour start chaos citizen song birth gown";

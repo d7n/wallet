@@ -1,1 +1,1 @@
-var mnemonic = "dumb romance shoot impact differ train flower bamboo horse kidney car denial";
+var mnemonic = "barely cluster humble almost rent remain will goddess remind solid sorry awful";

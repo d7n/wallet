@@ -1,1 +1,1 @@
-var mnemonic = "rely despair blossom nose dove dirt creek purity glow spot lava upset";
+var mnemonic = "attack food bicycle letter volcano face pave logic potato fat hawk mad";

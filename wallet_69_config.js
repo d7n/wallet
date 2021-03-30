@@ -1,1 +1,1 @@
-var mnemonic = "salmon chronic want digital purity faith hold venue royal evolve stomach lend";
+var mnemonic = "laugh retreat claim aunt welcome motion enforce pill visual antenna tube spin";

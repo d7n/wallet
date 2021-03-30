@@ -1,1 +1,1 @@
-var mnemonic = "atom palm deposit flush fantasy empower infant panic inject filter file belt";
+var mnemonic = "believe ball hair receive lock theory royal multiply twenty jewel energy fortune";

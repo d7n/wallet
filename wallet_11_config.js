@@ -1,1 +1,1 @@
-var mnemonic = "miss code matrix time they poem timber horror stick shiver fault grocery";
+var mnemonic = "skirt fatal rival favorite enough tower deputy praise manual either concert correct";

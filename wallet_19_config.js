@@ -1,1 +1,1 @@
-var mnemonic = "sad achieve pluck again shy slogan jazz net catch acquire jungle symptom";
+var mnemonic = "during chalk bird own what tunnel nice use liar awkward club mercy";

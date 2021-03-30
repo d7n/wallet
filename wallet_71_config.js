@@ -1,1 +1,1 @@
-var mnemonic = "rent ship mixture pulse thing stereo liquid alley ecology net bless wish";
+var mnemonic = "pigeon balance assume file radar cloud glimpse call film innocent artist avoid";

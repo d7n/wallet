@@ -1,1 +1,1 @@
-var mnemonic = "payment drastic hub chapter behave hundred once rose super promote summer similar";
+var mnemonic = "theme cabbage govern sort few cereal secret chaos market arrange warfare violin";

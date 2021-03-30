@@ -1,1 +1,1 @@
-var mnemonic = "once pelican jar zebra potato salon certain safe truly glare exact mechanic";
+var mnemonic = "return emotion february robust above sun chest result upper funny situate isolate";

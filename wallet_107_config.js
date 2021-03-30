@@ -1,1 +1,1 @@
-var mnemonic = "system reason capable moral essence awesome disagree receive discover camera vivid saddle";
+var mnemonic = "forward kite must pelican push remind hunt sugar match joy glass artwork";

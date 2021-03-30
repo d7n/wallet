@@ -1,1 +1,1 @@
-var mnemonic = "market width symbol exist faith coach earn lamp spell video erupt only";
+var mnemonic = "onion tissue execute taxi elevator giant echo wait tone aspect minor stable";

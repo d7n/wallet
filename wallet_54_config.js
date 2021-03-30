@@ -1,1 +1,1 @@
-var mnemonic = "drive all net sad copper client smooth crumble betray rubber strong vocal";
+var mnemonic = "length toy that property harvest submit sheriff dilemma lesson across pupil myself";

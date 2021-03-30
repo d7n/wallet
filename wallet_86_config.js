@@ -1,1 +1,1 @@
-var mnemonic = "clump average advice chapter tone lake cliff hospital visit parade west tunnel";
+var mnemonic = "cannon lazy offer inspire legend tunnel infant weather unable magic reveal atom";

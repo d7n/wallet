@@ -1,1 +1,1 @@
-var mnemonic = "tornado siege wealth denial airport crowd lawn below trend solar diesel cram";
+var mnemonic = "april twin merge retreat inflict round vapor awful raccoon afford cube taste";

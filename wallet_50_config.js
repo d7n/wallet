@@ -1,1 +1,1 @@
-var mnemonic = "leaf process devote gesture hazard ketchup split emotion crunch shy two rare";
+var mnemonic = "park scare together wet offer report alien help vivid brain tribe bind";

@@ -1,1 +1,1 @@
-var mnemonic = "banner avoid mutual fold notable wheel chat famous sniff slot portion grow";
+var mnemonic = "check unit skull require more indoor cancel pole physical hand boat hand";

@@ -1,1 +1,1 @@
-var mnemonic = "cousin butter suspect main cattle monster nuclear disagree farm brown vault member";
+var mnemonic = "orange clever true usual install farm program able sudden broccoli siren eternal";

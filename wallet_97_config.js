@@ -1,1 +1,1 @@
-var mnemonic = "rug sick sphere afford off category gravity zebra lucky seat rack coffee";
+var mnemonic = "flush dwarf nominee reflect ozone olympic cook throw story once cushion speed";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth title slab person consider find achieve silly choose prepare bind bachelor";
+var mnemonic = "hip welcome tiger exit stable van secret afford balcony where blouse destroy";
