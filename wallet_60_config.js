@@ -1,1 +1,1 @@
-var mnemonic = "soap best express raccoon seek charge teach pause shrimp share hazard enlist";
+var mnemonic = "uphold exotic spirit blind unique play again doll better original scissors price";

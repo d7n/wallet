@@ -1,1 +1,1 @@
-var mnemonic = "mobile view fever gospel become dinner theory hockey century lemon combine since";
+var mnemonic = "enroll term genius wire liquid dwarf gravity frog frost oven repeat decorate";

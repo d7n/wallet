@@ -1,1 +1,1 @@
-var mnemonic = "orphan answer dash gossip ozone great child flight zone chief sweet swift";
+var mnemonic = "limb chapter property salute olympic kitten wine number joke laugh unit aunt";

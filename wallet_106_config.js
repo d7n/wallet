@@ -1,1 +1,1 @@
-var mnemonic = "tilt pluck document anger cage hungry fruit subway improve urban doll metal";
+var mnemonic = "comfort update cannon pattern trouble lady swap oxygen elegant hire machine assume";

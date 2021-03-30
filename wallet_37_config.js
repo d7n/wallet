@@ -1,1 +1,1 @@
-var mnemonic = "reflect derive cradle boring display shrug radar exotic evoke salon before music";
+var mnemonic = "this access observe plunge mansion leg group casual upon post deal push";

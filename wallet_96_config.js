@@ -1,1 +1,1 @@
-var mnemonic = "edit spin now title genuine ridge bunker author note paper nation naive";
+var mnemonic = "picture silly bacon valid crisp trend chapter salt orange try chalk man";

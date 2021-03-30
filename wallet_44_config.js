@@ -1,1 +1,1 @@
-var mnemonic = "post visual parrot potato oxygen educate unusual output can deal pepper arctic";
+var mnemonic = "struggle extend icon frost orphan stand brass feed rebuild creek shield polar";

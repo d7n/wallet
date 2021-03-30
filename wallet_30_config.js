@@ -1,1 +1,1 @@
-var mnemonic = "hood obey size sick you permit tackle capable demise live occur kitchen";
+var mnemonic = "ordinary spend cinnamon believe world oblige south material maze laugh winter cement";

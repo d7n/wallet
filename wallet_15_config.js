@@ -1,1 +1,1 @@
-var mnemonic = "nut spread congress flag dog time orange style all hire bullet version";
+var mnemonic = "anchor offer cargo inmate mother squeeze august valid stock place first alley";

@@ -1,1 +1,1 @@
-var mnemonic = "hybrid puppy spawn chaos poverty warfare provide net around young noodle prevent";
+var mnemonic = "stairs night razor key clown length actress language direct replace visa detail";

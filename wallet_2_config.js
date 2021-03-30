@@ -1,1 +1,1 @@
-var mnemonic = "shallow trash glare evidence brick quick student very cash maximum buyer citizen";
+var mnemonic = "trigger valley talk intact match oxygen laundry rice deposit casual gesture major";

@@ -1,1 +1,1 @@
-var mnemonic = "review bench invest salon pulp impulse truth spend demise humor myth saddle";
+var mnemonic = "lounge glory ketchup spread bus orient tiny arctic equal loop blue foil";

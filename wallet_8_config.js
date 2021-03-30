@@ -1,1 +1,1 @@
-var mnemonic = "trade weekend piece front curious brisk disorder garbage stumble deer weapon chat";
+var mnemonic = "neglect glide give prefer book cake bunker cargo around push estate soldier";

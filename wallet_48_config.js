@@ -1,1 +1,1 @@
-var mnemonic = "trigger below adapt abuse air budget fury minute wide pet dune pole";
+var mnemonic = "bridge dutch grant parade exotic pulp piano armed eternal rent gallery under";

@@ -1,1 +1,1 @@
-var mnemonic = "visit indicate eyebrow athlete warm setup total sort tilt guess cereal library";
+var mnemonic = "know junk brave define sign frame warm exhibit tuna olympic dirt rescue";

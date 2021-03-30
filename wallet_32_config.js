@@ -1,1 +1,1 @@
-var mnemonic = "help defy matrix west fun assist find music picnic size luxury bundle";
+var mnemonic = "before foster acquire canvas call inner duty resemble neither peanut coffee move";

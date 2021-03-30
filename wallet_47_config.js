@@ -1,1 +1,1 @@
-var mnemonic = "cram drink capable exchange announce squirrel disorder insane exotic fix organ account";
+var mnemonic = "legal egg cage tent isolate cheese sweet cactus face combine ability skull";

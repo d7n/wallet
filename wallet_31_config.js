@@ -1,1 +1,1 @@
-var mnemonic = "ceiling result fancy breeze river model antique junk truly hand maple wool";
+var mnemonic = "swing barely quarter chunk hybrid clever universe hard render huge debris essence";

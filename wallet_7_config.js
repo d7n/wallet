@@ -1,1 +1,1 @@
-var mnemonic = "witness trial ridge habit frozen hill disagree coral quote deliver brown february";
+var mnemonic = "liberty runway vapor tiger video deliver provide veteran quit vehicle mirror bench";

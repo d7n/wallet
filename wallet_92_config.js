@@ -1,1 +1,1 @@
-var mnemonic = "rally rhythm fun minimum pole filter borrow inject must rebuild journey artwork";
+var mnemonic = "jeans stuff mother idle summer castle exist east inch verb auction hand";

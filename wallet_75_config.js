@@ -1,1 +1,1 @@
-var mnemonic = "off boat example enjoy inspire come merry betray floor seed hint rack";
+var mnemonic = "dice wheat giggle ignore document seed edit this search flash sign festival";

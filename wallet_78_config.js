@@ -1,1 +1,1 @@
-var mnemonic = "awful omit stove tower castle window rebel genuine student quality debate peace";
+var mnemonic = "truth robot elevator edit absurd gravity fog click truck special welcome remind";

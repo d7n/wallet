@@ -1,1 +1,1 @@
-var mnemonic = "broken pole toward scorpion faint cricket bus fruit physical wine mosquito hockey";
+var mnemonic = "pass oil display photo abandon soda head topic basic midnight know eager";

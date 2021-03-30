@@ -1,1 +1,1 @@
-var mnemonic = "crash swim candy senior notable flower share rocket museum rotate sword indoor";
+var mnemonic = "remain stuff vote update parrot virus grace plunge invite black popular dawn";

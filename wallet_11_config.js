@@ -1,1 +1,1 @@
-var mnemonic = "cancel door bamboo slight bronze bright topple face maximum help lift eager";
+var mnemonic = "catalog ask still there game tongue soft mail argue hospital thunder accident";

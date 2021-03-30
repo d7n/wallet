@@ -1,1 +1,1 @@
-var mnemonic = "leave toilet size tongue jacket brisk between blast census poet mirror egg";
+var mnemonic = "lyrics ghost inside love quick rule ceiling item betray fringe flower apart";

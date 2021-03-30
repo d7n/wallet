@@ -1,1 +1,1 @@
-var mnemonic = "joy drastic student large remain garage leader angle mutual canal glare analyst";
+var mnemonic = "juice audit fantasy bachelor nerve crack panther public drop pumpkin swing base";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige van obtain frost mimic person give sunny reward apple paddle traffic";
+var mnemonic = "dragon dwarf cannon range beyond lawsuit basket orient toward swear drum whale";

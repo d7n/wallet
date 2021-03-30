@@ -1,1 +1,1 @@
-var mnemonic = "thought item city wire grass close ride raw estate voice slight endorse";
+var mnemonic = "deny nominee army loop nephew permit kiss weapon fatal motion grant legend";

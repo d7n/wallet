@@ -1,1 +1,1 @@
-var mnemonic = "film virtual waste echo devote shoulder talk imitate vibrant field swing toe";
+var mnemonic = "disagree rhythm twice marriage avocado achieve creek coin drink avoid skin session";

@@ -1,1 +1,1 @@
-var mnemonic = "good series resemble interest increase quantum actual radar daring loud control blanket";
+var mnemonic = "eye crop gold shoot ozone victory solar replace human desert seek receive";

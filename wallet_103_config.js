@@ -1,1 +1,1 @@
-var mnemonic = "distance balance fury goose hunt usual picture valve spring lecture easy scissors";
+var mnemonic = "float cancel luxury dutch crystal ghost skirt over omit ship action portion";

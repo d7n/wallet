@@ -1,1 +1,1 @@
-var mnemonic = "enemy caution rebel stool crouch prison behind liberty sort border gloom robust";
+var mnemonic = "wise vault alley machine return bitter similar biology raccoon wear position cruise";

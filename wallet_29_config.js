@@ -1,1 +1,1 @@
-var mnemonic = "artwork gospel venue such risk wisdom side shaft deal fish shop elephant";
+var mnemonic = "entry drip harbor ordinary task service sign program history bike jelly ticket";

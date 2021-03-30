@@ -1,1 +1,1 @@
-var mnemonic = "pulp cloth deposit spread fortune trap before antique column angry few drum";
+var mnemonic = "short word neglect carry monster height leaf enhance now uncover web tobacco";

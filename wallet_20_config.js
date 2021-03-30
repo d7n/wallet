@@ -1,1 +1,1 @@
-var mnemonic = "enable mushroom now rabbit adult secret merge affair hint income need cruel";
+var mnemonic = "october mind this brick sting crime scissors fragile security brave twist load";

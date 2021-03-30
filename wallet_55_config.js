@@ -1,1 +1,1 @@
-var mnemonic = "outdoor virus phone still kind tomorrow later flee burden coach kick joy";
+var mnemonic = "mushroom injury ghost average aspect champion chapter curtain list grass hybrid buzz";

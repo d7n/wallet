@@ -1,1 +1,1 @@
-var mnemonic = "estate artefact bleak special canvas arctic august figure spray enroll mask doctor";
+var mnemonic = "payment assault curtain town region pass define acquire bike youth visit lava";

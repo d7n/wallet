@@ -1,1 +1,1 @@
-var mnemonic = "mercy digital allow head wide kangaroo physical occur soft possible emotion general";
+var mnemonic = "wasp battle hawk board river express kidney cook where office hurry charge";

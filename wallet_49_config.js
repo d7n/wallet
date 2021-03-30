@@ -1,1 +1,1 @@
-var mnemonic = "exile rail fever tongue earth actual common tiny banana viable faint make";
+var mnemonic = "tenant mass length man squirrel desert reduce reward bunker barrel light pottery";

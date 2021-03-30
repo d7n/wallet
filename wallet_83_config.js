@@ -1,1 +1,1 @@
-var mnemonic = "wood impose junior quantum point bone squeeze spray apple true illness jar";
+var mnemonic = "obscure vapor orchard sign uncle midnight praise check junior coach salon enlist";

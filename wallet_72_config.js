@@ -1,1 +1,1 @@
-var mnemonic = "state gown snack cost remember dragon strike dice half during hint double";
+var mnemonic = "mad burst boy album leaf citizen cover pink dragon refuse anger smooth";

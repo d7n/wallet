@@ -1,1 +1,1 @@
-var mnemonic = "various subject shrimp pilot obtain reform hand north enrich hunt happy hawk";
+var mnemonic = "effort olive torch return sketch afford caught diesel conduct common simple palace";

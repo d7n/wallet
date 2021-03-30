@@ -1,1 +1,1 @@
-var mnemonic = "rain best gun syrup refuse they goat what engine hour slender reform";
+var mnemonic = "elephant resource delay rely range prefer animal draw office maze north youth";

@@ -1,1 +1,1 @@
-var mnemonic = "spider horn position endless shed describe book slice purity angry panic inmate";
+var mnemonic = "happy upgrade mobile input entry model pride kidney inject cable actor unit";

@@ -1,1 +1,1 @@
-var mnemonic = "melody guide sadness obscure grape earn permit galaxy kidney shove someone wrist";
+var mnemonic = "average stadium shy speed insane tourist boss omit wink caution expect embody";

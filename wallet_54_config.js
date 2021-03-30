@@ -1,1 +1,1 @@
-var mnemonic = "journey front wear waste welcome guess between agent viable social popular zero";
+var mnemonic = "plug valve rude creek wolf safe gift good transfer tip comfort wise";

@@ -1,1 +1,1 @@
-var mnemonic = "reason obvious lamp envelope used ethics property planet offer group subway canal";
+var mnemonic = "property bird science husband fish orchard tired police resemble scout trophy junk";

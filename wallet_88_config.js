@@ -1,1 +1,1 @@
-var mnemonic = "dry voice warrior tribe diesel soft angry oppose cigar apple kitten face";
+var mnemonic = "double craft stadium ceiling hand chest great argue slam virus struggle adult";

@@ -1,1 +1,1 @@
-var mnemonic = "element smooth primary ignore shuffle scatter pistol put police only pull cake";
+var mnemonic = "merge sister crime argue ghost more tattoo chronic dentist radio tent allow";

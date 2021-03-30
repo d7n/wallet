@@ -1,1 +1,1 @@
-var mnemonic = "jealous employ first reduce below table more creek close leisure wet wear";
+var mnemonic = "salt meat rice child elbow have during taste timber pink stand gorilla";

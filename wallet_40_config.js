@@ -1,1 +1,1 @@
-var mnemonic = "thumb seven dish december cruise suffer today off perfect law exercise foam";
+var mnemonic = "tree ski syrup comic vessel garden decline usual token time alarm eyebrow";

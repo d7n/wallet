@@ -1,1 +1,1 @@
-var mnemonic = "wire tent discover worry chaos code kidney olympic elbow detail jealous holiday";
+var mnemonic = "wise left first volume collect before rubber text radio tongue recipe monkey";

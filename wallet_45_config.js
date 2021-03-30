@@ -1,1 +1,1 @@
-var mnemonic = "dove impulse shift text series round warm reward equal loud jeans lion";
+var mnemonic = "december rain tomorrow dismiss dumb hover entire drop resemble recipe crime shove";

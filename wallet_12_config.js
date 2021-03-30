@@ -1,1 +1,1 @@
-var mnemonic = "key soldier select chapter awake column modify coffee peace tent bubble screen";
+var mnemonic = "print trim junior hamster area critic squirrel cabbage hire orbit blush color";

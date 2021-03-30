@@ -1,1 +1,1 @@
-var mnemonic = "swallow resource uniform mind snake scare father aisle extend velvet finish leopard";
+var mnemonic = "helmet text wealth alter sphere surprise monster enforce awful laugh venture trim";

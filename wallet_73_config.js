@@ -1,1 +1,1 @@
-var mnemonic = "truck please bomb piece victory still lawsuit daughter price lecture exile borrow";
+var mnemonic = "clown tobacco fluid east canvas inmate final view alert desert situate crystal";

@@ -1,1 +1,1 @@
-var mnemonic = "asthma move vacuum easy quote planet calm remember idea huge crisp cute";
+var mnemonic = "gadget leader worth change depend mirror outside decline wolf include miss slogan";

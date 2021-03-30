@@ -1,1 +1,1 @@
-var mnemonic = "bomb enact vital settle brand fatal admit notable denial clown swing polar";
+var mnemonic = "awful enemy genuine country earn exile service dove joy step word dilemma";

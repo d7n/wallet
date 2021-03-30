@@ -1,1 +1,1 @@
-var mnemonic = "horn country ahead thought suspect twist tribe east flame couple old salute";
+var mnemonic = "repeat ignore shallow parrot mansion orange twice escape bracket useful cream major";

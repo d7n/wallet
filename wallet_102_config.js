@@ -1,1 +1,1 @@
-var mnemonic = "bubble bleak retire proud canoe orbit dash trap aisle pair runway rifle";
+var mnemonic = "hub clutch consider kite dream trigger wedding viable soon bring demise chapter";

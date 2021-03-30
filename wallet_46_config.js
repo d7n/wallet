@@ -1,1 +1,1 @@
-var mnemonic = "cry forward planet decade fade luggage coral hurdle pole affair still way";
+var mnemonic = "trust opinion dolphin bus holiday elegant effort slight deposit try panel double";

@@ -1,1 +1,1 @@
-var mnemonic = "nerve until major isolate shuffle little blur bunker leaf enjoy belt bright";
+var mnemonic = "woman will reason tattoo scare belt buyer tourist home gasp crucial fence";

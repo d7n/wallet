@@ -1,1 +1,1 @@
-var mnemonic = "layer float outdoor found unveil topic speed chest burden torch sand clinic";
+var mnemonic = "light basket blush promote base aerobic ozone neither sunset foil fringe purse";

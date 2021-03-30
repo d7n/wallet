@@ -1,1 +1,1 @@
-var mnemonic = "awesome more execute tuna border service frost crawl turtle used invest final";
+var mnemonic = "gap letter blind card fruit entry exchange math myself gentle hero empower";

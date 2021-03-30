@@ -1,1 +1,1 @@
-var mnemonic = "wide pelican thumb quit alcohol yard access tongue galaxy picnic panic ritual";
+var mnemonic = "mystery garbage guitar divert slogan disease shiver knee warrior animal patient wall";

@@ -1,1 +1,1 @@
-var mnemonic = "squeeze clean chair helmet edit flag carbon sting nominee right gaze field";
+var mnemonic = "diet meat strong brief fly pony denial urge scrap enter popular blur";

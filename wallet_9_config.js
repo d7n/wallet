@@ -1,1 +1,1 @@
-var mnemonic = "pull diagram daughter hollow nurse short crop report penalty release clog mercy";
+var mnemonic = "valley capable walnut grass accident believe jewel right earth float purchase purity";

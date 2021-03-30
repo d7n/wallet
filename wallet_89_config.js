@@ -1,1 +1,1 @@
-var mnemonic = "industry often firm survey session organ scorpion wire exile deny labor awful";
+var mnemonic = "riot prevent edit host laundry minimum health riot legend chronic thought multiply";

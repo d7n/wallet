@@ -1,1 +1,1 @@
-var mnemonic = "urge horse depth process praise east gravity explain glow kingdom snake cruise";
+var mnemonic = "oval path square crystal shove achieve slide charge silent heavy lobster sketch";

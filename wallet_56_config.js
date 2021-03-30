@@ -1,1 +1,1 @@
-var mnemonic = "slam sad order matter quote kid element muffin romance between alcohol water";
+var mnemonic = "pelican clutch immune huge matrix flavor crime birth clump couch aisle shop";

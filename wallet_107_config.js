@@ -1,1 +1,1 @@
-var mnemonic = "panel float screen include exchange couch velvet mother rude floor mountain north";
+var mnemonic = "among trouble vessel despair list pole frog silk they cause flash air";

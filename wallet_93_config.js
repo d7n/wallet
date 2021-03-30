@@ -1,1 +1,1 @@
-var mnemonic = "alien future cheese thrive mistake sauce barely west farm proof employ enjoy";
+var mnemonic = "identify sniff immense walnut tribe order evidence season hamster differ snap problem";

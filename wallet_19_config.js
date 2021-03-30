@@ -1,1 +1,1 @@
-var mnemonic = "usage genre decade foam bleak awake wool decide crazy any clever monster";
+var mnemonic = "valid total boy curious sunset harsh rare undo draft donor olive split";

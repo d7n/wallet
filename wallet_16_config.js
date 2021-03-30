@@ -1,1 +1,1 @@
-var mnemonic = "swallow yellow stable tone essay work gain lucky odor shrug coin glimpse";
+var mnemonic = "describe fun shoot congress grow sketch tomorrow endorse diary maid belt coyote";

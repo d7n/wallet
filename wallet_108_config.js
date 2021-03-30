@@ -1,1 +1,1 @@
-var mnemonic = "beyond whip color beach rival bird sing cause flower sell spread sort";
+var mnemonic = "super elite immune pistol craft finger enroll emerge spawn copper power list";

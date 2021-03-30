@@ -1,1 +1,1 @@
-var mnemonic = "link sudden decade beyond equal main more envelope taxi ski busy area";
+var mnemonic = "crouch involve police brush dress expire garbage submit city gown police gun";

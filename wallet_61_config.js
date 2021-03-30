@@ -1,1 +1,1 @@
-var mnemonic = "crawl weapon inch bundle iron dinosaur elbow resist patch brown solid brick";
+var mnemonic = "skill jaguar direct close write tunnel short save left rotate bullet destroy";

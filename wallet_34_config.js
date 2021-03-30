@@ -1,1 +1,1 @@
-var mnemonic = "permit indoor hour piano nut city lift ghost hole embrace utility actual";
+var mnemonic = "update grocery stable green main swap music lamp fitness stick book coconut";

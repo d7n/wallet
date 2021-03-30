@@ -1,1 +1,1 @@
-var mnemonic = "island result congress today drop chunk push alone hammer share crater proof";
+var mnemonic = "sister cherry bridge where soul unveil filter blind orchard critic inform knife";

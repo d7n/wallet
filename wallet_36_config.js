@@ -1,1 +1,1 @@
-var mnemonic = "match flee program volcano garden sentence unusual level never suspect wonder improve";
+var mnemonic = "acoustic tomato yellow fresh kitten grief salmon wage street clip spend miracle";

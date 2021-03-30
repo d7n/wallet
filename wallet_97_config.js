@@ -1,1 +1,1 @@
-var mnemonic = "blue forest valve slogan front athlete frame danger economy trigger syrup news";
+var mnemonic = "scrap scheme draft initial truck buffalo zero delay uniform theory west effort";

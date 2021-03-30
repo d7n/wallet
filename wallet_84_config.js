@@ -1,1 +1,1 @@
-var mnemonic = "aunt siren obscure myself phone embrace leave fix unaware admit common awake";
+var mnemonic = "unit worry student ball number unit mimic palace hotel theory turn reform";

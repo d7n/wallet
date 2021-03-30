@@ -1,1 +1,1 @@
-var mnemonic = "ensure mom basic same ask plunge expire filter indoor now coach fossil";
+var mnemonic = "egg spell mixed decade oyster never theme raise seminar occur jealous lock";

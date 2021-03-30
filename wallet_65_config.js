@@ -1,1 +1,1 @@
-var mnemonic = "business alien unaware apart angle refuse outer sustain hotel sort emerge else";
+var mnemonic = "spoil balance man pattern baby giraffe economy spread lock work smart gift";
