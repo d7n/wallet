@@ -1,1 +1,1 @@
-var mnemonic = "inquiry profit strong slow little spell utility victory canvas clinic uncle clutch";
+var mnemonic = "apology juice demand twice iron gun beauty miracle giraffe venture display traffic";

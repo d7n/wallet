@@ -1,1 +1,1 @@
-var mnemonic = "multiply find disorder supreme advice forest snow purse trigger address theme genuine";
+var mnemonic = "rice sibling couch element clip win use useless senior budget peace another";

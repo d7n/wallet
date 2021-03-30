@@ -1,1 +1,1 @@
-var mnemonic = "trim pole skull twelve scrap best urban someone include mixed awesome upset";
+var mnemonic = "jelly lobster velvet battle rice path scorpion mistake cattle vicious emerge walk";

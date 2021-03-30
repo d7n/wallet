@@ -1,1 +1,1 @@
-var mnemonic = "sock subject hour slice bottom uncover wild cage artefact profit usual race";
+var mnemonic = "sudden pride discover soul hope tag speak boring exchange buffalo fury avocado";

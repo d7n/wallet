@@ -1,1 +1,1 @@
-var mnemonic = "device whip soap test glide disease fetch salad faint funny season return";
+var mnemonic = "shadow cannon fury address relax symbol spatial slender false lumber person orange";

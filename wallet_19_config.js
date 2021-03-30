@@ -1,1 +1,1 @@
-var mnemonic = "surge august must coffee prefer horn person bone surge grid indicate limit";
+var mnemonic = "business arrest enhance sweet orient small more bridge pencil trim climb mad";

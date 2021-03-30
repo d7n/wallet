@@ -1,1 +1,1 @@
-var mnemonic = "pony require inner thing burger flag relax weather north soldier hire siege";
+var mnemonic = "gentle picture pulp lab athlete invest head scorpion elephant equal video little";

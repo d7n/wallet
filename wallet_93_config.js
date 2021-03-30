@@ -1,1 +1,1 @@
-var mnemonic = "age still promote metal dash dream valley fee journey tape mesh exclude";
+var mnemonic = "little tobacco try air error tool fade dance inmate pill lonely fee";

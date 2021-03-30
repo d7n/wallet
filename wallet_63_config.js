@@ -1,1 +1,1 @@
-var mnemonic = "day brisk gas figure ticket shed fiction grit gentle leisure mule lawn";
+var mnemonic = "rhythm nice series index power pledge tunnel nice define year rule misery";

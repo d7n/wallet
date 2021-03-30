@@ -1,1 +1,1 @@
-var mnemonic = "mistake share picnic someone fall system mercy awkward theory mountain impose rely";
+var mnemonic = "address reward carry super change twist muffin also nothing coconut essence solar";

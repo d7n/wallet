@@ -1,1 +1,1 @@
-var mnemonic = "beach knife misery zoo suit apart hammer chest must basic bundle license";
+var mnemonic = "magic bean indicate token author fold price surge garbage tooth mandate above";

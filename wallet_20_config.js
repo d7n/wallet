@@ -1,1 +1,1 @@
-var mnemonic = "solar dune shield virus middle armor finish head absurd cinnamon assume loan";
+var mnemonic = "obey witness off slogan lamp sun survey oppose just moon envelope merry";

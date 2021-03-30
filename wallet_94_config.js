@@ -1,1 +1,1 @@
-var mnemonic = "sea vanish swamp admit affair purity army air gap slogan unlock casual";
+var mnemonic = "boring into planet entire certain protect fix hole food bus crater embark";

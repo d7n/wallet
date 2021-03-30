@@ -1,1 +1,1 @@
-var mnemonic = "regular hidden pitch document wrap subway wedding clerk debate possible awesome dawn";
+var mnemonic = "jelly athlete garden tone coyote shield coach melt curtain crystal blast unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "divert edit proof review join battle more dumb solid stereo robust wink";
+var mnemonic = "nation eager foot tuition ahead dress emotion beef robust pilot cereal hazard";

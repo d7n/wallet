@@ -1,1 +1,1 @@
-var mnemonic = "tunnel slab inspire pitch federal quiz ring manual horse addict exact whisper";
+var mnemonic = "debate regret water buffalo protect stay scene grow trigger radar black art";

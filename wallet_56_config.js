@@ -1,1 +1,1 @@
-var mnemonic = "black hurdle aspect response coin utility nerve bag lock throw short mango";
+var mnemonic = "sniff clog exist army unhappy climb peanut hybrid keep guess cook island";

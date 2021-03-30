@@ -1,1 +1,1 @@
-var mnemonic = "valid slogan sing bunker biology civil tell fetch ranch useful misery business";
+var mnemonic = "farm vacant must essay bundle worry assume uncle cook visit armed number";

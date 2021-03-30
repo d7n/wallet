@@ -1,1 +1,1 @@
-var mnemonic = "exile valid decide improve mule horse polar rare host joy movie throw";
+var mnemonic = "rhythm novel smile secret bus album enrich chat grape open lunch toddler";

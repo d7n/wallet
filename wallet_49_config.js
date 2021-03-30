@@ -1,1 +1,1 @@
-var mnemonic = "ostrich woman silk course laugh security odor energy elevator else abandon appear";
+var mnemonic = "crane hip shaft awkward wide option gauge call record beauty toy proud";

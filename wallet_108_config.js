@@ -1,1 +1,1 @@
-var mnemonic = "busy cricket toy action trade tell neither chaos legal bag dragon pluck";
+var mnemonic = "box rapid keep wrestle pilot ozone fragile broom ostrich cross legal tuition";

@@ -1,1 +1,1 @@
-var mnemonic = "plate pink goose skin feed else month volcano will move neck side";
+var mnemonic = "venue hand timber mechanic debate radio toy under rookie ugly monster drop";

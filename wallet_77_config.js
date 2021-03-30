@@ -1,1 +1,1 @@
-var mnemonic = "permit alley hair quantum kiwi sweet soap ticket announce ice zebra loud";
+var mnemonic = "mother oak lend world hip turkey quarter tackle mushroom moon clog library";

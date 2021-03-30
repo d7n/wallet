@@ -1,1 +1,1 @@
-var mnemonic = "kingdom genuine meadow era garden barrel absorb oil visa frog essence couch";
+var mnemonic = "initial age pottery exhibit pluck there concert clutch twist blame series host";

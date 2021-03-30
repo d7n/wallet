@@ -1,1 +1,1 @@
-var mnemonic = "uncover fruit execute syrup soup shallow honey once office issue swear danger";
+var mnemonic = "common fever man merry sign make cake naive nasty denial face citizen";

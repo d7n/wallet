@@ -1,1 +1,1 @@
-var mnemonic = "settle unit build merit stem child enter buzz main video spirit art";
+var mnemonic = "rail alter feel curve wrist debris solve mutual catch dance erupt neglect";

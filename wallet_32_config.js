@@ -1,1 +1,1 @@
-var mnemonic = "verify rice pride scare merge shed session gadget task believe guess wing";
+var mnemonic = "arrest aunt bullet blouse cabbage crazy chat suspect document alone scrap father";

@@ -1,1 +1,1 @@
-var mnemonic = "divide stamp mouse video crack wedding prepare twist shadow win middle wedding";
+var mnemonic = "will novel cupboard sword scene vast elevator picture liar bring cinnamon cereal";

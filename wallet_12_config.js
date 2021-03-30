@@ -1,1 +1,1 @@
-var mnemonic = "panther kitchen lab ramp such smart inner grab report receive essay easy";
+var mnemonic = "gym obvious praise achieve aisle worth endorse time dash entry sudden hidden";

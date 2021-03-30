@@ -1,1 +1,1 @@
-var mnemonic = "solid limb sport duty cause result model crater mercy forward truth absent";
+var mnemonic = "spike chronic depth melt inhale insect bronze glide roast actual trip glimpse";

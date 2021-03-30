@@ -1,1 +1,1 @@
-var mnemonic = "mouse tag bleak demise little flag certain vintage car raw dentist oil";
+var mnemonic = "auction bunker key tape half blossom peasant found mixed arch awake hub";

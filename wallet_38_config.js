@@ -1,1 +1,1 @@
-var mnemonic = "urban test question heavy harbor write diary obey dawn place guess magnet";
+var mnemonic = "oven tenant album horror group size head exercise brisk eager below asset";

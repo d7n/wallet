@@ -1,1 +1,1 @@
-var mnemonic = "junior ship table romance water energy crack lesson height off athlete token";
+var mnemonic = "slim morning unique clerk dove symptom viable thunder coach thank tackle noise";

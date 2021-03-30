@@ -1,1 +1,1 @@
-var mnemonic = "helmet holiday ride unfair exhaust rhythm decade inmate luggage emotion grape chat";
+var mnemonic = "destroy sort tackle outer adjust symbol ability item toe erode love chase";

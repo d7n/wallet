@@ -1,1 +1,1 @@
-var mnemonic = "senior cross news cool tourist sleep warrior dinosaur couch legend viable group";
+var mnemonic = "shallow client warrior ignore scrap hawk lyrics crowd yellow square firm person";

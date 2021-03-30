@@ -1,1 +1,1 @@
-var mnemonic = "casino muffin brain blind parrot above above rival rocket warrior sock position";
+var mnemonic = "impose sail violin account today topple push sword submit mango typical coconut";

@@ -1,1 +1,1 @@
-var mnemonic = "wife another price paddle brave salute thumb jewel abuse sweet tube hold";
+var mnemonic = "movie track ritual vacant hub breeze clean lab slim cabin flower proof";

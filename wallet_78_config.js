@@ -1,1 +1,1 @@
-var mnemonic = "harbor start myth trial shuffle yard again eager hole shallow grain leaf";
+var mnemonic = "remove rookie inch dice release cart display cave debris husband brother sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "yard frequent dice venue amount artwork fabric reason clump six theme pelican";
+var mnemonic = "basic drastic brother drift hub skate patrol olympic story disagree need fuel";

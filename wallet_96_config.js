@@ -1,1 +1,1 @@
-var mnemonic = "machine dose clump trouble desk similar slender clerk endorse change clock detect";
+var mnemonic = "nasty make crazy lonely frame hand unlock tone balcony tumble exotic upper";

@@ -1,1 +1,1 @@
-var mnemonic = "donor roast such vague daughter response fragile purse oppose ring effort recall";
+var mnemonic = "conduct lake salad unusual march page orbit odor carry prepare tomorrow winter";

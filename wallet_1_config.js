@@ -1,1 +1,1 @@
-var mnemonic = "hen staff guitar power about sing gold supply used body visual seek";
+var mnemonic = "slim observe poet bag scale swarm siege mobile refuse cabin hand gather";

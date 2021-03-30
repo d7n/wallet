@@ -1,1 +1,1 @@
-var mnemonic = "explain own gym despair ugly aspect sample poverty agree crew lawsuit middle";
+var mnemonic = "garbage priority little amused excuse diamond genius cash surface exercise umbrella pencil";

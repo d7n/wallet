@@ -1,1 +1,1 @@
-var mnemonic = "gather moral snake recipe fluid beauty recall pave exclude torch grape random";
+var mnemonic = "truly reject scare ignore depend spy girl lion boss monitor fit search";

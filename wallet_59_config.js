@@ -1,1 +1,1 @@
-var mnemonic = "absurd rose cost nice fresh blue mean festival swap off column chimney";
+var mnemonic = "market bar direct shrimp expose prevent access actual doll holiday teach ability";

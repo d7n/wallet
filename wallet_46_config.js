@@ -1,1 +1,1 @@
-var mnemonic = "boil ill under job lottery extend crumble buddy divert viable average unaware";
+var mnemonic = "indicate occur steel jungle pattern wheat cute basic lemon demise aspect velvet";

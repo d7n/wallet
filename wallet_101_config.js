@@ -1,1 +1,1 @@
-var mnemonic = "wait tunnel grant rose wait merit plate eternal card sample food garden";
+var mnemonic = "derive unit awake scene lift force bottom trophy mom edit fortune inform";

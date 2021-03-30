@@ -1,1 +1,1 @@
-var mnemonic = "object try virus calm panel student hurry fan current creek journey online";
+var mnemonic = "victory asthma film ketchup board absurd ramp exclude rain devote pyramid nothing";

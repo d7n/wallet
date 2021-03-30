@@ -1,1 +1,1 @@
-var mnemonic = "panther menu picture crumble name bicycle drive fire switch galaxy benefit bubble";
+var mnemonic = "know potato cabin crater liquid bag shrimp crane yellow barely release need";

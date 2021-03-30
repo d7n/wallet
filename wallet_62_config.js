@@ -1,1 +1,1 @@
-var mnemonic = "wool review galaxy million census desert anxiety high auto start clarify select";
+var mnemonic = "inhale spike woman misery video exile parade evidence treat kangaroo total misery";

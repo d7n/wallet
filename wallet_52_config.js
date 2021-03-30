@@ -1,1 +1,1 @@
-var mnemonic = "aspect disease fork order breeze old object summer gorilla chimney image mirror";
+var mnemonic = "priority opera topple work unveil must hospital month emerge treat flee cave";

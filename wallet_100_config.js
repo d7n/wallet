@@ -1,1 +1,1 @@
-var mnemonic = "weird olive soft bounce only woman weather metal check grief inside ride";
+var mnemonic = "car math end raccoon panic tuna slot dignity wedding fly mix during";

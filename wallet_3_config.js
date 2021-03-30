@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit upset hip feature proof retire broom raise capable short any grow";
+var mnemonic = "patient velvet refuse enlist rival word almost dinner invest husband index warm";

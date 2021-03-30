@@ -1,1 +1,1 @@
-var mnemonic = "change general brief small travel employ pizza rain fame street kiwi tag";
+var mnemonic = "blame shrimp boost sunset sadness husband come utility pumpkin miss coyote market";

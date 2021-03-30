@@ -1,1 +1,1 @@
-var mnemonic = "visa near alert penalty senior world mask illness door mail butter elbow";
+var mnemonic = "gym pave trust goat snake private update peace master turn october mixed";

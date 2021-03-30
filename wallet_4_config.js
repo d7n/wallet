@@ -1,1 +1,1 @@
-var mnemonic = "path invite suspect fire supply brick canal toward minute begin brand virus";
+var mnemonic = "grant case zebra century oval speed page taste violin about vault curve";

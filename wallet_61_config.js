@@ -1,1 +1,1 @@
-var mnemonic = "rubber task vault enact catch pride science merge defense bring hidden agent";
+var mnemonic = "music front settle document special better afraid cash miracle vivid frost model";

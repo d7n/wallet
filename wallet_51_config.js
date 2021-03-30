@@ -1,1 +1,1 @@
-var mnemonic = "polar mouse gym agent verify cinnamon pottery blast vacuum one pear broccoli";
+var mnemonic = "crunch filter impact spatial rural senior abandon where waste exercise since tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan away error float glass pause involve siege erupt animal exhaust rabbit";
+var mnemonic = "phrase drink erode vendor push joke snow transfer twice payment kitchen push";

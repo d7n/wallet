@@ -1,1 +1,1 @@
-var mnemonic = "point dream unhappy biology word clock little inside slam language inherit tornado";
+var mnemonic = "coin century click ice bacon flash head trick liquid team burger disagree";

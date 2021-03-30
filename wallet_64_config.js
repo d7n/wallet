@@ -1,1 +1,1 @@
-var mnemonic = "project million inhale talk enough sound inside bullet mouse code guitar rhythm";
+var mnemonic = "venue lucky yard draw refuse energy stick suggest belt truth profit flag";

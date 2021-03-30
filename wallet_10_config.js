@@ -1,1 +1,1 @@
-var mnemonic = "liberty poverty text sauce apology ship hungry spoil consider category modify quote";
+var mnemonic = "regular reveal together shove connect build distance meadow auto hospital move surprise";

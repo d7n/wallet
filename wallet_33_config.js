@@ -1,1 +1,1 @@
-var mnemonic = "spot frequent vintage away calm spray like truth resemble foot rely annual";
+var mnemonic = "bitter clump mimic gaze cotton exhibit minute leopard worry shop electric spray";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin excuse label gap hint toddler pond priority grid erode taste mad";
+var mnemonic = "teach gap document burden bike income sphere spirit select define cheese various";

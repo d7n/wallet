@@ -1,1 +1,1 @@
-var mnemonic = "plate regret device goose message interest diagram march family layer shield harbor";
+var mnemonic = "dizzy prosper bone cloth century shine arctic frozen hammer ramp guard river";

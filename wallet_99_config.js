@@ -1,1 +1,1 @@
-var mnemonic = "diagram drill stool spider that vast solid auction ability acoustic speak grab";
+var mnemonic = "brother couch spatial agent feel camp decide defense word crash pear vessel";

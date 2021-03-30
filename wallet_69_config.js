@@ -1,1 +1,1 @@
-var mnemonic = "remove weekend ripple spare wrist brass umbrella tiger begin symptom bid laugh";
+var mnemonic = "father abstract citizen fossil suspect skull agent flip rate betray give firm";

@@ -1,1 +1,1 @@
-var mnemonic = "comic antenna hockey toward media three thank actress repeat street valid federal";
+var mnemonic = "muscle certain resist asset tell naive away intact genius solar dignity fruit";

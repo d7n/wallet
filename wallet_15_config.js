@@ -1,1 +1,1 @@
-var mnemonic = "alert shoe duty hire beach silver proof auto come clerk color unit";
+var mnemonic = "kidney angle fantasy pioneer alcohol today enroll buzz broccoli trust movie item";

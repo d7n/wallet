@@ -1,1 +1,1 @@
-var mnemonic = "canvas donor outside roof hover wrist abstract inner cereal lucky thumb blouse";
+var mnemonic = "upgrade sample need treat donate sunny gym input drum assume pause volcano";

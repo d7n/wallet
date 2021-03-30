@@ -1,1 +1,1 @@
-var mnemonic = "chalk together provide sword amused miss between radio focus zebra shrug garlic";
+var mnemonic = "coast dish trash arm rabbit loan develop mom smile round tooth possible";

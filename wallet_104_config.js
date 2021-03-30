@@ -1,1 +1,1 @@
-var mnemonic = "faculty forget despair frown congress canoe magnet blade leave vintage stage mobile";
+var mnemonic = "critic erosion fork juice tissue bachelor flock exhaust small radio lobster owner";

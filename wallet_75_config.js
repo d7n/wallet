@@ -1,1 +1,1 @@
-var mnemonic = "nuclear bus tackle deal wrap decrease light insect hurry move faint scale";
+var mnemonic = "radar citizen state pigeon inject truly agree crime artefact flip venture water";

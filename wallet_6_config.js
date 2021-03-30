@@ -1,1 +1,1 @@
-var mnemonic = "hawk mom settle intact eager couple cake grunt wheel vast labor cream";
+var mnemonic = "enjoy vendor attitude ensure violin acoustic swift mail there kitten screen control";

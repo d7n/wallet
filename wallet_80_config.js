@@ -1,1 +1,1 @@
-var mnemonic = "focus clutch run tide unaware stove host opinion artwork blouse print swing";
+var mnemonic = "whisper kite sad deposit marine quality want salute design winner coyote mixed";

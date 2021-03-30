@@ -1,1 +1,1 @@
-var mnemonic = "access sense multiply remind oval carry strategy medal success alert tragic young";
+var mnemonic = "island work damp want cube model vintage auto stay behind gun boil";

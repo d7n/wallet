@@ -1,1 +1,1 @@
-var mnemonic = "desk heart calm review large leopard eager expire reform trophy wine empty";
+var mnemonic = "real depend decide leg donate diagram portion dutch kit teach royal spread";

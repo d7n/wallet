@@ -1,1 +1,1 @@
-var mnemonic = "term like valid fringe goddess fatigue shrug hold noodle nature patient air";
+var mnemonic = "before chaos record tragic pioneer peasant dad turn narrow average axis exercise";

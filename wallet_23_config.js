@@ -1,1 +1,1 @@
-var mnemonic = "pluck uncle hotel famous brand mystery eight spoil butter kiwi fruit audit";
+var mnemonic = "measure travel dose phone lens badge used thing decorate tiny six retreat";

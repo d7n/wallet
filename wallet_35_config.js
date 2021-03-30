@@ -1,1 +1,1 @@
-var mnemonic = "salon become office lady grid fine prepare output tomorrow slot mushroom quote";
+var mnemonic = "near nurse early forum van increase upset typical cousin please soap nature";

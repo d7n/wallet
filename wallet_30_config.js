@@ -1,1 +1,1 @@
-var mnemonic = "cloth pulse skin naive rule pluck garbage fruit group cause theme vague";
+var mnemonic = "hip twenty surface tennis echo beyond grain sustain ask monster hurdle aisle";

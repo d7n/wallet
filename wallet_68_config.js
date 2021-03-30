@@ -1,1 +1,1 @@
-var mnemonic = "wealth shift stove gym cousin open bargain admit buzz pass prevent man";
+var mnemonic = "canyon swallow cliff excite impose enemy parent fitness poem arrow guess farm";

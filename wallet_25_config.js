@@ -1,1 +1,1 @@
-var mnemonic = "coin toe leave shiver gas remove upgrade strategy siren gentle welcome warm";
+var mnemonic = "banana little cancel evidence flame pencil cradle fortune taxi measure drift skin";

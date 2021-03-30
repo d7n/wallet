@@ -1,1 +1,1 @@
-var mnemonic = "churn tuition decade liar chapter front flower inquiry chair middle board settle";
+var mnemonic = "kangaroo budget illness razor talk vault feature grape elevator good bamboo relax";

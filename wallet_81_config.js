@@ -1,1 +1,1 @@
-var mnemonic = "scout hidden fat smile novel farm toward will video address distance section";
+var mnemonic = "speed finger avoid wine happy bird help advance ticket trim humor humor";

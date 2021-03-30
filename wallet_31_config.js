@@ -1,1 +1,1 @@
-var mnemonic = "brave victory write cause claw exchange fire rent wisdom slow kitten install";
+var mnemonic = "arrest please jelly antenna deputy credit box trigger virtual run gadget olympic";

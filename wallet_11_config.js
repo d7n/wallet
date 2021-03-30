@@ -1,1 +1,1 @@
-var mnemonic = "code rubber claw attitude advance adjust sting often discover rural pumpkin apple";
+var mnemonic = "safe better view already broom whip august avoid country giant only section";

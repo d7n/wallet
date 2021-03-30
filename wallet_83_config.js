@@ -1,1 +1,1 @@
-var mnemonic = "wise ordinary trophy deputy neutral unhappy guess grass glue kitten learn walnut";
+var mnemonic = "marble genius curtain cupboard any buddy type train thank man all eager";

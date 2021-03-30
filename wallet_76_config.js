@@ -1,1 +1,1 @@
-var mnemonic = "able property spread lion economy hint price lonely creek front pave iron";
+var mnemonic = "praise twice ladder timber various kitten usage hour honey pet assist hammer";

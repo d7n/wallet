@@ -1,1 +1,1 @@
-var mnemonic = "library program lonely swear camera siege casino degree motor trial type match";
+var mnemonic = "casual awesome stove faculty luxury inside inspire suspect current mask chalk plug";
