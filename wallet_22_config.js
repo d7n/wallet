@@ -1,1 +1,1 @@
-var mnemonic = "engine tray robust tomorrow high mother room veteran black sample because trigger";
+var mnemonic = "document clap business entire talk cigar develop marriage vanish easy hollow survey";

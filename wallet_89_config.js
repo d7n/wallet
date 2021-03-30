@@ -1,1 +1,1 @@
-var mnemonic = "whip view wool tank phrase fall expose spice region hello frequent cupboard";
+var mnemonic = "skin neither swim vendor decade annual alone load casual giggle over large";

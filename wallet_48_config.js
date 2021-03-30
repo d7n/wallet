@@ -1,1 +1,1 @@
-var mnemonic = "flag bench bone rhythm tonight wet poet pioneer general pottery trend either";
+var mnemonic = "evil chat anxiety blast flight crystal sample silver bicycle among cricket sadness";

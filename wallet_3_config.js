@@ -1,1 +1,1 @@
-var mnemonic = "prosper awesome safe stone welcome judge outdoor office second thank funny december";
+var mnemonic = "soul final like animal maple car found away rely fog opera shaft";

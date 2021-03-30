@@ -1,1 +1,1 @@
-var mnemonic = "ten attitude olympic trip close purity cradle auto end rail always venue";
+var mnemonic = "table insect blossom explain mule relief afraid effort race interest choose lumber";

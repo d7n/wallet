@@ -1,1 +1,1 @@
-var mnemonic = "giggle leisure rural mandate across replace meadow people soon victory once bleak";
+var mnemonic = "elite select above rally nuclear lounge fitness horror dose echo olive shine";

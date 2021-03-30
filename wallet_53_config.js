@@ -1,1 +1,1 @@
-var mnemonic = "veteran scrap street april dial crack output provide couch enrich relief curve";
+var mnemonic = "garage grape clump school soda scout deliver leaf trend piece limb salmon";

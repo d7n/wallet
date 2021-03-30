@@ -1,1 +1,1 @@
-var mnemonic = "movie unknown movie comic silk ordinary tired museum wheat daughter lamp maple";
+var mnemonic = "rude dentist hurdle ceiling subject fog gift quantum useless income prepare talk";

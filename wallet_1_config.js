@@ -1,1 +1,1 @@
-var mnemonic = "original outdoor weekend bean team measure drama aspect grid tell sorry family";
+var mnemonic = "mind honey veteran winter claim badge when fix light benefit tobacco retreat";

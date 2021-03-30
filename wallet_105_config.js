@@ -1,1 +1,1 @@
-var mnemonic = "legal swing plastic alarm master kid pass dinosaur parrot total globe write";
+var mnemonic = "mercy mask deny call route fade light fan around island choose spatial";

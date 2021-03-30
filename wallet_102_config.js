@@ -1,1 +1,1 @@
-var mnemonic = "shove exchange split sleep glance double dentist follow tenant pink home above";
+var mnemonic = "test swallow inherit stuff vehicle all rule hobby hammer grocery proud squeeze";

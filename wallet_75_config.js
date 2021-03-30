@@ -1,1 +1,1 @@
-var mnemonic = "bar jeans segment bullet sheriff obvious shiver attend color follow brown essay";
+var mnemonic = "urban allow unfair frequent age girl girl hire piece escape broken rhythm";

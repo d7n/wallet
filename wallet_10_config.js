@@ -1,1 +1,1 @@
-var mnemonic = "choose stone desk spice position novel shuffle shell skill attract yellow simple";
+var mnemonic = "buzz isolate knock turtle ozone pluck bomb suspect sniff raven twin tail";

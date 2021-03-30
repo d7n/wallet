@@ -1,1 +1,1 @@
-var mnemonic = "render immune cotton random media net truth engage athlete idle buyer approve";
+var mnemonic = "luxury require order arrest leader crumble silly slight rifle obey voyage hazard";

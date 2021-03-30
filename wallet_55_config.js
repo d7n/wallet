@@ -1,1 +1,1 @@
-var mnemonic = "expect trash poem time scheme bitter tank cushion finish torch math arm";
+var mnemonic = "toast step toss syrup distance spatial distance junk gate faint tool lyrics";

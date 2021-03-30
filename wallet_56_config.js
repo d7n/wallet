@@ -1,1 +1,1 @@
-var mnemonic = "north quantum excuse float adjust width stem duty uniform road notice aunt";
+var mnemonic = "car course zebra cat trial crazy smoke ripple praise name detect knock";

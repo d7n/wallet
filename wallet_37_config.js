@@ -1,1 +1,1 @@
-var mnemonic = "whisper detect sheriff aim nominee gym hidden custom express smooth when century";
+var mnemonic = "raise safe sad joke economy town law toss unhappy dial trial scheme";

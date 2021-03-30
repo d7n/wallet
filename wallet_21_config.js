@@ -1,1 +1,1 @@
-var mnemonic = "gadget pulse rice verb donor common rude polar home invest broken purpose";
+var mnemonic = "novel coyote smoke rate able chair armed device flee wink wrist chapter";

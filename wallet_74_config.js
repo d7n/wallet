@@ -1,1 +1,1 @@
-var mnemonic = "soccer design curve wool main screen reward alley power talk winter hollow";
+var mnemonic = "leave track unhappy muscle repeat air bind name misery jeans grass blush";

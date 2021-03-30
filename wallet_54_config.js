@@ -1,1 +1,1 @@
-var mnemonic = "measure three spatial alcohol subway issue gentle sister minute gather extra edge";
+var mnemonic = "crush bean kingdom stool often inform clever roof course employ mystery slush";

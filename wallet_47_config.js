@@ -1,1 +1,1 @@
-var mnemonic = "common license neglect habit agent demand island cry lawn put bone report";
+var mnemonic = "squeeze couch pig illness select large infant badge tuition layer weather trash";

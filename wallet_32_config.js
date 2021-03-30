@@ -1,1 +1,1 @@
-var mnemonic = "casino ring wide undo share tattoo post field eternal mobile found reform";
+var mnemonic = "blue acid force cause frown photo insane found scout include reform boy";

@@ -1,1 +1,1 @@
-var mnemonic = "later coral few rival avoid fruit stand slice renew cake gadget please";
+var mnemonic = "similar field dust inform educate addict version vendor cheese frequent raccoon elder";

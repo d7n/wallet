@@ -1,1 +1,1 @@
-var mnemonic = "country wave stereo jacket inmate anger tomorrow prize artwork chalk cabin outside";
+var mnemonic = "sail neglect fee fragile wait solution slice almost swarm tooth broom spell";

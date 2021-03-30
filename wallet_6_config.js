@@ -1,1 +1,1 @@
-var mnemonic = "proof equip task demise trash reject toward embrace wrestle gym work body";
+var mnemonic = "praise truly borrow fabric return betray retire upon tired hundred inquiry sniff";

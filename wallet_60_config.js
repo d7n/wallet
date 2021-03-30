@@ -1,1 +1,1 @@
-var mnemonic = "ghost labor abuse gadget shop patrol object erase mushroom witness energy vanish";
+var mnemonic = "vapor admit silk solution brother insect party knock tray gold million body";

@@ -1,1 +1,1 @@
-var mnemonic = "access zebra stone tattoo drive curtain ice divide foster bonus album velvet";
+var mnemonic = "admit bar advance mouse drop grocery perfect travel father palace fall reject";

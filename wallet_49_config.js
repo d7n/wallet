@@ -1,1 +1,1 @@
-var mnemonic = "uniform dinner ghost napkin match oval ripple sport market dream flag shrug";
+var mnemonic = "dust misery index fatal cabin ghost curious require caught spray crime royal";

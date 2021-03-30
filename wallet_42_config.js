@@ -1,1 +1,1 @@
-var mnemonic = "teach lesson sphere copy foam together hope piano clog liberty wealth guard";
+var mnemonic = "raise useless slush essay save inquiry burger hurry click future exile private";

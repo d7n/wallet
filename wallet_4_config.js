@@ -1,1 +1,1 @@
-var mnemonic = "olympic feed scan rifle tomorrow enable marriage market time term club menu";
+var mnemonic = "hidden orient run kiwi olive payment symbol home glory orchard echo team";

@@ -1,1 +1,1 @@
-var mnemonic = "affair glove use simple small escape toe next panic sure rely episode";
+var mnemonic = "swift wine survey transfer better board absorb language horse theory artwork crisp";

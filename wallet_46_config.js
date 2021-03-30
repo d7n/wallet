@@ -1,1 +1,1 @@
-var mnemonic = "never trash chest tower census recall truly cherry law job talk near";
+var mnemonic = "retire pole alone uphold patch update tragic grab song possible amateur ticket";

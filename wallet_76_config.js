@@ -1,1 +1,1 @@
-var mnemonic = "holiday dawn soda erupt link pioneer canyon correct embrace call avocado turtle";
+var mnemonic = "drip stable nice arctic identify organ pause hawk cage stem enough peanut";

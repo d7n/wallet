@@ -1,1 +1,1 @@
-var mnemonic = "lunch sell parent diagram term warrior festival shove heavy wire can rail";
+var mnemonic = "curious trim dizzy behave festival charge arctic virtual athlete topic mom emerge";

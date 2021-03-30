@@ -1,1 +1,1 @@
-var mnemonic = "mandate area vintage donkey member pulse crawl distance join civil pigeon soon";
+var mnemonic = "badge improve globe borrow obscure silly draw hub field zone clever trial";

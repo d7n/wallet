@@ -1,1 +1,1 @@
-var mnemonic = "lake upon federal range frame orbit coffee team purpose music replace cruel";
+var mnemonic = "finger job chaos truth faint left meadow useful depart panther vacuum ridge";

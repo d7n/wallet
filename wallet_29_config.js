@@ -1,1 +1,1 @@
-var mnemonic = "garage gain feel script else dawn refuse junior lyrics nasty limit bright";
+var mnemonic = "spice say trumpet night average symptom pave settle creek parent submit sniff";

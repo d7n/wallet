@@ -1,1 +1,1 @@
-var mnemonic = "country moral final oxygen pulse forget hollow chuckle actress rate lion render";
+var mnemonic = "gown actor cinnamon mistake universe alcohol embark obscure tube display ketchup multiply";

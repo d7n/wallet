@@ -1,1 +1,1 @@
-var mnemonic = "farm belt service conduct silver fragile garlic approve athlete slot hurdle chat";
+var mnemonic = "deer swear cherry cupboard solid else sea neck room satisfy crunch clay";

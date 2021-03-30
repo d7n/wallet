@@ -1,1 +1,1 @@
-var mnemonic = "pioneer garment brick pretty wheel valid laundry victory expect million head river";
+var mnemonic = "visit timber spawn alone use sing century cabbage cargo bargain sick south";

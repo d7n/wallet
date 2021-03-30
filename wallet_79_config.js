@@ -1,1 +1,1 @@
-var mnemonic = "pledge comfort excess sick dog athlete divide cruel scene frozen change problem";
+var mnemonic = "divorce butter victory sleep else tell brisk enrich uncle expire budget melody";

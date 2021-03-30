@@ -1,1 +1,1 @@
-var mnemonic = "topple charge undo call shift adjust that snake sniff patient battle steel";
+var mnemonic = "annual cupboard other stomach pluck library stairs eager evoke patrol pass want";

@@ -1,1 +1,1 @@
-var mnemonic = "winter stool vocal stomach trick lamp spider genius obey buffalo tent void";
+var mnemonic = "laptop mule dial remain bind item retire hold vast divide hover ahead";

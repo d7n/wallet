@@ -1,1 +1,1 @@
-var mnemonic = "swamp desk chuckle still rice domain shift abuse elegant rose jewel fitness";
+var mnemonic = "copper neglect now pretty degree poverty lab time skull lens rather resource";

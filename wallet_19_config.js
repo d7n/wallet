@@ -1,1 +1,1 @@
-var mnemonic = "east hammer burger tennis culture veteran shoot armed run attend bulb drastic";
+var mnemonic = "peanut hedgehog carpet winter script nice brain twist tiny orange begin razor";

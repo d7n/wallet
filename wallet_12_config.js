@@ -1,1 +1,1 @@
-var mnemonic = "because wine license mobile bar horse leave surprise awkward above cook offer";
+var mnemonic = "issue mixed gossip lizard plunge dog fish dumb hour arrange horse unable";

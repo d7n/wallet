@@ -1,1 +1,1 @@
-var mnemonic = "margin raw then insect guide snake blind two february federal toddler little";
+var mnemonic = "venue burger actor wet enforce average loud print boat lawsuit critic steak";

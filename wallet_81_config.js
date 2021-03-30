@@ -1,1 +1,1 @@
-var mnemonic = "trick mass myth amazing blouse moon baby mystery point jewel hazard piano";
+var mnemonic = "seminar cinnamon excuse civil derive wonder empower gold fitness cactus impose mushroom";

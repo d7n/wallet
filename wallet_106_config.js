@@ -1,1 +1,1 @@
-var mnemonic = "tip fish aunt off shuffle globe west soon cake ivory exchange rifle";
+var mnemonic = "library violin fence stomach under repeat pluck nominee wet picnic sort blame";

@@ -1,1 +1,1 @@
-var mnemonic = "soup athlete reopen speed inner grit student escape margin silk marriage isolate";
+var mnemonic = "note swarm swallow skin wild avocado picture rabbit false wage west cannon";

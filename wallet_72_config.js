@@ -1,1 +1,1 @@
-var mnemonic = "north admit chalk disagree pumpkin summer hand surge cool pledge fancy indoor";
+var mnemonic = "lock engine silver game dove potato dad lemon elbow share capable race";

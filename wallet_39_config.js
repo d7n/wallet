@@ -1,1 +1,1 @@
-var mnemonic = "slide discover earn rebuild group announce milk scorpion vacant album glance obtain";
+var mnemonic = "image gather hole spoon hour fork refuse attend resource hill search slow";

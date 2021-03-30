@@ -1,1 +1,1 @@
-var mnemonic = "diary make embrace muscle collect citizen okay dinner today way october marble";
+var mnemonic = "layer common host relax recycle leave mean grab garbage minimum soap blue";

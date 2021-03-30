@@ -1,1 +1,1 @@
-var mnemonic = "enable damp muscle dove couple aware fantasy ghost energy margin guilt sun";
+var mnemonic = "angry tree quiz melody material volcano luggage fruit enter brush tower law";

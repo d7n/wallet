@@ -1,1 +1,1 @@
-var mnemonic = "runway clip naive craft team cat goat gasp owner hungry volcano expose";
+var mnemonic = "hub hockey protect cable citizen bench wire rib month lecture heavy spot";

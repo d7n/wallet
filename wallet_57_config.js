@@ -1,1 +1,1 @@
-var mnemonic = "okay runway estate glory engage pumpkin review put card logic pond veteran";
+var mnemonic = "range world mystery hundred law later object intact aware federal fee aunt";

@@ -1,1 +1,1 @@
-var mnemonic = "broken cactus intact hidden claim search lizard echo point movie bulb indoor";
+var mnemonic = "left produce brave fame risk federal era ethics couch surprise hill laptop";

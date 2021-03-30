@@ -1,1 +1,1 @@
-var mnemonic = "daring aspect shoe drum liberty zoo leaf mirror duck syrup aisle hollow";
+var mnemonic = "like tuna sting spring color blouse remind swallow duty judge glance upon";

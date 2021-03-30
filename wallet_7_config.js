@@ -1,1 +1,1 @@
-var mnemonic = "lottery daring jelly exercise dash negative leader tongue wash spot erode outer";
+var mnemonic = "idle biology about eye trim actress exercise call beef gorilla estate kick";

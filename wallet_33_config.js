@@ -1,1 +1,1 @@
-var mnemonic = "iron disagree day click stool begin answer bridge slogan tail ice list";
+var mnemonic = "walk mimic crowd dish link celery brass thrive eyebrow between bulb pole";

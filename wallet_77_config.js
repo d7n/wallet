@@ -1,1 +1,1 @@
-var mnemonic = "depth attract satisfy dice run planet crash camera pattern dentist comfort dragon";
+var mnemonic = "sense enact indicate satoshi salt cement east cushion despair lounge upgrade okay";

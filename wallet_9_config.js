@@ -1,1 +1,1 @@
-var mnemonic = "basket top siege retreat expand expose inhale minimum leader around hollow spice";
+var mnemonic = "august gadget gorilla merit reunion gentle govern employ quantum seat risk smart";

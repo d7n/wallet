@@ -1,1 +1,1 @@
-var mnemonic = "noble point short enable title crumble north boil cool depend type great";
+var mnemonic = "blush glare grain capable forget inherit theory rapid harbor piece blade pool";

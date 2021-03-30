@@ -1,1 +1,1 @@
-var mnemonic = "sign skate perfect dream fluid inject choice conduct nation about destroy border";
+var mnemonic = "panic flock drift surge pony wood feature dream future grief buffalo butter";

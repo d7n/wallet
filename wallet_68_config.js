@@ -1,1 +1,1 @@
-var mnemonic = "latin impulse chaos group index vote decrease flat output sketch ribbon electric";
+var mnemonic = "hybrid east old crazy hold such prosper magic gym lawsuit drama olympic";

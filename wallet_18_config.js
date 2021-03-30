@@ -1,1 +1,1 @@
-var mnemonic = "adjust giggle airport token fat train profit coffee crater inhale deposit drama";
+var mnemonic = "seat fix track view dizzy bird alert battle they riot gasp subject";

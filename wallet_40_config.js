@@ -1,1 +1,1 @@
-var mnemonic = "crop accident path patrol antenna rack snap delay embody exist once quick";
+var mnemonic = "hire walnut invest tenant soda must wink accuse grant argue hover involve";

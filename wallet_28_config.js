@@ -1,1 +1,1 @@
-var mnemonic = "gentle usual zero must display conduct fringe physical draft belt dilemma all";
+var mnemonic = "clump merge grape peasant tortoise distance relief chalk load surge trade couple";

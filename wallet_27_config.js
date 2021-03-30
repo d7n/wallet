@@ -1,1 +1,1 @@
-var mnemonic = "half arrange museum admit nuclear hamster option hand hold disagree salmon robust";
+var mnemonic = "north manual leaf deal similar truly together better book canal uncover guess";

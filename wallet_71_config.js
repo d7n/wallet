@@ -1,1 +1,1 @@
-var mnemonic = "sponsor surprise lobster budget clinic glide main diet charge anchor neglect man";
+var mnemonic = "peanut model high fit prevent barely blast sun school gap essence little";

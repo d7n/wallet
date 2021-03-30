@@ -1,1 +1,1 @@
-var mnemonic = "choose dynamic inmate endorse simple build glow memory fiction dignity vessel betray";
+var mnemonic = "awesome there hawk icon devote grain ranch hover velvet hat joy cheese";

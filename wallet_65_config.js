@@ -1,1 +1,1 @@
-var mnemonic = "pipe wrist census wood cement zero snack hedgehog cigar lucky capable annual";
+var mnemonic = "busy slender seven cattle steak regret scan shell child chaos wrist umbrella";

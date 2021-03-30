@@ -1,1 +1,1 @@
-var mnemonic = "spatial mammal morning base type permit fabric decorate title luggage assist mad";
+var mnemonic = "surge juice road eagle exile unhappy problem praise brown enter ship reform";

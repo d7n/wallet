@@ -1,1 +1,1 @@
-var mnemonic = "forest matter subject addict panther speed ramp also inform verify same rich";
+var mnemonic = "pave matrix reopen rebuild devote dust daring describe put keen oxygen regular";

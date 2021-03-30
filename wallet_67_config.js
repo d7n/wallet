@@ -1,1 +1,1 @@
-var mnemonic = "horn cake drink suggest glue final liberty huge park auction bike bread";
+var mnemonic = "ancient ivory hawk cruise mask enlist weather fuel private razor diagram type";

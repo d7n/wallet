@@ -1,1 +1,1 @@
-var mnemonic = "burger junior tragic student audit abandon nominee stumble moral month beach work";
+var mnemonic = "step material ozone unhappy wage spider mouse runway grunt expect nominee design";

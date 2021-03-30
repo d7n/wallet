@@ -1,1 +1,1 @@
-var mnemonic = "hover shaft soon average machine arena voyage oil panda later boy wagon";
+var mnemonic = "surge analyst excess farm expire parent image squirrel abandon hurt tuna square";

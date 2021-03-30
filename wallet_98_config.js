@@ -1,1 +1,1 @@
-var mnemonic = "side great human slush member vital fetch limit brush size brush ankle";
+var mnemonic = "bind element forward lion essence oxygen shell ribbon rely glimpse dwarf cute";

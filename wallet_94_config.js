@@ -1,1 +1,1 @@
-var mnemonic = "sing eagle theme possible pencil quit sugar misery cigar input render night";
+var mnemonic = "burger tree harvest garage glow peanut cat engage analyst upper bounce decline";

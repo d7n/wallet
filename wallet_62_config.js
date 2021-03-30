@@ -1,1 +1,1 @@
-var mnemonic = "blood bronze awesome bulk price clerk afraid argue best inside profit flat";
+var mnemonic = "helmet broccoli safe shrimp ice thunder lamp favorite language spice law load";

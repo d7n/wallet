@@ -1,1 +1,1 @@
-var mnemonic = "tent ozone busy manual phone wear fade shell deputy slice swamp weapon";
+var mnemonic = "bone ring ceiling refuse help ghost minimum young great leg steel open";

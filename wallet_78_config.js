@@ -1,1 +1,1 @@
-var mnemonic = "source width muscle shed rifle youth pudding grid birth assault night town";
+var mnemonic = "true bargain display celery decide wage neutral exile machine chunk elder onion";

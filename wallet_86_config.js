@@ -1,1 +1,1 @@
-var mnemonic = "glad swing phrase open drop blood ugly flash wine language tuna patch";
+var mnemonic = "amazing lady turtle grocery session quality smart brush field cinnamon bag basket";

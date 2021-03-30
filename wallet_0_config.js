@@ -1,1 +1,1 @@
-var mnemonic = "rice cheap library address gym exchange impulse fame hunt ghost drama urge";
+var mnemonic = "drum brush salute biology cup gather element lesson spoil bus venture diet";

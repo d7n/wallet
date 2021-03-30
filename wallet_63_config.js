@@ -1,1 +1,1 @@
-var mnemonic = "assume stairs exchange simple foster exercise client provide quantum attract tide hawk";
+var mnemonic = "ranch delay alien symptom fee speak boy confirm actress token gather brass";

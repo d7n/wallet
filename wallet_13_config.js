@@ -1,1 +1,1 @@
-var mnemonic = "section relief guide august news imitate company such accuse pull cloth flock";
+var mnemonic = "transfer place resist salad inside swarm ice gasp reveal attack essay seat";

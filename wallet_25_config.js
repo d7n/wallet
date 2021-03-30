@@ -1,1 +1,1 @@
-var mnemonic = "verb gadget erase describe strategy catalog marble harbor normal matter mule body";
+var mnemonic = "false kite dial behave change around tobacco jaguar bounce uniform heart upgrade";

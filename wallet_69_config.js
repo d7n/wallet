@@ -1,1 +1,1 @@
-var mnemonic = "water object solve iron grocery congress cheese marriage escape stone powder scissors";
+var mnemonic = "slim boring dentist enroll dragon present void lounge napkin result virus answer";

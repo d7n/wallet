@@ -1,1 +1,1 @@
-var mnemonic = "tongue fat aunt auto frown edit must mean cup because pear engage";
+var mnemonic = "laundry trim copy adapt agent ritual pride dog yard add stone mercy";

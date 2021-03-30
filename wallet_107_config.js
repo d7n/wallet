@@ -1,1 +1,1 @@
-var mnemonic = "nuclear syrup crash east clever burst refuse eyebrow twelve syrup entire seek";
+var mnemonic = "agree symbol dolphin injury math client path symptom change outside end crisp";

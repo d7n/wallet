@@ -1,1 +1,1 @@
-var mnemonic = "climb lift remove kid broken pave genre foam decrease milk gym blanket";
+var mnemonic = "wide soft another casual reveal chair frame enemy harbor twice shoot grunt";

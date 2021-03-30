@@ -1,1 +1,1 @@
-var mnemonic = "century bottom mind arrow craft pudding oven misery rare grain ahead nature";
+var mnemonic = "round replace enjoy entire toward sea human indicate rack depart season hello";

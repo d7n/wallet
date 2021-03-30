@@ -1,1 +1,1 @@
-var mnemonic = "raven grid affair hockey fame upset section village bulk state dad torch";
+var mnemonic = "churn easily enroll figure flag warm nest sniff ignore fashion borrow august";

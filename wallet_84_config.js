@@ -1,1 +1,1 @@
-var mnemonic = "comic circle list athlete number filter galaxy antique hover later recycle uniform";
+var mnemonic = "scrap family door cave pond retreat duck margin churn need amazing tenant";

@@ -1,1 +1,1 @@
-var mnemonic = "robot mimic trumpet ice trade clean begin wise alley cushion barrel casino";
+var mnemonic = "number lesson screen pledge render laugh exclude outer copper siren either glimpse";
