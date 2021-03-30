@@ -1,1 +1,1 @@
-var mnemonic = "bind element forward lion essence oxygen shell ribbon rely glimpse dwarf cute";
+var mnemonic = "actress owner symbol draw copper cake shove jeans claw middle horse cupboard";

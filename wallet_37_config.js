@@ -1,1 +1,1 @@
-var mnemonic = "raise safe sad joke economy town law toss unhappy dial trial scheme";
+var mnemonic = "bench split stage mail mechanic middle analyst still dragon inch usage unfold";

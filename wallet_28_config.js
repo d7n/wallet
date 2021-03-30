@@ -1,1 +1,1 @@
-var mnemonic = "clump merge grape peasant tortoise distance relief chalk load surge trade couple";
+var mnemonic = "paper since patrol evil wrestle salute sail barrel clip rack total wrong";

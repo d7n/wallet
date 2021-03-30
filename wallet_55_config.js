@@ -1,1 +1,1 @@
-var mnemonic = "toast step toss syrup distance spatial distance junk gate faint tool lyrics";
+var mnemonic = "merge razor left width toss cry erase bridge black faint choose attack";

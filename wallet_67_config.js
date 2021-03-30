@@ -1,1 +1,1 @@
-var mnemonic = "ancient ivory hawk cruise mask enlist weather fuel private razor diagram type";
+var mnemonic = "fabric month train piece admit inside midnight canvas pupil must excite have";

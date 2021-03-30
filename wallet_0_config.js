@@ -1,1 +1,1 @@
-var mnemonic = "drum brush salute biology cup gather element lesson spoil bus venture diet";
+var mnemonic = "defy often abuse wise right faith replace fence drift aim kangaroo female";

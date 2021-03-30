@@ -1,1 +1,1 @@
-var mnemonic = "drip stable nice arctic identify organ pause hawk cage stem enough peanut";
+var mnemonic = "soap cute forward upon subject slide above pottery draw mirror once divert";

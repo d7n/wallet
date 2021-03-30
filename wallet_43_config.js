@@ -1,1 +1,1 @@
-var mnemonic = "venue burger actor wet enforce average loud print boat lawsuit critic steak";
+var mnemonic = "diet ask throw stick now steel cruel home upgrade clean cabin soap";

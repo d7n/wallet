@@ -1,1 +1,1 @@
-var mnemonic = "seat fix track view dizzy bird alert battle they riot gasp subject";
+var mnemonic = "friend scrub brick exist retreat song slight pumpkin sport valid become slab";

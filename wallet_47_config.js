@@ -1,1 +1,1 @@
-var mnemonic = "squeeze couch pig illness select large infant badge tuition layer weather trash";
+var mnemonic = "search monster scrap sweet gun account dilemma van sort movie amazing shadow";

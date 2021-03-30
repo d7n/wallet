@@ -1,1 +1,1 @@
-var mnemonic = "idle biology about eye trim actress exercise call beef gorilla estate kick";
+var mnemonic = "spin miracle phone spring soccer pass jump daring toward garage siege vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "north manual leaf deal similar truly together better book canal uncover guess";
+var mnemonic = "sunny milk message rally plug favorite blossom obscure knife kitchen motion climb";

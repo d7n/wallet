@@ -1,1 +1,1 @@
-var mnemonic = "swift wine survey transfer better board absorb language horse theory artwork crisp";
+var mnemonic = "family lyrics latin photo say celery ceiling lemon symbol earn call dish";

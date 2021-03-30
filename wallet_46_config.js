@@ -1,1 +1,1 @@
-var mnemonic = "retire pole alone uphold patch update tragic grab song possible amateur ticket";
+var mnemonic = "canvas summer submit remind planet lady damp exist city meadow box grab";

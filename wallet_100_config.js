@@ -1,1 +1,1 @@
-var mnemonic = "note swarm swallow skin wild avocado picture rabbit false wage west cannon";
+var mnemonic = "random seek caught velvet session feed weather rebuild answer inquiry cactus dragon";

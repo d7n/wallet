@@ -1,1 +1,1 @@
-var mnemonic = "ranch delay alien symptom fee speak boy confirm actress token gather brass";
+var mnemonic = "person girl erupt vast mesh conduct surround smart chest athlete busy sting";

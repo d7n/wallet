@@ -1,1 +1,1 @@
-var mnemonic = "hybrid east old crazy hold such prosper magic gym lawsuit drama olympic";
+var mnemonic = "palace impact key scare word pelican good surprise now spoon spirit dance";

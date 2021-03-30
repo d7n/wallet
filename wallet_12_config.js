@@ -1,1 +1,1 @@
-var mnemonic = "issue mixed gossip lizard plunge dog fish dumb hour arrange horse unable";
+var mnemonic = "axis network soldier pool discover pigeon pig system gaze moral mixture misery";

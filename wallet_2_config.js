@@ -1,1 +1,1 @@
-var mnemonic = "verb diesel switch gun aunt decade engine exact result destroy venture they";
+var mnemonic = "name stable pool hood lawsuit floor vague scheme quick ignore social face";

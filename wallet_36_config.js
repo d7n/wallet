@@ -1,1 +1,1 @@
-var mnemonic = "wise bamboo daring include exit chimney man weekend attract solve matter aspect";
+var mnemonic = "proof pupil behave oven august art alcohol laundry achieve better hobby winter";

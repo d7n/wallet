@@ -1,1 +1,1 @@
-var mnemonic = "finger job chaos truth faint left meadow useful depart panther vacuum ridge";
+var mnemonic = "load throw shuffle style lizard poverty hurry loyal symbol phone sword appear";

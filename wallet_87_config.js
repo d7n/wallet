@@ -1,1 +1,1 @@
-var mnemonic = "surge juice road eagle exile unhappy problem praise brown enter ship reform";
+var mnemonic = "weekend cereal kit away ritual front vapor melody trash bicycle minute awful";

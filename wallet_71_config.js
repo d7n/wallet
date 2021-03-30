@@ -1,1 +1,1 @@
-var mnemonic = "peanut model high fit prevent barely blast sun school gap essence little";
+var mnemonic = "damage weekend first engage tragic acid buyer air guide domain remind problem";

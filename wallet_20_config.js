@@ -1,1 +1,1 @@
-var mnemonic = "layer common host relax recycle leave mean grab garbage minimum soap blue";
+var mnemonic = "domain adjust decide gossip still hold warfare pig order seek space corn";

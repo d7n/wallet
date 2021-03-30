@@ -1,1 +1,1 @@
-var mnemonic = "range world mystery hundred law later object intact aware federal fee aunt";
+var mnemonic = "focus ritual broom someone hammer make custom make exile protect royal choice";

@@ -1,1 +1,1 @@
-var mnemonic = "scene train design such nose defy pause law zebra margin crawl multiply";
+var mnemonic = "monkey various add mosquito subway chapter evolve ostrich speak inquiry depend belt";

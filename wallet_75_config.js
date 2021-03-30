@@ -1,1 +1,1 @@
-var mnemonic = "urban allow unfair frequent age girl girl hire piece escape broken rhythm";
+var mnemonic = "seminar refuse coffee marble cinnamon wing height found under fitness among idea";

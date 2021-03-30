@@ -1,1 +1,1 @@
-var mnemonic = "tornado aunt core ivory enter settle police isolate ocean strike elite initial";
+var mnemonic = "evil pluck broken engage nurse notable daring elder category curtain awake black";

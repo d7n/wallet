@@ -1,1 +1,1 @@
-var mnemonic = "copper neglect now pretty degree poverty lab time skull lens rather resource";
+var mnemonic = "myth target state fitness claim quick must rack buddy letter crouch bulk";

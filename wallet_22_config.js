@@ -1,1 +1,1 @@
-var mnemonic = "document clap business entire talk cigar develop marriage vanish easy hollow survey";
+var mnemonic = "dirt toward metal person camp jacket story often broken bubble arch surround";

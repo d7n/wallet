@@ -1,1 +1,1 @@
-var mnemonic = "agree symbol dolphin injury math client path symptom change outside end crisp";
+var mnemonic = "laugh flag hold license assault crawl wish fault mandate baby half vicious";

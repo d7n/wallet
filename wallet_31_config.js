@@ -1,1 +1,1 @@
-var mnemonic = "case actor sadness royal hole tuna glow rely crucial clinic hood oak";
+var mnemonic = "bird same argue smoke fold hold ethics crisp south jump talent keen";

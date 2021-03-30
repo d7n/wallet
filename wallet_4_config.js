@@ -1,1 +1,1 @@
-var mnemonic = "hidden orient run kiwi olive payment symbol home glory orchard echo team";
+var mnemonic = "churn evidence expand donor gather guitar axis guard license drive cradle toy";

@@ -1,1 +1,1 @@
-var mnemonic = "true bargain display celery decide wage neutral exile machine chunk elder onion";
+var mnemonic = "length squirrel math awkward lonely circle coffee oak bind tribe art consider";

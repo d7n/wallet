@@ -1,1 +1,1 @@
-var mnemonic = "senior siren smoke write priority slot blue provide shed boy behind calm";
+var mnemonic = "heart kiwi design fun rhythm trial viable rib solution weapon festival vibrant";

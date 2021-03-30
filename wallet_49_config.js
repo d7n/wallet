@@ -1,1 +1,1 @@
-var mnemonic = "dust misery index fatal cabin ghost curious require caught spray crime royal";
+var mnemonic = "excite laugh goose wet tonight wheat jump try hollow service machine hub";

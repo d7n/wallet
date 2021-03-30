@@ -1,1 +1,1 @@
-var mnemonic = "panic flock drift surge pony wood feature dream future grief buffalo butter";
+var mnemonic = "embark crazy loop panda pull joy coil glow nose barrel expand desert";

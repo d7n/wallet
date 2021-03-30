@@ -1,1 +1,1 @@
-var mnemonic = "laptop mule dial remain bind item retire hold vast divide hover ahead";
+var mnemonic = "margin bid caution bean must place kid book mail endless actor above";

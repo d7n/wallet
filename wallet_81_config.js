@@ -1,1 +1,1 @@
-var mnemonic = "seminar cinnamon excuse civil derive wonder empower gold fitness cactus impose mushroom";
+var mnemonic = "soda pair worth ocean wisdom kick story divorce sunset input split stool";

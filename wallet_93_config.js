@@ -1,1 +1,1 @@
-var mnemonic = "similar field dust inform educate addict version vendor cheese frequent raccoon elder";
+var mnemonic = "scrap edge license various bronze law desert gold certain copper siege carbon";

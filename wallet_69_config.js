@@ -1,1 +1,1 @@
-var mnemonic = "slim boring dentist enroll dragon present void lounge napkin result virus answer";
+var mnemonic = "join later furnace fog fire frozen bargain mirror table beyond orchard afford";

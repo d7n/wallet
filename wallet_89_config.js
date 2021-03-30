@@ -1,1 +1,1 @@
-var mnemonic = "skin neither swim vendor decade annual alone load casual giggle over large";
+var mnemonic = "comic opera possible cricket pyramid captain mimic sound endless equal rally twist";

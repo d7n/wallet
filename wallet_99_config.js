@@ -1,1 +1,1 @@
-var mnemonic = "rude dentist hurdle ceiling subject fog gift quantum useless income prepare talk";
+var mnemonic = "fatigue cancel grit safe artefact vast swift muffin raise fluid hood slow";

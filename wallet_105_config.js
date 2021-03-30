@@ -1,1 +1,1 @@
-var mnemonic = "mercy mask deny call route fade light fan around island choose spatial";
+var mnemonic = "strong toward taxi fatal marine settle web seek shock choose vacant estate";

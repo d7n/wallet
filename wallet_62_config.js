@@ -1,1 +1,1 @@
-var mnemonic = "helmet broccoli safe shrimp ice thunder lamp favorite language spice law load";
+var mnemonic = "layer wife allow fork lyrics bubble permit wage hint chief tape coach";

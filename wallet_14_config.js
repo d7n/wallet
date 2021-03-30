@@ -1,1 +1,1 @@
-var mnemonic = "left produce brave fame risk federal era ethics couch surprise hill laptop";
+var mnemonic = "betray viable uniform cactus laptop install arch retire elephant east copy domain";

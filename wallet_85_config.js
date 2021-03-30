@@ -1,1 +1,1 @@
-var mnemonic = "pave matrix reopen rebuild devote dust daring describe put keen oxygen regular";
+var mnemonic = "melt mom century buyer humor action stove enough gate crime father mammal";

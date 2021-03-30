@@ -1,1 +1,1 @@
-var mnemonic = "peanut hedgehog carpet winter script nice brain twist tiny orange begin razor";
+var mnemonic = "learn once disagree alcohol stand arrange matrix raccoon blue gift mule skate";

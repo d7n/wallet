@@ -1,1 +1,1 @@
-var mnemonic = "amazing lady turtle grocery session quality smart brush field cinnamon bag basket";
+var mnemonic = "kite globe convince museum sick pitch hidden useless gain such share little";

@@ -1,1 +1,1 @@
-var mnemonic = "badge improve globe borrow obscure silly draw hub field zone clever trial";
+var mnemonic = "tornado dynamic clerk latin good size shy chronic island resource illegal become";

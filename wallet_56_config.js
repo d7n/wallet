@@ -1,1 +1,1 @@
-var mnemonic = "car course zebra cat trial crazy smoke ripple praise name detect knock";
+var mnemonic = "drip wisdom code flight route museum young pond guard strike absent lizard";

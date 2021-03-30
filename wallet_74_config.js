@@ -1,1 +1,1 @@
-var mnemonic = "leave track unhappy muscle repeat air bind name misery jeans grass blush";
+var mnemonic = "hawk verb mask artefact gym jazz project skin host try wink sword";

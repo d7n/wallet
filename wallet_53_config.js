@@ -1,1 +1,1 @@
-var mnemonic = "garage grape clump school soda scout deliver leaf trend piece limb salmon";
+var mnemonic = "evidence manage correct loud matrix actress sausage blue ill inherit maid swarm";

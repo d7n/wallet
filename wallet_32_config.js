@@ -1,1 +1,1 @@
-var mnemonic = "blue acid force cause frown photo insane found scout include reform boy";
+var mnemonic = "will path ankle fashion series ring embrace language find depend fatigue session";

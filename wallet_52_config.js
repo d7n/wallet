@@ -1,1 +1,1 @@
-var mnemonic = "number lesson screen pledge render laugh exclude outer copper siren either glimpse";
+var mnemonic = "shine impact such bring behave awful little action much across sail kiwi";

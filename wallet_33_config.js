@@ -1,1 +1,1 @@
-var mnemonic = "walk mimic crowd dish link celery brass thrive eyebrow between bulb pole";
+var mnemonic = "error process brisk someone release prevent govern burden purchase service wreck coach";

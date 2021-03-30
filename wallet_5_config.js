@@ -1,1 +1,1 @@
-var mnemonic = "surge analyst excess farm expire parent image squirrel abandon hurt tuna square";
+var mnemonic = "excite ask jar athlete bitter rib garbage silk admit guilt digital provide";

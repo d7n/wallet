@@ -1,1 +1,1 @@
-var mnemonic = "muffin sustain lonely airport clown quarter expand olive govern zoo once pave";
+var mnemonic = "dirt nature vague club question document gentle symbol permit again snow print";

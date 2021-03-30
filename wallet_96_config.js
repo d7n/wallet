@@ -1,1 +1,1 @@
-var mnemonic = "sun image boring post place ocean carry mercy order snake donate dumb";
+var mnemonic = "cable approve index advance forget unusual hour finish clinic assist skirt impulse";

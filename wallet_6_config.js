@@ -1,1 +1,1 @@
-var mnemonic = "praise truly borrow fabric return betray retire upon tired hundred inquiry sniff";
+var mnemonic = "swap cancel ladder state wolf monkey lake sadness cook portion neutral zebra";

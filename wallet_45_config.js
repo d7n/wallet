@@ -1,1 +1,1 @@
-var mnemonic = "shield hidden cousin jar cloud lava jaguar trend priority stuff cheese victory";
+var mnemonic = "patrol fashion allow trip scorpion increase egg soccer detail canvas tide equip";

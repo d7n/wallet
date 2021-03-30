@@ -1,1 +1,1 @@
-var mnemonic = "wide soft another casual reveal chair frame enemy harbor twice shoot grunt";
+var mnemonic = "debris carry draw choice client initial circle guilt market index body improve";

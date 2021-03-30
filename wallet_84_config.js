@@ -1,1 +1,1 @@
-var mnemonic = "scrap family door cave pond retreat duck margin churn need amazing tenant";
+var mnemonic = "problem pluck embrace glass business mystery frown swamp reform coil diary lion";

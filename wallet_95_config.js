@@ -1,1 +1,1 @@
-var mnemonic = "laundry trim copy adapt agent ritual pride dog yard add stone mercy";
+var mnemonic = "quick sibling cube east truth shoulder sunny remain stick voyage mesh green";

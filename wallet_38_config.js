@@ -1,1 +1,1 @@
-var mnemonic = "admit bar advance mouse drop grocery perfect travel father palace fall reject";
+var mnemonic = "analyst float merry subway across about deposit tone century party liar census";

@@ -1,1 +1,1 @@
-var mnemonic = "bone ring ceiling refuse help ghost minimum young great leg steel open";
+var mnemonic = "punch salmon planet pepper bomb school stumble tackle limit quit kingdom miracle";

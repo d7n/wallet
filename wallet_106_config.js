@@ -1,1 +1,1 @@
-var mnemonic = "library violin fence stomach under repeat pluck nominee wet picnic sort blame";
+var mnemonic = "still audit case owner acoustic tape ship frame chunk gentle female timber";

@@ -1,1 +1,1 @@
-var mnemonic = "then uniform brand hope aim daughter woman describe sail hill shed label";
+var mnemonic = "humor travel parrot hockey quote pair account elegant length pottery stereo fly";

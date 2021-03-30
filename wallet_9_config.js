@@ -1,1 +1,1 @@
-var mnemonic = "august gadget gorilla merit reunion gentle govern employ quantum seat risk smart";
+var mnemonic = "exhibit lawsuit dove soldier fence alpha model define eternal vacant cushion media";

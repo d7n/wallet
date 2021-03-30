@@ -1,1 +1,1 @@
-var mnemonic = "false kite dial behave change around tobacco jaguar bounce uniform heart upgrade";
+var mnemonic = "initial keen dance main hood entire sight olive square table loop december";

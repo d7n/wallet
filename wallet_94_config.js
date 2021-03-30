@@ -1,1 +1,1 @@
-var mnemonic = "burger tree harvest garage glow peanut cat engage analyst upper bounce decline";
+var mnemonic = "absurd creek dinosaur body enact number suit chat novel eye book bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "hire walnut invest tenant soda must wink accuse grant argue hover involve";
+var mnemonic = "hockey review column consider render brain when castle asthma march priority patient";

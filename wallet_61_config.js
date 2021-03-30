@@ -1,1 +1,1 @@
-var mnemonic = "annual cupboard other stomach pluck library stairs eager evoke patrol pass want";
+var mnemonic = "turn tuition hire rice evil size artist clip bid spoon van quality";

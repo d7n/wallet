@@ -1,1 +1,1 @@
-var mnemonic = "busy slender seven cattle steak regret scan shell child chaos wrist umbrella";
+var mnemonic = "shrimp hotel voice simple planet city achieve embark pudding siege fruit secret";

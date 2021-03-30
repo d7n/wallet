@@ -1,1 +1,1 @@
-var mnemonic = "like tuna sting spring color blouse remind swallow duty judge glance upon";
+var mnemonic = "year broom pact rookie fiction season friend knee parent foil weasel limit";

@@ -1,1 +1,1 @@
-var mnemonic = "table insect blossom explain mule relief afraid effort race interest choose lumber";
+var mnemonic = "modify sight basic transfer slim cruel box usual keep wrap mistake jungle";

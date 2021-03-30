@@ -1,1 +1,1 @@
-var mnemonic = "vapor admit silk solution brother insect party knock tray gold million body";
+var mnemonic = "boy lady jacket tomorrow retreat enrich remain biology school achieve dream grief";

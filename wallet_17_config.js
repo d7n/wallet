@@ -1,1 +1,1 @@
-var mnemonic = "pioneer wave toss almost brand essay neutral champion endless denial garment receive";
+var mnemonic = "soft despair sphere mountain oyster attitude chronic timber stadium evidence season umbrella";

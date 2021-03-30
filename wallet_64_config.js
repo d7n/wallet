@@ -1,1 +1,1 @@
-var mnemonic = "visit timber spawn alone use sing century cabbage cargo bargain sick south";
+var mnemonic = "hidden grape width heart foot loud admit seven gravity reflect that bunker";

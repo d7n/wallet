@@ -1,1 +1,1 @@
-var mnemonic = "image gather hole spoon hour fork refuse attend resource hill search slow";
+var mnemonic = "village attack curtain bonus era brisk hard celery client helmet carpet have";

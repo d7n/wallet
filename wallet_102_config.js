@@ -1,1 +1,1 @@
-var mnemonic = "test swallow inherit stuff vehicle all rule hobby hammer grocery proud squeeze";
+var mnemonic = "sport word spot sunset thank cat buddy middle dinner quarter task multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "buzz isolate knock turtle ozone pluck bomb suspect sniff raven twin tail";
+var mnemonic = "chicken chronic warfare napkin artwork mosquito beyond emotion spray slow bacon solar";

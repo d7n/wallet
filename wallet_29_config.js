@@ -1,1 +1,1 @@
-var mnemonic = "spice say trumpet night average symptom pave settle creek parent submit sniff";
+var mnemonic = "bone dice tube history target universe report shrug viable athlete task volume";

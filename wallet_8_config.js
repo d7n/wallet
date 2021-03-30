@@ -1,1 +1,1 @@
-var mnemonic = "forward village protect erase problem table duty tone garage blame tube airport";
+var mnemonic = "please speak whisper matter stock gain weird sentence wink case catch photo";

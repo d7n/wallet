@@ -1,1 +1,1 @@
-var mnemonic = "corn barrel glance enjoy spring fitness curious bean uncover public damp mesh";
+var mnemonic = "smoke buffalo guard accident agent obscure tube differ asthma glad reward fish";

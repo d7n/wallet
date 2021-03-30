@@ -1,1 +1,1 @@
-var mnemonic = "curious trim dizzy behave festival charge arctic virtual athlete topic mom emerge";
+var mnemonic = "era ready basket curious crisp neither strike exist peanut pudding glance pluck";

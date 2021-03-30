@@ -1,1 +1,1 @@
-var mnemonic = "transfer place resist salad inside swarm ice gasp reveal attack essay seat";
+var mnemonic = "elevator seven eight tone cactus dream royal modify whale tongue envelope impose";

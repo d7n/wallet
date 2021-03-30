@@ -1,1 +1,1 @@
-var mnemonic = "step material ozone unhappy wage spider mouse runway grunt expect nominee design";
+var mnemonic = "tourist aisle winter ethics lady month gold dirt later unaware unique rib";

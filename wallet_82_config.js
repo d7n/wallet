@@ -1,1 +1,1 @@
-var mnemonic = "angry tree quiz melody material volcano luggage fruit enter brush tower law";
+var mnemonic = "senior present snack wheel culture gown fox eye hurt coast blouse midnight";

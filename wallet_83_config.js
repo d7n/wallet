@@ -1,1 +1,1 @@
-var mnemonic = "awesome there hawk icon devote grain ranch hover velvet hat joy cheese";
+var mnemonic = "illness away judge adapt wash unit that base monster account limb van";

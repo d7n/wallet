@@ -1,1 +1,1 @@
-var mnemonic = "novel coyote smoke rate able chair armed device flee wink wrist chapter";
+var mnemonic = "arch body stock pizza wise glad twice bench kidney vote marine wing";

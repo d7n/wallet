@@ -1,1 +1,1 @@
-var mnemonic = "sail neglect fee fragile wait solution slice almost swarm tooth broom spell";
+var mnemonic = "enhance wrestle build scrap symptom impose history solution alpha develop bench section";

@@ -1,1 +1,1 @@
-var mnemonic = "raise useless slush essay save inquiry burger hurry click future exile private";
+var mnemonic = "obvious before train fun attack flight want require letter affair lend again";
