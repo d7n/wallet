@@ -1,1 +1,1 @@
-var mnemonic = "movie track ritual vacant hub breeze clean lab slim cabin flower proof";
+var mnemonic = "prosper net waste brand pigeon chalk police west ketchup fragile measure accident";

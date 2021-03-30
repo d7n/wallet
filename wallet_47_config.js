@@ -1,1 +1,1 @@
-var mnemonic = "phrase drink erode vendor push joke snow transfer twice payment kitchen push";
+var mnemonic = "void thunder parade mask save dismiss flip sketch boy test digital setup";

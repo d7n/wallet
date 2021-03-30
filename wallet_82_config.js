@@ -1,1 +1,1 @@
-var mnemonic = "address reward carry super change twist muffin also nothing coconut essence solar";
+var mnemonic = "demand fruit leave subway film recall series dinner bring right excite wet";

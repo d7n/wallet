@@ -1,1 +1,1 @@
-var mnemonic = "enjoy vendor attitude ensure violin acoustic swift mail there kitten screen control";
+var mnemonic = "brisk item brother shoulder million jar novel minimum hurdle table oak risk";

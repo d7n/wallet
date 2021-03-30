@@ -1,1 +1,1 @@
-var mnemonic = "little tobacco try air error tool fade dance inmate pill lonely fee";
+var mnemonic = "opinion wave trumpet select spring foam monster hurry capital ride ride thunder";

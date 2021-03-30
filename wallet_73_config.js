@@ -1,1 +1,1 @@
-var mnemonic = "wolf firm expose weird health ancient able unveil garage shove kidney song";
+var mnemonic = "make link merit tragic blush angle today camp barrel deputy fever town";

@@ -1,1 +1,1 @@
-var mnemonic = "coast dish trash arm rabbit loan develop mom smile round tooth possible";
+var mnemonic = "scrap sun destroy same critic faint produce oyster property flat warfare denial";

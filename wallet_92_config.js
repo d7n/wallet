@@ -1,1 +1,1 @@
-var mnemonic = "muscle certain resist asset tell naive away intact genius solar dignity fruit";
+var mnemonic = "into trial eternal enforce print mosquito enforce survey balance wrist employ maze";

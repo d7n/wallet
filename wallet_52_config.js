@@ -1,1 +1,1 @@
-var mnemonic = "priority opera topple work unveil must hospital month emerge treat flee cave";
+var mnemonic = "habit try spot sunset caught fever giraffe second season evidence gallery explain";

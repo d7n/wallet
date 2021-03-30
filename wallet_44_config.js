@@ -1,1 +1,1 @@
-var mnemonic = "bulb cradle around jungle blind burden image seek appear radio melody age";
+var mnemonic = "improve gesture decrease faculty section where chat small oval tray spirit install";

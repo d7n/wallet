@@ -1,1 +1,1 @@
-var mnemonic = "car math end raccoon panic tuna slot dignity wedding fly mix during";
+var mnemonic = "emotion acid essay media razor clinic luxury shrimp link industry buzz great";

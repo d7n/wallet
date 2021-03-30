@@ -1,1 +1,1 @@
-var mnemonic = "gym obvious praise achieve aisle worth endorse time dash entry sudden hidden";
+var mnemonic = "wire float acquire hurry balcony ship bomb middle retreat brave creek bulb";

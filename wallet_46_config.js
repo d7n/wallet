@@ -1,1 +1,1 @@
-var mnemonic = "indicate occur steel jungle pattern wheat cute basic lemon demise aspect velvet";
+var mnemonic = "deposit wet fame express arch deer artefact solve version session raven figure";

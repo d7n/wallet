@@ -1,1 +1,1 @@
-var mnemonic = "praise twice ladder timber various kitten usage hour honey pet assist hammer";
+var mnemonic = "remain dentist advice dog device rookie alone reflect photo number oak client";

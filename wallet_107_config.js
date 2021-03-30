@@ -1,1 +1,1 @@
-var mnemonic = "blame shrimp boost sunset sadness husband come utility pumpkin miss coyote market";
+var mnemonic = "runway margin scale engage defense neutral faculty identify moral embody divide axis";

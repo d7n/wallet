@@ -1,1 +1,1 @@
-var mnemonic = "business arrest enhance sweet orient small more bridge pencil trim climb mad";
+var mnemonic = "casino double sail other square alarm stone stairs spoil unaware accuse appear";

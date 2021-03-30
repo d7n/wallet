@@ -1,1 +1,1 @@
-var mnemonic = "shallow client warrior ignore scrap hawk lyrics crowd yellow square firm person";
+var mnemonic = "lawn click short private found place symbol deny cream wheat gadget head";

@@ -1,1 +1,1 @@
-var mnemonic = "royal wink peace desert poet chef estate shock game movie ridge obey";
+var mnemonic = "tired digital drama solution feed resist outdoor royal view combine rigid remain";

@@ -1,1 +1,1 @@
-var mnemonic = "music front settle document special better afraid cash miracle vivid frost model";
+var mnemonic = "key educate hair spy reason slush kid leaf stick lava awake key";

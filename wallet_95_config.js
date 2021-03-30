@@ -1,1 +1,1 @@
-var mnemonic = "kid alone siren feature mass monster defy very inch pact region person";
+var mnemonic = "album inject doll group cricket frog daughter shift blouse fish grass east";

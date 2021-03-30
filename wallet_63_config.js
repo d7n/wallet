@@ -1,1 +1,1 @@
-var mnemonic = "rhythm nice series index power pledge tunnel nice define year rule misery";
+var mnemonic = "celery goat buyer remind consider render top slow clog daughter belt whisper";

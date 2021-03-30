@@ -1,1 +1,1 @@
-var mnemonic = "inhale spike woman misery video exile parade evidence treat kangaroo total misery";
+var mnemonic = "relax place people stamp garment lazy armed potato either leaf find occur";

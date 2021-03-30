@@ -1,1 +1,1 @@
-var mnemonic = "father abstract citizen fossil suspect skull agent flip rate betray give firm";
+var mnemonic = "robot rifle easy prefer october between claw erosion edge elbow glow approve";

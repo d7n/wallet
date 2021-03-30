@@ -1,1 +1,1 @@
-var mnemonic = "destroy sort tackle outer adjust symbol ability item toe erode love chase";
+var mnemonic = "earth address neither ripple energy south run solve lift present uniform argue";

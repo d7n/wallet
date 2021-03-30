@@ -1,1 +1,1 @@
-var mnemonic = "patient combine decorate remove argue month decade outdoor embody shoe tomorrow castle";
+var mnemonic = "snap front above learn grunt clock diesel knife grain vibrant body subject";

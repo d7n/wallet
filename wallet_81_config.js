@@ -1,1 +1,1 @@
-var mnemonic = "speed finger avoid wine happy bird help advance ticket trim humor humor";
+var mnemonic = "various scan vacuum wrong ivory bind sport damage pelican air will pattern";

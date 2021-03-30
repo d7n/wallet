@@ -1,1 +1,1 @@
-var mnemonic = "farm vacant must essay bundle worry assume uncle cook visit armed number";
+var mnemonic = "diary grant bar grass hour sniff strike panel reopen calm fetch foil";

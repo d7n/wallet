@@ -1,1 +1,1 @@
-var mnemonic = "sudden pride discover soul hope tag speak boring exchange buffalo fury avocado";
+var mnemonic = "supreme refuse select jealous dignity attack profit tonight simple anger screen ability";

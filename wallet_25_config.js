@@ -1,1 +1,1 @@
-var mnemonic = "banana little cancel evidence flame pencil cradle fortune taxi measure drift skin";
+var mnemonic = "mango impulse creek honey venue client day car car woman sample boy";

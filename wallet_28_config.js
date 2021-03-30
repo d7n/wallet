@@ -1,1 +1,1 @@
-var mnemonic = "teach gap document burden bike income sphere spirit select define cheese various";
+var mnemonic = "pet horror bless combine miracle wasp error half urge inhale burden huge";

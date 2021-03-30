@@ -1,1 +1,1 @@
-var mnemonic = "regular excess seat panic desert fatal erosion ask arrest kite maze large";
+var mnemonic = "differ speak tip spider frost dinner grab sell pen typical cruise spin";

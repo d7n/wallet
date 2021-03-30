@@ -1,1 +1,1 @@
-var mnemonic = "rice sibling couch element clip win use useless senior budget peace another";
+var mnemonic = "casual edge bone ski process pumpkin spray recipe satisfy deal flee any";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm erode stick arm churn dose prison eyebrow true kit doll glad";
+var mnemonic = "rich cradle rare random dry chest cement alert cherry visit jar humor";

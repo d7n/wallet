@@ -1,1 +1,1 @@
-var mnemonic = "slim morning unique clerk dove symptom viable thunder coach thank tackle noise";
+var mnemonic = "evidence library wrap basket sand arch shoulder regular parade thrive worth library";

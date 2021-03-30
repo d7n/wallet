@@ -1,1 +1,1 @@
-var mnemonic = "near nurse early forum van increase upset typical cousin please soap nature";
+var mnemonic = "pig erupt rent festival trap file motor front fish hybrid name task";

@@ -1,1 +1,1 @@
-var mnemonic = "radar citizen state pigeon inject truly agree crime artefact flip venture water";
+var mnemonic = "lend stock copper cactus finish cluster wrong print fire kitchen where arm";

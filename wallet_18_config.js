@@ -1,1 +1,1 @@
-var mnemonic = "coin century click ice bacon flash head trick liquid team burger disagree";
+var mnemonic = "unable mammal fade sing nation quote flavor love because result will stomach";

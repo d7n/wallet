@@ -1,1 +1,1 @@
-var mnemonic = "conduct lake salad unusual march page orbit odor carry prepare tomorrow winter";
+var mnemonic = "receive subway fence evoke reunion wave fun noise iron utility spoil rib";

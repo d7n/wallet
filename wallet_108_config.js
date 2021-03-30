@@ -1,1 +1,1 @@
-var mnemonic = "box rapid keep wrestle pilot ozone fragile broom ostrich cross legal tuition";
+var mnemonic = "odor furnace method cost hollow ability dad crouch lend sunset copper name";

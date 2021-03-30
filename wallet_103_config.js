@@ -1,1 +1,1 @@
-var mnemonic = "gloom hello play green long patch hard twelve bacon arrive hawk eternal";
+var mnemonic = "purpose ceiling sudden input tired random idle true powder spoil obey update";

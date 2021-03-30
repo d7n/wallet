@@ -1,1 +1,1 @@
-var mnemonic = "remove rookie inch dice release cart display cave debris husband brother sudden";
+var mnemonic = "start cake random follow rubber multiply hurry quit bag quick taxi vivid";

@@ -1,1 +1,1 @@
-var mnemonic = "will novel cupboard sword scene vast elevator picture liar bring cinnamon cereal";
+var mnemonic = "brother canal stage reduce suggest loyal offer pumpkin announce couple stem twelve";

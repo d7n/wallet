@@ -1,1 +1,1 @@
-var mnemonic = "shadow cannon fury address relax symbol spatial slender false lumber person orange";
+var mnemonic = "fruit possible fun amazing cake electric load entry risk lazy wild craft";

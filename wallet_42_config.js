@@ -1,1 +1,1 @@
-var mnemonic = "auction bunker key tape half blossom peasant found mixed arch awake hub";
+var mnemonic = "salad intact genre merry cycle series review happy board fame heavy release";

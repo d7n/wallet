@@ -1,1 +1,1 @@
-var mnemonic = "island work damp want cube model vintage auto stay behind gun boil";
+var mnemonic = "advance give divide mystery demise require doll blast interest elephant decade bar";

@@ -1,1 +1,1 @@
-var mnemonic = "basic drastic brother drift hub skate patrol olympic story disagree need fuel";
+var mnemonic = "fog tortoise sport rather jazz zone brief flock apple wash egg pond";

@@ -1,1 +1,1 @@
-var mnemonic = "before chaos record tragic pioneer peasant dad turn narrow average axis exercise";
+var mnemonic = "potato observe farm mango analyst excess web drill path dish wise enact";

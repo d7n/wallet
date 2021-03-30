@@ -1,1 +1,1 @@
-var mnemonic = "patient velvet refuse enlist rival word almost dinner invest husband index warm";
+var mnemonic = "owner color across faculty about warrior glow endorse sauce run movie rifle";

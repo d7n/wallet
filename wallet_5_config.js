@@ -1,1 +1,1 @@
-var mnemonic = "know potato cabin crater liquid bag shrimp crane yellow barely release need";
+var mnemonic = "scan few size path move divert squirrel busy wealth animal install pepper";

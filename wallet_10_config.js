@@ -1,1 +1,1 @@
-var mnemonic = "regular reveal together shove connect build distance meadow auto hospital move surprise";
+var mnemonic = "drift fringe brush fine betray test gesture lunar swallow palace olive fruit";

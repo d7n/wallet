@@ -1,1 +1,1 @@
-var mnemonic = "march one coffee ice come behind best short juice volcano horn tiny";
+var mnemonic = "rhythm trial segment order naive inhale junk mutual bid artist boil still";

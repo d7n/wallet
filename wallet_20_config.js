@@ -1,1 +1,1 @@
-var mnemonic = "obey witness off slogan lamp sun survey oppose just moon envelope merry";
+var mnemonic = "bachelor level verb flight attitude false cry nasty saddle sustain ill chronic";

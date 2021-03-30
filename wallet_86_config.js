@@ -1,1 +1,1 @@
-var mnemonic = "doctor dog side green already digital inmate regular law green basic gospel";
+var mnemonic = "rude green uphold trap family sight apart huge course lava typical inherit";

@@ -1,1 +1,1 @@
-var mnemonic = "orient total rather fiscal liar cheap demise tribe ghost train lumber blast";
+var mnemonic = "taxi people have glide call alien vanish nest unit orient minor stage";

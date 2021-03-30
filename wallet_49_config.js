@@ -1,1 +1,1 @@
-var mnemonic = "crane hip shaft awkward wide option gauge call record beauty toy proud";
+var mnemonic = "desk lift vehicle main gas romance lens access craft violin craft resemble";

@@ -1,1 +1,1 @@
-var mnemonic = "market bar direct shrimp expose prevent access actual doll holiday teach ability";
+var mnemonic = "radar weather scatter two hotel able evolve network whip remind flock first";

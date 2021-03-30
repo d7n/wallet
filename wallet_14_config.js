@@ -1,1 +1,1 @@
-var mnemonic = "jelly athlete garden tone coyote shield coach melt curtain crystal blast unlock";
+var mnemonic = "creek legend clip exotic drum dumb elevator riot term swap extra insane";

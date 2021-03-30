@@ -1,1 +1,1 @@
-var mnemonic = "foam theme lake wrong identify whip call worry often fury crash clump";
+var mnemonic = "alter ability index guess virus evidence engine critic tumble what front rural";

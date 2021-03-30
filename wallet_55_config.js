@@ -1,1 +1,1 @@
-var mnemonic = "magic bean indicate token author fold price surge garbage tooth mandate above";
+var mnemonic = "olympic text suit glance fever burst change trim tired husband mail spoil";

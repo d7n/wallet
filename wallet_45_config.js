@@ -1,1 +1,1 @@
-var mnemonic = "guess fall viable genre noble below shoe album final feed document logic";
+var mnemonic = "dignity legal canoe choose piece hover cluster impact skill live sugar vibrant";

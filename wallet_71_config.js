@@ -1,1 +1,1 @@
-var mnemonic = "rhythm novel smile secret bus album enrich chat grape open lunch toddler";
+var mnemonic = "double mistake swear follow impose curve middle act deposit dirt crack phone";

@@ -1,1 +1,1 @@
-var mnemonic = "oven tenant album horror group size head exercise brisk eager below asset";
+var mnemonic = "blouse life another album cactus soup bronze pizza surround rug behind rally";

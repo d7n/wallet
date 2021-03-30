@@ -1,1 +1,1 @@
-var mnemonic = "victory asthma film ketchup board absurd ramp exclude rain devote pyramid nothing";
+var mnemonic = "sadness wedding wild shaft relief throw tiger buffalo voice scale hip sting";

@@ -1,1 +1,1 @@
-var mnemonic = "real depend decide leg donate diagram portion dutch kit teach royal spread";
+var mnemonic = "shy easy cute banana indicate cat city much erode snow lounge copper";

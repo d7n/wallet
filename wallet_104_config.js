@@ -1,1 +1,1 @@
-var mnemonic = "critic erosion fork juice tissue bachelor flock exhaust small radio lobster owner";
+var mnemonic = "bike walk purpose decide accuse base success ecology vague knee caught cost";

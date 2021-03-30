@@ -1,1 +1,1 @@
-var mnemonic = "sniff clog exist army unhappy climb peanut hybrid keep guess cook island";
+var mnemonic = "bullet syrup pizza tragic novel cement panther style correct brand midnight style";

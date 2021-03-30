@@ -1,1 +1,1 @@
-var mnemonic = "brother couch spatial agent feel camp decide defense word crash pear vessel";
+var mnemonic = "blood shop subway margin suffer panic sheriff domain coin produce potato dish";

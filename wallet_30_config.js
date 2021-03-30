@@ -1,1 +1,1 @@
-var mnemonic = "hip twenty surface tennis echo beyond grain sustain ask monster hurdle aisle";
+var mnemonic = "flavor affair wine false style oppose file object climb pelican shove advance";

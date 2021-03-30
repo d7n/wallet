@@ -1,1 +1,1 @@
-var mnemonic = "initial age pottery exhibit pluck there concert clutch twist blame series host";
+var mnemonic = "spice camera hedgehog receive measure prize spell turkey average wisdom unfair decorate";

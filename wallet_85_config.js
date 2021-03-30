@@ -1,1 +1,1 @@
-var mnemonic = "casual awesome stove faculty luxury inside inspire suspect current mask chalk plug";
+var mnemonic = "wink again under coyote today van describe sorry print enemy giggle clip";

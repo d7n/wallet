@@ -1,1 +1,1 @@
-var mnemonic = "crunch filter impact spatial rural senior abandon where waste exercise since tourist";
+var mnemonic = "huge keen crouch know rare mask damage boat blade board noble idea";

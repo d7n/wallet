@@ -1,1 +1,1 @@
-var mnemonic = "arrest aunt bullet blouse cabbage crazy chat suspect document alone scrap father";
+var mnemonic = "forest ancient announce quit suggest wine tissue until void dilemma gravity alpha";

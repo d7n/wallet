@@ -1,1 +1,1 @@
-var mnemonic = "upgrade sample need treat donate sunny gym input drum assume pause volcano";
+var mnemonic = "thing drive cool harsh afraid venture demise canoe wave swarm desert recipe";

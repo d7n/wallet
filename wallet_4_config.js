@@ -1,1 +1,1 @@
-var mnemonic = "grant case zebra century oval speed page taste violin about vault curve";
+var mnemonic = "risk ripple still state strategy sister trophy border girl tube decide buyer";

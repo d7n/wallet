@@ -1,1 +1,1 @@
-var mnemonic = "common fever man merry sign make cake naive nasty denial face citizen";
+var mnemonic = "video inner pattern scout double night ankle deal salmon coil expect sport";

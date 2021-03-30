@@ -1,1 +1,1 @@
-var mnemonic = "spike chronic depth melt inhale insect bronze glide roast actual trip glimpse";
+var mnemonic = "skin morning team creek side order announce jewel elder sheriff transfer idea";

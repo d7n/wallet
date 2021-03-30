@@ -1,1 +1,1 @@
-var mnemonic = "marble genius curtain cupboard any buddy type train thank man all eager";
+var mnemonic = "clinic clay raw scheme cabbage fine evolve pipe always zero soda maple";

@@ -1,1 +1,1 @@
-var mnemonic = "gentle picture pulp lab athlete invest head scorpion elephant equal video little";
+var mnemonic = "equal custom attend depend custom approve unit burst noodle option solid night";

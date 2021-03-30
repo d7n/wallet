@@ -1,1 +1,1 @@
-var mnemonic = "bitter clump mimic gaze cotton exhibit minute leopard worry shop electric spray";
+var mnemonic = "charge exhaust viable fiber coil crash matrix fun lens wear volume fox";

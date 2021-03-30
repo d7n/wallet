@@ -1,1 +1,1 @@
-var mnemonic = "jelly lobster velvet battle rice path scorpion mistake cattle vicious emerge walk";
+var mnemonic = "grow grain club bachelor baby danger weather large able another city tool";

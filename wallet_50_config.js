@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur fix lizard essay repair turkey material alert task similar cute almost";
+var mnemonic = "decorate throw fruit aware settle chapter swamp corn future obtain glide hold";

@@ -1,1 +1,1 @@
-var mnemonic = "venue lucky yard draw refuse energy stick suggest belt truth profit flag";
+var mnemonic = "viable prepare chapter valley drive warm merry catalog true exact submit exit";

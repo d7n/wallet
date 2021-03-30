@@ -1,1 +1,1 @@
-var mnemonic = "truly reject scare ignore depend spy girl lion boss monitor fit search";
+var mnemonic = "give paddle wine dream traffic funny expose barrel gallery genius artist put";

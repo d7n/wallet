@@ -1,1 +1,1 @@
-var mnemonic = "gym pave trust goat snake private update peace master turn october mixed";
+var mnemonic = "youth vague fog brush guitar near chimney cherry large tragic ketchup awake";

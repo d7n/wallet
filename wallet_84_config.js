@@ -1,1 +1,1 @@
-var mnemonic = "debate regret water buffalo protect stay scene grow trigger radar black art";
+var mnemonic = "erode across prosper focus paddle blame oval shrimp embark black spatial egg";

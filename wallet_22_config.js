@@ -1,1 +1,1 @@
-var mnemonic = "dizzy prosper bone cloth century shine arctic frozen hammer ramp guard river";
+var mnemonic = "tape what dignity diary kite rally awesome duck divorce auction pool height";

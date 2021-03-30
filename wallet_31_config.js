@@ -1,1 +1,1 @@
-var mnemonic = "arrest please jelly antenna deputy credit box trigger virtual run gadget olympic";
+var mnemonic = "perfect attend affair afraid around physical rose puppy spread inmate badge cradle";

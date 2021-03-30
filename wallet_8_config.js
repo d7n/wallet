@@ -1,1 +1,1 @@
-var mnemonic = "apology juice demand twice iron gun beauty miracle giraffe venture display traffic";
+var mnemonic = "giggle fiber head sphere park glove exercise space setup parade spread coast";

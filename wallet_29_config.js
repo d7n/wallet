@@ -1,1 +1,1 @@
-var mnemonic = "nation eager foot tuition ahead dress emotion beef robust pilot cereal hazard";
+var mnemonic = "rival share amateur glow defy margin foam text curious remember ladder eager";
