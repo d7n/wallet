@@ -1,1 +1,1 @@
-var mnemonic = "rule pluck fantasy check adjust agree chicken senior pepper wool person rent";
+var mnemonic = "donate cupboard law scene timber between two play door foster turtle record";

@@ -1,1 +1,1 @@
-var mnemonic = "clarify soda night video wonder fire economy gadget crush virtual wheel world";
+var mnemonic = "erosion dream end road panda fatigue enact library hat never grant base";

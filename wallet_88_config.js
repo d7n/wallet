@@ -1,1 +1,1 @@
-var mnemonic = "object crumble result shaft memory artist seat spot what music frozen again";
+var mnemonic = "egg risk train beauty grain expect ginger virus never window cycle behave";

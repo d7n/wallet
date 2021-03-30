@@ -1,1 +1,1 @@
-var mnemonic = "chimney wine loop race omit marble theme tail nest resource gain rib";
+var mnemonic = "walnut beach spike squeeze town pig alarm safe trap power awake silent";

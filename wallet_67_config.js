@@ -1,1 +1,1 @@
-var mnemonic = "vendor recycle write example spoon suggest club orient truth survey exile boat";
+var mnemonic = "business range wasp elephant trick find empower clarify skin youth measure camera";

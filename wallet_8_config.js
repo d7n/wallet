@@ -1,1 +1,1 @@
-var mnemonic = "pelican leave target wood hazard exist concert worth traffic catch bracket boring";
+var mnemonic = "divert human taste orchard actress alert purpose enhance depart base area color";

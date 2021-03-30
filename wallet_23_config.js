@@ -1,1 +1,1 @@
-var mnemonic = "assist worry toy rubber indoor raven around culture exhaust sleep elephant nature";
+var mnemonic = "zone autumn route rotate bottom cattle gentle rice good deputy report menu";

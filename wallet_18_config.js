@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon badge cement salon phrase proud distance protect avocado jungle entire electric";
+var mnemonic = "remind dizzy around push dignity custom squirrel opinion hedgehog equip rough wrestle";

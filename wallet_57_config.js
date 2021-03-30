@@ -1,1 +1,1 @@
-var mnemonic = "advice barely fame august deposit gadget magic plug fish prevent amount wife";
+var mnemonic = "sense earth keep muscle inspire tackle casual boost help domain buffalo transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "useful fiber race major neither lamp captain follow exhaust fabric rival blind";
+var mnemonic = "degree portion diamond episode quarter reopen cushion flavor attitude pond discover other";

@@ -1,1 +1,1 @@
-var mnemonic = "today body diagram buddy success matrix camp awful wood drum buyer rigid";
+var mnemonic = "excess erase drill liquid remain resemble combine village income portion differ outer";

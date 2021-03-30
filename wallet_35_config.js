@@ -1,1 +1,1 @@
-var mnemonic = "language fire skate finger end face emotion ecology coin pluck box project";
+var mnemonic = "uniform tide lift imitate suffer eagle tail put measure pepper city lazy";

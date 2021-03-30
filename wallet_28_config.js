@@ -1,1 +1,1 @@
-var mnemonic = "frozen east review nut coyote lock west nasty hole acoustic mystery pottery";
+var mnemonic = "release response squirrel ankle price problem virus bronze resist believe gap muscle";

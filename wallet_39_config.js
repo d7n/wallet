@@ -1,1 +1,1 @@
-var mnemonic = "dirt diary celery combine cushion eight sail proud frozen alley shallow wage";
+var mnemonic = "acid report betray tired toe razor glimpse moral fiscal steak convince violin";

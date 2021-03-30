@@ -1,1 +1,1 @@
-var mnemonic = "other session lunch guess all nephew differ absent retreat cave pull torch";
+var mnemonic = "cost hen squeeze door spray reform early surround sample identify bundle run";

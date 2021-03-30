@@ -1,1 +1,1 @@
-var mnemonic = "winner evoke online snow dawn large foster alpha icon regular panther open";
+var mnemonic = "leisure era menu atom toy vague harbor goose virus banana project empty";

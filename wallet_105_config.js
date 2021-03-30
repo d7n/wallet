@@ -1,1 +1,1 @@
-var mnemonic = "dilemma play exact dice split what lesson soul okay priority about mansion";
+var mnemonic = "panel exclude barrel famous lava you save world music under end hero";

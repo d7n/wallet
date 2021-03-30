@@ -1,1 +1,1 @@
-var mnemonic = "enemy glove glory rail tower boat list glide gather usual corn gate";
+var mnemonic = "weekend wood crew trophy stuff nothing punch example robust neutral member okay";

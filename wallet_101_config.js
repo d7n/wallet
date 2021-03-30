@@ -1,1 +1,1 @@
-var mnemonic = "purchase fame tunnel share off upset simple icon manual rotate luxury glare";
+var mnemonic = "vendor camp main rice drum cancel sadness weapon cry mandate index like";

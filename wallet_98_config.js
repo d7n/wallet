@@ -1,1 +1,1 @@
-var mnemonic = "main exile brown pupil biology pig organ brief mule have language duck";
+var mnemonic = "polar skill seed consider exhaust obvious unknown repair neck usual hobby dry";

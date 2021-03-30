@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit cake survey science obvious vacuum snap stick power matter left destroy";
+var mnemonic = "latin soft element cable bleak annual pepper wash roast lumber train dutch";

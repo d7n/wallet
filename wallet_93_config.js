@@ -1,1 +1,1 @@
-var mnemonic = "reveal dry network zebra mechanic infant swim once poverty powder rain collect";
+var mnemonic = "verb word reward atom minute diagram hidden zone arrive over solve happy";

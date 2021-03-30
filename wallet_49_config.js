@@ -1,1 +1,1 @@
-var mnemonic = "speak sauce slow chair sick eye secret bargain penalty matter great pulp";
+var mnemonic = "wonder where abstract resist sauce kid bird wave artefact market verify evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "book unlock elephant banana buzz basket head word spirit into crop alpha";
+var mnemonic = "warfare remember limb shed lawsuit frozen during sudden couple stove canal monitor";

@@ -1,1 +1,1 @@
-var mnemonic = "truck battle wine require wish cram inquiry earn cute chuckle permit bracket";
+var mnemonic = "join crumble nurse glad moment lady funny congress rice vanish thrive vendor";

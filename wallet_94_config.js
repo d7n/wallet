@@ -1,1 +1,1 @@
-var mnemonic = "lens west isolate goddess endorse fox false balcony little copy extend cannon";
+var mnemonic = "thumb tunnel extra planet cement admit under eyebrow beauty vast security unfold";

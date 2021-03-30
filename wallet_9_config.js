@@ -1,1 +1,1 @@
-var mnemonic = "sort trash exist casino any version resist model rapid collect moment slam";
+var mnemonic = "gold rose game auction avoid injury essence middle idea someone heavy just";

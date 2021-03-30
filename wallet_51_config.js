@@ -1,1 +1,1 @@
-var mnemonic = "shoot essence ten mirror flavor swift excite december mesh crush shove erode";
+var mnemonic = "under fluid lemon fringe reject cigar return vendor hospital mesh wrong shallow";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace author salute embark panel middle affair sing goddess ostrich cool mosquito";
+var mnemonic = "opinion recipe quantum table transfer win earn loyal eager surge turtle bid";

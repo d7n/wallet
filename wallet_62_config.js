@@ -1,1 +1,1 @@
-var mnemonic = "town case visa indoor collect dignity nature oak super still glue left";
+var mnemonic = "found gap smart damp entire scout conduct bundle hobby exile brick popular";

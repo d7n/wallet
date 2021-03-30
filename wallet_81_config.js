@@ -1,1 +1,1 @@
-var mnemonic = "quiz grow art put chimney salad capable arrange smooth wheat march certain";
+var mnemonic = "camera judge they juice stick nuclear syrup infant grocery sport pistol hurry";

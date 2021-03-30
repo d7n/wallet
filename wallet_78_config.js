@@ -1,1 +1,1 @@
-var mnemonic = "maid repeat tobacco season health visa tide olympic arrest age renew document";
+var mnemonic = "canyon cake lift trigger other grunt remind genre cabin apart execute legend";

@@ -1,1 +1,1 @@
-var mnemonic = "eight banner exact mimic curve genuine museum clap pilot place reflect junk";
+var mnemonic = "mango foam gasp luxury quick crumble phrase isolate love join shift lazy";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest task vibrant recycle seek kidney uphold coconut address can predict crash";
+var mnemonic = "palace vehicle film shed market same arena artist acid fit tuition pudding";

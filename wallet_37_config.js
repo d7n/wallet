@@ -1,1 +1,1 @@
-var mnemonic = "slot poet news buyer bag ship foster speed dumb adjust vendor clutch";
+var mnemonic = "object choose orange there total travel address basket final spike rifle hungry";

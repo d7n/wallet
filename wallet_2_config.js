@@ -1,1 +1,1 @@
-var mnemonic = "brain proud rule color display world lava mouse quit neutral camp sense";
+var mnemonic = "ski nothing globe avoid jump earn you ensure lecture spirit display faculty";

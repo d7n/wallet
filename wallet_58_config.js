@@ -1,1 +1,1 @@
-var mnemonic = "toast ask limit fetch hire sun seminar boss breeze glimpse tomorrow gain";
+var mnemonic = "play planet before sibling nut swamp file actress sister tennis clay toward";

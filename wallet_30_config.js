@@ -1,1 +1,1 @@
-var mnemonic = "loud marble stool agree someone wash tourist bamboo radar stumble brand crop";
+var mnemonic = "cargo forest this puppy there paddle song peasant crystal timber response credit";

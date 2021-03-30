@@ -1,1 +1,1 @@
-var mnemonic = "pioneer exhaust senior sheriff review bus cram list solve tennis again quantum";
+var mnemonic = "stumble web elbow trend zoo dinner truth tissue coyote require turkey flight";

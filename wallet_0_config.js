@@ -1,1 +1,1 @@
-var mnemonic = "exit arrange flat tail lawn aerobic warrior video worth crop object peace";
+var mnemonic = "curious bundle adjust shy layer actor arrest bounce drama survey pigeon enlist";

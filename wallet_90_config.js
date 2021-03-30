@@ -1,1 +1,1 @@
-var mnemonic = "infant false camera arena hip arctic tattoo only body estate stay add";
+var mnemonic = "impulse almost result early focus rose rebel share knee air holiday chair";

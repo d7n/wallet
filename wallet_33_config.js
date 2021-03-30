@@ -1,1 +1,1 @@
-var mnemonic = "gate stable hawk half hard decline sure try virtual tent attack group";
+var mnemonic = "federal above gentle danger isolate element mandate drive margin fuel diamond wrap";

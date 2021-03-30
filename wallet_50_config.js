@@ -1,1 +1,1 @@
-var mnemonic = "crunch razor rotate transfer melt wrist legal fee suit exotic setup payment";
+var mnemonic = "brown own cancel absorb snack sadness clever bid position fold tomato now";

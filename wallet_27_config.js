@@ -1,1 +1,1 @@
-var mnemonic = "swim neither what chronic drop habit donate attend cream street buzz build";
+var mnemonic = "quit scout valid electric bounce jump figure ugly club enjoy word grow";

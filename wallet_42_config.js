@@ -1,1 +1,1 @@
-var mnemonic = "raise team give edge march sleep boil wrestle bicycle spatial rice donor";
+var mnemonic = "fringe couple reject rural level winner stock eight subject dinner work play";

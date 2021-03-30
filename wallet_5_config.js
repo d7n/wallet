@@ -1,1 +1,1 @@
-var mnemonic = "course about length split method begin mixed valve harbor ketchup news cycle";
+var mnemonic = "often heart question diary quit trade room include wolf assist fall pool";

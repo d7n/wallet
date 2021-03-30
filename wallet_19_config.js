@@ -1,1 +1,1 @@
-var mnemonic = "slogan usage enable sponsor rapid token fury tackle merit drift sustain segment";
+var mnemonic = "element clever spin cage stock subject album maid width invite wonder season";

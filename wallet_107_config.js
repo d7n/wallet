@@ -1,1 +1,1 @@
-var mnemonic = "liar rare jewel brush dream aim also dynamic air blush when access";
+var mnemonic = "salon frown salon trophy settle awkward miss concert finish galaxy chunk wink";

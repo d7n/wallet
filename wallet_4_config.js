@@ -1,1 +1,1 @@
-var mnemonic = "cupboard auction bring clinic public assault layer special order spend cruise industry";
+var mnemonic = "moral hurt okay joke cabin gather brief myself draw garment permit fiction";

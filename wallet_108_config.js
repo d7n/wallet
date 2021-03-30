@@ -1,1 +1,1 @@
-var mnemonic = "quantum fence filter veteran thank mean buyer fever spot vintage ribbon confirm";
+var mnemonic = "example deny urban six zoo open file true insect energy only daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "faith coral birth corn jealous family clump metal flight into portion traffic";
+var mnemonic = "second leave brass cloth swim bridge armed eternal gorilla page current lecture";

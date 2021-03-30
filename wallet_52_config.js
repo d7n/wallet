@@ -1,1 +1,1 @@
-var mnemonic = "under trust hood test please sad oven alcohol mad skull column steak";
+var mnemonic = "wine disease flavor ceiling receive afraid occur enter cannon promote orchard carpet";

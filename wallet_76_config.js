@@ -1,1 +1,1 @@
-var mnemonic = "crunch wisdom tree expire below smart excite december certain symbol forum street";
+var mnemonic = "found first you baby mammal update slight fatal convince caution screen poet";

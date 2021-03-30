@@ -1,1 +1,1 @@
-var mnemonic = "fly diesel survey chest afraid immune collect dream hammer roast assault book";
+var mnemonic = "effort wife sock jaguar mobile provide nut virus crash ill saddle once";

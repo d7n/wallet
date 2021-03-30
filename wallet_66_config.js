@@ -1,1 +1,1 @@
-var mnemonic = "jelly short wear vote boss popular blue inner size rather physical august";
+var mnemonic = "win figure pattern diamond little sing rather number vibrant behave orange actress";

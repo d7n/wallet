@@ -1,1 +1,1 @@
-var mnemonic = "obtain usage evolve uncover insect time hurry property able orange prosper ketchup";
+var mnemonic = "small sunny pepper detect before current egg sphere despair seed swear chief";

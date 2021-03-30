@@ -1,1 +1,1 @@
-var mnemonic = "style inch tiny grow excess pig lion pole cruise repeat gather write";
+var mnemonic = "local direct trouble interest snake trade sea stuff include body winner strategy";

@@ -1,1 +1,1 @@
-var mnemonic = "unit consider you law evil gloom panther culture weasel endless clap success";
+var mnemonic = "use digital danger learn key candy hurt fatal agent priority legend fire";

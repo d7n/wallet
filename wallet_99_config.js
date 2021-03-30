@@ -1,1 +1,1 @@
-var mnemonic = "agent sibling identify name today mushroom inform chase claw mistake document sunset";
+var mnemonic = "fat art worry come actress drastic office raw hen fun mail mixture";

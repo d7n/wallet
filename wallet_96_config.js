@@ -1,1 +1,1 @@
-var mnemonic = "strike penalty fun kitten clerk comfort virtual earn staff wonder broom elegant";
+var mnemonic = "almost embark sleep pipe large metal rapid jaguar bottom luggage index present";

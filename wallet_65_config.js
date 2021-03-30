@@ -1,1 +1,1 @@
-var mnemonic = "moral badge helmet member social cabin scissors equal upper parent velvet trip";
+var mnemonic = "valid rabbit universe zero regret winter mouse assist blur tumble below gadget";

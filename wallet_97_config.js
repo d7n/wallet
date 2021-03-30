@@ -1,1 +1,1 @@
-var mnemonic = "such collect nest theme rack fantasy elbow assume wing situate tribe woman";
+var mnemonic = "hockey vendor mesh worry genius trip lab blind ride combine quantum tennis";

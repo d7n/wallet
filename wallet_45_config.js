@@ -1,1 +1,1 @@
-var mnemonic = "ship emotion grape peanut figure boat ugly math index edge voice elegant";
+var mnemonic = "wink actor belt judge alarm security lecture lemon inhale vault health accident";

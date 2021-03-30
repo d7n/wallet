@@ -1,1 +1,1 @@
-var mnemonic = "tenant escape trip wasp loan slide peasant gossip seven thought trick join";
+var mnemonic = "surprise mask fluid web fun usage van expose defy turtle hire absent";

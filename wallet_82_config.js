@@ -1,1 +1,1 @@
-var mnemonic = "island forum thunder fee cash coin shop dove umbrella require decade powder";
+var mnemonic = "sort oblige what motor warfare street traffic magnet stove meadow type circle";

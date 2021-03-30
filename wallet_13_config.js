@@ -1,1 +1,1 @@
-var mnemonic = "suggest hazard hungry people thought entire wisdom solve side betray hundred recycle";
+var mnemonic = "aware response above birth ginger jeans woman cat hospital shrug glance silly";

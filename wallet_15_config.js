@@ -1,1 +1,1 @@
-var mnemonic = "decide scorpion income warrior risk include man village heavy select assume all";
+var mnemonic = "harvest seed fog nice useless flight select alley fever confirm amount kangaroo";

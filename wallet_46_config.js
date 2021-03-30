@@ -1,1 +1,1 @@
-var mnemonic = "uncover soccer fork supply away answer action eager noise cry noise level";
+var mnemonic = "pitch know dash wet canvas letter economy sing accuse honey friend enrich";

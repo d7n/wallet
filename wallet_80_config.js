@@ -1,1 +1,1 @@
-var mnemonic = "crater vast energy wait want clinic recall mutual option torch valve surround";
+var mnemonic = "more rabbit inquiry fitness web dash cotton struggle three undo galaxy thank";

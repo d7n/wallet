@@ -1,1 +1,1 @@
-var mnemonic = "what bubble gorilla wedding toss risk daring torch own twist defy saddle";
+var mnemonic = "powder clarify defy solution feature weapon ring grab thing hurry lunch mother";

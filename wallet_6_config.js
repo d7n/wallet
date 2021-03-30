@@ -1,1 +1,1 @@
-var mnemonic = "stove skirt ancient soup possible absorb clerk diagram kidney ensure better tooth";
+var mnemonic = "index because cash harbor leader cherry venture hospital report hold doll shock";

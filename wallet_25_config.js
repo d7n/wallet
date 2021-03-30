@@ -1,1 +1,1 @@
-var mnemonic = "better mango pluck problem garage lawsuit winter pepper build suit anchor stand";
+var mnemonic = "olive nasty core brush erosion dignity bless impose secret endorse garden paper";

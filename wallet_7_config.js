@@ -1,1 +1,1 @@
-var mnemonic = "island family spirit regular food tongue fog pink forget control wink promote";
+var mnemonic = "embody liquid bread stomach input galaxy opinion derive aware best describe stumble";

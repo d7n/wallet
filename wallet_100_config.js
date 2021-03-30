@@ -1,1 +1,1 @@
-var mnemonic = "airport gravity novel laptop teach casual quantum oblige segment energy antique alley";
+var mnemonic = "tiger lobster service bulk upper female tortoise muscle shrug group broom tiny";

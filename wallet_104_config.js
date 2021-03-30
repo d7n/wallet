@@ -1,1 +1,1 @@
-var mnemonic = "kiwi business cute amateur begin figure crucial shoulder vehicle ocean bridge certain";
+var mnemonic = "blast wheat shoot escape decide chunk dust access fantasy okay book acquire";

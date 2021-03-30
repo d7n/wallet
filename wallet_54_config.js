@@ -1,1 +1,1 @@
-var mnemonic = "basic plunge crouch hundred eyebrow amount tragic ride key few lion fog";
+var mnemonic = "catch possible will weapon gloom uphold bottom hurry argue ten attitude aerobic";

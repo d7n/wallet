@@ -1,1 +1,1 @@
-var mnemonic = "shallow reopen unfair photo wonder road eight lion symbol tourist twin shuffle";
+var mnemonic = "bind retire walk cage space ski fiber helmet husband custom owner cigar";

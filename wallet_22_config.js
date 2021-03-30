@@ -1,1 +1,1 @@
-var mnemonic = "lab engine argue pizza humble boil frost only grass exercise affair replace";
+var mnemonic = "sand waste raven depth digital pepper arrest hamster crisp gasp cancel view";

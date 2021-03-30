@@ -1,1 +1,1 @@
-var mnemonic = "raccoon edge rival zone cheese come wild exile grunt brain civil danger";
+var mnemonic = "curve mountain scale add hungry radar setup saddle century icon mystery orange";

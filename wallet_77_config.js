@@ -1,1 +1,1 @@
-var mnemonic = "maple circle couch post congress else since second kite profit advice hill";
+var mnemonic = "curtain entire negative net found grief cherry select ability yard ramp lecture";

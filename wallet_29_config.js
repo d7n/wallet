@@ -1,1 +1,1 @@
-var mnemonic = "lake outdoor have report trip deputy hidden garment grant crime file gas";
+var mnemonic = "teach drift orient write indicate staff clown rely pistol pelican nephew local";

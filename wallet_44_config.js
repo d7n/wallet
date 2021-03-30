@@ -1,1 +1,1 @@
-var mnemonic = "script purse control pulp impulse stay gift retire observe kid still write";
+var mnemonic = "fall faith dumb verb film spray shop broken good there old ride";

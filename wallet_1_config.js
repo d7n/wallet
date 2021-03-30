@@ -1,1 +1,1 @@
-var mnemonic = "soft swamp bike moment ribbon outside cabin simple echo tomato wealth kingdom";
+var mnemonic = "caution tired type width kind morning faint wisdom edge limb survey critic";

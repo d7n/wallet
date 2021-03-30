@@ -1,1 +1,1 @@
-var mnemonic = "today flush song clown dune gospel hidden slender balance card dirt friend";
+var mnemonic = "right nest leave north east arrange wasp enforce phrase behave venue switch";

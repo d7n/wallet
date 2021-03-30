@@ -1,1 +1,1 @@
-var mnemonic = "obvious shine leopard ozone hard aisle drum cattle square unusual sadness canoe";
+var mnemonic = "bottom island gym copy expect arm ask fish summer join inhale laundry";

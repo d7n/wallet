@@ -1,1 +1,1 @@
-var mnemonic = "charge bus else argue give fiscal deposit idle crowd aerobic trouble steel";
+var mnemonic = "siren topic various chef fabric mean must cycle version isolate ribbon stomach";

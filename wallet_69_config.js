@@ -1,1 +1,1 @@
-var mnemonic = "dream winter post hurt again scout child sell cancel crawl mosquito riot";
+var mnemonic = "vacant december fetch enrich pond proud finger universe floor link pet amount";

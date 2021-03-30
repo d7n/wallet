@@ -1,1 +1,1 @@
-var mnemonic = "napkin tongue upper oblige pool tornado leader joke vocal half pizza truck";
+var mnemonic = "task report bomb approve crawl remember trim chapter poverty ecology duty remember";

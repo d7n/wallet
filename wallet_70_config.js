@@ -1,1 +1,1 @@
-var mnemonic = "scan shrug drum grace mixed spread nerve spare cheap bitter insect camp";
+var mnemonic = "trip genuine bless fatigue hour erode pyramid canoe verify milk yellow bag";

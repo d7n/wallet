@@ -1,1 +1,1 @@
-var mnemonic = "old govern burden discover round ability flame warfare yard tongue defy nephew";
+var mnemonic = "country clown hen net abstract napkin helmet syrup journey faith explain punch";

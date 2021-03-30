@@ -1,1 +1,1 @@
-var mnemonic = "spray embrace artwork flower usual possible fringe lecture short zebra zebra engage";
+var mnemonic = "oven knock gasp viable assault sound miss seek tunnel stone hold anxiety";

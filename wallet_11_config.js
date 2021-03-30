@@ -1,1 +1,1 @@
-var mnemonic = "fiction voyage angle income day resist rib never motion parade hazard rebuild";
+var mnemonic = "poet girl game ripple theory pave quit pattern silent alcohol author library";

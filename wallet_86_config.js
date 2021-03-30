@@ -1,1 +1,1 @@
-var mnemonic = "rookie deal wheel clip bronze pupil glance afford forget caution crash various";
+var mnemonic = "throw symbol behave decorate tonight mystery fresh tackle february chase damp taste";
