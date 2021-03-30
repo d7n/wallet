@@ -1,1 +1,1 @@
-var mnemonic = "cruise luggage merry quantum eagle rain regular glow avocado enact quarter forum";
+var mnemonic = "enrich diagram result coral finger gloom give salute neglect nation glue supply";

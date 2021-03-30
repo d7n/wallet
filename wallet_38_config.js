@@ -1,1 +1,1 @@
-var mnemonic = "equal love idea brown bubble code acquire craft infant era click select";
+var mnemonic = "spend dentist dignity review cushion bulb juice guide attitude ordinary demise knee";

@@ -1,1 +1,1 @@
-var mnemonic = "theory arena winner auto reduce south flame law during maze fee eye";
+var mnemonic = "bottom amused blast devote trash risk bounce bean fix define multiply raven";

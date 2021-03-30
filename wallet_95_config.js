@@ -1,1 +1,1 @@
-var mnemonic = "depth april game scatter alcohol voice deliver edit issue couch dizzy ensure";
+var mnemonic = "maple cheap spin three ripple breeze relax nephew vote purpose sting camera";

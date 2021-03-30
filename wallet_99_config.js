@@ -1,1 +1,1 @@
-var mnemonic = "amused release lobster impulse song mirror accuse stone magnet direct luxury primary";
+var mnemonic = "ivory tape toast chair pig fancy film client silk amazing sock diamond";

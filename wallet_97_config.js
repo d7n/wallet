@@ -1,1 +1,1 @@
-var mnemonic = "phone session purchase always black soldier ecology trash unhappy foot term damage";
+var mnemonic = "divert video eager tape length strong climb hard twice skate pledge repair";

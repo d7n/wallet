@@ -1,1 +1,1 @@
-var mnemonic = "monster film company basic ocean illegal absurd wedding glare wash era chat";
+var mnemonic = "negative quantum snow robust market swap saddle metal lake impact bag loyal";

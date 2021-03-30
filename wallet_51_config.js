@@ -1,1 +1,1 @@
-var mnemonic = "warfare obey siren install dash eternal kingdom critic weather august rare dismiss";
+var mnemonic = "cube same time enough limit flee lobster lucky flight best conduct clerk";

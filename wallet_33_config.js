@@ -1,1 +1,1 @@
-var mnemonic = "toss grow glow weather illegal impose unusual put visa sea regret galaxy";
+var mnemonic = "cave above pony wife sheriff exotic injury vendor deer weird deposit announce";

@@ -1,1 +1,1 @@
-var mnemonic = "caught fatal mask peasant obvious achieve tennis plug sadness mushroom glare envelope";
+var mnemonic = "cost nothing effort jump attitude ancient daring tonight card border wool book";

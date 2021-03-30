@@ -1,1 +1,1 @@
-var mnemonic = "lamp club drink suspect mixture brave apology lesson invite monster simple vintage";
+var mnemonic = "drill flight place spring grant close give inner quote journey pause cat";

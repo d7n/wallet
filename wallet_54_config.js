@@ -1,1 +1,1 @@
-var mnemonic = "snow lyrics access night retreat pattern emerge cable year dinosaur chief ribbon";
+var mnemonic = "stool raw magnet gloom smoke leisure icon ignore snack harsh sword lion";

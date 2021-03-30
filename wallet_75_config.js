@@ -1,1 +1,1 @@
-var mnemonic = "force cram gauge fix river relief dirt rent debate believe swing unaware";
+var mnemonic = "peace tip scrub public exhaust slam budget staff carbon genuine snap dinner";

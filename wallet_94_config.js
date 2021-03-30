@@ -1,1 +1,1 @@
-var mnemonic = "accuse attend club fatal unaware weird surface wise access note kind credit";
+var mnemonic = "beyond twice mom mixed memory entry arrest input essence remember velvet consider";

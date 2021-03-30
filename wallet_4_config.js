@@ -1,1 +1,1 @@
-var mnemonic = "virtual autumn view swing rifle apart globe toe visual feel rifle idea";
+var mnemonic = "learn keep quiz tell begin document quit chaos muffin post tumble uphold";

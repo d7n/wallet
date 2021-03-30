@@ -1,1 +1,1 @@
-var mnemonic = "turn junk jar length uniform funny merge sting jealous nuclear castle sunset";
+var mnemonic = "denial together object couple energy pilot speak right vivid chalk rhythm scan";

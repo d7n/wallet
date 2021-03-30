@@ -1,1 +1,1 @@
-var mnemonic = "sell allow mesh current rather burst warm penalty wise miss fruit rough";
+var mnemonic = "weapon output cram miracle error business shell brown bike mad reason milk";

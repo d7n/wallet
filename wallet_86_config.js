@@ -1,1 +1,1 @@
-var mnemonic = "setup attitude exchange thank pulp soup mystery melody absent salmon gallery brisk";
+var mnemonic = "budget mean weasel praise strong pistol expose fragile vacant betray clay traffic";

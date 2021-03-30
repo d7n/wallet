@@ -1,1 +1,1 @@
-var mnemonic = "dice flame artwork vast flash enjoy length night border during neglect horn";
+var mnemonic = "hockey bunker mystery vehicle grant lumber obscure leopard lazy team exclude torch";

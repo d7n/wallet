@@ -1,1 +1,1 @@
-var mnemonic = "gossip exclude gauge search indoor grass charge syrup nation barrel express leopard";
+var mnemonic = "funny manage marble energy monkey usage income awful fossil demise rib seed";

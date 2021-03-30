@@ -1,1 +1,1 @@
-var mnemonic = "spoon erode square calm token omit obscure digital person bamboo affair wall";
+var mnemonic = "clarify health ranch winner glory edit sun lion pet medal primary noise";

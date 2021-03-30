@@ -1,1 +1,1 @@
-var mnemonic = "oyster donkey skill clean annual firm believe silver result cherry return gospel";
+var mnemonic = "undo immense bar vital horse bone cage auto arrest lucky display leopard";

@@ -1,1 +1,1 @@
-var mnemonic = "clown latin atom access harbor equal talent capital december spin spike park";
+var mnemonic = "despair fringe silly spice mosquito denial cash frozen ice point exist lens";

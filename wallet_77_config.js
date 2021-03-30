@@ -1,1 +1,1 @@
-var mnemonic = "cement father tiny quarter comfort brave mystery field utility destroy tonight icon";
+var mnemonic = "toy always nose inhale crumble lecture hover unveil quick obey cycle inch";

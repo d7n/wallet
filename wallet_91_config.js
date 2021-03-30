@@ -1,1 +1,1 @@
-var mnemonic = "stereo solar symptom rate side engage tongue lazy excess they wing kitten";
+var mnemonic = "tube isolate journey west join tattoo depend tube left fancy dream calm";

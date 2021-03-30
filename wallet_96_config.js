@@ -1,1 +1,1 @@
-var mnemonic = "suggest chair hobby happy become access inflict time about fiction shadow game";
+var mnemonic = "powder world large kitchen enact interest unaware party park kiwi program burger";

@@ -1,1 +1,1 @@
-var mnemonic = "cake animal assume dry maximum poverty scrub poverty arrange inhale pledge stamp";
+var mnemonic = "dynamic jewel soap old ice link position safe case lend bird artist";

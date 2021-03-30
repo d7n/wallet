@@ -1,1 +1,1 @@
-var mnemonic = "drill defense sauce ivory erupt burger fringe action destroy ostrich have butter";
+var mnemonic = "issue thumb spawn dizzy powder access burger fury simple relief mean scorpion";

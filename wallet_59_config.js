@@ -1,1 +1,1 @@
-var mnemonic = "coil text side slow coil other rain knock behind canvas identify palace";
+var mnemonic = "disorder wear visa open occur nest defense worth lemon provide direct tuna";

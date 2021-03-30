@@ -1,1 +1,1 @@
-var mnemonic = "hope near release vanish verb elbow vanish horror plunge under recycle load";
+var mnemonic = "hammer betray remove acquire fiscal firm pluck cactus buffalo link draw kitchen";

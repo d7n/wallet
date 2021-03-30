@@ -1,1 +1,1 @@
-var mnemonic = "transfer sword stadium trade lunar gown worry vault regret dish pattern boy";
+var mnemonic = "stumble until young bullet jeans identify december intact piano metal fabric skirt";

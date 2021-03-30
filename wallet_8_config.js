@@ -1,1 +1,1 @@
-var mnemonic = "expand more atom river crater apart replace april trust twin direct question";
+var mnemonic = "join shaft ozone anger basket champion explain journey rival fun design artwork";

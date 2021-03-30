@@ -1,1 +1,1 @@
-var mnemonic = "scan strike settle float hub tube grocery load bacon glow monster early";
+var mnemonic = "law empty sunset clown agent clarify music kiwi mutual local clap again";

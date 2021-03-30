@@ -1,1 +1,1 @@
-var mnemonic = "disorder pepper exist mesh caught fluid begin sound barely tell cram nothing";
+var mnemonic = "style ridge poverty axis remind olive mixed stairs tumble segment replace gospel";

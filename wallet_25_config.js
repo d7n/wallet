@@ -1,1 +1,1 @@
-var mnemonic = "rely congress begin airport large start raw purse zoo settle agree lunch";
+var mnemonic = "toe junk dynamic march artefact gun hammer cruise gold violin kangaroo zebra";

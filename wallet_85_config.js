@@ -1,1 +1,1 @@
-var mnemonic = "retreat luggage guess indoor dolphin magnet punch produce food shield night member";
+var mnemonic = "about spread bicycle father dinosaur glass jewel detail refuse midnight garden orchard";

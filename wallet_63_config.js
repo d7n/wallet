@@ -1,1 +1,1 @@
-var mnemonic = "degree salmon inform visit palace thing special ceiling woman ensure debris force";
+var mnemonic = "velvet castle trash human ethics beach sight sick loyal discover cushion adult";

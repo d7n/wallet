@@ -1,1 +1,1 @@
-var mnemonic = "patient soft vague edge duty ask chair life void lyrics pink insect";
+var mnemonic = "actual eager stamp depend gas video lobster wash tortoise length erosion gate";

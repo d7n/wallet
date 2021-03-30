@@ -1,1 +1,1 @@
-var mnemonic = "small cruel crash bonus twelve trouble vicious nuclear gossip luggage phrase floor";
+var mnemonic = "volcano rail effort wrong margin three goose october correct wet follow worth";

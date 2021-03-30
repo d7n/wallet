@@ -1,1 +1,1 @@
-var mnemonic = "lens potato cash parade soft resist include slide dinosaur wall during tag";
+var mnemonic = "dentist luggage indoor powder maximum all green comic hybrid hamster popular erupt";

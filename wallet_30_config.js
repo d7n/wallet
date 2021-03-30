@@ -1,1 +1,1 @@
-var mnemonic = "hockey august blue female squirrel battle valley gravity scatter security pattern dismiss";
+var mnemonic = "setup inch deal whale fantasy intact side toddler cost wrestle image town";

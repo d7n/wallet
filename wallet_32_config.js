@@ -1,1 +1,1 @@
-var mnemonic = "access camera aspect various nominee old coyote wild shrimp brisk tide gaze";
+var mnemonic = "where curious pill three elephant embody auction rapid farm express habit drill";

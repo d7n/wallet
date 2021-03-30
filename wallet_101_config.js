@@ -1,1 +1,1 @@
-var mnemonic = "alien shallow firm rare note anchor top mind album segment robust dust";
+var mnemonic = "bridge bubble lab buddy curve juice office peanut rival diesel evolve draw";

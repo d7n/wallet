@@ -1,1 +1,1 @@
-var mnemonic = "seat run essence biology seat rule boat fluid unique recycle click two";
+var mnemonic = "aerobic circle run swing table over turn oppose giggle whale coach sorry";

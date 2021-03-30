@@ -1,1 +1,1 @@
-var mnemonic = "wear picnic whisper leisure relax own because render way same indicate account";
+var mnemonic = "curtain next poem army bind they lift blur permit dress unhappy jar";

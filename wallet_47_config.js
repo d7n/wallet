@@ -1,1 +1,1 @@
-var mnemonic = "follow story empower dust enough rent hurdle hole protect gloom lonely siege";
+var mnemonic = "shield power vocal glad mom wall liquid tilt ramp end market banner";

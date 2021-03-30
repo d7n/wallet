@@ -1,1 +1,1 @@
-var mnemonic = "final bulk awake cook scan license taxi extend put credit honey rail";
+var mnemonic = "bid fuel burst casual solar crazy blur priority soap pelican cactus across";

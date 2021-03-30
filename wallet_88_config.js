@@ -1,1 +1,1 @@
-var mnemonic = "vapor balcony sausage aisle renew reason comfort avocado eye sure become robust";
+var mnemonic = "friend deer miracle strategy notable practice patch online guilt zero coffee nuclear";

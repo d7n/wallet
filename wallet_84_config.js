@@ -1,1 +1,1 @@
-var mnemonic = "sketch couch nature crawl page scatter drop heart fancy lecture meadow current";
+var mnemonic = "easy apology wool kitten topic raise receive force normal report lucky claim";

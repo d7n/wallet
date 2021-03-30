@@ -1,1 +1,1 @@
-var mnemonic = "win eagle fossil blanket craft viable dinner inspire aspect garbage define habit";
+var mnemonic = "casino vanish act walnut engine mask depend vintage woman whip hope exile";

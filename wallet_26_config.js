@@ -1,1 +1,1 @@
-var mnemonic = "face regret anxiety tube town gown steak expand theory nation rich lizard";
+var mnemonic = "frown plate rate clown pave chief border bird patient other damage pyramid";

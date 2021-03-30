@@ -1,1 +1,1 @@
-var mnemonic = "mass total unhappy couch disease certain fault palace rug develop budget select";
+var mnemonic = "team setup better spin math humor stool hen kingdom second blame tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "october field burger ceiling winner margin demand can violin head sting orphan";
+var mnemonic = "income iron offer sting since claw comic same auto ship mom outer";

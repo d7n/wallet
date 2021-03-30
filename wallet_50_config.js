@@ -1,1 +1,1 @@
-var mnemonic = "eagle adjust emerge always vendor exchange myth hurdle feed unit secret design";
+var mnemonic = "birth hunt heart palace distance pepper fiction age level lizard never perfect";

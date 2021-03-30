@@ -1,1 +1,1 @@
-var mnemonic = "only bring arrest guitar stove guide column pink minute upgrade embark casino";
+var mnemonic = "spring jacket measure process stove trust cloth tell garlic kingdom almost bundle";

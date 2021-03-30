@@ -1,1 +1,1 @@
-var mnemonic = "unveil spider sheriff exotic sun intact average ice ordinary myth assault excess";
+var mnemonic = "green what village edge refuse picnic doctor expose mass dolphin giraffe lecture";

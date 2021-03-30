@@ -1,1 +1,1 @@
-var mnemonic = "nasty shadow eye cheap man scare record view giraffe velvet summer delay";
+var mnemonic = "guide impact wolf ritual yard digital outer message fatal input comfort nation";

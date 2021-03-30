@@ -1,1 +1,1 @@
-var mnemonic = "april correct minimum enlist fiber east embody hover pear hand senior lamp";
+var mnemonic = "custom turtle punch hazard immune pottery used drama aunt black canyon ancient";

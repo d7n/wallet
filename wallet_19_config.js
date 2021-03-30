@@ -1,1 +1,1 @@
-var mnemonic = "defy gap fruit arctic service frost daughter wise fault love nut inflict";
+var mnemonic = "use degree vendor route machine fire elite gather kite benefit glory month";

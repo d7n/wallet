@@ -1,1 +1,1 @@
-var mnemonic = "federal gorilla submit amount coral mom same cupboard dad hold tattoo adjust";
+var mnemonic = "breeze vacant nasty antique kiss quote island evil sunny burger tag palace";

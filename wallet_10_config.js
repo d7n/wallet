@@ -1,1 +1,1 @@
-var mnemonic = "dinner push twelve manual umbrella perfect token armor follow spirit empower cliff";
+var mnemonic = "pledge myself crack person adult husband picnic curious security donor primary appear";

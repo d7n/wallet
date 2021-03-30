@@ -1,1 +1,1 @@
-var mnemonic = "happy sell party enemy accident double custom oven mountain helmet permit cry";
+var mnemonic = "real apology hundred avoid skate design ancient smile pelican federal actor confirm";

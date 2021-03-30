@@ -1,1 +1,1 @@
-var mnemonic = "steel service length grace slight picnic victory pill harsh axis pool trigger";
+var mnemonic = "citizen security vintage rigid ethics ripple canal meadow mobile bright toward dwarf";

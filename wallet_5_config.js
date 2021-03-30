@@ -1,1 +1,1 @@
-var mnemonic = "amateur silent now judge mercy grace reveal goat marriage leave coil silent";
+var mnemonic = "oven denial stable coach figure oval away artefact jacket fork device cupboard";

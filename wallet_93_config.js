@@ -1,1 +1,1 @@
-var mnemonic = "replace pluck educate friend boost innocent skull thank side tongue flame ski";
+var mnemonic = "stereo have alert crew scan despair repeat quantum artefact credit cinnamon almost";

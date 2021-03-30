@@ -1,1 +1,1 @@
-var mnemonic = "skirt can flat chef winter stem churn exact news pyramid organ avocado";
+var mnemonic = "culture off property gather salon install remain inmate era define power shine";

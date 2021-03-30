@@ -1,1 +1,1 @@
-var mnemonic = "side improve foster also receive program middle own they still purpose link";
+var mnemonic = "gate fan icon ski short fiction oblige subway essence void few term";

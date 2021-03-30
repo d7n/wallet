@@ -1,1 +1,1 @@
-var mnemonic = "gown minute song setup swim pretty title arrow pretty slot rough item";
+var mnemonic = "tiny body heart proof weapon sight field soap gaze concert version bundle";

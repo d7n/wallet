@@ -1,1 +1,1 @@
-var mnemonic = "hollow decline marble live vintage silk hammer jar void search dash sweet";
+var mnemonic = "talent seminar echo almost fury three inform draw thrive diary gesture success";

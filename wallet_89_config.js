@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cement sock symbol team vivid awful uncover doll effort tribe subject";
+var mnemonic = "scatter bundle notice syrup lock please pilot snake raccoon month reflect essay";

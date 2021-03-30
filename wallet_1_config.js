@@ -1,1 +1,1 @@
-var mnemonic = "attend scorpion copy meat combine strike toss maid kitchen manual dad depend";
+var mnemonic = "seed apple quarter quote twenty trash tunnel clock silk wealth tomorrow holiday";

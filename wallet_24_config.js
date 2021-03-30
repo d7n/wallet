@@ -1,1 +1,1 @@
-var mnemonic = "recipe spin zoo left wedding corn manual web digital right fatigue perfect";
+var mnemonic = "tissue violin february clip pave blossom armor sweet shrug trap sentence hope";

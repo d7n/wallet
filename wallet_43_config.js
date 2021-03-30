@@ -1,1 +1,1 @@
-var mnemonic = "thunder poem tail card velvet foil all hobby weird joy siege burst";
+var mnemonic = "gorilla concert boost game gentle dizzy soup polar stage best program green";

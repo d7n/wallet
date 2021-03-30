@@ -1,1 +1,1 @@
-var mnemonic = "build series blood love city nest swallow number dizzy supreme monitor maple";
+var mnemonic = "million culture blue during fox oppose space actor rural fury river strike";

@@ -1,1 +1,1 @@
-var mnemonic = "vocal kind repeat pattern venue vapor just there arctic february goose spy";
+var mnemonic = "cart ocean village version truly economy wealth slogan half panic wolf scheme";

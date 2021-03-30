@@ -1,1 +1,1 @@
-var mnemonic = "length number match race despair session little wrestle pledge today castle medal";
+var mnemonic = "flat cargo grid route unhappy parent border humor poem economy glide category";

@@ -1,1 +1,1 @@
-var mnemonic = "vapor prosper ladder pulp rule dose indoor exile tooth ritual federal dumb";
+var mnemonic = "trade friend coffee chief laptop hurry buyer crazy heart transfer slogan turtle";

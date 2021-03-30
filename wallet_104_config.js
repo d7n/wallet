@@ -1,1 +1,1 @@
-var mnemonic = "dog person champion swarm speed often chest tortoise cup labor donate couch";
+var mnemonic = "february vessel toddler keen jealous crunch sense note method lock problem theme";

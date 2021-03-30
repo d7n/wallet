@@ -1,1 +1,1 @@
-var mnemonic = "private damp silly silly act execute memory air midnight kick jewel tribe";
+var mnemonic = "elephant celery dizzy whisper common chase month sentence actual shrug wrestle resist";

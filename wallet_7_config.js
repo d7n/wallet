@@ -1,1 +1,1 @@
-var mnemonic = "angry copy shoulder dream avocado profit crucial sing squirrel erupt undo library";
+var mnemonic = "little junior urban job motor pass strategy need abandon menu wire vintage";

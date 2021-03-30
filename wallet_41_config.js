@@ -1,1 +1,1 @@
-var mnemonic = "bronze popular mango polar inside surface organ check morning now hurry science";
+var mnemonic = "crop session distance large marine unit quarter loud test win bridge carpet";

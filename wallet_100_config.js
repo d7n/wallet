@@ -1,1 +1,1 @@
-var mnemonic = "magnet veteran spare rose marble ability nominee raise flag welcome fine truly";
+var mnemonic = "step elegant above alley flat width proof harvest media initial bench evidence";

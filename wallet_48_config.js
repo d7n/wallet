@@ -1,1 +1,1 @@
-var mnemonic = "ancient wet acoustic cheese monster midnight impulse wheel mistake share gesture idea";
+var mnemonic = "gift curious inherit slow fix around have tell scan negative ozone assault";

@@ -1,1 +1,1 @@
-var mnemonic = "punch fault more attitude document phrase tunnel giraffe various garlic glad control";
+var mnemonic = "short ugly fancy rib oppose zebra include wife base vicious title cherry";

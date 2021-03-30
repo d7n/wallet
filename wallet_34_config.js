@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog december bird milk track reject uniform addict awkward mail amateur reason";
+var mnemonic = "roof describe lonely rule ensure hood police fish case track order same";

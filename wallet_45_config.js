@@ -1,1 +1,1 @@
-var mnemonic = "shed side minor actor farm focus wedding tunnel unique tool average reduce";
+var mnemonic = "drink cargo approve metal banana hawk awake buyer miracle tail maple cage";

@@ -1,1 +1,1 @@
-var mnemonic = "now zebra silk moral wash voice bus orchard horror caught tumble property";
+var mnemonic = "mixture old decline provide gather nothing coin word design force ginger force";

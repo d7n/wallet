@@ -1,1 +1,1 @@
-var mnemonic = "ask news huge frost strong weird subject wish nice nuclear betray wife";
+var mnemonic = "switch neck plate fly weather into reason dune ordinary announce between fever";

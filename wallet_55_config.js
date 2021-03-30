@@ -1,1 +1,1 @@
-var mnemonic = "glare order source orphan waste climb rib hero clean omit dignity victory";
+var mnemonic = "dinosaur dash usage check turtle gap core valid movie prosper reward identify";
