@@ -1,1 +1,1 @@
-var mnemonic = "october vault rapid avoid script trap tube camera amused exotic rabbit solution";
+var mnemonic = "cancel door bamboo slight bronze bright topple face maximum help lift eager";

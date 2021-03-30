@@ -1,1 +1,1 @@
-var mnemonic = "hood employ term city ripple envelope finger vacuum ethics near vital laptop";
+var mnemonic = "pulp cloth deposit spread fortune trap before antique column angry few drum";

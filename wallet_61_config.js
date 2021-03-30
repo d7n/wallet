@@ -1,1 +1,1 @@
-var mnemonic = "inch poverty wedding tribe cause balance other banner rubber sadness caution rug";
+var mnemonic = "crawl weapon inch bundle iron dinosaur elbow resist patch brown solid brick";

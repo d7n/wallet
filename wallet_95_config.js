@@ -1,1 +1,1 @@
-var mnemonic = "bread resemble thank ancient strong knee uncover fold potato bullet scissors hungry";
+var mnemonic = "ability mango mechanic vanish unaware believe tuition outside hurt tail crazy push";

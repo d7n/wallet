@@ -1,1 +1,1 @@
-var mnemonic = "gown orange bounce banner join damp seminar attack print exercise control cash";
+var mnemonic = "trade weekend piece front curious brisk disorder garbage stumble deer weapon chat";

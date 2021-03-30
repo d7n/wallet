@@ -1,1 +1,1 @@
-var mnemonic = "cliff easy express news before awake usual harsh rhythm split flavor sign";
+var mnemonic = "bomb enact vital settle brand fatal admit notable denial clown swing polar";

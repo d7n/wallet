@@ -1,1 +1,1 @@
-var mnemonic = "design slight stairs couple town drum leg object history husband fault wagon";
+var mnemonic = "horn country ahead thought suspect twist tribe east flame couple old salute";

@@ -1,1 +1,1 @@
-var mnemonic = "giraffe figure echo cricket ozone palace expand wood large flush blind betray";
+var mnemonic = "orphan answer dash gossip ozone great child flight zone chief sweet swift";

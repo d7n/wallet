@@ -1,1 +1,1 @@
-var mnemonic = "toilet impact ancient pull idle simple travel desk average math faint fat";
+var mnemonic = "enable mushroom now rabbit adult secret merge affair hint income need cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "great body more bulk exist clock maze shoe grain wool place climb";
+var mnemonic = "soap best express raccoon seek charge teach pause shrimp share hazard enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "chair tunnel suffer oyster salt giggle pear control avoid worry provide pair";
+var mnemonic = "outdoor virus phone still kind tomorrow later flee burden coach kick joy";

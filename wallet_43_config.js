@@ -1,1 +1,1 @@
-var mnemonic = "act hobby slight laptop harbor actress simple dust scissors add cotton rhythm";
+var mnemonic = "chat pretty rose special miracle turn embody service rhythm lottery question equal";

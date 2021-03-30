@@ -1,1 +1,1 @@
-var mnemonic = "birth warm anger slide inside cry genre trim gorilla insect twenty response";
+var mnemonic = "hood obey size sick you permit tackle capable demise live occur kitchen";

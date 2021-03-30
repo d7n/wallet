@@ -1,1 +1,1 @@
-var mnemonic = "faint vital sea blush patrol stable fiction honey scene deputy again sponsor";
+var mnemonic = "usage genre decade foam bleak awake wool decide crazy any clever monster";

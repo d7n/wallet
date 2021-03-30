@@ -1,1 +1,1 @@
-var mnemonic = "prize typical solution sense brown master domain canyon tornado scatter chef when";
+var mnemonic = "journey front wear waste welcome guess between agent viable social popular zero";

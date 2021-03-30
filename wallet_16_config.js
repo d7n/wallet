@@ -1,1 +1,1 @@
-var mnemonic = "spin rain label slice purse embody solution screen dash find hunt mad";
+var mnemonic = "swallow yellow stable tone essay work gain lucky odor shrug coin glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "call dawn garage city trap theory attack sea legal success reveal thing";
+var mnemonic = "wire tent discover worry chaos code kidney olympic elbow detail jealous holiday";

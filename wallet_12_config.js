@@ -1,1 +1,1 @@
-var mnemonic = "employ mad harsh belt gate toss moral parade speed car isolate beach";
+var mnemonic = "key soldier select chapter awake column modify coffee peace tent bubble screen";

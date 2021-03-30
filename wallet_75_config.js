@@ -1,1 +1,1 @@
-var mnemonic = "hour invest sense object number traffic dance finish slice south much mango";
+var mnemonic = "off boat example enjoy inspire come merry betray floor seed hint rack";

@@ -1,1 +1,1 @@
-var mnemonic = "twice say banner bench final erase economy trick foot involve tobacco blame";
+var mnemonic = "distance balance fury goose hunt usual picture valve spring lecture easy scissors";

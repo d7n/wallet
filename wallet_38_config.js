@@ -1,1 +1,1 @@
-var mnemonic = "cousin frown slush stage rubber electric indicate hover wet master manual mean";
+var mnemonic = "leave toilet size tongue jacket brisk between blast census poet mirror egg";

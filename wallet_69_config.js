@@ -1,1 +1,1 @@
-var mnemonic = "subway stock leave grief clever pencil chronic puppy bottom already sort large";
+var mnemonic = "melody guide sadness obscure grape earn permit galaxy kidney shove someone wrist";

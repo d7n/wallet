@@ -1,1 +1,1 @@
-var mnemonic = "wine assist fame real obey entry maid leisure laugh space anxiety answer";
+var mnemonic = "rally rhythm fun minimum pole filter borrow inject must rebuild journey artwork";

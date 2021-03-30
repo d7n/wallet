@@ -1,1 +1,1 @@
-var mnemonic = "chair metal work cry endless sense detail inner main bird live robot";
+var mnemonic = "witness trial ridge habit frozen hill disagree coral quote deliver brown february";

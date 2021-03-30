@@ -1,1 +1,1 @@
-var mnemonic = "tail ceiling isolate baby fox soon lonely cross doll enough million vanish";
+var mnemonic = "permit indoor hour piano nut city lift ghost hole embrace utility actual";

@@ -1,1 +1,1 @@
-var mnemonic = "guard guess once team shrimp diesel stool pulp knife essay future lawsuit";
+var mnemonic = "thought item city wire grass close ride raw estate voice slight endorse";

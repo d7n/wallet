@@ -1,1 +1,1 @@
-var mnemonic = "family best vocal bright book phone bone body feel rough glad always";
+var mnemonic = "review bench invest salon pulp impulse truth spend demise humor myth saddle";

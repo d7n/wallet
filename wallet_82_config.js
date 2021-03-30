@@ -1,1 +1,1 @@
-var mnemonic = "increase walk actress melody glow tip gate fall blur foster mother accuse";
+var mnemonic = "theory enforce gesture deposit shove scorpion embark sorry flower they ten tube";

@@ -1,1 +1,1 @@
-var mnemonic = "knock aware ramp man goddess crouch gold tobacco gloom spoil ketchup tube";
+var mnemonic = "joy drastic student large remain garage leader angle mutual canal glare analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "festival upgrade silk sudden rookie trust push crime wasp draft nose flight";
+var mnemonic = "artwork gospel venue such risk wisdom side shaft deal fish shop elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty scissors quarter front toward truly space purse drill desert symbol faculty";
+var mnemonic = "alien future cheese thrive mistake sauce barely west farm proof employ enjoy";

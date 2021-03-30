@@ -1,1 +1,1 @@
-var mnemonic = "yellow album tooth family disagree sun much divorce nominee hungry junk trip";
+var mnemonic = "link sudden decade beyond equal main more envelope taxi ski busy area";

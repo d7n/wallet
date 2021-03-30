@@ -1,1 +1,1 @@
-var mnemonic = "column ketchup inhale wolf solid empower genre stem age move develop exercise";
+var mnemonic = "mercy response taxi soon similar close margin art polar morning moment provide";

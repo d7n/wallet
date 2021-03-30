@@ -1,1 +1,1 @@
-var mnemonic = "aim erase twist tennis squeeze powder knock eye garden toilet local bulb";
+var mnemonic = "target swallow trip humor enemy toe canal profit render rural pill staff";

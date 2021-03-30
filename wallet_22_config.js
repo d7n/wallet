@@ -1,1 +1,1 @@
-var mnemonic = "sea creek add bag regret try guard essence pepper alley absorb cool";
+var mnemonic = "distance gospel issue garlic script guess harbor typical wrong bullet heavy cash";

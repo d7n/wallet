@@ -1,1 +1,1 @@
-var mnemonic = "soccer tired genre fluid renew vivid sort brick throw throw youth vast";
+var mnemonic = "struggle sea cover canyon crush hour perfect pencil collect hurt chase reveal";

@@ -1,1 +1,1 @@
-var mnemonic = "melody demand observe spy foam acquire female avocado april panic farm zebra";
+var mnemonic = "wide pelican thumb quit alcohol yard access tongue galaxy picnic panic ritual";

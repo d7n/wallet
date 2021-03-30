@@ -1,1 +1,1 @@
-var mnemonic = "bargain lonely vicious cause amateur message visit verify brief actual cluster hour";
+var mnemonic = "mercy digital allow head wide kangaroo physical occur soft possible emotion general";

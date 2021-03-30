@@ -1,1 +1,1 @@
-var mnemonic = "toe bounce hero ten chunk alert thunder vapor valve outside pledge wink";
+var mnemonic = "estate artefact bleak special canvas arctic august figure spray enroll mask doctor";

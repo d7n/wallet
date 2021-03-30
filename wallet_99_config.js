@@ -1,1 +1,1 @@
-var mnemonic = "hill yard turn ritual viable floor vacant slim fog car bulk mirror";
+var mnemonic = "dish enter gas boss custom until hello tiger bridge happy shock earth";

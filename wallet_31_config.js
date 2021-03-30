@@ -1,1 +1,1 @@
-var mnemonic = "team rifle knife sunset resist cement naive hand select shove game rate";
+var mnemonic = "ceiling result fancy breeze river model antique junk truly hand maple wool";

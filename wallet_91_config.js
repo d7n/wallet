@@ -1,1 +1,1 @@
-var mnemonic = "civil junior focus crack step dance retire mechanic build combine slim album";
+var mnemonic = "jealous employ first reduce below table more creek close leisure wet wear";

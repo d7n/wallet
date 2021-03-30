@@ -1,1 +1,1 @@
-var mnemonic = "eye grocery reward lucky rare suspect venture defy breeze knock track raise";
+var mnemonic = "state gown snack cost remember dragon strike dice half during hint double";

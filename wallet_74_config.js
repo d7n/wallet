@@ -1,1 +1,1 @@
-var mnemonic = "keen letter hub various donate gauge there toilet flavor page calm access";
+var mnemonic = "render pulp stamp coin ginger truck matter february reopen convince dolphin mango";

@@ -1,1 +1,1 @@
-var mnemonic = "neck mushroom orient machine bright innocent main foam august super finish survey";
+var mnemonic = "liar shoot attend tennis tilt clever monitor relax trigger science benefit chair";

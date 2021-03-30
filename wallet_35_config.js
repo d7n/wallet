@@ -1,1 +1,1 @@
-var mnemonic = "record morning fold raccoon vacuum client ensure helmet horse inspire path library";
+var mnemonic = "oblige van obtain frost mimic person give sunny reward apple paddle traffic";

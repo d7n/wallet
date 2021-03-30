@@ -1,1 +1,1 @@
-var mnemonic = "dance pool sausage middle tongue curious pole just ritual public predict hundred";
+var mnemonic = "enemy caution rebel stool crouch prison behind liberty sort border gloom robust";

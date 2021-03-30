@@ -1,1 +1,1 @@
-var mnemonic = "recycle napkin amazing style report employ resist tragic play crumble quality million";
+var mnemonic = "mobile view fever gospel become dinner theory hockey century lemon combine since";

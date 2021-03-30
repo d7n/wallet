@@ -1,1 +1,1 @@
-var mnemonic = "later session riot differ list depend all chat shield ecology topic spawn";
+var mnemonic = "bulk wrestle boy finish devote joy chalk other dose run churn agree";

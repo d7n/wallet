@@ -1,1 +1,1 @@
-var mnemonic = "escape give six payment film panda egg coil gaze chase faint umbrella";
+var mnemonic = "hybrid puppy spawn chaos poverty warfare provide net around young noodle prevent";

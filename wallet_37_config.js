@@ -1,1 +1,1 @@
-var mnemonic = "another jaguar forest north broccoli crawl seek chimney rose pigeon mix useless";
+var mnemonic = "reflect derive cradle boring display shrug radar exotic evoke salon before music";

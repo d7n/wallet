@@ -1,1 +1,1 @@
-var mnemonic = "abstract fiber match artefact animal evolve wide skirt olympic snow reward smart";
+var mnemonic = "reason obvious lamp envelope used ethics property planet offer group subway canal";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch daughter attend open deny genre genuine jazz bounce math law poem";
+var mnemonic = "squeeze clean chair helmet edit flag carbon sting nominee right gaze field";

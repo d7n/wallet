@@ -1,1 +1,1 @@
-var mnemonic = "become grit prize beef entire put strike van slide equip awesome deputy";
+var mnemonic = "urge horse depth process praise east gravity explain glow kingdom snake cruise";

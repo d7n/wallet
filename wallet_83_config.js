@@ -1,1 +1,1 @@
-var mnemonic = "rib improve motor season danger ritual lawn leopard flush window exclude shop";
+var mnemonic = "wood impose junior quantum point bone squeeze spray apple true illness jar";

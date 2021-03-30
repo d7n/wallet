@@ -1,1 +1,1 @@
-var mnemonic = "attract owner raise resemble curtain number grab fury weird slim snack brisk";
+var mnemonic = "awful omit stove tower castle window rebel genuine student quality debate peace";

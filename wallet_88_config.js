@@ -1,1 +1,1 @@
-var mnemonic = "pride network patrol strike bracket ritual pull maze kitten dust demise vivid";
+var mnemonic = "dry voice warrior tribe diesel soft angry oppose cigar apple kitten face";

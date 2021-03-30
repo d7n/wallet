@@ -1,1 +1,1 @@
-var mnemonic = "security volume umbrella enter flee farm size betray treat bind rhythm warrior";
+var mnemonic = "broken pole toward scorpion faint cricket bus fruit physical wine mosquito hockey";

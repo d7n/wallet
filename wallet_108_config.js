@@ -1,1 +1,1 @@
-var mnemonic = "attend gesture other speed grape phone festival waste chest meat unfair else";
+var mnemonic = "beyond whip color beach rival bird sing cause flower sell spread sort";

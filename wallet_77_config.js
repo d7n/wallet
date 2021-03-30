@@ -1,1 +1,1 @@
-var mnemonic = "bottom position cross wet enrich hold labor angle grab elephant account useful";
+var mnemonic = "suit diagram wait account fluid snake grab issue force industry dignity because";

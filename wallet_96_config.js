@@ -1,1 +1,1 @@
-var mnemonic = "suggest average valley grab balance announce payment trash cousin eight attract cactus";
+var mnemonic = "edit spin now title genuine ridge bunker author note paper nation naive";

@@ -1,1 +1,1 @@
-var mnemonic = "robot muscle hundred crush cake cheese follow brother board business lottery unable";
+var mnemonic = "crash swim candy senior notable flower share rocket museum rotate sword indoor";

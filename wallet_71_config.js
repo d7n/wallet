@@ -1,1 +1,1 @@
-var mnemonic = "better claw spirit people brain hold quantum lizard second emerge roast random";
+var mnemonic = "various subject shrimp pilot obtain reform hand north enrich hunt happy hawk";

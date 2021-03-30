@@ -1,1 +1,1 @@
-var mnemonic = "abstract wood similar dial oval tiny tunnel powder can symbol disagree common";
+var mnemonic = "nut spread congress flag dog time orange style all hire bullet version";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic side core tooth knock universe correct inject sail argue magic acquire";
+var mnemonic = "post visual parrot potato oxygen educate unusual output can deal pepper arctic";

@@ -1,1 +1,1 @@
-var mnemonic = "visa bulk blood elite cancel popular high text brown magnet tattoo latin";
+var mnemonic = "pull diagram daughter hollow nurse short crop report penalty release clog mercy";

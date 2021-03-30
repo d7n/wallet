@@ -1,1 +1,1 @@
-var mnemonic = "dose dutch earn describe citizen humble nuclear envelope raccoon journey casual sword";
+var mnemonic = "asthma move vacuum easy quote planet calm remember idea huge crisp cute";

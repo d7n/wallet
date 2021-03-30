@@ -1,1 +1,1 @@
-var mnemonic = "west rate gown edit rice access remove fancy amazing earn before impulse";
+var mnemonic = "island result congress today drop chunk push alone hammer share crater proof";

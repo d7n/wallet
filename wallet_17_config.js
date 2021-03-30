@@ -1,1 +1,1 @@
-var mnemonic = "during opera plug divide rather intact angle grit bamboo object timber sunset";
+var mnemonic = "elite minute beauty roof describe matrix quit energy almost bronze vessel expire";

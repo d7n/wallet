@@ -1,1 +1,1 @@
-var mnemonic = "twist pigeon youth mystery predict nature behave attend key fortune list outdoor";
+var mnemonic = "blue forest valve slogan front athlete frame danger economy trigger syrup news";

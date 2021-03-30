@@ -1,1 +1,1 @@
-var mnemonic = "despair veteran slide piano organ split effort gate destroy way soldier jewel";
+var mnemonic = "film virtual waste echo devote shoulder talk imitate vibrant field swing toe";

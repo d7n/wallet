@@ -1,1 +1,1 @@
-var mnemonic = "awake brick also kangaroo wrong effort what cricket title stool brother teach";
+var mnemonic = "ladder lake target spoon surge equal divide daring rocket naive gauge arm";

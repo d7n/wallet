@@ -1,1 +1,1 @@
-var mnemonic = "walnut must festival pole wall invite cradle slab cupboard talk lunar tunnel";
+var mnemonic = "rain best gun syrup refuse they goat what engine hour slender reform";

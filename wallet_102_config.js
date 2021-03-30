@@ -1,1 +1,1 @@
-var mnemonic = "exit admit used clarify upgrade steel verb absent blue once glide creek";
+var mnemonic = "bubble bleak retire proud canoe orbit dash trap aisle pair runway rifle";

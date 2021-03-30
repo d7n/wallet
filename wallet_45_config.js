@@ -1,1 +1,1 @@
-var mnemonic = "chronic weekend bag dilemma impulse annual season taxi extend window garlic cloud";
+var mnemonic = "dove impulse shift text series round warm reward equal loud jeans lion";

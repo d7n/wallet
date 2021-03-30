@@ -1,1 +1,1 @@
-var mnemonic = "build strong there token quiz acquire load metal unique lyrics you simple";
+var mnemonic = "layer float outdoor found unveil topic speed chest burden torch sand clinic";

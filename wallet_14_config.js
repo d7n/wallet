@@ -1,1 +1,1 @@
-var mnemonic = "funny deal spider among liberty ready own gesture usual crunch truck convince";
+var mnemonic = "nothing decrease upset reveal board slab window timber trash unit taste skate";

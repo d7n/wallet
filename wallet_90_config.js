@@ -1,1 +1,1 @@
-var mnemonic = "champion assist state match there art dose flag adapt night teach visual";
+var mnemonic = "good series resemble interest increase quantum actual radar daring loud control blanket";

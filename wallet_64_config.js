@@ -1,1 +1,1 @@
-var mnemonic = "achieve else cage enemy head axis theme frozen pumpkin crime fiber accuse";
+var mnemonic = "green clap range ask elephant faith gift prison fiscal whisper yard setup";

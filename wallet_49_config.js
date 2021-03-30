@@ -1,1 +1,1 @@
-var mnemonic = "cool eight rice exist worth prepare swear glory wedding chalk symbol cattle";
+var mnemonic = "exile rail fever tongue earth actual common tiny banana viable faint make";

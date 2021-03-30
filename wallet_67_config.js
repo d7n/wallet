@@ -1,1 +1,1 @@
-var mnemonic = "develop sea art congress float disease recycle cinnamon worry ignore cheese marriage";
+var mnemonic = "swallow resource uniform mind snake scare father aisle extend velvet finish leopard";

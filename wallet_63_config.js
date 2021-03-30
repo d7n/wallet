@@ -1,1 +1,1 @@
-var mnemonic = "setup pair ball fit idle vintage autumn broccoli scare panda ensure code";
+var mnemonic = "awesome more execute tuna border service frost crawl turtle used invest final";

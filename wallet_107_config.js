@@ -1,1 +1,1 @@
-var mnemonic = "auction general alone express misery pioneer boss demand father miss feed seed";
+var mnemonic = "panel float screen include exchange couch velvet mother rude floor mountain north";

@@ -1,1 +1,1 @@
-var mnemonic = "filter street emerge drink cargo crawl coach october evil fabric afford lumber";
+var mnemonic = "ensure mom basic same ask plunge expire filter indoor now coach fossil";

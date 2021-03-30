@@ -1,1 +1,1 @@
-var mnemonic = "beach soap bone exhibit suffer have hammer wealth gold festival situate cement";
+var mnemonic = "cram drink capable exchange announce squirrel disorder insane exotic fix organ account";

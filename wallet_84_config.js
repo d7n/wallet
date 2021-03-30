@@ -1,1 +1,1 @@
-var mnemonic = "citizen limb curve supreme shoulder fetch immune teach actual cash shell night";
+var mnemonic = "aunt siren obscure myself phone embrace leave fix unaware admit common awake";

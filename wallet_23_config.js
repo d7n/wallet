@@ -1,1 +1,1 @@
-var mnemonic = "tiger belt shiver demand bright economy excite between tuna sad soldier regular";
+var mnemonic = "nerve until major isolate shuffle little blur bunker leaf enjoy belt bright";

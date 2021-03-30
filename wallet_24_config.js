@@ -1,1 +1,1 @@
-var mnemonic = "accident risk volume lonely sort edge easy oyster sport virus order build";
+var mnemonic = "cabin seven put rug cement deliver bone pelican check cinnamon million occur";

@@ -1,1 +1,1 @@
-var mnemonic = "spider between mutual beyond afford dragon lottery south replace eager result autumn";
+var mnemonic = "elder hope inner offer copper choice sugar seminar glimpse wild monitor sport";
