@@ -1,1 +1,1 @@
-var mnemonic = "ecology off home grid junior arrow soup often option behave heart syrup";
+var mnemonic = "wait ankle twelve nation taxi silent copper outside where quote dune advance";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet idle slogan drill off moment night iron cereal hazard husband rate";
+var mnemonic = "hover sugar mad list imitate story permit unhappy wise abuse suspect lottery";

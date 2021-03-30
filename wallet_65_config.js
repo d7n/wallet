@@ -1,1 +1,1 @@
-var mnemonic = "brand still tongue thumb room gloom choose tunnel endless model harvest kid";
+var mnemonic = "comic increase before brisk harbor impose olive clog dial open parrot bind";

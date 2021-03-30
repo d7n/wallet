@@ -1,1 +1,1 @@
-var mnemonic = "scene snow burger raccoon reform barely glass forest penalty manage nation cigar";
+var mnemonic = "ladder coconut snack atom head bomb describe escape possible amazing acquire blush";

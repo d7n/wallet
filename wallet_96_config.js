@@ -1,1 +1,1 @@
-var mnemonic = "divert castle replace crucial hero faculty van copper tomorrow mouse enemy lift";
+var mnemonic = "excess combine remove estate inject keen urge park atom loan unaware tourist";

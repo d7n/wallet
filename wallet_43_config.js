@@ -1,1 +1,1 @@
-var mnemonic = "winter dash same regular deliver spray crack chief muscle feature throw omit";
+var mnemonic = "symptom hello limb glimpse silver chase rude scorpion lady leave comic strong";

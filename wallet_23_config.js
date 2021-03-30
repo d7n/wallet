@@ -1,1 +1,1 @@
-var mnemonic = "empty young receive address silk assume capable lesson disagree ugly cement holiday";
+var mnemonic = "creek develop side eight fence brand thank room asthma scatter pink need";

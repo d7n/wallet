@@ -1,1 +1,1 @@
-var mnemonic = "define crew knife lamp soon swarm nurse camp mail guide reflect mansion";
+var mnemonic = "depth fox nice busy economy rally between robot solar dizzy dash hat";

@@ -1,1 +1,1 @@
-var mnemonic = "strong rifle any only start horse deputy vivid method refuse kitchen grain";
+var mnemonic = "rice luggage mail fork slim because put sweet rice pluck level whisper";

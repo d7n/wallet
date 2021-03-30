@@ -1,1 +1,1 @@
-var mnemonic = "decide evil parrot forest employ then steel era dignity reopen rebuild stereo";
+var mnemonic = "meadow energy settle coast lunch until amazing uncle excess rhythm spin disorder";

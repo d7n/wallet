@@ -1,1 +1,1 @@
-var mnemonic = "negative bicycle summer thought jealous frozen harsh void trumpet bar anxiety gap";
+var mnemonic = "note risk faint number exist code ceiling solar luxury harvest offer purchase";

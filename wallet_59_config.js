@@ -1,1 +1,1 @@
-var mnemonic = "mansion cloud nut pill gate arrest install warm garage cash section bacon";
+var mnemonic = "father profit company wing meat fog park diesel manual invite pass dinner";

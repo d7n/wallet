@@ -1,1 +1,1 @@
-var mnemonic = "awesome fatigue blue enlist pool couple still purse orbit abandon goat what";
+var mnemonic = "flip hundred badge dose mom depth same father brick leader tongue dial";

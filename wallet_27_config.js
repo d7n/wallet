@@ -1,1 +1,1 @@
-var mnemonic = "boil potato nose scale flush sight combine talent review invest much ostrich";
+var mnemonic = "fringe neutral material inflict sausage strong length area scene chunk spell horror";

@@ -1,1 +1,1 @@
-var mnemonic = "balcony rival just sister stool frown praise truck pen more genre snow";
+var mnemonic = "echo ranch ship miss gun wreck case spare body rib cake nominee";

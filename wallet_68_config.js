@@ -1,1 +1,1 @@
-var mnemonic = "approve jewel tilt write swamp latin fiscal animal access ice cave owner";
+var mnemonic = "rent bus moon clump couch artefact someone echo march weekend hundred that";

@@ -1,1 +1,1 @@
-var mnemonic = "degree undo box proud amount system escape clump refuse ripple brain cart";
+var mnemonic = "flock gauge couple winner blanket crazy recall wife asthma dynamic december meat";

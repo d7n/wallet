@@ -1,1 +1,1 @@
-var mnemonic = "sustain supply music artwork about suit false like satisfy bargain video ozone";
+var mnemonic = "giant sweet gauge betray club physical smooth walnut because dose tunnel spatial";

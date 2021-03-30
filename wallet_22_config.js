@@ -1,1 +1,1 @@
-var mnemonic = "stairs cheese repeat section diesel cigar razor doctor sustain chimney giraffe group";
+var mnemonic = "napkin note valley mail orbit patient dumb this space cake feed wire";

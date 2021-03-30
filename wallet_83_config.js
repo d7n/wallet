@@ -1,1 +1,1 @@
-var mnemonic = "warrior huge police message blouse approve various spatial concert doctor course blade";
+var mnemonic = "verify depend barely enjoy owner replace crisp kid sudden analyst narrow before";

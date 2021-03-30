@@ -1,1 +1,1 @@
-var mnemonic = "adult always great churn million candy silent height scare sign reflect render";
+var mnemonic = "stuff soul agree figure tube shiver cement giraffe valid clinic rabbit much";

@@ -1,1 +1,1 @@
-var mnemonic = "busy render assault cigar catch reform action upgrade pizza club stone scatter";
+var mnemonic = "sausage vapor chase south gas course veteran wheat sample hamster exit video";

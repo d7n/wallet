@@ -1,1 +1,1 @@
-var mnemonic = "sail head trust amateur sleep sword elder ball oil unaware session climb";
+var mnemonic = "emotion auto have wrap armor jungle endorse often enroll rubber phone talk";

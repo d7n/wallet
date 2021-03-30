@@ -1,1 +1,1 @@
-var mnemonic = "exercise obvious sail rhythm vehicle decrease window link minor tongue snap sense";
+var mnemonic = "aunt test clean floor now sell glow blind submit dwarf bind mountain";

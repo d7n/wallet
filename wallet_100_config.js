@@ -1,1 +1,1 @@
-var mnemonic = "figure rocket patrol drift choice more wonder crane initial raw soda hope";
+var mnemonic = "desk frost soon metal talent plastic bonus promote stamp gown easy combine";

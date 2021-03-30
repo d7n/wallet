@@ -1,1 +1,1 @@
-var mnemonic = "file near spice infant happy key village robot burger large merge draw";
+var mnemonic = "finger garden sauce soup army cannon vintage concert health ensure awkward true";

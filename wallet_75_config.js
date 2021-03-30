@@ -1,1 +1,1 @@
-var mnemonic = "high jaguar brisk copper fly rude swarm depart hope armor talent marriage";
+var mnemonic = "atom water domain source author cable crater shadow verb evoke creek hollow";

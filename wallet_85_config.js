@@ -1,1 +1,1 @@
-var mnemonic = "canal carry seat leopard search sustain position genius simple domain believe soldier";
+var mnemonic = "boil casual word happy double axis arrange gallery gauge noodle spider lazy";

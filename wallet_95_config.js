@@ -1,1 +1,1 @@
-var mnemonic = "couple educate fossil apology excess weird quiz drama letter knife excuse peasant";
+var mnemonic = "feature profit alien jacket scan story garden awkward wife cupboard head coral";

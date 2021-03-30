@@ -1,1 +1,1 @@
-var mnemonic = "motor cabbage swallow neglect fuel add orphan alarm spring seven deal ski";
+var mnemonic = "hobby flock silly certain indoor faint smile sponsor glass jeans rule round";

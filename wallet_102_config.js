@@ -1,1 +1,1 @@
-var mnemonic = "above science lab oven render record lawsuit movie buzz key gossip fault";
+var mnemonic = "add solar quality tide muscle shield rib lyrics plunge twelve illegal title";

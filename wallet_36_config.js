@@ -1,1 +1,1 @@
-var mnemonic = "network august coyote lucky link prison diagram clean raw regular brief raven";
+var mnemonic = "picnic filter express advice program tomato giraffe mass multiply bullet among assault";

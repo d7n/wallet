@@ -1,1 +1,1 @@
-var mnemonic = "gun elite record nasty ill this dilemma pilot rebel breeze track raven";
+var mnemonic = "response army oval rent supreme ability seminar appear merry assist danger tomorrow";

@@ -1,1 +1,1 @@
-var mnemonic = "peace negative sense earn build erode inmate hobby fruit runway rabbit bulb";
+var mnemonic = "lecture abuse north plug rigid afraid twelve prepare travel fog drastic issue";

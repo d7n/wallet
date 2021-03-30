@@ -1,1 +1,1 @@
-var mnemonic = "pottery tornado mandate punch bid try cabbage unveil hollow okay enjoy wrong";
+var mnemonic = "long stem person blade magic patch quarter make foster palm chalk domain";

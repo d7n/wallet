@@ -1,1 +1,1 @@
-var mnemonic = "puppy enrich design middle renew stable oyster option report frequent face pulse";
+var mnemonic = "liquid limit subject avoid base picnic seat true average brief ready baby";

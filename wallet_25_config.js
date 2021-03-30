@@ -1,1 +1,1 @@
-var mnemonic = "misery myself trust decide wrap pink hero bid dad stage exhaust chat";
+var mnemonic = "dance arrest grief deny news month force isolate wife predict horror bleak";

@@ -1,1 +1,1 @@
-var mnemonic = "educate twelve pet fame audit giraffe prefer arctic inch error benefit joke";
+var mnemonic = "roof limit deliver inject shock bless rabbit neck review adapt chunk duck";

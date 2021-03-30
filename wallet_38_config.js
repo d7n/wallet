@@ -1,1 +1,1 @@
-var mnemonic = "joke mountain stool decade forward approve youth stage swarm pink bulk stick";
+var mnemonic = "resemble orange erosion volcano rocket north nut puppy federal casual excuse say";

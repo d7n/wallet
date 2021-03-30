@@ -1,1 +1,1 @@
-var mnemonic = "caution grief media swallow proof scatter walnut stock wait stadium audit valid";
+var mnemonic = "actress adapt explain hint forward segment immune system agree attitude tackle tired";

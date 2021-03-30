@@ -1,1 +1,1 @@
-var mnemonic = "endorse early twist negative point foil bundle rule sock lobster lunar lobster";
+var mnemonic = "candy program decide save love mango visit tape despair exhaust coyote two";

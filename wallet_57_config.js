@@ -1,1 +1,1 @@
-var mnemonic = "skate blind young gauge course tell steel design velvet milk order ribbon";
+var mnemonic = "gap border arrange hair shift south benefit wood rule glow turn lunar";

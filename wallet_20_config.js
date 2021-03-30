@@ -1,1 +1,1 @@
-var mnemonic = "pill denial food beach casual begin enroll position pet endless lumber mention";
+var mnemonic = "salmon artefact monster prepare check endorse sock trim tank grape deputy property";

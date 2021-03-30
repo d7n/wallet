@@ -1,1 +1,1 @@
-var mnemonic = "stomach surround clock squirrel aware paper puzzle insect orchard cook praise trip";
+var mnemonic = "corn maid shock reduce salt barely until board amateur keep small lunar";

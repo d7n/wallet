@@ -1,1 +1,1 @@
-var mnemonic = "when donate stumble lecture holiday divorce combine clap wire issue utility deputy";
+var mnemonic = "sure drastic orphan fantasy heavy clog tide donate excess hard sight frozen";

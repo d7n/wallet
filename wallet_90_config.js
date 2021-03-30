@@ -1,1 +1,1 @@
-var mnemonic = "camp winter dolphin large ghost capable stamp inside visual huge iron leader";
+var mnemonic = "gym early scrap camera electric lucky basic lab theme gloom inch coffee";

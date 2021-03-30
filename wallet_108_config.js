@@ -1,1 +1,1 @@
-var mnemonic = "deal struggle dumb brisk veteran session early cricket motion drip chimney pole";
+var mnemonic = "neither another name buddy fragile water tip phone security force clarify bag";

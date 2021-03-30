@@ -1,1 +1,1 @@
-var mnemonic = "cheap destroy runway interest digital dust shallow cost fringe gas snack shop";
+var mnemonic = "pipe rescue reflect ostrich hero wink valley erupt surround theory canyon flee";

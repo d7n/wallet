@@ -1,1 +1,1 @@
-var mnemonic = "marine peasant jacket load weapon gorilla wish size camp elevator burst genre";
+var mnemonic = "clip recall rose ancient endorse merit borrow piece access diagram lemon prison";

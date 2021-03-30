@@ -1,1 +1,1 @@
-var mnemonic = "race stove rescue subject champion hover neglect kind interest rough aware huge";
+var mnemonic = "health survey honey hen attack place canyon retire theme hub dignity lamp";

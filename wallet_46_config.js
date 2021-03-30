@@ -1,1 +1,1 @@
-var mnemonic = "dwarf cruise sustain resemble father ill van ivory innocent crunch mom disagree";
+var mnemonic = "phone almost rally very gown crunch produce merry fade arena glory animal";

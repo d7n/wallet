@@ -1,1 +1,1 @@
-var mnemonic = "lecture crumble fog surround need tobacco year script route pig hover try";
+var mnemonic = "shoulder carbon position win inner pioneer sudden cotton price few wage calm";

@@ -1,1 +1,1 @@
-var mnemonic = "palace scale invite loop panel alley vital thunder bring spawn exist police";
+var mnemonic = "casino daring defense fantasy wild couch rigid slam milk then anger note";

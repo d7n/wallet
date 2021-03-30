@@ -1,1 +1,1 @@
-var mnemonic = "lens provide invest topic alcohol cement kiwi wrong friend bring blouse work";
+var mnemonic = "valve cement sadness deny kingdom clutch project work certain concert type plug";

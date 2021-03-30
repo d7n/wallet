@@ -1,1 +1,1 @@
-var mnemonic = "marine rigid will enforce clip circle parent attack chronic toss pear cash";
+var mnemonic = "word moment cheap pulp load print mom announce skirt armed shoe sport";

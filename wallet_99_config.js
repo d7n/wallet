@@ -1,1 +1,1 @@
-var mnemonic = "wet orchard human blade satisfy outdoor attend trade govern control source hill";
+var mnemonic = "lend casual search stable shrug relax clown snow captain twin latin easily";

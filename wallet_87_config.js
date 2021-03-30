@@ -1,1 +1,1 @@
-var mnemonic = "side exist sight midnight donkey huge satisfy treat piece route twenty alien";
+var mnemonic = "chaos document wild better buffalo camp gym expect like trap drink find";

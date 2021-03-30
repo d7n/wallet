@@ -1,1 +1,1 @@
-var mnemonic = "bundle thunder figure arrive stem parent resist help number kit champion surge";
+var mnemonic = "edge decide salmon mutual double echo vessel shy certain aerobic about give";

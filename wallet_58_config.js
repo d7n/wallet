@@ -1,1 +1,1 @@
-var mnemonic = "hero apology cave sail force depend enter check project radar claw popular";
+var mnemonic = "gown advice bar dry outer amused fog adult oppose someone ordinary afraid";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil pioneer high evolve floor auction soda arctic seat gorilla unusual blanket";
+var mnemonic = "execute bonus begin enforce tongue snack apple hybrid chimney arrive winner penalty";

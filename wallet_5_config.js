@@ -1,1 +1,1 @@
-var mnemonic = "bachelor crew bridge fire street tree soda child buyer siege hockey salad";
+var mnemonic = "setup tank network sure cube fit harbor volcano patient spatial siege sausage";

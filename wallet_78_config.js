@@ -1,1 +1,1 @@
-var mnemonic = "artwork detail green employ hammer off deny example amateur slight grab clutch";
+var mnemonic = "cram dutch win right boss melt sadness furnace consider emotion ivory isolate";

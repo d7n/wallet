@@ -1,1 +1,1 @@
-var mnemonic = "remove sting lumber sun differ hold weasel park silent solar into defy";
+var mnemonic = "inherit argue debris velvet misery future nothing indicate engine buzz car seat";

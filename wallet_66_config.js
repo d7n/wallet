@@ -1,1 +1,1 @@
-var mnemonic = "turn dice next blossom eternal among segment toddler praise vacuum pioneer myself";
+var mnemonic = "child muffin cake response alcohol alone march useless foil fury foil suggest";

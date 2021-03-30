@@ -1,1 +1,1 @@
-var mnemonic = "soda among canvas wait bicycle renew begin captain defy sting dog survey";
+var mnemonic = "truly latin depend swap load wave voyage project horn more height grain";

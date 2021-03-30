@@ -1,1 +1,1 @@
-var mnemonic = "attitude couch shift issue face town risk lake push surround favorite garbage";
+var mnemonic = "theme autumn wheel salute hammer bracket arrow include explain erase book anchor";

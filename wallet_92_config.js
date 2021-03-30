@@ -1,1 +1,1 @@
-var mnemonic = "brave cave knife long rebel arctic sustain concert fire tiny edge old";
+var mnemonic = "theme advice parrot bullet insect marriage alarm sketch depend future blossom admit";

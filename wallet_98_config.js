@@ -1,1 +1,1 @@
-var mnemonic = "limit forum sport cousin lion artist design rebuild consider where chair gate";
+var mnemonic = "sketch hamster chaos siren cave machine tone season coyote aware dune panel";

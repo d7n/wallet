@@ -1,1 +1,1 @@
-var mnemonic = "illness gloom hint weapon coast auto crane agree divide supreme net select";
+var mnemonic = "evoke clock reveal crew boring page film finish divide legend bracket twist";

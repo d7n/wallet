@@ -1,1 +1,1 @@
-var mnemonic = "hurt practice access hope hat mass bulk critic salute screen slam false";
+var mnemonic = "net space farm oblige usage rural brush series busy spirit hundred junk";

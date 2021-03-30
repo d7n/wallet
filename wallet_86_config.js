@@ -1,1 +1,1 @@
-var mnemonic = "short island liquid allow slot member near inquiry fold genuine tail chalk";
+var mnemonic = "rib soccer salon raise dress ignore level throw pencil leaf nuclear cover";

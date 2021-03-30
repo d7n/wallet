@@ -1,1 +1,1 @@
-var mnemonic = "return ask repair pause sick wild object gauge green mobile cactus motion";
+var mnemonic = "buffalo eye impact rude boy early run logic wise emotion remind harsh";

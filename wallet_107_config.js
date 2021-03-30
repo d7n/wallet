@@ -1,1 +1,1 @@
-var mnemonic = "merge call miss fish whale three cousin belt creek issue more auto";
+var mnemonic = "grace canoe dinosaur scissors leaf bind foster mix alley math inner power";

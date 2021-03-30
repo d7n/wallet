@@ -1,1 +1,1 @@
-var mnemonic = "range start alert quantum face brief pause poverty repeat occur choice oppose";
+var mnemonic = "nasty act fly fit tuna potato unfold weekend rookie badge fortune occur";

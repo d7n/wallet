@@ -1,1 +1,1 @@
-var mnemonic = "original flash pumpkin road income word violin corn problem decade shift high";
+var mnemonic = "need smile cram found charge control scrap quiz violin bind boost brief";

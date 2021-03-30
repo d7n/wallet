@@ -1,1 +1,1 @@
-var mnemonic = "oval good pony sheriff sudden camera elegant pole music group earn girl";
+var mnemonic = "coach luxury album wonder hole rib invite exit deny save captain arctic";

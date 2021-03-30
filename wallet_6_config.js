@@ -1,1 +1,1 @@
-var mnemonic = "legal hazard action spend faculty palm credit priority tower stumble zoo casino";
+var mnemonic = "mandate magic hawk space cheap cat enemy must thought write hunt atom";

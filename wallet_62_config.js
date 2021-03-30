@@ -1,1 +1,1 @@
-var mnemonic = "trigger acid axis return morning volume boost essence lamp muscle cheap pistol";
+var mnemonic = "lucky improve father polar view predict tree push divert scene festival fiction";

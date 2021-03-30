@@ -1,1 +1,1 @@
-var mnemonic = "mask fame castle town bundle core song tone position park slide wear";
+var mnemonic = "jaguar pizza obscure pretty mask dilemma april lesson salmon item real soccer";

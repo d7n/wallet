@@ -1,1 +1,1 @@
-var mnemonic = "clinic around vacant across infant satisfy toy response increase tip tone chronic";
+var mnemonic = "fat slow muscle pelican close gadget young invest stairs fresh buyer buffalo";

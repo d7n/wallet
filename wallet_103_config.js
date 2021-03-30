@@ -1,1 +1,1 @@
-var mnemonic = "list rookie squeeze juice copper nature ripple pull lend success strategy brush";
+var mnemonic = "impose kangaroo divert card oblige weasel grape ensure stock present canvas warm";

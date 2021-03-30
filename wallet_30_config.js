@@ -1,1 +1,1 @@
-var mnemonic = "large square fancy inherit style ceiling faculty dust enroll nominee arrest wife";
+var mnemonic = "invite cinnamon comic window depart sport tongue stem coffee ridge box useful";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness kite genius way fine ice stable goddess maze window boil oxygen";
+var mnemonic = "praise pole sea milk riot patient style poverty virtual submit approve anger";

@@ -1,1 +1,1 @@
-var mnemonic = "baby siren sleep trial denial appear pill pond error online update turkey";
+var mnemonic = "swim hurt act feed public wrist embody start teach sauce bullet update";

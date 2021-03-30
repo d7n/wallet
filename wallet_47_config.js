@@ -1,1 +1,1 @@
-var mnemonic = "little earth decade stamp genuine supreme rib cave picture between tortoise vital";
+var mnemonic = "few police amazing lend club negative wrong flush choose royal bid hour";
