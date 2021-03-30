@@ -1,1 +1,1 @@
-var mnemonic = "clever vintage crane use cousin destroy december legal wish spin gravity they";
+var mnemonic = "fine dad evoke mail rescue cactus vacant jelly interest glad noise fiction";

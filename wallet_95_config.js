@@ -1,1 +1,1 @@
-var mnemonic = "honey rule bring girl mutual olympic unlock movie same mandate want edge";
+var mnemonic = "laptop abandon route lock material arrow immune thing island find engine leopard";

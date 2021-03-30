@@ -1,1 +1,1 @@
-var mnemonic = "rule clog behave claw refuse sadness glory side merge word never slight";
+var mnemonic = "wine doll alley else always bamboo speed kidney casino monkey ecology lab";

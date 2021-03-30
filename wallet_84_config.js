@@ -1,1 +1,1 @@
-var mnemonic = "hand bonus recycle inflict half awful common bike glare loyal avocado decade";
+var mnemonic = "gasp inspire patrol napkin rain pony ensure truth join expire embark nuclear";

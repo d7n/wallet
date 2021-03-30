@@ -1,1 +1,1 @@
-var mnemonic = "goddess cash state elephant lesson soft weasel submit maid keen gossip brand";
+var mnemonic = "water easily ship quality attend roast cattle timber offer shell turtle into";

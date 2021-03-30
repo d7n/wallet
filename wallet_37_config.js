@@ -1,1 +1,1 @@
-var mnemonic = "brush west entry dice rubber track add sphere fiction rifle cup family";
+var mnemonic = "mercy notice magic hospital hill journey half soul portion swallow ability exchange";

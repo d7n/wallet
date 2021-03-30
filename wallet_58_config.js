@@ -1,1 +1,1 @@
-var mnemonic = "invest super city pyramid glimpse aware giggle pyramid planet tilt village always";
+var mnemonic = "west crime symbol fan peace salute project patrol speed water laugh behind";

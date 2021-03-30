@@ -1,1 +1,1 @@
-var mnemonic = "rubber year usage behind romance boost repeat funny cool switch build slim";
+var mnemonic = "denial unlock emerge right desert captain manage need prosper essence alcohol galaxy";

@@ -1,1 +1,1 @@
-var mnemonic = "filter input genius all feel demise tomato clever short quality soda health";
+var mnemonic = "letter taxi stomach remain erase dial stick error night dizzy journey trap";

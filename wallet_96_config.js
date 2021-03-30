@@ -1,1 +1,1 @@
-var mnemonic = "broccoli roast violin captain inner ceiling wish solid afford cloud bachelor have";
+var mnemonic = "blast farm what captain stereo weird sphere delay help head media uncle";

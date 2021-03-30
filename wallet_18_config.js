@@ -1,1 +1,1 @@
-var mnemonic = "gentle luggage horse clever coyote penalty asthma cradle neither forget unhappy garlic";
+var mnemonic = "issue trap good select curious inflict draw harsh kind pudding marriage enter";

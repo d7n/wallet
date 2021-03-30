@@ -1,1 +1,1 @@
-var mnemonic = "height subject spawn deposit orbit foster hill rocket dance twist learn amazing";
+var mnemonic = "night wing sting strong reflect village wrap health job allow open brave";

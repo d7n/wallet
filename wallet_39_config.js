@@ -1,1 +1,1 @@
-var mnemonic = "vast puppy north load season grass walnut nature field reject same abstract";
+var mnemonic = "regular tongue buddy rescue biology give ritual say inflict glance reopen sock";

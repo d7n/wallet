@@ -1,1 +1,1 @@
-var mnemonic = "table order absent female color dumb window orphan soon garbage track matrix";
+var mnemonic = "unusual dust until cement employ cliff phone ordinary trend define party bracket";

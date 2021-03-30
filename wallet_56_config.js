@@ -1,1 +1,1 @@
-var mnemonic = "little focus cotton bachelor drift rely net broken maximum genuine area ticket";
+var mnemonic = "proud eyebrow toast live pool extend purchase dizzy boss plate brief enable";

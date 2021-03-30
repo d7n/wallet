@@ -1,1 +1,1 @@
-var mnemonic = "gate wall bottom orient thumb cheap dragon album wasp erode mail describe";
+var mnemonic = "inspire siege alley trade vault radio scene name clap wet merry tunnel";

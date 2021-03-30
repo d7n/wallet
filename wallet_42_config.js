@@ -1,1 +1,1 @@
-var mnemonic = "chaos way canal depth harsh sketch margin since universe valid tool sound";
+var mnemonic = "slice square whale energy slab orbit odor top win virtual angry ankle";

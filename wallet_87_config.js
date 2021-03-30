@@ -1,1 +1,1 @@
-var mnemonic = "blouse race head depart noble alone chapter chase recipe choice bring cube";
+var mnemonic = "envelope humble fade muscle bundle taste fitness design verify void cat winter";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic pioneer random vintage put round cupboard pizza initial romance seek lawn";
+var mnemonic = "exact series cute unaware industry actual habit floor antenna ozone roast swallow";

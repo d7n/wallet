@@ -1,1 +1,1 @@
-var mnemonic = "impact into bridge tunnel unfold own horror loop rocket exchange zebra time";
+var mnemonic = "garbage girl distance whisper maze pair domain fury check another render inside";

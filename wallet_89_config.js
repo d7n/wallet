@@ -1,1 +1,1 @@
-var mnemonic = "tone tone outside general student help electric coyote country soccer stay bachelor";
+var mnemonic = "design then library grant problem soap park oxygen defy person burger large";

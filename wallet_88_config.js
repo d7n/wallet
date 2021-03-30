@@ -1,1 +1,1 @@
-var mnemonic = "lucky tonight brisk will universe build hand lumber rack lens control enrich";
+var mnemonic = "lonely private social milk act situate harsh creek disorder drip rubber slice";

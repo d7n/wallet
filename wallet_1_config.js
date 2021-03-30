@@ -1,1 +1,1 @@
-var mnemonic = "private upon brass capital will bounce bullet catch future voyage forget entry";
+var mnemonic = "margin fall armed arm pilot upper reflect potato invest heart broom kiss";

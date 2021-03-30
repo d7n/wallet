@@ -1,1 +1,1 @@
-var mnemonic = "ticket alien pilot foil share vote federal helmet acquire upset energy reopen";
+var mnemonic = "evoke blame soft lounge sound zone wing winter leaf add monster unveil";

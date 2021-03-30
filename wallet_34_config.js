@@ -1,1 +1,1 @@
-var mnemonic = "bike benefit insane entire advice winner mouse prosper student assault steak torch";
+var mnemonic = "bitter virus metal smile harbor debris ritual matrix soup swing mango people";

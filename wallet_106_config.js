@@ -1,1 +1,1 @@
-var mnemonic = "surprise update battle wonder flavor fashion rabbit scatter vote glad mad afford";
+var mnemonic = "grape panther only cable hamster middle axis weekend acquire slice sun outer";

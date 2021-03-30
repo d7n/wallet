@@ -1,1 +1,1 @@
-var mnemonic = "palm match walk decade other daring put soldier zoo brain addict anchor";
+var mnemonic = "fresh river vendor excuse rebuild space drip napkin spoil emerge wrist inner";

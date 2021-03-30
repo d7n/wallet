@@ -1,1 +1,1 @@
-var mnemonic = "defy bag you nest angry cause more together ability eternal man fantasy";
+var mnemonic = "next peanut sugar priority ring glad car unusual egg duck arena music";

@@ -1,1 +1,1 @@
-var mnemonic = "million appear sunny cargo depend salmon off stairs universe divorce satoshi embrace";
+var mnemonic = "lens quote transfer image caution bunker ship air chest picture rival sound";

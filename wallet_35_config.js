@@ -1,1 +1,1 @@
-var mnemonic = "please churn olympic genius long despair ritual spot moon execute pair angry";
+var mnemonic = "slim harbor surprise absorb brisk sight arrow truly milk muscle put cat";

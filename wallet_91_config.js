@@ -1,1 +1,1 @@
-var mnemonic = "famous tribe run bitter version inform kind south veteran liquid minimum cloth";
+var mnemonic = "badge borrow shine rule doll nephew piano enforce company bridge gun kidney";

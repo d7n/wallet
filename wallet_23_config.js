@@ -1,1 +1,1 @@
-var mnemonic = "close draw column model school woman involve salmon jewel tobacco water hour";
+var mnemonic = "glow deposit twin false tide fuel junk kite parrot owner field focus";

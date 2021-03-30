@@ -1,1 +1,1 @@
-var mnemonic = "jealous tooth town drop green retreat later various obey brief yellow engine";
+var mnemonic = "cute admit kangaroo rebel envelope beauty problem assist loan staff topic skin";

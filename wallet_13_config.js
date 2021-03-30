@@ -1,1 +1,1 @@
-var mnemonic = "thing average above float biology rice earn rigid wave refuse witness panda";
+var mnemonic = "exercise address egg poverty evoke swift appear exhaust surround direct kite circle";

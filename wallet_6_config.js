@@ -1,1 +1,1 @@
-var mnemonic = "early light gossip horror pool start cram cash hungry cruise accident that";
+var mnemonic = "coconut element speed fresh another food hello morning injury hub weather flash";

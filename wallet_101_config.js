@@ -1,1 +1,1 @@
-var mnemonic = "climb swap dice crucial favorite veteran system ordinary glide evil cannon write";
+var mnemonic = "online thumb noise replace horror under bind april energy bulk mutual avocado";

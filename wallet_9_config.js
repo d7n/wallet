@@ -1,1 +1,1 @@
-var mnemonic = "grape tenant joke release famous verb base symbol tenant spray finger dance";
+var mnemonic = "treat valve select cup circle build neutral immense rib feature dice vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "alpha above limit stomach wool season expose wrap select drop board finish";
+var mnemonic = "era cream dolphin expose enact rack table bind brown universe three section";

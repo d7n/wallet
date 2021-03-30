@@ -1,1 +1,1 @@
-var mnemonic = "thrive merge decline student trouble filter knife spice fish flame curve spread";
+var mnemonic = "school capable about search doll remind casino code penalty topple gorilla coil";

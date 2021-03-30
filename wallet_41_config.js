@@ -1,1 +1,1 @@
-var mnemonic = "jungle text bottom seven rely person edit life fish drum bright future";
+var mnemonic = "filter pipe friend erupt garlic bar vault donkey pledge cram distance fork";

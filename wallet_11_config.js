@@ -1,1 +1,1 @@
-var mnemonic = "steak tuna alert marble play stadium phone usual slim discover record stool";
+var mnemonic = "fit pig once diesel lamp black icon cost cave remove license major";

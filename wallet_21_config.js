@@ -1,1 +1,1 @@
-var mnemonic = "decorate leaf robot decline skull orbit remain client nation short regular around";
+var mnemonic = "baby work physical purity like bright vapor seed palace idle excite awful";

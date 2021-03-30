@@ -1,1 +1,1 @@
-var mnemonic = "olympic fossil endless gravity clown chat under ocean trick into school iron";
+var mnemonic = "faint tomato jaguar season twice fire dolphin bright figure almost sketch habit";

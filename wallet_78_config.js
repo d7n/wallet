@@ -1,1 +1,1 @@
-var mnemonic = "mercy foam ensure advice ozone execute depth secret because audit arrange guilt";
+var mnemonic = "cart output defense ball shy suit canvas top consider normal forest area";

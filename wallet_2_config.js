@@ -1,1 +1,1 @@
-var mnemonic = "roast rate peace casino plunge pen child snow project razor fitness fine";
+var mnemonic = "debate boat dawn eternal bounce about wave kitchen organ sell donor people";

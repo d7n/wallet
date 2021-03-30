@@ -1,1 +1,1 @@
-var mnemonic = "exhibit swamp draft purity truly genius extra plastic pyramid adjust lawn clinic";
+var mnemonic = "innocent palace total obtain slow trust open robust unknown oak diamond mountain";

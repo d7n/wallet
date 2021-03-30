@@ -1,1 +1,1 @@
-var mnemonic = "grow rich similar duck embark wine improve unlock blush satoshi away shrimp";
+var mnemonic = "food avocado please faculty priority crouch jungle scare model knock start seed";

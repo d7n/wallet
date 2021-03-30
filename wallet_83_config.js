@@ -1,1 +1,1 @@
-var mnemonic = "bag blind cluster reduce lift youth once bracket spirit wave bomb music";
+var mnemonic = "smile expire tonight autumn grow erupt glass lab ramp stick mail capable";

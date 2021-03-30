@@ -1,1 +1,1 @@
-var mnemonic = "eternal film during jar way banana lonely pig inject until adapt choose";
+var mnemonic = "enhance length illegal door grocery nut sheriff east all position spread warm";

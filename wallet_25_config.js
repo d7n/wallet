@@ -1,1 +1,1 @@
-var mnemonic = "before wealth connect usual team horse hurdle battle honey comic depart monster";
+var mnemonic = "trigger unit force fatal reason speak real spray crazy behind anger monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "bachelor uncle trip merge endless mesh input fog chaos mention combine festival";
+var mnemonic = "switch silk chair nerve chest apart tape flush water drama degree arrive";

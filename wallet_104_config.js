@@ -1,1 +1,1 @@
-var mnemonic = "swarm amateur excuse swim half theme affair merge gravity like lesson impose";
+var mnemonic = "panther pitch wage post quick grain swear slice song evidence latin among";

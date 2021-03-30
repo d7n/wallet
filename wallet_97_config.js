@@ -1,1 +1,1 @@
-var mnemonic = "wonder hospital tragic ketchup lady tank keep lunar explain slush bottom earn";
+var mnemonic = "blind click remember deliver vacant waste solid enlist once thunder kitchen brown";

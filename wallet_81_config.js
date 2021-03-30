@@ -1,1 +1,1 @@
-var mnemonic = "rain mouse spin swap people pudding trick swarm sea rescue chief manage";
+var mnemonic = "half profit zoo depend blouse shy alert echo island someone eternal sauce";

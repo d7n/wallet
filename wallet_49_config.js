@@ -1,1 +1,1 @@
-var mnemonic = "atom pipe people husband trim will empty husband salon slush vivid budget";
+var mnemonic = "purity nation better enter system load bacon bicycle matter become student slow";

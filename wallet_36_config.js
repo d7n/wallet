@@ -1,1 +1,1 @@
-var mnemonic = "program indoor inside stick miss pear dove orange december drip adjust pottery";
+var mnemonic = "umbrella maze vessel clip pen garlic grit victory gap admit stumble media";

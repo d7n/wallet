@@ -1,1 +1,1 @@
-var mnemonic = "trust device raise net live badge guide foster hamster arctic fine volume";
+var mnemonic = "decide regret monitor day menu float announce slab repair address finger nerve";

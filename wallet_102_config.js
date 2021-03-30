@@ -1,1 +1,1 @@
-var mnemonic = "tag speed mosquito road know desk marriage bargain engage gun found frozen";
+var mnemonic = "control pattern exist obtain stand velvet pill shield retreat inside permit exhibit";

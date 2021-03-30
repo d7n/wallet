@@ -1,1 +1,1 @@
-var mnemonic = "develop oxygen patrol various month fiber vapor general recycle luxury snap crouch";
+var mnemonic = "theme broccoli habit bitter cement check join what then north inch diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "chest pride crisp apology one force museum asthma never skin skull zero";
+var mnemonic = "seed judge spell badge caught dinner erase conduct potato science parent exhaust";

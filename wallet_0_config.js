@@ -1,1 +1,1 @@
-var mnemonic = "father chalk math remove tree sort unknown public expect visit zone indoor";
+var mnemonic = "energy oppose lonely family camera joy drill hint dilemma home side purse";

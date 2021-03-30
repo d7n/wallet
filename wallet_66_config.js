@@ -1,1 +1,1 @@
-var mnemonic = "develop weird pond destroy feel guilt cloud peanut devote release network vocal";
+var mnemonic = "sign hair enhance utility churn scout twenty reward pledge catalog promote right";

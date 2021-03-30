@@ -1,1 +1,1 @@
-var mnemonic = "vague fence kiss produce solve sock choose valley grace cactus retire armed";
+var mnemonic = "deposit only jaguar fury logic april magic lottery priority method guilt people";

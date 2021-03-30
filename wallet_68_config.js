@@ -1,1 +1,1 @@
-var mnemonic = "say sell enemy sport day skin sibling belt page donkey beach royal";
+var mnemonic = "woman dice fatigue mistake crew analyst guitar debate ride convince pass improve";

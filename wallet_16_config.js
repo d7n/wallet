@@ -1,1 +1,1 @@
-var mnemonic = "dance cluster expand deer rifle lunar ceiling empower ladder fluid mixed often";
+var mnemonic = "usual feature pipe spy sketch atom ranch when blossom bone spy liquid";

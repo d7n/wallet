@@ -1,1 +1,1 @@
-var mnemonic = "civil unfold noise soon test sorry various traffic turn father sweet mind";
+var mnemonic = "wood hybrid guess unable march joy farm tuition daughter milk local unfold";

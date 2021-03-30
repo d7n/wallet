@@ -1,1 +1,1 @@
-var mnemonic = "raw juice metal dune beach remain long diesel cook settle desk green";
+var mnemonic = "same catalog pill forget clock soccer ceiling dilemma warfare proof age crime";

@@ -1,1 +1,1 @@
-var mnemonic = "erupt oil blast mesh rich put enrich brave bring adjust trouble merry";
+var mnemonic = "fossil season laundry once endorse upper domain catalog lemon topple exist unveil";

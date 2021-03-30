@@ -1,1 +1,1 @@
-var mnemonic = "unable garage wreck next whale force error label foster nasty profit frozen";
+var mnemonic = "various bronze roof win history winner diesel spray same little garlic theory";

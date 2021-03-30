@@ -1,1 +1,1 @@
-var mnemonic = "record flag hand waste market cable interest milk smart crew river bus";
+var mnemonic = "oil jungle people raven clap habit nest bid credit wonder oven idea";

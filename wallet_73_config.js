@@ -1,1 +1,1 @@
-var mnemonic = "gadget winner duty pull enlist yard churn clip ladder parrot gospel humor";
+var mnemonic = "humor buzz young unfair clock select word analyst inch unlock borrow road";

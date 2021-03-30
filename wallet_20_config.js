@@ -1,1 +1,1 @@
-var mnemonic = "narrow develop office caution afford dice clerk soccer narrow atom tray armed";
+var mnemonic = "embrace cute require brown runway crawl certain shrug zoo vibrant slender kick";

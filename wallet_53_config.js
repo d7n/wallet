@@ -1,1 +1,1 @@
-var mnemonic = "large vault pretty story will want one smoke lunch crime tray inside";
+var mnemonic = "genre island antique afraid goddess diagram kitten police agent blade region poverty";

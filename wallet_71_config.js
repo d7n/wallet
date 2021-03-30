@@ -1,1 +1,1 @@
-var mnemonic = "mandate satisfy hub vast museum vast wink build cruise transfer volcano theory";
+var mnemonic = "meadow person senior letter adult actor smoke rate belt style sad uniform";

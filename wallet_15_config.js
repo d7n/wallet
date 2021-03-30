@@ -1,1 +1,1 @@
-var mnemonic = "hidden lonely two erupt cry seat allow heart salute toss inmate keep";
+var mnemonic = "emerge play try suffer monkey light budget vital action catch crush jewel";

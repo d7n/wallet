@@ -1,1 +1,1 @@
-var mnemonic = "symptom lunar pottery identify van jeans blame senior gadget endorse leader muffin";
+var mnemonic = "balance shed balance soft reveal bundle drip fortune detail matrix increase tilt";

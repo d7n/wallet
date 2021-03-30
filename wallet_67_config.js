@@ -1,1 +1,1 @@
-var mnemonic = "trash job favorite hour please fitness glare betray whip daring nation tuna";
+var mnemonic = "debris firm breeze nuclear jazz where lion accuse gown spot bus relax";

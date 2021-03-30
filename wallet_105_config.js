@@ -1,1 +1,1 @@
-var mnemonic = "skirt wheel impact young poet penalty neglect orange artefact enter drama shield";
+var mnemonic = "coach nose baby coach acquire shuffle turkey matter utility sense hollow mutual";

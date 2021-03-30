@@ -1,1 +1,1 @@
-var mnemonic = "asthma share fossil common artwork enough anchor unfold human eyebrow very mistake";
+var mnemonic = "poverty expect tumble session luggage lonely parrot weapon clown hour vivid confirm";

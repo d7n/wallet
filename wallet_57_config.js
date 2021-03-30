@@ -1,1 +1,1 @@
-var mnemonic = "dolphin tail parent gadget lesson fruit present fury spell lecture leisure scrub";
+var mnemonic = "exclude pipe pledge castle attack blast uphold misery border trust that fragile";

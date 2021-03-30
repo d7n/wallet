@@ -1,1 +1,1 @@
-var mnemonic = "dry hard spirit regret anger flame surround leopard orange volcano boring edge";
+var mnemonic = "program innocent proof other between whip provide struggle card they brave orphan";

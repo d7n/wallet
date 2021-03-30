@@ -1,1 +1,1 @@
-var mnemonic = "bar limb top crop faith burst detail average title cover slender danger";
+var mnemonic = "ginger differ service field fee estate permit rose curtain price february ordinary";

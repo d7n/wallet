@@ -1,1 +1,1 @@
-var mnemonic = "boss cushion vehicle pipe sting position garment viable rally combine race super";
+var mnemonic = "review citizen acid swing luggage defense tumble control must furnace prepare mixed";

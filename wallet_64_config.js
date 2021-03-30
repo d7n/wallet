@@ -1,1 +1,1 @@
-var mnemonic = "pulp trouble invest robot great salad tragic group convince eager neck uncle";
+var mnemonic = "truly anchor person dumb flip face cool release world convince artwork engage";

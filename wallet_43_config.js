@@ -1,1 +1,1 @@
-var mnemonic = "judge bread quick bonus cabbage wink cricket salad option side mask gallery";
+var mnemonic = "smart annual north luggage budget ticket flavor domain sniff scrap horror heart";

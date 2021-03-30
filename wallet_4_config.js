@@ -1,1 +1,1 @@
-var mnemonic = "wine test neither jacket panda omit purpose balcony job strike swear sting";
+var mnemonic = "hair manual trap crisp artefact useful hybrid nation animal table rifle charge";

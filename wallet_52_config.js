@@ -1,1 +1,1 @@
-var mnemonic = "goddess fit try cream merry ghost drop stereo result arrange pistol tackle";
+var mnemonic = "address draft cliff planet sell gain joy fine solve easy spring crystal";

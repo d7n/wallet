@@ -1,1 +1,1 @@
-var mnemonic = "dash atom bar gasp loud field solar remove mad grief garment truly";
+var mnemonic = "churn stool rent raccoon soda hamster member twin depth inspire inside myself";
