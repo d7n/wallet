@@ -1,1 +1,1 @@
-var mnemonic = "enhance chef slice burden memory vast winner cotton cigar bring flower climb";
+var mnemonic = "normal minor palm decade melt ritual custom local gain present boat crop";

@@ -1,1 +1,1 @@
-var mnemonic = "absorb sign cloud august monitor pave eternal lunch upgrade point deliver disorder";
+var mnemonic = "help point blanket ladder lawsuit pool odor finger tornado suspect method vivid";

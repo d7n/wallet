@@ -1,1 +1,1 @@
-var mnemonic = "flag wise negative audit smoke frozen knock order glare crush bus bid";
+var mnemonic = "march famous spatial unveil surround enlist among swamp junk egg struggle fresh";

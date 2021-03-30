@@ -1,1 +1,1 @@
-var mnemonic = "knife pistol crew puppy trap view champion truck cereal weapon march permit";
+var mnemonic = "tongue seminar alley scatter trigger satoshi chapter work powder only keen develop";

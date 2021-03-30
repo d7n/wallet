@@ -1,1 +1,1 @@
-var mnemonic = "thank half derive rail common timber radar object stool now trip afford";
+var mnemonic = "glimpse cargo knock speed urge guilt gadget crop sleep practice cake volume";

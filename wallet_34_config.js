@@ -1,1 +1,1 @@
-var mnemonic = "access fence reopen verb okay sort flame tiger unknown nest buzz album";
+var mnemonic = "lab year essence eight chat clog twist sun album crawl number opera";

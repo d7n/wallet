@@ -1,1 +1,1 @@
-var mnemonic = "enrich million repair tube regular brown flag artwork garment cube wonder inmate";
+var mnemonic = "truck pyramid violin hour desert cart youth romance fatal come library swamp";

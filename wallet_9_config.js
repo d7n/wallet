@@ -1,1 +1,1 @@
-var mnemonic = "swarm device depend guide popular canoe script crystal reopen vibrant knife airport";
+var mnemonic = "feature apology oven wonder neglect crazy jelly oppose immune fence insect outdoor";

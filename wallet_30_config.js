@@ -1,1 +1,1 @@
-var mnemonic = "hour keep neck blood spawn library near arch input order riot cement";
+var mnemonic = "major fatigue onion urge satisfy hammer stadium antenna satisfy consider used gadget";

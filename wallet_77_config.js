@@ -1,1 +1,1 @@
-var mnemonic = "company they bunker annual private axis middle add remind worth curious praise";
+var mnemonic = "lift riot table arrive fetch capable replace fault trumpet blouse rare ability";

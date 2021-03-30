@@ -1,1 +1,1 @@
-var mnemonic = "guard hair abstract wasp humble zebra team earn bronze glance bounce agree";
+var mnemonic = "interest inspire trick fat pool blush industry lobster cloth resource judge caution";

@@ -1,1 +1,1 @@
-var mnemonic = "melody trim muscle fall regular deputy wait castle exhibit under census travel";
+var mnemonic = "fiction fitness license kit water either essence baby coffee hand erode pulp";

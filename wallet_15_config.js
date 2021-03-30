@@ -1,1 +1,1 @@
-var mnemonic = "joke fashion pass drop sweet chest true obey quality trade spell nice";
+var mnemonic = "forum under vessel bacon gravity still rich process marble alone scheme giant";

@@ -1,1 +1,1 @@
-var mnemonic = "review february struggle rookie pair rebel vendor divert flame winter grape oak";
+var mnemonic = "toast believe entry liar puzzle sniff summer shed concert hen attitude cabin";

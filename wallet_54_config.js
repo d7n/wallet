@@ -1,1 +1,1 @@
-var mnemonic = "nation valley monster federal giggle stable fire run burger ancient way list";
+var mnemonic = "until quarter silly govern wish wedding nest place inner build tumble attack";

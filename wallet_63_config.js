@@ -1,1 +1,1 @@
-var mnemonic = "letter defy absorb machine nature report borrow mule riot embrace label pigeon";
+var mnemonic = "mystery ahead assume exist soul entire require share pass penalty return economy";

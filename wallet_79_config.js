@@ -1,1 +1,1 @@
-var mnemonic = "medal culture fury knee casual nuclear manage awkward dice jar weather illegal";
+var mnemonic = "actor creek fall innocent slam daughter motion clean guess area portion win";

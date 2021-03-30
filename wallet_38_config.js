@@ -1,1 +1,1 @@
-var mnemonic = "blanket legal cave parent they flip web oval boil habit unique image";
+var mnemonic = "harbor mention humble service adult diamond media curtain joy essence spy throw";

@@ -1,1 +1,1 @@
-var mnemonic = "marble evolve slow velvet trade lamp among anger strong wire fog monitor";
+var mnemonic = "parent vanish donor parrot dish side more moment rotate spirit giggle penalty";

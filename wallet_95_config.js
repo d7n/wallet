@@ -1,1 +1,1 @@
-var mnemonic = "help tilt share smart coffee spawn wrap budget address reason trick dynamic";
+var mnemonic = "prison display fix enact innocent crater sock need life place version antique";

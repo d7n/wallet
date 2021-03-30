@@ -1,1 +1,1 @@
-var mnemonic = "bring abuse enjoy clog six monitor cattle flight ranch century other slight";
+var mnemonic = "lab mango powder paddle rebel nothing congress desk company slide biology quality";

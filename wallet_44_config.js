@@ -1,1 +1,1 @@
-var mnemonic = "state adjust scare happy predict solution twist merit day flag forward coin";
+var mnemonic = "slide crisp double alley purpose pioneer supply involve brother wolf cupboard stay";

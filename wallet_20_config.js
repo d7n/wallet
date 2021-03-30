@@ -1,1 +1,1 @@
-var mnemonic = "beef decorate fish climb great water own bean defy leave turtle student";
+var mnemonic = "other process major usage yard chicken paddle seven swarm soap uncover embody";

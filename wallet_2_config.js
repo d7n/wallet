@@ -1,1 +1,1 @@
-var mnemonic = "inquiry lens exhibit siren cave toast manual possible grid poem silk race";
+var mnemonic = "final canyon credit brass insect spread eager december much obtain neither observe";

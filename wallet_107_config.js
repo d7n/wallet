@@ -1,1 +1,1 @@
-var mnemonic = "major empower fiction hero aisle wild coral wife stone worry route adult";
+var mnemonic = "select expose finger lottery brief public iron increase depend never stool coffee";

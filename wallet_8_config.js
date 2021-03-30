@@ -1,1 +1,1 @@
-var mnemonic = "mean system crunch analyst weekend route ocean ketchup lunar neglect grab describe";
+var mnemonic = "click danger begin hungry almost blush lock biology lecture coyote exit absurd";

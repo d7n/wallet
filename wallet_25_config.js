@@ -1,1 +1,1 @@
-var mnemonic = "asset level child later garage install tank clarify where clarify toward position";
+var mnemonic = "length average wait more art case joke category minute theme profit good";

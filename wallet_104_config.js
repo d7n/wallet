@@ -1,1 +1,1 @@
-var mnemonic = "tone enhance oak exile divide knife avocado main edge drastic exit mule";
+var mnemonic = "cliff stage test rifle brush moon abstract peasant humor used craft juice";

@@ -1,1 +1,1 @@
-var mnemonic = "fit kid truck suspect safe october pass habit husband manage east tuna";
+var mnemonic = "close devote cat vintage slide video regret media girl shove clock prevent";

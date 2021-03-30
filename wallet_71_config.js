@@ -1,1 +1,1 @@
-var mnemonic = "alien verb credit trial acoustic pyramid music early hair type castle oxygen";
+var mnemonic = "skirt apology prefer curtain must gesture gown abuse option august follow hair";

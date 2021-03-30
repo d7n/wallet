@@ -1,1 +1,1 @@
-var mnemonic = "early desert poet way impulse record theme negative story wood siren good";
+var mnemonic = "final grab jaguar guess erode regret drink rack veteran kid diagram virus";

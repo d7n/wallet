@@ -1,1 +1,1 @@
-var mnemonic = "fly kind hospital reunion oppose cook planet usage creek fiction bomb lemon";
+var mnemonic = "ship ethics cause suit napkin empty clean arrive symptom neither stadium trust";

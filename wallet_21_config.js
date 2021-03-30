@@ -1,1 +1,1 @@
-var mnemonic = "exhaust attitude range project vendor key around rough manage slice double work";
+var mnemonic = "nice nothing powder file obtain height decline glance above blue tongue click";

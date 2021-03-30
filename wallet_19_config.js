@@ -1,1 +1,1 @@
-var mnemonic = "bulk census patient tongue thumb divorce nest leisure slam awake daring coconut";
+var mnemonic = "jealous crash glass divert gate december angle garlic pioneer can anxiety uniform";

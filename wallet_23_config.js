@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon cram canoe rich leaf chaos nuclear tattoo fever main wood document";
+var mnemonic = "govern work truck birth blush brick ride tuna social document angry bacon";

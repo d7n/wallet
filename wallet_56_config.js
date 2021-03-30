@@ -1,1 +1,1 @@
-var mnemonic = "trip ankle image flame senior birth original cement broken auction kangaroo raccoon";
+var mnemonic = "scatter ethics push hand public endless find relief once detail theory merry";

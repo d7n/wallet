@@ -1,1 +1,1 @@
-var mnemonic = "fence frown lift announce brand sound couch photo situate rubber morning casino";
+var mnemonic = "fly upon inquiry right modify obscure unaware swallow man merit stem fuel";

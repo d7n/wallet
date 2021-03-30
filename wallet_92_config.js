@@ -1,1 +1,1 @@
-var mnemonic = "inherit solid bachelor kick cotton bulb symptom ignore pond story imitate spike";
+var mnemonic = "all chapter scout cloth board truck elegant culture relax alarm offer upper";

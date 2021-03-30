@@ -1,1 +1,1 @@
-var mnemonic = "define kid water alien light thumb candy access cycle spoil narrow busy";
+var mnemonic = "final danger heart party pigeon match bomb dash duty sail bundle trick";

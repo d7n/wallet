@@ -1,1 +1,1 @@
-var mnemonic = "thrive record travel accuse jar dry oblige summer tide liar rescue that";
+var mnemonic = "place blush club end metal design excess rural dress above lucky aerobic";

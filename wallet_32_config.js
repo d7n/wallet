@@ -1,1 +1,1 @@
-var mnemonic = "happy accident ski paper rib pudding cool access slim mystery mirror ensure";
+var mnemonic = "just affair menu fish point core own water cream admit opinion jungle";

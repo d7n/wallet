@@ -1,1 +1,1 @@
-var mnemonic = "lonely excuse coyote connect clown shaft genuine salt test crime tower attack";
+var mnemonic = "dune fun wise dumb valid romance dawn science prefer believe tired shift";

@@ -1,1 +1,1 @@
-var mnemonic = "clerk reflect universe settle excite toe chief unable analyst erupt twice embrace";
+var mnemonic = "leisure legal jazz victory garbage alone into equal gravity rule story mind";

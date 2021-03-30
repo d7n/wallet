@@ -1,1 +1,1 @@
-var mnemonic = "tent program gap pink cancel tunnel general maze muscle hero mutual wage";
+var mnemonic = "consider metal pyramid pluck fragile virus final silent truck control term crew";

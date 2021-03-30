@@ -1,1 +1,1 @@
-var mnemonic = "maze card april oyster slim aware mimic busy globe swim galaxy convince";
+var mnemonic = "gap reduce misery punch plastic flower upon screen vocal give put vicious";

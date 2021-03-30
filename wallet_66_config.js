@@ -1,1 +1,1 @@
-var mnemonic = "reward project rival ketchup orient bachelor page vivid trend describe humble season";
+var mnemonic = "thunder cluster subject mushroom print woman enable shed unable wheat hamster sense";

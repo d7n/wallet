@@ -1,1 +1,1 @@
-var mnemonic = "turn brain flip enlist hawk kitten expire garage great lens sting clog";
+var mnemonic = "chimney poverty arrest machine enough leg loud throw genuine near jump sell";

@@ -1,1 +1,1 @@
-var mnemonic = "power resource game drive test agree destroy wheat adapt celery citizen creek";
+var mnemonic = "rotate capable skill excite husband stomach purchase august around match caught unusual";

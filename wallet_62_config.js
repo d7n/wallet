@@ -1,1 +1,1 @@
-var mnemonic = "virus erosion diagram drum shrimp teach celery swear session book endorse scout";
+var mnemonic = "code where tennis coffee coil ten laundry unaware public scrub sketch gold";

@@ -1,1 +1,1 @@
-var mnemonic = "loop hobby output pupil moment brief lock veteran kitten wrap tackle year";
+var mnemonic = "little frame mix security whisper brick option cupboard burst thing peanut fan";

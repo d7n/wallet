@@ -1,1 +1,1 @@
-var mnemonic = "medal clump ribbon evil aim allow beyond recipe stem false sugar gate";
+var mnemonic = "shaft combine pigeon viable spawn alcohol armed olive transfer kitten autumn decline";

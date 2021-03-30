@@ -1,1 +1,1 @@
-var mnemonic = "gather exact elevator flight junior solve harbor beauty because kidney stand gasp";
+var mnemonic = "remind water work foster pitch moment virus seek onion festival fantasy pulp";

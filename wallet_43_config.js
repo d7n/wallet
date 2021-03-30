@@ -1,1 +1,1 @@
-var mnemonic = "wrong apple sunset clay laugh soda absurd cherry deer loud proud journey";
+var mnemonic = "reflect decorate exit clay pledge century flame toddler hand sketch insect pattern";

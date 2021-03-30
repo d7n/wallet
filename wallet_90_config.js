@@ -1,1 +1,1 @@
-var mnemonic = "gun twelve boy retire approve bulb law congress juice there stock various";
+var mnemonic = "napkin ecology position desert escape filter creek pear glow hockey vicious curve";

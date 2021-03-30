@@ -1,1 +1,1 @@
-var mnemonic = "already able blue soft artwork bird blood few endorse foot labor tumble";
+var mnemonic = "phone egg wolf salmon enemy smooth nominee midnight very slice present coral";

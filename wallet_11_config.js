@@ -1,1 +1,1 @@
-var mnemonic = "loop cute buffalo toward embark tortoise opinion message minor attend december file";
+var mnemonic = "peasant high flag answer also spirit raw inquiry floor ketchup pluck hospital";

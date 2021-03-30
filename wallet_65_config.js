@@ -1,1 +1,1 @@
-var mnemonic = "piano company knife album assume country genuine recipe lemon cheap vacant pen";
+var mnemonic = "party gold tiger obey slice consider wrap armed city mad aerobic waste";

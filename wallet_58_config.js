@@ -1,1 +1,1 @@
-var mnemonic = "hundred trick coil salmon gaze choose lend stock mask balcony decline merge";
+var mnemonic = "biology eight embrace hood ranch reform since holiday floor hood offer around";

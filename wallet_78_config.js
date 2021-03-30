@@ -1,1 +1,1 @@
-var mnemonic = "unveil aspect slab split aunt habit reopen suggest struggle pitch soda ill";
+var mnemonic = "ski able element cruel twice animal blood mobile hazard abstract phone wheat";

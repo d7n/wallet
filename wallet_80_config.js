@@ -1,1 +1,1 @@
-var mnemonic = "peasant pen engage fluid drama else cabin debate kiwi vehicle bless uniform";
+var mnemonic = "empower volcano warrior travel wild involve pottery ski real mountain motor inspire";

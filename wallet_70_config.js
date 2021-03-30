@@ -1,1 +1,1 @@
-var mnemonic = "city next spoil remind basic brown float actress tool vivid urge hire";
+var mnemonic = "tonight warfare amazing satoshi journey divorce eyebrow include off current soap lunch";

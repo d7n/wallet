@@ -1,1 +1,1 @@
-var mnemonic = "nephew shine imitate allow ritual keen brisk group kid vast raise river";
+var mnemonic = "such vapor walnut runway cradle lizard detail marine blanket random motor any";

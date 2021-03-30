@@ -1,1 +1,1 @@
-var mnemonic = "relax rail body exhaust display august liquid thing pen burger learn acoustic";
+var mnemonic = "warfare tomato thunder mask flag armor speed athlete evoke deliver disagree hard";

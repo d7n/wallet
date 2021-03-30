@@ -1,1 +1,1 @@
-var mnemonic = "almost stumble rate whip hello jaguar dynamic rug isolate warrior hunt illness";
+var mnemonic = "aspect birth carry number brass cactus keen approve soup must wool gas";

@@ -1,1 +1,1 @@
-var mnemonic = "profit sorry erase hammer tornado rich museum include reduce embark maze rain";
+var mnemonic = "teach deliver cinnamon grab long embark bacon bench immense lounge brush sail";

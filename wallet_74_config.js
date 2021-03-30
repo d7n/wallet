@@ -1,1 +1,1 @@
-var mnemonic = "online zoo cancel kingdom hip wood eternal cactus amount hunt shoot scrap";
+var mnemonic = "retreat remove mom skate name boat term similar fabric blade fee urban";

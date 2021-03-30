@@ -1,1 +1,1 @@
-var mnemonic = "unhappy cost tribe canyon spike good cloth potato left sport economy diamond";
+var mnemonic = "antenna cupboard flag forum own surround clutch diet enough diagram vehicle subway";

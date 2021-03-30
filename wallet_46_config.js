@@ -1,1 +1,1 @@
-var mnemonic = "key real razor manage wood myself puppy vessel mushroom giraffe neutral stumble";
+var mnemonic = "luxury capable mirror giggle quit nephew shed sibling clump doctor custom enhance";

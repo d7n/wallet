@@ -1,1 +1,1 @@
-var mnemonic = "hint vocal escape shed used duck sun scare sport company female change";
+var mnemonic = "beef case core admit flight tornado genuine suit hotel angle balcony output";

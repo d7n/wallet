@@ -1,1 +1,1 @@
-var mnemonic = "easily beyond elephant cargo leopard one empty mad rib must ecology bread";
+var mnemonic = "connect jeans raven arctic screen common hair sad gather brand wave picture";

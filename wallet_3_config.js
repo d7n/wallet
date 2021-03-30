@@ -1,1 +1,1 @@
-var mnemonic = "quantum sweet renew appear success hybrid extra cereal tide advance human demise";
+var mnemonic = "trim aspect child negative speak talent settle marriage clarify soap destroy prison";

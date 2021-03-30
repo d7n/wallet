@@ -1,1 +1,1 @@
-var mnemonic = "early mention plunge hobby gaze pigeon embody dad ribbon absurd book wife";
+var mnemonic = "nerve rule avoid razor wedding input example puppy ring flee task item";

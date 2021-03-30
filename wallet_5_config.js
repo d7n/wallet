@@ -1,1 +1,1 @@
-var mnemonic = "permit head ribbon innocent pitch emotion limb ability core much pumpkin rocket";
+var mnemonic = "humble furnace metal state prevent choose assist silent live ski square width";

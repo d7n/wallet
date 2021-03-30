@@ -1,1 +1,1 @@
-var mnemonic = "guitar glad bag color crawl issue female together term space jungle circle";
+var mnemonic = "basket only basket balcony bird require maze surface spare ill suit filter";

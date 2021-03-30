@@ -1,1 +1,1 @@
-var mnemonic = "perfect brick pumpkin sure cherry crowd index salmon april celery divorce trap";
+var mnemonic = "gospel matrix burden fresh impulse shiver certain pizza misery rail law novel";

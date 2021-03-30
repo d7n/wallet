@@ -1,1 +1,1 @@
-var mnemonic = "install basket fragile asset scale grit theme case loyal color autumn outer";
+var mnemonic = "genre hard salt current fluid bullet sign stove oven exact silent modify";

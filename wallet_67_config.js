@@ -1,1 +1,1 @@
-var mnemonic = "always gravity enemy nothing quote bar tone year soccer fox master home";
+var mnemonic = "assault country moon learn bus merge net destroy crane illness when hold";

@@ -1,1 +1,1 @@
-var mnemonic = "peasant goat tail rely slogan return struggle salute clerk pole pool quiz";
+var mnemonic = "write lava list poem phrase purchase ghost sad shock once again pencil";

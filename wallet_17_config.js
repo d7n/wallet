@@ -1,1 +1,1 @@
-var mnemonic = "tiger blade gloom nice member twice client orient glove column increase choose";
+var mnemonic = "awful master poem stove staff pear liquid fun mandate wreck window inside";

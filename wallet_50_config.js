@@ -1,1 +1,1 @@
-var mnemonic = "purity phone balance size doctor puppy output crowd leg island upset right";
+var mnemonic = "joke sauce endless rigid kangaroo arctic average anger waste hole pulse wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "february current second amused save coral grit bid tired argue giraffe series";
+var mnemonic = "kitten early will dial length poverty salt jacket economy test tornado ozone";

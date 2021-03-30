@@ -1,1 +1,1 @@
-var mnemonic = "veteran october embrace devote slice muscle group vocal deposit detail minimum enough";
+var mnemonic = "answer cereal burst rose trick plunge bright sauce ask ball extend monster";

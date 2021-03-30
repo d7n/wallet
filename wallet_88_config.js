@@ -1,1 +1,1 @@
-var mnemonic = "action mango unique unaware empty sting danger venture age ketchup hello exit";
+var mnemonic = "turkey mind sweet buffalo business arch silk vintage slice hurdle carbon harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "arrive panda ghost expire vital venue foam future edge member sudden arrange";
+var mnemonic = "view zone stairs script quick slender soup marriage task arena flush vibrant";

@@ -1,1 +1,1 @@
-var mnemonic = "submit nuclear couple round rebuild pulse type record lazy sunset chat cigar";
+var mnemonic = "sentence cigar album faith defy breeze unfold raise define giraffe online hidden";

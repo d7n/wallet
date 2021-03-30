@@ -1,1 +1,1 @@
-var mnemonic = "daring bargain mom margin hammer polar possible sail reflect tree layer purchase";
+var mnemonic = "control crowd utility saddle slush lens lyrics hotel sponsor scheme advance mad";

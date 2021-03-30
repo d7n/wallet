@@ -1,1 +1,1 @@
-var mnemonic = "work shy fresh ice ugly stick spray lucky menu box adult universe";
+var mnemonic = "recycle expect mango knee street office universe rebel ill harvest soldier noble";

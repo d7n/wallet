@@ -1,1 +1,1 @@
-var mnemonic = "evidence industry grape vacuum camp draw spirit easy home level hip brave";
+var mnemonic = "drama coffee response end boring arrest boring fatal shuffle impulse orient tube";

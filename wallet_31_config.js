@@ -1,1 +1,1 @@
-var mnemonic = "trick aerobic body mixture mouse sea various odor mango jump album cave";
+var mnemonic = "mango zero hollow code mechanic enact combine pilot lift slide stage key";

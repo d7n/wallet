@@ -1,1 +1,1 @@
-var mnemonic = "pelican hope expect select flip fun nation trend fun keep reward juice";
+var mnemonic = "wrap prefer install wait business during science rebel stick erode layer spider";

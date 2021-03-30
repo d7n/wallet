@@ -1,1 +1,1 @@
-var mnemonic = "slide glue voice clog pact check habit mountain elder fluid salt ensure";
+var mnemonic = "legend attack fortune trade warm orphan until private blade verify place couch";

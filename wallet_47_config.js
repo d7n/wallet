@@ -1,1 +1,1 @@
-var mnemonic = "alcohol emerge blue away they reform when sleep shoot wide nerve antique";
+var mnemonic = "avoid song pelican squirrel gaze hip hospital next bicycle asset flag shoulder";

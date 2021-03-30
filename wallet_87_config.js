@@ -1,1 +1,1 @@
-var mnemonic = "dynamic gather eager minimum raise ahead flower fruit slot damp verb answer";
+var mnemonic = "area circle wish parade zone pull have stairs gesture client pear retreat";
