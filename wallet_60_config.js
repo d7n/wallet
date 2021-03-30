@@ -1,1 +1,1 @@
-var mnemonic = "family pig bike side spring apart wealth sudden spray identify vast bird";
+var mnemonic = "great body more bulk exist clock maze shoe grain wool place climb";

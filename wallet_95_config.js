@@ -1,1 +1,1 @@
-var mnemonic = "good gossip three there together foot enlist feed make final insect unfair";
+var mnemonic = "bread resemble thank ancient strong knee uncover fold potato bullet scissors hungry";

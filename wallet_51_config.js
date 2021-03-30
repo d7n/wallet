@@ -1,1 +1,1 @@
-var mnemonic = "ribbon birth dignity hidden produce color spike embody heart depart lava gaze";
+var mnemonic = "theme rifle clean jacket trumpet marine senior dune bus chronic devote judge";

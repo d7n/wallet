@@ -1,1 +1,1 @@
-var mnemonic = "nature moral circle wolf crystal benefit canal erase ill hybrid narrow meadow";
+var mnemonic = "middle velvet drop cute soda cable group film tooth width century lens";

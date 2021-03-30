@@ -1,1 +1,1 @@
-var mnemonic = "rack machine clap planet barely high border husband dove box illness hollow";
+var mnemonic = "build strong there token quiz acquire load metal unique lyrics you simple";

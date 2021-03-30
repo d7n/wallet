@@ -1,1 +1,1 @@
-var mnemonic = "people agree foam social collect shallow symbol frequent ready gallery matter manual";
+var mnemonic = "inch poverty wedding tribe cause balance other banner rubber sadness caution rug";

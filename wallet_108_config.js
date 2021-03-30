@@ -1,1 +1,1 @@
-var mnemonic = "media stadium spare movie stomach shadow vicious shop nasty celery cliff fresh";
+var mnemonic = "attend gesture other speed grape phone festival waste chest meat unfair else";

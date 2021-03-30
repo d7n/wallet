@@ -1,1 +1,1 @@
-var mnemonic = "trick hat old shaft lizard fuel soft weapon open guitar reunion ticket";
+var mnemonic = "giraffe figure echo cricket ozone palace expand wood large flush blind betray";

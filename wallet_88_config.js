@@ -1,1 +1,1 @@
-var mnemonic = "arena range edit logic motion owner smart poverty flavor pet distance slide";
+var mnemonic = "pride network patrol strike bracket ritual pull maze kitten dust demise vivid";

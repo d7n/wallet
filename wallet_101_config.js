@@ -1,1 +1,1 @@
-var mnemonic = "job erase armor solve theory original illegal noodle room basket total merit";
+var mnemonic = "once evoke blind pipe finish gallery roast hawk gospel make stand tube";

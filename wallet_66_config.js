@@ -1,1 +1,1 @@
-var mnemonic = "envelope guide valve oven lumber warm enroll message impulse frog type oxygen";
+var mnemonic = "melody demand observe spy foam acquire female avocado april panic farm zebra";

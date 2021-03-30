@@ -1,1 +1,1 @@
-var mnemonic = "under imitate marine skirt upon hedgehog early few want crumble exhibit loop";
+var mnemonic = "october vault rapid avoid script trap tube camera amused exotic rabbit solution";

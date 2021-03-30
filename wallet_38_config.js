@@ -1,1 +1,1 @@
-var mnemonic = "test song into hip enjoy lab budget recipe proof minimum round body";
+var mnemonic = "cousin frown slush stage rubber electric indicate hover wet master manual mean";

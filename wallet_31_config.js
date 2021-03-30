@@ -1,1 +1,1 @@
-var mnemonic = "congress type vehicle orient pear mule patient ride faint toward obey today";
+var mnemonic = "team rifle knife sunset resist cement naive hand select shove game rate";

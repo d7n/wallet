@@ -1,1 +1,1 @@
-var mnemonic = "knife gentle indicate anchor scan student pond undo lyrics ecology crisp discover";
+var mnemonic = "attract owner raise resemble curtain number grab fury weird slim snack brisk";

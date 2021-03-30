@@ -1,1 +1,1 @@
-var mnemonic = "mad illegal skin wrong engage census harvest task alpha post chaos coconut";
+var mnemonic = "funny deal spider among liberty ready own gesture usual crunch truck convince";

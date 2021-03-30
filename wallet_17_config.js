@@ -1,1 +1,1 @@
-var mnemonic = "version normal glow pride payment remove accuse favorite state furnace produce brand";
+var mnemonic = "during opera plug divide rather intact angle grit bamboo object timber sunset";

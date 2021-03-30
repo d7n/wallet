@@ -1,1 +1,1 @@
-var mnemonic = "ahead volume emerge survey cotton network paddle enhance silent thumb fine energy";
+var mnemonic = "toilet impact ancient pull idle simple travel desk average math faint fat";

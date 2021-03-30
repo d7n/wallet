@@ -1,1 +1,1 @@
-var mnemonic = "blur brain trade champion rally balcony transfer else change slight insane tag";
+var mnemonic = "filter street emerge drink cargo crawl coach october evil fabric afford lumber";

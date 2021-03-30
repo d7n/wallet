@@ -1,1 +1,1 @@
-var mnemonic = "coffee hope town swing choice tank chair palace climb virus diet tell";
+var mnemonic = "better claw spirit people brain hold quantum lizard second emerge roast random";

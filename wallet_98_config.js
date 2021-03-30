@@ -1,1 +1,1 @@
-var mnemonic = "order master fine quarter lawn dish law solution man soft tunnel myself";
+var mnemonic = "spider between mutual beyond afford dragon lottery south replace eager result autumn";

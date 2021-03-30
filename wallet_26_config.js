@@ -1,1 +1,1 @@
-var mnemonic = "scorpion title sugar glove round delay elegant fat glue loyal bunker blur";
+var mnemonic = "become grit prize beef entire put strike van slide equip awesome deputy";

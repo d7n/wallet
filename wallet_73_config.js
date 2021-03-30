@@ -1,1 +1,1 @@
-var mnemonic = "horror guitar frozen draw error company ribbon scheme jewel describe degree tell";
+var mnemonic = "leader spirit taste sibling leave dismiss guitar visa range extend afford build";

@@ -1,1 +1,1 @@
-var mnemonic = "large hint fish venture satoshi mom mammal box section vapor never game";
+var mnemonic = "twist pigeon youth mystery predict nature behave attend key fortune list outdoor";

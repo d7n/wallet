@@ -1,1 +1,1 @@
-var mnemonic = "very alley alley oyster vendor hint put topple insane correct session hole";
+var mnemonic = "aim erase twist tennis squeeze powder knock eye garden toilet local bulb";

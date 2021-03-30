@@ -1,1 +1,1 @@
-var mnemonic = "nose same panel various swap avoid champion chunk music awkward rural clog";
+var mnemonic = "despair veteran slide piano organ split effort gate destroy way soldier jewel";

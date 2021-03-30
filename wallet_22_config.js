@@ -1,1 +1,1 @@
-var mnemonic = "adjust enact diesel aware sorry salon phone appear front deer math civil";
+var mnemonic = "sea creek add bag regret try guard essence pepper alley absorb cool";

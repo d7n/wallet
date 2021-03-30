@@ -1,1 +1,1 @@
-var mnemonic = "gasp kick tongue creek glue claw crunch click rescue fresh remind unlock";
+var mnemonic = "eye grocery reward lucky rare suspect venture defy breeze knock track raise";

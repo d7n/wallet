@@ -1,1 +1,1 @@
-var mnemonic = "multiply awesome custom wear coin rocket stumble fall shock expire jar replace";
+var mnemonic = "west rate gown edit rice access remove fancy amazing earn before impulse";

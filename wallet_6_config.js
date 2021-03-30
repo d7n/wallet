@@ -1,1 +1,1 @@
-var mnemonic = "attack ride expire fault subject claw ordinary dizzy law blame century fever";
+var mnemonic = "guard guess once team shrimp diesel stool pulp knife essay future lawsuit";

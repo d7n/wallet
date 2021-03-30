@@ -1,1 +1,1 @@
-var mnemonic = "rally prefer speed wire motor meat vivid already raise suggest way twenty";
+var mnemonic = "prize typical solution sense brown master domain canyon tornado scatter chef when";

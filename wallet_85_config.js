@@ -1,1 +1,1 @@
-var mnemonic = "cereal scissors wash vote future letter fence lab search surround screen yellow";
+var mnemonic = "escape give six payment film panda egg coil gaze chase faint umbrella";

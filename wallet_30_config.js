@@ -1,1 +1,1 @@
-var mnemonic = "laptop rent shop coin width inquiry shoot keep hedgehog addict frog tube";
+var mnemonic = "birth warm anger slide inside cry genre trim gorilla insect twenty response";

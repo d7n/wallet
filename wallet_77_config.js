@@ -1,1 +1,1 @@
-var mnemonic = "more champion slim sample major penalty dinner better torch either jazz merge";
+var mnemonic = "bottom position cross wet enrich hold labor angle grab elephant account useful";

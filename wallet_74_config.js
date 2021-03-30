@@ -1,1 +1,1 @@
-var mnemonic = "pink process keen cradle emerge battle birth property hill wheat hill become";
+var mnemonic = "keen letter hub various donate gauge there toilet flavor page calm access";

@@ -1,1 +1,1 @@
-var mnemonic = "asset spy good electric apology item auto glue summer eight arrow true";
+var mnemonic = "civil junior focus crack step dance retire mechanic build combine slim album";

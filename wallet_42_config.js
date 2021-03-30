@@ -1,1 +1,1 @@
-var mnemonic = "give voice ticket nephew lounge robot radio twenty bean parade rescue artwork";
+var mnemonic = "bargain lonely vicious cause amateur message visit verify brief actual cluster hour";

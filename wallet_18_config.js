@@ -1,1 +1,1 @@
-var mnemonic = "broom exit grief usual citizen gun clinic breeze law social auction lumber";
+var mnemonic = "awake brick also kangaroo wrong effort what cricket title stool brother teach";

@@ -1,1 +1,1 @@
-var mnemonic = "renew guide popular body crack hotel lift ignore local check emerge truly";
+var mnemonic = "dance pool sausage middle tongue curious pole just ritual public predict hundred";

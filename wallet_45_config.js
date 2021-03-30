@@ -1,1 +1,1 @@
-var mnemonic = "over involve health huge know joke flight undo window area mystery runway";
+var mnemonic = "chronic weekend bag dilemma impulse annual season taxi extend window garlic cloud";

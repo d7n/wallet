@@ -1,1 +1,1 @@
-var mnemonic = "mushroom rabbit leg argue force curve refuse method turkey zoo gun strategy";
+var mnemonic = "warm notice art choice express double ketchup inflict frog cabbage same wasp";

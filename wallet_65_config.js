@@ -1,1 +1,1 @@
-var mnemonic = "plate ceiling royal acid response labor guide festival wage swamp access fade";
+var mnemonic = "parade bar wave ghost essence sight mixture wisdom enlist evidence midnight depart";

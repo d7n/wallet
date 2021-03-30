@@ -1,1 +1,1 @@
-var mnemonic = "artist tomato civil bronze emotion ritual display turn crowd welcome tenant pill";
+var mnemonic = "acoustic side core tooth knock universe correct inject sail argue magic acquire";

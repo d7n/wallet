@@ -1,1 +1,1 @@
-var mnemonic = "alter wolf robot coach defense drastic laugh tenant twenty resist orient price";
+var mnemonic = "faint vital sea blush patrol stable fiction honey scene deputy again sponsor";

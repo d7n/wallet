@@ -1,1 +1,1 @@
-var mnemonic = "struggle supreme enact planet maze south license tongue idea describe insane pause";
+var mnemonic = "act hobby slight laptop harbor actress simple dust scissors add cotton rhythm";

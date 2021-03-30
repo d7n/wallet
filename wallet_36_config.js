@@ -1,1 +1,1 @@
-var mnemonic = "fault pipe order depth ice insane soda adult ahead eyebrow blast turtle";
+var mnemonic = "nut two size hamster taxi peanut melody rookie humor diary install plate";

@@ -1,1 +1,1 @@
-var mnemonic = "decade merge toe train wide jar choice suffer almost cheap tank filter";
+var mnemonic = "dose dutch earn describe citizen humble nuclear envelope raccoon journey casual sword";

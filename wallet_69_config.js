@@ -1,1 +1,1 @@
-var mnemonic = "desert taxi tooth fruit cycle harsh accuse claim visit gadget inside motion";
+var mnemonic = "subway stock leave grief clever pencil chronic puppy bottom already sort large";

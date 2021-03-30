@@ -1,1 +1,1 @@
-var mnemonic = "simple female umbrella curtain easy topple sad joke goose truth pistol open";
+var mnemonic = "invest cousin gentle cable mammal toast moral slender tornado dune similar donor";

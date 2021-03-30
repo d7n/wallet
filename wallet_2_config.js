@@ -1,1 +1,1 @@
-var mnemonic = "pond hazard hard twenty square sustain aunt emerge edit also artwork universe";
+var mnemonic = "repeat basket hover cake that dutch mesh trash siren erase patient soccer";

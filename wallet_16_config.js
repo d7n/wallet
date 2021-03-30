@@ -1,1 +1,1 @@
-var mnemonic = "inquiry nurse worth rather nest solar notable fragile upgrade fold interest recall";
+var mnemonic = "spin rain label slice purse embody solution screen dash find hunt mad";

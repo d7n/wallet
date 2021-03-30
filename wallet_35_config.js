@@ -1,1 +1,1 @@
-var mnemonic = "drive panel mobile discover volume hamster prison pudding tuna doctor uncle appear";
+var mnemonic = "record morning fold raccoon vacuum client ensure helmet horse inspire path library";

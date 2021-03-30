@@ -1,1 +1,1 @@
-var mnemonic = "citizen leaf cube left scare tank domain mixed fatal car quick coin";
+var mnemonic = "cool eight rice exist worth prepare swear glory wedding chalk symbol cattle";

@@ -1,1 +1,1 @@
-var mnemonic = "law ahead please wall describe cute dinner certain faith maple clay cross";
+var mnemonic = "abstract fiber match artefact animal evolve wide skirt olympic snow reward smart";

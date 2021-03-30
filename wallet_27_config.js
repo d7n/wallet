@@ -1,1 +1,1 @@
-var mnemonic = "sock diamond harsh anger demand subject salad tone wild tiger hospital just";
+var mnemonic = "design slight stairs couple town drum leg object history husband fault wagon";

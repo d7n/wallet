@@ -1,1 +1,1 @@
-var mnemonic = "parent expect interest inch slow hammer siege insane similar album crime urge";
+var mnemonic = "tiger belt shiver demand bright economy excite between tuna sad soldier regular";

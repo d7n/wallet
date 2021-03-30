@@ -1,1 +1,1 @@
-var mnemonic = "bird traffic news heart carpet reward target brown green dirt rigid mom";
+var mnemonic = "visa bulk blood elite cancel popular high text brown magnet tattoo latin";

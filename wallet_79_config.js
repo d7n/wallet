@@ -1,1 +1,1 @@
-var mnemonic = "galaxy settle celery under weapon say naive comic volume vacuum area grid";
+var mnemonic = "soccer tired genre fluid renew vivid sort brick throw throw youth vast";

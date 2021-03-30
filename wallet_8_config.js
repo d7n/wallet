@@ -1,1 +1,1 @@
-var mnemonic = "save forget plate rival write main away beyond predict humor turkey hamster";
+var mnemonic = "gown orange bounce banner join damp seminar attack print exercise control cash";

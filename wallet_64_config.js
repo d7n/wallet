@@ -1,1 +1,1 @@
-var mnemonic = "other engage vote oyster aim lecture source team media later dentist drive";
+var mnemonic = "achieve else cage enemy head axis theme frozen pumpkin crime fiber accuse";

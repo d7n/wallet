@@ -1,1 +1,1 @@
-var mnemonic = "embrace baby what gym one gossip jump shock vital quantum pony silent";
+var mnemonic = "yellow album tooth family disagree sun much divorce nominee hungry junk trip";

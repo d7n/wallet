@@ -1,1 +1,1 @@
-var mnemonic = "fancy gadget pupil maximum hair area shadow inject end fire oppose trial";
+var mnemonic = "hour invest sense object number traffic dance finish slice south much mango";

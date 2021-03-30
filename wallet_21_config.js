@@ -1,1 +1,1 @@
-var mnemonic = "assume all drink grace agree giant tiger winter subject ugly venue will";
+var mnemonic = "knock aware ramp man goddess crouch gold tobacco gloom spoil ketchup tube";

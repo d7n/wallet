@@ -1,1 +1,1 @@
-var mnemonic = "exhaust flat wide target core remind sugar canvas same cake observe height";
+var mnemonic = "tail ceiling isolate baby fox soon lonely cross doll enough million vanish";

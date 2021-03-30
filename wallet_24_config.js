@@ -1,1 +1,1 @@
-var mnemonic = "rubber build basket nasty bleak memory topple tonight provide tongue cheese ranch";
+var mnemonic = "accident risk volume lonely sort edge easy oyster sport virus order build";

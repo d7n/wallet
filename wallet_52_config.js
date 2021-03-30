@@ -1,1 +1,1 @@
-var mnemonic = "movie uphold vintage erode hill small license check over print grain comic";
+var mnemonic = "walnut must festival pole wall invite cradle slab cupboard talk lunar tunnel";

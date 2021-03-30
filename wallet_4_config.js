@@ -1,1 +1,1 @@
-var mnemonic = "author giraffe horse veteran magnet solve inherit defense company obtain bone dice";
+var mnemonic = "security volume umbrella enter flee farm size betray treat bind rhythm warrior";

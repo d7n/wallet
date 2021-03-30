@@ -1,1 +1,1 @@
-var mnemonic = "any switch cargo clay better glow list enough inject select stadium soft";
+var mnemonic = "when shallow mixed human cake garden thumb manage purchase unaware various detect";

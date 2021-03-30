@@ -1,1 +1,1 @@
-var mnemonic = "boring paddle inject concert situate galaxy permit result logic like eyebrow hockey";
+var mnemonic = "hill yard turn ritual viable floor vacant slim fog car bulk mirror";

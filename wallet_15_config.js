@@ -1,1 +1,1 @@
-var mnemonic = "gas gold trouble decline hurdle slender slot lizard reflect caution wagon poet";
+var mnemonic = "abstract wood similar dial oval tiny tunnel powder can symbol disagree common";

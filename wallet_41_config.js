@@ -1,1 +1,1 @@
-var mnemonic = "burst acoustic april family bitter inform miracle early assault repair fun age";
+var mnemonic = "hood employ term city ripple envelope finger vacuum ethics near vital laptop";

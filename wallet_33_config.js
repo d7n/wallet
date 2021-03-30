@@ -1,1 +1,1 @@
-var mnemonic = "price alone multiply wheat mosquito guilt island deny office cream liar upset";
+var mnemonic = "crouch daughter attend open deny genre genuine jazz bounce math law poem";

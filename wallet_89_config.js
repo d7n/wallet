@@ -1,1 +1,1 @@
-var mnemonic = "endorse bitter smart often power van shaft over bring nurse quote lamp";
+var mnemonic = "crop faint hurt battle dinner village post curtain exile panther asset equal";

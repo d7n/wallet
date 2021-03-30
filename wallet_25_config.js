@@ -1,1 +1,1 @@
-var mnemonic = "bid force host law soap bright frozen remove security achieve present fan";
+var mnemonic = "direct velvet then tell else reject adapt casual leopard clap engage civil";

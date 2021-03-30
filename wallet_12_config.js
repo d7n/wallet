@@ -1,1 +1,1 @@
-var mnemonic = "physical trash trip normal father rebuild require announce pledge multiply divide leader";
+var mnemonic = "employ mad harsh belt gate toss moral parade speed car isolate beach";

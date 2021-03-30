@@ -1,1 +1,1 @@
-var mnemonic = "decade bacon laugh manage juice custom parent rate congress sail coral unhappy";
+var mnemonic = "exit admit used clarify upgrade steel verb absent blue once glide creek";

@@ -1,1 +1,1 @@
-var mnemonic = "blade car gauge cruise tent begin exist observe isolate ostrich ridge slender";
+var mnemonic = "beach soap bone exhibit suffer have hammer wealth gold festival situate cement";

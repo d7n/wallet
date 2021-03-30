@@ -1,1 +1,1 @@
-var mnemonic = "believe symbol voyage genius math coin great figure above diagram ill garden";
+var mnemonic = "caution quality develop sphere glass involve salon entire furnace inmate embrace prize";

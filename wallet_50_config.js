@@ -1,1 +1,1 @@
-var mnemonic = "march ginger census best use spray ankle orchard love point armed home";
+var mnemonic = "call dawn garage city trap theory attack sea legal success reveal thing";

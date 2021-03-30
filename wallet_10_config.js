@@ -1,1 +1,1 @@
-var mnemonic = "alcohol sting hotel head update bus palace color snow kiwi rich crunch";
+var mnemonic = "notice come engine tag east ancient army wreck check jelly verify nature";

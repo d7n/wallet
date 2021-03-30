@@ -1,1 +1,1 @@
-var mnemonic = "this cross area like apology measure mechanic blur thumb sock random alien";
+var mnemonic = "cherry ticket saddle over betray display chimney rare luggage focus suspect toss";

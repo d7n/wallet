@@ -1,1 +1,1 @@
-var mnemonic = "casual raccoon film immune struggle water pond fabric soap team survey tower";
+var mnemonic = "citizen limb curve supreme shoulder fetch immune teach actual cash shell night";

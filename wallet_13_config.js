@@ -1,1 +1,1 @@
-var mnemonic = "ensure assume shrug treat solid dice negative bachelor vendor riot wheel fruit";
+var mnemonic = "recycle napkin amazing style report employ resist tragic play crumble quality million";

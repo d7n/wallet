@@ -1,1 +1,1 @@
-var mnemonic = "pioneer topple reason eyebrow boost gentle same wall attract offer also chimney";
+var mnemonic = "wine assist fame real obey entry maid leisure laugh space anxiety answer";

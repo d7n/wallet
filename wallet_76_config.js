@@ -1,1 +1,1 @@
-var mnemonic = "bean patient thing future romance ticket chalk act crisp oxygen quick boy";
+var mnemonic = "toe bounce hero ten chunk alert thunder vapor valve outside pledge wink";

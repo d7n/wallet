@@ -1,1 +1,1 @@
-var mnemonic = "hawk snow gospel you rocket still agree novel transfer right snake search";
+var mnemonic = "rib improve motor season danger ritual lawn leopard flush window exclude shop";

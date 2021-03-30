@@ -1,1 +1,1 @@
-var mnemonic = "client piano zoo install valid burden exit suit ethics gym stand trial";
+var mnemonic = "develop sea art congress float disease recycle cinnamon worry ignore cheese marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "salon vacuum smile scene almost pen wealth hip impulse sport accident ride";
+var mnemonic = "twice say banner bench final erase economy trick foot involve tobacco blame";

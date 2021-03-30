@@ -1,1 +1,1 @@
-var mnemonic = "zebra together save true dry wealth home target region fantasy mistake toast";
+var mnemonic = "neck mushroom orient machine bright innocent main foam august super finish survey";

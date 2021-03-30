@@ -1,1 +1,1 @@
-var mnemonic = "fit dash pig tragic essence cover deal measure wreck avocado certain laundry";
+var mnemonic = "increase walk actress melody glow tip gate fall blur foster mother accuse";

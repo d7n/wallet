@@ -1,1 +1,1 @@
-var mnemonic = "equal nominee flame frown height chair neglect service bid urban plate divert";
+var mnemonic = "champion assist state match there art dose flag adapt night teach visual";

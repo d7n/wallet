@@ -1,1 +1,1 @@
-var mnemonic = "friend devote cousin nose lucky robot gain thrive crush umbrella galaxy move";
+var mnemonic = "later session riot differ list depend all chat shield ecology topic spawn";

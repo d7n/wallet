@@ -1,1 +1,1 @@
-var mnemonic = "knee bottom small where yellow glad business ostrich kidney grief party provide";
+var mnemonic = "another jaguar forest north broccoli crawl seek chimney rose pigeon mix useless";

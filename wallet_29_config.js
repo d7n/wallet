@@ -1,1 +1,1 @@
-var mnemonic = "sorry twelve simple amount album fee kidney equip excuse guess leader evoke";
+var mnemonic = "festival upgrade silk sudden rookie trust push crime wasp draft nose flight";

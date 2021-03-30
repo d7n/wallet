@@ -1,1 +1,1 @@
-var mnemonic = "earn modify supreme voice please cement mind flash gossip develop limb entire";
+var mnemonic = "setup pair ball fit idle vintage autumn broccoli scare panda ensure code";

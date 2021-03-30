@@ -1,1 +1,1 @@
-var mnemonic = "imitate element garage math trust frog jewel amazing crash hen banana what";
+var mnemonic = "poverty scissors quarter front toward truly space purse drill desert symbol faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome churn host strong asthma sort surround control isolate fury engine castle";
+var mnemonic = "chair metal work cry endless sense detail inner main bird live robot";
