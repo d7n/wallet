@@ -1,1 +1,1 @@
-var mnemonic = "employ hero bamboo oppose obtain across marine cactus journey narrow twin pave";
+var mnemonic = "depth attract satisfy dice run planet crash camera pattern dentist comfort dragon";

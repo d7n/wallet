@@ -1,1 +1,1 @@
-var mnemonic = "spell prison silk marble hunt hobby rather jealous possible alarm solution zero";
+var mnemonic = "ten attitude olympic trip close purity cradle auto end rail always venue";

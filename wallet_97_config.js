@@ -1,1 +1,1 @@
-var mnemonic = "cool absent soap drama menu figure hospital cash shrimp divorce tenant undo";
+var mnemonic = "raven grid affair hockey fame upset section village bulk state dad torch";

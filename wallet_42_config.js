@@ -1,1 +1,1 @@
-var mnemonic = "assault dash leopard garlic impulse glory slim produce second deposit hospital piece";
+var mnemonic = "teach lesson sphere copy foam together hope piano clog liberty wealth guard";

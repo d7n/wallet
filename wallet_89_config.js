@@ -1,1 +1,1 @@
-var mnemonic = "obscure glare angry curious put view fresh mail ankle job empower market";
+var mnemonic = "whip view wool tank phrase fall expose spice region hello frequent cupboard";

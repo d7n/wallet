@@ -1,1 +1,1 @@
-var mnemonic = "usual journey deny panel judge conduct suffer suggest steak win display venture";
+var mnemonic = "later coral few rival avoid fruit stand slice renew cake gadget please";

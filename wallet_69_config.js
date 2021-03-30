@@ -1,1 +1,1 @@
-var mnemonic = "nut cat boss firm use return frequent kiss brown deal olive rough";
+var mnemonic = "water object solve iron grocery congress cheese marriage escape stone powder scissors";

@@ -1,1 +1,1 @@
-var mnemonic = "sport quote click siege attitude human blast galaxy city else useful degree";
+var mnemonic = "slide discover earn rebuild group announce milk scorpion vacant album glance obtain";

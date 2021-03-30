@@ -1,1 +1,1 @@
-var mnemonic = "away fog shop polar tiny other virtual extra match eternal spray skull";
+var mnemonic = "tongue fat aunt auto frown edit must mean cup because pear engage";

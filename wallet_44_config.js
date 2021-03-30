@@ -1,1 +1,1 @@
-var mnemonic = "dog coast test unaware together mule illegal feed attitude account render feature";
+var mnemonic = "sign skate perfect dream fluid inject choice conduct nation about destroy border";

@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur improve scout sell endorse dial accuse doll wife appear awful tonight";
+var mnemonic = "million foil genre lazy inspire purity toddler goose vivid flip gown hello";

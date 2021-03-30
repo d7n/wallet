@@ -1,1 +1,1 @@
-var mnemonic = "lawn defense bachelor cube solid census cigar grain retreat say verify private";
+var mnemonic = "rate ring dance addict cage bullet vendor motion appear story erase achieve";

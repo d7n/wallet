@@ -1,1 +1,1 @@
-var mnemonic = "habit case ski phone engine beyond mass empower snow toss december raven";
+var mnemonic = "diary make embrace muscle collect citizen okay dinner today way october marble";

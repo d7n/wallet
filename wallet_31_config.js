@@ -1,1 +1,1 @@
-var mnemonic = "stove deposit biology leg alter will train exotic powder bring float snow";
+var mnemonic = "word giggle sunny fossil parrot script harsh fury buyer behave bread usual";

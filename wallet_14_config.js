@@ -1,1 +1,1 @@
-var mnemonic = "slot hungry finish moral destroy rug twist ignore chair oblige detect swift";
+var mnemonic = "broken cactus intact hidden claim search lizard echo point movie bulb indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "thought poverty club pulp swift maximum mosquito safe clog flush ugly finish";
+var mnemonic = "casino ring wide undo share tattoo post field eternal mobile found reform";

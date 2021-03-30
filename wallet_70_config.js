@@ -1,1 +1,1 @@
-var mnemonic = "imitate cherry repair menu ecology tiger ripple wet found ready gospel aim";
+var mnemonic = "daring aspect shoe drum liberty zoo leaf mirror duck syrup aisle hollow";

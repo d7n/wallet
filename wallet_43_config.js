@@ -1,1 +1,1 @@
-var mnemonic = "glare radio settle remember frog muscle among document paper arrive amazing toilet";
+var mnemonic = "margin raw then insect guide snake blind two february federal toddler little";

@@ -1,1 +1,1 @@
-var mnemonic = "blanket save orient voice toddler business human tenant knee thumb supply spirit";
+var mnemonic = "north quantum excuse float adjust width stem duty uniform road notice aunt";

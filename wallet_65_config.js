@@ -1,1 +1,1 @@
-var mnemonic = "city banana attitude dentist science glide fluid unique exotic scene vintage fruit";
+var mnemonic = "pipe wrist census wood cement zero snack hedgehog cigar lucky capable annual";

@@ -1,1 +1,1 @@
-var mnemonic = "manual round pony usual enable cycle coin pilot manage mutual write present";
+var mnemonic = "burger junior tragic student audit abandon nominee stumble moral month beach work";

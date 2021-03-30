@@ -1,1 +1,1 @@
-var mnemonic = "cushion gym large vanish equip junior erosion wife recall sheriff fame bean";
+var mnemonic = "vault lesson help celery bitter term report sunset ill surge receive skull";

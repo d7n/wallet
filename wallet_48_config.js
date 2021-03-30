@@ -1,1 +1,1 @@
-var mnemonic = "mouse orbit fade horn medal argue maple clever stuff panther hockey motor";
+var mnemonic = "flag bench bone rhythm tonight wet poet pioneer general pottery trend either";

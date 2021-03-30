@@ -1,1 +1,1 @@
-var mnemonic = "very adult verb arrest update glance unable vendor ordinary car cage claw";
+var mnemonic = "country wave stereo jacket inmate anger tomorrow prize artwork chalk cabin outside";

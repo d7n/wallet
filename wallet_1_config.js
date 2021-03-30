@@ -1,1 +1,1 @@
-var mnemonic = "door police strategy elegant huge neutral unknown leg purse fault scrub else";
+var mnemonic = "original outdoor weekend bean team measure drama aspect grid tell sorry family";

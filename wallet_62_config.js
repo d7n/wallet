@@ -1,1 +1,1 @@
-var mnemonic = "order wood taxi sorry bind tortoise worth visa matrix exclude screen unfair";
+var mnemonic = "blood bronze awesome bulk price clerk afraid argue best inside profit flat";

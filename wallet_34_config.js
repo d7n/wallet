@@ -1,1 +1,1 @@
-var mnemonic = "alone polar game now pride iron push glow task talk apology tragic";
+var mnemonic = "occur again power crawl fog erase local load gold elite genius scene";

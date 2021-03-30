@@ -1,1 +1,1 @@
-var mnemonic = "hood oak next future salmon proud chalk midnight vocal carpet day chimney";
+var mnemonic = "sponsor surprise lobster budget clinic glide main diet charge anchor neglect man";

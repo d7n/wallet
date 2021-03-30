@@ -1,1 +1,1 @@
-var mnemonic = "type grief sound brief vivid off imitate rug original crucial make crowd";
+var mnemonic = "hover shaft soon average machine arena voyage oil panda later boy wagon";

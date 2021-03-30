@@ -1,1 +1,1 @@
-var mnemonic = "thought bring leader arctic sausage ordinary bleak flag point cram jungle father";
+var mnemonic = "section relief guide august news imitate company such accuse pull cloth flock";

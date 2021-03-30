@@ -1,1 +1,1 @@
-var mnemonic = "fault force kidney quarter right they strong candy receive brown doll health";
+var mnemonic = "enable damp muscle dove couple aware fantasy ghost energy margin guilt sun";

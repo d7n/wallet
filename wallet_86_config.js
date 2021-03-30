@@ -1,1 +1,1 @@
-var mnemonic = "author swallow insect learn boost napkin cash case copy bleak extend tennis";
+var mnemonic = "glad swing phrase open drop blood ugly flash wine language tuna patch";

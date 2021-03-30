@@ -1,1 +1,1 @@
-var mnemonic = "cloud joke leg rocket end city smile famous oxygen attend myth arena";
+var mnemonic = "measure three spatial alcohol subway issue gentle sister minute gather extra edge";

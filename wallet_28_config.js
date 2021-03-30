@@ -1,1 +1,1 @@
-var mnemonic = "bulk warrior enact envelope blossom write resource dolphin blouse north buffalo october";
+var mnemonic = "gentle usual zero must display conduct fringe physical draft belt dilemma all";

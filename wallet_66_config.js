@@ -1,1 +1,1 @@
-var mnemonic = "imitate calm direct mind dumb token law near nice moon oyster hotel";
+var mnemonic = "noble point short enable title crumble north boil cool depend type great";

@@ -1,1 +1,1 @@
-var mnemonic = "bean work hire curtain race embrace arctic special lucky sugar leave future";
+var mnemonic = "common license neglect habit agent demand island cry lawn put bone report";

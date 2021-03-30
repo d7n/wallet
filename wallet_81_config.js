@@ -1,1 +1,1 @@
-var mnemonic = "divorce blush supreme demand sleep crane despair escape cliff section slice baby";
+var mnemonic = "trick mass myth amazing blouse moon baby mystery point jewel hazard piano";

@@ -1,1 +1,1 @@
-var mnemonic = "champion subject milk neither infant base slab strategy purchase anchor pill catch";
+var mnemonic = "horn cake drink suggest glue final liberty huge park auction bike bread";

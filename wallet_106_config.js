@@ -1,1 +1,1 @@
-var mnemonic = "school shock mass nose air banana fuel check private cake seed clog";
+var mnemonic = "tip fish aunt off shuffle globe west soon cake ivory exchange rifle";

@@ -1,1 +1,1 @@
-var mnemonic = "extra join stereo tonight happy little enable sound shoe science payment grocery";
+var mnemonic = "side great human slush member vital fetch limit brush size brush ankle";

@@ -1,1 +1,1 @@
-var mnemonic = "smart annual alcohol tortoise virtual off teach decade stem fantasy speak remind";
+var mnemonic = "ghost labor abuse gadget shop patrol object erase mushroom witness energy vanish";

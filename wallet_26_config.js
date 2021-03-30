@@ -1,1 +1,1 @@
-var mnemonic = "rocket buzz siege cram mean save ugly entire crush canal define practice";
+var mnemonic = "lake upon federal range frame orbit coffee team purpose music replace cruel";

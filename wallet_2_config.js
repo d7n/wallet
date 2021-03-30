@@ -1,1 +1,1 @@
-var mnemonic = "they parade release pause chicken adjust book market brisk cause method deputy";
+var mnemonic = "rebel shrug history front harsh near energy strong earn camera soul mirror";

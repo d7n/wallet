@@ -1,1 +1,1 @@
-var mnemonic = "unknown saddle hole hotel zone punch mouse column derive record cancel dad";
+var mnemonic = "nuclear syrup crash east clever burst refuse eyebrow twelve syrup entire seek";

@@ -1,1 +1,1 @@
-var mnemonic = "fold mouse sure zebra buddy awful cloth sketch spatial climb track market";
+var mnemonic = "spatial mammal morning base type permit fabric decorate title luggage assist mad";

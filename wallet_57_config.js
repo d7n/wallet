@@ -1,1 +1,1 @@
-var mnemonic = "pair paddle forum record alley brush burger wide spy bird force wheel";
+var mnemonic = "okay runway estate glory engage pumpkin review put card logic pond veteran";

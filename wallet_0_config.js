@@ -1,1 +1,1 @@
-var mnemonic = "dad reopen upgrade rice relax will small wine dutch false until husband";
+var mnemonic = "rice cheap library address gym exchange impulse fame hunt ghost drama urge";

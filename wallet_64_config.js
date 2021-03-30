@@ -1,1 +1,1 @@
-var mnemonic = "push pony risk famous hat wish offer wife code moon trophy execute";
+var mnemonic = "pioneer garment brick pretty wheel valid laundry victory expect million head river";

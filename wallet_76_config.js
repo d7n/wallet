@@ -1,1 +1,1 @@
-var mnemonic = "monitor volume rule school slam jump off boring twelve can across joke";
+var mnemonic = "holiday dawn soda erupt link pioneer canyon correct embrace call avocado turtle";

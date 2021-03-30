@@ -1,1 +1,1 @@
-var mnemonic = "brick print still diet relax base humble pigeon where guilt assault borrow";
+var mnemonic = "tent ozone busy manual phone wear fade shell deputy slice swamp weapon";

@@ -1,1 +1,1 @@
-var mnemonic = "enter dial jump divide unfair fragile buddy prefer author poet soul ball";
+var mnemonic = "never trash chest tower census recall truly cherry law job talk near";

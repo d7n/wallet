@@ -1,1 +1,1 @@
-var mnemonic = "fish sunny square chapter cherry cloth cotton nerve matrix carry tape power";
+var mnemonic = "soup athlete reopen speed inner grit student escape margin silk marriage isolate";

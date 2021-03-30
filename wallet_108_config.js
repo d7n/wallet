@@ -1,1 +1,1 @@
-var mnemonic = "claw genius diary viable high ancient second spell scatter pitch eager electric";
+var mnemonic = "runway clip naive craft team cat goat gasp owner hungry volcano expose";

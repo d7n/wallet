@@ -1,1 +1,1 @@
-var mnemonic = "audit inspire doctor label major motion treat push episode level zone allow";
+var mnemonic = "access zebra stone tattoo drive curtain ice divide foster bonus album velvet";

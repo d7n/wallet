@@ -1,1 +1,1 @@
-var mnemonic = "valve oak awkward shy tape argue hard domain faint mango measure pear";
+var mnemonic = "iron disagree day click stool begin answer bridge slogan tail ice list";

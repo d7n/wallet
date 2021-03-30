@@ -1,1 +1,1 @@
-var mnemonic = "leg emerge lesson woman capable knife rifle tower object razor cluster bird";
+var mnemonic = "pledge comfort excess sick dog athlete divide cruel scene frozen change problem";

@@ -1,1 +1,1 @@
-var mnemonic = "grace beauty picture valve around concert sand nuclear asthma kingdom outer essence";
+var mnemonic = "half arrange museum admit nuclear hamster option hand hold disagree salmon robust";

@@ -1,1 +1,1 @@
-var mnemonic = "motor carbon crawl west test attack slice sad advice atom identify round";
+var mnemonic = "north admit chalk disagree pumpkin summer hand surge cool pledge fancy indoor";

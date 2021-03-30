@@ -1,1 +1,1 @@
-var mnemonic = "aware cage mutual amazing trophy that mouse suffer young sport rebel oppose";
+var mnemonic = "garage gain feel script else dawn refuse junior lyrics nasty limit bright";

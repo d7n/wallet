@@ -1,1 +1,1 @@
-var mnemonic = "tenant capital garbage time afford imitate pioneer logic unaware auction oyster train";
+var mnemonic = "gadget pulse rice verb donor common rude polar home invest broken purpose";

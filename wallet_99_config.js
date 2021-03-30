@@ -1,1 +1,1 @@
-var mnemonic = "crouch move title guide artefact loan isolate thank leader gown short confirm";
+var mnemonic = "movie unknown movie comic silk ordinary tired museum wheat daughter lamp maple";

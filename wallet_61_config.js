@@ -1,1 +1,1 @@
-var mnemonic = "oval board poet furnace inhale siege print office work cotton bulb shrug";
+var mnemonic = "topple charge undo call shift adjust that snake sniff patient battle steel";

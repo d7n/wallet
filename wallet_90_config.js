@@ -1,1 +1,1 @@
-var mnemonic = "ramp awake couch stay trap pudding hood hybrid cash outer bone effort";
+var mnemonic = "affair glove use simple small escape toe next panic sure rely episode";

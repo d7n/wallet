@@ -1,1 +1,1 @@
-var mnemonic = "erupt tonight mixed medal abstract know only shine category animal tell close";
+var mnemonic = "lottery daring jelly exercise dash negative leader tongue wash spot erode outer";

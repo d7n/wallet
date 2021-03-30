@@ -1,1 +1,1 @@
-var mnemonic = "green pottery curious tonight note inner arrange glad improve tragic planet network";
+var mnemonic = "mandate area vintage donkey member pulse crawl distance join civil pigeon soon";

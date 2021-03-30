@@ -1,1 +1,1 @@
-var mnemonic = "own sudden almost erase motor bronze minute final notice setup hat forest";
+var mnemonic = "robot mimic trumpet ice trade clean begin wise alley cushion barrel casino";

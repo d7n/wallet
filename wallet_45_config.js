@@ -1,1 +1,1 @@
-var mnemonic = "future over hurry trend plunge ill exit train exclude second tape betray";
+var mnemonic = "news shallow canoe wide rather wife nice mother situate three uphold jelly";

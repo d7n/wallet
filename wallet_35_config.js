@@ -1,1 +1,1 @@
-var mnemonic = "today stone rigid alone private response open grief spoil average just board";
+var mnemonic = "swamp desk chuckle still rice domain shift abuse elegant rose jewel fitness";

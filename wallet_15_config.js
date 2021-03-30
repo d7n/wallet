@@ -1,1 +1,1 @@
-var mnemonic = "trap bag fresh achieve deny intact still model define ladder obscure color";
+var mnemonic = "giggle leisure rural mandate across replace meadow people soon victory once bleak";

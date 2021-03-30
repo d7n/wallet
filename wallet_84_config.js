@@ -1,1 +1,1 @@
-var mnemonic = "few job like rude scrub solve fatal jungle caught column fatigue reveal";
+var mnemonic = "comic circle list athlete number filter galaxy antique hover later recycle uniform";

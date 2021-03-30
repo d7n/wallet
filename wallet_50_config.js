@@ -1,1 +1,1 @@
-var mnemonic = "wash floor garment rough moral gorilla wedding point hurdle shoe snow breeze";
+var mnemonic = "winter stool vocal stomach trick lamp spider genius obey buffalo tent void";

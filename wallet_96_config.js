@@ -1,1 +1,1 @@
-var mnemonic = "library version robust frozen chair crazy ill harvest tip weekend next balance";
+var mnemonic = "below pink boy labor arm fat life actress farm pottery outdoor equip";

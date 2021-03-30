@@ -1,1 +1,1 @@
-var mnemonic = "alley banana bargain huge sibling steak sign dial immense little beyond whip";
+var mnemonic = "choose dynamic inmate endorse simple build glow memory fiction dignity vessel betray";

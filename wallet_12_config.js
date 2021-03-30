@@ -1,1 +1,1 @@
-var mnemonic = "company situate twist lion amateur observe sunset rice rate umbrella balcony cluster";
+var mnemonic = "because wine license mobile bar horse leave surprise awkward above cook offer";

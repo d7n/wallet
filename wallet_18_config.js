@@ -1,1 +1,1 @@
-var mnemonic = "what amazing feel mutual logic copper erode drip gap muscle raise boss";
+var mnemonic = "adjust giggle airport token fat train profit coffee crater inhale deposit drama";

@@ -1,1 +1,1 @@
-var mnemonic = "thrive bid pear photo asthma mother midnight panic you bunker rate path";
+var mnemonic = "country moral final oxygen pulse forget hollow chuckle actress rate lion render";

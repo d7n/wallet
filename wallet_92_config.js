@@ -1,1 +1,1 @@
-var mnemonic = "episode unfold rigid retire best outside elder tornado traffic broccoli nest curve";
+var mnemonic = "farm belt service conduct silver fragile garlic approve athlete slot hurdle chat";

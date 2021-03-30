@@ -1,1 +1,1 @@
-var mnemonic = "muffin naive motor anger three brush jaguar market lawsuit resist pipe radar";
+var mnemonic = "sing eagle theme possible pencil quit sugar misery cigar input render night";

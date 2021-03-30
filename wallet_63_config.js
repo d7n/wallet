@@ -1,1 +1,1 @@
-var mnemonic = "session grass mass size diesel rifle vicious crystal where middle forget voice";
+var mnemonic = "assume stairs exchange simple foster exercise client provide quantum attract tide hawk";

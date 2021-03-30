@@ -1,1 +1,1 @@
-var mnemonic = "erase man planet opinion fold legal naive involve true all dose hundred";
+var mnemonic = "slot fiction between crane because pledge front hero job surface program twist";

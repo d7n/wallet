@@ -1,1 +1,1 @@
-var mnemonic = "clean novel canoe age rely surprise make quantum also worth hour satisfy";
+var mnemonic = "verb gadget erase describe strategy catalog marble harbor normal matter mule body";

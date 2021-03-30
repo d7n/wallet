@@ -1,1 +1,1 @@
-var mnemonic = "rather vapor target solution develop build child novel muscle dance embody stay";
+var mnemonic = "olympic feed scan rifle tomorrow enable marriage market time term club menu";

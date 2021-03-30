@@ -1,1 +1,1 @@
-var mnemonic = "clean surprise wife pilot kite echo goose stick west cream rail once";
+var mnemonic = "crop accident path patrol antenna rack snap delay embody exist once quick";

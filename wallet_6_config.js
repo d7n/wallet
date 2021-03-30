@@ -1,1 +1,1 @@
-var mnemonic = "thunder pill purse party congress monkey chalk core diary aerobic almost identify";
+var mnemonic = "proof equip task demise trash reject toward embrace wrestle gym work body";

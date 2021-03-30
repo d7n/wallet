@@ -1,1 +1,1 @@
-var mnemonic = "blast spy argue busy snow lesson season melt window beauty ready opinion";
+var mnemonic = "bar jeans segment bullet sheriff obvious shiver attend color follow brown essay";

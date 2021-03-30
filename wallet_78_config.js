@@ -1,1 +1,1 @@
-var mnemonic = "home mountain fury speed uncover viable reject boil there once evolve ocean";
+var mnemonic = "source width muscle shed rifle youth pudding grid birth assault night town";

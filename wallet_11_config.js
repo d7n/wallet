@@ -1,1 +1,1 @@
-var mnemonic = "soul buyer state badge spray float cargo exercise save neck faint learn";
+var mnemonic = "proof stereo teach inner noodle imitate when trash tennis credit antique order";

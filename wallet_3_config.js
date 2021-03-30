@@ -1,1 +1,1 @@
-var mnemonic = "wise predict web clever mercy blind friend tail valley sand extra disorder";
+var mnemonic = "prosper awesome safe stone welcome judge outdoor office second thank funny december";

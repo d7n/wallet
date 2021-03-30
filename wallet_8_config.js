@@ -1,1 +1,1 @@
-var mnemonic = "silly measure dose try silent soldier maximum fee tomorrow always student you";
+var mnemonic = "approve marine planet second rally love brown ladder this hub civil cradle";

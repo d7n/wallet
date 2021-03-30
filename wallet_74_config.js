@@ -1,1 +1,1 @@
-var mnemonic = "half want joy survey road velvet congress never beef table again flush";
+var mnemonic = "soccer design curve wool main screen reward alley power talk winter hollow";

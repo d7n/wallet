@@ -1,1 +1,1 @@
-var mnemonic = "craft lonely business worry mountain elder parrot flee group salute toe sheriff";
+var mnemonic = "choose stone desk spice position novel shuffle shell skill attract yellow simple";

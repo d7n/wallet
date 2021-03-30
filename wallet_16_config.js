@@ -1,1 +1,1 @@
-var mnemonic = "idea practice fade drip solution area fault will galaxy addict intact dwarf";
+var mnemonic = "climb lift remove kid broken pave genre foam decrease milk gym blanket";

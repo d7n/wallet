@@ -1,1 +1,1 @@
-var mnemonic = "impose series truck camp video purse author peace click space high shove";
+var mnemonic = "chalk strategy abandon basket lizard beauty dawn hub consider express brisk retire";

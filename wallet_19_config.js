@@ -1,1 +1,1 @@
-var mnemonic = "mandate heart noise pen repeat wrap cactus know require fabric afford elephant";
+var mnemonic = "east hammer burger tennis culture veteran shoot armed run attend bulb drastic";

@@ -1,1 +1,1 @@
-var mnemonic = "scorpion jar rubber rhythm safe shield grow salute number happy ritual dune";
+var mnemonic = "veteran scrap street april dial crack output provide couch enrich relief curve";
