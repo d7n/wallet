@@ -1,1 +1,1 @@
-var mnemonic = "task report bomb approve crawl remember trim chapter poverty ecology duty remember";
+var mnemonic = "velvet ice skill vocal spawn tomato dignity cricket logic room duck argue";

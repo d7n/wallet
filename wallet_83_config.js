@@ -1,1 +1,1 @@
-var mnemonic = "donate cupboard law scene timber between two play door foster turtle record";
+var mnemonic = "alley antenna nerve cricket message secret one indoor wise month move aisle";

@@ -1,1 +1,1 @@
-var mnemonic = "often heart question diary quit trade room include wolf assist fall pool";
+var mnemonic = "certain empty poet moon someone pepper orange color void chat kiss cross";

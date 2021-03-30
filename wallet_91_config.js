@@ -1,1 +1,1 @@
-var mnemonic = "opinion recipe quantum table transfer win earn loyal eager surge turtle bid";
+var mnemonic = "double two balance monster key wing record wing afford tragic syrup crime";

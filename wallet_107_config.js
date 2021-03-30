@@ -1,1 +1,1 @@
-var mnemonic = "salon frown salon trophy settle awkward miss concert finish galaxy chunk wink";
+var mnemonic = "amused city empty invest someone refuse dial wish margin sock entire west";

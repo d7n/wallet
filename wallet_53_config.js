@@ -1,1 +1,1 @@
-var mnemonic = "weekend wood crew trophy stuff nothing punch example robust neutral member okay";
+var mnemonic = "clutch holiday accident auction bundle puppy evolve thing minimum merge list wise";

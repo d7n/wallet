@@ -1,1 +1,1 @@
-var mnemonic = "sort oblige what motor warfare street traffic magnet stove meadow type circle";
+var mnemonic = "heart stool certain cool chapter cereal cargo engage pink sunny gold amount";

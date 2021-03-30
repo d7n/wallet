@@ -1,1 +1,1 @@
-var mnemonic = "panel exclude barrel famous lava you save world music under end hero";
+var mnemonic = "jealous gather owner pigeon syrup zone near accident father sister track maze";

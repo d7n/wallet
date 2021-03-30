@@ -1,1 +1,1 @@
-var mnemonic = "fat art worry come actress drastic office raw hen fun mail mixture";
+var mnemonic = "dutch comfort sail solution antenna six silk hover symptom monster find now";

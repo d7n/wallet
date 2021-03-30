@@ -1,1 +1,1 @@
-var mnemonic = "wine disease flavor ceiling receive afraid occur enter cannon promote orchard carpet";
+var mnemonic = "leopard stuff donate glare hole flush capital obey fury chicken citizen clown";

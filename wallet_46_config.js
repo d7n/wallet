@@ -1,1 +1,1 @@
-var mnemonic = "pitch know dash wet canvas letter economy sing accuse honey friend enrich";
+var mnemonic = "infant margin off fashion skin edit father stove quiz scare door remove";

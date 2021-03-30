@@ -1,1 +1,1 @@
-var mnemonic = "prefer frozen picnic effort fetch pipe buzz coffee sense portion vague tissue";
+var mnemonic = "orange level scrap electric tongue pledge science check arrest coil random lemon";

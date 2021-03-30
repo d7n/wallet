@@ -1,1 +1,1 @@
-var mnemonic = "tiger lobster service bulk upper female tortoise muscle shrug group broom tiny";
+var mnemonic = "wrist weasel orchard siege cradle kitchen tenant like reason any base wrong";

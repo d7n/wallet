@@ -1,1 +1,1 @@
-var mnemonic = "remove skate hammer combine apology sight cage culture card shed witness dry";
+var mnemonic = "impose food tooth ignore stone stereo alone attract vote kit taste hockey";

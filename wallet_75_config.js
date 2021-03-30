@@ -1,1 +1,1 @@
-var mnemonic = "siren topic various chef fabric mean must cycle version isolate ribbon stomach";
+var mnemonic = "ozone lazy wreck shed swift peanut joy scale render expose purpose tobacco";

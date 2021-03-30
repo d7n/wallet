@@ -1,1 +1,1 @@
-var mnemonic = "palace vehicle film shed market same arena artist acid fit tuition pudding";
+var mnemonic = "despair isolate make swim hard tiny total comic ahead blush comic spread";

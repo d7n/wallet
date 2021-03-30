@@ -1,1 +1,1 @@
-var mnemonic = "federal above gentle danger isolate element mandate drive margin fuel diamond wrap";
+var mnemonic = "march suggest usage insane volume segment company nature legend license axis ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "more rabbit inquiry fitness web dash cotton struggle three undo galaxy thank";
+var mnemonic = "inch photo enter dutch road episode food manual oil chase october order";

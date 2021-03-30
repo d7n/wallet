@@ -1,1 +1,1 @@
-var mnemonic = "olive nasty core brush erosion dignity bless impose secret endorse garden paper";
+var mnemonic = "arch south tourist clog quality clean physical pink fiber color fatigue rude";

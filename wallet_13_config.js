@@ -1,1 +1,1 @@
-var mnemonic = "aware response above birth ginger jeans woman cat hospital shrug glance silly";
+var mnemonic = "polar garlic prevent agent same business knock elephant purse cage apart wire";

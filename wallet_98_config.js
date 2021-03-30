@@ -1,1 +1,1 @@
-var mnemonic = "polar skill seed consider exhaust obvious unknown repair neck usual hobby dry";
+var mnemonic = "more bulk invest degree kiss sadness sense hunt rude village inform fatal";

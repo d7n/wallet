@@ -1,1 +1,1 @@
-var mnemonic = "egg risk train beauty grain expect ginger virus never window cycle behave";
+var mnemonic = "sing ginger panel universe orchard coast action buffalo frog glance lucky bind";

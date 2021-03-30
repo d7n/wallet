@@ -1,1 +1,1 @@
-var mnemonic = "brown own cancel absorb snack sadness clever bid position fold tomato now";
+var mnemonic = "slender space grit excite wear solar method valve code agent good snack";

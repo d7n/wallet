@@ -1,1 +1,1 @@
-var mnemonic = "thumb tunnel extra planet cement admit under eyebrow beauty vast security unfold";
+var mnemonic = "enemy street buzz okay sun corn spin cereal fix cry slam cute";

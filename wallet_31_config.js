@@ -1,1 +1,1 @@
-var mnemonic = "sorry click humble sound review like matter decline siren trust path alley";
+var mnemonic = "canal warfare order liberty flee excuse panda hill badge forum element innocent";

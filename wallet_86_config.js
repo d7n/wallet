@@ -1,1 +1,1 @@
-var mnemonic = "throw symbol behave decorate tonight mystery fresh tackle february chase damp taste";
+var mnemonic = "banner submit educate good isolate more token praise spatial robot buyer gesture";

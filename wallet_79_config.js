@@ -1,1 +1,1 @@
-var mnemonic = "debris planet tube involve shell staff nation perfect fog turn chapter violin";
+var mnemonic = "good fever unit use sleep guard rapid turn remove buffalo forest artist";

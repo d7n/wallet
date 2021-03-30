@@ -1,1 +1,1 @@
-var mnemonic = "sense earth keep muscle inspire tackle casual boost help domain buffalo transfer";
+var mnemonic = "deny biology broom defy rice name lend lady north promote scheme rack";

@@ -1,1 +1,1 @@
-var mnemonic = "degree portion diamond episode quarter reopen cushion flavor attitude pond discover other";
+var mnemonic = "draw retire evolve still bench inflict digital have enough utility smart physical";

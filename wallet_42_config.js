@@ -1,1 +1,1 @@
-var mnemonic = "fringe couple reject rural level winner stock eight subject dinner work play";
+var mnemonic = "ugly ship pelican drive volcano danger someone filter rebuild asthma monkey luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform tide lift imitate suffer eagle tail put measure pepper city lazy";
+var mnemonic = "favorite elbow silk pull inspire hood flat female snack cycle shadow visa";

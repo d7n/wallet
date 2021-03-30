@@ -1,1 +1,1 @@
-var mnemonic = "trip genuine bless fatigue hour erode pyramid canoe verify milk yellow bag";
+var mnemonic = "bag total notice truck ankle loud trust horse defense swallow response hollow";

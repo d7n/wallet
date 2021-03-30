@@ -1,1 +1,1 @@
-var mnemonic = "dune upon sand agent earn unlock rich hand flock still rude board";
+var mnemonic = "practice rhythm monkey struggle sick unlock bounce decline runway select drill hold";

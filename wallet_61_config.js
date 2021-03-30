@@ -1,1 +1,1 @@
-var mnemonic = "excess erase drill liquid remain resemble combine village income portion differ outer";
+var mnemonic = "female access drop ring bundle high chest crawl learn flee chunk caution";

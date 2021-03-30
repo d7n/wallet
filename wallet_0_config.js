@@ -1,1 +1,1 @@
-var mnemonic = "curious bundle adjust shy layer actor arrest bounce drama survey pigeon enlist";
+var mnemonic = "dinner cement million remind save autumn brain guide expose evidence vague latin";

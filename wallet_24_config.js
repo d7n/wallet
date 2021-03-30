@@ -1,1 +1,1 @@
-var mnemonic = "country clown hen net abstract napkin helmet syrup journey faith explain punch";
+var mnemonic = "change jazz next camera scatter fiber ghost capable weather vehicle sustain plastic";

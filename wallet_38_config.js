@@ -1,1 +1,1 @@
-var mnemonic = "soccer easily shiver route year round churn lyrics verify meat mirror fringe";
+var mnemonic = "decorate swamp nominee try pretty canoe enjoy step tonight notice net burden";

@@ -1,1 +1,1 @@
-var mnemonic = "catch possible will weapon gloom uphold bottom hurry argue ten attitude aerobic";
+var mnemonic = "next region merge write grocery asthma soccer damage early hospital thought maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "harvest seed fog nice useless flight select alley fever confirm amount kangaroo";
+var mnemonic = "shock street actual deputy journey brand famous spring piece close hybrid illness";

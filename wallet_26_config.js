@@ -1,1 +1,1 @@
-var mnemonic = "oven knock gasp viable assault sound miss seek tunnel stone hold anxiety";
+var mnemonic = "neither notice deny crystal rain rule rely typical shiver autumn click clerk";

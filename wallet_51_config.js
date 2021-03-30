@@ -1,1 +1,1 @@
-var mnemonic = "under fluid lemon fringe reject cigar return vendor hospital mesh wrong shallow";
+var mnemonic = "jar gloom double segment unusual slush solve caught later bring silver possible";

@@ -1,1 +1,1 @@
-var mnemonic = "strong walnut dirt lock immune drip then ball hospital fatal verify proud";
+var mnemonic = "enjoy sense absorb pen dish screen remember soccer sword clock drastic mention";

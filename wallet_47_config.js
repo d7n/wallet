@@ -1,1 +1,1 @@
-var mnemonic = "live uncle forum message rack sentence priority base walk illness ketchup impulse";
+var mnemonic = "struggle wrap merge coil bleak buzz flight imitate illegal figure winner virus";

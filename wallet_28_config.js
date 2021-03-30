@@ -1,1 +1,1 @@
-var mnemonic = "release response squirrel ankle price problem virus bronze resist believe gap muscle";
+var mnemonic = "help usage often duck girl switch echo top avoid youth tiger bulb";

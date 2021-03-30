@@ -1,1 +1,1 @@
-var mnemonic = "moral hurt okay joke cabin gather brief myself draw garment permit fiction";
+var mnemonic = "chase easy erupt public one able bomb syrup require finger wild coin";

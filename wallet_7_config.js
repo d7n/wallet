@@ -1,1 +1,1 @@
-var mnemonic = "embody liquid bread stomach input galaxy opinion derive aware best describe stumble";
+var mnemonic = "reduce dish jaguar bonus certain people bone magic absorb claim swallow dance";

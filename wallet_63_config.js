@@ -1,1 +1,1 @@
-var mnemonic = "local direct trouble interest snake trade sea stuff include body winner strategy";
+var mnemonic = "right crack spider warrior admit mixed outdoor eyebrow jewel skate gas rigid";

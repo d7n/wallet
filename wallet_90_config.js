@@ -1,1 +1,1 @@
-var mnemonic = "impulse almost result early focus rose rebel share knee air holiday chair";
+var mnemonic = "sock shed kitchen knife exist giant reunion insane taste worry flush hood";

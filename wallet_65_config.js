@@ -1,1 +1,1 @@
-var mnemonic = "valid rabbit universe zero regret winter mouse assist blur tumble below gadget";
+var mnemonic = "balcony enforce shed forum dumb pledge blanket able spoon advance tide lonely";

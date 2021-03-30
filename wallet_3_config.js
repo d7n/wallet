@@ -1,1 +1,1 @@
-var mnemonic = "surprise mask fluid web fun usage van expose defy turtle hire absent";
+var mnemonic = "foam approve replace shiver lazy bulb ancient festival call mad bomb analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "object choose orange there total travel address basket final spike rifle hungry";
+var mnemonic = "crash stumble diagram next improve army design remember tenant slush cross sword";

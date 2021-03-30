@@ -1,1 +1,1 @@
-var mnemonic = "walnut beach spike squeeze town pig alarm safe trap power awake silent";
+var mnemonic = "unaware very digital few skull lottery wage essay plug license example hard";

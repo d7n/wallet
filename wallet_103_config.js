@@ -1,1 +1,1 @@
-var mnemonic = "latin soft element cable bleak annual pepper wash roast lumber train dutch";
+var mnemonic = "pulp pistol auto ski panda title naive second earn lemon someone divorce";

@@ -1,1 +1,1 @@
-var mnemonic = "fall faith dumb verb film spray shop broken good there old ride";
+var mnemonic = "basic return aisle match flock budget engine voice choose cross supreme model";

@@ -1,1 +1,1 @@
-var mnemonic = "second leave brass cloth swim bridge armed eternal gorilla page current lecture";
+var mnemonic = "onion injury extra relief kiwi differ shoe autumn opera belt modify column";

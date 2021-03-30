@@ -1,1 +1,1 @@
-var mnemonic = "blast wheat shoot escape decide chunk dust access fantasy okay book acquire";
+var mnemonic = "rack say hawk hint velvet use current ripple sight mutual multiply puzzle";

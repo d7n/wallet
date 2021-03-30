@@ -1,1 +1,1 @@
-var mnemonic = "leisure era menu atom toy vague harbor goose virus banana project empty";
+var mnemonic = "cement farm gap advice captain dune ranch second supply book bone review";

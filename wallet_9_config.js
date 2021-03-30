@@ -1,1 +1,1 @@
-var mnemonic = "gold rose game auction avoid injury essence middle idea someone heavy just";
+var mnemonic = "eyebrow cram record august sleep sunny capable glory bird snow battle crazy";

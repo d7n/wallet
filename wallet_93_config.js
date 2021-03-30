@@ -1,1 +1,1 @@
-var mnemonic = "verb word reward atom minute diagram hidden zone arrive over solve happy";
+var mnemonic = "depend flush meadow absent napkin matter inject shy month olympic much place";

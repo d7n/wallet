@@ -1,1 +1,1 @@
-var mnemonic = "acid report betray tired toe razor glimpse moral fiscal steak convince violin";
+var mnemonic = "divert slot guilt crash cattle vintage coast detect broom letter cinnamon soda";

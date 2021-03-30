@@ -1,1 +1,1 @@
-var mnemonic = "element clever spin cage stock subject album maid width invite wonder season";
+var mnemonic = "giggle kite exotic usage mask scrap repeat fade cradle shrimp loyal off";

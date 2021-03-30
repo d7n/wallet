@@ -1,1 +1,1 @@
-var mnemonic = "teach drift orient write indicate staff clown rely pistol pelican nephew local";
+var mnemonic = "barely slush civil jewel rug around leader scrub pencil alert shock damp";

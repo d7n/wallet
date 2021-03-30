@@ -1,1 +1,1 @@
-var mnemonic = "index because cash harbor leader cherry venture hospital report hold doll shock";
+var mnemonic = "pitch sell either october job ladder scorpion wear roast item claw decorate";

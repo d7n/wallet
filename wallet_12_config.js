@@ -1,1 +1,1 @@
-var mnemonic = "powder clarify defy solution feature weapon ring grab thing hurry lunch mother";
+var mnemonic = "library badge release frozen juice estate prosper grit monster wink legal field";

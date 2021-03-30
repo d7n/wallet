@@ -1,1 +1,1 @@
-var mnemonic = "canyon cake lift trigger other grunt remind genre cabin apart execute legend";
+var mnemonic = "curtain quiz victory apart bright disease document attract differ episode path wasp";

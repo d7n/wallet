@@ -1,1 +1,1 @@
-var mnemonic = "bind retire walk cage space ski fiber helmet husband custom owner cigar";
+var mnemonic = "base turtle whale decide three cage flee boy vacant turkey embrace dose";

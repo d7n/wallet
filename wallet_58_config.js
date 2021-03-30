@@ -1,1 +1,1 @@
-var mnemonic = "play planet before sibling nut swamp file actress sister tennis clay toward";
+var mnemonic = "smart mandate orphan real pet allow hotel twist carbon defense tree zone";

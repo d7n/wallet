@@ -1,1 +1,1 @@
-var mnemonic = "divert human taste orchard actress alert purpose enhance depart base area color";
+var mnemonic = "collect useful build ready alone inform solution nerve merry evil miss fan";

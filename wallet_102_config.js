@@ -1,1 +1,1 @@
-var mnemonic = "curve mountain scale add hungry radar setup saddle century icon mystery orange";
+var mnemonic = "dry mail sock warfare maximum feature merry deputy common minute spell picnic";

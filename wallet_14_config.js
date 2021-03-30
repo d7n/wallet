@@ -1,1 +1,1 @@
-var mnemonic = "use digital danger learn key candy hurt fatal agent priority legend fire";
+var mnemonic = "useless student online surround pioneer verify word side coast wash trip town";

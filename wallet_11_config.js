@@ -1,1 +1,1 @@
-var mnemonic = "poet girl game ripple theory pave quit pattern silent alcohol author library";
+var mnemonic = "welcome feed bulk carpet loud bright pill attract cream material ecology dice";

@@ -1,1 +1,1 @@
-var mnemonic = "worry tired judge stay math curious rocket negative armed arrive maximum warm";
+var mnemonic = "pig actual dad worry security certain sell become choose shove flush riot";

@@ -1,1 +1,1 @@
-var mnemonic = "zone autumn route rotate bottom cattle gentle rice good deputy report menu";
+var mnemonic = "behave pole depth tuna kind toe open shop jungle best okay decrease";

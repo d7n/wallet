@@ -1,1 +1,1 @@
-var mnemonic = "business range wasp elephant trick find empower clarify skin youth measure camera";
+var mnemonic = "ethics bronze crumble robust brother romance document cliff butter edge interest industry";

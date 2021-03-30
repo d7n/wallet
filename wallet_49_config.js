@@ -1,1 +1,1 @@
-var mnemonic = "wonder where abstract resist sauce kid bird wave artefact market verify evoke";
+var mnemonic = "very entry blood frame silent accident shoe piece supreme reform young canvas";

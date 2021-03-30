@@ -1,1 +1,1 @@
-var mnemonic = "wink actor belt judge alarm security lecture lemon inhale vault health accident";
+var mnemonic = "speak easy hard honey alley current stereo sentence glide crane anchor quarter";

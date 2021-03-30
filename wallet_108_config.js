@@ -1,1 +1,1 @@
-var mnemonic = "example deny urban six zoo open file true insect energy only daughter";
+var mnemonic = "random boil crowd trip fit kitchen mobile girl goat circle merge trust";

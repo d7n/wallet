@@ -1,1 +1,1 @@
-var mnemonic = "warfare remember limb shed lawsuit frozen during sudden couple stove canal monitor";
+var mnemonic = "remove tuna wrestle lecture clerk bind custom pencil option include promote session";

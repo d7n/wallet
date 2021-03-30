@@ -1,1 +1,1 @@
-var mnemonic = "effort wife sock jaguar mobile provide nut virus crash ill saddle once";
+var mnemonic = "float bargain echo screen eye palace diesel rent bronze slush question vapor";

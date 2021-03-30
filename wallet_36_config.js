@@ -1,1 +1,1 @@
-var mnemonic = "catalog movie pill orient calm pave mad young boring enroll valid decorate";
+var mnemonic = "slim ten buffalo various behind true limit blue other cook detect match";

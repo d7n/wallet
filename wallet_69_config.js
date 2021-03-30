@@ -1,1 +1,1 @@
-var mnemonic = "vacant december fetch enrich pond proud finger universe floor link pet amount";
+var mnemonic = "add version sunset quick liquid aerobic hello reduce orphan crazy already transfer";

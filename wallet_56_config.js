@@ -1,1 +1,1 @@
-var mnemonic = "cost hen squeeze door spray reform early surround sample identify bundle run";
+var mnemonic = "quality strike easily venue project arrow sing athlete narrow suggest kick wire";

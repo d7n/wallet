@@ -1,1 +1,1 @@
-var mnemonic = "remind dizzy around push dignity custom squirrel opinion hedgehog equip rough wrestle";
+var mnemonic = "retreat resist laptop cruel half credit delay jeans found gospel impose tent";

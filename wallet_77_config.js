@@ -1,1 +1,1 @@
-var mnemonic = "curtain entire negative net found grief cherry select ability yard ramp lecture";
+var mnemonic = "peanut echo paper kid soldier tray roast emerge effort estate corn aunt";

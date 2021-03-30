@@ -1,1 +1,1 @@
-var mnemonic = "dolphin ripple coil guard shrug sun burden rebel work execute settle identify";
+var mnemonic = "salmon silent laugh key mother holiday bitter slim brisk noble boring oblige";

@@ -1,1 +1,1 @@
-var mnemonic = "almost embark sleep pipe large metal rapid jaguar bottom luggage index present";
+var mnemonic = "traffic city prize improve memory burst follow pottery used mountain explain globe";

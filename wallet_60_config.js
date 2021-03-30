@@ -1,1 +1,1 @@
-var mnemonic = "stumble web elbow trend zoo dinner truth tissue coyote require turkey flight";
+var mnemonic = "pelican anger build cheese ritual electric sibling claim lake buyer bomb fold";

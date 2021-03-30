@@ -1,1 +1,1 @@
-var mnemonic = "bottom island gym copy expect arm ask fish summer join inhale laundry";
+var mnemonic = "tower fault patrol spell target crumble act affair cradle result spike route";

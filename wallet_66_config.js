@@ -1,1 +1,1 @@
-var mnemonic = "win figure pattern diamond little sing rather number vibrant behave orange actress";
+var mnemonic = "faint open jungle file rose aisle buzz disagree window great awake obscure";

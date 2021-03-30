@@ -1,1 +1,1 @@
-var mnemonic = "cargo forest this puppy there paddle song peasant crystal timber response credit";
+var mnemonic = "rate travel allow need spatial bench century there differ typical resist real";

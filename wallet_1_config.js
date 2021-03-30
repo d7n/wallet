@@ -1,1 +1,1 @@
-var mnemonic = "caution tired type width kind morning faint wisdom edge limb survey critic";
+var mnemonic = "solution bless major desert tennis village voyage luxury spoon empower rug immense";

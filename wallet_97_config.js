@@ -1,1 +1,1 @@
-var mnemonic = "hockey vendor mesh worry genius trip lab blind ride combine quantum tennis";
+var mnemonic = "physical major ghost betray morning script aerobic retreat ketchup make oyster exile";
