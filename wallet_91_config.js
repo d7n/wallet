@@ -1,1 +1,1 @@
-var mnemonic = "shell almost genuine fabric lion piano limb census argue again property album";
+var mnemonic = "coyote heart coast theme fox gaze cat banner hair hold picture sound";

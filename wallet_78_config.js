@@ -1,1 +1,1 @@
-var mnemonic = "fortune accident rabbit canvas arena reform veteran address amazing clever pattern raccoon";
+var mnemonic = "harbor start myth trial shuffle yard again eager hole shallow grain leaf";

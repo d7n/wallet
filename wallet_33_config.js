@@ -1,1 +1,1 @@
-var mnemonic = "recycle sword actor body planet book curtain seven arrange truck card govern";
+var mnemonic = "spot frequent vintage away calm spray like truth resemble foot rely annual";

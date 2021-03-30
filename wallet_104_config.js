@@ -1,1 +1,1 @@
-var mnemonic = "chest drop still seminar flee toddler that electric shield debate pepper lock";
+var mnemonic = "faculty forget despair frown congress canoe magnet blade leave vintage stage mobile";

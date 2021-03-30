@@ -1,1 +1,1 @@
-var mnemonic = "ethics three feel drip portion thunder napkin exit liberty return claim omit";
+var mnemonic = "settle unit build merit stem child enter buzz main video spirit art";

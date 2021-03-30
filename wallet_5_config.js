@@ -1,1 +1,1 @@
-var mnemonic = "board country spring wasp bird bacon learn happy spot source code phrase";
+var mnemonic = "panther menu picture crumble name bicycle drive fire switch galaxy benefit bubble";

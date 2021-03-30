@@ -1,1 +1,1 @@
-var mnemonic = "purse depend purity file rocket uncle category verb outside bind trip vacant";
+var mnemonic = "rubber task vault enact catch pride science merge defense bring hidden agent";

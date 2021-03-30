@@ -1,1 +1,1 @@
-var mnemonic = "bridge repair silk mystery mango equal uncle slight simple skirt hedgehog tiger";
+var mnemonic = "panther kitchen lab ramp such smart inner grab report receive essay easy";

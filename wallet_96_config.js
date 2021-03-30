@@ -1,1 +1,1 @@
-var mnemonic = "kick dumb sail enact peace length bike inhale dance flame surge inherit";
+var mnemonic = "machine dose clump trouble desk similar slender clerk endorse change clock detect";

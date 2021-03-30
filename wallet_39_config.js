@@ -1,1 +1,1 @@
-var mnemonic = "thrive popular bachelor recycle movie hub index spike prison elbow risk kind";
+var mnemonic = "senior cross news cool tourist sleep warrior dinosaur couch legend viable group";

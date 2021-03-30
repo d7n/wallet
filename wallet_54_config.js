@@ -1,1 +1,1 @@
-var mnemonic = "common metal jar crawl bench busy version wisdom tenant earn puzzle truly";
+var mnemonic = "canvas donor outside roof hover wrist abstract inner cereal lucky thumb blouse";

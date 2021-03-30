@@ -1,1 +1,1 @@
-var mnemonic = "chest butter evil boy cereal horn turn select inform pair off melt";
+var mnemonic = "aspect disease fork order breeze old object summer gorilla chimney image mirror";

@@ -1,1 +1,1 @@
-var mnemonic = "autumn depart draw sense nice shy wool damage library mansion maximum country";
+var mnemonic = "path invite suspect fire supply brick canal toward minute begin brand virus";

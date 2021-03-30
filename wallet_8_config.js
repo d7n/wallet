@@ -1,1 +1,1 @@
-var mnemonic = "board vehicle ability scheme spirit lesson scale metal delay repeat embark amused";
+var mnemonic = "inquiry profit strong slow little spell utility victory canvas clinic uncle clutch";

@@ -1,1 +1,1 @@
-var mnemonic = "space tattoo second fatigue raw winter rescue blind already finger globe swear";
+var mnemonic = "helmet holiday ride unfair exhaust rhythm decade inmate luggage emotion grape chat";

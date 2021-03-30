@@ -1,1 +1,1 @@
-var mnemonic = "shove tomato sign multiply prepare crazy dream ordinary champion amount merge fat";
+var mnemonic = "explain own gym despair ugly aspect sample poverty agree crew lawsuit middle";

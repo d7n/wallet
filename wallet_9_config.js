@@ -1,1 +1,1 @@
-var mnemonic = "upgrade thumb predict length radar ball nut cruel pretty piano salt glance";
+var mnemonic = "sock subject hour slice bottom uncover wild cage artefact profit usual race";

@@ -1,1 +1,1 @@
-var mnemonic = "agree member flip cigar fuel cross finger reunion gate silver barrel kid";
+var mnemonic = "day brisk gas figure ticket shed fiction grit gentle leisure mule lawn";

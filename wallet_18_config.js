@@ -1,1 +1,1 @@
-var mnemonic = "public butter tree crash win vendor soldier wait inject swap science leave";
+var mnemonic = "point dream unhappy biology word clock little inside slam language inherit tornado";

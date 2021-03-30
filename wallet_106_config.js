@@ -1,1 +1,1 @@
-var mnemonic = "exact budget motor treat certain solution under bag night absorb arrow hunt";
+var mnemonic = "uncover fruit execute syrup soup shallow honey once office issue swear danger";

@@ -1,1 +1,1 @@
-var mnemonic = "latin title slight soon outdoor lazy hood brisk liquid six spoil anchor";
+var mnemonic = "visa near alert penalty senior world mask illness door mail butter elbow";

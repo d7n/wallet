@@ -1,1 +1,1 @@
-var mnemonic = "screen blue vacuum clock other dilemma escape rough shove fence label approve";
+var mnemonic = "tornado during text hazard draw deputy moon elder review object inflict palace";

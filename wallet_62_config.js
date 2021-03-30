@@ -1,1 +1,1 @@
-var mnemonic = "annual device lend option detail exchange car green female stool heavy join";
+var mnemonic = "wool review galaxy million census desert anxiety high auto start clarify select";

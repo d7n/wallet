@@ -1,1 +1,1 @@
-var mnemonic = "acid mansion soup busy hedgehog keep six genuine birth wagon eye pig";
+var mnemonic = "permit alley hair quantum kiwi sweet soap ticket announce ice zebra loud";

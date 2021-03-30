@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow price marble earn judge front slow world angry puzzle just parade";
+var mnemonic = "able property spread lion economy hint price lonely creek front pave iron";

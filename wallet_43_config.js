@@ -1,1 +1,1 @@
-var mnemonic = "subway horse brief sketch wrap neglect pizza sniff cook circle clay rent";
+var mnemonic = "trick smooth solve armor trigger warrior film donor grow cage baby dress";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing cricket inquiry punch forward bench push mobile security host proof divide";
+var mnemonic = "chalk together provide sword amused miss between radio focus zebra shrug garlic";

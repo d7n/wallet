@@ -1,1 +1,1 @@
-var mnemonic = "deer morning business drop cliff ride lounge proud farm worry cousin occur";
+var mnemonic = "jewel gap prison tiger mean fog model net stadium habit height keen";

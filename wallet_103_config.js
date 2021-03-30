@@ -1,1 +1,1 @@
-var mnemonic = "ketchup matter cash nice true crane age glare siren cage wine onion";
+var mnemonic = "lobster aware ask trend parent ancient consider nothing toy degree wealth horror";

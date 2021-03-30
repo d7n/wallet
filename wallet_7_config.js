@@ -1,1 +1,1 @@
-var mnemonic = "earth brief comic total faculty alpha deal toss income inflict deal tube";
+var mnemonic = "device whip soap test glide disease fetch salad faint funny season return";

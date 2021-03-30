@@ -1,1 +1,1 @@
-var mnemonic = "million property hybrid render goose emotion jar tower kit build lab husband";
+var mnemonic = "absurd rose cost nice fresh blue mean festival swap off column chimney";

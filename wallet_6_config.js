@@ -1,1 +1,1 @@
-var mnemonic = "issue rate guilt just neck match crisp winner hotel warrior water orient";
+var mnemonic = "hawk mom settle intact eager couple cake grunt wheel vast labor cream";

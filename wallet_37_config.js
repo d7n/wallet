@@ -1,1 +1,1 @@
-var mnemonic = "verb enemy tuna oval total magnet rocket glue cluster quarter egg upgrade";
+var mnemonic = "trim pole skull twelve scrap best urban someone include mixed awesome upset";

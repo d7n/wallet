@@ -1,1 +1,1 @@
-var mnemonic = "mosquito broccoli various side cannon army vivid wash pave there gown giant";
+var mnemonic = "project million inhale talk enough sound inside bullet mouse code guitar rhythm";

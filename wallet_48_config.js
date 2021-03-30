@@ -1,1 +1,1 @@
-var mnemonic = "flag broccoli sorry update payment parade age slice room corn receive clay";
+var mnemonic = "divide stamp mouse video crack wedding prepare twist shadow win middle wedding";

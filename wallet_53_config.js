@@ -1,1 +1,1 @@
-var mnemonic = "earn smooth sugar segment level anger pet course wrestle fork exit layer";
+var mnemonic = "solid limb sport duty cause result model crater mercy forward truth absent";

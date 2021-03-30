@@ -1,1 +1,1 @@
-var mnemonic = "weasel wrap obey disagree danger cook robot item state arctic chuckle asset";
+var mnemonic = "coin toe leave shiver gas remove upgrade strategy siren gentle welcome warm";

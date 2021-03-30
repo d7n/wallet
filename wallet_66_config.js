@@ -1,1 +1,1 @@
-var mnemonic = "key illness object find trip regular switch casual wise girl doctor notable";
+var mnemonic = "pony require inner thing burger flag relax weather north soldier hire siege";

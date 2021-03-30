@@ -1,1 +1,1 @@
-var mnemonic = "protect glue fly snack evolve hungry cattle economy scorpion poet page ribbon";
+var mnemonic = "junior ship table romance water energy crack lesson height off athlete token";

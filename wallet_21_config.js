@@ -1,1 +1,1 @@
-var mnemonic = "chest ostrich correct observe bronze shine maid month valley broom mushroom cattle";
+var mnemonic = "donor roast such vague daughter response fragile purse oppose ring effort recall";

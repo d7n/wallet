@@ -1,1 +1,1 @@
-var mnemonic = "elegant drift toy good try boring mass sing simple achieve iron aerobic";
+var mnemonic = "busy cricket toy action trade tell neither chaos legal bag dragon pluck";

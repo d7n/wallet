@@ -1,1 +1,1 @@
-var mnemonic = "faint town upper rose small afford cradle hand punch relief abandon between";
+var mnemonic = "crime oak dutch panda doctor twelve throw much clock eager clarify phrase";

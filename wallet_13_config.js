@@ -1,1 +1,1 @@
-var mnemonic = "stool depth cost maid skin head dolphin caution pole purpose staff trim";
+var mnemonic = "access sense multiply remind oval carry strategy medal success alert tragic young";

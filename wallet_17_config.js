@@ -1,1 +1,1 @@
-var mnemonic = "blur used type defy phrase library swarm candy eight slot mean demand";
+var mnemonic = "occur crouch juice velvet sting chest nominee squirrel toward very lounge zone";

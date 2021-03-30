@@ -1,1 +1,1 @@
-var mnemonic = "art flee trouble inform bind grief delay matrix shadow violin silk maximum";
+var mnemonic = "multiply find disorder supreme advice forest snow purse trigger address theme genuine";

@@ -1,1 +1,1 @@
-var mnemonic = "tobacco open twelve laugh salon pattern census coffee buzz pioneer ensure calm";
+var mnemonic = "liberty poverty text sauce apology ship hungry spoil consider category modify quote";

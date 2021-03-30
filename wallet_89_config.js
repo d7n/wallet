@@ -1,1 +1,1 @@
-var mnemonic = "peanut orphan mention reunion heart gap cable zero upon glow fence cave";
+var mnemonic = "attract piano cover hotel obey aunt harsh primary flash cup direct arm";

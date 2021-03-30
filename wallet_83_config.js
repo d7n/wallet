@@ -1,1 +1,1 @@
-var mnemonic = "siren foam obscure immune rug gospel convince exclude protect trust misery cancel";
+var mnemonic = "wise ordinary trophy deputy neutral unhappy guess grass glue kitten learn walnut";

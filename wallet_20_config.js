@@ -1,1 +1,1 @@
-var mnemonic = "mystery valid opinion script behave avoid weapon share soccer wealth hotel walk";
+var mnemonic = "solar dune shield virus middle armor finish head absurd cinnamon assume loan";

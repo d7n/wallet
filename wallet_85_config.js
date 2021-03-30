@@ -1,1 +1,1 @@
-var mnemonic = "flock drum turtle company crystal dawn betray dilemma era kangaroo position whisper";
+var mnemonic = "library program lonely swear camera siege casino degree motor trial type match";

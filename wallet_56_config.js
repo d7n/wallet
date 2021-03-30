@@ -1,1 +1,1 @@
-var mnemonic = "network tobacco mesh palace because rude iron catalog observe hurt crime burden";
+var mnemonic = "black hurdle aspect response coin utility nerve bag lock throw short mango";

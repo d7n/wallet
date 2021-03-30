@@ -1,1 +1,1 @@
-var mnemonic = "recipe census open absurd lock purity creek dust return enlist jaguar display";
+var mnemonic = "brave victory write cause claw exchange fire rent wisdom slow kitten install";

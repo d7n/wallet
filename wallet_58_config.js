@@ -1,1 +1,1 @@
-var mnemonic = "chimney today loan breeze below sunny gloom volcano hole job clarify tip";
+var mnemonic = "firm wave boat torch middle iron invest lobster drill typical rack include";

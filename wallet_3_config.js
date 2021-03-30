@@ -1,1 +1,1 @@
-var mnemonic = "crisp invest unlock borrow define cloth write unique orbit apology august vessel";
+var mnemonic = "lawsuit upset hip feature proof retire broom raise capable short any grow";

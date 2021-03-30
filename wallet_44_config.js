@@ -1,1 +1,1 @@
-var mnemonic = "latin doll couple future resemble practice soul couple cycle job spider range";
+var mnemonic = "inhale scare lunch system width crack alert option rent lion pattern domain";

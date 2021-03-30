@@ -1,1 +1,1 @@
-var mnemonic = "shaft teach govern village cousin loyal help bottom saddle ticket service label";
+var mnemonic = "surge august must coffee prefer horn person bone surge grid indicate limit";

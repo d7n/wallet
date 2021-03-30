@@ -1,1 +1,1 @@
-var mnemonic = "mountain absurd myself resource feed slot effort excess cage multiply fringe lake";
+var mnemonic = "plate regret device goose message interest diagram march family layer shield harbor";

@@ -1,1 +1,1 @@
-var mnemonic = "seat tumble appear rubber foot bind skirt feed fatigue recipe grit heart";
+var mnemonic = "desk heart calm review large leopard eager expire reform trophy wine empty";

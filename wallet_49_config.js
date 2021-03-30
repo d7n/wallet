@@ -1,1 +1,1 @@
-var mnemonic = "primary mention path month situate super club oak garbage potato shoe palace";
+var mnemonic = "ostrich woman silk course laugh security odor energy elevator else abandon appear";

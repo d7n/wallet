@@ -1,1 +1,1 @@
-var mnemonic = "occur wink soap end grief grit response embrace must tip admit pattern";
+var mnemonic = "scout hidden fat smile novel farm toward will video address distance section";

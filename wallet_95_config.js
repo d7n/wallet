@@ -1,1 +1,1 @@
-var mnemonic = "tomato shock peace rice link sense title modify oval avoid donkey april";
+var mnemonic = "reform amateur such wrestle safe soft derive antique barrel present seek stomach";

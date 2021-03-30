@@ -1,1 +1,1 @@
-var mnemonic = "naive scatter wedding two hospital obvious picnic front borrow doctor orbit rubber";
+var mnemonic = "cloth pulse skin naive rule pluck garbage fruit group cause theme vague";

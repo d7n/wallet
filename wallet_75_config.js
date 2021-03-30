@@ -1,1 +1,1 @@
-var mnemonic = "session company hedgehog arm vague place scene receive grace abuse soap angle";
+var mnemonic = "nuclear bus tackle deal wrap decrease light insect hurry move faint scale";

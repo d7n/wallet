@@ -1,1 +1,1 @@
-var mnemonic = "journey quote mountain bullet lonely guilt siren fit keep risk usage artist";
+var mnemonic = "regular hidden pitch document wrap subway wedding clerk debate possible awesome dawn";

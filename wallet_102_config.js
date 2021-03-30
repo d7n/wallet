@@ -1,1 +1,1 @@
-var mnemonic = "expose cannon ask gym shield rely arctic town coast citizen salmon bounce";
+var mnemonic = "valid slogan sing bunker biology civil tell fetch ranch useful misery business";

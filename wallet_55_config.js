@@ -1,1 +1,1 @@
-var mnemonic = "essay live tragic gasp proof plate faculty robust prosper forest praise act";
+var mnemonic = "beach knife misery zoo suit apart hammer chest must basic bundle license";

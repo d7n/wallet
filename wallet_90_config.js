@@ -1,1 +1,1 @@
-var mnemonic = "lab busy bronze fault little cloth possible enough breeze estate airport chimney";
+var mnemonic = "churn tuition decade liar chapter front flower inquiry chair middle board settle";

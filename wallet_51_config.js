@@ -1,1 +1,1 @@
-var mnemonic = "wish crash lottery lemon post globe fix reform tag milk flush woman";
+var mnemonic = "polar mouse gym agent verify cinnamon pottery blast vacuum one pear broccoli";

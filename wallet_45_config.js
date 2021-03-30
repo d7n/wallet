@@ -1,1 +1,1 @@
-var mnemonic = "price inquiry oyster shuffle kingdom scatter october quantum crawl system north elevator";
+var mnemonic = "west economy kiwi tennis ski skin wood quarter surprise clean fun wrong";

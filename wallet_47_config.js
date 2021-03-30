@@ -1,1 +1,1 @@
-var mnemonic = "equal anxiety brief toe control carry ketchup fringe taste auction twenty seven";
+var mnemonic = "orphan away error float glass pause involve siege erupt animal exhaust rabbit";

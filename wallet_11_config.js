@@ -1,1 +1,1 @@
-var mnemonic = "velvet floor soap final maze tobacco amused drift damp nature iron point";
+var mnemonic = "code rubber claw attitude advance adjust sting often discover rural pumpkin apple";

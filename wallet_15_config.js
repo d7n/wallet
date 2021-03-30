@@ -1,1 +1,1 @@
-var mnemonic = "talent spread grain grab demise foster judge square tiger flat canyon mom";
+var mnemonic = "alert shoe duty hire beach silver proof auto come clerk color unit";

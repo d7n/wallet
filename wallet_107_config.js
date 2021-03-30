@@ -1,1 +1,1 @@
-var mnemonic = "custom major ladder equal fine milk disease vivid season they denial fabric";
+var mnemonic = "change general brief small travel employ pizza rain fame street kiwi tag";

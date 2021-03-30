@@ -1,1 +1,1 @@
-var mnemonic = "zoo weasel perfect general clock potato narrow team nose differ raw nature";
+var mnemonic = "fit task please approve air huge tag accident wool pudding act blanket";

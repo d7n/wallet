@@ -1,1 +1,1 @@
-var mnemonic = "liberty demand corn estate garment grain lizard trash donor dove battle squirrel";
+var mnemonic = "kingdom genuine meadow era garden barrel absorb oil visa frog essence couch";

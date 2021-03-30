@@ -1,1 +1,1 @@
-var mnemonic = "civil tiger problem butter fluid rookie task vivid ghost peace orchard own";
+var mnemonic = "hip keen warrior climb brain detect breeze canvas other master obey old";

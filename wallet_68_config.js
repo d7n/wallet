@@ -1,1 +1,1 @@
-var mnemonic = "already laptop mimic opera auction index excuse feature reopen file melody throw";
+var mnemonic = "wealth shift stove gym cousin open bargain admit buzz pass prevent man";

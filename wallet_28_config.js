@@ -1,1 +1,1 @@
-var mnemonic = "naive allow waste evoke still permit winner stand devote canyon bean blast";
+var mnemonic = "cabin excuse label gap hint toddler pond priority grid erode taste mad";

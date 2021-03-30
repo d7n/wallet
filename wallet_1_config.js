@@ -1,1 +1,1 @@
-var mnemonic = "scan busy during enough siren prevent surface reform index squirrel govern job";
+var mnemonic = "hen staff guitar power about sing gold supply used body visual seek";

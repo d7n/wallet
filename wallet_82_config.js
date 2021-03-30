@@ -1,1 +1,1 @@
-var mnemonic = "prevent giraffe tenant plug fuel into mention emotion crystal filter inquiry bike";
+var mnemonic = "mistake share picnic someone fall system mercy awkward theory mountain impose rely";

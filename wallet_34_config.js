@@ -1,1 +1,1 @@
-var mnemonic = "dream illness gold mention nation chronic decade dinosaur dash candy exist weather";
+var mnemonic = "casino muffin brain blind parrot above above rival rocket warrior sock position";

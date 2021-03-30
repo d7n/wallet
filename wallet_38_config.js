@@ -1,1 +1,1 @@
-var mnemonic = "rate umbrella gown brown tiny bracket west heart syrup muffin find jewel";
+var mnemonic = "urban test question heavy harbor write diary obey dawn place guess magnet";

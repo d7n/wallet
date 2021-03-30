@@ -1,1 +1,1 @@
-var mnemonic = "wish average mango novel galaxy impose lake purse once oppose monkey crush";
+var mnemonic = "gather moral snake recipe fluid beauty recall pave exclude torch grape random";

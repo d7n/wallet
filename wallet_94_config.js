@@ -1,1 +1,1 @@
-var mnemonic = "loop rabbit glare bar bitter detect monkey chaos meadow scene depart quarter";
+var mnemonic = "sea vanish swamp admit affair purity army air gap slogan unlock casual";

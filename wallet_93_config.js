@@ -1,1 +1,1 @@
-var mnemonic = "detect shiver fancy volcano sound south bonus voyage bid butter icon income";
+var mnemonic = "age still promote metal dash dream valley fee journey tape mesh exclude";

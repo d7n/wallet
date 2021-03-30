@@ -1,1 +1,1 @@
-var mnemonic = "cloth fatal bitter rib inside quiz woman once orient convince slam used";
+var mnemonic = "mouse tag bleak demise little flag certain vintage car raw dentist oil";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe library provide balance tank portion detail suffer edge enact wisdom lend";
+var mnemonic = "plate pink goose skin feed else month volcano will move neck side";

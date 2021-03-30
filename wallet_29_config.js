@@ -1,1 +1,1 @@
-var mnemonic = "proof glory donate lend six used truck donkey slam project lucky stone";
+var mnemonic = "divert edit proof review join battle more dumb solid stereo robust wink";
