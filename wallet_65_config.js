@@ -1,1 +1,1 @@
-var mnemonic = "betray heart champion vital search exit vague choose soon bundle slight never";
+var mnemonic = "city banana attitude dentist science glide fluid unique exotic scene vintage fruit";

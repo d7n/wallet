@@ -1,1 +1,1 @@
-var mnemonic = "festival thumb float awkward six goose wall already elegant exercise trumpet carpet";
+var mnemonic = "mandate heart noise pen repeat wrap cactus know require fabric afford elephant";

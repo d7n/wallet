@@ -1,1 +1,1 @@
-var mnemonic = "safe romance matrix clay marine nice valve sugar correct bench damage mango";
+var mnemonic = "thrive bid pear photo asthma mother midnight panic you bunker rate path";

@@ -1,1 +1,1 @@
-var mnemonic = "jump father august crack heavy boost warrior choose churn wrist stomach cart";
+var mnemonic = "impose series truck camp video purse author peace click space high shove";

@@ -1,1 +1,1 @@
-var mnemonic = "spend load mask subway this knock portion govern thought diagram chief nose";
+var mnemonic = "alley banana bargain huge sibling steak sign dial immense little beyond whip";

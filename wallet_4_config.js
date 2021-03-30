@@ -1,1 +1,1 @@
-var mnemonic = "alley beach rich captain attract curious matrix leopard real urban differ rich";
+var mnemonic = "rather vapor target solution develop build child novel muscle dance embody stay";

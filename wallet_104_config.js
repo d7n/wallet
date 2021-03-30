@@ -1,1 +1,1 @@
-var mnemonic = "impose produce wait mule cousin thank motor foster gravity talk chunk forget";
+var mnemonic = "liar roof pony talk town rapid autumn valve senior anger shove drama";

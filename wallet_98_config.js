@@ -1,1 +1,1 @@
-var mnemonic = "setup hockey funny barely annual army escape sick suspect explain earn purity";
+var mnemonic = "extra join stereo tonight happy little enable sound shoe science payment grocery";

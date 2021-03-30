@@ -1,1 +1,1 @@
-var mnemonic = "limb oval metal moon silent company satisfy spirit program survey pride copper";
+var mnemonic = "nut cat boss firm use return frequent kiss brown deal olive rough";

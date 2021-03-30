@@ -1,1 +1,1 @@
-var mnemonic = "choose festival hat mirror recall diagram chronic area quick eyebrow wear firm";
+var mnemonic = "future over hurry trend plunge ill exit train exclude second tape betray";

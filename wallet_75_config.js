@@ -1,1 +1,1 @@
-var mnemonic = "adjust mouse guitar heavy oak minor else purity nuclear hero bind off";
+var mnemonic = "blast spy argue busy snow lesson season melt window beauty ready opinion";

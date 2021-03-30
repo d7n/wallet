@@ -1,1 +1,1 @@
-var mnemonic = "knee spice submit awkward limit waste enable honey science invest fancy leisure";
+var mnemonic = "stove deposit biology leg alter will train exotic powder bring float snow";

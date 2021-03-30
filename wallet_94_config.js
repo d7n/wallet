@@ -1,1 +1,1 @@
-var mnemonic = "club pink student silent ball airport animal salt common arctic hole cloth";
+var mnemonic = "muffin naive motor anger three brush jaguar market lawsuit resist pipe radar";

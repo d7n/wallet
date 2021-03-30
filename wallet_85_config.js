@@ -1,1 +1,1 @@
-var mnemonic = "jelly middle inmate fence ridge chef detail lamp valley onion violin uncover";
+var mnemonic = "rug merit wonder humble fruit tide age exotic damp spare change mutual";

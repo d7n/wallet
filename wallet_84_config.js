@@ -1,1 +1,1 @@
-var mnemonic = "among scheme lecture few devote kit kind film visit mule ordinary slice";
+var mnemonic = "few job like rude scrub solve fatal jungle caught column fatigue reveal";

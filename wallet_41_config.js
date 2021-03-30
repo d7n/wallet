@@ -1,1 +1,1 @@
-var mnemonic = "dose eager what pizza soap face pink coconut private same price cause";
+var mnemonic = "spell prison silk marble hunt hobby rather jealous possible alarm solution zero";

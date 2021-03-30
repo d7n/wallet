@@ -1,1 +1,1 @@
-var mnemonic = "siege drama fiction lyrics tunnel essay couch wave fashion total minimum zoo";
+var mnemonic = "craft lonely business worry mountain elder parrot flee group salute toe sheriff";

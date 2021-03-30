@@ -1,1 +1,1 @@
-var mnemonic = "code bargain buddy pigeon false elephant word casino question sport sibling volcano";
+var mnemonic = "marriage need off video visa transfer text enact sunny category offer convince";

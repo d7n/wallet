@@ -1,1 +1,1 @@
-var mnemonic = "humor ozone rather large scan theme repair interest gaze pumpkin purchase stomach";
+var mnemonic = "motor carbon crawl west test attack slice sad advice atom identify round";

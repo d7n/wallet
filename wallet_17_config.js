@@ -1,1 +1,1 @@
-var mnemonic = "rigid amateur acoustic toe point list term immense reform green kiss demise";
+var mnemonic = "lawn defense bachelor cube solid census cigar grain retreat say verify private";

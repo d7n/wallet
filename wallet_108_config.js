@@ -1,1 +1,1 @@
-var mnemonic = "income option kitten crack rigid shy time industry walnut code ketchup urban";
+var mnemonic = "claw genius diary viable high ancient second spell scatter pitch eager electric";

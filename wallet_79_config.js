@@ -1,1 +1,1 @@
-var mnemonic = "example hazard sunny actor hawk main noise stick save token access umbrella";
+var mnemonic = "leg emerge lesson woman capable knife rifle tower object razor cluster bird";

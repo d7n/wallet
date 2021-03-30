@@ -1,1 +1,1 @@
-var mnemonic = "concert bridge stomach rebuild fetch asthma diamond fault vote shrimp demand join";
+var mnemonic = "company situate twist lion amateur observe sunset rice rate umbrella balcony cluster";

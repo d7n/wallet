@@ -1,1 +1,1 @@
-var mnemonic = "cash kiss general absorb scissors allow gun paper recycle chapter ball man";
+var mnemonic = "rocket buzz siege cram mean save ugly entire crush canal define practice";

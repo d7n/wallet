@@ -1,1 +1,1 @@
-var mnemonic = "utility ride gloom mad practice sponsor flower pottery favorite mosquito violin pizza";
+var mnemonic = "today stone rigid alone private response open grief spoil average just board";

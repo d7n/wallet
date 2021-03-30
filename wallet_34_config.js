@@ -1,1 +1,1 @@
-var mnemonic = "run battle wrist nut damage merry world sand shoulder approve unique rural";
+var mnemonic = "alone polar game now pride iron push glow task talk apology tragic";

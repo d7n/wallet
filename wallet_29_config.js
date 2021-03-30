@@ -1,1 +1,1 @@
-var mnemonic = "jaguar erosion lock power clump salt cry object ketchup card crowd cool";
+var mnemonic = "aware cage mutual amazing trophy that mouse suffer young sport rebel oppose";

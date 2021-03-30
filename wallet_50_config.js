@@ -1,1 +1,1 @@
-var mnemonic = "enjoy glide loan kind range fish jaguar mushroom disease also people canvas";
+var mnemonic = "wash floor garment rough moral gorilla wedding point hurdle shoe snow breeze";

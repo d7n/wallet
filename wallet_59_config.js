@@ -1,1 +1,1 @@
-var mnemonic = "style apart correct speak joy ability fade audit solve okay sail alert";
+var mnemonic = "dinosaur improve scout sell endorse dial accuse doll wife appear awful tonight";

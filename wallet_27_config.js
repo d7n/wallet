@@ -1,1 +1,1 @@
-var mnemonic = "deal bomb alert bomb car ozone stuff become identify mule path same";
+var mnemonic = "grace beauty picture valve around concert sand nuclear asthma kingdom outer essence";

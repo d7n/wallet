@@ -1,1 +1,1 @@
-var mnemonic = "fog unveil parade journey retire strong collect differ capable sleep dawn scare";
+var mnemonic = "universe clinic include picture vague noble limit turn usual hazard palm fringe";

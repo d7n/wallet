@@ -1,1 +1,1 @@
-var mnemonic = "invite drama knife fly move shove sentence ordinary december lift wet endorse";
+var mnemonic = "champion subject milk neither infant base slab strategy purchase anchor pill catch";

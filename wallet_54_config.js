@@ -1,1 +1,1 @@
-var mnemonic = "exercise girl canvas click write snack limb exist enough deputy coral alien";
+var mnemonic = "cloud joke leg rocket end city smile famous oxygen attend myth arena";

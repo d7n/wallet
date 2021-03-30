@@ -1,1 +1,1 @@
-var mnemonic = "fossil panda chat predict answer increase absent figure divert fog tortoise order";
+var mnemonic = "fish sunny square chapter cherry cloth cotton nerve matrix carry tape power";

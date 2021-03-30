@@ -1,1 +1,1 @@
-var mnemonic = "keen van cage drama defense token scout daughter social annual insane trust";
+var mnemonic = "chimney hunt embody sudden issue occur small stereo tackle certain peasant fiscal";

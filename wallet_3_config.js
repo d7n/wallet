@@ -1,1 +1,1 @@
-var mnemonic = "hole draw forward divide coach gather current embark piece blast cancel tunnel";
+var mnemonic = "wise predict web clever mercy blind friend tail valley sand extra disorder";

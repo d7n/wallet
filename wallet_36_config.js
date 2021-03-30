@@ -1,1 +1,1 @@
-var mnemonic = "foil lab rather rescue token quote total divorce cinnamon orient blue marine";
+var mnemonic = "hundred spoon swift sheriff tackle believe neck valve syrup carbon vocal dawn";

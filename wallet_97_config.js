@@ -1,1 +1,1 @@
-var mnemonic = "predict there smoke glare panda satisfy mule egg indoor notice another end";
+var mnemonic = "cool absent soap drama menu figure hospital cash shrimp divorce tenant undo";

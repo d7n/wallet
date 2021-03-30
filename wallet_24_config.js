@@ -1,1 +1,1 @@
-var mnemonic = "pair endorse palm atom prevent syrup olympic plunge path guard track isolate";
+var mnemonic = "horse accident phone lesson improve math giant prison hamster silver oblige note";

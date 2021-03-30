@@ -1,1 +1,1 @@
-var mnemonic = "animal modify noodle sand canoe thing audit camp snack pull sphere bomb";
+var mnemonic = "scorpion jar rubber rhythm safe shield grow salute number happy ritual dune";

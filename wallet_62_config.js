@@ -1,1 +1,1 @@
-var mnemonic = "tackle auto brisk brisk design shop unfair useful symptom rough virus delay";
+var mnemonic = "order wood taxi sorry bind tortoise worth visa matrix exclude screen unfair";

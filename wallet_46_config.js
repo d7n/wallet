@@ -1,1 +1,1 @@
-var mnemonic = "artefact bless valley prison chimney artefact game chuckle benefit inflict appear guilt";
+var mnemonic = "enter dial jump divide unfair fragile buddy prefer author poet soul ball";

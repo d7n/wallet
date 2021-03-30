@@ -1,1 +1,1 @@
-var mnemonic = "relax outdoor fabric diary potato tired toe update define bar write swim";
+var mnemonic = "session grass mass size diesel rifle vicious crystal where middle forget voice";

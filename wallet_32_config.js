@@ -1,1 +1,1 @@
-var mnemonic = "crouch asset biology valve soft ugly easily noise size extra rely anxiety";
+var mnemonic = "thought poverty club pulp swift maximum mosquito safe clog flush ugly finish";

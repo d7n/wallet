@@ -1,1 +1,1 @@
-var mnemonic = "old grass leader nominee cash safe release uniform wine zone cluster vacuum";
+var mnemonic = "obscure glare angry curious put view fresh mail ankle job empower market";

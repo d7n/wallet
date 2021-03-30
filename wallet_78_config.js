@@ -1,1 +1,1 @@
-var mnemonic = "cargo indicate arrive load donate crazy toddler impose wide danger lock bulb";
+var mnemonic = "home mountain fury speed uncover viable reject boil there once evolve ocean";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial sure kiss version type venture rocket gentle town use gorilla humor";
+var mnemonic = "away fog shop polar tiny other virtual extra match eternal spray skull";

@@ -1,1 +1,1 @@
-var mnemonic = "humble exist artwork grunt visual list renew walk music kit ancient hockey";
+var mnemonic = "they parade release pause chicken adjust book market brisk cause method deputy";

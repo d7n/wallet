@@ -1,1 +1,1 @@
-var mnemonic = "actor slim soldier whisper mansion hint grass prevent zoo carry marriage sing";
+var mnemonic = "stuff square surprise child cherry student tennis favorite light decline liquid thought";

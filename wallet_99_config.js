@@ -1,1 +1,1 @@
-var mnemonic = "speak attitude mobile pole ice slow shaft monster awesome trap giant pig";
+var mnemonic = "crouch move title guide artefact loan isolate thank leader gown short confirm";

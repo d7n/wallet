@@ -1,1 +1,1 @@
-var mnemonic = "danger wonder away relief will term second route recycle clarify fan fall";
+var mnemonic = "school shock mass nose air banana fuel check private cake seed clog";

@@ -1,1 +1,1 @@
-var mnemonic = "pulp boat range pulse warrior wolf memory cherry merge dinosaur morning orbit";
+var mnemonic = "select giraffe art fame zero ribbon scrub cage team once copper walk";

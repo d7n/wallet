@@ -1,1 +1,1 @@
-var mnemonic = "sister make couch egg morning oblige noodle wisdom claim gossip unusual shuffle";
+var mnemonic = "assault dash leopard garlic impulse glory slim produce second deposit hospital piece";

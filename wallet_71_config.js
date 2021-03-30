@@ -1,1 +1,1 @@
-var mnemonic = "nest mansion tone come custom clog what violin poem wealth own quick";
+var mnemonic = "hood oak next future salmon proud chalk midnight vocal carpet day chimney";

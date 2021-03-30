@@ -1,1 +1,1 @@
-var mnemonic = "three spot note hold humble defense salmon danger vessel million drum ribbon";
+var mnemonic = "dad reopen upgrade rice relax will small wine dutch false until husband";

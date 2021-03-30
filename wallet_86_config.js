@@ -1,1 +1,1 @@
-var mnemonic = "enough nephew barely holiday gap century broom riot plunge cloud moral business";
+var mnemonic = "author swallow insect learn boost napkin cash case copy bleak extend tennis";

@@ -1,1 +1,1 @@
-var mnemonic = "decrease admit size caution slot tragic rival eagle excite subject pause kit";
+var mnemonic = "manual round pony usual enable cycle coin pilot manage mutual write present";

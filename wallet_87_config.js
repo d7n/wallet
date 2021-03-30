@@ -1,1 +1,1 @@
-var mnemonic = "april tortoise shrug staff mango seat furnace phone dry black public ridge";
+var mnemonic = "fold mouse sure zebra buddy awful cloth sketch spatial climb track market";

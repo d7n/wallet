@@ -1,1 +1,1 @@
-var mnemonic = "pear copper huge depart stumble outdoor battle fossil country glimpse scheme clutch";
+var mnemonic = "bean work hire curtain race embrace arctic special lucky sugar leave future";

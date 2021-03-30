@@ -1,1 +1,1 @@
-var mnemonic = "museum country sun throw cousin weekend piece flush host stone grain stick";
+var mnemonic = "divorce blush supreme demand sleep crane despair escape cliff section slice baby";

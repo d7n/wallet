@@ -1,1 +1,1 @@
-var mnemonic = "security entire shove avocado crush size salute kind piece shock reason minimum";
+var mnemonic = "unknown saddle hole hotel zone punch mouse column derive record cancel dad";

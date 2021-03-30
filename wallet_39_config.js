@@ -1,1 +1,1 @@
-var mnemonic = "cabbage gallery road lamp hip fall basic paper travel print much peace";
+var mnemonic = "sport quote click siege attitude human blast galaxy city else useful degree";

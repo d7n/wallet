@@ -1,1 +1,1 @@
-var mnemonic = "celery guard pair genre usual produce gorilla bullet total lizard genius worry";
+var mnemonic = "blanket save orient voice toddler business human tenant knee thumb supply spirit";

@@ -1,1 +1,1 @@
-var mnemonic = "brass drink pumpkin curious used treat witness response toy match hub message";
+var mnemonic = "half want joy survey road velvet congress never beef table again flush";

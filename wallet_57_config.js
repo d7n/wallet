@@ -1,1 +1,1 @@
-var mnemonic = "portion fiction bulk sketch identify baby youth address fiber desert actress fringe";
+var mnemonic = "pair paddle forum record alley brush burger wide spy bird force wheel";

@@ -1,1 +1,1 @@
-var mnemonic = "green van valley eight afraid wide throw dream funny clump bronze rotate";
+var mnemonic = "clean surprise wife pilot kite echo goose stick west cream rail once";

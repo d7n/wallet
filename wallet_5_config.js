@@ -1,1 +1,1 @@
-var mnemonic = "often book two excuse leader aspect pony cup crouch minimum frame typical";
+var mnemonic = "type grief sound brief vivid off imitate rug original crucial make crowd";

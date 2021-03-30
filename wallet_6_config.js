@@ -1,1 +1,1 @@
-var mnemonic = "lamp hamster upgrade marriage recipe chimney bracket dry mouse notice endorse finger";
+var mnemonic = "thunder pill purse party congress monkey chalk core diary aerobic almost identify";

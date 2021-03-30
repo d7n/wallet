@@ -1,1 +1,1 @@
-var mnemonic = "eight wolf romance loop indoor wolf hawk three eyebrow huge father black";
+var mnemonic = "oval board poet furnace inhale siege print office work cotton bulb shrug";

@@ -1,1 +1,1 @@
-var mnemonic = "upset finish wait furnace decorate need body bubble apology badge skirt define";
+var mnemonic = "tenant capital garbage time afford imitate pioneer logic unaware auction oyster train";

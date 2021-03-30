@@ -1,1 +1,1 @@
-var mnemonic = "nasty burst age elevator depend craft slender panic soul require obey employ";
+var mnemonic = "idea practice fade drip solution area fault will galaxy addict intact dwarf";

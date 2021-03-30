@@ -1,1 +1,1 @@
-var mnemonic = "cupboard okay elbow brave peanut vendor pledge resist early caution retire pair";
+var mnemonic = "trap bag fresh achieve deny intact still model define ladder obscure color";

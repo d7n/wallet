@@ -1,1 +1,1 @@
-var mnemonic = "wait casual nominee aunt garment hotel finger bright again laptop invite bicycle";
+var mnemonic = "imitate cherry repair menu ecology tiger ripple wet found ready gospel aim";

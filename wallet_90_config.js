@@ -1,1 +1,1 @@
-var mnemonic = "inform addict accident bone odor science screen engage recipe clever fever have";
+var mnemonic = "ramp awake couch stay trap pudding hood hybrid cash outer bone effort";

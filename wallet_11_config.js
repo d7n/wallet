@@ -1,1 +1,1 @@
-var mnemonic = "card spin grief eyebrow supply brave combine end tattoo core resource select";
+var mnemonic = "soul buyer state badge spray float cargo exercise save neck faint learn";

@@ -1,1 +1,1 @@
-var mnemonic = "general office atom glass inmate veteran film feel flock brown afford multiply";
+var mnemonic = "bulk warrior enact envelope blossom write resource dolphin blouse north buffalo october";

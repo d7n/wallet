@@ -1,1 +1,1 @@
-var mnemonic = "copper canyon episode silent key state convince rigid fame legend put fit";
+var mnemonic = "habit case ski phone engine beyond mass empower snow toss december raven";

@@ -1,1 +1,1 @@
-var mnemonic = "hotel oval improve dizzy eager twist income quantum exchange inquiry palace clever";
+var mnemonic = "audit inspire doctor label major motion treat push episode level zone allow";

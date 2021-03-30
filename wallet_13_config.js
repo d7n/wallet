@@ -1,1 +1,1 @@
-var mnemonic = "opera judge museum asset avoid toss vault pupil body prevent shift category";
+var mnemonic = "thought bring leader arctic sausage ordinary bleak flag point cram jungle father";

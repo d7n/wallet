@@ -1,1 +1,1 @@
-var mnemonic = "despair omit law orbit ship moon pond road friend review penalty know";
+var mnemonic = "very adult verb arrest update glance unable vendor ordinary car cage claw";

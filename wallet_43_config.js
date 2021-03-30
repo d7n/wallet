@@ -1,1 +1,1 @@
-var mnemonic = "ocean imitate all portion decorate shell select mom hurdle bamboo track much";
+var mnemonic = "glare radio settle remember frog muscle among document paper arrive amazing toilet";

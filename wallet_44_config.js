@@ -1,1 +1,1 @@
-var mnemonic = "art risk spy flame material oval smart tuna fatigue valley dynamic brass";
+var mnemonic = "dog coast test unaware together mule illegal feed attitude account render feature";

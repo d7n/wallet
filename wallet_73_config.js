@@ -1,1 +1,1 @@
-var mnemonic = "soul winter unveil arch base reopen artist double blanket couch turtle swallow";
+var mnemonic = "green pottery curious tonight note inner arrange glad improve tragic planet network";

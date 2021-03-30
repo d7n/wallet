@@ -1,1 +1,1 @@
-var mnemonic = "tribe nasty quantum elbow witness protect real trick gadget home whale olympic";
+var mnemonic = "usual journey deny panel judge conduct suffer suggest steak win display venture";

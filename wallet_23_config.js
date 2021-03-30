@@ -1,1 +1,1 @@
-var mnemonic = "hole over armed sport dance chief dash grid fancy invite lyrics shoe";
+var mnemonic = "aerobic clog parent melody coin blast escape split black saddle bachelor clump";
