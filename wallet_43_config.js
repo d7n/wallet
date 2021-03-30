@@ -1,1 +1,1 @@
-var mnemonic = "kick unhappy bulk equal original draw turtle merge blind erosion method old";
+var mnemonic = "month base average amateur veteran dry useless choice load upgrade pelican vivid";

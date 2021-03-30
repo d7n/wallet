@@ -1,1 +1,1 @@
-var mnemonic = "north wide woman improve profit stadium theme region cliff ill bunker effort";
+var mnemonic = "forest scout minimum aim bean crunch mirror they exotic agent lab cube";

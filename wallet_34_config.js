@@ -1,1 +1,1 @@
-var mnemonic = "pyramid chapter spatial notable gate rival crouch sing cancel inform reduce print";
+var mnemonic = "veteran alcohol angle educate kiwi sweet water unable excess cradle bullet woman";

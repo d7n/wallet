@@ -1,1 +1,1 @@
-var mnemonic = "scrub task pool salute member that dilemma bar insect secret spirit soldier";
+var mnemonic = "canoe lava west mammal marine east special want empower chase regret cabin";

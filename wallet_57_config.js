@@ -1,1 +1,1 @@
-var mnemonic = "muscle step require walk winter intact bench move okay shield absent maid";
+var mnemonic = "crime vault together behind often fan riot bridge erosion forward edit error";

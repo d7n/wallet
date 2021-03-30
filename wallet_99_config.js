@@ -1,1 +1,1 @@
-var mnemonic = "rebel range erode talk such exile rabbit need kid same genuine confirm";
+var mnemonic = "chat fee above glance naive slush despair address sustain wolf abstract oven";

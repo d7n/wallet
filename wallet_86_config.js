@@ -1,1 +1,1 @@
-var mnemonic = "twelve unveil profit search train spider suggest tape earth tortoise usual patrol";
+var mnemonic = "merge shell meadow firm furnace mechanic oval slim lyrics front sail story";

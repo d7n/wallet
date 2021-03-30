@@ -1,1 +1,1 @@
-var mnemonic = "guess lunar deal wish cross behave silly village grace shell crouch margin";
+var mnemonic = "symbol slim mom increase antenna yellow hole ranch pipe guide knee eager";

@@ -1,1 +1,1 @@
-var mnemonic = "cradle depend tired mechanic drop apology blind draw siren abstract network cabin";
+var mnemonic = "art minor feed trigger train glue few assault lava tonight snake myth";

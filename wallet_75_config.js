@@ -1,1 +1,1 @@
-var mnemonic = "cloud require case sure special yard top response fever grid favorite frog";
+var mnemonic = "best master citizen other prize primary season want blade answer pool power";

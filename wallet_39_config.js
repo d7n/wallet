@@ -1,1 +1,1 @@
-var mnemonic = "win van rubber assist vicious risk travel become person live truth gold";
+var mnemonic = "cruise bundle amused noise walk health leisure couple august bleak prosper size";

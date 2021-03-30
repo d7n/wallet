@@ -1,1 +1,1 @@
-var mnemonic = "citizen time seminar close find sugar narrow prevent clog local harvest cargo";
+var mnemonic = "hill proud sauce uniform anxiety journey unique buffalo foam reason praise crouch";

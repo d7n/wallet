@@ -1,1 +1,1 @@
-var mnemonic = "measure common injury library build giraffe chair merit ability area kid core";
+var mnemonic = "rug either talent easily method this ketchup blanket cram police frequent tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "eager father always object oval spoil play capital cycle exchange scrap dragon";
+var mnemonic = "point always library kangaroo silver normal boat vessel peasant obtain parent zero";

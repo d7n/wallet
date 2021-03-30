@@ -1,1 +1,1 @@
-var mnemonic = "option hope snap sing swim lounge depend myself admit nuclear weapon flash";
+var mnemonic = "equal fossil unknown grace equip hat salute cupboard peanut river blind seek";

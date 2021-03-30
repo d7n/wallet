@@ -1,1 +1,1 @@
-var mnemonic = "relief beyond wreck only stereo cute accuse youth palace brown boost truth";
+var mnemonic = "install drift oxygen smart fancy pond fatal dismiss memory vote cherry arrange";

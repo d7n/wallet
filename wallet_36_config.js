@@ -1,1 +1,1 @@
-var mnemonic = "hope grid eagle wear doctor timber expand section social that educate fence";
+var mnemonic = "anchor mother warfare mountain ostrich display satisfy bitter source police switch hidden";

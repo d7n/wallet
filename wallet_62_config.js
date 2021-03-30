@@ -1,1 +1,1 @@
-var mnemonic = "muffin spread rival dash bamboo scale unlock kit anchor candy cluster hurdle";
+var mnemonic = "master mushroom teach amazing option bomb soccer jar stem junk settle fetch";

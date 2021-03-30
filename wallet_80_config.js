@@ -1,1 +1,1 @@
-var mnemonic = "orbit increase monkey upset adapt crisp dash cherry this frozen treat mechanic";
+var mnemonic = "planet drill logic elegant prison girl usage model brisk clerk hundred glide";

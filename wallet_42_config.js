@@ -1,1 +1,1 @@
-var mnemonic = "panel across actor shrimp crash pulse latin essence ready tenant base craft";
+var mnemonic = "off useless flower alcohol guess knock labor vicious vault soccer health trend";

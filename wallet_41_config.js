@@ -1,1 +1,1 @@
-var mnemonic = "wolf invite rescue inmate fall chaos march execute off claim opera unveil";
+var mnemonic = "thank banner mechanic rather extend panther secret mail steel cup fruit comic";

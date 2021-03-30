@@ -1,1 +1,1 @@
-var mnemonic = "million beef this cotton tackle there door swarm symbol cruel toss donor";
+var mnemonic = "essay like vault unit goddess element cereal coast spice curious tent love";

@@ -1,1 +1,1 @@
-var mnemonic = "lunch tornado pride misery wheat gorilla birth opera dirt song soldier behave";
+var mnemonic = "nose fresh mixed float side banner pitch nature boost bag twenty produce";

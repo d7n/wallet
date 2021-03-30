@@ -1,1 +1,1 @@
-var mnemonic = "arch tonight base flock motor dynamic alarm chapter giant size cousin time";
+var mnemonic = "occur file height replace monitor fix mutual try vintage pattern hazard coffee";

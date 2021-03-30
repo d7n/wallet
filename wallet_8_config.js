@@ -1,1 +1,1 @@
-var mnemonic = "level crumble scorpion alert lazy window object pair bargain violin mimic rich";
+var mnemonic = "old length banner age sponsor slender outside skill party soap quote fitness";

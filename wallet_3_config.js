@@ -1,1 +1,1 @@
-var mnemonic = "shrug shiver craft indicate broccoli decline burden such obvious divide quick glare";
+var mnemonic = "under middle weasel fury list chuckle happy dream online destroy arrest mask";

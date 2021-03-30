@@ -1,1 +1,1 @@
-var mnemonic = "tray that swear blue vacant half wolf tip spice copper pluck deal";
+var mnemonic = "must same assault twin sample you bulk share chapter dinner tide reduce";

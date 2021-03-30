@@ -1,1 +1,1 @@
-var mnemonic = "science believe skate neglect key text peanut between dove market present pelican";
+var mnemonic = "jewel destroy wreck garage fade tail balcony fault bonus admit congress destroy";

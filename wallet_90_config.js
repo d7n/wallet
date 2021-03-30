@@ -1,1 +1,1 @@
-var mnemonic = "buffalo ceiling limit lyrics say asthma shift post belt champion forum fetch";
+var mnemonic = "wage nest bronze field message fashion virtual wine stick popular local scheme";

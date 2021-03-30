@@ -1,1 +1,1 @@
-var mnemonic = "prize legend gaze monster what track oyster boat refuse father finger camp";
+var mnemonic = "install ill cube among admit cute monkey mosquito trick wife current mass";

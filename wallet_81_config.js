@@ -1,1 +1,1 @@
-var mnemonic = "ostrich rigid snow defense rib clock gauge gain situate say story enough";
+var mnemonic = "enrich sample address hollow gossip soft guilt olympic fever diagram return stand";

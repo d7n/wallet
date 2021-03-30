@@ -1,1 +1,1 @@
-var mnemonic = "coil diet lift genre spice outside trumpet cheese degree popular drama mystery";
+var mnemonic = "process peasant upgrade nest vintage inhale brain critic poet kitchen chapter broom";

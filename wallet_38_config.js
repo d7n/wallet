@@ -1,1 +1,1 @@
-var mnemonic = "frown silver uniform hold lion detail wild beach hurry tattoo apart century";
+var mnemonic = "cancel yard olympic impact decrease skull ribbon aim tray charge list rural";

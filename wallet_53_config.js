@@ -1,1 +1,1 @@
-var mnemonic = "click mad jacket clay above dance badge wolf parade food great original";
+var mnemonic = "dust satoshi embark open amount pepper sell echo sponsor rude grab bone";

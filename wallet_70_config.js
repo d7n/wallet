@@ -1,1 +1,1 @@
-var mnemonic = "candy coil huge west plastic banana annual venue eagle hungry assist idle";
+var mnemonic = "lamp drink vivid adjust example notice sun outdoor plunge guide airport cheese";

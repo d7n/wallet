@@ -1,1 +1,1 @@
-var mnemonic = "view cigar hair island unusual cry winter resource festival charge gasp tell";
+var mnemonic = "vague aspect choice soup mention author crazy bitter valid pyramid tilt coyote";

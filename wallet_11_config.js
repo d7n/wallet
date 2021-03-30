@@ -1,1 +1,1 @@
-var mnemonic = "curious fix lyrics unusual genuine subway spread august close setup bullet work";
+var mnemonic = "client supply task legend leg artist frost assault yellow age vague rate";

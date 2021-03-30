@@ -1,1 +1,1 @@
-var mnemonic = "correct myself boost oval tuition execute asset lens bubble ensure vivid cable";
+var mnemonic = "impulse coach luxury occur bid city tone seed trial festival cactus busy";

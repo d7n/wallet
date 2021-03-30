@@ -1,1 +1,1 @@
-var mnemonic = "window bottom collect priority pluck bronze method seed old silver obey early";
+var mnemonic = "word dove raccoon response federal cook hour junk gown renew ripple degree";

@@ -1,1 +1,1 @@
-var mnemonic = "agree odor awkward audit opinion history entire advance similar wedding adult all";
+var mnemonic = "couch mango walnut town save subject spawn smile ahead tool wear salad";

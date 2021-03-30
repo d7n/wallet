@@ -1,1 +1,1 @@
-var mnemonic = "month top detect slab purity embrace world nut myth hurdle model brief";
+var mnemonic = "boost wet gallery term drink buyer tooth again move bulk tide again";

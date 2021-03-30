@@ -1,1 +1,1 @@
-var mnemonic = "cigar decide spike sound bright question coconut draw remove depth various muscle";
+var mnemonic = "scatter whip noise mouse similar pig angle monster citizen tomato kite ethics";

@@ -1,1 +1,1 @@
-var mnemonic = "output erode piano gossip buffalo oyster birth film maximum aerobic seek bulk";
+var mnemonic = "announce correct spice detail coyote response panda guide north spy autumn kangaroo";

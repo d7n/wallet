@@ -1,1 +1,1 @@
-var mnemonic = "define glance wait frog impact napkin edit judge unlock bundle case what";
+var mnemonic = "flower prepare skin talk arch clinic riot habit safe olive field speak";

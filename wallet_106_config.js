@@ -1,1 +1,1 @@
-var mnemonic = "ghost base garden paddle marble magnet hawk slender grief they crunch able";
+var mnemonic = "decrease parrot buffalo act sock swift ship bronze tag truly mesh mind";

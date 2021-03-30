@@ -1,1 +1,1 @@
-var mnemonic = "cover trouble toss arena turn weather develop elite orange ecology unlock gift";
+var mnemonic = "credit wire arena hurt assault venture message corn swarm few curtain favorite";

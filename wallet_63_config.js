@@ -1,1 +1,1 @@
-var mnemonic = "drill congress kick suffer segment total design wink uphold sure neither hip";
+var mnemonic = "snap fine cigar animal kite width shaft mean embrace bean occur price";

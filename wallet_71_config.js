@@ -1,1 +1,1 @@
-var mnemonic = "observe wine illegal settle double scout brown dog unveil wagon since amateur";
+var mnemonic = "glue very accuse direct blanket bicycle spin insect crash height horse lesson";

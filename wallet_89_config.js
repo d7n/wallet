@@ -1,1 +1,1 @@
-var mnemonic = "leaf example way skull car shuffle raw mystery ticket digital review rally";
+var mnemonic = "else afraid soft flat grid fuel away venue deputy upon account barrel";

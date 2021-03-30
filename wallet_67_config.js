@@ -1,1 +1,1 @@
-var mnemonic = "glow into celery foot post segment avocado leaf voyage airport trend wine";
+var mnemonic = "vacant mosquito churn click diary since bread glide exchange april exact afford";

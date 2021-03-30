@@ -1,1 +1,1 @@
-var mnemonic = "subject unable click broccoli always invite ten polar october slim sketch off";
+var mnemonic = "carbon aim predict frozen shy obvious top moral rescue field immense act";

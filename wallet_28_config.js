@@ -1,1 +1,1 @@
-var mnemonic = "exercise material tourist tank nasty tunnel scheme hurry color crime acid sample";
+var mnemonic = "dose castle base pencil biology build luggage airport track drink lunch agent";

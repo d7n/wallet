@@ -1,1 +1,1 @@
-var mnemonic = "reward loyal educate path muscle strong habit sauce shaft fresh payment supply";
+var mnemonic = "siren pond similar erode live hollow foam second chest trial cage foil";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply rotate labor diagram calm jar farm face dynamic junior eternal become";
+var mnemonic = "angry demise board liquid core normal elder ketchup script keep bonus grape";

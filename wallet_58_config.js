@@ -1,1 +1,1 @@
-var mnemonic = "setup harvest alarm harbor fit mixed extend reduce video outdoor blanket dynamic";
+var mnemonic = "leisure raw giant brave sign electric east comfort napkin depth analyst blast";

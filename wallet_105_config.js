@@ -1,1 +1,1 @@
-var mnemonic = "update spice cancel motor slender hidden trial gift inherit rally reunion require";
+var mnemonic = "document grocery goat spare empty exercise wage any repeat drop oval sting";

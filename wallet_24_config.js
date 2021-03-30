@@ -1,1 +1,1 @@
-var mnemonic = "evidence motion equip save sure bonus column return era common shove rose";
+var mnemonic = "pass oppose unable body evolve clown pave large world model electric combine";

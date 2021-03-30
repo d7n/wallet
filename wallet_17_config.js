@@ -1,1 +1,1 @@
-var mnemonic = "crumble width more boy meadow blade garden approve menu salad admit mirror";
+var mnemonic = "clay village harsh lamp delay pudding develop limit glide permit dream notice";

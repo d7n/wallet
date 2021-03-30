@@ -1,1 +1,1 @@
-var mnemonic = "alone thing club acquire injury symbol phrase antique lend hard baby gossip";
+var mnemonic = "occur primary gravity viable galaxy never monitor topic already tennis prison tiny";

@@ -1,1 +1,1 @@
-var mnemonic = "receive history night blood pigeon garlic country thank inherit toss coral gasp";
+var mnemonic = "mass match gentle snow wealth give unlock pet liberty nation silent garment";

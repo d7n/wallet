@@ -1,1 +1,1 @@
-var mnemonic = "error crash plunge impulse rebuild sick lawsuit tiny response file range client";
+var mnemonic = "nothing leaf sea announce blush twist pelican tool sing electric trash label";

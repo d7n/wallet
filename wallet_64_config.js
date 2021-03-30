@@ -1,1 +1,1 @@
-var mnemonic = "trip walk strong jungle pen wedding surface reflect arena fun amused health";
+var mnemonic = "february material liar disagree alter crash culture ankle citizen parent barrel actor";

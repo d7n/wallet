@@ -1,1 +1,1 @@
-var mnemonic = "mechanic digital mystery super venue kidney board spray that correct later bright";
+var mnemonic = "infant govern surface stairs spread frequent mom popular guitar fatigue run vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "future sight wet under kingdom oxygen remain mention opinion dragon forest mask";
+var mnemonic = "illegal ecology usual fancy code action jacket female gaze skate dilemma debris";

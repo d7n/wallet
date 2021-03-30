@@ -1,1 +1,1 @@
-var mnemonic = "try tower essay insane entry input critic jazz social smile elbow physical";
+var mnemonic = "paddle cupboard earn mention oven purity reveal sure ordinary host praise merit";

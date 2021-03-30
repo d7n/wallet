@@ -1,1 +1,1 @@
-var mnemonic = "arrive company leave alpha frozen fiber margin play ecology daring grocery advice";
+var mnemonic = "never ahead swallow runway forest tuition dawn guide vital ethics month tribe";

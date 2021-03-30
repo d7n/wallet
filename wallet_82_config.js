@@ -1,1 +1,1 @@
-var mnemonic = "armor learn imitate review shrug garment tray submit wave entire festival depth";
+var mnemonic = "bitter expect quiz place syrup bleak boost rate reveal dose twin aspect";

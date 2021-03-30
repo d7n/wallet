@@ -1,1 +1,1 @@
-var mnemonic = "misery artist draw chief primary potato staff rabbit maple betray obvious throw";
+var mnemonic = "celery jealous cheese together girl mandate public mutual crash rival network agree";

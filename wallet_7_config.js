@@ -1,1 +1,1 @@
-var mnemonic = "talk judge jaguar clip plug copper tiny depart impose jacket when verify";
+var mnemonic = "tattoo lunar gun anxiety estate peasant flush peanut income attend potato finish";

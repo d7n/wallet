@@ -1,1 +1,1 @@
-var mnemonic = "near sketch scout dolphin identify topic fashion connect trick raise inject hurt";
+var mnemonic = "milk echo under isolate spike dial ladder original impulse maid rate debris";

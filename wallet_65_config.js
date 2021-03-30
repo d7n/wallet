@@ -1,1 +1,1 @@
-var mnemonic = "cricket width anxiety motor core news burden omit peanut swim silent unaware";
+var mnemonic = "correct track eyebrow still nephew primary guess old trash visa such cycle";

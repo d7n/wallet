@@ -1,1 +1,1 @@
-var mnemonic = "offer year guilt disease hundred produce van know bronze skate sustain finish";
+var mnemonic = "gauge cargo sweet ritual jar upgrade vacuum armor field make shrimp head";

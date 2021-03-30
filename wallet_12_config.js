@@ -1,1 +1,1 @@
-var mnemonic = "goose helmet merit chronic exhaust vital child grass attract clown jeans hair";
+var mnemonic = "jelly proud increase usual lizard logic wheel shed flavor laundry student abstract";

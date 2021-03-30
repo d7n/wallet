@@ -1,1 +1,1 @@
-var mnemonic = "dog follow appear year place parent slight success pride wave woman pepper";
+var mnemonic = "asthma anxiety wasp slow tackle very wagon produce destroy sword imitate length";

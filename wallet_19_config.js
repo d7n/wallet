@@ -1,1 +1,1 @@
-var mnemonic = "lunar century nasty tennis shove chronic dilemma cement antenna frost park poet";
+var mnemonic = "label steak nerve need lawn season now snack lonely dinner still pepper";

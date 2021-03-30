@@ -1,1 +1,1 @@
-var mnemonic = "travel write firm glance bulb cream inject tower machine luxury reunion grant";
+var mnemonic = "frame crazy relief appear spin index render include submit picture history advance";

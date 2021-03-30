@@ -1,1 +1,1 @@
-var mnemonic = "invest clown critic census yellow garlic anchor duty control width travel spray";
+var mnemonic = "float verify dial return tobacco banana way salute car brown ginger nurse";

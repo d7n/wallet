@@ -1,1 +1,1 @@
-var mnemonic = "pipe table myth fall dune initial tomato boil swallow cannon early suggest";
+var mnemonic = "drill glare flight noble bomb canal false trust cream daughter common unlock";

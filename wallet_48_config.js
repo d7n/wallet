@@ -1,1 +1,1 @@
-var mnemonic = "ahead moon raise you nerve tribe bomb balance stem pupil street convince";
+var mnemonic = "together cave rule awake shoulder stick uphold very snap outside cash bless";

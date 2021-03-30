@@ -1,1 +1,1 @@
-var mnemonic = "fish start ripple fatigue catch first brown finger long citizen strike library";
+var mnemonic = "usual hub fashion cheap fiscal army marine dynamic welcome rack pencil admit";

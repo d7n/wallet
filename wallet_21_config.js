@@ -1,1 +1,1 @@
-var mnemonic = "crack tell wage present police middle bulk hover junior vintage record edit";
+var mnemonic = "permit gorilla else guide unknown often another consider salmon cradle another mechanic";

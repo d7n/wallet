@@ -1,1 +1,1 @@
-var mnemonic = "plunge napkin project length turkey two scheme dumb weekend sort napkin blur";
+var mnemonic = "three obey seminar negative help cat luggage local amazing reform pluck walnut";

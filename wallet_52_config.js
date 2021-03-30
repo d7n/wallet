@@ -1,1 +1,1 @@
-var mnemonic = "blame name abstract plate equal shadow net fiscal chase little warfare wool";
+var mnemonic = "roof robust like uniform okay advance inner tell judge bacon tobacco ramp";

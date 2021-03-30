@@ -1,1 +1,1 @@
-var mnemonic = "parade section road shoe bench safe good debate between shock circle thunder";
+var mnemonic = "lion village jaguar toy width trim panther scan waste elbow supply tooth";

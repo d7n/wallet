@@ -1,1 +1,1 @@
-var mnemonic = "lonely rely neck victory shoulder true cage rifle knock wave clump boy";
+var mnemonic = "person repeat boil crack large story clump bar eagle tumble imitate silly";

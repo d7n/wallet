@@ -1,1 +1,1 @@
-var mnemonic = "real skirt angle author pattern empty creek adult drastic common cream tortoise";
+var mnemonic = "build rely exhibit angry exile during deliver plug much monkey notable midnight";

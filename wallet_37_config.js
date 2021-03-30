@@ -1,1 +1,1 @@
-var mnemonic = "shop sorry frown rocket noise fever member strong truly impose begin purchase";
+var mnemonic = "clock culture magic ball float kiwi differ alter destroy work payment fringe";

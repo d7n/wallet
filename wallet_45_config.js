@@ -1,1 +1,1 @@
-var mnemonic = "manage wreck frame jar clean garlic tobacco key run inflict taxi anxiety";
+var mnemonic = "unveil pluck spin city woman bunker brief between blast wine gospel boss";

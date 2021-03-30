@@ -1,1 +1,1 @@
-var mnemonic = "powder fall route transfer reflect garage wife search flight ostrich fold cotton";
+var mnemonic = "blouse clump swarm giggle tomorrow scout vintage indoor intact steak load embody";

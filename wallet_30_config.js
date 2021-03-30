@@ -1,1 +1,1 @@
-var mnemonic = "swim float mansion antenna buzz invest clip remove strike awful random liar";
+var mnemonic = "snack year muscle foil siege situate engine shoe accident harbor planet daughter";

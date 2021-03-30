@@ -1,1 +1,1 @@
-var mnemonic = "crazy fresh invest farm route fatigue erosion helmet enforce phrase danger aunt";
+var mnemonic = "lizard again check boat forum magic leader crumble angry call dog pill";

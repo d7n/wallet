@@ -1,1 +1,1 @@
-var mnemonic = "rifle ankle final tennis high life exotic movie actress almost sand search";
+var mnemonic = "split wage weekend gauge wash nominee above easy rug decrease rather ski";
