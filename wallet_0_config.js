@@ -1,1 +1,1 @@
-var mnemonic = "gossip choice bless allow total isolate try resource absurd leader keen wasp";
+var mnemonic = "slim defense happy notice thunder era boost little item monkey love boss";

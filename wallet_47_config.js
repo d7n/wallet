@@ -1,1 +1,1 @@
-var mnemonic = "alley inherit awful ridge clean visa cotton coconut diagram drop inflict raven";
+var mnemonic = "casino runway cash morning express fence rebel eager sting fame canoe brown";

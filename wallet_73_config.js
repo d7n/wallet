@@ -1,1 +1,1 @@
-var mnemonic = "release talent lecture satisfy find pudding suit camp pave april increase learn";
+var mnemonic = "speak whale smoke sponsor material tackle olympic laugh sister crystal asthma three";

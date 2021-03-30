@@ -1,1 +1,1 @@
-var mnemonic = "zebra skate civil market weather sock clean bubble flag proof infant when";
+var mnemonic = "possible tackle volcano train finish opera aspect victory have already mom armor";

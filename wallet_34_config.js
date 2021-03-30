@@ -1,1 +1,1 @@
-var mnemonic = "truth enforce shallow melody dynamic region accident orbit lunch ritual fitness neutral";
+var mnemonic = "brick fiscal predict amazing curtain quiz rose club income maximum appear cause";

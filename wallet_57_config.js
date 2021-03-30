@@ -1,1 +1,1 @@
-var mnemonic = "history actual execute sort brave level apple lemon mom flag more gorilla";
+var mnemonic = "lumber deputy approve above joy witness unhappy squirrel pretty gap select angry";

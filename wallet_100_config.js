@@ -1,1 +1,1 @@
-var mnemonic = "wheel spy outside proof found disorder whale famous toast shoulder ancient once";
+var mnemonic = "meadow coconut protect merry clock emotion lady clever during various album negative";

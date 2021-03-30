@@ -1,1 +1,1 @@
-var mnemonic = "demise rescue reward library park busy embody diary employ banana swim tornado";
+var mnemonic = "error smooth scene release salad address voice old other name prosper soul";

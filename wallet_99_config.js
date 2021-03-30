@@ -1,1 +1,1 @@
-var mnemonic = "neither ginger charge music tent settle manage lock bunker vanish crumble daughter";
+var mnemonic = "pig impulse business unlock annual know frost joke rally venture trial boost";

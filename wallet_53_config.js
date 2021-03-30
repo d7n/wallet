@@ -1,1 +1,1 @@
-var mnemonic = "okay deliver oxygen brother advance fire laundry aunt way limb reward physical";
+var mnemonic = "worry police camp obtain spare member science cheap danger victory spare caught";

@@ -1,1 +1,1 @@
-var mnemonic = "upper remove desk dragon purchase alley cook case mad width exercise route";
+var mnemonic = "neck cram enact blouse useless flame oval oil sight update blood boss";

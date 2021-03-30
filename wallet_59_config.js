@@ -1,1 +1,1 @@
-var mnemonic = "ordinary plastic kiwi alpha error tenant define indoor regular million toe bitter";
+var mnemonic = "casino entire book song wedding chase nerve moral plastic tobacco book dizzy";

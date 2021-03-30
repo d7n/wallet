@@ -1,1 +1,1 @@
-var mnemonic = "sting grunt exile smart position hint elite turtle into can popular domain";
+var mnemonic = "glove embark token genre tomato relief spice oil letter kangaroo fault tomorrow";

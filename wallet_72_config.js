@@ -1,1 +1,1 @@
-var mnemonic = "session grunt truth club action option reduce labor army custom explain grief";
+var mnemonic = "athlete culture ceiling excuse you toilet dismiss this clean hire gold page";

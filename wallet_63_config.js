@@ -1,1 +1,1 @@
-var mnemonic = "route isolate need shield method focus rival wait have else tiny token";
+var mnemonic = "goat process bronze glass clutch weasel middle split correct report coffee calm";

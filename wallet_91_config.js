@@ -1,1 +1,1 @@
-var mnemonic = "device birth road pilot picnic celery below equal code team sword outer";
+var mnemonic = "robust cycle taxi wasp detail kitten banana snap shift embody domain omit";

@@ -1,1 +1,1 @@
-var mnemonic = "author fat voyage focus like foot turn photo lonely art benefit diet";
+var mnemonic = "mountain outer doctor tape first barely response dinner winner much return truck";

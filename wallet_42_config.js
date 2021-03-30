@@ -1,1 +1,1 @@
-var mnemonic = "firm smile brother piano episode lock lazy consider defense original bright brother";
+var mnemonic = "gadget acid guide swim spot cradle lift initial fly hospital grass glance";

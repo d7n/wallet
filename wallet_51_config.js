@@ -1,1 +1,1 @@
-var mnemonic = "lend scorpion certain enjoy expand bomb noble child busy rifle leisure pigeon";
+var mnemonic = "jealous biology private march prison oxygen devote cricket polar flip flock decrease";

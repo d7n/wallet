@@ -1,1 +1,1 @@
-var mnemonic = "snake actual blade river peanut cement arm letter order baby capital lunar";
+var mnemonic = "never flight waste ship blind virus gaze crew stereo ticket mushroom sausage";

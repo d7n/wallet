@@ -1,1 +1,1 @@
-var mnemonic = "panic enjoy shy once pen horror sail width boil level rapid health";
+var mnemonic = "script moral ribbon grow guilt breeze captain water wrestle helmet rain skin";

@@ -1,1 +1,1 @@
-var mnemonic = "crush leave crazy honey topic room major elder ankle during device brief";
+var mnemonic = "derive all utility citizen lyrics jealous limb person hair large deposit era";

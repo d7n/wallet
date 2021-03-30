@@ -1,1 +1,1 @@
-var mnemonic = "suffer charge absurd infant fly match indicate banner panda defense donkey silly";
+var mnemonic = "spring vacant panel word fun weird fatal wise sure margin pyramid rude";

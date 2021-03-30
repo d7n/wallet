@@ -1,1 +1,1 @@
-var mnemonic = "dose easily awesome vicious cry cotton suit flag bus acquire point head";
+var mnemonic = "panic olympic lottery exchange current river police bicycle client wing tattoo chat";

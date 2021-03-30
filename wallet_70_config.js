@@ -1,1 +1,1 @@
-var mnemonic = "coil unveil farm scan leader slim cup spot thunder orchard sock monster";
+var mnemonic = "guess weapon order task differ game idea snake differ anger trade onion";

@@ -1,1 +1,1 @@
-var mnemonic = "omit festival quiz main lucky gather neck solar swallow hold prevent elevator";
+var mnemonic = "absurd divorce execute fashion defense coffee hybrid drift chalk level trial north";

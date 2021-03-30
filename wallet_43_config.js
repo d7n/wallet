@@ -1,1 +1,1 @@
-var mnemonic = "firm panther rebuild often trial gospel fury neglect flat practice junk upset";
+var mnemonic = "own unfair health vast father priority royal defy order hotel useless diesel";

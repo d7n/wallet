@@ -1,1 +1,1 @@
-var mnemonic = "evolve present bone sibling share scheme learn flee swing mad pig before";
+var mnemonic = "machine milk embark senior danger bid before drive deputy oyster arctic muscle";

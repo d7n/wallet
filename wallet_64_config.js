@@ -1,1 +1,1 @@
-var mnemonic = "sunset spirit loud produce crowd comic raven arrest garbage hat october confirm";
+var mnemonic = "access help keep recipe truly memory fog crater inflict tiger below vessel";

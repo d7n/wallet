@@ -1,1 +1,1 @@
-var mnemonic = "tragic alpha transfer april dirt beach dentist knife oxygen october torch universe";
+var mnemonic = "dwarf connect drum physical grocery file jazz exclude output engage attract taste";

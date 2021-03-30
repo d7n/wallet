@@ -1,1 +1,1 @@
-var mnemonic = "kiwi neck either spatial horn lock language reject luggage good middle fog";
+var mnemonic = "special system amateur dumb business next protect hurdle control interest half swallow";

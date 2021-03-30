@@ -1,1 +1,1 @@
-var mnemonic = "bind dust picnic liquid fee grant web proof sudden expose treat burst";
+var mnemonic = "fade farm lunch scan review thought crash diesel damp today riot parent";

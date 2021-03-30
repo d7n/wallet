@@ -1,1 +1,1 @@
-var mnemonic = "ready slim obey midnight until indoor rookie east inhale offer movie rug";
+var mnemonic = "jewel balcony feed wasp canyon special door age skill session bag victory";

@@ -1,1 +1,1 @@
-var mnemonic = "magic medal matrix tenant wheel clump among silent push snow skirt vocal";
+var mnemonic = "harvest about buzz plug typical exact inhale hollow juice now message gather";

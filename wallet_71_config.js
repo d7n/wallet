@@ -1,1 +1,1 @@
-var mnemonic = "sponsor south motor rural letter they jungle rifle warrior joke million session";
+var mnemonic = "zebra parent another helmet purpose opera injury neither arrange amazing donor poet";

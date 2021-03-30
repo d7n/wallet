@@ -1,1 +1,1 @@
-var mnemonic = "cake tell post sort giraffe rapid garlic pitch chuckle view guitar canoe";
+var mnemonic = "ten fix shell virtual jewel blanket adapt muscle illness increase dry panther";

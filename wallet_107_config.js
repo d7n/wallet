@@ -1,1 +1,1 @@
-var mnemonic = "impact couch sunny flat cheap wait upgrade hard armor adult switch crater";
+var mnemonic = "portion type gentle toe decrease panther swamp erupt size oyster planet glare";

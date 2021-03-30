@@ -1,1 +1,1 @@
-var mnemonic = "analyst demise liquid turkey van ship gold income deny pony inform unfold";
+var mnemonic = "elephant famous friend lottery lift viable climb fitness refuse profit creek trim";

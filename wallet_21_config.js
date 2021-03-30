@@ -1,1 +1,1 @@
-var mnemonic = "betray put odor dance imitate lucky marble palm carbon photo drink silk";
+var mnemonic = "group tell mixture erase stock labor fuel hunt shuffle boat ordinary involve";

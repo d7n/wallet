@@ -1,1 +1,1 @@
-var mnemonic = "afraid fade merit lunar tent box dad strong zone gold select wrestle";
+var mnemonic = "acquire earn father opinion orchard length estate list series board abuse perfect";

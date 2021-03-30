@@ -1,1 +1,1 @@
-var mnemonic = "bread lens garment glory actress sad crouch cruel brave struggle caught focus";
+var mnemonic = "meadow suffer patrol all top clutch someone like stadium immune advice slogan";

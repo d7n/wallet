@@ -1,1 +1,1 @@
-var mnemonic = "fiscal speak gauge clay cannon behave wish crouch piano bachelor seed cradle";
+var mnemonic = "group achieve actor flip kite only barrel limit chalk innocent rail glare";

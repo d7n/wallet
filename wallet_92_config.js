@@ -1,1 +1,1 @@
-var mnemonic = "execute sell allow give dwarf behave shed reunion jungle swift bless between";
+var mnemonic = "release ranch oak office blanket dice permit jazz arrest pig range tackle";

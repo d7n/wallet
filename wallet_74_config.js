@@ -1,1 +1,1 @@
-var mnemonic = "ski glory recall seed champion injury parade square wood door moon simple";
+var mnemonic = "purchase rain arrest daughter scrap pear doll defy first woman phrase addict";

@@ -1,1 +1,1 @@
-var mnemonic = "name what orchard frost donate artwork because twenty wedding dentist retire small";
+var mnemonic = "sugar human taste canyon word change expand try lumber village science vehicle";

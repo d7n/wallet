@@ -1,1 +1,1 @@
-var mnemonic = "tissue file grid baby estate escape speak thing hospital pool oxygen crouch";
+var mnemonic = "tattoo panda wasp public captain engine imitate trip vote sustain sunset square";

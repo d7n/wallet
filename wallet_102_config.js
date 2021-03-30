@@ -1,1 +1,1 @@
-var mnemonic = "height lion busy waste ostrich jar chaos junior duty inside float decorate";
+var mnemonic = "confirm ginger smile crawl enough crumble rotate kiss give adult intact nice";

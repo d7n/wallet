@@ -1,1 +1,1 @@
-var mnemonic = "wild tobacco town between warm sketch tortoise smart manual electric trend now";
+var mnemonic = "busy measure raccoon three mobile about major world cash bounce hard sketch";

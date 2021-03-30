@@ -1,1 +1,1 @@
-var mnemonic = "swear dentist brief wet sea lend clay spin index life bus future";
+var mnemonic = "myth false wreck all coffee start vacuum easily maze version shaft scare";

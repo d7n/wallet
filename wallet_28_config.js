@@ -1,1 +1,1 @@
-var mnemonic = "marine reveal valve coral swamp person matter life tongue debris faculty canvas";
+var mnemonic = "subway elite diary galaxy supply whisper clerk width hunt dinner turn taste";

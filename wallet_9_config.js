@@ -1,1 +1,1 @@
-var mnemonic = "oxygen metal wait eagle chalk pipe kidney skill kit vehicle gift orange";
+var mnemonic = "title bleak cotton excuse medal drastic rug sting friend fancy main praise";

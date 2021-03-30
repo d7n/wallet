@@ -1,1 +1,1 @@
-var mnemonic = "benefit chat radio ready raise stage child inmate uphold clog reject mobile";
+var mnemonic = "eyebrow away beyond hedgehog brave pond match dismiss rate analyst title behind";

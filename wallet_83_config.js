@@ -1,1 +1,1 @@
-var mnemonic = "present load people warfare suspect success juice surround female betray wrap limit";
+var mnemonic = "enact priority butter remind upon acid there tank oppose moral quarter label";

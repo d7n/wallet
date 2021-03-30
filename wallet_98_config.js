@@ -1,1 +1,1 @@
-var mnemonic = "ceiling hope erupt jungle brother opera season reflect crucial deliver leg few";
+var mnemonic = "run zero gesture between harsh winner now list alone collect prize man";

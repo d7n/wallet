@@ -1,1 +1,1 @@
-var mnemonic = "warfare radio air hope sadness wisdom retire replace prepare shoulder couple inflict";
+var mnemonic = "almost crawl acoustic crash actress cart black modify measure library make exhibit";

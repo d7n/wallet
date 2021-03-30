@@ -1,1 +1,1 @@
-var mnemonic = "rich judge deal piano latin grab eye surge buffalo pigeon vast crew";
+var mnemonic = "talk liar when goat barrel profit wealth error bench zero deer private";

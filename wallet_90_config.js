@@ -1,1 +1,1 @@
-var mnemonic = "renew garden primary code region wall current minor palm hope found judge";
+var mnemonic = "cage exchange please wine pig avoid screen brand heavy large stone judge";

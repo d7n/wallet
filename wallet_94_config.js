@@ -1,1 +1,1 @@
-var mnemonic = "asthma mixed option seed doctor mixed engine ridge teach vintage language satisfy";
+var mnemonic = "business tobacco noodle auto puzzle fiscal depart nut fame pet wagon deliver";

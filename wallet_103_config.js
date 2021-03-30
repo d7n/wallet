@@ -1,1 +1,1 @@
-var mnemonic = "spin lumber man bag cherry museum language will small today captain stand";
+var mnemonic = "language vendor virtual candy size number tip happy joke pause merge example";

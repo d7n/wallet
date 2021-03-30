@@ -1,1 +1,1 @@
-var mnemonic = "refuse multiply adapt ostrich finger winner laundry list bulk trial skirt detect";
+var mnemonic = "input regular couch blade dwarf basic bamboo trip indicate veteran regret noble";

@@ -1,1 +1,1 @@
-var mnemonic = "essay inflict budget pitch script feature marriage gloom phrase exotic swift chimney";
+var mnemonic = "stand share priority uniform recipe series rather total canal blind require extend";

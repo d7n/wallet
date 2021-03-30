@@ -1,1 +1,1 @@
-var mnemonic = "jar machine furnace ski theory lift tiger layer celery globe marine spoon";
+var mnemonic = "siege rare picnic clump venture omit ten inspire skirt swim waste gas";

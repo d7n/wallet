@@ -1,1 +1,1 @@
-var mnemonic = "boost marriage grant convince good cover legal speed cliff sing demise salon";
+var mnemonic = "pride super cherry gauge text erupt orange photo garden cliff join month";

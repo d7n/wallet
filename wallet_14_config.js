@@ -1,1 +1,1 @@
-var mnemonic = "defense history kingdom wrestle banana gas dinosaur vivid goose wealth bind drop";
+var mnemonic = "air web taste reform wet process defy bundle engine decade puzzle hub";

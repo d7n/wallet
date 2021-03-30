@@ -1,1 +1,1 @@
-var mnemonic = "answer property hotel change finish flower clay design lend kidney release summer";
+var mnemonic = "rebel harbor weather lottery flat dust mule sunset again front chicken trend";

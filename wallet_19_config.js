@@ -1,1 +1,1 @@
-var mnemonic = "calm neck bind useful party moon mom kidney gossip always eyebrow pigeon";
+var mnemonic = "choice slogan weird empower first where country neither camp wreck artefact math";

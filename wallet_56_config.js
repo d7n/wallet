@@ -1,1 +1,1 @@
-var mnemonic = "crunch naive traffic toward resource fence mammal rather patient chronic join forward";
+var mnemonic = "attack tail crunch coral ill slice file taste vendor welcome energy marble";

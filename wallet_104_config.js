@@ -1,1 +1,1 @@
-var mnemonic = "fruit under indoor giggle segment cactus unhappy mammal glide couch scan similar";
+var mnemonic = "winter kiss monkey metal empty skull clerk museum grass cat veteran bus";

@@ -1,1 +1,1 @@
-var mnemonic = "tattoo prepare proof smile dynamic fragile aim firm pause beef east present";
+var mnemonic = "marble fat script light purpose always forget dice record basic stem gun";

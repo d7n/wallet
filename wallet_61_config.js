@@ -1,1 +1,1 @@
-var mnemonic = "task second opera duty hurry second maid sick twin goat transfer benefit";
+var mnemonic = "word aunt glory hammer delay birth piece mom unusual enhance large shine";

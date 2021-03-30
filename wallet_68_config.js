@@ -1,1 +1,1 @@
-var mnemonic = "three just matter physical review pave moral romance long shield trophy cover";
+var mnemonic = "reopen analyst square random fee delay bid wink hobby cheap top remove";

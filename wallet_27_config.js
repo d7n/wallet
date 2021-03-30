@@ -1,1 +1,1 @@
-var mnemonic = "explain team crane swamp shrug cinnamon unaware right tube harvest hazard express";
+var mnemonic = "work again chief twenty human olympic parent tuition real client wine practice";

@@ -1,1 +1,1 @@
-var mnemonic = "drink tissue immune awesome blanket wool crop bike that tumble broken build";
+var mnemonic = "sister sausage kitten light together joy equip brisk volcano between table frame";

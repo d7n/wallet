@@ -1,1 +1,1 @@
-var mnemonic = "expand hurry wife exotic arrive license discover hill flock oppose apart off";
+var mnemonic = "illegal kid female pattern clock chronic gloom various notice follow sign gesture";

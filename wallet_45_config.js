@@ -1,1 +1,1 @@
-var mnemonic = "unit exile little regular program text pool recall target proof pave believe";
+var mnemonic = "flush observe mammal acquire account walnut cement envelope alone isolate voice pause";

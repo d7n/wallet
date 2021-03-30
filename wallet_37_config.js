@@ -1,1 +1,1 @@
-var mnemonic = "enough recall print price hello ridge total junior pioneer silent human tenant";
+var mnemonic = "outside creek exhaust lunar always leopard garment then luxury sniff sad blue";

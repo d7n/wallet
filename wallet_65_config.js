@@ -1,1 +1,1 @@
-var mnemonic = "drop charge woman mass olympic civil rare burst produce enhance rare gadget";
+var mnemonic = "family crumble broom laundry cereal shock divorce faint balance athlete start welcome";

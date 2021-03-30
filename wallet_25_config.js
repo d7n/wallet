@@ -1,1 +1,1 @@
-var mnemonic = "cradle primary possible lobster pull urge program cave clutch language goose vehicle";
+var mnemonic = "sea toast force attract garlic dilemma pull taxi segment news three brain";

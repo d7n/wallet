@@ -1,1 +1,1 @@
-var mnemonic = "palm wash federal wise afraid tool organ six brief brain hobby donkey";
+var mnemonic = "roast caution solar rain pet pitch song picture human mansion festival thank";

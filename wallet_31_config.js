@@ -1,1 +1,1 @@
-var mnemonic = "critic room filter equip hotel crystal fiction spray home garden violin huge";
+var mnemonic = "brand soccer year absurd lamp stable poverty bargain bone uphold ramp hat";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle mirror color regular method squirrel game soup drink attack antique warm";
+var mnemonic = "trade faculty miss boy ahead rice worth flee blush champion blossom erosion";

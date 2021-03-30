@@ -1,1 +1,1 @@
-var mnemonic = "climb car dismiss bulb tree crush snow leopard defense dignity atom bamboo";
+var mnemonic = "then oyster crawl obscure field list guitar leopard cloud peasant purpose truck";

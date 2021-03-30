@@ -1,1 +1,1 @@
-var mnemonic = "cross throw elegant steel over odor smile narrow offer govern globe bus";
+var mnemonic = "humble depth wheel slam jazz pony garden cotton spider flip enlist pledge";

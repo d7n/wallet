@@ -1,1 +1,1 @@
-var mnemonic = "margin delay wild release silent equal train change science inherit glimpse demise";
+var mnemonic = "rifle learn right reform silk fame release debate stumble knee more couple";

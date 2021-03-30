@@ -1,1 +1,1 @@
-var mnemonic = "glass quit chalk immense rail deer badge soul rookie input bird have";
+var mnemonic = "yellow review around salon giant history cabbage achieve dinner usage casual fresh";

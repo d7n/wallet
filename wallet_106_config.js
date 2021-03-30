@@ -1,1 +1,1 @@
-var mnemonic = "female call expect history february beauty number toddler manage dismiss exotic vague";
+var mnemonic = "drill salute tooth advice web muscle book wine life coach equal crouch";
