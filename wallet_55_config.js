@@ -1,1 +1,1 @@
-var mnemonic = "trophy voice drip manage struggle practice victory once split swamp allow alpha";
+var mnemonic = "glare order source orphan waste climb rib hero clean omit dignity victory";

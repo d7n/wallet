@@ -1,1 +1,1 @@
-var mnemonic = "gauge radar hobby comic broccoli about squirrel cloud over outdoor cereal witness";
+var mnemonic = "warfare obey siren install dash eternal kingdom critic weather august rare dismiss";

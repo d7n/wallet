@@ -1,1 +1,1 @@
-var mnemonic = "page poet fault combine exclude typical assume pair settle else exit damage";
+var mnemonic = "clog boost supreme author rescue name congress absent wife project find vibrant";

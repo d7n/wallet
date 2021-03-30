@@ -1,1 +1,1 @@
-var mnemonic = "rather coin insect siege test space jaguar spring control remove diet usual";
+var mnemonic = "length number match race despair session little wrestle pledge today castle medal";

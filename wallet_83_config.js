@@ -1,1 +1,1 @@
-var mnemonic = "safe manage peanut luxury prepare cable tilt saddle speed language better melody";
+var mnemonic = "lamp club drink suspect mixture brave apology lesson invite monster simple vintage";

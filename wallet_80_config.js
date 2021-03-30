@@ -1,1 +1,1 @@
-var mnemonic = "multiply gather dynamic poverty emerge mean tumble labor close health harbor orange";
+var mnemonic = "hollow decline marble live vintage silk hammer jar void search dash sweet";

@@ -1,1 +1,1 @@
-var mnemonic = "tired observe fade web visa blood riot aspect jar oak umbrella shine";
+var mnemonic = "galaxy awesome air okay airport fitness rapid grab glow congress horn come";

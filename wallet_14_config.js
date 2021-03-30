@@ -1,1 +1,1 @@
-var mnemonic = "blanket magnet advice host trumpet tenant sound cabin such domain air screen";
+var mnemonic = "rack palace innocent sell sentence time curve shaft venture people senior brother";

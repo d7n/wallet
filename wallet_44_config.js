@@ -1,1 +1,1 @@
-var mnemonic = "tuition sleep wood enemy require domain asthma dutch tomorrow special rival wreck";
+var mnemonic = "april correct minimum enlist fiber east embody hover pear hand senior lamp";

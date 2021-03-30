@@ -1,1 +1,1 @@
-var mnemonic = "prize lady gaze under write pond wage submit hundred frog assume attack";
+var mnemonic = "transfer sword stadium trade lunar gown worry vault regret dish pattern boy";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder nothing palm music word victory desert sock regular cluster banana agree";
+var mnemonic = "scan strike settle float hub tube grocery load bacon glow monster early";

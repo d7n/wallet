@@ -1,1 +1,1 @@
-var mnemonic = "rebel stone mesh spoil actual voice strategy front voice radar fortune certain";
+var mnemonic = "degree salmon inform visit palace thing special ceiling woman ensure debris force";

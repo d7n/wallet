@@ -1,1 +1,1 @@
-var mnemonic = "settle quick uphold diesel myself upper legend mountain area chase stay pumpkin";
+var mnemonic = "private damp silly silly act execute memory air midnight kick jewel tribe";

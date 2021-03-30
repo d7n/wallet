@@ -1,1 +1,1 @@
-var mnemonic = "winner ankle decade object fee kidney never comfort change beauty fiscal boil";
+var mnemonic = "awful such beach gauge suffer normal source breeze hire guess tuna envelope";

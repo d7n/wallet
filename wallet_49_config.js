@@ -1,1 +1,1 @@
-var mnemonic = "able uniform huge defy exact garbage canvas blind gentle present enable knife";
+var mnemonic = "mass total unhappy couch disease certain fault palace rug develop budget select";

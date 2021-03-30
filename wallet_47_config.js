@@ -1,1 +1,1 @@
-var mnemonic = "parade atom beauty neutral ability winner siren sign spring poet mirror idle";
+var mnemonic = "follow story empower dust enough rent hurdle hole protect gloom lonely siege";

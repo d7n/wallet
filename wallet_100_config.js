@@ -1,1 +1,1 @@
-var mnemonic = "spring keen alert chapter result hotel deputy joy traffic time eternal aware";
+var mnemonic = "magnet veteran spare rose marble ability nominee raise flag welcome fine truly";

@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow episode describe oblige item sketch cabin vendor ticket olympic conduct sheriff";
+var mnemonic = "cement father tiny quarter comfort brave mystery field utility destroy tonight icon";

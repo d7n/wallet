@@ -1,1 +1,1 @@
-var mnemonic = "merge cabin key daring shoot stereo unit ocean between region turkey reward";
+var mnemonic = "spoon erode square calm token omit obscure digital person bamboo affair wall";

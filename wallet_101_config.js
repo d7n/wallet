@@ -1,1 +1,1 @@
-var mnemonic = "ship stage moral motor police result clarify speed video verb museum more";
+var mnemonic = "alien shallow firm rare note anchor top mind album segment robust dust";

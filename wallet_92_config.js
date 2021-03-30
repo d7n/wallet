@@ -1,1 +1,1 @@
-var mnemonic = "wine army system design promote toddler source post stomach small august menu";
+var mnemonic = "page auction coyote plastic leisure sponsor village close risk battle obscure hotel";

@@ -1,1 +1,1 @@
-var mnemonic = "manual improve grace script labor mesh tube vehicle tongue finger nephew funny";
+var mnemonic = "patient soft vague edge duty ask chair life void lyrics pink insect";

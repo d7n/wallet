@@ -1,1 +1,1 @@
-var mnemonic = "plunge jungle leg law heavy raise member party stomach animal dirt goose";
+var mnemonic = "dinner push twelve manual umbrella perfect token armor follow spirit empower cliff";

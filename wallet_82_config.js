@@ -1,1 +1,1 @@
-var mnemonic = "mobile sniff city cash doll when abstract kidney shiver stage mixed uncover";
+var mnemonic = "happy sell party enemy accident double custom oven mountain helmet permit cry";

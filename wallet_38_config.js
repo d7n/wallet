@@ -1,1 +1,1 @@
-var mnemonic = "leader return catch awful render spirit link oblige segment patch door remove";
+var mnemonic = "equal love idea brown bubble code acquire craft infant era click select";

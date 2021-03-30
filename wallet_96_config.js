@@ -1,1 +1,1 @@
-var mnemonic = "laptop bracket bonus blade pulse friend much final baby nasty world receive";
+var mnemonic = "suggest chair hobby happy become access inflict time about fiction shadow game";

@@ -1,1 +1,1 @@
-var mnemonic = "attitude flame toy public faculty stock velvet fog scene breeze book wash";
+var mnemonic = "side improve foster also receive program middle own they still purpose link";

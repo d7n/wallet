@@ -1,1 +1,1 @@
-var mnemonic = "split air safe seek scrap laugh program mammal prize throw order dove";
+var mnemonic = "vapor prosper ladder pulp rule dose indoor exile tooth ritual federal dumb";

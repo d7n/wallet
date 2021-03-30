@@ -1,1 +1,1 @@
-var mnemonic = "ship order host honey blouse matrix torch action other total certain conduct";
+var mnemonic = "expand more atom river crater apart replace april trust twin direct question";

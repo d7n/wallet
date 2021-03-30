@@ -1,1 +1,1 @@
-var mnemonic = "notice setup hover shop virtual tuna order father crystal hole dry connect";
+var mnemonic = "win eagle fossil blanket craft viable dinner inspire aspect garbage define habit";

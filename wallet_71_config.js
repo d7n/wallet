@@ -1,1 +1,1 @@
-var mnemonic = "fat crisp stumble math caught dawn pilot flock mind away top public";
+var mnemonic = "find venture chair various borrow assume tattoo drill region off train tornado";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel public pudding convince carbon stuff fantasy potato neither shine assist police";
+var mnemonic = "theory arena winner auto reduce south flame law during maze fee eye";

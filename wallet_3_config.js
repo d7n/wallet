@@ -1,1 +1,1 @@
-var mnemonic = "bird sudden ready ostrich park old gauge yard thumb joy wall festival";
+var mnemonic = "final bulk awake cook scan license taxi extend put credit honey rail";

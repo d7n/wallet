@@ -1,1 +1,1 @@
-var mnemonic = "thought kite curve comic coil rail rebuild sponsor sail proud second spider";
+var mnemonic = "ancient wet acoustic cheese monster midnight impulse wheel mistake share gesture idea";

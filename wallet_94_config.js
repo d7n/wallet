@@ -1,1 +1,1 @@
-var mnemonic = "assume spread laundry verify later remain faint hazard transfer push share pitch";
+var mnemonic = "accuse attend club fatal unaware weird surface wise access note kind credit";

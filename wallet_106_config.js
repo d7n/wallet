@@ -1,1 +1,1 @@
-var mnemonic = "satisfy defense select divert puzzle eye fuel adapt swallow develop panel file";
+var mnemonic = "federal gorilla submit amount coral mom same cupboard dad hold tattoo adjust";

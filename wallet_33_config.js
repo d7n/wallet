@@ -1,1 +1,1 @@
-var mnemonic = "rapid nothing correct unaware praise balcony post ozone erosion window final acoustic";
+var mnemonic = "toss grow glow weather illegal impose unusual put visa sea regret galaxy";

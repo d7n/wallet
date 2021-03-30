@@ -1,1 +1,1 @@
-var mnemonic = "fit title grape chicken title fantasy armed diagram arrange amateur knife cloth";
+var mnemonic = "hockey august blue female squirrel battle valley gravity scatter security pattern dismiss";

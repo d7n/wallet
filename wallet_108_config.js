@@ -1,1 +1,1 @@
-var mnemonic = "sauce tongue deputy name north exit cup submit frame typical together path";
+var mnemonic = "unveil spider sheriff exotic sun intact average ice ordinary myth assault excess";

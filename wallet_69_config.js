@@ -1,1 +1,1 @@
-var mnemonic = "relax core inmate usual title latin powder happy cancel journey knee luggage";
+var mnemonic = "gown minute song setup swim pretty title arrow pretty slot rough item";

@@ -1,1 +1,1 @@
-var mnemonic = "device book vocal dad wasp only drama patch sand slight snap drastic";
+var mnemonic = "amateur silent now judge mercy grace reveal goat marriage leave coil silent";

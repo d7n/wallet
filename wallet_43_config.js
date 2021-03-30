@@ -1,1 +1,1 @@
-var mnemonic = "knee future beyond critic poet treat oil claim fatigue record stem indoor";
+var mnemonic = "thunder poem tail card velvet foil all hobby weird joy siege burst";

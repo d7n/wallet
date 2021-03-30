@@ -1,1 +1,1 @@
-var mnemonic = "program trumpet isolate bacon ancient glory other relax high report include remain";
+var mnemonic = "only bring arrest guitar stove guide column pink minute upgrade embark casino";

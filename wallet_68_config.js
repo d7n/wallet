@@ -1,1 +1,1 @@
-var mnemonic = "electric black gap cherry spy soap faculty tattoo wet shoot exile survey";
+var mnemonic = "now zebra silk moral wash voice bus orchard horror caught tumble property";

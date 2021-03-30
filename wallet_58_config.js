@@ -1,1 +1,1 @@
-var mnemonic = "valve slender siege cabin chair build engine bullet method indicate mechanic rifle";
+var mnemonic = "monster film company basic ocean illegal absurd wedding glare wash era chat";

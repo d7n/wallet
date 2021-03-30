@@ -1,1 +1,1 @@
-var mnemonic = "elbow inject section add tobacco undo athlete travel direct wave boring fiber";
+var mnemonic = "skirt can flat chef winter stem churn exact news pyramid organ avocado";

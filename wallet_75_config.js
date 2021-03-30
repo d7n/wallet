@@ -1,1 +1,1 @@
-var mnemonic = "churn merit size shrimp click frame stereo arm increase bronze viable lawsuit";
+var mnemonic = "force cram gauge fix river relief dirt rent debate believe swing unaware";

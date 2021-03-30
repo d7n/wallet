@@ -1,1 +1,1 @@
-var mnemonic = "claim reunion glance few recipe hen arrow offer middle feed shiver trial";
+var mnemonic = "vocal kind repeat pattern venue vapor just there arctic february goose spy";

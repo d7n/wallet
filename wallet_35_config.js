@@ -1,1 +1,1 @@
-var mnemonic = "torch bulb kingdom exist equal prevent wrist beyond girl witness gold ribbon";
+var mnemonic = "fold blade sustain flower hello country skin excess boat improve have draw";

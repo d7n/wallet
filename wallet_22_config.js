@@ -1,1 +1,1 @@
-var mnemonic = "announce motion lock fire obscure expand suggest trust behave ready power resist";
+var mnemonic = "disorder pepper exist mesh caught fluid begin sound barely tell cram nothing";

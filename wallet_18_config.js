@@ -1,1 +1,1 @@
-var mnemonic = "betray human gown swamp valid tube slight position inhale abandon civil bulk";
+var mnemonic = "seat run essence biology seat rule boat fluid unique recycle click two";

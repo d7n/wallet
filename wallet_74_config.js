@@ -1,1 +1,1 @@
-var mnemonic = "holiday expose divide ladder dismiss powder copper brisk unusual color lottery very";
+var mnemonic = "baby address earn exhaust verify napkin volume romance bring book stereo erosion";

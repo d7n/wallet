@@ -1,1 +1,1 @@
-var mnemonic = "blush surface dolphin spell great screen nominee taxi text repeat blast voice";
+var mnemonic = "kitten liar defy wear kidney public battle naive hamster tide toss easy";

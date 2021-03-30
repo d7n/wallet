@@ -1,1 +1,1 @@
-var mnemonic = "mobile pistol now close announce supply once couch vacant ride begin vendor";
+var mnemonic = "stereo solar symptom rate side engage tongue lazy excess they wing kitten";

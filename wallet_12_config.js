@@ -1,1 +1,1 @@
-var mnemonic = "flee business reason west staff slot give tank gown casino veteran spoil";
+var mnemonic = "nasty shadow eye cheap man scare record view giraffe velvet summer delay";

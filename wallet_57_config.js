@@ -1,1 +1,1 @@
-var mnemonic = "bonus jeans child habit dinner rude retreat love tooth shadow celery warrior";
+var mnemonic = "drill defense sauce ivory erupt burger fringe action destroy ostrich have butter";

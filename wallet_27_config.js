@@ -1,1 +1,1 @@
-var mnemonic = "cable across aunt crack again current depend fault perfect silent combine street";
+var mnemonic = "small cruel crash bonus twelve trouble vicious nuclear gossip luggage phrase floor";

@@ -1,1 +1,1 @@
-var mnemonic = "today mind detail throw onion drop evolve dose service upper scare embrace";
+var mnemonic = "essay kit slow license home sell swear country theory element dose judge";

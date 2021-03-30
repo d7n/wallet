@@ -1,1 +1,1 @@
-var mnemonic = "siege horse orchard spirit oak girl wave endless token uncover fall bullet";
+var mnemonic = "shed side minor actor farm focus wedding tunnel unique tool average reduce";

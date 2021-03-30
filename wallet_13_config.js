@@ -1,1 +1,1 @@
-var mnemonic = "silent fine cotton risk rich strike bomb typical draft nest horn venture";
+var mnemonic = "hope near release vanish verb elbow vanish horror plunge under recycle load";

@@ -1,1 +1,1 @@
-var mnemonic = "surround awake tower have enact ozone dilemma pride velvet hobby empty civil";
+var mnemonic = "attend scorpion copy meat combine strike toss maid kitchen manual dad depend";

@@ -1,1 +1,1 @@
-var mnemonic = "warm giraffe radar must adjust swear guide harbor polar business ritual teach";
+var mnemonic = "raise side crime story young eager pulp damp chaos fatal cross miss";

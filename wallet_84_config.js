@@ -1,1 +1,1 @@
-var mnemonic = "crouch radar comfort bracket company gaze lesson math faculty digital motion sadness";
+var mnemonic = "sketch couch nature crawl page scatter drop heart fancy lecture meadow current";

@@ -1,1 +1,1 @@
-var mnemonic = "attract undo harvest sheriff detect human grid banner together news today garage";
+var mnemonic = "steel service length grace slight picnic victory pill harsh axis pool trigger";

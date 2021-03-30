@@ -1,1 +1,1 @@
-var mnemonic = "face mixture fame left smile scatter trick east left fun style neither";
+var mnemonic = "build series blood love city nest swallow number dizzy supreme monitor maple";

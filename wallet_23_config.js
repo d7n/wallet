@@ -1,1 +1,1 @@
-var mnemonic = "border squirrel crouch swap explain caught kind tip nurse course mobile timber";
+var mnemonic = "dice flame artwork vast flash enjoy length night border during neglect horn";

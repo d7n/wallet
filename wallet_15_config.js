@@ -1,1 +1,1 @@
-var mnemonic = "bitter other safe settle describe toast buddy car dad couple circle horse";
+var mnemonic = "praise catch marble then pet gadget vessel upgrade offer pigeon hospital fit";

@@ -1,1 +1,1 @@
-var mnemonic = "final crash patrol around rifle tower peanut match grant kit join already";
+var mnemonic = "coil text side slow coil other rain knock behind canvas identify palace";

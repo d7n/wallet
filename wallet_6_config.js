@@ -1,1 +1,1 @@
-var mnemonic = "quick cook clown tissue swarm mix above toe lonely message term market";
+var mnemonic = "sell allow mesh current rather burst warm penalty wise miss fruit rough";

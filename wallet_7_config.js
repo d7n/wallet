@@ -1,1 +1,1 @@
-var mnemonic = "sausage soda wait endorse poem vapor climb quality hole polar book sea";
+var mnemonic = "angry copy shoulder dream avocado profit crucial sing squirrel erupt undo library";

@@ -1,1 +1,1 @@
-var mnemonic = "gold floor save claim chalk abandon best one never near enlist fat";
+var mnemonic = "turn junk jar length uniform funny merge sting jealous nuclear castle sunset";

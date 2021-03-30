@@ -1,1 +1,1 @@
-var mnemonic = "wing medal grunt cabin plunge width fossil fog spray umbrella material salt";
+var mnemonic = "virtual autumn view swing rifle apart globe toe visual feel rifle idea";

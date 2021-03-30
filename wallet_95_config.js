@@ -1,1 +1,1 @@
-var mnemonic = "feature flat horn clutch hospital position expire setup stadium soft master phone";
+var mnemonic = "depth april game scatter alcohol voice deliver edit issue couch dizzy ensure";

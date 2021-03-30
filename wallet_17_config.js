@@ -1,1 +1,1 @@
-var mnemonic = "van toddler tent vacuum tank client lend include head firm pizza defy";
+var mnemonic = "cruise luggage merry quantum eagle rain regular glow avocado enact quarter forum";

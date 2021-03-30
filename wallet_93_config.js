@@ -1,1 +1,1 @@
-var mnemonic = "obscure change prevent orchard charge fiction weapon lyrics bulk surprise hidden snake";
+var mnemonic = "replace pluck educate friend boost innocent skull thank side tongue flame ski";

@@ -1,1 +1,1 @@
-var mnemonic = "office hospital human good erode patrol hero bar angry multiply number deposit";
+var mnemonic = "setup attitude exchange thank pulp soup mystery melody absent salmon gallery brisk";

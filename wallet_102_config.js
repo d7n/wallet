@@ -1,1 +1,1 @@
-var mnemonic = "sorry warrior dose start trip truck state announce margin core note creek";
+var mnemonic = "rhythm leisure grocery mad demand wisdom craft dice link valid upper delay";

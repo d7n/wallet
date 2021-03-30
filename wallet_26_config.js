@@ -1,1 +1,1 @@
-var mnemonic = "mansion pink retreat popular link put oyster toward material math index cabbage";
+var mnemonic = "face regret anxiety tube town gown steak expand theory nation rich lizard";

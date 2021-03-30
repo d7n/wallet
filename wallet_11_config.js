@@ -1,1 +1,1 @@
-var mnemonic = "glass silly ribbon grab arrow broom little cruel review boss onion panel";
+var mnemonic = "ask news huge frost strong weird subject wish nice nuclear betray wife";

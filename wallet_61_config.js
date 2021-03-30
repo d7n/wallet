@@ -1,1 +1,1 @@
-var mnemonic = "destroy vague arctic argue solution risk lady tag recall capital fantasy settle";
+var mnemonic = "cake animal assume dry maximum poverty scrub poverty arrange inhale pledge stamp";

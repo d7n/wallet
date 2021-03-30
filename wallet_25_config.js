@@ -1,1 +1,1 @@
-var mnemonic = "airport bitter useless gentle trash credit erosion lend cause horn urge piece";
+var mnemonic = "rely congress begin airport large start raw purse zoo settle agree lunch";

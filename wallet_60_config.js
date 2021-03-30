@@ -1,1 +1,1 @@
-var mnemonic = "later because trim maid coin silly person debate advance mistake slow match";
+var mnemonic = "hawk equip donor clog ten defense clog pigeon amateur payment soon frost";

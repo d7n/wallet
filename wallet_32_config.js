@@ -1,1 +1,1 @@
-var mnemonic = "web sponsor van charge used table beach love lonely flower venue hurry";
+var mnemonic = "access camera aspect various nominee old coyote wild shrimp brisk tide gaze";

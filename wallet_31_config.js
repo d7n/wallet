@@ -1,1 +1,1 @@
-var mnemonic = "panther easily electric ranch spawn seminar fragile pledge glory trip ranch lobster";
+var mnemonic = "federal trap clog office damage joy leader scare jacket lady remove riot";

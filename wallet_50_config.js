@@ -1,1 +1,1 @@
-var mnemonic = "fuel salt hungry human spirit sample recycle wasp limit remind tuna churn";
+var mnemonic = "eagle adjust emerge always vendor exchange myth hurdle feed unit secret design";

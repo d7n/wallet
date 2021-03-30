@@ -1,1 +1,1 @@
-var mnemonic = "work submit snow atom series exchange since govern asset wink address valid";
+var mnemonic = "retreat luggage guess indoor dolphin magnet punch produce food shield night member";

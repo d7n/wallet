@@ -1,1 +1,1 @@
-var mnemonic = "pizza run cart art spell boost boy speed pumpkin word town ritual";
+var mnemonic = "turtle text egg drift mesh pledge spice noise famous survey put gold";
