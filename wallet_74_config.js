@@ -1,1 +1,1 @@
-var mnemonic = "gate such love elite depend wet echo strategy lunch genuine original initial";
+var mnemonic = "holiday expose divide ladder dismiss powder copper brisk unusual color lottery very";

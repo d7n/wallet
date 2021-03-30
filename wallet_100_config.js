@@ -1,1 +1,1 @@
-var mnemonic = "found surge junk inmate august install thunder panda bird behave skate need";
+var mnemonic = "spring keen alert chapter result hotel deputy joy traffic time eternal aware";

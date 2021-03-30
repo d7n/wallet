@@ -1,1 +1,1 @@
-var mnemonic = "magic peasant rail kite soap angle nose wet predict camp column attend";
+var mnemonic = "fat crisp stumble math caught dawn pilot flock mind away top public";

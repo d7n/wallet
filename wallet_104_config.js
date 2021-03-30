@@ -1,1 +1,1 @@
-var mnemonic = "apart section ranch task slot huge gloom adjust day carbon seek below";
+var mnemonic = "swarm twin tennis diary ecology scatter baby chef happy arrow dress drastic";

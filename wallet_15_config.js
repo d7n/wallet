@@ -1,1 +1,1 @@
-var mnemonic = "board total split expose stone twelve wrist marriage gossip legend stereo spawn";
+var mnemonic = "bitter other safe settle describe toast buddy car dad couple circle horse";

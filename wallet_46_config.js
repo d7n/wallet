@@ -1,1 +1,1 @@
-var mnemonic = "width cage another feel slab pet unveil risk illegal rely family wear";
+var mnemonic = "shoot merit weapon view provide useless broken asset fossil coast idle bag";

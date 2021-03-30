@@ -1,1 +1,1 @@
-var mnemonic = "picnic success emotion slow battle practice man tunnel erase hour move enjoy";
+var mnemonic = "obscure change prevent orchard charge fiction weapon lyrics bulk surprise hidden snake";

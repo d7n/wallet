@@ -1,1 +1,1 @@
-var mnemonic = "baby true lonely barely brain electric nation vital enemy simple gather name";
+var mnemonic = "announce motion lock fire obscure expand suggest trust behave ready power resist";

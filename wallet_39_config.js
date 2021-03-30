@@ -1,1 +1,1 @@
-var mnemonic = "property dash brief special coach dumb tackle merit galaxy march mail chicken";
+var mnemonic = "tired observe fade web visa blood riot aspect jar oak umbrella shine";

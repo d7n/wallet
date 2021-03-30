@@ -1,1 +1,1 @@
-var mnemonic = "output fat settle mass gather people over trumpet please number other service";
+var mnemonic = "pattern wink camp snake method panel room design build smart afford bind";

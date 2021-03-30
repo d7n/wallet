@@ -1,1 +1,1 @@
-var mnemonic = "leader beyond squeeze clerk away ahead battle grant gun ice crazy kitchen";
+var mnemonic = "fuel salt hungry human spirit sample recycle wasp limit remind tuna churn";

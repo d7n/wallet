@@ -1,1 +1,1 @@
-var mnemonic = "fiscal again between defy blue remain security hammer kiwi public february stove";
+var mnemonic = "wine army system design promote toddler source post stomach small august menu";

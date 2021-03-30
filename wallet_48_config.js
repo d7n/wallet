@@ -1,1 +1,1 @@
-var mnemonic = "salad gallery tag ripple host royal enough tragic vivid morning loud spray";
+var mnemonic = "thought kite curve comic coil rail rebuild sponsor sail proud second spider";

@@ -1,1 +1,1 @@
-var mnemonic = "tomato lyrics safe dune joke card garden surface reopen recipe outside permit";
+var mnemonic = "final crash patrol around rifle tower peanut match grant kit join already";

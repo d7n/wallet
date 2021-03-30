@@ -1,1 +1,1 @@
-var mnemonic = "web joy avoid fitness brush cycle degree trim doll later bike bag";
+var mnemonic = "rapid nothing correct unaware praise balcony post ozone erosion window final acoustic";

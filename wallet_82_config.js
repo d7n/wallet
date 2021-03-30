@@ -1,1 +1,1 @@
-var mnemonic = "spot forward bitter domain south once bamboo today prevent bus gospel approve";
+var mnemonic = "mobile sniff city cash doll when abstract kidney shiver stage mixed uncover";

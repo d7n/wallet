@@ -1,1 +1,1 @@
-var mnemonic = "vendor bounce left general pottery fade rough release essence city rich claim";
+var mnemonic = "prize lady gaze under write pond wage submit hundred frog assume attack";

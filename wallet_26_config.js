@@ -1,1 +1,1 @@
-var mnemonic = "zero shift swamp broccoli possible fine control peanut truth lazy pony useful";
+var mnemonic = "mansion pink retreat popular link put oyster toward material math index cabbage";

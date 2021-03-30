@@ -1,1 +1,1 @@
-var mnemonic = "fresh creek energy advice finger address seek amused dad trend write lyrics";
+var mnemonic = "airport bitter useless gentle trash credit erosion lend cause horn urge piece";

@@ -1,1 +1,1 @@
-var mnemonic = "fade code notable father guard lunar damp come awful surprise pioneer wool";
+var mnemonic = "ship stage moral motor police result clarify speed video verb museum more";

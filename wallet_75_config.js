@@ -1,1 +1,1 @@
-var mnemonic = "biology stage animal plate vintage exact shine range caught tuna spend spend";
+var mnemonic = "churn merit size shrimp click frame stereo arm increase bronze viable lawsuit";

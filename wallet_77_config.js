@@ -1,1 +1,1 @@
-var mnemonic = "athlete inhale dune genre holiday unveil agree magic pact loud leaf virtual";
+var mnemonic = "tomorrow episode describe oblige item sketch cabin vendor ticket olympic conduct sheriff";

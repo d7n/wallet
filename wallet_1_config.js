@@ -1,1 +1,1 @@
-var mnemonic = "prosper nasty opera town horn forward debate witness success volcano kid wood";
+var mnemonic = "surround awake tower have enact ozone dilemma pride velvet hobby empty civil";

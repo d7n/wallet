@@ -1,1 +1,1 @@
-var mnemonic = "innocent honey pact tragic pizza during bamboo river glory force hen blouse";
+var mnemonic = "van toddler tent vacuum tank client lend include head firm pizza defy";

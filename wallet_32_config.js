@@ -1,1 +1,1 @@
-var mnemonic = "arrest airport benefit broccoli indoor mouse avoid fade crystal gain please meadow";
+var mnemonic = "web sponsor van charge used table beach love lonely flower venue hurry";

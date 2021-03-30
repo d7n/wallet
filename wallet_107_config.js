@@ -1,1 +1,1 @@
-var mnemonic = "unfair fire logic tongue quick cupboard expect window disease daughter similar favorite";
+var mnemonic = "ensure pelican idea absurd cigar worth neck pear mammal dolphin habit way";

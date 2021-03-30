@@ -1,1 +1,1 @@
-var mnemonic = "popular purpose glance mixed tomorrow tuna few essence system remember profit replace";
+var mnemonic = "winner ankle decade object fee kidney never comfort change beauty fiscal boil";

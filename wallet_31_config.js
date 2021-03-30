@@ -1,1 +1,1 @@
-var mnemonic = "increase soon any fuel almost begin hungry permit display narrow welcome enlist";
+var mnemonic = "panther easily electric ranch spawn seminar fragile pledge glory trip ranch lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "catalog aunt excess winner public monitor hill subway surround arrest festival tomorrow";
+var mnemonic = "knee future beyond critic poet treat oil claim fatigue record stem indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "era blame donor clown wire jaguar nose vote month lecture bread find";
+var mnemonic = "quick cook clown tissue swarm mix above toe lonely message term market";

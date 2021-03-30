@@ -1,1 +1,1 @@
-var mnemonic = "uncover cup scorpion mammal sheriff face siege picnic trend sugar avocado people";
+var mnemonic = "blush surface dolphin spell great screen nominee taxi text repeat blast voice";

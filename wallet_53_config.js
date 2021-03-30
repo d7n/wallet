@@ -1,1 +1,1 @@
-var mnemonic = "episode clutch consider decrease patch denial sound viable flee traffic burden candy";
+var mnemonic = "claim reunion glance few recipe hen arrow offer middle feed shiver trial";

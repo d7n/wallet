@@ -1,1 +1,1 @@
-var mnemonic = "occur detail element ozone loop add season retreat health height trouble crew";
+var mnemonic = "bird sudden ready ostrich park old gauge yard thumb joy wall festival";

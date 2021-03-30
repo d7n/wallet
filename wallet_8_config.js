@@ -1,1 +1,1 @@
-var mnemonic = "repair exist enroll sport version bleak wealth quantum nothing museum donor evil";
+var mnemonic = "ship order host honey blouse matrix torch action other total certain conduct";

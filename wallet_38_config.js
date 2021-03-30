@@ -1,1 +1,1 @@
-var mnemonic = "lava glue skin derive account enact lawn lamp never blood forum tag";
+var mnemonic = "leader return catch awful render spirit link oblige segment patch door remove";

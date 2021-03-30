@@ -1,1 +1,1 @@
-var mnemonic = "north already dignity airport fan napkin visual arrange table math amateur seat";
+var mnemonic = "betray human gown swamp valid tube slight position inhale abandon civil bulk";

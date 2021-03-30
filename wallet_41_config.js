@@ -1,1 +1,1 @@
-var mnemonic = "famous concert suffer mutual blush bonus entry hood better raw hedgehog benefit";
+var mnemonic = "river agent ethics indoor dress boss there into useful cabbage trash expect";

@@ -1,1 +1,1 @@
-var mnemonic = "oval fix reject animal ice warfare debate square boat dish marble often";
+var mnemonic = "convince again scale debris actual such over crash lens mountain surround category";

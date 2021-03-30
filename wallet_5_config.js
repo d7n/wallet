@@ -1,1 +1,1 @@
-var mnemonic = "assist magic option auto stem business host snow detect style stick midnight";
+var mnemonic = "device book vocal dad wasp only drama patch sand slight snap drastic";

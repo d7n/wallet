@@ -1,1 +1,1 @@
-var mnemonic = "puzzle border mother use teach finish bid beef alarm evidence blush joy";
+var mnemonic = "pizza run cart art spell boost boy speed pumpkin word town ritual";

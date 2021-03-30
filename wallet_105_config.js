@@ -1,1 +1,1 @@
-var mnemonic = "insane end opera point pond snow mixed web burden income lend job";
+var mnemonic = "manual improve grace script labor mesh tube vehicle tongue finger nephew funny";

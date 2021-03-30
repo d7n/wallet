@@ -1,1 +1,1 @@
-var mnemonic = "obtain develop finger bar success desk inherit knock coconut tree mule worth";
+var mnemonic = "multiply gather dynamic poverty emerge mean tumble labor close health harbor orange";

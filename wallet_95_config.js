@@ -1,1 +1,1 @@
-var mnemonic = "apology outside fatigue patch ranch fossil insect certain balance plastic robot income";
+var mnemonic = "feature flat horn clutch hospital position expire setup stadium soft master phone";

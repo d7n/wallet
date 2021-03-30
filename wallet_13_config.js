@@ -1,1 +1,1 @@
-var mnemonic = "giraffe siren icon owner aerobic never bag wreck across alcohol glad hand";
+var mnemonic = "silent fine cotton risk rich strike bomb typical draft nest horn venture";

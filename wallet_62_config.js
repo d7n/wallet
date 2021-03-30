@@ -1,1 +1,1 @@
-var mnemonic = "novel silver grab mixture hat accuse ahead pen advance mutual eager only";
+var mnemonic = "elephant grant grid music lemon private amused rubber enough injury adapt gym";

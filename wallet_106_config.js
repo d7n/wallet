@@ -1,1 +1,1 @@
-var mnemonic = "display else puppy gain prepare can lamp shoot cat certain lend heart";
+var mnemonic = "satisfy defense select divert puzzle eye fuel adapt swallow develop panel file";

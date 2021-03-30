@@ -1,1 +1,1 @@
-var mnemonic = "wire vintage vibrant shield legal say vacant grape child love solve alarm";
+var mnemonic = "river cart cricket dice couch rain return helmet stairs ship horse dose";

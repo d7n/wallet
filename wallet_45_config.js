@@ -1,1 +1,1 @@
-var mnemonic = "any drum suspect ankle live february journey throw during sense beauty lawsuit";
+var mnemonic = "siege horse orchard spirit oak girl wave endless token uncover fall bullet";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery immune maple sheriff valley gloom feed kitten hurt arrive boat rebel";
+var mnemonic = "parade atom beauty neutral ability winner siren sign spring poet mirror idle";

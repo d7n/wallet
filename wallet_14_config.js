@@ -1,1 +1,1 @@
-var mnemonic = "advice lucky lend album practice fat total jealous wrong father chuckle theme";
+var mnemonic = "blanket magnet advice host trumpet tenant sound cabin such domain air screen";

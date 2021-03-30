@@ -1,1 +1,1 @@
-var mnemonic = "donate pelican report today shoot collect resist answer kick merge economy odor";
+var mnemonic = "lend salt motor soda venue state arm combine burden service clerk river";

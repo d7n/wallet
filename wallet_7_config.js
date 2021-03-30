@@ -1,1 +1,1 @@
-var mnemonic = "actor devote scheme private obvious twelve conduct arrange pass narrow update impulse";
+var mnemonic = "sausage soda wait endorse poem vapor climb quality hole polar book sea";

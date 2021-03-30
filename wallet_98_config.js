@@ -1,1 +1,1 @@
-var mnemonic = "wasp cable leopard absent boil conduct favorite spatial rely museum rabbit august";
+var mnemonic = "universe speed square defense bench digital rich burst digital unveil region light";

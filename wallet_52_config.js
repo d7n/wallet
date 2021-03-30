@@ -1,1 +1,1 @@
-var mnemonic = "lion rain check accident sleep artist kick siege jaguar dune attitude disease";
+var mnemonic = "notice setup hover shop virtual tuna order father crystal hole dry connect";

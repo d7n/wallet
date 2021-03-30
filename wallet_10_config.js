@@ -1,1 +1,1 @@
-var mnemonic = "flat carpet liquid system race shallow wood stove frozen lumber retire tattoo";
+var mnemonic = "plunge jungle leg law heavy raise member party stomach animal dirt goose";

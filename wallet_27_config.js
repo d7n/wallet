@@ -1,1 +1,1 @@
-var mnemonic = "typical dolphin sock music warrior beach hunt twice question people arena kite";
+var mnemonic = "cable across aunt crack again current depend fault perfect silent combine street";

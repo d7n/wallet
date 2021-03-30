@@ -1,1 +1,1 @@
-var mnemonic = "later intact identify delay slow pass diet sail hill address rigid year";
+var mnemonic = "rebel stone mesh spoil actual voice strategy front voice radar fortune certain";

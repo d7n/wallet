@@ -1,1 +1,1 @@
-var mnemonic = "thunder coast swing ghost twelve torch piano portion uphold essence birth atom";
+var mnemonic = "border squirrel crouch swap explain caught kind tip nurse course mobile timber";

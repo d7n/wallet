@@ -1,1 +1,1 @@
-var mnemonic = "easy grass bunker retreat acoustic script direct cruise armor child asthma mango";
+var mnemonic = "merge cabin key daring shoot stereo unit ocean between region turkey reward";

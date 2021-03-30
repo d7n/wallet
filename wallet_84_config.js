@@ -1,1 +1,1 @@
-var mnemonic = "shock trumpet news switch deliver lumber leave dry explain garlic gather regular";
+var mnemonic = "crouch radar comfort bracket company gaze lesson math faculty digital motion sadness";

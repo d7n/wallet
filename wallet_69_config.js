@@ -1,1 +1,1 @@
-var mnemonic = "flock habit clap clown weird undo there learn female pledge skill fossil";
+var mnemonic = "relax core inmate usual title latin powder happy cancel journey knee luggage";

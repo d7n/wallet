@@ -1,1 +1,1 @@
-var mnemonic = "mango comic solve stone require post chalk pact electric layer daring hole";
+var mnemonic = "today mind detail throw onion drop evolve dose service upper scare embrace";

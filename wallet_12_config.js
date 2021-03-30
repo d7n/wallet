@@ -1,1 +1,1 @@
-var mnemonic = "critic say initial vapor unfold camp quality swap code little city ticket";
+var mnemonic = "flee business reason west staff slot give tank gown casino veteran spoil";

@@ -1,1 +1,1 @@
-var mnemonic = "aim total rifle doctor tower topic milk vapor load boost enhance satisfy";
+var mnemonic = "assume spread laundry verify later remain faint hazard transfer push share pitch";

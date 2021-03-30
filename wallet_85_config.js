@@ -1,1 +1,1 @@
-var mnemonic = "correct aunt inherit deal viable feed milk polar silk hybrid sweet upset";
+var mnemonic = "work submit snow atom series exchange since govern asset wink address valid";

@@ -1,1 +1,1 @@
-var mnemonic = "range together mixture person carbon target measure stamp burger craft later purpose";
+var mnemonic = "program trumpet isolate bacon ancient glory other relax high report include remain";

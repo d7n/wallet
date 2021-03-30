@@ -1,1 +1,1 @@
-var mnemonic = "few ski bitter public feed hockey action burst motion silver aim jealous";
+var mnemonic = "split air safe seek scrap laugh program mammal prize throw order dove";

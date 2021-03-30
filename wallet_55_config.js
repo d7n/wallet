@@ -1,1 +1,1 @@
-var mnemonic = "lamp finger rebuild shadow curve scare dutch ship palace label glad message";
+var mnemonic = "trophy voice drip manage struggle practice victory once split swamp allow alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "doll budget heart boring employ fold noble cigar hire action seminar balcony";
+var mnemonic = "valve slender siege cabin chair build engine bullet method indicate mechanic rifle";

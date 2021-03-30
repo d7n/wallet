@@ -1,1 +1,1 @@
-var mnemonic = "silk amused book able mammal boil parrot bonus gorilla leader final maple";
+var mnemonic = "glass silly ribbon grab arrow broom little cruel review boss onion panel";

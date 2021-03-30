@@ -1,1 +1,1 @@
-var mnemonic = "donor lend primary share gauge chunk nest burden grunt blast job false";
+var mnemonic = "wing medal grunt cabin plunge width fossil fog spray umbrella material salt";

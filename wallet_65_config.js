@@ -1,1 +1,1 @@
-var mnemonic = "celery swing script delay visa vessel gaze sustain rude dinner design common";
+var mnemonic = "settle quick uphold diesel myself upper legend mountain area chase stay pumpkin";

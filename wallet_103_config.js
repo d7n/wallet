@@ -1,1 +1,1 @@
-var mnemonic = "summer sad turtle legend plunge initial fancy barely hint tattoo old sunset";
+var mnemonic = "face mixture fame left smile scatter trick east left fun style neither";

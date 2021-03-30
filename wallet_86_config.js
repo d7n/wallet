@@ -1,1 +1,1 @@
-var mnemonic = "omit elite discover crowd source govern oblige brick fix century scatter stand";
+var mnemonic = "office hospital human good erode patrol hero bar angry multiply number deposit";

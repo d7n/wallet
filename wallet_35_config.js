@@ -1,1 +1,1 @@
-var mnemonic = "depth vast track crew seven trim hope turtle degree type before clerk";
+var mnemonic = "torch bulb kingdom exist equal prevent wrist beyond girl witness gold ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "govern minor evolve metal tank property lion dinosaur walnut yellow fiction soap";
+var mnemonic = "struggle diary giant able number embark absorb exotic load illegal scan muffin";

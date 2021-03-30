@@ -1,1 +1,1 @@
-var mnemonic = "casual divert fortune vacant match typical play mammal elder glide glory faith";
+var mnemonic = "sauce tongue deputy name north exit cup submit frame typical together path";

@@ -1,1 +1,1 @@
-var mnemonic = "stereo shoot hawk limit segment mother rural carbon energy wrist nest awake";
+var mnemonic = "sorry warrior dose start trip truck state announce margin core note creek";

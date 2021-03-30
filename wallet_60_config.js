@@ -1,1 +1,1 @@
-var mnemonic = "slim soft faculty shiver outside analyst orient pottery toddler thunder solve craft";
+var mnemonic = "later because trim maid coin silly person debate advance mistake slow match";

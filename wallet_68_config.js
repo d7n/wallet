@@ -1,1 +1,1 @@
-var mnemonic = "need cause wrist embark science taste club drill supreme slender thumb skull";
+var mnemonic = "electric black gap cherry spy soap faculty tattoo wet shoot exile survey";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade autumn furnace gallery base again collect fade hotel ill usage surround";
+var mnemonic = "destroy vague arctic argue solution risk lady tag recall capital fantasy settle";

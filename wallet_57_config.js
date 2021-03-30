@@ -1,1 +1,1 @@
-var mnemonic = "security into champion liberty castle unfold tomorrow try video observe lady outer";
+var mnemonic = "bonus jeans child habit dinner rude retreat love tooth shadow celery warrior";

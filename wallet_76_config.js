@@ -1,1 +1,1 @@
-var mnemonic = "gown history immune hub betray wolf uncle knock welcome document cactus hen";
+var mnemonic = "elbow inject section add tobacco undo athlete travel direct wave boring fiber";

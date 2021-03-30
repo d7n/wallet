@@ -1,1 +1,1 @@
-var mnemonic = "long unit exit brown anchor spice cradle cactus scale shadow hair cup";
+var mnemonic = "page poet fault combine exclude typical assume pair settle else exit damage";

@@ -1,1 +1,1 @@
-var mnemonic = "august lake transfer garment sorry tissue all nothing bread crew unaware tortoise";
+var mnemonic = "gate use cereal toddler kangaroo love helmet wolf cradle trust news cannon";

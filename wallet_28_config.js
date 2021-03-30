@@ -1,1 +1,1 @@
-var mnemonic = "miracle target title apple catch lottery stuff lend shoulder steel ugly upset";
+var mnemonic = "attract undo harvest sheriff detect human grid banner together news today garage";

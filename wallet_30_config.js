@@ -1,1 +1,1 @@
-var mnemonic = "person other august shrimp pelican model agree update deer person find harvest";
+var mnemonic = "fit title grape chicken title fantasy armed diagram arrange amateur knife cloth";

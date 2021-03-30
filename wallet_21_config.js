@@ -1,1 +1,1 @@
-var mnemonic = "motion hundred apple hint person fire manage quarter sell absurd glove put";
+var mnemonic = "impact word evolve junior provide river success green tongue insane busy win";

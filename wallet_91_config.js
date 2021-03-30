@@ -1,1 +1,1 @@
-var mnemonic = "sail resist hen tumble seat steel water thumb track train trip flat";
+var mnemonic = "mobile pistol now close announce supply once couch vacant ride begin vendor";

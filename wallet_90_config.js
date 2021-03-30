@@ -1,1 +1,1 @@
-var mnemonic = "exhibit kingdom ticket great peanut fiber harbor lizard lamp charge coconut link";
+var mnemonic = "canoe much impact couch casual mix grid age slow latin device wasp";

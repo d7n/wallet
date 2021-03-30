@@ -1,1 +1,1 @@
-var mnemonic = "mixture oval member funny simple tobacco drift attitude inspire swim rather pyramid";
+var mnemonic = "able uniform huge defy exact garbage canvas blind gentle present enable knife";

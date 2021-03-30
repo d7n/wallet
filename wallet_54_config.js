@@ -1,1 +1,1 @@
-var mnemonic = "steel tooth cannon call weird moment debate carpet stereo pause tilt symbol";
+var mnemonic = "twelve retreat wrestle rain cereal doll anxiety snow state network make fork";
