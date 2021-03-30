@@ -1,1 +1,1 @@
-var mnemonic = "buddy sweet diesel appear sadness reform evil catalog casual cigar tray already";
+var mnemonic = "picnic success emotion slow battle practice man tunnel erase hour move enjoy";

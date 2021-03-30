@@ -1,1 +1,1 @@
-var mnemonic = "extend relax order brave merit dynamic later duty warm bright dad lawn";
+var mnemonic = "north already dignity airport fan napkin visual arrange table math amateur seat";

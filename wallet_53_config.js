@@ -1,1 +1,1 @@
-var mnemonic = "right old stay spawn around old library differ mimic chuckle desert skill";
+var mnemonic = "episode clutch consider decrease patch denial sound viable flee traffic burden candy";

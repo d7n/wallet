@@ -1,1 +1,1 @@
-var mnemonic = "bird drink advice apology payment keen pudding tell carbon patch lucky spring";
+var mnemonic = "casual divert fortune vacant match typical play mammal elder glide glory faith";

@@ -1,1 +1,1 @@
-var mnemonic = "need once reflect velvet invite any mountain shed exhaust buyer tired silver";
+var mnemonic = "apart section ranch task slot huge gloom adjust day carbon seek below";

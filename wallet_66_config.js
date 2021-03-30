@@ -1,1 +1,1 @@
-var mnemonic = "panther climb wood below circle step category sentence damp will sword carry";
+var mnemonic = "obtain insane issue hedgehog obvious federal owner devote old art comic sample";

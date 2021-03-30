@@ -1,1 +1,1 @@
-var mnemonic = "toast edit tiger father upon you anxiety acid chief neck pilot never";
+var mnemonic = "range together mixture person carbon target measure stamp burger craft later purpose";

@@ -1,1 +1,1 @@
-var mnemonic = "sorry model system stumble clarify burst monster ensure promote lazy remind donate";
+var mnemonic = "gate such love elite depend wet echo strategy lunch genuine original initial";

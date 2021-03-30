@@ -1,1 +1,1 @@
-var mnemonic = "violin account horror need cheap come retreat curtain flash style year escape";
+var mnemonic = "neck legal curtain pony second banner shop embrace year pen maple panther";

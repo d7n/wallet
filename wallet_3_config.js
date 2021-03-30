@@ -1,1 +1,1 @@
-var mnemonic = "curve practice wine person sand spray follow deposit immune hurry put mandate";
+var mnemonic = "occur detail element ozone loop add season retreat health height trouble crew";

@@ -1,1 +1,1 @@
-var mnemonic = "rapid snake eagle improve wrap visit poem conduct shadow physical silk legal";
+var mnemonic = "chronic edit fault mail energy pumpkin push history raw injury trade timber";

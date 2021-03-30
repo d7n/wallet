@@ -1,1 +1,1 @@
-var mnemonic = "surprise review zero amount junk dinner inhale ring throw distance various airport";
+var mnemonic = "catalog aunt excess winner public monitor hill subway surround arrest festival tomorrow";

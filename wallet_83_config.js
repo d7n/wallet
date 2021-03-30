@@ -1,1 +1,1 @@
-var mnemonic = "gauge amazing rival rug custom educate belt spatial shrimp park marriage task";
+var mnemonic = "zone praise ignore garment draw despair review frog cube detect match canoe";

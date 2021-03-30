@@ -1,1 +1,1 @@
-var mnemonic = "cage unknown ugly omit battle bike romance patch company pyramid require palace";
+var mnemonic = "property dash brief special coach dumb tackle merit galaxy march mail chicken";

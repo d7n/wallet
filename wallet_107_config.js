@@ -1,1 +1,1 @@
-var mnemonic = "bind swarm fit casino snack tonight comfort expose leisure regular measure payment";
+var mnemonic = "unfair fire logic tongue quick cupboard expect window disease daughter similar favorite";

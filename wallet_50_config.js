@@ -1,1 +1,1 @@
-var mnemonic = "deposit behave plug mushroom chuckle where mosquito lady evil lawn blush dose";
+var mnemonic = "leader beyond squeeze clerk away ahead battle grant gun ice crazy kitchen";

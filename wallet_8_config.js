@@ -1,1 +1,1 @@
-var mnemonic = "spend holiday snow first test acoustic what vibrant buyer spring track glimpse";
+var mnemonic = "repair exist enroll sport version bleak wealth quantum nothing museum donor evil";

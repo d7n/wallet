@@ -1,1 +1,1 @@
-var mnemonic = "credit voyage major cement travel fall shop bulb fetch teach solve bridge";
+var mnemonic = "august lake transfer garment sorry tissue all nothing bread crew unaware tortoise";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade embrace false brief trend hint unique hire aspect prefer health father";
+var mnemonic = "depth vast track crew seven trim hope turtle degree type before clerk";

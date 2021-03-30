@@ -1,1 +1,1 @@
-var mnemonic = "sad axis mango still zone caution mouse kind vintage shine crash property";
+var mnemonic = "fresh creek energy advice finger address seek amused dad trend write lyrics";

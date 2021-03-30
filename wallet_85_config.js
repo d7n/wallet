@@ -1,1 +1,1 @@
-var mnemonic = "token fox lift buffalo slush public boss wool chair index retire animal";
+var mnemonic = "correct aunt inherit deal viable feed milk polar silk hybrid sweet upset";

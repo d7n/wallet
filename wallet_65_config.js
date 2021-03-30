@@ -1,1 +1,1 @@
-var mnemonic = "expose carry camera across loyal private depend kind thunder govern cricket faculty";
+var mnemonic = "celery swing script delay visa vessel gaze sustain rude dinner design common";

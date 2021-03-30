@@ -1,1 +1,1 @@
-var mnemonic = "artefact pill start wheel paper mansion inherit nuclear pool earth vicious control";
+var mnemonic = "vendor bounce left general pottery fade rough release essence city rich claim";

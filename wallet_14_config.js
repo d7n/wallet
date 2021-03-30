@@ -1,1 +1,1 @@
-var mnemonic = "shield yard search arm chair tower curve proud wheat banana remember tiny";
+var mnemonic = "advice lucky lend album practice fat total jealous wrong father chuckle theme";

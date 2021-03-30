@@ -1,1 +1,1 @@
-var mnemonic = "doctor fault cheese letter armed tomato police embark mix can brass mix";
+var mnemonic = "shock trumpet news switch deliver lumber leave dry explain garlic gather regular";

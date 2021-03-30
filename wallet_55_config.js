@@ -1,1 +1,1 @@
-var mnemonic = "spring treat invest machine buyer utility flash pistol sell twin trouble clown";
+var mnemonic = "lamp finger rebuild shadow curve scare dutch ship palace label glad message";

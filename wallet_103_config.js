@@ -1,1 +1,1 @@
-var mnemonic = "spare seat viable erase obvious breeze receive panel churn where guitar divide";
+var mnemonic = "summer sad turtle legend plunge initial fancy barely hint tattoo old sunset";

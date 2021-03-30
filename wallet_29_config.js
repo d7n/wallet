@@ -1,1 +1,1 @@
-var mnemonic = "inhale tiny south boy best drink subject west melody someone chest anchor";
+var mnemonic = "long unit exit brown anchor spice cradle cactus scale shadow hair cup";

@@ -1,1 +1,1 @@
-var mnemonic = "embark occur primary record limb unknown autumn craft soul property vintage patch";
+var mnemonic = "steel tooth cannon call weird moment debate carpet stereo pause tilt symbol";

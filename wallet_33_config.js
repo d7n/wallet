@@ -1,1 +1,1 @@
-var mnemonic = "outdoor clog learn buddy tide diet garden change sense mad clinic math";
+var mnemonic = "web joy avoid fitness brush cycle degree trim doll later bike bag";

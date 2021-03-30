@@ -1,1 +1,1 @@
-var mnemonic = "city figure neither tuition adapt stuff bracket doll jar floor runway what";
+var mnemonic = "upgrade autumn furnace gallery base again collect fade hotel ill usage surround";

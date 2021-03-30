@@ -1,1 +1,1 @@
-var mnemonic = "element doctor before cost lyrics space dutch thing solution token old enable";
+var mnemonic = "apology outside fatigue patch ranch fossil insect certain balance plastic robot income";

@@ -1,1 +1,1 @@
-var mnemonic = "survey member miss cement help balance where any nasty upgrade evolve tree";
+var mnemonic = "square custom scene allow borrow spare name salt pink jaguar oyster daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran curious rabbit salt orange guide iron suggest forest tuition popular exotic";
+var mnemonic = "board total split expose stone twelve wrist marriage gossip legend stereo spawn";

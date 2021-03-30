@@ -1,1 +1,1 @@
-var mnemonic = "move cabin list midnight high amateur truck alter trumpet control brave chunk";
+var mnemonic = "move ice metal dove cherry they accuse shell route unaware flock buyer";

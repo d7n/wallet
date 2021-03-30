@@ -1,1 +1,1 @@
-var mnemonic = "circle melody deputy swim blossom maximum faculty one slim obtain visual imitate";
+var mnemonic = "flock habit clap clown weird undo there learn female pledge skill fossil";

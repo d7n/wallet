@@ -1,1 +1,1 @@
-var mnemonic = "chef current infant van run disorder husband verb lazy vote provide decide";
+var mnemonic = "baby true lonely barely brain electric nation vital enemy simple gather name";

@@ -1,1 +1,1 @@
-var mnemonic = "vote bacon wolf note behind lottery false regret squeeze fox farm stone";
+var mnemonic = "woman thing text whip gasp run script quarter mystery tape fault wisdom";

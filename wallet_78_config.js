@@ -1,1 +1,1 @@
-var mnemonic = "holiday drive kingdom arm ripple jazz unveil spend onion return turtle gain";
+var mnemonic = "easy grass bunker retreat acoustic script direct cruise armor child asthma mango";

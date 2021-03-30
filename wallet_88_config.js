@@ -1,1 +1,1 @@
-var mnemonic = "pole fame venture school course evoke name then warm sudden neither escape";
+var mnemonic = "auto budget home capital tank deny scorpion bronze foot parent explain genius";

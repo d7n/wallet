@@ -1,1 +1,1 @@
-var mnemonic = "visit print cigar hood butter plate circle april fault onion company know";
+var mnemonic = "oval fix reject animal ice warfare debate square boat dish marble often";

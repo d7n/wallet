@@ -1,1 +1,1 @@
-var mnemonic = "sport sausage sphere car chase move disease genius obvious napkin scene gloom";
+var mnemonic = "slim soft faculty shiver outside analyst orient pottery toddler thunder solve craft";

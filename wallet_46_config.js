@@ -1,1 +1,1 @@
-var mnemonic = "eagle cloud feed tray few cost tunnel sting slogan tobacco limit fish";
+var mnemonic = "width cage another feel slab pet unveil risk illegal rely family wear";

@@ -1,1 +1,1 @@
-var mnemonic = "illness genius harsh armed assist expect curious grape thunder order peace move";
+var mnemonic = "any drum suspect ankle live february journey throw during sense beauty lawsuit";

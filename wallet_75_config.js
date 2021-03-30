@@ -1,1 +1,1 @@
-var mnemonic = "under churn rebel left sudden snap polar ten identify enact walnut ancient";
+var mnemonic = "biology stage animal plate vintage exact shine range caught tuna spend spend";

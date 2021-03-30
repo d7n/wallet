@@ -1,1 +1,1 @@
-var mnemonic = "medal story auto carry fetch define task burger ripple march cave wonder";
+var mnemonic = "found surge junk inmate august install thunder panda bird behave skate need";

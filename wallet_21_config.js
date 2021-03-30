@@ -1,1 +1,1 @@
-var mnemonic = "neck sweet twin anchor marine blush hire cart infant kind confirm grief";
+var mnemonic = "motion hundred apple hint person fire manage quarter sell absurd glove put";

@@ -1,1 +1,1 @@
-var mnemonic = "sugar air parrot stamp dinosaur useful off dutch miracle elite margin firm";
+var mnemonic = "few ski bitter public feed hockey action burst motion silver aim jealous";

@@ -1,1 +1,1 @@
-var mnemonic = "syrup mom south critic odor mammal approve spoon process pause capable strong";
+var mnemonic = "stereo shoot hawk limit segment mother rural carbon energy wrist nest awake";

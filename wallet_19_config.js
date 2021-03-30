@@ -1,1 +1,1 @@
-var mnemonic = "palm uncover mix veteran midnight toe parent relax sunny field urban moon";
+var mnemonic = "obey metal thrive rubber orbit panther warfare muffin fork soul index eternal";

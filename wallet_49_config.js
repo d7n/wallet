@@ -1,1 +1,1 @@
-var mnemonic = "cross video nut clip find mouse vanish innocent april orchard undo ginger";
+var mnemonic = "mixture oval member funny simple tobacco drift attitude inspire swim rather pyramid";

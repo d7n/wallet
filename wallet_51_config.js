@@ -1,1 +1,1 @@
-var mnemonic = "large snake alpha virus assault pumpkin critic inform deputy portion build cheap";
+var mnemonic = "hill friend donate road clock garbage proof afraid girl satoshi finger position";

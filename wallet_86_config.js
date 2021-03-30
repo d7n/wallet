@@ -1,1 +1,1 @@
-var mnemonic = "prison zoo hunt act feature hunt key paper tail twin police scrap";
+var mnemonic = "omit elite discover crowd source govern oblige brick fix century scatter stand";

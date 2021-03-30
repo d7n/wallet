@@ -1,1 +1,1 @@
-var mnemonic = "bench champion wood forest direct tissue public walk erosion produce metal wool";
+var mnemonic = "actor devote scheme private obvious twelve conduct arrange pass narrow update impulse";

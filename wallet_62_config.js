@@ -1,1 +1,1 @@
-var mnemonic = "scatter detect critic exit project witness salt maximum little edit task middle";
+var mnemonic = "novel silver grab mixture hat accuse ahead pen advance mutual eager only";

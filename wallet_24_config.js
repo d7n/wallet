@@ -1,1 +1,1 @@
-var mnemonic = "oblige wreck faculty assume mistake trigger glide shop menu confirm circle uphold";
+var mnemonic = "donate pelican report today shoot collect resist answer kick merge economy odor";

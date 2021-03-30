@@ -1,1 +1,1 @@
-var mnemonic = "arrive giant used betray erupt fetch reform trade cup opinion book private";
+var mnemonic = "lottery immune maple sheriff valley gloom feed kitten hurt arrive boat rebel";

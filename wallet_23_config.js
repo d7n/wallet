@@ -1,1 +1,1 @@
-var mnemonic = "develop rigid kit flip minimum vital vendor develop mother exclude indoor happy";
+var mnemonic = "thunder coast swing ghost twelve torch piano portion uphold essence birth atom";

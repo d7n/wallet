@@ -1,1 +1,1 @@
-var mnemonic = "pudding slab search jungle couch display tonight online verify cart theory proud";
+var mnemonic = "increase soon any fuel almost begin hungry permit display narrow welcome enlist";

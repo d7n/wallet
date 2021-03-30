@@ -1,1 +1,1 @@
-var mnemonic = "caution market link between current sure casual toe asset amazing talk garment";
+var mnemonic = "silk amused book able mammal boil parrot bonus gorilla leader final maple";

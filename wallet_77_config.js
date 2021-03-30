@@ -1,1 +1,1 @@
-var mnemonic = "vehicle later quick snake pen shadow jump girl pear again orient grunt";
+var mnemonic = "athlete inhale dune genre holiday unveil agree magic pact loud leaf virtual";

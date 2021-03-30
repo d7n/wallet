@@ -1,1 +1,1 @@
-var mnemonic = "strike fork little claim add wash witness whisper mother gym lake giant";
+var mnemonic = "zero shift swamp broccoli possible fine control peanut truth lazy pony useful";

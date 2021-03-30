@@ -1,1 +1,1 @@
-var mnemonic = "clerk room drift mad oak faith current unlock boring number festival tunnel";
+var mnemonic = "regret jaguar rifle carry used mansion fork consider dust episode urban figure";

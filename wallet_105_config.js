@@ -1,1 +1,1 @@
-var mnemonic = "legal infant design pool error dumb claim body staff hood marriage forward";
+var mnemonic = "insane end opera point pond snow mixed web burden income lend job";

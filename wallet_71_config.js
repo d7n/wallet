@@ -1,1 +1,1 @@
-var mnemonic = "speak swarm output plunge burst essay duty delay ordinary jaguar income demise";
+var mnemonic = "magic peasant rail kite soap angle nose wet predict camp column attend";

@@ -1,1 +1,1 @@
-var mnemonic = "allow express used rural eager finger sustain spring grocery group chronic include";
+var mnemonic = "expect style nominee spirit assume canvas motion matrix acoustic nest major giggle";

@@ -1,1 +1,1 @@
-var mnemonic = "detail language victory pact ceiling lake venture rifle orbit ritual success come";
+var mnemonic = "later intact identify delay slow pass diet sail hill address rigid year";

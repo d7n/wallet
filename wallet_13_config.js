@@ -1,1 +1,1 @@
-var mnemonic = "sell scout kit swallow quiz wild pull hard cruise emerge eight catalog";
+var mnemonic = "giraffe siren icon owner aerobic never bag wreck across alcohol glad hand";

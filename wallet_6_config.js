@@ -1,1 +1,1 @@
-var mnemonic = "accident nominee cherry trade inch oak stable obscure fun success belt during";
+var mnemonic = "era blame donor clown wire jaguar nose vote month lecture bread find";

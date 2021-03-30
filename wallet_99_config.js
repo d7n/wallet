@@ -1,1 +1,1 @@
-var mnemonic = "exhibit airport help youth flee silent horn eye flash castle meadow badge";
+var mnemonic = "output fat settle mass gather people over trumpet please number other service";

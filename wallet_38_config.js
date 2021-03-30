@@ -1,1 +1,1 @@
-var mnemonic = "buffalo trap consider drip portion reform know filter rather kangaroo among keen";
+var mnemonic = "lava glue skin derive account enact lawn lamp never blood forum tag";

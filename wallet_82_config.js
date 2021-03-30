@@ -1,1 +1,1 @@
-var mnemonic = "elevator pond gossip raise spoil night rude athlete multiply regular canal craft";
+var mnemonic = "spot forward bitter domain south once bamboo today prevent bus gospel approve";

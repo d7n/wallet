@@ -1,1 +1,1 @@
-var mnemonic = "answer creek symbol more mobile gold toilet duty exchange network muscle utility";
+var mnemonic = "need cause wrist embark science taste club drill supreme slender thumb skull";

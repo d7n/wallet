@@ -1,1 +1,1 @@
-var mnemonic = "repeat cannon metal envelope mountain envelope tornado refuse initial main cousin credit";
+var mnemonic = "sail resist hen tumble seat steel water thumb track train trip flat";

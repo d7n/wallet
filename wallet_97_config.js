@@ -1,1 +1,1 @@
-var mnemonic = "adjust payment phone property hollow prosper group client brisk boat grow token";
+var mnemonic = "world yellow ginger access circle chapter where lift execute fence habit van";

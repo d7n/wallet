@@ -1,1 +1,1 @@
-var mnemonic = "village nature next regret pledge lawn gravity energy sea season captain resemble";
+var mnemonic = "fiscal again between defy blue remain security hammer kiwi public february stove";

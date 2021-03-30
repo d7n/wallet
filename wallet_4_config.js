@@ -1,1 +1,1 @@
-var mnemonic = "sunny nominee small exhaust find fuel foster desk chat vivid maximum want";
+var mnemonic = "donor lend primary share gauge chunk nest burden grunt blast job false";

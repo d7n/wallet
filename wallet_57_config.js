@@ -1,1 +1,1 @@
-var mnemonic = "garlic sunset congress talk concert mention black bitter rapid welcome unfold action";
+var mnemonic = "security into champion liberty castle unfold tomorrow try video observe lady outer";

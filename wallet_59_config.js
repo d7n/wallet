@@ -1,1 +1,1 @@
-var mnemonic = "link enlist burst dog noodle romance champion ill arrange satoshi heavy list";
+var mnemonic = "tomato lyrics safe dune joke card garden surface reopen recipe outside permit";

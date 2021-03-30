@@ -1,1 +1,1 @@
-var mnemonic = "catalog hover wife water march nut surround equal sibling oven mushroom visa";
+var mnemonic = "miracle target title apple catch lottery stuff lend shoulder steel ugly upset";

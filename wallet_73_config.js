@@ -1,1 +1,1 @@
-var mnemonic = "parent tent corn galaxy uncover diet amazing put body east miss hockey";
+var mnemonic = "mango comic solve stone require post chalk pact electric layer daring hole";

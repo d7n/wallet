@@ -1,1 +1,1 @@
-var mnemonic = "quit cactus rack wool dumb patient thunder sheriff faint appear keen layer";
+var mnemonic = "uncover cup scorpion mammal sheriff face siege picnic trend sugar avocado people";

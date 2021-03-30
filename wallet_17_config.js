@@ -1,1 +1,1 @@
-var mnemonic = "enhance urban float solution abuse again another elbow tool survey hair cash";
+var mnemonic = "innocent honey pact tragic pizza during bamboo river glory force hen blouse";

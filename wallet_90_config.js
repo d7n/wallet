@@ -1,1 +1,1 @@
-var mnemonic = "round lift palace hungry toss web lady genius before good fly gloom";
+var mnemonic = "exhibit kingdom ticket great peanut fiber harbor lizard lamp charge coconut link";

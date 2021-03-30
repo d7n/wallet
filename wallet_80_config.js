@@ -1,1 +1,1 @@
-var mnemonic = "flavor bar sock science front head blast weekend blossom hawk spirit custom";
+var mnemonic = "obtain develop finger bar success desk inherit knock coconut tree mule worth";

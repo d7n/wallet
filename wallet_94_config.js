@@ -1,1 +1,1 @@
-var mnemonic = "deputy amazing speed organ square exhaust wink fitness asthma explain fence naive";
+var mnemonic = "aim total rifle doctor tower topic milk vapor load boost enhance satisfy";

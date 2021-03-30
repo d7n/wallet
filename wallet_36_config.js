@@ -1,1 +1,1 @@
-var mnemonic = "addict meadow chapter shock twice people outer input drive metal only crop";
+var mnemonic = "reason version actual medal ribbon uphold boy lawsuit dog exchange zoo biology";

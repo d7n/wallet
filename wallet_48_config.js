@@ -1,1 +1,1 @@
-var mnemonic = "sausage umbrella pet square hockey air rather field square claw awesome spend";
+var mnemonic = "salad gallery tag ripple host royal enough tragic vivid morning loud spray";

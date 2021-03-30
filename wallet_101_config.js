@@ -1,1 +1,1 @@
-var mnemonic = "luxury grit issue acquire creek novel describe cheese sing margin fence album";
+var mnemonic = "fade code notable father guard lunar damp come awful surprise pioneer wool";

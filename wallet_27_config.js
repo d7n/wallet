@@ -1,1 +1,1 @@
-var mnemonic = "empower moon toast oblige replace burger crawl cart practice dirt rhythm midnight";
+var mnemonic = "typical dolphin sock music warrior beach hunt twice question people arena kite";

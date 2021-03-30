@@ -1,1 +1,1 @@
-var mnemonic = "mad undo fantasy setup gold raccoon there wide will firm dice helmet";
+var mnemonic = "display else puppy gain prepare can lamp shoot cat certain lend heart";

@@ -1,1 +1,1 @@
-var mnemonic = "engine tower purse vacant depth coin bless sword mechanic pudding crawl hamster";
+var mnemonic = "assist magic option auto stem business host snow detect style stick midnight";

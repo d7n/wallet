@@ -1,1 +1,1 @@
-var mnemonic = "grit swing help enact increase ready calm wall derive habit unfold author";
+var mnemonic = "wire vintage vibrant shield legal say vacant grape child love solve alarm";

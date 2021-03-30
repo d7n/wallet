@@ -1,1 +1,1 @@
-var mnemonic = "pipe theory defense opera acid oval soda figure leisure tackle lemon find";
+var mnemonic = "prosper nasty opera town horn forward debate witness success volcano kid wood";
