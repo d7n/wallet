@@ -1,1 +1,1 @@
-var mnemonic = "process peasant upgrade nest vintage inhale brain critic poet kitchen chapter broom";
+var mnemonic = "fabric tuition oblige hill jazz two help invite autumn blade fiber cabbage";

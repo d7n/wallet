@@ -1,1 +1,1 @@
-var mnemonic = "snack year muscle foil siege situate engine shoe accident harbor planet daughter";
+var mnemonic = "animal auction member toy theory leader liquid tired want click tragic scout";

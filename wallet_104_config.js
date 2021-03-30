@@ -1,1 +1,1 @@
-var mnemonic = "three obey seminar negative help cat luggage local amazing reform pluck walnut";
+var mnemonic = "filter coast equal wheat practice access loop indoor drift caught student immune";

@@ -1,1 +1,1 @@
-var mnemonic = "announce correct spice detail coyote response panda guide north spy autumn kangaroo";
+var mnemonic = "neck aspect planet collect bomb cabin toast derive minimum race envelope cabin";

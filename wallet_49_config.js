@@ -1,1 +1,1 @@
-var mnemonic = "nothing leaf sea announce blush twist pelican tool sing electric trash label";
+var mnemonic = "craft fresh volcano permit spy answer timber wage wood knee heavy ocean";

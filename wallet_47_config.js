@@ -1,1 +1,1 @@
-var mnemonic = "door market come famous file grab exclude glad rookie arrive milk prefer";
+var mnemonic = "elephant team someone candy waste recycle age glow fatal tower afraid armor";

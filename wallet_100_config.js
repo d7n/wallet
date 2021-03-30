@@ -1,1 +1,1 @@
-var mnemonic = "strike vital drill ripple nominee used twice vapor miracle dirt slogan dice";
+var mnemonic = "actual cross member face input window muscle notable squeeze small outdoor dilemma";

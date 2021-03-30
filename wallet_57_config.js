@@ -1,1 +1,1 @@
-var mnemonic = "crime vault together behind often fan riot bridge erosion forward edit error";
+var mnemonic = "rescue room dirt true neither assault sea brass drama stumble inquiry inject";

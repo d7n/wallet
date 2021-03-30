@@ -1,1 +1,1 @@
-var mnemonic = "build rely exhibit angry exile during deliver plug much monkey notable midnight";
+var mnemonic = "fog correct tree suspect protect announce glimpse trumpet curious list opinion bachelor";

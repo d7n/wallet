@@ -1,1 +1,1 @@
-var mnemonic = "veteran alcohol angle educate kiwi sweet water unable excess cradle bullet woman";
+var mnemonic = "room forum shy change mutual belt upper lunar brick inmate narrow moment";

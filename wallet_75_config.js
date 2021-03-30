@@ -1,1 +1,1 @@
-var mnemonic = "best master citizen other prize primary season want blade answer pool power";
+var mnemonic = "hidden whisper grass coin always female history flush where laugh scene winner";

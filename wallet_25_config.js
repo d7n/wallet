@@ -1,1 +1,1 @@
-var mnemonic = "hill proud sauce uniform anxiety journey unique buffalo foam reason praise crouch";
+var mnemonic = "giraffe swap average same leave nature asset circle hold speak device liquid";

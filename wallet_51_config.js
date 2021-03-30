@@ -1,1 +1,1 @@
-var mnemonic = "nose fresh mixed float side banner pitch nature boost bag twenty produce";
+var mnemonic = "shaft gospel typical opinion antique lunar grape host siege pull mail dismiss";

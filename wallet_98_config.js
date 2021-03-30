@@ -1,1 +1,1 @@
-var mnemonic = "infant govern surface stairs spread frequent mom popular guitar fatigue run vessel";
+var mnemonic = "audit edit river catalog snack repair enhance tide require measure flee there";

@@ -1,1 +1,1 @@
-var mnemonic = "tide coin join churn glow remain flower jar trim ankle kind depend";
+var mnemonic = "ugly cry science legal robot fluid dance toddler powder village afraid lobster";

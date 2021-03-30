@@ -1,1 +1,1 @@
-var mnemonic = "forest scout minimum aim bean crunch mirror they exotic agent lab cube";
+var mnemonic = "army artwork people riot process normal finish extra identify pluck expect pig";

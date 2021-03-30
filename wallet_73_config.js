@@ -1,1 +1,1 @@
-var mnemonic = "essay like vault unit goddess element cereal coast spice curious tent love";
+var mnemonic = "body inspire setup hard avoid chase target useful raccoon faith upgrade truth";

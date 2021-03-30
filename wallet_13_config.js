@@ -1,1 +1,1 @@
-var mnemonic = "scout heart consider define negative whale now supply shove gauge visa delay";
+var mnemonic = "rare suit year retreat local cloud tumble liberty rice able fire spice";

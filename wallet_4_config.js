@@ -1,1 +1,1 @@
-var mnemonic = "milk echo under isolate spike dial ladder original impulse maid rate debris";
+var mnemonic = "common art raw punch sick fresh simple pear orchard spot moon lava";

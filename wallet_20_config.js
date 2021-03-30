@@ -1,1 +1,1 @@
-var mnemonic = "symbol slim mom increase antenna yellow hole ranch pipe guide knee eager";
+var mnemonic = "cook foster special hip spare remember during mosquito audit abstract voyage limb";

@@ -1,1 +1,1 @@
-var mnemonic = "walk bar cabin visual much fitness panther hurt say feature planet direct";
+var mnemonic = "mad wrap alone wet ranch squirrel say loyal pilot hunt start width";

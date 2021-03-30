@@ -1,1 +1,1 @@
-var mnemonic = "asthma anxiety wasp slow tackle very wagon produce destroy sword imitate length";
+var mnemonic = "park ordinary act hospital wrist dice lemon canoe monitor enlist matrix knock";

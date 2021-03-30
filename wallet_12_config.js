@@ -1,1 +1,1 @@
-var mnemonic = "jelly proud increase usual lizard logic wheel shed flavor laundry student abstract";
+var mnemonic = "aspect group canal purchase kitten angle shallow gaze call eternal wreck arena";

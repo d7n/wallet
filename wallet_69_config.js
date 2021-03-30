@@ -1,1 +1,1 @@
-var mnemonic = "wish law sure key dizzy slice clap someone tortoise pulse warm mammal";
+var mnemonic = "leader defy neglect network crime gather floor wet castle hybrid hover obscure";

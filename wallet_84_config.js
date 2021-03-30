@@ -1,1 +1,1 @@
-var mnemonic = "canoe lava west mammal marine east special want empower chase regret cabin";
+var mnemonic = "bone wide rule mule next shuffle mistake slow month cliff civil label";

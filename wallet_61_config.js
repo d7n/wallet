@@ -1,1 +1,1 @@
-var mnemonic = "wagon climb pen sheriff install win fog start seminar gospel column until";
+var mnemonic = "leopard crouch first secret layer lady weapon spy crop nuclear crisp trip";

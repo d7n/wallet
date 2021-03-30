@@ -1,1 +1,1 @@
-var mnemonic = "jewel destroy wreck garage fade tail balcony fault bonus admit congress destroy";
+var mnemonic = "maid sadness trumpet airport hundred ready scrap unfold casino garlic romance initial";

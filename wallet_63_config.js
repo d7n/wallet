@@ -1,1 +1,1 @@
-var mnemonic = "snap fine cigar animal kite width shaft mean embrace bean occur price";
+var mnemonic = "skate never luxury ribbon gym mirror broccoli situate dance discover skull exhaust";

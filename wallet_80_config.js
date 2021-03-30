@@ -1,1 +1,1 @@
-var mnemonic = "planet drill logic elegant prison girl usage model brisk clerk hundred glide";
+var mnemonic = "gravity ugly dove pact curtain novel rib power salute eight enact carbon";

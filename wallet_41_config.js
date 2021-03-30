@@ -1,1 +1,1 @@
-var mnemonic = "thank banner mechanic rather extend panther secret mail steel cup fruit comic";
+var mnemonic = "spirit tourist ritual leisure exclude negative fatal segment live major nature elevator";

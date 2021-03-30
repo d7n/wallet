@@ -1,1 +1,1 @@
-var mnemonic = "clay village harsh lamp delay pudding develop limit glide permit dream notice";
+var mnemonic = "catch sister census model bacon trick omit bike mushroom rude juice garment";

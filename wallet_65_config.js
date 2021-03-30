@@ -1,1 +1,1 @@
-var mnemonic = "correct track eyebrow still nephew primary guess old trash visa such cycle";
+var mnemonic = "pull inhale close pair rough notice thank lecture heart machine energy salad";

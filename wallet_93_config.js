@@ -1,1 +1,1 @@
-var mnemonic = "sure kiwi legal surround amateur metal celery bench mule lift circle romance";
+var mnemonic = "tired foam guard horse security april congress adjust able kitchen middle rotate";

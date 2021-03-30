@@ -1,1 +1,1 @@
-var mnemonic = "install drift oxygen smart fancy pond fatal dismiss memory vote cherry arrange";
+var mnemonic = "push attend away misery calm mail dish come transfer empty dog regret";

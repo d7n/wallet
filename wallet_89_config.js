@@ -1,1 +1,1 @@
-var mnemonic = "else afraid soft flat grid fuel away venue deputy upon account barrel";
+var mnemonic = "valve phrase flower carbon ecology kit fog law thank diet enroll kiwi";

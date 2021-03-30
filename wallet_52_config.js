@@ -1,1 +1,1 @@
-var mnemonic = "roof robust like uniform okay advance inner tell judge bacon tobacco ramp";
+var mnemonic = "vibrant garlic tide load lucky high witness unhappy ahead execute fiber nephew";

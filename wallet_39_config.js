@@ -1,1 +1,1 @@
-var mnemonic = "cruise bundle amused noise walk health leisure couple august bleak prosper size";
+var mnemonic = "print ivory brisk faith believe safe such project knife provide physical lab";

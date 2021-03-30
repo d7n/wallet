@@ -1,1 +1,1 @@
-var mnemonic = "old bar glance horse hope drop humor effort fabric lecture ugly scare";
+var mnemonic = "west decline mouse two crunch laugh festival little brave green black sentence";

@@ -1,1 +1,1 @@
-var mnemonic = "label steak nerve need lawn season now snack lonely dinner still pepper";
+var mnemonic = "find virtual fit maple practice utility abandon life almost salmon rubber vehicle";

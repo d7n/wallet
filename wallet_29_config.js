@@ -1,1 +1,1 @@
-var mnemonic = "float verify dial return tobacco banana way salute car brown ginger nurse";
+var mnemonic = "finger expose more spider leopard cart hover protect coyote rail victory come";

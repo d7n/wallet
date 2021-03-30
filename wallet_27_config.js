@@ -1,1 +1,1 @@
-var mnemonic = "rally suit enlist cactus click winter gaze fortune verify weekend able ecology";
+var mnemonic = "virtual remind excuse awful sibling family ugly tackle swim talent first settle";

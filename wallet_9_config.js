@@ -1,1 +1,1 @@
-var mnemonic = "rug either talent easily method this ketchup blanket cram police frequent tooth";
+var mnemonic = "dose board trigger twenty miracle normal artwork lion craft climb note season";

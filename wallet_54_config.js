@@ -1,1 +1,1 @@
-var mnemonic = "install ill cube among admit cute monkey mosquito trick wife current mass";
+var mnemonic = "furnace manual feel ignore hub warm index net during vault swallow ripple";

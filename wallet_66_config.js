@@ -1,1 +1,1 @@
-var mnemonic = "actual vessel grit pilot joke atom violin humble ocean force home camera";
+var mnemonic = "dad original test grief filter flight bus excuse boring erupt visual until";

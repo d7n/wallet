@@ -1,1 +1,1 @@
-var mnemonic = "permit gorilla else guide unknown often another consider salmon cradle another mechanic";
+var mnemonic = "able nasty easily essay dilemma mixed desert cream muffin lawn local lake";

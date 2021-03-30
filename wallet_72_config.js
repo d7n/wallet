@@ -1,1 +1,1 @@
-var mnemonic = "art minor feed trigger train glue few assault lava tonight snake myth";
+var mnemonic = "crack add local honey mushroom early upgrade jewel lunar when cliff spatial";

@@ -1,1 +1,1 @@
-var mnemonic = "person repeat boil crack large story clump bar eagle tumble imitate silly";
+var mnemonic = "current kit source evidence model pelican wing bracket lunch sketch tourist then";

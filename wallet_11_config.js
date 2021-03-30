@@ -1,1 +1,1 @@
-var mnemonic = "client supply task legend leg artist frost assault yellow age vague rate";
+var mnemonic = "elite salmon pause zebra never alert genre security rich note prison curve";

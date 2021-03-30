@@ -1,1 +1,1 @@
-var mnemonic = "blouse clump swarm giggle tomorrow scout vintage indoor intact steak load embody";
+var mnemonic = "diagram lift theme lesson violin depend maid rich lion night decrease express";

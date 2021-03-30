@@ -1,1 +1,1 @@
-var mnemonic = "usual hub fashion cheap fiscal army marine dynamic welcome rack pencil admit";
+var mnemonic = "prevent climb split silent sample poverty tourist axis mobile tomato now right";

@@ -1,1 +1,1 @@
-var mnemonic = "glue very accuse direct blanket bicycle spin insect crash height horse lesson";
+var mnemonic = "oxygen sister talk hurdle release upset safe toy human vital cake exile";

@@ -1,1 +1,1 @@
-var mnemonic = "word dove raccoon response federal cook hour junk gown renew ripple degree";
+var mnemonic = "valve segment two voyage skull exhaust daughter observe swallow holiday great deny";

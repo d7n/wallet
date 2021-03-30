@@ -1,1 +1,1 @@
-var mnemonic = "scatter whip noise mouse similar pig angle monster citizen tomato kite ethics";
+var mnemonic = "rice absent pill device stomach tired dwarf obscure thought imitate price ice";

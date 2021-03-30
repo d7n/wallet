@@ -1,1 +1,1 @@
-var mnemonic = "under middle weasel fury list chuckle happy dream online destroy arrest mask";
+var mnemonic = "high butter kangaroo home famous gorilla mechanic barrel wagon heavy connect leisure";

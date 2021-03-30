@@ -1,1 +1,1 @@
-var mnemonic = "leisure raw giant brave sign electric east comfort napkin depth analyst blast";
+var mnemonic = "novel trend sleep clump depart garment resist frozen ecology exit differ drop";

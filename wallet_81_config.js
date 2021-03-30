@@ -1,1 +1,1 @@
-var mnemonic = "enrich sample address hollow gossip soft guilt olympic fever diagram return stand";
+var mnemonic = "arena rule road assume exotic voice clown lunch enforce merit parent equal";

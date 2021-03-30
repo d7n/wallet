@@ -1,1 +1,1 @@
-var mnemonic = "own silk song fabric wreck section pledge island dentist cash trend barrel";
+var mnemonic = "mammal pulse blossom ahead job above clean shadow table spirit item media";

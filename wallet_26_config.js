@@ -1,1 +1,1 @@
-var mnemonic = "illegal ecology usual fancy code action jacket female gaze skate dilemma debris";
+var mnemonic = "fiber vendor maple resource delay flavor act still utility nurse discover laugh";

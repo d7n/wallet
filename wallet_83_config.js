@@ -1,1 +1,1 @@
-var mnemonic = "nephew minor submit adjust cactus amazing combine celery claim second job auction";
+var mnemonic = "glass frame metal toss spider brave remind banana culture now alone design";

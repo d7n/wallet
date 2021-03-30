@@ -1,1 +1,1 @@
-var mnemonic = "lamp drink vivid adjust example notice sun outdoor plunge guide airport cheese";
+var mnemonic = "mention borrow leaf hero sphere theme dragon rice pluck ostrich budget match";

@@ -1,1 +1,1 @@
-var mnemonic = "celery jealous cheese together girl mandate public mutual crash rival network agree";
+var mnemonic = "mesh alpha power favorite verify decade throw burger more bench gold stove";

@@ -1,1 +1,1 @@
-var mnemonic = "impulse coach luxury occur bid city tone seed trial festival cactus busy";
+var mnemonic = "comfort apart early idle gap add olympic brush brief member strong range";

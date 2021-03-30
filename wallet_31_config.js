@@ -1,1 +1,1 @@
-var mnemonic = "lion village jaguar toy width trim panther scan waste elbow supply tooth";
+var mnemonic = "hero salt loop alcohol leisure shift teach sand rice exile elevator reward";

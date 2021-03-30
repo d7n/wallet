@@ -1,1 +1,1 @@
-var mnemonic = "never ahead swallow runway forest tuition dawn guide vital ethics month tribe";
+var mnemonic = "surround sphere certain light away burst equal derive drama occur clump car";

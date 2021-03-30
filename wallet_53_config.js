@@ -1,1 +1,1 @@
-var mnemonic = "dust satoshi embark open amount pepper sell echo sponsor rude grab bone";
+var mnemonic = "hunt wrap radar unaware reject useless unable page lion size volcano clap";

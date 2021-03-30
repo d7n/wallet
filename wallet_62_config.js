@@ -1,1 +1,1 @@
-var mnemonic = "master mushroom teach amazing option bomb soccer jar stem junk settle fetch";
+var mnemonic = "strategy example yellow improve excuse report increase unfair lend foam flight enroll";

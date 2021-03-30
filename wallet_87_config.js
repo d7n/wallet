@@ -1,1 +1,1 @@
-var mnemonic = "occur file height replace monitor fix mutual try vintage pattern hazard coffee";
+var mnemonic = "minute crowd prosper empty dwarf front crazy web neither visa cannon fluid";

@@ -1,1 +1,1 @@
-var mnemonic = "drill glare flight noble bomb canal false trust cream daughter common unlock";
+var mnemonic = "minor when robot swim around during perfect artefact you clutch brisk wagon";

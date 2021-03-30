@@ -1,1 +1,1 @@
-var mnemonic = "must same assault twin sample you bulk share chapter dinner tide reduce";
+var mnemonic = "labor ready arrest excite click boring pledge worry snack occur lab predict";

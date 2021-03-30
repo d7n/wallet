@@ -1,1 +1,1 @@
-var mnemonic = "occur primary gravity viable galaxy never monitor topic already tennis prison tiny";
+var mnemonic = "tortoise frame march spawn ready canyon fee city limit orphan multiply cash";

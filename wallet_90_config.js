@@ -1,1 +1,1 @@
-var mnemonic = "wage nest bronze field message fashion virtual wine stick popular local scheme";
+var mnemonic = "glad grunt quantum repeat cat genre foil ticket ivory panel easy track";

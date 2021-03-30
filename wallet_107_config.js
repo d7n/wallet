@@ -1,1 +1,1 @@
-var mnemonic = "prosper shed sail other stumble drill two thank damp glide scorpion boring";
+var mnemonic = "give fitness similar kitten fire minimum win anchor quote wonder come tip";

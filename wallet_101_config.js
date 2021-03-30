@@ -1,1 +1,1 @@
-var mnemonic = "equal fossil unknown grace equip hat salute cupboard peanut river blind seek";
+var mnemonic = "file eternal supreme stick warfare snake nurse crawl tiny knock claw liar";

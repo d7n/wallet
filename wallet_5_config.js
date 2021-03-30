@@ -1,1 +1,1 @@
-var mnemonic = "mass match gentle snow wealth give unlock pet liberty nation silent garment";
+var mnemonic = "valve matrix gift episode left spell fluid subway cushion garden mystery slice";

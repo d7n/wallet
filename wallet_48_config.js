@@ -1,1 +1,1 @@
-var mnemonic = "together cave rule awake shoulder stick uphold very snap outside cash bless";
+var mnemonic = "doll resist right rail churn motion silly horror swift before winter code";

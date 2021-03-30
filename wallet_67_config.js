@@ -1,1 +1,1 @@
-var mnemonic = "vacant mosquito churn click diary since bread glide exchange april exact afford";
+var mnemonic = "gasp praise wage dirt law butter unaware clinic apart unveil salt useless";

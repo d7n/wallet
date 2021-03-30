@@ -1,1 +1,1 @@
-var mnemonic = "unveil pluck spin city woman bunker brief between blast wine gospel boss";
+var mnemonic = "dose antique dream pyramid income sport give blossom slot meat unique cancel";

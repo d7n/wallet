@@ -1,1 +1,1 @@
-var mnemonic = "point always library kangaroo silver normal boat vessel peasant obtain parent zero";
+var mnemonic = "sock exercise fantasy doll domain common limit shove auction sister arch slender";

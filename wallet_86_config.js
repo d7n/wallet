@@ -1,1 +1,1 @@
-var mnemonic = "merge shell meadow firm furnace mechanic oval slim lyrics front sail story";
+var mnemonic = "armor husband amused screen what seat car excite shoe rookie turkey approve";

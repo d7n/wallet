@@ -1,1 +1,1 @@
-var mnemonic = "split wage weekend gauge wash nominee above easy rug decrease rather ski";
+var mnemonic = "warm verify unveil pencil play oval miracle egg mule cave strong similar";

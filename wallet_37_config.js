@@ -1,1 +1,1 @@
-var mnemonic = "clock culture magic ball float kiwi differ alter destroy work payment fringe";
+var mnemonic = "decide hurry portion minute exact slogan waste action oyster aspect palm device";

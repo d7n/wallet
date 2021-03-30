@@ -1,1 +1,1 @@
-var mnemonic = "document grocery goat spare empty exercise wage any repeat drop oval sting";
+var mnemonic = "cabbage song account kid advance execute faint project gym trumpet solution morning";

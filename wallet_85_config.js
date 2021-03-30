@@ -1,1 +1,1 @@
-var mnemonic = "paddle cupboard earn mention oven purity reveal sure ordinary host praise merit";
+var mnemonic = "friend describe moment draft between ahead feel meadow habit portion snack awkward";

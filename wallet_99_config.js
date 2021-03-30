@@ -1,1 +1,1 @@
-var mnemonic = "chat fee above glance naive slush despair address sustain wolf abstract oven";
+var mnemonic = "fortune excuse cool cloth lumber digital practice fitness flight inform grit used";

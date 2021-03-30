@@ -1,1 +1,1 @@
-var mnemonic = "bitter expect quiz place syrup bleak boost rate reveal dose twin aspect";
+var mnemonic = "erosion sing media lumber differ repair ancient genius shallow lemon patient donate";

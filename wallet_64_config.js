@@ -1,1 +1,1 @@
-var mnemonic = "february material liar disagree alter crash culture ankle citizen parent barrel actor";
+var mnemonic = "yard dad east rain toilet cram treat spare wrap scissors loan become";

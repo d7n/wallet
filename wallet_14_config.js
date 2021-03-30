@@ -1,1 +1,1 @@
-var mnemonic = "carbon aim predict frozen shy obvious top moral rescue field immense act";
+var mnemonic = "recycle prefer spider grass crazy gate quality era walk year broccoli poverty";

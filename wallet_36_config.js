@@ -1,1 +1,1 @@
-var mnemonic = "anchor mother warfare mountain ostrich display satisfy bitter source police switch hidden";
+var mnemonic = "split bubble vacant equip phone dwarf language sea wagon orphan amount hen";

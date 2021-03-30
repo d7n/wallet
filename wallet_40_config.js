@@ -1,1 +1,1 @@
-var mnemonic = "siren pond similar erode live hollow foam second chest trial cage foil";
+var mnemonic = "blade rain cycle chaos meat couple sign yellow mushroom moral series slender";

@@ -1,1 +1,1 @@
-var mnemonic = "angry demise board liquid core normal elder ketchup script keep bonus grape";
+var mnemonic = "use else flight ridge word sun balcony this horror cannon include topic";

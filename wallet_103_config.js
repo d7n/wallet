@@ -1,1 +1,1 @@
-var mnemonic = "credit wire arena hurt assault venture message corn swarm few curtain favorite";
+var mnemonic = "mercy supreme purity milk horse glide hidden news wealth slice area inquiry";
