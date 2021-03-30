@@ -1,1 +1,1 @@
-var mnemonic = "dragon dwarf cannon range beyond lawsuit basket orient toward swear drum whale";
+var mnemonic = "august area worth honey float grain ugly element infant else join route";

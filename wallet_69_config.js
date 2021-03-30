@@ -1,1 +1,1 @@
-var mnemonic = "average stadium shy speed insane tourist boss omit wink caution expect embody";
+var mnemonic = "start around arrow usual luxury prevent valid emotion vicious rug affair uncover";

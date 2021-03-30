@@ -1,1 +1,1 @@
-var mnemonic = "crouch involve police brush dress expire garbage submit city gown police gun";
+var mnemonic = "pulse expire harsh speed wrong wrist sponsor gospel size athlete flush asthma";

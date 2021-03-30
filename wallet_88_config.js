@@ -1,1 +1,1 @@
-var mnemonic = "double craft stadium ceiling hand chest great argue slam virus struggle adult";
+var mnemonic = "review menu crunch parade race toe cattle knee toward fabric evolve comfort";

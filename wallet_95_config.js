@@ -1,1 +1,1 @@
-var mnemonic = "ten joy solve abuse gaze salad bleak derive connect puzzle ecology edit";
+var mnemonic = "soul youth inch once drop crouch cost situate act board pelican avocado";

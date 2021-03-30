@@ -1,1 +1,1 @@
-var mnemonic = "sister cherry bridge where soul unveil filter blind orchard critic inform knife";
+var mnemonic = "vintage brain found canal bubble track elephant topple banner receive color escape";

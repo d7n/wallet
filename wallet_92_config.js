@@ -1,1 +1,1 @@
-var mnemonic = "jeans stuff mother idle summer castle exist east inch verb auction hand";
+var mnemonic = "mechanic crop belt stem wall hazard other fog payment ostrich grace stairs";

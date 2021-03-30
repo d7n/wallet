@@ -1,1 +1,1 @@
-var mnemonic = "legal egg cage tent isolate cheese sweet cactus face combine ability skull";
+var mnemonic = "mistake swap hold innocent satoshi sting betray fat upset feel interest initial";

@@ -1,1 +1,1 @@
-var mnemonic = "tape swift devote pool parent extra twin search recycle agree grab sort";
+var mnemonic = "since long great test limb ridge kidney journey silent slow runway doll";

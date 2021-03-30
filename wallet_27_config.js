@@ -1,1 +1,1 @@
-var mnemonic = "repeat ignore shallow parrot mansion orange twice escape bracket useful cream major";
+var mnemonic = "exist logic spend legal top similar pride snow wink notable marble human";

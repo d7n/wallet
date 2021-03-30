@@ -1,1 +1,1 @@
-var mnemonic = "super elite immune pistol craft finger enroll emerge spawn copper power list";
+var mnemonic = "avocado tomato damage immense abstract evil cry deal slush pave oven number";

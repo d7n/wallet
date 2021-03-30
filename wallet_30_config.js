@@ -1,1 +1,1 @@
-var mnemonic = "ordinary spend cinnamon believe world oblige south material maze laugh winter cement";
+var mnemonic = "library possible ring alter cattle leaf mule prison edit omit brave civil";

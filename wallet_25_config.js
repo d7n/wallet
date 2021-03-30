@@ -1,1 +1,1 @@
-var mnemonic = "cactus tiger salt sadness window federal unlock nice then stamp amateur still";
+var mnemonic = "surround minor tackle profit runway parent rebel cereal sell goat minimum foam";

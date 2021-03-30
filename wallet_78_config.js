@@ -1,1 +1,1 @@
-var mnemonic = "truth robot elevator edit absurd gravity fog click truck special welcome remind";
+var mnemonic = "awful wagon february lucky yellow crystal sail coach segment item shy cream";

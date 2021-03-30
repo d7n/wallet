@@ -1,1 +1,1 @@
-var mnemonic = "mad burst boy album leaf citizen cover pink dragon refuse anger smooth";
+var mnemonic = "float negative galaxy island wheel assault ramp spoon real salmon push text";

@@ -1,1 +1,1 @@
-var mnemonic = "wise left first volume collect before rubber text radio tongue recipe monkey";
+var mnemonic = "use secret ocean attract casino scheme genuine involve side thumb scheme bind";

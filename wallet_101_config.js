@@ -1,1 +1,1 @@
-var mnemonic = "foil will resource veteran taxi fee oxygen struggle front enrich edge jeans";
+var mnemonic = "include chest offer sock easy age tent ancient carbon squeeze sand jar";

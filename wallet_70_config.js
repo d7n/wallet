@@ -1,1 +1,1 @@
-var mnemonic = "limb chapter property salute olympic kitten wine number joke laugh unit aunt";
+var mnemonic = "cushion only across cube design fatigue profit picnic vehicle since peanut cheap";

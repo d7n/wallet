@@ -1,1 +1,1 @@
-var mnemonic = "update grocery stable green main swap music lamp fitness stick book coconut";
+var mnemonic = "spin museum spider live claw december naive property brown combine alone bridge";

@@ -1,1 +1,1 @@
-var mnemonic = "merge sister crime argue ghost more tattoo chronic dentist radio tent allow";
+var mnemonic = "wish shine season shed sausage rabbit section sample old legend veteran general";

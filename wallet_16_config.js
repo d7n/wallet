@@ -1,1 +1,1 @@
-var mnemonic = "describe fun shoot congress grow sketch tomorrow endorse diary maid belt coyote";
+var mnemonic = "pottery between mouse hire mesh attitude fix venture air luxury utility almost";

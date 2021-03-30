@@ -1,1 +1,1 @@
-var mnemonic = "antique section bamboo desert veteran craft define volcano target miracle corn mesh";
+var mnemonic = "west uniform blind urban yellow fence knock kid salad next brand hood";

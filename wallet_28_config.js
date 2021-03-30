@@ -1,1 +1,1 @@
-var mnemonic = "genre laptop mimic interest scissors distance enemy dune attitude language print zone";
+var mnemonic = "picture divide edge video drift south open comfort security core system wish";

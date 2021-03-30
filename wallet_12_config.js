@@ -1,1 +1,1 @@
-var mnemonic = "print trim junior hamster area critic squirrel cabbage hire orbit blush color";
+var mnemonic = "noble area hand cloud cry upper foil village text era buzz bargain";

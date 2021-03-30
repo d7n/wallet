@@ -1,1 +1,1 @@
-var mnemonic = "know junk brave define sign frame warm exhibit tuna olympic dirt rescue";
+var mnemonic = "wrap citizen charge clap black ten bubble theory close eagle mobile traffic";

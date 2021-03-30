@@ -1,1 +1,1 @@
-var mnemonic = "mystery garbage guitar divert slogan disease shiver knee warrior animal patient wall";
+var mnemonic = "purse board delay wrestle govern tomato green split dizzy tail melt quote";

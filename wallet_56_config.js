@@ -1,1 +1,1 @@
-var mnemonic = "pelican clutch immune huge matrix flavor crime birth clump couch aisle shop";
+var mnemonic = "lift goddess account cheese episode cliff vendor gain inflict box excess auto";

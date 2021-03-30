@@ -1,1 +1,1 @@
-var mnemonic = "egg spell mixed decade oyster never theme raise seminar occur jealous lock";
+var mnemonic = "wonder account piano play type ball loud sock force add deny spare";

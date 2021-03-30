@@ -1,1 +1,1 @@
-var mnemonic = "thrive odor nut few eye much valve acquire bind protect clump parade";
+var mnemonic = "inform seat indoor charge inspire must fossil casual loan uncover forget cook";

@@ -1,1 +1,1 @@
-var mnemonic = "unit worry student ball number unit mimic palace hotel theory turn reform";
+var mnemonic = "health display lobster cancel suffer tape lizard tenant piano razor apple someone";

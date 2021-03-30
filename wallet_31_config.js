@@ -1,1 +1,1 @@
-var mnemonic = "swing barely quarter chunk hybrid clever universe hard render huge debris essence";
+var mnemonic = "unique patch come crouch stomach song swift pumpkin spy cover finish beach";

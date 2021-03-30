@@ -1,1 +1,1 @@
-var mnemonic = "ugly resource visa skin key one holiday follow wheel coyote magic wood";
+var mnemonic = "zoo learn glad chaos able snake dismiss brick comfort loop leopard imitate";

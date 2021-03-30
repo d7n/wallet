@@ -1,1 +1,1 @@
-var mnemonic = "comic craft grass crush predict journey crowd post spell middle chat bless";
+var mnemonic = "keep island fetch lunch couple reunion autumn candy wet priority convince notice";

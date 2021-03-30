@@ -1,1 +1,1 @@
-var mnemonic = "struggle extend icon frost orphan stand brass feed rebuild creek shield polar";
+var mnemonic = "monkey pause change cradle lounge ostrich easily glare anger sail broom valid";

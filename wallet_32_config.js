@@ -1,1 +1,1 @@
-var mnemonic = "before foster acquire canvas call inner duty resemble neither peanut coffee move";
+var mnemonic = "change salon heart joke yard friend cheese vague coach script phone tube";

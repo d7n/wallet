@@ -1,1 +1,1 @@
-var mnemonic = "wasp battle hawk board river express kidney cook where office hurry charge";
+var mnemonic = "dose smile foil enjoy salad resource logic rough glad goddess guitar explain";

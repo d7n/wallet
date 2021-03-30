@@ -1,1 +1,1 @@
-var mnemonic = "catalog ask still there game tongue soft mail argue hospital thunder accident";
+var mnemonic = "pave nest core flame stick enter animal neglect olympic current drive garden";

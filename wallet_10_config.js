@@ -1,1 +1,1 @@
-var mnemonic = "beyond floor tornado found simple toe ecology win debris code pyramid capable";
+var mnemonic = "tree vital rapid odor outdoor casual risk myth page digital manual project";

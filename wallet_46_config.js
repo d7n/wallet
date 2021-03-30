@@ -1,1 +1,1 @@
-var mnemonic = "trust opinion dolphin bus holiday elegant effort slight deposit try panel double";
+var mnemonic = "stand shy hungry person tonight agree aim pact future two explain island";

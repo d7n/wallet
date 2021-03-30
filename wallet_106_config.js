@@ -1,1 +1,1 @@
-var mnemonic = "comfort update cannon pattern trouble lady swap oxygen elegant hire machine assume";
+var mnemonic = "onion service wrist hip nest cattle pelican token void vanish flame galaxy";

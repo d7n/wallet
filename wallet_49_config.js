@@ -1,1 +1,1 @@
-var mnemonic = "tenant mass length man squirrel desert reduce reward bunker barrel light pottery";
+var mnemonic = "please broccoli page discover degree solve damp gas save wild opera shrug";

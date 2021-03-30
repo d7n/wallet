@@ -1,1 +1,1 @@
-var mnemonic = "this access observe plunge mansion leg group casual upon post deal push";
+var mnemonic = "trend flee begin gym mammal cable chuckle about nut portion sight stay";

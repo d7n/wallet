@@ -1,1 +1,1 @@
-var mnemonic = "october mind this brick sting crime scissors fragile security brave twist load";
+var mnemonic = "child connect area blush pause this clock gossip siren forum bus night";

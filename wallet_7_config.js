@@ -1,1 +1,1 @@
-var mnemonic = "liberty runway vapor tiger video deliver provide veteran quit vehicle mirror bench";
+var mnemonic = "relief cousin burst arrow orchard forum bread pioneer fame hire valley attitude";

@@ -1,1 +1,1 @@
-var mnemonic = "trigger valley talk intact match oxygen laundry rice deposit casual gesture major";
+var mnemonic = "grow palace guess dentist choice dry another fault setup ship pet master";

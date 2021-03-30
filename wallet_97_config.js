@@ -1,1 +1,1 @@
-var mnemonic = "scrap scheme draft initial truck buffalo zero delay uniform theory west effort";
+var mnemonic = "accident alien face forum chair destroy start enjoy once broom satisfy genre";

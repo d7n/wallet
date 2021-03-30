@@ -1,1 +1,1 @@
-var mnemonic = "wise vault alley machine return bitter similar biology raccoon wear position cruise";
+var mnemonic = "pottery cattle rain bundle bachelor artist pulse cement mandate skirt rhythm select";

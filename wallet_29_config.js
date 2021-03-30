@@ -1,1 +1,1 @@
-var mnemonic = "entry drip harbor ordinary task service sign program history bike jelly ticket";
+var mnemonic = "describe song gas icon scorpion review nominee youth plunge knife oval ensure";

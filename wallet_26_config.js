@@ -1,1 +1,1 @@
-var mnemonic = "oval path square crystal shove achieve slide charge silent heavy lobster sketch";
+var mnemonic = "tide entry stay outside shift pill eyebrow left labor solve jazz weasel";

@@ -1,1 +1,1 @@
-var mnemonic = "uphold exotic spirit blind unique play again doll better original scissors price";
+var mnemonic = "near faint need remember flight course able book virtual hip hover like";

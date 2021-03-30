@@ -1,1 +1,1 @@
-var mnemonic = "property bird science husband fish orchard tired police resemble scout trophy junk";
+var mnemonic = "erase sound credit almost fan eagle fog saddle remember bundle brick lumber";

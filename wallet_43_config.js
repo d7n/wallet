@@ -1,1 +1,1 @@
-var mnemonic = "shuffle tree hover valve man hero spoon bunker you emotion bid double";
+var mnemonic = "poem spend fiction struggle civil also rapid echo tired hobby embody drift";

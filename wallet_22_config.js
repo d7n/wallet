@@ -1,1 +1,1 @@
-var mnemonic = "angle exile boost install voice normal pitch velvet example nephew inmate dwarf";
+var mnemonic = "person prosper that fringe ostrich machine riot afford snow cake joy rabbit";

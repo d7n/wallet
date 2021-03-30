@@ -1,1 +1,1 @@
-var mnemonic = "clown tobacco fluid east canvas inmate final view alert desert situate crystal";
+var mnemonic = "illegal length false wave exhibit miss glimpse brother drastic connect kingdom minimum";

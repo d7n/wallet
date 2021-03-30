@@ -1,1 +1,1 @@
-var mnemonic = "enroll term genius wire liquid dwarf gravity frog frost oven repeat decorate";
+var mnemonic = "tonight setup uphold marble reform dust odor version father glare viable pudding";

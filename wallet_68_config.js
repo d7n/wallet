@@ -1,1 +1,1 @@
-var mnemonic = "awful enemy genuine country earn exile service dove joy step word dilemma";
+var mnemonic = "punch skate name client oven elite stamp duck toddler runway toddler birth";

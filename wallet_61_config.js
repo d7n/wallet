@@ -1,1 +1,1 @@
-var mnemonic = "skill jaguar direct close write tunnel short save left rotate bullet destroy";
+var mnemonic = "region waste slot yellow inspire human awful clay prosper artefact olive tornado";

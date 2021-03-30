@@ -1,1 +1,1 @@
-var mnemonic = "woman will reason tattoo scare belt buyer tourist home gasp crucial fence";
+var mnemonic = "state miracle exit novel own system acid chunk razor ill credit focus";

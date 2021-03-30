@@ -1,1 +1,1 @@
-var mnemonic = "identify sniff immense walnut tribe order evidence season hamster differ snap problem";
+var mnemonic = "this visit rule orient kiss ill total popular auto margin rookie scan";

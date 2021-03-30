@@ -1,1 +1,1 @@
-var mnemonic = "eye crop gold shoot ozone victory solar replace human desert seek receive";
+var mnemonic = "large air current deny manage expand infant manage brave horn tomato aerobic";

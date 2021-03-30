@@ -1,1 +1,1 @@
-var mnemonic = "public raven cement main tape quarter lift cute credit palm vacant reason";
+var mnemonic = "swift recall twenty enforce poem crowd during amount safe jaguar bracket inspire";

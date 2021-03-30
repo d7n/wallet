@@ -1,1 +1,1 @@
-var mnemonic = "lounge glory ketchup spread bus orient tiny arctic equal loop blue foil";
+var mnemonic = "soldier icon quantum weapon apple amateur pact remind today allow reform explain";

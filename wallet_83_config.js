@@ -1,1 +1,1 @@
-var mnemonic = "obscure vapor orchard sign uncle midnight praise check junior coach salon enlist";
+var mnemonic = "whale fortune manage electric whip surface ginger minimum label lamp pride special";

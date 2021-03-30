@@ -1,1 +1,1 @@
-var mnemonic = "anchor offer cargo inmate mother squeeze august valid stock place first alley";
+var mnemonic = "faculty army tobacco chronic mutual owner rail cinnamon tumble glory way own";

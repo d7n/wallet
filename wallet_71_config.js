@@ -1,1 +1,1 @@
-var mnemonic = "effort olive torch return sketch afford caught diesel conduct common simple palace";
+var mnemonic = "indicate rule vault library swamp wheat wagon chair height jar tone parrot";

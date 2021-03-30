@@ -1,1 +1,1 @@
-var mnemonic = "stairs night razor key clown length actress language direct replace visa detail";
+var mnemonic = "engine number write quote clerk cat harbor brother mask ripple play bargain";

@@ -1,1 +1,1 @@
-var mnemonic = "december rain tomorrow dismiss dumb hover entire drop resemble recipe crime shove";
+var mnemonic = "entry parent eternal banana cradle enjoy flock wide robust will glance blouse";

@@ -1,1 +1,1 @@
-var mnemonic = "twin style shy general offer multiply belt impact quiz ripple icon front";
+var mnemonic = "one attend sorry drastic force boat avoid leg crater vicious always arena";

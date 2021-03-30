@@ -1,1 +1,1 @@
-var mnemonic = "hub clutch consider kite dream trigger wedding viable soon bring demise chapter";
+var mnemonic = "voice saddle sun lemon chef legal pill tree industry inform mom smile";

@@ -1,1 +1,1 @@
-var mnemonic = "deny nominee army loop nephew permit kiss weapon fatal motion grant legend";
+var mnemonic = "dilemma stadium two power garden skirt slogan pattern ugly salt boring omit";

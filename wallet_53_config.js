@@ -1,1 +1,1 @@
-var mnemonic = "remain stuff vote update parrot virus grace plunge invite black popular dawn";
+var mnemonic = "fever chunk beach fortune govern later amazing vacuum slide inhale panic village";

@@ -1,1 +1,1 @@
-var mnemonic = "diet meat strong brief fly pony denial urge scrap enter popular blur";
+var mnemonic = "maze burden window satisfy hybrid pumpkin dentist trim wood struggle mother scan";

@@ -1,1 +1,1 @@
-var mnemonic = "gap letter blind card fruit entry exchange math myself gentle hero empower";
+var mnemonic = "code trumpet pepper muscle canal punch forum security journey prison first warrior";

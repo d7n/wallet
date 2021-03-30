@@ -1,1 +1,1 @@
-var mnemonic = "gauge lens huge post light patrol tribe play film pilot female bless";
+var mnemonic = "forget tail equal proud marriage deal crouch quarter picnic frog mesh stamp";

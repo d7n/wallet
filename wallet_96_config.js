@@ -1,1 +1,1 @@
-var mnemonic = "picture silly bacon valid crisp trend chapter salt orange try chalk man";
+var mnemonic = "glide fluid april design payment doctor between extend city couple pattern insect";

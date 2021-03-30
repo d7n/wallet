@@ -1,1 +1,1 @@
-var mnemonic = "allow survey issue arrive scatter report duty provide foam arm slight arch";
+var mnemonic = "method coral fee census document brain duck garage three awful happy all";

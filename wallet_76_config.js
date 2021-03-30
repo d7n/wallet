@@ -1,1 +1,1 @@
-var mnemonic = "payment assault curtain town region pass define acquire bike youth visit lava";
+var mnemonic = "black great flavor chunk trouble chalk hand enforce possible melody allow glide";

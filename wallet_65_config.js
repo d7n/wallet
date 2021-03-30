@@ -1,1 +1,1 @@
-var mnemonic = "spoil balance man pattern baby giraffe economy spread lock work smart gift";
+var mnemonic = "ancient diagram puppy evolve cloth various size discover gate narrow nature cushion";

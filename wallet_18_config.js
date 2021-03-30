@@ -1,1 +1,1 @@
-var mnemonic = "glimpse length uncle shoulder concert debate apart virtual heart faith naive soda";
+var mnemonic = "news urban buddy drama novel input olive town divorce search frame upset";

@@ -1,1 +1,1 @@
-var mnemonic = "plug valve rude creek wolf safe gift good transfer tip comfort wise";
+var mnemonic = "prepare world version brief replace float man valley behave old toss enact";

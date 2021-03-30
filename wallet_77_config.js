@@ -1,1 +1,1 @@
-var mnemonic = "spend orient evolve hotel possible cricket receive innocent document sail humble task";
+var mnemonic = "spoon humble winner patch wide enlist direct enable album wreck crystal trial";

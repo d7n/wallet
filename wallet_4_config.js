@@ -1,1 +1,1 @@
-var mnemonic = "pass oil display photo abandon soda head topic basic midnight know eager";
+var mnemonic = "nut layer brave ski body timber blush woman avoid orphan walk noodle";

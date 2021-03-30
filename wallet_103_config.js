@@ -1,1 +1,1 @@
-var mnemonic = "float cancel luxury dutch crystal ghost skirt over omit ship action portion";
+var mnemonic = "mind rule glide develop maid smoke disagree basket lemon skirt mirror grass";

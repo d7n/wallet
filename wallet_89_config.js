@@ -1,1 +1,1 @@
-var mnemonic = "riot prevent edit host laundry minimum health riot legend chronic thought multiply";
+var mnemonic = "moment youth field before opinion champion extend network invite tooth sibling mixture";

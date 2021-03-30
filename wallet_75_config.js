@@ -1,1 +1,1 @@
-var mnemonic = "dice wheat giggle ignore document seed edit this search flash sign festival";
+var mnemonic = "asset behind space yellow despair leader almost pulse visit wasp material accident";
