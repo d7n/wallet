@@ -1,1 +1,1 @@
-var mnemonic = "message smooth spell cube drum fly purity way away nerve acid tiger";
+var mnemonic = "wash crisp horse loan stage anchor craft market ritual page amateur betray";

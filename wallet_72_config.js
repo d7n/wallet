@@ -1,1 +1,1 @@
-var mnemonic = "kiwi hunt solar junior process frozen maple trial dinner hammer pen water";
+var mnemonic = "van city gentle toy hobby used lumber state oppose copy uphold bread";

@@ -1,1 +1,1 @@
-var mnemonic = "exhaust window eternal praise era text oblige gain melt switch recall tortoise";
+var mnemonic = "grid radar shadow cancel oven rent tennis avocado farm ketchup green vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "dune mother slide gauge grit mom pole glue robust body favorite lion";
+var mnemonic = "skin month ghost vocal bag rough fitness radio warfare combine talent train";

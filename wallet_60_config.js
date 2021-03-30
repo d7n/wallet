@@ -1,1 +1,1 @@
-var mnemonic = "envelope organ duty gaze life labor day old abuse width oppose square";
+var mnemonic = "menu hammer galaxy crack wear often fortune stage umbrella birth print fee";

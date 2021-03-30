@@ -1,1 +1,1 @@
-var mnemonic = "net move regret hollow corn exchange negative parrot become have borrow medal";
+var mnemonic = "reveal organ gadget similar immune neck apology upon goose reward cactus door";

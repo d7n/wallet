@@ -1,1 +1,1 @@
-var mnemonic = "diary tortoise scheme aisle record parade trick piano rocket couple spray summer";
+var mnemonic = "clay oak marine pretty awkward food banner axis guess club drama salad";

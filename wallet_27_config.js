@@ -1,1 +1,1 @@
-var mnemonic = "muscle fault scrap dust live alley grid fresh catalog skate arch east";
+var mnemonic = "risk matrix general upset venture bridge tomato hotel convince wage chat open";

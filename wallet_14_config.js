@@ -1,1 +1,1 @@
-var mnemonic = "example slab siege sun curve wonder faith decade final divert cute course";
+var mnemonic = "unique attack blur certain crush paddle choice puzzle capital possible crush inform";

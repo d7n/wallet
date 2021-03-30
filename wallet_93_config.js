@@ -1,1 +1,1 @@
-var mnemonic = "decrease pigeon rifle flush notable boat valid pelican aunt inmate vivid size";
+var mnemonic = "desk slim cabbage battle alcohol message vote clutch scatter federal base fiction";

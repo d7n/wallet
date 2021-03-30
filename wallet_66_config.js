@@ -1,1 +1,1 @@
-var mnemonic = "surprise brave forward social tone detect door crater enhance candy loan fantasy";
+var mnemonic = "dignity monkey earn coyote charge rail bridge shift snow unable laptop husband";

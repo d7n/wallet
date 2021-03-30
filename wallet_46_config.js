@@ -1,1 +1,1 @@
-var mnemonic = "nut spare scheme review easily increase myself hurt shine path abandon elite";
+var mnemonic = "guilt cloud start eager cat room prize april salmon blush spend glimpse";

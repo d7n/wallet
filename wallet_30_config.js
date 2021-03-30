@@ -1,1 +1,1 @@
-var mnemonic = "sleep maximum metal pepper write common hold dial note organ fluid ill";
+var mnemonic = "town cruise wish swarm armed avoid open quote vehicle cup famous jealous";

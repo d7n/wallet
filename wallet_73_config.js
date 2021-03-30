@@ -1,1 +1,1 @@
-var mnemonic = "radar yellow cost alarm rather lava empty truth chaos scare retire hazard";
+var mnemonic = "piece file couple elder gaze praise kitchen noodle ribbon aim crouch trial";

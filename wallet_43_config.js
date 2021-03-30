@@ -1,1 +1,1 @@
-var mnemonic = "dismiss very giant height pave stick banner chaos witness ticket goose have";
+var mnemonic = "double fault naive play pitch route ensure body cable wheel robust talk";

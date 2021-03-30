@@ -1,1 +1,1 @@
-var mnemonic = "twenty cluster amazing solid right ordinary mutual coin carry cycle enter matter";
+var mnemonic = "vehicle program light aerobic opinion security stereo bulk piece capital install first";

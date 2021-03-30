@@ -1,1 +1,1 @@
-var mnemonic = "tennis chunk sport pool endorse daughter purity mention deal brisk arrange sketch";
+var mnemonic = "wheel follow century wealth deal sport change civil tower atom echo emerge";

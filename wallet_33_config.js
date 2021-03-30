@@ -1,1 +1,1 @@
-var mnemonic = "embody play limit waste record hello man eyebrow improve road snack order";
+var mnemonic = "oak carpet pumpkin top crisp planet burst blade visit baby infant wagon";

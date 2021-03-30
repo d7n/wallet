@@ -1,1 +1,1 @@
-var mnemonic = "target crawl warfare gather coach whale coral now half party wasp attend";
+var mnemonic = "panic change miracle cup add honey churn trick lobster possible have act";

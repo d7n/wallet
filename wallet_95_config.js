@@ -1,1 +1,1 @@
-var mnemonic = "engage open upset celery erupt reward hurdle concert shed insane skull acid";
+var mnemonic = "lab teach tuition toss exchange spend tribe swift easy sting can device";

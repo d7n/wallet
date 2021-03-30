@@ -1,1 +1,1 @@
-var mnemonic = "grab wagon embrace assume junior canyon gravity oak office sphere advice next";
+var mnemonic = "ill climb egg camera another swim safe small drift review where erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "crack fatigue grief robot battle swap average sunset coast chicken canal snow";
+var mnemonic = "pelican april strategy wrong chaos doctor flock tortoise oak ceiling audit liberty";

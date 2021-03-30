@@ -1,1 +1,1 @@
-var mnemonic = "protect profit photo base market pluck pledge please nothing grain awake ability";
+var mnemonic = "lunch brisk tumble into dry slam hospital drive spray brown wire gravity";

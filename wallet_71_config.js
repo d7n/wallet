@@ -1,1 +1,1 @@
-var mnemonic = "execute turkey slogan finish tilt liberty mad cattle skirt gas anchor memory";
+var mnemonic = "rescue enjoy spider chronic copper matter when rebel air kitchen they novel";

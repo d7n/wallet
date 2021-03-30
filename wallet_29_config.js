@@ -1,1 +1,1 @@
-var mnemonic = "inch chat march engage gas flash vocal lunar chunk mesh hood salute";
+var mnemonic = "step alarm degree pilot amused high whip draft wrong anxiety winner admit";

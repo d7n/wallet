@@ -1,1 +1,1 @@
-var mnemonic = "remind sample banana delay miracle pulp route blur unlock suffer casino nice";
+var mnemonic = "foot theory coral test cook laundry camera arrest sleep piece laugh network";

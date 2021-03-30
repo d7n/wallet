@@ -1,1 +1,1 @@
-var mnemonic = "parade ostrich brave truck hard city meat biology apple pencil artist tide";
+var mnemonic = "number mandate peace almost harvest step tray bundle answer odor into carpet";

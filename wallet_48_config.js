@@ -1,1 +1,1 @@
-var mnemonic = "stamp very solid safe tone mad damage radio echo east hedgehog sphere";
+var mnemonic = "review fun smile square wild betray exact collect major pistol buyer eyebrow";

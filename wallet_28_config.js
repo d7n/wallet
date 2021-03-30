@@ -1,1 +1,1 @@
-var mnemonic = "level member tower fold color topple daughter month quantum document wagon alpha";
+var mnemonic = "solid raven educate rice nurse ankle bring oxygen brass junk theory race";

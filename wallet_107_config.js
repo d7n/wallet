@@ -1,1 +1,1 @@
-var mnemonic = "hole tree advice inquiry perfect size purity run bargain blush artist pass";
+var mnemonic = "erupt attitude truck final rate step sniff lend number fetch waste spawn";

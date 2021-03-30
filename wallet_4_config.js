@@ -1,1 +1,1 @@
-var mnemonic = "trim model helmet tongue punch amused fox wait ketchup march body daring";
+var mnemonic = "border funny very armor brief uniform defense stuff tonight mosquito response invest";

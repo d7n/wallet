@@ -1,1 +1,1 @@
-var mnemonic = "unit ugly guide artefact cave rescue cheap prize prison despair law olive";
+var mnemonic = "arm talk broken across panther race target october decrease manual clarify shop";

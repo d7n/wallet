@@ -1,1 +1,1 @@
-var mnemonic = "cancel brain village tumble height ethics vibrant apart any industry work dose";
+var mnemonic = "suit panther lottery coil merry gadget problem finish vehicle brisk opera flame";

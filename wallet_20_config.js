@@ -1,1 +1,1 @@
-var mnemonic = "wealth satisfy office strike guilt cinnamon parrot hazard reopen actor stay plate";
+var mnemonic = "together state job menu all write type deny pill crater slogan next";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition neck main ladder breeze seminar pool develop lecture length palm device";
+var mnemonic = "sniff hero antique raise toddler energy depart short click phone spy next";

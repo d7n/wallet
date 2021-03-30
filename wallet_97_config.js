@@ -1,1 +1,1 @@
-var mnemonic = "mother safe december marriage blind canvas essay cherry mobile buddy spawn sugar";
+var mnemonic = "supreme foil security scheme slice among grief predict layer art festival flip";

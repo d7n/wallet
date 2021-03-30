@@ -1,1 +1,1 @@
-var mnemonic = "arm witness icon grain gesture ethics album odor picnic jungle hood wolf";
+var mnemonic = "pretty finger rocket memory degree toward snack leaf tone else symbol similar";

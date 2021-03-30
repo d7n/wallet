@@ -1,1 +1,1 @@
-var mnemonic = "legend ancient venture nest road fluid program unaware lift skin wide accident";
+var mnemonic = "now large beyond fan girl raw hammer tissue message have title alpha";

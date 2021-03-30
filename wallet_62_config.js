@@ -1,1 +1,1 @@
-var mnemonic = "must eagle ribbon page adapt corn face ladder proof glare tooth error";
+var mnemonic = "viable black critic awful rack hedgehog wave tuna tomorrow vessel master mention";

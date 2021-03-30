@@ -1,1 +1,1 @@
-var mnemonic = "loan consider slot offer spend stem manage modify always paper achieve company";
+var mnemonic = "foster reveal leisure lucky month below ripple pioneer deny stomach legal patch";

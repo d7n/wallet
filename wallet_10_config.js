@@ -1,1 +1,1 @@
-var mnemonic = "loop endless cement govern insane test fade cluster choice payment mass unit";
+var mnemonic = "coin surge drama concert thunder pluck resist lab hammer exclude rug control";

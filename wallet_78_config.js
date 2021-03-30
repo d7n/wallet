@@ -1,1 +1,1 @@
-var mnemonic = "inherit net segment hungry oyster sheriff chalk result inflict surge chunk grunt";
+var mnemonic = "exotic skull juice disease seven slide dolphin agent theme shop wine motion";

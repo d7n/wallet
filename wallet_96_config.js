@@ -1,1 +1,1 @@
-var mnemonic = "cigar oppose seek science tip wagon spend federal napkin giraffe cup egg";
+var mnemonic = "crawl position punch steak goose finger enhance shoot stone scorpion crouch course";

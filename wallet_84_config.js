@@ -1,1 +1,1 @@
-var mnemonic = "poem siege talk please budget journey lemon kid cup metal immune truly";
+var mnemonic = "crater upper more adapt fringe predict output doctor trick humble bless vacuum";

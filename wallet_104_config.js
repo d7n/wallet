@@ -1,1 +1,1 @@
-var mnemonic = "start affair glimpse aspect type special write move box video peanut slight";
+var mnemonic = "whale describe dog about emotion husband rack include motion easy pig arrow";

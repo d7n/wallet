@@ -1,1 +1,1 @@
-var mnemonic = "run venue athlete lottery fringe essay daughter comic trial blast tube kiss";
+var mnemonic = "shop awkward patrol defy taxi rural appear turtle talent april excite sister";

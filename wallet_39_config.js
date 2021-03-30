@@ -1,1 +1,1 @@
-var mnemonic = "web discover payment network illegal quantum airport foam buddy seek mobile stairs";
+var mnemonic = "click oyster asthma poem erode detect merit inside crumble any grief convince";

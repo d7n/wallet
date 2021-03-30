@@ -1,1 +1,1 @@
-var mnemonic = "spread video company wage cook buyer sunny buffalo whale base quarter moon";
+var mnemonic = "traffic absurd slender side unknown certain all flip brisk path smile movie";

@@ -1,1 +1,1 @@
-var mnemonic = "rebuild worth paper humble west already drink electric off banana route slab";
+var mnemonic = "sister syrup know lazy hedgehog gym adult struggle flee replace change nest";

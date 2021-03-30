@@ -1,1 +1,1 @@
-var mnemonic = "success reject achieve dilemma message dutch fame fat must decide moon powder";
+var mnemonic = "valley worth pulp power attack grape autumn degree cluster away aspect inside";

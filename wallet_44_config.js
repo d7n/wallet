@@ -1,1 +1,1 @@
-var mnemonic = "common giraffe summer valve napkin normal armor reward burden pause ticket index";
+var mnemonic = "birth witness spend tool clap swap spice together saddle depart rack little";

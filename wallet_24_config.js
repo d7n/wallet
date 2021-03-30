@@ -1,1 +1,1 @@
-var mnemonic = "senior scheme rail force match ginger various grab glory atom lawn eight";
+var mnemonic = "estate tortoise execute crunch boy junior extend mix few valid visa tongue";

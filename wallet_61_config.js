@@ -1,1 +1,1 @@
-var mnemonic = "setup hire erode column spike shadow brave tomorrow pair between crystal mutual";
+var mnemonic = "pigeon master uphold energy remember current daring soup sadness exhibit valid hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "hat drop habit hunt museum gym stumble tooth thumb clever uphold craft";
+var mnemonic = "rain coyote kitten like visit spot miracle era gown chalk vapor alone";

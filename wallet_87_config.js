@@ -1,1 +1,1 @@
-var mnemonic = "medal garage liberty talent worry timber kitten journey relax shield refuse survey";
+var mnemonic = "fitness object debate indicate transfer spider sunset deny render soft napkin steel";

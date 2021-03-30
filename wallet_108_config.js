@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit bone luxury swap girl curious twist feature fence surface cargo frame";
+var mnemonic = "describe bleak eager fog warfare there snap duck spell voice shiver another";

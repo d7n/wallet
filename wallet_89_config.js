@@ -1,1 +1,1 @@
-var mnemonic = "shoulder sound target rookie question mutual buyer upset net imitate inject fitness";
+var mnemonic = "settle random royal maid jacket access chicken match hole blood reveal knock";

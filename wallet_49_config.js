@@ -1,1 +1,1 @@
-var mnemonic = "winter dilemma practice weasel boat lumber gossip team project thank valley sock";
+var mnemonic = "oblige drastic receive entry icon cement main prevent subway adult grab birth";

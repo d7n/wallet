@@ -1,1 +1,1 @@
-var mnemonic = "material talk provide tribe toilet else fix expire panel undo alarm shift";
+var mnemonic = "weather margin illness farm pumpkin into crucial trend gaze license blanket laptop";

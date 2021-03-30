@@ -1,1 +1,1 @@
-var mnemonic = "few iron faith wolf cereal reunion kind pause garbage average success spell";
+var mnemonic = "awesome absent allow before weapon token galaxy man romance paddle adapt hybrid";

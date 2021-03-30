@@ -1,1 +1,1 @@
-var mnemonic = "tool debris embody absorb spy edit abuse cement useless recycle physical video";
+var mnemonic = "broom mean tumble result verb arctic crush vacuum fiber inject tuna speed";

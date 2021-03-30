@@ -1,1 +1,1 @@
-var mnemonic = "stock liberty type shoulder shock exhibit caught correct submit rice this option";
+var mnemonic = "light oblige people diagram they witness evoke cat any own today whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "family lawn village cattle finish market soccer consider company squirrel regular fiction";
+var mnemonic = "cattle thank cabin bird unfair lunch lens license sting scrub reform flip";

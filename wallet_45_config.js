@@ -1,1 +1,1 @@
-var mnemonic = "slight defy daring eight begin custom indicate drip ripple antique dinosaur tower";
+var mnemonic = "mansion spirit style flavor jealous media focus suggest same vibrant wonder person";

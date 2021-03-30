@@ -1,1 +1,1 @@
-var mnemonic = "crawl gesture glare erosion tooth uncover minimum elevator chase unique city wide";
+var mnemonic = "case item employ broccoli right razor danger acoustic faint wild physical parade";

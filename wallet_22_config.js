@@ -1,1 +1,1 @@
-var mnemonic = "apple route useless abuse drift differ later act lab fit shoulder suffer";
+var mnemonic = "section minor fine action master wheel warm poet fly depend bright roof";

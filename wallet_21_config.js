@@ -1,1 +1,1 @@
-var mnemonic = "company acquire alley dial isolate machine legal oven infant long ready all";
+var mnemonic = "produce border carbon obvious false hover party bacon crime leader drink laundry";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry december manage claw early unfold chuckle awkward stem inherit someone lunar";
+var mnemonic = "soft siege know various hold member news twice yellow hole mechanic arctic";

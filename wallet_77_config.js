@@ -1,1 +1,1 @@
-var mnemonic = "sword genuine tennis cloth other forum ladder assume undo resist hungry front";
+var mnemonic = "surprise enjoy problem garment maple mixed capital usage leave square change heart";

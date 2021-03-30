@@ -1,1 +1,1 @@
-var mnemonic = "essay acquire vessel half vintage swarm whip pioneer science gorilla suspect elevator";
+var mnemonic = "gas matter cactus random grant defy move south crouch public unlock element";

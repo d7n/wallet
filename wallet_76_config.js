@@ -1,1 +1,1 @@
-var mnemonic = "differ floor gravity clog shop upgrade include duty mandate jungle frown immune";
+var mnemonic = "nerve key hover elegant plastic main crash region drive inside relief huge";

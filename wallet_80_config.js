@@ -1,1 +1,1 @@
-var mnemonic = "town onion twelve rough radio pyramid ridge size danger rabbit limit action";
+var mnemonic = "hood average hungry frog prize topple quality genuine aspect vendor bridge rate";

@@ -1,1 +1,1 @@
-var mnemonic = "marble sing private mix clutch bulk network large dove cattle kitten security";
+var mnemonic = "rebel length can latin air share cricket theme memory ocean discover same";

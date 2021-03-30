@@ -1,1 +1,1 @@
-var mnemonic = "item tobacco basket rent swap unable solve toddler upgrade peasant doctor capital";
+var mnemonic = "hobby outer mushroom attitude face envelope coach educate mail choice letter tower";

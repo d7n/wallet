@@ -1,1 +1,1 @@
-var mnemonic = "ancient summer unaware amazing this milk whip pink genre cruise gun toilet";
+var mnemonic = "evolve flame morning push satoshi still laugh huge extend odor seed muscle";

@@ -1,1 +1,1 @@
-var mnemonic = "feel chimney video small odor chat rifle height rail stand decade what";
+var mnemonic = "order perfect blame salt cinnamon flash they boss chat poem select latin";

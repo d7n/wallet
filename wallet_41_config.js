@@ -1,1 +1,1 @@
-var mnemonic = "staff nothing crucial result sleep walk apology trash height avocado faith slow";
+var mnemonic = "guitar manage funny near bid combine pave parrot festival rate plate coyote";

@@ -1,1 +1,1 @@
-var mnemonic = "super vote toward perfect offer hunt puppy judge fox draft attitude caution";
+var mnemonic = "rain fork bone ocean impose easy present account cage monkey little nature";

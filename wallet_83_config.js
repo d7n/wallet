@@ -1,1 +1,1 @@
-var mnemonic = "stick burger deposit size unable apple naive garbage network end furnace try";
+var mnemonic = "achieve month habit window envelope mushroom fault floor swear wrestle crime bulb";

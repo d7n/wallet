@@ -1,1 +1,1 @@
-var mnemonic = "fame success text lamp wrap picnic tunnel unfair vote early develop trend";
+var mnemonic = "bulk slot farm deny response corn such fat toddler innocent response leopard";

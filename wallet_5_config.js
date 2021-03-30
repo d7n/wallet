@@ -1,1 +1,1 @@
-var mnemonic = "film thought parade busy decline crime throw earth erode orbit car inflict";
+var mnemonic = "pyramid furnace van decline access myth current recall space carbon bracket hire";

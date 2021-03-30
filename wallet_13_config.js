@@ -1,1 +1,1 @@
-var mnemonic = "honey minimum reward flee door pass tip sister account deposit scorpion silent";
+var mnemonic = "bind concert october wood bus scatter area ankle busy shoe federal pact";

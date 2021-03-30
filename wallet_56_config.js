@@ -1,1 +1,1 @@
-var mnemonic = "depart spoil okay agree symbol build argue exotic plug ribbon drip salmon";
+var mnemonic = "price pumpkin cargo blade confirm vintage elbow one dragon name group air";

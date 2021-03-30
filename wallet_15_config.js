@@ -1,1 +1,1 @@
-var mnemonic = "inquiry wisdom clean child once inhale diesel jungle public organ knee protect";
+var mnemonic = "elephant shop sunny satisfy couch ball oxygen attitude theory subject wasp actress";

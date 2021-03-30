@@ -1,1 +1,1 @@
-var mnemonic = "opinion popular egg error field mercy gather drip tomorrow deputy pink oven";
+var mnemonic = "length powder cross frame assume siege odor joy wrong own eye erase";

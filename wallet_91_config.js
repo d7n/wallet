@@ -1,1 +1,1 @@
-var mnemonic = "aware sad business another empower govern tornado until round acid nation cute";
+var mnemonic = "before pass mouse object harvest modify dice remember else globe jaguar amount";

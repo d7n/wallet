@@ -1,1 +1,1 @@
-var mnemonic = "marriage green tail news auto outside surprise river stairs home turn cancel";
+var mnemonic = "immense spring reflect helmet swing buyer stay motor today congress tone repair";

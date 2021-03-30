@@ -1,1 +1,1 @@
-var mnemonic = "general clarify unlock kangaroo coconut skill bind oxygen juice cradle six viable";
+var mnemonic = "pole track any resist remember jump demand top casual rib among glad";

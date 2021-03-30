@@ -1,1 +1,1 @@
-var mnemonic = "pact recall moon void ask scheme fatal winter clump swap dirt tobacco";
+var mnemonic = "foot brief pact leaf whale chaos divert major vintage million animal senior";

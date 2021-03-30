@@ -1,1 +1,1 @@
-var mnemonic = "arena trigger dragon castle arrow uncover kite poverty sudden reunion focus curve";
+var mnemonic = "soon build basic lock clarify scatter order brass item engine begin brand";

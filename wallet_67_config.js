@@ -1,1 +1,1 @@
-var mnemonic = "fetch strike leave winter vicious rifle destroy fold clock fashion ladder reform";
+var mnemonic = "tip various drift void avoid access candy priority minimum mail oyster radio";

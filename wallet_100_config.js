@@ -1,1 +1,1 @@
-var mnemonic = "deputy moment gate hungry session bid essay extra review today more market";
+var mnemonic = "urban ship leg explain fine weird virus celery hub yard one six";

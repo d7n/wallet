@@ -1,1 +1,1 @@
-var mnemonic = "champion october puppy attitude estate say panic captain tip this exact gap";
+var mnemonic = "unaware shrug visit lemon focus team term nerve twist idea iron blossom";

@@ -1,1 +1,1 @@
-var mnemonic = "planet chuckle kid daughter cotton kitchen clutch absorb demand casino doll grape";
+var mnemonic = "dismiss road owner course tube inject popular squirrel team young suspect firm";

@@ -1,1 +1,1 @@
-var mnemonic = "sponsor about escape theory crunch mad replace follow cheap mountain game humor";
+var mnemonic = "veteran alter flight observe refuse arrive siege unique ivory wrap aspect reject";
