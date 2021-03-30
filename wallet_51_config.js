@@ -1,1 +1,1 @@
-var mnemonic = "shaft gospel typical opinion antique lunar grape host siege pull mail dismiss";
+var mnemonic = "blanket toddler garden among vocal eternal other burst race scheme seat jar";

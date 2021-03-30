@@ -1,1 +1,1 @@
-var mnemonic = "cabbage song account kid advance execute faint project gym trumpet solution morning";
+var mnemonic = "scissors super govern question police pact indoor planet face gorilla era intact";

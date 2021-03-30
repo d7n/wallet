@@ -1,1 +1,1 @@
-var mnemonic = "body inspire setup hard avoid chase target useful raccoon faith upgrade truth";
+var mnemonic = "borrow divert gravity hundred clown friend advice place grant solution car eager";

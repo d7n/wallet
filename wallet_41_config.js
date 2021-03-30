@@ -1,1 +1,1 @@
-var mnemonic = "spirit tourist ritual leisure exclude negative fatal segment live major nature elevator";
+var mnemonic = "swim increase rival drastic soap forget edit spy detail glare reform act";

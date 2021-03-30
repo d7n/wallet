@@ -1,1 +1,1 @@
-var mnemonic = "audit edit river catalog snack repair enhance tide require measure flee there";
+var mnemonic = "cube cause lake access brown hobby excuse solid acoustic charge debris dish";

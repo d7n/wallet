@@ -1,1 +1,1 @@
-var mnemonic = "decide hurry portion minute exact slogan waste action oyster aspect palm device";
+var mnemonic = "power industry soup cage orchard away manage ozone chest series taste behave";

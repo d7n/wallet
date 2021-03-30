@@ -1,1 +1,1 @@
-var mnemonic = "rescue room dirt true neither assault sea brass drama stumble inquiry inject";
+var mnemonic = "like object crop hazard know time mechanic text tobacco educate sustain eight";

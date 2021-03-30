@@ -1,1 +1,1 @@
-var mnemonic = "warm verify unveil pencil play oval miracle egg mule cave strong similar";
+var mnemonic = "fame angry envelope celery warm chase isolate boil cool twist wool reform";

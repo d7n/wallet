@@ -1,1 +1,1 @@
-var mnemonic = "gasp praise wage dirt law butter unaware clinic apart unveil salt useless";
+var mnemonic = "improve kid output layer stadium bamboo stuff angle garlic beach unhappy master";

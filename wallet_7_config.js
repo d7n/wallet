@@ -1,1 +1,1 @@
-var mnemonic = "glow noise rapid alert funny quiz dragon dynamic card pool client glad";
+var mnemonic = "step you coral tunnel alert picnic hospital rack gown hammer neither avocado";

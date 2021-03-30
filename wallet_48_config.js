@@ -1,1 +1,1 @@
-var mnemonic = "doll resist right rail churn motion silly horror swift before winter code";
+var mnemonic = "tilt mixture toss ugly traffic garment virtual innocent dawn inquiry mammal nephew";

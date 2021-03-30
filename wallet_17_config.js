@@ -1,1 +1,1 @@
-var mnemonic = "catch sister census model bacon trick omit bike mushroom rude juice garment";
+var mnemonic = "dynamic decrease silk accuse grape unlock record army clog brother guilt demand";

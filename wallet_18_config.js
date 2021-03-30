@@ -1,1 +1,1 @@
-var mnemonic = "duty kitten equip jelly frame trend idea feed screen scatter coach nuclear";
+var mnemonic = "truth van genuine release attract blind zebra two floor meat abuse goat";

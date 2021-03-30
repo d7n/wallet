@@ -1,1 +1,1 @@
-var mnemonic = "hunt wrap radar unaware reject useless unable page lion size volcano clap";
+var mnemonic = "enter giraffe rabbit hover cloud limb genius unique marriage torch issue soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle prefer spider grass crazy gate quality era walk year broccoli poverty";
+var mnemonic = "chuckle tray giggle amused distance hold fee drama dinner any faculty since";

@@ -1,1 +1,1 @@
-var mnemonic = "shadow viable lonely kick pluck category hollow anchor trophy enemy control neglect";
+var mnemonic = "song bargain journey scout entry spread round brass stool flavor stumble spoon";

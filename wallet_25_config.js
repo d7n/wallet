@@ -1,1 +1,1 @@
-var mnemonic = "giraffe swap average same leave nature asset circle hold speak device liquid";
+var mnemonic = "rabbit jealous gift buffalo immense west foot expand people dream rent odor";

@@ -1,1 +1,1 @@
-var mnemonic = "rare suit year retreat local cloud tumble liberty rice able fire spice";
+var mnemonic = "fragile typical pioneer ankle skirt senior food hard forum fruit play exhibit";

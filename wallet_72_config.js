@@ -1,1 +1,1 @@
-var mnemonic = "crack add local honey mushroom early upgrade jewel lunar when cliff spatial";
+var mnemonic = "board uphold glance sunset quote inch host song logic athlete love fee";

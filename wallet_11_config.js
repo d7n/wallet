@@ -1,1 +1,1 @@
-var mnemonic = "elite salmon pause zebra never alert genre security rich note prison curve";
+var mnemonic = "improve absent note rival escape unknown absurd shock woman left cross magnet";

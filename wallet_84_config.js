@@ -1,1 +1,1 @@
-var mnemonic = "bone wide rule mule next shuffle mistake slow month cliff civil label";
+var mnemonic = "paddle mix omit yard runway dog zoo beyond aware movie style update";

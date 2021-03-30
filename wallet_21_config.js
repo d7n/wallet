@@ -1,1 +1,1 @@
-var mnemonic = "able nasty easily essay dilemma mixed desert cream muffin lawn local lake";
+var mnemonic = "spawn develop antenna know link bid inmate asthma wish obscure chase elevator";

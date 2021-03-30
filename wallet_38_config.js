@@ -1,1 +1,1 @@
-var mnemonic = "math twelve sustain drastic wire acquire sound improve recall express pool social";
+var mnemonic = "tool cereal pipe vault select disagree bless true first arrest entry kiss";

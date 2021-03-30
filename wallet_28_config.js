@@ -1,1 +1,1 @@
-var mnemonic = "spoil measure recycle drama crane until cinnamon ensure echo morning improve again";
+var mnemonic = "board cram robot that head leaf torch doctor donate shaft vintage patrol";

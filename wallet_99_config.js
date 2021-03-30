@@ -1,1 +1,1 @@
-var mnemonic = "fortune excuse cool cloth lumber digital practice fitness flight inform grit used";
+var mnemonic = "dance diamond bundle lounge couple debris food parent bar truck cable wish";

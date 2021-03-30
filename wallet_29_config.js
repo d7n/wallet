@@ -1,1 +1,1 @@
-var mnemonic = "finger expose more spider leopard cart hover protect coyote rail victory come";
+var mnemonic = "chase car spot wreck enroll enroll oak ankle payment cream anxiety this";

@@ -1,1 +1,1 @@
-var mnemonic = "dose board trigger twenty miracle normal artwork lion craft climb note season";
+var mnemonic = "man aisle repeat ivory learn holiday urban pyramid live protect purchase lunch";

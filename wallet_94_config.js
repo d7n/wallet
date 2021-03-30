@@ -1,1 +1,1 @@
-var mnemonic = "diagram lift theme lesson violin depend maid rich lion night decrease express";
+var mnemonic = "earn doctor annual width nature shrimp agree sand calm jewel since swear";

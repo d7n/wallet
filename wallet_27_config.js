@@ -1,1 +1,1 @@
-var mnemonic = "virtual remind excuse awful sibling family ugly tackle swim talent first settle";
+var mnemonic = "enlist exact middle pitch auto sock only unaware predict tired night sketch";

@@ -1,1 +1,1 @@
-var mnemonic = "pull inhale close pair rough notice thank lecture heart machine energy salad";
+var mnemonic = "such rural acoustic bless claim boil domain boat guitar panic crawl agent";

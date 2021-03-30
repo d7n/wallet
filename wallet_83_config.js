@@ -1,1 +1,1 @@
-var mnemonic = "glass frame metal toss spider brave remind banana culture now alone design";
+var mnemonic = "ankle differ tray mutual album pumpkin strike dance loud float brief silver";

@@ -1,1 +1,1 @@
-var mnemonic = "armor husband amused screen what seat car excite shoe rookie turkey approve";
+var mnemonic = "staff live click bronze distance earn account paper gesture airport kidney turn";

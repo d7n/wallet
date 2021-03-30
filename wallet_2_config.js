@@ -1,1 +1,1 @@
-var mnemonic = "park ordinary act hospital wrist dice lemon canoe monitor enlist matrix knock";
+var mnemonic = "level dash now grunt palace refuse isolate claw prefer plate penalty day";

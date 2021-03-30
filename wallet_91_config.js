@@ -1,1 +1,1 @@
-var mnemonic = "neck aspect planet collect bomb cabin toast derive minimum race envelope cabin";
+var mnemonic = "common alone jazz dumb sick confirm sketch bunker cruel chair dish valley";

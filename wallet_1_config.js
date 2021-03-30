@@ -1,1 +1,1 @@
-var mnemonic = "surround sphere certain light away burst equal derive drama occur clump car";
+var mnemonic = "advice sea traffic wink amused custom coconut dawn foam above antenna toy";

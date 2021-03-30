@@ -1,1 +1,1 @@
-var mnemonic = "blade rain cycle chaos meat couple sign yellow mushroom moral series slender";
+var mnemonic = "hire bid marriage answer isolate feel guard focus banana wisdom start open";

@@ -1,1 +1,1 @@
-var mnemonic = "fiber vendor maple resource delay flavor act still utility nurse discover laugh";
+var mnemonic = "pretty shield dirt crime mutual dynamic demand enhance layer relax morning rather";

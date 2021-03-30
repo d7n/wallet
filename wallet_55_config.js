@@ -1,1 +1,1 @@
-var mnemonic = "rice absent pill device stomach tired dwarf obscure thought imitate price ice";
+var mnemonic = "chunk solar maze basic final few final shell raccoon obvious sword figure";

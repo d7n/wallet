@@ -1,1 +1,1 @@
-var mnemonic = "furnace manual feel ignore hub warm index net during vault swallow ripple";
+var mnemonic = "canoe lunar hockey paddle end exercise artist way debate art pill bargain";

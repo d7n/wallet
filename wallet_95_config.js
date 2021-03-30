@@ -1,1 +1,1 @@
-var mnemonic = "maid sadness trumpet airport hundred ready scrap unfold casino garlic romance initial";
+var mnemonic = "wisdom apology winter funny account daughter property injury garage unable lounge inside";

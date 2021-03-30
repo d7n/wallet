@@ -1,1 +1,1 @@
-var mnemonic = "leader defy neglect network crime gather floor wet castle hybrid hover obscure";
+var mnemonic = "disease trophy piece father scorpion coin jeans move false change cruise cart";

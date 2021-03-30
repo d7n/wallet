@@ -1,1 +1,1 @@
-var mnemonic = "unveil behind gift library rabbit water topple coral air bamboo collect melt";
+var mnemonic = "fame loyal rug treat crumble ridge attitude sad jewel sibling just lend";

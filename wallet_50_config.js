@@ -1,1 +1,1 @@
-var mnemonic = "tortoise frame march spawn ready canyon fee city limit orphan multiply cash";
+var mnemonic = "license lab stick guitar nature strong sentence absurd pass also frost size";

@@ -1,1 +1,1 @@
-var mnemonic = "husband try lawn gorilla electric table diet oppose smooth two stand woman";
+var mnemonic = "weapon script same fame oak arm message close cinnamon clarify forward else";

@@ -1,1 +1,1 @@
-var mnemonic = "animal auction member toy theory leader liquid tired want click tragic scout";
+var mnemonic = "coffee lava decide trigger sentence ugly diagram weasel you since meadow elephant";

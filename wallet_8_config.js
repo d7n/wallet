@@ -1,1 +1,1 @@
-var mnemonic = "bracket stuff orbit sense picture jacket film stumble trust sting rescue fly";
+var mnemonic = "loud fault universe extra inch hidden piece coral tiny wedding turkey lift";

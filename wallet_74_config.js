@@ -1,1 +1,1 @@
-var mnemonic = "profit tell slender day real achieve garbage session yard erupt razor primary";
+var mnemonic = "raccoon dolphin neglect door trim taxi express journey attract kiss culture kangaroo";

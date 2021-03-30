@@ -1,1 +1,1 @@
-var mnemonic = "prevent climb split silent sample poverty tourist axis mobile tomato now right";
+var mnemonic = "brave nation congress museum rib amused laundry cigar trouble punch urban enter";

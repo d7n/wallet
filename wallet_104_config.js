@@ -1,1 +1,1 @@
-var mnemonic = "filter coast equal wheat practice access loop indoor drift caught student immune";
+var mnemonic = "wing butter turkey segment movie error depart relax decade spend robust giraffe";

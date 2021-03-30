@@ -1,1 +1,1 @@
-var mnemonic = "tired foam guard horse security april congress adjust able kitchen middle rotate";
+var mnemonic = "pulse dizzy neck apology dust digital banana shift language trick village exist";

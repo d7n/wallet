@@ -1,1 +1,1 @@
-var mnemonic = "actual cross member face input window muscle notable squeeze small outdoor dilemma";
+var mnemonic = "jungle accuse mom sad mule physical nut panic fan auto volume employ";

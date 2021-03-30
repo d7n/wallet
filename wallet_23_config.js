@@ -1,1 +1,1 @@
-var mnemonic = "current kit source evidence model pelican wing bracket lunch sketch tourist then";
+var mnemonic = "wild phrase find spare like gown pepper chase mountain bridge gasp bone";

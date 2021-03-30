@@ -1,1 +1,1 @@
-var mnemonic = "mammal pulse blossom ahead job above clean shadow table spirit item media";
+var mnemonic = "option notice bar small bubble portion tonight menu salute vault wonder shoot";

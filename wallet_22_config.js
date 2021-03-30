@@ -1,1 +1,1 @@
-var mnemonic = "ancient rapid float million fancy giggle silver child eager there chunk actress";
+var mnemonic = "fury romance silent lawn citizen model soul rigid hole rough echo wish";

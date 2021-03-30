@@ -1,1 +1,1 @@
-var mnemonic = "hidden whisper grass coin always female history flush where laugh scene winner";
+var mnemonic = "broom stand sort nose boring bus denial spring price first gorilla hard";

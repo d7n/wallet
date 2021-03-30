@@ -1,1 +1,1 @@
-var mnemonic = "room forum shy change mutual belt upper lunar brick inmate narrow moment";
+var mnemonic = "certain decade social install adjust diamond penalty object rebuild distance erase use";

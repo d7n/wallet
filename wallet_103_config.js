@@ -1,1 +1,1 @@
-var mnemonic = "mercy supreme purity milk horse glide hidden news wealth slice area inquiry";
+var mnemonic = "hood hover few scatter help foot now general friend wood scrub indoor";

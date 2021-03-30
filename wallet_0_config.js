@@ -1,1 +1,1 @@
-var mnemonic = "minor when robot swim around during perfect artefact you clutch brisk wagon";
+var mnemonic = "junior tired nature there bean board rather alpha weird problem south area";

@@ -1,1 +1,1 @@
-var mnemonic = "split bubble vacant equip phone dwarf language sea wagon orphan amount hen";
+var mnemonic = "acoustic amused copper kind enrich save topple burger voice horse citizen adjust";

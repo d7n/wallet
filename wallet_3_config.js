@@ -1,1 +1,1 @@
-var mnemonic = "high butter kangaroo home famous gorilla mechanic barrel wagon heavy connect leisure";
+var mnemonic = "west ask liquid town object all turkey olive phone bag river man";

@@ -1,1 +1,1 @@
-var mnemonic = "use else flight ridge word sun balcony this horror cannon include topic";
+var mnemonic = "scale plate rely pioneer earn young sustain promote fame girl noise achieve";

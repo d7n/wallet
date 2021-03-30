@@ -1,1 +1,1 @@
-var mnemonic = "craft fresh volcano permit spy answer timber wage wood knee heavy ocean";
+var mnemonic = "stomach borrow just october child agent mercy wolf dream noise agree grit";

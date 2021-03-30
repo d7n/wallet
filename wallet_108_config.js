@@ -1,1 +1,1 @@
-var mnemonic = "dentist few spell slight pulse wasp cover welcome lonely donkey venue sudden";
+var mnemonic = "owner shock only gadget flag wrap actor supply grant letter prosper someone";

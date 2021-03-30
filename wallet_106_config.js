@@ -1,1 +1,1 @@
-var mnemonic = "popular curtain desert travel ripple false crumble wrestle common often know steel";
+var mnemonic = "update team print stone author derive destroy deliver buddy lamp local daring";

@@ -1,1 +1,1 @@
-var mnemonic = "find virtual fit maple practice utility abandon life almost salmon rubber vehicle";
+var mnemonic = "hill dragon manual train desk pipe cycle stuff leg ladder ribbon bus";

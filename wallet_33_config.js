@@ -1,1 +1,1 @@
-var mnemonic = "west decline mouse two crunch laugh festival little brave green black sentence";
+var mnemonic = "once smoke first goddess hungry observe bind cereal coconut tomato vacant bulb";

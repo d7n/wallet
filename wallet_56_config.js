@@ -1,1 +1,1 @@
-var mnemonic = "push attend away misery calm mail dish come transfer empty dog regret";
+var mnemonic = "wing rail purse produce debate marine note toilet replace between spray kidney";

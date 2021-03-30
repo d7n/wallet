@@ -1,1 +1,1 @@
-var mnemonic = "labor ready arrest excite click boring pledge worry snack occur lab predict";
+var mnemonic = "reward feature right place lawn scatter odor hero heart purchase waste good";

@@ -1,1 +1,1 @@
-var mnemonic = "cook foster special hip spare remember during mosquito audit abstract voyage limb";
+var mnemonic = "mercy brick cheap plunge decline fork barrel orchard detail demise luxury cart";

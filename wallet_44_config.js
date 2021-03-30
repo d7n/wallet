@@ -1,1 +1,1 @@
-var mnemonic = "army artwork people riot process normal finish extra identify pluck expect pig";
+var mnemonic = "make tag sustain before negative middle hard suggest yellow humor scrap change";

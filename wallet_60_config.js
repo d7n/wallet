@@ -1,1 +1,1 @@
-var mnemonic = "ugly cry science legal robot fluid dance toddler powder village afraid lobster";
+var mnemonic = "between suspect cart inherit develop emotion crater mule cattle cabin floor state";

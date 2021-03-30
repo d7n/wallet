@@ -1,1 +1,1 @@
-var mnemonic = "fog correct tree suspect protect announce glimpse trumpet curious list opinion bachelor";
+var mnemonic = "will say then pioneer truck want barrel oven pole diary napkin wheat";

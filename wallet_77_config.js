@@ -1,1 +1,1 @@
-var mnemonic = "day help social basket almost pear someone scissors cluster economy learn giggle";
+var mnemonic = "stock dash chase style together music matter coast razor produce urban wagon";

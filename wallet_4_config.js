@@ -1,1 +1,1 @@
-var mnemonic = "common art raw punch sick fresh simple pear orchard spot moon lava";
+var mnemonic = "strike code wide toddler artist comfort buzz ankle swift follow biology acid";

@@ -1,1 +1,1 @@
-var mnemonic = "leopard crouch first secret layer lady weapon spy crop nuclear crisp trip";
+var mnemonic = "fox quality finish zone weather pioneer body air omit journey private cruise";

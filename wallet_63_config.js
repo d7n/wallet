@@ -1,1 +1,1 @@
-var mnemonic = "skate never luxury ribbon gym mirror broccoli situate dance discover skull exhaust";
+var mnemonic = "target slide display filter raven this zone annual kidney country upper excite";

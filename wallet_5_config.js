@@ -1,1 +1,1 @@
-var mnemonic = "valve matrix gift episode left spell fluid subway cushion garden mystery slice";
+var mnemonic = "design magic over jeans know exhaust wet sudden include install dream whale";

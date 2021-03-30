@@ -1,1 +1,1 @@
-var mnemonic = "dose antique dream pyramid income sport give blossom slot meat unique cancel";
+var mnemonic = "deliver click reward muffin arrange clerk pledge sunny puppy ill dynamic diesel";

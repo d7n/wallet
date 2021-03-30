@@ -1,1 +1,1 @@
-var mnemonic = "file eternal supreme stick warfare snake nurse crawl tiny knock claw liar";
+var mnemonic = "avoid also review fringe rich attract bargain medal bleak upset strategy pond";

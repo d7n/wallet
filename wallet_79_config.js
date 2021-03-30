@@ -1,1 +1,1 @@
-var mnemonic = "kiwi illegal achieve uncle chunk amateur spring risk mixture blame rail shove";
+var mnemonic = "rigid toss post decrease antique punch please floor squeeze plunge crater curve";

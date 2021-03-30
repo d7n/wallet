@@ -1,1 +1,1 @@
-var mnemonic = "enroll mirror rival hope pill sleep tennis rookie snake panel own endorse";
+var mnemonic = "drop trophy involve flavor demand winter diesel clown intact much quick twenty";

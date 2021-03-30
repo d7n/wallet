@@ -1,1 +1,1 @@
-var mnemonic = "sock exercise fantasy doll domain common limit shove auction sister arch slender";
+var mnemonic = "embrace remain name agent stuff limb across crowd nasty breeze achieve emotion";

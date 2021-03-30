@@ -1,1 +1,1 @@
-var mnemonic = "valve phrase flower carbon ecology kit fog law thank diet enroll kiwi";
+var mnemonic = "avocado service bean gasp ignore mobile meat birth sleep close crowd draft";

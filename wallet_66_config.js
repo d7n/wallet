@@ -1,1 +1,1 @@
-var mnemonic = "dad original test grief filter flight bus excuse boring erupt visual until";
+var mnemonic = "refuse wild pave response core process obey sheriff dream script rabbit song";

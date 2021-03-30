@@ -1,1 +1,1 @@
-var mnemonic = "comfort apart early idle gap add olympic brush brief member strong range";
+var mnemonic = "trip practice color swarm tribe bus device kiss grief nature neglect theme";

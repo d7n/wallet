@@ -1,1 +1,1 @@
-var mnemonic = "oxygen sister talk hurdle release upset safe toy human vital cake exile";
+var mnemonic = "three celery anxiety universe rare mandate abuse brush tower delay ticket depth";

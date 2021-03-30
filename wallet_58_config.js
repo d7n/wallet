@@ -1,1 +1,1 @@
-var mnemonic = "novel trend sleep clump depart garment resist frozen ecology exit differ drop";
+var mnemonic = "legal debate achieve absurd cabbage cannon enemy occur what spin infant balance";

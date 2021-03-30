@@ -1,1 +1,1 @@
-var mnemonic = "erosion sing media lumber differ repair ancient genius shallow lemon patient donate";
+var mnemonic = "defy imitate dance close style barrel multiply adapt fee enforce ranch crunch";

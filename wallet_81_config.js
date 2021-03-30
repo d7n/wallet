@@ -1,1 +1,1 @@
-var mnemonic = "arena rule road assume exotic voice clown lunch enforce merit parent equal";
+var mnemonic = "method deer fancy reunion divorce later grass cement other spell mandate island";

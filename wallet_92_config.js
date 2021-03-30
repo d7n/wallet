@@ -1,1 +1,1 @@
-var mnemonic = "mad wrap alone wet ranch squirrel say loyal pilot hunt start width";
+var mnemonic = "grief same permit supply assault sand oak another future risk rifle thrive";
