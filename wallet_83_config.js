@@ -1,1 +1,1 @@
-var mnemonic = "ankle differ tray mutual album pumpkin strike dance loud float brief silver";
+var mnemonic = "police peasant close soap lava noodle answer digital wine pride invite jacket";

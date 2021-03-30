@@ -1,1 +1,1 @@
-var mnemonic = "target slide display filter raven this zone annual kidney country upper excite";
+var mnemonic = "submit rotate winter right frozen guilt nasty derive sort cabbage chef banner";

@@ -1,1 +1,1 @@
-var mnemonic = "pulse dizzy neck apology dust digital banana shift language trick village exist";
+var mnemonic = "husband emotion math remember panther rotate dawn bulb dose pelican abuse ritual";

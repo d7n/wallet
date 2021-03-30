@@ -1,1 +1,1 @@
-var mnemonic = "series clinic liberty chest turn arrive inside food unable flavor stove patient";
+var mnemonic = "next concert response brand race retreat name fiber immense weekend asthma neither";

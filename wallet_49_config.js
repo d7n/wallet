@@ -1,1 +1,1 @@
-var mnemonic = "stomach borrow just october child agent mercy wolf dream noise agree grit";
+var mnemonic = "tube ecology skin puzzle power vast urban wrestle climb acquire rural party";

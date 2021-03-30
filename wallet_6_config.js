@@ -1,1 +1,1 @@
-var mnemonic = "embrace remain name agent stuff limb across crowd nasty breeze achieve emotion";
+var mnemonic = "olympic shed mansion color lake congress essence fresh sauce bomb carpet bleak";

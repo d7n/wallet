@@ -1,1 +1,1 @@
-var mnemonic = "weapon script same fame oak arm message close cinnamon clarify forward else";
+var mnemonic = "hip brave mirror people depend utility clerk soul worry hole limit swear";

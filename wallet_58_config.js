@@ -1,1 +1,1 @@
-var mnemonic = "legal debate achieve absurd cabbage cannon enemy occur what spin infant balance";
+var mnemonic = "inherit woman dignity cupboard worry lobster pencil hollow choose network hire rough";

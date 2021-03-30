@@ -1,1 +1,1 @@
-var mnemonic = "license lab stick guitar nature strong sentence absurd pass also frost size";
+var mnemonic = "song olympic jar gasp fatigue mesh gloom alert birth state shed company";

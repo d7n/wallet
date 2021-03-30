@@ -1,1 +1,1 @@
-var mnemonic = "enter giraffe rabbit hover cloud limb genius unique marriage torch issue soldier";
+var mnemonic = "city abuse slice claim verify move flip opinion noble original high tattoo";

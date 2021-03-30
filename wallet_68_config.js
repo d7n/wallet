@@ -1,1 +1,1 @@
-var mnemonic = "scale plate rely pioneer earn young sustain promote fame girl noise achieve";
+var mnemonic = "dirt conduct absurd slush lamp exhibit polar guitar jar wrist face lock";

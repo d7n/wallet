@@ -1,1 +1,1 @@
-var mnemonic = "brave nation congress museum rib amused laundry cigar trouble punch urban enter";
+var mnemonic = "half sketch oak jacket path bulk attitude analyst spoon gaze merge ring";

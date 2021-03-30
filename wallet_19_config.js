@@ -1,1 +1,1 @@
-var mnemonic = "hill dragon manual train desk pipe cycle stuff leg ladder ribbon bus";
+var mnemonic = "below inject catalog trophy extra approve day fresh assault few legend gesture";

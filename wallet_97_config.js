@@ -1,1 +1,1 @@
-var mnemonic = "loop devote smooth acoustic exhibit tower crop across adapt client gun truth";
+var mnemonic = "private weather dwarf victory vibrant gorilla limb gown myth congress common vast";

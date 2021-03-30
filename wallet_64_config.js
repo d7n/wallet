@@ -1,1 +1,1 @@
-var mnemonic = "outside oxygen office spoon trial response canal immense filter brain eyebrow visit";
+var mnemonic = "spawn fan cake vibrant unknown armor voyage relax monkey trash dad wasp";

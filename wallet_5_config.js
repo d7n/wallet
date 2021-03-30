@@ -1,1 +1,1 @@
-var mnemonic = "design magic over jeans know exhaust wet sudden include install dream whale";
+var mnemonic = "kid solar jaguar robust tourist resemble sure erupt mystery tackle distance menu";

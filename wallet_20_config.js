@@ -1,1 +1,1 @@
-var mnemonic = "mercy brick cheap plunge decline fork barrel orchard detail demise luxury cart";
+var mnemonic = "chest buyer any eternal order exact brain jump quit country husband garage";

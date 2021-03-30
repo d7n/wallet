@@ -1,1 +1,1 @@
-var mnemonic = "truth van genuine release attract blind zebra two floor meat abuse goat";
+var mnemonic = "join width critic oblige clutch answer airport change hammer fan pigeon shadow";

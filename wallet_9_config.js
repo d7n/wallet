@@ -1,1 +1,1 @@
-var mnemonic = "man aisle repeat ivory learn holiday urban pyramid live protect purchase lunch";
+var mnemonic = "inhale hint clean ugly electric route winner tomato bonus mom defense attract";

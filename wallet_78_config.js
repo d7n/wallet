@@ -1,1 +1,1 @@
-var mnemonic = "option notice bar small bubble portion tonight menu salute vault wonder shoot";
+var mnemonic = "must finish seven tree arm ostrich adapt avoid thing rib prison opinion";

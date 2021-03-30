@@ -1,1 +1,1 @@
-var mnemonic = "deliver click reward muffin arrange clerk pledge sunny puppy ill dynamic diesel";
+var mnemonic = "make secret injury talent forget hamster double city valve nephew doctor helmet";

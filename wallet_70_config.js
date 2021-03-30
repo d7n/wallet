@@ -1,1 +1,1 @@
-var mnemonic = "squeeze ride pulse hungry please icon giggle series life brave tornado long";
+var mnemonic = "beyond true blur brief local bring math stick fame antique neutral excuse";

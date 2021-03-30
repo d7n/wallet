@@ -1,1 +1,1 @@
-var mnemonic = "insane volume penalty trend small cry clinic item memory toilet reason dish";
+var mnemonic = "picnic copper split hover vicious isolate bundle garden cloud call exotic icon";

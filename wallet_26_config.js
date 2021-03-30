@@ -1,1 +1,1 @@
-var mnemonic = "pretty shield dirt crime mutual dynamic demand enhance layer relax morning rather";
+var mnemonic = "absent mosquito balcony cute fiction deal library hill wisdom either monkey trumpet";

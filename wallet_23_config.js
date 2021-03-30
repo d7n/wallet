@@ -1,1 +1,1 @@
-var mnemonic = "wild phrase find spare like gown pepper chase mountain bridge gasp bone";
+var mnemonic = "valid warfare umbrella vapor forget junior atom addict they only more have";

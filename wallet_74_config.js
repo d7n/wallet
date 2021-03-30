@@ -1,1 +1,1 @@
-var mnemonic = "raccoon dolphin neglect door trim taxi express journey attract kiss culture kangaroo";
+var mnemonic = "copper book else volcano gas lobster tail olympic genius update leaf demand";

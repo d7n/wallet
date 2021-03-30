@@ -1,1 +1,1 @@
-var mnemonic = "borrow divert gravity hundred clown friend advice place grant solution car eager";
+var mnemonic = "bounce super dolphin miss orbit balcony cliff comfort exchange cotton magic assist";

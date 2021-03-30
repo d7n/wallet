@@ -1,1 +1,1 @@
-var mnemonic = "fragile typical pioneer ankle skirt senior food hard forum fruit play exhibit";
+var mnemonic = "crop child coin luxury mirror brick van grain train much pipe area";

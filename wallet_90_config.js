@@ -1,1 +1,1 @@
-var mnemonic = "job limb cool project object lawn culture cannon west abandon belt dizzy";
+var mnemonic = "two tenant track denial because exchange oyster jungle paper bean ritual hip";

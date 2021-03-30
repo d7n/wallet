@@ -1,1 +1,1 @@
-var mnemonic = "scissors super govern question police pact indoor planet face gorilla era intact";
+var mnemonic = "daughter zone space amazing ethics rally fiscal beauty brush crazy aim base";

@@ -1,1 +1,1 @@
-var mnemonic = "chase car spot wreck enroll enroll oak ankle payment cream anxiety this";
+var mnemonic = "salt soap affair antenna pink eight language seminar rocket industry access inch";

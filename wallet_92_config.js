@@ -1,1 +1,1 @@
-var mnemonic = "grief same permit supply assault sand oak another future risk rifle thrive";
+var mnemonic = "habit edit satisfy home furnace problem horn tongue net feature unveil combine";

@@ -1,1 +1,1 @@
-var mnemonic = "make tag sustain before negative middle hard suggest yellow humor scrap change";
+var mnemonic = "basket magic seek mandate prosper churn just edit gold hill master rabbit";

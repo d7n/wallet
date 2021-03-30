@@ -1,1 +1,1 @@
-var mnemonic = "avocado service bean gasp ignore mobile meat birth sleep close crowd draft";
+var mnemonic = "silver receive like swallow clarify speak market field double ancient chimney soon";

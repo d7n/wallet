@@ -1,1 +1,1 @@
-var mnemonic = "between suspect cart inherit develop emotion crater mule cattle cabin floor state";
+var mnemonic = "stairs various tide cry pudding twice clever rely above chuckle rebuild crystal";

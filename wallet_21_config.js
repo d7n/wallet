@@ -1,1 +1,1 @@
-var mnemonic = "spawn develop antenna know link bid inmate asthma wish obscure chase elevator";
+var mnemonic = "cradle radar issue reward sugar valley error guard roof bacon meat tape";

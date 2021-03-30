@@ -1,1 +1,1 @@
-var mnemonic = "stock dash chase style together music matter coast razor produce urban wagon";
+var mnemonic = "stock mushroom oven kidney merit escape into lion decide boring panel minor";

@@ -1,1 +1,1 @@
-var mnemonic = "capable obscure purpose between toward capital female clever bachelor ozone success tragic";
+var mnemonic = "busy sorry stomach inmate update depth cloth talk supreme gap monkey oxygen";

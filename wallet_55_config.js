@@ -1,1 +1,1 @@
-var mnemonic = "chunk solar maze basic final few final shell raccoon obvious sword figure";
+var mnemonic = "unlock canvas arch prison destroy work spot puppy post install list anger";

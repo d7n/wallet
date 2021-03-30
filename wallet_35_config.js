@@ -1,1 +1,1 @@
-var mnemonic = "spin person twin plastic salad bronze tumble unlock hobby indicate wreck satisfy";
+var mnemonic = "middle tray north broccoli fury govern stairs vicious pattern problem property wish";

@@ -1,1 +1,1 @@
-var mnemonic = "west ask liquid town object all turkey olive phone bag river man";
+var mnemonic = "sting excess obtain shaft circle plate decade chapter electric bridge visa diagram";

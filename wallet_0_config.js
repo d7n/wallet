@@ -1,1 +1,1 @@
-var mnemonic = "junior tired nature there bean board rather alpha weird problem south area";
+var mnemonic = "lounge around try system ticket segment dinosaur claw latin dirt must ensure";

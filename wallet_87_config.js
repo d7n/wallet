@@ -1,1 +1,1 @@
-var mnemonic = "bridge region idea mobile prefer relax inflict spin unique strong attitude dumb";
+var mnemonic = "broccoli cycle cube solid actress culture stage royal mad exhaust grief very";

@@ -1,1 +1,1 @@
-var mnemonic = "doctor rug order mosquito chest slab cheap want rule code tackle slush";
+var mnemonic = "iron bottom middle reform rather trial option soccer liar document spider tilt";

@@ -1,1 +1,1 @@
-var mnemonic = "acoustic amused copper kind enrich save topple burger voice horse citizen adjust";
+var mnemonic = "ready squirrel casual illness false uphold bitter replace myth birth swing pencil";

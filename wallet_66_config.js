@@ -1,1 +1,1 @@
-var mnemonic = "refuse wild pave response core process obey sheriff dream script rabbit song";
+var mnemonic = "organ scrap like payment move inhale audit tide armed dose style arena";

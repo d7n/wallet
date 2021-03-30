@@ -1,1 +1,1 @@
-var mnemonic = "strike code wide toddler artist comfort buzz ankle swift follow biology acid";
+var mnemonic = "milk echo reveal track response chicken machine rabbit pony ill cradle body";

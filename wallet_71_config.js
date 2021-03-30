@@ -1,1 +1,1 @@
-var mnemonic = "three celery anxiety universe rare mandate abuse brush tower delay ticket depth";
+var mnemonic = "liquid great brisk present rural calm dress silk valid pulp solve feel";

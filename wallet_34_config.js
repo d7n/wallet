@@ -1,1 +1,1 @@
-var mnemonic = "certain decade social install adjust diamond penalty object rebuild distance erase use";
+var mnemonic = "issue method comfort news spring enemy badge ethics crisp worry gold donkey";

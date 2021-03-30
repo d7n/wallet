@@ -1,1 +1,1 @@
-var mnemonic = "hood hover few scatter help foot now general friend wood scrub indoor";
+var mnemonic = "mass slim crucial divorce document reflect guilt one lumber goat ozone author";

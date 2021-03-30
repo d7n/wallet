@@ -1,1 +1,1 @@
-var mnemonic = "canoe lunar hockey paddle end exercise artist way debate art pill bargain";
+var mnemonic = "access fish extra thing wing nation crop cube entry pipe orchard indoor";

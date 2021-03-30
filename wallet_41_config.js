@@ -1,1 +1,1 @@
-var mnemonic = "swim increase rival drastic soap forget edit spy detail glare reform act";
+var mnemonic = "destroy salad dolphin cheese agent cable obtain uniform peasant joke special return";

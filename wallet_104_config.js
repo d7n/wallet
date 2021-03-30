@@ -1,1 +1,1 @@
-var mnemonic = "wing butter turkey segment movie error depart relax decade spend robust giraffe";
+var mnemonic = "loan hire movie pact mango bounce unveil kitchen jump female ozone sphere";

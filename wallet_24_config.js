@@ -1,1 +1,1 @@
-var mnemonic = "song bargain journey scout entry spread round brass stool flavor stumble spoon";
+var mnemonic = "fan vocal hammer dirt forest position fruit habit input wish drastic pudding";

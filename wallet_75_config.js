@@ -1,1 +1,1 @@
-var mnemonic = "broom stand sort nose boring bus denial spring price first gorilla hard";
+var mnemonic = "finger rain wage bind immense scene rain kitten hundred truth nation blame";

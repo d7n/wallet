@@ -1,1 +1,1 @@
-var mnemonic = "disease trophy piece father scorpion coin jeans move false change cruise cart";
+var mnemonic = "rule steel index shield basket wall obvious element trust price cement boy";

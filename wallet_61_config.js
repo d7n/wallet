@@ -1,1 +1,1 @@
-var mnemonic = "fox quality finish zone weather pioneer body air omit journey private cruise";
+var mnemonic = "clown inspire increase orange wave tree uphold grunt all drill one swallow";

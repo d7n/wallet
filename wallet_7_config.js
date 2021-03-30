@@ -1,1 +1,1 @@
-var mnemonic = "step you coral tunnel alert picnic hospital rack gown hammer neither avocado";
+var mnemonic = "another exile artefact illegal exercise cereal love puppy teach settle merit junior";

@@ -1,1 +1,1 @@
-var mnemonic = "improve kid output layer stadium bamboo stuff angle garlic beach unhappy master";
+var mnemonic = "tourist winner car discover cargo dream scan best prison blade bulk save";

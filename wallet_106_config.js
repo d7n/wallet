@@ -1,1 +1,1 @@
-var mnemonic = "update team print stone author derive destroy deliver buddy lamp local daring";
+var mnemonic = "behave summer decorate ski bring quit various wonder black club topple what";

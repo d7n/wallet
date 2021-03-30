@@ -1,1 +1,1 @@
-var mnemonic = "coffee lava decide trigger sentence ugly diagram weasel you since meadow elephant";
+var mnemonic = "alone thrive margin become dry inch shift text nothing rhythm exercise robust";

@@ -1,1 +1,1 @@
-var mnemonic = "dynamic decrease silk accuse grape unlock record army clog brother guilt demand";
+var mnemonic = "civil fluid shield fiscal notable pole never theory rescue certain unhappy review";

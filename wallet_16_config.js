@@ -1,1 +1,1 @@
-var mnemonic = "fame angry envelope celery warm chase isolate boil cool twist wool reform";
+var mnemonic = "motion symbol bless resource spirit great leisure team jacket foil loop alert";

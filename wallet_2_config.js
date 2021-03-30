@@ -1,1 +1,1 @@
-var mnemonic = "level dash now grunt palace refuse isolate claw prefer plate penalty day";
+var mnemonic = "tilt mouse kangaroo feed list dad smart dress blossom bomb fetch hood";

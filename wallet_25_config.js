@@ -1,1 +1,1 @@
-var mnemonic = "rabbit jealous gift buffalo immense west foot expand people dream rent odor";
+var mnemonic = "garbage verb baby either soda repeat glow ball relief mention project wait";

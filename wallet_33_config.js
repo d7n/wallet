@@ -1,1 +1,1 @@
-var mnemonic = "once smoke first goddess hungry observe bind cereal coconut tomato vacant bulb";
+var mnemonic = "utility throw property fatigue fold struggle friend denial risk impact draw seat";

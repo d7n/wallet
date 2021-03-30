@@ -1,1 +1,1 @@
-var mnemonic = "erupt vital crack viable client mesh sad top motor favorite island wool";
+var mnemonic = "fossil whip fan exist job until panther cabin present amused grocery laugh";

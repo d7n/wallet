@@ -1,1 +1,1 @@
-var mnemonic = "staff live click bronze distance earn account paper gesture airport kidney turn";
+var mnemonic = "fashion order round together detail toy axis acquire walnut wet trend average";

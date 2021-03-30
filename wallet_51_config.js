@@ -1,1 +1,1 @@
-var mnemonic = "blanket toddler garden among vocal eternal other burst race scheme seat jar";
+var mnemonic = "prefer course purpose father return rice enlist key special elephant wing wonder";

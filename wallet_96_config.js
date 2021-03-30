@@ -1,1 +1,1 @@
-var mnemonic = "trip practice color swarm tribe bus device kiss grief nature neglect theme";
+var mnemonic = "three casual problem silver hawk assume erupt layer rival peace tumble web";

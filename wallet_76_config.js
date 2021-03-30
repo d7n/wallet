@@ -1,1 +1,1 @@
-var mnemonic = "travel chronic wrong unfold van twist target hood tortoise voyage hill opinion";
+var mnemonic = "cupboard language evolve gasp address same fantasy boy ginger remember program science";

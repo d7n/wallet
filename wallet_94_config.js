@@ -1,1 +1,1 @@
-var mnemonic = "earn doctor annual width nature shrimp agree sand calm jewel since swear";
+var mnemonic = "very click clown tuna rack bomb senior logic fire spread direct odor";

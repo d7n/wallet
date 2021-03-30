@@ -1,1 +1,1 @@
-var mnemonic = "wing rail purse produce debate marine note toilet replace between spray kidney";
+var mnemonic = "unaware gentle sail special cry slow negative pen confirm crack middle enough";

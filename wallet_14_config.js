@@ -1,1 +1,1 @@
-var mnemonic = "chuckle tray giggle amused distance hold fee drama dinner any faculty since";
+var mnemonic = "creek release ketchup blame orient school bench motion two super increase second";

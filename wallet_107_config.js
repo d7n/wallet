@@ -1,1 +1,1 @@
-var mnemonic = "best sustain color document illegal smile erosion width seat plate jeans narrow";
+var mnemonic = "brother run more butter address vendor message proof loop funny skate silk";

@@ -1,1 +1,1 @@
-var mnemonic = "tool cereal pipe vault select disagree bless true first arrest entry kiss";
+var mnemonic = "chase gather wash forum piece project fly mask invest balance govern reduce";

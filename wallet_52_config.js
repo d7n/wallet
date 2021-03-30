@@ -1,1 +1,1 @@
-var mnemonic = "tool eager scrub switch original almost trip very pupil toast negative scrap";
+var mnemonic = "neutral maze garbage put base arch debate tiny matter fall congress permit";

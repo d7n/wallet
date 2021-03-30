@@ -1,1 +1,1 @@
-var mnemonic = "valid camp walnut asset switch enrich dizzy garment disease bottom audit menu";
+var mnemonic = "dash fever flight about drift fire sentence paddle slab cat various anxiety";

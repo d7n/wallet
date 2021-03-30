@@ -1,1 +1,1 @@
-var mnemonic = "fury romance silent lawn citizen model soul rigid hole rough echo wish";
+var mnemonic = "december civil clerk session hire federal solve prepare insane effort blade bronze";

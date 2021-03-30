@@ -1,1 +1,1 @@
-var mnemonic = "differ service convince ozone woman pattern fantasy alter stool vault hen voyage";
+var mnemonic = "glow wall skin coconut truck gentle planet school thumb task rotate garage";

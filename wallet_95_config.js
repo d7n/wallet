@@ -1,1 +1,1 @@
-var mnemonic = "wisdom apology winter funny account daughter property injury garage unable lounge inside";
+var mnemonic = "amount transfer orient proof curious man increase plate gown mind steel fiction";

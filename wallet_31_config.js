@@ -1,1 +1,1 @@
-var mnemonic = "rail praise slice ugly regret hover spoon chief excuse powder light clay";
+var mnemonic = "fly east crowd amount kangaroo shoulder cousin angle foil public love hour";

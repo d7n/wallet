@@ -1,1 +1,1 @@
-var mnemonic = "improve absent note rival escape unknown absurd shock woman left cross magnet";
+var mnemonic = "short clump beyond always pencil hole mystery chimney wood grab observe morning";

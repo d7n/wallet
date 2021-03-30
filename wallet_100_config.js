@@ -1,1 +1,1 @@
-var mnemonic = "jungle accuse mom sad mule physical nut panic fan auto volume employ";
+var mnemonic = "frequent refuse thrive donor brown road flavor limit dawn net rain tennis";

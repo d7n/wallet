@@ -1,1 +1,1 @@
-var mnemonic = "power industry soup cage orchard away manage ozone chest series taste behave";
+var mnemonic = "leopard innocent hello mother price gospel zone question next rally desk audit";

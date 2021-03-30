@@ -1,1 +1,1 @@
-var mnemonic = "fame loyal rug treat crumble ridge attitude sad jewel sibling just lend";
+var mnemonic = "fit miracle car wish napkin can crop gap coach health risk piece";

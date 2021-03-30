@@ -1,1 +1,1 @@
-var mnemonic = "such rural acoustic bless claim boil domain boat guitar panic crawl agent";
+var mnemonic = "retreat valley level pelican undo merge pledge negative exchange shop business pluck";

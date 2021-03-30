@@ -1,1 +1,1 @@
-var mnemonic = "common alone jazz dumb sick confirm sketch bunker cruel chair dish valley";
+var mnemonic = "above burst south will comfort else few coil canal wreck snow relief";

@@ -1,1 +1,1 @@
-var mnemonic = "advice sea traffic wink amused custom coconut dawn foam above antenna toy";
+var mnemonic = "have foil useful round flag collect tragic deal nation faculty limit accuse";

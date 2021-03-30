@@ -1,1 +1,1 @@
-var mnemonic = "like object crop hazard know time mechanic text tobacco educate sustain eight";
+var mnemonic = "same present useless exotic nominee improve setup jar private cement hedgehog link";

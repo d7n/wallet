@@ -1,1 +1,1 @@
-var mnemonic = "board uphold glance sunset quote inch host song logic athlete love fee";
+var mnemonic = "dinner olive cricket business charge wrist elephant barrel head like powder joy";

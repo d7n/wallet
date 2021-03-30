@@ -1,1 +1,1 @@
-var mnemonic = "board cram robot that head leaf torch doctor donate shaft vintage patrol";
+var mnemonic = "media trade paper subject dress payment quarter cinnamon say sand distance anxiety";
