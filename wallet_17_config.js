@@ -1,1 +1,1 @@
-var mnemonic = "nice master hospital know country charge cement agent giraffe bachelor feel donkey";
+var mnemonic = "crumble width more boy meadow blade garden approve menu salad admit mirror";

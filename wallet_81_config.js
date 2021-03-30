@@ -1,1 +1,1 @@
-var mnemonic = "cruel market blanket elder insane either thunder permit immune bulb bulk lottery";
+var mnemonic = "ostrich rigid snow defense rib clock gauge gain situate say story enough";

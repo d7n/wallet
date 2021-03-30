@@ -1,1 +1,1 @@
-var mnemonic = "angle proud charge age stuff plunge sunset ensure siege tortoise anchor glue";
+var mnemonic = "panel across actor shrimp crash pulse latin essence ready tenant base craft";

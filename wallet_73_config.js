@@ -1,1 +1,1 @@
-var mnemonic = "february blade wire surge scrub shrimp antenna unable praise sting put dinosaur";
+var mnemonic = "million beef this cotton tackle there door swarm symbol cruel toss donor";

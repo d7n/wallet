@@ -1,1 +1,1 @@
-var mnemonic = "sponsor defy brown switch kitten cancel pledge clap aerobic gorilla plastic mammal";
+var mnemonic = "cricket width anxiety motor core news burden omit peanut swim silent unaware";

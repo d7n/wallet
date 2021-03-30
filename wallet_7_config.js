@@ -1,1 +1,1 @@
-var mnemonic = "repeat correct salt sadness front tomato shine kit vicious cotton merry initial";
+var mnemonic = "talk judge jaguar clip plug copper tiny depart impose jacket when verify";

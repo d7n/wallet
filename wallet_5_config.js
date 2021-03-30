@@ -1,1 +1,1 @@
-var mnemonic = "such govern surprise neutral deputy absent staff pledge nerve tent shallow add";
+var mnemonic = "receive history night blood pigeon garlic country thank inherit toss coral gasp";

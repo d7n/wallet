@@ -1,1 +1,1 @@
-var mnemonic = "zebra exact what volcano meat neutral pass bleak essay skin bag wage";
+var mnemonic = "neck finger spike lawn early upgrade aim distance sad keep onion icon";

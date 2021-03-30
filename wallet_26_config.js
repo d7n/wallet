@@ -1,1 +1,1 @@
-var mnemonic = "neglect scout barrel medal cluster bag input power puppy core diesel approve";
+var mnemonic = "future sight wet under kingdom oxygen remain mention opinion dragon forest mask";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct diary comfort lottery small blame buyer add blouse retire exhaust hat";
+var mnemonic = "cigar decide spike sound bright question coconut draw remove depth various muscle";

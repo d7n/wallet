@@ -1,1 +1,1 @@
-var mnemonic = "soft twelve velvet update carbon remain cigar embark bracket win angle aunt";
+var mnemonic = "leaf example way skull car shuffle raw mystery ticket digital review rally";

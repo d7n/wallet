@@ -1,1 +1,1 @@
-var mnemonic = "rescue manual ability virtual under uphold insect motion keen pig inch normal";
+var mnemonic = "misery artist draw chief primary potato staff rabbit maple betray obvious throw";

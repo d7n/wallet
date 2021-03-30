@@ -1,1 +1,1 @@
-var mnemonic = "journey model betray panther upper embark cereal earn debris labor rail degree";
+var mnemonic = "ripple machine season umbrella meadow current buyer wife sleep fiscal toast work";

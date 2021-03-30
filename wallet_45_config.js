@@ -1,1 +1,1 @@
-var mnemonic = "wall panda tuition shock chalk grunt fantasy language drop into vivid affair";
+var mnemonic = "manage wreck frame jar clean garlic tobacco key run inflict taxi anxiety";

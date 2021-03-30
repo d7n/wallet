@@ -1,1 +1,1 @@
-var mnemonic = "theory gun excite nest sail short cost slam faculty book million remind";
+var mnemonic = "arch tonight base flock motor dynamic alarm chapter giant size cousin time";

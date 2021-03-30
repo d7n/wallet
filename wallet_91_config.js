@@ -1,1 +1,1 @@
-var mnemonic = "capable swear decade detect history valley eager balcony paper gravity access quantum";
+var mnemonic = "output erode piano gossip buffalo oyster birth film maximum aerobic seek bulk";

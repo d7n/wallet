@@ -1,1 +1,1 @@
-var mnemonic = "clarify theme rescue script youth bachelor outside defy load jar recall crack";
+var mnemonic = "swim float mansion antenna buzz invest clip remove strike awful random liar";

@@ -1,1 +1,1 @@
-var mnemonic = "dinner normal gym coffee twice fossil alarm cliff symbol they route raccoon";
+var mnemonic = "long bean above erase fringe pizza happy transfer face craft strategy design";

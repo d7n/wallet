@@ -1,1 +1,1 @@
-var mnemonic = "drink nasty hawk guard drink identify trouble carbon hunt scrap modify frog";
+var mnemonic = "shop sorry frown rocket noise fever member strong truly impose begin purchase";

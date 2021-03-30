@@ -1,1 +1,1 @@
-var mnemonic = "asthma catch balcony intact you nature truly river mosquito salon life access";
+var mnemonic = "scrub task pool salute member that dilemma bar insect secret spirit soldier";

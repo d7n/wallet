@@ -1,1 +1,1 @@
-var mnemonic = "crystal rural adapt program improve online bargain empower acid phone crumble unable";
+var mnemonic = "parade section road shoe bench safe good debate between shock circle thunder";

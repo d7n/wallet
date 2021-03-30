@@ -1,1 +1,1 @@
-var mnemonic = "snap diagram abandon rigid december surround parrot bind raw anchor draw pudding";
+var mnemonic = "mechanic digital mystery super venue kidney board spray that correct later bright";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine category mom pencil music quiz steel machine virus radio winner bar";
+var mnemonic = "option hope snap sing swim lounge depend myself admit nuclear weapon flash";

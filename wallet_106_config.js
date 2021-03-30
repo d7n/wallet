@@ -1,1 +1,1 @@
-var mnemonic = "slice true purse bottom excuse sport process setup pole prepare fortune tribe";
+var mnemonic = "ghost base garden paddle marble magnet hawk slender grief they crunch able";

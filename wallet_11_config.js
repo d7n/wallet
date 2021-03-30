@@ -1,1 +1,1 @@
-var mnemonic = "breeze despair wasp pupil clutch absurd distance judge solution bunker order intact";
+var mnemonic = "curious fix lyrics unusual genuine subway spread august close setup bullet work";

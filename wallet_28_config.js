@@ -1,1 +1,1 @@
-var mnemonic = "lunch drastic place royal produce monkey flavor inherit earth crime element devote";
+var mnemonic = "exercise material tourist tank nasty tunnel scheme hurry color crime acid sample";

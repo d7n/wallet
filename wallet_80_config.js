@@ -1,1 +1,1 @@
-var mnemonic = "bread spoil merge hollow wide once leaf valve joy leisure indoor target";
+var mnemonic = "orbit increase monkey upset adapt crisp dash cherry this frozen treat mechanic";

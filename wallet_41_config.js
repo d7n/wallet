@@ -1,1 +1,1 @@
-var mnemonic = "drum normal drill only shaft renew health any bicycle program mention advance";
+var mnemonic = "wolf invite rescue inmate fall chaos march execute off claim opera unveil";

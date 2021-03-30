@@ -1,1 +1,1 @@
-var mnemonic = "lab ceiling organ little dice hungry twin ritual crane help amused flip";
+var mnemonic = "warrior liar stadium display hill tonight reduce wisdom refuse orphan tail unable";

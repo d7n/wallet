@@ -1,1 +1,1 @@
-var mnemonic = "kitten age demise erode someone empty fold memory heavy cat poem blast";
+var mnemonic = "evil settle version kick lake reward cherry general result fame fitness fork";

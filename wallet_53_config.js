@@ -1,1 +1,1 @@
-var mnemonic = "uncover motor push fatigue rent depth clever record wedding admit erase clean";
+var mnemonic = "click mad jacket clay above dance badge wolf parade food great original";

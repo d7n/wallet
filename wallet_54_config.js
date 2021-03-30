@@ -1,1 +1,1 @@
-var mnemonic = "decorate clip air nerve armor smooth nose bench wall gas neutral tip";
+var mnemonic = "prize legend gaze monster what track oyster boat refuse father finger camp";

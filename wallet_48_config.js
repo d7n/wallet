@@ -1,1 +1,1 @@
-var mnemonic = "doctor echo green shock must wood reflect rapid spend pact salute maze";
+var mnemonic = "ahead moon raise you nerve tribe bomb balance stem pupil street convince";

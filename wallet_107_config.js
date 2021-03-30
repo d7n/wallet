@@ -1,1 +1,1 @@
-var mnemonic = "mandate brown battle arrange friend victory fiction split actress surface guard fiscal";
+var mnemonic = "brand type hurdle antenna brother total foam infant ketchup topic purity swarm";

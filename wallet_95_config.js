@@ -1,1 +1,1 @@
-var mnemonic = "spare wagon ethics nuclear light win visa ivory kick square swift current";
+var mnemonic = "science believe skate neglect key text peanut between dove market present pelican";

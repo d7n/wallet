@@ -1,1 +1,1 @@
-var mnemonic = "oppose dilemma orbit prison right ginger frown oxygen hold budget slide grunt";
+var mnemonic = "error crash plunge impulse rebuild sick lawsuit tiny response file range client";

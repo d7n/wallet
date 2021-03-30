@@ -1,1 +1,1 @@
-var mnemonic = "now order credit brain echo celery multiply evidence join blast speak parent";
+var mnemonic = "travel write firm glance bulb cream inject tower machine luxury reunion grant";

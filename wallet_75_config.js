@@ -1,1 +1,1 @@
-var mnemonic = "citizen misery reject sign envelope gather pudding odor chuckle civil churn general";
+var mnemonic = "cloud require case sure special yard top response fever grid favorite frog";

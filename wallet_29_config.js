@@ -1,1 +1,1 @@
-var mnemonic = "room unable menu bike museum story during oxygen rebel hedgehog biology scheme";
+var mnemonic = "invest clown critic census yellow garlic anchor duty control width travel spray";

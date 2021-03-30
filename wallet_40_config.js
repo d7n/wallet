@@ -1,1 +1,1 @@
-var mnemonic = "float remind diary region glow gift grab mango iron explain base wrist";
+var mnemonic = "reward loyal educate path muscle strong habit sauce shaft fresh payment supply";

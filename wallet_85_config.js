@@ -1,1 +1,1 @@
-var mnemonic = "grain harbor bacon alone stick manage pill year expose roast tissue dismiss";
+var mnemonic = "try tower essay insane entry input critic jazz social smile elbow physical";

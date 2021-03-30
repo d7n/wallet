@@ -1,1 +1,1 @@
-var mnemonic = "ice blouse naive wedding tunnel stove seek thank visit soccer crime state";
+var mnemonic = "observe wine illegal settle double scout brown dog unveil wagon since amateur";

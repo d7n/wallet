@@ -1,1 +1,1 @@
-var mnemonic = "warfare erode little pool cruise junior more salute rail around sure shed";
+var mnemonic = "level crumble scorpion alert lazy window object pair bargain violin mimic rich";

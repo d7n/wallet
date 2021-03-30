@@ -1,1 +1,1 @@
-var mnemonic = "tone gesture stumble pottery example satoshi board lake rule waste couch awake";
+var mnemonic = "crack tell wage present police middle bulk hover junior vintage record edit";

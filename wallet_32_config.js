@@ -1,1 +1,1 @@
-var mnemonic = "wrestle veteran crane tired used soup device drop pulp olympic dinner ecology";
+var mnemonic = "window bottom collect priority pluck bronze method seed old silver obey early";

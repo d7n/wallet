@@ -1,1 +1,1 @@
-var mnemonic = "later sausage honey ghost order tomato antique canoe electric horn wrong enough";
+var mnemonic = "pyramid chapter spatial notable gate rival crouch sing cancel inform reduce print";

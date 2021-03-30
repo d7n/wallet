@@ -1,1 +1,1 @@
-var mnemonic = "clinic innocent merry infant cart famous stereo depend hungry scrap rookie radar";
+var mnemonic = "kick unhappy bulk equal original draw turtle merge blind erosion method old";

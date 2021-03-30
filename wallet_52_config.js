@@ -1,1 +1,1 @@
-var mnemonic = "coin saddle pattern find sentence vault hair later snack certain end gate";
+var mnemonic = "blame name abstract plate equal shadow net fiscal chase little warfare wool";

@@ -1,1 +1,1 @@
-var mnemonic = "injury drink dial hope play duty island coyote crumble nominee absent possible";
+var mnemonic = "arrive company leave alpha frozen fiber margin play ecology daring grocery advice";

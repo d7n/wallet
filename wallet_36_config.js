@@ -1,1 +1,1 @@
-var mnemonic = "excess host inquiry garlic arena chaos fiscal wave depend nuclear circle lava";
+var mnemonic = "hope grid eagle wear doctor timber expand section social that educate fence";

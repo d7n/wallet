@@ -1,1 +1,1 @@
-var mnemonic = "gold east develop phrase kangaroo empower venue theory hip vast retreat aspect";
+var mnemonic = "citizen time seminar close find sugar narrow prevent clog local harvest cargo";

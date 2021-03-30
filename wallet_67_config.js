@@ -1,1 +1,1 @@
-var mnemonic = "light abandon piano junior salute genre gown better fat behave forum front";
+var mnemonic = "glow into celery foot post segment avocado leaf voyage airport trend wine";

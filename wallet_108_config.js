@@ -1,1 +1,1 @@
-var mnemonic = "width physical faculty sell account quick element curtain midnight afford city essay";
+var mnemonic = "describe afraid join better recipe mule capital note aerobic sniff bring tattoo";

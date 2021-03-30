@@ -1,1 +1,1 @@
-var mnemonic = "identify labor crack evolve sample leader faculty token trade alien zero jump";
+var mnemonic = "arrange august hammer crane crack agent friend deer leisure wedding daring alpha";

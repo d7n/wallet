@@ -1,1 +1,1 @@
-var mnemonic = "tiny seek other half lava begin keen aware fan twist together tiny";
+var mnemonic = "pledge exist path evoke trick gather own cruel industry artist shed creek";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter feature target luxury thank win enough depend unknown limit raccoon enact";
+var mnemonic = "nephew title host either memory derive reunion release piece item goddess crack";

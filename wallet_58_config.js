@@ -1,1 +1,1 @@
-var mnemonic = "empower collect satisfy fire radar fan dial begin soup apology inside slow";
+var mnemonic = "setup harvest alarm harbor fit mixed extend reduce video outdoor blanket dynamic";

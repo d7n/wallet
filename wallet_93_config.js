@@ -1,1 +1,1 @@
-var mnemonic = "annual inside helmet crush profit legend excite table wealth noise paper wife";
+var mnemonic = "margin sausage defy canoe color flat liquid soda trash arrest ordinary carry";

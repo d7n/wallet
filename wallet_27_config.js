@@ -1,1 +1,1 @@
-var mnemonic = "gorilla ride genius brush ensure pizza afraid execute milk erode sign visa";
+var mnemonic = "curious become tennis someone firm gold silent monster join elephant uniform monitor";

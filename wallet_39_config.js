@@ -1,1 +1,1 @@
-var mnemonic = "street rough banner neither sister yard under author harvest limit cabbage wine";
+var mnemonic = "win van rubber assist vicious risk travel become person live truth gold";

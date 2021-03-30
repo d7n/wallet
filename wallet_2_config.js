@@ -1,1 +1,1 @@
-var mnemonic = "head unable soda decorate despair around easy across penalty comic around art";
+var mnemonic = "dog follow appear year place parent slight success pride wave woman pepper";

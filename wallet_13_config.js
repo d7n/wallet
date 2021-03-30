@@ -1,1 +1,1 @@
-var mnemonic = "fit orange enter pause umbrella canal mule boost speak echo happy void";
+var mnemonic = "they list alert stay copper pistol phrase donate drive float tonight budget";

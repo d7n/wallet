@@ -1,1 +1,1 @@
-var mnemonic = "ranch ritual entire orphan morning erupt service wrestle chase airport theme frog";
+var mnemonic = "agree odor awkward audit opinion history entire advance similar wedding adult all";

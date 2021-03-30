@@ -1,1 +1,1 @@
-var mnemonic = "act giggle skill victory inquiry fish shine simple ketchup artist top dash";
+var mnemonic = "result knee goddess innocent receive high similar blue emerge hurdle sand rabbit";

@@ -1,1 +1,1 @@
-var mnemonic = "multiply staff whale year master immune want bright mobile weekend stem host";
+var mnemonic = "muscle step require walk winter intact bench move okay shield absent maid";

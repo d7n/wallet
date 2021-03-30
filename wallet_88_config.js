@@ -1,1 +1,1 @@
-var mnemonic = "noble garment glory certain shiver steel ski about ski define rookie credit";
+var mnemonic = "fish start ripple fatigue catch first brown finger long citizen strike library";

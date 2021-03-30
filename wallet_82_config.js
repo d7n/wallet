@@ -1,1 +1,1 @@
-var mnemonic = "endless practice raccoon spend increase select virtual happy surprise bench soccer anchor";
+var mnemonic = "armor learn imitate review shrug garment tray submit wave entire festival depth";

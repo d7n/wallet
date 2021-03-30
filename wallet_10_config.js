@@ -1,1 +1,1 @@
-var mnemonic = "ship blur ritual mistake whale peanut combine toddler group wife float later";
+var mnemonic = "tray that swear blue vacant half wolf tip spice copper pluck deal";

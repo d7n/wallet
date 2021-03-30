@@ -1,1 +1,1 @@
-var mnemonic = "waste swarm pass glance hat pigeon dragon amazing fatigue approve evolve cradle";
+var mnemonic = "correct myself boost oval tuition execute asset lens bubble ensure vivid cable";

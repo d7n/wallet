@@ -1,1 +1,1 @@
-var mnemonic = "metal message actress topic drill chunk jaguar home sad garden steak crane";
+var mnemonic = "buffalo ceiling limit lyrics say asthma shift post belt champion forum fetch";

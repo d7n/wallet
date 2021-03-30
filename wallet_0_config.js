@@ -1,1 +1,1 @@
-var mnemonic = "tilt vibrant limit attend weird artefact danger whip human review ensure clarify";
+var mnemonic = "pipe table myth fall dune initial tomato boil swallow cannon early suggest";

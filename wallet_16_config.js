@@ -1,1 +1,1 @@
-var mnemonic = "release monster toddler holiday vast ski device cupboard dish supply child stay";
+var mnemonic = "rifle ankle final tennis high life exotic movie actress almost sand search";

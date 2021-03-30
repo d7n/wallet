@@ -1,1 +1,1 @@
-var mnemonic = "art oak soccer cute ball glimpse core grab deliver finish collect unveil";
+var mnemonic = "evidence motion equip save sure bonus column return era common shove rose";

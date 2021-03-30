@@ -1,1 +1,1 @@
-var mnemonic = "clinic cream dirt curious buzz obscure analyst alert student elite fit axis";
+var mnemonic = "drill congress kick suffer segment total design wink uphold sure neither hip";

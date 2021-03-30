@@ -1,1 +1,1 @@
-var mnemonic = "morning kingdom umbrella impact art piano lawn endorse jealous arrive heart spread";
+var mnemonic = "north wide woman improve profit stadium theme region cliff ill bunker effort";

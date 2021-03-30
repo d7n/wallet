@@ -1,1 +1,1 @@
-var mnemonic = "nominee vacant under cereal boy clever expect index drip rather fun goose";
+var mnemonic = "define glance wait frog impact napkin edit judge unlock bundle case what";

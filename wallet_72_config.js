@@ -1,1 +1,1 @@
-var mnemonic = "crucial usual essence relax spread crater drop stone right sick volume original";
+var mnemonic = "cradle depend tired mechanic drop apology blind draw siren abstract network cabin";

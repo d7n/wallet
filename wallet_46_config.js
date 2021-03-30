@@ -1,1 +1,1 @@
-var mnemonic = "foster weird sniff catalog toss shy tragic mother obtain addict focus valve";
+var mnemonic = "real skirt angle author pattern empty creek adult drastic common cream tortoise";

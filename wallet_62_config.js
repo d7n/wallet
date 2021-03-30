@@ -1,1 +1,1 @@
-var mnemonic = "cigar average boat offer parade fruit seat spatial roof treat cereal annual";
+var mnemonic = "muffin spread rival dash bamboo scale unlock kit anchor candy cluster hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol boss achieve grape thunder clerk annual give can half capable tattoo";
+var mnemonic = "frown silver uniform hold lion detail wild beach hurry tattoo apart century";

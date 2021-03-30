@@ -1,1 +1,1 @@
-var mnemonic = "twelve deny stand evidence fade celery sign credit supply suffer girl judge";
+var mnemonic = "eager father always object oval spoil play capital cycle exchange scrap dragon";

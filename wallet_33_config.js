@@ -1,1 +1,1 @@
-var mnemonic = "little man sheriff draw sibling luggage cave capable liquid banner tunnel journey";
+var mnemonic = "will shadow interest aware rebuild result join crisp ship title street cousin";

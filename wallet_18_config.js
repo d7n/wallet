@@ -1,1 +1,1 @@
-var mnemonic = "amateur blame design job half method diagram talent suffer govern custom risk";
+var mnemonic = "view cigar hair island unusual cry winter resource festival charge gasp tell";

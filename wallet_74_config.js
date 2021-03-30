@@ -1,1 +1,1 @@
-var mnemonic = "push evoke repair slam awesome hurdle mirror blade shift asset lonely guitar";
+var mnemonic = "crazy fresh invest farm route fatigue erosion helmet enforce phrase danger aunt";

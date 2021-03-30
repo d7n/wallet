@@ -1,1 +1,1 @@
-var mnemonic = "sister mystery laundry blade access post web life voyage strategy edge depart";
+var mnemonic = "guess lunar deal wish cross behave silly village grace shell crouch margin";

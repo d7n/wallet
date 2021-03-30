@@ -1,1 +1,1 @@
-var mnemonic = "aerobic travel claw dynamic merry stock rib notice quit crash destroy trophy";
+var mnemonic = "relief beyond wreck only stereo cute accuse youth palace brown boost truth";

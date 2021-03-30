@@ -1,1 +1,1 @@
-var mnemonic = "upon regret cricket lift chalk captain capable satisfy impulse spoil true tomorrow";
+var mnemonic = "lunar century nasty tennis shove chronic dilemma cement antenna frost park poet";

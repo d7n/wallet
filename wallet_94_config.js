@@ -1,1 +1,1 @@
-var mnemonic = "size april spot unfold kidney smoke clutch climb build card chronic social";
+var mnemonic = "powder fall route transfer reflect garage wife search flight ostrich fold cotton";

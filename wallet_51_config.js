@@ -1,1 +1,1 @@
-var mnemonic = "memory wet catch omit avocado loan enrich balance address smile arrive fat";
+var mnemonic = "lunch tornado pride misery wheat gorilla birth opera dirt song soldier behave";

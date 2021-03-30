@@ -1,1 +1,1 @@
-var mnemonic = "sure poem flavor happy cost rabbit quarter glimpse pulp fruit surge decorate";
+var mnemonic = "goose helmet merit chronic exhaust vital child grass attract clown jeans hair";
