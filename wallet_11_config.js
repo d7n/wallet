@@ -1,1 +1,1 @@
-var mnemonic = "volcano aware ostrich human sibling cushion aunt jeans furnace clutch orphan believe";
+var mnemonic = "wrong ten empower secret peasant essay avoid girl hunt ten amateur squirrel";

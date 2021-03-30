@@ -1,1 +1,1 @@
-var mnemonic = "adjust borrow worry neutral raccoon cement fitness begin cake can royal castle";
+var mnemonic = "trigger blossom excuse bring wage response neck multiply august high witness able";

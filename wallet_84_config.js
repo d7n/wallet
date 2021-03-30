@@ -1,1 +1,1 @@
-var mnemonic = "erode across prosper focus paddle blame oval shrimp embark black spatial egg";
+var mnemonic = "unveil couple meadow jar casual dish myself chase empower salmon medal monkey";

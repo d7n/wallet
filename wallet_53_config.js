@@ -1,1 +1,1 @@
-var mnemonic = "skin morning team creek side order announce jewel elder sheriff transfer idea";
+var mnemonic = "lake eight weasel time gate delay size avoid wear kite noise loop";

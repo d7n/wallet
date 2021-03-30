@@ -1,1 +1,1 @@
-var mnemonic = "make link merit tragic blush angle today camp barrel deputy fever town";
+var mnemonic = "motor cream legend actor uncover fun armor gauge rare dance honey chat";

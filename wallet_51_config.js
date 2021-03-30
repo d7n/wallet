@@ -1,1 +1,1 @@
-var mnemonic = "huge keen crouch know rare mask damage boat blade board noble idea";
+var mnemonic = "host boat subject more plate main pause spray duty tooth love cute";

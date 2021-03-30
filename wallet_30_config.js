@@ -1,1 +1,1 @@
-var mnemonic = "flavor affair wine false style oppose file object climb pelican shove advance";
+var mnemonic = "hobby milk already portion desk trophy warm water observe frozen midnight grunt";

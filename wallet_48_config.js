@@ -1,1 +1,1 @@
-var mnemonic = "brother canal stage reduce suggest loyal offer pumpkin announce couple stem twelve";
+var mnemonic = "fox token average wear dove ostrich buyer deposit lunar kangaroo fault organ";

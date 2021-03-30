@@ -1,1 +1,1 @@
-var mnemonic = "desk lift vehicle main gas romance lens access craft violin craft resemble";
+var mnemonic = "report wire poverty brick payment purse museum hurdle clutch race cycle slice";

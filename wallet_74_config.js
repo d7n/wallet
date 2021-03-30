@@ -1,1 +1,1 @@
-var mnemonic = "cake remind joke october post track this turn main excite few time";
+var mnemonic = "chief reduce trash seat chimney present ramp usual upset patient lonely crack";

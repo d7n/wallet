@@ -1,1 +1,1 @@
-var mnemonic = "youth vague fog brush guitar near chimney cherry large tragic ketchup awake";
+var mnemonic = "artefact fresh gift organ arm expand bamboo monkey will barrel wink notice";

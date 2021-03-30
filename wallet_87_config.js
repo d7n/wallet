@@ -1,1 +1,1 @@
-var mnemonic = "differ speak tip spider frost dinner grab sell pen typical cruise spin";
+var mnemonic = "tone deny sorry outdoor sail issue noodle life east level blush grape";

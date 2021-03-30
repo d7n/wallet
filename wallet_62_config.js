@@ -1,1 +1,1 @@
-var mnemonic = "relax place people stamp garment lazy armed potato either leaf find occur";
+var mnemonic = "mind domain scale winner sun slam pyramid live place excite live diesel";

@@ -1,1 +1,1 @@
-var mnemonic = "radar weather scatter two hotel able evolve network whip remind flock first";
+var mnemonic = "immune oval search banana tilt distance husband asthma coin prepare meadow cause";

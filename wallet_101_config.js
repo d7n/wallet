@@ -1,1 +1,1 @@
-var mnemonic = "derive fix vintage educate history rough drastic copper antenna city tumble aware";
+var mnemonic = "shaft become cable loop shiver garage dose stay gate settle water library";

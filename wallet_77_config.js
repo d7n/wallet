@@ -1,1 +1,1 @@
-var mnemonic = "three shaft plate mouse venue general elevator dolphin sand stand image rotate";
+var mnemonic = "mistake buzz way dream move mansion side crush business sphere dish mushroom";

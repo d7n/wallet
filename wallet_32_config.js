@@ -1,1 +1,1 @@
-var mnemonic = "forest ancient announce quit suggest wine tissue until void dilemma gravity alpha";
+var mnemonic = "genius analyst hurry travel finger buffalo neglect decide duck spoon wage oyster";

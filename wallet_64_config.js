@@ -1,1 +1,1 @@
-var mnemonic = "viable prepare chapter valley drive warm merry catalog true exact submit exit";
+var mnemonic = "bachelor snack hidden helmet swing inner provide arrest category task vivid medal";

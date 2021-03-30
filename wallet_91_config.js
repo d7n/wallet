@@ -1,1 +1,1 @@
-var mnemonic = "join ancient into scissors fetch depth type coin initial left humor hub";
+var mnemonic = "level rebuild orient treat robot decade stand convince isolate water crater carbon";

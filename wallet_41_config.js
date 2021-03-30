@@ -1,1 +1,1 @@
-var mnemonic = "potato observe farm mango analyst excess web drill path dish wise enact";
+var mnemonic = "noodle rubber draft page slogan rare occur swarm photo uphold valley excess";

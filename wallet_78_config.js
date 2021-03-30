@@ -1,1 +1,1 @@
-var mnemonic = "start cake random follow rubber multiply hurry quit bag quick taxi vivid";
+var mnemonic = "able pulp news firm client fossil flee party black eye weasel industry";

@@ -1,1 +1,1 @@
-var mnemonic = "taxi people have glide call alien vanish nest unit orient minor stage";
+var mnemonic = "helmet twist brick end radio wagon idea mountain flower welcome reunion detect";

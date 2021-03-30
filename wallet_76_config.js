@@ -1,1 +1,1 @@
-var mnemonic = "remain dentist advice dog device rookie alone reflect photo number oak client";
+var mnemonic = "banana right liberty mixed access mean social island rice hammer rate open";

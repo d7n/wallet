@@ -1,1 +1,1 @@
-var mnemonic = "attitude blouse innocent silly inherit humble renew enough defense debate else comfort";
+var mnemonic = "garden citizen job will bulk east ramp penalty heart bubble angry prepare";

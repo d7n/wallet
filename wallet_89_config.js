@@ -1,1 +1,1 @@
-var mnemonic = "potato leader filter avoid riot table bright coffee mask tunnel mosquito enlist";
+var mnemonic = "badge hammer simple pottery uncover trumpet device before bless among hospital soap";

@@ -1,1 +1,1 @@
-var mnemonic = "give paddle wine dream traffic funny expose barrel gallery genius artist put";
+var mnemonic = "polar cat model simple hole merit soup innocent consider sun inner moral";

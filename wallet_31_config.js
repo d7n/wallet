@@ -1,1 +1,1 @@
-var mnemonic = "perfect attend affair afraid around physical rose puppy spread inmate badge cradle";
+var mnemonic = "school hole narrow museum allow giant upper script oven believe ladder limit";

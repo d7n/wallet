@@ -1,1 +1,1 @@
-var mnemonic = "bachelor level verb flight attitude false cry nasty saddle sustain ill chronic";
+var mnemonic = "long clutch spoil marble grape saddle lizard angry audit fly normal fortune";

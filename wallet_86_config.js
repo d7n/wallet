@@ -1,1 +1,1 @@
-var mnemonic = "rude green uphold trap family sight apart huge course lava typical inherit";
+var mnemonic = "kid miss motion lunar eternal train world subway click flip heavy answer";

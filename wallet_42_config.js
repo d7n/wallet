@@ -1,1 +1,1 @@
-var mnemonic = "salad intact genre merry cycle series review happy board fame heavy release";
+var mnemonic = "enemy panic once find execute uphold sell bulb pottery clip charge curve";

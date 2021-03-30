@@ -1,1 +1,1 @@
-var mnemonic = "pig erupt rent festival trap file motor front fish hybrid name task";
+var mnemonic = "ignore goat half inform board analyst method finger forward fantasy settle dinosaur";

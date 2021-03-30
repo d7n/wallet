@@ -1,1 +1,1 @@
-var mnemonic = "pencil toast drift glow struggle popular need actor frost venue top tool";
+var mnemonic = "insect antique observe shy spring dance hobby tiger surge print alarm scorpion";

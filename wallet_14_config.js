@@ -1,1 +1,1 @@
-var mnemonic = "creek legend clip exotic drum dumb elevator riot term swap extra insane";
+var mnemonic = "enhance ketchup oppose creek burst dose estate attract only muffin pulse round";

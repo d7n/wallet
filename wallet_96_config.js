@@ -1,1 +1,1 @@
-var mnemonic = "sauce delay credit twenty trap staff front squeeze walk zoo steel neglect";
+var mnemonic = "luxury autumn pumpkin dish rule cover until poverty rail juice canyon april";

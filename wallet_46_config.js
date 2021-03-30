@@ -1,1 +1,1 @@
-var mnemonic = "deposit wet fame express arch deer artefact solve version session raven figure";
+var mnemonic = "merit barely gesture inflict ship remain place stay person reject damage rocket";

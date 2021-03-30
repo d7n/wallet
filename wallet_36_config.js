@@ -1,1 +1,1 @@
-var mnemonic = "prosper net waste brand pigeon chalk police west ketchup fragile measure accident";
+var mnemonic = "shrimp trial laugh lottery cram kick top odor adapt two network inject";

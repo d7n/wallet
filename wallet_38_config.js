@@ -1,1 +1,1 @@
-var mnemonic = "blouse life another album cactus soup bronze pizza surround rug behind rally";
+var mnemonic = "swift copy below stumble brass prepare spray inside enable flavor heart reveal";

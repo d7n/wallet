@@ -1,1 +1,1 @@
-var mnemonic = "crop hurt twin upon believe breeze refuse trophy air void blouse slice";
+var mnemonic = "garden oppose quality orange shadow fix famous bid swift thrive ring laptop";

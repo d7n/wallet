@@ -1,1 +1,1 @@
-var mnemonic = "shy easy cute banana indicate cat city much erode snow lounge copper";
+var mnemonic = "cost rebuild ordinary vacuum adjust scrap silent sound short soccer disease marriage";

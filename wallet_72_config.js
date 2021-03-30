@@ -1,1 +1,1 @@
-var mnemonic = "casual edge bone ski process pumpkin spray recipe satisfy deal flee any";
+var mnemonic = "benefit tortoise deputy victory barely winter multiply mango ask elite bean monkey";

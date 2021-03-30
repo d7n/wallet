@@ -1,1 +1,1 @@
-var mnemonic = "echo gate blossom uncle mammal oxygen trouble file poverty grace make educate";
+var mnemonic = "flee venue stamp salute adjust future school budget grab warfare employ super";

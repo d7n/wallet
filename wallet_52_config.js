@@ -1,1 +1,1 @@
-var mnemonic = "habit try spot sunset caught fever giraffe second season evidence gallery explain";
+var mnemonic = "twice example also special law nerve void medal stuff tip fall staff";

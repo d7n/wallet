@@ -1,1 +1,1 @@
-var mnemonic = "unable mammal fade sing nation quote flavor love because result will stomach";
+var mnemonic = "permit elder indicate leg garage raven test render curious clever they gift";

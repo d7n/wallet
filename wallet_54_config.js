@@ -1,1 +1,1 @@
-var mnemonic = "thing drive cool harsh afraid venture demise canoe wave swarm desert recipe";
+var mnemonic = "flame equip seed pass midnight rate little vague miracle ability dance warm";

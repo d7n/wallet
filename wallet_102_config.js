@@ -1,1 +1,1 @@
-var mnemonic = "diary grant bar grass hour sniff strike panel reopen calm fetch foil";
+var mnemonic = "stick vocal fatal surge share join universe wash salon choose image indoor";

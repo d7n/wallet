@@ -1,1 +1,1 @@
-var mnemonic = "blood shop subway margin suffer panic sheriff domain coin produce potato dish";
+var mnemonic = "betray share must include repeat dream truth heart hair divorce few eye";

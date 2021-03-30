@@ -1,1 +1,1 @@
-var mnemonic = "bike walk purpose decide accuse base success ecology vague knee caught cost";
+var mnemonic = "upset equip assist guitar lobster isolate wash royal degree gate safe uphold";

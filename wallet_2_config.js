@@ -1,1 +1,1 @@
-var mnemonic = "spice camera hedgehog receive measure prize spell turkey average wisdom unfair decorate";
+var mnemonic = "pond develop chicken inform garbage genuine theory egg kind fox private mango";

@@ -1,1 +1,1 @@
-var mnemonic = "tape what dignity diary kite rally awesome duck divorce auction pool height";
+var mnemonic = "cabbage tooth cluster during island crouch system brisk marriage guard snap soon";

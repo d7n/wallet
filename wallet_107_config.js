@@ -1,1 +1,1 @@
-var mnemonic = "runway margin scale engage defense neutral faculty identify moral embody divide axis";
+var mnemonic = "aware cost very cost task kind spend seminar festival slide circle humble";

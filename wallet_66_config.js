@@ -1,1 +1,1 @@
-var mnemonic = "equal custom attend depend custom approve unit burst noodle option solid night";
+var mnemonic = "spoil affair cry abuse club lamp economy require fringe gap shed person";

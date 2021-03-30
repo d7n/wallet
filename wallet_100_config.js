@@ -1,1 +1,1 @@
-var mnemonic = "emotion acid essay media razor clinic luxury shrimp link industry buzz great";
+var mnemonic = "practice believe easy list trust lend circle rabbit crater furnace pudding slot";

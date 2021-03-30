@@ -1,1 +1,1 @@
-var mnemonic = "video inner pattern scout double night ankle deal salmon coil expect sport";
+var mnemonic = "error silent develop diagram usual silent decide develop risk oblige robust destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "snap front above learn grunt clock diesel knife grain vibrant body subject";
+var mnemonic = "cute fly gauge garden elite desert unit joy rigid private account wall";

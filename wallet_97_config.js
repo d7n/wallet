@@ -1,1 +1,1 @@
-var mnemonic = "old awkward plunge expose sun enforce welcome panic exhaust mean blind uncle";
+var mnemonic = "peanut night junior orange home loud crazy carbon then taxi actor perfect";

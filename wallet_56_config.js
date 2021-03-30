@@ -1,1 +1,1 @@
-var mnemonic = "bullet syrup pizza tragic novel cement panther style correct brand midnight style";
+var mnemonic = "coast swallow resemble image logic say tennis sad wise unaware hope cotton";

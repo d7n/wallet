@@ -1,1 +1,1 @@
-var mnemonic = "rich cradle rare random dry chest cement alert cherry visit jar humor";
+var mnemonic = "more trip busy describe outdoor enact arch apple mother supply main enroll";

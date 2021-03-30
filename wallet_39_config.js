@@ -1,1 +1,1 @@
-var mnemonic = "lawn click short private found place symbol deny cream wheat gadget head";
+var mnemonic = "normal desert feel goose believe man mobile depth fan disagree member useful";

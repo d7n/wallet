@@ -1,1 +1,1 @@
-var mnemonic = "receive subway fence evoke reunion wave fun noise iron utility spoil rib";
+var mnemonic = "bamboo salmon supreme consider blur auto guilt cherry tone knife reflect record";

@@ -1,1 +1,1 @@
-var mnemonic = "improve gesture decrease faculty section where chat small oval tray spirit install";
+var mnemonic = "repeat rival ball dad increase split number also gadget grief around mimic";

@@ -1,1 +1,1 @@
-var mnemonic = "wink again under coyote today van describe sorry print enemy giggle clip";
+var mnemonic = "march phrase little like negative creek bread slice ski square surface sick";

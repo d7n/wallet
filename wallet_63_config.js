@@ -1,1 +1,1 @@
-var mnemonic = "celery goat buyer remind consider render top slow clog daughter belt whisper";
+var mnemonic = "industry unknown firm monitor disagree dad attend cause frame news catalog busy";

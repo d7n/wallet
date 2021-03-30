@@ -1,1 +1,1 @@
-var mnemonic = "clinic clay raw scheme cabbage fine evolve pipe always zero soda maple";
+var mnemonic = "slush wait pink almost old comic fun length athlete achieve easily dog";

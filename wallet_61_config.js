@@ -1,1 +1,1 @@
-var mnemonic = "key educate hair spy reason slush kid leaf stick lava awake key";
+var mnemonic = "victory physical chicken mean mobile practice hurt round again wheat direct salad";

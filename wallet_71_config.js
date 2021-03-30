@@ -1,1 +1,1 @@
-var mnemonic = "double mistake swear follow impose curve middle act deposit dirt crack phone";
+var mnemonic = "upper industry birth asset burst civil account crucial black render elephant razor";

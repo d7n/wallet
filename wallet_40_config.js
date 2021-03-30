@@ -1,1 +1,1 @@
-var mnemonic = "tired digital drama solution feed resist outdoor royal view combine rigid remain";
+var mnemonic = "fork feel leader output pulp cube okay chaos bulk style omit token";

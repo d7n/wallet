@@ -1,1 +1,1 @@
-var mnemonic = "void thunder parade mask save dismiss flip sketch boy test digital setup";
+var mnemonic = "name razor link jewel asthma awkward million help six winter build cable";

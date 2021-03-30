@@ -1,1 +1,1 @@
-var mnemonic = "supreme refuse select jealous dignity attack profit tonight simple anger screen ability";
+var mnemonic = "route decide thrive wall lobster forum barrel sample nominee goose property vault";

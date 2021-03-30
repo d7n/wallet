@@ -1,1 +1,1 @@
-var mnemonic = "dignity legal canoe choose piece hover cluster impact skill live sugar vibrant";
+var mnemonic = "chalk relax feed glow minor step honey theory stand blur payment jaguar";

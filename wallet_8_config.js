@@ -1,1 +1,1 @@
-var mnemonic = "giggle fiber head sphere park glove exercise space setup parade spread coast";
+var mnemonic = "funny nest mansion exile boil surround indicate nut matrix reopen patrol casino";

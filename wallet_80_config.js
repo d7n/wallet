@@ -1,1 +1,1 @@
-var mnemonic = "unaware truth mercy hospital daring six card tool picnic wealth mercy math";
+var mnemonic = "seminar island oxygen trick original install fly retreat faculty rib fury plug";

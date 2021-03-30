@@ -1,1 +1,1 @@
-var mnemonic = "earth address neither ripple energy south run solve lift present uniform argue";
+var mnemonic = "trial hunt frequent champion clog afraid radio expose fragile sport sorry delay";

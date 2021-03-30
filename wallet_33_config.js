@@ -1,1 +1,1 @@
-var mnemonic = "charge exhaust viable fiber coil crash matrix fun lens wear volume fox";
+var mnemonic = "spring lens radar tip excite federal candy uphold safe wage track pelican";

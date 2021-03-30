@@ -1,1 +1,1 @@
-var mnemonic = "opinion wave trumpet select spring foam monster hurry capital ride ride thunder";
+var mnemonic = "equal derive post funny tattoo stairs subject moral will stomach joy moon";

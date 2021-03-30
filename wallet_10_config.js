@@ -1,1 +1,1 @@
-var mnemonic = "drift fringe brush fine betray test gesture lunar swallow palace olive fruit";
+var mnemonic = "search expand tooth unaware decide myself crystal toast squirrel wait ring code";

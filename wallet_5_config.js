@@ -1,1 +1,1 @@
-var mnemonic = "scan few size path move divert squirrel busy wealth animal install pepper";
+var mnemonic = "other road frozen response oval hotel wealth kitten pencil car era zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "rival share amateur glow defy margin foam text curious remember ladder eager";
+var mnemonic = "good chimney pink language glance river increase memory regret habit shoot illegal";

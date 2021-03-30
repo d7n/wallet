@@ -1,1 +1,1 @@
-var mnemonic = "album inject doll group cricket frog daughter shift blouse fish grass east";
+var mnemonic = "shoulder draw glass bundle video misery oyster seat insane witness butter ecology";

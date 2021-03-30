@@ -1,1 +1,1 @@
-var mnemonic = "pet horror bless combine miracle wasp error half urge inhale burden huge";
+var mnemonic = "gaze swap much stuff divide drama inmate wisdom nut bounce vendor edge";

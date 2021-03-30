@@ -1,1 +1,1 @@
-var mnemonic = "banner humor purpose lottery distance follow motor hire write prize moral conduct";
+var mnemonic = "casual machine trick woman off detail weasel stage nuclear ostrich grain leg";

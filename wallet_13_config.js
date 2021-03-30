@@ -1,1 +1,1 @@
-var mnemonic = "advance give divide mystery demise require doll blast interest elephant decade bar";
+var mnemonic = "boring sound select summer snow trumpet eyebrow major hub foot glare culture";

@@ -1,1 +1,1 @@
-var mnemonic = "bronze music lottery actress salt soap later crop hurt paddle use wrestle";
+var mnemonic = "top person life nest act cancel doll laundry myself sand uncover cross";

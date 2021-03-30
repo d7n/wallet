@@ -1,1 +1,1 @@
-var mnemonic = "robot rifle easy prefer october between claw erosion edge elbow glow approve";
+var mnemonic = "culture horn weather palace dumb clog glide hurt rather spoil poet rookie";

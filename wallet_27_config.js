@@ -1,1 +1,1 @@
-var mnemonic = "scrap sun destroy same critic faint produce oyster property flat warfare denial";
+var mnemonic = "door bone film slogan accident snow height car add close rabbit kitchen";

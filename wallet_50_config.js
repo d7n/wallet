@@ -1,1 +1,1 @@
-var mnemonic = "decorate throw fruit aware settle chapter swamp corn future obtain glide hold";
+var mnemonic = "provide mountain please enlist spatial job arctic jealous coil coffee ivory album";

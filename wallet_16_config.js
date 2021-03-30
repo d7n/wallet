@@ -1,1 +1,1 @@
-var mnemonic = "predict ready top possible defy crunch butter trigger cactus gesture shaft base";
+var mnemonic = "weather typical merge busy merit copy bomb deny opera stadium project veteran";

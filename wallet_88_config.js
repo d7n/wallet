@@ -1,1 +1,1 @@
-var mnemonic = "alter ability index guess virus evidence engine critic tumble what front rural";
+var mnemonic = "buzz yard acid daughter scissors genuine swallow glide calm cloth thrive sphere";

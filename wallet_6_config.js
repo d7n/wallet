@@ -1,1 +1,1 @@
-var mnemonic = "brisk item brother shoulder million jar novel minimum hurdle table oak risk";
+var mnemonic = "arrest fluid online reveal client inspire uncover loop coach horror buddy float";

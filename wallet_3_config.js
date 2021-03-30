@@ -1,1 +1,1 @@
-var mnemonic = "owner color across faculty about warrior glow endorse sauce run movie rifle";
+var mnemonic = "core sea final ritual gospel have foster outside inhale injury blind keep";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit possible fun amazing cake electric load entry risk lazy wild craft";
+var mnemonic = "theory tail flower cannon able submit total sister patrol rice sort gather";

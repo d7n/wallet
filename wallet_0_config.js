@@ -1,1 +1,1 @@
-var mnemonic = "sadness wedding wild shaft relief throw tiger buffalo voice scale hip sting";
+var mnemonic = "throw toy fire task purpose kick bike cross atom gospel cigar search";

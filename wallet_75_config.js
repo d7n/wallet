@@ -1,1 +1,1 @@
-var mnemonic = "lend stock copper cactus finish cluster wrong print fire kitchen where arm";
+var mnemonic = "glad powder fiber medal visa winter wisdom screen chronic topic other yard";

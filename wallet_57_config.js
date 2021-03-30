@@ -1,1 +1,1 @@
-var mnemonic = "evidence library wrap basket sand arch shoulder regular parade thrive worth library";
+var mnemonic = "dinner describe fabric oblige high gain smoke key crisp salt april slot";

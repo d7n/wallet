@@ -1,1 +1,1 @@
-var mnemonic = "casino double sail other square alarm stone stairs spoil unaware accuse appear";
+var mnemonic = "donate behind praise amused trigger digital worth honey theory midnight dove vessel";

@@ -1,1 +1,1 @@
-var mnemonic = "demand fruit leave subway film recall series dinner bring right excite wet";
+var mnemonic = "flock hunt enforce legal dust know frog carpet zebra list energy tired";

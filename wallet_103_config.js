@@ -1,1 +1,1 @@
-var mnemonic = "purpose ceiling sudden input tired random idle true powder spoil obey update";
+var mnemonic = "bamboo exact spoon seminar glance blade shine cool deliver soon knee minute";

@@ -1,1 +1,1 @@
-var mnemonic = "odor furnace method cost hollow ability dad crouch lend sunset copper name";
+var mnemonic = "upgrade traffic verb kiss brother client dolphin much language leaf crawl crack";

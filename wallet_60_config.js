@@ -1,1 +1,1 @@
-var mnemonic = "rhythm trial segment order naive inhale junk mutual bid artist boil still";
+var mnemonic = "eight slight unique unfold that pioneer rain insane else empower lamp health";

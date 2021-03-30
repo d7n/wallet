@@ -1,1 +1,1 @@
-var mnemonic = "grow grain club bachelor baby danger weather large able another city tool";
+var mnemonic = "sight ready smoke master bulk inherit budget prosper raise that iron above";

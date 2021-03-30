@@ -1,1 +1,1 @@
-var mnemonic = "fog tortoise sport rather jazz zone brief flock apple wash egg pond";
+var mnemonic = "tag blanket magnet meat nation edge return lawn ready yard cruise oak";

@@ -1,1 +1,1 @@
-var mnemonic = "speak joy say prefer combine country industry ocean math intact resemble fold";
+var mnemonic = "initial tray stem life key social expand romance witness list wall run";
