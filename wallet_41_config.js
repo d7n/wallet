@@ -1,1 +1,1 @@
-var mnemonic = "poem captain normal fame spin bulb position valid exile immense humble area";
+var mnemonic = "dose eager what pizza soap face pink coconut private same price cause";

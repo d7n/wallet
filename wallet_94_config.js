@@ -1,1 +1,1 @@
-var mnemonic = "water spy fitness supreme legal sphere own place genius long lounge normal";
+var mnemonic = "club pink student silent ball airport animal salt common arctic hole cloth";

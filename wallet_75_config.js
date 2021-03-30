@@ -1,1 +1,1 @@
-var mnemonic = "genre father rifle purse limit crawl refuse cupboard midnight whale smile will";
+var mnemonic = "adjust mouse guitar heavy oak minor else purity nuclear hero bind off";

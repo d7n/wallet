@@ -1,1 +1,1 @@
-var mnemonic = "silly coin crime hundred demise sudden able solve debate village pattern put";
+var mnemonic = "maid tunnel result oak prefer hen photo beef custom arrange tribe easy";

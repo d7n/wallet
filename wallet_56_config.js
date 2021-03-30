@@ -1,1 +1,1 @@
-var mnemonic = "unable intact brown decade vessel stool yellow effort van pumpkin where subject";
+var mnemonic = "celery guard pair genre usual produce gorilla bullet total lizard genius worry";

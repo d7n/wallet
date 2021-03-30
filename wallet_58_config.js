@@ -1,1 +1,1 @@
-var mnemonic = "inch plate good grace trumpet heavy upgrade verify moment vote plunge tired";
+var mnemonic = "decrease admit size caution slot tragic rival eagle excite subject pause kit";

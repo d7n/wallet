@@ -1,1 +1,1 @@
-var mnemonic = "cupboard erase credit elite metal light deny reject sunny peace easy tonight";
+var mnemonic = "cute account rely misery soft bus account circle smooth cradle drastic result";

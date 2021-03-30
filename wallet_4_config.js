@@ -1,1 +1,1 @@
-var mnemonic = "emotion together silver world turkey forest grape silk wolf dawn auto gauge";
+var mnemonic = "alley beach rich captain attract curious matrix leopard real urban differ rich";

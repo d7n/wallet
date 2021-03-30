@@ -1,1 +1,1 @@
-var mnemonic = "prefer fade height father surface egg faith wolf pause adult novel anchor";
+var mnemonic = "upset finish wait furnace decorate need body bubble apology badge skirt define";

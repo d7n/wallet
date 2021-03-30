@@ -1,1 +1,1 @@
-var mnemonic = "strategy piano nature improve assault dinner remember arrow govern industry radar place";
+var mnemonic = "ocean imitate all portion decorate shell select mom hurdle bamboo track much";

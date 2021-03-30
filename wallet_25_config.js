@@ -1,1 +1,1 @@
-var mnemonic = "always lounge slender ketchup initial slow execute layer elbow gasp chimney cash";
+var mnemonic = "vital purchase lava depend dentist pipe comic animal okay provide wrong riot";

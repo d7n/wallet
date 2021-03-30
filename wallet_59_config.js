@@ -1,1 +1,1 @@
-var mnemonic = "food critic fence harsh divide time flat quiz window help speed idle";
+var mnemonic = "style apart correct speak joy ability fade audit solve okay sail alert";

@@ -1,1 +1,1 @@
-var mnemonic = "offer delay erase worry excuse robot below view senior also bread circle";
+var mnemonic = "relax outdoor fabric diary potato tired toe update define bar write swim";

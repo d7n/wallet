@@ -1,1 +1,1 @@
-var mnemonic = "salon decade agree injury best wash rifle crew warfare afraid hat material";
+var mnemonic = "often book two excuse leader aspect pony cup crouch minimum frame typical";

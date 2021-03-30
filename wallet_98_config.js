@@ -1,1 +1,1 @@
-var mnemonic = "urge buzz latin giggle country bargain stomach adjust inhale crop shrug olive";
+var mnemonic = "setup hockey funny barely annual army escape sick suspect explain earn purity";

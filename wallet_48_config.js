@@ -1,1 +1,1 @@
-var mnemonic = "slim alert trophy certain spoil upper general girl praise fold speak cake";
+var mnemonic = "copy cram real moon floor purpose name merge vague still fire reason";

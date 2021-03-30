@@ -1,1 +1,1 @@
-var mnemonic = "pilot salt again approve renew bunker warrior veteran loop wonder goat opinion";
+var mnemonic = "invite drama knife fly move shove sentence ordinary december lift wet endorse";

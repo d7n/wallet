@@ -1,1 +1,1 @@
-var mnemonic = "ladder runway candy slab hawk milk amazing castle arrow already liberty syrup";
+var mnemonic = "pair endorse palm atom prevent syrup olympic plunge path guard track isolate";

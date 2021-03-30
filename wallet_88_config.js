@@ -1,1 +1,1 @@
-var mnemonic = "health flavor senior green erase water increase popular pluck sad salon leader";
+var mnemonic = "jump father august crack heavy boost warrior choose churn wrist stomach cart";

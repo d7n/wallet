@@ -1,1 +1,1 @@
-var mnemonic = "swallow analyst good bulk metal shadow focus drink because trip genius morning";
+var mnemonic = "limb oval metal moon silent company satisfy spirit program survey pride copper";

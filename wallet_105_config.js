@@ -1,1 +1,1 @@
-var mnemonic = "village design light grow able arm equip winner surface caution keen person";
+var mnemonic = "fog unveil parade journey retire strong collect differ capable sleep dawn scare";

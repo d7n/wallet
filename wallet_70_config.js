@@ -1,1 +1,1 @@
-var mnemonic = "grunt comfort essence feature program number nasty three system adult glass winter";
+var mnemonic = "wait casual nominee aunt garment hotel finger bright again laptop invite bicycle";

@@ -1,1 +1,1 @@
-var mnemonic = "silk develop unveil dream science essay guard undo audit fantasy stumble denial";
+var mnemonic = "connect baby bridge vague finish fever main zero cat dove ritual exhibit";

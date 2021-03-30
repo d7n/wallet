@@ -1,1 +1,1 @@
-var mnemonic = "foster salute floor float pause scene forest solution decade congress isolate cook";
+var mnemonic = "among scheme lecture few devote kit kind film visit mule ordinary slice";

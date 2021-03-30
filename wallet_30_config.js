@@ -1,1 +1,1 @@
-var mnemonic = "situate loan palm demand salute gas elbow pear tuna client spin cross";
+var mnemonic = "hello mercy hurt raw whale oppose accident session boil disagree photo citizen";

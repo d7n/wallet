@@ -1,1 +1,1 @@
-var mnemonic = "secret snap clever bicycle message crucial retire game game unknown plate label";
+var mnemonic = "predict there smoke glare panda satisfy mule egg indoor notice another end";

@@ -1,1 +1,1 @@
-var mnemonic = "crater vast immense hedgehog grocery tower olive frame tomorrow example bar orient";
+var mnemonic = "despair omit law orbit ship moon pond road friend review penalty know";

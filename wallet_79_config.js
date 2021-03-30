@@ -1,1 +1,1 @@
-var mnemonic = "retire weapon flower book mandate roof place ski spatial torch view slice";
+var mnemonic = "example hazard sunny actor hawk main noise stick save token access umbrella";

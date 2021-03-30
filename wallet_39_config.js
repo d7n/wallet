@@ -1,1 +1,1 @@
-var mnemonic = "frown weapon horn mom nature bind since only trumpet romance screen congress";
+var mnemonic = "cabbage gallery road lamp hip fall basic paper travel print much peace";

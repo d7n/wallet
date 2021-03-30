@@ -1,1 +1,1 @@
-var mnemonic = "render cattle okay tunnel rubber mandate sentence vendor resist castle visit dust";
+var mnemonic = "keen van cage drama defense token scout daughter social annual insane trust";

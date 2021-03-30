@@ -1,1 +1,1 @@
-var mnemonic = "riot crush divorce friend river useful boring forum clutch child erupt grace";
+var mnemonic = "jaguar erosion lock power clump salt cry object ketchup card crowd cool";

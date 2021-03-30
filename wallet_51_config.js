@@ -1,1 +1,1 @@
-var mnemonic = "goddess huge finger van lizard audit march destroy blush video swear stove";
+var mnemonic = "ribbon veteran impose report shy ranch ketchup vivid increase giraffe circle resource";

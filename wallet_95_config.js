@@ -1,1 +1,1 @@
-var mnemonic = "bar wagon grass excite flavor unhappy mobile dose lift fossil shrimp patch";
+var mnemonic = "crucial sure kiss version type venture rocket gentle town use gorilla humor";

@@ -1,1 +1,1 @@
-var mnemonic = "purpose stool tower crisp state reject sadness exit wear pig shy drip";
+var mnemonic = "diamond hollow embark exotic bunker frog help drink second awkward undo addict";

@@ -1,1 +1,1 @@
-var mnemonic = "maximum tell box sure time magnet proof series accident fame alert pencil";
+var mnemonic = "old grass leader nominee cash safe release uniform wine zone cluster vacuum";

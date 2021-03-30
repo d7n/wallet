@@ -1,1 +1,1 @@
-var mnemonic = "wreck decorate scene exercise rich truck inhale extend narrow help buffalo educate";
+var mnemonic = "utility ride gloom mad practice sponsor flower pottery favorite mosquito violin pizza";

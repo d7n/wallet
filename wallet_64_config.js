@@ -1,1 +1,1 @@
-var mnemonic = "street capable decorate stick owner enforce plug shell room struggle snake erupt";
+var mnemonic = "pitch ankle kind ramp arrest limit twelve input orbit daughter enable trial";

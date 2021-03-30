@@ -1,1 +1,1 @@
-var mnemonic = "toss verify loyal survey portion wear give dog iron potato escape promote";
+var mnemonic = "safe romance matrix clay marine nice valve sugar correct bench damage mango";

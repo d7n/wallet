@@ -1,1 +1,1 @@
-var mnemonic = "return case deposit awkward addict away skill remove random miracle deer agent";
+var mnemonic = "income option kitten crack rigid shy time industry walnut code ketchup urban";

@@ -1,1 +1,1 @@
-var mnemonic = "december mobile siren special actress black truly derive comfort tell remind virus";
+var mnemonic = "cupboard okay elbow brave peanut vendor pledge resist early caution retire pair";

@@ -1,1 +1,1 @@
-var mnemonic = "exotic cluster exclude melt math chuckle fringe idea latin proud antenna oyster";
+var mnemonic = "enjoy glide loan kind range fish jaguar mushroom disease also people canvas";

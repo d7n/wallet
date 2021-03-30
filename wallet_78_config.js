@@ -1,1 +1,1 @@
-var mnemonic = "ketchup attack donate program admit again bone quarter another omit hand rose";
+var mnemonic = "cargo indicate arrive load donate crazy toddler impose wide danger lock bulb";

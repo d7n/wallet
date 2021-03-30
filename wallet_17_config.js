@@ -1,1 +1,1 @@
-var mnemonic = "guess struggle culture submit matrix they taste cat step analyst era hundred";
+var mnemonic = "rigid amateur acoustic toe point list term immense reform green kiss demise";

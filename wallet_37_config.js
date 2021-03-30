@@ -1,1 +1,1 @@
-var mnemonic = "zero label ability chaos spare edit violin possible magnet try time party";
+var mnemonic = "code bargain buddy pigeon false elephant word casino question sport sibling volcano";

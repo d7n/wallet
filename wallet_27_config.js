@@ -1,1 +1,1 @@
-var mnemonic = "tissue lesson material stuff lawsuit forward symbol dentist drive february season tank";
+var mnemonic = "deal bomb alert bomb car ozone stuff become identify mule path same";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby practice door butter vacant food coin century sugar curious permit valley";
+var mnemonic = "speak attitude mobile pole ice slow shaft monster awesome trap giant pig";

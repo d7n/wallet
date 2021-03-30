@@ -1,1 +1,1 @@
-var mnemonic = "palace double clever sorry adapt eagle enter uncover ordinary rare silent fan";
+var mnemonic = "animal modify noodle sand canoe thing audit camp snack pull sphere bomb";

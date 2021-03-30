@@ -1,1 +1,1 @@
-var mnemonic = "under glad blue work weasel alcohol retreat project receive half hand helmet";
+var mnemonic = "idea wink buffalo voyage soap become shuffle keep glass brave fatigue phone";

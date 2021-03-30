@@ -1,1 +1,1 @@
-var mnemonic = "fury crystal slogan attend scatter column twenty horror nation tornado fitness giant";
+var mnemonic = "copper canyon episode silent key state convince rigid fame legend put fit";

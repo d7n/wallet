@@ -1,1 +1,1 @@
-var mnemonic = "novel rose pioneer churn car shield nation diamond mind cloud move urge";
+var mnemonic = "pear copper huge depart stumble outdoor battle fossil country glimpse scheme clutch";

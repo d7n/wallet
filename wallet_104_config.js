@@ -1,1 +1,1 @@
-var mnemonic = "poem assault wagon accuse park wool shuffle fitness surge world put toast";
+var mnemonic = "impose produce wait mule cousin thank motor foster gravity talk chunk forget";

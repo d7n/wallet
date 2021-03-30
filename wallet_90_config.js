@@ -1,1 +1,1 @@
-var mnemonic = "tiny size crater catch alcohol erupt video fade salad spin video random";
+var mnemonic = "inform addict accident bone odor science screen engage recipe clever fever have";

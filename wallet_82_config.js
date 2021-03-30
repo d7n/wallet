@@ -1,1 +1,1 @@
-var mnemonic = "arctic sand future reopen test ankle bus spoon rely message nothing huge";
+var mnemonic = "time hobby swing heavy chat reopen hungry belt local consider guard author";

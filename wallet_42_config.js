@@ -1,1 +1,1 @@
-var mnemonic = "easily taste drip latin they mind key early champion old primary point";
+var mnemonic = "sister make couch egg morning oblige noodle wisdom claim gossip unusual shuffle";

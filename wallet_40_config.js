@@ -1,1 +1,1 @@
-var mnemonic = "include estate used expire heavy fold delay bleak device luggage harvest expire";
+var mnemonic = "green van valley eight afraid wide throw dream funny clump bronze rotate";

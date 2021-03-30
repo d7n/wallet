@@ -1,1 +1,1 @@
-var mnemonic = "peanut hover usage usual early auto tag marble wisdom priority twelve sand";
+var mnemonic = "fossil panda chat predict answer increase absent figure divert fog tortoise order";

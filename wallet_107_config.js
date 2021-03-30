@@ -1,1 +1,1 @@
-var mnemonic = "peace chalk nerve dish amateur artefact duck purity mad display spoon craft";
+var mnemonic = "security entire shove avocado crush size salute kind piece shock reason minimum";

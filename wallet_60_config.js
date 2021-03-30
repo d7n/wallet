@@ -1,1 +1,1 @@
-var mnemonic = "together slow glide nature moon fall sausage decrease twice mixed hungry topple";
+var mnemonic = "old trade chief ethics gravity flat double common diagram pluck wrong awesome";

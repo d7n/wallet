@@ -1,1 +1,1 @@
-var mnemonic = "siege alley hen pipe hat law canal across forward genius survey ride";
+var mnemonic = "float pistol kitten candy hello symbol escape nominee album master blanket motor";

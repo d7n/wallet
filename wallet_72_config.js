@@ -1,1 +1,1 @@
-var mnemonic = "fancy lion puzzle arrive puzzle dilemma sniff shoulder subway suit eagle door";
+var mnemonic = "humor ozone rather large scan theme repair interest gaze pumpkin purchase stomach";

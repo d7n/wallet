@@ -1,1 +1,1 @@
-var mnemonic = "visual option meadow issue wing orient sibling effort panda attitude board benefit";
+var mnemonic = "crouch asset biology valve soft ugly easily noise size extra rely anxiety";

@@ -1,1 +1,1 @@
-var mnemonic = "foster essence baby hazard divert pipe kitchen exchange first liberty mobile mule";
+var mnemonic = "math faculty trouble run shrimp journey boy ball mimic swim eye prison";

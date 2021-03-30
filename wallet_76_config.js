@@ -1,1 +1,1 @@
-var mnemonic = "asthma glow seed service valid hurdle bind violin stock someone note naive";
+var mnemonic = "print keep cradle play neck monitor print daring meadow bring soft clarify";

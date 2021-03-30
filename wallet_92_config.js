@@ -1,1 +1,1 @@
-var mnemonic = "chase venue hotel level upgrade discover season insane license flash venture oval";
+var mnemonic = "rain peanut loyal accuse ritual pottery shy twice utility tired humor they";

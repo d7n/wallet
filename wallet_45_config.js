@@ -1,1 +1,1 @@
-var mnemonic = "volume hurdle climb soft toddler detail oblige profit useful vendor question violin";
+var mnemonic = "choose festival hat mirror recall diagram chronic area quick eyebrow wear firm";

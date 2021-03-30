@@ -1,1 +1,1 @@
-var mnemonic = "curve gauge winner balcony address member chunk faculty bottom desert term ignore";
+var mnemonic = "spend salute one tobacco catalog dutch coil taxi roast sustain torch rabbit";

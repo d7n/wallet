@@ -1,1 +1,1 @@
-var mnemonic = "citizen strike rib proof like expand miss mercy reveal cool segment sweet";
+var mnemonic = "grain black deny pattern boy basket federal else twice rookie hip decorate";

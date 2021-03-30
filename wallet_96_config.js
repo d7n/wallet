@@ -1,1 +1,1 @@
-var mnemonic = "poem cruel copy wagon upon crop doll bid wing alone window private";
+var mnemonic = "hen copper table surround sausage cactus behind order music secret exit teach";

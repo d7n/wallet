@@ -1,1 +1,1 @@
-var mnemonic = "enough bottom holiday fall appear laundry damp expect intact right abuse gun";
+var mnemonic = "tackle auto brisk brisk design shop unfair useful symptom rough virus delay";

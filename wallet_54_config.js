@@ -1,1 +1,1 @@
-var mnemonic = "chicken slush sample mouse cinnamon opera injury feel entire void make enjoy";
+var mnemonic = "exercise girl canvas click write snack limb exist enough deputy coral alien";

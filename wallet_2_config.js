@@ -1,1 +1,1 @@
-var mnemonic = "vivid swim patient author rich anxiety tree convince that dawn vocal clog";
+var mnemonic = "humble exist artwork grunt visual list renew walk music kit ancient hockey";

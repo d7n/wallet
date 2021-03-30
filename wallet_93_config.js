@@ -1,1 +1,1 @@
-var mnemonic = "aim gaze under sword cloth siege recipe celery junior sick debris distance";
+var mnemonic = "tribe nasty quantum elbow witness protect real trick gadget home whale olympic";

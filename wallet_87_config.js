@@ -1,1 +1,1 @@
-var mnemonic = "route lemon orphan jeans south letter vehicle feed dose include silent pig";
+var mnemonic = "april tortoise shrug staff mango seat furnace phone dry black public ridge";

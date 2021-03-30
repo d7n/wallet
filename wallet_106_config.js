@@ -1,1 +1,1 @@
-var mnemonic = "simple screen project youth ghost jungle very major congress endorse people write";
+var mnemonic = "danger wonder away relief will term second route recycle clarify fan fall";

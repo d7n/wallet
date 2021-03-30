@@ -1,1 +1,1 @@
-var mnemonic = "street antenna puppy reason diamond piece method bitter under harbor receive wonder";
+var mnemonic = "gun hello bronze barely front invite hello brain zoo ghost detect bus";

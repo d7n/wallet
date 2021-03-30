@@ -1,1 +1,1 @@
-var mnemonic = "kingdom satisfy silent arctic example club motion diet grocery album tribe artwork";
+var mnemonic = "jelly middle inmate fence ridge chef detail lamp valley onion violin uncover";

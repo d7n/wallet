@@ -1,1 +1,1 @@
-var mnemonic = "claw diet speak ignore myth castle lava baby goose dirt apology castle";
+var mnemonic = "hole draw forward divide coach gather current embark piece blast cancel tunnel";

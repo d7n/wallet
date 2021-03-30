@@ -1,1 +1,1 @@
-var mnemonic = "high answer aware sibling nose hawk will soccer team repair habit swear";
+var mnemonic = "enough nephew barely holiday gap century broom riot plunge cloud moral business";

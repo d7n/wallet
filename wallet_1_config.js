@@ -1,1 +1,1 @@
-var mnemonic = "bright genre inside they stand comic clutch hazard audit erosion corn borrow";
+var mnemonic = "jazz foil pudding topic rigid sting receive crawl magic improve trouble asthma";

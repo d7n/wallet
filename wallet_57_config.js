@@ -1,1 +1,1 @@
-var mnemonic = "ethics enrich capital orbit odor half wash tortoise resource family south typical";
+var mnemonic = "portion fiction bulk sketch identify baby youth address fiber desert actress fringe";

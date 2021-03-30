@@ -1,1 +1,1 @@
-var mnemonic = "amazing deer guilt aspect capital diamond trash direct wine hill minor also";
+var mnemonic = "run battle wrist nut damage merry world sand shoulder approve unique rural";

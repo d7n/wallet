@@ -1,1 +1,1 @@
-var mnemonic = "trip figure satoshi atom peace hedgehog depth negative rich under rival govern";
+var mnemonic = "knee spice submit awkward limit waste enable honey science invest fancy leisure";

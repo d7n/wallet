@@ -1,1 +1,1 @@
-var mnemonic = "polar easily sunset depth simple round office document blouse win gravity result";
+var mnemonic = "actor slim soldier whisper mansion hint grass prevent zoo carry marriage sing";

@@ -1,1 +1,1 @@
-var mnemonic = "soup globe spoil horror phrase outside session lecture merge element fire endless";
+var mnemonic = "cash kiss general absorb scissors allow gun paper recycle chapter ball man";

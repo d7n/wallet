@@ -1,1 +1,1 @@
-var mnemonic = "sunset true system erase inhale robot window great radar cliff empower connect";
+var mnemonic = "nasty burst age elevator depend craft slender panic soul require obey employ";

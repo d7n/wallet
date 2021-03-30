@@ -1,1 +1,1 @@
-var mnemonic = "meadow weekend remind heavy fog credit sense element grocery enroll baby shove";
+var mnemonic = "brass drink pumpkin curious used treat witness response toy match hub message";

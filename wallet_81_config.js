@@ -1,1 +1,1 @@
-var mnemonic = "tunnel arrive ribbon cruise fun impulse book mirror come immense elbow cabin";
+var mnemonic = "museum country sun throw cousin weekend piece flush host stone grain stick";

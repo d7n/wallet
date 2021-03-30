@@ -1,1 +1,1 @@
-var mnemonic = "assist mansion sniff sibling speak wrong champion believe rack coach half whale";
+var mnemonic = "mass message canal remove rose note side sleep buzz exile denial merry";

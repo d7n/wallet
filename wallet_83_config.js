@@ -1,1 +1,1 @@
-var mnemonic = "metal insect found peasant rice stay october club point gate bunker employ";
+var mnemonic = "spend load mask subway this knock portion govern thought diagram chief nose";

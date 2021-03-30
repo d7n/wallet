@@ -1,1 +1,1 @@
-var mnemonic = "awkward hollow category display apart view small supply organ motor this avoid";
+var mnemonic = "general office atom glass inmate veteran film feel flock brown afford multiply";

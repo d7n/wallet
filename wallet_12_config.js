@@ -1,1 +1,1 @@
-var mnemonic = "absorb clever weasel found elevator armed gravity shaft supply ripple erode forward";
+var mnemonic = "concert bridge stomach rebuild fetch asthma diamond fault vote shrimp demand join";

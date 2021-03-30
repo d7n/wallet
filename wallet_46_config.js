@@ -1,1 +1,1 @@
-var mnemonic = "ordinary convince own pyramid else crumble harvest lottery initial sorry friend remember";
+var mnemonic = "artefact bless valley prison chimney artefact game chuckle benefit inflict appear guilt";

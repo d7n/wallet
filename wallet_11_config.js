@@ -1,1 +1,1 @@
-var mnemonic = "dice tent reduce shoot venue ordinary large chef razor rely emotion garbage";
+var mnemonic = "card spin grief eyebrow supply brave combine end tattoo core resource select";
