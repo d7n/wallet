@@ -1,1 +1,1 @@
-var mnemonic = "pass nuclear please math travel office elbow drift shine pioneer whale shrimp";
+var mnemonic = "truck battle wine require wish cram inquiry earn cute chuckle permit bracket";

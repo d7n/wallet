@@ -1,1 +1,1 @@
-var mnemonic = "success vehicle elder inspire obscure sand process tumble hybrid nothing reject witness";
+var mnemonic = "clarify soda night video wonder fire economy gadget crush virtual wheel world";

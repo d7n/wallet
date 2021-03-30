@@ -1,1 +1,1 @@
-var mnemonic = "choice drive seven brief inquiry fever donkey art artist fury mechanic behind";
+var mnemonic = "old govern burden discover round ability flame warfare yard tongue defy nephew";

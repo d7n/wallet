@@ -1,1 +1,1 @@
-var mnemonic = "when fatigue virtual rather base foot purpose trap fragile wear meadow liar";
+var mnemonic = "spray embrace artwork flower usual possible fringe lecture short zebra zebra engage";

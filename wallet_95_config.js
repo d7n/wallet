@@ -1,1 +1,1 @@
-var mnemonic = "turkey limb federal country feature regret tunnel either attitude champion flag fiction";
+var mnemonic = "loud man travel frown category able eyebrow peace flat small wolf room";

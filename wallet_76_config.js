@@ -1,1 +1,1 @@
-var mnemonic = "desert citizen pole holiday regret random balcony cupboard few monster napkin mixed";
+var mnemonic = "crunch wisdom tree expire below smart excite december certain symbol forum street";

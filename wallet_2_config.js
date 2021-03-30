@@ -1,1 +1,1 @@
-var mnemonic = "cover fever rival sand fuel shrimp public bicycle midnight margin chair sail";
+var mnemonic = "brain proud rule color display world lava mouse quit neutral camp sense";

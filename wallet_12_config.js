@@ -1,1 +1,1 @@
-var mnemonic = "plunge ketchup tiny resemble drill reason normal atom tumble rotate alcohol piece";
+var mnemonic = "what bubble gorilla wedding toss risk daring torch own twist defy saddle";

@@ -1,1 +1,1 @@
-var mnemonic = "august animal slender unknown gain wall diamond wool deputy draft shoe upon";
+var mnemonic = "habit size butter acoustic bachelor evoke winter guilt pistol casual occur remind";

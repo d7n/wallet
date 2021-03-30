@@ -1,1 +1,1 @@
-var mnemonic = "today iron scheme peasant add drift nominee vendor slab enemy trouble expire";
+var mnemonic = "rose human income decade draw horror grain vessel pioneer peace video caution";

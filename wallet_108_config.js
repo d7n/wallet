@@ -1,1 +1,1 @@
-var mnemonic = "cricket two client diet major accident leisure comfort breeze unveil boy boat";
+var mnemonic = "quantum fence filter veteran thank mean buyer fever spot vintage ribbon confirm";

@@ -1,1 +1,1 @@
-var mnemonic = "extend reform rocket zone soul blanket skill tortoise wage scrap short fish";
+var mnemonic = "toast ask limit fetch hire sun seminar boss breeze glimpse tomorrow gain";

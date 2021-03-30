@@ -1,1 +1,1 @@
-var mnemonic = "gas recycle person suit six lumber assume swap six annual gate retire";
+var mnemonic = "uncover soccer fork supply away answer action eager noise cry noise level";

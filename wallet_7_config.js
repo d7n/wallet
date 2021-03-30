@@ -1,1 +1,1 @@
-var mnemonic = "swing sun garage hamster letter usage input give prefer clean clarify notice";
+var mnemonic = "island family spirit regular food tongue fog pink forget control wink promote";

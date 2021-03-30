@@ -1,1 +1,1 @@
-var mnemonic = "manage pyramid train vague isolate else beauty sample royal victory aisle sand";
+var mnemonic = "agent sibling identify name today mushroom inform chase claw mistake document sunset";

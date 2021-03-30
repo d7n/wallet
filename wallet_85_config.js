@@ -1,1 +1,1 @@
-var mnemonic = "demand marble salt legend involve banana crush upset celery coil bacon audit";
+var mnemonic = "prosper badge motion shaft diet release rebel alert monkey spawn uphold item";

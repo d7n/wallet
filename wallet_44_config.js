@@ -1,1 +1,1 @@
-var mnemonic = "save page drop siege rocket firm chaos pipe shoot pistol fiscal loyal";
+var mnemonic = "script purse control pulp impulse stay gift retire observe kid still write";

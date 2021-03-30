@@ -1,1 +1,1 @@
-var mnemonic = "search taste adult usual truth then blush off stumble snap fiber cement";
+var mnemonic = "island forum thunder fee cash coin shop dove umbrella require decade powder";

@@ -1,1 +1,1 @@
-var mnemonic = "health warm finger canvas drink circle direct route announce steak basket squeeze";
+var mnemonic = "lab engine argue pizza humble boil frost only grass exercise affair replace";

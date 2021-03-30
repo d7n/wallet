@@ -1,1 +1,1 @@
-var mnemonic = "filter cricket consider deer same turtle deliver vocal pipe nation corn onion";
+var mnemonic = "main exile brown pupil biology pig organ brief mule have language duck";

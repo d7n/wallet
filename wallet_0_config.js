@@ -1,1 +1,1 @@
-var mnemonic = "novel spatial typical close balance weasel gas web finish winner pizza brisk";
+var mnemonic = "exit arrange flat tail lawn aerobic warrior video worth crop object peace";

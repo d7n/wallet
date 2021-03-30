@@ -1,1 +1,1 @@
-var mnemonic = "cushion salute gaze party brave sudden ability demise gesture year alien tongue";
+var mnemonic = "kiwi business cute amateur begin figure crucial shoulder vehicle ocean bridge certain";

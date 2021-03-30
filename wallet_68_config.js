@@ -1,1 +1,1 @@
-var mnemonic = "poem pretty project enemy make thumb tunnel drip cancel code clay emerge";
+var mnemonic = "winner evoke online snow dawn large foster alpha icon regular panther open";

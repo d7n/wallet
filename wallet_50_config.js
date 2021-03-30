@@ -1,1 +1,1 @@
-var mnemonic = "rent dune bronze hockey immense absurd fiscal gauge month spell shell sort";
+var mnemonic = "crunch razor rotate transfer melt wrist legal fee suit exotic setup payment";

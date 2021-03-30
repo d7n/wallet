@@ -1,1 +1,1 @@
-var mnemonic = "rival leader reward sauce obtain quote speak resemble jaguar topic book private";
+var mnemonic = "charge bus else argue give fiscal deposit idle crowd aerobic trouble steel";

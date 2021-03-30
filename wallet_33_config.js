@@ -1,1 +1,1 @@
-var mnemonic = "lunch dose dad sunset whip frost myself motion reopen hair flip move";
+var mnemonic = "gate stable hawk half hard decline sure try virtual tent attack group";

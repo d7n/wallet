@@ -1,1 +1,1 @@
-var mnemonic = "good member filter social mirror van chuckle remind jazz icon enemy double";
+var mnemonic = "under trust hood test please sad oven alcohol mad skull column steak";

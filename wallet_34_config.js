@@ -1,1 +1,1 @@
-var mnemonic = "earn moon enact rescue behave wife expire reopen napkin way network fence";
+var mnemonic = "fly diesel survey chest afraid immune collect dream hammer roast assault book";

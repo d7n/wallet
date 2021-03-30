@@ -1,1 +1,1 @@
-var mnemonic = "poem moment hope organ desk wood toe satisfy lizard swarm vacuum drop";
+var mnemonic = "faith coral birth corn jealous family clump metal flight into portion traffic";

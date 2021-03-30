@@ -1,1 +1,1 @@
-var mnemonic = "magnet often regular glass refuse rather camp treat guard skull bachelor guess";
+var mnemonic = "airport gravity novel laptop teach casual quantum oblige segment energy antique alley";

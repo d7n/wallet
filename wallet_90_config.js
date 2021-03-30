@@ -1,1 +1,1 @@
-var mnemonic = "broken giant base glory math task method frozen monitor invite giant pave";
+var mnemonic = "infant false camera arena hip arctic tattoo only body estate stay add";

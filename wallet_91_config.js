@@ -1,1 +1,1 @@
-var mnemonic = "crouch nerve useless april grunt monitor laptop damp dynamic top festival board";
+var mnemonic = "embrace author salute embark panel middle affair sing goddess ostrich cool mosquito";

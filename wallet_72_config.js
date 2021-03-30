@@ -1,1 +1,1 @@
-var mnemonic = "fitness beauty shadow core normal sunny electric random toe sad raw vital";
+var mnemonic = "shallow reopen unfair photo wonder road eight lion symbol tourist twin shuffle";

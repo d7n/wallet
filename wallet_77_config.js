@@ -1,1 +1,1 @@
-var mnemonic = "flat tell wait vendor shove good foam away tragic civil iron thought";
+var mnemonic = "maple circle couch post congress else since second kite profit advice hill";

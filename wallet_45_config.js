@@ -1,1 +1,1 @@
-var mnemonic = "ivory ranch under alien reject smile trip alone obscure wrist unit unfair";
+var mnemonic = "ship emotion grape peanut figure boat ugly math index edge voice elegant";

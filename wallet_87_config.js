@@ -1,1 +1,1 @@
-var mnemonic = "broom hurdle phone burst unfair wine document excuse leisure become amateur moral";
+var mnemonic = "obtain usage evolve uncover insect time hurry property able orange prosper ketchup";

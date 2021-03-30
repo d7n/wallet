@@ -1,1 +1,1 @@
-var mnemonic = "pencil velvet target color judge frozen music film grocery panda divert victory";
+var mnemonic = "armor south behave ritual seek surprise census vibrant fluid picture shoulder ignore";

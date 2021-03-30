@@ -1,1 +1,1 @@
-var mnemonic = "immune tent blind ethics indicate faith dizzy exact radio void tiger sock";
+var mnemonic = "reveal dry network zebra mechanic infant swim once poverty powder rain collect";

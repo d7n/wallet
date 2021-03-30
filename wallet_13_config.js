@@ -1,1 +1,1 @@
-var mnemonic = "sphere boat fox mean easy emotion own voyage scissors special forum you";
+var mnemonic = "suggest hazard hungry people thought entire wisdom solve side betray hundred recycle";

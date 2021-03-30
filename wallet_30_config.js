@@ -1,1 +1,1 @@
-var mnemonic = "version illness tired frost distance slab dash cattle destroy husband throw cat";
+var mnemonic = "loud marble stool agree someone wash tourist bamboo radar stumble brand crop";

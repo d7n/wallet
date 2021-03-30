@@ -1,1 +1,1 @@
-var mnemonic = "pizza opera claw immense yellow cry viable control raven carpet scrap clerk";
+var mnemonic = "such collect nest theme rack fantasy elbow assume wing situate tribe woman";

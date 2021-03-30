@@ -1,1 +1,1 @@
-var mnemonic = "vivid dune silly latin sentence soup napkin adult speed tone parade enhance";
+var mnemonic = "enemy glove glory rail tower boat list glide gather usual corn gate";

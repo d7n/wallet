@@ -1,1 +1,1 @@
-var mnemonic = "paddle across small subject safe erase initial abandon topple typical shove actor";
+var mnemonic = "moral badge helmet member social cabin scissors equal upper parent velvet trip";

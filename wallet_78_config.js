@@ -1,1 +1,1 @@
-var mnemonic = "walnut wage diamond bulb repeat swim pattern cycle entry there raven gauge";
+var mnemonic = "maid repeat tobacco season health visa tide olympic arrest age renew document";

@@ -1,1 +1,1 @@
-var mnemonic = "strong know rate sustain length coffee input chase wink donate chair dust";
+var mnemonic = "raise team give edge march sleep boil wrestle bicycle spatial rice donor";

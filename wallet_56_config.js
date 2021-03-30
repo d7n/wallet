@@ -1,1 +1,1 @@
-var mnemonic = "grow ladder acquire common margin remind desk young wood seed solution wealth";
+var mnemonic = "other session lunch guess all nephew differ absent retreat cave pull torch";

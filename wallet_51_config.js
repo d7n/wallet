@@ -1,1 +1,1 @@
-var mnemonic = "spell disagree knock income balance clip race security neutral gun tag liquid";
+var mnemonic = "shoot essence ten mirror flavor swift excite december mesh crush shove erode";

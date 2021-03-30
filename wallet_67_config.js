@@ -1,1 +1,1 @@
-var mnemonic = "design satoshi avocado ready apology category vocal describe enroll swear avoid budget";
+var mnemonic = "vendor recycle write example spoon suggest club orient truth survey exile boat";

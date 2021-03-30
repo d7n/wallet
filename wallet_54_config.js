@@ -1,1 +1,1 @@
-var mnemonic = "kiss abandon play cotton rapid upgrade exile faculty arrange curious seven soda";
+var mnemonic = "basic plunge crouch hundred eyebrow amount tragic ride key few lion fog";

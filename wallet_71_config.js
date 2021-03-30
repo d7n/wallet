@@ -1,1 +1,1 @@
-var mnemonic = "ranch usual help fruit spring weasel seed program spice carry vast lock";
+var mnemonic = "book unlock elephant banana buzz basket head word spirit into crop alpha";

@@ -1,1 +1,1 @@
-var mnemonic = "reward armor wreck wine stumble jacket harbor magic emerge ready excess choice";
+var mnemonic = "enough fuel aware expose milk main kite plug piano ready cattle pudding";

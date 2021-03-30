@@ -1,1 +1,1 @@
-var mnemonic = "lumber bamboo vapor thumb leader shiver swing rely coconut ready script path";
+var mnemonic = "crater vast energy wait want clinic recall mutual option torch valve surround";

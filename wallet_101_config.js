@@ -1,1 +1,1 @@
-var mnemonic = "switch fever clay camera few enter device opera erosion safe erode success";
+var mnemonic = "purchase fame tunnel share off upset simple icon manual rotate luxury glare";

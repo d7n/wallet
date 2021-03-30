@@ -1,1 +1,1 @@
-var mnemonic = "sell game ocean gold country business deal garden aware rather beauty idle";
+var mnemonic = "stove skirt ancient soup possible absorb clerk diagram kidney ensure better tooth";

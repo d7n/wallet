@@ -1,1 +1,1 @@
-var mnemonic = "movie slim slam good liar scan ripple inject achieve track this midnight";
+var mnemonic = "today body diagram buddy success matrix camp awful wood drum buyer rigid";

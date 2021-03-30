@@ -1,1 +1,1 @@
-var mnemonic = "group prevent pilot name inquiry simple occur solar wire mirror ripple runway";
+var mnemonic = "pride jeans gadget front actor clump venture citizen regular knee thrive baby";

@@ -1,1 +1,1 @@
-var mnemonic = "swear smart harsh flash sibling omit relax cube patch ranch pottery dry";
+var mnemonic = "lens west isolate goddess endorse fox false balcony little copy extend cannon";

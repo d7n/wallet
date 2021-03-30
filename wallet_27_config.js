@@ -1,1 +1,1 @@
-var mnemonic = "want above sight supply brush casual first salute enjoy budget athlete diamond";
+var mnemonic = "swim neither what chronic drop habit donate attend cream street buzz build";

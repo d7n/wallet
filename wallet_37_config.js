@@ -1,1 +1,1 @@
-var mnemonic = "manage attend fire yard spare eyebrow ball rule square wage total unaware";
+var mnemonic = "slot poet news buyer bag ship foster speed dumb adjust vendor clutch";

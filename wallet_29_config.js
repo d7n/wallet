@@ -1,1 +1,1 @@
-var mnemonic = "surface save stay enemy kiwi kiwi hello doll clerk tape miracle basic";
+var mnemonic = "lake outdoor have report trip deputy hidden garment grant crime file gas";

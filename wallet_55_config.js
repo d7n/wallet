@@ -1,1 +1,1 @@
-var mnemonic = "acoustic daring crush okay dolphin flight plug elevator seminar avocado magic layer";
+var mnemonic = "napkin tongue upper oblige pool tornado leader joke vocal half pizza truck";

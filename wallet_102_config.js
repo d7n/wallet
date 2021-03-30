@@ -1,1 +1,1 @@
-var mnemonic = "eye eagle design angle debate quiz verb edit lift visit demand cute";
+var mnemonic = "raccoon edge rival zone cheese come wild exile grunt brain civil danger";

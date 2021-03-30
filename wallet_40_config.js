@@ -1,1 +1,1 @@
-var mnemonic = "hood bird carbon below define wine dentist accident viable midnight attitude mixture";
+var mnemonic = "obvious shine leopard ozone hard aisle drum cattle square unusual sadness canoe";

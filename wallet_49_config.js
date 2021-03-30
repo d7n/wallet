@@ -1,1 +1,1 @@
-var mnemonic = "green pepper tuna cheese whale frog bone much chicken float slot walk";
+var mnemonic = "speak sauce slow chair sick eye secret bargain penalty matter great pulp";

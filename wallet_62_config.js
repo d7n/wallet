@@ -1,1 +1,1 @@
-var mnemonic = "decade feature leaf exile wire sunset will coyote popular extend bag ugly";
+var mnemonic = "town case visa indoor collect dignity nature oak super still glue left";

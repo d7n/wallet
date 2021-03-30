@@ -1,1 +1,1 @@
-var mnemonic = "innocent piece anxiety before shy solid help attack you matrix goose opera";
+var mnemonic = "cupboard auction bring clinic public assault layer special order spend cruise industry";

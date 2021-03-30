@@ -1,1 +1,1 @@
-var mnemonic = "caught dream income method please city fade cinnamon throw replace cupboard push";
+var mnemonic = "body expose analyst genuine wise poem have jar ranch flame position copy";

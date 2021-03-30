@@ -1,1 +1,1 @@
-var mnemonic = "girl govern remove viable begin render hobby tumble shy name hip broken";
+var mnemonic = "glove dolphin oppose oyster void attend phone dish join cancel crane sponsor";

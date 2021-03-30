@@ -1,1 +1,1 @@
-var mnemonic = "sure turn rocket alter fragile cook pupil unfair bitter fit hazard outside";
+var mnemonic = "strike penalty fun kitten clerk comfort virtual earn staff wonder broom elegant";

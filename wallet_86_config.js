@@ -1,1 +1,1 @@
-var mnemonic = "demise flock army awkward neutral rice exotic basket exile update peanut news";
+var mnemonic = "rookie deal wheel clip bronze pupil glance afford forget caution crash various";

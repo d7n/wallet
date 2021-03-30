@@ -1,1 +1,1 @@
-var mnemonic = "engine fly virtual flock cart kind claw spirit aunt super slender pipe";
+var mnemonic = "lawsuit cake survey science obvious vacuum snap stick power matter left destroy";

@@ -1,1 +1,1 @@
-var mnemonic = "chef volume lazy impulse universe wheel casual able this demand sport fold";
+var mnemonic = "dilemma play exact dice split what lesson soul okay priority about mansion";

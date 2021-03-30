@@ -1,1 +1,1 @@
-var mnemonic = "choice exchange claw rotate obtain flight glove option frame crime lemon bunker";
+var mnemonic = "harvest task vibrant recycle seek kidney uphold coconut address can predict crash";

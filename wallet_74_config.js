@@ -1,1 +1,1 @@
-var mnemonic = "hurry execute renew fold claw boost tent mistake lucky keep welcome good";
+var mnemonic = "cushion toilet mechanic argue stick game journey always office chaos guide promote";

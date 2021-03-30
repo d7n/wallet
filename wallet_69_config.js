@@ -1,1 +1,1 @@
-var mnemonic = "icon cry panda talk cruel outdoor burst claim chair undo audit knock";
+var mnemonic = "dream winter post hurt again scout child sell cancel crawl mosquito riot";

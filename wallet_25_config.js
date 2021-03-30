@@ -1,1 +1,1 @@
-var mnemonic = "client fruit spy either vendor leopard firm unable blur scatter wash chaos";
+var mnemonic = "better mango pluck problem garage lawsuit winter pepper build suit anchor stand";

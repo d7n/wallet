@@ -1,1 +1,1 @@
-var mnemonic = "bulb system oven cage property trick random fitness edge gun limb health";
+var mnemonic = "frozen east review nut coyote lock west nasty hole acoustic mystery pottery";

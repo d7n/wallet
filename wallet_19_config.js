@@ -1,1 +1,1 @@
-var mnemonic = "cave ivory right refuse trust nest produce cheap mean thank share cover";
+var mnemonic = "slogan usage enable sponsor rapid token fury tackle merit drift sustain segment";

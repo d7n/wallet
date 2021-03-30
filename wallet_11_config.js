@@ -1,1 +1,1 @@
-var mnemonic = "muffin play company floor anchor clean critic idle noise also lecture endless";
+var mnemonic = "fiction voyage angle income day resist rib never motion parade hazard rebuild";

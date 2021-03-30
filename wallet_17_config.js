@@ -1,1 +1,1 @@
-var mnemonic = "excuse tumble frozen two fish country sugar elder six feature over off";
+var mnemonic = "dentist broken enhance cycle fetch vanish cancel borrow laugh hotel nest please";

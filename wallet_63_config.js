@@ -1,1 +1,1 @@
-var mnemonic = "craft absorb uncover upset disagree secret session speak code car print replace";
+var mnemonic = "style inch tiny grow excess pig lion pole cruise repeat gather write";

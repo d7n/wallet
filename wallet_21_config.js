@@ -1,1 +1,1 @@
-var mnemonic = "brown kind goddess blind noise load property find absorb oxygen inch hub";
+var mnemonic = "april tortoise purchase shine mango aim announce mobile kingdom divorce blind weekend";

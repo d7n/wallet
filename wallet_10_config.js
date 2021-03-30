@@ -1,1 +1,1 @@
-var mnemonic = "market burst person dutch dilemma doll wedding upon pony profit whip congress";
+var mnemonic = "mango offer lawsuit surround chimney diesel design useless wild grit napkin resource";

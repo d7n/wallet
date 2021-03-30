@@ -1,1 +1,1 @@
-var mnemonic = "artist candy science obtain fat wagon tell possible beyond antique avocado cluster";
+var mnemonic = "advice barely fame august deposit gadget magic plug fish prevent amount wife";

@@ -1,1 +1,1 @@
-var mnemonic = "suspect crouch prevent enroll warfare rug sting heavy congress squirrel lens inherit";
+var mnemonic = "scan shrug drum grace mixed spread nerve spare cheap bitter insect camp";

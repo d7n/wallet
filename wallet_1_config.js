@@ -1,1 +1,1 @@
-var mnemonic = "success they orient summer river breeze jazz girl visual gain whip flavor";
+var mnemonic = "soft swamp bike moment ribbon outside cabin simple echo tomato wealth kingdom";
