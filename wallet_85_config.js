@@ -1,1 +1,1 @@
-var mnemonic = "pottery brown prefer fabric vehicle garlic tool fabric torch math obscure razor";
+var mnemonic = "coin praise able refuse treat twelve gospel avoid logic truck vast skull";

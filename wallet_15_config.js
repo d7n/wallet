@@ -1,1 +1,1 @@
-var mnemonic = "afford dumb diary fee enforce enlist pottery firm depart diamond shrug enable";
+var mnemonic = "express smooth extend gas demand series infant stumble derive acid arena organ";

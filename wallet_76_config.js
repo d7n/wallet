@@ -1,1 +1,1 @@
-var mnemonic = "favorite brain april marble message convince proud select fish action link bread";
+var mnemonic = "trust warrior divide link ticket above pluck begin security primary large horse";

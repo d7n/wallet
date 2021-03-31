@@ -1,1 +1,1 @@
-var mnemonic = "vault alien project combine young rhythm run act farm battle syrup affair";
+var mnemonic = "egg salute nephew strong lucky edit pen gasp picnic link song fashion";

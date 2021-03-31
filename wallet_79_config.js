@@ -1,1 +1,1 @@
-var mnemonic = "chase best dad balance gaze label exclude senior symbol tank caught stereo";
+var mnemonic = "east blame sport joy elephant solid robot prize degree wet park swamp";

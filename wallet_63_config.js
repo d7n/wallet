@@ -1,1 +1,1 @@
-var mnemonic = "unfair wool card cram garden label three year bring tip apple hello";
+var mnemonic = "venue divert energy survey industry soldier clip quick angry loan resemble frame";

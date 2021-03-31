@@ -1,1 +1,1 @@
-var mnemonic = "silver catch wrestle during jungle rich galaxy scale unfold vibrant strong polar";
+var mnemonic = "fox equip steel weird orient victory violin mammal endorse forum helmet lawn";

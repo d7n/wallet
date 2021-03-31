@@ -1,1 +1,1 @@
-var mnemonic = "victory top yard appear work cement powder fall ability team into mom";
+var mnemonic = "bring drill boat siren medal survey dilemma globe list sail drift dilemma";

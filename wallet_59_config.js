@@ -1,1 +1,1 @@
-var mnemonic = "travel cram face reflect thing sphere space flee render notice eyebrow copper";
+var mnemonic = "dose color head shoe soap cloud song crop elephant medal maze rare";

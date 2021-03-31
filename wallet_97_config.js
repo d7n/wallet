@@ -1,1 +1,1 @@
-var mnemonic = "empty fine great jewel critic slight breeze hotel math siren spawn huge";
+var mnemonic = "bomb flock obey art one suggest tired one ensure couch pyramid trumpet";

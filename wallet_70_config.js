@@ -1,1 +1,1 @@
-var mnemonic = "kidney you future lens dove bounce naive uphold offer junk hire reason";
+var mnemonic = "farm cave arrow security cattle right rack pudding frozen chair worry view";

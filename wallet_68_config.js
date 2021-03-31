@@ -1,1 +1,1 @@
-var mnemonic = "dumb brisk barrel warrior laugh zoo major skill smile fashion toward affair";
+var mnemonic = "vendor blame crucial winter congress plastic glass round veteran venue prevent unable";

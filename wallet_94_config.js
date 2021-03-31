@@ -1,1 +1,1 @@
-var mnemonic = "sadness creek net minute swamp ugly scatter switch alarm wink cable polar";
+var mnemonic = "bulk switch witness sound liar way bomb hockey inhale return trap surface";

@@ -1,1 +1,1 @@
-var mnemonic = "proof exhibit thought divide upset arena come furnace floor laptop gauge hundred";
+var mnemonic = "cigar pistol feed basic victory glory display matrix slam food like glance";

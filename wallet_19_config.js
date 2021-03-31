@@ -1,1 +1,1 @@
-var mnemonic = "spread vacuum siren chronic emerge armed reward employ combine tiny protect gather";
+var mnemonic = "gloom mother chicken elegant arrest crystal display battle rifle wasp south auto";

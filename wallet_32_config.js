@@ -1,1 +1,1 @@
-var mnemonic = "ritual blanket april vast adjust expose mirror transfer snake setup tackle head";
+var mnemonic = "myth repeat loyal budget alter absurd family enter earn pluck noble account";

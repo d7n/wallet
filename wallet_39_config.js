@@ -1,1 +1,1 @@
-var mnemonic = "top oil flavor noble describe unit math midnight host giggle jump ginger";
+var mnemonic = "dirt enjoy flush kit explain pair scheme slender bid boil income shift";

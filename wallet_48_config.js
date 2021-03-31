@@ -1,1 +1,1 @@
-var mnemonic = "fashion fine romance firm major shallow clay sudden cupboard emerge trim later";
+var mnemonic = "token enough account hammer rabbit cruise grief proof drill rail narrow test";

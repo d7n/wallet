@@ -1,1 +1,1 @@
-var mnemonic = "scissors autumn about develop mechanic forward slide click comic bacon type empty";
+var mnemonic = "snack clever monkey mouse thunder mango budget various dutch sponsor system present";

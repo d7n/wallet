@@ -1,1 +1,1 @@
-var mnemonic = "urban fever dynamic model crowd unfold educate prevent innocent brisk raven mention";
+var mnemonic = "bring conduct dance portion shock custom smoke hen bronze maze knock target";

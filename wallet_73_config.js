@@ -1,1 +1,1 @@
-var mnemonic = "heavy random core session amateur banana lizard spare scheme bright grid card";
+var mnemonic = "useful symptom sorry illegal slush amateur bunker glad measure upon scale lion";

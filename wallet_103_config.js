@@ -1,1 +1,1 @@
-var mnemonic = "mother snack approve bench gospel execute kid bridge allow math sustain loop";
+var mnemonic = "lucky discover rent credit glad reveal before urge quarter reason laugh settle";

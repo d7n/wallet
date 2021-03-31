@@ -1,1 +1,1 @@
-var mnemonic = "captain voyage motion ankle feel cherry similar silk repair rack april tired";
+var mnemonic = "identify sand metal author tobacco odor submit hawk used civil ice sense";

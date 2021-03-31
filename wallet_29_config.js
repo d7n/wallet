@@ -1,1 +1,1 @@
-var mnemonic = "blouse across garden main emerge fence flight chalk kidney pioneer call city";
+var mnemonic = "execute gap salt once iron invest hotel device easily hover genius gun";

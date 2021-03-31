@@ -1,1 +1,1 @@
-var mnemonic = "damp wedding add edge order knee hamster gloom average fiscal track duck";
+var mnemonic = "icon south hockey sail sibling stove alter fee august help limit seat";

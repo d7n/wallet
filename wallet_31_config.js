@@ -1,1 +1,1 @@
-var mnemonic = "keep garden zoo top return laundry approve icon legal huge merge globe";
+var mnemonic = "slot indoor brass country sunny dish assault crystal tag actress monitor gift";

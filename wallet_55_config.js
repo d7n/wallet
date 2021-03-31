@@ -1,1 +1,1 @@
-var mnemonic = "crouch light emotion science just crisp dial eagle insect derive shop oak";
+var mnemonic = "team hidden finger pledge push almost dirt angry orbit note viable aisle";

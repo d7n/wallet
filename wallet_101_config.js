@@ -1,1 +1,1 @@
-var mnemonic = "stay mask twice eyebrow century cute monster strike brass siege school marble";
+var mnemonic = "tornado access rookie reduce narrow runway chapter canal used rain pottery off";

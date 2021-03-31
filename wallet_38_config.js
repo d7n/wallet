@@ -1,1 +1,1 @@
-var mnemonic = "mean tiger midnight multiply bomb zoo giggle range rug birth success prepare";
+var mnemonic = "prefer already advance fabric process speak story antenna heart fatal hockey credit";

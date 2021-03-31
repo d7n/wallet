@@ -1,1 +1,1 @@
-var mnemonic = "copy forest about muscle cargo where surprise jazz horn tuna cotton spray";
+var mnemonic = "monitor rally bench fee afraid mosquito fat athlete system dash rate kiss";

@@ -1,1 +1,1 @@
-var mnemonic = "knock wife high language flame spread net resist blossom dance require flag";
+var mnemonic = "cat bright polar curtain hat online monkey feature worry select coin arch";

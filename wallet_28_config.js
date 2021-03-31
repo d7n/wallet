@@ -1,1 +1,1 @@
-var mnemonic = "blouse cabin smoke park lobster empower twice grit away fetch rough card";
+var mnemonic = "lucky company noble entry carry sun help chest own pepper engage afford";

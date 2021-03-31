@@ -1,1 +1,1 @@
-var mnemonic = "call myth mutual auto decrease twelve absent vibrant soap city aerobic fatal";
+var mnemonic = "video chuckle visual elder fox fetch supreme scatter calm round lunch pepper";

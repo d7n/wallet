@@ -1,1 +1,1 @@
-var mnemonic = "shine brisk logic boss grape afraid permit common dismiss popular extra early";
+var mnemonic = "economy scissors code quote twin must predict elegant hurt monitor group dry";

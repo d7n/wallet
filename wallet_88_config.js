@@ -1,1 +1,1 @@
-var mnemonic = "ten ordinary slide keep begin letter wait kitten car castle aware season";
+var mnemonic = "wear trade evoke exotic ripple slogan detect poet scissors subject recycle helmet";

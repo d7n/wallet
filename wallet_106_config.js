@@ -1,1 +1,1 @@
-var mnemonic = "rug federal ranch friend hedgehog depend sand love fame shuffle sphere scout";
+var mnemonic = "vendor they clay mobile toss depart win lemon level action pudding produce";

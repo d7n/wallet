@@ -1,1 +1,1 @@
-var mnemonic = "basic ticket solar oyster fancy horn play crack jaguar street month hunt";
+var mnemonic = "topple foil goat build long peanut leisure disagree another enrich system priority";

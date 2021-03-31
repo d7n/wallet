@@ -1,1 +1,1 @@
-var mnemonic = "derive swing cram broccoli habit scrub vote notable vendor enable easy output";
+var mnemonic = "awesome can tobacco melt blouse fringe have entry balcony cradle mother moment";

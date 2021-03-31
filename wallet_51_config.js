@@ -1,1 +1,1 @@
-var mnemonic = "flash canoe guilt spice clarify popular text sunny dragon breeze box crush";
+var mnemonic = "drive truth fury afford problem runway indoor arm night talk apart decline";

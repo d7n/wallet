@@ -1,1 +1,1 @@
-var mnemonic = "brother jacket turtle viable holiday hospital front drink volume shoot toy snack";
+var mnemonic = "satoshi jacket wisdom width enough swap drastic write length this resist tomorrow";

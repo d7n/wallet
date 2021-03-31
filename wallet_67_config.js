@@ -1,1 +1,1 @@
-var mnemonic = "journey orchard glue stereo upper vendor refuse measure fiction grace stereo april";
+var mnemonic = "jelly roast rebuild recipe day end magic join belt usage profit pass";

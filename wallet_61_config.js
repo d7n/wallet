@@ -1,1 +1,1 @@
-var mnemonic = "meat learn chase develop pear draft phrase puppy dynamic upon lens fine";
+var mnemonic = "sea source lecture sleep calm real whisper country moment exile urban fox";

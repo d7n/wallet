@@ -1,1 +1,1 @@
-var mnemonic = "jaguar door pass supply language arrive skin lobster drop radio accuse dwarf";
+var mnemonic = "logic claim cigar nurse calm occur mixed tiny rescue heavy nuclear midnight";

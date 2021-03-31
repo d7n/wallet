@@ -1,1 +1,1 @@
-var mnemonic = "divide charge alarm bounce glory enforce object stairs autumn artist crash room";
+var mnemonic = "advance dirt alert matter donor civil forum item sense muffin bar mercy";

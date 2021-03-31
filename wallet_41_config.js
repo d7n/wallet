@@ -1,1 +1,1 @@
-var mnemonic = "right average border whisper awake snake hair lucky method prize wise soldier";
+var mnemonic = "bulb wrist journey scatter subway online run live melt clean virtual assault";

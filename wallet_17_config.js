@@ -1,1 +1,1 @@
-var mnemonic = "first sunny ten dog object tower text inside will soul shrug wear";
+var mnemonic = "mention bulk seed they theme pride inch shadow suit riot refuse crater";

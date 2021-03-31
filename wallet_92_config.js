@@ -1,1 +1,1 @@
-var mnemonic = "pill lift planet unable include brother fever kitten little fetch noodle session";
+var mnemonic = "essay word wild rail solar you one text cram supreme pretty mammal";

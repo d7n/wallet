@@ -1,1 +1,1 @@
-var mnemonic = "van foam loop foam invest arm dilemma glad oblige during giant differ";
+var mnemonic = "frame legend range then bind spike cart walnut rug hood rhythm seven";

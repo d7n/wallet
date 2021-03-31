@@ -1,1 +1,1 @@
-var mnemonic = "catalog crash approve unfair cupboard ghost sponsor cage remain find winter moment";
+var mnemonic = "heart scan nest cabbage damp during genre swarm swim door false plastic";

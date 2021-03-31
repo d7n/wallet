@@ -1,1 +1,1 @@
-var mnemonic = "achieve blood wheat crystal surge rude siren little lizard answer lawsuit swarm";
+var mnemonic = "weather poet frequent cruel garment way neutral hat shrimp assume slight decide";

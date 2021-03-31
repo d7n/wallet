@@ -1,1 +1,1 @@
-var mnemonic = "lake rhythm already year peace exchange flush desert public tissue friend omit";
+var mnemonic = "primary regret hobby quantum shop bacon shoot trash slam craft account rule";

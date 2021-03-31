@@ -1,1 +1,1 @@
-var mnemonic = "way shoe electric winner bar drive auto hamster embrace such avoid jealous";
+var mnemonic = "giant seminar civil hobby cost resemble online kidney under barrel alarm clerk";

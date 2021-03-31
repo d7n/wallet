@@ -1,1 +1,1 @@
-var mnemonic = "student glimpse already chuckle cover leopard wait rain quarter hood sail mention";
+var mnemonic = "turn excess hawk knee desk kiss solid term primary travel wing solution";

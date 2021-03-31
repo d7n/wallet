@@ -1,1 +1,1 @@
-var mnemonic = "wedding slogan when february wave bounce ugly sight upgrade swear noise surprise";
+var mnemonic = "thank coin rib baby fun guard clog prepare museum system erase orphan";

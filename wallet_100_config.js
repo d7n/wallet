@@ -1,1 +1,1 @@
-var mnemonic = "injury foam regular two climb frown nose love bicycle clean apology guitar";
+var mnemonic = "razor lizard fossil struggle exhaust outside matrix hill tent today art measure";

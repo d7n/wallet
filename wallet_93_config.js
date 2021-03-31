@@ -1,1 +1,1 @@
-var mnemonic = "want require nerve resemble direct maid legal label glide candy degree future";
+var mnemonic = "embody glass defense silly mountain fragile venue tiger grit sight honey desert";

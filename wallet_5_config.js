@@ -1,1 +1,1 @@
-var mnemonic = "evil end fossil enact volcano network secret civil method fringe lava lobster";
+var mnemonic = "leisure junk target add frequent situate bracket fetch enable matrix brass fiber";

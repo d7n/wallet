@@ -1,1 +1,1 @@
-var mnemonic = "flip verify skill calm fatigue depend science supreme stool curious possible ill";
+var mnemonic = "urban minute decorate drift become street lab catalog cost viable project near";

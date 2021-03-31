@@ -1,1 +1,1 @@
-var mnemonic = "talk please feel leaf soul canyon thought heavy bunker crouch deny creek";
+var mnemonic = "opera force alert spread guitar arm satisfy mass shadow torch quote mimic";

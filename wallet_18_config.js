@@ -1,1 +1,1 @@
-var mnemonic = "lunch sand confirm forum indoor sad diamond act property student helmet cycle";
+var mnemonic = "year wrist fox result excuse certain glare episode cruel account essence until";

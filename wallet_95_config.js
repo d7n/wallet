@@ -1,1 +1,1 @@
-var mnemonic = "position coin federal mad critic forest tip turn chronic fever solve wrist";
+var mnemonic = "noble envelope unknown busy people cabin extend romance crystal mimic diet next";

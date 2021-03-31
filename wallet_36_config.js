@@ -1,1 +1,1 @@
-var mnemonic = "illegal axis pyramid industry harvest wrist tunnel vacuum reunion hint swarm blame";
+var mnemonic = "toe prevent mom proof rib able dish pilot abstract high poet urge";

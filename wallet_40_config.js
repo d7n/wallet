@@ -1,1 +1,1 @@
-var mnemonic = "shed exchange shrug steel argue matrix equip aerobic pistol more obtain grid";
+var mnemonic = "once mass guess runway walnut plastic electric coil powder loyal tone exhibit";

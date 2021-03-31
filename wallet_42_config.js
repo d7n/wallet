@@ -1,1 +1,1 @@
-var mnemonic = "breeze glass puzzle long myth farm leaf media ostrich toward twist unfold";
+var mnemonic = "flush execute message humor mom absorb oblige envelope rough dawn raw again";

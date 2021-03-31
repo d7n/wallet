@@ -1,1 +1,1 @@
-var mnemonic = "shaft merry pudding swift age trigger useful market canvas defense sun cabbage";
+var mnemonic = "shoe movie similar jacket fork destroy assault moral inquiry ready defy age";

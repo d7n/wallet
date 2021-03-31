@@ -1,1 +1,1 @@
-var mnemonic = "ocean alley distance blur flee school slogan click odor glove stairs faculty";
+var mnemonic = "source capable cook tennis prize play athlete verb panic grape estate muscle";

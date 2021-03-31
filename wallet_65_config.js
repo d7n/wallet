@@ -1,1 +1,1 @@
-var mnemonic = "mother merry inmate crystal ivory load song impact relief mercy tunnel estate";
+var mnemonic = "position auto drink prosper copper chuckle topple usual erupt nature scissors ozone";

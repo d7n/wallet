@@ -1,1 +1,1 @@
-var mnemonic = "desert remain blast neutral case install clerk cake wear mention patient sleep";
+var mnemonic = "scatter awesome essence law tumble connect helmet brick vote light sausage render";

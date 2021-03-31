@@ -1,1 +1,1 @@
-var mnemonic = "menu main practice normal cinnamon width canoe employ network unveil craft clay";
+var mnemonic = "town mobile holiday rain gas offer model stick tortoise ice inhale alert";

@@ -1,1 +1,1 @@
-var mnemonic = "elevator spice century filter thing demise vital kite burst snow same govern";
+var mnemonic = "cancel then update column brother erase wish atom large cool end erode";

@@ -1,1 +1,1 @@
-var mnemonic = "disorder refuse rice trip symptom style pilot stand venture will drink mango";
+var mnemonic = "avoid notable blush latin champion occur captain banana similar cube urban ball";

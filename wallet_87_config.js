@@ -1,1 +1,1 @@
-var mnemonic = "spider stick modify story alcohol group else loyal sustain illness multiply list";
+var mnemonic = "vessel orphan smile sponsor census tiger order mystery board near scissors idle";

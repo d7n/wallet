@@ -1,1 +1,1 @@
-var mnemonic = "twice sketch open mask eight bulb column prosper worth rebel saddle lounge";
+var mnemonic = "crime notable lounge genre hungry tonight initial pyramid equip asset sadness picture";

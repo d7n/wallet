@@ -1,1 +1,1 @@
-var mnemonic = "suit salt again gate payment input decline fiscal cook biology spare build";
+var mnemonic = "teach oven silver apple reveal jar broken spot early heart hurdle asthma";

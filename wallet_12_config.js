@@ -1,1 +1,1 @@
-var mnemonic = "runway island exercise slice jelly fatigue stuff oil toast vacuum food honey";
+var mnemonic = "valley planet maple lunar danger sentence elite surge donate uncover flip can";

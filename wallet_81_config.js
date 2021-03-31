@@ -1,1 +1,1 @@
-var mnemonic = "fossil hungry law delay orange absent blame huge salon film gate market";
+var mnemonic = "penalty uncover olympic reject mutual make pluck couch razor bus name hen";

@@ -1,1 +1,1 @@
-var mnemonic = "quality offer pitch innocent pause august possible sleep absorb immense decrease movie";
+var mnemonic = "plate almost sort love leaf jaguar aunt maid syrup weird retire husband";

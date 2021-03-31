@@ -1,1 +1,1 @@
-var mnemonic = "market fire question barrel liquid typical angry risk canoe leader equip thrive";
+var mnemonic = "comic file client divert asset rhythm illness cabin circle curious injury pudding";

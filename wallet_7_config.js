@@ -1,1 +1,1 @@
-var mnemonic = "bone erosion pencil master load mixture surprise setup violin ordinary town family";
+var mnemonic = "remember install dinosaur wine despair insect mystery truth glue soap deny frozen";

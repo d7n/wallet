@@ -1,1 +1,1 @@
-var mnemonic = "mushroom two donate special animal place tuna win machine orange found avocado";
+var mnemonic = "brain zero else submit such task music hundred flash unit caught lemon";

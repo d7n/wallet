@@ -1,1 +1,1 @@
-var mnemonic = "verify patrol shoot trust onion mango pelican bundle present badge siege family";
+var mnemonic = "again ability typical resist crunch latin team before visual twice cable miracle";

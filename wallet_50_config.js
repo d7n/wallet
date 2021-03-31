@@ -1,1 +1,1 @@
-var mnemonic = "shell beyond excite diesel world initial sudden beyond jump debate stuff peanut";
+var mnemonic = "enlist scheme sick loud hamster burden stay raven scorpion gossip slide price";

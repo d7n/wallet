@@ -1,1 +1,1 @@
-var mnemonic = "usual civil toy liar illness build slice siren antique awful cinnamon antenna";
+var mnemonic = "change leisure intact fortune output survey author split sun leave cream amazing";

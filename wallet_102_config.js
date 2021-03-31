@@ -1,1 +1,1 @@
-var mnemonic = "whip then liar box stumble improve fan practice diamond grant entire kidney";
+var mnemonic = "poem version unique fancy street tissue retire museum hint absurd mammal essence";

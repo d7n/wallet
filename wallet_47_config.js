@@ -1,1 +1,1 @@
-var mnemonic = "siege option below mushroom lunar brown depth merit pepper endless actress drama";
+var mnemonic = "slam observe arrow shock cement shed buyer army foot leader stairs require";

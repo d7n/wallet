@@ -1,1 +1,1 @@
-var mnemonic = "accident senior drastic useless leg priority swamp pet business vessel smile crawl";
+var mnemonic = "crunch budget riot seven rail finger invest spike step moon salute comfort";
