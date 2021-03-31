@@ -1,1 +1,1 @@
-var mnemonic = "sample supreme inquiry depth link measure inch snack elbow main rubber pride";
+var mnemonic = "need gold banana saddle hello blur trial joke casino erase brief oblige";

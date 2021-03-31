@@ -1,1 +1,1 @@
-var mnemonic = "dolphin slim cycle turtle noble thought pact furnace return flash escape true";
+var mnemonic = "shop choice puzzle harbor admit royal two perfect enjoy angry long drop";

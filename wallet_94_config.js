@@ -1,1 +1,1 @@
-var mnemonic = "artefact please hand cute frozen around iron virus fatal live shoulder morning";
+var mnemonic = "first fiction sport head prosper idle gentle liar space shiver lunar cruise";

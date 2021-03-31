@@ -1,1 +1,1 @@
-var mnemonic = "reopen holiday drop clog note brush lend athlete rotate dice seminar seed";
+var mnemonic = "diamond unaware pause shoot wrist people sound sound rail speed issue chair";

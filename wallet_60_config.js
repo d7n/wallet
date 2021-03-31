@@ -1,1 +1,1 @@
-var mnemonic = "mesh fossil cross toilet wash clutch web fade frame topic bottom milk";
+var mnemonic = "solve grief future recycle moral help cruel load faint adapt engage disease";

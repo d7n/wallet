@@ -1,1 +1,1 @@
-var mnemonic = "vivid series poverty olive ensure chest marble intact odor offer main fresh";
+var mnemonic = "alter transfer degree vessel satoshi just tide rocket vault leopard afraid manual";

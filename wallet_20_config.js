@@ -1,1 +1,1 @@
-var mnemonic = "fresh sand person candy damage truly differ dawn clay twin claim speed";
+var mnemonic = "sign pipe lens surge youth slim drive scissors neck nest spell mistake";

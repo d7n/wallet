@@ -1,1 +1,1 @@
-var mnemonic = "poet picture stamp this phrase comic forum shine toddler sausage mind crack";
+var mnemonic = "chase income sadness crane crystal drip bulk swallow yellow gorilla february ancient";

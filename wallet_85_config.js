@@ -1,1 +1,1 @@
-var mnemonic = "random skull seat lamp skate eyebrow moral muffin ozone royal business prison";
+var mnemonic = "improve post utility girl ship pretty stairs coconut expect siege consider need";

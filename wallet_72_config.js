@@ -1,1 +1,1 @@
-var mnemonic = "giant train goddess grace fringe oyster review push boat satoshi steak position";
+var mnemonic = "dress soft wish shrimp skull promote latin sense salute giraffe only roast";

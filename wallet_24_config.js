@@ -1,1 +1,1 @@
-var mnemonic = "spring news neutral already tornado ceiling exercise question portion service better twelve";
+var mnemonic = "funny beef model brush inform tortoise danger render secret fun they sleep";

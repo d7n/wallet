@@ -1,1 +1,1 @@
-var mnemonic = "solve fabric hen put quantum figure absurd pole project involve public borrow";
+var mnemonic = "nature judge fire like human clarify lion jaguar neck neglect stamp canvas";

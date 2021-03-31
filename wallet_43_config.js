@@ -1,1 +1,1 @@
-var mnemonic = "scene tissue sport boring lend mystery sudden detect magnet balcony because derive";
+var mnemonic = "grace sorry please still monitor boring wedding material agent exact own goose";

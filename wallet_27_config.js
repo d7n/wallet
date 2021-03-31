@@ -1,1 +1,1 @@
-var mnemonic = "shuffle barrel patch middle year liberty rail roast window fever furnace eagle";
+var mnemonic = "drama fury near amateur spice proof carbon shove cushion shed wrestle place";

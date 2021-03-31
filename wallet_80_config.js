@@ -1,1 +1,1 @@
-var mnemonic = "other test stay above wolf message utility lesson chronic permit learn april";
+var mnemonic = "fox bless olive bind stadium badge reject chuckle drill recipe fix slam";

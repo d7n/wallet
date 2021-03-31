@@ -1,1 +1,1 @@
-var mnemonic = "type table step impose argue skin private economy isolate taxi abuse census";
+var mnemonic = "more moral please guess flight arrive strategy senior invest twelve source deal";

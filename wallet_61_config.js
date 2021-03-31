@@ -1,1 +1,1 @@
-var mnemonic = "army shed rough sting arrive copper breeze over urge airport guide chief";
+var mnemonic = "sword spot you trouble spy drama ecology horn awful aim ask alone";

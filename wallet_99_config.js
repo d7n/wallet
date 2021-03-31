@@ -1,1 +1,1 @@
-var mnemonic = "defy present orient embrace nut begin tongue notice mass they vault canoe";
+var mnemonic = "have ginger twenty journey gossip reject gather matter venture equal essence practice";

@@ -1,1 +1,1 @@
-var mnemonic = "basic curve they frown dance subway ability oppose pelican grief various unit";
+var mnemonic = "olympic alert lonely belt pelican august dawn apology stadium update ski thumb";

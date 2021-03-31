@@ -1,1 +1,1 @@
-var mnemonic = "dance prepare tennis deny ask suffer donate lens island taste spy palm";
+var mnemonic = "lock tiny path gasp kit paddle mom track angle sunset phone fancy";

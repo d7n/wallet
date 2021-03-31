@@ -1,1 +1,1 @@
-var mnemonic = "motion lava split chunk want kingdom grape device basic leg sock clip";
+var mnemonic = "round sugar execute abandon snake loop donkey lab hundred ginger sting beauty";

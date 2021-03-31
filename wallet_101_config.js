@@ -1,1 +1,1 @@
-var mnemonic = "idea advice history bird evidence sell gauge busy round rude suffer rural";
+var mnemonic = "winter female stamp craft nerve cool scale degree shy fabric tail burden";

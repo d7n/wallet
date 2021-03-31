@@ -1,1 +1,1 @@
-var mnemonic = "rich crew purity remove innocent letter pyramid abstract fee van front history";
+var mnemonic = "attract umbrella burger scale inflict crumble cactus will dirt rail blanket drive";

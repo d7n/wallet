@@ -1,1 +1,1 @@
-var mnemonic = "bag say moment loop melody expose sweet seminar flock vocal tattoo wink";
+var mnemonic = "avoid vintage eternal outdoor lunar unaware secret toilet strong hybrid once foot";

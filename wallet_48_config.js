@@ -1,1 +1,1 @@
-var mnemonic = "index title minor maximum end tonight latin veteran member palm alcohol milk";
+var mnemonic = "canvas pact arena lawsuit wise seek calm exile season average cram client";

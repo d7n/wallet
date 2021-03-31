@@ -1,1 +1,1 @@
-var mnemonic = "merry source jaguar blossom toward smile hand trash inside sustain miss panel";
+var mnemonic = "betray twenty wear conduct picture envelope art tobacco medal harbor weird emerge";

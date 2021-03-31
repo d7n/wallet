@@ -1,1 +1,1 @@
-var mnemonic = "degree involve pioneer monster bless brisk ankle civil mass slice artefact fan";
+var mnemonic = "frost skin eight split glance never radio pig happy permit hand forest";

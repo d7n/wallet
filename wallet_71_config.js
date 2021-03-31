@@ -1,1 +1,1 @@
-var mnemonic = "visa remain leader vanish popular whisper ball page smoke tube deer outer";
+var mnemonic = "unusual speed talk defense menu foot rotate flag ski steel aisle thumb";

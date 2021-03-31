@@ -1,1 +1,1 @@
-var mnemonic = "possible admit doll stock busy sheriff know hawk write oxygen fabric wild";
+var mnemonic = "repeat shift desert town prevent evoke dilemma later damage envelope congress before";

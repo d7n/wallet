@@ -1,1 +1,1 @@
-var mnemonic = "island cable hole number leave trick elevator begin describe legal fit virtual";
+var mnemonic = "slender plug fly leopard travel busy actress situate joy moment toy inspire";

@@ -1,1 +1,1 @@
-var mnemonic = "panther screen appear kitten tennis crack pipe human flash crater execute style";
+var mnemonic = "dance dentist retreat business crawl card yellow control hungry rabbit travel asthma";

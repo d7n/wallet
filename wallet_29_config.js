@@ -1,1 +1,1 @@
-var mnemonic = "vital whale win cloth palace leg vital riot famous tattoo physical strategy";
+var mnemonic = "render noodle secret chicken lava remind bounce expand turn myth squeeze estate";

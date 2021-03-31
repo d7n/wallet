@@ -1,1 +1,1 @@
-var mnemonic = "spoil bottom orient endorse lunar drink destroy frequent about ten album say";
+var mnemonic = "degree rotate rather stove general letter sugar keep lemon piece stamp enlist";

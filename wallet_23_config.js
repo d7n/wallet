@@ -1,1 +1,1 @@
-var mnemonic = "canal farm grain senior derive panic call define shy screen disagree another";
+var mnemonic = "toy hidden figure today junior pitch cabin swear fold risk nation december";

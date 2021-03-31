@@ -1,1 +1,1 @@
-var mnemonic = "motor pencil worry wine again bird alpha pipe shop cupboard bulb chicken";
+var mnemonic = "lawn peanut joy circle invest bunker zone lounge risk strike rose radio";

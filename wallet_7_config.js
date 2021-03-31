@@ -1,1 +1,1 @@
-var mnemonic = "hunt join resemble crater wasp canvas planet recipe heart doll drive change";
+var mnemonic = "correct same hole ostrich chicken runway humor indoor lottery risk agent floor";

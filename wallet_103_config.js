@@ -1,1 +1,1 @@
-var mnemonic = "transfer shed raise future apple sick warm curtain issue skate actor face";
+var mnemonic = "select other disagree treat flame allow anxiety pony aunt find ginger toilet";

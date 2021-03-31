@@ -1,1 +1,1 @@
-var mnemonic = "toss powder orange explain average fan relief useless gain solar forest sight";
+var mnemonic = "end stadium uncover pear miss cash number describe august album chalk perfect";

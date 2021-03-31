@@ -1,1 +1,1 @@
-var mnemonic = "color gain shy bread network brand banana fan diamond village wear lizard";
+var mnemonic = "remove zero crumble unit harsh claim anger hill near moment pioneer squeeze";

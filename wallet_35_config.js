@@ -1,1 +1,1 @@
-var mnemonic = "leave glide afford usage ocean powder ring prison gorilla vehicle unhappy nation";
+var mnemonic = "adapt chicken consider word habit radio fluid sing raccoon nominee aware swift";

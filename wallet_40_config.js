@@ -1,1 +1,1 @@
-var mnemonic = "access cheap when filter shiver vessel object cruise visual castle private angle";
+var mnemonic = "end merge render federal cool fence desk burger media canvas flash vivid";

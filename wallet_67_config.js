@@ -1,1 +1,1 @@
-var mnemonic = "eagle pigeon path letter toy click fever morning gold round emerge mule";
+var mnemonic = "eager plug sketch bright dizzy route citizen level attitude industry equip guard";

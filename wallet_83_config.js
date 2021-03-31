@@ -1,1 +1,1 @@
-var mnemonic = "minimum federal place depart cactus venue antenna want lend soon fall danger";
+var mnemonic = "submit hawk blossom dilemma subject multiply morning crystal stumble twenty filter prefer";

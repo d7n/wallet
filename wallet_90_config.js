@@ -1,1 +1,1 @@
-var mnemonic = "rare short rule net amazing link danger mobile dune entire stone rate";
+var mnemonic = "own issue frown venture flame defense husband proud sugar poet chicken yellow";

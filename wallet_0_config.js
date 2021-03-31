@@ -1,1 +1,1 @@
-var mnemonic = "jaguar spare invite mango student accuse oval inform army valley figure flower";
+var mnemonic = "relax equal season stock lunch glide language snack bar drastic unfair debate";

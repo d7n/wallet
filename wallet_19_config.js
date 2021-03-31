@@ -1,1 +1,1 @@
-var mnemonic = "banner unaware receive miss arm moment honey sponsor diet tragic tree push";
+var mnemonic = "step vast talent eager discover embrace child series ivory huge sad spray";

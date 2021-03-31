@@ -1,1 +1,1 @@
-var mnemonic = "script day innocent nose kiwi edit manual across rescue absurd shed useful";
+var mnemonic = "mix stool wife zero coconut cloud left steel cheap license service high";

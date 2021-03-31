@@ -1,1 +1,1 @@
-var mnemonic = "rocket addict hurt width job jar gift vanish suggest quality horse infant";
+var mnemonic = "vicious manual improve glow weekend example fantasy arrow chronic scrap boost armor";

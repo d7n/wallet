@@ -1,1 +1,1 @@
-var mnemonic = "general fluid kitten floor drama sun aim brother mimic twice awkward inject";
+var mnemonic = "leg screen grace shy receive stove entry tent exile master merit affair";

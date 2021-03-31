@@ -1,1 +1,1 @@
-var mnemonic = "catalog poverty magnet cancel journey riot climb fashion note bench stone stool";
+var mnemonic = "gold volcano edge inhale patrol rotate kidney dumb attract honey wagon nice";

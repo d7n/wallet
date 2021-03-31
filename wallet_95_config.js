@@ -1,1 +1,1 @@
-var mnemonic = "top legal suit essence pull genre under glad world donkey risk crawl";
+var mnemonic = "shallow obscure menu broken agent mad custom mean page hello energy rose";

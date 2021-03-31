@@ -1,1 +1,1 @@
-var mnemonic = "screen fashion toe genre culture science awake churn swap obscure error vapor";
+var mnemonic = "logic kid pet gas brother keen strong path walnut pyramid account flat";

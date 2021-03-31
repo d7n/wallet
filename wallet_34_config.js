@@ -1,1 +1,1 @@
-var mnemonic = "chunk ticket acoustic quality angle husband life empty amount pretty need shadow";
+var mnemonic = "afford plate antique render tail save practice rubber quality utility stove roof";

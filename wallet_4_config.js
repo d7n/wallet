@@ -1,1 +1,1 @@
-var mnemonic = "episode tube census bacon actor barrel dress sting economy party lunar coyote";
+var mnemonic = "praise key song lobster combine pull silly among over stomach uncover train";

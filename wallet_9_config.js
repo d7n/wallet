@@ -1,1 +1,1 @@
-var mnemonic = "wasp album asthma sister auction gloom skin thought scare champion meat across";
+var mnemonic = "man busy shrimp equal guitar hire hazard disease marriage broom oil whisper";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs kit swamp glimpse absurd tooth chest avoid treat fiction core million";
+var mnemonic = "moral island despair excess sad monkey monitor immune only define gift mansion";

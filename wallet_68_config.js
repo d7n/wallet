@@ -1,1 +1,1 @@
-var mnemonic = "fee snack shop chapter wonder own bag employ buzz require foster vehicle";
+var mnemonic = "title rice shrimp ramp act mom run level north during message glow";

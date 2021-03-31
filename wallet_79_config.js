@@ -1,1 +1,1 @@
-var mnemonic = "trim corn stereo venture budget square theory nephew drink dog domain regret";
+var mnemonic = "raw leave trip taxi barrel false battle woman wink web fiber gesture";

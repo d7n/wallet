@@ -1,1 +1,1 @@
-var mnemonic = "message only silver fever ticket addict unfair canvas cool kit blossom fog";
+var mnemonic = "print gadget detail alter virus cable come cement parrot immune tell engine";

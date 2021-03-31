@@ -1,1 +1,1 @@
-var mnemonic = "void awesome gap scheme shield fade denial minimum arrange grab law gain";
+var mnemonic = "cliff quarter cost episode cat arrow frame daughter volcano artwork dawn physical";

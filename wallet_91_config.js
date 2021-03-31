@@ -1,1 +1,1 @@
-var mnemonic = "height sausage powder census library tower artist fuel order angle speed float";
+var mnemonic = "school kiss leaf brave famous thank blue common this donkey special divide";

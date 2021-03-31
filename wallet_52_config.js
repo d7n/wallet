@@ -1,1 +1,1 @@
-var mnemonic = "morning great mushroom fashion scrap shrug toddler figure wide amateur evil parrot";
+var mnemonic = "corn wisdom alert consider glove hat erupt earth dentist mansion welcome hat";

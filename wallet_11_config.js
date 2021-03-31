@@ -1,1 +1,1 @@
-var mnemonic = "yard witness subject machine become slab wash dawn rival pause jazz gadget";
+var mnemonic = "ill suggest home repeat feature vibrant usage remain identify fix apart honey";

@@ -1,1 +1,1 @@
-var mnemonic = "anger doll outdoor own first trick spoon couch visit luggage infant tide";
+var mnemonic = "trade assume trip allow clinic culture process barely share pact hidden teach";

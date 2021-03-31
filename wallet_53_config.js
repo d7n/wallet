@@ -1,1 +1,1 @@
-var mnemonic = "mind street vital prepare train spring exit million truly egg fold embrace";
+var mnemonic = "sauce weekend interest need impact cloth accuse mammal frost goose camp crouch";

@@ -1,1 +1,1 @@
-var mnemonic = "open history devote gym news chalk hire grain combine afraid three satoshi";
+var mnemonic = "prevent thunder chicken cancel mushroom estate honey shove thank honey assist sphere";

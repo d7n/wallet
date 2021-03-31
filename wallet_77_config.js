@@ -1,1 +1,1 @@
-var mnemonic = "danger hill urban attend click void inject impulse knife victory win cupboard";
+var mnemonic = "upset enough sausage enough conduct know casual like emotion involve scare elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome fault confirm lawn shield this input mom merge buzz onion oil";
+var mnemonic = "soul window peanut shove rail unit odor brief carbon album stock wait";

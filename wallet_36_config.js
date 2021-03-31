@@ -1,1 +1,1 @@
-var mnemonic = "sunset brand ladder genre speed van balance tourist rug fringe century boss";
+var mnemonic = "choice grit picnic alert party spoil sell eight spice okay case mechanic";

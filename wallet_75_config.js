@@ -1,1 +1,1 @@
-var mnemonic = "vague leopard cotton fitness save melt shove style toy vote awake abstract";
+var mnemonic = "era resemble glance quantum master become alarm soup cliff canyon insane trophy";

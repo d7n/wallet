@@ -1,1 +1,1 @@
-var mnemonic = "term act ostrich liquid diagram assist tide barely glad top embody marble";
+var mnemonic = "tomato devote trim series dry reduce glue unable tooth zebra frame radar";

@@ -1,1 +1,1 @@
-var mnemonic = "law erase quote depart entry shadow magic wrestle zone replace wide feature";
+var mnemonic = "lesson hat stone magnet kitchen much obvious exact funny electric tube produce";

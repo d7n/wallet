@@ -1,1 +1,1 @@
-var mnemonic = "text dragon muffin result valve divorce shell goddess city fancy stand easy";
+var mnemonic = "dial melody tunnel social problem country panel again powder cigar under pulse";

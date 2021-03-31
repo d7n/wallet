@@ -1,1 +1,1 @@
-var mnemonic = "general bargain side orient mixed jazz spread outer odor include famous special";
+var mnemonic = "rifle maximum arrange box melt pulse much gym trash rebuild unhappy debate";

@@ -1,1 +1,1 @@
-var mnemonic = "tourist toy that bargain fluid ride predict horse coyote hover fat mistake";
+var mnemonic = "stand muffin fame hurdle doctor one giggle detail east sense gold kingdom";

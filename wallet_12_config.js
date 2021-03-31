@@ -1,1 +1,1 @@
-var mnemonic = "elbow vacant sponsor same faith input grit funny design coffee siren sea";
+var mnemonic = "sunny torch dolphin demand debate will response dream price dignity label dentist";

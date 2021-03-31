@@ -1,1 +1,1 @@
-var mnemonic = "useless fork monitor island gorilla flush orange near analyst jelly artist spot";
+var mnemonic = "tobacco guitar lend balcony update warrior focus knee field perfect slogan orchard";

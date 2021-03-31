@@ -1,1 +1,1 @@
-var mnemonic = "fun december visual pottery million risk easily recall loan expire ensure search";
+var mnemonic = "vessel awesome symptom veteran suit stuff unable judge episode chaos leader limit";

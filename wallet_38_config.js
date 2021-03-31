@@ -1,1 +1,1 @@
-var mnemonic = "turkey rural lyrics debate frame invite chaos cable gadget sail gravity over";
+var mnemonic = "observe nature loop apart clay weekend combine budget walnut fox quiz found";

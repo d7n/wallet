@@ -1,1 +1,1 @@
-var mnemonic = "fringe corn obtain blast breeze festival correct remember broom industry popular often";
+var mnemonic = "violin initial carbon deer trade next repeat run click salute exist drive";

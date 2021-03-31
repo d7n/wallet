@@ -1,1 +1,1 @@
-var mnemonic = "input upon frozen rack inherit guilt river cricket afraid pull neutral girl";
+var mnemonic = "list pond super october magnet hollow coast whale surprise mixture useful rescue";

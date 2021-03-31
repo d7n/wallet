@@ -1,1 +1,1 @@
-var mnemonic = "only age uniform dizzy elephant chief silent else leader earth arctic flat";
+var mnemonic = "soap lake crazy tourist jealous warrior inquiry genuine unlock water dial thunder";

@@ -1,1 +1,1 @@
-var mnemonic = "install click close man limit knife canyon brass judge age virus senior";
+var mnemonic = "charge maid page develop razor dad urban impact taste party alley acid";

@@ -1,1 +1,1 @@
-var mnemonic = "crack thing edit mouse adapt mistake west snack secret post build banner";
+var mnemonic = "crumble few ask utility trend fun census farm public fluid pistol impact";

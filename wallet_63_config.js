@@ -1,1 +1,1 @@
-var mnemonic = "law method punch index delay outside over check extend bar worth absorb";
+var mnemonic = "expand urban prosper deputy teach raven gossip nice merry author abuse maximum";

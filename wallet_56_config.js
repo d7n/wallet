@@ -1,1 +1,1 @@
-var mnemonic = "aspect gift curve pyramid loyal coconut bacon arena potato dutch concert property";
+var mnemonic = "lazy avocado furnace comic engage general hawk often luggage net prepare grit";

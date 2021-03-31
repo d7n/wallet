@@ -1,1 +1,1 @@
-var mnemonic = "aim oak hurdle humble virus already used trend inform slice bind firm";
+var mnemonic = "neck infant negative salmon better turtle certain certain sustain addict gas mad";

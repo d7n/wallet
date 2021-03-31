@@ -1,1 +1,1 @@
-var mnemonic = "fluid top mercy mouse wall casual waste crack narrow panda version success";
+var mnemonic = "juice human firm speak keep rich sausage pistol solve party siege merge";

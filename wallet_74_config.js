@@ -1,1 +1,1 @@
-var mnemonic = "eight kitchen lunch apology exhaust dish puzzle wealth option alien inhale flavor";
+var mnemonic = "ginger park custom category chapter black obvious gun weird length describe convince";

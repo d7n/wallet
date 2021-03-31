@@ -1,1 +1,1 @@
-var mnemonic = "ignore lonely share decide smile priority romance super define chunk master inflict";
+var mnemonic = "battle lumber rug bullet cover render recycle network pluck lava arrange common";
