@@ -1,1 +1,1 @@
-var mnemonic = "stable mesh output worth pool squirrel fever identify dose correct push rare";
+var mnemonic = "bonus spread jeans narrow loan nephew poverty system squeeze course you flock";

@@ -1,1 +1,1 @@
-var mnemonic = "dress engage march act hint nerve toilet glad among hub creek bronze";
+var mnemonic = "blue raccoon merit rural symptom chair youth garage mouse home page inch";

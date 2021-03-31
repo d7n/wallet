@@ -1,1 +1,1 @@
-var mnemonic = "funny solution monster provide that visa author involve zone border square behave";
+var mnemonic = "turkey neck fancy aim dawn snake sentence example ring trumpet great scan";

@@ -1,1 +1,1 @@
-var mnemonic = "stand minor reason tiny glance minimum hotel deputy morning stone assist nominee";
+var mnemonic = "photo shaft speak satoshi blood ordinary version crane clump exchange axis cute";

@@ -1,1 +1,1 @@
-var mnemonic = "truck acoustic vault call property maple strong bid puzzle fruit embrace lizard";
+var mnemonic = "best wine coral puppy federal direct grief kid indicate vacant seven plunge";

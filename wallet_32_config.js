@@ -1,1 +1,1 @@
-var mnemonic = "stone sister south nuclear chuckle shiver unable merit team ceiling gather want";
+var mnemonic = "nice airport behave rally pretty marriage toilet blue approve gold sport sand";

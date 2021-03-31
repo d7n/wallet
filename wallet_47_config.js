@@ -1,1 +1,1 @@
-var mnemonic = "solve very robot enemy swear save grass tank invite decline flush light";
+var mnemonic = "critic pyramid chicken poem nation chest parent world swarm shock film fatal";

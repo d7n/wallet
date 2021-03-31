@@ -1,1 +1,1 @@
-var mnemonic = "inform unaware alter route minimum current topple wrong west virus salute curve";
+var mnemonic = "relief share width rail van inject thought noodle rail wise pool type";

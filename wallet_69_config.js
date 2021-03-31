@@ -1,1 +1,1 @@
-var mnemonic = "teach enjoy minor fragile make bachelor nose student owner side sorry symptom";
+var mnemonic = "erase provide ability north fiction asthma multiply grab domain angle rail wear";

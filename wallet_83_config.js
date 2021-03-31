@@ -1,1 +1,1 @@
-var mnemonic = "code slender opera sorry nominee labor drum script year orphan frog enact";
+var mnemonic = "reject million boss pigeon tortoise produce rocket bean theme eye skate luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "spike fat arm more awake snap narrow salt mail castle viable south";
+var mnemonic = "goddess social essence need fly stamp shop finish tissue blind flash orange";

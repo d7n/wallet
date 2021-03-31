@@ -1,1 +1,1 @@
-var mnemonic = "prevent unique top razor barrel depend civil across win vanish fitness humor";
+var mnemonic = "glove tomorrow bamboo unusual slogan kangaroo gym equal sing wood can mention";

@@ -1,1 +1,1 @@
-var mnemonic = "news because nothing fossil only poem work chalk wasp stamp subject belt";
+var mnemonic = "chair skin train atom pet gospel drip soup warrior kitten trust notice";

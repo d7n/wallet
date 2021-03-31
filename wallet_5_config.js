@@ -1,1 +1,1 @@
-var mnemonic = "always street cause say double civil brief bronze opinion barely wood cost";
+var mnemonic = "lounge advance weekend more miracle venue ethics kiwi alone fiber lift work";

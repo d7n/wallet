@@ -1,1 +1,1 @@
-var mnemonic = "client indicate tide lemon act metal bless suggest gown card foot swim";
+var mnemonic = "close refuse better unaware umbrella payment there train swap dinosaur forward pony";

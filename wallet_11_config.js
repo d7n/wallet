@@ -1,1 +1,1 @@
-var mnemonic = "tiger swift kiss number path patch tell field unknown click tourist fashion";
+var mnemonic = "soda shallow trigger escape vacant forum gun else elevator stadium album wood";

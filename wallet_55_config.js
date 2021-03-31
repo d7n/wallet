@@ -1,1 +1,1 @@
-var mnemonic = "ticket menu catalog salute genius cabin sadness upset weird sort stumble asthma";
+var mnemonic = "senior tooth bring dash obey quiz cigar violin venture random lake balcony";

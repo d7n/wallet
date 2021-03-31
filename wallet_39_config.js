@@ -1,1 +1,1 @@
-var mnemonic = "web surface exit hover weather vote shop hockey invite time kiss despair";
+var mnemonic = "loan forum catch wrong patient blood range leisure globe unique auto mass";

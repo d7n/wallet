@@ -1,1 +1,1 @@
-var mnemonic = "purchase manual pudding frequent sound violin pear outdoor call neutral segment crew";
+var mnemonic = "blue drill prison web first measure media alley virtual dirt mixture analyst";

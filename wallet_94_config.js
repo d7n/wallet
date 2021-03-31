@@ -1,1 +1,1 @@
-var mnemonic = "thumb file video satisfy crew nominee about novel today inside busy purity";
+var mnemonic = "stuff brand quantum bronze reopen reunion boil hour silent lunch trap biology";

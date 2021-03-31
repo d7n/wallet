@@ -1,1 +1,1 @@
-var mnemonic = "notice renew sweet lottery distance lock pencil tumble banana syrup shoe emerge";
+var mnemonic = "mutual home mixed bread joke couch cover eye teach square drift hero";

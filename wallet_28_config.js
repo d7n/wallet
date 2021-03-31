@@ -1,1 +1,1 @@
-var mnemonic = "stumble quiz certain sausage excuse hip sick foam tired frost sand lend";
+var mnemonic = "siren weasel vault exhaust update silk cannon diesel pelican smart sea blame";

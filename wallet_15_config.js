@@ -1,1 +1,1 @@
-var mnemonic = "flock liberty tiny educate honey inflict matter brain vibrant shaft upgrade ramp";
+var mnemonic = "hero electric quality teach high deposit notice spawn winter already february radar";

@@ -1,1 +1,1 @@
-var mnemonic = "undo rubber peace shed truck pioneer trigger uncle panic remind survey team";
+var mnemonic = "vast access habit staff dynamic stage put slot able quiz cave hip";

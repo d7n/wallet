@@ -1,1 +1,1 @@
-var mnemonic = "cannon kiss margin ugly chef vintage assist pyramid access pistol okay genre";
+var mnemonic = "hen three dune cage oblige blood three page lava broccoli cream agent";

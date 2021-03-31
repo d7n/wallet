@@ -1,1 +1,1 @@
-var mnemonic = "badge yard jealous dry truly dentist category ship broccoli siren practice minute";
+var mnemonic = "monster summer quick replace avocado approve reduce runway away scare orbit behave";

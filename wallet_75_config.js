@@ -1,1 +1,1 @@
-var mnemonic = "drip hole angle exhaust surge glare year month mechanic audit pulse buddy";
+var mnemonic = "cancel again total visa daring valid material unlock arrive alone riot captain";

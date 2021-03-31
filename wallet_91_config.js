@@ -1,1 +1,1 @@
-var mnemonic = "core run duty year only advice mix powder figure interest gun panda";
+var mnemonic = "famous during thing tube video cross beauty young bring child truly olive";

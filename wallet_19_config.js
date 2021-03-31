@@ -1,1 +1,1 @@
-var mnemonic = "hawk sign card barrel example voyage return police ugly merit chalk about";
+var mnemonic = "liar soul lake similar afford buddy three boss mom affair record squeeze";

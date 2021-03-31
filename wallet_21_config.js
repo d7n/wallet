@@ -1,1 +1,1 @@
-var mnemonic = "inform color biology advance manual shrimp inflict table already blue result galaxy";
+var mnemonic = "hold loud same draft seminar right idea mercy salad total visa avocado";

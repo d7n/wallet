@@ -1,1 +1,1 @@
-var mnemonic = "host wash target soccer lion helmet used bread foot invite meat ritual";
+var mnemonic = "round grape bench crystal mouse quality jungle truck civil pulp prevent mosquito";

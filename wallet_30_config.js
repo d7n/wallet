@@ -1,1 +1,1 @@
-var mnemonic = "shift weird require swim brush border ankle brass evolve derive pet vivid";
+var mnemonic = "group duty hunt sting charge spy still glide transfer patch like any";

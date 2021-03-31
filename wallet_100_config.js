@@ -1,1 +1,1 @@
-var mnemonic = "immune under swift shell scare helmet slice category labor wet bind rose";
+var mnemonic = "ability dignity glory leave gaze odor knock kitten lizard flag inner hunt";

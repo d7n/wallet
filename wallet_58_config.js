@@ -1,1 +1,1 @@
-var mnemonic = "rely point patrol install clerk season nerve over arch hen wrap float";
+var mnemonic = "spoon simple claim model find key action improve food promote stand spray";

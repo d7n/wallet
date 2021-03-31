@@ -1,1 +1,1 @@
-var mnemonic = "chuckle know spend raccoon test ostrich typical answer churn grass month reason";
+var mnemonic = "vintage fiscal retire pluck shed illness onion range six exact crane sponsor";

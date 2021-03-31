@@ -1,1 +1,1 @@
-var mnemonic = "crew smoke bridge oak example ski useful force use brass phrase bitter";
+var mnemonic = "unique entire horse excuse velvet entry vast business avocado hand image tower";

@@ -1,1 +1,1 @@
-var mnemonic = "guard fever hunt marriage federal major point consider measure fruit decorate ladder";
+var mnemonic = "visa impact elevator wish taste believe icon private swallow enroll patrol render";

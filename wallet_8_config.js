@@ -1,1 +1,1 @@
-var mnemonic = "cool vivid huge palm gentle orange tone negative tube original diesel echo";
+var mnemonic = "okay knee portion fluid unable sketch hybrid tail burst topple artist deputy";

@@ -1,1 +1,1 @@
-var mnemonic = "august trim bag enact orange stable number people unknown clock gasp fiscal";
+var mnemonic = "endless broom stool negative sound pole fortune clown genuine menu hope sort";

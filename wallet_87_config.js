@@ -1,1 +1,1 @@
-var mnemonic = "cactus mercy forest ivory example motion social slam coyote viable liberty clay";
+var mnemonic = "myth stool rifle art spread lucky federal strike galaxy morning merge fire";

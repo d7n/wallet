@@ -1,1 +1,1 @@
-var mnemonic = "muscle process mosquito mention select key source thumb bargain upgrade hunt boil";
+var mnemonic = "foil embrace vacant please south sheriff veteran energy barely dragon task fat";

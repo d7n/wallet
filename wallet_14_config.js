@@ -1,1 +1,1 @@
-var mnemonic = "suspect vital behave gun guitar blind actress unhappy walk jewel dance film";
+var mnemonic = "rural peace urge royal shrimp flight sketch master ranch oval exist blast";

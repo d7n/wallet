@@ -1,1 +1,1 @@
-var mnemonic = "cannon security diesel hedgehog gate three fortune skin length tool visual wedding";
+var mnemonic = "kid rural print maid story method involve census speed wheel round plate";

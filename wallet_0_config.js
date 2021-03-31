@@ -1,1 +1,1 @@
-var mnemonic = "danger school hobby industry blame virtual inhale debate lounge topic grit direct";
+var mnemonic = "brush return board danger aim become neck anger patient mechanic comfort much";

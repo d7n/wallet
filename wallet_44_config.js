@@ -1,1 +1,1 @@
-var mnemonic = "alien chest wash toe run accident candy crawl wrong twice state iron";
+var mnemonic = "goat cash soda peasant machine crucial broccoli stereo artist mansion gasp category";

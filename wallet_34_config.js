@@ -1,1 +1,1 @@
-var mnemonic = "bread glare rotate century credit amazing comic assist draft nice kingdom fluid";
+var mnemonic = "quote sword below balance image impact isolate try only coach muffin salmon";

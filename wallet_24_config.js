@@ -1,1 +1,1 @@
-var mnemonic = "swarm tooth height adjust hope section cupboard link chef lunar truly delay";
+var mnemonic = "adapt outside smooth vicious antique unlock thing bid slide combine thunder giant";

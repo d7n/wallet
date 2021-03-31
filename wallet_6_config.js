@@ -1,1 +1,1 @@
-var mnemonic = "differ champion crew oppose hospital polar six throw vault stairs biology entry";
+var mnemonic = "venue retreat spring hundred wear mandate novel vast absorb alarm junior tell";

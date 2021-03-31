@@ -1,1 +1,1 @@
-var mnemonic = "twenty index flip bridge body describe risk runway maximum unknown solve concert";
+var mnemonic = "scan prefer stereo betray town quiz snow dash coin brave brush expect";

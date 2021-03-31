@@ -1,1 +1,1 @@
-var mnemonic = "black zone laptop grit patch genre marriage grid wheel list voice middle";
+var mnemonic = "exercise garbage point come elder cluster embark surprise adjust empty pink remember";

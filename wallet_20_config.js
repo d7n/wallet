@@ -1,1 +1,1 @@
-var mnemonic = "wonder pulse bread word pave boss caution cabin deposit profit leisure spice";
+var mnemonic = "husband leave grunt winter sound quantum plunge carpet awesome mixture warm immense";

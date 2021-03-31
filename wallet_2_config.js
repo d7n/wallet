@@ -1,1 +1,1 @@
-var mnemonic = "rotate current collect kite dumb tourist jump scan gloom cage void door";
+var mnemonic = "lesson sauce action lonely extra behave other follow name mail analyst suit";

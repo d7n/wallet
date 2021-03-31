@@ -1,1 +1,1 @@
-var mnemonic = "feed logic glide ball prosper pony there planet among obey destroy quality";
+var mnemonic = "uncover tired vote west off immune despair voice exchange shift destroy box";

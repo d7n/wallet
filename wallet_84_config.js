@@ -1,1 +1,1 @@
-var mnemonic = "april buzz bleak speed cram hockey capable ring electric chunk banner ranch";
+var mnemonic = "sauce connect winter mask travel trip foot hair winter toddler puzzle already";

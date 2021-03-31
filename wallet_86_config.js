@@ -1,1 +1,1 @@
-var mnemonic = "quarter humble pen ice reward transfer health cram stool asset fancy detail";
+var mnemonic = "enhance venue iron capable once witness pear umbrella apology few mix denial";

@@ -1,1 +1,1 @@
-var mnemonic = "slush clog have forget aspect tray camera deny kidney run brass harvest";
+var mnemonic = "clap air staff remember holiday bring shed slim chunk can fault pear";

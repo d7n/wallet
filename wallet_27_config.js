@@ -1,1 +1,1 @@
-var mnemonic = "save lady sister choose famous vote budget you sausage three change private";
+var mnemonic = "satisfy place base lottery ostrich depend toddler ethics zebra pool program weasel";

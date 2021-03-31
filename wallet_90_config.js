@@ -1,1 +1,1 @@
-var mnemonic = "make raw rib flame ordinary organ major worth blanket news risk zero";
+var mnemonic = "entire luggage hammer sound question angle truth love order system moment body";

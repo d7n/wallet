@@ -1,1 +1,1 @@
-var mnemonic = "pond boat response cause toss stock denial civil mixture coral bounce clock";
+var mnemonic = "foot embrace cupboard skill cheap captain begin essence net pottery immune fade";

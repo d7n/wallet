@@ -1,1 +1,1 @@
-var mnemonic = "claim tag aisle immune tuna next sick oven boss color infant neither";
+var mnemonic = "mistake today blue fossil possible define follow blanket violin size vibrant nose";

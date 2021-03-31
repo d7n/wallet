@@ -1,1 +1,1 @@
-var mnemonic = "jaguar father fix glad mouse tray later beach salmon gas scrap uncover";
+var mnemonic = "cream album limb degree pole monster pipe thing cable unit hazard hard";

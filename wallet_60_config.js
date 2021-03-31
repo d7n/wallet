@@ -1,1 +1,1 @@
-var mnemonic = "illegal arrest anchor pioneer hill close mother very title actress lady chaos";
+var mnemonic = "little receive universe pencil giant security letter discover intact uncle timber before";

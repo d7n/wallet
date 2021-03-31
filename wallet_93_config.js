@@ -1,1 +1,1 @@
-var mnemonic = "fee replace mushroom clerk release nasty window riot hobby garbage great voyage";
+var mnemonic = "jeans drive awake finish stomach drastic venture jazz play work cinnamon original";

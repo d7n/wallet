@@ -1,1 +1,1 @@
-var mnemonic = "clip blame enforce define trash true candy thank inner response adjust zoo";
+var mnemonic = "tray shell betray thumb betray wave bunker tunnel wait galaxy because nuclear";

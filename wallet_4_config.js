@@ -1,1 +1,1 @@
-var mnemonic = "piece curve lonely loud more clinic tree ring mushroom exchange cupboard hand";
+var mnemonic = "fly couple economy setup surprise route electric moon leader also earth style";

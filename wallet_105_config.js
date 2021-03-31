@@ -1,1 +1,1 @@
-var mnemonic = "enforce cabin surge odor lawn good mutual nominee dress vehicle robot gun";
+var mnemonic = "board code lucky now furnace zero vital detail ski affair april okay";

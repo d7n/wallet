@@ -1,1 +1,1 @@
-var mnemonic = "unfair crew wolf letter else camera know wasp forest manual journey just";
+var mnemonic = "intact staff denial rich lumber salon cannon oil erase smile amount media";

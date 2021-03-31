@@ -1,1 +1,1 @@
-var mnemonic = "eight truck federal recall process acid banana olive initial oppose they subject";
+var mnemonic = "mixture lady kingdom poet argue fitness prison tray pencil enjoy finish latin";

@@ -1,1 +1,1 @@
-var mnemonic = "electric friend fan rule athlete soda avocado video canyon copper oak already";
+var mnemonic = "wife hockey humble chair camp lazy genuine wet method pumpkin cabbage stone";

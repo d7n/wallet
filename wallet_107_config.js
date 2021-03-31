@@ -1,1 +1,1 @@
-var mnemonic = "mango employ offer monster below muscle donor push start injury solution flight";
+var mnemonic = "output tuna dignity pony term box loyal eternal obtain trick copper cereal";

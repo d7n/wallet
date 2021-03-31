@@ -1,1 +1,1 @@
-var mnemonic = "drastic snow exit inmate trend okay skirt potato stuff lecture wool sound";
+var mnemonic = "guide region cause humble ethics happy path render tide short acoustic picnic";

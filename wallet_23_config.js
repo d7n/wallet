@@ -1,1 +1,1 @@
-var mnemonic = "visual drive bright crucial area grab jelly aerobic brief favorite balcony dune";
+var mnemonic = "chef inflict plate hollow renew thing word olympic cinnamon gasp impose gun";

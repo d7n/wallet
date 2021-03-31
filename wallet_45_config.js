@@ -1,1 +1,1 @@
-var mnemonic = "ugly just cattle property carpet polar summer fly shadow right awkward grape";
+var mnemonic = "utility junk style eagle worth demise there cake thunder thumb betray resemble";

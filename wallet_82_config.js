@@ -1,1 +1,1 @@
-var mnemonic = "assist super gauge rib concert cotton yard stick lift power glad vital";
+var mnemonic = "lava discover appear cycle victory harsh actress dance reflect climb real exclude";

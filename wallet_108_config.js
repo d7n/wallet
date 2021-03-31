@@ -1,1 +1,1 @@
-var mnemonic = "behind rocket witness simple album rug delay cliff inflict tunnel empty caution";
+var mnemonic = "add grid kingdom toast debris carpet used snack slim mail reform velvet";

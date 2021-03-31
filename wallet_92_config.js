@@ -1,1 +1,1 @@
-var mnemonic = "wave help axis minimum render dinner guitar latin letter ten chair small";
+var mnemonic = "copy guilt cloth success rabbit lamp mistake reduce amount radio slender outdoor";

@@ -1,1 +1,1 @@
-var mnemonic = "scrap buyer student noble salad steel speak toss power grocery art decline";
+var mnemonic = "approve staff mystery learn suit spatial rebuild curious onion tuna song faith";

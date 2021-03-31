@@ -1,1 +1,1 @@
-var mnemonic = "attend fat sure reopen purity pudding bus jungle valley cinnamon clip hobby";
+var mnemonic = "field finish only evolve clarify oblige wisdom attitude wrestle suit toddler begin";

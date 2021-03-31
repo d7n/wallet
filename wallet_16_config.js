@@ -1,1 +1,1 @@
-var mnemonic = "upgrade regret only glove very poverty boil brass pear sister curve guilt";
+var mnemonic = "limit must wide average wheat long divide clutch glass suit horn lyrics";

@@ -1,1 +1,1 @@
-var mnemonic = "image glimpse practice genuine suggest unlock inhale hammer become ensure cloud beach";
+var mnemonic = "awake dish fix scrub veteran daughter tunnel asset abstract expect island silk";

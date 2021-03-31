@@ -1,1 +1,1 @@
-var mnemonic = "group taste nation fat puzzle myself tent loop account mistake federal input";
+var mnemonic = "army cricket measure bike humor alcohol unfair funny project catalog visa thumb";

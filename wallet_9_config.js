@@ -1,1 +1,1 @@
-var mnemonic = "garage inmate repair rib ribbon jungle cereal solution prize arm salon wave";
+var mnemonic = "rack refuse shrimp allow coach bind guard family pencil tattoo cable typical";

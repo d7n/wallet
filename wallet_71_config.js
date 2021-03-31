@@ -1,1 +1,1 @@
-var mnemonic = "satisfy faint expose learn morning cruel dice excuse search enough wheat merit";
+var mnemonic = "brass sauce mandate adjust surround error exact alley visual wagon pudding calm";

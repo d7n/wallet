@@ -1,1 +1,1 @@
-var mnemonic = "winner exotic seek radar session jungle sell frog gospel season winter blanket";
+var mnemonic = "prefer van busy extend bundle pumpkin ask erode over bonus attend industry";

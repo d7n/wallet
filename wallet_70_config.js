@@ -1,1 +1,1 @@
-var mnemonic = "hard knock answer bounce wide comic help void eager safe powder nuclear";
+var mnemonic = "project about pluck bitter critic interest area rebuild ahead rice busy gun";

@@ -1,1 +1,1 @@
-var mnemonic = "private spider seven mercy quit frozen budget word corn dream beyond fancy";
+var mnemonic = "oppose vote aim save eager inside unit timber gate hawk wrist crush";

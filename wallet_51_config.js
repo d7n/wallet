@@ -1,1 +1,1 @@
-var mnemonic = "pet fluid brother income family pencil mirror order planet screen funny wrap";
+var mnemonic = "aerobic cable hunt rare clump chase obscure comic dinosaur that pelican cricket";

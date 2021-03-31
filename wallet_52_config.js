@@ -1,1 +1,1 @@
-var mnemonic = "remind about safe early juice please awesome happy barely vacuum exotic seat";
+var mnemonic = "layer vacant wet weekend cannon announce creek velvet assault expand filter obvious";

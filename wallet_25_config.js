@@ -1,1 +1,1 @@
-var mnemonic = "prevent online hard minor success hello crouch timber enter light crime jeans";
+var mnemonic = "strong myself margin mandate side olive undo west tip vintage document ritual";

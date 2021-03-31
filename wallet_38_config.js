@@ -1,1 +1,1 @@
-var mnemonic = "real license plug upper involve arrow engage account credit resist already swim";
+var mnemonic = "grass rabbit media okay gate baby claim confirm survey enemy food layer";

@@ -1,1 +1,1 @@
-var mnemonic = "occur inform afford opinion earn unhappy abstract puzzle pond there proof surprise";
+var mnemonic = "two uphold pelican horse symbol grocery load range wink more foster essence";

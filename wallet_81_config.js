@@ -1,1 +1,1 @@
-var mnemonic = "million super anxiety collect syrup hire woman open aerobic half scout jungle";
+var mnemonic = "venue hour myth found industry weekend field protect supply range flame salad";

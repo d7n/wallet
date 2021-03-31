@@ -1,1 +1,1 @@
-var mnemonic = "observe wise swamp devote pull talk dismiss crush promote consider kingdom rude";
+var mnemonic = "soda faith bless cart soup poverty tackle leave crime ostrich push skull";

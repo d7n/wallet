@@ -1,1 +1,1 @@
-var mnemonic = "hamster hold slender step way physical boil favorite invite beyond quantum version";
+var mnemonic = "truly vintage profit find relax month deputy garage crash sleep guide brass";
