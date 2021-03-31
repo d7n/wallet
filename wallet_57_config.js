@@ -1,1 +1,1 @@
-var mnemonic = "lazy zero knee fiction business sight edge stock small tomorrow cactus snack";
+var mnemonic = "when fruit sound flavor equal century hand entry thank wagon custom senior";

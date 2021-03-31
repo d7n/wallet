@@ -1,1 +1,1 @@
-var mnemonic = "noise drum enlist crunch mouse ability gap town lock practice upper spell";
+var mnemonic = "identify index kingdom code off analyst critic among spot bracket release outside";

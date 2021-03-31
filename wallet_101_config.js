@@ -1,1 +1,1 @@
-var mnemonic = "dentist twin rebuild credit rubber license solid avoid hold income kid setup";
+var mnemonic = "exotic grid style drink one salad caught salad ignore announce pride install";

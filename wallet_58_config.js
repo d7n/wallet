@@ -1,1 +1,1 @@
-var mnemonic = "chuckle awkward romance unfold high scorpion turkey convince public mail pretty rabbit";
+var mnemonic = "pattern above chase exact absorb photo wrong social rally demand moral spell";

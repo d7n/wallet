@@ -1,1 +1,1 @@
-var mnemonic = "cargo flag achieve glare sweet sauce idle yard left proof bind casino";
+var mnemonic = "crisp industry issue issue process swim unusual pioneer common forget search region";

@@ -1,1 +1,1 @@
-var mnemonic = "parrot caught wink curtain much such bid dove afford error execute busy";
+var mnemonic = "inject proud spend shrimp merit also vicious sister exercise unhappy spare father";

@@ -1,1 +1,1 @@
-var mnemonic = "observe trigger wage mandate easy arrive elite useless churn letter sudden output";
+var mnemonic = "grow pole ivory feed suffer silver tide taste sphere screen cancel grief";

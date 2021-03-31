@@ -1,1 +1,1 @@
-var mnemonic = "umbrella dinner belt ranch virtual practice abandon matter magnet plug fetch early";
+var mnemonic = "motor hip quality advice envelope afford keep regular muscle collect spring system";

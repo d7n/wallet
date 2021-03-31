@@ -1,1 +1,1 @@
-var mnemonic = "again execute jazz shuffle swift illegal spy green shift pencil engage tank";
+var mnemonic = "gym express luxury slice gadget retire brave enemy okay since describe bird";

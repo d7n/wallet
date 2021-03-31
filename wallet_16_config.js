@@ -1,1 +1,1 @@
-var mnemonic = "envelope tourist slush hire portion notable stay silly aisle empty check slogan";
+var mnemonic = "school follow race enter pledge motor game squeeze annual pottery evolve raven";

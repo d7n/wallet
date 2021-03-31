@@ -1,1 +1,1 @@
-var mnemonic = "type habit almost twist build lyrics stick alley dad cup siege edge";
+var mnemonic = "plastic memory exercise hungry village state dream knife achieve truth neglect slight";

@@ -1,1 +1,1 @@
-var mnemonic = "oblige upgrade battle loud resemble parent guess minimum spoil cherry forward orange";
+var mnemonic = "traffic zone target thrive gesture horn roast feature uphold excess fiction escape";

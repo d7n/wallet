@@ -1,1 +1,1 @@
-var mnemonic = "become bachelor plastic rookie settle cover scout section goddess afford impact caught";
+var mnemonic = "learn list mother wrong universe upon boring grief abandon save stage neutral";

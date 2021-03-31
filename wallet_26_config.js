@@ -1,1 +1,1 @@
-var mnemonic = "cradle misery give leg blouse online flip true gap cluster frequent helmet";
+var mnemonic = "elegant kitchen depart buddy poet foster muffin option wish walnut country disorder";

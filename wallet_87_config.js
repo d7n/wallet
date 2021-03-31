@@ -1,1 +1,1 @@
-var mnemonic = "extend region arrive solution element palace endorse hundred grace exclude win ignore";
+var mnemonic = "castle obey tragic parent lecture close focus pulp extra action invite blue";

@@ -1,1 +1,1 @@
-var mnemonic = "deliver duck icon battle crew strategy runway large win social mirror word";
+var mnemonic = "assist gallery reform burst picture cactus frame weird pilot approve summer tunnel";

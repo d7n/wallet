@@ -1,1 +1,1 @@
-var mnemonic = "poet topic gate olive benefit employ kidney useless treat impact hard risk";
+var mnemonic = "evil sustain fan future quick hurry chat day topple two mean payment";

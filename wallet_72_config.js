@@ -1,1 +1,1 @@
-var mnemonic = "wood gap machine tired wash stable swap club decade rib private order";
+var mnemonic = "universe saddle come rice damage jacket gasp sure mail direct click soon";

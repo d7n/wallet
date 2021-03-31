@@ -1,1 +1,1 @@
-var mnemonic = "burst about age exit vague tag faculty barely kingdom glide puzzle chat";
+var mnemonic = "conduct punch beef loud front august banana century sand twin beach cloth";

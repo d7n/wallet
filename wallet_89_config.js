@@ -1,1 +1,1 @@
-var mnemonic = "broom follow spike hammer sudden chicken face annual net pioneer mule era";
+var mnemonic = "bamboo sport tent cry agree next will kind risk icon salute agree";

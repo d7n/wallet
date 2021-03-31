@@ -1,1 +1,1 @@
-var mnemonic = "coffee fatigue dirt practice brass target rack smart february thank region night";
+var mnemonic = "minimum scatter bounce message pistol change liquid robot that mother help fortune";

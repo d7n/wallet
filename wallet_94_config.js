@@ -1,1 +1,1 @@
-var mnemonic = "act silly town pen among simple category squirrel praise gesture truly tackle";
+var mnemonic = "used boy loan sick venue trust trumpet radar coil amused doll describe";

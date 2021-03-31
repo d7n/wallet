@@ -1,1 +1,1 @@
-var mnemonic = "atom ivory all oak excess whale online become tragic judge wool olympic";
+var mnemonic = "clever portion sniff refuse swarm say gather social diamond holiday turtle verb";

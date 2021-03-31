@@ -1,1 +1,1 @@
-var mnemonic = "limit base awake cup noise learn feed kangaroo empower citizen yard visual";
+var mnemonic = "talk indoor leave average version infant wild elevator creek hurt unique pond";

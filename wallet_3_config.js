@@ -1,1 +1,1 @@
-var mnemonic = "bitter seed round dress world furnace hope undo skate divorce web legend";
+var mnemonic = "kind exotic allow child poem wrist leisure jacket valley satisfy lift coffee";

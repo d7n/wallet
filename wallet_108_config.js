@@ -1,1 +1,1 @@
-var mnemonic = "fantasy wire explain lamp corn degree miracle because left buyer warrior pony";
+var mnemonic = "cart math skill ritual coyote harsh guess bronze smart domain federal enforce";

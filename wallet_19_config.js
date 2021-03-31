@@ -1,1 +1,1 @@
-var mnemonic = "build genius ecology sentence mix brain prize renew beyond moral wise wisdom";
+var mnemonic = "waste wasp gown tip impose token edge blouse make own put diesel";

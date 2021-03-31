@@ -1,1 +1,1 @@
-var mnemonic = "machine muscle spray adult color angle powder web soon jump garage clog";
+var mnemonic = "hair valve ripple museum style erosion grit gas save pizza model anxiety";

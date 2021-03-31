@@ -1,1 +1,1 @@
-var mnemonic = "soda velvet rail crowd win giraffe cram key doctor evoke blade picture";
+var mnemonic = "august celery sense dry destroy refuse silver spoon chest common grain together";

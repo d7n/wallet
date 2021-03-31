@@ -1,1 +1,1 @@
-var mnemonic = "figure pioneer turtle vehicle fury cute online toddler saddle little silver success";
+var mnemonic = "hollow demand unique industry floor spirit mango situate round snow dawn village";

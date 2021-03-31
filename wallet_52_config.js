@@ -1,1 +1,1 @@
-var mnemonic = "chase iron sauce upgrade perfect end inherit scale drip nephew paper ahead";
+var mnemonic = "nut kitten involve often select reward acoustic proof buyer garbage skirt glue";

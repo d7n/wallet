@@ -1,1 +1,1 @@
-var mnemonic = "advance provide spoil poverty casual pistol bulk orient sing salute crouch area";
+var mnemonic = "disease armed solution attend minute warm favorite involve repair only print arm";

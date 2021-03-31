@@ -1,1 +1,1 @@
-var mnemonic = "trick device swing scrub host shove ramp deputy all core renew typical";
+var mnemonic = "sight erase detail three shuffle ready country funny profit quit pull praise";

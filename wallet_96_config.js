@@ -1,1 +1,1 @@
-var mnemonic = "meadow abstract rain guard limb wave simple power run reject action phone";
+var mnemonic = "peanut tornado gun enough pact inner extra tip travel chaos cloth soccer";

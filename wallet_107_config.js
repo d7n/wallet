@@ -1,1 +1,1 @@
-var mnemonic = "nuclear switch eye loop feature garment mixture feel alley day upgrade fall";
+var mnemonic = "digital poverty orphan mistake tilt absorb palace need journey aware legend grape";

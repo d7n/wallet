@@ -1,1 +1,1 @@
-var mnemonic = "firm mansion tiny maze biology denial skill notable enroll security verify indoor";
+var mnemonic = "fee twelve snack warm save relax anger hen elbow bullet direct riot";

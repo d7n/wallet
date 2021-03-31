@@ -1,1 +1,1 @@
-var mnemonic = "wool myself wife honey clinic decorate solid evidence cabbage say curious increase";
+var mnemonic = "urge scene actor harvest response double latin verb permit flight thunder dish";

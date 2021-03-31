@@ -1,1 +1,1 @@
-var mnemonic = "wreck broccoli acid goat test home giggle antique potato drink photo cover";
+var mnemonic = "change limb market valley pool business potato cattle enjoy distance chunk wink";

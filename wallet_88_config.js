@@ -1,1 +1,1 @@
-var mnemonic = "reform inside cable buyer expand alcohol dice radar digital vicious token insect";
+var mnemonic = "special upset ugly bird biology vintage smile arrest fiber tired seek used";

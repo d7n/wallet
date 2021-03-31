@@ -1,1 +1,1 @@
-var mnemonic = "runway provide eagle sample magnet address produce leave success hidden exotic rain";
+var mnemonic = "aerobic bullet flame sad penalty income evoke finger invite edge scheme luggage";

@@ -1,1 +1,1 @@
-var mnemonic = "trim symptom exact turn patient pistol tank spray fit brain embark unable";
+var mnemonic = "innocent decline link wheat smart retreat keen answer twelve simple swallow fit";

@@ -1,1 +1,1 @@
-var mnemonic = "crucial narrow rebel brisk holiday lobster owner type egg rocket later old";
+var mnemonic = "often title pass barrel tomato hand escape dinner cash hope garden resemble";

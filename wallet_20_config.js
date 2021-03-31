@@ -1,1 +1,1 @@
-var mnemonic = "portion assist poverty left flag traffic melody fluid cancel word tilt mix";
+var mnemonic = "ticket cliff shallow frown enhance process mention arrive pulse obvious coin require";

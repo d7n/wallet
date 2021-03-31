@@ -1,1 +1,1 @@
-var mnemonic = "poem question that offer refuse display ivory family opera gauge announce advance";
+var mnemonic = "slam swap hotel fever young fatal suspect want morning minor fire nephew";

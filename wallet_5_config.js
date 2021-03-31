@@ -1,1 +1,1 @@
-var mnemonic = "height catch safe pair upset plug tower two obscure letter ladder camp";
+var mnemonic = "lesson volcano curve expect park diesel cruise element parrot laugh rail pact";

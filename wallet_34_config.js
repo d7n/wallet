@@ -1,1 +1,1 @@
-var mnemonic = "toy lake update rhythm zero useful hollow brown rude hour monitor mean";
+var mnemonic = "cat lock emotion inform wheat garment strategy fame rebuild shift faculty wash";

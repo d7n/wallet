@@ -1,1 +1,1 @@
-var mnemonic = "remind despair delay camp clever spare moral pink struggle shaft high country";
+var mnemonic = "disease prison rival mass wealth quick drama invest able castle whale mention";

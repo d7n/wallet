@@ -1,1 +1,1 @@
-var mnemonic = "result edit toward tube flag own canal riot exile zoo famous chronic";
+var mnemonic = "ordinary certain mistake myth limit picnic topple worry impose equip unfair human";

@@ -1,1 +1,1 @@
-var mnemonic = "aspect essence female infant direct paddle hunt retire trend scene human supreme";
+var mnemonic = "shed coach much two odor hobby surround cube diesel legend alien palm";

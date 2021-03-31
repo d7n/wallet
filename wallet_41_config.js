@@ -1,1 +1,1 @@
-var mnemonic = "edge insect fall ignore eternal cruel fence table expand van tail drift";
+var mnemonic = "roof country kind supply torch roast major snow asthma filter owner right";

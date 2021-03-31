@@ -1,1 +1,1 @@
-var mnemonic = "punch language token adjust amused rebuild essay wise lobster gossip shaft narrow";
+var mnemonic = "host crowd motor session riot debate join light robust front divide wisdom";

@@ -1,1 +1,1 @@
-var mnemonic = "awake custom hard fossil rhythm affair august reduce enough dog aisle debate";
+var mnemonic = "private forum behave axis fall unhappy salad divert stem believe genius flush";

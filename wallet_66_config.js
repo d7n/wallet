@@ -1,1 +1,1 @@
-var mnemonic = "fantasy gasp answer name copper stomach dune invest rack side junk feel";
+var mnemonic = "open town favorite rule tip snap crew sail believe dilemma virus digital";

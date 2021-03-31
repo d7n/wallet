@@ -1,1 +1,1 @@
-var mnemonic = "cloud sausage loud maximum beef setup diet mirror produce minute kid flock";
+var mnemonic = "embrace immense slush dove puzzle slow quarter mechanic casual blur cradle host";

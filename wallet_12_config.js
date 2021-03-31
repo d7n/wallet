@@ -1,1 +1,1 @@
-var mnemonic = "crush grow angry birth sport forward comfort donate economy mosquito belt certain";
+var mnemonic = "meadow siren devote more taste talk intact scorpion visit evidence dentist bomb";

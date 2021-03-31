@@ -1,1 +1,1 @@
-var mnemonic = "suspect all reflect heart bean cactus asset fan charge emerge describe first";
+var mnemonic = "physical human rich fade account hair year female chalk comfort immune news";

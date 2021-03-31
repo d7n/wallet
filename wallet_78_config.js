@@ -1,1 +1,1 @@
-var mnemonic = "truly enforce ribbon fault vacant humor crystal light pattern steel language moment";
+var mnemonic = "alarm midnight legend blame island modify identify spot more brand ride piece";

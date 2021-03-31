@@ -1,1 +1,1 @@
-var mnemonic = "usual luxury fold end city lemon speak wrestle token urban van roof";
+var mnemonic = "eight tuna author wheel robot spend tail wage calm sunset main tuition";

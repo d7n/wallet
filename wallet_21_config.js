@@ -1,1 +1,1 @@
-var mnemonic = "plate captain rather digital state puppy tag zebra hundred trap fetch truly";
+var mnemonic = "auction ill staff blood point scare defense breeze media sponsor where argue";

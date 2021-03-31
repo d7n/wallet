@@ -1,1 +1,1 @@
-var mnemonic = "blood muscle cloud suit aunt assault fancy monitor fossil arctic weekend acoustic";
+var mnemonic = "identify confirm outside layer antenna prize arena whale ecology usage mix rib";

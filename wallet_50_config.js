@@ -1,1 +1,1 @@
-var mnemonic = "float castle already bean husband cliff public advance drop reduce suspect vessel";
+var mnemonic = "marble quality sheriff verb visual hammer repeat same tower test omit control";

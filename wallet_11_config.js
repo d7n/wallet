@@ -1,1 +1,1 @@
-var mnemonic = "task mandate begin one poem window logic wait allow garage drink feature";
+var mnemonic = "trap image tooth actor amazing eight fiction foot catch occur profit unfair";

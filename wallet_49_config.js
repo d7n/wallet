@@ -1,1 +1,1 @@
-var mnemonic = "december gossip defense cube special radio price stamp steel hub scatter turtle";
+var mnemonic = "ecology market imitate biology sleep great waste dilemma escape medal devote sail";

@@ -1,1 +1,1 @@
-var mnemonic = "reunion involve stone praise notable blast squirrel speed retreat shy clean release";
+var mnemonic = "elbow mercy meat baby private agent cry narrow mask cliff ladder canoe";

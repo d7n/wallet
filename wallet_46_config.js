@@ -1,1 +1,1 @@
-var mnemonic = "face deputy glance front trend nothing midnight clown hurt staff zoo eyebrow";
+var mnemonic = "orphan blanket favorite crumble hip into bind aspect various captain tomato tuna";

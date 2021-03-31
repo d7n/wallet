@@ -1,1 +1,1 @@
-var mnemonic = "cloth inhale wage bullet world alien tenant bike suffer physical start dad";
+var mnemonic = "before victory naive pool pencil mercy throw together matter embody grief ill";

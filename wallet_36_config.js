@@ -1,1 +1,1 @@
-var mnemonic = "hood ride top track pass best gain salmon subject odor render squeeze";
+var mnemonic = "bomb oyster wrestle chef panel lobster require sample swamp present butter detect";

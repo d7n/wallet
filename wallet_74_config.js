@@ -1,1 +1,1 @@
-var mnemonic = "injury wait shoe correct bamboo undo champion violin play else super mandate";
+var mnemonic = "tuna unveil tonight engine mule penalty math elevator swallow state route cook";

@@ -1,1 +1,1 @@
-var mnemonic = "hazard fox fantasy protect height essence aim shield human invite siren stuff";
+var mnemonic = "planet practice harbor round swift once frozen slight all home sun horn";

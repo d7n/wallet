@@ -1,1 +1,1 @@
-var mnemonic = "quantum report margin digital decide subway belt upon favorite decrease fold sick";
+var mnemonic = "glimpse icon funny fly build method decline chimney citizen crouch target local";

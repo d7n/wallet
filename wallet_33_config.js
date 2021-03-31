@@ -1,1 +1,1 @@
-var mnemonic = "raven spider inquiry kiwi unit enter limit flip pizza kangaroo net outer";
+var mnemonic = "horn favorite balcony check naive winter kick travel vibrant domain potato slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "spring cart biology judge below this envelope must false step stereo stuff";
+var mnemonic = "random useful cinnamon fringe shallow album garlic matter favorite borrow sense damage";

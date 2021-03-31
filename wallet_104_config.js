@@ -1,1 +1,1 @@
-var mnemonic = "weekend stuff answer repair ostrich broom apple ski toast nut project blame";
+var mnemonic = "month jeans order fence protect imitate foam outer diesel brain chapter deputy";

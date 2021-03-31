@@ -1,1 +1,1 @@
-var mnemonic = "endorse sniff gorilla future salad spring mobile oyster alone shoulder tribe gift";
+var mnemonic = "fantasy heavy neglect enable illegal sell include horse library regret orange habit";

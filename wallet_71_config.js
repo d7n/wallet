@@ -1,1 +1,1 @@
-var mnemonic = "throw exercise horror clown crew calm vault ugly ahead boring pulp ice";
+var mnemonic = "road parade warfare carry atom live jelly design swap outer shift upset";

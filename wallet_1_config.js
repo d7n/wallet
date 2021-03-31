@@ -1,1 +1,1 @@
-var mnemonic = "pulse kingdom drastic figure label reflect dash duty opera gentle race system";
+var mnemonic = "surround pair setup burger chase fresh buyer virtual rare mammal brother trash";

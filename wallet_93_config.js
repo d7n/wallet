@@ -1,1 +1,1 @@
-var mnemonic = "judge tiny sudden accident hurry device kit story market today deputy sign";
+var mnemonic = "super memory upset rare silly guitar sad divide hour solution attend brave";

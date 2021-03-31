@@ -1,1 +1,1 @@
-var mnemonic = "engage spare lobster occur inner topic tongue what raccoon cook auction tornado";
+var mnemonic = "sock service reward hint grant hybrid belt near visual jungle vault conduct";

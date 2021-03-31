@@ -1,1 +1,1 @@
-var mnemonic = "mosquito taste slow unit keen uncle hole what tuna combine logic minimum";
+var mnemonic = "group all sadness voyage resemble spring inquiry include upgrade episode have tag";

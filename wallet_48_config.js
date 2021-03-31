@@ -1,1 +1,1 @@
-var mnemonic = "hazard march crouch primary dry effort chimney chat number olive blue bright";
+var mnemonic = "about globe joy airport execute badge music window better bright warm suspect";

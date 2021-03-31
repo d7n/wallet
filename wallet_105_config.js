@@ -1,1 +1,1 @@
-var mnemonic = "cool ahead fatigue put else stomach curve point tiger material oblige involve";
+var mnemonic = "fix enlist true donkey crash soul insane usual pepper juice wave attitude";

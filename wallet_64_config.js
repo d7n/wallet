@@ -1,1 +1,1 @@
-var mnemonic = "crime various crawl provide festival pilot record social core certain decline cat";
+var mnemonic = "envelope prefer comic phone fault better dune boss polar web option label";

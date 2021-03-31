@@ -1,1 +1,1 @@
-var mnemonic = "destroy must rough conduct village join arm mix display marble kitten witness";
+var mnemonic = "female wild good solar omit since harsh call winter chase when settle";

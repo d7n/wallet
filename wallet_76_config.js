@@ -1,1 +1,1 @@
-var mnemonic = "shrug two present release yard captain sing debate lady wrist legend profit";
+var mnemonic = "stem soldier total latin puzzle chase long jealous language have can finish";

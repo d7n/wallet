@@ -1,1 +1,1 @@
-var mnemonic = "vendor grain narrow fly device issue suspect aspect aunt punch latin ecology";
+var mnemonic = "pistol ensure arrow toy layer shuffle innocent wing helmet spin match castle";

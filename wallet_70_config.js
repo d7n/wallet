@@ -1,1 +1,1 @@
-var mnemonic = "code second siren lawsuit ordinary maid alarm spot property light call flower";
+var mnemonic = "design tree inhale sure business nice peanut candy unlock stadium park weapon";

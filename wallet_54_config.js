@@ -1,1 +1,1 @@
-var mnemonic = "parent crush dumb ripple stuff private canyon loan song burst tackle universe";
+var mnemonic = "bacon code edge plastic grit engine salt mouse gaze you tornado recipe";

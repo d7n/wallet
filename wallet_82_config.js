@@ -1,1 +1,1 @@
-var mnemonic = "reveal lady term skate laugh purpose sentence leaf among mutual inmate crumble";
+var mnemonic = "fiscal moon pig sniff rough myth fly fork peace reveal clump still";

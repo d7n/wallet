@@ -1,1 +1,1 @@
-var mnemonic = "intact gesture fatigue transfer airport vault derive song pyramid foster prosper reduce";
+var mnemonic = "double tomorrow web truck crane antenna unlock alter visual type bachelor version";

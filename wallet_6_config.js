@@ -1,1 +1,1 @@
-var mnemonic = "measure below drift memory scan someone dune orphan rabbit steel beyond setup";
+var mnemonic = "combine require sick dignity dial double flash resemble multiply baby cricket drastic";

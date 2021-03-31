@@ -1,1 +1,1 @@
-var mnemonic = "loop fitness goddess conduct pig below camera mean start entire charge blossom";
+var mnemonic = "business column number connect sweet basic brick frog broken owner frog thing";
