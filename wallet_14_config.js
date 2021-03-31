@@ -1,1 +1,1 @@
-var mnemonic = "palace hen opinion gasp such diamond miracle tag group inflict weather envelope";
+var mnemonic = "private retire multiply edit eternal puzzle element length spy then there resemble";

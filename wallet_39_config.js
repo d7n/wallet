@@ -1,1 +1,1 @@
-var mnemonic = "treat orphan youth cherry case basic crucial derive toe wear nose left";
+var mnemonic = "panda cement utility husband sunset strategy another crumble dream portion scrub sorry";

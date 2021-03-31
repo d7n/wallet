@@ -1,1 +1,1 @@
-var mnemonic = "rail miracle urban initial lunar display news rotate bid air cloud cool";
+var mnemonic = "peanut poverty list actress cry virtual armed drink raven price fiber fringe";

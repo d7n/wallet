@@ -1,1 +1,1 @@
-var mnemonic = "mutual myself can flush loop sleep giggle seven game train stairs since";
+var mnemonic = "engine canoe winter awkward pill hand response office goat loud cabbage judge";

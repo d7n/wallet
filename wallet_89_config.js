@@ -1,1 +1,1 @@
-var mnemonic = "phone gold clean outside tunnel feed notice leg awake board ask ticket";
+var mnemonic = "milk zoo forward left size clip elbow venture place offer film eternal";

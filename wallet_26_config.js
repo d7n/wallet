@@ -1,1 +1,1 @@
-var mnemonic = "pattern burger motion blame jewel direct shrug cat today omit shadow wait";
+var mnemonic = "antenna woman round drip off thing laugh mean title eagle gather bright";

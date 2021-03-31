@@ -1,1 +1,1 @@
-var mnemonic = "city quit choice embark physical rival warrior advice depth reject heavy mean";
+var mnemonic = "bright mirror pill toward cake stumble unveil network near leg lion eight";

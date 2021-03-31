@@ -1,1 +1,1 @@
-var mnemonic = "armor faculty chef wet core zebra print picture panel violin bulb rich";
+var mnemonic = "view history uncle predict someone filter tired father toss spirit attract match";

@@ -1,1 +1,1 @@
-var mnemonic = "advice rocket floor under lamp sunny denial donate length depend gauge reveal";
+var mnemonic = "fluid enforce lizard upset soda salon husband slice crunch improve scorpion harvest";

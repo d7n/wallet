@@ -1,1 +1,1 @@
-var mnemonic = "step cover cat food wheat decorate trouble humble embark rifle detail level";
+var mnemonic = "field silent price staff fox sketch struggle mushroom earth solid battle mosquito";

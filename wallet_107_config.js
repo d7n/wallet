@@ -1,1 +1,1 @@
-var mnemonic = "minute cinnamon holiday laundry sort define pave radar episode gate sunset picture";
+var mnemonic = "vessel sort blouse skin boy lizard input fun aspect spawn thought jungle";

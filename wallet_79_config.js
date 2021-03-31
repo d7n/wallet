@@ -1,1 +1,1 @@
-var mnemonic = "junk slogan acquire enable heart dynamic sick ranch glory slow two start";
+var mnemonic = "escape license security kid abstract false nuclear vendor device poverty identify rotate";

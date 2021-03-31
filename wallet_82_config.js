@@ -1,1 +1,1 @@
-var mnemonic = "bubble valve toddler invite choice fun enjoy kangaroo plate jaguar simple milk";
+var mnemonic = "coast train artist convince fish left organ various electric soup magic inch";

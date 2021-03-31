@@ -1,1 +1,1 @@
-var mnemonic = "drastic hero pave fiber inject license stage result chuckle prison sorry region";
+var mnemonic = "auto season believe master zone rubber table door print modify level mass";

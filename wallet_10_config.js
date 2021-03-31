@@ -1,1 +1,1 @@
-var mnemonic = "text rely pizza desert quantum pond cliff swim wasp dove robust vendor";
+var mnemonic = "limb obey job argue luxury salad other keep sugar asthma useful wrong";

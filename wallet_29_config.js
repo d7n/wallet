@@ -1,1 +1,1 @@
-var mnemonic = "moral culture crater abandon unveil secret buzz gap affair ripple panic range";
+var mnemonic = "fitness find sunny sock pupil muffin edge eight clip abandon jazz entire";

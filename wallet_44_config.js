@@ -1,1 +1,1 @@
-var mnemonic = "faint chalk bitter blame marriage change toast snake feature thank entry candy";
+var mnemonic = "better sad bracket boat circle vast huge mail perfect giraffe gallery hope";

@@ -1,1 +1,1 @@
-var mnemonic = "tool wheel roast unaware gate arch liberty orchard stumble odor west relief";
+var mnemonic = "bind mansion reflect daughter gadget any purpose maple earn cave wrestle aisle";

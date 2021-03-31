@@ -1,1 +1,1 @@
-var mnemonic = "uncover elephant dumb kite athlete kangaroo pioneer eternal auto draw finish north";
+var mnemonic = "sample picnic brave joke glow cheap educate smile kidney feed teach clerk";

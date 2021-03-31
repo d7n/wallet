@@ -1,1 +1,1 @@
-var mnemonic = "wine exist bleak author quarter uncle fan advance dish series genius double";
+var mnemonic = "amused crime inner claim card mystery above connect fat save surprise very";

@@ -1,1 +1,1 @@
-var mnemonic = "slam thrive elbow brain voyage wear office upper drift require meat giggle";
+var mnemonic = "fringe history dish despair crime palm crowd scan town invite twin author";

@@ -1,1 +1,1 @@
-var mnemonic = "reform estate whip accident kitten odor core average nest size arena review";
+var mnemonic = "photo warrior dose dinosaur verb enemy essence minor clip leisure topic recall";

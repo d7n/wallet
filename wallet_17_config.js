@@ -1,1 +1,1 @@
-var mnemonic = "client lens peanut century danger lava seven foster shoot account point nasty";
+var mnemonic = "toward apology state apology glory bottom party reopen hard cabbage leader sing";

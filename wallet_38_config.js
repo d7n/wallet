@@ -1,1 +1,1 @@
-var mnemonic = "feature roof add solution recall click palace try lyrics grief away lonely";
+var mnemonic = "spring merge vibrant school thank umbrella laptop shrug double alpha patient throw";

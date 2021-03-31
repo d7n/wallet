@@ -1,1 +1,1 @@
-var mnemonic = "west market outer impact humble hip attitude jaguar dutch daughter flag worry";
+var mnemonic = "virtual obey absurd load false typical runway require shine ritual insect give";

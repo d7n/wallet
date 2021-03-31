@@ -1,1 +1,1 @@
-var mnemonic = "market issue churn soul addict shoe happy donkey border suggest engine gentle";
+var mnemonic = "inform suspect drive load grocery artefact speed make genius play vague health";

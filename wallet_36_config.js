@@ -1,1 +1,1 @@
-var mnemonic = "repeat anchor coyote stadium cage tray what that buffalo gossip elbow same";
+var mnemonic = "jelly margin apple evidence melt kangaroo science spoon know dizzy collect scan";

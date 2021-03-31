@@ -1,1 +1,1 @@
-var mnemonic = "ripple invite element gesture security object flat arrow dinosaur that daring ivory";
+var mnemonic = "damp image fashion woman music video pretty glad taxi lizard state wall";

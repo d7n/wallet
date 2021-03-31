@@ -1,1 +1,1 @@
-var mnemonic = "wink online juice season zoo supreme lecture high century large verb bullet";
+var mnemonic = "vivid shine acid stairs mix source border crawl spell stand hundred unusual";

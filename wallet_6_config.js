@@ -1,1 +1,1 @@
-var mnemonic = "pioneer present daring zoo obscure decide pony phone frame mechanic theme tail";
+var mnemonic = "dentist dial peanut clinic direct excite tower interest under quality observe crash";

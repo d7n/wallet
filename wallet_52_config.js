@@ -1,1 +1,1 @@
-var mnemonic = "guess fine wasp finish sign mixture vague reflect glad goose machine oblige";
+var mnemonic = "brother river liberty adult brain borrow civil horror crucial unfair spare gossip";

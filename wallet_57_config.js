@@ -1,1 +1,1 @@
-var mnemonic = "cluster tail kind keen lock fancy reopen eight top region few solution";
+var mnemonic = "pigeon tide pipe person amount wide solar raven rather ranch party weasel";

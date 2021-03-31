@@ -1,1 +1,1 @@
-var mnemonic = "text duck cart surprise wealth peanut frost polar entire knock stamp blouse";
+var mnemonic = "chunk noble siege afraid concert recycle guess enroll place inflict clip bind";

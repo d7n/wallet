@@ -1,1 +1,1 @@
-var mnemonic = "sport become session broom donor stem aim risk ridge miss original require";
+var mnemonic = "brick hawk friend tackle vehicle quit method hurry submit exact wolf tail";

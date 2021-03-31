@@ -1,1 +1,1 @@
-var mnemonic = "square eagle news guess survey warm bicycle shallow swap kid fever repair";
+var mnemonic = "correct glory wrap tool clip away speak diamond border vital unlock wing";

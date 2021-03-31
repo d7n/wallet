@@ -1,1 +1,1 @@
-var mnemonic = "dash asthma stomach ghost now public limit enforce pluck venture pink fury";
+var mnemonic = "capable pull cheese chest holiday hunt shop soft awful smart fever salon";

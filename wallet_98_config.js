@@ -1,1 +1,1 @@
-var mnemonic = "bread cupboard dance mixture direct job duck business gas tornado range rude";
+var mnemonic = "strategy ugly capital pen grape umbrella love review proof connect tree degree";

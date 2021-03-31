@@ -1,1 +1,1 @@
-var mnemonic = "require opinion enhance heart slender resemble carpet angry side negative focus echo";
+var mnemonic = "great blanket tray print cry opera train cancel first game vanish clay";

@@ -1,1 +1,1 @@
-var mnemonic = "among public vintage kingdom flash canyon brick wall noodle dilemma nature force";
+var mnemonic = "space silver ancient obscure siren angle blue bitter stick regret seat evoke";

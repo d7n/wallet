@@ -1,1 +1,1 @@
-var mnemonic = "seed grit nice cattle legal push wing digital moment lake execute alert";
+var mnemonic = "custom pull clay during boss swim notice young bomb lonely throw rice";

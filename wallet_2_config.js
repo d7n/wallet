@@ -1,1 +1,1 @@
-var mnemonic = "stamp road museum clock arrange weather mango top caught giraffe night year";
+var mnemonic = "vivid census game cricket divorce arrow smart menu curtain chronic balance diary";

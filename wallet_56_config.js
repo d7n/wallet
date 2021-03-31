@@ -1,1 +1,1 @@
-var mnemonic = "end charge exchange neglect wagon identify amazing someone initial elder rapid text";
+var mnemonic = "tiger vendor claw nephew audit maple problem drastic found swap kangaroo solid";

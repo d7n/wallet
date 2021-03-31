@@ -1,1 +1,1 @@
-var mnemonic = "utility elephant merge chalk funny head dynamic caution trial radar beach good";
+var mnemonic = "control quantum lumber exhaust shuffle sort file assault juice spot amount hill";

@@ -1,1 +1,1 @@
-var mnemonic = "rabbit okay sick fluid walk stuff dwarf ring life seminar famous kidney";
+var mnemonic = "uncle sure gain approve brisk robot sea dream depend master act shell";

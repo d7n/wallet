@@ -1,1 +1,1 @@
-var mnemonic = "critic segment number kitchen include only quick sing response prefer dial prison";
+var mnemonic = "expect ball gas slice young scout abandon only mixture trash dress toilet";

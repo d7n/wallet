@@ -1,1 +1,1 @@
-var mnemonic = "siege gravity fine rare deal lumber hotel soft cage script roast reason";
+var mnemonic = "powder unaware reflect burden entry bar foster spy genuine agree blouse case";

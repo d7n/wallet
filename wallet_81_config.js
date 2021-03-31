@@ -1,1 +1,1 @@
-var mnemonic = "game mother kit miss token hunt fee debris alpha lens arm flush";
+var mnemonic = "used fury cable pact news dash because physical afford true half force";

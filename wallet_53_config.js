@@ -1,1 +1,1 @@
-var mnemonic = "until region rule liquid just coach tuition trophy reason luxury kitchen person";
+var mnemonic = "decrease stable feel fence federal impact case prize cost system embark comic";

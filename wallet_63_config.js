@@ -1,1 +1,1 @@
-var mnemonic = "lock bone tilt sketch exit point diet nice west dinner beach lyrics";
+var mnemonic = "during symbol lobster bid deny edge rough body reason brown lamp century";

@@ -1,1 +1,1 @@
-var mnemonic = "basic deal balcony latin provide describe play piano always harsh field protect";
+var mnemonic = "aim race idle garment comic tide margin economy bargain void confirm uncle";

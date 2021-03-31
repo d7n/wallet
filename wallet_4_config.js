@@ -1,1 +1,1 @@
-var mnemonic = "crunch open suit bus debate side kidney have year device notable concert";
+var mnemonic = "section venture crush vault bridge blood icon twin apology wide garden upon";

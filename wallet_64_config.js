@@ -1,1 +1,1 @@
-var mnemonic = "parade boat arrange farm update false advance water sugar total favorite collect";
+var mnemonic = "patch ramp depend dirt vast state camera key grit bless borrow coach";

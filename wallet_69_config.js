@@ -1,1 +1,1 @@
-var mnemonic = "deer few glow relax eye achieve sign venue frequent lend quarter field";
+var mnemonic = "cart vanish excuse pizza ecology orbit shock palace brush need system exotic";

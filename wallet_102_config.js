@@ -1,1 +1,1 @@
-var mnemonic = "liberty proud remember agree express nature quiz shell shine infant mountain nasty";
+var mnemonic = "island amused oyster secret menu glory travel phrase wisdom way abandon junior";

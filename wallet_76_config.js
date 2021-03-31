@@ -1,1 +1,1 @@
-var mnemonic = "real depart math dune stone delay skate figure accuse fork lens recycle";
+var mnemonic = "open high sheriff dash town legend sock regular gather reveal number clip";

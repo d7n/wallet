@@ -1,1 +1,1 @@
-var mnemonic = "very trigger zone tail series correct soap business swing shine above door";
+var mnemonic = "wife cradle ugly asthma coil blame second hollow purpose link column whale";

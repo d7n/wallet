@@ -1,1 +1,1 @@
-var mnemonic = "chicken crowd happy amount rack senior april evoke appear extra client unveil";
+var mnemonic = "begin between quit decrease seven space horror swamp panel paper layer mango";

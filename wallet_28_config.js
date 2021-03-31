@@ -1,1 +1,1 @@
-var mnemonic = "beef hawk evolve stomach now demand rough learn front off success donkey";
+var mnemonic = "wisdom load price dad dinner labor yard crawl cotton rib width snake";

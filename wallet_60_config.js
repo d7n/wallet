@@ -1,1 +1,1 @@
-var mnemonic = "sphere theme load soda cement soup video earth garbage circle earn absent";
+var mnemonic = "device deny judge dance bridge fiscal weather erupt trial provide bone casual";

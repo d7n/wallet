@@ -1,1 +1,1 @@
-var mnemonic = "shallow scout food donor tool side pear correct phrase shoot electric sniff";
+var mnemonic = "scrap entire census bronze laugh collect cannon sheriff cattle artefact video artwork";

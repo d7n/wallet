@@ -1,1 +1,1 @@
-var mnemonic = "cause rain reflect moment square lake orphan faith rare gospel apology seat";
+var mnemonic = "north risk chronic police cruel trophy unique whip pave soda regret include";

@@ -1,1 +1,1 @@
-var mnemonic = "humble amateur filter parade autumn post program insect error marriage dream join";
+var mnemonic = "defense excess rapid pull another aunt afford begin firm huge brother wall";

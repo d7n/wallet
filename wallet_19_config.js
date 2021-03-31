@@ -1,1 +1,1 @@
-var mnemonic = "galaxy erosion news harvest minor wear cable kiwi review pool aerobic dial";
+var mnemonic = "soft gold post donor mother weekend bunker magic outdoor scrap spoon setup";

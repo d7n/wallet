@@ -1,1 +1,1 @@
-var mnemonic = "deposit fall learn fame blanket evidence sunny provide swing rose grit special";
+var mnemonic = "avocado cereal gather genre exist ankle require portion distance move expose trash";

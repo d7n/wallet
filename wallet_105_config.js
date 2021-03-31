@@ -1,1 +1,1 @@
-var mnemonic = "brain type foot child fetch horn raise black blind license stable hammer";
+var mnemonic = "daughter short expire stairs usage salute bacon rebel oven rug settle pass";

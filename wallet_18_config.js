@@ -1,1 +1,1 @@
-var mnemonic = "remind cruel matrix spoon sport practice check curious exit stand teach walnut";
+var mnemonic = "desk analyst end convince speed eye nominee sponsor sudden hand ribbon cement";

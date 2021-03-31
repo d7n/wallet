@@ -1,1 +1,1 @@
-var mnemonic = "deliver finger faculty craft near job unveil dish spot august prize eagle";
+var mnemonic = "abandon evoke paddle unable guitar better lyrics pause skull pottery issue general";

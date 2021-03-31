@@ -1,1 +1,1 @@
-var mnemonic = "guess path staff elevator shadow pet enact morning present salad aunt uncle";
+var mnemonic = "behave cement wide ill glue route crunch monster liar marble token vapor";

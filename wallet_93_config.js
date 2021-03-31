@@ -1,1 +1,1 @@
-var mnemonic = "observe stay early tragic egg mirror earn horse soon prosper attend busy";
+var mnemonic = "jaguar dose multiply amused token process miracle sugar eagle raw quote crowd";

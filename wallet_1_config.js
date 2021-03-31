@@ -1,1 +1,1 @@
-var mnemonic = "run cave sad panther cattle firm symptom run slot fabric marble crisp";
+var mnemonic = "book rotate speed half boat patch leave gravity sugar metal alley soul";

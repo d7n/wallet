@@ -1,1 +1,1 @@
-var mnemonic = "cage green load uphold now pill buzz sleep fall iron vintage movie";
+var mnemonic = "fame sign clown shy aisle hamster panther melt glory empty robot file";

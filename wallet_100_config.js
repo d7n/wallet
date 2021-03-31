@@ -1,1 +1,1 @@
-var mnemonic = "sunny festival soldier place cat fortune lawn vast grain fix bomb organ";
+var mnemonic = "clean again glad hamster bar doctor ice retreat prevent forget season swap";

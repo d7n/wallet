@@ -1,1 +1,1 @@
-var mnemonic = "family cargo supply wrestle find deposit fish kite vague weasel when unfair";
+var mnemonic = "meadow cave cloth utility used exotic wasp habit reward riot hawk balance";

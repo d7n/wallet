@@ -1,1 +1,1 @@
-var mnemonic = "raccoon time ocean spider detect job fetch enhance escape employ vote wrist";
+var mnemonic = "device rug place earn bright home bring uniform pact unfold vast trade";

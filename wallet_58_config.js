@@ -1,1 +1,1 @@
-var mnemonic = "wait allow wheel river laundry service very domain pigeon elevator submit deny";
+var mnemonic = "property primary echo mesh genre dune nurse spatial clap focus poet wheel";

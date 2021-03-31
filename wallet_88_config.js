@@ -1,1 +1,1 @@
-var mnemonic = "pet flavor sock caught unit ethics liar shrug patch fee clean horn";
+var mnemonic = "song mushroom sting potato fringe term first sand fog arrange author casino";

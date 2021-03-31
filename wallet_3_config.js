@@ -1,1 +1,1 @@
-var mnemonic = "under crater prefer panel lottery jealous struggle soap curious cruel record correct";
+var mnemonic = "embark atom someone assist day print divide song indoor lizard photo network";

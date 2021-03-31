@@ -1,1 +1,1 @@
-var mnemonic = "envelope test fine option soup potato despair mosquito street orphan wire regret";
+var mnemonic = "captain bind ceiling tortoise hazard floor family sell goat carbon visual fire";

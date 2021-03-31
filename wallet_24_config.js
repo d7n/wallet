@@ -1,1 +1,1 @@
-var mnemonic = "option merit chase phone addict sight master ethics oblige remove laugh mixture";
+var mnemonic = "panther cement easy spice useful hurdle will cargo menu tiny name olympic";

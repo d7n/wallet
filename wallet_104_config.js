@@ -1,1 +1,1 @@
-var mnemonic = "clock job food pool maple legend tattoo bean later purity tone nominee";
+var mnemonic = "quality allow spider victory type legend glass car combine spare diamond duty";

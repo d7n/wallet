@@ -1,1 +1,1 @@
-var mnemonic = "special advice dice chunk upgrade vote author soda now climb other solve";
+var mnemonic = "food online occur park panda motor dutch garage relax sock able asthma";

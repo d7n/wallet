@@ -1,1 +1,1 @@
-var mnemonic = "fortune spend setup crisp gossip wink pen kite proud sister adjust attitude";
+var mnemonic = "govern rare emerge hundred eager exist behind wire erosion update blame denial";

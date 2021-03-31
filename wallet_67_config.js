@@ -1,1 +1,1 @@
-var mnemonic = "arrest benefit salad rigid close unlock clap zero there bunker suffer tonight";
+var mnemonic = "wheel secret special luggage close yellow language boat thought produce corn science";

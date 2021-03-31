@@ -1,1 +1,1 @@
-var mnemonic = "predict entire surface barrel web fatigue want bundle where deny cycle sting";
+var mnemonic = "occur post alcohol gown infant poet pioneer super hammer return snake accident";

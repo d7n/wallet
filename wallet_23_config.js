@@ -1,1 +1,1 @@
-var mnemonic = "odor note true damp silk monkey giraffe chase sentence water cart resource";
+var mnemonic = "taxi anxiety excess rather interest strong oil woman devote perfect brave certain";

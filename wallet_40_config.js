@@ -1,1 +1,1 @@
-var mnemonic = "safe tool often purpose calm left critic kind child solid harbor bean";
+var mnemonic = "deny flush else add maid hungry what lonely guide upset party print";

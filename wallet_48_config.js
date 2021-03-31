@@ -1,1 +1,1 @@
-var mnemonic = "valley same gauge kind age pig claw opera give attack iron rather";
+var mnemonic = "asthma inspire robot arm position monster useless melody meat wave narrow large";

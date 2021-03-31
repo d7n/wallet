@@ -1,1 +1,1 @@
-var mnemonic = "embrace notable auction hope staff manual modify opera acid alter example bird";
+var mnemonic = "memory forward nature aerobic basic fancy off barely bus pave choose fiscal";

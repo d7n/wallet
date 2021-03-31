@@ -1,1 +1,1 @@
-var mnemonic = "worth empower wheel taxi jacket milk left toddler spike nest token panther";
+var mnemonic = "solar tray better bubble segment model super demise position sure occur mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "jump spice clump nut unfair raw save private orchard moral essence kit";
+var mnemonic = "leopard diesel move liar lawsuit chronic meadow hurdle siren scene digital analyst";

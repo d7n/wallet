@@ -1,1 +1,1 @@
-var mnemonic = "occur bomb fever renew ghost pole fog mind hole misery orphan over";
+var mnemonic = "tobacco knife educate noise angle tiger junior ladder chaos pulse rude cannon";

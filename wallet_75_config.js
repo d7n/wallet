@@ -1,1 +1,1 @@
-var mnemonic = "album super face rude wrestle style mesh risk grape until faint armor";
+var mnemonic = "deer clog unfold crazy find claim idle force spare rent other combine";
