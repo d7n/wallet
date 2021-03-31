@@ -1,1 +1,1 @@
-var mnemonic = "shrimp lunar valley fire rural hold gown crater verify page tribe shop";
+var mnemonic = "piece curve lonely loud more clinic tree ring mushroom exchange cupboard hand";

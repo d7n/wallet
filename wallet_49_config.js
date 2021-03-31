@@ -1,1 +1,1 @@
-var mnemonic = "genius curve donate ready panda muffin approve enlist boost layer floor human";
+var mnemonic = "over below omit sudden sad wrist mushroom zoo bulb weapon equal grid";

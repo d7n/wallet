@@ -1,1 +1,1 @@
-var mnemonic = "economy mad supreme badge cradle mutual finger awesome simple denial swamp author";
+var mnemonic = "badge yard jealous dry truly dentist category ship broccoli siren practice minute";

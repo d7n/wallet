@@ -1,1 +1,1 @@
-var mnemonic = "school bitter maple share nose spell renew double gauge blossom brush remember";
+var mnemonic = "danger school hobby industry blame virtual inhale debate lounge topic grit direct";

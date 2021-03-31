@@ -1,1 +1,1 @@
-var mnemonic = "sand scrub picnic morning answer manual quarter sight powder spoon twenty minor";
+var mnemonic = "few bubble demise prefer mammal correct fish area keep royal olympic wink";

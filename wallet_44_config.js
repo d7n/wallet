@@ -1,1 +1,1 @@
-var mnemonic = "corn trade cushion glue wheel mule picture crew cube excess broken catch";
+var mnemonic = "alien chest wash toe run accident candy crawl wrong twice state iron";

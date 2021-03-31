@@ -1,1 +1,1 @@
-var mnemonic = "there buffalo rack sudden honey media month opinion oblige enhance penalty certain";
+var mnemonic = "stone sister south nuclear chuckle shiver unable merit team ceiling gather want";

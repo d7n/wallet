@@ -1,1 +1,1 @@
-var mnemonic = "budget uncover hybrid cabbage amount industry grain venture net day sing tent";
+var mnemonic = "fee replace mushroom clerk release nasty window riot hobby garbage great voyage";

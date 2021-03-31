@@ -1,1 +1,1 @@
-var mnemonic = "echo almost next camera ranch uncle confirm crater elder moment nose strategy";
+var mnemonic = "purchase manual pudding frequent sound violin pear outdoor call neutral segment crew";

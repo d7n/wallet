@@ -1,1 +1,1 @@
-var mnemonic = "indoor ivory abstract bus finish around summer busy develop drift suspect guide";
+var mnemonic = "crew smoke bridge oak example ski useful force use brass phrase bitter";

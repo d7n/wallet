@@ -1,1 +1,1 @@
-var mnemonic = "panel celery piano usage burger around gentle odor warfare purpose athlete siren";
+var mnemonic = "quarter humble pen ice reward transfer health cram stool asset fancy detail";

@@ -1,1 +1,1 @@
-var mnemonic = "column slush body edge alert fall soon digital quarter deer merge confirm";
+var mnemonic = "million super anxiety collect syrup hire woman open aerobic half scout jungle";

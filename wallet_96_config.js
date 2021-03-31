@@ -1,1 +1,1 @@
-var mnemonic = "vital wise huge soon moment unfold crack merit glance shield inject nation";
+var mnemonic = "group taste nation fat puzzle myself tent loop account mistake federal input";

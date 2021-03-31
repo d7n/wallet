@@ -1,1 +1,1 @@
-var mnemonic = "rebel whip birth vendor drum control exit nose prevent ice sport spy";
+var mnemonic = "suspect vital behave gun guitar blind actress unhappy walk jewel dance film";

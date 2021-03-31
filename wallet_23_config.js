@@ -1,1 +1,1 @@
-var mnemonic = "blood siege service candy spice clutch pelican trust help income sheriff fog";
+var mnemonic = "visual drive bright crucial area grab jelly aerobic brief favorite balcony dune";

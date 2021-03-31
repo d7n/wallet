@@ -1,1 +1,1 @@
-var mnemonic = "onion hub mean rebel era range draft repair exhaust helmet bring express";
+var mnemonic = "wave help axis minimum render dinner guitar latin letter ten chair small";

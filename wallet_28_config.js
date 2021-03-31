@@ -1,1 +1,1 @@
-var mnemonic = "suit winter exchange distance vessel turtle arm illness hedgehog detect label stumble";
+var mnemonic = "stumble quiz certain sausage excuse hip sick foam tired frost sand lend";

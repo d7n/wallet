@@ -1,1 +1,1 @@
-var mnemonic = "gaze october student fault month ecology clerk decrease expire police blush fame";
+var mnemonic = "electric friend fan rule athlete soda avocado video canyon copper oak already";

@@ -1,1 +1,1 @@
-var mnemonic = "stool maid top salon vapor squirrel pulse among loop casual present maple";
+var mnemonic = "wait fitness alter denial arrest first uphold race digital unaware public blouse";

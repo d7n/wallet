@@ -1,1 +1,1 @@
-var mnemonic = "spot forget can exotic infant gravity chair weird rebel clutch uncle sleep";
+var mnemonic = "unfair crew wolf letter else camera know wasp forest manual journey just";

@@ -1,1 +1,1 @@
-var mnemonic = "agree crunch please ticket era critic typical magnet easy chalk stereo plate";
+var mnemonic = "web surface exit hover weather vote shop hockey invite time kiss despair";

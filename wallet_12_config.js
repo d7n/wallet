@@ -1,1 +1,1 @@
-var mnemonic = "donor vital tree duck witness captain asset pilot illness play media basket";
+var mnemonic = "pond boat response cause toss stock denial civil mixture coral bounce clock";

@@ -1,1 +1,1 @@
-var mnemonic = "whisper lemon minimum weekend travel document vessel ten help salt city claw";
+var mnemonic = "make raw rib flame ordinary organ major worth blanket news risk zero";

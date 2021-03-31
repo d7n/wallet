@@ -1,1 +1,1 @@
-var mnemonic = "draft patient upon amused roast already absorb loop quit decade flower leopard";
+var mnemonic = "inform color biology advance manual shrimp inflict table already blue result galaxy";

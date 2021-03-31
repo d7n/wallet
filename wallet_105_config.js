@@ -1,1 +1,1 @@
-var mnemonic = "moon dirt clarify trick evoke myth coin glad mule weasel essence lunar";
+var mnemonic = "enforce cabin surge odor lawn good mutual nominee dress vehicle robot gun";

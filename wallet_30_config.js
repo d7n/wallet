@@ -1,1 +1,1 @@
-var mnemonic = "verb cover embrace predict timber build meadow canvas orient spray track auto";
+var mnemonic = "shift weird require swim brush border ankle brass evolve derive pet vivid";

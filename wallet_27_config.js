@@ -1,1 +1,1 @@
-var mnemonic = "open harvest process liar million trap twist cry miss case tide poet";
+var mnemonic = "save lady sister choose famous vote budget you sausage three change private";

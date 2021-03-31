@@ -1,1 +1,1 @@
-var mnemonic = "enjoy favorite team prevent wasp plastic bid infant grape artist situate auto";
+var mnemonic = "cannon kiss margin ugly chef vintage assist pyramid access pistol okay genre";

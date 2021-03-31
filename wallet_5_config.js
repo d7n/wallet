@@ -1,1 +1,1 @@
-var mnemonic = "decrease fee rail mammal scout scrap alpha buyer armor milk increase alcohol";
+var mnemonic = "always street cause say double civil brief bronze opinion barely wood cost";

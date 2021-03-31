@@ -1,1 +1,1 @@
-var mnemonic = "evolve journey symptom sell display census maze frown century fortune that buzz";
+var mnemonic = "story damage prosper coil budget crop donate breeze submit level lend fiber";

@@ -1,1 +1,1 @@
-var mnemonic = "inform before athlete rebel shove image kind point warrior grocery bind menu";
+var mnemonic = "garage inmate repair rib ribbon jungle cereal solution prize arm salon wave";

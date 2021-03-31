@@ -1,1 +1,1 @@
-var mnemonic = "typical advice tag thank embrace jungle mixture churn clip prize nominee person";
+var mnemonic = "town enact winner public coin glove force accuse good cause outdoor skirt";

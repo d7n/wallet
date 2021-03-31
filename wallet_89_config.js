@@ -1,1 +1,1 @@
-var mnemonic = "swim identify awake buyer final answer dream shrimp bargain misery clever toy";
+var mnemonic = "august trim bag enact orange stable number people unknown clock gasp fiscal";

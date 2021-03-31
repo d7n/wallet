@@ -1,1 +1,1 @@
-var mnemonic = "step mango castle glue grab chat oxygen toward clerk visual genre exchange";
+var mnemonic = "guard fever hunt marriage federal major point consider measure fruit decorate ladder";

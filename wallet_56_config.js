@@ -1,1 +1,1 @@
-var mnemonic = "rubber cupboard music hip erupt source ignore journey vintage rapid liquid strong";
+var mnemonic = "catch squeeze chase ice quarter frozen mention dentist uncle acquire pond pony";

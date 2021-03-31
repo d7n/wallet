@@ -1,1 +1,1 @@
-var mnemonic = "unit alter diary exist happy game fragile gauge train grocery drop since";
+var mnemonic = "flock liberty tiny educate honey inflict matter brain vibrant shaft upgrade ramp";

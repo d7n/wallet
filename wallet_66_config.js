@@ -1,1 +1,1 @@
-var mnemonic = "neglect keen drill place celery smart power urge oxygen budget flower dress";
+var mnemonic = "winner exotic seek radar session jungle sell frog gospel season winter blanket";

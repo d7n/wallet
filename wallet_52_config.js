@@ -1,1 +1,1 @@
-var mnemonic = "system scatter spoon bench goose rely crew vast bamboo hurry heavy grain";
+var mnemonic = "remind about safe early juice please awesome happy barely vacuum exotic seat";

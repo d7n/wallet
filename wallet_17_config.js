@@ -1,1 +1,1 @@
-var mnemonic = "video verb mushroom lava road turn license six exercise virus spray horror";
+var mnemonic = "ticket library submit decide virtual provide core code cross slender impulse blossom";

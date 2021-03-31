@@ -1,1 +1,1 @@
-var mnemonic = "arm major bicycle travel undo cupboard film amazing garage fetch acid alter";
+var mnemonic = "wonder pulse bread word pave boss caution cabin deposit profit leisure spice";

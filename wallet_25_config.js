@@ -1,1 +1,1 @@
-var mnemonic = "away allow sword spin also element thought under omit job trend hotel";
+var mnemonic = "prevent online hard minor success hello crouch timber enter light crime jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "fruit then swim run estate interest shock people weapon convince ten enjoy";
+var mnemonic = "attend fat sure reopen purity pudding bus jungle valley cinnamon clip hobby";

@@ -1,1 +1,1 @@
-var mnemonic = "region truly noise coast shoulder issue task machine orchard palm inch nature";
+var mnemonic = "drastic snow exit inmate trend okay skirt potato stuff lecture wool sound";

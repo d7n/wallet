@@ -1,1 +1,1 @@
-var mnemonic = "absent word mention emotion tiny wine lottery garment slice word loud blossom";
+var mnemonic = "cannon security diesel hedgehog gate three fortune skin length tool visual wedding";

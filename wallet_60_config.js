@@ -1,1 +1,1 @@
-var mnemonic = "bunker print ghost salad guide crowd remind oak bean ring chunk sadness";
+var mnemonic = "illegal arrest anchor pioneer hill close mother very title actress lady chaos";

@@ -1,1 +1,1 @@
-var mnemonic = "follow wheat virus welcome endless tip better another day example seed notable";
+var mnemonic = "real license plug upper involve arrow engage account credit resist already swim";

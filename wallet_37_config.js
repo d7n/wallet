@@ -1,1 +1,1 @@
-var mnemonic = "punch arena stone mountain spy someone science boil tunnel night fluid leopard";
+var mnemonic = "funny solution monster provide that visa author involve zone border square behave";

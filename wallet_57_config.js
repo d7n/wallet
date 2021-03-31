@@ -1,1 +1,1 @@
-var mnemonic = "bulk hockey album absent month actual demand forward glance tent under child";
+var mnemonic = "black zone laptop grit patch genre marriage grid wheel list voice middle";

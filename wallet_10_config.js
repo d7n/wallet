@@ -1,1 +1,1 @@
-var mnemonic = "abandon inherit apart critic matrix hybrid level lizard tuna flag toilet fitness";
+var mnemonic = "observe wise swamp devote pull talk dismiss crush promote consider kingdom rude";

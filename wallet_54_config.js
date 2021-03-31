@@ -1,1 +1,1 @@
-var mnemonic = "token bid current never obey one call obvious family flavor order system";
+var mnemonic = "clip blame enforce define trash true candy thank inner response adjust zoo";

@@ -1,1 +1,1 @@
-var mnemonic = "defy same unaware design legend uncover meat damage upset ostrich tongue response";
+var mnemonic = "undo rubber peace shed truck pioneer trigger uncle panic remind survey team";

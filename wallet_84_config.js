@@ -1,1 +1,1 @@
-var mnemonic = "december blouse short castle rebel merge deny resource decline elegant skull sentence";
+var mnemonic = "april buzz bleak speed cram hockey capable ring electric chunk banner ranch";

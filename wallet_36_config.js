@@ -1,1 +1,1 @@
-var mnemonic = "dwarf crouch appear vague sell segment almost claim like enact benefit toddler";
+var mnemonic = "attack earn glass about side fade peasant radar lecture couple toss left";

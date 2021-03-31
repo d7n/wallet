@@ -1,1 +1,1 @@
-var mnemonic = "vague dizzy ordinary eye original census prepare winter enter borrow edit climb";
+var mnemonic = "code slender opera sorry nominee labor drum script year orphan frog enact";

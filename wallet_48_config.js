@@ -1,1 +1,1 @@
-var mnemonic = "mesh leave accuse fuel document recycle call ritual swarm future pepper camp";
+var mnemonic = "spike fat arm more awake snap narrow salt mail castle viable south";

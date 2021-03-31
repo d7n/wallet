@@ -1,1 +1,1 @@
-var mnemonic = "purse tissue enter unfair merge hundred clean need tent void nest share";
+var mnemonic = "chuckle know spend raccoon test ostrich typical answer churn grass month reason";

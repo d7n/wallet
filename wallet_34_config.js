@@ -1,1 +1,1 @@
-var mnemonic = "tell wage health gift industry crunch base captain sense middle puzzle lizard";
+var mnemonic = "bread glare rotate century credit amazing comic assist draft nice kingdom fluid";

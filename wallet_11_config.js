@@ -1,1 +1,1 @@
-var mnemonic = "regular remember lizard foam ensure car twenty winner benefit charge wood consider";
+var mnemonic = "tiger swift kiss number path patch tell field unknown click tourist fashion";

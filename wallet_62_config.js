@@ -1,1 +1,1 @@
-var mnemonic = "budget frequent patch jump peace surface coral siren rough rude start traffic";
+var mnemonic = "image glimpse practice genuine suggest unlock inhale hammer become ensure cloud beach";

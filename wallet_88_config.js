@@ -1,1 +1,1 @@
-var mnemonic = "effort column grit invest enable foam route emotion mule child vote weasel";
+var mnemonic = "wheel mule hero general trap shiver blush fox gun vintage sustain asthma";

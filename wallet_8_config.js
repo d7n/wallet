@@ -1,1 +1,1 @@
-var mnemonic = "grit teach alcohol exhibit course plate father shift day chat avocado autumn";
+var mnemonic = "cool vivid huge palm gentle orange tone negative tube original diesel echo";

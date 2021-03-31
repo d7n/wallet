@@ -1,1 +1,1 @@
-var mnemonic = "ridge advance orphan shield version hedgehog such spatial power shift skirt tide";
+var mnemonic = "truck acoustic vault call property maple strong bid puzzle fruit embrace lizard";

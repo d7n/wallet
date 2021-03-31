@@ -1,1 +1,1 @@
-var mnemonic = "property trade isolate limit trial satisfy theme champion space street sound toy";
+var mnemonic = "immune under swift shell scare helmet slice category labor wet bind rose";

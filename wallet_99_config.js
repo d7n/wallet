@@ -1,1 +1,1 @@
-var mnemonic = "logic cargo wedding job donkey lady reunion myth symptom tiny history common";
+var mnemonic = "hamster hold slender step way physical boil favorite invite beyond quantum version";

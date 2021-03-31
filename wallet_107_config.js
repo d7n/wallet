@@ -1,1 +1,1 @@
-var mnemonic = "grid brave tank lumber decrease lamp lyrics rapid spy trade cherry path";
+var mnemonic = "mango employ offer monster below muscle donor push start injury solution flight";

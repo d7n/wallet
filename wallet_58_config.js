@@ -1,1 +1,1 @@
-var mnemonic = "winter setup shed basket excite mention lottery minute junk blanket boil father";
+var mnemonic = "rely point patrol install clerk season nerve over arch hen wrap float";

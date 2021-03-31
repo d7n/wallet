@@ -1,1 +1,1 @@
-var mnemonic = "anxiety any top rotate there test girl give wear menu early duck";
+var mnemonic = "oxygen tongue open fat toss orbit lecture notice caution payment ski business";

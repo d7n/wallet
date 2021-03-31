@@ -1,1 +1,1 @@
-var mnemonic = "island frozen image crane number pave grow anger climb rotate blouse black";
+var mnemonic = "teach enjoy minor fragile make bachelor nose student owner side sorry symptom";

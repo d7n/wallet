@@ -1,1 +1,1 @@
-var mnemonic = "property solid domain select brain excuse panic thought nest retire pig appear";
+var mnemonic = "ranch session nerve away topple bracket liquid fade excuse negative forget rude";

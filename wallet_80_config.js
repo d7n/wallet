@@ -1,1 +1,1 @@
-var mnemonic = "limb fan scatter wine bread purity coil feel bulk brother palace coil";
+var mnemonic = "stable mesh output worth pool squirrel fever identify dose correct push rare";

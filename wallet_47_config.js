@@ -1,1 +1,1 @@
-var mnemonic = "autumn title tornado swim wash piano million man woman goose fruit tired";
+var mnemonic = "solve very robot enemy swear save grass tank invite decline flush light";

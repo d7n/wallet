@@ -1,1 +1,1 @@
-var mnemonic = "business earn wine found true evolve unknown famous impulse rabbit forward motor";
+var mnemonic = "satisfy faint expose learn morning cruel dice excuse search enough wheat merit";

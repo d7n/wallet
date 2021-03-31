@@ -1,1 +1,1 @@
-var mnemonic = "rookie unlock announce soup false fortune release rocket gasp thunder play taxi";
+var mnemonic = "hawk sign card barrel example voyage return police ugly merit chalk about";

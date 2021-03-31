@@ -1,1 +1,1 @@
-var mnemonic = "ability dog goose suffer blur patient system wash uphold gravity math omit";
+var mnemonic = "upgrade regret only glove very poverty boil brass pear sister curve guilt";

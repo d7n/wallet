@@ -1,1 +1,1 @@
-var mnemonic = "nose grid broken capable enemy seven cause nothing nice neglect arrow onion";
+var mnemonic = "occur inform afford opinion earn unhappy abstract puzzle pond there proof surprise";

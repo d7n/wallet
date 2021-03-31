@@ -1,1 +1,1 @@
-var mnemonic = "garage sea embody suffer nuclear hair syrup media broccoli blossom much spray";
+var mnemonic = "feed logic glide ball prosper pony there planet among obey destroy quality";

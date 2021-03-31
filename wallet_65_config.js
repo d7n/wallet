@@ -1,1 +1,1 @@
-var mnemonic = "target annual stem member cigar model parent video stable power until funny";
+var mnemonic = "news because nothing fossil only poem work chalk wasp stamp subject belt";

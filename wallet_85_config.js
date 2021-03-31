@@ -1,1 +1,1 @@
-var mnemonic = "addict merit swamp fortune rug mango blind favorite cousin state initial combine";
+var mnemonic = "prevent unique top razor barrel depend civil across win vanish fitness humor";

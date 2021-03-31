@@ -1,1 +1,1 @@
-var mnemonic = "wing treat cactus okay silk bleak way silver doll pair bid normal";
+var mnemonic = "scrap buyer student noble salad steel speak toss power grocery art decline";

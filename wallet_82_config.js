@@ -1,1 +1,1 @@
-var mnemonic = "basic enact bachelor hurry ask quiz lend notice buyer wreck term behave";
+var mnemonic = "assist super gauge rib concert cotton yard stick lift power glad vital";

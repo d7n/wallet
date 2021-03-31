@@ -1,1 +1,1 @@
-var mnemonic = "chaos doll demise cinnamon direct virus pitch rival moon visit hip cactus";
+var mnemonic = "slush clog have forget aspect tray camera deny kidney run brass harvest";

@@ -1,1 +1,1 @@
-var mnemonic = "all muffin salon lunch reason math position stand melody notable ketchup insect";
+var mnemonic = "pet fluid brother income family pencil mirror order planet screen funny wrap";

@@ -1,1 +1,1 @@
-var mnemonic = "cup suffer one supreme shallow urban axis sunny collect speak shoot aisle";
+var mnemonic = "eight truck federal recall process acid banana olive initial oppose they subject";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum excite brisk quiz gas room stomach robot soon turtle shallow decline";
+var mnemonic = "swarm tooth height adjust hope section cupboard link chef lunar truly delay";

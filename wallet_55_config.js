@@ -1,1 +1,1 @@
-var mnemonic = "stone wink prize fold evil pudding shrug swamp media maple differ increase";
+var mnemonic = "ticket menu catalog salute genius cabin sadness upset weird sort stumble asthma";

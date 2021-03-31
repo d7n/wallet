@@ -1,1 +1,1 @@
-var mnemonic = "country cook proud suggest worth essence city wasp level gorilla original liberty";
+var mnemonic = "client indicate tide lemon act metal bless suggest gown card foot swim";

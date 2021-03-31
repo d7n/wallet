@@ -1,1 +1,1 @@
-var mnemonic = "combine adult dutch gym movie imitate dune payment toilet remove trap asset";
+var mnemonic = "dress engage march act hint nerve toilet glad among hub creek bronze";

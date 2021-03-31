@@ -1,1 +1,1 @@
-var mnemonic = "maid spy capital defy offer piece slide mercy glad life dress good";
+var mnemonic = "private spider seven mercy quit frozen budget word corn dream beyond fancy";

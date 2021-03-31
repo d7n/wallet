@@ -1,1 +1,1 @@
-var mnemonic = "toddler blossom mix light talent fame discover danger control route motion donkey";
+var mnemonic = "ugly just cattle property carpet polar summer fly shadow right awkward grape";

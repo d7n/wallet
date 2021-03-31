@@ -1,1 +1,1 @@
-var mnemonic = "track rally rely album gate area melody body ordinary chaos castle cherry";
+var mnemonic = "twenty index flip bridge body describe risk runway maximum unknown solve concert";

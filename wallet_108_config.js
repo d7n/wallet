@@ -1,1 +1,1 @@
-var mnemonic = "payment what seat loan bone hockey repair priority they believe battle farm";
+var mnemonic = "behind rocket witness simple album rug delay cliff inflict tunnel empty caution";

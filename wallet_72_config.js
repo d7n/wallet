@@ -1,1 +1,1 @@
-var mnemonic = "view labor fever oval liquid key finger silver penalty front drift deal";
+var mnemonic = "claim tag aisle immune tuna next sick oven boss color infant neither";

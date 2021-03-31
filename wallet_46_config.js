@@ -1,1 +1,1 @@
-var mnemonic = "episode dentist program charge trade lazy turkey globe nerve ancient any calm";
+var mnemonic = "muscle process mosquito mention select key source thumb bargain upgrade hunt boil";
