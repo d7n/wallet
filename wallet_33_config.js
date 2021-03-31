@@ -1,1 +1,1 @@
-var mnemonic = "gown glance term deliver case bunker office beyond cousin garbage route wife";
+var mnemonic = "waste taste photo power chaos pilot cave feel bamboo educate spend agent";

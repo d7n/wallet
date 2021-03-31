@@ -1,1 +1,1 @@
-var mnemonic = "inject game risk mountain around crack bring wash pony series ripple simple";
+var mnemonic = "area grid access symbol neglect kidney scale boss beyond lab april drum";

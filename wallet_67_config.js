@@ -1,1 +1,1 @@
-var mnemonic = "negative lab denial control science wreck panel delay ocean since expect test";
+var mnemonic = "game cup kind response shuffle palace illegal salad click marble seven lonely";

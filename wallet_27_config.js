@@ -1,1 +1,1 @@
-var mnemonic = "mother orchard embody mean clap address impulse glide remind drama hospital spin";
+var mnemonic = "hidden enable margin hen then mention dwarf supply near capital fetch group";

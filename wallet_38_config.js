@@ -1,1 +1,1 @@
-var mnemonic = "rich wrap reveal glimpse kick coyote mention escape hour police vicious among";
+var mnemonic = "frozen cat build success fall boring coach alert welcome excess deposit hood";

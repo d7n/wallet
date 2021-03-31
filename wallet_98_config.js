@@ -1,1 +1,1 @@
-var mnemonic = "always alien tobacco key check leave crime reject exhibit ghost innocent insane";
+var mnemonic = "dish popular dismiss acid hole message short gold fun slab raven dutch";

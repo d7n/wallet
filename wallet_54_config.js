@@ -1,1 +1,1 @@
-var mnemonic = "tide gallery vanish uphold message wink bread remove edge volume fox season";
+var mnemonic = "suffer dirt car panic tell mesh acoustic despair build today edit elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "pupil demand review robust soup hockey type usage romance leaf divert later";
+var mnemonic = "festival crop alien pitch drift outdoor auction dune gold pull boring valid";

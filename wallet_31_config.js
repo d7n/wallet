@@ -1,1 +1,1 @@
-var mnemonic = "gain prefer pigeon stairs craft early soft joy slush dry build real";
+var mnemonic = "vocal over render soldier shiver cute rice silent brother flag seat boil";

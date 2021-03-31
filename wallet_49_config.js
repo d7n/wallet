@@ -1,1 +1,1 @@
-var mnemonic = "potato remove aunt sound stuff protect spray empower maid burden essay settle";
+var mnemonic = "topple height foam consider license universe forward analyst fitness zone inform flower";

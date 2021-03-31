@@ -1,1 +1,1 @@
-var mnemonic = "inflict smile shift waste protect egg guilt long pilot hen noise unfold";
+var mnemonic = "parent behind meat autumn spend scorpion total demand follow figure duty mesh";

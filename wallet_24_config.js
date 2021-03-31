@@ -1,1 +1,1 @@
-var mnemonic = "outer option vague orphan arena tortoise replace uphold labor ski switch turn";
+var mnemonic = "priority travel witness face now roast fresh tomato mail wild theme slight";

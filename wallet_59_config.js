@@ -1,1 +1,1 @@
-var mnemonic = "echo cute follow juice room suit click game mom all achieve road";
+var mnemonic = "crater ski thumb wide tumble chalk consider beach very remove napkin time";

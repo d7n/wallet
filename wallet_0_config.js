@@ -1,1 +1,1 @@
-var mnemonic = "stuff market you rebuild soft circle discover argue angle fuel like razor";
+var mnemonic = "bone guard bright knee lab bean what lava park armor minor deny";

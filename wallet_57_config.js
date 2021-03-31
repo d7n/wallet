@@ -1,1 +1,1 @@
-var mnemonic = "print ghost future train arctic illness rug column orange idle absent wealth";
+var mnemonic = "chat spatial shine load craft stand tattoo barely lizard holiday convince leave";

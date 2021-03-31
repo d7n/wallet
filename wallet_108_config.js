@@ -1,1 +1,1 @@
-var mnemonic = "click evil inmate depth seat pupil bar float dad clip disease person";
+var mnemonic = "weasel rose veteran diesel witness hub limb garment bird glory gravity nerve";

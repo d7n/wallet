@@ -1,1 +1,1 @@
-var mnemonic = "salute sunny race flavor flower hub horn grid cruise clean census invite";
+var mnemonic = "song issue fever win expose edge online stereo harbor potato dismiss camera";

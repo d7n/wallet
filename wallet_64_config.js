@@ -1,1 +1,1 @@
-var mnemonic = "roast crime tragic fly system drive family lunar cluster armed position area";
+var mnemonic = "sock volcano act focus crunch fold current pony protect pink crater firm";

@@ -1,1 +1,1 @@
-var mnemonic = "gospel toilet grow squeeze know jump double mixed dune coil cruel waste";
+var mnemonic = "discover flee unhappy course furnace curious science normal genre comfort pelican trash";

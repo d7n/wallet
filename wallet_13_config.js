@@ -1,1 +1,1 @@
-var mnemonic = "volcano laundry sail setup cradle exhibit raccoon must dolphin wage giant trick";
+var mnemonic = "honey rebel veteran choose picture faculty body night afraid pepper wheat pride";

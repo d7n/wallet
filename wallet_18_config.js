@@ -1,1 +1,1 @@
-var mnemonic = "during chalk tired shoe wait goat assume velvet fatal twin such seek";
+var mnemonic = "olive stadium stove dentist unfair metal dose begin discover myth render lazy";

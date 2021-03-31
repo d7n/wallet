@@ -1,1 +1,1 @@
-var mnemonic = "ivory file bread auto oak later what spy fancy curve civil ability";
+var mnemonic = "grace object artefact book humble coin brush pumpkin oppose entire hidden hood";

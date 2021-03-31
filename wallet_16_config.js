@@ -1,1 +1,1 @@
-var mnemonic = "place name ozone repair mask mention ketchup direct slim high whale share";
+var mnemonic = "brass police skirt call doctor payment knee figure melody process dismiss web";

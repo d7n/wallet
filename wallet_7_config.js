@@ -1,1 +1,1 @@
-var mnemonic = "clean seed knee popular repeat frozen resource lift still safe winter adult";
+var mnemonic = "couple dumb blind imitate hip frequent across heavy fade cool spider ozone";

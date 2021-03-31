@@ -1,1 +1,1 @@
-var mnemonic = "obey ancient art expect round magnet abandon remind pond resemble margin great";
+var mnemonic = "runway aim meat improve clump fit sorry another uphold pistol multiply cotton";

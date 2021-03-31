@@ -1,1 +1,1 @@
-var mnemonic = "forget guitar shiver head grunt skin witness front hobby sick marriage battle";
+var mnemonic = "lava news abuse pitch pizza cycle hen gravity acoustic blouse please lounge";

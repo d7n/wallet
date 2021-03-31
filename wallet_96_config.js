@@ -1,1 +1,1 @@
-var mnemonic = "skirt lock scrub tomorrow final float struggle illness twin submit spy cost";
+var mnemonic = "book forest action couch panther what loyal unusual damage profit fine thunder";

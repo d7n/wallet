@@ -1,1 +1,1 @@
-var mnemonic = "effort tape disagree grace kitten boil surprise spell else affair type whip";
+var mnemonic = "punch supply pretty basic client rigid suffer you worth canal ticket find";

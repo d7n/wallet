@@ -1,1 +1,1 @@
-var mnemonic = "stand artefact arrive that frog wire adapt slow profit ethics turn diet";
+var mnemonic = "have title voice focus still reveal layer arctic devote divert identify episode";

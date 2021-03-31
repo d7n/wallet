@@ -1,1 +1,1 @@
-var mnemonic = "struggle space anxiety quote air summer siren pattern december loyal bind unaware";
+var mnemonic = "either tragic protect random yellow use tell must fence lesson dial position";

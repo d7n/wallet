@@ -1,1 +1,1 @@
-var mnemonic = "couple sphere laugh window warfare home tissue property snap hill drive oppose";
+var mnemonic = "kidney october effort dizzy panic coconut entry push tray battle drop muscle";

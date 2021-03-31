@@ -1,1 +1,1 @@
-var mnemonic = "cube shove fine siege rug fabric magic lazy gossip cheap art middle";
+var mnemonic = "field armed isolate knee skate weird decorate scrub satoshi leaf swamp unique";

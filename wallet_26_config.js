@@ -1,1 +1,1 @@
-var mnemonic = "gorilla candy pear father trip armed copy aware buzz phone bunker cotton";
+var mnemonic = "board fork noise predict tissue pluck buddy item great profit zebra clean";

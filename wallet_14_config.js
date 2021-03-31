@@ -1,1 +1,1 @@
-var mnemonic = "medal mosquito wait wreck innocent tide voice cactus acid achieve sniff glass";
+var mnemonic = "reflect vault primary harsh short remain leaf kangaroo art museum erase lecture";

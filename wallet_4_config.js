@@ -1,1 +1,1 @@
-var mnemonic = "normal scissors promote absurd cruise love civil weasel dream daring style canvas";
+var mnemonic = "course master trumpet local confirm uniform witness inform sausage what ribbon fix";

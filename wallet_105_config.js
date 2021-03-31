@@ -1,1 +1,1 @@
-var mnemonic = "ticket tissue member sniff suffer man very reason champion early subject owner";
+var mnemonic = "brush throw inform vehicle uniform sport amazing crack crunch margin rescue soda";

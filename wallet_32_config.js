@@ -1,1 +1,1 @@
-var mnemonic = "express crouch increase comfort hunt employ book can fit wheat creek gorilla";
+var mnemonic = "spider beyond people treat extend wool simple gaze promote unusual switch rigid";

@@ -1,1 +1,1 @@
-var mnemonic = "come height worth price stool cross include endless year culture erosion fashion";
+var mnemonic = "female infant warrior lawn grunt cushion artwork boss action claw group around";

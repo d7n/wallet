@@ -1,1 +1,1 @@
-var mnemonic = "author juice ensure other science gorilla mistake bar dizzy science scale produce";
+var mnemonic = "equal spend print purity noodle baby double bachelor ensure ice deny memory";

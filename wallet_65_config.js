@@ -1,1 +1,1 @@
-var mnemonic = "save antique help work vibrant minor problem toe obvious gorilla give breeze";
+var mnemonic = "angry hello grow spot tent village shoulder debris law olympic vast draw";

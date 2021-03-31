@@ -1,1 +1,1 @@
-var mnemonic = "reopen equip gun inject ordinary eye nut turn flame trial save universe";
+var mnemonic = "depend chair little school wisdom track spot syrup collect what pill blade";

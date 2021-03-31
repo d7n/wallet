@@ -1,1 +1,1 @@
-var mnemonic = "inside curve address congress cook apology spring decide noodle leg case orchard";
+var mnemonic = "family sing source reunion seed company visa puzzle forget carpet one helmet";

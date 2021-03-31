@@ -1,1 +1,1 @@
-var mnemonic = "digital catalog cradle document gift consider flock caught female siege distance feel";
+var mnemonic = "hotel top travel wing soup clever stay behind artist return sentence please";

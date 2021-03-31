@@ -1,1 +1,1 @@
-var mnemonic = "nuclear video dismiss manage figure accident hire produce elevator portion owner gym";
+var mnemonic = "exile civil custom pistol gossip jar dizzy happy member apple inch analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm index laundry absent shield manage fix impose twelve lonely margin echo";
+var mnemonic = "coin cabbage knife exhaust sauce wet neck never kangaroo lottery shove december";

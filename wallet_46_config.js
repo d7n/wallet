@@ -1,1 +1,1 @@
-var mnemonic = "enact cushion history cable solution allow palace turtle maid setup confirm blind";
+var mnemonic = "edge famous apple helmet victory order cube burden alarm scatter scene rice";

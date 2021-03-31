@@ -1,1 +1,1 @@
-var mnemonic = "earn tuition drift jazz tag blur enhance trick stamp spider bulk slot";
+var mnemonic = "dilemma lawn treat place subject journey album lab traffic ahead fit police";

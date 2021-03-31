@@ -1,1 +1,1 @@
-var mnemonic = "general solution stumble lawsuit connect drive dice thumb carpet mansion large security";
+var mnemonic = "buzz hidden auction field fever alarm success verify bone say trick orbit";

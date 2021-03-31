@@ -1,1 +1,1 @@
-var mnemonic = "pole student until kiss theory inhale depart spray comic edge rabbit asset";
+var mnemonic = "curve victory sleep notice tonight poem nice rude buffalo awkward arena dial";

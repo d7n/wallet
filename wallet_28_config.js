@@ -1,1 +1,1 @@
-var mnemonic = "orange home shy light exist market track price oxygen cycle firm whip";
+var mnemonic = "width orange utility story mean chicken dove ticket cruel possible manual earth";

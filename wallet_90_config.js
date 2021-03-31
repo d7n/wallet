@@ -1,1 +1,1 @@
-var mnemonic = "rocket time outer diary rotate note twin vendor amused undo rifle face";
+var mnemonic = "viable nerve purchase picture normal voyage good bracket lucky owner economy swim";

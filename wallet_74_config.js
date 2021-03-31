@@ -1,1 +1,1 @@
-var mnemonic = "unit sound spy leisure symptom canyon trash ball erosion elite pilot expose";
+var mnemonic = "depart subway all flee betray cinnamon wheel tail anger toy leader bring";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle lab mercy peasant lumber kitchen pigeon route thank mutual green squirrel";
+var mnemonic = "hedgehog equal animal fruit amused volcano plastic warfare void mixture cricket what";

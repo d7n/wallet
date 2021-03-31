@@ -1,1 +1,1 @@
-var mnemonic = "habit badge hole orient steak noise better maple venture toddler wink fame";
+var mnemonic = "noodle other movie property dignity act tower rice liquid bamboo shrug zone";

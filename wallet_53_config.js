@@ -1,1 +1,1 @@
-var mnemonic = "broom swing timber promote obvious rigid slogan police enter rally donkey side";
+var mnemonic = "abandon obvious addict retreat right attract diagram tower add seat mixed approve";

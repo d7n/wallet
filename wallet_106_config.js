@@ -1,1 +1,1 @@
-var mnemonic = "vapor error true dizzy side jacket pond tool endless carbon digital gesture";
+var mnemonic = "frozen arrest risk garage ostrich sunny hotel old lobster kick void season";

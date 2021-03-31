@@ -1,1 +1,1 @@
-var mnemonic = "place harbor device gym cricket frown loan ceiling debate cable cannon violin";
+var mnemonic = "question bonus sting tape remove shoulder plug later release prison pause plastic";

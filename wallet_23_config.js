@@ -1,1 +1,1 @@
-var mnemonic = "guitar hidden return book news sibling happy clay citizen genuine valid orient";
+var mnemonic = "ensure foam expand horse achieve document aware invite already love desert expose";

@@ -1,1 +1,1 @@
-var mnemonic = "notice devote merge asset repeat planet tail song various crumble imitate cat";
+var mnemonic = "food patient volume engine soccer chair bounce dragon acid pottery recall lumber";

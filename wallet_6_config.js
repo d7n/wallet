@@ -1,1 +1,1 @@
-var mnemonic = "twenty gym claim dress element refuse near basket phrase ghost general offer";
+var mnemonic = "phrase address explain spider safe you regular vanish soon cross spoil kiss";

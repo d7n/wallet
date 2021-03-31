@@ -1,1 +1,1 @@
-var mnemonic = "diet peanut shoulder evil behave exhibit gentle mad short guard opera enlist";
+var mnemonic = "copy island original away during knock intact outdoor oxygen future neck history";

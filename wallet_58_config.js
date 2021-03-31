@@ -1,1 +1,1 @@
-var mnemonic = "similar canyon obvious reject minor need fever walk erupt fade chase mercy";
+var mnemonic = "arena category torch world embark bless balance idea snap viable combine candy";

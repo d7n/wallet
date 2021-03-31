@@ -1,1 +1,1 @@
-var mnemonic = "fuel start sure casino tortoise oval truly novel erase coconut issue strategy";
+var mnemonic = "question lunch uncover circle vibrant magic vibrant fix scene slam author knee";

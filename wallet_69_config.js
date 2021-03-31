@@ -1,1 +1,1 @@
-var mnemonic = "faith axis bomb display siege above film almost impose estate scrub symbol";
+var mnemonic = "friend purity stool island bread wheat solve long avocado license cloud million";

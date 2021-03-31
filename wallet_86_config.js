@@ -1,1 +1,1 @@
-var mnemonic = "exchange virus often brave rail lemon earth choice antenna vague grab round";
+var mnemonic = "call phone pumpkin gap crystal exit rule cluster worth puppy eagle word";

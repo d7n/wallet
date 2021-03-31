@@ -1,1 +1,1 @@
-var mnemonic = "dad mixed admit fade champion various female leaf welcome time mistake portion";
+var mnemonic = "law scout rifle giant battle hat common say lounge range indicate rocket";

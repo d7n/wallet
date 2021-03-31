@@ -1,1 +1,1 @@
-var mnemonic = "copy victory guide cycle mammal proud weird prize canvas pipe spread strike";
+var mnemonic = "lucky wise prevent soul royal claw carry faculty quiz envelope caught license";

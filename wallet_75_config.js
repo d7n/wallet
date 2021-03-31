@@ -1,1 +1,1 @@
-var mnemonic = "win lady any viable envelope hope once skull west sample embody legend";
+var mnemonic = "dilemma garden retreat solar surface month course because million balance elbow tower";

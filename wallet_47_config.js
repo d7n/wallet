@@ -1,1 +1,1 @@
-var mnemonic = "useless name dragon scare exist kit ridge icon melody milk verb crisp";
+var mnemonic = "wage stereo garlic easily baby tool flight review urban silent inhale fantasy";

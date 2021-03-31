@@ -1,1 +1,1 @@
-var mnemonic = "disagree sleep kind drop hello impact body main human quit estate actor";
+var mnemonic = "custom soon nation nature citizen balance female soft holiday endorse lion husband";

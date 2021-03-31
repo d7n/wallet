@@ -1,1 +1,1 @@
-var mnemonic = "digital dance cube remove latin borrow install visit husband immune talent evidence";
+var mnemonic = "length choice cable umbrella aware path orbit quantum squirrel fence drive blast";

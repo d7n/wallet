@@ -1,1 +1,1 @@
-var mnemonic = "mention that until radio future story black secret fragile link bonus argue";
+var mnemonic = "dial swear infant harsh artefact weekend turkey grass flat ring road hunt";

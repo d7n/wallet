@@ -1,1 +1,1 @@
-var mnemonic = "party three sunset blue room ladder consider sleep suggest candy climb smart";
+var mnemonic = "extra rotate duty casual maid library jungle speed arrange midnight develop orbit";

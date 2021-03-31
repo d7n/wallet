@@ -1,1 +1,1 @@
-var mnemonic = "torch mercy fall pitch similar useless violin riot update more bracket engine";
+var mnemonic = "ecology team enhance pipe head luggage man way thank owner foster broken";

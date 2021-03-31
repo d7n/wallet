@@ -1,1 +1,1 @@
-var mnemonic = "mother olive elbow morning fitness since carry guitar snap enforce diet critic";
+var mnemonic = "rely female stand disorder gossip auction peanut become view once climb wrap";

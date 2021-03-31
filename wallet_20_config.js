@@ -1,1 +1,1 @@
-var mnemonic = "result claw century food wet pig leisure stereo drive amateur near wagon";
+var mnemonic = "unknown lady desert choice father perfect unknown critic congress rack jump lunch";

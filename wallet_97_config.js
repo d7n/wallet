@@ -1,1 +1,1 @@
-var mnemonic = "student achieve nuclear arrest run lottery gap scrub mom develop wave job";
+var mnemonic = "bind police machine claw road excuse trade pencil able security salmon grief";

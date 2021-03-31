@@ -1,1 +1,1 @@
-var mnemonic = "then sister know style mirror light grocery skull cricket fancy borrow mirror";
+var mnemonic = "slide height torch school owner crime weird outside kite van daring size";

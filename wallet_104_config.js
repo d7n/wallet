@@ -1,1 +1,1 @@
-var mnemonic = "dinner soft mother vanish kind eight myself boy patch cushion exchange quality";
+var mnemonic = "mesh joke adult amount dash bulk taxi duty toast add gossip hole";

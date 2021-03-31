@@ -1,1 +1,1 @@
-var mnemonic = "pair page inside question fitness permit offer beef daring unit beauty excess";
+var mnemonic = "novel city below angle lake illness bitter chair devote useful soldier flag";

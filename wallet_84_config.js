@@ -1,1 +1,1 @@
-var mnemonic = "family basket critic please junior impact aim maple system endorse chimney series";
+var mnemonic = "direct cloth laugh fresh clever avocado man traffic merry train fit document";

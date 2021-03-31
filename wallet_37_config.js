@@ -1,1 +1,1 @@
-var mnemonic = "device oblige own poem bus soup quit abstract parrot consider spice forget";
+var mnemonic = "seek magic blur state test cancel survey nominee vague horse ice tooth";

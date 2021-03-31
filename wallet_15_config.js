@@ -1,1 +1,1 @@
-var mnemonic = "web palm arrange harvest attend suggest tortoise grocery praise edge arctic cannon";
+var mnemonic = "tomato mesh airport pizza mirror dirt vendor ticket predict congress mandate duck";

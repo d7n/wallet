@@ -1,1 +1,1 @@
-var mnemonic = "wheel fine peasant genius odor display amused reflect window garment awake flip";
+var mnemonic = "taxi fade museum celery comic left pumpkin auto faculty digital length sting";

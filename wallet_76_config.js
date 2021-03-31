@@ -1,1 +1,1 @@
-var mnemonic = "relax clip nature fringe diesel senior two close ten innocent hub excess";
+var mnemonic = "range advance bench cave claw degree exercise category season strike sound design";

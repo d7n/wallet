@@ -1,1 +1,1 @@
-var mnemonic = "fabric hat adjust caught track barrel bronze flag dad mushroom century seminar";
+var mnemonic = "huge chapter immense battle recycle sweet police vote penalty organ alpha travel";

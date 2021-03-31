@@ -1,1 +1,1 @@
-var mnemonic = "achieve inhale talk pride front ketchup expand detail rubber stove jacket another";
+var mnemonic = "will journey drift glare leisure buddy attend steak bicycle sniff stove confirm";

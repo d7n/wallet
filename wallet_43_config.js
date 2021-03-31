@@ -1,1 +1,1 @@
-var mnemonic = "obscure market prize catch canoe retire approve skirt hawk table sorry game";
+var mnemonic = "nasty gallery ice veteran aunt science debris peace worry mesh ceiling treat";

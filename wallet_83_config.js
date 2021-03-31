@@ -1,1 +1,1 @@
-var mnemonic = "fold prison major focus fruit clump tray dawn enable become doll choice";
+var mnemonic = "jeans near mechanic demise rapid special dynamic patch tortoise avoid neither play";

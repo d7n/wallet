@@ -1,1 +1,1 @@
-var mnemonic = "useless best clog limb phrase north silk material want couple bunker involve";
+var mnemonic = "wink share lawsuit dilemma lucky vote rich slim recycle remain gate blur";

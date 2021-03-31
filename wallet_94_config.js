@@ -1,1 +1,1 @@
-var mnemonic = "senior vibrant equip arrest spider junk impulse pottery drama luggage swear escape";
+var mnemonic = "visual abstract reject wolf gun camp canyon quality stove glimpse visa embark";

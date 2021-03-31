@@ -1,1 +1,1 @@
-var mnemonic = "matrix census shine vibrant sudden harvest heavy edit bachelor drip armed cake";
+var mnemonic = "brick biology quality valve boring cash coral half food under follow voyage";

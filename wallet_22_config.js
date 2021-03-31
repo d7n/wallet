@@ -1,1 +1,1 @@
-var mnemonic = "reform shrimp purchase witness sort rival suspect clay toddler sibling immune stereo";
+var mnemonic = "intact gun begin abstract slight aspect what shiver erode gaze master use";

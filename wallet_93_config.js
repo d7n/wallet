@@ -1,1 +1,1 @@
-var mnemonic = "stool muscle law sample share shrimp false vault comic narrow ahead vivid";
+var mnemonic = "keen arrange token peasant fatal sustain unknown imitate anger hour leg try";

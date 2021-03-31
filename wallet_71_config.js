@@ -1,1 +1,1 @@
-var mnemonic = "truly ginger define interest opera pact hero chef habit music use industry";
+var mnemonic = "tube rely deliver feature cloud wait notice deliver loop travel wet fee";

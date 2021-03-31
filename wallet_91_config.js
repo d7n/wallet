@@ -1,1 +1,1 @@
-var mnemonic = "album black barely essay ramp false girl power click wheat satoshi quiz";
+var mnemonic = "mix glide fix custom beef fan edge prefer proof cheese change paddle";

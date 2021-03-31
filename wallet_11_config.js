@@ -1,1 +1,1 @@
-var mnemonic = "bachelor journey decorate awkward horn spatial twin annual jump bulb useful avoid";
+var mnemonic = "stone bring loan sphere roast candy blush stock valley mail cycle know";

@@ -1,1 +1,1 @@
-var mnemonic = "track ill desk menu business tiny old envelope slot battle spider welcome";
+var mnemonic = "foot catch useless grid fancy craft combine address essence label shift language";

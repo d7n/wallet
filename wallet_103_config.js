@@ -1,1 +1,1 @@
-var mnemonic = "uncover mixed damage awkward father age pride sketch bacon ability order hub";
+var mnemonic = "twenty humor various warfare deer wink black zebra ecology team main illegal";
