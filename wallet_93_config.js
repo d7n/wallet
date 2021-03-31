@@ -1,1 +1,1 @@
-var mnemonic = "uphold two remove option skill scrub item desert novel stick weapon velvet";
+var mnemonic = "mystery fantasy where program answer coconut unable crunch cash dune east near";

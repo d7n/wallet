@@ -1,1 +1,1 @@
-var mnemonic = "edge olympic path ceiling luggage kiwi apology scene click stereo dash cabin";
+var mnemonic = "hurry weather surprise fashion rule oval uncle expand insect curious furnace message";

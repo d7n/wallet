@@ -1,1 +1,1 @@
-var mnemonic = "trap gasp peace move interest lake tired diary firm please fury bright";
+var mnemonic = "anxiety what exclude square space aerobic angle address silly envelope leaf reward";

@@ -1,1 +1,1 @@
-var mnemonic = "hair help arctic empty tone hotel decrease detect hurry course trade ranch";
+var mnemonic = "multiply iron ethics floor eye rude provide jar ask keep outdoor shaft";

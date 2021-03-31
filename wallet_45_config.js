@@ -1,1 +1,1 @@
-var mnemonic = "click coach express image diary replace oppose critic judge say coil chicken";
+var mnemonic = "fury cement ring quarter unique figure ill frost rain panic evidence pepper";

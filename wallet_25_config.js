@@ -1,1 +1,1 @@
-var mnemonic = "beyond abstract imitate dutch wrong dance ride atom pencil spot census stem";
+var mnemonic = "slogan village curve wise rhythm crack vehicle this float repeat obvious lens";

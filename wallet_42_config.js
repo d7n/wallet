@@ -1,1 +1,1 @@
-var mnemonic = "debate limit often adult trend during find wagon drum point chimney omit";
+var mnemonic = "cream flush client cousin oyster nice ceiling above pudding piano raccoon because";

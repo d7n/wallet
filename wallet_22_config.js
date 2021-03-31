@@ -1,1 +1,1 @@
-var mnemonic = "lend transfer antenna barrel limit universe repeat grape two demise quote rug";
+var mnemonic = "marriage truly enable use skirt parrot slab tide popular place camera hidden";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder lock topple quantum else people capable help car surface airport auto";
+var mnemonic = "fruit viable birth fog fortune vanish country visual film ball keen bundle";

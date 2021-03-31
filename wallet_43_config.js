@@ -1,1 +1,1 @@
-var mnemonic = "panther oblige horror spare effort ten play scene merry devote nuclear parrot";
+var mnemonic = "now aunt elder carbon depart ribbon excess shaft play reduce fruit aim";

@@ -1,1 +1,1 @@
-var mnemonic = "love slogan never heart buyer spider valley nerve snow siege avoid match";
+var mnemonic = "tattoo ivory wedding cube sister jewel panel margin reject wife major message";

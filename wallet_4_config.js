@@ -1,1 +1,1 @@
-var mnemonic = "october replace opinion crumble fork victory quick cotton soldier tell point pottery";
+var mnemonic = "margin upper public below venue walk rose skin reflect slogan tray vague";

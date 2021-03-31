@@ -1,1 +1,1 @@
-var mnemonic = "wide city junk luggage hockey glow property galaxy spring slide soup obvious";
+var mnemonic = "mask exchange school occur melt month mystery govern glow vicious warfare diary";

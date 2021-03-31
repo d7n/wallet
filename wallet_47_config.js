@@ -1,1 +1,1 @@
-var mnemonic = "reflect cruel beauty arrive cactus select insect wedding insect ticket stove lift";
+var mnemonic = "photo talk gorilla street garbage tortoise lumber cereal day couch soft melt";

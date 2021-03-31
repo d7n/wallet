@@ -1,1 +1,1 @@
-var mnemonic = "lucky erase rude gate prosper traffic start sign olive retreat auction because";
+var mnemonic = "broom pave infant lottery silk void aerobic solve series ivory rate flame";

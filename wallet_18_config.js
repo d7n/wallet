@@ -1,1 +1,1 @@
-var mnemonic = "laptop awkward fancy hover effort menu symbol play text alcohol daughter split";
+var mnemonic = "please silver damp round update apart write empower stamp night palm plate";

@@ -1,1 +1,1 @@
-var mnemonic = "select buyer seminar usage idle warfare journey cram cluster syrup chronic output";
+var mnemonic = "bus joy lake empower kit repeat awkward jaguar wash quick all accuse";

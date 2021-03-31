@@ -1,1 +1,1 @@
-var mnemonic = "draw region loan track sight interest carpet recipe outdoor betray source print";
+var mnemonic = "glare memory window brain deny truth lesson put chest vacuum over glide";

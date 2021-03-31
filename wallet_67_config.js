@@ -1,1 +1,1 @@
-var mnemonic = "innocent wagon best math home stamp harbor hand trick grid muscle easy";
+var mnemonic = "dove shield giant wheel woman mule motion prevent victory exit ribbon illness";

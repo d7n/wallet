@@ -1,1 +1,1 @@
-var mnemonic = "security salute bottom push grain lend jealous catalog this swap own during";
+var mnemonic = "melt resist neglect yellow maze wagon banner index excess tool index claw";

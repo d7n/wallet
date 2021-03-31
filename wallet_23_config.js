@@ -1,1 +1,1 @@
-var mnemonic = "cat few canoe vacuum way captain hat tattoo ten beyond battle fork";
+var mnemonic = "come walnut edge script gaze next cake approve flee promote escape exile";

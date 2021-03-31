@@ -1,1 +1,1 @@
-var mnemonic = "settle spirit forget anchor fog asset puzzle advice obtain slender develop nasty";
+var mnemonic = "hint hat prosper kiss edit decline awake sheriff between recall drive clump";

@@ -1,1 +1,1 @@
-var mnemonic = "wealth stone off gentle pull raise glue young logic large faint wild";
+var mnemonic = "current arrest series champion tell knee oil weather manual kind slow open";

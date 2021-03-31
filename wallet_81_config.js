@@ -1,1 +1,1 @@
-var mnemonic = "noble tornado tip man obscure tortoise clump chief air lumber resemble trash";
+var mnemonic = "copper immense announce cruise people avocado student like comfort rifle flight minor";

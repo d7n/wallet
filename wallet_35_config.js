@@ -1,1 +1,1 @@
-var mnemonic = "print excuse morning wrestle civil dial space live reveal dinner differ act";
+var mnemonic = "hair hard diagram axis clinic dust drastic estate remind effort hint asthma";

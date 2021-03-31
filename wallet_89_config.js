@@ -1,1 +1,1 @@
-var mnemonic = "help whisper fury logic rent high rather identify shine draw stage decline";
+var mnemonic = "always emotion task flush garlic fun rely weather suit ribbon trumpet craft";

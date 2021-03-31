@@ -1,1 +1,1 @@
-var mnemonic = "claw bind shrimp will feature grape tree text hand wasp clip decline";
+var mnemonic = "harvest adult game bracket range crucial motor come shy inherit wool possible";

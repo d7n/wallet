@@ -1,1 +1,1 @@
-var mnemonic = "siege bean thought right vacuum august divert setup present decorate cannon celery";
+var mnemonic = "remind jar gospel corn hold off unaware jump you thing village spot";

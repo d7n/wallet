@@ -1,1 +1,1 @@
-var mnemonic = "garage solution human rural useful sight uncle square bronze roof photo expire";
+var mnemonic = "evolve rabbit teach govern usage saddle manual romance discover news effort crane";

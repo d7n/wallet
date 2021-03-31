@@ -1,1 +1,1 @@
-var mnemonic = "recipe noodle door circle other carbon duck name sphere abuse budget general";
+var mnemonic = "element social yellow kind produce hamster student grow dove monkey jaguar cliff";

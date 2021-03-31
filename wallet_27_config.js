@@ -1,1 +1,1 @@
-var mnemonic = "sense leave mansion all neutral various exile lawsuit youth saddle talk predict";
+var mnemonic = "estate company various raccoon strategy venue vault beef blush load client extend";

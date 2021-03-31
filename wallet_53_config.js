@@ -1,1 +1,1 @@
-var mnemonic = "typical battle year trade submit hurry maximum ginger safe proud current taste";
+var mnemonic = "pave crater submit own wedding manual chest panel actual alter amount sphere";

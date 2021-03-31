@@ -1,1 +1,1 @@
-var mnemonic = "attract wrong device noble salute tuition employ slot final capable melt tenant";
+var mnemonic = "possible demand waste coral lounge quiz once beach join junk scale double";

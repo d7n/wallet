@@ -1,1 +1,1 @@
-var mnemonic = "trial mystery laptop sail super example ice bunker note identify voyage orange";
+var mnemonic = "token banner zoo helmet opinion total fee autumn usual allow soap invest";

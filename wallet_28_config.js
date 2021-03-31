@@ -1,1 +1,1 @@
-var mnemonic = "crop person logic spider expire thing ecology power junior course social visual";
+var mnemonic = "diary fiction stone play tenant unusual dwarf side picture object soft dinner";

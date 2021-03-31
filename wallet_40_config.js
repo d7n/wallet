@@ -1,1 +1,1 @@
-var mnemonic = "main beyond theme guard cash custom brief cabbage cliff device eight town";
+var mnemonic = "kid enter coffee bid brave small evil weird audit wage hover step";

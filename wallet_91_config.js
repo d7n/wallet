@@ -1,1 +1,1 @@
-var mnemonic = "pool weather secret culture relax motor copper crouch sword crumble angry smoke";
+var mnemonic = "trap betray buyer bread course exit enemy until sphere auto corn silly";

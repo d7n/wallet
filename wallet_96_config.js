@@ -1,1 +1,1 @@
-var mnemonic = "usual disease young link chase delay elephant carpet give steak pet tomorrow";
+var mnemonic = "engage salmon flee immune gesture grunt swim bicycle trade regular tonight strike";

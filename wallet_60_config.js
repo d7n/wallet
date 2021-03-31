@@ -1,1 +1,1 @@
-var mnemonic = "police lunch mouse case toy surface what season tattoo quote total drip";
+var mnemonic = "tragic old gospel love pear deputy sister lizard can color swap rhythm";

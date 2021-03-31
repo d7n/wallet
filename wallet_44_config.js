@@ -1,1 +1,1 @@
-var mnemonic = "push misery clay guitar very clever sustain run salute boat increase arrest";
+var mnemonic = "oyster sand clerk index wear never blouse stable market joke ready announce";

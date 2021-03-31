@@ -1,1 +1,1 @@
-var mnemonic = "quote abuse tip ticket edge coyote trash suffer brown property lazy february";
+var mnemonic = "pepper ketchup vague expand picture citizen pulp media science plastic great artist";

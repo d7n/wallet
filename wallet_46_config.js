@@ -1,1 +1,1 @@
-var mnemonic = "enable vault weird muscle broccoli idle blind mother gauge slight social toe";
+var mnemonic = "pencil ethics polar confirm airport girl wolf citizen sock faculty public unit";

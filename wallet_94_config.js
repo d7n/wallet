@@ -1,1 +1,1 @@
-var mnemonic = "era agent wire fun hole cluster soda crumble brush police hundred onion";
+var mnemonic = "marble blur alert video jewel input minimum like rotate rhythm original jeans";

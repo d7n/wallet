@@ -1,1 +1,1 @@
-var mnemonic = "stock solve unhappy fit circle remove this shield fan desert hen spider";
+var mnemonic = "never summer long cable sorry desert undo view vital toast erosion nasty";

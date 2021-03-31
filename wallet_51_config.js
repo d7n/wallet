@@ -1,1 +1,1 @@
-var mnemonic = "portion level tomorrow word skate entire almost minor idle coconut story various";
+var mnemonic = "group cloth confirm slab walk fossil square wood heart alter zone time";

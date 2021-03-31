@@ -1,1 +1,1 @@
-var mnemonic = "car help truck taste blame merge sustain develop decline salute casino direct";
+var mnemonic = "girl laundry replace victory govern hybrid west menu federal slice siege penalty";

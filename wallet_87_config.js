@@ -1,1 +1,1 @@
-var mnemonic = "warfare fat object cigar spare narrow acid awful prevent man upon trim";
+var mnemonic = "enlist open world bench crane afford menu barely embark bench assault orange";

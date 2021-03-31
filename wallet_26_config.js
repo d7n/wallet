@@ -1,1 +1,1 @@
-var mnemonic = "slot taste obtain retire because drum keen grid labor wedding glory asthma";
+var mnemonic = "idle siren much kiss alarm hen detect ask myself work shy hand";

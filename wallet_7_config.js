@@ -1,1 +1,1 @@
-var mnemonic = "among culture horse rate dove input girl entire lazy federal split state";
+var mnemonic = "nice casual remember bonus leg stock frown daring art foster october bring";

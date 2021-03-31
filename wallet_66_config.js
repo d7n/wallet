@@ -1,1 +1,1 @@
-var mnemonic = "volume replace valley onion flag saddle grunt brain news emotion glance orchard";
+var mnemonic = "episode item lady fat tail once flock dress glory wing client island";

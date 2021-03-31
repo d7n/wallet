@@ -1,1 +1,1 @@
-var mnemonic = "coconut ship false message square village peace club abuse dish abuse autumn";
+var mnemonic = "negative fade sound apple dizzy base alone country topple shift entire reveal";

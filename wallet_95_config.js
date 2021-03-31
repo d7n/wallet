@@ -1,1 +1,1 @@
-var mnemonic = "juice high treat senior march nothing donkey artwork idea upon core vintage";
+var mnemonic = "marriage again include stumble critic lazy reunion bring trouble arrest swim figure";

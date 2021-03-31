@@ -1,1 +1,1 @@
-var mnemonic = "joke toast check verify broken figure seminar beauty alcohol burger cost cross";
+var mnemonic = "world argue attract short cousin push web pigeon quantum naive city notable";

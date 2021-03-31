@@ -1,1 +1,1 @@
-var mnemonic = "galaxy album vault discover use dice word mean firm anxiety ranch junior";
+var mnemonic = "genuine future skill drill scrap treat vast mutual excite enable this chef";

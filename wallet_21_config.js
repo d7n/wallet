@@ -1,1 +1,1 @@
-var mnemonic = "pledge impose track inmate spy minimum gossip start blame flee genre amazing";
+var mnemonic = "boss glance safe sustain alone broken define sheriff draw hundred gallery art";

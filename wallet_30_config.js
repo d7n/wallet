@@ -1,1 +1,1 @@
-var mnemonic = "razor spring poverty peanut hungry state elite faculty trigger seek ranch sustain";
+var mnemonic = "crouch stock nothing enact history imitate miss imitate stadium orchard crime mouse";

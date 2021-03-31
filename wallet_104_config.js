@@ -1,1 +1,1 @@
-var mnemonic = "tell shuffle program version measure coach pond health recycle future space hungry";
+var mnemonic = "sand run receive example defense distance vanish canoe three host expire ill";

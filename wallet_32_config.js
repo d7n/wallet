@@ -1,1 +1,1 @@
-var mnemonic = "smile sponsor palm gap duck mean current wreck fantasy original awesome unfold";
+var mnemonic = "clinic pledge curtain possible half sport faint alcohol attract vault hire buyer";

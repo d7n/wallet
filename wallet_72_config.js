@@ -1,1 +1,1 @@
-var mnemonic = "comic verb expose piece miracle athlete spring duck bridge people hospital cloud";
+var mnemonic = "curious bar shock brave actor crowd obscure change clump endless leave correct";

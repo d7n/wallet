@@ -1,1 +1,1 @@
-var mnemonic = "spike end illness twenty marine all few genuine romance addict police bind";
+var mnemonic = "happy icon rather waste nasty helmet diagram security nominee upper dismiss grab";

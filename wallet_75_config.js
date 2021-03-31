@@ -1,1 +1,1 @@
-var mnemonic = "scatter reflect host tomato ribbon desk speed pass now run tip palm";
+var mnemonic = "month quote orchard village firm ability bridge demand surface maze local emotion";

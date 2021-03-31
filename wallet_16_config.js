@@ -1,1 +1,1 @@
-var mnemonic = "embody pottery rough able vote purchase badge slow inspire desert order excite";
+var mnemonic = "aisle hidden chat legend bus mail breeze give make push round repair";

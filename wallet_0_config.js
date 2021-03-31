@@ -1,1 +1,1 @@
-var mnemonic = "message crater key have decline figure shine garment brave cannon hammer silent";
+var mnemonic = "south select riot tip canyon call tell nation famous toddler ask tragic";

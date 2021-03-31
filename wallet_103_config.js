@@ -1,1 +1,1 @@
-var mnemonic = "just bonus decorate express undo room danger tank panel slide sustain mad";
+var mnemonic = "marriage enemy stay category school cushion journey opinion report envelope car summer";

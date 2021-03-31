@@ -1,1 +1,1 @@
-var mnemonic = "plate timber true damp turtle floor business envelope present venture cause piece";
+var mnemonic = "noise pyramid ancient audit any zero wild question reward cool album stuff";

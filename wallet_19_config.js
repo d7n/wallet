@@ -1,1 +1,1 @@
-var mnemonic = "rare segment auction flip abuse rocket grief vehicle finger exhaust offer tuna";
+var mnemonic = "swamp leg stuff sunny detail resource hero inject topic siege loop toast";

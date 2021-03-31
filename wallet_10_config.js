@@ -1,1 +1,1 @@
-var mnemonic = "bleak culture fault physical fabric curious army pen cliff forward inside primary";
+var mnemonic = "fever note amazing about rice critic various script figure mammal regular interest";

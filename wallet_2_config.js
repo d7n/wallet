@@ -1,1 +1,1 @@
-var mnemonic = "expect trim stamp scheme kiwi youth vocal salute roof wolf receive ozone";
+var mnemonic = "music tree appear hurry change comic source very rule purse light grid";

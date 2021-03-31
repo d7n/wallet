@@ -1,1 +1,1 @@
-var mnemonic = "retreat lens kick acquire such giraffe cruise length canvas suffer better stove";
+var mnemonic = "civil label chuckle body sample resource addict weapon pen lawsuit struggle model";

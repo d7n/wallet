@@ -1,1 +1,1 @@
-var mnemonic = "reunion square runway supreme mail gesture feed ladder actress delay anxiety correct";
+var mnemonic = "peanut volume caught inside gym input fashion cook art kind canvas witness";

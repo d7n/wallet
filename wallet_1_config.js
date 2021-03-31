@@ -1,1 +1,1 @@
-var mnemonic = "own case turn legend swim ethics area cancel inhale toilet urban glue";
+var mnemonic = "air domain supreme place lemon grid alarm ostrich hobby absent cabbage cannon";

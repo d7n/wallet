@@ -1,1 +1,1 @@
-var mnemonic = "burst unfold pride harvest runway analyst grit insect cream female equal clinic";
+var mnemonic = "lend length toy brain misery bean unique ski very benefit emerge pause";

@@ -1,1 +1,1 @@
-var mnemonic = "spirit heavy wagon large cherry shallow plastic mechanic resist wheel place youth";
+var mnemonic = "crane genius proof lock fiber jewel install analyst cloud direct mirror real";

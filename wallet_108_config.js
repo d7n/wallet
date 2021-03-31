@@ -1,1 +1,1 @@
-var mnemonic = "party music lunch tumble camp moral city woman point depend margin effort";
+var mnemonic = "siege viable pilot fix visa danger frequent cinnamon piece elephant social keep";

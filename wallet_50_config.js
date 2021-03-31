@@ -1,1 +1,1 @@
-var mnemonic = "nut fog famous notice winner crop mountain business program illness ball social";
+var mnemonic = "sister finish little devote love very cactus recycle element junk fiction sign";

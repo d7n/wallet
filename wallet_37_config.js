@@ -1,1 +1,1 @@
-var mnemonic = "squeeze setup asset taxi broken absurd country jaguar ripple mom blush plastic";
+var mnemonic = "gospel fatal inspire word school broccoli easy cream defense medal vote tube";

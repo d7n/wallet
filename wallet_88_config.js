@@ -1,1 +1,1 @@
-var mnemonic = "bid ability plunge science retreat adapt wet crater danger daughter damage fortune";
+var mnemonic = "below dismiss auto baby cycle dignity transfer outside pet valley blossom alarm";

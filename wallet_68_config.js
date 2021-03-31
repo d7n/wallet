@@ -1,1 +1,1 @@
-var mnemonic = "symptom hat group aspect unlock name vessel arch range rent segment riot";
+var mnemonic = "hand sun dove wise opinion thunder wine inform girl chronic public nation";

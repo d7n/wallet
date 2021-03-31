@@ -1,1 +1,1 @@
-var mnemonic = "service small risk slogan mule resemble mimic salmon shrimp quarter legal used";
+var mnemonic = "art tomato sock mass never eagle sudden promote twice census swamp convince";

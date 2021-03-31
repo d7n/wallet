@@ -1,1 +1,1 @@
-var mnemonic = "harsh balance predict typical raccoon throw crawl mom seat giggle weather praise";
+var mnemonic = "lens hire right symbol practice meadow mass drum medal pattern second ecology";

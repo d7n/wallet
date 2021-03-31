@@ -1,1 +1,1 @@
-var mnemonic = "thing identify sick parade almost surface pyramid shift danger clip always scorpion";
+var mnemonic = "creek quantum metal melt fruit decorate enough album stock observe member public";

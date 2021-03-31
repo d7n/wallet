@@ -1,1 +1,1 @@
-var mnemonic = "chef expose student economy hair pink april sudden million bench tree must";
+var mnemonic = "cruel song twenty liar pyramid noble debate penalty parent coyote wrestle next";

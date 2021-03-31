@@ -1,1 +1,1 @@
-var mnemonic = "dream army few prosper hospital mirror hobby lawsuit birth slice group worth";
+var mnemonic = "image wasp popular leopard path debate model street fit giant zone beauty";

@@ -1,1 +1,1 @@
-var mnemonic = "fossil outside corn animal market crazy pretty party soda visit paper planet";
+var mnemonic = "solve owner soccer nephew derive company slot warm pool quick dust now";

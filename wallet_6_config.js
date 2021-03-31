@@ -1,1 +1,1 @@
-var mnemonic = "glass filter squirrel century fluid wine case warfare quantum excite ghost attack";
+var mnemonic = "exist help brave airport leaf soon lunch hurdle whip pumpkin tobacco private";

@@ -1,1 +1,1 @@
-var mnemonic = "poverty theory below offer biology leader punch embark glow noodle visual subway";
+var mnemonic = "system produce ocean error then exit bus wrap march loop soap ticket";

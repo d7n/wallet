@@ -1,1 +1,1 @@
-var mnemonic = "bid miss horn miracle diamond act muffin diary zero ship recycle total";
+var mnemonic = "success spoil season gaze venture magic blanket core safe student garbage pledge";

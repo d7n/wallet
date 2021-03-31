@@ -1,1 +1,1 @@
-var mnemonic = "arctic vessel exhaust large lyrics banner merry grocery cabbage ugly boost olympic";
+var mnemonic = "anxiety affair tone click mom turtle about cube vendor nerve pole hamster";
