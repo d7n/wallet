@@ -1,1 +1,1 @@
-var mnemonic = "object option cherry ranch allow poem riot wise rigid car day space";
+var mnemonic = "alpha parrot gate rubber sand genuine flag village verify dose sing huge";

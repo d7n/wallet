@@ -1,1 +1,1 @@
-var mnemonic = "vital hundred cross canal useless kind train east tomorrow ladder spend gas";
+var mnemonic = "brain rail actual arrest cactus situate tiger select seat scene iron guide";

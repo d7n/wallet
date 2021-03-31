@@ -1,1 +1,1 @@
-var mnemonic = "satisfy sad physical obscure found use salute recipe admit alone essay defy";
+var mnemonic = "shadow hub alone swallow spell stem vocal decorate element syrup time have";

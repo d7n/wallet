@@ -1,1 +1,1 @@
-var mnemonic = "seed scrap supply sleep unusual settle cram aerobic nerve admit clown sentence";
+var mnemonic = "lyrics evolve length scale festival home puppy copy awesome strategy betray minor";

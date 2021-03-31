@@ -1,1 +1,1 @@
-var mnemonic = "prize subject layer nasty emotion cube describe blush strategy eager hurt exhibit";
+var mnemonic = "cinnamon color pulp danger brown plate answer glove mouse staff imitate wagon";

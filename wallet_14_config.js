@@ -1,1 +1,1 @@
-var mnemonic = "chef solve hollow mimic artwork cart tool cancel motion siege fitness brush";
+var mnemonic = "lounge balcony test they elite accuse rack alone romance acquire sister inflict";

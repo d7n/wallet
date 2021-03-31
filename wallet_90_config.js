@@ -1,1 +1,1 @@
-var mnemonic = "vehicle stuff cupboard dust monkey useless test fly engine inhale render camera";
+var mnemonic = "spend admit blame gloom pull fragile mention host audit runway make fringe";

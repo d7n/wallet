@@ -1,1 +1,1 @@
-var mnemonic = "between crane hobby embrace swear finger gossip moon time maze above business";
+var mnemonic = "rule combine pluck sugar meat undo learn cable bean owner cancel gun";

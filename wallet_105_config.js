@@ -1,1 +1,1 @@
-var mnemonic = "street myth any history word wagon forum false hobby inquiry minor toward";
+var mnemonic = "rug video festival tube thrive across mind talent secret shell chest outer";

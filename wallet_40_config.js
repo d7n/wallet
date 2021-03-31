@@ -1,1 +1,1 @@
-var mnemonic = "hundred melody audit arrow flock forward crowd jungle govern force feature owner";
+var mnemonic = "illegal suspect quality aspect arena swap card avoid domain nest trust flush";

@@ -1,1 +1,1 @@
-var mnemonic = "despair transfer brisk pink sing decrease soon weird metal alert whale marine";
+var mnemonic = "brave hole salad million near leader demand mule private forest fine dream";

@@ -1,1 +1,1 @@
-var mnemonic = "toss matrix grass draft quote bone buffalo ocean frame canal cliff prefer";
+var mnemonic = "casino they balance soccer camp alert loop inside boss frequent prize hair";

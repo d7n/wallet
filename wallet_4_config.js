@@ -1,1 +1,1 @@
-var mnemonic = "plug target fatal whip this spin fade click pear legend myself carpet";
+var mnemonic = "best gun nature beyond drum push educate meat course dance pulp purity";

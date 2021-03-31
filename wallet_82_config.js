@@ -1,1 +1,1 @@
-var mnemonic = "special anchor must usage assist just million alter duty shoot enjoy ice";
+var mnemonic = "average tumble rebel easily tray jar quarter vocal pet comic screen spy";

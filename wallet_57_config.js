@@ -1,1 +1,1 @@
-var mnemonic = "tone proud crucial mad medal box miracle kangaroo double six opera enact";
+var mnemonic = "vintage erupt flower loud bean badge throw spike chunk misery find helmet";

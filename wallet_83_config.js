@@ -1,1 +1,1 @@
-var mnemonic = "liberty much tiny emotion pole primary fatal spring flight asthma open useless";
+var mnemonic = "lamp prefer spider evolve govern spoil brisk twist shaft position that acquire";

@@ -1,1 +1,1 @@
-var mnemonic = "cabin festival crawl mobile mutual shoulder toy pioneer cover swing unfold truly";
+var mnemonic = "cause inch endless gold wave shove hip unlock siege cradle easily primary";

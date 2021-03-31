@@ -1,1 +1,1 @@
-var mnemonic = "crew salt smart feed amateur typical leisure annual music spawn concert ride";
+var mnemonic = "main strategy unfold social ginger saddle render maze priority fire photo ski";

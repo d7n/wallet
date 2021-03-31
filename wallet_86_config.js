@@ -1,1 +1,1 @@
-var mnemonic = "zone margin cat edit furnace gravity output letter hunt kind country moral";
+var mnemonic = "puppy better stereo cabbage wash display latin flame real snap help park";

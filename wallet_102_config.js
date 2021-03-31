@@ -1,1 +1,1 @@
-var mnemonic = "recipe robust garage cry shoe model click ten pony stem escape borrow";
+var mnemonic = "race noble crew diet pigeon slush surge dial alone security segment regular";

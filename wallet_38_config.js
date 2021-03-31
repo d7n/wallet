@@ -1,1 +1,1 @@
-var mnemonic = "unfair mistake surface attitude wedding rare panda able flash display blood climb";
+var mnemonic = "nation tunnel grape also inspire suit remove dinner tragic include enable friend";

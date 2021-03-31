@@ -1,1 +1,1 @@
-var mnemonic = "rude carpet stairs step youth august potato duty tomorrow medal negative foot";
+var mnemonic = "axis fish attack mask energy detect celery relax cute swing adult item";

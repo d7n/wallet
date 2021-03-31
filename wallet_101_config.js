@@ -1,1 +1,1 @@
-var mnemonic = "what display cliff man crater powder robot bread desert potato alarm change";
+var mnemonic = "twenty sunset milk twist very raven require boost bird invest walk stage";

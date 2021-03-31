@@ -1,1 +1,1 @@
-var mnemonic = "elephant journey company rude paper depend ghost casual ancient manual neglect juice";
+var mnemonic = "nurse soccer unaware art super civil green what depend often index team";

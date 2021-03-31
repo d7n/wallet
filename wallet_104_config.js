@@ -1,1 +1,1 @@
-var mnemonic = "remind craft quote fat gap way planet dog angry twice camera cute";
+var mnemonic = "slow genuine figure hybrid often rigid young organ churn source detail neglect";

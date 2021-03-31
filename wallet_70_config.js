@@ -1,1 +1,1 @@
-var mnemonic = "luxury inhale found park talk flower all advice move solid siege bronze";
+var mnemonic = "snack round program prosper artist valid depth ghost benefit reduce knock expand";

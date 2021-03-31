@@ -1,1 +1,1 @@
-var mnemonic = "glove art drop bounce chuckle gauge super access violin immune giant trial";
+var mnemonic = "police neutral draw opinion cruise boil crew horror chef shoe cute toast";

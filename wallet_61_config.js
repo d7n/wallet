@@ -1,1 +1,1 @@
-var mnemonic = "icon elite build ladder smoke public nominee churn tiny erupt gallery main";
+var mnemonic = "match winner welcome climb shock invest empower reopen neither slush glory pilot";

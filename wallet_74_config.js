@@ -1,1 +1,1 @@
-var mnemonic = "festival clump stumble disease hobby jewel wood find employ inform bottom teach";
+var mnemonic = "level reopen wall poet father kitchen pact orient tip torch tongue audit";

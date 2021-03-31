@@ -1,1 +1,1 @@
-var mnemonic = "bleak fold stumble blade section match genre own insane trouble frozen protect";
+var mnemonic = "miracle artwork domain region permit act reduce solve extend deny cool bounce";

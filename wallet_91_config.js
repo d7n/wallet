@@ -1,1 +1,1 @@
-var mnemonic = "mule hello believe cattle accident blade flower crop jaguar anchor region strong";
+var mnemonic = "call gas since crouch anger electric noble black depend behind release strong";

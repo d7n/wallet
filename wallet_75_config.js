@@ -1,1 +1,1 @@
-var mnemonic = "cave brown rocket clean welcome hidden globe clever leaf cave fun client";
+var mnemonic = "used obey captain opinion reveal mom april advance morning spirit rookie jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "furnace apart almost antenna wasp upset cycle front gesture clay stumble tonight";
+var mnemonic = "artwork crazy base divide inch identify meadow destroy cage develop yard license";

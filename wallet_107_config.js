@@ -1,1 +1,1 @@
-var mnemonic = "call resource fun swarm color eagle length section adult tank flash judge";
+var mnemonic = "ripple pill office matrix concert climb flower toast program deliver candy science";

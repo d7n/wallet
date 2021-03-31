@@ -1,1 +1,1 @@
-var mnemonic = "exact glare core all person effort excuse torch flame zone rule stone";
+var mnemonic = "print gravity pledge monster service tackle very world runway utility hire stove";

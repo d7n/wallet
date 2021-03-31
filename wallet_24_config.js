@@ -1,1 +1,1 @@
-var mnemonic = "breeze bronze flock tag peanut young neglect crew bacon shed curve case";
+var mnemonic = "peanut choice hollow elder ladder position side wash net oven mountain two";

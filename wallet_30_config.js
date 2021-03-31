@@ -1,1 +1,1 @@
-var mnemonic = "impact siege grass attack slam soda select inside physical cover dignity leg";
+var mnemonic = "album donkey boy remind example sugar page portion abandon slab identify artefact";

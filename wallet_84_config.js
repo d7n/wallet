@@ -1,1 +1,1 @@
-var mnemonic = "pioneer remember question smooth slot hire memory praise topple excess emotion flat";
+var mnemonic = "turkey unveil man century cabbage fetch parrot there duty faculty forget mother";

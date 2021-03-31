@@ -1,1 +1,1 @@
-var mnemonic = "smooth more bargain correct issue dance blood virtual access flight health credit";
+var mnemonic = "real urge process carpet deer chimney claw donkey crush try front radio";

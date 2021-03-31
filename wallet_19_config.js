@@ -1,1 +1,1 @@
-var mnemonic = "index grab want boil casino whip scrub inner swamp inspire scout similar";
+var mnemonic = "lemon cube quantum ritual grit sibling short lounge dumb olympic deal pool";

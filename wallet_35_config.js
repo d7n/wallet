@@ -1,1 +1,1 @@
-var mnemonic = "phone salute cushion merit awesome airport delay tone bitter spring table green";
+var mnemonic = "pistol now thought evolve solution spawn salad adapt entire clean panel genre";

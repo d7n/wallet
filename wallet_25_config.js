@@ -1,1 +1,1 @@
-var mnemonic = "mixed noble pudding luxury earn smooth bid visa impose divorce super sustain";
+var mnemonic = "hazard cry improve mix fresh wasp fiber reform scatter buzz remove social";

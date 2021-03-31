@@ -1,1 +1,1 @@
-var mnemonic = "toilet oppose talent settle live unveil sample acoustic remove narrow interest park";
+var mnemonic = "perfect elder toilet actor alarm brand wreck strike enlist cheap buddy blind";

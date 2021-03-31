@@ -1,1 +1,1 @@
-var mnemonic = "doctor tonight thunder payment timber picture fuel fall frame develop perfect riot";
+var mnemonic = "relief scene total orient tell senior swallow screen liquid demise heart culture";

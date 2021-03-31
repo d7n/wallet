@@ -1,1 +1,1 @@
-var mnemonic = "train pond toward advance visit abandon bunker inject company scorpion reject release";
+var mnemonic = "occur pen blast buzz joy injury pole urge link book direct once";

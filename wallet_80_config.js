@@ -1,1 +1,1 @@
-var mnemonic = "utility sugar that annual blossom milk seat nation sample carbon rebuild race";
+var mnemonic = "notable dumb husband hole alert chunk citizen potato provide develop mouse sentence";

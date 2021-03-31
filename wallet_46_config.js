@@ -1,1 +1,1 @@
-var mnemonic = "income pluck reason scrap display mechanic carpet grief crime debris toilet crucial";
+var mnemonic = "goat small develop rich ostrich interest rather suspect rule gaze sweet magnet";

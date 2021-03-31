@@ -1,1 +1,1 @@
-var mnemonic = "medal print fitness tell state toss book asthma devote uniform knee figure";
+var mnemonic = "word broccoli student wisdom click crowd opera assault wealth guess space dance";

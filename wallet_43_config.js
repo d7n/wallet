@@ -1,1 +1,1 @@
-var mnemonic = "slender bitter toss tissue panda you dial online laugh tuna burger fan";
+var mnemonic = "school ocean shallow permit forget post cry life banner captain wise tilt";

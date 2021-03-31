@@ -1,1 +1,1 @@
-var mnemonic = "glide shoot smile bike enlist calm drink believe exercise shrug begin pen";
+var mnemonic = "connect crime surround camp injury orbit section soon flock flip comic enlist";

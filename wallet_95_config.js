@@ -1,1 +1,1 @@
-var mnemonic = "grit latin tank sell all grab walk slight call fiction dutch razor";
+var mnemonic = "monitor exercise elephant novel announce unusual around idle derive armed dress tent";

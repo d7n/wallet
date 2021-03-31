@@ -1,1 +1,1 @@
-var mnemonic = "diesel weekend engine citizen wear aspect avocado aware ring save deputy plate";
+var mnemonic = "evil gym man inner blur rent slide saddle civil lock purity accident";

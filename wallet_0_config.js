@@ -1,1 +1,1 @@
-var mnemonic = "broken ancient fork fortune eyebrow merit panel plate success call change divide";
+var mnemonic = "dumb shiver caught bind inform decide shoulder combine demand cactus book approve";

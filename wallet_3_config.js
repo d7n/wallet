@@ -1,1 +1,1 @@
-var mnemonic = "old issue access toddler orient matrix young under donate just repair law";
+var mnemonic = "science extra essay mechanic park bone lazy basic pigeon powder hat cram";

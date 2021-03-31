@@ -1,1 +1,1 @@
-var mnemonic = "hair wear problem price earth possible rally coach love say fall problem";
+var mnemonic = "label canvas common super film heavy hen cheese position orient current exercise";

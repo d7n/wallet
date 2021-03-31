@@ -1,1 +1,1 @@
-var mnemonic = "puzzle carpet rough ensure table garlic other gun thunder hour eager girl";
+var mnemonic = "inflict enlist resource joy shock summer magnet flight pencil sweet rough lion";

@@ -1,1 +1,1 @@
-var mnemonic = "thought topple noble cook gather mirror panther antique borrow undo stadium fiscal";
+var mnemonic = "believe maze print lemon vital giant drum fitness forum panic service addict";

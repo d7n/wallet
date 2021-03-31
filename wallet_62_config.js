@@ -1,1 +1,1 @@
-var mnemonic = "feed hybrid injury correct poet opinion devote slim stone swim pill kingdom";
+var mnemonic = "engage kidney analyst organ lab ritual young lamp survey tonight defy arm";

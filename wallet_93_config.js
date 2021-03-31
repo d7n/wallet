@@ -1,1 +1,1 @@
-var mnemonic = "never giggle dog mom life word stove nut toast creek minimum daring";
+var mnemonic = "subject pond thrive connect goddess need tiny nothing notice explain monitor foil";

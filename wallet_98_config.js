@@ -1,1 +1,1 @@
-var mnemonic = "matter tail practice stumble parade process museum dress front rich area marriage";
+var mnemonic = "shoe morning crisp fly rate height use prepare foam addict public burger";

@@ -1,1 +1,1 @@
-var mnemonic = "ball open own subway soul anchor reform exit zero end uphold key";
+var mnemonic = "quit solution trick flat frame practice shop magic daring purpose sadness excite";

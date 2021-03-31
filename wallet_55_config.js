@@ -1,1 +1,1 @@
-var mnemonic = "run mushroom copy sure truly volume loyal benefit cricket gift puppy mobile";
+var mnemonic = "laptop demand garlic end follow leg eagle unaware joke hurdle rabbit wise";

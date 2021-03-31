@@ -1,1 +1,1 @@
-var mnemonic = "science decline drill silver drama pair blood shell thunder first time tongue";
+var mnemonic = "ignore entire harvest inner switch main neither life debate category gas rally";

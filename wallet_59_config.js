@@ -1,1 +1,1 @@
-var mnemonic = "runway lunch effort chunk address wing fall sample bridge yard fluid basket";
+var mnemonic = "panel fly fortune wrap latin palm awake enhance prefer oval still submit";

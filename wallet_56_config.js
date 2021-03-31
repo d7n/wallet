@@ -1,1 +1,1 @@
-var mnemonic = "payment raise card stem village potato kid west wire two hello season";
+var mnemonic = "quiz moon cricket heavy any phrase rival split talk hybrid kiss train";

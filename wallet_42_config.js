@@ -1,1 +1,1 @@
-var mnemonic = "panic evidence honey vacuum flag claw ride duck tool steak grab alarm";
+var mnemonic = "hockey trip skin because alpha section explain exotic chaos strong enough raccoon";

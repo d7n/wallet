@@ -1,1 +1,1 @@
-var mnemonic = "drastic flat crush census flame amazing design tide appear sense dial fall";
+var mnemonic = "glue slight recycle myth repeat enforce unhappy away mixture connect license slow";

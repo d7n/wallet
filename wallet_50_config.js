@@ -1,1 +1,1 @@
-var mnemonic = "old avocado avoid expire priority fence dice jump mimic pattern craft art";
+var mnemonic = "merge spider vacant bike timber admit then trust stereo soda arrive century";

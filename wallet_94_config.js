@@ -1,1 +1,1 @@
-var mnemonic = "hip immune farm analyst exchange trial test hire glimpse rescue raccoon shrug";
+var mnemonic = "recycle trust damage dad cable brand vendor replace bounce estate wave grape";

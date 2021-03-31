@@ -1,1 +1,1 @@
-var mnemonic = "target narrow smoke drift foam modify cause clay extend diamond suffer merit";
+var mnemonic = "orient outdoor regular ozone cupboard cook rule use tenant violin fossil photo";

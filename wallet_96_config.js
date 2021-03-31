@@ -1,1 +1,1 @@
-var mnemonic = "logic forum alone relax dilemma any mutual strong over forest inject absent";
+var mnemonic = "adapt between hello message hurry door auto used tomorrow slogan express better";

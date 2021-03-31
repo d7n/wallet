@@ -1,1 +1,1 @@
-var mnemonic = "nominee twist gasp average enact ethics snack orange ginger shell coast pet";
+var mnemonic = "puppy uniform glass inspire shock nation record lumber protect comfort sweet must";

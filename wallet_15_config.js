@@ -1,1 +1,1 @@
-var mnemonic = "orange typical plunge call fiction holiday destroy inhale vendor top cost nature";
+var mnemonic = "swamp sand push person marriage that welcome add female six fun accuse";

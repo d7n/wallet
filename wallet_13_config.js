@@ -1,1 +1,1 @@
-var mnemonic = "firm gloom clutch cargo present resemble joke onion inner pulse cash affair";
+var mnemonic = "happy parrot cry glide hood wife spice weasel regret subject repair good";

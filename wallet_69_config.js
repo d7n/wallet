@@ -1,1 +1,1 @@
-var mnemonic = "more subject weasel arena high pause visa total subway admit surface ghost";
+var mnemonic = "price decide mercy matrix soul zoo opera click sock hill pitch surge";

@@ -1,1 +1,1 @@
-var mnemonic = "fly taste author please time simple rival march gospel ability wreck inform";
+var mnemonic = "era social defy snack advice armed rigid promote middle abstract potato crash";

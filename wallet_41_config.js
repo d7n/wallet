@@ -1,1 +1,1 @@
-var mnemonic = "eager slam method inherit mushroom glimpse swift embody smile seat point together";
+var mnemonic = "hero design wreck survey warrior renew escape broken same tunnel cover sock";

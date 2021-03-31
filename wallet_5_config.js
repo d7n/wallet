@@ -1,1 +1,1 @@
-var mnemonic = "fork soap boss raven bring employ trial spawn mule lab clutch toward";
+var mnemonic = "topple giraffe access tank live path nephew phone rail armor ugly horn";

@@ -1,1 +1,1 @@
-var mnemonic = "shift remind one reveal jazz spawn box cloud upset raw trophy provide";
+var mnemonic = "amused cloud inmate vibrant faculty leader verb latin daring fitness final wool";

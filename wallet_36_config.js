@@ -1,1 +1,1 @@
-var mnemonic = "unusual pepper speed pink shift stone chunk shiver admit explain attitude trim";
+var mnemonic = "educate cattle there husband century bicycle child crunch pilot bomb wife region";

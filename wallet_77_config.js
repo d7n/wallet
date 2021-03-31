@@ -1,1 +1,1 @@
-var mnemonic = "trap couch venue planet rich evidence search just drift replace stamp boat";
+var mnemonic = "horn okay gather source because credit daring refuse method news beyond lobster";

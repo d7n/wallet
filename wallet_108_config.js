@@ -1,1 +1,1 @@
-var mnemonic = "visa ice comic avocado voyage zone cross purity october borrow village bus";
+var mnemonic = "brown hockey naive resource force join inflict oblige swallow gift glory fortune";

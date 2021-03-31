@@ -1,1 +1,1 @@
-var mnemonic = "crop smooth guilt square have video spring group oyster ripple lift always";
+var mnemonic = "august daughter uniform fox frost goose rely hundred notable useful input stool";

@@ -1,1 +1,1 @@
-var mnemonic = "find donate badge spoil man solve omit breeze swallow meadow fragile weasel";
+var mnemonic = "hand good anger input spell relief foot orange cover rabbit tourist reject";

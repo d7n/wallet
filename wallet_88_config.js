@@ -1,1 +1,1 @@
-var mnemonic = "stairs basket divide early rather zebra vintage muffin vapor alpha fetch when";
+var mnemonic = "rule indoor arctic useful connect hour survey area menu upset almost shoe";

@@ -1,1 +1,1 @@
-var mnemonic = "sadness ready thing ceiling kitten million worry pulse marriage general park arrange";
+var mnemonic = "blame asset invest present adult glimpse erupt long donor lyrics flavor curve";

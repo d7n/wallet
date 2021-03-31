@@ -1,1 +1,1 @@
-var mnemonic = "decrease hip bronze flavor loyal choose cover such lottery scare bring forest";
+var mnemonic = "horn room arena fork fine tree knock chunk copper wedding zone trust";

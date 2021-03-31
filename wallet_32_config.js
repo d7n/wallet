@@ -1,1 +1,1 @@
-var mnemonic = "nothing advance crystal inspire street jungle tray jelly audit mule cherry escape";
+var mnemonic = "tomato armed resist romance notice charge office powder math glance deposit limit";

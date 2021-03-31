@@ -1,1 +1,1 @@
-var mnemonic = "sound shiver hammer damage mule phrase usage cable click solution hub try";
+var mnemonic = "gown ride often armed true worry dry estate horn net ecology tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "plug grocery barrel series advance primary table stone road hurdle pelican century";
+var mnemonic = "shift caution render dog dilemma moral hover fashion evoke vast pigeon mother";

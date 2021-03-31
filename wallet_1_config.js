@@ -1,1 +1,1 @@
-var mnemonic = "tackle lounge lens mixture celery rack palm demand renew champion cereal among";
+var mnemonic = "gauge violin business arrive lunar wreck fringe cool sketch arrow cake random";

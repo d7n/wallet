@@ -1,1 +1,1 @@
-var mnemonic = "tape coil soul misery noodle wait just produce trophy couple picture stable";
+var mnemonic = "ecology deposit quarter immune aisle vote loan tonight luggage patrol divorce total";

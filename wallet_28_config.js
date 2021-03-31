@@ -1,1 +1,1 @@
-var mnemonic = "hover knock chimney siege pottery coach crucial raise sure govern lecture oppose";
+var mnemonic = "once clean describe wealth point museum quality episode pattern lock coach smile";
