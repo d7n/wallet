@@ -1,1 +1,1 @@
-var mnemonic = "engage kidney analyst organ lab ritual young lamp survey tonight defy arm";
+var mnemonic = "today sponsor much real neglect parrot foot shiver mom body brother cage";

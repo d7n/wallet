@@ -1,1 +1,1 @@
-var mnemonic = "lyrics evolve length scale festival home puppy copy awesome strategy betray minor";
+var mnemonic = "artefact basic antique still strike success result radar fade stick daughter exhaust";

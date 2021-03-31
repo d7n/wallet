@@ -1,1 +1,1 @@
-var mnemonic = "panel fly fortune wrap latin palm awake enhance prefer oval still submit";
+var mnemonic = "replace unique prevent aerobic asset machine biology always all cabbage letter replace";

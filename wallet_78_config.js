@@ -1,1 +1,1 @@
-var mnemonic = "occur pen blast buzz joy injury pole urge link book direct once";
+var mnemonic = "lonely improve unique either squeeze pledge number elite furnace pretty moment patrol";

@@ -1,1 +1,1 @@
-var mnemonic = "science extra essay mechanic park bone lazy basic pigeon powder hat cram";
+var mnemonic = "promote kidney wheat phone material stove erase gold snack prepare dice describe";

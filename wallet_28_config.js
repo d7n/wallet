@@ -1,1 +1,1 @@
-var mnemonic = "once clean describe wealth point museum quality episode pattern lock coach smile";
+var mnemonic = "fox negative limit smile sample method excess enjoy glove rather print tackle";

@@ -1,1 +1,1 @@
-var mnemonic = "rule indoor arctic useful connect hour survey area menu upset almost shoe";
+var mnemonic = "deer office trumpet fix night bronze boost bridge page soon farm bag";

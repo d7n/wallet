@@ -1,1 +1,1 @@
-var mnemonic = "hazard cry improve mix fresh wasp fiber reform scatter buzz remove social";
+var mnemonic = "credit plug actor still globe fitness custom rough galaxy anxiety kiwi then";

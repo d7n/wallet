@@ -1,1 +1,1 @@
-var mnemonic = "pistol now thought evolve solution spawn salad adapt entire clean panel genre";
+var mnemonic = "adapt sing stove identify burden fold manage auto finish alley sail over";

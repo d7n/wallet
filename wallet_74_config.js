@@ -1,1 +1,1 @@
-var mnemonic = "level reopen wall poet father kitchen pact orient tip torch tongue audit";
+var mnemonic = "tunnel boil meadow shield vault oblige rich tuition original gaze glance regret";

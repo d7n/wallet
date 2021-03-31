@@ -1,1 +1,1 @@
-var mnemonic = "gown ride often armed true worry dry estate horn net ecology tonight";
+var mnemonic = "bone consider pig winner equip amateur gorilla sniff object twist floor slab";

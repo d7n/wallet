@@ -1,1 +1,1 @@
-var mnemonic = "label canvas common super film heavy hen cheese position orient current exercise";
+var mnemonic = "message deer situate island release affair pulp open shove unaware recycle private";

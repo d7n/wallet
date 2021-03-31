@@ -1,1 +1,1 @@
-var mnemonic = "tomato armed resist romance notice charge office powder math glance deposit limit";
+var mnemonic = "inform mass void lawsuit midnight width latin citizen hard boat wall suspect";

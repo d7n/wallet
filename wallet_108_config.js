@@ -1,1 +1,1 @@
-var mnemonic = "brown hockey naive resource force join inflict oblige swallow gift glory fortune";
+var mnemonic = "elbow situate wide mother review unlock sell wife speak dish ocean hammer";

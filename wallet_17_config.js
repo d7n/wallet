@@ -1,1 +1,1 @@
-var mnemonic = "word broccoli student wisdom click crowd opera assault wealth guess space dance";
+var mnemonic = "burger shrug busy demand merry core exhibit warfare celery tree ketchup torch";

@@ -1,1 +1,1 @@
-var mnemonic = "call gas since crouch anger electric noble black depend behind release strong";
+var mnemonic = "rally squirrel guitar gasp build burger frozen toddler crowd broken pulse dwarf";

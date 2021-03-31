@@ -1,1 +1,1 @@
-var mnemonic = "inner ball tunnel rescue piano movie rule purpose enter saddle provide thunder";
+var mnemonic = "cake hybrid hollow dirt cave tunnel connect clinic option kit undo hotel";

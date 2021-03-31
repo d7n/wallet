@@ -1,1 +1,1 @@
-var mnemonic = "monitor exercise elephant novel announce unusual around idle derive armed dress tent";
+var mnemonic = "beauty purse cycle library float present fatal park coil jump rhythm piano";

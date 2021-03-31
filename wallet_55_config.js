@@ -1,1 +1,1 @@
-var mnemonic = "laptop demand garlic end follow leg eagle unaware joke hurdle rabbit wise";
+var mnemonic = "divert island goddess ozone taste month empower figure moral squirrel inmate brisk";

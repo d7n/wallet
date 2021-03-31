@@ -1,1 +1,1 @@
-var mnemonic = "brave hole salad million near leader demand mule private forest fine dream";
+var mnemonic = "race ribbon control until seminar adult lion pink fine kid increase weather";

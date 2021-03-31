@@ -1,1 +1,1 @@
-var mnemonic = "blame asset invest present adult glimpse erupt long donor lyrics flavor curve";
+var mnemonic = "success two fruit plug then height glory amazing sea pulp magic clown";

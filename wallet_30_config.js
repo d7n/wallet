@@ -1,1 +1,1 @@
-var mnemonic = "album donkey boy remind example sugar page portion abandon slab identify artefact";
+var mnemonic = "review bean maximum robot scatter artist record cancel dinosaur differ clock pizza";

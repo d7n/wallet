@@ -1,1 +1,1 @@
-var mnemonic = "ignore entire harvest inner switch main neither life debate category gas rally";
+var mnemonic = "taxi dilemma romance cancel impose wear misery uncover chair estate cherry choice";

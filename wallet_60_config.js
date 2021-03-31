@@ -1,1 +1,1 @@
-var mnemonic = "later warm damp rule goddess label evil cannon helmet jeans alpha certain";
+var mnemonic = "pelican canvas switch hood soap other rally glad talk actress heart extend";

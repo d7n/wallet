@@ -1,1 +1,1 @@
-var mnemonic = "swamp sand push person marriage that welcome add female six fun accuse";
+var mnemonic = "sentence business safe use coach panel census point sugar talent program turkey";

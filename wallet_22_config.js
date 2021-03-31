@@ -1,1 +1,1 @@
-var mnemonic = "lumber dawn patient addict observe gallery run marriage tube vintage tonight garment";
+var mnemonic = "dignity choose autumn punch evoke cable permit nominee bar valid hamster clog";

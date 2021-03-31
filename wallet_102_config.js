@@ -1,1 +1,1 @@
-var mnemonic = "race noble crew diet pigeon slush surge dial alone security segment regular";
+var mnemonic = "chaos make lounge gas recall ignore wrap frame insect depth cost okay";

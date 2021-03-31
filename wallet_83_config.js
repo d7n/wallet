@@ -1,1 +1,1 @@
-var mnemonic = "lamp prefer spider evolve govern spoil brisk twist shaft position that acquire";
+var mnemonic = "recycle accuse ball shoulder glory van indicate lobster organ lonely ranch gas";

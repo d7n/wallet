@@ -1,1 +1,1 @@
-var mnemonic = "gauge violin business arrive lunar wreck fringe cool sketch arrow cake random";
+var mnemonic = "sure will shoot primary cost disorder private happy artist utility harvest grocery";

@@ -1,1 +1,1 @@
-var mnemonic = "price decide mercy matrix soul zoo opera click sock hill pitch surge";
+var mnemonic = "cherry clinic month frog tag feature embrace text produce civil outdoor purse";

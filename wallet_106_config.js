@@ -1,1 +1,1 @@
-var mnemonic = "ecology deposit quarter immune aisle vote loan tonight luggage patrol divorce total";
+var mnemonic = "label below ocean rubber inform fatal dune note admit wise mom sense";

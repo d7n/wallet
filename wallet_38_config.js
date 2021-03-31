@@ -1,1 +1,1 @@
-var mnemonic = "nation tunnel grape also inspire suit remove dinner tragic include enable friend";
+var mnemonic = "junior idea staff canal opinion curve enhance include intact beef announce enable";

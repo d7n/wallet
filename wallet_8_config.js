@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon color pulp danger brown plate answer glove mouse staff imitate wagon";
+var mnemonic = "heavy rack flag wet maid squeeze response east robot sight owner common";

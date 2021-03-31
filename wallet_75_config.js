@@ -1,1 +1,1 @@
-var mnemonic = "used obey captain opinion reveal mom april advance morning spirit rookie jeans";
+var mnemonic = "metal also vessel length goat arrive tone drift ahead snack index loan";

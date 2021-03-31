@@ -1,1 +1,1 @@
-var mnemonic = "adapt between hello message hurry door auto used tomorrow slogan express better";
+var mnemonic = "record work theme mass drop catalog february regret belt strike arm meadow";

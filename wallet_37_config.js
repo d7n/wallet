@@ -1,1 +1,1 @@
-var mnemonic = "cook make valid amused scheme fantasy bargain hamster quantum crowd predict cause";
+var mnemonic = "problem tiger south size march race dial three lift surround brave open";

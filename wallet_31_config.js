@@ -1,1 +1,1 @@
-var mnemonic = "miracle artwork domain region permit act reduce solve extend deny cool bounce";
+var mnemonic = "inside welcome flat fan upgrade metal timber solid wear ozone harsh once";

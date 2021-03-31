@@ -1,1 +1,1 @@
-var mnemonic = "happy parrot cry glide hood wife spice weasel regret subject repair good";
+var mnemonic = "mutual reveal depth board brick nephew meat regular tape electric leaf question";

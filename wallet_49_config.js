@@ -1,1 +1,1 @@
-var mnemonic = "nurse soccer unaware art super civil green what depend often index team";
+var mnemonic = "noble finger announce hat theme case undo horror jeans sort lawsuit improve";

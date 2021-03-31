@@ -1,1 +1,1 @@
-var mnemonic = "horn room arena fork fine tree knock chunk copper wedding zone trust";
+var mnemonic = "alpha youth palm gallery sudden mobile rug middle scorpion diesel nature glue";

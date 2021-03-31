@@ -1,1 +1,1 @@
-var mnemonic = "shadow hub alone swallow spell stem vocal decorate element syrup time have";
+var mnemonic = "snap forest balcony beyond fatal shrug eternal excuse prevent accuse lock make";

@@ -1,1 +1,1 @@
-var mnemonic = "educate cattle there husband century bicycle child crunch pilot bomb wife region";
+var mnemonic = "leisure fiber web winner space pistol select adjust cause this kiwi world";

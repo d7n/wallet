@@ -1,1 +1,1 @@
-var mnemonic = "illegal suspect quality aspect arena swap card avoid domain nest trust flush";
+var mnemonic = "sand guess embark memory pitch surprise believe ship nut bag april inject";

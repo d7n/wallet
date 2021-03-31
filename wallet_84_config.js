@@ -1,1 +1,1 @@
-var mnemonic = "turkey unveil man century cabbage fetch parrot there duty faculty forget mother";
+var mnemonic = "thought improve gate exit observe lemon ball excuse curtain turkey crunch green";

@@ -1,1 +1,1 @@
-var mnemonic = "margin frozen main creek course wisdom matter other delay wrong derive sign";
+var mnemonic = "brick actor tuna tissue whip clump spray picture stove giggle bomb diagram";

@@ -1,1 +1,1 @@
-var mnemonic = "snack round program prosper artist valid depth ghost benefit reduce knock expand";
+var mnemonic = "garment horse number clump way ketchup rubber lemon grocery brown debate grunt";

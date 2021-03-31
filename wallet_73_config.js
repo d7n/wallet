@@ -1,1 +1,1 @@
-var mnemonic = "rule combine pluck sugar meat undo learn cable bean owner cancel gun";
+var mnemonic = "mushroom spring notice frozen aerobic napkin dune region plate wrestle hair fit";

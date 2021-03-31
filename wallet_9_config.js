@@ -1,1 +1,1 @@
-var mnemonic = "alpha parrot gate rubber sand genuine flag village verify dose sing huge";
+var mnemonic = "tuna what use small crane online success between region someone tragic bring";

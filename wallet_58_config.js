@@ -1,1 +1,1 @@
-var mnemonic = "main strategy unfold social ginger saddle render maze priority fire photo ski";
+var mnemonic = "slam verb inquiry announce flag have romance waste circle magic error song";

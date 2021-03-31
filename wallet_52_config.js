@@ -1,1 +1,1 @@
-var mnemonic = "funny tuition brass sand profit flash disease few blade observe seminar naive";
+var mnemonic = "poverty monster able flip fluid utility case engage clean robot clever jewel";

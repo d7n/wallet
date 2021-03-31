@@ -1,1 +1,1 @@
-var mnemonic = "casino they balance soccer camp alert loop inside boss frequent prize hair";
+var mnemonic = "differ noise vicious enable pluck hobby snack beyond wood symptom stage popular";

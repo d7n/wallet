@@ -1,1 +1,1 @@
-var mnemonic = "august daughter uniform fox frost goose rely hundred notable useful input stool";
+var mnemonic = "glow empty kind humor title flag amazing love bike emotion shell shed";

@@ -1,1 +1,1 @@
-var mnemonic = "best gun nature beyond drum push educate meat course dance pulp purity";
+var mnemonic = "write total mail body immune legend music cattle stumble auction mango matrix";

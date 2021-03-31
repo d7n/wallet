@@ -1,1 +1,1 @@
-var mnemonic = "inflict enlist resource joy shock summer magnet flight pencil sweet rough lion";
+var mnemonic = "clip blanket hard time toward joy clay smart first test apology slight";

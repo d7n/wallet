@@ -1,1 +1,1 @@
-var mnemonic = "perfect elder toilet actor alarm brand wreck strike enlist cheap buddy blind";
+var mnemonic = "fluid outside opera actor mad giant code bring buyer dwarf ball tragic";

@@ -1,1 +1,1 @@
-var mnemonic = "table leave mobile empty coach valve ostrich suffer ancient color orbit fall";
+var mnemonic = "tank mother logic gain renew marriage adjust just wool position report second";

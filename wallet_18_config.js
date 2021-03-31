@@ -1,1 +1,1 @@
-var mnemonic = "puppy uniform glass inspire shock nation record lumber protect comfort sweet must";
+var mnemonic = "cross school segment arm result utility learn drive team social begin unable";

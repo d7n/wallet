@@ -1,1 +1,1 @@
-var mnemonic = "print gravity pledge monster service tackle very world runway utility hire stove";
+var mnemonic = "chase donate climb comfort boil idle wrestle matter mirror index valve notable";

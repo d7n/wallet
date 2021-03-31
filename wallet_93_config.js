@@ -1,1 +1,1 @@
-var mnemonic = "subject pond thrive connect goddess need tiny nothing notice explain monitor foil";
+var mnemonic = "rare retire hunt run hammer real mechanic joke silent segment actual rack";

@@ -1,1 +1,1 @@
-var mnemonic = "lounge balcony test they elite accuse rack alone romance acquire sister inflict";
+var mnemonic = "crumble build pupil soldier sentence tennis genre write build price region suspect";

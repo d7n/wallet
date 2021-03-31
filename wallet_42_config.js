@@ -1,1 +1,1 @@
-var mnemonic = "hockey trip skin because alpha section explain exotic chaos strong enough raccoon";
+var mnemonic = "edge deliver mind crush garbage wife budget leave excite bulk hamster electric";

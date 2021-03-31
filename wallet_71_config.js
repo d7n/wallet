@@ -1,1 +1,1 @@
-var mnemonic = "artwork crazy base divide inch identify meadow destroy cage develop yard license";
+var mnemonic = "hammer dune there wall learn tonight sauce wash coast lonely shed rude";

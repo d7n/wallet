@@ -1,1 +1,1 @@
-var mnemonic = "slow genuine figure hybrid often rigid young organ churn source detail neglect";
+var mnemonic = "absorb vacant erosion setup angle energy trap magic chest pipe radar mosquito";

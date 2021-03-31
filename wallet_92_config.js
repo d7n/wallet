@@ -1,1 +1,1 @@
-var mnemonic = "relief scene total orient tell senior swallow screen liquid demise heart culture";
+var mnemonic = "cube solid motion reflect blame elder caught enrich exile velvet fox pen";

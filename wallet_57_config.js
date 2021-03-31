@@ -1,1 +1,1 @@
-var mnemonic = "vintage erupt flower loud bean badge throw spike chunk misery find helmet";
+var mnemonic = "recycle rate proud put lift dune decade ocean walnut couch toe absurd";

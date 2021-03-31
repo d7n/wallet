@@ -1,1 +1,1 @@
-var mnemonic = "connect crime surround camp injury orbit section soon flock flip comic enlist";
+var mnemonic = "long define chuckle tissue leave core inject spread vast shy goose reject";

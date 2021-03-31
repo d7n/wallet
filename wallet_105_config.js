@@ -1,1 +1,1 @@
-var mnemonic = "rug video festival tube thrive across mind talent secret shell chest outer";
+var mnemonic = "explain what quality lobster team music genre hill panda play lend super";

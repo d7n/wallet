@@ -1,1 +1,1 @@
-var mnemonic = "notable dumb husband hole alert chunk citizen potato provide develop mouse sentence";
+var mnemonic = "deposit link differ pattern coffee gate siren target scissors tenant swamp obscure";

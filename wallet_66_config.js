@@ -1,1 +1,1 @@
-var mnemonic = "orient outdoor regular ozone cupboard cook rule use tenant violin fossil photo";
+var mnemonic = "donor ill push account make cradle north front adapt light sauce camera";

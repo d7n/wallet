@@ -1,1 +1,1 @@
-var mnemonic = "lemon cube quantum ritual grit sibling short lounge dumb olympic deal pool";
+var mnemonic = "reward bid worth relief menu satoshi submit canoe spell again keep select";

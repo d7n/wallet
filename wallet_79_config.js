@@ -1,1 +1,1 @@
-var mnemonic = "real urge process carpet deer chimney claw donkey crush try front radio";
+var mnemonic = "bridge sail mule draw crucial reject orange merry budget step hurry lamp";

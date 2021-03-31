@@ -1,1 +1,1 @@
-var mnemonic = "average tumble rebel easily tray jar quarter vocal pet comic screen spy";
+var mnemonic = "satisfy resource vote render blast among cliff practice tiger candy lion trash";

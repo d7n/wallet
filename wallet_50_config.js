@@ -1,1 +1,1 @@
-var mnemonic = "merge spider vacant bike timber admit then trust stereo soda arrive century";
+var mnemonic = "earth tuna breeze cute tired bicycle secret market stomach tiny knife sing";

@@ -1,1 +1,1 @@
-var mnemonic = "horn okay gather source because credit daring refuse method news beyond lobster";
+var mnemonic = "parrot tiger issue eager fury earth coral argue embrace hammer punch mesh";

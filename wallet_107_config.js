@@ -1,1 +1,1 @@
-var mnemonic = "ripple pill office matrix concert climb flower toast program deliver candy science";
+var mnemonic = "mouse crane convince cousin author life bind post easy marine start fold";

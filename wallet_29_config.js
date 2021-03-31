@@ -1,1 +1,1 @@
-var mnemonic = "cause inch endless gold wave shove hip unlock siege cradle easily primary";
+var mnemonic = "tissue inject upper ripple exchange bulb happy brief humble start hope thunder";

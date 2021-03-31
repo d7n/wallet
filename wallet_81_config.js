@@ -1,1 +1,1 @@
-var mnemonic = "believe maze print lemon vital giant drum fitness forum panic service addict";
+var mnemonic = "must smooth autumn story fine material seminar theory essay length adjust pony";

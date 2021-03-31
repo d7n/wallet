@@ -1,1 +1,1 @@
-var mnemonic = "live stay usual tornado split wagon pottery dizzy athlete park glance judge";
+var mnemonic = "motor identify inherit search mean feature you neither pride poem mention tongue";

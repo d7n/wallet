@@ -1,1 +1,1 @@
-var mnemonic = "era social defy snack advice armed rigid promote middle abstract potato crash";
+var mnemonic = "prosper thank antique guess problem equip problem economy humble sort another kiss";

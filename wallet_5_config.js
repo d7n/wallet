@@ -1,1 +1,1 @@
-var mnemonic = "topple giraffe access tank live path nephew phone rail armor ugly horn";
+var mnemonic = "feed filter enforce fit idea regular manual canal play say meat hire";

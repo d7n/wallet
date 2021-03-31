@@ -1,1 +1,1 @@
-var mnemonic = "brain rail actual arrest cactus situate tiger select seat scene iron guide";
+var mnemonic = "orange orange spray lucky wise tackle clean build casual produce traffic tuition";

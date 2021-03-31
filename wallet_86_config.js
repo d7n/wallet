@@ -1,1 +1,1 @@
-var mnemonic = "puppy better stereo cabbage wash display latin flame real snap help park";
+var mnemonic = "carry awake canvas wine exclude globe test hour mirror camp ancient river";

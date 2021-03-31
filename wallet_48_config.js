@@ -1,1 +1,1 @@
-var mnemonic = "quit solution trick flat frame practice shop magic daring purpose sadness excite";
+var mnemonic = "hospital glad few another smooth useful forum toddler mail planet scan arrest";

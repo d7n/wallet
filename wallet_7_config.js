@@ -1,1 +1,1 @@
-var mnemonic = "solution galaxy pencil avocado anchor state ostrich social lyrics fall car pear";
+var mnemonic = "art side resource sudden popular upgrade thunder undo over hurry undo radio";

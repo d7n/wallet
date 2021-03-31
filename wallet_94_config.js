@@ -1,1 +1,1 @@
-var mnemonic = "recycle trust damage dad cable brand vendor replace bounce estate wave grape";
+var mnemonic = "gain lounge cupboard resemble sugar fuel runway remove range under soft spring";

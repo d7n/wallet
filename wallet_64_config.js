@@ -1,1 +1,1 @@
-var mnemonic = "amused cloud inmate vibrant faculty leader verb latin daring fitness final wool";
+var mnemonic = "fish caught keep february bread strike family knock usual better security stable";

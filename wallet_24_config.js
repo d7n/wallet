@@ -1,1 +1,1 @@
-var mnemonic = "peanut choice hollow elder ladder position side wash net oven mountain two";
+var mnemonic = "problem human polar snow salad drive evidence explain find desk wolf guide";

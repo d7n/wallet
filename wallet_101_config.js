@@ -1,1 +1,1 @@
-var mnemonic = "twenty sunset milk twist very raven require boost bird invest walk stage";
+var mnemonic = "shine fluid panther second harbor soul smoke laundry denial evidence claim seek";
