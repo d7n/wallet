@@ -1,1 +1,1 @@
-var mnemonic = "exchange portion tattoo write tank urban quit whisper army fiscal faculty deputy";
+var mnemonic = "nut fog famous notice winner crop mountain business program illness ball social";

@@ -1,1 +1,1 @@
-var mnemonic = "rigid shift strike human twin tattoo lottery imitate term space verify basic";
+var mnemonic = "arctic vessel exhaust large lyrics banner merry grocery cabbage ugly boost olympic";

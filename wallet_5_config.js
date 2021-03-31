@@ -1,1 +1,1 @@
-var mnemonic = "lounge spatial large senior gym jaguar metal find what cry pen outer";
+var mnemonic = "retreat lens kick acquire such giraffe cruise length canvas suffer better stove";

@@ -1,1 +1,1 @@
-var mnemonic = "soon review trigger appear donate great fat heart coral across fox giraffe";
+var mnemonic = "october replace opinion crumble fork victory quick cotton soldier tell point pottery";

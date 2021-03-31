@@ -1,1 +1,1 @@
-var mnemonic = "oak grow argue elephant quote crop example raw author miss color blade";
+var mnemonic = "wide city junk luggage hockey glow property galaxy spring slide soup obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "easy luggage gesture battle dose sample way multiply bamboo seven turn float";
+var mnemonic = "among culture horse rate dove input girl entire lazy federal split state";

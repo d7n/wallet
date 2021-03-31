@@ -1,1 +1,1 @@
-var mnemonic = "brother behind uphold pool near fluid artwork language juice choice flag edge";
+var mnemonic = "reunion banana assault fragile october illegal dish seed box width sustain moral";

@@ -1,1 +1,1 @@
-var mnemonic = "truth rabbit actual size anchor book session motion creek grocery resource dog";
+var mnemonic = "slot taste obtain retire because drum keen grid labor wedding glory asthma";

@@ -1,1 +1,1 @@
-var mnemonic = "loud cancel quantum universe shrug flip evil simple flock silver pause start";
+var mnemonic = "police lunch mouse case toy surface what season tattoo quote total drip";

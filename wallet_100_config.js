@@ -1,1 +1,1 @@
-var mnemonic = "view nut among rib friend bright female virtual want used actress basket";
+var mnemonic = "spike end illness twenty marine all few genuine romance addict police bind";

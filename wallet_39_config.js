@@ -1,1 +1,1 @@
-var mnemonic = "verify wall gorilla rookie always term text protect series rapid organ female";
+var mnemonic = "hair help arctic empty tone hotel decrease detect hurry course trade ranch";

@@ -1,1 +1,1 @@
-var mnemonic = "calm motor mercy sock circle feel similar vendor put appear kite occur";
+var mnemonic = "smile sponsor palm gap duck mean current wreck fantasy original awesome unfold";

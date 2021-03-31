@@ -1,1 +1,1 @@
-var mnemonic = "bone seek snack discover demand erupt glad put fragile dutch manage city";
+var mnemonic = "joke toast check verify broken figure seminar beauty alcohol burger cost cross";

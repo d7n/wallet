@@ -1,1 +1,1 @@
-var mnemonic = "sort nut hobby host trumpet gospel biology peace fun donor alley lesson";
+var mnemonic = "squeeze setup asset taxi broken absurd country jaguar ripple mom blush plastic";

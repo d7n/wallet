@@ -1,1 +1,1 @@
-var mnemonic = "ensure genuine answer candy danger point crystal theme extend hope garbage cinnamon";
+var mnemonic = "laptop awkward fancy hover effort menu symbol play text alcohol daughter split";

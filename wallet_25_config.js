@@ -1,1 +1,1 @@
-var mnemonic = "turkey inch punch term giggle spawn deposit solar result erode memory autumn";
+var mnemonic = "beyond abstract imitate dutch wrong dance ride atom pencil spot census stem";

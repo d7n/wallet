@@ -1,1 +1,1 @@
-var mnemonic = "nice shaft panther hurdle patient spare hungry music corn shoulder vital skill";
+var mnemonic = "length soon bacon second farm voyage bleak clock space apple violin film";

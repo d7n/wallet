@@ -1,1 +1,1 @@
-var mnemonic = "wealth bonus witness know valid cost pulp sun rubber elbow call utility";
+var mnemonic = "pen ramp quick hip phone poverty current ladder point ranch squirrel multiply";

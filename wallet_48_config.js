@@ -1,1 +1,1 @@
-var mnemonic = "nest fox cement rate vocal rain foam panda divert during trick front";
+var mnemonic = "horn cost canyon august begin habit cushion forget muffin between search wool";

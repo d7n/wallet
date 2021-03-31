@@ -1,1 +1,1 @@
-var mnemonic = "rescue universe globe enable embrace unfair okay mirror buyer annual crash method";
+var mnemonic = "warfare fat object cigar spare narrow acid awful prevent man upon trim";

@@ -1,1 +1,1 @@
-var mnemonic = "trip heart catch thunder danger scheme always eyebrow lobster original total dirt";
+var mnemonic = "unable foam spray helmet garbage protect muscle claim bread doctor swim latin";

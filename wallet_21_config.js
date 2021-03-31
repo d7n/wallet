@@ -1,1 +1,1 @@
-var mnemonic = "impose random young okay debate benefit van orphan dolphin claw team poet";
+var mnemonic = "pledge impose track inmate spy minimum gossip start blame flee genre amazing";

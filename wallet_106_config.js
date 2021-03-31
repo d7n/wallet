@@ -1,1 +1,1 @@
-var mnemonic = "survey fly amused differ weapon fitness dune review switch fame primary alley";
+var mnemonic = "poverty theory below offer biology leader punch embark glow noodle visual subway";

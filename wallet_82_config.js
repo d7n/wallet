@@ -1,1 +1,1 @@
-var mnemonic = "never scatter food where satoshi sound pepper dish occur wing snake game";
+var mnemonic = "edge olympic path ceiling luggage kiwi apology scene click stereo dash cabin";

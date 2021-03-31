@@ -1,1 +1,1 @@
-var mnemonic = "monster voyage toast winner neither response digital forward enough trophy senior gift";
+var mnemonic = "thing identify sick parade almost surface pyramid shift danger clip always scorpion";

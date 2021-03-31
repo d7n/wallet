@@ -1,1 +1,1 @@
-var mnemonic = "galaxy because dose sea style basic oven crash combine snake left shrimp";
+var mnemonic = "push misery clay guitar very clever sustain run salute boat increase arrest";

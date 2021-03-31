@@ -1,1 +1,1 @@
-var mnemonic = "present core clap inspire power twenty cube blame parent code design wrap";
+var mnemonic = "panther oblige horror spare effort ten play scene merry devote nuclear parrot";

@@ -1,1 +1,1 @@
-var mnemonic = "neither state search range food omit mushroom flower gravity pet world flag";
+var mnemonic = "spirit heavy wagon large cherry shallow plastic mechanic resist wheel place youth";

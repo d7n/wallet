@@ -1,1 +1,1 @@
-var mnemonic = "better number fashion ladder pumpkin detail poet solution staff obey debris pistol";
+var mnemonic = "juice high treat senior march nothing donkey artwork idea upon core vintage";

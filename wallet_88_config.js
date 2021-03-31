@@ -1,1 +1,1 @@
-var mnemonic = "lottery idle strike add soda claw deal one pigeon quality retreat gallery";
+var mnemonic = "bid ability plunge science retreat adapt wet crater danger daughter damage fortune";

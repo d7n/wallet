@@ -1,1 +1,1 @@
-var mnemonic = "critic online flip mean bike sphere pave blood shrug vault road diagram";
+var mnemonic = "symptom hat group aspect unlock name vessel arch range rent segment riot";

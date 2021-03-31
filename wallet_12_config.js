@@ -1,1 +1,1 @@
-var mnemonic = "staff sick super pink perfect digital spread marble embrace city chunk consider";
+var mnemonic = "recipe noodle door circle other carbon duck name sphere abuse budget general";

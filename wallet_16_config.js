@@ -1,1 +1,1 @@
-var mnemonic = "garbage bracket health smile solid student leg type random wagon devote tuna";
+var mnemonic = "embody pottery rough able vote purchase badge slow inspire desert order excite";

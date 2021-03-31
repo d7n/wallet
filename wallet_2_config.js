@@ -1,1 +1,1 @@
-var mnemonic = "curious shiver disease apple fossil behind alert action kidney soft zebra gallery";
+var mnemonic = "expect trim stamp scheme kiwi youth vocal salute roof wolf receive ozone";

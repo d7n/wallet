@@ -1,1 +1,1 @@
-var mnemonic = "infant scatter trust squeeze fix metal width pistol dilemma poet curious van";
+var mnemonic = "uphold two remove option skill scrub item desert novel stick weapon velvet";

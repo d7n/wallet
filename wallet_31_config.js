@@ -1,1 +1,1 @@
-var mnemonic = "raise fly mad fiber alert bind six almost drift raw orbit apple";
+var mnemonic = "eye ethics either truck meat disorder daughter develop inflict accident zoo paddle";

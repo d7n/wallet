@@ -1,1 +1,1 @@
-var mnemonic = "metal saddle wheel game creek fancy race fade pear scatter satoshi near";
+var mnemonic = "trial mystery laptop sail super example ice bunker note identify voyage orange";

@@ -1,1 +1,1 @@
-var mnemonic = "flight laugh stairs wage better sausage water volume shoe tip nuclear together";
+var mnemonic = "target sign gap decrease duck awake govern voice delay video donate wheat";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow install display panel slender lawsuit mango blame wear undo swing bunker";
+var mnemonic = "love slogan never heart buyer spider valley nerve snow siege avoid match";

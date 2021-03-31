@@ -1,1 +1,1 @@
-var mnemonic = "foil basic seven because moral fame person zero predict injury second credit";
+var mnemonic = "chef expose student economy hair pink april sudden million bench tree must";

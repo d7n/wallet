@@ -1,1 +1,1 @@
-var mnemonic = "clever together slide about direct hood civil brisk smile flee nasty sunny";
+var mnemonic = "party music lunch tumble camp moral city woman point depend margin effort";

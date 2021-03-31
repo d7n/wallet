@@ -1,1 +1,1 @@
-var mnemonic = "tool coffee sketch panther what million wrist author cricket earth purpose visit";
+var mnemonic = "main beyond theme guard cash custom brief cabbage cliff device eight town";

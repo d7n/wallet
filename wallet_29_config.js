@@ -1,1 +1,1 @@
-var mnemonic = "fun upset eternal cost achieve alpha series permit december oval end drama";
+var mnemonic = "lucky erase rude gate prosper traffic start sign olive retreat auction because";

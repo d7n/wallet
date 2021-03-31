@@ -1,1 +1,1 @@
-var mnemonic = "inch cup matrix grid amateur blood speak inherit news dry abuse goat";
+var mnemonic = "speed knee response verify dolphin spider debris swim nest elephant armed door";

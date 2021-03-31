@@ -1,1 +1,1 @@
-var mnemonic = "immense swamp era silk chaos across ill struggle ensure dream language faint";
+var mnemonic = "scatter reflect host tomato ribbon desk speed pass now run tip palm";

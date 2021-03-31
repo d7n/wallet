@@ -1,1 +1,1 @@
-var mnemonic = "wheat side pencil paper planet undo hood merit teach ritual wedding hollow";
+var mnemonic = "draw region loan track sight interest carpet recipe outdoor betray source print";

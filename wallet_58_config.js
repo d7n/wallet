@@ -1,1 +1,1 @@
-var mnemonic = "faint day pulp student slim thumb innocent zoo congress naive episode sick";
+var mnemonic = "burst unfold pride harvest runway analyst grit insect cream female equal clinic";

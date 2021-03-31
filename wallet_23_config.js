@@ -1,1 +1,1 @@
-var mnemonic = "black cattle resemble yard champion dune siege loud perfect patrol coffee amazing";
+var mnemonic = "cat few canoe vacuum way captain hat tattoo ten beyond battle fork";

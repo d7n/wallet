@@ -1,1 +1,1 @@
-var mnemonic = "elegant hello more lumber huge pair check kid blood stay news uniform";
+var mnemonic = "portion level tomorrow word skate entire almost minor idle coconut story various";

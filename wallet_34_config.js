@@ -1,1 +1,1 @@
-var mnemonic = "dog amateur inner spider tomato cupboard benefit genuine fine settle fancy sell";
+var mnemonic = "ceiling hole luggage cannon animal canoe enable fee vocal shop mean gaze";

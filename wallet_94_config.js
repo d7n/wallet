@@ -1,1 +1,1 @@
-var mnemonic = "all close ridge logic feed honey twice asset lyrics purchase donate scrub";
+var mnemonic = "era agent wire fun hole cluster soda crumble brush police hundred onion";

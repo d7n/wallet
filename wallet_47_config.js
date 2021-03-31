@@ -1,1 +1,1 @@
-var mnemonic = "gorilla argue drop argue sponsor surface alter tilt powder three cabin case";
+var mnemonic = "reflect cruel beauty arrive cactus select insect wedding insect ticket stove lift";

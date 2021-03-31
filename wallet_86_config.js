@@ -1,1 +1,1 @@
-var mnemonic = "luxury vendor adapt hollow shuffle hazard bubble submit joke recycle replace mail";
+var mnemonic = "harsh balance predict typical raccoon throw crawl mom seat giggle weather praise";

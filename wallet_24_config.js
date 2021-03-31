@@ -1,1 +1,1 @@
-var mnemonic = "risk photo proud ability into solar average leave blast diagram label ticket";
+var mnemonic = "security salute bottom push grain lend jealous catalog this swap own during";

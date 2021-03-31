@@ -1,1 +1,1 @@
-var mnemonic = "jeans net unfair diesel always depart review observe border goddess hotel menu";
+var mnemonic = "service small risk slogan mule resemble mimic salmon shrimp quarter legal used";

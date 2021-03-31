@@ -1,1 +1,1 @@
-var mnemonic = "unaware cage digital news high suggest trust wink wall metal fall mother";
+var mnemonic = "usual disease young link chase delay elephant carpet give steak pet tomorrow";

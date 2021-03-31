@@ -1,1 +1,1 @@
-var mnemonic = "stem view marble model gospel cluster thumb year polar aisle lunar also";
+var mnemonic = "razor spring poverty peanut hungry state elite faculty trigger seek ranch sustain";

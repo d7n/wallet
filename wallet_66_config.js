@@ -1,1 +1,1 @@
-var mnemonic = "mixed more glass middle brown crater spread goose ritual desk dwarf yellow";
+var mnemonic = "volume replace valley onion flag saddle grunt brain news emotion glance orchard";

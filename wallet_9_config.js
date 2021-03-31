@@ -1,1 +1,1 @@
-var mnemonic = "away isolate message bounce enable sister follow bean alone wish smart burger";
+var mnemonic = "travel tomato swarm paddle tuition liberty buyer hip soap curve task guide";

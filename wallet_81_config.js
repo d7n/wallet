@@ -1,1 +1,1 @@
-var mnemonic = "couch dumb ordinary album problem hour oppose twenty rack velvet foster market";
+var mnemonic = "noble tornado tip man obscure tortoise clump chief air lumber resemble trash";

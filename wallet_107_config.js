@@ -1,1 +1,1 @@
-var mnemonic = "initial damage track basket gate fine book toy task rather pair exhaust";
+var mnemonic = "car help truck taste blame merge sustain develop decline salute casino direct";

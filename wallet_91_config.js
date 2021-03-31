@@ -1,1 +1,1 @@
-var mnemonic = "release coil casual blouse reopen mention size jewel retire useless display bundle";
+var mnemonic = "pool weather secret culture relax motor copper crouch sword crumble angry smoke";

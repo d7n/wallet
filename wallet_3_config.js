@@ -1,1 +1,1 @@
-var mnemonic = "truck great ladder sock turn style rocket network quality neither size suffer";
+var mnemonic = "garage solution human rural useful sight uncle square bronze roof photo expire";

@@ -1,1 +1,1 @@
-var mnemonic = "square wonder void cricket royal orchard rule vote bicycle popular dog enough";
+var mnemonic = "quote abuse tip ticket edge coyote trash suffer brown property lazy february";

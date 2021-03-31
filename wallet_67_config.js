@@ -1,1 +1,1 @@
-var mnemonic = "lumber loud about canoe image print way climb talk grass hint cancel";
+var mnemonic = "innocent wagon best math home stamp harbor hand trick grid muscle easy";

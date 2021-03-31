@@ -1,1 +1,1 @@
-var mnemonic = "mobile custom crucial confirm turkey useless nephew swallow clump addict change law";
+var mnemonic = "siege bean thought right vacuum august divert setup present decorate cannon celery";

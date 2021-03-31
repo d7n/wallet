@@ -1,1 +1,1 @@
-var mnemonic = "reveal pull sugar bus van noise token danger prize afraid alien grow";
+var mnemonic = "claw bind shrimp will feature grape tree text hand wasp clip decline";

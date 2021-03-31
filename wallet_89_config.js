@@ -1,1 +1,1 @@
-var mnemonic = "victory daring point palace nut mercy input crane dose asset trouble cake";
+var mnemonic = "help whisper fury logic rent high rather identify shine draw stage decline";

@@ -1,1 +1,1 @@
-var mnemonic = "office empty west collect people tenant omit mistake danger predict already topple";
+var mnemonic = "dream army few prosper hospital mirror hobby lawsuit birth slice group worth";

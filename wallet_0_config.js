@@ -1,1 +1,1 @@
-var mnemonic = "planet depart suspect you weapon chef aim drop into victory core scatter";
+var mnemonic = "message crater key have decline figure shine garment brave cannon hammer silent";

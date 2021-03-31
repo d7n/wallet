@@ -1,1 +1,1 @@
-var mnemonic = "sell rescue rebel bulb buffalo snack main zoo satisfy energy birth age";
+var mnemonic = "arch ill agree dismiss soon emotion toast crew dwarf craft gospel autumn";

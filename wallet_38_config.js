@@ -1,1 +1,1 @@
-var mnemonic = "vocal garlic mobile joy sting group home cradle inside young elder parent";
+var mnemonic = "ladder shuffle funny cross choice dolphin shock neither garden rare flag require";

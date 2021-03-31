@@ -1,1 +1,1 @@
-var mnemonic = "hen inside broken exotic cushion soda thrive fever input pudding almost lady";
+var mnemonic = "trap gasp peace move interest lake tired diary firm please fury bright";

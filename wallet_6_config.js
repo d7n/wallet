@@ -1,1 +1,1 @@
-var mnemonic = "design worry obscure million tuna load fee grant glimpse begin meat hole";
+var mnemonic = "glass filter squirrel century fluid wine case warfare quantum excite ghost attack";

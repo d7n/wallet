@@ -1,1 +1,1 @@
-var mnemonic = "fix what approve weird breeze dish column unknown traffic flee degree loop";
+var mnemonic = "electric slush alien scene blush asset media series jacket venture grow clinic";

@@ -1,1 +1,1 @@
-var mnemonic = "opera ready wasp tank gather blood derive another response when wash indoor";
+var mnemonic = "fossil outside corn animal market crazy pretty party soda visit paper planet";

@@ -1,1 +1,1 @@
-var mnemonic = "admit combine trade void infant present cricket party churn ethics victory place";
+var mnemonic = "own case turn legend swim ethics area cancel inhale toilet urban glue";

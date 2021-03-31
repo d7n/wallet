@@ -1,1 +1,1 @@
-var mnemonic = "crumble slow stay attract solar machine wasp scheme honey speak purchase order";
+var mnemonic = "bid miss horn miracle diamond act muffin diary zero ship recycle total";

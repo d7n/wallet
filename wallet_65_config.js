@@ -1,1 +1,1 @@
-var mnemonic = "ugly obvious depend winner belt message pause shoe flag culture much shrimp";
+var mnemonic = "settle spirit forget anchor fog asset puzzle advice obtain slender develop nasty";

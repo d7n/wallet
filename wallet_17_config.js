@@ -1,1 +1,1 @@
-var mnemonic = "traffic start frost sight practice boost report casual inside lake delay orange";
+var mnemonic = "reunion square runway supreme mail gesture feed ladder actress delay anxiety correct";

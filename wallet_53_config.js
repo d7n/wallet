@@ -1,1 +1,1 @@
-var mnemonic = "property kind creek proof follow mosquito garage second earth fancy about moral";
+var mnemonic = "typical battle year trade submit hurry maximum ginger safe proud current taste";

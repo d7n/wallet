@@ -1,1 +1,1 @@
-var mnemonic = "purity reason decrease skill frame catalog cart round hole skill endless cruise";
+var mnemonic = "coconut ship false message square village peace club abuse dish abuse autumn";

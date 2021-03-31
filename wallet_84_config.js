@@ -1,1 +1,1 @@
-var mnemonic = "lady real deny pizza impact lava book able logic business tongue junk";
+var mnemonic = "journey act doctor debate reason release pioneer blue session major state borrow";

@@ -1,1 +1,1 @@
-var mnemonic = "issue cousin knock odor today miss elder insane system desk direct student";
+var mnemonic = "repair escape multiply wrong embrace afford outdoor pig collect rack trade fall";

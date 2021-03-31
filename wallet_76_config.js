@@ -1,1 +1,1 @@
-var mnemonic = "forget purpose decline outdoor current become glass decline rebuild vote today space";
+var mnemonic = "space hundred comfort surface federal razor champion consider check arrest pact cross";

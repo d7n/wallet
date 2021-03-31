@@ -1,1 +1,1 @@
-var mnemonic = "goddess ready couch present throw elite concert slide genuine green course float";
+var mnemonic = "click coach express image diary replace oppose critic judge say coil chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "gloom broccoli since whisper appear ridge erase brisk ship panda float trick";
+var mnemonic = "galaxy album vault discover use dice word mean firm anxiety ranch junior";

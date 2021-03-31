@@ -1,1 +1,1 @@
-var mnemonic = "better cloud chair huge speed during vendor giant matter east foot office";
+var mnemonic = "stock solve unhappy fit circle remove this shield fan desert hen spider";

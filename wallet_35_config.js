@@ -1,1 +1,1 @@
-var mnemonic = "ride voyage chase derive topic ranch please episode pretty tag drum tool";
+var mnemonic = "print excuse morning wrestle civil dial space live reveal dinner differ act";

@@ -1,1 +1,1 @@
-var mnemonic = "side abuse dog lumber pull boost prosper month oval source differ crouch";
+var mnemonic = "just bonus decorate express undo room danger tank panel slide sustain mad";

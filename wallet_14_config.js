@@ -1,1 +1,1 @@
-var mnemonic = "conduct forest crash juice gorilla captain misery label document pony lesson spoon";
+var mnemonic = "select buyer seminar usage idle warfare journey cram cluster syrup chronic output";

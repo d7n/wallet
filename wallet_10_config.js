@@ -1,1 +1,1 @@
-var mnemonic = "cruel patch index acoustic allow divorce okay sight angry tourist earn weapon";
+var mnemonic = "bleak culture fault physical fabric curious army pen cliff forward inside primary";

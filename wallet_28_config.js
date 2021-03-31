@@ -1,1 +1,1 @@
-var mnemonic = "inner erase minor life occur radar regular knock coast soldier afraid knife";
+var mnemonic = "crop person logic spider expire thing ecology power junior course social visual";
