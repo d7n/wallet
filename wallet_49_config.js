@@ -1,1 +1,1 @@
-var mnemonic = "ski pole six expand junior dry lemon sugar umbrella gun bind subject";
+var mnemonic = "subject mango firm setup initial habit surface sword riot exclude mosquito ahead";

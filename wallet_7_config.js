@@ -1,1 +1,1 @@
-var mnemonic = "parade raven congress oak lake rough capable three power dwarf silly own";
+var mnemonic = "busy pink crawl candy zebra tunnel family gossip useful visual nephew mom";

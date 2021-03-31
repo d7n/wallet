@@ -1,1 +1,1 @@
-var mnemonic = "van fresh vault trap tuna kit south ski sort sister lemon gain";
+var mnemonic = "wear lemon obey expect bright blame quit various bicycle stand brave hand";

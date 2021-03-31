@@ -1,1 +1,1 @@
-var mnemonic = "impose arch owner reject own current kangaroo pink typical claim endless tell";
+var mnemonic = "feature material margin practice lizard luxury toy solve work uphold gas bread";

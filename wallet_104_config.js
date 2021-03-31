@@ -1,1 +1,1 @@
-var mnemonic = "throw copy number buffalo wool shaft eight person universe view lunar dentist";
+var mnemonic = "canvas dose gold raw uncover breeze among security alien chuckle tongue dial";

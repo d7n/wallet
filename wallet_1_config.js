@@ -1,1 +1,1 @@
-var mnemonic = "drink grace lounge street chalk pass shrug magic own demise delay detail";
+var mnemonic = "swarm depart bounce swarm flash start shallow plug ostrich give feed canyon";

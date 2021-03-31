@@ -1,1 +1,1 @@
-var mnemonic = "dutch sentence agree skate cream across luxury into sample scissors recipe destroy";
+var mnemonic = "jar depth mouse youth tell purse couch slide visit tomorrow recall mango";

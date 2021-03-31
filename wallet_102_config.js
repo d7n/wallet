@@ -1,1 +1,1 @@
-var mnemonic = "pottery orchard legend bean link grab orphan vehicle lamp hill tone flag";
+var mnemonic = "assist cherry pill someone give jacket view describe lawn tourist client life";

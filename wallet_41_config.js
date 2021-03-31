@@ -1,1 +1,1 @@
-var mnemonic = "finish edit salt scare stomach drive honey unfair stick gift flavor cupboard";
+var mnemonic = "universe steel auto speed manage hover cool junior envelope over explain squirrel";

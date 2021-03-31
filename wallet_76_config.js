@@ -1,1 +1,1 @@
-var mnemonic = "bullet draw local cherry student huge blind renew alone document series wheat";
+var mnemonic = "any believe flat ready penalty target rapid exit lion street client room";

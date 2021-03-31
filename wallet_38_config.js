@@ -1,1 +1,1 @@
-var mnemonic = "gather hurry toy journey pudding manual feature clutch luxury mention crucial wagon";
+var mnemonic = "food group swing record wine tomato float tomorrow better tornado vendor album";

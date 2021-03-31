@@ -1,1 +1,1 @@
-var mnemonic = "annual slush fragile stage profit swallow matrix pattern tag slide fire infant";
+var mnemonic = "under ability fiction pepper thing catalog exile tent sugar auto goddess express";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder aim celery trigger boy theme retire evolve lizard canvas wash position";
+var mnemonic = "obey barrel gorilla appear deliver first spend room harsh key upset drama";

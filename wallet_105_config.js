@@ -1,1 +1,1 @@
-var mnemonic = "glass theme rude flash orange disorder screen surface embody tunnel thumb cheese";
+var mnemonic = "car wolf describe turkey plastic arch enforce capital inherit win annual pride";

@@ -1,1 +1,1 @@
-var mnemonic = "fade brick almost island foot payment bulb design claw govern almost jar";
+var mnemonic = "ecology approve defy main rail relief grit apart jaguar type choose weather";

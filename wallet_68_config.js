@@ -1,1 +1,1 @@
-var mnemonic = "powder crunch strong promote hammer begin into pen axis ivory opinion gas";
+var mnemonic = "unlock mad alien alcohol teach around tuna square inside evoke hat ginger";

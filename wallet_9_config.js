@@ -1,1 +1,1 @@
-var mnemonic = "merge point attack glove input stick there buzz need warrior thumb impulse";
+var mnemonic = "stamp stay easy trouble grace outer bread soldier grocery actress swift exhibit";

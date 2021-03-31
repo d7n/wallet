@@ -1,1 +1,1 @@
-var mnemonic = "dizzy else describe seek index flower stove victory trip asset hen empty";
+var mnemonic = "case skate decade address test choose leisure entire marble morning actual feel";

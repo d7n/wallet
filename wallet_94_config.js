@@ -1,1 +1,1 @@
-var mnemonic = "gospel concert unable exchange produce tornado ten various zoo engine install sing";
+var mnemonic = "rigid sweet market link gaze hint rubber motion choice elite practice dolphin";

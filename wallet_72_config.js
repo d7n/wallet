@@ -1,1 +1,1 @@
-var mnemonic = "hockey hard borrow art loan place despair desert unit they stick bronze";
+var mnemonic = "gather spare sport purchase coral churn lift key indicate garage upset cause";

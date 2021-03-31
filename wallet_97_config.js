@@ -1,1 +1,1 @@
-var mnemonic = "ripple stay tonight useful enemy hand total inform century life hood picture";
+var mnemonic = "hub achieve mountain ticket truck scrap shed save claw join lizard express";

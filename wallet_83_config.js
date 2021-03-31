@@ -1,1 +1,1 @@
-var mnemonic = "identify plug allow theory avocado arrange spot scout dry gesture exercise giant";
+var mnemonic = "swing orient flee decade rigid skirt math degree excite hole cricket add";

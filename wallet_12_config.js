@@ -1,1 +1,1 @@
-var mnemonic = "monitor vintage swallow journey brave present that typical timber scale once outside";
+var mnemonic = "multiply vault try cage royal icon deer saddle sunny valve will rival";

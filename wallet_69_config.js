@@ -1,1 +1,1 @@
-var mnemonic = "catalog reward clog oak plate later clump cover rich village alley alert";
+var mnemonic = "solid soldier will grid prevent fluid history leave three long same slow";

@@ -1,1 +1,1 @@
-var mnemonic = "street language fold purity drama split coast plate human deal leg blossom";
+var mnemonic = "reason school stomach gasp front make acid narrow under canvas stool recipe";

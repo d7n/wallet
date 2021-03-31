@@ -1,1 +1,1 @@
-var mnemonic = "clap job dignity truck wave flash mule lunar fresh voice vital soon";
+var mnemonic = "worth color feature inner jeans ugly canvas reunion cry rebuild father fiber";

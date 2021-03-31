@@ -1,1 +1,1 @@
-var mnemonic = "occur auction lend candy chat yard good decorate amazing forest equal demand";
+var mnemonic = "answer danger list organ stable scrap draw eternal carbon moral employ sad";

@@ -1,1 +1,1 @@
-var mnemonic = "achieve member baby ancient humble dragon roast gadget bunker enroll combine unique";
+var mnemonic = "junior tenant celery inside talk minor swift cupboard name afraid exotic axis";

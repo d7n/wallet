@@ -1,1 +1,1 @@
-var mnemonic = "pole already render eye affair blur claim street thought left holiday twelve";
+var mnemonic = "sun erosion stereo hollow camp glance rubber parent grief praise forest teach";

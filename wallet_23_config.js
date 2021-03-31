@@ -1,1 +1,1 @@
-var mnemonic = "desk crush rug record sunset edit bitter claim south social aim mom";
+var mnemonic = "shoot current drive harsh knee huge collect place manage such burden rival";

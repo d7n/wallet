@@ -1,1 +1,1 @@
-var mnemonic = "mind horse type feature beauty income auction bargain woman current carpet post";
+var mnemonic = "helmet tackle twin usage thing couch tank ship atom scan safe club";

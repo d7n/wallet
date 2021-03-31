@@ -1,1 +1,1 @@
-var mnemonic = "cable box energy empty buzz confirm roast edge siren step century farm";
+var mnemonic = "increase source decline vibrant shuffle topic ski length tell flock wise exotic";

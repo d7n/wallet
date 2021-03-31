@@ -1,1 +1,1 @@
-var mnemonic = "virtual rural retreat supply swim random park tray print install cause behind";
+var mnemonic = "dizzy zebra feature pistol will student hurdle crack scrub gadget joy knife";

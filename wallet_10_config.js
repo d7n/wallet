@@ -1,1 +1,1 @@
-var mnemonic = "tube cherry power jealous position story cereal minor rack envelope tilt pudding";
+var mnemonic = "yard bracket observe donate sister august learn notable era gravity swamp daughter";

@@ -1,1 +1,1 @@
-var mnemonic = "helmet pause pistol mind circle income turtle truck shiver ladder minimum behave";
+var mnemonic = "fabric spring napkin leopard embark lend copper car chicken own sausage dentist";

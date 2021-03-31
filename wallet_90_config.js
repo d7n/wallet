@@ -1,1 +1,1 @@
-var mnemonic = "shiver pipe grow season face divert neglect sadness vocal phrase turkey magic";
+var mnemonic = "vapor bright love code carbon sell flush ask salad stumble hungry noodle";

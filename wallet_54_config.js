@@ -1,1 +1,1 @@
-var mnemonic = "peace else person drama pig total frog neck leg risk infant second";
+var mnemonic = "crystal educate predict coil crazy pattern enforce shoot sad immense target cool";

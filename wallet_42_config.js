@@ -1,1 +1,1 @@
-var mnemonic = "close solve slender pond pumpkin screen swift roof parrot rebel vendor truth";
+var mnemonic = "believe useless render swamp kind truth output casino crack burden acoustic gather";

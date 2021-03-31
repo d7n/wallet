@@ -1,1 +1,1 @@
-var mnemonic = "flash pyramid never crucial when wet chronic parrot assault next draw flip";
+var mnemonic = "identify chair illness model labor where fall media damage frog record stool";

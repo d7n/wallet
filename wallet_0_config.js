@@ -1,1 +1,1 @@
-var mnemonic = "note symptom marriage dignity kiwi render thunder old virus actor capital endorse";
+var mnemonic = "poem zoo wrap purity prison riot job walk erase below mistake reflect";

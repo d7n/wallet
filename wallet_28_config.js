@@ -1,1 +1,1 @@
-var mnemonic = "what dignity leader marine drift category dune fee decade tuition badge urge";
+var mnemonic = "dust cream duck novel thing visual myth join scale virus theory stamp";

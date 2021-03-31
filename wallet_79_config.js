@@ -1,1 +1,1 @@
-var mnemonic = "lens slice purse spray transfer raven gasp addict salon prevent other swim";
+var mnemonic = "idle embrace toe switch hat various model decade east cry squirrel west";

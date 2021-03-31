@@ -1,1 +1,1 @@
-var mnemonic = "plug logic test owner code script ball gauge beyond speed seek raw";
+var mnemonic = "session squeeze bright depth snake merry actual hollow mango ability trophy interest";

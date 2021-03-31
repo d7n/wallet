@@ -1,1 +1,1 @@
-var mnemonic = "obvious one plastic canvas oval vacant umbrella magnet plunge make ripple charge";
+var mnemonic = "photo metal tired fog repair tattoo hello run swing adult settle mechanic";

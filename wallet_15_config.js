@@ -1,1 +1,1 @@
-var mnemonic = "type erosion embody proof sketch popular clutch team card canyon balance diagram";
+var mnemonic = "evoke label unlock ramp else pact doctor idle cover maximum long goat";

@@ -1,1 +1,1 @@
-var mnemonic = "play burden timber autumn bridge lawn route grain sand because car jeans";
+var mnemonic = "moon garlic select domain evil wealth unusual tank sentence athlete pause suspect";

@@ -1,1 +1,1 @@
-var mnemonic = "quiz then comfort vicious prepare absent urge nut mountain venture bonus rebuild";
+var mnemonic = "brisk gallery clutch average path wrong crunch success shiver eternal spare answer";

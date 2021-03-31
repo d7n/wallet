@@ -1,1 +1,1 @@
-var mnemonic = "exist dutch dial plate jazz prize dish bean fame gorilla release pilot";
+var mnemonic = "chuckle girl abstract bind castle joke hover you cake myth jungle whip";

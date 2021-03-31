@@ -1,1 +1,1 @@
-var mnemonic = "engine violin pact hawk jump race hurdle rifle bleak peasant direct suit";
+var mnemonic = "tooth diary vacuum team salad boat require traffic skin marriage popular amused";

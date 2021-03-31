@@ -1,1 +1,1 @@
-var mnemonic = "strike zoo evil dentist helmet gallery slush situate nuclear private dust cube";
+var mnemonic = "family cushion image what crew exact together page sibling river razor clever";

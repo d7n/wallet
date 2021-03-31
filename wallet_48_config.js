@@ -1,1 +1,1 @@
-var mnemonic = "learn leave crowd improve harsh all adult song level general direct address";
+var mnemonic = "fashion busy miracle nephew grant story field blouse craft between outside come";

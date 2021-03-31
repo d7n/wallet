@@ -1,1 +1,1 @@
-var mnemonic = "labor push build adult media chuckle ahead link dawn despair clarify festival";
+var mnemonic = "cute bonus victory exotic embark sunny violin gift quick diagram impact erase";

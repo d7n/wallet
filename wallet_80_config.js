@@ -1,1 +1,1 @@
-var mnemonic = "rely grocery bottom truth kiwi fresh warm hungry parent bleak ill muffin";
+var mnemonic = "danger prosper loan accuse robust frog fossil airport rigid fringe urge tackle";

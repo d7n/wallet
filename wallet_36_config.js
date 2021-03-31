@@ -1,1 +1,1 @@
-var mnemonic = "cattle garbage sunny update push struggle maximum castle strong quote melt attack";
+var mnemonic = "grass practice cross rebuild loyal keen lecture boy flat volume gold anger";

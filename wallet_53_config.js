@@ -1,1 +1,1 @@
-var mnemonic = "ticket story assume crash maid climb isolate cloth cloth worth welcome involve";
+var mnemonic = "youth sing two sport quit timber dutch bar upon session moral survey";

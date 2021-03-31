@@ -1,1 +1,1 @@
-var mnemonic = "section taxi region still cake table more churn drum welcome they size";
+var mnemonic = "exercise combine razor afraid blast forget slab talent clever woman flip hurt";

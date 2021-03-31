@@ -1,1 +1,1 @@
-var mnemonic = "wheel panel motor umbrella office noise upset radar frog summer orbit sell";
+var mnemonic = "bird snow modify trumpet cable perfect ugly burst oppose strategy eyebrow mass";

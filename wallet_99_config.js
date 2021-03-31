@@ -1,1 +1,1 @@
-var mnemonic = "domain humble august fuel arena stable taxi motion climb earth scrap pair";
+var mnemonic = "scan unusual wave blast start relax citizen unusual wing monkey coconut service";

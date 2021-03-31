@@ -1,1 +1,1 @@
-var mnemonic = "dune advice flight boy federal project control burst library ahead place deliver";
+var mnemonic = "game duty float field nice tube cloud sick gallery jealous proof use";

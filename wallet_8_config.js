@@ -1,1 +1,1 @@
-var mnemonic = "paddle slam exist tube fix any only torch kite neutral agent ketchup";
+var mnemonic = "green cash safe girl fox seek nerve social pass idle illness worth";

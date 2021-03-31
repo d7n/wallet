@@ -1,1 +1,1 @@
-var mnemonic = "grief can digital taste review palace globe tape average path race horror";
+var mnemonic = "usual actress left destroy rifle neither avoid marriage shy pitch text slide";

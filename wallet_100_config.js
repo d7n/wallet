@@ -1,1 +1,1 @@
-var mnemonic = "atom awful butter scare punch drastic catalog addict february pig poem october";
+var mnemonic = "shoulder category exercise sugar enlist echo page zero guitar powder park dutch";

@@ -1,1 +1,1 @@
-var mnemonic = "ring rabbit rubber person bamboo slush thunder wild mixture urge photo flash";
+var mnemonic = "caution deposit noise prefer joy basic beach prison east drill small topic";

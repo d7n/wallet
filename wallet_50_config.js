@@ -1,1 +1,1 @@
-var mnemonic = "drama ghost buffalo wish maple artist result tragic dragon memory dawn three";
+var mnemonic = "process cross suggest vicious vague point hint enhance century head airport cage";

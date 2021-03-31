@@ -1,1 +1,1 @@
-var mnemonic = "denial mad space junior top salon suit orbit chat much else powder";
+var mnemonic = "protect balance enroll foster hope budget misery patient because sugar borrow gospel";

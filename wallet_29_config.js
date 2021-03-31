@@ -1,1 +1,1 @@
-var mnemonic = "cram script gather smart sign color rookie mixed assault firm lab wear";
+var mnemonic = "wall jar give bacon gentle cube victory elegant shuffle torch urban nut";

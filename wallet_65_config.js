@@ -1,1 +1,1 @@
-var mnemonic = "blood knee route gate exhaust oxygen retire bomb rare wrestle pilot race";
+var mnemonic = "habit two abstract brick okay fall real viable boy foster brick appear";

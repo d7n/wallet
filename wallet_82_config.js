@@ -1,1 +1,1 @@
-var mnemonic = "direct blast know matter drill travel wedding rack survey junk horn broom";
+var mnemonic = "relief fury inject transfer love sound dwarf strong food chronic north core";

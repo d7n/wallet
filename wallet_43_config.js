@@ -1,1 +1,1 @@
-var mnemonic = "stay gloom basic horn display satisfy dismiss leader renew special select river";
+var mnemonic = "critic vote nurse pottery artwork lizard eyebrow modify ability hurdle flavor olympic";

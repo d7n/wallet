@@ -1,1 +1,1 @@
-var mnemonic = "minor bottom capable south motor summer narrow rough mouse brass pass soft";
+var mnemonic = "eager alcohol detect left couple security tape foot maple pony language law";

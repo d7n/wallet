@@ -1,1 +1,1 @@
-var mnemonic = "rich walk sun this engage awkward student secret student sure gallery doll";
+var mnemonic = "film this lyrics piano battle frog grit half draft sunny clarify wear";

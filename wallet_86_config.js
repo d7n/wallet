@@ -1,1 +1,1 @@
-var mnemonic = "foil february injury face fix female smile insane dune card pizza foot";
+var mnemonic = "sense skill fat dawn latin fever modify border mechanic month river inside";

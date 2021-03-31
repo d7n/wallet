@@ -1,1 +1,1 @@
-var mnemonic = "crowd lamp convince hobby feature rocket meadow snack clean post act height";
+var mnemonic = "cruise actor inmate awkward sure real slam father maximum shell episode panel";

@@ -1,1 +1,1 @@
-var mnemonic = "tragic pilot brown base shoe mystery bounce order catalog gather common oak";
+var mnemonic = "magic tide garbage easily output escape unfair mystery solve bamboo day unit";

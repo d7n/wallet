@@ -1,1 +1,1 @@
-var mnemonic = "chair snack remember crystal board shiver essence cable chalk resource surround lumber";
+var mnemonic = "mule anchor job luggage future nuclear dose endless antique mirror march slight";

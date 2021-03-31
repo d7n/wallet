@@ -1,1 +1,1 @@
-var mnemonic = "clown labor holiday chalk assume fuel offer route oblige fantasy emotion siege";
+var mnemonic = "swing outside broom fork core inmate naive dune observe tree salute check";

@@ -1,1 +1,1 @@
-var mnemonic = "magic destroy skill purpose correct follow flush blossom infant undo cruel cook";
+var mnemonic = "ask reduce cable wool inner talk burst useless glare strategy discover script";

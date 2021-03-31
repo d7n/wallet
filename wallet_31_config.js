@@ -1,1 +1,1 @@
-var mnemonic = "casual protect split rich pepper ticket cube strategy horse lemon coyote police";
+var mnemonic = "enlist ill relax planet apology december mammal cancel eyebrow season add indoor";

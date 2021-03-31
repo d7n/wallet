@@ -1,1 +1,1 @@
-var mnemonic = "round enlist picture normal donate crowd nose match giant visa clutch cactus";
+var mnemonic = "village margin return enable door forward ranch debris hedgehog include toilet tunnel";

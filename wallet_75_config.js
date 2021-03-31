@@ -1,1 +1,1 @@
-var mnemonic = "taxi ethics decide monster kingdom sugar release transfer endless join error wolf";
+var mnemonic = "mouse similar crucial injury maple diagram drill rival capital bread fall unfair";

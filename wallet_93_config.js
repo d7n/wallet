@@ -1,1 +1,1 @@
-var mnemonic = "boat salon become desert play snap patrol dune bullet wheat buffalo rookie";
+var mnemonic = "tail used wagon young empty naive short cradle wedding shrimp tube kiwi";

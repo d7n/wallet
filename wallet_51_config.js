@@ -1,1 +1,1 @@
-var mnemonic = "corn butter rail quantum coast exercise rival manual lawn bacon job foil";
+var mnemonic = "month slim tool laundry evidence shift office term artwork tobacco enjoy outdoor";

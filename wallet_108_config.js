@@ -1,1 +1,1 @@
-var mnemonic = "absorb pear evidence key flame oak choice print adjust stadium scorpion kangaroo";
+var mnemonic = "mention wear brand nurse march install awake grape art design nerve panda";

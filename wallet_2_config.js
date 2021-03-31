@@ -1,1 +1,1 @@
-var mnemonic = "jelly soup person give pulp carry hand hockey basic page deputy now";
+var mnemonic = "between kiwi tuition flavor bean buyer thumb parade donkey soda ski patch";

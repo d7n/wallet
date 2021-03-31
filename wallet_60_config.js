@@ -1,1 +1,1 @@
-var mnemonic = "cancel hill liquid valve skill office biology float hundred dignity shuffle toss";
+var mnemonic = "flock dish immense wreck web soldier fun exercise portion text attitude other";
