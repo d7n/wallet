@@ -1,1 +1,1 @@
-var mnemonic = "ozone rocket grace elegant bracket issue inquiry frown boost consider apple popular";
+var mnemonic = "snack trade sing empower delay pudding endless hammer hole other autumn dog";

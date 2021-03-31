@@ -1,1 +1,1 @@
-var mnemonic = "crouch parent pupil spy lake prepare talk brisk endless gorilla alone dignity";
+var mnemonic = "mention quantum fox start deliver canvas modify survey ready violin muffin theme";

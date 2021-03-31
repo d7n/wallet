@@ -1,1 +1,1 @@
-var mnemonic = "multiply crater chapter inform night call crowd virtual okay dizzy pattern bring";
+var mnemonic = "survey spell fruit bamboo level cloud insane bachelor virus summer over addict";

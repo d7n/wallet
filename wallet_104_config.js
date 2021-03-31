@@ -1,1 +1,1 @@
-var mnemonic = "animal already slab sound refuse invite cup conduct own raccoon animal annual";
+var mnemonic = "still comfort warm simple social record section magnet onion leisure cargo range";

@@ -1,1 +1,1 @@
-var mnemonic = "cotton sick corn drum screen lemon aunt invite prison chimney rival oven";
+var mnemonic = "uncle anchor hybrid cruise always ability riot whale area ghost kid mean";

@@ -1,1 +1,1 @@
-var mnemonic = "twelve excite ritual boy minute green gospel erase that orphan manual into";
+var mnemonic = "tortoise other spell enact spend rubber sea vibrant figure alone wire vote";

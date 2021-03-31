@@ -1,1 +1,1 @@
-var mnemonic = "poet stereo sun exhibit clog benefit dragon leopard tourist merry drive ginger";
+var mnemonic = "good wet proud dinosaur emerge curtain avoid coyote path exit easy often";

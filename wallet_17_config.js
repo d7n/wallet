@@ -1,1 +1,1 @@
-var mnemonic = "season job hole sense intact knee damage ivory laugh sugar mechanic room";
+var mnemonic = "nation pave warrior paddle possible mandate cross next pact pink boy tomato";

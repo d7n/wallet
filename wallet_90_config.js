@@ -1,1 +1,1 @@
-var mnemonic = "raise exchange protect leaf paddle faint hurry team lobster pair wool relax";
+var mnemonic = "flock wife spell grid pond broom produce tortoise milk strategy april circle";

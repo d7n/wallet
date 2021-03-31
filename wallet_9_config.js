@@ -1,1 +1,1 @@
-var mnemonic = "sadness normal approve usage produce crop elevator night interest network glance finish";
+var mnemonic = "kite isolate valley rail divide raw online ask sudden antenna senior power";

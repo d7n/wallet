@@ -1,1 +1,1 @@
-var mnemonic = "ring human tunnel walk curious indoor drastic warfare improve burst project avoid";
+var mnemonic = "hold outside sword account miss antenna scan start material siren car knee";

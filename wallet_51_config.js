@@ -1,1 +1,1 @@
-var mnemonic = "flash urge kidney cup vacant title bid kidney mail pool reunion advance";
+var mnemonic = "car below teach pause trap sheriff list mouse wheel stay eternal refuse";

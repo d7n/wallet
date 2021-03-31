@@ -1,1 +1,1 @@
-var mnemonic = "depart ridge spring ketchup caution early rare tornado require illness borrow language";
+var mnemonic = "turkey extra wasp output crime true coin crazy olive wave lobster tiger";

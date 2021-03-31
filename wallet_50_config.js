@@ -1,1 +1,1 @@
-var mnemonic = "inhale fruit approve quantum stable penalty spread work left potato glide fat";
+var mnemonic = "grape ring coffee dove spice hen pause ten bullet click job water";

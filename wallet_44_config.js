@@ -1,1 +1,1 @@
-var mnemonic = "outer crystal equip link primary joke today since suspect moment industry judge";
+var mnemonic = "force object style grid amazing column forum wall inmate buyer hurdle scout";

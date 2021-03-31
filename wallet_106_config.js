@@ -1,1 +1,1 @@
-var mnemonic = "sample game turkey cruel rebel link play hood match announce gain cricket";
+var mnemonic = "expect auto little furnace oven more crush giraffe tone sausage universe kiwi";

@@ -1,1 +1,1 @@
-var mnemonic = "kidney crush relief mango morning gossip song company cram sheriff moral twin";
+var mnemonic = "general recall cigar admit wisdom foam wine canyon manual globe soldier skull";

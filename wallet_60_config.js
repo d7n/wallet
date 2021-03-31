@@ -1,1 +1,1 @@
-var mnemonic = "health verify bracket dose scare coconut old convince place paper deny budget";
+var mnemonic = "worth section box float account plunge ordinary resist insect impose grunt marine";

@@ -1,1 +1,1 @@
-var mnemonic = "sure quarter climb aunt code entire type float clock flee monitor measure";
+var mnemonic = "airport bright cherry crawl ecology garden young force group spot grace device";

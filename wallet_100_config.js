@@ -1,1 +1,1 @@
-var mnemonic = "popular globe asthma brisk amused list globe recycle picnic almost bullet exchange";
+var mnemonic = "purchase rib slam worry city expire police lock zoo apart raw member";

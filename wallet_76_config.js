@@ -1,1 +1,1 @@
-var mnemonic = "illegal laundry glory olympic boil fame toe anxiety diagram alert more puppy";
+var mnemonic = "exchange forget wealth spice upgrade ritual silk stone state awful front column";

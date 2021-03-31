@@ -1,1 +1,1 @@
-var mnemonic = "engine gown write mail zero rent surround lion sail shrug chef ten";
+var mnemonic = "large mammal borrow glad high convince you shield auto change material sample";

@@ -1,1 +1,1 @@
-var mnemonic = "giggle pitch dash economy health suffer fine jazz fruit reward rapid oven";
+var mnemonic = "toast dignity inspire evil exhibit absurd exist elder obvious eye you school";

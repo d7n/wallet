@@ -1,1 +1,1 @@
-var mnemonic = "gadget village ask egg good focus cage pulp erupt force enroll hint";
+var mnemonic = "spoil mother piece piece oppose repeat file insect lawsuit report shoot velvet";

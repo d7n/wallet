@@ -1,1 +1,1 @@
-var mnemonic = "initial funny expand crime donor vacant valve muffin three miss shaft coach";
+var mnemonic = "rifle loyal dinner crazy clock trophy open strike hammer pluck hunt ugly";

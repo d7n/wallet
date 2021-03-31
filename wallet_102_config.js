@@ -1,1 +1,1 @@
-var mnemonic = "cause economy whip gesture oxygen orbit family enact dice lab float arrange";
+var mnemonic = "digital eternal impose motor sleep human gather virtual weather cruise sword purse";

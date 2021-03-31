@@ -1,1 +1,1 @@
-var mnemonic = "insect lock give picture hello abstract ethics goat trash era crane candy";
+var mnemonic = "climb document choose skate arch excite dawn junior shock light poverty minor";

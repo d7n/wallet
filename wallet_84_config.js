@@ -1,1 +1,1 @@
-var mnemonic = "cram corn praise payment owner will tail plunge delay glare tonight velvet";
+var mnemonic = "swamp hire fringe identify utility right average allow upper then spend lion";

@@ -1,1 +1,1 @@
-var mnemonic = "ladder genre monster rib because point regular almost oppose provide east major";
+var mnemonic = "blade club wish strategy suggest praise strong range planet pistol base despair";

@@ -1,1 +1,1 @@
-var mnemonic = "ill pass memory electric invest room veteran bid sick will flavor volume";
+var mnemonic = "throw winner original pool recall good license crouch empower give feature skirt";

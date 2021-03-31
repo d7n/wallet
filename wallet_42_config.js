@@ -1,1 +1,1 @@
-var mnemonic = "cross bird nature balance heart enhance subway horn van physical erase whale";
+var mnemonic = "year hollow symptom knife stone visit skill win sock forest loan bitter";

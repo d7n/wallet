@@ -1,1 +1,1 @@
-var mnemonic = "width fall alien guard still large belt cloth night isolate result truck";
+var mnemonic = "aerobic snack type spin bless world shallow first lonely tumble above aspect";

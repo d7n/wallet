@@ -1,1 +1,1 @@
-var mnemonic = "dilemma next inhale total carbon purpose depart argue guess security army devote";
+var mnemonic = "genre doctor ozone leader fresh zero pistol educate help drip unique boss";

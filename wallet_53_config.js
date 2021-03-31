@@ -1,1 +1,1 @@
-var mnemonic = "badge beef now split home various dumb ostrich stable gas pear multiply";
+var mnemonic = "toddler mercy ride solve clutch mistake space embark casual devote fold bunker";

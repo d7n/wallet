@@ -1,1 +1,1 @@
-var mnemonic = "midnight wing side metal energy venue soon mass entry dash shove region";
+var mnemonic = "armor nurse history body over shrug woman quarter purchase satisfy pattern fatal";

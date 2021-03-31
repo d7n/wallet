@@ -1,1 +1,1 @@
-var mnemonic = "repeat proof shock approve rich hedgehog appear first pen virtual boss dentist";
+var mnemonic = "castle normal diagram praise honey girl sibling clock bring tent eight industry";

@@ -1,1 +1,1 @@
-var mnemonic = "rice menu guilt dignity wait bus clog lyrics corn cart left sail";
+var mnemonic = "fox ankle match nation follow fabric sniff breeze dial unfair gate error";

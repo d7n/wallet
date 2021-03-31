@@ -1,1 +1,1 @@
-var mnemonic = "choice size panther inner light deal solution casino trophy deliver sort trumpet";
+var mnemonic = "swing soup chicken fury book attack unlock evolve lift beyond net saddle";

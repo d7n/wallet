@@ -1,1 +1,1 @@
-var mnemonic = "defy sea crack area lecture bubble exhaust walk strategy mosquito alarm sense";
+var mnemonic = "away typical gaze palm potato shuffle angry alley parade forest alter proud";

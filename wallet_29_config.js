@@ -1,1 +1,1 @@
-var mnemonic = "raven busy fiscal able embrace snap urban chalk acquire genre all core";
+var mnemonic = "arrow series nation pause dry grape belt leaf cushion stone burden safe";

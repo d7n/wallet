@@ -1,1 +1,1 @@
-var mnemonic = "banana check know drink neutral surprise barely crawl truth toss ski chimney";
+var mnemonic = "bulk then search course also anxiety winner clarify rib stereo flush hospital";

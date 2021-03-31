@@ -1,1 +1,1 @@
-var mnemonic = "cereal expect all cabin either term enhance wide air glove mercy age";
+var mnemonic = "miss swing man fashion budget ticket couple gallery general leaf drink any";

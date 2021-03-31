@@ -1,1 +1,1 @@
-var mnemonic = "actress relief broccoli modify hub page sound express sausage distance mango drift";
+var mnemonic = "buddy abstract soup rail flight example pelican desert square dose satisfy gloom";

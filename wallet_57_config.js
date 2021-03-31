@@ -1,1 +1,1 @@
-var mnemonic = "render family legal hat must drastic unable cage unlock flush visual stool";
+var mnemonic = "insane play jelly cycle protect enemy focus awful write visa essence file";

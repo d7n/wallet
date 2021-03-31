@@ -1,1 +1,1 @@
-var mnemonic = "aisle sense clerk save text change lobster symptom blush trial faint floor";
+var mnemonic = "address peace cause notable auction gather chair assume trend swim argue latin";

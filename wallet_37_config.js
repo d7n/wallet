@@ -1,1 +1,1 @@
-var mnemonic = "balance today enough rib bring add camera among dinner various truth nose";
+var mnemonic = "engage noble collect other office catch buyer pattern whale auction atom always";

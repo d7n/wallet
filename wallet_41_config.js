@@ -1,1 +1,1 @@
-var mnemonic = "mouse sponsor inform distance devote lend melody caution maid satoshi doctor sadness";
+var mnemonic = "jaguar mechanic retire paddle marriage approve float forget quality neglect melody require";

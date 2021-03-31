@@ -1,1 +1,1 @@
-var mnemonic = "remember wet soccer arrest desk dad hybrid escape coconut dismiss ranch believe";
+var mnemonic = "turn slide solve hazard rare six sniff canvas lonely chief uphold water";

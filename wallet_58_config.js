@@ -1,1 +1,1 @@
-var mnemonic = "improve direct young evidence siege calm city album clean shell night six";
+var mnemonic = "thank salmon entry crystal denial merit divide found action forget wrap fortune";

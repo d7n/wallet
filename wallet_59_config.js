@@ -1,1 +1,1 @@
-var mnemonic = "entire blame adult element ice page stable wait retire pelican early burger";
+var mnemonic = "catch exchange episode choose dutch brother diamond sand tuition negative engine derive";

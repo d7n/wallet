@@ -1,1 +1,1 @@
-var mnemonic = "ketchup salmon planet virus bean novel unfold erosion brother fossil glare quiz";
+var mnemonic = "way alcohol cereal crush bachelor wheat jump auto chase refuse creek whale";

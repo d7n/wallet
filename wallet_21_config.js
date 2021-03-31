@@ -1,1 +1,1 @@
-var mnemonic = "supply kidney notice photo snow unaware annual above almost same siege cruise";
+var mnemonic = "van unlock bonus olympic enroll memory answer fluid ancient ready surprise abandon";

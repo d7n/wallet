@@ -1,1 +1,1 @@
-var mnemonic = "vapor choose similar finger rug arrive stamp embrace add despair soul grit";
+var mnemonic = "hour wall icon husband story draft tank crunch saddle nation sadness chicken";

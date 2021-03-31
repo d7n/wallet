@@ -1,1 +1,1 @@
-var mnemonic = "little photo poem oil noble error fury carry antenna swarm increase snack";
+var mnemonic = "wall mobile winner champion orbit pave crumble tomato search crew pair hawk";

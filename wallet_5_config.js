@@ -1,1 +1,1 @@
-var mnemonic = "equal glory fringe slim usage garment hurt kingdom clarify cousin parade law";
+var mnemonic = "gesture phrase surround display addict enrich trophy pass minute crystal dentist leaf";

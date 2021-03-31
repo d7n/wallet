@@ -1,1 +1,1 @@
-var mnemonic = "traffic this pony ivory hawk slim enter decade shadow visa slow odor";
+var mnemonic = "move alert mass draw ripple trend marriage lake champion sail adult patient";

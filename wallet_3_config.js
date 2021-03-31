@@ -1,1 +1,1 @@
-var mnemonic = "hill pilot enhance south math flower order knock gravity before snow minimum";
+var mnemonic = "around say danger eager require among coil forget water injury make roof";

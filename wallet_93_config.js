@@ -1,1 +1,1 @@
-var mnemonic = "sausage viable whisper rack luggage sad collect local zoo ethics goddess umbrella";
+var mnemonic = "garlic august flower memory boat trouble whisper bus congress enemy glove often";

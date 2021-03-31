@@ -1,1 +1,1 @@
-var mnemonic = "front rabbit stock woman domain castle tower guard balcony ring impose jewel";
+var mnemonic = "ski fiction crew pioneer guess moral pattern health loyal fiscal stamp group";

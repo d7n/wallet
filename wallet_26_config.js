@@ -1,1 +1,1 @@
-var mnemonic = "velvet enroll victory usual idle moment come vapor insane field employ happy";
+var mnemonic = "pact frown cancel cheese couch word embrace undo drama situate strong correct";

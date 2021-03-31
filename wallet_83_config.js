@@ -1,1 +1,1 @@
-var mnemonic = "pyramid quote dumb stamp sheriff bonus proof illegal impulse enrich area insane";
+var mnemonic = "leopard drill supreme pumpkin phrase solve stable column decade carbon fiber meat";

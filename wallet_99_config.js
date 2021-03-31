@@ -1,1 +1,1 @@
-var mnemonic = "anger search bronze shift tube liar detail bubble sign giraffe reject copper";
+var mnemonic = "shoe loan shaft arena used deposit develop smile artwork obtain razor drama";

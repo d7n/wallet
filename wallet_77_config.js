@@ -1,1 +1,1 @@
-var mnemonic = "cattle detect venue physical opera assist scan oak sing fine pioneer olympic";
+var mnemonic = "employ world original vocal tank fury other regret electric today farm outdoor";

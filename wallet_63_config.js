@@ -1,1 +1,1 @@
-var mnemonic = "news fragile lemon attitude frost lake trip blade street quality liberty board";
+var mnemonic = "awkward avocado inflict glue grunt anger theme give dilemma virus vote topic";

@@ -1,1 +1,1 @@
-var mnemonic = "mother nest step thought decrease camp visit danger filter tube already rally";
+var mnemonic = "humble food list universe indicate script witness inspire floor acquire forget rescue";

@@ -1,1 +1,1 @@
-var mnemonic = "stand execute struggle taxi ill garage credit latin vote layer cash express";
+var mnemonic = "fantasy birth soap original hair hurdle mechanic peanut runway voice noise gesture";

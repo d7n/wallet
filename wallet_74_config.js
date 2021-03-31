@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon wheat idle glimpse portion certain light climb pistol cattle setup curtain";
+var mnemonic = "trophy vendor yard ski come phone hundred first monster load weasel club";

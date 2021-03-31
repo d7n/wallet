@@ -1,1 +1,1 @@
-var mnemonic = "casual siege heavy phone remind trouble inquiry entry eight huge mass couch";
+var mnemonic = "camera leaf patient visa topple slight utility pretty gossip heavy suggest blanket";

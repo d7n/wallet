@@ -1,1 +1,1 @@
-var mnemonic = "battle dog defy infant shadow embody outside congress tone fog electric roof";
+var mnemonic = "click brisk gap equal among admit oblige hawk useless high rib illness";

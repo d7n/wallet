@@ -1,1 +1,1 @@
-var mnemonic = "hurt taste album explain scheme fix melt leaf purity giant erosion bike";
+var mnemonic = "defy knee artefact mom glue fiscal smile mango actress spray expose fuel";

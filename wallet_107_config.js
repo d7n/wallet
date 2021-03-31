@@ -1,1 +1,1 @@
-var mnemonic = "piano sick claim float sister orient salon suffer heavy maple dream blush";
+var mnemonic = "sunset blossom steel quality hold spare violin auto they dream smoke able";

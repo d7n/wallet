@@ -1,1 +1,1 @@
-var mnemonic = "toe push second swim symptom reduce life sand cliff master husband lens";
+var mnemonic = "museum churn race blast visa prefer label donor blood fancy mail rebel";

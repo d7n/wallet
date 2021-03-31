@@ -1,1 +1,1 @@
-var mnemonic = "palm slot local city season distance broom note tissue field flat oyster";
+var mnemonic = "today asset cube source main sketch ten detail analyst undo wet diagram";

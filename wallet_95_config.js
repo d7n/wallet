@@ -1,1 +1,1 @@
-var mnemonic = "spare derive multiply attend negative chat negative kidney test chest planet reward";
+var mnemonic = "garlic behind stable width work project pelican avocado rate echo stove person";

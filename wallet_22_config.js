@@ -1,1 +1,1 @@
-var mnemonic = "rifle please still all kiss job service broom hole lazy later manual";
+var mnemonic = "moon dust page forward exile dove pony shoot peanut child wool modify";

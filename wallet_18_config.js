@@ -1,1 +1,1 @@
-var mnemonic = "taste modify elevator process hero boss country slam will keen thunder smile";
+var mnemonic = "force will curious comfort struggle only whisper asset magnet swap flag mosquito";

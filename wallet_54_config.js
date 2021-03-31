@@ -1,1 +1,1 @@
-var mnemonic = "quiz endorse recipe twist hair glimpse enforce stay wall habit erase scan";
+var mnemonic = "celery student grid fresh crumble edit title element dragon position antenna clap";

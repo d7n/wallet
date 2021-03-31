@@ -1,1 +1,1 @@
-var mnemonic = "nice dad spend divide gym catch sword beauty replace ramp clean hole";
+var mnemonic = "foam behind giraffe abstract catch obvious increase arrive tilt city vivid guess";

@@ -1,1 +1,1 @@
-var mnemonic = "great garbage pair flavor vivid initial tide nature snap prosper before animal";
+var mnemonic = "one vanish ridge embark milk steel nest cry hope enroll silk family";

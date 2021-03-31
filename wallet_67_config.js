@@ -1,1 +1,1 @@
-var mnemonic = "wrap chalk cross soldier weasel child treat tide convince breeze mule bitter";
+var mnemonic = "quality kind toilet miss business public field toward citizen narrow smooth wealth";

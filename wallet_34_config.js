@@ -1,1 +1,1 @@
-var mnemonic = "viable help walnut skate primary outer liquid pretty predict crowd nerve course";
+var mnemonic = "walk south fruit put trip sentence olive more resource traffic submit strategy";

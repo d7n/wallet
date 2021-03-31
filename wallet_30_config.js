@@ -1,1 +1,1 @@
-var mnemonic = "three toast episode income require bean palm detect coil exile critic second";
+var mnemonic = "rebuild glare toss gift shoot pony silk buyer maximum fatal weird comfort";

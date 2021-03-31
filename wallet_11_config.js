@@ -1,1 +1,1 @@
-var mnemonic = "dentist extra alien goat key drastic minor visit dog when train any";
+var mnemonic = "friend breeze mandate drive mail blue all immense dragon announce illness pretty";

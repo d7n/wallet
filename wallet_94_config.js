@@ -1,1 +1,1 @@
-var mnemonic = "border volcano turn common clarify shop feel modify staff phrase crucial envelope";
+var mnemonic = "weapon laugh load bike initial wrap evil width demand expose below slim";

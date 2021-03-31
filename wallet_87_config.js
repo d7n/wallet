@@ -1,1 +1,1 @@
-var mnemonic = "capable hat tip omit decline combine awful swallow isolate wedding sauce wasp";
+var mnemonic = "confirm clay pond welcome over attitude very dial uphold chest napkin use";

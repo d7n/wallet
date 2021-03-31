@@ -1,1 +1,1 @@
-var mnemonic = "brief decorate diamond cable travel choice one inflict pride lava announce enter";
+var mnemonic = "chapter legend carpet note plastic glory disorder valley small thought deal floor";

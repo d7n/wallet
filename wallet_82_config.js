@@ -1,1 +1,1 @@
-var mnemonic = "muffin grocery october fatigue evolve genuine idle brush ship ten orphan boil";
+var mnemonic = "second april village safe crop train reason shadow wish motion together output";
