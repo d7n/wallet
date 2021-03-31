@@ -1,1 +1,1 @@
-var mnemonic = "visa piece fringe spawn silent holiday struggle owner gap nest split debris";
+var mnemonic = "game employ idle chronic occur sample clap can certain they sadness tired";

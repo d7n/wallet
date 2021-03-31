@@ -1,1 +1,1 @@
-var mnemonic = "nurse physical taste praise proof fiction rib unusual odor return miracle develop";
+var mnemonic = "broccoli primary laundry wife deliver earth embody reject wealth salon small arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "current dust adjust burden prison member crop pelican drastic case pupil salad";
+var mnemonic = "bunker slight debate huge route flush near prosper pair glare damp toilet";

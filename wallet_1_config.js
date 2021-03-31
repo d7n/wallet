@@ -1,1 +1,1 @@
-var mnemonic = "evoke step aerobic keep lonely crumble draw length assume vivid poem swap";
+var mnemonic = "any emotion actor fly evoke dinner metal gun bike answer asthma hire";

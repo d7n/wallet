@@ -1,1 +1,1 @@
-var mnemonic = "scan foil sail few fortune theory dream raw powder hazard noise trade";
+var mnemonic = "question frog loud erupt cushion nothing pair firm frozen extra exhibit habit";

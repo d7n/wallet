@@ -1,1 +1,1 @@
-var mnemonic = "pioneer middle hello frown fever universe anxiety culture oxygen empower skull rice";
+var mnemonic = "rotate anger cool fee sugar seat aware buzz field attend basket decade";

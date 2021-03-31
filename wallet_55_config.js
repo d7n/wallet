@@ -1,1 +1,1 @@
-var mnemonic = "helmet wool tape round wealth ramp scheme absurd town kite coral evoke";
+var mnemonic = "jealous smoke stuff pond slice find dinner tortoise leg rough paddle orphan";

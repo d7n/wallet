@@ -1,1 +1,1 @@
-var mnemonic = "hour nephew insane pool object motor dust gaze easily pony tribe tower";
+var mnemonic = "kite miss weasel entry endless window couple arm change palm diamond vacant";

@@ -1,1 +1,1 @@
-var mnemonic = "crunch book phrase crop champion patch apple theory public stone ring open";
+var mnemonic = "era worry junior ill pepper wool tumble unveil bless play truth issue";

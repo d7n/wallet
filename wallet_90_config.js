@@ -1,1 +1,1 @@
-var mnemonic = "image lunch mixture between because piece boring tray until stumble usage south";
+var mnemonic = "evidence quantum trial hen this dream achieve emotion address someone simple winner";

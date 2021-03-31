@@ -1,1 +1,1 @@
-var mnemonic = "bird field foster man claw success satisfy immune result typical cheap replace";
+var mnemonic = "trouble claw world vacuum jazz demise only speed decade discover spoon walnut";

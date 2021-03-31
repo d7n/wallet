@@ -1,1 +1,1 @@
-var mnemonic = "rotate tank world hill circle hope scene modify odor improve section raccoon";
+var mnemonic = "verb marriage where expose crowd else absent acid chapter expose town rib";

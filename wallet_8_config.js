@@ -1,1 +1,1 @@
-var mnemonic = "useless repair under keep erupt robust pony duty basket hunt fine chief";
+var mnemonic = "ticket picture volcano tonight donor replace curtain tree cereal tuna question battle";

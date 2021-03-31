@@ -1,1 +1,1 @@
-var mnemonic = "paddle eye vessel inform usage panda lounge clerk tunnel tree average smooth";
+var mnemonic = "fluid chief cook want ridge pool quantum knee already vault ten fiction";

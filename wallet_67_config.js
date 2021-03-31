@@ -1,1 +1,1 @@
-var mnemonic = "energy dance refuse letter dumb winter execute lake sunset concert enlist legend";
+var mnemonic = "fitness scrub test shield vapor flush opinion coffee indicate calm gain fit";

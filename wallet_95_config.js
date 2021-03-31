@@ -1,1 +1,1 @@
-var mnemonic = "assume upgrade jump lava giant proud obtain machine patrol century swap cage";
+var mnemonic = "story misery swap elder come joy number merge clean fetch time drama";

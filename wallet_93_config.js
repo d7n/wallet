@@ -1,1 +1,1 @@
-var mnemonic = "soft worth truth holiday tomorrow narrow emotion opera interest diagram media snake";
+var mnemonic = "cave empower bubble guess harvest husband peace stereo scorpion myth board sound";

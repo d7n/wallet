@@ -1,1 +1,1 @@
-var mnemonic = "filter merit brief wasp public december ugly shuffle absorb lock scrub express";
+var mnemonic = "depth mystery tiny picnic direct deny exclude judge athlete rate scene shoot";

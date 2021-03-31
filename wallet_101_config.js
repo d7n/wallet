@@ -1,1 +1,1 @@
-var mnemonic = "grace know anger mirror stay theme bullet cook boring trial assist foot";
+var mnemonic = "dish north upon episode heart comfort dignity bundle episode old umbrella interest";

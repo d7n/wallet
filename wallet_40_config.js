@@ -1,1 +1,1 @@
-var mnemonic = "type evolve pledge sauce casual squeeze march talk general critic month beauty";
+var mnemonic = "evoke wink snap they extend become crime simple involve report sun ginger";

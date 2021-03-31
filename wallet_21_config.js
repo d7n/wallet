@@ -1,1 +1,1 @@
-var mnemonic = "system raccoon forest thank repeat clerk enhance novel mother cash dove stumble";
+var mnemonic = "lazy one large again response kidney eagle acoustic autumn useless ecology spray";

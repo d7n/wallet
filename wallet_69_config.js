@@ -1,1 +1,1 @@
-var mnemonic = "patient furnace aerobic radio radio lottery fault all endless scene ladder cheap";
+var mnemonic = "able exhibit agent together mandate kitten hole photo bubble achieve film canvas";

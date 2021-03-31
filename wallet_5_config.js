@@ -1,1 +1,1 @@
-var mnemonic = "nuclear blind tennis taste quote velvet indicate sudden detail transfer detect caught";
+var mnemonic = "able copper end quick recycle muscle neck input wrong kit volcano ginger";

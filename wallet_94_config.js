@@ -1,1 +1,1 @@
-var mnemonic = "say ceiling green sausage spatial bright oil have lend faint blood tuition";
+var mnemonic = "leaf flat trophy way ahead original shell shoe mouse notice noble patrol";

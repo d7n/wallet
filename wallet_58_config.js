@@ -1,1 +1,1 @@
-var mnemonic = "shrug emotion update miracle chapter mandate fox chair notable actor special corn";
+var mnemonic = "keep baby kitten space obtain spell zoo paddle device hill sea loud";

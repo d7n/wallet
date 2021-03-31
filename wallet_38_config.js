@@ -1,1 +1,1 @@
-var mnemonic = "rookie attack soup letter another cage silly eager genuine mom fat bus";
+var mnemonic = "scan owner movie notice surge crunch check pave mix switch horse advice";

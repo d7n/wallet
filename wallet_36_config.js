@@ -1,1 +1,1 @@
-var mnemonic = "guess piece dizzy pluck explain life between climb jungle ceiling rent fee";
+var mnemonic = "basic miracle defense poem wedding actress execute vapor steak office bean clarify";

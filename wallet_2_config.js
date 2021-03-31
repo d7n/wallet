@@ -1,1 +1,1 @@
-var mnemonic = "gown fox awesome wood believe frost despair series broom laugh dance multiply";
+var mnemonic = "wolf inch open reflect error fit leaf because detect near hurry situate";

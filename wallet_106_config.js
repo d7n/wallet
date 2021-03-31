@@ -1,1 +1,1 @@
-var mnemonic = "father topple memory mask segment project depend critic negative river impact raccoon";
+var mnemonic = "misery brain radar hidden cruel bamboo silver deposit clutch ramp code perfect";

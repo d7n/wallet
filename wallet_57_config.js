@@ -1,1 +1,1 @@
-var mnemonic = "bone entire giggle cattle nose ripple people fit winner obey sell exercise";
+var mnemonic = "key grocery sniff resist acid off upper minute style congress trigger track";

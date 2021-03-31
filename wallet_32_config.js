@@ -1,1 +1,1 @@
-var mnemonic = "mixture antenna initial wheat sword wrap suffer soldier palace spike height nasty";
+var mnemonic = "spell soldier finger divert ugly endorse angry merit science choice clutch black";

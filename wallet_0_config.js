@@ -1,1 +1,1 @@
-var mnemonic = "setup garden company behave marine champion ghost regular ecology immune assume ugly";
+var mnemonic = "punch digital session nuclear manage mix pitch moral ask present vague excuse";

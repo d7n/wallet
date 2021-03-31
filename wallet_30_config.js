@@ -1,1 +1,1 @@
-var mnemonic = "increase lens spy rigid train pulp strategy gaze tattoo trigger art kangaroo";
+var mnemonic = "actual loyal unique used real entire dawn donkey nature beef solar genre";

@@ -1,1 +1,1 @@
-var mnemonic = "nuclear update mixed buzz soap cement point arrange logic powder bless someone";
+var mnemonic = "number accident just own few smooth shell lady allow scrub prevent index";

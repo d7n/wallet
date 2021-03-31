@@ -1,1 +1,1 @@
-var mnemonic = "lounge neglect hair wonder engine derive uniform antique cross jeans motor bargain";
+var mnemonic = "lizard blanket fade impulse comic swear primary woman shock hamster giant nut";

@@ -1,1 +1,1 @@
-var mnemonic = "knife bachelor genuine episode script require blouse group sheriff onion artwork uncover";
+var mnemonic = "embody stereo blue dune surge cherry gym endless usual empower motor bone";

@@ -1,1 +1,1 @@
-var mnemonic = "height cousin ten deal gorilla expose curve polar online gym zone luggage";
+var mnemonic = "practice fabric gown evidence play noise disease muscle void salad nominee fancy";

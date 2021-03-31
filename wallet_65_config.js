@@ -1,1 +1,1 @@
-var mnemonic = "soda buffalo flag there pelican trial pencil food core settle among fitness";
+var mnemonic = "acoustic hire brown select boost ugly dial wet core rather relief catch";

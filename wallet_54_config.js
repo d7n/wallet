@@ -1,1 +1,1 @@
-var mnemonic = "car bottom grain deposit include behind lab bring already popular year protect";
+var mnemonic = "depth surface because member bacon tortoise express dinosaur person ecology bar absurd";

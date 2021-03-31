@@ -1,1 +1,1 @@
-var mnemonic = "crack domain harbor obtain tiger little stove era gentle stumble setup life";
+var mnemonic = "ginger diet critic marble differ spot bench pet wasp anger buzz brother";

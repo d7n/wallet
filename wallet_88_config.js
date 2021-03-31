@@ -1,1 +1,1 @@
-var mnemonic = "boy album pelican squeeze gauge deny pizza trip hero arrange latin fiscal";
+var mnemonic = "spin kit tomato crumble thing raven anger uncle involve fall place square";

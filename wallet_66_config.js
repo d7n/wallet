@@ -1,1 +1,1 @@
-var mnemonic = "myself guess steak run animal east glory evil pill critic reflect pistol";
+var mnemonic = "bicycle sort parade dragon noise style basic inject note nut bless season";

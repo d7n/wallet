@@ -1,1 +1,1 @@
-var mnemonic = "mandate link south sudden virus sport will design other sheriff favorite exchange";
+var mnemonic = "reward silver quick notice fringe mansion slim absent ask abuse promote keen";

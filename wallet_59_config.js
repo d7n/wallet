@@ -1,1 +1,1 @@
-var mnemonic = "deposit pyramid history erosion flee slide lion there grid artefact business olympic";
+var mnemonic = "version waste fantasy episode enemy identify useful ghost impose dish salmon voice";

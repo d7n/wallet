@@ -1,1 +1,1 @@
-var mnemonic = "before portion column wish mass swallow name bomb enable decide winner save";
+var mnemonic = "frost canal nuclear flower trouble resist echo transfer hero orbit place dirt";

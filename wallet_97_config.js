@@ -1,1 +1,1 @@
-var mnemonic = "balcony report dutch acid proud pride give what crouch truth word cat";
+var mnemonic = "aerobic fantasy upset curtain spice vast target echo speed price leisure sauce";

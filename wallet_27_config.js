@@ -1,1 +1,1 @@
-var mnemonic = "another fiction seek napkin feel first sign cinnamon smooth vibrant height custom";
+var mnemonic = "figure ride airport time symbol spell pool thrive dove ordinary crouch tonight";

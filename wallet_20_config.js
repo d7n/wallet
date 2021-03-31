@@ -1,1 +1,1 @@
-var mnemonic = "category use extra rival viable limit brown cat usage media swarm face";
+var mnemonic = "drum radio museum holiday entry lesson spin muscle write mother decorate sunny";

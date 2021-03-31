@@ -1,1 +1,1 @@
-var mnemonic = "kit toilet today sphere valley isolate message that illegal audit nut taxi";
+var mnemonic = "length response deposit cannon crime fuel install turtle weasel muscle solve random";

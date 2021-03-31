@@ -1,1 +1,1 @@
-var mnemonic = "shed orient lonely waste tongue issue clump owner worry draft coffee inquiry";
+var mnemonic = "very harbor coil script jungle slim hip uphold adapt observe young rubber";

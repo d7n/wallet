@@ -1,1 +1,1 @@
-var mnemonic = "tail media palm light morning amateur athlete cliff stamp crazy panic notice";
+var mnemonic = "glimpse cloud culture ceiling turn depart regular save jump pumpkin fan goose";

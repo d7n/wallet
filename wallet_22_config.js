@@ -1,1 +1,1 @@
-var mnemonic = "copy science fetch approve bacon dizzy work public lyrics undo roof panda";
+var mnemonic = "fever spoil company decade tell lunch attitude essay level skin good country";

@@ -1,1 +1,1 @@
-var mnemonic = "expose hawk idle road truth pulp turkey train fancy ignore asset banner";
+var mnemonic = "sauce grain flock rose joke current hurdle thunder novel expose grab hundred";

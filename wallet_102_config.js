@@ -1,1 +1,1 @@
-var mnemonic = "problem link business cram brain pulp circle label panic jewel chest other";
+var mnemonic = "journey wait reflect cat fish relief flame candy scale own raw helmet";

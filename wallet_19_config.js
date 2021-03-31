@@ -1,1 +1,1 @@
-var mnemonic = "tip very warfare inspire earn vast crawl small spike region offer arrow";
+var mnemonic = "street argue sort furnace palace faint swarm lava nuclear pull lab click";

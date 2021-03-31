@@ -1,1 +1,1 @@
-var mnemonic = "violin million stone risk very decade orphan merit trick impact climb roast";
+var mnemonic = "easily exhibit box cargo will bundle hammer pattern wisdom true other voyage";

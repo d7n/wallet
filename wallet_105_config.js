@@ -1,1 +1,1 @@
-var mnemonic = "blast prosper agent affair pottery puppy glory midnight oxygen ticket verb skull";
+var mnemonic = "exit cereal universe evoke skate rely category kite deer fever grant lunar";

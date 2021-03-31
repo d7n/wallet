@@ -1,1 +1,1 @@
-var mnemonic = "eager vague monitor dizzy clinic affair stand act weekend story inner claw";
+var mnemonic = "tomato outside armed anger skirt web brother asthma pulse rain wave tribe";

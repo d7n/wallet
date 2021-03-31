@@ -1,1 +1,1 @@
-var mnemonic = "wedding quarter question unknown round lunch kitten marble one fetch forget into";
+var mnemonic = "razor kite wash rabbit hamster faith alpha cook stadium stable cool media";

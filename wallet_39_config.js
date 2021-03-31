@@ -1,1 +1,1 @@
-var mnemonic = "glass rural cushion foil dune yellow switch page toss cereal property expand";
+var mnemonic = "rack team error salt cinnamon insect pulse room traffic game mushroom pattern";

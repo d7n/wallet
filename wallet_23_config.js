@@ -1,1 +1,1 @@
-var mnemonic = "dragon quote chase unusual then lift soft peace feel success smooth mention";
+var mnemonic = "mix chapter victory invest health whisper fashion shield wonder rough body card";

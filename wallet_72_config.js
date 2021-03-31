@@ -1,1 +1,1 @@
-var mnemonic = "junior miracle cause love help toast struggle swim aunt always pipe pumpkin";
+var mnemonic = "account royal duty exhaust lucky angle also wing favorite impose today drift";

@@ -1,1 +1,1 @@
-var mnemonic = "clean tonight prison ski neglect kiwi stone pause inquiry earn rifle worth";
+var mnemonic = "pretty faith cube supreme budget error barely hazard soul prison tuition aunt";

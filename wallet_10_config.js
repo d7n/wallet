@@ -1,1 +1,1 @@
-var mnemonic = "inner fitness fancy trash spider parrot excuse snap diet three grant holiday";
+var mnemonic = "alter aerobic cabin alien color hip end fork embrace night hill west";

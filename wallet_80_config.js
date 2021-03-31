@@ -1,1 +1,1 @@
-var mnemonic = "next gun crawl donate tree deposit toilet once bring oven oval million";
+var mnemonic = "floor record major wisdom snack into glide exclude fold holiday broom stable";

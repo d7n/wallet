@@ -1,1 +1,1 @@
-var mnemonic = "fuel wife once wisdom sun main movie youth cup average butter crystal";
+var mnemonic = "type rebuild note rather frost recall citizen stay gospel pen movie decline";

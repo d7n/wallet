@@ -1,1 +1,1 @@
-var mnemonic = "spy pipe weasel fan smile age gate various dune patient brain welcome";
+var mnemonic = "eagle interest sing verb reveal assist like nephew model minimum fan sugar";

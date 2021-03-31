@@ -1,1 +1,1 @@
-var mnemonic = "pair bracket round cannon cost coconut certain brush expose two clerk fuel";
+var mnemonic = "fix job time canvas already noble garden embody brick produce chunk salmon";

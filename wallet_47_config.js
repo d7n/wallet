@@ -1,1 +1,1 @@
-var mnemonic = "resource scrub awful foam deputy click admit lecture library gloom polar gasp";
+var mnemonic = "knock dizzy toss army average easy danger speak ability outdoor close forget";

@@ -1,1 +1,1 @@
-var mnemonic = "coach stool play luggage spy annual move base sadness defense rate mean";
+var mnemonic = "poem report coffee snack snap bulk say window again attack inquiry candy";

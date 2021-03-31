@@ -1,1 +1,1 @@
-var mnemonic = "mask egg fringe true little advice essay stone salmon village flight analyst";
+var mnemonic = "urban sorry elder round cart fork exchange noise thumb betray void pepper";

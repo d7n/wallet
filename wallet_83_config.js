@@ -1,1 +1,1 @@
-var mnemonic = "yellow slight wave nasty soup bachelor pipe tray outside hurt fan stable";
+var mnemonic = "library device sea magic soft approve mouse radar sand surface medal lift";

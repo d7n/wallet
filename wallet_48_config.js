@@ -1,1 +1,1 @@
-var mnemonic = "later gallery nose purse brass limit satoshi call faculty market season reward";
+var mnemonic = "effort never shoot urge issue rival clarify frozen produce deposit palace foil";

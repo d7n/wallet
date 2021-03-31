@@ -1,1 +1,1 @@
-var mnemonic = "brave fortune inject noble evolve cheap limb choose squeeze month airport various";
+var mnemonic = "demise caught pink frost dolphin shock marble horse hard physical charge march";

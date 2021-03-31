@@ -1,1 +1,1 @@
-var mnemonic = "profit minimum power alter reform adjust rice fade rigid shrimp soap naive";
+var mnemonic = "person cinnamon sign salad fever excuse surround radio airport fortune gasp link";

@@ -1,1 +1,1 @@
-var mnemonic = "solid color tape train dynamic slight door usual miss funny below riot";
+var mnemonic = "foam essence animal dirt element unhappy tape bird client swarm butter hamster";

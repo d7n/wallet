@@ -1,1 +1,1 @@
-var mnemonic = "siren village place bag north foam awful absurd forward another enrich business";
+var mnemonic = "club property dance inch fever need share indoor march orbit include topic";

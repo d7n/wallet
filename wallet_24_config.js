@@ -1,1 +1,1 @@
-var mnemonic = "that payment reflect replace vacant tide waste calm bird acid junior idea";
+var mnemonic = "coral turn theme caught fancy fantasy pledge favorite dragon spy rude rotate";

@@ -1,1 +1,1 @@
-var mnemonic = "despair father lizard purse wife theory insane virus spell cram legal silk";
+var mnemonic = "scene unit royal napkin lend uncle tenant shoulder achieve avocado thank found";

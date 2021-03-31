@@ -1,1 +1,1 @@
-var mnemonic = "hair lumber fetch cheap forum plate sock favorite matrix body coral off";
+var mnemonic = "enough true fever cup cube clump flame mansion absurd please illness history";

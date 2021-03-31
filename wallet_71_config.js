@@ -1,1 +1,1 @@
-var mnemonic = "crater noise fit custom void minor wool recipe enable other bundle prison";
+var mnemonic = "picnic hen cluster sell total you way sun winter music absorb motor";

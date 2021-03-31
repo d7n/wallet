@@ -1,1 +1,1 @@
-var mnemonic = "random pyramid fat ginger bread frog pencil awesome box letter elephant theme";
+var mnemonic = "output nothing foster ordinary social pigeon usual spell slot truck raccoon define";

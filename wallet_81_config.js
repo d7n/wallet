@@ -1,1 +1,1 @@
-var mnemonic = "beef coast boat carpet trust typical phone thunder rice join library table";
+var mnemonic = "impose romance camp youth jaguar certain clown pudding extend vast clay rather";

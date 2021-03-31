@@ -1,1 +1,1 @@
-var mnemonic = "mother spare quick very survey shrug axis clever rally predict tide monkey";
+var mnemonic = "manage duck excuse curve cash margin quantum surface inject dentist strike syrup";

@@ -1,1 +1,1 @@
-var mnemonic = "bar stay gravity blur priority dove gesture lens magnet melt swing among";
+var mnemonic = "where talk prison expire protect option glory oven wage concert marine ramp";

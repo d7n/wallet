@@ -1,1 +1,1 @@
-var mnemonic = "present bus quiz silent check replace suit flip bulk degree skate execute";
+var mnemonic = "debate mystery faint waste material smoke glide wasp honey clarify deal hundred";

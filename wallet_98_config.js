@@ -1,1 +1,1 @@
-var mnemonic = "brush vault spread limit clap minor horse tissue unaware snow motion aim";
+var mnemonic = "ugly lottery whale laptop regret inflict digital inner elbow oblige venture like";

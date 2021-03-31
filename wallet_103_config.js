@@ -1,1 +1,1 @@
-var mnemonic = "try boat swim awkward morning awesome tornado artefact holiday grape april place";
+var mnemonic = "mountain ceiling sign vendor able window broccoli village dizzy absorb dish actress";

@@ -1,1 +1,1 @@
-var mnemonic = "emerge catch symptom female quantum gym culture beach silly patrol thumb version";
+var mnemonic = "turn water acid any excuse glove label fine stone destroy zebra segment";

@@ -1,1 +1,1 @@
-var mnemonic = "juice lion alley fault cause crop arrive unhappy range caution feature venture";
+var mnemonic = "want monitor lava fix live future mom wait attend lunar example excite";

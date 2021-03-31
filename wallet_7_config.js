@@ -1,1 +1,1 @@
-var mnemonic = "repair same cry rapid bid immune glad sugar learn welcome fashion vintage";
+var mnemonic = "father survey lawn social rifle cute evidence cement fault juice below canyon";

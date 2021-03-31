@@ -1,1 +1,1 @@
-var mnemonic = "style exit bomb blood ridge merry live illness rhythm tongue clock base";
+var mnemonic = "insane talk science more spice female garage buzz lab ready hire labor";

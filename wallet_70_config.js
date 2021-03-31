@@ -1,1 +1,1 @@
-var mnemonic = "budget rail youth inform whip pull salmon barrel wife horror job draft";
+var mnemonic = "snack diamond choose twelve insane author medal next tone cup adapt reward";

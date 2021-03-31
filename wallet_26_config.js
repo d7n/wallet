@@ -1,1 +1,1 @@
-var mnemonic = "copper cheese genius other rent again ketchup crucial crime blouse total ladder";
+var mnemonic = "high acoustic evolve egg thought sketch motor entire smart alien tell horse";

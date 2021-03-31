@@ -1,1 +1,1 @@
-var mnemonic = "neck drift kick engage side coral lyrics spatial toss valley civil glue";
+var mnemonic = "spawn nothing hamster oppose also trumpet pioneer salute ostrich maid second used";

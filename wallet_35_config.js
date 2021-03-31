@@ -1,1 +1,1 @@
-var mnemonic = "brief please call thrive casino attend false list report smoke purpose before";
+var mnemonic = "used hamster antenna carbon noise mansion master feel mule hard sibling release";

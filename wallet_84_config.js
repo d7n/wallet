@@ -1,1 +1,1 @@
-var mnemonic = "diary gap version curious meadow flower copper kitten fitness room screen blur";
+var mnemonic = "giant trip soap catalog marine trend jump creek ice vital unaware grain";
