@@ -1,1 +1,1 @@
-var mnemonic = "metal proof famous evidence jaguar object push city melody shove dose genius";
+var mnemonic = "doctor pride allow shallow weekend creek tent helmet scout inch uncover clog";

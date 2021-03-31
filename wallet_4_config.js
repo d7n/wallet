@@ -1,1 +1,1 @@
-var mnemonic = "sick detail athlete ill large arrive globe often actress put zero crunch";
+var mnemonic = "cage diet wrap flat scrap butter minute afraid produce dynamic build length";

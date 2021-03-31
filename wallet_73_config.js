@@ -1,1 +1,1 @@
-var mnemonic = "eager divert dutch liquid soul language stem icon tired fork animal donkey";
+var mnemonic = "involve soda require object have broom gas follow avocado eternal exchange kitten";

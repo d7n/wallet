@@ -1,1 +1,1 @@
-var mnemonic = "grit balcony limb eyebrow bullet cheese pulp credit boat also decade engine";
+var mnemonic = "ahead adult census release danger parrot custom paper above cart symptom mom";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol sudden come prize kingdom certain exile alert tired strategy horn fury";
+var mnemonic = "peace economy target argue hole burst major expose wise hour chief code";

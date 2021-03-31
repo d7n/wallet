@@ -1,1 +1,1 @@
-var mnemonic = "blame coffee patch pony banana boss oppose thunder arch gesture work evoke";
+var mnemonic = "pink evidence exchange embody crouch dove kid allow object rotate ring various";

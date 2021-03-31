@@ -1,1 +1,1 @@
-var mnemonic = "chalk agent rely ecology style harvest occur primary situate melt act lobster";
+var mnemonic = "ride found broom forest cat dinosaur combine derive curve lumber soccer captain";

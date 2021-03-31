@@ -1,1 +1,1 @@
-var mnemonic = "couch battle weather area exhibit fall magnet sense sponsor normal nature immense";
+var mnemonic = "spawn tomorrow shine master together energy chaos hover elevator frame rhythm toe";

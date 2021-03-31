@@ -1,1 +1,1 @@
-var mnemonic = "scene avocado ensure wheat weather clock muffin maximum dish absent blame faint";
+var mnemonic = "hobby clever blind box velvet that indoor inhale taxi plate swamp carry";

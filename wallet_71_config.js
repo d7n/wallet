@@ -1,1 +1,1 @@
-var mnemonic = "nerve magic profit borrow tourist parade awful like brain glance search any";
+var mnemonic = "abstract fatal absorb virus address faculty bright holiday bracket powder dutch effort";

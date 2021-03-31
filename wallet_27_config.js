@@ -1,1 +1,1 @@
-var mnemonic = "grab spike attack forum convince escape fan unusual feel enemy impact return";
+var mnemonic = "comfort shuffle much butter rate horror coyote best tongue avoid vacuum gain";

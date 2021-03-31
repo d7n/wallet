@@ -1,1 +1,1 @@
-var mnemonic = "extra minor unfair tornado pull fire phrase holiday super describe edit furnace";
+var mnemonic = "cart special rookie random cabin laundry banner debris chaos sweet kite wink";

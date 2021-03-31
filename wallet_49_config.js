@@ -1,1 +1,1 @@
-var mnemonic = "birth bounce portion staff text aspect fly regular end produce jungle cheese";
+var mnemonic = "life provide badge nest ladder laugh clinic panther lava beach strategy wolf";

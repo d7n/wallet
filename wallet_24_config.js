@@ -1,1 +1,1 @@
-var mnemonic = "muffin ladder act crouch visit cancel word pretty toward glass among bean";
+var mnemonic = "below walk tomorrow basic tone olive affair remember rival lumber click accuse";

@@ -1,1 +1,1 @@
-var mnemonic = "april silk million bargain chronic shallow doctor guide tobacco guitar vessel comic";
+var mnemonic = "barrel shrug bulk left link high copy half elbow skin action lawn";

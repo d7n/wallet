@@ -1,1 +1,1 @@
-var mnemonic = "chair task major wool gate example weekend feature donkey orphan horror treat";
+var mnemonic = "phrase quote bomb ketchup phone typical tissue know two lizard horn cycle";

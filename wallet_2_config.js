@@ -1,1 +1,1 @@
-var mnemonic = "west carpet give already random fall dinosaur stamp essence faint tube valve";
+var mnemonic = "robot wear stone scrap tray trade smart excuse dust liar imitate abstract";

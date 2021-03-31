@@ -1,1 +1,1 @@
-var mnemonic = "nephew oppose minute artwork mimic turtle fiction battle library water stove neck";
+var mnemonic = "adjust funny blade vendor one cruise giant slow jealous road flee rate";

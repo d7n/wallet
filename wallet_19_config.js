@@ -1,1 +1,1 @@
-var mnemonic = "truth employ between abstract place crush borrow describe common wrap shadow spice";
+var mnemonic = "this rare sea demand feature trap green rule banana action april dilemma";

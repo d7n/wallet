@@ -1,1 +1,1 @@
-var mnemonic = "better system social claw solution satoshi join spread pulp lucky gravity riot";
+var mnemonic = "credit joke ugly wonder episode blame dutch mammal cruel bonus stereo nature";

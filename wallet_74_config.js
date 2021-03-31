@@ -1,1 +1,1 @@
-var mnemonic = "fit erode mask lecture three employ square frequent culture hungry number lounge";
+var mnemonic = "velvet brass banner good swamp salt define attitude category deputy cash hurt";

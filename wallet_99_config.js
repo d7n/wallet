@@ -1,1 +1,1 @@
-var mnemonic = "taxi deposit plunge match cross end voice notable sunset crush sign cook";
+var mnemonic = "room letter leave sleep romance unaware major above delay trash camp prepare";

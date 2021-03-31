@@ -1,1 +1,1 @@
-var mnemonic = "opinion decrease flee camera roof square neck pill neither reward affair urge";
+var mnemonic = "crystal swap village voice swamp daughter model rapid tomato glad addict giant";

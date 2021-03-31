@@ -1,1 +1,1 @@
-var mnemonic = "envelope dutch maximum drive excite asthma helmet flag jazz federal hollow faint";
+var mnemonic = "boss trick brand elder crouch mesh egg bid nut collect sample liar";

@@ -1,1 +1,1 @@
-var mnemonic = "fee peasant prosper space old neutral small ask journey toddler fashion yellow";
+var mnemonic = "awake coconut movie media wire online letter during august reopen salt peasant";

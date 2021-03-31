@@ -1,1 +1,1 @@
-var mnemonic = "clarify describe husband wasp august harvest life figure fever gap addict kit";
+var mnemonic = "scene birth board frame dinner race order sadness lucky utility alien bean";

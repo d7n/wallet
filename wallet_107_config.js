@@ -1,1 +1,1 @@
-var mnemonic = "click office simple fabric immune olympic century quote piece amateur boss blue";
+var mnemonic = "phone coconut observe pride matrix payment crew action mammal wall train quick";

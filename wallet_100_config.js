@@ -1,1 +1,1 @@
-var mnemonic = "food liquid sniff mad brisk noise step pretty list shadow close clerk";
+var mnemonic = "detail gate sand suffer float harbor grace price injury nest rebuild recycle";

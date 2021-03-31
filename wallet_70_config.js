@@ -1,1 +1,1 @@
-var mnemonic = "million visa entire excite midnight eyebrow advice vocal panther gasp rigid page";
+var mnemonic = "bulb still bicycle camp armed great cousin room planet reject wink toss";

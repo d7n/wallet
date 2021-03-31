@@ -1,1 +1,1 @@
-var mnemonic = "essence reduce humble color require oven negative clump luxury river ride dizzy";
+var mnemonic = "office fix because bid liar spin orchard gain amateur tonight share mad";

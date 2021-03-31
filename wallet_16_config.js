@@ -1,1 +1,1 @@
-var mnemonic = "melt hen film glow pulse cream charge thank tent guide analyst logic";
+var mnemonic = "valley friend forget adjust cinnamon safe defy stadium evidence father paper lumber";

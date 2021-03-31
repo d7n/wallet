@@ -1,1 +1,1 @@
-var mnemonic = "patch relax talent crash remove explain give sphere busy satisfy mandate rocket";
+var mnemonic = "fame soul vast view refuse peanut bomb try rely warfare thing crane";

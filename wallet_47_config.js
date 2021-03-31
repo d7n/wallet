@@ -1,1 +1,1 @@
-var mnemonic = "frequent combine daring scrap surround sleep music together skin famous token wheat";
+var mnemonic = "thrive express ritual always romance large cup insane shrug almost sugar soap";

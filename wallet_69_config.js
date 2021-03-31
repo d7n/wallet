@@ -1,1 +1,1 @@
-var mnemonic = "across wrap stomach blanket correct kite push ride jealous involve gun travel";
+var mnemonic = "wine kangaroo elephant toast weapon early pudding enlist shell unlock divorce mesh";

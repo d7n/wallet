@@ -1,1 +1,1 @@
-var mnemonic = "melt tail affair payment glad crisp aunt forget coconut unknown harsh clarify";
+var mnemonic = "ice repair witness valve puzzle bomb game wall stove jar enter mirror";

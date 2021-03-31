@@ -1,1 +1,1 @@
-var mnemonic = "obey hard country alley heavy luggage fitness fiber noise message pizza movie";
+var mnemonic = "main fox auto little good jewel umbrella parade funny wrong farm miss";

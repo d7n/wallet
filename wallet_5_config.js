@@ -1,1 +1,1 @@
-var mnemonic = "once try scrap unhappy speed bottom shield family hobby rebuild border valid";
+var mnemonic = "avoid chair cancel sport slab trouble trash young avoid plastic winter ship";

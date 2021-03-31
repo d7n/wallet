@@ -1,1 +1,1 @@
-var mnemonic = "science wide jelly smooth film belt know water sun antenna this unhappy";
+var mnemonic = "eyebrow country ghost rescue require matter recall border route possible write jump";

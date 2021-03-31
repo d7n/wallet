@@ -1,1 +1,1 @@
-var mnemonic = "exact tobacco feel door silk analyst into chunk arrive army merry traffic";
+var mnemonic = "float domain impact rotate metal lunar forget glad clown reflect olive ability";

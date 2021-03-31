@@ -1,1 +1,1 @@
-var mnemonic = "hill envelope taste mixture shop shy gift girl invest since olympic feed";
+var mnemonic = "defense float kangaroo rare purse guide mammal sister script senior cup pudding";

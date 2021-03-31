@@ -1,1 +1,1 @@
-var mnemonic = "song language practice exclude mountain limb bargain prison season lend increase they";
+var mnemonic = "tomorrow ring insect walnut illness ten fantasy voice arrest upset slight catch";

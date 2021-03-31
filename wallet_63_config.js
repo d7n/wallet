@@ -1,1 +1,1 @@
-var mnemonic = "jelly cabin chimney detail fatal bread ankle olympic beyond blush slush addict";
+var mnemonic = "story coin swear void catalog then fossil camera kid soon couple second";

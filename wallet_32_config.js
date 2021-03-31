@@ -1,1 +1,1 @@
-var mnemonic = "ritual lucky fault enforce expect vehicle catalog trust popular have virtual ready";
+var mnemonic = "draw shaft yellow voice shoulder blast aware panic explain oil solution cricket";

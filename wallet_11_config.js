@@ -1,1 +1,1 @@
-var mnemonic = "doll clown fury egg sustain elite domain useful scrub recall erosion tower";
+var mnemonic = "rack choose wage tail comfort worth almost raw endorse decade marble tackle";

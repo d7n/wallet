@@ -1,1 +1,1 @@
-var mnemonic = "dream robot cruel coast crunch connect garage yellow umbrella trip sting deal";
+var mnemonic = "reason tornado ozone benefit crisp lyrics cricket unknown empty boy leader globe";

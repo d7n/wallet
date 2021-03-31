@@ -1,1 +1,1 @@
-var mnemonic = "captain warfare popular size fiscal motion rhythm lucky assist loan fade rough";
+var mnemonic = "bag clay hero vacuum garage sure improve flip glide eternal wink silk";

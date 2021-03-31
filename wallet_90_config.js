@@ -1,1 +1,1 @@
-var mnemonic = "ticket open paddle surprise vacant approve merry shrimp solution wire alcohol write";
+var mnemonic = "marriage cannon stable book smoke wait away negative purpose holiday video frost";

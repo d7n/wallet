@@ -1,1 +1,1 @@
-var mnemonic = "lesson blur eyebrow bring snow frog excess fever rely wedding frozen brush";
+var mnemonic = "wide ticket during vendor moment soldier choice helmet brand safe leg traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "target welcome cream copper expose spy buyer race embark castle unfold cycle";
+var mnemonic = "kit material sorry govern present mammal sugar broken run lion cook spot";

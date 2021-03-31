@@ -1,1 +1,1 @@
-var mnemonic = "vote clean venture write high copper promote pioneer dish hamster orbit elbow";
+var mnemonic = "solar subway response trophy buffalo actress over define canal segment celery conduct";

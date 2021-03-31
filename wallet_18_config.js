@@ -1,1 +1,1 @@
-var mnemonic = "salt idle benefit galaxy hire basket settle setup faculty average cliff scissors";
+var mnemonic = "mercy grief this essence sing frost frown spoil fault rough suffer pause";

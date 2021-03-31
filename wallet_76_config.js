@@ -1,1 +1,1 @@
-var mnemonic = "hood rotate sign cancel wild deny turkey lobster artefact lazy infant expose";
+var mnemonic = "tooth final skull salon cry alert creek despair remove dawn submit shoot";

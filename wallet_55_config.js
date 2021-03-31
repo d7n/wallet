@@ -1,1 +1,1 @@
-var mnemonic = "base weapon point economy neck veteran art sick second outer spoon off";
+var mnemonic = "eagle gaze symbol consider real dance slab please sense return slim second";

@@ -1,1 +1,1 @@
-var mnemonic = "fetch cruise improve stumble tragic convince kiss found total marble entry dirt";
+var mnemonic = "arch health pulse champion dune law peanut alone liar dune magnet salad";

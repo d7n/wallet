@@ -1,1 +1,1 @@
-var mnemonic = "soldier shed chef gossip idle divide lyrics dolphin start suggest price amount";
+var mnemonic = "blast green salmon hero picture debris rice angle unveil enroll gasp globe";

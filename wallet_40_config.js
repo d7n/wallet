@@ -1,1 +1,1 @@
-var mnemonic = "acoustic manage execute blush unusual people horror brass hope brave actor repeat";
+var mnemonic = "cash brief pumpkin during inmate school step judge error cancel avoid bag";

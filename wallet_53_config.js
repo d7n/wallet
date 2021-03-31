@@ -1,1 +1,1 @@
-var mnemonic = "hazard denial ride fuel rely crack six change parrot sample size friend";
+var mnemonic = "can ability tag relax prevent physical spike demise puzzle code essence miracle";

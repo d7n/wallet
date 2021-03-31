@@ -1,1 +1,1 @@
-var mnemonic = "world afford gasp vote million switch vendor filter perfect birth near apple";
+var mnemonic = "dial tomato tone duck tool ticket ladder keep dice meat come elevator";

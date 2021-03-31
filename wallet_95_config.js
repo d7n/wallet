@@ -1,1 +1,1 @@
-var mnemonic = "siege ten awkward rescue napkin bounce pioneer ketchup mansion flat potato best";
+var mnemonic = "gap proud wrong eagle sunny swap success use rabbit boost swing february";

@@ -1,1 +1,1 @@
-var mnemonic = "blame price begin chat foot stay because awkward finish measure climb keen";
+var mnemonic = "chuckle source bike wild fall party twenty lawn license popular fit lava";

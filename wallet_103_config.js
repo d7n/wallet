@@ -1,1 +1,1 @@
-var mnemonic = "knock culture come express coach bread ivory open differ rubber scale begin";
+var mnemonic = "jealous cannon unaware poet woman honey visit mass predict title crawl dentist";

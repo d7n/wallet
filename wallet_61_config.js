@@ -1,1 +1,1 @@
-var mnemonic = "diamond wagon sight column beauty play trumpet choose math ghost neutral wood";
+var mnemonic = "tip kangaroo hobby hip title valley lucky exile hybrid olive senior arrest";

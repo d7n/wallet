@@ -1,1 +1,1 @@
-var mnemonic = "learn sunny domain rice steak hello perfect aisle way before remove assist";
+var mnemonic = "hour floor popular custom correct industry reason typical deer rug fabric slot";

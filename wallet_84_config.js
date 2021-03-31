@@ -1,1 +1,1 @@
-var mnemonic = "planet sand tag six liberty track vacant excite series flock tide regular";
+var mnemonic = "fever essence wreck farm mesh escape zero true move empty journey rhythm";

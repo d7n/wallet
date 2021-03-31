@@ -1,1 +1,1 @@
-var mnemonic = "alcohol chimney vital outer cook midnight winter ignore suspect embrace liquid eight";
+var mnemonic = "history foot valley snake miss lesson shoe among give wrestle crew average";

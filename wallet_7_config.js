@@ -1,1 +1,1 @@
-var mnemonic = "swear steel leg fiction indicate cloth knee page tag comic secret when";
+var mnemonic = "day aerobic endorse intact gather muscle fashion abandon all apart despair wolf";

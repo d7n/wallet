@@ -1,1 +1,1 @@
-var mnemonic = "rebuild coconut eagle voyage venue guitar battle together slow short recall bunker";
+var mnemonic = "lion pride method soon slide clock decide finish divert useless foster ribbon";

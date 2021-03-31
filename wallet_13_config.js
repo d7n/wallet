@@ -1,1 +1,1 @@
-var mnemonic = "winter slight response sudden vicious frozen movie farm brother tuition parrot sauce";
+var mnemonic = "visit cream hamster chalk sing fancy inherit destroy zoo sudden slender image";

@@ -1,1 +1,1 @@
-var mnemonic = "later give collect convince puzzle minute pattern buddy oblige fold plunge plug";
+var mnemonic = "earn soon tiny text tomorrow area sand spatial chicken gown library typical";

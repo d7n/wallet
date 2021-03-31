@@ -1,1 +1,1 @@
-var mnemonic = "pond gate sell open castle evil film ticket spread hour shadow crunch";
+var mnemonic = "fiscal sock coin expand glance during hockey ozone elbow pony paper absorb";

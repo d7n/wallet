@@ -1,1 +1,1 @@
-var mnemonic = "orphan raven pipe december staff radio dad arrive quality document shove donkey";
+var mnemonic = "fitness tornado promote essence distance crawl soap casual gas rule conduct team";

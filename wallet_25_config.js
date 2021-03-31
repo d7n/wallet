@@ -1,1 +1,1 @@
-var mnemonic = "amount cotton version subway spray piano grab lizard wrist achieve enrich trash";
+var mnemonic = "culture bachelor come guilt style sheriff pizza history grab fiber refuse join";

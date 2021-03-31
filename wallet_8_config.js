@@ -1,1 +1,1 @@
-var mnemonic = "kiwi rigid limit sugar muffin live piano inside game nasty kingdom sibling";
+var mnemonic = "moon vehicle wave high current major park noodle faith audit charge harsh";

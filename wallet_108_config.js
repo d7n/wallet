@@ -1,1 +1,1 @@
-var mnemonic = "mountain tent spring egg seven artwork guide able river tiger long toss";
+var mnemonic = "negative figure topple maid program drop dismiss index yard purity vacant basic";

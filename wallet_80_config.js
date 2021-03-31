@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow other better hammer unit unit kind you agree chapter spell dish";
+var mnemonic = "sword broken hub argue column bag letter drift open mandate tip unknown";

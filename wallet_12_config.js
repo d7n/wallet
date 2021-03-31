@@ -1,1 +1,1 @@
-var mnemonic = "raise advance gloom property warrior deny favorite tenant pool add process brother";
+var mnemonic = "short cook afford aware blossom neutral bird student renew dream jewel weapon";

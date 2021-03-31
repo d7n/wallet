@@ -1,1 +1,1 @@
-var mnemonic = "tourist rural donor excess grocery legal special siren approve pilot lecture squeeze";
+var mnemonic = "mixture cover festival analyst axis soda rent mule forget time couch universe";

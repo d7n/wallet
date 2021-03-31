@@ -1,1 +1,1 @@
-var mnemonic = "goat rally drama mention gift nerve prison sudden survey sample box filter";
+var mnemonic = "wife flat possible trust kitchen fluid floor shed civil rifle regret cycle";

@@ -1,1 +1,1 @@
-var mnemonic = "aunt laugh hotel horse dignity fork jar faculty ill blame credit dismiss";
+var mnemonic = "city burst jacket unaware alcohol slush gate helmet outside under able vote";

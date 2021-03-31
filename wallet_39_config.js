@@ -1,1 +1,1 @@
-var mnemonic = "culture tool broom mass walnut alpha process like post sea portion type";
+var mnemonic = "build wire together already photo rough rib license excess wet mushroom hint";

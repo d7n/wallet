@@ -1,1 +1,1 @@
-var mnemonic = "arrow kitchen elegant critic bless need brown brisk way divorce dynamic heart";
+var mnemonic = "ocean add divorce sorry child shallow sting visa flock quit hello mango";

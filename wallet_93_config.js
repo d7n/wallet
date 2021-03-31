@@ -1,1 +1,1 @@
-var mnemonic = "people route copy shrimp disease forward gift total spike repeat scrub glimpse";
+var mnemonic = "action cave idea joke afford trophy loyal walk pizza zebra marriage wool";

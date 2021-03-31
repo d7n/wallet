@@ -1,1 +1,1 @@
-var mnemonic = "wheel taste celery legal screen deny clay crucial letter cargo ridge manual";
+var mnemonic = "pull wear gain genuine tank december female scrap rare obscure example island";

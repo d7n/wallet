@@ -1,1 +1,1 @@
-var mnemonic = "gesture trim jar win travel skin dress crisp protect obey inner rookie";
+var mnemonic = "script violin renew lens since fury lumber wish slab mutual world filter";

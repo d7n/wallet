@@ -1,1 +1,1 @@
-var mnemonic = "citizen benefit echo system poem ranch during animal soda season hood crew";
+var mnemonic = "fortune fossil pelican fan release auction polar keen pipe boil trick vehicle";

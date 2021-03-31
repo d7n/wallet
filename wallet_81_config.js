@@ -1,1 +1,1 @@
-var mnemonic = "huge nice escape shift penalty slice gap suffer aware eager enact settle";
+var mnemonic = "slide panic muffin decline casino scatter merry civil october day cream idle";

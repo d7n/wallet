@@ -1,1 +1,1 @@
-var mnemonic = "oven zone slim circle flat address civil volcano finger wrong fatigue salmon";
+var mnemonic = "brief donkey scale helmet dad float year napkin access real arrest key";

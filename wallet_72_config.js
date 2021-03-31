@@ -1,1 +1,1 @@
-var mnemonic = "there pistol hybrid loyal urban usage note admit vintage dignity shove apple";
+var mnemonic = "sugar custom seat rail bronze uniform weather across barrel shrug pony pencil";

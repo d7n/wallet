@@ -1,1 +1,1 @@
-var mnemonic = "glory certain amused develop ketchup evidence erode marble kit much grocery bundle";
+var mnemonic = "picture flame latin believe champion hybrid orbit mosquito drastic fragile gesture pistol";
