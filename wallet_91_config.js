@@ -1,1 +1,1 @@
-var mnemonic = "quiz quiz lemon embrace run ginger duck peace calm labor tone predict";
+var mnemonic = "legal that exhaust bubble mammal melt purse vessel year exit chronic perfect";

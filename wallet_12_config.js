@@ -1,1 +1,1 @@
-var mnemonic = "tuition salon imitate art because claim cradle census sudden exhibit office universe";
+var mnemonic = "awkward raw whisper exercise voice dirt benefit cradle bonus main control quiz";

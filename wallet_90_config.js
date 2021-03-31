@@ -1,1 +1,1 @@
-var mnemonic = "chimney shed load riot verify crime toss crop matter inhale earth excess";
+var mnemonic = "fuel steak seed gorilla across funny payment short breeze buzz humor million";

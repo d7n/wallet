@@ -1,1 +1,1 @@
-var mnemonic = "will average muffin exclude toy tonight lion critic can memory garlic income";
+var mnemonic = "slab fragile gift top text bulb problem hotel celery bright round all";

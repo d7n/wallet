@@ -1,1 +1,1 @@
-var mnemonic = "mobile surface garden live cage frame master mind cute mansion thought hat";
+var mnemonic = "inner dad spider song youth bulb fortune pelican orient doll staff myth";

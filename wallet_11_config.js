@@ -1,1 +1,1 @@
-var mnemonic = "misery faculty name erase museum blame skill salad result shy indicate success";
+var mnemonic = "problem lobster spot enjoy hill bamboo traffic foster cushion flame claim injury";

@@ -1,1 +1,1 @@
-var mnemonic = "retire panel marble urban outdoor payment sauce tiny limit amount upper trade";
+var mnemonic = "collect lunch host maid you border awful inherit surge glue planet ticket";

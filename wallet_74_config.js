@@ -1,1 +1,1 @@
-var mnemonic = "people prefer blue beyond slow wisdom coin whale fashion river recipe almost";
+var mnemonic = "erode divert differ treat change priority stomach essay lunch lava pepper coast";

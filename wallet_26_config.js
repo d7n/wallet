@@ -1,1 +1,1 @@
-var mnemonic = "diesel budget digital couch powder differ salon sport finger describe type sphere";
+var mnemonic = "verb glad enforce engage level tornado runway enjoy arena arm reduce decrease";

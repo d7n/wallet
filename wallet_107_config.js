@@ -1,1 +1,1 @@
-var mnemonic = "gate case upon cloud casino name outer zero point dice pet oblige";
+var mnemonic = "bubble exclude balcony only tip gift raw document foster artefact friend text";

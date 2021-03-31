@@ -1,1 +1,1 @@
-var mnemonic = "slam rocket hard indoor duck sustain raven wide poverty protect twice unaware";
+var mnemonic = "near embrace derive ketchup foot theme hint aim uncover trouble artist furnace";

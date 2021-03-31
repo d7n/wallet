@@ -1,1 +1,1 @@
-var mnemonic = "access million degree always improve mobile approve luxury rude round rotate zone";
+var mnemonic = "symbol knife scheme leopard twist brush crazy over ranch erase capital test";

@@ -1,1 +1,1 @@
-var mnemonic = "audit tuna exclude lottery worry girl genius range liquid force fan october";
+var mnemonic = "where mosquito misery tomato hockey creek cause lottery title rival jacket minimum";

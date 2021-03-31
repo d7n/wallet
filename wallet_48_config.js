@@ -1,1 +1,1 @@
-var mnemonic = "repair slide away under jungle start cup grain auction marble risk rescue";
+var mnemonic = "theme sight manage sentence defense dismiss zebra gun pole ice bomb dilemma";

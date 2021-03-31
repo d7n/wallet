@@ -1,1 +1,1 @@
-var mnemonic = "fox way okay hedgehog fat magnet zero scatter local dynamic dream donor";
+var mnemonic = "birth clock ladder toe keen unfold defense mobile roof critic off differ";

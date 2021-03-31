@@ -1,1 +1,1 @@
-var mnemonic = "friend sister cigar blood oil release firm grid hold manage wet cry";
+var mnemonic = "pledge vault action jacket flat panther jealous hundred noble put fatigue old";

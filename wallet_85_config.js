@@ -1,1 +1,1 @@
-var mnemonic = "flat dignity frog mesh shift barely science endorse praise vintage spawn acid";
+var mnemonic = "stay napkin risk estate ocean swap desert cave steel guide ahead skull";

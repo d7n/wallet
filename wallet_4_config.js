@@ -1,1 +1,1 @@
-var mnemonic = "neck wrong trouble sword prize blade shrug silver ethics grief zoo olive";
+var mnemonic = "warrior account impose wild fish comic impulse stamp hunt clip era rebuild";

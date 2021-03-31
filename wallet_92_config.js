@@ -1,1 +1,1 @@
-var mnemonic = "talent quantum room stadium film belt since grape finish service modify version";
+var mnemonic = "message dignity cream smoke lawn keen captain return win inner egg gold";

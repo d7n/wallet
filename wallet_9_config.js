@@ -1,1 +1,1 @@
-var mnemonic = "throw swing hour reunion razor next glove annual salute coach state trial";
+var mnemonic = "panda end agree hub meat issue because beach neither stairs immune decorate";

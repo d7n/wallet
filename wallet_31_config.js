@@ -1,1 +1,1 @@
-var mnemonic = "book slab puppy solid clap strategy staff trouble scorpion east wedding stuff";
+var mnemonic = "social help ocean capital rug vibrant forward market length swift shine ridge";

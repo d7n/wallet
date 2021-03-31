@@ -1,1 +1,1 @@
-var mnemonic = "early token echo fortune razor recall exhaust burden stomach swim crazy false";
+var mnemonic = "flush fiscal stem destroy tribe old dentist exchange glass sauce stairs scissors";

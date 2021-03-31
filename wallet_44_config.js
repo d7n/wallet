@@ -1,1 +1,1 @@
-var mnemonic = "message always awake radar release rookie practice fan eager mail search dog";
+var mnemonic = "exercise charge swear assist slogan aerobic work cat abstract frown excess target";

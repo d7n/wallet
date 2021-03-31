@@ -1,1 +1,1 @@
-var mnemonic = "short child student box way prepare blouse jump empty sense dutch enroll";
+var mnemonic = "phrase clutch foil swarm ostrich spawn chair fade tobacco lab vicious buffalo";

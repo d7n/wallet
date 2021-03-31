@@ -1,1 +1,1 @@
-var mnemonic = "cheese input battle audit nasty tide glimpse number drink gold memory cool";
+var mnemonic = "glimpse file square fuel future cook quarter regular inner comic general remember";

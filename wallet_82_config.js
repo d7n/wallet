@@ -1,1 +1,1 @@
-var mnemonic = "inspire vintage jaguar easy addict lemon blast bind lion once mixture print";
+var mnemonic = "ladder robust logic between fragile present venue arrow remain bag foot author";

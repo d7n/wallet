@@ -1,1 +1,1 @@
-var mnemonic = "spatial addict liar twice grass cube dream genuine catch fat update walnut";
+var mnemonic = "retreat attract gospel decide illness text exercise marine rabbit sketch extend unit";

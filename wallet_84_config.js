@@ -1,1 +1,1 @@
-var mnemonic = "noise flock now search length smooth lift amateur shield spray grab wheel";
+var mnemonic = "enact group double someone fix carbon deputy sail idea disorder slim index";

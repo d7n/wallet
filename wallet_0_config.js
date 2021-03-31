@@ -1,1 +1,1 @@
-var mnemonic = "enjoy tired misery arena friend depart engine derive jump civil tape shaft";
+var mnemonic = "kitchen around bargain acquire hungry catalog blame feel talent hold prefer hand";

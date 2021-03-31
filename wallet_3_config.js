@@ -1,1 +1,1 @@
-var mnemonic = "hand correct warfare alert health glimpse snap shoulder ring silent hover inch";
+var mnemonic = "ritual festival antenna census fire side loan fancy virus trouble find candy";

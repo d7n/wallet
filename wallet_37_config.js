@@ -1,1 +1,1 @@
-var mnemonic = "orient mechanic bottom potato forget snack mask science provide bubble glass antique";
+var mnemonic = "squeeze couch produce problem tuna sphere sing tilt inspire great ability zero";

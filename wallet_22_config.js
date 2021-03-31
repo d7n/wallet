@@ -1,1 +1,1 @@
-var mnemonic = "obtain people reject tomorrow hip hill dial coral return north path summer";
+var mnemonic = "diagram able fabric anxiety vendor much oppose furnace dizzy decorate void dismiss";

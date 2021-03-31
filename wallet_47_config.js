@@ -1,1 +1,1 @@
-var mnemonic = "expose carry reason gorilla such aim attack surface april february unfold belt";
+var mnemonic = "tumble barrel version tunnel reduce duck before mushroom neutral evoke example cheap";

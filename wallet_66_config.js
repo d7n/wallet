@@ -1,1 +1,1 @@
-var mnemonic = "stay garage resist super egg job hour reflect wish hint rigid method";
+var mnemonic = "robot wire goat syrup rural inside fitness grow gift under vintage this";

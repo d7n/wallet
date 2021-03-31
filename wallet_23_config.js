@@ -1,1 +1,1 @@
-var mnemonic = "entry junior push kit pink robot season narrow rifle retreat spy island";
+var mnemonic = "robot pipe unfair excess cluster coast depart tilt cycle borrow day horn";

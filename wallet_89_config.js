@@ -1,1 +1,1 @@
-var mnemonic = "account frog coral more arrest motor vague napkin box immense resemble sadness";
+var mnemonic = "head dial brave dose jaguar inherit rural pepper seven video inmate gate";

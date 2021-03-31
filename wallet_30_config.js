@@ -1,1 +1,1 @@
-var mnemonic = "frequent lottery volcano pause discover tell exist save escape night cube menu";
+var mnemonic = "list resource pudding stable bid siren hub mad option crystal slam uncle";

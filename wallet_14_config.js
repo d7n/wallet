@@ -1,1 +1,1 @@
-var mnemonic = "spend school vintage hold recycle slice clog asset salmon truck issue into";
+var mnemonic = "lumber owner sweet spray reward bone belt evolve item income crush path";

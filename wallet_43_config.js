@@ -1,1 +1,1 @@
-var mnemonic = "gun dish position left come frown mention web easily agent weapon define";
+var mnemonic = "hint spirit liar mobile later injury more luxury inherit hundred labor soccer";

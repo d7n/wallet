@@ -1,1 +1,1 @@
-var mnemonic = "rate prosper top case topple senior dragon simple erosion hire size barely";
+var mnemonic = "between wedding envelope crack forest charge demise sea remain forward draw feel";

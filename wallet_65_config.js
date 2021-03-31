@@ -1,1 +1,1 @@
-var mnemonic = "twin trend soccer dawn obey museum change weapon blind gather inch gun";
+var mnemonic = "benefit autumn disorder venture spider tag sentence pink suggest road ordinary march";

@@ -1,1 +1,1 @@
-var mnemonic = "cement chief leaf culture swear drip nice forward sport chimney boost piece";
+var mnemonic = "resource child three young hundred tattoo feed exit differ vital panel sheriff";

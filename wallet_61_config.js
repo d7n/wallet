@@ -1,1 +1,1 @@
-var mnemonic = "law start leaf outer manage gown firm someone blood repair when equal";
+var mnemonic = "country wolf chief session proud indicate sad damage vivid ride common depart";

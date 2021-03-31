@@ -1,1 +1,1 @@
-var mnemonic = "claw hint manual slot zone gospel ship arrange inform insect inner flat";
+var mnemonic = "near ladder mango cigar tower author shine trigger survey element else later";

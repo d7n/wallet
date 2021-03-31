@@ -1,1 +1,1 @@
-var mnemonic = "accuse nerve scare snow path skull motor bunker nose attack honey advice";
+var mnemonic = "symptom question shock actor focus educate glow vague toy nasty certain local";

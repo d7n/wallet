@@ -1,1 +1,1 @@
-var mnemonic = "paper doctor spin wheel harvest still also mosquito reduce steel pole diet";
+var mnemonic = "curtain winter original erupt usage crush diamond unaware ecology build awful young";

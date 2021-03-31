@@ -1,1 +1,1 @@
-var mnemonic = "victory napkin foot speed cabbage pony small bleak system used collect improve";
+var mnemonic = "bracket bar pulse enroll play glow jelly story food history tip dawn";

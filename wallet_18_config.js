@@ -1,1 +1,1 @@
-var mnemonic = "myth diet rice bargain survey flash brave update female series toe idle";
+var mnemonic = "blame armed fortune yellow narrow stumble effort pill meat exotic group ensure";

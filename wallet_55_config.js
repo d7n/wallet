@@ -1,1 +1,1 @@
-var mnemonic = "brain chat water repeat use seminar still keen deposit hub wink century";
+var mnemonic = "short child used salt act sword relief brass service adjust area uniform";

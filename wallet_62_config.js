@@ -1,1 +1,1 @@
-var mnemonic = "until kick renew pyramid woman talent tail hobby evolve team emotion upon";
+var mnemonic = "involve whip honey warfare gallery fee become margin muscle cupboard chase cry";

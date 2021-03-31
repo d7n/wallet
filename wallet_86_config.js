@@ -1,1 +1,1 @@
-var mnemonic = "nation swarm supply gadget embrace exchange scene annual canal idea devote stadium";
+var mnemonic = "protect vapor toward drum regret talent pledge rookie obscure stable filter zebra";

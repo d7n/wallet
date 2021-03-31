@@ -1,1 +1,1 @@
-var mnemonic = "pull shell pet health keep zone seat mother own vapor metal spawn";
+var mnemonic = "catch health device reject split poverty loan armed pull leave amazing level";

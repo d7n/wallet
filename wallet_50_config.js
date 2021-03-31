@@ -1,1 +1,1 @@
-var mnemonic = "sugar aim ramp trip hockey age hint wait start grass cabbage convince";
+var mnemonic = "knee axis ordinary robust ladder velvet alter jungle cradle hub bless search";

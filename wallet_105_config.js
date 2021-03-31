@@ -1,1 +1,1 @@
-var mnemonic = "access burger market visual exact leg early hood sign seed gap token";
+var mnemonic = "ribbon junior symbol feature ice frequent rose december quiz journey bacon among";

@@ -1,1 +1,1 @@
-var mnemonic = "inquiry word danger pipe demise wash trend amount trim beyond thumb slot";
+var mnemonic = "exile mind dignity jazz erupt help enact swift swing owner enter finish";

@@ -1,1 +1,1 @@
-var mnemonic = "escape able delay frequent super craft lunch actress into cloth bronze clinic";
+var mnemonic = "acoustic staff ecology tunnel brain trend initial want immune actress butter patch";

@@ -1,1 +1,1 @@
-var mnemonic = "private emotion valley file dance attitude fantasy feature echo sadness mutual age";
+var mnemonic = "used rally crazy swim bring genre cover gas lobster ten file frame";

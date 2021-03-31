@@ -1,1 +1,1 @@
-var mnemonic = "hero ship aware behind grape luggage milk reform click horror theme humor";
+var mnemonic = "yellow pretty web wear deny sing settle bundle candy black news space";

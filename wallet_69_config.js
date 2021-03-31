@@ -1,1 +1,1 @@
-var mnemonic = "arch bargain employ essay grant cup home saddle rich receive unhappy borrow";
+var mnemonic = "charge marine version dawn bean happy ready nice box write ostrich lunar";

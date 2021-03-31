@@ -1,1 +1,1 @@
-var mnemonic = "pitch pretty catalog remind boring dwarf salon success civil ready transfer vendor";
+var mnemonic = "pass body purpose pulp globe since move illegal pencil diesel return midnight";

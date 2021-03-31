@@ -1,1 +1,1 @@
-var mnemonic = "accuse trend cram clog early mule ghost earn worry uncle path loud";
+var mnemonic = "protect chest estate kite slow arrive wife hope boost shy lens caught";

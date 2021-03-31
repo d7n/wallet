@@ -1,1 +1,1 @@
-var mnemonic = "know hip edge travel divert acquire cushion tribe such hub dress index";
+var mnemonic = "banner core snap ostrich harsh panel gesture match kiss earth regret wrist";

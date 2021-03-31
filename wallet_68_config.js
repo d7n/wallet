@@ -1,1 +1,1 @@
-var mnemonic = "stuff scene cloth list agree nuclear frequent process fatal either unaware include";
+var mnemonic = "reflect gap pistol erosion seek harvest knee someone prosper song leopard emerge";

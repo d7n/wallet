@@ -1,1 +1,1 @@
-var mnemonic = "will book illegal bunker property friend ensure zebra hurt luxury crunch field";
+var mnemonic = "derive absorb tornado column they blue alone pulp merit visa muffin between";

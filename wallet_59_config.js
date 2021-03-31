@@ -1,1 +1,1 @@
-var mnemonic = "midnight mesh piano lava slogan kitten decade enrich hole tragic apology exit";
+var mnemonic = "upgrade pistol coyote rescue human hurry path song hover speak crouch memory";

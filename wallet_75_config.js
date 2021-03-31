@@ -1,1 +1,1 @@
-var mnemonic = "doll rotate walk inmate garage timber burst erase just since business curious";
+var mnemonic = "coast amazing reject inspire roof cousin demise parade egg party any winner";

@@ -1,1 +1,1 @@
-var mnemonic = "swear clever useful document subject captain debris desk neutral smart tiny aim";
+var mnemonic = "hold rate physical south wedding dove august saddle often one cycle worth";

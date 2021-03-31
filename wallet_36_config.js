@@ -1,1 +1,1 @@
-var mnemonic = "battle excite minimum toast total dress tackle west torch idle fine jeans";
+var mnemonic = "ramp frozen civil toddler suffer apology crash tired trigger capable uniform stadium";

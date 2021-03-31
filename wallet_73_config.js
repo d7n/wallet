@@ -1,1 +1,1 @@
-var mnemonic = "trim kit mushroom diary gadget note wink image height snap very share";
+var mnemonic = "enforce december exile detect candy license crowd earth virtual traffic chair own";

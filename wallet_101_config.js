@@ -1,1 +1,1 @@
-var mnemonic = "lyrics pupil robust raise shock adapt boat gloom achieve narrow able match";
+var mnemonic = "hamster dolphin tongue success faith olive olympic verb diet suit neglect cannon";

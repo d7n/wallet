@@ -1,1 +1,1 @@
-var mnemonic = "depth supreme hidden hedgehog coffee glory next creek once shrug duty group";
+var mnemonic = "day endorse unknown cream horror inform gospel maximum change curtain ketchup transfer";

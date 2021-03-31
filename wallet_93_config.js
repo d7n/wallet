@@ -1,1 +1,1 @@
-var mnemonic = "fat size consider tuition fatal resist disagree scare ritual vessel faint escape";
+var mnemonic = "casual cattle master refuse artist bitter flip panel direct slice woman multiply";

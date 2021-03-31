@@ -1,1 +1,1 @@
-var mnemonic = "thing bleak clean wrist gold mother tired benefit mirror load cage fence";
+var mnemonic = "pluck waste bind select pool chat order frame nuclear celery demise output";

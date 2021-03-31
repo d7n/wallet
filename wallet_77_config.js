@@ -1,1 +1,1 @@
-var mnemonic = "morning can already adapt elephant under sausage clever erupt lawsuit hard warfare";
+var mnemonic = "cluster inch brick bind caution actual lock present camera deal include drama";

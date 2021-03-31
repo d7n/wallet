@@ -1,1 +1,1 @@
-var mnemonic = "resist speed speed erupt castle castle popular drift winter holiday hand venture";
+var mnemonic = "gather junior peasant laptop flower slide mirror grab twist project maid field";

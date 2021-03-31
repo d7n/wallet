@@ -1,1 +1,1 @@
-var mnemonic = "million grocery sword lazy enforce topple prevent visual kid bleak avocado potato";
+var mnemonic = "siren wish pistol ice diamond frog inherit vehicle luggage van occur barrel";

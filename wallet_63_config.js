@@ -1,1 +1,1 @@
-var mnemonic = "head never skate true staff school change bind sea naive beyond right";
+var mnemonic = "spy marine pledge two impact talent reflect demise faith turtle use cupboard";

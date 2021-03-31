@@ -1,1 +1,1 @@
-var mnemonic = "online bounce jazz screen long century run zebra distance prison usage situate";
+var mnemonic = "will shed gather slow exercise virus utility eyebrow wealth visual endorse moment";

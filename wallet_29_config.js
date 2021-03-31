@@ -1,1 +1,1 @@
-var mnemonic = "warrior fantasy involve swing staff company damage result gym between civil apple";
+var mnemonic = "other alien kid ostrich slam kit north box spice plastic boring polar";

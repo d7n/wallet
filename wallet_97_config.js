@@ -1,1 +1,1 @@
-var mnemonic = "frozen arctic protect attitude morning same claw nose radio skirt flock spice";
+var mnemonic = "that skill survey rough radio quick color health note region repair bleak";

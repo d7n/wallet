@@ -1,1 +1,1 @@
-var mnemonic = "shy phrase home glow noise vessel whip garment country claw seat index";
+var mnemonic = "refuse rocket off quiz tent close summer final festival code equip erupt";

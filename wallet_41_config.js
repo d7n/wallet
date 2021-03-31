@@ -1,1 +1,1 @@
-var mnemonic = "double mixture wheat library coach distance mutual neutral theme vital educate bless";
+var mnemonic = "error chuckle tobacco oak work lens always project lady seminar frequent bullet";

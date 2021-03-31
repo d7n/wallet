@@ -1,1 +1,1 @@
-var mnemonic = "rifle length toward style annual nerve arrest release shoot genuine ladder tattoo";
+var mnemonic = "sunset select main lawsuit vital clog hammer plunge office unhappy depart prison";

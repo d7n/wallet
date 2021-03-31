@@ -1,1 +1,1 @@
-var mnemonic = "security extra various load random student beyond mirror jungle chair vapor remember";
+var mnemonic = "endorse slender price outside double unaware glory bridge fee payment ensure paddle";

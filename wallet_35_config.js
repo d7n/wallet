@@ -1,1 +1,1 @@
-var mnemonic = "pole van route decorate fog traffic solve glow park swarm define clever";
+var mnemonic = "call zero pet online life juice legend crush galaxy hub mammal ordinary";

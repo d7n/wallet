@@ -1,1 +1,1 @@
-var mnemonic = "umbrella anchor alley witness bronze surprise minute only clip journey carbon style";
+var mnemonic = "cereal tragic always fat elephant rice arrest spray captain shy ten style";

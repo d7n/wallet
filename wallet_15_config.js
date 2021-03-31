@@ -1,1 +1,1 @@
-var mnemonic = "clarify onion cigar timber better maid trigger below hire script then object";
+var mnemonic = "bottom roast dwarf stage catch whisper trash valley void arrest success lab";
