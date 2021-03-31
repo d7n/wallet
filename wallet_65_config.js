@@ -1,1 +1,1 @@
-var mnemonic = "photo warrior dose dinosaur verb enemy essence minor clip leisure topic recall";
+var mnemonic = "lecture stomach gauge notable ignore abandon feed mandate park they net major";

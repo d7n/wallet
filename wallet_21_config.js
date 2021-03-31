@@ -1,1 +1,1 @@
-var mnemonic = "actor purity circle always canyon govern whisper blur start bind ridge better";
+var mnemonic = "stumble gate worth sketch pet two comfort transfer alert surround physical pitch";

@@ -1,1 +1,1 @@
-var mnemonic = "deer clog unfold crazy find claim idle force spare rent other combine";
+var mnemonic = "label reopen merry cushion trophy lawn slice whip sign mosquito judge thunder";

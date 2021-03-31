@@ -1,1 +1,1 @@
-var mnemonic = "sample picnic brave joke glow cheap educate smile kidney feed teach clerk";
+var mnemonic = "spoil infant sphere fitness body chest sunset margin bomb dune audit actual";

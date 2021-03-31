@@ -1,1 +1,1 @@
-var mnemonic = "toward apology state apology glory bottom party reopen hard cabbage leader sing";
+var mnemonic = "obvious insect awake meadow change evolve bless arena vacuum depth crunch gold";

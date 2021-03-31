@@ -1,1 +1,1 @@
-var mnemonic = "panther cement easy spice useful hurdle will cargo menu tiny name olympic";
+var mnemonic = "design practice aunt raven gaze day hint wood rice today march spread";

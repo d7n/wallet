@@ -1,1 +1,1 @@
-var mnemonic = "rhythm unlock noodle follow idea obscure shaft please wet soon pretty bless";
+var mnemonic = "entire humble rigid link can canal lens region oval humor smoke ketchup";

@@ -1,1 +1,1 @@
-var mnemonic = "escape license security kid abstract false nuclear vendor device poverty identify rotate";
+var mnemonic = "nuclear ugly act inject gossip genius joy marble capital model kiss idle";

@@ -1,1 +1,1 @@
-var mnemonic = "coast train artist convince fish left organ various electric soup magic inch";
+var mnemonic = "tray prevent loud slab estate shy scatter echo practice blame sorry wash";

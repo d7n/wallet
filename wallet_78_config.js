@@ -1,1 +1,1 @@
-var mnemonic = "scrap entire census bronze laugh collect cannon sheriff cattle artefact video artwork";
+var mnemonic = "cargo dose ignore thought coral sleep injury glance slot will where story";

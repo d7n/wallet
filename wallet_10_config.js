@@ -1,1 +1,1 @@
-var mnemonic = "limb obey job argue luxury salad other keep sugar asthma useful wrong";
+var mnemonic = "accuse tragic domain fork predict extra stomach record advice wonder prefer stone";

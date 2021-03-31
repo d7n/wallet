@@ -1,1 +1,1 @@
-var mnemonic = "correct glory wrap tool clip away speak diamond border vital unlock wing";
+var mnemonic = "unit catalog purity elder until gun fiction grunt strategy atom mandate gain";

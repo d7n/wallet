@@ -1,1 +1,1 @@
-var mnemonic = "left copy emerge broom become educate tragic online evidence edit vessel prefer";
+var mnemonic = "ancient rose category way dragon soup head old scheme thought gold clip";

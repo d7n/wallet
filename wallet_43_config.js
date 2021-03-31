@@ -1,1 +1,1 @@
-var mnemonic = "damp image fashion woman music video pretty glad taxi lizard state wall";
+var mnemonic = "alter edge fancy guide purse gaze inflict alien response all iron satisfy";

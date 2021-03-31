@@ -1,1 +1,1 @@
-var mnemonic = "daughter short expire stairs usage salute bacon rebel oven rug settle pass";
+var mnemonic = "cushion umbrella flush verify crush mind innocent burst video knife cereal reject";

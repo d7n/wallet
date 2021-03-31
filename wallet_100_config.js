@@ -1,1 +1,1 @@
-var mnemonic = "clean again glad hamster bar doctor ice retreat prevent forget season swap";
+var mnemonic = "vague middle axis rival organ actress above label space run balcony wood";

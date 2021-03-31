@@ -1,1 +1,1 @@
-var mnemonic = "spring merge vibrant school thank umbrella laptop shrug double alpha patient throw";
+var mnemonic = "appear curtain confirm case success clarify bomb speak custom abandon armed sphere";

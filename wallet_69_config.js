@@ -1,1 +1,1 @@
-var mnemonic = "cart vanish excuse pizza ecology orbit shock palace brush need system exotic";
+var mnemonic = "pitch legend door river modify gain firm stock month panel point discover";

@@ -1,1 +1,1 @@
-var mnemonic = "aim race idle garment comic tide margin economy bargain void confirm uncle";
+var mnemonic = "soup cry replace message vendor buyer cube claw tree attract squirrel bitter";

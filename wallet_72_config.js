@@ -1,1 +1,1 @@
-var mnemonic = "peanut poverty list actress cry virtual armed drink raven price fiber fringe";
+var mnemonic = "dentist dove mix catalog puzzle either blouse trumpet cupboard jungle index strong";

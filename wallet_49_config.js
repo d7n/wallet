@@ -1,1 +1,1 @@
-var mnemonic = "vivid shine acid stairs mix source border crawl spell stand hundred unusual";
+var mnemonic = "visit egg increase truck fragile unlock spice jungle warfare slide under outer";

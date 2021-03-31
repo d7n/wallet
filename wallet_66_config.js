@@ -1,1 +1,1 @@
-var mnemonic = "among they noodle dentist protect forest sibling morning demise stamp pride arrow";
+var mnemonic = "goose waste rather garbage call apple ghost brisk curious find aware steel";

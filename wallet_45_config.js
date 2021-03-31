@@ -1,1 +1,1 @@
-var mnemonic = "wasp approve neutral raccoon punch panda wool echo daring flock evoke relief";
+var mnemonic = "upset repeat pizza pair forest differ lunch certain erosion zoo there rally";

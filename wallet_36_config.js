@@ -1,1 +1,1 @@
-var mnemonic = "jelly margin apple evidence melt kangaroo science spoon know dizzy collect scan";
+var mnemonic = "can say undo knife ready neglect world blame mirror knee clever leave";

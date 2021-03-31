@@ -1,1 +1,1 @@
-var mnemonic = "food online occur park panda motor dutch garage relax sock able asthma";
+var mnemonic = "ranch shadow attack document laptop world travel unlock wood forest thrive neck";

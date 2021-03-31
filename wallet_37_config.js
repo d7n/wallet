@@ -1,1 +1,1 @@
-var mnemonic = "amused crime inner claim card mystery above connect fat save surprise very";
+var mnemonic = "brass dirt proud flight private useful please under sing voice local jeans";

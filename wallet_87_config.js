@@ -1,1 +1,1 @@
-var mnemonic = "auto season believe master zone rubber table door print modify level mass";
+var mnemonic = "smoke wife wood sport identify weasel youth grow neutral common broccoli cup";

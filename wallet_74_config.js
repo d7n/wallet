@@ -1,1 +1,1 @@
-var mnemonic = "defense excess rapid pull another aunt afford begin firm huge brother wall";
+var mnemonic = "hen case business steak refuse forward bean result three story climb biology";

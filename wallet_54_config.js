@@ -1,1 +1,1 @@
-var mnemonic = "control quantum lumber exhaust shuffle sort file assault juice spot amount hill";
+var mnemonic = "fitness curve obtain slim wall swim street rent opinion sphere rug cabbage";

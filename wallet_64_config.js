@@ -1,1 +1,1 @@
-var mnemonic = "patch ramp depend dirt vast state camera key grit bless borrow coach";
+var mnemonic = "soda control milk rate forum sick rotate another smile chalk forest oven";

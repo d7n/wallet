@@ -1,1 +1,1 @@
-var mnemonic = "wheel secret special luggage close yellow language boat thought produce corn science";
+var mnemonic = "winner dwarf hire effort glance praise require rate penalty explain access grit";

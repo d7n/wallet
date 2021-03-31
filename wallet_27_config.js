@@ -1,1 +1,1 @@
-var mnemonic = "field silent price staff fox sketch struggle mushroom earth solid battle mosquito";
+var mnemonic = "wear submit biology obtain speed lawsuit cactus become soldier trend dilemma lumber";

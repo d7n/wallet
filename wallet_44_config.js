@@ -1,1 +1,1 @@
-var mnemonic = "better sad bracket boat circle vast huge mail perfect giraffe gallery hope";
+var mnemonic = "summer rigid leader math brand bid absorb couch squirrel blouse island eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "strategy ugly capital pen grape umbrella love review proof connect tree degree";
+var mnemonic = "alcohol miss silent chalk change patrol wave ill young true crime punch";

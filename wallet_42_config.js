@@ -1,1 +1,1 @@
-var mnemonic = "inform suspect drive load grocery artefact speed make genius play vague health";
+var mnemonic = "spot cross keen panel essay toast false snack olympic churn put over";

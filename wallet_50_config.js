@@ -1,1 +1,1 @@
-var mnemonic = "leopard diesel move liar lawsuit chronic meadow hurdle siren scene digital analyst";
+var mnemonic = "senior decorate execute canal sample dice genre return tiger useless cover little";

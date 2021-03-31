@@ -1,1 +1,1 @@
-var mnemonic = "tiger vendor claw nephew audit maple problem drastic found swap kangaroo solid";
+var mnemonic = "claw control young switch clog daughter mixture gloom equip click curve stove";

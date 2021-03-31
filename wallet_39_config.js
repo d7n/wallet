@@ -1,1 +1,1 @@
-var mnemonic = "panda cement utility husband sunset strategy another crumble dream portion scrub sorry";
+var mnemonic = "dance athlete impose cake appear circle effort document artwork march sauce trash";

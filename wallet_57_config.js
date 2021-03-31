@@ -1,1 +1,1 @@
-var mnemonic = "pigeon tide pipe person amount wide solar raven rather ranch party weasel";
+var mnemonic = "hawk analyst despair pistol chair catch tomorrow act champion common quote alien";

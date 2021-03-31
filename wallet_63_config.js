@@ -1,1 +1,1 @@
-var mnemonic = "during symbol lobster bid deny edge rough body reason brown lamp century";
+var mnemonic = "lonely vital sock book trap february spice brush satoshi shallow gesture success";

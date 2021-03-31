@@ -1,1 +1,1 @@
-var mnemonic = "choose net canvas bamboo truck couch lottery fruit tomorrow mirror vintage father";
+var mnemonic = "help depth rather tool reform plug canvas clap kind stomach car close";

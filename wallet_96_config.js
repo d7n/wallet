@@ -1,1 +1,1 @@
-var mnemonic = "powder unaware reflect burden entry bar foster spy genuine agree blouse case";
+var mnemonic = "trim secret quality toilet attract peace erode chapter detail region pave example";

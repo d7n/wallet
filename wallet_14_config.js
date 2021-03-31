@@ -1,1 +1,1 @@
-var mnemonic = "private retire multiply edit eternal puzzle element length spy then there resemble";
+var mnemonic = "april negative gate clutch devote enlist hotel solution thing sweet fuel journey";

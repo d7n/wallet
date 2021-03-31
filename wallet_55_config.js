@@ -1,1 +1,1 @@
-var mnemonic = "north risk chronic police cruel trophy unique whip pave soda regret include";
+var mnemonic = "eyebrow action change chalk mean marble pill fall misery language used blanket";

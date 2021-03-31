@@ -1,1 +1,1 @@
-var mnemonic = "fame sign clown shy aisle hamster panther melt glory empty robot file";
+var mnemonic = "virtual swarm tone during aunt develop height garlic food ancient loud vessel";

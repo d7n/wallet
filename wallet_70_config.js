@@ -1,1 +1,1 @@
-var mnemonic = "memory forward nature aerobic basic fancy off barely bus pave choose fiscal";
+var mnemonic = "vessel below disagree turtle basic teach monster seek caught until version marine";

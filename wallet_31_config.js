@@ -1,1 +1,1 @@
-var mnemonic = "wife cradle ugly asthma coil blame second hollow purpose link column whale";
+var mnemonic = "jacket frog route decorate chapter sausage expire clip fence undo situate rather";

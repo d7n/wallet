@@ -1,1 +1,1 @@
-var mnemonic = "space silver ancient obscure siren angle blue bitter stick regret seat evoke";
+var mnemonic = "diamond blanket salmon wood motion public decorate mansion glide favorite medal lesson";

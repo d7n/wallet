@@ -1,1 +1,1 @@
-var mnemonic = "bind mansion reflect daughter gadget any purpose maple earn cave wrestle aisle";
+var mnemonic = "harsh sing cup raise crush miss agree breeze happy tooth jealous output";

@@ -1,1 +1,1 @@
-var mnemonic = "expect ball gas slice young scout abandon only mixture trash dress toilet";
+var mnemonic = "primary edge lava other risk exhaust dice gain swap oven second concert";

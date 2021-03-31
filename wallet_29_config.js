@@ -1,1 +1,1 @@
-var mnemonic = "fitness find sunny sock pupil muffin edge eight clip abandon jazz entire";
+var mnemonic = "carpet swear end cage west risk gospel pattern double squirrel next tourist";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado cereal gather genre exist ankle require portion distance move expose trash";
+var mnemonic = "muffin aspect unique grace seek ice drill return giggle cloth shy oxygen";

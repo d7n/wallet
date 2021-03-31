@@ -1,1 +1,1 @@
-var mnemonic = "uncle sure gain approve brisk robot sea dream depend master act shell";
+var mnemonic = "vibrant easy riot depth coconut myself depart brief suit wagon lab stove";

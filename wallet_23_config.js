@@ -1,1 +1,1 @@
-var mnemonic = "taxi anxiety excess rather interest strong oil woman devote perfect brave certain";
+var mnemonic = "dream village hill upgrade level bronze taste glance moon audit else panda";

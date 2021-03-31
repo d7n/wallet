@@ -1,1 +1,1 @@
-var mnemonic = "foil ride unable pitch decade core skull column lyrics edit minimum dolphin";
+var mnemonic = "puppy clinic repeat grunt machine smooth option illegal neutral hour army trip";

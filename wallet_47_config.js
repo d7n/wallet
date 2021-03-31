@@ -1,1 +1,1 @@
-var mnemonic = "govern rare emerge hundred eager exist behind wire erosion update blame denial";
+var mnemonic = "order unaware collect major document flower remember truly jewel bacon post staff";

@@ -1,1 +1,1 @@
-var mnemonic = "island amused oyster secret menu glory travel phrase wisdom way abandon junior";
+var mnemonic = "morning proof axis fog later enough logic random embody analyst chapter frozen";

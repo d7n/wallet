@@ -1,1 +1,1 @@
-var mnemonic = "chunk noble siege afraid concert recycle guess enroll place inflict clip bind";
+var mnemonic = "ugly bring gauge repeat real shrimp luggage bamboo matter scrub mail hamster";

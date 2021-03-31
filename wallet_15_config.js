@@ -1,1 +1,1 @@
-var mnemonic = "begin between quit decrease seven space horror swamp panel paper layer mango";
+var mnemonic = "half combine phone general water suffer rally heart inject suffer gospel soon";

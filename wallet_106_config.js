@@ -1,1 +1,1 @@
-var mnemonic = "capable pull cheese chest holiday hunt shop soft awful smart fever salon";
+var mnemonic = "puppy acoustic foil tomorrow winner garage float spice hawk van lift save";

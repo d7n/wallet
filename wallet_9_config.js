@@ -1,1 +1,1 @@
-var mnemonic = "finish update grow unfair host approve address way bulk whisper dolphin fly";
+var mnemonic = "people cricket jelly bread chef round liar ensure canal cat service antique";

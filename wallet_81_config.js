@@ -1,1 +1,1 @@
-var mnemonic = "used fury cable pact news dash because physical afford true half force";
+var mnemonic = "load bridge allow ocean build grocery tomato release basic session mechanic plug";

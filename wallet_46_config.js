@@ -1,1 +1,1 @@
-var mnemonic = "solar tray better bubble segment model super demise position sure occur mystery";
+var mnemonic = "vivid pause afraid cost blame color fault coral segment portion canoe practice";

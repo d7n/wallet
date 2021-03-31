@@ -1,1 +1,1 @@
-var mnemonic = "fringe history dish despair crime palm crowd scan town invite twin author";
+var mnemonic = "material still inspire fatigue name trust half found screen coil rival depart";

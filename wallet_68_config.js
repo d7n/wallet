@@ -1,1 +1,1 @@
-var mnemonic = "fluid enforce lizard upset soda salon husband slice crunch improve scorpion harvest";
+var mnemonic = "whale sun index age slide cloud zero monitor young carry sister silver";

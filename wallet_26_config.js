@@ -1,1 +1,1 @@
-var mnemonic = "antenna woman round drip off thing laugh mean title eagle gather bright";
+var mnemonic = "road rug uncle engine fox video party cherry cotton clean mountain cake";

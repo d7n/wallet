@@ -1,1 +1,1 @@
-var mnemonic = "device deny judge dance bridge fiscal weather erupt trial provide bone casual";
+var mnemonic = "stumble meat disease pipe ball earth include wool dinner submit trouble believe";

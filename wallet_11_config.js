@@ -1,1 +1,1 @@
-var mnemonic = "behave cement wide ill glue route crunch monster liar marble token vapor";
+var mnemonic = "orphan tower lesson volcano aware fall small license wrestle square hollow marriage";

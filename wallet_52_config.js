@@ -1,1 +1,1 @@
-var mnemonic = "brother river liberty adult brain borrow civil horror crucial unfair spare gossip";
+var mnemonic = "eagle fault never still one roast online among inhale wine essence illness";

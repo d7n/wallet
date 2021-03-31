@@ -1,1 +1,1 @@
-var mnemonic = "forest staff put opinion thought tourist loud tilt pistol control lens add";
+var mnemonic = "inject furnace hybrid grow payment enact job elephant truck section relief stereo";

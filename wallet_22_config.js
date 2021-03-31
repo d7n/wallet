@@ -1,1 +1,1 @@
-var mnemonic = "engine canoe winter awkward pill hand response office goat loud cabbage judge";
+var mnemonic = "must blush tribe jungle doctor tank silly shaft popular easily home copy";

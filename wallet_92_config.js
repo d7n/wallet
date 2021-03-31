@@ -1,1 +1,1 @@
-var mnemonic = "globe awful polar shoe discover success myself dirt satisfy always message climb";
+var mnemonic = "smile spy pen cluster combine matter push away bullet pitch jeans museum";

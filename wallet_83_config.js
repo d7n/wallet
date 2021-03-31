@@ -1,1 +1,1 @@
-var mnemonic = "exit moment atom barrel party van wear delay resemble female switch demand";
+var mnemonic = "monkey add prefer welcome hard crowd book blouse scrap response alter busy";

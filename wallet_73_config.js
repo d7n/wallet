@@ -1,1 +1,1 @@
-var mnemonic = "occur post alcohol gown infant poet pioneer super hammer return snake accident";
+var mnemonic = "affair palace crunch also you mimic mandate silver iron obey upper sausage";

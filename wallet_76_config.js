@@ -1,1 +1,1 @@
-var mnemonic = "open high sheriff dash town legend sock regular gather reveal number clip";
+var mnemonic = "velvet morning jaguar access phone focus bamboo strategy marine milk reason depend";

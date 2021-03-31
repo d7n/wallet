@@ -1,1 +1,1 @@
-var mnemonic = "song mushroom sting potato fringe term first sand fog arrange author casino";
+var mnemonic = "owner solid volcano relax taxi ticket room ketchup era obey six grunt";

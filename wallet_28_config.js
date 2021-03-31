@@ -1,1 +1,1 @@
-var mnemonic = "wisdom load price dad dinner labor yard crawl cotton rib width snake";
+var mnemonic = "snap among visual diet economy owner blood scatter spot decrease purity vacuum";

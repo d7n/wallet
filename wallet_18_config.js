@@ -1,1 +1,1 @@
-var mnemonic = "desk analyst end convince speed eye nominee sponsor sudden hand ribbon cement";
+var mnemonic = "fresh penalty carpet festival bronze regret bullet west category area rain page";

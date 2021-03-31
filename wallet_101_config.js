@@ -1,1 +1,1 @@
-var mnemonic = "glow iron polar remember powder hidden raven crack coconut amount wood slow";
+var mnemonic = "swim slab rotate rice crouch infant gospel action world foster cement wise";

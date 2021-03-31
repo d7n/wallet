@@ -1,1 +1,1 @@
-var mnemonic = "tobacco knife educate noise angle tiger junior ladder chaos pulse rude cannon";
+var mnemonic = "soft humble ski round flat permit planet room embrace sentence company loyal";

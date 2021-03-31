@@ -1,1 +1,1 @@
-var mnemonic = "section venture crush vault bridge blood icon twin apology wide garden upon";
+var mnemonic = "solution tent attract desk treat pumpkin surge skate coil will view actual";

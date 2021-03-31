@@ -1,1 +1,1 @@
-var mnemonic = "meadow cave cloth utility used exotic wasp habit reward riot hawk balance";
+var mnemonic = "million hour bronze space bottom shove settle large sister rigid lion already";

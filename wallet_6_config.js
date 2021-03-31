@@ -1,1 +1,1 @@
-var mnemonic = "dentist dial peanut clinic direct excite tower interest under quality observe crash";
+var mnemonic = "aisle outdoor invest bubble north pear length mango boss endorse cradle sustain";

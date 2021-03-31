@@ -1,1 +1,1 @@
-var mnemonic = "quality allow spider victory type legend glass car combine spare diamond duty";
+var mnemonic = "magic seven twin moral tape mule spike area title tray roof sponsor";

@@ -1,1 +1,1 @@
-var mnemonic = "virtual obey absurd load false typical runway require shine ritual insect give";
+var mnemonic = "absurd drive toss refuse flock garage cousin danger spy tongue denial used";

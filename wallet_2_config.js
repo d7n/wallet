@@ -1,1 +1,1 @@
-var mnemonic = "vivid census game cricket divorce arrow smart menu curtain chronic balance diary";
+var mnemonic = "torch issue impose mosquito tunnel weird now nephew clump then piece wife";

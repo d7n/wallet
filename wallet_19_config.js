@@ -1,1 +1,1 @@
-var mnemonic = "soft gold post donor mother weekend bunker magic outdoor scrap spoon setup";
+var mnemonic = "word play galaxy usage virtual scorpion series grunt vibrant desert december priority";

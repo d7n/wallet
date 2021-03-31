@@ -1,1 +1,1 @@
-var mnemonic = "device rug place earn bright home bring uniform pact unfold vast trade";
+var mnemonic = "only impose hill auto hurry orchard link solar know device audit enlist";

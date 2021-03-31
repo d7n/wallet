@@ -1,1 +1,1 @@
-var mnemonic = "captain bind ceiling tortoise hazard floor family sell goat carbon visual fire";
+var mnemonic = "reveal sail enforce marriage potato festival notable suggest wheel mom primary panther";

@@ -1,1 +1,1 @@
-var mnemonic = "book rotate speed half boat patch leave gravity sugar metal alley soul";
+var mnemonic = "defense artwork bean duty torch prevent energy thought gravity cat broom olympic";
