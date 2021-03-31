@@ -1,1 +1,1 @@
-var mnemonic = "thank coin rib baby fun guard clog prepare museum system erase orphan";
+var mnemonic = "melt fog sure open snake arch milk sketch abandon monkey like media";

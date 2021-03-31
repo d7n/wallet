@@ -1,1 +1,1 @@
-var mnemonic = "slot indoor brass country sunny dish assault crystal tag actress monitor gift";
+var mnemonic = "material fish slice woman brave artwork virus north zoo assume pave door";

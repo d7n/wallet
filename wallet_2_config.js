@@ -1,1 +1,1 @@
-var mnemonic = "aspect despair vendor velvet safe cram small sad suit ripple enhance old";
+var mnemonic = "rival exile icon aunt collect crack world swarm list ketchup impulse earth";

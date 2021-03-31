@@ -1,1 +1,1 @@
-var mnemonic = "sea source lecture sleep calm real whisper country moment exile urban fox";
+var mnemonic = "ozone bird zoo pistol punch vibrant decade ankle edge ghost quit trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "banner effort capital power ghost balcony proof quarter voice jealous swing arrive";
+var mnemonic = "fault comic barely ice fury guilt next unfair reform neither pepper swift";

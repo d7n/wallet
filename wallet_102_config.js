@@ -1,1 +1,1 @@
-var mnemonic = "poem version unique fancy street tissue retire museum hint absurd mammal essence";
+var mnemonic = "bike foster exist upon speed blame moon captain visit hub owner mosquito";

@@ -1,1 +1,1 @@
-var mnemonic = "trust warrior divide link ticket above pluck begin security primary large horse";
+var mnemonic = "shove breeze message live pupil have dog design document sausage master like";

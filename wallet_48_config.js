@@ -1,1 +1,1 @@
-var mnemonic = "token enough account hammer rabbit cruise grief proof drill rail narrow test";
+var mnemonic = "diagram margin ten check bread opinion fox mixed motor dynamic globe cube";

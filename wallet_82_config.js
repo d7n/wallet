@@ -1,1 +1,1 @@
-var mnemonic = "town mobile holiday rain gas offer model stick tortoise ice inhale alert";
+var mnemonic = "potato legal waste dog verify chat message airport episode ill gym canoe";

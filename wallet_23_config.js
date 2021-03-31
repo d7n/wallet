@@ -1,1 +1,1 @@
-var mnemonic = "thrive frame praise nephew hazard mother bus wrist that shadow able notice";
+var mnemonic = "tuition leisure legal cash purchase return topple cave lecture rocket romance wisdom";

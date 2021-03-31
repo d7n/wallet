@@ -1,1 +1,1 @@
-var mnemonic = "year wrist fox result excuse certain glare episode cruel account essence until";
+var mnemonic = "state oak hint safe hunt income coil equip impact maximum soap charge";

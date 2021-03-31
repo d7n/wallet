@@ -1,1 +1,1 @@
-var mnemonic = "civil spring loud push noodle coffee hello stay average ghost decrease power";
+var mnemonic = "ready worth wire joke require mean nose ostrich myth borrow trophy surge";

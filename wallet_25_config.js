@@ -1,1 +1,1 @@
-var mnemonic = "advance dirt alert matter donor civil forum item sense muffin bar mercy";
+var mnemonic = "cable myth shine sunny minimum truly cricket oblige shrimp cross learn hold";

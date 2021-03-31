@@ -1,1 +1,1 @@
-var mnemonic = "gloom mother chicken elegant arrest crystal display battle rifle wasp south auto";
+var mnemonic = "bind truck cup ecology legal pelican element claim blush amateur clip source";

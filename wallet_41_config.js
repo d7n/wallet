@@ -1,1 +1,1 @@
-var mnemonic = "bulb wrist journey scatter subway online run live melt clean virtual assault";
+var mnemonic = "street useless radio loyal angry social ten spike crater flat knock glow";

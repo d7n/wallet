@@ -1,1 +1,1 @@
-var mnemonic = "flush execute message humor mom absorb oblige envelope rough dawn raw again";
+var mnemonic = "citizen robot one own find vivid erosion under caution deliver six because";

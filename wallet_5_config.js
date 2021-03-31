@@ -1,1 +1,1 @@
-var mnemonic = "leisure junk target add frequent situate bracket fetch enable matrix brass fiber";
+var mnemonic = "head step force smooth sketch help cave useful glimpse crater spoil naive";

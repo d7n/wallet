@@ -1,1 +1,1 @@
-var mnemonic = "mention bulk seed they theme pride inch shadow suit riot refuse crater";
+var mnemonic = "pledge bracket copy before rural nerve author cat cradle suspect document horn";

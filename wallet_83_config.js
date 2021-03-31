@@ -1,1 +1,1 @@
-var mnemonic = "clever upper poem catalog garment total bunker aisle enroll section payment future";
+var mnemonic = "green trim search vessel label tree relief giraffe rate stove plug title";

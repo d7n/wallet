@@ -1,1 +1,1 @@
-var mnemonic = "lucky discover rent credit glad reveal before urge quarter reason laugh settle";
+var mnemonic = "business notice excite identify grain output loan blade cart shove ocean salon";

@@ -1,1 +1,1 @@
-var mnemonic = "arch giraffe viable life welcome manual spell attract fringe auto intact island";
+var mnemonic = "angle public chapter analyst front ten wild task parrot work upper maple";

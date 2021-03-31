@@ -1,1 +1,1 @@
-var mnemonic = "giant seminar civil hobby cost resemble online kidney under barrel alarm clerk";
+var mnemonic = "quiz record huge envelope rotate cabin current drop tiger dish fine east";

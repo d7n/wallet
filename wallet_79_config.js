@@ -1,1 +1,1 @@
-var mnemonic = "east blame sport joy elephant solid robot prize degree wet park swamp";
+var mnemonic = "usual enhance option trend panic verb wolf test rack arctic ocean message";

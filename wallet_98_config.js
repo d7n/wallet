@@ -1,1 +1,1 @@
-var mnemonic = "logic claim cigar nurse calm occur mixed tiny rescue heavy nuclear midnight";
+var mnemonic = "educate almost glide insane harsh unusual play hamster meadow chalk fork kid";

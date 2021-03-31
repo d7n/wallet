@@ -1,1 +1,1 @@
-var mnemonic = "riot analyst vanish idle magic latin feature mass enroll leisure bamboo arrive";
+var mnemonic = "another group trouble laugh basic write reveal mail then script cannon online";

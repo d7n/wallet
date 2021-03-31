@@ -1,1 +1,1 @@
-var mnemonic = "lottery cross demise scorpion example destroy unusual media undo cigar poem choice";
+var mnemonic = "skill tornado bid sibling field crack juice maple please proud business timber";

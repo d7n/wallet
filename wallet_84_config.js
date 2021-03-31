@@ -1,1 +1,1 @@
-var mnemonic = "heart scan nest cabbage damp during genre swarm swim door false plastic";
+var mnemonic = "mean access satisfy mosquito knife chimney wonder marine tell gaze kite fossil";

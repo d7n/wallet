@@ -1,1 +1,1 @@
-var mnemonic = "farm cave arrow security cattle right rack pudding frozen chair worry view";
+var mnemonic = "cloth final title recall pause chronic bag letter retire merry potato episode";

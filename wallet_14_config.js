@@ -1,1 +1,1 @@
-var mnemonic = "snack clever monkey mouse thunder mango budget various dutch sponsor system present";
+var mnemonic = "volcano boost job salute timber capital face purpose crew hotel crush brave";

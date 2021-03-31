@@ -1,1 +1,1 @@
-var mnemonic = "skate material cruise slight corn now borrow hurt industry zebra feel produce";
+var mnemonic = "saddle spawn mouse weekend manage title spare affair coach absent utility caught";

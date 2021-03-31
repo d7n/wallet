@@ -1,1 +1,1 @@
-var mnemonic = "icon south hockey sail sibling stove alter fee august help limit seat";
+var mnemonic = "section camp glow piece diesel hamster devote text scrap purpose toss snap";

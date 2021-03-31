@@ -1,1 +1,1 @@
-var mnemonic = "avoid notable blush latin champion occur captain banana similar cube urban ball";
+var mnemonic = "monster spice frown outer search item upper toilet auto runway refuse resist";

@@ -1,1 +1,1 @@
-var mnemonic = "toe prevent mom proof rib able dish pilot abstract high poet urge";
+var mnemonic = "hold blush boat truth act obtain resemble pledge gain suggest bomb drill";

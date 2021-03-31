@@ -1,1 +1,1 @@
-var mnemonic = "urban minute decorate drift become street lab catalog cost viable project near";
+var mnemonic = "example mango inquiry door wasp unit place squirrel reunion clump useless side";

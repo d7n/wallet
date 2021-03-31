@@ -1,1 +1,1 @@
-var mnemonic = "frame legend range then bind spike cart walnut rug hood rhythm seven";
+var mnemonic = "runway kind impose wisdom void alter blame ostrich invest report cup must";

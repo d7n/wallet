@@ -1,1 +1,1 @@
-var mnemonic = "comic file client divert asset rhythm illness cabin circle curious injury pudding";
+var mnemonic = "embark major mosquito property trim finish luggage erupt industry please taxi social";

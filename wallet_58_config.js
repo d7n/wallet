@@ -1,1 +1,1 @@
-var mnemonic = "bring drill boat siren medal survey dilemma globe list sail drift dilemma";
+var mnemonic = "treat gaze earn amazing village safe tackle empower emerge crunch proof nice";

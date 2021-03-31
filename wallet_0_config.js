@@ -1,1 +1,1 @@
-var mnemonic = "rapid angle lecture snack eyebrow charge legend weapon push pencil owner evoke";
+var mnemonic = "phrase wrestle valid unable knee diagram upset finish guilt base crouch early";

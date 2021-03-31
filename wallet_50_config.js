@@ -1,1 +1,1 @@
-var mnemonic = "enlist scheme sick loud hamster burden stay raven scorpion gossip slide price";
+var mnemonic = "predict helmet lens champion meadow table kangaroo key ski ten fresh use";

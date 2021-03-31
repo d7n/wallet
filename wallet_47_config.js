@@ -1,1 +1,1 @@
-var mnemonic = "slam observe arrow shock cement shed buyer army foot leader stairs require";
+var mnemonic = "swift little better estate patrol scout make goddess slim coast loud sphere";

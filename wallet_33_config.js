@@ -1,1 +1,1 @@
-var mnemonic = "identify sand metal author tobacco odor submit hawk used civil ice sense";
+var mnemonic = "helmet column horn middle voice recipe real sadness truly leader enjoy receive";

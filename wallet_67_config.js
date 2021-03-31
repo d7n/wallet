@@ -1,1 +1,1 @@
-var mnemonic = "jelly roast rebuild recipe day end magic join belt usage profit pass";
+var mnemonic = "swarm own brown manage audit segment minute orient inform garlic stumble scheme";

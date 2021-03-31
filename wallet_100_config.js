@@ -1,1 +1,1 @@
-var mnemonic = "razor lizard fossil struggle exhaust outside matrix hill tent today art measure";
+var mnemonic = "radar harbor like recall library paper humor cash foot crowd size nasty";

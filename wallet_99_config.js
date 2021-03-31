@@ -1,1 +1,1 @@
-var mnemonic = "bring conduct dance portion shock custom smoke hen bronze maze knock target";
+var mnemonic = "win alpha giraffe blouse scatter seed disagree daughter crazy security citizen develop";

@@ -1,1 +1,1 @@
-var mnemonic = "cancel then update column brother erase wish atom large cool end erode";
+var mnemonic = "cinnamon degree upon damage ramp summer menu labor all alpha exercise impose";

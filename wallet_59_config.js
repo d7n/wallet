@@ -1,1 +1,1 @@
-var mnemonic = "dose color head shoe soap cloud song crop elephant medal maze rare";
+var mnemonic = "around sound topple welcome medal frame excess dinosaur act link aunt guilt";

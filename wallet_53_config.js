@@ -1,1 +1,1 @@
-var mnemonic = "entire ignore omit boost sudden junk still caution square render chalk found";
+var mnemonic = "castle notable very teach genius park spike sleep price allow settle churn";

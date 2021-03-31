@@ -1,1 +1,1 @@
-var mnemonic = "leader employ trigger maze corn excite priority bean degree snow prefer mail";
+var mnemonic = "west assume scissors journey club pottery shove gentle fever liquid hand shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "egg salute nephew strong lucky edit pen gasp picnic link song fashion";
+var mnemonic = "fluid mushroom fossil sing hint minimum apology angry off toilet fame steel";

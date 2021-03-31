@@ -1,1 +1,1 @@
-var mnemonic = "team hidden finger pledge push almost dirt angry orbit note viable aisle";
+var mnemonic = "fan never banner gain night stay stadium weekend wife pluck dirt host";

@@ -1,1 +1,1 @@
-var mnemonic = "brain zero else submit such task music hundred flash unit caught lemon";
+var mnemonic = "noble critic onion lottery then limb note summer poet fix scissors inquiry";

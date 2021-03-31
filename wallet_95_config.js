@@ -1,1 +1,1 @@
-var mnemonic = "noble envelope unknown busy people cabin extend romance crystal mimic diet next";
+var mnemonic = "river bless borrow manage tiny arch oppose soldier again rhythm write soap";

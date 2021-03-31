@@ -1,1 +1,1 @@
-var mnemonic = "bomb flock obey art one suggest tired one ensure couch pyramid trumpet";
+var mnemonic = "cannon close whisper awesome slender harsh dismiss grain auto insane rural medal";

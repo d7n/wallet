@@ -1,1 +1,1 @@
-var mnemonic = "remember install dinosaur wine despair insect mystery truth glue soap deny frozen";
+var mnemonic = "social usage cinnamon abuse flavor twelve satoshi awesome seek immune home secret";

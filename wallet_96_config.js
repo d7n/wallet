@@ -1,1 +1,1 @@
-var mnemonic = "cat bright polar curtain hat online monkey feature worry select coin arch";
+var mnemonic = "zone stove liberty bamboo unhappy orbit nature impact slogan family joy vehicle";

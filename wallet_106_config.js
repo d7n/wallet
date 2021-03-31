@@ -1,1 +1,1 @@
-var mnemonic = "vendor they clay mobile toss depart win lemon level action pudding produce";
+var mnemonic = "captain artwork gesture segment daughter harbor issue identify neglect oppose pair orient";

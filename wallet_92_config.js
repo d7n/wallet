@@ -1,1 +1,1 @@
-var mnemonic = "essay word wild rail solar you one text cram supreme pretty mammal";
+var mnemonic = "whip dance festival else lady peasant develop elevator fiber pizza industry tube";

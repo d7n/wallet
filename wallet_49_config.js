@@ -1,1 +1,1 @@
-var mnemonic = "turn excess hawk knee desk kiss solid term primary travel wing solution";
+var mnemonic = "actress autumn crouch start review swim dash labor odor tooth transfer injury";

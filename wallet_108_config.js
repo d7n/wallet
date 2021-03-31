@@ -1,1 +1,1 @@
-var mnemonic = "primary regret hobby quantum shop bacon shoot trash slam craft account rule";
+var mnemonic = "spawn merge antenna beach scare oxygen exist cousin fat squeeze neutral depth";

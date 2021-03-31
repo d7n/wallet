@@ -1,1 +1,1 @@
-var mnemonic = "large shove rural essence antique all whale spoon reward gloom govern hair";
+var mnemonic = "salon crisp vivid bread cabin visa state phrase awake coach before fantasy";

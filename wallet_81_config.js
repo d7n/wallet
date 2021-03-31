@@ -1,1 +1,1 @@
-var mnemonic = "penalty uncover olympic reject mutual make pluck couch razor bus name hen";
+var mnemonic = "rich virus pioneer oxygen dance learn inherit almost jump sad bundle sword";

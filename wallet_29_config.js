@@ -1,1 +1,1 @@
-var mnemonic = "execute gap salt once iron invest hotel device easily hover genius gun";
+var mnemonic = "camp viable clown misery element average town already bicycle argue produce repair";

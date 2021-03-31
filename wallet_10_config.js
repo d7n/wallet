@@ -1,1 +1,1 @@
-var mnemonic = "useless mammal lecture bench lobster also clinic moral avoid castle author need";
+var mnemonic = "bullet dolphin object chalk eight evolve rather oppose laptop license toilet imitate";

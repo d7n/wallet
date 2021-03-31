@@ -1,1 +1,1 @@
-var mnemonic = "again ability typical resist crunch latin team before visual twice cable miracle";
+var mnemonic = "crop opera major wrestle reason play impose helmet disorder equal tilt august";

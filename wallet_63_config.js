@@ -1,1 +1,1 @@
-var mnemonic = "venue divert energy survey industry soldier clip quick angry loan resemble frame";
+var mnemonic = "mixture dash office fade surprise tunnel pulp play upgrade bomb gain behave";

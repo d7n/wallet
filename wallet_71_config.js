@@ -1,1 +1,1 @@
-var mnemonic = "help winner elite apart cradle bring famous ensure subway social torch volcano";
+var mnemonic = "venue can fringe manage juice direct fire useful pond execute domain harsh";

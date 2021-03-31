@@ -1,1 +1,1 @@
-var mnemonic = "ribbon news charge cherry lottery script tide grit cream best welcome venue";
+var mnemonic = "uncle sustain ill raw glass title club kick buddy cement marine equal";

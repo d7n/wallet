@@ -1,1 +1,1 @@
-var mnemonic = "change leisure intact fortune output survey author split sun leave cream amazing";
+var mnemonic = "panda flame pottery romance maximum visual century genuine mail blue frame suit";

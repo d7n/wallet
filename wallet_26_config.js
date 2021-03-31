@@ -1,1 +1,1 @@
-var mnemonic = "fox equip steel weird orient victory violin mammal endorse forum helmet lawn";
+var mnemonic = "blur craft rice switch debate produce agree news alcohol genuine arm slice";

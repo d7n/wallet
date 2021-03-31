@@ -1,1 +1,1 @@
-var mnemonic = "economy scissors code quote twin must predict elegant hurt monitor group dry";
+var mnemonic = "escape crucial best pretty knife multiply fringe input misery eight garlic stairs";

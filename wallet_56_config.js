@@ -1,1 +1,1 @@
-var mnemonic = "weather poet frequent cruel garment way neutral hat shrimp assume slight decide";
+var mnemonic = "primary loan fruit truly person snap merge spin mutual version prepare donkey";

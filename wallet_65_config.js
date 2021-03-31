@@ -1,1 +1,1 @@
-var mnemonic = "position auto drink prosper copper chuckle topple usual erupt nature scissors ozone";
+var mnemonic = "clap silver address grape laundry drive ten corn gravity blouse piano combine";

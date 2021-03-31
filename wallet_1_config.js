@@ -1,1 +1,1 @@
-var mnemonic = "plate almost sort love leaf jaguar aunt maid syrup weird retire husband";
+var mnemonic = "doctor carpet february rib arrest update sauce bag clock siren miracle violin";

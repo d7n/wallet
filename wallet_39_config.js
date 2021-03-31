@@ -1,1 +1,1 @@
-var mnemonic = "dirt enjoy flush kit explain pair scheme slender bid boil income shift";
+var mnemonic = "hover range girl add trust forest merry stable valid search frog raven";

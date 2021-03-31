@@ -1,1 +1,1 @@
-var mnemonic = "shoe movie similar jacket fork destroy assault moral inquiry ready defy age";
+var mnemonic = "opinion kid clever suit youth quarter genre robust drip judge alert invite";

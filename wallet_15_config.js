@@ -1,1 +1,1 @@
-var mnemonic = "express smooth extend gas demand series infant stumble derive acid arena organ";
+var mnemonic = "mix hawk hospital glance walnut place orient phrase vivid security artefact orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "forest dawn clean near scrap web maze unfold surround crack approve marriage";
+var mnemonic = "fuel negative juice diesel stomach fiscal country kangaroo thrive mistake biology gossip";

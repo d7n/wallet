@@ -1,1 +1,1 @@
-var mnemonic = "useful symptom sorry illegal slush amateur bunker glad measure upon scale lion";
+var mnemonic = "motion unknown metal vacuum source eyebrow novel pulp junk become word dentist";

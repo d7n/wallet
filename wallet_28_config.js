@@ -1,1 +1,1 @@
-var mnemonic = "lucky company noble entry carry sun help chest own pepper engage afford";
+var mnemonic = "orient index effort equip insect warfare nuclear hello swift allow girl favorite";

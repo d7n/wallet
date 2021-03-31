@@ -1,1 +1,1 @@
-var mnemonic = "quote welcome twin warm van chest deliver network weather winter pigeon knife";
+var mnemonic = "soldier goddess cactus keep hospital onion whip frog load federal move liar";

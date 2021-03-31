@@ -1,1 +1,1 @@
-var mnemonic = "speak imitate tilt avoid lobster bicycle course peasant kiss immense dwarf shallow";
+var mnemonic = "account unfair armor girl circle river else eyebrow senior weird illegal tank";

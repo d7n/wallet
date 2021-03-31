@@ -1,1 +1,1 @@
-var mnemonic = "satoshi jacket wisdom width enough swap drastic write length this resist tomorrow";
+var mnemonic = "grab bitter usual obvious flock fatigue mechanic couple belt spare boss draft";

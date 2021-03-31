@@ -1,1 +1,1 @@
-var mnemonic = "teach oven silver apple reveal jar broken spot early heart hurdle asthma";
+var mnemonic = "leisure beyond marble remove lamp grow easy fog load pear jewel antique";

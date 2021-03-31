@@ -1,1 +1,1 @@
-var mnemonic = "disorder sell assault afraid renew govern only member dilemma wine scorpion gate";
+var mnemonic = "throw document exclude inhale cute earn coil quote problem cost female damage";

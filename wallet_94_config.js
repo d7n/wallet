@@ -1,1 +1,1 @@
-var mnemonic = "bulk switch witness sound liar way bomb hockey inhale return trap surface";
+var mnemonic = "lunar husband badge ladder today horn sudden float unhappy carbon volume rather";

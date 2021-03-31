@@ -1,1 +1,1 @@
-var mnemonic = "crime notable lounge genre hungry tonight initial pyramid equip asset sadness picture";
+var mnemonic = "program way proud true length recall yard proud empower small response account";
