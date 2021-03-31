@@ -1,1 +1,1 @@
-var mnemonic = "student number dilemma gather game smoke cousin since type spoon history wash";
+var mnemonic = "chimney shed load riot verify crime toss crop matter inhale earth excess";

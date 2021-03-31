@@ -1,1 +1,1 @@
-var mnemonic = "bean island dwarf unable range list airport hundred merit balcony pond resource";
+var mnemonic = "bunker knee dignity feature chronic advice weasel milk hidden sock share size";

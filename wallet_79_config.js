@@ -1,1 +1,1 @@
-var mnemonic = "cheese peanut adult found reject gravity drastic silver valve cover alien cigar";
+var mnemonic = "retire panel marble urban outdoor payment sauce tiny limit amount upper trade";

@@ -1,1 +1,1 @@
-var mnemonic = "chef team chief region mixture cargo remember hard kitchen casual square desert";
+var mnemonic = "morning can already adapt elephant under sausage clever erupt lawsuit hard warfare";

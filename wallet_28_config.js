@@ -1,1 +1,1 @@
-var mnemonic = "bleak move eager quote edit become vacant impulse seven action night hood";
+var mnemonic = "friend sister cigar blood oil release firm grid hold manage wet cry";

@@ -1,1 +1,1 @@
-var mnemonic = "swim visit weasel valve betray put veteran mobile elephant drama economy topic";
+var mnemonic = "slam rocket hard indoor duck sustain raven wide poverty protect twice unaware";

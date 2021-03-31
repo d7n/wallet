@@ -1,1 +1,1 @@
-var mnemonic = "initial region fine arm potato sibling dune cool labor boat initial museum";
+var mnemonic = "pitch pretty catalog remind boring dwarf salon success civil ready transfer vendor";

@@ -1,1 +1,1 @@
-var mnemonic = "under can romance tired stand cycle glad miss economy impose resist venture";
+var mnemonic = "cheese input battle audit nasty tide glimpse number drink gold memory cool";

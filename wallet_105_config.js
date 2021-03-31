@@ -1,1 +1,1 @@
-var mnemonic = "above help tunnel fold slender glove legend pause dove lesson gaze violin";
+var mnemonic = "access burger market visual exact leg early hood sign seed gap token";

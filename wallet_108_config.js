@@ -1,1 +1,1 @@
-var mnemonic = "cancel muscle today clutch deal bird salon mouse memory hotel step uniform";
+var mnemonic = "pull shell pet health keep zone seat mother own vapor metal spawn";

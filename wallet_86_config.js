@@ -1,1 +1,1 @@
-var mnemonic = "path transfer common account stamp unaware input hurt course caution town bright";
+var mnemonic = "nation swarm supply gadget embrace exchange scene annual canal idea devote stadium";

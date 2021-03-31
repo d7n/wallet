@@ -1,1 +1,1 @@
-var mnemonic = "abstract hire champion milk recipe start begin expand access spike silly table";
+var mnemonic = "escape able delay frequent super craft lunch actress into cloth bronze clinic";

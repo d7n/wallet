@@ -1,1 +1,1 @@
-var mnemonic = "fashion pill pull illegal dentist jar flush prosper brass critic spray asset";
+var mnemonic = "trim kit mushroom diary gadget note wink image height snap very share";

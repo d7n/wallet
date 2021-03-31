@@ -1,1 +1,1 @@
-var mnemonic = "expand leopard custom silver injury match evidence morning town cat tell glare";
+var mnemonic = "claw hint manual slot zone gospel ship arrange inform insect inner flat";

@@ -1,1 +1,1 @@
-var mnemonic = "inside sister predict vapor display insect spice arrow parent pig mom riot";
+var mnemonic = "doll rotate walk inmate garage timber burst erase just since business curious";

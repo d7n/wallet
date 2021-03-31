@@ -1,1 +1,1 @@
-var mnemonic = "profit shrug wear amused skill energy jump bunker airport maid grief awake";
+var mnemonic = "misery faculty name erase museum blame skill salad result shy indicate success";

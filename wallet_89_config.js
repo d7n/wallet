@@ -1,1 +1,1 @@
-var mnemonic = "lamp furnace dash joke stereo bronze powder news evidence load royal enrich";
+var mnemonic = "account frog coral more arrest motor vague napkin box immense resemble sadness";

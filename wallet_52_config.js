@@ -1,1 +1,1 @@
-var mnemonic = "brass asset you come solution husband peasant oak dance insane tissue perfect";
+var mnemonic = "accuse trend cram clog early mule ghost earn worry uncle path loud";

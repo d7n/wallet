@@ -1,1 +1,1 @@
-var mnemonic = "release mimic same potato couch butter load verb cram oven reject whisper";
+var mnemonic = "myth diet rice bargain survey flash brave update female series toe idle";

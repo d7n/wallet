@@ -1,1 +1,1 @@
-var mnemonic = "flower vivid try rack history skull risk dignity orbit run exact bless";
+var mnemonic = "quiz quiz lemon embrace run ginger duck peace calm labor tone predict";

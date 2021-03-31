@@ -1,1 +1,1 @@
-var mnemonic = "gun rescue tuition mind toward shop effort weapon moon relief resource gravity";
+var mnemonic = "will book illegal bunker property friend ensure zebra hurt luxury crunch field";

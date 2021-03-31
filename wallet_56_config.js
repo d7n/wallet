@@ -1,1 +1,1 @@
-var mnemonic = "across senior nation dove rate tray target angle erosion short emotion idea";
+var mnemonic = "private emotion valley file dance attitude fantasy feature echo sadness mutual age";

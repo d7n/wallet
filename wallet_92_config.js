@@ -1,1 +1,1 @@
-var mnemonic = "only tilt cactus property injury hold swamp pig degree lava lab improve";
+var mnemonic = "talent quantum room stadium film belt since grape finish service modify version";

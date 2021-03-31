@@ -1,1 +1,1 @@
-var mnemonic = "text measure assist funny tool family pole range regular cross trial file";
+var mnemonic = "science elite barrel slogan ring dune giggle energy toddler guilt canal pulse";

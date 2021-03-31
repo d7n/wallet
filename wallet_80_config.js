@@ -1,1 +1,1 @@
-var mnemonic = "velvet estate bring anger neither toilet sight swift moon antenna spin embrace";
+var mnemonic = "donate dismiss yard walnut satisfy bread tragic daughter empty card extend sport";

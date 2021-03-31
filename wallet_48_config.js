@@ -1,1 +1,1 @@
-var mnemonic = "defy heavy panel smart air scorpion miracle puzzle glove twice tornado spoon";
+var mnemonic = "repair slide away under jungle start cup grain auction marble risk rescue";

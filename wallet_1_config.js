@@ -1,1 +1,1 @@
-var mnemonic = "unusual credit unusual jaguar wet glad evolve midnight dawn siege ring twenty";
+var mnemonic = "then army jacket salt mansion voice provide thumb tuna candy peasant place";

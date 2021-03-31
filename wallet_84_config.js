@@ -1,1 +1,1 @@
-var mnemonic = "nasty top school room rubber renew flag mouse dumb hidden thrive female";
+var mnemonic = "noise flock now search length smooth lift amateur shield spray grab wheel";

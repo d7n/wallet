@@ -1,1 +1,1 @@
-var mnemonic = "erosion rose trouble bamboo flight link peace drum crush exclude order next";
+var mnemonic = "expose carry reason gorilla such aim attack surface april february unfold belt";

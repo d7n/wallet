@@ -1,1 +1,1 @@
-var mnemonic = "nephew teach gown trophy share cube guard reopen bird copper improve spatial";
+var mnemonic = "already absorb any mule problem fiber wheel logic amazing clinic curve twin";

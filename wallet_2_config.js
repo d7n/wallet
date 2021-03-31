@@ -1,1 +1,1 @@
-var mnemonic = "rely witness expire diesel judge basic oxygen cherry shoe discover sibling stuff";
+var mnemonic = "rate prosper top case topple senior dragon simple erosion hire size barely";

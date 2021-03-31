@@ -1,1 +1,1 @@
-var mnemonic = "rebel east busy speak require layer run indoor language ice leaf orbit";
+var mnemonic = "audit tuna exclude lottery worry girl genius range liquid force fan october";

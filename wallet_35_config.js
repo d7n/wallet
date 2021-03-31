@@ -1,1 +1,1 @@
-var mnemonic = "tone tunnel hazard fold liar brisk warm inner appear medal lucky common";
+var mnemonic = "pole van route decorate fog traffic solve glow park swarm define clever";

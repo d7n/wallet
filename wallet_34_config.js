@@ -1,1 +1,1 @@
-var mnemonic = "jaguar spice dog story plug early gesture menu physical cabbage spend wet";
+var mnemonic = "security extra various load random student beyond mirror jungle chair vapor remember";

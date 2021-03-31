@@ -1,1 +1,1 @@
-var mnemonic = "radio sun hair father pluck provide check inch furnace thank unit cricket";
+var mnemonic = "hurt crucial enrich panther leave cycle ostrich cream cave lazy repair very";

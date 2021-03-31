@@ -1,1 +1,1 @@
-var mnemonic = "exile eight vehicle ability tonight cable mix purity also evoke tape maximum";
+var mnemonic = "warrior fantasy involve swing staff company damage result gym between civil apple";

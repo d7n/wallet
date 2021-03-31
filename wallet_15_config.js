@@ -1,1 +1,1 @@
-var mnemonic = "evidence when wine jeans recipe stomach furnace chalk below aunt connect cover";
+var mnemonic = "clarify onion cigar timber better maid trigger below hire script then object";

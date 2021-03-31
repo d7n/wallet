@@ -1,1 +1,1 @@
-var mnemonic = "duck list pottery pony theme vacant survey mammal method category undo invest";
+var mnemonic = "gun dish position left come frown mention web easily agent weapon define";

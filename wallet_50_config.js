@@ -1,1 +1,1 @@
-var mnemonic = "axis pause december praise broccoli table ramp frog crop vessel arrest diesel";
+var mnemonic = "sugar aim ramp trip hockey age hint wait start grass cabbage convince";

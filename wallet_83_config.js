@@ -1,1 +1,1 @@
-var mnemonic = "number live pact boost castle creek double slim parent duty first tribe";
+var mnemonic = "army fine scissors toward fever capable elevator song prize position organ warm";

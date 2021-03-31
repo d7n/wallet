@@ -1,1 +1,1 @@
-var mnemonic = "range error visual kangaroo awake display garbage uphold shadow disagree sure alter";
+var mnemonic = "depth supreme hidden hedgehog coffee glory next creek once shrug duty group";

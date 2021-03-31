@@ -1,1 +1,1 @@
-var mnemonic = "tribe demand okay whale pepper amount magic huge first index inside myth";
+var mnemonic = "tuition join route this nest credit panel more multiply afraid journey round";

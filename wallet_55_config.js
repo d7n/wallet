@@ -1,1 +1,1 @@
-var mnemonic = "mixed click kick dwarf because sign bargain citizen brave bullet prevent innocent";
+var mnemonic = "brain chat water repeat use seminar still keen deposit hub wink century";

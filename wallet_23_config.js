@@ -1,1 +1,1 @@
-var mnemonic = "moral horse fashion enable describe spider purpose home sausage then pipe expose";
+var mnemonic = "entry junior push kit pink robot season narrow rifle retreat spy island";

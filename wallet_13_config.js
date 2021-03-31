@@ -1,1 +1,1 @@
-var mnemonic = "decide normal bench observe home fish already solid fat wage various mango";
+var mnemonic = "mobile surface garden live cage frame master mind cute mansion thought hat";

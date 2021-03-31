@@ -1,1 +1,1 @@
-var mnemonic = "upgrade illness venture child pet program festival grab brass accident large expose";
+var mnemonic = "stuff scene cloth list agree nuclear frequent process fatal either unaware include";

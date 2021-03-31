@@ -1,1 +1,1 @@
-var mnemonic = "document pottery benefit spoon reason brick increase author priority man chest arena";
+var mnemonic = "paper doctor spin wheel harvest still also mosquito reduce steel pole diet";

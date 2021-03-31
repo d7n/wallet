@@ -1,1 +1,1 @@
-var mnemonic = "secret furnace illegal garden photo inhale collect wealth mechanic wealth similar sight";
+var mnemonic = "people prefer blue beyond slow wisdom coin whale fashion river recipe almost";

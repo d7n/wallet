@@ -1,1 +1,1 @@
-var mnemonic = "bounce ticket margin slab stem wonder two noble unveil scheme session that";
+var mnemonic = "until kick renew pyramid woman talent tail hobby evolve team emotion upon";

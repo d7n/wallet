@@ -1,1 +1,1 @@
-var mnemonic = "humble river spoon praise ritual anchor isolate mouse panda acquire width safe";
+var mnemonic = "auction polar april have custom priority merit fever woman celery useful seed";

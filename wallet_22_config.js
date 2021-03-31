@@ -1,1 +1,1 @@
-var mnemonic = "catalog submit tomato dash victory wear square disease teach baby zero spirit";
+var mnemonic = "obtain people reject tomorrow hip hill dial coral return north path summer";

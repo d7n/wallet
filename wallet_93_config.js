@@ -1,1 +1,1 @@
-var mnemonic = "lecture silent nose pill rapid unit grid amused hat inherit try peanut";
+var mnemonic = "fat size consider tuition fatal resist disagree scare ritual vessel faint escape";

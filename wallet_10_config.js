@@ -1,1 +1,1 @@
-var mnemonic = "bus vapor pipe about purity choose baby dad heavy scrap obscure rigid";
+var mnemonic = "recall cute behind wife vanish regular good strong hello retreat vendor ski";

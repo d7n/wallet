@@ -1,1 +1,1 @@
-var mnemonic = "year foster alarm unlock cook swing rifle rose retire quality apart utility";
+var mnemonic = "book slab puppy solid clap strategy staff trouble scorpion east wedding stuff";

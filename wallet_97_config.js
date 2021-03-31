@@ -1,1 +1,1 @@
-var mnemonic = "buyer toward ensure virtual skill put lucky slush action victory fine sting";
+var mnemonic = "frozen arctic protect attitude morning same claw nose radio skirt flock spice";

@@ -1,1 +1,1 @@
-var mnemonic = "gravity repeat lazy impose devote inflict street clean assist wood patient trim";
+var mnemonic = "cement chief leaf culture swear drip nice forward sport chimney boost piece";

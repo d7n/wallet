@@ -1,1 +1,1 @@
-var mnemonic = "expand current shaft journey turkey mercy unusual front bright cause step sport";
+var mnemonic = "swear clever useful document subject captain debris desk neutral smart tiny aim";

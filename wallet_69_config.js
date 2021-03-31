@@ -1,1 +1,1 @@
-var mnemonic = "affair custom cheese document spawn just struggle achieve bounce purpose energy erase";
+var mnemonic = "arch bargain employ essay grant cup home saddle rich receive unhappy borrow";

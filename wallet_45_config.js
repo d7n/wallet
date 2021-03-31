@@ -1,1 +1,1 @@
-var mnemonic = "stage solution viable imitate clean depend already dice ugly hope that estate";
+var mnemonic = "inquiry word danger pipe demise wash trend amount trim beyond thumb slot";

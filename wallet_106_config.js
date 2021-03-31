@@ -1,1 +1,1 @@
-var mnemonic = "spice arena situate october torch garage test bitter swallow belt gallery oven";
+var mnemonic = "dust baby venture wash double cloth fan skirt aisle finish way crunch";

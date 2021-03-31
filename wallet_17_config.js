@@ -1,1 +1,1 @@
-var mnemonic = "close edge lecture kite galaxy bamboo cloud great club spare myth base";
+var mnemonic = "tunnel asthma obscure uphold soccer twice twelve fitness then when cargo guide";

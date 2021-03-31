@@ -1,1 +1,1 @@
-var mnemonic = "afraid laptop globe tool outside work excite usage buzz ship toast copper";
+var mnemonic = "champion ask portion mouse embrace work cushion clutch clown rhythm story tonight";

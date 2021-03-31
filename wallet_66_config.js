@@ -1,1 +1,1 @@
-var mnemonic = "strong today only rude wood okay pave win judge gather inquiry umbrella";
+var mnemonic = "stay garage resist super egg job hour reflect wish hint rigid method";

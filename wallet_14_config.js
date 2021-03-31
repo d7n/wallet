@@ -1,1 +1,1 @@
-var mnemonic = "shock solar judge tobacco tape ten mesh fence shrimp diamond early similar";
+var mnemonic = "spend school vintage hold recycle slice clog asset salmon truck issue into";

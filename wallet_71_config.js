@@ -1,1 +1,1 @@
-var mnemonic = "column fire coin simple fence alien vivid blame sustain six fuel harvest";
+var mnemonic = "resist speed speed erupt castle castle popular drift winter holiday hand venture";

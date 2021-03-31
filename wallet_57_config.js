@@ -1,1 +1,1 @@
-var mnemonic = "marriage diamond gas silent flock system phone anxiety useful monster symptom holiday";
+var mnemonic = "hero ship aware behind grape luggage milk reform click horror theme humor";

@@ -1,1 +1,1 @@
-var mnemonic = "trim genius lend live interest eight napkin away that pattern strike scale";
+var mnemonic = "sample piano radio enable demise save tip drill power voyage arrive endless";

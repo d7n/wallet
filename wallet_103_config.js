@@ -1,1 +1,1 @@
-var mnemonic = "meadow require express creek can demand what sphere shuffle wave avocado energy";
+var mnemonic = "icon evoke habit enemy unique noble walnut lab spy unusual hover age";

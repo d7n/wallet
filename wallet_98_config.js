@@ -1,1 +1,1 @@
-var mnemonic = "trap resource swift mask master power upon search mandate umbrella truly squirrel";
+var mnemonic = "victory napkin foot speed cabbage pony small bleak system used collect improve";

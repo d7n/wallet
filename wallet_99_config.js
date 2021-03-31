@@ -1,1 +1,1 @@
-var mnemonic = "equip elder poverty drive squeeze stem spawn harvest usual raise feed crew";
+var mnemonic = "umbrella anchor alley witness bronze surprise minute only clip journey carbon style";

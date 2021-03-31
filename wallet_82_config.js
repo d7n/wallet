@@ -1,1 +1,1 @@
-var mnemonic = "valid brain stand oven pigeon cake black exercise copper diagram agree distance";
+var mnemonic = "inspire vintage jaguar easy addict lemon blast bind lion once mixture print";

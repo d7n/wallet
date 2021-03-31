@@ -1,1 +1,1 @@
-var mnemonic = "vote organ win require arrive advice bullet garden sniff finish never around";
+var mnemonic = "angry embark question exit analyst vessel talent expand various knock thought gold";

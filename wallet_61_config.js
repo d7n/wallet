@@ -1,1 +1,1 @@
-var mnemonic = "minor roast faint bridge pretty flip fetch mule concert urban flat arrow";
+var mnemonic = "law start leaf outer manage gown firm someone blood repair when equal";

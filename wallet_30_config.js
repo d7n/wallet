@@ -1,1 +1,1 @@
-var mnemonic = "rival quantum airport absorb sort total forward canvas panda enlist clever net";
+var mnemonic = "frequent lottery volcano pause discover tell exist save escape night cube menu";

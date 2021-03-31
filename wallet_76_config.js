@@ -1,1 +1,1 @@
-var mnemonic = "install false project yard avoid develop custom idea beach render ticket plug";
+var mnemonic = "know hip edge travel divert acquire cushion tribe such hub dress index";

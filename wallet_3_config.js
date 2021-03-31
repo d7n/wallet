@@ -1,1 +1,1 @@
-var mnemonic = "grab crew hurdle require whip inherit box evolve robot bitter vintage shiver";
+var mnemonic = "hand correct warfare alert health glimpse snap shoulder ring silent hover inch";

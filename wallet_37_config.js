@@ -1,1 +1,1 @@
-var mnemonic = "soccer zoo average vague dream gym dose ship smoke topple garage final";
+var mnemonic = "orient mechanic bottom potato forget snack mask science provide bubble glass antique";

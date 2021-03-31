@@ -1,1 +1,1 @@
-var mnemonic = "bright used photo winter journey receive avocado wool frown token lens verb";
+var mnemonic = "guide crumble abuse opera rather night today wine truth pattern kingdom piece";

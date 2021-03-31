@@ -1,1 +1,1 @@
-var mnemonic = "vanish cup congress marriage you nice bid unit mom pyramid harsh oval";
+var mnemonic = "alpha endless today find glide doll toy educate page powder into forest";

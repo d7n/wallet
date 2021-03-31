@@ -1,1 +1,1 @@
-var mnemonic = "foot stamp clog neck off knife spot all lion dismiss ski entire";
+var mnemonic = "online bounce jazz screen long century run zebra distance prison usage situate";

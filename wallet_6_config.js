@@ -1,1 +1,1 @@
-var mnemonic = "cook grocery unusual volcano change ritual give develop panther vacant proud honey";
+var mnemonic = "thing bleak clean wrist gold mother tired benefit mirror load cage fence";

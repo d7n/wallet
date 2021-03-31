@@ -1,1 +1,1 @@
-var mnemonic = "need trend movie hover assume atom measure maid talent palace crack viable";
+var mnemonic = "flat dignity frog mesh shift barely science endorse praise vintage spawn acid";

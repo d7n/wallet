@@ -1,1 +1,1 @@
-var mnemonic = "swing crawl actual gun zebra rely crisp raccoon link figure invest purse";
+var mnemonic = "fox way okay hedgehog fat magnet zero scatter local dynamic dream donor";

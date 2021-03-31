@@ -1,1 +1,1 @@
-var mnemonic = "curtain hybrid fringe truth economy legal melody hamster problem earn range essence";
+var mnemonic = "message always awake radar release rookie practice fan eager mail search dog";

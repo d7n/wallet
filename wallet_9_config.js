@@ -1,1 +1,1 @@
-var mnemonic = "humor skirt satisfy moon retire spray movie inquiry silver speed coach rival";
+var mnemonic = "throw swing hour reunion razor next glove annual salute coach state trial";

@@ -1,1 +1,1 @@
-var mnemonic = "label position carpet attitude debate couple ginger bonus sniff gallery inner effort";
+var mnemonic = "double mixture wheat library coach distance mutual neutral theme vital educate bless";

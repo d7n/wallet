@@ -1,1 +1,1 @@
-var mnemonic = "reform female park mango twice wool mimic grow drop forum attitude cricket";
+var mnemonic = "lyrics pupil robust raise shock adapt boat gloom achieve narrow able match";

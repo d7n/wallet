@@ -1,1 +1,1 @@
-var mnemonic = "lecture improve tongue include wall dentist budget warrior leader lava explain excite";
+var mnemonic = "spatial addict liar twice grass cube dream genuine catch fat update walnut";

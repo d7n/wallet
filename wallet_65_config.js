@@ -1,1 +1,1 @@
-var mnemonic = "gate parrot donate hamster perfect pulse debate phone increase outside vehicle swear";
+var mnemonic = "twin trend soccer dawn obey museum change weapon blind gather inch gun";

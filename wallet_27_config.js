@@ -1,1 +1,1 @@
-var mnemonic = "minor push soft sponsor assault rib woman oppose garbage much cash process";
+var mnemonic = "scrub supply rude toilet decorate report lab shove leave vacant shrimp maple";

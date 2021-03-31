@@ -1,1 +1,1 @@
-var mnemonic = "water random tuition pupil waste smoke allow earth repair shrug enjoy spoil";
+var mnemonic = "enjoy tired misery arena friend depart engine derive jump civil tape shaft";

@@ -1,1 +1,1 @@
-var mnemonic = "uniform antique tomato kind patient zero spare dance scrap tomato someone entry";
+var mnemonic = "neck wrong trouble sword prize blade shrug silver ethics grief zoo olive";

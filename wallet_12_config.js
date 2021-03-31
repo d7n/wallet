@@ -1,1 +1,1 @@
-var mnemonic = "silk master reunion early position steak magic tourist farm desk earn stumble";
+var mnemonic = "tuition salon imitate art because claim cradle census sudden exhibit office universe";

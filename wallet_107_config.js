@@ -1,1 +1,1 @@
-var mnemonic = "rate hazard ship vital wreck faith crawl pepper result cinnamon scissors voice";
+var mnemonic = "gate case upon cloud casino name outer zero point dice pet oblige";

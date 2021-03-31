@@ -1,1 +1,1 @@
-var mnemonic = "chalk great type like narrow husband wash fringe arctic cat today pact";
+var mnemonic = "define diagram love ritual chimney shaft essence income two kidney sand patch";
