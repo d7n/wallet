@@ -1,1 +1,1 @@
-var mnemonic = "canoe fortune brief perfect please patrol menu rubber predict bid ability kite";
+var mnemonic = "stand execute struggle taxi ill garage credit latin vote layer cash express";

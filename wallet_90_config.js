@@ -1,1 +1,1 @@
-var mnemonic = "fuel steak seed gorilla across funny payment short breeze buzz humor million";
+var mnemonic = "raise exchange protect leaf paddle faint hurry team lobster pair wool relax";

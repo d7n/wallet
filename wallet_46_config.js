@@ -1,1 +1,1 @@
-var mnemonic = "receive layer salt develop fame buddy absorb output stem topple sand crawl";
+var mnemonic = "remember wet soccer arrest desk dad hybrid escape coconut dismiss ranch believe";

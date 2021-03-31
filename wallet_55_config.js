@@ -1,1 +1,1 @@
-var mnemonic = "short child used salt act sword relief brass service adjust area uniform";
+var mnemonic = "traffic this pony ivory hawk slim enter decade shadow visa slow odor";

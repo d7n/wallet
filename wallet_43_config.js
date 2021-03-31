@@ -1,1 +1,1 @@
-var mnemonic = "hint spirit liar mobile later injury more luxury inherit hundred labor soccer";
+var mnemonic = "assist property fuel wise trumpet lock room physical inherit few wolf alley";

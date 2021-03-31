@@ -1,1 +1,1 @@
-var mnemonic = "hold rate physical south wedding dove august saddle often one cycle worth";
+var mnemonic = "cause economy whip gesture oxygen orbit family enact dice lab float arrange";

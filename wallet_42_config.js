@@ -1,1 +1,1 @@
-var mnemonic = "near embrace derive ketchup foot theme hint aim uncover trouble artist furnace";
+var mnemonic = "cross bird nature balance heart enhance subway horn van physical erase whale";

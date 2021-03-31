@@ -1,1 +1,1 @@
-var mnemonic = "head dial brave dose jaguar inherit rural pepper seven video inmate gate";
+var mnemonic = "price elite hollow barrel file gorilla truck chief grace reflect possible soft";

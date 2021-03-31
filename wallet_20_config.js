@@ -1,1 +1,1 @@
-var mnemonic = "near ladder mango cigar tower author shine trigger survey element else later";
+var mnemonic = "clarify web dirt include sting flat electric canal pony balance regular loyal";

@@ -1,1 +1,1 @@
-var mnemonic = "inner rent gather prison garment tissue middle grant correct viable gloom supply";
+var mnemonic = "season job hole sense intact knee damage ivory laugh sugar mechanic room";

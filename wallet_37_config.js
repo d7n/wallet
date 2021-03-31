@@ -1,1 +1,1 @@
-var mnemonic = "squeeze couch produce problem tuna sphere sing tilt inspire great ability zero";
+var mnemonic = "balance today enough rib bring add camera among dinner various truth nose";

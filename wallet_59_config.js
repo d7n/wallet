@@ -1,1 +1,1 @@
-var mnemonic = "upgrade pistol coyote rescue human hurry path song hover speak crouch memory";
+var mnemonic = "entire blame adult element ice page stable wait retire pelican early burger";

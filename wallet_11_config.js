@@ -1,1 +1,1 @@
-var mnemonic = "problem lobster spot enjoy hill bamboo traffic foster cushion flame claim injury";
+var mnemonic = "dentist extra alien goat key drastic minor visit dog when train any";

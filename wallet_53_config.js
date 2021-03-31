@@ -1,1 +1,1 @@
-var mnemonic = "birth clock ladder toe keen unfold defense mobile roof critic off differ";
+var mnemonic = "badge beef now split home various dumb ostrich stable gas pear multiply";

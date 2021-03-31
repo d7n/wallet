@@ -1,1 +1,1 @@
-var mnemonic = "catch health device reject split poverty loan armed pull leave amazing level";
+var mnemonic = "choice size panther inner light deal solution casino trophy deliver sort trumpet";

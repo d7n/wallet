@@ -1,1 +1,1 @@
-var mnemonic = "knee axis ordinary robust ladder velvet alter jungle cradle hub bless search";
+var mnemonic = "inhale fruit approve quantum stable penalty spread work left potato glide fat";

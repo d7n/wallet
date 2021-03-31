@@ -1,1 +1,1 @@
-var mnemonic = "coast amazing reject inspire roof cousin demise parade egg party any winner";
+var mnemonic = "aisle sense clerk save text change lobster symptom blush trial faint floor";

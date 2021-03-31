@@ -1,1 +1,1 @@
-var mnemonic = "collect lunch host maid you border awful inherit surge glue planet ticket";
+var mnemonic = "ill pass memory electric invest room veteran bid sick will flavor volume";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp frozen civil toddler suffer apology crash tired trigger capable uniform stadium";
+var mnemonic = "banana check know drink neutral surprise barely crawl truth toss ski chimney";

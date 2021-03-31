@@ -1,1 +1,1 @@
-var mnemonic = "refuse rocket off quiz tent close summer final festival code equip erupt";
+var mnemonic = "twelve excite ritual boy minute green gospel erase that orphan manual into";

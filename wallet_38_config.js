@@ -1,1 +1,1 @@
-var mnemonic = "bless fun play face eager six couch basic gospel mix advice rough";
+var mnemonic = "actress relief broccoli modify hub page sound express sausage distance mango drift";

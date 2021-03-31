@@ -1,1 +1,1 @@
-var mnemonic = "lumber owner sweet spray reward bone belt evolve item income crush path";
+var mnemonic = "repeat proof shock approve rich hedgehog appear first pen virtual boss dentist";

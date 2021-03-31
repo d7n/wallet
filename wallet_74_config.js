@@ -1,1 +1,1 @@
-var mnemonic = "erode divert differ treat change priority stomach essay lunch lava pepper coast";
+var mnemonic = "cinnamon wheat idle glimpse portion certain light climb pistol cattle setup curtain";

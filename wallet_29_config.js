@@ -1,1 +1,1 @@
-var mnemonic = "other alien kid ostrich slam kit north box spice plastic boring polar";
+var mnemonic = "raven busy fiscal able embrace snap urban chalk acquire genre all core";

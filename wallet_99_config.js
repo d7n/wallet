@@ -1,1 +1,1 @@
-var mnemonic = "cereal tragic always fat elephant rice arrest spray captain shy ten style";
+var mnemonic = "anger search bronze shift tube liar detail bubble sign giraffe reject copper";

@@ -1,1 +1,1 @@
-var mnemonic = "endorse slender price outside double unaware glory bridge fee payment ensure paddle";
+var mnemonic = "viable help walnut skate primary outer liquid pretty predict crowd nerve course";

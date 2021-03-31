@@ -1,1 +1,1 @@
-var mnemonic = "pluck waste bind select pool chat order frame nuclear celery demise output";
+var mnemonic = "dilemma next inhale total carbon purpose depart argue guess security army devote";

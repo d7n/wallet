@@ -1,1 +1,1 @@
-var mnemonic = "sunset select main lawsuit vital clog hammer plunge office unhappy depart prison";
+var mnemonic = "hurt taste album explain scheme fix melt leaf purity giant erosion bike";

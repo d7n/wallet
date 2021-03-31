@@ -1,1 +1,1 @@
-var mnemonic = "ladder robust logic between fragile present venue arrow remain bag foot author";
+var mnemonic = "muffin grocery october fatigue evolve genuine idle brush ship ten orphan boil";

@@ -1,1 +1,1 @@
-var mnemonic = "hamster dolphin tongue success faith olive olympic verb diet suit neglect cannon";
+var mnemonic = "width fall alien guard still large belt cloth night isolate result truck";

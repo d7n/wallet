@@ -1,1 +1,1 @@
-var mnemonic = "symbol knife scheme leopard twist brush crazy over ranch erase capital test";
+var mnemonic = "capable hat tip omit decline combine awful swallow isolate wedding sauce wasp";

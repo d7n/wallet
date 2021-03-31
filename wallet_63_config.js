@@ -1,1 +1,1 @@
-var mnemonic = "spy marine pledge two impact talent reflect demise faith turtle use cupboard";
+var mnemonic = "news fragile lemon attitude frost lake trip blade street quality liberty board";

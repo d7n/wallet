@@ -1,1 +1,1 @@
-var mnemonic = "exile mind dignity jazz erupt help enact swift swing owner enter finish";
+var mnemonic = "ozone rocket grace elegant bracket issue inquiry frown boost consider apple popular";

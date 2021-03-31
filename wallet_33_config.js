@@ -1,1 +1,1 @@
-var mnemonic = "pass body purpose pulp globe since move illegal pencil diesel return midnight";
+var mnemonic = "dumb crop defy rigid peasant noble grocery broom fantasy service wild few";

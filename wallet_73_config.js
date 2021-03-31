@@ -1,1 +1,1 @@
-var mnemonic = "enforce december exile detect candy license crowd earth virtual traffic chair own";
+var mnemonic = "absurd faith rigid snap garden clump tent night major fatal fame broken";

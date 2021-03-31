@@ -1,1 +1,1 @@
-var mnemonic = "ribbon junior symbol feature ice frequent rose december quiz journey bacon among";
+var mnemonic = "panel sadness father era boy vivid cute siren bottom gain fringe test";

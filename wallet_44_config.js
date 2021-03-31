@@ -1,1 +1,1 @@
-var mnemonic = "exercise charge swear assist slogan aerobic work cat abstract frown excess target";
+var mnemonic = "outer crystal equip link primary joke today since suspect moment industry judge";

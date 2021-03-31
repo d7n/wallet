@@ -1,1 +1,1 @@
-var mnemonic = "sail wire number pigeon bachelor dog person radio bag scene punch range";
+var mnemonic = "little photo poem oil noble error fury carry antenna swarm increase snack";

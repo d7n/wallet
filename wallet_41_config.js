@@ -1,1 +1,1 @@
-var mnemonic = "error chuckle tobacco oak work lens always project lady seminar frequent bullet";
+var mnemonic = "mouse sponsor inform distance devote lend melody caution maid satoshi doctor sadness";

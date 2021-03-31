@@ -1,1 +1,1 @@
-var mnemonic = "bracket bar pulse enroll play glow jelly story food history tip dawn";
+var mnemonic = "sure quarter climb aunt code entire type float clock flee monitor measure";

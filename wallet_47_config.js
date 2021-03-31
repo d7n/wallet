@@ -1,1 +1,1 @@
-var mnemonic = "tumble barrel version tunnel reduce duck before mushroom neutral evoke example cheap";
+var mnemonic = "moment icon worth try beyond hedgehog uniform naive sentence where they step";

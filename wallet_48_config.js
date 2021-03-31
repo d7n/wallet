@@ -1,1 +1,1 @@
-var mnemonic = "theme sight manage sentence defense dismiss zebra gun pole ice bomb dilemma";
+var mnemonic = "gadget village ask egg good focus cage pulp erupt force enroll hint";

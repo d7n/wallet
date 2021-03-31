@@ -1,1 +1,1 @@
-var mnemonic = "awkward raw whisper exercise voice dirt benefit cradle bonus main control quiz";
+var mnemonic = "raw involve way skill section grace oyster above trouble sausage body ice";

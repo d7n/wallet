@@ -1,1 +1,1 @@
-var mnemonic = "blame armed fortune yellow narrow stumble effort pill meat exotic group ensure";
+var mnemonic = "taste modify elevator process hero boss country slam will keen thunder smile";

@@ -1,1 +1,1 @@
-var mnemonic = "curtain winter original erupt usage crush diamond unaware ecology build awful young";
+var mnemonic = "flash urge kidney cup vacant title bid kidney mail pool reunion advance";

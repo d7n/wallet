@@ -1,1 +1,1 @@
-var mnemonic = "day endorse unknown cream horror inform gospel maximum change curtain ketchup transfer";
+var mnemonic = "animal already slab sound refuse invite cup conduct own raccoon animal annual";

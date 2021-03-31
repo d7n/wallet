@@ -1,1 +1,1 @@
-var mnemonic = "where mosquito misery tomato hockey creek cause lottery title rival jacket minimum";
+var mnemonic = "improve direct young evidence siege calm city album clean shell night six";

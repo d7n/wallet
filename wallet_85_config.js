@@ -1,1 +1,1 @@
-var mnemonic = "stay napkin risk estate ocean swap desert cave steel guide ahead skull";
+var mnemonic = "battle dog defy infant shadow embody outside congress tone fog electric roof";

@@ -1,1 +1,1 @@
-var mnemonic = "social help ocean capital rug vibrant forward market length swift shine ridge";
+var mnemonic = "initial funny expand crime donor vacant valve muffin three miss shaft coach";

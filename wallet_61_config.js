@@ -1,1 +1,1 @@
-var mnemonic = "country wolf chief session proud indicate sad damage vivid ride common depart";
+var mnemonic = "casual siege heavy phone remind trouble inquiry entry eight huge mass couch";

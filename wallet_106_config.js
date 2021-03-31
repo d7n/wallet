@@ -1,1 +1,1 @@
-var mnemonic = "unknown spy ramp return romance kiwi solution step fold develop lend couch";
+var mnemonic = "sample game turkey cruel rebel link play hood match announce gain cricket";

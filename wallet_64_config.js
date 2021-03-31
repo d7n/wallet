@@ -1,1 +1,1 @@
-var mnemonic = "cabbage before huge estate sausage height twelve describe lamp debris hold whale";
+var mnemonic = "defy sea crack area lecture bubble exhaust walk strategy mosquito alarm sense";

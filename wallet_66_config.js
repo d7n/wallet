@@ -1,1 +1,1 @@
-var mnemonic = "robot wire goat syrup rural inside fitness grow gift under vintage this";
+var mnemonic = "away edge want next shove spring great below strike ocean ticket remind";

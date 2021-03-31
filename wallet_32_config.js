@@ -1,1 +1,1 @@
-var mnemonic = "fine master drama valid crack panic shoe link desk action hope strong";
+var mnemonic = "front rabbit stock woman domain castle tower guard balcony ring impose jewel";

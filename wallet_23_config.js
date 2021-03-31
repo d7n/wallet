@@ -1,1 +1,1 @@
-var mnemonic = "robot pipe unfair excess cluster coast depart tilt cycle borrow day horn";
+var mnemonic = "another spend surface cushion concert return cook aim casino engage normal employ";

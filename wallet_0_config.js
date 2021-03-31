@@ -1,1 +1,1 @@
-var mnemonic = "kitchen around bargain acquire hungry catalog blame feel talent hold prefer hand";
+var mnemonic = "budget husband main series crop mercy castle floor initial same stuff edit";

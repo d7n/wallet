@@ -1,1 +1,1 @@
-var mnemonic = "wolf sign trust earth vague trophy door that rebel illegal happy canoe";
+var mnemonic = "great garbage pair flavor vivid initial tide nature snap prosper before animal";

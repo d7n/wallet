@@ -1,1 +1,1 @@
-var mnemonic = "that skill survey rough radio quick color health note region repair bleak";
+var mnemonic = "nuclear output define guitar custom elder wing leave awesome park motion dog";

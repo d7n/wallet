@@ -1,1 +1,1 @@
-var mnemonic = "name captain jump forum detail defy eight kick warfare slogan noodle stairs";
+var mnemonic = "popular globe asthma brisk amused list globe recycle picnic almost bullet exchange";

@@ -1,1 +1,1 @@
-var mnemonic = "yellow pretty web wear deny sing settle bundle candy black news space";
+var mnemonic = "render family legal hat must drastic unable cage unlock flush visual stool";

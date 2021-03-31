@@ -1,1 +1,1 @@
-var mnemonic = "cluster inch brick bind caution actual lock present camera deal include drama";
+var mnemonic = "cattle detect venue physical opera assist scan oak sing fine pioneer olympic";

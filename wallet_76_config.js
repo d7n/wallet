@@ -1,1 +1,1 @@
-var mnemonic = "banner core snap ostrich harsh panel gesture match kiss earth regret wrist";
+var mnemonic = "illegal laundry glory olympic boil fame toe anxiety diagram alert more puppy";

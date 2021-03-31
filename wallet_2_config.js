@@ -1,1 +1,1 @@
-var mnemonic = "between wedding envelope crack forest charge demise sea remain forward draw feel";
+var mnemonic = "insect lock give picture hello abstract ethics goat trash era crane candy";

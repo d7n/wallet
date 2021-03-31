@@ -1,1 +1,1 @@
-var mnemonic = "will shed gather slow exercise virus utility eyebrow wealth visual endorse moment";
+var mnemonic = "drastic artist market harvest pact opinion ridge club vibrant trust pole coast";

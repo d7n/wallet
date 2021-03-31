@@ -1,1 +1,1 @@
-var mnemonic = "flush fiscal stem destroy tribe old dentist exchange glass sauce stairs scissors";
+var mnemonic = "meat security monitor sell enlist tattoo morning devote cotton obtain prefer myself";

@@ -1,1 +1,1 @@
-var mnemonic = "protect vapor toward drum regret talent pledge rookie obscure stable filter zebra";
+var mnemonic = "ring human tunnel walk curious indoor drastic warfare improve burst project avoid";

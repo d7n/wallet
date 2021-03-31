@@ -1,1 +1,1 @@
-var mnemonic = "used rally crazy swim bring genre cover gas lobster ten file frame";
+var mnemonic = "mother nest step thought decrease camp visit danger filter tube already rally";

@@ -1,1 +1,1 @@
-var mnemonic = "worth palace favorite day excite chunk lizard vacant end accuse neutral will";
+var mnemonic = "vapor choose similar finger rug arrive stamp embrace add despair soul grit";

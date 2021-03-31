@@ -1,1 +1,1 @@
-var mnemonic = "say asthma patrol wool virus indoor radar amazing express sphere thing sing";
+var mnemonic = "trap surprise under outside thought want unaware frown round canyon lobster arrest";

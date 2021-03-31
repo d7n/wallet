@@ -1,1 +1,1 @@
-var mnemonic = "acoustic staff ecology tunnel brain trend initial want immune actress butter patch";
+var mnemonic = "rice menu guilt dignity wait bus clog lyrics corn cart left sail";

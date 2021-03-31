@@ -1,1 +1,1 @@
-var mnemonic = "list resource pudding stable bid siren hub mad option crystal slam uncle";
+var mnemonic = "three toast episode income require bean palm detect coil exile critic second";

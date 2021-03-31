@@ -1,1 +1,1 @@
-var mnemonic = "call zero pet online life juice legend crush galaxy hub mammal ordinary";
+var mnemonic = "member east toe float quick shine iron bird strike bunker flash prize";

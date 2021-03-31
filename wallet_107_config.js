@@ -1,1 +1,1 @@
-var mnemonic = "bubble exclude balcony only tip gift raw document foster artefact friend text";
+var mnemonic = "piano sick claim float sister orient salon suffer heavy maple dream blush";

@@ -1,1 +1,1 @@
-var mnemonic = "casual cattle master refuse artist bitter flip panel direct slice woman multiply";
+var mnemonic = "sausage viable whisper rack luggage sad collect local zoo ethics goddess umbrella";

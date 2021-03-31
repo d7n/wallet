@@ -1,1 +1,1 @@
-var mnemonic = "derive absorb tornado column they blue alone pulp merit visa muffin between";
+var mnemonic = "supply kidney notice photo snow unaware annual above almost same siege cruise";

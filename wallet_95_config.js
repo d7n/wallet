@@ -1,1 +1,1 @@
-var mnemonic = "hair inch where arrive hour joke news earn neglect wife horror peasant";
+var mnemonic = "spare derive multiply attend negative chat negative kidney test chest planet reward";

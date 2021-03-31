@@ -1,1 +1,1 @@
-var mnemonic = "try laptop bunker next swift novel rescue identify relief unusual network point";
+var mnemonic = "pyramid quote dumb stamp sheriff bonus proof illegal impulse enrich area insane";

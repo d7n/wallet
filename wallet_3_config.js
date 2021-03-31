@@ -1,1 +1,1 @@
-var mnemonic = "ritual festival antenna census fire side loan fancy virus trouble find candy";
+var mnemonic = "hill pilot enhance south math flower order knock gravity before snow minimum";

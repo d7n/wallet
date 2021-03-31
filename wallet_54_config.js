@@ -1,1 +1,1 @@
-var mnemonic = "spike wash fantasy state discover wool note veteran cigar erode enrich volume";
+var mnemonic = "quiz endorse recipe twist hair glimpse enforce stay wall habit erase scan";

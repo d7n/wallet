@@ -1,1 +1,1 @@
-var mnemonic = "benefit autumn disorder venture spider tag sentence pink suggest road ordinary march";
+var mnemonic = "buffalo thunder shaft unfold tourist border grit priority boss bind box enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "reflect gap pistol erosion seek harvest knee someone prosper song leopard emerge";
+var mnemonic = "giggle pitch dash economy health suffer fine jazz fruit reward rapid oven";

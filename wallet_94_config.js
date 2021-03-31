@@ -1,1 +1,1 @@
-var mnemonic = "phrase clutch foil swarm ostrich spawn chair fade tobacco lab vicious buffalo";
+var mnemonic = "border volcano turn common clarify shop feel modify staff phrase crucial envelope";

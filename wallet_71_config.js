@@ -1,1 +1,1 @@
-var mnemonic = "gather junior peasant laptop flower slide mirror grab twist project maid field";
+var mnemonic = "cereal expect all cabin either term enhance wide air glove mercy age";

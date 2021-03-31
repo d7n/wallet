@@ -1,1 +1,1 @@
-var mnemonic = "slab fragile gift top text bulb problem hotel celery bright round all";
+var mnemonic = "nice dad spend divide gym catch sword beauty replace ramp clean hole";

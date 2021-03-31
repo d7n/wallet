@@ -1,1 +1,1 @@
-var mnemonic = "involve whip honey warfare gallery fee become margin muscle cupboard chase cry";
+var mnemonic = "brief decorate diamond cable travel choice one inflict pride lava announce enter";

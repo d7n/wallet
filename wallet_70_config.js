@@ -1,1 +1,1 @@
-var mnemonic = "want coach humor city brief garden admit hedgehog board hurdle aerobic clever";
+var mnemonic = "route clay edge ketchup fun option calm front cost black hat review";

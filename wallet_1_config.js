@@ -1,1 +1,1 @@
-var mnemonic = "fat drill gravity camp media alien teach cash satoshi question chest private";
+var mnemonic = "multiply crater chapter inform night call crowd virtual okay dizzy pattern bring";

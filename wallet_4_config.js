@@ -1,1 +1,1 @@
-var mnemonic = "warrior account impose wild fish comic impulse stamp hunt clip era rebuild";
+var mnemonic = "crouch parent pupil spy lake prepare talk brisk endless gorilla alone dignity";

@@ -1,1 +1,1 @@
-var mnemonic = "symptom question shock actor focus educate glow vague toy nasty certain local";
+var mnemonic = "depart ridge spring ketchup caution early rare tornado require illness borrow language";

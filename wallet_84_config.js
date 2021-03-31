@@ -1,1 +1,1 @@
-var mnemonic = "enact group double someone fix carbon deputy sail idea disorder slim index";
+var mnemonic = "cram corn praise payment owner will tail plunge delay glare tonight velvet";

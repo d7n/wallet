@@ -1,1 +1,1 @@
-var mnemonic = "protect chest estate kite slow arrive wife hope boost shy lens caught";
+var mnemonic = "cram pen paddle crash effort goddess obscure pink awkward start armor mango";
