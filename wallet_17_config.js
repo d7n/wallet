@@ -1,1 +1,1 @@
-var mnemonic = "wisdom broken stool utility insect civil sword story either cheap piano cup";
+var mnemonic = "measure please mask tone guard imitate senior kitten riot twelve leave loan";

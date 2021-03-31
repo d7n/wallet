@@ -1,1 +1,1 @@
-var mnemonic = "gown lend circle rocket domain pony oak gold write expand dance auction";
+var mnemonic = "soul category empty lounge document know drill sea melody tortoise car high";

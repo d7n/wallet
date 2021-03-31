@@ -1,1 +1,1 @@
-var mnemonic = "autumn law legal craft drip sphere reflect outer season enable flat mother";
+var mnemonic = "together reason trap city flip stage volume employ slab group chronic unknown";

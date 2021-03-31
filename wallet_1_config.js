@@ -1,1 +1,1 @@
-var mnemonic = "friend month exact swing task measure pistol start close essay family panic";
+var mnemonic = "carpet police leave spin measure escape future mercy spot spin away tongue";

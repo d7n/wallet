@@ -1,1 +1,1 @@
-var mnemonic = "reject unable clerk blush speed hope jeans phrase deputy address grunt loyal";
+var mnemonic = "cross cannon mention cake inspire because miracle crane symptom midnight father property";

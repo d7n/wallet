@@ -1,1 +1,1 @@
-var mnemonic = "kingdom knee van sad napkin comic zero slogan pledge illness wrong moral";
+var mnemonic = "spin fog toss grow still reward emerge desert song brain soldier chief";

@@ -1,1 +1,1 @@
-var mnemonic = "body pitch north few child exact device mirror market sea popular involve";
+var mnemonic = "load access antique doctor lens custom ladder combine soft anchor zone jar";

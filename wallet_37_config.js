@@ -1,1 +1,1 @@
-var mnemonic = "credit able perfect output survey stool cinnamon void service elegant dash talk";
+var mnemonic = "fatal pyramid turtle armed canoe media angry rug chunk exotic response noble";

@@ -1,1 +1,1 @@
-var mnemonic = "artist birth rose luggage swim tree find differ pepper level inherit east";
+var mnemonic = "junk race label fog chief village merry price stage sugar leader trade";

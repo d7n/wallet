@@ -1,1 +1,1 @@
-var mnemonic = "ranch receive crack license gloom stove clip process cycle crisp ship diet";
+var mnemonic = "loan answer way slot muffin diet solve once sadness mushroom inflict image";

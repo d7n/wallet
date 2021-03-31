@@ -1,1 +1,1 @@
-var mnemonic = "expand abandon hammer rude soul brand around emerge horse question system situate";
+var mnemonic = "own donate erupt dwarf canal link tribe feed office theme joke aerobic";

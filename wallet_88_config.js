@@ -1,1 +1,1 @@
-var mnemonic = "law lend tackle horse town wink helmet cigar left cycle bridge vessel";
+var mnemonic = "myself sleep stuff lawsuit gate enter issue outer harbor tattoo nation emerge";

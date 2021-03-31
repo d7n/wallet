@@ -1,1 +1,1 @@
-var mnemonic = "poverty despair elbow suffer direct art member purity faint hen coffee ankle";
+var mnemonic = "ski expose capital crop sea creek borrow online top unhappy salon lava";

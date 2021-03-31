@@ -1,1 +1,1 @@
-var mnemonic = "window barrel tube surge ordinary visual manage second stereo release noble rent";
+var mnemonic = "cave brave thing person ankle stem real cool chalk virus sand hospital";

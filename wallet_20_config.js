@@ -1,1 +1,1 @@
-var mnemonic = "school antenna law demise trophy kid vacant lemon goddess stand easy bracket";
+var mnemonic = "day clap trick harsh banana update body claw radio cruel cost pottery";

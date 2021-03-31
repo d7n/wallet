@@ -1,1 +1,1 @@
-var mnemonic = "volume fame canoe spray twenty gorilla hobby era spatial devote differ install";
+var mnemonic = "blue gain calm clean amazing broccoli fly slim spot coil apart promote";

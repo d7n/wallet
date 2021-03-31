@@ -1,1 +1,1 @@
-var mnemonic = "swallow ghost caution fresh poverty rack luggage metal omit volume orbit brush";
+var mnemonic = "era major key junk dune tattoo trash lens twin aisle snake rebel";

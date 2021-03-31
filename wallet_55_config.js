@@ -1,1 +1,1 @@
-var mnemonic = "acid into change list glue retreat family regret fish poverty bonus report";
+var mnemonic = "potato almost decrease trip execute width stone under uncle eight cabin tornado";

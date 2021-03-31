@@ -1,1 +1,1 @@
-var mnemonic = "asthma number simple cancel calm horse west vault betray capital radio fancy";
+var mnemonic = "height issue smooth gold sand sorry harbor dose mystery lava balcony salad";

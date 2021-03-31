@@ -1,1 +1,1 @@
-var mnemonic = "bless segment crouch arch gain lens earth latin oyster express minimum below";
+var mnemonic = "viable dose place stone predict ancient hill hire clutch effort outer umbrella";

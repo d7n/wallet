@@ -1,1 +1,1 @@
-var mnemonic = "caught seed anger road age group robust whale curious marine duck fiction";
+var mnemonic = "beauty water sort sadness artist enforce believe north laugh buffalo armed area";

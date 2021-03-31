@@ -1,1 +1,1 @@
-var mnemonic = "solution duck grit mad trophy spatial kit sudden flee girl upset match";
+var mnemonic = "when salon tip eight toward faculty word rule during input robust tomorrow";

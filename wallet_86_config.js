@@ -1,1 +1,1 @@
-var mnemonic = "glide tattoo evolve habit sell midnight sister desert quote spawn bike seek";
+var mnemonic = "mammal opera maximum window extend poem symbol dentist sting able despair violin";

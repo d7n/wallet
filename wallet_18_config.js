@@ -1,1 +1,1 @@
-var mnemonic = "grunt select story crazy rocket junk imitate banana found model kit eternal";
+var mnemonic = "father plastic talk field stem little depth corn orange edit treat junior";

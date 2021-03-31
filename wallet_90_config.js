@@ -1,1 +1,1 @@
-var mnemonic = "when jelly hint usage rival tragic erosion vibrant language kick life father";
+var mnemonic = "valve sing hat sustain blossom hurdle swift marriage warfare industry air during";

@@ -1,1 +1,1 @@
-var mnemonic = "enter modify damp tape believe snake doll ridge april anchor park liberty";
+var mnemonic = "crop sponsor decorate throw bleak pig festival subject forest rookie dance regret";

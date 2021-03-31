@@ -1,1 +1,1 @@
-var mnemonic = "lottery athlete correct coach mushroom cliff page skill useful orient race arch";
+var mnemonic = "female peace abstract jeans punch settle mix panic twin spider asset thunder";

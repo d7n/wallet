@@ -1,1 +1,1 @@
-var mnemonic = "aim hamster deliver power rival print can embark exhibit mansion rabbit spread";
+var mnemonic = "drama peasant gift stamp bracket actor lend wise sentence slim field estate";

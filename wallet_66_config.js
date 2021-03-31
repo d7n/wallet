@@ -1,1 +1,1 @@
-var mnemonic = "bulb timber price hair ocean unaware draw limit awake raise rapid frost";
+var mnemonic = "assist iron disease hidden giggle peasant casino public cotton dentist danger steel";

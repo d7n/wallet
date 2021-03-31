@@ -1,1 +1,1 @@
-var mnemonic = "situate foil liberty soft police proof orient beach describe shop view deal";
+var mnemonic = "tide panic output shiver object marine ecology furnace shell pond hole era";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence chat goose number umbrella frost math clay huge arch jar flame";
+var mnemonic = "cool review correct theme sniff curious behave bitter coconut addict animal grief";

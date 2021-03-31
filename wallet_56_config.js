@@ -1,1 +1,1 @@
-var mnemonic = "tube later teach always book shove dash oblige fury soldier survey mind";
+var mnemonic = "rent dune annual quantum shove useful figure stumble kid cricket grape about";

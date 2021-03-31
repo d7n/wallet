@@ -1,1 +1,1 @@
-var mnemonic = "master various eagle fury they dinosaur flock mistake mix survey dust animal";
+var mnemonic = "animal impulse category mass later father involve drill theme permit keep isolate";

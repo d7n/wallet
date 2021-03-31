@@ -1,1 +1,1 @@
-var mnemonic = "uncover return excess spy lecture kangaroo find more host timber admit invest";
+var mnemonic = "attend sweet fragile cluster derive omit bird sun picnic arctic grunt apple";

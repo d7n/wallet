@@ -1,1 +1,1 @@
-var mnemonic = "decrease install subject first attack dignity sheriff strong observe dolphin casino acoustic";
+var mnemonic = "reject love bargain sort goose laptop pilot diesel remain catch ticket panther";

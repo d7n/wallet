@@ -1,1 +1,1 @@
-var mnemonic = "forget wife bicycle electric sure allow jewel random hat hill end keep";
+var mnemonic = "airport require rail upgrade inject logic much mix dinosaur fiber frog glove";

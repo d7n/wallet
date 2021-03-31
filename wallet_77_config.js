@@ -1,1 +1,1 @@
-var mnemonic = "ripple gossip notable draw spike wrestle morning sorry connect birth void bone";
+var mnemonic = "fan dwarf include almost ozone anger mixture kit spot faith slide drum";

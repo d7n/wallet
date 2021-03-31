@@ -1,1 +1,1 @@
-var mnemonic = "hungry poet rubber whip remain east leg toast amazing series retreat crumble";
+var mnemonic = "market spring argue wise delay warrior gorilla ecology turn tip affair castle";

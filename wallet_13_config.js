@@ -1,1 +1,1 @@
-var mnemonic = "stove flight rely abstract upon enter gate suspect write humble jazz roast";
+var mnemonic = "village tissue toward immense climb carbon artwork excess stamp field swing must";

@@ -1,1 +1,1 @@
-var mnemonic = "stamp random useless together select treat buzz party office film argue congress";
+var mnemonic = "debate way syrup cute burst kick decline diagram online stand nasty chef";

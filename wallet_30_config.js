@@ -1,1 +1,1 @@
-var mnemonic = "oil crime suspect retreat object toy ship hawk space castle finger tree";
+var mnemonic = "sell youth order next debate frozen car army buyer ethics nest miracle";

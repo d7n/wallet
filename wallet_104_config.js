@@ -1,1 +1,1 @@
-var mnemonic = "quote fury pyramid local skill empower order utility curious kit portion nephew";
+var mnemonic = "public spike acquire cloth label dog thought abandon economy bronze theme glass";

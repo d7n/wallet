@@ -1,1 +1,1 @@
-var mnemonic = "advance core announce lake label flee near swallow trick sort object aim";
+var mnemonic = "blade video picnic parent narrow pretty jewel quit ostrich cream debris primary";

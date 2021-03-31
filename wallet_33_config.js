@@ -1,1 +1,1 @@
-var mnemonic = "creek cable match disorder panther echo later clinic side thank duck envelope";
+var mnemonic = "unaware trouble craft segment casual victory fragile behave ghost toddler remove athlete";

@@ -1,1 +1,1 @@
-var mnemonic = "main blue wedding cheap want method arrest scare amazing canyon initial drift";
+var mnemonic = "mansion badge purpose alley purchase galaxy elite enemy find flower remove warrior";

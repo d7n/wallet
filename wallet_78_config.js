@@ -1,1 +1,1 @@
-var mnemonic = "upset range fat unique game scrap refuse camera outer head assume tackle";
+var mnemonic = "suffer warfare cabin vote record circle bring width push rate immense cigar";

@@ -1,1 +1,1 @@
-var mnemonic = "impact pen review chapter mango flag cancel catch enter case awesome small";
+var mnemonic = "trick equip glue nose tonight marriage oval fetch evidence strike horn enable";

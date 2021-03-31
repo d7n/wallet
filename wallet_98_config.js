@@ -1,1 +1,1 @@
-var mnemonic = "hazard kiss praise power east please image bacon fetch vital anxiety elbow";
+var mnemonic = "either oblige flush elevator result file utility angry invite march master blue";

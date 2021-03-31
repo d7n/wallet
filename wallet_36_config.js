@@ -1,1 +1,1 @@
-var mnemonic = "uncover wool bind pattern enjoy believe design nest minute scan trophy trick";
+var mnemonic = "hill garbage book glide someone alpha vocal vast muscle giraffe enough matrix";

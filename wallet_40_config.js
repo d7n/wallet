@@ -1,1 +1,1 @@
-var mnemonic = "melody romance occur always pitch view frog resource record cricket wine rifle";
+var mnemonic = "time blade chaos dignity hundred avoid crane evil chief shell alcohol screen";

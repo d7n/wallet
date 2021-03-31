@@ -1,1 +1,1 @@
-var mnemonic = "bird ski purity tongue dry pig grid vendor genuine slice trap erosion";
+var mnemonic = "bean dutch repeat kangaroo empty road cattle similar chase city sign craft";

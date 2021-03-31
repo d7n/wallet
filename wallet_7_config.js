@@ -1,1 +1,1 @@
-var mnemonic = "mountain layer dragon sweet typical amazing eagle much bulb brand opinion awake";
+var mnemonic = "legend unknown model mirror web car below treat wild loyal ceiling conduct";

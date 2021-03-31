@@ -1,1 +1,1 @@
-var mnemonic = "stay useful exit invite sugar misery flame filter under slogan insect random";
+var mnemonic = "city stamp usage shadow leave polar unlock hurt hand fuel clever must";

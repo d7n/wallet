@@ -1,1 +1,1 @@
-var mnemonic = "minor credit forward tuna inch judge peace say mixed chair medal float";
+var mnemonic = "sniff night dove can discover often fruit clutch kidney jacket valid rival";

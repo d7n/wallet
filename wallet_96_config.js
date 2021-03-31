@@ -1,1 +1,1 @@
-var mnemonic = "small blind coral vacuum title world any snack lunch disorder torch six";
+var mnemonic = "rhythm can inside slow shiver turtle water north catch cargo spirit matrix";

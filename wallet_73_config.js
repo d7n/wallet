@@ -1,1 +1,1 @@
-var mnemonic = "name vacant clever hood crunch more reward move great couple slam crisp";
+var mnemonic = "appear correct oven tennis fuel gloom debate ten gas trigger blood already";

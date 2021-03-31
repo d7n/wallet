@@ -1,1 +1,1 @@
-var mnemonic = "dirt witness name antique fan universe neck resource blush beach can ride";
+var mnemonic = "loyal impulse arrive tennis nurse flock swap visit broom valid burger menu";

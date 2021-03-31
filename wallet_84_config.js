@@ -1,1 +1,1 @@
-var mnemonic = "monkey immune limb onion model dune develop figure popular hold whisper update";
+var mnemonic = "measure fame ball drum one topple tooth recall penalty throw soul boost";

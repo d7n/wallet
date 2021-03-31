@@ -1,1 +1,1 @@
-var mnemonic = "follow nature core live behave grocery inflict vacuum relax real before occur";
+var mnemonic = "wagon left man toy drama regret sweet asthma aspect sleep fold jar";

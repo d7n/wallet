@@ -1,1 +1,1 @@
-var mnemonic = "bitter bone gospel extra turkey dignity right drama myself anchor human roast";
+var mnemonic = "west barrel blood thunder armed feel glory turn tube merry start cake";

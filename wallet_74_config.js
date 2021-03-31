@@ -1,1 +1,1 @@
-var mnemonic = "catch one enemy dirt vacuum hood mixture iron copper thing crack digital";
+var mnemonic = "balcony web divert purpose sand actor festival local wing tissue baby smart";

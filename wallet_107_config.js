@@ -1,1 +1,1 @@
-var mnemonic = "romance social quick letter spatial unfair admit daring tell effort praise rookie";
+var mnemonic = "drip pause write inside relief fashion slot genius farm license wave arrest";

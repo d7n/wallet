@@ -1,1 +1,1 @@
-var mnemonic = "vote add voyage rocket match crazy penalty rapid average tray warfare between";
+var mnemonic = "clutch syrup fee rotate bird girl stick save lady coin level soldier";

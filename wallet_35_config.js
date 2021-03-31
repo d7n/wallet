@@ -1,1 +1,1 @@
-var mnemonic = "grocery toddler october have pole kid position forget moral cloth copper milk";
+var mnemonic = "noodle step title catch object evidence laundry zebra solar festival cabin wild";

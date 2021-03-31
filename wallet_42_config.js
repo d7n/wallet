@@ -1,1 +1,1 @@
-var mnemonic = "maid typical away main gallery walk fantasy mix coffee salmon whisper pumpkin";
+var mnemonic = "hero ice height imitate pool urban mystery pass funny alert day patrol";

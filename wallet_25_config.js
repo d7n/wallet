@@ -1,1 +1,1 @@
-var mnemonic = "nice visit crawl enough vicious focus local parrot fall track circle kite";
+var mnemonic = "vicious gorilla wet rare frozen extra zoo purchase wing ensure piece black";

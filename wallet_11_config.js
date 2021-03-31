@@ -1,1 +1,1 @@
-var mnemonic = "burger sword strong icon earth festival chapter gas joy oxygen curious scorpion";
+var mnemonic = "file finger hawk topic blade youth grit state combine only photo favorite";

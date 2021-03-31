@@ -1,1 +1,1 @@
-var mnemonic = "solve soup embody bread please rigid twelve when furnace ghost rule local";
+var mnemonic = "work flag faculty file puppy remove shed laptop toilet cruise distance spoil";

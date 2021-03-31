@@ -1,1 +1,1 @@
-var mnemonic = "banner meadow where decade reunion spy motor erupt viable citizen blind round";
+var mnemonic = "ribbon segment tonight venue can regular nominee coin comic nurse dress zebra";

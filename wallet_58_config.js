@@ -1,1 +1,1 @@
-var mnemonic = "ordinary ten focus glove fluid pledge swing cause actual slice agree piano";
+var mnemonic = "whisper few inquiry matter achieve wash taxi bleak wealth wise label provide";

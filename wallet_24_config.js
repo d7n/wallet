@@ -1,1 +1,1 @@
-var mnemonic = "skirt alcohol trash region void build sausage nurse obey fruit barely manage";
+var mnemonic = "extra child funny acquire donate company next kingdom car uncle foil crush";

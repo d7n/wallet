@@ -1,1 +1,1 @@
-var mnemonic = "ten giggle panel crisp spy caution tired stomach leave finish spoil wedding";
+var mnemonic = "alcohol vital rotate leisure north problem say mean odor whisper resource book";

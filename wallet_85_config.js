@@ -1,1 +1,1 @@
-var mnemonic = "stuff sock various museum speak knife glory tilt guitar dry voyage impact";
+var mnemonic = "thank depend quiz unable ginger drive track net snack marble banana diesel";

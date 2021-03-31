@@ -1,1 +1,1 @@
-var mnemonic = "custom dial sock sausage oppose window person design shield final library sea";
+var mnemonic = "stool there actor someone rack remember floor spoil quit wedding gate green";

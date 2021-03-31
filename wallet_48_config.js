@@ -1,1 +1,1 @@
-var mnemonic = "record aunt nuclear myth rival exact abandon increase dream section tent endless";
+var mnemonic = "ability three account amused bulk identify spring second play mansion add magnet";

@@ -1,1 +1,1 @@
-var mnemonic = "story stadium kick muscle tragic suspect ankle garden boil crucial develop light";
+var mnemonic = "shuffle noble fox bonus rice dutch diamond have believe reunion achieve unlock";

@@ -1,1 +1,1 @@
-var mnemonic = "ghost hollow subway sight mango rebel neither song exclude alarm setup valley";
+var mnemonic = "van library village area charge use next now lyrics memory expect comfort";

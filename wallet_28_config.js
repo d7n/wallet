@@ -1,1 +1,1 @@
-var mnemonic = "enhance arch evolve cinnamon opinion regular equip blade under print toast oak";
+var mnemonic = "satisfy twelve ignore setup foil original rally broccoli month juice deny verify";

@@ -1,1 +1,1 @@
-var mnemonic = "round army raven useful major cousin tree cause sound pill soup climb";
+var mnemonic = "start actor plate tribe digital super unfold glue thunder artwork rebel pool";

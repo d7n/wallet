@@ -1,1 +1,1 @@
-var mnemonic = "matter all profit envelope organ answer someone spray still master game click";
+var mnemonic = "inhale leader trouble spray tray typical want test hat critic robust grow";

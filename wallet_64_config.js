@@ -1,1 +1,1 @@
-var mnemonic = "spirit repeat owner onion finger era artwork vehicle digital job aunt ride";
+var mnemonic = "burger only spoil vivid card because beauty ahead pact blade puppy rubber";

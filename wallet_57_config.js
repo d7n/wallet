@@ -1,1 +1,1 @@
-var mnemonic = "curve random raise fly vast matter various six cherry perfect avoid rude";
+var mnemonic = "volume spy planet weapon language damage giraffe always current abandon want talent";

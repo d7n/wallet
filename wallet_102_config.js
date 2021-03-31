@@ -1,1 +1,1 @@
-var mnemonic = "hole tip captain amount churn buddy title feature chair cheese couple enroll";
+var mnemonic = "right laundry tornado potato tomorrow awake clarify ocean peace victory document camera";

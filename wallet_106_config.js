@@ -1,1 +1,1 @@
-var mnemonic = "number summer fury index album object note vanish expire digital dial guard";
+var mnemonic = "inner admit junk board crouch sad cinnamon squeeze illness ahead alone grief";

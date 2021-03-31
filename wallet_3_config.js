@@ -1,1 +1,1 @@
-var mnemonic = "that later south ridge insect soul predict polar sweet play desk six";
+var mnemonic = "bronze harvest chuckle observe school drink receive release discover turtle output snow";

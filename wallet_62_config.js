@@ -1,1 +1,1 @@
-var mnemonic = "hotel auto satisfy question gun field breeze stove crunch ivory slush polar";
+var mnemonic = "home sail still spot fever radar movie step buzz menu canvas soccer";

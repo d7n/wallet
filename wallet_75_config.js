@@ -1,1 +1,1 @@
-var mnemonic = "harsh echo brand dizzy squeeze fox tube purity vast page guard urge";
+var mnemonic = "arrive merit mixture present whip notable awkward draw damp cheese base music";

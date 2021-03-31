@@ -1,1 +1,1 @@
-var mnemonic = "fog fiscal lobster unique best favorite market satisfy era exact pitch divide";
+var mnemonic = "aim make infant frequent humble hedgehog climb vicious service monster mouse pizza";

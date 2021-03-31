@@ -1,1 +1,1 @@
-var mnemonic = "sock shock stuff foil grace outside suit rookie install inform strike situate";
+var mnemonic = "lesson result tip rhythm electric party toward consider retire lake crew luggage";

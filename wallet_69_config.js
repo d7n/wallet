@@ -1,1 +1,1 @@
-var mnemonic = "draft nation talk giant spoil this expand evolve choice grain satisfy stool";
+var mnemonic = "under snake busy express void fatal fantasy brave venue chalk sauce mail";

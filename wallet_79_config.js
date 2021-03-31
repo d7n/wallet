@@ -1,1 +1,1 @@
-var mnemonic = "donor used profit grass transfer hurdle simple response crunch harbor genius bread";
+var mnemonic = "best game magnet demise spread life solve soldier fix auto three major";

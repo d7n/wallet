@@ -1,1 +1,1 @@
-var mnemonic = "then cinnamon warrior midnight frown valve trick tomorrow biology doll swim summer";
+var mnemonic = "ensure front donkey vital novel erosion sadness popular settle problem robot surprise";

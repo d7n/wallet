@@ -1,1 +1,1 @@
-var mnemonic = "impulse wheat upgrade destroy breeze ridge entry elder fox father easy infant";
+var mnemonic = "bamboo traffic wave topple roast also track become garden false impose quiz";

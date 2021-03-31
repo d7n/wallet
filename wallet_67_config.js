@@ -1,1 +1,1 @@
-var mnemonic = "explain series defense era improve excite public prepare hawk sentence path quit";
+var mnemonic = "egg arctic educate art page devote tiny early ten bus desert south";
