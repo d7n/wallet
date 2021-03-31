@@ -1,1 +1,1 @@
-var mnemonic = "friend purity stool island bread wheat solve long avocado license cloud million";
+var mnemonic = "text dragon muffin result valve divorce shell goddess city fancy stand easy";

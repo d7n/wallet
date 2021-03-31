@@ -1,1 +1,1 @@
-var mnemonic = "slide height torch school owner crime weird outside kite van daring size";
+var mnemonic = "type table step impose argue skin private economy isolate taxi abuse census";

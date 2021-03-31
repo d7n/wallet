@@ -1,1 +1,1 @@
-var mnemonic = "wage stereo garlic easily baby tool flight review urban silent inhale fantasy";
+var mnemonic = "dolphin ocean annual torch vague cliff matter custom celery main have couple";

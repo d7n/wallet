@@ -1,1 +1,1 @@
-var mnemonic = "law scout rifle giant battle hat common say lounge range indicate rocket";
+var mnemonic = "mimic abuse muffin beauty gold vast private lift enrich off punch critic";

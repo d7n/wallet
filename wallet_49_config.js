@@ -1,1 +1,1 @@
-var mnemonic = "topple height foam consider license universe forward analyst fitness zone inform flower";
+var mnemonic = "solve fabric hen put quantum figure absurd pole project involve public borrow";

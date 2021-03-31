@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog equal animal fruit amused volcano plastic warfare void mixture cricket what";
+var mnemonic = "law erase quote depart entry shadow magic wrestle zone replace wide feature";

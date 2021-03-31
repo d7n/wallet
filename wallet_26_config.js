@@ -1,1 +1,1 @@
-var mnemonic = "board fork noise predict tissue pluck buddy item great profit zebra clean";
+var mnemonic = "fun december visual pottery million risk easily recall loan expire ensure search";

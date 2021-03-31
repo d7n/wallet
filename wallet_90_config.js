@@ -1,1 +1,1 @@
-var mnemonic = "viable nerve purchase picture normal voyage good bracket lucky owner economy swim";
+var mnemonic = "rare short rule net amazing link danger mobile dune entire stone rate";

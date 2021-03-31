@@ -1,1 +1,1 @@
-var mnemonic = "stone bring loan sphere roast candy blush stock valley mail cycle know";
+var mnemonic = "yard witness subject machine become slab wash dawn rival pause jazz gadget";

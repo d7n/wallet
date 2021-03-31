@@ -1,1 +1,1 @@
-var mnemonic = "angry hello grow spot tent village shoulder debris law olympic vast draw";
+var mnemonic = "script day innocent nose kiwi edit manual across rescue absurd shed useful";

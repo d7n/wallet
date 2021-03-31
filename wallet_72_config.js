@@ -1,1 +1,1 @@
-var mnemonic = "area grid access symbol neglect kidney scale boss beyond lab april drum";
+var mnemonic = "giant train goddess grace fringe oyster review push boat satoshi steak position";

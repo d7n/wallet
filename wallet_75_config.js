@@ -1,1 +1,1 @@
-var mnemonic = "dilemma garden retreat solar surface month course because million balance elbow tower";
+var mnemonic = "vague leopard cotton fitness save melt shove style toy vote awake abstract";

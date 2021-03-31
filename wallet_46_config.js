@@ -1,1 +1,1 @@
-var mnemonic = "edge famous apple helmet victory order cube burden alarm scatter scene rice";
+var mnemonic = "general bargain side orient mixed jazz spread outer odor include famous special";

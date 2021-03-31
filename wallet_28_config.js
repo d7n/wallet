@@ -1,1 +1,1 @@
-var mnemonic = "width orange utility story mean chicken dove ticket cruel possible manual earth";
+var mnemonic = "quantum exhibit vendor link bounce finger farm trouble arena life try earth";

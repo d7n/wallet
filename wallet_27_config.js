@@ -1,1 +1,1 @@
-var mnemonic = "hidden enable margin hen then mention dwarf supply near capital fetch group";
+var mnemonic = "shuffle barrel patch middle year liberty rail roast window fever furnace eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "foot catch useless grid fancy craft combine address essence label shift language";
+var mnemonic = "slam image then cliff vast egg tongue venue require clump symptom coach";

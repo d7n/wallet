@@ -1,1 +1,1 @@
-var mnemonic = "dish popular dismiss acid hole message short gold fun slab raven dutch";
+var mnemonic = "twenty another steak charge crash obvious casual cabbage wage beach bulk unveil";

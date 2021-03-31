@@ -1,1 +1,1 @@
-var mnemonic = "question lunch uncover circle vibrant magic vibrant fix scene slam author knee";
+var mnemonic = "index title minor maximum end tonight latin veteran member palm alcohol milk";

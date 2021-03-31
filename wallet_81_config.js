@@ -1,1 +1,1 @@
-var mnemonic = "rely female stand disorder gossip auction peanut become view once climb wrap";
+var mnemonic = "screen fashion toe genre culture science awake churn swap obscure error vapor";

@@ -1,1 +1,1 @@
-var mnemonic = "frozen cat build success fall boring coach alert welcome excess deposit hood";
+var mnemonic = "turkey rural lyrics debate frame invite chaos cable gadget sail gravity over";

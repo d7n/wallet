@@ -1,1 +1,1 @@
-var mnemonic = "festival crop alien pitch drift outdoor auction dune gold pull boring valid";
+var mnemonic = "trim corn stereo venture budget square theory nephew drink dog domain regret";

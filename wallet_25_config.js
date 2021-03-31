@@ -1,1 +1,1 @@
-var mnemonic = "novel city below angle lake illness bitter chair devote useful soldier flag";
+var mnemonic = "wood dirt summer outdoor throw chief rifle rubber enforce kind fence select";

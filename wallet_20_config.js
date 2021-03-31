@@ -1,1 +1,1 @@
-var mnemonic = "unknown lady desert choice father perfect unknown critic congress rack jump lunch";
+var mnemonic = "fresh sand person candy damage truly differ dawn clay twin claim speed";

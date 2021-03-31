@@ -1,1 +1,1 @@
-var mnemonic = "length choice cable umbrella aware path orbit quantum squirrel fence drive blast";
+var mnemonic = "law method punch index delay outside over check extend bar worth absorb";

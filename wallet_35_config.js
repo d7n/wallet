@@ -1,1 +1,1 @@
-var mnemonic = "ecology team enhance pipe head luggage man way thank owner foster broken";
+var mnemonic = "leave glide afford usage ocean powder ring prison gorilla vehicle unhappy nation";

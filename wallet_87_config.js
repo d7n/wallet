@@ -1,1 +1,1 @@
-var mnemonic = "lucky wise prevent soul royal claw carry faculty quiz envelope caught license";
+var mnemonic = "only age uniform dizzy elephant chief silent else leader earth arctic flat";

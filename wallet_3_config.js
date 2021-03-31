@@ -1,1 +1,1 @@
-var mnemonic = "hurry prosper valve sudden sibling office current remain siren mule summer abuse";
+var mnemonic = "spoil bottom orient endorse lunar drink destroy frequent about ten album say";

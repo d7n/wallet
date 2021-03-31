@@ -1,1 +1,1 @@
-var mnemonic = "huge chapter immense battle recycle sweet police vote penalty organ alpha travel";
+var mnemonic = "army shed rough sting arrive copper breeze over urge airport guide chief";

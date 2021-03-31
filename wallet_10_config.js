@@ -1,1 +1,1 @@
-var mnemonic = "question bonus sting tape remove shoulder plug later release prison pause plastic";
+var mnemonic = "dolphin slim cycle turtle noble thought pact furnace return flash escape true";

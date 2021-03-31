@@ -1,1 +1,1 @@
-var mnemonic = "brass police skirt call doctor payment knee figure melody process dismiss web";
+var mnemonic = "aim oak hurdle humble virus already used trend inform slice bind firm";

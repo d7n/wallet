@@ -1,1 +1,1 @@
-var mnemonic = "visual abstract reject wolf gun camp canyon quality stove glimpse visa embark";
+var mnemonic = "artefact please hand cute frozen around iron virus fatal live shoulder morning";

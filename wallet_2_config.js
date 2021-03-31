@@ -1,1 +1,1 @@
-var mnemonic = "coin cabbage knife exhaust sauce wet neck never kangaroo lottery shove december";
+var mnemonic = "bag say moment loop melody expose sweet seminar flock vocal tattoo wink";

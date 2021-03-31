@@ -1,1 +1,1 @@
-var mnemonic = "ripple myself vanish panther smile fantasy welcome analyst private guard announce huge";
+var mnemonic = "walk debate athlete vendor little impact glory purity primary gym burden core";

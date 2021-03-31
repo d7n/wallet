@@ -1,1 +1,1 @@
-var mnemonic = "keen arrange token peasant fatal sustain unknown imitate anger hour leg try";
+var mnemonic = "ignore lonely share decide smile priority romance super define chunk master inflict";

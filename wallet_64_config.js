@@ -1,1 +1,1 @@
-var mnemonic = "sock volcano act focus crunch fold current pony protect pink crater firm";
+var mnemonic = "stairs kit swamp glimpse absurd tooth chest avoid treat fiction core million";

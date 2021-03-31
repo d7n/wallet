@@ -1,1 +1,1 @@
-var mnemonic = "suffer dirt car panic tell mesh acoustic despair build today edit elephant";
+var mnemonic = "chapter gravity exhibit flat flag assist plastic midnight goddess guilt universe genius";

@@ -1,1 +1,1 @@
-var mnemonic = "spider beyond people treat extend wool simple gaze promote unusual switch rigid";
+var mnemonic = "term act ostrich liquid diagram assist tide barely glad top embody marble";

@@ -1,1 +1,1 @@
-var mnemonic = "gallery thought now sun route wrong upon target harvest jar robust minute";
+var mnemonic = "sample supreme inquiry depth link measure inch snack elbow main rubber pride";

@@ -1,1 +1,1 @@
-var mnemonic = "nasty gallery ice veteran aunt science debris peace worry mesh ceiling treat";
+var mnemonic = "scene tissue sport boring lend mystery sudden detect magnet balcony because derive";

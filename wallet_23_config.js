@@ -1,1 +1,1 @@
-var mnemonic = "ensure foam expand horse achieve document aware invite already love desert expose";
+var mnemonic = "canal farm grain senior derive panic call define shy screen disagree another";

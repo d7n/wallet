@@ -1,1 +1,1 @@
-var mnemonic = "crater ski thumb wide tumble chalk consider beach very remove napkin time";
+var mnemonic = "toss powder orange explain average fan relief useless gain solar forest sight";

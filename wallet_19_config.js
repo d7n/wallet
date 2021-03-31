@@ -1,1 +1,1 @@
-var mnemonic = "brick biology quality valve boring cash coral half food under follow voyage";
+var mnemonic = "banner unaware receive miss arm moment honey sponsor diet tragic tree push";

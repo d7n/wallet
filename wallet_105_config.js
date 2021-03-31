@@ -1,1 +1,1 @@
-var mnemonic = "brush throw inform vehicle uniform sport amazing crack crunch margin rescue soda";
+var mnemonic = "motor pencil worry wine again bird alpha pipe shop cupboard bulb chicken";

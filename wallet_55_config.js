@@ -1,1 +1,1 @@
-var mnemonic = "song issue fever win expose edge online stereo harbor potato dismiss camera";
+var mnemonic = "drive invite involve garage month picnic unusual test smile music symptom consider";

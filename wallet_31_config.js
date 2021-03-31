@@ -1,1 +1,1 @@
-var mnemonic = "vocal over render soldier shiver cute rice silent brother flag seat boil";
+var mnemonic = "degree involve pioneer monster bless brisk ankle civil mass slice artefact fan";

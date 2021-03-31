@@ -1,1 +1,1 @@
-var mnemonic = "custom soon nation nature citizen balance female soft holiday endorse lion husband";
+var mnemonic = "other test stay above wolf message utility lesson chronic permit learn april";

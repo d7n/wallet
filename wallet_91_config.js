@@ -1,1 +1,1 @@
-var mnemonic = "mix glide fix custom beef fan edge prefer proof cheese change paddle";
+var mnemonic = "height sausage powder census library tower artist fuel order angle speed float";

@@ -1,1 +1,1 @@
-var mnemonic = "chat spatial shine load craft stand tattoo barely lizard holiday convince leave";
+var mnemonic = "possible admit doll stock busy sheriff know hawk write oxygen fabric wild";

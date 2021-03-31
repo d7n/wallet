@@ -1,1 +1,1 @@
-var mnemonic = "possible monitor rescue panic skirt surface issue eye enemy winner empower call";
+var mnemonic = "catalog poverty magnet cancel journey riot climb fashion note bench stone stool";

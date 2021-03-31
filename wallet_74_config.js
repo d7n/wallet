@@ -1,1 +1,1 @@
-var mnemonic = "depart subway all flee betray cinnamon wheel tail anger toy leader bring";
+var mnemonic = "eight kitchen lunch apology exhaust dish puzzle wealth option alien inhale flavor";

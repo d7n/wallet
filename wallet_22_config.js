@@ -1,1 +1,1 @@
-var mnemonic = "intact gun begin abstract slight aspect what shiver erode gaze master use";
+var mnemonic = "filter thrive youth goat protect hood true volcano coast grain seven define";

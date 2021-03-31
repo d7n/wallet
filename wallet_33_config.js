@@ -1,1 +1,1 @@
-var mnemonic = "waste taste photo power chaos pilot cave feel bamboo educate spend agent";
+var mnemonic = "panther screen appear kitten tennis crack pipe human flash crater execute style";

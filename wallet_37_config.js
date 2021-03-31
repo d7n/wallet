@@ -1,1 +1,1 @@
-var mnemonic = "seek magic blur state test cancel survey nominee vague horse ice tooth";
+var mnemonic = "faint garlic venture between allow unit curious hole bone exhibit follow isolate";

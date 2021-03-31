@@ -1,1 +1,1 @@
-var mnemonic = "guide ride globe upper loyal above waste garlic heart motion alpha nuclear";
+var mnemonic = "install click close man limit knife canyon brass judge age virus senior";

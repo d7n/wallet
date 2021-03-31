@@ -1,1 +1,1 @@
-var mnemonic = "buzz hidden auction field fever alarm success verify bone say trick orbit";
+var mnemonic = "idea advice history bird evidence sell gauge busy round rude suffer rural";

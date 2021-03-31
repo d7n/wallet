@@ -1,1 +1,1 @@
-var mnemonic = "direct cloth laugh fresh clever avocado man traffic merry train fit document";
+var mnemonic = "useless fork monitor island gorilla flush orange near analyst jelly artist spot";

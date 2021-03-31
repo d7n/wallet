@@ -1,1 +1,1 @@
-var mnemonic = "either tragic protect random yellow use tell must fence lesson dial position";
+var mnemonic = "sunset brand ladder genre speed van balance tourist rug fringe century boss";

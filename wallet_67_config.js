@@ -1,1 +1,1 @@
-var mnemonic = "game cup kind response shuffle palace illegal salad click marble seven lonely";
+var mnemonic = "eagle pigeon path letter toy click fever morning gold round emerge mule";

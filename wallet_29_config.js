@@ -1,1 +1,1 @@
-var mnemonic = "grace object artefact book humble coin brush pumpkin oppose entire hidden hood";
+var mnemonic = "vital whale win cloth palace leg vital riot famous tattoo physical strategy";

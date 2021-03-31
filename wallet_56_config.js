@@ -1,1 +1,1 @@
-var mnemonic = "female infant warrior lawn grunt cushion artwork boss action claw group around";
+var mnemonic = "aspect gift curve pyramid loyal coconut bacon arena potato dutch concert property";

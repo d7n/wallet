@@ -1,1 +1,1 @@
-var mnemonic = "discover flee unhappy course furnace curious science normal genre comfort pelican trash";
+var mnemonic = "chunk ticket acoustic quality angle husband life empty amount pretty need shadow";

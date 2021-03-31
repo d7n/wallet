@@ -1,1 +1,1 @@
-var mnemonic = "can nose seek upgrade reveal spy wreck transfer course verb hybrid cupboard";
+var mnemonic = "analyst kangaroo raccoon evidence host truth shy wild trade note prepare fee";

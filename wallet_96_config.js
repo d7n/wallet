@@ -1,1 +1,1 @@
-var mnemonic = "book forest action couch panther what loyal unusual damage profit fine thunder";
+var mnemonic = "fringe corn obtain blast breeze festival correct remember broom industry popular often";

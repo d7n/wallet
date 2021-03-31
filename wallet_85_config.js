@@ -1,1 +1,1 @@
-var mnemonic = "wink share lawsuit dilemma lucky vote rich slim recycle remain gate blur";
+var mnemonic = "random skull seat lamp skate eyebrow moral muffin ozone royal business prison";

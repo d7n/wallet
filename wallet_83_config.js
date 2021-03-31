@@ -1,1 +1,1 @@
-var mnemonic = "jeans near mechanic demise rapid special dynamic patch tortoise avoid neither play";
+var mnemonic = "minimum federal place depart cactus venue antenna want lend soon fall danger";

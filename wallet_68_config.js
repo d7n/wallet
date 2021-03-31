@@ -1,1 +1,1 @@
-var mnemonic = "profit thank pledge gallery uphold slab choice cover interest donor gift vote";
+var mnemonic = "fee snack shop chapter wonder own bag employ buzz require foster vehicle";

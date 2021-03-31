@@ -1,1 +1,1 @@
-var mnemonic = "priority travel witness face now roast fresh tomato mail wild theme slight";
+var mnemonic = "spring news neutral already tornado ceiling exercise question portion service better twelve";

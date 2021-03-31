@@ -1,1 +1,1 @@
-var mnemonic = "field armed isolate knee skate weird decorate scrub satoshi leaf swamp unique";
+var mnemonic = "mesh fossil cross toilet wash clutch web fade frame topic bottom milk";

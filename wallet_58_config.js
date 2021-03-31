@@ -1,1 +1,1 @@
-var mnemonic = "arena category torch world embark bless balance idea snap viable combine candy";
+var mnemonic = "poet picture stamp this phrase comic forum shine toddler sausage mind crack";

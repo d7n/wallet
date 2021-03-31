@@ -1,1 +1,1 @@
-var mnemonic = "level book absurd duty keen wait feed belt give rescue spirit crunch";
+var mnemonic = "message only silver fever ticket addict unfair canvas cool kit blossom fog";

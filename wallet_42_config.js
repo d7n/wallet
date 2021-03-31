@@ -1,1 +1,1 @@
-var mnemonic = "will journey drift glare leisure buddy attend steak bicycle sniff stove confirm";
+var mnemonic = "anger doll outdoor own first trick spoon couch visit luggage infant tide";

@@ -1,1 +1,1 @@
-var mnemonic = "family sing source reunion seed company visa puzzle forget carpet one helmet";
+var mnemonic = "morning great mushroom fashion scrap shrug toddler figure wide amateur evil parrot";

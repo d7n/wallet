@@ -1,1 +1,1 @@
-var mnemonic = "lava news abuse pitch pizza cycle hen gravity acoustic blouse please lounge";
+var mnemonic = "open history devote gym news chalk hire grain combine afraid three satoshi";

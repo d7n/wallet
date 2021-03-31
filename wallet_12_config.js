@@ -1,1 +1,1 @@
-var mnemonic = "parent behind meat autumn spend scorpion total demand follow figure duty mesh";
+var mnemonic = "elbow vacant sponsor same faith input grit funny design coffee siren sea";

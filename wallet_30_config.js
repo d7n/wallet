@@ -1,1 +1,1 @@
-var mnemonic = "dial swear infant harsh artefact weekend turkey grass flat ring road hunt";
+var mnemonic = "runway buyer oil nation drink motor display addict insect load diamond stool";

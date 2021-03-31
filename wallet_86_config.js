@@ -1,1 +1,1 @@
-var mnemonic = "call phone pumpkin gap crystal exit rule cluster worth puppy eagle word";
+var mnemonic = "expand toy elbow resist either eyebrow harvest fuel anchor shock vacuum antique";

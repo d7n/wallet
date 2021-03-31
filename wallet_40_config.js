@@ -1,1 +1,1 @@
-var mnemonic = "curve victory sleep notice tonight poem nice rude buffalo awkward arena dial";
+var mnemonic = "access cheap when filter shiver vessel object cruise visual castle private angle";

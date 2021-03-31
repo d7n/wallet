@@ -1,1 +1,1 @@
-var mnemonic = "have title voice focus still reveal layer arctic devote divert identify episode";
+var mnemonic = "danger hill urban attend click void inject impulse knife victory win cupboard";

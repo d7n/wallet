@@ -1,1 +1,1 @@
-var mnemonic = "olive stadium stove dentist unfair metal dose begin discover myth render lazy";
+var mnemonic = "void awesome gap scheme shield fade denial minimum arrange grab law gain";

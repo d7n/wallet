@@ -1,1 +1,1 @@
-var mnemonic = "depend chair little school wisdom track spot syrup collect what pill blade";
+var mnemonic = "fluid top mercy mouse wall casual waste crack narrow panda version success";

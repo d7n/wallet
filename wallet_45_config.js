@@ -1,1 +1,1 @@
-var mnemonic = "kidney october effort dizzy panic coconut entry push tray battle drop muscle";
+var mnemonic = "general fluid kitten floor drama sun aim brother mimic twice awkward inject";

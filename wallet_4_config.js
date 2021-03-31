@@ -1,1 +1,1 @@
-var mnemonic = "course master trumpet local confirm uniform witness inform sausage what ribbon fix";
+var mnemonic = "episode tube census bacon actor barrel dress sting economy party lunar coyote";

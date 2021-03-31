@@ -1,1 +1,1 @@
-var mnemonic = "range advance bench cave claw degree exercise category season strike sound design";
+var mnemonic = "merry source jaguar blossom toward smile hand trash inside sustain miss panel";

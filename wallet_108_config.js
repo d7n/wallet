@@ -1,1 +1,1 @@
-var mnemonic = "weasel rose veteran diesel witness hub limb garment bird glory gravity nerve";
+var mnemonic = "once large bottom caught that capable crowd grocery celery fiction float wrist";

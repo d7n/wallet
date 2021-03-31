@@ -1,1 +1,1 @@
-var mnemonic = "noodle other movie property dignity act tower rice liquid bamboo shrug zone";
+var mnemonic = "wasp album asthma sister auction gloom skin thought scare champion meat across";

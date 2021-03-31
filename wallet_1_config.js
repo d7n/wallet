@@ -1,1 +1,1 @@
-var mnemonic = "taxi fade museum celery comic left pumpkin auto faculty digital length sting";
+var mnemonic = "vivid series poverty olive ensure chest marble intact odor offer main fresh";

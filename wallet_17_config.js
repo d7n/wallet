@@ -1,1 +1,1 @@
-var mnemonic = "extra rotate duty casual maid library jungle speed arrange midnight develop orbit";
+var mnemonic = "crack thing edit mouse adapt mistake west snack secret post build banner";

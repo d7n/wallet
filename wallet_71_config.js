@@ -1,1 +1,1 @@
-var mnemonic = "tube rely deliver feature cloud wait notice deliver loop travel wet fee";
+var mnemonic = "visa remain leader vanish popular whisper ball page smoke tube deer outer";

@@ -1,1 +1,1 @@
-var mnemonic = "bone guard bright knee lab bean what lava park armor minor deny";
+var mnemonic = "jaguar spare invite mango student accuse oval inform army valley figure flower";

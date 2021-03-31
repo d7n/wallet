@@ -1,1 +1,1 @@
-var mnemonic = "abandon obvious addict retreat right attract diagram tower add seat mixed approve";
+var mnemonic = "mind street vital prepare train spring exit million truly egg fold embrace";
