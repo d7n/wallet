@@ -1,1 +1,1 @@
-var mnemonic = "mercy grief this essence sing frost frown spoil fault rough suffer pause";
+var mnemonic = "release mimic same potato couch butter load verb cram oven reject whisper";

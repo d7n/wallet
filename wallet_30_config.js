@@ -1,1 +1,1 @@
-var mnemonic = "kit material sorry govern present mammal sugar broken run lion cook spot";
+var mnemonic = "rival quantum airport absorb sort total forward canvas panda enlist clever net";

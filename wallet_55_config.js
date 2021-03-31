@@ -1,1 +1,1 @@
-var mnemonic = "eagle gaze symbol consider real dance slab please sense return slim second";
+var mnemonic = "mixed click kick dwarf because sign bargain citizen brave bullet prevent innocent";

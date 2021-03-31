@@ -1,1 +1,1 @@
-var mnemonic = "ocean add divorce sorry child shallow sting visa flock quit hello mango";
+var mnemonic = "bleak move eager quote edit become vacant impulse seven action night hood";

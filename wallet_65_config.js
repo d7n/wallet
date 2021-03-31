@@ -1,1 +1,1 @@
-var mnemonic = "earn soon tiny text tomorrow area sand spatial chicken gown library typical";
+var mnemonic = "gate parrot donate hamster perfect pulse debate phone increase outside vehicle swear";

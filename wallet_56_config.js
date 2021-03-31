@@ -1,1 +1,1 @@
-var mnemonic = "clever deer throw whip ostrich remind decide piece what fat danger believe";
+var mnemonic = "across senior nation dove rate tray target angle erosion short emotion idea";

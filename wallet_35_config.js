@@ -1,1 +1,1 @@
-var mnemonic = "fame soul vast view refuse peanut bomb try rely warfare thing crane";
+var mnemonic = "tone tunnel hazard fold liar brisk warm inner appear medal lucky common";

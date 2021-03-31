@@ -1,1 +1,1 @@
-var mnemonic = "hotel belt clean worry myself tattoo casual night cousin anxiety process stadium";
+var mnemonic = "document pottery benefit spoon reason brick increase author priority man chest arena";

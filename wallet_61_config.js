@@ -1,1 +1,1 @@
-var mnemonic = "tip kangaroo hobby hip title valley lucky exile hybrid olive senior arrest";
+var mnemonic = "minor roast faint bridge pretty flip fetch mule concert urban flat arrow";

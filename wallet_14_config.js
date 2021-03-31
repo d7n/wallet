@@ -1,1 +1,1 @@
-var mnemonic = "motion kit fit business assault tide happy kite derive give jaguar differ";
+var mnemonic = "shock solar judge tobacco tape ten mesh fence shrimp diamond early similar";

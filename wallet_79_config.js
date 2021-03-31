@@ -1,1 +1,1 @@
-var mnemonic = "dial tomato tone duck tool ticket ladder keep dice meat come elevator";
+var mnemonic = "cheese peanut adult found reject gravity drastic silver valve cover alien cigar";

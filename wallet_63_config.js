@@ -1,1 +1,1 @@
-var mnemonic = "story coin swear void catalog then fossil camera kid soon couple second";
+var mnemonic = "spray sniff loan physical ostrich sugar flip rocket method fog display impose";

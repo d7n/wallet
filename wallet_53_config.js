@@ -1,1 +1,1 @@
-var mnemonic = "can ability tag relax prevent physical spike demise puzzle code essence miracle";
+var mnemonic = "swing crawl actual gun zebra rely crisp raccoon link figure invest purse";

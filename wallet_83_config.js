@@ -1,1 +1,1 @@
-var mnemonic = "fitness tornado promote essence distance crawl soap casual gas rule conduct team";
+var mnemonic = "number live pact boost castle creek double slim parent duty first tribe";

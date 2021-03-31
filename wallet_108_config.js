@@ -1,1 +1,1 @@
-var mnemonic = "negative figure topple maid program drop dismiss index yard purity vacant basic";
+var mnemonic = "cancel muscle today clutch deal bird salon mouse memory hotel step uniform";

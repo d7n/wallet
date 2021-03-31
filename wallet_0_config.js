@@ -1,1 +1,1 @@
-var mnemonic = "history foot valley snake miss lesson shoe among give wrestle crew average";
+var mnemonic = "water random tuition pupil waste smoke allow earth repair shrug enjoy spoil";

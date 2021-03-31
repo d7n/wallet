@@ -1,1 +1,1 @@
-var mnemonic = "lion pride method soon slide clock decide finish divert useless foster ribbon";
+var mnemonic = "label position carpet attitude debate couple ginger bonus sniff gallery inner effort";

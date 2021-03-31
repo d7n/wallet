@@ -1,1 +1,1 @@
-var mnemonic = "involve soda require object have broom gas follow avocado eternal exchange kitten";
+var mnemonic = "fashion pill pull illegal dentist jar flush prosper brass critic spray asset";

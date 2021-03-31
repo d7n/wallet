@@ -1,1 +1,1 @@
-var mnemonic = "dragon scare loan tree april asset cupboard hotel often fashion conduct frog";
+var mnemonic = "grab crew hurdle require whip inherit box evolve robot bitter vintage shiver";

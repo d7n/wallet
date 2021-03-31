@@ -1,1 +1,1 @@
-var mnemonic = "short cook afford aware blossom neutral bird student renew dream jewel weapon";
+var mnemonic = "silk master reunion early position steak magic tourist farm desk earn stumble";

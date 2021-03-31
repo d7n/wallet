@@ -1,1 +1,1 @@
-var mnemonic = "pink replace income repeat receive suffer expand three artist curious suggest reflect";
+var mnemonic = "above help tunnel fold slender glove legend pause dove lesson gaze violin";

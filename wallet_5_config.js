@@ -1,1 +1,1 @@
-var mnemonic = "avoid chair cancel sport slab trouble trash young avoid plastic winter ship";
+var mnemonic = "bean island dwarf unable range list airport hundred merit balcony pond resource";

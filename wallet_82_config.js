@@ -1,1 +1,1 @@
-var mnemonic = "barrel shrug bulk left link high copy half elbow skin action lawn";
+var mnemonic = "valid brain stand oven pigeon cake black exercise copper diagram agree distance";

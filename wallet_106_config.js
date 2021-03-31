@@ -1,1 +1,1 @@
-var mnemonic = "brief donkey scale helmet dad float year napkin access real arrest key";
+var mnemonic = "spice arena situate october torch garage test bitter swallow belt gallery oven";

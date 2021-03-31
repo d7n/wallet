@@ -1,1 +1,1 @@
-var mnemonic = "boss trick brand elder crouch mesh egg bid nut collect sample liar";
+var mnemonic = "hedgehog urban master pyramid public hurdle sight trade wheat provide torch tank";

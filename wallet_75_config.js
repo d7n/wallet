@@ -1,1 +1,1 @@
-var mnemonic = "reason tornado ozone benefit crisp lyrics cricket unknown empty boy leader globe";
+var mnemonic = "inside sister predict vapor display insect spice arrow parent pig mom riot";

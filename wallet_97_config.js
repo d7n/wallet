@@ -1,1 +1,1 @@
-var mnemonic = "blast green salmon hero picture debris rice angle unveil enroll gasp globe";
+var mnemonic = "buyer toward ensure virtual skill put lucky slush action victory fine sting";

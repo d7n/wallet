@@ -1,1 +1,1 @@
-var mnemonic = "steak disorder budget story problem slot define upgrade write quit snow piano";
+var mnemonic = "stage solution viable imitate clean depend already dice ugly hope that estate";

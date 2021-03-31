@@ -1,1 +1,1 @@
-var mnemonic = "defense float kangaroo rare purse guide mammal sister script senior cup pudding";
+var mnemonic = "path transfer common account stamp unaware input hurt course caution town bright";

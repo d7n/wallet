@@ -1,1 +1,1 @@
-var mnemonic = "arch health pulse champion dune law peanut alone liar dune magnet salad";
+var mnemonic = "year foster alarm unlock cook swing rifle rose retire quality apart utility";

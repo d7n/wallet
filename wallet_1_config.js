@@ -1,1 +1,1 @@
-var mnemonic = "chuckle source bike wild fall party twenty lawn license popular fit lava";
+var mnemonic = "unusual credit unusual jaguar wet glad evolve midnight dawn siege ring twenty";

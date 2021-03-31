@@ -1,1 +1,1 @@
-var mnemonic = "tomorrow ring insect walnut illness ten fantasy voice arrest upset slight catch";
+var mnemonic = "cook grocery unusual volcano change ritual give develop panther vacant proud honey";

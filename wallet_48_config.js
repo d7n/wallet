@@ -1,1 +1,1 @@
-var mnemonic = "awake coconut movie media wire online letter during august reopen salt peasant";
+var mnemonic = "defy heavy panel smart air scorpion miracle puzzle glove twice tornado spoon";

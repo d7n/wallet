@@ -1,1 +1,1 @@
-var mnemonic = "jealous cannon unaware poet woman honey visit mass predict title crawl dentist";
+var mnemonic = "meadow require express creek can demand what sphere shuffle wave avocado energy";

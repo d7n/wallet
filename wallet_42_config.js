@@ -1,1 +1,1 @@
-var mnemonic = "wide ticket during vendor moment soldier choice helmet brand safe leg traffic";
+var mnemonic = "swim visit weasel valve betray put veteran mobile elephant drama economy topic";

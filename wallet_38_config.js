@@ -1,1 +1,1 @@
-var mnemonic = "picture flame latin believe champion hybrid orbit mosquito drastic fragile gesture pistol";
+var mnemonic = "radio sun hair father pluck provide check inch furnace thank unit cricket";

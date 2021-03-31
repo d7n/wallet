@@ -1,1 +1,1 @@
-var mnemonic = "range bracket steel jaguar caution uniform void mystery crop van sand cable";
+var mnemonic = "rebel east busy speak require layer run indoor language ice leaf orbit";

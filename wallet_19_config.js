@@ -1,1 +1,1 @@
-var mnemonic = "this rare sea demand feature trap green rule banana action april dilemma";
+var mnemonic = "lecture improve tongue include wall dentist budget warrior leader lava explain excite";

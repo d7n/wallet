@@ -1,1 +1,1 @@
-var mnemonic = "fortune fossil pelican fan release auction polar keen pipe boil trick vehicle";
+var mnemonic = "clip march pretty table cement tomorrow custom tobacco alcohol enlist certain nest";

@@ -1,1 +1,1 @@
-var mnemonic = "phone ritual pumpkin faith lamp boost staff relax response slight donor soccer";
+var mnemonic = "curtain hybrid fringe truth economy legal melody hamster problem earn range essence";

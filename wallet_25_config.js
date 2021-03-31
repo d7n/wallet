@@ -1,1 +1,1 @@
-var mnemonic = "culture bachelor come guilt style sheriff pizza history grab fiber refuse join";
+var mnemonic = "under can romance tired stand cycle glad miss economy impose resist venture";

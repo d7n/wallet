@@ -1,1 +1,1 @@
-var mnemonic = "doctor pride allow shallow weekend creek tent helmet scout inch uncover clog";
+var mnemonic = "only tilt cactus property injury hold swamp pig degree lava lab improve";

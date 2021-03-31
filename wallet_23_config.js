@@ -1,1 +1,1 @@
-var mnemonic = "immune old diagram poem mean garment addict rail empower meat achieve donor";
+var mnemonic = "moral horse fashion enable describe spider purpose home sausage then pipe expose";

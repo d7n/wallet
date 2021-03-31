@@ -1,1 +1,1 @@
-var mnemonic = "exotic cabbage divide long lend tank spend hen army laptop equal oyster";
+var mnemonic = "expand current shaft journey turkey mercy unusual front bright cause step sport";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal sock coin expand glance during hockey ozone elbow pony paper absorb";
+var mnemonic = "need trend movie hover assume atom measure maid talent palace crack viable";

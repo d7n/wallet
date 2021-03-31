@@ -1,1 +1,1 @@
-var mnemonic = "tooth final skull salon cry alert creek despair remove dawn submit shoot";
+var mnemonic = "install false project yard avoid develop custom idea beach render ticket plug";

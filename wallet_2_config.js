@@ -1,1 +1,1 @@
-var mnemonic = "robot wear stone scrap tray trade smart excuse dust liar imitate abstract";
+var mnemonic = "rely witness expire diesel judge basic oxygen cherry shoe discover sibling stuff";

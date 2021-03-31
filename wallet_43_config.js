@@ -1,1 +1,1 @@
-var mnemonic = "credit joke ugly wonder episode blame dutch mammal cruel bonus stereo nature";
+var mnemonic = "duck list pottery pony theme vacant survey mammal method category undo invest";

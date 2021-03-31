@@ -1,1 +1,1 @@
-var mnemonic = "life provide badge nest ladder laugh clinic panther lava beach strategy wolf";
+var mnemonic = "refuse chef degree nephew vast dash abstract inmate penalty away stumble gesture";

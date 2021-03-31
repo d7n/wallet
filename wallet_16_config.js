@@ -1,1 +1,1 @@
-var mnemonic = "valley friend forget adjust cinnamon safe defy stadium evidence father paper lumber";
+var mnemonic = "chalk great type like narrow husband wash fringe arctic cat today pact";

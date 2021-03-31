@@ -1,1 +1,1 @@
-var mnemonic = "abstract fatal absorb virus address faculty bright holiday bracket powder dutch effort";
+var mnemonic = "column fire coin simple fence alien vivid blame sustain six fuel harvest";

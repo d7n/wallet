@@ -1,1 +1,1 @@
-var mnemonic = "ahead adult census release danger parrot custom paper above cart symptom mom";
+var mnemonic = "chef team chief region mixture cargo remember hard kitchen casual square desert";

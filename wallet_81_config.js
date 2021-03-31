@@ -1,1 +1,1 @@
-var mnemonic = "slide panic muffin decline casino scatter merry civil october day cream idle";
+var mnemonic = "purpose strike setup chuckle faculty lecture mom piano club violin evolve forget";

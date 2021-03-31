@@ -1,1 +1,1 @@
-var mnemonic = "marriage cannon stable book smoke wait away negative purpose holiday video frost";
+var mnemonic = "student number dilemma gather game smoke cousin since type spoon history wash";

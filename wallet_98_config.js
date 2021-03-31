@@ -1,1 +1,1 @@
-var mnemonic = "main fox auto little good jewel umbrella parade funny wrong farm miss";
+var mnemonic = "trap resource swift mask master power upon search mandate umbrella truly squirrel";

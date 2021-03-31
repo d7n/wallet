@@ -1,1 +1,1 @@
-var mnemonic = "sword broken hub argue column bag letter drift open mandate tip unknown";
+var mnemonic = "velvet estate bring anger neither toilet sight swift moon antenna spin embrace";

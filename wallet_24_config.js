@@ -1,1 +1,1 @@
-var mnemonic = "below walk tomorrow basic tone olive affair remember rival lumber click accuse";
+var mnemonic = "gravity repeat lazy impose devote inflict street clean assist wood patient trim";

@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow country ghost rescue require matter recall border route possible write jump";
+var mnemonic = "range error visual kangaroo awake display garbage uphold shadow disagree sure alter";

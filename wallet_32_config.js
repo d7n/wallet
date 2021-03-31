@@ -1,1 +1,1 @@
-var mnemonic = "draw shaft yellow voice shoulder blast aware panic explain oil solution cricket";
+var mnemonic = "text measure assist funny tool family pole range regular cross trial file";

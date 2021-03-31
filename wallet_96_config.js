@@ -1,1 +1,1 @@
-var mnemonic = "ride found broom forest cat dinosaur combine derive curve lumber soccer captain";
+var mnemonic = "dream stay humor foster palace must knee cube swamp wagon move check";

@@ -1,1 +1,1 @@
-var mnemonic = "fever essence wreck farm mesh escape zero true move empty journey rhythm";
+var mnemonic = "nasty top school room rubber renew flag mouse dumb hidden thrive female";

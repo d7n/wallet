@@ -1,1 +1,1 @@
-var mnemonic = "ice repair witness valve puzzle bomb game wall stove jar enter mirror";
+var mnemonic = "jaguar spice dog story plug early gesture menu physical cabbage spend wet";

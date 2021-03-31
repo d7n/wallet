@@ -1,1 +1,1 @@
-var mnemonic = "float domain impact rotate metal lunar forget glad clown reflect olive ability";
+var mnemonic = "riot derive club draft stage keep around warm chapter post decide disagree";

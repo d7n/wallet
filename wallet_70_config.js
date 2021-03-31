@@ -1,1 +1,1 @@
-var mnemonic = "bulb still bicycle camp armed great cousin room planet reject wink toss";
+var mnemonic = "afraid laptop globe tool outside work excite usage buzz ship toast copper";

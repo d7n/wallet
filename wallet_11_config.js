@@ -1,1 +1,1 @@
-var mnemonic = "rack choose wage tail comfort worth almost raw endorse decade marble tackle";
+var mnemonic = "profit shrug wear amused skill energy jump bunker airport maid grief awake";

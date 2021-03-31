@@ -1,1 +1,1 @@
-var mnemonic = "room letter leave sleep romance unaware major above delay trash camp prepare";
+var mnemonic = "equip elder poverty drive squeeze stem spawn harvest usual raise feed crew";

@@ -1,1 +1,1 @@
-var mnemonic = "adjust funny blade vendor one cruise giant slow jealous road flee rate";
+var mnemonic = "flower vivid try rack history skull risk dignity orbit run exact bless";

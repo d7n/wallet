@@ -1,1 +1,1 @@
-var mnemonic = "drip point notable hold tiny swap clip faculty jacket foot cart section";
+var mnemonic = "evidence when wine jeans recipe stomach furnace chalk below aunt connect cover";

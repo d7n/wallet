@@ -1,1 +1,1 @@
-var mnemonic = "cage diet wrap flat scrap butter minute afraid produce dynamic build length";
+var mnemonic = "uniform antique tomato kind patient zero spare dance scrap tomato someone entry";

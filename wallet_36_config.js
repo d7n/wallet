@@ -1,1 +1,1 @@
-var mnemonic = "spawn tomorrow shine master together energy chaos hover elevator frame rhythm toe";
+var mnemonic = "mirror drive same correct apart carpet transfer grow alert agree artwork tomorrow";

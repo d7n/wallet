@@ -1,1 +1,1 @@
-var mnemonic = "action cave idea joke afford trophy loyal walk pizza zebra marriage wool";
+var mnemonic = "lecture silent nose pill rapid unit grid amused hat inherit try peanut";

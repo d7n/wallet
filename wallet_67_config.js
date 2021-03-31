@@ -1,1 +1,1 @@
-var mnemonic = "phrase quote bomb ketchup phone typical tissue know two lizard horn cycle";
+var mnemonic = "bright used photo winter journey receive avocado wool frown token lens verb";

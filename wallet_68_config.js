@@ -1,1 +1,1 @@
-var mnemonic = "pink evidence exchange embody crouch dove kid allow object rotate ring various";
+var mnemonic = "upgrade illness venture child pet program festival grab brass accident large expose";

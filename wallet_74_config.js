@@ -1,1 +1,1 @@
-var mnemonic = "velvet brass banner good swamp salt define attitude category deputy cash hurt";
+var mnemonic = "secret furnace illegal garden photo inhale collect wealth mechanic wealth similar sight";

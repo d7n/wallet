@@ -1,1 +1,1 @@
-var mnemonic = "city burst jacket unaware alcohol slush gate helmet outside under able vote";
+var mnemonic = "marriage diamond gas silent flock system phone anxiety useful monster symptom holiday";

@@ -1,1 +1,1 @@
-var mnemonic = "comfort shuffle much butter rate horror coyote best tongue avoid vacuum gain";
+var mnemonic = "minor push soft sponsor assault rib woman oppose garbage much cash process";

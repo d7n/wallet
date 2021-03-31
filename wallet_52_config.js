@@ -1,1 +1,1 @@
-var mnemonic = "cart special rookie random cabin laundry banner debris chaos sweet kite wink";
+var mnemonic = "brass asset you come solution husband peasant oak dance insane tissue perfect";

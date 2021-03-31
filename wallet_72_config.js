@@ -1,1 +1,1 @@
-var mnemonic = "sugar custom seat rail bronze uniform weather across barrel shrug pony pencil";
+var mnemonic = "vanish cup congress marriage you nice bid unit mom pyramid harsh oval";

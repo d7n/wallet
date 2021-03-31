@@ -1,1 +1,1 @@
-var mnemonic = "pull wear gain genuine tank december female scrap rare obscure example island";
+var mnemonic = "bounce ticket margin slab stem wonder two noble unveil scheme session that";

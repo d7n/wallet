@@ -1,1 +1,1 @@
-var mnemonic = "hobby clever blind box velvet that indoor inhale taxi plate swamp carry";
+var mnemonic = "bus vapor pipe about purity choose baby dad heavy scrap obscure rigid";

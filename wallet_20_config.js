@@ -1,1 +1,1 @@
-var mnemonic = "reflect cause bone kiss verify seat tray boss pepper million sunny table";
+var mnemonic = "expand leopard custom silver injury match evidence morning town cat tell glare";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture cover festival analyst axis soda rent mule forget time couch universe";
+var mnemonic = "exile eight vehicle ability tonight cable mix purity also evoke tape maximum";

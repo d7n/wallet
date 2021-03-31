@@ -1,1 +1,1 @@
-var mnemonic = "cannon supreme wrong render pledge assume hope auction caught rigid upper tonight";
+var mnemonic = "nest gaze avoid reward knee seed maple nasty alert tenant spell twist";

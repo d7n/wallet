@@ -1,1 +1,1 @@
-var mnemonic = "bag clay hero vacuum garage sure improve flip glide eternal wink silk";
+var mnemonic = "width vapor mesh below mirror photo twenty coconut visual arctic suit mask";

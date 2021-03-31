@@ -1,1 +1,1 @@
-var mnemonic = "solar subway response trophy buffalo actress over define canal segment celery conduct";
+var mnemonic = "gun rescue tuition mind toward shop effort weapon moon relief resource gravity";

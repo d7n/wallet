@@ -1,1 +1,1 @@
-var mnemonic = "script violin renew lens since fury lumber wish slab mutual world filter";
+var mnemonic = "initial region fine arm potato sibling dune cool labor boat initial museum";
