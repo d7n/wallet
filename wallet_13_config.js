@@ -1,1 +1,1 @@
-var mnemonic = "session squeeze bright depth snake merry actual hollow mango ability trophy interest";
+var mnemonic = "shine brisk logic boss grape afraid permit common dismiss popular extra early";

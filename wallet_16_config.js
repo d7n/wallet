@@ -1,1 +1,1 @@
-var mnemonic = "caution deposit noise prefer joy basic beach prison east drill small topic";
+var mnemonic = "twice sketch open mask eight bulb column prosper worth rebel saddle lounge";

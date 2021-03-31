@@ -1,1 +1,1 @@
-var mnemonic = "swing orient flee decade rigid skirt math degree excite hole cricket add";
+var mnemonic = "supply trumpet tower donkey nerve empty sugar omit claw screen avoid pact";

@@ -1,1 +1,1 @@
-var mnemonic = "relief fury inject transfer love sound dwarf strong food chronic north core";
+var mnemonic = "menu main practice normal cinnamon width canoe employ network unveil craft clay";

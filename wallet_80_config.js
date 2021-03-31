@@ -1,1 +1,1 @@
-var mnemonic = "danger prosper loan accuse robust frog fossil airport rigid fringe urge tackle";
+var mnemonic = "wedding slogan when february wave bounce ugly sight upgrade swear noise surprise";

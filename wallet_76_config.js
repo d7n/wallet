@@ -1,1 +1,1 @@
-var mnemonic = "any believe flat ready penalty target rapid exit lion street client room";
+var mnemonic = "favorite brain april marble message convince proud select fish action link bread";

@@ -1,1 +1,1 @@
-var mnemonic = "remove cable parade peasant infant lyrics cup planet orange invest atom market";
+var mnemonic = "zero crime vapor use genuine asset melody day snap picture tourist december";

@@ -1,1 +1,1 @@
-var mnemonic = "mention wear brand nurse march install awake grape art design nerve panda";
+var mnemonic = "lake rhythm already year peace exchange flush desert public tissue friend omit";

@@ -1,1 +1,1 @@
-var mnemonic = "theme time tip jacket spawn flash town multiply owner kitchen hour round";
+var mnemonic = "elevator spice century filter thing demise vital kite burst snow same govern";

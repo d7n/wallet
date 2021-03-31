@@ -1,1 +1,1 @@
-var mnemonic = "critic vote nurse pottery artwork lizard eyebrow modify ability hurdle flavor olympic";
+var mnemonic = "brother jacket turtle viable holiday hospital front drink volume shoot toy snack";

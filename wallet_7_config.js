@@ -1,1 +1,1 @@
-var mnemonic = "busy pink crawl candy zebra tunnel family gossip useful visual nephew mom";
+var mnemonic = "bone erosion pencil master load mixture surprise setup violin ordinary town family";

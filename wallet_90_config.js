@@ -1,1 +1,1 @@
-var mnemonic = "vapor bright love code carbon sell flush ask salad stumble hungry noodle";
+var mnemonic = "observe flower romance leaf wave blind fluid receive inner dial lecture hour";

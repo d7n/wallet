@@ -1,1 +1,1 @@
-var mnemonic = "believe useless render swamp kind truth output casino crack burden acoustic gather";
+var mnemonic = "breeze glass puzzle long myth farm leaf media ostrich toward twist unfold";

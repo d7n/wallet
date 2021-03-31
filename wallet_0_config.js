@@ -1,1 +1,1 @@
-var mnemonic = "poem zoo wrap purity prison riot job walk erase below mistake reflect";
+var mnemonic = "exotic shoot zone industry vacuum document garbage toss lift throw banner behind";

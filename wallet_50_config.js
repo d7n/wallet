@@ -1,1 +1,1 @@
-var mnemonic = "process cross suggest vicious vague point hint enhance century head airport cage";
+var mnemonic = "shell beyond excite diesel world initial sudden beyond jump debate stuff peanut";

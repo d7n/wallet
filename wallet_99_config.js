@@ -1,1 +1,1 @@
-var mnemonic = "scan unusual wave blast start relax citizen unusual wing monkey coconut service";
+var mnemonic = "urban fever dynamic model crowd unfold educate prevent innocent brisk raven mention";

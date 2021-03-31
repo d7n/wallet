@@ -1,1 +1,1 @@
-var mnemonic = "shoot current drive harsh knee huge collect place manage such burden rival";
+var mnemonic = "exile garlic space similar nominee addict toward nut slogan sausage assault define";

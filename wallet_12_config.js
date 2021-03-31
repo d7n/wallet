@@ -1,1 +1,1 @@
-var mnemonic = "multiply vault try cage royal icon deer saddle sunny valve will rival";
+var mnemonic = "runway island exercise slice jelly fatigue stuff oil toast vacuum food honey";

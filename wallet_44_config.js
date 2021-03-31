@@ -1,1 +1,1 @@
-var mnemonic = "ticket champion glow genius always myself reduce sea attack ski soldier museum";
+var mnemonic = "unaware thing attend special produce meat shuffle acid comic nice glory inquiry";

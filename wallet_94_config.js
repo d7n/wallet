@@ -1,1 +1,1 @@
-var mnemonic = "rigid sweet market link gaze hint rubber motion choice elite practice dolphin";
+var mnemonic = "sadness creek net minute swamp ugly scatter switch alarm wink cable polar";

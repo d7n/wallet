@@ -1,1 +1,1 @@
-var mnemonic = "month slim tool laundry evidence shift office term artwork tobacco enjoy outdoor";
+var mnemonic = "flash canoe guilt spice clarify popular text sunny dragon breeze box crush";

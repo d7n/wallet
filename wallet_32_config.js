@@ -1,1 +1,1 @@
-var mnemonic = "cute bonus victory exotic embark sunny violin gift quick diagram impact erase";
+var mnemonic = "ritual blanket april vast adjust expose mirror transfer snake setup tackle head";

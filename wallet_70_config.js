@@ -1,1 +1,1 @@
-var mnemonic = "health acoustic sunset survey cousin excite process wheel wheat endorse panel gasp";
+var mnemonic = "kidney you future lens dove bounce naive uphold offer junk hire reason";

@@ -1,1 +1,1 @@
-var mnemonic = "garbage ahead reason tennis over iron away foster observe estate crumble laugh";
+var mnemonic = "brand need airport pair expect judge lounge chest obtain eye result hour";

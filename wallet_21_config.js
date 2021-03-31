@@ -1,1 +1,1 @@
-var mnemonic = "tooth diary vacuum team salad boat require traffic skin marriage popular amused";
+var mnemonic = "disorder refuse rice trip symptom style pilot stand venture will drink mango";

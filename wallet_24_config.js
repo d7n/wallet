@@ -1,1 +1,1 @@
-var mnemonic = "glad enact stick worth tail sketch rule mean dust toe glimpse notable";
+var mnemonic = "market fire question barrel liquid typical angry risk canoe leader equip thrive";

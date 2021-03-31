@@ -1,1 +1,1 @@
-var mnemonic = "universe steel auto speed manage hover cool junior envelope over explain squirrel";
+var mnemonic = "right average border whisper awake snake hair lucky method prize wise soldier";

@@ -1,1 +1,1 @@
-var mnemonic = "ask reduce cable wool inner talk burst useless glare strategy discover script";
+var mnemonic = "ten ordinary slide keep begin letter wait kitten car castle aware season";

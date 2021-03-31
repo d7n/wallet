@@ -1,1 +1,1 @@
-var mnemonic = "moon garlic select domain evil wealth unusual tank sentence athlete pause suspect";
+var mnemonic = "catch good welcome vault network pact biology regret wood detect engine gas";

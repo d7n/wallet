@@ -1,1 +1,1 @@
-var mnemonic = "idle embrace toe switch hat various model decade east cry squirrel west";
+var mnemonic = "chase best dad balance gaze label exclude senior symbol tank caught stereo";

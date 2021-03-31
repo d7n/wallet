@@ -1,1 +1,1 @@
-var mnemonic = "photo metal tired fog repair tattoo hello run swing adult settle mechanic";
+var mnemonic = "scissors autumn about develop mechanic forward slide click comic bacon type empty";

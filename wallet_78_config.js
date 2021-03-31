@@ -1,1 +1,1 @@
-var mnemonic = "provide actual alley time ozone coast hold ketchup catalog increase music wine";
+var mnemonic = "accident senior drastic useless leg priority swamp pet business vessel smile crawl";

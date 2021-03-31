@@ -1,1 +1,1 @@
-var mnemonic = "evoke label unlock ramp else pact doctor idle cover maximum long goat";
+var mnemonic = "afford dumb diary fee enforce enlist pottery firm depart diamond shrug enable";

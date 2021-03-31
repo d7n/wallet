@@ -1,1 +1,1 @@
-var mnemonic = "identify chair illness model labor where fall media damage frog record stool";
+var mnemonic = "unfair wool card cram garden label three year bring tip apple hello";

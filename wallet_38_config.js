@@ -1,1 +1,1 @@
-var mnemonic = "food group swing record wine tomato float tomorrow better tornado vendor album";
+var mnemonic = "mean tiger midnight multiply bomb zoo giggle range rug birth success prepare";

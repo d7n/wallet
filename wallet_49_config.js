@@ -1,1 +1,1 @@
-var mnemonic = "subject mango firm setup initial habit surface sword riot exclude mosquito ahead";
+var mnemonic = "student glimpse already chuckle cover leopard wait rain quarter hood sail mention";

@@ -1,1 +1,1 @@
-var mnemonic = "under ability fiction pepper thing catalog exile tent sugar auto goddess express";
+var mnemonic = "knock wife high language flame spread net resist blossom dance require flag";

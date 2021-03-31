@@ -1,1 +1,1 @@
-var mnemonic = "bird snow modify trumpet cable perfect ugly burst oppose strategy eyebrow mass";
+var mnemonic = "stay mask twice eyebrow century cute monster strike brass siege school marble";

@@ -1,1 +1,1 @@
-var mnemonic = "swim undo buyer later spell home clog private step refuse celery margin";
+var mnemonic = "damp wedding add edge order knee hamster gloom average fiscal track duck";

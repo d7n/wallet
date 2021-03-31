@@ -1,1 +1,1 @@
-var mnemonic = "case skate decade address test choose leisure entire marble morning actual feel";
+var mnemonic = "van foam loop foam invest arm dilemma glad oblige during giant differ";

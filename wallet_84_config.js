@@ -1,1 +1,1 @@
-var mnemonic = "brisk gallery clutch average path wrong crunch success shiver eternal spare answer";
+var mnemonic = "catalog crash approve unfair cupboard ghost sponsor cage remain find winter moment";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder category exercise sugar enlist echo page zero guitar powder park dutch";
+var mnemonic = "injury foam regular two climb frown nose love bicycle clean apology guitar";

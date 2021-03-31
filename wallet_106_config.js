@@ -1,1 +1,1 @@
-var mnemonic = "village margin return enable door forward ranch debris hedgehog include toilet tunnel";
+var mnemonic = "rug federal ranch friend hedgehog depend sand love fame shuffle sphere scout";

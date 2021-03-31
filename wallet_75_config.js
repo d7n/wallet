@@ -1,1 +1,1 @@
-var mnemonic = "mouse similar crucial injury maple diagram drill rival capital bread fall unfair";
+var mnemonic = "proof exhibit thought divide upset arena come furnace floor laptop gauge hundred";

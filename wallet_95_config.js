@@ -1,1 +1,1 @@
-var mnemonic = "mule anchor job luggage future nuclear dose endless antique mirror march slight";
+var mnemonic = "position coin federal mad critic forest tip turn chronic fever solve wrist";

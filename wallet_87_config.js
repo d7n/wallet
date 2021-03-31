@@ -1,1 +1,1 @@
-var mnemonic = "increase source decline vibrant shuffle topic ski length tell flock wise exotic";
+var mnemonic = "spider stick modify story alcohol group else loyal sustain illness multiply list";

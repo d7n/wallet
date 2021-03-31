@@ -1,1 +1,1 @@
-var mnemonic = "recycle buffalo view nothing top fan denial soft town fun fatal kiss";
+var mnemonic = "pizza winner forum brief six again slush under goat bone seek fog";

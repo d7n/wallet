@@ -1,1 +1,1 @@
-var mnemonic = "obey barrel gorilla appear deliver first spend room harsh key upset drama";
+var mnemonic = "siege option below mushroom lunar brown depth merit pepper endless actress drama";

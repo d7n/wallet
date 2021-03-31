@@ -1,1 +1,1 @@
-var mnemonic = "reason school stomach gasp front make acid narrow under canvas stool recipe";
+var mnemonic = "science exclude repair sort draft curious radar front indoor ceiling table sadness";

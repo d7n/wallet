@@ -1,1 +1,1 @@
-var mnemonic = "unknown ankle moral expire drip uncle submit armor problem around mask pigeon";
+var mnemonic = "journey orchard glue stereo upper vendor refuse measure fiction grace stereo april";

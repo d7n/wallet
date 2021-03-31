@@ -1,1 +1,1 @@
-var mnemonic = "swarm depart bounce swarm flash start shallow plug ostrich give feed canyon";
+var mnemonic = "quality offer pitch innocent pause august possible sleep absorb immense decrease movie";

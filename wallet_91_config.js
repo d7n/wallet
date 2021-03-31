@@ -1,1 +1,1 @@
-var mnemonic = "tribe credit basic hand estate risk ten door deposit pact spirit square";
+var mnemonic = "call myth mutual auto decrease twelve absent vibrant soap city aerobic fatal";

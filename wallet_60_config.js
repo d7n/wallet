@@ -1,1 +1,1 @@
-var mnemonic = "flock dish immense wreck web soldier fun exercise portion text attitude other";
+var mnemonic = "shaft merry pudding swift age trigger useful market canvas defense sun cabbage";

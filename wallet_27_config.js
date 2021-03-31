@@ -1,1 +1,1 @@
-var mnemonic = "cruise actor inmate awkward sure real slam father maximum shell episode panel";
+var mnemonic = "axis fan hospital cheese midnight reopen install awake return great body nuclear";

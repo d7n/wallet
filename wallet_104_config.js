@@ -1,1 +1,1 @@
-var mnemonic = "canvas dose gold raw uncover breeze among security alien chuckle tongue dial";
+var mnemonic = "usual civil toy liar illness build slice siren antique awful cinnamon antenna";

@@ -1,1 +1,1 @@
-var mnemonic = "youth sing two sport quit timber dutch bar upon session moral survey";
+var mnemonic = "video skull picture sport sausage slender offer ball prosper civil moment team";

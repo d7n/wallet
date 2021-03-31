@@ -1,1 +1,1 @@
-var mnemonic = "sausage unusual perfect orphan room rural diet dwarf dash mushroom unaware dune";
+var mnemonic = "strategy imitate drink glass lawsuit medal relax zone grain proud primary guide";

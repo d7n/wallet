@@ -1,1 +1,1 @@
-var mnemonic = "mix gaze upper board option bronze whip muffin lumber cactus spray retreat";
+var mnemonic = "because park jazz index rabbit kid armor skirt turkey recipe decade umbrella";

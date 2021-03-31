@@ -1,1 +1,1 @@
-var mnemonic = "sun erosion stereo hollow camp glance rubber parent grief praise forest teach";
+var mnemonic = "heavy random core session amateur banana lizard spare scheme bright grid card";

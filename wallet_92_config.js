@@ -1,1 +1,1 @@
-var mnemonic = "prefer accuse ramp penalty speak model border faint recall jealous pond grief";
+var mnemonic = "pill lift planet unable include brother fever kitten little fetch noodle session";

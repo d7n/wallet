@@ -1,1 +1,1 @@
-var mnemonic = "grass practice cross rebuild loyal keen lecture boy flat volume gold anger";
+var mnemonic = "illegal axis pyramid industry harvest wrist tunnel vacuum reunion hint swarm blame";

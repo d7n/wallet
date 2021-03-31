@@ -1,1 +1,1 @@
-var mnemonic = "worth color feature inner jeans ugly canvas reunion cry rebuild father fiber";
+var mnemonic = "shed exchange shrug steel argue matrix equip aerobic pistol more obtain grid";

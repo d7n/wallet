@@ -1,1 +1,1 @@
-var mnemonic = "exercise combine razor afraid blast forget slab talent clever woman flip hurt";
+var mnemonic = "achieve blood wheat crystal surge rude siren little lizard answer lawsuit swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "swing outside broom fork core inmate naive dune observe tree salute check";
+var mnemonic = "trophy explain truck relief aspect earth return attack capital outside tell canyon";

@@ -1,1 +1,1 @@
-var mnemonic = "vital shadow damp infant tone issue hen memory scatter strike kit gossip";
+var mnemonic = "silver catch wrestle during jungle rich galaxy scale unfold vibrant strong polar";

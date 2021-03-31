@@ -1,1 +1,1 @@
-var mnemonic = "wear lemon obey expect bright blame quit various bicycle stand brave hand";
+var mnemonic = "evil end fossil enact volcano network secret civil method fringe lava lobster";

@@ -1,1 +1,1 @@
-var mnemonic = "between kiwi tuition flavor bean buyer thumb parade donkey soda ski patch";
+var mnemonic = "gallery copper circle exclude custom together session unfold world robust prosper raise";

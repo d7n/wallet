@@ -1,1 +1,1 @@
-var mnemonic = "stamp stay easy trouble grace outer bread soldier grocery actress swift exhibit";
+var mnemonic = "farm repeat keen corn credit harbor slam insane happy collect bracket kitchen";

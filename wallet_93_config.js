@@ -1,1 +1,1 @@
-var mnemonic = "tail used wagon young empty naive short cradle wedding shrimp tube kiwi";
+var mnemonic = "want require nerve resemble direct maid legal label glide candy degree future";

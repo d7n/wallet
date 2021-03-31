@@ -1,1 +1,1 @@
-var mnemonic = "feature material margin practice lizard luxury toy solve work uphold gas bread";
+var mnemonic = "mother snack approve bench gospel execute kid bridge allow math sustain loop";

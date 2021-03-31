@@ -1,1 +1,1 @@
-var mnemonic = "fashion busy miracle nephew grant story field blouse craft between outside come";
+var mnemonic = "fashion fine romance firm major shallow clay sudden cupboard emerge trim later";

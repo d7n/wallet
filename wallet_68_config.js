@@ -1,1 +1,1 @@
-var mnemonic = "unlock mad alien alcohol teach around tuna square inside evoke hat ginger";
+var mnemonic = "dumb brisk barrel warrior laugh zoo major skill smile fashion toward affair";

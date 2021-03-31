@@ -1,1 +1,1 @@
-var mnemonic = "mean better venture remind present victory chase kit pizza license kitten agent";
+var mnemonic = "victory top yard appear work cement powder fall ability team into mom";

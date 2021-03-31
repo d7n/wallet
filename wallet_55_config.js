@@ -1,1 +1,1 @@
-var mnemonic = "magic tide garbage easily output escape unfair mystery solve bamboo day unit";
+var mnemonic = "crouch light emotion science just crisp dial eagle insect derive shop oak";

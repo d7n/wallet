@@ -1,1 +1,1 @@
-var mnemonic = "hub achieve mountain ticket truck scrap shed save claw join lizard express";
+var mnemonic = "empty fine great jewel critic slight breeze hotel math siren spawn huge";

@@ -1,1 +1,1 @@
-var mnemonic = "enlist ill relax planet apology december mammal cancel eyebrow season add indoor";
+var mnemonic = "keep garden zoo top return laundry approve icon legal huge merge globe";

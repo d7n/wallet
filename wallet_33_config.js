@@ -1,1 +1,1 @@
-var mnemonic = "junior tenant celery inside talk minor swift cupboard name afraid exotic axis";
+var mnemonic = "captain voyage motion ankle feel cherry similar silk repair rack april tired";

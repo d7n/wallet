@@ -1,1 +1,1 @@
-var mnemonic = "imitate prosper rebuild exclude expire increase scheme gun raven dirt pool census";
+var mnemonic = "fossil hungry law delay orange absent blame huge salon film gate market";

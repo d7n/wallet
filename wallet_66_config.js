@@ -1,1 +1,1 @@
-var mnemonic = "fabric spring napkin leopard embark lend copper car chicken own sausage dentist";
+var mnemonic = "copy forest about muscle cargo where surprise jazz horn tuna cotton spray";

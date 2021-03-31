@@ -1,1 +1,1 @@
-var mnemonic = "cruel outside luggage build obtain churn skate goat collect inspire fee kiss";
+var mnemonic = "spread vacuum siren chronic emerge armed reward employ combine tiny protect gather";

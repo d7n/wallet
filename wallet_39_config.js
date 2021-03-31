@@ -1,1 +1,1 @@
-var mnemonic = "prevent acquire outdoor age sand venue purity cricket bone muffin convince decade";
+var mnemonic = "top oil flavor noble describe unit math midnight host giggle jump ginger";

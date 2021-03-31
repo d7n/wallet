@@ -1,1 +1,1 @@
-var mnemonic = "yard bracket observe donate sister august learn notable era gravity swamp daughter";
+var mnemonic = "waste wash win ghost tape rate amount hill weather interest pond piece";

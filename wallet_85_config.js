@@ -1,1 +1,1 @@
-var mnemonic = "switch inquiry music engine cancel empty live prepare mouse put claw yellow";
+var mnemonic = "pottery brown prefer fabric vehicle garlic tool fabric torch math obscure razor";

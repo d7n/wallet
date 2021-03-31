@@ -1,1 +1,1 @@
-var mnemonic = "chuckle girl abstract bind castle joke hover you cake myth jungle whip";
+var mnemonic = "green flavor sport effort mandate walnut lottery defense miracle left knee cry";

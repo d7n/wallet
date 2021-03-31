@@ -1,1 +1,1 @@
-var mnemonic = "primary health own evidence adapt bean early club enhance foam group artwork";
+var mnemonic = "basic ticket solar oyster fancy horn play crack jaguar street month hunt";

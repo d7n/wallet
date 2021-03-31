@@ -1,1 +1,1 @@
-var mnemonic = "green cash safe girl fox seek nerve social pass idle illness worth";
+var mnemonic = "derive swing cram broccoli habit scrub vote notable vendor enable easy output";

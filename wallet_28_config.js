@@ -1,1 +1,1 @@
-var mnemonic = "dust cream duck novel thing visual myth join scale virus theory stamp";
+var mnemonic = "blouse cabin smoke park lobster empower twice grit away fetch rough card";

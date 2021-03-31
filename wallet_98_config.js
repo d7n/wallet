@@ -1,1 +1,1 @@
-var mnemonic = "eager alcohol detect left couple security tape foot maple pony language law";
+var mnemonic = "jaguar door pass supply language arrive skin lobster drop radio accuse dwarf";

@@ -1,1 +1,1 @@
-var mnemonic = "solid soldier will grid prevent fluid history leave three long same slow";
+var mnemonic = "verify patrol shoot trust onion mango pelican bundle present badge siege family";

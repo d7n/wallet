@@ -1,1 +1,1 @@
-var mnemonic = "trigger quote accident disease fragile firm mutual tobacco chicken village thing mom";
+var mnemonic = "unhappy olympic business protect depth across toilet crush boy bundle lecture keep";
