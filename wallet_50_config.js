@@ -1,1 +1,1 @@
-var mnemonic = "aspect faint egg logic agent someone pole table kite shrimp hurry firm";
+var mnemonic = "obey ancient art expect round magnet abandon remind pond resemble margin great";

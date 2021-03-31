@@ -1,1 +1,1 @@
-var mnemonic = "witness turtle island wrap relax boat dress critic latin couple envelope they";
+var mnemonic = "stage ginger pill soldier volume eyebrow ankle moment scale plate ugly ribbon";

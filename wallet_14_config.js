@@ -1,1 +1,1 @@
-var mnemonic = "addict advance shine bless wheel error faculty render maid report oven prevent";
+var mnemonic = "medal mosquito wait wreck innocent tide voice cactus acid achieve sniff glass";

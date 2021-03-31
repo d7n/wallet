@@ -1,1 +1,1 @@
-var mnemonic = "need series trouble pool member shop paddle funny cargo novel mango junk";
+var mnemonic = "during chalk tired shoe wait goat assume velvet fatal twin such seek";

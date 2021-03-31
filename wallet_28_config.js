@@ -1,1 +1,1 @@
-var mnemonic = "gauge supreme aspect govern transfer round ostrich recall ramp match author naive";
+var mnemonic = "orange home shy light exist market track price oxygen cycle firm whip";

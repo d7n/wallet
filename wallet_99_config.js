@@ -1,1 +1,1 @@
-var mnemonic = "joke pill brain gadget gold busy reduce cram game wet space solar";
+var mnemonic = "digital catalog cradle document gift consider flock caught female siege distance feel";

@@ -1,1 +1,1 @@
-var mnemonic = "degree notable acquire crush moral practice scrap settle history brisk metal pole";
+var mnemonic = "gown glance term deliver case bunker office beyond cousin garbage route wife";

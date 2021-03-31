@@ -1,1 +1,1 @@
-var mnemonic = "unusual dinner fashion burger picture inflict property ordinary gap regret divide clip";
+var mnemonic = "rocket time outer diary rotate note twin vendor amused undo rifle face";

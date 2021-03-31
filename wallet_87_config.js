@@ -1,1 +1,1 @@
-var mnemonic = "fork easily add symptom avoid sorry team electric pattern symbol slim rescue";
+var mnemonic = "copy victory guide cycle mammal proud weird prize canvas pipe spread strike";

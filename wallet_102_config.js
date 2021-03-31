@@ -1,1 +1,1 @@
-var mnemonic = "sense balcony enemy outside joy reunion crouch custom devote sketch sea member";
+var mnemonic = "recipe wear else caution all venture eager pond nice adult firm snap";

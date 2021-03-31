@@ -1,1 +1,1 @@
-var mnemonic = "leopard lake risk cabin cake girl tell biology law machine cross metal";
+var mnemonic = "couple sphere laugh window warfare home tissue property snap hill drive oppose";

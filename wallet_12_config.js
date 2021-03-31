@@ -1,1 +1,1 @@
-var mnemonic = "elite all skin sand build wealth kiss power farm evil forum machine";
+var mnemonic = "inflict smile shift waste protect egg guilt long pilot hen noise unfold";

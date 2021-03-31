@@ -1,1 +1,1 @@
-var mnemonic = "purity word problem salmon spring solid cactus strategy rail kingdom pulp install";
+var mnemonic = "useless name dragon scare exist kit ridge icon melody milk verb crisp";

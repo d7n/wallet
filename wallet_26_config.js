@@ -1,1 +1,1 @@
-var mnemonic = "fitness dwarf little doll near bulb february saddle raccoon negative cinnamon boring";
+var mnemonic = "gorilla candy pear father trip armed copy aware buzz phone bunker cotton";

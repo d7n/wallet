@@ -1,1 +1,1 @@
-var mnemonic = "theory gauge lake coin stereo just category uphold december grid roof vague";
+var mnemonic = "twenty gym claim dress element refuse near basket phrase ghost general offer";

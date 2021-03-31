@@ -1,1 +1,1 @@
-var mnemonic = "favorite remind coconut mountain cloth response cup coin bleak chicken pistol hold";
+var mnemonic = "property parade text sheriff explain sight rubber muscle fly dizzy filter syrup";

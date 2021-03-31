@@ -1,1 +1,1 @@
-var mnemonic = "outer step lab retire lock nose way pluck uncover common room inhale";
+var mnemonic = "author juice ensure other science gorilla mistake bar dizzy science scale produce";

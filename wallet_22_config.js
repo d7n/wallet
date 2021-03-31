@@ -1,1 +1,1 @@
-var mnemonic = "duck item submit solid enemy normal ship ritual soccer measure pretty resist";
+var mnemonic = "reform shrimp purchase witness sort rival suspect clay toddler sibling immune stereo";

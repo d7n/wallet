@@ -1,1 +1,1 @@
-var mnemonic = "ride insect slush post taste print police domain island pig debris blanket";
+var mnemonic = "swarm index laundry absent shield manage fix impose twelve lonely margin echo";

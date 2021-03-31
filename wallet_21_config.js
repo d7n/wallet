@@ -1,1 +1,1 @@
-var mnemonic = "almost cabin head rich soccer icon unit kiss level fruit ranch swift";
+var mnemonic = "melody palm void solid roof boring pink army over electric above reunion";

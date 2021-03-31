@@ -1,1 +1,1 @@
-var mnemonic = "trophy high drastic notice town pass hawk oval pink install federal buddy";
+var mnemonic = "habit badge hole orient steak noise better maple venture toddler wink fame";

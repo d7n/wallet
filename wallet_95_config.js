@@ -1,1 +1,1 @@
-var mnemonic = "hollow key company review impulse mass outside breeze skull motion police ordinary";
+var mnemonic = "erase trigger arrow scout library enjoy physical bicycle change explain galaxy either";

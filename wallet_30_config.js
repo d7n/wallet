@@ -1,1 +1,1 @@
-var mnemonic = "gold material beef true fit vacant negative sand thought example weasel wolf";
+var mnemonic = "mention that until radio future story black secret fragile link bonus argue";

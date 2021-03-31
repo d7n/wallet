@@ -1,1 +1,1 @@
-var mnemonic = "derive clip safe addict library tongue sunset safe prize antique sting atom";
+var mnemonic = "family basket critic please junior impact aim maple system endorse chimney series";

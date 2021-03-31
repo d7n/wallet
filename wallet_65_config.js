@@ -1,1 +1,1 @@
-var mnemonic = "pause enough census seat uncle catalog damage wisdom lucky notice lend wine";
+var mnemonic = "save antique help work vibrant minor problem toe obvious gorilla give breeze";

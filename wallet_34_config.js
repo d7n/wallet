@@ -1,1 +1,1 @@
-var mnemonic = "chef meat interest clutch wine result brief proof right drama library fantasy";
+var mnemonic = "gospel toilet grow squeeze know jump double mixed dune coil cruel waste";

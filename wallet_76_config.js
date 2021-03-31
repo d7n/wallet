@@ -1,1 +1,1 @@
-var mnemonic = "impact ahead advance solar rose orient love blind agent basket noble feed";
+var mnemonic = "relax clip nature fringe diesel senior two close ten innocent hub excess";

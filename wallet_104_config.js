@@ -1,1 +1,1 @@
-var mnemonic = "old bulb outside divide chapter promote beyond inherit fall moment tobacco caution";
+var mnemonic = "dinner soft mother vanish kind eight myself boy patch cushion exchange quality";

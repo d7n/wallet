@@ -1,1 +1,1 @@
-var mnemonic = "slot airport silent mad simple virtual before park comfort improve jelly come";
+var mnemonic = "clean seed knee popular repeat frozen resource lift still safe winter adult";

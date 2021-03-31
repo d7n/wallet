@@ -1,1 +1,1 @@
-var mnemonic = "young battle divert minimum glass ugly soon disorder clinic balcony fish salad";
+var mnemonic = "ivory file bread auto oak later what spy fancy curve civil ability";

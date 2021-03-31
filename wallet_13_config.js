@@ -1,1 +1,1 @@
-var mnemonic = "surge lift spell affair play cruise enrich burger ill jaguar wasp army";
+var mnemonic = "volcano laundry sail setup cradle exhibit raccoon must dolphin wage giant trick";

@@ -1,1 +1,1 @@
-var mnemonic = "inherit slice leisure dynamic payment maid juice exact bracket coast grit umbrella";
+var mnemonic = "album black barely essay ramp false girl power click wheat satoshi quiz";

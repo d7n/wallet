@@ -1,1 +1,1 @@
-var mnemonic = "sniff this bind develop prefer floor fox sword void rally rebuild treat";
+var mnemonic = "inject game risk mountain around crack bring wash pony series ripple simple";

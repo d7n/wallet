@@ -1,1 +1,1 @@
-var mnemonic = "vanish north agree lemon valve mesh dwarf mention velvet road act render";
+var mnemonic = "fuel start sure casino tortoise oval truly novel erase coconut issue strategy";

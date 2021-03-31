@@ -1,1 +1,1 @@
-var mnemonic = "away require stadium river powder token crystal move door hire similar motor";
+var mnemonic = "struggle space anxiety quote air summer siren pattern december loyal bind unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise guilt clever catalog sponsor merge anchor aim maid match child fog";
+var mnemonic = "stool muscle law sample share shrimp false vault comic narrow ahead vivid";

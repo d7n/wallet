@@ -1,1 +1,1 @@
-var mnemonic = "depend green fun era unlock vacant sketch embark average result vivid math";
+var mnemonic = "vapor error true dizzy side jacket pond tool endless carbon digital gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "episode pink able exchange impact island foam ketchup walnut peanut certain tooth";
+var mnemonic = "wheel fine peasant genius odor display amused reflect window garment awake flip";

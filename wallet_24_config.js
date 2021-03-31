@@ -1,1 +1,1 @@
-var mnemonic = "appear fork repeat blanket evolve sustain there enough thing library dilemma misery";
+var mnemonic = "outer option vague orphan arena tortoise replace uphold labor ski switch turn";

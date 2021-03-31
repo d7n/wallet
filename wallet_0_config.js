@@ -1,1 +1,1 @@
-var mnemonic = "hazard wide venue vintage moon program crane employ run hawk owner that";
+var mnemonic = "stuff market you rebuild soft circle discover argue angle fuel like razor";

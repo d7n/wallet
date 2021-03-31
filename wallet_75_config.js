@@ -1,1 +1,1 @@
-var mnemonic = "genius analyst praise minute copper nasty home what unique antenna veteran pet";
+var mnemonic = "win lady any viable envelope hope once skull west sample embody legend";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal run immune inform bicycle soon peanut hazard lonely tip exercise fossil";
+var mnemonic = "magic aerobic dice poet used limb awful bottom clutch vacuum gain season";

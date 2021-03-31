@@ -1,1 +1,1 @@
-var mnemonic = "behave garlic senior focus lumber stomach surround brand occur awkward near describe";
+var mnemonic = "effort tape disagree grace kitten boil surprise spell else affair type whip";

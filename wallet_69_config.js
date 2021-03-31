@@ -1,1 +1,1 @@
-var mnemonic = "box type print unlock satisfy mystery wine siren motion piece easy quiz";
+var mnemonic = "faith axis bomb display siege above film almost impose estate scrub symbol";

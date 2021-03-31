@@ -1,1 +1,1 @@
-var mnemonic = "execute salute thrive sunset wish doctor usual slide parent wet urge cradle";
+var mnemonic = "roast crime tragic fly system drive family lunar cluster armed position area";

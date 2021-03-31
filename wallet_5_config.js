@@ -1,1 +1,1 @@
-var mnemonic = "timber cause tomato thunder void rapid uncle seek purchase annual obscure deputy";
+var mnemonic = "then sister know style mirror light grocery skull cricket fancy borrow mirror";

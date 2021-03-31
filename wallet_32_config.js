@@ -1,1 +1,1 @@
-var mnemonic = "target cake skirt water ancient race sight suggest become join sleep arrive";
+var mnemonic = "express crouch increase comfort hunt employ book can fit wheat creek gorilla";

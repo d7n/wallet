@@ -1,1 +1,1 @@
-var mnemonic = "grab vehicle pitch family play throw address rotate index father involve verb";
+var mnemonic = "nuclear video dismiss manage figure accident hire produce elevator portion owner gym";

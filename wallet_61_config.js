@@ -1,1 +1,1 @@
-var mnemonic = "input tell squirrel horror army stereo wink crash volume actress inmate tape";
+var mnemonic = "fabric hat adjust caught track barrel bronze flag dad mushroom century seminar";

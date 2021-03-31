@@ -1,1 +1,1 @@
-var mnemonic = "horn virus spoon focus stuff obvious vehicle glare orphan purpose gesture sea";
+var mnemonic = "obscure market prize catch canoe retire approve skirt hawk table sorry game";

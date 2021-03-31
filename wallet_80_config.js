@@ -1,1 +1,1 @@
-var mnemonic = "random federal choose predict wear race that hospital basic return shrimp often";
+var mnemonic = "disagree sleep kind drop hello impact body main human quit estate actor";

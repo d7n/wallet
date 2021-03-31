@@ -1,1 +1,1 @@
-var mnemonic = "exchange picnic junior pledge agent skate high bind fox core cable speak";
+var mnemonic = "come height worth price stool cross include endless year culture erosion fashion";

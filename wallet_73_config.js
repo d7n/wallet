@@ -1,1 +1,1 @@
-var mnemonic = "rescue enlist whisper dice lion else scout better primary beach crane rose";
+var mnemonic = "recycle lab mercy peasant lumber kitchen pigeon route thank mutual green squirrel";

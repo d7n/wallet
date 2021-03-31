@@ -1,1 +1,1 @@
-var mnemonic = "west cushion intact youth bid amount shift gold similar cactus amateur proof";
+var mnemonic = "stand artefact arrive that frog wire adapt slow profit ethics turn diet";

@@ -1,1 +1,1 @@
-var mnemonic = "main wire piece turtle quantum use impose attack daring behind marble ready";
+var mnemonic = "guitar hidden return book news sibling happy clay citizen genuine valid orient";

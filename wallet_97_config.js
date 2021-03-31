@@ -1,1 +1,1 @@
-var mnemonic = "gather funny lamp document gym owner seek cabin flavor bundle lazy ring";
+var mnemonic = "student achieve nuclear arrest run lottery gap scrub mom develop wave job";

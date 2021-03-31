@@ -1,1 +1,1 @@
-var mnemonic = "half season filter hollow owner face inmate identify custom piece slice lion";
+var mnemonic = "broom swing timber promote obvious rigid slogan police enter rally donkey side";

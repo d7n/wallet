@@ -1,1 +1,1 @@
-var mnemonic = "nature near use diesel agent worry combine omit image excess among scheme";
+var mnemonic = "tide gallery vanish uphold message wink bread remove edge volume fox season";

@@ -1,1 +1,1 @@
-var mnemonic = "bird veteran drill happy morning gown fluid put youth wreck two dirt";
+var mnemonic = "truly ginger define interest opera pact hero chef habit music use industry";

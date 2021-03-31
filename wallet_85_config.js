@@ -1,1 +1,1 @@
-var mnemonic = "addict tag boil dice quarter demand erode expect horse inhale gospel beef";
+var mnemonic = "useless best clog limb phrase north silk material want couple bunker involve";

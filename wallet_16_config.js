@@ -1,1 +1,1 @@
-var mnemonic = "conduct example melody school again great day race all jar balance gallery";
+var mnemonic = "place name ozone repair mask mention ketchup direct slim high whale share";

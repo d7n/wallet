@@ -1,1 +1,1 @@
-var mnemonic = "rebel surface banana broom dust sausage middle tide raccoon state salon project";
+var mnemonic = "potato remove aunt sound stuff protect spray empower maid burden essay settle";

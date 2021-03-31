@@ -1,1 +1,1 @@
-var mnemonic = "pigeon attend grief kite used pass casual donate maple doctor describe invest";
+var mnemonic = "diet peanut shoulder evil behave exhibit gentle mad short guard opera enlist";

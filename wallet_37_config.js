@@ -1,1 +1,1 @@
-var mnemonic = "eagle nothing tennis blossom pledge share senior brick awkward bless crime camera";
+var mnemonic = "device oblige own poem bus soup quit abstract parrot consider spice forget";

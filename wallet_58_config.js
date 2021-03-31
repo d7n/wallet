@@ -1,1 +1,1 @@
-var mnemonic = "rare floor prosper cluster siege bless usage ball radio balance critic answer";
+var mnemonic = "similar canyon obvious reject minor need fever walk erupt fade chase mercy";

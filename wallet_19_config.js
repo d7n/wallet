@@ -1,1 +1,1 @@
-var mnemonic = "desk lottery bike pact pill refuse endorse forest decrease bullet infant hire";
+var mnemonic = "matrix census shine vibrant sudden harvest heavy edit bachelor drip armed cake";

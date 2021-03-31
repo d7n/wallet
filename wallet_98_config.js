@@ -1,1 +1,1 @@
-var mnemonic = "essence attack chat affair siege budget swamp imitate merit table salad sweet";
+var mnemonic = "always alien tobacco key check leave crime reject exhibit ghost innocent insane";

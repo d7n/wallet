@@ -1,1 +1,1 @@
-var mnemonic = "word charge mask lucky remind useful decide tenant trumpet seek garbage there";
+var mnemonic = "gain prefer pigeon stairs craft early soft joy slush dry build real";

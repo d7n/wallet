@@ -1,1 +1,1 @@
-var mnemonic = "connect cancel vessel grit catalog solution tragic reopen gate armed october deal";
+var mnemonic = "negative lab denial control science wreck panel delay ocean since expect test";

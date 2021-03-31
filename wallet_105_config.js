@@ -1,1 +1,1 @@
-var mnemonic = "cluster country pen leisure curtain between target ankle stumble license interest joke";
+var mnemonic = "ticket tissue member sniff suffer man very reason champion early subject owner";

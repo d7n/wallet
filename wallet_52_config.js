@@ -1,1 +1,1 @@
-var mnemonic = "boat ensure mouse stone regret bitter crowd eager fine love example runway";
+var mnemonic = "inside curve address congress cook apology spring decide noodle leg case orchard";

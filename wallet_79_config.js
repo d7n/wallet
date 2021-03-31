@@ -1,1 +1,1 @@
-var mnemonic = "hard first define grit east spirit soda harbor sadness route emotion muscle";
+var mnemonic = "pupil demand review robust soup hockey type usage romance leaf divert later";

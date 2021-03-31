@@ -1,1 +1,1 @@
-var mnemonic = "kingdom tragic energy unhappy salad cricket brass need traffic violin soccer claw";
+var mnemonic = "gown power secret wasp bubble atom time radar warfare roast swear family";

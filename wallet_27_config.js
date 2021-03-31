@@ -1,1 +1,1 @@
-var mnemonic = "airport cluster leopard virus neutral loyal use crack people track august wet";
+var mnemonic = "mother orchard embody mean clap address impulse glide remind drama hospital spin";

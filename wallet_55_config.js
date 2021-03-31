@@ -1,1 +1,1 @@
-var mnemonic = "scene ancient attract boring wealth remain liar craft ritual chronic lecture uphold";
+var mnemonic = "salute sunny race flavor flower hub horn grid cruise clean census invite";

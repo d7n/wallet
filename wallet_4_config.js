@@ -1,1 +1,1 @@
-var mnemonic = "vintage biology verify gym cousin happy wink host glove monster tooth execute";
+var mnemonic = "normal scissors promote absurd cruise love civil weasel dream daring style canvas";

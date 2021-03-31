@@ -1,1 +1,1 @@
-var mnemonic = "joy pigeon scale once voyage garlic clarify civil stereo discover hill wink";
+var mnemonic = "dad mixed admit fade champion various female leaf welcome time mistake portion";

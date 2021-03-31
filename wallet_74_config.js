@@ -1,1 +1,1 @@
-var mnemonic = "damage biology few planet assault slow west north siren valley scorpion desert";
+var mnemonic = "unit sound spy leisure symptom canyon trash ball erosion elite pilot expose";

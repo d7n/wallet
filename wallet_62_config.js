@@ -1,1 +1,1 @@
-var mnemonic = "ladder pulp illegal season valley item soft between demise limit alien spoon";
+var mnemonic = "young share require question whale devote cook ensure say damp service donor";

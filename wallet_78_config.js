@@ -1,1 +1,1 @@
-var mnemonic = "method castle cabbage detect small merit fade junior mobile inquiry fringe turkey";
+var mnemonic = "notice devote merge asset repeat planet tail song various crumble imitate cat";

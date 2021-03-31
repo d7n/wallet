@@ -1,1 +1,1 @@
-var mnemonic = "clutch coin damp sword spoil pear skin session beauty sock either carbon";
+var mnemonic = "enact cushion history cable solution allow palace turtle maid setup confirm blind";

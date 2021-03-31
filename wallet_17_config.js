@@ -1,1 +1,1 @@
-var mnemonic = "wear trust dawn comfort inquiry orient viable ten uphold pair exclude chimney";
+var mnemonic = "party three sunset blue room ladder consider sleep suggest candy climb smart";

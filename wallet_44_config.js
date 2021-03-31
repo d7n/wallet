@@ -1,1 +1,1 @@
-var mnemonic = "fall open mango cry thumb mask snow jungle black please table illegal";
+var mnemonic = "track ill desk menu business tiny old envelope slot battle spider welcome";

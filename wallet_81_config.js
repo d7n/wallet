@@ -1,1 +1,1 @@
-var mnemonic = "phone segment empty behind garbage answer ecology message fetch basic budget eye";
+var mnemonic = "mother olive elbow morning fitness since carry guitar snap enforce diet critic";

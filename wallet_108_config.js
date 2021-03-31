@@ -1,1 +1,1 @@
-var mnemonic = "venture only wasp muscle garment aspect brave stage fall novel bag long";
+var mnemonic = "click evil inmate depth seat pupil bar float dad clip disease person";

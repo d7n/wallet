@@ -1,1 +1,1 @@
-var mnemonic = "wrist water stomach tattoo depth maximum second stage clump keen gesture simple";
+var mnemonic = "bachelor journey decorate awkward horn spatial twin annual jump bulb useful avoid";
