@@ -1,1 +1,1 @@
-var mnemonic = "ginger park custom category chapter black obvious gun weird length describe convince";
+var mnemonic = "next veteran clarify cheap husband rally sing chunk march author length want";

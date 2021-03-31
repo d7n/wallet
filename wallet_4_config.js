@@ -1,1 +1,1 @@
-var mnemonic = "praise key song lobster combine pull silly among over stomach uncover train";
+var mnemonic = "lumber action unique broom brisk provide motor fantasy dune inch utility verify";

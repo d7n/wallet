@@ -1,1 +1,1 @@
-var mnemonic = "render noodle secret chicken lava remind bounce expand turn myth squeeze estate";
+var mnemonic = "agent strike file turn sport large then play dust much device copper";

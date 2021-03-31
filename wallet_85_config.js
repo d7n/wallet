@@ -1,1 +1,1 @@
-var mnemonic = "improve post utility girl ship pretty stairs coconut expect siege consider need";
+var mnemonic = "pass system mail void fruit pizza window theme tattoo dumb knee response";

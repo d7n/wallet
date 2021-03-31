@@ -1,1 +1,1 @@
-var mnemonic = "dance dentist retreat business crawl card yellow control hungry rabbit travel asthma";
+var mnemonic = "breeze vintage accuse apology blossom caught clutch calm you heart snow abuse";

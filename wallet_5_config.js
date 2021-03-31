@@ -1,1 +1,1 @@
-var mnemonic = "more moral please guess flight arrive strategy senior invest twelve source deal";
+var mnemonic = "good sphere cruise acid rich proof fine mask sleep weapon genuine logic";

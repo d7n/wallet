@@ -1,1 +1,1 @@
-var mnemonic = "frost skin eight split glance never radio pig happy permit hand forest";
+var mnemonic = "arrange very trial dentist brown report worry brain fortune teach ecology receive";

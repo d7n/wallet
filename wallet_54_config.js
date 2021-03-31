@@ -1,1 +1,1 @@
-var mnemonic = "design stumble hat potato ethics load shrug lawsuit bicycle embody crush virtual";
+var mnemonic = "action goat art cluster boring gentle tape cross traffic glow chapter couple";

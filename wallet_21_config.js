@@ -1,1 +1,1 @@
-var mnemonic = "gold volcano edge inhale patrol rotate kidney dumb attract honey wagon nice";
+var mnemonic = "release guitar steel jelly series glide climb clarify nature east wear family";

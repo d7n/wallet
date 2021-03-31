@@ -1,1 +1,1 @@
-var mnemonic = "first fiction sport head prosper idle gentle liar space shiver lunar cruise";
+var mnemonic = "summer sleep armor attitude swarm employ carpet diesel aware guess pair repair";

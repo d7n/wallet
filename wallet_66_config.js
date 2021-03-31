@@ -1,1 +1,1 @@
-var mnemonic = "horse okay demand grace local similar long burger hollow then shoe hour";
+var mnemonic = "normal short bachelor focus inside subway few journey federal foam calm wild";

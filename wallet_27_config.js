@@ -1,1 +1,1 @@
-var mnemonic = "drama fury near amateur spice proof carbon shove cushion shed wrestle place";
+var mnemonic = "nest alert drill patient dignity siege sample indoor secret vague shop polar";

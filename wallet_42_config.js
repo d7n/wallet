@@ -1,1 +1,1 @@
-var mnemonic = "trade assume trip allow clinic culture process barely share pact hidden teach";
+var mnemonic = "guard cool boil salmon version coach assault letter chief obscure potato venture";

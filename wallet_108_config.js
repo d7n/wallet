@@ -1,1 +1,1 @@
-var mnemonic = "sort strategy author online wheel alcohol seat sting spend genuine lab position";
+var mnemonic = "coconut false despair ostrich welcome perfect stock cotton same mesh volcano common";

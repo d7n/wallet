@@ -1,1 +1,1 @@
-var mnemonic = "attitude submit traffic fame reason bachelor acoustic author indicate demise voice shield";
+var mnemonic = "victory raccoon join hello leg boat obtain topic injury odor velvet inhale";

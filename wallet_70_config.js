@@ -1,1 +1,1 @@
-var mnemonic = "need gold banana saddle hello blur trial joke casino erase brief oblige";
+var mnemonic = "divorce pond nest obey urge funny flavor practice shrimp wreck robot become";

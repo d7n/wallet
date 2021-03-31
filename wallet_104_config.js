@@ -1,1 +1,1 @@
-var mnemonic = "remove zero crumble unit harsh claim anger hill near moment pioneer squeeze";
+var mnemonic = "bulb call churn endorse subject dune radar gasp boring place shoulder fee";

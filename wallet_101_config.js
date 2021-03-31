@@ -1,1 +1,1 @@
-var mnemonic = "winter female stamp craft nerve cool scale degree shy fabric tail burden";
+var mnemonic = "real behave stairs gallery bus odor ignore join wife pass one finger";

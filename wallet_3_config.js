@@ -1,1 +1,1 @@
-var mnemonic = "degree rotate rather stove general letter sugar keep lemon piece stamp enlist";
+var mnemonic = "field turkey arrange twin adapt first urge shadow bomb rookie village fade";

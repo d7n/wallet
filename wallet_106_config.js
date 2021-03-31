@@ -1,1 +1,1 @@
-var mnemonic = "still inhale wage shift pink library garlic advance attack sell tape puppy";
+var mnemonic = "bonus bronze sniff street list toddler more supreme airport auction name foster";

@@ -1,1 +1,1 @@
-var mnemonic = "afford plate antique render tail save practice rubber quality utility stove roof";
+var mnemonic = "achieve across assault bright parrot drum bomb square cat crunch wild lonely";

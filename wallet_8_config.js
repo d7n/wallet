@@ -1,1 +1,1 @@
-var mnemonic = "print gadget detail alter virus cable come cement parrot immune tell engine";
+var mnemonic = "pave job stock pulp rely glide unhappy siege more issue swarm idea";

@@ -1,1 +1,1 @@
-var mnemonic = "flip vacuum initial three false truck income turtle immune base doctor vacant";
+var mnemonic = "juice paddle tumble pill raven east repair wreck hollow pattern scatter diagram";

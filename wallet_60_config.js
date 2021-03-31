@@ -1,1 +1,1 @@
-var mnemonic = "solve grief future recycle moral help cruel load faint adapt engage disease";
+var mnemonic = "steak engage aerobic board stove frown speak enrich run unit neglect shy";

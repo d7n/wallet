@@ -1,1 +1,1 @@
-var mnemonic = "neck infant negative salmon better turtle certain certain sustain addict gas mad";
+var mnemonic = "verify put click visit detect young foster height able pioneer purse room";

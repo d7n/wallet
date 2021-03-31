@@ -1,1 +1,1 @@
-var mnemonic = "step vast talent eager discover embrace child series ivory huge sad spray";
+var mnemonic = "brisk sight shove balance ten core valley flat torch butter machine tower";

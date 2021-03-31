@@ -1,1 +1,1 @@
-var mnemonic = "dress soft wish shrimp skull promote latin sense salute giraffe only roast";
+var mnemonic = "baby antenna grief glance way spider tone shrug nurse board arrange bargain";

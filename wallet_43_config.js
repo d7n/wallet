@@ -1,1 +1,1 @@
-var mnemonic = "grace sorry please still monitor boring wedding material agent exact own goose";
+var mnemonic = "envelope carpet chat gas wagon security priority stairs nuclear matter couple satisfy";

@@ -1,1 +1,1 @@
-var mnemonic = "relax equal season stock lunch glide language snack bar drastic unfair debate";
+var mnemonic = "lamp cement egg develop air sleep supply surface apart tissue outdoor april";

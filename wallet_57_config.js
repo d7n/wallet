@@ -1,1 +1,1 @@
-var mnemonic = "repeat shift desert town prevent evoke dilemma later damage envelope congress before";
+var mnemonic = "future vehicle try load throw despair napkin oppose oppose film nut stay";

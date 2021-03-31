@@ -1,1 +1,1 @@
-var mnemonic = "violin initial carbon deer trade next repeat run click salute exist drive";
+var mnemonic = "shock slight avocado width boost typical banner churn analyst purpose grape middle";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual speed talk defense menu foot rotate flag ski steel aisle thumb";
+var mnemonic = "panel bind violin try weekend pause trade green dawn answer input guide";

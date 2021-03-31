@@ -1,1 +1,1 @@
-var mnemonic = "vessel awesome symptom veteran suit stuff unable judge episode chaos leader limit";
+var mnemonic = "obscure priority lazy obscure energy insect menu fetch three nominee powder excuse";

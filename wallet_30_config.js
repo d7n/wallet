@@ -1,1 +1,1 @@
-var mnemonic = "burst citizen salmon spider cargo zero icon taste exit critic kiwi ridge";
+var mnemonic = "ugly upset sting random miracle unlock velvet crash shallow spell speak little";

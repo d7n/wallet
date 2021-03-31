@@ -1,1 +1,1 @@
-var mnemonic = "language inner educate blame two deputy replace inject black suspect tail youth";
+var mnemonic = "wreck suffer seek mesh away select stove square question glide business glance";

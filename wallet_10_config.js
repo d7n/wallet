@@ -1,1 +1,1 @@
-var mnemonic = "shop choice puzzle harbor admit royal two perfect enjoy angry long drop";
+var mnemonic = "cover bonus core amount mention upset mother tomorrow affair panda correct option";

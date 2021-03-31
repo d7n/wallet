@@ -1,1 +1,1 @@
-var mnemonic = "end stadium uncover pear miss cash number describe august album chalk perfect";
+var mnemonic = "puppy cigar spatial coconut chronic hidden cup idea ethics source quiz now";

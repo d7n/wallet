@@ -1,1 +1,1 @@
-var mnemonic = "burst despair spoon route bridge later dinner pact trash extend saddle urban";
+var mnemonic = "guard circle host country total rack approve sunset victory frog start blood";

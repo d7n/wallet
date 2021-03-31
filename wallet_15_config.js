@@ -1,1 +1,1 @@
-var mnemonic = "diamond unaware pause shoot wrist people sound sound rail speed issue chair";
+var mnemonic = "message lounge fortune border motor demise aware panel wrist tell faint about";

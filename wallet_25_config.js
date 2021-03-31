@@ -1,1 +1,1 @@
-var mnemonic = "tree list fire million pet casino annual blanket under balcony strategy friend";
+var mnemonic = "add thumb play shaft dream soda scatter magic right air border earth";

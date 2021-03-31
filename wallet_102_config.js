@@ -1,1 +1,1 @@
-var mnemonic = "round sugar execute abandon snake loop donkey lab hundred ginger sting beauty";
+var mnemonic = "burden glimpse remember deal hover jungle exotic cake speak aspect exclude method";

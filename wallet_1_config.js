@@ -1,1 +1,1 @@
-var mnemonic = "alter transfer degree vessel satoshi just tide rocket vault leopard afraid manual";
+var mnemonic = "rain rely receive fit pond donate sunny oil gravity vague invite cinnamon";

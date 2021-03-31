@@ -1,1 +1,1 @@
-var mnemonic = "lazy avocado furnace comic engage general hawk often luggage net prepare grit";
+var mnemonic = "gown sign blast bean behave tooth powder bright jaguar machine panther object";

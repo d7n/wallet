@@ -1,1 +1,1 @@
-var mnemonic = "sunny torch dolphin demand debate will response dream price dignity label dentist";
+var mnemonic = "bottom project limb solar addict desert poem cotton cheap vital young garment";

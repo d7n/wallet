@@ -1,1 +1,1 @@
-var mnemonic = "vicious manual improve glow weekend example fantasy arrow chronic scrap boost armor";
+var mnemonic = "spoil easily page equip frown quote pitch sheriff margin zoo sea bottom";

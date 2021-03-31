@@ -1,1 +1,1 @@
-var mnemonic = "nature judge fire like human clarify lion jaguar neck neglect stamp canvas";
+var mnemonic = "famous diary polar dog field enter series cupboard identify luggage casino man";

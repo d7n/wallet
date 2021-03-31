@@ -1,1 +1,1 @@
-var mnemonic = "corn wisdom alert consider glove hat erupt earth dentist mansion welcome hat";
+var mnemonic = "frequent disease link twist drastic awful document assist fluid throw elder elegant";

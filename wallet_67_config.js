@@ -1,1 +1,1 @@
-var mnemonic = "eager plug sketch bright dizzy route citizen level attitude industry equip guard";
+var mnemonic = "great gesture lemon material flush voyage actual lucky arrow snake skull genre";

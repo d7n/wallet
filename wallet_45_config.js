@@ -1,1 +1,1 @@
-var mnemonic = "leg screen grace shy receive stove entry tent exile master merit affair";
+var mnemonic = "lake provide valve turkey census glad better square traffic day habit stand";

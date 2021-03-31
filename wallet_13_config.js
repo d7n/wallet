@@ -1,1 +1,1 @@
-var mnemonic = "attract umbrella burger scale inflict crumble cactus will dirt rail blanket drive";
+var mnemonic = "plate blanket range test check morning curious velvet child dragon pulp omit";

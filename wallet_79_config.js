@@ -1,1 +1,1 @@
-var mnemonic = "raw leave trip taxi barrel false battle woman wink web fiber gesture";
+var mnemonic = "pen resource arrive rug update dinosaur grid kid siege join they pond";

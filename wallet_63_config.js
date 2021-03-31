@@ -1,1 +1,1 @@
-var mnemonic = "expand urban prosper deputy teach raven gossip nice merry author abuse maximum";
+var mnemonic = "motion party cloud usage stem excess gadget act cargo food sustain under";

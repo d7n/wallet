@@ -1,1 +1,1 @@
-var mnemonic = "logic kid pet gas brother keen strong path walnut pyramid account flat";
+var mnemonic = "doctor poet proof dragon bleak anxiety album ethics divide vivid tunnel bonus";

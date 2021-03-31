@@ -1,1 +1,1 @@
-var mnemonic = "rifle maximum arrange box melt pulse much gym trash rebuild unhappy debate";
+var mnemonic = "timber clump avocado arrange popular balance wrestle knife document floor bird season";

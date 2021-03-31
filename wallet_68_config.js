@@ -1,1 +1,1 @@
-var mnemonic = "title rice shrimp ramp act mom run level north during message glow";
+var mnemonic = "aspect already time table surge rail delay comfort burden tribe float need";

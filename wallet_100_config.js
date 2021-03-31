@@ -1,1 +1,1 @@
-var mnemonic = "olympic alert lonely belt pelican august dawn apology stadium update ski thumb";
+var mnemonic = "frozen ecology depend hazard desk worth minimum street example ranch diary wish";

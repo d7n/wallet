@@ -1,1 +1,1 @@
-var mnemonic = "have ginger twenty journey gossip reject gather matter venture equal essence practice";
+var mnemonic = "tail come seat wing patient beef donate together wrist glare banana alcohol";

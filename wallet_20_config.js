@@ -1,1 +1,1 @@
-var mnemonic = "sign pipe lens surge youth slim drive scissors neck nest spell mistake";
+var mnemonic = "gather school rent adjust act boil enact lunch federal neither opera card";

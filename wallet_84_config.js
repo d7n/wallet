@@ -1,1 +1,1 @@
-var mnemonic = "tobacco guitar lend balcony update warrior focus knee field perfect slogan orchard";
+var mnemonic = "slam eye hill energy orphan inspire funny until demand aware truth scene";

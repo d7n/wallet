@@ -1,1 +1,1 @@
-var mnemonic = "submit hawk blossom dilemma subject multiply morning crystal stumble twenty filter prefer";
+var mnemonic = "thought onion gasp across torch depend innocent amused hybrid barrel health cherry";

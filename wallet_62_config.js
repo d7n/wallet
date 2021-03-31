@@ -1,1 +1,1 @@
-var mnemonic = "charge maid page develop razor dad urban impact taste party alley acid";
+var mnemonic = "group wire wet pepper grape run detect pluck inflict because notable physical";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt chicken consider word habit radio fluid sing raccoon nominee aware swift";
+var mnemonic = "sphere become nominee dilemma wagon between actress warm lab habit stereo fabric";

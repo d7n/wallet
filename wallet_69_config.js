@@ -1,1 +1,1 @@
-var mnemonic = "dial melody tunnel social problem country panel again powder cigar under pulse";
+var mnemonic = "traffic royal viable marriage menu pattern once alcohol industry seat spy frown";

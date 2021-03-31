@@ -1,1 +1,1 @@
-var mnemonic = "lamp media earn heart food indicate post umbrella knife fiscal spin glass";
+var mnemonic = "relief diesel hip supply borrow afraid crop volcano juice control ridge split";

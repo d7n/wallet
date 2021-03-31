@@ -1,1 +1,1 @@
-var mnemonic = "mix stool wife zero coconut cloud left steel cheap license service high";
+var mnemonic = "cinnamon maple picture ability hint short snow knife olympic clerk expose ring";

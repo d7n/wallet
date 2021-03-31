@@ -1,1 +1,1 @@
-var mnemonic = "burger width dentist recipe expose mobile average ramp scale arrow lyrics impose";
+var mnemonic = "artwork glass later raccoon fork menu left aim unfold lunar damp body";

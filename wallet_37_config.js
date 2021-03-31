@@ -1,1 +1,1 @@
-var mnemonic = "better pitch rubber practice update eternal cousin price actor scrub hollow indicate";
+var mnemonic = "attitude pair disease mix twice flat avocado elite flee saddle flip obvious";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion hour ritual gold guilt cargo jewel announce pipe resource sure nurse";
+var mnemonic = "federal car island idle card hammer render replace fish text evoke rigid";

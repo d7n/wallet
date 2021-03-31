@@ -1,1 +1,1 @@
-var mnemonic = "crumble few ask utility trend fun census farm public fluid pistol impact";
+var mnemonic = "razor claw soup assault neck predict window gravity scissors walnut detail celery";

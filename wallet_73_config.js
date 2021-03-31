@@ -1,1 +1,1 @@
-var mnemonic = "lesson hat stone magnet kitchen much obvious exact funny electric tube produce";
+var mnemonic = "reduce keep sheriff genre category math net quit crouch layer fork merit";

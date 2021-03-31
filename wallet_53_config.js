@@ -1,1 +1,1 @@
-var mnemonic = "sauce weekend interest need impact cloth accuse mammal frost goose camp crouch";
+var mnemonic = "claw mind amazing motion cliff erase tobacco direct cave when crane ketchup";

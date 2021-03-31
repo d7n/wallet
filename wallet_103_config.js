@@ -1,1 +1,1 @@
-var mnemonic = "select other disagree treat flame allow anxiety pony aunt find ginger toilet";
+var mnemonic = "runway cheese demise faint alien west barrel vacuum just wrestle glance lake";

@@ -1,1 +1,1 @@
-var mnemonic = "juice human firm speak keep rich sausage pistol solve party siege merge";
+var mnemonic = "powder bike stove fashion column main method advice foam kidney other later";

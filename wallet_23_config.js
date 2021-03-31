@@ -1,1 +1,1 @@
-var mnemonic = "toy hidden figure today junior pitch cabin swear fold risk nation december";
+var mnemonic = "text forget frozen trigger initial rich private absurd distance meat fade belt";

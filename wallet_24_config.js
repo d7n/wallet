@@ -1,1 +1,1 @@
-var mnemonic = "funny beef model brush inform tortoise danger render secret fun they sleep";
+var mnemonic = "grief access legal senior seven dilemma era match load stock pioneer beef";

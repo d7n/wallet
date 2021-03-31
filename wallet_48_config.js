@@ -1,1 +1,1 @@
-var mnemonic = "canvas pact arena lawsuit wise seek calm exile season average cram client";
+var mnemonic = "source panel require render wife target green admit grass seven ask access";

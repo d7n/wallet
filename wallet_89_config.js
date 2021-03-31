@@ -1,1 +1,1 @@
-var mnemonic = "stand muffin fame hurdle doctor one giggle detail east sense gold kingdom";
+var mnemonic = "cruel act surge inquiry canal awake convince enjoy crew fossil time brave";

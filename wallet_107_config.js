@@ -1,1 +1,1 @@
-var mnemonic = "album erupt usage tired smile online dress produce useful amateur chalk tooth";
+var mnemonic = "brass cram victory cluster island wink loan dry neither keen bar sample";

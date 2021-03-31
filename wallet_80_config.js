@@ -1,1 +1,1 @@
-var mnemonic = "fox bless olive bind stadium badge reject chuckle drill recipe fix slam";
+var mnemonic = "cave law escape rough engage great ritual advance riot try tube invest";

@@ -1,1 +1,1 @@
-var mnemonic = "correct same hole ostrich chicken runway humor indoor lottery risk agent floor";
+var mnemonic = "suit palace cream coyote rare slam sock voyage cinnamon army know link";

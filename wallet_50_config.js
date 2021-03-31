@@ -1,1 +1,1 @@
-var mnemonic = "antenna nose address horror stove sample connect drive wine rib forget prison";
+var mnemonic = "length stool dream dial chuckle lecture promote power huge soda empower believe";

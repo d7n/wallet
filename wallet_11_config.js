@@ -1,1 +1,1 @@
-var mnemonic = "ill suggest home repeat feature vibrant usage remain identify fix apart honey";
+var mnemonic = "infant achieve call public escape endless sound meadow debris pause column thrive";

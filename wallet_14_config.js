@@ -1,1 +1,1 @@
-var mnemonic = "slender plug fly leopard travel busy actress situate joy moment toy inspire";
+var mnemonic = "bronze space nurse emotion simple stable debris letter animal genius ethics health";

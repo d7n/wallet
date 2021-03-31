@@ -1,1 +1,1 @@
-var mnemonic = "cliff quarter cost episode cat arrow frame daughter volcano artwork dawn physical";
+var mnemonic = "top crunch spider advice eye rigid hospital differ suggest leaf medal rescue";

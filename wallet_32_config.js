@@ -1,1 +1,1 @@
-var mnemonic = "tomato devote trim series dry reduce glue unable tooth zebra frame radar";
+var mnemonic = "coil allow wish reveal fence inner tray jeans unaware belt worth oblige";

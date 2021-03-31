@@ -1,1 +1,1 @@
-var mnemonic = "choice grit picnic alert party spoil sell eight spice okay case mechanic";
+var mnemonic = "strike wool prepare endless cliff welcome enrich blame neither abuse green general";

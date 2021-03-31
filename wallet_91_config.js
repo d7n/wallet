@@ -1,1 +1,1 @@
-var mnemonic = "school kiss leaf brave famous thank blue common this donkey special divide";
+var mnemonic = "pottery treat vast egg case system draft cupboard dry loud legal donor";

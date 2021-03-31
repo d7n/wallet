@@ -1,1 +1,1 @@
-var mnemonic = "soap lake crazy tourist jealous warrior inquiry genuine unlock water dial thunder";
+var mnemonic = "frost source country route deer bleak skill deposit venture jungle brass sick";
