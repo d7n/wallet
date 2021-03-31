@@ -1,1 +1,1 @@
-var mnemonic = "shrimp echo despair rotate one security oak danger obey sock cube evoke";
+var mnemonic = "track ship visual easy exchange hockey educate special swing item erosion canal";

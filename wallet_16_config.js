@@ -1,1 +1,1 @@
-var mnemonic = "destroy draft clutch grid master final regret scene farm fan alone giraffe";
+var mnemonic = "embark govern local mixed mosquito viable crowd wood water beyond gossip north";

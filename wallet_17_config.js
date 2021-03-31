@@ -1,1 +1,1 @@
-var mnemonic = "victory cool decide waste crater ridge domain rocket title car world horse";
+var mnemonic = "rifle flash mad video express fat huge december now crash control reward";

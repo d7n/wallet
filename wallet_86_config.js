@@ -1,1 +1,1 @@
-var mnemonic = "cute certain wrist drum relax label strategy party juice able simple coast";
+var mnemonic = "feed engage distance three two labor ramp arrive thought fox danger exit";

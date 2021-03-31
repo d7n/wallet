@@ -1,1 +1,1 @@
-var mnemonic = "cactus little thrive hundred frozen runway furnace rain candy trophy avoid spot";
+var mnemonic = "clump age oval dinosaur raccoon axis wife trick sad sock carpet orange";

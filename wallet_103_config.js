@@ -1,1 +1,1 @@
-var mnemonic = "shuffle dust also globe poet cute welcome monitor crumble tuna fashion rapid";
+var mnemonic = "robust raw essence card student ring super shrimp either lend elephant logic";

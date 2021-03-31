@@ -1,1 +1,1 @@
-var mnemonic = "net depth uniform hunt track lazy inhale quality famous chalk favorite strong";
+var mnemonic = "link alter turkey bubble obvious matter doll chronic agree magnet board private";

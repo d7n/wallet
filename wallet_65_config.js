@@ -1,1 +1,1 @@
-var mnemonic = "worth version snap ticket liberty arch maze special essence spy arrange lizard";
+var mnemonic = "rubber tired want clutch coin royal panther silk settle behind couch script";

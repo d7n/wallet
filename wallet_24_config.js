@@ -1,1 +1,1 @@
-var mnemonic = "floor hungry peanut symptom century syrup cave kiss border device quarter another";
+var mnemonic = "switch property garment essay behave access distance angry fruit daughter romance size";

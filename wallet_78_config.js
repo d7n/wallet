@@ -1,1 +1,1 @@
-var mnemonic = "area twin come two avoid private excess snap jealous become mountain bubble";
+var mnemonic = "flower offer room icon east result journey maze slab minute glue profit";

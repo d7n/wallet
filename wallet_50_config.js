@@ -1,1 +1,1 @@
-var mnemonic = "medal taste pole flip clown risk ship process feature mix space galaxy";
+var mnemonic = "pen visa begin shoe victory name couple portion frown inflict carry bubble";

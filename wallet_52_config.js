@@ -1,1 +1,1 @@
-var mnemonic = "clerk vapor glass cloud dinosaur disorder clown survey must quick best rescue";
+var mnemonic = "grief goddess what keep trim rent domain retreat clump uncover foam relax";

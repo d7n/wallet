@@ -1,1 +1,1 @@
-var mnemonic = "pyramid around solar sister banner prize animal disagree merge early canoe all";
+var mnemonic = "pair rival hour clown analyst slice hair pottery jeans undo fury grass";

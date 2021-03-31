@@ -1,1 +1,1 @@
-var mnemonic = "hazard salute safe neither master donate orient jazz shine bounce round cricket";
+var mnemonic = "maple job hobby visual siren gesture dirt admit heart blast there isolate";

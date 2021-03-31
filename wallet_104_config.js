@@ -1,1 +1,1 @@
-var mnemonic = "game debate tragic install truly bridge sibling nature mouse cargo broken balcony";
+var mnemonic = "file immense sample sniff train chef payment toy mad victory scissors fuel";

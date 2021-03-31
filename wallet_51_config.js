@@ -1,1 +1,1 @@
-var mnemonic = "note moon genre steel fog rookie upon give street famous quick indicate";
+var mnemonic = "vintage devote entire satoshi lab wild bright space foster finish asthma eager";

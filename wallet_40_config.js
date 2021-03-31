@@ -1,1 +1,1 @@
-var mnemonic = "inject mind pink spy virtual pledge tonight hand burst dream fluid pen";
+var mnemonic = "super silver gym super crumble bounce crumble angry ozone churn essence ask";

@@ -1,1 +1,1 @@
-var mnemonic = "empower victory pave furnace squirrel town when hip text century lecture save";
+var mnemonic = "obvious wood never large mail country trap knock adult vehicle blossom reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "long interest ivory employ retreat daring okay tumble bird barrel angle rug";
+var mnemonic = "hobby whisper erode swift food duty defy metal luggage debate forum scatter";

@@ -1,1 +1,1 @@
-var mnemonic = "tackle real case forget myself action tenant crunch thank merit local point";
+var mnemonic = "october farm shuffle economy fruit bomb census giant eager ability tuna aisle";

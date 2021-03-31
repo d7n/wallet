@@ -1,1 +1,1 @@
-var mnemonic = "series crew peasant wink alley involve finish spoil cancel chase room retreat";
+var mnemonic = "call sting actress gloom unhappy empty tobacco sort spin napkin answer convince";

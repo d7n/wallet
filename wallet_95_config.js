@@ -1,1 +1,1 @@
-var mnemonic = "thrive chicken approve salmon grace hockey symptom citizen choice govern response satisfy";
+var mnemonic = "crater develop round gun once manual hair book mercy diesel misery screen";

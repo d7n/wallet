@@ -1,1 +1,1 @@
-var mnemonic = "cause expire assault cry hello snack ribbon anger panel auction uniform mule";
+var mnemonic = "youth half wrist wheat craft bottom tiger project inspire eager snake derive";

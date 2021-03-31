@@ -1,1 +1,1 @@
-var mnemonic = "torch trade radar december sun best mobile sadness chair runway property diesel";
+var mnemonic = "tattoo include trust essence response cousin century indoor design frog radar blur";

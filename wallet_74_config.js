@@ -1,1 +1,1 @@
-var mnemonic = "jar glow obscure junior forward tattoo agent uncle amount now canoe crazy";
+var mnemonic = "flock tree dynamic garlic agree clean collect fluid unit net pool jacket";

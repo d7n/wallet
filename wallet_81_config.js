@@ -1,1 +1,1 @@
-var mnemonic = "symbol picnic stuff sight letter dust wreck salt try process ketchup senior";
+var mnemonic = "advance wrong salon february tray daring cricket buffalo any cage demand surface";

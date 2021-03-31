@@ -1,1 +1,1 @@
-var mnemonic = "donor update subject sweet display state surround saddle face shuffle soft solar";
+var mnemonic = "erase vendor ridge force two pet business boy crew law human resource";

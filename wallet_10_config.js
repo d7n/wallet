@@ -1,1 +1,1 @@
-var mnemonic = "divide usage mimic mad daring oyster machine sunny ignore salmon frame again";
+var mnemonic = "indoor naive direct beauty client bike sea ancient much maid equal coconut";

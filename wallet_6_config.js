@@ -1,1 +1,1 @@
-var mnemonic = "fit fury deputy birth cheese romance chef hover market apple dog unfold";
+var mnemonic = "warrior horror cousin accident scale horn snap into virus cycle crunch vote";

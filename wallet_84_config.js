@@ -1,1 +1,1 @@
-var mnemonic = "stereo people sister stairs split surprise chuckle oblige galaxy alarm cigar water";
+var mnemonic = "plunge mouse slab asthma report veteran basket notice final stage luxury happy";

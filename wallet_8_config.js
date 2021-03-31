@@ -1,1 +1,1 @@
-var mnemonic = "squeeze salmon mass purpose target canvas exercise urge naive coral night excess";
+var mnemonic = "chat bid price tuition luxury nephew undo satisfy tackle zone transfer emerge";

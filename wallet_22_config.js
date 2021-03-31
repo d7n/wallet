@@ -1,1 +1,1 @@
-var mnemonic = "eight siren olive coin expire section change hold check despair scale update";
+var mnemonic = "explain traffic yard win current turtle trophy web seven setup can crumble";

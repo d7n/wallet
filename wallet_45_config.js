@@ -1,1 +1,1 @@
-var mnemonic = "card wink idea conduct village galaxy achieve range harvest flag cotton again";
+var mnemonic = "ride online add valley version note car power pond music moon decrease";

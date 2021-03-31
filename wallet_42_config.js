@@ -1,1 +1,1 @@
-var mnemonic = "right mixed staff payment rigid gown rare captain bitter inspire tide educate";
+var mnemonic = "clock lazy you skull rack suspect nothing impose pledge decrease eternal sniff";

@@ -1,1 +1,1 @@
-var mnemonic = "tiny mesh picnic perfect afraid give upper devote cupboard mask shiver clinic";
+var mnemonic = "profit result together session parent sea drop wing fall message weasel clever";

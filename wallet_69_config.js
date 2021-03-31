@@ -1,1 +1,1 @@
-var mnemonic = "disorder meadow crazy cross task huge nothing photo awful gain room crouch";
+var mnemonic = "endless process inner bacon muffin million beach solve tiger junior disease dog";

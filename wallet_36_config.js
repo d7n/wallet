@@ -1,1 +1,1 @@
-var mnemonic = "install initial unhappy apart like palace tourist flight bike pulse army boil";
+var mnemonic = "conduct nurse entry lock exit panda cushion scout observe other odor peanut";

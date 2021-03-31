@@ -1,1 +1,1 @@
-var mnemonic = "number what wage bracket mom decorate antenna empower bar catch asthma poem";
+var mnemonic = "narrow hope code liberty aspect impact bitter list cabin marine name hospital";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt human woman canyon cupboard link burden divorce interest analyst lunar turn";
+var mnemonic = "corn leisure task ball ship car pig miss leaf soda nature effort";

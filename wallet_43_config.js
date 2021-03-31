@@ -1,1 +1,1 @@
-var mnemonic = "melody awake wait spice run trust gas amount blur report nut predict";
+var mnemonic = "sudden general video electric cruise carbon agent piano street anchor quick rough";

@@ -1,1 +1,1 @@
-var mnemonic = "surprise write print design hurry connect sight purpose vapor sign century wrong";
+var mnemonic = "grass dynamic bicycle flavor fish country festival divert maximum edge pepper arm";

@@ -1,1 +1,1 @@
-var mnemonic = "cute cave ball earth maple tunnel leisure muscle rely rapid brick bind";
+var mnemonic = "autumn buddy elegant anxiety toss embrace arrow inflict erupt impulse female flame";

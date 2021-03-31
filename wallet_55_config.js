@@ -1,1 +1,1 @@
-var mnemonic = "repair apple curtain strike use original purity rocket virtual exhibit erase when";
+var mnemonic = "bonus copy honey impulse female super jelly erode seek include cruise lottery";

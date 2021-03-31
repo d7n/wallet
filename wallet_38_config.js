@@ -1,1 +1,1 @@
-var mnemonic = "canvas mind make chest hundred original evidence matter vessel shift drive divide";
+var mnemonic = "kind wear choice dust glass coconut same multiply broom penalty maximum play";

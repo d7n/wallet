@@ -1,1 +1,1 @@
-var mnemonic = "sustain flower pen duty ordinary smart zebra impose quiz coil era decade";
+var mnemonic = "copy help unaware enough acquire silly monitor exhaust light claw sight orange";

@@ -1,1 +1,1 @@
-var mnemonic = "clay sleep island merit middle nice labor piece mosquito offer chimney grape";
+var mnemonic = "shop penalty cat night believe spread spoon desk element garlic ensure egg";

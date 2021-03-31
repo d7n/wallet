@@ -1,1 +1,1 @@
-var mnemonic = "raw unusual rough slide shock quick drive elite copy enemy car body";
+var mnemonic = "absurd dynamic famous parent ask crumble dream balance fish cook service verify";

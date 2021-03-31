@@ -1,1 +1,1 @@
-var mnemonic = "panther maximum travel shock sign average deliver foil hedgehog coffee obscure fossil";
+var mnemonic = "abstract inflict program black judge leave shy dinosaur toast educate gloom assault";

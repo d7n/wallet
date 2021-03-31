@@ -1,1 +1,1 @@
-var mnemonic = "differ cushion fragile garbage vessel bright blue spot model inherit sad industry";
+var mnemonic = "pledge differ jelly estate one cook canvas shrug magnet wasp fish cave";

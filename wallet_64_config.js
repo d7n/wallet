@@ -1,1 +1,1 @@
-var mnemonic = "select drill energy then gather company goat refuse light photo select tissue";
+var mnemonic = "refuse come artefact rebuild noodle jelly blood sadness design pattern casino ride";

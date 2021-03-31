@@ -1,1 +1,1 @@
-var mnemonic = "opera relief witness remove phone vanish quit october medal certain dress glide";
+var mnemonic = "bleak shiver muffin game average rotate gravity client system above note practice";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly maximum enact forget pretty slide maple slogan trash fence plate ladder";
+var mnemonic = "army icon latin spare claw dinner wagon afraid trouble negative extra advance";

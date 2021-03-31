@@ -1,1 +1,1 @@
-var mnemonic = "play head brisk interest spatial magic visa crime detect two nominee wool";
+var mnemonic = "exclude vintage fiscal solution interest dinosaur sadness tackle disorder chief near boss";

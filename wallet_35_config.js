@@ -1,1 +1,1 @@
-var mnemonic = "shallow post february until local auction post castle nest stereo skill card";
+var mnemonic = "aisle power base release ethics draft orphan web toddler ball goose banana";

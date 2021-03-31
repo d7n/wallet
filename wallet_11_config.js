@@ -1,1 +1,1 @@
-var mnemonic = "raw speed pizza vivid elbow clutch pizza true ginger chalk offer army";
+var mnemonic = "hobby chuckle shift because roast boil argue asset aware busy empower junior";

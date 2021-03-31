@@ -1,1 +1,1 @@
-var mnemonic = "input leave milk leisure zero embrace wing radar organ shoot six lock";
+var mnemonic = "goddess frost order maximum square reveal voice reopen cream asthma clinic copy";

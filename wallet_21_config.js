@@ -1,1 +1,1 @@
-var mnemonic = "person reunion address brain corn smoke duck mobile caught mixed tomato add";
+var mnemonic = "report rice shoulder cross scrap original tuna book winter already thought dress";

@@ -1,1 +1,1 @@
-var mnemonic = "any suggest rifle dinosaur sketch tonight lemon imitate attract elite top salt";
+var mnemonic = "noise stomach egg remain banner crystal person stand oak manage elevator space";

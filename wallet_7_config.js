@@ -1,1 +1,1 @@
-var mnemonic = "betray gorilla fine doll napkin artwork ask turn eternal express limit enact";
+var mnemonic = "other pyramid nation prize purse juice punch call code almost risk dust";

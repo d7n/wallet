@@ -1,1 +1,1 @@
-var mnemonic = "piano install company tenant march extend crawl coil must say toilet pig";
+var mnemonic = "viable same view flat attack assault spoil iron crouch myself real nation";

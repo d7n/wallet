@@ -1,1 +1,1 @@
-var mnemonic = "achieve million design salt undo manage fossil hollow spell acoustic disagree private";
+var mnemonic = "industry grit quick fault list marriage all father fitness arrest lift fiction";

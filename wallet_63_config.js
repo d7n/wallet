@@ -1,1 +1,1 @@
-var mnemonic = "unknown chair soon sheriff area parade allow goat liquid almost river diet";
+var mnemonic = "state chapter force print earn metal pact produce scatter property match fever";

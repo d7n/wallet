@@ -1,1 +1,1 @@
-var mnemonic = "stereo juice hub cat gentle before earn hundred put matter deliver evidence";
+var mnemonic = "hard bracket crime bicycle elbow stumble ridge claim symbol aware chapter endorse";

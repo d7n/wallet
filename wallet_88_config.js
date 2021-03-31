@@ -1,1 +1,1 @@
-var mnemonic = "soap claim witness shallow simple sand ceiling wine thumb blush surprise festival";
+var mnemonic = "gospel dove blood adjust prefer stuff infant artist cable imitate remember gravity";

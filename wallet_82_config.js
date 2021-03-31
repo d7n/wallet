@@ -1,1 +1,1 @@
-var mnemonic = "media bicycle bench prison diagram caught cause slight glide cabbage into position";
+var mnemonic = "demand salad hub crew then indicate network black shield buzz bargain library";

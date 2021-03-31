@@ -1,1 +1,1 @@
-var mnemonic = "airport bird beauty extra radio rib clutch collect meat romance naive segment";
+var mnemonic = "physical paper camp sock capital remember foil bridge question staff manual police";

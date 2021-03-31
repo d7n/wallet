@@ -1,1 +1,1 @@
-var mnemonic = "desk shine lend female scale bottom state video pencil mixed purchase rigid";
+var mnemonic = "hurry normal crack grace crawl logic memory guide ability seven cannon dash";

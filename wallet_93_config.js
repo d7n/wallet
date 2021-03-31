@@ -1,1 +1,1 @@
-var mnemonic = "cactus cotton rib ostrich any wonder strong number recipe job like mass";
+var mnemonic = "defy always salute garden blame design target hair guilt bread gossip wrap";

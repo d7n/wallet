@@ -1,1 +1,1 @@
-var mnemonic = "bless alone disorder sunny fiber hour dilemma cradle absorb struggle income rice";
+var mnemonic = "combine tissue cream lunar organ easy boy melt announce excite zone scene";

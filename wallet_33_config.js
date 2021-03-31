@@ -1,1 +1,1 @@
-var mnemonic = "fancy enforce wealth matter circle stumble punch enroll pencil rival combine detail";
+var mnemonic = "pattern shadow awful giraffe similar ride original convince million hunt unique define";

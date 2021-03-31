@@ -1,1 +1,1 @@
-var mnemonic = "rule noble burst kit correct among foam sentence kiwi buffalo symptom crack";
+var mnemonic = "drum system nice carry icon chair youth attitude similar royal loan risk";

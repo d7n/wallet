@@ -1,1 +1,1 @@
-var mnemonic = "surround pluck burger speed goose anchor sign scrub season orbit tent fish";
+var mnemonic = "secret globe immune nurse ripple gorilla lens kitchen update hybrid cinnamon roof";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle message monkey casual staff snake mail leave cherry poverty almost verb";
+var mnemonic = "slim forest fragile climb jump occur napkin demise luxury matrix used kitchen";

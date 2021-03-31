@@ -1,1 +1,1 @@
-var mnemonic = "salad rough carpet video crystal sentence buyer alarm area involve foster dynamic";
+var mnemonic = "seed auction mistake buyer rug stamp learn swift canvas pottery tomato marine";

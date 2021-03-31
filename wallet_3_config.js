@@ -1,1 +1,1 @@
-var mnemonic = "fun salon cycle sense secret crisp benefit decade riot proud clutch click";
+var mnemonic = "nuclear describe manage fold become grape private lounge warm garment junior amount";

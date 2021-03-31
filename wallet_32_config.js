@@ -1,1 +1,1 @@
-var mnemonic = "sense embark remove toddler object frog student choice crew able response brick";
+var mnemonic = "tape album clean capable crazy unfair crush rocket liberty fence verb river";

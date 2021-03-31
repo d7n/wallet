@@ -1,1 +1,1 @@
-var mnemonic = "middle license bulk seven neck write dash walnut endorse message fever puppy";
+var mnemonic = "benefit machine multiply rule begin jar desk used lake because verb nice";

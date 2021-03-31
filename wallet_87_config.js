@@ -1,1 +1,1 @@
-var mnemonic = "relief sand guard bamboo melt online poet network runway decorate melody foam";
+var mnemonic = "dose lazy coconut clap ten border again crunch viable open enough deposit";

@@ -1,1 +1,1 @@
-var mnemonic = "message method ride absorb speak element cycle hazard uncover explain envelope slush";
+var mnemonic = "ahead flame domain ready decline balcony pencil trip mirror wife corn certain";

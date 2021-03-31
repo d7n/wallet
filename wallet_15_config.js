@@ -1,1 +1,1 @@
-var mnemonic = "witness social shallow sponsor history duck bridge unlock into wait access smoke";
+var mnemonic = "civil enact fiber goat baby settle reunion tilt energy warm owner luxury";

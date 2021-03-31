@@ -1,1 +1,1 @@
-var mnemonic = "blur angle allow cave umbrella later mind slot slot enhance bread fine";
+var mnemonic = "material offer will more lion build super leaf million merit setup upon";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone sort oppose hurdle ribbon lock local laugh always stage people crew";
+var mnemonic = "decrease gain because identify cigar cancel cup jelly sense result unfair test";

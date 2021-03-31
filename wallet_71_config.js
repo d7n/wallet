@@ -1,1 +1,1 @@
-var mnemonic = "trim stage shadow critic myself stamp planet give drop goddess wave fox";
+var mnemonic = "alter law visual usage goose hedgehog glad happy brisk want rude slab";

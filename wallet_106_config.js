@@ -1,1 +1,1 @@
-var mnemonic = "often thrive merit field brand police mansion crack tortoise noise shadow acoustic";
+var mnemonic = "middle arctic husband insect ramp mass grunt slight suit series uniform finger";

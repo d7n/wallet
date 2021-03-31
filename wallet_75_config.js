@@ -1,1 +1,1 @@
-var mnemonic = "rocket nurse push begin clip memory click say glad ranch position skin";
+var mnemonic = "raccoon tuna soda life whisper unusual popular legend develop relief balance drift";

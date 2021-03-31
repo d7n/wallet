@@ -1,1 +1,1 @@
-var mnemonic = "casino fame taste fringe enable symbol mother cost blast valve confirm resource";
+var mnemonic = "income depart appear lock earth uncle unaware ball chest evidence library human";

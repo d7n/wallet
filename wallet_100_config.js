@@ -1,1 +1,1 @@
-var mnemonic = "box iron obtain pave movie load elegant fall defy fire picture cruise";
+var mnemonic = "damp reward whale box wonder dilemma misery column rival million used key";

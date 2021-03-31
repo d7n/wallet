@@ -1,1 +1,1 @@
-var mnemonic = "husband voyage useless rug common use people arctic slice leave exotic cradle";
+var mnemonic = "acquire child glimpse gold interest profit deny rent lunch cube language address";

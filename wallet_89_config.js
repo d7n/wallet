@@ -1,1 +1,1 @@
-var mnemonic = "cupboard west aunt destroy mixture aisle joke fringe clutch reopen hotel correct";
+var mnemonic = "grain talk toast whip foot half picnic arch traffic expand lyrics gravity";
