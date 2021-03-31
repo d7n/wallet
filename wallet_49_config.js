@@ -1,1 +1,1 @@
-var mnemonic = "connect denial public fancy dilemma dinner draft seek talk main peanut sting";
+var mnemonic = "birth bounce portion staff text aspect fly regular end produce jungle cheese";

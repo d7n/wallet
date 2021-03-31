@@ -1,1 +1,1 @@
-var mnemonic = "glue funny virtual clump gaze burden spend vocal chalk still fury fortune";
+var mnemonic = "swear steel leg fiction indicate cloth knee page tag comic secret when";

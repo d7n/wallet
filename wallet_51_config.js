@@ -1,1 +1,1 @@
-var mnemonic = "insane punch sadness pair ordinary hurt assist home bar lunar wash poem";
+var mnemonic = "cart reward pigeon security please dog wish raise civil hour follow clump";

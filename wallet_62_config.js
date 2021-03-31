@@ -1,1 +1,1 @@
-var mnemonic = "always east wash humble puppy defense bracket diagram gas tongue staff hello";
+var mnemonic = "wheel taste celery legal screen deny clay crucial letter cargo ridge manual";

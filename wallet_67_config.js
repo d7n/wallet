@@ -1,1 +1,1 @@
-var mnemonic = "oppose gun grocery tail pool romance occur sting tumble noise fiber depth";
+var mnemonic = "chair task major wool gate example weekend feature donkey orphan horror treat";

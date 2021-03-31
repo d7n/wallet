@@ -1,1 +1,1 @@
-var mnemonic = "bitter defy rubber cake shock slender raven monkey able noble object vocal";
+var mnemonic = "sick detail athlete ill large arrive globe often actress put zero crunch";

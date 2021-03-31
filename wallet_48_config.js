@@ -1,1 +1,1 @@
-var mnemonic = "ancient waste rail clinic disorder nation put private what faith sock orchard";
+var mnemonic = "fee peasant prosper space old neutral small ask journey toddler fashion yellow";

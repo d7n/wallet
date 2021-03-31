@@ -1,1 +1,1 @@
-var mnemonic = "liar dish apology more useful sword genre picture obey grid woman decline";
+var mnemonic = "doll clown fury egg sustain elite domain useful scrub recall erosion tower";

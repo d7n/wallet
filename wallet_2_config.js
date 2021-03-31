@@ -1,1 +1,1 @@
-var mnemonic = "ride submit tissue decide hybrid surprise kiss nominee flash primary evolve maid";
+var mnemonic = "west carpet give already random fall dinosaur stamp essence faint tube valve";

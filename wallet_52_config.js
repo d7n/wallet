@@ -1,1 +1,1 @@
-var mnemonic = "sport mixed flat follow burger biology catch pave point meadow exist mystery";
+var mnemonic = "extra minor unfair tornado pull fire phrase holiday super describe edit furnace";

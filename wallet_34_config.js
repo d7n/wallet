@@ -1,1 +1,1 @@
-var mnemonic = "enjoy link patch exist arm rifle execute session ostrich pyramid interest ordinary";
+var mnemonic = "melt tail affair payment glad crisp aunt forget coconut unknown harsh clarify";

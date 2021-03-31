@@ -1,1 +1,1 @@
-var mnemonic = "left follow flash panda vibrant comic walnut lyrics illegal grass fish modify";
+var mnemonic = "dream robot cruel coast crunch connect garage yellow umbrella trip sting deal";

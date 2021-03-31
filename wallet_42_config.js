@@ -1,1 +1,1 @@
-var mnemonic = "liberty tail nuclear decide plunge wood bird aspect best used nature utility";
+var mnemonic = "lesson blur eyebrow bring snow frog excess fever rely wedding frozen brush";

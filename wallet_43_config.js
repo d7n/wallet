@@ -1,1 +1,1 @@
-var mnemonic = "art goose seek retreat office fabric milk volume school coconut seek deer";
+var mnemonic = "better system social claw solution satoshi join spread pulp lucky gravity riot";

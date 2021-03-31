@@ -1,1 +1,1 @@
-var mnemonic = "erode symbol jungle labor topple illness debate puzzle ripple sausage curve lecture";
+var mnemonic = "glory certain amused develop ketchup evidence erode marble kit much grocery bundle";

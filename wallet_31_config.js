@@ -1,1 +1,1 @@
-var mnemonic = "situate access easily total over armed load divide require napkin agent embrace";
+var mnemonic = "fetch cruise improve stumble tragic convince kiss found total marble entry dirt";

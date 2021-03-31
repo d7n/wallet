@@ -1,1 +1,1 @@
-var mnemonic = "about arch another network wash combine depend style oxygen arch evoke life";
+var mnemonic = "goat rally drama mention gift nerve prison sudden survey sample box filter";

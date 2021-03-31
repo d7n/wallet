@@ -1,1 +1,1 @@
-var mnemonic = "time tank crane erode glare gaze butter salt pilot human myself genius";
+var mnemonic = "ritual lucky fault enforce expect vehicle catalog trust popular have virtual ready";

@@ -1,1 +1,1 @@
-var mnemonic = "outer valid twice split answer sausage venue can cargo profit vessel lucky";
+var mnemonic = "acoustic manage execute blush unusual people horror brass hope brave actor repeat";

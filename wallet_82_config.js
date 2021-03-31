@@ -1,1 +1,1 @@
-var mnemonic = "start peace sense curious reward hurdle outside track win pizza solution scissors";
+var mnemonic = "april silk million bargain chronic shallow doctor guide tobacco guitar vessel comic";

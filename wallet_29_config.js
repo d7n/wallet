@@ -1,1 +1,1 @@
-var mnemonic = "sister swap airport mesh glide video hole throw opera again flash asthma";
+var mnemonic = "tourist rural donor excess grocery legal special siren approve pilot lecture squeeze";

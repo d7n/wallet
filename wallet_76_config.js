@@ -1,1 +1,1 @@
-var mnemonic = "dolphin always seed execute cage gentle medal humble scout town document immense";
+var mnemonic = "hood rotate sign cancel wild deny turkey lobster artefact lazy infant expose";

@@ -1,1 +1,1 @@
-var mnemonic = "rose noble ritual ocean harvest park slogan bag shock response trick luxury";
+var mnemonic = "nephew oppose minute artwork mimic turtle fiction battle library water stove neck";

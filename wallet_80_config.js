@@ -1,1 +1,1 @@
-var mnemonic = "over lens extra ozone invite symptom ship cost tip torch regret firm";
+var mnemonic = "eyebrow other better hammer unit unit kind you agree chapter spell dish";

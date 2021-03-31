@@ -1,1 +1,1 @@
-var mnemonic = "gap east sauce inform duck april left music hello sand silly juice";
+var mnemonic = "scene avocado ensure wheat weather clock muffin maximum dish absent blame faint";

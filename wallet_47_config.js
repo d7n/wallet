@@ -1,1 +1,1 @@
-var mnemonic = "remove girl guide cry cruel kingdom comfort lecture unit brave ramp wall";
+var mnemonic = "frequent combine daring scrap surround sleep music together skin famous token wheat";

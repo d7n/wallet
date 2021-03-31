@@ -1,1 +1,1 @@
-var mnemonic = "sausage govern industry relax escape slow they remind twice retire dress taxi";
+var mnemonic = "hill envelope taste mixture shop shy gift girl invest since olympic feed";

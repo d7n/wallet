@@ -1,1 +1,1 @@
-var mnemonic = "ocean friend ready noodle interest couple elevator thrive arena gauge stick donate";
+var mnemonic = "knock culture come express coach bread ivory open differ rubber scale begin";

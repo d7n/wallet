@@ -1,1 +1,1 @@
-var mnemonic = "legend coach screen check cotton immense ethics rent tape blood palm palm";
+var mnemonic = "frost egg forget nasty swallow wall forget buyer museum jungle once page";

@@ -1,1 +1,1 @@
-var mnemonic = "faith chronic axis pole grow track cousin exercise syrup warm still inch";
+var mnemonic = "world afford gasp vote million switch vendor filter perfect birth near apple";

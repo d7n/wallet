@@ -1,1 +1,1 @@
-var mnemonic = "ill valid evil buyer airport bone pepper vessel ribbon off bid switch";
+var mnemonic = "arrow kitchen elegant critic bless need brown brisk way divorce dynamic heart";

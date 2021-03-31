@@ -1,1 +1,1 @@
-var mnemonic = "cradle charge poverty step fossil ugly fringe visual drip humor wink bid";
+var mnemonic = "target welcome cream copper expose spy buyer race embark castle unfold cycle";

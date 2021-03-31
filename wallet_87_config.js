@@ -1,1 +1,1 @@
-var mnemonic = "similar clap behave fashion divorce case slot special vague beauty swing erosion";
+var mnemonic = "envelope dutch maximum drive excite asthma helmet flag jazz federal hollow faint";

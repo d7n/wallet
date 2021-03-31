@@ -1,1 +1,1 @@
-var mnemonic = "obscure diesel lend wolf rival trick fold business scout portion snake swarm";
+var mnemonic = "grab spike attack forum convince escape fan unusual feel enemy impact return";

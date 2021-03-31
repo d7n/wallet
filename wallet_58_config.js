@@ -1,1 +1,1 @@
-var mnemonic = "author demand isolate kidney equal rack sentence notice elder dinosaur common head";
+var mnemonic = "vapor view today crazy hurry extra sleep miracle usage sure foam abandon";

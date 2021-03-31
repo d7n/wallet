@@ -1,1 +1,1 @@
-var mnemonic = "person member depth color fiscal empty bullet rocket garlic drop mail economy";
+var mnemonic = "huge nice escape shift penalty slice gap suffer aware eager enact settle";

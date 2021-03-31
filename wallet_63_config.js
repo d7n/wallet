@@ -1,1 +1,1 @@
-var mnemonic = "heart miracle lumber decorate finger cherry turtle merit surface mobile credit coral";
+var mnemonic = "jelly cabin chimney detail fatal bread ankle olympic beyond blush slush addict";

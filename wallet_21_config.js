@@ -1,1 +1,1 @@
-var mnemonic = "valley picnic awkward runway trap pig sponsor dance frog patrol firm help";
+var mnemonic = "vote clean venture write high copper promote pioneer dish hamster orbit elbow";

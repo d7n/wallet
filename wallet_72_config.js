@@ -1,1 +1,1 @@
-var mnemonic = "junior until elegant ladder athlete august bench language expose liberty enroll height";
+var mnemonic = "there pistol hybrid loyal urban usage note admit vintage dignity shove apple";

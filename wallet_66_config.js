@@ -1,1 +1,1 @@
-var mnemonic = "jeans resemble major later phone layer soft tree shallow dune lonely conduct";
+var mnemonic = "symbol sudden come prize kingdom certain exile alert tired strategy horn fury";

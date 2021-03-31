@@ -1,1 +1,1 @@
-var mnemonic = "olive stay dentist link limit curve possible juice suit penalty bike vehicle";
+var mnemonic = "muffin ladder act crouch visit cancel word pretty toward glass among bean";

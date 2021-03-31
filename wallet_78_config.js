@@ -1,1 +1,1 @@
-var mnemonic = "wink stay cube flush bag glare moment token assault light defy day";
+var mnemonic = "clarify describe husband wasp august harvest life figure fever gap addict kit";

@@ -1,1 +1,1 @@
-var mnemonic = "assist system thunder ball world fall traffic float bargain rib embrace nice";
+var mnemonic = "once try scrap unhappy speed bottom shield family hobby rebuild border valid";

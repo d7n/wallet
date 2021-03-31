@@ -1,1 +1,1 @@
-var mnemonic = "vague strategy voyage pistol uncle kick require fence basic valve search whale";
+var mnemonic = "pond gate sell open castle evil film ticket spread hour shadow crunch";

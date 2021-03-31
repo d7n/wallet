@@ -1,1 +1,1 @@
-var mnemonic = "typical emotion mass general mouse away gallery near grow hello hint recycle";
+var mnemonic = "danger library pair eye midnight witness sheriff gas sibling during tattoo refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "mountain field fault subject luggage early assault balance open shock trophy demise";
+var mnemonic = "learn sunny domain rice steak hello perfect aisle way before remove assist";

@@ -1,1 +1,1 @@
-var mnemonic = "cupboard govern ticket pet frown erode pledge amused balcony horse sugar emotion";
+var mnemonic = "fit erode mask lecture three employ square frequent culture hungry number lounge";

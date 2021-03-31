@@ -1,1 +1,1 @@
-var mnemonic = "clap palace version tenant agree vehicle cute world awkward forward lamp mail";
+var mnemonic = "metal proof famous evidence jaguar object push city melody shove dose genius";

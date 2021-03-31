@@ -1,1 +1,1 @@
-var mnemonic = "test jaguar among neck junk system ethics few violin volcano tongue media";
+var mnemonic = "culture tool broom mass walnut alpha process like post sea portion type";

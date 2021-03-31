@@ -1,1 +1,1 @@
-var mnemonic = "nephew ignore lazy favorite rich huge stone outside proud truly museum awesome";
+var mnemonic = "rebuild coconut eagle voyage venue guitar battle together slow short recall bunker";

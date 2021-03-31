@@ -1,1 +1,1 @@
-var mnemonic = "elbow tag festival pigeon aware foil raw unit family duty lock together";
+var mnemonic = "nerve magic profit borrow tourist parade awful like brain glance search any";

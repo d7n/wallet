@@ -1,1 +1,1 @@
-var mnemonic = "shove knock never initial vehicle tube bid security various stomach scheme palace";
+var mnemonic = "belt riot draft bundle kiss witness used planet recipe budget marble video";

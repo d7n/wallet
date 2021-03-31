@@ -1,1 +1,1 @@
-var mnemonic = "hurdle birth electric knee strong render human mesh strike vendor gossip funny";
+var mnemonic = "couch battle weather area exhibit fall magnet sense sponsor normal nature immense";

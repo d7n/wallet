@@ -1,1 +1,1 @@
-var mnemonic = "grid fat veteran tower fame myth daughter boost wave emerge mystery hurry";
+var mnemonic = "grape device garbage response cactus session sponsor need absorb just lock stand";

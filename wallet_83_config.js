@@ -1,1 +1,1 @@
-var mnemonic = "soft exact execute bullet target slender crack repeat exile sort canal garden";
+var mnemonic = "orphan raven pipe december staff radio dad arrive quality document shove donkey";

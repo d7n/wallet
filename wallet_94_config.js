@@ -1,1 +1,1 @@
-var mnemonic = "random degree plastic unhappy common hero bounce submit teach stool science spot";
+var mnemonic = "essence reduce humble color require oven negative clump luxury river ride dizzy";

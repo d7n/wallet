@@ -1,1 +1,1 @@
-var mnemonic = "super melt easily original noise double file sustain sphere carbon retreat twist";
+var mnemonic = "metal negative april rebel judge various among able half test gain fine";

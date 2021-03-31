@@ -1,1 +1,1 @@
-var mnemonic = "lecture roast address frown spawn town banana nasty cave jelly orient depend";
+var mnemonic = "patch relax talent crash remove explain give sphere busy satisfy mandate rocket";

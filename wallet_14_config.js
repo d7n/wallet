@@ -1,1 +1,1 @@
-var mnemonic = "wish ghost metal attack void theme curve same antenna clog prize car";
+var mnemonic = "real theory subway guitar resemble aunt visa menu private dolphin isolate ostrich";

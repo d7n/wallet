@@ -1,1 +1,1 @@
-var mnemonic = "few audit tortoise core struggle fox attract image trash home slam female";
+var mnemonic = "grit balcony limb eyebrow bullet cheese pulp credit boat also decade engine";

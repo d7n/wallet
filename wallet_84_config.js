@@ -1,1 +1,1 @@
-var mnemonic = "road magnet ship resemble village private icon love obtain edit hungry dumb";
+var mnemonic = "planet sand tag six liberty track vacant excite series flock tide regular";

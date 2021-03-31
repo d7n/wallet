@@ -1,1 +1,1 @@
-var mnemonic = "because album owner stomach guilt glass wasp gentle parent floor horn despair";
+var mnemonic = "purpose damage return execute shallow detail secret give sign artwork sheriff elevator";

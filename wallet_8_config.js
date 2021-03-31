@@ -1,1 +1,1 @@
-var mnemonic = "west scrap scorpion crop december ecology sword duck able novel series erase";
+var mnemonic = "kiwi rigid limit sugar muffin live piano inside game nasty kingdom sibling";

@@ -1,1 +1,1 @@
-var mnemonic = "element gas unlock save snake anxiety genuine frozen motion sunny gadget moon";
+var mnemonic = "food liquid sniff mad brisk noise step pretty list shadow close clerk";

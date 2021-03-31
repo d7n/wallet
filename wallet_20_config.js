@@ -1,1 +1,1 @@
-var mnemonic = "smile engine bring fashion bonus mixed attend code live version wild gadget";
+var mnemonic = "uniform benefit clock kiss betray vendor increase game huge tail black jungle";

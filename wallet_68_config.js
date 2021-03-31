@@ -1,1 +1,1 @@
-var mnemonic = "section object exit soccer clerk credit member disorder onion bar raise harsh";
+var mnemonic = "blame coffee patch pony banana boss oppose thunder arch gesture work evoke";

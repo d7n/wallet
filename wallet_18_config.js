@@ -1,1 +1,1 @@
-var mnemonic = "tissue final taste adult process always sock material skate riot electric surge";
+var mnemonic = "salt idle benefit galaxy hire basket settle setup faculty average cliff scissors";

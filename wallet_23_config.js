@@ -1,1 +1,1 @@
-var mnemonic = "wolf meat off imitate frequent test tomorrow distance wise pond skirt upon";
+var mnemonic = "depth pelican number eagle trumpet absent witness science staff bottom number easily";

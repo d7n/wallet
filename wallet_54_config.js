@@ -1,1 +1,1 @@
-var mnemonic = "layer have deer noble essence chaos good spike abuse slight crush pilot";
+var mnemonic = "opinion decrease flee camera roof square neck pill neither reward affair urge";

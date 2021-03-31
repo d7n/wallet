@@ -1,1 +1,1 @@
-var mnemonic = "pudding glue dwarf liberty click train endless rather false hollow own chief";
+var mnemonic = "click office simple fabric immune olympic century quote piece amateur boss blue";

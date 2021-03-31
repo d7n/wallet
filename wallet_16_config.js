@@ -1,1 +1,1 @@
-var mnemonic = "innocent hello border embark guide used call human wear gallery twelve kick";
+var mnemonic = "melt hen film glow pulse cream charge thank tent guide analyst logic";

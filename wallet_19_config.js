@@ -1,1 +1,1 @@
-var mnemonic = "song silk gentle ripple attend end awesome couple chicken kit time card";
+var mnemonic = "truth employ between abstract place crush borrow describe common wrap shadow spice";

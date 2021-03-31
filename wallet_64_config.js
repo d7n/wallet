@@ -1,1 +1,1 @@
-var mnemonic = "owner rain quality flag narrow clap come neglect arctic repair skirt mimic";
+var mnemonic = "citizen benefit echo system poem ranch during animal soda season hood crew";

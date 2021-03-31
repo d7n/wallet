@@ -1,1 +1,1 @@
-var mnemonic = "unknown desert during sudden message lamp grow viable engine borrow risk hybrid";
+var mnemonic = "alcohol chimney vital outer cook midnight winter ignore suspect embrace liquid eight";

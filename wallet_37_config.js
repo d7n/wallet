@@ -1,1 +1,1 @@
-var mnemonic = "abuse museum drink strategy add mass swallow boy flag special clown job";
+var mnemonic = "void input glide believe hero put provide either eyebrow degree better permit";

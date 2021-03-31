@@ -1,1 +1,1 @@
-var mnemonic = "level hybrid sing wisdom put orbit attack hope when sketch option churn";
+var mnemonic = "home dirt focus photo feed insane off shop magic hurt coconut alarm";

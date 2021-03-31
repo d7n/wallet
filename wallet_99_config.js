@@ -1,1 +1,1 @@
-var mnemonic = "shy weird apple agent slush young sell cream cherry senior badge spoil";
+var mnemonic = "taxi deposit plunge match cross end voice notable sunset crush sign cook";

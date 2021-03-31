@@ -1,1 +1,1 @@
-var mnemonic = "apple cool issue tomorrow truly diesel remove element afraid gym crumble border";
+var mnemonic = "winter slight response sudden vicious frozen movie farm brother tuition parrot sauce";

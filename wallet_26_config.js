@@ -1,1 +1,1 @@
-var mnemonic = "stable illegal palace toddler bind place trust amazing magic exile fatal top";
+var mnemonic = "exact tobacco feel door silk analyst into chunk arrive army merry traffic";

@@ -1,1 +1,1 @@
-var mnemonic = "weapon run kiss holiday during join banana sort half spirit equip behind";
+var mnemonic = "ankle hundred bird shell ready six close science anxiety loan woman fold";

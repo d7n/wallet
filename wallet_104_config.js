@@ -1,1 +1,1 @@
-var mnemonic = "grass wrist rich doll canoe rhythm mammal admit always female tone trip";
+var mnemonic = "science wide jelly smooth film belt know water sun antenna this unhappy";

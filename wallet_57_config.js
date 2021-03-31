@@ -1,1 +1,1 @@
-var mnemonic = "silk engine fall wedding possible urge mention frame sunny airport journey increase";
+var mnemonic = "aunt laugh hotel horse dignity fork jar faculty ill blame credit dismiss";
