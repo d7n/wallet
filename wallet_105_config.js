@@ -1,1 +1,1 @@
-var mnemonic = "crop final surround hair struggle leader aware viable insane monkey misery list";
+var mnemonic = "cluster country pen leisure curtain between target ankle stumble license interest joke";

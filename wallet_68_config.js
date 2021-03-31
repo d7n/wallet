@@ -1,1 +1,1 @@
-var mnemonic = "hat element dinosaur next ill depth wing dynamic mesh use point habit";
+var mnemonic = "action between type math win assault insect tourist shed icon grief fence";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance minor race neutral voyage obvious goddess clay balance rifle evil middle";
+var mnemonic = "addict advance shine bless wheel error faculty render maid report oven prevent";

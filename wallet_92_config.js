@@ -1,1 +1,1 @@
-var mnemonic = "scrub enjoy fall shoot draft option dignity apart robot cargo meadow piano";
+var mnemonic = "grab vehicle pitch family play throw address rotate index father involve verb";

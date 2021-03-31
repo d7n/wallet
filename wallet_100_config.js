@@ -1,1 +1,1 @@
-var mnemonic = "odor coyote spell share stove arrest spirit cycle tissue patient senior result";
+var mnemonic = "outer step lab retire lock nose way pluck uncover common room inhale";

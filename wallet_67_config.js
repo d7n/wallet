@@ -1,1 +1,1 @@
-var mnemonic = "fancy sell zebra slight velvet diamond decline divide become destroy tonight badge";
+var mnemonic = "connect cancel vessel grit catalog solution tragic reopen gate armed october deal";

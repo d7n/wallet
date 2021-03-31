@@ -1,1 +1,1 @@
-var mnemonic = "speak elephant salon embrace lab enact cluster feature country recycle swarm fortune";
+var mnemonic = "eagle nothing tennis blossom pledge share senior brick awkward bless crime camera";

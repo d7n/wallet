@@ -1,1 +1,1 @@
-var mnemonic = "good screen ill embark unable consider jealous perfect when imitate mystery odor";
+var mnemonic = "almost cabin head rich soccer icon unit kiss level fruit ranch swift";

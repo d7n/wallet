@@ -1,1 +1,1 @@
-var mnemonic = "affair sausage shrimp betray bar group devote nuclear vanish envelope please sweet";
+var mnemonic = "horn virus spoon focus stuff obvious vehicle glare orphan purpose gesture sea";

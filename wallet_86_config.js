@@ -1,1 +1,1 @@
-var mnemonic = "frog tray dose lake scrap hospital excess rocket fall divide today across";
+var mnemonic = "yellow vocal fiction bench fatigue gold able globe blame sister rapid act";

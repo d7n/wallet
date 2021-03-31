@@ -1,1 +1,1 @@
-var mnemonic = "suit stereo body inspire mad bring bullet mother steak almost legend special";
+var mnemonic = "cruise guilt clever catalog sponsor merge anchor aim maid match child fog";

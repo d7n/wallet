@@ -1,1 +1,1 @@
-var mnemonic = "victory stuff solve lizard kind stumble usage gospel grunt vehicle primary effort";
+var mnemonic = "gloom poet orbit list save sudden tray around cook build intact vessel";

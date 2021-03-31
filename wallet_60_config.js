@@ -1,1 +1,1 @@
-var mnemonic = "eager clip december summer hole gather cattle dose someone parent waste win";
+var mnemonic = "grit reduce remove between wire reason receive behind puppy boil name nothing";

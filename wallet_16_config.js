@@ -1,1 +1,1 @@
-var mnemonic = "sweet absurd mercy require glimpse arctic praise save shift usage game elite";
+var mnemonic = "conduct example melody school again great day race all jar balance gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "situate crawl culture math earth horse claim hedgehog local agent make renew";
+var mnemonic = "vanish north agree lemon valve mesh dwarf mention velvet road act render";

@@ -1,1 +1,1 @@
-var mnemonic = "guess alone weapon change liquid chapter thunder weather insane avoid round foam";
+var mnemonic = "stove hunt transfer awful team dune gossip hazard dismiss wide anchor adjust";

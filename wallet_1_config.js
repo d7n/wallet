@@ -1,1 +1,1 @@
-var mnemonic = "night chat vault hungry subject negative antique evolve skate inner pudding square";
+var mnemonic = "episode pink able exchange impact island foam ketchup walnut peanut certain tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "donor because galaxy enough suit parrot circle wide outdoor parent hidden safe";
+var mnemonic = "phone segment empty behind garbage answer ecology message fetch basic budget eye";

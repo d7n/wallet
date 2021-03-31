@@ -1,1 +1,1 @@
-var mnemonic = "author shrug entire fancy cabin frown list stereo tennis like nominee tiger";
+var mnemonic = "timber cause tomato thunder void rapid uncle seek purchase annual obscure deputy";

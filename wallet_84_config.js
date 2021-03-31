@@ -1,1 +1,1 @@
-var mnemonic = "stick split mass uncle rebuild broken baby guard grief between spoon entire";
+var mnemonic = "derive clip safe addict library tongue sunset safe prize antique sting atom";

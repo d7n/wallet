@@ -1,1 +1,1 @@
-var mnemonic = "term opera switch close draw rotate clock border region stone venture rug";
+var mnemonic = "helmet extra drum carry tongue verify other evoke scene bone rocket harbor";

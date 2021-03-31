@@ -1,1 +1,1 @@
-var mnemonic = "bottom genre learn barely shoe please barely toy make high video suit";
+var mnemonic = "idle use bunker time army biology symptom intact beach search silk minimum";

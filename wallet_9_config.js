@@ -1,1 +1,1 @@
-var mnemonic = "price candy leisure staff snake copper mad marble mix hammer warrior inquiry";
+var mnemonic = "trophy high drastic notice town pass hawk oval pink install federal buddy";

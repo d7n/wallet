@@ -1,1 +1,1 @@
-var mnemonic = "legal spray leader away gap fault gorilla diary midnight aim feature mosquito";
+var mnemonic = "wrist water stomach tattoo depth maximum second stage clump keen gesture simple";

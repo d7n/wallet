@@ -1,1 +1,1 @@
-var mnemonic = "blossom front stem era mirror law march shield practice scorpion glue uphold";
+var mnemonic = "hard first define grit east spirit soda harbor sadness route emotion muscle";

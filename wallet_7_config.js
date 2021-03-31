@@ -1,1 +1,1 @@
-var mnemonic = "jewel wrong quit capable relax climb company shaft people dwarf resist grace";
+var mnemonic = "slot airport silent mad simple virtual before park comfort improve jelly come";

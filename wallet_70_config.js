@@ -1,1 +1,1 @@
-var mnemonic = "update dismiss wrestle maple rich open episode balance walk stove mind employ";
+var mnemonic = "favorite remind coconut mountain cloth response cup coin bleak chicken pistol hold";

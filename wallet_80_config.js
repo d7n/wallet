@@ -1,1 +1,1 @@
-var mnemonic = "elbow shy spike urban shift actor unusual sight pass include film index";
+var mnemonic = "random federal choose predict wear race that hospital basic return shrimp often";

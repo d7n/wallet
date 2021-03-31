@@ -1,1 +1,1 @@
-var mnemonic = "cheap rebel field execute couple cave garage desk hold sketch mix problem";
+var mnemonic = "jewel weasel method depth share absent leaf clip better head refuse transfer";

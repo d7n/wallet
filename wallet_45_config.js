@@ -1,1 +1,1 @@
-var mnemonic = "recycle inherit crucial endorse ranch round blanket fit force hammer skate universe";
+var mnemonic = "leopard lake risk cabin cake girl tell biology law machine cross metal";

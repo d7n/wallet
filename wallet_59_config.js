@@ -1,1 +1,1 @@
-var mnemonic = "rain essence disagree hamster stereo bleak casino program excess rose opinion behave";
+var mnemonic = "popular elegant govern valley life parade annual wife unaware pilot always toilet";

@@ -1,1 +1,1 @@
-var mnemonic = "version swallow loyal almost raw situate link raccoon pear dumb hybrid alley";
+var mnemonic = "half season filter hollow owner face inmate identify custom piece slice lion";

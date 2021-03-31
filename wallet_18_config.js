@@ -1,1 +1,1 @@
-var mnemonic = "shrimp cloth faint across mom pledge barely canvas govern payment make wheel";
+var mnemonic = "need series trouble pool member shop paddle funny cargo novel mango junk";

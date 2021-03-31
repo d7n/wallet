@@ -1,1 +1,1 @@
-var mnemonic = "frost that burden congress meadow cave service valve burden salad soda scale";
+var mnemonic = "pitch you joy increase prison fog uniform surface one mushroom relax involve";

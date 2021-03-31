@@ -1,1 +1,1 @@
-var mnemonic = "milk venture blouse gold protect length crush case liberty cement eyebrow face";
+var mnemonic = "desk lottery bike pact pill refuse endorse forest decrease bullet infant hire";

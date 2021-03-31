@@ -1,1 +1,1 @@
-var mnemonic = "scrap tail library abandon army spoon brisk wood skirt awful yellow grain";
+var mnemonic = "target cake skirt water ancient race sight suggest become join sleep arrive";

@@ -1,1 +1,1 @@
-var mnemonic = "ice devote ostrich mule camp weapon veteran kiss trust liar useful remember";
+var mnemonic = "venture only wasp muscle garment aspect brave stage fall novel bag long";

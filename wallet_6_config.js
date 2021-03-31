@@ -1,1 +1,1 @@
-var mnemonic = "satisfy hockey sketch loud supreme fetch reduce excess blossom copper debris auto";
+var mnemonic = "theory gauge lake coin stereo just category uphold december grid roof vague";

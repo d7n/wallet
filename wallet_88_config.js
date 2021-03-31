@@ -1,1 +1,1 @@
-var mnemonic = "guess omit course guitar amount winner talent upper text bring adult cactus";
+var mnemonic = "kingdom tragic energy unhappy salad cricket brass need traffic violin soccer claw";

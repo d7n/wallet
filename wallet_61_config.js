@@ -1,1 +1,1 @@
-var mnemonic = "shoulder pepper patch entire mango ostrich segment sun afraid open hundred mask";
+var mnemonic = "input tell squirrel horror army stereo wink crash volume actress inmate tape";

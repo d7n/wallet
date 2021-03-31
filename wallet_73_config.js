@@ -1,1 +1,1 @@
-var mnemonic = "cushion brother april young endless strategy solve nurse february indoor cactus add";
+var mnemonic = "rescue enlist whisper dice lion else scout better primary beach crane rose";

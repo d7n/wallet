@@ -1,1 +1,1 @@
-var mnemonic = "illegal until ankle mutual velvet journey above capital afraid pave boring deal";
+var mnemonic = "pigeon attend grief kite used pass casual donate maple doctor describe invest";

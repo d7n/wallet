@@ -1,1 +1,1 @@
-var mnemonic = "multiply allow dash tent divorce decline cheap mystery doctor field pulse flight";
+var mnemonic = "exchange picnic junior pledge agent skate high bind fox core cable speak";

@@ -1,1 +1,1 @@
-var mnemonic = "tribe ankle toward purse novel oak session two steel toilet put apart";
+var mnemonic = "fitness dwarf little doll near bulb february saddle raccoon negative cinnamon boring";

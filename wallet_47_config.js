@@ -1,1 +1,1 @@
-var mnemonic = "caught clog buffalo junior tag soft practice need keen answer mind yellow";
+var mnemonic = "purity word problem salmon spring solid cactus strategy rail kingdom pulp install";

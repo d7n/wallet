@@ -1,1 +1,1 @@
-var mnemonic = "slush say uncover rough good exit surge update woman multiply creek spell";
+var mnemonic = "gather funny lamp document gym owner seek cabin flavor bundle lazy ring";

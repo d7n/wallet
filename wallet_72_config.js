@@ -1,1 +1,1 @@
-var mnemonic = "seven door gallery also praise recycle cloth arrest enjoy faint country sight";
+var mnemonic = "sniff this bind develop prefer floor fox sword void rally rebuild treat";

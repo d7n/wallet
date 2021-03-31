@@ -1,1 +1,1 @@
-var mnemonic = "kidney chaos tomato extend very able amused off joke soul milk patch";
+var mnemonic = "old bulb outside divide chapter promote beyond inherit fall moment tobacco caution";

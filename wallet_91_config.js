@@ -1,1 +1,1 @@
-var mnemonic = "shrug peanut odor leg raw foil sock peanut chuckle orphan ghost nephew";
+var mnemonic = "inherit slice leisure dynamic payment maid juice exact bracket coast grit umbrella";

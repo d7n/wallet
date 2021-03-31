@@ -1,1 +1,1 @@
-var mnemonic = "mixed stay ostrich delay craft unfold hip sweet round valley coral myself";
+var mnemonic = "accuse rocket peasant anger fly quick plate trophy army innocent lady elephant";

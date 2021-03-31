@@ -1,1 +1,1 @@
-var mnemonic = "cable bulb rather upper math rug wrap tackle disease laundry media cement";
+var mnemonic = "gold material beef true fit vacant negative sand thought example weasel wolf";

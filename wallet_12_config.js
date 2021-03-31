@@ -1,1 +1,1 @@
-var mnemonic = "virus drastic feel width turkey suggest order stick angry version piano broom";
+var mnemonic = "elite all skin sand build wealth kiss power farm evil forum machine";

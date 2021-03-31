@@ -1,1 +1,1 @@
-var mnemonic = "able student social screen clay lunch reveal vehicle evil order guard wish";
+var mnemonic = "rare floor prosper cluster siege bless usage ball radio balance critic answer";

@@ -1,1 +1,1 @@
-var mnemonic = "orchard vivid federal omit void energy video state crop pink test impose";
+var mnemonic = "spring demand need list skin diamond movie entry crash budget tattoo autumn";

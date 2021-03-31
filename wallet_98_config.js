@@ -1,1 +1,1 @@
-var mnemonic = "episode estate produce toddler joy caution resource jealous exit employ print ability";
+var mnemonic = "essence attack chat affair siege budget swamp imitate merit table salad sweet";

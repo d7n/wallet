@@ -1,1 +1,1 @@
-var mnemonic = "steel kidney grief hunt ginger joke design year foam brisk aerobic emotion";
+var mnemonic = "degree notable acquire crush moral practice scrap settle history brisk metal pole";

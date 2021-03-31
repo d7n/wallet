@@ -1,1 +1,1 @@
-var mnemonic = "make space rent chapter taste bid spring oyster obvious anger critic matter";
+var mnemonic = "airport cluster leopard virus neutral loyal use crack people track august wet";

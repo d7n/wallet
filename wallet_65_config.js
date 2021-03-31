@@ -1,1 +1,1 @@
-var mnemonic = "myth embody fatigue search pipe nut pig ride family clip evoke bring";
+var mnemonic = "pause enough census seat uncle catalog damage wisdom lucky notice lend wine";

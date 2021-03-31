@@ -1,1 +1,1 @@
-var mnemonic = "salt fortune alcohol rail list tattoo bless pizza economy valve rural van";
+var mnemonic = "depend green fun era unlock vacant sketch embark average result vivid math";

@@ -1,1 +1,1 @@
-var mnemonic = "benefit put grit belt clever want price juice say sick salon blush";
+var mnemonic = "crystal run immune inform bicycle soon peanut hazard lonely tip exercise fossil";

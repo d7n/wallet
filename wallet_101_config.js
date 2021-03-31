@@ -1,1 +1,1 @@
-var mnemonic = "trick swift bulk raven acid often car educate diesel sight cycle high";
+var mnemonic = "legal damage blind foster clip undo uncle diet quick begin victory already";

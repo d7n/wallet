@@ -1,1 +1,1 @@
-var mnemonic = "boss oxygen glove dune verb snap jar orient share smart agent final";
+var mnemonic = "unusual dinner fashion burger picture inflict property ordinary gap regret divide clip";

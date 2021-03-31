@@ -1,1 +1,1 @@
-var mnemonic = "lawn tongue pear cost bacon current seat message measure witness armor bean";
+var mnemonic = "scene ancient attract boring wealth remain liar craft ritual chronic lecture uphold";

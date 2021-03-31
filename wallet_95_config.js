@@ -1,1 +1,1 @@
-var mnemonic = "tortoise asthma service wrong stairs garlic sheriff vital acoustic taxi reduce panic";
+var mnemonic = "hollow key company review impulse mass outside breeze skull motion police ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "sight void atom struggle portion hold brass game ghost weather gown safe";
+var mnemonic = "danger chase eternal finger ill library rebuild catch board cup hair switch";

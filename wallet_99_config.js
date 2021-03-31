@@ -1,1 +1,1 @@
-var mnemonic = "jealous multiply pencil state embody update snack very mosquito canoe enlist side";
+var mnemonic = "joke pill brain gadget gold busy reduce cram game wet space solar";

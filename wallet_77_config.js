@@ -1,1 +1,1 @@
-var mnemonic = "change brisk open quiz keen often supply escape traffic run dove response";
+var mnemonic = "west cushion intact youth bid amount shift gold similar cactus amateur proof";

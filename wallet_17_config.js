@@ -1,1 +1,1 @@
-var mnemonic = "shoot else reward drastic height book equal fault draft outdoor dawn essay";
+var mnemonic = "wear trust dawn comfort inquiry orient viable ten uphold pair exclude chimney";

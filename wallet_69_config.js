@@ -1,1 +1,1 @@
-var mnemonic = "main pyramid cube gorilla coast olive correct castle pony reflect elder follow";
+var mnemonic = "box type print unlock satisfy mystery wine siren motion piece easy quiz";

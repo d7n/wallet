@@ -1,1 +1,1 @@
-var mnemonic = "piano rally tragic profit where vicious shiver main provide ice invest voice";
+var mnemonic = "rebel surface banana broom dust sausage middle tide raccoon state salon project";

@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog govern novel unable flat rescue enter fury right custom hello entry";
+var mnemonic = "nature near use diesel agent worry combine omit image excess among scheme";

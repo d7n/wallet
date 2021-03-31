@@ -1,1 +1,1 @@
-var mnemonic = "flag control strike glare you battle arrange old luxury task faith frog";
+var mnemonic = "boat ensure mouse stone regret bitter crowd eager fine love example runway";

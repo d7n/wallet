@@ -1,1 +1,1 @@
-var mnemonic = "neutral dad isolate outdoor fame wing collect youth recipe faith industry divorce";
+var mnemonic = "joy pigeon scale once voyage garlic clarify civil stereo discover hill wink";

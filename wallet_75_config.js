@@ -1,1 +1,1 @@
-var mnemonic = "fever exclude person heavy host shrug bean alter electric state chair churn";
+var mnemonic = "genius analyst praise minute copper nasty home what unique antenna veteran pet";

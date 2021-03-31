@@ -1,1 +1,1 @@
-var mnemonic = "neutral ocean scout lake avoid noble portion prize protect sniff bread clown";
+var mnemonic = "chef meat interest clutch wine result brief proof right drama library fantasy";

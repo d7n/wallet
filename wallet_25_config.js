@@ -1,1 +1,1 @@
-var mnemonic = "olympic tower okay again pass abuse season buddy matter expose birth party";
+var mnemonic = "bread ripple swarm option rural maid harbor scrap display flight color repair";

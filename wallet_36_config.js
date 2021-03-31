@@ -1,1 +1,1 @@
-var mnemonic = "slender cycle ordinary width forward glare play elevator quick century raise rough";
+var mnemonic = "away require stadium river powder token crystal move door hire similar motor";

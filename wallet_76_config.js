@@ -1,1 +1,1 @@
-var mnemonic = "ask valve body century wreck park transfer come throw begin boil zebra";
+var mnemonic = "impact ahead advance solar rose orient love blind agent basket noble feed";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal embody concert another online treat orient mention hover process random swarm";
+var mnemonic = "pottery pond observe rally scare virus flock check skate erosion pond hammer";

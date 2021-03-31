@@ -1,1 +1,1 @@
-var mnemonic = "shield penalty enlist warrior wolf trick nature best text bomb burden tattoo";
+var mnemonic = "vehicle slender route near concert travel almost gather east dawn jacket melody";

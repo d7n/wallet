@@ -1,1 +1,1 @@
-var mnemonic = "town drill smile record animal captain peasant under brave amateur skill magnet";
+var mnemonic = "guide push erode prosper skull dynamic legend more client banner real butter";

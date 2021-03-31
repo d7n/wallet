@@ -1,1 +1,1 @@
-var mnemonic = "opera flush where wild tornado mixture sock race boat voice defense boost";
+var mnemonic = "surge lift spell affair play cruise enrich burger ill jaguar wasp army";

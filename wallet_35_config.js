@@ -1,1 +1,1 @@
-var mnemonic = "few civil buddy logic tribe ladder talk nurse winter stomach volcano dynamic";
+var mnemonic = "eyebrow shoulder improve pumpkin hockey tone thought unusual property gospel gesture flash";

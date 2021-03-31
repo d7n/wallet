@@ -1,1 +1,1 @@
-var mnemonic = "upon wheat super win lumber cliff length suspect surge domain chief unknown";
+var mnemonic = "young battle divert minimum glass ugly soon disorder clinic balcony fish salad";

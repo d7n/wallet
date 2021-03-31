@@ -1,1 +1,1 @@
-var mnemonic = "rule brain weather stumble cotton choice gold clay run forest culture match";
+var mnemonic = "raven negative wonder hurry curve broccoli noble autumn wonder shove about episode";

@@ -1,1 +1,1 @@
-var mnemonic = "coin survey soap frog clerk put flee frost seat pepper bounce gather";
+var mnemonic = "word charge mask lucky remind useful decide tenant trumpet seek garbage there";

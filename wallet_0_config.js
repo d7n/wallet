@@ -1,1 +1,1 @@
-var mnemonic = "spider mass naive stumble service biology elder thank garbage absent exercise debate";
+var mnemonic = "hazard wide venue vintage moon program crane employ run hawk owner that";

@@ -1,1 +1,1 @@
-var mnemonic = "zebra daughter plunge toss useful dust permit spot group unhappy armor bright";
+var mnemonic = "aspect faint egg logic agent someone pole table kite shrimp hurry firm";

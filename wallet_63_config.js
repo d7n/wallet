@@ -1,1 +1,1 @@
-var mnemonic = "sugar vicious duty spirit laptop razor denial absent food female rotate avoid";
+var mnemonic = "real nut few pretty shift pill about shy mixture unknown hundred dove";

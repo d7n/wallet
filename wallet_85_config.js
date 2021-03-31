@@ -1,1 +1,1 @@
-var mnemonic = "modify subway differ cloth custom fall escape foot furnace connect fuel celery";
+var mnemonic = "addict tag boil dice quarter demand erode expect horse inhale gospel beef";
