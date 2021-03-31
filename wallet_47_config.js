@@ -1,1 +1,1 @@
-var mnemonic = "hair valve ripple museum style erosion grit gas save pizza model anxiety";
+var mnemonic = "tackle month flock slab fatal again dream sibling song family smile cave";

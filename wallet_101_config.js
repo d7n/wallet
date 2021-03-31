@@ -1,1 +1,1 @@
-var mnemonic = "exotic grid style drink one salad caught salad ignore announce pride install";
+var mnemonic = "wheat public draft firm creek grunt zone cruise okay utility unfold session";

@@ -1,1 +1,1 @@
-var mnemonic = "innocent decline link wheat smart retreat keen answer twelve simple swallow fit";
+var mnemonic = "flock stage mango better tower crucial critic awake aware gorilla old dumb";

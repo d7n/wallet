@@ -1,1 +1,1 @@
-var mnemonic = "school follow race enter pledge motor game squeeze annual pottery evolve raven";
+var mnemonic = "squirrel because index attack kit fix health kidney brother mean lens puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "horn favorite balcony check naive winter kick travel vibrant domain potato slogan";
+var mnemonic = "ghost globe oyster immense deny age grain betray rely soccer police illness";

@@ -1,1 +1,1 @@
-var mnemonic = "road parade warfare carry atom live jelly design swap outer shift upset";
+var mnemonic = "yellow wedding casino tennis trap number deliver hamster father wheat zero prosper";

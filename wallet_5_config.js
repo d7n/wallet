@@ -1,1 +1,1 @@
-var mnemonic = "lesson volcano curve expect park diesel cruise element parrot laugh rail pact";
+var mnemonic = "odor mule muscle rural office hope express three hammer retreat copper chat";

@@ -1,1 +1,1 @@
-var mnemonic = "eight tuna author wheel robot spend tail wage calm sunset main tuition";
+var mnemonic = "hope wrap custom jar option edit feel joy arctic company element provide";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope prefer comic phone fault better dune boss polar web option label";
+var mnemonic = "wrist select symbol eager loyal oxygen effort glue tongue police cable address";

@@ -1,1 +1,1 @@
-var mnemonic = "design tree inhale sure business nice peanut candy unlock stadium park weapon";
+var mnemonic = "caution heart goddess remain busy announce proof song rival please idle cube";

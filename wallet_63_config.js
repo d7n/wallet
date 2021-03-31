@@ -1,1 +1,1 @@
-var mnemonic = "current flag depart icon pluck reward grit budget buddy fitness alcohol fire";
+var mnemonic = "catalog clever rally fade nut obtain quantum claw liberty speed fantasy wise";

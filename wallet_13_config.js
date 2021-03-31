@@ -1,1 +1,1 @@
-var mnemonic = "female wild good solar omit since harsh call winter chase when settle";
+var mnemonic = "admit vacant fringe skirt type famous trumpet broom disorder tag exit one";

@@ -1,1 +1,1 @@
-var mnemonic = "slam swap hotel fever young fatal suspect want morning minor fire nephew";
+var mnemonic = "same wrong into muffin capable october spring culture stage cream curious pulse";

@@ -1,1 +1,1 @@
-var mnemonic = "combine require sick dignity dial double flash resemble multiply baby cricket drastic";
+var mnemonic = "glow dawn express gather park awesome sample need emotion will weather reflect";

@@ -1,1 +1,1 @@
-var mnemonic = "noise enable ceiling please rally doll buzz trend symptom armed puzzle play";
+var mnemonic = "mimic output switch sting zero ticket federal sample before angle bone flush";

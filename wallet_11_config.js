@@ -1,1 +1,1 @@
-var mnemonic = "trap image tooth actor amazing eight fiction foot catch occur profit unfair";
+var mnemonic = "afford cup certain gym crew theme vault original two earth ensure wild";

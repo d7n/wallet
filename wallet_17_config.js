@@ -1,1 +1,1 @@
-var mnemonic = "often title pass barrel tomato hand escape dinner cash hope garden resemble";
+var mnemonic = "expose law ancient swamp manual elephant paddle ship usual aim scissors they";

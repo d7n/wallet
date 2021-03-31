@@ -1,1 +1,1 @@
-var mnemonic = "ecology market imitate biology sleep great waste dilemma escape medal devote sail";
+var mnemonic = "knife print relief elegant increase west boat despair dinner beef dance accident";

@@ -1,1 +1,1 @@
-var mnemonic = "fee twelve snack warm save relax anger hen elbow bullet direct riot";
+var mnemonic = "gain disorder nephew nation brush decline online caution airport nation rural shop";

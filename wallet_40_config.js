@@ -1,1 +1,1 @@
-var mnemonic = "mutual bag cloth convince ticket whale hub nasty school traffic awesome learn";
+var mnemonic = "major twice theory bench fence kingdom nuclear friend crouch excuse taxi slab";

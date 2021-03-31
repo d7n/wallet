@@ -1,1 +1,1 @@
-var mnemonic = "digital poverty orphan mistake tilt absorb palace need journey aware legend grape";
+var mnemonic = "fluid idea lady drum garden mobile moment roof suffer unknown digital badge";

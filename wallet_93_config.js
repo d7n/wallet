@@ -1,1 +1,1 @@
-var mnemonic = "super memory upset rare silly guitar sad divide hour solution attend brave";
+var mnemonic = "auction fetch rude judge denial adapt legal sound hedgehog woman kiwi nasty";

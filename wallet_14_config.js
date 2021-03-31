@@ -1,1 +1,1 @@
-var mnemonic = "assist gallery reform burst picture cactus frame weird pilot approve summer tunnel";
+var mnemonic = "adapt assist hockey series federal capital pudding source this awake gate survey";

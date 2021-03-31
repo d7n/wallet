@@ -1,1 +1,1 @@
-var mnemonic = "stem soldier total latin puzzle chase long jealous language have can finish";
+var mnemonic = "hard glide giant sting twice ripple ship process habit urban shoot junior";

@@ -1,1 +1,1 @@
-var mnemonic = "identify confirm outside layer antenna prize arena whale ecology usage mix rib";
+var mnemonic = "note caught cover patch quit daughter reopen timber crunch panic shell follow";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan blanket favorite crumble hip into bind aspect various captain tomato tuna";
+var mnemonic = "zero mistake enjoy retire lamp tooth mean force advice silk offer nephew";

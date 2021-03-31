@@ -1,1 +1,1 @@
-var mnemonic = "below grace weird recycle era left fashion gate social scare void when";
+var mnemonic = "dentist visa tray ripple replace feature cargo news wasp side boy very";

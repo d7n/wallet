@@ -1,1 +1,1 @@
-var mnemonic = "alarm midnight legend blame island modify identify spot more brand ride piece";
+var mnemonic = "ankle story iron toss planet risk crush absent very creek zebra urge";

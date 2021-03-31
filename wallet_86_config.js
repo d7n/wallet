@@ -1,1 +1,1 @@
-var mnemonic = "traffic zone target thrive gesture horn roast feature uphold excess fiction escape";
+var mnemonic = "any weekend toward few stool color tissue mountain chronic travel panel baby";

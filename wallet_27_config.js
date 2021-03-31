@@ -1,1 +1,1 @@
-var mnemonic = "pistol ensure arrow toy layer shuffle innocent wing helmet spin match castle";
+var mnemonic = "solid spoil act slogan off faint satoshi balcony soccer net dial rice";

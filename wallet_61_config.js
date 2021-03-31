@@ -1,1 +1,1 @@
-var mnemonic = "business column number connect sweet basic brick frog broken owner frog thing";
+var mnemonic = "exact air degree lobster state tennis client moral assume mystery dune top";

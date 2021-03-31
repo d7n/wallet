@@ -1,1 +1,1 @@
-var mnemonic = "grow pole ivory feed suffer silver tide taste sphere screen cancel grief";
+var mnemonic = "real odor six acoustic supreme never sister apology cart section into knife";

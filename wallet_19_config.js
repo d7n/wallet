@@ -1,1 +1,1 @@
-var mnemonic = "waste wasp gown tip impose token edge blouse make own put diesel";
+var mnemonic = "occur pole duty breeze sunset what worth aerobic flavor gather nice crash";

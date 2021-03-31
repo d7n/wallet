@@ -1,1 +1,1 @@
-var mnemonic = "bacon code edge plastic grit engine salt mouse gaze you tornado recipe";
+var mnemonic = "wasp canyon sure order fever chaos foam comic light pair course story";

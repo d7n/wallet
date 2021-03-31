@@ -1,1 +1,1 @@
-var mnemonic = "toilet there benefit elephant coyote jungle cinnamon paper radio more lemon melody";
+var mnemonic = "gospel organ clock venture industry gesture pudding lyrics swift jacket maze stable";

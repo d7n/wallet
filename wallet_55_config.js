@@ -1,1 +1,1 @@
-var mnemonic = "legal spray purpose flame over chimney move glove knife symbol aisle cheese";
+var mnemonic = "prosper sell oyster draft large noise symbol modify laundry chat relief deal";

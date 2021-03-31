@@ -1,1 +1,1 @@
-var mnemonic = "sock service reward hint grant hybrid belt near visual jungle vault conduct";
+var mnemonic = "evidence ripple stove labor solid brand awful fatal theory prize bean sun";

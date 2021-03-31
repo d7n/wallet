@@ -1,1 +1,1 @@
-var mnemonic = "urge scene actor harvest response double latin verb permit flight thunder dish";
+var mnemonic = "trigger fuel pelican trumpet oxygen burden nuclear soon kingdom tube arrange remind";

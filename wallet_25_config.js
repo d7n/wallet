@@ -1,1 +1,1 @@
-var mnemonic = "host crowd motor session riot debate join light robust front divide wisdom";
+var mnemonic = "absorb empower diamond expect fine hire steak misery digital message because portion";

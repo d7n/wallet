@@ -1,1 +1,1 @@
-var mnemonic = "ordinary certain mistake myth limit picnic topple worry impose equip unfair human";
+var mnemonic = "unaware tennis favorite convince decide apple measure blast tired disorder feature unfold";

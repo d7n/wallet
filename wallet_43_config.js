@@ -1,1 +1,1 @@
-var mnemonic = "disease armed solution attend minute warm favorite involve repair only print arm";
+var mnemonic = "axis endless calm maple garbage gift pelican certain round invite boy lounge";

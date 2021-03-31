@@ -1,1 +1,1 @@
-var mnemonic = "shed coach much two odor hobby surround cube diesel legend alien palm";
+var mnemonic = "emotion resource clerk expose kingdom edit index under cruel beach quality camp";

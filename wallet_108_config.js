@@ -1,1 +1,1 @@
-var mnemonic = "cart math skill ritual coyote harsh guess bronze smart domain federal enforce";
+var mnemonic = "sunny verb tonight wire town chapter upset calm gift south skill romance";

@@ -1,1 +1,1 @@
-var mnemonic = "learn list mother wrong universe upon boring grief abandon save stage neutral";
+var mnemonic = "guilt wait vacant enemy twin mind oval offer junior resist scorpion crucial";

@@ -1,1 +1,1 @@
-var mnemonic = "august celery sense dry destroy refuse silver spoon chest common grain together";
+var mnemonic = "butter crew access raven profit common design intact sniff illegal orange cabbage";

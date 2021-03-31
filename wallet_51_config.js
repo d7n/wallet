@@ -1,1 +1,1 @@
-var mnemonic = "able indicate cluster warfare humble dinner finish huge find strike jar afraid";
+var mnemonic = "cute august beyond canyon leg mountain coconut affair mule trial brass weekend";

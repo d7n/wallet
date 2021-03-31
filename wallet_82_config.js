@@ -1,1 +1,1 @@
-var mnemonic = "fiscal moon pig sniff rough myth fly fork peace reveal clump still";
+var mnemonic = "runway edge today exhibit bottom chat lift grow air taxi bridge work";

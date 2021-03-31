@@ -1,1 +1,1 @@
-var mnemonic = "gasp tell refuse math zone suffer grace orbit allow kiwi village faint";
+var mnemonic = "dawn fit glare master vast extra thumb coral rabbit hope among smoke";

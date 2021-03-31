@@ -1,1 +1,1 @@
-var mnemonic = "winner buyer valid tourist three discover tilt squirrel again eight labor hidden";
+var mnemonic = "north window soul grit beyond jar sense soft panda sure pair satoshi";

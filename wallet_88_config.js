@@ -1,1 +1,1 @@
-var mnemonic = "special upset ugly bird biology vintage smile arrest fiber tired seek used";
+var mnemonic = "response brand emotion acquire cup prison despair kidney lesson stereo patch museum";

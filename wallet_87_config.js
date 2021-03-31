@@ -1,1 +1,1 @@
-var mnemonic = "castle obey tragic parent lecture close focus pulp extra action invite blue";
+var mnemonic = "bundle notice amused task issue acid estate bunker unknown cost grid round";

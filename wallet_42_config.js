@@ -1,1 +1,1 @@
-var mnemonic = "embrace immense slush dove puzzle slow quarter mechanic casual blur cradle host";
+var mnemonic = "book behave maid sword enrich bench kingdom wealth strike route involve mutual";

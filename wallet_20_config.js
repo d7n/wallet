@@ -1,1 +1,1 @@
-var mnemonic = "ticket cliff shallow frown enhance process mention arrive pulse obvious coin require";
+var mnemonic = "glue coin file aspect busy miss purse shove rocket river october they";

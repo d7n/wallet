@@ -1,1 +1,1 @@
-var mnemonic = "pattern above chase exact absorb photo wrong social rally demand moral spell";
+var mnemonic = "decorate crime boss chronic often often corn laundry moral vessel soup cargo";

@@ -1,1 +1,1 @@
-var mnemonic = "talk indoor leave average version infant wild elevator creek hurt unique pond";
+var mnemonic = "orbit dream ocean eager awful fat wire copper rare furnace unknown spawn";

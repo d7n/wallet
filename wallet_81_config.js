@@ -1,1 +1,1 @@
-var mnemonic = "sight erase detail three shuffle ready country funny profit quit pull praise";
+var mnemonic = "evidence fence entire display kidney toward rocket inject hub hill laugh swarm";

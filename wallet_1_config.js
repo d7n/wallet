@@ -1,1 +1,1 @@
-var mnemonic = "surround pair setup burger chase fresh buyer virtual rare mammal brother trash";
+var mnemonic = "explain thing road heavy tape crime you chimney ozone squirrel few hope";

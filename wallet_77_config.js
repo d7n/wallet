@@ -1,1 +1,1 @@
-var mnemonic = "plastic memory exercise hungry village state dream knife achieve truth neglect slight";
+var mnemonic = "sibling retreat rude mask monitor since right rack midnight this property ready";

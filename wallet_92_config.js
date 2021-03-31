@@ -1,1 +1,1 @@
-var mnemonic = "before victory naive pool pencil mercy throw together matter embody grief ill";
+var mnemonic = "ahead fantasy romance certain autumn siren enrich notice prize sick bus midnight";

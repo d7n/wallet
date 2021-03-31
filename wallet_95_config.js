@@ -1,1 +1,1 @@
-var mnemonic = "regular boat dolphin genius alter practice palm rocket lend patch pact dash";
+var mnemonic = "squirrel shy enrich speak dentist vacuum brisk economy oak coyote forward chair";

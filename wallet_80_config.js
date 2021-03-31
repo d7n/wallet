@@ -1,1 +1,1 @@
-var mnemonic = "mushroom scatter try lake reveal orange trust recall stem ghost improve ask";
+var mnemonic = "volume client crawl column furnace increase rookie cactus flag radar bamboo furnace";

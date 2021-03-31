@@ -1,1 +1,1 @@
-var mnemonic = "disease prison rival mass wealth quick drama invest able castle whale mention";
+var mnemonic = "calm search spirit liar decorate display asthma school board cloud wood powder";

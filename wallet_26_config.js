@@ -1,1 +1,1 @@
-var mnemonic = "elegant kitchen depart buddy poet foster muffin option wish walnut country disorder";
+var mnemonic = "flash mistake keen donkey thing super wheat say work mandate food sniff";

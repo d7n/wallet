@@ -1,1 +1,1 @@
-var mnemonic = "pigeon topic very dove safe arrow update miracle blouse utility warfare develop";
+var mnemonic = "empower around shove powder wire shoot deny velvet beach crew illness inside";

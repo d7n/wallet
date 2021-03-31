@@ -1,1 +1,1 @@
-var mnemonic = "cycle glad emerge game museum mule page maximum brain gasp write solid";
+var mnemonic = "alcohol replace distance inherit swap orphan donor always rib green misery goat";

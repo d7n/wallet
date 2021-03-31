@@ -1,1 +1,1 @@
-var mnemonic = "inject proud spend shrimp merit also vicious sister exercise unhappy spare father";
+var mnemonic = "evolve culture master material fatigue tiny wash decide struggle gravity exit egg";

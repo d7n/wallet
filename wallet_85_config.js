@@ -1,1 +1,1 @@
-var mnemonic = "hockey dignity whip foam carry accident whale shift melody material goddess will";
+var mnemonic = "west thumb actual miracle kid sauce tool step hover chapter cinnamon punch";

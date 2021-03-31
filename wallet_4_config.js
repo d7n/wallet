@@ -1,1 +1,1 @@
-var mnemonic = "group all sadness voyage resemble spring inquiry include upgrade episode have tag";
+var mnemonic = "lecture black fire plunge write expose scan account dial possible title spy";

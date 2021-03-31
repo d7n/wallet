@@ -1,1 +1,1 @@
-var mnemonic = "open town favorite rule tip snap crew sail believe dilemma virus digital";
+var mnemonic = "remove concert actress drastic master short forest grape either index unhappy noodle";

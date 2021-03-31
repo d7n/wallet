@@ -1,1 +1,1 @@
-var mnemonic = "bamboo sport tent cry agree next will kind risk icon salute agree";
+var mnemonic = "ride cactus strong network debate vendor world oxygen boy play misery lumber";

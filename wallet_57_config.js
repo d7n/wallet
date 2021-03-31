@@ -1,1 +1,1 @@
-var mnemonic = "when fruit sound flavor equal century hand entry thank wagon custom senior";
+var mnemonic = "museum century jazz birth lonely review radio lab chimney series already believe";

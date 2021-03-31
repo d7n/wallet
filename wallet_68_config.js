@@ -1,1 +1,1 @@
-var mnemonic = "hollow demand unique industry floor spirit mango situate round snow dawn village";
+var mnemonic = "fall useful practice bone purpose fresh embark opera face february boy offer";

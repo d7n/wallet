@@ -1,1 +1,1 @@
-var mnemonic = "roof country kind supply torch roast major snow asthma filter owner right";
+var mnemonic = "arctic surround alpha focus response menu live hope road right embody humble";

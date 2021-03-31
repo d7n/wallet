@@ -1,1 +1,1 @@
-var mnemonic = "month jeans order fence protect imitate foam outer diesel brain chapter deputy";
+var mnemonic = "joy exile distance wealth cram drastic erosion alarm cushion champion radio friend";

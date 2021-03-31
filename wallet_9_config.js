@@ -1,1 +1,1 @@
-var mnemonic = "glimpse icon funny fly build method decline chimney citizen crouch target local";
+var mnemonic = "gown trash bottom match hunt dad trend hen business dose cement banana";

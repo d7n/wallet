@@ -1,1 +1,1 @@
-var mnemonic = "cat lock emotion inform wheat garment strategy fame rebuild shift faculty wash";
+var mnemonic = "fault ritual gift valve camp above luggage exclude horn enact bulb surface";

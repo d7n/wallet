@@ -1,1 +1,1 @@
-var mnemonic = "clever portion sniff refuse swarm say gather social diamond holiday turtle verb";
+var mnemonic = "disorder drive captain cross tuna chicken panic muffin hand absurd sand sick";

@@ -1,1 +1,1 @@
-var mnemonic = "conduct punch beef loud front august banana century sand twin beach cloth";
+var mnemonic = "filter erosion shine feature blood virus move drip share dizzy summer cost";

@@ -1,1 +1,1 @@
-var mnemonic = "minimum scatter bounce message pistol change liquid robot that mother help fortune";
+var mnemonic = "round burst hobby across crowd trophy mistake always base fox youth noodle";

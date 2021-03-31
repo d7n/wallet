@@ -1,1 +1,1 @@
-var mnemonic = "planet practice harbor round swift once frozen slight all home sun horn";
+var mnemonic = "iron zoo exhaust middle awake any forward debris visual street someone rival";

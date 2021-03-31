@@ -1,1 +1,1 @@
-var mnemonic = "crisp industry issue issue process swim unusual pioneer common forget search region";
+var mnemonic = "have eight bridge arm inside job story hawk rich hammer win region";

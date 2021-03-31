@@ -1,1 +1,1 @@
-var mnemonic = "identify index kingdom code off analyst critic among spot bracket release outside";
+var mnemonic = "eight horror position glow unknown deposit toss train dry chalk coil coil";

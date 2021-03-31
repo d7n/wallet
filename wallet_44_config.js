@@ -1,1 +1,1 @@
-var mnemonic = "change limb market valley pool business potato cattle enjoy distance chunk wink";
+var mnemonic = "square divide width mesh virtual urge multiply knife gravity proud negative city";

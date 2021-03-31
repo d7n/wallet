@@ -1,1 +1,1 @@
-var mnemonic = "fantasy heavy neglect enable illegal sell include horse library regret orange habit";
+var mnemonic = "ceiling bulk mask grace dawn wave little spoon guide neutral bonus chair";

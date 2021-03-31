@@ -1,1 +1,1 @@
-var mnemonic = "random useful cinnamon fringe shallow album garlic matter favorite borrow sense damage";
+var mnemonic = "tree seat square pitch skull mystery retire option they tissue idle hood";

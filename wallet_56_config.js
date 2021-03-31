@@ -1,1 +1,1 @@
-var mnemonic = "carpet time tenant stool round indoor prepare lecture accident alien shop road";
+var mnemonic = "brass sing water hobby endless magnet core viable fat sort toe stem";

@@ -1,1 +1,1 @@
-var mnemonic = "evil sustain fan future quick hurry chat day topple two mean payment";
+var mnemonic = "immune toilet olive stock across base wood dizzy apology club insect fork";

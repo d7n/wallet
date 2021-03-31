@@ -1,1 +1,1 @@
-var mnemonic = "universe saddle come rice damage jacket gasp sure mail direct click soon";
+var mnemonic = "hunt special other egg accuse huge stairs attack correct maximum detail unhappy";

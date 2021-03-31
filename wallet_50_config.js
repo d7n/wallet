@@ -1,1 +1,1 @@
-var mnemonic = "marble quality sheriff verb visual hammer repeat same tower test omit control";
+var mnemonic = "again civil torch under bracket once cash initial equip spike grit until";

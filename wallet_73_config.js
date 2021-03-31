@@ -1,1 +1,1 @@
-var mnemonic = "apart moment pulse chapter scrap chunk pact affair motor process solar giant";
+var mnemonic = "gauge economy skill cage agent ability alter fiscal shoulder net bracket friend";

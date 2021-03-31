@@ -1,1 +1,1 @@
-var mnemonic = "motor hip quality advice envelope afford keep regular muscle collect spring system";
+var mnemonic = "south crush truly symbol off blade season flag crack lesson apology opinion";

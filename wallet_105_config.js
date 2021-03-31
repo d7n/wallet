@@ -1,1 +1,1 @@
-var mnemonic = "fix enlist true donkey crash soul insane usual pepper juice wave attitude";
+var mnemonic = "swallow cruise sustain square okay car noise cake cart spread furnace critic";
