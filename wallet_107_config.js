@@ -1,1 +1,1 @@
-var mnemonic = "fault comic barely ice fury guilt next unfair reform neither pepper swift";
+var mnemonic = "romance social quick letter spatial unfair admit daring tell effort praise rookie";

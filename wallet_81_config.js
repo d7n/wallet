@@ -1,1 +1,1 @@
-var mnemonic = "rich virus pioneer oxygen dance learn inherit almost jump sad bundle sword";
+var mnemonic = "case juice squirrel forget wave toward awesome square carbon diesel cram alien";

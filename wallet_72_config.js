@@ -1,1 +1,1 @@
-var mnemonic = "fluid mushroom fossil sing hint minimum apology angry off toilet fame steel";
+var mnemonic = "ten giggle panel crisp spy caution tired stomach leave finish spoil wedding";

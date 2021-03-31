@@ -1,1 +1,1 @@
-var mnemonic = "program way proud true length recall yard proud empower small response account";
+var mnemonic = "autumn law legal craft drip sphere reflect outer season enable flat mother";

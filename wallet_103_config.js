@@ -1,1 +1,1 @@
-var mnemonic = "business notice excite identify grain output loan blade cart shove ocean salon";
+var mnemonic = "vintage gossip vague idea wrap cricket lens below pigeon elegant business sign";

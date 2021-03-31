@@ -1,1 +1,1 @@
-var mnemonic = "zone stove liberty bamboo unhappy orbit nature impact slogan family joy vehicle";
+var mnemonic = "small blind coral vacuum title world any snack lunch disorder torch six";

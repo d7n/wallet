@@ -1,1 +1,1 @@
-var mnemonic = "green trim search vessel label tree relief giraffe rate stove plug title";
+var mnemonic = "solution duck grit mad trophy spatial kit sudden flee girl upset match";

@@ -1,1 +1,1 @@
-var mnemonic = "arch decide dumb legal mad float aunt siren tissue response advice entire";
+var mnemonic = "bulb timber price hair ocean unaware draw limit awake raise rapid frost";

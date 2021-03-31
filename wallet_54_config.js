@@ -1,1 +1,1 @@
-var mnemonic = "leisure beyond marble remove lamp grow easy fog load pear jewel antique";
+var mnemonic = "bitter bone gospel extra turkey dignity right drama myself anchor human roast";

@@ -1,1 +1,1 @@
-var mnemonic = "whip dance festival else lady peasant develop elevator fiber pizza industry tube";
+var mnemonic = "empower kite carry update relax regret diamond write pluck canyon sick churn";

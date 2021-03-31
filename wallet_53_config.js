@@ -1,1 +1,1 @@
-var mnemonic = "castle notable very teach genius park spike sleep price allow settle churn";
+var mnemonic = "hungry poet rubber whip remain east leg toast amazing series retreat crumble";

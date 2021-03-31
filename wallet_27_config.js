@@ -1,1 +1,1 @@
-var mnemonic = "spray chest spike piano spray chest rack share nuclear void clip merry";
+var mnemonic = "apart blast orphan orange consider coffee label debris fold tray account praise";

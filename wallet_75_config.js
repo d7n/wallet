@@ -1,1 +1,1 @@
-var mnemonic = "real rocket kind volume fantasy program trouble occur episode field exist vicious";
+var mnemonic = "harsh echo brand dizzy squeeze fox tube purity vast page guard urge";

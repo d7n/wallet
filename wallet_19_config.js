@@ -1,1 +1,1 @@
-var mnemonic = "bind truck cup ecology legal pelican element claim blush amateur clip source";
+var mnemonic = "custom dial sock sausage oppose window person design shield final library sea";

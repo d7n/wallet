@@ -1,1 +1,1 @@
-var mnemonic = "venue can fringe manage juice direct fire useful pond execute domain harsh";
+var mnemonic = "reject unable clerk blush speed hope jeans phrase deputy address grunt loyal";

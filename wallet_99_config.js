@@ -1,1 +1,1 @@
-var mnemonic = "win alpha giraffe blouse scatter seed disagree daughter crazy security citizen develop";
+var mnemonic = "ranch receive crack license gloom stove clip process cycle crisp ship diet";

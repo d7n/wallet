@@ -1,1 +1,1 @@
-var mnemonic = "fan never banner gain night stay stadium weekend wife pluck dirt host";
+var mnemonic = "acid into change list glue retreat family regret fish poverty bonus report";

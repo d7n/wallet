@@ -1,1 +1,1 @@
-var mnemonic = "crop opera major wrestle reason play impose helmet disorder equal tilt august";
+var mnemonic = "draft nation talk giant spoil this expand evolve choice grain satisfy stool";

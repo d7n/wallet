@@ -1,1 +1,1 @@
-var mnemonic = "purse proof velvet dentist affair bulb vast brass riot suit blossom before";
+var mnemonic = "hotel auto satisfy question gun field breeze stove crunch ivory slush polar";

@@ -1,1 +1,1 @@
-var mnemonic = "swarm own brown manage audit segment minute orient inform garlic stumble scheme";
+var mnemonic = "explain series defense era improve excite public prepare hawk sentence path quit";

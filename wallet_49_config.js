@@ -1,1 +1,1 @@
-var mnemonic = "actress autumn crouch start review swim dash labor odor tooth transfer injury";
+var mnemonic = "lottery athlete correct coach mushroom cliff page skill useful orient race arch";

@@ -1,1 +1,1 @@
-var mnemonic = "predict helmet lens champion meadow table kangaroo key ski ten fresh use";
+var mnemonic = "situate foil liberty soft police proof orient beach describe shop view deal";

@@ -1,1 +1,1 @@
-var mnemonic = "oven obvious either smooth shell annual proud echo actor jump object pigeon";
+var mnemonic = "catch one enemy dirt vacuum hood mixture iron copper thing crack digital";

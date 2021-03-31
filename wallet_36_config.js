@@ -1,1 +1,1 @@
-var mnemonic = "hold blush boat truth act obtain resemble pledge gain suggest bomb drill";
+var mnemonic = "uncover wool bind pattern enjoy believe design nest minute scan trophy trick";

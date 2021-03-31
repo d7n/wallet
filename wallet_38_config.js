@@ -1,1 +1,1 @@
-var mnemonic = "retreat bless liar mutual envelope cute network obscure bench bamboo vast two";
+var mnemonic = "impact pen review chapter mango flag cancel catch enter case awesome small";

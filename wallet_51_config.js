@@ -1,1 +1,1 @@
-var mnemonic = "mammal cabin frog dirt increase nose little piano inquiry hungry kit modify";
+var mnemonic = "then cinnamon warrior midnight frown valve trick tomorrow biology doll swim summer";

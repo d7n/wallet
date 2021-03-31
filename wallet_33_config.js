@@ -1,1 +1,1 @@
-var mnemonic = "helmet column horn middle voice recipe real sadness truly leader enjoy receive";
+var mnemonic = "creek cable match disorder panther echo later clinic side thank duck envelope";

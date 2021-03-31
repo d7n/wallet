@@ -1,1 +1,1 @@
-var mnemonic = "another group trouble laugh basic write reveal mail then script cannon online";
+var mnemonic = "poverty despair elbow suffer direct art member purity faint hen coffee ankle";

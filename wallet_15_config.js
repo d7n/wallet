@@ -1,1 +1,1 @@
-var mnemonic = "mix hawk hospital glance walnut place orient phrase vivid security artefact orbit";
+var mnemonic = "decrease install subject first attack dignity sheriff strong observe dolphin casino acoustic";

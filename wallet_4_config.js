@@ -1,1 +1,1 @@
-var mnemonic = "throw document exclude inhale cute earn coil quote problem cost female damage";
+var mnemonic = "follow nature core live behave grocery inflict vacuum relax real before occur";

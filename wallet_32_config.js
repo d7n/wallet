@@ -1,1 +1,1 @@
-var mnemonic = "huge horse just position post convince drip earn payment include raise jazz";
+var mnemonic = "bird ski purity tongue dry pig grid vendor genuine slice trap erosion";

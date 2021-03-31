@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon degree upon damage ramp summer menu labor all alpha exercise impose";
+var mnemonic = "grocery toddler october have pole kid position forget moral cloth copper milk";

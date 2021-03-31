@@ -1,1 +1,1 @@
-var mnemonic = "captain artwork gesture segment daughter harbor issue identify neglect oppose pair orient";
+var mnemonic = "number summer fury index album object note vanish expire digital dial guard";

@@ -1,1 +1,1 @@
-var mnemonic = "bullet dolphin object chalk eight evolve rather oppose laptop license toilet imitate";
+var mnemonic = "minor credit forward tuna inch judge peace say mixed chair medal float";

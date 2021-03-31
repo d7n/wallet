@@ -1,1 +1,1 @@
-var mnemonic = "cannon close whisper awesome slender harsh dismiss grain auto insane rural medal";
+var mnemonic = "aim hamster deliver power rival print can embark exhibit mansion rabbit spread";

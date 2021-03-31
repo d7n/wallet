@@ -1,1 +1,1 @@
-var mnemonic = "monster spice frown outer search item upper toilet auto runway refuse resist";
+var mnemonic = "ability window mansion receive myth wire yellow friend tiny night learn radar";

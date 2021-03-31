@@ -1,1 +1,1 @@
-var mnemonic = "panda flame pottery romance maximum visual century genuine mail blue frame suit";
+var mnemonic = "quote fury pyramid local skill empower order utility curious kit portion nephew";

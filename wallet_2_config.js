@@ -1,1 +1,1 @@
-var mnemonic = "rival exile icon aunt collect crack world swarm list ketchup impulse earth";
+var mnemonic = "gown lend circle rocket domain pony oak gold write expand dance auction";

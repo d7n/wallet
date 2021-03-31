@@ -1,1 +1,1 @@
-var mnemonic = "saddle spawn mouse weekend manage title spare affair coach absent utility caught";
+var mnemonic = "when jelly hint usage rival tragic erosion vibrant language kick life father";

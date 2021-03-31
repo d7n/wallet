@@ -1,1 +1,1 @@
-var mnemonic = "shove breeze message live pupil have dog design document sausage master like";
+var mnemonic = "main blue wedding cheap want method arrest scare amazing canyon initial drift";

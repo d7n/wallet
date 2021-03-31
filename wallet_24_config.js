@@ -1,1 +1,1 @@
-var mnemonic = "embark major mosquito property trim finish luggage erupt industry please taxi social";
+var mnemonic = "skirt alcohol trash region void build sausage nurse obey fruit barely manage";

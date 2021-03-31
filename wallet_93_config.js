@@ -1,1 +1,1 @@
-var mnemonic = "canvas grief bubble film good mean diary increase adult inner noodle sorry";
+var mnemonic = "kingdom knee van sad napkin comic zero slogan pledge illness wrong moral";

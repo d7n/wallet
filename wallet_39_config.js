@@ -1,1 +1,1 @@
-var mnemonic = "hover range girl add trust forest merry stable valid search frog raven";
+var mnemonic = "swallow ghost caution fresh poverty rack luggage metal omit volume orbit brush";

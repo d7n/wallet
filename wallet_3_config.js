@@ -1,1 +1,1 @@
-var mnemonic = "salon crisp vivid bread cabin visa state phrase awake coach before fantasy";
+var mnemonic = "that later south ridge insect soul predict polar sweet play desk six";

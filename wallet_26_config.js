@@ -1,1 +1,1 @@
-var mnemonic = "blur craft rice switch debate produce agree news alcohol genuine arm slice";
+var mnemonic = "salt clarify feature army agree live inflict alcohol result soul public nerve";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture dash office fade surprise tunnel pulp play upgrade bomb gain behave";
+var mnemonic = "enter modify damp tape believe snake doll ridge april anchor park liberty";

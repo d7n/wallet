@@ -1,1 +1,1 @@
-var mnemonic = "treat gaze earn amazing village safe tackle empower emerge crunch proof nice";
+var mnemonic = "ordinary ten focus glove fluid pledge swing cause actual slice agree piano";

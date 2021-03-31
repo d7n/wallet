@@ -1,1 +1,1 @@
-var mnemonic = "poverty echo brain seek divert alcohol army rare bracket subject argue unaware";
+var mnemonic = "stuff sock various museum speak knife glory tilt guitar dry voyage impact";

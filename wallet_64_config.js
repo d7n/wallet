@@ -1,1 +1,1 @@
-var mnemonic = "angle public chapter analyst front ten wild task parrot work upper maple";
+var mnemonic = "spirit repeat owner onion finger era artwork vehicle digital job aunt ride";

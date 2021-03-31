@@ -1,1 +1,1 @@
-var mnemonic = "opinion kid clever suit youth quarter genre robust drip judge alert invite";
+var mnemonic = "uncover return excess spy lecture kangaroo find more host timber admit invest";

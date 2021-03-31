@@ -1,1 +1,1 @@
-var mnemonic = "river bless borrow manage tiny arch oppose soldier again rhythm write soap";
+var mnemonic = "story stadium kick muscle tragic suspect ankle garden boil crucial develop light";

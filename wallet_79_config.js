@@ -1,1 +1,1 @@
-var mnemonic = "usual enhance option trend panic verb wolf test rack arctic ocean message";
+var mnemonic = "donor used profit grass transfer hurdle simple response crunch harbor genius bread";

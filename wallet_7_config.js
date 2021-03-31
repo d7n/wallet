@@ -1,1 +1,1 @@
-var mnemonic = "social usage cinnamon abuse flavor twelve satoshi awesome seek immune home secret";
+var mnemonic = "mountain layer dragon sweet typical amazing eagle much bulb brand opinion awake";

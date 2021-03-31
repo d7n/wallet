@@ -1,1 +1,1 @@
-var mnemonic = "domain nation come winter human hen cradle any digital half cruise vanish";
+var mnemonic = "asthma number simple cancel calm horse west vault betray capital radio fancy";

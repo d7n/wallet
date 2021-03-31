@@ -1,1 +1,1 @@
-var mnemonic = "phrase wrestle valid unable knee diagram upset finish guilt base crouch early";
+var mnemonic = "vendor cargo occur foot intact soldier mouse slow guess spin oxygen glare";

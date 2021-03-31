@@ -1,1 +1,1 @@
-var mnemonic = "diagram margin ten check bread opinion fox mixed motor dynamic globe cube";
+var mnemonic = "record aunt nuclear myth rival exact abandon increase dream section tent endless";

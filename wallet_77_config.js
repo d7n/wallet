@@ -1,1 +1,1 @@
-var mnemonic = "skill tornado bid sibling field crack juice maple please proud business timber";
+var mnemonic = "ripple gossip notable draw spike wrestle morning sorry connect birth void bone";

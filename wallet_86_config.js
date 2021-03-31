@@ -1,1 +1,1 @@
-var mnemonic = "example mango inquiry door wasp unit place squirrel reunion clump useless side";
+var mnemonic = "glide tattoo evolve habit sell midnight sister desert quote spawn bike seek";

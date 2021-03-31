@@ -1,1 +1,1 @@
-var mnemonic = "account unfair armor girl circle river else eyebrow senior weird illegal tank";
+var mnemonic = "volume fame canoe spray twenty gorilla hobby era spatial devote differ install";

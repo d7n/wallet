@@ -1,1 +1,1 @@
-var mnemonic = "knock quote bamboo picnic model screen grace night kingdom cage ethics citizen";
+var mnemonic = "upset range fat unique game scrap refuse camera outer head assume tackle";

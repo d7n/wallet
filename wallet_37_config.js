@@ -1,1 +1,1 @@
-var mnemonic = "fuel negative juice diesel stomach fiscal country kangaroo thrive mistake biology gossip";
+var mnemonic = "credit able perfect output survey stool cinnamon void service elegant dash talk";

@@ -1,1 +1,1 @@
-var mnemonic = "ready worth wire joke require mean nose ostrich myth borrow trophy surge";
+var mnemonic = "curve random raise fly vast matter various six cherry perfect avoid rude";

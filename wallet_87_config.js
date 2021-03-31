@@ -1,1 +1,1 @@
-var mnemonic = "elegant cup section license rude liquid artefact taxi hospital people resource swear";
+var mnemonic = "fog fiscal lobster unique best favorite market satisfy era exact pitch divide";

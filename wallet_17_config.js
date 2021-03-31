@@ -1,1 +1,1 @@
-var mnemonic = "pledge bracket copy before rural nerve author cat cradle suspect document horn";
+var mnemonic = "wisdom broken stool utility insect civil sword story either cheap piano cup";

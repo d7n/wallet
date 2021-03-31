@@ -1,1 +1,1 @@
-var mnemonic = "volcano boost job salute timber capital face purpose crew hotel crush brave";
+var mnemonic = "sock shock stuff foil grace outside suit rookie install inform strike situate";

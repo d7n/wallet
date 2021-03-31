@@ -1,1 +1,1 @@
-var mnemonic = "head step force smooth sketch help cave useful glimpse crater spoil naive";
+var mnemonic = "unhappy tattoo antique april now noble deny purpose afraid protect nation eyebrow";

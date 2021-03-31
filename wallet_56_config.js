@@ -1,1 +1,1 @@
-var mnemonic = "primary loan fruit truly person snap merge spin mutual version prepare donkey";
+var mnemonic = "tube later teach always book shove dash oblige fury soldier survey mind";

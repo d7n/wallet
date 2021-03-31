@@ -1,1 +1,1 @@
-var mnemonic = "swift little better estate patrol scout make goddess slim coast loud sphere";
+var mnemonic = "impulse wheat upgrade destroy breeze ridge entry elder fox father easy infant";

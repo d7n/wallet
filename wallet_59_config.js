@@ -1,1 +1,1 @@
-var mnemonic = "around sound topple welcome medal frame excess dinosaur act link aunt guilt";
+var mnemonic = "matter all profit envelope organ answer someone spray still master game click";

@@ -1,1 +1,1 @@
-var mnemonic = "basic ice submit tank border siren someone minimum burden vehicle feature version";
+var mnemonic = "vote add voyage rocket match crazy penalty rapid average tray warfare between";

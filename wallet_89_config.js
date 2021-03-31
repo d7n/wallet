@@ -1,1 +1,1 @@
-var mnemonic = "runway kind impose wisdom void alter blame ostrich invest report cup must";
+var mnemonic = "artist birth rose luggage swim tree find differ pepper level inherit east";

@@ -1,1 +1,1 @@
-var mnemonic = "soldier goddess cactus keep hospital onion whip frog load federal move liar";
+var mnemonic = "solve soup embody bread please rigid twelve when furnace ghost rule local";

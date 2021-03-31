@@ -1,1 +1,1 @@
-var mnemonic = "error subject aware student carry oven side educate estate bargain panda unhappy";
+var mnemonic = "advance core announce lake label flee near swallow trick sort object aim";

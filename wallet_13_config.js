@@ -1,1 +1,1 @@
-var mnemonic = "escape crucial best pretty knife multiply fringe input misery eight garlic stairs";
+var mnemonic = "stove flight rely abstract upon enter gate suspect write humble jazz roast";

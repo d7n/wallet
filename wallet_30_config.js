@@ -1,1 +1,1 @@
-var mnemonic = "quiz record huge envelope rotate cabin current drop tiger dish fine east";
+var mnemonic = "oil crime suspect retreat object toy ship hawk space castle finger tree";

@@ -1,1 +1,1 @@
-var mnemonic = "tuition leisure legal cash purchase return topple cave lecture rocket romance wisdom";
+var mnemonic = "body pitch north few child exact device mirror market sea popular involve";

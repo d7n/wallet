@@ -1,1 +1,1 @@
-var mnemonic = "educate almost glide insane harsh unusual play hamster meadow chalk fork kid";
+var mnemonic = "hazard kiss praise power east please image bacon fetch vital anxiety elbow";

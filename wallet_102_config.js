@@ -1,1 +1,1 @@
-var mnemonic = "bike foster exist upon speed blame moon captain visit hub owner mosquito";
+var mnemonic = "hole tip captain amount churn buddy title feature chair cheese couple enroll";

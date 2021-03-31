@@ -1,1 +1,1 @@
-var mnemonic = "blast coyote sleep knock coffee goose category cousin notice diet idle then";
+var mnemonic = "forget wife bicycle electric sure allow jewel random hat hill end keep";

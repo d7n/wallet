@@ -1,1 +1,1 @@
-var mnemonic = "grab bitter usual obvious flock fatigue mechanic couple belt spare boss draft";
+var mnemonic = "ghost hollow subway sight mango rebel neither song exclude alarm setup valley";

@@ -1,1 +1,1 @@
-var mnemonic = "orient index effort equip insect warfare nuclear hello swift allow girl favorite";
+var mnemonic = "enhance arch evolve cinnamon opinion regular equip blade under print toast oak";

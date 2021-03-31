@@ -1,1 +1,1 @@
-var mnemonic = "mean access satisfy mosquito knife chimney wonder marine tell gaze kite fossil";
+var mnemonic = "monkey immune limb onion model dune develop figure popular hold whisper update";

@@ -1,1 +1,1 @@
-var mnemonic = "cloth final title recall pause chronic bag letter retire merry potato episode";
+var mnemonic = "expand abandon hammer rude soul brand around emerge horse question system situate";

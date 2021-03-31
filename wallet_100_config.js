@@ -1,1 +1,1 @@
-var mnemonic = "radar harbor like recall library paper humor cash foot crowd size nasty";
+var mnemonic = "immune bone seminar rifle hamster collect method alter genuine badge brother energy";

@@ -1,1 +1,1 @@
-var mnemonic = "potato legal waste dog verify chat message airport episode ill gym canoe";
+var mnemonic = "dirt witness name antique fan universe neck resource blush beach can ride";

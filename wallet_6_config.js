@@ -1,1 +1,1 @@
-var mnemonic = "uncle sustain ill raw glass title club kick buddy cement marine equal";
+var mnemonic = "stamp random useless together select treat buzz party office film argue congress";

@@ -1,1 +1,1 @@
-var mnemonic = "state oak hint safe hunt income coil equip impact maximum soap charge";
+var mnemonic = "grunt select story crazy rocket junk imitate banana found model kit eternal";
