@@ -1,1 +1,1 @@
-var mnemonic = "tray prevent loud slab estate shy scatter echo practice blame sorry wash";
+var mnemonic = "parade seed upgrade bless own bird leisure pig luggage invite pumpkin grain";

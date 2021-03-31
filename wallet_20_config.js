@@ -1,1 +1,1 @@
-var mnemonic = "endless ramp patch kick lonely blue butter finger record assault actor spy";
+var mnemonic = "staff budget grow myself couch brown fly matrix canyon never avoid trade";

@@ -1,1 +1,1 @@
-var mnemonic = "entire humble rigid link can canal lens region oval humor smoke ketchup";
+var mnemonic = "pink unusual concert during flat people spice fork crowd dose uncle rice";

@@ -1,1 +1,1 @@
-var mnemonic = "jacket frog route decorate chapter sausage expire clip fence undo situate rather";
+var mnemonic = "churn seven brother fit mass scene trip insect pyramid dirt rose cat";

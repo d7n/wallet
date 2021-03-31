@@ -1,1 +1,1 @@
-var mnemonic = "vague middle axis rival organ actress above label space run balcony wood";
+var mnemonic = "talk simple short slender diet match survey sort universe fine mistake clever";

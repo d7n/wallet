@@ -1,1 +1,1 @@
-var mnemonic = "wear submit biology obtain speed lawsuit cactus become soldier trend dilemma lumber";
+var mnemonic = "fan deny bar smile update feed cliff leopard rely upset canvas tray";

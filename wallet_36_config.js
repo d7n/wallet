@@ -1,1 +1,1 @@
-var mnemonic = "can say undo knife ready neglect world blame mirror knee clever leave";
+var mnemonic = "stage crack illegal invest horse reform volume brand describe curious brain depth";

@@ -1,1 +1,1 @@
-var mnemonic = "obvious insect awake meadow change evolve bless arena vacuum depth crunch gold";
+var mnemonic = "stuff squirrel head lake begin timber comic inner guilt stone discover exhaust";

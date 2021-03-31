@@ -1,1 +1,1 @@
-var mnemonic = "unit catalog purity elder until gun fiction grunt strategy atom mandate gain";
+var mnemonic = "summer dwarf idle chaos monitor client bless wide jacket rain wash hurt";

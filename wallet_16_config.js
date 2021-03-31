@@ -1,1 +1,1 @@
-var mnemonic = "ancient rose category way dragon soup head old scheme thought gold clip";
+var mnemonic = "news demand bachelor broom urge private tape when spoil move fever today";

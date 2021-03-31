@@ -1,1 +1,1 @@
-var mnemonic = "goose waste rather garbage call apple ghost brisk curious find aware steel";
+var mnemonic = "ill attitude belt stadium reunion real true must odor either lava enroll";

@@ -1,1 +1,1 @@
-var mnemonic = "puppy clinic repeat grunt machine smooth option illegal neutral hour army trip";
+var mnemonic = "produce permit tragic enrich immune habit palace furnace make economy spring absurd";

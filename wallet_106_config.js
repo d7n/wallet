@@ -1,1 +1,1 @@
-var mnemonic = "puppy acoustic foil tomorrow winner garage float spice hawk van lift save";
+var mnemonic = "paper dizzy orbit stairs patient key pledge fence release squirrel oil tent";

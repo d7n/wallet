@@ -1,1 +1,1 @@
-var mnemonic = "visit egg increase truck fragile unlock spice jungle warfare slide under outer";
+var mnemonic = "notice weird crush broccoli flavor use crime poverty pumpkin height lemon pause";

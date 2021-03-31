@@ -1,1 +1,1 @@
-var mnemonic = "lonely vital sock book trap february spice brush satoshi shallow gesture success";
+var mnemonic = "else level mass sunset cloth cigar myth penalty script unlock ladder curtain";

@@ -1,1 +1,1 @@
-var mnemonic = "lecture stomach gauge notable ignore abandon feed mandate park they net major";
+var mnemonic = "judge diesel title casino ramp crystal come current noble detect finish speed";

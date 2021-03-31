@@ -1,1 +1,1 @@
-var mnemonic = "affair palace crunch also you mimic mandate silver iron obey upper sausage";
+var mnemonic = "good return hockey limb romance large chef submit alert best pelican atom";

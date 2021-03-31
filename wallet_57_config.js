@@ -1,1 +1,1 @@
-var mnemonic = "hawk analyst despair pistol chair catch tomorrow act champion common quote alien";
+var mnemonic = "school wish brush search clever engine arrive reject clerk click tongue ring";

@@ -1,1 +1,1 @@
-var mnemonic = "carpet swear end cage west risk gospel pattern double squirrel next tourist";
+var mnemonic = "link east rhythm bachelor enroll arctic debris pyramid keep carbon head account";

@@ -1,1 +1,1 @@
-var mnemonic = "stumble meat disease pipe ball earth include wool dinner submit trouble believe";
+var mnemonic = "joke copy among kite casual timber print describe trial knife stable hip";

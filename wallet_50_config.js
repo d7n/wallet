@@ -1,1 +1,1 @@
-var mnemonic = "senior decorate execute canal sample dice genre return tiger useless cover little";
+var mnemonic = "mind breeze oblige inner team globe excess uncle fiber fuel old bacon";

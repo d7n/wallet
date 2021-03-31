@@ -1,1 +1,1 @@
-var mnemonic = "gauge riot when wolf iron blast mercy anchor easily leisure best swear";
+var mnemonic = "sustain marine airport throw boil spoon wage cliff skull decorate fall gather";

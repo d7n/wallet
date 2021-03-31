@@ -1,1 +1,1 @@
-var mnemonic = "orphan tower lesson volcano aware fall small license wrestle square hollow marriage";
+var mnemonic = "forget radio picnic own cover vault pigeon genius spring rigid trip desert";

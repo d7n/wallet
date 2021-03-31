@@ -1,1 +1,1 @@
-var mnemonic = "call tongue calm soldier galaxy female idle stairs renew prize gas swamp";
+var mnemonic = "purse vapor popular obey quote size blame ice nurse thumb blood miss";

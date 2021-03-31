@@ -1,1 +1,1 @@
-var mnemonic = "train attract must final foot uncover dose survey taste border water travel";
+var mnemonic = "genuine envelope surge rural lesson fine venue warfare destroy swamp day finger";

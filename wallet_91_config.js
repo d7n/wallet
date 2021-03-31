@@ -1,1 +1,1 @@
-var mnemonic = "ranch shadow attack document laptop world travel unlock wood forest thrive neck";
+var mnemonic = "vintage observe flag banner knock mass talent narrow hurt gate furnace own";

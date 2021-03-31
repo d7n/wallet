@@ -1,1 +1,1 @@
-var mnemonic = "ugly bring gauge repeat real shrimp luggage bamboo matter scrub mail hamster";
+var mnemonic = "swarm tomorrow fashion verify grant tiny cactus puppy hint awesome begin question";

@@ -1,1 +1,1 @@
-var mnemonic = "help depth rather tool reform plug canvas clap kind stomach car close";
+var mnemonic = "era satoshi miracle proof phone section private device cook party film curious";

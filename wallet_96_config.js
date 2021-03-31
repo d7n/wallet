@@ -1,1 +1,1 @@
-var mnemonic = "trim secret quality toilet attract peace erode chapter detail region pave example";
+var mnemonic = "wedding crisp cart fragile kick kind slush diary install accuse diesel raise";

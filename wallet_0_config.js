@@ -1,1 +1,1 @@
-var mnemonic = "diamond blanket salmon wood motion public decorate mansion glide favorite medal lesson";
+var mnemonic = "polar diesel donate pioneer anchor impose behind wave success cement clean aisle";

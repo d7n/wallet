@@ -1,1 +1,1 @@
-var mnemonic = "kiss drill digital distance slight pulp blade nasty roast milk crisp fun";
+var mnemonic = "sound simple bargain cup apple pulp narrow husband balance transfer minimum quote";

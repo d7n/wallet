@@ -1,1 +1,1 @@
-var mnemonic = "plastic alone surprise question turkey educate energy cruel thumb utility gadget auction";
+var mnemonic = "skull build cause quantum coconut off predict picnic ripple leg prize lumber";

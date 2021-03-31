@@ -1,1 +1,1 @@
-var mnemonic = "muffin aspect unique grace seek ice drill return giggle cloth shy oxygen";
+var mnemonic = "game crumble silly noble load useless clip satoshi deer demand venture gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "hen case business steak refuse forward bean result three story climb biology";
+var mnemonic = "lab dash remove have exit coast clerk fetch false famous runway motion";

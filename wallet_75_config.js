@@ -1,1 +1,1 @@
-var mnemonic = "label reopen merry cushion trophy lawn slice whip sign mosquito judge thunder";
+var mnemonic = "gather front mammal accident future wait cargo genuine hip push move inflict";

@@ -1,1 +1,1 @@
-var mnemonic = "summer rigid leader math brand bid absorb couch squirrel blouse island eyebrow";
+var mnemonic = "burst patrol humble humor marine horn start embrace stuff attend blush swift";

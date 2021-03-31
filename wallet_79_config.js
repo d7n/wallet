@@ -1,1 +1,1 @@
-var mnemonic = "nuclear ugly act inject gossip genius joy marble capital model kiss idle";
+var mnemonic = "electric tape item pitch grab treat boring outdoor symptom wet found churn";

@@ -1,1 +1,1 @@
-var mnemonic = "insect canvas car arrange disagree today cricket hybrid roast oblige boring fragile";
+var mnemonic = "shrug address capable tortoise bar filter depend final artist frog cattle bacon";

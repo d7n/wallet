@@ -1,1 +1,1 @@
-var mnemonic = "glimpse method other merit nothing combine brisk include used harvest stick income";
+var mnemonic = "field hard lunch antique dutch cream tag coil usual there notable pass";

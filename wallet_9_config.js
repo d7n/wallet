@@ -1,1 +1,1 @@
-var mnemonic = "people cricket jelly bread chef round liar ensure canal cat service antique";
+var mnemonic = "stereo behave night pistol urge use fever parent glimpse amazing pumpkin rug";

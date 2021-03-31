@@ -1,1 +1,1 @@
-var mnemonic = "swim slab rotate rice crouch infant gospel action world foster cement wise";
+var mnemonic = "moon frequent damage circle roast custom harsh city gadget gun thunder print";

@@ -1,1 +1,1 @@
-var mnemonic = "dance athlete impose cake appear circle effort document artwork march sauce trash";
+var mnemonic = "vague about inner love cushion dish liquid remain inherit detect worry poverty";

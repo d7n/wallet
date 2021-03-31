@@ -1,1 +1,1 @@
-var mnemonic = "load bridge allow ocean build grocery tomato release basic session mechanic plug";
+var mnemonic = "own bounce swim below cancel ladder rail spatial pen foster stock miss";

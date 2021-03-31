@@ -1,1 +1,1 @@
-var mnemonic = "alcohol miss silent chalk change patrol wave ill young true crime punch";
+var mnemonic = "clay raw mix obey memory differ airport wall shop actress turn slot";

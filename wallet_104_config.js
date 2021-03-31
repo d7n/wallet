@@ -1,1 +1,1 @@
-var mnemonic = "magic seven twin moral tape mule spike area title tray roof sponsor";
+var mnemonic = "nation boil various modify whip coffee pull exchange moment zone cost shift";

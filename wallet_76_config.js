@@ -1,1 +1,1 @@
-var mnemonic = "velvet morning jaguar access phone focus bamboo strategy marine milk reason depend";
+var mnemonic = "coach dash spell foot differ bright supreme target custom execute fiscal plug";

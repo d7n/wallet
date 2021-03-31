@@ -1,1 +1,1 @@
-var mnemonic = "torch issue impose mosquito tunnel weird now nephew clump then piece wife";
+var mnemonic = "envelope impose unfair logic license paper despair mistake outdoor purchase chair round";

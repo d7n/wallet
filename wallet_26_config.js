@@ -1,1 +1,1 @@
-var mnemonic = "road rug uncle engine fox video party cherry cotton clean mountain cake";
+var mnemonic = "buffalo danger mushroom fever require diesel saddle super lock wish combine puppy";

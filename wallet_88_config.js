@@ -1,1 +1,1 @@
-var mnemonic = "owner solid volcano relax taxi ticket room ketchup era obey six grunt";
+var mnemonic = "prepare length slam maple census table near noodle improve pilot fog brand";

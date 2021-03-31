@@ -1,1 +1,1 @@
-var mnemonic = "whale sun index age slide cloud zero monitor young carry sister silver";
+var mnemonic = "icon obtain client betray easily pool demand inspire grab merge lady soap";

@@ -1,1 +1,1 @@
-var mnemonic = "dentist dove mix catalog puzzle either blouse trumpet cupboard jungle index strong";
+var mnemonic = "buddy demand joke winter identify view embrace sand visit clay fault fine";

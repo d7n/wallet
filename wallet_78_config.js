@@ -1,1 +1,1 @@
-var mnemonic = "cargo dose ignore thought coral sleep injury glance slot will where story";
+var mnemonic = "round mother media convince flight push ready luggage stereo bird athlete fee";

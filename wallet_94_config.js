@@ -1,1 +1,1 @@
-var mnemonic = "harsh sing cup raise crush miss agree breeze happy tooth jealous output";
+var mnemonic = "pool trim canyon before run frown cool shield armor between six acquire";

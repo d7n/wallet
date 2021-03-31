@@ -1,1 +1,1 @@
-var mnemonic = "million hour bronze space bottom shove settle large sister rigid lion already";
+var mnemonic = "way gentle year vague kitten screen surround hungry west announce sail erode";

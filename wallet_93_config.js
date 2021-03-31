@@ -1,1 +1,1 @@
-var mnemonic = "jewel around morning lift warfare buddy supreme cinnamon option horse universe pole";
+var mnemonic = "away chair capable purchase depth coil fashion need add trust humble jacket";

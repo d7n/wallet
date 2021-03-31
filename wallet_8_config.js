@@ -1,1 +1,1 @@
-var mnemonic = "material still inspire fatigue name trust half found screen coil rival depart";
+var mnemonic = "city devote unfair rate pizza truth pass announce drastic head body brush";

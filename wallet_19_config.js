@@ -1,1 +1,1 @@
-var mnemonic = "word play galaxy usage virtual scorpion series grunt vibrant desert december priority";
+var mnemonic = "coconut name again patient name deposit neglect labor green giraffe fault interest";

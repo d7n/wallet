@@ -1,1 +1,1 @@
-var mnemonic = "pitch legend door river modify gain firm stock month panel point discover";
+var mnemonic = "upset field quiz access aerobic run flame ecology subject depend few crush";

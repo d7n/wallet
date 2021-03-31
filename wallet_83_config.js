@@ -1,1 +1,1 @@
-var mnemonic = "monkey add prefer welcome hard crowd book blouse scrap response alter busy";
+var mnemonic = "sadness crush route yard soul three square humble maze unique sunset minute";

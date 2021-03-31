@@ -1,1 +1,1 @@
-var mnemonic = "reveal sail enforce marriage potato festival notable suggest wheel mom primary panther";
+var mnemonic = "photo convince describe loan web tone lawn panic bless ignore law edit";

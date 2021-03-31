@@ -1,1 +1,1 @@
-var mnemonic = "spot cross keen panel essay toast false snack olympic churn put over";
+var mnemonic = "urban avocado journey chunk dentist visit fix robot elevator sniff cheap zebra";

@@ -1,1 +1,1 @@
-var mnemonic = "happy floor smooth antique pride ketchup alert habit enough powder almost crime";
+var mnemonic = "fox lazy borrow sunset sugar tube great wheat dove peanut sight siren";

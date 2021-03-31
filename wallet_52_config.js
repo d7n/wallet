@@ -1,1 +1,1 @@
-var mnemonic = "eagle fault never still one roast online among inhale wine essence illness";
+var mnemonic = "shield able speed raven rebuild cargo club later bundle hurry kitten city";

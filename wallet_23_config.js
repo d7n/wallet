@@ -1,1 +1,1 @@
-var mnemonic = "dream village hill upgrade level bronze taste glance moon audit else panda";
+var mnemonic = "area shop brave idle hole subway weapon fabric cluster trip network ancient";

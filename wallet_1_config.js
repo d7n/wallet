@@ -1,1 +1,1 @@
-var mnemonic = "defense artwork bean duty torch prevent energy thought gravity cat broom olympic";
+var mnemonic = "quit stick amateur satoshi pause volcano crisp lonely client answer light section";

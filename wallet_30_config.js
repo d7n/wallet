@@ -1,1 +1,1 @@
-var mnemonic = "soft humble ski round flat permit planet room embrace sentence company loyal";
+var mnemonic = "theory prize outer pink trick tiny analyst surface gather film seven town";

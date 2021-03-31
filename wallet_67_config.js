@@ -1,1 +1,1 @@
-var mnemonic = "winner dwarf hire effort glance praise require rate penalty explain access grit";
+var mnemonic = "sort faint govern hire misery hope anger search obvious tumble vast argue";

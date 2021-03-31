@@ -1,1 +1,1 @@
-var mnemonic = "dirt torch together comfort task faint lecture unusual snow method shield talent";
+var mnemonic = "genuine warrior relax camp skill disorder used grass local tortoise knock stable";

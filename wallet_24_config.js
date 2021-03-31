@@ -1,1 +1,1 @@
-var mnemonic = "design practice aunt raven gaze day hint wood rice today march spread";
+var mnemonic = "soldier anchor theory system swear wreck develop later half prefer siege negative";

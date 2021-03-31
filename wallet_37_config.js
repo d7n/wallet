@@ -1,1 +1,1 @@
-var mnemonic = "brass dirt proud flight private useful please under sing voice local jeans";
+var mnemonic = "insane elder large brick slim brother afraid law rib cargo obtain morning";

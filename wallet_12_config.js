@@ -1,1 +1,1 @@
-var mnemonic = "spoil infant sphere fitness body chest sunset margin bomb dune audit actual";
+var mnemonic = "public best repeat expose boil follow rice hamster spawn april resource drip";

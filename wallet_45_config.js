@@ -1,1 +1,1 @@
-var mnemonic = "upset repeat pizza pair forest differ lunch certain erosion zoo there rally";
+var mnemonic = "borrow zebra ring spray payment defy dish hammer arch volume normal fancy";

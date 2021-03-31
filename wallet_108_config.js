@@ -1,1 +1,1 @@
-var mnemonic = "absurd drive toss refuse flock garage cousin danger spy tongue denial used";
+var mnemonic = "moment mix section appear carbon urge erupt possible future circle parade hard";

@@ -1,1 +1,1 @@
-var mnemonic = "morning proof axis fog later enough logic random embody analyst chapter frozen";
+var mnemonic = "gauge chapter visa paper wage bread ginger pull venture moon captain surprise";

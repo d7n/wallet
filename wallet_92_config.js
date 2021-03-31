@@ -1,1 +1,1 @@
-var mnemonic = "smile spy pen cluster combine matter push away bullet pitch jeans museum";
+var mnemonic = "junior swift super citizen disorder cage today stomach cycle resource since divert";

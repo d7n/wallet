@@ -1,1 +1,1 @@
-var mnemonic = "soup cry replace message vendor buyer cube claw tree attract squirrel bitter";
+var mnemonic = "cake snack upper upset level tribe manual survey wheel grit bind asthma";

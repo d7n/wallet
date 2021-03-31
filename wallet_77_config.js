@@ -1,1 +1,1 @@
-var mnemonic = "riot shy diagram leopard beyond vintage salad state warrior inflict wolf fetch";
+var mnemonic = "first bone head adult rude noodle frown humor camp boat brain scrap";

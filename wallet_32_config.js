@@ -1,1 +1,1 @@
-var mnemonic = "aware problem mass rebel display security twelve saddle crop include ranch hole";
+var mnemonic = "another ball soldier arrow verify check later style vapor proof fever black";

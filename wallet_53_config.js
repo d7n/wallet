@@ -1,1 +1,1 @@
-var mnemonic = "like creek lawsuit bless boss vacuum donkey industry hammer measure picture lock";
+var mnemonic = "inflict door weird scrap olympic guide pause front venture all kitten detect";

@@ -1,1 +1,1 @@
-var mnemonic = "aisle outdoor invest bubble north pear length mango boss endorse cradle sustain";
+var mnemonic = "priority romance board warfare great glide retire audit actual large wage tired";

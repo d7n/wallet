@@ -1,1 +1,1 @@
-var mnemonic = "claw control young switch clog daughter mixture gloom equip click curve stove";
+var mnemonic = "choice write north trick arctic train saddle nest ticket flip clog pledge";

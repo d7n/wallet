@@ -1,1 +1,1 @@
-var mnemonic = "half combine phone general water suffer rally heart inject suffer gospel soon";
+var mnemonic = "grain height farm other chapter wolf ability try lift glove lemon element";

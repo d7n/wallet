@@ -1,1 +1,1 @@
-var mnemonic = "snap among visual diet economy owner blood scatter spot decrease purity vacuum";
+var mnemonic = "chapter patrol chimney list short snake click defy amused hammer silver raw";

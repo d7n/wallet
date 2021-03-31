@@ -1,1 +1,1 @@
-var mnemonic = "coconut nut text canoe modify gorilla skin ranch earn business payment payment";
+var mnemonic = "horn guitar pen canoe unit upgrade jump merry supply decline initial frequent";

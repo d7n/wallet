@@ -1,1 +1,1 @@
-var mnemonic = "solution tent attract desk treat pumpkin surge skate coil will view actual";
+var mnemonic = "drip cricket cushion indicate annual box zero champion wide merry nature quarter";

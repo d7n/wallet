@@ -1,1 +1,1 @@
-var mnemonic = "cushion umbrella flush verify crush mind innocent burst video knife cereal reject";
+var mnemonic = "casino empower sudden simple draft hurry stairs quantum hotel agent february midnight";

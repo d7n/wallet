@@ -1,1 +1,1 @@
-var mnemonic = "order unaware collect major document flower remember truly jewel bacon post staff";
+var mnemonic = "primary slow repair metal trick lock gold pattern drum salute tail emerge";

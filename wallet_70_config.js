@@ -1,1 +1,1 @@
-var mnemonic = "vessel below disagree turtle basic teach monster seek caught until version marine";
+var mnemonic = "dutch play grant loyal square embrace acquire melody corn clarify faint repair";

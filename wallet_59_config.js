@@ -1,1 +1,1 @@
-var mnemonic = "only impose hill auto hurry orchard link solar know device audit enlist";
+var mnemonic = "region typical grow detail embark rice wage fitness pioneer situate they best";
