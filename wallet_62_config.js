@@ -1,1 +1,1 @@
-var mnemonic = "system unhappy wash gold nose bottom master echo bachelor online bread melt";
+var mnemonic = "always east wash humble puppy defense bracket diagram gas tongue staff hello";

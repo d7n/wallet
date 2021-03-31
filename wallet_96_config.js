@@ -1,1 +1,1 @@
-var mnemonic = "exhaust solar speak twin forest learn day keep stamp legend spawn pipe";
+var mnemonic = "cluster eagle cattle pledge asset return error sauce tiger achieve genre recall";

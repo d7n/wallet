@@ -1,1 +1,1 @@
-var mnemonic = "flower apple faith surprise category loan dynamic father arrive crater reform wrist";
+var mnemonic = "jeans resemble major later phone layer soft tree shallow dune lonely conduct";

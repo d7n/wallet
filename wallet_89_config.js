@@ -1,1 +1,1 @@
-var mnemonic = "trouble weird april hotel arena soda act clay session keen turn erase";
+var mnemonic = "jewel crazy ordinary road survey also bike fluid pepper life burden blood";

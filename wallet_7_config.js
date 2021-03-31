@@ -1,1 +1,1 @@
-var mnemonic = "execute knife boy under unveil donor egg useless civil require spray trust";
+var mnemonic = "glue funny virtual clump gaze burden spend vocal chalk still fury fortune";

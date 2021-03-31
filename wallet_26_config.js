@@ -1,1 +1,1 @@
-var mnemonic = "behave upgrade right skull chief maze man park script host clutch busy";
+var mnemonic = "stable illegal palace toddler bind place trust amazing magic exile fatal top";

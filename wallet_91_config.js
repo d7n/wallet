@@ -1,1 +1,1 @@
-var mnemonic = "off economy six letter below boy plastic comic canoe dish aisle toy";
+var mnemonic = "rose noble ritual ocean harvest park slogan bag shock response trick luxury";

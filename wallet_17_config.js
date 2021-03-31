@@ -1,1 +1,1 @@
-var mnemonic = "car unaware brush usual churn push bone dolphin clap fuel scale naive";
+var mnemonic = "super melt easily original noise double file sustain sphere carbon retreat twist";

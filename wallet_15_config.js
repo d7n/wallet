@@ -1,1 +1,1 @@
-var mnemonic = "dog reopen coral denial grid review because pulp surround thrive cake year";
+var mnemonic = "because album owner stomach guilt glass wasp gentle parent floor horn despair";

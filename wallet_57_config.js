@@ -1,1 +1,1 @@
-var mnemonic = "wrong hungry ridge stairs okay stairs pull volcano tragic power success vacuum";
+var mnemonic = "silk engine fall wedding possible urge mention frame sunny airport journey increase";

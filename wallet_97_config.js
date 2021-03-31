@@ -1,1 +1,1 @@
-var mnemonic = "twenty water chair nature resource delay swear bottom scale north focus night";
+var mnemonic = "click great about word glad primary inquiry salmon arrest short dog lobster";

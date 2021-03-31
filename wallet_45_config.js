@@ -1,1 +1,1 @@
-var mnemonic = "faint bean life region angry tomorrow tumble vapor gate visa boss snack";
+var mnemonic = "typical emotion mass general mouse away gallery near grow hello hint recycle";

@@ -1,1 +1,1 @@
-var mnemonic = "pledge apology strategy hurry hawk chase beach diet organ task punch upgrade";
+var mnemonic = "sausage govern industry relax escape slow they remind twice retire dress taxi";

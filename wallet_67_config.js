@@ -1,1 +1,1 @@
-var mnemonic = "room domain worth play keen slim holiday business clinic unfair pumpkin bike";
+var mnemonic = "oppose gun grocery tail pool romance occur sting tumble noise fiber depth";

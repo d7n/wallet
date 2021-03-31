@@ -1,1 +1,1 @@
-var mnemonic = "amazing police lake still tide boss express own snow range office mule";
+var mnemonic = "sport mixed flat follow burger biology catch pave point meadow exist mystery";

@@ -1,1 +1,1 @@
-var mnemonic = "ribbon decade hybrid keen perfect manage degree salad whale magic lawsuit angle";
+var mnemonic = "time tank crane erode glare gaze butter salt pilot human myself genius";

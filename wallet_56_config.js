@@ -1,1 +1,1 @@
-var mnemonic = "melody alcohol super tape deny hard inhale era toss evil quarter card";
+var mnemonic = "owner zebra open jar then fatigue know train embrace topple knife melt";

@@ -1,1 +1,1 @@
-var mnemonic = "note tag syrup leader notable drift among famous range few motion sting";
+var mnemonic = "educate win pink angry relief bulk regret upset simple economy ridge rib";

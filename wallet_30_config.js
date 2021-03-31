@@ -1,1 +1,1 @@
-var mnemonic = "whale lion city course tent drift purity celery oblige swim maple tooth";
+var mnemonic = "cradle charge poverty step fossil ugly fringe visual drip humor wink bid";

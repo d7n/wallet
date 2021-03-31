@@ -1,1 +1,1 @@
-var mnemonic = "space bird proud pair family axis common cup popular ivory ensure pencil";
+var mnemonic = "elbow tag festival pigeon aware foil raw unit family duty lock together";

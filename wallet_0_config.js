@@ -1,1 +1,1 @@
-var mnemonic = "light actual cattle swap ecology acid clever busy oblige trick panel ritual";
+var mnemonic = "unknown desert during sudden message lamp grow viable engine borrow risk hybrid";

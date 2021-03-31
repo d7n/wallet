@@ -1,1 +1,1 @@
-var mnemonic = "pig vicious north reopen kiss weird gift nominee enhance party soccer beach";
+var mnemonic = "ride submit tissue decide hybrid surprise kiss nominee flash primary evolve maid";

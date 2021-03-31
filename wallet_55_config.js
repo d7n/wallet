@@ -1,1 +1,1 @@
-var mnemonic = "suffer parrot drip girl gospel profit thought cheese duck page dash shuffle";
+var mnemonic = "behind choice remain dentist dynamic scene say course pattern coconut prefer live";

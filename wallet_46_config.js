@@ -1,1 +1,1 @@
-var mnemonic = "toy drip wide must cool cigar vanish sentence agent verify defy carbon";
+var mnemonic = "legend coach screen check cotton immense ethics rent tape blood palm palm";

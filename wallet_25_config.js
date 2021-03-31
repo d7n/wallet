@@ -1,1 +1,1 @@
-var mnemonic = "drum dwarf online extra marble discover myth couple curve survey sense waste";
+var mnemonic = "truly bus ginger fruit diesel urban gentle solution hundred argue corn wrestle";

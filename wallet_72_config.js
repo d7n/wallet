@@ -1,1 +1,1 @@
-var mnemonic = "unaware pudding camp toward august fork oven honey blade arch december output";
+var mnemonic = "junior until elegant ladder athlete august bench language expose liberty enroll height";

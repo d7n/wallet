@@ -1,1 +1,1 @@
-var mnemonic = "organ private suspect talk fog size people much aim thunder best romance";
+var mnemonic = "layer have deer noble essence chaos good spike abuse slight crush pilot";

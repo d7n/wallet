@@ -1,1 +1,1 @@
-var mnemonic = "almost embody accuse way romance claw frequent blur suspect hat gym visa";
+var mnemonic = "abuse museum drink strategy add mass swallow boy flag special clown job";

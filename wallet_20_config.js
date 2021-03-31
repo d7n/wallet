@@ -1,1 +1,1 @@
-var mnemonic = "view mouse intact message cherry pelican humor proof dry dizzy produce season";
+var mnemonic = "smile engine bring fashion bonus mixed attend code live version wild gadget";

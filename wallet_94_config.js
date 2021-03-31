@@ -1,1 +1,1 @@
-var mnemonic = "girl tenant crouch rival shop resist measure essay spike glue ahead measure";
+var mnemonic = "random degree plastic unhappy common hero bounce submit teach stool science spot";

@@ -1,1 +1,1 @@
-var mnemonic = "miracle brass gospel anxiety duty cart sugar twenty try online april depend";
+var mnemonic = "valley picnic awkward runway trap pig sponsor dance frog patrol firm help";

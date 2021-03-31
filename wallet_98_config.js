@@ -1,1 +1,1 @@
-var mnemonic = "sleep token business donor cream above chest decrease train faculty test advance";
+var mnemonic = "artefact vocal erode lava month prosper end silver situate equip never uphold";

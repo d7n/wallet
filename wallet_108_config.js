@@ -1,1 +1,1 @@
-var mnemonic = "pilot old parent end kingdom banner border oyster that head capital royal";
+var mnemonic = "cactus viable recycle luxury sick cool coffee disease peasant gown profit skirt";

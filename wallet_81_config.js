@@ -1,1 +1,1 @@
-var mnemonic = "notice option eagle scatter attack mutual cliff symbol believe relax scene lonely";
+var mnemonic = "person member depth color fiscal empty bullet rocket garlic drop mail economy";

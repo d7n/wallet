@@ -1,1 +1,1 @@
-var mnemonic = "lava mouse alter mystery program lake federal face gun inform logic produce";
+var mnemonic = "nephew ignore lazy favorite rich huge stone outside proud truly museum awesome";

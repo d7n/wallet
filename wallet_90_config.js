@@ -1,1 +1,1 @@
-var mnemonic = "today cruel rebel innocent fashion describe bracket worry kit country nest smooth";
+var mnemonic = "island wisdom book giraffe embody struggle salad charge latin glad stool timber";

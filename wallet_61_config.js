@@ -1,1 +1,1 @@
-var mnemonic = "urge afraid muscle rather rule license room inquiry talk kitten kid someone";
+var mnemonic = "civil about bring risk october pipe raw assist gun labor pride devote";

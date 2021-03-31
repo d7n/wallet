@@ -1,1 +1,1 @@
-var mnemonic = "illness boy consider album sting buzz enroll affair record thrive hollow record";
+var mnemonic = "hurdle birth electric knee strong render human mesh strike vendor gossip funny";

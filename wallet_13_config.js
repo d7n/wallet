@@ -1,1 +1,1 @@
-var mnemonic = "sport property pepper document circle broken tourist announce title make key order";
+var mnemonic = "apple cool issue tomorrow truly diesel remove element afraid gym crumble border";

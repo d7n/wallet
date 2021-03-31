@@ -1,1 +1,1 @@
-var mnemonic = "tonight picnic kiss aware illness input tuition together sphere salon girl smile";
+var mnemonic = "gap east sauce inform duck april left music hello sand silly juice";

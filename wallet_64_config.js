@@ -1,1 +1,1 @@
-var mnemonic = "before jealous luggage idle slice hospital girl there pyramid pilot plunge absorb";
+var mnemonic = "owner rain quality flag narrow clap come neglect arctic repair skirt mimic";

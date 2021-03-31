@@ -1,1 +1,1 @@
-var mnemonic = "spend popular dose federal pass void inject teach card supreme exotic limb";
+var mnemonic = "cupboard govern ticket pet frown erode pledge amused balcony horse sugar emotion";

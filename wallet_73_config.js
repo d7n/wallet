@@ -1,1 +1,1 @@
-var mnemonic = "urge boil ecology tribe damp dignity pyramid stone ripple crack you rare";
+var mnemonic = "train lake injury kitchen syrup dignity unaware wild jump finish pond animal";

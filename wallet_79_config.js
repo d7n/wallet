@@ -1,1 +1,1 @@
-var mnemonic = "offer agent clay pole pause obey adapt collect celery ozone village broom";
+var mnemonic = "faith chronic axis pole grow track cousin exercise syrup warm still inch";

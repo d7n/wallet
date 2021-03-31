@@ -1,1 +1,1 @@
-var mnemonic = "inside romance dress wrist design utility affair foot weapon flag lake night";
+var mnemonic = "bitter defy rubber cake shock slender raven monkey able noble object vocal";

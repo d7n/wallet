@@ -1,1 +1,1 @@
-var mnemonic = "brand wrist treat industry crush grunt ancient subject comfort mimic dizzy gadget";
+var mnemonic = "left follow flash panda vibrant comic walnut lyrics illegal grass fish modify";

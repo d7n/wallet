@@ -1,1 +1,1 @@
-var mnemonic = "decline glimpse angle secret confirm desert kiwi tail kick stereo crane shallow";
+var mnemonic = "road twelve riot wonder violin run bundle above poem item hard weapon";

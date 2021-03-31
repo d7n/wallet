@@ -1,1 +1,1 @@
-var mnemonic = "matter slice away opera abuse fantasy promote tourist similar rack bounce coast";
+var mnemonic = "abandon suspect gadget drill develop ignore mixed kiwi leisure clip guitar hire";

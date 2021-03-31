@@ -1,1 +1,1 @@
-var mnemonic = "noble crane wait meadow spawn clay point news myself merge burden nasty";
+var mnemonic = "wink stay cube flush bag glare moment token assault light defy day";

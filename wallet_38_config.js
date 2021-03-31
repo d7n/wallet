@@ -1,1 +1,1 @@
-var mnemonic = "roof garbage outside yard clerk buzz issue autumn eye identify extend kitten";
+var mnemonic = "erode symbol jungle labor topple illness debate puzzle ripple sausage curve lecture";

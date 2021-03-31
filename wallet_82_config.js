@@ -1,1 +1,1 @@
-var mnemonic = "ride remain frozen nose web shiver insane only wink inherit thrive copy";
+var mnemonic = "start peace sense curious reward hurdle outside track win pizza solution scissors";

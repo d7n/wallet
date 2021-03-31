@@ -1,1 +1,1 @@
-var mnemonic = "lucky turtle region room pupil reject emotion improve shove rival wink power";
+var mnemonic = "similar clap behave fashion divorce case slot special vague beauty swing erosion";

@@ -1,1 +1,1 @@
-var mnemonic = "fault east atom silver gym square top dance ahead truly spirit tunnel";
+var mnemonic = "lecture roast address frown spawn town banana nasty cave jelly orient depend";

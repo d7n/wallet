@@ -1,1 +1,1 @@
-var mnemonic = "humble clump venture erosion arena boil fabric juice man pig still birth";
+var mnemonic = "render brass two push hire hollow average amateur creek soccer virus outdoor";

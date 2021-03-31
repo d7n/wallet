@@ -1,1 +1,1 @@
-var mnemonic = "water head nuclear glue artist bundle ordinary chapter culture wheat autumn solar";
+var mnemonic = "mountain field fault subject luggage early assault balance open shock trophy demise";

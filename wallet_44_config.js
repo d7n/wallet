@@ -1,1 +1,1 @@
-var mnemonic = "actual maximum picnic clean bring nest patient parrot broom lesson lamp athlete";
+var mnemonic = "level hybrid sing wisdom put orbit attack hope when sketch option churn";

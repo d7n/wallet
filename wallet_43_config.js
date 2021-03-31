@@ -1,1 +1,1 @@
-var mnemonic = "truly orchard gun post text impulse theory tomato prefer nephew mouse faculty";
+var mnemonic = "art goose seek retreat office fabric milk volume school coconut seek deer";

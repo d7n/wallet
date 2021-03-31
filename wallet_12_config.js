@@ -1,1 +1,1 @@
-var mnemonic = "genius current diamond people prison boy icon glare tell few hat length";
+var mnemonic = "twice casual own snake end supreme junk word crystal treat mirror item";

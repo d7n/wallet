@@ -1,1 +1,1 @@
-var mnemonic = "canal help virus truly accident secret carry palm jaguar joke intact art";
+var mnemonic = "tissue final taste adult process always sock material skate riot electric surge";

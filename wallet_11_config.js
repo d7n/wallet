@@ -1,1 +1,1 @@
-var mnemonic = "day mention lake squeeze lend wonder slam nominee water general giant vessel";
+var mnemonic = "liar dish apology more useful sword genre picture obey grid woman decline";

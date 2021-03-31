@@ -1,1 +1,1 @@
-var mnemonic = "gesture goddess peasant novel ride youth rate dash gadget borrow orphan caught";
+var mnemonic = "replace picnic electric ethics loop flavor hurt wall profit please pitch prepare";

@@ -1,1 +1,1 @@
-var mnemonic = "gas state outer excite tired flip mixture sphere habit minimum direct taste";
+var mnemonic = "enter exit island flag ordinary tennis tiny check original raven bronze escape";

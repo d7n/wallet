@@ -1,1 +1,1 @@
-var mnemonic = "master page private pilot crunch always yellow spider split spot entire indicate";
+var mnemonic = "over lens extra ozone invite symptom ship cost tip torch regret firm";

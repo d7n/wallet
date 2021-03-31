@@ -1,1 +1,1 @@
-var mnemonic = "visual edge month slush book license hurdle drum snake like coin arm";
+var mnemonic = "grass wrist rich doll canoe rhythm mammal admit always female tone trip";

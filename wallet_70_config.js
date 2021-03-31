@@ -1,1 +1,1 @@
-var mnemonic = "swift six biology find stool popular city into wide two ugly hotel";
+var mnemonic = "rough code angry dash real royal moral castle sport stumble doll list";

@@ -1,1 +1,1 @@
-var mnemonic = "wrong spot puzzle sister spin rifle habit crater eyebrow buzz dry taxi";
+var mnemonic = "olive stay dentist link limit curve possible juice suit penalty bike vehicle";

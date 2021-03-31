@@ -1,1 +1,1 @@
-var mnemonic = "wheat property vehicle clap cake uphold cereal wreck local initial repair alcohol";
+var mnemonic = "song silk gentle ripple attend end awesome couple chicken kit time card";

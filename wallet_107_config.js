@@ -1,1 +1,1 @@
-var mnemonic = "off asset machine salt piano stone desert hospital turtle trip cruel pet";
+var mnemonic = "pudding glue dwarf liberty click train endless rather false hollow own chief";

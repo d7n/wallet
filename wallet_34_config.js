@@ -1,1 +1,1 @@
-var mnemonic = "spray you album tribe bless peasant gap dust select liquid useless rude";
+var mnemonic = "enjoy link patch exist arm rifle execute session ostrich pyramid interest ordinary";

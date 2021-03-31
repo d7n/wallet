@@ -1,1 +1,1 @@
-var mnemonic = "insane fragile parade ice liberty myth reject absurd life situate latin amused";
+var mnemonic = "heart miracle lumber decorate finger cherry turtle merit surface mobile credit coral";

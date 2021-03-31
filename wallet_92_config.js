@@ -1,1 +1,1 @@
-var mnemonic = "during mother benefit drama end unknown cake range curtain unveil learn train";
+var mnemonic = "clap palace version tenant agree vehicle cute world awkward forward lamp mail";

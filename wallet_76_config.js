@@ -1,1 +1,1 @@
-var mnemonic = "sense captain verb primary connect awake diesel mansion bacon region knee letter";
+var mnemonic = "dolphin always seed execute cage gentle medal humble scout town document immense";

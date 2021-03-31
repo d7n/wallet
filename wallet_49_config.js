@@ -1,1 +1,1 @@
-var mnemonic = "universe odor nose broccoli sudden ski violin spice curve physical silver travel";
+var mnemonic = "connect denial public fancy dilemma dinner draft seek talk main peanut sting";

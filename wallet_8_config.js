@@ -1,1 +1,1 @@
-var mnemonic = "choice field salt diamond ice salon twenty move chunk unfair pole help";
+var mnemonic = "west scrap scorpion crop december ecology sword duck able novel series erase";

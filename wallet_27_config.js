@@ -1,1 +1,1 @@
-var mnemonic = "success vote tuna siege list ill ice ginger giggle brain small flame";
+var mnemonic = "obscure diesel lend wolf rival trick fold business scout portion snake swarm";

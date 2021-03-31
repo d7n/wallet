@@ -1,1 +1,1 @@
-var mnemonic = "baby improve turn cluster afraid pizza claim snap depart pave defense receive";
+var mnemonic = "wish ghost metal attack void theme curve same antenna clog prize car";

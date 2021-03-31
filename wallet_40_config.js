@@ -1,1 +1,1 @@
-var mnemonic = "pass win now butter timber isolate process daughter lake guard obtain inherit";
+var mnemonic = "outer valid twice split answer sausage venue can cargo profit vessel lucky";

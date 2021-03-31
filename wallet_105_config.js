@@ -1,1 +1,1 @@
-var mnemonic = "awkward bread mango nominee bid fine ahead orphan enact treat ball punch";
+var mnemonic = "tattoo custom motion road wait infant fun police midnight first mirror vault";

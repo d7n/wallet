@@ -1,1 +1,1 @@
-var mnemonic = "end dune laptop click pass skin neither park settle erupt bag torch";
+var mnemonic = "shove knock never initial vehicle tube bid security various stomach scheme palace";

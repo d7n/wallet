@@ -1,1 +1,1 @@
-var mnemonic = "cousin tired receive gadget midnight patch dice own assume enemy scene outdoor";
+var mnemonic = "ill valid evil buyer airport bone pepper vessel ribbon off bid switch";

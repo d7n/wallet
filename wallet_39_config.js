@@ -1,1 +1,1 @@
-var mnemonic = "chef kitchen ozone blame someone sentence prize assume humble humble lizard afraid";
+var mnemonic = "test jaguar among neck junk system ethics few violin volcano tongue media";

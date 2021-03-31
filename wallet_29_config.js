@@ -1,1 +1,1 @@
-var mnemonic = "skate green nothing earth primary patrol burden evoke position find gaze west";
+var mnemonic = "sister swap airport mesh glide video hole throw opera again flash asthma";

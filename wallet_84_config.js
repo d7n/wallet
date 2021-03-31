@@ -1,1 +1,1 @@
-var mnemonic = "frequent trap eager blush gospel water cause rookie mushroom shoot west dice";
+var mnemonic = "road magnet ship resemble village private icon love obtain edit hungry dumb";

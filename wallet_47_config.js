@@ -1,1 +1,1 @@
-var mnemonic = "credit tobacco seed chalk high include rain art tourist sphere virus mercy";
+var mnemonic = "remove girl guide cry cruel kingdom comfort lecture unit brave ramp wall";

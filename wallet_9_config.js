@@ -1,1 +1,1 @@
-var mnemonic = "region false collect equal craft sketch pelican certain fly hire escape empty";
+var mnemonic = "weapon run kiss holiday during join banana sort half spirit equip behind";

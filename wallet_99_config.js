@@ -1,1 +1,1 @@
-var mnemonic = "brush kitten pottery bring wedding village normal together spell say shell sign";
+var mnemonic = "shy weird apple agent slush young sell cream cherry senior badge spoil";

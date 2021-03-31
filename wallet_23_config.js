@@ -1,1 +1,1 @@
-var mnemonic = "damp holiday arena casual have today bright panda winner fun across way";
+var mnemonic = "wolf meat off imitate frequent test tomorrow distance wise pond skirt upon";

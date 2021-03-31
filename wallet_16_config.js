@@ -1,1 +1,1 @@
-var mnemonic = "drop attitude alpha ethics tiger document test fantasy liar unlock mean addict";
+var mnemonic = "innocent hello border embark guide used call human wear gallery twelve kick";
