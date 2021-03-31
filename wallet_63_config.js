@@ -1,1 +1,1 @@
-var mnemonic = "giant busy either term genuine neutral crucial place asset document plunge buddy";
+var mnemonic = "manual vital mixture detail sense gold stumble swap stuff want survey unique";

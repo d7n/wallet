@@ -1,1 +1,1 @@
-var mnemonic = "radar quick legal curious happy birth acoustic click behind scale sword swallow";
+var mnemonic = "machine destroy pull dragon sock diesel shiver damage wide blue innocent crazy";

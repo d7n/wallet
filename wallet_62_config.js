@@ -1,1 +1,1 @@
-var mnemonic = "retreat letter mirror kiss host change flush limb fine convince innocent deal";
+var mnemonic = "couch course rhythm hockey wasp tennis local hurdle car oblige cloth tide";

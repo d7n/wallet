@@ -1,1 +1,1 @@
-var mnemonic = "shine shed birth city captain autumn uncover sad endless pear clay bone";
+var mnemonic = "spice lake dust major shine unfair gap desert plastic blade expect wagon";

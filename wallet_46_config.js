@@ -1,1 +1,1 @@
-var mnemonic = "profit excuse dune hazard team claim left valley permit lamp wink main";
+var mnemonic = "can october shoe settle life acid chronic cruise general poem paper alter";

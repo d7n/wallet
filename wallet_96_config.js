@@ -1,1 +1,1 @@
-var mnemonic = "kit sample iron thought view high bamboo clog vapor wood world abandon";
+var mnemonic = "route foil pupil crop reform awful pulp vast police faith share party";

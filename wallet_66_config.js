@@ -1,1 +1,1 @@
-var mnemonic = "limb armor muscle assume boy donor timber tip gesture walnut latin mass";
+var mnemonic = "what shock siren auction matrix trophy ten segment wash critic mad tomorrow";

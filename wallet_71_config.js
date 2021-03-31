@@ -1,1 +1,1 @@
-var mnemonic = "upgrade one thumb vacant innocent danger ask goose trade insane airport claw";
+var mnemonic = "spoil pill direct other mushroom famous virus such link fiction ignore avocado";

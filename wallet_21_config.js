@@ -1,1 +1,1 @@
-var mnemonic = "peace brush link fiber guide laptop trick describe city fish toilet exhibit";
+var mnemonic = "there coconut mother caution situate donor insect monkey surge clump burst glimpse";

@@ -1,1 +1,1 @@
-var mnemonic = "mammal stairs universe habit mean canyon bitter mouse hub lava mammal brown";
+var mnemonic = "shrug way intact jazz axis section tray affair random august garment glance";

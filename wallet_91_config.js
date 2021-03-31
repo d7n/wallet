@@ -1,1 +1,1 @@
-var mnemonic = "weekend bread uncle dilemma able oval gauge grass sunset spider grape embrace";
+var mnemonic = "crunch guilt usage work essence misery remain traffic afford hungry infant entire";

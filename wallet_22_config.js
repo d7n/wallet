@@ -1,1 +1,1 @@
-var mnemonic = "mercy excite flame renew other drip horse cancel gaze bind route will";
+var mnemonic = "remove increase absorb expect weapon derive fault jaguar skull target debate onion";

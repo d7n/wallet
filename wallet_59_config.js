@@ -1,1 +1,1 @@
-var mnemonic = "reject dry silk glove account pig oven illness box turkey banner torch";
+var mnemonic = "segment banner old list room over chapter slender peace throw speed elephant";

@@ -1,1 +1,1 @@
-var mnemonic = "replace sock cage situate surround crash magnet cash mind topic skill claw";
+var mnemonic = "thing behind spawn velvet proof output blouse where tortoise sweet perfect youth";

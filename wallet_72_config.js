@@ -1,1 +1,1 @@
-var mnemonic = "daughter erosion wonder august fire high glass tourist ketchup aware vault scale";
+var mnemonic = "clever shy answer siren middle thing gas genuine hurt wage clarify mix";

@@ -1,1 +1,1 @@
-var mnemonic = "excess rich account race april cradle dog dial crunch furnace grain army";
+var mnemonic = "slush public orchard connect stove human autumn ugly occur seed dose sword";

@@ -1,1 +1,1 @@
-var mnemonic = "empty leisure level neck custom angry dilemma attract funny clump wolf shield";
+var mnemonic = "echo onion great champion remind method today actor cause blade old spread";

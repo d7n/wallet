@@ -1,1 +1,1 @@
-var mnemonic = "live orient typical pluck unique concert tattoo viable spoil viable cabin parent";
+var mnemonic = "sick lunch royal donkey ceiling sauce squirrel avoid expose orient toward obscure";

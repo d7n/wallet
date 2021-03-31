@@ -1,1 +1,1 @@
-var mnemonic = "dignity menu luxury bench stamp grape run quality analyst swing exchange bulb";
+var mnemonic = "nothing wage rose axis copper dwarf unusual crime fire cup pledge peasant";

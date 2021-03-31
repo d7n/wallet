@@ -1,1 +1,1 @@
-var mnemonic = "wisdom family collect female program ten total journey track hurry damp around";
+var mnemonic = "day property member pigeon when nut mistake deny sauce decline kit glimpse";

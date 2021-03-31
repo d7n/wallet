@@ -1,1 +1,1 @@
-var mnemonic = "exchange divide surround spice tower hundred slush table cattle nominee still fire";
+var mnemonic = "hero media cram basket junior earth outside vapor onion park flower visa";

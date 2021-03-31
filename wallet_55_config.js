@@ -1,1 +1,1 @@
-var mnemonic = "robot uncle belt glove deputy fly orchard process loan fish fossil argue";
+var mnemonic = "raven come blame equal dizzy problem van item gadget pride satisfy hotel";

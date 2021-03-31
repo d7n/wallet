@@ -1,1 +1,1 @@
-var mnemonic = "cook tilt crystal slide dog net stool work fame junior menu settle";
+var mnemonic = "obtain say project rabbit velvet cook rude make cupboard donate maid text";

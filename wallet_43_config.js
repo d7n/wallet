@@ -1,1 +1,1 @@
-var mnemonic = "toddler kind decorate perfect help silver match fiber bring evolve valid wonder";
+var mnemonic = "hurry spray monkey sphere change laptop board unusual then unusual assume father";

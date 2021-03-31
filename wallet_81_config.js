@@ -1,1 +1,1 @@
-var mnemonic = "mail strategy copper choice mimic away social rude breeze diagram cake nephew";
+var mnemonic = "cry million crater attitude fine silver frequent congress ecology isolate catch poem";

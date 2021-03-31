@@ -1,1 +1,1 @@
-var mnemonic = "forum easy scatter chaos bachelor figure during cause spy drastic must stool";
+var mnemonic = "inmate first shy letter alpha young cherry cargo aim fitness outside nasty";

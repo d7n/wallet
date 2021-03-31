@@ -1,1 +1,1 @@
-var mnemonic = "dragon tired snap drift arrow extra apple clock wide trial wolf outer";
+var mnemonic = "gift possible stay plug ordinary tuition pottery exhaust leopard sibling dune clerk";

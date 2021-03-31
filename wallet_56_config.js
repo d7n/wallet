@@ -1,1 +1,1 @@
-var mnemonic = "auto blur minor fatal bundle physical stock decade april north rose pig";
+var mnemonic = "arrow menu enemy already share stool suggest escape magic uniform embark sick";

@@ -1,1 +1,1 @@
-var mnemonic = "goat market pull project jeans attack inform toward motion van word across";
+var mnemonic = "twelve route north laundry silver certain sudden wire pen nice list wash";

@@ -1,1 +1,1 @@
-var mnemonic = "improve evil shine bench paper stadium actor behind shiver there mystery addict";
+var mnemonic = "fabric example color word venture collect master sunny focus absent video away";

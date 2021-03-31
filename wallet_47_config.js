@@ -1,1 +1,1 @@
-var mnemonic = "power crime famous casual pumpkin jump wheel minute raw lift drop swear";
+var mnemonic = "attract company where better gloom letter cement junk detail vast river exchange";

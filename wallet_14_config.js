@@ -1,1 +1,1 @@
-var mnemonic = "wisdom sick giggle crazy patrol odor sell swarm blame hand weapon senior";
+var mnemonic = "chase pause phrase okay gloom army brother final height marble list warm";

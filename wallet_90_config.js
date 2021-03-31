@@ -1,1 +1,1 @@
-var mnemonic = "truly tent giant snake front spice phrase dynamic staff found abandon beauty";
+var mnemonic = "torch autumn man sphere wrestle hill gallery opinion special rigid abandon endorse";

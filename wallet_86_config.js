@@ -1,1 +1,1 @@
-var mnemonic = "surround witness hungry repeat crop industry gift save always wing unlock question";
+var mnemonic = "inform twelve section electric eternal note nasty hard speak sadness enlist syrup";

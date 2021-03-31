@@ -1,1 +1,1 @@
-var mnemonic = "dismiss lawsuit weasel shed number pear orange web view unfair teach bulk";
+var mnemonic = "suit spatial axis much gather orient nominee tenant pistol drink guilt inside";

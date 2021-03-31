@@ -1,1 +1,1 @@
-var mnemonic = "sphere trend inhale simple slender kick urban prefer flee pottery quit large";
+var mnemonic = "bunker art shell valley client provide impose able ride task ozone better";

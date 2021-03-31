@@ -1,1 +1,1 @@
-var mnemonic = "crawl table orchard fix bus congress plunge filter plastic under chronic lion";
+var mnemonic = "trick urge swift glad rail brave dwarf organ forward floor bicycle source";

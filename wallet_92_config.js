@@ -1,1 +1,1 @@
-var mnemonic = "immense diagram beauty original vault garment toss animal twenty strong inform thing";
+var mnemonic = "add barely into purse alone copper idea riot mule shift jeans admit";

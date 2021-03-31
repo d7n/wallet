@@ -1,1 +1,1 @@
-var mnemonic = "umbrella produce two into check still salmon nurse flag man lab verify";
+var mnemonic = "merry dizzy type require future scale length empower famous creek lumber upset";

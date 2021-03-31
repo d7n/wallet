@@ -1,1 +1,1 @@
-var mnemonic = "select tank interest slender endorse song deal hurry embrace rapid fox input";
+var mnemonic = "regular attract burst beauty choose stand detail fatigue version loyal token mushroom";

@@ -1,1 +1,1 @@
-var mnemonic = "mind sibling negative cram penalty siren wrist educate boring garlic tube cruise";
+var mnemonic = "mind want come august helmet milk vendor evolve laundry beef strong sniff";

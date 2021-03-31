@@ -1,1 +1,1 @@
-var mnemonic = "foil curious genre security patrol then hire neither play dwarf camp junk";
+var mnemonic = "frozen rubber another athlete universe crazy area donkey sight tortoise stand puppy";

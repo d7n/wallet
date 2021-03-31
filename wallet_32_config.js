@@ -1,1 +1,1 @@
-var mnemonic = "entry flight account history blade boy focus industry hunt devote rotate correct";
+var mnemonic = "same that there actual heavy boy current mix nasty better ball meadow";

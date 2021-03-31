@@ -1,1 +1,1 @@
-var mnemonic = "meadow design between develop primary friend comfort ivory deer neglect city divorce";
+var mnemonic = "pass cigar truly legend stamp crawl until bird improve royal music upset";

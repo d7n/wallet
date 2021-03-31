@@ -1,1 +1,1 @@
-var mnemonic = "ghost push purchase club degree certain check burst address play license math";
+var mnemonic = "lunch juice thunder mouse spell change shell defy festival depth stool chicken";

@@ -1,1 +1,1 @@
-var mnemonic = "winner depth access alone output payment wrong envelope speak program aunt federal";
+var mnemonic = "lava kitten repair fine fitness hour divert test maid stable demand pair";

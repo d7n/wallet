@@ -1,1 +1,1 @@
-var mnemonic = "flight juice toss bargain palm brain husband gas dry window all winner";
+var mnemonic = "tray shiver chef airport please either fiction wise degree solution despair wrestle";

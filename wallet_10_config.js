@@ -1,1 +1,1 @@
-var mnemonic = "pair spread hip breeze tunnel mixture bridge churn debris net correct flock";
+var mnemonic = "pair concert grow denial across dance across relax resist mercy orient patch";

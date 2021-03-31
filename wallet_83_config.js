@@ -1,1 +1,1 @@
-var mnemonic = "hidden squirrel goose dream lens pitch doll month chalk also item avocado";
+var mnemonic = "own kid impulse battle duty remind elegant legal doctor refuse horse curve";

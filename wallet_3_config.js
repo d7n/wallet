@@ -1,1 +1,1 @@
-var mnemonic = "creek plate broom divorce infant few similar client combine clap mandate gospel";
+var mnemonic = "rib emotion enable melt pottery bicycle market there intact cram disease core";

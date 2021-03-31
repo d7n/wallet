@@ -1,1 +1,1 @@
-var mnemonic = "token weather grant weather aunt eye elegant city that arctic knee witness";
+var mnemonic = "law identify come lumber best invest thought where bounce image try toward";

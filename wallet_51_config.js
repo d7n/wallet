@@ -1,1 +1,1 @@
-var mnemonic = "cool acoustic vault deputy clip lion obvious acoustic repair island reward couple";
+var mnemonic = "raccoon throw focus frown bargain taxi rubber bread slab quick old fence";

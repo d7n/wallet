@@ -1,1 +1,1 @@
-var mnemonic = "toe boring crisp excite marriage damp raw metal about debris surprise build";
+var mnemonic = "float host welcome regret fork federal best ugly bulb frog edge govern";

@@ -1,1 +1,1 @@
-var mnemonic = "record anger yard connect awful decline food denial forest next clap ribbon";
+var mnemonic = "danger emerge hungry prepare recall admit bleak inmate ocean mountain ask machine";

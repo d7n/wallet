@@ -1,1 +1,1 @@
-var mnemonic = "theory shift mystery priority crucial ability indoor fragile else diamond dolphin surge";
+var mnemonic = "ship wedding shiver math inspire edge identify oven unfair sand guess message";

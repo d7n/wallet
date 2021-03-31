@@ -1,1 +1,1 @@
-var mnemonic = "comic scan royal inhale inform sound system zebra candy brush hand suffer";
+var mnemonic = "anger toilet figure mobile glass addict fancy wild enforce symptom wise mirror";

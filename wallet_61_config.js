@@ -1,1 +1,1 @@
-var mnemonic = "bullet inquiry fish journey throw friend rude cube march push food forward";
+var mnemonic = "elbow load soccer hand sauce tower carpet sudden bronze seminar push surround";

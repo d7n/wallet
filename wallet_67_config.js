@@ -1,1 +1,1 @@
-var mnemonic = "analyst castle blame evil gate luggage water ball quiz deliver cotton garage";
+var mnemonic = "finish render athlete joy amazing spot century into gospel scissors erosion guess";

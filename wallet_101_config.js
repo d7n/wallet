@@ -1,1 +1,1 @@
-var mnemonic = "find misery disagree wasp stuff hint wink company exact orange until emerge";
+var mnemonic = "sorry year arrange now winter silk scrap kite fold clown habit sample";

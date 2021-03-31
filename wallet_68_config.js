@@ -1,1 +1,1 @@
-var mnemonic = "master cram buyer paddle excuse long prison elevator eagle employ duty drama";
+var mnemonic = "approve budget fit during trash pool large energy lounge opera cattle include";

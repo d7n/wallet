@@ -1,1 +1,1 @@
-var mnemonic = "leisure virtual gift together deer lyrics south guess olympic monster mass artefact";
+var mnemonic = "arrange case task aspect require image enrich nest female antique exile promote";

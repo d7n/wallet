@@ -1,1 +1,1 @@
-var mnemonic = "claim economy shaft scene pupil seminar balcony era fault film address hunt";
+var mnemonic = "village system bronze clap trigger property grid adult slim permit pilot sport";

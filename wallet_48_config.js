@@ -1,1 +1,1 @@
-var mnemonic = "garlic disorder monitor couple lake hole inhale someone garden elegant pond flip";
+var mnemonic = "crazy aerobic pelican clerk erupt leopard busy rice awesome replace between icon";

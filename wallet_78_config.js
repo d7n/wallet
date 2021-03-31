@@ -1,1 +1,1 @@
-var mnemonic = "network move suit high wolf charge green slush olive clump chat style";
+var mnemonic = "hire move leader siren argue act bachelor praise debate sauce victory expect";

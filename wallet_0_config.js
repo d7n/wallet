@@ -1,1 +1,1 @@
-var mnemonic = "forget pill finger bar bag extra spike asset pelican wet ability resist";
+var mnemonic = "armor public favorite vanish mix object push test click piece tiger ocean";

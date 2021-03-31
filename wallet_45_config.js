@@ -1,1 +1,1 @@
-var mnemonic = "violin reward satoshi achieve captain joy rough destroy seven side course roast";
+var mnemonic = "pony armed orbit oven beauty toddler water whale sibling acoustic unaware boy";

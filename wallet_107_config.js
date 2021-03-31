@@ -1,1 +1,1 @@
-var mnemonic = "child north rate drip finger spend banana brother office cover october fiction";
+var mnemonic = "hunt list used describe pizza spoon offer opera talent similar retreat flip";

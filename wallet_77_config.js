@@ -1,1 +1,1 @@
-var mnemonic = "reject blade able repair hip snack sail head reward elite hamster agree";
+var mnemonic = "soul practice check verify jar recipe reform pole left stairs wife assault";

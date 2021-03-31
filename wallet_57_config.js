@@ -1,1 +1,1 @@
-var mnemonic = "grain huge sister cheese message hurry mask error defense patrol shock swim";
+var mnemonic = "typical whale swift frost involve mosquito luggage caught canoe airport seed then";

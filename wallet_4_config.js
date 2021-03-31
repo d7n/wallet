@@ -1,1 +1,1 @@
-var mnemonic = "govern slender rebuild purse powder wife flee west spot pigeon lend average";
+var mnemonic = "wing armed hair grocery popular divide tragic detail jungle shield insect maze";

@@ -1,1 +1,1 @@
-var mnemonic = "enough path excuse hen pole record proof razor acoustic injury stereo sketch";
+var mnemonic = "online tail lunar pepper knock trust wreck airport fragile van apology rebel";

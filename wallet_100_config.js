@@ -1,1 +1,1 @@
-var mnemonic = "flush fault exchange curve dog blur job delay output lucky fashion wing";
+var mnemonic = "gap kingdom middle protect love oak theory tomorrow eyebrow pupil release trend";

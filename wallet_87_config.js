@@ -1,1 +1,1 @@
-var mnemonic = "layer online upgrade emotion lunch drift riot flower evolve wasp van helmet";
+var mnemonic = "chimney virtual eyebrow crucial glove next uphold muscle loud perfect slogan hawk";

@@ -1,1 +1,1 @@
-var mnemonic = "palm question stadium misery elevator display tragic situate reopen dignity denial scene";
+var mnemonic = "reason barrel disorder snap robot blast slow element please layer million volume";

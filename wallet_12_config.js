@@ -1,1 +1,1 @@
-var mnemonic = "example curious gap sadness crash echo hidden label employ bag business insect";
+var mnemonic = "captain enter roast joke shed want weasel wrong want extend dream hold";

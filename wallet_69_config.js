@@ -1,1 +1,1 @@
-var mnemonic = "nerve wheel smoke talk master cool define orient access monitor myth mother";
+var mnemonic = "patrol autumn common purse cloud clinic ginger credit border expect purity auction";

@@ -1,1 +1,1 @@
-var mnemonic = "orphan pilot run lobster congress beyond wrap crack evidence uncle crumble submit";
+var mnemonic = "disorder waste kit narrow salad exercise plastic labor punch east brick shadow";

@@ -1,1 +1,1 @@
-var mnemonic = "upgrade govern camera churn shine sport chronic list amateur goddess awake raven";
+var mnemonic = "memory submit tackle law option hollow absent alert scrap injury clarify clog";

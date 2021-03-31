@@ -1,1 +1,1 @@
-var mnemonic = "current must there athlete horror good immense answer arrest lock either august";
+var mnemonic = "tragic emotion marble inherit able scare follow stage naive wonder slice junk";

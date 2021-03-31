@@ -1,1 +1,1 @@
-var mnemonic = "eye shoulder luggage hen body blast surface east daring fire judge embrace";
+var mnemonic = "then senior patch enable wolf rural museum fever lawsuit select scan little";

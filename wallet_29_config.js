@@ -1,1 +1,1 @@
-var mnemonic = "treat salute girl snow frost own twice crack tiger confirm derive stove";
+var mnemonic = "kitchen sample echo use vacuum oyster wear junior script child history seat";

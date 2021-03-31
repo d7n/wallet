@@ -1,1 +1,1 @@
-var mnemonic = "permit foam erase improve basket town bounce day goat deer token oppose";
+var mnemonic = "lens before galaxy copper team ghost noble liar expose strategy wide drift";

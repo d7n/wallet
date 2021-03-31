@@ -1,1 +1,1 @@
-var mnemonic = "sorry injury better door direct outside sock shrug climb survey bubble mix";
+var mnemonic = "mom grief hello hurry you disagree column wave chef boss man denial";

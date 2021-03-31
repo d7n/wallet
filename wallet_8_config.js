@@ -1,1 +1,1 @@
-var mnemonic = "canoe tongue monitor gloom high decrease casual rabbit dwarf history fat pledge";
+var mnemonic = "arch drum dinosaur direct piece heavy claim debris wine width add lawn";

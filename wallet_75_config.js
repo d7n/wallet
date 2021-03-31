@@ -1,1 +1,1 @@
-var mnemonic = "brain raw rookie runway sausage weekend hobby hub call social debate bicycle";
+var mnemonic = "heavy delay version burst infant shy must else unique sentence coffee message";

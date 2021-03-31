@@ -1,1 +1,1 @@
-var mnemonic = "impulse shrug extra tube limit gasp hedgehog clinic scout member image catch";
+var mnemonic = "exclude name oppose cabbage wealth finger deposit march enjoy melody object end";

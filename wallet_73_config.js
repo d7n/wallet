@@ -1,1 +1,1 @@
-var mnemonic = "nurse giant giggle text story clown front obscure crystal memory good choose";
+var mnemonic = "fatigue blanket canvas disagree area truth enter film stool way roof transfer";

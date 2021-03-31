@@ -1,1 +1,1 @@
-var mnemonic = "swap intact edge impulse current six comic kangaroo invite deputy uncover pilot";
+var mnemonic = "remind gospel tissue thrive mind lawn return scissors banana drill valley pudding";

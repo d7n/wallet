@@ -1,1 +1,1 @@
-var mnemonic = "fresh cabin dismiss clarify churn dirt surprise giant primary wolf rabbit cabbage";
+var mnemonic = "cat cotton magic crash spot loud best speak display omit summer leopard";

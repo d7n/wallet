@@ -1,1 +1,1 @@
-var mnemonic = "beauty board gain erase very fortune artefact unique decorate right weasel swing";
+var mnemonic = "liberty alarm rival exile announce tree artist initial alpha clarify present topic";

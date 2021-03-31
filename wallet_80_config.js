@@ -1,1 +1,1 @@
-var mnemonic = "grab hedgehog rescue horror indoor wish board give romance powder winter vanish";
+var mnemonic = "clutch celery defense later table bulk fatigue team happy kingdom blast stumble";

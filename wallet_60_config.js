@@ -1,1 +1,1 @@
-var mnemonic = "melt hire base reveal smoke come verb black blossom bargain ghost mammal";
+var mnemonic = "nature tent ignore organ crawl bitter assume nuclear exist kangaroo gold tunnel";
