@@ -1,1 +1,1 @@
-var mnemonic = "soda faith bless cart soup poverty tackle leave crime ostrich push skull";
+var mnemonic = "report despair cabbage float admit lottery dignity large series vessel awful gown";

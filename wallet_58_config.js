@@ -1,1 +1,1 @@
-var mnemonic = "spoon simple claim model find key action improve food promote stand spray";
+var mnemonic = "lift dance devote settle bridge forum mosquito mammal opinion average squirrel easily";

@@ -1,1 +1,1 @@
-var mnemonic = "glove tomorrow bamboo unusual slogan kangaroo gym equal sing wood can mention";
+var mnemonic = "kite rookie ring heavy book loyal tag stock exhibit cup scan rice";

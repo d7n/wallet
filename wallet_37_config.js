@@ -1,1 +1,1 @@
-var mnemonic = "turkey neck fancy aim dawn snake sentence example ring trumpet great scan";
+var mnemonic = "absorb history image talent ramp effort orbit fit duck crater eye amount";

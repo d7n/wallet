@@ -1,1 +1,1 @@
-var mnemonic = "foil embrace vacant please south sheriff veteran energy barely dragon task fat";
+var mnemonic = "click pepper purse earn spawn vacuum chuckle chunk connect pact myself unusual";

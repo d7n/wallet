@@ -1,1 +1,1 @@
-var mnemonic = "goddess social essence need fly stamp shop finish tissue blind flash orange";
+var mnemonic = "canyon supreme torch large business sight avoid once weather proud file install";

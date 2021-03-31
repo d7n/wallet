@@ -1,1 +1,1 @@
-var mnemonic = "satisfy place base lottery ostrich depend toddler ethics zebra pool program weasel";
+var mnemonic = "nation country speak practice neither enjoy swamp enemy gather settle tank gentle";

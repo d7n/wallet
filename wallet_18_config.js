@@ -1,1 +1,1 @@
-var mnemonic = "neck life end pudding snap cake kitchen surprise polar scan inner cross";
+var mnemonic = "sort reject print bicycle nuclear birth fence whale brisk clap three give";

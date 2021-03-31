@@ -1,1 +1,1 @@
-var mnemonic = "close refuse better unaware umbrella payment there train swap dinosaur forward pony";
+var mnemonic = "swim brother ceiling sea filter wall tiny man theory kitten ugly run";

@@ -1,1 +1,1 @@
-var mnemonic = "entire luggage hammer sound question angle truth love order system moment body";
+var mnemonic = "exile average crew enemy topic fault slam armed garden wrap notice phrase";

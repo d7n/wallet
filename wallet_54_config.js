@@ -1,1 +1,1 @@
-var mnemonic = "tray shell betray thumb betray wave bunker tunnel wait galaxy because nuclear";
+var mnemonic = "riot gap almost away involve gift fan sand enact arrive dance truth";

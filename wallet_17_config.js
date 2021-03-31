@@ -1,1 +1,1 @@
-var mnemonic = "better ordinary robot permit casino reason stove congress water secret flight crunch";
+var mnemonic = "rather camp piece sudden anger actress walnut hour crime model pact bounce";

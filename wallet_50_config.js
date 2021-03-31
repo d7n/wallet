@@ -1,1 +1,1 @@
-var mnemonic = "defense van middle glue group airport burger skirt brass pumpkin build cattle";
+var mnemonic = "box ripple world great wrap estate depend reform mobile direct once deal";

@@ -1,1 +1,1 @@
-var mnemonic = "scan prefer stereo betray town quiz snow dash coin brave brush expect";
+var mnemonic = "miss regular rail struggle debate left belt globe student pyramid exist when";

@@ -1,1 +1,1 @@
-var mnemonic = "chef inflict plate hollow renew thing word olympic cinnamon gasp impose gun";
+var mnemonic = "match decide kidney pool flower certain paddle typical general alpha cousin catalog";

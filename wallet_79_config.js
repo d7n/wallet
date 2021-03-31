@@ -1,1 +1,1 @@
-var mnemonic = "oblige poem road edit apple weasel lumber universe arrive ostrich occur rhythm";
+var mnemonic = "believe message ritual garbage merit guilt disease tuition sphere distance trash earn";

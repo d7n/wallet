@@ -1,1 +1,1 @@
-var mnemonic = "critic pyramid chicken poem nation chest parent world swarm shock film fatal";
+var mnemonic = "speed access poverty track quick enemy yard dirt daughter select misery wait";

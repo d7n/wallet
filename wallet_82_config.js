@@ -1,1 +1,1 @@
-var mnemonic = "lava discover appear cycle victory harsh actress dance reflect climb real exclude";
+var mnemonic = "wild flower indoor diesel pottery female initial subway run nominee turkey exit";

@@ -1,1 +1,1 @@
-var mnemonic = "mixture lady kingdom poet argue fitness prison tray pencil enjoy finish latin";
+var mnemonic = "way panther enable immense shine scale butter pool glad estate gesture puppy";

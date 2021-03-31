@@ -1,1 +1,1 @@
-var mnemonic = "monster summer quick replace avocado approve reduce runway away scare orbit behave";
+var mnemonic = "cruel candy music ski all ritual field artwork poet gate keen true";

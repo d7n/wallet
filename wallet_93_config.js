@@ -1,1 +1,1 @@
-var mnemonic = "jeans drive awake finish stomach drastic venture jazz play work cinnamon original";
+var mnemonic = "reflect dinner very crush demise thunder loyal grid sphere gasp man play";

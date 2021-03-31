@@ -1,1 +1,1 @@
-var mnemonic = "cream album limb degree pole monster pipe thing cable unit hazard hard";
+var mnemonic = "solar pepper whip sweet brush atom bicycle license into bubble arrive usual";

@@ -1,1 +1,1 @@
-var mnemonic = "enhance venue iron capable once witness pear umbrella apology few mix denial";
+var mnemonic = "juice century river hurdle reform soup grit calm assume equal artefact seed";

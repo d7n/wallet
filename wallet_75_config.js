@@ -1,1 +1,1 @@
-var mnemonic = "cancel again total visa daring valid material unlock arrive alone riot captain";
+var mnemonic = "reform nation office they unhappy pride point brother car pony despair mass";

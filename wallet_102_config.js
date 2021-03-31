@@ -1,1 +1,1 @@
-var mnemonic = "hen three dune cage oblige blood three page lava broccoli cream agent";
+var mnemonic = "imitate trap crane trumpet gauge champion used brick enlist cruise emotion ordinary";

@@ -1,1 +1,1 @@
-var mnemonic = "nice airport behave rally pretty marriage toilet blue approve gold sport sand";
+var mnemonic = "forget super favorite link wrap brush someone lady critic black chimney enlist";

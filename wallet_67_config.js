@@ -1,1 +1,1 @@
-var mnemonic = "photo shaft speak satoshi blood ordinary version crane clump exchange axis cute";
+var mnemonic = "zero armed easily chalk minimum rigid inner surface cable decrease fine field";

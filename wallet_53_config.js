@@ -1,1 +1,1 @@
-var mnemonic = "ecology rely ability dumb actress comfort cycle range another dragon method oyster";
+var mnemonic = "today alter author release damp august draw magnet pole caution virtual spawn";

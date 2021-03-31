@@ -1,1 +1,1 @@
-var mnemonic = "chair skin train atom pet gospel drip soup warrior kitten trust notice";
+var mnemonic = "must butter sing sting drastic fashion shrimp salad aisle fence afford mom";

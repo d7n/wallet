@@ -1,1 +1,1 @@
-var mnemonic = "utility junk style eagle worth demise there cake thunder thumb betray resemble";
+var mnemonic = "exclude pelican limit wedding lake travel useless despair estate twice banana very";

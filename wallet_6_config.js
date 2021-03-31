@@ -1,1 +1,1 @@
-var mnemonic = "venue retreat spring hundred wear mandate novel vast absorb alarm junior tell";
+var mnemonic = "candy grocery soccer print rice mad color solution toddler nest episode foil";

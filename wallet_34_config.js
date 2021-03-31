@@ -1,1 +1,1 @@
-var mnemonic = "quote sword below balance image impact isolate try only coach muffin salmon";
+var mnemonic = "ugly crazy journey motion cause spend limb apology patient moment reward throw";

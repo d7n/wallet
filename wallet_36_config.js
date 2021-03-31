@@ -1,1 +1,1 @@
-var mnemonic = "fee pole pink kidney engine orbit basic pear scatter slide thing multiply";
+var mnemonic = "process busy soda ahead total globe special sock because nut mass girl";

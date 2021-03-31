@@ -1,1 +1,1 @@
-var mnemonic = "endless broom stool negative sound pole fortune clown genuine menu hope sort";
+var mnemonic = "turkey select six elbow gasp child myself swim erase face abandon trade";

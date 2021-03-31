@@ -1,1 +1,1 @@
-var mnemonic = "little receive universe pencil giant security letter discover intact uncle timber before";
+var mnemonic = "first tiny fork lounge issue test flat mouse power maple laundry agent";

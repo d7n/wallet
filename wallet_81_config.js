@@ -1,1 +1,1 @@
-var mnemonic = "venue hour myth found industry weekend field protect supply range flame salad";
+var mnemonic = "vapor public trial ocean orphan plate theme assume method illegal together relax";

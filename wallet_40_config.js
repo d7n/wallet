@@ -1,1 +1,1 @@
-var mnemonic = "lens one valve recall hub supreme sleep once enact dust avoid capital";
+var mnemonic = "either toilet height enter empty blur february wolf rookie dust dolphin seed";

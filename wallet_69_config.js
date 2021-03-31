@@ -1,1 +1,1 @@
-var mnemonic = "erase provide ability north fiction asthma multiply grab domain angle rail wear";
+var mnemonic = "process input promote comfort vacuum awful few harvest cruel option just crew";

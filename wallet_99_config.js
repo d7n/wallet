@@ -1,1 +1,1 @@
-var mnemonic = "truly vintage profit find relax month deputy garage crash sleep guide brass";
+var mnemonic = "setup bird faint enjoy used bridge file ignore inch stand tattoo motor";

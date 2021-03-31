@@ -1,1 +1,1 @@
-var mnemonic = "kid rural print maid story method involve census speed wheel round plate";
+var mnemonic = "wrong address gold hen answer escape maze offer famous fitness system youth";

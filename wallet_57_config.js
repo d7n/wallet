@@ -1,1 +1,1 @@
-var mnemonic = "exercise garbage point come elder cluster embark surprise adjust empty pink remember";
+var mnemonic = "concert age daughter galaxy that grunt finger cute fox key lemon deputy";

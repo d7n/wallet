@@ -1,1 +1,1 @@
-var mnemonic = "goat cash soda peasant machine crucial broccoli stereo artist mansion gasp category";
+var mnemonic = "sorry blossom purchase sea gaze useless certain say company ghost unaware leg";

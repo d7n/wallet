@@ -1,1 +1,1 @@
-var mnemonic = "field finish only evolve clarify oblige wisdom attitude wrestle suit toddler begin";
+var mnemonic = "tide stomach pride follow tooth false question stereo possible disease pitch refuse";

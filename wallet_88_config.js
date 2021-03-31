@@ -1,1 +1,1 @@
-var mnemonic = "sell puzzle flash defense castle suffer fun priority panther goat child bright";
+var mnemonic = "over poverty mandate already hundred only hope turtle tell scale slide false";

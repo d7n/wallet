@@ -1,1 +1,1 @@
-var mnemonic = "project about pluck bitter critic interest area rebuild ahead rice busy gun";
+var mnemonic = "topple tell recipe token belt adjust solve champion crucial pitch tooth twist";

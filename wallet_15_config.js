@@ -1,1 +1,1 @@
-var mnemonic = "hero electric quality teach high deposit notice spawn winter already february radar";
+var mnemonic = "donate type ghost tent puzzle float recipe mutual sustain ice float car";

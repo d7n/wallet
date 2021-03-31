@@ -1,1 +1,1 @@
-var mnemonic = "proof style journey shadow uniform distance ankle extra goddess curtain blur crisp";
+var mnemonic = "method inmate access enroll drip naive undo gym oil side smile virtual";

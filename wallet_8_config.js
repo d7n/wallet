@@ -1,1 +1,1 @@
-var mnemonic = "okay knee portion fluid unable sketch hybrid tail burst topple artist deputy";
+var mnemonic = "pattern region kite rack squirrel kitten cigar aspect weasel find remain assume";

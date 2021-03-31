@@ -1,1 +1,1 @@
-var mnemonic = "vast access habit staff dynamic stage put slot able quiz cave hip";
+var mnemonic = "harvest true tenant nasty excite company genre foil parent scene emerge play";

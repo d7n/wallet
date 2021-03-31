@@ -1,1 +1,1 @@
-var mnemonic = "aerobic cable hunt rare clump chase obscure comic dinosaur that pelican cricket";
+var mnemonic = "hollow enact pioneer once raise usual youth frost maximum update danger grain";

@@ -1,1 +1,1 @@
-var mnemonic = "round grape bench crystal mouse quality jungle truck civil pulp prevent mosquito";
+var mnemonic = "caught nasty now awake edge truth power frown reveal tortoise unique beef";

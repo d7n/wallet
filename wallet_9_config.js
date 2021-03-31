@@ -1,1 +1,1 @@
-var mnemonic = "rack refuse shrimp allow coach bind guard family pencil tattoo cable typical";
+var mnemonic = "gadget acid kind episode slab window hungry pattern vital glide sweet draft";

@@ -1,1 +1,1 @@
-var mnemonic = "nurse provide team series chicken metal wrestle acid move arrest visit device";
+var mnemonic = "nerve inquiry you image play gallery derive sugar member okay idea ridge";

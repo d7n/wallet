@@ -1,1 +1,1 @@
-var mnemonic = "layer vacant wet weekend cannon announce creek velvet assault expand filter obvious";
+var mnemonic = "learn joy copper chimney bunker mule theme slab veteran practice hard order";

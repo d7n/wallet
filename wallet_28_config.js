@@ -1,1 +1,1 @@
-var mnemonic = "siren weasel vault exhaust update silk cannon diesel pelican smart sea blame";
+var mnemonic = "rent deliver laptop squeeze depart eyebrow leader analyst later stereo slogan perfect";

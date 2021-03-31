@@ -1,1 +1,1 @@
-var mnemonic = "husband leave grunt winter sound quantum plunge carpet awesome mixture warm immense";
+var mnemonic = "quit rice universe danger hundred apart magnet grace fork abstract fashion exact";

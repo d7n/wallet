@@ -1,1 +1,1 @@
-var mnemonic = "hold loud same draft seminar right idea mercy salad total visa avocado";
+var mnemonic = "cage remove useless crack rich host never slogan hammer unfold air color";

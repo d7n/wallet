@@ -1,1 +1,1 @@
-var mnemonic = "liar soul lake similar afford buddy three boss mom affair record squeeze";
+var mnemonic = "rain inhale toast defy foster trouble feature alone wait until spend sport";

@@ -1,1 +1,1 @@
-var mnemonic = "output tuna dignity pony term box loyal eternal obtain trick copper cereal";
+var mnemonic = "crucial agree learn they hold camera small dial evil silk pistol peasant";

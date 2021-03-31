@@ -1,1 +1,1 @@
-var mnemonic = "mutual home mixed bread joke couch cover eye teach square drift hero";
+var mnemonic = "head two pulp defense make unfair genuine already lend fly rapid student";

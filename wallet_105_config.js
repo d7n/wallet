@@ -1,1 +1,1 @@
-var mnemonic = "board code lucky now furnace zero vital detail ski affair april okay";
+var mnemonic = "walk drop rubber shift stay seed bag swing tip cousin wing damp";

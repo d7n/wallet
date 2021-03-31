@@ -1,1 +1,1 @@
-var mnemonic = "best wine coral puppy federal direct grief kid indicate vacant seven plunge";
+var mnemonic = "dwarf result across wreck hurry drastic coin slide smoke amount embark turkey";

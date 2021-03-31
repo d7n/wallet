@@ -1,1 +1,1 @@
-var mnemonic = "ability dignity glory leave gaze odor knock kitten lizard flag inner hunt";
+var mnemonic = "comic velvet image tongue pride fan wish estate exhaust meadow inch parrot";

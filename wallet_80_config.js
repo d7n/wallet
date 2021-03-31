@@ -1,1 +1,1 @@
-var mnemonic = "bonus spread jeans narrow loan nephew poverty system squeeze course you flock";
+var mnemonic = "paper divide erosion puzzle service coast wink cute decide visit lady agree";

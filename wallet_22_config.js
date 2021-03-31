@@ -1,1 +1,1 @@
-var mnemonic = "uncover tired vote west off immune despair voice exchange shift destroy box";
+var mnemonic = "chapter pulp method brass candy flush pudding wheat other immense tiny age";

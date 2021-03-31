@@ -1,1 +1,1 @@
-var mnemonic = "rural peace urge royal shrimp flight sketch master ranch oval exist blast";
+var mnemonic = "casual fiscal blur volume desert text attend measure tray lens uphold car";

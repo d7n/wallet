@@ -1,1 +1,1 @@
-var mnemonic = "stuff brand quantum bronze reopen reunion boil hour silent lunch trap biology";
+var mnemonic = "voice chicken spatial puppy session flat soup ahead clump carbon cupboard capital";

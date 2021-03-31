@@ -1,1 +1,1 @@
-var mnemonic = "umbrella insect grass distance tackle second material hood gym bottom soap ghost";
+var mnemonic = "unique bless squirrel relax chair ticket duck ritual issue inflict execute chimney";

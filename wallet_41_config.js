@@ -1,1 +1,1 @@
-var mnemonic = "river win fruit nice can logic indoor reward topic traffic roof process";
+var mnemonic = "balcony mandate else dose above plastic motion festival vague gesture early there";

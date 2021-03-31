@@ -1,1 +1,1 @@
-var mnemonic = "relief share width rail van inject thought noodle rail wise pool type";
+var mnemonic = "light arrive dumb eager drive body electric tobacco crouch hold pioneer humble";

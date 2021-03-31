@@ -1,1 +1,1 @@
-var mnemonic = "guide region cause humble ethics happy path render tide short acoustic picnic";
+var mnemonic = "skirt occur until truck beyond random misery novel year tray movie issue";

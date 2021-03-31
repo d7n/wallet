@@ -1,1 +1,1 @@
-var mnemonic = "group duty hunt sting charge spy still glide transfer patch like any";
+var mnemonic = "cloud deer lounge device state crawl obey lawn tuna process banner cinnamon";

@@ -1,1 +1,1 @@
-var mnemonic = "mistake today blue fossil possible define follow blanket violin size vibrant nose";
+var mnemonic = "mix sing answer method fish leg gravity actor airport diary slow wall";

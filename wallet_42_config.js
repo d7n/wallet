@@ -1,1 +1,1 @@
-var mnemonic = "oppose vote aim save eager inside unit timber gate hawk wrist crush";
+var mnemonic = "few neither stay spell garlic rare fiber keen one neutral head creek";

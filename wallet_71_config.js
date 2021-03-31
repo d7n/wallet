@@ -1,1 +1,1 @@
-var mnemonic = "brass sauce mandate adjust surround error exact alley visual wagon pudding calm";
+var mnemonic = "prize crop truck talk brisk bullet erode island subway flash anxiety deposit";

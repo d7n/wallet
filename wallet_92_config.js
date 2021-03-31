@@ -1,1 +1,1 @@
-var mnemonic = "copy guilt cloth success rabbit lamp mistake reduce amount radio slender outdoor";
+var mnemonic = "concert fan cart observe lottery forward opera faculty tooth omit weird forward";

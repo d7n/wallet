@@ -1,1 +1,1 @@
-var mnemonic = "clap air staff remember holiday bring shed slim chunk can fault pear";
+var mnemonic = "board calm trade deny leaf tourist able sword release rifle slab silver";

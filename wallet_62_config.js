@@ -1,1 +1,1 @@
-var mnemonic = "awake dish fix scrub veteran daughter tunnel asset abstract expect island silk";
+var mnemonic = "vault girl job sibling monitor since figure repair inspire coconut success canyon";

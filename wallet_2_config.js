@@ -1,1 +1,1 @@
-var mnemonic = "lesson sauce action lonely extra behave other follow name mail analyst suit";
+var mnemonic = "silk october wool vital brain exclude beyond melt term valve forum invest";

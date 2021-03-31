@@ -1,1 +1,1 @@
-var mnemonic = "approve staff mystery learn suit spatial rebuild curious onion tuna song faith";
+var mnemonic = "innocent level area index tube verify nature decade scene attend hungry weasel";

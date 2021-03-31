@@ -1,1 +1,1 @@
-var mnemonic = "strong myself margin mandate side olive undo west tip vintage document ritual";
+var mnemonic = "notice ladder student whip bike blood number increase poem ridge breeze minute";

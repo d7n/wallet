@@ -1,1 +1,1 @@
-var mnemonic = "brush return board danger aim become neck anger patient mechanic comfort much";
+var mnemonic = "broom push catch employ assault please shallow lucky funny eyebrow riot island";

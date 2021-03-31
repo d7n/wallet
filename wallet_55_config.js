@@ -1,1 +1,1 @@
-var mnemonic = "senior tooth bring dash obey quiz cigar violin venture random lake balcony";
+var mnemonic = "split mosquito measure ensure book brief ginger purity soft cluster toward swim";

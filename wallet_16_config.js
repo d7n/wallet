@@ -1,1 +1,1 @@
-var mnemonic = "limit must wide average wheat long divide clutch glass suit horn lyrics";
+var mnemonic = "virus wish release topple south infant frozen street inside globe later donate";

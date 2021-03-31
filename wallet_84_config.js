@@ -1,1 +1,1 @@
-var mnemonic = "sauce connect winter mask travel trip foot hair winter toddler puzzle already";
+var mnemonic = "ketchup skill power claw power usage bring prosper feed ball leaf reward";

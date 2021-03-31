@@ -1,1 +1,1 @@
-var mnemonic = "add grid kingdom toast debris carpet used snack slim mail reform velvet";
+var mnemonic = "erupt gentle term fame behave seek harsh case stereo ethics once tackle";

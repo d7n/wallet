@@ -1,1 +1,1 @@
-var mnemonic = "reject million boss pigeon tortoise produce rocket bean theme eye skate luggage";
+var mnemonic = "kitten acquire obey hover mind rack imitate gasp box all question club";

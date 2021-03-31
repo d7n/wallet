@@ -1,1 +1,1 @@
-var mnemonic = "foot embrace cupboard skill cheap captain begin essence net pottery immune fade";
+var mnemonic = "key match armed item walnut van outer connect uniform drill mango typical";

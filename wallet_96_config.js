@@ -1,1 +1,1 @@
-var mnemonic = "army cricket measure bike humor alcohol unfair funny project catalog visa thumb";
+var mnemonic = "stable distance few accuse napkin scrub adapt window tattoo split allow success";
