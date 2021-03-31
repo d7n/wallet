@@ -1,1 +1,1 @@
-var mnemonic = "half hybrid woman feel wise drift lazy sad wash obtain gather shift";
+var mnemonic = "layer online upgrade emotion lunch drift riot flower evolve wasp van helmet";

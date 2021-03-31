@@ -1,1 +1,1 @@
-var mnemonic = "believe message ritual garbage merit guilt disease tuition sphere distance trash earn";
+var mnemonic = "radar quick legal curious happy birth acoustic click behind scale sword swallow";

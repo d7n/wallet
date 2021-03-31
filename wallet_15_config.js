@@ -1,1 +1,1 @@
-var mnemonic = "donate type ghost tent puzzle float recipe mutual sustain ice float car";
+var mnemonic = "goat market pull project jeans attack inform toward motion van word across";

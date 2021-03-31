@@ -1,1 +1,1 @@
-var mnemonic = "concert age daughter galaxy that grunt finger cute fox key lemon deputy";
+var mnemonic = "grain huge sister cheese message hurry mask error defense patrol shock swim";

@@ -1,1 +1,1 @@
-var mnemonic = "acquire supply spatial clay faculty era design history woman nuclear orient enhance";
+var mnemonic = "limb armor muscle assume boy donor timber tip gesture walnut latin mass";

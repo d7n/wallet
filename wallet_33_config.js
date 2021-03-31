@@ -1,1 +1,1 @@
-var mnemonic = "skirt occur until truck beyond random misery novel year tray movie issue";
+var mnemonic = "ghost push purchase club degree certain check burst address play license math";

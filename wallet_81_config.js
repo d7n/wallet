@@ -1,1 +1,1 @@
-var mnemonic = "vapor public trial ocean orphan plate theme assume method illegal together relax";
+var mnemonic = "mail strategy copper choice mimic away social rude breeze diagram cake nephew";

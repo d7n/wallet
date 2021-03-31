@@ -1,1 +1,1 @@
-var mnemonic = "stable distance few accuse napkin scrub adapt window tattoo split allow success";
+var mnemonic = "kit sample iron thought view high bamboo clog vapor wood world abandon";

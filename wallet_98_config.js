@@ -1,1 +1,1 @@
-var mnemonic = "wrong address gold hen answer escape maze offer famous fitness system youth";
+var mnemonic = "claim economy shaft scene pupil seminar balcony era fault film address hunt";

@@ -1,1 +1,1 @@
-var mnemonic = "learn joy copper chimney bunker mule theme slab veteran practice hard order";
+var mnemonic = "permit foam erase improve basket town bounce day goat deer token oppose";

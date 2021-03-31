@@ -1,1 +1,1 @@
-var mnemonic = "erupt gentle term fame behave seek harsh case stereo ethics once tackle";
+var mnemonic = "mind sibling negative cram penalty siren wrist educate boring garlic tube cruise";

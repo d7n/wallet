@@ -1,1 +1,1 @@
-var mnemonic = "alter retreat genius scatter dinosaur alone eight live island umbrella river brother";
+var mnemonic = "treat salute girl snow frost own twice crack tiger confirm derive stove";

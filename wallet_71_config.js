@@ -1,1 +1,1 @@
-var mnemonic = "prize crop truck talk brisk bullet erode island subway flash anxiety deposit";
+var mnemonic = "upgrade one thumb vacant innocent danger ask goose trade insane airport claw";

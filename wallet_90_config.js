@@ -1,1 +1,1 @@
-var mnemonic = "exile average crew enemy topic fault slam armed garden wrap notice phrase";
+var mnemonic = "truly tent giant snake front spice phrase dynamic staff found abandon beauty";

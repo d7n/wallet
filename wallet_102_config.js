@@ -1,1 +1,1 @@
-var mnemonic = "imitate trap crane trumpet gauge champion used brick enlist cruise emotion ordinary";
+var mnemonic = "live orient typical pluck unique concert tattoo viable spoil viable cabin parent";

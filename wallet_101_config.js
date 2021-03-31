@@ -1,1 +1,1 @@
-var mnemonic = "venue jar stomach now alien gun clerk trumpet worry physical gorilla bread";
+var mnemonic = "find misery disagree wasp stuff hint wink company exact orange until emerge";

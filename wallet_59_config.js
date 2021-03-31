@@ -1,1 +1,1 @@
-var mnemonic = "cruel candy music ski all ritual field artwork poet gate keen true";
+var mnemonic = "reject dry silk glove account pig oven illness box turkey banner torch";

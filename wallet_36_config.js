@@ -1,1 +1,1 @@
-var mnemonic = "process busy soda ahead total globe special sock because nut mass girl";
+var mnemonic = "empty leisure level neck custom angry dilemma attract funny clump wolf shield";

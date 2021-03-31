@@ -1,1 +1,1 @@
-var mnemonic = "sorry blossom purchase sea gaze useless certain say company ghost unaware leg";
+var mnemonic = "select tank interest slender endorse song deal hurry embrace rapid fox input";

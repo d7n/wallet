@@ -1,1 +1,1 @@
-var mnemonic = "satoshi inch ankle aspect bring trend weather fault jelly tiny tiny genuine";
+var mnemonic = "tissue juice make stem supreme occur swim shop faith scare domain explain";

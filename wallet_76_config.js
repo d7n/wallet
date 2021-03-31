@@ -1,1 +1,1 @@
-var mnemonic = "trade hole roof citizen cook movie heart ocean milk light chalk average";
+var mnemonic = "peace cricket page minimum crunch oven rate glow flip market soda bless";

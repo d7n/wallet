@@ -1,1 +1,1 @@
-var mnemonic = "limb fitness raccoon chalk lizard point service iron letter hurt patch flower";
+var mnemonic = "weekend bread uncle dilemma able oval gauge grass sunset spider grape embrace";

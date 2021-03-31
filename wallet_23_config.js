@@ -1,1 +1,1 @@
-var mnemonic = "match decide kidney pool flower certain paddle typical general alpha cousin catalog";
+var mnemonic = "dismiss lawsuit weasel shed number pear orange web view unfair teach bulk";

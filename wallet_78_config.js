@@ -1,1 +1,1 @@
-var mnemonic = "harvest true tenant nasty excite company genre foil parent scene emerge play";
+var mnemonic = "network move suit high wolf charge green slush olive clump chat style";

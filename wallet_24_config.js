@@ -1,1 +1,1 @@
-var mnemonic = "original hotel aware cash shallow lunar antenna eternal claim holiday parrot toast";
+var mnemonic = "exchange divide surround spice tower hundred slush table cattle nominee still fire";

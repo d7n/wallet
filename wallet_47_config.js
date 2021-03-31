@@ -1,1 +1,1 @@
-var mnemonic = "speed access poverty track quick enemy yard dirt daughter select misery wait";
+var mnemonic = "power crime famous casual pumpkin jump wheel minute raw lift drop swear";

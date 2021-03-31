@@ -1,1 +1,1 @@
-var mnemonic = "casual fiscal blur volume desert text attend measure tray lens uphold car";
+var mnemonic = "wisdom sick giggle crazy patrol odor sell swarm blame hand weapon senior";

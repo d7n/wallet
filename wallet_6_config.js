@@ -1,1 +1,1 @@
-var mnemonic = "candy grocery soccer print rice mad color solution toddler nest episode foil";
+var mnemonic = "shine shed birth city captain autumn uncover sad endless pear clay bone";

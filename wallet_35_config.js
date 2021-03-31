@@ -1,1 +1,1 @@
-var mnemonic = "swim brother ceiling sea filter wall tiny man theory kitten ugly run";
+var mnemonic = "improve evil shine bench paper stadium actor behind shiver there mystery addict";

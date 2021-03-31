@@ -1,1 +1,1 @@
-var mnemonic = "cage remove useless crack rich host never slogan hammer unfold air color";
+var mnemonic = "peace brush link fiber guide laptop trick describe city fish toilet exhibit";

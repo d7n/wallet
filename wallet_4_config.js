@@ -1,1 +1,1 @@
-var mnemonic = "extra night attract race more bunker siege length fatigue cat famous raven";
+var mnemonic = "govern slender rebuild purse powder wife flee west spot pigeon lend average";

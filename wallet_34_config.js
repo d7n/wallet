@@ -1,1 +1,1 @@
-var mnemonic = "ugly crazy journey motion cause spend limb apology patient moment reward throw";
+var mnemonic = "mammal stairs universe habit mean canyon bitter mouse hub lava mammal brown";

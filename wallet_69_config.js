@@ -1,1 +1,1 @@
-var mnemonic = "process input promote comfort vacuum awful few harvest cruel option just crew";
+var mnemonic = "nerve wheel smoke talk master cool define orient access monitor myth mother";

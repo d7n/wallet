@@ -1,1 +1,1 @@
-var mnemonic = "dizzy seminar human actress thank enemy equal peanut mechanic ocean toe strike";
+var mnemonic = "impulse shrug extra tube limit gasp hedgehog clinic scout member image catch";

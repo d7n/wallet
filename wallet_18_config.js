@@ -1,1 +1,1 @@
-var mnemonic = "sort reject print bicycle nuclear birth fence whale brisk clap three give";
+var mnemonic = "giraffe rebuild crack joke six patient pause hobby weapon north midnight grow";

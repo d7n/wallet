@@ -1,1 +1,1 @@
-var mnemonic = "broom push catch employ assault please shallow lucky funny eyebrow riot island";
+var mnemonic = "forget pill finger bar bag extra spike asset pelican wet ability resist";

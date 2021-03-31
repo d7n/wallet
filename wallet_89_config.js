@@ -1,1 +1,1 @@
-var mnemonic = "turkey select six elbow gasp child myself swim erase face abandon trade";
+var mnemonic = "dragon tired snap drift arrow extra apple clock wide trial wolf outer";

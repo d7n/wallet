@@ -1,1 +1,1 @@
-var mnemonic = "rather camp piece sudden anger actress walnut hour crime model pact bounce";
+var mnemonic = "crumble pond orange weasel elder mesh toast media away solid sudden tribe";

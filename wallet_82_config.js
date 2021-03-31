@@ -1,1 +1,1 @@
-var mnemonic = "wild flower indoor diesel pottery female initial subway run nominee turkey exit";
+var mnemonic = "orphan pilot run lobster congress beyond wrap crack evidence uncle crumble submit";

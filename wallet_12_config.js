@@ -1,1 +1,1 @@
-var mnemonic = "key match armed item walnut van outer connect uniform drill mango typical";
+var mnemonic = "example curious gap sadness crash echo hidden label employ bag business insect";

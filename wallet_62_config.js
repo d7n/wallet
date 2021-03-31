@@ -1,1 +1,1 @@
-var mnemonic = "vault girl job sibling monitor since figure repair inspire coconut success canyon";
+var mnemonic = "retreat letter mirror kiss host change flush limb fine convince innocent deal";

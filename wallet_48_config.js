@@ -1,1 +1,1 @@
-var mnemonic = "canyon supreme torch large business sight avoid once weather proud file install";
+var mnemonic = "garlic disorder monitor couple lake hole inhale someone garden elegant pond flip";

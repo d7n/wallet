@@ -1,1 +1,1 @@
-var mnemonic = "absorb history image talent ramp effort orbit fit duck crater eye amount";
+var mnemonic = "forum easy scatter chaos bachelor figure during cause spy drastic must stool";

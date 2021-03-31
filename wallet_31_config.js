@@ -1,1 +1,1 @@
-var mnemonic = "way panther enable immense shine scale butter pool glad estate gesture puppy";
+var mnemonic = "beauty board gain erase very fortune artefact unique decorate right weasel swing";

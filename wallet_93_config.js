@@ -1,1 +1,1 @@
-var mnemonic = "reflect dinner very crush demise thunder loyal grid sphere gasp man play";
+var mnemonic = "token weather grant weather aunt eye elegant city that arctic knee witness";

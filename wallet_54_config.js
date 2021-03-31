@@ -1,1 +1,1 @@
-var mnemonic = "riot gap almost away involve gift fan sand enact arrive dance truth";
+var mnemonic = "detail foster forward prize comfort weather mountain rare give fan pottery coconut";

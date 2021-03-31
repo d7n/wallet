@@ -1,1 +1,1 @@
-var mnemonic = "unique bless squirrel relax chair ticket duck ritual issue inflict execute chimney";
+var mnemonic = "sphere trend inhale simple slender kick urban prefer flee pottery quit large";

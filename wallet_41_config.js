@@ -1,1 +1,1 @@
-var mnemonic = "balcony mandate else dose above plastic motion festival vague gesture early there";
+var mnemonic = "ticket boat fuel outer emerge honey riot shadow human auto winner give";

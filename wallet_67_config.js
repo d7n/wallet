@@ -1,1 +1,1 @@
-var mnemonic = "zero armed easily chalk minimum rigid inner surface cable decrease fine field";
+var mnemonic = "analyst castle blame evil gate luggage water ball quiz deliver cotton garage";

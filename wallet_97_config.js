@@ -1,1 +1,1 @@
-var mnemonic = "oval powder cable glide noise fit mobile elite pulse erode humble area";
+var mnemonic = "learn skull attract stem shiver crumble genuine screen essence similar burden tribe";

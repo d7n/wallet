@@ -1,1 +1,1 @@
-var mnemonic = "light arrive dumb eager drive body electric tobacco crouch hold pioneer humble";
+var mnemonic = "equip motor hard episode federal miracle right diet fork stem sausage miss";

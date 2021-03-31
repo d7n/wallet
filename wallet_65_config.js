@@ -1,1 +1,1 @@
-var mnemonic = "must butter sing sting drastic fashion shrimp salad aisle fence afford mom";
+var mnemonic = "enough path excuse hen pole record proof razor acoustic injury stereo sketch";

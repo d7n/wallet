@@ -1,1 +1,1 @@
-var mnemonic = "much bounce carry artefact silent minimum grow hurry funny side spend gain";
+var mnemonic = "sword pill awful dolphin public pretty enact sugar vacuum unlock snake armed";

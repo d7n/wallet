@@ -1,1 +1,1 @@
-var mnemonic = "rain inhale toast defy foster trouble feature alone wait until spend sport";
+var mnemonic = "wisdom family collect female program ten total journey track hurry damp around";

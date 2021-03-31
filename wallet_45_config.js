@@ -1,1 +1,1 @@
-var mnemonic = "exclude pelican limit wedding lake travel useless despair estate twice banana very";
+var mnemonic = "violin reward satoshi achieve captain joy rough destroy seven side course roast";

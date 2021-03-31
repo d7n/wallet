@@ -1,1 +1,1 @@
-var mnemonic = "click pepper purse earn spawn vacuum chuckle chunk connect pact myself unusual";
+var mnemonic = "profit excuse dune hazard team claim left valley permit lamp wink main";

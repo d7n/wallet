@@ -1,1 +1,1 @@
-var mnemonic = "caught nasty now awake edge truth power frown reveal tortoise unique beef";
+var mnemonic = "creek plate broom divorce infant few similar client combine clap mandate gospel";

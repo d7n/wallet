@@ -1,1 +1,1 @@
-var mnemonic = "dwarf result across wreck hurry drastic coin slide smoke amount embark turkey";
+var mnemonic = "toe boring crisp excite marriage damp raw metal about debris surprise build";

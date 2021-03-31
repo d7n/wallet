@@ -1,1 +1,1 @@
-var mnemonic = "kitten acquire obey hover mind rack imitate gasp box all question club";
+var mnemonic = "hidden squirrel goose dream lens pitch doll month chalk also item avocado";

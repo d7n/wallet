@@ -1,1 +1,1 @@
-var mnemonic = "involve away private kid catalog resemble aware twist rug jump issue other";
+var mnemonic = "myth upper they mammal ostrich brown myth action scare satisfy unfold song";

@@ -1,1 +1,1 @@
-var mnemonic = "report despair cabbage float admit lottery dignity large series vessel awful gown";
+var mnemonic = "pair spread hip breeze tunnel mixture bridge churn debris net correct flock";

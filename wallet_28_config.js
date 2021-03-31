@@ -1,1 +1,1 @@
-var mnemonic = "rent deliver laptop squeeze depart eyebrow leader analyst later stereo slogan perfect";
+var mnemonic = "alarm soccer armor bitter odor ridge grass nose crowd invest math inject";

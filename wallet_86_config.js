@@ -1,1 +1,1 @@
-var mnemonic = "juice century river hurdle reform soup grit calm assume equal artefact seed";
+var mnemonic = "surround witness hungry repeat crop industry gift save always wing unlock question";

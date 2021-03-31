@@ -1,1 +1,1 @@
-var mnemonic = "concert fan cart observe lottery forward opera faculty tooth omit weird forward";
+var mnemonic = "immense diagram beauty original vault garment toss animal twenty strong inform thing";

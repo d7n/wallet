@@ -1,1 +1,1 @@
-var mnemonic = "silk october wool vital brain exclude beyond melt term valve forum invest";
+var mnemonic = "sorry injury better door direct outside sock shrug climb survey bubble mix";

@@ -1,1 +1,1 @@
-var mnemonic = "board calm trade deny leaf tourist able sword release rifle slab silver";
+var mnemonic = "nurse giant giggle text story clown front obscure crystal memory good choose";

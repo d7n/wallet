@@ -1,1 +1,1 @@
-var mnemonic = "few neither stay spell garlic rare fiber keen one neutral head creek";
+var mnemonic = "eye shoulder luggage hen body blast surface east daring fire judge embrace";

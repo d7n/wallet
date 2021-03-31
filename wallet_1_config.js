@@ -1,1 +1,1 @@
-var mnemonic = "solar pepper whip sweet brush atom bicycle license into bubble arrive usual";
+var mnemonic = "replace sock cage situate surround crash magnet cash mind topic skill claw";

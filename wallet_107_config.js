@@ -1,1 +1,1 @@
-var mnemonic = "crucial agree learn they hold camera small dial evil silk pistol peasant";
+var mnemonic = "child north rate drip finger spend banana brother office cover october fiction";

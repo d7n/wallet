@@ -1,1 +1,1 @@
-var mnemonic = "method inmate access enroll drip naive undo gym oil side smile virtual";
+var mnemonic = "palm question stadium misery elevator display tragic situate reopen dignity denial scene";

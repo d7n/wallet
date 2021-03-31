@@ -1,1 +1,1 @@
-var mnemonic = "paper divide erosion puzzle service coast wink cute decide visit lady agree";
+var mnemonic = "grab hedgehog rescue horror indoor wish board give romance powder winter vanish";

@@ -1,1 +1,1 @@
-var mnemonic = "comic velvet image tongue pride fan wish estate exhaust meadow inch parrot";
+var mnemonic = "flush fault exchange curve dog blur job delay output lucky fashion wing";

@@ -1,1 +1,1 @@
-var mnemonic = "pattern region kite rack squirrel kitten cigar aspect weasel find remain assume";
+var mnemonic = "canoe tongue monitor gloom high decrease casual rabbit dwarf history fat pledge";

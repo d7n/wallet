@@ -1,1 +1,1 @@
-var mnemonic = "box ripple world great wrap estate depend reform mobile direct once deal";
+var mnemonic = "meadow design between develop primary friend comfort ivory deer neglect city divorce";

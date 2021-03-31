@@ -1,1 +1,1 @@
-var mnemonic = "abandon crouch flock execute orchard valley mobile crunch sting brother puzzle carbon";
+var mnemonic = "toddler kind decorate perfect help silver match fiber bring evolve valid wonder";

@@ -1,1 +1,1 @@
-var mnemonic = "over poverty mandate already hundred only hope turtle tell scale slide false";
+var mnemonic = "dignity menu luxury bench stamp grape run quality analyst swing exchange bulb";

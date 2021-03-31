@@ -1,1 +1,1 @@
-var mnemonic = "kite rookie ring heavy book loyal tag stock exhibit cup scan rice";
+var mnemonic = "leisure virtual gift together deer lyrics south guess olympic monster mass artefact";

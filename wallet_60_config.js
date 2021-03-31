@@ -1,1 +1,1 @@
-var mnemonic = "first tiny fork lounge issue test flat mouse power maple laundry agent";
+var mnemonic = "melt hire base reveal smoke come verb black blossom bargain ghost mammal";

@@ -1,1 +1,1 @@
-var mnemonic = "head two pulp defense make unfair genuine already lend fly rapid student";
+var mnemonic = "bullet inquiry fish journey throw friend rude cube march push food forward";

@@ -1,1 +1,1 @@
-var mnemonic = "quit rice universe danger hundred apart magnet grace fork abstract fashion exact";
+var mnemonic = "foil curious genre security patrol then hire neither play dwarf camp junk";

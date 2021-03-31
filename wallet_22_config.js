@@ -1,1 +1,1 @@
-var mnemonic = "chapter pulp method brass candy flush pudding wheat other immense tiny age";
+var mnemonic = "mercy excite flame renew other drip horse cancel gaze bind route will";

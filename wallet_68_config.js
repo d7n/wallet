@@ -1,1 +1,1 @@
-var mnemonic = "want fitness logic screen erosion midnight private hire stereo wing shop gold";
+var mnemonic = "master cram buyer paddle excuse long prison elevator eagle employ duty drama";

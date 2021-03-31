@@ -1,1 +1,1 @@
-var mnemonic = "reform nation office they unhappy pride point brother car pony despair mass";
+var mnemonic = "brain raw rookie runway sausage weekend hobby hub call social debate bicycle";

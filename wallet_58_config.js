@@ -1,1 +1,1 @@
-var mnemonic = "lift dance devote settle bridge forum mosquito mammal opinion average squirrel easily";
+var mnemonic = "crawl table orchard fix bus congress plunge filter plastic under chronic lion";

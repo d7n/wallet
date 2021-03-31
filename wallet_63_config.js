@@ -1,1 +1,1 @@
-var mnemonic = "early gorilla limb dynamic frame relax throw fringe hurry flame settle choice";
+var mnemonic = "giant busy either term genuine neutral crucial place asset document plunge buddy";

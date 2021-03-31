@@ -1,1 +1,1 @@
-var mnemonic = "either toilet height enter empty blur february wolf rookie dust dolphin seed";
+var mnemonic = "flight juice toss bargain palm brain husband gas dry window all winner";

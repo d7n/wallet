@@ -1,1 +1,1 @@
-var mnemonic = "diamond access ridge fatal oil analyst property salon onion differ pupil knife";
+var mnemonic = "umbrella produce two into check still salmon nurse flag man lab verify";
