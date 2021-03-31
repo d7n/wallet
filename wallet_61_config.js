@@ -1,1 +1,1 @@
-var mnemonic = "transfer decline fresh motor hard tackle sadness once betray all solid vessel";
+var mnemonic = "punch want divorce that dignity toss give alcohol cliff solution craft family";

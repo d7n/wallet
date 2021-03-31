@@ -1,1 +1,1 @@
-var mnemonic = "action goat art cluster boring gentle tape cross traffic glow chapter couple";
+var mnemonic = "token bid current never obey one call obvious family flavor order system";

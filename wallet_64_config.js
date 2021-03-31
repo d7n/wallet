@@ -1,1 +1,1 @@
-var mnemonic = "provide buddy virtual urge ramp popular dawn tail girl furnace seminar phrase";
+var mnemonic = "gaze october student fault month ecology clerk decrease expire police blush fame";

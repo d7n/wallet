@@ -1,1 +1,1 @@
-var mnemonic = "embrace harvest educate bounce under pitch elegant cactus hurdle assault remember buyer";
+var mnemonic = "effort column grit invest enable foam route emotion mule child vote weasel";

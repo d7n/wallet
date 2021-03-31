@@ -1,1 +1,1 @@
-var mnemonic = "slam eye hill energy orphan inspire funny until demand aware truth scene";
+var mnemonic = "december blouse short castle rebel merge deny resource decline elegant skull sentence";

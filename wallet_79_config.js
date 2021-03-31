@@ -1,1 +1,1 @@
-var mnemonic = "pen resource arrive rug update dinosaur grid kid siege join they pond";
+var mnemonic = "typical advice tag thank embrace jungle mixture churn clip prize nominee person";

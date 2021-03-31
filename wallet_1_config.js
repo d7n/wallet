@@ -1,1 +1,1 @@
-var mnemonic = "rain rely receive fit pond donate sunny oil gravity vague invite cinnamon";
+var mnemonic = "tray job sunny above reduce flame violin grass flavor concert hen engine";

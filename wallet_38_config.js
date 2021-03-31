@@ -1,1 +1,1 @@
-var mnemonic = "child unit patient limb tube talent diesel private brown tooth solid urge";
+var mnemonic = "follow wheat virus welcome endless tip better another day example seed notable";

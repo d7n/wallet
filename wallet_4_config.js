@@ -1,1 +1,1 @@
-var mnemonic = "lumber action unique broom brisk provide motor fantasy dune inch utility verify";
+var mnemonic = "shrimp lunar valley fire rural hold gown crater verify page tribe shop";

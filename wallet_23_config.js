@@ -1,1 +1,1 @@
-var mnemonic = "text forget frozen trigger initial rich private absurd distance meat fade belt";
+var mnemonic = "blood siege service candy spice clutch pelican trust help income sheriff fog";

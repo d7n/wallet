@@ -1,1 +1,1 @@
-var mnemonic = "plate blanket range test check morning curious velvet child dragon pulp omit";
+var mnemonic = "ridge advance orphan shield version hedgehog such spatial power shift skirt tide";

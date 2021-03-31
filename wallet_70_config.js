@@ -1,1 +1,1 @@
-var mnemonic = "divorce pond nest obey urge funny flavor practice shrimp wreck robot become";
+var mnemonic = "banner audit canoe curious select search fury slot flower nest weekend clarify";

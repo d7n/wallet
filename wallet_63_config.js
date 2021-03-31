@@ -1,1 +1,1 @@
-var mnemonic = "motion party cloud usage stem excess gadget act cargo food sustain under";
+var mnemonic = "ring sense rabbit shiver diagram click robot recipe time toilet clown unit";

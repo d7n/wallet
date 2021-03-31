@@ -1,1 +1,1 @@
-var mnemonic = "bottom project limb solar addict desert poem cotton cheap vital young garment";
+var mnemonic = "donor vital tree duck witness captain asset pilot illness play media basket";

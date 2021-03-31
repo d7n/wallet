@@ -1,1 +1,1 @@
-var mnemonic = "guard cool boil salmon version coach assault letter chief obscure potato venture";
+var mnemonic = "maid spy capital defy offer piece slide mercy glad life dress good";

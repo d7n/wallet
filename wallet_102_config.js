@@ -1,1 +1,1 @@
-var mnemonic = "burden glimpse remember deal hover jungle exotic cake speak aspect exclude method";
+var mnemonic = "enjoy favorite team prevent wasp plastic bid infant grape artist situate auto";

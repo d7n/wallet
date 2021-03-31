@@ -1,1 +1,1 @@
-var mnemonic = "panel bind violin try weekend pause trade green dawn answer input guide";
+var mnemonic = "business earn wine found true evolve unknown famous impulse rabbit forward motor";

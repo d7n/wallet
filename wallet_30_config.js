@@ -1,1 +1,1 @@
-var mnemonic = "ugly upset sting random miracle unlock velvet crash shallow spell speak little";
+var mnemonic = "verb cover embrace predict timber build meadow canvas orient spray track auto";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic royal viable marriage menu pattern once alcohol industry seat spy frown";
+var mnemonic = "island frozen image crane number pave grow anger climb rotate blouse black";

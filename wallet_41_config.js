@@ -1,1 +1,1 @@
-var mnemonic = "alert main rigid concert inflict seminar van dinner ceiling tortoise dose ridge";
+var mnemonic = "certain inject length since north cherry sea alert frame sword humor increase";

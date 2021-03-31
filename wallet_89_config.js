@@ -1,1 +1,1 @@
-var mnemonic = "cruel act surge inquiry canal awake convince enjoy crew fossil time brave";
+var mnemonic = "swim identify awake buyer final answer dream shrimp bargain misery clever toy";

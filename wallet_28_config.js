@@ -1,1 +1,1 @@
-var mnemonic = "wreck suffer seek mesh away select stove square question glide business glance";
+var mnemonic = "suit winter exchange distance vessel turtle arm illness hedgehog detect label stumble";

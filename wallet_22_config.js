@@ -1,1 +1,1 @@
-var mnemonic = "federal car island idle card hammer render replace fish text evoke rigid";
+var mnemonic = "garage sea embody suffer nuclear hair syrup media broccoli blossom much spray";

@@ -1,1 +1,1 @@
-var mnemonic = "can perfect candy hamster actor leader mouse then pond aspect magic lamp";
+var mnemonic = "inform before athlete rebel shove image kind point warrior grocery bind menu";

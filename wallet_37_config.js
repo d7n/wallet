@@ -1,1 +1,1 @@
-var mnemonic = "attitude pair disease mix twice flat avocado elite flee saddle flip obvious";
+var mnemonic = "punch arena stone mountain spy someone science boil tunnel night fluid leopard";

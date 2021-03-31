@@ -1,1 +1,1 @@
-var mnemonic = "buffalo art edit swamp limb accident split warrior coral decide mule clerk";
+var mnemonic = "silk shell clerk rail together claim issue ginger pencil essay bubble craft";

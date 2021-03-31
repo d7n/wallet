@@ -1,1 +1,1 @@
-var mnemonic = "pass system mail void fruit pizza window theme tattoo dumb knee response";
+var mnemonic = "addict merit swamp fortune rug mango blind favorite cousin state initial combine";

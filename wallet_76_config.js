@@ -1,1 +1,1 @@
-var mnemonic = "calm rich ritual transfer force ancient clarify edge frown sure fragile shoot";
+var mnemonic = "purse tissue enter unfair merge hundred clean need tent void nest share";

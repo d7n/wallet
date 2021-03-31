@@ -1,1 +1,1 @@
-var mnemonic = "runway cheese demise faint alien west barrel vacuum just wrestle glance lake";
+var mnemonic = "echo almost next camera ranch uncle confirm crater elder moment nose strategy";

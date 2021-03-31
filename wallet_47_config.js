@@ -1,1 +1,1 @@
-var mnemonic = "guard circle host country total rack approve sunset victory frog start blood";
+var mnemonic = "autumn title tornado swim wash piano million man woman goose fruit tired";

@@ -1,1 +1,1 @@
-var mnemonic = "slight comic other joke verb average awesome prepare sister evolve economy attitude";
+var mnemonic = "whisper lemon minimum weekend travel document vessel ten help salt city claw";

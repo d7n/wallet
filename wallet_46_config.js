@@ -1,1 +1,1 @@
-var mnemonic = "timber clump avocado arrange popular balance wrestle knife document floor bird season";
+var mnemonic = "episode dentist program charge trade lazy turkey globe nerve ancient any calm";

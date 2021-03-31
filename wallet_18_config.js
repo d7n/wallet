@@ -1,1 +1,1 @@
-var mnemonic = "top crunch spider advice eye rigid hospital differ suggest leaf medal rescue";
+var mnemonic = "anxiety any top rotate there test girl give wear menu early duck";

@@ -1,1 +1,1 @@
-var mnemonic = "agent strike file turn sport large then play dust much device copper";
+var mnemonic = "indoor ivory abstract bus finish around summer busy develop drift suspect guide";

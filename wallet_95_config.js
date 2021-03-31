@@ -1,1 +1,1 @@
-var mnemonic = "fox method senior tail style exercise coin twenty busy artefact transfer oblige";
+var mnemonic = "stool maid top salon vapor squirrel pulse among loop casual present maple";

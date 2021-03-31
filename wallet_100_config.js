@@ -1,1 +1,1 @@
-var mnemonic = "frozen ecology depend hazard desk worth minimum street example ranch diary wish";
+var mnemonic = "property trade isolate limit trial satisfy theme champion space street sound toy";

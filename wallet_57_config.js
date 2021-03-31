@@ -1,1 +1,1 @@
-var mnemonic = "future vehicle try load throw despair napkin oppose oppose film nut stay";
+var mnemonic = "bulk hockey album absent month actual demand forward glance tent under child";

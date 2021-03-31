@@ -1,1 +1,1 @@
-var mnemonic = "pottery treat vast egg case system draft cupboard dry loud legal donor";
+var mnemonic = "category total mesh general embody shoot edge pilot promote around crush web";

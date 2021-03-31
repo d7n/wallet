@@ -1,1 +1,1 @@
-var mnemonic = "bulb call churn endorse subject dune radar gasp boring place shoulder fee";
+var mnemonic = "property solid domain select brain excuse panic thought nest retire pig appear";

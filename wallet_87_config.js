@@ -1,1 +1,1 @@
-var mnemonic = "frost source country route deer bleak skill deposit venture jungle brass sick";
+var mnemonic = "bright birth reflect baby swallow faint maple embody woman floor amount amount";

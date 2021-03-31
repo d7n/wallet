@@ -1,1 +1,1 @@
-var mnemonic = "strike wool prepare endless cliff welcome enrich blame neither abuse green general";
+var mnemonic = "dwarf crouch appear vague sell segment almost claim like enact benefit toddler";

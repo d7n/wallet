@@ -1,1 +1,1 @@
-var mnemonic = "doctor poet proof dragon bleak anxiety album ethics divide vivid tunnel bonus";
+var mnemonic = "column slush body edge alert fall soon digital quarter deer merge confirm";

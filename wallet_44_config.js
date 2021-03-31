@@ -1,1 +1,1 @@
-var mnemonic = "jar vehicle gym master spoon salt include owner twin join wage poem";
+var mnemonic = "corn trade cushion glue wheel mule picture crew cube excess broken catch";

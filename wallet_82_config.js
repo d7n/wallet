@@ -1,1 +1,1 @@
-var mnemonic = "spoil easily page equip frown quote pitch sheriff margin zoo sea bottom";
+var mnemonic = "basic enact bachelor hurry ask quiz lend notice buyer wreck term behave";

@@ -1,1 +1,1 @@
-var mnemonic = "display way blanket embrace across surface author visit rate uncover bright put";
+var mnemonic = "winter setup shed basket excite mention lottery minute junk blanket boil father";

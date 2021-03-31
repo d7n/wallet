@@ -1,1 +1,1 @@
-var mnemonic = "breeze vintage accuse apology blossom caught clutch calm you heart snow abuse";
+var mnemonic = "region truly noise coast shoulder issue task machine orchard palm inch nature";

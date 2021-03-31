@@ -1,1 +1,1 @@
-var mnemonic = "lamp cement egg develop air sleep supply surface apart tissue outdoor april";
+var mnemonic = "school bitter maple share nose spell renew double gauge blossom brush remember";

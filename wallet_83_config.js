@@ -1,1 +1,1 @@
-var mnemonic = "thought onion gasp across torch depend innocent amused hybrid barrel health cherry";
+var mnemonic = "vague dizzy ordinary eye original census prepare winter enter borrow edit climb";

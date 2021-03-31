@@ -1,1 +1,1 @@
-var mnemonic = "add thumb play shaft dream soda scatter magic right air border earth";
+var mnemonic = "away allow sword spin also element thought under omit job trend hotel";

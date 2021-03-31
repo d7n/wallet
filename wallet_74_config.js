@@ -1,1 +1,1 @@
-var mnemonic = "next veteran clarify cheap husband rally sing chunk march author length want";
+var mnemonic = "track rally rely album gate area melody body ordinary chaos castle cherry";

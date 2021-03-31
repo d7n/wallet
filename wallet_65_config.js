@@ -1,1 +1,1 @@
-var mnemonic = "cinnamon maple picture ability hint short snow knife olympic clerk expose ring";
+var mnemonic = "target annual stem member cigar model parent video stable power until funny";

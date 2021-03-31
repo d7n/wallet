@@ -1,1 +1,1 @@
-var mnemonic = "aspect already time table surge rail delay comfort burden tribe float need";
+var mnemonic = "step mango castle glue grab chat oxygen toward clerk visual genre exchange";

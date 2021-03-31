@@ -1,1 +1,1 @@
-var mnemonic = "gather school rent adjust act boil enact lunch federal neither opera card";
+var mnemonic = "arm major bicycle travel undo cupboard film amazing garage fetch acid alter";

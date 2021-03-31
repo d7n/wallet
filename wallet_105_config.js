@@ -1,1 +1,1 @@
-var mnemonic = "deny shiver wave smoke solution figure normal bomb rigid someone weekend jewel";
+var mnemonic = "moon dirt clarify trick evoke myth coin glad mule weasel essence lunar";

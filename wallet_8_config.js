@@ -1,1 +1,1 @@
-var mnemonic = "pave job stock pulp rely glide unhappy siege more issue swarm idea";
+var mnemonic = "grit teach alcohol exhibit course plate father shift day chat avocado autumn";

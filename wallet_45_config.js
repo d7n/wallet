@@ -1,1 +1,1 @@
-var mnemonic = "lake provide valve turkey census glad better square traffic day habit stand";
+var mnemonic = "toddler blossom mix light talent fame discover danger control route motion donkey";

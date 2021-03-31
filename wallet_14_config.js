@@ -1,1 +1,1 @@
-var mnemonic = "bronze space nurse emotion simple stable debris letter animal genius ethics health";
+var mnemonic = "rebel whip birth vendor drum control exit nose prevent ice sport spy";

@@ -1,1 +1,1 @@
-var mnemonic = "baby antenna grief glance way spider tone shrug nurse board arrange bargain";
+var mnemonic = "view labor fever oval liquid key finger silver penalty front drift deal";

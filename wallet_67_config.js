@@ -1,1 +1,1 @@
-var mnemonic = "great gesture lemon material flush voyage actual lucky arrow snake skull genre";
+var mnemonic = "dad sadness evidence theory method cool enact armor open veteran raw vicious";

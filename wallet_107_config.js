@@ -1,1 +1,1 @@
-var mnemonic = "brass cram victory cluster island wink loan dry neither keen bar sample";
+var mnemonic = "grid brave tank lumber decrease lamp lyrics rapid spy trade cherry path";

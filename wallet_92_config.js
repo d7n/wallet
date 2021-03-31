@@ -1,1 +1,1 @@
-var mnemonic = "victory raccoon join hello leg boat obtain topic injury odor velvet inhale";
+var mnemonic = "onion hub mean rebel era range draft repair exhaust helmet bring express";

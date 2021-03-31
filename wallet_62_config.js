@@ -1,1 +1,1 @@
-var mnemonic = "group wire wet pepper grape run detect pluck inflict because notable physical";
+var mnemonic = "budget frequent patch jump peace surface coral siren rough rude start traffic";

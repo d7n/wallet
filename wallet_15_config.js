@@ -1,1 +1,1 @@
-var mnemonic = "message lounge fortune border motor demise aware panel wrist tell faint about";
+var mnemonic = "unit alter diary exist happy game fragile gauge train grocery drop since";

@@ -1,1 +1,1 @@
-var mnemonic = "reduce keep sheriff genre category math net quit crouch layer fork merit";
+var mnemonic = "chaos doll demise cinnamon direct virus pitch rival moon visit hip cactus";

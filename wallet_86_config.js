@@ -1,1 +1,1 @@
-var mnemonic = "artwork glass later raccoon fork menu left aim unfold lunar damp body";
+var mnemonic = "panel celery piano usage burger around gentle odor warfare purpose athlete siren";

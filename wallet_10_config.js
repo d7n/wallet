@@ -1,1 +1,1 @@
-var mnemonic = "cover bonus core amount mention upset mother tomorrow affair panda correct option";
+var mnemonic = "abandon inherit apart critic matrix hybrid level lizard tuna flag toilet fitness";

@@ -1,1 +1,1 @@
-var mnemonic = "nest alert drill patient dignity siege sample indoor secret vague shop polar";
+var mnemonic = "open harvest process liar million trap twist cry miss case tide poet";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange very trial dentist brown report worry brain fortune teach ecology receive";
+var mnemonic = "cup suffer one supreme shallow urban axis sunny collect speak shoot aisle";

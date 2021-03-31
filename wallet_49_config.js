@@ -1,1 +1,1 @@
-var mnemonic = "famous diary polar dog field enter series cupboard identify luggage casino man";
+var mnemonic = "genius curve donate ready panda muffin approve enlist boost layer floor human";

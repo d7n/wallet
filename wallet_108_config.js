@@ -1,1 +1,1 @@
-var mnemonic = "coconut false despair ostrich welcome perfect stock cotton same mesh volcano common";
+var mnemonic = "payment what seat loan bone hockey repair priority they believe battle farm";

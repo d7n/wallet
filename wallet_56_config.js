@@ -1,1 +1,1 @@
-var mnemonic = "gown sign blast bean behave tooth powder bright jaguar machine panther object";
+var mnemonic = "rubber cupboard music hip erupt source ignore journey vintage rapid liquid strong";

@@ -1,1 +1,1 @@
-var mnemonic = "right require scrub noise life miss credit disorder salon napkin satisfy huge";
+var mnemonic = "october provide mandate unable reflect matrix science sick road brother flee goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "source panel require render wife target green admit grass seven ask access";
+var mnemonic = "mesh leave accuse fuel document recycle call ritual swarm future pepper camp";

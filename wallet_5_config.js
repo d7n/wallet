@@ -1,1 +1,1 @@
-var mnemonic = "good sphere cruise acid rich proof fine mask sleep weapon genuine logic";
+var mnemonic = "decrease fee rail mammal scout scrap alpha buyer armor milk increase alcohol";

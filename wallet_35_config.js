@@ -1,1 +1,1 @@
-var mnemonic = "sphere become nominee dilemma wagon between actress warm lab habit stereo fabric";
+var mnemonic = "country cook proud suggest worth essence city wasp level gorilla original liberty";

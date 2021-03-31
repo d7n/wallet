@@ -1,1 +1,1 @@
-var mnemonic = "shock slight avocado width boost typical banner churn analyst purpose grape middle";
+var mnemonic = "vital wise huge soon moment unfold crack merit glance shield inject nation";

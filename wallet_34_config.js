@@ -1,1 +1,1 @@
-var mnemonic = "achieve across assault bright parrot drum bomb square cat crunch wild lonely";
+var mnemonic = "tell wage health gift industry crunch base captain sense middle puzzle lizard";

@@ -1,1 +1,1 @@
-var mnemonic = "trim noble system circle session immune health vanish rice phone guide pipe";
+var mnemonic = "record come flee relief mind drive gloom peanut picture episode dynamic filter";

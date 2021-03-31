@@ -1,1 +1,1 @@
-var mnemonic = "real behave stairs gallery bus odor ignore join wife pass one finger";
+var mnemonic = "nose grid broken capable enemy seven cause nothing nice neglect arrow onion";

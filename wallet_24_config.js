@@ -1,1 +1,1 @@
-var mnemonic = "grief access legal senior seven dilemma era match load stock pioneer beef";
+var mnemonic = "minimum excite brisk quiz gas room stomach robot soon turtle shallow decline";

@@ -1,1 +1,1 @@
-var mnemonic = "envelope carpet chat gas wagon security priority stairs nuclear matter couple satisfy";
+var mnemonic = "evolve journey symptom sell display census maze frown century fortune that buzz";

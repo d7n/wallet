@@ -1,1 +1,1 @@
-var mnemonic = "obscure priority lazy obscure energy insect menu fetch three nominee powder excuse";
+var mnemonic = "combine adult dutch gym movie imitate dune payment toilet remove trap asset";

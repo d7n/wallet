@@ -1,1 +1,1 @@
-var mnemonic = "puppy cigar spatial coconut chronic hidden cup idea ethics source quiz now";
+var mnemonic = "economy mad supreme badge cradle mutual finger awesome simple denial swamp author";

@@ -1,1 +1,1 @@
-var mnemonic = "bonus bronze sniff street list toddler more supreme airport auction name foster";
+var mnemonic = "fruit then swim run estate interest shock people weapon convince ten enjoy";

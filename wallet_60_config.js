@@ -1,1 +1,1 @@
-var mnemonic = "steak engage aerobic board stove frown speak enrich run unit neglect shy";
+var mnemonic = "bunker print ghost salad guide crowd remind oak bean ring chunk sadness";
