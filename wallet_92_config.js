@@ -1,1 +1,1 @@
-var mnemonic = "fetch meadow move juice since rose figure custom east assume opera rail";
+var mnemonic = "spot muffin joy arrive pipe zone cup else moral noble story total";

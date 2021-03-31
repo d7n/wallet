@@ -1,1 +1,1 @@
-var mnemonic = "secret globe immune nurse ripple gorilla lens kitchen update hybrid cinnamon roof";
+var mnemonic = "gap mask element evolve glimpse yellow brick come thumb such grunt noble";

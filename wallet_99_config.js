@@ -1,1 +1,1 @@
-var mnemonic = "autumn buddy elegant anxiety toss embrace arrow inflict erupt impulse female flame";
+var mnemonic = "witness mom sign brief parrot number tribe notable clutch come need security";

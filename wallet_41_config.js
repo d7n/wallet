@@ -1,1 +1,1 @@
-var mnemonic = "clump age oval dinosaur raccoon axis wife trick sad sock carpet orange";
+var mnemonic = "slab grace property gather hazard over horse nest erosion stamp effort flame";

@@ -1,1 +1,1 @@
-var mnemonic = "bleak shiver muffin game average rotate gravity client system above note practice";
+var mnemonic = "bomb then wear universe adult almost easy hurt use artist sight office";

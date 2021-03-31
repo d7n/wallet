@@ -1,1 +1,1 @@
-var mnemonic = "noise stomach egg remain banner crystal person stand oak manage elevator space";
+var mnemonic = "govern various share distance nation wasp since yellow unhappy embrace swap friend";

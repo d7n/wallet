@@ -1,1 +1,1 @@
-var mnemonic = "feature wrestle crawl violin corn breeze output color rally broom regular million";
+var mnemonic = "despair pact humor dumb year gather require tornado boss monitor improve fetch";

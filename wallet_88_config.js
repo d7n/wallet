@@ -1,1 +1,1 @@
-var mnemonic = "gospel dove blood adjust prefer stuff infant artist cable imitate remember gravity";
+var mnemonic = "story split foster fabric garbage animal moral before dignity rescue manual purpose";

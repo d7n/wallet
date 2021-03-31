@@ -1,1 +1,1 @@
-var mnemonic = "advance wrong salon february tray daring cricket buffalo any cage demand surface";
+var mnemonic = "replace fabric layer trade account chef gravity embark insane they arrow detect";

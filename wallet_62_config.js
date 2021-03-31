@@ -1,1 +1,1 @@
-var mnemonic = "narrow hope code liberty aspect impact bitter list cabin marine name hospital";
+var mnemonic = "property wealth surface walnut become civil silk mean wreck lava evolve impact";

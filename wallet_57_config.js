@@ -1,1 +1,1 @@
-var mnemonic = "call sting actress gloom unhappy empty tobacco sort spin napkin answer convince";
+var mnemonic = "hint spoil acid upon number paddle nuclear satisfy sick valid antenna news";

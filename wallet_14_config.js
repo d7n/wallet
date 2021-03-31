@@ -1,1 +1,1 @@
-var mnemonic = "hard bracket crime bicycle elbow stumble ridge claim symbol aware chapter endorse";
+var mnemonic = "say snow hard tobacco spell meadow rookie identify desk magnet gaze impact";

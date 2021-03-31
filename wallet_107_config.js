@@ -1,1 +1,1 @@
-var mnemonic = "grass dynamic bicycle flavor fish country festival divert maximum edge pepper arm";
+var mnemonic = "increase exchange pride crystal tilt tiger hover dad panther post visual toss";

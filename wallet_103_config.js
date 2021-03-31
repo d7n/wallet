@@ -1,1 +1,1 @@
-var mnemonic = "robust raw essence card student ring super shrimp either lend elephant logic";
+var mnemonic = "talent core shoot march wide vacuum island palace velvet obey achieve bring";

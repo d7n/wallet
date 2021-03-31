@@ -1,1 +1,1 @@
-var mnemonic = "army icon latin spare claw dinner wagon afraid trouble negative extra advance";
+var mnemonic = "bag sorry glory harsh engage mouse voyage wolf veteran such excite time";

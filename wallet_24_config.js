@@ -1,1 +1,1 @@
-var mnemonic = "switch property garment essay behave access distance angry fruit daughter romance size";
+var mnemonic = "material front spoil must boss find resource umbrella spawn pen dragon ask";

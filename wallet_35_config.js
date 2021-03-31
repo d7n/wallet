@@ -1,1 +1,1 @@
-var mnemonic = "aisle power base release ethics draft orphan web toddler ball goose banana";
+var mnemonic = "alley assault nominee fly bacon shove exclude seven omit install fashion mention";

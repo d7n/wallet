@@ -1,1 +1,1 @@
-var mnemonic = "state glance nuclear jealous public open fury fan uncover fold pair october";
+var mnemonic = "forest naive robot oxygen twenty awkward salt flat guide moment rubber size";

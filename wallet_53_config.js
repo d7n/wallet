@@ -1,1 +1,1 @@
-var mnemonic = "link alter turkey bubble obvious matter doll chronic agree magnet board private";
+var mnemonic = "obey airport jelly cupboard rigid lab velvet into olive ankle during retire";

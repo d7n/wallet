@@ -1,1 +1,1 @@
-var mnemonic = "please kiss rifle boost squirrel october search drift huge grocery cram excuse";
+var mnemonic = "crew hire embark junior swear penalty clarify spring modify business window mad";

@@ -1,1 +1,1 @@
-var mnemonic = "super silver gym super crumble bounce crumble angry ozone churn essence ask";
+var mnemonic = "north orange puzzle engage happy park fan cluster action daughter vendor betray";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon tuna soda life whisper unusual popular legend develop relief balance drift";
+var mnemonic = "display carbon island barely crew clown reunion charge orbit public tired razor";

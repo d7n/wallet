@@ -1,1 +1,1 @@
-var mnemonic = "flower offer room icon east result journey maze slab minute glue profit";
+var mnemonic = "tank travel warm pet distance rebuild mass bracket describe nature hockey web";

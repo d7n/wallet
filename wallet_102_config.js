@@ -1,1 +1,1 @@
-var mnemonic = "obvious wood never large mail country trap knock adult vehicle blossom reflect";
+var mnemonic = "cradle garment angry idea potato priority raw potato ivory limb wreck climb";

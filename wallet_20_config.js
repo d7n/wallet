@@ -1,1 +1,1 @@
-var mnemonic = "surround banner team state render garbage gasp short edge bean say crisp";
+var mnemonic = "crime slender lucky traffic sock aim fresh pause hour elegant book cluster";

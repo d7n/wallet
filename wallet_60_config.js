@@ -1,1 +1,1 @@
-var mnemonic = "physical hint pilot smart parade trophy faculty snake joy bachelor jaguar pumpkin";
+var mnemonic = "garbage pipe rather flee current ill timber junk snack inquiry blame story";

@@ -1,1 +1,1 @@
-var mnemonic = "hurry normal crack grace crawl logic memory guide ability seven cannon dash";
+var mnemonic = "jealous shift matter snow very garage must axis foam embrace bounce ketchup";

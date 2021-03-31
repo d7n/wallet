@@ -1,1 +1,1 @@
-var mnemonic = "rubber tired want clutch coin royal panther silk settle behind couch script";
+var mnemonic = "travel tube mystery clump topic wreck dizzy loop cricket romance mail police";

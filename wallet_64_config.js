@@ -1,1 +1,1 @@
-var mnemonic = "refuse come artefact rebuild noodle jelly blood sadness design pattern casino ride";
+var mnemonic = "exhaust flower picture someone baby happy bridge chunk very almost estate robust";

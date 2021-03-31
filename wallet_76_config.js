@@ -1,1 +1,1 @@
-var mnemonic = "decrease gain because identify cigar cancel cup jelly sense result unfair test";
+var mnemonic = "next panic spring predict crowd head announce gold unit ignore rebuild top";

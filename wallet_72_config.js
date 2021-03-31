@@ -1,1 +1,1 @@
-var mnemonic = "youth half wrist wheat craft bottom tiger project inspire eager snake derive";
+var mnemonic = "tide guess grain girl garlic flee enough team appear core holiday clean";

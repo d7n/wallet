@@ -1,1 +1,1 @@
-var mnemonic = "feed engage distance three two labor ramp arrive thought fox danger exit";
+var mnemonic = "royal shoot tenant fan eight shoot journey glow space auto vivid weather";

@@ -1,1 +1,1 @@
-var mnemonic = "chat bid price tuition luxury nephew undo satisfy tackle zone transfer emerge";
+var mnemonic = "lobster style never shock trial soccer olive baby alien cradle physical claim";

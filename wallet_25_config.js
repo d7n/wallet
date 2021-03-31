@@ -1,1 +1,1 @@
-var mnemonic = "lend reunion quarter drastic topic dentist indicate share broom canvas diesel pelican";
+var mnemonic = "income chalk satisfy genuine blast crazy claw urge horror vacant envelope merit";

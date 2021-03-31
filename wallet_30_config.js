@@ -1,1 +1,1 @@
-var mnemonic = "pair rival hour clown analyst slice hair pottery jeans undo fury grass";
+var mnemonic = "soccer motor miss inherit museum crucial correct bunker debate gauge demise search";

@@ -1,1 +1,1 @@
-var mnemonic = "income depart appear lock earth uncle unaware ball chest evidence library human";
+var mnemonic = "strong sound struggle circle menu hat cheap oak enjoy stereo pull crucial";

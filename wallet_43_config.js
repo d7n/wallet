@@ -1,1 +1,1 @@
-var mnemonic = "sudden general video electric cruise carbon agent piano street anchor quick rough";
+var mnemonic = "clarify open close dad sponsor armed broccoli violin reopen inspire expire suffer";

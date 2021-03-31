@@ -1,1 +1,1 @@
-var mnemonic = "company glove arch reflect slam grant tiger cost mansion gold uncle screen";
+var mnemonic = "client expose debris injury latin spell smooth arrange exist promote bounce knife";

@@ -1,1 +1,1 @@
-var mnemonic = "swim regular civil defense figure color salad hurt hill liar siege online";
+var mnemonic = "south extend solve quantum funny fossil chaos skate saddle bike job rabbit";

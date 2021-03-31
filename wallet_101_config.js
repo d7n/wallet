@@ -1,1 +1,1 @@
-var mnemonic = "mandate couple pen ten discover phrase duty upset impulse leader ancient click";
+var mnemonic = "prison genre toy cry peasant horn idle wrap title used scale basket";

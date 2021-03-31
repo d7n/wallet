@@ -1,1 +1,1 @@
-var mnemonic = "copy help unaware enough acquire silly monitor exhaust light claw sight orange";
+var mnemonic = "lazy buddy athlete gravity grocery slush resemble sample glory weasel result love";

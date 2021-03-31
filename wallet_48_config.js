@@ -1,1 +1,1 @@
-var mnemonic = "alone holiday upgrade repair shrimp inherit duty shiver vehicle volume math total";
+var mnemonic = "hello nerve acquire finger various flight rebuild twice giant jacket pony black";

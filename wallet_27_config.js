@@ -1,1 +1,1 @@
-var mnemonic = "fabric frame latin accuse brick casino afford hour turtle ceiling film clever";
+var mnemonic = "nothing orange struggle vault twice witness choose opinion gown rather girl lyrics";

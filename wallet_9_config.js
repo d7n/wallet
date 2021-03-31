@@ -1,1 +1,1 @@
-var mnemonic = "tattoo include trust essence response cousin century indoor design frog radar blur";
+var mnemonic = "bag index creek beach innocent tide south brother tissue police cliff retire";

@@ -1,1 +1,1 @@
-var mnemonic = "clock lazy you skull rack suspect nothing impose pledge decrease eternal sniff";
+var mnemonic = "apology pumpkin inspire siege lend endorse file escape original seminar limit fluid";

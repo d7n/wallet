@@ -1,1 +1,1 @@
-var mnemonic = "benefit machine multiply rule begin jar desk used lake because verb nice";
+var mnemonic = "crucial area group album ketchup rifle plate protect unfair involve reward limit";

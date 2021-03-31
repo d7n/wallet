@@ -1,1 +1,1 @@
-var mnemonic = "bike shrimp danger private urge drift truck bench utility enjoy cheese volcano";
+var mnemonic = "throw salmon deny ripple suffer rib agent upgrade upgrade identify eagle inner";

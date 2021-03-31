@@ -1,1 +1,1 @@
-var mnemonic = "absurd dynamic famous parent ask crumble dream balance fish cook service verify";
+var mnemonic = "person voyage more news blush bullet prefer drink monitor common weather crush";

@@ -1,1 +1,1 @@
-var mnemonic = "grain talk toast whip foot half picnic arch traffic expand lyrics gravity";
+var mnemonic = "network salmon stove stumble pony replace ripple tuition plug assume tip ice";

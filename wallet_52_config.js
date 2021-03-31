@@ -1,1 +1,1 @@
-var mnemonic = "grief goddess what keep trim rent domain retreat clump uncover foam relax";
+var mnemonic = "atom inner demise faith crisp village bind broken exact adapt garage run";

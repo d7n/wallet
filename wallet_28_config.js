@@ -1,1 +1,1 @@
-var mnemonic = "material offer will more lion build super leaf million merit setup upon";
+var mnemonic = "walk cluster myth upset kitchen kingdom grit safe square chat execute swamp";

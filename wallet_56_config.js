@@ -1,1 +1,1 @@
-var mnemonic = "exclude vintage fiscal solution interest dinosaur sadness tackle disorder chief near boss";
+var mnemonic = "odor exhaust cheap cattle struggle attend priority real green man pitch album";

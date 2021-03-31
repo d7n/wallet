@@ -1,1 +1,1 @@
-var mnemonic = "profit result together session parent sea drop wing fall message weasel clever";
+var mnemonic = "rather mesh forget health eager point coil latin soon air young scare";

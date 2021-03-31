@@ -1,1 +1,1 @@
-var mnemonic = "gallery ski faint emotion receive bunker catch squirrel enter solid prevent sustain";
+var mnemonic = "dismiss elegant denial broom pizza flush escape morning world auction antenna table";

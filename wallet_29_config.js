@@ -1,1 +1,1 @@
-var mnemonic = "combine tissue cream lunar organ easy boy melt announce excite zone scene";
+var mnemonic = "tenant grid estate report retire zoo flavor park warfare cactus race damp";

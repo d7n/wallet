@@ -1,1 +1,1 @@
-var mnemonic = "error cancel neglect winner relax find unlock possible minor wedding degree caught";
+var mnemonic = "document dumb damp lecture bridge amused urge sausage short eight novel couch";

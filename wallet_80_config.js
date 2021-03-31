@@ -1,1 +1,1 @@
-var mnemonic = "slim forest fragile climb jump occur napkin demise luxury matrix used kitchen";
+var mnemonic = "entry cinnamon bundle flame van satoshi smile fun advance pair donate sunny";

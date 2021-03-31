@@ -1,1 +1,1 @@
-var mnemonic = "report rice shoulder cross scrap original tuna book winter already thought dress";
+var mnemonic = "youth purchase talk soft gather execute erosion jewel risk veteran tackle profit";

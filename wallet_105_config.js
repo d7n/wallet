@@ -1,1 +1,1 @@
-var mnemonic = "seed auction mistake buyer rug stamp learn swift canvas pottery tomato marine";
+var mnemonic = "sea frown parent weekend theme leader negative limit rather legal decorate promote";

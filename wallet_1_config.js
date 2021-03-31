@@ -1,1 +1,1 @@
-var mnemonic = "corn leisure task ball ship car pig miss leaf soda nature effort";
+var mnemonic = "loan equip benefit suit trouble test trophy fun pride width raise demand";

@@ -1,1 +1,1 @@
-var mnemonic = "track ship visual easy exchange hockey educate special swing item erosion canal";
+var mnemonic = "avocado mechanic uniform fancy salmon surprise priority pen midnight supply cheese photo";

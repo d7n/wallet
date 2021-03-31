@@ -1,1 +1,1 @@
-var mnemonic = "pledge differ jelly estate one cook canvas shrug magnet wasp fish cave";
+var mnemonic = "wait opinion uniform deliver miracle tuna celery enter fashion before dune viable";

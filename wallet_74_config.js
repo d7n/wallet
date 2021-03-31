@@ -1,1 +1,1 @@
-var mnemonic = "flock tree dynamic garlic agree clean collect fluid unit net pool jacket";
+var mnemonic = "coast wheat erupt wolf juice rely afford tray come rack genius fuel";

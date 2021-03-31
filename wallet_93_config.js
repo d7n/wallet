@@ -1,1 +1,1 @@
-var mnemonic = "defy always salute garden blame design target hair guilt bread gossip wrap";
+var mnemonic = "become coach truly admit chaos mind artwork obvious want police wrist pause";

@@ -1,1 +1,1 @@
-var mnemonic = "ride online add valley version note car power pond music moon decrease";
+var mnemonic = "capable frown hurdle point pulp bone like remove burger february crunch skull";

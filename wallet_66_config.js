@@ -1,1 +1,1 @@
-var mnemonic = "sort tennis deposit anger shuffle bleak awake ridge sphere force river citizen";
+var mnemonic = "bargain join valve cave core wealth genuine purpose satoshi chief column possible";

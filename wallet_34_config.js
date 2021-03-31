@@ -1,1 +1,1 @@
-var mnemonic = "erase vendor ridge force two pet business boy crew law human resource";
+var mnemonic = "cube tumble produce process bean olympic super rate luxury cost kingdom endorse";

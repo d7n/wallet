@@ -1,1 +1,1 @@
-var mnemonic = "choose margin loud pulse science parade velvet bird foam hurry artist conduct";
+var mnemonic = "track exotic december original ill between glory night ridge neck walk organ";

@@ -1,1 +1,1 @@
-var mnemonic = "shop penalty cat night believe spread spoon desk element garlic ensure egg";
+var mnemonic = "shoulder flash link wolf weasel caution affair music prison narrow then romance";

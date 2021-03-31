@@ -1,1 +1,1 @@
-var mnemonic = "face group kind drill suffer nephew steak suspect item grape elder push";
+var mnemonic = "mushroom nature shrimp leader fit jaguar trigger crystal napkin bronze success frog";

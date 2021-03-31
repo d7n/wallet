@@ -1,1 +1,1 @@
-var mnemonic = "plunge mouse slab asthma report veteran basket notice final stage luxury happy";
+var mnemonic = "science throw middle spin network buzz warrior circle core solve sword actor";

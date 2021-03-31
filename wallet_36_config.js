@@ -1,1 +1,1 @@
-var mnemonic = "conduct nurse entry lock exit panda cushion scout observe other odor peanut";
+var mnemonic = "water giant tuition magic nice cruise meadow avoid benefit gentle labor leopard";

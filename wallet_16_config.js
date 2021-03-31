@@ -1,1 +1,1 @@
-var mnemonic = "embark govern local mixed mosquito viable crowd wood water beyond gossip north";
+var mnemonic = "regret father bike youth near coast left hurt glance else tide sadness";

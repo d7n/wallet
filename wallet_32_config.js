@@ -1,1 +1,1 @@
-var mnemonic = "tape album clean capable crazy unfair crush rocket liberty fence verb river";
+var mnemonic = "false can zebra door major tuna problem journey make correct sustain flat";

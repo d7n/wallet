@@ -1,1 +1,1 @@
-var mnemonic = "ahead flame domain ready decline balcony pencil trip mirror wife corn certain";
+var mnemonic = "barely route version address antique steak cupboard stove alcohol because success always";

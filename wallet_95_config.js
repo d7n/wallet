@@ -1,1 +1,1 @@
-var mnemonic = "crater develop round gun once manual hair book mercy diesel misery screen";
+var mnemonic = "wash fabric recycle north drop morning exist index myth dance ladder lock";

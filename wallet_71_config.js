@@ -1,1 +1,1 @@
-var mnemonic = "alter law visual usage goose hedgehog glad happy brisk want rude slab";
+var mnemonic = "kiss crime cactus oyster rare eight tooth ocean venture ring raise office";

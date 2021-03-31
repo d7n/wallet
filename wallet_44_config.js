@@ -1,1 +1,1 @@
-var mnemonic = "viable same view flat attack assault spoil iron crouch myself real nation";
+var mnemonic = "celery physical shield powder dog web coffee cart baby accuse expire oyster";

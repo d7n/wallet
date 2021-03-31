@@ -1,1 +1,1 @@
-var mnemonic = "pen visa begin shoe victory name couple portion frown inflict carry bubble";
+var mnemonic = "tenant lunar surge author around clay endorse bubble sudden message zoo satisfy";

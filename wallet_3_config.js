@@ -1,1 +1,1 @@
-var mnemonic = "nuclear describe manage fold become grape private lounge warm garment junior amount";
+var mnemonic = "junior road identify flat mirror deer fancy rather put size size possible";

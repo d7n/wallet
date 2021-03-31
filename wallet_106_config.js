@@ -1,1 +1,1 @@
-var mnemonic = "middle arctic husband insect ramp mass grunt slight suit series uniform finger";
+var mnemonic = "ramp merge vacant false taste crater series neither horn bone bind hurdle";

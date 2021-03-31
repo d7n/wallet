@@ -1,1 +1,1 @@
-var mnemonic = "dose lazy coconut clap ten border again crunch viable open enough deposit";
+var mnemonic = "heavy purity humble custom cash junk town vague electric midnight feed left";

@@ -1,1 +1,1 @@
-var mnemonic = "industry grit quick fault list marriage all father fitness arrest lift fiction";
+var mnemonic = "boring ticket remove whip health true census raise again want hat galaxy";

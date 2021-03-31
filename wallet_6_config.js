@@ -1,1 +1,1 @@
-var mnemonic = "warrior horror cousin accident scale horn snap into virus cycle crunch vote";
+var mnemonic = "badge clarify cancel mention fork arrange hundred risk exit hope expand sauce";

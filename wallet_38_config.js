@@ -1,1 +1,1 @@
-var mnemonic = "kind wear choice dust glass coconut same multiply broom penalty maximum play";
+var mnemonic = "tree govern initial scrap alien spatial lottery material gentle clean tiny toddler";

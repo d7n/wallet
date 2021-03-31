@@ -1,1 +1,1 @@
-var mnemonic = "similar spatial broken orange refuse group jazz avocado ivory oil salt decline";
+var mnemonic = "birth exotic sure teach people body pistol tree license post amateur bleak";

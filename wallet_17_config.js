@@ -1,1 +1,1 @@
-var mnemonic = "rifle flash mad video express fat huge december now crash control reward";
+var mnemonic = "garment bubble thunder odor tool prefer jelly push cover jeans sadness wrestle";

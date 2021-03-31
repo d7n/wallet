@@ -1,1 +1,1 @@
-var mnemonic = "hobby chuckle shift because roast boil argue asset aware busy empower junior";
+var mnemonic = "jealous laptop tube index vote autumn arrange pioneer ginger used yellow follow";

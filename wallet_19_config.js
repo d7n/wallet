@@ -1,1 +1,1 @@
-var mnemonic = "goddess frost order maximum square reveal voice reopen cream asthma clinic copy";
+var mnemonic = "sword water joke alpha occur ride remain always candy guard eight govern";

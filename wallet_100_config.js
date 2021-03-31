@@ -1,1 +1,1 @@
-var mnemonic = "damp reward whale box wonder dilemma misery column rival million used key";
+var mnemonic = "venue illness present supreme slow remove garage critic mule lucky siren border";

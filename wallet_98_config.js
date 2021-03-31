@@ -1,1 +1,1 @@
-var mnemonic = "abstract inflict program black judge leave shy dinosaur toast educate gloom assault";
+var mnemonic = "alarm usage school degree bundle inflict sunny floor icon ripple output frame";

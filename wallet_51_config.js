@@ -1,1 +1,1 @@
-var mnemonic = "vintage devote entire satoshi lab wild bright space foster finish asthma eager";
+var mnemonic = "loud mountain erupt admit uphold gun direct join crack gauge tail law";

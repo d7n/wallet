@@ -1,1 +1,1 @@
-var mnemonic = "file immense sample sniff train chef payment toy mad victory scissors fuel";
+var mnemonic = "feel absent frozen park nose husband midnight fancy side occur silk author";

@@ -1,1 +1,1 @@
-var mnemonic = "october farm shuffle economy fruit bomb census giant eager ability tuna aisle";
+var mnemonic = "churn tell enable hire first humble submit rabbit pitch jewel omit reopen";

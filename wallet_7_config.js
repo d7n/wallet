@@ -1,1 +1,1 @@
-var mnemonic = "other pyramid nation prize purse juice punch call code almost risk dust";
+var mnemonic = "wrap afford build treat plunge item hospital fury rail truth area bind";

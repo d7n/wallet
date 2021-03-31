@@ -1,1 +1,1 @@
-var mnemonic = "explain traffic yard win current turtle trophy web seven setup can crumble";
+var mnemonic = "tilt strategy flush private canoe depth caution life twice notable world message";

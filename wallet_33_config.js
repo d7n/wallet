@@ -1,1 +1,1 @@
-var mnemonic = "pattern shadow awful giraffe similar ride original convince million hunt unique define";
+var mnemonic = "whisper train jealous six tide globe harvest month mango power number light";

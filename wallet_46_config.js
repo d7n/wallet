@@ -1,1 +1,1 @@
-var mnemonic = "maple job hobby visual siren gesture dirt admit heart blast there isolate";
+var mnemonic = "electric captain butter illness sweet glue filter turkey room luxury truck labor";

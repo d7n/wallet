@@ -1,1 +1,1 @@
-var mnemonic = "acquire child glimpse gold interest profit deny rent lunch cube language address";
+var mnemonic = "payment lyrics unaware exchange purchase short tenant pet young velvet tank enjoy";
