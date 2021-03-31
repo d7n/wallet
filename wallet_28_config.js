@@ -1,1 +1,1 @@
-var mnemonic = "fox negative limit smile sample method excess enjoy glove rather print tackle";
+var mnemonic = "gym galaxy club apology federal forward method unit pig thrive sand win";

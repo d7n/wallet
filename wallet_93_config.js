@@ -1,1 +1,1 @@
-var mnemonic = "rare retire hunt run hammer real mechanic joke silent segment actual rack";
+var mnemonic = "soft worth truth holiday tomorrow narrow emotion opera interest diagram media snake";

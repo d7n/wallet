@@ -1,1 +1,1 @@
-var mnemonic = "leg can giggle purse vague any market say pond sound mail similar";
+var mnemonic = "brush vault spread limit clap minor horse tissue unaware snow motion aim";

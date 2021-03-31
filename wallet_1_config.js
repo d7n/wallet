@@ -1,1 +1,1 @@
-var mnemonic = "sure will shoot primary cost disorder private happy artist utility harvest grocery";
+var mnemonic = "evoke step aerobic keep lonely crumble draw length assume vivid poem swap";

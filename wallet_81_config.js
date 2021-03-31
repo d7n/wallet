@@ -1,1 +1,1 @@
-var mnemonic = "must smooth autumn story fine material seminar theory essay length adjust pony";
+var mnemonic = "beef coast boat carpet trust typical phone thunder rice join library table";

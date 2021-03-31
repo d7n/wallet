@@ -1,1 +1,1 @@
-var mnemonic = "drift exhibit hard young nut resource between level cat furnace coin soldier";
+var mnemonic = "bar stay gravity blur priority dove gesture lens magnet melt swing among";

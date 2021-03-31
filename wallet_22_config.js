@@ -1,1 +1,1 @@
-var mnemonic = "dignity choose autumn punch evoke cable permit nominee bar valid hamster clog";
+var mnemonic = "copy science fetch approve bacon dizzy work public lyrics undo roof panda";

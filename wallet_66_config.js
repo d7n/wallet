@@ -1,1 +1,1 @@
-var mnemonic = "donor ill push account make cradle north front adapt light sauce camera";
+var mnemonic = "myself guess steak run animal east glory evil pill critic reflect pistol";

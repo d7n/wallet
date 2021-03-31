@@ -1,1 +1,1 @@
-var mnemonic = "prosper thank antique guess problem equip problem economy humble sort another kiss";
+var mnemonic = "science erase valve indicate tiny trend cabbage polar motor lounge frozen stuff";

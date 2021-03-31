@@ -1,1 +1,1 @@
-var mnemonic = "today sponsor much real neglect parrot foot shiver mom body brother cage";
+var mnemonic = "despair father lizard purse wife theory insane virus spell cram legal silk";

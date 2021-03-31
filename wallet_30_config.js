@@ -1,1 +1,1 @@
-var mnemonic = "review bean maximum robot scatter artist record cancel dinosaur differ clock pizza";
+var mnemonic = "increase lens spy rigid train pulp strategy gaze tattoo trigger art kangaroo";

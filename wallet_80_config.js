@@ -1,1 +1,1 @@
-var mnemonic = "deposit link differ pattern coffee gate siren target scissors tenant swamp obscure";
+var mnemonic = "next gun crawl donate tree deposit toilet once bring oven oval million";

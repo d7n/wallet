@@ -1,1 +1,1 @@
-var mnemonic = "inside welcome flat fan upgrade metal timber solid wear ozone harsh once";
+var mnemonic = "kit toilet today sphere valley isolate message that illegal audit nut taxi";

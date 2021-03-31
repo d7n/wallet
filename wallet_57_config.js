@@ -1,1 +1,1 @@
-var mnemonic = "recycle rate proud put lift dune decade ocean walnut couch toe absurd";
+var mnemonic = "bone entire giggle cattle nose ripple people fit winner obey sell exercise";

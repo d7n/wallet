@@ -1,1 +1,1 @@
-var mnemonic = "edge deliver mind crush garbage wife budget leave excite bulk hamster electric";
+var mnemonic = "knife bachelor genuine episode script require blouse group sheriff onion artwork uncover";

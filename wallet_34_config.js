@@ -1,1 +1,1 @@
-var mnemonic = "bone consider pig winner equip amateur gorilla sniff object twist floor slab";
+var mnemonic = "height cousin ten deal gorilla expose curve polar online gym zone luggage";

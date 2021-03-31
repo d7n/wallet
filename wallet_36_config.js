@@ -1,1 +1,1 @@
-var mnemonic = "leisure fiber web winner space pistol select adjust cause this kiwi world";
+var mnemonic = "guess piece dizzy pluck explain life between climb jungle ceiling rent fee";

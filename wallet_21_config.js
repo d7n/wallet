@@ -1,1 +1,1 @@
-var mnemonic = "snap forest balcony beyond fatal shrug eternal excuse prevent accuse lock make";
+var mnemonic = "system raccoon forest thank repeat clerk enhance novel mother cash dove stumble";

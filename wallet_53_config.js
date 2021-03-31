@@ -1,1 +1,1 @@
-var mnemonic = "long define chuckle tissue leave core inject spread vast shy goose reject";
+var mnemonic = "pioneer middle hello frown fever universe anxiety culture oxygen empower skull rice";

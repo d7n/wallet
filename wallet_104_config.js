@@ -1,1 +1,1 @@
-var mnemonic = "absorb vacant erosion setup angle energy trap magic chest pipe radar mosquito";
+var mnemonic = "paddle eye vessel inform usage panda lounge clerk tunnel tree average smooth";

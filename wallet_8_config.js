@@ -1,1 +1,1 @@
-var mnemonic = "heavy rack flag wet maid squeeze response east robot sight owner common";
+var mnemonic = "useless repair under keep erupt robust pony duty basket hunt fine chief";

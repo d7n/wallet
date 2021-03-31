@@ -1,1 +1,1 @@
-var mnemonic = "cherry clinic month frog tag feature embrace text produce civil outdoor purse";
+var mnemonic = "patient furnace aerobic radio radio lottery fault all endless scene ladder cheap";

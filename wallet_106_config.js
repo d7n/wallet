@@ -1,1 +1,1 @@
-var mnemonic = "label below ocean rubber inform fatal dune note admit wise mom sense";
+var mnemonic = "father topple memory mask segment project depend critic negative river impact raccoon";

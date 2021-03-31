@@ -1,1 +1,1 @@
-var mnemonic = "hammer dune there wall learn tonight sauce wash coast lonely shed rude";
+var mnemonic = "crater noise fit custom void minor wool recipe enable other bundle prison";

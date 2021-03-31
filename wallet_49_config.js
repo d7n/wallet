@@ -1,1 +1,1 @@
-var mnemonic = "noble finger announce hat theme case undo horror jeans sort lawsuit improve";
+var mnemonic = "frozen long garden sign object pupil fly that leg over cattle wreck";

@@ -1,1 +1,1 @@
-var mnemonic = "sentence business safe use coach panel census point sugar talent program turkey";
+var mnemonic = "tail media palm light morning amateur athlete cliff stamp crazy panic notice";

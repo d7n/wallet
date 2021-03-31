@@ -1,1 +1,1 @@
-var mnemonic = "chaos make lounge gas recall ignore wrap frame insect depth cost okay";
+var mnemonic = "problem link business cram brain pulp circle label panic jewel chest other";

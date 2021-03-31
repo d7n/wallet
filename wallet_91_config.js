@@ -1,1 +1,1 @@
-var mnemonic = "rally squirrel guitar gasp build burger frozen toddler crowd broken pulse dwarf";
+var mnemonic = "wedding quarter question unknown round lunch kitten marble one fetch forget into";

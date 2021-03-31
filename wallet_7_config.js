@@ -1,1 +1,1 @@
-var mnemonic = "art side resource sudden popular upgrade thunder undo over hurry undo radio";
+var mnemonic = "repair same cry rapid bid immune glad sugar learn welcome fashion vintage";

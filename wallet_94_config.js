@@ -1,1 +1,1 @@
-var mnemonic = "gain lounge cupboard resemble sugar fuel runway remove range under soft spring";
+var mnemonic = "say ceiling green sausage spatial bright oil have lend faint blood tuition";

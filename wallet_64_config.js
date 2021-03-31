@@ -1,1 +1,1 @@
-var mnemonic = "fish caught keep february bread strike family knock usual better security stable";
+var mnemonic = "nurse physical taste praise proof fiction rib unusual odor return miracle develop";

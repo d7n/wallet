@@ -1,1 +1,1 @@
-var mnemonic = "record work theme mass drop catalog february regret belt strike arm meadow";
+var mnemonic = "mandate link south sudden virus sport will design other sheriff favorite exchange";

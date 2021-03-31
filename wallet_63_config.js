@@ -1,1 +1,1 @@
-var mnemonic = "tank mother logic gain renew marriage adjust just wool position report second";
+var mnemonic = "mask egg fringe true little advice essay stone salmon village flight analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "sand guess embark memory pitch surprise believe ship nut bag april inject";
+var mnemonic = "type evolve pledge sauce casual squeeze march talk general critic month beauty";

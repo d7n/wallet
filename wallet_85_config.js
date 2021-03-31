@@ -1,1 +1,1 @@
-var mnemonic = "goddess retreat bag arena human weird useless want actress movie size govern";
+var mnemonic = "order pause inside deer crumble learn review cricket throw hour among artist";

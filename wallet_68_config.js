@@ -1,1 +1,1 @@
-var mnemonic = "soap pipe voice alpha toward private birth eagle journey injury estate faith";
+var mnemonic = "present bus quiz silent check replace suit flip bulk degree skate execute";

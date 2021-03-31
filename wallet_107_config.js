@@ -1,1 +1,1 @@
-var mnemonic = "mouse crane convince cousin author life bind post easy marine start fold";
+var mnemonic = "chuckle author slide embrace proof muscle spirit today price borrow inspire play";

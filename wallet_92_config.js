@@ -1,1 +1,1 @@
-var mnemonic = "cube solid motion reflect blame elder caught enrich exile velvet fox pen";
+var mnemonic = "yard path edit wrestle aisle column purse judge crash evolve satisfy orbit";

@@ -1,1 +1,1 @@
-var mnemonic = "tunnel boil meadow shield vault oblige rich tuition original gaze glance regret";
+var mnemonic = "rotate tank world hill circle hope scene modify odor improve section raccoon";

@@ -1,1 +1,1 @@
-var mnemonic = "inform mass void lawsuit midnight width latin citizen hard boat wall suspect";
+var mnemonic = "mixture antenna initial wheat sword wrap suffer soldier palace spike height nasty";

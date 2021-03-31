@@ -1,1 +1,1 @@
-var mnemonic = "rail tiny fatigue seed word truth drift monkey ivory correct drink lottery";
+var mnemonic = "image lunch mixture between because piece boring tray until stumble usage south";

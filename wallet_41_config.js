@@ -1,1 +1,1 @@
-var mnemonic = "begin crush street glow core adult leisure chunk genuine custom shaft oil";
+var mnemonic = "mother spare quick very survey shrug axis clever rally predict tide monkey";

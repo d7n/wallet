@@ -1,1 +1,1 @@
-var mnemonic = "addict december feel gain exact beauty quiz obtain input violin inch grass";
+var mnemonic = "gown fox awesome wood believe frost despair series broom laugh dance multiply";

@@ -1,1 +1,1 @@
-var mnemonic = "shine fluid panther second harbor soul smoke laundry denial evidence claim seek";
+var mnemonic = "grace know anger mirror stay theme bullet cook boring trial assist foot";

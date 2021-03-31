@@ -1,1 +1,1 @@
-var mnemonic = "elbow situate wide mother review unlock sell wife speak dish ocean hammer";
+var mnemonic = "before portion column wish mass swallow name bomb enable decide winner save";

@@ -1,1 +1,1 @@
-var mnemonic = "tuna what use small crane online success between region someone tragic bring";
+var mnemonic = "filter merit brief wasp public december ugly shuffle absorb lock scrub express";

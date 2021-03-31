@@ -1,1 +1,1 @@
-var mnemonic = "problem human polar snow salad drive evidence explain find desk wolf guide";
+var mnemonic = "that payment reflect replace vacant tide waste calm bird acid junior idea";

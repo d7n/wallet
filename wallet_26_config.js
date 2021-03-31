@@ -1,1 +1,1 @@
-var mnemonic = "issue inner upper gift brick panda sniff avoid need unlock announce syrup";
+var mnemonic = "copper cheese genius other rent again ketchup crucial crime blouse total ladder";

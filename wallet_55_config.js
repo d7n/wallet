@@ -1,1 +1,1 @@
-var mnemonic = "divert island goddess ozone taste month empower figure moral squirrel inmate brisk";
+var mnemonic = "helmet wool tape round wealth ramp scheme absurd town kite coral evoke";

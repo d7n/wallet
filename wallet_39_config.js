@@ -1,1 +1,1 @@
-var mnemonic = "orange orange spray lucky wise tackle clean build casual produce traffic tuition";
+var mnemonic = "glass rural cushion foil dune yellow switch page toss cereal property expand";

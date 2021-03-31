@@ -1,1 +1,1 @@
-var mnemonic = "recycle accuse ball shoulder glory van indicate lobster organ lonely ranch gas";
+var mnemonic = "yellow slight wave nasty soup bachelor pipe tray outside hurt fan stable";

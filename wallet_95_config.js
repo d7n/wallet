@@ -1,1 +1,1 @@
-var mnemonic = "beauty purse cycle library float present fatal park coil jump rhythm piano";
+var mnemonic = "assume upgrade jump lava giant proud obtain machine patrol century swap cage";

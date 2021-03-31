@@ -1,1 +1,1 @@
-var mnemonic = "client envelope rabbit sound print advice animal avoid ensure orange village breeze";
+var mnemonic = "crack domain harbor obtain tiger little stove era gentle stumble setup life";

@@ -1,1 +1,1 @@
-var mnemonic = "write total mail body immune legend music cattle stumble auction mango matrix";
+var mnemonic = "cave creek buzz thumb acid fluid town glue steel economy spirit glue";

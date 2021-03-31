@@ -1,1 +1,1 @@
-var mnemonic = "crumble build pupil soldier sentence tennis genre write build price region suspect";
+var mnemonic = "neck drift kick engage side coral lyrics spatial toss valley civil glue";

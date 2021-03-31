@@ -1,1 +1,1 @@
-var mnemonic = "pelican canvas switch hood soap other rally glad talk actress heart extend";
+var mnemonic = "solid color tape train dynamic slight door usual miss funny below riot";

@@ -1,1 +1,1 @@
-var mnemonic = "mushroom spring notice frozen aerobic napkin dune region plate wrestle hair fit";
+var mnemonic = "coach stool play luggage spy annual move base sadness defense rate mean";

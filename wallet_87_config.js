@@ -1,1 +1,1 @@
-var mnemonic = "taxi dilemma romance cancel impose wear misery uncover chair estate cherry choice";
+var mnemonic = "hour nephew insane pool object motor dust gaze easily pony tribe tower";

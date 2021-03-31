@@ -1,1 +1,1 @@
-var mnemonic = "thought improve gate exit observe lemon ball excuse curtain turkey crunch green";
+var mnemonic = "diary gap version curious meadow flower copper kitten fitness room screen blur";

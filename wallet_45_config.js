@@ -1,1 +1,1 @@
-var mnemonic = "message deer situate island release affair pulp open shove unaware recycle private";
+var mnemonic = "bird field foster man claw success satisfy immune result typical cheap replace";

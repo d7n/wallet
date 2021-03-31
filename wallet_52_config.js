@@ -1,1 +1,1 @@
-var mnemonic = "poverty monster able flip fluid utility case engage clean robot clever jewel";
+var mnemonic = "vanish motor rent possible hint furnace two inflict second case prepare long";

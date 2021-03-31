@@ -1,1 +1,1 @@
-var mnemonic = "trash humor canoe still smoke hammer flush column maximum promote artefact flame";
+var mnemonic = "junior miracle cause love help toast struggle swim aunt always pipe pumpkin";

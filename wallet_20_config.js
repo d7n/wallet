@@ -1,1 +1,1 @@
-var mnemonic = "spare imitate walk check pass token buffalo gather frog engine atom night";
+var mnemonic = "category use extra rival viable limit brown cat usage media swarm face";

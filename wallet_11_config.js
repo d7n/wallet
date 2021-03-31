@@ -1,1 +1,1 @@
-var mnemonic = "motor identify inherit search mean feature you neither pride poem mention tongue";
+var mnemonic = "dolphin rent replace oak fiction cube praise scorpion fire chunk elevator weekend";

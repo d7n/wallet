@@ -1,1 +1,1 @@
-var mnemonic = "chase donate climb comfort boil idle wrestle matter mirror index valve notable";
+var mnemonic = "soda buffalo flag there pelican trial pencil food core settle among fitness";

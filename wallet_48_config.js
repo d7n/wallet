@@ -1,1 +1,1 @@
-var mnemonic = "hospital glad few another smooth useful forum toddler mail planet scan arrest";
+var mnemonic = "later gallery nose purse brass limit satoshi call faculty market season reward";

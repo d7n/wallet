@@ -1,1 +1,1 @@
-var mnemonic = "danger tourist husband suggest health upset bacon lucky pen cliff maze praise";
+var mnemonic = "violin million stone risk very decade orphan merit trick impact climb roast";

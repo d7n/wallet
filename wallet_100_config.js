@@ -1,1 +1,1 @@
-var mnemonic = "fluid outside opera actor mad giant code bring buyer dwarf ball tragic";
+var mnemonic = "hair lumber fetch cheap forum plate sock favorite matrix body coral off";

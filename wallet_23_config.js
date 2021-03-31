@@ -1,1 +1,1 @@
-var mnemonic = "clip blanket hard time toward joy clay smart first test apology slight";
+var mnemonic = "dragon quote chase unusual then lift soft peace feel success smooth mention";

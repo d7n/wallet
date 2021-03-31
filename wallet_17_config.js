@@ -1,1 +1,1 @@
-var mnemonic = "burger shrug busy demand merry core exhibit warfare celery tree ketchup torch";
+var mnemonic = "devote hawk pyramid special soul float disease series cupboard sword owner segment";

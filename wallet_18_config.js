@@ -1,1 +1,1 @@
-var mnemonic = "cross school segment arm result utility learn drive team social begin unable";
+var mnemonic = "curtain scissors utility echo universe aim draw busy title kangaroo renew culture";

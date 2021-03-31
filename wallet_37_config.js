@@ -1,1 +1,1 @@
-var mnemonic = "problem tiger south size march race dial three lift surround brave open";
+var mnemonic = "nuclear update mixed buzz soap cement point arrange logic powder bless someone";

@@ -1,1 +1,1 @@
-var mnemonic = "adapt sing stove identify burden fold manage auto finish alley sail over";
+var mnemonic = "brief please call thrive casino attend false list report smoke purpose before";

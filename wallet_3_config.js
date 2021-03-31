@@ -1,1 +1,1 @@
-var mnemonic = "promote kidney wheat phone material stove erase gold snack prepare dice describe";
+var mnemonic = "profit minimum power alter reform adjust rice fade rigid shrimp soap naive";

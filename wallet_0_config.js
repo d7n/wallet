@@ -1,1 +1,1 @@
-var mnemonic = "rough spatial together cigar unlock sheriff hunt antenna iron miracle catch action";
+var mnemonic = "setup garden company behave marine champion ghost regular ecology immune assume ugly";

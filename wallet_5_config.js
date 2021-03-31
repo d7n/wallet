@@ -1,1 +1,1 @@
-var mnemonic = "feed filter enforce fit idea regular manual canal play say meat hire";
+var mnemonic = "nuclear blind tennis taste quote velvet indicate sudden detail transfer detect caught";

@@ -1,1 +1,1 @@
-var mnemonic = "differ noise vicious enable pluck hobby snack beyond wood symptom stage popular";
+var mnemonic = "pair bracket round cannon cost coconut certain brush expose two clerk fuel";

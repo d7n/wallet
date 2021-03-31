@@ -1,1 +1,1 @@
-var mnemonic = "garment horse number clump way ketchup rubber lemon grocery brown debate grunt";
+var mnemonic = "budget rail youth inform whip pull salmon barrel wife horror job draft";

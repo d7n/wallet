@@ -1,1 +1,1 @@
-var mnemonic = "feed polar denial toddler dust wink flush save dune hat another action";
+var mnemonic = "resource scrub awful foam deputy click admit lecture library gloom polar gasp";

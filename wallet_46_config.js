@@ -1,1 +1,1 @@
-var mnemonic = "come shadow subject rely knee just oblige idea farm prison manage renew";
+var mnemonic = "spy pipe weasel fan smile age gate various dune patient brain welcome";

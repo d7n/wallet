@@ -1,1 +1,1 @@
-var mnemonic = "bridge sail mule draw crucial reject orange merry budget step hurry lamp";
+var mnemonic = "clean tonight prison ski neglect kiwi stone pause inquiry earn rifle worth";

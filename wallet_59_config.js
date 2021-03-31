@@ -1,1 +1,1 @@
-var mnemonic = "replace unique prevent aerobic asset machine biology always all cabbage letter replace";
+var mnemonic = "deposit pyramid history erosion flee slide lion there grid artefact business olympic";

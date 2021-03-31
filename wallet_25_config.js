@@ -1,1 +1,1 @@
-var mnemonic = "credit plug actor still globe fitness custom rough galaxy anxiety kiwi then";
+var mnemonic = "fuel wife once wisdom sun main movie youth cup average butter crystal";

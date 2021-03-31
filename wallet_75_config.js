@@ -1,1 +1,1 @@
-var mnemonic = "metal also vessel length goat arrive tone drift ahead snack index loan";
+var mnemonic = "current dust adjust burden prison member crop pelican drastic case pupil salad";

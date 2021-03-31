@@ -1,1 +1,1 @@
-var mnemonic = "tissue inject upper ripple exchange bulb happy brief humble start hope thunder";
+var mnemonic = "shed orient lonely waste tongue issue clump owner worry draft coffee inquiry";

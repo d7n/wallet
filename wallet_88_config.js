@@ -1,1 +1,1 @@
-var mnemonic = "deer office trumpet fix night bronze boost bridge page soon farm bag";
+var mnemonic = "boy album pelican squeeze gauge deny pizza trip hero arrange latin fiscal";

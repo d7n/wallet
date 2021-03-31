@@ -1,1 +1,1 @@
-var mnemonic = "earth tuna breeze cute tired bicycle secret market stomach tiny knife sing";
+var mnemonic = "style exit bomb blood ridge merry live illness rhythm tongue clock base";

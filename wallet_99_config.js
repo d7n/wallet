@@ -1,1 +1,1 @@
-var mnemonic = "brick actor tuna tissue whip clump spray picture stove giggle bomb diagram";
+var mnemonic = "lounge neglect hair wonder engine derive uniform antique cross jeans motor bargain";

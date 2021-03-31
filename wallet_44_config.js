@@ -1,1 +1,1 @@
-var mnemonic = "topple wrong bottom select birth wait dolphin paddle solar garden season cluster";
+var mnemonic = "scan foil sail few fortune theory dream raw powder hazard noise trade";
