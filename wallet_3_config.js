@@ -1,1 +1,1 @@
-var mnemonic = "rib emotion enable melt pottery bicycle market there intact cram disease core";
+var mnemonic = "vote sleep practice skate dismiss mixed shell across creek advance poverty midnight";

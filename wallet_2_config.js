@@ -1,1 +1,1 @@
-var mnemonic = "mom grief hello hurry you disagree column wave chef boss man denial";
+var mnemonic = "grape walk burst angle leader tenant page brain undo detail drop assist";

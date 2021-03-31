@@ -1,1 +1,1 @@
-var mnemonic = "jelly woman angle city arm net inform dress reduce gold patient equip";
+var mnemonic = "leisure must first much rival inject maze refuse squirrel champion twice labor";

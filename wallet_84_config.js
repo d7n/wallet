@@ -1,1 +1,1 @@
-var mnemonic = "danger emerge hungry prepare recall admit bleak inmate ocean mountain ask machine";
+var mnemonic = "february settle giraffe smile pave frown regular bubble shrimp verify couple goat";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon throw focus frown bargain taxi rubber bread slab quick old fence";
+var mnemonic = "crash spring slide solution clutch miss glad victory invest hope breeze wine";

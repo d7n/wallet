@@ -1,1 +1,1 @@
-var mnemonic = "add barely into purse alone copper idea riot mule shift jeans admit";
+var mnemonic = "primary list test decade glare merry museum adjust goddess sad consider pride";

@@ -1,1 +1,1 @@
-var mnemonic = "coil dragon voice sleep length kiss client remind dutch cactus grace ritual";
+var mnemonic = "lumber secret robot scheme urge carbon crystal swarm series else nose glad";

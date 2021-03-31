@@ -1,1 +1,1 @@
-var mnemonic = "arrow menu enemy already share stool suggest escape magic uniform embark sick";
+var mnemonic = "gym robust dry small noble walnut acoustic ability ignore occur wide lava";

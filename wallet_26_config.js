@@ -1,1 +1,1 @@
-var mnemonic = "slush public orchard connect stove human autumn ugly occur seed dose sword";
+var mnemonic = "belt piano glide creek zebra stage rural lens neither tonight predict armed";

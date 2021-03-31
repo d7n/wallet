@@ -1,1 +1,1 @@
-var mnemonic = "regular attract burst beauty choose stand detail fatigue version loyal token mushroom";
+var mnemonic = "glow brick destroy upon worry tool size mandate carry ball fit medal";

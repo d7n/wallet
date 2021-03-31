@@ -1,1 +1,1 @@
-var mnemonic = "thing behind spawn velvet proof output blouse where tortoise sweet perfect youth";
+var mnemonic = "hood decorate thank jar person abandon female border chat human predict lucky";

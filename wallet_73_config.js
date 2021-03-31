@@ -1,1 +1,1 @@
-var mnemonic = "fatigue blanket canvas disagree area truth enter film stool way roof transfer";
+var mnemonic = "arm leisure spirit forum clutch mouse stock illness zebra grocery give seat";

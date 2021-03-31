@@ -1,1 +1,1 @@
-var mnemonic = "village system bronze clap trigger property grid adult slim permit pilot sport";
+var mnemonic = "crowd tower patch buyer donor knee torch human kangaroo discover sad donate";

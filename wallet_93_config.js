@@ -1,1 +1,1 @@
-var mnemonic = "law identify come lumber best invest thought where bounce image try toward";
+var mnemonic = "truck balance soda lazy stock stem rescue destroy clarify warfare bunker twin";

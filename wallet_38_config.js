@@ -1,1 +1,1 @@
-var mnemonic = "turn unlock vivid novel adult list menu reunion proof hat gossip eagle";
+var mnemonic = "favorite fitness wear menu churn crucial script record sleep valley mansion extend";

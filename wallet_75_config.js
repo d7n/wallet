@@ -1,1 +1,1 @@
-var mnemonic = "heavy delay version burst infant shy must else unique sentence coffee message";
+var mnemonic = "ladder rebel speed twist candy slam bracket sort legend aisle jump rigid";

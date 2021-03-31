@@ -1,1 +1,1 @@
-var mnemonic = "finish render athlete joy amazing spot century into gospel scissors erosion guess";
+var mnemonic = "vapor kid dice void flower stock actress keen visual security cry uncle";

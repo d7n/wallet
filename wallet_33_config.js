@@ -1,1 +1,1 @@
-var mnemonic = "lunch juice thunder mouse spell change shell defy festival depth stool chicken";
+var mnemonic = "glimpse sleep useless awkward anchor reopen recipe student away unable flavor siege";

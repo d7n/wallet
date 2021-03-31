@@ -1,1 +1,1 @@
-var mnemonic = "liberty alarm rival exile announce tree artist initial alpha clarify present topic";
+var mnemonic = "doctor floor urge lend use million burden group easily size jazz bunker";

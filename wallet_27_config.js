@@ -1,1 +1,1 @@
-var mnemonic = "memory submit tackle law option hollow absent alert scrap injury clarify clog";
+var mnemonic = "lucky toilet winter suspect victory frost valley dentist double onion much poverty";

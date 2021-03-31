@@ -1,1 +1,1 @@
-var mnemonic = "obtain say project rabbit velvet cook rude make cupboard donate maid text";
+var mnemonic = "crash monster tag lesson gossip release immune clarify gather garment jump brother";

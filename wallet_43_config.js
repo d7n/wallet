@@ -1,1 +1,1 @@
-var mnemonic = "hurry spray monkey sphere change laptop board unusual then unusual assume father";
+var mnemonic = "coffee average book sauce advice fold rebuild outside clock fashion hurt theory";

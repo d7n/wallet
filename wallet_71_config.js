@@ -1,1 +1,1 @@
-var mnemonic = "spoil pill direct other mushroom famous virus such link fiction ignore avocado";
+var mnemonic = "alien divorce entire combine father actress siren case truly arctic engine another";

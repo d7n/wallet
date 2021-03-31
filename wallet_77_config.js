@@ -1,1 +1,1 @@
-var mnemonic = "soul practice check verify jar recipe reform pole left stairs wife assault";
+var mnemonic = "come tank improve warrior metal patrol warfare cute erosion average twin vital";

@@ -1,1 +1,1 @@
-var mnemonic = "arrange case task aspect require image enrich nest female antique exile promote";
+var mnemonic = "path taxi fatal render interest pet small bronze mimic come nurse live";

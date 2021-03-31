@@ -1,1 +1,1 @@
-var mnemonic = "shrug way intact jazz axis section tray affair random august garment glance";
+var mnemonic = "practice visa height advice castle warm off observe evidence olive match sponsor";

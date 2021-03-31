@@ -1,1 +1,1 @@
-var mnemonic = "float host welcome regret fork federal best ugly bulb frog edge govern";
+var mnemonic = "first know stable fabric evolve amount section favorite visa dose mosquito marine";

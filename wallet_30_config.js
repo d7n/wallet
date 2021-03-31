@@ -1,1 +1,1 @@
-var mnemonic = "repair piano motor dance vital grid swarm you close lobster gadget gym";
+var mnemonic = "fragile river snap crazy scan client submit chat friend drive riot misery";

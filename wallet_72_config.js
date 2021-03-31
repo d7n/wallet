@@ -1,1 +1,1 @@
-var mnemonic = "clever shy answer siren middle thing gas genuine hurt wage clarify mix";
+var mnemonic = "fury runway poem enforce type outer expose novel box match body effort";

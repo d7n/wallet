@@ -1,1 +1,1 @@
-var mnemonic = "reason barrel disorder snap robot blast slow element please layer million volume";
+var mnemonic = "guess crush sustain feed eye metal duck special elite wrestle scan grab";

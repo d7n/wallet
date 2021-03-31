@@ -1,1 +1,1 @@
-var mnemonic = "route foil pupil crop reform awful pulp vast police faith share party";
+var mnemonic = "come castle law photo describe invest rival husband picnic walnut mesh sketch";

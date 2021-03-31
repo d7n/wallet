@@ -1,1 +1,1 @@
-var mnemonic = "frozen rubber another athlete universe crazy area donkey sight tortoise stand puppy";
+var mnemonic = "produce ginger duty thought umbrella outside staff potato penalty animal sustain same";

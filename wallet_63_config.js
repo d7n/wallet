@@ -1,1 +1,1 @@
-var mnemonic = "manual vital mixture detail sense gold stumble swap stuff want survey unique";
+var mnemonic = "phrase cousin code sad paddle avoid floor doll alien nest rail shield";

@@ -1,1 +1,1 @@
-var mnemonic = "choose glare crumble course cage extra orient charge remember sphere deputy pill";
+var mnemonic = "tragic demand chest wisdom name donkey bench latin cover peanut swarm van";

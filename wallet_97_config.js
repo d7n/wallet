@@ -1,1 +1,1 @@
-var mnemonic = "genuine session garbage horn story spy poem tattoo leaf amazing join mean";
+var mnemonic = "duck scale nose stand price elegant lend tank brick carbon turn hedgehog";

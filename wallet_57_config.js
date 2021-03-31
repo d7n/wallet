@@ -1,1 +1,1 @@
-var mnemonic = "typical whale swift frost involve mosquito luggage caught canoe airport seed then";
+var mnemonic = "carbon glow wrist reunion civil glue escape melody aspect walk half eight";

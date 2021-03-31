@@ -1,1 +1,1 @@
-var mnemonic = "nature tent ignore organ crawl bitter assume nuclear exist kangaroo gold tunnel";
+var mnemonic = "rescue noodle destroy habit pitch fade prevent gate setup diary over danger";

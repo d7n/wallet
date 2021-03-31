@@ -1,1 +1,1 @@
-var mnemonic = "exclude name oppose cabbage wealth finger deposit march enjoy melody object end";
+var mnemonic = "shield lemon butter police doll army clock brave grit setup lab raccoon";

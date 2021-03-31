@@ -1,1 +1,1 @@
-var mnemonic = "same that there actual heavy boy current mix nasty better ball meadow";
+var mnemonic = "place fox ready type lazy feed grief speed wide together rose pyramid";

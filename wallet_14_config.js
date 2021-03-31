@@ -1,1 +1,1 @@
-var mnemonic = "chase pause phrase okay gloom army brother final height marble list warm";
+var mnemonic = "vicious item boy fall online ill vote can night rate boy special";

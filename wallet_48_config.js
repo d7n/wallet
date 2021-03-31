@@ -1,1 +1,1 @@
-var mnemonic = "crazy aerobic pelican clerk erupt leopard busy rice awesome replace between icon";
+var mnemonic = "crop rebuild erosion joy warm view habit current maid test buzz rail";

@@ -1,1 +1,1 @@
-var mnemonic = "kitchen sample echo use vacuum oyster wear junior script child history seat";
+var mnemonic = "essay trash today dumb syrup palm enforce blanket area endorse ride people";

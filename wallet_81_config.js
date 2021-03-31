@@ -1,1 +1,1 @@
-var mnemonic = "cry million crater attitude fine silver frequent congress ecology isolate catch poem";
+var mnemonic = "meat taste float choice chief battle okay health auto anger salmon phone";

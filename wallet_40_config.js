@@ -1,1 +1,1 @@
-var mnemonic = "tray shiver chef airport please either fiction wise degree solution despair wrestle";
+var mnemonic = "traffic level topple stem east quote express vendor gaze agree refuse trash";

@@ -1,1 +1,1 @@
-var mnemonic = "anger toilet figure mobile glass addict fancy wild enforce symptom wise mirror";
+var mnemonic = "rely genuine inhale differ pulp slush meadow answer board jealous spray choose";

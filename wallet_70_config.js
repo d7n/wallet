@@ -1,1 +1,1 @@
-var mnemonic = "lunar grit shoot tobacco nation solve defy anger whip young permit elephant";
+var mnemonic = "tired divorce submit bamboo example shield nation distance tattoo edge answer december";

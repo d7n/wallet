@@ -1,1 +1,1 @@
-var mnemonic = "pass cigar truly legend stamp crawl until bird improve royal music upset";
+var mnemonic = "stage ivory depth easy scare snap oyster slice shield earn truth merit";

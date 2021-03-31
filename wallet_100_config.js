@@ -1,1 +1,1 @@
-var mnemonic = "gap kingdom middle protect love oak theory tomorrow eyebrow pupil release trend";
+var mnemonic = "include police major holiday fiscal aisle black wrist route tomorrow add because";

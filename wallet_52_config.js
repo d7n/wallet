@@ -1,1 +1,1 @@
-var mnemonic = "lens before galaxy copper team ghost noble liar expose strategy wide drift";
+var mnemonic = "census prefer bonus oven nominee grief oven liberty protect sad coast any";

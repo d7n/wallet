@@ -1,1 +1,1 @@
-var mnemonic = "torch autumn man sphere wrestle hill gallery opinion special rigid abandon endorse";
+var mnemonic = "pink during camera hero nothing balance machine cinnamon salt prepare animal nose";

@@ -1,1 +1,1 @@
-var mnemonic = "remind gospel tissue thrive mind lawn return scissors banana drill valley pudding";
+var mnemonic = "gesture glue dog cluster ensure prepare party welcome solution crack tool eyebrow";

@@ -1,1 +1,1 @@
-var mnemonic = "trick urge swift glad rail brave dwarf organ forward floor bicycle source";
+var mnemonic = "prevent strategy question spice delay swamp certain harbor will jealous license rail";

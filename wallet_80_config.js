@@ -1,1 +1,1 @@
-var mnemonic = "clutch celery defense later table bulk fatigue team happy kingdom blast stumble";
+var mnemonic = "sketch civil aisle blood plastic bounce early bag hint biology good pattern";

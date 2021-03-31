@@ -1,1 +1,1 @@
-var mnemonic = "crunch guilt usage work essence misery remain traffic afford hungry infant entire";
+var mnemonic = "upper verb best draw marine march tide crunch impose maple album have";

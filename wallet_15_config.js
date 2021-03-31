@@ -1,1 +1,1 @@
-var mnemonic = "twelve route north laundry silver certain sudden wire pen nice list wash";
+var mnemonic = "calm screen attitude fossil donkey group nerve cake follow giggle soup usage";

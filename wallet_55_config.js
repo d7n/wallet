@@ -1,1 +1,1 @@
-var mnemonic = "raven come blame equal dizzy problem van item gadget pride satisfy hotel";
+var mnemonic = "grass narrow bronze lawn orchard shadow meadow art morning spider column kingdom";

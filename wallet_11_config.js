@@ -1,1 +1,1 @@
-var mnemonic = "merry dizzy type require future scale length empower famous creek lumber upset";
+var mnemonic = "near recipe dune liquid certain person decrease rude tonight verify picture crowd";

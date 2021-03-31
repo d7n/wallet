@@ -1,1 +1,1 @@
-var mnemonic = "flash siren lend warm unusual weapon choice aerobic scissors pause people identify";
+var mnemonic = "bridge zebra alter now agent peasant stem large sun cruise spike output";

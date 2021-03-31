@@ -1,1 +1,1 @@
-var mnemonic = "sorry year arrange now winter silk scrap kite fold clown habit sample";
+var mnemonic = "document tragic moment route loyal toward flavor gossip net stand ginger reward";

@@ -1,1 +1,1 @@
-var mnemonic = "chimney virtual eyebrow crucial glove next uphold muscle loud perfect slogan hawk";
+var mnemonic = "chimney furnace result smooth slow level joy banner list glare latin motor";

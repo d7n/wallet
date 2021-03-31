@@ -1,1 +1,1 @@
-var mnemonic = "then senior patch enable wolf rural museum fever lawsuit select scan little";
+var mnemonic = "holiday poverty will opera sure immense maple shaft curious assist more climb";

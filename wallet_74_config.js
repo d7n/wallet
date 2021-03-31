@@ -1,1 +1,1 @@
-var mnemonic = "ship wedding shiver math inspire edge identify oven unfair sand guess message";
+var mnemonic = "major right cheese story teach rely more thumb spend chicken fashion cook";

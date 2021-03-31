@@ -1,1 +1,1 @@
-var mnemonic = "educate rival pioneer type soon drink elite elephant only desert connect price";
+var mnemonic = "sure east educate short appear brass floor refuse carbon napkin shell decide";

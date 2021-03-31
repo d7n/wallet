@@ -1,1 +1,1 @@
-var mnemonic = "spice lake dust major shine unfair gap desert plastic blade expect wagon";
+var mnemonic = "wing grief piano step music spoon gauge stove truth worth sibling please";

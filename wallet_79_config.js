@@ -1,1 +1,1 @@
-var mnemonic = "machine destroy pull dragon sock diesel shiver damage wide blue innocent crazy";
+var mnemonic = "soap carry island crime peasant enforce sister cry act bring dawn finger";

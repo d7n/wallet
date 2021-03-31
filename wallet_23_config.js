@@ -1,1 +1,1 @@
-var mnemonic = "suit spatial axis much gather orient nominee tenant pistol drink guilt inside";
+var mnemonic = "mixture palm scare mouse move polar host network oak slice visa jazz";

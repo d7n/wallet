@@ -1,1 +1,1 @@
-var mnemonic = "pony armed orbit oven beauty toddler water whale sibling acoustic unaware boy";
+var mnemonic = "chapter awkward physical away leaf vault resource review essence save finger left";

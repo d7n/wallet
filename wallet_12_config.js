@@ -1,1 +1,1 @@
-var mnemonic = "captain enter roast joke shed want weasel wrong want extend dream hold";
+var mnemonic = "miracle bicycle rack prepare main reopen need matter ask edge chronic news";

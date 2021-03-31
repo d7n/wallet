@@ -1,1 +1,1 @@
-var mnemonic = "inform twelve section electric eternal note nasty hard speak sadness enlist syrup";
+var mnemonic = "enemy century spy theme foster shuffle pear name double flower farm unable";

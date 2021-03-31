@@ -1,1 +1,1 @@
-var mnemonic = "there coconut mother caution situate donor insect monkey surge clump burst glimpse";
+var mnemonic = "circle away prepare stereo pitch cannon believe brave sing start trumpet adult";

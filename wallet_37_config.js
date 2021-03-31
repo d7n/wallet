@@ -1,1 +1,1 @@
-var mnemonic = "inmate first shy letter alpha young cherry cargo aim fitness outside nasty";
+var mnemonic = "dash disagree skirt clay tip put antique spatial dentist energy armed tag";

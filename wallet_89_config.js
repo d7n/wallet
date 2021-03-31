@@ -1,1 +1,1 @@
-var mnemonic = "gift possible stay plug ordinary tuition pottery exhaust leopard sibling dune clerk";
+var mnemonic = "mouse trigger siren emerge kid age oak now ahead ginger language soccer";

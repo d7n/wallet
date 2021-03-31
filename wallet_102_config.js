@@ -1,1 +1,1 @@
-var mnemonic = "sick lunch royal donkey ceiling sauce squirrel avoid expose orient toward obscure";
+var mnemonic = "enter argue income expand tobacco donate foster thought dawn august cube pupil";

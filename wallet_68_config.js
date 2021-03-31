@@ -1,1 +1,1 @@
-var mnemonic = "approve budget fit during trash pool large energy lounge opera cattle include";
+var mnemonic = "ice choice task action today grace skull you female logic ability annual";

@@ -1,1 +1,1 @@
-var mnemonic = "accuse elite rule angle critic wet athlete auto federal never move shoot";
+var mnemonic = "yellow fence orient inmate gap private dentist upon arrow style maple whip";

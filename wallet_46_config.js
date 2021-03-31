@@ -1,1 +1,1 @@
-var mnemonic = "can october shoe settle life acid chronic cruise general poem paper alter";
+var mnemonic = "replace cake fan asset hollow alley taste caution foster drum theory expose";

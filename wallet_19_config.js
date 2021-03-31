@@ -1,1 +1,1 @@
-var mnemonic = "day property member pigeon when nut mistake deny sauce decline kit glimpse";
+var mnemonic = "mobile lava volcano mimic uncover sport torch layer lunch sunset mango throw";

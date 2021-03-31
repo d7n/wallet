@@ -1,1 +1,1 @@
-var mnemonic = "fun replace trumpet impact remove sail gauge surround lava gather desert glue";
+var mnemonic = "spot grief later mother athlete defense chapter onion dawn talent enforce nominee";

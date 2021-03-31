@@ -1,1 +1,1 @@
-var mnemonic = "hero media cram basket junior earth outside vapor onion park flower visa";
+var mnemonic = "confirm bridge favorite pass wrap rapid ancient mystery burger timber around fly";

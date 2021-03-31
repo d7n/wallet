@@ -1,1 +1,1 @@
-var mnemonic = "lava kitten repair fine fitness hour divert test maid stable demand pair";
+var mnemonic = "utility giggle index hamster payment primary wink west romance argue fever flight";

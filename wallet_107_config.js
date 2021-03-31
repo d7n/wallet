@@ -1,1 +1,1 @@
-var mnemonic = "hunt list used describe pizza spoon offer opera talent similar retreat flip";
+var mnemonic = "renew agree casual ladder slice educate false sport buyer fatigue scrub goddess";

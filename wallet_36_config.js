@@ -1,1 +1,1 @@
-var mnemonic = "echo onion great champion remind method today actor cause blade old spread";
+var mnemonic = "ostrich bind tone nerve news orphan refuse focus hybrid entire puzzle true";

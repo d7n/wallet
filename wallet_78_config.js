@@ -1,1 +1,1 @@
-var mnemonic = "hire move leader siren argue act bachelor praise debate sauce victory expect";
+var mnemonic = "peanut aunt deliver husband climb amazing subject truly ozone still valve grocery";

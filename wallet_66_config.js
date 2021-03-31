@@ -1,1 +1,1 @@
-var mnemonic = "what shock siren auction matrix trophy ten segment wash critic mad tomorrow";
+var mnemonic = "stage upon fix jump decline empty high glad bleak dwarf clog kitchen";
