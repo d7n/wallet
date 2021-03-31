@@ -1,1 +1,1 @@
-var mnemonic = "admit vacant fringe skirt type famous trumpet broom disorder tag exit one";
+var mnemonic = "opera flush where wild tornado mixture sock race boat voice defense boost";

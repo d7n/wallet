@@ -1,1 +1,1 @@
-var mnemonic = "response brand emotion acquire cup prison despair kidney lesson stereo patch museum";
+var mnemonic = "guess omit course guitar amount winner talent upper text bring adult cactus";

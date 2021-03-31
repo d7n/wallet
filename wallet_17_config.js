@@ -1,1 +1,1 @@
-var mnemonic = "expose law ancient swamp manual elephant paddle ship usual aim scissors they";
+var mnemonic = "shoot else reward drastic height book equal fault draft outdoor dawn essay";

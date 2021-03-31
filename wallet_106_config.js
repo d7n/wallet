@@ -1,1 +1,1 @@
-var mnemonic = "iron zoo exhaust middle awake any forward debris visual street someone rival";
+var mnemonic = "salt fortune alcohol rail list tattoo bless pizza economy valve rural van";

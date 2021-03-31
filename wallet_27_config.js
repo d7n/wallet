@@ -1,1 +1,1 @@
-var mnemonic = "solid spoil act slogan off faint satoshi balcony soccer net dial rice";
+var mnemonic = "make space rent chapter taste bid spring oyster obvious anger critic matter";

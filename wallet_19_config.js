@@ -1,1 +1,1 @@
-var mnemonic = "occur pole duty breeze sunset what worth aerobic flavor gather nice crash";
+var mnemonic = "milk venture blouse gold protect length crush case liberty cement eyebrow face";

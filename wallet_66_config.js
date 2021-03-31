@@ -1,1 +1,1 @@
-var mnemonic = "remove concert actress drastic master short forest grape either index unhappy noodle";
+var mnemonic = "neutral dad isolate outdoor fame wing collect youth recipe faith industry divorce";

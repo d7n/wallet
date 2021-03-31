@@ -1,1 +1,1 @@
-var mnemonic = "mimic output switch sting zero ticket federal sample before angle bone flush";
+var mnemonic = "episode estate produce toddler joy caution resource jealous exit employ print ability";

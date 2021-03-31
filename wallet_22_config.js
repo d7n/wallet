@@ -1,1 +1,1 @@
-var mnemonic = "real odor six acoustic supreme never sister apology cart section into knife";
+var mnemonic = "select upon narrow crisp control slice forward stem area cactus poverty true";

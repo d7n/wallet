@@ -1,1 +1,1 @@
-var mnemonic = "guilt wait vacant enemy twin mind oval offer junior resist scorpion crucial";
+var mnemonic = "rain essence disagree hamster stereo bleak casino program excess rose opinion behave";

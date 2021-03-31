@@ -1,1 +1,1 @@
-var mnemonic = "cute august beyond canyon leg mountain coconut affair mule trial brass weekend";
+var mnemonic = "illegal until ankle mutual velvet journey above capital afraid pave boring deal";

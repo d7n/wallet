@@ -1,1 +1,1 @@
-var mnemonic = "disorder drive captain cross tuna chicken panic muffin hand absurd sand sick";
+var mnemonic = "main pyramid cube gorilla coast olive correct castle pony reflect elder follow";

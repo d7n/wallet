@@ -1,1 +1,1 @@
-var mnemonic = "fault ritual gift valve camp above luggage exclude horn enact bulb surface";
+var mnemonic = "neutral ocean scout lake avoid noble portion prize protect sniff bread clown";

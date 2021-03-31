@@ -1,1 +1,1 @@
-var mnemonic = "evidence fence entire display kidney toward rocket inject hub hill laugh swarm";
+var mnemonic = "donor because galaxy enough suit parrot circle wide outdoor parent hidden safe";

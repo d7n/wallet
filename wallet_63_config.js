@@ -1,1 +1,1 @@
-var mnemonic = "catalog clever rally fade nut obtain quantum claw liberty speed fantasy wise";
+var mnemonic = "sugar vicious duty spirit laptop razor denial absent food female rotate avoid";

@@ -1,1 +1,1 @@
-var mnemonic = "hunt special other egg accuse huge stairs attack correct maximum detail unhappy";
+var mnemonic = "seven door gallery also praise recycle cloth arrest enjoy faint country sight";

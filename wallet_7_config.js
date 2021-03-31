@@ -1,1 +1,1 @@
-var mnemonic = "calm search spirit liar decorate display asthma school board cloud wood powder";
+var mnemonic = "jewel wrong quit capable relax climb company shaft people dwarf resist grace";

@@ -1,1 +1,1 @@
-var mnemonic = "again civil torch under bracket once cash initial equip spike grit until";
+var mnemonic = "zebra daughter plunge toss useful dust permit spot group unhappy armor bright";

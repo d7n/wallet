@@ -1,1 +1,1 @@
-var mnemonic = "salon tiny social meat olympic valid vibrant south road among just pizza";
+var mnemonic = "odor coyote spell share stove arrest spirit cycle tissue patient senior result";

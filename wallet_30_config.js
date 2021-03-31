@@ -1,1 +1,1 @@
-var mnemonic = "alcohol replace distance inherit swap orphan donor always rib green misery goat";
+var mnemonic = "cable bulb rather upper math rug wrap tackle disease laundry media cement";

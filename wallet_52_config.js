@@ -1,1 +1,1 @@
-var mnemonic = "unusual swift bike guide super this antenna tank mask excuse come muscle";
+var mnemonic = "flag control strike glare you battle arrange old luxury task faith frog";

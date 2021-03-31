@@ -1,1 +1,1 @@
-var mnemonic = "squirrel because index attack kit fix health kidney brother mean lens puzzle";
+var mnemonic = "sweet absurd mercy require glimpse arctic praise save shift usage game elite";

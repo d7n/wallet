@@ -1,1 +1,1 @@
-var mnemonic = "ankle story iron toss planet risk crush absent very creek zebra urge";
+var mnemonic = "valley liquid auction mystery smart garment benefit regular bounce pull cake fatal";

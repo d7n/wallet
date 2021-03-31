@@ -1,1 +1,1 @@
-var mnemonic = "runway edge today exhibit bottom chat lift grow air taxi bridge work";
+var mnemonic = "truth immense sort dice asset canvas trumpet search kitten fault timber rate";

@@ -1,1 +1,1 @@
-var mnemonic = "feature aisle island enroll elevator already wear tube crystal faint coconut tuna";
+var mnemonic = "guess alone weapon change liquid chapter thunder weather insane avoid round foam";

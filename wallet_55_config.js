@@ -1,1 +1,1 @@
-var mnemonic = "prosper sell oyster draft large noise symbol modify laundry chat relief deal";
+var mnemonic = "lawn tongue pear cost bacon current seat message measure witness armor bean";

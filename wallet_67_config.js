@@ -1,1 +1,1 @@
-var mnemonic = "note caught cover patch quit daughter reopen timber crunch panic shell follow";
+var mnemonic = "fancy sell zebra slight velvet diamond decline divide become destroy tonight badge";

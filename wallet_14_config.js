@@ -1,1 +1,1 @@
-var mnemonic = "adapt assist hockey series federal capital pudding source this awake gate survey";
+var mnemonic = "enhance minor race neutral voyage obvious goddess clay balance rifle evil middle";

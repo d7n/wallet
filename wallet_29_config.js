@@ -1,1 +1,1 @@
-var mnemonic = "hope wrap custom jar option edit feel joy arctic company element provide";
+var mnemonic = "upon wheat super win lumber cliff length suspect surge domain chief unknown";

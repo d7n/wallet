@@ -1,1 +1,1 @@
-var mnemonic = "trigger fuel pelican trumpet oxygen burden nuclear soon kingdom tube arrange remind";
+var mnemonic = "spider mass naive stumble service biology elder thank garbage absent exercise debate";

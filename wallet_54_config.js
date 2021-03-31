@@ -1,1 +1,1 @@
-var mnemonic = "wasp canyon sure order fever chaos foam comic light pair course story";
+var mnemonic = "hedgehog govern novel unable flat rescue enter fury right custom hello entry";

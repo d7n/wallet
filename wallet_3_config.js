@@ -1,1 +1,1 @@
-var mnemonic = "sun rigid typical jaguar pass nurse wise erosion stock patch sock bomb";
+var mnemonic = "index damage tortoise humble voyage absent credit room main fuel life brown";

@@ -1,1 +1,1 @@
-var mnemonic = "empower around shove powder wire shoot deny velvet beach crew illness inside";
+var mnemonic = "jealous multiply pencil state embody update snack very mosquito canoe enlist side";

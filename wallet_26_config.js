@@ -1,1 +1,1 @@
-var mnemonic = "flash mistake keen donkey thing super wheat say work mandate food sniff";
+var mnemonic = "tribe ankle toward purse novel oak session two steel toilet put apart";

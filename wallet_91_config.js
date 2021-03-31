@@ -1,1 +1,1 @@
-var mnemonic = "tree seat square pitch skull mystery retire option they tissue idle hood";
+var mnemonic = "shrug peanut odor leg raw foil sock peanut chuckle orphan ghost nephew";

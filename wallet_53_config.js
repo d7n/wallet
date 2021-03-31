@@ -1,1 +1,1 @@
-var mnemonic = "gospel organ clock venture industry gesture pudding lyrics swift jacket maze stable";
+var mnemonic = "version swallow loyal almost raw situate link raccoon pear dumb hybrid alley";

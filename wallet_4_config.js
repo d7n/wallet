@@ -1,1 +1,1 @@
-var mnemonic = "lecture black fire plunge write expose scan account dial possible title spy";
+var mnemonic = "thought cram pioneer demise clean virus vendor roof math brush enforce exact";

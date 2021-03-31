@@ -1,1 +1,1 @@
-var mnemonic = "brass sing water hobby endless magnet core viable fat sort toe stem";
+var mnemonic = "multiply allow dash tent divorce decline cheap mystery doctor field pulse flight";

@@ -1,1 +1,1 @@
-var mnemonic = "eight horror position glow unknown deposit toss train dry chalk coil coil";
+var mnemonic = "slush say uncover rough good exit surge update woman multiply creek spell";

@@ -1,1 +1,1 @@
-var mnemonic = "paddle shop arena blast ahead caught olive clinic sting crystal brave scheme";
+var mnemonic = "recycle inherit crucial endorse ranch round blanket fit force hammer skate universe";

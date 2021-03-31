@@ -1,1 +1,1 @@
-var mnemonic = "volume client crawl column furnace increase rookie cactus flag radar bamboo furnace";
+var mnemonic = "elbow shy spike urban shift actor unusual sight pass include film index";

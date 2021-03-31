@@ -1,1 +1,1 @@
-var mnemonic = "buffalo rug outside couple shine when elder opinion employ blur grocery marble";
+var mnemonic = "inch luxury plug black stem spend same thing utility jeans spike priority";

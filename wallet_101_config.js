@@ -1,1 +1,1 @@
-var mnemonic = "wheat public draft firm creek grunt zone cruise okay utility unfold session";
+var mnemonic = "trick swift bulk raven acid often car educate diesel sight cycle high";

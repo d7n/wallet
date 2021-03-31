@@ -1,1 +1,1 @@
-var mnemonic = "any weekend toward few stool color tissue mountain chronic travel panel baby";
+var mnemonic = "frog tray dose lake scrap hospital excess rocket fall divide today across";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge economy skill cage agent ability alter fiscal shoulder net bracket friend";
+var mnemonic = "cushion brother april young endless strategy solve nurse february indoor cactus add";

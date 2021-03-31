@@ -1,1 +1,1 @@
-var mnemonic = "orbit dream ocean eager awful fat wire copper rare furnace unknown spawn";
+var mnemonic = "coin survey soap frog clerk put flee frost seat pepper bounce gather";

@@ -1,1 +1,1 @@
-var mnemonic = "gown trash bottom match hunt dad trend hen business dose cement banana";
+var mnemonic = "price candy leisure staff snake copper mad marble mix hammer warrior inquiry";

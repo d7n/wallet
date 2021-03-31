@@ -1,1 +1,1 @@
-var mnemonic = "axis endless calm maple garbage gift pelican certain round invite boy lounge";
+var mnemonic = "affair sausage shrimp betray bar group devote nuclear vanish envelope please sweet";

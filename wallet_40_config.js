@@ -1,1 +1,1 @@
-var mnemonic = "major twice theory bench fence kingdom nuclear friend crouch excuse taxi slab";
+var mnemonic = "shield penalty enlist warrior wolf trick nature best text bomb burden tattoo";

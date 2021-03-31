@@ -1,1 +1,1 @@
-var mnemonic = "auction fetch rude judge denial adapt legal sound hedgehog woman kiwi nasty";
+var mnemonic = "suit stereo body inspire mad bring bullet mother steak almost legend special";

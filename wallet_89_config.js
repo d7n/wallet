@@ -1,1 +1,1 @@
-var mnemonic = "ride cactus strong network debate vendor world oxygen boy play misery lumber";
+var mnemonic = "mixed stay ostrich delay craft unfold hip sweet round valley coral myself";

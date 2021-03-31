@@ -1,1 +1,1 @@
-var mnemonic = "round burst hobby across crowd trophy mistake always base fox youth noodle";
+var mnemonic = "few civil buddy logic tribe ladder talk nurse winter stomach volcano dynamic";

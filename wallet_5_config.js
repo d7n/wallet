@@ -1,1 +1,1 @@
-var mnemonic = "odor mule muscle rural office hope express three hammer retreat copper chat";
+var mnemonic = "author shrug entire fancy cabin frown list stereo tennis like nominee tiger";

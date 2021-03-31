@@ -1,1 +1,1 @@
-var mnemonic = "squirrel shy enrich speak dentist vacuum brisk economy oak coyote forward chair";
+var mnemonic = "tortoise asthma service wrong stairs garlic sheriff vital acoustic taxi reduce panic";

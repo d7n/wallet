@@ -1,1 +1,1 @@
-var mnemonic = "butter between erode trap move coyote false ankle umbrella sun fever latin";
+var mnemonic = "update daring wink phone silk below motor naive connect select primary space";

@@ -1,1 +1,1 @@
-var mnemonic = "glow dawn express gather park awesome sample need emotion will weather reflect";
+var mnemonic = "satisfy hockey sketch loud supreme fetch reduce excess blossom copper debris auto";

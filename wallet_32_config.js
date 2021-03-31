@@ -1,1 +1,1 @@
-var mnemonic = "flock stage mango better tower crucial critic awake aware gorilla old dumb";
+var mnemonic = "scrap tail library abandon army spoon brisk wood skirt awful yellow grain";

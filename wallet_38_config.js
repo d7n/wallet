@@ -1,1 +1,1 @@
-var mnemonic = "hip feature survey mix orchard question fabric learn entire glance traffic bag";
+var mnemonic = "term opera switch close draw rotate clock border region stone venture rug";

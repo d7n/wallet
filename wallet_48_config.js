@@ -1,1 +1,1 @@
-var mnemonic = "wolf practice topple wage number limit column protect slight try village shop";
+var mnemonic = "situate crawl culture math earth horse claim hedgehog local agent make renew";

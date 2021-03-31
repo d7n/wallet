@@ -1,1 +1,1 @@
-var mnemonic = "arctic surround alpha focus response menu live hope road right embody humble";
+var mnemonic = "bottom genre learn barely shoe please barely toy make high video suit";

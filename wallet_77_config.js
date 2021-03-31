@@ -1,1 +1,1 @@
-var mnemonic = "sibling retreat rude mask monitor since right rack midnight this property ready";
+var mnemonic = "change brisk open quiz keen often supply escape traffic run dove response";

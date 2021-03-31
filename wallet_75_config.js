@@ -1,1 +1,1 @@
-var mnemonic = "dawn fit glare master vast extra thumb coral rabbit hope among smoke";
+var mnemonic = "fever exclude person heavy host shrug bean alter electric state chair churn";

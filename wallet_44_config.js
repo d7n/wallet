@@ -1,1 +1,1 @@
-var mnemonic = "square divide width mesh virtual urge multiply knife gravity proud negative city";
+var mnemonic = "tired real escape saddle uniform child finish scout artist symbol atom cushion";

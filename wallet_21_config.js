@@ -1,1 +1,1 @@
-var mnemonic = "rather jazz nut layer rhythm gospel hurdle bright domain hand funny bone";
+var mnemonic = "good screen ill embark unable consider jealous perfect when imitate mystery odor";

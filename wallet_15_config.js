@@ -1,1 +1,1 @@
-var mnemonic = "same wrong into muffin capable october spring culture stage cream curious pulse";
+var mnemonic = "town drill smile record animal captain peasant under brave amateur skill magnet";

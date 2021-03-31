@@ -1,1 +1,1 @@
-var mnemonic = "cigar beef surge artwork unfair network glad emotion token garment print cannon";
+var mnemonic = "crystal embody concert another online treat orient mention hover process random swarm";

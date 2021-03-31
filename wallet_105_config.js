@@ -1,1 +1,1 @@
-var mnemonic = "swallow cruise sustain square okay car noise cake cart spread furnace critic";
+var mnemonic = "crop final surround hair struggle leader aware viable insane monkey misery list";

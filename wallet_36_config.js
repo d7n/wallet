@@ -1,1 +1,1 @@
-var mnemonic = "vivid culture rice walk angry cheap vendor pair put toe address floor";
+var mnemonic = "slender cycle ordinary width forward glare play elevator quick century raise rough";

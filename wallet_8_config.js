@@ -1,1 +1,1 @@
-var mnemonic = "evolve culture master material fatigue tiny wash decide struggle gravity exit egg";
+var mnemonic = "benefit put grit belt clever want price juice say sick salon blush";

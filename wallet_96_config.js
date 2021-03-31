@@ -1,1 +1,1 @@
-var mnemonic = "camp lazy purse resource draw almost online december kid kingdom believe stadium";
+var mnemonic = "prison hungry broom pledge give measure method piece often sing cost steel";

@@ -1,1 +1,1 @@
-var mnemonic = "have eight bridge arm inside job story hawk rich hammer win region";
+var mnemonic = "sight void atom struggle portion hold brass game ghost weather gown safe";

@@ -1,1 +1,1 @@
-var mnemonic = "evidence ripple stove labor solid brand awful fatal theory prize bean sun";
+var mnemonic = "wet sunny favorite subway trial add company paddle fix pattern october churn";

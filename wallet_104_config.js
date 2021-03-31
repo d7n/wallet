@@ -1,1 +1,1 @@
-var mnemonic = "joy exile distance wealth cram drastic erosion alarm cushion champion radio friend";
+var mnemonic = "kidney chaos tomato extend very able amused off joke soul milk patch";

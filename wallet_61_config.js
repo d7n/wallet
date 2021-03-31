@@ -1,1 +1,1 @@
-var mnemonic = "exact air degree lobster state tennis client moral assume mystery dune top";
+var mnemonic = "shoulder pepper patch entire mango ostrich segment sun afraid open hundred mask";

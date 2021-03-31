@@ -1,1 +1,1 @@
-var mnemonic = "unaware tennis favorite convince decide apple measure blast tired disorder feature unfold";
+var mnemonic = "unfair deliver success effort diamond hazard tiny caution hockey turn canvas embody";

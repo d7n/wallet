@@ -1,1 +1,1 @@
-var mnemonic = "caution heart goddess remain busy announce proof song rival please idle cube";
+var mnemonic = "update dismiss wrestle maple rich open episode balance walk stove mind employ";

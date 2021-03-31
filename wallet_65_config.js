@@ -1,1 +1,1 @@
-var mnemonic = "emotion resource clerk expose kingdom edit index under cruel beach quality camp";
+var mnemonic = "myth embody fatigue search pipe nut pig ride family clip evoke bring";

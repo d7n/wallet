@@ -1,1 +1,1 @@
-var mnemonic = "tackle month flock slab fatal again dream sibling song family smile cave";
+var mnemonic = "caught clog buffalo junior tag soft practice need keen answer mind yellow";

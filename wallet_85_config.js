@@ -1,1 +1,1 @@
-var mnemonic = "west thumb actual miracle kid sauce tool step hover chapter cinnamon punch";
+var mnemonic = "modify subway differ cloth custom fall escape foot furnace connect fuel celery";

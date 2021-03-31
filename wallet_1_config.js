@@ -1,1 +1,1 @@
-var mnemonic = "explain thing road heavy tape crime you chimney ozone squirrel few hope";
+var mnemonic = "night chat vault hungry subject negative antique evolve skate inner pudding square";

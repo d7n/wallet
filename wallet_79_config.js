@@ -1,1 +1,1 @@
-var mnemonic = "enemy average steel garden system this misery magnet goddess fold what state";
+var mnemonic = "blossom front stem era mirror law march shield practice scorpion glue uphold";

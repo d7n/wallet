@@ -1,1 +1,1 @@
-var mnemonic = "dentist visa tray ripple replace feature cargo news wasp side boy very";
+var mnemonic = "shrimp cloth faint across mom pledge barely canvas govern payment make wheel";

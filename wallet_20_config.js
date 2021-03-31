@@ -1,1 +1,1 @@
-var mnemonic = "glue coin file aspect busy miss purse shove rocket river october they";
+var mnemonic = "rule brain weather stumble cotton choice gold clay run forest culture match";

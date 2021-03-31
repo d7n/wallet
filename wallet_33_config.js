@@ -1,1 +1,1 @@
-var mnemonic = "ghost globe oyster immense deny age grain betray rely soccer police illness";
+var mnemonic = "steel kidney grief hunt ginger joke design year foam brisk aerobic emotion";
