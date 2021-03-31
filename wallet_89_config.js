@@ -1,1 +1,1 @@
-var mnemonic = "network salmon stove stumble pony replace ripple tuition plug assume tip ice";
+var mnemonic = "dizzy else describe seek index flower stove victory trip asset hen empty";

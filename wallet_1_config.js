@@ -1,1 +1,1 @@
-var mnemonic = "loan equip benefit suit trouble test trophy fun pride width raise demand";
+var mnemonic = "drink grace lounge street chalk pass shrug magic own demise delay detail";

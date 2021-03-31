@@ -1,1 +1,1 @@
-var mnemonic = "prison genre toy cry peasant horn idle wrap title used scale basket";
+var mnemonic = "wheel panel motor umbrella office noise upset radar frog summer orbit sell";

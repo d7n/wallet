@@ -1,1 +1,1 @@
-var mnemonic = "become coach truly admit chaos mind artwork obvious want police wrist pause";
+var mnemonic = "boat salon become desert play snap patrol dune bullet wheat buffalo rookie";

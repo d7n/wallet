@@ -1,1 +1,1 @@
-var mnemonic = "increase exchange pride crystal tilt tiger hover dad panther post visual toss";
+var mnemonic = "appear detail torch planet scout mail door drill six size airport exact";

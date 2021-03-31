@@ -1,1 +1,1 @@
-var mnemonic = "water giant tuition magic nice cruise meadow avoid benefit gentle labor leopard";
+var mnemonic = "cattle garbage sunny update push struggle maximum castle strong quote melt attack";

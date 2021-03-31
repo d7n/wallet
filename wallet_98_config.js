@@ -1,1 +1,1 @@
-var mnemonic = "alarm usage school degree bundle inflict sunny floor icon ripple output frame";
+var mnemonic = "minor bottom capable south motor summer narrow rough mouse brass pass soft";

@@ -1,1 +1,1 @@
-var mnemonic = "churn tell enable hire first humble submit rabbit pitch jewel omit reopen";
+var mnemonic = "ripple stay tonight useful enemy hand total inform century life hood picture";

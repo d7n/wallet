@@ -1,1 +1,1 @@
-var mnemonic = "youth purchase talk soft gather execute erosion jewel risk veteran tackle profit";
+var mnemonic = "engine violin pact hawk jump race hurdle rifle bleak peasant direct suit";

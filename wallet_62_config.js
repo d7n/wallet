@@ -1,1 +1,1 @@
-var mnemonic = "property wealth surface walnut become civil silk mean wreck lava evolve impact";
+var mnemonic = "rich walk sun this engage awkward student secret student sure gallery doll";

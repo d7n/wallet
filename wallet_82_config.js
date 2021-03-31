@@ -1,1 +1,1 @@
-var mnemonic = "plug crop cute inch vacuum round category hidden just faculty congress luxury";
+var mnemonic = "direct blast know matter drill travel wedding rack survey junk horn broom";

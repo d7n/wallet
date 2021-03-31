@@ -1,1 +1,1 @@
-var mnemonic = "hello nerve acquire finger various flight rebuild twice giant jacket pony black";
+var mnemonic = "learn leave crowd improve harsh all adult song level general direct address";

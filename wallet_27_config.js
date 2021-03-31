@@ -1,1 +1,1 @@
-var mnemonic = "nothing orange struggle vault twice witness choose opinion gown rather girl lyrics";
+var mnemonic = "crowd lamp convince hobby feature rocket meadow snack clean post act height";

@@ -1,1 +1,1 @@
-var mnemonic = "wait opinion uniform deliver miracle tuna celery enter fashion before dune viable";
+var mnemonic = "pencil orphan six state tongue return little curious garment anger ridge clinic";

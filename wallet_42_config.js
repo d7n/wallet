@@ -1,1 +1,1 @@
-var mnemonic = "apology pumpkin inspire siege lend endorse file escape original seminar limit fluid";
+var mnemonic = "close solve slender pond pumpkin screen swift roof parrot rebel vendor truth";

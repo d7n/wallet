@@ -1,1 +1,1 @@
-var mnemonic = "payment lyrics unaware exchange purchase short tenant pet young velvet tank enjoy";
+var mnemonic = "powder crunch strong promote hammer begin into pen axis ivory opinion gas";

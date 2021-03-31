@@ -1,1 +1,1 @@
-var mnemonic = "material front spoil must boss find resource umbrella spawn pen dragon ask";
+var mnemonic = "autumn cousin action kidney category meat solid doctor walnut erode never change";

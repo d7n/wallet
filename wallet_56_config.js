@@ -1,1 +1,1 @@
-var mnemonic = "odor exhaust cheap cattle struggle attend priority real green man pitch album";
+var mnemonic = "section taxi region still cake table more churn drum welcome they size";

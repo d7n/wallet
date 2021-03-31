@@ -1,1 +1,1 @@
-var mnemonic = "south extend solve quantum funny fossil chaos skate saddle bike job rabbit";
+var mnemonic = "absorb pear evidence key flame oak choice print adjust stadium scorpion kangaroo";

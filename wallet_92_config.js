@@ -1,1 +1,1 @@
-var mnemonic = "spot muffin joy arrive pipe zone cup else moral noble story total";
+var mnemonic = "damp dress silent west switch situate industry notice slush evidence decorate install";

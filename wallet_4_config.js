@@ -1,1 +1,1 @@
-var mnemonic = "lazy buddy athlete gravity grocery slush resemble sample glory weasel result love";
+var mnemonic = "fitness soda slogan lady talent text oven loyal sample vote nasty night";

@@ -1,1 +1,1 @@
-var mnemonic = "income chalk satisfy genuine blast crazy claw urge horror vacant envelope merit";
+var mnemonic = "grief can digital taste review palace globe tape average path race horror";

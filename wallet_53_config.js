@@ -1,1 +1,1 @@
-var mnemonic = "obey airport jelly cupboard rigid lab velvet into olive ankle during retire";
+var mnemonic = "ticket story assume crash maid climb isolate cloth cloth worth welcome involve";

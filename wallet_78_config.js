@@ -1,1 +1,1 @@
-var mnemonic = "tank travel warm pet distance rebuild mass bracket describe nature hockey web";
+var mnemonic = "calm play access ranch limb rapid wink baby unable deny sword recycle";

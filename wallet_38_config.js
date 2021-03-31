@@ -1,1 +1,1 @@
-var mnemonic = "tree govern initial scrap alien spatial lottery material gentle clean tiny toddler";
+var mnemonic = "gather hurry toy journey pudding manual feature clutch luxury mention crucial wagon";

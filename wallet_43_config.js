@@ -1,1 +1,1 @@
-var mnemonic = "clarify open close dad sponsor armed broccoli violin reopen inspire expire suffer";
+var mnemonic = "stay gloom basic horn display satisfy dismiss leader renew special select river";

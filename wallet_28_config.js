@@ -1,1 +1,1 @@
-var mnemonic = "walk cluster myth upset kitchen kingdom grit safe square chat execute swamp";
+var mnemonic = "what dignity leader marine drift category dune fee decade tuition badge urge";

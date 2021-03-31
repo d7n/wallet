@@ -1,1 +1,1 @@
-var mnemonic = "birth exotic sure teach people body pistol tree license post amateur bleak";
+var mnemonic = "dial cry define auction waste almost disagree weekend globe cry salt ten";

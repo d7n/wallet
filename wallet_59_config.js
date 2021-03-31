@@ -1,1 +1,1 @@
-var mnemonic = "track exotic december original ill between glory night ridge neck walk organ";
+var mnemonic = "mind horse type feature beauty income auction bargain woman current carpet post";

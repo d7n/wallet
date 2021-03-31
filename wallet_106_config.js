@@ -1,1 +1,1 @@
-var mnemonic = "ramp merge vacant false taste crater series neither horn bone bind hurdle";
+var mnemonic = "round enlist picture normal donate crowd nose match giant visa clutch cactus";

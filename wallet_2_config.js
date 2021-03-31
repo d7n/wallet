@@ -1,1 +1,1 @@
-var mnemonic = "barely route version address antique steak cupboard stove alcohol because success always";
+var mnemonic = "jelly soup person give pulp carry hand hockey basic page deputy now";

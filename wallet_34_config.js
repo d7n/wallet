@@ -1,1 +1,1 @@
-var mnemonic = "cube tumble produce process bean olympic super rate luxury cost kingdom endorse";
+var mnemonic = "street language fold purity drama split coast plate human deal leg blossom";

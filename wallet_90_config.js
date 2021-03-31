@@ -1,1 +1,1 @@
-var mnemonic = "carpet fork leisure rely grief tongue avocado shrimp habit corn have short";
+var mnemonic = "shiver pipe grow season face divert neglect sadness vocal phrase turkey magic";

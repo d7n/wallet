@@ -1,1 +1,1 @@
-var mnemonic = "grass clean wisdom artefact nasty sibling demise void vacant wrap melt play";
+var mnemonic = "type erosion embody proof sketch popular clutch team card canyon balance diagram";

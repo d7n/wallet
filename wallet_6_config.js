@@ -1,1 +1,1 @@
-var mnemonic = "badge clarify cancel mention fork arrange hundred risk exit hope expand sauce";
+var mnemonic = "exist dutch dial plate jazz prize dish bean fame gorilla release pilot";

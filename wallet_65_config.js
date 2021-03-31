@@ -1,1 +1,1 @@
-var mnemonic = "travel tube mystery clump topic wreck dizzy loop cricket romance mail police";
+var mnemonic = "blood knee route gate exhaust oxygen retire bomb rare wrestle pilot race";

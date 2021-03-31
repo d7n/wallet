@@ -1,1 +1,1 @@
-var mnemonic = "throw salmon deny ripple suffer rib agent upgrade upgrade identify eagle inner";
+var mnemonic = "note symptom marriage dignity kiwi render thunder old virus actor capital endorse";

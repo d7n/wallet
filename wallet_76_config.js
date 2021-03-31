@@ -1,1 +1,1 @@
-var mnemonic = "next panic spring predict crowd head announce gold unit ignore rebuild top";
+var mnemonic = "bullet draw local cherry student huge blind renew alone document series wheat";

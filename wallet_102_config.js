@@ -1,1 +1,1 @@
-var mnemonic = "cradle garment angry idea potato priority raw potato ivory limb wreck climb";
+var mnemonic = "pottery orchard legend bean link grab orphan vehicle lamp hill tone flag";

@@ -1,1 +1,1 @@
-var mnemonic = "avocado mechanic uniform fancy salmon surprise priority pen midnight supply cheese photo";
+var mnemonic = "swap card cactus edge prison despair foam foster found recycle oppose lecture";

@@ -1,1 +1,1 @@
-var mnemonic = "dismiss elegant denial broom pizza flush escape morning world auction antenna table";
+var mnemonic = "avoid dose novel vote patient surface devote journey pass party adjust aisle";

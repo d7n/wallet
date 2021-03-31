@@ -1,1 +1,1 @@
-var mnemonic = "document dumb damp lecture bridge amused urge sausage short eight novel couch";
+var mnemonic = "carpet name rail include pony riot cheap damp deposit grass second pole";

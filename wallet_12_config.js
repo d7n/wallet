@@ -1,1 +1,1 @@
-var mnemonic = "rather mesh forget health eager point coil latin soon air young scare";
+var mnemonic = "monitor vintage swallow journey brave present that typical timber scale once outside";

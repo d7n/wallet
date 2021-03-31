@@ -1,1 +1,1 @@
-var mnemonic = "celery physical shield powder dog web coffee cart baby accuse expire oyster";
+var mnemonic = "horse recall extra nose topple tackle tag capital trade hen kid dose";

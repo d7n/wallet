@@ -1,1 +1,1 @@
-var mnemonic = "goose sand perfect melody gain grape cave stereo now famous better salon";
+var mnemonic = "flash pyramid never crucial when wet chronic parrot assault next draw flip";

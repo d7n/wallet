@@ -1,1 +1,1 @@
-var mnemonic = "witness mom sign brief parrot number tribe notable clutch come need security";
+var mnemonic = "domain humble august fuel arena stable taxi motion climb earth scrap pair";

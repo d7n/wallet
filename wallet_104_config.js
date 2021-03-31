@@ -1,1 +1,1 @@
-var mnemonic = "feel absent frozen park nose husband midnight fancy side occur silk author";
+var mnemonic = "throw copy number buffalo wool shaft eight person universe view lunar dentist";

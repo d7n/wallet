@@ -1,1 +1,1 @@
-var mnemonic = "coast wheat erupt wolf juice rely afford tray come rack genius fuel";
+var mnemonic = "dune advice flight boy federal project control burst library ahead place deliver";

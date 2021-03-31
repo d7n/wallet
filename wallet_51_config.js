@@ -1,1 +1,1 @@
-var mnemonic = "loud mountain erupt admit uphold gun direct join crack gauge tail law";
+var mnemonic = "corn butter rail quantum coast exercise rival manual lawn bacon job foil";

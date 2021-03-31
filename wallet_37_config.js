@@ -1,1 +1,1 @@
-var mnemonic = "boring ticket remove whip health true census raise again want hat galaxy";
+var mnemonic = "essay organ safe post duck arrange layer dragon shrug knock badge shop";

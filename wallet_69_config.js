@@ -1,1 +1,1 @@
-var mnemonic = "jacket boil erase maximum stereo enter chunk visa bicycle dwarf oppose upon";
+var mnemonic = "catalog reward clog oak plate later clump cover rich village alley alert";

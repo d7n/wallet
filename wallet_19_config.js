@@ -1,1 +1,1 @@
-var mnemonic = "sword water joke alpha occur ride remain always candy guard eight govern";
+var mnemonic = "defense erode nasty main provide emerge bar educate garden shy donkey transfer";

@@ -1,1 +1,1 @@
-var mnemonic = "easily advice cycle ride help alcohol mother battle seven feed apple left";
+var mnemonic = "tube cherry power jealous position story cereal minor rack envelope tilt pudding";

@@ -1,1 +1,1 @@
-var mnemonic = "replace fabric layer trade account chef gravity embark insane they arrow detect";
+var mnemonic = "faith tube engine excuse toss disagree birth zone track empower matrix regret";

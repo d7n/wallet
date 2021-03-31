@@ -1,1 +1,1 @@
-var mnemonic = "garbage pipe rather flee current ill timber junk snack inquiry blame story";
+var mnemonic = "cancel hill liquid valve skill office biology float hundred dignity shuffle toss";

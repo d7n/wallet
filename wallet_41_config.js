@@ -1,1 +1,1 @@
-var mnemonic = "slab grace property gather hazard over horse nest erosion stamp effort flame";
+var mnemonic = "finish edit salt scare stomach drive honey unfair stick gift flavor cupboard";

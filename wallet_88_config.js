@@ -1,1 +1,1 @@
-var mnemonic = "story split foster fabric garbage animal moral before dignity rescue manual purpose";
+var mnemonic = "magic destroy skill purpose correct follow flush blossom infant undo cruel cook";

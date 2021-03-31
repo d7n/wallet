@@ -1,1 +1,1 @@
-var mnemonic = "bag sorry glory harsh engage mouse voyage wolf veteran such excite time";
+var mnemonic = "ski pole six expand junior dry lemon sugar umbrella gun bind subject";

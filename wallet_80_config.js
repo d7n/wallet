@@ -1,1 +1,1 @@
-var mnemonic = "entry cinnamon bundle flame van satoshi smile fun advance pair donate sunny";
+var mnemonic = "rely grocery bottom truth kiwi fresh warm hungry parent bleak ill muffin";

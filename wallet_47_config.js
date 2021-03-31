@@ -1,1 +1,1 @@
-var mnemonic = "jealous shift matter snow very garage must axis foam embrace bounce ketchup";
+var mnemonic = "shoulder aim celery trigger boy theme retire evolve lizard canvas wash position";

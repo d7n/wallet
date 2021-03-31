@@ -1,1 +1,1 @@
-var mnemonic = "govern various share distance nation wasp since yellow unhappy embrace swap friend";
+var mnemonic = "plug logic test owner code script ball gauge beyond speed seek raw";

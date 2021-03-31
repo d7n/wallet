@@ -1,1 +1,1 @@
-var mnemonic = "tenant lunar surge author around clay endorse bubble sudden message zoo satisfy";
+var mnemonic = "drama ghost buffalo wish maple artist result tragic dragon memory dawn three";

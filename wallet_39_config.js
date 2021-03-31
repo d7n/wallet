@@ -1,1 +1,1 @@
-var mnemonic = "bomb then wear universe adult almost easy hurt use artist sight office";
+var mnemonic = "abstract season raven jungle invest trumpet wisdom better town magnet shop human";

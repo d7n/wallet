@@ -1,1 +1,1 @@
-var mnemonic = "heavy purity humble custom cash junk town vague electric midnight feed left";
+var mnemonic = "cable box energy empty buzz confirm roast edge siren step century farm";

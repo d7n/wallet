@@ -1,1 +1,1 @@
-var mnemonic = "display carbon island barely crew clown reunion charge orbit public tired razor";
+var mnemonic = "taxi ethics decide monster kingdom sugar release transfer endless join error wolf";

@@ -1,1 +1,1 @@
-var mnemonic = "rhythm expose punch unusual floor best manual obvious blouse eyebrow fetch loud";
+var mnemonic = "tragic pilot brown base shoe mystery bounce order catalog gather common oak";

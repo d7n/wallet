@@ -1,1 +1,1 @@
-var mnemonic = "hint spoil acid upon number paddle nuclear satisfy sick valid antenna news";
+var mnemonic = "occur auction lend candy chat yard good decorate amazing forest equal demand";

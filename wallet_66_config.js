@@ -1,1 +1,1 @@
-var mnemonic = "bargain join valve cave core wealth genuine purpose satoshi chief column possible";
+var mnemonic = "helmet pause pistol mind circle income turtle truck shiver ladder minimum behave";

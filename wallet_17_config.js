@@ -1,1 +1,1 @@
-var mnemonic = "garment bubble thunder odor tool prefer jelly push cover jeans sadness wrestle";
+var mnemonic = "close lecture box melody reveal jar recycle frequent trim miracle art surround";

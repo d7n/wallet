@@ -1,1 +1,1 @@
-var mnemonic = "electric captain butter illness sweet glue filter turkey room luxury truck labor";
+var mnemonic = "vague ankle path train gate image blue unusual ankle cricket recall cage";

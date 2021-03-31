@@ -1,1 +1,1 @@
-var mnemonic = "crucial area group album ketchup rifle plate protect unfair involve reward limit";
+var mnemonic = "identify plug allow theory avocado arrange spot scout dry gesture exercise giant";

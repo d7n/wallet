@@ -1,1 +1,1 @@
-var mnemonic = "jealous laptop tube index vote autumn arrange pioneer ginger used yellow follow";
+var mnemonic = "play burden timber autumn bridge lawn route grain sand because car jeans";

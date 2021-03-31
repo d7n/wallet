@@ -1,1 +1,1 @@
-var mnemonic = "venue illness present supreme slow remove garage critic mule lucky siren border";
+var mnemonic = "atom awful butter scare punch drastic catalog addict february pig poem october";

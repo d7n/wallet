@@ -1,1 +1,1 @@
-var mnemonic = "client expose debris injury latin spell smooth arrange exist promote bounce knife";
+var mnemonic = "denial mad space junior top salon suit orbit chat much else powder";

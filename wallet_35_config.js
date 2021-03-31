@@ -1,1 +1,1 @@
-var mnemonic = "alley assault nominee fly bacon shove exclude seven omit install fashion mention";
+var mnemonic = "diesel cover gesture runway convince federal follow myself merry type meadow believe";

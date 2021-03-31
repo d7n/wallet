@@ -1,1 +1,1 @@
-var mnemonic = "false can zebra door major tuna problem journey make correct sustain flat";
+var mnemonic = "labor push build adult media chuckle ahead link dawn despair clarify festival";

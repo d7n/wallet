@@ -1,1 +1,1 @@
-var mnemonic = "salon dutch aisle bone salute spatial field clay pond bridge copy frame";
+var mnemonic = "knock verb scare lamp win trend spare rose volcano view curious hill";

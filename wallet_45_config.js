@@ -1,1 +1,1 @@
-var mnemonic = "capable frown hurdle point pulp bone like remove burger february crunch skull";
+var mnemonic = "practice super off catalog diamond chronic typical afraid goose path thought rare";

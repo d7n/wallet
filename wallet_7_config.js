@@ -1,1 +1,1 @@
-var mnemonic = "wrap afford build treat plunge item hospital fury rail truth area bind";
+var mnemonic = "parade raven congress oak lake rough capable three power dwarf silly own";

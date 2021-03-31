@@ -1,1 +1,1 @@
-var mnemonic = "royal shoot tenant fan eight shoot journey glow space auto vivid weather";
+var mnemonic = "foil february injury face fix female smile insane dune card pizza foot";

@@ -1,1 +1,1 @@
-var mnemonic = "shoulder flash link wolf weasel caution affair music prison narrow then romance";
+var mnemonic = "gospel concert unable exchange produce tornado ten various zoo engine install sing";

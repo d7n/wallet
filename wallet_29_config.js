@@ -1,1 +1,1 @@
-var mnemonic = "tenant grid estate report retire zoo flavor park warfare cactus race damp";
+var mnemonic = "cram script gather smart sign color rookie mixed assault firm lab wear";

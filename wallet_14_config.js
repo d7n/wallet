@@ -1,1 +1,1 @@
-var mnemonic = "say snow hard tobacco spell meadow rookie identify desk magnet gaze impact";
+var mnemonic = "obvious one plastic canvas oval vacant umbrella magnet plunge make ripple charge";

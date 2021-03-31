@@ -1,1 +1,1 @@
-var mnemonic = "wash fabric recycle north drop morning exist index myth dance ladder lock";
+var mnemonic = "chair snack remember crystal board shiver essence cable chalk resource surround lumber";

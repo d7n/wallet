@@ -1,1 +1,1 @@
-var mnemonic = "whisper train jealous six tide globe harvest month mango power number light";
+var mnemonic = "achieve member baby ancient humble dragon roast gadget bunker enroll combine unique";

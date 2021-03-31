@@ -1,1 +1,1 @@
-var mnemonic = "forest naive robot oxygen twenty awkward salt flat guide moment rubber size";
+var mnemonic = "lens slice purse spray transfer raven gasp addict salon prevent other swim";

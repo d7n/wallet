@@ -1,1 +1,1 @@
-var mnemonic = "gap mask element evolve glimpse yellow brick come thumb such grunt noble";
+var mnemonic = "casual protect split rich pepper ticket cube strategy horse lemon coyote police";

@@ -1,1 +1,1 @@
-var mnemonic = "talent core shoot march wide vacuum island palace velvet obey achieve bring";
+var mnemonic = "impose arch owner reject own current kangaroo pink typical claim endless tell";

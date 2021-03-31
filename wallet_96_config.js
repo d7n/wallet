@@ -1,1 +1,1 @@
-var mnemonic = "aim gain more interest physical leave armor great heavy enough drift wash";
+var mnemonic = "annual slush fragile stage profit swallow matrix pattern tag slide fire infant";

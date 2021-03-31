@@ -1,1 +1,1 @@
-var mnemonic = "tide guess grain girl garlic flee enough team appear core holiday clean";
+var mnemonic = "hockey hard borrow art loan place despair desert unit they stick bronze";

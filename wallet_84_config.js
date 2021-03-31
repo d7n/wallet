@@ -1,1 +1,1 @@
-var mnemonic = "science throw middle spin network buzz warrior circle core solve sword actor";
+var mnemonic = "quiz then comfort vicious prepare absent urge nut mountain venture bonus rebuild";

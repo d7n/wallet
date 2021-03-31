@@ -1,1 +1,1 @@
-var mnemonic = "tilt strategy flush private canoe depth caution life twice notable world message";
+var mnemonic = "fade brick almost island foot payment bulb design claw govern almost jar";

@@ -1,1 +1,1 @@
-var mnemonic = "kiss crime cactus oyster rare eight tooth ocean venture ring raise office";
+var mnemonic = "virtual rural retreat supply swim random park tray print install cause behind";
