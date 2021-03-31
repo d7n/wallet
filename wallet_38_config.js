@@ -1,1 +1,1 @@
-var mnemonic = "trick ancient mixture daring alter festival display chair town laptop lottery there";
+var mnemonic = "canvas mind make chest hundred original evidence matter vessel shift drive divide";

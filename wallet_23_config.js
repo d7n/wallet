@@ -1,1 +1,1 @@
-var mnemonic = "area shop brave idle hole subway weapon fabric cluster trip network ancient";
+var mnemonic = "raw unusual rough slide shock quick drive elite copy enemy car body";

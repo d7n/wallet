@@ -1,1 +1,1 @@
-var mnemonic = "horn guitar pen canoe unit upgrade jump merry supply decline initial frequent";
+var mnemonic = "thrive chicken approve salmon grace hockey symptom citizen choice govern response satisfy";

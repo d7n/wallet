@@ -1,1 +1,1 @@
-var mnemonic = "prepare length slam maple census table near noodle improve pilot fog brand";
+var mnemonic = "soap claim witness shallow simple sand ceiling wine thumb blush surprise festival";

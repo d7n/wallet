@@ -1,1 +1,1 @@
-var mnemonic = "public best repeat expose boil follow rice hamster spawn april resource drip";
+var mnemonic = "tiny mesh picnic perfect afraid give upper devote cupboard mask shiver clinic";

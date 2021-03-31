@@ -1,1 +1,1 @@
-var mnemonic = "region typical grow detail embark rice wage fitness pioneer situate they best";
+var mnemonic = "jungle order book second purpose reform then riot cousin elite body fee";

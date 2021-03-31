@@ -1,1 +1,1 @@
-var mnemonic = "theory prize outer pink trick tiny analyst surface gather film seven town";
+var mnemonic = "pyramid around solar sister banner prize animal disagree merge early canoe all";

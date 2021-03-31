@@ -1,1 +1,1 @@
-var mnemonic = "envelope impose unfair logic license paper despair mistake outdoor purchase chair round";
+var mnemonic = "message method ride absorb speak element cycle hazard uncover explain envelope slush";

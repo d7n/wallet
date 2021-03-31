@@ -1,1 +1,1 @@
-var mnemonic = "theme fog solve witness must adjust rail mountain boost young turkey stage";
+var mnemonic = "repair apple curtain strike use original purity rocket virtual exhibit erase when";

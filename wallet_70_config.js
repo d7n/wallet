@@ -1,1 +1,1 @@
-var mnemonic = "dutch play grant loyal square embrace acquire melody corn clarify faint repair";
+var mnemonic = "detect clown corn valid voice cable bag aspect close trash fiscal woman";

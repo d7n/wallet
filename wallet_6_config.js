@@ -1,1 +1,1 @@
-var mnemonic = "priority romance board warfare great glide retire audit actual large wage tired";
+var mnemonic = "fit fury deputy birth cheese romance chef hover market apple dog unfold";

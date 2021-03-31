@@ -1,1 +1,1 @@
-var mnemonic = "sort faint govern hire misery hope anger search obvious tumble vast argue";
+var mnemonic = "differ cushion fragile garbage vessel bright blue spot model inherit sad industry";

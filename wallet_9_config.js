@@ -1,1 +1,1 @@
-var mnemonic = "stereo behave night pistol urge use fever parent glimpse amazing pumpkin rug";
+var mnemonic = "torch trade radar december sun best mobile sadness chair runway property diesel";

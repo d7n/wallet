@@ -1,1 +1,1 @@
-var mnemonic = "city devote unfair rate pizza truth pass announce drastic head body brush";
+var mnemonic = "squeeze salmon mass purpose target canvas exercise urge naive coral night excess";

@@ -1,1 +1,1 @@
-var mnemonic = "gauge chapter visa paper wage bread ginger pull venture moon captain surprise";
+var mnemonic = "empower victory pave furnace squirrel town when hip text century lecture save";

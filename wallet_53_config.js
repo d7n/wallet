@@ -1,1 +1,1 @@
-var mnemonic = "inflict door weird scrap olympic guide pause front venture all kitten detect";
+var mnemonic = "net depth uniform hunt track lazy inhale quality famous chalk favorite strong";

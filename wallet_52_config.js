@@ -1,1 +1,1 @@
-var mnemonic = "shield able speed raven rebuild cargo club later bundle hurry kitten city";
+var mnemonic = "clerk vapor glass cloud dinosaur disorder clown survey must quick best rescue";

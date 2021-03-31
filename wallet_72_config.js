@@ -1,1 +1,1 @@
-var mnemonic = "buddy demand joke winter identify view embrace sand visit clay fault fine";
+var mnemonic = "cause expire assault cry hello snack ribbon anger panel auction uniform mule";

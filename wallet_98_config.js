@@ -1,1 +1,1 @@
-var mnemonic = "clay raw mix obey memory differ airport wall shop actress turn slot";
+var mnemonic = "panther maximum travel shock sign average deliver foil hedgehog coffee obscure fossil";

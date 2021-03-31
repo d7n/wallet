@@ -1,1 +1,1 @@
-var mnemonic = "quit stick amateur satoshi pause volcano crisp lonely client answer light section";
+var mnemonic = "hunt human woman canyon cupboard link burden divorce interest analyst lunar turn";

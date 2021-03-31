@@ -1,1 +1,1 @@
-var mnemonic = "moon frequent damage circle roast custom harsh city gadget gun thunder print";
+var mnemonic = "scout hand leisure park chef repair build wreck noble grunt crunch crawl";

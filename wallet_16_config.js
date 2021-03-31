@@ -1,1 +1,1 @@
-var mnemonic = "news demand bachelor broom urge private tape when spoil move fever today";
+var mnemonic = "destroy draft clutch grid master final regret scene farm fan alone giraffe";

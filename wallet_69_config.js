@@ -1,1 +1,1 @@
-var mnemonic = "upset field quiz access aerobic run flame ecology subject depend few crush";
+var mnemonic = "disorder meadow crazy cross task huge nothing photo awful gain room crouch";

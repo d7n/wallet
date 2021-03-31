@@ -1,1 +1,1 @@
-var mnemonic = "genuine envelope surge rural lesson fine venue warfare destroy swamp day finger";
+var mnemonic = "cute cave ball earth maple tunnel leisure muscle rely rapid brick bind";

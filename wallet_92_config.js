@@ -1,1 +1,1 @@
-var mnemonic = "junior swift super citizen disorder cage today stomach cycle resource since divert";
+var mnemonic = "castle dry run upon fiction fever mask bus price real stock salt";

@@ -1,1 +1,1 @@
-var mnemonic = "grain height farm other chapter wolf ability try lift glove lemon element";
+var mnemonic = "witness social shallow sponsor history duck bridge unlock into wait access smoke";

@@ -1,1 +1,1 @@
-var mnemonic = "first bone head adult rude noodle frown humor camp boat brain scrap";
+var mnemonic = "gospel hello illness harsh lottery actress bridge come industry when earth victory";

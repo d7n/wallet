@@ -1,1 +1,1 @@
-var mnemonic = "icon obtain client betray easily pool demand inspire grab merge lady soap";
+var mnemonic = "husband voyage useless rug common use people arctic slice leave exotic cradle";

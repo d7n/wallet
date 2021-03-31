@@ -1,1 +1,1 @@
-var mnemonic = "churn seven brother fit mass scene trip insect pyramid dirt rose cat";
+var mnemonic = "surround pluck burger speed goose anchor sign scrub season orbit tent fish";

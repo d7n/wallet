@@ -1,1 +1,1 @@
-var mnemonic = "sadness crush route yard soul three square humble maze unique sunset minute";
+var mnemonic = "middle license bulk seven neck write dash walnut endorse message fever puppy";

@@ -1,1 +1,1 @@
-var mnemonic = "genuine warrior relax camp skill disorder used grass local tortoise knock stable";
+var mnemonic = "cupboard west aunt destroy mixture aisle joke fringe clutch reopen hotel correct";

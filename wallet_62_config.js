@@ -1,1 +1,1 @@
-var mnemonic = "vanish evidence quote diary valid certain anchor march gather stereo chase tip";
+var mnemonic = "number what wage bracket mom decorate antenna empower bar catch asthma poem";

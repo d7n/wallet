@@ -1,1 +1,1 @@
-var mnemonic = "produce permit tragic enrich immune habit palace furnace make economy spring absurd";
+var mnemonic = "betray gorilla fine doll napkin artwork ask turn eternal express limit enact";

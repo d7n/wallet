@@ -1,1 +1,1 @@
-var mnemonic = "summer dwarf idle chaos monitor client bless wide jacket rain wash hurt";
+var mnemonic = "long interest ivory employ retreat daring okay tumble bird barrel angle rug";

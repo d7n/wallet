@@ -1,1 +1,1 @@
-var mnemonic = "margin blast bleak source lava shoot culture excuse way angry latin merry";
+var mnemonic = "select drill energy then gather company goat refuse light photo select tissue";

@@ -1,1 +1,1 @@
-var mnemonic = "era satoshi miracle proof phone section private device cook party film curious";
+var mnemonic = "donor update subject sweet display state surround saddle face shuffle soft solar";

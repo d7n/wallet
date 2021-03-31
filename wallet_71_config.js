@@ -1,1 +1,1 @@
-var mnemonic = "outer furnace grant jazz thrive wood moon leisure athlete dog february cable";
+var mnemonic = "trim stage shadow critic myself stamp planet give drop goddess wave fox";

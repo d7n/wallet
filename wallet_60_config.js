@@ -1,1 +1,1 @@
-var mnemonic = "joke copy among kite casual timber print describe trial knife stable hip";
+var mnemonic = "more message shadow edge pizza enroll admit crash engine cabin whisper dog";

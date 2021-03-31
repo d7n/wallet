@@ -1,1 +1,1 @@
-var mnemonic = "pink unusual concert during flat people spice fork crowd dose uncle rice";
+var mnemonic = "fancy enforce wealth matter circle stumble punch enroll pencil rival combine detail";

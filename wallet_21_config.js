@@ -1,1 +1,1 @@
-var mnemonic = "badge gate zone unique purchase wasp fly whisper bachelor gift raccoon enforce";
+var mnemonic = "person reunion address brain corn smoke duck mobile caught mixed tomato add";

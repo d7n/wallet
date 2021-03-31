@@ -1,1 +1,1 @@
-var mnemonic = "parade seed upgrade bless own bird leisure pig luggage invite pumpkin grain";
+var mnemonic = "media bicycle bench prison diagram caught cause slight glide cabbage into position";

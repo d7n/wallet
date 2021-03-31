@@ -1,1 +1,1 @@
-var mnemonic = "choice write north trick arctic train saddle nest ticket flip clog pledge";
+var mnemonic = "play head brisk interest spatial magic visa crime detect two nominee wool";

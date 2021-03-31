@@ -1,1 +1,1 @@
-var mnemonic = "way gentle year vague kitten screen surround hungry west announce sail erode";
+var mnemonic = "shuffle dust also globe poet cute welcome monitor crumble tuna fashion rapid";

@@ -1,1 +1,1 @@
-var mnemonic = "cake snack upper upset level tribe manual survey wheel grit bind asthma";
+var mnemonic = "any suggest rifle dinosaur sketch tonight lemon imitate attract elite top salt";

@@ -1,1 +1,1 @@
-var mnemonic = "skull build cause quantum coconut off predict picnic ripple leg prize lumber";
+var mnemonic = "fun salon cycle sense secret crisp benefit decade riot proud clutch click";

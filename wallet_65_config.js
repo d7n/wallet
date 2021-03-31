@@ -1,1 +1,1 @@
-var mnemonic = "judge diesel title casino ramp crystal come current noble detect finish speed";
+var mnemonic = "worth version snap ticket liberty arch maze special essence spy arrange lizard";

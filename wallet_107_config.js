@@ -1,1 +1,1 @@
-var mnemonic = "sustain marine airport throw boil spoon wage cliff skull decorate fall gather";
+var mnemonic = "surprise write print design hurry connect sight purpose vapor sign century wrong";

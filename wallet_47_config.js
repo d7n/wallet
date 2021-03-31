@@ -1,1 +1,1 @@
-var mnemonic = "primary slow repair metal trick lock gold pattern drum salute tail emerge";
+var mnemonic = "desk shine lend female scale bottom state video pencil mixed purchase rigid";

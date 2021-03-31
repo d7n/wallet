@@ -1,1 +1,1 @@
-var mnemonic = "away chair capable purchase depth coil fashion need add trust humble jacket";
+var mnemonic = "cactus cotton rib ostrich any wonder strong number recipe job like mass";

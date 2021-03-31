@@ -1,1 +1,1 @@
-var mnemonic = "burst patrol humble humor marine horn start embrace stuff attend blush swift";
+var mnemonic = "piano install company tenant march extend crawl coil must say toilet pig";

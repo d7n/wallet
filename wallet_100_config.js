@@ -1,1 +1,1 @@
-var mnemonic = "talk simple short slender diet match survey sort universe fine mistake clever";
+var mnemonic = "box iron obtain pave movie load elegant fall defy fire picture cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "lab dash remove have exit coast clerk fetch false famous runway motion";
+var mnemonic = "jar glow obscure junior forward tattoo agent uncle amount now canoe crazy";

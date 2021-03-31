@@ -1,1 +1,1 @@
-var mnemonic = "drip cricket cushion indicate annual box zero champion wide merry nature quarter";
+var mnemonic = "sustain flower pen duty ordinary smart zebra impose quiz coil era decade";

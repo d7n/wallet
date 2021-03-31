@@ -1,1 +1,1 @@
-var mnemonic = "sound simple bargain cup apple pulp narrow husband balance transfer minimum quote";
+var mnemonic = "stereo people sister stairs split surprise chuckle oblige galaxy alarm cigar water";

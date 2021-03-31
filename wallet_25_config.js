@@ -1,1 +1,1 @@
-var mnemonic = "shrug address capable tortoise bar filter depend final artist frog cattle bacon";
+var mnemonic = "desk allow crunch public kitchen favorite useless shoe hidden pink host fix";

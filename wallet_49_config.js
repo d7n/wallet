@@ -1,1 +1,1 @@
-var mnemonic = "notice weird crush broccoli flavor use crime poverty pumpkin height lemon pause";
+var mnemonic = "ugly maximum enact forget pretty slide maple slogan trash fence plate ladder";

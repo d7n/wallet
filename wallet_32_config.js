@@ -1,1 +1,1 @@
-var mnemonic = "another ball soldier arrow verify check later style vapor proof fever black";
+var mnemonic = "sense embark remove toddler object frog student choice crew able response brick";

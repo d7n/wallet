@@ -1,1 +1,1 @@
-var mnemonic = "polar diesel donate pioneer anchor impose behind wave success cement clean aisle";
+var mnemonic = "reveal actual rough delay match clay record man appear desert strike uncle";

@@ -1,1 +1,1 @@
-var mnemonic = "awful joy subject box purpose typical floor thank auction bunker again puppy";
+var mnemonic = "cute certain wrist drum relax label strategy party juice able simple coast";

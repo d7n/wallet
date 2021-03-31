@@ -1,1 +1,1 @@
-var mnemonic = "fun fit ocean thank film behave vapor brisk begin glass cloud scout";
+var mnemonic = "tragic together will cherry abuse pull battle measure lift grape moon submit";

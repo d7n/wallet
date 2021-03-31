@@ -1,1 +1,1 @@
-var mnemonic = "electric tape item pitch grab treat boring outdoor symptom wet found churn";
+var mnemonic = "device crash front sand milk remind arrest invest rely truth camera prison";

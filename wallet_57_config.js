@@ -1,1 +1,1 @@
-var mnemonic = "school wish brush search clever engine arrive reject clerk click tongue ring";
+var mnemonic = "series crew peasant wink alley involve finish spoil cancel chase room retreat";

@@ -1,1 +1,1 @@
-var mnemonic = "ship cheap hurt confirm fatal general taste civil garbage casual hard forget";
+var mnemonic = "divide usage mimic mad daring oyster machine sunny ignore salmon frame again";

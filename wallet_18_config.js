@@ -1,1 +1,1 @@
-var mnemonic = "candy genre curious indoor chat addict nerve head symptom seek increase wasp";
+var mnemonic = "obvious orphan tongue case clever potato document crouch turn again swing grow";

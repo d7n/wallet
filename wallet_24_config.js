@@ -1,1 +1,1 @@
-var mnemonic = "soldier anchor theory system swear wreck develop later half prefer siege negative";
+var mnemonic = "floor hungry peanut symptom century syrup cave kiss border device quarter another";

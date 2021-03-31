@@ -1,1 +1,1 @@
-var mnemonic = "good return hockey limb romance large chef submit alert best pelican atom";
+var mnemonic = "casino fame taste fringe enable symbol mother cost blast valve confirm resource";

@@ -1,1 +1,1 @@
-var mnemonic = "chapter patrol chimney list short snake click defy amused hammer silver raw";
+var mnemonic = "blur angle allow cave umbrella later mind slot slot enhance bread fine";

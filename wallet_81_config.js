@@ -1,1 +1,1 @@
-var mnemonic = "own bounce swim below cancel ladder rail spatial pen foster stock miss";
+var mnemonic = "symbol picnic stuff sight letter dust wreck salt try process ketchup senior";

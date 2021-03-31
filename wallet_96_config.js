@@ -1,1 +1,1 @@
-var mnemonic = "wedding crisp cart fragile kick kind slush diary install accuse diesel raise";
+var mnemonic = "airport bird beauty extra radio rib clutch collect meat romance naive segment";

@@ -1,1 +1,1 @@
-var mnemonic = "cat master message little below culture situate predict velvet staff garage primary";
+var mnemonic = "crawl fee pupil main click delay consider degree okay initial survey prevent";

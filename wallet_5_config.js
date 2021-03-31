@@ -1,1 +1,1 @@
-var mnemonic = "photo convince describe loan web tone lawn panic bless ignore law edit";
+var mnemonic = "rule noble burst kit correct among foam sentence kiwi buffalo symptom crack";

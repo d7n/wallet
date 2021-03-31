@@ -1,1 +1,1 @@
-var mnemonic = "game crumble silly noble load useless clip satoshi deer demand venture gesture";
+var mnemonic = "door over evil machine width flash castle trigger antique motor young pony";

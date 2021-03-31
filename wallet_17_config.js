@@ -1,1 +1,1 @@
-var mnemonic = "stuff squirrel head lake begin timber comic inner guilt stone discover exhaust";
+var mnemonic = "victory cool decide waste crater ridge domain rocket title car world horse";

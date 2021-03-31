@@ -1,1 +1,1 @@
-var mnemonic = "fox lazy borrow sunset sugar tube great wheat dove peanut sight siren";
+var mnemonic = "cactus little thrive hundred frozen runway furnace rain candy trophy avoid spot";

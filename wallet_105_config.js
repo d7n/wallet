@@ -1,1 +1,1 @@
-var mnemonic = "casino empower sudden simple draft hurry stairs quantum hotel agent february midnight";
+var mnemonic = "salad rough carpet video crystal sentence buyer alarm area involve foster dynamic";

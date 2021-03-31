@@ -1,1 +1,1 @@
-var mnemonic = "tree income try moral twelve fame coffee wrap try about girl gap";
+var mnemonic = "tackle real case forget myself action tenant crunch thank merit local point";

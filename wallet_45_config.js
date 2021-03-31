@@ -1,1 +1,1 @@
-var mnemonic = "borrow zebra ring spray payment defy dish hammer arch volume normal fancy";
+var mnemonic = "card wink idea conduct village galaxy achieve range harvest flag cotton again";

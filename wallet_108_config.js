@@ -1,1 +1,1 @@
-var mnemonic = "moment mix section appear carbon urge erupt possible future circle parade hard";
+var mnemonic = "illness enemy brisk crouch purity major faith across reject suit rebuild judge";

@@ -1,1 +1,1 @@
-var mnemonic = "vintage observe flag banner knock mass talent narrow hurt gate furnace own";
+var mnemonic = "taxi photo dune park ability wheat angle favorite author curious debate wedding";

@@ -1,1 +1,1 @@
-var mnemonic = "coconut name again patient name deposit neglect labor green giraffe fault interest";
+var mnemonic = "input leave milk leisure zero embrace wing radar organ shoot six lock";

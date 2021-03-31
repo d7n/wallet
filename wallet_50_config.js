@@ -1,1 +1,1 @@
-var mnemonic = "mind breeze oblige inner team globe excess uncle fiber fuel old bacon";
+var mnemonic = "medal taste pole flip clown risk ship process feature mix space galaxy";

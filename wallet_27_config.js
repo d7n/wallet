@@ -1,1 +1,1 @@
-var mnemonic = "fan deny bar smile update feed cliff leopard rely upset canvas tray";
+var mnemonic = "little proof light apple pistol card dream immune mobile jelly north party";

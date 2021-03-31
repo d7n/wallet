@@ -1,1 +1,1 @@
-var mnemonic = "faint way milk blossom genius cube person relax primary tattoo winter audit";
+var mnemonic = "eight siren olive coin expire section change hold check despair scale update";

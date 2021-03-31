@@ -1,1 +1,1 @@
-var mnemonic = "round mother media convince flight push ready luggage stereo bird athlete fee";
+var mnemonic = "area twin come two avoid private excess snap jealous become mountain bubble";

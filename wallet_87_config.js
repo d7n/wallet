@@ -1,1 +1,1 @@
-var mnemonic = "mother slender high design divide matter casino this alcohol flavor guard toss";
+var mnemonic = "relief sand guard bamboo melt online poet network runway decorate melody foam";

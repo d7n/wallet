@@ -1,1 +1,1 @@
-var mnemonic = "vague about inner love cushion dish liquid remain inherit detect worry poverty";
+var mnemonic = "opera relief witness remove phone vanish quit october medal certain dress glide";

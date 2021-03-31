@@ -1,1 +1,1 @@
-var mnemonic = "urban avocado journey chunk dentist visit fix robot elevator sniff cheap zebra";
+var mnemonic = "right mixed staff payment rigid gown rare captain bitter inspire tide educate";

@@ -1,1 +1,1 @@
-var mnemonic = "else level mass sunset cloth cigar myth penalty script unlock ladder curtain";
+var mnemonic = "unknown chair soon sheriff area parade allow goat liquid almost river diet";
