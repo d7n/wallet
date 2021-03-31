@@ -1,1 +1,1 @@
-var mnemonic = "bus joy lake empower kit repeat awkward jaguar wash quick all accuse";
+var mnemonic = "vacuum object sword arctic gift shield enough bacon license column exclude amateur";

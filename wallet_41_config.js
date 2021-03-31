@@ -1,1 +1,1 @@
-var mnemonic = "remind jar gospel corn hold off unaware jump you thing village spot";
+var mnemonic = "vehicle ask task solve genre rude tag trim october damp luxury cactus";

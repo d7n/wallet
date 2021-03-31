@@ -1,1 +1,1 @@
-var mnemonic = "solve owner soccer nephew derive company slot warm pool quick dust now";
+var mnemonic = "mail decline scissors endorse chef cabbage catalog kiss chase hour soul liar";

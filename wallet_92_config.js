@@ -1,1 +1,1 @@
-var mnemonic = "hen voyage clock scrub glare robot bleak drive until harsh relief blood";
+var mnemonic = "private liquid amount domain culture offer trouble swarm glove assault marriage develop";

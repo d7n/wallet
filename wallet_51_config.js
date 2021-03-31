@@ -1,1 +1,1 @@
-var mnemonic = "group cloth confirm slab walk fossil square wood heart alter zone time";
+var mnemonic = "tooth crush soul rude love boring either pulse purity detail leopard scan";

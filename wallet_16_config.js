@@ -1,1 +1,1 @@
-var mnemonic = "aisle hidden chat legend bus mail breeze give make push round repair";
+var mnemonic = "funny involve corn view horror space nephew gesture ability pattern true decrease";

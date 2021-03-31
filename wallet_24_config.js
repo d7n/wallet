@@ -1,1 +1,1 @@
-var mnemonic = "melt resist neglect yellow maze wagon banner index excess tool index claw";
+var mnemonic = "raccoon oval joke surge tomato jazz share scrap shrimp edit super fine";

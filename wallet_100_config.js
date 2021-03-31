@@ -1,1 +1,1 @@
-var mnemonic = "happy icon rather waste nasty helmet diagram security nominee upper dismiss grab";
+var mnemonic = "cousin potato trumpet afraid glare clown coconut syrup disagree join verb dice";

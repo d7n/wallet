@@ -1,1 +1,1 @@
-var mnemonic = "hurry weather surprise fashion rule oval uncle expand insect curious furnace message";
+var mnemonic = "labor six document injury van album bird select problem trash orphan blade";

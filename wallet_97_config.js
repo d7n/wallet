@@ -1,1 +1,1 @@
-var mnemonic = "stick illegal flash brick fun north grain penalty trumpet lady increase bronze";
+var mnemonic = "effort moment drink primary proof chunk snow decline perfect casual palm resource";

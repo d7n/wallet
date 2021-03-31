@@ -1,1 +1,1 @@
-var mnemonic = "gospel fatal inspire word school broccoli easy cream defense medal vote tube";
+var mnemonic = "fantasy onion actual invest monkey envelope captain sauce repair donate orient art";

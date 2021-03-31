@@ -1,1 +1,1 @@
-var mnemonic = "yellow accuse wood blur unknown asset blame trumpet employ claim reveal plug";
+var mnemonic = "license rather gesture apple weather spice jungle mimic drift elevator globe hunt";

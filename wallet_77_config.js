@@ -1,1 +1,1 @@
-var mnemonic = "never summer long cable sorry desert undo view vital toast erosion nasty";
+var mnemonic = "blade reason repeat control wave polar disorder soap unfold pupil know gesture";

@@ -1,1 +1,1 @@
-var mnemonic = "below dismiss auto baby cycle dignity transfer outside pet valley blossom alarm";
+var mnemonic = "drill verify please cube suspect tragic kitten dune cabin error blossom rival";

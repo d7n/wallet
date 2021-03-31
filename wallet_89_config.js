@@ -1,1 +1,1 @@
-var mnemonic = "always emotion task flush garlic fun rely weather suit ribbon trumpet craft";
+var mnemonic = "fit plunge diagram hollow later oil agree click push define remind bounce";

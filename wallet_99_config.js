@@ -1,1 +1,1 @@
-var mnemonic = "harvest adult game bracket range crucial motor come shy inherit wool possible";
+var mnemonic = "zoo use wrong cover toddler ethics satoshi alcohol essence trigger dolphin apple";

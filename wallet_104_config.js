@@ -1,1 +1,1 @@
-var mnemonic = "sand run receive example defense distance vanish canoe three host expire ill";
+var mnemonic = "banner tiger silver supply treat cereal wait flower tiny cash cable share";

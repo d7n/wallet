@@ -1,1 +1,1 @@
-var mnemonic = "fury cement ring quarter unique figure ill frost rain panic evidence pepper";
+var mnemonic = "veteran reason crawl father guilt account tuition one category goat actual chimney";

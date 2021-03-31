@@ -1,1 +1,1 @@
-var mnemonic = "music tree appear hurry change comic source very rule purse light grid";
+var mnemonic = "post home spoil pass dynamic funny pride struggle picnic unusual train below";

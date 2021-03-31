@@ -1,1 +1,1 @@
-var mnemonic = "shiver awkward door poverty riot curve coin paddle live marble sugar slogan";
+var mnemonic = "whale tooth stereo forget fit visa local illegal wish tired bacon april";

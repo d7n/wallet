@@ -1,1 +1,1 @@
-var mnemonic = "civil label chuckle body sample resource addict weapon pen lawsuit struggle model";
+var mnemonic = "kingdom spray planet nature scare avoid essay glare furnace roof cash lava";

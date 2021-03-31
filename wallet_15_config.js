@@ -1,1 +1,1 @@
-var mnemonic = "glare memory window brain deny truth lesson put chest vacuum over glide";
+var mnemonic = "frog seed build puppy siege razor scout penalty dice brown weather garden";

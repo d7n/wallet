@@ -1,1 +1,1 @@
-var mnemonic = "tattoo ivory wedding cube sister jewel panel margin reject wife major message";
+var mnemonic = "pear movie ladder have canyon hurry voice cry install old secret cabbage";

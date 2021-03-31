@@ -1,1 +1,1 @@
-var mnemonic = "noise pyramid ancient audit any zero wild question reward cool album stuff";
+var mnemonic = "sand bread above soft entry write pond surprise humor husband crop hotel";

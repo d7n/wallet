@@ -1,1 +1,1 @@
-var mnemonic = "swamp leg stuff sunny detail resource hero inject topic siege loop toast";
+var mnemonic = "approve hover twenty ten disease angry holiday hill toward decide flight planet";

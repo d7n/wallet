@@ -1,1 +1,1 @@
-var mnemonic = "deny someone strike lunch surge unusual leopard ugly rookie salon surround path";
+var mnemonic = "guide tomorrow umbrella bar say jewel cat side clarify trend course cart";

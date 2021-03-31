@@ -1,1 +1,1 @@
-var mnemonic = "cruel song twenty liar pyramid noble debate penalty parent coyote wrestle next";
+var mnemonic = "market autumn alert security lyrics satoshi surround expire breeze wool trim escape";

@@ -1,1 +1,1 @@
-var mnemonic = "dove shield giant wheel woman mule motion prevent victory exit ribbon illness";
+var mnemonic = "enrich account alley virus evolve spice link quote fresh dice label ordinary";

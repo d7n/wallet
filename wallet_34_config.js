@@ -1,1 +1,1 @@
-var mnemonic = "van bone satoshi mistake chase angle fiction raccoon sibling under fox carpet";
+var mnemonic = "fiscal such high pitch knee boil same arrest online club round man";

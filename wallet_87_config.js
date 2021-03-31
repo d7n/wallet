@@ -1,1 +1,1 @@
-var mnemonic = "enlist open world bench crane afford menu barely embark bench assault orange";
+var mnemonic = "morning slogan outer room wise window grab nose upgrade banner wall kind";

@@ -1,1 +1,1 @@
-var mnemonic = "copper immense announce cruise people avocado student like comfort rifle flight minor";
+var mnemonic = "wisdom attend mouse pact expose stairs umbrella alpha wait frog test banner";

@@ -1,1 +1,1 @@
-var mnemonic = "slogan village curve wise rhythm crack vehicle this float repeat obvious lens";
+var mnemonic = "pond bullet rebuild urge happy demise fly rare own idea display wide";

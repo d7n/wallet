@@ -1,1 +1,1 @@
-var mnemonic = "art tomato sock mass never eagle sudden promote twice census swamp convince";
+var mnemonic = "drill type advice sweet parent twenty slight betray because silly unhappy release";

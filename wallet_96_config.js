@@ -1,1 +1,1 @@
-var mnemonic = "engage salmon flee immune gesture grunt swim bicycle trade regular tonight strike";
+var mnemonic = "explain iron economy message easily series vintage three jealous sibling check grocery";

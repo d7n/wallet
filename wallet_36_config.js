@@ -1,1 +1,1 @@
-var mnemonic = "token banner zoo helmet opinion total fee autumn usual allow soap invest";
+var mnemonic = "biology square hope angle fly region same tiny topic mix unaware can";

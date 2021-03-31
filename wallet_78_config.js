@@ -1,1 +1,1 @@
-var mnemonic = "wagon prepare oyster novel oven you task match park soldier focus mushroom";
+var mnemonic = "real champion slide know charge indicate remind brisk drop crop defy exit";

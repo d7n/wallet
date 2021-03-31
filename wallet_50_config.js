@@ -1,1 +1,1 @@
-var mnemonic = "sister finish little devote love very cactus recycle element junk fiction sign";
+var mnemonic = "carpet wisdom girl magnet parent wisdom dad embark jump disagree flame female";

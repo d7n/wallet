@@ -1,1 +1,1 @@
-var mnemonic = "cream flush client cousin oyster nice ceiling above pudding piano raccoon because";
+var mnemonic = "draw shoot vast finger glance float jeans media service pond trade ring";

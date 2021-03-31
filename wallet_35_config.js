@@ -1,1 +1,1 @@
-var mnemonic = "hair hard diagram axis clinic dust drastic estate remind effort hint asthma";
+var mnemonic = "fatigue smooth approve term initial recall senior cluster neck immense gain bomb";

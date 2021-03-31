@@ -1,1 +1,1 @@
-var mnemonic = "summer neck fiber damp adult release buffalo baby thrive farm meadow fiber";
+var mnemonic = "current entry scheme brass used vacant neck impose win vehicle noodle oven";

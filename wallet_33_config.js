@@ -1,1 +1,1 @@
-var mnemonic = "pepper ketchup vague expand picture citizen pulp media science plastic great artist";
+var mnemonic = "urban hour earth decline artist ugly attitude sail question smart duty resource";

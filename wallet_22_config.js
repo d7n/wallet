@@ -1,1 +1,1 @@
-var mnemonic = "marriage truly enable use skirt parrot slab tide popular place camera hidden";
+var mnemonic = "mixed check dune knee solve robust damage human company crowd upon quick";

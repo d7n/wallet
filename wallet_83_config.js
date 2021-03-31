@@ -1,1 +1,1 @@
-var mnemonic = "anxiety what exclude square space aerobic angle address silly envelope leaf reward";
+var mnemonic = "hazard ready champion dial gift smooth attack promote siege road wife sea";

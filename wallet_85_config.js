@@ -1,1 +1,1 @@
-var mnemonic = "current arrest series champion tell knee oil weather manual kind slow open";
+var mnemonic = "tonight hunt seminar roast essence home cage august away grab win leopard";

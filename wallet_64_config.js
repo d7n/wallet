@@ -1,1 +1,1 @@
-var mnemonic = "soft tornado face noodle when list enact weapon tent orphan penalty auto";
+var mnemonic = "check leader major seat key warrior fee month boy eager match jungle";

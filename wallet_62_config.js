@@ -1,1 +1,1 @@
-var mnemonic = "mask exchange school occur melt month mystery govern glow vicious warfare diary";
+var mnemonic = "shift fever damage elite frequent evoke jaguar kangaroo sunny inherit host fitness";

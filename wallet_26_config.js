@@ -1,1 +1,1 @@
-var mnemonic = "idle siren much kiss alarm hen detect ask myself work shy hand";
+var mnemonic = "coach tuition beyond crouch dress toy acoustic boil zoo barrel action nothing";

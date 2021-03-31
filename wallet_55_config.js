@@ -1,1 +1,1 @@
-var mnemonic = "crane genius proof lock fiber jewel install analyst cloud direct mirror real";
+var mnemonic = "scatter wing ranch car sniff above family tuna tumble dad release forest";

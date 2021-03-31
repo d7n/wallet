@@ -1,1 +1,1 @@
-var mnemonic = "tragic old gospel love pear deputy sister lizard can color swap rhythm";
+var mnemonic = "fee whisper truly often weekend pen news bulk theme bag start carbon";

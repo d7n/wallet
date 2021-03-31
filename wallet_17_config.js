@@ -1,1 +1,1 @@
-var mnemonic = "peanut volume caught inside gym input fashion cook art kind canvas witness";
+var mnemonic = "effort travel cram another vote citizen doctor layer bundle special enrich lion";

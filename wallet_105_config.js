@@ -1,1 +1,1 @@
-var mnemonic = "cage reason metal ten option tenant scissors absent rival crystal person pizza";
+var mnemonic = "merge similar quantum police perfect image liar dwarf security flower seven exhaust";

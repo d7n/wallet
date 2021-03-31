@@ -1,1 +1,1 @@
-var mnemonic = "lens hire right symbol practice meadow mass drum medal pattern second ecology";
+var mnemonic = "manual grab pond spoon solution cruise embark boy route poem memory april";

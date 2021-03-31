@@ -1,1 +1,1 @@
-var mnemonic = "reject fox learn insect gown engage clean pyramid useless attract giraffe vote";
+var mnemonic = "evil ocean base cactus woman receive arrow sock hole first kitchen bomb";

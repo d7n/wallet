@@ -1,1 +1,1 @@
-var mnemonic = "marble blur alert video jewel input minimum like rotate rhythm original jeans";
+var mnemonic = "slow sunny version arm bike click dune patrol safe pool athlete system";

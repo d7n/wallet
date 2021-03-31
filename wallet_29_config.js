@@ -1,1 +1,1 @@
-var mnemonic = "broom pave infant lottery silk void aerobic solve series ivory rate flame";
+var mnemonic = "fuel piece lemon tree venture rude crowd piece rubber comfort picnic knife";

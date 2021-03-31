@@ -1,1 +1,1 @@
-var mnemonic = "evolve rabbit teach govern usage saddle manual romance discover news effort crane";
+var mnemonic = "lonely raccoon eye coil attitude prosper cherry match calm early exist prevent";

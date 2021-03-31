@@ -1,1 +1,1 @@
-var mnemonic = "vessel fame crash shock squirrel boat bulb town save shield enter aware";
+var mnemonic = "position sight simple element alcohol hedgehog depth bachelor cover onion broken solid";

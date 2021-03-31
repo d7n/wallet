@@ -1,1 +1,1 @@
-var mnemonic = "boss glance safe sustain alone broken define sheriff draw hundred gallery art";
+var mnemonic = "inmate core hungry ivory lamp zone group measure cash float coconut curve";

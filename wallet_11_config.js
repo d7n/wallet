@@ -1,1 +1,1 @@
-var mnemonic = "series quarter fatigue resemble crouch puppy trade pause glove behave consider large";
+var mnemonic = "dial swim husband tunnel sight clinic huge body robust people great leopard";

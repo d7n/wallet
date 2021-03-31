@@ -1,1 +1,1 @@
-var mnemonic = "pencil ethics polar confirm airport girl wolf citizen sock faculty public unit";
+var mnemonic = "bridge negative section rather design ship brass one agree client witness swift";

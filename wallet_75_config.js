@@ -1,1 +1,1 @@
-var mnemonic = "month quote orchard village firm ability bridge demand surface maze local emotion";
+var mnemonic = "develop execute casino bone glass foil toward gun student pass puzzle walnut";

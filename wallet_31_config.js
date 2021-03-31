@@ -1,1 +1,1 @@
-var mnemonic = "coyote heart grass access stick frown wave depend clerk unable lady rich";
+var mnemonic = "satoshi culture light kitten boy olive tag ladder wife rely first napkin";

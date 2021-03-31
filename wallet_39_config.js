@@ -1,1 +1,1 @@
-var mnemonic = "multiply iron ethics floor eye rude provide jar ask keep outdoor shaft";
+var mnemonic = "verify universe save kit message arrive gas deal voice check festival trim";

@@ -1,1 +1,1 @@
-var mnemonic = "anxiety affair tone click mom turtle about cube vendor nerve pole hamster";
+var mnemonic = "cook hammer spawn absent worry album unusual genuine road sleep title solar";

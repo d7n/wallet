@@ -1,1 +1,1 @@
-var mnemonic = "hand sun dove wise opinion thunder wine inform girl chronic public nation";
+var mnemonic = "rough taxi spatial spare deny ring river shallow piano reveal page flash";

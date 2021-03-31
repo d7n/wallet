@@ -1,1 +1,1 @@
-var mnemonic = "genuine future skill drill scrap treat vast mutual excite enable this chef";
+var mnemonic = "remember air make mobile giant sugar mix insane trophy glove manage ribbon";

@@ -1,1 +1,1 @@
-var mnemonic = "where struggle sing language garden else bargain salt witness journey shield burger";
+var mnemonic = "distance mobile nation series wheel traffic barely fault abuse top picture jungle";

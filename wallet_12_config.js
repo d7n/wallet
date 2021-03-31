@@ -1,1 +1,1 @@
-var mnemonic = "element social yellow kind produce hamster student grow dove monkey jaguar cliff";
+var mnemonic = "vote soldier online auto almost drum resource solar fiction gain clutch jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "siege viable pilot fix visa danger frequent cinnamon piece elephant social keep";
+var mnemonic = "approve collect hour eager account wide carry cup asthma cupboard upset ocean";

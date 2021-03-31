@@ -1,1 +1,1 @@
-var mnemonic = "estate company various raccoon strategy venue vault beef blush load client extend";
+var mnemonic = "amount fitness arrive unknown hobby gossip floor example style govern early quit";

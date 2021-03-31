@@ -1,1 +1,1 @@
-var mnemonic = "south select riot tip canyon call tell nation famous toddler ask tragic";
+var mnemonic = "rate legal base food found ketchup limit boil gasp bronze ridge mail";

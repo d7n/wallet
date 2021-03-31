@@ -1,1 +1,1 @@
-var mnemonic = "now aunt elder carbon depart ribbon excess shaft play reduce fruit aim";
+var mnemonic = "traffic clown wish hold friend shine horn change leader range arena blood";

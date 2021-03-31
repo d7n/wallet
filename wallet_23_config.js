@@ -1,1 +1,1 @@
-var mnemonic = "come walnut edge script gaze next cake approve flee promote escape exile";
+var mnemonic = "high dumb offer hobby fit gold jump ocean hockey insect what fun";

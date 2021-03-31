@@ -1,1 +1,1 @@
-var mnemonic = "mystery fantasy where program answer coconut unable crunch cash dune east near";
+var mnemonic = "truth nice deal salad assume chef heavy people carry tumble thank bulb";

@@ -1,1 +1,1 @@
-var mnemonic = "clinic pledge curtain possible half sport faint alcohol attract vault hire buyer";
+var mnemonic = "rack upon struggle setup physical tortoise typical pencil hello ride fork tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "crouch stock nothing enact history imitate miss imitate stadium orchard crime mouse";
+var mnemonic = "quantum top smart put leave super tomato trumpet subway fashion sauce soul";

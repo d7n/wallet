@@ -1,1 +1,1 @@
-var mnemonic = "pave crater submit own wedding manual chest panel actual alter amount sphere";
+var mnemonic = "useful ankle witness police sunset beyond practice guitar bench squirrel dinner olympic";

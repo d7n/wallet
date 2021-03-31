@@ -1,1 +1,1 @@
-var mnemonic = "system produce ocean error then exit bus wrap march loop soap ticket";
+var mnemonic = "obvious learn tooth misery urge tilt tribe cube harbor interest aerobic right";

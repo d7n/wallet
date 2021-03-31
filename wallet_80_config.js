@@ -1,1 +1,1 @@
-var mnemonic = "creek quantum metal melt fruit decorate enough album stock observe member public";
+var mnemonic = "opera analyst panda away idle thank issue thank decrease nurse priority charge";

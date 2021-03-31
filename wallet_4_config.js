@@ -1,1 +1,1 @@
-var mnemonic = "margin upper public below venue walk rose skin reflect slogan tray vague";
+var mnemonic = "ethics fever fire emotion elder olive animal suggest grain choice emotion frog";

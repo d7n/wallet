@@ -1,1 +1,1 @@
-var mnemonic = "world argue attract short cousin push web pigeon quantum naive city notable";
+var mnemonic = "convince symbol able topple cactus edge evidence abandon supply rabbit room offer";

@@ -1,1 +1,1 @@
-var mnemonic = "negative fade sound apple dizzy base alone country topple shift entire reveal";
+var mnemonic = "cool salad tackle unveil baby coast same lazy cement boost coast dilemma";

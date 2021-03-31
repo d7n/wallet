@@ -1,1 +1,1 @@
-var mnemonic = "marriage enemy stay category school cushion journey opinion report envelope car summer";
+var mnemonic = "pause off humor enlist knock reason erupt word track wealth waste midnight";

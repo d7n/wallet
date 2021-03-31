@@ -1,1 +1,1 @@
-var mnemonic = "exist help brave airport leaf soon lunch hurdle whip pumpkin tobacco private";
+var mnemonic = "chaos engage farm potato silk search arrow door coral code metal system";

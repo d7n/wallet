@@ -1,1 +1,1 @@
-var mnemonic = "kid enter coffee bid brave small evil weird audit wage hover step";
+var mnemonic = "heavy describe orbit snake tenant ill stumble cricket gossip primary carpet aware";

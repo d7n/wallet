@@ -1,1 +1,1 @@
-var mnemonic = "episode item lady fat tail once flock dress glory wing client island";
+var mnemonic = "inhale choose mango secret acquire swarm ahead resource rose run summer favorite";

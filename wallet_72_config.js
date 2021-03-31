@@ -1,1 +1,1 @@
-var mnemonic = "curious bar shock brave actor crowd obscure change clump endless leave correct";
+var mnemonic = "trophy render picture april change else glimpse person arrive wrestle fog latin";

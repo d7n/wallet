@@ -1,1 +1,1 @@
-var mnemonic = "marriage again include stumble critic lazy reunion bring trouble arrest swim figure";
+var mnemonic = "shallow width still loud fetch test denial shell boat chalk floor shiver";

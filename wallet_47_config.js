@@ -1,1 +1,1 @@
-var mnemonic = "photo talk gorilla street garbage tortoise lumber cereal day couch soft melt";
+var mnemonic = "pulp dish green tube smoke fold sheriff fog awful legend cannon roast";

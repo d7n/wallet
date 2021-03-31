@@ -1,1 +1,1 @@
-var mnemonic = "air domain supreme place lemon grid alarm ostrich hobby absent cabbage cannon";
+var mnemonic = "oval suspect same ecology patient jazz inhale sand floor turkey birth run";

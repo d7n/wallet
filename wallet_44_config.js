@@ -1,1 +1,1 @@
-var mnemonic = "oyster sand clerk index wear never blouse stable market joke ready announce";
+var mnemonic = "blind grit stable start citizen vapor chaos patch head little alarm attack";

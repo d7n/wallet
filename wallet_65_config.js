@@ -1,1 +1,1 @@
-var mnemonic = "hint hat prosper kiss edit decline awake sheriff between recall drive clump";
+var mnemonic = "olympic sustain balcony size erase marriage involve panther thing fish cute gadget";
