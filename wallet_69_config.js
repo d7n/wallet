@@ -1,1 +1,1 @@
-var mnemonic = "artist capital unique stone piece wasp frown limb garage average coffee alone";
+var mnemonic = "eternal because divorce choose rival axis strike second luxury hurt relief olympic";

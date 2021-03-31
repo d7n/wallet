@@ -1,1 +1,1 @@
-var mnemonic = "market autumn alert security lyrics satoshi surround expire breeze wool trim escape";
+var mnemonic = "view mouse intact message cherry pelican humor proof dry dizzy produce season";

@@ -1,1 +1,1 @@
-var mnemonic = "blade reason repeat control wave polar disorder soap unfold pupil know gesture";
+var mnemonic = "three energy dirt skate salt two error filter shy cinnamon robot bike";

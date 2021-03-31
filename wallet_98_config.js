@@ -1,1 +1,1 @@
-var mnemonic = "convince symbol able topple cactus edge evidence abandon supply rabbit room offer";
+var mnemonic = "sleep token business donor cream above chest decrease train faculty test advance";

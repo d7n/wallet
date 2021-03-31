@@ -1,1 +1,1 @@
-var mnemonic = "pond bullet rebuild urge happy demise fly rare own idea display wide";
+var mnemonic = "drum dwarf online extra marble discover myth couple curve survey sense waste";

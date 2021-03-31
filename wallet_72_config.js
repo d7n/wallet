@@ -1,1 +1,1 @@
-var mnemonic = "trophy render picture april change else glimpse person arrive wrestle fog latin";
+var mnemonic = "unaware pudding camp toward august fork oven honey blade arch december output";

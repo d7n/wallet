@@ -1,1 +1,1 @@
-var mnemonic = "vacuum object sword arctic gift shield enough bacon license column exclude amateur";
+var mnemonic = "baby improve turn cluster afraid pizza claim snap depart pave defense receive";

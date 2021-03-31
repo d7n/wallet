@@ -1,1 +1,1 @@
-var mnemonic = "pause off humor enlist knock reason erupt word track wealth waste midnight";
+var mnemonic = "stool broken december blanket addict derive night north base swift hint clock";

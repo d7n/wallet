@@ -1,1 +1,1 @@
-var mnemonic = "next add square exchange problem captain blue beach ring walk legal roast";
+var mnemonic = "tonight picnic kiss aware illness input tuition together sphere salon girl smile";

@@ -1,1 +1,1 @@
-var mnemonic = "oval suspect same ecology patient jazz inhale sand floor turkey birth run";
+var mnemonic = "matter slice away opera abuse fantasy promote tourist similar rack bounce coast";

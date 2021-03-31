@@ -1,1 +1,1 @@
-var mnemonic = "whale tooth stereo forget fit visa local illegal wish tired bacon april";
+var mnemonic = "patch flag rude tube vintage gloom emerge supreme coconut curve verb detail";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight hunt seminar roast essence home cage august away grab win leopard";
+var mnemonic = "train friend doctor ordinary shop despair reject fall asthma promote bless clog";

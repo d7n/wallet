@@ -1,1 +1,1 @@
-var mnemonic = "satoshi culture light kitten boy olive tag ladder wife rely first napkin";
+var mnemonic = "lion train capital shrug into flat few buddy waste kid assist roof";

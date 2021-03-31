@@ -1,1 +1,1 @@
-var mnemonic = "merge similar quantum police perfect image liar dwarf security flower seven exhaust";
+var mnemonic = "awkward bread mango nominee bid fine ahead orphan enact treat ball punch";

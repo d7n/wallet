@@ -1,1 +1,1 @@
-var mnemonic = "opera analyst panda away idle thank issue thank decrease nurse priority charge";
+var mnemonic = "master page private pilot crunch always yellow spider split spot entire indicate";

@@ -1,1 +1,1 @@
-var mnemonic = "traffic clown wish hold friend shine horn change leader range arena blood";
+var mnemonic = "truly orchard gun post text impulse theory tomato prefer nephew mouse faculty";

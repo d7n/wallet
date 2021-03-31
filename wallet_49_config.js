@@ -1,1 +1,1 @@
-var mnemonic = "drill type advice sweet parent twenty slight betray because silly unhappy release";
+var mnemonic = "universe odor nose broccoli sudden ski violin spice curve physical silver travel";

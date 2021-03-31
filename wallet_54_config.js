@@ -1,1 +1,1 @@
-var mnemonic = "guide tomorrow umbrella bar say jewel cat side clarify trend course cart";
+var mnemonic = "organ private suspect talk fog size people much aim thunder best romance";

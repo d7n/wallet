@@ -1,1 +1,1 @@
-var mnemonic = "drill verify please cube suspect tragic kitten dune cabin error blossom rival";
+var mnemonic = "castle scissors dream hotel lucky chief sign punch sadness load keen way";

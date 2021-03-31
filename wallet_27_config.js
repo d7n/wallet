@@ -1,1 +1,1 @@
-var mnemonic = "amount fitness arrive unknown hobby gossip floor example style govern early quit";
+var mnemonic = "success vote tuna siege list ill ice ginger giggle brain small flame";

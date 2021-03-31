@@ -1,1 +1,1 @@
-var mnemonic = "chaos engage farm potato silk search arrow door coral code metal system";
+var mnemonic = "tortoise next amused leaf female canvas adjust laundry panda manage avoid clutch";

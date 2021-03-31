@@ -1,1 +1,1 @@
-var mnemonic = "quantum top smart put leave super tomato trumpet subway fashion sauce soul";
+var mnemonic = "whale lion city course tent drift purity celery oblige swim maple tooth";

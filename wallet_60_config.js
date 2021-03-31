@@ -1,1 +1,1 @@
-var mnemonic = "fee whisper truly often weekend pen news bulk theme bag start carbon";
+var mnemonic = "decline glimpse angle secret confirm desert kiwi tail kick stereo crane shallow";

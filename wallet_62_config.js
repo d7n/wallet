@@ -1,1 +1,1 @@
-var mnemonic = "shift fever damage elite frequent evoke jaguar kangaroo sunny inherit host fitness";
+var mnemonic = "system unhappy wash gold nose bottom master echo bachelor online bread melt";

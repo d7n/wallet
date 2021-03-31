@@ -1,1 +1,1 @@
-var mnemonic = "pulp dish green tube smoke fold sheriff fog awful legend cannon roast";
+var mnemonic = "credit tobacco seed chalk high include rain art tourist sphere virus mercy";

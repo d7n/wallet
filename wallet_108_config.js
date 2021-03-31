@@ -1,1 +1,1 @@
-var mnemonic = "approve collect hour eager account wide carry cup asthma cupboard upset ocean";
+var mnemonic = "pilot old parent end kingdom banner border oyster that head capital royal";

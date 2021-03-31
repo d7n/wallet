@@ -1,1 +1,1 @@
-var mnemonic = "labor six document injury van album bird select problem trash orphan blade";
+var mnemonic = "ride remain frozen nose web shiver insane only wink inherit thrive copy";

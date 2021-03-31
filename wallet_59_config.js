@@ -1,1 +1,1 @@
-var mnemonic = "cook hammer spawn absent worry album unusual genuine road sleep title solar";
+var mnemonic = "rival corn now blue toe brick quarter clip brand pistol dinner seek";

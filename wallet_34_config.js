@@ -1,1 +1,1 @@
-var mnemonic = "fiscal such high pitch knee boil same arrest online club round man";
+var mnemonic = "spray you album tribe bless peasant gap dust select liquid useless rude";

@@ -1,1 +1,1 @@
-var mnemonic = "scatter wing ranch car sniff above family tuna tumble dad release forest";
+var mnemonic = "suffer parrot drip girl gospel profit thought cheese duck page dash shuffle";

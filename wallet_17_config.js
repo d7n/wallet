@@ -1,1 +1,1 @@
-var mnemonic = "effort travel cram another vote citizen doctor layer bundle special enrich lion";
+var mnemonic = "car unaware brush usual churn push bone dolphin clap fuel scale naive";

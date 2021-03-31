@@ -1,1 +1,1 @@
-var mnemonic = "license rather gesture apple weather spice jungle mimic drift elevator globe hunt";
+var mnemonic = "roof garbage outside yard clerk buzz issue autumn eye identify extend kitten";

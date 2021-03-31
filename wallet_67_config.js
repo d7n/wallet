@@ -1,1 +1,1 @@
-var mnemonic = "enrich account alley virus evolve spice link quote fresh dice label ordinary";
+var mnemonic = "room domain worth play keen slim holiday business clinic unfair pumpkin bike";

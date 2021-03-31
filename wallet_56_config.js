@@ -1,1 +1,1 @@
-var mnemonic = "pear movie ladder have canyon hurry voice cry install old secret cabbage";
+var mnemonic = "melody alcohol super tape deny hard inhale era toss evil quarter card";

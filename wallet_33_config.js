@@ -1,1 +1,1 @@
-var mnemonic = "urban hour earth decline artist ugly attitude sail question smart duty resource";
+var mnemonic = "gesture goddess peasant novel ride youth rate dash gadget borrow orphan caught";

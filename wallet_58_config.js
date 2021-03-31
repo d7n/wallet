@@ -1,1 +1,1 @@
-var mnemonic = "wood lawsuit tail cook toilet pilot hire interest cannon dice base fox";
+var mnemonic = "book drastic oval drip axis ask ready dolphin rather must spare jewel";

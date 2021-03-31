@@ -1,1 +1,1 @@
-var mnemonic = "shallow width still loud fetch test denial shell boat chalk floor shiver";
+var mnemonic = "humble clump venture erosion arena boil fabric juice man pig still birth";

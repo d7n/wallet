@@ -1,1 +1,1 @@
-var mnemonic = "cousin potato trumpet afraid glare clown coconut syrup disagree join verb dice";
+var mnemonic = "extend foot change whip december envelope duty similar beach gentle outer duck";

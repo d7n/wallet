@@ -1,1 +1,1 @@
-var mnemonic = "fantasy onion actual invest monkey envelope captain sauce repair donate orient art";
+var mnemonic = "almost embody accuse way romance claw frequent blur suspect hat gym visa";

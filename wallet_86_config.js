@@ -1,1 +1,1 @@
-var mnemonic = "manual grab pond spoon solution cruise embark boy route poem memory april";
+var mnemonic = "pledge apology strategy hurry hawk chase beach diet organ task punch upgrade";

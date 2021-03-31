@@ -1,1 +1,1 @@
-var mnemonic = "position sight simple element alcohol hedgehog depth bachelor cover onion broken solid";
+var mnemonic = "amazing police lake still tide boss express own snow range office mule";

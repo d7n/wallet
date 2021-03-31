@@ -1,1 +1,1 @@
-var mnemonic = "rate legal base food found ketchup limit boil gasp bronze ridge mail";
+var mnemonic = "light actual cattle swap ecology acid clever busy oblige trick panel ritual";

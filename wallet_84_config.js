@@ -1,1 +1,1 @@
-var mnemonic = "fashion coyote link limit label theory clog audit this reform monitor swallow";
+var mnemonic = "frequent trap eager blush gospel water cause rookie mushroom shoot west dice";

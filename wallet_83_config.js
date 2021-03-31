@@ -1,1 +1,1 @@
-var mnemonic = "hazard ready champion dial gift smooth attack promote siege road wife sea";
+var mnemonic = "delay script indicate volcano more script void deposit wage material inform silly";

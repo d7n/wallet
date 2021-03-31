@@ -1,1 +1,1 @@
-var mnemonic = "remember air make mobile giant sugar mix insane trophy glove manage ribbon";
+var mnemonic = "insane fragile parade ice liberty myth reject absurd life situate latin amused";

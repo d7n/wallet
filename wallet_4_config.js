@@ -1,1 +1,1 @@
-var mnemonic = "ethics fever fire emotion elder olive animal suggest grain choice emotion frog";
+var mnemonic = "inside romance dress wrist design utility affair foot weapon flag lake night";

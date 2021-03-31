@@ -1,1 +1,1 @@
-var mnemonic = "fatigue smooth approve term initial recall senior cluster neck immense gain bomb";
+var mnemonic = "fault east atom silver gym square top dance ahead truly spirit tunnel";

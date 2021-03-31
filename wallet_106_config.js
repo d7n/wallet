@@ -1,1 +1,1 @@
-var mnemonic = "obvious learn tooth misery urge tilt tribe cube harbor interest aerobic right";
+var mnemonic = "cute pudding bread despair office rent able couch barely lyrics loop sail";

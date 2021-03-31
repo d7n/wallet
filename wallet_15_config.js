@@ -1,1 +1,1 @@
-var mnemonic = "frog seed build puppy siege razor scout penalty dice brown weather garden";
+var mnemonic = "dog reopen coral denial grid review because pulp surround thrive cake year";

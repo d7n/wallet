@@ -1,1 +1,1 @@
-var mnemonic = "pool twenty connect lift adult sing entire cart trim bulb frost very";
+var mnemonic = "swift six biology find stool popular city into wide two ugly hotel";

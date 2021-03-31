@@ -1,1 +1,1 @@
-var mnemonic = "vehicle ask task solve genre rude tag trim october damp luxury cactus";
+var mnemonic = "lava mouse alter mystery program lake federal face gun inform logic produce";

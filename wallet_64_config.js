@@ -1,1 +1,1 @@
-var mnemonic = "check leader major seat key warrior fee month boy eager match jungle";
+var mnemonic = "before jealous luggage idle slice hospital girl there pyramid pilot plunge absorb";

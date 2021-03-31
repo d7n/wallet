@@ -1,1 +1,1 @@
-var mnemonic = "dial swim husband tunnel sight clinic huge body robust people great leopard";
+var mnemonic = "day mention lake squeeze lend wonder slam nominee water general giant vessel";

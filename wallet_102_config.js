@@ -1,1 +1,1 @@
-var mnemonic = "distance mobile nation series wheel traffic barely fault abuse top picture jungle";
+var mnemonic = "end dune laptop click pass skin neither park settle erupt bag torch";

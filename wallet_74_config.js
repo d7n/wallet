@@ -1,1 +1,1 @@
-var mnemonic = "hammer invite jealous range sand frost echo claim quiz inside fence choose";
+var mnemonic = "spend popular dose federal pass void inject teach card supreme exotic limb";

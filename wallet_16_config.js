@@ -1,1 +1,1 @@
-var mnemonic = "funny involve corn view horror space nephew gesture ability pattern true decrease";
+var mnemonic = "drop attitude alpha ethics tiger document test fantasy liar unlock mean addict";

@@ -1,1 +1,1 @@
-var mnemonic = "real champion slide know charge indicate remind brisk drop crop defy exit";
+var mnemonic = "noble crane wait meadow spawn clay point news myself merge burden nasty";

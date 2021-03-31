@@ -1,1 +1,1 @@
-var mnemonic = "type else wreck what item correct sadness ignore wing quit summer goose";
+var mnemonic = "execute knife boy under unveil donor egg useless civil require spray trust";

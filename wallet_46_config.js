@@ -1,1 +1,1 @@
-var mnemonic = "bridge negative section rather design ship brass one agree client witness swift";
+var mnemonic = "toy drip wide must cool cigar vanish sentence agent verify defy carbon";

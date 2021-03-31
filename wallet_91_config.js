@@ -1,1 +1,1 @@
-var mnemonic = "half fruit vacant rent girl voice position illegal skill estate prize sniff";
+var mnemonic = "off economy six letter below boy plastic comic canoe dish aisle toy";

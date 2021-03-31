@@ -1,1 +1,1 @@
-var mnemonic = "lonely raccoon eye coil attitude prosper cherry match calm early exist prevent";
+var mnemonic = "gas state outer excite tired flip mixture sphere habit minimum direct taste";

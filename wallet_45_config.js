@@ -1,1 +1,1 @@
-var mnemonic = "veteran reason crawl father guilt account tuition one category goat actual chimney";
+var mnemonic = "faint bean life region angry tomorrow tumble vapor gate visa boss snack";

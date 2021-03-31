@@ -1,1 +1,1 @@
-var mnemonic = "close equal vault sight nice pride bicycle gauge winner credit lazy pledge";
+var mnemonic = "cousin tired receive gadget midnight patch dice own assume enemy scene outdoor";

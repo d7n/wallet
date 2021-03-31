@@ -1,1 +1,1 @@
-var mnemonic = "cool salad tackle unveil baby coast same lazy cement boost coast dilemma";
+var mnemonic = "include physical unveil menu ozone virus picnic replace lock toy hungry speed";

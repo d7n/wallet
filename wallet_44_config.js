@@ -1,1 +1,1 @@
-var mnemonic = "blind grit stable start citizen vapor chaos patch head little alarm attack";
+var mnemonic = "actual maximum picnic clean bring nest patient parrot broom lesson lamp athlete";

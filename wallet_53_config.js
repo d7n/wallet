@@ -1,1 +1,1 @@
-var mnemonic = "useful ankle witness police sunset beyond practice guitar bench squirrel dinner olympic";
+var mnemonic = "hair spend act over economy nose angry clinic negative carpet utility example";

@@ -1,1 +1,1 @@
-var mnemonic = "mail decline scissors endorse chef cabbage catalog kiss chase hour soul liar";
+var mnemonic = "choice field salt diamond ice salon twenty move chunk unfair pole help";

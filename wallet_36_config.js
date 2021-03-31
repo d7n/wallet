@@ -1,1 +1,1 @@
-var mnemonic = "biology square hope angle fly region same tiny topic mix unaware can";
+var mnemonic = "illness boy consider album sting buzz enroll affair record thrive hollow record";

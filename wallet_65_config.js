@@ -1,1 +1,1 @@
-var mnemonic = "olympic sustain balcony size erase marriage involve panther thing fish cute gadget";
+var mnemonic = "note tag syrup leader notable drift among famous range few motion sting";

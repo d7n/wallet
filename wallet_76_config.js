@@ -1,1 +1,1 @@
-var mnemonic = "relax rival jacket record pull repeat pipe chimney dress muffin danger nest";
+var mnemonic = "sense captain verb primary connect awake diesel mansion bacon region knee letter";

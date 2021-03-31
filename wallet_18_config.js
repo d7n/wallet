@@ -1,1 +1,1 @@
-var mnemonic = "drill ahead tissue invest stamp include license trip program pencil romance panda";
+var mnemonic = "canal help virus truly accident secret carry palm jaguar joke intact art";

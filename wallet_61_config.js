@@ -1,1 +1,1 @@
-var mnemonic = "alarm gold oyster extra picnic announce exhaust shell parade burden sphere toward";
+var mnemonic = "urge afraid muscle rather rule license room inquiry talk kitten kid someone";

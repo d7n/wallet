@@ -1,1 +1,1 @@
-var mnemonic = "inmate core hungry ivory lamp zone group measure cash float coconut curve";
+var mnemonic = "miracle brass gospel anxiety duty cart sugar twenty try online april depend";

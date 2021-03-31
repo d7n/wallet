@@ -1,1 +1,1 @@
-var mnemonic = "carpet wisdom girl magnet parent wisdom dad embark jump disagree flame female";
+var mnemonic = "water head nuclear glue artist bundle ordinary chapter culture wheat autumn solar";

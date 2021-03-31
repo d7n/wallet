@@ -1,1 +1,1 @@
-var mnemonic = "private liquid amount domain culture offer trouble swarm glove assault marriage develop";
+var mnemonic = "during mother benefit drama end unknown cake range curtain unveil learn train";

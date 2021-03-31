@@ -1,1 +1,1 @@
-var mnemonic = "high dumb offer hobby fit gold jump ocean hockey insect what fun";
+var mnemonic = "damp holiday arena casual have today bright panda winner fun across way";

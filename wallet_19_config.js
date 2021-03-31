@@ -1,1 +1,1 @@
-var mnemonic = "approve hover twenty ten disease angry holiday hill toward decide flight planet";
+var mnemonic = "wheat property vehicle clap cake uphold cereal wreck local initial repair alcohol";

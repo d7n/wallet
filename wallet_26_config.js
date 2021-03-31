@@ -1,1 +1,1 @@
-var mnemonic = "coach tuition beyond crouch dress toy acoustic boil zoo barrel action nothing";
+var mnemonic = "behave upgrade right skull chief maze man park script host clutch busy";

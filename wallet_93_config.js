@@ -1,1 +1,1 @@
-var mnemonic = "truth nice deal salad assume chef heavy people carry tumble thank bulb";
+var mnemonic = "glare display evolve practice announce script cluster rude borrow orient first crime";

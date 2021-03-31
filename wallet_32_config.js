@@ -1,1 +1,1 @@
-var mnemonic = "rack upon struggle setup physical tortoise typical pencil hello ride fork tonight";
+var mnemonic = "ribbon decade hybrid keen perfect manage degree salad whale magic lawsuit angle";

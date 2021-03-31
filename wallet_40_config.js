@@ -1,1 +1,1 @@
-var mnemonic = "heavy describe orbit snake tenant ill stumble cricket gossip primary carpet aware";
+var mnemonic = "pass win now butter timber isolate process daughter lake guard obtain inherit";

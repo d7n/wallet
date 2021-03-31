@@ -1,1 +1,1 @@
-var mnemonic = "current entry scheme brass used vacant neck impose win vehicle noodle oven";
+var mnemonic = "space bird proud pair family axis common cup popular ivory ensure pencil";

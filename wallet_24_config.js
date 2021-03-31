@@ -1,1 +1,1 @@
-var mnemonic = "raccoon oval joke surge tomato jazz share scrap shrimp edit super fine";
+var mnemonic = "wrong spot puzzle sister spin rifle habit crater eyebrow buzz dry taxi";

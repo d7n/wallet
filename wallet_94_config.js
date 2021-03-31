@@ -1,1 +1,1 @@
-var mnemonic = "slow sunny version arm bike click dune patrol safe pool athlete system";
+var mnemonic = "girl tenant crouch rival shop resist measure essay spike glue ahead measure";

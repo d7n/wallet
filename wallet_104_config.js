@@ -1,1 +1,1 @@
-var mnemonic = "banner tiger silver supply treat cereal wait flower tiny cash cable share";
+var mnemonic = "visual edge month slush book license hurdle drum snake like coin arm";

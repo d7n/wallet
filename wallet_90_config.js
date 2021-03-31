@@ -1,1 +1,1 @@
-var mnemonic = "sand bread above soft entry write pond surprise humor husband crop hotel";
+var mnemonic = "today cruel rebel innocent fashion describe bracket worry kit country nest smooth";

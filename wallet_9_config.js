@@ -1,1 +1,1 @@
-var mnemonic = "select space scare skull glance find report verify number once effort pass";
+var mnemonic = "region false collect equal craft sketch pelican certain fly hire escape empty";

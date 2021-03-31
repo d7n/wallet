@@ -1,1 +1,1 @@
-var mnemonic = "fit plunge diagram hollow later oil agree click push define remind bounce";
+var mnemonic = "trouble weird april hotel arena soda act clay session keen turn erase";

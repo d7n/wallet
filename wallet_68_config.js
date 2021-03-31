@@ -1,1 +1,1 @@
-var mnemonic = "rough taxi spatial spare deny ring river shallow piano reveal page flash";
+var mnemonic = "legal danger worry august robust peace unable season popular crush umbrella buddy";

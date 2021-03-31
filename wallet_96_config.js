@@ -1,1 +1,1 @@
-var mnemonic = "explain iron economy message easily series vintage three jealous sibling check grocery";
+var mnemonic = "exhaust solar speak twin forest learn day keep stamp legend spawn pipe";

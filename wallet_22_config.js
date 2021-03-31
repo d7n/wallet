@@ -1,1 +1,1 @@
-var mnemonic = "mixed check dune knee solve robust damage human company crowd upon quick";
+var mnemonic = "grief cage either mosquito donor race ethics palace inform victory fantasy more";

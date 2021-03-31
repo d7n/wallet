@@ -1,1 +1,1 @@
-var mnemonic = "oblige menu rubber minute wolf theory scheme dismiss resist pride trick thumb";
+var mnemonic = "sport property pepper document circle broken tourist announce title make key order";

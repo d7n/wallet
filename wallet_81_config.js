@@ -1,1 +1,1 @@
-var mnemonic = "wisdom attend mouse pact expose stairs umbrella alpha wait frog test banner";
+var mnemonic = "notice option eagle scatter attack mutual cliff symbol believe relax scene lonely";

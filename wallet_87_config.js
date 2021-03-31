@@ -1,1 +1,1 @@
-var mnemonic = "morning slogan outer room wise window grab nose upgrade banner wall kind";
+var mnemonic = "lucky turtle region room pupil reject emotion improve shove rival wink power";

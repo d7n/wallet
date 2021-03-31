@@ -1,1 +1,1 @@
-var mnemonic = "film clever name fun switch know transfer wrong sad bitter spot prepare";
+var mnemonic = "off asset machine salt piano stone desert hospital turtle trip cruel pet";

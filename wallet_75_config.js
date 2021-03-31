@@ -1,1 +1,1 @@
-var mnemonic = "develop execute casino bone glass foil toward gun student pass puzzle walnut";
+var mnemonic = "brand wrist treat industry crush grunt ancient subject comfort mimic dizzy gadget";

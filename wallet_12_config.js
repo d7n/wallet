@@ -1,1 +1,1 @@
-var mnemonic = "vote soldier online auto almost drum resource solar fiction gain clutch jeans";
+var mnemonic = "genius current diamond people prison boy icon glare tell few hat length";
