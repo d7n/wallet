@@ -1,1 +1,1 @@
-var mnemonic = "year hollow symptom knife stone visit skill win sock forest loan bitter";
+var mnemonic = "cloud sausage loud maximum beef setup diet mirror produce minute kid flock";

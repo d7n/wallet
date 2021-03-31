@@ -1,1 +1,1 @@
-var mnemonic = "defy knee artefact mom glue fiscal smile mango actress spray expose fuel";
+var mnemonic = "meadow abstract rain guard limb wave simple power run reject action phone";

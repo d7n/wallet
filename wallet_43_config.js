@@ -1,1 +1,1 @@
-var mnemonic = "sock dune evoke spider thing truck gap dish seminar castle lady amused";
+var mnemonic = "advance provide spoil poverty casual pistol bulk orient sing salute crouch area";

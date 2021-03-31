@@ -1,1 +1,1 @@
-var mnemonic = "one vanish ridge embark milk steel nest cry hope enroll silk family";
+var mnemonic = "wood gap machine tired wash stable swap club decade rib private order";

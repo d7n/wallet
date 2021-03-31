@@ -1,1 +1,1 @@
-var mnemonic = "arrow series nation pause dry grape belt leaf cushion stone burden safe";
+var mnemonic = "usual luxury fold end city lemon speak wrestle token urban van roof";

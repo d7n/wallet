@@ -1,1 +1,1 @@
-var mnemonic = "snack trade sing empower delay pudding endless hammer hole other autumn dog";
+var mnemonic = "unhappy follow hero velvet tell rebel best smooth evidence fix tired nerve";

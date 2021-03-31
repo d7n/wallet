@@ -1,1 +1,1 @@
-var mnemonic = "purchase rib slam worry city expire police lock zoo apart raw member";
+var mnemonic = "reunion involve stone praise notable blast squirrel speed retreat shy clean release";

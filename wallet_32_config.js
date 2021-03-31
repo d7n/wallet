@@ -1,1 +1,1 @@
-var mnemonic = "ski fiction crew pioneer guess moral pattern health loyal fiscal stamp group";
+var mnemonic = "trim symptom exact turn patient pistol tank spray fit brain embark unable";

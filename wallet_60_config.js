@@ -1,1 +1,1 @@
-var mnemonic = "worth section box float account plunge ordinary resist insect impose grunt marine";
+var mnemonic = "firm mansion tiny maze biology denial skill notable enroll security verify indoor";

@@ -1,1 +1,1 @@
-var mnemonic = "fox ankle match nation follow fabric sniff breeze dial unfair gate error";
+var mnemonic = "truly enforce ribbon fault vacant humor crystal light pattern steel language moment";

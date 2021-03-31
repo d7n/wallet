@@ -1,1 +1,1 @@
-var mnemonic = "quality kind toilet miss business public field toward citizen narrow smooth wealth";
+var mnemonic = "blood muscle cloud suit aunt assault fancy monitor fossil arctic weekend acoustic";

@@ -1,1 +1,1 @@
-var mnemonic = "away typical gaze palm potato shuffle angry alley parade forest alter proud";
+var mnemonic = "crime various crawl provide festival pilot record social core certain decline cat";

@@ -1,1 +1,1 @@
-var mnemonic = "airport bright cherry crawl ecology garden young force group spot grace device";
+var mnemonic = "logic tribe oval priority action motion zero suit debate slam always image";

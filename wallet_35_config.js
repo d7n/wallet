@@ -1,1 +1,1 @@
-var mnemonic = "impulse type pottery wisdom escape raccoon dove trumpet apple disagree flash target";
+var mnemonic = "coffee fatigue dirt practice brass target rack smart february thank region night";

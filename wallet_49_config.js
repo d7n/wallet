@@ -1,1 +1,1 @@
-var mnemonic = "foam behind giraffe abstract catch obvious increase arrive tilt city vivid guess";
+var mnemonic = "december gossip defense cube special radio price stamp steel hub scatter turtle";

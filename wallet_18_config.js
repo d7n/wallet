@@ -1,1 +1,1 @@
-var mnemonic = "force will curious comfort struggle only whisper asset magnet swap flag mosquito";
+var mnemonic = "lemon index mandate mom bulb renew food confirm clock figure stand elegant";

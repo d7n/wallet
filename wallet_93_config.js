@@ -1,1 +1,1 @@
-var mnemonic = "garlic august flower memory boat trouble whisper bus congress enemy glove often";
+var mnemonic = "judge tiny sudden accident hurry device kit story market today deputy sign";

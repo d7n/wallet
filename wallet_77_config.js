@@ -1,1 +1,1 @@
-var mnemonic = "employ world original vocal tank fury other regret electric today farm outdoor";
+var mnemonic = "type habit almost twist build lyrics stick alley dad cup siege edge";

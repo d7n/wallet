@@ -1,1 +1,1 @@
-var mnemonic = "car below teach pause trap sheriff list mouse wheel stay eternal refuse";
+var mnemonic = "toast slide tell embody remove tide fire nest differ ghost wealth captain";

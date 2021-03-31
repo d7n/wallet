@@ -1,1 +1,1 @@
-var mnemonic = "expect auto little furnace oven more crush giraffe tone sausage universe kiwi";
+var mnemonic = "hazard fox fantasy protect height essence aim shield human invite siren stuff";

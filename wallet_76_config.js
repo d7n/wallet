@@ -1,1 +1,1 @@
-var mnemonic = "exchange forget wealth spice upgrade ritual silk stone state awful front column";
+var mnemonic = "shrug two present release yard captain sing debate lady wrist legend profit";

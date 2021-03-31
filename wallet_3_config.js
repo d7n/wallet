@@ -1,1 +1,1 @@
-var mnemonic = "around say danger eager require among coil forget water injury make roof";
+var mnemonic = "bitter seed round dress world furnace hope undo skate divorce web legend";

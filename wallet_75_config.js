@@ -1,1 +1,1 @@
-var mnemonic = "address peace cause notable auction gather chair assume trend swim argue latin";
+var mnemonic = "focus palace outer angle voice acoustic square coffee account assume filter project";

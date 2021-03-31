@@ -1,1 +1,1 @@
-var mnemonic = "turn slide solve hazard rare six sniff canvas lonely chief uphold water";
+var mnemonic = "face deputy glance front trend nothing midnight clown hurt staff zoo eyebrow";

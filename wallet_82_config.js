@@ -1,1 +1,1 @@
-var mnemonic = "second april village safe crop train reason shadow wish motion together output";
+var mnemonic = "reveal lady term skate laugh purpose sentence leaf among mutual inmate crumble";

@@ -1,1 +1,1 @@
-var mnemonic = "hour wall icon husband story draft tank crunch saddle nation sadness chicken";
+var mnemonic = "grace hip crater force make wash neck seek tube river impulse transfer";

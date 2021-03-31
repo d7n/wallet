@@ -1,1 +1,1 @@
-var mnemonic = "sunset blossom steel quality hold spare violin auto they dream smoke able";
+var mnemonic = "nuclear switch eye loop feature garment mixture feel alley day upgrade fall";

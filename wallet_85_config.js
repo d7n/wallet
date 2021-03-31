@@ -1,1 +1,1 @@
-var mnemonic = "click brisk gap equal among admit oblige hawk useless high rib illness";
+var mnemonic = "ostrich harbor ivory call crack stamp goat enemy define crowd regret hair";

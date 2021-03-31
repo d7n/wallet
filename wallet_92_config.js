@@ -1,1 +1,1 @@
-var mnemonic = "good wet proud dinosaur emerge curtain avoid coyote path exit easy often";
+var mnemonic = "cloth inhale wage bullet world alien tenant bike suffer physical start dad";

@@ -1,1 +1,1 @@
-var mnemonic = "general recall cigar admit wisdom foam wine canyon manual globe soldier skull";
+var mnemonic = "build genius ecology sentence mix brain prize renew beyond moral wise wisdom";

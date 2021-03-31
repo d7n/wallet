@@ -1,1 +1,1 @@
-var mnemonic = "fury gain hand myth nerve roof affair winter hood panther grief sponsor";
+var mnemonic = "envelope tourist slush hire portion notable stay silly aisle empty check slogan";

@@ -1,1 +1,1 @@
-var mnemonic = "hold outside sword account miss antenna scan start material siren car knee";
+var mnemonic = "oblige upgrade battle loud resemble parent guess minimum spoil cherry forward orange";

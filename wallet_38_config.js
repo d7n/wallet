@@ -1,1 +1,1 @@
-var mnemonic = "buddy abstract soup rail flight example pelican desert square dose satisfy gloom";
+var mnemonic = "load antenna picnic inject swarm country when song pair punch despair forest";

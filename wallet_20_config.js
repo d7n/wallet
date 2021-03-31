@@ -1,1 +1,1 @@
-var mnemonic = "diesel dilemma typical ahead inspire art critic remind lesson hammer news crisp";
+var mnemonic = "portion assist poverty left flag traffic melody fluid cancel word tilt mix";

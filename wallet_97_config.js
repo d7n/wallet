@@ -1,1 +1,1 @@
-var mnemonic = "steak ugly auto lunar road power artwork aim short grit olympic grace";
+var mnemonic = "noise drum enlist crunch mouse ability gap town lock practice upper spell";

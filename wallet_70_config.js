@@ -1,1 +1,1 @@
-var mnemonic = "spirit laundry oak arm hedgehog fuel mask beyond very melt notice syrup";
+var mnemonic = "code second siren lawsuit ordinary maid alarm spot property light call flower";

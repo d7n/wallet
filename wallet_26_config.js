@@ -1,1 +1,1 @@
-var mnemonic = "pact frown cancel cheese couch word embrace undo drama situate strong correct";
+var mnemonic = "cradle misery give leg blouse online flip true gap cluster frequent helmet";

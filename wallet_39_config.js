@@ -1,1 +1,1 @@
-var mnemonic = "fantasy birth soap original hair hurdle mechanic peanut runway voice noise gesture";
+var mnemonic = "cargo flag achieve glare sweet sauce idle yard left proof bind casino";

@@ -1,1 +1,1 @@
-var mnemonic = "engage noble collect other office catch buyer pattern whale auction atom always";
+var mnemonic = "poet topic gate olive benefit employ kidney useless treat impact hard risk";

@@ -1,1 +1,1 @@
-var mnemonic = "thank salmon entry crystal denial merit divide found action forget wrap fortune";
+var mnemonic = "chuckle awkward romance unfold high scorpion turkey convince public mail pretty rabbit";

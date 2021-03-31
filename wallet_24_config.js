@@ -1,1 +1,1 @@
-var mnemonic = "uncle anchor hybrid cruise always ability riot whale area ghost kid mean";
+var mnemonic = "engage spare lobster occur inner topic tongue what raccoon cook auction tornado";

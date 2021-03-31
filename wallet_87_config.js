@@ -1,1 +1,1 @@
-var mnemonic = "confirm clay pond welcome over attitude very dial uphold chest napkin use";
+var mnemonic = "extend region arrive solution element palace endorse hundred grace exclude win ignore";

@@ -1,1 +1,1 @@
-var mnemonic = "raccoon inform isolate ask burden cancel remove hood theme remind fish net";
+var mnemonic = "atom ivory all oak excess whale online become tragic judge wool olympic";

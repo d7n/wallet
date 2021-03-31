@@ -1,1 +1,1 @@
-var mnemonic = "moon dust page forward exile dove pony shoot peanut child wool modify";
+var mnemonic = "observe trigger wage mandate easy arrive elite useless churn letter sudden output";

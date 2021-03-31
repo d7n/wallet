@@ -1,1 +1,1 @@
-var mnemonic = "demand grow pair wave garden garment film tragic worry fork canvas portion";
+var mnemonic = "broom follow spike hammer sudden chicken face annual net pioneer mule era";

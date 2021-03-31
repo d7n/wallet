@@ -1,1 +1,1 @@
-var mnemonic = "climb document choose skate arch excite dawn junior shock light poverty minor";
+var mnemonic = "result edit toward tube flag own canal riot exile zoo famous chronic";

@@ -1,1 +1,1 @@
-var mnemonic = "nation cheap stick wait nice caught multiply approve produce visit flame mesh";
+var mnemonic = "crush grow angry birth sport forward comfort donate economy mosquito belt certain";

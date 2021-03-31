@@ -1,1 +1,1 @@
-var mnemonic = "wall mobile winner champion orbit pave crumble tomato search crew pair hawk";
+var mnemonic = "because resist peace awake drum midnight erosion sadness total steel cruel glow";

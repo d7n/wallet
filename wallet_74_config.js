@@ -1,1 +1,1 @@
-var mnemonic = "trophy vendor yard ski come phone hundred first monster load weasel club";
+var mnemonic = "injury wait shoe correct bamboo undo champion violin play else super mandate";

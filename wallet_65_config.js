@@ -1,1 +1,1 @@
-var mnemonic = "milk music flavor subway recall camp equip drastic umbrella course other stock";
+var mnemonic = "aspect essence female infant direct paddle hunt retire trend scene human supreme";

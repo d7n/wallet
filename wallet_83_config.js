@@ -1,1 +1,1 @@
-var mnemonic = "leopard drill supreme pumpkin phrase solve stable column decade carbon fiber meat";
+var mnemonic = "runway provide eagle sample magnet address produce leave success hidden exotic rain";

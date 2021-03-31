@@ -1,1 +1,1 @@
-var mnemonic = "kite isolate valley rail divide raw online ask sudden antenna senior power";
+var mnemonic = "quantum report margin digital decide subway belt upon favorite decrease fold sick";

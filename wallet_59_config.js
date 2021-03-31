@@ -1,1 +1,1 @@
-var mnemonic = "catch exchange episode choose dutch brother diamond sand tuition negative engine derive";
+var mnemonic = "become bachelor plastic rookie settle cover scout section goddess afford impact caught";

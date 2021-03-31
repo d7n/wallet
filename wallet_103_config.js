@@ -1,1 +1,1 @@
-var mnemonic = "broom sweet develop usual arch behind supply need ocean anchor animal summer";
+var mnemonic = "intact gesture fatigue transfer airport vault derive song pyramid foster prosper reduce";

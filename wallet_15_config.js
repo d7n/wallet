@@ -1,1 +1,1 @@
-var mnemonic = "way alcohol cereal crush bachelor wheat jump auto chase refuse creek whale";
+var mnemonic = "poem question that offer refuse display ivory family opera gauge announce advance";

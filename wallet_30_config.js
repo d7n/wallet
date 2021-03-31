@@ -1,1 +1,1 @@
-var mnemonic = "rebuild glare toss gift shoot pony silk buyer maximum fatal weird comfort";
+var mnemonic = "expand legend identify apple arrest august arrow inject people derive small traffic";

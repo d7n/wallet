@@ -1,1 +1,1 @@
-var mnemonic = "toddler mercy ride solve clutch mistake space embark casual devote fold bunker";
+var mnemonic = "girl apple math muffin chef lab cute popular mean law always glide";

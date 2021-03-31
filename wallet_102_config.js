@@ -1,1 +1,1 @@
-var mnemonic = "digital eternal impose motor sleep human gather virtual weather cruise sword purse";
+var mnemonic = "endorse sniff gorilla future salad spring mobile oyster alone shoulder tribe gift";

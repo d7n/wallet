@@ -1,1 +1,1 @@
-var mnemonic = "genre doctor ozone leader fresh zero pistol educate help drip unique boss";
+var mnemonic = "measure below drift memory scan someone dune orphan rabbit steel beyond setup";

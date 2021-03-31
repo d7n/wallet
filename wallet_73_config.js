@@ -1,1 +1,1 @@
-var mnemonic = "polar accident alarm bomb width shed suffer increase suffer hip depth trophy";
+var mnemonic = "luggage carry echo home husband display hungry state laugh business hobby vivid";

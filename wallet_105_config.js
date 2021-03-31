@@ -1,1 +1,1 @@
-var mnemonic = "cattle orange tide mango aunt casual local cage tribe inhale mind garbage";
+var mnemonic = "cool ahead fatigue put else stomach curve point tiger material oblige involve";

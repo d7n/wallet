@@ -1,1 +1,1 @@
-var mnemonic = "large mammal borrow glad high convince you shield auto change material sample";
+var mnemonic = "destroy must rough conduct village join arm mix display marble kitten witness";

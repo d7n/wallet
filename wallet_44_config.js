@@ -1,1 +1,1 @@
-var mnemonic = "force object style grid amazing column forum wall inmate buyer hurdle scout";
+var mnemonic = "wreck broccoli acid goat test home giggle antique potato drink photo cover";

@@ -1,1 +1,1 @@
-var mnemonic = "swing soup chicken fury book attack unlock evolve lift beyond net saddle";
+var mnemonic = "fantasy wire explain lamp corn degree miracle because left buyer warrior pony";

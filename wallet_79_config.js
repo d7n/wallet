@@ -1,1 +1,1 @@
-var mnemonic = "throw winner original pool recall good license crouch empower give feature skirt";
+var mnemonic = "awake custom hard fossil rhythm affair august reduce enough dog aisle debate";

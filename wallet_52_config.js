@@ -1,1 +1,1 @@
-var mnemonic = "prize sun dove general advance ceiling tomato you use quarter inspire that";
+var mnemonic = "chase iron sauce upgrade perfect end inherit scale drip nephew paper ahead";

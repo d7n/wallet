@@ -1,1 +1,1 @@
-var mnemonic = "rifle loyal dinner crazy clock trophy open strike hammer pluck hunt ugly";
+var mnemonic = "limit base awake cup noise learn feed kangaroo empower citizen yard visual";

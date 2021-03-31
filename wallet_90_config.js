@@ -1,1 +1,1 @@
-var mnemonic = "flock wife spell grid pond broom produce tortoise milk strategy april circle";
+var mnemonic = "burst about age exit vague tag faculty barely kingdom glide puzzle chat";

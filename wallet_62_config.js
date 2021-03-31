@@ -1,1 +1,1 @@
-var mnemonic = "chapter legend carpet note plastic glory disorder valley small thought deal floor";
+var mnemonic = "again execute jazz shuffle swift illegal spy green shift pencil engage tank";

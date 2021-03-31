@@ -1,1 +1,1 @@
-var mnemonic = "museum churn race blast visa prefer label donor blood fancy mail rebel";
+var mnemonic = "spring cart biology judge below this envelope must false step stereo stuff";

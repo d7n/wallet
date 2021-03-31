@@ -1,1 +1,1 @@
-var mnemonic = "walk south fruit put trip sentence olive more resource traffic submit strategy";
+var mnemonic = "toy lake update rhythm zero useful hollow brown rude hour monitor mean";

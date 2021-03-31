@@ -1,1 +1,1 @@
-var mnemonic = "aerobic snack type spin bless world shallow first lonely tumble above aspect";
+var mnemonic = "dentist twin rebuild credit rubber license solid avoid hold income kid setup";

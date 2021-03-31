@@ -1,1 +1,1 @@
-var mnemonic = "still comfort warm simple social record section magnet onion leisure cargo range";
+var mnemonic = "weekend stuff answer repair ostrich broom apple ski toast nut project blame";

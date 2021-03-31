@@ -1,1 +1,1 @@
-var mnemonic = "fresh citizen select athlete honey enter color kite leisure upon liquid stage";
+var mnemonic = "suspect all reflect heart bean cactus asset fan charge emerge describe first";

@@ -1,1 +1,1 @@
-var mnemonic = "bulk then search course also anxiety winner clarify rib stereo flush hospital";
+var mnemonic = "hood ride top track pass best gain salmon subject odor render squeeze";

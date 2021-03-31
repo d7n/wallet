@@ -1,1 +1,1 @@
-var mnemonic = "clap dolphin scissors sample door remove awkward surface essence erupt detect panther";
+var mnemonic = "raven spider inquiry kiwi unit enter limit flip pizza kangaroo net outer";

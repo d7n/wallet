@@ -1,1 +1,1 @@
-var mnemonic = "friend breeze mandate drive mail blue all immense dragon announce illness pretty";
+var mnemonic = "task mandate begin one poem window logic wait allow garage drink feature";

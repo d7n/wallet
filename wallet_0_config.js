@@ -1,1 +1,1 @@
-var mnemonic = "sand width make monster crater punch photo brain lonely beauty rifle body";
+var mnemonic = "wool myself wife honey clinic decorate solid evidence cabbage say curious increase";

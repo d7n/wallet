@@ -1,1 +1,1 @@
-var mnemonic = "nation pave warrior paddle possible mandate cross next pact pink boy tomato";
+var mnemonic = "crucial narrow rebel brisk holiday lobster owner type egg rocket later old";

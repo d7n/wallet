@@ -1,1 +1,1 @@
-var mnemonic = "chat chicken august bunker citizen soldier danger danger curve wisdom naive clever";
+var mnemonic = "remind despair delay camp clever spare moral pink struggle shaft high country";

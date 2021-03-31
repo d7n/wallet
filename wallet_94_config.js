@@ -1,1 +1,1 @@
-var mnemonic = "weapon laugh load bike initial wrap evil width demand expose below slim";
+var mnemonic = "act silly town pen among simple category squirrel praise gesture truly tackle";

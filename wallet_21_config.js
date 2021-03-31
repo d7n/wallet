@@ -1,1 +1,1 @@
-var mnemonic = "van unlock bonus olympic enroll memory answer fluid ancient ready surprise abandon";
+var mnemonic = "plate captain rather digital state puppy tag zebra hundred trap fetch truly";

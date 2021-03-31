@@ -1,1 +1,1 @@
-var mnemonic = "jaguar mechanic retire paddle marriage approve float forget quality neglect melody require";
+var mnemonic = "edge insect fall ignore eternal cruel fence table expand van tail drift";

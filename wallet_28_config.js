@@ -1,1 +1,1 @@
-var mnemonic = "armor nurse history body over shrug woman quarter purchase satisfy pattern fatal";
+var mnemonic = "umbrella dinner belt ranch virtual practice abandon matter magnet plug fetch early";

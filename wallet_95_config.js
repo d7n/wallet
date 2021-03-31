@@ -1,1 +1,1 @@
-var mnemonic = "garlic behind stable width work project pelican avocado rate echo stove person";
+var mnemonic = "spatial canoe raven curve scrap veteran thing glare version menu neck disorder";
