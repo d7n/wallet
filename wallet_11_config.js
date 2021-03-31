@@ -1,1 +1,1 @@
-var mnemonic = "file finger hawk topic blade youth grit state combine only photo favorite";
+var mnemonic = "trip heart catch thunder danger scheme always eyebrow lobster original total dirt";

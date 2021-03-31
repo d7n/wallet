@@ -1,1 +1,1 @@
-var mnemonic = "beauty water sort sadness artist enforce believe north laugh buffalo armed area";
+var mnemonic = "monster voyage toast winner neither response digital forward enough trophy senior gift";

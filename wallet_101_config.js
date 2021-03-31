@@ -1,1 +1,1 @@
-var mnemonic = "clutch syrup fee rotate bird girl stick save lady coin level soldier";
+var mnemonic = "purity reason decrease skill frame catalog cart round hole skill endless cruise";

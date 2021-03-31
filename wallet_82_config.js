@@ -1,1 +1,1 @@
-var mnemonic = "loyal impulse arrive tennis nurse flock swap visit broom valid burger menu";
+var mnemonic = "never scatter food where satoshi sound pepper dish occur wing snake game";

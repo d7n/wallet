@@ -1,1 +1,1 @@
-var mnemonic = "volume spy planet weapon language damage giraffe always current abandon want talent";
+var mnemonic = "inch cup matrix grid amateur blood speak inherit news dry abuse goat";

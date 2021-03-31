@@ -1,1 +1,1 @@
-var mnemonic = "either oblige flush elevator result file utility angry invite march master blue";
+var mnemonic = "bone seek snack discover demand erupt glad put fragile dutch manage city";

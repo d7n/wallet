@@ -1,1 +1,1 @@
-var mnemonic = "myself sleep stuff lawsuit gate enter issue outer harbor tattoo nation emerge";
+var mnemonic = "lottery idle strike add soda claw deal one pigeon quality retreat gallery";

@@ -1,1 +1,1 @@
-var mnemonic = "viable dose place stone predict ancient hill hire clutch effort outer umbrella";
+var mnemonic = "salt decorate ignore pave lawsuit ball offer swallow century tomorrow honey pyramid";

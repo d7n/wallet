@@ -1,1 +1,1 @@
-var mnemonic = "work flag faculty file puppy remove shed laptop toilet cruise distance spoil";
+var mnemonic = "sell rescue rebel bulb buffalo snack main zoo satisfy energy birth age";

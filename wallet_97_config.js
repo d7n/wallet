@@ -1,1 +1,1 @@
-var mnemonic = "drama peasant gift stamp bracket actor lend wise sentence slim field estate";
+var mnemonic = "box mushroom crater where relax master outside filter solar device poverty learn";

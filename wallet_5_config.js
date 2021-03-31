@@ -1,1 +1,1 @@
-var mnemonic = "domain private soup idea budget scorpion then clerk negative page balcony fury";
+var mnemonic = "lounge spatial large senior gym jaguar metal find what cry pen outer";

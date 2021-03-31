@@ -1,1 +1,1 @@
-var mnemonic = "fatal pyramid turtle armed canoe media angry rug chunk exotic response noble";
+var mnemonic = "sort nut hobby host trumpet gospel biology peace fun donor alley lesson";

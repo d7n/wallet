@@ -1,1 +1,1 @@
-var mnemonic = "carpet police leave spin measure escape future mercy spot spin away tongue";
+var mnemonic = "admit combine trade void infant present cricket party churn ethics victory place";

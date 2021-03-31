@@ -1,1 +1,1 @@
-var mnemonic = "unaware trouble craft segment casual victory fragile behave ghost toddler remove athlete";
+var mnemonic = "square wonder void cricket royal orchard rule vote bicycle popular dog enough";

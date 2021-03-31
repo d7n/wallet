@@ -1,1 +1,1 @@
-var mnemonic = "mammal opera maximum window extend poem symbol dentist sting able despair violin";
+var mnemonic = "luxury vendor adapt hollow shuffle hazard bubble submit joke recycle replace mail";

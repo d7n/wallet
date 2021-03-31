@@ -1,1 +1,1 @@
-var mnemonic = "thank depend quiz unable ginger drive track net snack marble banana diesel";
+var mnemonic = "earn gloom capable season lobster couch cause bar airport salt switch entry";

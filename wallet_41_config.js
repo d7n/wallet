@@ -1,1 +1,1 @@
-var mnemonic = "layer predict afraid acid tiger bronze flip lesson frozen repeat hole feature";
+var mnemonic = "mobile custom crucial confirm turkey useless nephew swallow clump addict change law";

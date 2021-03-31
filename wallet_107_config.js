@@ -1,1 +1,1 @@
-var mnemonic = "drip pause write inside relief fashion slot genius farm license wave arrest";
+var mnemonic = "initial damage track basket gate fine book toy task rather pair exhaust";

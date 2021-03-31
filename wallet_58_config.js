@@ -1,1 +1,1 @@
-var mnemonic = "whisper few inquiry matter achieve wash taxi bleak wealth wise label provide";
+var mnemonic = "faint day pulp student slim thumb innocent zoo congress naive episode sick";

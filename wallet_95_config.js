@@ -1,1 +1,1 @@
-var mnemonic = "shuffle noble fox bonus rice dutch diamond have believe reunion achieve unlock";
+var mnemonic = "better number fashion ladder pumpkin detail poet solution staff obey debris pistol";

@@ -1,1 +1,1 @@
-var mnemonic = "animal impulse category mass later father involve drill theme permit keep isolate";
+var mnemonic = "ugly obvious depend winner belt message pause shoe flag culture much shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "rent dune annual quantum shove useful figure stumble kid cricket grape about";
+var mnemonic = "yellow install display panel slender lawsuit mango blame wear undo swing bunker";

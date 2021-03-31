@@ -1,1 +1,1 @@
-var mnemonic = "ribbon segment tonight venue can regular nominee coin comic nurse dress zebra";
+var mnemonic = "issue cousin knock odor today miss elder insane system desk direct student";

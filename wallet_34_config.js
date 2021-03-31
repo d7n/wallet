@@ -1,1 +1,1 @@
-var mnemonic = "height issue smooth gold sand sorry harbor dose mystery lava balcony salad";
+var mnemonic = "dog amateur inner spider tomato cupboard benefit genuine fine settle fancy sell";

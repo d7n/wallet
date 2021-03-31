@@ -1,1 +1,1 @@
-var mnemonic = "west barrel blood thunder armed feel glory turn tube merry start cake";
+var mnemonic = "flight laugh stairs wage better sausage water volume shoe tip nuclear together";

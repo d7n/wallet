@@ -1,1 +1,1 @@
-var mnemonic = "inhale leader trouble spray tray typical want test hat critic robust grow";
+var mnemonic = "rigid shift strike human twin tattoo lottery imitate term space verify basic";

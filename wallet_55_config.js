@@ -1,1 +1,1 @@
-var mnemonic = "potato almost decrease trip execute width stone under uncle eight cabin tornado";
+var mnemonic = "neither state search range food omit mushroom flower gravity pet world flag";

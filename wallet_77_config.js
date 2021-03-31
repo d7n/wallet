@@ -1,1 +1,1 @@
-var mnemonic = "fan dwarf include almost ozone anger mixture kit spot faith slide drum";
+var mnemonic = "better cloud chair huge speed during vendor giant matter east foot office";

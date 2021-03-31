@@ -1,1 +1,1 @@
-var mnemonic = "spin fog toss grow still reward emerge desert song brain soldier chief";
+var mnemonic = "infant scatter trust squeeze fix metal width pistol dilemma poet curious van";

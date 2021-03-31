@@ -1,1 +1,1 @@
-var mnemonic = "father plastic talk field stem little depth corn orange edit treat junior";
+var mnemonic = "ensure genuine answer candy danger point crystal theme extend hope garbage cinnamon";

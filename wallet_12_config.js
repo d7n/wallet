@@ -1,1 +1,1 @@
-var mnemonic = "airport require rail upgrade inject logic much mix dinosaur fiber frog glove";
+var mnemonic = "staff sick super pink perfect digital spread marble embrace city chunk consider";

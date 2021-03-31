@@ -1,1 +1,1 @@
-var mnemonic = "alcohol vital rotate leisure north problem say mean odor whisper resource book";
+var mnemonic = "rail warfare knife bulk coconut blossom season grain flight trend perfect lottery";

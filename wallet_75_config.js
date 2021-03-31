@@ -1,1 +1,1 @@
-var mnemonic = "arrive merit mixture present whip notable awkward draw damp cheese base music";
+var mnemonic = "immense swamp era silk chaos across ill struggle ensure dream language faint";

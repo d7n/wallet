@@ -1,1 +1,1 @@
-var mnemonic = "village tissue toward immense climb carbon artwork excess stamp field swing must";
+var mnemonic = "wealth bonus witness know valid cost pulp sun rubber elbow call utility";

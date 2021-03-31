@@ -1,1 +1,1 @@
-var mnemonic = "aim make infant frequent humble hedgehog climb vicious service monster mouse pizza";
+var mnemonic = "rescue universe globe enable embrace unfair okay mirror buyer annual crash method";

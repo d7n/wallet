@@ -1,1 +1,1 @@
-var mnemonic = "noodle step title catch object evidence laundry zebra solar festival cabin wild";
+var mnemonic = "ride voyage chase derive topic ranch please episode pretty tag drum tool";

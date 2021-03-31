@@ -1,1 +1,1 @@
-var mnemonic = "measure fame ball drum one topple tooth recall penalty throw soul boost";
+var mnemonic = "lady real deny pizza impact lava book able logic business tongue junk";

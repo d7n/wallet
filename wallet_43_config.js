@@ -1,1 +1,1 @@
-var mnemonic = "van library village area charge use next now lyrics memory expect comfort";
+var mnemonic = "present core clap inspire power twenty cube blame parent code design wrap";

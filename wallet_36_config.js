@@ -1,1 +1,1 @@
-var mnemonic = "hill garbage book glide someone alpha vocal vast muscle giraffe enough matrix";
+var mnemonic = "metal saddle wheel game creek fancy race fade pear scatter satoshi near";

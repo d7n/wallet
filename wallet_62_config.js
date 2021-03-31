@@ -1,1 +1,1 @@
-var mnemonic = "home sail still spot fever radar movie step buzz menu canvas soccer";
+var mnemonic = "oak grow argue elephant quote crop example raw author miss color blade";

@@ -1,1 +1,1 @@
-var mnemonic = "junk race label fog chief village merry price stage sugar leader trade";
+var mnemonic = "victory daring point palace nut mercy input crane dose asset trouble cake";

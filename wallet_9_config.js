@@ -1,1 +1,1 @@
-var mnemonic = "ski expose capital crop sea creek borrow online top unhappy salon lava";
+var mnemonic = "away isolate message bounce enable sister follow bean alone wish smart burger";

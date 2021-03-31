@@ -1,1 +1,1 @@
-var mnemonic = "file hotel vague foam curve middle wagon blame sing vacuum guard six";
+var mnemonic = "couch dumb ordinary album problem hour oppose twenty rack velvet foster market";

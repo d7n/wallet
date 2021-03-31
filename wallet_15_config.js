@@ -1,1 +1,1 @@
-var mnemonic = "reject love bargain sort goose laptop pilot diesel remain catch ticket panther";
+var mnemonic = "wheat side pencil paper planet undo hood merit teach ritual wedding hollow";

@@ -1,1 +1,1 @@
-var mnemonic = "measure please mask tone guard imitate senior kitten riot twelve leave loan";
+var mnemonic = "traffic start frost sight practice boost report casual inside lake delay orange";

@@ -1,1 +1,1 @@
-var mnemonic = "milk host around laugh fish job soda swing gather security obey say";
+var mnemonic = "all close ridge logic feed honey twice asset lyrics purchase donate scrub";

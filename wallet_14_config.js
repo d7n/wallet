@@ -1,1 +1,1 @@
-var mnemonic = "lesson result tip rhythm electric party toward consider retire lake crew luggage";
+var mnemonic = "conduct forest crash juice gorilla captain misery label document pony lesson spoon";

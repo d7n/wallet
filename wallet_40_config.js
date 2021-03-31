@@ -1,1 +1,1 @@
-var mnemonic = "time blade chaos dignity hundred avoid crane evil chief shell alcohol screen";
+var mnemonic = "tool coffee sketch panther what million wrist author cricket earth purpose visit";

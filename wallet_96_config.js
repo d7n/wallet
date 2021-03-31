@@ -1,1 +1,1 @@
-var mnemonic = "rhythm can inside slow shiver turtle water north catch cargo spirit matrix";
+var mnemonic = "unaware cage digital news high suggest trust wink wall metal fall mother";

@@ -1,1 +1,1 @@
-var mnemonic = "dirt work tree shoot skull attract fuel dumb kitten lonely enter crush";
+var mnemonic = "view nut among rib friend bright female virtual want used actress basket";

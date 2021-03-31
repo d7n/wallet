@@ -1,1 +1,1 @@
-var mnemonic = "hero ice height imitate pool urban mystery pass funny alert day patrol";
+var mnemonic = "liar uncover wide raven east scene funny jealous skull sister gravity asset";

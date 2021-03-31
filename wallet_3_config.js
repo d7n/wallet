@@ -1,1 +1,1 @@
-var mnemonic = "bronze harvest chuckle observe school drink receive release discover turtle output snow";
+var mnemonic = "truck great ladder sock turn style rocket network quality neither size suffer";

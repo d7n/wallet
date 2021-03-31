@@ -1,1 +1,1 @@
-var mnemonic = "when salon tip eight toward faculty word rule during input robust tomorrow";
+var mnemonic = "hen inside broken exotic cushion soda thrive fever input pudding almost lady";

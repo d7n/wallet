@@ -1,1 +1,1 @@
-var mnemonic = "bean dutch repeat kangaroo empty road cattle similar chase city sign craft";
+var mnemonic = "calm motor mercy sock circle feel similar vendor put appear kite occur";

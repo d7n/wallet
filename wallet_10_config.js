@@ -1,1 +1,1 @@
-var mnemonic = "sniff night dove can discover often fruit clutch kidney jacket valid rival";
+var mnemonic = "cruel patch index acoustic allow divorce okay sight angry tourist earn weapon";

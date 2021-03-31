@@ -1,1 +1,1 @@
-var mnemonic = "start actor plate tribe digital super unfold glue thunder artwork rebel pool";
+var mnemonic = "raise fly mad fiber alert bind six almost drift raw orbit apple";

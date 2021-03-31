@@ -1,1 +1,1 @@
-var mnemonic = "right laundry tornado potato tomorrow awake clarify ocean peace victory document camera";
+var mnemonic = "exchange skull code soup minor demand dawn poet episode hungry recall creek";

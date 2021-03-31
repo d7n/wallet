@@ -1,1 +1,1 @@
-var mnemonic = "female peace abstract jeans punch settle mix panic twin spider asset thunder";
+var mnemonic = "jeans net unfair diesel always depart review observe border goddess hotel menu";

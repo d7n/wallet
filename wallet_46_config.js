@@ -1,1 +1,1 @@
-var mnemonic = "cross crash measure cute pretty valve vintage raise phone alpha pull evoke";
+var mnemonic = "firm live inch bulk bind combine sell balance pottery blush fabric fat";

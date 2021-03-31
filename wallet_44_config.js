@@ -1,1 +1,1 @@
-var mnemonic = "blue gain calm clean amazing broccoli fly slim spot coil apart promote";
+var mnemonic = "galaxy because dose sea style basic oven crash combine snake left shrimp";

@@ -1,1 +1,1 @@
-var mnemonic = "best game magnet demise spread life solve soldier fix auto three major";
+var mnemonic = "office empty west collect people tenant omit mistake danger predict already topple";

@@ -1,1 +1,1 @@
-var mnemonic = "assault suit mass wolf real tent oval trumpet census response mail seed";
+var mnemonic = "truth rabbit actual size anchor book session motion creek grocery resource dog";

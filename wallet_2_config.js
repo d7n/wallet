@@ -1,1 +1,1 @@
-var mnemonic = "soul category empty lounge document know drill sea melody tortoise car high";
+var mnemonic = "curious shiver disease apple fossil behind alert action kidney soft zebra gallery";

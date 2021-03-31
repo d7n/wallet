@@ -1,1 +1,1 @@
-var mnemonic = "balcony web divert purpose sand actor festival local wing tissue baby smart";
+var mnemonic = "brother behind uphold pool near fluid artwork language juice choice flag edge";

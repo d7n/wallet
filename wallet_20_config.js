@@ -1,1 +1,1 @@
-var mnemonic = "day clap trick harsh banana update body claw radio cruel cost pottery";
+var mnemonic = "foil basic seven because moral fame person zero predict injury second credit";

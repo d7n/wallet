@@ -1,1 +1,1 @@
-var mnemonic = "legend unknown model mirror web car below treat wild loyal ceiling conduct";
+var mnemonic = "easy luggage gesture battle dose sample way multiply bamboo seven turn float";

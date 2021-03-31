@@ -1,1 +1,1 @@
-var mnemonic = "blade video picnic parent narrow pretty jewel quit ostrich cream debris primary";
+var mnemonic = "opera ready wasp tank gather blood derive another response when wash indoor";

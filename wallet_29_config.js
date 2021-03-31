@@ -1,1 +1,1 @@
-var mnemonic = "cave brave thing person ankle stem real cool chalk virus sand hospital";
+var mnemonic = "fun upset eternal cost achieve alpha series permit december oval end drama";

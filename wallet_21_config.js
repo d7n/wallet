@@ -1,1 +1,1 @@
-var mnemonic = "cargo entire ahead obscure fence poverty guide hungry tornado scrap lend speak";
+var mnemonic = "impose random young okay debate benefit van orphan dolphin claw team poet";

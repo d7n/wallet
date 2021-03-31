@@ -1,1 +1,1 @@
-var mnemonic = "bamboo traffic wave topple roast also track become garden false impose quiz";
+var mnemonic = "gorilla argue drop argue sponsor surface alter tilt powder three cabin case";

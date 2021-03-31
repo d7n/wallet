@@ -1,1 +1,1 @@
-var mnemonic = "debate way syrup cute burst kick decline diagram online stand nasty chef";
+var mnemonic = "design worry obscure million tuna load fee grant glimpse begin meat hole";

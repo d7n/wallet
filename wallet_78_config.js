@@ -1,1 +1,1 @@
-var mnemonic = "suffer warfare cabin vote record circle bring width push rate immense cigar";
+var mnemonic = "dizzy wish clinic trap planet pencil excuse deny industry merry achieve arrow";

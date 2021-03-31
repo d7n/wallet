@@ -1,1 +1,1 @@
-var mnemonic = "inner admit junk board crouch sad cinnamon squeeze illness ahead alone grief";
+var mnemonic = "survey fly amused differ weapon fitness dune review switch fame primary alley";

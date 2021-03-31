@@ -1,1 +1,1 @@
-var mnemonic = "assist iron disease hidden giggle peasant casino public cotton dentist danger steel";
+var mnemonic = "mixed more glass middle brown crater spread goose ritual desk dwarf yellow";

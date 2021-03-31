@@ -1,1 +1,1 @@
-var mnemonic = "loan answer way slot muffin diet solve once sadness mushroom inflict image";
+var mnemonic = "reveal pull sugar bus van noise token danger prize afraid alien grow";

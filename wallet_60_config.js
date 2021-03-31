@@ -1,1 +1,1 @@
-var mnemonic = "attend sweet fragile cluster derive omit bird sun picnic arctic grunt apple";
+var mnemonic = "loud cancel quantum universe shrug flip evil simple flock silver pause start";

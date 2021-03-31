@@ -1,1 +1,1 @@
-var mnemonic = "snow razor dawn master salmon dry whisper cycle slab club mean garbage";
+var mnemonic = "fix what approve weird breeze dish column unknown traffic flee degree loop";

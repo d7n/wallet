@@ -1,1 +1,1 @@
-var mnemonic = "market spring argue wise delay warrior gorilla ecology turn tip affair castle";
+var mnemonic = "property kind creek proof follow mosquito garage second earth fancy about moral";

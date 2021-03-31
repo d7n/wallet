@@ -1,1 +1,1 @@
-var mnemonic = "under snake busy express void fatal fantasy brave venue chalk sauce mail";
+var mnemonic = "crumble slow stay attract solar machine wasp scheme honey speak purchase order";

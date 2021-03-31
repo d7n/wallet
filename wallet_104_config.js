@@ -1,1 +1,1 @@
-var mnemonic = "public spike acquire cloth label dog thought abandon economy bronze theme glass";
+var mnemonic = "science subway pill life veteran illness stove unusual rent abuse client penalty";

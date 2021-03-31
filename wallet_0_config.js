@@ -1,1 +1,1 @@
-var mnemonic = "loan repair regret oven flight curve peace damp area apology quality vicious";
+var mnemonic = "planet depart suspect you weapon chef aim drop into victory core scatter";

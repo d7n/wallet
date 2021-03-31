@@ -1,1 +1,1 @@
-var mnemonic = "pole van office slide harbor circle sheriff outdoor shrimp diamond traffic pony";
+var mnemonic = "clever together slide about direct hood civil brisk smile flee nasty sunny";

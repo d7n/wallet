@@ -1,1 +1,1 @@
-var mnemonic = "vacuum torch upgrade danger junior stereo chicken taste unhappy input auction orient";
+var mnemonic = "side abuse dog lumber pull boost prosper month oval source differ crouch";

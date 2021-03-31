@@ -1,1 +1,1 @@
-var mnemonic = "burger only spoil vivid card because beauty ahead pact blade puppy rubber";
+var mnemonic = "deny burst cheese rhythm lawn relief example ten erupt subway pull raw";

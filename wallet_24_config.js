@@ -1,1 +1,1 @@
-var mnemonic = "extra child funny acquire donate company next kingdom car uncle foil crush";
+var mnemonic = "risk photo proud ability into solar average leave blast diagram label ticket";

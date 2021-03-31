@@ -1,1 +1,1 @@
-var mnemonic = "era major key junk dune tattoo trash lens twin aisle snake rebel";
+var mnemonic = "verify wall gorilla rookie always term text protect series rapid organ female";
