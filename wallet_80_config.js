@@ -1,1 +1,1 @@
-var mnemonic = "floor record major wisdom snack into glide exclude fold holiday broom stable";
+var mnemonic = "deliver finger faculty craft near job unveil dish spot august prize eagle";

@@ -1,1 +1,1 @@
-var mnemonic = "exit cereal universe evoke skate rely category kite deer fever grant lunar";
+var mnemonic = "brain type foot child fetch horn raise black blind license stable hammer";

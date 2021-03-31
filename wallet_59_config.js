@@ -1,1 +1,1 @@
-var mnemonic = "version waste fantasy episode enemy identify useful ghost impose dish salmon voice";
+var mnemonic = "raccoon time ocean spider detect job fetch enhance escape employ vote wrist";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli primary laundry wife deliver earth embody reject wealth salon small arrive";
+var mnemonic = "parade boat arrange farm update false advance water sugar total favorite collect";

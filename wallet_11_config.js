@@ -1,1 +1,1 @@
-var mnemonic = "song bottom lab since skill loop blood ripple utility clinic network doll";
+var mnemonic = "guess path staff elevator shadow pet enact morning present salad aunt uncle";

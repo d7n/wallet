@@ -1,1 +1,1 @@
-var mnemonic = "father survey lawn social rifle cute evidence cement fault juice below canyon";
+var mnemonic = "country ordinary average era enter burden diamond melody lunch fatal joke assume";

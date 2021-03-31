@@ -1,1 +1,1 @@
-var mnemonic = "effort never shoot urge issue rival clarify frozen produce deposit palace foil";
+var mnemonic = "valley same gauge kind age pig claw opera give attack iron rather";

@@ -1,1 +1,1 @@
-var mnemonic = "easily exhibit box cargo will bundle hammer pattern wisdom true other voyage";
+var mnemonic = "ripple invite element gesture security object flat arrow dinosaur that daring ivory";

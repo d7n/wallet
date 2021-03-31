@@ -1,1 +1,1 @@
-var mnemonic = "able copper end quick recycle muscle neck input wrong kit volcano ginger";
+var mnemonic = "envelope test fine option soup potato despair mosquito street orphan wire regret";

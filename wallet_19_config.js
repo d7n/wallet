@@ -1,1 +1,1 @@
-var mnemonic = "street argue sort furnace palace faint swarm lava nuclear pull lab click";
+var mnemonic = "galaxy erosion news harvest minor wear cable kiwi review pool aerobic dial";

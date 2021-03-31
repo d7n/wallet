@@ -1,1 +1,1 @@
-var mnemonic = "urban sorry elder round cart fork exchange noise thumb betray void pepper";
+var mnemonic = "lock bone tilt sketch exit point diet nice west dinner beach lyrics";

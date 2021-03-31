@@ -1,1 +1,1 @@
-var mnemonic = "depth mystery tiny picnic direct deny exclude judge athlete rate scene shoot";
+var mnemonic = "saddle loud carpet material craft erase term bird hip much grit ripple";

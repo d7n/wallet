@@ -1,1 +1,1 @@
-var mnemonic = "type rebuild note rather frost recall citizen stay gospel pen movie decline";
+var mnemonic = "squirrel style climb shoulder choice demand couple portion spice recipe suggest laundry";

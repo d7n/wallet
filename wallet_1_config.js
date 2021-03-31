@@ -1,1 +1,1 @@
-var mnemonic = "any emotion actor fly evoke dinner metal gun bike answer asthma hire";
+var mnemonic = "run cave sad panther cattle firm symptom run slot fabric marble crisp";

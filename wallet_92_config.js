@@ -1,1 +1,1 @@
-var mnemonic = "planet umbrella grant around filter vibrant rhythm aim shuffle night record visa";
+var mnemonic = "mobile early select embody mutual will mention woman dwarf use cry mixture";

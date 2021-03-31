@@ -1,1 +1,1 @@
-var mnemonic = "mountain ceiling sign vendor able window broccoli village dizzy absorb dish actress";
+var mnemonic = "family cargo supply wrestle find deposit fish kite vague weasel when unfair";

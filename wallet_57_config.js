@@ -1,1 +1,1 @@
-var mnemonic = "key grocery sniff resist acid off upper minute style congress trigger track";
+var mnemonic = "cluster tail kind keen lock fancy reopen eight top region few solution";

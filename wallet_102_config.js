@@ -1,1 +1,1 @@
-var mnemonic = "journey wait reflect cat fish relief flame candy scale own raw helmet";
+var mnemonic = "liberty proud remember agree express nature quiz shell shine infant mountain nasty";

@@ -1,1 +1,1 @@
-var mnemonic = "actual loyal unique used real entire dawn donkey nature beef solar genre";
+var mnemonic = "occur bomb fever renew ghost pole fog mind hole misery orphan over";

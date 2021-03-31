@@ -1,1 +1,1 @@
-var mnemonic = "era worry junior ill pepper wool tumble unveil bless play truth issue";
+var mnemonic = "thunder bargain ordinary ivory cool rely rural will sock attitude secret talk";

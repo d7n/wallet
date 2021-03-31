@@ -1,1 +1,1 @@
-var mnemonic = "kite miss weasel entry endless window couple arm change palm diamond vacant";
+var mnemonic = "drastic hero pave fiber inject license stage result chuckle prison sorry region";

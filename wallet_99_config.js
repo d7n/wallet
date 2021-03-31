@@ -1,1 +1,1 @@
-var mnemonic = "lizard blanket fade impulse comic swear primary woman shock hamster giant nut";
+var mnemonic = "require opinion enhance heart slender resemble carpet angry side negative focus echo";

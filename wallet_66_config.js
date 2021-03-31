@@ -1,1 +1,1 @@
-var mnemonic = "bicycle sort parade dragon noise style basic inject note nut bless season";
+var mnemonic = "equal hair dilemma grocery truly cement magnet brisk soul iron around soap";

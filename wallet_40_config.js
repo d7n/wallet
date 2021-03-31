@@ -1,1 +1,1 @@
-var mnemonic = "evoke wink snap they extend become crime simple involve report sun ginger";
+var mnemonic = "safe tool often purpose calm left critic kind child solid harbor bean";

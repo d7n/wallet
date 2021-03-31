@@ -1,1 +1,1 @@
-var mnemonic = "leaf flat trophy way ahead original shell shoe mouse notice noble patrol";
+var mnemonic = "tool wheel roast unaware gate arch liberty orchard stumble odor west relief";

@@ -1,1 +1,1 @@
-var mnemonic = "coral turn theme caught fancy fantasy pledge favorite dragon spy rude rotate";
+var mnemonic = "option merit chase phone addict sight master ethics oblige remove laugh mixture";

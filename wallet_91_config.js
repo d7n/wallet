@@ -1,1 +1,1 @@
-var mnemonic = "razor kite wash rabbit hamster faith alpha cook stadium stable cool media";
+var mnemonic = "special advice dice chunk upgrade vote author soda now climb other solve";

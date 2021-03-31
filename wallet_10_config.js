@@ -1,1 +1,1 @@
-var mnemonic = "alter aerobic cabin alien color hip end fork embrace night hill west";
+var mnemonic = "text rely pizza desert quantum pond cliff swim wasp dove robust vendor";

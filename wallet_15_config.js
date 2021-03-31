@@ -1,1 +1,1 @@
-var mnemonic = "glimpse cloud culture ceiling turn depart regular save jump pumpkin fan goose";
+var mnemonic = "chicken crowd happy amount rack senior april evoke appear extra client unveil";

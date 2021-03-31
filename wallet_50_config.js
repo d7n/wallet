@@ -1,1 +1,1 @@
-var mnemonic = "insane talk science more spice female garage buzz lab ready hire labor";
+var mnemonic = "jump spice clump nut unfair raw save private orchard moral essence kit";

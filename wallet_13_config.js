@@ -1,1 +1,1 @@
-var mnemonic = "club property dance inch fever need share indoor march orbit include topic";
+var mnemonic = "basic deal balcony latin provide describe play piano always harsh field protect";

@@ -1,1 +1,1 @@
-var mnemonic = "question frog loud erupt cushion nothing pair firm frozen extra exhibit habit";
+var mnemonic = "faint chalk bitter blame marriage change toast snake feature thank entry candy";

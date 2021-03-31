@@ -1,1 +1,1 @@
-var mnemonic = "number accident just own few smooth shell lady allow scrub prevent index";
+var mnemonic = "wine exist bleak author quarter uncle fan advance dish series genius double";

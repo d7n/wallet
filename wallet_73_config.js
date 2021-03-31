@@ -1,1 +1,1 @@
-var mnemonic = "poem report coffee snack snap bulk say window again attack inquiry candy";
+var mnemonic = "predict entire surface barrel web fatigue want bundle where deny cycle sting";

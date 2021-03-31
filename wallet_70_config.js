@@ -1,1 +1,1 @@
-var mnemonic = "snack diamond choose twelve insane author medal next tone cup adapt reward";
+var mnemonic = "embrace notable auction hope staff manual modify opera acid alter example bird";

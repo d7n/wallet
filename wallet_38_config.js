@@ -1,1 +1,1 @@
-var mnemonic = "scan owner movie notice surge crunch check pave mix switch horse advice";
+var mnemonic = "feature roof add solution recall click palace try lyrics grief away lonely";

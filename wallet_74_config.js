@@ -1,1 +1,1 @@
-var mnemonic = "verb marriage where expose crowd else absent acid chapter expose town rib";
+var mnemonic = "humble amateur filter parade autumn post program insect error marriage dream join";

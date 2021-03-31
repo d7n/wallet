@@ -1,1 +1,1 @@
-var mnemonic = "mix chapter victory invest health whisper fashion shield wonder rough body card";
+var mnemonic = "odor note true damp silk monkey giraffe chase sentence water cart resource";

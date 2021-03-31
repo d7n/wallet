@@ -1,1 +1,1 @@
-var mnemonic = "evidence quantum trial hen this dream achieve emotion address someone simple winner";
+var mnemonic = "square eagle news guess survey warm bicycle shallow swap kid fever repair";

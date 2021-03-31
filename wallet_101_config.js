@@ -1,1 +1,1 @@
-var mnemonic = "dish north upon episode heart comfort dignity bundle episode old umbrella interest";
+var mnemonic = "vicious fabric ridge pen athlete nuclear movie awful sight example voyage excuse";

@@ -1,1 +1,1 @@
-var mnemonic = "ugly lottery whale laptop regret inflict digital inner elbow oblige venture like";
+var mnemonic = "bread cupboard dance mixture direct job duck business gas tornado range rude";

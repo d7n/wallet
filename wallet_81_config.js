@@ -1,1 +1,1 @@
-var mnemonic = "impose romance camp youth jaguar certain clown pudding extend vast clay rather";
+var mnemonic = "game mother kit miss token hunt fee debris alpha lens arm flush";

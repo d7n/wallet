@@ -1,1 +1,1 @@
-var mnemonic = "enough true fever cup cube clump flame mansion absurd please illness history";
+var mnemonic = "sunny festival soldier place cat fortune lawn vast grain fix bomb organ";

@@ -1,1 +1,1 @@
-var mnemonic = "prison quit subject nice laundry oval pupil hip frost clever question initial";
+var mnemonic = "guess fine wasp finish sign mixture vague reflect glad goose machine oblige";

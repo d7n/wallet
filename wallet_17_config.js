@@ -1,1 +1,1 @@
-var mnemonic = "reform size wheat load person chuckle surprise young soldier shrimp moral cave";
+var mnemonic = "client lens peanut century danger lava seven foster shoot account point nasty";

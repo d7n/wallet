@@ -1,1 +1,1 @@
-var mnemonic = "pretty faith cube supreme budget error barely hazard soul prison tuition aunt";
+var mnemonic = "junk slogan acquire enable heart dynamic sick ranch glory slow two start";

@@ -1,1 +1,1 @@
-var mnemonic = "able exhibit agent together mandate kitten hole photo bubble achieve film canvas";
+var mnemonic = "deer few glow relax eye achieve sign venue frequent lend quarter field";

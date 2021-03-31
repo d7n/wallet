@@ -1,1 +1,1 @@
-var mnemonic = "aerobic fantasy upset curtain spice vast target echo speed price leisure sauce";
+var mnemonic = "sport become session broom donor stem aim risk ridge miss original require";

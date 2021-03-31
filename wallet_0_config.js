@@ -1,1 +1,1 @@
-var mnemonic = "punch digital session nuclear manage mix pitch moral ask present vague excuse";
+var mnemonic = "among public vintage kingdom flash canyon brick wall noodle dilemma nature force";

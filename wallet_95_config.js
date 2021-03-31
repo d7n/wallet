@@ -1,1 +1,1 @@
-var mnemonic = "story misery swap elder come joy number merge clean fetch time drama";
+var mnemonic = "enough hint combine banner gap pottery sound bid pony balcony lift glare";

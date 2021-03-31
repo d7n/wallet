@@ -1,1 +1,1 @@
-var mnemonic = "basic miracle defense poem wedding actress execute vapor steak office bean clarify";
+var mnemonic = "repeat anchor coyote stadium cage tray what that buffalo gossip elbow same";

@@ -1,1 +1,1 @@
-var mnemonic = "picnic hen cluster sell total you way sun winter music absorb motor";
+var mnemonic = "rabbit okay sick fluid walk stuff dwarf ring life seminar famous kidney";

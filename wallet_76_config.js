@@ -1,1 +1,1 @@
-var mnemonic = "want monitor lava fix live future mom wait attend lunar example excite";
+var mnemonic = "real depart math dune stone delay skate figure accuse fork lens recycle";

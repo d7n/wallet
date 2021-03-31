@@ -1,1 +1,1 @@
-var mnemonic = "spin kit tomato crumble thing raven anger uncle involve fall place square";
+var mnemonic = "pet flavor sock caught unit ethics liar shrug patch fee clean horn";

@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit danger wasp reform ill piece cram enter dry bread random agent";
+var mnemonic = "rain aerobic scrap park lobster climb cigar perfect draw monitor clarify call";

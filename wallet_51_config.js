@@ -1,1 +1,1 @@
-var mnemonic = "fix job time canvas already noble garden embody brick produce chunk salmon";
+var mnemonic = "text duck cart surprise wealth peanut frost polar entire knock stamp blouse";

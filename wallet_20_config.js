@@ -1,1 +1,1 @@
-var mnemonic = "drum radio museum holiday entry lesson spin muscle write mother decorate sunny";
+var mnemonic = "armor faculty chef wet core zebra print picture panel violin bulb rich";

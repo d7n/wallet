@@ -1,1 +1,1 @@
-var mnemonic = "acoustic hire brown select boost ugly dial wet core rather relief catch";
+var mnemonic = "reform estate whip accident kitten odor core average nest size arena review";

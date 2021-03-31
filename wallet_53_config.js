@@ -1,1 +1,1 @@
-var mnemonic = "rotate anger cool fee sugar seat aware buzz field attend basket decade";
+var mnemonic = "until region rule liquid just coach tuition trophy reason luxury kitchen person";

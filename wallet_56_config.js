@@ -1,1 +1,1 @@
-var mnemonic = "output nothing foster ordinary social pigeon usual spell slot truck raccoon define";
+var mnemonic = "end charge exchange neglect wagon identify amazing someone initial elder rapid text";

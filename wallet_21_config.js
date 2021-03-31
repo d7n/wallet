@@ -1,1 +1,1 @@
-var mnemonic = "lazy one large again response kidney eagle acoustic autumn useless ecology spray";
+var mnemonic = "castle replace spike license betray cruise pupil peanut black cupboard wink title";

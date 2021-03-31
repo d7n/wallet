@@ -1,1 +1,1 @@
-var mnemonic = "length response deposit cannon crime fuel install turtle weasel muscle solve random";
+var mnemonic = "very trigger zone tail series correct soap business swing shine above door";

@@ -1,1 +1,1 @@
-var mnemonic = "figure ride airport time symbol spell pool thrive dove ordinary crouch tonight";
+var mnemonic = "step cover cat food wheat decorate trouble humble embark rifle detail level";

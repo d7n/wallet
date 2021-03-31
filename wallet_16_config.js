@@ -1,1 +1,1 @@
-var mnemonic = "turn water acid any excuse glove label fine stone destroy zebra segment";
+var mnemonic = "unfold update liberty then early pitch chronic upset duck initial document gym";

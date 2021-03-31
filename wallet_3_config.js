@@ -1,1 +1,1 @@
-var mnemonic = "person cinnamon sign salad fever excuse surround radio airport fortune gasp link";
+var mnemonic = "under crater prefer panel lottery jealous struggle soap curious cruel record correct";

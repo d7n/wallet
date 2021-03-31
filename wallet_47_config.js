@@ -1,1 +1,1 @@
-var mnemonic = "knock dizzy toss army average easy danger speak ability outdoor close forget";
+var mnemonic = "fortune spend setup crisp gossip wink pen kite proud sister adjust attitude";

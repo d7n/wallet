@@ -1,1 +1,1 @@
-var mnemonic = "frost canal nuclear flower trouble resist echo transfer hero orbit place dirt";
+var mnemonic = "west market outer impact humble hip attitude jaguar dutch daughter flag worry";

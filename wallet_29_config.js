@@ -1,1 +1,1 @@
-var mnemonic = "very harbor coil script jungle slim hip uphold adapt observe young rubber";
+var mnemonic = "moral culture crater abandon unveil secret buzz gap affair ripple panic range";

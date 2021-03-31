@@ -1,1 +1,1 @@
-var mnemonic = "spawn nothing hamster oppose also trumpet pioneer salute ostrich maid second used";
+var mnemonic = "palace hen opinion gasp such diamond miracle tag group inflict weather envelope";

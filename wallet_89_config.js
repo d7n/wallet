@@ -1,1 +1,1 @@
-var mnemonic = "ginger diet critic marble differ spot bench pet wasp anger buzz brother";
+var mnemonic = "phone gold clean outside tunnel feed notice leg awake board ask ticket";

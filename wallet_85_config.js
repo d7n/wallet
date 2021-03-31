@@ -1,1 +1,1 @@
-var mnemonic = "blame lawn oil grant method naive shiver trust road green lunch hope";
+var mnemonic = "punch pig metal drum inspire choose slot priority wagon two devote bamboo";

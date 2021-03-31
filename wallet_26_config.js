@@ -1,1 +1,1 @@
-var mnemonic = "high acoustic evolve egg thought sketch motor entire smart alien tell horse";
+var mnemonic = "pattern burger motion blame jewel direct shrug cat today omit shadow wait";

@@ -1,1 +1,1 @@
-var mnemonic = "keep baby kitten space obtain spell zoo paddle device hill sea loud";
+var mnemonic = "wait allow wheel river laundry service very domain pigeon elevator submit deny";

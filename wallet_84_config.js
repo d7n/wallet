@@ -1,1 +1,1 @@
-var mnemonic = "giant trip soap catalog marine trend jump creek ice vital unaware grain";
+var mnemonic = "hidden change huge pistol patient curve buffalo rival all truly knee punch";

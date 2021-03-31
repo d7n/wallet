@@ -1,1 +1,1 @@
-var mnemonic = "foam essence animal dirt element unhappy tape bird client swarm butter hamster";
+var mnemonic = "sphere theme load soda cement soup video earth garbage circle earn absent";

@@ -1,1 +1,1 @@
-var mnemonic = "fitness scrub test shield vapor flush opinion coffee indicate calm gain fit";
+var mnemonic = "arrest benefit salad rigid close unlock clap zero there bunker suffer tonight";

@@ -1,1 +1,1 @@
-var mnemonic = "game employ idle chronic occur sample clap can certain they sadness tired";
+var mnemonic = "shallow scout food donor tool side pear correct phrase shoot electric sniff";

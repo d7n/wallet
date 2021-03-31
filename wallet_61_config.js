@@ -1,1 +1,1 @@
-var mnemonic = "where talk prison expire protect option glory oven wage concert marine ramp";
+var mnemonic = "deposit fall learn fame blanket evidence sunny provide swing rose grit special";

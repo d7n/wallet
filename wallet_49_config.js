@@ -1,1 +1,1 @@
-var mnemonic = "throw update genre depart quit find tackle thrive cinnamon bulk cargo arrive";
+var mnemonic = "wink online juice season zoo supreme lecture high century large verb bullet";

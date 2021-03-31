@@ -1,1 +1,1 @@
-var mnemonic = "reward silver quick notice fringe mansion slim absent ask abuse promote keen";
+var mnemonic = "siege gravity fine rare deal lumber hotel soft cage script roast reason";

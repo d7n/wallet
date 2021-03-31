@@ -1,1 +1,1 @@
-var mnemonic = "scene unit royal napkin lend uncle tenant shoulder achieve avocado thank found";
+var mnemonic = "shoulder usage buddy hood educate wrestle crack initial glow eagle fashion grunt";

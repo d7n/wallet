@@ -1,1 +1,1 @@
-var mnemonic = "rack team error salt cinnamon insect pulse room traffic game mushroom pattern";
+var mnemonic = "treat orphan youth cherry case basic crucial derive toe wear nose left";

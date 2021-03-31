@@ -1,1 +1,1 @@
-var mnemonic = "one aunt spring man hidden test bulb captain card brick couch install";
+var mnemonic = "crunch open suit bus debate side kidney have year device notable concert";

@@ -1,1 +1,1 @@
-var mnemonic = "veteran fall pyramid income staff critic voice echo thought upset rule kitchen";
+var mnemonic = "minute cinnamon holiday laundry sort define pave radar episode gate sunset picture";

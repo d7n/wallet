@@ -1,1 +1,1 @@
-var mnemonic = "manage duck excuse curve cash margin quantum surface inject dentist strike syrup";
+var mnemonic = "seed grit nice cattle legal push wing digital moment lake execute alert";

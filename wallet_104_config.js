@@ -1,1 +1,1 @@
-var mnemonic = "fluid chief cook want ridge pool quantum knee already vault ten fiction";
+var mnemonic = "clock job food pool maple legend tattoo bean later purity tone nominee";

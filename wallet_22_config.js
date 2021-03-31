@@ -1,1 +1,1 @@
-var mnemonic = "fever spoil company decade tell lunch attitude essay level skin good country";
+var mnemonic = "mutual myself can flush loop sleep giggle seven game train stairs since";

@@ -1,1 +1,1 @@
-var mnemonic = "eagle interest sing verb reveal assist like nephew model minimum fan sugar";
+var mnemonic = "worth empower wheel taxi jacket milk left toddler spike nest token panther";

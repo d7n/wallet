@@ -1,1 +1,1 @@
-var mnemonic = "debate mystery faint waste material smoke glide wasp honey clarify deal hundred";
+var mnemonic = "advice rocket floor under lamp sunny denial donate length depend gauge reveal";

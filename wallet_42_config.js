@@ -1,1 +1,1 @@
-var mnemonic = "embody stereo blue dune surge cherry gym endless usual empower motor bone";
+var mnemonic = "market issue churn soul addict shoe happy donkey border suggest engine gentle";

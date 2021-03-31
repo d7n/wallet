@@ -1,1 +1,1 @@
-var mnemonic = "depth surface because member bacon tortoise express dinosaur person ecology bar absurd";
+var mnemonic = "utility elephant merge chalk funny head dynamic caution trial radar beach good";

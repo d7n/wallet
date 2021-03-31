@@ -1,1 +1,1 @@
-var mnemonic = "wolf inch open reflect error fit leaf because detect near hurry situate";
+var mnemonic = "stamp road museum clock arrange weather mango top caught giraffe night year";

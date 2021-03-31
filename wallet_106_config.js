@@ -1,1 +1,1 @@
-var mnemonic = "misery brain radar hidden cruel bamboo silver deposit clutch ramp code perfect";
+var mnemonic = "dash asthma stomach ghost now public limit enforce pluck venture pink fury";

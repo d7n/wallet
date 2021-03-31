@@ -1,1 +1,1 @@
-var mnemonic = "tomato outside armed anger skirt web brother asthma pulse rain wave tribe";
+var mnemonic = "cage green load uphold now pill buzz sleep fall iron vintage movie";
