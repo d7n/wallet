@@ -1,1 +1,1 @@
-var mnemonic = "imitate ready electric artist produce polar wedding menu license roast grass swamp";
+var mnemonic = "lesson bleak dad donate rice royal indicate suffer deny predict floor loyal";

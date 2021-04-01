@@ -1,1 +1,1 @@
-var mnemonic = "allow proof symbol hero private kid borrow kangaroo swarm board cost aisle";
+var mnemonic = "hill atom ceiling exist predict language meadow buyer spell chair width auto";

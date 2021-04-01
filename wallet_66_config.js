@@ -1,1 +1,1 @@
-var mnemonic = "swim capable rigid ten deal cloth energy dose bulb gospel settle wealth";
+var mnemonic = "pitch number shop novel diagram helmet busy fish combine tone behave have";

@@ -1,1 +1,1 @@
-var mnemonic = "trip chicken canvas what medal rack kitten real grape broccoli hour library";
+var mnemonic = "try near million main distance blind pole key paper phrase spice bundle";

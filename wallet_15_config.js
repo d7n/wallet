@@ -1,1 +1,1 @@
-var mnemonic = "pear waste liquid define bag need emotion peanut detect salad first turtle";
+var mnemonic = "assume major arrange detail crime pigeon people harvest plastic deliver live dynamic";

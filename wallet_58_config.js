@@ -1,1 +1,1 @@
-var mnemonic = "cable useless core orbit because pottery exotic fan embody fringe tragic bitter";
+var mnemonic = "survey illness you choice settle ginger worry phrase tray pulse royal mention";

@@ -1,1 +1,1 @@
-var mnemonic = "movie inject void zoo scheme congress breeze input amazing lake wire arrow";
+var mnemonic = "universe dream bitter club message quarter over rude erupt lemon tree sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "axis lyrics ankle actor swear where category spider galaxy barely sphere obscure";
+var mnemonic = "coral action device rural bridge journey eager valley then nasty jealous over";

@@ -1,1 +1,1 @@
-var mnemonic = "wood blossom rich soap photo any wagon emotion enter fold raise crater";
+var mnemonic = "easy traffic galaxy anchor mammal human mercy wreck tilt erase right weather";

@@ -1,1 +1,1 @@
-var mnemonic = "guitar slab noise deer still approve gun local neither better any evidence";
+var mnemonic = "fiber card impose notable day zebra derive shy guitar slam artwork private";

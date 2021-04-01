@@ -1,1 +1,1 @@
-var mnemonic = "chronic divorce garden penalty train arrive hen cheap key team sell enemy";
+var mnemonic = "neither melt coyote melody minimum master swarm sand year cause any truth";

@@ -1,1 +1,1 @@
-var mnemonic = "uncle cliff club light engine stage aerobic verify bargain flight awake canoe";
+var mnemonic = "decrease cinnamon elegant unable mandate journey naive merit parrot front congress grow";

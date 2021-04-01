@@ -1,1 +1,1 @@
-var mnemonic = "boss beauty toilet suit finger shoulder love mass number orient frequent danger";
+var mnemonic = "thank kite noodle outdoor prize top market dish party sound cup drill";

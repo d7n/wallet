@@ -1,1 +1,1 @@
-var mnemonic = "pizza sketch tongue top helmet garment panda evidence seven awesome vacant found";
+var mnemonic = "offer park swallow gasp off total juice accuse cluster adapt grid property";

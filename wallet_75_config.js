@@ -1,1 +1,1 @@
-var mnemonic = "try saddle acquire monitor foil suffer medal east behave project smooth innocent";
+var mnemonic = "rubber romance couch yellow rotate grape food flavor trap fall clarify onion";

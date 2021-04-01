@@ -1,1 +1,1 @@
-var mnemonic = "second reflect trophy call solar turtle rain chase correct boy salt disorder";
+var mnemonic = "nut abuse timber next omit shuffle flat obey ripple trophy tomorrow ugly";

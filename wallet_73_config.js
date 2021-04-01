@@ -1,1 +1,1 @@
-var mnemonic = "battle cluster exotic mixture rate vapor rabbit usual desert whisper approve stomach";
+var mnemonic = "deny inch post couple tunnel advice pilot remain involve grief lecture duty";

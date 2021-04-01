@@ -1,1 +1,1 @@
-var mnemonic = "bike ocean weather unhappy later ridge polar video dust canvas speak own";
+var mnemonic = "base fever skill garden bulb dwarf wrestle seven destroy project cradle august";

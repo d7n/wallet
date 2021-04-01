@@ -1,1 +1,1 @@
-var mnemonic = "quarter rib sentence cause word limb eagle imitate retreat right style learn";
+var mnemonic = "elite idea laundry crack coral diet step end lesson auto corn coral";

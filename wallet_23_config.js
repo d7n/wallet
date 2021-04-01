@@ -1,1 +1,1 @@
-var mnemonic = "federal thought urban animal tongue ability mandate avocado plate grace zone olympic";
+var mnemonic = "satisfy expand ranch prepare foam truly process quit attack else arch account";

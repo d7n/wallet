@@ -1,1 +1,1 @@
-var mnemonic = "canyon punch check stable beef traffic loyal error tuition tomato select regular";
+var mnemonic = "juice recycle run adapt term echo garbage same estate wealth lunar enrich";

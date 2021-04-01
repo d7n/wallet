@@ -1,1 +1,1 @@
-var mnemonic = "athlete wrap attack olympic apple sausage frog drill craft enlist donkey useless";
+var mnemonic = "stereo relief mixed torch cream often please correct cruise sugar mammal exercise";

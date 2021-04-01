@@ -1,1 +1,1 @@
-var mnemonic = "excuse search eternal arena iron favorite pear library library book fury taste";
+var mnemonic = "surprise hand chalk luggage hill labor mosquito fun priority matter curtain slogan";

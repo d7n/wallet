@@ -1,1 +1,1 @@
-var mnemonic = "square wrestle circle guide term educate object come virus public worth virus";
+var mnemonic = "wage frown forum pet hole arrive can sock awful useful song fold";

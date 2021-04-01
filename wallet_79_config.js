@@ -1,1 +1,1 @@
-var mnemonic = "envelope blur catch save agent tired air wet ready soul celery lounge";
+var mnemonic = "eagle spoon viable slogan bird maze seat dinner gentle canal cable raccoon";

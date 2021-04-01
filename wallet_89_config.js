@@ -1,1 +1,1 @@
-var mnemonic = "crop odor buyer barrel cotton feed kidney garment shuffle agree fat front";
+var mnemonic = "coin accident inner gun trigger grant view view cruise asset world kiss";

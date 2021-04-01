@@ -1,1 +1,1 @@
-var mnemonic = "weasel cross army elite vapor have dragon maze business goddess crouch select";
+var mnemonic = "fun return buffalo boring act mule soon frost install curtain warrior obscure";

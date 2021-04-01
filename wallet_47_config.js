@@ -1,1 +1,1 @@
-var mnemonic = "govern soon unknown juice bread tired useful liar path bracket cake celery";
+var mnemonic = "calm bunker wagon vessel all nasty clever chase ghost dragon spend legend";

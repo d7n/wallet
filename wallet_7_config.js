@@ -1,1 +1,1 @@
-var mnemonic = "street popular tourist system call exhaust saddle balcony common habit sad mimic";
+var mnemonic = "young noodle find increase bullet glory various jewel ocean orphan digital barely";

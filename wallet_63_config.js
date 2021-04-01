@@ -1,1 +1,1 @@
-var mnemonic = "estate witness inhale quiz kitchen excuse then reduce senior rack someone beef";
+var mnemonic = "heart broom unveil great example gloom fan staff maple ability melody conduct";

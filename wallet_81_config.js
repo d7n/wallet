@@ -1,1 +1,1 @@
-var mnemonic = "moral sad rough luggage learn scare verb common half lab curtain hidden";
+var mnemonic = "wisdom describe beach nose possible song speak version distance spider knee injury";

@@ -1,1 +1,1 @@
-var mnemonic = "train crater giggle rough net universe write what solution bid lock damp";
+var mnemonic = "forum debate pool purse peasant infant goddess arrange first shallow obtain marine";

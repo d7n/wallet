@@ -1,1 +1,1 @@
-var mnemonic = "renew scare embrace beach prefer canvas car joke culture wet wish moral";
+var mnemonic = "stage account mesh shoot finish trip vessel media junior laugh assist settle";

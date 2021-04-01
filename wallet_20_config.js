@@ -1,1 +1,1 @@
-var mnemonic = "catalog total dress sad lemon film urge hard vapor supply furnace neither";
+var mnemonic = "mix cement jazz blast merit theme lens knee any tree parrot spring";

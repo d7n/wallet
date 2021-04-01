@@ -1,1 +1,1 @@
-var mnemonic = "face safe love shuffle toast spirit embody warrior jewel bid kick level";
+var mnemonic = "suit curtain today fringe basic question cage guide wide between inject depend";

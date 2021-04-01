@@ -1,1 +1,1 @@
-var mnemonic = "diet impulse ask window little order more paper sausage forum rent multiply";
+var mnemonic = "goat hockey game coffee gauge jump game limit enough want oblige jump";

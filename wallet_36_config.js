@@ -1,1 +1,1 @@
-var mnemonic = "strategy ship resist doll edit struggle grid visit wait chronic wasp elite";
+var mnemonic = "provide feature carbon moral brain happy antenna rather gap mountain great gate";

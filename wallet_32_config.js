@@ -1,1 +1,1 @@
-var mnemonic = "nominee dove palace debris lava strong bright remain damp eagle giraffe head";
+var mnemonic = "sustain describe maze sport lonely holiday abandon where silk excite limit roast";

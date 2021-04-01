@@ -1,1 +1,1 @@
-var mnemonic = "steel another educate young biology virus mosquito ceiling outside muscle vehicle reunion";
+var mnemonic = "carpet marble brass service brain kiwi census civil tortoise lens come upgrade";

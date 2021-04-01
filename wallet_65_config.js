@@ -1,1 +1,1 @@
-var mnemonic = "ozone office maid notice stomach bench crouch impulse discover more inch airport";
+var mnemonic = "fuel abstract depend mention dirt drill tank various scrub body dinosaur spike";

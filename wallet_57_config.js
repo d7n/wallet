@@ -1,1 +1,1 @@
-var mnemonic = "off distance planet jump entire brick riot buffalo image tenant sponsor cactus";
+var mnemonic = "teach frozen bitter diesel clinic coyote card occur rally tube coil normal";

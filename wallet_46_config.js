@@ -1,1 +1,1 @@
-var mnemonic = "decide under weapon reflect enjoy play brisk bacon absurd rate sport bottom";
+var mnemonic = "kite trick sketch joke advice tornado pig property camp board rifle travel";

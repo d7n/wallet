@@ -1,1 +1,1 @@
-var mnemonic = "deliver only salon draft appear census document kiss someone prize burden rice";
+var mnemonic = "cruel grass novel crumble view almost neither oblige snap dash hair review";

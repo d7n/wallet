@@ -1,1 +1,1 @@
-var mnemonic = "minimum clutch digital clean charge flat tortoise diesel coffee grant learn venture";
+var mnemonic = "kick insane mom lab snap child bottom spike magnet design isolate regret";

@@ -1,1 +1,1 @@
-var mnemonic = "awesome frown head method sword daring urge winner neglect this attitude victory";
+var mnemonic = "coin cloud hurt sing guitar sort mind quarter bargain spray inner find";

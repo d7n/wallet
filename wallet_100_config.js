@@ -1,1 +1,1 @@
-var mnemonic = "author raccoon flip aunt rose salt bubble north sort pulp cereal cotton";
+var mnemonic = "since auto genuine couple reform prosper treat field rabbit solve jacket blind";

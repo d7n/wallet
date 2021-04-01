@@ -1,1 +1,1 @@
-var mnemonic = "drift field giant subway frog remain march cupboard abandon critic edge guess";
+var mnemonic = "lonely abstract bring destroy enforce exhaust soldier kitten garbage law hybrid absurd";

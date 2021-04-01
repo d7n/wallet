@@ -1,1 +1,1 @@
-var mnemonic = "know start venture soon motion trouble frown next swamp brain team typical";
+var mnemonic = "person blade title attitude try wild more imitate practice door cupboard throw";

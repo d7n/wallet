@@ -1,1 +1,1 @@
-var mnemonic = "labor wrestle language flame fringe host thumb list uniform license dog armed";
+var mnemonic = "music figure water spike oval address transfer scout ecology pumpkin start announce";

@@ -1,1 +1,1 @@
-var mnemonic = "throw spot dinner keep lucky maple already angry tomato rib razor develop";
+var mnemonic = "suggest stumble filter useful hurdle tennis pipe lake error auction laptop provide";

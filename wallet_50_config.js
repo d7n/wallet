@@ -1,1 +1,1 @@
-var mnemonic = "worry employ twin beef vanish motor snap crop shine zone crawl medal";
+var mnemonic = "topic stage safe sword work cube tribe smooth evoke impose gentle mad";

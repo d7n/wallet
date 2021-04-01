@@ -1,1 +1,1 @@
-var mnemonic = "move plug limit valve wink cup case nasty town hair west wine";
+var mnemonic = "pigeon asthma manage museum lift exercise entire sure glide rescue hurt hair";

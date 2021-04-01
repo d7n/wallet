@@ -1,1 +1,1 @@
-var mnemonic = "include action repeat rather garage invite outer never glue dry gather muscle";
+var mnemonic = "scheme great hope artefact method fever museum service keep gallery husband enlist";

@@ -1,1 +1,1 @@
-var mnemonic = "invest save reflect foil borrow hen defy problem decide piano duty gallery";
+var mnemonic = "one news area minute feel risk water hen blouse keen crucial gospel";

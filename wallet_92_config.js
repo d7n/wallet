@@ -1,1 +1,1 @@
-var mnemonic = "endless east addict cup turkey taste program inflict liquid add walnut ignore";
+var mnemonic = "flash sock hat water shock light blush reform about robust scare crack";

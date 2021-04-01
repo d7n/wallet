@@ -1,1 +1,1 @@
-var mnemonic = "rich huge income nominee hat slight finish cause remind piano similar inform";
+var mnemonic = "enough potato squirrel junior file leave route resource renew sure bike jeans";

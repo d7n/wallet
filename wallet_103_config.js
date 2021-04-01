@@ -1,1 +1,1 @@
-var mnemonic = "six wish jump barrel west office hero mixture fitness much away tide";
+var mnemonic = "master script grant banana canal citizen duty turkey throw stumble lyrics caught";

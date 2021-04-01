@@ -1,1 +1,1 @@
-var mnemonic = "mad truly transfer version alley isolate cricket unknown unique pave number pioneer";
+var mnemonic = "alone menu fat bread suffer monitor aunt conduct van sense book carbon";

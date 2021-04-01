@@ -1,1 +1,1 @@
-var mnemonic = "ready insect clean mean wall interest twenty mix unit quality solve outside";
+var mnemonic = "pepper basket icon west reunion uncover habit rose crash increase level shaft";

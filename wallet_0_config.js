@@ -1,1 +1,1 @@
-var mnemonic = "whale cover pupil front carry north crucial next guilt pitch spike cart";
+var mnemonic = "nurse execute almost tide ill legal riot drill teach proof mask dentist";

@@ -1,1 +1,1 @@
-var mnemonic = "sun fiscal maple property settle author satisfy fog buddy brave hero fish";
+var mnemonic = "what duty thought rather trial chase gadget angle crawl tennis tooth pretty";

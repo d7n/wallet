@@ -1,1 +1,1 @@
-var mnemonic = "hunt mandate point security volcano liar rescue maple soda bind gun scout";
+var mnemonic = "undo vivid repeat quit economy angle rubber zero annual sphere icon jelly";

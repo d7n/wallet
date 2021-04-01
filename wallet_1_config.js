@@ -1,1 +1,1 @@
-var mnemonic = "era ritual shallow jungle wing derive return eternal scissors light bright hurt";
+var mnemonic = "urban curtain project lemon jaguar various burden million upon casino target claw";

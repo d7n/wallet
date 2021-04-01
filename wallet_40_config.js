@@ -1,1 +1,1 @@
-var mnemonic = "proof busy afford foil want abstract despair sample subway deer okay public";
+var mnemonic = "prevent bright liar bulb float beauty victory bubble visit defy earn abstract";

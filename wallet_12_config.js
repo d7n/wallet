@@ -1,1 +1,1 @@
-var mnemonic = "aisle benefit jungle sign morning bounce oyster surge code blanket outer figure";
+var mnemonic = "remove jazz common auction genius leaf drama approve destroy solid text develop";

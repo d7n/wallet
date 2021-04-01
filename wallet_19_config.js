@@ -1,1 +1,1 @@
-var mnemonic = "that rescue stock pottery crash laptop egg veteran insane obvious tumble act";
+var mnemonic = "wash phone panther marble eight identify sponsor patient vehicle sustain science heart";

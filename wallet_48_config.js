@@ -1,1 +1,1 @@
-var mnemonic = "dove enrich envelope caution side pink sight wreck ghost pull mule alone";
+var mnemonic = "index damage vibrant sheriff ready pony blossom jeans list leopard oak jungle";

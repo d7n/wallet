@@ -1,1 +1,1 @@
-var mnemonic = "club chair ski milk pencil crystal shed grocery slice tomorrow exhibit unfair";
+var mnemonic = "night mystery rate task slush patient treat grit fiber special squirrel toe";

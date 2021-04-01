@@ -1,1 +1,1 @@
-var mnemonic = "duck wink bachelor token general seminar pull fade ceiling donor crop rather";
+var mnemonic = "case embody seat also silent extra rice jar useless toddler tribe hospital";

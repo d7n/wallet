@@ -1,1 +1,1 @@
-var mnemonic = "damage exile put bachelor tape miracle alcohol stable panic alter gesture doctor";
+var mnemonic = "regret poet punch fantasy abstract antique effort link beauty best tell dial";

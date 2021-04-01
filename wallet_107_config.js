@@ -1,1 +1,1 @@
-var mnemonic = "earth replace author gallery program exile useless sleep dance lake yellow play";
+var mnemonic = "memory decline cheese supply eight whisper muscle plunge twist pair flame include";

@@ -1,1 +1,1 @@
-var mnemonic = "people knee pizza planet weird custom cloth victory lunch answer sock attract";
+var mnemonic = "wool weather planet boost concert clay artist ensure talent elephant drum satoshi";

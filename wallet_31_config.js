@@ -1,1 +1,1 @@
-var mnemonic = "orange boil kite rookie tip major loyal vintage surge middle element repeat";
+var mnemonic = "enjoy square success goddess time poem action payment tent inmate crash shuffle";

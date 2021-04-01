@@ -1,1 +1,1 @@
-var mnemonic = "faculty area spoil inherit okay cactus robot cricket around forward certain story";
+var mnemonic = "ketchup into return collect cement soap series exact recipe kangaroo season inflict";

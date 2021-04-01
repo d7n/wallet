@@ -1,1 +1,1 @@
-var mnemonic = "rude swing eager brand ticket attack wave domain chapter brown maid minimum";
+var mnemonic = "rather harbor moment april burst company liberty approve tribe assist section people";

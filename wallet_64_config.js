@@ -1,1 +1,1 @@
-var mnemonic = "wedding truth proud shiver butter mad mix scissors meadow short slow ritual";
+var mnemonic = "column inside soccer funny prison glad swing midnight balance exhibit finish aisle";

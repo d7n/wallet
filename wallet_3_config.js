@@ -1,1 +1,1 @@
-var mnemonic = "enable tomato helmet harsh lunch dilemma payment upset educate salute hand tower";
+var mnemonic = "struggle pluck large physical donor alone cause cradle fence sport mixture cigar";

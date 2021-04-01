@@ -1,1 +1,1 @@
-var mnemonic = "picnic garlic unusual start leave duty argue limb diamond crane border save";
+var mnemonic = "parade black vital myth weird defense sibling organ exhaust ten fluid style";

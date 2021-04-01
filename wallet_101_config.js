@@ -1,1 +1,1 @@
-var mnemonic = "term urge hero peace turtle wreck spread brisk target split now bachelor";
+var mnemonic = "funny cute genuine rose above luxury govern mass royal cotton antique giant";

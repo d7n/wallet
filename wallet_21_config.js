@@ -1,1 +1,1 @@
-var mnemonic = "word margin blanket ticket artwork club island zero palace describe grunt medal";
+var mnemonic = "rabbit question intact foster spot rent ridge curious judge monkey once december";

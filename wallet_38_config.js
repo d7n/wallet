@@ -1,1 +1,1 @@
-var mnemonic = "replace axis hint muscle talent what shrimp twenty innocent bomb news solution";
+var mnemonic = "melt maze mosquito supply foster energy ski desk venue dismiss normal nest";

@@ -1,1 +1,1 @@
-var mnemonic = "embrace enhance bracket seat exclude defense dinosaur settle breeze vault onion dignity";
+var mnemonic = "share patrol rebel life door sing crazy hope fiscal ancient ahead tray";

@@ -1,1 +1,1 @@
-var mnemonic = "daughter youth disagree mask virus heavy citizen relax before govern wagon addict";
+var mnemonic = "pass indicate rookie armed soccer sail knife dad little same mail nerve";

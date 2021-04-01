@@ -1,1 +1,1 @@
-var mnemonic = "sad endorse rebuild veteran island jaguar bless social problem illness praise affair";
+var mnemonic = "salute voice find evoke describe mistake student salt echo tank feed settle";

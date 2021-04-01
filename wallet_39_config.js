@@ -1,1 +1,1 @@
-var mnemonic = "bread phrase enter under sadness pelican begin effort midnight tackle drama illness";
+var mnemonic = "guilt program prefer innocent run silver exclude unusual exact secret current artefact";

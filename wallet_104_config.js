@@ -1,1 +1,1 @@
-var mnemonic = "use supreme trumpet stereo describe fan trim margin gesture ill vivid clever";
+var mnemonic = "special conduct dog employ make battle harsh exhibit fruit fatal filter carpet";
