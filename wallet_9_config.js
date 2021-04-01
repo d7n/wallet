@@ -1,1 +1,1 @@
-var mnemonic = "ramp acid ramp tattoo arm filter aspect seven pet cover promote atom";
+var mnemonic = "crush layer recipe sight debate corn capable chef fly quarter depth fiber";

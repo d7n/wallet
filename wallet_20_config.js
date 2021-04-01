@@ -1,1 +1,1 @@
-var mnemonic = "script steel luggage pledge note illness else weird trend tilt kingdom enroll";
+var mnemonic = "tourist close grief dilemma bitter crowd media fruit atom logic junk virtual";

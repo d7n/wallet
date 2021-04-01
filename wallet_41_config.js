@@ -1,1 +1,1 @@
-var mnemonic = "thumb note buyer coral net add hazard return harbor cigar help divorce";
+var mnemonic = "receive nose inch window fold panther record retire obey midnight often outer";

@@ -1,1 +1,1 @@
-var mnemonic = "december route hen concert raccoon exile kid gauge success crew earn sketch";
+var mnemonic = "tuna physical nature retreat cross despair slot own subway text sniff sting";

@@ -1,1 +1,1 @@
-var mnemonic = "letter crystal gasp run stem hollow blade siege merit hire trap skull";
+var mnemonic = "sun trust foster right earth agree scene venue into charge situate either";

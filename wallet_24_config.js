@@ -1,1 +1,1 @@
-var mnemonic = "maze service face like convince hour laptop estate ramp praise file click";
+var mnemonic = "razor relief age pelican erosion tribe olympic such peasant hope elite image";

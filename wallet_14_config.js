@@ -1,1 +1,1 @@
-var mnemonic = "kick demise offer wage oxygen shoulder attract right open latin fold donor";
+var mnemonic = "barely hill strong between seek country differ twin opinion flag diesel insect";

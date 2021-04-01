@@ -1,1 +1,1 @@
-var mnemonic = "cat outdoor screen weekend hockey real knife stand peasant fold bulk message";
+var mnemonic = "document wheat abandon plug kick host rigid agree elbow pink quality vendor";

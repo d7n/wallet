@@ -1,1 +1,1 @@
-var mnemonic = "hedgehog rural winter cool tiny lottery judge scorpion salt busy typical asthma";
+var mnemonic = "allow energy bubble annual cart pool cycle endless insect boy cheese program";

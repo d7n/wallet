@@ -1,1 +1,1 @@
-var mnemonic = "travel print ketchup obtain air person remind solar believe easily screen anger";
+var mnemonic = "illegal mind garment purpose exclude into exclude camera nut bird absurd oven";

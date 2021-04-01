@@ -1,1 +1,1 @@
-var mnemonic = "rescue family valid tell scene find pattern imitate syrup afraid basic ridge";
+var mnemonic = "fluid wagon animal link chuckle novel crowd duck clown live opera vital";

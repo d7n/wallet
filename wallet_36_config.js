@@ -1,1 +1,1 @@
-var mnemonic = "ecology eagle tuition usual indicate place distance gym tiny solution enhance reunion";
+var mnemonic = "around enemy diagram pact fantasy jacket enemy churn carpet panther spare trip";

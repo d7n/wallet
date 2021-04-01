@@ -1,1 +1,1 @@
-var mnemonic = "anger image obscure resist begin input roof hospital initial speak run task";
+var mnemonic = "try then trade destroy tenant demise index giant affair actor library differ";

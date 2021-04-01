@@ -1,1 +1,1 @@
-var mnemonic = "flag match addict parrot proof bottom rich embrace alpha citizen neglect august";
+var mnemonic = "benefit bomb scheme true rescue blush differ design amateur chalk opinion civil";

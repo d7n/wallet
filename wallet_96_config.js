@@ -1,1 +1,1 @@
-var mnemonic = "pretty bullet grief lend pond fame empower rice artwork stable never inquiry";
+var mnemonic = "phrase frequent coffee wonder install seed sound tiny board hope just receive";

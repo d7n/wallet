@@ -1,1 +1,1 @@
-var mnemonic = "behave fever tongue toilet that female tackle donor swarm promote clay spawn";
+var mnemonic = "response card shuffle faint asthma bachelor knife party actual unlock decline air";

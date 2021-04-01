@@ -1,1 +1,1 @@
-var mnemonic = "huge seed pink novel buffalo chapter little index census vivid student story";
+var mnemonic = "stock monitor roast chat distance donkey another evidence arch discover stem story";

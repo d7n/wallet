@@ -1,1 +1,1 @@
-var mnemonic = "normal senior gift cushion problem foil glare deposit anchor engine palm void";
+var mnemonic = "mail virus grief update family crater team hedgehog million wealth web forest";

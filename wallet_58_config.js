@@ -1,1 +1,1 @@
-var mnemonic = "family envelope tail proof throw glass dilemma bone vibrant lake absurd boss";
+var mnemonic = "become room will memory worry vote cruel execute lake alien cattle strike";

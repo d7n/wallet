@@ -1,1 +1,1 @@
-var mnemonic = "nest distance trash achieve taxi rain flavor luggage dolphin decade acid book";
+var mnemonic = "hybrid enjoy sleep access grid dog okay olympic second pulse history target";

@@ -1,1 +1,1 @@
-var mnemonic = "palm repair usual fiction obvious scan advance kiwi space this melody butter";
+var mnemonic = "armed wet army waste episode dust object pole curtain wedding kick page";

@@ -1,1 +1,1 @@
-var mnemonic = "reopen talk gadget faculty lottery similar claw process black viable toddler mystery";
+var mnemonic = "midnight client desk sunny solid require space price rural insect now kick";

@@ -1,1 +1,1 @@
-var mnemonic = "abandon left frost evolve reform tail fence wall void biology print earth";
+var mnemonic = "offer own glue remember upset kidney buyer monster hen oven leisure swallow";

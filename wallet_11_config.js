@@ -1,1 +1,1 @@
-var mnemonic = "palm feed rifle section next swim plug tape hotel stadium maple buffalo";
+var mnemonic = "strong flag round jungle frozen seminar setup express allow kangaroo three alert";

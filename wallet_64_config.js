@@ -1,1 +1,1 @@
-var mnemonic = "similar citizen test result nerve rookie barely picnic island useful virus level";
+var mnemonic = "case double vocal flight catch oil cherry swim snack grace peace rude";

@@ -1,1 +1,1 @@
-var mnemonic = "quality equip rich price average cream crazy wet universe vault click swing";
+var mnemonic = "uniform nominee loan bar click used price certain fringe shift record wife";

@@ -1,1 +1,1 @@
-var mnemonic = "pistol sock hero situate series ethics scan law life rebel joke december";
+var mnemonic = "assist trial torch drop edit feel wool dress distance huge traffic network";

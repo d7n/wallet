@@ -1,1 +1,1 @@
-var mnemonic = "exist wonder drama better length shine exchange soda aware candy fiction perfect";
+var mnemonic = "army begin cash game upon always poet oblige child gesture crane color";

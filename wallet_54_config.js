@@ -1,1 +1,1 @@
-var mnemonic = "ethics explain unique harbor banana unique mango industry search glance refuse program";
+var mnemonic = "spin major stomach stone belt tennis action animal early miracle stand modify";

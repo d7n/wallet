@@ -1,1 +1,1 @@
-var mnemonic = "pole magnet sauce doll stool mountain enact curious recipe walk animal moral";
+var mnemonic = "exact include lesson buzz candy hub ancient mail birth mandate caught use";

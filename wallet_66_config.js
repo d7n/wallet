@@ -1,1 +1,1 @@
-var mnemonic = "spring radar woman burst laptop long bread earn add enable flower insect";
+var mnemonic = "ticket keep tribe boy curtain section joke shoot grocery iron monkey air";

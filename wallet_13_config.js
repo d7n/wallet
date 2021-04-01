@@ -1,1 +1,1 @@
-var mnemonic = "fancy jungle fury thing coyote cigar vibrant turkey deal sell october horse";
+var mnemonic = "series aunt impose protect useless body desert shine jar inhale garment wink";

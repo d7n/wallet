@@ -1,1 +1,1 @@
-var mnemonic = "receive mystery alpha crouch cushion three spray speed desk artist chest together";
+var mnemonic = "affair lecture flat emotion amount police oven trade ten diamond height puppy";

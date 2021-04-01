@@ -1,1 +1,1 @@
-var mnemonic = "friend solution tonight anger kid pond vacuum crew cigar rebuild army biology";
+var mnemonic = "truck physical wasp easy lava brass rotate right badge window logic sleep";

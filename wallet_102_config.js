@@ -1,1 +1,1 @@
-var mnemonic = "online middle basic update summer destroy wheel donor cradle obtain oak pilot";
+var mnemonic = "capital shoe away hungry almost test purchase worth reveal crystal kiwi kingdom";

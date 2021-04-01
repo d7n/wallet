@@ -1,1 +1,1 @@
-var mnemonic = "lunar job diesel inject credit fire blush enter salmon leg second regret";
+var mnemonic = "fish muffin cattle usual addict remain property salmon alert disorder proud dutch";

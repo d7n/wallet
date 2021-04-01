@@ -1,1 +1,1 @@
-var mnemonic = "orbit diagram below pool neck slim require slogan wheel harsh wealth museum";
+var mnemonic = "run evolve script addict guess people cake renew below project hammer since";

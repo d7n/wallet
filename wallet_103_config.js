@@ -1,1 +1,1 @@
-var mnemonic = "eye violin rate obtain margin light furnace online timber atom club penalty";
+var mnemonic = "disease stereo clean wrestle main alert life voice october round index where";

@@ -1,1 +1,1 @@
-var mnemonic = "wood member squeeze better ride kidney unveil visa axis random afford success";
+var mnemonic = "double castle goose document all length dutch stumble usual wrist badge urban";

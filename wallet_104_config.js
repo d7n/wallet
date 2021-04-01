@@ -1,1 +1,1 @@
-var mnemonic = "first tank olive vacant abstract vast ice woman under rich grace blossom";
+var mnemonic = "exit tool region remind correct supreme jacket twice speak pledge utility front";

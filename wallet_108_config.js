@@ -1,1 +1,1 @@
-var mnemonic = "client purchase miss nothing manage bounce exist risk endorse similar correct also";
+var mnemonic = "evidence boy gun race paddle entry maple small grid crew cage artwork";

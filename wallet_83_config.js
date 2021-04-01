@@ -1,1 +1,1 @@
-var mnemonic = "cake tragic nice daring demand must general organ gallery lab upset major";
+var mnemonic = "dizzy ankle skate ahead define genuine truly monster obscure path lonely place";

@@ -1,1 +1,1 @@
-var mnemonic = "board fury ceiling drum message wrong doll prize parade hope vicious talk";
+var mnemonic = "wait sense trade sort raven legend style collect prosper few weather urge";

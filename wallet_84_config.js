@@ -1,1 +1,1 @@
-var mnemonic = "glance drum nurse acoustic destroy must feel wisdom winner access click extend";
+var mnemonic = "acoustic pelican friend theme route leg youth left paper midnight saddle multiply";

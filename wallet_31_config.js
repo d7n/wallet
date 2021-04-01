@@ -1,1 +1,1 @@
-var mnemonic = "erosion elite brush outdoor business machine offer chaos syrup pill include wish";
+var mnemonic = "cupboard equal gesture absurd total fossil illegal mix lonely force perfect siren";

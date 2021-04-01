@@ -1,1 +1,1 @@
-var mnemonic = "edge region nuclear squirrel call sudden hand equal now space decrease eye";
+var mnemonic = "goose syrup ceiling side dentist shift brick beyond buzz impose present sun";

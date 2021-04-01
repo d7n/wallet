@@ -1,1 +1,1 @@
-var mnemonic = "century renew boost garment sauce pole notable arena hill dolphin tank general";
+var mnemonic = "luggage venture because hedgehog account lottery spot glare wait expand coconut february";

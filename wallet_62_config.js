@@ -1,1 +1,1 @@
-var mnemonic = "title hedgehog famous attack despair before shrug tone vocal urban relief process";
+var mnemonic = "uncover smart lunch embrace story mechanic pride print foster raw else cage";

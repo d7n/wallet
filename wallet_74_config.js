@@ -1,1 +1,1 @@
-var mnemonic = "nothing wonder fancy news door raccoon keen sample brush refuse speed pride";
+var mnemonic = "hover slight tank among fame rare robot fish airport direct narrow indicate";

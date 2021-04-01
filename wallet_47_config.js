@@ -1,1 +1,1 @@
-var mnemonic = "category execute area hawk giant cluster rail axis ecology parent noodle ripple";
+var mnemonic = "witness stone arctic gift crash cream shine cotton crisp isolate chef shock";

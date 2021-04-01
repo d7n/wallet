@@ -1,1 +1,1 @@
-var mnemonic = "poem absent august nut same category brief crew decline climb toe embrace";
+var mnemonic = "salute time winter office faint onion dirt toss coral blood spider foil";

@@ -1,1 +1,1 @@
-var mnemonic = "emotion trial prefer degree disagree bitter banana use holiday bachelor chuckle only";
+var mnemonic = "element inner spatial duck learn vehicle snack minor coin feel brief grow";

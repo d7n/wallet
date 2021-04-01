@@ -1,1 +1,1 @@
-var mnemonic = "banner profit install trend monkey differ until domain skirt bracket apart guide";
+var mnemonic = "banana earth recycle wolf gate jacket mix apology answer nose city peanut";

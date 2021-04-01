@@ -1,1 +1,1 @@
-var mnemonic = "chief best pistol unable pupil powder frequent noodle waste scout habit predict";
+var mnemonic = "emotion genre winner nurse wet plug snack anchor census eager trip adult";

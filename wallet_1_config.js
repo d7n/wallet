@@ -1,1 +1,1 @@
-var mnemonic = "coral december embrace shallow despair defense picture theme arctic wonder minor valid";
+var mnemonic = "coast depth pig much regular tilt decide dog kangaroo egg run retreat";

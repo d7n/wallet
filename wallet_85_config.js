@@ -1,1 +1,1 @@
-var mnemonic = "disorder carry favorite despair shine drastic hill juice patient machine salad neck";
+var mnemonic = "mule crazy usual ride meadow sad wheat echo step account sister right";

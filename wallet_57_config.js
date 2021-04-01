@@ -1,1 +1,1 @@
-var mnemonic = "enroll secret segment pyramid angle barely anxiety flavor lab mansion tortoise fork";
+var mnemonic = "multiply grace vicious room green average visual feed hamster need faculty edit";

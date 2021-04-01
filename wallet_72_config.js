@@ -1,1 +1,1 @@
-var mnemonic = "praise vapor evolve urge amazing fashion orphan list noise exit garment olive";
+var mnemonic = "wet source trend side reward undo hire inform merit grunt half waste";

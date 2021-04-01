@@ -1,1 +1,1 @@
-var mnemonic = "naive lady afraid cake borrow miss attend divorce aspect blast indoor educate";
+var mnemonic = "ivory hen table category way region build right side flat donkey hair";

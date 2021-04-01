@@ -1,1 +1,1 @@
-var mnemonic = "security metal liberty speak turn carry can snow winter sunset wide bubble";
+var mnemonic = "immense brand evoke spoil crack helmet gravity learn prize rather ring sport";

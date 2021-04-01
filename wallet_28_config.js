@@ -1,1 +1,1 @@
-var mnemonic = "budget wing ice flash arm virtual bargain strong boat chicken tray kingdom";
+var mnemonic = "mask puppy camera primary park jaguar absurd citizen close sign maid royal";

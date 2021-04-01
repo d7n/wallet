@@ -1,1 +1,1 @@
-var mnemonic = "maze melody wisdom fruit extra humble farm private borrow bone retire helmet";
+var mnemonic = "enhance trust kitchen step someone sign moment butter fatigue target meat donkey";

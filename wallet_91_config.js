@@ -1,1 +1,1 @@
-var mnemonic = "dress liquid gadget juice mushroom become ready viable age symbol melody exclude";
+var mnemonic = "balance satoshi resemble pitch planet supreme fog pipe juice myself toe labor";

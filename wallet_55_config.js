@@ -1,1 +1,1 @@
-var mnemonic = "beef nurse body carbon harvest punch gossip supply violin dignity click fruit";
+var mnemonic = "cash mountain congress tip enact diet sudden garbage desk pill nephew ordinary";

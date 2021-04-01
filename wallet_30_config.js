@@ -1,1 +1,1 @@
-var mnemonic = "case tube polar merry gloom reunion ready very october biology jazz hammer";
+var mnemonic = "fancy ranch broom catalog replace link skirt item champion confirm tree champion";

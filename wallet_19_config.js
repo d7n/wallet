@@ -1,1 +1,1 @@
-var mnemonic = "hard bullet lizard wrap fancy baby civil mask marble fish snake kite";
+var mnemonic = "fossil try monitor quantum explain pipe october key knee birth domain between";

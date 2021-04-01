@@ -1,1 +1,1 @@
-var mnemonic = "coil comic into bundle road vintage promote tackle craft gauge eyebrow page";
+var mnemonic = "illness case avoid radar primary renew must note major raw edit number";

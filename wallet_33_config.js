@@ -1,1 +1,1 @@
-var mnemonic = "response east foam away artefact cargo sketch deliver lab female monster use";
+var mnemonic = "badge maple potato vague palace dentist define snake radar mammal unhappy tumble";

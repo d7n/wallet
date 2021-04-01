@@ -1,1 +1,1 @@
-var mnemonic = "exit crush clean kidney hard bacon demise face clarify lock dry century";
+var mnemonic = "journey pitch strike harsh faculty explain casino crop dinner find garbage fluid";

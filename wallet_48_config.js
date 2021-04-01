@@ -1,1 +1,1 @@
-var mnemonic = "push tree twist afford draw brain garage ugly airport arctic any already";
+var mnemonic = "carpet myth employ wall kite decrease similar drastic deny copy short jealous";

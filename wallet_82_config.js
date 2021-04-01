@@ -1,1 +1,1 @@
-var mnemonic = "wreck sphere swap rent slush unfair gentle wave flame stable elevator smart";
+var mnemonic = "cruel hour disorder potato rack more real crush divide okay laugh crash";

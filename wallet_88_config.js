@@ -1,1 +1,1 @@
-var mnemonic = "adult unusual force album clarify alert original question broom giggle woman enemy";
+var mnemonic = "entry say biology hidden sad coffee video notable dumb split ignore enjoy";

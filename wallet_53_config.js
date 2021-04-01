@@ -1,1 +1,1 @@
-var mnemonic = "long hard stuff rural broom misery sketch number trick frequent reveal rail";
+var mnemonic = "puppy void cannon coin scrap stairs detail hockey gain century design alien";

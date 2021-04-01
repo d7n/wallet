@@ -1,1 +1,1 @@
-var mnemonic = "globe alone flee share shock swim universe nation point live alley defy";
+var mnemonic = "define network together consider island cactus diary outdoor ketchup evoke crucial danger";

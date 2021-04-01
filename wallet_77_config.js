@@ -1,1 +1,1 @@
-var mnemonic = "valve public permit similar cargo hunt flush flush spring march access save";
+var mnemonic = "exhaust assist garden salmon tooth swamp imitate hospital year then tissue good";

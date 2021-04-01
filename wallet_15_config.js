@@ -1,1 +1,1 @@
-var mnemonic = "hungry toast dolphin vapor romance pool tuition require floor athlete stand often";
+var mnemonic = "census canal purchase comfort bench raw pizza harvest banana argue bunker thunder";

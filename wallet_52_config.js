@@ -1,1 +1,1 @@
-var mnemonic = "famous diamond orbit adapt they swarm april clutch version inquiry truck fly";
+var mnemonic = "force turtle unable ribbon pottery disorder foster define account tube concert wear";

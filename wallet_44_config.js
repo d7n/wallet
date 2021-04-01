@@ -1,1 +1,1 @@
-var mnemonic = "wolf love intact engage camp pulse accuse olympic update security attend fresh";
+var mnemonic = "normal render shield west version rhythm unit ancient grant acoustic clean predict";

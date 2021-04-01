@@ -1,1 +1,1 @@
-var mnemonic = "pelican elephant bird hospital dance immense blast artefact like since sunset size";
+var mnemonic = "cabin salmon hidden business clay escape valid lend barely milk glow convince";

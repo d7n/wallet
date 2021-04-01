@@ -1,1 +1,1 @@
-var mnemonic = "system harsh orient stamp struggle antenna uniform mandate tree nose motion favorite";
+var mnemonic = "design exact chair mind soup hood borrow fiscal again glory decrease system";

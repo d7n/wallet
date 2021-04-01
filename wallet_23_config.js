@@ -1,1 +1,1 @@
-var mnemonic = "twin sentence peanut prosper save vague initial marble grief pottery jeans dance";
+var mnemonic = "quit analyst music fit pact typical tennis helmet shoot hidden satisfy rocket";

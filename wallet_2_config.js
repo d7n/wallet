@@ -1,1 +1,1 @@
-var mnemonic = "draw intact vendor frog soul seven ring pioneer pretty crime glide cricket";
+var mnemonic = "brown provide grab nose cage speak mom cube enroll coach digital rib";

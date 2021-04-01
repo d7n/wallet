@@ -1,1 +1,1 @@
-var mnemonic = "peasant scheme bullet brand together hard rhythm solid pig bounce foot mandate";
+var mnemonic = "buddy earth disagree defy series race piece doctor benefit autumn already title";

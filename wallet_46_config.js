@@ -1,1 +1,1 @@
-var mnemonic = "forest farm kitten rose sleep kitten fade match system arrange off kit";
+var mnemonic = "affair program reason reopen chase season shift electric grief cloud elegant frost";

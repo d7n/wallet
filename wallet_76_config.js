@@ -1,1 +1,1 @@
-var mnemonic = "chuckle glory angle before spray faculty celery assault uncover road indicate income";
+var mnemonic = "pattern champion daughter clever million buddy digital cattle only kangaroo uniform pulp";

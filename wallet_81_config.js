@@ -1,1 +1,1 @@
-var mnemonic = "detail sign equip potato about solve canoe ripple tide detect truly nuclear";
+var mnemonic = "intact find cart scout tone follow deer mention venue venue novel grocery";

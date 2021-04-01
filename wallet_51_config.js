@@ -1,1 +1,1 @@
-var mnemonic = "asset bachelor soup pipe atom also ridge gym timber devote squeeze fiscal";
+var mnemonic = "miss chalk common soldier fine enough pride peasant luggage void snack genius";
