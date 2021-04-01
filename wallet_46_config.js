@@ -1,1 +1,1 @@
-var mnemonic = "mystery divorce swear pool frequent inspire humor wire panther effort supply bar";
+var mnemonic = "decide bullet action zoo add bone industry rich require quiz invest iron";

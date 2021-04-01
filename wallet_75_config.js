@@ -1,1 +1,1 @@
-var mnemonic = "humble remain august owner high chicken news fun arch legal forget spring";
+var mnemonic = "mimic vicious quote dove exhibit jungle more swing door situate master visa";

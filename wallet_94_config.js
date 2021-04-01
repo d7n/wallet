@@ -1,1 +1,1 @@
-var mnemonic = "camp subject debris need hero thought actor club aerobic iron champion solve";
+var mnemonic = "pulp explain six define copper dentist dilemma enhance album faint print disorder";

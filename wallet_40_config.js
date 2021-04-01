@@ -1,1 +1,1 @@
-var mnemonic = "quit assume fashion anchor panel document atom detail genre become viable give";
+var mnemonic = "busy staff liar deputy guess miss midnight tribe clutch hamster warrior dream";

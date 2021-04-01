@@ -1,1 +1,1 @@
-var mnemonic = "exile melody person mechanic again region hint brother success balcony flock neither";
+var mnemonic = "language enlist clay pact avoid resist bottom tomato circle chase mention major";

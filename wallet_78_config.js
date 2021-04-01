@@ -1,1 +1,1 @@
-var mnemonic = "prefer brass outside damage issue jacket dentist jump frequent frost sight fiber";
+var mnemonic = "suspect harbor fatal result belt picture heart warfare click anger ugly wolf";

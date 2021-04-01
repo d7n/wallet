@@ -1,1 +1,1 @@
-var mnemonic = "hazard prosper strategy outside hen trip wait flock virtual hammer south hurt";
+var mnemonic = "menu plastic pelican laundry matter shiver decade auto start next submit bachelor";

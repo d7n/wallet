@@ -1,1 +1,1 @@
-var mnemonic = "popular cousin track nut cause light doctor fortune pull behave another hidden";
+var mnemonic = "exhaust pizza question fix hammer viable genuine pipe excite settle east hub";

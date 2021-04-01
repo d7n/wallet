@@ -1,1 +1,1 @@
-var mnemonic = "silk drive chest sphere mobile reunion differ total diamond photo face plug";
+var mnemonic = "welcome voice veteran stock hurt subway puppy soup have female giggle syrup";

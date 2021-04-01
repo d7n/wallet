@@ -1,1 +1,1 @@
-var mnemonic = "barely act vicious super rule visa remind vibrant area maximum come fuel";
+var mnemonic = "broccoli sure safe general upset youth trouble obtain ordinary arrest retire barrel";

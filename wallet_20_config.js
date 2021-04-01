@@ -1,1 +1,1 @@
-var mnemonic = "chaos sure assault pave crouch machine mimic deputy bag diet mango identify";
+var mnemonic = "west right curious satoshi dinosaur slice worth gather grass man ride symbol";

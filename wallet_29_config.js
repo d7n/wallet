@@ -1,1 +1,1 @@
-var mnemonic = "hidden daring deny kite magic maid lens leisure squeeze treat power consider";
+var mnemonic = "aim slight clean gold garment often embrace have pride secret soccer style";

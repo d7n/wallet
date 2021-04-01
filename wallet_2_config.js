@@ -1,1 +1,1 @@
-var mnemonic = "poem match grace they sad barely sponsor tumble involve cattle code chat";
+var mnemonic = "frequent siege total citizen cupboard exhaust mushroom stereo gaze creek piano tilt";

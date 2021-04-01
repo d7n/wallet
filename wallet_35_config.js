@@ -1,1 +1,1 @@
-var mnemonic = "eternal artwork blur gossip rain dawn indicate crater join orange inhale trouble";
+var mnemonic = "tonight tide bitter inmate razor echo paddle special danger shine desk more";

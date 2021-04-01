@@ -1,1 +1,1 @@
-var mnemonic = "hair catch leg clinic clever marine panel kick voice wise trouble blouse";
+var mnemonic = "catalog guess brisk chunk spread leaf talent lab nature submit review grief";

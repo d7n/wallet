@@ -1,1 +1,1 @@
-var mnemonic = "jar sadness planet upper coach exit sport nature antique version junior gaze";
+var mnemonic = "crush weird draft adjust top van rent tree rail charge hello move";

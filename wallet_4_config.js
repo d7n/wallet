@@ -1,1 +1,1 @@
-var mnemonic = "cart panic assault isolate grain high culture before other route amused deposit";
+var mnemonic = "token voyage enjoy accident document casual sunset beauty mesh walk cart sun";

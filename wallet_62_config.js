@@ -1,1 +1,1 @@
-var mnemonic = "salmon razor depth frequent wire beyond fog vast myself clean chicken turkey";
+var mnemonic = "inside flavor wire duty payment dirt balcony essay comfort oval adjust master";

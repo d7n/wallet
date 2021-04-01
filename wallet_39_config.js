@@ -1,1 +1,1 @@
-var mnemonic = "fog among above have increase another surprise wave remove video mosquito load";
+var mnemonic = "hand invest current girl that search equal spoil meadow metal surge tuna";

@@ -1,1 +1,1 @@
-var mnemonic = "laugh add banner decade road garlic ride verb solve urge secret scissors";
+var mnemonic = "copy ethics purity easily gallery cushion fun canyon object discover language lecture";

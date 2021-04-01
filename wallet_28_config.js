@@ -1,1 +1,1 @@
-var mnemonic = "ocean bullet sea loop float aim roof focus long crystal same feel";
+var mnemonic = "ginger raise track share suffer manage expect patient cluster fringe wide weather";

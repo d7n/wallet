@@ -1,1 +1,1 @@
-var mnemonic = "sentence ceiling vehicle forward tiny senior admit brother abuse gift obscure peasant";
+var mnemonic = "please drift machine fold learn sleep patient length alcohol vast loop hurdle";

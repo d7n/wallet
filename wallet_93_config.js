@@ -1,1 +1,1 @@
-var mnemonic = "eager sudden brown deputy crucial kingdom vacuum describe mosquito toss toddler whale";
+var mnemonic = "gospel drive main blind middle october warrior peace flower text other deal";

@@ -1,1 +1,1 @@
-var mnemonic = "angle dignity message quick ancient rail thank now dilemma before rain room";
+var mnemonic = "muscle table patrol avocado lecture guard edge cave extra before practice hurry";

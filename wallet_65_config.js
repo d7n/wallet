@@ -1,1 +1,1 @@
-var mnemonic = "forget smooth moment envelope mean juice holiday crash planet elegant lawsuit crane";
+var mnemonic = "fog cargo allow ethics text position task cloth core cushion velvet october";

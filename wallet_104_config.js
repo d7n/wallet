@@ -1,1 +1,1 @@
-var mnemonic = "subject behave reflect face burst bacon ordinary load evil path pride host";
+var mnemonic = "palm moment embark enter hollow priority voice door kind thank mad very";

@@ -1,1 +1,1 @@
-var mnemonic = "list floor match monster success spread remember inside kiss whisper crew acoustic";
+var mnemonic = "elephant link celery vibrant aware connect member amateur initial shoot draft price";

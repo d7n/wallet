@@ -1,1 +1,1 @@
-var mnemonic = "reunion envelope short slice race fever during lift dismiss reason frog annual";
+var mnemonic = "trial review steel tone crunch exit iron powder fiction jeans mosquito bleak";

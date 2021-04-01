@@ -1,1 +1,1 @@
-var mnemonic = "anxiety where second faint clay romance decline hint calm famous soldier shadow";
+var mnemonic = "about melt own lonely envelope mechanic junior pioneer skin drive acoustic alcohol";

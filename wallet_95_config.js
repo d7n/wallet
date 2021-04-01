@@ -1,1 +1,1 @@
-var mnemonic = "puppy kitten moral axis ghost runway notable genuine refuse tuna enhance honey";
+var mnemonic = "kidney machine sight seminar solution boss melt wing wage airport frequent feel";

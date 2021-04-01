@@ -1,1 +1,1 @@
-var mnemonic = "remember also room flag anxiety pelican pledge bless exhibit nature ripple polar";
+var mnemonic = "chronic south cradle hat bone quality arrow name bounce train soft lion";

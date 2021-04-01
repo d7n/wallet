@@ -1,1 +1,1 @@
-var mnemonic = "plate give crack palace sadness hedgehog version bone kingdom million stone paper";
+var mnemonic = "derive mushroom ability patrol roof exchange butter aerobic airport smooth patient naive";

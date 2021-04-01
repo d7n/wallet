@@ -1,1 +1,1 @@
-var mnemonic = "acoustic entire use taxi tomorrow debate rule chunk suspect despair vague wedding";
+var mnemonic = "gadget almost unique catalog grant dutch adult blossom rich captain under awake";

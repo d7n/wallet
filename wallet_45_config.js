@@ -1,1 +1,1 @@
-var mnemonic = "wall kitten elegant misery reject vessel outer wine census endless street glide";
+var mnemonic = "banner ten next middle lesson bean truly bring clinic moment lift arrow";

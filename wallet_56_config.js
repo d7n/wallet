@@ -1,1 +1,1 @@
-var mnemonic = "vault recall alarm admit better finish system cinnamon benefit sport hockey return";
+var mnemonic = "battle review canvas version year mesh defy orphan rely tool common cupboard";

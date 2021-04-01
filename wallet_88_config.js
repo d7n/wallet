@@ -1,1 +1,1 @@
-var mnemonic = "tilt brain brave model place yard asthma glory nest defense bachelor same";
+var mnemonic = "anger social squeeze way shell pull lobster tourist galaxy pluck heart resource";

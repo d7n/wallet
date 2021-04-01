@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo poet dizzy jaguar turtle smooth twenty word choice avocado kid dirt";
+var mnemonic = "glide can someone fever under waste expose negative angle culture enemy apology";

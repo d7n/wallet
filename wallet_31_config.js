@@ -1,1 +1,1 @@
-var mnemonic = "caution kidney among absorb mad display claw math cradle meadow spider scare";
+var mnemonic = "grab absent install census carbon idle always idea tip frog dawn minute";

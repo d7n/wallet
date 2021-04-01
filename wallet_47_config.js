@@ -1,1 +1,1 @@
-var mnemonic = "approve fruit faculty mosquito doctor unknown kid front attitude service dumb auction";
+var mnemonic = "exhibit render ostrich clump salon erode hungry jar valid brush student soccer";

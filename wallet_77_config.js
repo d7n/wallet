@@ -1,1 +1,1 @@
-var mnemonic = "loop museum often silly problem visual push sentence twenty echo island leaf";
+var mnemonic = "legend sea derive hazard valid above era then pepper sting alcohol frown";

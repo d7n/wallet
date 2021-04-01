@@ -1,1 +1,1 @@
-var mnemonic = "length gauge police piano horror antique coral address around six deputy weird";
+var mnemonic = "grace fold ceiling powder cinnamon program raccoon crunch program reform idle school";

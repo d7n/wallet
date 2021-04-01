@@ -1,1 +1,1 @@
-var mnemonic = "radio bachelor island today orphan holiday lounge bone biology victory hover donate";
+var mnemonic = "slender open charge basket spread tell donkey silver cupboard seven october expect";

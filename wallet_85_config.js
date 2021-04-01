@@ -1,1 +1,1 @@
-var mnemonic = "merry assist census stumble salon brother worry oppose buyer rose poet cliff";
+var mnemonic = "fuel harvest comic thing motor pigeon walnut engine invite travel inquiry flame";

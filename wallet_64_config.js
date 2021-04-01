@@ -1,1 +1,1 @@
-var mnemonic = "merge logic solve pill inform carpet couple cattle addict auction happy guess";
+var mnemonic = "rhythm amateur style thank hill length use screen suspect laugh differ tomato";

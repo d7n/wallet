@@ -1,1 +1,1 @@
-var mnemonic = "upper length endless leisure hotel excite enforce flush minimum analyst letter scatter";
+var mnemonic = "regret style craft execute around omit together weapon degree impact winner critic";

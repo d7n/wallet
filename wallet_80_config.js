@@ -1,1 +1,1 @@
-var mnemonic = "parrot crowd scan alcohol wait stove theme caution snack bunker chest wrap";
+var mnemonic = "reject tide catalog media crush divorce two snap van leader pottery sea";

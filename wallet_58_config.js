@@ -1,1 +1,1 @@
-var mnemonic = "cake anger client sleep chief figure approve comfort pull borrow wrap involve";
+var mnemonic = "poem attract focus right adjust appear token select neglect pulse best scrap";

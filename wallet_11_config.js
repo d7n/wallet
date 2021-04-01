@@ -1,1 +1,1 @@
-var mnemonic = "model income scheme praise chunk swim lumber edit squirrel broken middle vessel";
+var mnemonic = "rate have want impact avocado lawsuit payment assist bundle basic cloth cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "chase client family ethics lawn broccoli tissue reveal sauce open else forest";
+var mnemonic = "battle coach lava submit nature rotate drama wagon surge nephew alone quantum";

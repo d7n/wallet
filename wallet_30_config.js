@@ -1,1 +1,1 @@
-var mnemonic = "legend faculty airport already near globe next title repeat vocal post flame";
+var mnemonic = "endorse typical grant modify fun open change trigger inspire cheap season tray";

@@ -1,1 +1,1 @@
-var mnemonic = "turn warm dilemma fossil camera job reform wasp seed prize spin angry";
+var mnemonic = "lend twenty employ caution apple toilet melt economy inmate wolf moon lobster";

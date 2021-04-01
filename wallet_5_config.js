@@ -1,1 +1,1 @@
-var mnemonic = "hen voyage change panel endorse wide exclude news inspire frog dirt recall";
+var mnemonic = "shy undo picture gentle popular viable man rude share vehicle provide seed";

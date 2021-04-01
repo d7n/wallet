@@ -1,1 +1,1 @@
-var mnemonic = "vintage priority auto lecture physical door runway village glory alarm depth hip";
+var mnemonic = "empty hat often change magic dolphin solar debris truly age lend rescue";

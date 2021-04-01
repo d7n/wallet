@@ -1,1 +1,1 @@
-var mnemonic = "mixed road walnut virtual pottery essence loop pact crumble material fiscal broken";
+var mnemonic = "clever ride gap scheme call license year stick syrup benefit together armor";

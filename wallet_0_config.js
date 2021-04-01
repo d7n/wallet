@@ -1,1 +1,1 @@
-var mnemonic = "boil december frequent clog agree column slab multiply coin taxi smoke city";
+var mnemonic = "various apology harsh since tissue auction man meat broom orbit display invest";

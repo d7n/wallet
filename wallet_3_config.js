@@ -1,1 +1,1 @@
-var mnemonic = "claw wheat source mammal frown awful wet icon direct seek merry demand";
+var mnemonic = "action raise science winner economy venue above velvet yellow evoke coil castle";

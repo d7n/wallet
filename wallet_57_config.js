@@ -1,1 +1,1 @@
-var mnemonic = "farm enter foster admit mistake absurd erase visa virus hockey one wagon";
+var mnemonic = "visa outside light prevent siege fan supply wise stereo repeat toy avoid";

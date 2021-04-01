@@ -1,1 +1,1 @@
-var mnemonic = "catalog perfect level praise client match guitar dash gown witness cool situate";
+var mnemonic = "lock life right expire canyon lottery awesome toss stick alone defense circle";

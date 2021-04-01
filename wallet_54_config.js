@@ -1,1 +1,1 @@
-var mnemonic = "drive hobby window boil want marine ensure embrace accuse eight month acquire";
+var mnemonic = "crowd crop drill race method rule envelope bundle symptom anchor cross capital";

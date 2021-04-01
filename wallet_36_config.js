@@ -1,1 +1,1 @@
-var mnemonic = "festival brief tobacco always push round cliff lunar once grab wrap ladder";
+var mnemonic = "blood bonus desk smooth tomorrow awake right employ divert transfer detail report";

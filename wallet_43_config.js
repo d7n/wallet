@@ -1,1 +1,1 @@
-var mnemonic = "curve oval coyote fashion tumble include glow glow embody depend bench young";
+var mnemonic = "chicken panther yard seven hood convince little render jacket buddy shock remove";

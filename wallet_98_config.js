@@ -1,1 +1,1 @@
-var mnemonic = "spin author imitate measure tuition admit foster goose chronic buddy fee clever";
+var mnemonic = "drip inspire dirt brass avoid biology social recall atom escape someone energy";

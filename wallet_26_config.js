@@ -1,1 +1,1 @@
-var mnemonic = "swing front together item damage slam brain pluck pole lazy struggle segment";
+var mnemonic = "squirrel awkward primary sniff feed muffin razor supreme bronze release office busy";

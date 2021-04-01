@@ -1,1 +1,1 @@
-var mnemonic = "guilt keen grit sheriff glass dwarf pudding vocal truck world notable advance";
+var mnemonic = "future school about kite swing tunnel amateur deliver garbage coast shadow junk";

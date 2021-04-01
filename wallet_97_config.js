@@ -1,1 +1,1 @@
-var mnemonic = "polar absorb neutral whisper pupil flavor staff nut enforce indoor crater eyebrow";
+var mnemonic = "history grant ostrich main day wink ketchup tag mystery where alone street";

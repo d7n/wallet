@@ -1,1 +1,1 @@
-var mnemonic = "shadow sick alone buddy cat tiger learn awesome index then hover violin";
+var mnemonic = "vehicle wheel fetch zone student vote license neutral behave video borrow night";

@@ -1,1 +1,1 @@
-var mnemonic = "input ridge famous boss repair sword awkward solid column empty roof follow";
+var mnemonic = "neglect piece birth lunch auction truth retire truck dismiss pond stairs sample";

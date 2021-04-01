@@ -1,1 +1,1 @@
-var mnemonic = "parent buyer prosper champion embrace clap diary ensure emotion quiz hundred coyote";
+var mnemonic = "mercy enlist cotton consider observe census dismiss illness congress clarify lion inject";

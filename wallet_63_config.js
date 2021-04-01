@@ -1,1 +1,1 @@
-var mnemonic = "inch nature firm panda acquire jelly sound video brush daring season crew";
+var mnemonic = "catalog curve wagon meadow dawn trust typical business execute fox hover frozen";

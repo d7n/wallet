@@ -1,1 +1,1 @@
-var mnemonic = "right aisle crane rail daughter beach wheel skirt pride enable dog step";
+var mnemonic = "ignore embrace answer guitar legend charge cannon vague drift screen foot extra";

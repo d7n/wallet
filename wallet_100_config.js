@@ -1,1 +1,1 @@
-var mnemonic = "able crouch quality car stock popular version electric frown initial direct erode";
+var mnemonic = "need distance venue struggle door asset cake choose clarify decorate shove elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "winter index forum sustain beauty marble object buddy below obvious cry hungry";
+var mnemonic = "pitch bike truck section open tooth flush rude toddler crane float float";

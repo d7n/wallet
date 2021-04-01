@@ -1,1 +1,1 @@
-var mnemonic = "place body dash hockey oxygen math cube tell motor symbol ceiling option";
+var mnemonic = "table theme margin smooth bullet pledge kangaroo giggle baby auction camera control";

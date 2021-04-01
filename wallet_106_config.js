@@ -1,1 +1,1 @@
-var mnemonic = "organ swallow soccer gallery wide space crack lend detail album monitor easy";
+var mnemonic = "mass organ audit mimic awake edit write kit blossom clog ahead affair";

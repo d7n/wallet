@@ -1,1 +1,1 @@
-var mnemonic = "hunt creek vicious eagle galaxy scare prefer cruise mansion reveal photo mass";
+var mnemonic = "polar stable cat wage flush alley luxury ship victory arm boss blue";

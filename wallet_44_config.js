@@ -1,1 +1,1 @@
-var mnemonic = "pole oyster void suggest ripple learn cinnamon harvest immune vast day siren";
+var mnemonic = "genius inside original timber novel candy noodle bird border exhibit broken purity";

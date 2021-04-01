@@ -1,1 +1,1 @@
-var mnemonic = "brief note immune furnace reason major green spider patch scatter disorder vapor";
+var mnemonic = "fossil slush cargo onion north select lesson civil episode rose magnet upset";

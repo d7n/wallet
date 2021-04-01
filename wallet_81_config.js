@@ -1,1 +1,1 @@
-var mnemonic = "frost term pattern edit elite decade salute sudden surge street crunch basic";
+var mnemonic = "fancy vivid scheme curtain text juice gaze wine prevent juice bachelor brother";

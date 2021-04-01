@@ -1,1 +1,1 @@
-var mnemonic = "team rose receive ridge neck parade interest country suit copy immense powder";
+var mnemonic = "crash staff lesson circle nation near state damage supply acid intact trick";

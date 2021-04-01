@@ -1,1 +1,1 @@
-var mnemonic = "nephew book betray pluck boil tobacco around uphold fringe lucky situate upgrade";
+var mnemonic = "left town pipe bleak cabbage entry today make suffer judge borrow bargain";

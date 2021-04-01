@@ -1,1 +1,1 @@
-var mnemonic = "verify impulse panel dog web salmon proud become naive insane fix funny";
+var mnemonic = "chronic dust ice fold left salad next visit canoe company breeze sing";

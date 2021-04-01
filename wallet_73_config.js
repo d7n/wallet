@@ -1,1 +1,1 @@
-var mnemonic = "shock eternal garbage dawn retire churn coffee float void cereal slight rail";
+var mnemonic = "stand wonder culture window begin parrot donate very law virus leopard possible";

@@ -1,1 +1,1 @@
-var mnemonic = "animal gloom wreck power since net crew digital dash loan soccer engage";
+var mnemonic = "brass expect main drop tonight give abandon card reason giggle mercy inject";

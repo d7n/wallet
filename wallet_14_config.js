@@ -1,1 +1,1 @@
-var mnemonic = "anchor canvas arm fluid spirit angle pony vital fragile remember concert garment";
+var mnemonic = "struggle level cave skill arctic index awkward awake lady guitar frozen speed";

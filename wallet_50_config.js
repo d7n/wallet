@@ -1,1 +1,1 @@
-var mnemonic = "dawn habit rigid hill gather easily arrange muscle agent biology luxury latin";
+var mnemonic = "inside cannon device kangaroo hollow mesh mean wash juice beauty steak review";

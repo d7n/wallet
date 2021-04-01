@@ -1,1 +1,1 @@
-var mnemonic = "sorry table say reject miss busy dish once bulk million pink meadow";
+var mnemonic = "capital silly punch inherit pass kit enlist blur dirt any front water";

@@ -1,1 +1,1 @@
-var mnemonic = "digital pigeon range quit raccoon boss lounge bamboo carry matrix capable tide";
+var mnemonic = "theory famous march love fix jar symptom search list recipe marble used";

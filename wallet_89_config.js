@@ -1,1 +1,1 @@
-var mnemonic = "slush wait staff jeans pretty amazing wall actual example mind despair liberty";
+var mnemonic = "sure loud arrest panda guide pole width cool answer fame corn adult";

@@ -1,1 +1,1 @@
-var mnemonic = "pet devote dove grain ten ginger voyage peace town senior derive spatial";
+var mnemonic = "outer fantasy glimpse talk chaos swap vault reason permit clinic south access";

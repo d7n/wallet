@@ -1,1 +1,1 @@
-var mnemonic = "polar window ski license mercy action fatal wrap prosper fluid media note";
+var mnemonic = "baby rug rubber wheat decade injury pact seat resource collect swift hurry";

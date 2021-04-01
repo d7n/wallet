@@ -1,1 +1,1 @@
-var mnemonic = "truly blast tail enemy absent dragon fish culture matter embody notable manage";
+var mnemonic = "patch lift maid nest absurd scrap steak head casino afford actual private";

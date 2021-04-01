@@ -1,1 +1,1 @@
-var mnemonic = "item valid soccer dinner board fossil screen grab split old parrot plunge";
+var mnemonic = "height weird title advance ketchup basket slush notable vote cargo fame just";

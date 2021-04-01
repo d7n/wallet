@@ -1,1 +1,1 @@
-var mnemonic = "net fuel differ pill tag ocean globe clinic bright fee harvest scout";
+var mnemonic = "ankle capable vehicle silent height neither caution weasel any december beach abstract";

@@ -1,1 +1,1 @@
-var mnemonic = "proud genius race problem there unknown hood meat slender ritual tag divert";
+var mnemonic = "assault sphere south scare govern summer nice panda define rice violin fruit";

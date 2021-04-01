@@ -1,1 +1,1 @@
-var mnemonic = "rocket alarm rival slab clown then only truck feel scene scrap memory";
+var mnemonic = "foil library spell silent stool miss jelly three lazy super soup find";

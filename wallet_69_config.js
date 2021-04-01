@@ -1,1 +1,1 @@
-var mnemonic = "double concert feature sound general bike unknown grocery alley sister few either";
+var mnemonic = "city snap approve claw school donkey nerve squirrel connect memory laundry dignity";

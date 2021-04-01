@@ -1,1 +1,1 @@
-var mnemonic = "truck congress teach farm volcano history buddy mail state release business shoulder";
+var mnemonic = "private approve rabbit settle recipe bitter culture cake doll give portion ball";

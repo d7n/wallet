@@ -1,1 +1,1 @@
-var mnemonic = "car nice tide loyal infant idea lend apart spare salmon river margin";
+var mnemonic = "wrap great attract dirt ankle science term vague charge unknown exit life";
