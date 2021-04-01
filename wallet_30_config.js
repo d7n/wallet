@@ -1,1 +1,1 @@
-var mnemonic = "time supreme diamond wash south hour fork rather govern magic impact leopard";
+var mnemonic = "kick unit share stool normal omit wheel moon cream animal wash mean";

@@ -1,1 +1,1 @@
-var mnemonic = "video ignore now poem truly hold comic hip true flock van power";
+var mnemonic = "move doctor affair catalog guitar during juice entire century finger ranch jar";

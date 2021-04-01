@@ -1,1 +1,1 @@
-var mnemonic = "someone suggest predict tunnel squeeze prison news retire bulb submit cherry feel";
+var mnemonic = "steel enact zero sustain shrimp where salmon thing sleep whip debate weekend";

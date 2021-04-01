@@ -1,1 +1,1 @@
-var mnemonic = "skate lawn minimum avoid bone cute jacket cousin review situate february apology";
+var mnemonic = "six sting journey grape cupboard fish satoshi huge reason hybrid final badge";

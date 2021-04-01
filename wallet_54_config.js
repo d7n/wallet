@@ -1,1 +1,1 @@
-var mnemonic = "genre beyond initial club race post lucky flip brown raw reveal stereo";
+var mnemonic = "match reward crime daring dove hen clever island coconut voice craft slam";

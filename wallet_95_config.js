@@ -1,1 +1,1 @@
-var mnemonic = "camera taste menu oval blush furnace clutch hungry empty image ranch balance";
+var mnemonic = "wrist random category stamp order program canvas nature devote lemon lecture denial";

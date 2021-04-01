@@ -1,1 +1,1 @@
-var mnemonic = "talk embrace dizzy genuine wasp shell bright endless educate ozone process door";
+var mnemonic = "champion drop lonely claw person body expand pretty lumber grace cube gym";

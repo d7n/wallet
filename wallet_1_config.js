@@ -1,1 +1,1 @@
-var mnemonic = "unhappy pulse icon hint report chaos soul canyon knock artwork surface slice";
+var mnemonic = "reward author shove find quiz protect property little enhance melody evidence grit";

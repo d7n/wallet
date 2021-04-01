@@ -1,1 +1,1 @@
-var mnemonic = "impulse toddler make input online exile divert number tribe panic engage crack";
+var mnemonic = "choose skate wish three master near cave original win film account rural";

@@ -1,1 +1,1 @@
-var mnemonic = "annual aerobic silent short replace hurt web rail pride elder attend wish";
+var mnemonic = "topic action three corn double throw skirt canoe nephew join swift cruise";

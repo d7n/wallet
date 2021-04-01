@@ -1,1 +1,1 @@
-var mnemonic = "adult economy core city snack age add car glue extra fork pumpkin";
+var mnemonic = "ivory define then chicken runway copy spider since tent buddy cactus attend";

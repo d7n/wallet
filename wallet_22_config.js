@@ -1,1 +1,1 @@
-var mnemonic = "defense heavy bean ability poet torch inherit car soup enjoy clever animal";
+var mnemonic = "cradle more degree useless reduce twenty trumpet upgrade angle usual style ladder";

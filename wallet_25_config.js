@@ -1,1 +1,1 @@
-var mnemonic = "address pride unlock tent wave mammal approve sing since police negative panic";
+var mnemonic = "dinosaur seat wish entire admit height cat shrug sheriff sun interest across";

@@ -1,1 +1,1 @@
-var mnemonic = "hobby cargo quote carpet insect sausage review bring board crop beyond pupil";
+var mnemonic = "couple oyster cushion kiwi keen menu caught ready riot merry grass wall";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle nothing law problem success mushroom pottery knee decade garlic liar swim";
+var mnemonic = "control post sell opera spot cage charge room merry mention cradle uncle";

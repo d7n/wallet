@@ -1,1 +1,1 @@
-var mnemonic = "race home theory camera ritual invest piano alpha orange zebra weird occur";
+var mnemonic = "metal orange donkey wing brain once smoke dry melody country gasp enter";

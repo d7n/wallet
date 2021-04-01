@@ -1,1 +1,1 @@
-var mnemonic = "hurt notice bird joke minute eye ocean master history crush trumpet royal";
+var mnemonic = "key surprise ignore dance question region athlete oxygen resemble sad renew away";

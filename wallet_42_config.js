@@ -1,1 +1,1 @@
-var mnemonic = "tent recycle lens casual wagon useless kick trust fetch sand oyster gauge";
+var mnemonic = "excuse ivory food judge test void impose hospital artwork gym notable seminar";

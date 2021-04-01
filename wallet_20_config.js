@@ -1,1 +1,1 @@
-var mnemonic = "pride stumble sponsor around violin case nominee must impose price energy fragile";
+var mnemonic = "estate glare word minor avocado panel hover buddy half just inject traffic";

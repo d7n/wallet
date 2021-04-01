@@ -1,1 +1,1 @@
-var mnemonic = "model bone media swarm gym forum close buddy furnace limit develop crunch";
+var mnemonic = "height milk mesh burger observe route bitter job crush priority hood cup";

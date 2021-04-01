@@ -1,1 +1,1 @@
-var mnemonic = "route loud ethics artefact honey hammer horror paddle embark author guide cinnamon";
+var mnemonic = "alcohol place jacket denial brain produce educate minor blood rail double anger";

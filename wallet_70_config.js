@@ -1,1 +1,1 @@
-var mnemonic = "essence culture settle unlock cost view saddle lake casino anchor hybrid myth";
+var mnemonic = "accident exclude tenant whisper gather resist cannon hurdle owner loyal aisle hundred";

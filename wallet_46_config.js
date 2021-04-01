@@ -1,1 +1,1 @@
-var mnemonic = "father practice spin staff medal share engage fantasy fresh repeat possible scare";
+var mnemonic = "muscle furnace mystery matrix vehicle feature filter base undo edit solution guilt";

@@ -1,1 +1,1 @@
-var mnemonic = "elite hockey banana beef blade spot uncle someone term imitate balance owner";
+var mnemonic = "frame chase wheat warrior cry flush carry absorb chest identify arena patch";

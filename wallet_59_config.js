@@ -1,1 +1,1 @@
-var mnemonic = "execute region borrow upset kitten stumble pilot people alone defense neither cup";
+var mnemonic = "furnace fruit scan suffer grit caution reward artwork alarm easy club piece";

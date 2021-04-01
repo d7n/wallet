@@ -1,1 +1,1 @@
-var mnemonic = "below ice short lumber bottom dilemma shiver shed mention crop repair focus";
+var mnemonic = "arrange toilet loud boss mesh dawn romance august piano discover sorry seed";

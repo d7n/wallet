@@ -1,1 +1,1 @@
-var mnemonic = "accident write motor blush follow dirt feed sad exit hole assist head";
+var mnemonic = "grief cat inside neck basket wheel improve age robust junior box blouse";

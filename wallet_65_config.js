@@ -1,1 +1,1 @@
-var mnemonic = "twist keep find airport movie bid battle explain duty disorder mango win";
+var mnemonic = "job dinner glad scene round crucial style aim dune address north word";

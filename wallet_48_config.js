@@ -1,1 +1,1 @@
-var mnemonic = "force mother utility omit elder post print weapon hand legend dad matrix";
+var mnemonic = "section ensure clever weather gather add veteran record great ticket female forward";

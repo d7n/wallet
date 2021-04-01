@@ -1,1 +1,1 @@
-var mnemonic = "seed evidence please siege suspect wire believe sibling direct talent shield food";
+var mnemonic = "assist apple approve accuse toilet present uphold victory zebra edit family artist";

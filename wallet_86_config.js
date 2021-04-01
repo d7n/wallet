@@ -1,1 +1,1 @@
-var mnemonic = "cancel six pair exchange card canal mother affair mechanic awake diet fine";
+var mnemonic = "ridge crane final gadget dolphin blame crumble quit filter run erupt ribbon";

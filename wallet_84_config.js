@@ -1,1 +1,1 @@
-var mnemonic = "luxury neutral science calm question weird cheap hamster glory sadness woman reunion";
+var mnemonic = "purse cradle mammal paper will between skirt afford adapt glide concert cushion";

@@ -1,1 +1,1 @@
-var mnemonic = "include recipe unhappy finger violin olive produce seven kitten afford similar hero";
+var mnemonic = "now village mosquito use afraid annual embrace entire material velvet popular globe";

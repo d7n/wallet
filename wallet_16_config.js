@@ -1,1 +1,1 @@
-var mnemonic = "leisure vintage stairs hard adult guide shine output erode mom catch wheel";
+var mnemonic = "write fetch thrive inject cactus next lecture result middle pulp deliver pupil";

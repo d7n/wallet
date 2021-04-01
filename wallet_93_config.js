@@ -1,1 +1,1 @@
-var mnemonic = "film credit nerve capital fine stable supply onion myself tiger select frame";
+var mnemonic = "flee symbol amused dawn execute grant insane also duty rare frame when";

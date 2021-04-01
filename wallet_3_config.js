@@ -1,1 +1,1 @@
-var mnemonic = "evidence raise regular sorry oil demand pilot egg pair usage speak admit";
+var mnemonic = "clock word develop earn chronic away daughter response dream switch shove drink";

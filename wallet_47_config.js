@@ -1,1 +1,1 @@
-var mnemonic = "pupil squeeze solar damage parrot license asthma million wing guitar certain humble";
+var mnemonic = "law bamboo blouse bonus token round bulk time exile security toward eight";

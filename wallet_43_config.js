@@ -1,1 +1,1 @@
-var mnemonic = "sound bind false submit fiction ivory comfort release rail march odor slam";
+var mnemonic = "gospel outdoor gap adapt crunch ordinary genius skin love intact grow over";

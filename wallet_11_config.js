@@ -1,1 +1,1 @@
-var mnemonic = "gesture draw enact owner erode copper equal river valley width marine hospital";
+var mnemonic = "sad fall naive solid jaguar bean menu ball energy twice fine divorce";

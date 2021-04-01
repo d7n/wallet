@@ -1,1 +1,1 @@
-var mnemonic = "length invite potato culture evil toilet pottery welcome autumn kingdom endorse glove";
+var mnemonic = "seminar nerve pumpkin artefact skate beauty deposit outdoor spend hen anxiety wasp";

@@ -1,1 +1,1 @@
-var mnemonic = "decorate face person error enough lesson arrive limit swift decrease leisure trial";
+var mnemonic = "quantum garment loan minimum junior local expand media alone arrow pony sketch";

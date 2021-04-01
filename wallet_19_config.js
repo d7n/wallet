@@ -1,1 +1,1 @@
-var mnemonic = "educate sorry flame gauge glare outdoor donor ready hello know result rent";
+var mnemonic = "light left harvest candy planet cool card impact clap asthma cluster sun";

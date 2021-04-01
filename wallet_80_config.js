@@ -1,1 +1,1 @@
-var mnemonic = "voyage wife boring traffic husband giggle inflict visa seat sunset federal year";
+var mnemonic = "scare ball wedding profit hunt color spoil city aim crane palm naive";

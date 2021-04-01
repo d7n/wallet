@@ -1,1 +1,1 @@
-var mnemonic = "grain opinion awkward patch siren total menu buddy claw defy gossip october";
+var mnemonic = "amount change embark fan youth chest grocery crawl imitate pass local island";

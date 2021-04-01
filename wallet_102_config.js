@@ -1,1 +1,1 @@
-var mnemonic = "wheat oil virtual upgrade onion milk traffic tape renew rotate chair memory";
+var mnemonic = "file pause long galaxy hen require eager edit inform cake night dilemma";

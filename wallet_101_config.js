@@ -1,1 +1,1 @@
-var mnemonic = "one globe either accident kiwi rookie rubber swim target jar client winner";
+var mnemonic = "leave lava siege gadget electric frog better drift ivory hockey soap ribbon";

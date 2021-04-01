@@ -1,1 +1,1 @@
-var mnemonic = "mouse mom correct fiscal shaft south sport planet swim off rescue behind";
+var mnemonic = "quote river kitchen identify nephew pig dust diary lava coyote own jaguar";

@@ -1,1 +1,1 @@
-var mnemonic = "goddess focus wash plunge victory royal child sniff slush joke title coast";
+var mnemonic = "exotic gun cinnamon prepare cliff fiber deputy save fetch isolate talent quit";

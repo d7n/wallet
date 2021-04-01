@@ -1,1 +1,1 @@
-var mnemonic = "gather entry sadness stool knife axis episode nephew arm grape favorite okay";
+var mnemonic = "price sand butter push buffalo size calm tape replace pear upper plate";

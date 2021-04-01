@@ -1,1 +1,1 @@
-var mnemonic = "coyote club mango forest swamp lonely purity mix leader elephant myth issue";
+var mnemonic = "usage truly strike sign kiwi mass click sketch fantasy mobile giant wild";

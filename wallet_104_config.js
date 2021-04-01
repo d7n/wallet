@@ -1,1 +1,1 @@
-var mnemonic = "mystery basic rebel toast tongue enable mushroom rent you coffee wet gossip";
+var mnemonic = "seed execute hair physical crumble program inform slight demise expand weasel hundred";

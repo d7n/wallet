@@ -1,1 +1,1 @@
-var mnemonic = "gentle prize place tobacco initial help draw silly hour calm result arrow";
+var mnemonic = "pool sport nice muffin nice okay garage crew bench company example salute";

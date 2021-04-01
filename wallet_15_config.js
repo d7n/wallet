@@ -1,1 +1,1 @@
-var mnemonic = "account erosion danger steak movie zero device junior club beauty enough fringe";
+var mnemonic = "village light buffalo border shop ceiling hole ski mistake junk vital jealous";

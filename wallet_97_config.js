@@ -1,1 +1,1 @@
-var mnemonic = "bubble blast subject antenna always inform flip outer jump ridge capital recipe";
+var mnemonic = "public exile soft bronze control among stumble orange drive raw forum frame";

@@ -1,1 +1,1 @@
-var mnemonic = "advance thunder drive equip funny seminar seminar jealous lizard glance abandon wheel";
+var mnemonic = "young milk scrap december rally vault dutch normal number document hunt unfair";

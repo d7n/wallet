@@ -1,1 +1,1 @@
-var mnemonic = "salad spirit since script turkey settle online double innocent update come borrow";
+var mnemonic = "liar error evoke ribbon width loop hope gallery catalog dignity dune pill";

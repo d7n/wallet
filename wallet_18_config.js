@@ -1,1 +1,1 @@
-var mnemonic = "design today question clown betray eight depth rigid brush swamp pen naive";
+var mnemonic = "combine mesh solid stomach economy super danger note sunny rubber evidence lawsuit";

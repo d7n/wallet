@@ -1,1 +1,1 @@
-var mnemonic = "rebuild rapid embrace hire sport lunar drop act grace dove enlist doctor";
+var mnemonic = "wine reduce diagram require century panther junior snake custom addict nuclear matter";

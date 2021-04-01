@@ -1,1 +1,1 @@
-var mnemonic = "random bottom churn toilet wish pistol shuffle total object divert canal also";
+var mnemonic = "punch lonely victory host survey nurse soul pulp fatigue gaze engage route";

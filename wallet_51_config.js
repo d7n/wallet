@@ -1,1 +1,1 @@
-var mnemonic = "tattoo proud photo brain slab useful buddy public hawk little west sniff";
+var mnemonic = "dentist mammal process rib neck step visit laundry turkey sniff undo drink";

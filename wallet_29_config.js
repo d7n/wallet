@@ -1,1 +1,1 @@
-var mnemonic = "member sound dad cereal space advice version tower room food margin fox";
+var mnemonic = "day taxi media later letter chef thing arctic ankle skill similar depth";

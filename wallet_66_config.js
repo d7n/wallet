@@ -1,1 +1,1 @@
-var mnemonic = "payment hollow method dumb report style have adult injury acid dice december";
+var mnemonic = "mouse more pumpkin powder merit atom flower print acquire fatal first cancel";

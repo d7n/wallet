@@ -1,1 +1,1 @@
-var mnemonic = "trend brand book hollow news glow caught thumb betray nature crime check";
+var mnemonic = "strategy empty baby ivory rack glimpse swap horror salmon illegal dash rule";

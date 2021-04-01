@@ -1,1 +1,1 @@
-var mnemonic = "clever brush often leave secret phrase jar tiger tip air decide mind";
+var mnemonic = "tattoo shift slide gloom rebel foot work puppy tornado silly weird dwarf";

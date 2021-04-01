@@ -1,1 +1,1 @@
-var mnemonic = "shoulder course idle home wide bread bomb young often wave winter private";
+var mnemonic = "essay hawk bone insect toe ski tone fee harsh tourist reopen name";

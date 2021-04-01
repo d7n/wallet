@@ -1,1 +1,1 @@
-var mnemonic = "search melody confirm game another faith edge govern alert zebra crazy grace";
+var mnemonic = "live card black scan wasp menu pencil tonight track affair purse october";

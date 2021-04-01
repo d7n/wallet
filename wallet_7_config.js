@@ -1,1 +1,1 @@
-var mnemonic = "endless spread resource allow island quality report error drama laptop turtle dust";
+var mnemonic = "market six rocket rich dance sea begin own harbor path release thank";

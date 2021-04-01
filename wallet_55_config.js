@@ -1,1 +1,1 @@
-var mnemonic = "drip crowd work plate diary doll prepare brother reject pyramid avoid tower";
+var mnemonic = "depart settle oak trial lecture leg royal initial round polar duty nature";

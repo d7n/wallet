@@ -1,1 +1,1 @@
-var mnemonic = "praise candy crystal job buyer used bulk inject occur forget load inmate";
+var mnemonic = "caution play mixture toilet monitor dentist marine turn rack present buffalo reduce";

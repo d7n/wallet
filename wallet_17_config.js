@@ -1,1 +1,1 @@
-var mnemonic = "negative false double force rough antique inch vintage wedding wage later wide";
+var mnemonic = "build there clap vessel review enemy story devote hero hospital believe snap";

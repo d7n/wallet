@@ -1,1 +1,1 @@
-var mnemonic = "act choose bid such buffalo long then economy old rescue rate slice";
+var mnemonic = "firm anxiety eternal ski version margin blue real weapon region chunk resemble";

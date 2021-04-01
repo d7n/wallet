@@ -1,1 +1,1 @@
-var mnemonic = "genre dentist spatial fee detect absent basket much bind decide erode acid";
+var mnemonic = "inhale emotion all penalty abandon wasp avoid vanish series excess pretty model";

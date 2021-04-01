@@ -1,1 +1,1 @@
-var mnemonic = "setup space biology island where verify already message twist zoo embrace permit";
+var mnemonic = "flag skirt entire rapid impose coral awkward beyond kind actor box drink";

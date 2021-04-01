@@ -1,1 +1,1 @@
-var mnemonic = "science dirt day dragon axis write rigid glove curve minor culture clinic";
+var mnemonic = "truly blade merry detect film symptom jungle amazing matrix athlete always prosper";

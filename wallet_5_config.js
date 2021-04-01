@@ -1,1 +1,1 @@
-var mnemonic = "twin blast desk rare betray host title chunk enforce provide doctor talent";
+var mnemonic = "hour hunt island gesture neutral uncle connect curtain elder dwarf brother clip";

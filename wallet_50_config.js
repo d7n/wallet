@@ -1,1 +1,1 @@
-var mnemonic = "lake inform buddy thunder elder curtain discover damp steel health frame accident";
+var mnemonic = "uncle odor lens pupil wrong grief isolate allow turtle use until lunar";

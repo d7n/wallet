@@ -1,1 +1,1 @@
-var mnemonic = "mean sibling insect razor village elephant sunny fever grocery middle book giggle";
+var mnemonic = "cage step tag action trade record gas limb anchor tragic poem egg";

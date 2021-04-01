@@ -1,1 +1,1 @@
-var mnemonic = "sting jacket connect token road enlist build coffee twist army shiver curve";
+var mnemonic = "buffalo drastic dutch damage pattern casual kiss blush smart among puzzle truck";

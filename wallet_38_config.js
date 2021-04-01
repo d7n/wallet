@@ -1,1 +1,1 @@
-var mnemonic = "worry index ranch runway kidney seed mail theme amount once lake same";
+var mnemonic = "alcohol wealth into upset pole vocal gossip night kick barrel swallow wonder";

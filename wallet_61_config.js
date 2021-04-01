@@ -1,1 +1,1 @@
-var mnemonic = "ill term sure lunch medal when thing bargain mansion emotion menu grid";
+var mnemonic = "tortoise inner combine obey grass belt heavy slim shoulder eagle tunnel slice";

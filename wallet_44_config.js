@@ -1,1 +1,1 @@
-var mnemonic = "fade behind brain know mosquito april swing job tennis first giraffe distance";
+var mnemonic = "absent aerobic mixed toilet claim coil page vibrant feel trend fresh slot";

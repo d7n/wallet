@@ -1,1 +1,1 @@
-var mnemonic = "fitness drip apple until author mystery mad usual hobby aim logic crash";
+var mnemonic = "crush media lion siren slogan angry blur wise tool champion system exit";

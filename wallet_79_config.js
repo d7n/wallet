@@ -1,1 +1,1 @@
-var mnemonic = "obey fury rail bring girl message page blame fit between mean distance";
+var mnemonic = "erase pig alert doll insect crumble hire course below banana couch spot";

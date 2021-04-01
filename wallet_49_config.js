@@ -1,1 +1,1 @@
-var mnemonic = "regret tone moment quick sadness omit caution either border topple urban describe";
+var mnemonic = "solid digital obvious quote suit era answer soccer obtain swift write salon";

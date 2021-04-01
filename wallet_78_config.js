@@ -1,1 +1,1 @@
-var mnemonic = "joke bind guitar absurd unit click bullet curtain cliff prepare drink ceiling";
+var mnemonic = "initial mistake idle betray exclude circle bring vibrant oval science donor general";

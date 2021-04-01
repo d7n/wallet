@@ -1,1 +1,1 @@
-var mnemonic = "scan street hole answer crucial slush arrow lobster kiss lawsuit artefact upset";
+var mnemonic = "photo unit sudden ribbon access spray immune stairs measure multiply idle police";
