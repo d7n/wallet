@@ -1,1 +1,1 @@
-var mnemonic = "prison long six caught away busy pluck erupt tenant grow habit young";
+var mnemonic = "version kidney margin mention rescue lady eagle execute nasty result random impact";

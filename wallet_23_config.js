@@ -1,1 +1,1 @@
-var mnemonic = "conduct apart grow sport gate extra enough device bitter legend universe open";
+var mnemonic = "vanish early check wall lens family maid put mail cycle ocean ride";

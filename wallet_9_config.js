@@ -1,1 +1,1 @@
-var mnemonic = "decorate sentence reject ceiling discover mutual tip oven chapter once various excess";
+var mnemonic = "file sock garlic oyster note wrap green reopen income matter spy music";

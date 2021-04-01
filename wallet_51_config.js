@@ -1,1 +1,1 @@
-var mnemonic = "dwarf pave rather field chimney guilt teach twenty fiscal snap between pass";
+var mnemonic = "cannon satisfy pig quit believe rare help sketch bridge magic inflict slush";

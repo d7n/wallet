@@ -1,1 +1,1 @@
-var mnemonic = "breeze erupt velvet list onion blush interest hint visa indicate pitch quick";
+var mnemonic = "sauce token funny tilt pen help worth blue trap tiger include shell";

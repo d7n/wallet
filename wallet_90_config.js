@@ -1,1 +1,1 @@
-var mnemonic = "click fame surge network drop deputy tooth degree web begin evil appear";
+var mnemonic = "monster sweet entry trash sustain vital junior strong expire turkey crucial liquid";

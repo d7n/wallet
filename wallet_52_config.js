@@ -1,1 +1,1 @@
-var mnemonic = "wine bind spawn poet fluid deposit slim ice cement veteran chair sight";
+var mnemonic = "office reopen glance age light rapid two illness huge noodle traffic original";

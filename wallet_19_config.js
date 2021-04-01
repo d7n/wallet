@@ -1,1 +1,1 @@
-var mnemonic = "enhance wisdom water mass hungry round bamboo rescue shoot option road march";
+var mnemonic = "image calm kiwi tonight palace modify client inquiry toe illegal attitude success";

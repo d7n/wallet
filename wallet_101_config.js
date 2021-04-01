@@ -1,1 +1,1 @@
-var mnemonic = "token better debris object ocean garage salt use mail grocery spatial sight";
+var mnemonic = "cereal allow surge cage legend they friend viable mention rough cheap size";

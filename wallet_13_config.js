@@ -1,1 +1,1 @@
-var mnemonic = "egg wait fat invite fly cloud unknown luggage cheese evoke spawn spike";
+var mnemonic = "protect fiber toe shine never dutch target voyage purpose become cheese swing";

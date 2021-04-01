@@ -1,1 +1,1 @@
-var mnemonic = "hidden grit citizen organ science hurt blast pudding wash spice around fork";
+var mnemonic = "ivory unlock jacket method giggle what addict fashion menu knee rib yellow";

@@ -1,1 +1,1 @@
-var mnemonic = "shuffle crisp ship client text lend bench armed crane choose luggage whale";
+var mnemonic = "apple laptop swap snack inspire tissue scheme fruit cave ripple brand wrong";

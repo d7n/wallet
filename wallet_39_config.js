@@ -1,1 +1,1 @@
-var mnemonic = "lizard mercy vivid bright life excess burger potato bitter fresh wheel nut";
+var mnemonic = "clutch scheme seek hill bright high custom long negative job gift pretty";

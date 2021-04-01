@@ -1,1 +1,1 @@
-var mnemonic = "case few barely battle unlock calm spoon gentle purchase mobile hard screen";
+var mnemonic = "supreme update vendor actual upon slam mixed guess bean jazz sketch sign";

@@ -1,1 +1,1 @@
-var mnemonic = "measure outdoor unit service rough install recycle palm eyebrow glimpse dignity develop";
+var mnemonic = "toilet blue mobile around impose planet call empower evoke cable title before";

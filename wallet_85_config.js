@@ -1,1 +1,1 @@
-var mnemonic = "joke mirror supreme lab shield grace cost crumble grant goat intact hotel";
+var mnemonic = "gaze dragon ring armor path patient toe bread bitter position romance brother";

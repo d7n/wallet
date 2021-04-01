@@ -1,1 +1,1 @@
-var mnemonic = "swift spare engine inspire runway year celery shoulder brick frame jealous problem";
+var mnemonic = "produce fee prosper scrap alter present keen laptop cycle vicious rigid stereo";

@@ -1,1 +1,1 @@
-var mnemonic = "oppose brain soup book inspire tooth ignore coffee orchard lecture exercise street";
+var mnemonic = "jar ordinary ramp rich wasp erupt fade barely fresh uphold lazy lucky";

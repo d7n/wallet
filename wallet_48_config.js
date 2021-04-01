@@ -1,1 +1,1 @@
-var mnemonic = "picnic remind scatter elephant empower rude unfair hidden invest finger repair actress";
+var mnemonic = "slab mask emerge oppose funny vocal wink wrong kite cigar love express";

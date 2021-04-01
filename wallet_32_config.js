@@ -1,1 +1,1 @@
-var mnemonic = "dilemma typical shoulder hollow nerve garment lawn secret lonely pledge hospital already";
+var mnemonic = "notice help buzz version mass great fragile acid steak bread concert horror";

@@ -1,1 +1,1 @@
-var mnemonic = "kid middle rate feed breeze close train maid buyer silk put upon";
+var mnemonic = "quantum iron ladder toe forest mosquito deer spread street slight fix forget";

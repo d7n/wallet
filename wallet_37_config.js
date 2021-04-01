@@ -1,1 +1,1 @@
-var mnemonic = "laptop metal maid federal evolve language this music segment salute memory profit";
+var mnemonic = "about near change riot market auto curtain above gadget bulb diamond update";

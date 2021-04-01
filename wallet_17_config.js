@@ -1,1 +1,1 @@
-var mnemonic = "resource absurd valid speed copper loan unknown youth swing town hint old";
+var mnemonic = "panther offer clown connect arrange lava cute price marine define digital enable";

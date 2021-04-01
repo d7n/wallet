@@ -1,1 +1,1 @@
-var mnemonic = "describe nurse tuition under bitter basic language meadow trash genre acquire barely";
+var mnemonic = "siren remember merit gain home renew beauty hover thumb will foil dizzy";

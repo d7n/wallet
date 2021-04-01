@@ -1,1 +1,1 @@
-var mnemonic = "rate reason person soldier fantasy attract lunch fork gossip dog salmon easily";
+var mnemonic = "planet rifle tape scout paddle scare amused echo chronic umbrella pen wink";

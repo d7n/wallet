@@ -1,1 +1,1 @@
-var mnemonic = "toast argue jump boat sword success please meadow service jelly rather coral";
+var mnemonic = "pledge interest drive angry indoor pull juice artefact razor nest jeans hover";

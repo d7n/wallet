@@ -1,1 +1,1 @@
-var mnemonic = "promote call rule during theory margin impose among beauty scrub they other";
+var mnemonic = "police rose paddle blade taxi list mystery diary multiply vast false mistake";

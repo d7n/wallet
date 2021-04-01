@@ -1,1 +1,1 @@
-var mnemonic = "tube hollow arm pizza auto toddler adult balcony pole scheme tower motor";
+var mnemonic = "city gentle afford height woman rug wood pattern skirt together point try";

@@ -1,1 +1,1 @@
-var mnemonic = "help enjoy bronze seminar example soft object answer reflect uniform appear account";
+var mnemonic = "enhance search cliff plate flower member since wonder soap visa inmate actress";

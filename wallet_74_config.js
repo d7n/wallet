@@ -1,1 +1,1 @@
-var mnemonic = "turtle castle example visual subject liquid garage vivid vessel render cousin private";
+var mnemonic = "crash truck gap report demise person depth thumb spice gather soldier help";

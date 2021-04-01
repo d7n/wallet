@@ -1,1 +1,1 @@
-var mnemonic = "base member eager giggle buyer idea write mother baby few lesson quantum";
+var mnemonic = "curve project bless office husband brass virtual race scrub edge end clever";

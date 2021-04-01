@@ -1,1 +1,1 @@
-var mnemonic = "motion print include trick fault eternal rule heavy fancy clever gravity express";
+var mnemonic = "favorite afford search leopard fault damage hard amateur coconut soda offer wealth";

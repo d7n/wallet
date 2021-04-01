@@ -1,1 +1,1 @@
-var mnemonic = "task inside devote wasp broken choice toilet solve plunge profit kit hybrid";
+var mnemonic = "exercise must lift lawsuit extend voyage brown term click keep work second";

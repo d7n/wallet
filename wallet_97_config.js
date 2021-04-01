@@ -1,1 +1,1 @@
-var mnemonic = "castle unveil salon because vacuum marble wide extend peasant weekend interest mistake";
+var mnemonic = "erosion market cube wall casino sentence barrel cliff champion ice since foam";

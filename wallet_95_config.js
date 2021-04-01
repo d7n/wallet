@@ -1,1 +1,1 @@
-var mnemonic = "arrest add inmate panther skin diamond off despair cabin grocery youth party";
+var mnemonic = "sell account prevent stove rent hub lecture change audit trick multiply mom";

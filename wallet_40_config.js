@@ -1,1 +1,1 @@
-var mnemonic = "joy element scene frog escape sugar crouch gun shrimp siege depend lounge";
+var mnemonic = "bracket box lion choice antenna boil inquiry arctic release puzzle effort window";

@@ -1,1 +1,1 @@
-var mnemonic = "split retreat tissue chapter slight mean retreat episode cabin narrow prosper shock";
+var mnemonic = "valve scissors soft vapor wave morning affair retreat file pyramid health element";

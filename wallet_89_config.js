@@ -1,1 +1,1 @@
-var mnemonic = "muffin ankle random found message wonder original swamp buyer mirror combine situate";
+var mnemonic = "panic anxiety message father fuel else slogan typical two myself vanish script";

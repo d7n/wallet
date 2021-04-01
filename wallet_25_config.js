@@ -1,1 +1,1 @@
-var mnemonic = "bean increase fire people patch jungle palace breeze lemon company nurse artwork";
+var mnemonic = "apology perfect afraid congress capable mind mutual split edge erase ill milk";

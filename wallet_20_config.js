@@ -1,1 +1,1 @@
-var mnemonic = "number eyebrow wash puzzle clay nest decorate turkey broken destroy flag find";
+var mnemonic = "poem embark phrase donkey observe want pact gaze iron heavy bicycle couch";

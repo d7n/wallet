@@ -1,1 +1,1 @@
-var mnemonic = "fix march other settle heart jazz casual analyst ski grant pluck slot";
+var mnemonic = "catch lizard speed mistake churn cube series unable key upon nut work";

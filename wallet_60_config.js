@@ -1,1 +1,1 @@
-var mnemonic = "arch short bicycle dynamic march crack female shock bonus supply spy invite";
+var mnemonic = "spare option return exotic brisk analyst woman coffee extra annual galaxy okay";

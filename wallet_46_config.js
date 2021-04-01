@@ -1,1 +1,1 @@
-var mnemonic = "below voyage hospital advance resource deer gown plate hole meat phone shell";
+var mnemonic = "cheap task wrestle festival green convince asset delay heavy hazard brick connect";

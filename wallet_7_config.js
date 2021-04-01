@@ -1,1 +1,1 @@
-var mnemonic = "random know trick emerge mountain price pond lunch clip coyote witness custom";
+var mnemonic = "fun hazard tongue frozen mixed mammal target height gorilla punch flavor mesh";

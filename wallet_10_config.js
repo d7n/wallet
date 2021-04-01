@@ -1,1 +1,1 @@
-var mnemonic = "cliff turtle apple stone reform display melt feed engage horse powder umbrella";
+var mnemonic = "style fit captain cloth prosper finger kick pyramid tip hawk strong session";

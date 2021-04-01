@@ -1,1 +1,1 @@
-var mnemonic = "insect kite north neither tuna favorite genre alien exit liar soft dinosaur";
+var mnemonic = "actual main idle magic rebuild attract deliver endorse memory fun inherit cave";

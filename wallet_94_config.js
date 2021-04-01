@@ -1,1 +1,1 @@
-var mnemonic = "wrestle lunar truly wheel reason swamp fold time angry youth matrix evidence";
+var mnemonic = "steak auction taxi chalk clean issue firm banana pluck reward entry high";

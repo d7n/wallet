@@ -1,1 +1,1 @@
-var mnemonic = "language confirm spice echo negative kite spin video athlete cart giraffe split";
+var mnemonic = "under coach doctor walnut adjust rural lawn distance fruit crack canvas neither";

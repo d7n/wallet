@@ -1,1 +1,1 @@
-var mnemonic = "beyond engine couple pitch safe crisp weird exhaust grit harvest choice humor";
+var mnemonic = "step chair domain planet raw regular cream frozen slide fossil stone aunt";

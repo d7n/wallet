@@ -1,1 +1,1 @@
-var mnemonic = "cave force garage upon distance obey swift bachelor labor pottery duty resource";
+var mnemonic = "diesel plunge very wide sibling delay palace oppose day exercise teach guide";

@@ -1,1 +1,1 @@
-var mnemonic = "ramp innocent school mad satisfy hill unaware pig maid height husband steel";
+var mnemonic = "board page wedding lazy scene audit broken grain party pudding side divert";

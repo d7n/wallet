@@ -1,1 +1,1 @@
-var mnemonic = "inch trouble audit stock gather accuse tennis soda repair egg outside rug";
+var mnemonic = "logic enact crane awesome able learn poem final lizard excite museum sweet";

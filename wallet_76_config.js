@@ -1,1 +1,1 @@
-var mnemonic = "cactus ship own input mercy rival find almost more crash bicycle reason";
+var mnemonic = "frozen require soccer goose guide apart earn episode ensure staff parrot eager";

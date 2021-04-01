@@ -1,1 +1,1 @@
-var mnemonic = "display rule mask jeans learn stick please penalty kangaroo rice cage potato";
+var mnemonic = "cream list game liar child brisk metal federal mansion consider heavy material";

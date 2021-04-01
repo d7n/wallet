@@ -1,1 +1,1 @@
-var mnemonic = "exclude panda ceiling reduce elevator human elephant series report moment start fancy";
+var mnemonic = "easy mother into churn possible taxi pair exact raw initial climb space";

@@ -1,1 +1,1 @@
-var mnemonic = "unusual nose enable merge gaze mutual chaos parade december fall embody anger";
+var mnemonic = "unfair elevator this drift patrol motion burst rapid above motor tourist senior";

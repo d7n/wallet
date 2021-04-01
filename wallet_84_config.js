@@ -1,1 +1,1 @@
-var mnemonic = "game economy mistake sweet will there soon feed into divorce this dice";
+var mnemonic = "velvet try noise problem asthma nose soup slender sample breeze mouse return";

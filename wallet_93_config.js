@@ -1,1 +1,1 @@
-var mnemonic = "increase lens review latin anger casual envelope piano armed away hammer final";
+var mnemonic = "wrestle film culture unfold marriage napkin still rug surround decorate office injury";

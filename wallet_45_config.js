@@ -1,1 +1,1 @@
-var mnemonic = "sting evil jar unveil pause audit anchor grain all spoil drip course";
+var mnemonic = "stone baby ritual ensure sting visual butter finger fee away property addict";

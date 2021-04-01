@@ -1,1 +1,1 @@
-var mnemonic = "deliver practice thumb best web jar debris slide hurdle leader vapor tomato";
+var mnemonic = "front sheriff steel vacant tag inner vague fall memory success envelope vicious";

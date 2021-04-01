@@ -1,1 +1,1 @@
-var mnemonic = "green attitude rate round thumb task unknown frequent lounge nothing document fringe";
+var mnemonic = "crack raven industry canal move amateur poet title village soldier neutral among";

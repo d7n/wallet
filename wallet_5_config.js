@@ -1,1 +1,1 @@
-var mnemonic = "foam deputy scheme electric gun citizen harvest cage symbol seek avocado naive";
+var mnemonic = "photo sell uncover envelope goose skate believe horse border maze certain about";

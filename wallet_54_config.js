@@ -1,1 +1,1 @@
-var mnemonic = "satisfy danger truly sorry diamond tired top proud supreme rude decline fog";
+var mnemonic = "pull inner slice announce story rough number bitter immune ice achieve elephant";

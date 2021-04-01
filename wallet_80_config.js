@@ -1,1 +1,1 @@
-var mnemonic = "hockey still super month strong amateur royal vibrant nerve field casual entire";
+var mnemonic = "resource space check century distance adapt race special lobster intact warm once";

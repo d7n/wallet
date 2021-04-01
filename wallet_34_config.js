@@ -1,1 +1,1 @@
-var mnemonic = "direct tourist ice sad copy whisper pigeon problem cost used exhibit maple";
+var mnemonic = "chalk verb among exclude delay orbit leg mass more govern gallery spring";

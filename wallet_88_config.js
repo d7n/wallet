@@ -1,1 +1,1 @@
-var mnemonic = "session collect magnet recycle insect rhythm brush pepper interest setup early cause";
+var mnemonic = "swap divert spoil clinic response express fog entire error print banana excuse";

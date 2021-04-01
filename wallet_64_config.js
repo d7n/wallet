@@ -1,1 +1,1 @@
-var mnemonic = "laundry sustain tilt ramp payment version lyrics sphere frozen suspect easy course";
+var mnemonic = "word wisdom fault disorder junk orange emotion member marriage material swallow physical";

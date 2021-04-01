@@ -1,1 +1,1 @@
-var mnemonic = "toddler forest lawn hammer model indoor virtual april snake swap success like";
+var mnemonic = "december color minimum coral legal hair balcony paper chase manage insect bounce";

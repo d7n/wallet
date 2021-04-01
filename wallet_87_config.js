@@ -1,1 +1,1 @@
-var mnemonic = "power awkward girl poet catalog advance strike modify fault twenty issue useless";
+var mnemonic = "foam holiday urban boring miracle marriage clip witness index tiny novel possible";

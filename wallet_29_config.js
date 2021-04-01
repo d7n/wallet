@@ -1,1 +1,1 @@
-var mnemonic = "grow pull movie intact wrist cool bulb inner ice prefer lake tobacco";
+var mnemonic = "tree ride earth teach nice crouch roast album top west east blanket";

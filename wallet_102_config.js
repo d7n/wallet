@@ -1,1 +1,1 @@
-var mnemonic = "tide when food manage boring elder alpha brick search panda snow april";
+var mnemonic = "sauce merit season glue remain radio auction roast indoor cargo sing side";

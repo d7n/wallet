@@ -1,1 +1,1 @@
-var mnemonic = "cactus staff build artwork jeans fragile capable deny token frown dune custom";
+var mnemonic = "design debate disease unique service obvious program know morning hire okay blade";

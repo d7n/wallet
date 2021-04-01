@@ -1,1 +1,1 @@
-var mnemonic = "unit humble animal exile example between rally bonus wedding mechanic bracket exercise";
+var mnemonic = "noodle stomach figure satoshi veteran empty pencil deposit oven person theory dilemma";

@@ -1,1 +1,1 @@
-var mnemonic = "capable gloom pole illegal mosquito method brown mechanic ride midnight tooth catch";
+var mnemonic = "mask street sleep banana argue clap slam airport step common candy young";

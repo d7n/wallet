@@ -1,1 +1,1 @@
-var mnemonic = "between dragon train else find noodle sign suspect flame just vivid vibrant";
+var mnemonic = "such begin clean motor runway amazing food wrist vast entry photo glare";

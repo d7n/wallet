@@ -1,1 +1,1 @@
-var mnemonic = "badge park release dove fun sponsor wave weekend process park noble fee";
+var mnemonic = "next patch hen echo risk tent lamp general install wonder sugar cancel";

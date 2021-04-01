@@ -1,1 +1,1 @@
-var mnemonic = "method buzz genre attract rabbit submit sport pole hospital debris tray maple";
+var mnemonic = "nurse file life express cruel rug sort fashion chief typical green curve";

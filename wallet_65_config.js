@@ -1,1 +1,1 @@
-var mnemonic = "category miss later federal extend gadget advice curve inform seat humble virtual";
+var mnemonic = "magnet suffer profit version vicious scissors gym tent nuclear olive general mother";

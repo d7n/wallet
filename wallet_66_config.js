@@ -1,1 +1,1 @@
-var mnemonic = "oxygen nothing message pole mean alert afraid beauty taxi what rotate sauce";
+var mnemonic = "grain unable jazz impulse pole fan soda fox media dice hobby nature";

@@ -1,1 +1,1 @@
-var mnemonic = "sleep ramp lock tattoo goose fortune sense turtle purchase season grab card";
+var mnemonic = "skate lobster target merit bring thumb example burden feel jeans fault accident";

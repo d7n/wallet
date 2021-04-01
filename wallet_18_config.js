@@ -1,1 +1,1 @@
-var mnemonic = "high vibrant shoulder fine rival shaft arena believe aerobic remember blame more";
+var mnemonic = "fault minor garlic stomach bachelor carbon mention fee dwarf gym alien skate";

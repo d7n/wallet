@@ -1,1 +1,1 @@
-var mnemonic = "toy feed give merit price donor captain odor home kind sadness illegal";
+var mnemonic = "hobby field version bind good letter goddess law dilemma elephant arm cart";

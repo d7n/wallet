@@ -1,1 +1,1 @@
-var mnemonic = "sketch stumble fatal better deliver napkin cereal small welcome hint elegant elevator";
+var mnemonic = "aunt faint snack lawn sphere giggle liar fresh recycle purse agent city";

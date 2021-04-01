@@ -1,1 +1,1 @@
-var mnemonic = "near tiger egg tree arm talent damp size coin pottery negative term";
+var mnemonic = "among egg joy notice evidence usage eternal sure inflict retire candy also";

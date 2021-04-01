@@ -1,1 +1,1 @@
-var mnemonic = "only sign true duck delay exile melody jeans dash hard claim mule";
+var mnemonic = "accuse health midnight they mean cannon sight comfort beauty program three twice";

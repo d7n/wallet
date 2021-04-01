@@ -1,1 +1,1 @@
-var mnemonic = "hill reflect eagle turkey flower hurt diet usage one skull reunion eight";
+var mnemonic = "suspect deny cereal uncle fruit story crazy adjust eight game divert chuckle";

@@ -1,1 +1,1 @@
-var mnemonic = "monkey still second execute summer during project name bind loud coffee road";
+var mnemonic = "prize peasant myth economy miss traffic trick output auto juice use immune";

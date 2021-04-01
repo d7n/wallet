@@ -1,1 +1,1 @@
-var mnemonic = "mirror napkin demise inch leaf cotton knife inform smart either little welcome";
+var mnemonic = "foot engine winner script result gallery youth veteran annual end arch machine";

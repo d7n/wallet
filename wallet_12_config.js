@@ -1,1 +1,1 @@
-var mnemonic = "play become install above visual test ignore garment blur pulp talk palace";
+var mnemonic = "bone baby tornado tourist shrug approve spy office blossom run wash artefact";

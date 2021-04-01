@@ -1,1 +1,1 @@
-var mnemonic = "fortune radar business during post weather cricket cheese leaf double caution cruise";
+var mnemonic = "advance cost pelican cement luggage faint garment foil bus pepper earth razor";

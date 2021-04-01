@@ -1,1 +1,1 @@
-var mnemonic = "crumble margin label pigeon property struggle drive sphere nice road please rally";
+var mnemonic = "olive lamp mobile monster tornado jealous illegal hobby cover calm merge creek";
