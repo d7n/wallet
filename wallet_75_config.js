@@ -1,1 +1,1 @@
-var mnemonic = "patch foot village pink crystal course merge view dutch diet gasp stone";
+var mnemonic = "remind destroy flower winter chest dune knee forward ice sentence tail dose";

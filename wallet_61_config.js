@@ -1,1 +1,1 @@
-var mnemonic = "spring visit rent clog harvest slice please alter celery fragile acid during";
+var mnemonic = "casual follow slight flush stereo become replace drink artist about retreat space";

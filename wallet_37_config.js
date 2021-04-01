@@ -1,1 +1,1 @@
-var mnemonic = "position prosper inner until stool science general ethics asthma hybrid brave unable";
+var mnemonic = "ketchup melody climb federal cargo alpha armor abstract rather vehicle salad ugly";

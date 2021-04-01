@@ -1,1 +1,1 @@
-var mnemonic = "payment behave summer biology staff coast amused side decline wish memory damage";
+var mnemonic = "next stuff orbit nurse need ketchup mule clump relax spoil joy gate";

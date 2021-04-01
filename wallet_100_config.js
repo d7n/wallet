@@ -1,1 +1,1 @@
-var mnemonic = "lawsuit trust glove start junior soft search provide veteran volume expand usual";
+var mnemonic = "corn pigeon define salmon globe coral rigid work parade lake wide enforce";

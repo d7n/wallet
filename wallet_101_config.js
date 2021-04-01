@@ -1,1 +1,1 @@
-var mnemonic = "father tourist tonight middle route thank hurt swamp faint utility call urban";
+var mnemonic = "deer cargo woman apart raccoon reopen asset club sausage cat kind cost";

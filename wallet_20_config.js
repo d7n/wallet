@@ -1,1 +1,1 @@
-var mnemonic = "rate pelican decide fringe alcohol rotate ten wall bridge infant armor crucial";
+var mnemonic = "dilemma letter siren away enhance audit ancient laundry zone because great buddy";

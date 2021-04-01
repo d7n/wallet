@@ -1,1 +1,1 @@
-var mnemonic = "rookie opera vendor citizen vague palm smoke jewel avoid misery network coach";
+var mnemonic = "tobacco naive merry imitate clog crystal undo protect lake hour much disagree";

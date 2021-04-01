@@ -1,1 +1,1 @@
-var mnemonic = "fault clutch advance dash slush fantasy blur elite coast bitter garbage cave";
+var mnemonic = "practice foil thing radar position shoe riot axis beef limit uncover predict";

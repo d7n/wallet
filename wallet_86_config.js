@@ -1,1 +1,1 @@
-var mnemonic = "congress visa that fee beauty satoshi badge fold life define decline own";
+var mnemonic = "enough couple scale extend pupil source surprise access shiver across rose slam";

@@ -1,1 +1,1 @@
-var mnemonic = "front expand spike bomb improve idea practice dignity phone prefer decline parade";
+var mnemonic = "creek family exhibit mango sustain squirrel country same upper wife tiny shy";

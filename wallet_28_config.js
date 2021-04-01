@@ -1,1 +1,1 @@
-var mnemonic = "avocado seminar mansion neutral leg human evolve swim crumble employ radar cupboard";
+var mnemonic = "talent matrix beef evidence spot super letter bullet argue exhibit entry weasel";

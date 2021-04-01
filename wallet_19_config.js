@@ -1,1 +1,1 @@
-var mnemonic = "mule flower giraffe hero believe boil abandon produce mail teach column fever";
+var mnemonic = "ecology purity nut current task embark jazz north bubble click mammal forward";

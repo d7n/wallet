@@ -1,1 +1,1 @@
-var mnemonic = "board once pill lake update approve access common napkin define thought mixed";
+var mnemonic = "agent front runway wage report outdoor glance abandon become industry rocket dove";

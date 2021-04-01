@@ -1,1 +1,1 @@
-var mnemonic = "genre coconut yard piano lab elder heart battle enact eight account rate";
+var mnemonic = "track hollow fancy sort elder notable control scheme cupboard region document supply";

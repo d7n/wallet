@@ -1,1 +1,1 @@
-var mnemonic = "alpha faculty drink stove cargo letter corn share mistake excite rabbit report";
+var mnemonic = "second oak elite empower post dismiss leg screen auction treat kitchen detect";

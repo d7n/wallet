@@ -1,1 +1,1 @@
-var mnemonic = "gather people holiday rent creek hour destroy zebra grace reward rule where";
+var mnemonic = "ordinary ring neck feel garment end devote found chase guess soup limit";

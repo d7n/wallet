@@ -1,1 +1,1 @@
-var mnemonic = "rent multiply boat point sibling rotate ride mixture artist artefact giant fetch";
+var mnemonic = "lion amused assist use round royal build silk bunker pet second reunion";

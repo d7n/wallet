@@ -1,1 +1,1 @@
-var mnemonic = "wish lesson evil scale will kingdom raccoon popular subject produce audit find";
+var mnemonic = "vital column hover rib embark best pill estate cannon leg approve grief";

@@ -1,1 +1,1 @@
-var mnemonic = "swallow cook hip mixture coral episode select razor favorite cancel replace oyster";
+var mnemonic = "beyond scene best twin wild weekend awkward illness lunar motor trophy first";

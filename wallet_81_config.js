@@ -1,1 +1,1 @@
-var mnemonic = "rose panic tower left twelve inherit marble spawn citizen famous figure cry";
+var mnemonic = "tool price hospital marriage people until left multiply swarm scene spoil enlist";

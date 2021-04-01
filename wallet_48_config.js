@@ -1,1 +1,1 @@
-var mnemonic = "aware awful science office cheese december celery cover share vote tuition circle";
+var mnemonic = "major skirt rifle vault client language merry layer offer dry citizen mask";

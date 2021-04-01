@@ -1,1 +1,1 @@
-var mnemonic = "deposit secret tumble found claw used dilemma shove hazard nature govern echo";
+var mnemonic = "label review dial dress beauty save trial timber arrive situate stage spend";

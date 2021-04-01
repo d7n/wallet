@@ -1,1 +1,1 @@
-var mnemonic = "put fever just drive jeans abstract addict excuse enforce crop dash rural";
+var mnemonic = "narrow spare they access dinner prevent rabbit obvious dance inhale fabric dose";

@@ -1,1 +1,1 @@
-var mnemonic = "rural prevent pilot uniform child say tobacco pizza lawsuit fork sail arrive";
+var mnemonic = "maid lab resource spray doctor elevator helmet yellow label force review clay";

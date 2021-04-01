@@ -1,1 +1,1 @@
-var mnemonic = "gloom between also surprise diamond boring either carpet reflect physical early entry";
+var mnemonic = "hole spot taxi total size chaos vehicle snack much mask roast donkey";

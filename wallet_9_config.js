@@ -1,1 +1,1 @@
-var mnemonic = "bar trash laptop sick essay agree account oval venture hundred funny inject";
+var mnemonic = "lend detect appear net select bus say inform almost ocean rubber year";

@@ -1,1 +1,1 @@
-var mnemonic = "weekend fence dry episode exhaust term catch stadium expose outdoor route hat";
+var mnemonic = "race crime bind dawn force month antique crime eyebrow wire rail foster";

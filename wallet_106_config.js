@@ -1,1 +1,1 @@
-var mnemonic = "opinion place benefit december display stove leader tree green sail run input";
+var mnemonic = "truck ancient group labor kidney enlist message utility april spoil benefit fit";

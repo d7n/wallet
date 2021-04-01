@@ -1,1 +1,1 @@
-var mnemonic = "robot tray chunk view random custom help embark front entry rescue whale";
+var mnemonic = "horn stone install gasp exist huge brush betray isolate scrub spray capital";

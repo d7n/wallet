@@ -1,1 +1,1 @@
-var mnemonic = "path explain tent cushion sting loop chronic metal donkey outside need dance";
+var mnemonic = "jealous human exist surprise adjust balcony month monkey middle require model equal";

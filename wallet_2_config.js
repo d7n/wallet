@@ -1,1 +1,1 @@
-var mnemonic = "view local ahead inspire normal mention lizard chimney destroy gadget wash holiday";
+var mnemonic = "donate tiny congress sketch judge ribbon enlist fix diesel stamp garlic actor";

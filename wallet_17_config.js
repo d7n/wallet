@@ -1,1 +1,1 @@
-var mnemonic = "replace business fossil since excess deposit artwork diamond luxury bulb diagram wool";
+var mnemonic = "direct elephant entry rice jazz ten sing among animal service hold faint";

@@ -1,1 +1,1 @@
-var mnemonic = "egg divide lucky special key mesh glue foot pull chair faculty tenant";
+var mnemonic = "public clog truck gloom lava rough canoe version reason size during miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "limb song smooth when often brisk clap novel rookie rice panther fuel";
+var mnemonic = "tree attack mixed uniform assist yard climb hidden airport swamp ethics old";

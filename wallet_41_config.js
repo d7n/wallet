@@ -1,1 +1,1 @@
-var mnemonic = "fresh stumble choice robust forget rhythm profit sad gospel course battle write";
+var mnemonic = "rug special memory rhythm situate dirt medal bench bone fatal song genuine";

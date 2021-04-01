@@ -1,1 +1,1 @@
-var mnemonic = "prize face put define control initial shoe cost wide mask cruise script";
+var mnemonic = "correct increase retire public depth notice decide forum winner lecture seminar drop";

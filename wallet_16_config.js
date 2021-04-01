@@ -1,1 +1,1 @@
-var mnemonic = "page peace affair grace match define badge custom stage label tank home";
+var mnemonic = "seek glass pink better wrong state indicate hello drip ready play cotton";

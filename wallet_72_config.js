@@ -1,1 +1,1 @@
-var mnemonic = "depth clean ahead pitch mango own melody donkey jaguar arch across ugly";
+var mnemonic = "alpha remain expand room throw awkward whisper type fence scatter genre math";

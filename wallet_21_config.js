@@ -1,1 +1,1 @@
-var mnemonic = "vital ahead wood vanish sail also surround parrot gauge useful cute rocket";
+var mnemonic = "escape nerve core copper cruel often improve board cake flock insect obtain";

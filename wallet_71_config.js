@@ -1,1 +1,1 @@
-var mnemonic = "seminar castle keep range bless guide poet gift metal nice battle panther";
+var mnemonic = "segment march visual toy pupil beach over siege glory duck pull end";

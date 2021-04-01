@@ -1,1 +1,1 @@
-var mnemonic = "chuckle pair answer debate keen wet because magic plug measure reopen bread";
+var mnemonic = "kit issue language undo fault flame benefit since goddess blast rubber estate";

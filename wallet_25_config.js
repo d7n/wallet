@@ -1,1 +1,1 @@
-var mnemonic = "renew patient hub rug credit oblige laugh earth garlic client leaf runway";
+var mnemonic = "agent supreme tortoise wasp isolate bridge mechanic media south utility vendor window";

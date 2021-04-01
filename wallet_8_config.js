@@ -1,1 +1,1 @@
-var mnemonic = "delay deposit win box rate differ copper advance globe jump critic appear";
+var mnemonic = "cheese impose mimic erosion flush know license hobby lawn pottery gorilla palace";

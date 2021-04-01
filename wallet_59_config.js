@@ -1,1 +1,1 @@
-var mnemonic = "grocery dust hole flip level tank another elevator fury pigeon truck long";
+var mnemonic = "oxygen dish front luggage dish region cool grid clay deputy report marine";

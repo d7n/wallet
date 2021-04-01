@@ -1,1 +1,1 @@
-var mnemonic = "file crime cloth inner latin rare you dynamic club play novel then";
+var mnemonic = "huge belt stadium law scorpion super adjust will awkward choose frost zoo";

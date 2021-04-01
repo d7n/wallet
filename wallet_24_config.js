@@ -1,1 +1,1 @@
-var mnemonic = "menu squirrel hire daughter match puzzle car conduct wine alert useful artist";
+var mnemonic = "ability only bridge young wrist torch similar vibrant already boss silly celery";

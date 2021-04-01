@@ -1,1 +1,1 @@
-var mnemonic = "priority rather expect innocent shop device wear exhaust tongue pistol urge amused";
+var mnemonic = "antique pair antenna evidence gossip differ jump pilot strategy immune faith betray";

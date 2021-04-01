@@ -1,1 +1,1 @@
-var mnemonic = "steel hair cycle bind cereal leisure number mix high inherit common tube";
+var mnemonic = "effort gospel print shrug fortune human eagle amateur broom wedding success search";

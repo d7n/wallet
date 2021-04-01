@@ -1,1 +1,1 @@
-var mnemonic = "leaf seek depart oak bring impose ride enact humor someone frame resemble";
+var mnemonic = "filter train final aisle drum cushion alert scatter penalty dwarf inhale maximum";

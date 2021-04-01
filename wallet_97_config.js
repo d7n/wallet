@@ -1,1 +1,1 @@
-var mnemonic = "risk kidney notable cousin library depart torch void dinner brother cat usual";
+var mnemonic = "there asthma alley typical mask rifle sun grief isolate scorpion walk say";

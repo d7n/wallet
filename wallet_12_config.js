@@ -1,1 +1,1 @@
-var mnemonic = "thunder indoor sauce demand battle fringe stick remain frequent pipe spray cloth";
+var mnemonic = "nurse exhibit digital aunt grunt excess brick inner calm company wonder february";

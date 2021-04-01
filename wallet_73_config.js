@@ -1,1 +1,1 @@
-var mnemonic = "blame calm town float collect fluid comic window issue join unhappy about";
+var mnemonic = "achieve stem police prepare hard fox naive tuition reflect arrange pair omit";

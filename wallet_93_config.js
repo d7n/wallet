@@ -1,1 +1,1 @@
-var mnemonic = "web better outside client address arm moral dune admit hip health thank";
+var mnemonic = "license equal online trash quality capital smile arm census lens else velvet";

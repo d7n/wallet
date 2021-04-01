@@ -1,1 +1,1 @@
-var mnemonic = "local catalog flight laundry slam effort ahead stem make region drop radar";
+var mnemonic = "debris area draw adult grunt unaware phone fee anchor say zoo nothing";

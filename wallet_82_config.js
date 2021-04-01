@@ -1,1 +1,1 @@
-var mnemonic = "buzz shock cradle amazing flash surface concert outside pyramid road retreat adapt";
+var mnemonic = "winter black forum jazz admit south devote state receive pilot promote fire";

@@ -1,1 +1,1 @@
-var mnemonic = "recycle borrow sound scrub want physical gap elbow other flavor tray reform";
+var mnemonic = "dice yellow fee auction kiss crop whisper toe expose speed vibrant glass";

@@ -1,1 +1,1 @@
-var mnemonic = "soup human torch gate muscle swim during sorry chase spoil hammer twin";
+var mnemonic = "lucky chaos attend magnet unable deal vapor surprise three result exile symptom";

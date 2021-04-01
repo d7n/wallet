@@ -1,1 +1,1 @@
-var mnemonic = "wolf patrol envelope usual struggle plastic carbon frequent ginger laptop gesture pink";
+var mnemonic = "tackle attract lawsuit device burst effort stumble snack exhaust essence abandon stadium";

@@ -1,1 +1,1 @@
-var mnemonic = "chase liberty toilet uncle talk diet invest deer tide wasp crawl essence";
+var mnemonic = "sustain drip keen turn meat museum perfect mention bronze boil flee peanut";

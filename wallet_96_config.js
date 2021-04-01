@@ -1,1 +1,1 @@
-var mnemonic = "double nasty erupt wait predict youth lumber bridge nurse world unaware alter";
+var mnemonic = "finger item parrot library raven blouse control example word regret flame torch";

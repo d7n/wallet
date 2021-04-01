@@ -1,1 +1,1 @@
-var mnemonic = "cluster sentence drill sister cry bachelor usage whisper truly vast gloom honey";
+var mnemonic = "muffin donkey resemble slim dad have mesh hub old pond hello visit";

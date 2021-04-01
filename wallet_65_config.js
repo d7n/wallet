@@ -1,1 +1,1 @@
-var mnemonic = "chief surge hurt vocal trick tide push brass pipe track hamster flock";
+var mnemonic = "child truly cute bunker fatal trip update steak harbor jaguar scheme ride";

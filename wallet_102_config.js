@@ -1,1 +1,1 @@
-var mnemonic = "hurt march stone adjust zero awful orient elder endless stem dizzy shaft";
+var mnemonic = "tone powder sudden submit faculty fire approve glad reunion blur present bounce";

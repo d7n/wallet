@@ -1,1 +1,1 @@
-var mnemonic = "arrange divide inch domain nephew coyote mobile belt wolf drastic level mosquito";
+var mnemonic = "mother bronze depend end setup casual priority helmet brush glance lesson atom";

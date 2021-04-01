@@ -1,1 +1,1 @@
-var mnemonic = "august math half melody very census dismiss burden auto coconut gap devote";
+var mnemonic = "sock lend raw dragon bronze claw veteran all stay bar moon october";

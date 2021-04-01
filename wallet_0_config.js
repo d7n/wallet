@@ -1,1 +1,1 @@
-var mnemonic = "rack group denial bleak world swap doctor unfold age process issue vague";
+var mnemonic = "fluid cage lecture shift system throw fashion aunt want sweet busy brass";

@@ -1,1 +1,1 @@
-var mnemonic = "blue harvest usage then hurdle margin bundle exchange recycle color winter rather";
+var mnemonic = "stick erupt eternal across fee engage neck monkey select token width version";

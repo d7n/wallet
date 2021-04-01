@@ -1,1 +1,1 @@
-var mnemonic = "drink brief abuse setup volume call actor gaze fun never seek zero";
+var mnemonic = "math wise special live gap area gather govern blouse vague forget toe";

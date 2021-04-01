@@ -1,1 +1,1 @@
-var mnemonic = "head today tilt broom clown extend clown hidden absorb satisfy apple body";
+var mnemonic = "dinosaur chunk turn nose hole slogan sound pupil drip cave flip goose";

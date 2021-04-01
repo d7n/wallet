@@ -1,1 +1,1 @@
-var mnemonic = "bright fun elder horn own nest fatigue swear dish office noodle lunch";
+var mnemonic = "twin useful lunar insect over solution infant clinic torch acid broom guide";

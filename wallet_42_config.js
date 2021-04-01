@@ -1,1 +1,1 @@
-var mnemonic = "jaguar apology wrestle prison avocado tobacco puppy pitch novel problem ankle coil";
+var mnemonic = "round team whisper defense grit sibling ball trade tilt limb portion grain";

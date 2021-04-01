@@ -1,1 +1,1 @@
-var mnemonic = "kiwi fiscal talent tribe oven guitar inmate truth release now eternal caution";
+var mnemonic = "junior utility repair punch range refuse bounce park reduce purse people design";

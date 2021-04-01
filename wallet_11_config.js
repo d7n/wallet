@@ -1,1 +1,1 @@
-var mnemonic = "usage blame combine learn library club dose swamp duck ticket process ignore";
+var mnemonic = "design board huge gap jeans yellow document slush spawn ostrich cruise gun";

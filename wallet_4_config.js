@@ -1,1 +1,1 @@
-var mnemonic = "various burst cover enter bright age path arch quality base session rubber";
+var mnemonic = "february drama answer twenty priority copy three joke vicious jeans drift balcony";

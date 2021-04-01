@@ -1,1 +1,1 @@
-var mnemonic = "crowd midnight mass enter domain space page stick decide domain copper demand";
+var mnemonic = "expand eye sound bitter caught flag rescue misery bachelor pause able squirrel";

@@ -1,1 +1,1 @@
-var mnemonic = "glue blast ship voyage battle benefit network furnace quiz nasty effort skill";
+var mnemonic = "fix trophy shove jazz kind crumble total behind cube pistol exchange veteran";

@@ -1,1 +1,1 @@
-var mnemonic = "mystery copy tank pencil young more old educate inner wisdom thunder mansion";
+var mnemonic = "chair expose machine panel pelican rent deal scrap glass emerge solve slot";

@@ -1,1 +1,1 @@
-var mnemonic = "mix liar seminar child apple off cousin water pyramid scene control panda";
+var mnemonic = "kid violin person rule erase vocal picture forest cave leg together river";

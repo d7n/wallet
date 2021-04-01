@@ -1,1 +1,1 @@
-var mnemonic = "neglect shoot million length fresh universe base cluster poet ridge ramp law";
+var mnemonic = "load fall craft horn since letter secret tattoo master sibling kiwi verb";

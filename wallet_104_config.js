@@ -1,1 +1,1 @@
-var mnemonic = "crucial change message sadness pottery pen negative little then allow expand magnet";
+var mnemonic = "much antique gate daring pigeon broken wet diagram vicious eagle food cry";

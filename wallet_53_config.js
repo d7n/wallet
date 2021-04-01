@@ -1,1 +1,1 @@
-var mnemonic = "sponsor blanket hurry airport hurry rural tattoo steak steel finish disagree odor";
+var mnemonic = "cradle call choose rhythm plug fabric circle glad scissors pipe away burst";

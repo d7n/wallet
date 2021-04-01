@@ -1,1 +1,1 @@
-var mnemonic = "cry myth august boil debate carry steel bonus master dust few private";
+var mnemonic = "when train tank fun problem journey race ball vague voyage gravity skill";

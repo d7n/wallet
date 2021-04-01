@@ -1,1 +1,1 @@
-var mnemonic = "under sting minute estate brush primary deny link vivid enforce push strategy";
+var mnemonic = "picnic orient grid mirror excite found soon pride transfer canoe scorpion mobile";

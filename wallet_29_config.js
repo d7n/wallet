@@ -1,1 +1,1 @@
-var mnemonic = "honey insane trim multiply pull wing forward rug picture what palm insect";
+var mnemonic = "drip clock purity help explain mean parrot segment survey awkward magnet blood";

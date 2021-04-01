@@ -1,1 +1,1 @@
-var mnemonic = "pulp safe shiver utility appear frame cheap glass congress wisdom script aware";
+var mnemonic = "orange timber upset auto capital echo armor hint dizzy enough web spell";

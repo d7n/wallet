@@ -1,1 +1,1 @@
-var mnemonic = "table predict fortune eagle hidden resource left negative jewel mom finger narrow";
+var mnemonic = "loud spring base resource dinosaur spike ladder genre later flat front aspect";
