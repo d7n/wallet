@@ -1,1 +1,1 @@
-var mnemonic = "sentence valid dice ugly spell canvas cabin flip plug find begin much";
+var mnemonic = "catalog first return organ toilet engine quit crop olive quiz illness loan";

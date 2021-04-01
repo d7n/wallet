@@ -1,1 +1,1 @@
-var mnemonic = "inner feature caught tired monster solution people retreat current toast ugly must";
+var mnemonic = "amazing prosper garment ride estate inject air favorite ladder tourist cloud injury";

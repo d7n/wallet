@@ -1,1 +1,1 @@
-var mnemonic = "dinosaur horn school replace erosion squeeze fun cup output festival museum enact";
+var mnemonic = "dizzy swift private merit art very small exotic access fame surprise pause";

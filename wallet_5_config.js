@@ -1,1 +1,1 @@
-var mnemonic = "calm pretty liar clog dynamic lion market guide camp another example zone";
+var mnemonic = "glue access liar bubble popular choice blame enroll guitar surround exercise guard";

@@ -1,1 +1,1 @@
-var mnemonic = "mass valley farm elbow program okay spice three dog bounce switch animal";
+var mnemonic = "warm sunset banana stem farm dune cycle venture bomb cupboard eye master";

@@ -1,1 +1,1 @@
-var mnemonic = "load pause spare rich good draft wagon off ball excuse rib explain";
+var mnemonic = "salad punch tenant canvas skirt pepper awkward three destroy sick question satoshi";

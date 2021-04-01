@@ -1,1 +1,1 @@
-var mnemonic = "clarify auto hub gas cushion squeeze upset attack secret dilemma puppy destroy";
+var mnemonic = "blood spoil blast sibling episode jungle lecture vapor face cabin decorate hurry";

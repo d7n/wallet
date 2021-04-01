@@ -1,1 +1,1 @@
-var mnemonic = "firm output chuckle wheel sight buffalo glad flock rule churn fresh fluid";
+var mnemonic = "cool hole wreck slow curious umbrella void banana swap merit slight possible";

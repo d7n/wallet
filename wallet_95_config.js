@@ -1,1 +1,1 @@
-var mnemonic = "library upgrade file anxiety slim hair walk announce infant turtle digital acquire";
+var mnemonic = "glue brand vibrant zero ranch project wool harvest employ convince owner excess";

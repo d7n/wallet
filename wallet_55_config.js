@@ -1,1 +1,1 @@
-var mnemonic = "oval rebel dog kiss bless shuffle defense wine woman burden refuse tired";
+var mnemonic = "peasant thank foster green industry license betray fortune average wool kick surround";

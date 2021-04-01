@@ -1,1 +1,1 @@
-var mnemonic = "shrimp valve magnet knife solar sorry fetch comfort shrug tank junk voyage";
+var mnemonic = "shoot since dream border core sport reward barely ozone father cloud length";

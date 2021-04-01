@@ -1,1 +1,1 @@
-var mnemonic = "envelope alter rough supreme example short family mad clock stuff wedding mom";
+var mnemonic = "demand collect seat settle private reflect inject material castle poverty shift law";

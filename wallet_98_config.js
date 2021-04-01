@@ -1,1 +1,1 @@
-var mnemonic = "flame cruise horn canal agree oxygen loud table endorse museum entire spatial";
+var mnemonic = "wealth blossom key confirm oven stadium ivory accuse pigeon hen long wagon";

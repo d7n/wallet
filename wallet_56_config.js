@@ -1,1 +1,1 @@
-var mnemonic = "chaos economy error delay grain call narrow coffee leave circle grant nice";
+var mnemonic = "vital give weasel load first book fence discover spike grass tomorrow pulp";

@@ -1,1 +1,1 @@
-var mnemonic = "prevent foot super chef patient gloom tattoo hungry consider pigeon ill flat";
+var mnemonic = "favorite hungry assume enrich mad hedgehog only dizzy invest left dawn field";

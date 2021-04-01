@@ -1,1 +1,1 @@
-var mnemonic = "brain distance kind link fun kid dynamic valid tenant memory solution oyster";
+var mnemonic = "exhaust put craft edit sugar climb idle anger casual super amused wage";

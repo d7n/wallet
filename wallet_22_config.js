@@ -1,1 +1,1 @@
-var mnemonic = "path rent omit cube moment figure better list carry bright tilt goose";
+var mnemonic = "alien exotic clean since lunch club venture shoulder world filter obvious naive";

@@ -1,1 +1,1 @@
-var mnemonic = "sibling velvet swamp permit tomato tortoise neck steak water network annual donkey";
+var mnemonic = "barely energy mix record jacket pole soon soldier hurt torch link else";

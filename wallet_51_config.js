@@ -1,1 +1,1 @@
-var mnemonic = "push gun dash burst heavy uncle pitch yellow grain express category life";
+var mnemonic = "race fault knife ritual danger save round first maze soup planet update";

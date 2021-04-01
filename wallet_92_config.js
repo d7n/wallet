@@ -1,1 +1,1 @@
-var mnemonic = "young exit easy discover adjust expose lesson actual vibrant defense fever raise";
+var mnemonic = "silly path great version veteran promote rally slogan wheel neither amount finish";

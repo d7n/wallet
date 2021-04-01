@@ -1,1 +1,1 @@
-var mnemonic = "sudden rice enough feed cruel wise faculty alcohol basic sand warrior palm";
+var mnemonic = "final treat modify random chef glory nuclear festival merry wing powder awesome";

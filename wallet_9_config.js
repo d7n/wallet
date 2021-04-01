@@ -1,1 +1,1 @@
-var mnemonic = "ability able art way whisper disorder audit citizen mutual ship input custom";
+var mnemonic = "cage brisk fiction obtain tone media fence say twin vehicle behind stool";

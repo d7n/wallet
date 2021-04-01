@@ -1,1 +1,1 @@
-var mnemonic = "follow tooth celery crucial lemon account test focus piece moral proud super";
+var mnemonic = "version goose treat push frost vault fence yard strong earth grape measure";

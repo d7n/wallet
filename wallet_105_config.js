@@ -1,1 +1,1 @@
-var mnemonic = "symptom luxury poet august thumb thought poverty whale wild horse immune luggage";
+var mnemonic = "example wrestle pull ugly truck soap wrist camp notice wait vault bread";

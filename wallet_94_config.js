@@ -1,1 +1,1 @@
-var mnemonic = "citizen giant nominee wrap pledge prison peanut target wet bachelor lounge return";
+var mnemonic = "able whisper tissue pistol movie mosquito fault donate whip earn pond sting";

@@ -1,1 +1,1 @@
-var mnemonic = "amazing hospital involve speed region unable olympic chat embrace vague food method";
+var mnemonic = "alter reduce grunt cheese aisle choose sail client resemble domain please label";

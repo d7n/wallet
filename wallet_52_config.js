@@ -1,1 +1,1 @@
-var mnemonic = "blade suit library speak snack hidden escape know identify dinosaur siren snap";
+var mnemonic = "grab magic panic junk water atom peanut vibrant crane fox sting toy";

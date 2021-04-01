@@ -1,1 +1,1 @@
-var mnemonic = "assist run alone wear clerk away spend settle slot velvet shrug cycle";
+var mnemonic = "damp duck ship hint brass myth pen machine banana celery march giraffe";

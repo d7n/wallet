@@ -1,1 +1,1 @@
-var mnemonic = "develop ribbon brown glove attitude draft horse coast mad payment afford episode";
+var mnemonic = "wing genuine lemon blur sock permit stumble cake setup volcano armed wrong";

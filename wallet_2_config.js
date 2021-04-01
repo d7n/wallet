@@ -1,1 +1,1 @@
-var mnemonic = "remind dish universe borrow domain cliff enjoy mule glare quiz primary width";
+var mnemonic = "insect genuine test arrange merge tiger knife mimic laundry tail laundry piece";

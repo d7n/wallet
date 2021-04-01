@@ -1,1 +1,1 @@
-var mnemonic = "current express report peace version help enroll duty link dismiss firm skin";
+var mnemonic = "small crater connect carry matter excess ocean champion garlic ice vehicle father";

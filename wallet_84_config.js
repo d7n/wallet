@@ -1,1 +1,1 @@
-var mnemonic = "shrimp sauce track window hobby exercise pattern consider chief radio left tide";
+var mnemonic = "bus skirt dumb hungry pony february term salad frost affair pause execute";

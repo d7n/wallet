@@ -1,1 +1,1 @@
-var mnemonic = "quote suit train recipe sure emotion drink believe time alien mother polar";
+var mnemonic = "object gas tooth harsh cool hunt whisper honey surprise crop all scissors";

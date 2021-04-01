@@ -1,1 +1,1 @@
-var mnemonic = "force absorb desert globe elbow six badge neutral drink provide sign tenant";
+var mnemonic = "someone aim arch much ice holiday intact skin carbon ring amateur good";

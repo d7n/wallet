@@ -1,1 +1,1 @@
-var mnemonic = "husband produce correct entry immense abstract inflict actual venture vocal evoke net";
+var mnemonic = "record great track strategy decide original enforce dolphin piece angle menu fortune";

@@ -1,1 +1,1 @@
-var mnemonic = "water scene spare guess civil boss patch hurt knee people near fall";
+var mnemonic = "sport web fat law foil trade deliver voyage talent forget satisfy offer";

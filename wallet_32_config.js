@@ -1,1 +1,1 @@
-var mnemonic = "shift reward multiply body mule provide smooth dust toast chat diesel ankle";
+var mnemonic = "ostrich script diesel wrestle evil market royal frog category toward total ankle";

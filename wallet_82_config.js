@@ -1,1 +1,1 @@
-var mnemonic = "humble snap huge primary gravity hungry bone maid wood jacket summer announce";
+var mnemonic = "canoe surprise six upset umbrella title borrow gaze magnet fade mixture cake";

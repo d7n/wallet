@@ -1,1 +1,1 @@
-var mnemonic = "tackle twice desk east inmate woman increase surge laugh extra rural side";
+var mnemonic = "spice thank crowd man pill long upgrade expose debate extend border hollow";

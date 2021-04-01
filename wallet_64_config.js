@@ -1,1 +1,1 @@
-var mnemonic = "program million park rally family fall prevent cancel evoke coast will genius";
+var mnemonic = "arrest cupboard keen exist inhale embody assume build fork enemy album bone";

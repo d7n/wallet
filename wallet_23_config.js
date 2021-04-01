@@ -1,1 +1,1 @@
-var mnemonic = "extend matter donor actor legal fiber excess success maze text claw harvest";
+var mnemonic = "bus unusual rival border industry glimpse tomato script provide ride blade orange";

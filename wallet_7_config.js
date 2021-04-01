@@ -1,1 +1,1 @@
-var mnemonic = "chicken concert blanket author flock reveal patrol soup quit office lab usual";
+var mnemonic = "seed believe domain version lyrics push volume garden pupil jazz ranch warrior";

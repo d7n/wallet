@@ -1,1 +1,1 @@
-var mnemonic = "midnight refuse access trial improve gap police step private jelly three gloom";
+var mnemonic = "bronze myth assume olive system chase kingdom element raw aerobic spare letter";

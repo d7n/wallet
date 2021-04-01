@@ -1,1 +1,1 @@
-var mnemonic = "rally pond chest talent swallow cover depart elite mansion twin add hungry";
+var mnemonic = "era now coconut turtle hood lecture apology barely right hub luggage rifle";

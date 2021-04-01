@@ -1,1 +1,1 @@
-var mnemonic = "talk crowd deny there truly ill ceiling mail decide can what need";
+var mnemonic = "boost flip fault gift solution awkward repair forest lounge exact merry swap";

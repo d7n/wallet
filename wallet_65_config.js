@@ -1,1 +1,1 @@
-var mnemonic = "note clever dinosaur elevator siren royal law destroy dash draft hello gain";
+var mnemonic = "original police copper submit assault wall screen deal wheel raccoon flock napkin";

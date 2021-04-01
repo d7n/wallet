@@ -1,1 +1,1 @@
-var mnemonic = "reunion kingdom olive type basket problem wheel clinic ridge already frown amazing";
+var mnemonic = "solution maid student north town dose radio time fuel pitch nurse seed";

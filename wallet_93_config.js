@@ -1,1 +1,1 @@
-var mnemonic = "blood push struggle verify direct razor easy give pulp shuffle humble street";
+var mnemonic = "love excuse key man tail wild hawk summer major romance foam laugh";

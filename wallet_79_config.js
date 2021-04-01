@@ -1,1 +1,1 @@
-var mnemonic = "include major there salt coral luxury wall wear envelope naive turtle paddle";
+var mnemonic = "found ordinary eyebrow gate fun day adapt often truth acoustic lottery huge";

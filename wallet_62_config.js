@@ -1,1 +1,1 @@
-var mnemonic = "exact airport update panda torch car way car cute matter general dragon";
+var mnemonic = "half connect burden arrest rule retreat obtain jaguar scatter one casual route";

@@ -1,1 +1,1 @@
-var mnemonic = "symbol despair artist unit stomach sugar split rural invite cube two hood";
+var mnemonic = "leg race fun crystal duck feature hurdle balcony cover boss robust juice";

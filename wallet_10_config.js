@@ -1,1 +1,1 @@
-var mnemonic = "quiz autumn sing subway symptom obtain twist lamp can armed tape soft";
+var mnemonic = "proof beauty you crazy conduct power clarify earth slab already label crew";

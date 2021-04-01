@@ -1,1 +1,1 @@
-var mnemonic = "paper tiger legend valley pumpkin short scheme suit hope infant stuff brain";
+var mnemonic = "balcony desk lock disagree case tray tornado zebra marine load toe elevator";

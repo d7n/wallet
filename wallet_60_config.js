@@ -1,1 +1,1 @@
-var mnemonic = "arrange cloud melody chalk fitness tomato moon flee egg oppose siege wall";
+var mnemonic = "grit glance cave expand either include earth fitness toe smooth crazy mutual";

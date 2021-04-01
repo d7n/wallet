@@ -1,1 +1,1 @@
-var mnemonic = "rack exist equip hungry math proof announce smart pyramid street sausage thing";
+var mnemonic = "lava gesture author about excite indicate head tooth clock stamp effort keep";

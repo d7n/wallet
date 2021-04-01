@@ -1,1 +1,1 @@
-var mnemonic = "pistol rather action enlist leave major iron leader scout meat globe loop";
+var mnemonic = "census diesel settle grain vanish energy bind couple voice panda adult announce";

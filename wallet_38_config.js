@@ -1,1 +1,1 @@
-var mnemonic = "sea track list page trade denial across patch whip mushroom faith jump";
+var mnemonic = "farm topple demise lottery swear drift luggage language arrive garage wolf science";

@@ -1,1 +1,1 @@
-var mnemonic = "upper fame struggle above zero private faculty melt fog joy original color";
+var mnemonic = "size hover text cable process alone cash roast obtain crash rebuild reason";

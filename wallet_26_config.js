@@ -1,1 +1,1 @@
-var mnemonic = "oxygen armed reunion system long faculty mistake render jelly during equip suit";
+var mnemonic = "unusual unaware basket casual journey elephant network myth outdoor suggest orbit mutual";

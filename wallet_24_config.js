@@ -1,1 +1,1 @@
-var mnemonic = "disease radio raise shuffle step seat scout strong cigar dial upper cement";
+var mnemonic = "element room glimpse razor exile adult climb style enact round stamp laugh";

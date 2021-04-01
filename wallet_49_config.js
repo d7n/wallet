@@ -1,1 +1,1 @@
-var mnemonic = "pig copper blood easy vicious army hammer dilemma zone damp tissue spirit";
+var mnemonic = "donate follow field swing wreck blame spin share number wink fix hockey";

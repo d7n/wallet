@@ -1,1 +1,1 @@
-var mnemonic = "dutch grain island write mandate burden cute snack keep test scout intact";
+var mnemonic = "recall urge shrug night ship broom gather tennis churn mobile erase jump";

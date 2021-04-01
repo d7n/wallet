@@ -1,1 +1,1 @@
-var mnemonic = "hazard record rocket scare erupt kitchen identify special bachelor aspect skull better";
+var mnemonic = "element sport butter antique forget chronic smart steak prevent business rug beyond";

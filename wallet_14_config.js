@@ -1,1 +1,1 @@
-var mnemonic = "price option powder poverty clown message near chimney note despair hobby bronze";
+var mnemonic = "mass iron child blanket equip brown review another work nest proud dice";

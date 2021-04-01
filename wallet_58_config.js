@@ -1,1 +1,1 @@
-var mnemonic = "cup next ceiling chunk appear ready lizard happy symptom upper mention sight";
+var mnemonic = "dance tongue change lunar toward stick chest evidence advice income innocent goddess";

@@ -1,1 +1,1 @@
-var mnemonic = "stairs cactus isolate trust clean stereo peasant alert pact slab unknown gloom";
+var mnemonic = "ramp chat hood arrange insect family test priority property fluid divert wagon";

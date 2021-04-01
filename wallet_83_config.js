@@ -1,1 +1,1 @@
-var mnemonic = "skirt system scout lyrics bracket announce reform cable reason typical misery able";
+var mnemonic = "stuff pipe casino rapid bench power custom soul stand promote tumble south";

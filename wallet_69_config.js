@@ -1,1 +1,1 @@
-var mnemonic = "patch odor fringe inform eight sunset usual equal book lawsuit phrase spawn";
+var mnemonic = "attract lecture nerve around film impose frown over minor sense funny steak";

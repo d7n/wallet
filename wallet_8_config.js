@@ -1,1 +1,1 @@
-var mnemonic = "guilt obscure velvet twelve parent giggle tribe maximum warm damp wrist front";
+var mnemonic = "slice melt tattoo choose purpose crazy juice invest honey bar despair divert";

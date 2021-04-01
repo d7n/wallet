@@ -1,1 +1,1 @@
-var mnemonic = "gasp frequent laptop turkey move margin sing weather region forward bargain oil";
+var mnemonic = "spin mule strong airport rally original device term solid dog city aisle";

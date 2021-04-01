@@ -1,1 +1,1 @@
-var mnemonic = "aware quote aerobic rally basic art chunk matter army hen hill trade";
+var mnemonic = "snake wrong hammer steel such radar helmet hawk original decline slush reopen";

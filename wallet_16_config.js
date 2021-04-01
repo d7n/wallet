@@ -1,1 +1,1 @@
-var mnemonic = "voyage entire hour card mind brass kiss verify cherry science dutch inject";
+var mnemonic = "clump velvet victory earth must boost road noble offer humor cigar glow";

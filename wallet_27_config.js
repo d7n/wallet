@@ -1,1 +1,1 @@
-var mnemonic = "version shrimp sign love agent artwork clutch ranch gallery silk twelve enable";
+var mnemonic = "arch wise school chalk insane correct hamster obey prepare crumble click peasant";

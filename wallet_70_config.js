@@ -1,1 +1,1 @@
-var mnemonic = "will flight reopen sight calm country proof organ choose choose brain know";
+var mnemonic = "advice expect alarm boring minor update estate assume dynamic place apart sure";

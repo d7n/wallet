@@ -1,1 +1,1 @@
-var mnemonic = "virus faith matter delay cargo shoe snack alter drift border film keep";
+var mnemonic = "buzz effort trick miss acoustic excess elevator anchor squirrel mobile budget light";

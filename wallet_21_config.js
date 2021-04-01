@@ -1,1 +1,1 @@
-var mnemonic = "three lesson future voyage slot arrive tube satoshi clinic fun rain regret";
+var mnemonic = "width enter party cook pottery squirrel come prepare phrase donor layer isolate";

@@ -1,1 +1,1 @@
-var mnemonic = "account noble nurse cabbage ensure metal conduct act lens gasp amateur half";
+var mnemonic = "embrace bicycle empty castle holiday frog neglect unfold blouse vote rally person";

@@ -1,1 +1,1 @@
-var mnemonic = "razor eagle armed eye latin old indicate dinosaur cargo menu gain favorite";
+var mnemonic = "album crop define dumb faint stomach brief tumble foil loan across team";

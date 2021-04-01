@@ -1,1 +1,1 @@
-var mnemonic = "kiss play measure wrong solve alien era any average raise current trick";
+var mnemonic = "page attend hold inhale adapt prison wrist confirm nature text glue achieve";

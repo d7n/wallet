@@ -1,1 +1,1 @@
-var mnemonic = "choose brief leg steak train october clutch response cute resource success nothing";
+var mnemonic = "panda thrive sudden runway cheese enjoy plug know raise position enough salmon";

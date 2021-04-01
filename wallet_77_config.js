@@ -1,1 +1,1 @@
-var mnemonic = "rug celery galaxy fuel armor air sausage pulse cruise holiday rude flush";
+var mnemonic = "typical dirt waste vivid caution scheme gather taxi such grass outer elite";

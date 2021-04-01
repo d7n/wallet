@@ -1,1 +1,1 @@
-var mnemonic = "title junk hazard rookie lock fiscal account animal wet rule endless trim";
+var mnemonic = "brother device mystery artwork picture arrest joke nut alcohol alter project agent";

@@ -1,1 +1,1 @@
-var mnemonic = "tooth ill grape current able tribe party hollow inquiry album remove erode";
+var mnemonic = "height bomb world cash atom arctic truck ring kitchen like hour human";

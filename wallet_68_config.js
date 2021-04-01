@@ -1,1 +1,1 @@
-var mnemonic = "pluck market rich brush asthma actual virtual weasel own sea casino denial";
+var mnemonic = "print install network believe labor wink glad trash vast sock wine success";

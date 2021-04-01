@@ -1,1 +1,1 @@
-var mnemonic = "shoot cattle remember country tunnel year agent power normal remain ketchup seven";
+var mnemonic = "train another helmet assume setup space exact bottom deposit outside again skin";

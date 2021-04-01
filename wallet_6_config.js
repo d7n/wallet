@@ -1,1 +1,1 @@
-var mnemonic = "filter table debris tonight fatal try upon that zone grape suffer cliff";
+var mnemonic = "acoustic bind brown empower trip execute chalk duty pull crop amount crowd";
