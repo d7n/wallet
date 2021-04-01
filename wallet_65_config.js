@@ -1,1 +1,1 @@
-var mnemonic = "valid hockey car chapter ride reunion blouse biology wheel pledge hidden loan";
+var mnemonic = "battle celery sword orange close endorse play amount exit dance exclude neither";

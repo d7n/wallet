@@ -1,1 +1,1 @@
-var mnemonic = "shallow orient mistake venue practice daughter false disagree panther lyrics piece subject";
+var mnemonic = "oil burden arrow reduce stove shock artwork tragic ribbon theory egg wool";

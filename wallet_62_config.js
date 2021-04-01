@@ -1,1 +1,1 @@
-var mnemonic = "rude maid easily cream bicycle tank fancy sudden ticket shell turn empower";
+var mnemonic = "attend try bleak youth accident before method purpose nominee tissue member retire";

@@ -1,1 +1,1 @@
-var mnemonic = "tide stairs forum one century shuffle retreat glow biology coconut awful concert";
+var mnemonic = "rebel eye horn fragile cycle tube chunk cost pistol rib infant deal";

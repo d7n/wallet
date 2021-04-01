@@ -1,1 +1,1 @@
-var mnemonic = "census bridge add muffin spike twice hungry glimpse such art major stamp";
+var mnemonic = "champion west tackle praise shop corn punch reunion penalty abstract attend luxury";

@@ -1,1 +1,1 @@
-var mnemonic = "cigar winner artwork faculty short solid dentist science stove loan hope list";
+var mnemonic = "abandon attack used fog divide illegal march utility genius gym dove actor";

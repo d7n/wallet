@@ -1,1 +1,1 @@
-var mnemonic = "cart uniform chief general depend guess side praise aware valid fresh reason";
+var mnemonic = "believe hill video hidden bless drive spare perfect sense patient dial around";

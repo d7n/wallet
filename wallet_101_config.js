@@ -1,1 +1,1 @@
-var mnemonic = "smile rubber occur fantasy basic save insane wish maple virtual moment arch";
+var mnemonic = "law gown olive correct narrow strong march marble elbow ankle sugar prefer";

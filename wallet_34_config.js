@@ -1,1 +1,1 @@
-var mnemonic = "pattern supreme drama junk adult sense pizza win focus rebuild blossom future";
+var mnemonic = "concert someone apology couple comfort all lady obey amused major winner garage";

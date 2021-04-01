@@ -1,1 +1,1 @@
-var mnemonic = "tennis asset cage can matter duck shoot minute hire travel cover lady";
+var mnemonic = "raven ocean tiny jump crucial mechanic weekend bitter chest actual situate ocean";

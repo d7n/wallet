@@ -1,1 +1,1 @@
-var mnemonic = "correct slim inflict reduce dune glue under debris reflect person demise pink";
+var mnemonic = "excuse truly kind veteran change enemy since thrive body fiscal copper neither";

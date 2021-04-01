@@ -1,1 +1,1 @@
-var mnemonic = "blind guess clock lend grunt area practice sound drive notable twice above";
+var mnemonic = "crane auction diet convince valid enemy history bind smoke shed artist ritual";

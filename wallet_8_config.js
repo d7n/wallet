@@ -1,1 +1,1 @@
-var mnemonic = "pepper jar sunset taxi cliff embrace fringe silent chair surround purchase sick";
+var mnemonic = "grab giant green enact steel fury indoor mask dinosaur live rose humble";

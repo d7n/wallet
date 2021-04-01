@@ -1,1 +1,1 @@
-var mnemonic = "level employ lunar visual arch trick glue lion wonder nasty congress garlic";
+var mnemonic = "illegal liquid leisure veteran lesson story cup wonder globe cute maid fee";

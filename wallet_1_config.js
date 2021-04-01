@@ -1,1 +1,1 @@
-var mnemonic = "blue vendor manual guitar decline glass orchard scissors report village hobby bar";
+var mnemonic = "second admit add boss wonder bread stage clean theme profit next tenant";

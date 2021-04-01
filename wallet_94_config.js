@@ -1,1 +1,1 @@
-var mnemonic = "pencil judge wedding inherit seven enact name castle differ clock long release";
+var mnemonic = "judge private prepare review radio embark grit banner acid type spare latin";

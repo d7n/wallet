@@ -1,1 +1,1 @@
-var mnemonic = "garbage garden filter early fetch flush lawn chalk ecology pen place staff";
+var mnemonic = "dose subject vehicle twin foster tower bright roast age south fly curve";

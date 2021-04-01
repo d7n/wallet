@@ -1,1 +1,1 @@
-var mnemonic = "transfer orbit couch fragile treat emerge mention symbol envelope keen shallow super";
+var mnemonic = "address inherit regret initial area journey exotic ocean knock pudding raven remain";

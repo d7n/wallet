@@ -1,1 +1,1 @@
-var mnemonic = "buffalo blame peasant craft decide village spatial skin avocado permit inch dragon";
+var mnemonic = "main oak push pottery pizza fence basket sheriff abuse clap kingdom magic";

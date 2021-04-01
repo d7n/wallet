@@ -1,1 +1,1 @@
-var mnemonic = "supreme hat lift beef mystery pilot autumn empower essence divide twenty family";
+var mnemonic = "viable offer lesson run goose right volcano panic chaos shrug flash fly";

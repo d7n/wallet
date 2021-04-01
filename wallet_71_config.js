@@ -1,1 +1,1 @@
-var mnemonic = "obvious gap another fruit assume dinosaur genuine hawk usage brand romance custom";
+var mnemonic = "veteran cluster submit between wash hidden coach door wide matrix bleak device";

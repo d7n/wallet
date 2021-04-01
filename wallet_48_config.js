@@ -1,1 +1,1 @@
-var mnemonic = "blood insane lend love giant member there father lounge group dust dream";
+var mnemonic = "faint minute table faith issue diagram water reward sick step essence width";

@@ -1,1 +1,1 @@
-var mnemonic = "napkin front sauce pulp buzz envelope dwarf fiction gift win sudden wash";
+var mnemonic = "cube crawl mercy airport moment daring little search brass spy sting flame";

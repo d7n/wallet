@@ -1,1 +1,1 @@
-var mnemonic = "hint sure grant law baby index toddler solve type friend tunnel knife";
+var mnemonic = "photo grass cool more length glimpse logic exile vague hybrid caught cook";

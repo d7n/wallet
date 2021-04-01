@@ -1,1 +1,1 @@
-var mnemonic = "viable heart focus pottery carpet scare garden regular wrong album genius certain";
+var mnemonic = "accuse smile chase piano celery leave bike bright vacant menu castle twelve";

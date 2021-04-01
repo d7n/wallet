@@ -1,1 +1,1 @@
-var mnemonic = "gospel dismiss escape sudden jeans possible electric family capital drama merge blast";
+var mnemonic = "pave entry brave memory number robust bird canyon put mandate panda panther";

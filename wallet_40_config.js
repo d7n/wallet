@@ -1,1 +1,1 @@
-var mnemonic = "over save cupboard moral shop double kit monster corn inmate edge upset";
+var mnemonic = "skate hire shoe rebel ensure firm attend garage near twenty journey split";

@@ -1,1 +1,1 @@
-var mnemonic = "ecology member thing plastic fiction lazy cactus pulp reason happy solve universe";
+var mnemonic = "main future hire opera enough address ahead valve horse clay farm tumble";

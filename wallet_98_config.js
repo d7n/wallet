@@ -1,1 +1,1 @@
-var mnemonic = "giggle assume blast best credit ignore approve grass coil captain health april";
+var mnemonic = "trim ritual planet method spare drink visa practice win owner garlic couch";

@@ -1,1 +1,1 @@
-var mnemonic = "brown scene luggage cabin vacuum rebel funny syrup stove shallow nurse twin";
+var mnemonic = "bulk tomato wagon defy space snow effort correct year edit shaft cloud";

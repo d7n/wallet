@@ -1,1 +1,1 @@
-var mnemonic = "film adult body spell unaware drama famous black pioneer nest fold artwork";
+var mnemonic = "fiscal primary gossip suit orchard bird siege learn pill loan link envelope";

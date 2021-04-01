@@ -1,1 +1,1 @@
-var mnemonic = "point answer sight anxiety any soda fade claim nuclear weird mixed skin";
+var mnemonic = "achieve replace start upgrade account ketchup lunch alley differ fiction melody island";

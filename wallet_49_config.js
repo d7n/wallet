@@ -1,1 +1,1 @@
-var mnemonic = "urge pilot major correct scorpion retreat wedding same subject good hill shell";
+var mnemonic = "wave fame deny seminar snap glue treat minute derive light spin body";

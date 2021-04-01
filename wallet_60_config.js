@@ -1,1 +1,1 @@
-var mnemonic = "sight matter innocent twelve rotate combine actor gym tree produce just soft";
+var mnemonic = "able much security asthma surprise frequent egg tip zebra aunt calm excite";

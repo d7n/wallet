@@ -1,1 +1,1 @@
-var mnemonic = "clever release loop elite benefit nature net diesel little notable hobby magic";
+var mnemonic = "company puppy grit series fork damage dress group there open heart begin";

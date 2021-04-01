@@ -1,1 +1,1 @@
-var mnemonic = "cost layer bag sand winner shrimp soccer october host smart present trumpet";
+var mnemonic = "sponsor mandate nurse tower palace leader neither catch spell amazing despair void";

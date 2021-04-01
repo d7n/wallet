@@ -1,1 +1,1 @@
-var mnemonic = "pulse tornado dentist vague hip old scorpion same umbrella now repair flock";
+var mnemonic = "typical sheriff south eternal want spray second can repair situate safe citizen";

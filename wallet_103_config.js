@@ -1,1 +1,1 @@
-var mnemonic = "reopen supreme vintage case eight disorder blind suggest grid grass refuse middle";
+var mnemonic = "include render loan style blossom mandate aerobic wasp slush bring boss elder";

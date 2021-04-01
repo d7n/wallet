@@ -1,1 +1,1 @@
-var mnemonic = "fatigue illegal middle harbor wisdom degree cactus trade dove bird hood primary";
+var mnemonic = "scatter habit yellow private wire wisdom remind depend run bus oyster era";

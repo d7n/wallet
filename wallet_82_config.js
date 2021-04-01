@@ -1,1 +1,1 @@
-var mnemonic = "shed hungry decrease trick disagree acquire okay aerobic destroy giant praise explain";
+var mnemonic = "unfair video ozone stumble immune feed payment beauty fog hamster gesture gold";

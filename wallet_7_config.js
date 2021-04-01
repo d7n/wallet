@@ -1,1 +1,1 @@
-var mnemonic = "luggage into deliver aisle grape master diagram tongue town spell resist panic";
+var mnemonic = "crush second arctic inject view ask penalty raw sun muffin core glory";

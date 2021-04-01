@@ -1,1 +1,1 @@
-var mnemonic = "coconut twelve blade office chest spare citizen image giant bitter worry glance";
+var mnemonic = "vote goddess solar mosquito dress rather arctic fragile slot omit citizen bus";

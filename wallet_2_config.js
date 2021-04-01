@@ -1,1 +1,1 @@
-var mnemonic = "area myth hand demand grape like food ghost media again rice process";
+var mnemonic = "peasant praise sunny dice distance noodle wisdom that ancient diet have source";

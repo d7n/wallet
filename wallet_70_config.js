@@ -1,1 +1,1 @@
-var mnemonic = "rebuild then juice host amateur million vague evolve merge bitter fancy oxygen";
+var mnemonic = "bench toy moon goat dilemma bubble fragile drama tiger trash opinion case";

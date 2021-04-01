@@ -1,1 +1,1 @@
-var mnemonic = "list width hour banner apple pull degree woman tackle glare suit apple";
+var mnemonic = "faith move trend bench oven team boring denial salmon empty dolphin reduce";

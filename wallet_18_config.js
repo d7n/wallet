@@ -1,1 +1,1 @@
-var mnemonic = "inspire blood defy round accuse spot liberty novel voice clip tired monitor";
+var mnemonic = "right lesson scout glory option essay repair hand cute remain fashion window";

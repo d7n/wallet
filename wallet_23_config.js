@@ -1,1 +1,1 @@
-var mnemonic = "ramp race casual small artefact clay gadget click nurse mutual banner guilt";
+var mnemonic = "auto burger junior track tornado hood victory board split satisfy include subject";

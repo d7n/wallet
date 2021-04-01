@@ -1,1 +1,1 @@
-var mnemonic = "spoil bulk mixed beef link degree almost gold skirt faculty much credit";
+var mnemonic = "army kingdom desert want velvet good empty exit fantasy curve ski tortoise";

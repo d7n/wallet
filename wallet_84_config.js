@@ -1,1 +1,1 @@
-var mnemonic = "trap trap broken deposit burst emotion glove duty climb lyrics arrive spy";
+var mnemonic = "ginger patrol marriage speak assault nice adult strategy glow illness board fly";

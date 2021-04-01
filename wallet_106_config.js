@@ -1,1 +1,1 @@
-var mnemonic = "shift olympic such burst measure quality day reduce fetch strike wife spring";
+var mnemonic = "material sight ball left goose ostrich hub prefer fit gas wine engine";

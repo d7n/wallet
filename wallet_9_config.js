@@ -1,1 +1,1 @@
-var mnemonic = "tomato this habit view view evolve method food thought ride orange fold";
+var mnemonic = "brick limb culture south spike drama profit exist guess describe episode jealous";

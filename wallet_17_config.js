@@ -1,1 +1,1 @@
-var mnemonic = "drink motion physical wet square cruise roast assist rabbit pull rapid wire";
+var mnemonic = "clay fiscal onion split trumpet street above era cupboard student chest twenty";

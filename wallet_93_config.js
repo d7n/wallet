@@ -1,1 +1,1 @@
-var mnemonic = "citizen jacket tank frog anxiety crater excite twenty possible speak fox puzzle";
+var mnemonic = "science report cost salmon next raise cage tuition sense pizza joy drink";

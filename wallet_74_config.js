@@ -1,1 +1,1 @@
-var mnemonic = "attend oppose cannon like omit float exclude mammal hockey jealous area winter";
+var mnemonic = "noodle clarify supply pretty debris noble attend organ dumb mushroom gadget mountain";

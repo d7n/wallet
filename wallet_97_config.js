@@ -1,1 +1,1 @@
-var mnemonic = "castle finger mean robust impact board electric exotic myself laptop raccoon pole";
+var mnemonic = "object decrease quarter taxi rabbit when surface skill clutch fit siege horror";

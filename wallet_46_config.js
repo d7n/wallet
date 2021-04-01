@@ -1,1 +1,1 @@
-var mnemonic = "grant depart accuse wing master viable ribbon trial breeze peanut move mule";
+var mnemonic = "clump keep extend twin acoustic glad fence expire tell salon online smile";

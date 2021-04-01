@@ -1,1 +1,1 @@
-var mnemonic = "clarify domain echo guide remain cheese video empty humor job purpose hamster";
+var mnemonic = "mind bring grab screen quantum degree off merry arrow damp profit gravity";

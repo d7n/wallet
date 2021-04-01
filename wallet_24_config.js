@@ -1,1 +1,1 @@
-var mnemonic = "account lava loud element key beef deer hub rebuild verb often similar";
+var mnemonic = "fruit wheel found video mountain illegal sudden print pool behave coin magnet";

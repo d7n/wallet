@@ -1,1 +1,1 @@
-var mnemonic = "borrow shine seven man palace amateur tornado mirror pretty sting scrap mesh";
+var mnemonic = "arrow cash napkin broken regret machine theory fabric valley omit someone retreat";

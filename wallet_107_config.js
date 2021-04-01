@@ -1,1 +1,1 @@
-var mnemonic = "blur few region opera clip situate million chronic describe zebra fee almost";
+var mnemonic = "jungle mystery bulk field lucky chalk entry moment vessel wine fringe physical";

@@ -1,1 +1,1 @@
-var mnemonic = "echo broccoli gauge grunt jaguar must now place fit quarter chronic blame";
+var mnemonic = "strategy replace knock twice bulk behind flag bullet fiscal gun embark cross";

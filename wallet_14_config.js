@@ -1,1 +1,1 @@
-var mnemonic = "web obey census comic proof reflect rigid catch exhibit ankle nephew rain";
+var mnemonic = "leg unable quarter hole target daring ostrich print twenty state forum enough";

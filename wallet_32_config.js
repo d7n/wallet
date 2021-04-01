@@ -1,1 +1,1 @@
-var mnemonic = "mobile paddle salute novel lava first pioneer heavy renew lake alley dad";
+var mnemonic = "gesture dust vacuum agree menu female atom early undo fury purpose effort";

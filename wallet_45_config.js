@@ -1,1 +1,1 @@
-var mnemonic = "actual float enact off soft dust adjust rabbit hint correct scorpion intact";
+var mnemonic = "clutch enlist parent enjoy pumpkin pigeon retreat hotel useful normal supply find";

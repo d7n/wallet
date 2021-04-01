@@ -1,1 +1,1 @@
-var mnemonic = "pulp blame raven account aunt layer hold share journey wire ribbon next";
+var mnemonic = "trap also prosper warm obey fever trash meat staff time master era";

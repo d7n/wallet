@@ -1,1 +1,1 @@
-var mnemonic = "menu jaguar twelve grid slow legend various unlock couple divert fade defy";
+var mnemonic = "series state release simple erode round pilot donor walnut hat manual borrow";

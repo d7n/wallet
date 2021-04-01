@@ -1,1 +1,1 @@
-var mnemonic = "shine account quote subject upper humble crush carbon notice utility hire rack";
+var mnemonic = "solar twice parent luggage raise cruel intact egg moment wool fold major";

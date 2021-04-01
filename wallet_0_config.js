@@ -1,1 +1,1 @@
-var mnemonic = "climb olive fame mass wear bachelor blade banner mountain cash usage mean";
+var mnemonic = "cheese family close stage name now bacon object sphere shrimp detect aerobic";

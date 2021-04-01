@@ -1,1 +1,1 @@
-var mnemonic = "almost fragile blood estate embrace topple match rack fiscal session brick ability";
+var mnemonic = "alter deputy skill capital element tired wagon always clarify monster discover path";

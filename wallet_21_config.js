@@ -1,1 +1,1 @@
-var mnemonic = "vessel motion cycle dilemma donate outside zoo normal shell essay turkey purity";
+var mnemonic = "envelope become bottom orphan torch board shield power market senior flower slim";

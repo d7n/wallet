@@ -1,1 +1,1 @@
-var mnemonic = "immense attack skull area wing title glance office cereal glad song same";
+var mnemonic = "young crystal cluster detail concert worry upgrade ball road cargo payment true";

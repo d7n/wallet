@@ -1,1 +1,1 @@
-var mnemonic = "oblige illness save remove female plug talk mean onion knife fragile broken";
+var mnemonic = "this often term winter tank seek bid soon dress chronic author future";

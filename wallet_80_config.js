@@ -1,1 +1,1 @@
-var mnemonic = "balance purchase speak garlic wing sketch pink beyond expose spike drift explain";
+var mnemonic = "broken vote suggest occur pilot discover popular resist inspire erase winner icon";

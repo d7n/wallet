@@ -1,1 +1,1 @@
-var mnemonic = "rabbit attack boat embody quantum silent sting banner milk inherit runway jump";
+var mnemonic = "abandon author unit warrior present erode wild champion gas rhythm remain faculty";

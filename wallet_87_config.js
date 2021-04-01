@@ -1,1 +1,1 @@
-var mnemonic = "various kiwi sleep travel pair float mean small embark warm lottery canvas";
+var mnemonic = "exchange slide soccer casual unusual decorate hope nuclear fresh nothing stick garment";

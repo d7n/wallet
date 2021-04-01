@@ -1,1 +1,1 @@
-var mnemonic = "manage valid coach body ignore siren inform spy guess child dilemma clown";
+var mnemonic = "monster veteran deposit ensure mixed magnet banana gloom hole force spatial exhaust";

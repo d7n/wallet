@@ -1,1 +1,1 @@
-var mnemonic = "shallow innocent approve promote fog sand bamboo mean approve flock pigeon private";
+var mnemonic = "fault advice sorry tool infant gift silk monitor inside obey muscle jealous";

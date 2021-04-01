@@ -1,1 +1,1 @@
-var mnemonic = "law prosper night mixed bottom put begin conduct suffer inflict tag fluid";
+var mnemonic = "throw inflict duty resemble title inspire drink alert close silly cactus flower";

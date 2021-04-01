@@ -1,1 +1,1 @@
-var mnemonic = "comfort extra assault fiscal drip render stumble evidence physical rose blanket top";
+var mnemonic = "best delay car vintage heavy exit window boat jewel tuition cake world";

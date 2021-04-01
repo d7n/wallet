@@ -1,1 +1,1 @@
-var mnemonic = "indicate student place garbage you lawsuit joy spoil only battle shy web";
+var mnemonic = "rebuild proud tomato hotel cheap news exile spin bullet depart draft suit";

@@ -1,1 +1,1 @@
-var mnemonic = "describe wrap wool medal above volcano sleep stone saddle fame popular genius";
+var mnemonic = "shoe pattern hurdle drastic obtain hover guess absurd current coast east grace";

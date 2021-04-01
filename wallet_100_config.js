@@ -1,1 +1,1 @@
-var mnemonic = "music ticket knee foot weasel tip skull match spice lion oven marine";
+var mnemonic = "ice spice erosion museum twin calm ill essay decline problem blade win";

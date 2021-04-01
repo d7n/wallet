@@ -1,1 +1,1 @@
-var mnemonic = "city math crawl board eager foil gun danger message assume raven strategy";
+var mnemonic = "blade hungry first people win crisp father current major main rate damage";

@@ -1,1 +1,1 @@
-var mnemonic = "school stable february deer exhaust truck brick napkin fruit eyebrow soccer symbol";
+var mnemonic = "practice rich logic tape goat viable kitchen tone remove satoshi floor across";

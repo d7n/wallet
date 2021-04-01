@@ -1,1 +1,1 @@
-var mnemonic = "pole drop act staff mixed gift crush random another add plate pet";
+var mnemonic = "around exercise man hello wash digital prosper ordinary upgrade season clay twice";

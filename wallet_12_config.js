@@ -1,1 +1,1 @@
-var mnemonic = "amateur combine enable often clown sense concert history noodle invite slot cloth";
+var mnemonic = "attract ketchup mutual bomb ten foster brand blush coin punch now end";
