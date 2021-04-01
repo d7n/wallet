@@ -1,1 +1,1 @@
-var mnemonic = "leopard dinosaur salute flip office aunt left orange access unfair cry toward";
+var mnemonic = "sport eight transfer amused receive tired mandate pave pole crack green tired";

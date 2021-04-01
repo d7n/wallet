@@ -1,1 +1,1 @@
-var mnemonic = "defy hope follow atom possible arrow develop library verify other safe lizard";
+var mnemonic = "train crater giggle rough net universe write what solution bid lock damp";

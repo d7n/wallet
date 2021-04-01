@@ -1,1 +1,1 @@
-var mnemonic = "prize chronic churn donate calm flush version atom steel hand obey recipe";
+var mnemonic = "pluck add fiber pottery local fat else pencil vibrant water chalk monitor";

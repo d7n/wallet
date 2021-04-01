@@ -1,1 +1,1 @@
-var mnemonic = "hobby talk shield boy cinnamon broken athlete name foil pitch symptom beyond";
+var mnemonic = "rich huge income nominee hat slight finish cause remind piano similar inform";

@@ -1,1 +1,1 @@
-var mnemonic = "oak mule pipe pole rally plunge cycle aerobic valve call leopard pistol";
+var mnemonic = "era ritual shallow jungle wing derive return eternal scissors light bright hurt";

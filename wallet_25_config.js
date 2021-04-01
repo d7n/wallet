@@ -1,1 +1,1 @@
-var mnemonic = "enemy habit recycle curve wisdom escape forum forward use stove capital step";
+var mnemonic = "know start venture soon motion trouble frown next swamp brain team typical";

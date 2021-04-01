@@ -1,1 +1,1 @@
-var mnemonic = "share meat jewel disorder wait motion poverty timber satisfy oil idle devote";
+var mnemonic = "use supreme trumpet stereo describe fan trim margin gesture ill vivid clever";

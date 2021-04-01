@@ -1,1 +1,1 @@
-var mnemonic = "cotton conduct accident settle someone crumble glimpse master ozone couple client uphold";
+var mnemonic = "aisle benefit jungle sign morning bounce oyster surge code blanket outer figure";

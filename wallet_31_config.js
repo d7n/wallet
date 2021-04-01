@@ -1,1 +1,1 @@
-var mnemonic = "science soft honey wrap hip topic unknown glow badge congress course fiction";
+var mnemonic = "orange boil kite rookie tip major loyal vintage surge middle element repeat";

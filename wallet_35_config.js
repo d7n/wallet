@@ -1,1 +1,1 @@
-var mnemonic = "expire lunar nephew deal course face exit type novel purity wrap expect";
+var mnemonic = "damage exile put bachelor tape miracle alcohol stable panic alter gesture doctor";

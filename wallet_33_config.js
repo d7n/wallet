@@ -1,1 +1,1 @@
-var mnemonic = "until vocal peanut item essence club drastic sorry property right claim fever";
+var mnemonic = "uniform sponsor kangaroo hub cat sketch build sand eager vehicle culture medal";

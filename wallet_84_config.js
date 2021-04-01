@@ -1,1 +1,1 @@
-var mnemonic = "page category symbol range shop again attack peace similar run maid mind";
+var mnemonic = "face safe love shuffle toast spirit embody warrior jewel bid kick level";

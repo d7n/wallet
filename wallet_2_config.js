@@ -1,1 +1,1 @@
-var mnemonic = "sadness sunny struggle demand hobby rally brave office unit tortoise venue gown";
+var mnemonic = "duck wink bachelor token general seminar pull fade ceiling donor crop rather";

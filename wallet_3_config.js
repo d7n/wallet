@@ -1,1 +1,1 @@
-var mnemonic = "mandate borrow sheriff expose girl test wage frequent match attend relax cousin";
+var mnemonic = "enable tomato helmet harsh lunch dilemma payment upset educate salute hand tower";

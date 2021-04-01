@@ -1,1 +1,1 @@
-var mnemonic = "east jaguar forget budget luggage jewel immune sure jazz naive quarter jacket";
+var mnemonic = "chronic divorce garden penalty train arrive hen cheap key team sell enemy";

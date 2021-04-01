@@ -1,1 +1,1 @@
-var mnemonic = "suit radio diamond disorder afraid image pluck absorb biology whale hidden cup";
+var mnemonic = "estate witness inhale quiz kitchen excuse then reduce senior rack someone beef";

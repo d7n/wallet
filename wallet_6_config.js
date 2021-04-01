@@ -1,1 +1,1 @@
-var mnemonic = "camera horn wagon fragile fetch use program side venue silver ordinary color";
+var mnemonic = "daughter youth disagree mask virus heavy citizen relax before govern wagon addict";

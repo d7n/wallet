@@ -1,1 +1,1 @@
-var mnemonic = "logic nose script apple venue asset subject solve decade plastic imitate alone";
+var mnemonic = "worth twist regular final inquiry rich stable veteran gadget cube private area";

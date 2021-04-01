@@ -1,1 +1,1 @@
-var mnemonic = "situate airport moral garage tiny imitate borrow borrow clutch gym renew license";
+var mnemonic = "cable useless core orbit because pottery exotic fan embody fringe tragic bitter";

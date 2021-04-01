@@ -1,1 +1,1 @@
-var mnemonic = "art toss cloth burst hurdle one liberty wealth envelope wife end elite";
+var mnemonic = "pizza sketch tongue top helmet garment panda evidence seven awesome vacant found";

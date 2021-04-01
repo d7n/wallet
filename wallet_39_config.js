@@ -1,1 +1,1 @@
-var mnemonic = "miracle target since polar tuna crawl february main violin slush educate escape";
+var mnemonic = "bread phrase enter under sadness pelican begin effort midnight tackle drama illness";

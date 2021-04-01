@@ -1,1 +1,1 @@
-var mnemonic = "outside click tuna sketch token forest display announce oven enter cash mind";
+var mnemonic = "strategy ship resist doll edit struggle grid visit wait chronic wasp elite";

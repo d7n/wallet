@@ -1,1 +1,1 @@
-var mnemonic = "mule ski cactus aunt drum tuna acid stable lake dad coach cannon";
+var mnemonic = "catalog total dress sad lemon film urge hard vapor supply furnace neither";

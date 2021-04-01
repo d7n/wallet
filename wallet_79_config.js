@@ -1,1 +1,1 @@
-var mnemonic = "fine bacon genuine pill hungry spring vanish blue enforce reunion armed hybrid";
+var mnemonic = "envelope blur catch save agent tired air wet ready soul celery lounge";

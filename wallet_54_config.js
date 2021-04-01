@@ -1,1 +1,1 @@
-var mnemonic = "sun raccoon right useless public next elephant trust hunt drill either sense";
+var mnemonic = "oyster tortoise menu keen squeeze ensure neutral cattle harsh goose found wave";

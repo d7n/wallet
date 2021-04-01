@@ -1,1 +1,1 @@
-var mnemonic = "all junior health replace fiction wine brass educate chase ocean sense rural";
+var mnemonic = "wood blossom rich soap photo any wagon emotion enter fold raise crater";

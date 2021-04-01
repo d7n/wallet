@@ -1,1 +1,1 @@
-var mnemonic = "stamp visit fancy crumble roof where story idea enrich viable inquiry panda";
+var mnemonic = "barely sword metal frame child atom soap because payment ankle clutch lift";

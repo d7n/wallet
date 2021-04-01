@@ -1,1 +1,1 @@
-var mnemonic = "visual globe harbor banana panda purpose enrich slot harsh umbrella suggest sign";
+var mnemonic = "word margin blanket ticket artwork club island zero palace describe grunt medal";

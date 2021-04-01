@@ -1,1 +1,1 @@
-var mnemonic = "wave camera typical unhappy twice truth mountain claim excuse remember want current";
+var mnemonic = "nominee dove palace debris lava strong bright remain damp eagle giraffe head";

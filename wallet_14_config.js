@@ -1,1 +1,1 @@
-var mnemonic = "conduct main receive more timber practice gauge response rigid zebra keen note";
+var mnemonic = "come shuffle business shy labor skin cruel magic cheese celery talent despair";

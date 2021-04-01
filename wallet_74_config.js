@@ -1,1 +1,1 @@
-var mnemonic = "sense wrong copy host snow target evolve gloom ability figure receive student";
+var mnemonic = "ready insect clean mean wall interest twenty mix unit quality solve outside";

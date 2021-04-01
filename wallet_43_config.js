@@ -1,1 +1,1 @@
-var mnemonic = "convince genre mandate better endless other snap toss decide fever brisk push";
+var mnemonic = "invest save reflect foil borrow hen defy problem decide piano duty gallery";

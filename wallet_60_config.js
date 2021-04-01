@@ -1,1 +1,1 @@
-var mnemonic = "wagon churn dash only bike place merge frame company parrot cherry agent";
+var mnemonic = "minimum clutch digital clean charge flat tortoise diesel coffee grant learn venture";

@@ -1,1 +1,1 @@
-var mnemonic = "crystal february lunch sibling another brick film fresh future track jelly upgrade";
+var mnemonic = "axis lyrics ankle actor swear where category spider galaxy barely sphere obscure";

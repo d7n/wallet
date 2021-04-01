@@ -1,1 +1,1 @@
-var mnemonic = "oxygen radar sunny name game hire midnight void toward sing cup coast";
+var mnemonic = "off distance planet jump entire brick riot buffalo image tenant sponsor cactus";

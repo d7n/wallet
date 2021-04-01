@@ -1,1 +1,1 @@
-var mnemonic = "motor notice banana hammer vague december video lucky present next lucky hollow";
+var mnemonic = "decide under weapon reflect enjoy play brisk bacon absurd rate sport bottom";

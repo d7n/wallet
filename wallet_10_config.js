@@ -1,1 +1,1 @@
-var mnemonic = "satoshi current laugh warfare badge stock scare blossom actor pink mind marble";
+var mnemonic = "boss beauty toilet suit finger shoulder love mass number orient frequent danger";

@@ -1,1 +1,1 @@
-var mnemonic = "acid insane arm language spawn always physical island intact area know vague";
+var mnemonic = "mad truly transfer version alley isolate cricket unknown unique pave number pioneer";

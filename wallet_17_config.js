@@ -1,1 +1,1 @@
-var mnemonic = "absurd fork duty suspect thing curious stand immense game figure daughter travel";
+var mnemonic = "eyebrow opera culture lava thumb various dragon float patient reveal night clog";

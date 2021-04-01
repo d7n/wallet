@@ -1,1 +1,1 @@
-var mnemonic = "genuine desert follow chat visa write potato over swing search talent cool";
+var mnemonic = "whale cover pupil front carry north crucial next guilt pitch spike cart";

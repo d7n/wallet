@@ -1,1 +1,1 @@
-var mnemonic = "fragile hospital salt become best medal crumble jelly shine theory hidden jaguar";
+var mnemonic = "faculty area spoil inherit okay cactus robot cricket around forward certain story";

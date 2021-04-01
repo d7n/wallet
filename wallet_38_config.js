@@ -1,1 +1,1 @@
-var mnemonic = "split wish okay token style minor tide area hamster again journey lamp";
+var mnemonic = "replace axis hint muscle talent what shrimp twenty innocent bomb news solution";

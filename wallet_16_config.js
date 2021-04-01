@@ -1,1 +1,1 @@
-var mnemonic = "slide grab awful extend deliver simple finish airport jaguar water decorate farm";
+var mnemonic = "awesome frown head method sword daring urge winner neglect this attitude victory";

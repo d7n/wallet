@@ -1,1 +1,1 @@
-var mnemonic = "mean business excite permit offer luggage client pride cram math diet matter";
+var mnemonic = "govern soon unknown juice bread tired useful liar path bracket cake celery";

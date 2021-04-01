@@ -1,1 +1,1 @@
-var mnemonic = "raccoon abstract cradle retire team country prize appear session vintage hawk local";
+var mnemonic = "drift field giant subway frog remain march cupboard abandon critic edge guess";

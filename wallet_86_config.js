@@ -1,1 +1,1 @@
-var mnemonic = "shine know feel flash display tool brave february crawl country plug return";
+var mnemonic = "snap month appear grape erase assume march equip dice old phrase inject";

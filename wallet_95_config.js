@@ -1,1 +1,1 @@
-var mnemonic = "bar soccer kit sphere must canoe pottery rack accuse rib input iron";
+var mnemonic = "throw spot dinner keep lucky maple already angry tomato rib razor develop";

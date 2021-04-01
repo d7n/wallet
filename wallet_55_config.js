@@ -1,1 +1,1 @@
-var mnemonic = "cherry devote abstract return acoustic foot insane stone liberty hunt upset post";
+var mnemonic = "athlete wrap attack olympic apple sausage frog drill craft enlist donkey useless";

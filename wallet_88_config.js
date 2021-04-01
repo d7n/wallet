@@ -1,1 +1,1 @@
-var mnemonic = "useful cable legal paddle guitar future easy uncover medal region awake food";
+var mnemonic = "lottery morning economy gun body possible board cry sight curve giant soap";

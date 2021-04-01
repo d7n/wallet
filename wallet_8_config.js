@@ -1,1 +1,1 @@
-var mnemonic = "wing rail follow capital forget detail air boat radio abuse pony caution";
+var mnemonic = "sad endorse rebuild veteran island jaguar bless social problem illness praise affair";

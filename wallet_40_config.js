@@ -1,1 +1,1 @@
-var mnemonic = "rather angry sister spoon cargo clean recipe unveil scare gentle know erupt";
+var mnemonic = "proof busy afford foil want abstract despair sample subway deer okay public";

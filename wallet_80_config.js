@@ -1,1 +1,1 @@
-var mnemonic = "void pioneer loop someone rough cotton hold slender stand noble situate wink";
+var mnemonic = "corn multiply more kingdom upset antique caution until brand pyramid type dilemma";

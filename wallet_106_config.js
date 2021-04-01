@@ -1,1 +1,1 @@
-var mnemonic = "wish shield upon total sudden life debris gate convince car tomato doctor";
+var mnemonic = "flight produce party income shield garbage comfort address ivory palace obey high";

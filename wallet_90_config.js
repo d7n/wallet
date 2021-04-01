@@ -1,1 +1,1 @@
-var mnemonic = "gorilla sunset human replace shove sense cake base organ twin sponsor liberty";
+var mnemonic = "hunt mandate point security volcano liar rescue maple soda bind gun scout";

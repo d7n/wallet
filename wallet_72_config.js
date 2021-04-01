@@ -1,1 +1,1 @@
-var mnemonic = "found oval boss among pigeon frog race twice sample nut rescue borrow";
+var mnemonic = "mother crater kitten weird trouble cube audit unfold myth scene unable onion";

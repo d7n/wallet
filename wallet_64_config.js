@@ -1,1 +1,1 @@
-var mnemonic = "uncle crystal genius hungry same pretty image zebra coach soft census patrol";
+var mnemonic = "wedding truth proud shiver butter mad mix scissors meadow short slow ritual";

@@ -1,1 +1,1 @@
-var mnemonic = "record lake rookie pizza awkward fatal antique buffalo accuse wool disease seed";
+var mnemonic = "uncle cliff club light engine stage aerobic verify bargain flight awake canoe";

@@ -1,1 +1,1 @@
-var mnemonic = "burst left design plastic shine next put stuff crack mosquito health banner";
+var mnemonic = "bike ocean weather unhappy later ridge polar video dust canvas speak own";

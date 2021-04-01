@@ -1,1 +1,1 @@
-var mnemonic = "tattoo inherit near first taxi expire mango convince owner shed beauty betray";
+var mnemonic = "try saddle acquire monitor foil suffer medal east behave project smooth innocent";

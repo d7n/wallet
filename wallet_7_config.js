@@ -1,1 +1,1 @@
-var mnemonic = "ribbon spin obey input frog radar present poverty bid obtain glimpse monkey";
+var mnemonic = "street popular tourist system call exhaust saddle balcony common habit sad mimic";

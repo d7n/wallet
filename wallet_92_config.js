@@ -1,1 +1,1 @@
-var mnemonic = "fork east brick morning field popular skin under license cool banner capable";
+var mnemonic = "endless east addict cup turkey taste program inflict liquid add walnut ignore";

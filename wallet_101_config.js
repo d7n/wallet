@@ -1,1 +1,1 @@
-var mnemonic = "crazy purchase own month ask scare stadium injury trouble equip ring wife";
+var mnemonic = "term urge hero peace turtle wreck spread brisk target split now bachelor";

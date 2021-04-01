@@ -1,1 +1,1 @@
-var mnemonic = "jump envelope shrug rely puzzle account garbage column stable analyst stamp health";
+var mnemonic = "sweet crane obey car impulse allow range oxygen regular kid easy mix";

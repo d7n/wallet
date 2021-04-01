@@ -1,1 +1,1 @@
-var mnemonic = "risk cinnamon puzzle organ wealth plug gospel genre diamond harvest absorb casino";
+var mnemonic = "author raccoon flip aunt rose salt bubble north sort pulp cereal cotton";

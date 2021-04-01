@@ -1,1 +1,1 @@
-var mnemonic = "prison warm noble fee unable salad syrup clap fee simple employ reflect";
+var mnemonic = "swim capable rigid ten deal cloth energy dose bulb gospel settle wealth";

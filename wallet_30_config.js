@@ -1,1 +1,1 @@
-var mnemonic = "scare harvest announce south bleak worry autumn settle army twin roast gap";
+var mnemonic = "riot banner domain dawn piano truck merge text shoot burger crucial force";

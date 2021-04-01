@@ -1,1 +1,1 @@
-var mnemonic = "bargain seat orchard present dress risk romance obscure image shiver make skin";
+var mnemonic = "someone helmet hero normal common zone view client robust cute bargain sunset";

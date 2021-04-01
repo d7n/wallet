@@ -1,1 +1,1 @@
-var mnemonic = "coin pole bridge recycle maid drip pepper aunt twist virus census flight";
+var mnemonic = "welcome position mention hamster success car wheel spirit will cloth labor ready";

@@ -1,1 +1,1 @@
-var mnemonic = "feature clump cluster defense basic one sugar agree learn stem lunar pig";
+var mnemonic = "that rescue stock pottery crash laptop egg veteran insane obvious tumble act";

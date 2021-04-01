@@ -1,1 +1,1 @@
-var mnemonic = "hat bunker thumb fancy logic account early blouse bless cube behind valid";
+var mnemonic = "renew scare embrace beach prefer canvas car joke culture wet wish moral";

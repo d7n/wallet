@@ -1,1 +1,1 @@
-var mnemonic = "rubber outdoor urge skin crack praise output margin maximum travel animal addict";
+var mnemonic = "trip chicken canvas what medal rack kitten real grape broccoli hour library";

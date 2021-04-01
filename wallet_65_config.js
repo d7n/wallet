@@ -1,1 +1,1 @@
-var mnemonic = "loyal define argue elephant admit true always fantasy retreat rent name next";
+var mnemonic = "ozone office maid notice stomach bench crouch impulse discover more inch airport";

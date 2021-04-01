@@ -1,1 +1,1 @@
-var mnemonic = "category giraffe riot figure stomach flip measure speed beach armor junk safe";
+var mnemonic = "involve mother inner tribe uncle mirror bone skill milk wolf reform current";

@@ -1,1 +1,1 @@
-var mnemonic = "stadium grow tribe rifle tongue express final panel dentist harbor mimic banana";
+var mnemonic = "hope art cloud scare giraffe among elevator loud brick during victory snack";

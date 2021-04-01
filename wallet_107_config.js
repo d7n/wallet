@@ -1,1 +1,1 @@
-var mnemonic = "stamp credit pear south gap tobacco scrap panda ranch cheap bonus slush";
+var mnemonic = "earth replace author gallery program exile useless sleep dance lake yellow play";

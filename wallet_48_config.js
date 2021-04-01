@@ -1,1 +1,1 @@
-var mnemonic = "increase paddle reform rifle opinion tortoise there yellow cherry defy flame episode";
+var mnemonic = "dove enrich envelope caution side pink sight wreck ghost pull mule alone";

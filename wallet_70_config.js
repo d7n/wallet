@@ -1,1 +1,1 @@
-var mnemonic = "isolate citizen grain oven slender cinnamon spoon forum curve fabric capital swim";
+var mnemonic = "movie inject void zoo scheme congress breeze input amazing lake wire arrow";

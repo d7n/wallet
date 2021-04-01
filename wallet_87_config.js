@@ -1,1 +1,1 @@
-var mnemonic = "feature steak nurse amused reason vapor upset catalog purpose vacant side decrease";
+var mnemonic = "square wrestle circle guide term educate object come virus public worth virus";

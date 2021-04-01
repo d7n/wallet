@@ -1,1 +1,1 @@
-var mnemonic = "human scissors again drip title unique fiction venue rare fatigue puppy cabin";
+var mnemonic = "labor wrestle language flame fringe host thumb list uniform license dog armed";

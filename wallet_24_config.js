@@ -1,1 +1,1 @@
-var mnemonic = "area gravity rapid spring broccoli skin spike trend seed kid online differ";
+var mnemonic = "excuse search eternal arena iron favorite pear library library book fury taste";

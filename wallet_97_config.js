@@ -1,1 +1,1 @@
-var mnemonic = "cup praise remove spy check ostrich hill pipe spend hamster what obscure";
+var mnemonic = "guitar slab noise deer still approve gun local neither better any evidence";

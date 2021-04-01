@@ -1,1 +1,1 @@
-var mnemonic = "piano marriage promote have black permit rich sell face cattle taxi beyond";
+var mnemonic = "club chair ski milk pencil crystal shed grocery slice tomorrow exhibit unfair";

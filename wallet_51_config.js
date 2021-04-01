@@ -1,1 +1,1 @@
-var mnemonic = "digital east smooth wink mixture celery method security forget adjust panic captain";
+var mnemonic = "include action repeat rather garage invite outer never glue dry gather muscle";

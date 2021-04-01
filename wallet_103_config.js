@@ -1,1 +1,1 @@
-var mnemonic = "banner throw opinion arrest rookie vanish deer human critic inner beyond cross";
+var mnemonic = "six wish jump barrel west office hero mixture fitness much away tide";

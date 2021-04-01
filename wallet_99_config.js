@@ -1,1 +1,1 @@
-var mnemonic = "news wing pool enter hen stock estate screen since filter era liar";
+var mnemonic = "embrace enhance bracket seat exclude defense dinosaur settle breeze vault onion dignity";

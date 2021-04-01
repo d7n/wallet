@@ -1,1 +1,1 @@
-var mnemonic = "tiny spray slim tortoise type crunch forum grief quit winter cliff absurd";
+var mnemonic = "crop odor buyer barrel cotton feed kidney garment shuffle agree fat front";

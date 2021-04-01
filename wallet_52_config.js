@@ -1,1 +1,1 @@
-var mnemonic = "birth lawsuit surge defy dove add razor chronic tape give fade say";
+var mnemonic = "allow proof symbol hero private kid borrow kangaroo swarm board cost aisle";

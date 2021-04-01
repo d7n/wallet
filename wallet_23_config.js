@@ -1,1 +1,1 @@
-var mnemonic = "stable ketchup together giraffe decline drastic upgrade invite fever muffin vessel total";
+var mnemonic = "federal thought urban animal tongue ability mandate avocado plate grace zone olympic";

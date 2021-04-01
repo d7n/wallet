@@ -1,1 +1,1 @@
-var mnemonic = "cross describe physical dentist sort metal misery planet indicate brave enable short";
+var mnemonic = "imitate ready electric artist produce polar wedding menu license roast grass swamp";

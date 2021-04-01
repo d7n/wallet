@@ -1,1 +1,1 @@
-var mnemonic = "stick cancel industry mountain arrest jump basket tag crack matter moment senior";
+var mnemonic = "deliver only salon draft appear census document kiss someone prize burden rice";
