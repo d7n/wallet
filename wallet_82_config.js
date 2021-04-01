@@ -1,1 +1,1 @@
-var mnemonic = "garment text attract nice essay motor more faculty minute film jazz text";
+var mnemonic = "later mountain rule embody suspect ski outdoor neglect piece anxiety wrap cradle";

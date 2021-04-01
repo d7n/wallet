@@ -1,1 +1,1 @@
-var mnemonic = "purse boost unaware title venue trust aspect arrow seed joy giraffe eyebrow";
+var mnemonic = "chase toe shaft light float power gossip crunch surface hat layer spell";

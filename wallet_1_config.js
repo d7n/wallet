@@ -1,1 +1,1 @@
-var mnemonic = "road zero actual magic surface hour round salt hollow thunder stove nose";
+var mnemonic = "theme upgrade treat yellow chair boy wear lamp middle wish enhance sustain";

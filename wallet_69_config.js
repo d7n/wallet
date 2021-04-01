@@ -1,1 +1,1 @@
-var mnemonic = "peanut favorite poverty move repeat raccoon course face enjoy elephant area couple";
+var mnemonic = "tortoise vague film merge knee else toddler enter mirror apology tattoo federal";

@@ -1,1 +1,1 @@
-var mnemonic = "era try tape broccoli powder marine mom make private bargain heart leopard";
+var mnemonic = "battle infant slow square chuckle bread artwork trip choose wear bacon surge";

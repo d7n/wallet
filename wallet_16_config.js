@@ -1,1 +1,1 @@
-var mnemonic = "recall human bronze engine soup remain undo fox hair purse gown return";
+var mnemonic = "huge grief machine post goat lesson corn spend spawn analyst arrange cage";

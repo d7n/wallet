@@ -1,1 +1,1 @@
-var mnemonic = "tiny hover engine discover custom sign example moon bottom pink naive wedding";
+var mnemonic = "blade ill myth myth impulse term split hire crew glue wool fatigue";

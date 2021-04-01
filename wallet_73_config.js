@@ -1,1 +1,1 @@
-var mnemonic = "cram roast token clinic below elephant frequent party wedding gate bulk empower";
+var mnemonic = "large other ritual combine shoot envelope dinosaur junk mosquito apology torch swallow";

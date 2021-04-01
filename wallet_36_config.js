@@ -1,1 +1,1 @@
-var mnemonic = "piano above into image settle novel toy oblige crack demise begin boost";
+var mnemonic = "sell sand dismiss tackle spoil wait soccer party super deliver abuse chaos";

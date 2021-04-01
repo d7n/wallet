@@ -1,1 +1,1 @@
-var mnemonic = "leisure success pumpkin vivid become daughter fly suffer tomorrow nut cheap angle";
+var mnemonic = "rhythm will excite under wish true pact robot pelican meat artist insane";

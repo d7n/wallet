@@ -1,1 +1,1 @@
-var mnemonic = "sweet destroy science survey aisle island true history safe emotion copper connect";
+var mnemonic = "calm someone thank average evidence night capable bachelor armor title walnut festival";

@@ -1,1 +1,1 @@
-var mnemonic = "pumpkin year crush happy choice caught urge vendor exile horse portion empty";
+var mnemonic = "asset focus current social sight appear service detail story luggage morning envelope";

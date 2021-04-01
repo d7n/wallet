@@ -1,1 +1,1 @@
-var mnemonic = "cup model arrange thank asset pigeon cream dish render march decide cotton";
+var mnemonic = "risk cushion assault okay task long shrug abandon pluck genius isolate clown";

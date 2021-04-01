@@ -1,1 +1,1 @@
-var mnemonic = "near advance roast uniform gun illness cannon accident habit ankle brick kiss";
+var mnemonic = "lamp meadow what elephant speed attract ignore matter tonight phone dad remove";

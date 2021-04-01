@@ -1,1 +1,1 @@
-var mnemonic = "way choice permit pulse okay life camp double attract wink renew excuse";
+var mnemonic = "vacuum south honey napkin frequent glue pretty bridge sibling rally sell couple";

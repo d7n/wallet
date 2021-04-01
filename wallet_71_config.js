@@ -1,1 +1,1 @@
-var mnemonic = "pitch scan pact toy cannon family cereal define absent castle cute ribbon";
+var mnemonic = "accuse copy century success because stem more stem smile boy credit pony";

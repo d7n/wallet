@@ -1,1 +1,1 @@
-var mnemonic = "uphold nature minimum silver female gorilla season force staff next book fix";
+var mnemonic = "execute approve upgrade sibling right ship usage west hurry scan south bacon";

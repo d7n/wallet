@@ -1,1 +1,1 @@
-var mnemonic = "cannon forget satisfy improve margin tiger invest cement clown mango tide quarter";
+var mnemonic = "around immense output draw witness fall course exit salmon blame rookie sugar";

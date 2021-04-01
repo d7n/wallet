@@ -1,1 +1,1 @@
-var mnemonic = "nuclear game flower follow fatal decade then only tower boy soul wrestle";
+var mnemonic = "candy despair actor shell thank brain ceiling wise tornado urban donkey heart";

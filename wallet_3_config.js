@@ -1,1 +1,1 @@
-var mnemonic = "often remain assault tragic private easy mimic orphan aim shell cliff neither";
+var mnemonic = "elbow angle object afraid nasty rent kingdom corn skirt print card idle";

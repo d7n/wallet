@@ -1,1 +1,1 @@
-var mnemonic = "gate lounge remind dress high keep input industry ancient focus load monster";
+var mnemonic = "check mother price stairs spy jelly rail gun uphold scrap source twin";

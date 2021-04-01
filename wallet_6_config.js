@@ -1,1 +1,1 @@
-var mnemonic = "engine quote gold disagree rally craft abandon square shiver sunny glove high";
+var mnemonic = "hole nerve cake will cinnamon segment oppose skull trumpet mandate walk cool";

@@ -1,1 +1,1 @@
-var mnemonic = "rebel ancient robust bronze tongue romance lottery isolate repair other human scare";
+var mnemonic = "hour certain market space quality bean balcony entire monitor edit armor lazy";

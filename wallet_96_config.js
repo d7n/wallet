@@ -1,1 +1,1 @@
-var mnemonic = "actress service attitude devote false hundred limb jaguar toast step predict mango";
+var mnemonic = "inside evidence come solar eternal frozen cancel october one dial bulk garbage";

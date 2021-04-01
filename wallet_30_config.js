@@ -1,1 +1,1 @@
-var mnemonic = "setup rotate fossil exercise destroy find breeze hub language enroll salad mixture";
+var mnemonic = "cargo game galaxy deposit trade hedgehog switch churn metal mutual jump basic";

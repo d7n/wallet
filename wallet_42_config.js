@@ -1,1 +1,1 @@
-var mnemonic = "extend six kingdom right entire rally onion allow unveil tilt blame lecture";
+var mnemonic = "office chief unlock veteran edit remove silk enough allow galaxy tag unhappy";

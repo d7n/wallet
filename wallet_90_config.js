@@ -1,1 +1,1 @@
-var mnemonic = "strike pledge satoshi correct choice nothing permit foam either empower yellow slow";
+var mnemonic = "cake opinion invite whale glass gaze print fit pepper luxury supreme crucial";

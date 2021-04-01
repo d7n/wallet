@@ -1,1 +1,1 @@
-var mnemonic = "general script ostrich garage force practice balance ahead unusual spirit empower saddle";
+var mnemonic = "total trust attitude vivid strategy earn salon embody swarm mammal lamp ostrich";

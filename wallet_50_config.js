@@ -1,1 +1,1 @@
-var mnemonic = "sock task victory minimum charge blood clean icon drop news hurt vital";
+var mnemonic = "august bind win ozone enhance unveil vague model boring palace vintage bonus";

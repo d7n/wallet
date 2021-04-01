@@ -1,1 +1,1 @@
-var mnemonic = "reason remain hen jeans trial delay pyramid virtual person physical frog relax";
+var mnemonic = "grab receive useless over slide glad ramp entry bounce surprise know behave";

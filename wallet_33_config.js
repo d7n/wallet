@@ -1,1 +1,1 @@
-var mnemonic = "pioneer achieve garden coach brave rose arm annual abandon local traffic security";
+var mnemonic = "defy gift version amazing rebuild wild ladder uncle track famous unit cash";

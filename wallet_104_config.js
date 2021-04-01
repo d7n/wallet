@@ -1,1 +1,1 @@
-var mnemonic = "cargo mystery divide vast slender rib runway actress sand soda tank pony";
+var mnemonic = "below rocket imitate often square umbrella chair film crack fox impulse like";

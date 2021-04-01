@@ -1,1 +1,1 @@
-var mnemonic = "exhaust desert burger mushroom cause slogan hawk together salute breeze own broccoli";
+var mnemonic = "derive clean elevator inner acid spot soldier seek crew decline million ask";

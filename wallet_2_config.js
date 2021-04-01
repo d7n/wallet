@@ -1,1 +1,1 @@
-var mnemonic = "suggest mention velvet tape evoke elbow youth seminar main milk subject vicious";
+var mnemonic = "citizen night merit model put mask truly name angle two lyrics note";

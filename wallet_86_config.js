@@ -1,1 +1,1 @@
-var mnemonic = "thank net width medal transfer cherry digital quality relief enrich trim energy";
+var mnemonic = "section sad weekend motion claim flip eye whisper exit inspire pause session";

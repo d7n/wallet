@@ -1,1 +1,1 @@
-var mnemonic = "post ship atom uphold rebuild crucial smooth mobile expose repair crush tortoise";
+var mnemonic = "limit stamp tornado limb protect student month loyal swear pledge middle business";

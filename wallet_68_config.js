@@ -1,1 +1,1 @@
-var mnemonic = "disease victory poet credit minor climb maid cactus chat fade album blue";
+var mnemonic = "expire witness toy view ball gold oval question rebuild evolve under universe";

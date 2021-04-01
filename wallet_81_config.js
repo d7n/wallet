@@ -1,1 +1,1 @@
-var mnemonic = "dash spike galaxy detect joke print dream bubble hope ship march salt";
+var mnemonic = "make clinic enough hunt edit obscure title voyage outer immune emotion false";

@@ -1,1 +1,1 @@
-var mnemonic = "dutch quote path into ugly bring shrimp sunset utility trip warm include";
+var mnemonic = "butter volume journey phrase situate lazy enrich organ next uncle woman hello";

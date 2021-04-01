@@ -1,1 +1,1 @@
-var mnemonic = "animal subject season jar blast giggle tonight book steel brown exclude weekend";
+var mnemonic = "open floor sing board cabin dance wide sell spring coyote smooth isolate";

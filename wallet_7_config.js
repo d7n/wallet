@@ -1,1 +1,1 @@
-var mnemonic = "elevator walnut climb cause ordinary soap lamp ocean improve choose hobby impulse";
+var mnemonic = "advice inform citizen blind jump upon heart together steak broom ribbon deer";

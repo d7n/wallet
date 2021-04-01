@@ -1,1 +1,1 @@
-var mnemonic = "ticket lumber loop vapor myth surge flag hood mixed face brick knee";
+var mnemonic = "floor tiger faith august indoor spike slice guard siren welcome blossom inch";

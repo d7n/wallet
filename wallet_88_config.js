@@ -1,1 +1,1 @@
-var mnemonic = "nation inquiry segment sun robust adult garlic cherry diesel fun battle peanut";
+var mnemonic = "jump blossom upon finger whip visa deal alley merge lion similar tower";

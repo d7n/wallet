@@ -1,1 +1,1 @@
-var mnemonic = "enough chapter until eagle anxiety unfair quiz flee mesh ladder ancient exist";
+var mnemonic = "boy agree oxygen trumpet item cube basket cry walnut minimum vapor engage";

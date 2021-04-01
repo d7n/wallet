@@ -1,1 +1,1 @@
-var mnemonic = "wood rally science admit addict spend cage ball sister lonely puppy endorse";
+var mnemonic = "edit crop scout swap degree exact sea work lava panic lazy dignity";

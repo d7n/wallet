@@ -1,1 +1,1 @@
-var mnemonic = "guitar club spell cousin kitchen aunt narrow street spoil blame pill scheme";
+var mnemonic = "stereo head filter question fox tackle fade club cinnamon shallow seek genre";

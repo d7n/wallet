@@ -1,1 +1,1 @@
-var mnemonic = "solar naive banner yellow connect now repeat kiwi artist rebel wash bag";
+var mnemonic = "lava return venture giant winter industry divorce poverty repeat nice pipe festival";

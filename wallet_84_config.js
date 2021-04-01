@@ -1,1 +1,1 @@
-var mnemonic = "oil fresh quantum melt diary owner gossip scale burger such inherit canvas";
+var mnemonic = "fortune clip unusual debate toilet slight odor divide snow become bread birth";

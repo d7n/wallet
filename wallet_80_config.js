@@ -1,1 +1,1 @@
-var mnemonic = "hole cereal inmate furnace mad gun paddle include liberty impose diamond file";
+var mnemonic = "badge mango render sudden elevator subject crucial series moon inhale volcano bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "solution dice ocean project occur teach popular husband book rural venue crucial";
+var mnemonic = "knee wire adapt good smile sight nest woman spot region include whisper";

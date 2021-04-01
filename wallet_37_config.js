@@ -1,1 +1,1 @@
-var mnemonic = "rely obtain garlic setup purpose student add obscure galaxy magnet garment fragile";
+var mnemonic = "spy perfect wire solve twin defense forest wrestle bomb awful worth amazing";

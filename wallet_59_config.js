@@ -1,1 +1,1 @@
-var mnemonic = "tower security two visual coin ethics barrel card during goose salute canyon";
+var mnemonic = "weekend oyster faculty bicycle onion solution cabbage abstract then fancy permit remember";

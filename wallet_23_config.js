@@ -1,1 +1,1 @@
-var mnemonic = "know faith unfair dutch naive drip tell cage case million crisp buffalo";
+var mnemonic = "advice okay galaxy evidence book reveal entire jacket faith adapt arrest skirt";

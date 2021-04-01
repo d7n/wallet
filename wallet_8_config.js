@@ -1,1 +1,1 @@
-var mnemonic = "steel boost key bleak ski shock hat undo shoot effort sugar state";
+var mnemonic = "impact owner episode hawk wait tiny mutual edit work off salt trouble";

@@ -1,1 +1,1 @@
-var mnemonic = "mask output icon swing glove tornado submit portion slush during annual phone";
+var mnemonic = "token movie jelly cry broom foil kitten pulse small carry wisdom cross";

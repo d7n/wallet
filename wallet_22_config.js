@@ -1,1 +1,1 @@
-var mnemonic = "pill explain illness turtle announce invite casual observe orient flower amazing access";
+var mnemonic = "mystery permit owner measure prison net dance series key moon box salute";

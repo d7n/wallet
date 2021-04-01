@@ -1,1 +1,1 @@
-var mnemonic = "ball squeeze shoot ghost title original gap intact glass spin project brisk";
+var mnemonic = "tank six visual century cross lobster camera deer bid hurry october faculty";

@@ -1,1 +1,1 @@
-var mnemonic = "love enforce olympic depend circle oxygen quit lyrics quarter behave hunt riot";
+var mnemonic = "dial good spoil bean mimic omit wear strong sport system blur audit";

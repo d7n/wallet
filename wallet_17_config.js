@@ -1,1 +1,1 @@
-var mnemonic = "drop swap control stuff play sorry pigeon reject worry park outside raven";
+var mnemonic = "spatial wild milk lend cube flash slice truly rug leg hedgehog method";

@@ -1,1 +1,1 @@
-var mnemonic = "become card tornado mimic frozen perfect rival random park symbol world need";
+var mnemonic = "bean pizza picnic mistake delay name arrive popular impose eight treat drastic";

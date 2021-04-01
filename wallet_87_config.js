@@ -1,1 +1,1 @@
-var mnemonic = "strike napkin glove bargain love close frequent dad position vast rich when";
+var mnemonic = "barrel chimney aspect aunt small clerk grocery discover pet census logic web";

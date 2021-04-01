@@ -1,1 +1,1 @@
-var mnemonic = "avoid together visa divorce spike demand connect nation verify kid marble bus";
+var mnemonic = "duck connect glove address trash click three spawn divide clump tumble churn";

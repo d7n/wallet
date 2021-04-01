@@ -1,1 +1,1 @@
-var mnemonic = "assume flight illegal neither wave knee elbow deputy lend mesh chronic use";
+var mnemonic = "october turtle media auction vibrant talk pride mutual curious sun vibrant sea";

@@ -1,1 +1,1 @@
-var mnemonic = "payment couch machine need damage odor link jelly blame cube large winter";
+var mnemonic = "physical era you tragic bicycle later ritual today notice piano custom giggle";

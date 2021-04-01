@@ -1,1 +1,1 @@
-var mnemonic = "host impact end able member expire lounge wild there other jacket hotel";
+var mnemonic = "hollow domain bottom cinnamon snow often mixed garden save pepper online cruel";

@@ -1,1 +1,1 @@
-var mnemonic = "deny tube ensure wasp kingdom notable coyote defense absurd tip wet stone";
+var mnemonic = "test oxygen bright question gain armor power merry repair camera live quick";

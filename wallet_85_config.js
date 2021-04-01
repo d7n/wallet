@@ -1,1 +1,1 @@
-var mnemonic = "they picture educate crash blanket basket cycle ivory steak volcano occur scrub";
+var mnemonic = "lounge thing deposit blush upset coin broom divide evoke achieve vault desert";

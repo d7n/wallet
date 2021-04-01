@@ -1,1 +1,1 @@
-var mnemonic = "differ wreck purchase fury few circle sound program bind detail dream deny";
+var mnemonic = "keen utility dismiss crack gentle tool earn misery depend delay coast eager";

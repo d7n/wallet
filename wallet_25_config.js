@@ -1,1 +1,1 @@
-var mnemonic = "need fringe rate crazy before embark add work birth bean axis shadow";
+var mnemonic = "light soul summer pumpkin bachelor file draw first catalog way nurse payment";

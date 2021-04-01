@@ -1,1 +1,1 @@
-var mnemonic = "armor ability ecology parent husband direct subway plate sword bamboo simple stick";
+var mnemonic = "belt enforce jungle toddler govern gauge rather mistake pole ocean web engage";

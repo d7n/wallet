@@ -1,1 +1,1 @@
-var mnemonic = "foam tribe sign devote kite bridge sting allow bulk blanket together column";
+var mnemonic = "humble taste message strong uncover six room hobby bargain frog burger crawl";

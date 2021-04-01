@@ -1,1 +1,1 @@
-var mnemonic = "close tragic busy buddy surge cabbage index saddle regular judge own ramp";
+var mnemonic = "alter desert grow mystery river dutch pond jungle version student scrap swear";

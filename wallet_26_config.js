@@ -1,1 +1,1 @@
-var mnemonic = "symbol able define fee shine season dry cereal wool spatial media junk";
+var mnemonic = "thumb pigeon home lazy law project glide physical poet diagram enable notice";

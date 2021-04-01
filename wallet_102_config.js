@@ -1,1 +1,1 @@
-var mnemonic = "trigger chat welcome live moral entry protect oblige finish embark fat boost";
+var mnemonic = "waste pigeon guess tip army wear video volcano spring way vivid stock";

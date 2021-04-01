@@ -1,1 +1,1 @@
-var mnemonic = "buffalo badge fit dress confirm what when process gorilla trick gossip nasty";
+var mnemonic = "dizzy bunker trial useful flock pigeon pet alcohol fossil vehicle average reform";

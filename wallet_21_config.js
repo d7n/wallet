@@ -1,1 +1,1 @@
-var mnemonic = "spring kid hospital powder wheat only oven diamond laundry sell spy loyal";
+var mnemonic = "flee desk about alien object demise fox spin senior decrease ranch quick";

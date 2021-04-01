@@ -1,1 +1,1 @@
-var mnemonic = "food wet else spend custom distance luxury hidden tank melt stool inspire";
+var mnemonic = "agree shallow keen whale around swamp lunch order mask twice student street";

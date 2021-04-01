@@ -1,1 +1,1 @@
-var mnemonic = "original misery moon design gun judge eye obscure achieve nerve dolphin sudden";
+var mnemonic = "agent alone tail town rabbit brief game guess shallow inside crumble capable";

@@ -1,1 +1,1 @@
-var mnemonic = "chief fog clap curious casino vote banana junk smoke more almost lottery";
+var mnemonic = "short assist primary misery brief slogan nose ready require subway fit reform";

@@ -1,1 +1,1 @@
-var mnemonic = "film floor real hire security company finger hole best lawsuit auto evil";
+var mnemonic = "reopen youth mention fold reflect sorry toward lamp virus recycle risk initial";

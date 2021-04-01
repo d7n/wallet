@@ -1,1 +1,1 @@
-var mnemonic = "invite cable glory mirror beyond donkey trust leisure slab shallow work gap";
+var mnemonic = "pottery stable smoke mesh foam oppose bless sand mandate sleep snap faint";

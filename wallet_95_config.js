@@ -1,1 +1,1 @@
-var mnemonic = "blame false weapon olympic unlock urge learn label cream seek myself explain";
+var mnemonic = "team alien elder exile since tongue hawk member fancy fatigue mouse surface";

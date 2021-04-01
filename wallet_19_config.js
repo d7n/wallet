@@ -1,1 +1,1 @@
-var mnemonic = "purse number female crawl tissue acoustic robot donate clock nature jelly sibling";
+var mnemonic = "trash fury gospel baby impulse title length bus ripple layer wrestle unique";

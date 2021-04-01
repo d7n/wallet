@@ -1,1 +1,1 @@
-var mnemonic = "admit destroy lift render dragon portion august fade robust pelican brief verify";
+var mnemonic = "method orchard asthma author fall usage nothing sight tennis liberty public print";

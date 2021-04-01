@@ -1,1 +1,1 @@
-var mnemonic = "rough fly pond abstract swallow club mad aware thrive disorder scatter hospital";
+var mnemonic = "section cream wage neutral name uncle source assault obvious garment have funny";

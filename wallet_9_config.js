@@ -1,1 +1,1 @@
-var mnemonic = "wet bubble swear devote library split lend lend round leopard trophy deal";
+var mnemonic = "sad key demise muffin sadness ethics staff thrive ahead shadow lecture vacuum";

@@ -1,1 +1,1 @@
-var mnemonic = "unknown kitchen clog borrow exhaust tunnel lesson fit velvet ribbon caught wall";
+var mnemonic = "awful holiday maximum venue hurdle toddler lava cannon beyond deposit cousin lady";

@@ -1,1 +1,1 @@
-var mnemonic = "trophy stem extend symptom sense snow problem walk label language game barely";
+var mnemonic = "drink melt motion capable fringe diagram fresh polar ramp ski reform gentle";

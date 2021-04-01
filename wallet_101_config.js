@@ -1,1 +1,1 @@
-var mnemonic = "dust random combine wage praise regular stable feel cable carbon identify hope";
+var mnemonic = "hard symbol select carpet dial moral armed boil hard zone squirrel east";

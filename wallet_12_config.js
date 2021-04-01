@@ -1,1 +1,1 @@
-var mnemonic = "gym memory phone picture laptop gossip float jacket gaze saddle dinner minute";
+var mnemonic = "level differ clap salt coffee enter shift gift sustain pond dash file";

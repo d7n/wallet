@@ -1,1 +1,1 @@
-var mnemonic = "crystal road seminar expand renew double slender extra atom canyon final throw";
+var mnemonic = "birth spoon tomato science anchor range town rapid domain abstract skill bonus";

@@ -1,1 +1,1 @@
-var mnemonic = "fashion happy answer follow general anxiety garden round globe oval explain cloth";
+var mnemonic = "dwarf health boil dance switch wool winter method wish faint sick hollow";

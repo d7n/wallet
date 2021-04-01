@@ -1,1 +1,1 @@
-var mnemonic = "roast hammer sheriff divorce local rude rug swift eight cabbage admit car";
+var mnemonic = "gorilla ladder security spirit gospel love narrow usage sick odor axis slide";
