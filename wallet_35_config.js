@@ -1,1 +1,1 @@
-var mnemonic = "keep share tourist seed matrix display program drip blouse wrap carpet ridge";
+var mnemonic = "name planet purchase forget shadow run another one impulse welcome cheap dove";

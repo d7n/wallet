@@ -1,1 +1,1 @@
-var mnemonic = "pelican vivid bargain simple stool coin fix throw flash real dad feature";
+var mnemonic = "battle you skull throw balcony damage tunnel expose frame dash rent rent";

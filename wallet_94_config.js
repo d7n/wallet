@@ -1,1 +1,1 @@
-var mnemonic = "legal ten perfect access capable retire topic skin medal horse decide leader";
+var mnemonic = "lend base estate ordinary focus move depart program cluster great tide badge";

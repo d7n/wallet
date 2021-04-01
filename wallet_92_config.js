@@ -1,1 +1,1 @@
-var mnemonic = "crawl february stumble cancel camp glimpse army eight fat exist bar mango";
+var mnemonic = "view cactus copy kingdom skull attract embark beef powder trend hold echo";

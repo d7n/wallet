@@ -1,1 +1,1 @@
-var mnemonic = "siren meadow you various ill fox long parent dirt camera report huge";
+var mnemonic = "alone stumble moon dizzy access liberty excess state cigar grid coyote parade";

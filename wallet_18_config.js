@@ -1,1 +1,1 @@
-var mnemonic = "avoid beach seminar post refuse stable interest quantum pledge side basket volume";
+var mnemonic = "fever chase direct evolve vendor patch danger twice soap exhaust only claim";

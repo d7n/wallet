@@ -1,1 +1,1 @@
-var mnemonic = "uniform alarm lumber surface able thing universe blame test curious derive dove";
+var mnemonic = "turtle poverty wool disease laundry champion stage shoe armed airport steel shield";

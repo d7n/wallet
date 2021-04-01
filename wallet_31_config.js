@@ -1,1 +1,1 @@
-var mnemonic = "keen stand ice north smoke squeeze chat stable inner woman gallery buyer";
+var mnemonic = "track critic mention try library base alcohol outdoor comic game system learn";

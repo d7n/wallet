@@ -1,1 +1,1 @@
-var mnemonic = "coffee cinnamon woman auto trip park roast alter shell light illness arrive";
+var mnemonic = "play artefact harbor because danger legend share moment pelican before undo velvet";

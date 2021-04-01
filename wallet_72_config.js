@@ -1,1 +1,1 @@
-var mnemonic = "chat derive ugly limit planet edge task search staff sad tide twist";
+var mnemonic = "intact strategy invite suspect slender toddler hold congress era name erosion rabbit";

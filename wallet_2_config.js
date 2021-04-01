@@ -1,1 +1,1 @@
-var mnemonic = "approve project abstract umbrella mushroom poverty debris damp alarm during connect razor";
+var mnemonic = "rescue fish message more fit pioneer common energy prevent fox fetch puzzle";

@@ -1,1 +1,1 @@
-var mnemonic = "since grain digital obscure ivory mixed lava infant stadium salute champion nephew";
+var mnemonic = "school clog silent else inform wrist ring major sword road age craft";

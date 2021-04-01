@@ -1,1 +1,1 @@
-var mnemonic = "oppose survey worry picture music curtain envelope couch chunk coil quick axis";
+var mnemonic = "bounce agent define gift voyage gauge coil vendor peanut stereo toward trim";

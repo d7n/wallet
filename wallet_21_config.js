@@ -1,1 +1,1 @@
-var mnemonic = "attitude scare sibling frown play canoe merge erase rather harbor foster grow";
+var mnemonic = "grant cattle actual movie license dismiss pet misery team slush media march";

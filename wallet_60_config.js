@@ -1,1 +1,1 @@
-var mnemonic = "cup snow wasp second acid awake wash usage donate oppose oxygen topic";
+var mnemonic = "crumble hood tuition sniff crush angle anchor layer brain glue dignity base";

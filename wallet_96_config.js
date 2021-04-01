@@ -1,1 +1,1 @@
-var mnemonic = "modify hint type pond unlock kit pattern pelican trick leader easily design";
+var mnemonic = "glimpse trick primary gentle helmet force coach tuition stick blush home clutch";

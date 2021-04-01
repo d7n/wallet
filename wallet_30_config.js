@@ -1,1 +1,1 @@
-var mnemonic = "eye inhale idea ritual shove naive economy auction that stage spy extend";
+var mnemonic = "ketchup glory spot tent dragon clock weekend cannon garbage match inform bench";

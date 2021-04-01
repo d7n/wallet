@@ -1,1 +1,1 @@
-var mnemonic = "limb loop throw afford sunny type hunt cash giraffe asthma portion situate";
+var mnemonic = "moon diamond raccoon ecology task spot exact input wrestle maximum brown public";

@@ -1,1 +1,1 @@
-var mnemonic = "language point regular flame toss someone always satisfy rival estate abuse violin";
+var mnemonic = "alter taste hill laugh virus grant rice addict sorry guard awkward mixed";

@@ -1,1 +1,1 @@
-var mnemonic = "glory april palm tip resource leave early bird acid essence arctic sight";
+var mnemonic = "gadget snow bread birth train oven toss space arm allow great mutual";

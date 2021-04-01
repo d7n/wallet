@@ -1,1 +1,1 @@
-var mnemonic = "trigger fine clog topple never place nerve bar eye someone power destroy";
+var mnemonic = "mom anxiety apology orchard napkin fat luggage section asset path attitude nuclear";

@@ -1,1 +1,1 @@
-var mnemonic = "siege couch original heart file erupt similar cheese twice catalog window pair";
+var mnemonic = "setup bench trash wasp dynamic lift heart illegal vacant crucial boat ripple";

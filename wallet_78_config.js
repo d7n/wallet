@@ -1,1 +1,1 @@
-var mnemonic = "hen laugh clap path flock pass donor course fragile sad gun bless";
+var mnemonic = "age need price dry release salt option exact injury victory arch scan";

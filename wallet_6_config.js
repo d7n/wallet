@@ -1,1 +1,1 @@
-var mnemonic = "chat margin fame stem urge item patient bike common news artefact angle";
+var mnemonic = "rabbit sustain rocket cage join bid approve crush current depart arrow question";

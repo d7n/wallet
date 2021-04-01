@@ -1,1 +1,1 @@
-var mnemonic = "impulse salon mimic boss prosper casino switch pretty tissue short what glue";
+var mnemonic = "soul shift alpha pause illness october come health sunset kangaroo maple over";

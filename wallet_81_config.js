@@ -1,1 +1,1 @@
-var mnemonic = "weather kidney scatter latin young certain spell else ball steel prevent quarter";
+var mnemonic = "story toss pond gas moon cram mom lyrics bless grab require supply";

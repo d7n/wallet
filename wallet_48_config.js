@@ -1,1 +1,1 @@
-var mnemonic = "eyebrow scrap almost venue practice moral muscle address sorry loud head banner";
+var mnemonic = "exchange tackle room easy tongue joke radio expose teach urge alley range";

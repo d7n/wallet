@@ -1,1 +1,1 @@
-var mnemonic = "confirm tag brick clerk artist turn green law finger produce release poverty";
+var mnemonic = "bottom obvious knock animal pelican dirt rigid drive plug mountain design explain";

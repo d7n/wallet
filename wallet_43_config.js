@@ -1,1 +1,1 @@
-var mnemonic = "dignity mango pluck jacket antique close witness second weather snake canoe mango";
+var mnemonic = "birth moral leave tilt guitar expand lonely coin cream chief update today";

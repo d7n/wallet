@@ -1,1 +1,1 @@
-var mnemonic = "lesson velvet electric noodle snap erosion jar pupil away solution one dove";
+var mnemonic = "awkward welcome consider fine print vast weird armor round trigger toss desk";

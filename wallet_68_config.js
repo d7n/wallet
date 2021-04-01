@@ -1,1 +1,1 @@
-var mnemonic = "sauce evil inform clean health skill magic often wear mushroom denial faint";
+var mnemonic = "lunar carpet win hobby make abuse stomach engage leader jelly issue twelve";

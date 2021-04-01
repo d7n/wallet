@@ -1,1 +1,1 @@
-var mnemonic = "have abandon sausage recipe winter once valid message explain dynamic confirm donate";
+var mnemonic = "slice argue sauce pitch robot security witness cricket venue good marriage spike";

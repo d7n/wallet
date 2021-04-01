@@ -1,1 +1,1 @@
-var mnemonic = "coffee smart rude reward toast cave example lens reform weird canyon excite";
+var mnemonic = "coconut section account danger very tissue empower fringe endorse main tank floor";

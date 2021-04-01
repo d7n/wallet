@@ -1,1 +1,1 @@
-var mnemonic = "essence also plate stumble attitude recipe maid lawn festival uncle deny dutch";
+var mnemonic = "silent kitchen brass scrub deliver exotic you around auto icon give detail";

@@ -1,1 +1,1 @@
-var mnemonic = "double tomato better kite forget syrup kangaroo assault flavor suit uphold gate";
+var mnemonic = "purpose dragon purse aunt olive embrace annual burger father napkin hard behave";

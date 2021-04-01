@@ -1,1 +1,1 @@
-var mnemonic = "van abuse lava access eagle spot okay crawl seed office expect verb";
+var mnemonic = "canvas rubber pass empower pen accident pizza scene what knock cook lazy";

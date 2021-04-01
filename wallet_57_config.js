@@ -1,1 +1,1 @@
-var mnemonic = "when stem amount cushion wonder educate raven assist attack doctor assault hurdle";
+var mnemonic = "clip student session future stick trim afraid join orchard badge blast rose";

@@ -1,1 +1,1 @@
-var mnemonic = "rent kiss vacant mention fever fashion infant weasel wheel major yard vibrant";
+var mnemonic = "ride wet program sustain position paper donkey wing aware settle captain police";

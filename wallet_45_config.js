@@ -1,1 +1,1 @@
-var mnemonic = "dolphin wait ill fiber rare sausage double scheme narrow flight piece broccoli";
+var mnemonic = "hair axis fortune blade lesson habit rescue merit rally isolate actor detect";

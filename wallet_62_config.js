@@ -1,1 +1,1 @@
-var mnemonic = "resemble mercy plastic disease mansion want beyond sad comfort draw close shine";
+var mnemonic = "speed slogan pluck health win airport impact meadow oppose airport squeeze real";

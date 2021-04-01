@@ -1,1 +1,1 @@
-var mnemonic = "image seed trouble tomato trim champion finish grief rack elegant claw plug";
+var mnemonic = "farm ranch size hedgehog maid deer saddle assume boss phone panda manage";

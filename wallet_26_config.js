@@ -1,1 +1,1 @@
-var mnemonic = "breeze bundle release original gloom suit hungry between original benefit wrestle space";
+var mnemonic = "power protect recycle poet nothing warfare involve ugly found wasp retreat choice";

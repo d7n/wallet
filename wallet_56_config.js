@@ -1,1 +1,1 @@
-var mnemonic = "velvet neither inject oyster review avocado rug finger pupil exotic birth glory";
+var mnemonic = "borrow elbow trophy fiction thank practice leopard upgrade evidence lesson run dream";

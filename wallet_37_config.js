@@ -1,1 +1,1 @@
-var mnemonic = "vital fence artist ice vanish fit sibling proof december patch flock budget";
+var mnemonic = "discover view later cotton hurt flat swamp endorse mutual moment fitness minute";

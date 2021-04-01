@@ -1,1 +1,1 @@
-var mnemonic = "tonight cute shoot flower rail hurt ghost brother prison stereo badge chef";
+var mnemonic = "fury fly horror cross calm pepper disorder bike cheap beyond much fee";

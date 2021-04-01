@@ -1,1 +1,1 @@
-var mnemonic = "glory found raccoon fiber swarm degree race mimic park remind same display";
+var mnemonic = "noise target welcome armed swallow release grab chunk nature rug ankle picture";

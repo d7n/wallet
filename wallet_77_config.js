@@ -1,1 +1,1 @@
-var mnemonic = "open vibrant truly loyal segment correct balance glare ordinary survey dentist trial";
+var mnemonic = "melody oyster weird sing position hope zone hamster scissors hammer auction estate";

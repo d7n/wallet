@@ -1,1 +1,1 @@
-var mnemonic = "buyer laundry below win rely beyond outside topic analyst athlete estate uphold";
+var mnemonic = "blush always miss small seminar address turtle october visual credit cool suspect";

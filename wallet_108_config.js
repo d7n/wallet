@@ -1,1 +1,1 @@
-var mnemonic = "prison dad crawl unknown curious mask fox grain floor debate speed kingdom";
+var mnemonic = "extend upset enrich tiny hybrid one region over crumble solar staff talk";

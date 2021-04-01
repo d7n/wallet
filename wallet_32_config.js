@@ -1,1 +1,1 @@
-var mnemonic = "shy owner yard benefit among exercise friend gospel slide scrub hood ethics";
+var mnemonic = "crouch shy lake bracket power seed certain organ wood differ prison sentence";

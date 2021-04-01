@@ -1,1 +1,1 @@
-var mnemonic = "ladder viable gate gown client stone canoe gas wine brave museum clog";
+var mnemonic = "hope island phrase dinosaur repair dutch merit they nasty pear juice hold";

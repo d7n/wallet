@@ -1,1 +1,1 @@
-var mnemonic = "pottery fancy saddle please able live long left dry math vivid attack";
+var mnemonic = "speed rapid sustain front boil much brick fall love pull escape junior";

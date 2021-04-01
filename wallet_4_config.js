@@ -1,1 +1,1 @@
-var mnemonic = "update cute lens laugh fine season hollow clown glory onion umbrella virus";
+var mnemonic = "blast bullet spice pet antique inform place choice unhappy bracket tonight error";

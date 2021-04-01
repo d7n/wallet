@@ -1,1 +1,1 @@
-var mnemonic = "afraid jacket symbol shock flip injury lend maze valve kid student unfold";
+var mnemonic = "coast muffin remember pledge bunker inject skate tool siege upset little carpet";

@@ -1,1 +1,1 @@
-var mnemonic = "zone dance always member poet shop decade beauty forward shine armed large";
+var mnemonic = "axis imitate sing zero ostrich bronze female assist pulse point jelly vocal";

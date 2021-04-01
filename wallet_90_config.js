@@ -1,1 +1,1 @@
-var mnemonic = "omit before farm orphan cloud trip pulp wrap vacant type century script";
+var mnemonic = "credit warfare timber twin valley pole emotion interest adjust height athlete lucky";

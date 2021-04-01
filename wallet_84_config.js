@@ -1,1 +1,1 @@
-var mnemonic = "fabric age poet exchange ocean stand heart rack amount transfer toward payment";
+var mnemonic = "any happy glue track smoke caution grit subway soldier forget ranch ancient";

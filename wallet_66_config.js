@@ -1,1 +1,1 @@
-var mnemonic = "shrimp stadium penalty two ability decrease bless dial blush payment lecture ocean";
+var mnemonic = "lumber daring aspect raise bless eight saddle rotate size actress leave swarm";

@@ -1,1 +1,1 @@
-var mnemonic = "alone hurdle winter daring update shiver pioneer ball weird public salmon collect";
+var mnemonic = "require trim juice source mutual help chicken stamp spatial rubber mom fragile";

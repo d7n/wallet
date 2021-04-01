@@ -1,1 +1,1 @@
-var mnemonic = "until digital insect squeeze ivory rate design decorate cliff budget video sun";
+var mnemonic = "good offer normal almost napkin base empty win enough private cheese elephant";

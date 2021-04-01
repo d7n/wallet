@@ -1,1 +1,1 @@
-var mnemonic = "staff nose easily trust law mixture buyer company mobile spoil chest liar";
+var mnemonic = "gym flower suffer cake timber magnet deposit two author merge dirt strong";

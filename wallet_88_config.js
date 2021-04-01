@@ -1,1 +1,1 @@
-var mnemonic = "yellow sibling spike ramp material hurry tent antenna hollow click special tennis";
+var mnemonic = "cake good essence aspect gasp give decline venue enter bring tribe glimpse";

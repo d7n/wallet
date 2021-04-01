@@ -1,1 +1,1 @@
-var mnemonic = "text also above mixture empty fragile exchange expire rival library nothing notable";
+var mnemonic = "abstract midnight antique ski legal unfair extra clump suggest provide goat unaware";

@@ -1,1 +1,1 @@
-var mnemonic = "step speak track special silly leader excite jewel since original motion wait";
+var mnemonic = "august warm ensure already sadness crash occur battle tuna slam version maximum";

@@ -1,1 +1,1 @@
-var mnemonic = "result virtual salt then bleak pride blind behave surface wool ring tobacco";
+var mnemonic = "clutch confirm always ignore feel tree junior slight edit accident hurry embrace";

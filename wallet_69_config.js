@@ -1,1 +1,1 @@
-var mnemonic = "faculty luggage cargo idea muscle mother option magic raccoon wrong rare answer";
+var mnemonic = "fitness divorce club crane decide raise ugly child evil spare crush jelly";

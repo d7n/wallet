@@ -1,1 +1,1 @@
-var mnemonic = "pottery coast near milk monkey toe armed chaos panda simple human verb";
+var mnemonic = "bicycle good document predict use derive arrest kidney perfect law file inquiry";

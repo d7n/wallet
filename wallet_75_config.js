@@ -1,1 +1,1 @@
-var mnemonic = "river canvas empower coconut antenna tail fold orchard assist unveil chapter salon";
+var mnemonic = "enter fury staff fork radar pottery used border deny early club stamp";

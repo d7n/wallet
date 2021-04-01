@@ -1,1 +1,1 @@
-var mnemonic = "place tree spirit broccoli cabin ship bicycle cloth exile obvious flock pass";
+var mnemonic = "point tobacco wine satoshi apple genuine arrange hood number flag surge couple";

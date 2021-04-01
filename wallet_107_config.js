@@ -1,1 +1,1 @@
-var mnemonic = "coyote brisk infant slush copper climb toss put race recycle person price";
+var mnemonic = "veteran hood trumpet vapor cable agent dolphin simple jealous afraid seat yard";

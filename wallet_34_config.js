@@ -1,1 +1,1 @@
-var mnemonic = "paper badge tide muscle page amateur spy crew daughter surface lottery garbage";
+var mnemonic = "bus tape major depth thank resist flag token ancient dwarf course census";

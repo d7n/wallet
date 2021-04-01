@@ -1,1 +1,1 @@
-var mnemonic = "demand curve occur captain play shoot raven satoshi join regret boat into";
+var mnemonic = "upgrade coconut vapor scissors crawl sure random peanut portion citizen stadium wagon";

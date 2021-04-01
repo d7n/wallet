@@ -1,1 +1,1 @@
-var mnemonic = "fiction gasp play almost artefact such flavor auto govern talk chair glue";
+var mnemonic = "plug sort melt fog emerge minute sound gaze two accuse decade helmet";

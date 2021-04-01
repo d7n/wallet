@@ -1,1 +1,1 @@
-var mnemonic = "orphan jealous slim stable forward margin move tank devote sand high actual";
+var mnemonic = "unknown basic oven lazy inject piano poem congress lion hawk settle cycle";

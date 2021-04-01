@@ -1,1 +1,1 @@
-var mnemonic = "beauty flock gold hockey glove couple lottery half clap cabin panic minute";
+var mnemonic = "badge orange crime infant belt jar club deal alpha life yellow rib";

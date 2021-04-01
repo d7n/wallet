@@ -1,1 +1,1 @@
-var mnemonic = "crucial embody cricket demand blade mechanic secret flash strong unhappy allow repair";
+var mnemonic = "valid sunset version equal diary approve laptop puppy path screen cloth hurdle";

@@ -1,1 +1,1 @@
-var mnemonic = "tower express wife opinion profit matrix evolve tired pupil antenna rural elder";
+var mnemonic = "electric buddy poverty damage burger usual tourist bus tomorrow update toward tone";

@@ -1,1 +1,1 @@
-var mnemonic = "require frame inspire figure boost hour february pony oyster effort measure curious";
+var mnemonic = "again unusual chapter human screen plastic casino inflict slush doll lecture east";

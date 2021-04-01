@@ -1,1 +1,1 @@
-var mnemonic = "peanut reflect flight credit tooth walnut struggle awesome dynamic nature loyal midnight";
+var mnemonic = "reform winter arrow absurd meadow seminar option ghost finger sound stairs service";

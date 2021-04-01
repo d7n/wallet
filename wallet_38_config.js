@@ -1,1 +1,1 @@
-var mnemonic = "scene similar sort rely amount guitar super ketchup essence they help burden";
+var mnemonic = "that around level obtain occur burden scan nothing peasant debris peanut giant";

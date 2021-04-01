@@ -1,1 +1,1 @@
-var mnemonic = "eternal pigeon carry nice illness radar minute olive radio spin favorite latin";
+var mnemonic = "essence gap culture arrive flash smooth aware beyond alley dizzy ill prison";

@@ -1,1 +1,1 @@
-var mnemonic = "fiction winter stove neither option olympic fitness boil blossom ski churn blame";
+var mnemonic = "laundry west below outside drastic always loyal destroy arena home transfer equip";

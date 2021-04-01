@@ -1,1 +1,1 @@
-var mnemonic = "cotton web gold obtain foil pizza ghost brisk worth garden cross check";
+var mnemonic = "mountain clever short grace coconut decade alien select axis suspect modify vehicle";

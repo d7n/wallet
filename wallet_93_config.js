@@ -1,1 +1,1 @@
-var mnemonic = "execute between now apology maid assist regular pottery please praise machine fire";
+var mnemonic = "episode butter garbage goddess inside draft execute radar idle use flower cancel";

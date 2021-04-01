@@ -1,1 +1,1 @@
-var mnemonic = "catch cabin alcohol minute found swap aim metal cable settle poet crush";
+var mnemonic = "easily ice wheel general discover good bulk north finish concert modify minute";
