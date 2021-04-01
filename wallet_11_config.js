@@ -1,1 +1,1 @@
-var mnemonic = "leave hint obscure choose include tired chunk attitude assume quick mandate glare";
+var mnemonic = "dolphin axis able position pig fire human settle catalog collect model produce";

@@ -1,1 +1,1 @@
-var mnemonic = "reason point text coral dutch oil rebel nurse promote service affair october";
+var mnemonic = "code invest bitter together slab narrow act upon beyond kingdom vocal enjoy";

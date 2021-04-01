@@ -1,1 +1,1 @@
-var mnemonic = "pride venue keen card gun ask brown supreme matrix vital auto melody";
+var mnemonic = "odor stereo rare banana cross marble nasty easily genius sunny wheel finish";

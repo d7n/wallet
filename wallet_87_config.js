@@ -1,1 +1,1 @@
-var mnemonic = "timber view govern mouse item lab welcome jungle inside deal behind scatter";
+var mnemonic = "now good desert shine subway pumpkin curious banner primary remind crush heavy";

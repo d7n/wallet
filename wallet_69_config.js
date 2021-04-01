@@ -1,1 +1,1 @@
-var mnemonic = "smart song glue sheriff time step chronic salute banner wild vital slow";
+var mnemonic = "board happy chief holiday draft all offer naive broom security parent artwork";

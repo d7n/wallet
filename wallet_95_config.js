@@ -1,1 +1,1 @@
-var mnemonic = "ocean wire benefit oak impact melt valve rate glimpse clown divorce energy";
+var mnemonic = "relief symbol audit shed during amazing cart bitter main portion pair interest";

@@ -1,1 +1,1 @@
-var mnemonic = "equal spirit symptom mountain crater decorate sure proof knee stadium tell grow";
+var mnemonic = "shiver cream bench arena rent mountain include first crop silk card tag";

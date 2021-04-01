@@ -1,1 +1,1 @@
-var mnemonic = "say possible garage iron kiwi cinnamon meat marriage trial action network eyebrow";
+var mnemonic = "stuff rural retreat culture coin behind couple arena behave fetch provide acid";

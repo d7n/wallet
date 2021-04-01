@@ -1,1 +1,1 @@
-var mnemonic = "answer emotion giggle trust sketch fetch worth that short parade leopard cactus";
+var mnemonic = "click survey current isolate enroll this flavor pottery clutch quality sail chuckle";

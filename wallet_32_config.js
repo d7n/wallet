@@ -1,1 +1,1 @@
-var mnemonic = "someone hat banner today already laugh day palm butter quick drop alcohol";
+var mnemonic = "category around civil myth near pyramid hazard chapter alone tunnel equip correct";

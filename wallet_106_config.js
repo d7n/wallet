@@ -1,1 +1,1 @@
-var mnemonic = "lawn quick alert found skill globe employ motion disagree plug slot orange";
+var mnemonic = "master second library welcome satisfy alter trap wrap concert boil grab script";

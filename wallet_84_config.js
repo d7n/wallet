@@ -1,1 +1,1 @@
-var mnemonic = "hamster power outdoor aspect faith hobby session vendor disease common abuse intact";
+var mnemonic = "weekend clog manage dumb wreck style drama random bleak because ride scrap";

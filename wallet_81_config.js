@@ -1,1 +1,1 @@
-var mnemonic = "illness menu ladder never plastic baby law hybrid horse tell vanish thrive";
+var mnemonic = "double adapt noodle fruit script enact what mom diesel cabin catch say";

@@ -1,1 +1,1 @@
-var mnemonic = "enroll cave avoid flight online possible gas merit tomorrow aspect slot cannon";
+var mnemonic = "crisp uniform opinion drive hub leave ill solid economy twice direct bracket";

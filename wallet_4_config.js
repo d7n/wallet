@@ -1,1 +1,1 @@
-var mnemonic = "waste text glimpse junk hire lobster paddle exit nature wrist shine slogan";
+var mnemonic = "collect evidence dove excite mom resemble shy manage message illness absorb become";

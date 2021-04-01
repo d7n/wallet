@@ -1,1 +1,1 @@
-var mnemonic = "hurry note spider orphan chair draw twenty dismiss pause snow child pool";
+var mnemonic = "any bronze uncle truly engage noble shrimp drip pizza cigar liberty steel";

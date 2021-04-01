@@ -1,1 +1,1 @@
-var mnemonic = "jungle device catalog kingdom mimic general post setup soldier proof between float";
+var mnemonic = "cherry push another music deposit demise master tell square fat flip athlete";

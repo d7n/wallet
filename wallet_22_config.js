@@ -1,1 +1,1 @@
-var mnemonic = "cream joke mask orphan useless odor chat truck dinner jewel problem armor";
+var mnemonic = "alarm luxury wire timber staff make degree toddler rely pave vivid letter";

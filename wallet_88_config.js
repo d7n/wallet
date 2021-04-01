@@ -1,1 +1,1 @@
-var mnemonic = "island retire shove kidney true artwork gun tag afford fossil image naive";
+var mnemonic = "act grain weird love alpha grid output owner trigger rack exercise dwarf";

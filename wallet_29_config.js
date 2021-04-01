@@ -1,1 +1,1 @@
-var mnemonic = "hazard keen ignore disorder blouse drama girl steak inner mountain arctic tree";
+var mnemonic = "swear pact better already act traffic tired expire stem disease display avocado";

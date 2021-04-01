@@ -1,1 +1,1 @@
-var mnemonic = "usage simple rally pen outer modify vintage danger upon wage heavy skirt";
+var mnemonic = "negative olympic mixture whisper exit until keen matter venue parade report credit";

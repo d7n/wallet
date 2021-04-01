@@ -1,1 +1,1 @@
-var mnemonic = "pupil song silent now patient spot reopen risk various feed exile claim";
+var mnemonic = "pistol smart trade obey nice maze sorry relief annual law voyage correct";

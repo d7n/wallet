@@ -1,1 +1,1 @@
-var mnemonic = "february lawsuit rug daring foot spoil amused adult anchor play equal oxygen";
+var mnemonic = "always daughter clerk near blossom rude message enrich hill melt royal room";

@@ -1,1 +1,1 @@
-var mnemonic = "lottery leg shallow arrest excite trial box distance frequent jeans arrest exist";
+var mnemonic = "mad focus nasty dove imitate bomb betray usual average obscure measure axis";

@@ -1,1 +1,1 @@
-var mnemonic = "adult foam lion embark rebuild atom sadness kitchen almost stamp warfare front";
+var mnemonic = "wire doctor spend sound knife fish pave security capital habit quantum sun";

@@ -1,1 +1,1 @@
-var mnemonic = "denial arrange tone six educate talent able jealous romance father visit open";
+var mnemonic = "seminar mule position ball clog average forget satoshi ordinary mistake post amazing";

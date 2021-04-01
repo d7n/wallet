@@ -1,1 +1,1 @@
-var mnemonic = "stamp tuna mail team arctic genuine amateur noodle hungry rabbit supreme forest";
+var mnemonic = "column antenna turn blush firm one drastic consider need junior expose argue";

@@ -1,1 +1,1 @@
-var mnemonic = "vague bomb net suspect know hawk crush indoor acquire photo travel donate";
+var mnemonic = "bus green club answer devote aunt volume lock cable sorry soldier sure";

@@ -1,1 +1,1 @@
-var mnemonic = "humble length area lizard comfort valley royal pottery neglect cushion educate omit";
+var mnemonic = "demand chest split vacant ready label penalty mention business once retreat unfair";

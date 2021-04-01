@@ -1,1 +1,1 @@
-var mnemonic = "admit lyrics follow okay amateur coin bubble control mule burger wink anxiety";
+var mnemonic = "tell wrap double future service often seed because excuse air rival neither";

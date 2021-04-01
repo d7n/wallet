@@ -1,1 +1,1 @@
-var mnemonic = "reform faculty steel evolve adjust sponsor unfold lion gravity glad struggle tone";
+var mnemonic = "slow final bamboo brush salute hollow okay dice very glue tube camp";

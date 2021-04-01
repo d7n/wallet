@@ -1,1 +1,1 @@
-var mnemonic = "nominee say trust plastic surround install super margin fox wheat supply parade";
+var mnemonic = "switch engage tenant patch timber doctor coast topic grab neglect lizard glimpse";

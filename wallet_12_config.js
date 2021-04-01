@@ -1,1 +1,1 @@
-var mnemonic = "nose scan bunker path dry verify runway there brief search real random";
+var mnemonic = "kidney skirt lottery course pill address upper until section short prize miracle";

@@ -1,1 +1,1 @@
-var mnemonic = "soap tackle valley brown rail dad ship armed bamboo require place neither";
+var mnemonic = "quarter notice speak mountain shove spice mandate teach keen recipe resource slush";

@@ -1,1 +1,1 @@
-var mnemonic = "season cube detect better flash false fabric chapter kangaroo parrot legal circle";
+var mnemonic = "grace kick wasp coil obtain bleak expand egg program venue robust prevent";

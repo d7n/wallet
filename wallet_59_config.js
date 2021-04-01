@@ -1,1 +1,1 @@
-var mnemonic = "bean prosper tank myself little action actress rookie pull bus mistake review";
+var mnemonic = "urban crack draw grain sight sure sweet attract bike diamond pizza guitar";

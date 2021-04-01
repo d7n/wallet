@@ -1,1 +1,1 @@
-var mnemonic = "crop symptom upper gift hammer moon baby brand acoustic wire labor glue";
+var mnemonic = "jeans treat decrease hint moon face rookie leopard main myth purity orient";

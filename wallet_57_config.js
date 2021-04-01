@@ -1,1 +1,1 @@
-var mnemonic = "whisper gain flat aware ask public silk debate embody equip door join";
+var mnemonic = "alien device struggle draft tomato wheel soft receive round punch salon service";

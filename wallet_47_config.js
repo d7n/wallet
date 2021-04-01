@@ -1,1 +1,1 @@
-var mnemonic = "input cycle stamp album stomach elephant leave monitor alert verb guide sun";
+var mnemonic = "join quarter accuse approve exist pipe ask loud eagle worth suspect heavy";

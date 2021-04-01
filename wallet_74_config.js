@@ -1,1 +1,1 @@
-var mnemonic = "weird excess boil punch bird office advance glare throw sunny upper very";
+var mnemonic = "ocean shell evidence exchange minor push film dance output fabric vote cotton";

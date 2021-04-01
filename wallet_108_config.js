@@ -1,1 +1,1 @@
-var mnemonic = "tell mother trophy december goose hole regular name drip lawn nest erosion";
+var mnemonic = "burden frown crack mixed spider client audit update clean unhappy shock region";

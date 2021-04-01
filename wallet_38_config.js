@@ -1,1 +1,1 @@
-var mnemonic = "guilt nuclear oblige media endorse forest ride oppose draft second clarify ignore";
+var mnemonic = "little pill flat artefact desk retire party craft exercise sell trigger aim";

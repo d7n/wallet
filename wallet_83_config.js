@@ -1,1 +1,1 @@
-var mnemonic = "tray bachelor fragile town charge panther shoulder boil jealous million average inflict";
+var mnemonic = "focus action comic start few dwarf police crystal file fade local bacon";

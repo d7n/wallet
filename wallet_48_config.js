@@ -1,1 +1,1 @@
-var mnemonic = "absurd cloth size edge taxi drink join thing oak unable lawn they";
+var mnemonic = "moral unique spare never lizard orient old frost soup gain field trap";

@@ -1,1 +1,1 @@
-var mnemonic = "romance scatter spike quiz immune rebel humble apology upper salon spirit bracket";
+var mnemonic = "narrow point base south marble know hood urban author ocean pig load";

@@ -1,1 +1,1 @@
-var mnemonic = "heart wreck jeans jeans glass nothing swamp twelve grape employ wealth practice";
+var mnemonic = "audit ankle manage pattern delay spider total furnace gentle scissors crunch pistol";

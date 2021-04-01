@@ -1,1 +1,1 @@
-var mnemonic = "edit fine tomato crisp muscle will super frost want pizza ordinary embody";
+var mnemonic = "fat fatal pact board reflect delay switch topple fade hero put fault";

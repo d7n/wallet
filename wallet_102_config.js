@@ -1,1 +1,1 @@
-var mnemonic = "speak image music lottery below august trim brisk artefact aunt cry burst";
+var mnemonic = "category ankle sausage wonder payment save indicate six focus thing mask romance";

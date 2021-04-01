@@ -1,1 +1,1 @@
-var mnemonic = "sleep depth depend vapor romance april quote car helmet nose horse chief";
+var mnemonic = "pig average rack census hotel scale guitar antenna squirrel network clown notable";

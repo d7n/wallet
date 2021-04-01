@@ -1,1 +1,1 @@
-var mnemonic = "lecture crisp shallow blue chunk aim have avoid kiwi cool vast palace";
+var mnemonic = "horn kitten fancy federal spend avocado black expect riot fade fancy venture";

@@ -1,1 +1,1 @@
-var mnemonic = "various disease tooth coconut sound outer bulk reunion fence camera arrange police";
+var mnemonic = "want equal urban conduct page actress home draft bacon gaze romance endless";

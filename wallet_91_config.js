@@ -1,1 +1,1 @@
-var mnemonic = "initial grace calm unfold breeze check extend they elegant exchange ceiling replace";
+var mnemonic = "wisdom stairs cheese choose brave away door trophy gold mobile grace used";

@@ -1,1 +1,1 @@
-var mnemonic = "below hurt equip suggest swing jump office animal notable busy page coach";
+var mnemonic = "office yard march order october tiny pave human job cube acquire luggage";

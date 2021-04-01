@@ -1,1 +1,1 @@
-var mnemonic = "sponsor future clap lend wool fox trim few drop erode novel cattle";
+var mnemonic = "scale liar process grab theory junk jaguar allow bamboo gospel rich throw";

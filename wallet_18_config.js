@@ -1,1 +1,1 @@
-var mnemonic = "butter core purchase warfare invest dream drip door bone save silent empower";
+var mnemonic = "park forest better joke flash sister require sand gain shop usage lumber";

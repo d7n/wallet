@@ -1,1 +1,1 @@
-var mnemonic = "swim filter air loyal present book spray march limit plate uniform banana";
+var mnemonic = "snap disease vendor dog keen old sad wedding excess blouse spoon sentence";

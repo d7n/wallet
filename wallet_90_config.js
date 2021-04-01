@@ -1,1 +1,1 @@
-var mnemonic = "unfold unveil picnic habit bench tissue kind vivid resist pitch drill pride";
+var mnemonic = "seek segment parade reason electric easily aim inject february next canoe injury";

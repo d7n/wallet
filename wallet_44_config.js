@@ -1,1 +1,1 @@
-var mnemonic = "social vapor barely loan style festival blossom creek agree cliff mango topple";
+var mnemonic = "collect stomach inner gauge gorilla fossil wasp narrow thrive issue smart clerk";

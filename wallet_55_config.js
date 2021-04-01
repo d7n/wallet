@@ -1,1 +1,1 @@
-var mnemonic = "bicycle soul bunker slow satisfy quality magic return bench brother spin wedding";
+var mnemonic = "spend duck student pluck jump year chair ghost trumpet also faint worry";

@@ -1,1 +1,1 @@
-var mnemonic = "open gospel antique before beef picnic twice unique indicate message sock powder";
+var mnemonic = "borrow sight valve pledge eight segment person velvet peace drop enhance tonight";

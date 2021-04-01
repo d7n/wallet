@@ -1,1 +1,1 @@
-var mnemonic = "bridge celery layer custom sure innocent resource swear crime adapt clean behave";
+var mnemonic = "trade since divide inside grief shell height retire core deputy walnut matrix";

@@ -1,1 +1,1 @@
-var mnemonic = "below thumb code zero oil normal cricket recipe horse amused dog cable";
+var mnemonic = "always cancel wedding silver rent rhythm picture sun bleak night small usual";

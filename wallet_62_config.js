@@ -1,1 +1,1 @@
-var mnemonic = "volcano below candy dune chronic science common uncle effort unique clap jeans";
+var mnemonic = "giggle cook chunk fresh spawn reopen music fashion demand industry hope deer";

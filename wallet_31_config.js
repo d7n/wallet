@@ -1,1 +1,1 @@
-var mnemonic = "annual neither mansion child badge choose neck round concert caution depart pulse";
+var mnemonic = "ethics bottom chicken silent gadget reduce next return exhaust curious wasp aspect";

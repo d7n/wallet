@@ -1,1 +1,1 @@
-var mnemonic = "return strike suit confirm luxury boost feed test now husband artist badge";
+var mnemonic = "orbit nothing busy middle scorpion deer junior cinnamon february cause daughter unusual";

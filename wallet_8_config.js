@@ -1,1 +1,1 @@
-var mnemonic = "figure tragic volcano dash economy wolf word suggest action lab wrestle intact";
+var mnemonic = "moral blind ignore vibrant kind side noodle circle private become frown alert";

@@ -1,1 +1,1 @@
-var mnemonic = "cabbage want aisle begin liquid pond reject novel strong slot rhythm season";
+var mnemonic = "food evil work pair curtain easily coil two gorilla tissue various used";

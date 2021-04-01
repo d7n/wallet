@@ -1,1 +1,1 @@
-var mnemonic = "bean vapor confirm ladder modify mixed lizard horror jealous tree yellow mirror";
+var mnemonic = "donkey amateur asthma option december morning sunny novel acquire negative glass sort";

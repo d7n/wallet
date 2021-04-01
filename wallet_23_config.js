@@ -1,1 +1,1 @@
-var mnemonic = "column immense tool equal speed oppose option search order violin replace couch";
+var mnemonic = "used century face panther catch improve carry smooth viable neither banner sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "drip never stand prevent loop indicate van refuse help menu vessel once";
+var mnemonic = "leader vanish coconut fossil tenant salon course toilet brand winner viable version";

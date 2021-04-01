@@ -1,1 +1,1 @@
-var mnemonic = "humble bike ask pony whale powder curious robust upon owner kangaroo evoke";
+var mnemonic = "follow chapter stage victory essence cube crack just name pelican collect square";

@@ -1,1 +1,1 @@
-var mnemonic = "fuel document park purity repeat cigar finish faculty cup pigeon vague country";
+var mnemonic = "actress hire doll vibrant husband travel bag brain model pistol digital winter";

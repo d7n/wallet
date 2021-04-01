@@ -1,1 +1,1 @@
-var mnemonic = "royal script emotion use parrot grief fine kitten obtain van lens nothing";
+var mnemonic = "tennis cage express expand strong call comic warfare improve festival aim master";

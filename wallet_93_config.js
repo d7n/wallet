@@ -1,1 +1,1 @@
-var mnemonic = "mad little fit category april wave rigid type lab board glide blouse";
+var mnemonic = "puppy jelly lottery crater culture assume color chair stuff melt dismiss isolate";

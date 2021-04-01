@@ -1,1 +1,1 @@
-var mnemonic = "you chat silent ticket code sweet elite drift lunar engine bless scan";
+var mnemonic = "shoulder eight learn enlist often throw neutral cross pink found gather loud";

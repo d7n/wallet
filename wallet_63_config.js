@@ -1,1 +1,1 @@
-var mnemonic = "lunch sick maple inhale panel walnut speak appear magnet burst fish asset";
+var mnemonic = "slim kangaroo trial clip hub jaguar surge vehicle bulb borrow giraffe essence";

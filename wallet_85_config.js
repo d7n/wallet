@@ -1,1 +1,1 @@
-var mnemonic = "custom menu ghost arrest profit another sketch glance excuse usual repair camp";
+var mnemonic = "cheese decide goose vault gift visa deliver void pole index dentist dish";

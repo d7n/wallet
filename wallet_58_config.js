@@ -1,1 +1,1 @@
-var mnemonic = "never broken tip source round crush banner dilemma amused fossil mandate sample";
+var mnemonic = "toast wheat track point swift cactus about chalk simple purse process sleep";

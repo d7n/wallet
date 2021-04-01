@@ -1,1 +1,1 @@
-var mnemonic = "draw reason federal neutral cradle victory nominee solid twin truck achieve razor";
+var mnemonic = "tube problem rack ancient embark village menu time web point wave order";

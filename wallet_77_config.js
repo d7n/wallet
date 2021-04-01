@@ -1,1 +1,1 @@
-var mnemonic = "super slogan luxury deer tissue reward large helmet hand catalog lyrics genre";
+var mnemonic = "island group cotton hurdle head maple occur brain craft skin combine crane";

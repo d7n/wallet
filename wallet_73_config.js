@@ -1,1 +1,1 @@
-var mnemonic = "flock neutral person sort defy swarm element filter hip october dust lens";
+var mnemonic = "only mail sudden rescue smooth rebuild pretty over educate royal frequent rate";

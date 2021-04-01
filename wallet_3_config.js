@@ -1,1 +1,1 @@
-var mnemonic = "kiss dwarf sand hand drive gain access fiber rigid gown bunker motion";
+var mnemonic = "ordinary usual manual certain joy plate salmon gift casino iron endless brick";

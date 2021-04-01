@@ -1,1 +1,1 @@
-var mnemonic = "mail firm top wheat diagram lucky chest bottom mechanic dance loyal fabric";
+var mnemonic = "bamboo kite parrot oxygen mix law either wait price limit found garlic";

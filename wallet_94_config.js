@@ -1,1 +1,1 @@
-var mnemonic = "artwork language deer obvious luxury rice aspect subway cool adjust possible garlic";
+var mnemonic = "cloth garlic welcome nuclear business speak cost stock powder because humble hint";

@@ -1,1 +1,1 @@
-var mnemonic = "clump reopen brother junk shy motion magic romance glimpse cheese junk story";
+var mnemonic = "magic digital unfair tent humor about waste unfair torch attack skirt dawn";

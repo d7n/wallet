@@ -1,1 +1,1 @@
-var mnemonic = "afraid black team illness spice crystal find memory reject feed conduct expire";
+var mnemonic = "dust pioneer aware turn stem decide home finger reopen blade february invest";

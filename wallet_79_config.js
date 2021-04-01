@@ -1,1 +1,1 @@
-var mnemonic = "manual furnace rib history morning pitch sand fossil list six group earn";
+var mnemonic = "lock battle old lake canal evolve salt arrest force thunder review plug";

@@ -1,1 +1,1 @@
-var mnemonic = "man such glad normal lucky draw abandon suit intact pioneer stand owner";
+var mnemonic = "company reject genius title visual connect romance annual put prize perfect section";

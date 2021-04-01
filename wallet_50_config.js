@@ -1,1 +1,1 @@
-var mnemonic = "leaf slab exotic recall give stairs later depend cotton square lens visual";
+var mnemonic = "arrest feel potato tomorrow curtain approve absurd plastic shield rebel roof sunny";

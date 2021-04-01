@@ -1,1 +1,1 @@
-var mnemonic = "agent castle more intact grab thumb merry funny crisp wheat absurd tent";
+var mnemonic = "enforce text spice smile lamp affair oblige ignore fantasy umbrella advice three";

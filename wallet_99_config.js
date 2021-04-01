@@ -1,1 +1,1 @@
-var mnemonic = "attitude sudden expire client find dilemma lesson notable violin deputy soul thunder";
+var mnemonic = "cereal memory scheme victory liquid tag grass choice stereo keep job spawn";

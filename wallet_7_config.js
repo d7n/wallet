@@ -1,1 +1,1 @@
-var mnemonic = "next require axis lock crop urban kidney pelican run disease become trip";
+var mnemonic = "exhaust wing level topple rent copper citizen sell true purse ocean any";

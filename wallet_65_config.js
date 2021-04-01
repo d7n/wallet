@@ -1,1 +1,1 @@
-var mnemonic = "arm mule flee comfort dry kiwi gate rose blue essay vocal correct";
+var mnemonic = "action tank cake grace royal upgrade until possible menu manual regret infant";

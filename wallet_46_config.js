@@ -1,1 +1,1 @@
-var mnemonic = "garment update dilemma stomach nominee fix menu illegal blur diagram just milk";
+var mnemonic = "creek drum fitness course spray arrive walk time race viable fury choice";

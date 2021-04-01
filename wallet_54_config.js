@@ -1,1 +1,1 @@
-var mnemonic = "top vacant junior rug busy between denial lemon reveal tobacco expect page";
+var mnemonic = "toddler violin special day degree angle poet poverty valley mixture rent case";

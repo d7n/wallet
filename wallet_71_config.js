@@ -1,1 +1,1 @@
-var mnemonic = "original ostrich recipe bundle person crawl mirror hope quality meadow spawn start";
+var mnemonic = "hope dress disorder bridge soldier certain scare receive ivory eagle fantasy sheriff";
