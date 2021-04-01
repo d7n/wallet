@@ -1,1 +1,1 @@
-var mnemonic = "token tooth biology glow spike wisdom merge market cotton whale feature bounce";
+var mnemonic = "iron hidden home diagram smooth globe fall theme total talent afraid awful";

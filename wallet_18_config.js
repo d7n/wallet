@@ -1,1 +1,1 @@
-var mnemonic = "promote praise shoe balance risk inside old stable side patrol smile hen";
+var mnemonic = "click language clinic hungry service keen question message scatter sun auto chapter";

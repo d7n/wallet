@@ -1,1 +1,1 @@
-var mnemonic = "math trial item wet alone reduce find resource hidden horn notable fame";
+var mnemonic = "faith hybrid pencil double share pig glad impose grid hill damp humor";

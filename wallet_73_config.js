@@ -1,1 +1,1 @@
-var mnemonic = "people silver speed animal isolate prepare deputy property scheme orchard token pink";
+var mnemonic = "drip ostrich universe impose seek affair captain measure machine harvest coyote cake";

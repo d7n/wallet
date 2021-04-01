@@ -1,1 +1,1 @@
-var mnemonic = "punch lamp web gun bracket end tail crucial enlist scene exhaust finish";
+var mnemonic = "knee educate fitness early rival worth arrest toe tunnel captain reflect example";

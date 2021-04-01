@@ -1,1 +1,1 @@
-var mnemonic = "pipe unhappy few dance solar craft sauce lift result skin pilot apart";
+var mnemonic = "crumble helmet second put eye soft bike blade swamp wall traffic ginger";

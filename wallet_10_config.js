@@ -1,1 +1,1 @@
-var mnemonic = "sun target umbrella math shed stick face admit galaxy drop raven believe";
+var mnemonic = "february luggage obvious retreat either pistol curious nose mutual initial three spread";

@@ -1,1 +1,1 @@
-var mnemonic = "delay later begin host cheap stick faint dignity split lady elevator shallow";
+var mnemonic = "beef sock split steel there record cute indicate dinosaur glare label evoke";

@@ -1,1 +1,1 @@
-var mnemonic = "lunar erode interest concert wheel fury hand flat return pulp castle abandon";
+var mnemonic = "license kite mushroom box produce dwarf silver surprise armor guard any flock";

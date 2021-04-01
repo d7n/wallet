@@ -1,1 +1,1 @@
-var mnemonic = "empty october cradle normal law hair spider hurdle chest neutral guilt balcony";
+var mnemonic = "affair bone ramp fan quiz defy only champion electric sample control craft";

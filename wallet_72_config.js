@@ -1,1 +1,1 @@
-var mnemonic = "either enact shop define boy okay harbor coffee argue conduct cereal much";
+var mnemonic = "night there beach shy quiz goddess coyote foster wool unique pyramid mistake";

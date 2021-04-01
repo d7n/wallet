@@ -1,1 +1,1 @@
-var mnemonic = "modify guide crop undo obvious prefer unfair auto force attract cloud useful";
+var mnemonic = "diamond wood upper slot vanish media deer swim common snake torch until";

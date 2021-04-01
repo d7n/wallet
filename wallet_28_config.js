@@ -1,1 +1,1 @@
-var mnemonic = "gas dismiss foot dial business antenna ivory hurdle buyer earth fire confirm";
+var mnemonic = "bag hawk frame scorpion valid carbon coffee vague dismiss myself slice tackle";

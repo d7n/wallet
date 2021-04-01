@@ -1,1 +1,1 @@
-var mnemonic = "cannon hello leopard aunt table about silly anxiety cost grape orphan parent";
+var mnemonic = "level bomb warrior siren elegant wisdom grass glue guitar inspire whale vessel";

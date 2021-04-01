@@ -1,1 +1,1 @@
-var mnemonic = "engage effort suffer tide planet choose clay mirror modify marine agent comic";
+var mnemonic = "electric fantasy rifle corn cool spider rebuild fix waste check orbit mix";

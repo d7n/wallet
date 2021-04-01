@@ -1,1 +1,1 @@
-var mnemonic = "legal office neglect fluid click chunk warrior network retire must library assault";
+var mnemonic = "shrimp jewel canvas fresh screen scan ensure bring impose mystery smooth doll";

@@ -1,1 +1,1 @@
-var mnemonic = "scheme drastic remain matter absent cloud warfare weasel news resemble mail sorry";
+var mnemonic = "exile error lizard thunder magic magic ball gold detail pumpkin rib crane";

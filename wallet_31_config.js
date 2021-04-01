@@ -1,1 +1,1 @@
-var mnemonic = "settle panic come friend bar evolve furnace token sunny hockey table already";
+var mnemonic = "panther category nurse butter verb real old screen girl truth ordinary prefer";

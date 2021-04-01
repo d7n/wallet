@@ -1,1 +1,1 @@
-var mnemonic = "cruise donate outdoor observe rich rough van gadget cable verify bomb salon";
+var mnemonic = "gossip kitchen engage violin version room copy rookie cost only soup cliff";

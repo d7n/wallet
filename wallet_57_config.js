@@ -1,1 +1,1 @@
-var mnemonic = "sting father fat stairs analyst road favorite sword result reopen punch distance";
+var mnemonic = "debris together sudden breeze cigar celery tunnel pitch cabin couch cluster trash";

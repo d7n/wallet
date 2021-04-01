@@ -1,1 +1,1 @@
-var mnemonic = "sell crazy south slender plug artefact sad figure dizzy fossil lottery pave";
+var mnemonic = "silk point cigar copper nominee grace shock damp fabric approve bind tape";

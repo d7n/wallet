@@ -1,1 +1,1 @@
-var mnemonic = "gather rebel sense scatter segment buzz brass pass alpha rude fun loyal";
+var mnemonic = "trap doctor avocado canvas expose garden find decline candy brick change bleak";

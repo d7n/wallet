@@ -1,1 +1,1 @@
-var mnemonic = "wrong phone share abandon garden six fault puzzle web consider giggle already";
+var mnemonic = "climb relief enlist puppy place analyst road spray balance globe alter surge";

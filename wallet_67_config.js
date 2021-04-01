@@ -1,1 +1,1 @@
-var mnemonic = "derive tumble yard student jacket caution spot kidney agent estate boil artwork";
+var mnemonic = "puzzle warfare cover rebuild lounge secret practice arctic over antenna betray zero";

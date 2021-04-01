@@ -1,1 +1,1 @@
-var mnemonic = "thought beyond slab comfort insane view jaguar february air upset script mistake";
+var mnemonic = "mobile universe subject else shield mercy prison vast east balance skill offer";

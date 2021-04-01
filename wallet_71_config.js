@@ -1,1 +1,1 @@
-var mnemonic = "rival dinosaur reason object online believe gas divide myth bone dirt pizza";
+var mnemonic = "horse agree bike ready grunt mule involve pair quarter addict dynamic father";

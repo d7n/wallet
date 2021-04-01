@@ -1,1 +1,1 @@
-var mnemonic = "market shift better blind negative economy galaxy fiber gold capable cake horror";
+var mnemonic = "attract embrace sample defense member view club helmet wall wool boat earth";

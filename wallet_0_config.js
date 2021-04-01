@@ -1,1 +1,1 @@
-var mnemonic = "afraid write drink mushroom knee cotton venue clog all wish essay fluid";
+var mnemonic = "approve dutch bracket virus model saddle derive clown bunker case screen exhaust";

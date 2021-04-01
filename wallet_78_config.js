@@ -1,1 +1,1 @@
-var mnemonic = "athlete glad advance height hole joy fatigue puppy balance category island caution";
+var mnemonic = "curtain journey autumn because custom possible buyer boy puppy learn sock elevator";

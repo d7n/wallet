@@ -1,1 +1,1 @@
-var mnemonic = "toddler unfold ocean useless history worth illness oak skin shiver sing goose";
+var mnemonic = "nurse fun horror addict youth pledge coast large try life believe riot";

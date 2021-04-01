@@ -1,1 +1,1 @@
-var mnemonic = "come initial yard own oil add ugly elephant dash neck mountain result";
+var mnemonic = "jungle neutral maid include scissors clap close divert pretty dignity autumn program";

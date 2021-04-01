@@ -1,1 +1,1 @@
-var mnemonic = "vapor cushion occur local coil gravity fun wheel off muscle trick hunt";
+var mnemonic = "young ozone honey save sick child water stool acquire gadget banana salon";

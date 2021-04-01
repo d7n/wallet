@@ -1,1 +1,1 @@
-var mnemonic = "rough attack scout alert fantasy skirt text nominee better belt ordinary obey";
+var mnemonic = "bonus mandate tool agent dismiss two time donor skirt bright hundred among";

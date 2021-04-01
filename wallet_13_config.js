@@ -1,1 +1,1 @@
-var mnemonic = "barely winter organ twice nose inmate trouble move air short park month";
+var mnemonic = "flip begin chapter half love already middle slender bounce wool toilet elbow";

@@ -1,1 +1,1 @@
-var mnemonic = "monitor home pizza improve upon history tennis thank damp dignity guide laptop";
+var mnemonic = "proof equal dumb ribbon female panel elephant flip cluster worth ring security";

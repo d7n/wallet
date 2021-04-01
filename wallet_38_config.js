@@ -1,1 +1,1 @@
-var mnemonic = "champion frog circle injury emotion shallow cable concert width illness card vacant";
+var mnemonic = "practice magic obscure quality flock ten smile exile effort faith decrease brain";

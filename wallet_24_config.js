@@ -1,1 +1,1 @@
-var mnemonic = "absurd science vicious dutch measure quote narrow media flush chronic sweet tribe";
+var mnemonic = "cause hawk draw harvest act rain blush pepper memory ball minor night";

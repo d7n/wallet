@@ -1,1 +1,1 @@
-var mnemonic = "genre elbow snap welcome rug culture yard pyramid talent core dwarf emotion";
+var mnemonic = "deer annual climb upset seed grow trend flight join pudding shallow clean";

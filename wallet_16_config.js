@@ -1,1 +1,1 @@
-var mnemonic = "melody detect patrol arrive dune grunt shift cement exact decrease coach fee";
+var mnemonic = "repair flight process patrol chef scare album slow frown rescue coral lawsuit";

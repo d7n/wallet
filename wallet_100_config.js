@@ -1,1 +1,1 @@
-var mnemonic = "tongue tell tourist insane kick nut nephew muscle whip tonight safe embark";
+var mnemonic = "zebra citizen olympic monster social leaf orange orphan unfold elephant exhibit time";

@@ -1,1 +1,1 @@
-var mnemonic = "level antenna paddle uncover dish autumn basket hunt visual stick cigar match";
+var mnemonic = "vacuum river spray globe addict grief laundry suit clutch gate guilt also";

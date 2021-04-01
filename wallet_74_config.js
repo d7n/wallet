@@ -1,1 +1,1 @@
-var mnemonic = "atom car super share mule essence connect kitchen anger minimum income divide";
+var mnemonic = "injury question have habit loud joke nothing blush orange stairs law capital";

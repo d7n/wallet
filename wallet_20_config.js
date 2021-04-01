@@ -1,1 +1,1 @@
-var mnemonic = "note exact august uncle blush cousin maximum dilemma donkey minute speed genius";
+var mnemonic = "diary faint neither improve differ peace angle prepare actress science humor expect";

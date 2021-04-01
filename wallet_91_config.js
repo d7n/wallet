@@ -1,1 +1,1 @@
-var mnemonic = "good ocean exhibit vague chicken drill polar defense cook scissors message rebel";
+var mnemonic = "behave cloth foster cry reveal discover acoustic spring punch vehicle essence pattern";

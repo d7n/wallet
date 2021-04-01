@@ -1,1 +1,1 @@
-var mnemonic = "rate sentence patrol actress stick cycle close skirt firm ramp advice system";
+var mnemonic = "extra fault sleep trophy decade nature tortoise session cry quiz faith debate";

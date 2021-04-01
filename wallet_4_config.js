@@ -1,1 +1,1 @@
-var mnemonic = "myself laugh engine mutual jeans jaguar tonight liar nose only discover update";
+var mnemonic = "disagree index crime disagree dose hint photo sea motor mountain convince shrimp";

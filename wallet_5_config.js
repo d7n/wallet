@@ -1,1 +1,1 @@
-var mnemonic = "vivid tell brother symbol broom dizzy imitate ring penalty cinnamon circle olive";
+var mnemonic = "stock transfer tribe awkward flag orchard unique valve worth arrive prefer sense";

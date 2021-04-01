@@ -1,1 +1,1 @@
-var mnemonic = "swear envelope jaguar insane alert dog action protect disorder ripple ceiling else";
+var mnemonic = "mom stable october track quantum weather sample hammer useful pull neglect choose";

@@ -1,1 +1,1 @@
-var mnemonic = "vehicle favorite grant rigid vote write initial pond cereal industry route drive";
+var mnemonic = "photo easily rival medal gesture average auto garden segment toddler night march";

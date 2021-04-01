@@ -1,1 +1,1 @@
-var mnemonic = "type market shop soon hunt huge shuffle best deer tent celery huge";
+var mnemonic = "turkey file ride old plate escape garbage strong fiscal album elbow fork";

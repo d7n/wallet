@@ -1,1 +1,1 @@
-var mnemonic = "dawn off aspect kiss bleak brave income airport fold venture express during";
+var mnemonic = "pepper bottom wash cheese escape maple satisfy crop hedgehog hat claw save";

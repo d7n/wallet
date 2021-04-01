@@ -1,1 +1,1 @@
-var mnemonic = "derive novel shield depart caution praise floor crane visa estate false apology";
+var mnemonic = "unveil chronic pear clump survey bright crawl update cry sting degree admit";

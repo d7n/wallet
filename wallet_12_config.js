@@ -1,1 +1,1 @@
-var mnemonic = "party usual spread walnut poverty area street drink prepare loop globe awesome";
+var mnemonic = "street love object vicious because dry cloth distance excuse arena physical acid";

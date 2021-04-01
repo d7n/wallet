@@ -1,1 +1,1 @@
-var mnemonic = "short couch palace ahead fix cool token page split drift dirt glove";
+var mnemonic = "demise machine sniff cloud rotate life remind south engine alert soon frozen";

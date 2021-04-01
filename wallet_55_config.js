@@ -1,1 +1,1 @@
-var mnemonic = "sight spin rapid around congress fatigue useful ask science snap nephew enable";
+var mnemonic = "into abandon never special use swear traffic cry inspire uniform extra record";

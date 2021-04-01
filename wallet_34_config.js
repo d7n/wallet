@@ -1,1 +1,1 @@
-var mnemonic = "mystery feed file burden syrup blur oxygen man gold twist pitch bird";
+var mnemonic = "hamster rent spring tree direct dry cannon melt horn clarify wheat cage";

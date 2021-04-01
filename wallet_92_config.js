@@ -1,1 +1,1 @@
-var mnemonic = "snake island envelope turn plug clip setup tray pyramid output very trick";
+var mnemonic = "west ostrich tennis share express happy recall rescue egg series elbow lyrics";

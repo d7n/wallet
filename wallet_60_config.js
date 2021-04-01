@@ -1,1 +1,1 @@
-var mnemonic = "grocery next private fetch glare oil decide endless tilt stock six doctor";
+var mnemonic = "ignore main chunk business meat bag ozone mutual almost home monitor explain";

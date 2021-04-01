@@ -1,1 +1,1 @@
-var mnemonic = "special insect shock airport dad rail cliff banana screen permit belt brush";
+var mnemonic = "reopen glove inside lion present amount shock aunt wish raw parrot winner";

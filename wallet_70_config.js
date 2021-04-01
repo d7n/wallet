@@ -1,1 +1,1 @@
-var mnemonic = "submit slim barely task fragile eagle flag whip able rookie during sketch";
+var mnemonic = "endless file acid fuel slot cushion observe huge warrior apology credit neither";

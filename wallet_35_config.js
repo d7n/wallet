@@ -1,1 +1,1 @@
-var mnemonic = "apology design erupt frame vessel forest leisure jacket lucky scrap slow lawn";
+var mnemonic = "pottery game story alarm dress they arrive prevent version narrow grain update";

@@ -1,1 +1,1 @@
-var mnemonic = "assume treat fog vibrant host autumn client pudding balance switch more shed";
+var mnemonic = "maple crack segment emotion choose kangaroo waste food monkey tourist ecology improve";

@@ -1,1 +1,1 @@
-var mnemonic = "spray excite reason affair giant stairs trouble before bind old become bamboo";
+var mnemonic = "unhappy rigid copy midnight excite media still rescue toilet ribbon invest anxiety";

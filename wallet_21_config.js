@@ -1,1 +1,1 @@
-var mnemonic = "divide loud girl target shock naive model galaxy alarm glove loan shine";
+var mnemonic = "hint refuse abandon extra place solar sick giraffe output silver only keen";

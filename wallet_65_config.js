@@ -1,1 +1,1 @@
-var mnemonic = "chicken bitter fantasy fame rack biology before voice rug garbage artist scan";
+var mnemonic = "measure song broom mean kidney feature crack group want slight gate above";

@@ -1,1 +1,1 @@
-var mnemonic = "fiscal jewel junior slogan glad state reunion stone purity glove fiction credit";
+var mnemonic = "valid ice future crime swear protect green relax owner budget major another";

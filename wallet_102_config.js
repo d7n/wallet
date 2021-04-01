@@ -1,1 +1,1 @@
-var mnemonic = "response weather song problem combine cry end spatial tenant long market property";
+var mnemonic = "walnut same foster duty oak pact mule solve exchange shove tell slab";

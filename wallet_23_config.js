@@ -1,1 +1,1 @@
-var mnemonic = "drive dream thought panel net juice salute diet ability bicycle borrow advice";
+var mnemonic = "deny good ripple drive dutch canal domain country pact chimney enemy ten";

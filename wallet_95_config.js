@@ -1,1 +1,1 @@
-var mnemonic = "cargo busy sign rural early nuclear dinner scheme quantum group endorse hand";
+var mnemonic = "human opera kit pulse impulse system quick rocket virus answer whale another";

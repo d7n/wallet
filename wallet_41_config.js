@@ -1,1 +1,1 @@
-var mnemonic = "verify fluid essence bunker vapor dune squirrel casual victory drum lyrics long";
+var mnemonic = "stand grass culture orange apple virus knee eight shove bread else pave";

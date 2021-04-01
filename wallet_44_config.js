@@ -1,1 +1,1 @@
-var mnemonic = "where skull dial search image alone time cake boat crime age capital";
+var mnemonic = "spirit zoo visual code walk rural aspect six couple blade illness letter";

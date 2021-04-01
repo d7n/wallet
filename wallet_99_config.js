@@ -1,1 +1,1 @@
-var mnemonic = "feature birth enhance rotate innocent find logic safe lecture virtual october craft";
+var mnemonic = "food drum visual deposit sleep screen wolf snow maid slow oblige thunder";

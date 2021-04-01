@@ -1,1 +1,1 @@
-var mnemonic = "sense butter volcano install carpet auto sugar defy age when step atom";
+var mnemonic = "supply assault lift detect final must thank post merry alert prevent fatal";

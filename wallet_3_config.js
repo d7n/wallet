@@ -1,1 +1,1 @@
-var mnemonic = "birth finish whip rebel slow nurse image happy media diamond usual float";
+var mnemonic = "opera garbage sense fluid aspect ahead minor exhaust salmon tuna shield catalog";

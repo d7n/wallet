@@ -1,1 +1,1 @@
-var mnemonic = "clap genuine march achieve person tribe mobile route doctor digital neutral kick";
+var mnemonic = "region salon own session math sorry salad muscle elephant wire picture because";

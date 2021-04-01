@@ -1,1 +1,1 @@
-var mnemonic = "glass upper naive reduce purpose sorry quit cause below style motion stadium";
+var mnemonic = "swap rival hair trumpet tiny firm human ready tiny noble unlock outdoor";

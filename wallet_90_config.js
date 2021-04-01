@@ -1,1 +1,1 @@
-var mnemonic = "digital pattern weapon drama drift useless dial unfold quality carpet rotate blue";
+var mnemonic = "spider phone impact matter obvious pumpkin decrease rookie front hero figure vehicle";

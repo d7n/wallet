@@ -1,1 +1,1 @@
-var mnemonic = "unveil stage fault age lift news forest define approve nerve type fish";
+var mnemonic = "busy ridge toddler island whale pepper mention foster muffin village vivid magic";

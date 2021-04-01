@@ -1,1 +1,1 @@
-var mnemonic = "whip picture gospel arrive history replace coconut pottery lake car pulse force";
+var mnemonic = "grace air industry history method push lottery rich stay door cross evidence";

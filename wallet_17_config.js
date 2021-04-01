@@ -1,1 +1,1 @@
-var mnemonic = "build tilt head purchase mutual sniff any skin broom knee learn lawn";
+var mnemonic = "leave sun retreat unusual purse account life luggage alarm dolphin giraffe estate";

@@ -1,1 +1,1 @@
-var mnemonic = "render office fringe control friend warrior educate illness advance nature almost scout";
+var mnemonic = "prison change taxi august please amused camera this flee doll leisure power";

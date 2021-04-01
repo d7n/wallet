@@ -1,1 +1,1 @@
-var mnemonic = "funny learn retire wealth puppy exercise romance hurdle best hundred slice differ";
+var mnemonic = "neglect wild unhappy envelope laugh dirt deputy symptom noise naive moment correct";

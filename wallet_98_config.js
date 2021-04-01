@@ -1,1 +1,1 @@
-var mnemonic = "visa solve solution same style say display recipe connect pilot note deputy";
+var mnemonic = "push test retreat truck avocado key strike predict hurdle quick talent bunker";

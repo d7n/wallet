@@ -1,1 +1,1 @@
-var mnemonic = "laundry piece electric tragic seat tone february alien vacuum jazz food any";
+var mnemonic = "gauge flat razor primary across blur junk glove tree term depend mansion";

@@ -1,1 +1,1 @@
-var mnemonic = "keep kick fruit bottom fortune strike output credit visual journey answer library";
+var mnemonic = "crucial exit course parade boring remind spend key survey tissue output embark";

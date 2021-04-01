@@ -1,1 +1,1 @@
-var mnemonic = "powder broom clean whisper rigid gather choose diet purse modify find imitate";
+var mnemonic = "sure meadow thought model sun desert shallow true play indoor split orbit";

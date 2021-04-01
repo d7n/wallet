@@ -1,1 +1,1 @@
-var mnemonic = "monkey squeeze slide hundred mystery beef chapter shield broccoli area blush kind";
+var mnemonic = "calm donate best essay segment modify push ketchup add begin zebra pave";

@@ -1,1 +1,1 @@
-var mnemonic = "spare planet okay core inform tool cotton suffer useful service alien admit";
+var mnemonic = "ticket frog garlic wedding donate kangaroo misery media element budget nasty slow";

@@ -1,1 +1,1 @@
-var mnemonic = "license pretty post nothing leave will fiber guilt carry banner stick mail";
+var mnemonic = "gun aspect essay sponsor voyage tornado poem mention coach destroy proud eager";
