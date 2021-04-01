@@ -1,1 +1,1 @@
-var mnemonic = "mixed army first cat plate blossom extra noble ghost exercise wrap breeze";
+var mnemonic = "obscure oil tackle armor credit seek minimum among sport famous fox approve";

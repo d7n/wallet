@@ -1,1 +1,1 @@
-var mnemonic = "struggle level cave skill arctic index awkward awake lady guitar frozen speed";
+var mnemonic = "unusual useless isolate duck spell sport neglect loop utility faculty dragon stove";

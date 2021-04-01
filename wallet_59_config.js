@@ -1,1 +1,1 @@
-var mnemonic = "derive mushroom ability patrol roof exchange butter aerobic airport smooth patient naive";
+var mnemonic = "bind kid nephew man face inherit trip deputy brown input decrease rebel";

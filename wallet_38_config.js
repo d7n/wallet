@@ -1,1 +1,1 @@
-var mnemonic = "brain mass dwarf recycle rocket kiwi seminar surprise combine current hunt grow";
+var mnemonic = "shine vicious once flag dream curve system protect road celery ghost birth";

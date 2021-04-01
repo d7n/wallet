@@ -1,1 +1,1 @@
-var mnemonic = "lock life right expire canyon lottery awesome toss stick alone defense circle";
+var mnemonic = "moon lava radio casual divert glance chuckle piano exhibit screen famous antenna";

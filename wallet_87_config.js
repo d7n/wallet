@@ -1,1 +1,1 @@
-var mnemonic = "patch lift maid nest absurd scrap steak head casino afford actual private";
+var mnemonic = "room blame stock twist pattern vanish display round fold broccoli cluster initial";

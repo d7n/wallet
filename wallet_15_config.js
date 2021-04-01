@@ -1,1 +1,1 @@
-var mnemonic = "baby rug rubber wheat decade injury pact seat resource collect swift hurry";
+var mnemonic = "wide attend life oil true unknown world rain sail slush sleep unable";

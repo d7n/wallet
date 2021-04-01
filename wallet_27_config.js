@@ -1,1 +1,1 @@
-var mnemonic = "chronic dust ice fold left salad next visit canoe company breeze sing";
+var mnemonic = "large minimum crack imitate pattern drastic ripple gauge neither canal soft use";

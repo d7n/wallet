@@ -1,1 +1,1 @@
-var mnemonic = "siren edge bread inspire mom year carbon track gauge invest hand prize";
+var mnemonic = "town rally tourist valley reject reopen rude raise eternal essence speed plug";

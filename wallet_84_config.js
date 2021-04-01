@@ -1,1 +1,1 @@
-var mnemonic = "ignore embrace answer guitar legend charge cannon vague drift screen foot extra";
+var mnemonic = "knock face shiver fabric gloom insect thumb voice shop quit window august";

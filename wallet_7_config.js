@@ -1,1 +1,1 @@
-var mnemonic = "slender open charge basket spread tell donkey silver cupboard seven october expect";
+var mnemonic = "address ginger middle spread solid enrich defy teach system weasel siege garment";

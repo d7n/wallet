@@ -1,1 +1,1 @@
-var mnemonic = "stand wonder culture window begin parrot donate very law virus leopard possible";
+var mnemonic = "album metal collect catch system onion alien cable ring tide sense skate";

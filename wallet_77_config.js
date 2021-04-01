@@ -1,1 +1,1 @@
-var mnemonic = "legend sea derive hazard valid above era then pepper sting alcohol frown";
+var mnemonic = "cook letter goat vicious culture flag brick uncle audit pattern erode wire";

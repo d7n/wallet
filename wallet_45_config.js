@@ -1,1 +1,1 @@
-var mnemonic = "banner ten next middle lesson bean truly bring clinic moment lift arrow";
+var mnemonic = "aware barrel any august duty blush chronic advance stock crisp glory phone";

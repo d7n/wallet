@@ -1,1 +1,1 @@
-var mnemonic = "wrap great attract dirt ankle science term vague charge unknown exit life";
+var mnemonic = "change bottom mixed reflect olympic nest forest charge present maximum curious height";

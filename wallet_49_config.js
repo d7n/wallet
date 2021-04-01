@@ -1,1 +1,1 @@
-var mnemonic = "copy ethics purity easily gallery cushion fun canyon object discover language lecture";
+var mnemonic = "bar voyage pill rice avoid alone cry biology annual enjoy fossil collect";

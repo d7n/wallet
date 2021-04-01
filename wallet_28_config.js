@@ -1,1 +1,1 @@
-var mnemonic = "ginger raise track share suffer manage expect patient cluster fringe wide weather";
+var mnemonic = "plunge corn chat culture clog shoe nice double ordinary purse fantasy child";

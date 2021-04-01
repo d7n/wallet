@@ -1,1 +1,1 @@
-var mnemonic = "fog cargo allow ethics text position task cloth core cushion velvet october";
+var mnemonic = "spawn uncover current ankle voice pull foster weird exclude faint dream strategy";

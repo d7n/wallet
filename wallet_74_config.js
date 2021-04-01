@@ -1,1 +1,1 @@
-var mnemonic = "deliver coil stone inquiry napkin high over suit rigid give position number";
+var mnemonic = "letter rude lazy alarm worth melody comfort boss order future delay aim";

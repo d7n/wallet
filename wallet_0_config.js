@@ -1,1 +1,1 @@
-var mnemonic = "various apology harsh since tissue auction man meat broom orbit display invest";
+var mnemonic = "marriage cable sunny fat result grief used cover stereo edge grain topple";

@@ -1,1 +1,1 @@
-var mnemonic = "broccoli sure safe general upset youth trouble obtain ordinary arrest retire barrel";
+var mnemonic = "dawn prosper demand couple endorse cannon feed egg point travel stage elevator";

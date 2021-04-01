@@ -1,1 +1,1 @@
-var mnemonic = "mass organ audit mimic awake edit write kit blossom clog ahead affair";
+var mnemonic = "tomato castle bomb rival special habit arrow address trip mind sting medal";

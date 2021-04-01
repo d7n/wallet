@@ -1,1 +1,1 @@
-var mnemonic = "shy undo picture gentle popular viable man rude share vehicle provide seed";
+var mnemonic = "worth gorilla seminar unhappy asthma best lottery faith cruise reunion minimum easily";

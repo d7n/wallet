@@ -1,1 +1,1 @@
-var mnemonic = "grab absent install census carbon idle always idea tip frog dawn minute";
+var mnemonic = "weather nephew define dismiss bring fiscal grab equip pitch forget unfold fan";

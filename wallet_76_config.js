@@ -1,1 +1,1 @@
-var mnemonic = "private approve rabbit settle recipe bitter culture cake doll give portion ball";
+var mnemonic = "depth ancient wool grass old limit use body flower lawn swing about";

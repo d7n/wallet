@@ -1,1 +1,1 @@
-var mnemonic = "direct crazy cable position trigger match unhappy flag dynamic salute life wear";
+var mnemonic = "cry hybrid cute coin hammer hurdle comfort cute rely afford tennis wink";

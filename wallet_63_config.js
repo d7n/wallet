@@ -1,1 +1,1 @@
-var mnemonic = "catalog curve wagon meadow dawn trust typical business execute fox hover frozen";
+var mnemonic = "tortoise team adult oxygen kit exact gold fit polar quality hurt tower";

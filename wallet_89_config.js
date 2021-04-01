@@ -1,1 +1,1 @@
-var mnemonic = "sure loud arrest panda guide pole width cool answer fame corn adult";
+var mnemonic = "bubble train kit foam chunk spoil degree orange airport disagree pudding amazing";

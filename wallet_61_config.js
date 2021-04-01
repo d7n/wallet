@@ -1,1 +1,1 @@
-var mnemonic = "lend twenty employ caution apple toilet melt economy inmate wolf moon lobster";
+var mnemonic = "setup hole baby attack pave snap camp accident plastic amused cotton outdoor";

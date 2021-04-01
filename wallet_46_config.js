@@ -1,1 +1,1 @@
-var mnemonic = "decide bullet action zoo add bone industry rich require quiz invest iron";
+var mnemonic = "damage cabin tenant grow enjoy region acid olympic legend hurry utility nature";

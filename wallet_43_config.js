@@ -1,1 +1,1 @@
-var mnemonic = "chicken panther yard seven hood convince little render jacket buddy shock remove";
+var mnemonic = "wool sort excuse once swift female sniff stamp spare term possible weird";

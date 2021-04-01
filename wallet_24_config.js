@@ -1,1 +1,1 @@
-var mnemonic = "mercy enlist cotton consider observe census dismiss illness congress clarify lion inject";
+var mnemonic = "unable lesson dwarf board grunt indicate motion symbol lyrics love knock afraid";

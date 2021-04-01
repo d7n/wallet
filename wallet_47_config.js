@@ -1,1 +1,1 @@
-var mnemonic = "exhibit render ostrich clump salon erode hungry jar valid brush student soccer";
+var mnemonic = "camp honey smoke episode design debris roast top action apart one rack";

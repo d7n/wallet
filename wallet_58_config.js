@@ -1,1 +1,1 @@
-var mnemonic = "poem attract focus right adjust appear token select neglect pulse best scrap";
+var mnemonic = "lamp add ill mixed december isolate either photo turkey suspect super churn";

@@ -1,1 +1,1 @@
-var mnemonic = "history grant ostrich main day wink ketchup tag mystery where alone street";
+var mnemonic = "develop exile local skirt beef forward voice income dragon focus dutch valid";

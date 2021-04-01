@@ -1,1 +1,1 @@
-var mnemonic = "crush weird draft adjust top van rent tree rail charge hello move";
+var mnemonic = "hip lazy sight legend sphere palm film nerve pattern warrior rich curious";

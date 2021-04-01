@@ -1,1 +1,1 @@
-var mnemonic = "drip inspire dirt brass avoid biology social recall atom escape someone energy";
+var mnemonic = "pyramid survey sort crew style ill ignore rough mind decorate orchard merit";

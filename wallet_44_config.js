@@ -1,1 +1,1 @@
-var mnemonic = "genius inside original timber novel candy noodle bird border exhibit broken purity";
+var mnemonic = "become reform panic notable inject whisper axis option legend river physical jacket";

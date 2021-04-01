@@ -1,1 +1,1 @@
-var mnemonic = "battle review canvas version year mesh defy orphan rely tool common cupboard";
+var mnemonic = "demand confirm medal alter fiber deal bag urban vague danger project rack";

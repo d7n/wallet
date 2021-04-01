@@ -1,1 +1,1 @@
-var mnemonic = "foil library spell silent stool miss jelly three lazy super soup find";
+var mnemonic = "trip enter inquiry craft vintage scissors involve warrior become ketchup cave motion";

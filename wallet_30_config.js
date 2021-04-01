@@ -1,1 +1,1 @@
-var mnemonic = "endorse typical grant modify fun open change trigger inspire cheap season tray";
+var mnemonic = "future birth fan way rival extend diamond film canoe across rough office";

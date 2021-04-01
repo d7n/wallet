@@ -1,1 +1,1 @@
-var mnemonic = "empty hat often change magic dolphin solar debris truly age lend rescue";
+var mnemonic = "captain barely weekend inch garlic awful blast flag dizzy desk hollow result";

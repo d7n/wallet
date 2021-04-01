@@ -1,1 +1,1 @@
-var mnemonic = "trumpet page man old hammer clip saddle shield exile document enlist web";
+var mnemonic = "size boil lion nasty naive black shock sample cup winner muffin captain";

@@ -1,1 +1,1 @@
-var mnemonic = "busy staff liar deputy guess miss midnight tribe clutch hamster warrior dream";
+var mnemonic = "run junior warfare frog antique salute inject canoe exchange close whip enhance";

@@ -1,1 +1,1 @@
-var mnemonic = "inside flavor wire duty payment dirt balcony essay comfort oval adjust master";
+var mnemonic = "news wagon erase ecology hotel side asthma word battle remain potato envelope";

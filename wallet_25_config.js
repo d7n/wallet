@@ -1,1 +1,1 @@
-var mnemonic = "vehicle wheel fetch zone student vote license neutral behave video borrow night";
+var mnemonic = "talk coast win spirit material bridge away soap toast smoke hello marble";

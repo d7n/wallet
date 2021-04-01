@@ -1,1 +1,1 @@
-var mnemonic = "assault sphere south scare govern summer nice panda define rice violin fruit";
+var mnemonic = "state woman casino catch they boss deny focus bubble banner cereal liar";

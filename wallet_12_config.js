@@ -1,1 +1,1 @@
-var mnemonic = "divorce annual tent rail myth bid switch oppose rib become present hair";
+var mnemonic = "tent perfect blood dinner category wisdom donkey robot secret thumb dress gate";

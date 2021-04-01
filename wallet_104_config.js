@@ -1,1 +1,1 @@
-var mnemonic = "palm moment embark enter hollow priority voice door kind thank mad very";
+var mnemonic = "pudding sister unknown actual forest brass across there shrug surround assume hobby";

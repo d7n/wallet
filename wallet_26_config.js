@@ -1,1 +1,1 @@
-var mnemonic = "squirrel awkward primary sniff feed muffin razor supreme bronze release office busy";
+var mnemonic = "pilot rude lonely daring climb game tiny unaware obey shoe bronze net";

@@ -1,1 +1,1 @@
-var mnemonic = "trial review steel tone crunch exit iron powder fiction jeans mosquito bleak";
+var mnemonic = "dolphin apart joke salon update insane tube glimpse umbrella citizen odor creek";

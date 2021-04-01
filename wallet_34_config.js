@@ -1,1 +1,1 @@
-var mnemonic = "elephant link celery vibrant aware connect member amateur initial shoot draft price";
+var mnemonic = "shadow elegant finger curtain basket detect tomato engage jazz someone autumn spawn";

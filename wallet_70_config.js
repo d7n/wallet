@@ -1,1 +1,1 @@
-var mnemonic = "please drift machine fold learn sleep patient length alcohol vast loop hurdle";
+var mnemonic = "size husband hospital envelope museum quit express order key elbow crawl pass";

@@ -1,1 +1,1 @@
-var mnemonic = "table theme margin smooth bullet pledge kangaroo giggle baby auction camera control";
+var mnemonic = "quiz bargain cricket host among puzzle addict stable live stone plastic spy";

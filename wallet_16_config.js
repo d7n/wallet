@@ -1,1 +1,1 @@
-var mnemonic = "found unique prepare wing drama annual manage auto venue spend blouse identify";
+var mnemonic = "brown digital hood thank conduct choose world notice exact keen mistake outdoor";

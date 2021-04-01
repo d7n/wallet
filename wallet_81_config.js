@@ -1,1 +1,1 @@
-var mnemonic = "fancy vivid scheme curtain text juice gaze wine prevent juice bachelor brother";
+var mnemonic = "valid come display team slide furnace certain blind someone rapid gym judge";

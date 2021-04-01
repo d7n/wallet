@@ -1,1 +1,1 @@
-var mnemonic = "gospel drive main blind middle october warrior peace flower text other deal";
+var mnemonic = "swear live message nature almost man million awkward glue town rapid arena";

@@ -1,1 +1,1 @@
-var mnemonic = "welcome voice veteran stock hurt subway puppy soup have female giggle syrup";
+var mnemonic = "october topic section dish grow frequent fluid load rice away seek atom";

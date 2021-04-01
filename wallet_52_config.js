@@ -1,1 +1,1 @@
-var mnemonic = "capital silly punch inherit pass kit enlist blur dirt any front water";
+var mnemonic = "tuition thank east angle dust comic web brass gesture crowd ancient strong";

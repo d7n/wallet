@@ -1,1 +1,1 @@
-var mnemonic = "pulp explain six define copper dentist dilemma enhance album faint print disorder";
+var mnemonic = "exhibit flash image claw boost ecology diet scene dance tone purity desert";

@@ -1,1 +1,1 @@
-var mnemonic = "future school about kite swing tunnel amateur deliver garbage coast shadow junk";
+var mnemonic = "cheap actress glare bus kiss region sort island draw rocket random morning";

@@ -1,1 +1,1 @@
-var mnemonic = "muscle table patrol avocado lecture guard edge cave extra before practice hurry";
+var mnemonic = "hidden leave fame health jar lady decide dream foam loyal perfect abstract";

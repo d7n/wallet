@@ -1,1 +1,1 @@
-var mnemonic = "neglect piece birth lunch auction truth retire truck dismiss pond stairs sample";
+var mnemonic = "essay wear arrive divorce witness sight clown jungle perfect bind mobile guard";

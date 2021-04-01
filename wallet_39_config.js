@@ -1,1 +1,1 @@
-var mnemonic = "hand invest current girl that search equal spoil meadow metal surge tuna";
+var mnemonic = "beauty when two friend plug bomb shoot cradle impulse trash private leader";

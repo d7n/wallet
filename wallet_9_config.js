@@ -1,1 +1,1 @@
-var mnemonic = "crop they omit level cool vessel what melt spray target vague ribbon";
+var mnemonic = "panel mimic stand game strategy identify copper stay salad tomorrow globe jealous";

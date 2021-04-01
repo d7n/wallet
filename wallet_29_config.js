@@ -1,1 +1,1 @@
-var mnemonic = "aim slight clean gold garment often embrace have pride secret soccer style";
+var mnemonic = "wall utility patrol metal breeze truly success athlete burst inner piano hire";

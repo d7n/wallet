@@ -1,1 +1,1 @@
-var mnemonic = "height weird title advance ketchup basket slush notable vote cargo fame just";
+var mnemonic = "rally image peanut slim erode payment soon quit equal vibrant galaxy marriage";

@@ -1,1 +1,1 @@
-var mnemonic = "tonight tide bitter inmate razor echo paddle special danger shine desk more";
+var mnemonic = "angle enforce nurse energy cactus laugh limit private siege whisper label skill";

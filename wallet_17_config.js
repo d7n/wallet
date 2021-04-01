@@ -1,1 +1,1 @@
-var mnemonic = "exhaust pizza question fix hammer viable genuine pipe excite settle east hub";
+var mnemonic = "wire rug match arrow garden develop capital scissors siege system december insect";

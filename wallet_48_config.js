@@ -1,1 +1,1 @@
-var mnemonic = "battle coach lava submit nature rotate drama wagon surge nephew alone quantum";
+var mnemonic = "saddle great axis lawn basic accident worry alarm devote lumber join egg";

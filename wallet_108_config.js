@@ -1,1 +1,1 @@
-var mnemonic = "brass expect main drop tonight give abandon card reason giggle mercy inject";
+var mnemonic = "travel skull will phrase jacket artefact state latin foot garlic honey attack";

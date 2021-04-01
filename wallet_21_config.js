@@ -1,1 +1,1 @@
-var mnemonic = "about melt own lonely envelope mechanic junior pioneer skin drive acoustic alcohol";
+var mnemonic = "task boost join illness lunar puzzle brisk depend minute kangaroo half advice";

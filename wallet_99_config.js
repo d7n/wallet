@@ -1,1 +1,1 @@
-var mnemonic = "glide can someone fever under waste expose negative angle culture enemy apology";
+var mnemonic = "long reflect hover afraid carbon risk lion echo wool relief off crucial";

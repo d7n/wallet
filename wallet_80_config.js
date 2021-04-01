@@ -1,1 +1,1 @@
-var mnemonic = "reject tide catalog media crush divorce two snap van leader pottery sea";
+var mnemonic = "initial planet situate still easily cube dragon senior protect exact blossom fee";

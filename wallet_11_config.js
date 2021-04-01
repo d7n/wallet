@@ -1,1 +1,1 @@
-var mnemonic = "rate have want impact avocado lawsuit payment assist bundle basic cloth cruise";
+var mnemonic = "mail tragic ramp hip mansion menu figure silk maximum urge slow student";

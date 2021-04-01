@@ -1,1 +1,1 @@
-var mnemonic = "gadget almost unique catalog grant dutch adult blossom rich captain under awake";
+var mnemonic = "aisle current canvas together business advice congress tonight coral half jungle absorb";

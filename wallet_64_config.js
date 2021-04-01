@@ -1,1 +1,1 @@
-var mnemonic = "rhythm amateur style thank hill length use screen suspect laugh differ tomato";
+var mnemonic = "desk easy team devote method response night organ media test fuel foot";

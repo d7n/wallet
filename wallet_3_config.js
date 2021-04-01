@@ -1,1 +1,1 @@
-var mnemonic = "action raise science winner economy venue above velvet yellow evoke coil castle";
+var mnemonic = "height custom clerk trade example glare write aspect segment tissue measure female";

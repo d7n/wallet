@@ -1,1 +1,1 @@
-var mnemonic = "anger social squeeze way shell pull lobster tourist galaxy pluck heart resource";
+var mnemonic = "faculty file sample tissue juice ecology police ceiling reduce crowd remember pizza";

@@ -1,1 +1,1 @@
-var mnemonic = "ankle capable vehicle silent height neither caution weasel any december beach abstract";
+var mnemonic = "donate always wedding dog equip warfare use remember wood busy crime never";

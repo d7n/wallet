@@ -1,1 +1,1 @@
-var mnemonic = "mimic vicious quote dove exhibit jungle more swing door situate master visa";
+var mnemonic = "hill audit furnace aware move company daring ceiling night cross brisk moral";

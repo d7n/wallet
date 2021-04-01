@@ -1,1 +1,1 @@
-var mnemonic = "visa outside light prevent siege fan supply wise stereo repeat toy avoid";
+var mnemonic = "great runway casual weekend then street kid home soap dizzy mind reopen";

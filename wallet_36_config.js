@@ -1,1 +1,1 @@
-var mnemonic = "blood bonus desk smooth tomorrow awake right employ divert transfer detail report";
+var mnemonic = "carpet auction noise alert arch gift one regular exchange security inflict clarify";

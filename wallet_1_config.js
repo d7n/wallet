@@ -1,1 +1,1 @@
-var mnemonic = "clever ride gap scheme call license year stick syrup benefit together armor";
+var mnemonic = "need box paddle hedgehog bid reward diet play multiply tourist gospel auction";

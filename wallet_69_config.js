@@ -1,1 +1,1 @@
-var mnemonic = "city snap approve claw school donkey nerve squirrel connect memory laundry dignity";
+var mnemonic = "brand arrive write music coin universe lunar menu cable grain normal similar";

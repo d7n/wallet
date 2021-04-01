@@ -1,1 +1,1 @@
-var mnemonic = "fossil slush cargo onion north select lesson civil episode rose magnet upset";
+var mnemonic = "bronze cruel fun kitten mechanic inform slam wine you have pride inform";

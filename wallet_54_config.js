@@ -1,1 +1,1 @@
-var mnemonic = "crowd crop drill race method rule envelope bundle symptom anchor cross capital";
+var mnemonic = "exhaust acoustic wink always screen such field paddle fine divorce genre dad";

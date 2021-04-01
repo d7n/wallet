@@ -1,1 +1,1 @@
-var mnemonic = "token voyage enjoy accident document casual sunset beauty mesh walk cart sun";
+var mnemonic = "want draw kitten blind february upgrade paper strategy fault abandon opera slide";

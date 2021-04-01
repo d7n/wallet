@@ -1,1 +1,1 @@
-var mnemonic = "menu plastic pelican laundry matter shiver decade auto start next submit bachelor";
+var mnemonic = "dinosaur bounce squirrel quote bread height flag sad panel quantum fitness cluster";
