@@ -1,1 +1,1 @@
-var mnemonic = "tragic crane actual board vital oil valve order unit until dial april";
+var mnemonic = "defy setup isolate fit together interest correct airport slush tray wage join";

@@ -1,1 +1,1 @@
-var mnemonic = "flush slide vendor coil divorce word wave swim desk ancient borrow sand";
+var mnemonic = "actress hair sphere join believe two segment imitate discover maple century valley";

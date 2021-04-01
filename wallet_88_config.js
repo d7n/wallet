@@ -1,1 +1,1 @@
-var mnemonic = "hope agent group crime embrace anchor album pudding vanish normal human top";
+var mnemonic = "please two episode sick bronze ice trip theme unusual world negative access";

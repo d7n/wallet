@@ -1,1 +1,1 @@
-var mnemonic = "roast february meadow ostrich rose cactus kitchen another quote thought make mercy";
+var mnemonic = "suffer vast salt fire lady fall auto click wagon void sight battle";

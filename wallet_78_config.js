@@ -1,1 +1,1 @@
-var mnemonic = "give tower cost panel hand speed ball december base usual dilemma enlist";
+var mnemonic = "candy legal place flee cover critic burst night achieve about problem pause";

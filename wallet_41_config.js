@@ -1,1 +1,1 @@
-var mnemonic = "bundle victory oak column supply flavor wood lift tent wealth layer report";
+var mnemonic = "travel mix ticket verify clown gesture snack pizza age radar twenty tumble";

@@ -1,1 +1,1 @@
-var mnemonic = "inch boy wage feel chalk capital honey avoid pass key subject horror";
+var mnemonic = "arch desert page truth violin wisdom radar view gain famous immune air";

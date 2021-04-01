@@ -1,1 +1,1 @@
-var mnemonic = "april child library say round quantum hurdle miss surprise tenant actor coin";
+var mnemonic = "join boy attitude phone shrug erupt emotion setup code elegant human zoo";

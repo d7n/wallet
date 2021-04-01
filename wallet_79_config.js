@@ -1,1 +1,1 @@
-var mnemonic = "island board coin link kick march source very focus often define barrel";
+var mnemonic = "october dumb faint dog bronze cheap fork neck early virus strike gas";

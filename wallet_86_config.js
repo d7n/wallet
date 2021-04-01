@@ -1,1 +1,1 @@
-var mnemonic = "depth raw very bird steak news knife round topple moral print equip";
+var mnemonic = "skin tower blade fatal gun average purpose seat response trend select ankle";

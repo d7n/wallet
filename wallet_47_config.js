@@ -1,1 +1,1 @@
-var mnemonic = "prosper exist security mule cave surge enact man brush weasel cancel achieve";
+var mnemonic = "valley shoe slow fork south silver sketch ancient army split minute boat";

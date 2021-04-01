@@ -1,1 +1,1 @@
-var mnemonic = "silent air muscle outdoor alarm green brown aspect intact slight field high";
+var mnemonic = "sponsor relief romance simple canyon gaze exotic link prevent swim level naive";

@@ -1,1 +1,1 @@
-var mnemonic = "agree bench gloom screen rapid super pupil carbon wonder focus punch witness";
+var mnemonic = "sight isolate cargo once bean quit excuse cradle perfect hurdle slight blossom";

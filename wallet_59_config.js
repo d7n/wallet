@@ -1,1 +1,1 @@
-var mnemonic = "day cream ceiling breeze sword blush teach genuine eight fitness solid absorb";
+var mnemonic = "dose fetch soap six amazing vibrant foil page myself tobacco glad simple";

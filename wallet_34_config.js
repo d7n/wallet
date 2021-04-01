@@ -1,1 +1,1 @@
-var mnemonic = "theme town render winner guide oak rude decorate habit auto together poem";
+var mnemonic = "lamp spray sibling truth domain remain apart body gossip useful net path";

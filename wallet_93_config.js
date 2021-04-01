@@ -1,1 +1,1 @@
-var mnemonic = "glue useful chair curious priority use popular maple immense panda prison extend";
+var mnemonic = "mango sunset depend document shrimp hair require exact wife opera wrestle mistake";

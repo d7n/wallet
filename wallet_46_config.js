@@ -1,1 +1,1 @@
-var mnemonic = "relax advance phone hurt deposit salmon school away vapor turn flight toward";
+var mnemonic = "exhibit alien verify demand slow outer admit super concert top payment tuition";

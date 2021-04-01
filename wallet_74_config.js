@@ -1,1 +1,1 @@
-var mnemonic = "trip fashion fruit chase nice wrestle imitate off brown charge crowd clinic";
+var mnemonic = "winter cattle eagle visit style tomato feed drum vessel win bubble antenna";

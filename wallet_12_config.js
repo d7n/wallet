@@ -1,1 +1,1 @@
-var mnemonic = "potato soap slot athlete girl all vivid breeze there weapon scorpion erupt";
+var mnemonic = "rough segment spike snack wool piece kitchen begin polar kiss arch mandate";

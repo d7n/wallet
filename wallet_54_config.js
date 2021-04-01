@@ -1,1 +1,1 @@
-var mnemonic = "any artwork hand inner fold device basic shield account eyebrow vague escape";
+var mnemonic = "twice tube exchange chalk birth quality burger protect okay candy custom pattern";

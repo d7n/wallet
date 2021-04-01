@@ -1,1 +1,1 @@
-var mnemonic = "smart accuse chimney frame mountain odor chest spoon essence armor female tornado";
+var mnemonic = "worry kingdom betray top chunk boat avoid bottom gift anchor copy maid";

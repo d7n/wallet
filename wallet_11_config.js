@@ -1,1 +1,1 @@
-var mnemonic = "fatal cool void please erosion mimic umbrella inside decade long cupboard grab";
+var mnemonic = "curious child artwork sock call learn cute beach enroll vehicle share mother";

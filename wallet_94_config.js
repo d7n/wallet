@@ -1,1 +1,1 @@
-var mnemonic = "pool gasp lock arrange jaguar dizzy innocent cushion dumb box panda recall";
+var mnemonic = "protect multiply degree rural among naive palm patch tuition spot chaos spawn";

@@ -1,1 +1,1 @@
-var mnemonic = "vacant jelly piano beef future enjoy craft depend clog success capable stone";
+var mnemonic = "more grain zebra giant onion song system transfer cabin hair relief lunar";

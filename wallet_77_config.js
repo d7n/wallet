@@ -1,1 +1,1 @@
-var mnemonic = "soccer antique tourist during frozen cousin assault belt silent hundred design next";
+var mnemonic = "chief owner provide emerge vital worth category across someone impose thunder claw";

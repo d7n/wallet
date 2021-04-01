@@ -1,1 +1,1 @@
-var mnemonic = "swing measure monitor home trim forget panther horse ugly change truth long";
+var mnemonic = "agent eternal jewel rose end hour nominee party canyon pizza result divorce";

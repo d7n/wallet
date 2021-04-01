@@ -1,1 +1,1 @@
-var mnemonic = "tilt today choice area obey zone run weird much toe favorite talk";
+var mnemonic = "swim spice they whale skate master into bundle security lock vibrant scout";

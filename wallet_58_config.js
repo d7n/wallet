@@ -1,1 +1,1 @@
-var mnemonic = "victory wrong ugly heavy degree vapor scene size bulb simple glide tuition";
+var mnemonic = "version neck grief caution client unhappy rare cactus onion slot curtain member";

@@ -1,1 +1,1 @@
-var mnemonic = "agent crawl will chuckle fall olympic warrior clerk snap post foam bid";
+var mnemonic = "total shift bachelor salt wide poverty monster skirt record dress firm potato";

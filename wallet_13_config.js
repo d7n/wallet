@@ -1,1 +1,1 @@
-var mnemonic = "wasp ketchup cross expose route calm globe before start source fade side";
+var mnemonic = "bulb raw kingdom journey artwork gentle access depend claim organ brush toddler";

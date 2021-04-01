@@ -1,1 +1,1 @@
-var mnemonic = "agent result clarify icon panda doll define dentist syrup canoe practice eternal";
+var mnemonic = "wedding awake ordinary pipe quarter tobacco december blossom surge avoid flash open";

@@ -1,1 +1,1 @@
-var mnemonic = "smoke patrol once diary flash picture also drop render light cloth like";
+var mnemonic = "kidney carry welcome poem damp minimum spoil track alley addict achieve cruise";

@@ -1,1 +1,1 @@
-var mnemonic = "thunder gesture noble stock urban mad expect trumpet never kind gauge enable";
+var mnemonic = "moment hidden village item army stool news nurse endless caution whisper come";

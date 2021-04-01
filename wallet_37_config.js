@@ -1,1 +1,1 @@
-var mnemonic = "rapid mansion provide inner kid travel movie rose curious soul female piece";
+var mnemonic = "interest decorate gate pond filter stem express load tunnel bargain area horror";

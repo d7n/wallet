@@ -1,1 +1,1 @@
-var mnemonic = "west fragile dose opera poverty label toy sense girl kick mystery face";
+var mnemonic = "happy west awesome attitude only manual scout defy evidence example tiny december";

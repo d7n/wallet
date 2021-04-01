@@ -1,1 +1,1 @@
-var mnemonic = "quantum cattle bicycle remember axis mechanic toddler rare fabric squeeze promote urge";
+var mnemonic = "excess group scale frequent myth between spring fetch night panther taste analyst";

@@ -1,1 +1,1 @@
-var mnemonic = "dash toast animal jacket timber damage soap patient try elbow zoo renew";
+var mnemonic = "almost invite rent allow gallery hungry top yellow indoor grocery leaf tennis";

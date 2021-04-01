@@ -1,1 +1,1 @@
-var mnemonic = "stairs pilot gym abstract abuse swamp lend badge host tilt hood impose";
+var mnemonic = "invite belt polar auction tail suffer abstract comfort again nuclear gospel believe";

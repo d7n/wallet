@@ -1,1 +1,1 @@
-var mnemonic = "kangaroo iron total exist volume market party enemy two sock famous toe";
+var mnemonic = "domain enough snow lunch addict bicycle claw lonely west found put scatter";

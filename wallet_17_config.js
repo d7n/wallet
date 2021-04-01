@@ -1,1 +1,1 @@
-var mnemonic = "knock hungry umbrella cancel toddler spirit junk weather hero vault pigeon clean";
+var mnemonic = "initial sell viable pony remind enemy fortune negative toy boost easy phrase";

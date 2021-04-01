@@ -1,1 +1,1 @@
-var mnemonic = "bacon hospital avoid faculty depth under small warfare blood garment local sauce";
+var mnemonic = "slab topple toward skull forum category rib kidney steak winter toast tunnel";

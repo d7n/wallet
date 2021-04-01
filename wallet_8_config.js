@@ -1,1 +1,1 @@
-var mnemonic = "maple cricket pave reveal snake odor enlist ready ginger bright mystery invest";
+var mnemonic = "same myth purpose soup dance safe erosion radio share broom sick jacket";

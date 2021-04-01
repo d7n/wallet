@@ -1,1 +1,1 @@
-var mnemonic = "account scene affair across walnut gate sure achieve pill hour crawl crater";
+var mnemonic = "ability grant depth sister first possible napkin clog absorb half asthma two";

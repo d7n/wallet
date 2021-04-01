@@ -1,1 +1,1 @@
-var mnemonic = "salmon sign robust sand clever vibrant destroy pool power turn excuse asthma";
+var mnemonic = "pulp foot own wet during setup region canvas stay iron because mind";

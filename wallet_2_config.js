@@ -1,1 +1,1 @@
-var mnemonic = "life worry elite ritual hungry useless exercise frame maple actor focus jaguar";
+var mnemonic = "wild cross abandon peanut aunt fat bright husband muffin orange soda speak";

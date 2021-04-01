@@ -1,1 +1,1 @@
-var mnemonic = "almost school lonely cradle calm intact prefer vivid dinner horn spread spy";
+var mnemonic = "mail select sort fortune machine swing name quarter carry when small orient";

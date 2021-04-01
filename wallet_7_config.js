@@ -1,1 +1,1 @@
-var mnemonic = "people creek social grit total cherry stamp season answer knife praise nuclear";
+var mnemonic = "write repeat mail someone box there hurry similar series theme mystery bottom";

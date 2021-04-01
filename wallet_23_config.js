@@ -1,1 +1,1 @@
-var mnemonic = "acid clinic sport goose diary wasp reflect fat slush hole ability cash";
+var mnemonic = "blast garbage reveal antenna silver fiction future decorate curve sunny surprise stomach";

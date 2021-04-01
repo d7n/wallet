@@ -1,1 +1,1 @@
-var mnemonic = "palm inmate leg announce celery pupil fossil debate property kind slender fun";
+var mnemonic = "infant asset fee federal accuse affair lend practice bunker vintage extra palm";

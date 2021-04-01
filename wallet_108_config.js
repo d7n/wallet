@@ -1,1 +1,1 @@
-var mnemonic = "grid guilt grab subject outdoor badge act crane spread diesel budget exit";
+var mnemonic = "play fix act mad churn doctor wolf glue seat health physical follow";

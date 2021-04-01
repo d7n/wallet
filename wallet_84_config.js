@@ -1,1 +1,1 @@
-var mnemonic = "until illness seek work ice mirror final save stuff toast script member";
+var mnemonic = "surge close sorry little merge easily weird tray illness blossom soda absent";

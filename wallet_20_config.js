@@ -1,1 +1,1 @@
-var mnemonic = "history brief beach oxygen gadget train forest cheap guess endless runway special";
+var mnemonic = "expose eye library audit portion noodle forum left float shallow utility brick";

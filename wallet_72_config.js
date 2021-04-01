@@ -1,1 +1,1 @@
-var mnemonic = "innocent odor upset taxi aerobic retreat field better dog gadget roof fresh";
+var mnemonic = "absent second hammer route route collect stomach cabin lemon wing wing subject";

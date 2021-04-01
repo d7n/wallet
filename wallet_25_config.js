@@ -1,1 +1,1 @@
-var mnemonic = "firm pupil master timber birth pulse matrix screen live wild number chief";
+var mnemonic = "duty session impulse stadium laundry hen rubber bunker rubber runway topic keen";

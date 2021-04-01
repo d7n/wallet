@@ -1,1 +1,1 @@
-var mnemonic = "notice finish unlock pottery hollow chef dawn pluck pause dizzy lobster render";
+var mnemonic = "next estate place need tackle outdoor panther prevent yellow girl congress also";

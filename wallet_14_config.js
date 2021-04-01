@@ -1,1 +1,1 @@
-var mnemonic = "wish small pencil peanut two still front napkin bundle embody friend profit";
+var mnemonic = "arrange verb announce disagree pottery amateur actor layer virus mesh donate sunny";

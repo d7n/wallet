@@ -1,1 +1,1 @@
-var mnemonic = "aisle young luxury smart evidence inspire shift vocal vault fiscal attract category";
+var mnemonic = "green yard select legend verify metal lion dentist start chalk wasp visual";

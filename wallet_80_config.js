@@ -1,1 +1,1 @@
-var mnemonic = "reflect squirrel aware seven ugly banner shoulder nerve pupil daughter nephew notice";
+var mnemonic = "scout large inch soon vocal rapid pitch rack program spin glass follow";

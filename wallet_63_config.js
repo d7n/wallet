@@ -1,1 +1,1 @@
-var mnemonic = "engage bacon nation ignore flee approve kit cause sketch develop gospel resource";
+var mnemonic = "liquid cattle flee zone argue rigid blind valve sword undo myth topic";

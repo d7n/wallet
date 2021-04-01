@@ -1,1 +1,1 @@
-var mnemonic = "absent life toilet enemy galaxy dice near scrub light whisper survey provide";
+var mnemonic = "loan spawn neck elegant before taxi private decline enough rent expect error";

@@ -1,1 +1,1 @@
-var mnemonic = "spring hen gesture fall jaguar fame next pilot require beach fork capital";
+var mnemonic = "sort person winner enjoy rifle leopard when rally snack cat regret eagle";

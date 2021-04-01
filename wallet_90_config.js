@@ -1,1 +1,1 @@
-var mnemonic = "rough grocery cube coffee practice brand laugh erosion furnace settle canoe nurse";
+var mnemonic = "badge dream viable baby address slush enforce quick brave moon space tone";

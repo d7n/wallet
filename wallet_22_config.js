@@ -1,1 +1,1 @@
-var mnemonic = "afraid meadow catch extend vocal whale wrestle tourist heavy scissors song gain";
+var mnemonic = "decline main subway someone sing actress floor wire drum dog shy hello";

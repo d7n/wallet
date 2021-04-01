@@ -1,1 +1,1 @@
-var mnemonic = "flower science lab swallow secret firm fashion spread huge color cheese panic";
+var mnemonic = "unknown stand toy expand spirit trigger birth paddle coral afford choose box";

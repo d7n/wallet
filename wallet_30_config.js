@@ -1,1 +1,1 @@
-var mnemonic = "mad symptom turn angry parrot capable rich amazing exhaust tell carry boss";
+var mnemonic = "erase moral enrich skill news side town van muffin donate token gaze";

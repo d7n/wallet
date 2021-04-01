@@ -1,1 +1,1 @@
-var mnemonic = "season old blade fade flag horror shy artwork flat ugly decrease impact";
+var mnemonic = "agent assume stomach tail stone minute aware mansion render produce pride term";

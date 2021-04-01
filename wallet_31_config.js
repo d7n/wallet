@@ -1,1 +1,1 @@
-var mnemonic = "gospel upset live tiny gallery artist observe thunder great load cousin custom";
+var mnemonic = "wisdom captain quarter margin pull ghost civil subject bean camp design thrive";

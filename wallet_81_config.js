@@ -1,1 +1,1 @@
-var mnemonic = "heavy host hybrid profit vessel round wood assist fun behind gas spawn";
+var mnemonic = "level point uphold below upset false ride satisfy object tank leave better";

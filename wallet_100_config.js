@@ -1,1 +1,1 @@
-var mnemonic = "acoustic leg boy clean deal today inspire midnight endorse surge box upgrade";
+var mnemonic = "same screen ripple session tray notable ski bag hollow cross visit forward";

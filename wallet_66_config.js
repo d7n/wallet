@@ -1,1 +1,1 @@
-var mnemonic = "yard moment simple equal own pistol host galaxy around among tennis reopen";
+var mnemonic = "combine submit tunnel eternal donate often clump viable wage tissue chalk vendor";

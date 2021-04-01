@@ -1,1 +1,1 @@
-var mnemonic = "believe casino room shift appear chef lounge gas point inform sign shift";
+var mnemonic = "tomato sketch unlock vague whip race weasel zero concert boost picnic now";

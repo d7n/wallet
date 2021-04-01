@@ -1,1 +1,1 @@
-var mnemonic = "noodle fiber country wrist laugh craft sport absorb bronze oven castle fee";
+var mnemonic = "sponsor always please glow napkin scan dress worth ten coyote cancel ceiling";

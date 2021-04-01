@@ -1,1 +1,1 @@
-var mnemonic = "elevator easily image penalty nasty sting grunt decline speak summer matrix buffalo";
+var mnemonic = "empower federal oven vessel grace person easily oval palm key adult cost";

@@ -1,1 +1,1 @@
-var mnemonic = "speed magnet before effort around luxury state mix unusual cover utility romance";
+var mnemonic = "salute husband vacuum toddler pill tomorrow enter lawsuit final van mesh huge";

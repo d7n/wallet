@@ -1,1 +1,1 @@
-var mnemonic = "tank vibrant custom expose damp monkey base kit weekend wrestle theme fat";
+var mnemonic = "economy half future kit teach cable consider animal hello cover fix merit";

@@ -1,1 +1,1 @@
-var mnemonic = "athlete ensure canoe cement help void wedding bomb occur estate name bacon";
+var mnemonic = "flame island deliver measure ring voice drive because mansion police accuse fold";

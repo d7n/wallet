@@ -1,1 +1,1 @@
-var mnemonic = "column buddy extend kind lens breeze start thought wrestle grid laptop vote";
+var mnemonic = "type tank upset wet extend wild recipe dinosaur force entire abstract same";

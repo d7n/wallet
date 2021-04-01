@@ -1,1 +1,1 @@
-var mnemonic = "hover jeans emerge exchange have pumpkin ritual beef festival sugar season pepper";
+var mnemonic = "champion muffin rather click disease soft knife column lyrics genuine bottom firm";

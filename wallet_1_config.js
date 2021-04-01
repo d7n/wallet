@@ -1,1 +1,1 @@
-var mnemonic = "scheme develop uniform guess similar icon win ability power spell option fold";
+var mnemonic = "can book brush correct salmon pottery quote youth vendor ethics keen awake";

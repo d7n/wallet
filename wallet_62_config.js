@@ -1,1 +1,1 @@
-var mnemonic = "balance label glove ball lawsuit elegant angry dawn display sell boring relax";
+var mnemonic = "risk magic sauce loop erupt toss much talent below misery bus mask";

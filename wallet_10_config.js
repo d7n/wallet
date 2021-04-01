@@ -1,1 +1,1 @@
-var mnemonic = "industry detect path town wink depend learn need hill bright crane album";
+var mnemonic = "decline opera nation teach toddler easily skin student alien gossip thank basic";

@@ -1,1 +1,1 @@
-var mnemonic = "example firm smart bridge census eight glide fold volume replace comfort hungry";
+var mnemonic = "penalty space blossom stage sunny member volcano retreat enemy vague muscle torch";

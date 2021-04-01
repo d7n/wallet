@@ -1,1 +1,1 @@
-var mnemonic = "auto bullet sense excuse agent rice play crystal shrimp device clerk vivid";
+var mnemonic = "core permit cluster sign advice wing bracket master weapon also eagle scout";

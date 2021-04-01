@@ -1,1 +1,1 @@
-var mnemonic = "spike funny sleep hamster owner hold blind mom allow prevent velvet shy";
+var mnemonic = "neutral profit medal melt problem visa tube sword beach cluster apart moon";

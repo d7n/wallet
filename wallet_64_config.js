@@ -1,1 +1,1 @@
-var mnemonic = "tunnel inch pause draft easy neck angle style minimum dentist metal farm";
+var mnemonic = "verb power praise lock gloom first super book orphan weather lumber october";

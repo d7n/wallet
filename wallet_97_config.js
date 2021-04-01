@@ -1,1 +1,1 @@
-var mnemonic = "alley prevent off fork wire wink cost achieve analyst anger obey cook";
+var mnemonic = "injury punch improve bulb knife noodle like welcome reflect remember width hill";

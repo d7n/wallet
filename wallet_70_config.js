@@ -1,1 +1,1 @@
-var mnemonic = "winner window govern crop material guess medal february song learn muffin number";
+var mnemonic = "achieve vacant hand wasp practice reason toward job skill crash fox social";

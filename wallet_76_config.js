@@ -1,1 +1,1 @@
-var mnemonic = "face depart fine judge world keep eight refuse dress cactus success unit";
+var mnemonic = "pelican nest educate icon piano monkey shy alter ostrich purity limit aware";

@@ -1,1 +1,1 @@
-var mnemonic = "oak atom van recipe turkey join dune basket cruel voice blood casual";
+var mnemonic = "coil cup swift hurt sadness defense net injury diary social below brain";

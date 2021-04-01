@@ -1,1 +1,1 @@
-var mnemonic = "label crisp leisure erosion rose hunt obtain bright warfare upon radio cannon";
+var mnemonic = "accident save female morning salon company brown genius explain dinner elevator rabbit";

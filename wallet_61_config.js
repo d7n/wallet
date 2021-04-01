@@ -1,1 +1,1 @@
-var mnemonic = "ill wait brick copy step below approve adult poet whip merit tuna";
+var mnemonic = "demand post deal worth column drive punch tortoise bracket oval mask work";

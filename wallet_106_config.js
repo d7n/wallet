@@ -1,1 +1,1 @@
-var mnemonic = "chronic surface faith account celery advice minimum pigeon primary edge enough curious";
+var mnemonic = "roof nose alcohol interest blur appear blast tilt comic general protect next";

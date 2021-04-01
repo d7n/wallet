@@ -1,1 +1,1 @@
-var mnemonic = "divorce sustain voyage cloth online maze purchase beef mistake slogan ugly best";
+var mnemonic = "door van iron fire property wine enroll hockey route end hole rebuild";
