@@ -1,1 +1,1 @@
-var mnemonic = "love excuse key man tail wild hawk summer major romance foam laugh";
+var mnemonic = "rookie evidence abandon again nut innocent dynamic dune latin auction pear jelly";

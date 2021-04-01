@@ -1,1 +1,1 @@
-var mnemonic = "dizzy swift private merit art very small exotic access fame surprise pause";
+var mnemonic = "burst left design plastic shine next put stuff crack mosquito health banner";

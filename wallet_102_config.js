@@ -1,1 +1,1 @@
-var mnemonic = "panda thrive sudden runway cheese enjoy plug know raise position enough salmon";
+var mnemonic = "category giraffe riot figure stomach flip measure speed beach armor junk safe";

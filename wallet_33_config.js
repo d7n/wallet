@@ -1,1 +1,1 @@
-var mnemonic = "demand collect seat settle private reflect inject material castle poverty shift law";
+var mnemonic = "until vocal peanut item essence club drastic sorry property right claim fever";

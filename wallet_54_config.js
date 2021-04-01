@@ -1,1 +1,1 @@
-var mnemonic = "snake wrong hammer steel such radar helmet hawk original decline slush reopen";
+var mnemonic = "sun raccoon right useless public next elephant trust hunt drill either sense";

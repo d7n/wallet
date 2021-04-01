@@ -1,1 +1,1 @@
-var mnemonic = "bus unusual rival border industry glimpse tomato script provide ride blade orange";
+var mnemonic = "stable ketchup together giraffe decline drastic upgrade invite fever muffin vessel total";

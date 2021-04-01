@@ -1,1 +1,1 @@
-var mnemonic = "squirrel convince steel exist tonight injury miracle debris keen agree rapid trial";
+var mnemonic = "cup praise remove spy check ostrich hill pipe spend hamster what obscure";

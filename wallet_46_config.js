@@ -1,1 +1,1 @@
-var mnemonic = "barely energy mix record jacket pole soon soldier hurt torch link else";
+var mnemonic = "motor notice banana hammer vague december video lucky present next lucky hollow";

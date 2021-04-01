@@ -1,1 +1,1 @@
-var mnemonic = "element sport butter antique forget chronic smart steak prevent business rug beyond";
+var mnemonic = "share meat jewel disorder wait motion poverty timber satisfy oil idle devote";

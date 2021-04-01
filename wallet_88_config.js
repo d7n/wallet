@@ -1,1 +1,1 @@
-var mnemonic = "page attend hold inhale adapt prison wrist confirm nature text glue achieve";
+var mnemonic = "useful cable legal paddle guitar future easy uncover medal region awake food";

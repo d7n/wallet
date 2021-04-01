@@ -1,1 +1,1 @@
-var mnemonic = "opinion early infant control situate there make tribe taste craft wait swim";
+var mnemonic = "absurd fork duty suspect thing curious stand immense game figure daughter travel";

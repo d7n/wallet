@@ -1,1 +1,1 @@
-var mnemonic = "final treat modify random chef glory nuclear festival merry wing powder awesome";
+var mnemonic = "increase paddle reform rifle opinion tortoise there yellow cherry defy flame episode";

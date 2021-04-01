@@ -1,1 +1,1 @@
-var mnemonic = "educate sea maple frequent syrup weather box swap punch spoon face office";
+var mnemonic = "wish shield upon total sudden life debris gate convince car tomato doctor";

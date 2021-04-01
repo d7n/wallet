@@ -1,1 +1,1 @@
-var mnemonic = "catalog first return organ toilet engine quit crop olive quiz illness loan";
+var mnemonic = "feature clump cluster defense basic one sugar agree learn stem lunar pig";

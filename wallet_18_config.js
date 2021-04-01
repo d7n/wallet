@@ -1,1 +1,1 @@
-var mnemonic = "royal you toddler guess dilemma someone pigeon biology time despair patch furnace";
+var mnemonic = "art level build follow foam fine acid capable razor pistol sketch maid";

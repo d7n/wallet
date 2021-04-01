@@ -1,1 +1,1 @@
-var mnemonic = "album crop define dumb faint stomach brief tumble foil loan across team";
+var mnemonic = "suit radio diamond disorder afraid image pluck absorb biology whale hidden cup";

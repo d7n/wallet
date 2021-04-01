@@ -1,1 +1,1 @@
-var mnemonic = "vital give weasel load first book fence discover spike grass tomorrow pulp";
+var mnemonic = "stadium grow tribe rifle tongue express final panel dentist harbor mimic banana";

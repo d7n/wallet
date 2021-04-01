@@ -1,1 +1,1 @@
-var mnemonic = "slice melt tattoo choose purpose crazy juice invest honey bar despair divert";
+var mnemonic = "wing rail follow capital forget detail air boat radio abuse pony caution";

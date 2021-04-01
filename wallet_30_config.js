@@ -1,1 +1,1 @@
-var mnemonic = "lava gesture author about excite indicate head tooth clock stamp effort keep";
+var mnemonic = "scare harvest announce south bleak worry autumn settle army twin roast gap";

@@ -1,1 +1,1 @@
-var mnemonic = "giant laptop arrive marble person begin hunt have angle gas garment disease";
+var mnemonic = "all junior health replace fiction wine brass educate chase ocean sense rural";

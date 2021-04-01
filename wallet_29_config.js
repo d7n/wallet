@@ -1,1 +1,1 @@
-var mnemonic = "boost flip fault gift solution awkward repair forest lounge exact merry swap";
+var mnemonic = "skill rebuild zoo patrol frown champion collect describe panel oven cash there";

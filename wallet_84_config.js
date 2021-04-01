@@ -1,1 +1,1 @@
-var mnemonic = "bus skirt dumb hungry pony february term salad frost affair pause execute";
+var mnemonic = "page category symbol range shop again attack peace similar run maid mind";

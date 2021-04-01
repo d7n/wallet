@@ -1,1 +1,1 @@
-var mnemonic = "able whisper tissue pistol movie mosquito fault donate whip earn pond sting";
+var mnemonic = "prize chronic churn donate calm flush version atom steel hand obey recipe";

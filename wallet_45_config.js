@@ -1,1 +1,1 @@
-var mnemonic = "record great track strategy decide original enforce dolphin piece angle menu fortune";
+var mnemonic = "envelope ramp heavy appear much still vivid van keen jungle stock cover";

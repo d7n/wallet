@@ -1,1 +1,1 @@
-var mnemonic = "original police copper submit assault wall screen deal wheel raccoon flock napkin";
+var mnemonic = "loyal define argue elephant admit true always fantasy retreat rent name next";

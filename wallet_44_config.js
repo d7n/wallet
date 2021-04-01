@@ -1,1 +1,1 @@
-var mnemonic = "ginger deputy knife tent midnight evolve love super right bulb erase critic";
+var mnemonic = "east jaguar forget budget luggage jewel immune sure jazz naive quarter jacket";

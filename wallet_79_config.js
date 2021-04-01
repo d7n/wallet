@@ -1,1 +1,1 @@
-var mnemonic = "found ordinary eyebrow gate fun day adapt often truth acoustic lottery huge";
+var mnemonic = "fine bacon genuine pill hungry spring vanish blue enforce reunion armed hybrid";

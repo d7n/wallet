@@ -1,1 +1,1 @@
-var mnemonic = "ride pluck welcome solution sausage hobby then alpha whip rent consider table";
+var mnemonic = "art toss cloth burst hurdle one liberty wealth envelope wife end elite";

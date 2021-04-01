@@ -1,1 +1,1 @@
-var mnemonic = "era now coconut turtle hood lecture apology barely right hub luggage rifle";
+var mnemonic = "stamp credit pear south gap tobacco scrap panda ranch cheap bonus slush";

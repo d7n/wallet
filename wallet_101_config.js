@@ -1,1 +1,1 @@
-var mnemonic = "damp duck ship hint brass myth pen machine banana celery march giraffe";
+var mnemonic = "crazy purchase own month ask scare stadium injury trouble equip ring wife";

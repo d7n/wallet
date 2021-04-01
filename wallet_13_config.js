@@ -1,1 +1,1 @@
-var mnemonic = "object gas tooth harsh cool hunt whisper honey surprise crop all scissors";
+var mnemonic = "print age fork minor boat equip liar another labor priority guess uncover";

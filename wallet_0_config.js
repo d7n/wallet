@@ -1,1 +1,1 @@
-var mnemonic = "alter reduce grunt cheese aisle choose sail client resemble domain please label";
+var mnemonic = "genuine desert follow chat visa write potato over swing search talent cool";

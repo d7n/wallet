@@ -1,1 +1,1 @@
-var mnemonic = "cram asset coffee cost battle beauty question floor across maid wait wrestle";
+var mnemonic = "mule ski cactus aunt drum tuna acid stable lake dad coach cannon";

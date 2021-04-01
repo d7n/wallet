@@ -1,1 +1,1 @@
-var mnemonic = "print install network believe labor wink glad trash vast sock wine success";
+var mnemonic = "stick cancel industry mountain arrest jump basket tag crack matter moment senior";

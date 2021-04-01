@@ -1,1 +1,1 @@
-var mnemonic = "element room glimpse razor exile adult climb style enact round stamp laugh";
+var mnemonic = "area gravity rapid spring broccoli skin spike trend seed kid online differ";

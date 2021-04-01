@@ -1,1 +1,1 @@
-var mnemonic = "exhaust put craft edit sugar climb idle anger casual super amused wage";
+var mnemonic = "feature steak nurse amused reason vapor upset catalog purpose vacant side decrease";

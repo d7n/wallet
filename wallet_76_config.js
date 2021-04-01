@@ -1,1 +1,1 @@
-var mnemonic = "web congress wing immense kit style famous typical electric solve immune sunny";
+var mnemonic = "jump envelope shrug rely puzzle account garbage column stable analyst stamp health";

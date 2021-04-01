@@ -1,1 +1,1 @@
-var mnemonic = "acoustic bind brown empower trip execute chalk duty pull crop amount crowd";
+var mnemonic = "camera horn wagon fragile fetch use program side venue silver ordinary color";

@@ -1,1 +1,1 @@
-var mnemonic = "advice expect alarm boring minor update estate assume dynamic place apart sure";
+var mnemonic = "isolate citizen grain oven slender cinnamon spoon forum curve fabric capital swim";

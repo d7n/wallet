@@ -1,1 +1,1 @@
-var mnemonic = "brother device mystery artwork picture arrest joke nut alcohol alter project agent";
+var mnemonic = "oxygen radar sunny name game hire midnight void toward sing cup coast";

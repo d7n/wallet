@@ -1,1 +1,1 @@
-var mnemonic = "arch wise school chalk insane correct hamster obey prepare crumble click peasant";
+var mnemonic = "logic nose script apple venue asset subject solve decade plastic imitate alone";

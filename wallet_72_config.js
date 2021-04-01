@@ -1,1 +1,1 @@
-var mnemonic = "spice thank crowd man pill long upgrade expose debate extend border hollow";
+var mnemonic = "found oval boss among pigeon frog race twice sample nut rescue borrow";

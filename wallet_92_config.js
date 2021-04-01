@@ -1,1 +1,1 @@
-var mnemonic = "silly path great version veteran promote rally slogan wheel neither amount finish";
+var mnemonic = "fork east brick morning field popular skin under license cool banner capable";

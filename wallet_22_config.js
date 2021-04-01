@@ -1,1 +1,1 @@
-var mnemonic = "alien exotic clean since lunch club venture shoulder world filter obvious naive";
+var mnemonic = "defy hope follow atom possible arrow develop library verify other safe lizard";

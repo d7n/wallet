@@ -1,1 +1,1 @@
-var mnemonic = "dance tongue change lunar toward stick chest evidence advice income innocent goddess";
+var mnemonic = "situate airport moral garage tiny imitate borrow borrow clutch gym renew license";

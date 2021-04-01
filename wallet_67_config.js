@@ -1,1 +1,1 @@
-var mnemonic = "scene ski push truth excess disorder sport area latin gas display hidden";
+var mnemonic = "hat bunker thumb fancy logic account early blouse bless cube behind valid";

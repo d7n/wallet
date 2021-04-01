@@ -1,1 +1,1 @@
-var mnemonic = "forum evidence length elbow affair market bunker better lyrics fence mistake salute";
+var mnemonic = "mandate borrow sheriff expose girl test wage frequent match attend relax cousin";

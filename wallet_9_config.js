@@ -1,1 +1,1 @@
-var mnemonic = "cage brisk fiction obtain tone media fence say twin vehicle behind stool";
+var mnemonic = "royal remember junior extend knife wrestle later town visit mistake web ring";

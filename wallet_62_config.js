@@ -1,1 +1,1 @@
-var mnemonic = "half connect burden arrest rule retreat obtain jaguar scatter one casual route";
+var mnemonic = "piano marriage promote have black permit rich sell face cattle taxi beyond";

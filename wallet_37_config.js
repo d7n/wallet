@@ -1,1 +1,1 @@
-var mnemonic = "slab embark salmon library response minute unlock habit any ready quarter release";
+var mnemonic = "leopard dinosaur salute flip office aunt left orange access unfair cry toward";

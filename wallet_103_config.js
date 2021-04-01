@@ -1,1 +1,1 @@
-var mnemonic = "bronze myth assume olive system chase kingdom element raw aerobic spare letter";
+var mnemonic = "banner throw opinion arrest rookie vanish deer human critic inner beyond cross";

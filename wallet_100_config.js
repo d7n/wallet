@@ -1,1 +1,1 @@
-var mnemonic = "size hover text cable process alone cash roast obtain crash rebuild reason";
+var mnemonic = "risk cinnamon puzzle organ wealth plug gospel genre diamond harvest absorb casino";

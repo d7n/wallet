@@ -1,1 +1,1 @@
-var mnemonic = "ramp chat hood arrange insect family test priority property fluid divert wagon";
+var mnemonic = "shuffle service enjoy penalty hedgehog ocean maximum pair theme battle firm note";

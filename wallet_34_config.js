@@ -1,1 +1,1 @@
-var mnemonic = "solution maid student north town dose radio time fuel pitch nurse seed";
+var mnemonic = "volcano capital dismiss buddy sock truck cluster large blade patch torch face";

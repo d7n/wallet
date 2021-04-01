@@ -1,1 +1,1 @@
-var mnemonic = "amazing prosper garment ride estate inject air favorite ladder tourist cloud injury";
+var mnemonic = "outside click tuna sketch token forest display announce oven enter cash mind";

@@ -1,1 +1,1 @@
-var mnemonic = "favorite hungry assume enrich mad hedgehog only dizzy invest left dawn field";
+var mnemonic = "acid insane arm language spawn always physical island intact area know vague";

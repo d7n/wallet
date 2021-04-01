@@ -1,1 +1,1 @@
-var mnemonic = "glue brand vibrant zero ranch project wool harvest employ convince owner excess";
+var mnemonic = "bar soccer kit sphere must canoe pottery rack accuse rib input iron";

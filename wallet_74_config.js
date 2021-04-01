@@ -1,1 +1,1 @@
-var mnemonic = "wing genuine lemon blur sock permit stumble cake setup volcano armed wrong";
+var mnemonic = "sense wrong copy host snow target evolve gloom ability figure receive student";

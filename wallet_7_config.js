@@ -1,1 +1,1 @@
-var mnemonic = "seed believe domain version lyrics push volume garden pupil jazz ranch warrior";
+var mnemonic = "ribbon spin obey input frog radar present poverty bid obtain glimpse monkey";

@@ -1,1 +1,1 @@
-var mnemonic = "salad punch tenant canvas skirt pepper awkward three destroy sick question satoshi";
+var mnemonic = "rather angry sister spoon cargo clean recipe unveil scare gentle know erupt";

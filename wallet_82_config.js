@@ -1,1 +1,1 @@
-var mnemonic = "canoe surprise six upset umbrella title borrow gaze magnet fade mixture cake";
+var mnemonic = "erase vague twin spider figure news surge edit october click concert exotic";

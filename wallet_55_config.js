@@ -1,1 +1,1 @@
-var mnemonic = "peasant thank foster green industry license betray fortune average wool kick surround";
+var mnemonic = "cherry devote abstract return acoustic foot insane stone liberty hunt upset post";

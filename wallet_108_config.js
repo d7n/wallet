@@ -1,1 +1,1 @@
-var mnemonic = "recall urge shrug night ship broom gather tennis churn mobile erase jump";
+var mnemonic = "human scissors again drip title unique fiction venue rare fatigue puppy cabin";

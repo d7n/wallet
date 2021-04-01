@@ -1,1 +1,1 @@
-var mnemonic = "farm topple demise lottery swear drift luggage language arrive garage wolf science";
+var mnemonic = "split wish okay token style minor tide area hamster again journey lamp";

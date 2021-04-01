@@ -1,1 +1,1 @@
-var mnemonic = "buzz effort trick miss acoustic excess elevator anchor squirrel mobile budget light";
+var mnemonic = "shine know feel flash display tool brave february crawl country plug return";

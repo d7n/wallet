@@ -1,1 +1,1 @@
-var mnemonic = "custom void obvious erode angle crack else truly rival switch occur design";
+var mnemonic = "bargain seat orchard present dress risk romance obscure image shiver make skin";

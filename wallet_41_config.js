@@ -1,1 +1,1 @@
-var mnemonic = "version goose treat push frost vault fence yard strong earth grape measure";
+var mnemonic = "favorite elder merit ready cycle sniff large abuse axis veteran ice giant";

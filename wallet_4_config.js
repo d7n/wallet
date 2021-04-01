@@ -1,1 +1,1 @@
-var mnemonic = "cool hole wreck slow curious umbrella void banana swap merit slight possible";
+var mnemonic = "stamp visit fancy crumble roof where story idea enrich viable inquiry panda";

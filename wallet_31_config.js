@@ -1,1 +1,1 @@
-var mnemonic = "census diesel settle grain vanish energy bind couple voice panda adult announce";
+var mnemonic = "science soft honey wrap hip topic unknown glow badge congress course fiction";

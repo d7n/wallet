@@ -1,1 +1,1 @@
-var mnemonic = "warm sunset banana stem farm dune cycle venture bomb cupboard eye master";
+var mnemonic = "rubber outdoor urge skin crack praise output margin maximum travel animal addict";

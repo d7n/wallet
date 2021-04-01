@@ -1,1 +1,1 @@
-var mnemonic = "wealth blossom key confirm oven stadium ivory accuse pigeon hen long wagon";
+var mnemonic = "crunch canoe wide marriage marble ticket library robot taste lizard crucial lens";

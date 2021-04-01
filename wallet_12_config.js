@@ -1,1 +1,1 @@
-var mnemonic = "shoot since dream border core sport reward barely ozone father cloud length";
+var mnemonic = "cotton conduct accident settle someone crumble glimpse master ozone couple client uphold";

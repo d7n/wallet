@@ -1,1 +1,1 @@
-var mnemonic = "balcony desk lock disagree case tray tornado zebra marine load toe elevator";
+var mnemonic = "oak mule pipe pole rally plunge cycle aerobic valve call leopard pistol";

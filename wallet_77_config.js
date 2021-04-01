@@ -1,1 +1,1 @@
-var mnemonic = "typical dirt waste vivid caution scheme gather taxi such grass outer elite";
+var mnemonic = "fragile hospital salt become best medal crumble jelly shine theory hidden jaguar";

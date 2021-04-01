@@ -1,1 +1,1 @@
-var mnemonic = "mass iron child blanket equip brown review another work nest proud dice";
+var mnemonic = "conduct main receive more timber practice gauge response rigid zebra keen note";

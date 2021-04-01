@@ -1,1 +1,1 @@
-var mnemonic = "captain rigid eagle mean slam blossom return square argue already pluck fiction";
+var mnemonic = "coin pole bridge recycle maid drip pepper aunt twist virus census flight";

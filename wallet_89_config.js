@@ -1,1 +1,1 @@
-var mnemonic = "omit charge ostrich gallery diet estate attract produce mean purse piece century";
+var mnemonic = "tiny spray slim tortoise type crunch forum grief quit winter cliff absurd";

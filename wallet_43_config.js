@@ -1,1 +1,1 @@
-var mnemonic = "cause pig journey strike broccoli insane fan course advice whale ask useless";
+var mnemonic = "convince genre mandate better endless other snap toss decide fever brisk push";

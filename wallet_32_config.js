@@ -1,1 +1,1 @@
-var mnemonic = "ostrich script diesel wrestle evil market royal frog category toward total ankle";
+var mnemonic = "wave camera typical unhappy twice truth mountain claim excuse remember want current";

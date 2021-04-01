@@ -1,1 +1,1 @@
-var mnemonic = "unusual unaware basket casual journey elephant network myth outdoor suggest orbit mutual";
+var mnemonic = "record lake rookie pizza awkward fatal antique buffalo accuse wool disease seed";

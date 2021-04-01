@@ -1,1 +1,1 @@
-var mnemonic = "clump velvet victory earth must boost road noble offer humor cigar glow";
+var mnemonic = "slide grab awful extend deliver simple finish airport jaguar water decorate farm";

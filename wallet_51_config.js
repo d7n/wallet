@@ -1,1 +1,1 @@
-var mnemonic = "race fault knife ritual danger save round first maze soup planet update";
+var mnemonic = "digital east smooth wink mixture celery method security forget adjust panic captain";

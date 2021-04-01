@@ -1,1 +1,1 @@
-var mnemonic = "donate follow field swing wreck blame spin share number wink fix hockey";
+var mnemonic = "family embrace erupt clap ecology figure knee hospital abandon any truth citizen";

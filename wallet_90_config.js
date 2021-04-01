@@ -1,1 +1,1 @@
-var mnemonic = "chase business require effort power express truly siege solve unaware small similar";
+var mnemonic = "gorilla sunset human replace shove sense cake base organ twin sponsor liberty";

@@ -1,1 +1,1 @@
-var mnemonic = "flash essence payment gold slight during glide reopen forest eyebrow enter win";
+var mnemonic = "like uncle wink track annual age baby gasp boy region guard ship";

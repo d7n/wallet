@@ -1,1 +1,1 @@
-var mnemonic = "example wrestle pull ugly truck soap wrist camp notice wait vault bread";
+var mnemonic = "crystal february lunch sibling another brick film fresh future track jelly upgrade";
