@@ -1,1 +1,1 @@
-var mnemonic = "miss portion gap swamp place various practice firm dilemma tuna often lawn";
+var mnemonic = "bitter off bar crater decrease cash debris during crystal fame clump pupil";

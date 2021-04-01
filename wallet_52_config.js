@@ -1,1 +1,1 @@
-var mnemonic = "film worth treat noise topic slim law squirrel reunion thrive rural unveil";
+var mnemonic = "island jump custom push vivid helmet magnet trend glance build slight fury";

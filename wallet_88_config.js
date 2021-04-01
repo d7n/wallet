@@ -1,1 +1,1 @@
-var mnemonic = "crazy little rabbit rally wonder chapter embark alien raise member permit box";
+var mnemonic = "wrist glass inch toe immune shine rent notable sail entry boost maximum";

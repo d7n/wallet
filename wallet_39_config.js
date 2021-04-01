@@ -1,1 +1,1 @@
-var mnemonic = "weather will birth enroll derive acquire soap arrive win biology butter defense";
+var mnemonic = "airport toy joy pulp find damage seven nation garbage leisure cube hint";

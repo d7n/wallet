@@ -1,1 +1,1 @@
-var mnemonic = "grab weasel word boat room fit legend coyote fiction recycle approve increase";
+var mnemonic = "bundle rival estate sustain hill core skirt struggle stem spin hood budget";

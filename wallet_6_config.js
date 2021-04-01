@@ -1,1 +1,1 @@
-var mnemonic = "voice file mechanic bless slight dilemma stage rotate juice either doctor width";
+var mnemonic = "hen expose fault undo crunch trumpet strike way green boy always loan";

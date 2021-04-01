@@ -1,1 +1,1 @@
-var mnemonic = "heavy junk float hungry inject square tornado onion enroll wild genius angle";
+var mnemonic = "crowd gun gun endless wheel bid indicate exclude reopen tube bomb mesh";

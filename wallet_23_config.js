@@ -1,1 +1,1 @@
-var mnemonic = "ready hurt whale excite what organ blast focus leave doctor mandate only";
+var mnemonic = "piano record cupboard brick exercise sock okay frame jaguar night cupboard cannon";

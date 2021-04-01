@@ -1,1 +1,1 @@
-var mnemonic = "bronze squeeze ensure adapt scene lucky ginger aspect happy cloud under aunt";
+var mnemonic = "peace blade else brief amused lend silk sand large elbow morning own";

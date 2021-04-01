@@ -1,1 +1,1 @@
-var mnemonic = "lesson hybrid answer mean elephant hill fish ring rent dad fatal audit";
+var mnemonic = "satoshi city dawn chief lawsuit opinion cheap boost acoustic swim denial spend";

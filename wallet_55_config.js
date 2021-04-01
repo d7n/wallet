@@ -1,1 +1,1 @@
-var mnemonic = "cupboard measure wash captain sunset fury hurry because oblige winner final carry";
+var mnemonic = "cream light place robust flower error already analyst scare whip bench grape";

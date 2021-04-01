@@ -1,1 +1,1 @@
-var mnemonic = "clarify what plate utility nation stairs dash own blur oval win empty";
+var mnemonic = "actress clean beef economy road oven nerve pill sport dad tip unknown";

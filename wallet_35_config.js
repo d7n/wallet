@@ -1,1 +1,1 @@
-var mnemonic = "annual mystery prize grass hunt market gauge update reward unit label butter";
+var mnemonic = "dutch mass cupboard gate ticket foster rice chronic garbage salute cousin estate";

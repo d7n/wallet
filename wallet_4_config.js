@@ -1,1 +1,1 @@
-var mnemonic = "piano client supply hungry scout lab offer annual bar section clever orbit";
+var mnemonic = "inhale sorry dog funny mesh fee jeans mountain dwarf blood general light";

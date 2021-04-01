@@ -1,1 +1,1 @@
-var mnemonic = "inform lady rare safe fox inside hen misery wing shield jaguar online";
+var mnemonic = "father audit average jar turkey tennis reopen animal wife target funny rebuild";

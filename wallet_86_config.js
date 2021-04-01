@@ -1,1 +1,1 @@
-var mnemonic = "sting dawn miracle churn nephew version cliff palm labor toilet recall trick";
+var mnemonic = "middle equip subway ability embody taxi earn list course night jazz dress";

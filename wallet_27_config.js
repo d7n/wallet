@@ -1,1 +1,1 @@
-var mnemonic = "foster question upset you whip anger arm chat tent start able warm";
+var mnemonic = "kitten gather dentist exchange outside deny tribe taxi exact helmet mix brush";

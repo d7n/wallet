@@ -1,1 +1,1 @@
-var mnemonic = "deer judge group hawk nerve permit defense industry monkey recycle wheel gallery";
+var mnemonic = "mixture cactus link material gauge bread screen educate cry enforce devote behave";

@@ -1,1 +1,1 @@
-var mnemonic = "ozone enable crystal enforce hungry virus famous benefit jeans garlic liar dinner";
+var mnemonic = "emotion mix sick strike top regular tray vivid chat clump morning fault";

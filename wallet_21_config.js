@@ -1,1 +1,1 @@
-var mnemonic = "unveil flat thrive battle nature opinion belt matrix orchard morning absurd august";
+var mnemonic = "jazz marine dust select often foam project dawn melody harvest require concert";

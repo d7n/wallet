@@ -1,1 +1,1 @@
-var mnemonic = "runway riot draw ignore object own wasp seed guide deer chief cloth";
+var mnemonic = "water friend tilt moon awkward blouse filter marine exact spice ridge season";

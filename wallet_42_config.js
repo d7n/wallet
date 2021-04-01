@@ -1,1 +1,1 @@
-var mnemonic = "volume sure air net age gorilla car wing that debris dirt distance";
+var mnemonic = "hawk tilt pet build small chat team earth awesome produce soup better";

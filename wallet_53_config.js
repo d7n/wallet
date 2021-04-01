@@ -1,1 +1,1 @@
-var mnemonic = "flame gas tumble team south slim idea elbow weasel name claw pledge";
+var mnemonic = "trim olive credit float bubble fiscal category sample throw govern explain dust";

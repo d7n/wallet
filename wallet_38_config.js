@@ -1,1 +1,1 @@
-var mnemonic = "dice cruise shed desert sadness torch twenty comfort expose knock stage stage";
+var mnemonic = "power wash host help ancient panda feel glove cheese include near collect";

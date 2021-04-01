@@ -1,1 +1,1 @@
-var mnemonic = "summer choose empower fabric miracle trial human echo enroll code buyer absurd";
+var mnemonic = "robust tribe student normal fit loan tree sentence abstract faculty nurse supply";

@@ -1,1 +1,1 @@
-var mnemonic = "away once height ocean mask about embody hat ignore loop exact ill";
+var mnemonic = "silly stone blanket sea onion rural imitate great aspect chef neglect catch";

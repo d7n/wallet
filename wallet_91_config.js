@@ -1,1 +1,1 @@
-var mnemonic = "dune auto stamp spirit dawn dust blind hill mirror salon bag output";
+var mnemonic = "trim wave hazard diagram grant spoil deputy wear brave wisdom hamster favorite";

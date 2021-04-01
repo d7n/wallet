@@ -1,1 +1,1 @@
-var mnemonic = "crawl satoshi yellow final ostrich crack angry truly eyebrow charge bomb reunion";
+var mnemonic = "exit popular account amateur gorilla choice regular this opera bonus notice flee";

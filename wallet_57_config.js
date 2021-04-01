@@ -1,1 +1,1 @@
-var mnemonic = "antique flush novel belt lava blur celery april wire shell crack gown";
+var mnemonic = "common net clean gasp once maple clog inside injury basket awful pistol";

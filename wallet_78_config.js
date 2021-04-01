@@ -1,1 +1,1 @@
-var mnemonic = "mammal olympic settle nation shoe hunt border purity ball gauge elegant mechanic";
+var mnemonic = "method hour boil matter green trouble immense raven odor bottom asthma six";

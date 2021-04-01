@@ -1,1 +1,1 @@
-var mnemonic = "audit puppy become glue measure two sing auto note strategy surprise whale";
+var mnemonic = "dirt inquiry squeeze biology breeze wheel tree dentist snow ranch stuff hammer";

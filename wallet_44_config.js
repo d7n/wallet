@@ -1,1 +1,1 @@
-var mnemonic = "portion cricket naive milk miss nest cliff enjoy practice absent joke section";
+var mnemonic = "more project draw example busy target tired noodle extra bacon maid punch";

@@ -1,1 +1,1 @@
-var mnemonic = "exact false expand hotel fitness spirit maid alley glance rug lunch slush";
+var mnemonic = "draft bring rigid reduce inner bunker seat baby gold cupboard section lunch";

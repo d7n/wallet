@@ -1,1 +1,1 @@
-var mnemonic = "type nest build tomato range pattern giggle tube panel thought worry fruit";
+var mnemonic = "nut furnace ill eternal resource put fringe tomorrow voyage buffalo pigeon want";

@@ -1,1 +1,1 @@
-var mnemonic = "chest idle bomb later side exchange text motor shield tiny end judge";
+var mnemonic = "soldier chest attract innocent tourist elephant issue trophy cliff van dice wish";

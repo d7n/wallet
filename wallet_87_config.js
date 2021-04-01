@@ -1,1 +1,1 @@
-var mnemonic = "nothing congress engage fitness clever prize run pony swarm wave ketchup hidden";
+var mnemonic = "enroll when moment clock habit place warm total leader weasel journey between";

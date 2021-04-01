@@ -1,1 +1,1 @@
-var mnemonic = "swear panther tower song opera helmet tiger among exchange drip rotate color";
+var mnemonic = "bring favorite lunar chicken humor print blouse wire swamp stool popular pilot";

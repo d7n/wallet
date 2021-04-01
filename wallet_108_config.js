@@ -1,1 +1,1 @@
-var mnemonic = "nature possible describe route crack wealth fashion other flight air toward mention";
+var mnemonic = "dynamic october rain bike fabric legend blossom defense quote puppy vehicle ranch";

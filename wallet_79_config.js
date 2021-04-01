@@ -1,1 +1,1 @@
-var mnemonic = "setup fetch lawsuit actor aerobic until glimpse panther shoe climb real proof";
+var mnemonic = "zebra cat romance play assist crew force cheap deliver twist snap glass";

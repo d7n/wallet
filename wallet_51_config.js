@@ -1,1 +1,1 @@
-var mnemonic = "flip quit pull split quality collect fluid material tobacco across solve clarify";
+var mnemonic = "birth apple federal danger virus control short man liquid age perfect dutch";

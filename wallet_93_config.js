@@ -1,1 +1,1 @@
-var mnemonic = "dirt eagle swing inquiry choice swift lunch purpose local stone verify milk";
+var mnemonic = "long belt hammer ridge project stone thank daughter silent apology gasp bike";

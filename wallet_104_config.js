@@ -1,1 +1,1 @@
-var mnemonic = "glance confirm road trophy lawsuit relax where pretty shiver utility surprise powder";
+var mnemonic = "fit total frequent track paddle chest group reason alarm audit midnight pizza";

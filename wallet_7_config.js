@@ -1,1 +1,1 @@
-var mnemonic = "since portion prison couple cycle cigar creek middle video major suit afford";
+var mnemonic = "immune thrive bless degree tumble mention toss kite thank ride wasp debris";

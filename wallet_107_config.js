@@ -1,1 +1,1 @@
-var mnemonic = "consider uphold slab slender elbow neglect pattern scrap pumpkin cotton pave sibling";
+var mnemonic = "brain thing first key move program report fitness diet world urban twin";

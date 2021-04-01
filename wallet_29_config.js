@@ -1,1 +1,1 @@
-var mnemonic = "train other wear rabbit planet crystal stadium assume essence clutch great age";
+var mnemonic = "about must tent regular pioneer shed enable actual chair merge basket hedgehog";

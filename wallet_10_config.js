@@ -1,1 +1,1 @@
-var mnemonic = "power vehicle option portion ordinary candy know security bacon apology cattle bachelor";
+var mnemonic = "report radio fringe pond dust current sunset erase surprise pattern wagon please";

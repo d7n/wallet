@@ -1,1 +1,1 @@
-var mnemonic = "forward swim devote blossom kind sad online sentence example abandon crumble grid";
+var mnemonic = "early slide lift add leader blanket clutch glory walnut absurd absent wheat";

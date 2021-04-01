@@ -1,1 +1,1 @@
-var mnemonic = "dirt mutual pioneer gravity traffic dune project salad crunch edit shaft fault";
+var mnemonic = "drive foot regular train sheriff crisp ritual pumpkin flock mandate awesome glad";

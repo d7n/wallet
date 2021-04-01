@@ -1,1 +1,1 @@
-var mnemonic = "typical swarm flag garment outdoor brother protect mother check pen accident tissue";
+var mnemonic = "state online original core cluster skate food treat allow expire huge credit";

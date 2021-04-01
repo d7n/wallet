@@ -1,1 +1,1 @@
-var mnemonic = "accident glare drink better lounge spoil apart call ankle draft escape vehicle";
+var mnemonic = "era relax unaware guitar spell rescue tissue view search siren soap grief";

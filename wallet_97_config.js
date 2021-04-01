@@ -1,1 +1,1 @@
-var mnemonic = "veteran nasty miracle across talk erosion project soon error ice absent engage";
+var mnemonic = "harbor two omit swap expose mirror arm bike bacon warrior child then";

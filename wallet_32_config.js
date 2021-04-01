@@ -1,1 +1,1 @@
-var mnemonic = "floor domain confirm announce mobile north neutral abuse lion defense hand poverty";
+var mnemonic = "congress social cluster cruise recall rule merry monster mobile siren grocery shop";

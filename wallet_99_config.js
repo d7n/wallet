@@ -1,1 +1,1 @@
-var mnemonic = "sniff spirit fruit ankle start physical switch budget juice slight custom ridge";
+var mnemonic = "render achieve orange exotic error provide just embody retire mesh cloth defense";

@@ -1,1 +1,1 @@
-var mnemonic = "secret orchard never also razor album push thrive excite light iron soon";
+var mnemonic = "toe uniform breeze abuse stadium matrix cover leopard mesh civil artwork replace";

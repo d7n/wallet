@@ -1,1 +1,1 @@
-var mnemonic = "collect spring tissue recycle future already kiss foot zone muffin champion major";
+var mnemonic = "worth wealth detect cute rigid bright demise oval neglect august cricket anger";

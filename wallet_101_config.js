@@ -1,1 +1,1 @@
-var mnemonic = "debris birth pear soda coil peanut enhance hospital prepare survey caught feel";
+var mnemonic = "ostrich soccer tribe vendor option raw parent fancy grass best reduce market";

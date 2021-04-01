@@ -1,1 +1,1 @@
-var mnemonic = "cave sphere power can concert fee brother dragon index visit thank used";
+var mnemonic = "please rail rhythm vague marine coil story pattern ahead bullet wide leaf";

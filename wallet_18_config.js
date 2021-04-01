@@ -1,1 +1,1 @@
-var mnemonic = "unfold year return oblige rough use skin park cattle depth toe aspect";
+var mnemonic = "ribbon argue present scene disagree chimney chuckle voice reunion average group connect";

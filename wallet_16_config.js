@@ -1,1 +1,1 @@
-var mnemonic = "cannon ranch cry bamboo dragon margin gift afford bargain language session level";
+var mnemonic = "soul lava there thumb waste lava illegal sibling know goose arrow layer";

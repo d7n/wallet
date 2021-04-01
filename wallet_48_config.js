@@ -1,1 +1,1 @@
-var mnemonic = "mad view street supreme practice jump rate web abandon taxi glass manual";
+var mnemonic = "manage drop reveal recycle tackle hat fine eye chunk name hungry cloud";

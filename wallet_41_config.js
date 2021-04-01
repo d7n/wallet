@@ -1,1 +1,1 @@
-var mnemonic = "awake weird crew rug result game hip coconut excess margin glad birth";
+var mnemonic = "denial soul rural visit reveal comic cradle proud cram multiply banana torch";

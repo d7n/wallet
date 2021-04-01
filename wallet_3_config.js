@@ -1,1 +1,1 @@
-var mnemonic = "birth edge fatal garbage piece swap cushion message purpose enter merry key";
+var mnemonic = "extend snap inside develop genius consider clean town few erupt surprise wagon";

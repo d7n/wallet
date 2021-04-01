@@ -1,1 +1,1 @@
-var mnemonic = "stomach wire ridge visa buzz beef share myself mask frown adjust sheriff";
+var mnemonic = "arrow inch quantum matrix enhance boy dust dress catch friend lawsuit now";

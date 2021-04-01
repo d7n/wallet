@@ -1,1 +1,1 @@
-var mnemonic = "broken sheriff cabin expect midnight nurse toast erase rate hazard olympic chunk";
+var mnemonic = "hobby license void ordinary ramp that move minor flower scatter hollow light";

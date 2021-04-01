@@ -1,1 +1,1 @@
-var mnemonic = "convince verb wise tomorrow come illegal sugar rude forget exile tone benefit";
+var mnemonic = "banana cute aisle envelope early cloth sleep boss pioneer area toe vital";

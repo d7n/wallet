@@ -1,1 +1,1 @@
-var mnemonic = "liar insane almost chief transfer theme violin gold brain dream velvet skin";
+var mnemonic = "reopen once chuckle drama split alarm sniff shrug mix fuel law cricket";

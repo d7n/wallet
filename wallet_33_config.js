@@ -1,1 +1,1 @@
-var mnemonic = "category wage cradle armor cram brass dance wrap furnace coil nature enhance";
+var mnemonic = "sense wrap already level area quit zero matrix scene turn melody eye";

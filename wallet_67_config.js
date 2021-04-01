@@ -1,1 +1,1 @@
-var mnemonic = "doll alert sorry iron pink unhappy summer model problem nuclear knife sugar";
+var mnemonic = "brass ecology soda punch used idle doll pistol hub clever okay split";

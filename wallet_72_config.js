@@ -1,1 +1,1 @@
-var mnemonic = "income exile expect hat solution impulse proud hold dose trip axis amused";
+var mnemonic = "jealous punch peasant south shoulder joke inch keep young bag guess limit";

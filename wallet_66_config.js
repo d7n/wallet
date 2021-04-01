@@ -1,1 +1,1 @@
-var mnemonic = "robust target cake odor amateur wheel prevent soon hour desert idle stable";
+var mnemonic = "despair choose consider accident neglect stadium exhibit bid buyer bench hedgehog sail";

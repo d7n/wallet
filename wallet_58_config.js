@@ -1,1 +1,1 @@
-var mnemonic = "prosper debate harvest bring bitter usage silly hand similar carry gym trust";
+var mnemonic = "maximum fashion pig inner attack buddy admit fault use visit stick insect";

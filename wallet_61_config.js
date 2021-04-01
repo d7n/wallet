@@ -1,1 +1,1 @@
-var mnemonic = "gorilla memory vast unfold prepare water crunch verb shy avocado work dynamic";
+var mnemonic = "sure jump jar cliff tube dream vessel cancel marriage issue garage refuse";

@@ -1,1 +1,1 @@
-var mnemonic = "kit satisfy regular either slice dawn error three magic poem swim useless";
+var mnemonic = "gun fantasy before fresh decide chat cable social spare mean slight join";

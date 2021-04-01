@@ -1,1 +1,1 @@
-var mnemonic = "prize hotel fish evoke tail veteran light caught stock sugar ensure degree";
+var mnemonic = "process sunset memory name rough burst path cross hockey electric picture clog";

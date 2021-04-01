@@ -1,1 +1,1 @@
-var mnemonic = "chicken quiz because question luggage all gossip juice rabbit dial lottery first";
+var mnemonic = "design like silver evidence panda miss cash phone glue cloud vote expand";

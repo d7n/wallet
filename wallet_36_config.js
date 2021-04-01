@@ -1,1 +1,1 @@
-var mnemonic = "arrange piece patrol wasp ladder grain region where session flock blouse dragon";
+var mnemonic = "vacant lottery airport canyon warfare river glance morning message near slice put";

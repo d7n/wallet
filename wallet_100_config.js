@@ -1,1 +1,1 @@
-var mnemonic = "humble brown despair forget bracket vast always cloud road found ball marble";
+var mnemonic = "run rug all seek december height junk young material guess job welcome";

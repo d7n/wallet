@@ -1,1 +1,1 @@
-var mnemonic = "ostrich sight minimum song diary visa unhappy hybrid below thrive runway similar";
+var mnemonic = "quote wrist jewel act gate choice write chaos cargo relief treat dismiss";

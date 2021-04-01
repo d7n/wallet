@@ -1,1 +1,1 @@
-var mnemonic = "stable film alone bleak youth evoke pond evoke crew still slush small";
+var mnemonic = "neglect slender jacket truly maze drill twist smile human eye require ostrich";

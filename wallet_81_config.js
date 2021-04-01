@@ -1,1 +1,1 @@
-var mnemonic = "couple risk vocal put scatter cushion pink bronze walk march sunset sort";
+var mnemonic = "glare rent finish accident rather real marriage muscle design sail crystal unique";

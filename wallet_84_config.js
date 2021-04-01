@@ -1,1 +1,1 @@
-var mnemonic = "shadow echo garment lazy regular desk draft fly response embrace december prevent";
+var mnemonic = "soup thank blood easily powder trick usage sadness giant anchor clinic govern";

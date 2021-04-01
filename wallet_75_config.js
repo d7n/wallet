@@ -1,1 +1,1 @@
-var mnemonic = "legal benefit sample buzz office bulk case visit valley year expect equal";
+var mnemonic = "trial peanut door vessel know sign dinner harsh surface pig fix attitude";

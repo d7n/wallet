@@ -1,1 +1,1 @@
-var mnemonic = "keep net mask elite bicycle around like common dirt dentist industry ketchup";
+var mnemonic = "become method abandon tuna peace vital exhibit bracket odor wire cactus script";

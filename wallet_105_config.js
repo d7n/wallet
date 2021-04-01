@@ -1,1 +1,1 @@
-var mnemonic = "tribe music stove act air crater rent arrest grit wisdom account apart";
+var mnemonic = "congress egg hybrid purpose review boring thank tennis moral topple punch any";

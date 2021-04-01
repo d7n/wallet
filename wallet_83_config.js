@@ -1,1 +1,1 @@
-var mnemonic = "arrow pigeon proof trouble expire spike trip spin cost turn file void";
+var mnemonic = "carry this plug across often wall stay two just palm culture maple";

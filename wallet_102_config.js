@@ -1,1 +1,1 @@
-var mnemonic = "book race limit sadness boost candy frozen law nose wash orange hunt";
+var mnemonic = "furnace pipe famous garden diesel beef near shadow will promote insane daring";

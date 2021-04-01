@@ -1,1 +1,1 @@
-var mnemonic = "grain win cram dry grass forward chuckle name misery buffalo humble river";
+var mnemonic = "near wedding motion vital mammal winner waste wood sugar tube tuition brother";

@@ -1,1 +1,1 @@
-var mnemonic = "candy flag eager angle crouch hard success beyond fire vote case rely";
+var mnemonic = "repeat wisdom fire devote maximum goat retreat verb action dynamic proud spring";

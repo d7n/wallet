@@ -1,1 +1,1 @@
-var mnemonic = "curve cream acoustic sheriff segment shadow garment winner improve stadium rice width";
+var mnemonic = "plug pull dentist crane bargain brick often call useful pyramid federal hurdle";

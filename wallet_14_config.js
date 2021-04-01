@@ -1,1 +1,1 @@
-var mnemonic = "reflect method two curve lava keep fresh finger fury mushroom token topic";
+var mnemonic = "problem cigar good original also opinion crouch panic float vanish pulp news";

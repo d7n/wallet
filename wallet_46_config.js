@@ -1,1 +1,1 @@
-var mnemonic = "verb mixed huge pulse total review curious cat cactus essence bus steak";
+var mnemonic = "hold sunset mango clever chunk cruise print among gain door input ahead";

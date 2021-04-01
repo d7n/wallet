@@ -1,1 +1,1 @@
-var mnemonic = "frown powder reunion win fish coral inquiry reject winter job hammer badge";
+var mnemonic = "retire neither rotate coast mercy master bitter cotton anxiety change peasant purpose";

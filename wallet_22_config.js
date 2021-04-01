@@ -1,1 +1,1 @@
-var mnemonic = "toast lecture only diamond ritual resist tennis payment boy charge bracket accuse";
+var mnemonic = "dutch evoke extra matter shoe frost desk boy hawk sleep cargo trip";

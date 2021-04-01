@@ -1,1 +1,1 @@
-var mnemonic = "upset color all polar result spell miss garbage pigeon goddess soccer consider";
+var mnemonic = "toddler shine luggage team pluck soccer advance wrist height accident shoulder lunar";

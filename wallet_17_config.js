@@ -1,1 +1,1 @@
-var mnemonic = "gospel grit roast torch ranch trap item midnight sweet around spoon clinic";
+var mnemonic = "title public street roof assume any similar nation salute muscle ecology fetch";
