@@ -1,1 +1,1 @@
-var mnemonic = "grant fall alpha cause vague someone square glow garbage weather manage favorite";
+var mnemonic = "draft income bird average pyramid sword unhappy naive mesh rather mutual just";

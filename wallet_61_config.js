@@ -1,1 +1,1 @@
-var mnemonic = "luxury guitar donor radar describe stable sick unfold card also input able";
+var mnemonic = "position lemon remove hazard bulk giggle can fan fiscal alert despair actual";

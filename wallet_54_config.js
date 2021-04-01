@@ -1,1 +1,1 @@
-var mnemonic = "rival catch talent impulse duck brain park oppose area mother breeze brother";
+var mnemonic = "health tree base vessel canoe combine change nice heart become weekend charge";

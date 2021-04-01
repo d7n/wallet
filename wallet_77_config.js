@@ -1,1 +1,1 @@
-var mnemonic = "nest close scare then divorce swallow tomato reject candy fork coral miracle";
+var mnemonic = "carry host inspire must duty margin flavor combine skill gesture primary dilemma";

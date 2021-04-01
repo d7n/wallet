@@ -1,1 +1,1 @@
-var mnemonic = "use table collect alter amount rubber olive any search multiply fossil donate";
+var mnemonic = "top mystery october inflict evil mercy phone pony antenna mom oval one";

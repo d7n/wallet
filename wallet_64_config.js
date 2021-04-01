@@ -1,1 +1,1 @@
-var mnemonic = "match swap click swallow potato leaf legal emotion umbrella monster sun couple";
+var mnemonic = "success night canal dash hurdle custom limit blush lab sting text ghost";

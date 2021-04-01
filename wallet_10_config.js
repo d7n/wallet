@@ -1,1 +1,1 @@
-var mnemonic = "master alcohol file switch tiny please coin sword gather rhythm slush hole";
+var mnemonic = "chapter rifle scrub sick private civil cactus found nice lab boat office";

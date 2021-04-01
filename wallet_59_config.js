@@ -1,1 +1,1 @@
-var mnemonic = "ignore pulp axis dragon flag yard assault milk village kidney indicate inspire";
+var mnemonic = "wink property business ride income panic caution donkey knee media joy describe";

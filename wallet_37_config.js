@@ -1,1 +1,1 @@
-var mnemonic = "kitchen theme keen claim guide humble helmet erase armor sick swamp lazy";
+var mnemonic = "drip metal expand oblige fortune kitten neutral real fork claw soft organ";

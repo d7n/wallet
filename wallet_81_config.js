@@ -1,1 +1,1 @@
-var mnemonic = "grocery spice genre face future artefact march urge jar grab cook manual";
+var mnemonic = "battle current mystery venue regret foot depend resist stairs cereal funny tent";

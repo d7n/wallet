@@ -1,1 +1,1 @@
-var mnemonic = "excite address member bomb enact donate shrimp crash champion local senior pond";
+var mnemonic = "sick history next hood pet habit piece best slice dignity rhythm dad";

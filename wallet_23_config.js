@@ -1,1 +1,1 @@
-var mnemonic = "film design fuel jazz spray tent away asthma depth victory tag want";
+var mnemonic = "pumpkin brand delay primary lyrics once connect alarm until travel flag device";

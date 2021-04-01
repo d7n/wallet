@@ -1,1 +1,1 @@
-var mnemonic = "share sentence police tape slow angry angle traffic tenant minute scheme ski";
+var mnemonic = "code enjoy ball nice brain solar reveal wash fashion noise success jump";

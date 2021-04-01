@@ -1,1 +1,1 @@
-var mnemonic = "invest rely pear plug lizard idle diagram wreck wink setup walnut decrease";
+var mnemonic = "undo mammal suffer receive edit fold service beyond river oyster hire basic";

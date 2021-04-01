@@ -1,1 +1,1 @@
-var mnemonic = "top coach morning blood spoil engage notice canoe chapter bottom flower vintage";
+var mnemonic = "mercy secret hope all one rigid during tell volume cart whisper border";

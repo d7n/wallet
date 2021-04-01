@@ -1,1 +1,1 @@
-var mnemonic = "april hollow major filter lava whale duck say puppy little crisp issue";
+var mnemonic = "power voice grain foil donate dumb announce when embark absent ripple myself";

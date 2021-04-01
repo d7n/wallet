@@ -1,1 +1,1 @@
-var mnemonic = "reduce auto puzzle foil flash beach exact save private limb valve art";
+var mnemonic = "joke uphold margin night wink process because pizza among urban alone law";

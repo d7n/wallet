@@ -1,1 +1,1 @@
-var mnemonic = "cause shallow real december table claim already riot scene sample spoon guilt";
+var mnemonic = "truth gun picnic foam notable program surprise nephew orange level merit lecture";

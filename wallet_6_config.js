@@ -1,1 +1,1 @@
-var mnemonic = "admit blood bless bubble bachelor banana october wear tube waste fruit cabbage";
+var mnemonic = "staff away crew mother ticket broken biology inmate grocery bid glimpse film";

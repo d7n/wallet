@@ -1,1 +1,1 @@
-var mnemonic = "since fresh wrist latin slice borrow object purity gravity lucky false soon";
+var mnemonic = "arm climb obey duty social wheat skill engine light clarify village hockey";

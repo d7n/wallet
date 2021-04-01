@@ -1,1 +1,1 @@
-var mnemonic = "rival crew motor setup gadget word zone crew carpet file snow dish";
+var mnemonic = "strike couch perfect scissors smoke fault toast gravity weird lift trumpet thing";

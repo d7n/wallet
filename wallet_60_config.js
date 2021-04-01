@@ -1,1 +1,1 @@
-var mnemonic = "fragile decrease daring album spatial friend angry sniff frequent ribbon rebel tortoise";
+var mnemonic = "butter uphold piano viable word bench about ivory solar task bubble gospel";

@@ -1,1 +1,1 @@
-var mnemonic = "chicken slender top ribbon okay vote stuff rain divide clog habit sustain";
+var mnemonic = "demand habit snack avocado speak crime issue derive recall name useful short";

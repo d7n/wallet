@@ -1,1 +1,1 @@
-var mnemonic = "plunge require hero submit brass tattoo artefact source curve hammer tool honey";
+var mnemonic = "sheriff observe surprise echo advice load surge warm blossom birth test long";

@@ -1,1 +1,1 @@
-var mnemonic = "like speed sort mobile enemy inspire bottom man lens portion enhance oven";
+var mnemonic = "barrel glare woman oil chronic hover family around slab someone alert true";

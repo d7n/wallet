@@ -1,1 +1,1 @@
-var mnemonic = "drastic tortoise ask nothing major mirror dish fence sugar vague original heavy";
+var mnemonic = "body smooth convince unhappy little board park reflect element sock father limb";

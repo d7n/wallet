@@ -1,1 +1,1 @@
-var mnemonic = "interest example orbit expect denial crazy glass tuna picture liquid measure busy";
+var mnemonic = "frost crunch into scale kidney stage file kick river slow differ actor";

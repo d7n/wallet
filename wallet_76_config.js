@@ -1,1 +1,1 @@
-var mnemonic = "powder misery banana circle race work wish wreck casual dirt ready fortune";
+var mnemonic = "approve island nature sell hockey faculty announce canoe true focus burst mask";

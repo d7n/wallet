@@ -1,1 +1,1 @@
-var mnemonic = "spare survey device gospel fault syrup pizza turn little hotel laundry wedding";
+var mnemonic = "gallery cabin limit awake major conduct couch truck ramp unaware manage material";

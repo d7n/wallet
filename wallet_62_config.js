@@ -1,1 +1,1 @@
-var mnemonic = "open trick snake jeans ritual render lift excuse scan above tip belt";
+var mnemonic = "radio upgrade oxygen forget work dish unaware erase ball ankle fresh thumb";

@@ -1,1 +1,1 @@
-var mnemonic = "cruise brick venue page celery among peace rail coach ten tobacco scout";
+var mnemonic = "capital verify day abandon brick rival version ordinary session traffic forward task";

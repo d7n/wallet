@@ -1,1 +1,1 @@
-var mnemonic = "brisk dice borrow little pistol three cake angle sphere plug suit arctic";
+var mnemonic = "sunny fog couple coin remember proof legend angle behave negative pair female";

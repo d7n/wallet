@@ -1,1 +1,1 @@
-var mnemonic = "weapon task shallow deny leaf mountain two empower fish cloud cake decline";
+var mnemonic = "meat egg frame victory bottom involve helmet venture cook track random sort";

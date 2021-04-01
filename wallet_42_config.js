@@ -1,1 +1,1 @@
-var mnemonic = "someone prepare virus foot ramp source recycle jungle series vote myself install";
+var mnemonic = "finish clarify guess between shrug air asset panther raven bachelor dutch danger";

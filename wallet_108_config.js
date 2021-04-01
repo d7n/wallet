@@ -1,1 +1,1 @@
-var mnemonic = "final suspect alley elbow want rule slight flock cannon huge seek accuse";
+var mnemonic = "sad subject student broken torch elevator gloom ride enemy math announce auto";

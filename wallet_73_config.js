@@ -1,1 +1,1 @@
-var mnemonic = "wink disease hunt wisdom sudden decorate tunnel solar response aisle marriage give";
+var mnemonic = "awful expose kitten valve protect ridge mutual cheap brand motor speed swear";

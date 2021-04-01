@@ -1,1 +1,1 @@
-var mnemonic = "dentist steel erase warm gorilla mail injury margin they hedgehog estate once";
+var mnemonic = "gate thought twist behind panel vacant crawl organ body explain edge tool";

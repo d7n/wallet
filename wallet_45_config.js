@@ -1,1 +1,1 @@
-var mnemonic = "shield ecology island first despair tomato select undo wreck raw nephew subway";
+var mnemonic = "outer shadow excuse margin record name head pear machine habit vehicle modify";

@@ -1,1 +1,1 @@
-var mnemonic = "water explain multiply valve video brother popular jacket good shock cream diet";
+var mnemonic = "replace grant cook menu toss orange impose cause drip element trip myth";

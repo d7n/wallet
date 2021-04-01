@@ -1,1 +1,1 @@
-var mnemonic = "protect about wheel goddess two dizzy brother scatter february raven humble clap";
+var mnemonic = "manage harvest ugly box flame congress math foil coil vast mask museum";

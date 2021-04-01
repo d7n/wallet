@@ -1,1 +1,1 @@
-var mnemonic = "habit tell daring soldier dish more cube stage exhibit reduce impose kangaroo";
+var mnemonic = "smoke pumpkin cute relax income orange vintage country image sponsor good cushion";

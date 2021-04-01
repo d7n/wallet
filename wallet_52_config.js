@@ -1,1 +1,1 @@
-var mnemonic = "elegant embrace upset must jeans patient wine begin east humble husband phone";
+var mnemonic = "era hidden pride antenna visual chalk mix knee sausage loop will cover";

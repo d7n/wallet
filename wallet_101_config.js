@@ -1,1 +1,1 @@
-var mnemonic = "avocado fence gain cycle crisp protect bring forum great tuna sample flat";
+var mnemonic = "industry laugh solve tail swing rice vast under cotton pass distance occur";

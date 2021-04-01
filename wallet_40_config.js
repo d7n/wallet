@@ -1,1 +1,1 @@
-var mnemonic = "exhaust honey system online trumpet essay panda join come federal resemble media";
+var mnemonic = "print lobster jazz guess assault begin suspect audit economy tuna veteran gate";

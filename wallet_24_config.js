@@ -1,1 +1,1 @@
-var mnemonic = "volume circle enhance express sea slender offer hover marine steak fiction toe";
+var mnemonic = "beyond furnace height much tide fine ocean anxiety charge clutch arm hill";

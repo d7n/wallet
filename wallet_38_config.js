@@ -1,1 +1,1 @@
-var mnemonic = "easy globe blast soup light double garment ring tomato error cactus enforce";
+var mnemonic = "decline occur ahead tobacco recycle inhale aim female green steak chef goose";

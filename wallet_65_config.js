@@ -1,1 +1,1 @@
-var mnemonic = "skull march okay museum abandon sand prison shift hunt damage crisp peanut";
+var mnemonic = "detect milk maple clutch frost drill wall hunt nice beauty exchange hole";

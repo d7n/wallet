@@ -1,1 +1,1 @@
-var mnemonic = "host better jaguar mimic route general yellow settle anxiety alert wall end";
+var mnemonic = "tower spring trim core kite vocal genre hold autumn marble satoshi west";

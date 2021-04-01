@@ -1,1 +1,1 @@
-var mnemonic = "alter galaxy become swim blanket gun mail century salad smile ridge close";
+var mnemonic = "grape cream festival old only artefact foam tip biology toy property dream";

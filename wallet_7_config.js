@@ -1,1 +1,1 @@
-var mnemonic = "swim online memory tip inherit item pen wage discover anger tiny next";
+var mnemonic = "speed wait poverty train asset sleep exile pelican edge course stamp robust";

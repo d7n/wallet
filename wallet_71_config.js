@@ -1,1 +1,1 @@
-var mnemonic = "wisdom cargo come ceiling immense uncover gauge athlete sign stay outer snap";
+var mnemonic = "friend great half brick uphold shaft barely beyond foam board extend mercy";

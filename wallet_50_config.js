@@ -1,1 +1,1 @@
-var mnemonic = "ancient team size comic gentle outside short river custom pilot private hamster";
+var mnemonic = "balance fade vanish unfair permit observe flash foot key among make essay";

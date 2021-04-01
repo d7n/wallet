@@ -1,1 +1,1 @@
-var mnemonic = "twelve immense proof soap shiver erode key subway remove music mandate silent";
+var mnemonic = "amused double mention super daring inner injury glide soul industry remember young";

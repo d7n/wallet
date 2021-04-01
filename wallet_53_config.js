@@ -1,1 +1,1 @@
-var mnemonic = "round nut dad scatter soccer measure fitness blur ozone fine melody transfer";
+var mnemonic = "divert trend service lesson six crystal hidden banana liberty cake offer remain";

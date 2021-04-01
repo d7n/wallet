@@ -1,1 +1,1 @@
-var mnemonic = "famous cinnamon anger festival crack brother put want dolphin nice lock shove";
+var mnemonic = "degree around dove divorce margin much book napkin snow list ecology inspire";

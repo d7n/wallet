@@ -1,1 +1,1 @@
-var mnemonic = "local crystal cute six owner pull loan main hurdle husband forum decade";
+var mnemonic = "fiber shock medal recycle divide balance obvious disease brother inject jungle market";

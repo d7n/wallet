@@ -1,1 +1,1 @@
-var mnemonic = "blur result uphold often emerge brave essence garbage force movie panic dutch";
+var mnemonic = "home smart fancy mosquito maze dinner drum slab acid patrol click beyond";

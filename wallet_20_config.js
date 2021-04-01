@@ -1,1 +1,1 @@
-var mnemonic = "furnace online battle comfort sentence empty chair blood park hood fiscal always";
+var mnemonic = "basket bonus balcony vintage priority hundred sister matter nerve wide window only";

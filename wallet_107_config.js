@@ -1,1 +1,1 @@
-var mnemonic = "fortune frog oak shine private giggle leaf dwarf zoo coffee beauty among";
+var mnemonic = "always paper tongue public hold sauce amount proof tuition finger metal word";

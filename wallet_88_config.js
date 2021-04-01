@@ -1,1 +1,1 @@
-var mnemonic = "remember wool unfair desk source people total side soccer swing emerge useful";
+var mnemonic = "april fee beef trick moral top grant quote hill rate web someone";

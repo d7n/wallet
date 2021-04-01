@@ -1,1 +1,1 @@
-var mnemonic = "glad name drive innocent sniff remain veteran tackle address sample art arm";
+var mnemonic = "horror female region syrup plug sign protect hold coach adjust exclude snack";

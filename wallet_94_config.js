@@ -1,1 +1,1 @@
-var mnemonic = "define emotion ski erode subject domain copy path pumpkin absurd level crew";
+var mnemonic = "shaft indoor brave heavy occur broccoli illness artwork remain wine dentist fancy";

@@ -1,1 +1,1 @@
-var mnemonic = "burst profit empower sword pretty ketchup rifle tuna route rice pride juice";
+var mnemonic = "arm champion edit shell shuffle aware ship expect episode mesh liar judge";

@@ -1,1 +1,1 @@
-var mnemonic = "hair army duty song disease project option sport filter pelican season review";
+var mnemonic = "fan soldier illness student main noodle milk mean moral rich wolf planet";

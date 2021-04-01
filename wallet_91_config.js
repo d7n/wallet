@@ -1,1 +1,1 @@
-var mnemonic = "shoe able evoke awesome theory snap verb cliff morning dignity despair submit";
+var mnemonic = "roast profit fluid organ state exhaust spoon vague shove hospital deal fossil";

@@ -1,1 +1,1 @@
-var mnemonic = "physical piece resemble airport clean bone engine duck fish badge noise throw";
+var mnemonic = "panel trumpet robot regular volcano crane very little cancel review seven hand";

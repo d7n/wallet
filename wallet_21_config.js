@@ -1,1 +1,1 @@
-var mnemonic = "large there flush true wear box check spirit chunk sport civil spray";
+var mnemonic = "law tonight magic expose wisdom lazy subway debris tower army clock raccoon";

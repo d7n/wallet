@@ -1,1 +1,1 @@
-var mnemonic = "this random sample click capable sugar sting urban fragile snap design shoot";
+var mnemonic = "disagree pottery bomb brave frame inspire hub hour input armor hungry hammer";

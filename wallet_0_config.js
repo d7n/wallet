@@ -1,1 +1,1 @@
-var mnemonic = "farm student gallery unveil globe celery barrel certain rural eight kidney frost";
+var mnemonic = "deposit quote concert brave diamond pig hurt flee sphere dad item notice";

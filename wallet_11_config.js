@@ -1,1 +1,1 @@
-var mnemonic = "trap lounge garage genuine hint push lunar bonus thumb crop hill random";
+var mnemonic = "curious achieve another genius rocket blood weapon stem project insect transfer response";

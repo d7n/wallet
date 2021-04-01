@@ -1,1 +1,1 @@
-var mnemonic = "upset desk river frozen okay input skull grief arrive tuition web giant";
+var mnemonic = "nut inherit stock night artist jealous avoid toast pepper oak powder casino";

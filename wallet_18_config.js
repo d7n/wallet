@@ -1,1 +1,1 @@
-var mnemonic = "write skirt blade order ridge spot service energy crime patrol sniff hello";
+var mnemonic = "night sight joy object mandate piece eternal pupil faint noodle mix typical";

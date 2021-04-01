@@ -1,1 +1,1 @@
-var mnemonic = "funny hazard length aspect pelican east undo parrot tattoo frost wheat dance";
+var mnemonic = "remember opinion install fence fox great tomorrow badge end crawl jewel collect";

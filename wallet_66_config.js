@@ -1,1 +1,1 @@
-var mnemonic = "crater coil eight please concert jewel prevent never upon cat moon danger";
+var mnemonic = "box inform shock disorder economy behave cause orbit such soldier reflect cube";

@@ -1,1 +1,1 @@
-var mnemonic = "bring mixed throw pipe sorry number track six very cliff steak august";
+var mnemonic = "food dress march frozen dune walk baby nest dice knife tortoise cart";

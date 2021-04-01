@@ -1,1 +1,1 @@
-var mnemonic = "penalty critic bonus weird scissors noise idle fee air hood lion emerge";
+var mnemonic = "sure subway kangaroo awkward rifle market fun live speed stumble fox keen";

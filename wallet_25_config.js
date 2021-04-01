@@ -1,1 +1,1 @@
-var mnemonic = "zero length outer parade nominee treat daring judge club make tank march";
+var mnemonic = "patch crisp follow reopen three ghost lift inspire cup urge need wing";

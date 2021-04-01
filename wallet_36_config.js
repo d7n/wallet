@@ -1,1 +1,1 @@
-var mnemonic = "corn spread roast humble lamp attack subject middle federal velvet stem layer";
+var mnemonic = "immense vote hair garbage cigar light soap little verb hobby direct impose";

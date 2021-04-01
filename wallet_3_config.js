@@ -1,1 +1,1 @@
-var mnemonic = "pepper bag orient cliff depart almost kiwi viable spring broccoli spread music";
+var mnemonic = "guess wheat squirrel oxygen valve surround address horn design cereal enter pass";

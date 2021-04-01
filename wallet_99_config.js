@@ -1,1 +1,1 @@
-var mnemonic = "manual ring heavy carry audit nephew ring prepare diet issue mercy noodle";
+var mnemonic = "render script slogan aerobic desk little rib tongue crystal opera light jeans";

@@ -1,1 +1,1 @@
-var mnemonic = "later spare kiss frame manual mandate bike carpet equip gorilla glow neither";
+var mnemonic = "couch boost fan daring copy leave sister wall one sun position ticket";

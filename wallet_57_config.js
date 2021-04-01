@@ -1,1 +1,1 @@
-var mnemonic = "bean annual resist toddler riot tree exit swallow common image reward improve";
+var mnemonic = "sign matrix horn off kind repair club actual kitten famous bag tree";

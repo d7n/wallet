@@ -1,1 +1,1 @@
-var mnemonic = "child struggle rotate skin banana balcony swing mask replace cereal fork gain";
+var mnemonic = "melody mushroom enforce border ostrich since robust impose brief decrease enable thought";

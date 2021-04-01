@@ -1,1 +1,1 @@
-var mnemonic = "magic tail idle exhaust regret flip assist clip divert digital defy north";
+var mnemonic = "corn symbol dog fashion neglect music damp typical hold spend beef course";

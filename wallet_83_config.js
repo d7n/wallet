@@ -1,1 +1,1 @@
-var mnemonic = "wine tiny lobster train cube real logic muscle crunch wisdom drop safe";
+var mnemonic = "plate balcony wild bid country little logic chapter table weasel snow quantum";

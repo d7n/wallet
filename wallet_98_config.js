@@ -1,1 +1,1 @@
-var mnemonic = "rocket globe permit abandon regret goat fall embody choice tilt welcome adapt";
+var mnemonic = "truth buddy document miracle increase earth ensure rate cause day hurt diet";
