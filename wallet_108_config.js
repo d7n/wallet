@@ -1,1 +1,1 @@
-var mnemonic = "play fix act mad churn doctor wolf glue seat health physical follow";
+var mnemonic = "depart spoil oblige juice walnut elephant violin mail concert gold monkey sausage";

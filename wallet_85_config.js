@@ -1,1 +1,1 @@
-var mnemonic = "congress find beach fan risk tennis life laugh purpose either skate street";
+var mnemonic = "room ignore still desert laundry hobby seminar vital scout size agent garbage";

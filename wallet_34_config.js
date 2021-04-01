@@ -1,1 +1,1 @@
-var mnemonic = "lamp spray sibling truth domain remain apart body gossip useful net path";
+var mnemonic = "bracket rate swear saddle step scene icon vendor license donor volume split";

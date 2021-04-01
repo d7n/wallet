@@ -1,1 +1,1 @@
-var mnemonic = "wool erupt soul rebel thumb region universe reform ritual damage today decrease";
+var mnemonic = "wedding flock endless unfair identify peasant merry into track swallow okay sleep";

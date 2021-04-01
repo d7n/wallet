@@ -1,1 +1,1 @@
-var mnemonic = "initial sell viable pony remind enemy fortune negative toy boost easy phrase";
+var mnemonic = "enjoy smoke wage pact large scare top hospital bullet hundred glow episode";

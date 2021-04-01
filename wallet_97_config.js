@@ -1,1 +1,1 @@
-var mnemonic = "injury punch improve bulb knife noodle like welcome reflect remember width hill";
+var mnemonic = "run tell pattern crime either game census learn surge father mechanic melt";

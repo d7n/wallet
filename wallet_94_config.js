@@ -1,1 +1,1 @@
-var mnemonic = "protect multiply degree rural among naive palm patch tuition spot chaos spawn";
+var mnemonic = "life sorry enrich liar loop horn cinnamon funny sick acquire credit interest";

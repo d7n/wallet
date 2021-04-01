@@ -1,1 +1,1 @@
-var mnemonic = "green yard select legend verify metal lion dentist start chalk wasp visual";
+var mnemonic = "cabbage camera layer skirt warfare copper estate click smile angry monitor planet";

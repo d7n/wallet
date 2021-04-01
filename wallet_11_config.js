@@ -1,1 +1,1 @@
-var mnemonic = "curious child artwork sock call learn cute beach enroll vehicle share mother";
+var mnemonic = "camera renew cricket breeze lunar tool dish frozen human ocean step lawsuit";

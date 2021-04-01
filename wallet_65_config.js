@@ -1,1 +1,1 @@
-var mnemonic = "almost invite rent allow gallery hungry top yellow indoor grocery leaf tennis";
+var mnemonic = "bench walnut fame extend ribbon flight frost select stage flight cargo leg";

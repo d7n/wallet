@@ -1,1 +1,1 @@
-var mnemonic = "absent second hammer route route collect stomach cabin lemon wing wing subject";
+var mnemonic = "raven brain true lonely engage toddler close gossip window chef exhaust hint";

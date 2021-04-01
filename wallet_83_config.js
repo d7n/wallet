@@ -1,1 +1,1 @@
-var mnemonic = "accident save female morning salon company brown genius explain dinner elevator rabbit";
+var mnemonic = "sport turn theme draft escape concert sing number genre letter loyal afraid";

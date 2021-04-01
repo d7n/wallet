@@ -1,1 +1,1 @@
-var mnemonic = "verb power praise lock gloom first super book orphan weather lumber october";
+var mnemonic = "wreck final venture bullet shell tongue wash sting arch never toss athlete";

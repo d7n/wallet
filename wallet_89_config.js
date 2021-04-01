@@ -1,1 +1,1 @@
-var mnemonic = "loan spawn neck elegant before taxi private decline enough rent expect error";
+var mnemonic = "test rough nominee assume evoke alter endless rose target point radio donate";

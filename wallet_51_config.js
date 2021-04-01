@@ -1,1 +1,1 @@
-var mnemonic = "kidney carry welcome poem damp minimum spoil track alley addict achieve cruise";
+var mnemonic = "differ crunch tray art manual embark innocent arrow isolate develop lottery globe";

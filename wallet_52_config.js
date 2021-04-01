@@ -1,1 +1,1 @@
-var mnemonic = "total shift bachelor salt wide poverty monster skirt record dress firm potato";
+var mnemonic = "cake snack answer invite hero icon visit leaf patch bright fold chair";

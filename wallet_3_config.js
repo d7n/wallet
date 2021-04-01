@@ -1,1 +1,1 @@
-var mnemonic = "next estate place need tackle outdoor panther prevent yellow girl congress also";
+var mnemonic = "little thank funny slam bid glow budget movie mountain inspire dignity monster";

@@ -1,1 +1,1 @@
-var mnemonic = "chest comfort match document cabbage mixed define arrange onion rose inside mosquito";
+var mnemonic = "render despair issue glove dolphin spice rule cabbage cover motion direct banner";

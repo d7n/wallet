@@ -1,1 +1,1 @@
-var mnemonic = "same screen ripple session tray notable ski bag hollow cross visit forward";
+var mnemonic = "again decline solve depend scrap relief ghost regret hedgehog oppose submit town";

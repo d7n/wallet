@@ -1,1 +1,1 @@
-var mnemonic = "wedding awake ordinary pipe quarter tobacco december blossom surge avoid flash open";
+var mnemonic = "gate success sand slow once radar doll screen color draft region bubble";

@@ -1,1 +1,1 @@
-var mnemonic = "scout large inch soon vocal rapid pitch rack program spin glass follow";
+var mnemonic = "census topple hurry nose wrap riot column aerobic punch fossil poverty sudden";

@@ -1,1 +1,1 @@
-var mnemonic = "liquid cattle flee zone argue rigid blind valve sword undo myth topic";
+var mnemonic = "general awake almost creek industry news wide magic force element chronic stable";

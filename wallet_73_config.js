@@ -1,1 +1,1 @@
-var mnemonic = "neutral profit medal melt problem visa tube sword beach cluster apart moon";
+var mnemonic = "defy bargain suffer disease cereal canvas lock brown urban fire panel slam";

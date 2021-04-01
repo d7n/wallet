@@ -1,1 +1,1 @@
-var mnemonic = "type tank upset wet extend wild recipe dinosaur force entire abstract same";
+var mnemonic = "enjoy fetch upgrade rally doctor episode easy tenant pair pattern absurd juice";

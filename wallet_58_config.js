@@ -1,1 +1,1 @@
-var mnemonic = "version neck grief caution client unhappy rare cactus onion slot curtain member";
+var mnemonic = "avoid hole sustain merit essay gown pulse dance velvet trim tide tooth";

@@ -1,1 +1,1 @@
-var mnemonic = "ability grant depth sister first possible napkin clog absorb half asthma two";
+var mnemonic = "globe morning clock math wink choose topple stem excite auction trash output";

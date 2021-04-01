@@ -1,1 +1,1 @@
-var mnemonic = "surge close sorry little merge easily weird tray illness blossom soda absent";
+var mnemonic = "guilt donkey sponsor index path mom surge photo shift wet bright ripple";

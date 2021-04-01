@@ -1,1 +1,1 @@
-var mnemonic = "dose fetch soap six amazing vibrant foil page myself tobacco glad simple";
+var mnemonic = "original often snake cushion extend chunk afraid cool tent tired inhale tourist";

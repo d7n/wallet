@@ -1,1 +1,1 @@
-var mnemonic = "travel mix ticket verify clown gesture snack pizza age radar twenty tumble";
+var mnemonic = "claw tired chef pupil source amount sleep decorate yellow surround major okay";

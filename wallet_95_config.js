@@ -1,1 +1,1 @@
-var mnemonic = "sort person winner enjoy rifle leopard when rally snack cat regret eagle";
+var mnemonic = "position throw object merry abstract year easy front tent impact letter learn";

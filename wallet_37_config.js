@@ -1,1 +1,1 @@
-var mnemonic = "interest decorate gate pond filter stem express load tunnel bargain area horror";
+var mnemonic = "account piece impose gas horse skull size entry economy true lend budget";

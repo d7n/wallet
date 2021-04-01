@@ -1,1 +1,1 @@
-var mnemonic = "tomato sketch unlock vague whip race weasel zero concert boost picnic now";
+var mnemonic = "fancy valid capable make lava globe doctor young second slogan outside deal";

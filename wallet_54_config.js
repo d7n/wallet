@@ -1,1 +1,1 @@
-var mnemonic = "twice tube exchange chalk birth quality burger protect okay candy custom pattern";
+var mnemonic = "network employ process lobster silver fish mountain suggest toddler display regular clog";

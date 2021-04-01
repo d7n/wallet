@@ -1,1 +1,1 @@
-var mnemonic = "pulp foot own wet during setup region canvas stay iron because mind";
+var mnemonic = "nuclear wait upgrade that neutral ladder tide announce uncle pulp patrol topple";

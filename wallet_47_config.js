@@ -1,1 +1,1 @@
-var mnemonic = "valley shoe slow fork south silver sketch ancient army split minute boat";
+var mnemonic = "source legal fun answer oil scrub fetch person midnight song shaft farm";

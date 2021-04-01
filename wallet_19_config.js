@@ -1,1 +1,1 @@
-var mnemonic = "conduct bitter tongue spray scene frozen analyst victory top cause beyond girl";
+var mnemonic = "load output okay client nature fold crunch glow flash right boost awful";

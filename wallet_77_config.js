@@ -1,1 +1,1 @@
-var mnemonic = "chief owner provide emerge vital worth category across someone impose thunder claw";
+var mnemonic = "update unknown wink element earth flush flash enjoy expire agent foster toilet";

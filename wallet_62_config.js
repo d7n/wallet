@@ -1,1 +1,1 @@
-var mnemonic = "risk magic sauce loop erupt toss much talent below misery bus mask";
+var mnemonic = "couch else ripple unique comfort observe fee romance odor health melody humor";

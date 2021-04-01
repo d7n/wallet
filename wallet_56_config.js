@@ -1,1 +1,1 @@
-var mnemonic = "door van iron fire property wine enroll hockey route end hole rebuild";
+var mnemonic = "shoot grape twenty gas void industry recall kind tomorrow page senior split";

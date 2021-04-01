@@ -1,1 +1,1 @@
-var mnemonic = "core permit cluster sign advice wing bracket master weapon also eagle scout";
+var mnemonic = "advance please skirt shiver talent mobile fee mixed metal ramp speak glow";

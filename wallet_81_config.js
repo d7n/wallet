@@ -1,1 +1,1 @@
-var mnemonic = "level point uphold below upset false ride satisfy object tank leave better";
+var mnemonic = "innocent night injury cattle coach liberty fortune siren proof satoshi sphere travel";

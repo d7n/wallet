@@ -1,1 +1,1 @@
-var mnemonic = "candy legal place flee cover critic burst night achieve about problem pause";
+var mnemonic = "huge combine maze critic element orange canvas symbol sort bridge jelly winter";

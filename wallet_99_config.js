@@ -1,1 +1,1 @@
-var mnemonic = "mail select sort fortune machine swing name quarter carry when small orient";
+var mnemonic = "crumble scale foster awful extend boil time agent exact table task cotton";

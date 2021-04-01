@@ -1,1 +1,1 @@
-var mnemonic = "defy setup isolate fit together interest correct airport slush tray wage join";
+var mnemonic = "dove where hero ski mix welcome upper across vote mind meat repair";

@@ -1,1 +1,1 @@
-var mnemonic = "swim spice they whale skate master into bundle security lock vibrant scout";
+var mnemonic = "skin jealous extend hen club tone wrestle deal purity abandon shallow fashion";

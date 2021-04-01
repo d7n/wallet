@@ -1,1 +1,1 @@
-var mnemonic = "sing endorse sand mom chunk weather six vicious pulse lumber guitar allow";
+var mnemonic = "shoe tide joy monster estate electric genuine sort office main exotic trend";

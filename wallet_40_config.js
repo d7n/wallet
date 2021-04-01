@@ -1,1 +1,1 @@
-var mnemonic = "invite belt polar auction tail suffer abstract comfort again nuclear gospel believe";
+var mnemonic = "skull kind weather harsh disease distance goat stick giraffe stuff lift balcony";

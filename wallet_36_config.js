@@ -1,1 +1,1 @@
-var mnemonic = "salute husband vacuum toddler pill tomorrow enter lawsuit final van mesh huge";
+var mnemonic = "health tray used sail fault slush slam fresh gaze found scout tomato";

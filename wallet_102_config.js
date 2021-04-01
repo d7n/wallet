@@ -1,1 +1,1 @@
-var mnemonic = "unknown approve motor crunch scrub bitter season night pottery cargo again region";
+var mnemonic = "again margin mind cage item accident thrive mean depth mail mention slide";

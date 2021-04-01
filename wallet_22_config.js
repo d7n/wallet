@@ -1,1 +1,1 @@
-var mnemonic = "decline main subway someone sing actress floor wire drum dog shy hello";
+var mnemonic = "town smile elder squeeze armed wreck tourist reject bread flight know tree";

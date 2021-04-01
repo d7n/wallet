@@ -1,1 +1,1 @@
-var mnemonic = "arch desert page truth violin wisdom radar view gain famous immune air";
+var mnemonic = "track lesson south embark frost prevent adjust space brass spider heavy balcony";

@@ -1,1 +1,1 @@
-var mnemonic = "moment hidden village item army stool news nurse endless caution whisper come";
+var mnemonic = "extend actual edit attend gap web butter defy buddy height census fuel";

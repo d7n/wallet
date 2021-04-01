@@ -1,1 +1,1 @@
-var mnemonic = "exhibit alien verify demand slow outer admit super concert top payment tuition";
+var mnemonic = "budget execute rule common quick illegal rookie utility palace kid demise garment";

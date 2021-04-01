@@ -1,1 +1,1 @@
-var mnemonic = "combine submit tunnel eternal donate often clump viable wage tissue chalk vendor";
+var mnemonic = "response milk side distance brush chest bachelor lens melt juice before frame";

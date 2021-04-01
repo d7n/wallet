@@ -1,1 +1,1 @@
-var mnemonic = "same myth purpose soup dance safe erosion radio share broom sick jacket";
+var mnemonic = "recall sea entire over disorder vendor route pumpkin expire jealous brand enhance";

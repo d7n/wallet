@@ -1,1 +1,1 @@
-var mnemonic = "happy west awesome attitude only manual scout defy evidence example tiny december";
+var mnemonic = "hazard perfect creek puppy concert profit dinner hand acquire clarify today mouse";

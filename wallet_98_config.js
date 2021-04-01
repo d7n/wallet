@@ -1,1 +1,1 @@
-var mnemonic = "end champion usual window immense lab cradle hold toss wave coast glass";
+var mnemonic = "genuine live hello smoke exchange attitude assume tiny satoshi east regular maze";

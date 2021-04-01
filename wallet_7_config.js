@@ -1,1 +1,1 @@
-var mnemonic = "write repeat mail someone box there hurry similar series theme mystery bottom";
+var mnemonic = "extra mother sting mask index icon slim unlock six imitate boil public";

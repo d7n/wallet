@@ -1,1 +1,1 @@
-var mnemonic = "october dumb faint dog bronze cheap fork neck early virus strike gas";
+var mnemonic = "brass rice gloom giraffe push prize easy deal palace anchor solution loud";

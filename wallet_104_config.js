@@ -1,1 +1,1 @@
-var mnemonic = "more grain zebra giant onion song system transfer cabin hair relief lunar";
+var mnemonic = "genre toe run cable bag iron crane gap please wool silver wire";

@@ -1,1 +1,1 @@
-var mnemonic = "duty session impulse stadium laundry hen rubber bunker rubber runway topic keen";
+var mnemonic = "sport voice rail rally promote deputy switch stamp item tomorrow toward peace";

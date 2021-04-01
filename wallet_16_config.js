@@ -1,1 +1,1 @@
-var mnemonic = "keen slight army vanish mistake fiction hour range armed wire garlic evolve";
+var mnemonic = "survey kit sausage diary drive can session mail seek forest glove lock";

@@ -1,1 +1,1 @@
-var mnemonic = "blast garbage reveal antenna silver fiction future decorate curve sunny surprise stomach";
+var mnemonic = "amazing scale book ability blouse buzz pretty display spoil collect object stove";

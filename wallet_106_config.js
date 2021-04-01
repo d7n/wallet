@@ -1,1 +1,1 @@
-var mnemonic = "roof nose alcohol interest blur appear blast tilt comic general protect next";
+var mnemonic = "crush gown chaos pretty since genius gain develop upgrade sauce spoil truth";

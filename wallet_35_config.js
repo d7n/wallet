@@ -1,1 +1,1 @@
-var mnemonic = "sponsor relief romance simple canyon gaze exotic link prevent swim level naive";
+var mnemonic = "coin normal volume sleep need add cinnamon adapt cabbage choose news quiz";

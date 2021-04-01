@@ -1,1 +1,1 @@
-var mnemonic = "agent assume stomach tail stone minute aware mansion render produce pride term";
+var mnemonic = "easy other bind subject cement enlist divide image foil profit reveal bag";

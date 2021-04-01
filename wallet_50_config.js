@@ -1,1 +1,1 @@
-var mnemonic = "champion muffin rather click disease soft knife column lyrics genuine bottom firm";
+var mnemonic = "grunt sweet banana uncle palace light prison obey survey keen demand arch";

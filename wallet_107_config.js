@@ -1,1 +1,1 @@
-var mnemonic = "suffer vast salt fire lady fall auto click wagon void sight battle";
+var mnemonic = "inmate exile shell profit buzz copy mechanic hockey smooth wise start reject";

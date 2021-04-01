@@ -1,1 +1,1 @@
-var mnemonic = "wild cross abandon peanut aunt fat bright husband muffin orange soda speak";
+var mnemonic = "glue enable despair head excess problem curious always million sign tuition agent";

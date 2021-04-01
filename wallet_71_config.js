@@ -1,1 +1,1 @@
-var mnemonic = "unknown stand toy expand spirit trigger birth paddle coral afford choose box";
+var mnemonic = "recipe cool transfer market movie fashion donate olive artist plunge scissors parade";

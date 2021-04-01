@@ -1,1 +1,1 @@
-var mnemonic = "expose eye library audit portion noodle forum left float shallow utility brick";
+var mnemonic = "sign outside blush van tuna charge initial focus test twice return pluck";

@@ -1,1 +1,1 @@
-var mnemonic = "slab topple toward skull forum category rib kidney steak winter toast tunnel";
+var mnemonic = "produce athlete eager drop scout slim zebra submit empower picture tide inquiry";

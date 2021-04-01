@@ -1,1 +1,1 @@
-var mnemonic = "actress hair sphere join believe two segment imitate discover maple century valley";
+var mnemonic = "salad flush chunk lazy river general toward multiply fuel street swarm meadow";

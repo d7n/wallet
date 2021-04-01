@@ -1,1 +1,1 @@
-var mnemonic = "excess group scale frequent myth between spring fetch night panther taste analyst";
+var mnemonic = "wear walk response duck power annual quote aerobic useless scorpion noble power";

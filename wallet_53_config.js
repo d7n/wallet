@@ -1,1 +1,1 @@
-var mnemonic = "worry kingdom betray top chunk boat avoid bottom gift anchor copy maid";
+var mnemonic = "way example fog corn admit badge pen void kick milk comfort digital";

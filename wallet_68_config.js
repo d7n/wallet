@@ -1,1 +1,1 @@
-var mnemonic = "infant asset fee federal accuse affair lend practice bunker vintage extra palm";
+var mnemonic = "crush distance faint certain century green umbrella before south horse over lock";

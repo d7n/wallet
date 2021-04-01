@@ -1,1 +1,1 @@
-var mnemonic = "wisdom captain quarter margin pull ghost civil subject bean camp design thrive";
+var mnemonic = "ethics idea network fat stone disorder pony capable output sadness pepper dizzy";

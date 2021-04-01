@@ -1,1 +1,1 @@
-var mnemonic = "badge dream viable baby address slush enforce quick brave moon space tone";
+var mnemonic = "shallow spawn example wonder game total pony dinner dry edge legend neglect";

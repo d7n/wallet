@@ -1,1 +1,1 @@
-var mnemonic = "rough segment spike snack wool piece kitchen begin polar kiss arch mandate";
+var mnemonic = "trim frown outside response eyebrow spot jewel wall harvest thing danger wise";

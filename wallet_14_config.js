@@ -1,1 +1,1 @@
-var mnemonic = "arrange verb announce disagree pottery amateur actor layer virus mesh donate sunny";
+var mnemonic = "basic legend way web utility fold reform bright promote year offer speak";

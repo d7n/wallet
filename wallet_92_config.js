@@ -1,1 +1,1 @@
-var mnemonic = "penalty space blossom stage sunny member volcano retreat enemy vague muscle torch";
+var mnemonic = "myself vibrant daring absent switch all muffin fresh process wagon welcome father";

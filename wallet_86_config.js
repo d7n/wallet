@@ -1,1 +1,1 @@
-var mnemonic = "skin tower blade fatal gun average purpose seat response trend select ankle";
+var mnemonic = "concert series lamp sister boat chimney kingdom enough token pass jaguar medal";

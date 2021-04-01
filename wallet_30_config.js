@@ -1,1 +1,1 @@
-var mnemonic = "erase moral enrich skill news side town van muffin donate token gaze";
+var mnemonic = "vast more digital first bike hour bachelor wise brave myth curve thing";

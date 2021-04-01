@@ -1,1 +1,1 @@
-var mnemonic = "seat deal virtual rude zone apart glory foam jealous churn home mom";
+var mnemonic = "jealous zoo blue reward stay fantasy exhibit state area mutual brass slam";

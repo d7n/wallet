@@ -1,1 +1,1 @@
-var mnemonic = "bulb raw kingdom journey artwork gentle access depend claim organ brush toddler";
+var mnemonic = "valley track census finish song stamp busy trim cover that company fold";

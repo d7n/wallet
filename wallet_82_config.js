@@ -1,1 +1,1 @@
-var mnemonic = "domain enough snow lunch addict bicycle claw lonely west found put scatter";
+var mnemonic = "shoot chair solar mobile grape defense few pole world method era castle";

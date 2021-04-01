@@ -1,1 +1,1 @@
-var mnemonic = "decline opera nation teach toddler easily skin student alien gossip thank basic";
+var mnemonic = "boy tobacco approve innocent fortune exchange stone notable dinosaur coral motion spare";

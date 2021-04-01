@@ -1,1 +1,1 @@
-var mnemonic = "volume social palace afraid truth absurd ugly soup absurd gate pioneer salad";
+var mnemonic = "emotion thunder bind alpha dutch roast door dune kick animal angle rent";
